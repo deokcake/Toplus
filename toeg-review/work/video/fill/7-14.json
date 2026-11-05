@@ -296,78 +296,78 @@
   ]
  },
  "E": {
-  "title": "bird's를 대신하는 소유격 대명사",
-  "intro": "이 문제는 밑줄 친 bird's를 대신할 알맞은 소유격 대명사를 고르는 문제예요.",
-  "problem_narration": "다음 밑줄 친 부분을 대신할 말로 알맞은 것을 고르세요. The bird's nest is in the tree. 밑줄 친 부분은 bird's예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "title": "The bird's를 대신하는 소유격 대명사",
+  "intro": "이 문제는 밑줄 친 The bird's를 대신할 알맞은 소유격 대명사를 고르는 문제예요.",
+  "problem_narration": "다음 밑줄 친 부분을 대신할 말로 알맞은 것을 고르세요. The bird's nest is in the tree. 밑줄 친 부분은 The bird's예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
   "rule": {
    "card": [
     "명사 앞의 Jim's(짐의) 같은 말 → 소유격 대명사로 바꿔 쓸 수 있어요.",
     "남자 한 명 → his, 여자 한 명 → her",
     "사물·동물 하나 → its, 여럿 → their",
+    "앞의 the, my 같은 말까지 함께 바꿔요 (my dad's → his)",
     "예) Jim's cap → His cap is blue. (그의 모자는 파란색이에요.)"
    ],
-   "narration": "명사 앞에 오는 Jim's는 짐의라는 뜻으로, 뒤에 오는 명사가 누구의 것인지 나타내요. 이런 말은 소유격 대명사로 바꿔 쓸 수 있어요. 남자 한 명의 것은 his, 여자 한 명의 것은 her, 사물이나 동물 하나의 것은 보통 its, 여럿의 것은 their를 써요. 예를 들어 Jim이 남자라면 Jim's cap은 His cap으로 바꿔요. His cap is blue. 그의 모자는 파란색이에요."
+   "narration": "Jim's처럼 명사 앞에서 누구의 것인지 나타내는 말은 소유격 대명사로 바꿔 써요. 남자 한 명은 his, 여자 한 명은 her, 사물이나 동물 하나는 보통 its, 여럿은 their예요. 이때 앞에 붙은 my나 the까지 함께 바꾸니까, my dad's는 전체가 his가 돼요. 예를 들어 Jim's cap은 His cap으로 바꿔요. His cap is blue. 그의 모자는 파란색이에요."
   },
   "steps": [
    {
-    "note": "bird's = 새의 → 둥지의 주인은 the bird(동물 한 마리).",
+    "note": "The bird's = 그 새의 → 둥지의 주인은 the bird(동물 한 마리).",
     "highlight": [
-     "bird's",
+     "The bird's",
      "nest"
     ],
     "strike": [],
-    "narration": "첫째, 밑줄 친 bird's는 새의라는 뜻이라, 둥지의 주인은 새 한 마리예요."
+    "narration": "첫째, 밑줄 친 The bird's는 그 새의라는 뜻이라, 둥지의 주인은 새 한 마리예요."
    },
    {
-    "note": "her(여자 한 명), their(여럿), my(나의), our(우리의) 지움.",
+    "note": "Her(여자 한 명), Their(여럿), My(나의), Our(우리의) 지움.",
     "highlight": [],
     "strike": [
-     "① her",
-     "④ their",
-     "⑤ my",
-     "③ our"
+     "① Her",
+     "④ Their",
+     "⑤ My",
+     "③ Our"
     ],
-    "narration": "둘째, her는 여자 한 명, their는 여럿, my와 our는 나와 우리의 것에 쓰니 지워요."
+    "narration": "둘째, Her는 여자 한 명, Their는 여럿, My와 Our는 나와 우리의 것에 쓰니 지워요."
    },
    {
-    "note": "동물 하나의 것 → its. 앞의 The도 함께 바꾼다: Its nest is in the tree.",
+    "note": "동물 하나의 것 → its. 밑줄 친 The bird's 전체를 바꾸니 The까지 함께: Its nest is in the tree.",
     "highlight": [
-     "② its",
-     "The"
+     "② Its"
     ],
     "strike": [],
-    "narration": "셋째, 새처럼 동물 하나의 것은 보통 its예요. 앞의 The까지 함께 바꾸면 Its nest is in the tree. 그것의 둥지는 나무에 있어요."
+    "narration": "셋째, 새처럼 동물 하나의 것은 보통 its예요. 밑줄 친 The bird's 전체를 바꾸니까 앞의 The까지 함께 Its가 돼요. Its nest is in the tree. 그것의 둥지는 나무에 있어요."
    }
   ],
   "check": {
    "lines": [
-    "① her  ✗  여자 한 명의 것에 써요",
-    "② its  ✓  동물 한 마리인 새의 것 → its",
-    "③ our  ✗  나를 포함한 여럿, 곧 ‘우리의’ 것에 써요",
-    "④ their  ✗  여럿의 것에 써요 (새는 한 마리)",
-    "⑤ my  ✗  말하는 사람, 곧 ‘나의’ 것에 써요"
+    "① Her  ✗  여자 한 명의 것에 써요",
+    "② Its  ✓  동물 한 마리인 새의 것 → The까지 함께 Its로",
+    "③ Our  ✗  나를 포함한 여럿, 곧 ‘우리의’ 것에 써요",
+    "④ Their  ✗  여럿의 것에 써요 (새는 한 마리)",
+    "⑤ My  ✗  말하는 사람, 곧 ‘나의’ 것에 써요"
    ],
-   "narration": "정답은 2번 its예요. 4번 their는 여럿의 것에 쓰는데, 새는 한 마리예요. 1번 her는 여자 한 명의 것에 쓰는 말이라 이 새에는 맞지 않아요. 5번 my는 나의라는 뜻이라 새의 것을 나타내지 못해요."
+   "narration": "정답은 2번 Its예요. 4번 Their는 여럿의 것에 쓰는데, 새는 한 마리예요. 1번 Her는 여자 한 명의 것에 쓰는 말이라 이 새에는 맞지 않아요. 5번 My는 나의라는 뜻이라 새의 것을 나타내지 못해요."
   },
   "summary": {
    "card": "주인을 보고: 남자 한 명 his, 여자 한 명 her, 사물·동물 하나 its, 여럿 their",
-   "narration": "정답은 2번이에요. 기억할 것, the bird's처럼 사물이나 동물 하나의 것은 보통 앞의 the까지 함께 its로 바꿔요. 남자 한 명은 his, 여자 한 명은 her, 여럿은 their예요."
+   "narration": "정답은 2번이에요. 기억할 것, the bird's처럼 동물 하나의 것은 앞의 the까지 함께 its로 바꿔요."
   },
   "captions": [
-   "bird's를 대신할 말",
+   "The bird's를 대신할 말",
    "먼저 풀어 보세요",
    "누구의 것? his, her, its, their",
-   "새 한 마리 → its",
-   "정답 ② its",
+   "새 한 마리 → The까지 Its",
+   "정답 ② Its",
    "사물·동물 하나 → its"
   ],
   "sec": [
-   10,
-   15,
-   28,
-   36,
-   26,
-   12
+   8,
+   12,
+   18,
+   30,
+   20,
+   8
   ]
  },
  "F": {
