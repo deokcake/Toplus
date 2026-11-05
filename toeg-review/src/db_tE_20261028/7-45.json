@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T07:49:09.206Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "those - they",
+      "1": "that - they",
+      "2": "that - it",
+      "3": null,
+      "4": "those - it"
+    },
+    "expl": "핵심 규칙: this(이것)·that(저것)은 한 개를 가리켜 is와 쓰고, these(이것들)·those(저것들)는 여러 개를 가리켜 are와 쓴다. 대답에서는 this/that을 it으로, these/those를 they로 받는다.\n풀이 순서: ① 질문의 be동사가 Is이므로 첫 빈칸에는 한 개를 가리키는 지시대명사가 온다. → ② 대답의 be동사(isn't)에 맞는 대명사는 it. → ③ 둘을 갖춘 것은 that - it.\n문장별 판정:\n정답 판단: 한 개를 가리키는 that과 대답의 it을 바르게 짝지었으므로 정답은 ③이다.\n선택지 분석:\n① [오답] those는 여러 개를 가리켜 Is와 함께 쓸 수 없으므로 오답이다.\n② [오답] that이 가리키는 한 개는 대답에서 it으로 받으므로 오답이다.\n③ [정답] 한 개를 가리키는 that과 대답의 it을 바르게 짝지었으므로 정답이다.\n④ [오답] these는 여러 개를 가리켜 Is와 함께 쓸 수 없으므로 오답이다.\n⑤ [오답] those는 여러 개를 가리켜 Is와 함께 쓸 수 없으므로 오답이다.",
+    "passage": "A: Is ________ his car?\nB: No, ________ isn't.",
+    "stem": "다음 대화의 빈칸에 알맞은 말이 순서대로 짝지어진 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T07:49:07.675Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T07:49:09.206Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T07:49:09.206Z",
+      "what": "확인 완료"
+    }
+  }
+}

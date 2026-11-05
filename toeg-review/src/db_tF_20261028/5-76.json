@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:55:44.453Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Walks the cat quietly.",
+      "1": "The walks cat quietly.",
+      "2": null,
+      "3": "Cat the walks quietly.",
+      "4": "The quietly cat walks."
+    },
+    "expl": "핵심 규칙: 영어 문장은 주어 + 동사 + 목적어·보어의 어순으로 쓴다. 형용사는 명사 앞(a + 형용사 + 명사)이나 be동사 뒤에, very는 꾸미는 형용사·부사 바로 앞에, 동사를 꾸미는 부사는 보통 문장 끝에 둔다.\n풀이 순서: ① 주어와 동사를 먼저 찾는다: the cat / walks. → ② 나머지를 묶는다: 부사 quietly는 동사 뒤. → ③ 주어 + 동사 + 나머지의 순서로 놓는다. 정답은 ③.\n문장별 판정:\n정답 판단: 주어 + 동사 + 부사의 어순으로 바르게 배열했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 동사 walks로 문장을 시작해 주어 + 동사의 어순이 아니므로 오답이다.\n② [오답] 동사 walks가 the와 명사 cat 사이에 끼어들었으므로 오답이다.\n③ [정답] 주어 + 동사 + 부사의 어순으로 바르게 배열했으므로 정답이다.\n④ [오답] the는 명사 cat 앞에 와야 하므로 오답이다.\n⑤ [오답] 부사 quietly는 명사 앞이 아니라 동사 walks를 꾸미는 자리에 와야 하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 주어진 단어를 적절하게 배열하여 올바른 문장을 완성한 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:55:41.464Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:55:44.453Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:55:44.453Z",
+      "what": "확인 완료"
+    }
+  }
+}

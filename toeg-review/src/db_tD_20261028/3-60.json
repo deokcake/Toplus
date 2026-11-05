@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-23T18:08:40.473Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: did/didn't와 조동사(can, may, must, should, might) 뒤에는 동사원형을 쓰며, to나 -ing·과거형·-s를 붙이지 않는다.\n풀이 순서: ① 문장마다 did/didn't나 조동사를 찾는다. → ② 그 뒤의 동사가 원형인지 확인한다. 과거형(-ed, 불규칙 과거형), -s, -ing, to가 붙으면 틀린다. → ③ ⓒ만 틀렸다. can reads가 아니라 can read다. 옳은 문장은 4개이다.\n문장별 판정:\nⓐ O. didn't + 동사원형이다.\nⓑ O. Did + 주어 + 동사원형이다.\nⓒ X. can 뒤에는 동사원형(read)을 쓴다.\nⓓ O. should + 동사원형이다.\nⓔ O. must + 동사원형이다.\n정답 판단: 어법상 옳은 문장은 ⓐ, ⓑ, ⓓ, ⓔ로 4개이다.\n선택지 분석:\n① [오답] 어법상 옳은 문장은 ⓐ, ⓑ, ⓓ, ⓔ로 4개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 어법상 옳은 문장은 ⓐ, ⓑ, ⓓ, ⓔ로 4개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 어법상 옳은 문장은 ⓐ, ⓑ, ⓓ, ⓔ로 4개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [정답] 어법상 옳은 문장은 ⓐ, ⓑ, ⓓ, ⓔ로 4개이다. 이 보기의 4개는 실제 개수와 일치한다.\n⑤ [오답] 어법상 옳은 문장은 ⓐ, ⓑ, ⓓ, ⓔ로 4개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "ⓐ I didn't eat lunch because I wasn't hungry.\nⓑ Did they go to the beach last weekend?\nⓒ Tom can reads very fast for his age.\nⓓ Jane should rest before the big game tomorrow.\nⓔ We must study hard for the final exam.",
+    "stem": "다음 중 어법상 옳은 문장의 개수는?"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:08:40.473Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:08:40.473Z",
+      "what": "확인 완료"
+    }
+  }
+}

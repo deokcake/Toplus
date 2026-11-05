@@ -1,0 +1,177 @@
+{
+ "key": "5-6",
+ "type": "E",
+ "grade": 5,
+ "chapter": "CH 1 대명사",
+ "title": "주격과 소유격 구별하기",
+ "total_sec": 120,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 1 대명사 · 6번 · E 유형\n\n이 문제는 밑줄 친 대명사가 주격인지 소유격인지 따져서, 성격이 다른 하나를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 1 대명사 · 6번 · E 유형",
+     "이 문제는 밑줄 친 대명사가 주격인지 소유격인지 따져서, 성격이 다른 하나를 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 1, 6번 E 유형. 이 문제는 밑줄 친 대명사가 주격인지 소유격인지 따져서, 성격이 다른 하나를 고르는 문제예요.",
+   "caption": "주격과 소유격 구별하기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 13,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분의 성격이 나머지 넷과 다른 것은?\n\n① That is <u>her</u> bag.\n② This is <u>your</u> book.\n③ <u>We</u> are ready.\n④ Those are <u>his</u> socks.\n⑤ These are <u>their</u> cars.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 밑줄 친 부분의 성격이 나머지 넷과 다른 것은?",
+     "① That is <u>her</u> bag.",
+     "② This is <u>your</u> book.",
+     "③ <u>We</u> are ready.",
+     "④ Those are <u>his</u> socks.",
+     "⑤ These are <u>their</u> cars."
+    ]
+   },
+   "narration": "다음 중 밑줄 친 부분의 성격이 나머지 넷과 다른 것은 무엇일까요? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n인칭대명사는 쓰이는 자리에 따라 모양이 달라져요.\n주격: 문장의 주어 자리 (나는, 그는) → I, you, he, she, it, we, they\n소유격: 명사 앞에서 그 명사를 꾸밈 (나의, 그의) → my, your, his, her, its, our, their\n예) He loves his dog. (그는 그의 개를 사랑해요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "인칭대명사는 쓰이는 자리에 따라 모양이 달라져요.",
+     "주격: 문장의 주어 자리 (나는, 그는) → I, you, he, she, it, we, they",
+     "소유격: 명사 앞에서 그 명사를 꾸밈 (나의, 그의) → my, your, his, her, its, our, their",
+     "예) He loves his dog. (그는 그의 개를 사랑해요.)"
+    ]
+   },
+   "narration": "인칭대명사는 쓰이는 자리에 따라 모양이 달라져요. 문장의 주어가 되어 나는, 그는처럼 쓰이면 I, he, she, we, they 같은 주격이에요. 명사 앞에서 나의, 그의처럼 누구의 것인지 나타내면 my, his, her, our, their 같은 소유격이에요. He loves his dog. 그는 그의 개를 사랑해요. 주어 He는 주격이고, 명사 dog 앞의 his는 소유격이에요.",
+   "caption": "주어는 주격, ‘~의’는 소유격"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 33,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분의 성격이 나머지 넷과 다른 것은?\n\n① That is <u>her</u> bag.\n② This is <u>your</u> book.\n③ <u>We</u> are ready.\n④ Those are <u>his</u> socks.\n⑤ These are <u>their</u> cars.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "<u>her</u> bag",
+       "<u>your</u> book",
+       "<u>his</u> socks",
+       "<u>their</u> cars"
+      ],
+      "strike": [],
+      "note": "밑줄 바로 뒤를 본다: her bag, your book, his socks, their cars → 모두 명사가 온다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① That is <u>her</u> bag.",
+       "② This is <u>your</u> book.",
+       "④ Those are <u>his</u> socks.",
+       "⑤ These are <u>their</u> cars."
+      ],
+      "note": "명사를 꾸며 ‘~의’ → 소유격 넷은 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "<u>We</u> are"
+      ],
+      "strike": [],
+      "note": "문장 맨 앞 We, 바로 뒤에 동사 are → 주어로 쓰인 주격 → 성격이 다른 것은 ③"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 밑줄 친 말 바로 뒤를 보세요. her 뒤에는 bag, your 뒤에는 book, his 뒤에는 socks, their 뒤에는 cars라는 명사가 와요. 둘째, 이 넷은 뒤의 명사를 꾸며 그녀의, 너의, 그의, 그들의라는 뜻을 나타내는 소유격이에요. 셋째, 3번 We는 문장 맨 앞에 있고 바로 뒤에 동사 are가 오니까, 주어로 쓰인 주격이라 혼자 성격이 달라요. We are ready. 우리는 준비가 됐어요.",
+   "caption": "밑줄 뒤에 명사? 동사?"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① That is <u>her</u> bag.  ✗  목적격과 모양만 같고, 명사 bag 앞의 소유격 (그녀의)\n② This is <u>your</u> book.  ✗  you가 아닌 your, 명사 book 앞의 소유격 (너의)\n③ <u>We</u> are ready.  ✓  동사 are 앞의 주어 → 주격 (우리는)\n④ Those are <u>his</u> socks.  ✗  명사 socks 앞의 소유격 (그의)\n⑤ These are <u>their</u> cars.  ✗  명사 cars 앞의 소유격 (그들의)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① That is <u>her</u> bag.  ✗  목적격과 모양만 같고, 명사 bag 앞의 소유격 (그녀의)",
+     "② This is <u>your</u> book.  ✗  you가 아닌 your, 명사 book 앞의 소유격 (너의)",
+     "③ <u>We</u> are ready.  ✓  동사 are 앞의 주어 → 주격 (우리는)",
+     "④ Those are <u>his</u> socks.  ✗  명사 socks 앞의 소유격 (그의)",
+     "⑤ These are <u>their</u> cars.  ✗  명사 cars 앞의 소유격 (그들의)"
+    ]
+   },
+   "narration": "정답은 3번 We예요. We는 동사 are 앞에서 주어로 쓰인 주격이에요. 1번 her는 목적격으로도 쓰이는 말이라 헷갈릴 수 있어요. 하지만 여기서는 명사 bag 앞에서 그녀의라는 뜻이라 소유격이에요. 2번 your는 you와 달리 명사 book 앞에서 너의라는 뜻을 나타내는 소유격이에요.",
+   "caption": "정답 ③ We"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ <u>We</u> are ready.\n\n명사 앞에서 ‘~의’ → 소유격,  문장의 주어 → 주격",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ <u>We</u> are ready.",
+     "명사 앞에서 ‘~의’ → 소유격,  문장의 주어 → 주격"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 명사 앞에서 누구의 것인지 나타내면 소유격, 문장의 주어로 쓰이면 주격이에요.",
+   "caption": "명사 앞은 소유격, 주어는 주격"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 밑줄 친 부분의 성격이 나머지 넷과 다른 것은?",
+  "passage": "",
+  "c": [
+   "That is <u>her</u> bag.",
+   "This is <u>your</u> book.",
+   "<u>We</u> are ready.",
+   "Those are <u>his</u> socks.",
+   "These are <u>their</u> cars."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 명사 앞에 쓰이면 소유격(my, your, our, his), 동사 앞 주어 자리에 쓰이면 주격(they)이다.\n풀이 순서: ① 밑줄 바로 뒤를 본다. 명사가 오면 소유격, 동사가 오면 주격이다. → ② 선택지 ③의 We 뒤에는 동사 are가 온다. 주격이다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: We are ready. — 밑줄 친 'We'는 문장의 주어로 쓰인 주격대명사이다. 나머지 네 선택지는 소유격이므로 문법적 성격이 달라 정답은 ③이다.\n선택지 분석:\n① [오답] That is her bag. — 밑줄 친 'her'는 바로 뒤 명사를 꾸며 소유를 나타내는 소유격이다. 나머지의 공통 기능인 소유격과 같으므로 정답이 아니다.\n② [오답] This is your book. — 밑줄 친 'your'는 바로 뒤 명사를 꾸며 소유를 나타내는 소유격이다. 나머지의 공통 기능인 소유격과 같으므로 정답이 아니다.\n③ [정답] We are ready. — 밑줄 친 'We'는 문장의 주어로 쓰인 주격대명사이다. 나머지 네 선택지는 소유격이므로 문법적 성격이 달라 정답이다.\n④ [오답] Those are his socks. — 밑줄 친 'his'는 바로 뒤 명사를 꾸며 소유를 나타내는 소유격이다. 나머지의 공통 기능인 소유격과 같으므로 정답이 아니다.\n⑤ [오답] These are their cars. — 밑줄 친 'their'는 바로 뒤 명사를 꾸며 소유를 나타내는 소유격이다. 나머지의 공통 기능인 소유격과 같으므로 정답이 아니다."
+ }
+}

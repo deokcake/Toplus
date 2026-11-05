@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:25:13.841Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "out",
+      "1": "over",
+      "2": "off",
+      "3": "up",
+      "4": "down"
+    },
+    "expl": "핵심 규칙: turn down an offer는 제안을 거절하다, turn the music down은 음악 소리를 낮추다라는 뜻이다.\n풀이 순서: ① 두 문장에 같은 말이 들어가야 한다. 한 문장씩 가능한 말을 떠올린다. → ② turn down은 ‘거절하다’, slow down은 ‘(속도를) 줄이다’다. → ③ 두 문장에 모두 맞는 down가 정답이다.\n문장별 판정:\n정답 판단: turn down(거절하다)과 slow down(속도를 줄이다) 모두 down이 알맞으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] turn out·slow out은 ‘판명되다’ 등으로 문맥과 맞지 않으므로 오답이다.\n② [오답] turn over는 ‘뒤집다’라 제안을 거절하는 뜻이 아니므로 오답이다.\n③ [오답] turn off는 ‘끄다’라 제안을 거절하는 뜻이 아니므로 오답이다.\n④ [오답] turn up은 ‘나타나다·키우다’라 제안을 거절하는 뜻이 아니므로 오답이다.\n⑤ [정답] turn down(거절하다)과 slow down(속도를 줄이다) 모두 down이 알맞으므로 정답이다.",
+    "passage": "Tom turned _____ the job offer from the big company.\nPlease slow _____ ; you are driving too fast.",
+    "stem": "다음 빈칸에 공통으로 들어갈 말로 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T01:18:00.240Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:18:08.040Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:25:13.841Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:25:10.282Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:25:13.841Z",
+      "what": "확인 완료"
+    }
+  }
+}

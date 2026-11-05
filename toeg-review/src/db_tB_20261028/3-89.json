@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:03:04.565Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "ⓐ의 'playing'은 진행형의 일부로, 지금 바이올린을 연주하는 중이라는 뜻이다.",
+      "1": "ⓐ의 'practice'는 동명사를 목적어로 취하는 동사이므로 뒤에 'playing'이 왔다.",
+      "2": "ⓐ의 'playing'은 뒤의 'the violin'을 꾸며 주는 현재분사(형용사 역할)이다.",
+      "3": "ⓐ는 'practices to play'로 바꿔도 같은 뜻의 옳은 문장이다.",
+      "4": "ⓐ는 주어가 3인칭 단수이므로 'playing' 대신 'plays'를 써야 옳다."
+    },
+    "expl": "핵심 규칙: keep, practice, give up, avoid, finish, enjoy 등은 동명사를 목적어로 쓴다. 이때 -ing는 진행형이나 명사를 꾸미는 현재분사가 아니라 동사의 목적어(명사 역할)이다.\n풀이 순서: ① playing 앞의 동사 practices를 본다. → ② practice는 동명사를 목적어로 쓰는 동사다. 진행형이나 현재분사라는 설명, to부정사로 바꿔도 된다는 설명, 주어의 인칭 때문이라는 설명은 맞지 않는다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: practice는 동명사를 목적어로 쓰므로 정답은 ②이다.\n선택지 분석:\n① [오답] -ing가 진행형의 일부가 아니라 동사의 목적어(동명사)이므로 오답이다.\n② [정답] practice는 동명사를 목적어로 쓰므로 정답이다.\n③ [오답] -ing가 명사를 꾸미는 현재분사가 아니라 동사의 목적어(동명사)이므로 오답이다.\n④ [오답] 이 동사는 to부정사를 목적어로 쓰지 않아 틀린 문장이 되므로 오답이다.\n⑤ [오답] 3인칭 단수 -s는 이미 practices에 붙었고, 한 문장에 동사를 두 번 쓸 수 없으므로 오답이다.",
+    "passage": "My sister loves music. She ⓐ<u>practices playing</u> the violin every evening. Someday she wants to be a violinist.",
+    "stem": "다음 지문을 읽고 밑줄 친 ⓐ에 대한 설명으로 가장 적절한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:02:49.269Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:03:04.565Z",
+      "what": "확인 완료"
+    }
+  }
+}

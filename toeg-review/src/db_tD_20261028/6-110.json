@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T06:43:07.437Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "ㄱ",
+      "1": "ㄴ",
+      "2": "ㄱ, ㄷ",
+      "3": "ㄴ, ㄷ",
+      "4": "ㄱ, ㄴ"
+    },
+    "expl": "핵심 규칙: 명령문은 주어 you를 생략하고 동사원형으로 시작하며, 부정은 Don't + 동사원형(Don't be …)으로 쓴다. Let's의 부정은 Let's not + 동사원형이고, Let's + 동사원형은 Shall we/Why don't we + 동사원형?, How about + -ing?와 뜻이 비슷하다.\n풀이 순서: ① <보기>의 설명마다 실제로 문장을 바꿔 써 본다. → ② ㄱ O, ㄴ How about playing(X), ㄷ we가 주어(X). → ③ 옳은 것만 모으면 ㄱ이다.\n문장별 판정:\nㄱ O. Let's와 Shall we는 모두 함께 하자는 제안이다.\nㄴ X. How about 뒤에는 -ing형을 써서 How about playing a game?이 된다.\nㄷ X. Mina는 초대할 대상(목적어)이고 주어는 we이다.\n정답 판단: 옳은 설명은 ㄱ이다.\n선택지 분석:\n① [정답] 옳은 설명 ㄱ를 빠짐없이 골랐으므로 정답이다.\n② [오답] ㄴ는 옳은 설명이 아니고, 옳은 설명 ㄱ를 빠뜨렸다. 따라서 오답이다.\n③ [오답] ㄷ는 옳은 설명이 아니다. 따라서 오답이다.\n④ [오답] ㄴ, ㄷ는 옳은 설명이 아니고, 옳은 설명 ㄱ를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] ㄴ는 옳은 설명이 아니다. 따라서 오답이다.",
+    "passage": "We have free time. (A)<u>Let's play</u> a game. (B)<u>Shall we invite</u> Mina?\n<보기>\nㄱ. (A)는 'Shall we play a game?'과 뜻이 비슷하다.\nㄴ. (A)를 How about으로 바꾸면 'How about play a game?'이 된다.\nㄷ. (B)의 주어는 Mina이므로 Shall we 대신 Does Mina를 써야 한다.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T06:43:05.973Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T06:43:07.437Z",
+      "what": "확인 완료"
+    }
+  }
+}

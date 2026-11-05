@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-20T12:04:11.668Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Christmas is December <u>twenty-fifth</u>.",
+      "1": "My birthday is July <u>nineth</u>.",
+      "2": "I sat in the <u>sixth</u> row.",
+      "3": "He is the <u>first</u> student in line.",
+      "4": "This is her <u>thirteenth</u> birthday."
+    },
+    "expl": "핵심 규칙: 서수는 대부분 기수 + th로 만들지만, first, second, third는 따로 외우고 fifth(five), ninth(nine), twelfth(twelve), eighth(eight), twentieth(twenty)처럼 철자가 바뀌는 것에 주의한다.\n풀이 순서: ① 밑줄 친 서수마다 바탕이 되는 기수를 떠올린다. → ② 그냥 th만 붙이면 안 되는 낱말(third, fifth, eighth, ninth, twelfth, twentieth 등)을 따로 확인한다. → ③ nine → ninth(e를 뺀다). 정답은 ②.\n문장별 판정:\n정답 판단: nine의 서수는 e를 빼고 ninth로 쓰므로 정답은 ②이다.\n선택지 분석:\n① [오답] 서수(twenty-fifth)의 철자가 바르므로 오답이다.\n② [정답] nine의 서수는 e를 빼고 ninth로 쓰므로 정답이다.\n③ [오답] 서수(sixth)의 철자가 바르므로 오답이다.\n④ [오답] 서수(first)의 철자가 바르므로 오답이다.\n⑤ [오답] 서수(thirteenth)의 철자가 바르므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 서수의 철자가 틀린 문장을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-20T12:04:10.952Z"
+  },
+  "tab": "n2uhrol0",
+  "updatedAt": "2026-10-20T12:04:11.668Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-20T12:04:11.668Z",
+      "what": "확인 완료"
+    }
+  }
+}

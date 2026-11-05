@@ -1,0 +1,463 @@
+{
+ "A": {
+  "title": "be동사 과거형과 buy의 과거형",
+  "intro": "이 문제는 과거의 일에 맞는 be동사와 buy의 과거형을 짝지어 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르세요. Penelope 빈칸 not tall before, I 빈칸 a flower for my mom. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지난 때를 나타내는 말 (yesterday, last week …) → 동사를 과거형으로",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "일반동사 과거형: 대부분 + ed (play → played) · 불규칙 (go → went)",
+    "예) Mia was sick, so she went home. (미아는 아파서 집에 갔어요.)"
+   ],
+   "narration": "yesterday처럼 지난 때를 나타내는 말이 있으면 동사를 과거형으로 써요. be동사는 주어가 I나 he, she, it 같은 3인칭 단수이면 was, you나 복수이면 were를 써요. 일반동사는 대부분 ed를 붙이고, go와 went처럼 모양이 따로 있는 불규칙 동사도 있어요. Mia was sick, so she went home. 미아는 아파서 집에 갔어요."
+  },
+  "steps": [
+   {
+    "note": "before(전에) → 과거, Penelope = 3인칭 단수 → was. was가 아닌 ③④⑤ 지움",
+    "highlight": [
+     "Penelope",
+     "before"
+    ],
+    "strike": [
+     "③ were - buyed",
+     "④ were - bought",
+     "⑤ is - brought"
+    ],
+    "narration": "첫째, before, 곧 전에라는 말이 있어 과거의 일이고 Penelope는 3인칭 단수이니, was가 아닌 3번, 4번, 5번은 지워요."
+   },
+   {
+    "note": "남은 ①② → buy의 과거형은 불규칙 bought, buyed는 없는 말 → ① 지움",
+    "highlight": [
+     "I _______ a flower for my mom."
+    ],
+    "strike": [
+     "① was - buyed"
+    ],
+    "narration": "둘째, 남은 1번과 2번 가운데 buy의 과거형은 불규칙형 bought이고 buyed라는 말은 없으니, 1번도 지워요."
+   },
+   {
+    "note": "② was - bought → Penelope was not tall before. / I bought a flower for my mom.",
+    "highlight": [
+     "② was - bought"
+    ],
+    "strike": [],
+    "narration": "셋째, 2번을 넣으면 Penelope was not tall before. 페넬로페는 전에는 키가 크지 않았어요. I bought a flower for my mom. 나는 엄마를 위해 꽃을 샀어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① was - buyed  ✗  buy의 과거형은 bought · buyed는 없는 말",
+    "② was - bought  ✓  Penelope에 was, buy의 과거형 bought",
+    "③ were - buyed  ✗  Penelope에는 was · buyed도 없는 말",
+    "④ were - bought  ✗  bought는 맞지만 Penelope에는 were가 아닌 was",
+    "⑤ is - brought  ✗  before가 있는 과거의 일 · is가 아닌 was"
+   ],
+   "narration": "정답은 2번 was와 bought예요. 4번은 bought는 맞지만, Penelope는 3인칭 단수라 were가 아니라 was를 써야 해요. 1번은 was는 맞지만, buy는 불규칙 동사라 과거형이 buyed가 아니라 bought예요. 5번 is는 현재형이라 before가 있는 과거의 일에 맞지 않아요."
+  },
+  "summary": {
+   "card": "지난 일: I, 3인칭 단수 → was · you, 복수 → were · 일반동사도 과거형 (buy → bought)",
+   "narration": "정답은 2번이에요. 기억할 것, 지난 일은 과거형, be동사는 I와 3인칭 단수에 was, you와 복수에 were예요."
+  },
+  "captions": [
+   "be동사·buy의 과거형",
+   "먼저 풀어 보세요",
+   "지난 일은 과거형으로",
+   "before → was → bought",
+   "정답 ② was - bought",
+   "was·were + 일반동사 과거형"
+  ],
+  "sec": [
+   10,
+   20,
+   28,
+   34,
+   23,
+   12
+  ]
+ },
+ "B": {
+  "title": "be동사 과거형과 drive의 과거형",
+  "intro": "이 문제는 과거의 일에 맞는 be동사와 drive의 과거형을 짝지어 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르세요. The road 빈칸 icy last night, so Dad 빈칸 very slowly. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지난 때를 나타내는 말 (yesterday, last week …) → 동사를 과거형으로",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "일반동사 과거형: 대부분 + ed (play → played) · 불규칙 (go → went)",
+    "예) Mia was sick, so she went home. (미아는 아파서 집에 갔어요.)"
+   ],
+   "narration": "yesterday처럼 지난 때를 나타내는 말이 있으면 동사를 과거형으로 써요. be동사는 주어가 I나 he, she, it 같은 3인칭 단수이면 was, you나 복수이면 were를 써요. 일반동사는 대부분 ed를 붙이고, go와 went처럼 모양이 따로 있는 불규칙 동사도 있어요. Mia was sick, so she went home. 미아는 아파서 집에 갔어요."
+  },
+  "steps": [
+   {
+    "note": "last night(어젯밤) → 과거, The road = 3인칭 단수 → was. ③ is, ④ were 지움",
+    "highlight": [
+     "The road",
+     "last night"
+    ],
+    "strike": [
+     "③ is - drove",
+     "④ were - drove"
+    ],
+    "narration": "첫째, last night, 곧 어젯밤의 일이라 과거형을 쓰고 The road는 3인칭 단수이니, was가 아닌 3번 is와 4번 were는 지워요."
+   },
+   {
+    "note": "drive의 과거형은 불규칙 drove → 현재형 drive ①, 없는 말 drived ② 지움",
+    "highlight": [
+     "so Dad _______ very slowly."
+    ],
+    "strike": [
+     "① was - drive",
+     "② was - drived"
+    ],
+    "narration": "둘째, drive는 불규칙 동사라 과거형이 drove이니, 현재형 drive인 1번과 없는 말 drived인 2번도 지워요."
+   },
+   {
+    "note": "⑤ was - drove → The road was icy last night, so Dad drove very slowly.",
+    "highlight": [
+     "⑤ was - drove"
+    ],
+    "strike": [],
+    "narration": "셋째, 5번을 넣으면 The road was icy last night, so Dad drove very slowly. 어젯밤에 길이 얼어서 아빠는 아주 천천히 운전했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① was - drive  ✗  어젯밤 일이라 drive가 아닌 과거형 drove",
+    "② was - drived  ✗  drive의 과거형은 불규칙 drove · drived는 없는 말",
+    "③ is - drove  ✗  last night이 있어 현재형 is가 아닌 was",
+    "④ were - drove  ✗  The road는 3인칭 단수라 were가 아닌 was",
+    "⑤ was - drove  ✓  The road에 was, drive의 과거형 drove"
+   ],
+   "narration": "정답은 5번 was와 drove예요. 2번 drived는 ed를 붙인 꼴이지만, drive는 불규칙 동사라 과거형이 drove예요. 4번 were는 you나 복수 주어에 쓰는 말이라, 3인칭 단수 The road에는 was를 써야 해요. 3번 is는 현재형이라 last night과 어울리지 않아요."
+  },
+  "summary": {
+   "card": "지난 일: I, 3인칭 단수 → was · you, 복수 → were · 일반동사도 과거형 (drive → drove)",
+   "narration": "정답은 5번이에요. 기억할 것, 지난 일은 과거형, be동사는 I와 3인칭 단수에 was, you와 복수에 were예요."
+  },
+  "captions": [
+   "be동사·drive의 과거형",
+   "먼저 풀어 보세요",
+   "지난 일은 과거형으로",
+   "last night → was → drove",
+   "정답 ⑤ was - drove",
+   "was·were + 일반동사 과거형"
+  ],
+  "sec": [
+   10,
+   20,
+   28,
+   34,
+   23,
+   12
+  ]
+ },
+ "C": {
+  "title": "be동사 과거형과 swim의 과거형",
+  "intro": "이 문제는 과거의 일에 맞는 be동사와 swim의 과거형을 짝지어 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르세요. Tom and I 빈칸 at the beach yesterday, We 빈칸 in the sea all day. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지난 때를 나타내는 말 (yesterday, last week …) → 동사를 과거형으로",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "일반동사 과거형: 대부분 + ed (play → played) · 불규칙 (go → went)",
+    "예) We were cold, so we went inside. (우리는 추워서 안에 들어갔어요.)"
+   ],
+   "narration": "yesterday처럼 지난 때를 나타내는 말이 있으면 동사를 과거형으로 써요. be동사는 주어가 I나 he, she, it 같은 3인칭 단수이면 was, you나 복수이면 were를 써요. 일반동사는 대부분 ed를 붙이고, go와 went처럼 모양이 따로 있는 불규칙 동사도 있어요. We were cold, so we went inside. 우리는 추워서 안에 들어갔어요."
+  },
+  "steps": [
+   {
+    "note": "yesterday → 과거, 주어 Tom and I = 두 사람(복수) → were. ② was, ④ are 지움",
+    "highlight": [
+     "Tom and I",
+     "yesterday"
+    ],
+    "strike": [
+     "② was - swam",
+     "④ are - swam"
+    ],
+    "narration": "첫째, yesterday가 있어 과거의 일이고 주어 Tom and I는 두 사람, 곧 복수이니, were가 아닌 2번 was와 4번 are는 지워요."
+   },
+   {
+    "note": "swim의 과거형은 불규칙 swam → 없는 말 swimmed ③, 현재형 swim ⑤ 지움",
+    "highlight": [
+     "We _______ in the sea all day."
+    ],
+    "strike": [
+     "③ were - swimmed",
+     "⑤ were - swim"
+    ],
+    "narration": "둘째, 바다에서 수영한 것도 어제의 일이고 swim의 과거형은 불규칙형 swam이니, 없는 말 swimmed인 3번과 현재형 swim인 5번도 지워요."
+   },
+   {
+    "note": "① were - swam → Tom and I were at the beach yesterday. / We swam in the sea all day.",
+    "highlight": [
+     "① were - swam"
+    ],
+    "strike": [],
+    "narration": "셋째, 1번을 넣으면 Tom and I were at the beach yesterday. 톰과 나는 어제 해변에 있었어요. We swam in the sea all day. 우리는 하루 종일 바다에서 수영했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① were - swam  ✓  복수 주어 Tom and I에 were, swim의 과거형 swam",
+    "② was - swam  ✗  주어는 Tom and I(복수)라 was가 아닌 were",
+    "③ were - swimmed  ✗  swim의 과거형은 불규칙 swam · swimmed는 없는 말",
+    "④ are - swam  ✗  yesterday가 있어 현재형 are가 아닌 were",
+    "⑤ were - swim  ✗  어제 일이라 swim이 아닌 과거형 swam"
+   ],
+   "narration": "정답은 1번 were와 swam이에요. 2번은 바로 앞의 I만 보고 was를 고른 것인데, 주어는 Tom and I 전체라 복수이니 were를 써야 해요. 3번 swimmed는 ed를 붙인 꼴이지만, swim의 과거형은 swam이에요. 5번 swim은 현재형이라 어제의 일과 맞지 않아요."
+  },
+  "summary": {
+   "card": "지난 일: I, 3인칭 단수 → was · you, 복수 → were · 일반동사도 과거형 (swim → swam)",
+   "narration": "정답은 1번이에요. 기억할 것, 지난 일은 과거형, be동사는 I와 3인칭 단수에 was, you와 복수에 were예요."
+  },
+  "captions": [
+   "be동사·swim의 과거형",
+   "먼저 풀어 보세요",
+   "지난 일은 과거형으로",
+   "Tom and I → were → swam",
+   "정답 ① were - swam",
+   "was·were + 일반동사 과거형"
+  ],
+  "sec": [
+   10,
+   20,
+   28,
+   34,
+   23,
+   12
+  ]
+ },
+ "D": {
+  "title": "be동사 과거형과 see의 과거형",
+  "intro": "이 문제는 과거의 일에 맞는 be동사와 see의 과거형을 짝지어 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르세요. They 빈칸 busy last week, We 빈칸 the movie last Sunday. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지난 때를 나타내는 말 (yesterday, last week …) → 동사를 과거형으로",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "일반동사 과거형: 대부분 + ed (play → played) · 불규칙 (go → went)",
+    "예) We were cold, so we went inside. (우리는 추워서 안에 들어갔어요.)"
+   ],
+   "narration": "yesterday처럼 지난 때를 나타내는 말이 있으면 동사를 과거형으로 써요. be동사는 주어가 I나 he, she, it 같은 3인칭 단수이면 was, you나 복수이면 were를 써요. 일반동사는 대부분 ed를 붙이고, go와 went처럼 모양이 따로 있는 불규칙 동사도 있어요. We were cold, so we went inside. 우리는 추워서 안에 들어갔어요."
+  },
+  "steps": [
+   {
+    "note": "last week(지난주) → 과거, They = 복수 → were. ① was, ③ are 지움",
+    "highlight": [
+     "They",
+     "last week"
+    ],
+    "strike": [
+     "① was - saw",
+     "③ are - saw"
+    ],
+    "narration": "첫째, last week, 곧 지난주의 일이고 주어 They는 복수이니, were가 아닌 1번 was와 3번 are는 지워요."
+   },
+   {
+    "note": "last Sunday → 과거, see의 과거형은 불규칙 saw → 현재형 see ④, seed ⑤ 지움",
+    "highlight": [
+     "last Sunday"
+    ],
+    "strike": [
+     "④ were - see",
+     "⑤ were - seed"
+    ],
+    "narration": "둘째, last Sunday도 지난 일이고 see의 과거형은 불규칙형 saw이니, 현재형 see인 4번과 seed인 5번도 지워요."
+   },
+   {
+    "note": "② were - saw → They were busy last week. / We saw the movie last Sunday.",
+    "highlight": [
+     "② were - saw"
+    ],
+    "strike": [],
+    "narration": "셋째, 2번을 넣으면 They were busy last week. 그들은 지난주에 바빴어요. We saw the movie last Sunday. 우리는 지난 일요일에 그 영화를 봤어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① was - saw  ✗  They는 복수라 was가 아닌 were",
+    "② were - saw  ✓  복수 주어 They에 were, see의 과거형 saw",
+    "③ are - saw  ✗  last week이 있어 현재형 are가 아닌 were",
+    "④ were - see  ✗  last Sunday가 있어 see가 아닌 과거형 saw",
+    "⑤ were - seed  ✗  see의 과거형은 불규칙 saw · seed는 see의 과거형이 아님"
+   ],
+   "narration": "정답은 2번 were와 saw예요. 5번 seed는 see에 d를 붙인 꼴이지만, see는 불규칙 동사라 과거형이 saw예요. 1번 was는 I나 3인칭 단수에 쓰는 말이라, 복수 주어 They에는 were를 써야 해요. 4번 see는 현재형이라 last Sunday와 어울리지 않아요."
+  },
+  "summary": {
+   "card": "지난 일: I, 3인칭 단수 → was · you, 복수 → were · 일반동사도 과거형 (see → saw)",
+   "narration": "정답은 2번이에요. 기억할 것, 지난 일은 과거형, be동사는 I와 3인칭 단수에 was, you와 복수에 were예요."
+  },
+  "captions": [
+   "be동사·see의 과거형",
+   "먼저 풀어 보세요",
+   "지난 일은 과거형으로",
+   "They → were → saw",
+   "정답 ② were - saw",
+   "was·were + 일반동사 과거형"
+  ],
+  "sec": [
+   10,
+   20,
+   28,
+   34,
+   23,
+   12
+  ]
+ },
+ "E": {
+  "title": "be동사 과거형과 eat의 과거형",
+  "intro": "이 문제는 과거의 일에 맞는 be동사와 eat의 과거형을 짝지어 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르세요. I 빈칸 tired yesterday, I 빈칸 lunch at noon that day. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지난 때를 나타내는 말 (yesterday, last week …) → 동사를 과거형으로",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "일반동사 과거형: 대부분 + ed (play → played) · 불규칙 (go → went)",
+    "예) Mia was sick, so she went home. (미아는 아파서 집에 갔어요.)"
+   ],
+   "narration": "yesterday처럼 지난 때를 나타내는 말이 있으면 동사를 과거형으로 써요. be동사는 주어가 I나 he, she, it 같은 3인칭 단수이면 was, you나 복수이면 were를 써요. 일반동사는 대부분 ed를 붙이고, go와 went처럼 모양이 따로 있는 불규칙 동사도 있어요. Mia was sick, so she went home. 미아는 아파서 집에 갔어요."
+  },
+  "steps": [
+   {
+    "note": "yesterday → 과거, 주어 I → was. ① is, ② were 지움",
+    "highlight": [
+     "I _______ tired yesterday."
+    ],
+    "strike": [
+     "① is - ate",
+     "② were - ate"
+    ],
+    "narration": "첫째, yesterday가 있어 과거의 일이고 주어 I에는 was를 쓰니, 1번 is와 2번 were는 지워요."
+   },
+   {
+    "note": "that day(그날) = 어제 → 과거, eat의 과거형은 불규칙 ate → eated ④, 현재형 eat ⑤ 지움",
+    "highlight": [
+     "that day"
+    ],
+    "strike": [
+     "④ was - eated",
+     "⑤ was - eat"
+    ],
+    "narration": "둘째, that day는 그날, 곧 어제를 말하고 eat의 과거형은 불규칙형 ate이니, 없는 말 eated인 4번과 현재형 eat인 5번도 지워요."
+   },
+   {
+    "note": "③ was - ate → I was tired yesterday. / I ate lunch at noon that day.",
+    "highlight": [
+     "③ was - ate"
+    ],
+    "strike": [],
+    "narration": "셋째, 3번을 넣으면 I was tired yesterday. 나는 어제 피곤했어요. I ate lunch at noon that day. 나는 그날 정오에 점심을 먹었어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① is - ate  ✗  is는 3인칭 단수 현재형 · I의 be동사 과거형은 was",
+    "② were - ate  ✗  주어 I에는 were가 아닌 was",
+    "③ was - ate  ✓  주어 I에 was, eat의 과거형 ate",
+    "④ was - eated  ✗  eat의 과거형은 불규칙 ate · eated는 없는 말",
+    "⑤ was - eat  ✗  그날(어제) 일이라 eat이 아닌 과거형 ate"
+   ],
+   "narration": "정답은 3번 was와 ate예요. 2번 were는 you나 복수 주어에 쓰는 말이라, 주어 I에는 was를 써야 해요. 4번 eated는 ed를 붙인 꼴이지만, eat은 불규칙 동사라 과거형이 ate예요. 5번 eat은 현재형이라 그날, 곧 어제의 일과 맞지 않아요."
+  },
+  "summary": {
+   "card": "지난 일: I, 3인칭 단수 → was · you, 복수 → were · 일반동사도 과거형 (eat → ate)",
+   "narration": "정답은 3번이에요. 기억할 것, 지난 일은 과거형, be동사는 I와 3인칭 단수에 was, you와 복수에 were예요."
+  },
+  "captions": [
+   "be동사·eat의 과거형",
+   "먼저 풀어 보세요",
+   "지난 일은 과거형으로",
+   "I → was → ate",
+   "정답 ③ was - ate",
+   "was·were + 일반동사 과거형"
+  ],
+  "sec": [
+   10,
+   20,
+   28,
+   34,
+   23,
+   12
+  ]
+ },
+ "F": {
+  "title": "be동사 과거형과 make의 과거형",
+  "intro": "이 문제는 과거의 일에 맞는 be동사와 make의 과거형을 짝지어 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르세요. Jane 빈칸 happy last Sunday, She 빈칸 a cake for her friends. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지난 때를 나타내는 말 (yesterday, last week …) → 동사를 과거형으로",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "일반동사 과거형: 대부분 + ed (play → played) · 불규칙 (go → went)",
+    "예) Mia was sick, so she went home. (미아는 아파서 집에 갔어요.)"
+   ],
+   "narration": "yesterday처럼 지난 때를 나타내는 말이 있으면 동사를 과거형으로 써요. be동사는 주어가 I나 he, she, it 같은 3인칭 단수이면 was, you나 복수이면 were를 써요. 일반동사는 대부분 ed를 붙이고, go와 went처럼 모양이 따로 있는 불규칙 동사도 있어요. Mia was sick, so she went home. 미아는 아파서 집에 갔어요."
+  },
+  "steps": [
+   {
+    "note": "last Sunday(지난 일요일) → 과거, Jane = 3인칭 단수 → was. ③ is, ⑤ were 지움",
+    "highlight": [
+     "Jane",
+     "last Sunday"
+    ],
+    "strike": [
+     "③ is - made",
+     "⑤ were - made"
+    ],
+    "narration": "첫째, last Sunday가 있어 과거의 일이고 주어 Jane은 3인칭 단수이니, 3번 is와 5번 were는 지워요."
+   },
+   {
+    "note": "케이크를 만든 것도 그날 일 → make의 과거형은 불규칙 made → maked ①, 현재형 make ② 지움",
+    "highlight": [
+     "She _______ a cake for her friends."
+    ],
+    "strike": [
+     "① was - maked",
+     "② was - make"
+    ],
+    "narration": "둘째, 케이크를 만든 것도 그날의 일이고 make의 과거형은 불규칙형 made이니, 없는 말 maked인 1번과 현재형 make인 2번도 지워요."
+   },
+   {
+    "note": "④ was - made → Jane was happy last Sunday. / She made a cake for her friends.",
+    "highlight": [
+     "④ was - made"
+    ],
+    "strike": [],
+    "narration": "셋째, 4번을 넣으면 Jane was happy last Sunday. 제인은 지난 일요일에 행복했어요. She made a cake for her friends. 그녀는 친구들을 위해 케이크를 만들었어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① was - maked  ✗  make의 과거형은 불규칙 made · maked는 없는 말",
+    "② was - make  ✗  지난 일요일 일이라 make가 아닌 과거형 made",
+    "③ is - made  ✗  last Sunday가 있어 현재형 is가 아닌 was",
+    "④ was - made  ✓  Jane에 was, make의 과거형 made",
+    "⑤ were - made  ✗  Jane은 3인칭 단수라 were가 아닌 was"
+   ],
+   "narration": "정답은 4번 was와 made예요. 1번 maked는 ed를 붙인 꼴이지만, make는 불규칙 동사라 과거형이 made예요. 5번 were는 you나 복수 주어에 쓰는 말이라, 3인칭 단수 Jane에는 was를 써야 해요. 3번 is는 현재형이라 last Sunday와 어울리지 않아요."
+  },
+  "summary": {
+   "card": "지난 일: I, 3인칭 단수 → was · you, 복수 → were · 일반동사도 과거형 (make → made)",
+   "narration": "정답은 4번이에요. 기억할 것, 지난 일은 과거형, be동사는 I와 3인칭 단수에 was, you와 복수에 were예요."
+  },
+  "captions": [
+   "be동사·make의 과거형",
+   "먼저 풀어 보세요",
+   "지난 일은 과거형으로",
+   "Jane → was → made",
+   "정답 ④ was - made",
+   "was·were + 일반동사 과거형"
+  ],
+  "sec": [
+   10,
+   20,
+   28,
+   34,
+   23,
+   12
+  ]
+ }
+}

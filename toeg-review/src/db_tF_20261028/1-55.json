@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T06:46:07.473Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": null,
+      "1": "1개",
+      "2": null,
+      "3": "3개",
+      "4": "4개"
+    },
+    "expl": "핵심 규칙: 동사마다 목적어로 동명사를 쓰는지 to부정사를 쓰는지 확인한다. deny, avoid, suggest, consider, finish, enjoy, postpone, admit, give up 등은 동명사를, decide, promise, want, agree, expect, plan, refuse 등은 to부정사를 목적어로 쓴다.\n풀이 순서: ① 밑줄 앞의 동사를 to부정사를 쓰는 동사와 동명사를 쓰는 동사로 나눈다. → ② want, plan은 to부정사를, avoid, finish, consider는 동명사를 쓴다. 따라서 E(planned visiting)만 틀렸다. → ③ 틀린 문장을 세면 1개이다.\n문장별 판정:\nA. 옳음: avoid는 동명사를 목적어로 쓴다(avoided talking).\nB. 옳음: want는 to부정사를 목적어로 쓴다(wants to travel).\nC. 옳음: finish는 동명사를 목적어로 쓴다(finished writing).\nD. 옳음: consider는 동명사를 목적어로 쓴다(considered changing).\nE. 틀림: plan은 to부정사를 목적어로 쓴다. planned visiting → planned to visit.\n정답 판단: 어법상 틀린 문장은 E의 1개이다.\n선택지 분석:\n① [오답] 어법상 틀린 문장은 E의 1개이다. 이 보기의 0개는 실제 개수와 일치하지 않으므로 오답이다.\n② [정답] 어법상 틀린 문장은 E의 1개이다. 이 보기의 1개는 실제 개수와 일치하므로 정답이다.\n③ [오답] 어법상 틀린 문장은 E의 1개이다. 이 보기의 2개는 실제 개수와 일치하지 않으므로 오답이다.\n④ [오답] 어법상 틀린 문장은 E의 1개이다. 이 보기의 3개는 실제 개수와 일치하지 않으므로 오답이다.\n⑤ [오답] 어법상 틀린 문장은 E의 1개이다. 이 보기의 4개는 실제 개수와 일치하지 않으므로 오답이다.",
+    "passage": "A. They avoided <u>talking</u> about the problem in front of the kids.\nB. Mina wants <u>to travel</u> around Europe after her graduation.\nC. Tom finished <u>writing</u> his long history essay late last night.\nD. Jane considered <u>changing</u> jobs to spend more time with her family.\nE. We planned <u>visiting</u> our grandparents during the long holiday.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장의 개수를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T06:44:26.557Z"
+  },
+  "tab": "ij7ic6nx",
+  "updatedAt": "2026-10-26T06:46:07.473Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:46:07.473Z",
+      "what": "확인 완료"
+    }
+  }
+}

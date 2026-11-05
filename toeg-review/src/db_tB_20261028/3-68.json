@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:17:19.984Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "How you did hear the news?",
+      "1": "How did hear you the news?",
+      "2": "Did how you hear the news?",
+      "3": "How did you hear the news?",
+      "4": "How you hear the news did?"
+    },
+    "expl": "핵심 규칙: 의문사가 있는 일반동사 의문문은 ‘의문사 + do/does/did + 주어 + 동사원형 ~?’ 순서다.\n풀이 순서: ① 의문사(How)를 맨 앞에 둔다. → ② 그 뒤는 ‘did + 주어(you) + 동사원형(hear)’ 순서다. → ③ 이 순서인 ④를 고른다.\n문장별 판정:\n정답 판단: How + did + 주어 + 동사원형 순서로 바르게 배열했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] did가 주어(you) 앞에 와야 하므로 오답이다.\n② [오답] 주어(you)가 동사(hear) 앞에 와야 하므로 오답이다.\n③ [오답] 의문사 How가 문장 맨 앞에 와야 하므로 오답이다.\n④ [정답] How + did + 주어 + 동사원형 순서로 바르게 배열했으므로 정답이다.\n⑤ [오답] did가 문장 끝에 놓여 의문문 어순이 아니므로 오답이다.",
+    "passage": "너는 어떻게 그 소식을 들었니?\n(how / hear / the news / did / you / ?)",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T08:17:19.574Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T08:17:19.984Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T08:17:19.984Z",
+      "what": "확인 완료"
+    }
+  }
+}

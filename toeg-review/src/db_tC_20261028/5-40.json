@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T02:29:48.137Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 현재진행형은 am/is/are + 동사원형-ing로 쓴다. be동사는 주어에 맞추고, be동사 뒤에 동사원형이나 -s형을 쓰지 않으며, be동사를 빼고 -ing형만 쓰지도 않는다.\n풀이 순서: ① 문장마다 be동사가 주어와 맞는지 본다. → ② be동사 뒤가 -ing형인지 본다. 동사원형이나 -s형이면 틀린 문장이다. → ③ (나) is brushes, (라) are wait가 틀렸다. 옳은 문장은 (가), (다)이다.\n문장별 판정: (가) O. 복수 주어에 are + flying을 썼다. (나) X. is 뒤에는 brushes가 아니라 brushing을 쓴다. (다) O. 주어 I에 am + doing을 썼다. (라) X. are 뒤에는 wait가 아니라 waiting을 쓴다.\n정답 판단: 어법상 옳은 문장은 (가), (다)이다.\n선택지 분석:\n① [오답] (나), (라)는 옳은 문장이 아니고, 옳은 문장 (가), (다)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (나)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 옳은 문장 (가), (다)를 빠짐없이 골랐으므로 정답이다.\n④ [오답] (나)는 옳은 문장이 아니고, 옳은 문장 (다)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (라)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "<보기>\n(가) Look! The children are flying kites.\n(나) My sister is brushes her teeth now.\n(다) I am doing my homework right now.\n(라) We are wait for the school bus.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:29:46.449Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:29:48.137Z",
+      "what": "확인 완료"
+    }
+  }
+}

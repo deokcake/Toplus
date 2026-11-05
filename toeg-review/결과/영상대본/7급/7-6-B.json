@@ -1,0 +1,178 @@
+{
+ "key": "7-6",
+ "type": "B",
+ "grade": 7,
+ "chapter": "CH 1 명사",
+ "title": "three 뒤 명사의 복수형",
+ "total_sec": 121,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "7급 · CH 1 명사 · 6번 · B 유형\n\n이 문제는 three 뒤에 오는 명사 book의 알맞은 형태를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 1 명사 · 6번 · B 유형",
+     "이 문제는 three 뒤에 오는 명사 book의 알맞은 형태를 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 1, 6번 B 유형. 이 문제는 three 뒤에 오는 명사 book의 알맞은 형태를 고르는 문제예요.",
+   "caption": "three 뒤 명사의 형태"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "빈칸에 들어갈 알맞은 단어를 고르세요.\n\nThere are three _______ on the desk.\n\n① books\n② bookses\n③ book\n④ bookes\n⑤ a book",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "빈칸에 들어갈 알맞은 단어를 고르세요.",
+     "There are three _______ on the desk.",
+     "① books",
+     "② bookses",
+     "③ book",
+     "④ bookes",
+     "⑤ a book"
+    ]
+   },
+   "narration": "빈칸에 들어갈 알맞은 단어를 고르세요. There are three, 빈칸, on the desk. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 26,
+   "screen": {
+    "text": "핵심 규칙\ntwo, three, many처럼 둘 이상을 나타내는 말 뒤 → 명사의 복수형\n대부분 + s (dog → dogs, pencil → pencils)\ns, sh, ch, x로 끝나면 보통 + es (bus → buses)\n자음 + y로 끝나면 y를 i로 바꾸고 + es (city → cities)\n예) I have two pencils. (나는 연필이 두 자루 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "two, three, many처럼 둘 이상을 나타내는 말 뒤 → 명사의 복수형",
+     "대부분 + s (dog → dogs, pencil → pencils)",
+     "s, sh, ch, x로 끝나면 보통 + es (bus → buses)",
+     "자음 + y로 끝나면 y를 i로 바꾸고 + es (city → cities)",
+     "예) I have two pencils. (나는 연필이 두 자루 있어요.)"
+    ]
+   },
+   "narration": "two, three, many처럼 둘 이상을 나타내는 말 뒤에는 명사의 복수형을 써요. 복수형은 대부분 명사 끝에 s를 붙여요. 하지만 s, sh, ch, x로 끝나는 명사에는 보통 es를 붙이고, 자음 다음에 y로 끝나는 명사는 y를 i로 바꾸고 es를 붙여요. 예를 들어 I have two pencils. 나는 연필이 두 자루 있어요.",
+   "caption": "둘 이상이면 명사는 복수형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "빈칸에 들어갈 알맞은 단어를 고르세요.\n\nThere are three _______ on the desk.\n\n① books\n② bookses\n③ book\n④ bookes\n⑤ a book",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "three",
+       "_______"
+      ],
+      "strike": [
+       "③ book",
+       "⑤ a book"
+      ],
+      "note": "빈칸 앞 three = 셋 → 복수형 자리. 단수형 book, 하나를 뜻하는 a book은 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "④ bookes",
+       "② bookses"
+      ],
+      "note": "book은 s, sh, ch, x로 끝나지 않음 → s만 붙인다. bookes, bookses는 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "① books"
+      ],
+      "strike": [],
+      "note": "남는 것은 book + s = books → There are three books on the desk."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 빈칸 앞의 three는 셋을 나타내니까 빈칸에는 복수형이 와야 해요. 단수형 book과, 하나를 뜻하는 a가 붙은 a book은 지워요. 둘째, book은 s, sh, ch, x로 끝나지 않아서 s만 붙여요. es를 붙인 bookes와, s와 es를 겹쳐 붙인 bookses도 지워요. 셋째, 남는 복수형 books를 넣으면 There are three books on the desk, 책상 위에 책이 세 권 있어요.",
+   "caption": "three → 복수형 → s만 → books"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① books  ✓  book + s, three 뒤에 알맞은 복수형\n② bookses  ✗  s와 es를 겹쳐 붙일 수 없어요\n③ book  ✗  three 뒤에 단수형은 쓰지 않아요\n④ bookes  ✗  book은 s, sh, ch, x로 끝나지 않아 es가 아니라 s\n⑤ a book  ✗  a book은 책 한 권, three와 함께 못 써요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✓",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① books  ✓  book + s, three 뒤에 알맞은 복수형",
+     "② bookses  ✗  s와 es를 겹쳐 붙일 수 없어요",
+     "③ book  ✗  three 뒤에 단수형은 쓰지 않아요",
+     "④ bookes  ✗  book은 s, sh, ch, x로 끝나지 않아 es가 아니라 s",
+     "⑤ a book  ✗  a book은 책 한 권, three와 함께 못 써요"
+    ]
+   },
+   "narration": "정답은 1번 books예요. 4번 bookes는 es를 붙였는데, book은 s, sh, ch, x로 끝나지 않으니 s만 붙여요. 2번 bookses는 s와 es를 겹쳐 붙여서 틀렸어요. 3번 book은 책 한 권을 나타내는 단수형이라 three 뒤에 쓸 수 없어요.",
+   "caption": "정답 ① books"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ① books\n\n둘 이상(two, three, many) 뒤 명사 → 복수형 (대부분 + s)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ① books",
+     "둘 이상(two, three, many) 뒤 명사 → 복수형 (대부분 + s)"
+    ]
+   },
+   "narration": "정답은 1번이에요. 기억할 것, three처럼 둘 이상을 나타내는 말 뒤에는 명사의 복수형을 쓰고, 대부분 끝에 s를 붙여요.",
+   "caption": "둘 이상 + 복수형(대부분 + s)"
+  }
+ ],
+ "source": {
+  "stem": "빈칸에 들어갈 알맞은 단어를 고르세요.",
+  "passage": "There are three _______ on the desk.",
+  "c": [
+   "books",
+   "bookses",
+   "book",
+   "bookes",
+   "a book"
+  ],
+  "ans": 1,
+  "expl": "핵심 규칙: two, three, many처럼 둘 이상을 나타내는 말 뒤에는 명사의 복수형을 쓴다. 대부분 -s, s·sh·ch·x로 끝나면 -es, 자음 + y는 -ies를 붙인다.\n풀이 순서: ① 빈칸 앞의 three를 본다. 둘 이상이므로 복수형이 필요하다. → ② 단수형과 a가 붙은 것을 지우고, 복수형 철자를 확인한다: book + s. → ③ 정답은 books.\n문장별 판정:\n정답 판단: three 뒤에 복수형 books를 바르게 썼으므로 정답은 ①이다.\n선택지 분석:\n① [정답] three 뒤에 복수형 books를 바르게 썼으므로 정답이다.\n② [오답] bookses라는 형태는 없으므로 오답이다.\n③ [오답] three 뒤에 단수형을 쓸 수 없으므로 오답이다.\n④ [오답] book에는 -s만 붙여 books로 쓰므로 오답이다.\n⑤ [오답] three 뒤에 a를 쓸 수 없으므로 오답이다."
+ }
+}

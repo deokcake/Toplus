@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T09:35:50.168Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "A: When is your birthday? B: It's on May 5th.",
+      "1": "A: How much is this cap? B: It takes ten minutes.",
+      "2": "A: What day is it today? B: It's Wednesday.",
+      "3": "A: How's the weather? B: It's snowing.",
+      "4": "A: How long is the bridge? B: It's about 300 meters long."
+    },
+    "expl": "핵심 규칙: How much는 값, How long은 걸리는 시간이나 길이, How far는 거리, How heavy는 무게, What time은 시각, What day는 요일, What's the date는 날짜를 묻는다.\n풀이 순서: ① 질문마다 의문사구가 무엇을 묻는지 적는다(값, 시간, 거리, 날짜, 요일 …). → ② 대답이 같은 종류의 정보인지 견준다. → ③ 선택지 ②는 How much(값)에 걸리는 시간으로 답했다. 정답은 ②.\n문장별 판정:\n정답 판단: 모자의 값을 묻는데 걸리는 시간으로 답했으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 생일이 언제인지 묻는 질문에 날짜로 알맞게 답했으므로 오답이다.\n② [정답] 모자의 값을 묻는데 걸리는 시간으로 답했으므로 정답이다.\n③ [오답] 요일을 묻는 질문에 요일로 알맞게 답했으므로 오답이다.\n④ [오답] 날씨를 묻는 질문에 날씨로 알맞게 답했으므로 오답이다.\n⑤ [오답] 다리의 길이를 묻는 질문에 길이로 알맞게 답했으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 대화가 어색한 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T09:35:47.876Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T09:35:50.168Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T09:35:50.168Z",
+      "what": "확인 완료"
+    }
+  }
+}

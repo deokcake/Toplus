@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T07:49:39.347Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Is these an orange?",
+      "1": "Are this an orange?",
+      "2": "Is this a orange?",
+      "3": "Are these an orange?",
+      "4": "Is this an orange?"
+    },
+    "expl": "핵심 규칙: 지시어와 be동사, 명사의 수를 함께 맞춘다. this/that + is + a/an + 단수 명사, these/those + are + 복수 명사로 쓰고, a/an은 첫소리로 정한다.\n풀이 순서: ① <보기>에서 서로 맞지 않는 곳을 찾는다: Is와 a orange는 한 개인데 these는 여러 개를 가리키고, 모음 소리로 시작하는 orange 앞에 a를 썼다. → ② 지시대명사·be동사·관사·명사의 수를 하나로 맞추면 Is this an orange? → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: 한 개를 가리키는 this, is, an orange를 바르게 맞췄으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 한 개(an orange)를 가리키고, these가 아니라 this를 써야 하므로 오답이다.\n② [오답] 단수 주어 this에는 Are가 아니라 Is를 쓰므로 오답이다.\n③ [오답] orange는 모음 소리로 시작해 a가 아니라 an을 쓰므로 오답이다.\n④ [오답] these와 Are는 여러 개에 쓰는데 an orange는 한 개이므로 오답이다.\n⑤ [정답] 한 개를 가리키는 this, is, an orange를 바르게 맞췄으므로 정답이다.",
+    "passage": "<보기>\nIs these a orange?",
+    "stem": "다음 중 <보기>의 문장을 바르게 고쳐 쓴 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T07:49:37.682Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T07:49:39.347Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T07:49:39.347Z",
+      "what": "확인 완료"
+    }
+  }
+}

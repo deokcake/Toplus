@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-21T06:59:44.897Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "(A), (C)",
+      "1": "(B), (D)",
+      "2": "(B), (E)",
+      "3": "(C), (D)",
+      "4": "(A), (E)"
+    },
+    "expl": "핵심 규칙: as ~ as 안에서 동사를 꾸미면 부사를, be동사·연결동사(look, feel, seem, sound, become)의 보어이면 형용사를 쓴다.\n풀이 순서: ① 밑줄마다 as ~ as 앞의 동사를 본다. 일반동사를 꾸미면 부사 자리, look·feel·seem·sound·become 뒤면 형용사 자리다. → ② (B) looked 뒤는 형용사 자리인데 부사 calmly를, (E) finished her daily reports 뒤는 부사 자리인데 형용사 neat를 썼다. → ③ 틀린 두 곳을 모은 (B), (E)를 고른다.\n문장별 판정:\n(A) 옳음: answered를 꾸미는 부사 politely이다.\n(B) 틀림: looked의 보어이므로 형용사 calm을 써야 한다.\n(C) 옳음: fast는 typed를 꾸미는 부사이다.\n(D) 옳음: seemed의 보어이므로 형용사 happy이다.\n(E) 틀림: finished를 꾸미므로 부사 neatly를 써야 한다.\n정답 판단: 어법상 틀린 것은 (B), (E)이다.\n선택지 분석:\n① [오답] (A), (C)는 틀린 것이 아니고, 틀린 것 (B), (E)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (D)는 틀린 것이 아니고, 틀린 것 (E)를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 틀린 것 (B), (E)를 빠짐없이 골랐으므로 정답이다.\n④ [오답] (C), (D)는 틀린 것이 아니고, 틀린 것 (B), (E)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (A)는 틀린 것이 아니고, 틀린 것 (B)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "On her first day at the call center, the new assistant answered calls (A)<u>as politely as</u> possible. Even when customers complained, she looked (B)<u>as calmly as</u> the manager sitting next to her. She typed customer notes (C)<u>as fast as</u> anyone in the office. By the afternoon, the customers seemed (D)<u>as happy as</u> they had been before the problem. Before leaving, she finished her daily reports (E)<u>as neat as</u> she could.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T06:59:23.750Z"
+  },
+  "tab": "fi3f83jb",
+  "updatedAt": "2026-10-21T06:59:44.897Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T06:59:44.897Z",
+      "what": "확인 완료"
+    }
+  }
+}

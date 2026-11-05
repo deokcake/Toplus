@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:01:13.473Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "I don't mind <u>waiting</u> here for a few minutes.",
+      "1": "My favorite hobby is <u>collecting</u> old coins from other countries.",
+      "2": "The children are <u>playing</u> outside in the yard now.",
+      "3": "<u>Keeping</u> a diary every day is a good habit.",
+      "4": "She is proud of <u>being</u> a nurse at the hospital."
+    },
+    "expl": "핵심 규칙: 동명사는 명사처럼 주어, 동사·전치사의 목적어, 보어로 쓰인다. be동사 뒤에서 ‘~하고 있다’는 진행형을 만드는 -ing는 현재분사다.\n풀이 순서: ① 밑줄 친 -ing가 명사 자리(주어, 동사·전치사의 목적어, 보어)에 있으면 동명사다. → ② be동사 뒤에서 ‘~하고 있다’로 풀리면 진행형을 만드는 현재분사다. be동사 뒤라도 ‘~하는 것’으로 풀리면 보어로 쓰인 동명사다. → ③ 선택지 ③만 ‘밖에서 놀고 있다’로 풀리는 진행형이다.\n문장별 판정:\n정답 판단: be동사와 함께 ‘~하고 있다’는 진행형을 만드는 현재분사라 나머지(동명사)와 쓰임이 다르므로 정답은 ③이다.\n선택지 분석:\n① [오답] mind의 목적어로 쓰인 동명사라 나머지와 같으므로 오답이다.\n② [오답] be동사 뒤에 있지만 ‘모으는 것’이라는 뜻의 보어로 쓰인 동명사라 나머지와 같으므로 오답이다.\n③ [정답] be동사와 함께 ‘~하고 있다’는 진행형을 만드는 현재분사라 나머지(동명사)와 쓰임이 다르므로 정답이다.\n④ [오답] 문장의 주어로 쓰인 동명사라 나머지와 같으므로 오답이다.\n⑤ [오답] 전치사 of의 목적어로 쓰인 동명사라 나머지와 같으므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 밑줄 친 부분의 쓰임이 나머지 넷과 다른 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T16:41:32.461Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:42:22.226Z",
+      "text": "정답이 되는 선택지만 ing가 be동사 바로 뒤에 위치하여서 정답을 쉽게 추론할 수 있다."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:01:13.473Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:01:08.322Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:01:13.473Z",
+      "what": "확인 완료"
+    }
+  }
+}

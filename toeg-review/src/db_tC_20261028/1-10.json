@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T08:43:24.057Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A)는 교실이 조용한 상태로 남았다는 뜻이고, (B)는 교실을 비우며 나간 동작 방식을 나타낸다.",
+      "1": "(A)의 quietly는 동사 left를 꾸며 조용히 교실을 나갔다는 뜻이고, (B)의 empty는 목적어 the classroom의 상태를 설명해 교실을 빈 채로 두었다는 뜻이다.",
+      "2": "두 문장 모두 Tom이 교실을 떠난 방식만 설명하므로 뜻 차이가 없다.",
+      "3": "(A)의 quietly가 목적격 보어이므로 (A)가 5형식 문장이다.",
+      "4": "(B)의 empty는 주어 Tom의 상태를 설명하는 주격 보어이다."
+    },
+    "expl": "핵심 규칙: 부사는 동작 방식을 꾸미는 부가어이고, 목적격보어인 형용사는 목적어의 상태를 설명한다. (A)는 3형식, (B)는 5형식이다.\n풀이 순서: ① 두 문장에서 다른 곳은 끝의 한 단어뿐이다: (A) quietly, (B) empty. → ② 부사(quietly)는 동사를 꾸며 ‘어떻게 했는지’를, 형용사(empty)는 목적어가 ‘어떠한지’를 나타낸다. 그래서 (A)는 3형식, (B)는 5형식이다. → ③ 품사, 문장 형식, 뜻을 서로 뒤바꾼 보기를 지운다. 정답은 ②.\n문장별 판정:\n정답 판단: 부사 quietly는 나가는 방식을, 형용사 empty는 목적어 the classroom의 상태를 나타낸다는 차이를 바르게 설명했다. 따라서 정답은 ②이다.\n선택지 분석:\n① [오답] 두 문장의 뜻을 서로 바꿔 설명했다.\n② [정답] 부사 quietly는 나가는 방식을, 형용사 empty는 목적어 the classroom의 상태를 나타낸다는 차이를 바르게 설명했다.\n③ [오답] (B)의 empty는 떠난 방식이 아니라 교실의 상태를 설명하므로 뜻이 다르다.\n④ [오답] quietly는 left를 꾸미는 부사라 목적격 보어가 아니다. 5형식은 (B)이다.\n⑤ [오답] empty는 Tom이 아니라 목적어 the classroom의 상태를 설명하는 목적격 보어이다.",
+    "passage": "(A) Tom left the classroom quietly.\n(B) Tom left the classroom empty.",
+    "stem": "다음 두 문장의 의미 차이를 한국어로 바르게 설명한 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-20T08:43:11.835Z"
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T08:43:24.057Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T08:43:24.057Z",
+      "what": "확인 완료"
+    }
+  }
+}

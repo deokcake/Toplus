@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T05:48:56.367Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A) got it replace - (B) have",
+      "1": "(A) got it replacing - (B) had",
+      "2": "(A) got it replaced - (B) have",
+      "3": "(A) had it replace - (B) get",
+      "4": "(A) replaced it - (B) having"
+    },
+    "expl": "핵심 규칙: have/get + 사물 + 과거분사는 그 사물이 수리·손질 같은 일을 받게 함을 나타낸다. should·to 뒤에는 have/get의 원형을 쓴다.\n풀이 순서: ① (A)의 it이 가리키는 것과 상황을 본다. 화면(it)은 수리점에서(at a repair shop) 교체된 것이다. → ② (A)는 ‘have/get + it + 과거분사’(got it replaced)다. 사물은 그 일을 받는 쪽이라 동사원형이나 -ing는 쓸 수 없다. → ③ (B)는 should 뒤이므로 have/get의 원형이 온다. 정답은 ③.\n문장별 판정:\n정답 판단: 모든 자리가 알맞으므로 정답은 ③이다.\n선택지 분석:\n① [오답] (A) got it replace: 단순과거이어서 맞지 않는다. (A)는 과거에 화면을 교체받은 일이므로 got(had) + it + 과거분사를 쓴다. 따라서 오답이다.\n② [오답] (A) got it replacing: 단순과거이어서 맞지 않는다. (A)는 과거에 화면을 교체받은 일이므로 got(had) + it + 과거분사를 쓴다. (B) had: 과거완료의 had이어서 맞지 않는다. (B)는 should 뒤이므로 동사원형 have(get)를 쓴다. 따라서 오답이다.\n③ [정답] 모든 자리가 알맞으므로 정답이다.\n④ [오답] (A) had it replace: 과거완료이어서 맞지 않는다. (A)는 과거에 화면을 교체받은 일이므로 got(had) + it + 과거분사를 쓴다. (B) get: 동사원형이어서 맞지 않는다. (B)는 should 뒤이므로 동사원형 have(get)를 쓴다. 따라서 오답이다.\n⑤ [오답] (A) replaced it: 단순과거이어서 맞지 않는다. (A)는 과거에 화면을 교체받은 일이므로 got(had) + it + 과거분사를 쓴다. (B) having: -ing형이어서 맞지 않는다. (B)는 should 뒤이므로 동사원형 have(get)를 쓴다. 따라서 오답이다.",
+    "passage": "A: The cracked screen is gone!\nB: I (<u>    A    </u>) at a repair shop on Saturday.\nA: Mine is damaged too. I should (<u>    B    </u>) mine fixed before our trip.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T05:48:53.823Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T05:48:56.367Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T05:48:56.367Z",
+      "what": "확인 완료"
+    }
+  }
+}

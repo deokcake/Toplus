@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T12:25:26.243Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "The story must not be real. - It can be a lie.",
+      "1": "The story must be real. - It can't be a lie.",
+      "2": "The story should be real. - It may be a lie.",
+      "3": "The story may be real. - It must be a lie.",
+      "4": "The story can't be real. - It must be a lie."
+    },
+    "expl": "핵심 규칙: 강한 긍정 추측(~임에 틀림없다)은 must be, 강한 부정 추측(~일 리가 없다)은 can't be로 나타내며, 조동사 뒤에는 동사원형 be를 쓴다.\n풀이 순서: ① 첫 문장 ‘~임에 틀림없다’는 강한 추측의 must be다. → ② 둘째 문장 ‘~일 리가 없다’는 can't be다(must not은 ‘~해서는 안 된다’는 금지). → ③ 두 조동사가 맞고 뒤에 be가 있는 ②를 고른다. 정답 문장은 ‘must be real - can't be a lie’.\n문장별 판정:\n정답 판단: must be(틀림없다)와 can't be(~일 리 없다)로 두 문장을 모두 바르게 옮겼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 첫째 문장은 ‘틀림없다’이므로 must be를 써야 한다(be가 빠졌다), 둘째 문장은 ‘~일 리가 없다’이므로 can't be를 써야 한다. 따라서 오답이다.\n② [정답] must be(틀림없다)와 can't be(~일 리 없다)로 두 문장을 모두 바르게 옮겼으므로 정답이다.\n③ [오답] 첫째 문장은 ‘틀림없다’이므로 must be를 써야 한다, 둘째 문장은 ‘~일 리가 없다’이므로 can't be를 써야 한다. 따라서 오답이다.\n④ [오답] 첫째 문장은 ‘틀림없다’이므로 must be를 써야 한다, 둘째 문장은 ‘~일 리가 없다’이므로 can't be를 써야 한다. 따라서 오답이다.\n⑤ [오답] 첫째 문장은 ‘틀림없다’이므로 must be를 써야 한다, 둘째 문장은 ‘~일 리가 없다’이므로 can't be를 써야 한다. 따라서 오답이다.",
+    "passage": "그 이야기는 진짜임에 틀림없다.\n그것이 거짓말일 리가 없다.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T12:25:20.794Z"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T12:25:26.243Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T12:25:26.243Z",
+      "what": "확인 완료"
+    }
+  }
+}

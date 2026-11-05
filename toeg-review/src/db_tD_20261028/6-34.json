@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T04:20:28.084Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "She drinks milk every morning?",
+      "1": "Do she drink milk every morning?",
+      "2": "Does she drinks milk every morning?",
+      "3": "Does she drink milk every morning?",
+      "4": "Did she drinks milk every morning?"
+    },
+    "expl": "핵심 규칙: 현재형 일반동사 문장을 의문문으로 바꿀 때는 Do/Does + 주어 + 동사원형 ~?으로 쓰고, 원래 문장의 현재 시제를 유지한다.\n풀이 순서: ① 주어와 동사를 본다: she / drinks. → ② 주어에 맞는 조동사는 Does, 그 뒤의 동사는 원형 drink. → ③ Does + 주어 + drink ~?인 것을 고른다. 정답은 ④.\n문장별 판정:\n정답 판단: Does + 주어 + 동사원형 drink로 바르게 바꿨으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 평서문 어순에 물음표만 붙였으므로 오답이다.\n② [오답] 3인칭 단수 주어 she에는 Do가 아니라 Does를 써야 하므로 오답이다.\n③ [오답] Does 뒤에는 동사원형 drink를 써야 하므로 오답이다.\n④ [정답] Does + 주어 + 동사원형 drink로 바르게 바꿨으므로 정답이다.\n⑤ [오답] 현재 시제를 과거 Did로 바꿨고 Did 뒤에도 동사원형을 써야 하므로 오답이다.",
+    "passage": "She drinks milk every morning.",
+    "stem": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T04:20:26.384Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T04:20:28.084Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T04:20:28.084Z",
+      "what": "확인 완료"
+    }
+  }
+}

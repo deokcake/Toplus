@@ -1,0 +1,181 @@
+{
+ "key": "1-16",
+ "type": "F",
+ "grade": 1,
+ "chapter": "CH 2 시제",
+ "title": "think about의 진행형과 시제",
+ "total_sec": 129,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "1급 · CH 2 시제 · 16번 · F 유형\n\n이 문제는 진행형과 시제를 따져 어법상 옳은 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 2 시제 · 16번 · F 유형",
+     "이 문제는 진행형과 시제를 따져 어법상 옳은 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 2, 16번 F 유형. 이 문제는 진행형과 시제를 따져 어법상 옳은 문장을 고르는 문제예요.",
+   "caption": "진행형을 쓸 수 있는 동사와 시제"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장은?\n\n① Look! The kids built a snowman now.\n② The suitcase is weighing about twenty kilograms.\n③ Yesterday, Dad talks on the phone for two hours.\n④ Mr. Kim is having three children.\n⑤ I am thinking about my summer plans.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 어법상 옳은 문장은?",
+     "① Look! The kids built a snowman now.",
+     "② The suitcase is weighing about twenty kilograms.",
+     "③ Yesterday, Dad talks on the phone for two hours.",
+     "④ Mr. Kim is having three children.",
+     "⑤ I am thinking about my summer plans."
+    ]
+   },
+   "narration": "다음 중 어법상 옳은 문장은 무엇일까요? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n상태동사: have(가지다), weigh(무게가 ~이다)처럼 상태를 나타내는 동사 → 보통 진행형 X\nthink about(~에 대해 생각하다)처럼 동작을 나타내면 진행형 O\n시간 표현과 시제 맞추기: yesterday → 과거 시제 / Look!·now로 지금 하는 동작 → 현재진행형\n예) Tom is thinking about a trip. (톰은 여행을 생각하고 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "상태동사: have(가지다), weigh(무게가 ~이다)처럼 상태를 나타내는 동사 → 보통 진행형 X",
+     "think about(~에 대해 생각하다)처럼 동작을 나타내면 진행형 O",
+     "시간 표현과 시제 맞추기: yesterday → 과거 시제 / Look!·now로 지금 하는 동작 → 현재진행형",
+     "예) Tom is thinking about a trip. (톰은 여행을 생각하고 있어요.)"
+    ]
+   },
+   "narration": "가지다라는 뜻의 have나 무게가 얼마라는 뜻의 weigh 같은 상태동사는 보통 진행형으로 쓰지 않아요. think about처럼 생각하는 동작은 진행형을 쓸 수 있어요. Tom is thinking about a trip. 톰은 여행을 생각하고 있어요. 시제는 시간 표현에 맞춰서, yesterday처럼 지난 때를 말하면 과거 시제, Look!이나 now로 지금 하는 동작을 말하면 현재진행형을 써요.",
+   "caption": "상태는 진행형 X, 동작은 O"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장은?\n\n① Look! The kids built a snowman now.\n② The suitcase is weighing about twenty kilograms.\n③ Yesterday, Dad talks on the phone for two hours.\n④ Mr. Kim is having three children.\n⑤ I am thinking about my summer plans.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "is weighing",
+       "is having"
+      ],
+      "strike": [
+       "② The suitcase is weighing about twenty kilograms.",
+       "④ Mr. Kim is having three children."
+      ],
+      "note": "진행형 is weighing(무게가 ~이다), is having(자녀가 있다 = 가지다) → 상태 → ②④ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "built",
+       "snowman now",
+       "Yesterday",
+       "talks on the phone"
+      ],
+      "strike": [
+       "① Look! The kids built a snowman now.",
+       "③ Yesterday, Dad talks on the phone for two hours."
+      ],
+      "note": "시간 표현: Look!·now + 과거형 built ✗, Yesterday + 현재형 talks ✗ → ①③ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ I am thinking about my summer plans."
+      ],
+      "strike": [],
+      "note": "⑤ think about = 생각하는 동작 → 진행형 O → 정답"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 진행형 문장을 봐요. 2번 weigh는 무게가 얼마 나간다는 상태, 4번 have는 자녀가 있다는 소유라서 weighs, has로 써야 해요. 둘째, 시간 표현을 보면, 1번은 Look!과 now로 지금 만드는 중이니 built가 아니라 are building, 3번은 Yesterday가 있으니 talks가 아니라 talked가 맞아요. 셋째, 남은 5번의 think about은 생각하는 동작이라 진행형이 맞아요. I am thinking about my summer plans. 나는 여름 계획에 대해 생각하고 있어요.",
+   "caption": "진행형 → 시간 표현 → ⑤"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① Look! The kids built a snowman now.  ✗  지금 하는 동작인데 과거형 → are building\n② The suitcase is weighing about twenty kilograms.  ✗  weigh(무게가 ~이다)는 진행형 X → weighs\n③ Yesterday, Dad talks on the phone for two hours.  ✗  Yesterday인데 현재형 → talked\n④ Mr. Kim is having three children.  ✗  have(자녀가 있다)는 진행형 X → has\n⑤ I am thinking about my summer plans.  ✓  think about(생각하다)은 동작 → 진행형 O",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① Look! The kids built a snowman now.  ✗  지금 하는 동작인데 과거형 → are building",
+     "② The suitcase is weighing about twenty kilograms.  ✗  weigh(무게가 ~이다)는 진행형 X → weighs",
+     "③ Yesterday, Dad talks on the phone for two hours.  ✗  Yesterday인데 현재형 → talked",
+     "④ Mr. Kim is having three children.  ✗  have(자녀가 있다)는 진행형 X → has",
+     "⑤ I am thinking about my summer plans.  ✓  think about(생각하다)은 동작 → 진행형 O"
+    ]
+   },
+   "narration": "정답은 5번이에요. 5번은 진행형이라 틀렸다고 생각하기 쉽지만, think about은 생각하는 동작이라 진행형이 맞아요. 4번은 자녀가 있다는 소유의 have라서 has로 써야 해요. 2번 weigh도 무게가 얼마 나간다는 상태라 weighs로 써야 해요.",
+   "caption": "정답 ⑤ am thinking"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ⑤ I am thinking about my summer plans.\n\n상태동사는 진행형 X, think about처럼 동작이면 진행형 O, 시제는 시간 표현에 맞추기",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ I am thinking about my summer plans.",
+     "상태동사는 진행형 X, think about처럼 동작이면 진행형 O, 시제는 시간 표현에 맞추기"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 상태동사는 보통 진행형으로 쓰지 않지만, think about처럼 동작이면 진행형을 쓸 수 있어요.",
+   "caption": "think about은 진행형 O"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 어법상 옳은 문장은?",
+  "passage": "",
+  "c": [
+   "Look! The kids built a snowman now.",
+   "The suitcase is weighing about twenty kilograms.",
+   "Yesterday, Dad talks on the phone for two hours.",
+   "Mr. Kim is having three children.",
+   "I am thinking about my summer plans."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: own, know, belong, contain, seem, resemble 같은 상태동사는 보통 진행형으로 쓰지 않는다. 다만 have(먹다), taste(맛보다), think about(곰곰이 생각하다)처럼 동작을 나타낼 때는 진행형을 쓸 수 있다. 또 now, yesterday, last year, tomorrow 같은 시간 표현과 동사의 시제가 맞아야 한다.\n풀이 순서: ① 문장마다 두 가지를 본다. 진행형으로 쓴 동사가 상태동사인지, 시간 표현과 시제가 맞는지. → ② is weighing(무게가 나가다), is having(자녀가 있다)은 상태동사의 진행형이라 틀렸고, now + built, Yesterday + talks는 시제가 어긋난다. → ③ 남는 ⑤는 think about이 ‘곰곰이 생각하다’라는 동작이라 진행형이 가능하다.\n문장별 판정:\n정답 판단: ‘I am thinking about my summer plans.’의 동사(think about)는 ‘곰곰이 생각하다’라는 동작을 나타내므로 진행형으로 쓸 수 있어 정답은 ⑤이다.\n선택지 분석:\n① [오답] ‘Look! The kids built a snowman now.’은 시간 표현(Look!, now)과 동사의 시제가 맞지 않는다. ‘Look! The kids are building a snowman now.’로 고쳐야 하므로 오답이다.\n② [오답] ‘The suitcase is weighing about twenty kilograms.’의 동사 weigh: ‘무게가 ~이다’는 뜻일 때 상태동사라 진행형으로 쓰지 않는다. ‘The suitcase weighs about twenty kilograms.’로 고쳐야 하므로 오답이다.\n③ [오답] ‘Yesterday, Dad talks on the phone for two hours.’은 시간 표현(Yesterday)과 동사의 시제가 맞지 않는다. ‘Yesterday, Dad talked on the phone for two hours.’로 고쳐야 하므로 오답이다.\n④ [오답] ‘Mr. Kim is having three children.’의 동사 have: ‘가지고 있다(두다)’는 뜻일 때 상태동사라 진행형으로 쓰지 않는다. ‘Mr. Kim has three children.’로 고쳐야 하므로 오답이다.\n⑤ [정답] ‘I am thinking about my summer plans.’의 동사(think about)는 ‘곰곰이 생각하다’라는 동작을 나타내므로 진행형으로 쓸 수 있어 정답이다."
+ }
+}

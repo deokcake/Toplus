@@ -1,0 +1,184 @@
+{
+ "key": "2-8",
+ "type": "A",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "title": "목적격 보어의 쓰임 구별",
+ "total_sec": 134,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "2급 · CH 1 문장의 형식 · 8번\n\n이 문제는 밑줄 친 말이 목적격 보어로 쓰였는지 가려, 보기와 쓰임이 같은 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 1 문장의 형식 · 8번",
+     "이 문제는 밑줄 친 말이 목적격 보어로 쓰였는지 가려, 보기와 쓰임이 같은 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 1, 8번. 이 문제는 밑줄 친 말이 목적격 보어로 쓰였는지 가려, 보기와 쓰임이 같은 것을 고르는 문제예요.",
+   "caption": "목적격 보어의 쓰임 구별"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 21,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분의 쓰임이 <보기>와 같은 것은?\n\n<보기>\nWe found the explanation very <u>clear</u>.\n\n① This soup tastes <u>salty</u>.\n② The sun shines <u>brightly</u>.\n③ He made his parents <u>proud</u>.\n④ I want <u>to go</u> home now.\n⑤ She felt <u>sad</u> about the news.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 밑줄 친 부분의 쓰임이 <보기>와 같은 것은?",
+     "<보기>",
+     "We found the explanation very <u>clear</u>.",
+     "① This soup tastes <u>salty</u>.",
+     "② The sun shines <u>brightly</u>.",
+     "③ He made his parents <u>proud</u>.",
+     "④ I want <u>to go</u> home now.",
+     "⑤ She felt <u>sad</u> about the news."
+    ]
+   },
+   "narration": "다음 중 밑줄 친 부분의 쓰임이 보기와 같은 것은? We found the explanation very clear. 우리는 그 설명이 아주 명확하다고 생각했어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\nmake, keep, find, leave, paint + 목적어 + 형용사\n형용사가 목적어의 상태를 설명 → 목적격 보어\ntaste, feel 같은 동사 뒤에서 주어의 상태를 설명 → 주격 보어\n동사를 꾸미는 말 → 부사 / want 바로 뒤 to부정사 → want의 목적어\n예) Please keep your room clean. (방을 깨끗하게 유지해 주세요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "make, keep, find, leave, paint + 목적어 + 형용사",
+     "형용사가 목적어의 상태를 설명 → 목적격 보어",
+     "taste, feel 같은 동사 뒤에서 주어의 상태를 설명 → 주격 보어",
+     "동사를 꾸미는 말 → 부사 / want 바로 뒤 to부정사 → want의 목적어",
+     "예) Please keep your room clean. (방을 깨끗하게 유지해 주세요.)"
+    ]
+   },
+   "narration": "make, keep, find, leave 같은 동사는 목적어 뒤에 형용사를 써서 목적어가 어떤 상태인지 나타낼 수 있어요. 이 형용사를 목적격 보어라고 해요. Please keep your room clean. 방을 깨끗하게 유지해 주세요. 여기서 clean이 목적어 your room의 상태를 설명해요. 이와 달리 taste, feel 같은 동사 뒤에서 주어의 상태를 설명하는 말은 주격 보어예요.",
+   "caption": "목적어의 상태를 설명하는 형용사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분의 쓰임이 <보기>와 같은 것은?\n\n<보기>\nWe found the explanation very <u>clear</u>.\n\n① This soup tastes <u>salty</u>.\n② The sun shines <u>brightly</u>.\n③ He made his parents <u>proud</u>.\n④ I want <u>to go</u> home now.\n⑤ She felt <u>sad</u> about the news.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "the explanation very <u>clear</u>"
+      ],
+      "strike": [],
+      "note": "<보기> clear → 목적어 the explanation의 상태를 설명 = 목적격 보어"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① This soup tastes <u>salty</u>.",
+       "⑤ She felt <u>sad</u> about the news."
+      ],
+      "note": "① salty, ⑤ sad → 동사 뒤에서 주어의 상태를 설명하는 주격 보어 → 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [],
+      "strike": [
+       "② The sun shines <u>brightly</u>.",
+       "④ I want <u>to go</u> home now."
+      ],
+      "note": "② brightly = shines를 꾸미는 부사, ④ to go = want의 목적어 → 지움"
+     },
+     {
+      "step": 4,
+      "highlight": [
+       "③ He made his parents <u>proud</u>."
+      ],
+      "strike": [],
+      "note": "③ proud → 목적어 his parents의 상태를 설명하는 목적격 보어"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 보기의 밑줄 친 clear는 목적어 the explanation의 상태를 설명하는 목적격 보어예요. 둘째, 1번 salty와 5번 sad는 동사 tastes, felt 뒤에서 주어의 상태를 설명하는 주격 보어라서 지워요. 셋째, 2번 brightly는 동사 shines를 꾸미는 부사이고, 4번 to go는 want의 목적어라서 지워요. 넷째, 남은 3번 proud는 목적어 his parents의 상태를 설명하는 목적격 보어예요. He made his parents proud. 그는 부모님을 자랑스럽게 했어요.",
+   "caption": "주격 보어·부사·목적어 지우기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① This soup tastes <u>salty</u>.  ✗  tastes 뒤에서 주어 This soup의 맛을 설명하는 주격 보어\n② The sun shines <u>brightly</u>.  ✗  동사 shines를 꾸미는 부사\n③ He made his parents <u>proud</u>.  ✓  목적어 his parents의 상태를 설명하는 목적격 보어\n④ I want <u>to go</u> home now.  ✗  want의 목적어로 쓰인 to부정사\n⑤ She felt <u>sad</u> about the news.  ✗  felt 뒤에서 주어 She의 기분을 설명하는 주격 보어",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① This soup tastes <u>salty</u>.  ✗  tastes 뒤에서 주어 This soup의 맛을 설명하는 주격 보어",
+     "② The sun shines <u>brightly</u>.  ✗  동사 shines를 꾸미는 부사",
+     "③ He made his parents <u>proud</u>.  ✓  목적어 his parents의 상태를 설명하는 목적격 보어",
+     "④ I want <u>to go</u> home now.  ✗  want의 목적어로 쓰인 to부정사",
+     "⑤ She felt <u>sad</u> about the news.  ✗  felt 뒤에서 주어 She의 기분을 설명하는 주격 보어"
+    ]
+   },
+   "narration": "정답은 3번 proud예요. 1번 salty와 5번 sad도 형용사라서 고르기 쉬워요. 하지만 둘 다 동사 바로 뒤에서 주어의 상태를 설명하는 주격 보어예요. 이 두 문장에는 목적어가 없어서 목적격 보어가 올 수 없어요. 4번 to go는 형용사가 아니라 want의 목적어예요.",
+   "caption": "정답 ③ proud"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ He made his parents <u>proud</u>.\n\n목적어 뒤에서 목적어의 상태를 설명하는 형용사 → 목적격 보어",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ He made his parents <u>proud</u>.",
+     "목적어 뒤에서 목적어의 상태를 설명하는 형용사 → 목적격 보어"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 목적어 뒤에서 목적어의 상태를 설명하는 형용사가 목적격 보어예요.",
+   "caption": "목적어 + 형용사 = 목적격 보어"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 밑줄 친 부분의 쓰임이 <보기>와 같은 것은?",
+  "passage": "<보기>\nWe found the explanation very <u>clear</u>.",
+  "c": [
+   "This soup tastes <u>salty</u>.",
+   "The sun shines <u>brightly</u>.",
+   "He made his parents <u>proud</u>.",
+   "I want <u>to go</u> home now.",
+   "She felt <u>sad</u> about the news."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 목적격 보어는 목적어 뒤에서 목적어의 상태를 설명한다(find, make, keep, leave, paint + 목적어 + 형용사). 주어를 설명하는 주격 보어, 동사를 꾸미는 부사와 구별한다.\n풀이 순서: ① <보기>의 밑줄(clear)은 목적어(the explanation) 뒤에서 그 상태를 설명하는 목적격 보어다. → ② 보기마다 밑줄이 무엇을 설명하는지 본다. 주어를 설명하면 주격 보어, 동사를 꾸미면 부사, 동사 뒤 to부정사는 목적어다. → ③ 선택지 ③의 밑줄(proud)만 목적어(his parents)를 설명한다.\n문장별 판정:\n정답 판단: 목적어 his parents의 상태를 설명하는 목적격 보어이므로 정답은 ③이다.\n선택지 분석:\n① [오답] 주어(This soup)를 설명하는 주격 보어이므로 오답이다.\n② [오답] 동사 shines를 꾸미는 부사이므로 오답이다.\n③ [정답] 목적어 his parents의 상태를 설명하는 목적격 보어이므로 정답이다.\n④ [오답] want의 목적어인 to부정사이므로 오답이다.\n⑤ [오답] 주어(She)를 설명하는 주격 보어이므로 오답이다."
+ }
+}

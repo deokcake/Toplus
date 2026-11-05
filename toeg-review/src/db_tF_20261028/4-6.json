@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T12:37:20.547Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "wolves",
+      "1": "wolfs",
+      "2": "a wolf",
+      "3": "wolfes",
+      "4": "wolve"
+    },
+    "expl": "핵심 규칙: 명사에 따라 단수와 복수가 같은 형태(sheep, deer, fish)이거나 불규칙하게 바뀐다(goose - geese, mouse - mice, wolf - wolves). How many 뒤와 수량 표현 뒤에는 복수형을 쓴다.\n풀이 순서: ① How many 뒤에는 셀 수 있는 명사의 복수형이 온다. → ② wolf처럼 -f로 끝나는 명사는 f를 v로 바꾸고 -es를 붙인다. → ③ 정답은 wolves.\n문장별 판정:\n정답 판단: -f로 끝나는 wolf는 f를 v로 바꿔 wolves로 쓰므로 정답은 ①이다.\n선택지 분석:\n① [정답] -f로 끝나는 wolf는 f를 v로 바꿔 wolves로 쓰므로 정답이다.\n② [오답] wolf의 복수형은 wolves이므로 오답이다.\n③ [오답] How many 뒤에 a + 단수명사를 쓸 수 없으므로 오답이다.\n④ [오답] f를 v로 바꿔야 하므로 오답이다.\n⑤ [오답] 없는 형태이므로 오답이다.",
+    "passage": "A: How many ________ live in this forest?\nB: I think there are three near the river.",
+    "stem": "다음 대화의 빈칸에 들어갈 알맞은 단어를 고르세요."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T12:35:17.532Z"
+  },
+  "tab": "ocdtwd0p",
+  "updatedAt": "2026-10-27T12:37:20.547Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T12:37:20.547Z",
+      "what": "확인 완료"
+    }
+  }
+}

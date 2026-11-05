@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T11:37:16.508Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: remember·forget·regret·stop은 -ing(이미 한 일)과 to부정사(앞으로 할 일, 목적)에 따라 뜻이 달라진다. try -ing은 시험 삼아 해 봄, try to-V는 하려고 애씀이다. be worth·It is no use(good) 뒤에는 동명사를, 전치사 뒤에도 동명사를 쓴다.\n풀이 순서: ① 문장마다 동사 뒤 형태를 본다. regret, remember, forget, try, stop은 동명사와 to부정사에 따라 뜻이 달라지므로 문맥을 본다. → ② 관용 표현은 형태가 정해져 있다: It is no use(good) -ing, be busy -ing, be worth -ing, look forward to -ing. → ③ ⓔ만 틀렸다. worth reading으로 써야 한다. 올바르지 않은 문장은 1개이다.\n문장별 판정:\nⓐ O. regret -ing은 ‘이미 한 일을 후회하다’이다.\nⓑ O. forget to-V는 ‘해야 할 일을 잊다’이다.\nⓒ O. stop -ing은 ‘~하던 것을 그만두다’이다.\nⓓ O. try to-V는 ‘~하려고 애쓰다’이다.\nⓔ X. be worth 뒤에는 동명사를 쓴다. 교정문: This novel is worth reading twice.\n정답 판단: 어법상 올바르지 않은 문장은 ⓔ로 1개이다.\n선택지 분석:\n① [정답] 어법상 올바르지 않은 문장은 ⓔ로 1개이다. 이 보기의 1개는 실제 개수와 일치한다.\n② [오답] 어법상 올바르지 않은 문장은 ⓔ로 1개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 어법상 올바르지 않은 문장은 ⓔ로 1개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 어법상 올바르지 않은 문장은 ⓔ로 1개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 올바르지 않은 문장은 ⓔ로 1개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "<보기>\nⓐ She regrets saying those rude words to her friend.\nⓑ I forgot to turn off the oven before I left home.\nⓒ Tom stopped playing soccer because of his knee injury.\nⓓ We tried to use a different key, but the door stayed locked.\nⓔ This novel is worth to read twice.",
+    "stem": "다음 <보기>의 주어진 문장 중 어법상 올바르지 않은 문장은 몇 개인가?"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T11:37:16.508Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T11:37:16.508Z",
+      "what": "확인 완료"
+    }
+  }
+}

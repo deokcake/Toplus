@@ -1,0 +1,452 @@
+{
+ "A": {
+  "title": "상태동사 love는 단순현재로",
+  "intro": "이 문제는 진행형으로 쓴 상태동사 love를 바르게 고치는 문제예요.",
+  "problem_narration": "밑줄 친 부분을 바르게 고친 것을 고르세요. I am loving this new song so much. 이 새 노래가 정말 좋다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "상태동사: love, want, know, own처럼 마음·생각·소유·상태를 나타내는 동사",
+    "상태동사는 보통 진행형(be동사 + ing형)으로 쓰지 않고 단순현재로 써요.",
+    "일반동사 단순현재는 주어에 맞춰요: 3인칭 단수 → 대부분 s·es (have → has), 다른 주어 → 동사원형",
+    "예) He wants a new bike. (그는 새 자전거를 원해요.)"
+   ],
+   "narration": "love, want, know, own처럼 마음, 생각, 소유, 상태를 나타내는 동사를 상태동사라고 해요. 상태동사는 동작이 아니라서 보통 진행형으로 쓰지 않고 단순현재로 써요. 일반동사의 단순현재는 주어에 맞춰서, 3인칭 단수 주어에는 대부분 s나 es를 붙이고 다른 주어에는 동사원형을 써요. He wants a new bike. 그는 새 자전거를 원해요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 am loving = 진행형. love(아주 좋아하다)는 마음의 상태 → 단순현재로 고친다.",
+    "highlight": [
+     "<u>am loving</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 am loving은 진행형인데, love는 무언가를 아주 좋아하는 마음의 상태를 나타내는 상태동사라서 단순현재로 고쳐야 해요."
+   },
+   {
+    "note": "단순현재 동사가 아닌 것 지우기: 수동태 am loved, ing형만 남은 loving, be동사 + 동사원형 am love",
+    "highlight": [],
+    "strike": [
+     "① am loved",
+     "③ loving",
+     "④ am love"
+    ],
+    "narration": "둘째, 수동태 am loved, ing형만 남은 loving, be동사와 동사원형을 나란히 쓴 am love는 단순현재 동사가 아니라서 지워요."
+   },
+   {
+    "note": "주어 I → 동사원형 love (loves는 3인칭 단수 주어에 쓰는 꼴)",
+    "highlight": [
+     "I",
+     "② love"
+    ],
+    "strike": [
+     "⑤ loves"
+    ],
+    "narration": "셋째, 주어 I에는 3인칭 단수 주어에 쓰는 loves가 아니라 동사원형 love를 써요. I love this new song so much. 나는 이 새 노래를 정말 좋아해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① am loved  ✗  ‘사랑받는다’는 수동태라 뜻이 달라져요",
+    "② love  ✓  상태동사를 단순현재로, 주어 I에 맞는 동사원형",
+    "③ loving  ✗  ing형만으로는 동사 자리를 채울 수 없어요",
+    "④ am love  ✗  be동사 am과 동사원형 love를 나란히 쓰지 않아요",
+    "⑤ loves  ✗  loves는 3인칭 단수 주어에 쓰는 꼴, 주어 I와 안 맞아요"
+   ],
+   "narration": "정답은 2번 love예요. 3번 loving은 am만 지운 꼴인데, ing형만으로는 동사 자리를 채울 수 없어요. 5번 loves는 he나 she 같은 3인칭 단수 주어에 쓰는 꼴이라 I와 맞지 않아요. 1번 am loved는 사랑받는다는 뜻의 수동태라서 뜻이 달라져요."
+  },
+  "summary": {
+   "card": "상태동사는 보통 진행형으로 쓰지 않고, 주어에 맞는 단순현재로 써요.",
+   "narration": "정답은 2번이에요. 기억할 것, love 같은 상태동사는 보통 진행형 대신 주어에 맞는 단순현재로 써요."
+  },
+  "captions": [
+   "상태동사 love 바르게 고치기",
+   "먼저 풀어 보세요",
+   "상태동사는 보통 단순현재로",
+   "진행형 → 단순현재 → 주어 I",
+   "정답 ② love",
+   "상태동사 + 주어에 맞는 단순현재"
+  ],
+  "sec": [
+   10,
+   21,
+   31,
+   37,
+   24,
+   10
+  ]
+ },
+ "B": {
+  "title": "상태동사 know는 단순현재로",
+  "intro": "이 문제는 진행형으로 쓴 상태동사 know를 바르게 고치는 문제예요.",
+  "problem_narration": "밑줄 친 부분을 바르게 고친 것을 고르세요. I am knowing the answer already. 내가 이미 답을 안다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "상태동사: know, like, love, own처럼 마음·생각·소유·상태를 나타내는 동사",
+    "상태동사는 보통 진행형(be동사 + ing형)으로 쓰지 않고 단순현재로 써요.",
+    "일반동사 단순현재는 주어에 맞춰요: 3인칭 단수 → 대부분 s·es (have → has), 다른 주어 → 동사원형",
+    "예) My dad likes coffee. (우리 아빠는 커피를 좋아해요.)"
+   ],
+   "narration": "know, like, love, own처럼 마음, 생각, 소유, 상태를 나타내는 동사를 상태동사라고 해요. 상태동사는 동작이 아니라서 보통 진행형으로 쓰지 않고 단순현재로 써요. 일반동사의 단순현재는 주어에 맞춰서, 3인칭 단수 주어에는 대부분 s나 es를 붙이고 다른 주어에는 동사원형을 써요. My dad likes coffee. 우리 아빠는 커피를 좋아해요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 am knowing = 진행형. know(알다)는 생각의 상태 → 단순현재로 고친다.",
+    "highlight": [
+     "<u>am knowing</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 am knowing은 진행형인데, know는 무언가를 알고 있는 상태를 나타내는 상태동사라서 단순현재로 고쳐야 해요."
+   },
+   {
+    "note": "단순현재 동사가 아닌 것 지우기: ing형만 남은 knowing, be동사 + 동사원형 am know, 수동태 am known",
+    "highlight": [],
+    "strike": [
+     "② knowing",
+     "③ am know",
+     "④ am known"
+    ],
+    "narration": "둘째, ing형만 남은 knowing, be동사와 동사원형을 나란히 쓴 am know, 알려져 있다는 뜻의 수동태 am known은 단순현재 동사가 아니라서 지워요."
+   },
+   {
+    "note": "주어 I → 동사원형 know (knows는 3인칭 단수 주어에 쓰는 꼴)",
+    "highlight": [
+     "I",
+     "⑤ know"
+    ],
+    "strike": [
+     "① knows"
+    ],
+    "narration": "셋째, 주어 I에는 3인칭 단수 주어에 쓰는 knows가 아니라 동사원형 know를 써요. I know the answer already. 나는 이미 답을 알아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① knows  ✗  knows는 3인칭 단수 주어에 쓰는 꼴, 주어 I와 안 맞아요",
+    "② knowing  ✗  ing형만으로는 동사 자리를 채울 수 없어요",
+    "③ am know  ✗  be동사 am과 동사원형 know를 나란히 쓰지 않아요",
+    "④ am known  ✗  ‘알려져 있다’는 수동태라 뜻이 달라져요",
+    "⑤ know  ✓  상태동사를 단순현재로, 주어 I에 맞는 동사원형"
+   ],
+   "narration": "정답은 5번 know예요. 2번 knowing은 am만 지운 꼴인데, ing형만으로는 동사 자리를 채울 수 없어요. 1번 knows는 he나 she 같은 3인칭 단수 주어에 쓰는 꼴이라 I와 맞지 않아요. 3번 am know는 be동사와 동사원형을 나란히 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "상태동사는 보통 진행형으로 쓰지 않고, 주어에 맞는 단순현재로 써요.",
+   "narration": "정답은 5번이에요. 기억할 것, know 같은 상태동사는 보통 진행형 대신 주어에 맞는 단순현재로 써요."
+  },
+  "captions": [
+   "상태동사 know 바르게 고치기",
+   "먼저 풀어 보세요",
+   "상태동사는 보통 단순현재로",
+   "진행형 → 단순현재 → 주어 I",
+   "정답 ⑤ know",
+   "상태동사 + 주어에 맞는 단순현재"
+  ],
+  "sec": [
+   10,
+   20,
+   31,
+   36,
+   24,
+   10
+  ]
+ },
+ "C": {
+  "title": "상태동사 believe는 단순현재로",
+  "intro": "이 문제는 진행형으로 쓴 상태동사 believe를 바르게 고치는 문제예요.",
+  "problem_narration": "밑줄 친 부분을 바르게 고친 것을 고르세요. She is believing his story. 그녀가 그의 이야기를 믿는다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "상태동사: believe, understand, know, own처럼 마음·생각·소유·상태를 나타내는 동사",
+    "상태동사는 보통 진행형(be동사 + ing형)으로 쓰지 않고 단순현재로 써요.",
+    "일반동사 단순현재는 주어에 맞춰요: 3인칭 단수 → 대부분 s·es (have → has), 다른 주어 → 동사원형",
+    "예) I understand your question. (나는 네 질문을 이해해요.)"
+   ],
+   "narration": "believe, understand, know, own처럼 마음, 생각, 소유, 상태를 나타내는 동사를 상태동사라고 해요. 상태동사는 동작이 아니라서 보통 진행형으로 쓰지 않고 단순현재로 써요. 일반동사의 단순현재는 주어에 맞춰서, 3인칭 단수 주어에는 대부분 s나 es를 붙이고 다른 주어에는 동사원형을 써요. I understand your question. 나는 네 질문을 이해해요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 is believing = 진행형. believe(믿다)는 생각의 상태 → 단순현재로 고친다.",
+    "highlight": [
+     "<u>is believing</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 is believing은 진행형인데, believe는 무언가를 믿는 마음의 상태를 나타내는 상태동사라서 단순현재로 고쳐야 해요."
+   },
+   {
+    "note": "단순현재 동사가 아닌 것 지우기: ing형만 남은 believing, be동사 + 동사원형 is believe, 수동태 is believed",
+    "highlight": [],
+    "strike": [
+     "① believing",
+     "② is believe",
+     "⑤ is believed"
+    ],
+    "narration": "둘째, ing형만 남은 believing, be동사와 동사원형을 나란히 쓴 is believe, 믿어진다는 뜻의 수동태 is believed는 단순현재 동사가 아니라서 지워요."
+   },
+   {
+    "note": "주어 She = 3인칭 단수 → believes (believe는 s가 빠짐)",
+    "highlight": [
+     "She",
+     "③ believes"
+    ],
+    "strike": [
+     "④ believe"
+    ],
+    "narration": "셋째, 주어 She는 3인칭 단수라서 동사원형 believe가 아니라 s를 붙인 believes를 써요. She believes his story. 그녀는 그의 이야기를 믿어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① believing  ✗  ing형만으로는 동사 자리를 채울 수 없어요",
+    "② is believe  ✗  be동사 is와 동사원형 believe를 나란히 쓰지 않아요",
+    "③ believes  ✓  상태동사를 단순현재로, 3인칭 단수 She에 맞춰 s",
+    "④ believe  ✗  주어 She는 3인칭 단수라 s를 붙여야 해요",
+    "⑤ is believed  ✗  ‘믿어진다’는 수동태라 뜻이 달라져요"
+   ],
+   "narration": "정답은 3번 believes예요. 4번 believe는 단순현재로 고친 것은 맞지만, 3인칭 단수 주어 She에 맞게 s를 붙이지 않았어요. 1번 believing은 is만 지운 꼴인데, ing형만으로는 동사 자리를 채울 수 없어요. 5번 is believed는 믿어진다는 뜻의 수동태라서 뜻이 달라져요."
+  },
+  "summary": {
+   "card": "상태동사는 보통 진행형으로 쓰지 않고, 주어에 맞는 단순현재로 써요.",
+   "narration": "정답은 3번이에요. 기억할 것, believe 같은 상태동사는 보통 진행형 대신 주어에 맞는 단순현재로 써요."
+  },
+  "captions": [
+   "상태동사 believe 바르게 고치기",
+   "먼저 풀어 보세요",
+   "상태동사는 보통 단순현재로",
+   "진행형 → 단순현재 → 주어 She",
+   "정답 ③ believes",
+   "상태동사 + 주어에 맞는 단순현재"
+  ],
+  "sec": [
+   10,
+   20,
+   31,
+   36,
+   24,
+   10
+  ]
+ },
+ "D": {
+  "title": "상태동사 own은 단순현재로",
+  "intro": "이 문제는 진행형으로 쓴 상태동사 own을 바르게 고치는 문제예요.",
+  "problem_narration": "밑줄 친 부분을 바르게 고친 것을 고르세요. We are owning this apartment near the river. 강 근처의 이 아파트를 우리가 가지고 있다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "상태동사: own, know, love, need처럼 마음·생각·소유·상태를 나타내는 동사",
+    "상태동사는 보통 진행형(be동사 + ing형)으로 쓰지 않고 단순현재로 써요.",
+    "일반동사 단순현재는 주어에 맞춰요: 3인칭 단수 → 대부분 s·es (have → has), 다른 주어 → 동사원형",
+    "예) Mina knows my name. (미나는 내 이름을 알아요.)"
+   ],
+   "narration": "own, know, love, need처럼 마음, 생각, 소유, 상태를 나타내는 동사를 상태동사라고 해요. 상태동사는 동작이 아니라서 보통 진행형으로 쓰지 않고 단순현재로 써요. 일반동사의 단순현재는 주어에 맞춰서, 3인칭 단수 주어에는 대부분 s나 es를 붙이고 다른 주어에는 동사원형을 써요. Mina knows my name. 미나는 내 이름을 알아요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 are owning = 진행형. own(소유하다)은 소유의 상태 → 단순현재로 고친다.",
+    "highlight": [
+     "<u>are owning</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 are owning은 진행형인데, own은 무언가를 가지고 있는 소유의 상태를 나타내는 상태동사라서 단순현재로 고쳐야 해요."
+   },
+   {
+    "note": "단순현재 동사가 아닌 것 지우기: ing형만 남은 owning, 수동태 are owned, be동사 + 동사원형 are own",
+    "highlight": [],
+    "strike": [
+     "① owning",
+     "③ are owned",
+     "④ are own"
+    ],
+    "narration": "둘째, ing형만 남은 owning, 소유된다는 뜻의 수동태 are owned, be동사와 동사원형을 나란히 쓴 are own은 단순현재 동사가 아니라서 지워요."
+   },
+   {
+    "note": "주어 We → 동사원형 own (owns는 3인칭 단수 주어에 쓰는 꼴)",
+    "highlight": [
+     "We",
+     "② own"
+    ],
+    "strike": [
+     "⑤ owns"
+    ],
+    "narration": "셋째, 주어 We에는 3인칭 단수 주어에 쓰는 owns가 아니라 동사원형 own을 써요. We own this apartment near the river. 우리는 강 근처의 이 아파트를 가지고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① owning  ✗  ing형만으로는 동사 자리를 채울 수 없어요",
+    "② own  ✓  상태동사를 단순현재로, 주어 We에 맞는 동사원형",
+    "③ are owned  ✗  ‘소유된다’는 수동태라 뜻이 달라져요",
+    "④ are own  ✗  be동사 are와 동사원형 own을 나란히 쓰지 않아요",
+    "⑤ owns  ✗  owns는 3인칭 단수 주어에 쓰는 꼴, 주어 We와 안 맞아요"
+   ],
+   "narration": "정답은 2번 own이에요. 1번 owning은 are만 지운 꼴인데, ing형만으로는 동사 자리를 채울 수 없어요. 5번 owns는 3인칭 단수 주어에 쓰는 꼴이라 We와 맞지 않아요. 4번 are own은 be동사와 동사원형을 나란히 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "상태동사는 보통 진행형으로 쓰지 않고, 주어에 맞는 단순현재로 써요.",
+   "narration": "정답은 2번이에요. 기억할 것, own 같은 상태동사는 보통 진행형 대신 주어에 맞는 단순현재로 써요."
+  },
+  "captions": [
+   "상태동사 own 바르게 고치기",
+   "먼저 풀어 보세요",
+   "상태동사는 보통 단순현재로",
+   "진행형 → 단순현재 → 주어 We",
+   "정답 ② own",
+   "상태동사 + 주어에 맞는 단순현재"
+  ],
+  "sec": [
+   10,
+   22,
+   31,
+   39,
+   24,
+   10
+  ]
+ },
+ "E": {
+  "title": "상태동사 resemble은 단순현재로",
+  "intro": "이 문제는 진행형으로 쓴 상태동사 resemble을 바르게 고치는 문제예요.",
+  "problem_narration": "밑줄 친 부분을 바르게 고친 것을 고르세요. Tom is resembling his father in many ways. Tom이 여러 면에서 아버지를 닮았다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "상태동사: resemble, hate, know, own처럼 마음·생각·소유·상태를 나타내는 동사",
+    "상태동사는 보통 진행형(be동사 + ing형)으로 쓰지 않고 단순현재로 써요.",
+    "일반동사 단순현재는 주어에 맞춰요: 3인칭 단수 → 대부분 s·es (have → has), 다른 주어 → 동사원형",
+    "예) My cat hates water. (우리 고양이는 물을 싫어해요.)"
+   ],
+   "narration": "resemble, hate, know, own처럼 마음, 생각, 소유, 상태를 나타내는 동사를 상태동사라고 해요. 상태동사는 동작이 아니라서 보통 진행형으로 쓰지 않고 단순현재로 써요. 일반동사의 단순현재는 주어에 맞춰서, 3인칭 단수 주어에는 대부분 s나 es를 붙이고 다른 주어에는 동사원형을 써요. My cat hates water. 우리 고양이는 물을 싫어해요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 is resembling = 진행형. resemble(닮다)은 상태 → 단순현재로 고친다.",
+    "highlight": [
+     "<u>is resembling</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 is resembling은 진행형인데, resemble은 누군가를 닮은 상태를 나타내는 상태동사라서 단순현재로 고쳐야 해요."
+   },
+   {
+    "note": "단순현재 동사가 아닌 것 지우기: ing형만 남은 resembling, be동사 + 동사원형 is resemble, 수동태 is resembled (resemble은 수동태로 쓰지 않음)",
+    "highlight": [],
+    "strike": [
+     "① resembling",
+     "② is resemble",
+     "③ is resembled"
+    ],
+    "narration": "둘째, ing형만 남은 resembling, be동사와 동사원형을 나란히 쓴 is resemble은 단순현재 동사가 아니라서 지워요. resemble은 수동태로도 쓰지 않으니 is resembled도 지워요."
+   },
+   {
+    "note": "주어 Tom = 3인칭 단수 → resembles (resemble은 s가 빠짐)",
+    "highlight": [
+     "Tom",
+     "④ resembles"
+    ],
+    "strike": [
+     "⑤ resemble"
+    ],
+    "narration": "셋째, 주어 Tom은 3인칭 단수라서 s를 붙인 resembles를 써요. Tom resembles his father in many ways. Tom은 여러 면에서 아버지를 닮았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① resembling  ✗  ing형만으로는 동사 자리를 채울 수 없어요",
+    "② is resemble  ✗  be동사 is와 동사원형 resemble을 나란히 쓰지 않아요",
+    "③ is resembled  ✗  resemble(닮다)은 수동태로 쓰지 않아요",
+    "④ resembles  ✓  상태동사를 단순현재로, 3인칭 단수 Tom에 맞춰 s",
+    "⑤ resemble  ✗  주어 Tom은 3인칭 단수라 s를 붙여야 해요"
+   ],
+   "narration": "정답은 4번 resembles예요. 5번 resemble은 단순현재로 고친 것은 맞지만, 3인칭 단수 주어 Tom에 맞게 s를 붙이지 않았어요. 1번 resembling은 is만 지운 꼴인데, ing형만으로는 동사 자리를 채울 수 없어요. 3번 is resembled는 수동태인데, resemble은 수동태로 쓰지 않아요."
+  },
+  "summary": {
+   "card": "상태동사는 보통 진행형으로 쓰지 않고, 주어에 맞는 단순현재로 써요.",
+   "narration": "정답은 4번이에요. 기억할 것, resemble 같은 상태동사는 보통 진행형 대신 주어에 맞는 단순현재로 써요."
+  },
+  "captions": [
+   "상태동사 resemble 바르게 고치기",
+   "먼저 풀어 보세요",
+   "상태동사는 보통 단순현재로",
+   "진행형 → 단순현재 → 주어 Tom",
+   "정답 ④ resembles",
+   "상태동사 + 주어에 맞는 단순현재"
+  ],
+  "sec": [
+   10,
+   22,
+   31,
+   37,
+   24,
+   10
+  ]
+ },
+ "F": {
+  "title": "상태동사 need는 단순현재로",
+  "intro": "이 문제는 진행형으로 쓴 상태동사 need를 바르게 고치는 문제예요.",
+  "problem_narration": "밑줄 친 부분을 바르게 고친 것을 고르세요. They are needing more time to finish the project. 프로젝트를 끝낼 시간이 더 필요하다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "상태동사: need, remember, know, own처럼 마음·생각·소유·상태를 나타내는 동사",
+    "상태동사는 보통 진행형(be동사 + ing형)으로 쓰지 않고 단순현재로 써요.",
+    "일반동사 단순현재는 주어에 맞춰요: 3인칭 단수 → 대부분 s·es (have → has), 다른 주어 → 동사원형",
+    "예) I remember his name. (나는 그의 이름을 기억해요.)"
+   ],
+   "narration": "need, remember, know, own처럼 마음, 생각, 소유, 상태를 나타내는 동사를 상태동사라고 해요. 상태동사는 동작이 아니라서 보통 진행형으로 쓰지 않고 단순현재로 써요. 일반동사의 단순현재는 주어에 맞춰서, 3인칭 단수 주어에는 대부분 s나 es를 붙이고 다른 주어에는 동사원형을 써요. I remember his name. 나는 그의 이름을 기억해요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 are needing = 진행형. need(필요하다)는 상태 → 단순현재로 고친다.",
+    "highlight": [
+     "<u>are needing</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 are needing은 진행형인데, need는 무언가가 필요한 상태를 나타내는 상태동사라서 단순현재로 고쳐야 해요."
+   },
+   {
+    "note": "단순현재 동사가 아닌 것 지우기: 수동태 are needed, ing형만 남은 needing, be동사 + 동사원형 are need",
+    "highlight": [],
+    "strike": [
+     "② are needed",
+     "③ needing",
+     "⑤ are need"
+    ],
+    "narration": "둘째, 수동태 are needed, ing형만 남은 needing, be동사와 동사원형을 나란히 쓴 are need는 단순현재 동사가 아니라서 지워요."
+   },
+   {
+    "note": "주어 They → 동사원형 need (needs는 3인칭 단수 주어에 쓰는 꼴)",
+    "highlight": [
+     "They",
+     "① need"
+    ],
+    "strike": [
+     "④ needs"
+    ],
+    "narration": "셋째, 주어 They에는 3인칭 단수 주어에 쓰는 needs가 아니라 동사원형 need를 써요. They need more time to finish the project. 그들은 프로젝트를 끝낼 시간이 더 필요해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① need  ✓  상태동사를 단순현재로, 주어 They에 맞는 동사원형",
+    "② are needed  ✗  ‘그들이 남에게 필요하다’는 수동태라 뜻이 달라져요",
+    "③ needing  ✗  ing형만으로는 동사 자리를 채울 수 없어요",
+    "④ needs  ✗  needs는 3인칭 단수 주어에 쓰는 꼴, 주어 They와 안 맞아요",
+    "⑤ are need  ✗  be동사 are와 동사원형 need를 나란히 쓰지 않아요"
+   ],
+   "narration": "정답은 1번 need예요. 3번 needing은 are만 지운 꼴인데, ing형만으로는 동사 자리를 채울 수 없어요. 4번 needs는 3인칭 단수 주어에 쓰는 꼴이라 They와 맞지 않아요. 2번 are needed는 그들이 남에게 필요하다는 뜻의 수동태라서 뜻이 달라져요."
+  },
+  "summary": {
+   "card": "상태동사는 보통 진행형으로 쓰지 않고, 주어에 맞는 단순현재로 써요.",
+   "narration": "정답은 1번이에요. 기억할 것, need 같은 상태동사는 보통 진행형 대신 주어에 맞는 단순현재로 써요."
+  },
+  "captions": [
+   "상태동사 need 바르게 고치기",
+   "먼저 풀어 보세요",
+   "상태동사는 보통 단순현재로",
+   "진행형 → 단순현재 → 주어 They",
+   "정답 ① need",
+   "상태동사 + 주어에 맞는 단순현재"
+  ],
+  "sec": [
+   10,
+   22,
+   31,
+   37,
+   24,
+   10
+  ]
+ }
+}

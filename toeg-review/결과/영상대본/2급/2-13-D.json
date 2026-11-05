@@ -1,0 +1,179 @@
+{
+ "key": "2-13",
+ "type": "D",
+ "grade": 2,
+ "chapter": "CH 2 시제",
+ "title": "완료 시제의 과거분사 형태",
+ "total_sec": 135,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "2급 · CH 2 시제 · 13번 · D 유형\n\n이 문제는 완료 시제에서 have나 has 뒤에 쓴 과거분사의 형태가 틀린 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 2 시제 · 13번 · D 유형",
+     "이 문제는 완료 시제에서 have나 has 뒤에 쓴 과거분사의 형태가 틀린 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 2, 13번 D 유형. 이 문제는 완료 시제에서 have나 has 뒤에 쓴 과거분사의 형태가 틀린 것을 고르는 문제예요.",
+   "caption": "완료 시제의 과거분사 형태"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 밑줄 친 곳이 어법상 어색한 것을 고르시오.\n\n① We have <u>made</u> great progress on the science project this month.\n② Jane has <u>lent</u> me a book about famous Korean painters.\n③ She has <u>gave</u> me useful advice about my future career.\n④ He has <u>known</u> her since they were in elementary school.\n⑤ They have <u>taken</u> the same test twice this semester.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 밑줄 친 곳이 어법상 어색한 것을 고르시오.",
+     "① We have <u>made</u> great progress on the science project this month.",
+     "② Jane has <u>lent</u> me a book about famous Korean painters.",
+     "③ She has <u>gave</u> me useful advice about my future career.",
+     "④ He has <u>known</u> her since they were in elementary school.",
+     "⑤ They have <u>taken</u> the same test twice this semester."
+    ]
+   },
+   "narration": "다음 중 밑줄 친 곳이 어법상 어색한 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\n완료 시제: have/has/had + 과거분사\n현재완료(have/has + 과거분사): 과거에 일어난 일이 지금과 이어질 때\n과거완료(had + 과거분사): 과거의 어느 때보다 먼저 일어난 일\n불규칙동사는 과거형과 과거분사가 다를 수 있어요 (fly - flew - flown)\n예) The bird has flown away. (새가 날아가 버렸어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "완료 시제: have/has/had + 과거분사",
+     "현재완료(have/has + 과거분사): 과거에 일어난 일이 지금과 이어질 때",
+     "과거완료(had + 과거분사): 과거의 어느 때보다 먼저 일어난 일",
+     "불규칙동사는 과거형과 과거분사가 다를 수 있어요 (fly - flew - flown)",
+     "예) The bird has flown away. (새가 날아가 버렸어요.)"
+    ]
+   },
+   "narration": "완료 시제는 have, has, had 뒤에 과거분사를 써요. have나 has를 쓰는 현재완료는 과거의 일이 지금과 이어질 때 쓰고, had를 쓰는 과거완료는 과거의 어느 때보다 먼저 일어난 일에 써요. 불규칙동사는 fly, flew, flown처럼 과거형과 과거분사가 다를 수 있어요. The bird has flown away. 새가 날아가 버렸어요.",
+   "caption": "have/has/had + 과거분사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 40,
+   "screen": {
+    "text": "다음 중 밑줄 친 곳이 어법상 어색한 것을 고르시오.\n\n① We have <u>made</u> great progress on the science project this month.\n② Jane has <u>lent</u> me a book about famous Korean painters.\n③ She has <u>gave</u> me useful advice about my future career.\n④ He has <u>known</u> her since they were in elementary school.\n⑤ They have <u>taken</u> the same test twice this semester.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "have <u>made</u>",
+       "has <u>lent</u>",
+       "has <u>gave</u>",
+       "has <u>known</u>",
+       "have <u>taken</u>"
+      ],
+      "strike": [],
+      "note": "밑줄은 모두 have/has 바로 뒤 → 완료 시제의 과거분사 자리"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① We have <u>made</u> great progress on the science project this month.",
+       "② Jane has <u>lent</u> me a book about famous Korean painters.",
+       "④ He has <u>known</u> her since they were in elementary school.",
+       "⑤ They have <u>taken</u> the same test twice this semester."
+      ],
+      "note": "원형 - 과거형 - 과거분사를 떠올리면 made, lent, known, taken → 바름"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ She has <u>gave</u> me useful advice about my future career."
+      ],
+      "strike": [],
+      "note": "give - gave - given → gave는 과거형. has given으로 고친다"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 밑줄 친 동사는 모두 have나 has 바로 뒤에 있으니 완료 시제를 만드는 과거분사 자리예요. 둘째, 원형, 과거형, 과거분사를 떠올려 보면 1번 made, 2번 lent, 4번 known, 5번 taken은 모두 바른 과거분사예요. 셋째, 3번 gave는 give의 과거형이에요. give, gave, given이니 has 뒤에는 given을 써야 해요. She has given me useful advice about my future career. 그녀는 내 장래 직업에 대해 쓸모 있는 조언을 해 주었어요.",
+   "caption": "과거분사 자리 → gave는 과거형"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① We have <u>made</u> great progress on the science project this month.  ✗  make - made - made, 과거형과 과거분사가 같아요\n② Jane has <u>lent</u> me a book about famous Korean painters.  ✗  lend - lent - lent, lent는 과거분사로도 써요\n③ She has <u>gave</u> me useful advice about my future career.  ✓  gave는 과거형 → has given으로 고쳐야 해요 (어색한 곳)\n④ He has <u>known</u> her since they were in elementary school.  ✗  know - knew - known, 과거형 knew가 아니라 known\n⑤ They have <u>taken</u> the same test twice this semester.  ✗  take - took - taken, 과거분사 taken이 맞아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① We have <u>made</u> great progress on the science project this month.  ✗  make - made - made, 과거형과 과거분사가 같아요",
+     "② Jane has <u>lent</u> me a book about famous Korean painters.  ✗  lend - lent - lent, lent는 과거분사로도 써요",
+     "③ She has <u>gave</u> me useful advice about my future career.  ✓  gave는 과거형 → has given으로 고쳐야 해요 (어색한 곳)",
+     "④ He has <u>known</u> her since they were in elementary school.  ✗  know - knew - known, 과거형 knew가 아니라 known",
+     "⑤ They have <u>taken</u> the same test twice this semester.  ✗  take - took - taken, 과거분사 taken이 맞아요"
+    ]
+   },
+   "narration": "정답은 3번, 과거형 gave를 쓴 문장이에요. 2번 lent는 과거형처럼 보여서 고르기 쉬워요. 하지만 lend는 과거형과 과거분사가 모두 lent라서 맞아요. 1번 made도 make의 과거분사로 바르게 썼어요. 4번 known은 know, knew, known의 과거분사예요.",
+   "caption": "정답 ③ has gave"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ③ She has <u>gave</u> me useful advice about my future career.\n\n완료 시제: have/has/had + 과거분사 (과거형은 쓰지 않아요)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ She has <u>gave</u> me useful advice about my future career.",
+     "완료 시제: have/has/had + 과거분사 (과거형은 쓰지 않아요)"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 완료 시제에서는 have, has, had 뒤에 과거형이 아니라 과거분사를 써요.",
+   "caption": "과거형이 아니라 과거분사"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 밑줄 친 곳이 어법상 어색한 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "We have <u>made</u> great progress on the science project this month.",
+   "Jane has <u>lent</u> me a book about famous Korean painters.",
+   "She has <u>gave</u> me useful advice about my future career.",
+   "He has <u>known</u> her since they were in elementary school.",
+   "They have <u>taken</u> the same test twice this semester."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 현재완료·과거완료는 have/has/had + 과거분사(p.p.)로 만든다. 불규칙동사는 과거형과 과거분사형이 다를 수 있으므로 각각 확인한다.\n풀이 순서: ① 밑줄은 모두 have/has/had 뒤, 곧 과거분사 자리다. → ② 밑줄 친 동사의 ‘원형 - 과거형 - 과거분사’를 떠올려 과거분사가 맞는지 본다. 과거형과 과거분사가 다른 불규칙동사가 함정이다. → ③ 선택지 ③의 gave는 과거형이다. give - gave - given이므로 given이 맞다.\n문장별 판정:\n정답 판단: has gave: 과거분사 자리에 과거형을 썼다(give-gave-given). has given(으)로 고쳐야 하는 어색한 곳이므로 정답은 ③이다.\n선택지 분석:\n① [오답] have made: 과거분사를 바르게 썼다(make-made-made). 어색하지 않으므로 오답이다.\n② [오답] has lent: 과거분사를 바르게 썼다(lend-lent-lent). 어색하지 않으므로 오답이다.\n③ [정답] has gave: 과거분사 자리에 과거형을 썼다(give-gave-given). has given(으)로 고쳐야 하는 어색한 곳이므로 정답이다.\n④ [오답] has known: 과거분사를 바르게 썼다(know-knew-known). 어색하지 않으므로 오답이다.\n⑤ [오답] have taken: 과거분사를 바르게 썼다(take-took-taken). 어색하지 않으므로 오답이다."
+ }
+}

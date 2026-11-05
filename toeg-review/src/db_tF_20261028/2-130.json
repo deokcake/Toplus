@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T11:58:38.014Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 현재 사실과 반대되는 소망·가정에는 과거형(be동사는 were), 이미 끝난 과거의 후회·가정에는 had + 과거분사를 쓴다. wish 뒤에는 will·can·현재형을 쓰지 않으며, 가정법 과거의 주절은 would + 동사원형이다.\n풀이 순서: ① I wish, as if, If 뒤의 동사 형태를 본다. 지금 일의 반대는 과거형(were, could), 지난 일의 반대는 had + 과거분사다. → ② 문장 속 시간 표현(now, yesterday, last year 등)과 견주고, 과거분사의 형태도 확인한다. → ③ 첫째는 had listened, 둘째는 were, 넷째는 would have paid, 다섯째는 could로 써야 한다. 셋째만 옳다. 옳은 문장은 1개이다.\n문장별 판정:\n첫째 X. 지난 일에 대한 아쉬움은 had + 과거분사로 쓴다(I wish I had listened).\n둘째 X. wish 뒤 현재 사실 반대에는 were를 쓴다.\n셋째 O. as if + 과거형으로 현재 사실의 반대를 나타냈다.\n넷째 X. 가정법 과거완료의 주절은 would have + 과거분사이다(we would have paid).\n다섯째 X. wish 뒤에는 could를 쓴다(she could sing).\n정답 판단: 어법상 옳은 문장은 셋째로 1개이다.\n선택지 분석:\n① [정답] 어법상 옳은 문장은 셋째로 1개이다. 이 보기의 1개는 실제 개수와 일치한다.\n② [오답] 어법상 옳은 문장은 셋째로 1개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 어법상 옳은 문장은 셋째로 1개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 어법상 옳은 문장은 셋째로 1개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 옳은 문장은 셋째로 1개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "- I wish I have listened to your advice last year.\n- Jane wishes she is more patient with her brother.\n- Tom talks as if he knew everything about cars.\n- If we had booked the tickets earlier, we will pay less.\n- Mina wishes she can sing like a famous singer.",
+    "stem": "다음 중 어법상 옳은 문장의 개수는?"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T11:58:38.014Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T11:58:38.014Z",
+      "what": "확인 완료"
+    }
+  }
+}

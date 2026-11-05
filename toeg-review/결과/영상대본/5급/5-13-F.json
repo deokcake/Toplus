@@ -1,0 +1,179 @@
+{
+ "key": "5-13",
+ "type": "F",
+ "grade": 5,
+ "chapter": "CH 2 be동사와 일반동사",
+ "title": "주어에 맞는 현재형 동사의 형태",
+ "total_sec": 127,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 2 be동사와 일반동사 · 13번 · F 유형\n\n이 문제는 일반동사와 be동사가 주어에 맞는 형태인지 살펴, 동사의 형태가 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 2 be동사와 일반동사 · 13번 · F 유형",
+     "이 문제는 일반동사와 be동사가 주어에 맞는 형태인지 살펴, 동사의 형태가 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 2, 13번 F 유형. 이 문제는 일반동사와 be동사가 주어에 맞는 형태인지 살펴, 동사의 형태가 틀린 문장을 고르는 문제예요.",
+   "caption": "동사의 형태가 틀린 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 동사의 형태가 틀린 문장을 고르시오.\n\n① Jane is my sister.\n② My cat sleeps a lot.\n③ They watch movies on Fridays.\n④ He carries a heavy bag.\n⑤ The kids is in the park.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 동사의 형태가 틀린 문장을 고르시오.",
+     "① Jane is my sister.",
+     "② My cat sleeps a lot.",
+     "③ They watch movies on Fridays.",
+     "④ He carries a heavy bag.",
+     "⑤ The kids is in the park."
+    ]
+   },
+   "narration": "다음 중 동사의 형태가 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n현재형: 주어가 3인칭 단수(he, she, it, Tom) → 일반동사 + s/es\n자음 + y로 끝나면 y를 i로 바꾸고 es (cry → cries) · have → has\n주어가 I, you, we, they, 복수 → 일반동사는 동사원형\nbe동사: I → am · 3인칭 단수 → is · you, 복수 → are\n예) The boy is happy. (그 남자아이는 행복해요.)  The boys are happy. (그 남자아이들은 행복해요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재형: 주어가 3인칭 단수(he, she, it, Tom) → 일반동사 + s/es",
+     "자음 + y로 끝나면 y를 i로 바꾸고 es (cry → cries) · have → has",
+     "주어가 I, you, we, they, 복수 → 일반동사는 동사원형",
+     "be동사: I → am · 3인칭 단수 → is · you, 복수 → are",
+     "예) The boy is happy. (그 남자아이는 행복해요.)  The boys are happy. (그 남자아이들은 행복해요.)"
+    ]
+   },
+   "narration": "현재형은 주로 평소에 하는 일이나 사실을 말하고, 일반동사와 be동사의 모양은 주어에 맞춰 골라요. 주어가 he, she, it이나 Tom처럼 3인칭 단수이면 일반동사에 s나 es를 붙이는데, 자음 다음 y로 끝나면 y를 i로 바꿔 es를 붙이고, have는 has로 써요. 주어가 I, you, we, they이거나 여럿이면 일반동사는 동사원형을 쓰고, be동사는 I에 am, 3인칭 단수에 is, you와 여럿에 are를 써요. 예를 들어 The boy is happy, 그 남자아이는 행복해요. The boys are happy. 그 남자아이들은 행복해요.",
+   "caption": "주어에 맞는 동사 모양"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 동사의 형태가 틀린 문장을 고르시오.\n\n① Jane is my sister.\n② My cat sleeps a lot.\n③ They watch movies on Fridays.\n④ He carries a heavy bag.\n⑤ The kids is in the park.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Jane",
+       "My cat",
+       "He",
+       "They",
+       "The kids"
+      ],
+      "strike": [],
+      "note": "주어 찾기: Jane, My cat, He → 3인칭 단수 / They, The kids → 여럿"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "sleeps",
+       "carries",
+       "watch"
+      ],
+      "strike": [],
+      "note": "일반동사: sleeps, carries(자음 + y → ies), They watch(동사원형) → 맞다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "Jane is",
+       "⑤ The kids is in the park."
+      ],
+      "strike": [],
+      "note": "be동사: Jane is 맞다 / The kids is ✗ → are. 틀린 문장은 ⑤"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 주어를 찾아 보면 Jane, My cat, He는 3인칭 단수이고, They와 The kids는 여럿이에요. 둘째, 일반동사를 보면 My cat에는 sleeps, They에는 동사원형 watch가 맞아요. He에는 carry의 y를 i로 바꾸고 es를 붙인 carries가 맞아요. 셋째, be동사를 보면 Jane에는 is가 맞지만, 여럿인 The kids에는 are를 써야 하니 5번이 틀린 문장이에요. The kids are in the park, 아이들은 공원에 있어요.",
+   "caption": "주어 찾기 → 일반동사 → be동사"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① Jane is my sister.  ✗  3인칭 단수 Jane → be동사 is가 맞아요\n② My cat sleeps a lot.  ✗  3인칭 단수 My cat → sleep + s, sleeps가 맞아요\n③ They watch movies on Fridays.  ✗  복수 They → 동사원형 watch가 맞아요\n④ He carries a heavy bag.  ✗  3인칭 단수 He → carry의 y를 i로 바꾼 carries가 맞아요\n⑤ The kids is in the park.  ✓  복수 The kids → is가 아니라 are (틀린 문장)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① Jane is my sister.  ✗  3인칭 단수 Jane → be동사 is가 맞아요",
+     "② My cat sleeps a lot.  ✗  3인칭 단수 My cat → sleep + s, sleeps가 맞아요",
+     "③ They watch movies on Fridays.  ✗  복수 They → 동사원형 watch가 맞아요",
+     "④ He carries a heavy bag.  ✗  3인칭 단수 He → carry의 y를 i로 바꾼 carries가 맞아요",
+     "⑤ The kids is in the park.  ✓  복수 The kids → is가 아니라 are (틀린 문장)"
+    ]
+   },
+   "narration": "정답은 5번이에요. The kids는 아이 여러 명이라 be동사 is가 아니라 are를 써야 해요. 3번 They watch를 watches로 고쳐야 한다고 생각하기 쉽지만, 여럿인 They에는 동사원형 watch가 맞아요. 4번 carries는 carry의 y를 i로 바꾸고 es를 붙인 맞는 형태예요. 1번 Jane은 한 사람이라 is가 맞아요.",
+   "caption": "정답 ⑤ is → are"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ⑤ The kids is in the park.\n\nbe동사: 3인칭 단수 → is · you, 여럿 → are",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ The kids is in the park.",
+     "be동사: 3인칭 단수 → is · you, 여럿 → are"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, be동사는 주어가 3인칭 단수이면 is, you이거나 여럿이면 are를 써요.",
+   "caption": "여럿인 주어 + be동사 are"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 동사의 형태가 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Jane is my sister.",
+   "My cat sleeps a lot.",
+   "They watch movies on Fridays.",
+   "He carries a heavy bag.",
+   "The kids is in the park."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 현재 시제에서 3인칭 단수 주어의 일반동사에는 -s/-es를 붙이고(자음 + y는 y를 i로 바꾸고 -es), 그 밖의 주어에는 동사원형을 쓴다. be동사는 I에 am, 3인칭 단수에 is, you·복수에 are를 쓴다.\n풀이 순서: ① 문장마다 주어가 3인칭 단수인지 본다. → ② 3인칭 단수면 동사에 -(e)s(have는 has), 아니면 동사원형이다. → ③ 선택지 ⑤의 The kids는 복수이므로 are를 써야 한다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 복수 주어 The kids에는 are를 써야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n② [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n③ [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n④ [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n⑤ [정답] 복수 주어 The kids에는 are를 써야 하므로 정답이다."
+ }
+}

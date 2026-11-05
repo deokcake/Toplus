@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T16:49:52.675Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "in - at - for",
+      "1": "on - on - of",
+      "2": "at - in - by",
+      "3": "on - in - for",
+      "4": "for - in - on"
+    },
+    "expl": "핵심 규칙: 전치사 + which의 전치사는 관계절을 원래 문장으로 풀었을 때 선행사 앞에 오는 전치사이다(I was born in the house → the house in which I was born).\n풀이 순서: ① 선행사를 관계절 끝으로 옮겨 전치사를 찾는다. → ② closes on the day, keep my letters in the box, was late for the reason → ③ 순서대로 on - in - for이다.\n문장별 판정:\n정답 판단: 관계절을 원래 문장으로 풀면 ‘the store closes early on the day’, ‘I keep my letters in the box’, ‘he was late for the reason’이므로 on - in - for이다.\n선택지 분석:\n① [오답] A 빈칸 in: 관계절을 풀면 ‘the store closes early on the day’이므로 on가 알맞다. B 빈칸 at: 관계절을 풀면 ‘I keep my letters in the box’이므로 in가 알맞다. 따라서 오답이다.\n② [오답] B 빈칸 on: 관계절을 풀면 ‘I keep my letters in the box’이므로 in가 알맞다. C 빈칸 of: 관계절을 풀면 ‘he was late for the reason’이므로 for가 알맞다. 따라서 오답이다.\n③ [오답] A 빈칸 at: 관계절을 풀면 ‘the store closes early on the day’이므로 on가 알맞다. C 빈칸 by: 관계절을 풀면 ‘he was late for the reason’이므로 for가 알맞다. 따라서 오답이다.\n④ [정답] on - in - for: 세 빈칸이 모두 알맞으므로 정답이다.\n⑤ [오답] A 빈칸 for: 관계절을 풀면 ‘the store closes early on the day’이므로 on가 알맞다. C 빈칸 on: 관계절을 풀면 ‘he was late for the reason’이므로 for가 알맞다. 따라서 오답이다.",
+    "passage": "A. Friday is the day _____ which the store closes early.\nB. The box _____ which I keep my letters is old.\nC. The reason _____ which he was late is unknown.",
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T16:49:32.175Z"
+  },
+  "tab": "8s1sfi09",
+  "updatedAt": "2026-10-23T16:49:52.675Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:49:52.675Z",
+      "what": "확인 완료"
+    }
+  }
+}

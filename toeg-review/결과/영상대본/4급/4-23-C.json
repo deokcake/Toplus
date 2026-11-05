@@ -1,0 +1,180 @@
+{
+ "key": "4-23",
+ "type": "C",
+ "grade": 4,
+ "chapter": "CH 3 be동사와 일반동사",
+ "title": "주어와 동사의 수일치 (일반동사 현재형)",
+ "total_sec": 145,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "4급 · CH 3 be동사와 일반동사 · 23번 · C 유형\n\n이 문제는 주어가 3인칭 단수인지 복수인지에 맞게 일반동사를 쓴 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 3 be동사와 일반동사 · 23번 · C 유형",
+     "이 문제는 주어가 3인칭 단수인지 복수인지에 맞게 일반동사를 쓴 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 3, 23번 C 유형. 이 문제는 주어가 3인칭 단수인지 복수인지에 맞게 일반동사를 쓴 문장을 고르는 문제예요.",
+   "caption": "주어와 동사의 수일치"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르시오.\n\n① Tom watch TV every night.\n② The girls sings well.\n③ It rain a lot in July.\n④ He don't know the answer.\n⑤ My uncle teaches math.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르시오.",
+     "① Tom watch TV every night.",
+     "② The girls sings well.",
+     "③ It rain a lot in July.",
+     "④ He don't know the answer.",
+     "⑤ My uncle teaches math."
+    ]
+   },
+   "narration": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르세요. 다섯 문장의 주어와 동사를 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 38,
+   "screen": {
+    "text": "핵심 규칙\n현재 시제에서는 주어에 맞춰 동사 모양을 정해요.\n3인칭 단수 주어 → 일반동사 + s/es (have → has)\n복수 주어 → 일반동사는 동사원형\n일반동사 부정 → 3인칭 단수 doesn't, 복수 don't + 동사원형\n예) He plays tennis, and they play baseball. (그는 테니스를 치고, 그들은 야구를 해요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재 시제에서는 주어에 맞춰 동사 모양을 정해요.",
+     "3인칭 단수 주어 → 일반동사 + s/es (have → has)",
+     "복수 주어 → 일반동사는 동사원형",
+     "일반동사 부정 → 3인칭 단수 doesn't, 복수 don't + 동사원형",
+     "예) He plays tennis, and they play baseball. (그는 테니스를 치고, 그들은 야구를 해요.)"
+    ]
+   },
+   "narration": "현재 시제에서는 주어에 맞춰 동사 모양을 정하는데, 이것을 수일치라고 해요. 주어가 he, she, it처럼 I와 you가 아닌 한 사람이나 한 개이면 3인칭 단수라서, 일반동사에 s나 es를 붙이고 have는 has로 써요. 주어가 여럿인 복수이면 동사원형을 쓰고, 부정은 3인칭 단수면 doesn't, 복수면 don't 뒤에 동사원형을 써요. 예를 들어 He plays tennis, and they play baseball. 그는 테니스를 치고, 그들은 야구를 해요.",
+   "caption": "3인칭 단수 → s/es, 복수 → 원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르시오.\n\n① Tom watch TV every night.\n② The girls sings well.\n③ It rain a lot in July.\n④ He don't know the answer.\n⑤ My uncle teaches math.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Tom watch",
+       "It rain"
+      ],
+      "strike": [
+       "① Tom watch TV every night.",
+       "③ It rain a lot in July."
+      ],
+      "note": "Tom, It은 3인칭 단수 → watches, rains. ①, ③ 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "The girls sings",
+       "He don't"
+      ],
+      "strike": [
+       "② The girls sings well.",
+       "④ He don't know the answer."
+      ],
+      "note": "The girls는 복수 → sing. He의 부정 → doesn't. ②, ④ 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ My uncle teaches math."
+      ],
+      "strike": [],
+      "note": "My uncle은 3인칭 단수 → teaches ✓"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 1번 Tom과 3번 It은 3인칭 단수라서, watch는 es를 붙인 watches로, rain은 rains로 써야 해요. 둘째, 2번 The girls는 복수라서 sing을, 4번 He는 3인칭 단수라서 doesn't를 써야 해요. 셋째, 5번 My uncle은 3인칭 단수이고, teach에 es를 붙인 teaches를 바르게 썼어요. My uncle teaches math. 우리 삼촌은 수학을 가르쳐요.",
+   "caption": "주어의 수 → 동사 확인 → teaches"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① Tom watch TV every night.  ✗  Tom은 3인칭 단수 → watches\n② The girls sings well.  ✗  The girls는 복수 → sing\n③ It rain a lot in July.  ✗  It은 3인칭 단수 → rains\n④ He don't know the answer.  ✗  He의 부정 → doesn't know\n⑤ My uncle teaches math.  ✓  3인칭 단수 My uncle → teaches",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① Tom watch TV every night.  ✗  Tom은 3인칭 단수 → watches",
+     "② The girls sings well.  ✗  The girls는 복수 → sing",
+     "③ It rain a lot in July.  ✗  It은 3인칭 단수 → rains",
+     "④ He don't know the answer.  ✗  He의 부정 → doesn't know",
+     "⑤ My uncle teaches math.  ✓  3인칭 단수 My uncle → teaches"
+    ]
+   },
+   "narration": "정답은 5번이에요. My uncle은 한 사람이라 3인칭 단수이고, teaches를 바르게 썼어요. 2번은 sings에 s가 붙어 맞아 보이지만, 주어 The girls가 복수라서 sing을 써야 해요. 3번 It은 날씨를 말할 때 쓰는 주어인데, 이것도 3인칭 단수라서 rains를 써요.",
+   "caption": "정답 ⑤ My uncle teaches"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 15,
+   "screen": {
+    "text": "정답 ⑤ My uncle teaches math.\n\n현재 시제 3인칭 단수 → 일반동사 + s/es (have → has), 복수 → 동사원형",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ My uncle teaches math.",
+     "현재 시제 3인칭 단수 → 일반동사 + s/es (have → has), 복수 → 동사원형"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 현재 시제에서 3인칭 단수 주어에는 일반동사에 s나 es를 붙이고 have는 has로 쓰며, 복수 주어에는 동사원형을 써요.",
+   "caption": "3인칭 단수 + s/es, 복수 + 원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Tom watch TV every night.",
+   "The girls sings well.",
+   "It rain a lot in July.",
+   "He don't know the answer.",
+   "My uncle teaches math."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 현재 시제에서 3인칭 단수 주어의 일반동사에는 -s/-es를 붙이고(have → has), 복수 주어에는 동사원형을 쓴다. 3인칭 단수 주어의 부정은 doesn't + 동사원형이다.\n풀이 순서: ① 문장마다 주어가 단수인지 복수인지 가른다. → ② 단수 주어면 동사에 -(e)s(부정은 doesn't), 복수 주어면 동사원형(부정은 don't)인지 본다. → ③ 선택지 ⑤만 단수 주어 My uncle에 teaches를 써서 맞다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 My uncle에 teaches를 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 3인칭 단수 주어 Tom에는 watches를 쓰므로 오답이다.\n② [오답] 복수 주어 The girls에는 sing을 쓰므로 오답이다.\n③ [오답] 3인칭 단수 주어 It에는 rains를 쓰므로 오답이다.\n④ [오답] 3인칭 단수 주어 He의 부정은 doesn't이므로 오답이다.\n⑤ [정답] 3인칭 단수 주어 My uncle에 teaches를 바르게 썼으므로 정답이다."
+ }
+}

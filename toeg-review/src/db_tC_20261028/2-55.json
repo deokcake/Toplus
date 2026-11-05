@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T03:26:53.355Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Tom, Amy",
+      "1": "Tom, Leo",
+      "2": "Jin, Mina",
+      "3": "Tom, Jin, Leo",
+      "4": "Amy, Mina, Leo"
+    },
+    "expl": "핵심 규칙: 명사를 꾸미는 to부정사에서 명사가 전치사의 목적어이면 전치사를 남긴다(a chair to sit on). -thing/-one은 형용사가 뒤에서 꾸민다. 성품 평가 형용사 뒤 의미상 주어는 of, 판단 형용사 뒤는 for + 목적격이다. enough는 형용사 뒤에 오고, too ~ to는 so ~ that … can't로 바꿀 수 있다.\n풀이 순서: ① 학생마다 예문과 설명을 따로 따진다. → ② 기준: 명사가 전치사의 목적어이면 to부정사 뒤에 전치사를 남긴다. -one·-thing은 형용사가 뒤에 온다. 성품 형용사 뒤 의미상 주어는 of다. enough는 형용사 뒤에 온다. → ③ Amy는 cold something 어순을 옳다고 했고(something cold), Jin은 nice for you를 옳다고 했으며(of you), Mina는 enough hot을 옳다고 했다(hot enough). 셋 다 틀렸다. 옳게 설명한 학생만 모으면 Tom, Leo이다.\n문장별 판정:\nTom 옳음: sit on a chair의 on을 남긴다.\nAmy 틀림: -thing은 형용사가 뒤에서 꾸미므로 something cold to drink가 맞다.\nJin 틀림: 사람의 친절을 평가하므로 of you로 써야 한다.\nMina 틀림: enough는 형용사 뒤에 오므로 hot enough to drink가 맞다.\nLeo 옳음: too ~ to는 so ~ that … can't로 바꿀 수 있다.\n정답 판단: 올바르게 설명한 학생은 Tom, Leo이다.\n선택지 분석:\n① [오답] Amy는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Leo를 빠뜨렸다. 따라서 오답이다.\n② [정답] 올바르게 설명한 학생 Tom, Leo를 빠짐없이 골랐으므로 정답이다.\n③ [오답] Jin, Mina는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Tom, Leo를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Jin는 올바르게 설명한 학생이 아니다. 따라서 오답이다.\n⑤ [오답] Amy, Mina는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Tom를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "Tom: I need a chair to sit on. 은 의자 위에 앉는 것이라 on이 꼭 필요해요.\nAmy: I want cold something to drink. 는 <형용사 + -thing + to부정사> 어순이라 옳아요.\nJin: It was nice for you to call me. 는 전화해 준 사람의 친절을 평가하므로 옳아요.\nMina: The water is enough hot to drink. 는 enough가 형용사 앞에 와서 옳아요.\nLeo: He is too young to drive. 는 He is so young that he can't drive. 로 바꿀 수 있어요.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T03:26:26.363Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T03:26:53.355Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T03:26:53.355Z",
+      "what": "확인 완료"
+    }
+  }
+}

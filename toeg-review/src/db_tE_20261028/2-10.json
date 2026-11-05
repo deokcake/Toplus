@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:21:24.505Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "(A) had it fixing - (B) have",
+      "1": "(A) had it fixed - (B) get",
+      "2": "(A) got it fix - (B) having",
+      "3": "(A) had it fix - (B) get",
+      "4": "(A) fixed it - (B) getting"
+    },
+    "expl": "핵심 규칙: have/get+목적어+과거분사는 목적어에 작업을 받게 함을 나타낸다. 조동사 또는 부정사의 to 뒤에서는 have/get의 원형을 쓴다. 두 빈칸은 각각 문법과 대화 의미를 판정한다.\n풀이 순서: ① (A)의 it이 가리키는 것과 상황을 본다. 시계(it)는 고쳐지는 대상이다. ⑤의 fixed it도 (A)에는 쓸 수 있지만 (B)에서 걸린다. → ② (A)는 ‘have/get + it + 과거분사’(had it fixed)다. 사물은 그 일을 받는 쪽이라 동사원형이나 -ing는 쓸 수 없다. → ③ (B)는 should 뒤이므로 have/get의 원형이 온다. 정답은 ②.\n문장별 판정:\n정답 판단: 시계 수리를 다른 사람에게 맡긴 뜻이므로 had it fixed의 fixed가 목적어 it의 수동 관계를 나타낸다. (B) get은 원형이며 조동사 should 뒤에 올 수 있다. have와 get 모두 물건+과거분사와 결합할 수 있다.\n선택지 분석:\n① [오답] (A)의 had it fixing에서 물건 it은 작업을 받는 대상이므로 끝 동사를 과거분사 fixed로 고친다. (B) have는 원형이며 조동사 should 뒤에 올 수 있다. have와 get 모두 물건+과거분사와 결합할 수 있다. 올바른 짝: (A) had it fixed - (B) get.\n② [정답] 시계 수리를 다른 사람에게 맡긴 뜻이므로 had it fixed의 fixed가 목적어 it의 수동 관계를 나타낸다. (B) get은 원형이며 조동사 should 뒤에 올 수 있다. have와 get 모두 물건+과거분사와 결합할 수 있다.\n③ [오답] (A)의 got it fix에서 물건 it은 작업을 받는 대상이므로 끝 동사를 과거분사 fixed로 고친다. (B) having은 -ing형이다. 조동사 should 뒤에는 원형 get 또는 have가 필요하다. 올바른 짝: (A) had it fixed - (B) get.\n④ [오답] (A)의 had it fix에서 물건 it은 작업을 받는 대상이므로 끝 동사를 과거분사 fixed로 고친다. (B) get은 원형이며 조동사 should 뒤에 올 수 있다. have와 get 모두 물건+과거분사와 결합할 수 있다. 올바른 짝: (A) had it fixed - (B) get.\n⑤ [오답] (A)의 fixed it 자체는 주어가 직접 한 행동을 뜻한다. (B) getting은 -ing형이다. 조동사 should 뒤에는 원형 get 또는 have가 필요하다. 올바른 짝: (A) had it fixed - (B) get.",
+    "passage": "A: Your old watch is working again! Did you repair it by yourself?\nB: No, I (<u>    A    </u>) at the shop near the station yesterday.\nA: Great idea. My watch stopped last week, so I should also (<u>    B    </u>) mine fixed there soon.",
+    "stem": "다음 대화의 흐름상 빈칸 (A)와 (B)에 들어갈 말이 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T00:22:45.485Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T00:22:51.545Z",
+      "text": "기준 문항에 비해 지문이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:21:24.505Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:21:18.256Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:21:24.505Z",
+      "what": "확인 완료"
+    }
+  }
+}

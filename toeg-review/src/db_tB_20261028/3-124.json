@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T09:23:18.235Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "so - so",
+      "1": null,
+      "2": "because - so",
+      "3": "because - because",
+      "4": "so - although"
+    },
+    "expl": "핵심 규칙: because는 뒤에 이유를, so는 뒤에 결과를 이끈다. although는 ‘비록 ~이지만’의 양보를 나타낸다.\n풀이 순서: ① 빈칸 뒤의 절이 원인인지 결과인지 가른다. → ② 첫 문장: 추웠다(원인) → 안에 있었다(결과). 뒤가 결과다. 둘째 문장: 따뜻한 옷을 가져왔다 ← 추웠다(이유). 뒤가 이유다. → ③ 뒤가 결과면 so, 뒤가 이유면 because다. 정답은 because - so.\n문장별 판정:\n정답 판단: 첫째 빈칸은 뒤 절(늦게 일어남)이 버스를 놓친 이유라 because, 둘째 빈칸은 뒤 절(버스를 놓침)이 늦게 일어난 결과라 so이므로 정답은 ③이다.\n선택지 분석:\n① [오답] 첫째 빈칸 so: 뒤 절(늦게 일어남)이 버스를 놓친 이유라 because이다. 따라서 오답이다.\n② [오답] 첫째 빈칸 so: 뒤 절(늦게 일어남)이 버스를 놓친 이유라 because이다, 둘째 빈칸 because: 뒤 절(버스를 놓침)이 늦게 일어난 결과라 so이다. 따라서 오답이다.\n③ [정답] 첫째 빈칸은 뒤 절(늦게 일어남)이 버스를 놓친 이유라 because, 둘째 빈칸은 뒤 절(버스를 놓침)이 늦게 일어난 결과라 so이므로 정답이다.\n④ [오답] 둘째 빈칸 because: 뒤 절(버스를 놓침)이 늦게 일어난 결과라 so이다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 so: 뒤 절(늦게 일어남)이 버스를 놓친 이유라 because이다, 둘째 빈칸 although: 뒤 절(버스를 놓침)이 늦게 일어난 결과라 so이다. 따라서 오답이다.",
+    "passage": "- Tom missed the bus _____ he got up late.\n- Tom got up late, _____ he missed the bus.",
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:23:15.885Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T09:23:18.235Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:23:18.235Z",
+      "what": "확인 완료"
+    }
+  }
+}

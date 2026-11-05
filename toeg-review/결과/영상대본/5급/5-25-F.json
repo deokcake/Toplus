@@ -1,0 +1,182 @@
+{
+ "key": "5-25",
+ "type": "F",
+ "grade": 5,
+ "chapter": "CH 3 be동사와 일반동사 과거",
+ "title": "Did·didn't·Does 뒤의 동사원형",
+ "total_sec": 127,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "5급 · CH 3 be동사와 일반동사 과거 · 25번 · F 유형\n\n이 문제는 Did, didn't, Does 뒤에 동사원형을 바르게 쓴 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 3 be동사와 일반동사 과거 · 25번 · F 유형",
+     "이 문제는 Did, didn't, Does 뒤에 동사원형을 바르게 쓴 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 3, 25번 F 유형. 이 문제는 Did, didn't, Does 뒤에 동사원형을 바르게 쓴 문장을 고르는 문제예요.",
+   "caption": "Did·didn't·Does 뒤 동사 형태"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 18,
+   "screen": {
+    "text": "다음 중 옳은 문장을 고르시오.\n\n① Tom didn't drank the juice.\n② Did the kids slept well?\n③ Does your mom worked here?\n④ Did he gave you a present?\n⑤ I didn't feel well yesterday.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 옳은 문장을 고르시오.",
+     "① Tom didn't drank the juice.",
+     "② Did the kids slept well?",
+     "③ Does your mom worked here?",
+     "④ Did he gave you a present?",
+     "⑤ I didn't feel well yesterday."
+    ]
+   },
+   "narration": "다음 중 옳은 문장을 고르세요. 다섯 문장 가운데 문법에 맞는 문장 하나를 찾아야 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\nDid로 묻는 문장 → Did + 주어 + 동사원형 ~?\ndidn't로 부정하는 문장 → didn't + 동사원형\nDoes로 묻는 문장(현재)도 → Does + 주어 + 동사원형 ~?\ndid, didn't가 없는 과거 긍정문 → 동사의 과거형\n예) I swam yesterday. (나는 어제 수영했어요.)  I didn't swim yesterday. (나는 어제 수영하지 않았어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "Did로 묻는 문장 → Did + 주어 + 동사원형 ~?",
+     "didn't로 부정하는 문장 → didn't + 동사원형",
+     "Does로 묻는 문장(현재)도 → Does + 주어 + 동사원형 ~?",
+     "did, didn't가 없는 과거 긍정문 → 동사의 과거형",
+     "예) I swam yesterday. (나는 어제 수영했어요.)  I didn't swim yesterday. (나는 어제 수영하지 않았어요.)"
+    ]
+   },
+   "narration": "Did나 Does로 묻는 문장은 주어 뒤에 동사원형을 쓰고, didn't 뒤에도 동사원형을 써요. did가 이미 과거를 나타내니까 동사의 모양은 바꾸지 않아요. did나 didn't가 없는 과거 긍정문에서는 동사를 과거형으로 써요. I swam yesterday. 나는 어제 수영했어요. I didn't swim yesterday. 나는 어제 수영하지 않았어요.",
+   "caption": "did와 함께 쓰는 동사는 원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 중 옳은 문장을 고르시오.\n\n① Tom didn't drank the juice.\n② Did the kids slept well?\n③ Does your mom worked here?\n④ Did he gave you a present?\n⑤ I didn't feel well yesterday.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "didn't",
+       "Did",
+       "Does"
+      ],
+      "strike": [],
+      "note": "다섯 문장 모두 Did·didn't·Does가 있다 → 뒤의 동사가 원형인지만 본다"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "drank",
+       "slept",
+       "worked",
+       "gave"
+      ],
+      "strike": [
+       "① Tom didn't drank the juice.",
+       "② Did the kids slept well?",
+       "③ Does your mom worked here?",
+       "④ Did he gave you a present?"
+      ],
+      "note": "drank·slept·worked·gave는 과거형 → ①②③④ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ I didn't feel well yesterday."
+      ],
+      "strike": [],
+      "note": "⑤ yesterday가 있어도 didn't 뒤에 동사원형 feel ✓"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 다섯 문장에 모두 Did, didn't, Does 가운데 하나가 있어요. 그러니 그 뒤의 동사가 동사원형인지만 보면 돼요. 둘째, 1번 drank, 2번 slept, 3번 worked, 4번 gave는 모두 과거형이라 틀렸어요. 셋째, 5번은 yesterday가 있어도 didn't 뒤에 동사원형 feel을 바르게 썼어요. I didn't feel well yesterday. 나는 어제 몸이 좋지 않았어요.",
+   "caption": "과거형 지우기 → feel 남기기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① Tom didn't drank the juice.  ✗  didn't 뒤에는 drank가 아닌 동사원형 drink\n② Did the kids slept well?  ✗  Did 뒤에는 slept가 아닌 동사원형 sleep\n③ Does your mom worked here?  ✗  Does 뒤에는 worked가 아닌 동사원형 work\n④ Did he gave you a present?  ✗  Did 뒤에는 gave가 아닌 동사원형 give\n⑤ I didn't feel well yesterday.  ✓  didn't 뒤에 동사원형 feel",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① Tom didn't drank the juice.  ✗  didn't 뒤에는 drank가 아닌 동사원형 drink",
+     "② Did the kids slept well?  ✗  Did 뒤에는 slept가 아닌 동사원형 sleep",
+     "③ Does your mom worked here?  ✗  Does 뒤에는 worked가 아닌 동사원형 work",
+     "④ Did he gave you a present?  ✗  Did 뒤에는 gave가 아닌 동사원형 give",
+     "⑤ I didn't feel well yesterday.  ✓  didn't 뒤에 동사원형 feel"
+    ]
+   },
+   "narration": "정답은 5번이에요. 5번은 yesterday가 있는데 feel을 써서 틀려 보이지만, didn't가 이미 과거를 나타내니 동사원형이 맞아요. 1번은 지난 일이라도 didn't 뒤라서 drank가 아니라 drink를 써요. 4번도 Did가 있으니 gave가 아니라 give를 써야 해요.",
+   "caption": "정답 ⑤ I didn't feel well …"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ⑤ I didn't feel well yesterday.\n\nDid·Does + 주어 + 동사원형 · didn't + 동사원형",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ I didn't feel well yesterday.",
+     "Did·Does + 주어 + 동사원형 · didn't + 동사원형"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, Did나 Does로 묻는 문장과 didn't 뒤에는 과거형이 아니라 동사원형을 써요.",
+   "caption": "Did·didn't·Does + 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Tom didn't drank the juice.",
+   "Did the kids slept well?",
+   "Does your mom worked here?",
+   "Did he gave you a present?",
+   "I didn't feel well yesterday."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: Did/didn't와 Does/doesn't 뒤에는 동사원형을 쓴다. 과거의 일을 긍정문으로 말할 때만 동사의 과거형을 쓴다.\n풀이 순서: ① Did, didn't, Does가 있는 문장은 뒤의 동사가 원형인지 본다. → ② 조동사가 없는 문장은 과거형이 바른지 본다. → ③ 선택지 ⑤만 didn't 뒤에 동사원형 feel을 바르게 썼다. 정답은 ⑤.\n문장별 판정:\n정답 판단: didn't 뒤에 동사원형 feel을 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] didn't 뒤에는 동사원형 drink를 써야 하므로 오답이다.\n② [오답] Did 뒤에는 동사원형 sleep을 써야 하므로 오답이다.\n③ [오답] Does 뒤에는 동사원형 work를 써야 하므로 오답이다.\n④ [오답] Did 뒤에는 동사원형 give를 써야 하므로 오답이다.\n⑤ [정답] didn't 뒤에 동사원형 feel을 바르게 썼으므로 정답이다."
+ }
+}

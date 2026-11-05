@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:57:58.284Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "My dog sleeps <u>after</u> it eats.",
+      "1": "They cheered <u>after</u> their team scored.",
+      "2": "Tom washes the dishes <u>after</u> we finish dinner.",
+      "3": "I go home <u>after</u> work.",
+      "4": "Let's rest <u>after</u> we climb the hill."
+    },
+    "expl": "핵심 규칙: after 뒤에 명사(구)만 오면 전치사(after school, after lunch), 주어 + 동사가 오면 접속사(after I finish my homework)이다.\n풀이 순서: ① after 바로 뒤를 본다. → ② 주어 + 동사가 이어지면 접속사, 명사로 끝나면 전치사다. → ③ 선택지 ④만 after 뒤가 명사 work로 끝난다. 정답은 ④.\n문장별 판정:\n정답 판단: after 뒤에 명사(work)만 와서 전치사로 쓰였으므로 정답은 ④이다.\n선택지 분석:\n① [오답] after 뒤에 주어 + 동사(it eats)가 와서 접속사로 쓰였으므로 오답이다.\n② [오답] after 뒤에 주어 + 동사(their team scored)가 와서 접속사로 쓰였으므로 오답이다.\n③ [오답] after 뒤에 주어 + 동사(we finish)가 와서 접속사로 쓰였으므로 오답이다.\n④ [정답] after 뒤에 명사(work)만 와서 전치사로 쓰였으므로 정답이다.\n⑤ [오답] after 뒤에 주어 + 동사(we climb)가 와서 접속사로 쓰였으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:57:54.108Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:57:58.284Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:57:58.284Z",
+      "what": "확인 완료"
+    }
+  }
+}

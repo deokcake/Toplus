@@ -1,0 +1,86 @@
+{
+ "key": "7-48",
+ "grade": 7,
+ "chapter": "CH 5 지시 대명사",
+ "items": {
+  "A": {
+   "stem": "다음 단어들을 바르게 배열하여 문장을 만들 때, 세 번째에 올 단어를 고르세요.",
+   "passage": "이 분은 우리의 아름다운 선생님이시다.\n( is / our / this / teacher / beautiful / . )",
+   "c": [
+    "is",
+    "our",
+    "this",
+    "teacher",
+    "beautiful"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: ‘이분은/이것은 ~의 … 이다’는 지시대명사 + be동사 + 소유격 + 형용사 + 명사의 순서로 쓴다.\n풀이 순서: ① 우리말의 주어(‘이 분은’)에 맞는 지시대명사와 be동사를 먼저 놓는다: This is. → ② 그 뒤에 소유격 + 형용사 + 명사를 잇는다: our beautiful teacher. → ③ 완성 문장 This is our beautiful teacher.의 셋째 낱말은 our.\n문장별 판정:\n정답 판단: This is our beautiful teacher.에서 셋째 낱말이므로 정답은 ②이다.\n선택지 분석:\n① [오답] is는 둘째 낱말이므로 오답이다.\n② [정답] This is our beautiful teacher.에서 셋째 낱말이므로 정답이다.\n③ [오답] this는 첫째 낱말이므로 오답이다.\n④ [오답] teacher는 다섯째 낱말이므로 오답이다.\n⑤ [오답] beautiful은 넷째 낱말이므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 단어들을 바르게 배열하여 문장을 만들 때, 세 번째에 올 단어를 고르세요.",
+   "passage": "저것은 나의 새 배낭이다.\n( is / backpack / new / that / my / . )",
+   "c": [
+    "is",
+    "backpack",
+    "new",
+    "that",
+    "my"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: ‘이것(들)은/저것(들)은 ~의 … 이다’는 지시대명사 + be동사 + 소유격 + 형용사 + 명사의 순서로 배열한다. this/that에는 is, these/those에는 are를 쓴다.\n풀이 순서: ① 우리말의 주어(‘저것은’)에 맞는 지시대명사와 be동사를 먼저 놓는다: That is. → ② 그 뒤에 소유격 + 형용사 + 명사를 잇는다: my new backpack. → ③ 완성 문장 That is my new backpack.의 셋째 낱말은 my.\n문장별 판정:\n정답 판단: 완성 문장은 That is my new backpack.이고 세 번째 단어는 my이다.\n선택지 분석:\n① [오답] 완성 문장 That is my new backpack.에서 단어(is)는 2번째에 오므로 오답이다.\n② [오답] 완성 문장 That is my new backpack.에서 단어(backpack)는 5번째에 오므로 오답이다.\n③ [오답] 완성 문장 That is my new backpack.에서 단어(new)는 4번째에 오므로 오답이다.\n④ [오답] 완성 문장 That is my new backpack.에서 단어(that)는 1번째에 오므로 오답이다.\n⑤ [정답] 완성 문장 That is my new backpack.에서 단어(my)는 3번째에 오므로 정답이다."
+  },
+  "C": {
+   "stem": "다음 단어들을 바르게 배열하여 문장을 만들 때, 세 번째에 올 단어를 고르세요.",
+   "passage": "이것은 그의 빨간 차이다.\n( red / this / is / his / car / . )",
+   "c": [
+    "red",
+    "this",
+    "is",
+    "his",
+    "car"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: ‘이것(들)은/저것(들)은 ~의 … 이다’는 지시대명사 + be동사 + 소유격 + 형용사 + 명사의 순서로 배열한다. this/that에는 is, these/those에는 are를 쓴다.\n풀이 순서: ① 우리말의 주어(‘이것은’)에 맞는 지시대명사와 be동사를 먼저 놓는다: This is. → ② 그 뒤에 소유격 + 형용사 + 명사를 잇는다: his red car. → ③ 완성 문장 This is his red car.의 셋째 낱말은 his.\n문장별 판정:\n정답 판단: 완성 문장은 This is his red car.이고 세 번째 단어는 his이다.\n선택지 분석:\n① [오답] 완성 문장 This is his red car.에서 단어(red)는 4번째에 오므로 오답이다.\n② [오답] 완성 문장 This is his red car.에서 단어(this)는 1번째에 오므로 오답이다.\n③ [오답] 완성 문장 This is his red car.에서 단어(is)는 2번째에 오므로 오답이다.\n④ [정답] 완성 문장 This is his red car.에서 단어(his)는 3번째에 오므로 정답이다.\n⑤ [오답] 완성 문장 This is his red car.에서 단어(car)는 5번째에 오므로 오답이다."
+  },
+  "D": {
+   "stem": "다음 단어들을 바르게 배열하여 문장을 만들 때, 세 번째에 올 단어를 고르세요.",
+   "passage": "저것들은 너의 새 신발들이다.\n( shoes / your / are / new / those / . )",
+   "c": [
+    "shoes",
+    "your",
+    "are",
+    "new",
+    "those"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: ‘이것(들)은/저것(들)은 ~의 … 이다’는 지시대명사 + be동사 + 소유격 + 형용사 + 명사의 순서로 배열한다. this/that에는 is, these/those에는 are를 쓴다.\n풀이 순서: ① 우리말의 주어(‘저것들은’)에 맞는 지시대명사와 be동사를 먼저 놓는다: Those are. → ② 그 뒤에 소유격 + 형용사 + 명사를 잇는다: your new shoes. → ③ 완성 문장 Those are your new shoes.의 셋째 낱말은 your.\n문장별 판정:\n정답 판단: 완성 문장은 Those are your new shoes.이고 세 번째 단어는 your이다.\n선택지 분석:\n① [오답] 완성 문장 Those are your new shoes.에서 단어(shoes)는 5번째에 오므로 오답이다.\n② [정답] 완성 문장 Those are your new shoes.에서 단어(your)는 3번째에 오므로 정답이다.\n③ [오답] 완성 문장 Those are your new shoes.에서 단어(are)는 2번째에 오므로 오답이다.\n④ [오답] 완성 문장 Those are your new shoes.에서 단어(new)는 4번째에 오므로 오답이다.\n⑤ [오답] 완성 문장 Those are your new shoes.에서 단어(those)는 1번째에 오므로 오답이다."
+  },
+  "E": {
+   "stem": "다음 단어들을 바르게 배열하여 문장을 만들 때, 세 번째에 올 단어를 고르세요.",
+   "passage": "저것은 그녀의 작은 가방이다.\n( her / that / is / bag / small / . )",
+   "c": [
+    "her",
+    "that",
+    "is",
+    "bag",
+    "small"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: ‘이것(들)은/저것(들)은 ~의 … 이다’는 지시대명사 + be동사 + 소유격 + 형용사 + 명사의 순서로 배열한다. this/that에는 is, these/those에는 are를 쓴다.\n풀이 순서: ① 우리말의 주어(‘저것은’)에 맞는 지시대명사와 be동사를 먼저 놓는다: That is. → ② 그 뒤에 소유격 + 형용사 + 명사를 잇는다: her small bag. → ③ 완성 문장 That is her small bag.의 셋째 낱말은 her.\n문장별 판정:\n정답 판단: 완성 문장은 That is her small bag.이고 세 번째 단어는 her이다.\n선택지 분석:\n① [정답] 완성 문장 That is her small bag.에서 단어(her)는 3번째에 오므로 정답이다.\n② [오답] 완성 문장 That is her small bag.에서 단어(that)는 1번째에 오므로 오답이다.\n③ [오답] 완성 문장 That is her small bag.에서 단어(is)는 2번째에 오므로 오답이다.\n④ [오답] 완성 문장 That is her small bag.에서 단어(bag)는 5번째에 오므로 오답이다.\n⑤ [오답] 완성 문장 That is her small bag.에서 단어(small)는 4번째에 오므로 오답이다."
+  },
+  "F": {
+   "stem": "다음 단어들을 바르게 배열하여 문장을 만들 때, 세 번째에 올 단어를 고르세요.",
+   "passage": "이것은 그들의 멋진 집이다.\n( house / is / their / nice / this / . )",
+   "c": [
+    "house",
+    "is",
+    "their",
+    "nice",
+    "this"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: ‘이것(들)은/저것(들)은 ~의 … 이다’는 지시대명사 + be동사 + 소유격 + 형용사 + 명사의 순서로 배열한다. this/that에는 is, these/those에는 are를 쓴다.\n풀이 순서: ① 우리말의 주어(‘이것은’)에 맞는 지시대명사와 be동사를 먼저 놓는다: This is. → ② 그 뒤에 소유격 + 형용사 + 명사를 잇는다: their nice house. → ③ 완성 문장 This is their nice house.의 셋째 낱말은 their.\n문장별 판정:\n정답 판단: 완성 문장은 This is their nice house.이고 세 번째 단어는 their이다.\n선택지 분석:\n① [오답] 완성 문장 This is their nice house.에서 단어(house)는 5번째에 오므로 오답이다.\n② [오답] 완성 문장 This is their nice house.에서 단어(is)는 2번째에 오므로 오답이다.\n③ [정답] 완성 문장 This is their nice house.에서 단어(their)는 3번째에 오므로 정답이다.\n④ [오답] 완성 문장 This is their nice house.에서 단어(nice)는 4번째에 오므로 오답이다.\n⑤ [오답] 완성 문장 This is their nice house.에서 단어(this)는 1번째에 오므로 오답이다."
+  }
+ },
+ "prior_review": {}
+}

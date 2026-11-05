@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차: 길이)",
+  "done": true,
+  "doneAt": "2026-10-23T17:53:10.259Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "ⓐ, ⓑ",
+      "1": "ⓐ, ⓒ",
+      "2": "ⓑ, ⓓ",
+      "3": "ⓑ, ⓒ",
+      "4": "ⓒ, ⓓ"
+    },
+    "expl": "핵심 규칙: a/an은 불특정한 셀 수 있는 단수명사 앞에, the는 특정하거나 하나뿐인 대상(the sun, the moon)과 악기 앞에 쓴다. 식사·운동 이름과 by + 교통수단, 셀 수 없는 명사 앞에는 a/an을 쓰지 않는다.\n풀이 순서: ① 문장마다 명사 앞 관사를 본다. 식사·운동 이름, by + 교통수단, 셀 수 없는 명사 앞에는 a/an을 쓰지 않는다. → ② 악기와 하나뿐인 것(the sun, the moon) 앞에는 the를 쓰고, a/an은 뒤 낱말의 첫소리로 정한다. → ③ 틀린 문장을 지운다: ⓐ by a bus, ⓓ an rice. 남은 두 문장을 묶은 ⓑ, ⓒ가 정답이다.\n문장별 판정:\nⓐ X. by + 교통수단에는 관사를 쓰지 않는다(by bus).\nⓑ O. hour는 모음 소리로 시작하므로 an이다.\nⓒ O. 운동 이름 앞에는 관사를 쓰지 않는다.\nⓓ X. 셀 수 없는 명사(rice) 앞에는 an을 쓰지 않는다.\n정답 판단: 옳은 문장은 ⓑ, ⓒ이다.\n선택지 분석:\n① [오답] ⓐ는 옳은 문장이 아니고, 옳은 문장 ⓒ를 빠뜨렸다. 따라서 오답이다.\n② [오답] ⓐ는 옳은 문장이 아니고, 옳은 문장 ⓑ를 빠뜨렸다. 따라서 오답이다.\n③ [오답] ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓒ를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 ⓑ, ⓒ를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓑ를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "ⓐ He goes to school by a bus every morning.\nⓑ Jane has her piano lesson an hour before.\nⓒ They play soccer in the park on Sundays.\nⓓ I need an rice for dinner tonight.",
+    "stem": "다음 중 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T17:53:08.394Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T17:53:10.259Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T17:53:10.259Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:33:49.235Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "(A) did not / (B) can",
+      "1": "(A) was not / (B) swim",
+      "2": "(A) could not / (B) swim",
+      "3": "(A) can not / (B) swam",
+      "4": "(A) could not / (B) swims"
+    },
+    "expl": "핵심 규칙: 과거에 할 수 없었다는 뜻은 could not + 동사원형 또는 was/were not able to + 동사원형으로 표현한다.\n풀이 순서: ① 우리말 ‘수영할 수 없었다’는 과거의 일이다. can의 과거형 could를 쓰고 부정이므로 could not이다. → ② 조동사 뒤는 과거의 일이어도 동사원형이다: swim. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: could not은 과거의 불가능을, 원형 swim은 우리말의 해당 행동을 나타내므로 맞다. 따라서 정답은 ③이다.\n선택지 분석:\n① [오답] can/could를 did not 뒤에 덧붙여 부정문을 만들지 않는다. 과거 불가능은 could not swim으로 쓴다.\n② [오답] be동사 부정형 뒤에 일반동사 원형을 바로 이을 수 없다. could not swim 또는 주어에 맞는 was/were not able to swim으로 고친다.\n③ [정답] could not은 과거의 불가능을, 원형 swim은 우리말의 해당 행동을 나타내므로 맞다.\n④ [오답] can not은 현재형이므로 yesterday의 과거 불가능에는 could not이 필요하다. 뒤 동사도 원형 swim으로 쓴다.\n⑤ [오답] could not 뒤에는 과거형·3인칭 단수형이 아니라 원형 swim이 필요하다. could not swim으로 고친다.",
+    "passage": "Jane은 어제 다리를 다쳐서 수영할 수 없었다.\n→ Jane (A)________ ________ (B)________ in the pool yesterday because she hurt her leg.",
+    "stem": "다음 우리말을 영어로 옮길 때 빈칸 (A), (B)에 들어갈 말이 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:28:33.278Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T06:15:33.639Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:33:49.235Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:33:43.466Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:28:34.588Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:33:49.235Z",
+      "what": "확인 완료"
+    }
+  }
+}

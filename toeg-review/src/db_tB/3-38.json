@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:00:28.841Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Did he wash",
+      "1": "Is he washing",
+      "2": "Was he washing",
+      "3": "Was he wash",
+      "4": "Were he washing"
+    },
+    "expl": "핵심 규칙: 과거진행형 의문문은 Was/Were + 주어 + 동사-ing로 만들며, 대답(Yes, he was.)의 주어와 be동사에 맞춘다.\n풀이 순서: ① 대답(Yes, he was.)의 동사가 질문의 첫 낱말을 정한다. 질문도 Was로 시작한다. → ② be동사로 시작하는 진행형 의문문이므로 주어 뒤에는 -ing가 온다. → ③ 정답은 Was he washing.\n문장별 판정:\n정답 판단: Was he washing: 대답(Yes, he was.)에 맞춘 과거진행형 의문문이므로 정답은 ③이다.\n선택지 분석:\n① [오답] Did he wash: do/does/did 의문문이라 대답의 be동사와 맞지 않으므로 오답이다.\n② [오답] Is he washing: 현재진행형이라 대답의 과거(was/were)와 맞지 않으므로 오답이다.\n③ [정답] Was he washing: 대답(Yes, he was.)에 맞춘 과거진행형 의문문이므로 정답이다.\n④ [오답] Was he wash: be동사 뒤에는 -ing 형태를 써야 하므로 오답이다.\n⑤ [오답] Were he washing: 주어와 be동사의 수가 맞지 않으므로 오답이다.",
+    "passage": "Mina: ______ ______ ______ the dishes after dinner?\nJisu: Yes, he was.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T08:00:27.603Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T08:00:28.841Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T08:00:28.841Z",
+      "what": "확인 완료"
+    }
+  }
+}

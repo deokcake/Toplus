@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T19:58:03.105Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Both my parents and my aunt lives in Seoul.",
+      "1": "He likes to cook, to clean, and doing laundry.",
+      "2": "Mina came home, took a shower, and went to bed.",
+      "3": "Either Tom or his classmates is lying.",
+      "4": "Not only he is smart but also kind."
+    },
+    "expl": "핵심 규칙: both A and B는 복수, either/neither A or/nor B·not only A but also B는 B에 수를 맞춘다. 접속사로 연결되는 요소는 같은 형태(명사-명사, 동명사-동명사, 동사-동사)로 병렬한다.\n풀이 순서: ① 문장마다 접속사(and, or, not only ~ but also 등)로 이어진 두 말의 형태가 같은지 본다. → ② 상관접속사가 주어이면 동사의 수도 확인한다. both는 복수, either·neither·not only는 B에 맞춘다. → ③ 선택지 ③만 옳다: came, took, went 세 동사가 같은 과거형으로 병렬되었다.\n문장별 판정:\n정답 판단: 과거형 동사 세 개를 같은 형태로 병렬해 옳다. 정답은 ③이다.\n선택지 분석:\n① [오답] both A and B는 복수이므로 live를 써야 한다. 오답이다.\n② [오답] to부정사 둘과 동명사를 섞어 병렬이 깨졌다. to do laundry로 써야 한다. 오답이다.\n③ [정답] 과거형 동사 세 개를 같은 형태로 병렬해 옳다. 정답이다.\n④ [오답] either A or B는 B(his classmates)에 맞춰 are를 써야 한다. 오답이다.\n⑤ [오답] not only 뒤에 절과 형용사가 병렬되지 않는다. He is not only smart but also kind.로 써야 한다. 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:57:47.561Z"
+  },
+  "tab": "mg6mzu0g",
+  "updatedAt": "2026-10-23T19:58:03.105Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:58:03.105Z",
+      "what": "확인 완료"
+    }
+  }
+}

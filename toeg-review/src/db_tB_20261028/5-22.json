@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T08:02:28.828Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": 4,
+    "c": {
+      "0": "leave - left",
+      "1": "teach - taught",
+      "2": "write - wrote",
+      "3": "speak - speaked",
+      "4": "bring - brought"
+    },
+    "expl": "핵심 규칙: 불규칙 동사는 -ed를 붙이지 않고 정해진 과거형을 쓴다(speak - spoke, teach - taught). 규칙 동사는 -ed를 붙인다.\n풀이 순서: ① 짝마다 과거형이 맞는지 본다. 불규칙 동사에 -ed를 붙인 것을 찾는다. → ② speak는 불규칙 동사라 과거형이 spoke다. speaked는 없는 형태다. → ③ 정답은 speak - speaked.\n문장별 판정:\n정답 판단: speak는 불규칙 동사라 과거형이 spoke다. speaked는 없는 형태이므로 정답은 ④이다.\n선택지 분석:\n① [오답] leave의 불규칙 과거형 left로 옳으므로 오답이다.\n② [오답] teach의 불규칙 과거형 taught로 옳으므로 오답이다.\n③ [오답] write의 불규칙 과거형 wrote로 옳으므로 오답이다.\n④ [정답] speak는 불규칙 동사라 과거형이 spoke다. speaked는 없는 형태이므로 정답이다.\n⑤ [오답] bring의 불규칙 과거형 brought로 옳으므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 동사원형과 과거형이 잘못 짝지어진 것을 고르시오."
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:36:52.903Z",
+      "text": "변형문제의 정답 take - taked가 해당레벨수업에 등장하지 않으니까 speak -speaked 로 바꾸고 해설도 바꿔"
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T08:02:28.828Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T08:02:20.972Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:36:52.903Z",
+      "what": "메모 작성"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T08:02:28.828Z",
+      "what": "확인 완료"
+    }
+  }
+}

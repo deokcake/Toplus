@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:16:07.325Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "forgotten - be tired",
+      "1": "have forgotten - be tired",
+      "2": "forget - be tired",
+      "3": "to have forgotten - to be tired",
+      "4": "have forgotten - have been tired"
+    },
+    "expl": "핵심 규칙: seem/appear 뒤에서 판단 시점보다 앞선 일은 to have + 과거분사로, 판단과 같은 때의 일은 단순 to부정사로 나타낸다. 이 문항에서는 to가 두 빈칸 앞에 이미 주어져 있다.\n풀이 순서: ① 문장 쌍마다 주절과 that절의 시제를 견준다. → ② 첫째 쌍(appeared / had forgotten)은 that절이 한 시제 앞서므로 (A)는 완료부정사 have + 과거분사다. 둘째 쌍(appears / is)은 시제가 같으므로 (B)는 동사원형이다. → ③ 빈칸 앞에 이미 to가 있으므로 to를 또 쓴 보기는 지운다. 정답은 have forgotten - be tired.\n문장별 판정:\n정답 판단: A의 have forgotten은 앞에 주어진 to와 완료부정사를 이루어 과거의 판단보다 앞선 사건·상태를 나타내므로 맞다. B의 be tired는 현재의 판단과 같은 때의 상태를 나타내는 단순부정사이므로 맞다.\n선택지 분석:\n① [오답] A 앞의 to 뒤에는 원형 have가 필요하므로 forgotten은 have forgotten으로 고친다. B의 be tired는 현재의 판단과 같은 때의 상태를 나타내는 단순부정사이므로 맞다.\n② [정답] A의 have forgotten은 앞에 주어진 to와 완료부정사를 이루어 과거의 판단보다 앞선 사건·상태를 나타내므로 맞다. B의 be tired는 현재의 판단과 같은 때의 상태를 나타내는 단순부정사이므로 맞다.\n③ [오답] A의 forget는 단순부정사를 만들어 판단과 같은 때의 일로 읽히므로 원문의 앞선 시점을 보존하지 못한다. have forgotten으로 고친다. B의 be tired는 현재의 판단과 같은 때의 상태를 나타내는 단순부정사이므로 맞다.\n④ [오답] A 앞에 to가 이미 있으므로 to have forgotten을 넣으면 to가 중복된다. have forgotten으로 고친다. B 앞에도 to가 이미 있으므로 to be tired는 to를 빼고 be tired로 고친다.\n⑤ [오답] A의 have forgotten은 앞에 주어진 to와 완료부정사를 이루어 과거의 판단보다 앞선 사건·상태를 나타내므로 맞다. B의 have been tired는 현재 판단보다 앞선 완료 의미를 더하므로 원문의 현재 상태를 유지하려면 be tired로 고친다.",
+    "passage": "It appeared that they had forgotten the key to the classroom.\n= They appeared to (A)_____ the key to the classroom.\nIt appears that Leo is tired after the long trip.\n= Leo appears to (B)_____ after the long trip.",
+    "stem": "다음 빈칸에 들어갈 말로 알맞게 연결된 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:27:34.833Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:27:40.999Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:16:07.325Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:16:03.442Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:16:07.325Z",
+      "what": "확인 완료"
+    }
+  }
+}

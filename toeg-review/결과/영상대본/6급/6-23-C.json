@@ -1,0 +1,181 @@
+{
+ "key": "6-23",
+ "type": "C",
+ "grade": 6,
+ "chapter": "CH 3 be동사 과거",
+ "title": "주어에 맞는 wasn't와 weren't",
+ "total_sec": 135,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "6급 · CH 3 be동사 과거 · 23번 · C 유형\n\n이 문제는 wasn't와 weren't가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 3 be동사 과거 · 23번 · C 유형",
+     "이 문제는 wasn't와 weren't가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 3, 23번 C 유형. 이 문제는 wasn't와 weren't가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+   "caption": "wasn't와 weren't, 틀린 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① They weren't late.\n② Mina wasn't at school.\n③ The rooms weren't empty.\n④ We wasn't ready for the game.\n⑤ I wasn't nervous.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 틀린 문장을 고르시오.",
+     "① They weren't late.",
+     "② Mina wasn't at school.",
+     "③ The rooms weren't empty.",
+     "④ We wasn't ready for the game.",
+     "⑤ I wasn't nervous."
+    ]
+   },
+   "narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 과거형 was, were = 무엇이었다, 어떠했다, 어디에 있었다\nI · he, she, it(나도 너도 아닌 하나) · 셀 수 없는 것 → was\nyou(한 명이어도) · we, they · 여럿 → were\n부정문: be동사 뒤에 not → wasn't(was not), weren't(were not)\n예) Ben wasn't sad. (벤은 슬프지 않았어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 과거형 was, were = 무엇이었다, 어떠했다, 어디에 있었다",
+     "I · he, she, it(나도 너도 아닌 하나) · 셀 수 없는 것 → was",
+     "you(한 명이어도) · we, they · 여럿 → were",
+     "부정문: be동사 뒤에 not → wasn't(was not), weren't(were not)",
+     "예) Ben wasn't sad. (벤은 슬프지 않았어요.)"
+    ]
+   },
+   "narration": "be동사 과거형 was와 were는 무엇이었다, 어떠했다, 어디에 있었다는 뜻이에요. I와 he, she, it 같은 하나, 셀 수 없는 것에는 was를 써요. you는 한 사람이어도 were를 쓰고, we, they와 여럿에도 were예요. 부정은 was not, were not, 줄이면 wasn't, weren't예요. Ben wasn't sad. 벤은 슬프지 않았어요.",
+   "caption": "I·하나는 was, you·여럿은 were"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 35,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① They weren't late.\n② Mina wasn't at school.\n③ The rooms weren't empty.\n④ We wasn't ready for the game.\n⑤ I wasn't nervous.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "① They",
+       "② Mina",
+       "③ The rooms",
+       "④ We",
+       "⑤ I"
+      ],
+      "strike": [],
+      "note": "주어 찾기: They, Mina, The rooms, We, I"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① They weren't late.",
+       "② Mina wasn't at school.",
+       "③ The rooms weren't empty.",
+       "⑤ I wasn't nervous."
+      ],
+      "note": "They, The rooms(방 여러 개) → weren't ✓ / Mina(한 사람), I → wasn't ✓"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ We wasn't ready for the game."
+      ],
+      "strike": [
+       "We wasn't"
+      ],
+      "note": "We(여럿)인데 wasn't ✗ → We weren't → 틀린 문장은 ④"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 맨 앞에 있는 주어를 찾아요. 둘째, 여럿인 They와 방 여러 개인 The rooms에는 weren't, 한 사람인 Mina와 주어 I에는 wasn't를 바르게 썼어요. 그래서 1번, 2번, 3번, 5번은 맞는 문장이에요. 셋째, 4번의 주어 We는 우리라는 뜻으로 여럿이니 wasn't가 아니라 weren't를 써야 해요. We weren't ready for the game. 우리는 경기 준비가 되어 있지 않았어요.",
+   "caption": "주어 찾기 → 맞는 문장 지우기 → ④"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① They weren't late.  ✗  They는 여럿 → weren't가 맞아요\n② Mina wasn't at school.  ✗  Mina는 한 사람(나도 너도 아님) → wasn't가 맞아요\n③ The rooms weren't empty.  ✗  rooms는 방 여러 개 → weren't가 맞아요\n④ We wasn't ready for the game.  ✓  We는 여럿 → weren't로 고쳐야 해요 (틀린 문장)\n⑤ I wasn't nervous.  ✗  주어 I에는 was → wasn't가 맞아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① They weren't late.  ✗  They는 여럿 → weren't가 맞아요",
+     "② Mina wasn't at school.  ✗  Mina는 한 사람(나도 너도 아님) → wasn't가 맞아요",
+     "③ The rooms weren't empty.  ✗  rooms는 방 여러 개 → weren't가 맞아요",
+     "④ We wasn't ready for the game.  ✓  We는 여럿 → weren't로 고쳐야 해요 (틀린 문장)",
+     "⑤ I wasn't nervous.  ✗  주어 I에는 was → wasn't가 맞아요"
+    ]
+   },
+   "narration": "정답은 4번이에요. We는 우리라는 뜻으로 여럿을 가리키니 wasn't가 아니라 weren't를 써야 해요. 3번 The rooms는 room에 s가 붙어 방 여러 개를 뜻하니 weren't가 맞아요. 5번 주어 I에는 was를 쓰니 wasn't가 맞아요. 2번 Mina는 나도 너도 아닌 한 사람이라 wasn't가 맞아요.",
+   "caption": "정답 ④ We wasn't → We weren't"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ④ We wasn't ready for the game.\n\nyou · we · they · 여럿 → weren't  ·  I · 나도 너도 아닌 하나 · 셀 수 없는 것 → wasn't",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ We wasn't ready for the game.",
+     "you · we · they · 여럿 → weren't  ·  I · 나도 너도 아닌 하나 · 셀 수 없는 것 → wasn't"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, you와 여럿에는 weren't, I와 나도 너도 아닌 하나, 셀 수 없는 것에는 wasn't를 써요.",
+   "caption": "you·여럿 weren't, I·하나 wasn't"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "They weren't late.",
+   "Mina wasn't at school.",
+   "The rooms weren't empty.",
+   "We wasn't ready for the game.",
+   "I wasn't nervous."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: was not은 wasn’t, were not은 weren’t로 줄인다. 부정문에서도 주어의 인칭·수에 맞는 과거형을 쓴다.\n풀이 순서: ① 문장마다 주어가 단수(I, he, she, it, 단수 명사)인지 복수(we, you, they, 복수 명사)인지 가른다. → ② 단수면 wasn't, 복수면 weren't인지 본다. → ③ 선택지 ④의 We는 복수인데 wasn't를 썼다. 정답은 ④.\n문장별 판정:\n정답 판단: 주어 We에 맞는 과거형 be동사는 were이다 (1인칭 복수). was를 were로 고쳐 주어와 일치시켜야 한다. 따라서 발문에서 찾는 잘못된 표현·설명에 해당한다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] 주어 They에 맞는 과거형 be동사는 were이다 (3인칭 복수). 부정 표현은 be동사 뒤에 not을 놓거나 그 축약형을 쓴다. 따라서 발문에서 찾는 잘못된 표현·설명은 아니다.\n② [오답] 주어 Mina에 맞는 과거형 be동사는 was이다 (3인칭 단수). 부정 표현은 be동사 뒤에 not을 놓거나 그 축약형을 쓴다. 따라서 발문에서 찾는 잘못된 표현·설명은 아니다.\n③ [오답] 주어 The rooms에 맞는 과거형 be동사는 were이다 (3인칭 복수). 부정 표현은 be동사 뒤에 not을 놓거나 그 축약형을 쓴다. 따라서 발문에서 찾는 잘못된 표현·설명은 아니다.\n④ [정답] 주어 We에 맞는 과거형 be동사는 were이다 (1인칭 복수). was를 were로 고쳐 주어와 일치시켜야 한다. 따라서 발문에서 찾는 잘못된 표현·설명에 해당한다.\n⑤ [오답] 주어 I에 맞는 과거형 be동사는 was이다 (1인칭 단수). 부정 표현은 be동사 뒤에 not을 놓거나 그 축약형을 쓴다. 따라서 발문에서 찾는 잘못된 표현·설명은 아니다."
+ }
+}

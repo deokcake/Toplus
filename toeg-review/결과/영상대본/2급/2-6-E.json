@@ -1,0 +1,176 @@
+{
+ "key": "2-6",
+ "type": "E",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "title": "make 4형식 문장을 3형식으로",
+ "total_sec": 133,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "2급 · CH 1 문장의 형식 · 6번 · E 유형\n\n이 문제는 make가 쓰인 4형식 문장을 3형식으로 바르게 바꾼 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 1 문장의 형식 · 6번 · E 유형",
+     "이 문제는 make가 쓰인 4형식 문장을 3형식으로 바르게 바꾼 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 1, 6번 E 유형. 이 문제는 make가 쓰인 4형식 문장을 3형식으로 바르게 바꾼 것을 고르는 문제예요.",
+   "caption": "make 4형식을 3형식으로"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 18,
+   "screen": {
+    "text": "다음 4형식 문장을 3형식 문장으로 바르게 바꾼 것은?\n\nMina made her friend a cake.\n\n① Mina made for her friend a cake.\n② Mina made a cake her friend.\n③ Mina made a cake to her friend.\n④ Mina made a cake for her friend.\n⑤ Mina made her friend for a cake.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 4형식 문장을 3형식 문장으로 바르게 바꾼 것은?",
+     "Mina made her friend a cake.",
+     "① Mina made for her friend a cake.",
+     "② Mina made a cake her friend.",
+     "③ Mina made a cake to her friend.",
+     "④ Mina made a cake for her friend.",
+     "⑤ Mina made her friend for a cake."
+    ]
+   },
+   "narration": "다음 4형식 문장을 3형식 문장으로 바르게 바꾼 것은? Mina made her friend a cake. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n4형식: 주어 + 동사 + 간접목적어(누구에게) + 직접목적어(무엇을)\n3형식: 주어 + 동사 + 직접목적어 + 전치사 + 간접목적어 (뜻은 같아요)\nto를 쓰는 동사: give, send, show, teach 등   for를 쓰는 동사: buy, make 등\n예) He bought me a hat. → He bought a hat for me. (그는 나에게 모자를 사 줬어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "4형식: 주어 + 동사 + 간접목적어(누구에게) + 직접목적어(무엇을)",
+     "3형식: 주어 + 동사 + 직접목적어 + 전치사 + 간접목적어 (뜻은 같아요)",
+     "to를 쓰는 동사: give, send, show, teach 등   for를 쓰는 동사: buy, make 등",
+     "예) He bought me a hat. → He bought a hat for me. (그는 나에게 모자를 사 줬어요.)"
+    ]
+   },
+   "narration": "4형식은 동사 뒤에 누구에게, 무엇을 순서로 간접목적어와 직접목적어를 써요. 같은 뜻의 3형식은 직접목적어를 동사 바로 뒤에 쓰고 간접목적어 앞에 전치사를 붙여요. give, send, show, teach는 to, buy, make는 for예요. 예를 들어 He bought me a hat은 He bought a hat for me가 돼요. 그는 나에게 모자를 사 줬어요.",
+   "caption": "직접목적어 + 전치사 + 간접목적어"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 4형식 문장을 3형식 문장으로 바르게 바꾼 것은?\n\nMina made her friend a cake.\n\n① Mina made for her friend a cake.\n② Mina made a cake her friend.\n③ Mina made a cake to her friend.\n④ Mina made a cake for her friend.\n⑤ Mina made her friend for a cake.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "made her friend a cake"
+      ],
+      "strike": [
+       "① Mina made for her friend a cake.",
+       "⑤ Mina made her friend for a cake."
+      ],
+      "note": "간접목적어 her friend, 직접목적어 a cake → 3형식은 made 바로 뒤에 a cake. for her friend나 her friend가 먼저 온 ①, ⑤ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "③ Mina made a cake to her friend.",
+       "② Mina made a cake her friend."
+      ],
+      "note": "make → 간접목적어 앞에 for. to를 쓴 ③, 전치사가 없는 ② 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ Mina made a cake for her friend."
+      ],
+      "strike": [],
+      "note": "남는 것: a cake + for + her friend"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 주어진 문장은 미나가 친구에게 케이크를 만들어 주었다는 뜻이니까, 간접목적어는 her friend, 직접목적어는 a cake예요. 3형식에서는 a cake가 made 바로 뒤에 와야 해서, 그렇지 않은 1번과 5번은 지워요. 둘째, make는 간접목적어 앞에 for를 쓰니까, to를 쓴 3번과 전치사가 없는 2번도 지워요. 셋째, 남는 것은 4번이에요. Mina made a cake for her friend. 미나는 친구에게 케이크를 만들어 주었어요.",
+   "caption": "a cake 먼저 → make는 for"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① Mina made for her friend a cake.  ✗  for her friend가 a cake 앞에 와서 어순이 틀려요\n② Mina made a cake her friend.  ✗  her friend 앞에 전치사 for가 없어요\n③ Mina made a cake to her friend.  ✗  make는 받는 사람 앞에 to가 아니라 for를 써요\n④ Mina made a cake for her friend.  ✓  a cake + for + her friend 순서가 맞아요\n⑤ Mina made her friend for a cake.  ✗  사람과 사물 사이에 for를 넣어 뜻이 통하지 않아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Mina made for her friend a cake.  ✗  for her friend가 a cake 앞에 와서 어순이 틀려요",
+     "② Mina made a cake her friend.  ✗  her friend 앞에 전치사 for가 없어요",
+     "③ Mina made a cake to her friend.  ✗  make는 받는 사람 앞에 to가 아니라 for를 써요",
+     "④ Mina made a cake for her friend.  ✓  a cake + for + her friend 순서가 맞아요",
+     "⑤ Mina made her friend for a cake.  ✗  사람과 사물 사이에 for를 넣어 뜻이 통하지 않아요"
+    ]
+   },
+   "narration": "정답은 4번이에요. 3번을 고르기 쉬운데, make는 받는 사람 앞에 to가 아니라 for를 써요. 1번은 for her friend가 a cake 앞에 와서 어순이 틀렸어요. 2번은 her friend 앞에 전치사 for가 빠졌어요.",
+   "caption": "정답 ④"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ④ Mina made a cake for her friend.\n\n3형식: 동사 + 직접목적어 + for + 간접목적어 (buy, make)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ Mina made a cake for her friend.",
+     "3형식: 동사 + 직접목적어 + for + 간접목적어 (buy, make)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 3형식으로 바꿀 때는 동사 바로 뒤에 직접목적어를 쓰고, make는 간접목적어 앞에 for를 써요.",
+   "caption": "buy, make → for"
+  }
+ ],
+ "source": {
+  "stem": "다음 4형식 문장을 3형식 문장으로 바르게 바꾼 것은?",
+  "passage": "Mina made her friend a cake.",
+  "c": [
+   "Mina made for her friend a cake.",
+   "Mina made a cake her friend.",
+   "Mina made a cake to her friend.",
+   "Mina made a cake for her friend.",
+   "Mina made her friend for a cake."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 4형식을 3형식으로 바꿀 때는 ‘주어 + 동사 + 직접목적어(사물) + 전치사 + 간접목적어(사람)’ 순서로 쓴다. give·send·show·teach는 to, buy·make는 for를 쓴다.\n풀이 순서: ① 3형식은 ‘동사 + 사물 + 전치사 + 사람’이다. 사물(a cake)이 동사 바로 뒤로 와야 한다. → ② 동사(make)에 맞는 전치사는 for다. → ③ 어순과 전치사가 모두 맞는 ④를 고른다.\n문장별 판정:\n정답 판단: 사물 + for + 사람 순서로 바르게 바꿨다. 정답은 ④이다.\n선택지 분석:\n① [오답] 전치사 + 사람을 사물 앞에 두어 어순이 틀렸다. 오답이다.\n② [오답] 사람 앞에 전치사가 없어 3형식이 되지 않는다. 오답이다.\n③ [오답] make는 받는 사람 앞에 for를 쓴다. 오답이다.\n④ [정답] 사물 + for + 사람 순서로 바르게 바꿨다. 정답이다.\n⑤ [오답] 사람과 사물 사이에 for를 잘못 넣어 뜻이 통하지 않는다. 오답이다."
+ }
+}

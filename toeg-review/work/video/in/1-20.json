@@ -1,0 +1,220 @@
+{
+ "key": "1-20",
+ "grade": 1,
+ "chapter": "CH 2 시제",
+ "items": {
+  "A": {
+   "stem": "다음 문장의 흐름상 빈칸 (A), (B)에 들어갈 말이 어법상 가장 바르게 짝지어진 것은?",
+   "passage": "The marathon runner (A)_________ for over two hours when he suddenly (B)_________ that he had taken the wrong path.",
+   "c": [
+    "(A) has been running - (B) realized",
+    "(A) had been running - (B) has realized",
+    "(A) was running - (B) had realized",
+    "(A) had been running - (B) realized",
+    "(A) had run - (B) was realizing"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 과거의 어느 때까지 계속되고 있던 동작은 과거완료진행(had been + -ing)으로 쓰고, 그때 일어난 기준 사건은 과거시제로 쓴다.\n풀이 순서: ① when 뒤의 사건(잘못된 길로 들어섰음을 깨달은 것)이 과거의 기준 시점이므로 (B)는 과거형이다. → ② (A)는 그때까지 일정 기간(for over two hours) 계속된 동작이므로 had been + -ing를 쓴다. 현재가 기준인 has been과, 기간 표현과 어울리지 않는 was -ing를 지운다. → ③ 정답은 (A) had been running - (B) realized.\n문장별 판정:\n정답 판단: 깨달은 때까지 두 시간 넘게 계속된 달리기를 had been running으로, 기준 사건을 realized로 바르게 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] (B)가 과거(realized)이므로 그때까지 계속된 동작에 현재완료진행 has been running을 쓸 수 없으므로 오답이다.\n② [오답] 깨달은 것은 과거의 한 사건이라 현재완료 has realized가 맞지 않으므로 오답이다.\n③ [오답] 두 시간 넘게 계속된 동작은 was running이 아니라 had been running이고, 깨달은 일이 달리기보다 먼저일 수 없으므로 오답이다.\n④ [정답] 깨달은 때까지 두 시간 넘게 계속된 달리기를 had been running으로, 기준 사건을 realized로 바르게 썼으므로 정답이다.\n⑤ [오답] realize는 순간의 일이라 과거진행형 was realizing이 맞지 않으므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 문장의 흐름상 빈칸 (A), (B)에 들어갈 말이 어법상 가장 바르게 짝지어진 것은?",
+   "passage": "Tom (A)_________ for nearly an hour when the bus finally (B)_________.",
+   "c": [
+    "(A) had been waiting - (B) arrived",
+    "(A) had been waiting - (B) has arrived",
+    "(A) had waited - (B) was arriving",
+    "(A) was waiting - (B) had arrived",
+    "(A) has been waiting - (B) arrived"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 과거의 한 사건이 일어날 때까지 계속 진행되던 동작은 had been + -ing으로, 그 기준 사건은 단순과거로 나타낸다.\n풀이 순서: ① when 뒤의 사건(버스가 도착한 것)이 과거의 기준 시점이므로 (B)는 과거형이다. → ② (A)는 그때까지 일정 기간(for nearly an hour) 계속된 동작이므로 had been + -ing를 쓴다. 현재가 기준인 has been과, 기간 표현과 어울리지 않는 was -ing를 지운다. → ③ 정답은 (A) had been waiting - (B) arrived.\n문장별 판정:\n정답 판단: 거의 한 시간 동안 기다리던 중에 버스가 도착했으므로 had been waiting - arrived가 알맞다.\n선택지 분석:\n① [정답] 거의 한 시간 동안 기다리던 중에 버스가 도착했으므로 had been waiting - arrived가 알맞다. 모든 자리가 알맞으므로 정답이다.\n② [오답] (B) has arrived: 현재완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n③ [오답] (A) had waited: 과거완료이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. (B) was arriving: 과거진행이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n④ [오답] (A) was waiting: 과거진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. (B) had arrived: 과거완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n⑤ [오답] (A) has been waiting: 현재완료진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. 따라서 오답이다."
+  },
+  "C": {
+   "stem": "다음 문장의 흐름상 빈칸 (A), (B)에 들어갈 말이 어법상 가장 바르게 짝지어진 것은?",
+   "passage": "The hikers (A)_________ for hours when they suddenly (B)_________ a light in the distance.",
+   "c": [
+    "(A) had been walking - (B) has noticed",
+    "(A) had been walking - (B) noticed",
+    "(A) was walking - (B) had noticed",
+    "(A) has been walking - (B) noticed",
+    "(A) had walked - (B) was noticing"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 과거의 한 사건이 일어날 때까지 계속 진행되던 동작은 had been + -ing으로, 그 기준 사건은 단순과거로 나타낸다.\n풀이 순서: ① when 뒤의 사건(불빛을 발견한 것)이 과거의 기준 시점이므로 (B)는 과거형이다. → ② (A)는 그때까지 일정 기간(for hours) 계속된 동작이므로 had been + -ing를 쓴다. 현재가 기준인 has been과, 기간 표현과 어울리지 않는 was -ing를 지운다. → ③ 정답은 (A) had been walking - (B) noticed.\n문장별 판정:\n정답 판단: 몇 시간 동안 걷고 있던 중에 불빛을 발견했으므로 had been walking - noticed가 알맞다.\n선택지 분석:\n① [오답] (B) has noticed: 현재완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n② [정답] 몇 시간 동안 걷고 있던 중에 불빛을 발견했으므로 had been walking - noticed가 알맞다. 모든 자리가 알맞으므로 정답이다.\n③ [오답] (A) was walking: 과거진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. (B) had noticed: 과거완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n④ [오답] (A) has been walking: 현재완료진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. 따라서 오답이다.\n⑤ [오답] (A) had walked: 과거완료이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. (B) was noticing: 과거진행이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다."
+  },
+  "D": {
+   "stem": "다음 문장의 흐름상 빈칸 (A), (B)에 들어갈 말이 어법상 가장 바르게 짝지어진 것은?",
+   "passage": "Mina (A)_________ for her final exam all morning in the quiet school library when she finally (B)_________ a short break for lunch.",
+   "c": [
+    "(A) had studied - (B) was taking",
+    "(A) had been studying - (B) has taken",
+    "(A) was studying - (B) had taken",
+    "(A) has been studying - (B) took",
+    "(A) had been studying - (B) took"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 과거의 한 사건이 일어날 때까지 계속 진행되던 동작은 had been + -ing으로, 그 기준 사건은 단순과거로 나타낸다.\n풀이 순서: ① when 뒤의 사건(휴식을 취한 것)이 과거의 기준 시점이므로 (B)는 과거형이다. → ② (A)는 그때까지 일정 기간(all morning) 계속된 동작이므로 had been + -ing를 쓴다. 현재가 기준인 has been과, 기간 표현과 어울리지 않는 was -ing를 지운다. → ③ 정답은 (A) had been studying - (B) took.\n문장별 판정:\n정답 판단: 아침 내내 공부하다가 마침내 쉬었으므로 had been studying - took가 알맞다.\n선택지 분석:\n① [오답] (A) had studied: 과거완료이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. (B) was taking: 과거진행이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n② [오답] (B) has taken: 현재완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n③ [오답] (A) was studying: 과거진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. (B) had taken: 과거완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n④ [오답] (A) has been studying: 현재완료진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. 따라서 오답이다.\n⑤ [정답] 아침 내내 공부하다가 마침내 쉬었으므로 had been studying - took가 알맞다. 모든 자리가 알맞으므로 정답이다."
+  },
+  "E": {
+   "stem": "다음 문장의 흐름상 빈칸 (A), (B)에 들어갈 말이 어법상 가장 바르게 짝지어진 것은?",
+   "passage": "The team (A)_________ on the difficult science project for weeks when they finally (B)_________ the solution to the main problem last Friday.",
+   "c": [
+    "(A) was working - (B) had found",
+    "(A) had been working - (B) has found",
+    "(A) had been working - (B) found",
+    "(A) has been working - (B) found",
+    "(A) had worked - (B) was finding"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 과거의 한 사건이 일어날 때까지 계속 진행되던 동작은 had been + -ing으로, 그 기준 사건은 단순과거로 나타낸다.\n풀이 순서: ① when 뒤의 사건(해결책을 찾은 것)이 과거의 기준 시점이므로 (B)는 과거형이다. → ② (A)는 그때까지 일정 기간(for weeks) 계속된 동작이므로 had been + -ing를 쓴다. 현재가 기준인 has been과, 기간 표현과 어울리지 않는 was -ing를 지운다. → ③ 정답은 (A) had been working - (B) found.\n문장별 판정:\n정답 판단: 몇 주 동안 일하다가 마침내 해결책을 찾았으므로 had been working - found가 알맞다.\n선택지 분석:\n① [오답] (A) was working: 과거진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. (B) had found: 과거완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n② [오답] (B) has found: 현재완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n③ [정답] 몇 주 동안 일하다가 마침내 해결책을 찾았으므로 had been working - found가 알맞다. 모든 자리가 알맞으므로 정답이다.\n④ [오답] (A) has been working: 현재완료진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. 따라서 오답이다.\n⑤ [오답] (A) had worked: 과거완료이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. (B) was finding: 과거진행이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다."
+  },
+  "F": {
+   "stem": "다음 문장의 흐름상 빈칸 (A), (B)에 들어갈 말이 어법상 가장 바르게 짝지어진 것은?",
+   "passage": "It (A)_________ for two days without stopping in our small town when the dark sky finally (B)_________ early on Sunday morning.",
+   "c": [
+    "(A) has been raining - (B) cleared",
+    "(A) was raining - (B) had cleared",
+    "(A) had been raining - (B) cleared",
+    "(A) had been raining - (B) has cleared",
+    "(A) had rained - (B) was clearing"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 과거의 한 사건이 일어날 때까지 계속 진행되던 동작은 had been + -ing으로, 그 기준 사건은 단순과거로 나타낸다.\n풀이 순서: ① when 뒤의 사건(하늘이 갠 것)이 과거의 기준 시점이므로 (B)는 과거형이다. → ② (A)는 그때까지 일정 기간(for two days) 계속된 동작이므로 had been + -ing를 쓴다. 현재가 기준인 has been과, 기간 표현과 어울리지 않는 was -ing를 지운다. → ③ 정답은 (A) had been raining - (B) cleared.\n문장별 판정:\n정답 판단: 이틀 동안 비가 내리다가 하늘이 갰으므로 had been raining - cleared가 알맞다.\n선택지 분석:\n① [오답] (A) has been raining: 현재완료진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. 따라서 오답이다.\n② [오답] (A) was raining: 과거진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. (B) had cleared: 과거완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n③ [정답] 이틀 동안 비가 내리다가 하늘이 갰으므로 had been raining - cleared가 알맞다. 모든 자리가 알맞으므로 정답이다.\n④ [오답] (B) has cleared: 현재완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n⑤ [오답] (A) had rained: 과거완료이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. (B) was clearing: 과거진행이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다."
+  }
+ },
+ "prior_review": {
+  "A": {
+   "verdict": "보완 권장",
+   "issues": [
+    {
+     "kind": "대본",
+     "where": "선택지 분석 ①",
+     "detail": "‘(B)가 과거(realized)이므로 … has been running을 쓸 수 없으므로 오답이다’처럼 한 문장 안에 ‘~므로’가 두 번 이어져 말로 읽으면 어색하다. ‘…쓸 수 없다. 따라서 오답이다.’로 끊는다."
+    }
+   ],
+   "proposed": "핵심 규칙: 과거의 어느 때까지 계속되고 있던 동작은 과거완료진행(had been + -ing)으로 쓰고, 그때 일어난 기준 사건은 과거시제로 쓴다.\n풀이 순서: ① when 뒤의 사건(잘못된 길로 들어섰음을 깨달은 것)이 과거의 기준 시점이므로 (B)는 과거형이다. → ② (A)는 그때까지 일정 기간(for over two hours) 계속된 동작이므로 had been + -ing를 쓴다. 현재가 기준인 has been과, 기간 표현과 어울리지 않는 was -ing를 지운다. → ③ 정답은 (A) had been running - (B) realized.\n문장별 판정:\n정답 판단: 깨달은 때까지 두 시간 넘게 계속된 달리기를 had been running으로, 기준 사건을 realized로 바르게 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] (B)가 과거(realized)이므로 그때까지 계속된 동작에 현재가 기준인 현재완료진행 has been running을 쓸 수 없다. 따라서 오답이다.\n② [오답] 깨달은 것은 과거의 한 사건이라 현재완료 has realized가 맞지 않으므로 오답이다.\n③ [오답] 두 시간 넘게 계속된 동작은 was running이 아니라 had been running이고, 깨달은 일이 달리기보다 먼저일 수 없으므로 오답이다.\n④ [정답] 깨달은 때까지 두 시간 넘게 계속된 달리기를 had been running으로, 기준 사건을 realized로 바르게 썼으므로 정답이다.\n⑤ [오답] realize는 순간의 일이라 과거진행형 was realizing이 맞지 않으므로 오답이다.",
+   "note": "",
+   "verified": false
+  },
+  "B": {
+   "verdict": "수정 필요",
+   "issues": [
+    {
+     "kind": "정확성",
+     "where": "선택지 분석 ③",
+     "detail": "‘(A) had waited: 과거완료이어서 맞지 않는다’는 과한 일반화다. had + 과거분사도 과거의 어느 때까지의 계속(계속 용법)을 나타낼 수 있어 ‘Tom had waited for nearly an hour when the bus finally arrived.’ 자체는 틀린 문장이 아니다. 이 보기가 오답인 결정적 이유는 (B) was arriving이다. 원문항(A) 해설도 같은 짝인 ⑤ had run을 틀렸다고 하지 않고 was realizing만 짚었다. (A)는 ‘진행 중이던 동작을 나타내기에는 had been + -ing이 더 알맞다’로 낮추고 (B)를 앞세운다."
+    },
+    {
+     "kind": "일관성",
+     "where": "선택지 분석 ③",
+     "detail": "원문항(A)은 had + 과거분사 짝을 (B)의 잘못으로만 설명하는데 B는 (A) 자리를 틀렸다고 해 같은 번호 안에서 설명이 어긋난다."
+    },
+    {
+     "kind": "표기",
+     "where": "정답 판단",
+     "detail": "‘…had been waiting - arrived가 알맞다.’로 끝나 고정 짜임의 ‘정답은 ①이다.’가 없다."
+    }
+   ],
+   "proposed": "핵심 규칙: 과거의 한 사건이 일어날 때까지 계속 진행되던 동작은 had been + -ing으로, 그 기준 사건은 단순과거로 나타낸다.\n풀이 순서: ① when 뒤의 사건(버스가 도착한 것)이 과거의 기준 시점이므로 (B)는 과거형이다. → ② (A)는 그때까지 일정 기간(for nearly an hour) 계속된 동작이므로 had been + -ing를 쓴다. 현재가 기준인 has been과, 기간 표현과 어울리지 않는 was -ing를 지운다. → ③ 정답은 (A) had been waiting - (B) arrived.\n문장별 판정:\n정답 판단: 거의 한 시간 동안 기다리던 중에 버스가 도착했으므로 had been waiting - arrived가 알맞아 정답은 ①이다.\n선택지 분석:\n① [정답] 거의 한 시간 동안 기다리던 중에 버스가 도착했으므로 had been waiting - arrived가 알맞다. 모든 자리가 알맞으므로 정답이다.\n② [오답] (B) has arrived: 현재완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n③ [오답] (A) had waited: 그때까지 계속 진행 중이던 동작을 나타내기에는 had been + -ing이 더 알맞다. 무엇보다 (B) was arriving: 과거진행이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n④ [오답] (A) was waiting: 과거진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. (B) had arrived: 과거완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n⑤ [오답] (A) has been waiting: 현재완료진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. 따라서 오답이다.",
+   "note": "",
+   "verified": false
+  },
+  "C": {
+   "verdict": "수정 필요",
+   "issues": [
+    {
+     "kind": "정확성",
+     "where": "선택지 분석 ⑤",
+     "detail": "‘(A) had walked: 과거완료이어서 맞지 않는다’는 과한 일반화다. had + 과거분사도 과거의 어느 때까지의 계속을 나타낼 수 있어 ‘The hikers had walked for hours when …’ 자체는 틀린 문장이 아니다. 이 보기가 오답인 결정적 이유는 (B) was noticing이다. 원문항(A) 해설도 같은 짝인 ⑤ had run을 틀렸다고 하지 않고 was realizing만 짚었다. (A)는 ‘진행 중이던 동작을 나타내기에는 had been + -ing이 더 알맞다’로 낮추고 (B)를 앞세운다."
+    },
+    {
+     "kind": "일관성",
+     "where": "선택지 분석 ⑤",
+     "detail": "원문항(A)은 had + 과거분사 짝을 (B)의 잘못으로만 설명하는데 C는 (A) 자리를 틀렸다고 해 같은 번호 안에서 설명이 어긋난다."
+    },
+    {
+     "kind": "표기",
+     "where": "정답 판단",
+     "detail": "‘…had been walking - noticed가 알맞다.’로 끝나 고정 짜임의 ‘정답은 ②이다.’가 없다."
+    }
+   ],
+   "proposed": "핵심 규칙: 과거의 한 사건이 일어날 때까지 계속 진행되던 동작은 had been + -ing으로, 그 기준 사건은 단순과거로 나타낸다.\n풀이 순서: ① when 뒤의 사건(불빛을 발견한 것)이 과거의 기준 시점이므로 (B)는 과거형이다. → ② (A)는 그때까지 일정 기간(for hours) 계속된 동작이므로 had been + -ing를 쓴다. 현재가 기준인 has been과, 기간 표현과 어울리지 않는 was -ing를 지운다. → ③ 정답은 (A) had been walking - (B) noticed.\n문장별 판정:\n정답 판단: 몇 시간 동안 걷고 있던 중에 불빛을 발견했으므로 had been walking - noticed가 알맞아 정답은 ②이다.\n선택지 분석:\n① [오답] (B) has noticed: 현재완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n② [정답] 몇 시간 동안 걷고 있던 중에 불빛을 발견했으므로 had been walking - noticed가 알맞다. 모든 자리가 알맞으므로 정답이다.\n③ [오답] (A) was walking: 과거진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. (B) had noticed: 과거완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n④ [오답] (A) has been walking: 현재완료진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. 따라서 오답이다.\n⑤ [오답] (A) had walked: 그때까지 계속 진행 중이던 동작을 나타내기에는 had been + -ing이 더 알맞다. 무엇보다 (B) was noticing: 과거진행이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.",
+   "note": "",
+   "verified": false
+  },
+  "D": {
+   "verdict": "수정 필요",
+   "issues": [
+    {
+     "kind": "정확성",
+     "where": "선택지 분석 ①",
+     "detail": "‘(A) had studied: 과거완료이어서 맞지 않는다’는 과한 일반화다. had + 과거분사도 과거의 어느 때까지의 계속을 나타낼 수 있어 ‘Mina had studied … all morning when …’ 자체는 틀린 문장이 아니다. 이 보기가 오답인 결정적 이유는 (B) was taking이다. 원문항(A) 해설도 같은 짝인 ⑤ had run을 틀렸다고 하지 않고 was realizing만 짚었다. (A)는 ‘진행 중이던 동작을 나타내기에는 had been + -ing이 더 알맞다’로 낮추고 (B)를 앞세운다."
+    },
+    {
+     "kind": "일관성",
+     "where": "선택지 분석 ①",
+     "detail": "원문항(A)은 had + 과거분사 짝을 (B)의 잘못으로만 설명하는데 D는 (A) 자리를 틀렸다고 해 같은 번호 안에서 설명이 어긋난다."
+    },
+    {
+     "kind": "표기",
+     "where": "정답 판단, 선택지 분석 ⑤",
+     "detail": "정답 판단이 ‘…took가 알맞다.’로 끝나 고정 짜임의 ‘정답은 ⑤이다.’가 없다. 또 ‘took가’의 조사는 took(툭)이 받침으로 끝나므로 ‘took이’가 맞다(두 곳)."
+    }
+   ],
+   "proposed": "핵심 규칙: 과거의 한 사건이 일어날 때까지 계속 진행되던 동작은 had been + -ing으로, 그 기준 사건은 단순과거로 나타낸다.\n풀이 순서: ① when 뒤의 사건(휴식을 취한 것)이 과거의 기준 시점이므로 (B)는 과거형이다. → ② (A)는 그때까지 일정 기간(all morning) 계속된 동작이므로 had been + -ing를 쓴다. 현재가 기준인 has been과, 기간 표현과 어울리지 않는 was -ing를 지운다. → ③ 정답은 (A) had been studying - (B) took.\n문장별 판정:\n정답 판단: 아침 내내 공부하다가 마침내 쉬었으므로 had been studying - took이 알맞아 정답은 ⑤이다.\n선택지 분석:\n① [오답] (A) had studied: 그때까지 계속 진행 중이던 동작을 나타내기에는 had been + -ing이 더 알맞다. 무엇보다 (B) was taking: 과거진행이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n② [오답] (B) has taken: 현재완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n③ [오답] (A) was studying: 과거진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. (B) had taken: 과거완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n④ [오답] (A) has been studying: 현재완료진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. 따라서 오답이다.\n⑤ [정답] 아침 내내 공부하다가 마침내 쉬었으므로 had been studying - took이 알맞다. 모든 자리가 알맞으므로 정답이다.",
+   "note": "",
+   "verified": false
+  },
+  "E": {
+   "verdict": "수정 필요",
+   "issues": [
+    {
+     "kind": "정확성",
+     "where": "선택지 분석 ⑤",
+     "detail": "‘(A) had worked: 과거완료이어서 맞지 않는다’는 과한 일반화다. had + 과거분사도 과거의 어느 때까지의 계속을 나타낼 수 있어 ‘The team had worked on … for weeks when …’ 자체는 틀린 문장이 아니다. 이 보기가 오답인 결정적 이유는 (B) was finding이다. 원문항(A) 해설도 같은 짝인 ⑤ had run을 틀렸다고 하지 않고 was realizing만 짚었다. (A)는 ‘진행 중이던 동작을 나타내기에는 had been + -ing이 더 알맞다’로 낮추고 (B)를 앞세운다."
+    },
+    {
+     "kind": "일관성",
+     "where": "선택지 분석 ⑤",
+     "detail": "원문항(A)은 had + 과거분사 짝을 (B)의 잘못으로만 설명하는데 E는 (A) 자리를 틀렸다고 해 같은 번호 안에서 설명이 어긋난다."
+    },
+    {
+     "kind": "구체성",
+     "where": "선택지 분석 ②",
+     "detail": "이 지문에는 last Friday가 있어 (B) has found가 틀린 이유를 하나 더 댈 수 있다. ‘last Friday 같은 끝난 과거 시점과도 함께 쓸 수 없다’를 덧붙이면 학생이 왜 골랐을지(현재완료 습관)까지 짚을 수 있다."
+    },
+    {
+     "kind": "표기",
+     "where": "정답 판단",
+     "detail": "‘…had been working - found가 알맞다.’로 끝나 고정 짜임의 ‘정답은 ③이다.’가 없다."
+    }
+   ],
+   "proposed": "핵심 규칙: 과거의 한 사건이 일어날 때까지 계속 진행되던 동작은 had been + -ing으로, 그 기준 사건은 단순과거로 나타낸다.\n풀이 순서: ① when 뒤의 사건(해결책을 찾은 것)이 과거의 기준 시점이므로 (B)는 과거형이다. → ② (A)는 그때까지 일정 기간(for weeks) 계속된 동작이므로 had been + -ing를 쓴다. 현재가 기준인 has been과, 기간 표현과 어울리지 않는 was -ing를 지운다. → ③ 정답은 (A) had been working - (B) found.\n문장별 판정:\n정답 판단: 몇 주 동안 일하다가 마침내 해결책을 찾았으므로 had been working - found가 알맞아 정답은 ③이다.\n선택지 분석:\n① [오답] (A) was working: 과거진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. (B) had found: 과거완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n② [오답] (B) has found: 현재완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓰며, last Friday 같은 끝난 과거 시점과도 함께 쓸 수 없다. 따라서 오답이다.\n③ [정답] 몇 주 동안 일하다가 마침내 해결책을 찾았으므로 had been working - found가 알맞다. 모든 자리가 알맞으므로 정답이다.\n④ [오답] (A) has been working: 현재완료진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. 따라서 오답이다.\n⑤ [오답] (A) had worked: 그때까지 계속 진행 중이던 동작을 나타내기에는 had been + -ing이 더 알맞다. 무엇보다 (B) was finding: 과거진행이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.",
+   "note": "",
+   "verified": false
+  },
+  "F": {
+   "verdict": "수정 필요",
+   "issues": [
+    {
+     "kind": "정확성",
+     "where": "선택지 분석 ⑤",
+     "detail": "‘(A) had rained: 과거완료이어서 맞지 않는다’는 과한 일반화다. had + 과거분사도 과거의 어느 때까지의 계속을 나타낼 수 있어 ‘It had rained for two days … when …’ 자체는 틀린 문장이 아니다. 이 보기가 오답인 결정적 이유는 (B) was clearing이다. 원문항(A) 해설도 같은 짝인 ⑤ had run을 틀렸다고 하지 않고 was realizing만 짚었다. (A)는 ‘진행 중이던 동작을 나타내기에는 had been + -ing이 더 알맞다’로 낮추고 (B)를 앞세운다."
+    },
+    {
+     "kind": "일관성",
+     "where": "선택지 분석 ⑤",
+     "detail": "원문항(A)은 had + 과거분사 짝을 (B)의 잘못으로만 설명하는데 F는 (A) 자리를 틀렸다고 해 같은 번호 안에서 설명이 어긋난다."
+    },
+    {
+     "kind": "표기",
+     "where": "정답 판단",
+     "detail": "‘…had been raining - cleared가 알맞다.’로 끝나 고정 짜임의 ‘정답은 ③이다.’가 없다."
+    }
+   ],
+   "proposed": "핵심 규칙: 과거의 한 사건이 일어날 때까지 계속 진행되던 동작은 had been + -ing으로, 그 기준 사건은 단순과거로 나타낸다.\n풀이 순서: ① when 뒤의 사건(하늘이 갠 것)이 과거의 기준 시점이므로 (B)는 과거형이다. → ② (A)는 그때까지 일정 기간(for two days) 계속된 동작이므로 had been + -ing를 쓴다. 현재가 기준인 has been과, 기간 표현과 어울리지 않는 was -ing를 지운다. → ③ 정답은 (A) had been raining - (B) cleared.\n문장별 판정:\n정답 판단: 이틀 동안 비가 내리다가 하늘이 갰으므로 had been raining - cleared가 알맞아 정답은 ③이다.\n선택지 분석:\n① [오답] (A) has been raining: 현재완료진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. 따라서 오답이다.\n② [오답] (A) was raining: 과거진행이어서 맞지 않는다. 과거의 기준 사건까지 계속된 동작에는 had been + -ing을 쓴다. (B) had cleared: 과거완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n③ [정답] 이틀 동안 비가 내리다가 하늘이 갰으므로 had been raining - cleared가 알맞다. 모든 자리가 알맞으므로 정답이다.\n④ [오답] (B) has cleared: 현재완료이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.\n⑤ [오답] (A) had rained: 그때까지 계속 진행 중이던 동작을 나타내기에는 had been + -ing이 더 알맞다. 무엇보다 (B) was clearing: 과거진행이어서 맞지 않는다. 기준이 되는 과거 사건은 단순과거로 쓴다. 따라서 오답이다.",
+   "note": "",
+   "verified": false
+  }
+ }
+}

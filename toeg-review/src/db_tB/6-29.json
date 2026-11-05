@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T08:17:05.484Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": 1,
+    "c": {
+      "0": "was excited",
+      "1": "was warm",
+      "2": "were near the bus",
+      "3": "was hungry",
+      "4": "were happy"
+    },
+    "expl": "핵심 규칙: 지문의 각 문장에서 주어를 먼저 찾고, 주어가 I·3인칭 단수면 was, 복수(A and B 포함)면 were인지 확인한다.\n풀이 순서: ① 밑줄마다 바로 앞의 주어를 찾는다. → ② 주어가 한 사람·한 개면 was, 둘 이상이면 were인지 본다. → ③ 선택지 ①의 주어 My friends는 복수라 were다. 정답은 ①.\n문장별 판정:\n정답 판단: 주어 My friends는 복수라 was가 아니라 were를 써야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] 주어 My friends는 복수라 was가 아니라 were를 써야 하므로 정답이다.\n② [오답] 주어 The weather는 단수라 was를 바르게 썼으므로 오답이다.\n③ [오답] 주어 Our teachers는 복수라 were를 바르게 썼으므로 오답이다.\n④ [오답] 주어 I에 was를 바르게 썼으므로 오답이다.\n⑤ [오답] 주어 We에 were를 바르게 썼으므로 오답이다.",
+    "passage": "Yesterday, our class had a picnic. My friends ①<u>was</u> excited. The weather ②<u>was</u> warm. Our teachers ③<u>were</u> near the bus. I ④<u>was</u> hungry. We ⑤<u>were</u> happy.",
+    "stem": "다음 지문을 읽고 밑줄 친 ①~⑤ 중 어법상 틀린 것을 고르시오."
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T05:59:25.112Z",
+      "text": "기준문항도 변형문제처럼 정답을 고르는 보기를 1~5번까지 보여줘"
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T08:17:05.484Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T08:17:03.021Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T05:59:25.112Z",
+      "what": "메모 작성"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T08:17:05.484Z",
+      "what": "확인 완료"
+    }
+  }
+}

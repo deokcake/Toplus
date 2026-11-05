@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T06:49:18.504Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 분사구문의 의미상 주어, 능동·수동 관계와 선후 관계를 확인한다. having 자체는 현재분사이며 having + 과거분사가 완료 분사구문을 이룬다.\n풀이 순서: ① 문장마다 분사와 그 의미상 주어의 관계(능동·수동)를 확인하고, 분사구문의 숨은 주어가 주절의 주어와 같은지 본다. → ② f)만 틀렸다. Running의 주어가 the bus가 되어 맞지 않는다. 나머지 다섯 문장은 옳다. → ③ 옳은 문장을 세면 5개이다.\n문장별 판정:\na) 옳음: 질문을 이해하지 못한 주체가 I이므로 Not understanding이 맞다.\nb) 옳음: Leo가 앞서 초대받은 일이므로 Having been invited가 맞다.\nc) 옳음: 해가 지는 장면을 현재분사 setting으로 나타냈다.\nd) 옳음: 전등이 꺼진 상태를 with the lights turned off로 나타냈다.\ne) 옳음: 시간이 허락한다면이라는 조건을 Time permitting으로 나타냈다.\nf) 틀림: 달린 주체는 I인데 주절 주어는 the bus이다. 교정: While I was running to the bus stop, the bus left without me.\n정답 판단: 옳은 문장은 a, b, c, d, e의 5개이다.\n선택지 분석:\n① [오답] 옳은 문장은 a, b, c, d, e의 5개이다. 이 보기의 2개는 실제 개수와 다르다.\n② [오답] 옳은 문장은 a, b, c, d, e의 5개이다. 이 보기의 3개는 실제 개수와 다르다.\n③ [오답] 옳은 문장은 a, b, c, d, e의 5개이다. 이 보기의 4개는 실제 개수와 다르다.\n④ [정답] 옳은 문장은 a, b, c, d, e의 5개이다. 이 보기의 5개는 실제 개수와 일치한다.\n⑤ [오답] 옳은 문장은 a, b, c, d, e의 5개이다. 이 보기의 6개는 실제 개수와 다르다.",
+    "passage": "a) Not understanding the question, I asked the teacher again.\nb) Having been invited to the party, Leo attended with his sister.\nc) I watched the sun setting slowly behind the hills.\nd) With the lights turned off, the room was completely dark.\ne) Time permitting, we will continue the discussion tomorrow.\nf) Running to the bus stop, the bus left without me.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T06:49:06.208Z"
+  },
+  "tab": "ij7ic6nx",
+  "updatedAt": "2026-10-26T06:49:18.504Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:49:18.504Z",
+      "what": "확인 완료"
+    }
+  }
+}

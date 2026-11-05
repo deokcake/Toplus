@@ -1,0 +1,86 @@
+{
+ "key": "2-6",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "items": {
+  "A": {
+   "stem": "다음 4형식 문장을 3형식 문장으로 바르게 바꾼 것은?",
+   "passage": "The teacher gave the students homework.",
+   "c": [
+    "The teacher gave to the students homework.",
+    "The teacher gave the students to homework.",
+    "The teacher gave homework to the students.",
+    "The teacher gave homework for the students.",
+    "The teacher gave the homework students."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 4형식(동사 + 사람 + 사물)을 3형식으로 바꾸면 ‘동사 + 사물 + 전치사 + 사람’이 된다. give, send, show, teach는 to를, buy, make는 for를 쓴다.\n풀이 순서: ① 3형식은 ‘동사 + 사물 + 전치사 + 사람’이다. 사물(homework)이 동사 바로 뒤로 와야 한다. → ② 동사(give)에 맞는 전치사는 to다. → ③ 어순과 전치사가 모두 맞는 ③을 고른다.\n문장별 판정:\n정답 판단: 사물 + to + 사람 순서로 바르게 바꿨으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 전치사 + 사람이 사물 앞에 와 어순이 틀렸으므로 오답이다.\n② [오답] to가 사물 앞에 붙어 뜻이 통하지 않으므로 오답이다.\n③ [정답] 사물 + to + 사람 순서로 바르게 바꿨으므로 정답이다.\n④ [오답] give는 for가 아니라 to를 쓰므로 오답이다.\n⑤ [오답] 어순이 뒤섞여 문장이 되지 않으므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 4형식 문장을 3형식 문장으로 바르게 바꾼 것은?",
+   "passage": "My aunt sent me a package.",
+   "c": [
+    "My aunt sent a package me.",
+    "My aunt sent a package to me.",
+    "My aunt sent a package for me.",
+    "My aunt sent to me a package.",
+    "My aunt sent me to a package."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 4형식을 3형식으로 바꿀 때는 ‘주어 + 동사 + 직접목적어(사물) + 전치사 + 간접목적어(사람)’ 순서로 쓴다. give·send·show·teach는 to, buy·make는 for를 쓴다.\n풀이 순서: ① 3형식은 ‘동사 + 사물 + 전치사 + 사람’이다. 사물(a package)이 동사 바로 뒤로 와야 한다. → ② 동사(send)에 맞는 전치사는 to다. → ③ 어순과 전치사가 모두 맞는 ②를 고른다.\n문장별 판정:\n정답 판단: 사물 + to + 사람 순서로 바르게 바꿨다. 정답은 ②이다.\n선택지 분석:\n① [오답] 사람 앞에 전치사가 없어 3형식이 되지 않는다. 오답이다.\n② [정답] 사물 + to + 사람 순서로 바르게 바꿨다. 정답이다.\n③ [오답] send는 받는 사람 앞에 to를 쓴다. 오답이다.\n④ [오답] 전치사 + 사람을 사물 앞에 두어 어순이 틀렸다. 오답이다.\n⑤ [오답] 사람과 사물 사이에 to를 잘못 넣어 뜻이 통하지 않는다. 오답이다."
+  },
+  "C": {
+   "stem": "다음 4형식 문장을 3형식 문장으로 바르게 바꾼 것은?",
+   "passage": "Dad bought me a bicycle.",
+   "c": [
+    "Dad bought a bicycle me.",
+    "Dad bought a bicycle for me.",
+    "Dad bought for me a bicycle.",
+    "Dad bought me for a bicycle.",
+    "Dad bought a bicycle to me."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 4형식을 3형식으로 바꿀 때는 ‘주어 + 동사 + 직접목적어(사물) + 전치사 + 간접목적어(사람)’ 순서로 쓴다. give·send·show·teach는 to, buy·make는 for를 쓴다.\n풀이 순서: ① 3형식은 ‘동사 + 사물 + 전치사 + 사람’이다. 사물(a bicycle)이 동사 바로 뒤로 와야 한다. → ② 동사(buy)에 맞는 전치사는 for다. → ③ 어순과 전치사가 모두 맞는 ②를 고른다.\n문장별 판정:\n정답 판단: 사물 + for + 사람 순서로 바르게 바꿨다. 정답은 ②이다.\n선택지 분석:\n① [오답] 사람 앞에 전치사가 없어 3형식이 되지 않는다. 오답이다.\n② [정답] 사물 + for + 사람 순서로 바르게 바꿨다. 정답이다.\n③ [오답] 전치사 + 사람을 사물 앞에 두어 어순이 틀렸다. 오답이다.\n④ [오답] 사람과 사물 사이에 for를 잘못 넣어 ‘자전거를 위해 나를 샀다’는 뜻이 되었다. 오답이다.\n⑤ [오답] buy는 받는 사람 앞에 for를 쓴다. 오답이다."
+  },
+  "D": {
+   "stem": "다음 4형식 문장을 3형식 문장으로 바르게 바꾼 것은?",
+   "passage": "The guide showed us the map.",
+   "c": [
+    "The guide showed to us the map.",
+    "The guide showed the map to us.",
+    "The guide showed us to the map.",
+    "The guide showed the map for us.",
+    "The guide showed the map us."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 4형식을 3형식으로 바꿀 때는 ‘주어 + 동사 + 직접목적어(사물) + 전치사 + 간접목적어(사람)’ 순서로 쓴다. give·send·show·teach는 to, buy·make는 for를 쓴다.\n풀이 순서: ① 3형식은 ‘동사 + 사물 + 전치사 + 사람’이다. 사물(the map)이 동사 바로 뒤로 와야 한다. → ② 동사(show)에 맞는 전치사는 to다. → ③ 어순과 전치사가 모두 맞는 ②를 고른다.\n문장별 판정:\n정답 판단: 사물 + to + 사람 순서로 바르게 바꿨다. 정답은 ②이다.\n선택지 분석:\n① [오답] 전치사 + 사람을 사물 앞에 두어 어순이 틀렸다. 오답이다.\n② [정답] 사물 + to + 사람 순서로 바르게 바꿨다. 정답이다.\n③ [오답] ‘우리를 지도로 안내했다’는 다른 뜻이 되었다. 오답이다.\n④ [오답] show는 보는 사람 앞에 to를 쓴다. 오답이다.\n⑤ [오답] 사람 앞에 전치사가 없어 3형식이 되지 않는다. 오답이다."
+  },
+  "E": {
+   "stem": "다음 4형식 문장을 3형식 문장으로 바르게 바꾼 것은?",
+   "passage": "Mina made her friend a cake.",
+   "c": [
+    "Mina made for her friend a cake.",
+    "Mina made a cake her friend.",
+    "Mina made a cake to her friend.",
+    "Mina made a cake for her friend.",
+    "Mina made her friend for a cake."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 4형식을 3형식으로 바꿀 때는 ‘주어 + 동사 + 직접목적어(사물) + 전치사 + 간접목적어(사람)’ 순서로 쓴다. give·send·show·teach는 to, buy·make는 for를 쓴다.\n풀이 순서: ① 3형식은 ‘동사 + 사물 + 전치사 + 사람’이다. 사물(a cake)이 동사 바로 뒤로 와야 한다. → ② 동사(make)에 맞는 전치사는 for다. → ③ 어순과 전치사가 모두 맞는 ④를 고른다.\n문장별 판정:\n정답 판단: 사물 + for + 사람 순서로 바르게 바꿨다. 정답은 ④이다.\n선택지 분석:\n① [오답] 전치사 + 사람을 사물 앞에 두어 어순이 틀렸다. 오답이다.\n② [오답] 사람 앞에 전치사가 없어 3형식이 되지 않는다. 오답이다.\n③ [오답] make는 받는 사람 앞에 for를 쓴다. 오답이다.\n④ [정답] 사물 + for + 사람 순서로 바르게 바꿨다. 정답이다.\n⑤ [오답] 사람과 사물 사이에 for를 잘못 넣어 뜻이 통하지 않는다. 오답이다."
+  },
+  "F": {
+   "stem": "다음 4형식 문장을 3형식 문장으로 바르게 바꾼 것은?",
+   "passage": "The teacher taught us English.",
+   "c": [
+    "The teacher taught English for us.",
+    "The teacher taught English us.",
+    "The teacher taught English to us.",
+    "The teacher taught to us English.",
+    "The teacher taught us to English."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 4형식을 3형식으로 바꿀 때는 ‘주어 + 동사 + 직접목적어(사물) + 전치사 + 간접목적어(사람)’ 순서로 쓴다. give·send·show·teach는 to, buy·make는 for를 쓴다.\n풀이 순서: ① 3형식은 ‘동사 + 사물 + 전치사 + 사람’이다. 사물(English)이 동사 바로 뒤로 와야 한다. → ② 동사(teach)에 맞는 전치사는 to다. → ③ 어순과 전치사가 모두 맞는 ③을 고른다.\n문장별 판정:\n정답 판단: 사물 + to + 사람 순서로 바르게 바꿨다. 정답은 ③이다.\n선택지 분석:\n① [오답] teach는 배우는 사람 앞에 to를 쓴다. 오답이다.\n② [오답] 사람 앞에 전치사가 없어 3형식이 되지 않는다. 오답이다.\n③ [정답] 사물 + to + 사람 순서로 바르게 바꿨다. 정답이다.\n④ [오답] 전치사 + 사람을 사물 앞에 두어 어순이 틀렸다. 오답이다.\n⑤ [오답] 사람과 사물 사이에 to를 잘못 넣어 뜻이 통하지 않는다. 오답이다."
+  }
+ },
+ "prior_review": {}
+}

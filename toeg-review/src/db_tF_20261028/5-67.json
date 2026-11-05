@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:54:26.365Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Jane is the nine runner.",
+      "1": "Jane is the nineth runner.",
+      "2": "Jane is the ninth runner.",
+      "3": "Jane is the nine's runner.",
+      "4": "Jane is the nineteenth runner."
+    },
+    "expl": "핵심 규칙: ‘~ 번째’는 서수로 나타낸다(first, second, third, fourth, fifth, ninth). 기수를 쓰거나 ’s·-th·-d를 잘못 붙이지 않도록 한다.\n풀이 순서: ① 우리말에서 ‘~ 번째’를 찾는다: 아홉 번째. 서수가 필요하다. → ② 그 서수의 바른 철자는 ninth(e를 뺀다). → ③ 기수를 그대로 쓴 것과 철자를 잘못 만든 것을 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: ‘아홉 번째’를 서수 ninth로 바르게 나타냈으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 기수(nine)로는 ‘~ 번째’를 나타낼 수 없으므로 오답이다.\n② [오답] nine의 서수는 e를 뺀 ninth이므로 오답이다.\n③ [정답] ‘아홉 번째’를 서수 ninth로 바르게 나타냈으므로 정답이다.\n④ [오답] ’s를 붙여도 서수가 되지 않으므로 오답이다.\n⑤ [오답] nineteenth는 ‘열아홉 번째’이므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 우리말 'Jane은 아홉 번째 주자이다'를 영어로 바르게 옮긴 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:54:23.484Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:54:26.365Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:54:26.365Z",
+      "what": "확인 완료"
+    }
+  }
+}

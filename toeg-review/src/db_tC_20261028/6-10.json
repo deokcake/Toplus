@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-21T10:55:27.794Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "(A)는 과목 이름이므로 english처럼 소문자로 써야 한다.",
+      "1": "(B)는 two 뒤에 오므로 story로 써야 한다.",
+      "2": "(A)와 (B)는 모두 고유명사이므로 대문자로 시작해야 한다.",
+      "3": "(A)의 English는 언어 이름인 고유명사이므로 문장 어디에서나 대문자로 시작한다.",
+      "4": "(B)는 y로 끝나는 명사이므로 storys로 써야 한다."
+    },
+    "expl": "핵심 규칙: 사람·도시·나라·요일·달·언어·기념일의 이름 같은 고유명사는 문장 어디에서나 첫 글자를 대문자로 쓴다. 보통명사는 문장 중간에서 소문자로 쓰고, 둘 이상이면 복수형(-s/-es, 자음 + y → -ies)으로 쓴다.\n풀이 순서: ① (A)가 무엇의 이름인지 본다: English, 언어 이름. 고유명사이므로 대문자로 시작한다. → ② (B)는 보통명사의 복수형이다: story → stories. 소문자로 쓴다. → ③ 이 두 가지와 맞는 설명은 ④.\n문장별 판정:\n정답 판단: 언어 이름은 고유명사라 대문자로 시작하므로 정답은 ④이다.\n선택지 분석:\n① [오답] English는 언어 이름인 고유명사라 대문자로 써야 하므로 오답이다.\n② [오답] two 뒤에는 복수형을 써야 하므로 오답이다.\n③ [오답] stories는 보통명사라 소문자로 쓰므로 오답이다.\n④ [정답] 언어 이름은 고유명사라 대문자로 시작하므로 정답이다.\n⑤ [오답] 자음 + y로 끝나면 y를 i로 바꾸고 -es를 붙여 stories로 쓰므로 오답이다.",
+    "passage": "Sora: Is (A)<u>English</u> your favorite subject?\nBen: Yes. I read two English (B)<u>stories</u> every week.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-21T10:55:26.478Z"
+  },
+  "tab": "ojjpxrut",
+  "updatedAt": "2026-10-21T10:55:27.794Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T10:55:27.794Z",
+      "what": "확인 완료"
+    }
+  }
+}

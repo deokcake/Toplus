@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T07:31:50.157Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "(A), (B)",
+      "1": "(B), (E)",
+      "2": "(A), (D)",
+      "3": "(C), (D)",
+      "4": "(C), (E)"
+    },
+    "expl": "핵심 규칙: as ~ as 안에서 동사를 꾸미면 부사를, be동사·연결동사(look, feel, seem, sound, become)의 보어이면 형용사를 쓴다.\n풀이 순서: ① 밑줄마다 as ~ as 앞의 동사를 본다. 일반동사를 꾸미면 부사 자리, look·feel·seem·sound·become 뒤면 형용사 자리다. → ② (C) wrote her answers 뒤는 부사 자리인데 형용사 clear를, (D) sounded 뒤는 형용사 자리인데 부사 warmly를 썼다. → ③ 틀린 두 곳을 모은 (C), (D)를 고른다.\n문장별 판정:\n(A) 옳음: studied를 꾸미는 부사 carefully이다.\n(B) 옳음: looked의 보어이므로 형용사 easy이다.\n(C) 틀림: wrote를 꾸미므로 부사 clearly를 써야 한다.\n(D) 틀림: sounded의 보어이므로 형용사 warm을 써야 한다.\n(E) 옳음: was의 보어이므로 형용사 high이다.\n정답 판단: 어법상 틀린 것은 (C), (D)이다.\n선택지 분석:\n① [오답] (A), (B)는 틀린 것이 아니고, 틀린 것 (C), (D)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (B), (E)는 틀린 것이 아니고, 틀린 것 (C), (D)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (A)는 틀린 것이 아니고, 틀린 것 (C)를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 틀린 것 (C), (D)를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] (E)는 틀린 것이 아니고, 틀린 것 (D)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "Before the final exam, Mina studied (A)<u>as carefully as</u> possible for two weeks. When she opened the test paper, it looked (B)<u>as easy as</u> the practice test she had taken. She wrote her answers (C)<u>as clear as</u> she could so that the teacher could read them. When the scores came out, her teacher sounded (D)<u>as warmly as</u> usual. In the end, Mina's score was (E)<u>as high as</u> her best friend's.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T07:31:33.929Z"
+  },
+  "tab": "n8ajqfrj",
+  "updatedAt": "2026-10-23T07:31:50.157Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T07:31:50.157Z",
+      "what": "확인 완료"
+    }
+  }
+}

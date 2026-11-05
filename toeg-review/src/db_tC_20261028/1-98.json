@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:14:07.420Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Mina had accepted the job if she would be living in Japan now.",
+      "1": "If had Mina accepted the job, she would be living in Japan now.",
+      "2": "If Mina had accepted the job, would she be living in Japan now.",
+      "3": "If Mina had accepted the job, she would be living in Japan now.",
+      "4": "Accepted Mina the job if had, she would be living in Japan now."
+    },
+    "expl": "핵심 규칙: 과거에 하지 않은 일이 현재에 영향을 주는 혼합가정법은 If + 주어 + had + 과거분사, 주어 + would + 동사원형(+ now)으로 쓴다.\n풀이 순서: ① 주어진 낱말에 if, had, 쉼표, would, now가 있다. ‘If + 주어 + had + 과거분사 ~, 주어 + would + 동사원형 ~ now’(혼합가정법)의 틀을 떠올린다. → ② if절(had accepted the job)은 과거의 일, 주절(would be living ~ now)은 지금의 일이다. → ③ if·had의 자리가 틀렸거나 주절이 의문문 어순인 보기를 지운다. 정답은 ④.\n문장별 판정:\n정답 판단: if + had + 과거분사(과거 조건), would + 동사원형 + now(현재 결과)의 혼합가정법을 바르게 배열했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] if의 위치가 틀려 조건절과 주절이 뒤바뀌었으므로 오답이다.\n② [오답] if절은 If + 주어 + had 순서인데 had가 주어 앞에 왔으므로 오답이다.\n③ [오답] 주절이 의문문 어순(would + 주어)이 되었으므로 오답이다.\n④ [정답] if + had + 과거분사(과거 조건), would + 동사원형 + now(현재 결과)의 혼합가정법을 바르게 배열했으므로 정답이다.\n⑤ [오답] if가 조건절 끝에 붙어 있고 낱말 순서가 크게 뒤섞였으므로 오답이다.",
+    "passage": "(accepted / if / she / the / Mina / be / , / had / job / living / in / would / now / Japan / .)",
+    "stem": "다음 주어진 단어를 바르게 배열한 문장을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T07:09:03.503Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T07:09:31.294Z",
+      "text": "주어진 단어를 좀 더 무작위로 제시할 필요가 있음"
+    }
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T03:14:07.420Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:13:58.516Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:14:07.420Z",
+      "what": "확인 완료"
+    }
+  }
+}

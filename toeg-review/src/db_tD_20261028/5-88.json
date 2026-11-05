@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T09:42:14.304Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "your",
+      "1": null,
+      "2": "to",
+      "3": "the",
+      "4": null
+    },
+    "expl": "핵심 규칙: 우리말 뜻에 맞게 주어 + 동사 + (목적어) + 전치사 + 명사의 어순으로 배열한다. There is/are 문장은 There + be동사 + 주어로 시작하고, 명령문은 동사원형으로 시작한다.\n풀이 순서: ① 우리말에 맞게 문장을 완성한다: Put your bag next to the door. → ② 앞에서부터 센다. → ③ 세 번째 낱말은 bag. 정답은 ⑤.\n문장별 판정:\n정답 판단: 완성 문장은 Put your bag next to the door.이고, 세 번째 단어는 bag이다.\n선택지 분석:\n① [오답] your는 두 번째에 오므로 오답이다.\n② [오답] next는 네 번째에 오므로 오답이다.\n③ [오답] to는 다섯 번째에 오므로 오답이다.\n④ [오답] the는 여섯 번째에 오므로 오답이다.\n⑤ [정답] 명령문은 동사 Put으로 시작해 bag이 세 번째에 오므로 정답이다.",
+    "passage": "네 가방을 문 옆에 두어라.\n(next / your / Put / door / to / bag / the)",
+    "stem": "주어진 단어들을 바르게 배열할 때, 세 번째에 오는 단어는 무엇입니까?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T09:42:12.576Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T09:42:14.304Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T09:42:14.304Z",
+      "what": "확인 완료"
+    }
+  }
+}

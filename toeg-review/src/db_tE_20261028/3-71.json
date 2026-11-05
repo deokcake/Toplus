@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:28:16.031Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "at",
+      "1": "in",
+      "2": "with",
+      "3": "on",
+      "4": "to"
+    },
+    "expl": "핵심 규칙: 형용사적 to부정사가 앞의 명사를 꾸밀 때, 그 명사가 전치사의 목적어이면(stand on a stool, write with a pen) 전치사를 to부정사 뒤에 남긴다.\n풀이 순서: ① 빈칸 앞의 to부정사가 꾸미는 명사(a quiet room)를 동사 뒤로 옮겨 본다: study in a quiet room(조용한 방 안에서 공부하다). → ② 이때 필요한 전치사를 to부정사 뒤에 그대로 남긴다. → ③ 정답은 in.\n문장별 판정:\n정답 판단: study in a room(방 안에서 공부하다): 명사가 전치사 in의 목적어가 되어 뜻이 통하므로 정답은 ②이다.\n선택지 분석:\n① [오답] study at a room: 뜻이 통하지 않으므로 오답이다.\n② [정답] study in a room(방 안에서 공부하다): 명사가 전치사 in의 목적어가 되어 뜻이 통하므로 정답이다.\n③ [오답] study with a room: 뜻이 통하지 않으므로 오답이다.\n④ [오답] study on a room: 뜻이 통하지 않으므로 오답이다.\n⑤ [오답] study to a room: 뜻이 통하지 않으므로 오답이다.",
+    "passage": "We need a quiet room to study (<u>          </u>) during the exam week.",
+    "stem": "다음 빈칸에 들어갈 전치사로 알맞은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T04:28:32.599Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:28:38.306Z",
+      "text": "기준 문항에 비해 문장이 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:28:16.031Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:28:10.298Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:28:16.031Z",
+      "what": "확인 완료"
+    }
+  }
+}

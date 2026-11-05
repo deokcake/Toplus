@@ -1,0 +1,175 @@
+{
+ "key": "2-14",
+ "type": "B",
+ "grade": 2,
+ "chapter": "CH 2 시제",
+ "title": "끝난 과거의 때와 현재완료",
+ "total_sec": 134,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "2급 · CH 2 시제 · 14번 · B 유형\n\n이 문제는 현재완료와 과거형을 알맞게 썼는지 살펴 어법상 틀린 대화를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 2 시제 · 14번 · B 유형",
+     "이 문제는 현재완료와 과거형을 알맞게 썼는지 살펴 어법상 틀린 대화를 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 2, 14번 B 유형. 이 문제는 현재완료와 과거형을 알맞게 썼는지 살펴 어법상 틀린 대화를 고르는 문제예요.",
+   "caption": "현재완료와 과거형 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 17,
+   "screen": {
+    "text": "다음 중 어법상 틀린 대화를 고르시오.\n\n① A: Will you join us for lunch tomorrow?\nB: Yes, I will. I'd love to.\n② A: What is your sister doing now?\nB: She is practicing the piano.\n③ A: When did you submit the report?\nB: I have submitted it two hours ago.\n④ A: How long have you known Mr. Kim?\nB: I have known him for eight years.\n⑤ A: Have you ever tried Thai food?\nB: Yes, I have tried it twice.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 어법상 틀린 대화를 고르시오.",
+     "① A: Will you join us for lunch tomorrow?\nB: Yes, I will. I'd love to.",
+     "② A: What is your sister doing now?\nB: She is practicing the piano.",
+     "③ A: When did you submit the report?\nB: I have submitted it two hours ago.",
+     "④ A: How long have you known Mr. Kim?\nB: I have known him for eight years.",
+     "⑤ A: Have you ever tried Thai food?\nB: Yes, I have tried it twice."
+    ]
+   },
+   "narration": "다음 중 어법상 틀린 대화를 고르세요. 보기마다 A가 묻고 B가 대답해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n현재완료 have(has) + 과거분사: 경험, 계속, 완료처럼 과거의 일이 지금과 이어질 때\n일이 일어난 때를 끝난 과거로 밝히면 → 현재완료 ✗, 과거형 ✓\n끝난 과거의 때: yesterday, last night, two days ago, When did ~?에 답하는 때\n예) I lost my key yesterday. (나는 어제 열쇠를 잃어버렸어요.)  I have lost my key yesterday. ✗",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재완료 have(has) + 과거분사: 경험, 계속, 완료처럼 과거의 일이 지금과 이어질 때",
+     "일이 일어난 때를 끝난 과거로 밝히면 → 현재완료 ✗, 과거형 ✓",
+     "끝난 과거의 때: yesterday, last night, two days ago, When did ~?에 답하는 때",
+     "예) I lost my key yesterday. (나는 어제 열쇠를 잃어버렸어요.)  I have lost my key yesterday. ✗"
+    ]
+   },
+   "narration": "현재완료는 have나 has 뒤에 과거분사를 써서, 경험, 계속, 완료처럼 과거의 일이 지금과 이어질 때 써요. 하지만 일이 일어난 때를 yesterday, two days ago처럼 끝난 과거로 밝히면 현재완료가 아니라 과거형을 써요. When did 질문에 그때를 밝혀 답할 때도 과거형이에요. 예를 들어 I lost my key yesterday. 나는 어제 열쇠를 잃어버렸어요.",
+   "caption": "끝난 과거의 때 → 과거형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 중 어법상 틀린 대화를 고르시오.\n\n① A: Will you join us for lunch tomorrow?\nB: Yes, I will. I'd love to.\n② A: What is your sister doing now?\nB: She is practicing the piano.\n③ A: When did you submit the report?\nB: I have submitted it two hours ago.\n④ A: How long have you known Mr. Kim?\nB: I have known him for eight years.\n⑤ A: Have you ever tried Thai food?\nB: Yes, I have tried it twice.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "③ A: When did you submit the report?",
+       "two hours ago"
+      ],
+      "strike": [],
+      "note": "대답 속 때를 나타내는 말 찾기: ③ two hours ago = 두 시간 전, 끝난 과거의 한 때. A도 When did로 물음"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "B: I have submitted it two hours ago."
+      ],
+      "strike": [],
+      "note": "끝난 과거의 때 + 현재완료 have submitted ✗ → 과거형: I submitted it two hours ago."
+     },
+     {
+      "step": 3,
+      "highlight": [],
+      "strike": [
+       "① A: Will you join us for lunch tomorrow? B: Yes, I will. I'd love to.",
+       "② A: What is your sister doing now? B: She is practicing the piano.",
+       "④ A: How long have you known Mr. Kim? B: I have known him for eight years.",
+       "⑤ A: Have you ever tried Thai food? B: Yes, I have tried it twice."
+      ],
+      "note": "나머지 ①②④⑤에는 일이 일어난 끝난 과거의 때가 없고 시제가 알맞다 → 지운다"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 대답에 끝난 과거의 때가 있는 대화는 3번이에요. A가 When did로 언제 냈는지 묻고, B가 two hours ago, 곧 두 시간 전이라고 답했어요. 둘째, 그런데 현재완료 have submitted를 썼으니, 과거형으로 I submitted it two hours ago라고 해야 해요. 나는 두 시간 전에 그것을 제출했어요. 셋째, 나머지 대화에는 일이 일어난 끝난 과거의 때가 없고 시제도 알맞아서, 틀린 대화는 3번이에요.",
+   "caption": "two hours ago → submitted"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① A: Will you join us for lunch tomorrow? B: Yes, I will. I'd love to.  ✗  tomorrow: 앞으로의 일 → will로 묻고 답했어요\n② A: What is your sister doing now? B: She is practicing the piano.  ✗  now: 지금 하는 일 → 현재진행형이 맞아요\n③ A: When did you submit the report? B: I have submitted it two hours ago.  ✓  two hours ago는 끝난 과거 → I submitted it two hours ago.\n④ A: How long have you known Mr. Kim? B: I have known him for eight years.  ✗  How long, for eight years: 지금까지 계속 → 현재완료가 맞아요\n⑤ A: Have you ever tried Thai food? B: Yes, I have tried it twice.  ✗  ever, twice: 지금까지의 경험 → 현재완료가 맞아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① A: Will you join us for lunch tomorrow? B: Yes, I will. I'd love to.  ✗  tomorrow: 앞으로의 일 → will로 묻고 답했어요",
+     "② A: What is your sister doing now? B: She is practicing the piano.  ✗  now: 지금 하는 일 → 현재진행형이 맞아요",
+     "③ A: When did you submit the report? B: I have submitted it two hours ago.  ✓  two hours ago는 끝난 과거 → I submitted it two hours ago.",
+     "④ A: How long have you known Mr. Kim? B: I have known him for eight years.  ✗  How long, for eight years: 지금까지 계속 → 현재완료가 맞아요",
+     "⑤ A: Have you ever tried Thai food? B: Yes, I have tried it twice.  ✗  ever, twice: 지금까지의 경험 → 현재완료가 맞아요"
+    ]
+   },
+   "narration": "정답은 3번이에요. 두 시간 전에 낸 일이니 have submitted가 아니라 submitted를 써요. 4번은 How long으로 묻고 for eight years로 답한, 지금까지 이어진 일이라 현재완료가 맞아요. 5번은 ever와 twice로 지금까지의 경험을 말하니 현재완료가 맞아요. 1번은 내일의 일을 will로 묻고 답해서 맞아요.",
+   "caption": "정답 ③ have submitted → submitted"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ③ A: When did you submit the report?\nB: I have submitted it two hours ago.\n\n일이 일어난 끝난 과거의 때(yesterday, last night, ~ ago)를 밝히면 → 현재완료 ✗, 과거형 ✓",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ A: When did you submit the report?\nB: I have submitted it two hours ago.",
+     "일이 일어난 끝난 과거의 때(yesterday, last night, ~ ago)를 밝히면 → 현재완료 ✗, 과거형 ✓"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 일이 일어난 때를 끝난 과거로 밝히면 현재완료가 아니라 과거형을 써요.",
+   "caption": "끝난 과거의 때엔 과거형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 어법상 틀린 대화를 고르시오.",
+  "passage": "",
+  "c": [
+   "A: Will you join us for lunch tomorrow?\nB: Yes, I will. I'd love to.",
+   "A: What is your sister doing now?\nB: She is practicing the piano.",
+   "A: When did you submit the report?\nB: I have submitted it two hours ago.",
+   "A: How long have you known Mr. Kim?\nB: I have known him for eight years.",
+   "A: Have you ever tried Thai food?\nB: Yes, I have tried it twice."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 현재완료는 ago, yesterday, last night, at noon처럼 끝난 과거 시점을 나타내는 말이나 When did ~?에 대한 대답에 쓸 수 없다. 이때는 과거형을 쓴다.\n풀이 순서: ① 대화마다 A가 묻는 시제와 B가 답하는 시제가 맞는지, 대답 속 시간 표현과 어울리는지 본다. → ② 대답에 ago, yesterday, last night 같은 끝난 과거 시점이 있으면 과거형이어야 한다. → ③ 선택지 ③의 B는 과거 시점 표현(two hours ago)이 있는데 현재완료(have submitted)를 썼다. 과거형(submitted)이 맞다.\n문장별 판정:\n정답 판단: two hours ago라는 과거 시점과 현재완료를 함께 쓸 수 없다. I submitted it two hours ago.로 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 앞으로의 일을 will로 묻고 답해 올바르므로 오답이다.\n② [오답] 지금 하는 일을 현재진행형으로 묻고 답해 올바르므로 오답이다.\n③ [정답] two hours ago라는 과거 시점과 현재완료를 함께 쓸 수 없다. I submitted it two hours ago.로 써야 하므로 정답이다.\n④ [오답] 지금까지의 기간을 현재완료로 묻고 답해 올바르므로 오답이다.\n⑤ [오답] 경험을 현재완료로 묻고 답해 올바르므로 오답이다."
+ }
+}

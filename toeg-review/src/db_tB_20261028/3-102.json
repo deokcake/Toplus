@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T07:50:17.657Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Minsu is as old as Jiho.",
+      "1": "Jiho is taller than Minsu.",
+      "2": "Minsu is heavier than Jiho.",
+      "3": "Jiho is lighter than Minsu.",
+      "4": "Minsu is taller than Jiho."
+    },
+    "expl": "핵심 규칙: 비교급 + than은 두 대상의 차이를, as + 원급 + as는 두 대상이 같음을 나타낸다.\n풀이 순서: ① 보기의 형용사가 표의 어느 줄인지 찾는다(old·young은 Age, heavy·light는 Weight, tall·short는 Height). → ② 비교급 + than이면 두 수의 크기를, as ~ as이면 두 수가 같은지를 확인한다. → ③ 선택지 ⑤는 Minsu가 더 크다고 했는데 Minsu는 168cm, Jiho는 172cm다. 정답은 ⑤.\n문장별 판정:\n정답 판단: Minsu(168cm)는 Jiho(172cm)보다 작아 표와 일치하지 않으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 두 사람 모두 15살이라 표와 일치하므로 오답이다.\n② [오답] Jiho(172cm)가 Minsu(168cm)보다 커서 표와 일치하므로 오답이다.\n③ [오답] Minsu(58kg)가 Jiho(52kg)보다 무거워 표와 일치하므로 오답이다.\n④ [오답] Jiho(52kg)가 Minsu(58kg)보다 가벼워 표와 일치하므로 오답이다.\n⑤ [정답] Minsu(168cm)는 Jiho(172cm)보다 작아 표와 일치하지 않으므로 정답이다.",
+    "passage": "Name\tMinsu\tJiho\nAge\t15\t15\nWeight\t58kg\t52kg\nHeight\t168cm\t172cm",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-20T07:50:05.635Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:12:17.385Z",
+      "text": "기준 문항과 변형 문항 모두 제시문의 형식이 표가 아니라 정보 확인에 어려움이 있음. 표 형식에 맞게 수정 필요."
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T07:50:17.657Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T07:50:07.696Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T07:50:17.657Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+ "key": "5-18",
+ "type": "A",
+ "grade": 5,
+ "chapter": "CH 2 be동사와 일반동사",
+ "title": "be동사 축약형과 am not",
+ "total_sec": 130,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "5급 · CH 2 be동사와 일반동사 · 18번\n\n이 문제는 be동사 축약형을 바르게 썼는지 보고, 어색한 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 2 be동사와 일반동사 · 18번",
+     "이 문제는 be동사 축약형을 바르게 썼는지 보고, 어색한 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 2, 18번. 이 문제는 be동사 축약형을 바르게 썼는지 보고, 어색한 문장을 고르는 문제예요.",
+   "caption": "be동사 축약형 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 중 밑줄 친 축약형의 쓰임이 어법상 어색한 문장을 고르세요.\n\n① You<u>'re</u> not my friend.\n② He <u>isn't</u> very tall.\n③ I <u>amn't</u> happy today.\n④ It<u>'s</u> not a blue pen.\n⑤ They <u>aren't</u> at home.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 밑줄 친 축약형의 쓰임이 어법상 어색한 문장을 고르세요.",
+     "① You<u>'re</u> not my friend.",
+     "② He <u>isn't</u> very tall.",
+     "③ I <u>amn't</u> happy today.",
+     "④ It<u>'s</u> not a blue pen.",
+     "⑤ They <u>aren't</u> at home."
+    ]
+   },
+   "narration": "다음 중 밑줄 친 축약형의 쓰임이 어법상 어색한 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\n축약형: 두 낱말을 줄여 쓴 꼴 · 뜻은 그대로\n주어 + be동사 → I'm, you're, he's, she's, it's, we're, they're\nbe동사 + not → isn't, aren't\n아포스트로피(')는 빠진 글자 자리에 · am not은 amn't로 줄이지 않고 I'm not\n예) I'm not hungry. (나는 배고프지 않아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "축약형: 두 낱말을 줄여 쓴 꼴 · 뜻은 그대로",
+     "주어 + be동사 → I'm, you're, he's, she's, it's, we're, they're",
+     "be동사 + not → isn't, aren't",
+     "아포스트로피(')는 빠진 글자 자리에 · am not은 amn't로 줄이지 않고 I'm not",
+     "예) I'm not hungry. (나는 배고프지 않아요.)"
+    ]
+   },
+   "narration": "축약형은 두 낱말을 줄여 쓴 꼴로, 뜻은 줄이기 전과 같아요. 주어와 be동사는 I'm, you're, he's처럼, be동사와 not은 isn't, aren't처럼 줄여요. 이때 아포스트로피는 글자가 빠진 자리에 찍어요. am not은 amn't로 줄이지 않고 I am을 줄여 I'm not으로 써요. 예를 들어 I'm not hungry, 나는 배고프지 않아요.",
+   "caption": "아포스트로피는 빠진 글자 자리에"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 35,
+   "screen": {
+    "text": "다음 중 밑줄 친 축약형의 쓰임이 어법상 어색한 문장을 고르세요.\n\n① You<u>'re</u> not my friend.\n② He <u>isn't</u> very tall.\n③ I <u>amn't</u> happy today.\n④ It<u>'s</u> not a blue pen.\n⑤ They <u>aren't</u> at home.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "You<u>'re</u>",
+       "It<u>'s</u>"
+      ],
+      "strike": [
+       "① You<u>'re</u> not my friend.",
+       "④ It<u>'s</u> not a blue pen."
+      ],
+      "note": "주어 + be동사 축약형: You're = You are, It's = It is → 바른 꼴, 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "He <u>isn't</u>",
+       "They <u>aren't</u>"
+      ],
+      "strike": [
+       "② He <u>isn't</u> very tall.",
+       "⑤ They <u>aren't</u> at home."
+      ],
+      "note": "be동사 + not 축약형: He → isn't, They → aren't. 주어와 맞고 바른 꼴, 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ I <u>amn't</u> happy today."
+      ],
+      "strike": [],
+      "note": "am not은 amn't로 줄이지 않는다 → I'm not happy today."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 1번 You're는 You are를, 4번 It's는 It is를 바르게 줄인 말이라 지워요. 둘째, 2번은 주어 He에 맞게 is not을 isn't로, 5번은 주어 They에 맞게 are not을 aren't로 줄여서 지워요. 셋째, 남은 3번 amn't는 am not을 줄이려 한 꼴인데, am not은 이렇게 줄이지 않아요. I am을 줄여 I'm not happy로 써야 해요. 나는 행복하지 않다는 뜻이에요.",
+   "caption": "주어+be동사 → be동사+not → amn't"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① You<u>'re</u> not my friend.  ✗  You are → You're, 바르게 줄였어요\n② He <u>isn't</u> very tall.  ✗  He에 맞는 is not → isn't\n③ I <u>amn't</u> happy today.  ✓  am not은 amn't로 줄이지 않아요 → I'm not\n④ It<u>'s</u> not a blue pen.  ✗  It is → It's, 바르게 줄였어요\n⑤ They <u>aren't</u> at home.  ✗  They에 맞는 are not → aren't",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① You<u>'re</u> not my friend.  ✗  You are → You're, 바르게 줄였어요",
+     "② He <u>isn't</u> very tall.  ✗  He에 맞는 is not → isn't",
+     "③ I <u>amn't</u> happy today.  ✓  am not은 amn't로 줄이지 않아요 → I'm not",
+     "④ It<u>'s</u> not a blue pen.  ✗  It is → It's, 바르게 줄였어요",
+     "⑤ They <u>aren't</u> at home.  ✗  They에 맞는 are not → aren't"
+    ]
+   },
+   "narration": "정답은 3번이에요. am not은 amn't로 줄이지 않으니, I'm not으로 고쳐야 해요. 2번 isn't와 5번 aren't는 주어 He에는 is, They에는 are를 맞게 써서 바르게 줄였어요. 1번 You're not은 You are not을 줄인 말로, You aren't와 뜻이 같아요.",
+   "caption": "정답 ③ amn't → I'm not"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ I <u>amn't</u> happy today.\n\nam not은 amn't로 줄이지 않아요 → I'm not (I am + not)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ I <u>amn't</u> happy today.",
+     "am not은 amn't로 줄이지 않아요 → I'm not (I am + not)"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, am not은 amn't로 줄이지 않고 I'm not으로 써요.",
+   "caption": "am not → I'm not"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 밑줄 친 축약형의 쓰임이 어법상 어색한 문장을 고르세요.",
+  "passage": "",
+  "c": [
+   "You<u>'re</u> not my friend.",
+   "He <u>isn't</u> very tall.",
+   "I <u>amn't</u> happy today.",
+   "It<u>'s</u> not a blue pen.",
+   "They <u>aren't</u> at home."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: be동사의 줄임말: I'm, you're, he's, it's, isn't, aren't. am not은 줄임말이 없어 I'm not으로 쓴다.\n풀이 순서: ① 밑줄 친 줄임말이 실제로 쓰는 꼴인지, 주어와 맞는지 본다. → ② am not은 줄임말이 없다. I'm not으로 쓴다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: am not은 amn't로 줄이지 않고 I'm not으로 쓰므로 정답은 ③이다.\n선택지 분석:\n① [오답] you are의 줄임말 you're로 옳으므로 오답이다.\n② [오답] is not의 줄임말 isn't로 옳으므로 오답이다.\n③ [정답] am not은 amn't로 줄이지 않고 I'm not으로 쓰므로 정답이다.\n④ [오답] it is의 줄임말 it's로 옳으므로 오답이다.\n⑤ [오답] are not의 줄임말 aren't로 옳으므로 오답이다."
+ }
+}

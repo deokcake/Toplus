@@ -1,0 +1,178 @@
+{
+ "key": "5-9",
+ "type": "F",
+ "grade": 5,
+ "chapter": "CH 1 대명사",
+ "title": "We're와 Our 구별하기",
+ "total_sec": 132,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 1 대명사 · 9번 · F 유형\n\n이 문제는 두 빈칸에 줄임말 We're와 소유격 Our 중 알맞은 말을 골라 넣는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 1 대명사 · 9번 · F 유형",
+     "이 문제는 두 빈칸에 줄임말 We're와 소유격 Our 중 알맞은 말을 골라 넣는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 1, 9번 F 유형. 이 문제는 두 빈칸에 줄임말 We're와 소유격 Our 중 알맞은 말을 골라 넣는 문제예요.",
+   "caption": "We're와 Our 구별하기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 18,
+   "screen": {
+    "text": "다음 지문의 빈칸 (A)와 (B)에 들어갈 말이 바르게 연결된 것을 고르세요.\n\nMy sister and I love music. (A)________ in the school band. (B)________ band plays every Friday.\n\n① (A) Our — (B) We're\n② (A) We — (B) Our\n③ (A) We're — (B) We're\n④ (A) We're — (B) Our\n⑤ (A) Our — (B) Our",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 지문의 빈칸 (A)와 (B)에 들어갈 말이 바르게 연결된 것을 고르세요.",
+     "My sister and I love music. (A)________ in the school band. (B)________ band plays every Friday.",
+     "① (A) Our — (B) We're",
+     "② (A) We — (B) Our",
+     "③ (A) We're — (B) We're",
+     "④ (A) We're — (B) Our",
+     "⑤ (A) Our — (B) Our"
+    ]
+   },
+   "narration": "다음 지문의 빈칸 에이와 비에 들어갈 말이 바르게 연결된 것을 고르세요. My sister and I love music. 에이 빈칸 in the school band, 비 빈칸 band plays every Friday. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\nWe are를 줄이면 → We're (뜻은 We are와 같아요)\n‘우리의’라는 뜻의 소유격 → Our (뒤의 명사를 꾸며요)\n둘 중 고를 때: 문장에 동사가 없으면 We're, 명사 앞에서 ‘우리의’면 Our\n예) We're hungry. Our lunch is ready. (우리는 배가 고파요. 우리의 점심이 준비됐어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "We are를 줄이면 → We're (뜻은 We are와 같아요)",
+     "‘우리의’라는 뜻의 소유격 → Our (뒤의 명사를 꾸며요)",
+     "둘 중 고를 때: 문장에 동사가 없으면 We're, 명사 앞에서 ‘우리의’면 Our",
+     "예) We're hungry. Our lunch is ready. (우리는 배가 고파요. 우리의 점심이 준비됐어요.)"
+    ]
+   },
+   "narration": "We are를 줄여서 아포스트로피를 넣은 We're라고 쓰고, 뜻은 We are와 같아요. 우리의라는 뜻의 소유격은 Our로, 뒤에 오는 명사를 꾸며요. 두 말 중에서 고를 때는, 문장에 동사가 없으면 be동사가 들어 있는 줄임말 We're를, 명사 앞에서 우리의라는 뜻을 나타낼 때는 소유격 Our를 써요. We're hungry. 우리는 배가 고파요. Our lunch is ready. 우리의 점심이 준비됐어요.",
+   "caption": "We're는 We are, Our는 우리의"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 지문의 빈칸 (A)와 (B)에 들어갈 말이 바르게 연결된 것을 고르세요.\n\nMy sister and I love music. (A)________ in the school band. (B)________ band plays every Friday.\n\n① (A) Our — (B) We're\n② (A) We — (B) Our\n③ (A) We're — (B) We're\n④ (A) We're — (B) Our\n⑤ (A) Our — (B) Our",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "(A)________ in the school band."
+      ],
+      "strike": [
+       "① (A) Our — (B) We're",
+       "② (A) We — (B) Our",
+       "⑤ (A) Our — (B) Our"
+      ],
+      "note": "(A) 문장 ‘___ in the school band.’에는 동사가 없다 → be동사가 든 We're(= We are). Our, We를 넣은 ①, ②, ⑤는 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "(B)________ band plays every Friday."
+      ],
+      "strike": [
+       "③ (A) We're — (B) We're"
+      ],
+      "note": "(B) 문장에는 동사 plays가 이미 있다. 빈칸은 band를 꾸며 ‘우리의 밴드’ → 소유격 Our. 줄임말 We're를 넣은 ③은 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ (A) We're — (B) Our"
+      ],
+      "strike": [],
+      "note": "남는 것은 ④ → We're in the school band. Our band plays every Friday."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 에이 빈칸 뒤 in the school band에는 동사가 없으니, be동사가 들어 있는 줄임말 We're가 와야 해요. 소유격 Our나 be동사가 없는 We를 넣은 1번, 2번, 5번은 지워요. 둘째, 비 빈칸 문장에는 이미 동사 plays가 있고 빈칸은 band를 꾸며 우리의 밴드라는 뜻이 되어야 하니, 소유격 Our가 맞고 줄임말 We're를 넣은 3번은 지워요. 셋째, 남는 것은 4번이에요. We're in the school band. Our band plays every Friday. 우리는 학교 밴드 단원이고, 우리의 밴드는 금요일마다 연주해요.",
+   "caption": "동사 없음 → We're, 명사 꾸밈 → Our"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① (A) Our — (B) We're  ✗  두 말이 뒤바뀜: (A)에 동사가 없고, (B)는 동사가 겹침\n② (A) We — (B) Our  ✗  (B)는 맞지만, We 뒤에 be동사 are가 없음\n③ (A) We're — (B) We're  ✗  (A)는 맞지만, plays가 있는 (B)에 We're를 쓰면 동사가 겹침\n④ (A) We're — (B) Our  ✓  동사 없는 (A)에 We're, band를 꾸미는 (B)에 Our\n⑤ (A) Our — (B) Our  ✗  (B)는 맞지만, Our in the school band에는 동사가 없음",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① (A) Our — (B) We're  ✗  두 말이 뒤바뀜: (A)에 동사가 없고, (B)는 동사가 겹침",
+     "② (A) We — (B) Our  ✗  (B)는 맞지만, We 뒤에 be동사 are가 없음",
+     "③ (A) We're — (B) We're  ✗  (A)는 맞지만, plays가 있는 (B)에 We're를 쓰면 동사가 겹침",
+     "④ (A) We're — (B) Our  ✓  동사 없는 (A)에 We're, band를 꾸미는 (B)에 Our",
+     "⑤ (A) Our — (B) Our  ✗  (B)는 맞지만, Our in the school band에는 동사가 없음"
+    ]
+   },
+   "narration": "정답은 4번이에요. 2번은 비 빈칸의 Our는 맞지만, 에이 빈칸의 We 뒤에 be동사 are가 없어서 문장에 동사가 없어요. 3번은 에이 빈칸은 맞지만, 비 빈칸에 줄임말 We're를 넣으면 We are가 되어 뒤의 동사 plays와 동사가 두 번 나와요. 5번은 비 빈칸은 맞지만, 에이 빈칸에 소유격 Our를 넣어서 문장에 동사가 없어요.",
+   "caption": "정답 ④ We're — Our"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ④ (A) We're — (B) Our\n\n‘우리는 ~이다’ → We're (= We are) · ‘우리의’ → Our",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ (A) We're — (B) Our",
+     "‘우리는 ~이다’ → We're (= We are) · ‘우리의’ → Our"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, We are를 줄인 말은 아포스트로피가 있는 We're이고, 우리의라는 뜻의 소유격은 Our예요.",
+   "caption": "We are → We're, 우리의 → Our"
+  }
+ ],
+ "source": {
+  "stem": "다음 지문의 빈칸 (A)와 (B)에 들어갈 말이 바르게 연결된 것을 고르세요.",
+  "passage": "My sister and I love music. (A)________ in the school band. (B)________ band plays every Friday.",
+  "c": [
+   "(A) Our — (B) We're",
+   "(A) We — (B) Our",
+   "(A) We're — (B) We're",
+   "(A) We're — (B) Our",
+   "(A) Our — (B) Our"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: He's·She's·They're·We're·It's는 ‘주어 + be동사’의 줄임말이고, His·Her·Their·Our·Its는 명사 앞에 쓰는 소유격이다.\n풀이 순서: ① (A) 뒤에는 동사가 없다. ‘주어 + be동사’의 줄임말이 들어가야 문장이 된다: It's(= It is). → ② (B) 뒤에는 명사가 있다. 소유격이 들어간다: Its. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ④이다.\n선택지 분석:\n① [오답] (A) 빈칸 Our: be동사가 없어 We are의 줄임말 We're를 쓴다, (B) 빈칸 We're: 명사 band 앞이라 소유격 Our를 쓴다. 따라서 오답이다.\n② [오답] (A) 빈칸 We: be동사가 없어 We are의 줄임말 We're를 쓴다. 따라서 오답이다.\n③ [오답] (B) 빈칸 We're: 명사 band 앞이라 소유격 Our를 쓴다. 따라서 오답이다.\n④ [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n⑤ [오답] (A) 빈칸 Our: be동사가 없어 We are의 줄임말 We're를 쓴다. 따라서 오답이다."
+ }
+}

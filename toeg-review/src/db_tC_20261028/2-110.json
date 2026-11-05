@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:18:38.642Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: by는 ‘~까지’ 끝내야 하는 완료 기한, until은 ‘~까지’ 계속되는 상태의 끝을 나타낸다. for + 숫자 기간, during + 특정 기간·사건 명사, while + 주어 + 동사, at + 시각을 구별한다.\n풀이 순서: ① ‘~까지’가 기한(그때까지 끝냄)이면 by, 계속(그때까지 이어짐)이면 until이다. 동사가 finish, submit, send이면 by, stay, wait, be open이면 until이다. → ② 숫자로 된 기간은 for, 특정 기간(명사)은 during, 절 앞은 while, 시각은 at이다. → ③ 둘째는 by Friday, 셋째는 for two hours로 써야 한다. 올바른 문장은 3개이다.\n문장별 판정:\n첫째 O. 머무는 상태가 6시까지 이어지므로 until이다.\n둘째 X. 금요일까지 끝내야 하는 기한이므로 by를 쓴다.\n셋째 X. 숫자로 나타낸 기간은 for를 쓴다(for two hours).\n넷째 O. 특정 사건(the storm) 동안이므로 during이다.\n다섯째 O. 대략의 시각은 around이다.\n정답 판단: 밑줄 친 부분이 올바른 문장은 첫째, 넷째, 다섯째로 3개이다.\n선택지 분석:\n① [오답] 밑줄 친 부분이 올바른 문장은 첫째, 넷째, 다섯째로 3개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 밑줄 친 부분이 올바른 문장은 첫째, 넷째, 다섯째로 3개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [정답] 밑줄 친 부분이 올바른 문장은 첫째, 넷째, 다섯째로 3개이다. 이 보기의 3개는 실제 개수와 일치한다.\n④ [오답] 밑줄 친 부분이 올바른 문장은 첫째, 넷째, 다섯째로 3개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 밑줄 친 부분이 올바른 문장은 첫째, 넷째, 다섯째로 3개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "<보기>\n- Stay here <u>until</u> six, and then we can leave together.\n- Finish all the work <u>until</u> Friday, or you will be in trouble.\n- We talked <u>during</u> two hours about the new science project.\n- The lights went out <u>during</u> the storm last night.\n- Tom came to my house <u>around</u> noon with his little brother.",
+    "stem": "다음 <보기> 중 밑줄 친 부분이 어법상 올바른 문장의 개수를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:04:02.296Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:04:20.589Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T03:18:38.642Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:18:24.281Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:18:38.642Z",
+      "what": "확인 완료"
+    }
+  }
+}

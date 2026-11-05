@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T08:32:11.407Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "We drink a juice every morning.",
+      "1": "We drink juice every morning.",
+      "2": "We drinks juice every morning.",
+      "3": "We drink juices every morning.",
+      "4": "We are drink juice every morning."
+    },
+    "expl": "핵심 규칙: 반복되는 습관은 일반동사 현재형으로 나타낸다. 불가산명사에는 일반적인 물질의 뜻에서 a/an이나 복수형을 쓰지 않는다.\n풀이 순서: ① 우리말의 목적어(주스 juice)는 셀 수 없는 명사다. a/an이나 -s가 붙은 문장을 지운다. → ② 남은 문장에서 동사의 형태(주어와의 일치, be동사를 겹쳐 쓰지 않았는지)를 본다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: juice를 셀 수 없는 명사로 쓰고 주어 We에 맞게 drink를 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 셀 수 없는 명사 juice 앞에 a를 쓰지 않으므로 오답이다.\n② [정답] juice를 셀 수 없는 명사로 쓰고 주어 We에 맞게 drink를 바르게 썼으므로 정답이다.\n③ [오답] 주어 We에는 drinks가 아니라 drink를 쓰므로 오답이다.\n④ [오답] 셀 수 없는 명사 juice에는 복수형을 쓰지 않으므로 오답이다.\n⑤ [오답] 일반동사 drink 앞에 be동사 are를 함께 쓸 수 없으므로 오답이다.",
+    "passage": "우리는 매일 아침 주스를 마신다.",
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T08:32:09.655Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T08:32:11.407Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:32:11.407Z",
+      "what": "확인 완료"
+    }
+  }
+}

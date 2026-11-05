@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T12:39:42.513Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Mom made a cake.",
+      "1": "He sent me an email.",
+      "2": "I heared a strange sound.",
+      "3": "The kids swam in the river.",
+      "4": "She told me a story."
+    },
+    "expl": "핵심 규칙: 불규칙 동사의 과거형은 따로 익힌다: write - wrote, hear - heard, go - went, buy - bought, see - saw, make - made, swim - swam, drive - drove, fly - flew.\n풀이 순서: ① 문장마다 동사의 과거형이 바른지 본다. 불규칙 동사에 -ed를 붙인 것을 찾는다. → ② hear의 과거형은 heard다. heared는 없는 형태다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: hear의 과거형은 heard이므로 정답은 ③이다.\n선택지 분석:\n① [오답] 불규칙 과거형(made)을 바르게 썼으므로 오답이다.\n② [오답] 불규칙 과거형(sent)을 바르게 썼으므로 오답이다.\n③ [정답] hear의 과거형은 heard이므로 정답이다.\n④ [오답] 불규칙 과거형(swam)을 바르게 썼으므로 오답이다.\n⑤ [오답] 불규칙 과거형(told)을 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 틀린 문장을 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T12:39:41.664Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T12:39:42.513Z",
+      "what": "확인 완료"
+    }
+  }
+}

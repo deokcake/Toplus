@@ -1,0 +1,21 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-24T01:13:16.073Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "expl": "핵심 규칙: 관계절 안에서 장소를 나타내면 where, 시간을 나타내면 when, 이유를 나타내면 why를 쓴다. 선행사의 뜻뿐 아니라 관계절에서 빠진 성분도 확인한다.\n풀이 순서: ① 빈칸 앞의 선행사가 때·장소·이유 가운데 무엇인지 본다. → ② 첫째 빈칸 앞은 the time(때)이므로 when, 둘째 빈칸 앞은 the house(장소)이므로 where. 빈칸 뒤가 완전한 절이므로 관계대명사(which, that)가 아니라 관계부사 자리다. → ③ 정답은 when - where.\n문장별 판정:\n정답 판단: 첫 빈칸은 시간 time, 둘째 빈칸은 장소 house를 나타내므로 when - where이다.\n선택지 분석:\n① [정답] (첫째 빈칸) when은 시간 time 뒤에서 가능하다 / (둘째 빈칸) where는 장소 house 뒤에서 가능하다. 두 빈칸이 모두 맞다.\n② [오답] (첫째 빈칸) 시간 time을 나타낼 부사적 연결이 필요하므로 where 대신 when을 쓴다 / (둘째 빈칸) 장소 house를 나타낼 부사적 연결이 필요하므로 when 대신 where를 쓴다. 바른 연결은 when - where이다.\n③ [오답] (첫째 빈칸) 시간 time을 나타낼 부사적 연결이 필요하므로 why 대신 when을 쓴다 / (둘째 빈칸) 장소 house를 나타낼 부사적 연결이 필요하므로 when 대신 where를 쓴다. 바른 연결은 when - where이다.\n④ [오답] (첫째 빈칸) 시간 time을 나타낼 부사적 연결이 필요하므로 which 대신 when을 쓴다 / (둘째 빈칸) 장소 house를 나타낼 부사적 연결이 필요하므로 that 대신 where를 쓴다. 바른 연결은 when - where이다.\n⑤ [오답] (첫째 빈칸) 시간 time을 나타낼 부사적 연결이 필요하므로 where 대신 when을 쓴다 / (둘째 빈칸) 장소 house를 나타낼 부사적 연결이 필요하므로 why 대신 where를 쓴다. 바른 연결은 when - where이다."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T01:13:04.573Z"
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:13:16.073Z",
+      "what": "확인 완료"
+    }
+  }
+}

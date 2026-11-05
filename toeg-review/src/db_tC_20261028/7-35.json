@@ -1,0 +1,41 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-21 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-20T10:49:08.598Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Am - am not",
+      "1": "Is - aren't",
+      "2": "Are - isn't",
+      "3": "Are - are not",
+      "4": "Is - isn't"
+    },
+    "expl": "핵심 규칙: be동사 부정문은 be동사 뒤에 not을 붙인다(am not, is not/isn't, are not/aren't). 의문문은 be동사를 주어 앞에 두고, 대답의 be동사도 주어에 맞춘다. be동사는 I에 am, 3인칭 단수에 is, you·복수에 are를 쓴다.\n풀이 순서: ① 첫 문장은 묻는 문장이다. 주어 this book(한 권) → Is. → ② 둘째 문장은 ‘~지 않다/~이 아니다’라는 부정문이다. 주어 The pens(여럿) → aren't. → ③ 정답은 Is - aren't.\n문장별 판정:\n정답 판단: 의문문과 부정문의 be동사를 주어에 맞게 바르게 짝지었으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 첫째 빈칸 Am: 단수 주어 this book의 의문문은 Is로 시작한다. 둘째 빈칸 am not: 복수 주어 The pens의 부정은 aren't(are not)이다. 따라서 오답이다.\n② [정답] 의문문과 부정문의 be동사를 주어에 맞게 바르게 짝지었으므로 정답이다.\n③ [오답] 첫째 빈칸 Are: 단수 주어 this book의 의문문은 Is로 시작한다. 둘째 빈칸 isn't: 복수 주어 The pens의 부정은 aren't(are not)이다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 Are: 단수 주어 this book의 의문문은 Is로 시작한다. 따라서 오답이다.\n⑤ [오답] 둘째 빈칸 isn't: 복수 주어 The pens의 부정은 aren't(are not)이다. 따라서 오답이다.",
+    "passage": "_______ this book new? (이 책은 새것이니?)\nThe pens _______ long. (그 펜들은 길지 않아.)",
+    "stem": "다음 빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-20T10:48:53.869Z",
+      "text": "jacket , gloves 단어를 좀 더 쉬운단어로 바꿔"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:38:33.948Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T03:38:33.948Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-20T10:49:08.598Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:38:33.948Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

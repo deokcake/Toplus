@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T03:15:17.855Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "2개",
+      "1": "3개",
+      "2": "4개",
+      "3": "5개",
+      "4": "6개"
+    },
+    "expl": "핵심 규칙: deny·avoid·finish·enjoy·admit·keep·give up·mind·practice 등은 동명사를 목적어로 쓰고, 전치사(look forward to·be used to·object to의 to 포함) 뒤에도 동명사를 쓴다. be worth -ing, cannot help -ing, be busy -ing, spend + 시간 + -ing, feel like -ing도 동명사를 쓴다.\n풀이 순서: ① 문장마다 동사·표현 뒤에 동명사가 와야 하는지 to부정사가 와야 하는지 본다. → ② 동명사를 쓰는 것: be worth, cannot help, deny, avoid, finish, enjoy, give up, mind, 그리고 전치사 뒤(look forward to, object to, be used to 포함). → ③ ⓐ는 worth reading, ⓒ는 finished cleaning, ⓓ는 object to paying, ⓕ는 gave up smoking으로 써야 한다. 틀린 문장은 4개이다.\n문장별 판정:\nⓐ X. be worth 뒤에는 동명사를 쓴다. 교정문: This book is worth reading again during the winter holidays.\nⓑ O. avoid는 동명사를 목적어로 쓴다.\nⓒ X. finish는 동명사를 목적어로 쓴다. 교정문: We finished cleaning the classroom before the bell rang.\nⓓ X. object to의 to는 전치사라 동명사를 쓴다. 교정문: I object to paying extra money for the late delivery.\nⓔ O. keep은 동명사를 목적어로 쓴다.\nⓕ X. give up은 동명사를 목적어로 쓴다. 교정문: He gave up smoking after he became a father.\n정답 판단: 어법상 틀린 문장은 ⓐ, ⓒ, ⓓ, ⓕ로 4개이다.\n선택지 분석:\n① [오답] 어법상 틀린 문장은 ⓐ, ⓒ, ⓓ, ⓕ로 4개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n② [오답] 어법상 틀린 문장은 ⓐ, ⓒ, ⓓ, ⓕ로 4개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n③ [정답] 어법상 틀린 문장은 ⓐ, ⓒ, ⓓ, ⓕ로 4개이다. 이 보기의 4개는 실제 개수와 일치한다.\n④ [오답] 어법상 틀린 문장은 ⓐ, ⓒ, ⓓ, ⓕ로 4개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 틀린 문장은 ⓐ, ⓒ, ⓓ, ⓕ로 4개이다. 이 보기의 6개는 실제 개수와 일치하지 않는다.",
+    "passage": "ⓐ This book is worth to read again during the winter holidays.\nⓑ She avoided answering the question about her new job.\nⓒ We finished to clean the classroom before the bell rang.\nⓓ I object to pay extra money for the late delivery.\nⓔ Tom kept working on his essay until late at night.\nⓕ He gave up to smoke after he became a father.",
+    "stem": "다음 중 어법상 틀린 문장의 개수를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T03:50:39.277Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T03:50:56.273Z",
+      "text": "기준 문항에 비해 문장이 단조롭고 길이가 짧음."
+    }
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T03:15:17.855Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:15:05.219Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:15:17.855Z",
+      "what": "확인 완료"
+    }
+  }
+}

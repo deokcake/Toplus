@@ -1,0 +1,31 @@
+{
+  "by": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-24T02:41:42.440Z",
+  "doneBy": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "knife - knifes",
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 명사의 복수형은 보통 -s를 붙이고, -s·-x·-ch·-sh로 끝나면 -es, 자음 + y는 y를 i로 바꾸고 -es, -f(e)는 f를 v로 바꾸고 -es를 붙인다. man - men, child - children 같은 불규칙 변화도 있다.\n풀이 순서: ① 불규칙으로 변하는 명사부터 확인한다: woman - women. → ② 나머지는 규칙(-s, -es, y → ies, f → ves)대로인지 본다. → ③ knife처럼 f(e)로 끝나는 명사는 ves로 바꿔 knives인데 knifes로 썼다. 정답은 ②.\n문장별 판정:\n정답 판단: -fe로 끝나는 knife는 f를 v로 바꿔 knives로 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] -x로 끝나 -es를 붙인 옳은 복수형이므로 오답이다.\n② [정답] -fe로 끝나는 knife는 f를 v로 바꿔 knives로 써야 하므로 정답이다.\n③ [오답] 불규칙 복수형을 바르게 짝지었으므로 오답이다.\n④ [오답] -s를 붙인 옳은 복수형이므로 오답이다.\n⑤ [오답] 자음 + y로 끝나 y를 i로 바꾸고 -es를 붙인 옳은 복수형이므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": "2026-10-24T02:39:57.622Z"
+  },
+  "tab": "ai7fx4gw",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": {
+      "at": "2026-10-24T02:41:42.440Z",
+      "what": "확인 완료"
+    }
+  }
+}

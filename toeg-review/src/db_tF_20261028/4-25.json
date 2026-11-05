@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-28T02:37:00.559Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A) Did, (B) don't",
+      "1": "(A) Does, (B) doesn't",
+      "2": "(A) Is, (B) aren't",
+      "3": "(A) Does, (B) don't",
+      "4": "(A) Are, (B) didn't"
+    },
+    "expl": "핵심 규칙: don't/doesn't와 Do/Does 뒤에는 동사원형을 쓴다. 3인칭 단수 주어에는 does·doesn't와 -s/-es형을, 그 밖의 주어에는 do·don't와 동사원형을 쓴다.\n풀이 순서: ① (A): 주어 she는 3인칭 단수이므로 의문문은 Does로 시작한다. → ② (B): 주어 They는 복수이므로 doesn't 대신 don't를 쓴다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ④이다.\n선택지 분석:\n① [오답] (A) 빈칸 Did: 3인칭 단수 주어의 의문문은 Does로 시작한다. 따라서 오답이다.\n② [오답] (B) 빈칸 doesn't: 복수 주어의 부정은 don't이다. 따라서 오답이다.\n③ [오답] (A) 빈칸 Is: 3인칭 단수 주어의 의문문은 Does로 시작한다, (B) 빈칸 aren't: 복수 주어의 부정은 don't이다. 따라서 오답이다.\n④ [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n⑤ [오답] (A) 빈칸 Are: 3인칭 단수 주어의 의문문은 Does로 시작한다, (B) 빈칸 didn't: 복수 주어의 부정은 don't이다. 따라서 오답이다.",
+    "passage": "㉠ Do she have a pet?\n㉡ They doesn't eat meat.\n[설명]\n- 문장 ㉠에서 주어 'she'는 3인칭 단수이므로 의문문은 (<u>    A    </u>)로 시작해야 한다.\n- 문장 ㉡에서 주어 'They'는 복수이므로 부정문에는 (<u>    B    </u>)를 써야 한다.",
+    "stem": "빈칸 (A)와 (B)에 들어갈 말을 바르게 짝지은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-28T02:36:56.226Z"
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T02:37:00.559Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T02:37:00.559Z",
+      "what": "확인 완료"
+    }
+  }
+}

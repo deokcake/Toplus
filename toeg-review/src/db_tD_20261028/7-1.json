@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T03:23:36.776Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "milk",
+      "1": "pencil",
+      "2": "orange",
+      "3": "chair",
+      "4": "dog"
+    },
+    "expl": "핵심 규칙: 셀 수 있는 명사는 a/an을 붙이거나 복수형으로 쓸 수 있다. 물질(bread, rice, milk, water, money)이나 추상적인 것(love)을 나타내는 명사는 셀 수 없어 a/an을 붙이지 않고 복수형도 쓰지 않는다.\n풀이 순서: ① 보기마다 앞에 ‘한 개, 두 개’를 붙여 본다. → ② 붙일 수 없는 것을 찾는다. milk(우유)는 액체라 셀 수 없다. → ③ 정답은 milk.\n문장별 판정:\n정답 판단: milk: 물질을 나타내는 셀 수 없는 명사이므로 정답은 ①이다.\n선택지 분석:\n① [정답] milk: 물질을 나타내는 셀 수 없는 명사이므로 정답이다.\n② [오답] pencil: 하나, 둘로 셀 수 있는 명사이므로 오답이다.\n③ [오답] orange: 하나, 둘로 셀 수 있는 명사이므로 오답이다.\n④ [오답] chair: 하나, 둘로 셀 수 있는 명사이므로 오답이다.\n⑤ [오답] dog: 하나, 둘로 셀 수 있는 명사이므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 셀 수 없는 명사를 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T03:23:35.677Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T03:23:36.776Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:23:36.776Z",
+      "what": "확인 완료"
+    }
+  }
+}

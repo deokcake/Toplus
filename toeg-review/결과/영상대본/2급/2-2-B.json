@@ -1,0 +1,179 @@
+{
+ "key": "2-2",
+ "type": "B",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "title": "5형식과 1형식 구별하기",
+ "total_sec": 125,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "2급 · CH 1 문장의 형식 · 2번 · B 유형\n\n이 문제는 목적격 보어가 있는지 따져 5형식이 아닌 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 1 문장의 형식 · 2번 · B 유형",
+     "이 문제는 목적격 보어가 있는지 따져 5형식이 아닌 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 1, 2번 B 유형. 이 문제는 목적격 보어가 있는지 따져 5형식이 아닌 문장을 고르는 문제예요.",
+   "caption": "5형식이 아닌 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 5형식 문장이 아닌 것을 고르시오.\n\n① They elected Jane captain.\n② We named the puppy Coco.\n③ I found the lecture boring.\n④ The news made everyone nervous.\n⑤ The baby slept peacefully.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 5형식 문장이 아닌 것을 고르시오.",
+     "① They elected Jane captain.",
+     "② We named the puppy Coco.",
+     "③ I found the lecture boring.",
+     "④ The news made everyone nervous.",
+     "⑤ The baby slept peacefully."
+    ]
+   },
+   "narration": "다음 중 5형식 문장이 아닌 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n5형식 = 주어 + 동사 + 목적어 + 목적격 보어\n목적격 보어(명사, 형용사, to부정사, 분사 등) → 목적어의 이름·신분·상태·행동을 설명\n동사 뒤에 목적어·보어 없이 부사(구)만 있으면 → 1형식 (부사는 형식에 세지 않아요)\n예) The song makes me happy. (그 노래는 나를 행복하게 해요. happy → me의 상태)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "5형식 = 주어 + 동사 + 목적어 + 목적격 보어",
+     "목적격 보어(명사, 형용사, to부정사, 분사 등) → 목적어의 이름·신분·상태·행동을 설명",
+     "동사 뒤에 목적어·보어 없이 부사(구)만 있으면 → 1형식 (부사는 형식에 세지 않아요)",
+     "예) The song makes me happy. (그 노래는 나를 행복하게 해요. happy → me의 상태)"
+    ]
+   },
+   "narration": "5형식 문장은 주어, 동사, 목적어 뒤에 목적격 보어가 오는 문장이에요. 목적격 보어는 명사, 형용사, to부정사, 분사 같은 말로, 목적어의 이름이나 신분, 상태, 행동을 설명해요. 예를 들어 The song makes me happy. 그 노래는 나를 행복하게 해요. 반면 동사 뒤에 목적어도 보어도 없이 부사나 부사구만 있으면 1형식이에요.",
+   "caption": "목적어 + 목적격 보어 = 5형식"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 중 5형식 문장이 아닌 것을 고르시오.\n\n① They elected Jane captain.\n② We named the puppy Coco.\n③ I found the lecture boring.\n④ The news made everyone nervous.\n⑤ The baby slept peacefully.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "5형식 문장이 아닌 것"
+      ],
+      "strike": [],
+      "note": "5형식이 ‘아닌’ 것 → 문장마다 동사 뒤에 ‘목적어 + 목적어를 설명하는 말’이 있는지 본다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "Jane captain",
+       "the puppy Coco",
+       "the lecture boring",
+       "everyone nervous"
+      ],
+      "strike": [
+       "① They elected Jane captain.",
+       "② We named the puppy Coco.",
+       "③ I found the lecture boring.",
+       "④ The news made everyone nervous."
+      ],
+      "note": "captain = Jane의 신분, Coco = the puppy의 이름, boring·nervous = 상태 → ①~④ 모두 5형식"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "slept peacefully"
+      ],
+      "strike": [],
+      "note": "slept 뒤에 목적어 없음, peacefully = 동사를 꾸미는 부사 → 1형식"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 동사 뒤에 목적어와 그 목적어를 설명하는 말이 함께 있는지 봐요. 둘째, 1번 captain은 Jane의 신분을, 2번 Coco는 the puppy의 이름을, 3번 boring과 4번 nervous는 the lecture와 everyone의 상태를 나타내요. 그래서 이 네 문장은 모두 5형식이에요. 셋째, 5번은 slept 뒤에 목적어가 없고, peacefully는 동사를 꾸미는 부사라서 1형식이에요.",
+   "caption": "보어 확인 → 부사만 → ⑤"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① They elected Jane captain.  ✗  captain이 Jane의 신분(주장) → 5형식\n② We named the puppy Coco.  ✗  Coco가 the puppy의 이름 → 5형식\n③ I found the lecture boring.  ✗  boring이 the lecture의 상태 → 5형식\n④ The news made everyone nervous.  ✗  nervous가 everyone의 상태 → 5형식\n⑤ The baby slept peacefully.  ✓  slept 뒤에 부사 peacefully만 → 1형식",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① They elected Jane captain.  ✗  captain이 Jane의 신분(주장) → 5형식",
+     "② We named the puppy Coco.  ✗  Coco가 the puppy의 이름 → 5형식",
+     "③ I found the lecture boring.  ✗  boring이 the lecture의 상태 → 5형식",
+     "④ The news made everyone nervous.  ✗  nervous가 everyone의 상태 → 5형식",
+     "⑤ The baby slept peacefully.  ✓  slept 뒤에 부사 peacefully만 → 1형식"
+    ]
+   },
+   "narration": "정답은 5번 The baby slept peacefully, 아기가 평화롭게 잤다는 문장이에요. 2번은 명사가 두 개 이어져 4형식처럼 보이지만, the puppy가 곧 Coco라서 Coco는 이름을 나타내는 목적격 보어예요. 3번 found는 여기서 강의가 지루하다고 느꼈다는 뜻이고, boring이 the lecture의 상태를 설명하는 5형식이에요.",
+   "caption": "정답 ⑤ (1형식)"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ⑤ The baby slept peacefully.\n\n목적어 + 목적격 보어 → 5형식, 동사 뒤에 부사(구)만 → 1형식",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ The baby slept peacefully.",
+     "목적어 + 목적격 보어 → 5형식, 동사 뒤에 부사(구)만 → 1형식"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 목적어 뒤에 그 목적어를 설명하는 목적격 보어가 있어야 5형식이에요.",
+   "caption": "목적어 + 목적격 보어 → 5형식"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 5형식 문장이 아닌 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "They elected Jane captain.",
+   "We named the puppy Coco.",
+   "I found the lecture boring.",
+   "The news made everyone nervous.",
+   "The baby slept peacefully."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 5형식은 S+V+O+OC이며 목적격보어는 목적어의 상태·신분·행동을 설명한다. 관사와 명사를 분리하지 않고 목적어 명사구 전체를 하나의 성분으로 본다.\n풀이 순서: ① 문장마다 동사 뒤에 ‘목적어 + 목적어를 설명하는 말’이 이어지는지 본다. → ② 목적어 뒤의 말이 목적어의 이름·상태·행동을 나타내면 5형식이다. → ③ 선택지 ⑤는 slept 뒤에 목적어 없이 부사 peacefully만 있는 1형식이다. 5형식이 아니다.\n문장별 판정:\n정답 판단: ‘The baby slept peacefully’는 The baby(S) + slept(V) + 부사어의 1형식이다. 뒤의 표현이 있다면 부사어로 핵심 형식에 포함되지 않는다. 목적격보어가 없으므로 5형식이 아니다. 따라서 5형식이 아닌 선택지로 정답이다.\n선택지 분석:\n① [오답] ‘They elected Jane captain’은 They(S) + elected(V) + Jane(O) + captain(OC)의 5형식이다. 목적격보어가 목적어의 상태·신분·행동을 설명한다. 목적어와 목적격보어가 모두 있으므로 5형식이다. 5형식 문장이므로 오답이다.\n② [오답] ‘We named the puppy Coco’는 We(S) + named(V) + the puppy(O) + Coco(OC)의 5형식이다. 목적격보어가 목적어의 상태·신분·행동을 설명한다. 목적어와 목적격보어가 모두 있으므로 5형식이다. 5형식 문장이므로 오답이다.\n③ [오답] ‘I found the lecture boring’은 I(S) + found(V) + the lecture(O) + boring(OC)의 5형식이다. 목적격보어가 목적어의 상태·신분·행동을 설명한다. 목적어와 목적격보어가 모두 있으므로 5형식이다. 5형식 문장이므로 오답이다.\n④ [오답] ‘The news made everyone nervous’는 The news(S) + made(V) + everyone(O) + nervous(OC)의 5형식이다. 목적격보어가 목적어의 상태·신분·행동을 설명한다. 목적어와 목적격보어가 모두 있으므로 5형식이다. 5형식 문장이므로 오답이다.\n⑤ [정답] ‘The baby slept peacefully’는 The baby(S) + slept(V) + 부사어의 1형식이다. 뒤의 표현이 있다면 부사어로 핵심 형식에 포함되지 않는다. 목적격보어가 없으므로 5형식이 아니다. 발문이 요구한 5형식이 아닌 문장이므로 정답이다."
+ }
+}

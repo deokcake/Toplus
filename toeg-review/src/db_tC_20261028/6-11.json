@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-21T10:56:13.802Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Mr. Park - he",
+      "1": "you and Jane - she",
+      "2": "the students - they",
+      "3": "my mother and I - we",
+      "4": "this bike - it"
+    },
+    "expl": "핵심 규칙: 사람·사물을 대신할 때 나를 포함한 여럿은 we, 너를 포함한 여럿(나 제외)은 you, 그 밖의 여럿은 they, 남자 한 명은 he, 여자 한 명은 she, 사물·동물 하나는 it으로 받는다.\n풀이 순서: ① 짝마다 왼쪽 말에 I(나)가 들어 있는지 먼저 본다. 있으면 we다. → ② I가 없고 you가 있으면 you, 둘 다 없으면 수와 성별로 he/she/it/they를 정한다. → ③ you and Jane에는 I가 없고 you가 있어 you다. 정답은 ②.\n문장별 판정:\n정답 판단: you and Jane: 너를 포함한 여럿이라 you로 받아야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] Mr. Park: 남자 한 명이라 he로 바르게 받았으므로 오답이다.\n② [정답] you and Jane: 너를 포함한 여럿이라 you로 받아야 하므로 정답이다.\n③ [오답] the students: 여럿이라 they로 바르게 받았으므로 오답이다.\n④ [오답] my mother and I: 나를 포함한 여럿이라 we로 바르게 받았으므로 오답이다.\n⑤ [오답] this bike: 사물 하나라 it으로 바르게 받았으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-21T10:56:13.118Z"
+  },
+  "tab": "ojjpxrut",
+  "updatedAt": "2026-10-21T10:56:13.802Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T10:56:13.802Z",
+      "what": "확인 완료"
+    }
+  }
+}

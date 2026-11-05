@@ -1,0 +1,179 @@
+{
+ "key": "6-37",
+ "type": "C",
+ "grade": 6,
+ "chapter": "CH 4 일반동사",
+ "title": "Tom doesn't 뒤 동사의 형태",
+ "total_sec": 125,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "6급 · CH 4 일반동사 · 37번 · C 유형\n\n이 문제는 Tom doesn't 뒤의 빈칸에 들어갈 동사의 알맞은 형태를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 4 일반동사 · 37번 · C 유형",
+     "이 문제는 Tom doesn't 뒤의 빈칸에 들어갈 동사의 알맞은 형태를 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 4, 37번 C 유형. 이 문제는 Tom doesn't 뒤의 빈칸에 들어갈 동사의 알맞은 형태를 고르는 문제예요.",
+   "caption": "Tom doesn't 뒤 동사의 형태"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 17,
+   "screen": {
+    "text": "다음 문장의 빈칸에 들어갈 알맞은 말을 고르시오.\n\nTom doesn't ________ TV.\n\n① watched\n② watches\n③ watching\n④ watch\n⑤ to watch",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장의 빈칸에 들어갈 알맞은 말을 고르시오.",
+     "Tom doesn't ________ TV.",
+     "① watched",
+     "② watches",
+     "③ watching",
+     "④ watch",
+     "⑤ to watch"
+    ]
+   },
+   "narration": "다음 문장의 빈칸에 들어갈 알맞은 말을 고르세요. Tom doesn't 빈칸 TV. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n일반동사 현재형 부정문: 주어 + don't / doesn't + 동사원형 (~하지 않아요)\nI, you, we, they, 복수 → don't  ·  he, she, it처럼 3인칭 단수 → doesn't\ndoesn't 뒤의 동사는 늘 동사원형 (3인칭 단수 표시는 does에 이미 있어요)\n예) My dad doesn't cook. (우리 아빠는 요리를 하지 않아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "일반동사 현재형 부정문: 주어 + don't / doesn't + 동사원형 (~하지 않아요)",
+     "I, you, we, they, 복수 → don't  ·  he, she, it처럼 3인칭 단수 → doesn't",
+     "doesn't 뒤의 동사는 늘 동사원형 (3인칭 단수 표시는 does에 이미 있어요)",
+     "예) My dad doesn't cook. (우리 아빠는 요리를 하지 않아요.)"
+    ]
+   },
+   "narration": "일반동사 현재형으로 하지 않는다고 말할 때는 동사 앞에 don't를 쓰는데, 주어가 he, she, it처럼 3인칭 단수이면 doesn't를 써요. doesn't 뒤의 동사는 늘 동사원형이에요. 3인칭 단수 표시는 does에 이미 있으니까, 동사는 3인칭 단수형으로 바꾸지 않아요. 예를 들어 My dad doesn't cook. 우리 아빠는 요리를 하지 않아요.",
+   "caption": "doesn't 뒤에는 동사원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 문장의 빈칸에 들어갈 알맞은 말을 고르시오.\n\nTom doesn't ________ TV.\n\n① watched\n② watches\n③ watching\n④ watch\n⑤ to watch",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "doesn't",
+       "________"
+      ],
+      "strike": [
+       "① watched",
+       "③ watching",
+       "⑤ to watch"
+      ],
+      "note": "빈칸은 doesn't 바로 뒤 = 동사원형 자리 → 과거형 ①, ing형 ③, to가 붙은 ⑤ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "Tom"
+      ],
+      "strike": [
+       "② watches"
+      ],
+      "note": "Tom은 3인칭 단수지만 그 표시는 does에 이미 있음 → 3인칭 단수형 watches ② 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ watch"
+      ],
+      "strike": [],
+      "note": "남는 것은 동사원형 watch → Tom doesn't watch TV."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 빈칸은 doesn't 바로 뒤라서 동사원형 자리예요. 그래서 과거형 watched, ing형 watching, to를 붙인 to watch는 지워요. 둘째, 주어 Tom은 3인칭 단수지만 그 표시는 does에 이미 들어 있으니, 3인칭 단수형 watches도 지워요. 셋째, 남는 것은 동사원형 watch예요. Tom doesn't watch TV. 톰은 텔레비전을 보지 않아요.",
+   "caption": "동사원형 자리 → watches 아님 → watch"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 25,
+   "screen": {
+    "text": "① watched  ✗  과거형, doesn't 뒤에는 동사원형\n② watches  ✗  3인칭 단수형, es를 또 붙이지 않아요\n③ watching  ✗  doesn't 바로 뒤에 ing형은 쓰지 않아요\n④ watch  ✓  doesn't 뒤에 오는 동사원형\n⑤ to watch  ✗  doesn't 바로 뒤에 to + 동사원형은 쓰지 않아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① watched  ✗  과거형, doesn't 뒤에는 동사원형",
+     "② watches  ✗  3인칭 단수형, es를 또 붙이지 않아요",
+     "③ watching  ✗  doesn't 바로 뒤에 ing형은 쓰지 않아요",
+     "④ watch  ✓  doesn't 뒤에 오는 동사원형",
+     "⑤ to watch  ✗  doesn't 바로 뒤에 to + 동사원형은 쓰지 않아요"
+    ]
+   },
+   "narration": "정답은 4번 watch예요. 2번 watches는 주어 Tom이 3인칭 단수라서 고르기 쉽지만, doesn't 뒤에는 es를 또 붙이지 않고 동사원형을 써요. 1번 watched는 과거형이라 doesn't 바로 뒤에 올 수 없어요. 3번 watching처럼 ing형도 doesn't 바로 뒤에는 쓰지 않아요.",
+   "caption": "정답 ④ watch"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ④ watch\n\ndoesn't(does not) + 동사원형  (3인칭 단수 주어여도 동사원형)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ watch",
+     "doesn't(does not) + 동사원형  (3인칭 단수 주어여도 동사원형)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 주어가 3인칭 단수여도 doesn't 뒤에는 동사원형을 써요.",
+   "caption": "doesn't + 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장의 빈칸에 들어갈 알맞은 말을 고르시오.",
+  "passage": "Tom doesn't ________ TV.",
+  "c": [
+   "watched",
+   "watches",
+   "watching",
+   "watch",
+   "to watch"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 일반동사 현재 부정문은 주어+don’t/doesn’t+동사원형으로 만든다.\n풀이 순서: ① 빈칸 앞의 doesn't를 본다. 3인칭 단수의 -s는 이미 does에 들어 있다. → ② 그래서 뒤의 동사는 원형이다. watched(과거형), watches, watching, to watch를 지운다. → ③ 남는 것은 watch.\n문장별 판정:\n정답 판단: watch: doesn’t 뒤의 본동사는 원형 watch이다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] watched → watch. doesn’t 뒤의 본동사는 원형 watch이다. 과거형이 아니라 동사원형을 써야 한다.\n② [오답] watches → watch. doesn’t 뒤의 본동사는 원형 watch이다. 주어가 3인칭 단수여도 doesn’t 뒤에는 본동사에 s를 다시 붙이지 않는다.\n③ [오답] watching → watch. doesn’t 뒤의 본동사는 원형 watch이다. 진행형의 -ing형은 doesn’t 바로 뒤의 본동사 형태가 아니다.\n④ [정답] watch: doesn’t 뒤의 본동사는 원형 watch이다.\n⑤ [오답] to watch → watch. doesn’t 뒤의 본동사는 원형 watch이다. to부정사는 이 자리에 쓰지 않는다."
+ }
+}

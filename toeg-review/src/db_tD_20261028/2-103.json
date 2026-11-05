@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:02:55.417Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "behind",
+      "1": "under",
+      "2": "next to",
+      "3": "in front of",
+      "4": "across from"
+    },
+    "expl": "핵심 규칙: 위치 전치사는 두 대상의 관계를 나타낸다. A가 B 앞(in front of)이면 B는 A 뒤(behind), A가 B 위(above)면 B는 A 아래(under/below), 맞은편(across from)과 옆(next to, beside)은 서로 같은 관계이다.\n풀이 순서: ① 둘째 문장에서 두 대상의 위치 관계를 읽는다. 공원이 학교 ‘뒤에’ 있다. → ② 첫째 문장은 주어와 대상이 바뀌어 있다. 그 관계를 뒤집어 본다. 학교는 공원 ‘앞에’ 있다. → ③ 정답은 in front of.\n문장별 판정:\n정답 판단: 공원이 학교 뒤에 있으면 학교는 공원 앞에 있으므로 정답은 ④이다.\n선택지 분석:\n① [오답] behind로 쓰면 학교가 공원 뒤에 있게 되어 뜻이 반대이므로 오답이다.\n② [오답] under는 ‘아래에’라 두 건물의 위치 관계와 맞지 않으므로 오답이다.\n③ [오답] next to는 ‘옆에’라 앞뒤 관계를 나타내지 못하므로 오답이다.\n④ [정답] 공원이 학교 뒤에 있으면 학교는 공원 앞에 있으므로 정답이다.\n⑤ [오답] across from은 ‘맞은편에’라 앞뒤 관계와 맞지 않으므로 오답이다.",
+    "passage": "The new school is _____ the big park.\n= The big park is behind the new school.",
+    "stem": "두 문장의 의미가 같도록 할 때, 빈칸에 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T16:59:00.336Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:59:25.350Z",
+      "text": "정답이 지문에 그대로 나오면 문항으로서 의미가 없다."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:02:55.417Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:02:48.782Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:02:55.417Z",
+      "what": "확인 완료"
+    }
+  }
+}

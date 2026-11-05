@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-09-30T05:25:20.755Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Tom considered moving to a smaller town near the sea.",
+      "1": "Mina avoided answering the reporter's question about her plans.",
+      "2": "Jane postponed making the final decision until Friday.",
+      "3": "Leo denied to take the money from the drawer.",
+      "4": "We finished cleaning the room before our parents came home."
+    },
+    "expl": "핵심 규칙: avoid, consider, postpone, finish, quit, mind, practice, suggest, enjoy, delay, admit, keep, deny, give up, stop, recommend, risk, imagine, miss는 동명사를 목적어로 취한다.\n풀이 순서: ① 문장마다 동사와 그 뒤 목적어의 형태(to부정사인지 -ing인지)를 짝짓는다. → ② consider, avoid, postpone, finish 뒤의 동명사는 모두 옳다. → ③ 선택지 ④는 deny 뒤에 to부정사를 썼으므로 동명사(taking)로 고쳐야 한다.\n문장별 판정:\n정답 판단: 동사(deny)는 동명사를 목적어로 취하므로 to부정사를 쓸 수 없다. denied taking로 고쳐야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 동사(consider)는 동명사를 목적어로 취하므로 -ing형을 바르게 썼다. 오답이다.\n② [오답] 동사(avoid)는 동명사를 목적어로 취하므로 -ing형을 바르게 썼다. 오답이다.\n③ [오답] 동사(postpone)는 동명사를 목적어로 취하므로 -ing형을 바르게 썼다. 오답이다.\n④ [정답] 동사(deny)는 동명사를 목적어로 취하므로 to부정사를 쓸 수 없다. denied taking로 고쳐야 하므로 정답이다.\n⑤ [오답] 동사(finish)는 동명사를 목적어로 취하므로 -ing형을 바르게 썼다. 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-04T11:27:03.692Z"
+  },
+  "tab": "7cl4h520",
+  "updatedAt": "2026-10-04T11:27:03.692Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-04T11:27:03.692Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

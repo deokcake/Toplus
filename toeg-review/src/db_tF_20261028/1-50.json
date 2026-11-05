@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T06:43:38.487Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "The song is known to love by people all over the world.",
+      "1": "The song knows to be loved by people all over the world.",
+      "2": "The song has known to be loved by people all over the world.",
+      "3": "The song is known to be loved by people all over the world.",
+      "4": "The song is knowing to be loved by people all over the world."
+    },
+    "expl": "핵심 규칙: 보고·인식 동사를 수동태로 쓰고 부정사의 의미상 주어가 그 동작을 받으면 ‘주어 + be + thought/reported/known + to be + 과거분사’ 구조를 쓴다.\n풀이 순서: ① 조건을 하나씩 형태로 바꾼다. 첫째 조건은 본동사의 수동태(be known), 둘째 조건은 수동의 부정사(to be loved)다. → ② 본동사가 능동인 보기(-s, has + 과거분사, is -ing)를 먼저 지운다. → ③ 남은 보기 가운데 부정사가 to be + 과거분사인 것을 고른다. 정답은 ④.\n문장별 판정:\n정답 판단: be known(조건 1), to be loved(조건 2), 뜻(조건 3)을 모두 만족한다. 정답은 ④이다.\n선택지 분석:\n① [오답] 부정사가 능동(to love)이라 조건 2를 어기고, 뒤의 by와도 맞지 않는다.\n② [오답] 사물 주어에 능동 동사 knows를 써서 조건 1(수동태)에 맞지 않는다.\n③ [오답] 현재완료 능동형이라 조건 1(수동태)에 맞지 않는다.\n④ [정답] be known(조건 1), to be loved(조건 2), 뜻(조건 3)을 모두 만족한다. 정답이다.\n⑤ [오답] 진행형 능동이라 조건 1(수동태)에 맞지 않는다.",
+    "passage": "<조건>\n'know' 동사를 수동태 구조(be known)로 사용할 것.\n부정사의 의미상의 주어가 부정사의 동작을 받는 '수동'의 관계일 것.\n\"그 노래는 전 세계 사람들에게 사랑받는 것으로 알려져 있다.\"라는 의미일 것.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T06:43:26.721Z"
+  },
+  "tab": "ij7ic6nx",
+  "updatedAt": "2026-10-26T06:43:38.487Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:43:38.487Z",
+      "what": "확인 완료"
+    }
+  }
+}

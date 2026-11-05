@@ -1,0 +1,34 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-06T08:40:56.123Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": null,
+      "1": "(A) hard - (B) hardly",
+      "2": "(A) hard - (B) hard",
+      "3": "(A) hardly - (B) hardly",
+      "4": "(A) fast - (B) fastly"
+    },
+    "expl": "핵심 규칙: hard는 ‘열심히’, hardly는 ‘거의 ~않다’로 뜻이 다르다. fast는 -ly 없이 부사로 쓰고(fastly는 없다), quiet는 형용사, quietly는 부사이다. 빈도는 always, often, sometimes, seldom, rarely로 나타낸다.\n풀이 순서: ① (A) 앞뒤 문맥을 본다: 항상 최선을 다한다고 했으므로 ‘열심히’ hard. → ② (B) 앞뒤 문맥을 본다: No라고 했고 피곤해 보인다고 했으므로 ‘거의 ~않다’ hardly. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ②이다.\n선택지 분석:\n① [오답] (A) 빈칸 hardly: 최선을 다한다는 대답에 맞게 ‘열심히’의 hard를 쓴다, (B) 빈칸 hard: No라는 대답에 맞게 ‘거의 ~않다’의 hardly를 쓴다. 따라서 오답이다.\n② [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n③ [오답] (B) 빈칸 hard: No라는 대답에 맞게 ‘거의 ~않다’의 hardly를 쓴다. 따라서 오답이다.\n④ [오답] (A) 빈칸 hardly: 최선을 다한다는 대답에 맞게 ‘열심히’의 hard를 쓴다. 따라서 오답이다.\n⑤ [오답] (A) 빈칸 fast: 최선을 다한다는 대답에 맞게 ‘열심히’의 hard를 쓴다, (B) 빈칸 fastly: No라는 대답에 맞게 ‘거의 ~않다’의 hardly를 쓴다. 따라서 오답이다.",
+    "passage": "A: Does Tom work (<u>    A    </u>) at his job?\nB: Yes, he always does his best.\nA: But he looks tired. Does he sleep well?\nB: No, he (<u>    B    </u>) sleeps these days.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T08:40:00.622Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "verdict": null,
+  "verdictAt": "2026-10-06T08:40:54.629Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T08:40:56.123Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+ "key": "7-37",
+ "type": "C",
+ "grade": 7,
+ "chapter": "CH 4 be동사 부정문과 의문문",
+ "title": "대답의 대명사와 be동사",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "7급 · CH 4 be동사 부정문과 의문문 · 37번 · C 유형\n\n이 문제는 알맞은 대명사와 be동사로 대답한 대화를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 4 be동사 부정문과 의문문 · 37번 · C 유형",
+     "이 문제는 알맞은 대명사와 be동사로 대답한 대화를 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 4, 37번 C 유형. 이 문제는 알맞은 대명사와 be동사로 대답한 대화를 고르는 문제예요.",
+   "caption": "대답의 대명사와 be동사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 질문과 대답이 바르게 연결된 것을 고르세요.\n\n① Is it your bag? - Yes, it are.\n② Are the kids at school? - Yes, it is.\n③ Is Tom at school? - No, he isn't.\n④ Am I right? - Yes, I am.\n⑤ Is she your aunt? - No, she aren't.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 질문과 대답이 바르게 연결된 것을 고르세요.",
+     "① Is it your bag? - Yes, it are.",
+     "② Are the kids at school? - Yes, it is.",
+     "③ Is Tom at school? - No, he isn't.",
+     "④ Am I right? - Yes, I am.",
+     "⑤ Is she your aunt? - No, she aren't."
+    ]
+   },
+   "narration": "다음 중 질문과 대답이 바르게 연결된 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 + 주어 ~? → Yes, 주어 + be동사. / No, 주어 + be동사 + not.\n대답의 주어는 대명사로: you(너) → I, I → you, Tom → he, 여럿을 가리키는 명사 → they\nbe동사: I → am · you, 둘 이상 → are · he, she, it 같은 3인칭 단수 → is\nis not = isn't, are not = aren't\n예) Are the dogs big? — Yes, they are. (그 개들은 크니? 응, 커.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 + 주어 ~? → Yes, 주어 + be동사. / No, 주어 + be동사 + not.",
+     "대답의 주어는 대명사로: you(너) → I, I → you, Tom → he, 여럿을 가리키는 명사 → they",
+     "be동사: I → am · you, 둘 이상 → are · he, she, it 같은 3인칭 단수 → is",
+     "is not = isn't, are not = aren't",
+     "예) Are the dogs big? — Yes, they are. (그 개들은 크니? 응, 커.)"
+    ]
+   },
+   "narration": "be동사로 물으면 Yes나 No 뒤에 주어와 be동사로 답하고, No면 not을 붙여요. 주어는 대명사로 바꾸는데, 질문의 I는 you로, 여럿을 가리키는 명사는 they로 받아요. be동사는 그 주어에 맞춰 I는 am, you와 둘 이상은 are, 3인칭 단수는 is예요. Are the dogs big? 그 개들은 크니? Yes, they are. 응, 커.",
+   "caption": "대답: 대명사 주어 + be동사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 중 질문과 대답이 바르게 연결된 것을 고르세요.\n\n① Is it your bag? - Yes, it are.\n② Are the kids at school? - Yes, it is.\n③ Is Tom at school? - No, he isn't.\n④ Am I right? - Yes, I am.\n⑤ Is she your aunt? - No, she aren't.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "the kids",
+       "Yes, it is.",
+       "Am I right?",
+       "Yes, I am."
+      ],
+      "strike": [
+       "② Are the kids at school? - Yes, it is.",
+       "④ Am I right? - Yes, I am."
+      ],
+      "note": "대답의 주어: the kids(여럿) → they, 질문의 I → you. Yes, it is(②), Yes, I am(④)을 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "it are.",
+       "she aren't."
+      ],
+      "strike": [
+       "① Is it your bag? - Yes, it are.",
+       "⑤ Is she your aunt? - No, she aren't."
+      ],
+      "note": "be동사: it → is, she → isn't. it are(①), she aren't(⑤)를 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ Is Tom at school? - No, he isn't."
+      ],
+      "strike": [],
+      "note": "남는 것 ③: Tom → he, he → isn't."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 여러 아이인 the kids는 it이 아니라 they로, 질문의 I는 대답에서 you로 받아야 하니까, 2번과 4번을 지워요. 둘째, it에는 are가 아니라 is, she에는 aren't가 아니라 isn't를 쓰니까, 1번과 5번도 지워요. 셋째, Tom을 he로 받고 isn't를 쓴 3번이 남아요. Is Tom at school? 톰은 학교에 있니? No, he isn't. 아니, 없어.",
+   "caption": "the kids → they, I → you"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① Is it your bag? - Yes, it are.  ✗  it에는 are가 아니라 is\n② Are the kids at school? - Yes, it is.  ✗  the kids는 they로 받아 Yes, they are\n③ Is Tom at school? - No, he isn't.  ✓  Tom을 he로 받고 isn't\n④ Am I right? - Yes, I am.  ✗  I로 물으면 you로 받아 Yes, you are\n⑤ Is she your aunt? - No, she aren't.  ✗  she에는 aren't가 아니라 isn't",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Is it your bag? - Yes, it are.  ✗  it에는 are가 아니라 is",
+     "② Are the kids at school? - Yes, it is.  ✗  the kids는 they로 받아 Yes, they are",
+     "③ Is Tom at school? - No, he isn't.  ✓  Tom을 he로 받고 isn't",
+     "④ Am I right? - Yes, I am.  ✗  I로 물으면 you로 받아 Yes, you are",
+     "⑤ Is she your aunt? - No, she aren't.  ✗  she에는 aren't가 아니라 isn't"
+    ]
+   },
+   "narration": "정답은 3번이에요. 4번을 고른 학생은 질문의 I를 대답에도 그대로 썼을 거예요. 하지만 묻는 사람이 자기를 I라고 하면, 대답하는 사람은 you로 받고 are를 써요. 2번은 여러 아이를 it으로 받아서 틀렸어요. they로 받고 are를 써야 해요.",
+   "caption": "정답 ③ No, he isn't."
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ③ Is Tom at school? - No, he isn't.\n\n대답의 주어는 알맞은 대명사로 (I → you, the kids → they), be동사는 그 주어에 맞춰요",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ Is Tom at school? - No, he isn't.",
+     "대답의 주어는 알맞은 대명사로 (I → you, the kids → they), be동사는 그 주어에 맞춰요"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 대답의 주어는 알맞은 대명사로 바꾸고, be동사는 그 주어에 맞춰요.",
+   "caption": "대명사로 바꾸고 be동사 맞추기"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 질문과 대답이 바르게 연결된 것을 고르세요.",
+  "passage": "",
+  "c": [
+   "Is it your bag? - Yes, it are.",
+   "Are the kids at school? - Yes, it is.",
+   "Is Tom at school? - No, he isn't.",
+   "Am I right? - Yes, I am.",
+   "Is she your aunt? - No, she aren't."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: be동사 의문문에는 Yes, 주어 + be동사. / No, 주어 + be동사 + not.으로 답한다. 대답의 주어는 질문의 주어를 대명사로 받고(you → I, I → you, Tom → he, the door → it), be동사도 그 주어에 맞춘다.\n풀이 순서: ① 질문이 주어에 맞는 be동사로 시작하는지 본다. → ② 대답의 주어(대명사)와 be동사가 맞는지 본다. → ③ 선택지 ①·⑤는 대답의 be동사가, ②는 대명사(it)가, ④는 대답의 주어(I → you)가 틀렸다. 정답은 ③.\n문장별 판정:\n정답 판단: Tom을 he로 받아 isn't로 바르게 답했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 대답의 주어 it에는 is를 써야 하므로 오답이다.\n② [오답] the kids는 it이 아니라 they로 받아야 하므로 오답이다.\n③ [정답] Tom을 he로 받아 isn't로 바르게 답했으므로 정답이다.\n④ [오답] I에 대한 질문에는 you로 받아 Yes, you are로 답하므로 오답이다.\n⑤ [오답] 대답의 주어 she에는 isn't를 써야 하므로 오답이다."
+ }
+}

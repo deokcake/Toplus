@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T08:01:54.303Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "ⓐ, ⓓ",
+      "1": "ⓐ, ⓑ",
+      "2": "ⓑ, ⓒ",
+      "3": "ⓑ, ⓓ",
+      "4": "ⓒ, ⓓ"
+    },
+    "expl": "핵심 규칙: 지시어(this/that ↔ these/those)·명사·동사의 수를 맞춘다. 사람·동물의 소유는 's(복수 -s로 끝나면 '만), 사물의 소유는 of로 나타낸다.\n풀이 순서: ① 주어와 동사의 수가 맞는지 본다(pants·shoes는 복수, news는 단수, this/that + 단수, these/those + 복수). → ② 소유 표현을 본다(사람은 's, -s로 끝나는 복수명사는 ', 사물은 of). → ③ ⓑ her(hers), ⓒ childrens'(children's)가 틀렸다. 옳은 문장만 고른 ⓐ, ⓓ가 정답이다.\n문장별 판정:\nⓐ O. 명사 없이 ‘그들의 것’은 theirs이다.\nⓑ X. 명사 없이 ‘그녀의 것’은 hers로 쓴다.\nⓒ X. -s로 끝나지 않는 복수명사 children의 소유격은 children's이다.\nⓓ O. 사람의 소유를 's로 나타냈다.\n정답 판단: 어법상 옳은 문장은 ⓐ, ⓓ이다.\n선택지 분석:\n① [정답] 옳은 문장 ⓐ, ⓓ를 빠짐없이 골랐으므로 정답이다.\n② [오답] ⓑ는 옳은 문장이 아니고, 옳은 문장 ⓓ를 빠뜨렸다. 따라서 오답이다.\n③ [오답] ⓑ, ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓐ, ⓓ를 빠뜨렸다. 따라서 오답이다.\n④ [오답] ⓑ는 옳은 문장이 아니고, 옳은 문장 ⓐ를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓐ를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "ⓐ Those red cars over there are theirs.\nⓑ This bag on the chair is her.\nⓒ The childrens' toys are all over the floor.\nⓓ My best friend's house is near the school.",
+    "stem": "다음 중 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T08:01:35.196Z"
+  },
+  "tab": "x2buc7cy",
+  "updatedAt": "2026-10-27T08:01:54.303Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T08:01:54.303Z",
+      "what": "확인 완료"
+    }
+  }
+}

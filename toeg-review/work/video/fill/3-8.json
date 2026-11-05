@@ -1,0 +1,465 @@
+{
+ "A": {
+  "title": "주어에 맞는 be동사 과거형 was, were",
+  "intro": "이 문제는 두 주어에 맞는 be동사 과거형 was와 were의 짝을 고르는 문제예요.",
+  "problem_narration": "빈칸에 들어갈 말이 바르게 짝지어진 것을 고르세요. The children 에이 빈칸 in the park, but their mother 비 빈칸 at the supermarket. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 과거형 was, were: ‘~이었다’, ‘~에 있었다’",
+    "주어가 I, he, she, it, 단수 명사 → was (am, is의 과거형)",
+    "주어가 you, we, they, 복수 명사 → were (are의 과거형)",
+    "예) My dad was at work, and my brothers were at school. (아빠는 회사에 있었고, 남동생들은 학교에 있었어요.)"
+   ],
+   "narration": "was와 were는 be동사의 과거형으로, 지난 일을 말할 때 무엇이었다 또는 어디에 있었다는 뜻이에요. 주어가 I, he, she, it이나 단수 명사이면 was, you, we, they나 복수 명사이면 were를 써요. 예를 들어 My dad was at work, and my brothers were at school, 아빠는 회사에 있었고, 남동생들은 학교에 있었어요."
+  },
+  "steps": [
+   {
+    "note": "The children(아이들, 복수) → were. (A)에 was를 쓴 ①, ② 지움",
+    "highlight": [
+     "The children (<u>    A    </u>)"
+    ],
+    "strike": [
+     "① (A) was - (B) was",
+     "② (A) was - (B) were"
+    ],
+    "narration": "첫째, 에이 빈칸의 주어 The children은 아이들, 여러 명인 복수라 were를 쓰니, was를 쓴 1번과 2번을 지워요."
+   },
+   {
+    "note": "their mother(엄마 한 사람, 단수) → was. (B)에 were를 쓴 ③, ⑤ 지움 → ④",
+    "highlight": [
+     "their mother (<u>    B    </u>)",
+     "④ (A) were - (B) was"
+    ],
+    "strike": [
+     "③ (A) were - (B) were",
+     "⑤ (A) are - (B) were"
+    ],
+    "narration": "둘째, 비 빈칸의 주어 their mother는 엄마 한 사람인 단수라 was를 쓰니, were를 쓴 3번과 5번을 지우면 4번이 남아요."
+   },
+   {
+    "note": "→ The children were in the park, but their mother was at the supermarket.",
+    "highlight": [
+     "④ (A) were - (B) was"
+    ],
+    "strike": [],
+    "narration": "셋째, 4번을 넣으면 The children were in the park, but their mother was at the supermarket. 아이들은 공원에 있었지만, 그들의 엄마는 슈퍼마켓에 있었어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) was - (B) was  ✗  (B)는 맞지만 child의 복수형 children에 was를 썼어요",
+    "② (A) was - (B) were  ✗  The children에 was, their mother에 were로 둘 다 틀렸어요",
+    "③ (A) were - (B) were  ✗  (A)는 맞지만 엄마 한 사람인 their mother에 were를 썼어요",
+    "④ (A) were - (B) was  ✓  복수 The children → were, 단수 their mother → was",
+    "⑤ (A) are - (B) were  ✗  are는 The children과 수는 맞지만, their mother에 were를 썼어요"
+   ],
+   "narration": "정답은 4번, 에이 빈칸에 were, 비 빈칸에 was예요. 3번을 고르기 쉬운데, their가 붙어 있어도 비 빈칸 주어의 중심 낱말은 mother, 엄마 한 사람이라 was를 써요. 1번은 비 빈칸은 맞지만, children은 s가 없어도 child의 복수형이라 was를 쓸 수 없어요. 5번의 are는 The children과 수는 맞지만, 비 빈칸의 were가 their mother와 맞지 않아요."
+  },
+  "summary": {
+   "card": "단수 주어(I, he, she, it, 단수 명사) → was  |  you와 복수 주어 → were",
+   "narration": "정답은 4번이에요. 기억할 것, 단수 주어에는 was, you와 복수 주어에는 were를 써요."
+  },
+  "captions": [
+   "주어에 맞는 was, were",
+   "먼저 풀어 보세요",
+   "단수 → was, 복수 → were",
+   "The children → were, their mother → was",
+   "정답 ④ were - was",
+   "단수 was, 복수와 you were"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   34,
+   24,
+   10
+  ]
+ },
+ "B": {
+  "title": "주어에 맞는 be동사 과거형 was, were",
+  "intro": "이 문제는 두 주어에 맞는 be동사 과거형 was와 were의 짝을 고르는 문제예요.",
+  "problem_narration": "빈칸에 들어갈 말이 바르게 짝지어진 것을 고르세요. My sister 에이 빈칸 at the library yesterday, but my parents 비 빈칸 at the museum. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 과거형 was, were: ‘~이었다’, ‘~에 있었다’",
+    "주어가 I, he, she, it, 단수 명사 → was (am, is의 과거형)",
+    "주어가 you, we, they, 복수 명사 → were (are의 과거형)",
+    "예) My dad was at work, and my brothers were at school. (아빠는 회사에 있었고, 남동생들은 학교에 있었어요.)"
+   ],
+   "narration": "was와 were는 be동사의 과거형으로, 지난 일을 말할 때 무엇이었다 또는 어디에 있었다는 뜻이에요. 주어가 I, he, she, it이나 단수 명사이면 was, you, we, they나 복수 명사이면 were를 써요. 예를 들어 My dad was at work, and my brothers were at school, 아빠는 회사에 있었고, 남동생들은 학교에 있었어요."
+  },
+  "steps": [
+   {
+    "note": "yesterday(어제) → 지난 일 → 과거형. 현재형 is를 쓴 ⑤ 지움",
+    "highlight": [
+     "yesterday"
+    ],
+    "strike": [
+     "⑤ (A) is - (B) was"
+    ],
+    "narration": "첫째, yesterday는 어제라는 뜻이니, 지난 일을 말하는 이 문장에서 현재형 is를 쓴 5번을 지워요."
+   },
+   {
+    "note": "My sister(한 사람, 단수) → was. (A)에 were를 쓴 ①, ④ 지움",
+    "highlight": [
+     "My sister (<u>    A    </u>)"
+    ],
+    "strike": [
+     "① (A) were - (B) was",
+     "④ (A) were - (B) were"
+    ],
+    "narration": "둘째, 에이 빈칸의 주어 My sister는 한 사람인 단수라 was를 쓰니, were를 쓴 1번과 4번을 지워요."
+   },
+   {
+    "note": "my parents(부모님 두 분, 복수) → were. (B)에 was를 쓴 ② 지움 → ③",
+    "highlight": [
+     "my parents (<u>    B    </u>)",
+     "③ (A) was - (B) were"
+    ],
+    "strike": [
+     "② (A) was - (B) was"
+    ],
+    "narration": "셋째, 비 빈칸의 주어 my parents는 부모님 두 분인 복수라 were를 쓰니, was를 쓴 2번을 지우면 3번이 남아요. My sister was at the library yesterday, but my parents were at the museum. 언니는 어제 도서관에 있었지만, 부모님은 박물관에 있었어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) were - (B) was  ✗  My sister에 were, my parents에 was로 둘 다 틀렸어요",
+    "② (A) was - (B) was  ✗  (A)는 맞지만 부모님 두 분인 my parents에 was를 썼어요",
+    "③ (A) was - (B) were  ✓  단수 My sister → was, 복수 my parents → were",
+    "④ (A) were - (B) were  ✗  (B)는 맞지만 한 사람인 My sister에 were를 썼어요",
+    "⑤ (A) is - (B) was  ✗  yesterday가 있어 현재형 is는 안 되고, my parents에 was를 썼어요"
+   ],
+   "narration": "정답은 3번, 에이 빈칸에 was, 비 빈칸에 were예요. 2번은 에이 빈칸은 맞지만, 부모님 두 분을 뜻하는 my parents에 was를 써서 틀렸어요. 4번은 비 빈칸은 맞지만, 한 사람인 My sister에 were를 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "단수 주어(I, he, she, it, 단수 명사) → was  |  you와 복수 주어 → were",
+   "narration": "정답은 3번이에요. 기억할 것, 단수 주어에는 was, you와 복수 주어에는 were를 써요."
+  },
+  "captions": [
+   "주어에 맞는 was, were",
+   "먼저 풀어 보세요",
+   "단수 → was, 복수 → were",
+   "yesterday → 과거, My sister → was",
+   "정답 ③ was - were",
+   "단수 was, 복수와 you were"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   34,
+   24,
+   10
+  ]
+ },
+ "C": {
+  "title": "주어에 맞는 be동사 과거형 was, were",
+  "intro": "이 문제는 두 주어에 맞는 be동사 과거형 was와 were의 짝을 고르는 문제예요.",
+  "problem_narration": "빈칸에 들어갈 말이 바르게 짝지어진 것을 고르세요. Tom 에이 빈칸 at home all afternoon, but his friends 비 빈칸 at the soccer field. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 과거형 was, were: ‘~이었다’, ‘~에 있었다’",
+    "주어가 I, he, she, it, 단수 명사 → was (am, is의 과거형)",
+    "주어가 you, we, they, 복수 명사 → were (are의 과거형)",
+    "예) My dad was at work, and my brothers were at school. (아빠는 회사에 있었고, 남동생들은 학교에 있었어요.)"
+   ],
+   "narration": "was와 were는 be동사의 과거형으로, 지난 일을 말할 때 무엇이었다 또는 어디에 있었다는 뜻이에요. 주어가 I, he, she, it이나 단수 명사이면 was, you, we, they나 복수 명사이면 were를 써요. 예를 들어 My dad was at work, and my brothers were at school, 아빠는 회사에 있었고, 남동생들은 학교에 있었어요."
+  },
+  "steps": [
+   {
+    "note": "Tom(한 사람, 단수) → was. (A)에 were를 쓴 ②, ⑤ 지움",
+    "highlight": [
+     "Tom (<u>    A    </u>)"
+    ],
+    "strike": [
+     "② (A) were - (B) was",
+     "⑤ (A) were - (B) were"
+    ],
+    "narration": "첫째, 에이 빈칸의 주어 Tom은 한 사람인 단수라 was를 쓰니, were를 쓴 2번과 5번을 지워요."
+   },
+   {
+    "note": "his friends(여러 친구, 복수) → were. (B)에 was를 쓴 ①, ③ 지움 → ④",
+    "highlight": [
+     "his friends (<u>    B    </u>)",
+     "④ (A) was - (B) were"
+    ],
+    "strike": [
+     "① (A) is - (B) was",
+     "③ (A) was - (B) was"
+    ],
+    "narration": "둘째, 비 빈칸의 주어 his friends는 여러 친구인 복수라 were를 쓰니, was를 쓴 1번과 3번을 지우면 4번이 남아요."
+   },
+   {
+    "note": "→ Tom was at home all afternoon, but his friends were at the soccer field.",
+    "highlight": [
+     "④ (A) was - (B) were"
+    ],
+    "strike": [],
+    "narration": "셋째, 4번을 넣으면 Tom was at home all afternoon, but his friends were at the soccer field. Tom은 오후 내내 집에 있었지만, 그의 친구들은 축구장에 있었어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) is - (B) was  ✗  is는 Tom과 수는 맞지만, his friends에 was를 썼어요",
+    "② (A) were - (B) was  ✗  Tom에 were, his friends에 was로 둘 다 틀렸어요",
+    "③ (A) was - (B) was  ✗  (A)는 맞지만 여러 친구인 his friends에 was를 썼어요",
+    "④ (A) was - (B) were  ✓  단수 Tom → was, 복수 his friends → were",
+    "⑤ (A) were - (B) were  ✗  (B)는 맞지만 한 사람인 Tom에 were를 썼어요"
+   ],
+   "narration": "정답은 4번, 에이 빈칸에 was, 비 빈칸에 were예요. 3번을 고르기 쉬운데, his가 붙어 있어도 비 빈칸 주어의 중심 낱말은 friends, 여러 친구라 were를 써요. 1번의 is는 Tom과 수는 맞지만, 비 빈칸의 was가 his friends와 맞지 않아요."
+  },
+  "summary": {
+   "card": "단수 주어(I, he, she, it, 단수 명사) → was  |  you와 복수 주어 → were",
+   "narration": "정답은 4번이에요. 기억할 것, 단수 주어에는 was, you와 복수 주어에는 were를 써요."
+  },
+  "captions": [
+   "주어에 맞는 was, were",
+   "먼저 풀어 보세요",
+   "단수 → was, 복수 → were",
+   "Tom → was, his friends → were",
+   "정답 ④ was - were",
+   "단수 was, 복수와 you were"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   34,
+   24,
+   10
+  ]
+ },
+ "D": {
+  "title": "주어에 맞는 be동사 과거형 was, were",
+  "intro": "이 문제는 두 주어에 맞는 be동사 과거형 was와 were의 짝을 고르는 문제예요.",
+  "problem_narration": "빈칸에 들어갈 말이 바르게 짝지어진 것을 고르세요. I 에이 빈칸 tired after the long hike, but we 비 빈칸 happy about the beautiful view. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 과거형 was, were: ‘~이었다’, ‘~에 있었다’",
+    "주어가 I, he, she, it, 단수 명사 → was (am, is의 과거형)",
+    "주어가 you, we, they, 복수 명사 → were (are의 과거형)",
+    "예) My dad was at work, and my brothers were at school. (아빠는 회사에 있었고, 남동생들은 학교에 있었어요.)"
+   ],
+   "narration": "was와 were는 be동사의 과거형으로, 지난 일을 말할 때 무엇이었다 또는 어디에 있었다는 뜻이에요. 주어가 I, he, she, it이나 단수 명사이면 was, you, we, they나 복수 명사이면 were를 써요. 예를 들어 My dad was at work, and my brothers were at school, 아빠는 회사에 있었고, 남동생들은 학교에 있었어요."
+  },
+  "steps": [
+   {
+    "note": "주어 I → was. (A)에 were를 쓴 ③, ④ 지움",
+    "highlight": [
+     "I (<u>    A    </u>)"
+    ],
+    "strike": [
+     "③ (A) were - (B) were",
+     "④ (A) were - (B) was"
+    ],
+    "narration": "첫째, 에이 빈칸의 주어 I에는 was를 쓰니, were를 쓴 3번과 4번을 지워요."
+   },
+   {
+    "note": "we(나를 포함한 여러 사람, 복수) → were. (B)에 was를 쓴 ①, ⑤ 지움 → ②",
+    "highlight": [
+     "we (<u>    B    </u>)",
+     "② (A) was - (B) were"
+    ],
+    "strike": [
+     "① (A) was - (B) was",
+     "⑤ (A) am - (B) was"
+    ],
+    "narration": "둘째, 비 빈칸의 주어 we는 나를 포함한 여러 사람이라 복수예요. 그래서 were를 쓰니, was를 쓴 1번과 5번을 지우면 2번이 남아요."
+   },
+   {
+    "note": "→ I was tired after the long hike, but we were happy about the beautiful view.",
+    "highlight": [
+     "② (A) was - (B) were"
+    ],
+    "strike": [],
+    "narration": "셋째, 2번을 넣으면 I was tired after the long hike, but we were happy about the beautiful view. 나는 긴 등산 뒤에 피곤했지만, 우리는 아름다운 경치에 기뻤어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) was - (B) was  ✗  (A)는 맞지만 복수 주어 we에 was를 썼어요",
+    "② (A) was - (B) were  ✓  I → was, 복수 we → were",
+    "③ (A) were - (B) were  ✗  (B)는 맞지만 주어 I에 were를 썼어요",
+    "④ (A) were - (B) was  ✗  I에 were, we에 was로 둘 다 틀렸어요",
+    "⑤ (A) am - (B) was  ✗  am은 I와 맞는 현재형이지만, we에 was를 썼어요"
+   ],
+   "narration": "정답은 2번, 에이 빈칸에 was, 비 빈칸에 were예요. 1번을 고르기 쉬운데, we는 나 혼자가 아니라 여러 사람이라 were를 써요. 5번의 am은 I와 짝이 맞는 현재형이지만, 비 빈칸의 was가 we와 맞지 않아요."
+  },
+  "summary": {
+   "card": "단수 주어(I, he, she, it, 단수 명사) → was  |  you와 복수 주어 → were",
+   "narration": "정답은 2번이에요. 기억할 것, 단수 주어에는 was, you와 복수 주어에는 were를 써요."
+  },
+  "captions": [
+   "주어에 맞는 was, were",
+   "먼저 풀어 보세요",
+   "단수 → was, 복수 → were",
+   "I → was, we → were",
+   "정답 ② was - were",
+   "단수 was, 복수와 you were"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   34,
+   24,
+   10
+  ]
+ },
+ "E": {
+  "title": "주어에 맞는 be동사 과거형 was, were",
+  "intro": "이 문제는 두 주어에 맞는 be동사 과거형 was와 were의 짝을 고르는 문제예요.",
+  "problem_narration": "빈칸에 들어갈 말이 바르게 짝지어진 것을 고르세요. The dog 에이 빈칸 hungry after the walk, but the cats 비 빈칸 fine in the warm house. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 과거형 was, were: ‘~이었다’, ‘~에 있었다’",
+    "주어가 I, he, she, it, 단수 명사 → was (am, is의 과거형)",
+    "주어가 you, we, they, 복수 명사 → were (are의 과거형)",
+    "예) My dad was at work, and my brothers were at school. (아빠는 회사에 있었고, 남동생들은 학교에 있었어요.)"
+   ],
+   "narration": "was와 were는 be동사의 과거형으로, 지난 일을 말할 때 무엇이었다 또는 어디에 있었다는 뜻이에요. 주어가 I, he, she, it이나 단수 명사이면 was, you, we, they나 복수 명사이면 were를 써요. 예를 들어 My dad was at work, and my brothers were at school, 아빠는 회사에 있었고, 남동생들은 학교에 있었어요."
+  },
+  "steps": [
+   {
+    "note": "The dog(개 한 마리, 단수) → was. (A)에 were를 쓴 ③, ④ 지움",
+    "highlight": [
+     "The dog (<u>    A    </u>)"
+    ],
+    "strike": [
+     "③ (A) were - (B) was",
+     "④ (A) were - (B) were"
+    ],
+    "narration": "첫째, 에이 빈칸의 주어 The dog은 개 한 마리인 단수라 was를 쓰니, were를 쓴 3번과 4번을 지워요."
+   },
+   {
+    "note": "the cats(고양이 여러 마리, 복수) → were. (B)에 was를 쓴 ①, ② 지움 → ⑤",
+    "highlight": [
+     "the cats (<u>    B    </u>)",
+     "⑤ (A) was - (B) were"
+    ],
+    "strike": [
+     "① (A) was - (B) was",
+     "② (A) is - (B) was"
+    ],
+    "narration": "둘째, 비 빈칸의 주어 the cats는 고양이 여러 마리인 복수라 were를 쓰니, was를 쓴 1번과 2번을 지우면 5번이 남아요."
+   },
+   {
+    "note": "→ The dog was hungry after the walk, but the cats were fine in the warm house.",
+    "highlight": [
+     "⑤ (A) was - (B) were"
+    ],
+    "strike": [],
+    "narration": "셋째, 5번을 넣으면 The dog was hungry after the walk, but the cats were fine in the warm house. 개는 산책 뒤에 배가 고팠지만, 고양이들은 따뜻한 집 안에서 괜찮았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) was - (B) was  ✗  (A)는 맞지만 고양이 여러 마리인 the cats에 was를 썼어요",
+    "② (A) is - (B) was  ✗  is는 The dog과 수는 맞지만, the cats에 was를 썼어요",
+    "③ (A) were - (B) was  ✗  The dog에 were, the cats에 was로 둘 다 틀렸어요",
+    "④ (A) were - (B) were  ✗  (B)는 맞지만 개 한 마리인 The dog에 were를 썼어요",
+    "⑤ (A) was - (B) were  ✓  단수 The dog → was, 복수 the cats → were"
+   ],
+   "narration": "정답은 5번, 에이 빈칸에 was, 비 빈칸에 were예요. 1번은 에이 빈칸은 맞지만, 고양이 여러 마리인 the cats에 was를 써서 틀렸어요. 2번의 is는 The dog과 수는 맞지만, 비 빈칸의 was가 the cats와 맞지 않아요."
+  },
+  "summary": {
+   "card": "단수 주어(I, he, she, it, 단수 명사) → was  |  you와 복수 주어 → were",
+   "narration": "정답은 5번이에요. 기억할 것, 단수 주어에는 was, you와 복수 주어에는 were를 써요."
+  },
+  "captions": [
+   "주어에 맞는 was, were",
+   "먼저 풀어 보세요",
+   "단수 → was, 복수 → were",
+   "The dog → was, the cats → were",
+   "정답 ⑤ was - were",
+   "단수 was, 복수와 you were"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   34,
+   24,
+   10
+  ]
+ },
+ "F": {
+  "title": "주어에 맞는 be동사 과거형 was, were",
+  "intro": "이 문제는 두 주어에 맞는 be동사 과거형 was와 were의 짝을 고르는 문제예요.",
+  "problem_narration": "빈칸에 들어갈 말이 바르게 짝지어진 것을 고르세요. Jane and Amy 에이 빈칸 busy with the school play, but Tom 비 빈칸 free all weekend. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 과거형 was, were: ‘~이었다’, ‘~에 있었다’",
+    "주어가 I, he, she, it, 단수 명사 → was (am, is의 과거형)",
+    "주어가 you, we, they, 복수 명사 → were (are의 과거형)",
+    "예) My dad was at work, and my brothers were at school. (아빠는 회사에 있었고, 남동생들은 학교에 있었어요.)"
+   ],
+   "narration": "was와 were는 be동사의 과거형으로, 지난 일을 말할 때 무엇이었다 또는 어디에 있었다는 뜻이에요. 주어가 I, he, she, it이나 단수 명사이면 was, you, we, they나 복수 명사이면 were를 써요. 예를 들어 My dad was at work, and my brothers were at school, 아빠는 회사에 있었고, 남동생들은 학교에 있었어요."
+  },
+  "steps": [
+   {
+    "note": "Jane and Amy(두 사람, 복수) → were. (A)에 was를 쓴 ④, ⑤ 지움",
+    "highlight": [
+     "Jane and Amy (<u>    A    </u>)"
+    ],
+    "strike": [
+     "④ (A) was - (B) were",
+     "⑤ (A) was - (B) was"
+    ],
+    "narration": "첫째, 에이 빈칸의 주어 Jane and Amy는 두 사람이라 복수예요. 그래서 were를 쓰니, was를 쓴 4번과 5번을 지워요."
+   },
+   {
+    "note": "Tom(한 사람, 단수) → was. (B)에 were를 쓴 ②, ③ 지움 → ①",
+    "highlight": [
+     "Tom (<u>    B    </u>)",
+     "① (A) were - (B) was"
+    ],
+    "strike": [
+     "② (A) are - (B) were",
+     "③ (A) were - (B) were"
+    ],
+    "narration": "둘째, 비 빈칸의 주어 Tom은 한 사람인 단수라 was를 쓰니, were를 쓴 2번과 3번을 지우면 1번이 남아요."
+   },
+   {
+    "note": "→ Jane and Amy were busy with the school play, but Tom was free all weekend.",
+    "highlight": [
+     "① (A) were - (B) was"
+    ],
+    "strike": [],
+    "narration": "셋째, 1번을 넣으면 Jane and Amy were busy with the school play, but Tom was free all weekend. Jane과 Amy는 학교 연극으로 바빴지만, Tom은 주말 내내 한가했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) were - (B) was  ✓  두 사람 Jane and Amy → were, 단수 Tom → was",
+    "② (A) are - (B) were  ✗  are는 Jane and Amy와 수는 맞지만, Tom에 were를 썼어요",
+    "③ (A) were - (B) were  ✗  (A)는 맞지만 한 사람인 Tom에 were를 썼어요",
+    "④ (A) was - (B) were  ✗  Jane and Amy에 was, Tom에 were로 둘 다 틀렸어요",
+    "⑤ (A) was - (B) was  ✗  (B)는 맞지만 두 사람인 Jane and Amy에 was를 썼어요"
+   ],
+   "narration": "정답은 1번, 에이 빈칸에 were, 비 빈칸에 was예요. 5번을 고르기 쉬운데, 이름 두 개가 and로 이어진 Jane and Amy는 한 사람이 아니라 두 사람이라 were를 써요. 2번의 are는 Jane and Amy와 수는 맞지만, 비 빈칸의 were가 Tom과 맞지 않아요."
+  },
+  "summary": {
+   "card": "단수 주어(I, he, she, it, 단수 명사) → was  |  you와 복수 주어 → were",
+   "narration": "정답은 1번이에요. 기억할 것, 단수 주어에는 was, you와 복수 주어에는 were를 써요."
+  },
+  "captions": [
+   "주어에 맞는 was, were",
+   "먼저 풀어 보세요",
+   "단수 → was, 복수 → were",
+   "Jane and Amy → were, Tom → was",
+   "정답 ① were - was",
+   "단수 was, 복수와 you were"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   34,
+   24,
+   10
+  ]
+ }
+}

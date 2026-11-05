@@ -1,0 +1,479 @@
+{
+ "A": {
+  "title": "주어에 맞는 현재형 동사의 형태",
+  "intro": "이 문제는 일반동사와 be동사가 주어에 맞는 형태인지 살펴, 동사의 형태가 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사의 형태가 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재형: 주어가 3인칭 단수(he, she, it, Tom) → 일반동사 + s/es",
+    "자음 + y로 끝나면 y를 i로 바꾸고 es (cry → cries) · have → has",
+    "주어가 I, you, we, they, 복수 → 일반동사는 동사원형",
+    "be동사: I → am · 3인칭 단수 → is · you, 복수 → are",
+    "예) Sora has a bike. (소라는 자전거가 있어요.)  Her friends have bikes, too. (소라의 친구들도 자전거가 있어요.)"
+   ],
+   "narration": "현재형은 주로 평소에 하는 일이나 사실을 말하고, 일반동사와 be동사의 모양은 주어에 맞춰 골라요. 주어가 he, she, it이나 Tom처럼 3인칭 단수이면 일반동사에 s나 es를 붙이는데, 자음 다음 y로 끝나면 y를 i로 바꿔 es를 붙이고, have는 has로 써요. 주어가 I, you, we, they이거나 여럿이면 일반동사는 동사원형을 쓰고, be동사는 I에 am, 3인칭 단수에 is, you와 여럿에 are를 써요. 예를 들어 Sora has a bike, 소라는 자전거가 있어요. Her friends have bikes, too. 소라의 친구들도 자전거가 있어요."
+  },
+  "steps": [
+   {
+    "note": "주어 찾기: She, Jenny, Peter → 3인칭 단수 / They, We → 3인칭 단수 아님",
+    "highlight": [
+     "They",
+     "She",
+     "Jenny",
+     "Peter",
+     "We"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 주어를 찾아 보면 She, Jenny, Peter는 3인칭 단수이고, They와 We는 아니에요."
+   },
+   {
+    "note": "They like(동사원형), We are(be동사), She makes, Jenny tries(자음 + y → ies) → 모두 맞다",
+    "highlight": [
+     "like",
+     "are",
+     "makes",
+     "tries"
+    ],
+    "strike": [],
+    "narration": "둘째, They에는 동사원형 like, We에는 be동사 are가 맞아요. She에는 makes, Jenny에는 try의 y를 i로 바꾸고 es를 붙인 tries가 맞아요."
+   },
+   {
+    "note": "Peter도 3인칭 단수인데 have ✗ → has. 틀린 문장은 ④",
+    "highlight": [
+     "Peter"
+    ],
+    "strike": [
+     "have"
+    ],
+    "narration": "셋째, Peter도 한 사람이라 3인칭 단수이니 have를 has로 고쳐야 해서 4번이 틀린 문장이에요. Peter has two brothers, 피터는 남자 형제가 두 명 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① They like ice cream.  ✗  복수 주어 They → 동사원형 like가 맞아요",
+    "② She makes breakfast every morning.  ✗  3인칭 단수 She → make + s, makes가 맞아요",
+    "③ Jenny tries hard in school.  ✗  3인칭 단수 Jenny → try의 y를 i로 바꾼 tries가 맞아요",
+    "④ Peter have two brothers.  ✓  3인칭 단수 Peter → have가 아니라 has (틀린 문장)",
+    "⑤ We are in the same country.  ✗  주어 We → be동사 are가 맞아요"
+   ],
+   "narration": "정답은 4번이에요. Peter는 한 사람이라 3인칭 단수이니 have가 아니라 has를 써야 해요. 3번 tries를 틀렸다고 보기 쉽지만, try는 자음 다음 y로 끝나서 y를 i로 바꾸고 es를 붙인 tries가 맞아요. 5번은 be동사 문장인데, 주어 We에는 are가 맞아요. 1번 They에는 s를 붙이지 않은 like가 맞아요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → 일반동사 + s/es, have → has",
+   "narration": "정답은 4번이에요. 기억할 것, 주어가 3인칭 단수이면 현재형 일반동사에 s나 es를 붙이고, have는 has로 써요."
+  },
+  "captions": [
+   "동사의 형태가 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "주어에 맞는 동사 모양",
+   "주어 찾기 → 동사 확인 → Peter have",
+   "정답 ④ have → has",
+   "3인칭 단수 + s/es, have → has"
+  ],
+  "sec": [
+   10,
+   15,
+   30,
+   34,
+   28,
+   10
+  ]
+ },
+ "B": {
+  "title": "주어에 맞는 현재형 동사의 형태",
+  "intro": "이 문제는 현재형 일반동사가 주어에 맞는 형태인지 살펴, 동사의 형태가 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사의 형태가 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재형: 주어가 3인칭 단수(he, she, it, Tom) → 일반동사 + s/es",
+    "자음 + y로 끝나면 y를 i로 바꾸고 es (cry → cries) · have → has",
+    "주어가 I, you, we, they, 복수 → 일반동사는 동사원형",
+    "be동사: I → am · 3인칭 단수 → is · you, 복수 → are",
+    "예) My friend walks to school. (내 친구는 걸어서 학교에 가요.)  My friends walk to school. (내 친구들은 걸어서 학교에 가요.)"
+   ],
+   "narration": "현재형은 주로 평소에 하는 일이나 사실을 말하고, 일반동사와 be동사의 모양은 주어에 맞춰 골라요. 주어가 he, she, it이나 Tom처럼 3인칭 단수이면 일반동사에 s나 es를 붙이는데, 자음 다음 y로 끝나면 y를 i로 바꿔 es를 붙이고, have는 has로 써요. 주어가 I, you, we, they이거나 여럿이면 일반동사는 동사원형을 쓰고, be동사는 I에 am, 3인칭 단수에 is, you와 여럿에 are를 써요. 예를 들어 My friend walks to school, 내 친구는 걸어서 학교에 가요. My friends walk to school. 내 친구들은 걸어서 학교에 가요."
+  },
+  "steps": [
+   {
+    "note": "주어 찾기: Mina, Our dog, The school bus → 3인칭 단수 / My cousins, They → 여럿",
+    "highlight": [
+     "Mina",
+     "Our dog",
+     "The school bus",
+     "My cousins",
+     "They"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 주어를 찾아 보면 Mina, Our dog, The school bus는 3인칭 단수이고, My cousins와 They는 여럿이에요."
+   },
+   {
+    "note": "3인칭 단수 → studies(자음 + y → ies), sleeps, arrives → 맞다",
+    "highlight": [
+     "studies",
+     "sleeps",
+     "arrives"
+    ],
+    "strike": [],
+    "narration": "둘째, 3인칭 단수 주어에 쓴 studies, sleeps, arrives는 맞아요. study는 자음 다음 y로 끝나서 y를 i로 바꾸고 es를 붙였어요."
+   },
+   {
+    "note": "여럿 → 동사원형: They visit 맞다 / My cousins lives ✗ → live. 틀린 문장은 ③",
+    "highlight": [
+     "visit"
+    ],
+    "strike": [
+     "lives"
+    ],
+    "narration": "셋째, 여럿인 주어에는 동사원형을 쓰니 They visit은 맞고, My cousins lives는 live로 고쳐야 해서 3번이 틀린 문장이에요. My cousins live near the station, 내 사촌들은 역 근처에 살아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Mina studies English after dinner.  ✗  3인칭 단수 Mina → study의 y를 i로 바꾼 studies가 맞아요",
+    "② Our dog sleeps under the table.  ✗  3인칭 단수 Our dog → sleep + s, sleeps가 맞아요",
+    "③ My cousins lives near the station.  ✓  복수 My cousins → lives가 아니라 live (틀린 문장)",
+    "④ The school bus arrives at eight.  ✗  3인칭 단수 The school bus → arrives가 맞아요",
+    "⑤ They visit us every summer.  ✗  복수 They → 동사원형 visit이 맞아요"
+   ],
+   "narration": "정답은 3번이에요. My cousins는 사촌 여러 명이라 s를 붙이지 않은 동사원형 live를 써야 해요. 1번 studies는 study의 y를 i로 바꾸고 es를 붙인 맞는 형태예요. 4번 The school bus는 버스 한 대라서 arrives가 맞아요. 5번 They에는 동사원형 visit이 맞아요."
+  },
+  "summary": {
+   "card": "여럿인 주어 → 현재형 일반동사는 동사원형 (live)",
+   "narration": "정답은 3번이에요. 기억할 것, 주어가 여럿이면 현재형 일반동사는 s를 붙이지 않고 동사원형을 써요."
+  },
+  "captions": [
+   "동사의 형태가 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "주어에 맞는 동사 모양",
+   "주어 찾기 → 동사 확인 → My cousins lives",
+   "정답 ③ lives → live",
+   "여럿인 주어 + 동사원형"
+  ],
+  "sec": [
+   10,
+   15,
+   30,
+   34,
+   28,
+   10
+  ]
+ },
+ "C": {
+  "title": "주어에 맞는 현재형 동사의 형태",
+  "intro": "이 문제는 일반동사와 be동사가 주어에 맞는 형태인지 살펴, 동사의 형태가 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사의 형태가 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재형: 주어가 3인칭 단수(he, she, it, Tom) → 일반동사 + s/es",
+    "자음 + y로 끝나면 y를 i로 바꾸고 es (cry → cries) · have → has",
+    "주어가 I, you, we, they, 복수 → 일반동사는 동사원형",
+    "be동사: I → am · 3인칭 단수 → is · you, 복수 → are",
+    "예) I brush my teeth. (나는 이를 닦아요.)  He brushes his teeth. (그는 이를 닦아요.)"
+   ],
+   "narration": "현재형은 주로 평소에 하는 일이나 사실을 말하고, 일반동사와 be동사의 모양은 주어에 맞춰 골라요. 주어가 he, she, it이나 Tom처럼 3인칭 단수이면 일반동사에 s나 es를 붙이는데, 자음 다음 y로 끝나면 y를 i로 바꿔 es를 붙이고, have는 has로 써요. 주어가 I, you, we, they이거나 여럿이면 일반동사는 동사원형을 쓰고, be동사는 I에 am, 3인칭 단수에 is, you와 여럿에 are를 써요. 예를 들어 I brush my teeth, 나는 이를 닦아요. He brushes his teeth. 그는 이를 닦아요."
+  },
+  "steps": [
+   {
+    "note": "주어 찾기: My dad, Jane, Tom → 3인칭 단수 / They, The students → 여럿",
+    "highlight": [
+     "My dad",
+     "Jane",
+     "Tom",
+     "They",
+     "The students"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 주어를 찾아 보면 My dad, Jane, Tom은 3인칭 단수이고, They와 The students는 여럿이에요."
+   },
+   {
+    "note": "They have(동사원형), The students are(be동사), watches(ch + es), studies(자음 + y → ies) → 맞다",
+    "highlight": [
+     "have",
+     "are",
+     "watches",
+     "studies"
+    ],
+    "strike": [],
+    "narration": "둘째, They에는 동사원형 have, The students에는 be동사 are가 맞아요. My dad에는 watch에 es를 붙인 watches, Tom에는 study의 y를 i로 바꾸고 es를 붙인 studies가 맞아요."
+   },
+   {
+    "note": "Jane은 3인칭 단수인데 go ✗ → goes. 틀린 문장은 ②",
+    "highlight": [
+     "Jane"
+    ],
+    "strike": [
+     "go"
+    ],
+    "narration": "셋째, Jane도 3인칭 단수인데 go를 그대로 썼으니 goes로 고쳐야 해서 2번이 틀린 문장이에요. Jane goes to school by bus, 제인은 버스를 타고 학교에 가요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① My dad watches TV.  ✗  3인칭 단수 My dad → ch로 끝나는 watch + es, watches가 맞아요",
+    "② Jane go to school by bus.  ✓  3인칭 단수 Jane → go가 아니라 goes (틀린 문장)",
+    "③ They have two dogs.  ✗  복수 They → has가 아니라 have가 맞아요",
+    "④ The students are in the gym.  ✗  복수 The students → be동사 are가 맞아요",
+    "⑤ Tom studies English.  ✗  3인칭 단수 Tom → study의 y를 i로 바꾼 studies가 맞아요"
+   ],
+   "narration": "정답은 2번이에요. Jane은 한 사람이라 3인칭 단수이니 go에 es를 붙인 goes를 써야 해요. 3번 They have를 has로 바꿔야 한다고 생각하기 쉽지만, has는 3인칭 단수 주어에 쓰고 They에는 have가 맞아요. 5번 studies는 study의 y를 i로 바꾸고 es를 붙인 맞는 형태예요. 4번은 be동사 문장인데, 여럿인 The students에는 are가 맞아요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → 일반동사 + s/es (go → goes)",
+   "narration": "정답은 2번이에요. 기억할 것, 주어가 3인칭 단수이면 현재형 일반동사에 s나 es를 붙여요. 그래서 go는 goes로 써요."
+  },
+  "captions": [
+   "동사의 형태가 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "주어에 맞는 동사 모양",
+   "주어 찾기 → 동사 확인 → Jane go",
+   "정답 ② go → goes",
+   "3인칭 단수 + s/es (goes)"
+  ],
+  "sec": [
+   10,
+   15,
+   30,
+   34,
+   28,
+   10
+  ]
+ },
+ "D": {
+  "title": "주어에 맞는 현재형 동사의 형태",
+  "intro": "이 문제는 일반동사와 be동사가 주어에 맞는 형태인지 살펴, 동사의 형태가 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사의 형태가 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재형: 주어가 3인칭 단수(he, she, it, Tom) → 일반동사 + s/es",
+    "자음 + y로 끝나면 y를 i로 바꾸고 es (cry → cries) · have → has",
+    "주어가 I, you, we, they, 복수 → 일반동사는 동사원형",
+    "be동사: I → am · 3인칭 단수 → is · you, 복수 → are",
+    "예) He reads comic books. (그는 만화책을 읽어요.)  His friends read comic books, too. (그의 친구들도 만화책을 읽어요.)"
+   ],
+   "narration": "현재형은 주로 평소에 하는 일이나 사실을 말하고, 일반동사와 be동사의 모양은 주어에 맞춰 골라요. 주어가 he, she, it이나 Tom처럼 3인칭 단수이면 일반동사에 s나 es를 붙이는데, 자음 다음 y로 끝나면 y를 i로 바꿔 es를 붙이고, have는 has로 써요. 주어가 I, you, we, they이거나 여럿이면 일반동사는 동사원형을 쓰고, be동사는 I에 am, 3인칭 단수에 is, you와 여럿에 are를 써요. 예를 들어 He reads comic books, 그는 만화책을 읽어요. His friends read comic books, too. 그의 친구들도 만화책을 읽어요."
+  },
+  "steps": [
+   {
+    "note": "주어 찾기: Mina, My brother, She → 3인칭 단수 / We, The birds → 여럿",
+    "highlight": [
+     "Mina",
+     "My brother",
+     "She",
+     "We",
+     "The birds"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 주어를 찾아 보면 Mina, My brother, She는 3인칭 단수이고, We와 The birds는 여럿이에요."
+   },
+   {
+    "note": "We are(be동사), The birds sing(동사원형), fixes(x + es), tries(자음 + y → ies) → 맞다",
+    "highlight": [
+     "are",
+     "sing",
+     "fixes",
+     "tries"
+    ],
+    "strike": [],
+    "narration": "둘째, We에는 be동사 are, The birds에는 동사원형 sing이 맞아요. Mina에는 fix에 es를 붙인 fixes, She에는 try의 y를 i로 바꾸고 es를 붙인 tries가 맞아요."
+   },
+   {
+    "note": "My brother는 3인칭 단수인데 play ✗ → plays (모음 + y는 s만). 틀린 문장은 ③",
+    "highlight": [
+     "My brother"
+    ],
+    "strike": [
+     "play"
+    ],
+    "narration": "셋째, My brother도 3인칭 단수인데 play를 그대로 썼으니 plays로 고쳐야 해서 3번이 틀린 문장이에요. My brother plays soccer, 내 남동생은 축구를 해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Mina fixes her bike.  ✗  3인칭 단수 Mina → x로 끝나는 fix + es, fixes가 맞아요",
+    "② We are good friends.  ✗  주어 We → be동사 are가 맞아요",
+    "③ My brother play soccer.  ✓  3인칭 단수 My brother → play가 아니라 plays (틀린 문장)",
+    "④ The birds sing in the morning.  ✗  복수 The birds → 동사원형 sing이 맞아요",
+    "⑤ She tries her best.  ✗  3인칭 단수 She → try의 y를 i로 바꾼 tries가 맞아요"
+   ],
+   "narration": "정답은 3번이에요. My brother는 한 사람이라 3인칭 단수이니 plays를 써야 해요. play는 y 앞에 모음 a가 있어서 y를 그대로 두고 s만 붙여요. 5번 tries는 try가 자음 다음 y로 끝나서 y를 i로 바꾸고 es를 붙인 맞는 형태예요. 4번 The birds는 여럿이라 동사원형 sing이 맞아요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → 일반동사 + s/es (play → plays)",
+   "narration": "정답은 3번이에요. 기억할 것, 주어가 3인칭 단수이면 현재형 일반동사에 s나 es를 붙여요. play처럼 모음 다음 y로 끝나면 s만 붙여 plays로 써요."
+  },
+  "captions": [
+   "동사의 형태가 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "주어에 맞는 동사 모양",
+   "주어 찾기 → 동사 확인 → My brother play",
+   "정답 ③ play → plays",
+   "3인칭 단수 + s/es (plays)"
+  ],
+  "sec": [
+   10,
+   15,
+   30,
+   34,
+   28,
+   10
+  ]
+ },
+ "E": {
+  "title": "주어에 맞는 현재형 동사의 형태",
+  "intro": "이 문제는 일반동사와 be동사가 주어에 맞는 형태인지 살펴, 동사의 형태가 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사의 형태가 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재형: 주어가 3인칭 단수(he, she, it, Tom) → 일반동사 + s/es",
+    "자음 + y로 끝나면 y를 i로 바꾸고 es (cry → cries) · have → has",
+    "주어가 I, you, we, they, 복수 → 일반동사는 동사원형",
+    "be동사: I → am · 3인칭 단수 → is · you, 복수 → are",
+    "예) The baby sleeps. (아기가 자요.)  The babies sleep. (아기들이 자요.)"
+   ],
+   "narration": "현재형은 주로 평소에 하는 일이나 사실을 말하고, 일반동사와 be동사의 모양은 주어에 맞춰 골라요. 주어가 he, she, it이나 Tom처럼 3인칭 단수이면 일반동사에 s나 es를 붙이는데, 자음 다음 y로 끝나면 y를 i로 바꿔 es를 붙이고, have는 has로 써요. 주어가 I, you, we, they이거나 여럿이면 일반동사는 동사원형을 쓰고, be동사는 I에 am, 3인칭 단수에 is, you와 여럿에 are를 써요. 예를 들어 The baby sleeps, 아기가 자요. The babies sleep. 아기들이 자요."
+  },
+  "steps": [
+   {
+    "note": "주어 찾기: The sun, My uncle, Dad → 3인칭 단수 / You, The girls → 3인칭 단수 아님",
+    "highlight": [
+     "The sun",
+     "My uncle",
+     "Dad",
+     "You",
+     "The girls"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 주어를 찾아 보면 The sun, My uncle, Dad는 3인칭 단수이고, You와 The girls는 3인칭 단수가 아니에요."
+   },
+   {
+    "note": "3인칭 단수 → rises, has(have), washes(sh + es) 맞다 / You → be동사 are 맞다",
+    "highlight": [
+     "rises",
+     "has",
+     "washes",
+     "are"
+    ],
+    "strike": [],
+    "narration": "둘째, 3인칭 단수 주어에 쓴 rises, wash에 es를 붙인 washes, have를 바꾼 has는 모두 맞아요. You에는 be동사 are가 맞아요."
+   },
+   {
+    "note": "The girls는 여럿인데 dances ✗ → dance. 틀린 문장은 ④",
+    "highlight": [
+     "The girls"
+    ],
+    "strike": [
+     "dances"
+    ],
+    "narration": "셋째, The girls는 여럿이라 s를 붙이지 않은 동사원형 dance를 써야 하니 4번이 틀린 문장이에요. The girls dance well, 그 여자아이들은 춤을 잘 춰요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The sun rises in the east.  ✗  3인칭 단수 The sun → rise + s, rises가 맞아요",
+    "② You are very kind.  ✗  주어 You → be동사 are가 맞아요",
+    "③ My uncle has a car.  ✗  3인칭 단수 My uncle → have가 아니라 has가 맞아요",
+    "④ The girls dances well.  ✓  복수 The girls → dances가 아니라 dance (틀린 문장)",
+    "⑤ Dad washes the dishes.  ✗  3인칭 단수 Dad → sh로 끝나는 wash + es, washes가 맞아요"
+   ],
+   "narration": "정답은 4번이에요. The girls는 여자아이 여러 명이라 s를 붙이지 않은 동사원형 dance를 써야 해요. 3번 has를 have로 고쳐야 한다고 생각하기 쉽지만, 3인칭 단수 My uncle에는 has가 맞아요. 2번 You는 한 사람이어도 be동사 are를 써요. 5번 Dad에는 wash에 es를 붙인 washes가 맞아요."
+  },
+  "summary": {
+   "card": "여럿인 주어 → 현재형 일반동사는 동사원형 (dance)",
+   "narration": "정답은 4번이에요. 기억할 것, 주어가 여럿이면 현재형 일반동사는 s를 붙이지 않고 동사원형을 써요."
+  },
+  "captions": [
+   "동사의 형태가 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "주어에 맞는 동사 모양",
+   "주어 찾기 → 동사 확인 → The girls dances",
+   "정답 ④ dances → dance",
+   "여럿인 주어 + 동사원형"
+  ],
+  "sec": [
+   10,
+   15,
+   30,
+   34,
+   28,
+   10
+  ]
+ },
+ "F": {
+  "title": "주어에 맞는 현재형 동사의 형태",
+  "intro": "이 문제는 일반동사와 be동사가 주어에 맞는 형태인지 살펴, 동사의 형태가 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사의 형태가 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재형: 주어가 3인칭 단수(he, she, it, Tom) → 일반동사 + s/es",
+    "자음 + y로 끝나면 y를 i로 바꾸고 es (cry → cries) · have → has",
+    "주어가 I, you, we, they, 복수 → 일반동사는 동사원형",
+    "be동사: I → am · 3인칭 단수 → is · you, 복수 → are",
+    "예) The boy is happy. (그 남자아이는 행복해요.)  The boys are happy. (그 남자아이들은 행복해요.)"
+   ],
+   "narration": "현재형은 주로 평소에 하는 일이나 사실을 말하고, 일반동사와 be동사의 모양은 주어에 맞춰 골라요. 주어가 he, she, it이나 Tom처럼 3인칭 단수이면 일반동사에 s나 es를 붙이는데, 자음 다음 y로 끝나면 y를 i로 바꿔 es를 붙이고, have는 has로 써요. 주어가 I, you, we, they이거나 여럿이면 일반동사는 동사원형을 쓰고, be동사는 I에 am, 3인칭 단수에 is, you와 여럿에 are를 써요. 예를 들어 The boy is happy, 그 남자아이는 행복해요. The boys are happy. 그 남자아이들은 행복해요."
+  },
+  "steps": [
+   {
+    "note": "주어 찾기: Jane, My cat, He → 3인칭 단수 / They, The kids → 여럿",
+    "highlight": [
+     "Jane",
+     "My cat",
+     "He",
+     "They",
+     "The kids"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 주어를 찾아 보면 Jane, My cat, He는 3인칭 단수이고, They와 The kids는 여럿이에요."
+   },
+   {
+    "note": "일반동사: sleeps, carries(자음 + y → ies), They watch(동사원형) → 맞다",
+    "highlight": [
+     "sleeps",
+     "carries",
+     "watch"
+    ],
+    "strike": [],
+    "narration": "둘째, 일반동사를 보면 My cat에는 sleeps, They에는 동사원형 watch가 맞아요. He에는 carry의 y를 i로 바꾸고 es를 붙인 carries가 맞아요."
+   },
+   {
+    "note": "be동사: Jane is 맞다 / The kids is ✗ → are. 틀린 문장은 ⑤",
+    "highlight": [
+     "Jane is",
+     "⑤ The kids is in the park."
+    ],
+    "strike": [],
+    "narration": "셋째, be동사를 보면 Jane에는 is가 맞지만, 여럿인 The kids에는 are를 써야 하니 5번이 틀린 문장이에요. The kids are in the park, 아이들은 공원에 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Jane is my sister.  ✗  3인칭 단수 Jane → be동사 is가 맞아요",
+    "② My cat sleeps a lot.  ✗  3인칭 단수 My cat → sleep + s, sleeps가 맞아요",
+    "③ They watch movies on Fridays.  ✗  복수 They → 동사원형 watch가 맞아요",
+    "④ He carries a heavy bag.  ✗  3인칭 단수 He → carry의 y를 i로 바꾼 carries가 맞아요",
+    "⑤ The kids is in the park.  ✓  복수 The kids → is가 아니라 are (틀린 문장)"
+   ],
+   "narration": "정답은 5번이에요. The kids는 아이 여러 명이라 be동사 is가 아니라 are를 써야 해요. 3번 They watch를 watches로 고쳐야 한다고 생각하기 쉽지만, 여럿인 They에는 동사원형 watch가 맞아요. 4번 carries는 carry의 y를 i로 바꾸고 es를 붙인 맞는 형태예요. 1번 Jane은 한 사람이라 is가 맞아요."
+  },
+  "summary": {
+   "card": "be동사: 3인칭 단수 → is · you, 여럿 → are",
+   "narration": "정답은 5번이에요. 기억할 것, be동사는 주어가 3인칭 단수이면 is, you이거나 여럿이면 are를 써요."
+  },
+  "captions": [
+   "동사의 형태가 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "주어에 맞는 동사 모양",
+   "주어 찾기 → 일반동사 → be동사",
+   "정답 ⑤ is → are",
+   "여럿인 주어 + be동사 are"
+  ],
+  "sec": [
+   10,
+   15,
+   30,
+   34,
+   28,
+   10
+  ]
+ }
+}

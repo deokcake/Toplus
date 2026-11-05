@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-21T06:57:14.922Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Model A is heavier than Model C.",
+      "1": "Model D is heavier than Model C.",
+      "2": "Model B is heavier than Model C.",
+      "3": "Model C is heavier than Model B.",
+      "4": "Model B is lighter than Model C."
+    },
+    "expl": "핵심 규칙: 지문의 수치와 배수 표현(twice as ~ as)을 실제 값으로 바꾸고, 질문이 묻는 비교 방향(more/heavier/slower/larger)에 맞는 대상을 찾는다.\n풀이 순서: ① 글의 수치와 비교 표현을 숫자로 정리한다: A 1.2kg, B는 그 두 배인 2.4kg, C 1.5kg, D는 1.2kg과 1.5kg 사이. → ② 질문이 묻는 것(C보다 무거운 노트북)에 맞는 대상을 찾는다. → ③ 1.5kg보다 무거운 것은 B뿐이다. 정답은 ③.\n문장별 판정:\n정답 판단: B는 A의 두 배인 2.4kg으로 C(1.5kg)보다 무겁다. 질문에 맞는 대답이므로 정답은 ③이다.\n선택지 분석:\n① [오답] A(1.2kg)는 C(1.5kg)보다 가볍다. 오답이다.\n② [오답] D는 C보다 가볍다. 오답이다.\n③ [정답] B는 A의 두 배인 2.4kg으로 C(1.5kg)보다 무겁다. 질문에 맞는 대답이므로 정답이다.\n④ [오답] C(1.5kg)는 B(2.4kg)보다 가볍다. 오답이다.\n⑤ [오답] B(2.4kg)는 C보다 무겁다. 방향이 반대이다. 오답이다.",
+    "passage": "Four laptops are being compared at the store. Model A weighs 1.2 kg and is the lightest of the four. Model B is twice as heavy as Model A. Model C weighs 1.5 kg, which is heavier than Model A but lighter than Model B. Model D is lighter than Model C but heavier than Model A.\n질문: Which laptop is heavier than Model C?",
+    "stem": "다음 글을 읽고 질문에 알맞은 대답을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T06:56:55.394Z"
+  },
+  "tab": "fi3f83jb",
+  "updatedAt": "2026-10-21T06:57:14.922Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T06:57:14.922Z",
+      "what": "확인 완료"
+    }
+  }
+}

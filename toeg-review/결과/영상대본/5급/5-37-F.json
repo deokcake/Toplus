@@ -1,0 +1,180 @@
+{
+ "key": "5-37",
+ "type": "F",
+ "grade": 5,
+ "chapter": "CH 4 현재진행형",
+ "title": "we로 묻고 No로 답하는 진행형",
+ "total_sec": 134,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "5급 · CH 4 현재진행형 · 37번 · F 유형\n\n이 문제는 we로 묻는 진행형 의문문과 No로 하는 대답에 알맞은 말을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 4 현재진행형 · 37번 · F 유형",
+     "이 문제는 we로 묻는 진행형 의문문과 No로 하는 대답에 알맞은 말을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 4, 37번 F 유형. 이 문제는 we로 묻는 진행형 의문문과 No로 하는 대답에 알맞은 말을 고르는 문제예요.",
+   "caption": "we 진행형 의문문과 No 대답"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 21,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.\n\nA: ________ we leaving?\nB: No, we ________.\n\n① Are — is\n② Are — aren't\n③ Is — isn't\n④ Are — am\n⑤ Is — are",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.",
+     "A: ________ we leaving?",
+     "B: No, we ________.",
+     "① Are — is",
+     "② Are — aren't",
+     "③ Is — isn't",
+     "④ Are — am",
+     "⑤ Is — are"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. 묻는 말은 빈칸 we leaving, 대답은 No, we 빈칸이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n현재진행형 의문문(지금 ~하고 있니?): be동사 + 주어 + 동사ing ~?\n현재형 be동사는 주어에 맞춰요: I → am, 3인칭 단수 → is, you·복수 → are\n대답도 be동사로: Yes, 주어 + be동사.  /  No, 주어 + be동사 + not.\n대답의 주어는 보통 대명사(it, they, she, we …)\n예) Is Mike sleeping? — No, he isn't. (Mike는 자고 있니? 아니, 자고 있지 않아.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재진행형 의문문(지금 ~하고 있니?): be동사 + 주어 + 동사ing ~?",
+     "현재형 be동사는 주어에 맞춰요: I → am, 3인칭 단수 → is, you·복수 → are",
+     "대답도 be동사로: Yes, 주어 + be동사.  /  No, 주어 + be동사 + not.",
+     "대답의 주어는 보통 대명사(it, they, she, we …)",
+     "예) Is Mike sleeping? — No, he isn't. (Mike는 자고 있니? 아니, 자고 있지 않아.)"
+    ]
+   },
+   "narration": "지금 하고 있는지 물을 때는 be동사를 주어 앞에, 동사의 ing형을 주어 뒤에 써요. 이때 be동사는 I에는 am, 3인칭 단수에는 is, you와 복수에는 are를 써요. 대답도 보통 대명사 주어와 be동사로 하고, No일 때는 be동사 뒤에 not을 붙여요. Is Mike sleeping? Mike는 자고 있니? No, he isn't. 아니, 자고 있지 않아.",
+   "caption": "be동사 + 주어 + 동사ing ~?"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.\n\nA: ________ we leaving?\nB: No, we ________.\n\n① Are — is\n② Are — aren't\n③ Is — isn't\n④ Are — am\n⑤ Is — are",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "we leaving"
+      ],
+      "strike": [
+       "③ Is — isn't",
+       "⑤ Is — are"
+      ],
+      "note": "leaving = ing형 → be동사. 주어 we = 복수 → Are. Is로 시작하는 ③, ⑤ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "No, we ________."
+      ],
+      "strike": [
+       "① Are — is",
+       "④ Are — am"
+      ],
+      "note": "대답 No + 주어 we → are + not = aren't. is를 쓴 ①, am을 쓴 ④ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② Are — aren't"
+      ],
+      "strike": [],
+      "note": "남는 것은 ② → Are we leaving? No, we aren't."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 첫 빈칸 뒤에 ing형 leaving이 있으니 be동사가 오는데, 주어 we는 복수라 Are를 써서 Is로 시작하는 3번과 5번을 지워요. 둘째, 대답이 No이고 주어가 we이니 are 뒤에 not을 붙인 aren't를 써야 해서, is를 쓴 1번과 am을 쓴 4번을 지워요. 셋째, 남는 것은 2번이에요. Are we leaving? 우리 지금 떠나는 거니? No, we aren't. 아니, 떠나지 않아.",
+   "caption": "Are → No, we aren't"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 25,
+   "screen": {
+    "text": "① Are — is  ✗  we에는 is를 쓸 수 없고, No 대답에 not이 없어요\n② Are — aren't  ✓  복수 we → Are, No, we → aren't\n③ Is — isn't  ✗  not은 맞지만 복수 we에 Is, isn't는 안 돼요\n④ Are — am  ✗  am은 I에만 쓰고, No 대답에 not이 없어요\n⑤ Is — are  ✗  we에 Is는 안 되고, No 대답에 not이 없어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Are — is  ✗  we에는 is를 쓸 수 없고, No 대답에 not이 없어요",
+     "② Are — aren't  ✓  복수 we → Are, No, we → aren't",
+     "③ Is — isn't  ✗  not은 맞지만 복수 we에 Is, isn't는 안 돼요",
+     "④ Are — am  ✗  am은 I에만 쓰고, No 대답에 not이 없어요",
+     "⑤ Is — are  ✗  we에 Is는 안 되고, No 대답에 not이 없어요"
+    ]
+   },
+   "narration": "정답은 2번 Are, aren't예요. 3번은 No 대답에 not을 붙인 것은 맞지만, 복수 주어 we에는 Is와 isn't를 쓸 수 없어요. 1번은 Are는 맞지만, we에 is를 썼고 No로 답하면서 not이 없어요. 5번은 we에 Is를 썼고, 대답에도 not이 없어서 틀렸어요.",
+   "caption": "정답 ② Are — aren't"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ② Are — aren't\n\nNo로 답할 때: No, 주어 + 주어에 맞는 be동사 + not (we → aren't)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② Are — aren't",
+     "No로 답할 때: No, 주어 + 주어에 맞는 be동사 + not (we → aren't)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 진행형 의문문에 No로 답할 때는 대답의 주어에 맞는 be동사 뒤에 not을 붙여요.",
+   "caption": "No 대답 = be동사 + not"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.",
+  "passage": "A: ________ we leaving?\nB: No, we ________.",
+  "c": [
+   "Are — is",
+   "Are — aren't",
+   "Is — isn't",
+   "Are — am",
+   "Is — are"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 진행형 의문문은 be동사 + 주어 + -ing ~?이고, 대답도 be동사로 한다. be동사는 각 문장의 주어에 맞춘다.\n풀이 순서: ① 첫 빈칸: 뒤에 -ing형이 있으므로 be동사가 필요하다. 주어가 we이므로 Are. → ② 둘째 빈칸: 대답의 주어가 we이고 No로 답했으므로 aren't. → ③ 정답은 Are — aren't.\n문장별 판정:\n정답 판단: Are — aren't — 의문문에는 주어에 맞는 be동사를 앞에 두고, 짧은 대답에도 같은 주어와 be동사를 사용하므로 'Are - aren't'이 맞다. 따라서 정답은 ②이다.\n선택지 분석:\n① [오답] Are — is — 'Are - is'는 의문문의 주어-be동사 일치 또는 짧은 대답의 대명사·be동사 중 하나가 맞지 않는다.\n② [정답] Are — aren't — 의문문에는 주어에 맞는 be동사를 앞에 두고, 짧은 대답에도 같은 주어와 be동사를 사용하므로 'Are - aren't'이 맞다.\n③ [오답] Is — isn't — 'Is - isn't'는 의문문의 주어-be동사 일치 또는 짧은 대답의 대명사·be동사 중 하나가 맞지 않는다.\n④ [오답] Are — am — 'Are - am'은 의문문의 주어-be동사 일치 또는 짧은 대답의 대명사·be동사 중 하나가 맞지 않는다.\n⑤ [오답] Is — are — 'Is - are'는 의문문의 주어-be동사 일치 또는 짧은 대답의 대명사·be동사 중 하나가 맞지 않는다."
+ }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:09:26.665Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "No other movie is as exciting as this one",
+      "1": "the most exciting movie",
+      "2": "much better than",
+      "3": "more beautifuler than",
+      "4": "as soon as possible"
+    },
+    "expl": "핵심 규칙: 최상급은 the + -est/most + 원급으로, 비교급은 -er/more + 원급 + than으로 쓰며 more와 -er, most와 -est를 겹쳐 쓰지 않는다. bad-worse-worst 같은 불규칙 변화도 확인한다. No other + 단수명사 + 비교급 than(as + 원급 + as)은 최상급의 뜻을 나타낸다.\n풀이 순서: ① 밑줄마다 비교 표현의 형태를 본다. 원급은 as ~ as, 비교급은 -er/more ~ than, 최상급은 the -est/the most ~다. → ② more와 -er, most와 -est를 겹치거나, 불규칙 변화(bad - worse)를 무시하면 틀린다. → ③ 선택지 ④가 틀렸다: more beautifuler가 아니라 more beautiful.\n문장별 판정:\n정답 판단: more beautiful로 써야 하는데 -er을 겹쳐 붙였다.\n선택지 분석:\n① [오답] No other + 단수명사 + as 원급 as로 최상급의 뜻을 바르게 나타냈으므로 오답이다.\n② [오답] the most + 원급의 바른 최상급이므로 오답이다.\n③ [오답] much가 비교급(better)을 바르게 강조했으므로 오답이다.\n④ [정답] more beautiful로 써야 하는데 -er을 겹쳐 붙였다. 어법상 옳지 않으므로 정답이다.\n⑤ [오답] as + 원급 + as possible의 바른 형태이므로 오답이다.",
+    "passage": "A: ①<u>No other movie is as exciting as this one</u>, right?\nB: Yes. It's ②<u>the most exciting movie</u> I have ever seen.\nA: The actors were ③<u>much better than</u> I expected.\nB: And the music was ④<u>more beautifuler than</u> the last film's.\nA: I want to see it again ⑤<u>as soon as possible</u>.",
+    "stem": "다음 대화에서 사용된 표현 중 어법상 옳지 않은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T07:09:28.041Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T07:09:28.041Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T07:09:28.041Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

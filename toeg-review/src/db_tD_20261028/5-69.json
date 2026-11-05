@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T09:36:39.500Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "fourteen — thousand",
+      "1": null,
+      "2": "four — thousand",
+      "3": "forty — hundred",
+      "4": "forty — million"
+    },
+    "expl": "핵심 규칙: 큰 수는 세 자리씩 끊어 읽는다. 34,200은 thirty-four thousand two hundred처럼 앞의 두 자리를 십 단위(twenty, forty, sixty …)로 읽고 thousand를 붙인다. hundred·thousand에는 -s를 붙이지 않는다.\n풀이 순서: ① 쉼표에서 끊는다: 48 / 300. → ② 쉼표 앞의 수를 읽는다: 48은 forty-eight. → ③ 쉼표 자리는 천 단위이므로 thousand다. 정답은 forty — thousand.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ②이다.\n선택지 분석:\n① [오답] (A) fourteen: 48의 앞자리는 십 단위 forty로 읽는다. 따라서 오답이다.\n② [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n③ [오답] (A) four: 48의 앞자리는 십 단위 forty로 읽는다. 따라서 오답이다.\n④ [오답] (B) hundred: 천 단위는 thousand로 읽는다. 따라서 오답이다.\n⑤ [오답] (B) million: 천 단위는 thousand로 읽는다. 따라서 오답이다.",
+    "passage": "48,300은 (   A   )-eight (   B   ) three hundred라고 읽습니다.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T09:36:38.012Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T09:36:39.500Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T09:36:39.500Z",
+      "what": "확인 완료"
+    }
+  }
+}

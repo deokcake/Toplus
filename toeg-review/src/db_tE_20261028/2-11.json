@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-24T00:23:40.517Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "started — worked",
+      "1": "has started — has worked",
+      "2": "started — works",
+      "3": "started — has worked",
+      "4": "has started — worked"
+    },
+    "expl": "핵심 규칙: yesterday, last ~처럼 끝난 과거 시점에는 과거형을 쓰고, since ~, for ~ now처럼 과거부터 지금까지 이어지는 기간에는 현재완료(have/has + 과거분사)를 쓴다.\n풀이 순서: ① 첫째 빈칸 문장의 시간 표현(last month)은 끝난 과거 시점이다. 과거형(started)을 쓰고 현재완료는 쓸 수 없다. → ② 둘째 빈칸 문장의 시간 표현(for four weeks now)은 과거부터 지금까지 이어지는 기간이다. 현재완료(has worked)를 쓴다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: last month에는 과거형(started), for four weeks now에는 현재완료(has worked)를 쓰므로 정답은 ④이다.\n선택지 분석:\n① [오답] 지금까지 이어지는 기간(for four weeks now)에는 worked가 아니라 현재완료를 써야 하므로 오답이다.\n② [오답] 끝난 과거 시점(last month)과 현재완료(has started)를 함께 쓸 수 없으므로 오답이다.\n③ [오답] 지금까지 이어지는 기간(for four weeks now)에는 works가 아니라 현재완료를 써야 하므로 오답이다.\n④ [정답] last month에는 과거형(started), for four weeks now에는 현재완료(has worked)를 쓰므로 정답이다.\n⑤ [오답] 두 빈칸 모두 시제가 맞지 않으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T00:22:58.052Z"
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T00:23:40.518Z",
+      "what": "확인 완료"
+    }
+  }
+}

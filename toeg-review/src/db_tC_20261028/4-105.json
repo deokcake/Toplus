@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T15:04:29.955Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Tom bought a new bike. - 동사 뒤에 목적어가 있는 문장이다.",
+      "1": "The music sounds great. - 동사 뒤에 주어를 설명하는 형용사가 쓰였다.",
+      "2": "I am reading a book. - 현재 진행 중인 동작을 나타내는 문장이다.",
+      "3": "My uncle is a pilot. - 주어를 보충 설명하는 보어가 있는 문장이다.",
+      "4": "The cake looks deliciously. - 부사 deliciously가 동사 looks를 바르게 수식하고 있다."
+    },
+    "expl": "핵심 규칙: be동사·become 뒤의 보어, 감각동사(look, smell, taste, sound, feel) 뒤의 형용사 보어, 타동사 뒤의 목적어, be + -ing 진행형, 자동사 뒤 부사를 구별한다. 감각동사 뒤에는 부사가 아니라 형용사를 쓴다.\n풀이 순서: ① 보기마다 문장과 설명을 따로 본다. 문장이 틀렸는데 옳다고 설명한 것을 찾는다. → ② 감각동사(smell, look, sound, taste, seem) 뒤가 형용사인지 확인한다. 부사가 오면 틀린 문장이다. → ③ 선택지 ⑤는 looks deliciously가 틀린 문장인데 바르다고 설명했다. looks delicious가 맞다. 정답은 ⑤.\n문장별 판정:\n정답 판단: look 뒤 보어 자리에는 형용사 delicious를 써야 하므로 옳지 않은 설명이다.\n선택지 분석:\n① [오답] a new bike가 bought의 목적어이므로 옳은 설명이다. 따라서 오답이다.\n② [오답] sound 뒤에 형용사 보어 great가 쓰였으므로 옳은 설명이다. 따라서 오답이다.\n③ [오답] be + -ing의 현재진행형이므로 옳은 설명이다. 따라서 오답이다.\n④ [오답] a pilot이 주어를 보충 설명하므로 옳은 설명이다. 따라서 오답이다.\n⑤ [정답] look 뒤 보어 자리에는 형용사 delicious를 써야 하므로 옳지 않은 설명이다. 따라서 정답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T15:04:29.075Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T15:04:29.955Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+ "key": "2-5",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "items": {
+  "A": {
+   "stem": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Mary: She gave him a book. 'give'가 4형식 동사로 쓰인 올바른 문장이에요.\nTom: The teacher had the students to study hard. 사역동사 'have' 뒤 목적격 보어 자리에는 원형부정사를 써야 하므로 'to study'가 아니라 'studying'를 써야 해요.\nBruce: They sent a letter to their parents. 'send'는 3형식으로 바꿀 때 간접목적어 앞에 전치사 'for'를 사용해야 하기 때문에 틀린 문장이에요.\nCathy: He got his computer fixing yesterday. 목적어와 목적격 보어의 관계가 수동일 때는 과거분사를 써야 하므로 'fixing'을 'fixed'로 고쳐야 해요.\nDave: It tastes deliciously. 2형식 보어 자리에는 부사가 들어올 수 없고 형용사가 되어야 하므로 'delicious'로 고쳐야 해요.",
+   "c": [
+    "Mary, Tom",
+    "Mary, Cathy",
+    "Bruce, Cathy",
+    "Mary, Tom, Dave",
+    "Mary, Cathy, Dave"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: give·send는 3형식에서 to를 쓴다. 사역동사 have + 목적어 + 동사원형이고, 목적어와 목적격 보어가 수동 관계이면 과거분사를 쓴다. 감각동사 뒤 보어는 형용사다.\n풀이 순서: ① 학생마다 ‘예문이 맞는 문장인가’와 ‘설명이 맞는가’를 따로 따진다. → ② Tom은 원형부정사를 써야 한다면서 studying으로 고치라고 했고, Bruce는 send에 for를 쓴다고 했다(to가 맞다). 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Mary, Cathy, Dave이다.\n문장별 판정: Mary O(give의 4형식). Tom X(원형부정사를 써야 한다면서 studying으로 고치라고 했다. study가 맞다). Bruce X(send는 to를 쓰므로 문장이 옳다). Cathy O(컴퓨터는 고쳐지는 대상이라 fixed). Dave O(tastes 뒤에는 형용사 delicious).\n정답 판단: 옳게 설명한 학생은 Mary, Cathy, Dave다.\n선택지 분석:\n① [오답] 옳게 설명한 학생은 Mary, Cathy, Dave이므로 오답이다.\n② [오답] 옳게 설명한 학생은 Mary, Cathy, Dave이므로 오답이다.\n③ [오답] 옳게 설명한 학생은 Mary, Cathy, Dave이므로 오답이다.\n④ [오답] 옳게 설명한 학생은 Mary, Cathy, Dave이므로 오답이다.\n⑤ [정답] 옳게 설명한 학생은 Mary, Cathy, Dave이므로 정답이다."
+  },
+  "B": {
+   "stem": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Yuna: I sent my cousin a postcard. 'send'가 간접목적어와 직접목적어를 차례로 취한 4형식 문장이에요.\nMinho: Dad made me to wash the car. 사역동사 'make' 뒤 목적격 보어 자리에는 to부정사를 쓰므로 'to wash'가 맞아요.\nSora: I bought a scarf for Mom. 'buy'를 3형식으로 쓸 때는 간접목적어 앞에 전치사 'for'를 쓰므로 옳은 문장이에요.\nJin: We found the door locked. 문이 잠긴 수동의 관계이므로 목적격 보어로 과거분사 'locked'를 쓴 것이 맞아요.\nHana: The soup tastes deliciously. 감각동사 'taste' 뒤에는 부사가 와야 하므로 'deliciously'가 맞아요.",
+   "c": [
+    "Yuna, Sora, Jin",
+    "Sora, Jin, Hana",
+    "Yuna, Minho, Hana",
+    "Minho, Jin",
+    "Yuna, Sora"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: give·send·tell·show·teach는 3형식에서 to를, buy·make는 for를 쓴다. 사역동사 make·have + 목적어 + 동사원형이고, 목적어와 목적격 보어가 수동 관계이면 과거분사를 쓴다. 감각동사 뒤 보어는 형용사다.\n풀이 순서: ① 학생마다 ‘예문이 맞는 문장인가’와 ‘설명이 맞는가’를 따로 따진다. → ② Minho는 사역동사 made 뒤의 to wash가 맞다고 했고, Hana는 tastes 뒤의 부사 deliciously가 맞다고 했다. 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Yuna, Sora, Jin이다.\n문장별 판정:\nYuna O(send의 4형식).\nMinho X(사역동사 made 뒤에는 원형부정사 wash를 쓴다).\nSora O(buy는 for를 쓴다).\nJin O(문이 잠기는 수동 관계라 locked).\nHana X(tastes 뒤에는 형용사 delicious).\n정답 판단: 올바르게 설명한 학생은 Yuna, Sora, Jin이다.\n선택지 분석:\n① [정답] 올바르게 설명한 학생 Yuna, Sora, Jin를 빠짐없이 골랐으므로 정답이다.\n② [오답] Hana는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Yuna를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Minho, Hana는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Sora, Jin를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Minho는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Yuna, Sora를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] 올바르게 설명한 학생 Jin를 빠뜨렸다. 따라서 오답이다."
+  },
+  "C": {
+   "stem": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Mina: She gave me advice. 'give'가 '~에게 …을'의 두 목적어를 취한 4형식 문장이에요.\nLeo: The coach had us run. 사역동사 'have' 뒤 목적격 보어 자리에 원형부정사 'run'을 쓴 옳은 문장이에요.\nJane: Tom sent a gift for Amy. 'send'를 3형식으로 쓸 때는 받는 사람 앞에 'for'를 쓰므로 옳은 문장이에요.\nBen: I got my phone repaired. 휴대폰이 수리되는 수동의 관계이므로 과거분사 'repaired'를 쓴 것이 맞아요.\nSally: The flowers smell sweetly. 감각동사 'smell' 뒤 보어 자리에는 부사 'sweetly'를 써야 해요.",
+   "c": [
+    "Mina, Jane",
+    "Jane, Ben, Sally",
+    "Leo, Ben",
+    "Mina, Leo, Ben",
+    "Mina, Leo, Sally"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: give·send·tell·show·teach는 3형식에서 to를, buy·make는 for를 쓴다. 사역동사 make·have + 목적어 + 동사원형이고, 목적어와 목적격 보어가 수동 관계이면 과거분사를 쓴다. 감각동사 뒤 보어는 형용사다.\n풀이 순서: ① 학생마다 ‘예문이 맞는 문장인가’와 ‘설명이 맞는가’를 따로 따진다. → ② Jane은 send에 for가 맞다고 했고(to가 맞다), Sally는 smell 뒤의 부사 sweetly가 맞다고 했다. 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Mina, Leo, Ben이다.\n문장별 판정:\nMina O(give의 4형식).\nLeo O(사역동사 had 뒤 원형부정사 run).\nJane X(send는 to를 쓴다. sent a gift to Amy).\nBen O(휴대폰이 수리되는 수동 관계라 과거분사).\nSally X(smell 뒤 보어 자리에는 형용사 sweet).\n정답 판단: 올바르게 설명한 학생은 Mina, Leo, Ben이다.\n선택지 분석:\n① [오답] Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Leo, Ben를 빠뜨렸다. 따라서 오답이다.\n② [오답] Jane, Sally는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina, Leo를 빠뜨렸다. 따라서 오답이다.\n③ [오답] 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 올바르게 설명한 학생 Mina, Leo, Ben를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] Sally는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Ben를 빠뜨렸다. 따라서 오답이다."
+  },
+  "D": {
+   "stem": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Tom: We told him the truth. 'tell'이 간접목적어 'him'과 직접목적어 'the truth'를 취한 4형식 문장이에요.\nAmy: Mom made me clean my room. 사역동사 'make' 뒤 목적격 보어로 원형부정사 'clean'을 쓴 옳은 문장이에요.\nJoon: Dad bought a ticket to me. 'buy'를 3형식으로 바꿀 때는 'to'를 쓰므로 옳은 문장이에요.\nMina: She kept the door open. 'open'은 목적어 'the door'의 상태를 설명하는 목적격 보어로 쓰인 형용사예요.\nLeo: The soup tastes well. 감각동사 'taste' 뒤에는 부사 'well'을 써야 하므로 옳은 문장이에요.",
+   "c": [
+    "Tom, Joon",
+    "Amy, Mina",
+    "Joon, Mina, Leo",
+    "Tom, Amy, Mina",
+    "Tom, Amy, Leo"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: give·send·tell·show·teach는 3형식에서 to를, buy·make는 for를 쓴다. 사역동사 make·have + 목적어 + 동사원형이고, 목적어와 목적격 보어가 수동 관계이면 과거분사를 쓴다. 감각동사 뒤 보어는 형용사다.\n풀이 순서: ① 학생마다 ‘예문이 맞는 문장인가’와 ‘설명이 맞는가’를 따로 따진다. → ② Joon은 buy에 to가 맞다고 했고(for가 맞다), Leo는 tastes 뒤에 well이 맞다고 했다. 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Tom, Amy, Mina이다.\n문장별 판정:\nTom O(tell의 4형식).\nAmy O(사역동사 made 뒤 원형부정사 clean).\nJoon X(buy는 for를 쓴다. bought a ticket for me).\nMina O(open은 형용사 목적격 보어).\nLeo X(tastes 뒤에는 형용사 good).\n정답 판단: 올바르게 설명한 학생은 Tom, Amy, Mina이다.\n선택지 분석:\n① [오답] Joon는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Amy, Mina를 빠뜨렸다. 따라서 오답이다.\n② [오답] 올바르게 설명한 학생 Tom를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Joon, Leo는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Tom, Amy를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 올바르게 설명한 학생 Tom, Amy, Mina를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] Leo는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다."
+  },
+  "E": {
+   "stem": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Jane: He showed me the photo of his family. 'show'가 간접목적어 'me'와 직접목적어 'the photo'를 취한 4형식 문장이에요.\nBen: I heard her sing a song in the hall. 지각동사 'hear' 뒤 목적격 보어 자리에 원형부정사 'sing'을 쓴 옳은 문장이에요.\nSora: We made lunch to the children at home. 'make'를 3형식으로 바꿀 때는 'to'를 쓰므로 옳은 문장이에요.\nMin: They elected Tom president of the class. 'president'는 목적어 'Tom'을 보충 설명하는 목적격 보어예요.\nHana: The milk in the fridge smells sourly. 감각동사 'smell' 뒤 보어 자리에는 부사 'sourly'를 쓰는 것이 맞아요.",
+   "c": [
+    "Ben, Min",
+    "Jane, Ben, Hana",
+    "Sora, Min, Hana",
+    "Jane, Sora",
+    "Jane, Ben, Min"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: give·send·tell·show·teach는 3형식에서 to를, buy·make는 for를 쓴다. 사역동사 make·have + 목적어 + 동사원형이고, 목적어와 목적격 보어가 수동 관계이면 과거분사를 쓴다. 감각동사 뒤 보어는 형용사다.\n풀이 순서: ① 학생마다 ‘예문이 맞는 문장인가’와 ‘설명이 맞는가’를 따로 따진다. → ② Sora는 make에 to가 맞다고 했고(for가 맞다), Hana는 smells 뒤의 부사 sourly가 맞다고 했다. 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Jane, Ben, Min이다.\n문장별 판정:\nJane O(show의 4형식).\nBen O(지각동사 heard 뒤 원형부정사 sing).\nSora X(make는 for를 쓴다. made lunch for the children at home).\nMin O(president는 목적격 보어).\nHana X(smells 뒤에는 형용사 sour).\n정답 판단: 올바르게 설명한 학생은 Jane, Ben, Min이다.\n선택지 분석:\n① [오답] 올바르게 설명한 학생 Jane를 빠뜨렸다. 따라서 오답이다.\n② [오답] Hana는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Min를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Sora, Hana는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Jane, Ben를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Sora는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Ben, Min를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 올바르게 설명한 학생 Jane, Ben, Min를 빠짐없이 골랐으므로 정답이다."
+  },
+  "F": {
+   "stem": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Mina: She taught us English at the summer camp. 'teach'가 간접목적어 'us'와 직접목적어 'English'를 취한 4형식 문장이에요.\nLeo: The funny joke made me laugh. 사역동사 'make' 뒤 목적격 보어로 원형부정사 'laugh'를 쓴 옳은 문장이에요.\nJane: I bought flowers to my teacher on her birthday. 'buy'를 3형식으로 바꿀 때는 받는 사람 앞에 'to'를 쓰므로 옳은 문장이에요.\nTom: We found the window broken this morning. 창문이 깨진 수동의 관계이므로 목적격 보어로 과거분사 'broken'을 쓴 것이 맞아요.\nAmy: The room looks quietly at night. 감각동사 'look' 뒤에는 부사 'quietly'를 써야 하므로 옳은 문장이에요.",
+   "c": [
+    "Mina, Leo, Amy",
+    "Mina, Leo, Tom",
+    "Jane, Tom, Amy",
+    "Leo, Tom",
+    "Mina, Jane"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: give·send·tell·show·teach는 3형식에서 to를, buy·make는 for를 쓴다. 사역동사 make·have + 목적어 + 동사원형이고, 목적어와 목적격 보어가 수동 관계이면 과거분사를 쓴다. 감각동사 뒤 보어는 형용사다.\n풀이 순서: ① 학생마다 ‘예문이 맞는 문장인가’와 ‘설명이 맞는가’를 따로 따진다. → ② Jane은 buy에 to가 맞다고 했고(for가 맞다), Amy는 looks 뒤의 부사 quietly가 맞다고 했다. 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Mina, Leo, Tom이다.\n문장별 판정:\nMina O(teach의 4형식).\nLeo O(사역동사 made 뒤 원형부정사 laugh).\nJane X(buy는 for를 쓴다. bought flowers for my teacher on her birthday).\nTom O(창문이 깨진 수동 관계라 broken).\nAmy X(looks 뒤에는 형용사 quiet).\n정답 판단: 올바르게 설명한 학생은 Mina, Leo, Tom이다.\n선택지 분석:\n① [오답] Amy는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Tom를 빠뜨렸다. 따라서 오답이다.\n② [정답] 올바르게 설명한 학생 Mina, Leo, Tom를 빠짐없이 골랐으므로 정답이다.\n③ [오답] Jane, Amy는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina, Leo를 빠뜨렸다. 따라서 오답이다.\n④ [오답] 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Leo, Tom를 빠뜨렸다. 따라서 오답이다."
+  }
+ },
+ "prior_review": {}
+}

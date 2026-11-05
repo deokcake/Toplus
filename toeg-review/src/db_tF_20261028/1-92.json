@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T08:44:42.247Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "If I had a car, I would drive you home.",
+      "1": null,
+      "2": "If she had not missed the bus, she would be here now.",
+      "3": "If we had booked early, we would have gotten better seats.",
+      "4": "If it snowed tomorrow, the school would close."
+    },
+    "expl": "핵심 규칙: 현재 사실의 반대는 if + 과거형, would + 동사원형 / 과거 사실의 반대는 if + had + 과거분사, would have + 과거분사 / 과거 조건과 현재 결과는 if + had + 과거분사, would + 동사원형(혼합가정법)으로 쓴다.\n풀이 순서: ① 문장마다 if절의 동사와 주절의 동사, 그리고 주절의 시간 표현(now, yesterday 등)을 짝짓는다. → ② If + had + 과거분사 뒤의 주절은 과거의 일이면 would have + 과거분사, 지금의 일(now)이면 would + 동사원형이다. → ③ 선택지 ②는 yesterday의 일인데 would not be를 썼으므로 틀렸다(would not have been).\n문장별 판정:\n정답 판단: yesterday의 과거 결과이므로 would not have gotten lost로 써야 한다. 틀린 문장이므로 정답은 ②이다.\n선택지 분석:\n① [오답] 가정법 과거이다. 올바르므로 오답이다.\n② [정답] yesterday의 과거 결과이므로 would not have gotten lost로 써야 한다. 틀린 문장이므로 정답이다.\n③ [오답] 과거 조건 + 현재 결과(now)의 혼합가정법이다. 올바르므로 오답이다.\n④ [오답] 가정법 과거완료이다. 올바르므로 오답이다.\n⑤ [오답] 가정법 과거(미래의 가능성이 낮은 일)이다. 올바르므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T08:44:35.229Z"
+  },
+  "tab": "6l39qm2m",
+  "updatedAt": "2026-10-26T08:44:42.247Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T08:44:42.247Z",
+      "what": "확인 완료"
+    }
+  }
+}

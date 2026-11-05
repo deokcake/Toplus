@@ -1,0 +1,31 @@
+{
+  "by": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-24T03:26:18.561Z",
+  "doneBy": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Tom watch TV every night.",
+      "1": "The girls sings well.",
+      "2": "It rain a lot in July.",
+      "3": "He don't know the answer.",
+      "4": "My uncle teaches math."
+    },
+    "expl": "핵심 규칙: 현재 시제에서 3인칭 단수 주어의 일반동사에는 -s/-es를 붙이고(have → has), 복수 주어에는 동사원형을 쓴다. 3인칭 단수 주어의 부정은 doesn't + 동사원형이다.\n풀이 순서: ① 문장마다 주어가 단수인지 복수인지 가른다. → ② 단수 주어면 동사에 -(e)s(부정은 doesn't), 복수 주어면 동사원형(부정은 don't)인지 본다. → ③ 선택지 ⑤만 단수 주어 My uncle에 teaches를 써서 맞다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 My uncle에 teaches를 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 3인칭 단수 주어 Tom에는 watches를 쓰므로 오답이다.\n② [오답] 복수 주어 The girls에는 sing을 쓰므로 오답이다.\n③ [오답] 3인칭 단수 주어 It에는 rains를 쓰므로 오답이다.\n④ [오답] 3인칭 단수 주어 He의 부정은 doesn't이므로 오답이다.\n⑤ [정답] 3인칭 단수 주어 My uncle에 teaches를 바르게 썼으므로 정답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": "2026-10-24T03:26:17.227Z"
+  },
+  "tab": "ai7fx4gw",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": {
+      "at": "2026-10-24T03:26:18.561Z",
+      "what": "확인 완료"
+    }
+  }
+}

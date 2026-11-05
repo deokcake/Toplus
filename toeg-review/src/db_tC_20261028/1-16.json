@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-21T04:37:04.426Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "The soup is tasting too salty.",
+      "1": "My uncle owns two restaurants in Busan.",
+      "2": "Look! The children played in the snow right now.",
+      "3": "The twins are resembling their father.",
+      "4": "Last year, my cousin belongs to the school band."
+    },
+    "expl": "핵심 규칙: own, know, belong, contain, seem, resemble 같은 상태동사는 보통 진행형으로 쓰지 않는다. 다만 have(먹다), taste(맛보다), think about(곰곰이 생각하다)처럼 동작을 나타낼 때는 진행형을 쓸 수 있다. 또 now, yesterday, last year, tomorrow 같은 시간 표현과 동사의 시제가 맞아야 한다.\n풀이 순서: ① 문장마다 두 가지를 본다. 진행형으로 쓴 동사가 상태동사인지, 시간 표현과 시제가 맞는지. → ② is tasting(맛이 나다), are resembling은 상태동사의 진행형이라 틀렸고, right now + played, Last year + belongs는 시제가 어긋난다. → ③ 남는 ②는 상태동사 own을 현재형으로 썼다.\n문장별 판정:\n정답 판단: ‘My uncle owns two restaurants in Busan.’은 상태동사(own)를 단순현재형으로 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] ‘The soup is tasting too salty.’의 동사 taste: ‘~한 맛이 나다’는 뜻일 때 상태동사라 진행형으로 쓰지 않는다. ‘The soup tastes too salty.’로 고쳐야 하므로 오답이다.\n② [정답] ‘My uncle owns two restaurants in Busan.’은 상태동사(own)를 단순현재형으로 바르게 썼으므로 정답이다.\n③ [오답] ‘Look! The children played in the snow right now.’은 시간 표현(Look!, right now)과 동사의 시제가 맞지 않는다. ‘Look! The children are playing in the snow right now.’로 고쳐야 하므로 오답이다.\n④ [오답] ‘The twins are resembling their father.’의 동사 resemble: ‘닮다’는 상태동사라 진행형으로 쓰지 않는다. ‘The twins resemble their father.’로 고쳐야 하므로 오답이다.\n⑤ [오답] ‘Last year, my cousin belongs to the school band.’은 시간 표현(Last year)과 동사의 시제가 맞지 않는다. ‘Last year, my cousin belonged to the school band.’로 고쳐야 하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 어법상 옳은 문장은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T04:36:42.546Z"
+  },
+  "tab": "fi3f83jb",
+  "updatedAt": "2026-10-21T04:37:04.426Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T04:37:04.426Z",
+      "what": "확인 완료"
+    }
+  }
+}

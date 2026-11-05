@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T08:56:20.737Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "'not'은 watching 뒤에 와서 'Tom is watching not TV.'로 써야 한다.",
+      "1": "Tom이 3인칭 단수이므로 is not 대신 doesn't를 써도 뜻이 같다.",
+      "2": "not을 쓰면 is를 빼고 'Tom not watching TV.'라고 써야 한다.",
+      "3": "'not'이 is 뒤에 와서 'Tom is not watching TV.'가 되고, is not은 isn't로 줄일 수 있다.",
+      "4": "'not'은 TV를 부정하여 'TV가 아닌 다른 것을 보고 있다'는 뜻이다."
+    },
+    "expl": "핵심 규칙: 현재진행형 부정문은 주어 + am/is/are + not + 동사원형-ing로 쓴다. is not은 isn't, are not은 aren't로 줄일 수 있지만 am not은 줄이지 않는다(I'm not).\n풀이 순서: ① 문장에서 not의 자리를 확인한다: is + not + watching. → ② 설명마다 뜻(부정), 자리(be동사 뒤), 줄임꼴, 다른 말로 바꿀 수 있는지를 대어 본다. → ③ 선택지 ④ 자리와 줄임꼴(isn't)을 바르게 말했다. 정답은 ④.\n문장별 판정:\n정답 판단: not의 위치와 축약형을 바르게 설명했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] not은 -ing형 뒤가 아니라 be동사 뒤에 오므로 오답이다.\n② [오답] 진행형 부정문에는 doesn't를 쓰지 않으므로 오답이다.\n③ [오답] 진행형 부정문에서도 be동사 is는 빠지지 않으므로 오답이다.\n④ [정답] not의 위치와 축약형을 바르게 설명했으므로 정답이다.\n⑤ [오답] not은 is watching을 부정해 ‘보고 있지 않다’는 뜻이므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T08:56:18.573Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T08:56:20.737Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:56:20.737Z",
+      "what": "확인 완료"
+    }
+  }
+}

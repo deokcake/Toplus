@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T19:15:22.498Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": "resembles to",
+      "4": "asked about"
+    },
+    "expl": "핵심 규칙: reach, enter, discuss, resemble은 목적어를 전치사 없이 바로 취하는 타동사이다. ask about은 물어보는 주제를 about 뒤에 연결한다.\n풀이 순서: ① 밑줄 친 동사 가운데 전치사가 붙은 것부터 찾는다: ④ resembles to, ⑤ asked about. → ② ask about은 about이 꼭 필요하지만, resemble은 닮은 대상을 바로 목적어로 받는다. → ③ 따라서 ④에서 전치사를 뺀 형태(resembles him)가 바르다.\n문장별 판정:\n정답 판단: “resembles to”는 resemble 뒤에 불필요한 to를 넣었다. “resembles him”으로 고쳐야 한다.\n선택지 분석:\n① [오답] “reached”는 도착 장소 home을 바로 받는다. 올바른 부분이므로 오답이다.\n② [오답] “entered”는 들어간 장소 the kitchen을 바로 목적어로 받는다. 올바른 부분이므로 오답이다.\n③ [오답] “discussed”는 논의 대상 the problem을 바로 목적어로 받는다. 올바른 부분이므로 오답이다.\n④ [정답] resemble은 닮은 대상을 바로 목적어로 받는 타동사이다. to를 빼고 “resembles him”으로 고쳐야 하므로 정답이다.\n⑤ [오답] “asked about”는 about 뒤에 물어본 주제 his day가 온다. 올바른 부분이므로 오답이다.",
+    "passage": "Tom ①<u>reached</u> home late. He ②<u>entered</u> the kitchen and ③<u>discussed</u> the problem with Dad. His little sister, who ④<u>resembles to</u> him a lot, ⑤<u>asked about</u> his day.",
+    "stem": "다음 문장의 밑줄 친 부분 중 어법상 어색한 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:15:10.372Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:15:22.498Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:15:22.498Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T05:37:42.671Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 장소도치와 there be에서는 동사 뒤의 실제 주어에 수를 맞춘다. 첫 주어는 two sleeping cats, 둘째 주어는 a notebook이다. 장소도치에는 be뿐 아니라 stand 같은 자동사도 쓸 수 있다.\n풀이 순서: ① 두 문장 모두 주어가 동사 뒤에 있다. 빈칸 뒤에서 진짜 주어를 찾는다. → ② 첫째 문장의 주어(two sleeping cats - 복수)와 둘째 문장의 주어(a notebook - 단수)의 수를 가른다. → ③ 순서대로 맞춘 are - is를 고른다.\n문장별 판정:\n정답 판단: 첫 빈칸의 실제 주어 two sleeping cats는 복수이므로 are의 수 일치는 맞다. 둘째 빈칸의 실제 주어 a notebook은 단수이다. is가 맞다.\n선택지 분석:\n① [오답] 첫 빈칸의 실제 주어 two sleeping cats는 복수이므로 stands의 수 일치는 맞지 않는다. stand도 장소도치에 쓸 수 있는 자동사이다. stand로 고친다. 둘째 빈칸의 실제 주어 a notebook은 단수이다. is가 맞다.\n② [오답] 첫 빈칸의 실제 주어 two sleeping cats는 복수이므로 are의 수 일치는 맞다. 둘째 빈칸의 실제 주어 a notebook은 단수이다. are는 수가 맞지 않으므로 is로 고친다.\n③ [오답] 첫 빈칸의 실제 주어 two sleeping cats는 복수이므로 is의 수 일치는 맞지 않는다. are로 고친다. 둘째 빈칸의 실제 주어 a notebook은 단수이다. is가 맞다.\n④ [오답] 첫 빈칸의 실제 주어 two sleeping cats는 복수이므로 is의 수 일치는 맞지 않는다. are로 고친다. 둘째 빈칸의 실제 주어 a notebook은 단수이다. are는 수가 맞지 않으므로 is로 고친다.\n⑤ [정답] 첫 빈칸의 실제 주어 two sleeping cats는 복수이므로 are의 수 일치는 맞다. 둘째 빈칸의 실제 주어 a notebook은 단수이다. is가 맞다.",
+    "passage": "- Under the table ________ two sleeping cats.\n- There ________ a notebook on the chair.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T05:37:41.357Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T05:37:42.671Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T05:37:42.671Z",
+      "what": "확인 완료"
+    }
+  }
+}

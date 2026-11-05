@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-09-30T05:32:22.771Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "A, B, C",
+      "1": "B, C, F",
+      "2": "A, D, E",
+      "3": "A, C, E",
+      "4": "B, D, F"
+    },
+    "expl": "[선택지별 구체 해설]\n핵심 규칙: 조동사 뒤 원형, would rather A than B의 원형 병렬, used to + 원형과 be used to + 동명사를 구별한다. 옳고 틀린 문장을 먼저 판정한 뒤 틀린 문장을 빠짐없이 선택한다.\n문장별 판정:\nA) 틀림: would rather A than B에서 than 뒤에도 동사원형을 쓴다. than staying → than stay.\nB) 옳음: may have left는 이미 떠났을 가능성을 나타낸다.\nC) 옳음: cannot be joking은 농담일 가능성을 강하게 부정한다.\nD) 틀림: be used to의 to는 전치사라 뒤에 동명사가 온다. are used to study → are used to studying.\nE) 틀림: 과거의 상태를 나타내는 used to 뒤에는 원형 be가 필요하다. used to being → used to be.\nF) 옳음: must 뒤에 동사원형 finish를 썼다.\n정답 판단: 어법상 틀린 문장은 A, D, E이다.\n① [오답] B, C는 틀린 문장이 아니고, 틀린 문장 D, E를 빠뜨렸다. 따라서 오답이다.\n② [오답] B, C, F는 틀린 문장이 아니고, 틀린 문장 A, D, E를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 틀린 문장 A, D, E를 빠짐없이 골랐으므로 정답이다.\n④ [오답] C는 틀린 문장이 아니고, 틀린 문장 D를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] B, F는 틀린 문장이 아니고, 틀린 문장 A, E를 빠뜨렸다. 따라서 오답이다.\n풀이 순서: 발문의 의미·형태 조건을 확인하고 각 보기의 실제 표현을 대조한다. 오류가 있는 부분은 그 이유와 교정형을 확인한 뒤 정답이 하나인지 점검한다.",
+    "passage": "A) Mina would rather travel than staying home.\nB) Tom may have left already.\nC) He cannot be joking.\nD) We are used to study together.\nE) There used to being an old bridge here.\nF) Jane must finish the work.",
+    "stem": "다음 중 어법상 틀린 문장들로만 구성된 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-09-30T05:32:18.001Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-09-30T04:40:17.102Z",
+      "text": "각 선택지에 3개의 문장을 가지도록 수정 필요"
+    }
+  },
+  "tab": "z3ehxzzk",
+  "updatedAt": "2026-09-30T05:32:22.771Z",
+  "verdict": null,
+  "verdictAt": "2026-09-30T05:32:20.895Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-09-30T05:32:22.771Z",
+      "what": "확인 완료"
+    }
+  }
+}

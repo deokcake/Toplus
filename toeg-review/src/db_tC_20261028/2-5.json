@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T02:35:44.366Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": "Mina, Leo, Ben",
+      "4": null
+    },
+    "expl": "핵심 규칙: give·send·tell·show·teach는 3형식에서 to를, buy·make는 for를 쓴다. 사역동사 make·have + 목적어 + 동사원형이고, 목적어와 목적격 보어가 수동 관계이면 과거분사를 쓴다. 감각동사 뒤 보어는 형용사다.\n풀이 순서: ① 학생마다 ‘예문이 맞는 문장인가’와 ‘설명이 맞는가’를 따로 따진다. → ② Jane은 send에 for가 맞다고 했고(to가 맞다), Sally는 smell 뒤의 부사 sweetly가 맞다고 했다. 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Mina, Leo, Ben이다.\n문장별 판정:\nMina O(give의 4형식).\nLeo O(사역동사 had 뒤 원형부정사 run).\nJane X(send는 to를 쓴다. sent a gift to Amy).\nBen O(휴대폰이 수리되는 수동 관계라 과거분사).\nSally X(smell 뒤 보어 자리에는 형용사 sweet).\n정답 판단: 올바르게 설명한 학생은 Mina, Leo, Ben이다.\n선택지 분석:\n① [오답] Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Leo, Ben를 빠뜨렸다. 따라서 오답이다.\n② [오답] Jane, Sally는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina, Leo를 빠뜨렸다. 따라서 오답이다.\n③ [오답] 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 올바르게 설명한 학생 Mina, Leo, Ben를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] Sally는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Ben를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "Mina: She gave me advice. 'give'가 '~에게 …을'의 두 목적어를 취한 4형식 문장이에요.\nLeo: The coach had us run. 사역동사 'have' 뒤 목적격 보어 자리에 원형부정사 'run'을 쓴 옳은 문장이에요.\nJane: Tom sent a gift for Amy. 'send'를 3형식으로 쓸 때는 받는 사람 앞에 'for'를 쓰므로 옳은 문장이에요.\nBen: I got my phone repaired. 휴대폰이 수리되는 수동의 관계이므로 과거분사 'repaired'를 쓴 것이 맞아요.\nSally: The flowers smell sweetly. 감각동사 'smell' 뒤 보어 자리에는 부사 'sweetly'를 써야 해요.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T02:35:11.026Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T02:35:44.366Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T02:35:44.366Z",
+      "what": "확인 완료"
+    }
+  }
+}

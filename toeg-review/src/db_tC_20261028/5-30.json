@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T02:26:07.793Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "(가), (라)",
+      "1": "(나), (다)",
+      "2": "(가), (마)",
+      "3": "(다), (라)",
+      "4": "(나), (마)"
+    },
+    "expl": "핵심 규칙: Did/didn't/Does 뒤에는 동사원형을 쓰고, be동사는 주어에 맞춰 was/were를 쓰며 일반동사와 함께 쓰지 않는다. 불규칙 동사는 정해진 과거형을 쓴다.\n풀이 순서: ① did/didn't/Does가 있는 문장은 뒤가 동사원형인지 본다. → ② be동사 문장은 주어와 수가 맞는지, 일반동사와 겹쳐 쓰지 않았는지 본다. → ③ (가) Did ~ called(call), (라) Jane were(was)가 틀렸다. 정답은 (가), (라).\n문장별 판정:\n(가) X. Did 뒤에는 동사원형 call을 써야 한다.\n(나) O. doesn't 뒤에 동사원형 like를 썼다.\n(다) O. play의 과거형 played를 썼다.\n(라) X. 단수 주어 Jane에는 was를 써야 한다.\n(마) O. Did 뒤에 동사원형 find를 썼다.\n정답 판단: 어법상 틀린 문장은 (가), (라)이다.\n선택지 분석:\n① [정답] 틀린 문장 (가), (라)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (나), (다)는 틀린 문장이 아니고, 틀린 문장 (가), (라)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (마)는 틀린 문장이 아니고, 틀린 문장 (라)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (다)는 틀린 문장이 아니고, 틀린 문장 (가)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (나), (마)는 틀린 문장이 아니고, 틀린 문장 (가), (라)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(가) Did she called you yesterday?\n(나) Tom doesn't like carrots.\n(다) We played tennis after school.\n(라) Jane were at the library last night.\n(마) Did they find the key?",
+    "stem": "다음 중 어법상 틀린 문장으로만 짝지어진 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:26:05.761Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:26:07.793Z",
+      "what": "확인 완료"
+    }
+  }
+}

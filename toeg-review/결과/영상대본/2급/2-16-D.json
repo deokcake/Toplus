@@ -1,0 +1,177 @@
+{
+ "key": "2-16",
+ "type": "D",
+ "grade": 2,
+ "chapter": "CH 2 시제",
+ "title": "상태동사 own은 단순현재로",
+ "total_sec": 136,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "2급 · CH 2 시제 · 16번 · D 유형\n\n이 문제는 진행형으로 쓴 상태동사 own을 바르게 고치는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 2 시제 · 16번 · D 유형",
+     "이 문제는 진행형으로 쓴 상태동사 own을 바르게 고치는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 2, 16번 D 유형. 이 문제는 진행형으로 쓴 상태동사 own을 바르게 고치는 문제예요.",
+   "caption": "상태동사 own 바르게 고치기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 22,
+   "screen": {
+    "text": "다음 밑줄 친 부분을 바르게 고친 것으로 알맞은 것은?\n\nWe <u>are owning</u> this apartment near the river.\n\n① owning\n② own\n③ are owned\n④ are own\n⑤ owns",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 밑줄 친 부분을 바르게 고친 것으로 알맞은 것은?",
+     "We <u>are owning</u> this apartment near the river.",
+     "① owning",
+     "② own",
+     "③ are owned",
+     "④ are own",
+     "⑤ owns"
+    ]
+   },
+   "narration": "밑줄 친 부분을 바르게 고친 것을 고르세요. We are owning this apartment near the river. 강 근처의 이 아파트를 우리가 가지고 있다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n상태동사: own, know, love, need처럼 마음·생각·소유·상태를 나타내는 동사\n상태동사는 보통 진행형(be동사 + ing형)으로 쓰지 않고 단순현재로 써요.\n일반동사 단순현재는 주어에 맞춰요: 3인칭 단수 → 대부분 s·es (have → has), 다른 주어 → 동사원형\n예) Mina knows my name. (미나는 내 이름을 알아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "상태동사: own, know, love, need처럼 마음·생각·소유·상태를 나타내는 동사",
+     "상태동사는 보통 진행형(be동사 + ing형)으로 쓰지 않고 단순현재로 써요.",
+     "일반동사 단순현재는 주어에 맞춰요: 3인칭 단수 → 대부분 s·es (have → has), 다른 주어 → 동사원형",
+     "예) Mina knows my name. (미나는 내 이름을 알아요.)"
+    ]
+   },
+   "narration": "own, know, love, need처럼 마음, 생각, 소유, 상태를 나타내는 동사를 상태동사라고 해요. 상태동사는 동작이 아니라서 보통 진행형으로 쓰지 않고 단순현재로 써요. 일반동사의 단순현재는 주어에 맞춰서, 3인칭 단수 주어에는 대부분 s나 es를 붙이고 다른 주어에는 동사원형을 써요. Mina knows my name. 미나는 내 이름을 알아요.",
+   "caption": "상태동사는 보통 단순현재로"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 39,
+   "screen": {
+    "text": "다음 밑줄 친 부분을 바르게 고친 것으로 알맞은 것은?\n\nWe <u>are owning</u> this apartment near the river.\n\n① owning\n② own\n③ are owned\n④ are own\n⑤ owns",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "<u>are owning</u>"
+      ],
+      "strike": [],
+      "note": "밑줄 are owning = 진행형. own(소유하다)은 소유의 상태 → 단순현재로 고친다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① owning",
+       "③ are owned",
+       "④ are own"
+      ],
+      "note": "단순현재 동사가 아닌 것 지우기: ing형만 남은 owning, 수동태 are owned, be동사 + 동사원형 are own"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "We",
+       "② own"
+      ],
+      "strike": [
+       "⑤ owns"
+      ],
+      "note": "주어 We → 동사원형 own (owns는 3인칭 단수 주어에 쓰는 꼴)"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 밑줄 친 are owning은 진행형인데, own은 무언가를 가지고 있는 소유의 상태를 나타내는 상태동사라서 단순현재로 고쳐야 해요. 둘째, ing형만 남은 owning, 소유된다는 뜻의 수동태 are owned, be동사와 동사원형을 나란히 쓴 are own은 단순현재 동사가 아니라서 지워요. 셋째, 주어 We에는 3인칭 단수 주어에 쓰는 owns가 아니라 동사원형 own을 써요. We own this apartment near the river. 우리는 강 근처의 이 아파트를 가지고 있어요.",
+   "caption": "진행형 → 단순현재 → 주어 We"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① owning  ✗  ing형만으로는 동사 자리를 채울 수 없어요\n② own  ✓  상태동사를 단순현재로, 주어 We에 맞는 동사원형\n③ are owned  ✗  ‘소유된다’는 수동태라 뜻이 달라져요\n④ are own  ✗  be동사 are와 동사원형 own을 나란히 쓰지 않아요\n⑤ owns  ✗  owns는 3인칭 단수 주어에 쓰는 꼴, 주어 We와 안 맞아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① owning  ✗  ing형만으로는 동사 자리를 채울 수 없어요",
+     "② own  ✓  상태동사를 단순현재로, 주어 We에 맞는 동사원형",
+     "③ are owned  ✗  ‘소유된다’는 수동태라 뜻이 달라져요",
+     "④ are own  ✗  be동사 are와 동사원형 own을 나란히 쓰지 않아요",
+     "⑤ owns  ✗  owns는 3인칭 단수 주어에 쓰는 꼴, 주어 We와 안 맞아요"
+    ]
+   },
+   "narration": "정답은 2번 own이에요. 1번 owning은 are만 지운 꼴인데, ing형만으로는 동사 자리를 채울 수 없어요. 5번 owns는 3인칭 단수 주어에 쓰는 꼴이라 We와 맞지 않아요. 4번 are own은 be동사와 동사원형을 나란히 써서 틀렸어요.",
+   "caption": "정답 ② own"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② own\n\n상태동사는 보통 진행형으로 쓰지 않고, 주어에 맞는 단순현재로 써요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② own",
+     "상태동사는 보통 진행형으로 쓰지 않고, 주어에 맞는 단순현재로 써요."
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, own 같은 상태동사는 보통 진행형 대신 주어에 맞는 단순현재로 써요.",
+   "caption": "상태동사 + 주어에 맞는 단순현재"
+  }
+ ],
+ "source": {
+  "stem": "다음 밑줄 친 부분을 바르게 고친 것으로 알맞은 것은?",
+  "passage": "We <u>are owning</u> this apartment near the river.",
+  "c": [
+   "owning",
+   "own",
+   "are owned",
+   "are own",
+   "owns"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 상태를 나타내는 동사(know, believe, own, need, resemble 등)는 보통 진행형으로 쓰지 않고 단순현재로 쓴다. 상태동사도 특정 의미·문맥에서는 진행형으로 쓰일 수 있으므로 진행형을 언제나 비문이라고 단정하지 않는다. 단순현재형은 주어와 수를 일치시킨다.\n풀이 순서: ① 밑줄의 동사(own)가 동작인지 상태인지 본다. ‘소유하다’는 상태를 나타내므로 진행형으로 쓰지 않는다. → ② 진행형을 단순현재로 고친다. be동사 + 동사원형, 수동태, -ing만 남긴 보기는 지운다. → ③ 주어(We)에 수를 맞추면 own이다.\n문장별 판정:\n정답 판단: 주어 We에 맞는 own의 단순현재형은 own이다. 완성문: We own this apartment.\n선택지 분석:\n① [오답] owning만으로는 문장의 정형동사가 되지 않는다. 단순현재 동사가 필요하다. 완성문: We own this apartment.\n② [정답] 주어 We에 맞는 own의 단순현재형은 own이다. 완성문: We own this apartment.\n③ [오답] are owned는 수동형이다. 주어가 직접 느끼거나 알고 소유하는 원문의 능동 상태를 나타내지 않는다. 완성문: We own this apartment.\n④ [오답] be동사 are와 동사원형 own을 이렇게 직접 연결할 수 없다. 완성문: We own this apartment.\n⑤ [오답] 단순현재 동사의 수를 주어 We에 맞추면 own이다. owns는 주어와 일치하지 않는다. 완성문: We own this apartment."
+ }
+}

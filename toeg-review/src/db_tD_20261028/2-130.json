@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:04:00.224Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 현재 반대 사실의 소망과 비교에는 과거형, 이미 끝난 과거의 후회에는 had + 과거분사를 쓴다. 과거 조건의 결과는 would have + 과거분사로 나타낸다.\n풀이 순서: ① I wish, as if, If 뒤의 동사 형태를 본다. 지금 일의 반대는 과거형(were, could), 지난 일의 반대는 had + 과거분사다. → ② 문장 속 시간 표현(now, yesterday, last year 등)과 견주고, 과거분사의 형태도 확인한다. → ③ 다섯째만 틀렸다. wishes 뒤에는 is가 아니라 were를 쓴다. 옳은 문장은 4개이다.\n문장별 판정:\n첫째 O. 지난 일에 대한 아쉬움을 I wish + had + 과거분사로 나타냈다.\n둘째 O. wish 뒤 현재 사실의 반대에 could를 썼다.\n셋째 O. as if + were로 현재 사실의 반대를 나타냈다.\n넷째 O. 가정법 과거완료이다.\n다섯째 X. wish 뒤 현재 사실의 반대에는 were를 쓴다(Jane wishes she were at home).\n정답 판단: 어법상 옳은 문장은 첫째~넷째로 4개이다.\n선택지 분석:\n① [오답] 어법상 옳은 문장은 첫째~넷째로 4개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 어법상 옳은 문장은 첫째~넷째로 4개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 어법상 옳은 문장은 첫째~넷째로 4개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [정답] 어법상 옳은 문장은 첫째~넷째로 4개이다. 이 보기의 4개는 실제 개수와 일치한다.\n⑤ [오답] 어법상 옳은 문장은 첫째~넷째로 4개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "- I wish I had seen the concert with you last night.\n- She wishes she could drive her father's new car.\n- Tom speaks as if he were the boss of our team.\n- If they had left home earlier, they would have arrived on time.\n- Jane wishes she is at home with her family now.",
+    "stem": "다음 중 어법상 옳은 문장의 개수는?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T17:10:43.448Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T17:10:49.190Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:04:00.224Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:03:51.866Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:04:00.224Z",
+      "what": "확인 완료"
+    }
+  }
+}

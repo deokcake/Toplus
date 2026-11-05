@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:17:38.462Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "How tall",
+      "1": "How wide",
+      "2": null,
+      "3": "How early",
+      "4": "How heavy"
+    },
+    "expl": "핵심 규칙: How + 형용사·부사는 정도를 묻는다: How wide(얼마나 넓은), How tall(얼마나 키가 큰), How early(얼마나 일찍), How heavy(얼마나 무거운), How long(얼마나 긴·오래).\n풀이 순서: ① 문장마다 우리말의 ‘얼마나 ~’에 맞는 How + 형용사·부사를 채운다. → ② ⓐ How wide, ⓑ How tall, ⓒ How early, ⓓ How heavy. → ③ 네 문장 어디에도 쓰이지 않은 How long가 정답이다.\n문장별 판정:\n정답 판단: ‘얼마나 긴·오래’를 묻는 문장이 없어 쓰이지 않으므로 정답은 ③이다.\n선택지 분석:\n① [오답] ⓑ(키가 얼마나 크니)에 쓰이므로 오답이다.\n② [오답] ⓐ(얼마나 넓니)에 쓰이므로 오답이다.\n③ [정답] ‘얼마나 긴·오래’를 묻는 문장이 없어 쓰이지 않으므로 정답이다.\n④ [오답] ⓒ(얼마나 일찍)에 쓰이므로 오답이다.\n⑤ [오답] ⓓ(얼마나 무겁니)에 쓰이므로 오답이다.",
+    "passage": "ⓐ 이 다리는 얼마나 넓니?\n→ _____ _____ is the bridge?\nⓑ 너의 형은 키가 얼마나 크니?\n→ _____ _____ is your brother?\nⓒ 너는 얼마나 일찍 일어나니?\n→ _____ _____ do you get up?\nⓓ 이 상자는 얼마나 무겁니?\n→ _____ _____ is the box?",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T08:17:37.825Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T08:17:38.462Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T08:17:38.462Z",
+      "what": "확인 완료"
+    }
+  }
+}

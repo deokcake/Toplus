@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-21T05:45:05.794Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "The teacher prevents students from using phones.",
+      "1": "The teacher prevents students uses from phones.",
+      "2": "The teacher prevents from using students phones.",
+      "3": "The teacher prevents students from uses phones.",
+      "4": "The teacher prevents phones from using students."
+    },
+    "expl": "핵심 규칙: prevent + 목적어 + from + 동명사는 ‘(목적어)가 ~하지 못하게 하다’라는 뜻이다. from 바로 뒤에 동명사를 둔다.\n풀이 순서: ① 낱말에 prevent와 from이 있으므로 ‘prevent + 목적어 + from + -ing’ 틀을 떠올린다. → ② 우리말에서 하지 못하게 되는 대상(students)을 목적어로, 하지 못하게 되는 행동(use phones)을 from 뒤에 둔다. from 뒤이므로 동사를 -ing형(using)으로 바꾼다. → ③ 완성하면 The teacher prevents students from using phones.\n문장별 판정:\n정답 판단: prevent + students + from + using의 어순과 형태가 바르므로 정답은 ①이다.\n선택지 분석:\n① [정답] prevent + students + from + using의 어순과 형태가 바르므로 정답이다.\n② [오답] from이 동사 뒤에 왔고 use를 uses로 바꿔 동명사도 아니므로 오답이다.\n③ [오답] 목적어 students가 from using 뒤로 가서 어순이 틀렸으므로 오답이다.\n④ [오답] from 뒤에는 동명사 using을 써야 하는데 3인칭 단수형 uses를 썼으므로 오답이다.\n⑤ [오답] phones와 students의 자리가 바뀌어 뜻이 맞지 않으므로 오답이다.",
+    "passage": "교사는 학생들이 휴대폰을 사용하지 못하게 한다.\n(prevents / from / students / use / phones / the teacher)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성할 때, 가장 알맞은 것을 고르시오. (단, 주어진 단어 중 한 단어의 형태를 알맞게 바꾸어 사용할 것.)"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T05:44:45.888Z"
+  },
+  "tab": "fi3f83jb",
+  "updatedAt": "2026-10-21T05:45:05.794Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T05:45:05.794Z",
+      "what": "확인 완료"
+    }
+  }
+}

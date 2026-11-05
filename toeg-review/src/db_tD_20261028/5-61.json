@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T09:34:59.224Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "three - ninth - sixth",
+      "1": "third - ninth - sixth",
+      "2": "three - nine - sixth",
+      "3": "three - ninth - six",
+      "4": "third - nine - six"
+    },
+    "expl": "핵심 규칙: 개수는 기수(one, two, three …)로, 순서·몇 번째·층·생일은 서수(first, second, third, fourth … twelfth)로 나타낸다.\n풀이 순서: ① 첫 문장은 개수를 말한다 → 기수 three. → ② 둘째 문장은 몇 번째 생일인지 말한다 → 서수 ninth. → ③ 셋째 문장은 몇 층인지 말한다 → 서수 sixth. 정답은 ①.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n② [오답] 첫째 빈칸 third: 변의 개수는 기수 three로 나타낸다. 따라서 오답이다.\n③ [오답] 둘째 빈칸 nine: 몇 번째 생일은 서수 ninth로 나타낸다. 따라서 오답이다.\n④ [오답] 셋째 빈칸 six: 층은 서수 sixth로 나타낸다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 third: 변의 개수는 기수 three로 나타낸다. 둘째 빈칸 nine: 몇 번째 생일은 서수 ninth로 나타낸다. 셋째 빈칸 six: 층은 서수 sixth로 나타낸다. 따라서 오답이다.",
+    "passage": "· A triangle has _______ sides.\n· This is my cousin's _______ birthday party.\n· We live on the _______ floor.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T09:34:56.884Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T09:34:59.224Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T09:34:59.224Z",
+      "what": "확인 완료"
+    }
+  }
+}

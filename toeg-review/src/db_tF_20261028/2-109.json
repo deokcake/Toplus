@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T11:50:37.521Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "out of - across - under",
+      "1": "out of - among - under",
+      "2": "at - across - under",
+      "3": "out of - across - among",
+      "4": "into - between - under"
+    },
+    "expl": "핵심 규칙: 이동 전치사는 out of(밖으로), into(안으로), across(가로질러), along(따라), over(넘어), up/down(위로/아래로), under(아래로), between(둘 사이), among(여럿 사이)을 구별한다. 세 자리가 모두 문장의 뜻과 맞아야 한다.\n풀이 순서: ① 동사와 장소를 짝지어 움직임을 그려 본다. → ② 가방 ‘밖으로’ 굴러 나와(out of), 바닥을 ‘가로질러’ 튀어(across), 소파 ‘아래로’ 들어갔다(under). → ③ 순서대로 out of - across - under이다.\n문장별 판정:\n정답 판단: 가방 ‘밖으로’ out of, 바닥을 ‘가로질러’ across, 소파 ‘아래로’ under이다.\n선택지 분석:\n① [정답] out of - across - under: 모든 자리가 알맞으므로 정답이다.\n② [오답] 둘째 빈칸 among: 바닥은 여럿이 아니므로 among을 쓸 수 없다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 at: rolled at the bag이라는 표현은 쓰지 않는다. 따라서 오답이다.\n④ [오답] 셋째 빈칸 among: 소파 하나 아래로 들어가는 것이므로 among은 맞지 않는다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 into: 공이 가방 ‘안으로’ 굴러 들어간 뒤 바닥을 튀어 간다는 흐름과 맞지 않는다. 둘째 빈칸 between: 바닥 ‘사이’를 튀어 간다는 뜻은 통하지 않는다. 따라서 오답이다.",
+    "passage": "The ball rolled ________ the bag, bounced ________ the floor, and went ________ the sofa.",
+    "stem": "다음 문장의 빈칸에 들어갈 전치사가 순서대로 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T11:50:04.721Z"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T11:50:37.521Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T11:50:37.521Z",
+      "what": "확인 완료"
+    }
+  }
+}

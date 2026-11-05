@@ -1,0 +1,37 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:32:25.862Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "I did want to help you with your science project.",
+      "1": "I does want to help you with your science project.",
+      "2": "I do want to help you with your science project.",
+      "3": "I am want to help you with your science project.",
+      "4": "I do wants to help you with your science project."
+    },
+    "expl": "핵심 규칙: 동사를 강조할 때는 do/does/did + 동사원형을 쓴다. 시제와 인칭은 do/does/did가 나타내고 뒤의 동사는 원형으로 쓴다.\n풀이 순서: ① 원래 문장의 동사(want)에서 시제와 주어를 확인한다. 현재형이고 주어가 I이므로 do를 쓴다. → ② do/does/did를 동사 앞에 두고 동사는 원형(want)으로 바꾼다. → ③ 시제가 달라졌거나 동사가 원형이 아닌 보기를 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: 현재형 want를 강조하므로 주어 I에 맞는 do를 동사 앞에 두고 동사는 원형 want로 쓴다. 정답은 ③이다.\n선택지 분석:\n① [오답] did는 과거라 현재형 문장의 시제가 바뀌므로 오답이다.\n② [오답] 주어 I에는 does를 쓰지 않으므로 오답이다.\n③ [정답] 현재형이고 주어가 I이고, do + 동사원형 want로 바르게 강조했으므로 정답이다.\n④ [오답] be동사 am으로는 일반동사를 강조할 수 없으므로 오답이다.\n⑤ [오답] do 뒤에는 동사원형을 써야 하는데 wants를 썼으므로 오답이다.",
+    "passage": "I want to help you with your science project.",
+    "stem": "다음 문장을 동사 강조 문장으로 바르게 바꾼 것은?"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T09:55:52.853Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:32:25.862Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:32:21.313Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:32:25.862Z",
+      "what": "확인 완료"
+    }
+  }
+}

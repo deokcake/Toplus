@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:10:08.037Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "carry",
+      "1": "is carries",
+      "2": "carries",
+      "3": "carrying",
+      "4": "is carry"
+    },
+    "expl": "핵심 규칙: 현재 시제에서 3인칭 단수 주어의 일반동사에는 -s/-es를 붙이고(자음 + y는 y를 i로 바꾸고 -es), 그 밖의 주어에는 동사원형을 쓴다. be동사는 I에 am, 3인칭 단수에 is, you·복수에 are를 쓴다.\n풀이 순서: ① 주어를 본다: Jane. 3인칭 단수다. → ② 일반동사 현재형에 -(e)s를 붙인다: carry는 ‘자음 + y’로 끝나므로 carries. → ③ 정답은 carries.\n문장별 판정:\n정답 판단: 3인칭 단수 주어라 -s형(carries)을 쓰므로 정답은 ③이다.\n선택지 분석:\n① [오답] 3인칭 단수 주어에는 -s/-es를 붙여야 하므로 오답이다.\n② [오답] 일반동사 앞에 be동사를 쓸 수 없으므로 오답이다.\n③ [정답] 3인칭 단수 주어라 -s형(carries)을 쓰므로 정답이다.\n④ [오답] -ing형만으로는 동사 자리에 쓸 수 없으므로 오답이다.\n⑤ [오답] 일반동사 앞에 be동사를 쓸 수 없으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:10:05.740Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:10:08.037Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:10:08.037Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T08:25:48.812Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "The movie was boring ________ I fell asleep.",
+      "1": "Jane smiled ________ she got a present.",
+      "2": "My bag was heavy ________ Dad carried it.",
+      "3": "I lost my key ________ I couldn't open the door.",
+      "4": "The soup was hot ________ I waited a minute."
+    },
+    "expl": "핵심 규칙: because는 뒤에 이유(~ 때문에)를, so는 뒤에 결과(그래서)를 이끈다.\n풀이 순서: ① 문장마다 빈칸 뒤가 앞일의 이유인지 결과인지 가른다. → ② 이유면 because, 결과면 so다. ②만 뒤(선물을 받았다)가 앞(웃었다)의 이유라 because가 들어간다. 나머지는 so다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: 뒤 절이 앞 일의 이유라 because가 들어가므로 나머지와 달라 정답은 ②이다.\n선택지 분석:\n① [오답] 뒤 절이 앞 일의 결과라 so가 들어가므로 오답이다.\n② [정답] 뒤 절이 앞 일의 이유라 because가 들어가므로 나머지와 달라 정답이다.\n③ [오답] 뒤 절이 앞 일의 결과라 so가 들어가므로 오답이다.\n④ [오답] 뒤 절이 앞 일의 결과라 so가 들어가므로 오답이다.\n⑤ [오답] 뒤 절이 앞 일의 결과라 so가 들어가므로 오답이다.",
+    "passage": null,
+    "stem": "다음 빈칸에 들어갈 말이 나머지 넷과 다른 하나는?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T08:24:41.611Z"
+  },
+  "tab": "x2buc7cy",
+  "updatedAt": "2026-10-27T08:25:48.812Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T08:25:48.812Z",
+      "what": "확인 완료"
+    }
+  }
+}

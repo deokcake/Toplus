@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T11:38:30.341Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Excited",
+      "1": "played",
+      "2": "Surrounded",
+      "3": "Having",
+      "4": "dropped"
+    },
+    "expl": "핵심 규칙: 분사구문과 명사를 꾸미는 분사는 의미상 주어(꾸밈을 받는 명사)와의 관계가 능동이면 현재분사, 수동이면 과거분사를 쓴다. 앞선 일이 끝난 뒤를 나타내면 Having + 과거분사를 쓴다.\n풀이 순서: ① 밑줄 친 분사마다 의미상 주어(분사구문은 주절의 주어, 명사 수식은 그 명사)를 찾는다. → ② 주어가 그 동작을 하면 -ing, 당하면 과거분사다. 분사 뒤에 목적어가 있으면 능동, by ~가 있으면 수동일 가능성이 크다. → ③ 선택지 ②가 틀렸다: 밴드가 음악을 ‘연주하는’ 것이므로(뒤에 목적어 rock music) played가 아니라 playing.\n문장별 판정:\n정답 판단: played: 밴드가 직접 연주하는 능동 관계이므로 playing으로 고쳐야 한다(문장의 동사는 came).\n선택지 분석:\n① [오답] Excited: 주어(they)가 공연에 들뜬 수동 관계라 알맞으므로 오답이다.\n② [정답] played: 밴드가 직접 연주하는 능동 관계이고, playing으로 고쳐야 한다(문장의 동사는 came). 어법상 틀린 부분이므로 정답이다.\n③ [오답] Surrounded: 주어(Sora)가 팬들에게 둘러싸인 수동 관계라 알맞으므로 오답이다.\n④ [오답] Having: 공연을 즐긴 일이 먼저 끝났고, Having + 과거분사가 알맞으므로 오답이다.\n⑤ [오답] dropped: 표가 떨어뜨려진 수동 관계라 알맞으므로 오답이다.",
+    "passage": "Last Friday, Sora went to a rock concert with her two best friends. ①<u>Excited</u> about the show, they arrived at the hall two hours early. A band ②<u>played</u> loud rock music came on stage, and the crowd began to cheer. ③<u>Surrounded</u> by cheering fans, Sora sang along to every song she knew. ④<u>Having</u> enjoyed the show from beginning to end, they went home late at night. On the way, she found a ticket ⑤<u>dropped</u> on the street and returned it to the hall.",
+    "stem": "다음 글의 밑줄 친 부분 중 어법상 틀린 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T11:38:18.874Z"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T11:38:30.341Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T11:38:30.341Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T19:30:31.919Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "The rain prevented us goes from outside.",
+      "1": "The rain prevented from going us outside.",
+      "2": "The rain prevented us from went outside.",
+      "3": "The rain prevented outside from going us.",
+      "4": "The rain prevented us from going outside."
+    },
+    "expl": "핵심 규칙: prevent + 목적어 + from + 동명사는 ‘(목적어)가 ~하지 못하게 하다’라는 뜻이다. from 바로 뒤에 동명사를 둔다.\n풀이 순서: ① 낱말에 prevent와 from이 있으므로 ‘prevent + 목적어 + from + -ing’ 틀을 떠올린다. → ② 우리말에서 하지 못하게 되는 대상(us)을 목적어로, 하지 못하게 되는 행동(go outside)을 from 뒤에 둔다. from 뒤이므로 동사를 -ing형(going)으로 바꾼다. → ③ 완성하면 The rain prevented us from going outside.\n문장별 판정:\n정답 판단: prevent + us + from + going의 어순과 형태가 바르므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] from이 동사 뒤에 왔고 go를 goes로 바꿔 동명사도 아니므로 오답이다.\n② [오답] 목적어 us가 from going 뒤로 가서 어순이 틀렸으므로 오답이다.\n③ [오답] from 뒤에는 동명사 going을 써야 하는데 과거형 went를 썼으므로 오답이다.\n④ [오답] outside와 us의 자리가 바뀌어 뜻이 맞지 않으므로 오답이다.\n⑤ [정답] prevent + us + from + going의 어순과 형태가 바르므로 정답이다.",
+    "passage": "비는 우리가 밖에 나가지 못하게 했다.\n(prevented / from / us / go / outside / the rain)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성할 때, 가장 알맞은 것을 고르시오. (단, 주어진 단어 중 한 단어의 형태를 알맞게 바꾸어 사용할 것.)"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:30:21.951Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:30:31.919Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:30:31.919Z",
+      "what": "확인 완료"
+    }
+  }
+}

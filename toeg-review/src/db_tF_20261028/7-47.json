@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:44:28.262Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "they is",
+      "1": "it isn't",
+      "2": "they are",
+      "3": "they not",
+      "4": "they aren't"
+    },
+    "expl": "핵심 규칙: Is this/that ~?에는 No, it isn't.로, Are these/those ~?에는 No, they aren't.로 답한다. 부정 대답에는 be동사 + not을 쓴다.\n풀이 순서: ① 질문의 주어를 본다: those(여러 개) → 대답에서는 they. → ② No로 답하므로 be동사에 not을 붙인다: they aren't. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: those를 they로 받아 aren't로 바르게 답했으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 주어 they에는 is를 쓰지 않고 No로 답했으므로 오답이다.\n② [오답] these/those는 대답에서 they로 받으므로 오답이다.\n③ [오답] No로 답했고, 부정형을 써야 하므로 오답이다.\n④ [오답] be동사 없이 not만 쓸 수 없으므로 오답이다.\n⑤ [정답] those를 they로 받아 aren't로 바르게 답했으므로 정답이다.",
+    "passage": "A: Are those your books?\nB: No, _______ _______.",
+    "stem": "다음 질문에 대한 부정적인 대답(No)으로 가장 알맞은 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:44:26.554Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:44:28.262Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:44:28.262Z",
+      "what": "확인 완료"
+    }
+  }
+}

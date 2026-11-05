@@ -1,0 +1,178 @@
+{
+ "key": "4-9",
+ "type": "D",
+ "grade": 4,
+ "chapter": "CH 1 명사와 관사",
+ "title": "by + 교통수단과 관사: by boat",
+ "total_sec": 133,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "4급 · CH 1 명사와 관사 · 9번 · D 유형\n\n이 문제는 by 뒤에 교통수단을 쓸 때 관사를 붙이는지 판단해서 어법상 옳은 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 1 명사와 관사 · 9번 · D 유형",
+     "이 문제는 by 뒤에 교통수단을 쓸 때 관사를 붙이는지 판단해서 어법상 옳은 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 1, 9번 D 유형. 이 문제는 by 뒤에 교통수단을 쓸 때 관사를 붙이는지 판단해서 어법상 옳은 문장을 고르는 문제예요.",
+   "caption": "by + 교통수단과 관사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 17,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장을 고르시오.\n\n① Mom goes to the market by a car.\n② My uncle travels by the bus.\n③ I go to the library by the bike.\n④ We went to the museum by a subway.\n⑤ They went to the island by boat.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 어법상 옳은 문장을 고르시오.",
+     "① Mom goes to the market by a car.",
+     "② My uncle travels by the bus.",
+     "③ I go to the library by the bike.",
+     "④ We went to the museum by a subway.",
+     "⑤ They went to the island by boat."
+    ]
+   },
+   "narration": "다음 중 어법상 옳은 문장을 고르세요. 다섯 문장을 하나씩 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\nby + 교통수단 = ~을 타고 (이동 방법)\n이동 방법을 말할 때는 교통수단 앞에 a, an, the를 쓰지 않아요.\nby bus, by car, by train\n예) We went to the farm by car. (우리는 차를 타고 농장에 갔어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "by + 교통수단 = ~을 타고 (이동 방법)",
+     "이동 방법을 말할 때는 교통수단 앞에 a, an, the를 쓰지 않아요.",
+     "by bus, by car, by train",
+     "예) We went to the farm by car. (우리는 차를 타고 농장에 갔어요.)"
+    ]
+   },
+   "narration": "by 뒤에 bus나 car 같은 교통수단을 쓰면, 그것을 타고 간다는 이동 방법을 말할 수 있어요. 이렇게 이동 방법을 말할 때는 교통수단 앞에 a, an, the 같은 관사를 쓰지 않아요. 그래서 by bus, by car, by train처럼 by 바로 뒤에 교통수단을 써요. 예를 들어 We went to the farm by car. 우리는 차를 타고 농장에 갔어요.",
+   "caption": "by + 교통수단 = ~을 타고"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장을 고르시오.\n\n① Mom goes to the market by a car.\n② My uncle travels by the bus.\n③ I go to the library by the bike.\n④ We went to the museum by a subway.\n⑤ They went to the island by boat.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "by a car.",
+       "by the bus.",
+       "by the bike.",
+       "by a subway.",
+       "by boat."
+      ],
+      "strike": [],
+      "note": "다섯 문장 모두 by + 교통수단 = 이동 방법. 교통수단 앞에 a, an, the가 있는지 본다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① Mom goes to the market by a car.",
+       "② My uncle travels by the bus.",
+       "③ I go to the library by the bike.",
+       "④ We went to the museum by a subway."
+      ],
+      "note": "관사가 붙은 by a car, by the bus, by the bike, by a subway → 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ They went to the island by boat."
+      ],
+      "strike": [],
+      "note": "남는 것은 관사 없는 by boat → ⑤"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 다섯 문장 모두 by 뒤에 교통수단이 와서 이동 방법을 말하고 있어요. 그러니 교통수단 앞에 a, an, the가 있는지 살펴봐요. 둘째, 1번 by a car, 2번 by the bus, 3번 by the bike, 4번 by a subway는 교통수단 앞에 관사가 있어서 틀렸어요. 셋째, 남은 5번은 by boat로 관사 없이 바르게 썼어요. They went to the island by boat. 그들은 배를 타고 섬에 갔어요.",
+   "caption": "관사 있는 문장 지움 → by boat"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① Mom goes to the market by a car.  ✗  a를 빼고 by car\n② My uncle travels by the bus.  ✗  the를 빼고 by bus\n③ I go to the library by the bike.  ✗  the를 빼고 by bike\n④ We went to the museum by a subway.  ✗  a를 빼고 by subway\n⑤ They went to the island by boat.  ✓  관사 없이 by boat",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① Mom goes to the market by a car.  ✗  a를 빼고 by car",
+     "② My uncle travels by the bus.  ✗  the를 빼고 by bus",
+     "③ I go to the library by the bike.  ✗  the를 빼고 by bike",
+     "④ We went to the museum by a subway.  ✗  a를 빼고 by subway",
+     "⑤ They went to the island by boat.  ✓  관사 없이 by boat"
+    ]
+   },
+   "narration": "정답은 5번이에요. 배를 타고 간다는 이동 방법이라 by boat로 관사 없이 썼어요. 2번 by the bus와 3번 by the bike는 the가 자연스러워 보이지만, 이동 방법을 말할 때는 the를 빼고 by bus, by bike라고 해요. 1번 by a car도 a를 빼고 by car라고 써야 해요.",
+   "caption": "정답 ⑤ by boat"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ⑤ They went to the island by boat.\n\n이동 방법: by + 교통수단 (a, an, the 없이)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ They went to the island by boat.",
+     "이동 방법: by + 교통수단 (a, an, the 없이)"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, by 뒤에 교통수단을 써서 이동 방법을 말할 때는 a, an, the를 쓰지 않아요.",
+   "caption": "by + 교통수단, 관사 없이"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 어법상 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Mom goes to the market by a car.",
+   "My uncle travels by the bus.",
+   "I go to the library by the bike.",
+   "We went to the museum by a subway.",
+   "They went to the island by boat."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: by + 교통수단(bus, train, taxi, plane, ship, bike)에는 관사를 쓰지 않는다.\n풀이 순서: ① 문장마다 by 뒤를 본다. 교통수단을 나타내는 by 뒤에는 a/an/the를 쓰지 않는다. → ② by a car, by the bus, by the bike, by a subway는 관사가 있어 틀렸다. by boat만 옳다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: by + 교통수단에 관사 없이 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] by + 교통수단에는 관사를 쓰지 않으므로 오답이다.\n② [오답] by + 교통수단에는 관사를 쓰지 않으므로 오답이다.\n③ [오답] by + 교통수단에는 관사를 쓰지 않으므로 오답이다.\n④ [오답] by + 교통수단에는 관사를 쓰지 않으므로 오답이다.\n⑤ [정답] by + 교통수단에 관사 없이 바르게 썼으므로 정답이다."
+ }
+}

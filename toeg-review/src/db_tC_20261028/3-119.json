@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T03:32:06.204Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "It's right next to the big school gate.",
+      "1": "It's right behind the big school gate.",
+      "2": "It's right next of the big school gate.",
+      "3": "It's right in front of the big school gate.",
+      "4": "It's right across from the big school gate."
+    },
+    "expl": "핵심 규칙: 장소는 It is + 장소 표현으로 나타낸다. behind는 뒤, next to는 옆, across from은 맞은편, under는 아래, in front of는 앞이다.\n풀이 순서: ① 우리말에서 위치를 나타내는 말을 찾는다: ‘학교 옆에’. → ② 영어 표현을 떠올린다: next to + 명사(of를 붙이지 않는다). → ③ 정답은 ①.\n문장별 판정:\n정답 판단: ‘옆에’를 next to로 바르게 옮겼으므로 정답은 ①이다.\n선택지 분석:\n① [정답] ‘옆에’를 next to로 바르게 옮겼으므로 정답이다.\n② [오답] behind는 ‘뒤’라 뜻이 맞지 않으므로 오답이다.\n③ [오답] ‘옆에’는 next of가 아니라 next to로 쓰므로 오답이다.\n④ [오답] in front of는 ‘앞’이라 뜻이 맞지 않으므로 오답이다.\n⑤ [오답] across from은 ‘맞은편’이라 뜻이 맞지 않으므로 오답이다.",
+    "passage": "A: Excuse me. Where is the new cafe around here?\nB: <u>그것은 큰 학교 정문 바로 옆에 있어</u>.\nA: Thanks. I'll go there right now.",
+    "stem": "다음 밑줄 친 우리말 문장을 올바르게 영작한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:24:50.945Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:24:56.649Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:32:06.204Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:31:59.348Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:32:06.204Z",
+      "what": "확인 완료"
+    }
+  }
+}

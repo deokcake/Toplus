@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T05:34:34.535Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "so - because",
+      "1": "although - so",
+      "2": "so - so",
+      "3": "because - because",
+      "4": "because - so"
+    },
+    "expl": "핵심 규칙: because는 뒤에 이유를, so는 뒤에 결과를 이끈다. although는 ‘비록 ~이지만’의 양보를 나타낸다.\n풀이 순서: ① 발문이 알려 준 관계를 확인한다: 첫 빈칸은 선택, 둘째 빈칸은 결과. → ② 선택은 or, 결과는 so로 잇는다. → ③ 정답은 because - so.\n문장별 판정:\n정답 판단: 첫째 빈칸은 뒤 절(하루 종일 비가 옴)이 집에 있었던 이유라 because, 둘째 빈칸은 뒤 절(천천히 운전함)이 길이 얼어 있던 결과라 so이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 첫째 빈칸 so: 뒤 절(하루 종일 비가 옴)이 집에 있었던 이유라 because이다, 둘째 빈칸 because: 뒤 절(천천히 운전함)이 길이 얼어 있던 결과라 so이다. 따라서 오답이다.\n② [오답] 첫째 빈칸 although: 뒤 절(하루 종일 비가 옴)이 집에 있었던 이유라 because이다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 so: 뒤 절(하루 종일 비가 옴)이 집에 있었던 이유라 because이다. 따라서 오답이다.\n④ [오답] 둘째 빈칸 because: 뒤 절(천천히 운전함)이 길이 얼어 있던 결과라 so이다. 따라서 오답이다.\n⑤ [정답] 첫째 빈칸은 뒤 절(하루 종일 비가 옴)이 집에 있었던 이유라 because, 둘째 빈칸은 뒤 절(천천히 운전함)이 길이 얼어 있던 결과라 so이므로 정답이다.",
+    "passage": "- We stayed home _____ it rained all day.\n- The road was icy, _____ we drove slowly.",
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T05:34:25.814Z"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:34:34.535Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:34:34.535Z",
+      "what": "확인 완료"
+    }
+  }
+}

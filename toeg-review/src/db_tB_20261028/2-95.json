@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:17:05.934Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Mina, Leo",
+      "1": "Mina, Amy",
+      "2": "Leo, Tom",
+      "3": "Mina, Tom, Amy",
+      "4": "Leo, Amy"
+    },
+    "expl": "핵심 규칙: 목적격 관계대명사는 생략할 수 있지만 주격·소유격은 생략하지 않는다(주격 관계대명사 + be동사는 함께 생략할 수 있다). 관계부사는 전치사 + which로 바꿀 수 있고, the way와 how는 함께 쓰지 않으며, 전치사 뒤에는 that을 쓰지 않는다. what은 선행사를 포함한다.\n풀이 순서: ① 관계대명사 뒤에 주어가 있으면 목적격(생략 가능), 바로 동사가 오면 주격(혼자서는 생략 불가)이다. → ② the way how는 쓰지 않고, 전치사 + which는 선행사에 맞는 관계부사로 바꿀 수 있다. → ③ Leo는 주격 who를 생략할 수 있다고 했고, Tom은 the way how를 옳다고 했다. 둘 다 틀렸다. 옳게 설명한 학생만 모으면 Mina, Amy이다.\n문장별 판정:\nMina 옳음: borrowed의 목적어 역할을 하는 목적격 관계대명사라 생략할 수 있다.\nLeo 틀림: won의 주어 역할을 하는 주격 관계대명사라 생략할 수 없다.\nTom 틀림: the way와 how는 함께 쓰지 않는다(the way I solved it 또는 how I solved it).\nAmy 옳음: 장소 선행사 뒤 in which는 관계부사 where로 바꿀 수 있다.\n정답 판단: 올바르게 설명한 학생은 Mina, Amy이다.\n선택지 분석:\n① [오답] Leo는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Amy를 빠뜨렸다. 따라서 오답이다.\n② [정답] 올바르게 설명한 학생 Mina, Amy를 빠짐없이 골랐으므로 정답이다.\n③ [오답] Leo, Tom는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina, Amy를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Tom는 올바르게 설명한 학생이 아니다. 따라서 오답이다.\n⑤ [오답] Leo는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "Mina: The book that I borrowed is useful. 에서 that은 생략할 수 있어.\nLeo: Jane is the girl who won the prize. 에서 who는 생략할 수 있어.\nTom: This is the way how I solved it. 은 옳은 문장이야.\nAmy: This is the house in which I lived. 에서 in which는 where로 바꿀 수 있어.",
+    "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T07:17:04.988Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T07:17:05.934Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T07:17:05.934Z",
+      "what": "확인 완료"
+    }
+  }
+}

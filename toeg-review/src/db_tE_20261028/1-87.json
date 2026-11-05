@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T19:44:33.461Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "me",
+      "1": "cafe",
+      "2": null,
+      "3": "where",
+      "4": "they"
+    },
+    "expl": "핵심 규칙: 관계절은 수식하는 선행사 바로 뒤에 두고, 주어 + 동사 + 목적어 순서로 문장을 완성한 뒤 단어의 순서를 센다.\n풀이 순서: ① 낱말 가운데 관계사(where)를 찾고, 그 앞에 올 선행사(the cafe)를 정한다. → ② 주절과 관계절을 나눠 문장을 완성한다: He showed me the cafe / where they met. → ③ 앞에서부터 세어 여섯 번째 낱말을 고른다. 정답은 where.\n문장별 판정:\n정답 판단: 완성 문장은 ‘He showed me the cafe where they met.’이고 여섯 번째 단어는 where이다.\n선택지 분석:\n① [오답] 완성 문장에서 3번째 단어이다. 오답이다.\n② [오답] 완성 문장에서 5번째 단어이다. 오답이다.\n③ [오답] 완성 문장에서 8번째 단어이다. 오답이다.\n④ [정답] 완성 문장 ‘He showed me the cafe where they met.’에서 여섯 번째 단어이다. 정답이다.\n⑤ [오답] 완성 문장에서 7번째 단어이다. 오답이다.",
+    "passage": "<보기>\nwhere / the / met / he\nthey / showed / cafe / me\n_____ _____ _____ _____ _____ ___★___ _____ _____ .",
+    "stem": "다음 <보기>의 단어를 사용하여, 문장을 완성할 때 여섯 번째 자리(★)에 들어갈 단어로 가장 적절한 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:44:06.417Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:44:33.461Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:44:33.461Z",
+      "what": "확인 완료"
+    }
+  }
+}

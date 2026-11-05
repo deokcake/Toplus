@@ -1,0 +1,86 @@
+{
+ "key": "2-45",
+ "grade": 2,
+ "chapter": "CH 5 대명사",
+ "items": {
+  "A": {
+   "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Mary: I found it difficult to solve this problem. 에서 'it'은 가목적어예요.\nTom: We should buy some bread in the store. 에서 some은 주로 긍정문에 쓰이고, any는 주로 부정문과 의문문에 쓰여서 올바른 문장이에요.\nBruce: Each players wears different uniforms. 는 맞는 문장이에요.\nCathy: Kevin saw himself in the mirror. 에서 himself는 생략해도 문장이 온전해요.\nDave: Some students like math, and others prefer science. 문장은 나머지 모든 학생들이 과학을 선호한다는 것을 의미해요.",
+   "c": [
+    "Mary, Tom",
+    "Mary, Cathy",
+    "Bruce, Cathy",
+    "Mary, Tom, Dave",
+    "Mary, Cathy, Dave"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 가목적어 it은 뒤의 to부정사(진목적어)를 대신한다. some은 주로 긍정문에, any는 부정문·의문문에 쓴다. each는 단수 명사·단수 동사와 쓴다. 목적어인 재귀대명사는 생략할 수 없다. others는 ‘다른 일부’이고 ‘나머지 전부’는 the others다.\n풀이 순서: ① 학생마다 예문과 설명을 따로 따진다. 틀린 예문을 맞다고 하거나 용법을 잘못 말하면 틀린 설명이다. → ② Bruce는 Each players wears를 맞다고 했고(Each player wears), Cathy는 saw의 목적어인 himself를 생략할 수 있다고 했으며, Dave는 others를 ‘나머지 전부’로 풀었다. 셋 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Mary, Tom이다.\n문장별 판정: Mary O(가목적어 it). Tom O(some은 긍정문). Bruce X(Each player wears가 맞다). Cathy X(saw의 목적어라 생략할 수 없다). Dave X(others는 나머지 전부가 아니다).\n정답 판단: 올바르게 설명한 학생은 Mary, Tom이다.\n선택지 분석:\n① [정답] 올바르게 설명한 학생은 Mary, Tom이므로 정답이다.\n② [오답] 올바르게 설명한 학생은 Mary, Tom이므로 오답이다.\n③ [오답] 올바르게 설명한 학생은 Mary, Tom이므로 오답이다.\n④ [오답] 올바르게 설명한 학생은 Mary, Tom이므로 오답이다.\n⑤ [오답] 올바르게 설명한 학생은 Mary, Tom이므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Mina: We found it impossible to finish in one day. 에서 it은 가목적어야.\nLeo: Would you like some tea? 에서 권유하는 의문문이라 some을 쓸 수 있어.\nJane: Each of the boys have a locker. 는 맞는 문장이야.\nBen: She hurt herself. 에서 herself는 생략해도 문장이 온전해.\nSora: Some people like summer, and others like winter. 에서 others는 나머지 모든 사람을 뜻해.",
+   "c": [
+    "Mina, Jane",
+    "Mina, Leo",
+    "Leo, Ben",
+    "Mina, Leo, Sora",
+    "Jane, Ben, Sora"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 가목적어 it은 목적어 자리에 먼저 오고 진목적어(to부정사·that절)는 뒤에 온다. some은 긍정문·권유·부탁, any는 부정문·의문문에 주로 쓴다. each/every + 단수명사, each of + 복수명사는 단수 동사를 쓴다. 재귀 용법은 뺄 수 없고 강조 용법은 뺄 수 있다. others는 막연한 다른 몇몇, the others는 정해진 나머지 전부이다.\n풀이 순서: ① 학생마다 예문과 설명을 따로 따진다. 틀린 예문을 맞다고 하거나 용법을 잘못 말하면 틀린 설명이다. → ② Jane은 Each of the boys have를 맞다고 했고(has), Ben은 hurt의 목적어인 herself를 생략할 수 있다고 했으며, Sora는 others를 ‘나머지 전부’로 풀었다. 셋 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Mina, Leo이다.\n문장별 판정:\nMina 옳음: it이 목적어 자리에 먼저 오고 진목적어 to finish in one day가 뒤에 왔다.\nLeo 옳음: 권유하는 의문문에는 some을 쓸 수 있다.\nJane 틀림: each of + 복수명사는 단수 동사를 쓰므로 has가 맞다.\nBen 틀림: hurt의 목적어인 재귀 용법이라 빼면 문장이 성립하지 않는다.\nSora 틀림: others는 막연한 다른 몇몇이고, 나머지 전부는 the others이다.\n정답 판단: 올바르게 설명한 학생은 Mina, Leo이다.\n선택지 분석:\n① [오답] Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Leo를 빠뜨렸다. 따라서 오답이다.\n② [정답] 올바르게 설명한 학생 Mina, Leo를 빠짐없이 골랐으므로 정답이다.\n③ [오답] Ben는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Sora는 올바르게 설명한 학생이 아니다. 따라서 오답이다.\n⑤ [오답] Jane, Ben, Sora는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina, Leo를 빠뜨렸다. 따라서 오답이다."
+  },
+  "C": {
+   "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Tom: I think it strange that nobody called. 에서 it은 가목적어야.\nAmy: Do you have any brothers? 에서 any는 의문문이라 쓰였어.\nJin: Each student have a different dream. 은 맞는 문장이야.\nMia: I enjoyed myself at the party. 에서 myself는 강조 용법이라 생략해도 돼.\nLeo: I have three pens. One is black, and the others are red. 에서 the others는 나머지 두 자루 전부를 뜻해.",
+   "c": [
+    "Tom, Amy",
+    "Amy, Jin, Mia",
+    "Tom, Jin, Leo",
+    "Tom, Amy, Leo",
+    "Jin, Mia, Leo"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 가목적어 it은 목적어 자리에 먼저 오고 진목적어(to부정사·that절)는 뒤에 온다. some은 긍정문·권유·부탁, any는 부정문·의문문에 주로 쓴다. each/every + 단수명사, each of + 복수명사는 단수 동사를 쓴다. 재귀 용법은 뺄 수 없고 강조 용법은 뺄 수 있다. others는 막연한 다른 몇몇, the others는 정해진 나머지 전부이다.\n풀이 순서: ① 학생마다 예문과 설명을 따로 따진다. 틀린 예문을 맞다고 하거나 용법을 잘못 말하면 틀린 설명이다. → ② Jin은 Each student have를 맞다고 했고(has), Mia는 enjoyed의 목적어인 myself를 강조 용법이라고 했다. 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Tom, Amy, Leo이다.\n문장별 판정:\nTom 옳음: it이 목적어 자리에 먼저 오고 진목적어 that절이 뒤에 왔다.\nAmy 옳음: 의문문에는 any를 주로 쓴다.\nJin 틀림: each + 단수명사는 단수 동사를 쓰므로 has로 고쳐야 한다.\nMia 틀림: enjoy의 목적어인 재귀 용법이라 뺄 수 없다.\nLeo 옳음: 세 자루 중 하나를 뺀 정해진 나머지 전부이므로 the others이다.\n정답 판단: 올바르게 설명한 학생은 Tom, Amy, Leo이다.\n선택지 분석:\n① [오답] 올바르게 설명한 학생 Leo를 빠뜨렸다. 따라서 오답이다.\n② [오답] Jin, Mia는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Tom, Leo를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Jin는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Amy를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 올바르게 설명한 학생 Tom, Amy, Leo를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] Jin, Mia는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Tom, Amy를 빠뜨렸다. 따라서 오답이다."
+  },
+  "D": {
+   "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Jane: It takes an hour to get there. 에서 it은 가목적어야.\nBen: I don't have some money. 는 부정문이라 some을 any로 고쳐야 해.\nSora: Each of the players wear a helmet. 은 맞는 문장이야.\nTom: He himself fixed the roof. 에서 himself는 생략해도 문장이 온전해.\nAmy: I have two sisters. One is a nurse, and the other is a teacher. 에서 the other는 나머지 한 명을 뜻해.",
+   "c": [
+    "Ben, Tom",
+    "Jane, Ben, Sora",
+    "Jane, Tom, Amy",
+    "Ben, Tom, Amy",
+    "Sora, Amy"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 가목적어 it은 목적어 자리에 먼저 오고 진목적어(to부정사·that절)는 뒤에 온다. some은 긍정문·권유·부탁, any는 부정문·의문문에 주로 쓴다. each/every + 단수명사, each of + 복수명사는 단수 동사를 쓴다. 재귀 용법은 뺄 수 없고 강조 용법은 뺄 수 있다. others는 막연한 다른 몇몇, the others는 정해진 나머지 전부이다.\n풀이 순서: ① 학생마다 예문과 설명을 따로 따진다. 틀린 예문을 맞다고 하거나 용법을 잘못 말하면 틀린 설명이다. → ② Jane은 시간을 나타내는 비인칭 It을 가목적어라고 했고, Sora는 Each of the players wear를 맞다고 했다(wears). 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Ben, Tom, Amy이다.\n문장별 판정:\nJane 틀림: 문장 맨 앞의 it은 가주어(진주어 to get there)이며 가목적어가 아니다.\nBen 옳음: 부정문에는 any를 주로 쓴다.\nSora 틀림: each of + 복수명사는 단수 동사를 쓰므로 wears가 맞다.\nTom 옳음: 주어를 강조하는 강조 용법이라 빼도 문장이 성립한다.\nAmy 옳음: 둘 중 하나를 뺀 정해진 나머지 하나이므로 the other이다.\n정답 판단: 올바르게 설명한 학생은 Ben, Tom, Amy이다.\n선택지 분석:\n① [오답] 올바르게 설명한 학생 Amy를 빠뜨렸다. 따라서 오답이다.\n② [오답] Jane, Sora는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Tom, Amy를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Ben를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 올바르게 설명한 학생 Ben, Tom, Amy를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] Sora는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Ben, Tom를 빠뜨렸다. 따라서 오답이다."
+  },
+  "E": {
+   "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Mina: She made it clear that she disagreed. 에서 it은 가목적어야.\nLeo: Can I have any water? 는 부탁하는 말이라 any가 자연스러워.\nJane: Every student have to wear a uniform. 은 맞는 문장이야.\nBen: The door opened by itself. 에서 by itself는 ‘저절로’라는 뜻이야.\nSora: Some of the cookies are gone, and the others are in the box. 에서 the others는 남은 쿠키 전부를 뜻해.",
+   "c": [
+    "Mina, Ben, Sora",
+    "Mina, Leo",
+    "Leo, Jane, Ben",
+    "Mina, Jane, Sora",
+    "Ben, Sora"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 가목적어 it은 목적어 자리에 먼저 오고 진목적어(to부정사·that절)는 뒤에 온다. some은 긍정문·권유·부탁, any는 부정문·의문문에 주로 쓴다. each/every + 단수명사, each of + 복수명사는 단수 동사를 쓴다. 재귀 용법은 뺄 수 없고 강조 용법은 뺄 수 있다. others는 막연한 다른 몇몇, the others는 정해진 나머지 전부이다.\n풀이 순서: ① 학생마다 예문과 설명을 따로 따진다. 틀린 예문을 맞다고 하거나 용법을 잘못 말하면 틀린 설명이다. → ② Leo는 부탁하는 말에 any가 자연스럽다고 했고(some), Jane은 Every student have를 맞다고 했다(has). 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Mina, Ben, Sora이다.\n문장별 판정:\nMina 옳음: it이 목적어 자리에 먼저 오고 진목적어 that절이 뒤에 왔다.\nLeo 틀림: 부탁하는 의문문에는 some을 쓴다(Can I have some water?).\nJane 틀림: every + 단수명사는 단수 동사를 쓰므로 has to가 맞다.\nBen 옳음: by itself는 ‘저절로’라는 뜻이다.\nSora 옳음: 일부를 뺀 정해진 나머지 전부이므로 the others이다.\n정답 판단: 올바르게 설명한 학생은 Mina, Ben, Sora이다.\n선택지 분석:\n① [정답] 올바르게 설명한 학생 Mina, Ben, Sora를 빠짐없이 골랐으므로 정답이다.\n② [오답] Leo는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Ben, Sora를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Leo, Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina, Sora를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Ben를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다."
+  },
+  "F": {
+   "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Tom: I found it hard to wake up early. 에서 진목적어는 to wake up early야.\nAmy: Would you like some cookies? 에서 some은 권유할 때 쓴 거야.\nJin: Each of my friends has a bike. 는 맞는 문장이야.\nMia: Kevin cut himself while cooking. 에서 himself를 빼도 문장이 온전해.\nLeo: Ten people came. Five stayed, and others left early. 에서 others는 남은 다섯 명 전부를 뜻해.",
+   "c": [
+    "Tom, Amy",
+    "Amy, Jin, Mia",
+    "Tom, Amy, Jin",
+    "Tom, Jin, Leo",
+    "Tom, Amy, Jin, Mia"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 가목적어 it은 목적어 자리에 먼저 오고 진목적어(to부정사·that절)는 뒤에 온다. some은 긍정문·권유·부탁, any는 부정문·의문문에 주로 쓴다. each/every + 단수명사, each of + 복수명사는 단수 동사를 쓴다. 재귀 용법은 뺄 수 없고 강조 용법은 뺄 수 있다. others는 막연한 다른 몇몇, the others는 정해진 나머지 전부이다.\n풀이 순서: ① 학생마다 예문과 설명을 따로 따진다. 틀린 예문을 맞다고 하거나 용법을 잘못 말하면 틀린 설명이다. → ② Mia는 cut의 목적어인 himself를 뺄 수 있다고 했고, Leo는 others를 ‘남은 전부’로 풀었다(전부는 the others). 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Tom, Amy, Jin이다.\n문장별 판정:\nTom 옳음: 가목적어 it의 진목적어는 뒤의 to wake up early이다.\nAmy 옳음: 권유하는 의문문에는 some을 쓸 수 있다.\nJin 옳음: each of + 복수명사는 단수 동사(has)를 쓴다.\nMia 틀림: cut의 목적어인 재귀 용법이라 뺄 수 없다.\nLeo 틀림: 남은 다섯 명 전부는 the others로 나타내며, others는 막연한 다른 몇몇이다.\n정답 판단: 올바르게 설명한 학생은 Tom, Amy, Jin이다.\n선택지 분석:\n① [오답] 올바르게 설명한 학생 Jin를 빠뜨렸다. 따라서 오답이다.\n② [오답] Mia는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Tom를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 올바르게 설명한 학생 Tom, Amy, Jin를 빠짐없이 골랐으므로 정답이다.\n④ [오답] Leo는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Amy를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] Mia는 올바르게 설명한 학생이 아니다. 따라서 오답이다."
+  }
+ },
+ "prior_review": {}
+}

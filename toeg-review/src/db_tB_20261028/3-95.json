@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:06:38.085Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Minho, Sora",
+      "1": "Sora, Yuna",
+      "2": "Sora, Yuna, Hana",
+      "3": "Jiwoo, Yuna, Hana",
+      "4": "Minho, Jiwoo"
+    },
+    "expl": "핵심 규칙: 형용사는 명사 앞이나 보어 자리, -thing 대명사 뒤에 쓴다. 부사는 동사를 꾸미며 fast·hard는 -ly 없이 부사로 쓴다(hardly는 ‘거의 ~않다’, lately는 ‘최근에’). 빈도부사는 일반동사 앞, be동사 뒤에 둔다. few·a few는 셀 수 있는 명사, little·a little은 셀 수 없는 명사에 쓴다.\n풀이 순서: ① 학생마다 예문이 옳은 문장인지 먼저 판단한다. 다섯 명 모두 ‘옳은 문장’이라고 했으므로 예문이 틀리면 설명도 틀린다. → ② Sora의 hardly는 ‘열심히’(hard)가 아니라 ‘거의 ~않다’이고, Yuna의 homework는 셀 수 없는 명사라 many를 쓸 수 없으며(much homework), Hana의 빈도부사는 be동사 뒤에 온다(She is always late). Minho와 Jiwoo의 설명은 옳다. → ③ 잘못 설명한 학생은 Sora, Yuna, Hana.\n문장별 판정:\nMinho O. look 뒤 보어 자리에 형용사를 쓴다.\nSora X. hardly는 ‘거의 ~않다’라는 뜻이라 거의 일하지 않는다는 뜻이다.\nJiwoo O. -thing 대명사는 형용사가 뒤에서 꾸민다.\nYuna X. homework는 셀 수 없는 명사라 much를 써야 하므로 틀린 문장이다.\nHana X. 빈도부사는 be동사 뒤에 오므로 She is always late.가 옳다.\n정답 판단: 잘못 설명한 학생은 Sora, Yuna, Hana이다.\n선택지 분석:\n① [오답] Minho는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Yuna, Hana를 빠뜨렸다. 따라서 오답이다.\n② [오답] 잘못 설명한 학생 Hana를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 잘못 설명한 학생 Sora, Yuna, Hana를 빠짐없이 골랐으므로 정답이다.\n④ [오답] Jiwoo는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Sora를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] Minho, Jiwoo는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Sora, Yuna, Hana를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "Minho: 'She looks happy.'에서 look 뒤에 주어를 설명하는 형용사 happy가 와서 옳은 문장이야.\nSora: 'He hardly works.'는 그가 열심히 일한다는 뜻의 옳은 문장이야.\nJiwoo: 'I need something cold.'에서 형용사가 -thing 대명사 뒤에서 꾸며서 옳은 문장이야.\nYuna: 'We have many homework.'에서 homework는 셀 수 있는 명사라 many를 써서 옳은 문장이야.\nHana: 'She always is late.'에서 빈도부사는 be동사 앞에 오므로 옳은 문장이야.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:06:30.615Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:06:38.085Z",
+      "what": "확인 완료"
+    }
+  }
+}

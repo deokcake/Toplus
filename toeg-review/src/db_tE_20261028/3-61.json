@@ -1,0 +1,33 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T04:04:06.446Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "When did you leave the party?",
+      "1": "Why did you leave the party?",
+      "2": "Who did you leave with?",
+      "3": "What did you bring to the party?",
+      "4": "How many people came to the party?"
+    },
+    "expl": "핵심 규칙: 의문사는 묻는 정보에 맞게 고른다: who(사람), what(사물·일), where(장소), when(때), why(이유), how(방법), how much(값·양), how long(기간). 일반동사 과거 의문문은 의문사 + did + 주어 + 동사원형이다.\n풀이 순서: ① B의 대답이 알려 주는 정보가 무엇인지 본다: 떠난 때(at nine). → ② 그 정보를 묻는 의문사는 When(언제)이다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: When은 때를 묻고 B가 떠난 시각(at nine)을 말하므로 정답은 ①이다.\n선택지 분석:\n① [정답] When은 때를 묻고 B가 떠난 시각(at nine)을 말하므로 정답이다.\n② [오답] Why는 이유를 묻는데 B는 떠난 시각을 말하므로 오답이다.\n③ [오답] Who는 함께 떠난 사람을 묻는데 B는 떠난 시각을 말하므로 오답이다.\n④ [오답] What은 가져온 물건을 묻는데 B는 떠난 시각을 말하므로 오답이다.\n⑤ [오답] How many는 사람 수를 묻는데 B는 떠난 시각을 말하므로 오답이다.",
+    "passage": "A: ________________________\nB: I left at nine.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T04:03:50.430Z"
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T04:04:06.446Z",
+  "verdict": null,
+  "verdictAt": "2026-10-26T04:04:02.223Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:04:06.446Z",
+      "what": "확인 완료"
+    }
+  }
+}

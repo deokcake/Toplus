@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T09:12:55.660Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "(가), (다)",
+      "1": "(다), (마)",
+      "2": "(나), (라)",
+      "3": "(가), (마)",
+      "4": "(라), (마)"
+    },
+    "expl": "핵심 규칙: Did/didn't/Does 뒤에는 동사원형을 쓰고, be동사는 주어에 맞춰 was/were를 쓰며 일반동사와 함께 쓰지 않는다. 불규칙 동사는 정해진 과거형을 쓴다.\n풀이 순서: ① did/didn't/Does가 있는 문장은 뒤가 동사원형인지 본다. → ② be동사 문장은 주어와 수가 맞는지, 일반동사와 겹쳐 쓰지 않았는지 본다. → ③ (다) losed(lost), (마) Did ~ fixed(fix)가 틀렸다. 정답은 (다), (마).\n문장별 판정:\n(가) O. stay의 과거형 stayed를 썼다.\n(나) O. 주어 you에 Were를 썼다.\n(다) X. lose의 과거형은 불규칙형 lost이다.\n(라) O. doesn't 뒤에 동사원형 eat을 썼다.\n(마) X. Did 뒤에는 동사원형 fix를 써야 한다.\n정답 판단: 어법상 틀린 문장은 (다), (마)이다.\n선택지 분석:\n① [오답] (가)는 틀린 문장이 아니고, 틀린 문장 (마)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 틀린 문장 (다), (마)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (나), (라)는 틀린 문장이 아니고, 틀린 문장 (다), (마)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (가)는 틀린 문장이 아니고, 틀린 문장 (다)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (라)는 틀린 문장이 아니고, 틀린 문장 (다)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(가) We stayed home last weekend.\n(나) Were you tired after the game?\n(다) I losed my umbrella yesterday.\n(라) She doesn't eat breakfast.\n(마) Did Tom fixed the bike?",
+    "stem": "다음 중 어법상 틀린 문장으로만 짝지어진 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:12:53.240Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:12:55.660Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:06:20.005Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "a few - little",
+      "1": "few - a little",
+      "2": "a few - a little",
+      "3": "few - little",
+      "4": "a little - few"
+    },
+    "expl": "핵심 규칙: a few·few는 셀 수 있는 명사의 복수형, a little·little은 셀 수 없는 명사에 쓴다. a few·a little은 ‘조금 있는’(긍정), few·little은 ‘거의 없는’(부정)이다.\n풀이 순서: ① 명사가 셀 수 있는지 본다: people은 셀 수 있고 money는 셀 수 없다. 셀 수 있으면 (a) few, 셀 수 없으면 (a) little. → ② 우리말 뜻을 본다: ‘조금 있다’이면 a를 붙이고, ‘거의 없다’이면 a를 뺀다. → ③ ‘사람이 거의 없다’ few, ‘돈이 조금 있다’ a little. 정답은 few - a little.\n문장별 판정:\n정답 판단: 두 빈칸 모두 명사의 종류(셀 수 있는지)와 우리말 뜻(조금 있다/거의 없다)에 맞으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 첫째 빈칸 a few: ‘조금 있는’의 뜻이라 우리말과 맞지 않는다, 둘째 빈칸 little: ‘거의 없는’의 뜻이라 우리말과 맞지 않는다. 따라서 오답이다.\n② [정답] 두 빈칸 모두 명사의 종류(셀 수 있는지)와 우리말 뜻(조금 있다/거의 없다)에 맞으므로 정답이다.\n③ [오답] 첫째 빈칸 a few: ‘조금 있는’의 뜻이라 우리말과 맞지 않는다. 따라서 오답이다.\n④ [오답] 둘째 빈칸 little: ‘거의 없는’의 뜻이라 우리말과 맞지 않는다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 a little: 셀 수 없는 명사에 쓰는 말이라 people에 맞지 않는다, 둘째 빈칸 few: 셀 수 있는 명사에 쓰는 말이라 money에 맞지 않는다. 따라서 오답이다.",
+    "passage": "There are _____ people in the park. (공원에 사람이 거의 없다.)\nI have _____ money. (나는 돈이 조금 있다.)",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:06:17.948Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:06:20.005Z",
+      "what": "확인 완료"
+    }
+  }
+}

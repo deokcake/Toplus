@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T07:38:03.893Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "who",
+      "1": "found",
+      "2": "man",
+      "3": "dog",
+      "4": "their"
+    },
+    "expl": "핵심 규칙: 관계절은 수식하는 선행사 바로 뒤에 두고, 주어 + 동사 + 목적어 순서로 문장을 완성한 뒤 단어의 순서를 센다.\n풀이 순서: ① 낱말 가운데 관계사(who)를 찾고, 그 앞에 올 선행사(the man)를 정한다. → ② 주절과 관계절을 나눠 문장을 완성한다: They thanked the man / who found their dog. → ③ 앞에서부터 세어 여섯 번째 낱말을 고른다. 정답은 found.\n문장별 판정:\n정답 판단: 완성 문장은 ‘They thanked the man who found their dog.’이고 여섯 번째 단어는 found이다.\n선택지 분석:\n① [오답] 완성 문장에서 5번째 단어이다. 오답이다.\n② [정답] 완성 문장 ‘They thanked the man who found their dog.’에서 여섯 번째 단어이다. 정답이다.\n③ [오답] 완성 문장에서 4번째 단어이다. 오답이다.\n④ [오답] 완성 문장에서 8번째 단어이다. 오답이다.\n⑤ [오답] 완성 문장에서 7번째 단어이다. 오답이다.",
+    "passage": "<보기>\nfound / the / who / dog\nthey / their / man / thanked\n_____ _____ _____ _____ _____ ___★___ _____ _____ .",
+    "stem": "다음 <보기>의 단어를 사용하여, 문장을 완성할 때 여섯 번째 자리(★)에 들어갈 단어로 가장 적절한 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T07:37:51.221Z"
+  },
+  "tab": "n8ajqfrj",
+  "updatedAt": "2026-10-23T07:38:03.893Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T07:38:03.893Z",
+      "what": "확인 완료"
+    }
+  }
+}

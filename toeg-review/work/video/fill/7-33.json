@@ -1,0 +1,464 @@
+{
+ "A": {
+  "title": "주어에 맞는 be동사 부정형 (The pizza, We)",
+  "intro": "이 문제는 주어 The pizza와 We에 맞는 be동사 부정형을 골라 바르게 짝지은 것을 찾는 문제예요.",
+  "problem_narration": "다음 빈칸에 알맞은 말이 바르게 짝지어진 것을 고르세요. The pizza 빈칸 spicy, We 빈칸 happy. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 부정문: am, is, are 뒤에 not → '아니다', '않다'",
+    "I → am not",
+    "he, she, it처럼 I, you가 아닌 하나 → is not (isn't)",
+    "you, 그리고 we, they처럼 여럿 → are not (aren't)",
+    "예) He is not sad. (그는 슬프지 않아요.)"
+   ],
+   "narration": "be동사 am, is, are 뒤에 not을 붙이면 '아니에요', '않아요'라는 뜻이 돼요. 주어가 I면 am not, I도 you도 아닌 하나면 is not, you이거나 여럿이면 are not이에요. is not은 isn't, are not은 aren't로 줄여 쓸 수 있어요. 예를 들어 He is not sad, 그는 슬프지 않아요."
+  },
+  "steps": [
+   {
+    "note": "첫 문장 주어 The pizza = it(하나) → isn't. 첫 칸이 not, aren't, were not인 ①, ③, ⑤를 지운다.",
+    "highlight": [
+     "The pizza _______ spicy."
+    ],
+    "strike": [
+     "① not - aren't",
+     "③ aren't - not",
+     "⑤ were not - am not"
+    ],
+    "narration": "첫째, 첫 문장의 주어 The pizza는 it으로 바꿀 수 있는 하나라서 isn't를 써요. 첫 칸이 not, aren't, were not인 1번, 3번, 5번을 지워요."
+   },
+   {
+    "note": "둘째 문장 주어 We = 여럿 → are not. 둘째 칸이 isn't인 ④를 지운다.",
+    "highlight": [
+     "We _______ happy."
+    ],
+    "strike": [
+     "④ isn’t - isn't"
+    ],
+    "narration": "둘째, 둘째 문장의 주어 We는 여럿이라 are not을 쓰니까, 둘째 칸이 isn't인 4번도 지워요."
+   },
+   {
+    "note": "남는 ② → The pizza isn't spicy. / We are not happy.",
+    "highlight": [
+     "② isn't - are not"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 2번을 넣으면 The pizza isn't spicy, 피자는 맵지 않아요. We are not happy, 우리는 행복하지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① not - aren't  ✗  첫째 칸: not만으로는 동사 자리를 채울 수 없어요",
+    "② isn't - are not  ✓  The pizza에 isn't, We에 are not",
+    "③ aren't - not  ✗  하나인 The pizza에 aren't는 틀리고, 둘째 칸도 not만 있어요",
+    "④ isn’t - isn't  ✗  둘째 칸: 여럿인 We에는 isn't가 아니라 are not",
+    "⑤ were not - am not  ✗  were not은 과거형, am not은 주어 I에만 써요"
+   ],
+   "narration": "정답은 2번이에요. 1번은 첫 칸에 not만 써서 틀렸어요. not 혼자서는 동사 자리를 채우지 못해서, 이 문장에는 is not처럼 be동사가 있어야 해요. 4번은 여럿인 We에 isn't를 써서 틀렸어요. 5번 were not은 과거형이고, am not은 주어가 I일 때만 써요."
+  },
+  "summary": {
+   "card": "I → am not · I, you가 아닌 하나 → is not · you, 여럿 → are not",
+   "narration": "정답은 2번이에요. 기억할 것, I는 am not, I도 you도 아닌 하나는 is not, you나 여럿은 are not이에요."
+  },
+  "captions": [
+   "The pizza, We의 be동사 부정형",
+   "먼저 풀어 보세요",
+   "be동사 뒤에 not, 주어에 맞춰",
+   "The pizza → isn't, We → are not",
+   "정답 ② isn't - are not",
+   "I am not · 하나 is not · 여럿 are not"
+  ],
+  "sec": [
+   12,
+   20,
+   30,
+   36,
+   27,
+   12
+  ]
+ },
+ "B": {
+  "title": "주어에 맞는 be동사 부정형 (We, The dog)",
+  "intro": "이 문제는 주어 We와 The dog에 맞는 be동사 부정형을 골라 바르게 짝지은 것을 찾는 문제예요.",
+  "problem_narration": "다음 빈칸에 알맞은 말이 바르게 짝지어진 것을 고르세요. We 빈칸 students, The dog 빈칸 big. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 부정문: am, is, are 뒤에 not → '아니다', '않다'",
+    "I → am not",
+    "he, she, it처럼 I, you가 아닌 하나 → is not (isn't)",
+    "you, 그리고 we, they처럼 여럿 → are not (aren't)",
+    "예) The cat isn't small. (그 고양이는 작지 않아요.)"
+   ],
+   "narration": "be동사 am, is, are 뒤에 not을 붙이면 '아니에요', '않아요'라는 뜻이 돼요. 주어가 I면 am not, I도 you도 아닌 하나면 is not, you이거나 여럿이면 are not이에요. is not은 isn't, are not은 aren't로 줄여 쓸 수 있어요. 예를 들어 The cat isn't small, 그 고양이는 작지 않아요."
+  },
+  "steps": [
+   {
+    "note": "첫 문장 주어 We = 여럿 → aren't. 첫 칸이 is not, am not, isn't인 ①, ③, ⑤를 지운다.",
+    "highlight": [
+     "We _______ students."
+    ],
+    "strike": [
+     "① is not - aren't",
+     "③ am not - is not",
+     "⑤ isn't - aren't"
+    ],
+    "narration": "첫째, 첫 문장의 주어 We는 여럿이라 aren't를 써요. 첫 칸이 is not, am not, isn't인 1번, 3번, 5번을 지워요."
+   },
+   {
+    "note": "둘째 문장 주어 The dog = 한 마리(it) → isn't. 둘째 칸이 aren't인 ②를 지운다.",
+    "highlight": [
+     "The dog _______ big."
+    ],
+    "strike": [
+     "② aren't - aren't"
+    ],
+    "narration": "둘째, 둘째 문장의 주어 The dog는 개 한 마리라서 isn't를 쓰니까, 둘째 칸이 aren't인 2번도 지워요."
+   },
+   {
+    "note": "남는 ④ → We aren't students. / The dog isn't big.",
+    "highlight": [
+     "④ aren't - isn't"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 4번을 넣으면 We aren't students, 우리는 학생이 아니에요. The dog isn't big, 그 개는 크지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① is not - aren't  ✗  여럿인 We에 is not은 틀리고, 둘째 칸 aren't도 틀려요",
+    "② aren't - aren't  ✗  둘째 칸: 한 마리인 The dog에는 aren't가 아니라 isn't",
+    "③ am not - is not  ✗  첫째 칸: am not은 주어 I에만 써요",
+    "④ aren't - isn't  ✓  We에 aren't, The dog에 isn't",
+    "⑤ isn't - aren't  ✗  isn't와 aren't의 자리가 서로 바뀌었어요"
+   ],
+   "narration": "정답은 4번이에요. 2번은 두 칸에 모두 aren't를 썼어요. The dog는 개 한 마리라서 aren't가 아니라 isn't를 써요. 5번은 isn't와 aren't의 자리가 서로 바뀌었어요. 3번의 am not은 주어가 I일 때만 써요."
+  },
+  "summary": {
+   "card": "I → am not · I, you가 아닌 하나 → is not · you, 여럿 → are not",
+   "narration": "정답은 4번이에요. 기억할 것, I는 am not, I도 you도 아닌 하나는 is not, you나 여럿은 are not이에요."
+  },
+  "captions": [
+   "We, The dog의 be동사 부정형",
+   "먼저 풀어 보세요",
+   "be동사 뒤에 not, 주어에 맞춰",
+   "We → aren't, The dog → isn't",
+   "정답 ④ aren't - isn't",
+   "I am not · 하나 is not · 여럿 are not"
+  ],
+  "sec": [
+   13,
+   20,
+   30,
+   35,
+   23,
+   12
+  ]
+ },
+ "C": {
+  "title": "주어에 맞는 be동사 부정형 (I, They)",
+  "intro": "이 문제는 주어 I와 They에 맞는 be동사 부정형을 골라 바르게 짝지은 것을 찾는 문제예요.",
+  "problem_narration": "다음 빈칸에 알맞은 말이 바르게 짝지어진 것을 고르세요. I 빈칸 hungry, They 빈칸 ready. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 부정문: am, is, are 뒤에 not → '아니다', '않다'",
+    "I → am not",
+    "he, she, it처럼 I, you가 아닌 하나 → is not (isn't)",
+    "you, 그리고 we, they처럼 여럿 → are not (aren't)",
+    "예) Tom is not tall. (톰은 키가 크지 않아요.)"
+   ],
+   "narration": "be동사 am, is, are 뒤에 not을 붙이면 '아니에요', '않아요'라는 뜻이 돼요. 주어가 I면 am not, I도 you도 아닌 하나면 is not, you이거나 여럿이면 are not이에요. is not은 isn't, are not은 aren't로 줄여 쓸 수 있어요. 예를 들어 Tom is not tall, 톰은 키가 크지 않아요."
+  },
+  "steps": [
+   {
+    "note": "첫 문장 주어 I → am not. 첫 칸이 isn't, aren't, are not인 ②, ③, ⑤를 지운다.",
+    "highlight": [
+     "I _______ hungry."
+    ],
+    "strike": [
+     "② isn't - aren't",
+     "③ aren't - are not",
+     "⑤ are not - isn't"
+    ],
+    "narration": "첫째, 첫 문장의 주어 I 뒤에는 am not을 써요. 첫 칸이 isn't, aren't, are not인 2번, 3번, 5번을 지워요."
+   },
+   {
+    "note": "둘째 문장 주어 They = 여럿 → aren't. 둘째 칸이 is not인 ④를 지운다.",
+    "highlight": [
+     "They _______ ready."
+    ],
+    "strike": [
+     "④ am not - is not"
+    ],
+    "narration": "둘째, 둘째 문장의 주어 They는 여럿이라 aren't를 쓰니까, 둘째 칸이 is not인 4번도 지워요."
+   },
+   {
+    "note": "남는 ① → I am not hungry. / They aren't ready.",
+    "highlight": [
+     "① am not - aren't"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 1번을 넣으면 I am not hungry, 나는 배고프지 않아요. They aren't ready, 그들은 준비되지 않았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① am not - aren't  ✓  I에 am not, They에 aren't",
+    "② isn't - aren't  ✗  첫째 칸: isn't는 he, she, it 같은 하나에 써요",
+    "③ aren't - are not  ✗  첫째 칸: 주어 I 뒤에는 aren't가 아니라 am not",
+    "④ am not - is not  ✗  둘째 칸: 여럿인 They에는 is not이 아니라 aren't",
+    "⑤ are not - isn't  ✗  I에 are not, They에 isn't를 써서 두 칸 다 틀려요"
+   ],
+   "narration": "정답은 1번이에요. 3번처럼 주어 I 뒤에 aren't를 쓰면 틀려요. I 뒤에는 am not을 써요. 4번은 여럿인 They에 is not을 써서 틀렸어요. 5번은 I에 are not, They에 isn't를 써서 두 칸 모두 틀렸어요."
+  },
+  "summary": {
+   "card": "I → am not · I, you가 아닌 하나 → is not · you, 여럿 → are not",
+   "narration": "정답은 1번이에요. 기억할 것, I는 am not, I도 you도 아닌 하나는 is not, you나 여럿은 are not이에요."
+  },
+  "captions": [
+   "I, They의 be동사 부정형",
+   "먼저 풀어 보세요",
+   "be동사 뒤에 not, 주어에 맞춰",
+   "I → am not, They → aren't",
+   "정답 ① am not - aren't",
+   "I am not · 하나 is not · 여럿 are not"
+  ],
+  "sec": [
+   12,
+   20,
+   30,
+   34,
+   23,
+   12
+  ]
+ },
+ "D": {
+  "title": "주어에 맞는 be동사 부정형 (The soup, The plate)",
+  "intro": "이 문제는 주어 The soup와 The plate에 맞는 be동사 부정형을 골라 바르게 짝지은 것을 찾는 문제예요.",
+  "problem_narration": "다음 빈칸에 알맞은 말이 바르게 짝지어진 것을 고르세요. The soup 빈칸 hot, The plate 빈칸 clean. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 부정문: am, is, are 뒤에 not → '아니다', '않다'",
+    "I → am not",
+    "he, she, it처럼 I, you가 아닌 하나 → is not (isn't)",
+    "you, 그리고 we, they처럼 여럿 → are not (aren't)",
+    "예) The milk isn't cold. (그 우유는 차갑지 않아요.)"
+   ],
+   "narration": "be동사 am, is, are 뒤에 not을 붙이면 '아니에요', '않아요'라는 뜻이 돼요. 주어가 I면 am not, I도 you도 아닌 하나면 is not, you이거나 여럿이면 are not이에요. is not은 isn't, are not은 aren't로 줄여 쓸 수 있어요. 예를 들어 The milk isn't cold, 그 우유는 차갑지 않아요."
+  },
+  "steps": [
+   {
+    "note": "첫 문장 주어 The soup = 셀 수 없는 것 → 하나로 보아 is not. 첫 칸이 am not, aren't, not인 ②, ③, ⑤를 지운다.",
+    "highlight": [
+     "The soup _______ hot."
+    ],
+    "strike": [
+     "② am not - aren't",
+     "③ aren't - isn't",
+     "⑤ not - are not"
+    ],
+    "narration": "첫째, 첫 문장의 주어 The soup는 셀 수 없는 것이라 it처럼 하나로 보고 is not을 써요. 첫 칸이 am not, aren't, not인 2번, 3번, 5번을 지워요."
+   },
+   {
+    "note": "둘째 문장 주어 The plate = 접시 한 개 → is not. 둘째 칸이 aren't인 ①을 지운다.",
+    "highlight": [
+     "The plate _______ clean."
+    ],
+    "strike": [
+     "① isn't - aren't"
+    ],
+    "narration": "둘째, 둘째 문장의 주어 The plate도 접시 한 개라서 is not을 쓰니까, 둘째 칸이 aren't인 1번도 지워요."
+   },
+   {
+    "note": "남는 ④ → The soup is not hot. / The plate is not clean.",
+    "highlight": [
+     "④ is not - is not"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 4번을 넣으면 The soup is not hot, 수프가 뜨겁지 않아요. The plate is not clean, 접시가 깨끗하지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① isn't - aren't  ✗  첫째 칸은 맞지만, 접시 한 개인 The plate에 aren't는 틀려요",
+    "② am not - aren't  ✗  첫째 칸: am not은 주어 I에만 써요",
+    "③ aren't - isn't  ✗  첫째 칸: 하나로 보는 The soup에 aren't는 틀려요",
+    "④ is not - is not  ✓  The soup에도 The plate에도 is not",
+    "⑤ not - are not  ✗  not만으로는 동사 자리를 못 채워요, The plate에 are not도 틀려요"
+   ],
+   "narration": "정답은 4번이에요. 1번은 첫 칸 isn't는 맞지만, 접시 한 개인 The plate에 aren't를 써서 틀렸어요. 5번은 첫 칸에 not만 썼어요. not 혼자서는 동사 자리를 채우지 못해서, 이 문장에는 is not처럼 be동사가 있어야 해요. 3번은 The soup에 aren't를 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "I → am not · I, you가 아닌 하나 → is not · you, 여럿 → are not",
+   "narration": "정답은 4번이에요. 기억할 것, I는 am not, I도 you도 아닌 하나는 is not, you나 여럿은 are not이에요."
+  },
+  "captions": [
+   "The soup, The plate의 be동사 부정형",
+   "먼저 풀어 보세요",
+   "be동사 뒤에 not, 주어에 맞춰",
+   "The soup → is not, The plate → is not",
+   "정답 ④ is not - is not",
+   "I am not · 하나 is not · 여럿 are not"
+  ],
+  "sec": [
+   13,
+   20,
+   30,
+   38,
+   27,
+   12
+  ]
+ },
+ "E": {
+  "title": "주어에 맞는 be동사 부정형 (My parents, You)",
+  "intro": "이 문제는 주어 My parents와 You에 맞는 be동사 부정형을 골라 바르게 짝지은 것을 찾는 문제예요.",
+  "problem_narration": "다음 빈칸에 알맞은 말이 바르게 짝지어진 것을 고르세요. My parents 빈칸 home, You 빈칸 late. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 부정문: am, is, are 뒤에 not → '아니다', '않다', '없다'",
+    "I → am not",
+    "he, she, it처럼 I, you가 아닌 하나 → is not (isn't)",
+    "you, 그리고 we, they처럼 여럿 → are not (aren't)",
+    "예) The boys are not at school. (그 소년들은 학교에 없어요.)"
+   ],
+   "narration": "be동사 am, is, are 뒤에 not을 붙이면 '아니에요', '않아요', '없어요'라는 뜻이 돼요. 주어가 I면 am not, I도 you도 아닌 하나면 is not, you이거나 여럿이면 are not이에요. is not은 isn't, are not은 aren't로 줄여 쓸 수 있어요. 예를 들어 The boys are not at school, 그 소년들은 학교에 없어요."
+  },
+  "steps": [
+   {
+    "note": "첫 문장 주어 My parents = 부모님 두 분(여럿) → are not. 첫 칸이 isn't, am not인 ②, ④, ⑤를 지운다.",
+    "highlight": [
+     "My parents _______ home."
+    ],
+    "strike": [
+     "② isn't - isn't",
+     "④ isn't - aren't",
+     "⑤ am not - isn't"
+    ],
+    "narration": "첫째, 첫 문장의 주어 My parents는 부모님 두 분, 여럿이라 are not을 써요. 첫 칸이 isn't, am not인 2번, 4번, 5번을 지워요."
+   },
+   {
+    "note": "둘째 문장 주어 You → 한 사람이어도 are not. 둘째 칸이 is not인 ①을 지운다.",
+    "highlight": [
+     "You _______ late."
+    ],
+    "strike": [
+     "① aren't - is not"
+    ],
+    "narration": "둘째, 둘째 문장의 주어 You는 한 사람이어도 are not을 쓰니까, 둘째 칸이 is not인 1번도 지워요."
+   },
+   {
+    "note": "남는 ③ → My parents are not home. / You are not late.",
+    "highlight": [
+     "③ are not - are not"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 3번을 넣으면 My parents are not home, 부모님은 집에 안 계세요. You are not late, 너는 늦지 않았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① aren't - is not  ✗  둘째 칸: You에는 한 사람이어도 is not이 아니라 are not",
+    "② isn't - isn't  ✗  여럿인 My parents에도, You에도 isn't는 틀려요",
+    "③ are not - are not  ✓  My parents에도 You에도 are not",
+    "④ isn't - aren't  ✗  첫째 칸: 부모님 두 분인 My parents에 isn't는 틀려요",
+    "⑤ am not - isn't  ✗  am not은 주어 I에만 써요, You에 isn't도 틀려요"
+   ],
+   "narration": "정답은 3번이에요. 1번은 You에 is not을 썼어요. You는 한 사람을 가리켜도 are not을 써요. 4번은 My parents에 isn't를 썼는데, 부모님은 두 분이라 are not이에요. 2번은 두 칸 모두 isn't를 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "I → am not · I, you가 아닌 하나 → is not · you, 여럿 → are not",
+   "narration": "정답은 3번이에요. 기억할 것, I는 am not, I도 you도 아닌 하나는 is not, you나 여럿은 are not이에요."
+  },
+  "captions": [
+   "My parents, You의 be동사 부정형",
+   "먼저 풀어 보세요",
+   "be동사 뒤에 not, 주어에 맞춰",
+   "My parents → are not, You → are not",
+   "정답 ③ are not - are not",
+   "I am not · 하나 is not · 여럿 are not"
+  ],
+  "sec": [
+   13,
+   20,
+   30,
+   35,
+   23,
+   12
+  ]
+ },
+ "F": {
+  "title": "주어에 맞는 be동사 부정형 (I, She)",
+  "intro": "이 문제는 주어 I와 She에 맞는 be동사 부정형을 골라 바르게 짝지은 것을 찾는 문제예요.",
+  "problem_narration": "다음 빈칸에 알맞은 말이 바르게 짝지어진 것을 고르세요. I 빈칸 busy, She 빈칸 tired. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 부정문: am, is, are 뒤에 not → '아니다', '않다'",
+    "I → am not",
+    "he, she, it처럼 I, you가 아닌 하나 → is not (isn't)",
+    "you, 그리고 we, they처럼 여럿 → are not (aren't)",
+    "예) They are not sad. (그들은 슬프지 않아요.)"
+   ],
+   "narration": "be동사 am, is, are 뒤에 not을 붙이면 '아니에요', '않아요'라는 뜻이 돼요. 주어가 I면 am not, I도 you도 아닌 하나면 is not, you이거나 여럿이면 are not이에요. is not은 isn't, are not은 aren't로 줄여 쓸 수 있어요. 예를 들어 They are not sad, 그들은 슬프지 않아요."
+  },
+  "steps": [
+   {
+    "note": "첫 문장 주어 I → am not. 첫 칸이 am not인 것은 ③뿐 → ①, ②, ④, ⑤를 지운다.",
+    "highlight": [
+     "I _______ busy."
+    ],
+    "strike": [
+     "① isn't - are not",
+     "② are not - are not",
+     "④ aren't - isn't",
+     "⑤ aren't - aren't"
+    ],
+    "narration": "첫째, 첫 문장의 주어 I 뒤에는 am not을 써요. 첫 칸이 am not인 보기는 3번뿐이라, 나머지 1번, 2번, 4번, 5번을 지워요."
+   },
+   {
+    "note": "둘째 문장 주어 She = I, you가 아닌 한 사람 → is not. ③의 둘째 칸 is not 확인.",
+    "highlight": [
+     "She _______ tired.",
+     "③ am not - is not"
+    ],
+    "strike": [],
+    "narration": "둘째, 둘째 문장의 주어 She는 I도 you도 아닌 한 사람이라 is not을 쓰는데, 3번의 둘째 칸이 바로 is not이에요."
+   },
+   {
+    "note": "③ → I am not busy. / She is not tired.",
+    "highlight": [
+     "③ am not - is not"
+    ],
+    "strike": [],
+    "narration": "셋째, 3번을 넣으면 I am not busy, 나는 바쁘지 않아요. She is not tired, 그녀는 피곤하지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① isn't - are not  ✗  I에 isn't, She에 are not을 써서 두 칸 다 틀려요",
+    "② are not - are not  ✗  are not은 you나 여럿에 써요, I와 She에는 안 맞아요",
+    "③ am not - is not  ✓  I에 am not, She에 is not",
+    "④ aren't - isn't  ✗  둘째 칸은 맞지만, 주어 I 뒤에 aren't는 틀려요",
+    "⑤ aren't - aren't  ✗  I 뒤에는 am not, She에는 isn't를 써야 해요"
+   ],
+   "narration": "정답은 3번이에요. 4번은 둘째 칸 isn't는 맞지만, 주어 I 뒤에 aren't를 써서 틀렸어요. I 뒤에는 am not을 써요. 2번은 두 칸 모두 are not을 썼어요. are not은 you나 여럿에 쓰고, I도 you도 아닌 She에는 is not을 써요."
+  },
+  "summary": {
+   "card": "I → am not · I, you가 아닌 하나 → is not · you, 여럿 → are not",
+   "narration": "정답은 3번이에요. 기억할 것, I는 am not, I도 you도 아닌 하나는 is not, you나 여럿은 are not이에요."
+  },
+  "captions": [
+   "I, She의 be동사 부정형",
+   "먼저 풀어 보세요",
+   "be동사 뒤에 not, 주어에 맞춰",
+   "I → am not, She → is not",
+   "정답 ③ am not - is not",
+   "I am not · 하나 is not · 여럿 are not"
+  ],
+  "sec": [
+   12,
+   20,
+   30,
+   36,
+   25,
+   12
+  ]
+ }
+}

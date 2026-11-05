@@ -1,0 +1,30 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "done": true,
+  "doneAt": "2026-10-25T14:43:27.054Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "for - during",
+      "1": "during - for",
+      "2": "while - during",
+      "3": "for - while",
+      "4": "during - during"
+    },
+    "expl": "핵심 규칙: for는 기간의 길이(an hour, two hours), during은 특정한 때(the lesson, the movie, the test) 앞에 쓰고, while은 뒤에 주어 + 동사가 오는 절을 이끈다.\n풀이 순서: ① 빈칸 뒤의 말을 본다. 숫자가 든 기간의 길이면 for, 특정한 때를 나타내는 명사면 during, 주어 + 동사면 while이다. → ② the lesson은 명사이므로 during, an hour는 기간의 길이이므로 for다. → ③ 정답은 for - during.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n② [오답] 첫째 빈칸 during: for는 기간의 길이(숫자 + 시간) 앞에 쓴다(→ for), 둘째 빈칸 for: during은 특정한 때를 나타내는 명사 앞에 쓴다(→ during). 따라서 오답이다.\n③ [오답] 첫째 빈칸 while: for는 기간의 길이(숫자 + 시간) 앞에 쓴다(→ for). 따라서 오답이다.\n④ [오답] 둘째 빈칸 while: during은 특정한 때를 나타내는 명사 앞에 쓴다(→ during). 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 during: for는 기간의 길이(숫자 + 시간) 앞에 쓴다(→ for). 따라서 오답이다.",
+    "passage": "I studied English ________ two hours.\nShe cried ________ the sad movie.",
+    "stem": null
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:43:26.144Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-25T14:43:27.054Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:43:27.054Z",
+      "what": "확인 완료"
+    }
+  }
+}

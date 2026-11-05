@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:18:57.012Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "(가), (나), (다)",
+      "1": "(나), (다), (라)",
+      "2": "(가), (다), (마)",
+      "3": "(가), (라), (마)",
+      "4": "(나), (라), (마)"
+    },
+    "expl": "핵심 규칙: what은 선행사를 포함해 ‘~하는 것’의 뜻으로 관계절 안에서 주어·목적어가 된다. 선행사(the thing, everything, all 등)가 있으면 what 대신 that·which를 쓰고, what 뒤 절에는 목적어를 다시 쓰지 않는다.\n풀이 순서: ① what 앞에 선행사(명사)가 있는지 본다. 선행사가 있으면 what을 쓸 수 없다. → ② what 뒤 절에 목적어(it)를 다시 쓰거나 what과 that을 겹쳐 쓴 것, 의문문 어순을 쓴 것도 틀린다. → ③ 틀린 문장을 지운다: (나) The detail what, (다) What we discovered it. 남은 세 문장을 묶은 (가), (라), (마)가 정답이다.\n문장별 판정:\n(가) O. what이 ‘~한 것’으로 described의 목적어 역할을 한다.\n(나) X. 선행사(The detail) 뒤에는 what을 쓰지 않는다.\n(다) X. what이 이미 discovered의 목적어이므로 it을 다시 쓰지 않는다.\n(라) O. what이 meant의 목적어 역할을 한다.\n(마) O. 선행사(Everything) + 관계대명사 that이다.\n정답 판단: 옳은 문장은 (가), (라), (마)이고, 이 문장들로만 묶인 보기가 정답이다.\n선택지 분석:\n① [오답] (나), (다)는 옳은 문장이 아니고, 옳은 문장 (라), (마)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (나), (다)는 옳은 문장이 아니고, 옳은 문장 (가), (마)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (라)를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 (가), (라), (마)를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] (나)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(가) What the witness described matched the video.\n(나) The detail what she mentioned was important.\n(다) What we discovered it changed the plan.\n(라) I understood what he meant.\n(마) Everything that the report contained was checked.",
+    "stem": "다음 중 어법상 옳은 문장으로만 묶인 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T07:18:36.288Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T07:18:57.012Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T07:18:57.012Z",
+      "what": "확인 완료"
+    }
+  }
+}

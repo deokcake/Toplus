@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T18:28:47.434Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "on",
+      "1": "at",
+      "2": "during",
+      "3": "by",
+      "4": "since"
+    },
+    "expl": "핵심 규칙: by는 ‘~까지’ 한 번 끝내야 하는 완료 기한을, until은 ‘~까지’ 계속되는 상태·동작의 끝을 나타낸다.\n풀이 순서: ① 발문의 뜻은 ‘2010년에’다. 2010은 연도다. → ② 연도 앞에는 in을 쓴다. on을 in으로 고친다. → ③ 정답은 by.\n문장별 판정:\n정답 판단: 보고서는 내일 아침까지 끝내야 하는 기한이라 by로 고쳐야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] tomorrow 앞에 on을 쓰지 않으므로 오답이다.\n② [오답] tomorrow morning 앞에 at을 쓰지 않으므로 오답이다.\n③ [오답] during은 ‘~ 동안’이라 기한을 나타내지 못하므로 오답이다.\n④ [정답] 보고서는 내일 아침까지 끝내야 하는 기한이라 by로 고쳐야 하므로 정답이다.\n⑤ [오답] since는 ‘~ 이래로’라 뜻이 맞지 않으므로 오답이다.",
+    "passage": "The report has to be done <u>until</u> tomorrow morning.\n(그 보고서는 내일 아침까지 끝내야 한다.)",
+    "stem": "다음 문장에서 밑줄 친 부분을 바르게 고친 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:28:44.336Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:28:47.434Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:28:47.434Z",
+      "what": "확인 완료"
+    }
+  }
+}

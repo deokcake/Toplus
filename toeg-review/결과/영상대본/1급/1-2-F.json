@@ -1,0 +1,178 @@
+{
+ "key": "1-2",
+ "type": "F",
+ "grade": 1,
+ "chapter": "CH 1 문장의 구조",
+ "title": "동사에 따라 고르는 전치사 to와 for",
+ "total_sec": 135,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "1급 · CH 1 문장의 구조 · 2번 · F 유형\n\n이 문제는 동사에 맞는 전치사 to와 for를 가려, 전치사가 다른 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 1 문장의 구조 · 2번 · F 유형",
+     "이 문제는 동사에 맞는 전치사 to와 for를 가려, 전치사가 다른 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 1, 2번 F 유형. 이 문제는 동사에 맞는 전치사 to와 for를 가려, 전치사가 다른 문장을 고르는 문제예요.",
+   "caption": "to와 for, 다른 하나 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 들어가는 전치사가 다른 것을 고르시오.\n\n① We passed the ball _____ Tom.\n② I ordered a taxi _____ my grandparents.\n③ She told the news _____ her parents.\n④ He returned the book _____ the librarian.\n⑤ I sent the invitation _____ Jane.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 들어가는 전치사가 다른 것을 고르시오.",
+     "① We passed the ball _____ Tom.",
+     "② I ordered a taxi _____ my grandparents.",
+     "③ She told the news _____ her parents.",
+     "④ He returned the book _____ the librarian.",
+     "⑤ I sent the invitation _____ Jane."
+    ]
+   },
+   "narration": "다음 중 들어가는 전치사가 다른 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\n동사 + 물건 + 전치사(to/for) + 받는 사람\n건네거나 전하는 동사 → to (누구에게): give, send, show, tell, lend\n만들거나 마련해 주는 동사 → for (누구를 위해): make, buy, cook, get\n예) I gave a pen to Jisu. (지수에게 펜을 줬어요.)  I bought a pen for Jisu. (지수를 위해 펜을 샀어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "동사 + 물건 + 전치사(to/for) + 받는 사람",
+     "건네거나 전하는 동사 → to (누구에게): give, send, show, tell, lend",
+     "만들거나 마련해 주는 동사 → for (누구를 위해): make, buy, cook, get",
+     "예) I gave a pen to Jisu. (지수에게 펜을 줬어요.)  I bought a pen for Jisu. (지수를 위해 펜을 샀어요.)"
+    ]
+   },
+   "narration": "동사와 물건 뒤에 받는 사람이 오면 그 앞에 전치사를 써요. give, send, show처럼 상대에게 건네거나 전하는 동사는 to를, make, buy, cook처럼 상대를 위해 만들거나 마련해 주는 동사는 for를 써요. I gave a pen to Jisu. 지수에게 펜을 줬어요. I bought a pen for Jisu. 지수를 위해 펜을 샀어요.",
+   "caption": "건네면 to, 해 주면 for"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 39,
+   "screen": {
+    "text": "다음 중 들어가는 전치사가 다른 것을 고르시오.\n\n① We passed the ball _____ Tom.\n② I ordered a taxi _____ my grandparents.\n③ She told the news _____ her parents.\n④ He returned the book _____ the librarian.\n⑤ I sent the invitation _____ Jane.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "passed",
+       "ordered",
+       "told",
+       "returned",
+       "sent"
+      ],
+      "strike": [],
+      "note": "빈칸 앞 동사: passed(pass), ordered(order), told(tell), returned(return), sent(send)"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① We passed the ball _____ Tom.",
+       "③ She told the news _____ her parents.",
+       "④ He returned the book _____ the librarian.",
+       "⑤ I sent the invitation _____ Jane."
+      ],
+      "note": "pass·tell·return·send = 상대에게 건네거나 전함 → to"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② I ordered a taxi _____ my grandparents."
+      ],
+      "strike": [],
+      "note": "order = 조부모님을 위해 택시를 불러 줌 → for"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 빈칸 앞 동사를 원래 모양으로 찾으면 pass, order, tell, return, send예요. 둘째, pass, tell, return, send는 공을 건네고, 소식을 전하고, 책을 돌려주고, 초대장을 보내는 동사예요. 모두 무언가를 상대에게 건네거나 전하는 것이라 to를 써요. 셋째, 남은 order는 여기서 상대를 위해 택시를 불러 준다는 뜻이라 for를 써요. I ordered a taxi for my grandparents. 나는 할머니와 할아버지를 위해 택시를 불렀어요.",
+   "caption": "동사 찾기 → to 넷 → order만 for"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① We passed the ball _____ Tom.  ✗  pass: 공을 건넴 → to\n② I ordered a taxi _____ my grandparents.  ✓  order: 조부모님을 위해 불러 줌 → for\n③ She told the news _____ her parents.  ✗  tell: 소식을 전함 → to\n④ He returned the book _____ the librarian.  ✗  return: 책을 돌려줌 → to\n⑤ I sent the invitation _____ Jane.  ✗  send: 초대장을 보냄 → to",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① We passed the ball _____ Tom.  ✗  pass: 공을 건넴 → to",
+     "② I ordered a taxi _____ my grandparents.  ✓  order: 조부모님을 위해 불러 줌 → for",
+     "③ She told the news _____ her parents.  ✗  tell: 소식을 전함 → to",
+     "④ He returned the book _____ the librarian.  ✗  return: 책을 돌려줌 → to",
+     "⑤ I sent the invitation _____ Jane.  ✗  send: 초대장을 보냄 → to"
+    ]
+   },
+   "narration": "정답은 2번이에요. 나머지 네 문장은 모두 to를 써요. 3번은 부모님을 위한 일처럼 보여 for를 고르기 쉽지만, tell은 소식을 상대에게 전하는 동사라 to예요. 4번 returned는 return의 과거형으로, 책을 사서에게 돌려주는 것이라 to를 써요. 1번 pass도 공을 Tom에게 건네는 것이라 to예요.",
+   "caption": "정답 ② ordered … for"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ② I ordered a taxi _____ my grandparents.\n\n건네거나 전하는 동사 → to, 만들거나 마련해 주는 동사 → for",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② I ordered a taxi _____ my grandparents.",
+     "건네거나 전하는 동사 → to, 만들거나 마련해 주는 동사 → for"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 상대에게 건네거나 전하는 동사는 to, 상대를 위해 만들거나 마련해 주는 동사는 for를 써요.",
+   "caption": "건네면 to, 마련해 주면 for"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 들어가는 전치사가 다른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "We passed the ball _____ Tom.",
+   "I ordered a taxi _____ my grandparents.",
+   "She told the news _____ her parents.",
+   "He returned the book _____ the librarian.",
+   "I sent the invitation _____ Jane."
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 사물·정보를 상대에게 전달하는 send/give/show/lend/hand/pass 등은 3형식에서 to를, 상대를 위해 준비·구매·조리하는 make/buy/prepare/reserve/cook/order 등은 for를 쓴다. ask a question/favor of + 사람처럼 of를 쓰는 결합도 별도로 구별한다.\n풀이 순서: ① 보기마다 빈칸 앞의 동사를 찾는다: pass, order, tell, return, send. → ② ‘~에게 건네는’ 동사는 to, ‘~을 위해 해 주는’ 동사는 for를 쓴다. → ③ order만 for를 쓰는 동사이므로 정답은 ②.\n문장별 판정:\n정답 판단: ‘I ordered a taxi _____ my grandparents.’는 order A for B 구조이므로 ‘for’가 필요하다. 나머지 네 문장은 다른 전치사 유형이므로 정답이다.\n선택지 분석:\n① [오답] ‘We passed the ball _____ Tom.’는 pass A to B 구조이므로 빈칸에는 ‘to’가 필요하다. 정답 선택지와 달리 나머지와 같은 전치사 유형이므로 오답이다.\n② [정답] ‘I ordered a taxi _____ my grandparents.’는 order A for B 구조이므로 빈칸에는 ‘for’가 필요하다. 나머지 네 문장과 전치사 유형이 달라 정답이다.\n③ [오답] ‘She told the news _____ her parents.’는 tell A to B 구조이므로 빈칸에는 ‘to’가 필요하다. 정답 선택지와 달리 나머지와 같은 전치사 유형이므로 오답이다.\n④ [오답] ‘He returned the book _____ the librarian.’는 return A to B 구조이므로 빈칸에는 ‘to’가 필요하다. 정답 선택지와 달리 나머지와 같은 전치사 유형이므로 오답이다.\n⑤ [오답] ‘I sent the invitation _____ Jane.’는 send A to B 구조이므로 빈칸에는 ‘to’가 필요하다. 정답 선택지와 달리 나머지와 같은 전치사 유형이므로 오답이다."
+ }
+}

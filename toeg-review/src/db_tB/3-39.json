@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:01:05.657Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(가), (나)",
+      "1": "(가), (다)",
+      "2": "(나), (다)",
+      "3": "(나), (라)",
+      "4": "(다), (라)"
+    },
+    "expl": "핵심 규칙: 현재진행형은 am/is/are + 동사-ing로 만들며 be동사는 주어에 맞춘다. -e로 끝나면 e를 빼고 -ing(write → writing), 단모음 + 단자음이면 자음을 한 번 더 쓴다(sit → sitting). know·want 같은 상태동사는 보통 진행형으로 쓰지 않는다.\n풀이 순서: ① 문장마다 ‘be동사 + -ing’가 갖춰졌는지 본다. be동사가 주어에 맞는지, 뒤가 -ing인지 확인한다. → ② -ing의 철자(e를 빼는 동사, 끝 자음을 겹쳐 쓰는 동사)와 진행형으로 쓰지 않는 상태 동사도 확인한다. → ③ 틀린 문장을 지운다: (나) haveing, (라) is knowing. 남은 두 문장을 묶은 (가), (다)가 정답이다.\n문장별 판정:\n(가) O. is + -ing의 현재진행형이다.\n(나) X. have는 e를 빼고 having으로 쓴다.\n(다) O. are + -ing의 현재진행형이다.\n(라) X. know는 상태동사라 보통 진행형으로 쓰지 않는다(She knows the answer).\n정답 판단: 옳은 문장은 (가), (다)이다.\n선택지 분석:\n① [오답] (나)는 옳은 문장이 아니고, 옳은 문장 (다)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 옳은 문장 (가), (다)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (나)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (나), (라)는 옳은 문장이 아니고, 옳은 문장 (가), (다)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (라)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(가) My mom is cooking dinner now.\n(나) Tom is haveing lunch.\n(다) We are waiting for the bus.\n(라) She is knowing the answer.",
+    "stem": "다음 중 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-20T08:23:56.236Z"
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T08:23:56.236Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T08:23:56.236Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

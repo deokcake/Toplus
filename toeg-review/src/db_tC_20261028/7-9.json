@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-20T08:42:31.523Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": "an - a - a",
+      "4": null
+    },
+    "expl": "핵심 규칙: a/an은 뒤에 오는 낱말의 첫소리로 정한다. 모음 소리(a, e, i, o, u 소리)로 시작하면 an, 자음 소리로 시작하면 a를 쓴다.\n풀이 순서: ① 빈칸마다 뒤 낱말의 첫소리를 본다: onion(모음), carrot(자음), tomato(자음). → ② 모음 소리면 an, 자음 소리면 a를 넣는다. → ③ 정답은 an - a - a.\n문장별 판정:\n정답 판단: 세 빈칸 모두 첫소리에 맞는 a/an을 골랐으므로 정답은 ④이다.\n선택지 분석:\n① [오답] (A) 모음 소리로 시작하는 낱말(onion) 앞에는 an, (C) 자음 소리로 시작하는 낱말(tomato) 앞에는 a가 와야 하므로 오답이다.\n② [오답] (B) 자음 소리로 시작하는 낱말(carrot) 앞에는 a가 와야 하므로 오답이다.\n③ [오답] (A) 모음 소리로 시작하는 낱말(onion) 앞에는 an이 와야 하므로 오답이다.\n④ [정답] 세 빈칸 모두 첫소리에 맞는 a/an을 골랐으므로 정답이다.\n⑤ [오답] (C) 자음 소리로 시작하는 낱말(tomato) 앞에는 a가 와야 하므로 오답이다.",
+    "passage": "There is (A)_______ onion, (B)_______ carrot, and (C)_______ tomato in the basket.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-20T08:42:30.563Z"
+  },
+  "tab": "n2uhrol0",
+  "updatedAt": "2026-10-20T08:42:31.523Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-20T08:42:31.523Z",
+      "what": "확인 완료"
+    }
+  }
+}

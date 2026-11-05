@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T05:00:45.566Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "We visited only not Busan but also Seoul.",
+      "2": "We visited not Busan only but also Seoul.",
+      "3": "We not visited only Busan but also Seoul.",
+      "4": "We visited not only Busan also but Seoul."
+    },
+    "expl": "핵심 규칙: not only A but also B는 ‘A뿐 아니라 B도’라는 뜻이며, not only와 but also를 떼지 않고 A와 B 바로 앞에 각각 둔다.\n풀이 순서: ① ‘A뿐만 아니라 B도’는 not only A but also B다. A와 B를 정한다: A는 Busan, B는 Seoul. → ② We visited 뒤에 not only A but also B를 통째로 놓는다. not only와 but also는 떼거나 순서를 바꾸지 않는다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: not only A but also B 어순으로 바르게 배열했으므로 정답은 ①이다.\n선택지 분석:\n① [정답] not only A but also B 어순으로 바르게 배열했으므로 정답이다.\n② [오답] only not이 아니라 not only로 써야 하므로 오답이다.\n③ [오답] not과 only를 떼어 쓸 수 없으므로 오답이다.\n④ [오답] not이 일반동사 앞에 오고 only와 떨어져 어순이 틀렸으므로 오답이다.\n⑤ [오답] also but이 아니라 but also로 써야 하므로 오답이다.",
+    "passage": "우리는 부산뿐만 아니라 서울도 방문했다.\n(not / Seoul / Busan / we / visited / but / also / only)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T05:00:40.584Z"
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T05:00:45.566Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T05:00:45.566Z",
+      "what": "확인 완료"
+    }
+  }
+}

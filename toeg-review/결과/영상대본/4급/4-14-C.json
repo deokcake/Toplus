@@ -1,0 +1,186 @@
+{
+ "key": "4-14",
+ "type": "C",
+ "grade": 4,
+ "chapter": "CH 2 대명사",
+ "title": "단수·복수 취급 명사와 동사",
+ "total_sec": 129,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "4급 · CH 2 대명사 · 14번 · C 유형\n\n이 문제는 주어가 단수 취급인지 복수 취급인지 보고, 동사가 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 2 대명사 · 14번 · C 유형",
+     "이 문제는 주어가 단수 취급인지 복수 취급인지 보고, 동사가 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 2, 14번 C 유형. 이 문제는 주어가 단수 취급인지 복수 취급인지 보고, 동사가 틀린 문장을 고르는 문제예요.",
+   "caption": "단수·복수 취급 명사와 동사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분이 틀린 문장을 고르시오.\n\n① The scissors <u>are</u> on the desk.\n② This bread <u>is</u> fresh.\n③ Physics <u>is</u> hard for me.\n④ My pants <u>is</u> too long.\n⑤ The children <u>are</u> playing.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 밑줄 친 부분이 틀린 문장을 고르시오.",
+     "① The scissors <u>are</u> on the desk.",
+     "② This bread <u>is</u> fresh.",
+     "③ Physics <u>is</u> hard for me.",
+     "④ My pants <u>is</u> too long.",
+     "⑤ The children <u>are</u> playing."
+    ]
+   },
+   "narration": "다음 중 밑줄 친 부분이 틀린 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\n학문 이름(physics, mathematics) → s로 끝나도 단수 취급\n셀 수 없는 명사(bread, advice) → 단수 취급\npants, jeans, scissors(두 부분이 짝인 물건) → 하나여도 복수 취급\n이런 명사가 주어일 때: 단수 취급 → is, was, looks   복수 취급 → are, were, look\n예) Economics is difficult. (경제학은 어려워요.)  These jeans are old. (이 청바지는 낡았어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "학문 이름(physics, mathematics) → s로 끝나도 단수 취급",
+     "셀 수 없는 명사(bread, advice) → 단수 취급",
+     "pants, jeans, scissors(두 부분이 짝인 물건) → 하나여도 복수 취급",
+     "이런 명사가 주어일 때: 단수 취급 → is, was, looks   복수 취급 → are, were, look",
+     "예) Economics is difficult. (경제학은 어려워요.)  These jeans are old. (이 청바지는 낡았어요.)"
+    ]
+   },
+   "narration": "physics 같은 학문 이름은 s로 끝나도 단수 취급하고, bread 같은 셀 수 없는 명사도 단수 취급해요. pants, scissors처럼 두 부분이 짝을 이루는 물건은 하나여도 복수 취급해요. 이런 주어가 단수 취급이면 is나 looks, 복수 취급이면 are나 look처럼 써요. 예를 들어 Economics is difficult, 경제학은 어려워요. These jeans are old, 이 청바지는 낡았어요.",
+   "caption": "단수 취급과 복수 취급"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 40,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분이 틀린 문장을 고르시오.\n\n① The scissors <u>are</u> on the desk.\n② This bread <u>is</u> fresh.\n③ Physics <u>is</u> hard for me.\n④ My pants <u>is</u> too long.\n⑤ The children <u>are</u> playing.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "scissors",
+       "bread",
+       "Physics",
+       "pants",
+       "children"
+      ],
+      "strike": [],
+      "note": "밑줄 친 동사의 주어 찾기: scissors, bread, Physics, pants, children"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "② This bread <u>is</u> fresh.",
+       "③ Physics <u>is</u> hard for me."
+      ],
+      "note": "bread = 셀 수 없는 명사, Physics = 학문 이름 → 단수 취급 → is 맞음"
+     },
+     {
+      "step": 3,
+      "highlight": [],
+      "strike": [
+       "① The scissors <u>are</u> on the desk.",
+       "⑤ The children <u>are</u> playing."
+      ],
+      "note": "scissors = 두 부분이 짝인 물건, children = child의 복수형 → are 맞음"
+     },
+     {
+      "step": 4,
+      "highlight": [
+       "④ My pants <u>is</u> too long."
+      ],
+      "strike": [],
+      "note": "pants = 두 부분이 짝인 물건 → 하나여도 복수 취급 → is ✗ → are"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 밑줄 친 동사의 주어 scissors, bread, Physics, pants, children을 찾아요. 둘째, bread는 셀 수 없는 명사이고 Physics는 학문 이름이라 둘 다 단수 취급하니, is가 맞아요. 셋째, scissors는 두 부분이 짝을 이루는 물건이고 children은 child의 복수형이라, are가 맞아요. 넷째, pants도 두 부분이 짝을 이루는 물건이라 하나여도 복수 취급하니, is가 아니라 are를 써야 해요. My pants are too long, 내 바지는 너무 길어요.",
+   "caption": "주어 찾기 → 단수 → 복수 확인"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 21,
+   "screen": {
+    "text": "① The scissors <u>are</u> on the desk.  ✗  scissors는 두 부분이 짝인 물건 → 복수 are\n② This bread <u>is</u> fresh.  ✗  bread는 셀 수 없는 명사 → 단수 is\n③ Physics <u>is</u> hard for me.  ✗  학문 이름은 s로 끝나도 단수 취급 → is\n④ My pants <u>is</u> too long.  ✓  pants는 두 부분이 짝인 물건 → are로 고쳐요\n⑤ The children <u>are</u> playing.  ✗  children은 child의 복수형 → are",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① The scissors <u>are</u> on the desk.  ✗  scissors는 두 부분이 짝인 물건 → 복수 are",
+     "② This bread <u>is</u> fresh.  ✗  bread는 셀 수 없는 명사 → 단수 is",
+     "③ Physics <u>is</u> hard for me.  ✗  학문 이름은 s로 끝나도 단수 취급 → is",
+     "④ My pants <u>is</u> too long.  ✓  pants는 두 부분이 짝인 물건 → are로 고쳐요",
+     "⑤ The children <u>are</u> playing.  ✗  children은 child의 복수형 → are"
+    ]
+   },
+   "narration": "정답은 4번이에요. pants는 바지 한 벌이어도 복수 취급해서 are를 써야 해요. 3번 Physics는 s로 끝나서 복수처럼 보이지만, 학문 이름이라 is가 맞아요. 1번 scissors 역시 가위 하나여도 복수 취급해서 are가 맞아요.",
+   "caption": "정답 ④ My pants is"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ④ My pants <u>is</u> too long.\n\n학문 이름·셀 수 없는 명사 → 단수 취급   두 부분이 짝인 물건 → 복수 취급",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ My pants <u>is</u> too long.",
+     "학문 이름·셀 수 없는 명사 → 단수 취급   두 부분이 짝인 물건 → 복수 취급"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, pants나 scissors처럼 두 부분이 짝을 이루는 물건은 하나여도 복수 취급해요.",
+   "caption": "짝인 물건은 복수 취급"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 밑줄 친 부분이 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "The scissors <u>are</u> on the desk.",
+   "This bread <u>is</u> fresh.",
+   "Physics <u>is</u> hard for me.",
+   "My pants <u>is</u> too long.",
+   "The children <u>are</u> playing."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: news·information·advice·furniture와 학문 이름(mathematics, physics, economics)은 단수 취급하고, pants·jeans·scissors·glasses·socks처럼 짝을 이루는 물건과 police는 복수 취급한다.\n풀이 순서: ① 주어 명사를 둘로 가른다: 단수 취급(news, information, advice, 학문 이름), 복수 취급(짝을 이루는 물건, police). → ② 밑줄 친 동사가 그에 맞는지 본다. news는 단수 취급한다. ③의 are가 틀렸다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: pants는 복수 취급해 are를 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 복수 취급하는 명사라 복수 동사가 맞으므로 오답이다.\n② [오답] 단수 취급하는 명사라 단수 동사가 맞으므로 오답이다.\n③ [오답] 단수 취급하는 명사라 단수 동사가 맞으므로 오답이다.\n④ [정답] pants는 복수 취급해 are를 써야 하므로 정답이다.\n⑤ [오답] 복수 취급하는 명사라 복수 동사가 맞으므로 오답이다."
+ }
+}

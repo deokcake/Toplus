@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:32:42.988Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "He has <u>a few</u> money.",
+      "1": "There are <u>little</u> apples.",
+      "2": "She bought <u>a few</u> eggs.",
+      "3": "I need <u>many</u> sugar.",
+      "4": "We have <u>much</u> classes today."
+    },
+    "expl": "핵심 규칙: many·(a) few는 셀 수 있는 명사의 복수형, much·(a) little은 셀 수 없는 명사와 함께 쓴다.\n풀이 순서: ① 밑줄 뒤의 명사가 셀 수 있는지 하나씩 본다. → ② 셀 수 있는 명사에는 (a) few·many, 셀 수 없는 명사에는 (a) little·much다. → ③ 선택지 ③만 eggs(셀 수 있음) 앞에 a few를 써서 맞다. 정답은 ③.\n문장별 판정:\n정답 판단: 셀 수 있는 명사 eggs에 a few를 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 셀 수 없는 명사 money에는 a little을 쓰므로 오답이다.\n② [오답] 셀 수 있는 명사 apples에는 few를 쓰므로 오답이다.\n③ [정답] 셀 수 있는 명사 eggs에 a few를 바르게 썼으므로 정답이다.\n④ [오답] 셀 수 없는 명사 sugar에는 much를 쓰므로 오답이다.\n⑤ [오답] 셀 수 있는 명사 classes에는 many를 쓰므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 부분의 쓰임이 어법상 옳은 것은?"
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:32:41.966Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:32:42.988Z",
+      "what": "확인 완료"
+    }
+  }
+}

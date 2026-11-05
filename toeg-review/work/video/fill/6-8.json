@@ -1,0 +1,464 @@
+{
+ "A": {
+  "title": "ten 뒤 child의 복수형",
+  "intro": "이 문제는 수를 나타내는 말 ten 뒤에 오는 명사의 알맞은 형태를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 단어의 형태가 알맞은 것을 고르세요. There are ten, 빈칸, in the classroom. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 있는 명사: 하나 → 단수형 (a cat), 둘 이상 → 복수형 (two cats)",
+    "복수형은 대부분 끝에 s나 es를 붙여요 (cats, boxes)",
+    "불규칙 복수형: child → children, foot → feet, mouse → mice",
+    "이런 명사는 s나 es를 붙여 복수형을 만들지 않아요",
+    "예) I see two dogs and three mice. (나는 개 두 마리와 쥐 세 마리를 봐요.)"
+   ],
+   "narration": "셀 수 있는 명사가 하나이면 단수형을 쓰고, two나 three처럼 둘 이상이면 복수형을 써요. 복수형은 대부분 cats, boxes처럼 끝에 s나 es를 붙여서 만들어요. 그런데 child는 children, foot은 feet, mouse는 mice처럼 모양이 바뀌는 명사도 있어요. 이것을 불규칙 복수형이라고 하는데, s나 es를 붙여서 만들지 않아요. I see two dogs and three mice. 나는 개 두 마리와 쥐 세 마리를 봐요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 앞 ten(열) → 둘 이상 → 복수형이 필요. 단수형 student, child는 지운다.",
+    "highlight": [
+     "There are ten _______"
+    ],
+    "strike": [
+     "① student",
+     "② child"
+    ],
+    "narration": "첫째, 빈칸 앞에 ten이 있어서 열 명을 나타내는 복수형이 필요하니까, 단수형 student와 child는 지워요."
+   },
+   {
+    "note": "child의 복수형 = children(모양이 바뀜) → childs는 없는 형태, children에 s를 또 붙인 childrens도 지운다.",
+    "highlight": [
+     "③ children"
+    ],
+    "strike": [
+     "④ childs",
+     "⑤ childrens"
+    ],
+    "narration": "둘째, child는 s를 붙이지 않고 children으로 모양이 바뀌어요. 그래서 childs는 지우고, 이미 복수형인 children에 s를 또 붙인 childrens도 지워요."
+   },
+   {
+    "note": "남는 것은 children → There are ten children in the classroom.",
+    "highlight": [
+     "③ children"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 children이에요. There are ten children in the classroom. 교실에 아이들이 열 명 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① student  ✗  하나일 때 쓰는 단수형이에요 (열 명이면 students)",
+    "② child  ✗  한 명을 나타내는 단수형이에요",
+    "③ children  ✓  child의 복수형은 모양이 바뀐 children",
+    "④ childs  ✗  child는 s를 붙여 복수형을 만들지 않아요",
+    "⑤ childrens  ✗  children은 이미 복수형이라 s를 또 붙이지 않아요"
+   ],
+   "narration": "정답은 3번 children이에요. 4번 childs를 고르기 쉽지만, child는 s를 붙이지 않고 children으로 모양이 바뀌어요. 5번 childrens는 이미 복수형인 children에 s를 또 붙여서 틀렸어요. 2번 child는 한 명을 나타내는 단수형이라 열 명을 말할 때는 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "둘 이상 → 복수형, child → children (s를 붙이지 않아요)",
+   "narration": "정답은 3번이에요. 기억할 것, 둘 이상이면 명사는 복수형을 쓰고, child의 복수형은 s를 붙이지 않고 children이에요."
+  },
+  "captions": [
+   "ten 뒤 명사의 형태",
+   "먼저 풀어 보세요",
+   "둘 이상이면 복수형",
+   "ten → 단수형 지우기 → children",
+   "정답 ③ children",
+   "child의 복수형은 children"
+  ],
+  "sec": [
+   10,
+   15,
+   27,
+   36,
+   28,
+   10
+  ]
+ },
+ "B": {
+  "title": "Four 뒤 woman의 복수형",
+  "intro": "이 문제는 수를 나타내는 말 Four 뒤에 오는 명사의 알맞은 형태를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 단어의 형태가 알맞은 것을 고르세요. Four, 빈칸, are working in the kitchen. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 있는 명사: 하나 → 단수형 (a cat), 둘 이상 → 복수형 (two cats)",
+    "복수형은 대부분 끝에 s나 es를 붙여요 (cats, boxes)",
+    "불규칙 복수형: woman → women, man → men, mouse → mice",
+    "이런 명사는 s나 es를 붙여 복수형을 만들지 않아요",
+    "예) I see two dogs and three mice. (나는 개 두 마리와 쥐 세 마리를 봐요.)"
+   ],
+   "narration": "셀 수 있는 명사가 하나이면 단수형을 쓰고, two나 three처럼 둘 이상이면 복수형을 써요. 복수형은 대부분 cats, boxes처럼 끝에 s나 es를 붙여서 만들어요. 그런데 woman은 women, man은 men, mouse는 mice처럼 모양이 바뀌는 명사도 있어요. 이것을 불규칙 복수형이라고 하는데, s나 es를 붙여서 만들지 않아요. I see two dogs and three mice. 나는 개 두 마리와 쥐 세 마리를 봐요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 앞 Four(넷), 뒤 are → 복수형이 필요. 단수형 woman, a woman은 지운다.",
+    "highlight": [
+     "Four _______ are"
+    ],
+    "strike": [
+     "② woman",
+     "③ a woman"
+    ],
+    "narration": "첫째, 빈칸 앞에 넷을 뜻하는 Four가 있고 뒤에 are가 있으니 복수형이 필요해요. 그래서 한 명을 나타내는 woman과 a woman은 지워요."
+   },
+   {
+    "note": "woman의 복수형 = women(모양이 바뀜) → s, es를 붙인 womans, womanes는 지운다.",
+    "highlight": [
+     "④ women"
+    ],
+    "strike": [
+     "⑤ womans",
+     "① womanes"
+    ],
+    "narration": "둘째, woman의 복수형은 s나 es를 붙이지 않고 모양이 바뀐 women이라서, womans와 womanes도 지워요."
+   },
+   {
+    "note": "남는 것은 women → Four women are working in the kitchen.",
+    "highlight": [
+     "④ women"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 women이에요. Four women are working in the kitchen. 여자 네 명이 부엌에서 일하고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① womanes  ✗  woman은 es를 붙여 복수형을 만들지 않아요",
+    "② woman  ✗  한 명을 나타내는 단수형이에요",
+    "③ a woman  ✗  a는 '하나'라는 뜻이라 Four와 함께 쓸 수 없어요",
+    "④ women  ✓  woman의 복수형은 모양이 바뀐 women",
+    "⑤ womans  ✗  woman은 s를 붙여 복수형을 만들지 않아요"
+   ],
+   "narration": "정답은 4번 women이에요. 5번 womans를 고르기 쉽지만, woman은 s를 붙이지 않고 women으로 모양이 바뀌어요. 1번 womanes도 es를 붙인 꼴이라 woman의 복수형이 아니에요. 3번 a woman은 a가 하나라는 뜻이라 넷을 나타내는 Four와 함께 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "둘 이상 → 복수형, woman → women (s를 붙이지 않아요)",
+   "narration": "정답은 4번이에요. 기억할 것, 둘 이상이면 명사는 복수형을 쓰고, woman의 복수형은 s를 붙이지 않고 women이에요."
+  },
+  "captions": [
+   "Four 뒤 명사의 형태",
+   "먼저 풀어 보세요",
+   "둘 이상이면 복수형",
+   "Four → 단수형 지우기 → women",
+   "정답 ④ women",
+   "woman의 복수형은 women"
+  ],
+  "sec": [
+   10,
+   15,
+   27,
+   34,
+   27,
+   10
+  ]
+ },
+ "C": {
+  "title": "three 뒤 foot의 복수형",
+  "intro": "이 문제는 수를 나타내는 말 three 뒤에 오는 명사의 알맞은 형태를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 단어의 형태가 알맞은 것을 고르세요. The two desks are three, 빈칸, apart. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 있는 명사: 하나 → 단수형 (a cat), 둘 이상 → 복수형 (two cats)",
+    "복수형은 대부분 끝에 s나 es를 붙여요 (cats, boxes)",
+    "불규칙 복수형: foot → feet, tooth → teeth, mouse → mice",
+    "이런 명사는 s나 es를 붙여 복수형을 만들지 않아요",
+    "예) I see two dogs and three mice. (나는 개 두 마리와 쥐 세 마리를 봐요.)"
+   ],
+   "narration": "셀 수 있는 명사가 하나이면 단수형을 쓰고, two나 three처럼 둘 이상이면 복수형을 써요. 복수형은 대부분 cats, boxes처럼 끝에 s나 es를 붙여서 만들어요. 그런데 foot은 feet, tooth는 teeth, mouse는 mice처럼 모양이 바뀌는 명사도 있어요. 이것을 불규칙 복수형이라고 하는데, s나 es를 붙여서 만들지 않아요. I see two dogs and three mice. 나는 개 두 마리와 쥐 세 마리를 봐요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 바로 앞 three(셋). foot = 길이 단위 피트 → 3피트이니 복수형이 필요. a foot, foot은 지운다.",
+    "highlight": [
+     "three _______"
+    ],
+    "strike": [
+     "① a foot",
+     "④ foot"
+    ],
+    "narration": "첫째, 빈칸 바로 앞에 셋을 뜻하는 three가 있어요. 여기서 foot은 길이 단위인 피트라서, 3피트를 말하려면 복수형이 필요하니까 a foot과 foot은 지워요."
+   },
+   {
+    "note": "foot의 복수형 = feet(모양이 바뀜) → s, es를 붙인 foots, footes는 지운다.",
+    "highlight": [
+     "⑤ feet"
+    ],
+    "strike": [
+     "③ foots",
+     "② footes"
+    ],
+    "narration": "둘째, foot의 복수형은 s나 es를 붙이지 않고 모양이 바뀐 feet라서, foots와 footes도 지워요."
+   },
+   {
+    "note": "남는 것은 feet → The two desks are three feet apart.",
+    "highlight": [
+     "⑤ feet"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 feet예요. The two desks are three feet apart. 두 책상은 3피트 떨어져 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① a foot  ✗  a는 '하나'라는 뜻이라 three와 함께 쓸 수 없어요",
+    "② footes  ✗  foot은 es를 붙여 복수형을 만들지 않아요",
+    "③ foots  ✗  foot은 s를 붙여 복수형을 만들지 않아요",
+    "④ foot  ✗  하나를 나타내는 단수형이에요",
+    "⑤ feet  ✓  foot의 복수형은 모양이 바뀐 feet"
+   ],
+   "narration": "정답은 5번 feet예요. 3번 foots를 고르기 쉽지만, foot은 s를 붙이지 않고 feet로 모양이 바뀌어요. 2번 footes도 es를 붙인 꼴이라 foot의 복수형이 아니에요. 4번 foot은 하나를 나타내는 단수형이에요. 이 문장처럼 3피트 떨어져 있다고 말할 때는 복수형 feet를 써요."
+  },
+  "summary": {
+   "card": "둘 이상 → 복수형, foot → feet (s를 붙이지 않아요)",
+   "narration": "정답은 5번이에요. 기억할 것, 둘 이상이면 명사는 복수형을 쓰고, foot의 복수형은 s를 붙이지 않고 feet예요."
+  },
+  "captions": [
+   "three 뒤 명사의 형태",
+   "먼저 풀어 보세요",
+   "둘 이상이면 복수형",
+   "three → 단수형 지우기 → feet",
+   "정답 ⑤ feet",
+   "foot의 복수형은 feet"
+  ],
+  "sec": [
+   10,
+   15,
+   27,
+   38,
+   28,
+   10
+  ]
+ },
+ "D": {
+  "title": "Three 뒤 man의 복수형",
+  "intro": "이 문제는 수를 나타내는 말 Three 뒤에 오는 명사의 알맞은 형태를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 단어의 형태가 알맞은 것을 고르세요. Three, 빈칸, are waiting outside the office. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 있는 명사: 하나 → 단수형 (a cat), 둘 이상 → 복수형 (two cats)",
+    "복수형은 대부분 끝에 s나 es를 붙여요 (cats, boxes)",
+    "불규칙 복수형: man → men, woman → women, mouse → mice",
+    "이런 명사는 s나 es를 붙여 복수형을 만들지 않아요",
+    "예) I see two dogs and three mice. (나는 개 두 마리와 쥐 세 마리를 봐요.)"
+   ],
+   "narration": "셀 수 있는 명사가 하나이면 단수형을 쓰고, two나 three처럼 둘 이상이면 복수형을 써요. 복수형은 대부분 cats, boxes처럼 끝에 s나 es를 붙여서 만들어요. 그런데 man은 men, woman은 women, mouse는 mice처럼 모양이 바뀌는 명사도 있어요. 이것을 불규칙 복수형이라고 하는데, s나 es를 붙여서 만들지 않아요. I see two dogs and three mice. 나는 개 두 마리와 쥐 세 마리를 봐요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 앞 Three(셋), 뒤 are → 복수형이 필요. 단수형 a man, man은 지운다.",
+    "highlight": [
+     "Three _______ are"
+    ],
+    "strike": [
+     "① a man",
+     "② man"
+    ],
+    "narration": "첫째, 빈칸 앞에 셋을 뜻하는 Three가 있고 뒤에 are가 있으니 복수형이 필요해요. 그래서 한 명을 나타내는 a man과 man은 지워요."
+   },
+   {
+    "note": "man의 복수형 = men(모양이 바뀜) → s, es를 붙인 mans, manes는 지운다.",
+    "highlight": [
+     "④ men"
+    ],
+    "strike": [
+     "③ mans",
+     "⑤ manes"
+    ],
+    "narration": "둘째, man의 복수형은 s나 es를 붙이지 않고 모양이 바뀐 men이라서, mans와 manes도 지워요."
+   },
+   {
+    "note": "남는 것은 men → Three men are waiting outside the office.",
+    "highlight": [
+     "④ men"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 men이에요. Three men are waiting outside the office. 남자 세 명이 사무실 밖에서 기다리고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① a man  ✗  a는 '하나'라는 뜻이라 Three와 함께 쓸 수 없어요",
+    "② man  ✗  한 명을 나타내는 단수형이에요",
+    "③ mans  ✗  man은 s를 붙여 복수형을 만들지 않아요",
+    "④ men  ✓  man의 복수형은 모양이 바뀐 men",
+    "⑤ manes  ✗  man은 es를 붙여 복수형을 만들지 않아요"
+   ],
+   "narration": "정답은 4번 men이에요. 3번 mans를 고르기 쉽지만, man은 s를 붙이지 않고 men으로 모양이 바뀌어요. 5번 manes도 es를 붙인 꼴이라 man의 복수형이 아니에요. 1번 a man은 a가 하나라는 뜻이라 셋을 나타내는 Three와 함께 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "둘 이상 → 복수형, man → men (s를 붙이지 않아요)",
+   "narration": "정답은 4번이에요. 기억할 것, 둘 이상이면 명사는 복수형을 쓰고, man의 복수형은 s를 붙이지 않고 men이에요."
+  },
+  "captions": [
+   "Three 뒤 명사의 형태",
+   "먼저 풀어 보세요",
+   "둘 이상이면 복수형",
+   "Three → 단수형 지우기 → men",
+   "정답 ④ men",
+   "man의 복수형은 men"
+  ],
+  "sec": [
+   10,
+   15,
+   27,
+   34,
+   27,
+   10
+  ]
+ },
+ "E": {
+  "title": "Three 뒤 goose의 복수형",
+  "intro": "이 문제는 수를 나타내는 말 Three 뒤에 오는 명사의 알맞은 형태를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 단어의 형태가 알맞은 것을 고르세요. Three, 빈칸, are swimming on the lake. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 있는 명사: 하나 → 단수형 (a cat), 둘 이상 → 복수형 (two cats)",
+    "복수형은 대부분 끝에 s나 es를 붙여요 (cats, boxes)",
+    "불규칙 복수형: goose → geese, foot → feet, mouse → mice",
+    "이런 명사는 s나 es를 붙여 복수형을 만들지 않아요",
+    "예) I see two dogs and three mice. (나는 개 두 마리와 쥐 세 마리를 봐요.)"
+   ],
+   "narration": "셀 수 있는 명사가 하나이면 단수형을 쓰고, two나 three처럼 둘 이상이면 복수형을 써요. 복수형은 대부분 cats, boxes처럼 끝에 s나 es를 붙여서 만들어요. 그런데 goose는 geese, foot은 feet, mouse는 mice처럼 모양이 바뀌는 명사도 있어요. 이것을 불규칙 복수형이라고 하는데, s나 es를 붙여서 만들지 않아요. I see two dogs and three mice. 나는 개 두 마리와 쥐 세 마리를 봐요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 앞 Three(셋), 뒤 are → 복수형이 필요. 단수형 a goose, goose는 지운다.",
+    "highlight": [
+     "Three _______ are"
+    ],
+    "strike": [
+     "② a goose",
+     "⑤ goose"
+    ],
+    "narration": "첫째, 빈칸 앞에 셋을 뜻하는 Three가 있고 뒤에 are가 있으니 복수형이 필요해요. 그래서 거위 한 마리를 나타내는 a goose와 goose는 지워요."
+   },
+   {
+    "note": "goose의 복수형 = geese(모양이 바뀜) → s, es를 붙인 gooses, goosees는 지운다.",
+    "highlight": [
+     "③ geese"
+    ],
+    "strike": [
+     "④ gooses",
+     "① goosees"
+    ],
+    "narration": "둘째, goose의 복수형은 s나 es를 붙이지 않고 모양이 바뀐 geese라서, gooses와 goosees도 지워요."
+   },
+   {
+    "note": "남는 것은 geese → Three geese are swimming on the lake.",
+    "highlight": [
+     "③ geese"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 geese예요. Three geese are swimming on the lake. 거위 세 마리가 호수에서 헤엄치고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① goosees  ✗  goose는 es를 붙여 복수형을 만들지 않아요",
+    "② a goose  ✗  a는 '하나'라는 뜻이라 Three와 함께 쓸 수 없어요",
+    "③ geese  ✓  goose의 복수형은 모양이 바뀐 geese",
+    "④ gooses  ✗  goose는 s를 붙여 복수형을 만들지 않아요",
+    "⑤ goose  ✗  한 마리를 나타내는 단수형이에요"
+   ],
+   "narration": "정답은 3번 geese예요. 4번 gooses를 고르기 쉽지만, goose는 s를 붙이지 않고 geese로 모양이 바뀌어요. 1번 goosees도 es를 붙인 꼴이라 goose의 복수형이 아니에요. 5번 goose는 한 마리를 나타내는 단수형이라 세 마리를 말할 때는 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "둘 이상 → 복수형, goose → geese (s를 붙이지 않아요)",
+   "narration": "정답은 3번이에요. 기억할 것, 둘 이상이면 명사는 복수형을 쓰고, goose의 복수형은 s를 붙이지 않고 geese예요."
+  },
+  "captions": [
+   "Three 뒤 명사의 형태",
+   "먼저 풀어 보세요",
+   "둘 이상이면 복수형",
+   "Three → 단수형 지우기 → geese",
+   "정답 ③ geese",
+   "goose의 복수형은 geese"
+  ],
+  "sec": [
+   10,
+   15,
+   27,
+   34,
+   27,
+   10
+  ]
+ },
+ "F": {
+  "title": "two 뒤 tooth의 복수형",
+  "intro": "이 문제는 수를 나타내는 말 two 뒤에 오는 명사의 알맞은 형태를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 단어의 형태가 알맞은 것을 고르세요. The child lost two, 빈칸, last year. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 있는 명사: 하나 → 단수형 (a cat), 둘 이상 → 복수형 (two cats)",
+    "복수형은 대부분 끝에 s나 es를 붙여요 (cats, boxes)",
+    "불규칙 복수형: tooth → teeth, foot → feet, mouse → mice",
+    "이런 명사는 s나 es를 붙여 복수형을 만들지 않아요",
+    "예) I see two dogs and three mice. (나는 개 두 마리와 쥐 세 마리를 봐요.)"
+   ],
+   "narration": "셀 수 있는 명사가 하나이면 단수형을 쓰고, two나 three처럼 둘 이상이면 복수형을 써요. 복수형은 대부분 cats, boxes처럼 끝에 s나 es를 붙여서 만들어요. 그런데 tooth는 teeth, foot은 feet, mouse는 mice처럼 모양이 바뀌는 명사도 있어요. 이것을 불규칙 복수형이라고 하는데, s나 es를 붙여서 만들지 않아요. I see two dogs and three mice. 나는 개 두 마리와 쥐 세 마리를 봐요."
+  },
+  "steps": [
+   {
+    "note": "주어 The child(한 명)가 아니라 빈칸 바로 앞 two(둘)를 본다 → 복수형이 필요. 단수형 a tooth, tooth는 지운다.",
+    "highlight": [
+     "two _______"
+    ],
+    "strike": [
+     "① a tooth",
+     "③ tooth"
+    ],
+    "narration": "첫째, 주어 The child가 아니라 빈칸 바로 앞의 two를 봐야 해요. two는 둘이라는 뜻이라 복수형이 필요하니까, 하나를 나타내는 a tooth와 tooth는 지워요."
+   },
+   {
+    "note": "tooth의 복수형 = teeth(모양이 바뀜) → s, es를 붙인 tooths, toothes는 지운다.",
+    "highlight": [
+     "② teeth"
+    ],
+    "strike": [
+     "⑤ tooths",
+     "④ toothes"
+    ],
+    "narration": "둘째, tooth의 복수형은 s나 es를 붙이지 않고 모양이 바뀐 teeth라서, tooths와 toothes도 지워요."
+   },
+   {
+    "note": "남는 것은 teeth → The child lost two teeth last year.",
+    "highlight": [
+     "② teeth"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 teeth예요. The child lost two teeth last year. 그 아이는 작년에 이가 두 개 빠졌어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① a tooth  ✗  a는 '하나'라는 뜻이라 two와 함께 쓸 수 없어요",
+    "② teeth  ✓  tooth의 복수형은 모양이 바뀐 teeth",
+    "③ tooth  ✗  하나를 나타내는 단수형이에요 (빈칸은 주어 The child가 아니라 two 뒤예요)",
+    "④ toothes  ✗  tooth는 es를 붙여 복수형을 만들지 않아요",
+    "⑤ tooths  ✗  tooth는 s를 붙여 복수형을 만들지 않아요"
+   ],
+   "narration": "정답은 2번 teeth예요. 5번 tooths를 고르기 쉽지만, tooth는 s를 붙이지 않고 teeth로 모양이 바뀌어요. 4번 toothes도 es를 붙인 꼴이라 tooth의 복수형이 아니에요. 3번 tooth는 주어 The child가 한 명이라서 고르기 쉽지만, 빈칸은 two 뒤라서 복수형이 와야 해요."
+  },
+  "summary": {
+   "card": "둘 이상 → 복수형, tooth → teeth (s를 붙이지 않아요)",
+   "narration": "정답은 2번이에요. 기억할 것, 둘 이상이면 명사는 복수형을 쓰고, tooth의 복수형은 s를 붙이지 않고 teeth예요."
+  },
+  "captions": [
+   "two 뒤 명사의 형태",
+   "먼저 풀어 보세요",
+   "둘 이상이면 복수형",
+   "two → 단수형 지우기 → teeth",
+   "정답 ② teeth",
+   "tooth의 복수형은 teeth"
+  ],
+  "sec": [
+   10,
+   15,
+   27,
+   36,
+   28,
+   10
+  ]
+ }
+}

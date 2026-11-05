@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T02:01:45.751Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "She called _______ last night.",
+      "1": "Minho was tired, so we helped _______.",
+      "2": "I see _______ at the bus stop every day.",
+      "3": "They met _______ at the library.",
+      "4": "Look at that boy. This is _______ bag."
+    },
+    "expl": "핵심 규칙: 주어 자리에는 주격(he, she), 동사·전치사 뒤 목적어 자리에는 목적격(him, her), 명사 앞에는 소유격(his, her)을 쓴다.\n풀이 순서: ① 빈칸의 자리를 본다: 주어 자리(주격), 동사·전치사 뒤(목적격), 명사 앞(소유격). → ② 선택지 ⑤만 명사 bag 앞이라 소유격 his가 들어간다. 나머지는 목적격 him이다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: 명사 앞이라 소유격(his)이 들어가 나머지와 다르므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 동사나 전치사 뒤 목적어 자리라 목적격(him)이 들어가므로 오답이다.\n② [오답] 동사나 전치사 뒤 목적어 자리라 목적격(him)이 들어가므로 오답이다.\n③ [오답] 동사나 전치사 뒤 목적어 자리라 목적격(him)이 들어가므로 오답이다.\n④ [오답] 동사나 전치사 뒤 목적어 자리라 목적격(him)이 들어가므로 오답이다.\n⑤ [정답] 명사 앞이라 소유격(his)이 들어가 나머지와 다르므로 정답이다.",
+    "passage": null,
+    "stem": "다음 빈칸에 '그'와 관련된 대명사가 들어갈 때, 성격이 다른 하나를 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:01:44.888Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:01:45.751Z",
+      "what": "확인 완료"
+    }
+  }
+}

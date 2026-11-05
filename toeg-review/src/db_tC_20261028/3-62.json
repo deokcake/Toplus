@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T05:02:24.341Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "A: How did you get here?\nB: I came by bus.",
+      "1": "A: When does the store open?\nB: It opens at nine.",
+      "2": "A: Whose bag is this?\nB: It's Mina's.",
+      "3": "A: How many brothers do you have?\nB: I have two.",
+      "4": "A: Why did you call me?\nB: At six o'clock."
+    },
+    "expl": "핵심 규칙: 의문사가 묻는 정보(what 사물·일, who 사람, where 장소, when·what time 때, why 이유, how 방법·상태, how long 기간, how old 나이, how much 값)에 맞게 답해야 자연스러운 대화가 된다.\n풀이 순서: ① 대화마다 A의 의문사와 B가 답한 정보의 종류를 짝지어 본다. When - 때, Where - 장소, How long - 걸린 시간, How old - 나이, Why - 이유다. → ② 짝이 어긋난 대화를 찾는다. → ③ 선택지 ⑤: Why(왜)로 물었는데 시각(At six o'clock)을 답했다.\n문장별 판정:\n정답 판단: Why는 이유를 묻는데 시각을 답해 어색하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 묻는 정보에 맞게 답한 자연스러운 대화이므로 오답이다.\n② [오답] 묻는 정보에 맞게 답한 자연스러운 대화이므로 오답이다.\n③ [오답] 묻는 정보에 맞게 답한 자연스러운 대화이므로 오답이다.\n④ [오답] 묻는 정보에 맞게 답한 자연스러운 대화이므로 오답이다.\n⑤ [정답] Why는 이유를 묻는데 시각을 답해 어색하므로 정답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:02:14.893Z"
+  },
+  "tab": "fhh9u0lo",
+  "updatedAt": "2026-10-23T05:02:24.341Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:02:24.341Z",
+      "what": "확인 완료"
+    }
+  }
+}

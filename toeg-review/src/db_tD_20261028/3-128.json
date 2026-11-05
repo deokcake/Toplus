@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T18:31:31.356Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Jane not speaks only English but also French.",
+      "1": "Jane speaks only not English but also French.",
+      "2": "Jane speaks not only English but also French.",
+      "3": "Jane speaks not English only but also French.",
+      "4": "Jane speaks not only English also but French."
+    },
+    "expl": "핵심 규칙: not only A but also B는 ‘A뿐 아니라 B도’라는 뜻이며, not only와 but also를 떼지 않고 A와 B 바로 앞에 각각 둔다.\n풀이 순서: ① ‘A뿐만 아니라 B도’는 not only A but also B다. A와 B를 정한다: A는 English, B는 French. → ② Jane speaks 뒤에 not only A but also B를 통째로 놓는다. not only와 but also는 떼거나 순서를 바꾸지 않는다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: not only A but also B 어순으로 바르게 배열했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] not이 일반동사 앞에 오고 only와 떨어져 어순이 틀렸으므로 오답이다.\n② [오답] only not이 아니라 not only로 써야 하므로 오답이다.\n③ [정답] not only A but also B 어순으로 바르게 배열했으므로 정답이다.\n④ [오답] not과 only를 떼어 쓸 수 없으므로 오답이다.\n⑤ [오답] also but이 아니라 but also로 써야 하므로 오답이다.",
+    "passage": "Jane은 영어뿐만 아니라 프랑스어도 말한다.\n(not / French / English / Jane / speaks / but / also / only)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:31:24.984Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:31:31.356Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:31:31.356Z",
+      "what": "확인 완료"
+    }
+  }
+}

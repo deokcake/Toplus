@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-23T06:48:29.712Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "A, B, C",
+      "1": "A, D, E",
+      "2": "B, D, F",
+      "3": "B, C, F",
+      "4": "C, E, F"
+    },
+    "expl": "핵심 규칙: 조동사 뒤 원형, would rather A than B의 원형 병렬, used to + 원형과 be used to + 동명사를 구별한다. 옳고 틀린 문장을 먼저 판정한 뒤 틀린 문장을 빠짐없이 선택한다.\n풀이 순서: ① 문장마다 조동사 표현 뒤의 동사 형태를 확인한다. → ② B는 may 뒤에 has를, C는 should have 뒤에 동사원형 call을, F는 would rather not 뒤에 to leave를 썼다. A의 would rather stay ~ than go, D의 am used to taking, E의 used to be는 옳다. → ③ 틀린 세 문장만 모은 B, C, F를 고른다.\n문장별 판정:\nA) 옳음: would rather stay than go에서 stay와 go가 모두 동사원형이다.\nB) 틀림: 조동사 may 뒤에는 원형 have를 쓴다. may has forgotten → may have forgotten.\nC) 틀림: should have 뒤에는 과거분사를 쓴다. should have call → should have called.\nD) 옳음: be used to에서 to는 전치사이며 동명사 taking이 이어져 익숙함을 나타낸다.\nE) 옳음: used to be가 과거에 학교가 있었다는 상태를 나타낸다.\nF) 틀림: would rather의 부정은 would rather not + 동사원형이다. would rather not to leave → would rather not leave.\n정답 판단: 어법상 틀린 문장은 B, C, F이다.\n선택지 분석:\n① [오답] A는 틀린 문장이 아니고, 틀린 문장 F를 빠뜨렸다. 따라서 오답이다.\n② [오답] A, D, E는 틀린 문장이 아니고, 틀린 문장 B, C, F를 빠뜨렸다. 따라서 오답이다.\n③ [오답] D는 틀린 문장이 아니고, 틀린 문장 C를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 틀린 문장 B, C, F를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] E는 틀린 문장이 아니고, 틀린 문장 B를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "A) Tom would rather stay home than go out tonight.\nB) Jane may has forgotten the password to her email account.\nC) She should have call me earlier about the schedule change.\nD) I am used to taking the subway to work every day.\nE) There used to be a school here years ago.\nF) We would rather not to leave the party now.",
+    "stem": "다음 중 어법상 틀린 문장들로만 구성된 것을 고르시오."
+  },
+  "tab": "sj53vmnt",
+  "updatedAt": "2026-10-23T06:48:29.712Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T06:48:29.712Z",
+      "what": "확인 완료"
+    }
+  }
+}

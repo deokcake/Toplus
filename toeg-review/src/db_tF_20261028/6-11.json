@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:07:37.084Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": null,
+      "1": "Mr. Kim - he",
+      "2": "the books - it",
+      "3": null,
+      "4": "you and Jiho - you"
+    },
+    "expl": "핵심 규칙: 사람·사물을 대신할 때 나를 포함한 여럿은 we, 너를 포함한 여럿(나 제외)은 you, 그 밖의 여럿은 they, 남자 한 명은 he, 여자 한 명은 she, 사물·동물 하나는 it으로 받는다.\n풀이 순서: ① 짝마다 왼쪽 말에 I(나)가 들어 있는지 먼저 본다. 있으면 we다. → ② I가 없고 you가 있으면 you, 둘 다 없으면 수와 성별로 he/she/it/they를 정한다. → ③ the books는 여러 권이라 they다. 정답은 ③.\n문장별 판정:\n정답 판단: the books: 여러 권이라 they로 받아야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] my aunt: 여자 한 명이라 she로 바르게 받았으므로 오답이다.\n② [오답] Mr. Kim: 남자 한 명이라 he로 바르게 받았으므로 오답이다.\n③ [정답] the books: 여러 권이라 they로 받아야 하므로 정답이다.\n④ [오답] my brother and I: 나를 포함한 여럿이라 we로 바르게 받았으므로 오답이다.\n⑤ [오답] you and Jiho: 너를 포함한 여럿이라 you로 바르게 받았으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:07:35.412Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:07:37.084Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:07:37.084Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T07:11:53.609Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "(B), (C)",
+      "2": "(A), (C), (D)",
+      "3": "(B), (C), (D)",
+      "4": "(A), (B), (D)"
+    },
+    "expl": "핵심 규칙: 복수 주어에는 복수 동사, 단수 주어에는 단수 동사를 쓴다. 소유대명사에는 '를 붙이지 않고, 명사 없이 ‘~의 것’은 소유대명사로 쓰며, ‘누구의’는 Whose이다.\n풀이 순서: ① 밑줄이 동사이면 주어의 수와 맞는지, 대명사이면 자리에 맞는지(명사 앞: 소유격, 명사 없음: 소유대명사) 본다. → ② (A) These pants is(are), (D) our(ours)가 틀렸다. → ③ 틀린 것을 빠짐없이 고른 (A), (D)가 정답이다.\n문장별 판정:\n(A) X. pants는 복수 취급해 are를 쓴다.\n(B) O. news는 단수 취급한다.\n(C) O. 명사 없이 ‘그녀의 것’은 hers이다.\n(D) X. 명사 없이 ‘우리 것’은 ours로 쓴다.\n정답 판단: 밑줄 친 부분이 틀린 문장은 (A), (D)이다.\n선택지 분석:\n① [정답] 틀린 문장 (A), (D)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (B), (C)는 틀린 문장이 아니고, 틀린 문장 (A), (D)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (C)는 틀린 문장이 아니다. 따라서 오답이다.\n④ [오답] (B), (C)는 틀린 문장이 아니고, 틀린 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (B)는 틀린 문장이 아니다. 따라서 오답이다.",
+    "passage": "(A) These pants <u>is</u> new, but they are too long.\n(B) The news on TV <u>is</u> good today.\n(C) That red car over there is <u>hers</u>.\n(D) Those books on the shelf are <u>our</u>.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:11:40.371Z"
+  },
+  "tab": "el3qe2ii",
+  "updatedAt": "2026-10-27T07:11:53.609Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:11:53.609Z",
+      "what": "확인 완료"
+    }
+  }
+}

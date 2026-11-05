@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-20T10:52:23.950Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": "be not",
+      "4": null
+    },
+    "expl": "핵심 규칙: be동사 부정의 줄임말은 is not → isn't, are not → aren't이다. am not은 줄임말이 없고, not만으로는 동사 자리를 채울 수 없다.\n풀이 순서: ① 앞 문장(‘그는 학생이다’)과 이어지려면 뒤 문장은 ‘~이 아니다/~에 있지 않다’라는 부정문이다. → ② 주어 He에 맞는 부정형은 is not. → ③ 줄임말로 쓰면 isn't.\n문장별 판정:\n정답 판단: 주어 He에 맞는 is not의 줄임말이므로 정답은 ③이다.\n선택지 분석:\n① [오답] are not은 you·복수 주어에 쓰고 줄임말도 아니므로 오답이다.\n② [오답] aren't는 you·복수 주어에 쓰므로 오답이다.\n③ [정답] 주어 He에 맞는 is not의 줄임말이므로 정답이다.\n④ [오답] be not은 올바른 부정 형태가 아니므로 오답이다.\n⑤ [오답] am not은 주어 I에 쓰고 줄임말도 아니므로 오답이다.",
+    "passage": "He is a student. He _______ a teacher.",
+    "stem": "빈칸에 들어갈 알맞은 줄임말을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-20T10:51:08.614Z"
+  },
+  "tab": "n2uhrol0",
+  "updatedAt": "2026-10-20T10:52:23.950Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-20T10:52:23.950Z",
+      "what": "확인 완료"
+    }
+  }
+}

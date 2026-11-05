@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:54:13.608Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "A: How many students are there? B: There are twenty.",
+      "1": "A: What's the weather like? B: It's windy.",
+      "2": "A: What's the date today? B: It's Friday.",
+      "3": "A: How much are the shoes? B: They are 30 dollars.",
+      "4": "A: How old are you? B: I'm twelve."
+    },
+    "expl": "핵심 규칙: How much는 값, How long은 걸리는 시간이나 길이, How far는 거리, How heavy는 무게, What time은 시각, What day는 요일, What's the date는 날짜를 묻는다.\n풀이 순서: ① 질문마다 의문사구가 무엇을 묻는지 적는다(값, 시간, 거리, 날짜, 요일 …). → ② 대답이 같은 종류의 정보인지 견준다. → ③ 선택지 ③은 the date(날짜)에 요일로 답했다. 정답은 ③.\n문장별 판정:\n정답 판단: 날짜를 묻는데 요일로 답했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 학생 수를 묻는 질문에 수로 알맞게 답했으므로 오답이다.\n② [오답] 날씨를 묻는 질문에 날씨로 알맞게 답했으므로 오답이다.\n③ [정답] 날짜를 묻는데 요일로 답했으므로 정답이다.\n④ [오답] 신발 값을 묻는 질문에 값으로 알맞게 답했으므로 오답이다.\n⑤ [오답] 나이를 묻는 질문에 나이로 알맞게 답했으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 대화가 어색한 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:54:11.249Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:54:13.608Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:54:13.608Z",
+      "what": "확인 완료"
+    }
+  }
+}

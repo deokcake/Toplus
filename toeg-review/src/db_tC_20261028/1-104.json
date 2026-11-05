@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-21T07:12:06.213Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Why do you think did Tom leave early?",
+      "1": null,
+      "2": "Do you think why did Tom leave early?",
+      "3": "Why you think did Tom leave early?",
+      "4": "Do you think why Tom left early?"
+    },
+    "expl": "핵심 규칙: think, guess, suppose, believe처럼 생각을 묻는 동사와 의문사 질문을 합치면 의문사를 맨 앞에 두고 ‘의문사 + do you think + 주어 + 동사?’ 어순으로 쓴다.\n풀이 순서: ① 주절의 동사(think)가 있는 질문은 Yes/No로 답할 수 없으므로 의문사(Why)를 문장 맨 앞으로 보낸다. → ② ‘의문사 + do you think’ 뒤는 ‘주어 + 동사’의 평서문 어순으로 쓴다: Tom left early. → ③ 의문사가 가운데 있거나 뒤가 의문문 어순인 보기를 지운다. 정답은 ②.\n문장별 판정:\n정답 판단: 의문사 + do you + 동사 + 주어 + 동사 어순이 바르다. 정답은 ②이다.\n선택지 분석:\n① [오답] 간접의문문 부분에 의문문 어순(동사 + 주어)을 그대로 두었다. 오답이다.\n② [정답] 의문사 + do you + 동사 + 주어 + 동사 어순이 바르다. 정답이다.\n③ [오답] think류 동사가 있으면 의문사를 맨 앞으로 보내야 하고, 뒤 절 어순도 틀렸다. 오답이다.\n④ [오답] do가 빠지고 뒤 절 어순도 틀렸다. 오답이다.\n⑤ [오답] think류 동사가 있으면 의문사를 문장 맨 앞으로 보내야 한다. 오답이다.",
+    "passage": "Do you think...? + Why did Tom leave early?\n= __________________________",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T07:12:01.231Z"
+  },
+  "tab": "fi3f83jb",
+  "updatedAt": "2026-10-21T07:12:06.213Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T07:12:06.213Z",
+      "what": "확인 완료"
+    }
+  }
+}

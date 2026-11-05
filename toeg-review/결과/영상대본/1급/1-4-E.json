@@ -1,0 +1,179 @@
+{
+ "key": "1-4",
+ "type": "E",
+ "grade": 1,
+ "chapter": "CH 1 문장의 구조",
+ "title": "전치사 없이 목적어를 받는 동사",
+ "total_sec": 125,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "1급 · CH 1 문장의 구조 · 4번 · E 유형\n\n이 문제는 목적어를 바로 받는 동사 뒤에 전치사가 잘못 붙지 않은 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 1 문장의 구조 · 4번 · E 유형",
+     "이 문제는 목적어를 바로 받는 동사 뒤에 전치사가 잘못 붙지 않은 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 1, 4번 E 유형. 이 문제는 목적어를 바로 받는 동사 뒤에 전치사가 잘못 붙지 않은 문장을 고르는 문제예요.",
+   "caption": "목적어를 바로 받는 동사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 동사가 올바르게 사용된 문장을 고르시오.\n\n① They approached to the desk.\n② She resembles to her father.\n③ We discussed about the issue.\n④ We reached at the airport on time.\n⑤ She resembles her aunt in many ways.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 동사가 올바르게 사용된 문장을 고르시오.",
+     "① They approached to the desk.",
+     "② She resembles to her father.",
+     "③ We discussed about the issue.",
+     "④ We reached at the airport on time.",
+     "⑤ She resembles her aunt in many ways."
+    ]
+   },
+   "narration": "다음 중 동사가 올바르게 사용된 문장을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\n목적어를 바로 받는 동사: 동사 바로 뒤에 전치사 없이 목적어\nresemble(닮다), discuss(논의하다)\nreach(도착하다), approach(다가가다), attend(참석하다)\n우리말 ‘~와, ~에 대해, ~에’로 옮겨져도 to, about, at을 넣지 않아요\n예) Many people attended the wedding. (많은 사람이 그 결혼식에 참석했어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "목적어를 바로 받는 동사: 동사 바로 뒤에 전치사 없이 목적어",
+     "resemble(닮다), discuss(논의하다)",
+     "reach(도착하다), approach(다가가다), attend(참석하다)",
+     "우리말 ‘~와, ~에 대해, ~에’로 옮겨져도 to, about, at을 넣지 않아요",
+     "예) Many people attended the wedding. (많은 사람이 그 결혼식에 참석했어요.)"
+    ]
+   },
+   "narration": "resemble과 discuss는 목적어를 전치사 없이 바로 뒤에 써요. 도착하다라는 뜻의 reach, 다가가다라는 뜻의 approach, 참석하다라는 뜻의 attend도 마찬가지예요. 우리말로는 아빠와 닮다, 공항에 도착하다처럼 말하지만, 영어에서는 to나 at을 넣지 않아요. 예를 들어 Many people attended the wedding. 많은 사람이 그 결혼식에 참석했어요.",
+   "caption": "전치사 없이 바로 목적어"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 동사가 올바르게 사용된 문장을 고르시오.\n\n① They approached to the desk.\n② She resembles to her father.\n③ We discussed about the issue.\n④ We reached at the airport on time.\n⑤ She resembles her aunt in many ways.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "approached to",
+       "resembles to",
+       "discussed about",
+       "reached at",
+       "resembles her aunt"
+      ],
+      "strike": [],
+      "note": "문장마다 동사 바로 뒤를 본다: 전치사가 끼어 있나?"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① They approached to the desk.",
+       "② She resembles to her father.",
+       "③ We discussed about the issue.",
+       "④ We reached at the airport on time."
+      ],
+      "note": "approach(다가가다)·resemble·discuss·reach(도착하다)는 목적어를 바로 받음 → ①~④ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ She resembles her aunt in many ways."
+      ],
+      "strike": [],
+      "note": "⑤ resemble + her aunt: 전치사 없이 목적어 → 정답"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 동사 바로 뒤를 보면 1번 approached to, 2번 resembles to, 3번 discussed about, 4번 reached at처럼 전치사가 끼어 있어요. 둘째, 이 네 동사는 목적어를 바로 받으니 1번부터 4번까지는 모두 틀렸어요. 셋째, 5번은 resemble 바로 뒤에 목적어 her aunt가 와요. She resembles her aunt in many ways. 그녀는 여러 면에서 이모를 닮았어요.",
+   "caption": "전치사 찾기 → ①~④ 지우기 → ⑤"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① They approached to the desk.  ✗  다가가는 대상 앞 to 불필요: approached the desk\n② She resembles to her father.  ✗  닮은 사람 앞 to 불필요: resembles her father\n③ We discussed about the issue.  ✗  논의할 대상 앞 about 불필요: discussed the issue\n④ We reached at the airport on time.  ✗  도착한 곳 앞 at 불필요: reached the airport\n⑤ She resembles her aunt in many ways.  ✓  resemble 바로 뒤에 목적어 her aunt",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① They approached to the desk.  ✗  다가가는 대상 앞 to 불필요: approached the desk",
+     "② She resembles to her father.  ✗  닮은 사람 앞 to 불필요: resembles her father",
+     "③ We discussed about the issue.  ✗  논의할 대상 앞 about 불필요: discussed the issue",
+     "④ We reached at the airport on time.  ✗  도착한 곳 앞 at 불필요: reached the airport",
+     "⑤ She resembles her aunt in many ways.  ✓  resemble 바로 뒤에 목적어 her aunt"
+    ]
+   },
+   "narration": "정답은 5번이에요. 2번은 아빠와 닮았다는 우리말 때문에 to를 넣기 쉽지만, resembles her father가 맞아요. 4번은 공항에 도착했다는 뜻 때문에 at을 넣었지만, reached the airport가 맞아요. 3번도 about을 빼고 discussed the issue라고 써요.",
+   "caption": "정답 ⑤"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ⑤ She resembles her aunt in many ways.\n\nresemble, discuss, reach(도착하다), approach(다가가다) → 바로 목적어",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ She resembles her aunt in many ways.",
+     "resemble, discuss, reach(도착하다), approach(다가가다) → 바로 목적어"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, resemble, discuss, 도착하다의 reach, 다가가다의 approach는 전치사 없이 목적어를 써요.",
+   "caption": "resemble·discuss·reach·approach + 목적어"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 동사가 올바르게 사용된 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "They approached to the desk.",
+   "She resembles to her father.",
+   "We discussed about the issue.",
+   "We reached at the airport on time.",
+   "She resembles her aunt in many ways."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: attend, discuss, resemble, reach, approach, enter, consider, marry는 이 문항의 뜻에서는 목적어를 직접 취하는 완전타동사이다. 행사·논의 대상·사람·장소 앞에 불필요한 to/about/at/into/with를 붙이지 않는다.\n풀이 순서: ① 문장마다 동사 바로 뒤에 전치사가 끼어 있는지 본다. → ② 오답 네 문장은 전치사 없이 목적어를 받는 타동사 뒤에 전치사를 붙였다(approached to, resembles to, discussed about, reached at). → ③ 선택지 ⑤만 동사 뒤에 목적어가 바로 온다(resembles her aunt).\n문장별 판정:\n정답 판단: ‘She resembles her aunt in many ways.’은 완전타동사가 목적어를 전치사 없이 직접 취한 구조라 올바르므로 정답이다.\n선택지 분석:\n① [오답] ‘They approached to the desk.’에서 approach는 접근 대상을 목적어로 바로 취한다. 따라서 ‘to’가 불필요하다. 올바른 선택지에 해당하지 않으므로 오답이다.\n② [오답] ‘She resembles to her father.’에서 resemble는 닮은 대상을 목적어로 바로 취한다. 따라서 ‘to’가 불필요하다. 올바른 선택지에 해당하지 않으므로 오답이다.\n③ [오답] ‘We discussed about the issue.’에서 discuss는 논의 대상을 목적어로 바로 취한다. 따라서 ‘about’가 불필요하다. 올바른 선택지에 해당하지 않으므로 오답이다.\n④ [오답] reach는 도착 장소를 바로 목적어로 받는다. at을 빼서 “We reached the airport on time.”으로 고쳐야 한다.\n⑤ [정답] ‘She resembles her aunt in many ways.’에서 resemble가 목적어를 전치사 없이 직접 취해 올바르다. 발문이 요구하는 올바른 문장이므로 정답이다."
+ }
+}

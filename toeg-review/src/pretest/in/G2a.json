@@ -1,0 +1,583 @@
+[
+ {
+  "key": "2-1",
+  "grade": 2,
+  "no": 1,
+  "chapter": "CH 1",
+  "chapter_name": "문장의 형식",
+  "ref": {
+   "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+   "passage": "The leaves turn red in fall.",
+   "c": [
+    "My sister bought a new book.",
+    "The movie seems interesting.",
+    "They arrived at the airport.",
+    "The teacher made us happy.",
+    "She gave me a present."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 2형식은 ‘주어 + 동사 + 주격 보어’다. become, turn, grow, seem, look, sound, smell, stay 같은 동사 뒤의 형용사가 주어의 상태를 설명한다.\n풀이 순서: ① 주어진 문장의 동사(turn) 뒤에 오는 형용사(red)가 주어의 상태를 설명한다. 2형식이다. → ② 보기에서 동사 뒤의 말을 본다. 목적어(명사)가 오면 3·4·5형식이고, 부사(구)만 오면 1형식이다. → ③ 선택지 ②만 ‘동사 + 형용사 보어’(seems interesting) 구조다.\n문장별 판정:\n정답 판단: seems 뒤의 형용사 interesting이 주어를 설명하는 2형식이므로 정답은 ②이다.\n선택지 분석:\n① [오답] bought 뒤에 목적어(a new book)가 오는 3형식이므로 오답이다.\n② [정답] seems 뒤의 형용사 interesting이 주어를 설명하는 2형식이므로 정답이다.\n③ [오답] arrived 뒤에 부사구만 오는 1형식이므로 오답이다.\n④ [오답] 목적어(us)와 목적격 보어(happy)가 있는 5형식이므로 오답이다.\n⑤ [오답] 간접목적어(me)와 직접목적어(a present)가 있는 4형식이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+    "passage": "The soup smells delicious.",
+    "c": [
+     "The students reached the station.",
+     "Mina bought a new camera.",
+     "Dad gave me a key.",
+     "The joke made us laugh.",
+     "The flowers look beautiful."
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+    "passage": "The sky became dark.",
+    "c": [
+     "Leo sent his friend a message.",
+     "We found the room empty.",
+     "The train arrived late.",
+     "The water turned cold.",
+     "The dog chased the ball."
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+    "passage": "Your idea sounds reasonable.",
+    "c": [
+     "They entered the building.",
+     "The plan seems practical.",
+     "The news made him angry.",
+     "I opened the window.",
+     "She gave her sister a gift."
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+    "passage": "The child grew sleepy.",
+    "c": [
+     "We painted the wall blue.",
+     "The teacher asked me a question.",
+     "The milk smells sour.",
+     "They crossed the bridge.",
+     "Sam wrote a letter."
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+    "passage": "The room stayed quiet.",
+    "c": [
+     "The audience remained silent.",
+     "She kept the door open.",
+     "The bus left early.",
+     "The storm damaged the roof.",
+     "I lent him some money."
+    ],
+    "ans": 1
+   }
+  },
+  "target_answer_position": 1
+ },
+ {
+  "key": "2-12",
+  "grade": 2,
+  "no": 12,
+  "chapter": "CH 2",
+  "chapter_name": "시제",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 전치사를 바르게 짝지은 것을 고르시오.",
+   "passage": "My father has worked at this school (A) _____ 25 years.\nI have known her (B) _____ she was 11 years old.",
+   "c": [
+    "(A) since (B) since",
+    "(A) for (B) for",
+    "(A) for (B) since",
+    "(A) since (B) for",
+    "(A) for (B) when"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 현재완료의 계속 용법에서 for 뒤에는 기간(25 years)을, since 뒤에는 시작 시점(명사나 절)을 쓴다.\n풀이 순서: ① 빈칸 뒤의 말이 ‘얼마 동안’(기간)인지 ‘언제부터’(시작 시점)인지 가른다. → ② (A) 뒤의 25 years는 기간이다, (B) 뒤의 she was 11 years old는 시작 시점이다. → ③ 기간 앞에는 for, 시작 시점 앞에는 since를 쓴다. 정답은 ③.\n문장별 판정:\n정답 판단: 기간(25 years) 앞에 for, 시작 시점(she was 11 years old) 앞에 since를 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 25 years는 기간이라 since를 쓸 수 없으므로 오답이다.\n② [오답] she was 11 years old는 시작 시점이라 for를 쓸 수 없으므로 오답이다.\n③ [정답] 기간(25 years) 앞에 for, 시작 시점(she was 11 years old) 앞에 since를 썼으므로 정답이다.\n④ [오답] for와 since가 서로 바뀌었으므로 오답이다.\n⑤ [오답] 현재완료의 시작 시점은 when이 아니라 since로 나타내므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "The museum has been open (A) _____ 1998.\nOur guide has worked there (B) _____ more than a decade.",
+    "c": [
+     "(A) since (B) since",
+     "(A) since (B) for",
+     "(A) for (B) since",
+     "(A) for (B) for",
+     "(A) from (B) during"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "She has studied French (A) _____ 2022.\nThey have been married (B) _____ six years.",
+    "c": [
+     "(A) for (B) for",
+     "(A) for (B) since",
+     "(A) since (B) since",
+     "(A) since (B) for",
+     "(A) during (B) from"
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "We have waited (A) _____ two hours.\nTom has worked there (B) _____ last spring.",
+    "c": [
+     "(A) since (B) for",
+     "(A) for (B) since",
+     "(A) for (B) when",
+     "(A) since (B) since",
+     "(A) for (B) for"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "I have owned this bike (A) _____ five years.\nJane has lived here (B) _____ she was a child.",
+    "c": [
+     "(A) for (B) when",
+     "(A) for (B) since",
+     "(A) for (B) for",
+     "(A) since (B) for",
+     "(A) since (B) since"
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "The store has been open (A) _____ 8 a.m.\nHe has taught here (B) _____ a long time.",
+    "c": [
+     "(A) for (B) since",
+     "(A) since (B) since",
+     "(A) since (B) for",
+     "(A) during (B) from",
+     "(A) for (B) for"
+    ],
+    "ans": 3
+   }
+  },
+  "target_answer_position": 5
+ },
+ {
+  "key": "2-23",
+  "grade": 2,
+  "no": 23,
+  "chapter": "CH 3",
+  "chapter_name": "조동사",
+  "ref": {
+   "stem": "다음 문장에서 밑줄 친 부분이 각각 무엇의 줄임말인지 바르게 짝지은 것을 고르시오.",
+   "passage": "(A) I<u>'d</u> like to visit the museum this weekend.\n(B) You<u>'d</u> better finish your homework before dinner.",
+   "c": [
+    "(A) would (B) would",
+    "(A) would (B) had",
+    "(A) had (B) would",
+    "(A) had (B) had",
+    "(A) would (B) should"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 'd는 would 또는 had의 줄임말이다. 'd like to(~하고 싶다)의 'd는 would, 'd better(~하는 게 좋겠다)의 'd는 had다.\n풀이 순서: ① (A)에서 'd 뒤에 오는 말(like to visit)을 본다. ‘~하고 싶다’, ‘~을 원하다’는 뜻의 would like(love)다. → ② (B)에서는 'd 뒤에 better + 동사원형(better finish)이 온다. ‘~하는 게 좋겠다’는 had better다. would better, should better라는 표현은 없다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: would like to, had better이므로 정답은 ②이다.\n선택지 분석:\n① [오답] (B)의 'd는 would가 아니라 had이므로 오답이다.\n② [정답] would like to, had better이므로 정답이다.\n③ [오답] (A)는 would, (B)는 had인데 서로 바뀌었으므로 오답이다.\n④ [오답] (A)의 'd는 had가 아니라 would이므로 오답이다.\n⑤ [오답] (B)의 'd는 should가 아니라 had이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 문장에서 밑줄 친 부분이 각각 무엇의 줄임말인지 바르게 짝지은 것을 고르시오.",
+    "passage": "(A) I<u>'d</u> like to stay home tonight.\n(B) You<u>'d</u> better bring a jacket.",
+    "c": [
+     "(A) would (B) had",
+     "(A) had (B) had",
+     "(A) should (B) had",
+     "(A) had (B) would",
+     "(A) would (B) would"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 문장에서 밑줄 친 부분이 각각 무엇의 줄임말인지 바르게 짝지은 것을 고르시오.",
+    "passage": "(A) She<u>'d</u> like some hot tea after the long walk.\n(B) He<u>'d</u> better apologize to his sister right now.",
+    "c": [
+     "(A) had (B) had",
+     "(A) would (B) would",
+     "(A) should (B) had",
+     "(A) had (B) would",
+     "(A) would (B) had"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 문장에서 밑줄 친 부분이 각각 무엇의 줄임말인지 바르게 짝지은 것을 고르시오.",
+    "passage": "(A) We<u>'d</u> love to join you for dinner tonight.\n(B) You<u>'d</u> better hurry to catch the last bus.",
+    "c": [
+     "(A) would (B) had",
+     "(A) had (B) had",
+     "(A) should (B) had",
+     "(A) would (B) would",
+     "(A) had (B) would"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 문장에서 밑줄 친 부분이 각각 무엇의 줄임말인지 바르게 짝지은 것을 고르시오.",
+    "passage": "(A) He<u>'d</u> like to walk to school with his friends.\n(B) She<u>'d</u> better call the restaurant before leaving.",
+    "c": [
+     "(A) should (B) had",
+     "(A) had (B) had",
+     "(A) would (B) had",
+     "(A) had (B) would",
+     "(A) would (B) would"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 문장에서 밑줄 친 부분이 각각 무엇의 줄임말인지 바르게 짝지은 것을 고르시오.",
+    "passage": "(A) They<u>'d</u> like to leave early tomorrow morning.\n(B) We<u>'d</u> better check the map before we start.",
+    "c": [
+     "(A) would (B) would",
+     "(A) would (B) had",
+     "(A) had (B) would",
+     "(A) should (B) had",
+     "(A) had (B) had"
+    ],
+    "ans": 2
+   }
+  },
+  "target_answer_position": 1
+ },
+ {
+  "key": "2-34",
+  "grade": 2,
+  "no": 34,
+  "chapter": "CH 4",
+  "chapter_name": "수동태",
+  "ref": {
+   "stem": "주어진 문장을 수동태로 바르게 바꾼 것을 고르시오.",
+   "passage": "She made me clean my room.",
+   "c": [
+    "I made to clean my room by her.",
+    "I was made clean my room by her.",
+    "I was made to clean my room by her.",
+    "I was made cleaning my room by her.",
+    "I was made to cleaning my room by her."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 사역동사 make + 목적어 + 동사원형을 수동태로 바꾸면 ‘be made to + 동사원형’이 된다. 동사원형 앞에 to가 살아난다.\n풀이 순서: ① 능동태의 목적어(me → I)를 주어로 하고 동사를 ‘be동사 + made’로 바꾼다. → ② 능동태에서 동사원형이던 목적격 보어(clean → to clean)는 수동태에서 to부정사가 된다. → ③ 행위자는 by로 나타낸다. be동사가 빠진 것, to가 없는 것, to + -ing는 모두 틀리다. 정답은 ③.\n문장별 판정:\n정답 판단: be made to + 동사원형으로 바르게 바꿨으므로 정답은 ③이다.\n선택지 분석:\n① [오답] be동사 없이 made만 쓰면 수동태가 아니므로 오답이다.\n② [오답] 수동태에서는 동사원형 앞에 to를 써야 하므로 오답이다.\n③ [정답] be made to + 동사원형으로 바르게 바꿨으므로 정답이다.\n④ [오답] to + 동사원형 자리에 -ing를 쓸 수 없으므로 오답이다.\n⑤ [오답] to 뒤에 -ing를 쓸 수 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "주어진 문장을 수동태로 바르게 바꾼 것을 고르시오.",
+    "passage": "The coach made the players run ten laps.",
+    "c": [
+     "The players were made to run ten laps from the coach.",
+     "The players made to run ten laps by the coach.",
+     "The players were made to run ten laps by the coach.",
+     "The players were made to running ten laps by the coach.",
+     "The players were made run ten laps by the coach."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "주어진 문장을 수동태로 바르게 바꾼 것을 고르시오.",
+    "passage": "Mom made me wash the dishes.",
+    "c": [
+     "I was made to washing the dishes by Mom.",
+     "I was made to wash the dishes by Mom.",
+     "I was made to wash the dishes from Mom.",
+     "I made to wash the dishes by Mom.",
+     "I was made wash the dishes by Mom."
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "주어진 문장을 수동태로 바르게 바꾼 것을 고르시오.",
+    "passage": "The teacher made us rewrite the essay.",
+    "c": [
+     "We made to rewrite the essay by the teacher.",
+     "We were made rewrite the essay by the teacher.",
+     "We were made to rewriting the essay by the teacher.",
+     "We were made to rewrite the essay by the teacher.",
+     "We were made to rewrite the essay from the teacher."
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "주어진 문장을 수동태로 바르게 바꾼 것을 고르시오.",
+    "passage": "The manager made Tom work late.",
+    "c": [
+     "Tom was made to work late by the manager.",
+     "Tom was made to work late from the manager.",
+     "Tom was made to working late by the manager.",
+     "Tom was made work late by the manager.",
+     "Tom made to work late by the manager."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "주어진 문장을 수동태로 바르게 바꾼 것을 고르시오.",
+    "passage": "The movie made everyone cry.",
+    "c": [
+     "Everyone made to cry by the movie.",
+     "Everyone was made cry by the movie.",
+     "Everyone was made to crying by the movie.",
+     "Everyone was made to cry from the movie.",
+     "Everyone was made to cry by the movie."
+    ],
+    "ans": 5
+   }
+  },
+  "target_answer_position": 1
+ },
+ {
+  "key": "2-45",
+  "grade": 2,
+  "no": 45,
+  "chapter": "CH 5",
+  "chapter_name": "대명사",
+  "ref": {
+   "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Mary: I found it difficult to solve this problem. 에서 'it'은 가목적어예요.\nTom: We should buy some bread in the store. 에서 some은 주로 긍정문에 쓰이고, any는 주로 부정문과 의문문에 쓰여서 올바른 문장이에요.\nBruce: Each players wears different uniforms. 는 맞는 문장이에요.\nCathy: Kevin saw himself in the mirror. 에서 himself는 생략해도 문장이 온전해요.\nDave: Some students like math, and others prefer science. 문장은 나머지 모든 학생들이 과학을 선호한다는 것을 의미해요.",
+   "c": [
+    "Mary, Tom",
+    "Mary, Cathy",
+    "Bruce, Cathy",
+    "Mary, Tom, Dave",
+    "Mary, Cathy, Dave"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 가목적어 it은 뒤의 to부정사(진목적어)를 대신한다. some은 주로 긍정문에, any는 부정문·의문문에 쓴다. each는 단수 명사·단수 동사와 쓴다. 목적어인 재귀대명사는 생략할 수 없다. others는 ‘다른 일부’이고 ‘나머지 전부’는 the others다.\n풀이 순서: ① 학생마다 예문과 설명을 따로 따진다. 틀린 예문을 맞다고 하거나 용법을 잘못 말하면 틀린 설명이다. → ② Bruce는 Each players wears를 맞다고 했고(Each player wears), Cathy는 saw의 목적어인 himself를 생략할 수 있다고 했으며, Dave는 others를 ‘나머지 전부’로 풀었다. 셋 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Mary, Tom이다.\n문장별 판정: Mary O(가목적어 it). Tom O(some은 긍정문). Bruce X(Each player wears가 맞다). Cathy X(saw의 목적어라 생략할 수 없다). Dave X(others는 나머지 전부가 아니다).\n정답 판단: 올바르게 설명한 학생은 Mary, Tom이다.\n선택지 분석:\n① [정답] 올바르게 설명한 학생은 Mary, Tom이므로 정답이다.\n② [오답] 올바르게 설명한 학생은 Mary, Tom이므로 오답이다.\n③ [오답] 올바르게 설명한 학생은 Mary, Tom이므로 오답이다.\n④ [오답] 올바르게 설명한 학생은 Mary, Tom이므로 오답이다.\n⑤ [오답] 올바르게 설명한 학생은 Mary, Tom이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+    "passage": "Mina: We found it impossible to finish in one day. 에서 it은 가목적어야.\nLeo: Would you like some tea? 에서 권유하는 의문문이라 some을 쓸 수 있어.\nJane: Each of the boys have a locker. 는 맞는 문장이야.\nBen: She hurt herself. 에서 herself는 생략해도 문장이 온전해.\nSora: Some people like summer, and others like winter. 에서 others는 나머지 모든 사람을 뜻해.",
+    "c": [
+     "Mina, Jane",
+     "Mina, Leo",
+     "Leo, Ben",
+     "Mina, Leo, Sora",
+     "Jane, Ben, Sora"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+    "passage": "Tom: I think it strange that nobody called. 에서 it은 가목적어야.\nAmy: Do you have any brothers? 에서 any는 의문문이라 쓰였어.\nJin: Each student have a different dream. 은 맞는 문장이야.\nMia: I enjoyed myself at the party. 에서 myself는 강조 용법이라 생략해도 돼.\nLeo: I have three pens. One is black, and the others are red. 에서 the others는 나머지 두 자루 전부를 뜻해.",
+    "c": [
+     "Tom, Amy",
+     "Amy, Jin, Mia",
+     "Tom, Jin, Leo",
+     "Tom, Amy, Leo",
+     "Jin, Mia, Leo"
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+    "passage": "Jane: It takes an hour to get there. 에서 it은 가목적어야.\nBen: I don't have some money. 는 부정문이라 some을 any로 고쳐야 해.\nSora: Each of the players wear a helmet. 은 맞는 문장이야.\nTom: He himself fixed the roof. 에서 himself는 생략해도 문장이 온전해.\nAmy: I have two sisters. One is a nurse, and the other is a teacher. 에서 the other는 나머지 한 명을 뜻해.",
+    "c": [
+     "Ben, Tom",
+     "Jane, Ben, Sora",
+     "Jane, Tom, Amy",
+     "Ben, Tom, Amy",
+     "Sora, Amy"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+    "passage": "Mina: She made it clear that she disagreed. 에서 it은 가목적어야.\nLeo: Can I have any water? 는 부탁하는 말이라 any가 자연스러워.\nJane: Every student have to wear a uniform. 은 맞는 문장이야.\nBen: The door opened by itself. 에서 by itself는 ‘저절로’라는 뜻이야.\nSora: Some of the cookies are gone, and the others are in the box. 에서 the others는 남은 쿠키 전부를 뜻해.",
+    "c": [
+     "Mina, Ben, Sora",
+     "Mina, Leo",
+     "Leo, Jane, Ben",
+     "Mina, Jane, Sora",
+     "Ben, Sora"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+    "passage": "Tom: I found it hard to wake up early. 에서 진목적어는 to wake up early야.\nAmy: Would you like some cookies? 에서 some은 권유할 때 쓴 거야.\nJin: Each of my friends has a bike. 는 맞는 문장이야.\nMia: Kevin cut himself while cooking. 에서 himself를 빼도 문장이 온전해.\nLeo: Ten people came. Five stayed, and others left early. 에서 others는 남은 다섯 명 전부를 뜻해.",
+    "c": [
+     "Tom, Amy",
+     "Amy, Jin, Mia",
+     "Tom, Amy, Jin",
+     "Tom, Jin, Leo",
+     "Tom, Amy, Jin, Mia"
+    ],
+    "ans": 3
+   }
+  },
+  "target_answer_position": 2
+ },
+ {
+  "key": "2-56",
+  "grade": 2,
+  "no": 56,
+  "chapter": "CH 6",
+  "chapter_name": "부정사",
+  "ref": {
+   "stem": "다음 우리말에 맞게 문장을 완성한 것으로 가장 적절한 것은?",
+   "passage": "Michael needs ____________________.\n(Michael은 앉을 의자 하나가 필요하다.)",
+   "c": [
+    "a chair to sit",
+    "a chair sit on",
+    "a chair for sitting",
+    "a chair to sit in it",
+    "a chair to sit on"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: to부정사가 꾸미는 명사가 전치사의 목적어이면 to부정사 뒤에 전치사를 남긴다: sit on a chair → a chair to sit on.\n풀이 순서: ① ‘명사 + to부정사’에서 명사를 동사 뒤로 옮겨 본다: sit on a chair. 전치사(on)가 있어야 말이 된다. → ② 그 전치사를 to부정사 뒤에 그대로 남긴다. → ③ 전치사가 없는 것, to가 없는 것, to 뒤에 -ing를 쓴 것을 지운다. 정답은 a chair to sit on.\n문장별 판정:\n정답 판단: a chair to sit on으로 전치사를 남겨 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] sit on a chair이므로 전치사 on이 빠지면 안 되므로 오답이다.\n② [오답] to가 빠져 명사를 꾸밀 수 없으므로 오답이다.\n③ [오답] ‘앉을 의자’를 나타내는 to부정사가 아니고 전치사도 빠졌으므로 오답이다.\n④ [오답] 의자 ‘위에’ 앉으므로 in이 아니고 it도 겹치므로 오답이다.\n⑤ [정답] a chair to sit on으로 전치사를 남겨 바르게 썼으므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 우리말에 맞게 문장을 완성한 것으로 가장 적절한 것은?",
+    "passage": "She needs ____________________.\n(그녀는 쓸 펜이 하나 필요하다.)",
+    "c": [
+     "a pen to write",
+     "a pen to writing with",
+     "a pen to write with",
+     "a pen writing with",
+     "a pen write with"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 우리말에 맞게 문장을 완성한 것으로 가장 적절한 것은?",
+    "passage": "We are looking for ____________________.\n(우리는 공부할 방을 찾고 있다.)",
+    "c": [
+     "a room to study",
+     "a room study in",
+     "a room for study at",
+     "a room to studying in",
+     "a room to study in"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 우리말에 맞게 문장을 완성한 것으로 가장 적절한 것은?",
+    "passage": "He has no one ____________________.\n(그에게는 이야기할 사람이 없다.)",
+    "c": [
+     "to talk to",
+     "to talk",
+     "talk to",
+     "talking to",
+     "to talking with"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 우리말에 맞게 문장을 완성한 것으로 가장 적절한 것은?",
+    "passage": "I bought a box ____________________.\n(나는 사진을 보관할 상자를 샀다.)",
+    "c": [
+     "to keep the photos in",
+     "keep the photos in",
+     "keeping the photos in",
+     "to keeping the photos",
+     "to keep in the photos"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 우리말에 맞게 문장을 완성한 것으로 가장 적절한 것은?",
+    "passage": "They found a bench ____________________.\n(그들은 쉴 벤치를 찾았다.)",
+    "c": [
+     "for rest on",
+     "rest on",
+     "to rest on",
+     "to resting on",
+     "to rest"
+    ],
+    "ans": 3
+   }
+  },
+  "target_answer_position": 2
+ },
+ {
+  "key": "2-67",
+  "grade": 2,
+  "no": 67,
+  "chapter": "CH 7",
+  "chapter_name": "동명사",
+  "ref": {
+   "stem": "다음 문장의 빈칸에 들어갈 동사의 형태가 바르게 연결된 것은?",
+   "passage": "We should keep the virus from ________ to other people.",
+   "c": [
+    "spread",
+    "spreads",
+    "spreading",
+    "to spread",
+    "spreaded"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: keep(prevent, stop) + 목적어 + from + 동명사는 ‘~가 …하지 못하게 하다’는 뜻이다. 전치사 from 뒤에는 동명사를 쓴다.\n풀이 순서: ① 빈칸 앞이 전치사 from이다. ‘A가 ~하지 못하게 하다’는 뜻의 구문(keep A from -ing)이다. → ② 전치사 뒤의 동사는 동명사로 쓴다. → ③ 동사원형, to부정사, 시제가 있는 동사는 전치사 뒤에 올 수 없다. 정답은 spreading.\n문장별 판정:\n정답 판단: keep A from -ing이므로 정답은 ③이다.\n선택지 분석:\n① [오답] 전치사 from 뒤에 동사원형을 쓸 수 없으므로 오답이다.\n② [오답] 전치사 뒤에 3인칭 단수형을 쓸 수 없으므로 오답이다.\n③ [정답] keep A from -ing이므로 정답이다.\n④ [오답] 전치사 뒤에 to부정사를 쓸 수 없으므로 오답이다.\n⑤ [오답] spreaded라는 형태는 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 문장의 빈칸에 들어갈 동사의 형태가 바르게 연결된 것은?",
+    "passage": "We must keep rumors from ________ online.",
+    "c": [
+     "have spread",
+     "spreading",
+     "spread",
+     "are spreading",
+     "to spread"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 문장의 빈칸에 들어갈 동사의 형태가 바르게 연결된 것은?",
+    "passage": "The fence keeps animals from ________ onto the road.",
+    "c": [
+     "to run",
+     "run",
+     "running",
+     "are running",
+     "have ran"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 문장의 빈칸에 들어갈 동사의 형태가 바르게 연결된 것은?",
+    "passage": "This cover prevents water from ________ inside.",
+    "c": [
+     "to get",
+     "get",
+     "getting",
+     "are getting",
+     "have got"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 문장의 빈칸에 들어갈 동사의 형태가 바르게 연결된 것은?",
+    "passage": "The rules keep students from ________ in the hallway.",
+    "c": [
+     "shout",
+     "shouting",
+     "are shouting",
+     "have shouted",
+     "to shout"
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 문장의 빈칸에 들어갈 동사의 형태가 바르게 연결된 것은?",
+    "passage": "The filter helps keep dust from ________ the room.",
+    "c": [
+     "are entering",
+     "enter",
+     "entering",
+     "to enter",
+     "have entered"
+    ],
+    "ans": 3
+   }
+  },
+  "target_answer_position": 3
+ }
+]

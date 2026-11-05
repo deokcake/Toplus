@@ -1,0 +1,175 @@
+{
+ "key": "7-34",
+ "type": "B",
+ "grade": 7,
+ "chapter": "CH 4 be동사 부정문과 의문문",
+ "title": "be동사 의문문의 Am, Is, Are 구별",
+ "total_sec": 122,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "7급 · CH 4 be동사 부정문과 의문문 · 34번 · B 유형\n\n이 문제는 be동사 의문문의 주어를 보고 Are가 들어가지 않는 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 4 be동사 부정문과 의문문 · 34번 · B 유형",
+     "이 문제는 be동사 의문문의 주어를 보고 Are가 들어가지 않는 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 4, 34번 B 유형. 이 문제는 be동사 의문문의 주어를 보고 Are가 들어가지 않는 문장을 고르는 문제예요.",
+   "caption": "Are가 아닌 be동사 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말이 ‘Are’이 아닌 것을 고르시오.\n\n① _______ the books new?\n② _______ we ready?\n③ _______ Jane at home?\n④ _______ you busy?\n⑤ _______ they happy?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 말이 ‘Are’이 아닌 것을 고르시오.",
+     "① _______ the books new?",
+     "② _______ we ready?",
+     "③ _______ Jane at home?",
+     "④ _______ you busy?",
+     "⑤ _______ they happy?"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 말이 Are가 아닌 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 의문문 (Yes, No로 답하는 질문): be동사를 주어 앞에\n주어 I → Am\nyou, we, they, 여럿 → Are\nI, you가 아닌 한 사람·한 개, 셀 수 없는 것 → Is\n예) Tom is tall. → Is Tom tall? (Tom은 키가 크니?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 의문문 (Yes, No로 답하는 질문): be동사를 주어 앞에",
+     "주어 I → Am",
+     "you, we, they, 여럿 → Are",
+     "I, you가 아닌 한 사람·한 개, 셀 수 없는 것 → Is",
+     "예) Tom is tall. → Is Tom tall? (Tom은 키가 크니?)"
+    ]
+   },
+   "narration": "Yes나 No로 대답하는 be동사 의문문은 be동사를 주어 앞에 써요. 주어가 I면 Am, you, we, they나 여럿이면 Are를 써요. I와 you가 아닌 한 사람이나 한 개, 셀 수 없는 것이면 Is예요. 예를 들어 Tom is tall, Tom은 키가 커요에서 is를 앞으로 옮기면 Is Tom tall? Tom은 키가 크니?",
+   "caption": "I는 Am, you·여럿은 Are, 그 밖은 Is"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말이 ‘Are’이 아닌 것을 고르시오.\n\n① _______ the books new?\n② _______ we ready?\n③ _______ Jane at home?\n④ _______ you busy?\n⑤ _______ they happy?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "‘Are’이 아닌 것"
+      ],
+      "strike": [],
+      "note": "Are가 ‘아닌’ 것을 찾는다. 빈칸은 모두 주어 바로 앞 → 빈칸 뒤 주어를 하나씩 본다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① _______ the books new?",
+       "② _______ we ready?",
+       "④ _______ you busy?",
+       "⑤ _______ they happy?"
+      ],
+      "note": "여러 권인 the books, we, you, they → 모두 Are. 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ _______ Jane at home?"
+      ],
+      "strike": [],
+      "note": "Jane = I, you가 아닌 한 사람 → Is. Is Jane at home?"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, Are가 아닌 것을 찾아야 하니, 주어 바로 앞에 있는 빈칸마다 뒤의 주어를 보고 be동사를 정해요. 둘째, 책 여러 권인 the books, 그리고 we, you, they에는 모두 Are를 써요. 그래서 1번, 2번, 4번, 5번을 지워요. 셋째, Jane은 I도 you도 아닌 한 사람이라 Is를 써요. Is Jane at home? Jane은 집에 있니?",
+   "caption": "여럿은 Are, Jane은 Is"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① _______ the books new?  ✗  the books는 여러 권 → Are\n② _______ we ready?  ✗  we는 나를 포함한 여럿 → Are\n③ _______ Jane at home?  ✓  한 사람인 Jane → Is\n④ _______ you busy?  ✗  you는 한 사람이어도 Are\n⑤ _______ they happy?  ✗  they는 여럿 → Are",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① _______ the books new?  ✗  the books는 여러 권 → Are",
+     "② _______ we ready?  ✗  we는 나를 포함한 여럿 → Are",
+     "③ _______ Jane at home?  ✓  한 사람인 Jane → Is",
+     "④ _______ you busy?  ✗  you는 한 사람이어도 Are",
+     "⑤ _______ they happy?  ✗  they는 여럿 → Are"
+    ]
+   },
+   "narration": "정답은 3번이에요. 한 사람인 Jane에는 Is가 들어가요. 4번 you는 한 사람을 가리킬 때도 Are를 써요. 1번 the books는 책이 여러 권이라 Are예요. 2번 we는 나를 포함한 여럿이라 Are를 써요.",
+   "caption": "정답 ③ Jane → Is"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ③ _______ Jane at home?\n\nI, you가 아닌 한 사람·한 개 → Is · you, 여럿 → Are · I → Am",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ _______ Jane at home?",
+     "I, you가 아닌 한 사람·한 개 → Is · you, 여럿 → Are · I → Am"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, I와 you가 아닌 한 사람이 주어면 Is, you나 여럿이면 Are를 써요.",
+   "caption": "한 사람 → Is, you·여럿 → Are"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 말이 ‘Are’이 아닌 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "_______ the books new?",
+   "_______ we ready?",
+   "_______ Jane at home?",
+   "_______ you busy?",
+   "_______ they happy?"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: be동사 부정문은 be동사 뒤에 not을 붙인다(am not, is not/isn't, are not/aren't). 의문문은 be동사를 주어 앞에 두고, 대답의 be동사도 주어에 맞춘다. be동사는 I에 am, 3인칭 단수에 is, you·복수에 are를 쓴다.\n풀이 순서: ① 빈칸 뒤의 주어를 하나씩 본다. → ② you나 여럿이면 Are, 한 사람·한 개(셀 수 없는 것 포함)면 Is, I면 Am이다. → ③ Jane은 한 사람이라 Is가 들어간다. 정답은 ③.\n문장별 판정:\n정답 판단: 주어(Jane)에는 Are가 아니라 be동사(Is)가 들어가므로 정답은 ③이다.\n선택지 분석:\n① [오답] 주어(the books)에는 Are가 들어가므로 오답이다.\n② [오답] 주어(we)에는 Are가 들어가므로 오답이다.\n③ [정답] 주어(Jane)에는 Are가 아니라 be동사(Is)가 들어가므로 정답이다.\n④ [오답] 주어(you)에는 Are가 들어가므로 오답이다.\n⑤ [오답] 주어(they)에는 Are가 들어가므로 오답이다."
+ }
+}

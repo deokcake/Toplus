@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-06T08:56:24.973Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Let's <u>take</u> a picture.",
+      "1": "Don't <u>be</u> late.",
+      "2": "How about <u>play</u> soccer?",
+      "3": "Shall we <u>sing</u> together?",
+      "4": "Please <u>close</u> the window."
+    },
+    "expl": "핵심 규칙: Let's, Shall we, Why don't we, 명령문(Please, Don't, Never)에는 동사원형을 쓰고, How about·What about 뒤에는 동명사(-ing)를 쓴다.\n풀이 순서: ① 밑줄 앞의 표현을 본다. What(How) about 뒤는 -ing, 그 밖의 제안·명령 표현 뒤는 동사원형이다. → ② 선택지 ③은 How about 뒤에 동사원형 play를 썼다. playing으로 고친다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: How about 뒤에는 동명사 playing을 쓰므로 정답은 ③이다.\n선택지 분석:\n① [오답] 문장 종류에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n② [오답] 문장 종류에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n③ [정답] How about 뒤에는 동명사 playing을 쓰므로 정답이다.\n④ [오답] 문장 종류에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n⑤ [오답] 문장 종류에 맞는 동사 형태를 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 부분이 틀린 문장을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T08:56:13.926Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T08:56:24.973Z",
+      "what": "확인 완료"
+    }
+  }
+}

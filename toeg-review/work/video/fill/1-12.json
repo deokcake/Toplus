@@ -1,0 +1,475 @@
+{
+ "A": {
+  "title": "끝난 과거 시점과 현재완료",
+  "intro": "이 문제는 때를 나타내는 말과 주어를 보고, 두 빈칸에 알맞은 동사 형태를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오. She 빈칸 her keys yesterday morning. The scientists 빈칸 a groundbreaking discovery recently. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "끝난 과거 시점(yesterday, last week, two days ago) → 과거형 (현재완료 ✗)",
+    "현재완료 = have/has + 과거분사: 과거의 일이 지금과 이어질 때",
+    "has는 3인칭 단수 주어에만, 그 밖의 주어(I, you, 복수)는 have",
+    "recently, lately로 최근부터 지금까지의 일을 말할 때 → 현재완료 (recently는 과거형과도 써요)",
+    "예) We have learned a lot recently. (우리는 최근에 많은 것을 배웠어요.)"
+   ],
+   "narration": "yesterday, last week 같은 끝난 과거 시점에는 과거형을 쓰고, 현재완료는 쓰지 않아요. 현재완료는 have나 has 뒤에 과거분사를 써서 과거의 일이 지금과 이어짐을 나타내고, has는 3인칭 단수 주어에만 써요. recently, lately로 최근부터 지금까지의 일을 말할 때도 현재완료를 써요. 예를 들어 We have learned a lot recently. 우리는 최근에 많은 것을 배웠어요."
+  },
+  "steps": [
+   {
+    "note": "첫 문장 yesterday morning = 끝난 과거 시점 → 과거형 lost. 현재형 loses(②④), 현재완료 have lost(⑤)는 지운다.",
+    "highlight": [
+     "yesterday morning"
+    ],
+    "strike": [
+     "② loses — make",
+     "④ loses — have made",
+     "⑤ have lost — have made"
+    ],
+    "narration": "첫째, 첫 문장의 yesterday morning, 즉 어제 아침은 끝난 과거 시점이라 과거형 lost를 써요. 현재형 loses인 2번, 4번과 현재완료 have lost인 5번을 지워요."
+   },
+   {
+    "note": "둘째 문장 recently + 최근에 이뤄 낸 발견 → 현재형 make ✗, 현재완료",
+    "highlight": [
+     "recently"
+    ],
+    "strike": [
+     "③ lost — make"
+    ],
+    "narration": "둘째, 둘째 문장은 recently와 함께 최근에 이뤄 낸 발견을 말하니, 현재형 make가 아니라 현재완료를 써야 해서 3번을 지워요."
+   },
+   {
+    "note": "The scientists는 복수 → have made. 남는 것 ① lost — have made",
+    "highlight": [
+     "The scientists",
+     "① lost — have made"
+    ],
+    "strike": [],
+    "narration": "셋째, 주어 The scientists는 복수라서 have made가 맞고, 남는 것은 1번이에요. The scientists have made a groundbreaking discovery recently. 그 과학자들은 최근에 획기적인 발견을 했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① lost — have made  ✓  yesterday morning엔 과거형, 최근의 성과엔 have made",
+    "② loses — make  ✗  어제 일에 현재형 loses, 최근 성과에도 현재형 make",
+    "③ lost — make  ✗  lost는 맞지만 현재형 make로는 최근에 해낸 일을 못 나타내요",
+    "④ loses — have made  ✗  have made는 맞지만 어제 아침 일에 현재형 loses",
+    "⑤ have lost — have made  ✗  yesterday morning과 현재완료는 함께 못 써요 (She에는 have도 ✗)"
+   ],
+   "narration": "정답은 1번 lost, have made예요. 3번은 lost는 맞지만, 현재형 make로는 최근에 이뤄 낸 발견을 나타낼 수 없어요. 5번 have lost는 yesterday morning 같은 끝난 과거 시점과 함께 쓸 수 없고, 주어 She에는 have도 쓰지 않아요. 4번은 have made는 맞지만, 어제 아침 일에 현재형 loses를 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "끝난 과거 시점 → 과거형 / 최근부터 지금까지의 일 → have/has + 과거분사",
+   "narration": "정답은 1번이에요. 기억할 것, 끝난 과거 시점은 과거형, 최근부터 지금까지의 일은 현재완료예요."
+  },
+  "captions": [
+   "과거형과 현재완료 짝짓기",
+   "먼저 풀어 보세요",
+   "끝난 과거 → 과거형",
+   "yesterday → recently → ①",
+   "정답 ① lost — have made",
+   "끝난 과거는 과거형"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   36,
+   24,
+   10
+  ]
+ },
+ "B": {
+  "title": "끝난 과거 시점과 현재완료",
+  "intro": "이 문제는 때를 나타내는 말과 주어를 보고, 두 빈칸에 알맞은 동사 형태를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오. Mina 빈칸 her passport yesterday. Researchers 빈칸 important evidence lately. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "끝난 과거 시점(yesterday, last week, two days ago) → 과거형 (현재완료 ✗)",
+    "현재완료 = have/has + 과거분사: 과거의 일이 지금과 이어질 때",
+    "has는 3인칭 단수 주어에만, 그 밖의 주어(I, you, 복수)는 have",
+    "recently, lately로 최근부터 지금까지의 일을 말할 때 → 현재완료 (recently는 과거형과도 써요)",
+    "예) We have learned a lot recently. (우리는 최근에 많은 것을 배웠어요.)"
+   ],
+   "narration": "yesterday, last week 같은 끝난 과거 시점에는 과거형을 쓰고, 현재완료는 쓰지 않아요. 현재완료는 have나 has 뒤에 과거분사를 써서 과거의 일이 지금과 이어짐을 나타내고, has는 3인칭 단수 주어에만 써요. recently, lately로 최근부터 지금까지의 일을 말할 때도 현재완료를 써요. 예를 들어 We have learned a lot recently. 우리는 최근에 많은 것을 배웠어요."
+  },
+  "steps": [
+   {
+    "note": "첫 문장 yesterday = 끝난 과거 시점 → 과거형 lost. 현재형 loses(③), 현재완료 has lost(④)는 지운다.",
+    "highlight": [
+     "yesterday"
+    ],
+    "strike": [
+     "③ loses - find",
+     "④ has lost - have found"
+    ],
+    "narration": "첫째, 첫 문장의 yesterday, 즉 어제는 끝난 과거 시점이라 과거형 lost를 써요. 현재형 loses인 3번과 현재완료 has lost인 4번을 지워요."
+   },
+   {
+    "note": "둘째 문장 lately + 최근에 찾아낸 성과 → 현재형 find ✗, 현재완료",
+    "highlight": [
+     "lately"
+    ],
+    "strike": [
+     "② lost - find"
+    ],
+    "narration": "둘째, 둘째 문장은 lately와 함께 최근에 찾아낸 성과를 말하니, 현재형 find가 아니라 현재완료를 써야 해서 2번을 지워요."
+   },
+   {
+    "note": "주어 Researchers는 복수 → has ✗, have → ① 남음",
+    "highlight": [
+     "Researchers",
+     "① lost - have found"
+    ],
+    "strike": [
+     "⑤ lost - has found"
+    ],
+    "narration": "셋째, 주어 Researchers는 복수라서 has가 아니라 have를 쓰니, 5번을 지우면 1번이 남아요. Researchers have found important evidence lately. 연구자들은 최근에 중요한 증거를 찾아냈어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① lost - have found  ✓  yesterday엔 과거형, 복수 주어와 lately엔 have found",
+    "② lost - find  ✗  lost는 맞지만 현재형 find로는 최근 성과를 못 나타내요",
+    "③ loses - find  ✗  어제 일에 현재형 loses, 둘째도 현재형 find",
+    "④ has lost - have found  ✗  yesterday와 현재완료 has lost는 함께 못 써요",
+    "⑤ lost - has found  ✗  복수 주어 Researchers에는 has가 아니라 have"
+   ],
+   "narration": "정답은 1번 lost, have found예요. 5번은 현재완료이지만, 복수 주어 Researchers에 has를 써서 틀렸어요. 4번 has lost는 yesterday 같은 끝난 과거 시점과 함께 쓸 수 없어요. 2번은 lost는 맞지만, 현재형 find로는 최근에 찾아낸 성과를 나타낼 수 없어요."
+  },
+  "summary": {
+   "card": "끝난 과거 시점 → 과거형 / 최근부터 지금까지의 일 → have/has + 과거분사 (복수 주어 → have)",
+   "narration": "정답은 1번이에요. 기억할 것, 끝난 과거 시점은 과거형, 최근부터 지금까지의 일은 현재완료, 복수 주어에는 have예요."
+  },
+  "captions": [
+   "과거형과 현재완료 짝짓기",
+   "먼저 풀어 보세요",
+   "끝난 과거 → 과거형",
+   "yesterday → lately → 복수 have",
+   "정답 ① lost - have found",
+   "복수 주어 + have + 과거분사"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   36,
+   24,
+   10
+  ]
+ },
+ "C": {
+  "title": "끝난 과거 시점과 현재완료",
+  "intro": "이 문제는 때를 나타내는 말과 주어를 보고, 두 빈칸에 알맞은 동사 형태를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오. The storm 빈칸 several trees last night. Scientists 빈칸 a new treatment recently. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "끝난 과거 시점(yesterday, last week, two days ago) → 과거형 (현재완료 ✗)",
+    "현재완료 = have/has + 과거분사: 과거의 일이 지금과 이어질 때",
+    "has는 3인칭 단수 주어에만, 그 밖의 주어(I, you, 복수)는 have",
+    "recently, lately로 최근부터 지금까지의 일을 말할 때 → 현재완료 (recently는 과거형과도 써요)",
+    "예) We have learned a lot recently. (우리는 최근에 많은 것을 배웠어요.)"
+   ],
+   "narration": "yesterday, last week 같은 끝난 과거 시점에는 과거형을 쓰고, 현재완료는 쓰지 않아요. 현재완료는 have나 has 뒤에 과거분사를 써서 과거의 일이 지금과 이어짐을 나타내고, has는 3인칭 단수 주어에만 써요. recently, lately로 최근부터 지금까지의 일을 말할 때도 현재완료를 써요. 예를 들어 We have learned a lot recently. 우리는 최근에 많은 것을 배웠어요."
+  },
+  "steps": [
+   {
+    "note": "첫 문장 last night = 끝난 과거 시점 → 과거형 damaged. 현재완료 has damaged(③), 현재형 damages(④)는 지운다.",
+    "highlight": [
+     "last night"
+    ],
+    "strike": [
+     "③ has damaged — have developed",
+     "④ damages — develop"
+    ],
+    "narration": "첫째, 첫 문장의 last night, 즉 어젯밤은 끝난 과거 시점이라 과거형 damaged를 써요. 현재완료 has damaged인 3번과 현재형 damages인 4번을 지워요."
+   },
+   {
+    "note": "둘째 문장 recently + 최근에 개발해 낸 성과 → 현재형 develop ✗, 현재완료",
+    "highlight": [
+     "recently"
+    ],
+    "strike": [
+     "① damaged — develop"
+    ],
+    "narration": "둘째, 둘째 문장은 recently와 함께 최근에 개발해 낸 성과를 말하니, 현재형 develop이 아니라 현재완료를 써야 해서 1번을 지워요."
+   },
+   {
+    "note": "주어 Scientists는 복수 → has ✗, have → ⑤ 남음",
+    "highlight": [
+     "Scientists",
+     "⑤ damaged — have developed"
+    ],
+    "strike": [
+     "② damaged — has developed"
+    ],
+    "narration": "셋째, 주어 Scientists는 복수라서 has가 아니라 have를 쓰니, 2번을 지우면 5번이 남아요. Scientists have developed a new treatment recently. 과학자들은 최근에 새로운 치료법을 개발했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① damaged — develop  ✗  damaged는 맞지만 현재형 develop으로는 최근 성과를 못 나타내요",
+    "② damaged — has developed  ✗  복수 주어 Scientists에는 has가 아니라 have",
+    "③ has damaged — have developed  ✗  last night와 현재완료 has damaged는 함께 못 써요",
+    "④ damages — develop  ✗  어젯밤 일에 현재형 damages, 둘째도 현재형 develop",
+    "⑤ damaged — have developed  ✓  last night엔 과거형, 복수 주어와 recently엔 have developed"
+   ],
+   "narration": "정답은 5번 damaged, have developed예요. 2번은 현재완료이지만, 복수 주어 Scientists에 has를 써서 틀렸어요. 3번 has damaged는 어젯밤 같은 끝난 과거 시점과 함께 쓸 수 없어요. 1번은 damaged는 맞지만, 현재형 develop으로는 최근에 개발해 낸 성과를 나타낼 수 없어요."
+  },
+  "summary": {
+   "card": "끝난 과거 시점 → 과거형 / 최근부터 지금까지의 일 → have/has + 과거분사 (복수 주어 → have)",
+   "narration": "정답은 5번이에요. 기억할 것, 끝난 과거 시점은 과거형, 최근부터 지금까지의 일은 현재완료, 복수 주어에는 have예요."
+  },
+  "captions": [
+   "과거형과 현재완료 짝짓기",
+   "먼저 풀어 보세요",
+   "끝난 과거 → 과거형",
+   "last night → recently → 복수 have",
+   "정답 ⑤ damaged — have developed",
+   "복수 주어 + have + 과거분사"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   36,
+   24,
+   10
+  ]
+ },
+ "D": {
+  "title": "끝난 과거 시점과 현재완료",
+  "intro": "이 문제는 때를 나타내는 말과 주어를 보고, 두 빈칸에 알맞은 동사 형태를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오. We 빈칸 the old bridge last summer. Engineers 빈칸 a safer design recently. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "끝난 과거 시점(yesterday, last week, two days ago) → 과거형 (현재완료 ✗)",
+    "현재완료 = have/has + 과거분사: 과거의 일이 지금과 이어질 때",
+    "has는 3인칭 단수 주어에만, 그 밖의 주어(I, you, 복수)는 have",
+    "recently, lately로 최근부터 지금까지의 일을 말할 때 → 현재완료 (recently는 과거형과도 써요)",
+    "예) We have learned a lot recently. (우리는 최근에 많은 것을 배웠어요.)"
+   ],
+   "narration": "yesterday, last week 같은 끝난 과거 시점에는 과거형을 쓰고, 현재완료는 쓰지 않아요. 현재완료는 have나 has 뒤에 과거분사를 써서 과거의 일이 지금과 이어짐을 나타내고, has는 3인칭 단수 주어에만 써요. recently, lately로 최근부터 지금까지의 일을 말할 때도 현재완료를 써요. 예를 들어 We have learned a lot recently. 우리는 최근에 많은 것을 배웠어요."
+  },
+  "steps": [
+   {
+    "note": "첫 문장 last summer = 끝난 과거 시점 → 과거형 repaired. 현재형 repairs(④), 현재완료 has repaired(⑤)는 지운다.",
+    "highlight": [
+     "last summer"
+    ],
+    "strike": [
+     "④ repairs — create",
+     "⑤ has repaired — have created"
+    ],
+    "narration": "첫째, 첫 문장의 last summer, 즉 지난여름은 끝난 과거 시점이라 과거형 repaired를 써요. 현재형 repairs인 4번과 현재완료 has repaired인 5번을 지워요."
+   },
+   {
+    "note": "둘째 문장 recently + 최근에 만들어 낸 성과 → 현재형 create ✗, 현재완료",
+    "highlight": [
+     "recently"
+    ],
+    "strike": [
+     "① repaired — create"
+    ],
+    "narration": "둘째, 둘째 문장은 recently와 함께 최근에 만들어 낸 성과를 말하니, 현재형 create가 아니라 현재완료를 써야 해서 1번을 지워요."
+   },
+   {
+    "note": "주어 Engineers는 복수 → has ✗, have → ③ 남음",
+    "highlight": [
+     "Engineers",
+     "③ repaired — have created"
+    ],
+    "strike": [
+     "② repaired — has created"
+    ],
+    "narration": "셋째, 주어 Engineers는 복수라서 has가 아니라 have를 쓰니, 2번을 지우면 3번이 남아요. Engineers have created a safer design recently. 기술자들은 최근에 더 안전한 설계를 만들어 냈어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① repaired — create  ✗  repaired는 맞지만 현재형 create로는 최근 성과를 못 나타내요",
+    "② repaired — has created  ✗  복수 주어 Engineers에는 has가 아니라 have",
+    "③ repaired — have created  ✓  last summer엔 과거형, 복수 주어와 recently엔 have created",
+    "④ repairs — create  ✗  지난여름 일에 현재형 repairs, 둘째도 현재형 create",
+    "⑤ has repaired — have created  ✗  last summer와 현재완료는 함께 못 써요 (We에는 has도 ✗)"
+   ],
+   "narration": "정답은 3번 repaired, have created예요. 2번은 현재완료이지만, 복수 주어 Engineers에 has를 써서 틀렸어요. 5번 has repaired는 지난여름 같은 끝난 과거 시점과 쓸 수 없고, We에는 has도 쓰지 않아요. 1번은 repaired는 맞지만, 현재형 create로는 최근에 만들어 낸 성과를 나타낼 수 없어요."
+  },
+  "summary": {
+   "card": "끝난 과거 시점 → 과거형 / 최근부터 지금까지의 일 → have/has + 과거분사 (복수 주어 → have)",
+   "narration": "정답은 3번이에요. 기억할 것, 끝난 과거 시점은 과거형, 최근부터 지금까지의 일은 현재완료, 복수 주어에는 have예요."
+  },
+  "captions": [
+   "과거형과 현재완료 짝짓기",
+   "먼저 풀어 보세요",
+   "끝난 과거 → 과거형",
+   "last summer → recently → 복수 have",
+   "정답 ③ repaired — have created",
+   "복수 주어 + have + 과거분사"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   36,
+   24,
+   10
+  ]
+ },
+ "E": {
+  "title": "끝난 과거 시점과 현재완료",
+  "intro": "이 문제는 때를 나타내는 말과 주어를 보고, 두 빈칸에 알맞은 동사 형태를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오. Tom 빈칸 his old bike yesterday morning. Doctors 빈칸 a new vaccine recently. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "끝난 과거 시점(yesterday, last week, two days ago) → 과거형 (현재완료 ✗)",
+    "현재완료 = have/has + 과거분사: 과거의 일이 지금과 이어질 때",
+    "has는 3인칭 단수 주어에만, 그 밖의 주어(I, you, 복수)는 have",
+    "recently, lately로 최근부터 지금까지의 일을 말할 때 → 현재완료 (recently는 과거형과도 써요)",
+    "예) We have learned a lot recently. (우리는 최근에 많은 것을 배웠어요.)"
+   ],
+   "narration": "yesterday, last week 같은 끝난 과거 시점에는 과거형을 쓰고, 현재완료는 쓰지 않아요. 현재완료는 have나 has 뒤에 과거분사를 써서 과거의 일이 지금과 이어짐을 나타내고, has는 3인칭 단수 주어에만 써요. recently, lately로 최근부터 지금까지의 일을 말할 때도 현재완료를 써요. 예를 들어 We have learned a lot recently. 우리는 최근에 많은 것을 배웠어요."
+  },
+  "steps": [
+   {
+    "note": "첫 문장 yesterday morning = 끝난 과거 시점 → 과거형 sold. 현재형 sells(②), 현재완료 has sold(③)는 지운다.",
+    "highlight": [
+     "yesterday morning"
+    ],
+    "strike": [
+     "② sells — test",
+     "③ has sold — have tested"
+    ],
+    "narration": "첫째, 첫 문장의 yesterday morning, 즉 어제 아침은 끝난 과거 시점이라 과거형 sold를 써요. 현재형 sells인 2번과 현재완료 has sold인 3번을 지워요."
+   },
+   {
+    "note": "둘째 문장 recently + 최근에 시험한 일 → 현재형 test ✗, 현재완료",
+    "highlight": [
+     "recently"
+    ],
+    "strike": [
+     "④ sold — test"
+    ],
+    "narration": "둘째, 둘째 문장은 recently와 함께 최근에 새 백신을 시험한 일을 말하니, 현재형 test가 아니라 현재완료를 써야 해서 4번을 지워요."
+   },
+   {
+    "note": "주어 Doctors는 복수 → has ✗, have → ① 남음",
+    "highlight": [
+     "Doctors",
+     "① sold — have tested"
+    ],
+    "strike": [
+     "⑤ sold — has tested"
+    ],
+    "narration": "셋째, 주어 Doctors는 복수라서 has가 아니라 have를 쓰니, 5번을 지우면 1번이 남아요. Doctors have tested a new vaccine recently. 의사들은 최근에 새 백신을 시험했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① sold — have tested  ✓  yesterday morning엔 과거형, 복수 주어와 recently엔 have tested",
+    "② sells — test  ✗  어제 아침 일에 현재형 sells, 둘째도 현재형 test",
+    "③ has sold — have tested  ✗  yesterday morning과 현재완료 has sold는 함께 못 써요",
+    "④ sold — test  ✗  sold는 맞지만 현재형 test로는 최근에 한 일을 못 나타내요",
+    "⑤ sold — has tested  ✗  복수 주어 Doctors에는 has가 아니라 have"
+   ],
+   "narration": "정답은 1번 sold, have tested예요. 5번은 현재완료이지만, 복수 주어 Doctors에 has를 써서 틀렸어요. 3번 has sold는 어제 아침 같은 끝난 과거 시점과 함께 쓸 수 없어요. 4번은 sold는 맞지만, 현재형 test로는 최근에 새 백신을 시험한 일을 나타낼 수 없어요."
+  },
+  "summary": {
+   "card": "끝난 과거 시점 → 과거형 / 최근부터 지금까지의 일 → have/has + 과거분사 (복수 주어 → have)",
+   "narration": "정답은 1번이에요. 기억할 것, 끝난 과거 시점은 과거형, 최근부터 지금까지의 일은 현재완료, 복수 주어에는 have예요."
+  },
+  "captions": [
+   "과거형과 현재완료 짝짓기",
+   "먼저 풀어 보세요",
+   "끝난 과거 → 과거형",
+   "yesterday → recently → 복수 have",
+   "정답 ① sold — have tested",
+   "복수 주어 + have + 과거분사"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   36,
+   24,
+   10
+  ]
+ },
+ "F": {
+  "title": "끝난 과거 시점과 현재완료",
+  "intro": "이 문제는 때를 나타내는 말과 주어를 보고, 두 빈칸에 알맞은 동사 형태를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오. Jane 빈칸 the application last week. The team members 빈칸 several improvements recently. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "끝난 과거 시점(yesterday, last week, two days ago) → 과거형 (현재완료 ✗)",
+    "현재완료 = have/has + 과거분사: 과거의 일이 지금과 이어질 때",
+    "has는 3인칭 단수 주어에만, 그 밖의 주어(I, you, 복수)는 have",
+    "recently, lately로 최근부터 지금까지의 일을 말할 때 → 현재완료 (recently는 과거형과도 써요)",
+    "예) We have learned a lot recently. (우리는 최근에 많은 것을 배웠어요.)"
+   ],
+   "narration": "yesterday, last week 같은 끝난 과거 시점에는 과거형을 쓰고, 현재완료는 쓰지 않아요. 현재완료는 have나 has 뒤에 과거분사를 써서 과거의 일이 지금과 이어짐을 나타내고, has는 3인칭 단수 주어에만 써요. recently, lately로 최근부터 지금까지의 일을 말할 때도 현재완료를 써요. 예를 들어 We have learned a lot recently. 우리는 최근에 많은 것을 배웠어요."
+  },
+  "steps": [
+   {
+    "note": "첫 문장 last week = 끝난 과거 시점 → 과거형 submitted. 현재형 submits(①), 현재완료 has submitted(②)는 지운다.",
+    "highlight": [
+     "last week"
+    ],
+    "strike": [
+     "① submits — introduce",
+     "② has submitted — have introduced"
+    ],
+    "narration": "첫째, 첫 문장의 last week, 즉 지난주는 끝난 과거 시점이라 과거형 submitted를 써요. 현재형 submits인 1번과 현재완료 has submitted인 2번을 지워요."
+   },
+   {
+    "note": "둘째 문장 recently + 최근에 이뤄 낸 개선 → 현재형 introduce ✗, 현재완료",
+    "highlight": [
+     "recently"
+    ],
+    "strike": [
+     "③ submitted — introduce"
+    ],
+    "narration": "둘째, 둘째 문장은 recently와 함께 최근에 이뤄 낸 개선을 말하니, 현재형 introduce가 아니라 현재완료를 써야 해서 3번을 지워요."
+   },
+   {
+    "note": "주어 The team members는 복수 → has ✗, have → ④ 남음",
+    "highlight": [
+     "The team members",
+     "④ submitted — have introduced"
+    ],
+    "strike": [
+     "⑤ submitted — has introduced"
+    ],
+    "narration": "셋째, 주어 The team members는 복수라서 has가 아니라 have를 쓰니, 5번을 지우면 4번이 남아요. The team members have introduced several improvements recently. 팀원들은 최근에 몇 가지 개선 사항을 도입했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① submits — introduce  ✗  지난주 일에 현재형 submits, 둘째도 현재형 introduce",
+    "② has submitted — have introduced  ✗  last week와 현재완료 has submitted는 함께 못 써요",
+    "③ submitted — introduce  ✗  submitted는 맞지만 현재형 introduce로는 최근 성과를 못 나타내요",
+    "④ submitted — have introduced  ✓  last week엔 과거형, 복수 주어와 recently엔 have introduced",
+    "⑤ submitted — has introduced  ✗  복수 주어 The team members에는 has가 아니라 have"
+   ],
+   "narration": "정답은 4번 submitted, have introduced예요. 5번은 현재완료이지만, 복수 주어 The team members에 has를 써서 틀렸어요. 2번 has submitted는 지난주 같은 끝난 과거 시점과 함께 쓸 수 없어요. 3번은 submitted는 맞지만, 현재형 introduce로는 최근에 이뤄 낸 개선을 나타낼 수 없어요."
+  },
+  "summary": {
+   "card": "끝난 과거 시점 → 과거형 / 최근부터 지금까지의 일 → have/has + 과거분사 (복수 주어 → have)",
+   "narration": "정답은 4번이에요. 기억할 것, 끝난 과거 시점은 과거형, 최근부터 지금까지의 일은 현재완료, 복수 주어에는 have예요."
+  },
+  "captions": [
+   "과거형과 현재완료 짝짓기",
+   "먼저 풀어 보세요",
+   "끝난 과거 → 과거형",
+   "last week → recently → 복수 have",
+   "정답 ④ submitted — have introduced",
+   "복수 주어 + have + 과거분사"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   36,
+   24,
+   10
+  ]
+ }
+}

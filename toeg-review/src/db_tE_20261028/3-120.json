@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-26T04:59:32.504Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 시간은 at + 시각, on + 요일·날짜, in + 월·연도·계절로 나타내고, for는 기간의 길이, by는 완료 기한, until은 계속의 끝, during은 ‘~ 동안’(+ 명사)을 나타낸다. 장소는 at + 지점, on + 표면, in + 공간·도시·나라, between은 둘 사이이다.\n풀이 순서: ① 문장마다 전치사와 뒤의 말을 짝지어 본다. 전치사만 보지 말고 동사의 형태도 함께 확인한다. → ② ⓐ on May(in May), ⓑ in Monday(on Monday), ⓒ since two hours(for two hours), ⓓ during two hours(for two hours), ⓔ at Christmas Day(on Christmas Day)로 다섯 문장이 모두 틀렸다. → ③ 올바르지 않은 문장은 5개이다.\n문장별 판정:\nⓐ X. 월에는 in을 쓴다(in May).\nⓑ X. 요일에는 on을 쓴다(on Monday).\nⓒ X. 기간의 길이에는 for를 쓴다(for two hours).\nⓓ X. 기간의 길이(two hours)에는 during이 아니라 for를 쓴다.\nⓔ X. 특정한 날에는 on을 쓴다(on Christmas Day).\n정답 판단: 어법상 올바르지 않은 문장은 ⓐ, ⓑ, ⓒ, ⓓ, ⓔ로 5개이다.\n선택지 분석:\n① [오답] 어법상 올바르지 않은 문장은 ⓐ, ⓑ, ⓒ, ⓓ, ⓔ로 5개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 어법상 올바르지 않은 문장은 ⓐ, ⓑ, ⓒ, ⓓ, ⓔ로 5개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 어법상 올바르지 않은 문장은 ⓐ, ⓑ, ⓒ, ⓓ, ⓔ로 5개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 어법상 올바르지 않은 문장은 ⓐ, ⓑ, ⓒ, ⓓ, ⓔ로 5개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [정답] 어법상 올바르지 않은 문장은 ⓐ, ⓑ, ⓒ, ⓓ, ⓔ로 5개이다. 이 보기의 5개는 실제 개수와 일치한다.",
+    "passage": "<보기>\nⓐ I was born on May in a small town near Busan.\nⓑ We meet in Monday at the library after school.\nⓒ I have waited since two hours for his call.\nⓓ It rained during two hours this afternoon.\nⓔ We have a party at Christmas Day every year.",
+    "stem": "다음 <보기>의 문장 중 어법상 올바르지 않은 문장은 몇 개인가?"
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:31:04.001Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T04:31:04.001Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:31:04.001Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

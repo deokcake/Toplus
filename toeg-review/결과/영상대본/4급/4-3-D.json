@@ -1,0 +1,179 @@
+{
+ "key": "4-3",
+ "type": "D",
+ "grade": 4,
+ "chapter": "CH 1 명사와 관사",
+ "title": "a, an이 들어갈 수 없는 자리",
+ "total_sec": 135,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "4급 · CH 1 명사와 관사 · 3번 · D 유형\n\n이 문제는 a와 an의 쓰임을 알고, a나 an이 들어갈 수 없는 빈칸을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 1 명사와 관사 · 3번 · D 유형",
+     "이 문제는 a와 an의 쓰임을 알고, a나 an이 들어갈 수 없는 빈칸을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 1, 3번 D 유형. 이 문제는 a와 an의 쓰임을 알고, a나 an이 들어갈 수 없는 빈칸을 고르는 문제예요.",
+   "caption": "a, an이 들어갈 수 없는 자리"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 빈칸에 a/an이 들어갈 수 없는 것을 고르시오.\n\n① Tom is _____ good cook.\n② I go to school by _____ bus.\n③ She has _____ interesting book.\n④ He needs _____ hour to finish it.\n⑤ They live in _____ big house.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 a/an이 들어갈 수 없는 것을 고르시오.",
+     "① Tom is _____ good cook.",
+     "② I go to school by _____ bus.",
+     "③ She has _____ interesting book.",
+     "④ He needs _____ hour to finish it.",
+     "⑤ They live in _____ big house."
+    ]
+   },
+   "narration": "다음 빈칸에 a나 an이 들어갈 수 없는 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\na, an → 셀 수 있는 명사가 하나일 때 그 앞에 써요 (a book 책 한 권)\n바로 뒤 낱말이 자음 소리 → a, 모음 소리 → an (a cat, an egg)\n교통수단을 타고 간다고 말할 때 → by + 교통수단, 관사 없이 (by car, by train)\n예) My dad goes to work by car. (아빠는 차를 타고 일하러 가요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "a, an → 셀 수 있는 명사가 하나일 때 그 앞에 써요 (a book 책 한 권)",
+     "바로 뒤 낱말이 자음 소리 → a, 모음 소리 → an (a cat, an egg)",
+     "교통수단을 타고 간다고 말할 때 → by + 교통수단, 관사 없이 (by car, by train)",
+     "예) My dad goes to work by car. (아빠는 차를 타고 일하러 가요.)"
+    ]
+   },
+   "narration": "a와 an은 셀 수 있는 명사 하나 앞에 써요. 바로 뒤 낱말이 자음 소리로 시작하면 a cat처럼 a를, 모음 소리로 시작하면 an egg처럼 an을 써요. 그런데 차나 기차를 타고 간다고 말할 때는 by 뒤에 교통수단 이름을 관사 없이 써요. 그래서 by car, by train처럼 말해요. 예를 들어 My dad goes to work by car, 아빠는 차를 타고 일하러 가요.",
+   "caption": "셀 수 있는 명사 하나 앞에 a, an"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 빈칸에 a/an이 들어갈 수 없는 것을 고르시오.\n\n① Tom is _____ good cook.\n② I go to school by _____ bus.\n③ She has _____ interesting book.\n④ He needs _____ hour to finish it.\n⑤ They live in _____ big house.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "interesting",
+       "hour"
+      ],
+      "strike": [
+       "③ She has _____ interesting book.",
+       "④ He needs _____ hour to finish it."
+      ],
+      "note": "③·④ interesting, hour(h 발음 안 함) → 모음 소리 → an"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "good cook",
+       "big house"
+      ],
+      "strike": [
+       "① Tom is _____ good cook.",
+       "⑤ They live in _____ big house."
+      ],
+      "note": "①·⑤ cook = 요리사(명사), good·big → 자음 소리 → a"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "by _____ bus"
+      ],
+      "strike": [],
+      "note": "② by bus = 버스를 타고 → by + 교통수단은 관사 ✗"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 3번 interesting과 4번 hour는 모음 소리로 시작해서 an이 들어가요. hour는 h를 발음하지 않아요. 둘째, 1번 cook은 여기서 요리사라는 명사이고, good과 big은 자음 소리로 시작해서 a good cook, a big house가 돼요. 셋째, 2번 by bus는 ‘버스를 타고’라는 뜻이에요. 교통수단을 타고 간다고 할 때는 by 뒤에 관사를 쓰지 않으니, 답은 2번이에요.",
+   "caption": "an → a → by bus"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 30,
+   "screen": {
+    "text": "① Tom is _____ good cook.  ✗  cook은 ‘요리사’(명사) → a good cook\n② I go to school by _____ bus.  ✓  ‘버스를 타고’ by bus는 관사 없이\n③ She has _____ interesting book.  ✗  book 앞 interesting이 모음 소리 → an\n④ He needs _____ hour to finish it.  ✗  h를 발음하지 않는 hour 앞 → an hour\n⑤ They live in _____ big house.  ✗  house 앞 big이 자음 소리 → a big house",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Tom is _____ good cook.  ✗  cook은 ‘요리사’(명사) → a good cook",
+     "② I go to school by _____ bus.  ✓  ‘버스를 타고’ by bus는 관사 없이",
+     "③ She has _____ interesting book.  ✗  book 앞 interesting이 모음 소리 → an",
+     "④ He needs _____ hour to finish it.  ✗  h를 발음하지 않는 hour 앞 → an hour",
+     "⑤ They live in _____ big house.  ✗  house 앞 big이 자음 소리 → a big house"
+    ]
+   },
+   "narration": "정답은 2번이에요. 버스를 타고 간다고 말할 때는 관사 없이 by bus라고 해요. 1번 cook은 요리하다라는 뜻만 떠올리면 헷갈리지만, 여기서는 요리사라는 명사예요. 그래서 a good cook, 좋은 요리사가 돼요. 4번 hour는 h를 발음하지 않아 모음 소리로 시작하니 an hour가 맞아요.",
+   "caption": "정답 ② by bus"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ② I go to school by _____ bus.\n\n교통수단을 타고 갈 때는 관사 없이: by bus",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② I go to school by _____ bus.",
+     "교통수단을 타고 갈 때는 관사 없이: by bus"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 교통수단을 타고 간다고 할 때는 관사 없이 by bus, by car라고 해요.",
+   "caption": "by + 교통수단은 관사 없이"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 a/an이 들어갈 수 없는 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Tom is _____ good cook.",
+   "I go to school by _____ bus.",
+   "She has _____ interesting book.",
+   "He needs _____ hour to finish it.",
+   "They live in _____ big house."
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: a/an은 셀 수 있는 명사의 단수형 앞에 쓴다. 식사 이름(breakfast, lunch) 앞, by + 교통수단에는 관사를 쓰지 않고, 악기 앞에는 play the + 악기로 the를 쓴다.\n풀이 순서: ① 빈칸 뒤의 명사가 ‘셀 수 있는 명사의 단수형’인지 본다. 그런 명사 앞에만 a/an을 쓴다. → ② 선택지 ②의 by bus에서 by + 교통수단에는 관사를 쓰지 않는다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: by + 교통수단에는 관사를 쓰지 않으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 셀 수 있는 명사 단수형 앞이라 a/an이 들어갈 수 있으므로 오답이다.\n② [정답] by + 교통수단에는 관사를 쓰지 않으므로 정답이다.\n③ [오답] 셀 수 있는 명사 단수형 앞이라 a/an이 들어갈 수 있으므로 오답이다.\n④ [오답] 셀 수 있는 명사 단수형 앞이라 a/an이 들어갈 수 있으므로 오답이다.\n⑤ [오답] 셀 수 있는 명사 단수형 앞이라 a/an이 들어갈 수 있으므로 오답이다."
+ }
+}

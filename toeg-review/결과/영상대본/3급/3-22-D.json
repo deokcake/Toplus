@@ -1,0 +1,175 @@
+{
+ "key": "3-22",
+ "type": "D",
+ "grade": 3,
+ "chapter": "CH 3 명사와 관사",
+ "title": "셀 수 있는 명사와 셀 수 없는 명사",
+ "total_sec": 126,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "3급 · CH 3 명사와 관사 · 22번 · D 유형\n\n이 문제는 다섯 개의 명사 가운데 셀 수 있는 명사를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 3 명사와 관사 · 22번 · D 유형",
+     "이 문제는 다섯 개의 명사 가운데 셀 수 있는 명사를 고르는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 3, 22번 D 유형. 이 문제는 다섯 개의 명사 가운데 셀 수 있는 명사를 고르는 문제예요.",
+   "caption": "셀 수 있는 명사 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 셀 수 있는 명사를 고르시오.\n\n① information\n② baggage\n③ advice\n④ book\n⑤ money",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 셀 수 있는 명사를 고르시오.",
+     "① information",
+     "② baggage",
+     "③ advice",
+     "④ book",
+     "⑤ money"
+    ]
+   },
+   "narration": "다음 중 셀 수 있는 명사를 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n셀 수 있는 명사 → 하나일 때 a/an, 둘 이상이면 복수형 (an egg, two eggs)\n셀 수 없는 명사 → a/an을 붙이지 않고, 복수형도 쓰지 않아요\n영어에서 셀 수 없는 명사: information(정보), baggage(여행 짐), advice(충고), money(돈)\n예) I ate two eggs and some bread. (나는 달걀 두 개와 빵을 조금 먹었어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "셀 수 있는 명사 → 하나일 때 a/an, 둘 이상이면 복수형 (an egg, two eggs)",
+     "셀 수 없는 명사 → a/an을 붙이지 않고, 복수형도 쓰지 않아요",
+     "영어에서 셀 수 없는 명사: information(정보), baggage(여행 짐), advice(충고), money(돈)",
+     "예) I ate two eggs and some bread. (나는 달걀 두 개와 빵을 조금 먹었어요.)"
+    ]
+   },
+   "narration": "셀 수 있는 명사는 하나일 때 a나 an을 붙일 수 있고, 둘 이상이면 복수형으로 써요. 셀 수 없는 명사에는 a나 an도, 복수형도 쓰지 않아요. information 정보, baggage 여행 짐, advice 충고, money 돈은 영어에서 셀 수 없는 명사예요. 예를 들어 I ate two eggs and some bread, 달걀 두 개와 빵을 조금 먹었어요.",
+   "caption": "셀 수 있는 명사, 셀 수 없는 명사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 중 셀 수 있는 명사를 고르시오.\n\n① information\n② baggage\n③ advice\n④ book\n⑤ money",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "셀 수 있는 명사"
+      ],
+      "strike": [
+       "① information",
+       "③ advice"
+      ],
+      "note": "a/an·복수형이 되는지 본다 → information(정보), advice(충고)는 셀 수 없다 → 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "② baggage",
+       "⑤ money"
+      ],
+      "note": "baggage는 여행 짐을 묶어 부르는 말, money는 돈 전체 → 둘 다 셀 수 없다 → 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ book"
+      ],
+      "strike": [],
+      "note": "남은 book(책) → a book, two books → 셀 수 있다."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 보기마다 a나 an을 붙이거나 복수형으로 쓸 수 있는지 따져 봐요. information 정보와 advice 충고는 셀 수 없는 명사라서 지워요. 둘째, baggage는 여행 가방 같은 짐을 묶어 부르는 말이고, money는 돈 전체를 말해요. 둘 다 셀 수 없는 명사라서 지워요. 셋째, 남은 book은 책이라서 a book, two books처럼 셀 수 있어요.",
+   "caption": "셀 수 없는 명사 지우기 → book"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 30,
+   "screen": {
+    "text": "① information  ✗  정보, an information으로 쓰지 않아요\n② baggage  ✗  여행 가방 같은 짐을 묶어 부르는 말, 셀 수 없어요\n③ advice  ✗  충고, 우리말과 달리 advices로 쓰지 않아요\n④ book  ✓  a book, two books처럼 셀 수 있어요\n⑤ money  ✗  돈 전체를 말해요, 셀 수 없어요 (동전 coin은 셀 수 있어요)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① information  ✗  정보, an information으로 쓰지 않아요",
+     "② baggage  ✗  여행 가방 같은 짐을 묶어 부르는 말, 셀 수 없어요",
+     "③ advice  ✗  충고, 우리말과 달리 advices로 쓰지 않아요",
+     "④ book  ✓  a book, two books처럼 셀 수 있어요",
+     "⑤ money  ✗  돈 전체를 말해요, 셀 수 없어요 (동전 coin은 셀 수 있어요)"
+    ]
+   },
+   "narration": "정답은 4번 book이에요. 5번 money는 헷갈리기 쉬운데, 동전 coin은 a coin, two coins처럼 셀 수 있지만 돈 전체를 뜻하는 money는 셀 수 없어요. 2번 baggage는 가방 여러 개를 묶어 부르는 말이라 셀 것 같지만, 영어에서는 셀 수 없어요. 3번 advice도 우리말로는 충고 한 마디처럼 세지만, 영어에서는 셀 수 없는 명사예요.",
+   "caption": "정답 ④ book"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ④ book\n\na/an을 붙이거나 복수형으로 쓸 수 있으면 셀 수 있는 명사 (a book, two books)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ book",
+     "a/an을 붙이거나 복수형으로 쓸 수 있으면 셀 수 있는 명사 (a book, two books)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, a나 an을 붙이거나 복수형으로 쓸 수 있으면 셀 수 있는 명사예요.",
+   "caption": "a/an·복수형이 되면 셀 수 있는 명사"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+  "passage": "",
+  "c": [
+   "information",
+   "baggage",
+   "advice",
+   "book",
+   "money"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 셀 수 있는 명사는 a/an·숫자와 함께 쓰고 복수형을 만들 수 있다. information, news, furniture, advice, homework, luggage, weather 같은 명사는 셀 수 없는 명사라 a/an이나 -s를 붙이지 않는다.\n풀이 순서: ① 낱말마다 a/an을 붙이거나 복수형(-s)으로 쓸 수 있는지 본다. → ② information, news, furniture, advice, homework, money처럼 낱개로 나뉘지 않는 것은 셀 수 없는 명사다. → ③ 선택지 ④만 셀 수 있다(a book, two books).\n문장별 판정:\n정답 판단: book: a/an과 함께 쓰고 복수형을 만들 수 있는 셀 수 있는 명사이므로 정답은 ④이다.\n선택지 분석:\n① [오답] information: 셀 수 없는 명사라 a/an이나 복수형을 쓰지 않으므로 오답이다.\n② [오답] baggage: 셀 수 없는 명사라 a/an이나 복수형을 쓰지 않으므로 오답이다.\n③ [오답] advice: 셀 수 없는 명사라 a/an이나 복수형을 쓰지 않으므로 오답이다.\n④ [정답] book: a/an과 함께 쓰고 복수형을 만들 수 있는 셀 수 있는 명사이므로 정답이다.\n⑤ [오답] money: 셀 수 없는 명사라 a/an이나 복수형을 쓰지 않으므로 오답이다."
+ }
+}

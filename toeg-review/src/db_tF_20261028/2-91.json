@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-26T11:45:19.359Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "when – where",
+      "1": "why – where",
+      "2": "where – why",
+      "3": "why – when",
+      "4": "which – that"
+    },
+    "expl": "핵심 규칙: 관계절 안에서 장소를 나타내면 where, 시간을 나타내면 when, 이유를 나타내면 why를 쓴다. 선행사의 뜻뿐 아니라 관계절에서 빠진 성분도 확인한다.\n풀이 순서: ① 빈칸 앞의 선행사가 때·장소·이유 가운데 무엇인지 본다. → ② 첫째 빈칸 앞은 the reason(이유)이므로 why, 둘째 빈칸 앞은 the season(때)이므로 when. 빈칸 뒤가 완전한 절이므로 관계대명사(which, that)가 아니라 관계부사 자리다. → ③ 정답은 why – when.\n문장별 판정:\n정답 판단: 첫 빈칸은 이유 reason, 둘째 빈칸은 시간 season을 나타내므로 why - when이다.\n선택지 분석:\n① [오답] (첫째 빈칸) 이유 reason을 나타낼 부사적 연결이 필요하므로 when 대신 why를 쓴다 / (둘째 빈칸) 시간 season을 나타낼 부사적 연결이 필요하므로 where 대신 when을 쓴다. 바른 연결은 why - when이다.\n② [오답] (첫째 빈칸) why는 이유 reason 뒤에서 가능하다 / (둘째 빈칸) 시간 season을 나타낼 부사적 연결이 필요하므로 where 대신 when을 쓴다. 바른 연결은 why - when이다.\n③ [오답] (첫째 빈칸) 이유 reason을 나타낼 부사적 연결이 필요하므로 where 대신 why를 쓴다 / (둘째 빈칸) 시간 season을 나타낼 부사적 연결이 필요하므로 why 대신 when을 쓴다. 바른 연결은 why - when이다.\n④ [정답] (첫째 빈칸) why는 이유 reason 뒤에서 가능하다 / (둘째 빈칸) when은 시간 season 뒤에서 가능하다. 두 빈칸이 모두 맞다.\n⑤ [오답] (첫째 빈칸) 이유 reason을 나타낼 부사적 연결이 필요하므로 which 대신 why를 쓴다 / (둘째 빈칸) that은 시간 season 뒤에서 가능하다 (이 that은 시간·이유 관계절에서 when 대신 쓸 수 있다). 바른 연결은 why - when이다.",
+    "passage": "• I understand the reason _____ the outdoor event was canceled.\n• Summer is the season _____ many people travel to the beach.",
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T11:45:19.359Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T11:45:19.359Z",
+      "what": "확인 완료"
+    }
+  }
+}

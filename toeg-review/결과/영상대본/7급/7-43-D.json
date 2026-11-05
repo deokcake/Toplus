@@ -1,0 +1,184 @@
+{
+ "key": "7-43",
+ "type": "D",
+ "grade": 7,
+ "chapter": "CH 5 지시 대명사",
+ "title": "they로 답하는 질문 고르기",
+ "total_sec": 146,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "7급 · CH 5 지시 대명사 · 43번 · D 유형\n\n이 문제는 대답의 주어 they를 보고, 그 대답에 알맞은 질문을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 5 지시 대명사 · 43번 · D 유형",
+     "이 문제는 대답의 주어 they를 보고, 그 대답에 알맞은 질문을 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 5, 43번 D 유형. 이 문제는 대답의 주어 they를 보고, 그 대답에 알맞은 질문을 고르는 문제예요.",
+   "caption": "대답의 they에 맞는 질문"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 24,
+   "screen": {
+    "text": "다음 대화의 빈칸에 알맞은 것을 고르시오.\n\nA: _______________________\nB: No, they're my sister's.\n\n① Is it your notebook?\n② Are you and Tom friends?\n③ Are those his cars?\n④ Is this a lemon?\n⑤ Is that her bike?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 대화의 빈칸에 알맞은 것을 고르시오.",
+     "A: _______________________",
+     "B: No, they're my sister's.",
+     "① Is it your notebook?",
+     "② Are you and Tom friends?",
+     "③ Are those his cars?",
+     "④ Is this a lemon?",
+     "⑤ Is that her bike?"
+    ]
+   },
+   "narration": "다음 대화의 빈칸에 알맞은 것을 고르세요. A가 빈칸으로 묻고, B가 No, they're my sister's, 아니, 그것들은 내 여동생 거야, 하고 답해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n대답에서는 질문의 주어를 알맞은 대명사로 받아요.\nthese, those, 복수 명사 → they\nthis, that(사람이 아닌 것 하나), it → it\nyou → I 또는 we\n예) Are these your gloves? — Yes, they are. (이것들은 네 장갑이니? 응, 그래.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "대답에서는 질문의 주어를 알맞은 대명사로 받아요.",
+     "these, those, 복수 명사 → they",
+     "this, that(사람이 아닌 것 하나), it → it",
+     "you → I 또는 we",
+     "예) Are these your gloves? — Yes, they are. (이것들은 네 장갑이니? 응, 그래.)"
+    ]
+   },
+   "narration": "대답에서는 질문의 주어를 알맞은 대명사로 받아요. 질문의 주어가 these, those이거나 복수 명사이면 they로 답해요. this나 that이 사람이 아닌 것 하나를 가리키거나 주어가 it이면 it으로 답해요. 주어가 you이면 I나 we로 답해요. 예를 들어 Are these your gloves? 이것들은 네 장갑이니? Yes, they are. 응, 그래.",
+   "caption": "질문의 주어를 대명사로 받아요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 41,
+   "screen": {
+    "text": "다음 대화의 빈칸에 알맞은 것을 고르시오.\n\nA: _______________________\nB: No, they're my sister's.\n\n① Is it your notebook?\n② Are you and Tom friends?\n③ Are those his cars?\n④ Is this a lemon?\n⑤ Is that her bike?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "No, they're my sister's."
+      ],
+      "strike": [],
+      "note": "대답의 주어 they (they're = they are) → 질문은 여러 개를 물었다"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① Is it your notebook?",
+       "④ Is this a lemon?",
+       "⑤ Is that her bike?"
+      ],
+      "note": "it, this, that으로 하나를 물은 질문 → 대답은 it → 지운다"
+     },
+     {
+      "step": 3,
+      "highlight": [],
+      "strike": [
+       "② Are you and Tom friends?"
+      ],
+      "note": "② you and Tom(너와 Tom) → 대답은 we → 지운다"
+     },
+     {
+      "step": 4,
+      "highlight": [
+       "③ Are those his cars?"
+      ],
+      "strike": [],
+      "note": "남는 것 ③ → Are those his cars? / No, they're my sister's."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 대답의 they're는 they are를 줄인 말이에요. 주어가 they라서, 질문의 주어는 these나 those처럼 여러 개여야 해요. 둘째, 1번은 it, 4번은 this, 5번은 that으로 물건 하나를 물었어요. 모두 it으로 답하니까 지워요. 셋째, 2번은 너와 Tom을 함께 물었어요. 대답하는 사람은 자기와 Tom을 묶어 we로 답하니까 지워요. 넷째, 남는 것은 3번이에요. Are those his cars? 저것들은 그의 자동차들이니? 이렇게 물으면 they로 답할 수 있어요.",
+   "caption": "they → 여러 개 → those"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 30,
+   "screen": {
+    "text": "① Is it your notebook?  ✗  it으로 물으면 대답도 it\n② Are you and Tom friends?  ✗  you and Tom → 대답은 we\n③ Are those his cars?  ✓  those(자동차 여러 대) → 대답은 they\n④ Is this a lemon?  ✗  this(레몬 하나) → 대답은 it\n⑤ Is that her bike?  ✗  that(자전거 한 대) → 대답은 it",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Is it your notebook?  ✗  it으로 물으면 대답도 it",
+     "② Are you and Tom friends?  ✗  you and Tom → 대답은 we",
+     "③ Are those his cars?  ✓  those(자동차 여러 대) → 대답은 they",
+     "④ Is this a lemon?  ✗  this(레몬 하나) → 대답은 it",
+     "⑤ Is that her bike?  ✗  that(자전거 한 대) → 대답은 it"
+    ]
+   },
+   "narration": "정답은 3번이에요. those로 자동차 여러 대를 물었으니 they로 답할 수 있어요. 2번은 Are로 묻고 두 사람이라 고르기 쉬워요. 하지만 you and Tom에는 we로 답해요. 5번은 her bike가 sister's와 어울려 보이지만, that으로 자전거 한 대를 물었으니 it으로 답해요.",
+   "caption": "정답 ③ Are those his cars?"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ Are those his cars?\n\n질문의 주어가 these, those, 복수 명사 → 대답은 they",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ Are those his cars?",
+     "질문의 주어가 these, those, 복수 명사 → 대답은 they"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 질문의 주어가 these, those이거나 복수 명사이면 대답은 they로 해요.",
+   "caption": "these·those·복수 명사 → they"
+  }
+ ],
+ "source": {
+  "stem": "다음 대화의 빈칸에 알맞은 것을 고르시오.",
+  "passage": "A: _______________________\nB: No, they're my sister's.",
+  "c": [
+   "Is it your notebook?",
+   "Are you and Tom friends?",
+   "Are those his cars?",
+   "Is this a lemon?",
+   "Is that her bike?"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 대답의 주어가 they이면 질문은 여러 개(these/those/복수 명사)를 물은 것이다. this/that/it(한 개)은 it으로, you는 I/we로, she는 she로 받는다.\n풀이 순서: ① 대답을 본다: No, they're my sister's. 주어가 they다. → ② they로 받을 수 있는 것은 these/those로 물은 여러 개뿐이다. this/that/it이나 you, she로 물은 질문을 지운다. → ③ 남는 것은 Are those his cars?\n문장별 판정:\n정답 판단: those를 they로 받아 대답할 수 있으므로 정답은 ③이다.\n선택지 분석:\n① [오답] it에 대한 질문에는 it으로 답하므로 오답이다.\n② [오답] you and Tom에 대한 질문에는 we로 답하므로 오답이다.\n③ [정답] those를 they로 받아 대답할 수 있으므로 정답이다.\n④ [오답] this·that으로 한 개를 물으면 대답에서 it으로 받으므로 오답이다.\n⑤ [오답] this·that으로 한 개를 물으면 대답에서 it으로 받으므로 오답이다."
+ }
+}

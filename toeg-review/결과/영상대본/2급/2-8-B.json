@@ -1,0 +1,184 @@
+{
+ "key": "2-8",
+ "type": "B",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "title": "목적격 보어의 쓰임 구별",
+ "total_sec": 136,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "2급 · CH 1 문장의 형식 · 8번 · B 유형\n\n이 문제는 밑줄 친 말이 목적격 보어로 쓰였는지 가려, 보기와 쓰임이 같은 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 1 문장의 형식 · 8번 · B 유형",
+     "이 문제는 밑줄 친 말이 목적격 보어로 쓰였는지 가려, 보기와 쓰임이 같은 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 1, 8번 B 유형. 이 문제는 밑줄 친 말이 목적격 보어로 쓰였는지 가려, 보기와 쓰임이 같은 것을 고르는 문제예요.",
+   "caption": "목적격 보어의 쓰임 구별"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 21,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분의 쓰임이 <보기>와 같은 것은?\n\n<보기>\nWe painted the fence bright <u>yellow</u>.\n\n① She felt <u>sad</u> about it.\n② The train moved <u>slowly</u>.\n③ The soup tastes <u>salty</u>.\n④ The music made the baby <u>sleepy</u>.\n⑤ I want <u>to leave</u> now.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 밑줄 친 부분의 쓰임이 <보기>와 같은 것은?",
+     "<보기>",
+     "We painted the fence bright <u>yellow</u>.",
+     "① She felt <u>sad</u> about it.",
+     "② The train moved <u>slowly</u>.",
+     "③ The soup tastes <u>salty</u>.",
+     "④ The music made the baby <u>sleepy</u>.",
+     "⑤ I want <u>to leave</u> now."
+    ]
+   },
+   "narration": "다음 중 밑줄 친 부분의 쓰임이 보기와 같은 것은? We painted the fence bright yellow. 우리는 울타리를 밝은 노란색으로 칠했어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\nmake, keep, find, paint, leave + 목적어 + 형용사\n형용사가 목적어의 상태를 설명 → 목적격 보어\nfeel, taste 같은 동사 뒤에서 주어의 상태를 설명 → 주격 보어\n동사를 꾸미는 말 → 부사 / want 바로 뒤 to부정사 → want의 목적어\n예) I found the book easy. (나는 그 책이 쉽다는 것을 알게 됐어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "make, keep, find, paint, leave + 목적어 + 형용사",
+     "형용사가 목적어의 상태를 설명 → 목적격 보어",
+     "feel, taste 같은 동사 뒤에서 주어의 상태를 설명 → 주격 보어",
+     "동사를 꾸미는 말 → 부사 / want 바로 뒤 to부정사 → want의 목적어",
+     "예) I found the book easy. (나는 그 책이 쉽다는 것을 알게 됐어요.)"
+    ]
+   },
+   "narration": "make, keep, find, paint 같은 동사는 목적어 뒤에 형용사를 써서 목적어가 어떤 상태인지 나타낼 수 있어요. 이 형용사를 목적격 보어라고 해요. I found the book easy. 나는 그 책이 쉽다는 것을 알게 됐어요. 여기서 easy가 목적어 the book의 상태를 설명해요. 이와 달리 feel, taste 같은 동사 뒤에서 주어의 상태를 설명하는 말은 주격 보어예요.",
+   "caption": "목적어의 상태를 설명하는 형용사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분의 쓰임이 <보기>와 같은 것은?\n\n<보기>\nWe painted the fence bright <u>yellow</u>.\n\n① She felt <u>sad</u> about it.\n② The train moved <u>slowly</u>.\n③ The soup tastes <u>salty</u>.\n④ The music made the baby <u>sleepy</u>.\n⑤ I want <u>to leave</u> now.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "the fence bright <u>yellow</u>"
+      ],
+      "strike": [],
+      "note": "<보기> yellow → 목적어 the fence의 상태(색)를 설명 = 목적격 보어"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① She felt <u>sad</u> about it.",
+       "③ The soup tastes <u>salty</u>."
+      ],
+      "note": "① sad, ③ salty → 동사 뒤에서 주어의 상태를 설명하는 주격 보어 → 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [],
+      "strike": [
+       "② The train moved <u>slowly</u>.",
+       "⑤ I want <u>to leave</u> now."
+      ],
+      "note": "② slowly = moved를 꾸미는 부사, ⑤ to leave = want의 목적어 → 지움"
+     },
+     {
+      "step": 4,
+      "highlight": [
+       "④ The music made the baby <u>sleepy</u>."
+      ],
+      "strike": [],
+      "note": "④ sleepy → 목적어 the baby의 상태를 설명하는 목적격 보어"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 보기의 밑줄 친 yellow는 목적어 the fence가 어떤 색인지 설명하는 목적격 보어예요. 둘째, 1번 sad와 3번 salty는 동사 felt, tastes 뒤에서 주어의 상태를 설명하는 주격 보어라서 지워요. 셋째, 2번 slowly는 동사 moved를 꾸미는 부사이고, 5번 to leave는 want의 목적어라서 지워요. 넷째, 남은 4번 sleepy는 목적어 the baby의 상태를 설명하는 목적격 보어예요. The music made the baby sleepy. 그 음악은 아기를 졸리게 했어요.",
+   "caption": "주격 보어·부사·목적어 지우기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① She felt <u>sad</u> about it.  ✗  felt 뒤에서 주어 She의 기분을 설명하는 주격 보어\n② The train moved <u>slowly</u>.  ✗  동사 moved를 꾸미는 부사\n③ The soup tastes <u>salty</u>.  ✗  tastes 뒤에서 주어 The soup의 맛을 설명하는 주격 보어\n④ The music made the baby <u>sleepy</u>.  ✓  목적어 the baby의 상태를 설명하는 목적격 보어\n⑤ I want <u>to leave</u> now.  ✗  want의 목적어로 쓰인 to부정사",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① She felt <u>sad</u> about it.  ✗  felt 뒤에서 주어 She의 기분을 설명하는 주격 보어",
+     "② The train moved <u>slowly</u>.  ✗  동사 moved를 꾸미는 부사",
+     "③ The soup tastes <u>salty</u>.  ✗  tastes 뒤에서 주어 The soup의 맛을 설명하는 주격 보어",
+     "④ The music made the baby <u>sleepy</u>.  ✓  목적어 the baby의 상태를 설명하는 목적격 보어",
+     "⑤ I want <u>to leave</u> now.  ✗  want의 목적어로 쓰인 to부정사"
+    ]
+   },
+   "narration": "정답은 4번 sleepy예요. 1번 sad와 3번 salty도 형용사라서 고르기 쉬워요. 하지만 둘 다 동사 바로 뒤에서 주어의 상태를 설명하는 주격 보어예요. 이 두 문장에는 목적어가 없어서 목적격 보어가 올 수 없어요. 2번 slowly는 형용사가 아니라 동사 moved를 꾸미는 부사예요.",
+   "caption": "정답 ④ sleepy"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ④ The music made the baby <u>sleepy</u>.\n\n목적어 뒤에서 목적어의 상태를 설명하는 형용사 → 목적격 보어",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ The music made the baby <u>sleepy</u>.",
+     "목적어 뒤에서 목적어의 상태를 설명하는 형용사 → 목적격 보어"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 목적어 뒤에서 목적어의 상태를 설명하는 형용사가 목적격 보어예요.",
+   "caption": "목적어 + 형용사 = 목적격 보어"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 밑줄 친 부분의 쓰임이 <보기>와 같은 것은?",
+  "passage": "<보기>\nWe painted the fence bright <u>yellow</u>.",
+  "c": [
+   "She felt <u>sad</u> about it.",
+   "The train moved <u>slowly</u>.",
+   "The soup tastes <u>salty</u>.",
+   "The music made the baby <u>sleepy</u>.",
+   "I want <u>to leave</u> now."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 주격보어는 주어를, 목적격보어는 목적어를 설명한다. 부사는 동사를 수식하며 to부정사는 문장에서 목적어로도 쓰인다.\n풀이 순서: ① <보기>의 밑줄(yellow)은 목적어(the fence) 뒤에서 그 상태를 설명하는 목적격 보어다. → ② 보기마다 밑줄이 무엇을 설명하는지 본다. 주어를 설명하면 주격 보어, 동사를 꾸미면 부사, 동사 뒤 to부정사는 목적어다. → ③ 선택지 ④의 밑줄(sleepy)만 목적어(the baby)를 설명한다.\n문장별 판정:\n정답 판단: yellow는 목적어 the fence를 설명하는 목적격보어이다. sleepy는 목적어 the baby의 상태·성질을 설명하는 목적격보어이다.\n선택지 분석:\n① [오답] sad는 주어 She의 감정 상태를 설명하는 주격보어이다.\n② [오답] slowly는 동사 moved를 수식하는 부사이다.\n③ [오답] salty는 주어인 수프의 맛을 설명하는 주격보어이다.\n④ [정답] sleepy는 목적어 the baby의 상태·성질을 설명하는 목적격보어이다.\n⑤ [오답] to leave는 want의 목적어로 쓰인 to부정사구이다."
+ }
+}

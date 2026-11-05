@@ -1,0 +1,33 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:15:37.828Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "ⓑ, ⓔ",
+      "1": "ⓐ, ⓑ",
+      "2": "ⓒ, ⓔ",
+      "3": "ⓓ, ⓕ",
+      "4": "ⓑ, ⓒ"
+    },
+    "expl": "핵심 규칙: 조동사(can, may, must, should, will) 뒤에는 동사원형을 쓰고, 조동사 두 개를 겹쳐 쓰지 않는다(will can → will be able to). have to·be going to·be able to의 to 뒤에도 동사원형을 쓰며, do/does/did 의문문의 본동사도 원형이다.\n풀이 순서: ① 밑줄마다 조동사 뒤의 형태를 본다. 조동사와 do/does/did 뒤의 동사는 원형이고, 조동사 둘을 나란히 쓸 수 없다. → ② 틀린 곳을 찾는다: ⓑ는 has to 뒤에 leaves를 썼고(leave), ⓔ는 be going to 뒤에 moving을 썼다(move). → ③ 틀린 두 문장을 묶은 ⓑ, ⓔ가 정답이다.\n문장별 판정:\nⓐ O. 허락 요청을 나타내는 May I + 동사원형이다.\nⓑ X. have to 뒤에는 동사원형을 쓴다. 교정문: He has to leave early today.\nⓒ O. 충고를 나타내는 should not + 동사원형이다.\nⓓ O. 과거의 능력을 나타내는 could + 동사원형이다.\nⓔ X. be going to 뒤에는 동사원형을 쓴다. 교정문: We are going to move next month.\nⓕ O. 과거의 능력을 나타내는 was able to + 동사원형이다.\n정답 판단: 틀린 문장은 ⓑ, ⓔ이고, 이 둘로만 짝지어진 보기가 정답이다.\n선택지 분석:\n① [정답] 틀린 문장 ⓑ, ⓔ를 빠짐없이 골랐으므로 정답이다.\n② [오답] ⓐ는 틀린 문장이 아니고, 틀린 문장 ⓔ를 빠뜨렸다. 따라서 오답이다.\n③ [오답] ⓒ는 틀린 문장이 아니고, 틀린 문장 ⓑ를 빠뜨렸다. 따라서 오답이다.\n④ [오답] ⓓ, ⓕ는 틀린 문장이 아니고, 틀린 문장 ⓑ, ⓔ를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] ⓒ는 틀린 문장이 아니고, 틀린 문장 ⓔ를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "ⓐ <u>May</u> I <u>use</u> your phone for a moment?\nⓑ He <u>has to leaves</u> early today.\nⓒ You <u>should not touch</u> the paintings.\nⓓ She <u>could speak</u> French when she was ten.\nⓔ We <u>are going to moving</u> next month.\nⓕ Tom <u>was able to solve</u> the puzzle.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T10:14:53.945Z"
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:12:04.678Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T04:12:04.678Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:12:04.678Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

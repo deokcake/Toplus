@@ -1,0 +1,21 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T07:36:33.339Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "expl": "핵심 규칙: 명사의 단수형과 복수형이 정확히 대응한다.\n풀이 순서: ① 명사의 끝 글자를 본다: s, sh, ch, x인지, 자음 + y인지. → ② 그 끝에 맞게 -es나 -ies가 붙었는지 본다. → ③ city는 자음 + y이므로 cities다. 정답은 city - citys.\n문장별 판정:\n정답 판단: 정답은 ①입니다. city는 자음+y로 끝나므로 y를 i로 바꾸고 es를 붙여 cities로 씁니다. ‘citys’는 이 명사의 올바른 복수형이 아닙니다. 바르게 고치면: city - cities\n선택지 분석:\n① [정답] city는 자음+y로 끝나므로 y를 i로 바꾸고 es를 붙여 cities로 씁니다. ‘citys’는 이 명사의 올바른 복수형이 아닙니다. 바르게 고치면: city - cities\n② [오답] toy의 복수형은 s를 붙인 toys입니다. 제시된 ‘toys’가 맞습니다.\n③ [오답] baby는 자음+y로 끝나므로 y를 i로 바꾸고 es를 붙여 babies로 씁니다. 제시된 ‘babies’가 맞습니다.\n④ [오답] knife는 끝의 fe를 ves로 바꾸어 knives로 씁니다. 제시된 ‘knives’가 맞습니다.\n⑤ [오답] bus의 복수형은 es를 붙인 buses입니다. 제시된 ‘buses’가 맞습니다."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T07:36:32.107Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T07:36:33.339Z",
+      "what": "확인 완료"
+    }
+  }
+}

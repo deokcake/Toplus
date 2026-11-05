@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T05:33:29.877Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: be동사 의문문은 be동사+주어 순서이다. 짧은 대답에서도 인칭·수와 긍정/부정을 맞춘다.\n풀이 순서: ① 질문의 주어를 본다: you → Are. → ② 대답의 주어와 Yes/No를 본다: Yes, I → am. → ③ 정답은 Are - am.\n문장별 판정:\n정답 판단: (첫째 빈칸) Are: 주어 you에 맞는 현재형 are를 문장 앞에 놓는다. (둘째 빈칸) am: Yes에 맞는 긍정 대답이며, 주어 I에는 am을 쓴다. 따라서 정답은 ⑤이다.\n선택지 분석:\n① [오답] (첫째 빈칸) Are: 주어 you에 맞는 현재형 are를 문장 앞에 놓는다. (둘째 빈칸) is → am. Yes에 맞는 긍정 대답이며, 주어 I에는 am을 쓴다.\n② [오답] (첫째 빈칸) Is → Are. 주어 you에 맞는 현재형 are를 문장 앞에 놓는다. (둘째 빈칸) am: Yes에 맞는 긍정 대답이며, 주어 I에는 am을 쓴다.\n③ [오답] (첫째 빈칸) Is → Are. 주어 you에 맞는 현재형 are를 문장 앞에 놓는다. (둘째 빈칸) are → am. Yes에 맞는 긍정 대답이며, 주어 I에는 am을 쓴다.\n④ [오답] (첫째 빈칸) Is → Are. 주어 you에 맞는 현재형 are를 문장 앞에 놓는다. (둘째 빈칸) isn't → am. Yes에 맞는 긍정 대답이며, 주어 I에는 am을 쓴다.\n⑤ [정답] (첫째 빈칸) Are: 주어 you에 맞는 현재형 are를 문장 앞에 놓는다. (둘째 빈칸) am: Yes에 맞는 긍정 대답이며, 주어 I에는 am을 쓴다.",
+    "passage": null,
+    "stem": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T05:33:29.013Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T05:33:29.877Z",
+      "what": "확인 완료"
+    }
+  }
+}

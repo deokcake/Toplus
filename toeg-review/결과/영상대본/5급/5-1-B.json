@@ -1,0 +1,178 @@
+{
+ "key": "5-1",
+ "type": "B",
+ "grade": 5,
+ "chapter": "CH 1 대명사",
+ "title": "나와 너를 뺀 여럿을 받는 주격 They",
+ "total_sec": 124,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 1 대명사 · 1번 · B 유형\n\n이 문제는 Tom and his sister를 대신해 주어로 쓸 알맞은 대명사를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 1 대명사 · 1번 · B 유형",
+     "이 문제는 Tom and his sister를 대신해 주어로 쓸 알맞은 대명사를 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 1, 1번 B 유형. 이 문제는 Tom and his sister를 대신해 주어로 쓸 알맞은 대명사를 고르는 문제예요.",
+   "caption": "Tom and his sister를 받는 대명사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.\n\nTom and his sister are in the science club. _______ are in the science club.\n\n① Their\n② Them\n③ They\n④ Theirs\n⑤ Its",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.",
+     "Tom and his sister are in the science club. _______ are in the science club.",
+     "① Their",
+     "② Them",
+     "③ They",
+     "④ Theirs",
+     "⑤ Its"
+    ]
+   },
+   "narration": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르세요. Tom and his sister are in the science club. 빈칸, are in the science club. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 26,
+   "screen": {
+    "text": "핵심 규칙\n주격 I, you, he, she, it, we, they = ‘~는, ~가’ → 주어로 써요\nthey의 다른 꼴: their(그들의) + 명사 · them(그들을) · theirs(그들의 것)\n여럿을 받을 때: 나 포함 → we · 나 빼고 너 포함 → you · 나와 너 빼고 → they\n예) Ben and Amy play soccer. → They play soccer. (그들은 축구를 해요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "주격 I, you, he, she, it, we, they = ‘~는, ~가’ → 주어로 써요",
+     "they의 다른 꼴: their(그들의) + 명사 · them(그들을) · theirs(그들의 것)",
+     "여럿을 받을 때: 나 포함 → we · 나 빼고 너 포함 → you · 나와 너 빼고 → they",
+     "예) Ben and Amy play soccer. → They play soccer. (그들은 축구를 해요.)"
+    ]
+   },
+   "narration": "주격 I, you, he, she, it, we, they는 ‘나는’, ‘그들은’처럼 주어로 쓰는 꼴이에요. they의 다른 꼴인 their는 그들의라는 뜻으로 뒤에 명사가 오고, them은 그들을, theirs는 그들의 것이라는 뜻이에요. 여럿을 대명사 하나로 받을 때, 나를 포함하면 we, 나는 빼고 너를 포함하면 you, 나와 너를 모두 빼면 they를 써요. 예를 들어 Ben and Amy는 나도 너도 들어 있지 않은 여럿이라 They로 받아요. They play soccer, 그들은 축구를 해요.",
+   "caption": "주격은 주어로 써요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.\n\nTom and his sister are in the science club. _______ are in the science club.\n\n① Their\n② Them\n③ They\n④ Theirs\n⑤ Its",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Tom and his sister"
+      ],
+      "strike": [
+       "⑤ Its"
+      ],
+      "note": "Tom and his sister = 두 사람, 나·너 없음 → they (하나를 받는 it의 꼴 Its 지움)"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "_______ are in the science club."
+      ],
+      "strike": [
+       "① Their",
+       "② Them",
+       "④ Theirs"
+      ],
+      "note": "빈칸 = 동사 are 앞 주어 자리 → ‘그들은’ = 주격. Their(그들의)·Them(그들을)·Theirs(그들의 것) 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ They"
+      ],
+      "strike": [],
+      "note": "남는 것 = 주격 They → They are in the science club."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 앞 문장의 주어 Tom and his sister는 톰과 그의 누나나 여동생, 곧 나도 너도 들어 있지 않은 두 사람이라 they로 받아요. 그래서 하나를 받는 it의 다른 꼴인 Its는 지워요. 둘째, 빈칸은 동사 are 앞 주어 자리라 그들은이라는 뜻의 주격이 와야 하니, 그들의인 Their, 그들을인 Them, 그들의 것인 Theirs는 지워요. 셋째, 남는 것은 주격 They예요. They are in the science club, 그들은 과학 동아리 회원이에요.",
+   "caption": "나·너 뺀 여럿 → 주격 They"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① Their  ✗  ‘그들의’라는 소유격 · 뒤에 명사가 와야 해요\n② Them  ✗  ‘그들을’이라는 목적격 · 주어로 쓰지 않아요\n③ They  ✓  나와 너를 뺀 여럿을 받는 주격 (그들은)\n④ Theirs  ✗  ‘그들의 것’이라 사람인 Tom and his sister를 대신할 수 없어요\n⑤ Its  ✗  ‘그것의’ · 하나를 받는 it의 소유격이에요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Their  ✗  ‘그들의’라는 소유격 · 뒤에 명사가 와야 해요",
+     "② Them  ✗  ‘그들을’이라는 목적격 · 주어로 쓰지 않아요",
+     "③ They  ✓  나와 너를 뺀 여럿을 받는 주격 (그들은)",
+     "④ Theirs  ✗  ‘그들의 것’이라 사람인 Tom and his sister를 대신할 수 없어요",
+     "⑤ Its  ✗  ‘그것의’ · 하나를 받는 it의 소유격이에요"
+    ]
+   },
+   "narration": "정답은 3번 They예요. 2번 Them은 그들을이라는 뜻의 목적격이라 주어로 쓰지 않아요. 1번 Their는 그들의라는 뜻이라 Their club처럼 뒤에 명사가 와야 해요. 4번 Theirs는 그들의 것이라는 뜻이라 사람인 Tom and his sister를 대신할 수 없어요.",
+   "caption": "정답 ③ They"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ They\n\n나와 너를 뺀 여럿 → they · 주어로 쓸 때는 주격 they",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ They",
+     "나와 너를 뺀 여럿 → they · 주어로 쓸 때는 주격 they"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 나와 너를 뺀 여럿은 they로 받고, 주어로 쓸 때는 주격 they를 써요.",
+   "caption": "나·너 뺀 여럿 → 주격 they"
+  }
+ ],
+ "source": {
+  "stem": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.",
+  "passage": "Tom and his sister are in the science club. _______ are in the science club.",
+  "c": [
+   "Their",
+   "Them",
+   "They",
+   "Theirs",
+   "Its"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 인칭대명사는 자리에 따라 주격(I, you, he, she, it, we, they), 소유격(my, your, his, her, its, our, their), 목적격(me, you, him, her, it, us, them), 소유대명사(mine, yours, his, hers, ours, theirs)로 쓴다.\n풀이 순서: ① 앞 문장의 주어를 대명사로 바꾼다: Tom and his sister(나를 뺀 여럿)는 ‘그들’. → ② 빈칸은 동사 앞 주어 자리이므로 주격을 쓴다. → ③ 정답은 They.\n문장별 판정:\n정답 판단: Tom and his sister를 받는 주격 They이므로 정답은 ③이다.\n선택지 분석:\n① [오답] Their: 소유격이라 주어 자리에 쓸 수 없으므로 오답이다.\n② [오답] Them: 목적격이라 주어 자리에 쓸 수 없으므로 오답이다.\n③ [정답] Tom and his sister를 받는 주격 They이므로 정답이다.\n④ [오답] Theirs: 소유대명사이라 주어 자리에 쓸 수 없으므로 오답이다.\n⑤ [오답] Its: 단수 사물의 소유격이라 맞지 않으므로 오답이다."
+ }
+}

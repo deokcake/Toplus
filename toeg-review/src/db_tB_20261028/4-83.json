@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-06T08:50:18.648Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "the evening, June, spring",
+      "2": "5 o'clock, noon, night",
+      "3": "2019, summer, the morning",
+      "4": "bedtime, midnight, December"
+    },
+    "expl": "핵심 규칙: 요일·날짜·특정한 날(생일, 공휴일)에는 on, 월·계절·연도·아침·오후·저녁에는 in, 시각·정오·자정·밤·식사 시간에는 at을 쓴다.\n풀이 순서: ① 묶음마다 낱말이 무엇인지 가른다: 시각·한 시점(at), 요일·날짜·특정한 날(on), 달·계절·연도·하루의 한때(in). → ② 세 낱말이 모두 요일·날짜·특정한 날인 묶음을 찾는다: Tuesday(요일), my birthday(특정한 날), March 3rd(날짜). → ③ 정답은 ①.\n문장별 판정:\n정답 판단: 요일·날짜·특정한 날이라 모두 on과 함께 쓰므로 정답은 ①이다.\n선택지 분석:\n① [정답] 요일·날짜·특정한 날이라 모두 on과 함께 쓰므로 정답이다.\n② [오답] the evening, June, spring은 in과 함께 쓰므로 오답이다.\n③ [오답] 시각·정오·밤은 at과 함께 쓰므로 오답이다.\n④ [오답] 연도·계절·아침은 in과 함께 쓰므로 오답이다.\n⑤ [오답] bedtime·midnight은 at, December는 in과 함께 쓰므로 오답이다.",
+    "passage": null,
+    "stem": "다음 명사들 중 전치사 ‘on’과 함께 쓰일 수 있는 것으로만 묶인 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T08:50:09.194Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-06T08:50:18.648Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T08:50:18.648Z",
+      "what": "확인 완료"
+    }
+  }
+}

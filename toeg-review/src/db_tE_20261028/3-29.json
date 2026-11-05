@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차: 길이)",
+  "done": true,
+  "doneAt": "2026-10-26T03:52:05.506Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "(가), (나)",
+      "1": "(가), (다)",
+      "2": "(나), (다)",
+      "3": "(나), (라)",
+      "4": "(다), (라)"
+    },
+    "expl": "핵심 규칙: 수단을 나타내는 by + 교통·통신 수단(by bus, by phone, by email)에는 관사를 쓰지 않는다. 걸어서는 on foot이며, on a foot·on feet로 쓰지 않는다.\n풀이 순서: ① 밑줄은 모두 수단을 나타낸다. ‘by + 교통·통신 수단’에는 관사를 쓰지 않는다(by bus, by phone). → ② ‘걸어서’는 on foot이고, 소유격이 붙으면 on her bike처럼 쓴다. → ③ 틀린 문장을 지운다: (다) by a train, (라) on feet. 남은 두 문장을 묶은 (가), (나)가 정답이다.\n문장별 판정:\n(가) O. by + 통신 수단이다.\n(나) O. by + 교통수단이다.\n(다) X. by + 교통수단에는 관사를 쓰지 않는다(by train).\n(라) X. 걸어서는 on foot이다.\n정답 판단: 옳은 문장은 (가), (나)이다.\n선택지 분석:\n① [정답] 옳은 문장 (가), (나)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (나)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (라)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (다), (라)는 옳은 문장이 아니고, 옳은 문장 (가), (나)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(가) We spoke <u>by phone</u> for an hour last night.\n(나) Tom came to the stadium <u>by bike</u> with his friends.\n(다) Jane went to her grandmother's house <u>by a train</u>.\n(라) I went there <u>on feet</u> because the bus was late.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T03:52:05.506Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T03:52:05.506Z",
+      "what": "확인 완료"
+    }
+  }
+}

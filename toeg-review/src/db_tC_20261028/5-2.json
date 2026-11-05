@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T02:00:58.059Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "I - my",
+      "1": "we - our",
+      "2": "they - them",
+      "3": "it - its",
+      "4": "you - your"
+    },
+    "expl": "핵심 규칙: 인칭대명사는 자리에 따라 주격(I, you, he, she, it, we, they), 소유격(my, your, his, her, its, our, their), 목적격(me, you, him, her, it, us, them), 소유대명사(mine, yours, his, hers, ours, theirs)로 쓴다.\n풀이 순서: ① 짝의 앞은 모두 주격이다. 뒤의 말이 소유격인지 목적격인지 가른다. → ② 선택지 ①만 he - him으로 주격 - 목적격이다. 나머지는 주격 - 소유격이다. → ③ 정답은 they - them.\n문장별 판정:\n정답 판단: 주격 - 목적격의 짝이라 나머지(주격 - 소유격)와 관계가 다르므로 정답은 ③이다.\n선택지 분석:\n① [오답] 주격 - 소유격의 짝이므로 오답이다.\n② [오답] 주격 - 소유격의 짝이므로 오답이다.\n③ [정답] 주격 - 목적격의 짝이라 나머지(주격 - 소유격)와 관계가 다르므로 정답이다.\n④ [오답] 주격 - 소유격의 짝이므로 오답이다.\n⑤ [오답] 주격 - 소유격의 짝이므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:00:57.239Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-22T02:00:58.059Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:00:58.059Z",
+      "what": "확인 완료"
+    }
+  }
+}

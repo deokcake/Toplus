@@ -1,0 +1,177 @@
+{
+ "key": "5-36",
+ "type": "E",
+ "grade": 5,
+ "chapter": "CH 4 현재진행형",
+ "title": "현재진행형: am + 동사의 ing형",
+ "total_sec": 129,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "5급 · CH 4 현재진행형 · 36번 · E 유형\n\n이 문제는 be동사 am 뒤에 알맞은 동사 형태를 골라 현재진행형을 만드는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 4 현재진행형 · 36번 · E 유형",
+     "이 문제는 be동사 am 뒤에 알맞은 동사 형태를 골라 현재진행형을 만드는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 4, 36번 E 유형. 이 문제는 be동사 am 뒤에 알맞은 동사 형태를 골라 현재진행형을 만드는 문제예요.",
+   "caption": "읽고 있다 → am + ing형"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 빈칸에 '책을 읽고 있다'라는 의미가 되도록 알맞은 단어를 고르세요.\n\nI am ________ a book now.\n\n① reads\n② reader\n③ reading\n④ to read\n⑤ read",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 '책을 읽고 있다'라는 의미가 되도록 알맞은 단어를 고르세요.",
+     "I am ________ a book now.",
+     "① reads",
+     "② reader",
+     "③ reading",
+     "④ to read",
+     "⑤ read"
+    ]
+   },
+   "narration": "다음 빈칸에 알맞은 단어를 고르세요. I am 빈칸 a book now, 나는 지금 책을 읽고 있다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 26,
+   "screen": {
+    "text": "핵심 규칙\n현재진행형(…하고 있다): 주로 지금 하고 있는 일\n형태: be동사(am, is, are) + 동사의 ing형\nbe동사 뒤에 동사원형·s형·to + 동사원형을 쓰면 ‘하고 있다’가 안 돼요\n예) We are walking to school. (우리는 학교에 걸어가고 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재진행형(…하고 있다): 주로 지금 하고 있는 일",
+     "형태: be동사(am, is, are) + 동사의 ing형",
+     "be동사 뒤에 동사원형·s형·to + 동사원형을 쓰면 ‘하고 있다’가 안 돼요",
+     "예) We are walking to school. (우리는 학교에 걸어가고 있어요.)"
+    ]
+   },
+   "narration": "현재진행형은 주로 지금 하고 있는 일을 나타내요. 형태는 be동사 am, is, are 뒤에 동사의 ing형을 쓰는 거예요. be동사 뒤에 동사원형이나 s가 붙은 꼴, to가 붙은 꼴을 쓰면 하고 있다는 뜻이 되지 않아요. 예를 들어 We are walking to school. 우리는 학교에 걸어가고 있어요.",
+   "caption": "be동사 + 동사의 ing형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 빈칸에 '책을 읽고 있다'라는 의미가 되도록 알맞은 단어를 고르세요.\n\nI am ________ a book now.\n\n① reads\n② reader\n③ reading\n④ to read\n⑤ read",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "I am",
+       "책을 읽고 있다"
+      ],
+      "strike": [],
+      "note": "빈칸 앞 be동사 am + 우리말 ‘읽고 있다’ → 현재진행형 자리"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "② reader"
+      ],
+      "note": "reader는 ‘읽는 사람’이라는 명사 → 지운다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ reading"
+      ],
+      "strike": [
+       "① reads",
+       "④ to read",
+       "⑤ read"
+      ],
+      "note": "be동사 뒤에서 ‘하고 있다’ = ing형뿐 → reads, to read, read는 지우고 reading"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 빈칸 앞에 be동사 am이 있고, 우리말은 책을 읽고 있다라는 뜻이에요. 둘째, reader는 읽는 사람이라는 명사라서 읽고 있다는 뜻을 만들지 못해요. 셋째, be동사 뒤에서 하고 있다는 뜻을 만드는 동사 꼴은 ing형뿐이라서, reads, to read, read는 지우고 reading을 골라요. I am reading a book now. 나는 지금 책을 읽고 있어요.",
+   "caption": "명사 지우기 → ing형 → reading"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① reads  ✗  s가 붙은 현재형은 am 뒤에 쓰지 않아요\n② reader  ✗  ‘읽는 사람’이라는 명사예요\n③ reading  ✓  am + reading = 읽고 있다\n④ to read  ✗  to + 동사원형은 ‘읽고 있다’는 뜻이 안 돼요\n⑤ read  ✗  동사원형: am 뒤에 쓰면 ‘읽고 있다’가 안 돼요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① reads  ✗  s가 붙은 현재형은 am 뒤에 쓰지 않아요",
+     "② reader  ✗  ‘읽는 사람’이라는 명사예요",
+     "③ reading  ✓  am + reading = 읽고 있다",
+     "④ to read  ✗  to + 동사원형은 ‘읽고 있다’는 뜻이 안 돼요",
+     "⑤ read  ✗  동사원형: am 뒤에 쓰면 ‘읽고 있다’가 안 돼요"
+    ]
+   },
+   "narration": "정답은 3번 reading이에요. 5번 read는 동사원형이라 am 뒤에 쓰면 읽고 있다는 뜻이 되지 않아요. 1번 reads는 s가 붙은 현재형이라 am 뒤에 쓰지 않아요. 2번 reader는 읽는 사람이라는 명사라서 읽고 있다는 뜻을 만들지 못해요.",
+   "caption": "정답 ③ reading"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ③ reading\n\n현재진행형(…하고 있다) = am/is/are + 동사의 ing형",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ reading",
+     "현재진행형(…하고 있다) = am/is/are + 동사의 ing형"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 현재진행형은 be동사 am, is, are 뒤에 동사의 ing형을 써요.",
+   "caption": "하고 있다 = be동사 + ing형"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 '책을 읽고 있다'라는 의미가 되도록 알맞은 단어를 고르세요.",
+  "passage": "I am ________ a book now.",
+  "c": [
+   "reads",
+   "reader",
+   "reading",
+   "to read",
+   "read"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: ‘~하고 있다’는 지금 진행 중인 일이므로 am/is/are 뒤에 동사원형-ing를 쓴다. be동사 뒤에 동사원형·현재형·과거형은 쓸 수 없다.\n풀이 순서: ① 빈칸 앞에 be동사(am)가 있고, 우리말은 ‘책을 읽고 있다’이다. → ② be동사 뒤에서 진행의 뜻을 만드는 것은 -ing형뿐이다. → ③ 정답은 reading.\n문장별 판정:\n정답 판단: am과 함께 ‘읽고 있다’는 진행의 뜻이 되므로 정답은 ③이다.\n선택지 분석:\n① [오답] 3인칭 단수 현재형이라 am 뒤에 쓸 수 없으므로 오답이다.\n② [오답] ‘읽는 사람’이라는 명사라 ‘읽고 있다’는 뜻이 되지 않으므로 오답이다.\n③ [정답] am과 함께 ‘읽고 있다’는 진행의 뜻이 되므로 정답이다.\n④ [오답] to부정사는 ‘읽고 있다’는 진행의 뜻이 되지 않으므로 오답이다.\n⑤ [오답] am 뒤에 동사원형을 쓸 수 없으므로 오답이다."
+ }
+}

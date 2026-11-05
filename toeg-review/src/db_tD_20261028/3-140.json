@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:08:57.923Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "(A) shall - (B) Why - (C) How",
+      "1": "(A) shall - (B) How - (C) What",
+      "2": "(A) will - (B) Why - (C) How",
+      "3": "(A) do - (B) What - (C) How",
+      "4": "(A) shall - (B) Why - (C) What"
+    },
+    "expl": "핵심 규칙: Let's ~의 부가의문문은 shall we?, 명령문의 부가의문문은 will you?이다. 제안은 Why don't we + 동사원형 / How(What) about + -ing로 하고, 감탄문은 a/an + 명사 앞에 What, 형용사 앞에 How를 쓴다.\n풀이 순서: ① (A): Let's ~ 뒤의 부가의문문은 shall we다. → ② (B): 뒤에 don't we + 동사원형이 있으므로 Why don't we ~?다. → ③ (C): 형용사 clean 뒤에 바로 they will look이 오므로 How다. 정답은 (A) shall - (B) Why - (C) How.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n② [오답] (B) 빈칸 How: don't we + 동사원형으로 제안하므로 Why가 알맞다, (C) 빈칸 What: 형용사 clean 앞의 감탄문은 How이다. 따라서 오답이다.\n③ [오답] (A) 빈칸 will: Let's ~의 부가의문문은 shall we이다. 따라서 오답이다.\n④ [오답] (A) 빈칸 do: Let's ~의 부가의문문은 shall we이다, (B) 빈칸 What: don't we + 동사원형으로 제안하므로 Why가 알맞다. 따라서 오답이다.\n⑤ [오답] (C) 빈칸 What: 형용사 clean 앞의 감탄문은 How이다. 따라서 오답이다.",
+    "passage": "A: The classroom is so dirty after the party. Let's clean it, (A)_____ we?\nB: OK. (B)_____ don't we start with the windows first?\nA: Good idea. (C)_____ clean they will look after we wash them!",
+    "stem": "다음 대화의 빈칸 (A)~(C)에 들어갈 표현으로 알맞게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:33:39.468Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:33:46.525Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:08:57.923Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:08:24.563Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:08:57.923Z",
+      "what": "확인 완료"
+    }
+  }
+}

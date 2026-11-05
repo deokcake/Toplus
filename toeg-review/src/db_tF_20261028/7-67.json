@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:47:32.546Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "No, I don't.",
+      "1": "Yes, you do.",
+      "2": "No, I doesn't.",
+      "3": "Yes, I am.",
+      "4": "No, I not."
+    },
+    "expl": "핵심 규칙: Do/Does 의문문에는 Yes, 주어 + do/does. / No, 주어 + don't/doesn't.로 짧게 답한다. be동사나 일반동사를 그대로 쓰지 않고, 주어는 질문의 주어를 대명사로 받는다(you → I).\n풀이 순서: ① 질문이 Do(으)로 시작하므로 대답에도 be동사가 아니라 do/does를 쓴다. → ② 대답의 주어는 you로 물었으니 I이고, No이므로 don't를 쓴다. → ③ 정답은 No, I don't.\n문장별 판정:\n정답 판단: you에 대한 Do 질문에 I don't로 바르게 답했으므로 정답은 ①이다.\n선택지 분석:\n① [정답] you에 대한 Do 질문에 I don't로 바르게 답했으므로 정답이다.\n② [오답] you에 대한 질문에는 I로 받아 답하므로 오답이다.\n③ [오답] 주어 I에는 don't를 쓰므로 오답이다.\n④ [오답] Do/Does 질문에는 be동사로 답하지 않으므로 오답이다.\n⑤ [오답] not만으로는 부정할 수 없고 don't를 써야 하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 질문에 대한 대답으로 가장 알맞은 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:47:30.557Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:47:32.546Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:47:32.546Z",
+      "what": "확인 완료"
+    }
+  }
+}

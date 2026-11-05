@@ -1,0 +1,452 @@
+{
+ "A": {
+  "title": "셀 수 없는 명사 butter와 some",
+  "intro": "이 문제는 버터를 약간이라는 우리말을 셀 수 없는 명사에 맞게 옮긴 영어 문장을 고르는 문제예요.",
+  "problem_narration": "다음 우리말을 영어로 가장 바르게 옮긴 것을 고르세요. 나는 그 케이크를 위해 버터를 약간 살 필요가 있다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 없는 명사: 하나, 둘로 세지 않고 양으로 말하는 명사",
+    "butter, water, money처럼 양으로 말하는 것 → 보통 셀 수 없는 명사",
+    "바로 앞에 a, an ✗ · two 같은 수 ✗ / 끝에 s ✗",
+    "약간의 양 → some + 셀 수 없는 명사 (s 없이)",
+    "예) We need some milk. (우리는 우유가 약간 필요해요.)"
+   ],
+   "narration": "셀 수 없는 명사는 하나, 둘로 세지 않고 양으로 말하는 명사예요. butter, water, money처럼 양으로 말하는 것은 보통 셀 수 없는 명사로 써요. 셀 수 없는 명사 바로 앞에는 a나 an, 그리고 two 같은 수를 쓰지 않고, 끝에 s도 붙이지 않아요. 약간의 양은 some을 써서 나타내요. 예를 들어 We need some milk, 우리는 우유가 약간 필요해요."
+  },
+  "steps": [
+   {
+    "note": "‘버터를 약간’ = 버터의 양 → butter는 셀 수 없는 명사",
+    "highlight": [
+     "버터를 약간"
+    ],
+    "strike": [],
+    "narration": "첫째, 버터를 약간이라는 말은 버터의 양을 말하니까, 여기서 butter는 셀 수 없는 명사예요."
+   },
+   {
+    "note": "셀 수 없는 명사 바로 앞에 a ✗, 끝에 s ✗ → ②④⑤ 지움",
+    "highlight": [],
+    "strike": [
+     "② I need to buy a butters for the cake.",
+     "④ I need to buy a butter for the cake.",
+     "⑤ I need to buy a some butters for the cake."
+    ],
+    "narration": "둘째, 셀 수 없는 명사 바로 앞에는 a를 쓰지 않고 끝에 s도 붙이지 않으니까, a를 쓴 2번, 4번, 5번을 지워요."
+   },
+   {
+    "note": "much = ‘많은’ → ‘약간’과 맞지 않음, ③ 지움. ‘약간’ → some → ①",
+    "highlight": [
+     "① I need to buy some butter for the cake."
+    ],
+    "strike": [
+     "③ I need to buy much butter for the cake."
+    ],
+    "narration": "셋째, 3번 much는 많은이라는 뜻이라 지우고, 남은 1번은 약간의 양을 some으로 나타냈어요. I need to buy some butter for the cake. 나는 그 케이크를 위해 버터를 약간 살 필요가 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I need to buy some butter for the cake.  ✓  some + 셀 수 없는 명사 = 버터 약간",
+    "② I need to buy a butters for the cake.  ✗  butter 앞에 a ✗, 끝에 s ✗",
+    "③ I need to buy much butter for the cake.  ✗  much는 ‘많은’이라 ‘약간’과 맞지 않아요",
+    "④ I need to buy a butter for the cake.  ✗  셀 수 없는 butter 바로 앞에 a를 쓰지 않아요",
+    "⑤ I need to buy a some butters for the cake.  ✗  a와 some을 함께 쓰지 않고, s도 붙이지 않아요"
+   ],
+   "narration": "정답은 1번이에요. 3번 much는 셀 수 없는 명사와 함께 쓸 수 있지만, 많은이라는 뜻이라 약간과 맞지 않아요. 4번 a butter는 셀 수 없는 명사 바로 앞에 a를 써서 틀렸어요. 5번은 a와 some을 함께 쓰고, butter 끝에 s까지 붙여서 틀렸어요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사: a, an, 수, s ✗ → 약간은 some + 명사",
+   "narration": "정답은 1번이에요. 기억할 것, 셀 수 없는 명사 바로 앞에는 a, an이나 수를 쓰지 않고, 약간의 양은 some으로 나타내요."
+  },
+  "captions": [
+   "버터를 약간, 영어로",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사와 some",
+   "a·s 지움 → much 지움 → some",
+   "정답 ① some butter",
+   "약간의 양은 some + 명사"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   23,
+   10
+  ]
+ },
+ "B": {
+  "title": "셀 수 없는 명사 rice와 some",
+  "intro": "이 문제는 쌀을 약간이라는 우리말을 셀 수 없는 명사에 맞게 옮긴 영어 문장을 고르는 문제예요.",
+  "problem_narration": "다음 우리말을 영어로 가장 바르게 옮긴 것을 고르세요. 나는 이 요리를 위해 쌀을 약간 사고 싶다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 없는 명사: 하나, 둘로 세지 않고 양으로 말하는 명사",
+    "rice, water, money처럼 양으로 말하는 것 → 보통 셀 수 없는 명사",
+    "바로 앞에 a, an ✗ · two 같은 수, many ✗ / 끝에 s ✗",
+    "약간의 양 → some + 셀 수 없는 명사 (s 없이)",
+    "예) She wants some cheese. (그녀는 치즈를 약간 원해요.)"
+   ],
+   "narration": "셀 수 없는 명사는 하나, 둘로 세지 않고 양으로 말하는 명사예요. rice, water, money처럼 양으로 말하는 것은 보통 셀 수 없는 명사로 써요. 셀 수 없는 명사 바로 앞에는 a나 an, 그리고 two 같은 수나 many를 쓰지 않고, 끝에 s도 붙이지 않아요. 약간의 양은 some을 써서 나타내요. 예를 들어 She wants some cheese, 그녀는 치즈를 약간 원해요."
+  },
+  "steps": [
+   {
+    "note": "‘쌀을 약간’ = 쌀의 양 → rice는 셀 수 없는 명사",
+    "highlight": [
+     "쌀을 약간"
+    ],
+    "strike": [],
+    "narration": "첫째, 쌀을 약간이라는 말은 쌀의 양을 말하니까, 여기서 rice는 셀 수 없는 명사예요."
+   },
+   {
+    "note": "셀 수 없는 명사 바로 앞에 a, an, two ✗ → ② ③ ⑤ 지움",
+    "highlight": [],
+    "strike": [
+     "② I want to buy a rice for this dish.",
+     "③ I want to buy an rice for this dish.",
+     "⑤ I want to buy two rice for this dish."
+    ],
+    "narration": "둘째, 셀 수 없는 명사 바로 앞에는 a나 an, 그리고 two 같은 수를 쓰지 않으니까, 2번, 3번, 5번을 지워요."
+   },
+   {
+    "note": "many는 셀 수 있는 명사의 복수형과 → ④ 지움. ‘약간’ → some → ①",
+    "highlight": [
+     "① I want to buy some rice for this dish."
+    ],
+    "strike": [
+     "④ I want to buy many rice for this dish."
+    ],
+    "narration": "셋째, many는 셀 수 있는 명사의 복수형과 쓰니까 4번도 지우고, 남은 1번은 약간의 양을 some으로 나타냈어요. I want to buy some rice for this dish. 나는 이 요리를 위해 쌀을 약간 사고 싶어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I want to buy some rice for this dish.  ✓  some + 셀 수 없는 명사 = 쌀 약간",
+    "② I want to buy a rice for this dish.  ✗  셀 수 없는 rice 바로 앞에 a를 쓰지 않아요",
+    "③ I want to buy an rice for this dish.  ✗  rice 앞에 an ✗ (an은 모음 소리 앞에 써요)",
+    "④ I want to buy many rice for this dish.  ✗  many는 셀 수 있는 명사의 복수형과 써요 (‘많은’)",
+    "⑤ I want to buy two rice for this dish.  ✗  셀 수 없는 명사 앞에 수를 바로 쓰지 않아요 (둘 ≠ 약간)"
+   ],
+   "narration": "정답은 1번이에요. 4번 many는 많은이라는 뜻이고, 셀 수 있는 명사의 복수형과 써서 rice와 맞지 않아요. 5번은 셀 수 없는 명사 앞에 two를 바로 썼고, 둘이라는 뜻이라 약간과도 맞지 않아요. 2번과 3번은 셀 수 없는 명사 바로 앞에 a나 an을 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사: a, an, 수, many ✗ → 약간은 some + 명사",
+   "narration": "정답은 1번이에요. 기억할 것, 셀 수 없는 명사 바로 앞에는 a, an, 수, many를 쓰지 않고, 약간의 양은 some으로 나타내요."
+  },
+  "captions": [
+   "쌀을 약간, 영어로",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사와 some",
+   "a·an·two 지움 → many 지움 → some",
+   "정답 ① some rice",
+   "약간의 양은 some + 명사"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   23,
+   10
+  ]
+ },
+ "C": {
+  "title": "셀 수 없는 명사 sugar와 some",
+  "intro": "이 문제는 설탕을 약간이라는 우리말을 셀 수 없는 명사에 맞게 옮긴 영어 문장을 고르는 문제예요.",
+  "problem_narration": "다음 우리말을 영어로 가장 바르게 옮긴 것을 고르세요. 나는 매일 아침 따뜻한 차에 설탕을 약간 넣는다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 없는 명사: 하나, 둘로 세지 않고 양으로 말하는 명사",
+    "sugar, water, money처럼 양으로 말하는 것 → 보통 셀 수 없는 명사",
+    "바로 앞에 a, an ✗ · two 같은 수, many ✗ / 끝에 s ✗",
+    "약간의 양 → some + 셀 수 없는 명사 (s 없이)",
+    "예) He drinks some milk every day. (그는 매일 우유를 약간 마셔요.)"
+   ],
+   "narration": "셀 수 없는 명사는 하나, 둘로 세지 않고 양으로 말하는 명사예요. sugar, water, money처럼 양으로 말하는 것은 보통 셀 수 없는 명사로 써요. 셀 수 없는 명사 바로 앞에는 a나 an, 그리고 two 같은 수나 many를 쓰지 않고, 끝에 s도 붙이지 않아요. 약간의 양은 some을 써서 나타내요. 예를 들어 He drinks some milk every day, 그는 매일 우유를 약간 마셔요."
+  },
+  "steps": [
+   {
+    "note": "‘설탕을 약간’ = 설탕의 양 → sugar는 셀 수 없는 명사",
+    "highlight": [
+     "설탕을 약간"
+    ],
+    "strike": [],
+    "narration": "첫째, 설탕을 약간이라는 말은 설탕의 양을 말하니까, 여기서 sugar는 셀 수 없는 명사예요."
+   },
+   {
+    "note": "셀 수 없는 명사 바로 앞에 a, an, two ✗ → ① ③ ⑤ 지움",
+    "highlight": [],
+    "strike": [
+     "① I put two sugar in my warm tea every morning.",
+     "③ I put an sugar in my warm tea every morning.",
+     "⑤ I put a sugar in my warm tea every morning."
+    ],
+    "narration": "둘째, 셀 수 없는 명사 바로 앞에는 a나 an, 그리고 two 같은 수를 쓰지 않으니까, 1번, 3번, 5번을 지워요."
+   },
+   {
+    "note": "many는 셀 수 있는 명사의 복수형과 → ② 지움. ‘약간’ → some → ④",
+    "highlight": [
+     "④ I put some sugar in my warm tea every morning."
+    ],
+    "strike": [
+     "② I put many sugar in my warm tea every morning."
+    ],
+    "narration": "셋째, many는 셀 수 있는 명사의 복수형과 쓰니까 2번도 지우고, 남은 4번은 약간의 양을 some으로 나타냈어요. I put some sugar in my warm tea every morning. 나는 매일 아침 따뜻한 차에 설탕을 약간 넣어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I put two sugar in my warm tea every morning.  ✗  셀 수 없는 명사 앞에 수를 바로 쓰지 않아요 (둘 ≠ 약간)",
+    "② I put many sugar in my warm tea every morning.  ✗  many는 셀 수 있는 명사의 복수형과 써요 (‘많은’)",
+    "③ I put an sugar in my warm tea every morning.  ✗  sugar 앞에 an ✗ (an은 모음 소리 앞에 써요)",
+    "④ I put some sugar in my warm tea every morning.  ✓  some + 셀 수 없는 명사 = 설탕 약간",
+    "⑤ I put a sugar in my warm tea every morning.  ✗  셀 수 없는 sugar 바로 앞에 a를 쓰지 않아요"
+   ],
+   "narration": "정답은 4번이에요. 2번 many는 많은이라는 뜻이고, 셀 수 있는 명사의 복수형과 써서 sugar와 맞지 않아요. 1번은 셀 수 없는 명사 앞에 two를 바로 썼고, 둘이라는 뜻이라 약간과도 맞지 않아요. 3번과 5번은 셀 수 없는 명사 바로 앞에 a나 an을 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사: a, an, 수, many ✗ → 약간은 some + 명사",
+   "narration": "정답은 4번이에요. 기억할 것, 셀 수 없는 명사 바로 앞에는 a, an, 수, many를 쓰지 않고, 약간의 양은 some으로 나타내요."
+  },
+  "captions": [
+   "설탕을 약간, 영어로",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사와 some",
+   "a·an·two 지움 → many 지움 → some",
+   "정답 ④ some sugar",
+   "약간의 양은 some + 명사"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   23,
+   10
+  ]
+ },
+ "D": {
+  "title": "셀 수 없는 명사 water와 some",
+  "intro": "이 문제는 물을 약간이라는 우리말을 셀 수 없는 명사에 맞게 옮긴 영어 문장을 고르는 문제예요.",
+  "problem_narration": "다음 우리말을 영어로 가장 바르게 옮긴 것을 고르세요. 우리는 오늘 저녁 채소 수프를 위해 물을 약간 필요로 한다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 없는 명사: 하나, 둘로 세지 않고 양으로 말하는 명사",
+    "water, rice, money처럼 양으로 말하는 것 → 보통 셀 수 없는 명사",
+    "바로 앞에 a, an ✗ · two 같은 수, many ✗ / 끝에 s ✗",
+    "약간의 양 → some + 셀 수 없는 명사 (s 없이)",
+    "예) I want some juice. (나는 주스를 약간 원해요.)"
+   ],
+   "narration": "셀 수 없는 명사는 하나, 둘로 세지 않고 양으로 말하는 명사예요. water, rice, money처럼 양으로 말하는 것은 보통 셀 수 없는 명사로 써요. 셀 수 없는 명사 바로 앞에는 a나 an, 그리고 two 같은 수나 many를 쓰지 않고, 끝에 s도 붙이지 않아요. 약간의 양은 some을 써서 나타내요. 예를 들어 I want some juice, 나는 주스를 약간 원해요."
+  },
+  "steps": [
+   {
+    "note": "‘물을 약간’ = 물의 양 → water는 셀 수 없는 명사",
+    "highlight": [
+     "물을 약간"
+    ],
+    "strike": [],
+    "narration": "첫째, 물을 약간이라는 말은 물의 양을 말하니까, 여기서 water는 셀 수 없는 명사예요."
+   },
+   {
+    "note": "셀 수 없는 명사 바로 앞에 a, an, two ✗ → ① ④ ⑤ 지움",
+    "highlight": [],
+    "strike": [
+     "① We need an water for the vegetable soup this evening.",
+     "④ We need a water for the vegetable soup this evening.",
+     "⑤ We need two water for the vegetable soup this evening."
+    ],
+    "narration": "둘째, 셀 수 없는 명사 바로 앞에는 a나 an, 그리고 two 같은 수를 쓰지 않으니까, 1번, 4번, 5번을 지워요."
+   },
+   {
+    "note": "many는 셀 수 있는 명사의 복수형과 → ② 지움. ‘약간’ → some → ③",
+    "highlight": [
+     "③ We need some water for the vegetable soup this evening."
+    ],
+    "strike": [
+     "② We need many water for the vegetable soup this evening."
+    ],
+    "narration": "셋째, many는 셀 수 있는 명사의 복수형과 쓰니까 2번도 지우고, 남은 3번은 약간의 양을 some으로 나타냈어요. We need some water for the vegetable soup this evening. 우리는 오늘 저녁 채소 수프를 위해 물이 약간 필요해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① We need an water for the vegetable soup this evening.  ✗  water 앞에 an ✗ (an은 모음 소리 앞에 써요)",
+    "② We need many water for the vegetable soup this evening.  ✗  many는 셀 수 있는 명사의 복수형과 써요 (‘많은’)",
+    "③ We need some water for the vegetable soup this evening.  ✓  some + 셀 수 없는 명사 = 물 약간",
+    "④ We need a water for the vegetable soup this evening.  ✗  셀 수 없는 water 바로 앞에 a를 쓰지 않아요",
+    "⑤ We need two water for the vegetable soup this evening.  ✗  셀 수 없는 명사 앞에 수를 바로 쓰지 않아요 (둘 ≠ 약간)"
+   ],
+   "narration": "정답은 3번이에요. 2번 many는 많은이라는 뜻이고, 셀 수 있는 명사의 복수형과 써서 water와 맞지 않아요. 5번은 셀 수 없는 명사 앞에 two를 바로 썼고, 둘이라는 뜻이라 약간과도 맞지 않아요. 1번과 4번은 셀 수 없는 명사 바로 앞에 a나 an을 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사: a, an, 수, many ✗ → 약간은 some + 명사",
+   "narration": "정답은 3번이에요. 기억할 것, 셀 수 없는 명사 바로 앞에는 a, an, 수, many를 쓰지 않고, 약간의 양은 some으로 나타내요."
+  },
+  "captions": [
+   "물을 약간, 영어로",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사와 some",
+   "a·an·two 지움 → many 지움 → some",
+   "정답 ③ some water",
+   "약간의 양은 some + 명사"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   23,
+   10
+  ]
+ },
+ "E": {
+  "title": "셀 수 없는 명사 bread와 some",
+  "intro": "이 문제는 빵을 약간이라는 우리말을 셀 수 없는 명사에 맞게 옮긴 영어 문장을 고르는 문제예요.",
+  "problem_narration": "다음 우리말을 영어로 가장 바르게 옮긴 것을 고르세요. 그녀는 매일 아침 학교에 가기 전에 우유와 함께 빵을 약간 먹는다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 없는 명사: 하나, 둘로 세지 않고 양으로 말하는 명사",
+    "bread, water, money처럼 양으로 말하는 것 → 보통 셀 수 없는 명사",
+    "바로 앞에 a, an ✗ · two 같은 수, many ✗ / 끝에 s ✗",
+    "약간의 양 → some + 셀 수 없는 명사 (s 없이)",
+    "예) We need some salt. (우리는 소금이 약간 필요해요.)"
+   ],
+   "narration": "셀 수 없는 명사는 하나, 둘로 세지 않고 양으로 말하는 명사예요. bread, water, money처럼 양으로 말하는 것은 보통 셀 수 없는 명사로 써요. 셀 수 없는 명사 바로 앞에는 a나 an, 그리고 two 같은 수나 many를 쓰지 않고, 끝에 s도 붙이지 않아요. 약간의 양은 some을 써서 나타내요. 예를 들어 We need some salt, 우리는 소금이 약간 필요해요."
+  },
+  "steps": [
+   {
+    "note": "‘빵을 약간’ = 빵의 양 → bread는 셀 수 없는 명사",
+    "highlight": [
+     "빵을 약간"
+    ],
+    "strike": [],
+    "narration": "첫째, 빵을 약간이라는 말은 빵의 양을 말하니까, 여기서 bread는 셀 수 없는 명사예요."
+   },
+   {
+    "note": "셀 수 없는 명사 바로 앞에 a, an, two ✗ → ③ ④ ⑤ 지움",
+    "highlight": [],
+    "strike": [
+     "③ She eats an bread with milk before school every morning.",
+     "④ She eats two bread with milk before school every morning.",
+     "⑤ She eats a bread with milk before school every morning."
+    ],
+    "narration": "둘째, 셀 수 없는 명사 바로 앞에는 a나 an, 그리고 two 같은 수를 쓰지 않으니까, 3번, 4번, 5번을 지워요."
+   },
+   {
+    "note": "many는 셀 수 있는 명사의 복수형과 → ① 지움. ‘약간’ → some → ②",
+    "highlight": [
+     "② She eats some bread with milk before school every morning."
+    ],
+    "strike": [
+     "① She eats many bread with milk before school every morning."
+    ],
+    "narration": "셋째, many는 셀 수 있는 명사의 복수형과 쓰니까 1번도 지우고, 남은 2번은 약간의 양을 some으로 나타냈어요. She eats some bread with milk before school every morning. 그녀는 매일 아침 학교에 가기 전에 우유와 함께 빵을 약간 먹어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① She eats many bread with milk before school every morning.  ✗  many는 셀 수 있는 명사의 복수형과 써요 (‘많은’)",
+    "② She eats some bread with milk before school every morning.  ✓  some + 셀 수 없는 명사 = 빵 약간",
+    "③ She eats an bread with milk before school every morning.  ✗  bread 앞에 an ✗ (an은 모음 소리 앞에 써요)",
+    "④ She eats two bread with milk before school every morning.  ✗  셀 수 없는 명사 앞에 수를 바로 쓰지 않아요 (둘 ≠ 약간)",
+    "⑤ She eats a bread with milk before school every morning.  ✗  셀 수 없는 bread 바로 앞에 a를 쓰지 않아요"
+   ],
+   "narration": "정답은 2번이에요. 1번 many는 많은이라는 뜻이고, 셀 수 있는 명사의 복수형과 써서 bread와 맞지 않아요. 4번은 셀 수 없는 명사 앞에 two를 바로 썼고, 둘이라는 뜻이라 약간과도 맞지 않아요. 3번과 5번은 셀 수 없는 명사 바로 앞에 a나 an을 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사: a, an, 수, many ✗ → 약간은 some + 명사",
+   "narration": "정답은 2번이에요. 기억할 것, 셀 수 없는 명사 바로 앞에는 a, an, 수, many를 쓰지 않고, 약간의 양은 some으로 나타내요."
+  },
+  "captions": [
+   "빵을 약간, 영어로",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사와 some",
+   "a·an·two 지움 → many 지움 → some",
+   "정답 ② some bread",
+   "약간의 양은 some + 명사"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   23,
+   10
+  ]
+ },
+ "F": {
+  "title": "셀 수 없는 명사 money와 some",
+  "intro": "이 문제는 돈을 약간이라는 우리말을 셀 수 없는 명사에 맞게 옮긴 영어 문장을 고르는 문제예요.",
+  "problem_narration": "다음 우리말을 영어로 가장 바르게 옮긴 것을 고르세요. 그들은 학교의 새 과학 프로젝트를 위해 돈을 약간 필요로 한다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 없는 명사: 하나, 둘로 세지 않고 양으로 말하는 명사",
+    "money, water, rice처럼 양으로 말하는 것 → 보통 셀 수 없는 명사",
+    "바로 앞에 a, an ✗ · two 같은 수, many ✗ / 끝에 s ✗",
+    "약간의 양 → some + 셀 수 없는 명사 (s 없이)",
+    "예) He drinks some juice after soccer. (그는 축구 후에 주스를 약간 마셔요.)"
+   ],
+   "narration": "셀 수 없는 명사는 하나, 둘로 세지 않고 양으로 말하는 명사예요. money, water, rice처럼 양으로 말하는 것은 보통 셀 수 없는 명사로 써요. 셀 수 없는 명사 바로 앞에는 a나 an, 그리고 two 같은 수나 many를 쓰지 않고, 끝에 s도 붙이지 않아요. 약간의 양은 some을 써서 나타내요. 예를 들어 He drinks some juice after soccer, 그는 축구 후에 주스를 약간 마셔요."
+  },
+  "steps": [
+   {
+    "note": "‘돈을 약간’ = 돈의 양 → money는 셀 수 없는 명사",
+    "highlight": [
+     "돈을 약간"
+    ],
+    "strike": [],
+    "narration": "첫째, 돈을 약간이라는 말은 돈의 양을 말해요. coin은 셀 수 있지만 money는 셀 수 없는 명사예요."
+   },
+   {
+    "note": "셀 수 없는 명사 바로 앞에 a, an, two ✗ → ② ③ ⑤ 지움",
+    "highlight": [],
+    "strike": [
+     "② They need two money for their new science project at school.",
+     "③ They need a money for their new science project at school.",
+     "⑤ They need an money for their new science project at school."
+    ],
+    "narration": "둘째, 셀 수 없는 명사 바로 앞에는 a나 an, 그리고 two 같은 수를 쓰지 않으니까, 2번, 3번, 5번을 지워요."
+   },
+   {
+    "note": "many는 셀 수 있는 명사의 복수형과 → ④ 지움. ‘약간’ → some → ①",
+    "highlight": [
+     "① They need some money for their new science project at school."
+    ],
+    "strike": [
+     "④ They need many money for their new science project at school."
+    ],
+    "narration": "셋째, many는 셀 수 있는 명사의 복수형과 쓰니까 4번도 지우고, 남은 1번은 약간의 양을 some으로 나타냈어요. They need some money for their new science project at school. 그들은 학교의 새 과학 프로젝트를 위해 돈이 약간 필요해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① They need some money for their new science project at school.  ✓  some + 셀 수 없는 명사 = 돈 약간",
+    "② They need two money for their new science project at school.  ✗  셀 수 없는 명사 앞에 수를 바로 쓰지 않아요 (둘 ≠ 약간)",
+    "③ They need a money for their new science project at school.  ✗  셀 수 없는 money 바로 앞에 a를 쓰지 않아요",
+    "④ They need many money for their new science project at school.  ✗  many는 셀 수 있는 명사의 복수형과 써요 (‘많은’)",
+    "⑤ They need an money for their new science project at school.  ✗  money 앞에 an ✗ (an은 모음 소리 앞에 써요)"
+   ],
+   "narration": "정답은 1번이에요. 4번 many는 많은이라는 뜻이고, 셀 수 있는 명사의 복수형과 써서 money와 맞지 않아요. 2번은 셀 수 없는 명사 앞에 two를 바로 썼고, 둘이라는 뜻이라 약간과도 맞지 않아요. 3번과 5번은 셀 수 없는 명사 바로 앞에 a나 an을 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사: a, an, 수, many ✗ → 약간은 some + 명사",
+   "narration": "정답은 1번이에요. 기억할 것, 셀 수 없는 명사 바로 앞에는 a, an, 수, many를 쓰지 않고, 약간의 양은 some으로 나타내요."
+  },
+  "captions": [
+   "돈을 약간, 영어로",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사와 some",
+   "a·an·two 지움 → many 지움 → some",
+   "정답 ① some money",
+   "약간의 양은 some + 명사"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   23,
+   10
+  ]
+ }
+}

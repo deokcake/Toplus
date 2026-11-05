@@ -1,0 +1,179 @@
+{
+ "key": "7-32",
+ "type": "E",
+ "grade": 7,
+ "chapter": "CH 4 be동사 부정문과 의문문",
+ "title": "be동사 부정문에서 주어와 be동사의 짝",
+ "total_sec": 124,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "7급 · CH 4 be동사 부정문과 의문문 · 32번 · E 유형\n\n이 문제는 not이 들어간 다섯 문장에서 밑줄 친 be동사가 주어와 맞지 않는 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 4 be동사 부정문과 의문문 · 32번 · E 유형",
+     "이 문제는 not이 들어간 다섯 문장에서 밑줄 친 be동사가 주어와 맞지 않는 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 4, 32번 E 유형. 이 문제는 not이 들어간 다섯 문장에서 밑줄 친 be동사가 주어와 맞지 않는 것을 고르는 문제예요.",
+   "caption": "주어와 맞지 않는 be동사 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 18,
+   "screen": {
+    "text": "다음 밑줄 친 부분 중 틀린 것을 고르시오.\n\n① The books <u>are</u> not old.\n② I <u>am</u> not tired.\n③ We <u>is</u> not at school.\n④ You <u>are</u> not alone.\n⑤ My mom <u>is</u> not angry.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 밑줄 친 부분 중 틀린 것을 고르시오.",
+     "① The books <u>are</u> not old.",
+     "② I <u>am</u> not tired.",
+     "③ We <u>is</u> not at school.",
+     "④ You <u>are</u> not alone.",
+     "⑤ My mom <u>is</u> not angry."
+    ]
+   },
+   "narration": "다음 밑줄 친 부분 중 틀린 것을 고르세요. 다섯 문장의 밑줄 친 be동사를 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\nbe동사(am, is, are) 뒤에 not → '아니에요, 않아요, 없어요'\nI → am not\nhe, she, it처럼 한 명·한 개 → is not\nyou(한 명이어도), we, they처럼 여럿 → are not\n예) The pencil is not long. The pencils are not long. (연필이 길지 않아요. 연필들이 길지 않아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사(am, is, are) 뒤에 not → '아니에요, 않아요, 없어요'",
+     "I → am not",
+     "he, she, it처럼 한 명·한 개 → is not",
+     "you(한 명이어도), we, they처럼 여럿 → are not",
+     "예) The pencil is not long. The pencils are not long. (연필이 길지 않아요. 연필들이 길지 않아요.)"
+    ]
+   },
+   "narration": "be동사 뒤에 not을 붙이면 '아니에요', '않아요', '없어요'라는 뜻이 돼요. not이 있어도 be동사는 주어에 맞춰요. I는 am not, he, she, it처럼 하나는 is not, you와 여럿은 are not이에요. 예를 들어 The pencil is not long, 연필이 길지 않아요. The pencils are not long, 연필들이 길지 않아요.",
+   "caption": "not이 있어도 주어에 맞춰요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 30,
+   "screen": {
+    "text": "다음 밑줄 친 부분 중 틀린 것을 고르시오.\n\n① The books <u>are</u> not old.\n② I <u>am</u> not tired.\n③ We <u>is</u> not at school.\n④ You <u>are</u> not alone.\n⑤ My mom <u>is</u> not angry.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "① The books",
+       "② I",
+       "③ We",
+       "④ You",
+       "⑤ My mom"
+      ],
+      "strike": [],
+      "note": "주어 찾기: The books, We 여럿 / I / You / My mom 한 명"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① The books <u>are</u> not old.",
+       "② I <u>am</u> not tired.",
+       "④ You <u>are</u> not alone.",
+       "⑤ My mom <u>is</u> not angry."
+      ],
+      "note": "짝이 맞는 문장 지우기: The books are, I am, You are, My mom is"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ We <u>is</u> not at school."
+      ],
+      "strike": [],
+      "note": "We는 여럿 → is ✗ → are. We are not at school."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 주어를 찾아요. My mom은 한 명이고, The books와 We는 여럿이에요. 둘째, The books are, I am, You are, My mom is는 주어와 짝이 맞으니 지워요. 셋째, We는 '우리'라서 여럿인데 is를 써서 틀렸어요. We are not at school, 우리는 학교에 없어요.",
+   "caption": "주어 찾기 → 짝 맞추기 → ③"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 22,
+   "screen": {
+    "text": "① The books <u>are</u> not old.  ✗  The books는 여럿이라 are가 맞아요\n② I <u>am</u> not tired.  ✗  I에는 am을 써요\n③ We <u>is</u> not at school.  ✓  We는 여럿이라 is가 아니라 are\n④ You <u>are</u> not alone.  ✗  You는 한 명이어도 are를 써요\n⑤ My mom <u>is</u> not angry.  ✗  My mom은 한 사람이라 is가 맞아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① The books <u>are</u> not old.  ✗  The books는 여럿이라 are가 맞아요",
+     "② I <u>am</u> not tired.  ✗  I에는 am을 써요",
+     "③ We <u>is</u> not at school.  ✓  We는 여럿이라 is가 아니라 are",
+     "④ You <u>are</u> not alone.  ✗  You는 한 명이어도 are를 써요",
+     "⑤ My mom <u>is</u> not angry.  ✗  My mom은 한 사람이라 is가 맞아요"
+    ]
+   },
+   "narration": "정답은 3번이에요. We는 여럿이라 is가 아니라 are를 써야 해요. 4번은 alone이 '혼자'라는 뜻이라 is를 떠올리기 쉬워요. 하지만 주어 You에는 한 명이어도 are를 써요. 5번 My mom은 한 사람이라 is가 맞아요.",
+   "caption": "정답 ③ We is"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 13,
+   "screen": {
+    "text": "정답 ③ We <u>is</u> not at school.\n\nnot이 있어도 주어에 맞춰요: I am · he, she, it(하나) is · you, 여럿 are",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ We <u>is</u> not at school.",
+     "not이 있어도 주어에 맞춰요: I am · he, she, it(하나) is · you, 여럿 are"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, not이 있어도 be동사는 주어에 맞춰서 I는 am, 하나는 is, you와 여럿은 are예요.",
+   "caption": "I am · 하나 is · you·여럿 are"
+  }
+ ],
+ "source": {
+  "stem": "다음 밑줄 친 부분 중 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "The books <u>are</u> not old.",
+   "I <u>am</u> not tired.",
+   "We <u>is</u> not at school.",
+   "You <u>are</u> not alone.",
+   "My mom <u>is</u> not angry."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: be동사 부정문에서도 be동사는 주어에 맞춘다. 복수 주어에는 are, 3인칭 단수 주어에는 is, I에는 am을 쓴다.\n풀이 순서: ① 문장마다 주어가 I인지, 한 사람·한 개인지, you·여럿인지 가른다. → ② 밑줄 친 be동사가 그 주어와 맞는지 본다. → ③ 선택지 ③의 We는 여럿이라 are다. 정답은 ③.\n문장별 판정:\n정답 판단: 주어 We에는 is가 아니라 are를 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 주어(The books)에 맞는 be동사(are)를 바르게 썼으므로 오답이다.\n② [오답] 주어(I)에 맞는 be동사(am)를 바르게 썼으므로 오답이다.\n③ [정답] 주어 We에는 is가 아니라 are를 써야 하므로 정답이다.\n④ [오답] 주어(You)에 맞는 be동사(are)를 바르게 썼으므로 오답이다.\n⑤ [오답] 주어(My mom)에 맞는 be동사(is)를 바르게 썼으므로 오답이다."
+ }
+}

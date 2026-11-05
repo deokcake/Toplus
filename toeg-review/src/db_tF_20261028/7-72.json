@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:48:27.193Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Who do you need?",
+      "1": "What do you need?",
+      "2": null,
+      "3": "What do you needs?",
+      "4": "What does you need?"
+    },
+    "expl": "핵심 규칙: ‘무엇을 ~하니?’는 What + do/does + 주어 + 동사원형 ~?으로 쓴다. 주어가 3인칭 단수면 does, 아니면 do를 쓴다.\n풀이 순서: ① 우리말의 주어를 본다: ‘너는’ → you(→ do). → ② 동작을 본다: ‘필요하니’ → need. → ③ What + do + 주어 + 동사원형의 순서로 쓴 것은 ②.\n문장별 판정:\n정답 판단: What + do + you + 동사원형으로 우리말을 바르게 옮겼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] Who는 ‘누구를’이라는 뜻이라 우리말과 맞지 않으므로 오답이다.\n② [정답] What + do + you + 동사원형으로 우리말을 바르게 옮겼으므로 정답이다.\n③ [오답] ‘너는 어디에 사니?’라는 뜻이라 우리말과 맞지 않으므로 오답이다.\n④ [오답] do 뒤에는 -s를 뗀 동사원형 need를 써야 하므로 오답이다.\n⑤ [오답] 주어 you에는 does가 아니라 do를 쓰므로 오답이다.",
+    "passage": "너는 무엇이 필요하니?",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:48:24.978Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:48:27.193Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:48:27.193Z",
+      "what": "확인 완료"
+    }
+  }
+}

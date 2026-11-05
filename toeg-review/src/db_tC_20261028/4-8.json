@@ -1,0 +1,35 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-24T02:48:47.004Z",
+  "doneBy": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "for, a",
+      "1": "in, an",
+      "2": "for, an",
+      "3": "at, an",
+      "4": "on, a"
+    },
+    "expl": "핵심 규칙: at the moment(지금), for an hour(한 시간 동안), at the end of(~의 끝에), on the first of(~일에), in a minute(곧)처럼 전치사와 관사가 짝을 이루는 표현을 익힌다.\n풀이 순서: ① 전치사: 기다린 시간의 길이 앞에는 for를 쓴다. → ② 관사: hour는 h를 읽지 않아 모음 소리로 시작하므로 an을 쓴다. → ③ 정답은 for, an.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 둘째 빈칸 a: hour는 모음 소리로 시작해 an을 쓴다. 따라서 오답이다.\n② [오답] 첫째 빈칸 in: ‘~ 동안’의 기간은 for로 나타낸다. 따라서 오답이다.\n③ [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n④ [오답] 첫째 빈칸 at: ‘~ 동안’의 기간은 for로 나타낸다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 on: ‘~ 동안’의 기간은 for로 나타낸다, 둘째 빈칸 a: hour는 모음 소리로 시작해 an을 쓴다. 따라서 오답이다.",
+    "passage": "We waited ______ ______ hour.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T05:49:54.735Z"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:49:54.735Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:49:54.735Z",
+      "what": "Claude 수정 예시 적용"
+    },
+    "u_p7DX7y1beMZ8et5ArgcmKw": {
+      "at": "2026-10-24T02:48:47.004Z",
+      "what": "확인 완료"
+    }
+  }
+}

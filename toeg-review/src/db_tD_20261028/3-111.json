@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:07:58.430Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "on",
+      "1": "at",
+      "2": "in",
+      "3": "during",
+      "4": "for"
+    },
+    "expl": "핵심 규칙: 장소는 at(한 지점), on(표면에 닿은 곳), in(공간 안·도시·나라)으로, 시간은 at(시각), on(요일·날짜), in(월·연도·계절)으로 나타낸다.\n풀이 순서: ① 두 문장을 따로 본다. 첫 문장: 탁자 위(표면)이므로 on. → ② 둘째 문장: 날짜(June 10th) 앞에도 on. → ③ 두 자리에 모두 맞는 전치사는 on.\n문장별 판정:\n정답 판단: 표면(on the table)과 날짜(on June 10th)에 모두 on을 쓰므로 정답은 ①이다.\n선택지 분석:\n① [정답] 표면(on the table)과 날짜(on June 10th)에 모두 on을 쓰므로 정답이다.\n② [오답] at: 두 빈칸 중 적어도 한 곳에 맞지 않으므로 오답이다.\n③ [오답] in: 두 빈칸 중 적어도 한 곳에 맞지 않으므로 오답이다.\n④ [오답] during: 두 빈칸 중 적어도 한 곳에 맞지 않으므로 오답이다.\n⑤ [오답] for: 두 빈칸 중 적어도 한 곳에 맞지 않으므로 오답이다.",
+    "passage": "- Your phone is _____ the kitchen table next to the cups.\n- My birthday party is _____ June 10th this year.",
+    "stem": "다음 빈칸에 공통으로 들어갈 전치사를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:23:55.006Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:23:59.097Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:07:58.430Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:07:51.959Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:07:58.430Z",
+      "what": "확인 완료"
+    }
+  }
+}

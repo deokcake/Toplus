@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T06:56:50.115Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A): Does\t(B): has to",
+      "1": "(A): Is\t(B): have to",
+      "2": "(A): Do\t(B): have to",
+      "3": "(A): Do\t(B): has to",
+      "4": "(A): Are\t(B): have to"
+    },
+    "expl": "핵심 규칙: have to의 현재 의문문은 Do/Does + 주어 + have to + 동사원형?으로 쓰고, 3인칭 단수 주어의 긍정문에는 has to를 쓴다. Does 뒤에는 has가 아니라 have를 쓴다.\n풀이 순서: ① 대답을 본다: Yes, I do. 질문도 같은 조동사로 시작한다. → ② (A) Do, (B) have to다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 주어 you에 Do, 그 뒤에 have to를 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 주어 you에는 Does가 아니라 Do를 쓰므로 오답이다.\n② [오답] have to의 의문문에는 be동사 Is를 쓰지 않으므로 오답이다.\n③ [정답] 주어 you에 Do, 그 뒤에 have to를 바르게 썼으므로 정답이다.\n④ [오답] Do 뒤에는 has to가 아니라 have to를 쓰므로 오답이다.\n⑤ [오답] have to의 의문문에는 be동사 Are를 쓰지 않으므로 오답이다.",
+    "passage": "A: (<u>    A    </u>) you (<u>    B    </u>) wear this?\nB: Yes, I do.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T06:56:49.219Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T06:56:50.115Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T06:56:50.115Z",
+      "what": "확인 완료"
+    }
+  }
+}

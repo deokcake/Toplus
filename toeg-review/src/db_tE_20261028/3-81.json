@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T04:40:44.314Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "shop - shopping",
+      "1": "ride - riding",
+      "2": null,
+      "3": "plan - planning",
+      "4": "see - seeing"
+    },
+    "expl": "핵심 규칙: 동사-ing형은 보통 -ing을 붙인다. -e로 끝나면 e를 빼고(make → making), -ie로 끝나면 ie를 y로 바꾸며(lie → lying), 단모음 + 단자음으로 끝나면 자음을 한 번 더 쓴다(run → running).\n풀이 순서: ① 동사의 끝 철자를 본다: -e로 끝나는가, -ie로 끝나는가, ‘단모음 + 단자음’으로 끝나는가. → ② lie는 -ie로 끝나므로 ie를 y로 바꿔 lying으로 쓴다. → ③ 정답은 lie - lieing.\n문장별 판정:\n정답 판단: -ie로 끝나는 lie는 ie를 y로 바꿔 lying으로 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 단모음 + 단자음으로 끝나 자음을 한 번 더 쓰고 -ing을 붙인 옳은 형태이므로 오답이다.\n② [오답] 끝의 e를 빼고 -ing을 붙인 옳은 형태이므로 오답이다.\n③ [정답] -ie로 끝나는 lie는 ie를 y로 바꿔 lying으로 써야 하므로 정답이다.\n④ [오답] 단모음 + 단자음으로 끝나 자음을 한 번 더 쓰고 -ing을 붙인 옳은 형태이므로 오답이다.\n⑤ [오답] -ing을 그대로 붙인 옳은 형태이므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T04:40:41.068Z"
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T04:40:44.314Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:40:44.314Z",
+      "what": "확인 완료"
+    }
+  }
+}

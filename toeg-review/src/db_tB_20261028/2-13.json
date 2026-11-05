@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T05:51:07.260Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "The price has <u>risen</u> recently.",
+      "1": "The team has <u>winned</u> three games this season.",
+      "2": "They have <u>built</u> a new bridge.",
+      "3": "I have <u>forgotten</u> his name.",
+      "4": "She has <u>swum</u> across the lake."
+    },
+    "expl": "핵심 규칙: 현재완료·과거완료는 have/has/had + 과거분사(p.p.)로 만든다. 불규칙동사는 과거형과 과거분사형이 다를 수 있으므로 각각 확인한다.\n풀이 순서: ① 밑줄은 모두 have/has/had 뒤, 곧 과거분사 자리다. → ② 밑줄 친 동사의 ‘원형 - 과거형 - 과거분사’를 떠올려 과거분사가 맞는지 본다. 과거형과 과거분사가 다른 불규칙동사가 함정이다. → ③ 선택지 ②의 winned는 없는 형태다. win - won - won이므로 won이 맞다.\n문장별 판정:\n정답 판단: has winned: 과거분사 자리에 없는 형태를 썼다(win-won-won). has won(으)로 고쳐야 하는 어색한 곳이므로 정답은 ②이다.\n선택지 분석:\n① [오답] has risen: 과거분사를 바르게 썼다(rise-rose-risen). 어색하지 않으므로 오답이다.\n② [정답] has winned: 과거분사 자리에 없는 형태를 썼다(win-won-won). has won(으)로 고쳐야 하는 어색한 곳이므로 정답이다.\n③ [오답] have built: 과거분사를 바르게 썼다(build-built-built). 어색하지 않으므로 오답이다.\n④ [오답] have forgotten: 과거분사를 바르게 썼다(forget-forgot-forgotten). 어색하지 않으므로 오답이다.\n⑤ [오답] has swum: 과거분사를 바르게 썼다(swim-swam-swum). 어색하지 않으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 곳이 어법상 어색한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T05:50:49.367Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T05:51:07.260Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T05:51:07.260Z",
+      "what": "확인 완료"
+    }
+  }
+}

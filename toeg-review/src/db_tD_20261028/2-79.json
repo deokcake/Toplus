@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T16:46:34.541Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "hear - bored - sitting",
+      "1": "heard - bored - sat",
+      "2": "hear - boring - sitting",
+      "3": "hear - boring - sat",
+      "4": "heard - boring - sitting"
+    },
+    "expl": "핵심 규칙: Did 의문문의 본동사는 원형이다. 감정을 일으키는 쪽에는 -ing, 느끼는 쪽에는 -ed를 쓰고, 명사를 꾸미는 분사는 그 명사와의 능동·수동 관계로 정한다.\n풀이 순서: ① (A)는 Did + 주어 뒤이므로 동사원형(hear)이다. → ② (B)가 설명하는 것은 it(연설)이다. 지루함을 ‘주는’ 쪽이므로 boring이다. → ③ (C)는 the students를 꾸민다. 학생들이 앉아 있는 것이므로 sitting이다. 정답은 ③.\n문장별 판정:\n정답 판단: Did 뒤 원형 hear, 연설이 지루함을 일으키므로 boring, 학생들이 앉아 있는 능동 관계이므로 sitting이다.\n선택지 분석:\n① [오답] 둘째 자리 bored: 연설이 지루함을 일으키는 쪽이므로 -ing를 쓴다. 따라서 오답이다.\n② [오답] 첫째 자리 heard: Did 뒤에는 동사원형을 쓴다. 둘째 자리 bored: 연설이 지루함을 일으키는 쪽이므로 -ing를 쓴다. 셋째 자리 sat: 학생들이 직접 앉아 있는 능동 관계라 현재분사로 꾸미며, 문장의 동사(fell)가 따로 있다. 따라서 오답이다.\n③ [정답] hear — boring — sitting: 두 자리가 모두 알맞으므로 정답이다.\n④ [오답] 셋째 자리 sat: 학생들이 직접 앉아 있는 능동 관계라 현재분사로 꾸미며, 문장의 동사(fell)가 따로 있다. 따라서 오답이다.\n⑤ [오답] 첫째 자리 heard: Did 뒤에는 동사원형을 쓴다. 따라서 오답이다.",
+    "passage": "A: Did you (A)_____(hear) the speech?\nB: Yes. But it was so (B)______(bore) that the students (C)______(sit) in the back fell asleep.",
+    "stem": "다음 빈칸에 들어갈 말로 알맞게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T16:46:00.613Z"
+  },
+  "tab": "8s1sfi09",
+  "updatedAt": "2026-10-23T16:46:34.541Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:46:34.541Z",
+      "what": "확인 완료"
+    }
+  }
+}

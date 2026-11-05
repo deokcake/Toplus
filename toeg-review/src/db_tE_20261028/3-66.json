@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:28:01.189Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "much",
+      "1": "many",
+      "2": "often",
+      "3": "far",
+      "4": "long"
+    },
+    "expl": "핵심 규칙: How many+가산 복수명사는 개수를, How much+불가산명사는 양을 묻는다. How long/far/often은 각각 기간·길이/거리/빈도를 묻는다.\n풀이 순서: ① 빈칸 뒤 명사가 셀 수 있는지 본다(students, 복수 명사). → ② 셀 수 없는 명사의 양은 How much, 셀 수 있는 복수 명사의 수는 How many로 묻는다. → ③ 정답은 many.\n문장별 판정:\n정답 판단: students는 가산 복수명사이므로 How many students가 맞다. 따라서 정답은 ②이다.\n선택지 분석:\n① [오답] much는 불가산명사의 수량에 쓰므로 이 문장의 students와 맞지 않는다. many가 필요하다.\n② [정답] students는 가산 복수명사이므로 How many students가 맞다.\n③ [오답] How often은 빈도를 묻는다. 이 자리에서는 students의 수량을 물으므로 How many를 쓴다.\n④ [오답] How far은 거리를 묻는다. 이 자리에서는 students의 수량을 물으므로 How many를 쓴다.\n⑤ [오답] How long은 기간·길이를 묻는다. 이 자리에서는 students의 수량을 물으므로 How many를 쓴다.",
+    "passage": "How ______ students are there in your class this year?",
+    "stem": "다음 빈칸에 들어갈 알맞은 말을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T04:05:03.630Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:05:10.409Z",
+      "text": "기준문항에 비하여 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:28:01.189Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:27:59.345Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:28:01.189Z",
+      "what": "확인 완료"
+    }
+  }
+}

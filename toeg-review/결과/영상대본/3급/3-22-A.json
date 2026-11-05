@@ -1,0 +1,176 @@
+{
+ "key": "3-22",
+ "type": "A",
+ "grade": 3,
+ "chapter": "CH 3 명사와 관사",
+ "title": "셀 수 있는 명사와 셀 수 없는 명사",
+ "total_sec": 124,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "3급 · CH 3 명사와 관사 · 22번\n\n이 문제는 다섯 개의 명사 가운데 셀 수 있는 명사를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 3 명사와 관사 · 22번",
+     "이 문제는 다섯 개의 명사 가운데 셀 수 있는 명사를 고르는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 3, 22번. 이 문제는 다섯 개의 명사 가운데 셀 수 있는 명사를 고르는 문제예요.",
+   "caption": "셀 수 있는 명사 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 셀 수 있는 명사를 고르시오.\n\n① information\n② news\n③ furniture\n④ car\n⑤ advice",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 셀 수 있는 명사를 고르시오.",
+     "① information",
+     "② news",
+     "③ furniture",
+     "④ car",
+     "⑤ advice"
+    ]
+   },
+   "narration": "다음 중 셀 수 있는 명사를 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n셀 수 있는 명사 → 하나일 때 a/an, 둘 이상이면 복수형 (an egg, two eggs)\n셀 수 없는 명사 → a/an을 붙이지 않고, 복수형도 쓰지 않아요\n영어에서 셀 수 없는 명사: information(정보), news(소식), furniture(가구), advice(충고)\nnews는 s로 끝나도 복수형이 아니에요\n예) I ate two eggs and some bread. (나는 달걀 두 개와 빵을 조금 먹었어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "셀 수 있는 명사 → 하나일 때 a/an, 둘 이상이면 복수형 (an egg, two eggs)",
+     "셀 수 없는 명사 → a/an을 붙이지 않고, 복수형도 쓰지 않아요",
+     "영어에서 셀 수 없는 명사: information(정보), news(소식), furniture(가구), advice(충고)",
+     "news는 s로 끝나도 복수형이 아니에요",
+     "예) I ate two eggs and some bread. (나는 달걀 두 개와 빵을 조금 먹었어요.)"
+    ]
+   },
+   "narration": "셀 수 있는 명사는 하나일 때 a나 an을 붙일 수 있고, 둘 이상이면 복수형으로 써요. 셀 수 없는 명사에는 a나 an도, 복수형도 쓰지 않아요. information 정보, news 소식, furniture 가구, advice 충고는 셀 수 없는 명사인데, news는 s로 끝나도 복수형이 아니에요. 예를 들어 I ate two eggs and some bread, 달걀 두 개와 빵을 조금 먹었어요.",
+   "caption": "셀 수 있는 명사, 셀 수 없는 명사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 30,
+   "screen": {
+    "text": "다음 중 셀 수 있는 명사를 고르시오.\n\n① information\n② news\n③ furniture\n④ car\n⑤ advice",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "셀 수 있는 명사"
+      ],
+      "strike": [
+       "① information",
+       "⑤ advice"
+      ],
+      "note": "a/an·복수형이 되는지 본다 → information(정보), advice(충고)는 셀 수 없다 → 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "② news",
+       "③ furniture"
+      ],
+      "note": "news는 s로 끝나도 복수형이 아니고, furniture(가구)도 셀 수 없다 → 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ car"
+      ],
+      "strike": [],
+      "note": "남은 car(자동차) → a car, two cars → 셀 수 있다."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 보기마다 a나 an을 붙이거나 복수형으로 쓸 수 있는지 따져 봐요. information 정보와 advice 충고는 셀 수 없는 명사라서 지워요. 둘째, news는 s로 끝나도 복수형이 아니고, furniture 가구도 셀 수 없는 명사라서 둘 다 지워요. 셋째, 남은 car는 자동차라서 a car, two cars처럼 셀 수 있어요.",
+   "caption": "셀 수 없는 명사 지우기 → car"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① information  ✗  정보, an information으로 쓰지 않아요\n② news  ✗  s로 끝나도 복수형이 아닌 셀 수 없는 명사\n③ furniture  ✗  의자, 탁자 같은 가구를 묶어 부르는 말, 셀 수 없어요\n④ car  ✓  a car, two cars처럼 셀 수 있어요\n⑤ advice  ✗  충고, 우리말과 달리 advices로 쓰지 않아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① information  ✗  정보, an information으로 쓰지 않아요",
+     "② news  ✗  s로 끝나도 복수형이 아닌 셀 수 없는 명사",
+     "③ furniture  ✗  의자, 탁자 같은 가구를 묶어 부르는 말, 셀 수 없어요",
+     "④ car  ✓  a car, two cars처럼 셀 수 있어요",
+     "⑤ advice  ✗  충고, 우리말과 달리 advices로 쓰지 않아요"
+    ]
+   },
+   "narration": "정답은 4번 car예요. 3번 furniture는 의자처럼 셀 수 있는 물건을 묶어 부르는 말이라 고르기 쉽지만, 영어에서는 a furniture나 furnitures처럼 쓰지 않아요. 2번 news는 s로 끝나서 복수형처럼 보이지만, 셀 수 없는 명사예요. 5번 advice도 우리말로는 충고 한 마디처럼 세지만, 영어에서는 셀 수 없어요.",
+   "caption": "정답 ④ car"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ④ car\n\na/an을 붙이거나 복수형으로 쓸 수 있으면 셀 수 있는 명사 (a car, two cars)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ car",
+     "a/an을 붙이거나 복수형으로 쓸 수 있으면 셀 수 있는 명사 (a car, two cars)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, a나 an을 붙이거나 복수형으로 쓸 수 있으면 셀 수 있는 명사예요.",
+   "caption": "a/an·복수형이 되면 셀 수 있는 명사"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+  "passage": "",
+  "c": [
+   "information",
+   "news",
+   "furniture",
+   "car",
+   "advice"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 셀 수 있는 명사는 a/an을 붙이거나 복수형으로 쓸 수 있다. information, news, furniture, advice처럼 낱개로 나뉘지 않는 명사는 셀 수 없다.\n풀이 순서: ① 낱말마다 a/an을 붙이거나 복수형(-s)으로 쓸 수 있는지 본다. → ② information, news, furniture, advice, homework, money처럼 낱개로 나뉘지 않는 것은 셀 수 없는 명사다. → ③ 선택지 ④만 셀 수 있다(a car, two cars).\n문장별 판정:\n정답 판단: car는 a car, two cars처럼 셀 수 있으므로 정답은 ④이다.\n선택지 분석:\n① [오답] information은 셀 수 없는 명사이므로 오답이다.\n② [오답] news는 -s로 끝나지만 셀 수 없는 명사이므로 오답이다.\n③ [오답] furniture는 셀 수 없는 명사이므로 오답이다.\n④ [정답] car는 a car, two cars처럼 셀 수 있으므로 정답이다.\n⑤ [오답] advice는 셀 수 없는 명사이므로 오답이다."
+ }
+}

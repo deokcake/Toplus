@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T07:47:47.323Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 현재진행형은 am/is/are + 동사원형-ing다. be동사 뒤에 동사원형이나 -s형을 쓰지 않는다.\n풀이 순서: ① 문장마다 be동사가 주어와 맞는지 본다. → ② be동사 뒤가 -ing형인지 본다. 동사원형이나 -s형이면 틀린 문장이다. → ③ (나) is sings, (라) The dog are가 틀렸다. 옳은 문장은 (가), (다)이다.\n문장별 판정: (가) O. 복수 주어 The students에 are + preparing을 썼다. (나) X. is 뒤에는 sings가 아니라 singing을 쓴다. (다) O. 주어 I에 am + waiting을 썼다. (라) X. 단수 주어 The dog에는 are가 아니라 is를 쓴다.\n정답 판단: 어법상 옳은 문장은 (가), (다)이다.\n선택지 분석:\n① [오답] (나), (라)는 옳은 문장이 아니고, 옳은 문장 (가), (다)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (나)는 옳은 문장이 아니고, 옳은 문장 (다)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (라)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 (가), (다)를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] (라)는 옳은 문장이 아니고, 옳은 문장 (다)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": null,
+    "stem": "다음 <보기>의 문장 중 어법상 옳은 것을 모두 고른 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T07:47:46.482Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:47:47.323Z",
+      "what": "확인 완료"
+    }
+  }
+}

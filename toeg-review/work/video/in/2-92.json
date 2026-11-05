@@ -1,0 +1,86 @@
+{
+ "key": "2-92",
+ "grade": 2,
+ "chapter": "CH 10 관계사",
+ "items": {
+  "A": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 문장을 모두 고르시오.",
+   "passage": "\"우리가 필요한 것은 사랑이다.\"\na. The thing that we need is love.\nb. We need is love.\nc. All that we need is love.\nd. The way we need is love.\ne. What we need is love.",
+   "c": [
+    "a, c",
+    "a, c, e",
+    "b, d, e",
+    "c, d, e",
+    "a, b, c, e"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: ‘~하는 것’은 what(= the thing that/which)으로 나타낸다. 선행사(the thing, all)가 있으면 what이 아니라 that을 쓰고, 목적격 관계대명사는 생략할 수 있다.\n풀이 순서: ① ‘~한 것’을 나타내는 바른 꼴은 What ~, The thing (that/which) ~다. what 자체가 선행사를 포함한다. → ② 틀린 꼴을 지운다. b는 What이 없어 주어가 없고, d의 The way는 뜻이 다르다. All that ~도 옳다. → ③ 옳은 문장을 빠짐없이 묶은 a, c, e가 정답이다.\n문장별 판정: a O. The thing that = What. b X. need의 목적어 자리가 비어 주어가 없다. c O. All that we need(우리가 필요한 것은 오직). d X. The way는 ‘방법’이라 뜻이 맞지 않는다. e O. What we need.\n정답 판단: a, c, e가 모두 옳은 문장이므로 정답은 ②이다.\n선택지 분석:\n① [오답] e도 옳은 문장인데 빠졌으므로 오답이다.\n② [정답] a, c, e가 모두 옳은 문장이므로 정답이다.\n③ [오답] b와 d가 틀린 문장이므로 오답이다.\n④ [오답] d가 틀린 문장이므로 오답이다.\n⑤ [오답] b가 틀린 문장이므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 문장을 모두 고르시오.",
+   "passage": "\"네가 말한 것이 사실이다.\"\na. What you said is true.\nb. The thing what you said is true.\nc. The thing you said is true.\nd. That you said is true.\ne. You said is true.",
+   "c": [
+    "a, c",
+    "a, b",
+    "a, c, e",
+    "b, d",
+    "a, b, c"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: what은 선행사를 포함한 관계대명사로 ‘~하는 것’이라는 뜻이며 관계절 안에서 목적어 역할을 하므로 뒤에 목적어를 다시 쓰지 않는다. 선행사(the thing)가 있으면 that·which를 쓰거나 목적격 관계대명사를 생략하며, 선행사 뒤에 what을 쓰지 않는다.\n풀이 순서: ① ‘~한 것’을 나타내는 바른 꼴은 What ~, The thing (that/which) ~다. what 자체가 선행사를 포함한다. → ② 틀린 꼴을 지운다. b는 선행사 뒤에 what을 썼고, d의 That은 ‘~한 것’을 나타내지 못하며, e는 What이 없다. → ③ 옳은 문장을 빠짐없이 묶은 a, c가 정답이다.\n문장별 판정:\na O. what이 ‘~한 것’을 나타내며 said의 목적어 역할을 한다.\nb X. 선행사(the thing) 뒤에는 what을 쓰지 않는다.\nc O. 선행사 뒤 목적격 관계대명사가 생략되었다.\nd X. 접속사 that 뒤에는 완전한 절이 와야 하는데 said의 목적어가 없다.\ne X. 주어 자리에 절을 이끄는 말(what)이 없어 동사가 두 개 겹친다.\n정답 판단: 바르게 옮긴 문장은 a, c이다.\n선택지 분석:\n① [정답] 바르게 옮긴 문장 a, c를 빠짐없이 골랐으므로 정답이다.\n② [오답] b는 바르게 옮긴 문장이 아니고, 바르게 옮긴 문장 c를 빠뜨렸다. 따라서 오답이다.\n③ [오답] e는 바르게 옮긴 문장이 아니다. 따라서 오답이다.\n④ [오답] b, d는 바르게 옮긴 문장이 아니고, 바르게 옮긴 문장 a, c를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] b는 바르게 옮긴 문장이 아니다. 따라서 오답이다."
+  },
+  "C": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 문장을 모두 고르시오.",
+   "passage": "\"우리가 원하는 것은 평화이다.\"\na. What we want is peace.\nb. The thing that we want is peace.\nc. The thing what we want is peace.\nd. What we want it is peace.\ne. The thing which we want is peace.",
+   "c": [
+    "a, b",
+    "a, c, e",
+    "b, d",
+    "a, b, e",
+    "a, b, c, e"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: what은 선행사를 포함한 관계대명사로 ‘~하는 것’이라는 뜻이며 관계절 안에서 목적어 역할을 하므로 뒤에 목적어를 다시 쓰지 않는다. 선행사(the thing)가 있으면 that·which를 쓰거나 목적격 관계대명사를 생략하며, 선행사 뒤에 what을 쓰지 않는다.\n풀이 순서: ① ‘~한 것’을 나타내는 바른 꼴은 What ~, The thing (that/which) ~다. what 자체가 선행사를 포함한다. → ② 틀린 꼴을 지운다. c는 선행사 뒤에 what을 썼고, d는 what 뒤에 it을 다시 썼다. → ③ 옳은 문장을 빠짐없이 묶은 a, b, e가 정답이다.\n문장별 판정:\na O. what이 ‘~한 것’을 나타낸다.\nb O. 선행사(the thing) + 목적격 관계대명사 that이다.\nc X. 선행사(the thing) 뒤에는 what을 쓰지 않는다.\nd X. what이 이미 want의 목적어이므로 it을 다시 쓰지 않는다.\ne O. 선행사(the thing) + 목적격 관계대명사 which이다.\n정답 판단: 바르게 옮긴 문장은 a, b, e이다.\n선택지 분석:\n① [오답] 바르게 옮긴 문장 e를 빠뜨렸다. 따라서 오답이다.\n② [오답] c는 바르게 옮긴 문장이 아니고, 바르게 옮긴 문장 b를 빠뜨렸다. 따라서 오답이다.\n③ [오답] d는 바르게 옮긴 문장이 아니고, 바르게 옮긴 문장 a, e를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 바르게 옮긴 문장 a, b, e를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] c는 바르게 옮긴 문장이 아니다. 따라서 오답이다."
+  },
+  "D": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 문장을 모두 고르시오.",
+   "passage": "\"그녀가 산 것은 비쌌다.\"\na. She bought was expensive.\nb. What she bought was expensive.\nc. The thing what she bought was expensive.\nd. The thing that she bought was expensive.\ne. The thing she bought was expensive.",
+   "c": [
+    "b, d",
+    "b, d, e",
+    "a, b, d",
+    "c, d, e",
+    "b, c"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: what은 선행사를 포함한 관계대명사로 ‘~하는 것’이라는 뜻이며 관계절 안에서 목적어 역할을 하므로 뒤에 목적어를 다시 쓰지 않는다. 선행사(the thing)가 있으면 that·which를 쓰거나 목적격 관계대명사를 생략하며, 선행사 뒤에 what을 쓰지 않는다.\n풀이 순서: ① ‘~한 것’을 나타내는 바른 꼴은 What ~, The thing (that/which) ~다. what 자체가 선행사를 포함한다. → ② 틀린 꼴을 지운다. a는 What이 없고, c는 선행사 뒤에 what을 썼다. e는 목적격 관계대명사가 생략된 옳은 문장이다. → ③ 옳은 문장을 빠짐없이 묶은 b, d, e가 정답이다.\n문장별 판정:\na X. 주어 자리에 절을 이끄는 말(what)이 없어 동사가 두 개 겹친다.\nb O. what이 ‘~한 것’을 나타낸다.\nc X. 선행사(the thing) 뒤에는 what을 쓰지 않는다.\nd O. 선행사(the thing) + 목적격 관계대명사 that이다.\ne O. 선행사 뒤 목적격 관계대명사가 생략되었다.\n정답 판단: 바르게 옮긴 문장은 b, d, e이다.\n선택지 분석:\n① [오답] 바르게 옮긴 문장 e를 빠뜨렸다. 따라서 오답이다.\n② [정답] 바르게 옮긴 문장 b, d, e를 빠짐없이 골랐으므로 정답이다.\n③ [오답] a는 바르게 옮긴 문장이 아니고, 바르게 옮긴 문장 e를 빠뜨렸다. 따라서 오답이다.\n④ [오답] c는 바르게 옮긴 문장이 아니고, 바르게 옮긴 문장 b를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] c는 바르게 옮긴 문장이 아니고, 바르게 옮긴 문장 d, e를 빠뜨렸다. 따라서 오답이다."
+  },
+  "E": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 문장을 모두 고르시오.",
+   "passage": "\"내가 필요한 것은 시간이다.\"\na. What I need is time.\nb. The thing that I need is time.\nc. The thing I need is time.\nd. What I need it is time.\ne. The thing what I need is time.",
+   "c": [
+    "a, b",
+    "b, c, d",
+    "a, b, c",
+    "a, c, e",
+    "a, b, c, e"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: what은 선행사를 포함한 관계대명사로 ‘~하는 것’이라는 뜻이며 관계절 안에서 목적어 역할을 하므로 뒤에 목적어를 다시 쓰지 않는다. 선행사(the thing)가 있으면 that·which를 쓰거나 목적격 관계대명사를 생략하며, 선행사 뒤에 what을 쓰지 않는다.\n풀이 순서: ① ‘~한 것’을 나타내는 바른 꼴은 What ~, The thing (that/which) ~다. what 자체가 선행사를 포함한다. → ② 틀린 꼴을 지운다. d는 what 뒤에 it을 다시 썼고, e는 선행사 뒤에 what을 썼다. c는 관계대명사가 생략된 옳은 문장이다. → ③ 옳은 문장을 빠짐없이 묶은 a, b, c가 정답이다.\n문장별 판정:\na O. what이 ‘~한 것’을 나타낸다.\nb O. 선행사(the thing) + 목적격 관계대명사 that이다.\nc O. 선행사 뒤 목적격 관계대명사가 생략되었다.\nd X. what이 이미 need의 목적어이므로 it을 다시 쓰지 않는다.\ne X. 선행사(the thing) 뒤에는 what을 쓰지 않는다.\n정답 판단: 바르게 옮긴 문장은 a, b, c이다.\n선택지 분석:\n① [오답] 바르게 옮긴 문장 c를 빠뜨렸다. 따라서 오답이다.\n② [오답] d는 바르게 옮긴 문장이 아니고, 바르게 옮긴 문장 a를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 바르게 옮긴 문장 a, b, c를 빠짐없이 골랐으므로 정답이다.\n④ [오답] e는 바르게 옮긴 문장이 아니고, 바르게 옮긴 문장 b를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] e는 바르게 옮긴 문장이 아니다. 따라서 오답이다."
+  },
+  "F": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 문장을 모두 고르시오.",
+   "passage": "\"그가 말한 것은 놀라웠다.\"\na. The thing what he said was surprising.\nb. What he said was surprising.\nc. That he said was surprising.\nd. What he said it was surprising.\ne. The thing which he said was surprising.",
+   "c": [
+    "a, b",
+    "b, c, e",
+    "d, e",
+    "a, b, e",
+    "b, e"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: what은 선행사를 포함한 관계대명사로 ‘~하는 것’이라는 뜻이며 관계절 안에서 목적어 역할을 하므로 뒤에 목적어를 다시 쓰지 않는다. 선행사(the thing)가 있으면 that·which를 쓰거나 목적격 관계대명사를 생략하며, 선행사 뒤에 what을 쓰지 않는다.\n풀이 순서: ① ‘~한 것’을 나타내는 바른 꼴은 What ~, The thing (that/which) ~다. what 자체가 선행사를 포함한다. → ② 틀린 꼴을 지운다. a는 선행사 뒤에 what을 썼고, c의 That은 ‘~한 것’을 나타내지 못하며, d는 it을 다시 썼다. → ③ 옳은 문장을 빠짐없이 묶은 b, e가 정답이다.\n문장별 판정:\na X. 선행사(the thing) 뒤에는 what을 쓰지 않는다.\nb O. what이 ‘~한 것’을 나타낸다.\nc X. 접속사 that 뒤에는 완전한 절이 와야 하는데 said의 목적어가 없다.\nd X. what이 이미 said의 목적어이므로 it을 다시 쓰지 않는다.\ne O. 선행사(the thing) + 목적격 관계대명사 which이다.\n정답 판단: 바르게 옮긴 문장은 b, e이다.\n선택지 분석:\n① [오답] a는 바르게 옮긴 문장이 아니고, 바르게 옮긴 문장 e를 빠뜨렸다. 따라서 오답이다.\n② [오답] c는 바르게 옮긴 문장이 아니다. 따라서 오답이다.\n③ [오답] d는 바르게 옮긴 문장이 아니고, 바르게 옮긴 문장 b를 빠뜨렸다. 따라서 오답이다.\n④ [오답] a는 바르게 옮긴 문장이 아니다. 따라서 오답이다.\n⑤ [정답] 바르게 옮긴 문장 b, e를 빠짐없이 골랐으므로 정답이다."
+  }
+ },
+ "prior_review": {}
+}

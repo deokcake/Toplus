@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T12:39:26.503Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Minho not caught a big fish at the lake.",
+      "1": "Minho didn't caught a big fish at the lake.",
+      "2": "Minho was not catch a big fish at the lake.",
+      "3": "Minho did not catch a big fish at the lake.",
+      "4": "Minho does not catch a big fish at the lake."
+    },
+    "expl": "핵심 규칙: 일반동사 과거형의 부정문은 did not(didn't) + 동사원형이다. caught는 부정문에서 catch로 돌아간다.\n풀이 순서: ① 동사를 본다: caught. 일반동사의 과거형이다. → ② 일반동사 과거 부정은 did not을 쓰고, 뒤의 동사는 원형으로 돌린다: did not catch. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: did not + 동사원형 catch로 바르게 바꿨으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 일반동사 과거 부정은 did not + 동사원형으로 만들므로 오답이다.\n② [오답] didn't 뒤에는 동사원형 catch를 쓰므로 오답이다.\n③ [오답] 일반동사 부정에 was를 쓸 수 없으므로 오답이다.\n④ [정답] did not + 동사원형 catch로 바르게 바꿨으므로 정답이다.\n⑤ [오답] does not은 현재 부정이라 과거의 일과 맞지 않으므로 오답이다.",
+    "passage": "Minho caught a big fish at the lake.",
+    "stem": "다음 문장을 부정문으로 바르게 바꾼 것을 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T12:39:25.233Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T12:39:26.503Z",
+      "what": "확인 완료"
+    }
+  }
+}

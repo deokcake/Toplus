@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-28T03:02:17.133Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "주어 'I'에는 be동사 'is'를 써야 하기 때문이다.",
+      "1": "'sometimes'는 부정의 뜻이라 'eat' 뒤에 'not'을 써야 하기 때문이다.",
+      "2": "'breakfast' 앞에 관사 'a'가 빠졌기 때문이다.",
+      "3": "'sometimes'는 과거 시제에서만 쓰이기 때문이다.",
+      "4": "'eat'이 본동사이므로 불필요한 'am'을 빼고 'I sometimes eat breakfast.'로 써야 하기 때문이다."
+    },
+    "expl": "핵심 규칙: 일반동사를 현재 시제로 쓸 때는 be동사를 덧붙이지 않는다. 빈도부사는 일반동사 앞에 두고, 3인칭 단수 주어의 동사에는 -s/-es를 붙인다.\n풀이 순서: ① 밑줄 친 문장에 동사가 둘이다: be동사 am, 일반동사 eat. → ② 뒤에 목적어가 있어 일반동사가 본동사다. be동사를 빼고 ‘빈도부사 + 일반동사’로 쓴다: I sometimes eat breakfast. → ③ 이 이유를 말한 것은 ⑤.\n문장별 판정:\n정답 판단: 일반동사가 본동사라 불필요한 be동사를 빼야 한다는 이유를 바르게 설명했으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] be동사 자체가 필요 없고 I에는 is를 쓰지 않으므로 오답이다.\n② [오답] sometimes는 ‘가끔’이라 부정의 뜻이 없으므로 오답이다.\n③ [오답] 식사 이름 앞에는 관사를 쓰지 않으므로 오답이다.\n④ [오답] sometimes는 현재 시제에도 쓰므로 오답이다.\n⑤ [정답] 일반동사가 본동사라 불필요한 be동사를 빼야 한다는 이유를 바르게 설명했으므로 정답이다.",
+    "passage": "A: Do you always eat breakfast?\nB: No. <u>I am sometimes eat breakfast</u>.",
+    "stem": "다음 대화의 밑줄 친 문장이 어법상 틀린 이유를 한국어로 가장 바르게 설명한 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-28T03:02:07.656Z"
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T03:02:17.133Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:02:17.133Z",
+      "what": "확인 완료"
+    }
+  }
+}

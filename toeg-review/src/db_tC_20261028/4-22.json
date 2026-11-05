@@ -1,0 +1,30 @@
+{
+  "by": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "done": true,
+  "doneAt": "2026-10-24T03:15:50.820Z",
+  "doneBy": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "are - is",
+      "2": "are - are",
+      "3": "am - is",
+      "4": "is - are"
+    },
+    "expl": "핵심 규칙: 현재형 be동사는 I에 am, 3인칭 단수 주어에 is, you와 복수 주어에 are를 쓴다.\n풀이 순서: ① 첫 문장의 주어를 본다: Mom and Dad는 복수이므로 are. → ② 둘째 문장의 주어를 본다: The weather는 단수이므로 is. → ③ 정답은 are - is.\n문장별 판정:\n정답 판단: 복수 주어 Mom and Dad에 are, 단수 주어 The weather에 is를 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 복수 주어 Mom and Dad에는 are를 쓰므로 오답이다.\n② [정답] 복수 주어 Mom and Dad에 are, 단수 주어 The weather에 is를 바르게 썼으므로 정답이다.\n③ [오답] 단수 주어 The weather에는 is를 쓰므로 오답이다.\n④ [오답] am은 주어 I에만 쓰므로 오답이다.\n⑤ [오답] 복수 주어에 is, 단수 주어에 are를 써서 둘 다 틀렸으므로 오답이다.",
+    "passage": "- Mom and Dad _____ in the kitchen right now.\n- The weather _____ nice today for a picnic.",
+    "stem": null
+  },
+  "editors": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": "2026-10-24T03:15:49.727Z"
+  },
+  "tab": "ai7fx4gw",
+  "updatedAt": "2026-10-24T03:15:50.820Z",
+  "who": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": {
+      "at": "2026-10-24T03:15:50.820Z",
+      "what": "확인 완료"
+    }
+  }
+}

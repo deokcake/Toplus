@@ -1,0 +1,180 @@
+{
+ "key": "7-33",
+ "type": "B",
+ "grade": 7,
+ "chapter": "CH 4 be동사 부정문과 의문문",
+ "title": "주어에 맞는 be동사 부정형 (We, The dog)",
+ "total_sec": 133,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 13,
+   "screen": {
+    "text": "7급 · CH 4 be동사 부정문과 의문문 · 33번 · B 유형\n\n이 문제는 주어 We와 The dog에 맞는 be동사 부정형을 골라 바르게 짝지은 것을 찾는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 4 be동사 부정문과 의문문 · 33번 · B 유형",
+     "이 문제는 주어 We와 The dog에 맞는 be동사 부정형을 골라 바르게 짝지은 것을 찾는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 4, 33번 B 유형. 이 문제는 주어 We와 The dog에 맞는 be동사 부정형을 골라 바르게 짝지은 것을 찾는 문제예요.",
+   "caption": "We, The dog의 be동사 부정형"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.\n\n- We _______ students.\n- The dog _______ big.\n\n① is not - aren't\n② aren't - aren't\n③ am not - is not\n④ aren't - isn't\n⑤ isn't - aren't",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.",
+     "- We _______ students.",
+     "- The dog _______ big.",
+     "① is not - aren't",
+     "② aren't - aren't",
+     "③ am not - is not",
+     "④ aren't - isn't",
+     "⑤ isn't - aren't"
+    ]
+   },
+   "narration": "다음 빈칸에 알맞은 말이 바르게 짝지어진 것을 고르세요. We 빈칸 students, The dog 빈칸 big. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 부정문: am, is, are 뒤에 not → '아니다', '않다'\nI → am not\nhe, she, it처럼 I, you가 아닌 하나 → is not (isn't)\nyou, 그리고 we, they처럼 여럿 → are not (aren't)\n예) The cat isn't small. (그 고양이는 작지 않아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 부정문: am, is, are 뒤에 not → '아니다', '않다'",
+     "I → am not",
+     "he, she, it처럼 I, you가 아닌 하나 → is not (isn't)",
+     "you, 그리고 we, they처럼 여럿 → are not (aren't)",
+     "예) The cat isn't small. (그 고양이는 작지 않아요.)"
+    ]
+   },
+   "narration": "be동사 am, is, are 뒤에 not을 붙이면 '아니에요', '않아요'라는 뜻이 돼요. 주어가 I면 am not, I도 you도 아닌 하나면 is not, you이거나 여럿이면 are not이에요. is not은 isn't, are not은 aren't로 줄여 쓸 수 있어요. 예를 들어 The cat isn't small, 그 고양이는 작지 않아요.",
+   "caption": "be동사 뒤에 not, 주어에 맞춰"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 35,
+   "screen": {
+    "text": "다음 빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.\n\n- We _______ students.\n- The dog _______ big.\n\n① is not - aren't\n② aren't - aren't\n③ am not - is not\n④ aren't - isn't\n⑤ isn't - aren't",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "We _______ students."
+      ],
+      "strike": [
+       "① is not - aren't",
+       "③ am not - is not",
+       "⑤ isn't - aren't"
+      ],
+      "note": "첫 문장 주어 We = 여럿 → aren't. 첫 칸이 is not, am not, isn't인 ①, ③, ⑤를 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "The dog _______ big."
+      ],
+      "strike": [
+       "② aren't - aren't"
+      ],
+      "note": "둘째 문장 주어 The dog = 한 마리(it) → isn't. 둘째 칸이 aren't인 ②를 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ aren't - isn't"
+      ],
+      "strike": [],
+      "note": "남는 ④ → We aren't students. / The dog isn't big."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 첫 문장의 주어 We는 여럿이라 aren't를 써요. 첫 칸이 is not, am not, isn't인 1번, 3번, 5번을 지워요. 둘째, 둘째 문장의 주어 The dog는 개 한 마리라서 isn't를 쓰니까, 둘째 칸이 aren't인 2번도 지워요. 셋째, 남는 4번을 넣으면 We aren't students, 우리는 학생이 아니에요. The dog isn't big, 그 개는 크지 않아요.",
+   "caption": "We → aren't, The dog → isn't"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 23,
+   "screen": {
+    "text": "① is not - aren't  ✗  여럿인 We에 is not은 틀리고, 둘째 칸 aren't도 틀려요\n② aren't - aren't  ✗  둘째 칸: 한 마리인 The dog에는 aren't가 아니라 isn't\n③ am not - is not  ✗  첫째 칸: am not은 주어 I에만 써요\n④ aren't - isn't  ✓  We에 aren't, The dog에 isn't\n⑤ isn't - aren't  ✗  isn't와 aren't의 자리가 서로 바뀌었어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① is not - aren't  ✗  여럿인 We에 is not은 틀리고, 둘째 칸 aren't도 틀려요",
+     "② aren't - aren't  ✗  둘째 칸: 한 마리인 The dog에는 aren't가 아니라 isn't",
+     "③ am not - is not  ✗  첫째 칸: am not은 주어 I에만 써요",
+     "④ aren't - isn't  ✓  We에 aren't, The dog에 isn't",
+     "⑤ isn't - aren't  ✗  isn't와 aren't의 자리가 서로 바뀌었어요"
+    ]
+   },
+   "narration": "정답은 4번이에요. 2번은 두 칸에 모두 aren't를 썼어요. The dog는 개 한 마리라서 aren't가 아니라 isn't를 써요. 5번은 isn't와 aren't의 자리가 서로 바뀌었어요. 3번의 am not은 주어가 I일 때만 써요.",
+   "caption": "정답 ④ aren't - isn't"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ④ aren't - isn't\n\nI → am not · I, you가 아닌 하나 → is not · you, 여럿 → are not",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ aren't - isn't",
+     "I → am not · I, you가 아닌 하나 → is not · you, 여럿 → are not"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, I는 am not, I도 you도 아닌 하나는 is not, you나 여럿은 are not이에요.",
+   "caption": "I am not · 하나 is not · 여럿 are not"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.",
+  "passage": "- We _______ students.\n- The dog _______ big.",
+  "c": [
+   "is not - aren't",
+   "aren't - aren't",
+   "am not - is not",
+   "aren't - isn't",
+   "isn't - aren't"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: be동사 부정문은 be동사 뒤에 not을 붙인다(am not, is not/isn't, are not/aren't). 의문문은 be동사를 주어 앞에 두고, 대답의 be동사도 주어에 맞춘다. be동사는 I에 am, 3인칭 단수에 is, you·복수에 are를 쓴다.\n풀이 순서: ① 첫 문장의 주어: We(여럿) → aren't. → ② 둘째 문장의 주어: The dog(한 마리) → isn't. → ③ 둘을 바르게 짝지은 것은 aren't - isn't.\n문장별 판정:\n정답 판단: 두 문장의 주어에 맞는 부정형을 바르게 짝지었으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 첫째 빈칸 is not: 주어 We에는 aren't(are not)를 쓴다. 둘째 빈칸 aren't: 단수 주어 The dog에는 isn't(is not)를 쓴다. 따라서 오답이다.\n② [오답] 둘째 빈칸 aren't: 단수 주어 The dog에는 isn't(is not)를 쓴다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 am not: 주어 We에는 aren't(are not)를 쓴다. 따라서 오답이다.\n④ [정답] 두 문장의 주어에 맞는 부정형을 바르게 짝지었으므로 정답이다.\n⑤ [오답] 첫째 빈칸 isn't: 주어 We에는 aren't(are not)를 쓴다. 둘째 빈칸 aren't: 단수 주어 The dog에는 isn't(is not)를 쓴다. 따라서 오답이다."
+ }
+}

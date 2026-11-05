@@ -1,0 +1,30 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "done": true,
+  "doneAt": "2026-10-25T14:33:32.298Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: always(항상), usually(보통, 대개), often(자주), sometimes(가끔), seldom·hardly ever(거의 ~않다), never(전혀 ~않다)를 상황의 빈도에 맞게 고른다.\n풀이 순서: ① 상황에서 얼마나 자주인지를 찾는다: 1년에 한두 번. → ② 그 빈도에 맞는 부사를 고른다: 거의 하지 않는 것이므로 seldom. → ③ 정답은 never.\n문장별 판정:\n정답 판단: never는 ‘전혀 ~않다’라 상황과 맞으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] often은 ‘자주’라 상황과 맞지 않으므로 오답이다.\n② [오답] seldom은 ‘거의 ~않다’라 상황과 맞지 않으므로 오답이다.\n③ [오답] always는 ‘항상’이라 상황과 맞지 않으므로 오답이다.\n④ [오답] sometimes는 ‘가끔’이라 상황과 맞지 않으므로 오답이다.\n⑤ [정답] never는 ‘전혀 ~않다’라 상황과 맞으므로 정답이다.",
+    "passage": "Minsu hates carrots. He has not eaten them even once in his life.\n→ Minsu ________ eats carrots.",
+    "stem": "다음 상황을 읽고 빈칸에 알맞은 단어를 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:33:29.298Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-25T14:33:32.298Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:33:32.298Z",
+      "what": "확인 완료"
+    }
+  }
+}

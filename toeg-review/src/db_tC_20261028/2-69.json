@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T03:15:27.927Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "(A) to meet - (B) calling him back",
+      "1": "(A) met - (B) call him back",
+      "2": "(A) meeting - (B) calling him back",
+      "3": "(A) to meet - (B) to call him back",
+      "4": "(A) meeting - (B) to call him back"
+    },
+    "expl": "핵심 규칙: remember(forget) + 동명사는 ‘이미 한 일을 기억하다(잊다)’, remember(forget) + to부정사는 ‘앞으로 할 일을 기억하다(잊다)’는 뜻이다.\n풀이 순서: ① remember(forget) 뒤의 형태는 그 일이 이미 한 일인지 앞으로 할 일인지로 정한다. → ② (A)는 years ago가 있어 이미 한 일이다. 동명사를 쓴다. (B)는 today가 있어 앞으로 할 일이다. to부정사를 쓴다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: (A)는 years ago가 있어 이미 한 일, (B)는 today가 있어 앞으로 할 일이다.\n선택지 분석:\n① [오답] (A) to meet: 이미 한 일(years ago)이라 동명사 meeting을 써야 하므로 오답이다.\n② [오답] (A) met, (B) call him back: remember·forget 뒤에 과거형이나 동사원형을 쓸 수 없으므로 오답이다.\n③ [오답] (B) calling him back: 앞으로 할 일(today)이라 to부정사 to call him back을 써야 하므로 오답이다.\n④ [오답] (A) to meet: 이미 한 일이라 동명사 meeting을 써야 하므로 오답이다.\n⑤ [정답] (A)는 이미 한 일이라 동명사 meeting, (B)는 앞으로 할 일이라 to부정사 to call him back이 알맞으므로 정답이다.",
+    "passage": "Jane clearly remembers (A)________ Tom at the airport years ago, but she has forgotten his phone number.\nPlease don't forget (B)________ today, Jane, because he is waiting for your answer.",
+    "stem": "다음 문장의 빈칸 (A)와 (B)에 들어갈 말이 바르게 연결된 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T03:52:03.369Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T03:52:21.136Z",
+      "text": "기준 문항에 비해 문장의 길이가 짧음."
+    }
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T03:15:27.927Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:15:21.147Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:15:27.927Z",
+      "what": "확인 완료"
+    }
+  }
+}

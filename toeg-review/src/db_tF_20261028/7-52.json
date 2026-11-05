@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:45:21.326Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "pay - pays",
+      "1": "push - pushs",
+      "2": "open - opens",
+      "3": "dance - dances",
+      "4": "guess - guesses"
+    },
+    "expl": "핵심 규칙: 3인칭 단수형은 대부분 동사원형에 -s를 붙인다. -s, -sh, -ch, -x, -o로 끝나면 -es를 붙이고, 자음 + y로 끝나면 y를 i로 바꾸고 -es를 붙인다(모음 + y는 -s만). have는 has가 된다.\n풀이 순서: ① 동사의 끝 글자를 본다. -s, -sh, -ch, -x, -o로 끝나면 -es, 자음 + y로 끝나면 -ies를 붙인다. → ② 이 규칙에 어긋난 짝을 찾는다: push는 -sh로 끝나므로 pushes가 맞다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: -sh로 끝나는 동사는 -es를 붙여 pushes로 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 모음 + y로 끝나 -s만 붙였으므로 오답이다.\n② [정답] -sh로 끝나는 동사는 -es를 붙여 pushes로 써야 하므로 정답이다.\n③ [오답] 동사원형에 -s를 바르게 붙였으므로 오답이다.\n④ [오답] 동사원형에 -s를 바르게 붙였으므로 오답이다.\n⑤ [오답] -s로 끝나 -es를 바르게 붙였으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:45:16.414Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:45:21.326Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:45:21.326Z",
+      "what": "확인 완료"
+    }
+  }
+}

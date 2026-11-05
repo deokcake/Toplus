@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:11:32.657Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": null,
+      "1": "(A), (D)",
+      "2": "(C), (D)",
+      "3": "(A), (E)",
+      "4": "(B), (E)"
+    },
+    "expl": "핵심 규칙: one of + (the + 최상급 / 소유격) + 복수명사로 ‘~ 중 하나’를 나타낸다. people·men·women·children 같은 불규칙 복수형도 확인한다.\n풀이 순서: ① 밑줄은 모두 one of 뒤의 명사다. ‘~ 중 하나’이므로 복수명사가 와야 한다. → ② 단수형으로 쓴 문장을 지운다: (B) student, (C) building, (E) player. people, men, women, children처럼 -s가 없는 복수형은 옳다. → ③ 남은 두 문장을 묶은 (A), (D)가 정답이다.\n문장별 판정:\n(A) O. one of + 복수명사(hobbies)이다.\n(B) X. one of 뒤에는 복수명사(students)를 쓴다.\n(C) X. one of 뒤에는 복수명사(buildings)를 쓴다.\n(D) O. one of + 복수명사(windows)이다.\n(E) X. one of 뒤에는 복수명사(players)를 쓴다.\n정답 판단: 옳은 문장은 (A), (D)이고, 이 문장들로만 묶인 보기가 정답이다.\n선택지 분석:\n① [오답] (B)는 옳은 문장이 아니고, 옳은 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 옳은 문장 (A), (D)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (C)는 옳은 문장이 아니고, 옳은 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (E)는 옳은 문장이 아니고, 옳은 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (B), (E)는 옳은 문장이 아니고, 옳은 문장 (A), (D)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "<보기>\n(A) One of my favorite <u>hobbies</u> is hiking.\n(B) Mina is one of the smartest <u>student</u> in class.\n(C) This is one of the oldest <u>building</u> in Seoul.\n(D) One of the <u>windows</u> in my room is broken.\n(E) He is one of the best <u>player</u> on the team.",
+    "stem": "<보기>의 문장 중 밑줄 친 부분이 어법상 옳은 것만으로 묶인 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T07:11:07.945Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T07:11:32.657Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T07:11:32.657Z",
+      "what": "확인 완료"
+    }
+  }
+}

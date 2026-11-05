@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-21T07:12:25.193Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "A, B, C, E",
+      "1": "A, C, E, G",
+      "2": "B, C, D, F",
+      "3": "A, C, F, G",
+      "4": "C, D, E, G"
+    },
+    "expl": "핵심 규칙: because of·despite·in spite of 뒤에는 명사(구), because·although 뒤에는 절이 온다. so ~ that은 결과, lest ~ (should)는 ‘~하지 않도록’을 나타내고, 간접의문문은 ‘의문사 + 주어 + 동사’ 어순이다. however(no matter how) 뒤에는 형용사·부사가 바로 온다.\n풀이 순서: ① 문장마다 접속사·전치사 뒤에 온 것이 명사(구)인지 절인지, 간접의문문의 어순이 바른지 확인한다. → ② B는 부사 hard 앞에 such를 썼고, D는 Although 뒤에 명사만 왔으며, F는 간접의문문이 의문문 어순이다. 나머지 넷은 옳다. → ③ 옳은 문장만 모은 A, C, E, G를 고른다.\n문장별 판정:\nA) 옳음: because of + 명사.\nB) 틀림: 부사 hard 앞에는 such가 아니라 so를 쓴다.\nC) 옳음: lest + 주어 + (should) + 동사원형.\nD) 틀림: although 뒤에는 절이 와야 한다. Despite the rain.\nE) 옳음: however + 형용사 + 주어 + 동사.\nF) 틀림: 간접의문문 어순은 where he went.\nG) 옳음: no matter what + 동사.\n정답 판단: 어법상 옳은 문장은 A, C, E, G이다.\n선택지 분석:\n① [오답] B는 옳은 문장이 아니고, 옳은 문장 G를 빠뜨렸다. 따라서 오답이다.\n② [정답] 옳은 문장 A, C, E, G를 빠짐없이 골랐으므로 정답이다.\n③ [오답] B, D, F는 옳은 문장이 아니고, 옳은 문장 A, E, G를 빠뜨렸다. 따라서 오답이다.\n④ [오답] F는 옳은 문장이 아니고, 옳은 문장 E를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] D는 옳은 문장이 아니고, 옳은 문장 A를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "A) Because of the heavy traffic, we arrived late.\nB) Mina worked such hard that she finished early.\nC) Lest Tom forget, I sent him a reminder.\nD) Although the rain, they kept playing.\nE) However tired she was, Jane kept working.\nF) I wonder where did he go.\nG) No matter what happens, stay calm.",
+    "stem": "다음 중 어법상 옳은 것을 모두 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T07:12:07.819Z"
+  },
+  "tab": "fi3f83jb",
+  "updatedAt": "2026-10-21T07:12:25.193Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T07:12:25.193Z",
+      "what": "확인 완료"
+    }
+  }
+}

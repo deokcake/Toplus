@@ -1,0 +1,174 @@
+{
+ "key": "5-33",
+ "type": "D",
+ "grade": 5,
+ "chapter": "CH 4 현재진행형",
+ "title": "현재진행형 틀린 문장 찾기",
+ "total_sec": 130,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "5급 · CH 4 현재진행형 · 33번 · D 유형\n\n이 문제는 현재진행형 문장 다섯 개 가운데 형태가 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 4 현재진행형 · 33번 · D 유형",
+     "이 문제는 현재진행형 문장 다섯 개 가운데 형태가 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 4, 33번 D 유형. 이 문제는 현재진행형 문장 다섯 개 가운데 형태가 틀린 문장을 고르는 문제예요.",
+   "caption": "현재진행형 틀린 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "틀린 문장을 고르시오.\n\n① Is your dad driving now?\n② They aren't eating lunch.\n③ She not is singing a song.\n④ I am drawing a picture.\n⑤ Are you making a cake?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "틀린 문장을 고르시오.",
+     "① Is your dad driving now?",
+     "② They aren't eating lunch.",
+     "③ She not is singing a song.",
+     "④ I am drawing a picture.",
+     "⑤ Are you making a cake?"
+    ]
+   },
+   "narration": "틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n현재진행형(…하고 있다) = am/is/are + 동사의 -ing형\nI → am · 3인칭 단수(he, she, it, Tom) → is · you, 복수 → are\n부정문: not은 be동사 바로 뒤 (is not = isn't)\n예, 아니요 의문문: be동사를 주어 앞에\n예) He is not sleeping now. (그는 지금 자고 있지 않아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재진행형(…하고 있다) = am/is/are + 동사의 -ing형",
+     "I → am · 3인칭 단수(he, she, it, Tom) → is · you, 복수 → are",
+     "부정문: not은 be동사 바로 뒤 (is not = isn't)",
+     "예, 아니요 의문문: be동사를 주어 앞에",
+     "예) He is not sleeping now. (그는 지금 자고 있지 않아요.)"
+    ]
+   },
+   "narration": "현재진행형은 be동사 뒤에 동사의 ing형을 써서 주로 지금 하고 있는 일을 나타내요. be동사는 주어에 맞춰 I에는 am, he 같은 3인칭 단수에는 is, you와 복수에는 are를 써요. 진행형의 부정문은 be동사 바로 뒤에 not을 쓰고, 예, 아니요로 묻는 의문문은 be동사를 주어 앞에 써요. He is not sleeping now. 그는 지금 자고 있지 않아요.",
+   "caption": "be동사 + 동사의 ing형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "틀린 문장을 고르시오.\n\n① Is your dad driving now?\n② They aren't eating lunch.\n③ She not is singing a song.\n④ I am drawing a picture.\n⑤ Are you making a cake?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "② They aren't",
+       "④ I am"
+      ],
+      "strike": [],
+      "note": "평서문·부정문 ②④: They → aren't, I → am → 맞다"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "① Is your dad",
+       "⑤ Are you"
+      ],
+      "strike": [],
+      "note": "의문문은 be동사가 주어 앞: ① Is your dad, ⑤ Are you → 맞다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "not is"
+      ],
+      "strike": [],
+      "note": "③ not이 be동사 앞(not is) ✗ → is not. 틀린 문장은 ③"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 주어와 be동사를 맞춰 보면, 2번 They에는 aren't, 4번 I에는 am을 써서 맞아요. 둘째, 의문문인 1번은 주어 your dad 앞에 Is, 5번은 주어 you 앞에 Are를 써서 맞아요. 셋째, 3번은 not이 be동사 is 앞에 있으니 is not으로 바꿔야 해요. She is not singing a song. 그녀는 노래를 부르고 있지 않아요. 따라서 틀린 문장은 3번이에요.",
+   "caption": "주어와 be동사 → 의문문 → ③"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① Is your dad driving now?  ✗  한 사람 your dad → Is, 의문문이라 be동사가 주어 앞 → 맞는 문장\n② They aren't eating lunch.  ✗  여럿인 They → aren't(are not) → 맞는 문장\n③ She not is singing a song.  ✓  not은 be동사 뒤 → not is를 is not으로 (틀린 문장)\n④ I am drawing a picture.  ✗  I → am + drawing → 맞는 문장\n⑤ Are you making a cake?  ✗  주어 you → Are, 의문문이라 be동사가 주어 앞 → 맞는 문장",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Is your dad driving now?  ✗  한 사람 your dad → Is, 의문문이라 be동사가 주어 앞 → 맞는 문장",
+     "② They aren't eating lunch.  ✗  여럿인 They → aren't(are not) → 맞는 문장",
+     "③ She not is singing a song.  ✓  not은 be동사 뒤 → not is를 is not으로 (틀린 문장)",
+     "④ I am drawing a picture.  ✗  I → am + drawing → 맞는 문장",
+     "⑤ Are you making a cake?  ✗  주어 you → Are, 의문문이라 be동사가 주어 앞 → 맞는 문장"
+    ]
+   },
+   "narration": "정답은 3번이에요. 주어 She에 is를 쓴 것은 맞지만, not은 be동사 앞이 아니라 바로 뒤에 와서 She is not singing이 되어야 해요. 2번 aren't는 are not을 줄인 말이라 맞아요. 1번은 의문문이라 Is가 주어 your dad 앞에 온 것이 맞아요.",
+   "caption": "정답 ③ not is → is not"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ She not is singing a song.\n\n진행형 부정문: be동사 + not + 동사의 -ing형",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ She not is singing a song.",
+     "진행형 부정문: be동사 + not + 동사의 -ing형"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 진행형 부정문에서 not은 be동사 바로 뒤에 써요.",
+   "caption": "not은 be동사 바로 뒤"
+  }
+ ],
+ "source": {
+  "stem": "틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Is your dad driving now?",
+   "They aren't eating lunch.",
+   "She not is singing a song.",
+   "I am drawing a picture.",
+   "Are you making a cake?"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 현재진행형은 am/is/are + 동사원형-ing로 쓰고, 부정문은 be동사 뒤에 not을, 의문문은 be동사를 주어 앞에 둔다. be동사는 주어에 맞춰 am/is/are를 쓴다.\n풀이 순서: ① 문장마다 주어를 찾아 be동사(am/is/are)가 맞는지 본다. 의문문의 주어는 be동사 뒤에 있다. → ② not의 자리, -ing형, be동사 대신 do/does를 쓰지 않았는지도 본다. → ③ 선택지 ③은 not이 be동사 앞에 있다(is not singing). 정답은 ③.\n문장별 판정:\n정답 판단: 부정문은 be동사 뒤에 not을 두어 is not singing으로 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 주어에 맞는 be동사와 -ing형으로 진행형을 바르게 만들었으므로 오답이다.\n② [오답] 주어에 맞는 be동사와 -ing형으로 진행형을 바르게 만들었으므로 오답이다.\n③ [정답] 부정문은 be동사 뒤에 not을 두어 is not singing으로 써야 하므로 정답이다.\n④ [오답] 주어에 맞는 be동사와 -ing형으로 진행형을 바르게 만들었으므로 오답이다.\n⑤ [오답] 주어에 맞는 be동사와 -ing형으로 진행형을 바르게 만들었으므로 오답이다."
+ }
+}

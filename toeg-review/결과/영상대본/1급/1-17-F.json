@@ -1,0 +1,181 @@
+{
+ "key": "1-17",
+ "type": "F",
+ "grade": 1,
+ "chapter": "CH 2 시제",
+ "title": "현재완료와 끝난 과거 시점",
+ "total_sec": 129,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "1급 · CH 2 시제 · 17번 · F 유형\n\n이 문제는 현재완료와 과거형의 쓰임을 따져 어법상 어색한 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 2 시제 · 17번 · F 유형",
+     "이 문제는 현재완료와 과거형의 쓰임을 따져 어법상 어색한 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 2, 17번 F 유형. 이 문제는 현재완료와 과거형의 쓰임을 따져 어법상 어색한 문장을 고르는 문제예요.",
+   "caption": "현재완료와 끝난 과거 시점"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 어법상 어색한 문장을 고르시오.\n\n① Our team has won three games so far.\n② The movie started at seven o'clock.\n③ Jiwoo has called me two hours ago.\n④ Have you finished the book yet?\n⑤ He has been sick since Monday.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 어법상 어색한 문장을 고르시오.",
+     "① Our team has won three games so far.",
+     "② The movie started at seven o'clock.",
+     "③ Jiwoo has called me two hours ago.",
+     "④ Have you finished the book yet?",
+     "⑤ He has been sick since Monday."
+    ]
+   },
+   "narration": "다음 중 어법상 어색한 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\n현재완료 = have/has + 과거분사\n과거의 일이 지금과 이어질 때 (경험·완료·계속·결과)\nsince, already, just, yet, so far 등과 자주 함께 써요\n끝난 과거 시점 (yesterday, last ~, ~ ago, in 2020) → 현재완료 ✗, 과거형 ○\n예) He has played the piano for five years. (그는 5년 동안 피아노를 쳐 왔어요.)  He played it yesterday. (그는 어제 그것을 쳤어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재완료 = have/has + 과거분사",
+     "과거의 일이 지금과 이어질 때 (경험·완료·계속·결과)",
+     "since, already, just, yet, so far 등과 자주 함께 써요",
+     "끝난 과거 시점 (yesterday, last ~, ~ ago, in 2020) → 현재완료 ✗, 과거형 ○",
+     "예) He has played the piano for five years. (그는 5년 동안 피아노를 쳐 왔어요.)  He played it yesterday. (그는 어제 그것을 쳤어요.)"
+    ]
+   },
+   "narration": "현재완료는 have나 has 뒤에 과거분사를 쓰고, 과거의 일이 지금과 이어질 때 써요. since, already, just, yet, so far와 자주 함께 써요. 하지만 yesterday나 two days ago처럼 끝난 과거의 때를 밝히면 현재완료가 아니라 과거형을 써요. He has played the piano for five years. 그는 5년 동안 피아노를 쳐 왔어요. He played it yesterday. 그는 어제 그것을 쳤어요.",
+   "caption": "끝난 과거 시점엔 과거형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 37,
+   "screen": {
+    "text": "다음 중 어법상 어색한 문장을 고르시오.\n\n① Our team has won three games so far.\n② The movie started at seven o'clock.\n③ Jiwoo has called me two hours ago.\n④ Have you finished the book yet?\n⑤ He has been sick since Monday.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "so far",
+       "at seven o'clock",
+       "two hours ago",
+       "yet",
+       "since Monday"
+      ],
+      "strike": [],
+      "note": "문장마다 때를 나타내는 말 찾기 → 동사의 시제와 짝짓기"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① Our team has won three games so far.",
+       "② The movie started at seven o'clock.",
+       "④ Have you finished the book yet?",
+       "⑤ He has been sick since Monday."
+      ],
+      "note": "①④⑤ so far·yet·since Monday + 현재완료 ○ / ② 정해진 과거의 때(일곱 시) + 과거형 started ○"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "two hours ago"
+      ],
+      "strike": [
+       "has called"
+      ],
+      "note": "③ two hours ago = 끝난 과거 시점 + has called ✗ → Jiwoo called me two hours ago."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 때를 나타내는 말을 찾아 동사의 시제와 짝지어요. 둘째, 1번, 4번, 5번은 so far, yet, since Monday와 함께 현재완료를 썼고, 2번은 일곱 시라는 정해진 과거의 때에 과거형 started를 써서 모두 바른 문장이에요. 셋째, 3번은 끝난 과거 시점 two hours ago와 현재완료 has called를 함께 써서 어색하니, 과거형 called로 고쳐요. Jiwoo called me two hours ago. 지우는 두 시간 전에 나에게 전화했어요.",
+   "caption": "때 표현 찾기 → 시제 짝짓기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① Our team has won three games so far.  ✗  so far + 현재완료: 지금까지의 결과 (바른 문장)\n② The movie started at seven o'clock.  ✗  정해진 과거의 때(일곱 시) + 과거형 started (바른 문장)\n③ Jiwoo has called me two hours ago.  ✓  two hours ago는 끝난 과거 시점 → called로\n④ Have you finished the book yet?  ✗  yet + 현재완료: 끝냈는지 물어요 (바른 문장)\n⑤ He has been sick since Monday.  ✗  since Monday + 현재완료: 계속된 상태 (바른 문장)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Our team has won three games so far.  ✗  so far + 현재완료: 지금까지의 결과 (바른 문장)",
+     "② The movie started at seven o'clock.  ✗  정해진 과거의 때(일곱 시) + 과거형 started (바른 문장)",
+     "③ Jiwoo has called me two hours ago.  ✓  two hours ago는 끝난 과거 시점 → called로",
+     "④ Have you finished the book yet?  ✗  yet + 현재완료: 끝냈는지 물어요 (바른 문장)",
+     "⑤ He has been sick since Monday.  ✗  since Monday + 현재완료: 계속된 상태 (바른 문장)"
+    ]
+   },
+   "narration": "정답은 two hours ago와 현재완료를 함께 쓴 3번이에요. 5번은 Monday가 지난 요일이라 헷갈릴 수 있지만, since Monday는 월요일부터 지금까지를 뜻해서 현재완료와 잘 어울려요. 2번은 일곱 시라는 정해진 때에 이미 일어난 일이라 과거형 started가 맞아요.",
+   "caption": "정답 ③ → called"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ③ Jiwoo has called me two hours ago.\n\n끝난 과거 시점(yesterday, last ~, ~ ago, in 2020) → 과거형 (현재완료 ✗)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ Jiwoo has called me two hours ago.",
+     "끝난 과거 시점(yesterday, last ~, ~ ago, in 2020) → 과거형 (현재완료 ✗)"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, two hours ago처럼 끝난 과거 시점을 밝히면 현재완료가 아니라 과거형을 써요.",
+   "caption": "끝난 과거 시점 → 과거형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 어법상 어색한 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Our team has won three games so far.",
+   "The movie started at seven o'clock.",
+   "Jiwoo has called me two hours ago.",
+   "Have you finished the book yet?",
+   "He has been sick since Monday."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 현재완료(have/has + p.p.)는 현재와 연결된 경험·결과·계속을 나타내며, yesterday, last Monday, ago, in 2021처럼 끝난 특정 과거 시점과 함께 쓰지 않는다.\n풀이 순서: ① 문장마다 시간 표현을 찾아 동사 시제와 짝짓는다. → ② since·for·ever·already·just는 현재완료와, 끝난 과거 시점은 과거형과 어울린다. → ③ 선택지 ③은 현재완료를 끝난 과거 시점(two hours ago)과 함께 썼으므로 과거형(called)으로 고쳐야 한다.\n문장별 판정:\n정답 판단: ‘Jiwoo has called me two hours ago.’은 끝난 과거 시점 two hours ago와 현재완료를 함께 썼다. Jiwoo called me two hours ago.로 고쳐야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] ‘Our team has won three games so far.’은 so far와 현재완료로 지금까지의 결과를 나타낸 올바른 문장이므로 오답이다.\n② [오답] ‘The movie started at seven o'clock.’은 특정 과거 시각에 단순과거를 쓴 올바른 문장이므로 오답이다.\n③ [정답] ‘Jiwoo has called me two hours ago.’은 끝난 과거 시점 two hours ago와 현재완료를 함께 썼다. Jiwoo called me two hours ago.로 고쳐야 하므로 정답이다.\n④ [오답] ‘Have you finished the book yet?’은 yet과 현재완료로 완료 여부를 묻는 올바른 문장이므로 오답이다.\n⑤ [오답] ‘He has been sick since Monday.’은 since와 현재완료로 계속된 상태를 나타낸 올바른 문장이므로 오답이다."
+ }
+}

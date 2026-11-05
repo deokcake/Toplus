@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T03:31:15.301Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "<u>Leo's</u> cap is red. → <u>His</u> cap is red.",
+      "1": "<u>Jane and Mina</u> are sisters. → <u>We</u> are sisters.",
+      "2": "<u>Tom and Ben</u> are friends. → <u>They</u> are friends.",
+      "3": "<u>Kelly</u> is a nurse. → <u>She</u> is a nurse.",
+      "4": "<u>My dad and I</u> are here. → <u>We</u> are here."
+    },
+    "expl": "핵심 규칙: 나를 포함한 여럿은 we, 나를 포함하지 않은 여럿은 they, 남자 한 명은 he, 여자 한 명은 she로 바꾸고, 소유를 나타내는 Tom's는 his, Kelly's는 her로 바꾼다.\n풀이 순서: ① 밑줄 친 말에 I(나)나 You(너)가 들어 있는지, 몇 명인지, 남자인지 여자인지 본다. → ② 화살표 뒤의 대명사와 맞는지 견준다. → ③ 선택지 ②의 Jane and Mina는 나를 포함하지 않아 They다. 정답은 ②.\n문장별 판정:\n정답 판단: 나를 포함하지 않은 여럿은 We가 아니라 They로 바꿔야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 남자 Leo의 소유를 His로 바르게 바꿨으므로 오답이다.\n② [정답] 나를 포함하지 않은 여럿은 We가 아니라 They로 바꿔야 하므로 정답이다.\n③ [오답] 나를 포함하지 않은 여럿을 They로 바르게 바꿨으므로 오답이다.\n④ [오답] 여자 한 명 Kelly를 She로 바르게 바꿨으므로 오답이다.\n⑤ [오답] 나를 포함한 여럿을 We로 바르게 바꿨으므로 오답이다.",
+    "passage": "",
+    "stem": "밑줄 친 부분을 대명사를 사용해 바꿔 쓴 문장이 옳지 않은 것을 고르시오. (단, Ben·Leo·Tom은 남자, Jane·Kelly·Mina는 여자)"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T03:31:12.477Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T03:31:15.301Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:31:15.301Z",
+      "what": "확인 완료"
+    }
+  }
+}

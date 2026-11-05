@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T09:42:29.060Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 시각·정오·밤 앞에는 at, 요일·날짜 앞에는 on, 월·계절·연도·오전/오후/저녁 앞에는 in을 쓴다. 장소는 특정 지점에 at, 표면 위에 on, 안쪽이나 도시·나라에 in을 쓴다.\n풀이 순서: ① (A) 뒤의 말: 2015(연도) → in. → ② (B) 뒤의 말: May(달) → in. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 연도 앞에 in, 달 앞에 in을 바르게 짝지었으므로 정답은 ③이다.\n선택지 분석:\n① [오답] (A): 연도 앞에는 in을, (B): 달 앞에는 in을 쓰므로 오답이다.\n② [오답] (B): 달 앞에는 in을 쓰므로 오답이다.\n③ [정답] 연도 앞에 in, 달 앞에 in을 바르게 짝지었으므로 정답이다.\n④ [오답] (A): 연도 앞에는 in을 쓰므로 오답이다.\n⑤ [오답] (A): 연도 앞에는 in을 쓰므로 오답이다.",
+    "passage": "My sister was born (A)_______ 2015. Her birthday is (B)_______ May.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T09:42:23.476Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T09:42:29.060Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T09:42:29.060Z",
+      "what": "확인 완료"
+    }
+  }
+}

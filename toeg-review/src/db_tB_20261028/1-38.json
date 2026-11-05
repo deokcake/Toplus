@@ -1,0 +1,36 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T08:24:43.184Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": 3,
+    "c": {
+      "0": "has sent Jane",
+      "1": "was sending Jane",
+      "2": "was sent to Jane",
+      "3": "had sent Jane",
+      "4": "is sent Jane"
+    },
+    "expl": "핵심 규칙: 4형식 문장의 사물 목적어를 주어로 수동태를 만들면 be + 과거분사 뒤 사람 앞에 전치사(to)를 쓴다. 과거 문장이면 was/were를 쓴다.\n풀이 순서: ① 능동문의 구조를 나눈다: sent(동사) + Jane(사람) + a certificate(사물). → ② 사물 목적어(a certificate)가 주어가 되면 동사는 과거의 수동태(was + 과거분사)가 되고, 남은 사람 목적어 앞에는 to를 붙인다. → ③ 능동형(have/had + 과거분사, was + -ing)과 현재형을 지운다. 정답은 was sent to Jane.\n문장별 판정:\n정답 판단: 과거 능동문이므로 was sent, 사람 앞에는 to를 붙인 was sent to Jane가 알맞다. 정답은 ③이다.\n선택지 분석:\n① [오답] has sent Jane: 현재완료 능동형이라 주어(The certificate)가 받은 것이 되는 수동 관계를 나타내지 못한다.\n② [오답] was sending Jane: 과거진행 능동형이라 수동 관계를 나타내지 못한다.\n③ [정답] 과거 능동문이므로 was sent, 사람 앞에는 to를 붙인 was sent to Jane가 알맞다. 정답이다.\n④ [오답] had sent Jane: 과거완료 능동형이라 수동 관계를 나타내지 못한다.\n⑤ [오답] is sent Jane: 현재 수동이라 과거 문장의 시제와 맞지 않는다.",
+    "passage": "The teacher sent Jane a certificate for her perfect attendance.\n→ The certificate (<u>        </u>) for her perfect attendance by the teacher.",
+    "stem": "다음 문장을 ‘The certificate’을 주어로 하는 수동태 문장으로 바꿀 때, 빈칸에 들어갈 말로 가장 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-04T11:11:47.371Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": null
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T08:24:43.184Z",
+  "verdict": null,
+  "verdictAt": "2026-10-07T02:45:05.914Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T08:24:43.184Z",
+      "what": "확인 완료"
+    }
+  }
+}

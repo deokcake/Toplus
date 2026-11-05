@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T05:23:17.519Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "until - by",
+      "1": "for - until",
+      "2": "by - until",
+      "3": "at - by",
+      "4": "in - to"
+    },
+    "expl": "핵심 규칙: by는 ‘~까지’ 한 번 끝내야 하는 완료 기한(submit, return, finish, be back)을, until은 ‘~까지’ 계속되는 상태·동작의 끝(stay, wait, be open, last)을 나타낸다.\n풀이 순서: ① 동사가 한 번에 끝나는 동작인지, 계속되는 동작·상태인지 본다. → ② come home(집에 오다)은 9시까지 마쳐야 하는 일이라 기한의 by, be open(열려 있다)은 10시까지 이어지는 상태라 until을 쓴다. → ③ 정답은 by - until.\n문장별 판정:\n정답 판단: 첫째 문장은 9시까지 집에 와야 하는 기한이고, by, 둘째 문장은 가게 문이 밤 10시까지 계속 열려 있고, until이므로 정답은 ③이다.\n선택지 분석:\n① [오답] 첫째 빈칸 until: 9시까지 집에 와야 하는 기한이므로 by이다, 둘째 빈칸 by: 가게 문이 밤 10시까지 계속 열려 있으므로 until이다. 따라서 오답이다.\n② [오답] 첫째 빈칸 for: 9시까지 집에 와야 하는 기한이므로 by이다. 따라서 오답이다.\n③ [정답] 첫째 문장은 9시까지 집에 와야 하는 기한이고, by, 둘째 문장은 가게 문이 밤 10시까지 계속 열려 있고, until이므로 정답이다.\n④ [오답] 첫째 빈칸 at: 9시까지 집에 와야 하는 기한이므로 by이다, 둘째 빈칸 by: 가게 문이 밤 10시까지 계속 열려 있으므로 until이다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 in: 9시까지 집에 와야 하는 기한이므로 by이다, 둘째 빈칸 to: 가게 문이 밤 10시까지 계속 열려 있으므로 until이다. 따라서 오답이다.",
+    "passage": "- You have to come home _____ nine.\n- The store is open _____ ten p.m.",
+    "stem": "다음 빈칸에 들어갈 가장 적절한 전치사를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:23:04.549Z"
+  },
+  "tab": "fhh9u0lo",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:23:17.519Z",
+      "what": "확인 완료"
+    }
+  }
+}

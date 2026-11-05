@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T18:29:42.217Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "She said <u>that</u> the store was closed.",
+      "1": "Who is <u>that</u> girl?",
+      "2": "<u>That</u> car is very fast.",
+      "3": "I don't like <u>that</u> color.",
+      "4": "<u>That</u> answer is correct."
+    },
+    "expl": "핵심 규칙: 접속사 that은 뒤에 완전한 절(주어 + 동사)을 이끌어 문장의 주어·목적어·보어나 가주어 It의 진주어가 되고, 지시형용사 that은 뒤의 명사를 꾸며 ‘저 ~’라는 뜻이다.\n풀이 순서: ① that 바로 뒤를 본다. 명사 하나가 오면 지시형용사, ‘주어 + 동사’가 오면 접속사다. → ② 선택지 ①만 that 뒤에 주어 + 동사(the store was)가 이어진다. 나머지는 that 뒤에 명사(girl, car, color, answer)가 온다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: 접속사 that: 완전한 절을 이끌어 said의 목적어 역할을 하므로 나머지와 쓰임이 달라 정답은 ①이다.\n선택지 분석:\n① [정답] 접속사 that: 완전한 절을 이끌어 said의 목적어 역할을 하므로 나머지와 쓰임이 달라 정답이다.\n② [오답] 지시형용사 that: 뒤의 명사(girl)를 꾸미므로 오답이다.\n③ [오답] 지시형용사 that: 뒤의 명사(car)를 꾸미므로 오답이다.\n④ [오답] 지시형용사 that: 뒤의 명사(color)를 꾸미므로 오답이다.\n⑤ [오답] 지시형용사 that: 뒤의 명사(answer)를 꾸미므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:29:32.902Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:29:42.217Z",
+      "what": "확인 완료"
+    }
+  }
+}

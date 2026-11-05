@@ -1,0 +1,187 @@
+{
+ "key": "7-30",
+ "type": "D",
+ "grade": 7,
+ "chapter": "CH 3 be동사",
+ "title": "주어와 be동사 am, is, are의 짝",
+ "total_sec": 130,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 13,
+   "screen": {
+    "text": "7급 · CH 3 be동사 · 30번 · D 유형\n\n이 문제는 네 문장에서 주어에 맞게 be동사 am, is, are를 쓴 옳은 문장을 모두 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 3 be동사 · 30번 · D 유형",
+     "이 문제는 네 문장에서 주어에 맞게 be동사 am, is, are를 쓴 옳은 문장을 모두 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 3, 30번 D 유형. 이 문제는 네 문장에서 주어에 맞게 be동사 am, is, are를 쓴 옳은 문장을 모두 고르는 문제예요.",
+   "caption": "주어와 be동사의 짝"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 19,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분이 문법적으로 옳은 것을 모두 고르시오.\n\n(가) The boys <u>is</u> busy.\n(나) The dog <u>is</u> cute.\n(다) I <u>am</u> happy.\n(라) We <u>is</u> ready.\n\n① (가), (다)\n② (나), (다)\n③ (나), (라)\n④ (가), (라)\n⑤ (가), (나)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 밑줄 친 부분이 문법적으로 옳은 것을 모두 고르시오.",
+     "(가) The boys <u>is</u> busy.",
+     "(나) The dog <u>is</u> cute.",
+     "(다) I <u>am</u> happy.",
+     "(라) We <u>is</u> ready.",
+     "① (가), (다)",
+     "② (나), (다)",
+     "③ (나), (라)",
+     "④ (가), (라)",
+     "⑤ (가), (나)"
+    ]
+   },
+   "narration": "다음 중 밑줄 친 부분이 문법적으로 옳은 것을 모두 고르세요. 가부터 라까지 네 문장을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 현재형 am, is, are: 주로 '이다', '있다'\nI → am, you(한 명이어도) → are\nhe, she, it처럼 한 명·한 마리·한 개 → is\nwe, they처럼 여럿 → are\n예) We are in the classroom. (우리는 교실에 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 현재형 am, is, are: 주로 '이다', '있다'",
+     "I → am, you(한 명이어도) → are",
+     "he, she, it처럼 한 명·한 마리·한 개 → is",
+     "we, they처럼 여럿 → are",
+     "예) We are in the classroom. (우리는 교실에 있어요.)"
+    ]
+   },
+   "narration": "be동사의 현재형 am, is, are는 주로 '이다'나 '있다'라는 뜻이고, 주어에 맞춰 골라요. 주어가 I이면 am, you이면 한 명이어도 are를 써요. he, she, it처럼 한 명, 한 마리, 한 개이면 is, we, they처럼 여럿이면 are를 써요. 예를 들어 We are in the classroom, 우리는 교실에 있어요.",
+   "caption": "주어에 맞춰 am·is·are"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분이 문법적으로 옳은 것을 모두 고르시오.\n\n(가) The boys <u>is</u> busy.\n(나) The dog <u>is</u> cute.\n(다) I <u>am</u> happy.\n(라) We <u>is</u> ready.\n\n① (가), (다)\n② (나), (다)\n③ (나), (라)\n④ (가), (라)\n⑤ (가), (나)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "(가) The boys",
+       "(나) The dog",
+       "(다) I",
+       "(라) We"
+      ],
+      "strike": [],
+      "note": "주어 찾기: The boys·We = 여럿, The dog = 한 마리, I"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "(가) The boys <u>is</u> busy.",
+       "(라) We <u>is</u> ready."
+      ],
+      "note": "(가) The boys + is → X, (라) We + is → X (둘 다 are)"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "(나) The dog <u>is</u> cute.",
+       "(다) I <u>am</u> happy.",
+       "② (나), (다)"
+      ],
+      "strike": [
+       "① (가), (다)",
+       "③ (나), (라)",
+       "④ (가), (라)",
+       "⑤ (가), (나)"
+      ],
+      "note": "옳은 문장 (나), (다) → ②. (가)나 (라)가 들어간 보기는 지운다."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 주어를 보면 The boys와 We는 여럿, The dog은 개 한 마리, 그리고 I가 있어요. 둘째, 가 문장의 The boys와 라 문장의 We에 is를 써서 틀렸어요. 둘 다 여럿이라 are를 써야 해요. 셋째, 남는 나와 다가 옳아요, 따라서 2번이 답이에요. The dog is cute, 그 개는 귀여워요, 그리고 I am happy, 나는 행복해요.",
+   "caption": "주어 찾기 → 틀린 문장 지우기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 20,
+   "screen": {
+    "text": "① (가), (다)  ✗  (가) The boys는 여럿 → is가 아니라 are\n② (나), (다)  ✓  The dog에 is, I에 am을 바르게 씀\n③ (나), (라)  ✗  (라) We는 여럿 → are\n④ (가), (라)  ✗  (가), (라) 둘 다 틀린 문장\n⑤ (가), (나)  ✗  (가) The boys is는 틀림, (다)를 빠뜨림",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① (가), (다)  ✗  (가) The boys는 여럿 → is가 아니라 are",
+     "② (나), (다)  ✓  The dog에 is, I에 am을 바르게 씀",
+     "③ (나), (라)  ✗  (라) We는 여럿 → are",
+     "④ (가), (라)  ✗  (가), (라) 둘 다 틀린 문장",
+     "⑤ (가), (나)  ✗  (가) The boys is는 틀림, (다)를 빠뜨림"
+    ]
+   },
+   "narration": "정답은 2번이에요. 1번이나 5번을 골랐다면 The boys를 놓친 거예요. 소년이 여러 명이라서 are를 써요. 3번을 골랐다면 We를 놓친 거예요. We는 우리, 곧 여럿이라서 are를 써요.",
+   "caption": "정답 ② (나), (다)"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 13,
+   "screen": {
+    "text": "정답 ② (나), (다)\n\nI → am · you, 여럿 → are · he, she, it처럼 하나 → is",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② (나), (다)",
+     "I → am · you, 여럿 → are · he, she, it처럼 하나 → is"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 주어가 I이면 am, you나 여럿이면 are, he, she, it처럼 하나이면 is를 써요.",
+   "caption": "we와 여럿은 are"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 밑줄 친 부분이 문법적으로 옳은 것을 모두 고르시오.",
+  "passage": "(가) The boys <u>is</u> busy.\n(나) The dog <u>is</u> cute.\n(다) I <u>am</u> happy.\n(라) We <u>is</u> ready.",
+  "c": [
+   "(가), (다)",
+   "(나), (다)",
+   "(나), (라)",
+   "(가), (라)",
+   "(가), (나)"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 각 문장의 주어를 보고 밑줄 친 be동사를 판단한다. 복수 주어에는 are, 3인칭 단수 주어에는 is, I에는 am을 쓴다.\n풀이 순서: ① 문장마다 주어가 I인지, 한 사람·한 개인지, you·여럿인지 가른다. → ② 밑줄 친 be동사가 그에 맞는지 본다. (가) The boys + is(X), (나) O, (다) O, (라) We + is(X). → ③ 옳은 것만 모으면 (나), (다)\n문장별 판정:\n(가) X. 복수 주어 The boys에는 are를 써야 한다.\n(나) O. 단수 주어 The dog에 is를 썼다.\n(다) O. 주어 I에 am을 썼다.\n(라) X. 주어 We에는 are를 써야 한다.\n정답 판단: 밑줄 친 부분이 옳은 문장은 (나), (다)이다.\n선택지 분석:\n① [오답] (가)는 옳은 문장이 아니고, 옳은 문장 (나)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 옳은 문장 (나), (다)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (라)는 옳은 문장이 아니고, 옳은 문장 (다)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (가), (라)는 옳은 문장이 아니고, 옳은 문장 (나), (다)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (가)는 옳은 문장이 아니고, 옳은 문장 (다)를 빠뜨렸다. 따라서 오답이다."
+ }
+}

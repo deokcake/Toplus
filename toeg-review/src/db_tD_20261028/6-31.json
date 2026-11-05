@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T04:19:10.700Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "enjoy - enjoys",
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": "miss - misses"
+    },
+    "expl": "핵심 규칙: 3인칭 단수 현재형은 대부분 -s를 붙이고, s·x·sh·ch·o로 끝나면 -es(washes, fixes, goes), 자음 + y는 y를 i로 바꾸고 -es(studies)를 붙인다. 모음 + y는 -s만 붙이고(plays), have는 has가 된다.\n풀이 순서: ① 동사원형의 끝을 본다: s·x·sh·ch·o인지, 자음 + y인지, have인지. → ② 그 끝에 맞는 규칙(-es, -ies, has)대로 되었는지 본다. → ③ go는 o로 끝나므로 goes다. 정답은 go - gos.\n문장별 판정:\n정답 판단: o로 끝나면 -es를 붙여 goes로 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 모음 + y라 -s만 붙인 옳은 형태이므로 오답이다.\n② [정답] o로 끝나면 -es를 붙여 goes로 써야 하므로 정답이다.\n③ [오답] 자음 + y라 y를 i로 바꾸고 -es를 붙인 옳은 형태이므로 오답이다.\n④ [오답] ch로 끝나 -es를 붙인 옳은 형태이므로 오답이다.\n⑤ [오답] s로 끝나 -es를 붙인 옳은 형태이므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T04:19:08.780Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T04:19:10.700Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T04:19:10.700Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-04T12:00:55.664Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "The museum <u>where</u> we saw dinosaurs was huge.",
+      "1": "Tell me the way <u>how</u> you solved this puzzle.",
+      "2": "Monday is the day <u>when</u> I have piano lessons.",
+      "3": "I know the reason <u>why</u> she smiled.",
+      "4": "This is the village <u>where</u> my mom grew up."
+    },
+    "expl": "핵심 규칙: 관계부사는 선행사에 맞춰 시간 when, 장소 where, 이유 why를 쓴다. 방법은 the way 또는 how 중 하나만 쓰며 the way how로 겹쳐 쓰지 않는다.\n풀이 순서: ① 밑줄 친 관계부사 바로 앞의 선행사를 찾는다. → ② 때 - when, 장소 - where, 이유 - why는 맞는 짝이다(the museum·the village - where, the day - when, the reason - why). → ③ 선택지 ②만 the way 뒤에 how를 겹쳐 썼다. the way나 how 가운데 하나만 써야 한다.\n문장별 판정:\n정답 판단: the way와 how는 함께 쓰지 않는다. the way 또는 how 하나만 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 장소 선행사 뒤에 where를 바르게 썼다. 오답이다.\n② [정답] the way와 how는 함께 쓰지 않는다. the way 또는 how 하나만 써야 하므로 정답이다.\n③ [오답] 시간 선행사 뒤에 when을 바르게 썼다. 오답이다.\n④ [오답] 이유 선행사 뒤에 why를 바르게 썼다. 오답이다.\n⑤ [오답] 장소 선행사 뒤에 where를 바르게 썼다. 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 관계부사의 쓰임이 어색한 문장을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-09-30T13:24:20.896Z"
+  },
+  "tab": "xhnt0zj3",
+  "updatedAt": "2026-10-06T14:59:48.269Z",
+  "verdict": null,
+  "verdictAt": "2026-10-06T14:59:48.269Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T14:59:48.269Z",
+      "what": "판정을 Claude 판정으로 되돌림"
+    }
+  }
+}

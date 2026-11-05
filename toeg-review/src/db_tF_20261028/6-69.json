@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:21:42.807Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "(A): have\t(B): Does",
+      "1": "(A): has\t(B): Do",
+      "2": "(A): is\t(B): Does",
+      "3": "(A): have\t(B): Do",
+      "4": "(A): has\t(B): Does"
+    },
+    "expl": "핵심 규칙: have to의 현재 의문문은 Do/Does + 주어 + have to + 동사원형?으로 쓰고, 3인칭 단수 주어의 긍정문에는 has to를 쓴다. Does 뒤에는 has가 아니라 have를 쓴다.\n풀이 순서: ① 대답을 본다: 대답 없이 평서문과 의문문이 이어진다. 질문도 같은 조동사로 시작한다. → ② (A) 평서문의 주어 Mina는 3인칭 단수라 has to, (B) 의문문은 Does she have to ~?다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: 긍정문에 Mina has to, 의문문에 Does she have to를 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] (A): 3인칭 단수 주어 Mina의 긍정문에는 has to를 쓰므로 오답이다.\n② [오답] (B): 3인칭 단수 주어 she의 의문문에는 Does를 쓰므로 오답이다.\n③ [오답] (A): ‘~해야 한다’는 is to가 아니라 has to로 쓰므로 오답이다.\n④ [오답] (A): Mina에는 has를, (B): she에는 Does를 쓰므로 오답이다.\n⑤ [정답] 긍정문에 Mina has to, 의문문에 Does she have to를 바르게 썼으므로 정답이다.",
+    "passage": "A: Mina (<u>    A    </u>) to finish the report today.\nB: Oh, (<u>    B    </u>) she have to do it now?",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:21:39.847Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:21:42.807Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:21:42.807Z",
+      "what": "확인 완료"
+    }
+  }
+}

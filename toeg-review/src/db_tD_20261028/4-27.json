@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T04:09:37.209Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "What does Jane eat for breakfast every day?",
+      "1": "Is Jane eating an apple for breakfast now?",
+      "2": "Do Jane eat an apple for breakfast every day?",
+      "3": "Does Jane eat an apple for breakfast every day?",
+      "4": "Did Jane eat an apple for breakfast yesterday?"
+    },
+    "expl": "핵심 규칙: Yes/No로 답하는 일반동사 현재 의문문은 Do/Does + 주어 + 동사원형이다. 의문사 의문문은 Yes/No로 답하지 않고, 진행형·과거 의문문에는 is/did로 답한다.\n풀이 순서: ① 대답이 Yes로 시작하므로 의문사 없는 의문문이어야 한다. → ② 대답의 동사(eats)가 일반동사 현재형이므로 Do/Does로 묻는다. 주어가 Jane(3인칭 단수)이므로 Does. → ③ Do/Does 뒤는 동사원형이다. 정답은 ④.\n문장별 판정:\n정답 판단: 대답이 Yes로 시작하고 일반동사 현재형 eats를 썼으며 주어가 3인칭 단수 Jane이므로 Does Jane eat ~?으로 묻는다. 정답은 ④이다.\n선택지 분석:\n① [오답] 의문사 의문문은 Yes/No로 답하지 않으므로 오답이다.\n② [오답] 진행형 질문에는 Yes, she is로 답하고, now도 대답의 every day와 맞지 않으므로 오답이다.\n③ [오답] 3인칭 단수 주어 Jane에는 Do가 아니라 Does를 쓰므로 오답이다.\n④ [정답] 3인칭 단수 주어 + Does + 동사원형의 현재 의문문이라 대답과 맞으므로 정답이다.\n⑤ [오답] 과거 질문에는 Yes, she did로 답하므로 오답이다.",
+    "passage": "A: __________________________________\nB: Yes, Jane eats an apple for breakfast every day.",
+    "stem": "다음 대화의 빈칸에 들어갈 질문으로 가장 알맞은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:14:02.775Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:14:10.821Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:09:37.209Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:09:31.776Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:09:37.209Z",
+      "what": "확인 완료"
+    }
+  }
+}

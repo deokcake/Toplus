@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-23T18:18:53.614Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Jisu, Minji",
+      "1": "Sua, Yuri",
+      "2": "Jisu, Haru, Yuri",
+      "3": "Jisu, Yuri",
+      "4": "Minji, Haru"
+    },
+    "expl": "핵심 규칙: 형용사는 명사 앞이나 보어 자리, -thing 대명사 뒤에 쓴다. 부사는 동사를 꾸미며 fast·hard는 -ly 없이 부사로 쓴다(hardly는 ‘거의 ~않다’, lately는 ‘최근에’). 빈도부사는 일반동사 앞, be동사 뒤에 둔다. few·a few는 셀 수 있는 명사, little·a little은 셀 수 없는 명사에 쓴다.\n풀이 순서: ① 학생마다 예문이 옳은 문장인지 먼저 판단한다. 다섯 명 모두 ‘옳은 문장’이라고 했으므로 예문이 틀리면 설명도 틀린다. → ② Jisu의 smells nicely는 보어 자리라 형용사 nice여야 하고, Yuri의 lately는 ‘최근에’라 ‘늦게’는 late다. Minji, Sua, Haru의 설명은 옳다. → ③ 잘못 설명한 학생은 Jisu, Yuri.\n문장별 판정:\nJisu X. smell 뒤 보어 자리에는 형용사 nice를 쓴다.\nMinji O. few는 ‘거의 없는’이라는 뜻이다.\nSua O. 빈도부사는 일반동사 앞에 온다.\nHaru O. lovely는 형용사이다.\nYuri X. lately는 ‘최근에’라는 뜻이라 ‘늦게’는 late로 써야 한다.\n정답 판단: 잘못 설명한 학생은 Jisu, Yuri이다.\n선택지 분석:\n① [오답] Minji는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Yuri를 빠뜨렸다. 따라서 오답이다.\n② [오답] Sua는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Jisu를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Haru는 잘못 설명한 학생이 아니다. 따라서 오답이다.\n④ [정답] 잘못 설명한 학생 Jisu, Yuri를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] Minji, Haru는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Jisu, Yuri를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "Jisu: 'The soup smells nicely.'에서 smell 뒤에 부사가 와서 옳은 문장이야.\nMinji: 'I have few friends.'는 친구가 거의 없다는 뜻의 옳은 문장이야.\nSua: 'He often goes to the library.'에서 빈도부사가 일반동사 앞에 와서 옳은 문장이야.\nHaru: 'It's a lovely day.'에서 lovely는 -ly로 끝나지만 형용사라 명사 day를 꾸며서 옳은 문장이야.\nYuri: 'I arrived lately.'는 내가 늦게 도착했다는 뜻의 옳은 문장이야.",
+    "stem": "다음 중 잘못 설명한 학생들을 모두 고르시오."
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:18:53.614Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:18:53.614Z",
+      "what": "확인 완료"
+    }
+  }
+}

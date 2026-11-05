@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T07:17:16.819Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Room B is larger than Room C.",
+      "1": "Room D is larger than Room C.",
+      "2": "Room A is larger than Room C.",
+      "3": "Room C is larger than Room B.",
+      "4": "Room B is smaller than Room C."
+    },
+    "expl": "핵심 규칙: 지문의 수치와 배수 표현(twice as ~ as)을 실제 값으로 바꾸고, 질문이 묻는 비교 방향(more/heavier/slower/larger)에 맞는 대상을 찾는다.\n풀이 순서: ① 글의 수치와 비교 표현을 숫자로 정리한다: A 20m², B는 그 1.5배인 30m², C 25m², D는 20m²와 25m² 사이. → ② 질문이 묻는 것(C보다 큰 방)에 맞는 대상을 찾는다. → ③ 25m²보다 큰 것은 B뿐이다. 정답은 ①.\n문장별 판정:\n정답 판단: B는 A의 1.5배인 30 m²로 C(25 m²)보다 넓다. 질문에 맞는 대답이므로 정답은 ①이다.\n선택지 분석:\n① [정답] B는 A의 1.5배인 30 m²로 C(25 m²)보다 넓다. 질문에 맞는 대답이므로 정답이다.\n② [오답] D는 C보다 좁다. 오답이다.\n③ [오답] A(20 m²)는 C(25 m²)보다 좁다. 오답이다.\n④ [오답] C(25 m²)는 B(30 m²)보다 좁다. 오답이다.\n⑤ [오답] B(30 m²)는 C보다 넓다. 방향이 반대이다. 오답이다.",
+    "passage": "Four rooms in the new building are being compared. Room A is 20 m² and is the smallest of the four. Room B is 1.5 times as large as Room A. Room C is 25 m², which is larger than Room A but smaller than Room B. Room D is smaller than Room C but larger than Room A.\n질문: Which room is larger than Room C?",
+    "stem": "다음 글을 읽고 질문에 알맞은 대답을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T07:17:13.586Z"
+  },
+  "tab": "mtbqujsm",
+  "updatedAt": "2026-10-26T07:17:16.819Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T07:17:16.819Z",
+      "what": "확인 완료"
+    }
+  }
+}

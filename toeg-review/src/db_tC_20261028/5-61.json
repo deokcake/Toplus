@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T02:36:00.662Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "eighth - tenth - fifth",
+      "1": "eight - ten - fifth",
+      "2": "eight - tenth - five",
+      "3": null,
+      "4": "eighth - ten - five"
+    },
+    "expl": "핵심 규칙: 개수는 기수(one, two, three …)로, 순서·몇 번째·층·생일은 서수(first, second, third, fourth … twelfth)로 나타낸다.\n풀이 순서: ① 첫 문장은 개수를 말한다 → 기수 eight. → ② 둘째 문장은 몇 번째 생일인지 말한다 → 서수 tenth. → ③ 셋째 문장은 몇 층인지 말한다 → 서수 fifth. 정답은 ④.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 첫째 빈칸 eighth: 다리의 개수는 기수 eight로 나타낸다. 따라서 오답이다.\n② [오답] 둘째 빈칸 ten: 몇 번째 생일은 서수 tenth로 나타낸다. 따라서 오답이다.\n③ [오답] 셋째 빈칸 five: 층은 서수 fifth로 나타낸다. 따라서 오답이다.\n④ [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n⑤ [오답] 첫째 빈칸 eighth: 다리의 개수는 기수 eight로 나타낸다. 둘째 빈칸 ten: 몇 번째 생일은 서수 tenth로 나타낸다. 셋째 빈칸 five: 층은 서수 fifth로 나타낸다. 따라서 오답이다.",
+    "passage": "· A spider has _______ legs.\n· It is my _______ birthday.\n· He lives on the _______ floor.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:35:58.453Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-22T02:36:00.662Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:36:00.662Z",
+      "what": "확인 완료"
+    }
+  }
+}

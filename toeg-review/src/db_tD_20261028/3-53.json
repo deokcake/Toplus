@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:07:04.152Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "너는 천천히 운전하면 안 된다.",
+      "1": "너는 천천히 운전할지도 모른다.",
+      "2": "너는 천천히 운전할 수 있다.",
+      "3": "너는 천천히 운전해야만 한다.",
+      "4": "너는 천천히 운전하는 것이 좋겠다."
+    },
+    "expl": "핵심 규칙: had better + 동사원형은 ‘~하는 것이 좋겠다’는 강한 충고이다. can(~할 수 있다), must(~해야만 한다), must not(~하면 안 된다), may(~할지도 모른다)와 뜻을 구별한다.\n풀이 순서: ① 밑줄에서 조동사 표현을 찾는다: had better. → ② had better는 ‘~하는 것이 좋겠다’는 충고다. A의 말(길이 얼었다)에 대한 조언으로도 자연스럽다. → ③ can(할 수 있다), must(해야만 한다), must not(하면 안 된다), may(할지도 모른다)의 뜻으로 옮긴 보기를 지운다. 정답은 ⑤.\n문장별 판정:\n정답 판단: had better(~하는 것이 좋겠다)의 충고를 바르게 옮겼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] must not(~하면 안 된다)의 뜻이라 반대 의미이므로 오답이다.\n② [오답] may(~할지도 모른다)의 추측이라 충고와 다르므로 오답이다.\n③ [오답] can(~할 수 있다)의 뜻이라 충고의 had better와 다르므로 오답이다.\n④ [오답] must(~해야만 한다)의 뜻이라 ‘~하는 것이 좋겠다’는 충고와 다르므로 오답이다.\n⑤ [정답] had better(~하는 것이 좋겠다)의 충고를 바르게 옮겼으므로 정답이다.",
+    "passage": "A: The road is icy this morning.\nB: <u>You had better drive slowly</u> to stay safe.",
+    "stem": "밑줄 친 부분의 의미로 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:06:05.219Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:06:12.062Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:07:04.152Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:07:00.839Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:07:04.152Z",
+      "what": "확인 완료"
+    }
+  }
+}

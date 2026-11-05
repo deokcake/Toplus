@@ -1,0 +1,177 @@
+{
+ "key": "7-27",
+ "type": "C",
+ "grade": 7,
+ "chapter": "CH 3 be동사",
+ "title": "주어 You와 be동사 are의 줄임말",
+ "total_sec": 135,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "7급 · CH 3 be동사 · 27번 · C 유형\n\n이 문제는 You are를 바르게 줄여 쓴 말을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 3 be동사 · 27번 · C 유형",
+     "이 문제는 You are를 바르게 줄여 쓴 말을 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 3, 27번 C 유형. 이 문제는 You are를 바르게 줄여 쓴 말을 고르는 문제예요.",
+   "caption": "You are의 줄임말"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 알맞은 말을 고르세요.\n\nYou are nice. → _______ nice.\n\n① Your\n② Youre\n③ You's\n④ You're\n⑤ Yo're",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 알맞은 말을 고르세요.",
+     "You are nice. → _______ nice.",
+     "① Your",
+     "② Youre",
+     "③ You's",
+     "④ You're",
+     "⑤ Yo're"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 알맞은 말을 고르세요. You are nice, 너는 친절해요, 이 문장을 줄여 쓰면 빈칸 nice가 돼요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\nI, you, we, they, he, she, it 뒤의 be동사는 줄여 쓸 수 있어요. 뜻은 같아요.\n주어는 그대로 두고, be동사의 첫 글자를 뺀 자리에 ' (아포스트로피)를 찍어요.\nam → I'm   are → you're, we're, they're   is → he's, she's, it's\nyour(너의)는 소유격이에요. you are를 줄인 말이 아니에요.\n예) We are busy. → We're busy. (우리는 바빠요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "I, you, we, they, he, she, it 뒤의 be동사는 줄여 쓸 수 있어요. 뜻은 같아요.",
+     "주어는 그대로 두고, be동사의 첫 글자를 뺀 자리에 ' (아포스트로피)를 찍어요.",
+     "am → I'm   are → you're, we're, they're   is → he's, she's, it's",
+     "your(너의)는 소유격이에요. you are를 줄인 말이 아니에요.",
+     "예) We are busy. → We're busy. (우리는 바빠요.)"
+    ]
+   },
+   "narration": "I, you, he, she 같은 주어 뒤의 be동사는 줄여 쓸 수 있고, 줄여도 뜻은 같아요. 주어는 그대로 두고 be동사의 첫 글자를 뺀 자리에 아포스트로피를 찍어서, I'm, they're, he's처럼 써요. 소리가 비슷한 your는 너의라는 뜻의 소유격이라 줄임말이 아니에요. 예를 들어 We are busy를 줄이면 We're busy예요. 우리는 바빠요.",
+   "caption": "be동사 첫 글자 자리에 '"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 알맞은 말을 고르세요.\n\nYou are nice. → _______ nice.\n\n① Your\n② Youre\n③ You's\n④ You're\n⑤ Yo're",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "You are nice."
+      ],
+      "strike": [
+       "① Your",
+       "⑤ Yo're"
+      ],
+      "note": "줄일 두 낱말 = 주어 You + be동사 are. Your는 소유격(너의), You의 u까지 뺀 ⑤도 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "② Youre",
+       "③ You's"
+      ],
+      "note": "are는 첫 글자 a를 빼고 ' → 're. ' 없는 ②, 's를 붙인 ③은 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ You're"
+      ],
+      "strike": [],
+      "note": "남는 것은 ④ You're → You're nice."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 줄일 두 낱말은 주어 You와 be동사 are예요. 너의라는 뜻의 소유격 Your와, 주어 You의 글자까지 뺀 5번은 지워요. 둘째, are는 첫 글자를 빼고 그 자리에 아포스트로피를 찍으니, 아포스트로피가 없는 2번과 아포스트로피 에스를 붙인 3번은 지워요. 셋째, 남는 것은 4번 You're예요. You're nice. 너는 친절해요.",
+   "caption": "Your는 소유격, are만 줄이기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① Your  ✗  ‘너의’라는 소유격이에요\n② Youre  ✗  아포스트로피(')가 빠졌어요\n③ You's  ✗  are는 's가 아니라 're로 줄여요\n④ You're  ✓  are의 첫 글자 a를 빼고 '를 찍었어요\n⑤ Yo're  ✗  주어 You의 u까지 뺐어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Your  ✗  ‘너의’라는 소유격이에요",
+     "② Youre  ✗  아포스트로피(')가 빠졌어요",
+     "③ You's  ✗  are는 's가 아니라 're로 줄여요",
+     "④ You're  ✓  are의 첫 글자 a를 빼고 '를 찍었어요",
+     "⑤ Yo're  ✗  주어 You의 u까지 뺐어요"
+    ]
+   },
+   "narration": "정답은 4번 You're예요. 1번 Your는 소리가 비슷하지만 너의라는 뜻의 소유격이라, You are를 줄인 말이 아니에요. 2번은 아포스트로피가 빠졌어요. 3번은 are를 줄이면서 아포스트로피 에스를 붙여 틀렸어요.",
+   "caption": "정답 ④ You're"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 13,
+   "screen": {
+    "text": "정답 ④ You're\n\n주어는 그대로, be동사의 첫 글자 자리에 ' · your(너의)는 소유격",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ You're",
+     "주어는 그대로, be동사의 첫 글자 자리에 ' · your(너의)는 소유격"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 주어는 그대로 두고 be동사의 첫 글자를 뺀 자리에 아포스트로피를 찍어 줄이고, your는 소유격이에요.",
+   "caption": "your(너의)는 소유격"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 알맞은 말을 고르세요.",
+  "passage": "You are nice. → _______ nice.",
+  "c": [
+   "Your",
+   "Youre",
+   "You's",
+   "You're",
+   "Yo're"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: be동사 축약형은 빠진 글자 자리에 아포스트로피(')를 찍어 I'm, you're, he's, she's, it's, we're, they're로 쓴다. your, its, his는 소유격이라 축약형이 아니다.\n풀이 순서: ① 줄일 두 낱말을 본다: You are. → ② be동사의 첫 글자를 빼고 그 자리에 '를 찍는다: You + 're. Your는 소유격이다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: you are를 바르게 줄였으므로 정답은 ④이다.\n선택지 분석:\n① [오답] your는 ‘너의’라는 소유격이라 you are의 축약형이 아니므로 오답이다.\n② [오답] 아포스트로피(')를 빠뜨렸으므로 오답이다.\n③ [오답] you are의 are를 's로 줄일 수 없으므로 오답이다.\n④ [정답] you are를 바르게 줄였으므로 정답이다.\n⑤ [오답] you의 글자를 빼고 줄였으므로 오답이다."
+ }
+}

@@ -1,0 +1,179 @@
+{
+ "key": "4-21",
+ "type": "F",
+ "grade": 4,
+ "chapter": "CH 3 be동사와 일반동사",
+ "title": "현재 시제가 아닌 문장 찾기",
+ "total_sec": 124,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "4급 · CH 3 be동사와 일반동사 · 21번 · F 유형\n\n이 문제는 다섯 문장의 동사를 보고 현재 시제가 아닌 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 3 be동사와 일반동사 · 21번 · F 유형",
+     "이 문제는 다섯 문장의 동사를 보고 현재 시제가 아닌 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 3, 21번 F 유형. 이 문제는 다섯 문장의 동사를 보고 현재 시제가 아닌 문장을 고르는 문제예요.",
+   "caption": "현재 시제가 아닌 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 현재 시제 문장이 아닌 것을 고르시오.\n\n① The bus leaves at eight.\n② I have a headache.\n③ Minho and I are friends.\n④ Dad washes the car on Sundays.\n⑤ We visited grandma last week.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 현재 시제 문장이 아닌 것을 고르시오.",
+     "① The bus leaves at eight.",
+     "② I have a headache.",
+     "③ Minho and I are friends.",
+     "④ Dad washes the car on Sundays.",
+     "⑤ We visited grandma last week."
+    ]
+   },
+   "narration": "다음 중 현재 시제 문장이 아닌 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n현재 시제: 지금의 상태, 습관, 늘 그런 사실\nbe동사 현재형: am, are, is\n일반동사 현재형: 동사원형 (I, you, we, they, 복수) · 동사 + s/es (3인칭 단수, have → has)\n과거형 (지난 일): was, were · walked처럼 ed형 · come → came처럼 바뀐 꼴\n예) He walks. (그는 걸어요.)  He walked. (그는 걸었어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재 시제: 지금의 상태, 습관, 늘 그런 사실",
+     "be동사 현재형: am, are, is",
+     "일반동사 현재형: 동사원형 (I, you, we, they, 복수) · 동사 + s/es (3인칭 단수, have → has)",
+     "과거형 (지난 일): was, were · walked처럼 ed형 · come → came처럼 바뀐 꼴",
+     "예) He walks. (그는 걸어요.)  He walked. (그는 걸었어요.)"
+    ]
+   },
+   "narration": "현재 시제는 지금의 상태나 습관, 늘 그런 사실을 나타내요. be동사는 am, are, is이고, 일반동사는 동사원형을 쓰되 3인칭 단수 주어이면 s나 es를 붙이고, have는 has예요. 지난 일은 was, were나 ed형, came처럼 바뀐 꼴 같은 과거형으로 써요. He walks. 그는 걸어요. He walked. 그는 걸었어요.",
+   "caption": "현재형과 과거형의 모양"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 중 현재 시제 문장이 아닌 것을 고르시오.\n\n① The bus leaves at eight.\n② I have a headache.\n③ Minho and I are friends.\n④ Dad washes the car on Sundays.\n⑤ We visited grandma last week.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "The bus leaves",
+       "I have",
+       "Minho and I are",
+       "Dad washes",
+       "We visited"
+      ],
+      "strike": [],
+      "note": "문장마다 동사 찾기: leaves, have, are, washes, visited"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① The bus leaves at eight.",
+       "② I have a headache.",
+       "③ Minho and I are friends.",
+       "④ Dad washes the car on Sundays."
+      ],
+      "note": "현재형 지우기: leaves, washes(3인칭 단수 s형·es형) · have(I, 동사원형) · are(be동사 현재형)"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ We visited grandma last week."
+      ],
+      "strike": [],
+      "note": "남은 visited = visit의 과거형 + last week → 과거 시제"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 동사를 찾으면 leaves, have, are, washes, visited예요. 둘째, 현재형인 문장을 지워요. leaves와 washes는 3인칭 단수 주어에 맞춘 s형과 es형이고, have는 주어 I에 쓰는 동사원형, are는 be동사 현재형이에요. 셋째, 남은 visited는 visit의 과거형이고 last week도 과거를 나타내니, 5번이 과거 시제예요. We visited grandma last week. 우리는 지난주에 할머니를 찾아갔어요.",
+   "caption": "동사 찾기 → 현재형 지우기 → visited"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 23,
+   "screen": {
+    "text": "① The bus leaves at eight.  ✗  3인칭 단수 주어에 맞춘 현재형 leaves, 정해진 시간\n② I have a headache.  ✗  주어 I에 쓰는 현재형 have (동사원형)\n③ Minho and I are friends.  ✗  복수 주어에 맞는 be동사 현재형 are\n④ Dad washes the car on Sundays.  ✗  3인칭 단수 주어에 맞춘 현재형 washes\n⑤ We visited grandma last week.  ✓  visited는 visit의 과거형, last week도 과거",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① The bus leaves at eight.  ✗  3인칭 단수 주어에 맞춘 현재형 leaves, 정해진 시간",
+     "② I have a headache.  ✗  주어 I에 쓰는 현재형 have (동사원형)",
+     "③ Minho and I are friends.  ✗  복수 주어에 맞는 be동사 현재형 are",
+     "④ Dad washes the car on Sundays.  ✗  3인칭 단수 주어에 맞춘 현재형 washes",
+     "⑤ We visited grandma last week.  ✓  visited는 visit의 과거형, last week도 과거"
+    ]
+   },
+   "narration": "정답은 5번이에요. visited는 visit의 과거형이라 지난주에 이미 끝난 일을 나타내요. 2번 have는 s가 없지만, 주어가 I일 때는 동사원형 have가 현재형이에요. 1번 leaves는 주어 The bus에 맞춘 현재형으로, 버스가 떠나는 정해진 시간을 나타내요.",
+   "caption": "정답 ⑤ We visited grandma last week."
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ⑤ We visited grandma last week.\n\n동사가 과거형(was, were · ed형 · came처럼 바뀐 꼴)이면 현재 시제가 아니에요",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ We visited grandma last week.",
+     "동사가 과거형(was, were · ed형 · came처럼 바뀐 꼴)이면 현재 시제가 아니에요"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 동사가 was, were나 ed형 같은 과거형이면 현재 시제가 아니에요.",
+   "caption": "과거형이면 현재 시제가 아님"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 현재 시제 문장이 아닌 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "The bus leaves at eight.",
+   "I have a headache.",
+   "Minho and I are friends.",
+   "Dad washes the car on Sundays.",
+   "We visited grandma last week."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 현재 시제는 현재의 상태·습관·일반적 사실을 나타내며 동사원형이나 -s/-es형, am/is/are를 쓴다. 과거형(bought, studied, played, visited)은 이미 끝난 일을 나타낸다.\n풀이 순서: ① 문장마다 동사만 본다. → ② 현재형(am/are/is, 동사원형, -(e)s)인 문장을 지운다. → ③ visited는 visit의 과거형이다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 과거형(visited)을 쓴 과거 시제 문장이라 현재 시제가 아니므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 현재형(leaves)으로 현재의 상태·습관을 나타내므로 오답이다.\n② [오답] 현재형(have)으로 현재의 상태·습관을 나타내므로 오답이다.\n③ [오답] 현재형(are)으로 현재의 상태·습관을 나타내므로 오답이다.\n④ [오답] 현재형(washes)으로 현재의 상태·습관을 나타내므로 오답이다.\n⑤ [정답] 과거형(visited)을 쓴 과거 시제 문장이라 현재 시제가 아니므로 정답이다."
+ }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T03:26:14.552Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "peach - peaches",
+      "1": null,
+      "2": "bench - benchs",
+      "3": null,
+      "4": "glass - glasses"
+    },
+    "expl": "핵심 규칙: 복수형은 대부분 -s를 붙이고, s·sh·ch·x로 끝나면 -es(buses, foxes), 자음 + y는 y를 i로 바꾸고 -es(ladies, babies)를 붙인다.\n풀이 순서: ① 명사의 끝 글자를 본다: s, sh, ch, x인지, 자음 + y인지. → ② 그 끝에 맞게 -es나 -ies가 붙었는지 본다. → ③ bench는 ch로 끝나므로 benches다. 정답은 bench - benchs.\n문장별 판정:\n정답 판단: bench는 ch로 끝나 -es를 붙여 benches로 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] peaches: ch로 끝나 -es를 붙여 바르게 썼으므로 오답이다.\n② [오답] books: -s를 붙여 바르게 썼으므로 오답이다.\n③ [정답] bench는 ch로 끝나 -es를 붙여 benches로 써야 하므로 정답이다.\n④ [오답] girls: -s를 붙여 바르게 썼으므로 오답이다.\n⑤ [오답] glasses: s로 끝나 -es를 붙여 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T03:26:13.040Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T03:26:14.552Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:26:14.552Z",
+      "what": "확인 완료"
+    }
+  }
+}

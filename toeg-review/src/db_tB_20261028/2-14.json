@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T07:43:40.248Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": 3,
+    "c": {
+      "0": "A: Will you join us for lunch tomorrow?\nB: Yes, I will. I'd love to.",
+      "1": "A: What is your sister doing now?\nB: She is practicing the piano.",
+      "2": "A: When did you submit the report?\nB: I have submitted it two hours ago.",
+      "3": "A: How long have you known Mr. Kim?\nB: I have known him for eight years.",
+      "4": "A: Have you ever tried Thai food?\nB: Yes, I have tried it twice."
+    },
+    "expl": "핵심 규칙: 현재완료는 ago, yesterday, last night, at noon처럼 끝난 과거 시점을 나타내는 말이나 When did ~?에 대한 대답에 쓸 수 없다. 이때는 과거형을 쓴다.\n풀이 순서: ① 대화마다 A가 묻는 시제와 B가 답하는 시제가 맞는지, 대답 속 시간 표현과 어울리는지 본다. → ② 대답에 ago, yesterday, last night 같은 끝난 과거 시점이 있으면 과거형이어야 한다. → ③ 선택지 ③의 B는 과거 시점 표현(two hours ago)이 있는데 현재완료(have submitted)를 썼다. 과거형(submitted)이 맞다.\n문장별 판정:\n정답 판단: two hours ago라는 과거 시점과 현재완료를 함께 쓸 수 없다. I submitted it two hours ago.로 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 앞으로의 일을 will로 묻고 답해 올바르므로 오답이다.\n② [오답] 지금 하는 일을 현재진행형으로 묻고 답해 올바르므로 오답이다.\n③ [정답] two hours ago라는 과거 시점과 현재완료를 함께 쓸 수 없다. I submitted it two hours ago.로 써야 하므로 정답이다.\n④ [오답] 지금까지의 기간을 현재완료로 묻고 답해 올바르므로 오답이다.\n⑤ [오답] 경험을 현재완료로 묻고 답해 올바르므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 어법상 틀린 대화를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T05:51:32.439Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T05:52:04.852Z",
+      "text": "기준문항과 변형문항 모두 A와 B의 대화를 줄바꿈을 해서 제시하는 것이 좋음."
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T07:43:40.248Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T07:43:37.426Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T07:43:40.248Z",
+      "what": "확인 완료"
+    }
+  }
+}

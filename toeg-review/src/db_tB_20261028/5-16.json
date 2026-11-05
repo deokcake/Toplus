@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T07:29:34.620Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "Yes, it do.",
+      "2": null,
+      "3": "Yes, it barks.",
+      "4": "Yes, it can."
+    },
+    "expl": "핵심 규칙: Do/Does 의문문에는 Yes, 주어 + do/does. / No, 주어 + don't/doesn't.로 짧게 답한다. 주어가 3인칭 단수면 does, 그 밖에는 do를 쓴다.\n풀이 순서: ① 질문의 첫 낱말(Does)을 그대로 받아 답한다. → ② 주어를 대명사로 바꾼다: your dog → it. → ③ 정답은 Yes, it does.\n문장별 판정:\n정답 판단: Does 의문문에 does로 바르게 답했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] Does 의문문에는 be동사로 답하지 않으므로 오답이다.\n② [오답] 3인칭 단수 it에는 does를 쓰므로 오답이다.\n③ [정답] Does 의문문에 does로 바르게 답했으므로 정답이다.\n④ [오답] 짧은 대답에는 일반동사가 아니라 does를 쓰므로 오답이다.\n⑤ [오답] Does 의문문에는 can으로 답하지 않으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 질문에 대한 알맞은 대답을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T07:29:33.687Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:29:34.620Z",
+      "what": "확인 완료"
+    }
+  }
+}

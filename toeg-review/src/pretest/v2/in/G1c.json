@@ -1,0 +1,208 @@
+[
+ {
+  "key": "1-12",
+  "grade": 1,
+  "no": 12,
+  "chapter": "CH 2",
+  "chapter_name": "시제",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+   "passage": "She _____ her keys yesterday morning.\nThe scientists _____ a groundbreaking discovery recently.",
+   "c": [
+    "lost — have made",
+    "loses — make",
+    "lost — make",
+    "loses — have made",
+    "have lost — have made"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: yesterday처럼 끝난 과거 시점을 나타내는 말이 있으면 과거시제를 쓰고, recently·lately처럼 최근부터 지금까지를 나타내는 말과는 현재완료(have/has + 과거분사)를 쓴다.\n풀이 순서: ① 첫 문장에는 끝난 과거 시점(yesterday morning)이 있으므로 과거형 lost를 쓴다. 현재형 loses와 현재완료 have lost를 지운다. → ② 둘째 문장에는 최근부터 지금까지를 나타내는 recently가 있으므로 현재형 make가 아니라 현재완료 have made를 쓴다. → ③ 정답은 lost — have made.\n문장별 판정:\n정답 판단: yesterday morning에는 과거형 lost, recently에는 현재완료 have made가 맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] yesterday morning에는 과거형 lost, recently에는 현재완료 have made가 맞으므로 정답이다.\n② [오답] yesterday morning과 현재형 loses가 맞지 않으므로 오답이다.\n③ [오답] recently와 함께 최근의 성과를 나타내려면 make가 아니라 have made를 써야 하므로 오답이다.\n④ [오답] yesterday morning과 현재형 loses가 맞지 않으므로 오답이다.\n⑤ [오답] 주어 She에 have lost를 쓸 수 없고, yesterday morning과 현재완료도 함께 쓰지 않으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "- Mina _____ her passport yesterday.\n- Researchers _____ important evidence lately.",
+    "c": [
+     "lost - have found",
+     "lost - find",
+     "loses - find",
+     "has lost - have found",
+     "lost - has found"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "The storm _____ several trees last night.\nScientists _____ a new treatment recently.",
+    "c": [
+     "damaged — develop",
+     "damaged — has developed",
+     "has damaged — have developed",
+     "damages — develop",
+     "damaged — have developed"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "We _____ the old bridge last summer.\nEngineers _____ a safer design recently.",
+    "c": [
+     "repaired — create",
+     "repaired — has created",
+     "repaired — have created",
+     "repairs — create",
+     "has repaired — have created"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "Tom _____ his old bike yesterday morning.\nDoctors _____ a new vaccine recently.",
+    "c": [
+     "sold — have tested",
+     "sells — test",
+     "has sold — have tested",
+     "sold — test",
+     "sold — has tested"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "Jane _____ the application last week.\nThe team members _____ several improvements recently.",
+    "c": [
+     "submits — introduce",
+     "has submitted — have introduced",
+     "submitted — introduce",
+     "submitted — have introduced",
+     "submitted — has introduced"
+    ],
+    "ans": 4
+   }
+  },
+  "target_answer_position": 1,
+  "v1_pretest": {
+   "stem": "다음 중 어법상 올바른 문장을 고르시오.",
+   "passage": "",
+   "c": [
+    "My uncle has worked at the city hospital since he graduated from college.",
+    "We have visited the science museum with our classmates two weeks ago.",
+    "When have you sent the invitation cards to all your friends?",
+    "Jenny and I were best friends since the first day of kindergarten.",
+    "My parents have bought this old house by the lake in 2015."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: ~ ago, last night, in + 연도처럼 끝난 과거 시점을 나타내는 말이나 그 시점을 묻는 의문사 when은 현재완료와 함께 쓰지 않고 과거시제를 쓴다. since(~ 이후로 지금까지)처럼 과거의 한 시점부터 지금까지 이어짐을 나타내는 말은 현재완료(have/has + 과거분사)와 함께 쓴다.\n풀이 순서: ① 문장마다 시간을 나타내는 말(since ~, two weeks ago, in 2015)과 의문사 When을 찾는다. → ② 끝난 과거 시점이나 When이 현재완료와 함께 쓰였는지, since가 과거시제와 함께 쓰였는지 확인한다. → ③ 시제를 바르게 쓴 문장은 선택지 ①뿐이다. 정답은 ①.\n문장별 판정:\n정답 판단: since he graduated from college는 졸업한 때부터 지금까지를 나타내 현재완료 has worked와 바르게 어울리고, since절 안의 graduated는 과거의 한 시점이라 과거형이 맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] since절(졸업한 때부터 지금까지)과 현재완료 has worked가 바르게 어울리고, since절 안의 과거형 graduated도 알맞으므로 정답이다.\n② [오답] two weeks ago는 끝난 과거 시점이라 현재완료 have visited를 과거형 visited로 고쳐야 하므로 오답이다.\n③ [오답] 특정한 과거 시점을 묻는 When은 현재완료와 함께 쓰지 않는다. When did you send로 고쳐야 하므로 오답이다.\n④ [오답] since the first day of kindergarten은 그때부터 지금까지 이어짐을 나타낸다. 과거형 were를 현재완료 have been으로 고쳐야 하므로 오답이다.\n⑤ [오답] in 2015는 끝난 과거 시점이라 현재완료 have bought를 과거형 bought로 고쳐야 하므로 오답이다.",
+   "new_format": "시간 표현이 들어 있는 다섯 문장 중 시제를 바르게 쓴 문장 하나 고르기",
+   "design": "끝난 과거 시점(~ ago, in + 연도)이나 의문사 when과는 과거시제를, since처럼 과거부터 지금까지 이어짐을 나타내는 말과는 현재완료를 쓰는 규칙을 그대로 평가한다. 두 빈칸 짝 고르기를 시간 표현이 든 다섯 문장 중 바른 것 하나 고르기로 바꾸어 문장마다 시간 표현과 시제의 호응을 판단하게 했다. 틀린 문장은 현재완료 + 과거 시점(two weeks ago, in 2015), When + 현재완료, since + 과거형처럼 학생이 실제로 하는 실수로 한 군데씩만 틀리게 했고, 정답 문장에는 since절 안의 과거형 graduated를 넣어 과거형이 보인다고 지우지 못하게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 59/25 글자 266/134 정답 1",
+   "ERR  원문항보다 너무 김: 낱말 59 > 상한 37 (원문항 25) — 난이도가 올라감"
+  ],
+  "reviewer_memo_on_v1": "(감수자가 메모 없이 확인 완료했지만, 사용자가 프리테스트 전체의 난이도가 높다고 보고 다시 보라고 함)"
+ },
+ {
+  "key": "1-23",
+  "grade": 1,
+  "no": 23,
+  "chapter": "CH 3",
+  "chapter_name": "조동사",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+   "passage": "• I'm not used to _____ in such hot weather.\n• People used to _____ that the sun revolved around the Earth.",
+   "c": [
+    "work – think",
+    "working – thought",
+    "working – think",
+    "work – thinking",
+    "working – thinking"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: be used to + -ing는 ‘~하는 데 익숙하다’, used to + 동사원형은 ‘(예전에) ~하곤 했다’라는 뜻이다. used to 앞에 be동사가 있는지로 가른다.\n풀이 순서: ① used to 앞에 be동사가 있는지 본다. 첫 문장(I'm not used to)은 be동사가 있으므로 ‘~하는 데 익숙하다’이고, 이때 to는 전치사라 -ing형이 온다. → ② 둘째 문장(People used to)은 be동사 없이 used to만 있으므로 ‘예전에 ~하곤 했다’이고 동사원형이 온다. → ③ 정답은 working – think.\n문장별 판정:\n정답 판단: be동사가 있는 am not used to 뒤에 working을, 과거의 습관을 나타내는 used to 뒤에 think를 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] be used to 뒤에는 동사원형 work가 아니라 -ing형을 써야 하므로 오답이다.\n② [오답] used to 뒤에는 과거형 thought가 아니라 동사원형을 써야 하므로 오답이다.\n③ [정답] be동사가 있는 am not used to 뒤에 working을, 과거의 습관을 나타내는 used to 뒤에 think를 바르게 썼으므로 정답이다.\n④ [오답] 두 빈칸의 형태가 서로 바뀌었으므로 오답이다.\n⑤ [오답] used to 뒤에는 thinking이 아니라 동사원형을 써야 하므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "- Tom isn't used to _____ up so early.\n- Families used to _____ together more often.",
+    "c": [
+     "get - eating",
+     "getting - eating",
+     "getting - eat",
+     "get - eat",
+     "getting - ate"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "• I'm not used to _____ in front of large audiences.\n• People used to _____ letters by hand.",
+    "c": [
+     "speaking – write",
+     "speaking – wrote",
+     "speak – writing",
+     "speak – write",
+     "speaking – writing"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "• We are used to _____ long distances to visit our grandparents.\n• People used to _____ paper maps instead of GPS on long trips.",
+    "c": [
+     "driving – used",
+     "drive – use",
+     "driving – use",
+     "driving – using",
+     "drive – using"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "• Jane is used to _____ alone in her quiet office at night.\n• Children used to _____ outside until dark in the old days.",
+    "c": [
+     "work – playing",
+     "working – playing",
+     "working – played",
+     "work – play",
+     "working – play"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "• Mina still isn't used to _____ spicy food like kimchi stew.\n• People used to _____ film cameras before smartphones became popular.",
+    "c": [
+     "eating – using",
+     "eating – used",
+     "eat – use",
+     "eating – use",
+     "eat – using"
+    ],
+    "ans": 4
+   }
+  },
+  "target_answer_position": 5,
+  "v1_pretest": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 옳은 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "Are you <u>used to wear</u> contact lenses instead of glasses yet?",
+    "By the end of our first month in Seoul, we were <u>used to take</u> the subway everywhere.",
+    "My little brother <u>used to being</u> afraid of the dark, but now he sleeps with the lights off.",
+    "I'm not <u>used to sleep</u> in a tent, so I woke up many times last night.",
+    "Our new classmate from Canada is already <u>used to using</u> chopsticks at lunch."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: be used to + -ing는 ‘~하는 데 익숙하다’라는 뜻이고, 이때 to는 전치사라서 뒤에 동명사(-ing)가 온다. be동사 없이 쓰는 used to + 동사원형은 ‘(예전에) ~하곤 했다’라는 뜻이다.\n풀이 순서: ① 문장마다 밑줄 앞에 be동사(are, were, am, is)가 있는지 본다. 의문문·부정문·과거형이거나 사이에 부사가 끼어도 be동사가 있으면 be used to이다. → ② be used to 뒤에는 -ing형이, be동사가 없는 used to 뒤에는 동사원형이 왔는지 확인한다. → ③ 두 규칙에 맞게 쓴 문장은 선택지 ⑤뿐이다. 정답은 ⑤.\n문장별 판정:\n정답 판단: is already used to는 be used to 사이에 부사 already가 낀 꼴이다. 이때 to는 전치사라 뒤에 -ing형 using을 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 의문문이어도 Are you used to는 be used to(~하는 데 익숙하다)라 to 뒤에 -ing형이 와야 한다. used to wearing으로 고쳐야 하므로 오답이다.\n② [오답] were used to는 be used to의 과거(~하는 데 익숙했다)이고, 과거의 일이어도 to 뒤에는 동사원형이 아니라 -ing형을 쓴다. used to taking으로 고쳐야 하므로 오답이다.\n③ [오답] be동사가 없는 My little brother used to는 ‘예전에는 ~였다(~하곤 했다)’라는 뜻이라 뒤에 동사원형이 온다. used to be로 고쳐야 하므로 오답이다.\n④ [오답] I'm not used to는 be used to의 부정문이라 to 뒤에 -ing형이 와야 한다. used to sleeping으로 고쳐야 하므로 오답이다.\n⑤ [정답] is already used to는 be used to 사이에 부사가 낀 꼴이라 to 뒤에 -ing형이 온다. use가 겹쳐 어색해 보여도 used to using이 옳으므로 정답이다.",
+   "new_format": "다섯 문장의 밑줄 친 ‘used to + 동사’ 중 어법상 옳은 것 하나 고르기(be동사는 밑줄 밖)",
+   "design": "used to 앞에 be동사가 있으면 ‘~하는 데 익숙하다(be used to + -ing)’, 없으면 ‘(예전에) ~하곤 했다(used to + 동사원형)’로 뒤의 동사 형태가 갈리는 규칙을 그대로 평가한다. 두 빈칸 짝 고르기를 다섯 문장의 밑줄 친 ‘used to + 동사’ 중 옳은 것 고르기로 바꾸고, be동사는 밑줄 밖에 두어 의문문(Are you)·과거(were)·부정문(I'm not)·부사가 낀 꼴(is already) 속에서 직접 찾게 했으며, 앞뒤 문맥(By the end of our first month, but now)으로 어느 뜻인지 분명히 했다. 오답은 be used to 뒤에 동사원형을 쓴 실수(①②④)와 be동사 없는 used to 뒤에 -ing를 쓴 실수(③)로 두 방향을 모두 넣어 규칙의 방향까지 알아야 풀리게 했고, -ing형 밑줄이 둘(③⑤)이라 형태만 보고 찍을 수 없으며, use가 겹쳐 어색해 보이는 used to using을 정답으로 두었다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 75/28 글자 297/141 정답 5",
+   "ERR  원문항보다 너무 김: 낱말 75 > 상한 42 (원문항 28) — 난이도가 올라감"
+  ],
+  "reviewer_memo_on_v1": "(감수자가 메모 없이 확인 완료했지만, 사용자가 프리테스트 전체의 난이도가 높다고 보고 다시 보라고 함)"
+ }
+]

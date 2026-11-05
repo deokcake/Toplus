@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:00:07.469Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "1개",
+      "1": null,
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: A as well as B는 A에, either A or B·neither A nor B·not only A but also B는 B에 동사의 수를 맞춘다. both A and B는 복수, every·none of + 셀 수 없는 명사는 단수 동사를 쓴다.\n풀이 순서: ① 문장마다 주어의 중심이 되는 말을 정한다. A as well as B는 A, either·neither·not only는 B, both는 복수다. → ② 동사의 수와 견준다. C)만 틀렸다. my cousins에 맞춰 live여야 한다. 나머지 다섯은 옳다. → ③ 틀린 문장을 세면 1개이다.\n문장별 판정:\nA) 옳음: A as well as B는 A(Mina)에 맞춰 is.\nB) 옳음: neither A nor B는 B(Jane)에 맞춰 is.\nC) 틀림: not only A but also B는 B(my cousins)에 맞춰 live.\nD) 옳음: either A or B는 B(the cats)에 맞춰 are.\nE) 옳음: both A and B는 복수라 are.\nF) 옳음: all of the students는 복수라 were.\n정답 판단: 어법상 틀린 문장은 1개이다.\n선택지 분석:\n① [정답] 어법상 틀린 문장은 1개이다. 이 보기의 1개는 실제 개수와 일치한다.\n② [오답] 어법상 틀린 문장은 1개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 어법상 틀린 문장은 1개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 어법상 틀린 문장은 1개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 틀린 문장은 1개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "A) Mina as well as Tom is joining.\nB) Neither the teachers nor Jane is available.\nC) Not only my uncle but also my cousins lives in Busan.\nD) Either the dog or the cats are making that noise.\nE) Both the bus and the subway are crowded.\nF) Not all of the students were present.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T09:59:35.303Z"
+  },
+  "tab": "5dbz9ufh",
+  "updatedAt": "2026-10-23T10:00:07.469Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T10:00:07.469Z",
+      "what": "확인 완료"
+    }
+  }
+}

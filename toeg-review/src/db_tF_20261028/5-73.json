@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:55:24.957Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Don't put _______ butter on it.",
+      "1": null,
+      "2": "I don't have _______ news.",
+      "3": "We don't use _______ paper.",
+      "4": "How _______ cheese is there?"
+    },
+    "expl": "핵심 규칙: many는 셀 수 있는 명사의 복수형 앞에, much는 셀 수 없는 명사 앞에 쓴다. much는 주로 부정문과 의문문에 쓴다.\n풀이 순서: ① 빈칸 뒤의 명사만 본다. -s가 붙은 복수 명사면 many, 셀 수 없는 명사면 much다. → ② apples만 복수 명사이고 butter, news, paper, cheese는 셀 수 없다. news는 -s로 끝나도 셀 수 없다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: 셀 수 있는 복수 명사 apples 앞이라 many가 들어가므로 정답은 ②이다.\n선택지 분석:\n① [오답] 셀 수 없는 명사 butter 앞이라 much가 들어가므로 오답이다.\n② [정답] 셀 수 있는 복수 명사 apples 앞이라 many가 들어가므로 정답이다.\n③ [오답] 셀 수 없는 명사 news 앞이라 much가 들어가므로 오답이다.\n④ [오답] 셀 수 없는 명사 paper 앞이라 much가 들어가므로 오답이다.\n⑤ [오답] 셀 수 없는 명사 cheese 앞이라 much가 들어가므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:55:18.752Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:55:24.957Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:55:24.957Z",
+      "what": "확인 완료"
+    }
+  }
+}

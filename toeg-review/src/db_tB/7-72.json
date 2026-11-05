@@ -1,0 +1,21 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-04T11:46:46.638Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "expl": "핵심 규칙: 우리말의 의문사·주어·동작과 현재형 의문문 구조가 맞다.\n풀이 순서: ① 우리말의 주어를 본다: ‘Tom은’ → Tom(3인칭 단수 → does). → ② 동작을 본다: ‘좋아하니’ → like. → ③ What + does + 주어 + 동사원형의 순서로 쓴 것은 ③.\n문장별 판정:\n정답 판단: 정답은 ③입니다. What은 무엇을 묻고, Tom을 주어로 does와 동사원형 like를 바르게 사용했습니다. 주어진 우리말의 주어와 동작을 정확히 옮겼습니다.\n선택지 분석:\n① [오답] 주어 Tom은 한 사람을 가리키는 주어 Tom이므로 does를 쓰고, 뒤에는 동사원형 like를 씁니다. likes도 원형 like로 바꿔야 합니다. 바르게 고치면: What does Tom like?\n② [오답] 주어 Tom은 한 사람을 가리키는 주어 Tom이므로 does를 쓰고, 뒤에는 동사원형 like를 씁니다. do를 does로 바꿔야 합니다. 바르게 고치면: What does Tom like?\n③ [정답] What은 무엇을 묻고, Tom을 주어로 does와 동사원형 like를 바르게 사용했습니다. 주어진 우리말의 주어와 동작을 정확히 옮겼습니다.\n④ [오답] Where는 ‘어디’를 묻습니다. 우리말은 무엇을 하는지 또는 어떤 대상을 말하는지 묻기 때문에 What이 필요합니다. 바르게 고치면: What does Tom like?\n⑤ [오답] Who는 ‘누구’를 묻습니다. 우리말은 무엇을 하는지 또는 어떤 대상을 말하는지 묻기 때문에 What이 필요합니다. 바르게 고치면: What does Tom like?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-04T11:46:45.828Z"
+  },
+  "tab": "qwrdqw2v",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-04T11:46:46.638Z",
+      "what": "확인 완료"
+    }
+  }
+}

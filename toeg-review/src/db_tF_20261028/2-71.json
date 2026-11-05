@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T11:37:26.374Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "sat — invited",
+      "1": "sitting — inviting",
+      "2": "sits — invited",
+      "3": "sat — inviting",
+      "4": "sitting — invited"
+    },
+    "expl": "핵심 규칙: 명사가 직접 하는 동작은 현재분사(-ing)로, 동작을 받는 명사는 과거분사로 꾸민다. 문장의 동사 자리는 주어와의 관계에 따라 진행형(be + -ing)이나 수동태(be + 과거분사)로 쓴다.\n풀이 순서: ① 첫째 밑줄은 앞의 명사(The girl)를 꾸미는 분사 자리다. 소녀가 앉아 있으므로 능동의 sitting이다. → ② 둘째 밑줄은 be동사 뒤다. 소녀는 초대받은 것이므로 수동태의 invited다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: 소녀가 앉아 있는 능동 관계라 sitting이 명사를 꾸미고, 소녀가 초대받았으므로 was invited의 수동태가 된다.\n선택지 분석:\n① [오답] 첫째 자리 sat: 소녀가 직접 앉아 있는 능동 관계라 과거형(과거분사)은 맞지 않는다. 따라서 오답이다.\n② [오답] 둘째 자리 inviting: 소녀가 파티에 초대받은 수동 관계이므로 was 뒤에 과거분사를 쓴다. 따라서 오답이다.\n③ [오답] 첫째 자리 sits: 문장의 동사는 was invited이므로 명사를 꾸미는 자리에 동사 sits를 쓸 수 없다. 따라서 오답이다.\n④ [오답] 첫째 자리 sat: 소녀가 직접 앉아 있는 능동 관계라 과거형(과거분사)은 맞지 않는다. 둘째 자리 inviting: 소녀가 파티에 초대받은 수동 관계이므로 was 뒤에 과거분사를 쓴다. 따라서 오답이다.\n⑤ [정답] sitting — invited: 두 자리가 모두 알맞으므로 정답이다.",
+    "passage": "The girl <u>sit</u> next to me was <u>invite</u> to the party.",
+    "stem": "다음 밑줄 친 동사의 알맞은 형태를 바르게 짝지은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T11:37:19.475Z"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T11:37:26.374Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T11:37:26.374Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,463 @@
+{
+ "A": {
+  "title": "지난 일과 go의 과거형",
+  "intro": "이 문제는 지난 일에 맞는 go의 알맞은 형태를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 ‘나는 어제 공원에 갔다’라는 의미가 되도록 알맞은 단어를 고르세요. I 빈칸 to the park yesterday. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지난 때에 한 일 (yesterday, last week …) → 동사의 과거형",
+    "과거형: 보통 끝에 ed (play → played) · 불규칙 동사는 따로 외워요 (come → came)",
+    "ing형(going), 과거분사(gone)는 혼자서 동사 자리에 못 써요",
+    "예) My dad came home early yesterday. (아빠는 어제 일찍 집에 오셨어요.)"
+   ],
+   "narration": "yesterday나 last week처럼 지난 때에 한 일은 동사의 과거형으로 써요. 과거형은 보통 동사 끝에 ed를 붙여 play를 played로 쓰지만, come과 came처럼 모양이 따로 있는 불규칙 동사도 있어요. going 같은 ing형이나 gone 같은 과거분사는 혼자서 동사 자리에 쓸 수 없어요. 예를 들어 My dad came home early yesterday. 아빠는 어제 일찍 집에 오셨어요."
+  },
+  "steps": [
+   {
+    "note": "‘갔다’, yesterday → 지난 일 → 과거형. 현재형 go, goes 지움",
+    "highlight": [
+     "갔다",
+     "yesterday"
+    ],
+    "strike": [
+     "① go",
+     "② goes"
+    ],
+    "narration": "첫째, 우리말 갔다와 yesterday를 보면 지난 일이라서, 현재형 go와 goes는 지워요."
+   },
+   {
+    "note": "빈칸 = 주어 I 바로 뒤 동사 자리. going, gone은 혼자서 못 씀 → 지움",
+    "highlight": [
+     "I ________"
+    ],
+    "strike": [
+     "④ going",
+     "⑤ gone"
+    ],
+    "narration": "둘째, 빈칸은 주어 I 바로 뒤의 동사 자리라서, 혼자서 이 자리를 채울 수 없는 ing형 going과 과거분사 gone도 지워요."
+   },
+   {
+    "note": "go의 과거형 went → I went to the park yesterday.",
+    "highlight": [
+     "③ went"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 go의 과거형 went예요. I went to the park yesterday. 나는 어제 공원에 갔어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① go  ✗  현재형이라 ‘갔다’가 되지 않아요",
+    "② goes  ✗  he, she 같은 주어에 쓰는 현재형이에요",
+    "③ went  ✓  go의 과거형 → ‘갔다’",
+    "④ going  ✗  ing형만으로는 동사 자리를 못 채워요",
+    "⑤ gone  ✗  과거분사라 혼자서 동사 자리에 못 써요"
+   ],
+   "narration": "정답은 3번 went예요. 5번 gone도 go에서 나온 꼴이라 과거처럼 보여요. 하지만 gone은 과거분사라서 혼자서는 동사 자리에 쓸 수 없어요. 1번 go는 현재형이라 ‘갔다’라는 지난 일의 뜻이 되지 않아요. 2번 goes도 현재형이고, he나 she 같은 주어에 쓰는 꼴이라 I와도 맞지 않아요."
+  },
+  "summary": {
+   "card": "지난 때에 한 일 → 동사의 과거형 (go → went)",
+   "narration": "정답은 3번이에요. 기억할 것, 지난 때에 한 일은 동사의 과거형으로 쓰고, go의 과거형은 went예요."
+  },
+  "captions": [
+   "지난 일에 맞는 go의 형태",
+   "먼저 풀어 보세요",
+   "지난 일은 과거형으로",
+   "지난 일 → 동사 자리 → went",
+   "정답 ③ went",
+   "지난 일 → 동사의 과거형"
+  ],
+  "sec": [
+   10,
+   16,
+   26,
+   30,
+   26,
+   10
+  ]
+ },
+ "B": {
+  "title": "지난 일과 write의 과거형",
+  "intro": "이 문제는 지난 일에 맞는 write의 알맞은 형태를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 ‘Mina는 어제 사촌에게 긴 편지를 썼다’라는 의미가 되도록 알맞은 단어를 고르세요. Mina 빈칸 a long letter to her cousin yesterday. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지난 때에 한 일 (yesterday, last week …) → 동사의 과거형",
+    "과거형: 보통 끝에 ed (play → played) · 불규칙 동사는 따로 외워요 (come → came)",
+    "ing형(writing), 과거분사(written)는 혼자서 동사 자리에 못 써요",
+    "예) He drew a picture last night. (그는 어젯밤에 그림을 그렸어요.)"
+   ],
+   "narration": "yesterday나 last week처럼 지난 때에 한 일은 동사의 과거형으로 써요. 과거형은 보통 동사 끝에 ed를 붙여 play를 played로 쓰지만, come과 came처럼 모양이 따로 있는 불규칙 동사도 있어요. writing 같은 ing형이나 written 같은 과거분사는 혼자서 동사 자리에 쓸 수 없어요. 예를 들어 He drew a picture last night. 그는 어젯밤에 그림을 그렸어요."
+  },
+  "steps": [
+   {
+    "note": "‘썼다’, yesterday → 지난 일 → 과거형. 동사원형 write, 현재형 writes 지움",
+    "highlight": [
+     "썼다",
+     "yesterday"
+    ],
+    "strike": [
+     "② write",
+     "④ writes"
+    ],
+    "narration": "첫째, 우리말 썼다와 yesterday를 보면 지난 일이라서, 동사원형 write와 현재형 writes는 지워요."
+   },
+   {
+    "note": "빈칸 = 주어 Mina 바로 뒤 동사 자리. writing, written은 혼자서 못 씀 → 지움",
+    "highlight": [
+     "Mina ________"
+    ],
+    "strike": [
+     "① written",
+     "③ writing"
+    ],
+    "narration": "둘째, 빈칸은 주어 Mina 바로 뒤의 동사 자리라서, 혼자서 이 자리를 채울 수 없는 ing형 writing과 과거분사 written도 지워요."
+   },
+   {
+    "note": "write의 과거형 wrote → Mina wrote a long letter to her cousin yesterday.",
+    "highlight": [
+     "⑤ wrote"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 write의 과거형 wrote예요. Mina wrote a long letter to her cousin yesterday. 미나는 어제 사촌에게 긴 편지를 썼어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① written  ✗  과거분사라 혼자서 동사 자리에 못 써요",
+    "② write  ✗  동사원형이라 ‘썼다’가 되지 않아요",
+    "③ writing  ✗  ing형만으로는 동사 자리를 못 채워요",
+    "④ writes  ✗  현재형이라 ‘썼다’가 되지 않아요",
+    "⑤ wrote  ✓  write의 과거형 → ‘썼다’"
+   ],
+   "narration": "정답은 5번 wrote예요. 1번 written도 write에서 나온 꼴이라 과거처럼 보여요. 하지만 written은 과거분사라서 혼자서는 동사 자리에 쓸 수 없어요. 4번 writes는 현재형이라 ‘썼다’라는 지난 일의 뜻이 되지 않아요. 2번 write도 동사원형이라 지난 일을 나타내지 못해요."
+  },
+  "summary": {
+   "card": "지난 때에 한 일 → 동사의 과거형 (write → wrote)",
+   "narration": "정답은 5번이에요. 기억할 것, 지난 때에 한 일은 동사의 과거형으로 쓰고, write의 과거형은 wrote예요."
+  },
+  "captions": [
+   "지난 일에 맞는 write의 형태",
+   "먼저 풀어 보세요",
+   "지난 일은 과거형으로",
+   "지난 일 → 동사 자리 → wrote",
+   "정답 ⑤ wrote",
+   "지난 일 → 동사의 과거형"
+  ],
+  "sec": [
+   10,
+   18,
+   26,
+   32,
+   26,
+   10
+  ]
+ },
+ "C": {
+  "title": "지난 일과 buy의 과거형",
+  "intro": "이 문제는 지난 일에 맞는 buy의 알맞은 형태를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 ‘그녀는 어제 새 가방을 샀다’라는 의미가 되도록 알맞은 단어를 고르세요. She 빈칸 a new bag yesterday. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지난 때에 한 일 (yesterday, last week …) → 동사의 과거형",
+    "과거형: 보통 끝에 ed (play → played) · 불규칙 동사는 따로 외워요 (come → came)",
+    "ing형(buying)은 혼자서 동사 자리에 못 써요",
+    "예) I took a lot of pictures last week. (나는 지난주에 사진을 많이 찍었어요.)"
+   ],
+   "narration": "yesterday나 last week처럼 지난 때에 한 일은 동사의 과거형으로 써요. 과거형은 보통 동사 끝에 ed를 붙여 play를 played로 쓰지만, come과 came처럼 모양이 따로 있는 불규칙 동사도 있어서 하나씩 외워야 해요. buying 같은 ing형은 혼자서 동사 자리에 쓸 수 없어요. 예를 들어 I took a lot of pictures last week. 나는 지난주에 사진을 많이 찍었어요."
+  },
+  "steps": [
+   {
+    "note": "‘샀다’, yesterday → 지난 일 → 과거형. 현재형 buys, 동사원형 buy 지움",
+    "highlight": [
+     "샀다",
+     "yesterday"
+    ],
+    "strike": [
+     "① buys",
+     "③ buy"
+    ],
+    "narration": "첫째, 우리말 샀다와 yesterday를 보면 지난 일이라서, 현재형 buys와 동사원형 buy는 지워요."
+   },
+   {
+    "note": "빈칸 = 주어 She 바로 뒤 동사 자리. buying은 혼자서 못 씀 → 지움",
+    "highlight": [
+     "She ________"
+    ],
+    "strike": [
+     "② buying"
+    ],
+    "narration": "둘째, 빈칸은 주어 She 바로 뒤의 동사 자리라서, 혼자서 이 자리를 채울 수 없는 ing형 buying도 지워요."
+   },
+   {
+    "note": "buy → bought (불규칙). brought는 bring(가져오다)의 과거형 → 지움. She bought a new bag yesterday.",
+    "highlight": [
+     "④ bought"
+    ],
+    "strike": [
+     "⑤ brought"
+    ],
+    "narration": "셋째, buy의 과거형은 bought이고, 모양이 비슷한 brought는 가져오다라는 뜻의 bring의 과거형이라 지워요. She bought a new bag yesterday. 그녀는 어제 새 가방을 샀어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① buys  ✗  현재형이라 ‘샀다’가 되지 않아요",
+    "② buying  ✗  ing형만으로는 동사 자리를 못 채워요",
+    "③ buy  ✗  동사원형이라 ‘샀다’가 되지 않아요",
+    "④ bought  ✓  buy의 과거형 → ‘샀다’",
+    "⑤ brought  ✗  bring(가져오다)의 과거형이에요"
+   ],
+   "narration": "정답은 4번 bought예요. 5번 brought는 bought와 모양이 비슷해서 헷갈리기 쉬워요. 하지만 brought는 가져오다라는 뜻의 bring의 과거형이라 ‘샀다’가 되지 않아요. 1번 buys는 현재형이라 ‘샀다’라는 지난 일의 뜻이 되지 않아요."
+  },
+  "summary": {
+   "card": "지난 때에 한 일 → 동사의 과거형 (buy → bought)",
+   "narration": "정답은 4번이에요. 기억할 것, 지난 때에 한 일은 동사의 과거형으로 쓰고, buy의 과거형은 bought예요."
+  },
+  "captions": [
+   "지난 일에 맞는 buy의 형태",
+   "먼저 풀어 보세요",
+   "지난 일은 과거형으로",
+   "지난 일 → 동사 자리 → bought",
+   "정답 ④ bought",
+   "지난 일 → 동사의 과거형"
+  ],
+  "sec": [
+   10,
+   16,
+   26,
+   32,
+   24,
+   10
+  ]
+ },
+ "D": {
+  "title": "지난 일과 eat의 과거형",
+  "intro": "이 문제는 지난 일에 맞는 eat의 알맞은 형태를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 ‘우리는 정오에 점심을 먹었다’라는 의미가 되도록 알맞은 단어를 고르세요. We 빈칸 lunch at noon. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지난 때에 한 일 (yesterday, last week …) → 동사의 과거형",
+    "과거형: 보통 끝에 ed (play → played) · 불규칙 동사는 따로 외워요 (come → came)",
+    "ing형(eating), 과거분사(eaten)는 혼자서 동사 자리에 못 써요",
+    "예) They drank milk last night. (그들은 어젯밤에 우유를 마셨어요.)"
+   ],
+   "narration": "yesterday나 last week처럼 지난 때에 한 일은 동사의 과거형으로 써요. 과거형은 보통 동사 끝에 ed를 붙여 play를 played로 쓰지만, come과 came처럼 모양이 따로 있는 불규칙 동사도 있어요. eating 같은 ing형이나 eaten 같은 과거분사는 혼자서 동사 자리에 쓸 수 없어요. 예를 들어 They drank milk last night. 그들은 어젯밤에 우유를 마셨어요."
+  },
+  "steps": [
+   {
+    "note": "때를 나타내는 말은 없음 → 우리말 ‘먹었다’로 지난 일임을 안다 → 과거형. 현재형 eat, eats 지움",
+    "highlight": [
+     "먹었다"
+    ],
+    "strike": [
+     "① eat",
+     "⑤ eats"
+    ],
+    "narration": "첫째, 문장에 yesterday 같은 말은 없지만, 우리말 먹었다를 보면 지난 일이라서 현재형 eat과 eats는 지워요."
+   },
+   {
+    "note": "빈칸 = 주어 We 바로 뒤 동사 자리. eating, eaten은 혼자서 못 씀 → 지움",
+    "highlight": [
+     "We ________"
+    ],
+    "strike": [
+     "③ eaten",
+     "④ eating"
+    ],
+    "narration": "둘째, 빈칸은 주어 We 바로 뒤의 동사 자리라서, 혼자서 이 자리를 채울 수 없는 ing형 eating과 과거분사 eaten도 지워요."
+   },
+   {
+    "note": "eat의 과거형 ate → We ate lunch at noon.",
+    "highlight": [
+     "② ate"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 eat의 과거형 ate예요. We ate lunch at noon. 우리는 정오에 점심을 먹었어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① eat  ✗  현재형이라 ‘먹는다’가 돼요",
+    "② ate  ✓  eat의 과거형 → ‘먹었다’",
+    "③ eaten  ✗  과거분사라 혼자서 동사 자리에 못 써요",
+    "④ eating  ✗  ing형만으로는 동사 자리를 못 채워요",
+    "⑤ eats  ✗  현재형이고 주어 We와도 맞지 않아요"
+   ],
+   "narration": "정답은 2번 ate예요. 1번 eat을 넣으면 We eat lunch at noon. 우리는 정오에 점심을 먹는다라는 뜻이 되어 ‘먹었다’와 맞지 않아요. 3번 eaten은 과거분사라서 혼자서는 동사 자리에 쓸 수 없어요. 5번 eats는 현재형이고 주어 We와도 맞지 않아요."
+  },
+  "summary": {
+   "card": "지난 때에 한 일 → 동사의 과거형 (eat → ate)",
+   "narration": "정답은 2번이에요. 기억할 것, 지난 때에 한 일은 동사의 과거형으로 쓰고, eat의 과거형은 ate예요."
+  },
+  "captions": [
+   "지난 일에 맞는 eat의 형태",
+   "먼저 풀어 보세요",
+   "지난 일은 과거형으로",
+   "‘먹었다’ → 동사 자리 → ate",
+   "정답 ② ate",
+   "지난 일 → 동사의 과거형"
+  ],
+  "sec": [
+   10,
+   16,
+   26,
+   32,
+   26,
+   10
+  ]
+ },
+ "E": {
+  "title": "지난 일과 see의 과거형",
+  "intro": "이 문제는 지난 일에 맞는 see의 알맞은 형태를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 ‘Tom은 나무에서 새 한 마리를 보았다’라는 의미가 되도록 알맞은 단어를 고르세요. Tom 빈칸 a bird in the tree. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지난 때에 한 일 (yesterday, last week …) → 동사의 과거형",
+    "과거형: 보통 끝에 ed (play → played) · 불규칙 동사는 따로 외워요 (come → came)",
+    "ing형(seeing), 과거분사(seen)는 혼자서 동사 자리에 못 써요",
+    "예) I heard a strange sound two days ago. (나는 이틀 전에 이상한 소리를 들었어요.)"
+   ],
+   "narration": "yesterday나 last week처럼 지난 때에 한 일은 동사의 과거형으로 써요. 과거형은 보통 동사 끝에 ed를 붙여 play를 played로 쓰지만, come과 came처럼 모양이 따로 있는 불규칙 동사도 있어요. seeing 같은 ing형이나 seen 같은 과거분사는 혼자서 동사 자리에 쓸 수 없어요. 예를 들어 I heard a strange sound two days ago. 나는 이틀 전에 이상한 소리를 들었어요."
+  },
+  "steps": [
+   {
+    "note": "때를 나타내는 말은 없음 → 우리말 ‘보았다’로 지난 일임을 안다 → 과거형. 현재형 sees, 동사원형 see 지움",
+    "highlight": [
+     "보았다"
+    ],
+    "strike": [
+     "② sees",
+     "⑤ see"
+    ],
+    "narration": "첫째, 문장에 yesterday 같은 말은 없지만, 우리말 보았다를 보면 지난 일이라서 현재형 sees와 동사원형 see는 지워요."
+   },
+   {
+    "note": "빈칸 = 주어 Tom 바로 뒤 동사 자리. seeing, seen은 혼자서 못 씀 → 지움",
+    "highlight": [
+     "Tom ________"
+    ],
+    "strike": [
+     "③ seen",
+     "④ seeing"
+    ],
+    "narration": "둘째, 빈칸은 주어 Tom 바로 뒤의 동사 자리라서, 혼자서 이 자리를 채울 수 없는 ing형 seeing과 과거분사 seen도 지워요."
+   },
+   {
+    "note": "see의 과거형 saw → Tom saw a bird in the tree.",
+    "highlight": [
+     "① saw"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 see의 과거형 saw예요. Tom saw a bird in the tree. 톰은 나무에 있는 새 한 마리를 보았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① saw  ✓  see의 과거형 → ‘보았다’",
+    "② sees  ✗  현재형이라 ‘보았다’가 되지 않아요",
+    "③ seen  ✗  과거분사라 혼자서 동사 자리에 못 써요",
+    "④ seeing  ✗  ing형만으로는 동사 자리를 못 채워요",
+    "⑤ see  ✗  동사원형이라 ‘보았다’가 되지 않아요"
+   ],
+   "narration": "정답은 1번 saw예요. 3번 seen도 see에서 나온 꼴이라 과거처럼 보여요. 하지만 seen은 과거분사라서 혼자서는 동사 자리에 쓸 수 없어요. 2번 sees는 현재형이라 ‘보았다’라는 지난 일의 뜻이 되지 않아요. 5번 see도 동사원형이라 지난 일을 나타내지 못해요."
+  },
+  "summary": {
+   "card": "지난 때에 한 일 → 동사의 과거형 (see → saw)",
+   "narration": "정답은 1번이에요. 기억할 것, 지난 때에 한 일은 동사의 과거형으로 쓰고, see의 과거형은 saw예요."
+  },
+  "captions": [
+   "지난 일에 맞는 see의 형태",
+   "먼저 풀어 보세요",
+   "지난 일은 과거형으로",
+   "‘보았다’ → 동사 자리 → saw",
+   "정답 ① saw",
+   "지난 일 → 동사의 과거형"
+  ],
+  "sec": [
+   10,
+   16,
+   26,
+   32,
+   26,
+   10
+  ]
+ },
+ "F": {
+  "title": "지난 일과 make의 과거형",
+  "intro": "이 문제는 지난 일에 맞는 make의 알맞은 형태를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 ‘Jane은 어제 케이크를 만들었다’라는 의미가 되도록 알맞은 단어를 고르세요. Jane 빈칸 a cake yesterday. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지난 때에 한 일 (yesterday, last week …) → 동사의 과거형",
+    "과거형: 보통 끝에 ed (play → played) · 불규칙 동사는 따로 외워요 (come → came)",
+    "ing형(making), to가 붙은 꼴(to make)은 혼자서 동사 자리에 못 써요",
+    "예) We sang a song last Sunday. (우리는 지난 일요일에 노래를 불렀어요.)"
+   ],
+   "narration": "yesterday나 last week처럼 지난 때에 한 일은 동사의 과거형으로 써요. 과거형은 보통 동사 끝에 ed를 붙여 play를 played로 쓰지만, come과 came처럼 모양이 따로 있는 불규칙 동사도 있어요. making 같은 ing형이나 to make처럼 to가 붙은 꼴은 혼자서 동사 자리에 쓸 수 없어요. 예를 들어 We sang a song last Sunday. 우리는 지난 일요일에 노래를 불렀어요."
+  },
+  "steps": [
+   {
+    "note": "‘만들었다’, yesterday → 지난 일 → 과거형. 동사원형 make, 현재형 makes 지움",
+    "highlight": [
+     "만들었다",
+     "yesterday"
+    ],
+    "strike": [
+     "① make",
+     "② makes"
+    ],
+    "narration": "첫째, 우리말 만들었다와 yesterday를 보면 지난 일이라서, 동사원형 make와 현재형 makes는 지워요."
+   },
+   {
+    "note": "빈칸 = 주어 Jane 바로 뒤 동사 자리. making, to make는 혼자서 못 씀 → 지움",
+    "highlight": [
+     "Jane ________"
+    ],
+    "strike": [
+     "④ making",
+     "⑤ to make"
+    ],
+    "narration": "둘째, 빈칸은 주어 Jane 바로 뒤의 동사 자리라서, 혼자서 이 자리를 채울 수 없는 ing형 making과 to가 붙은 to make도 지워요."
+   },
+   {
+    "note": "make의 과거형 made → Jane made a cake yesterday.",
+    "highlight": [
+     "③ made"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 make의 과거형 made예요. Jane made a cake yesterday. 제인은 어제 케이크를 만들었어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① make  ✗  동사원형이라 ‘만들었다’가 되지 않아요",
+    "② makes  ✗  현재형이라 ‘만들었다’가 되지 않아요",
+    "③ made  ✓  make의 과거형 → ‘만들었다’",
+    "④ making  ✗  ing형만으로는 동사 자리를 못 채워요",
+    "⑤ to make  ✗  to가 붙은 꼴은 혼자서 동사 자리에 못 써요"
+   ],
+   "narration": "정답은 3번 made예요. 2번 makes는 현재형이라 ‘만들었다’라는 지난 일의 뜻이 되지 않아요. 5번 to make는 to가 붙은 꼴이라 혼자서는 동사 자리에 쓸 수 없어요. 4번 making도 ing형만으로는 동사 자리를 채울 수 없어요."
+  },
+  "summary": {
+   "card": "지난 때에 한 일 → 동사의 과거형 (make → made)",
+   "narration": "정답은 3번이에요. 기억할 것, 지난 때에 한 일은 동사의 과거형으로 쓰고, make의 과거형은 made예요."
+  },
+  "captions": [
+   "지난 일에 맞는 make의 형태",
+   "먼저 풀어 보세요",
+   "지난 일은 과거형으로",
+   "지난 일 → 동사 자리 → made",
+   "정답 ③ made",
+   "지난 일 → 동사의 과거형"
+  ],
+  "sec": [
+   10,
+   16,
+   26,
+   32,
+   24,
+   10
+  ]
+ }
+}

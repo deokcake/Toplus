@@ -1,0 +1,205 @@
+{
+ "key": "1-120",
+ "grade": 1,
+ "chapter": "CH 12 일치와 화법",
+ "items": {
+  "A": {
+   "stem": "다음 중 화법 전환이 어법상 틀린 문장으로만 묶인 것은?",
+   "passage": "(가) Tom said, \"I will be late tomorrow.\"\n→ Tom said that he would be late the next day.\n(나) She said, \"I will call you tomorrow.\"\n→ She said that she would call me tomorrow.\n(다) \"I'll do my best,\" said Minho.\n→ Minho said that he will do his best.\n(라) Jane said to me, \"I will visit you.\"\n→ Jane told me that she would visit me.\n(마) \"We will arrive tomorrow,\" they said.\n→ They said that we would arrive the next day.",
+   "c": [
+    "(가), (나)",
+    "(가), (다)",
+    "(다), (라)",
+    "(나), (다), (마)",
+    "(가), (라), (마)"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 평서문을 간접화법으로 바꿀 때는 전달동사가 과거이면 시제를 한 단계 뒤로 옮기고(will → would), 인칭대명사를 전달자의 처지에 맞게 바꾸며, tomorrow는 the next day로 바꾼다.\n풀이 순서: ① 화살표 뒤 문장마다 확인한다. 시제를 한 단계 뒤로 옮겼는지, 대명사와 때를 나타내는 말을 바꿨는지, 의문문·명령문이면 어순과 to부정사가 맞는지. → ② (나)는 tomorrow를, (다)는 will을, (마)는 we를 바꾸지 않았다. (가)와 (라)는 바르다. → ③ 틀린 것만 묶은 (나), (다), (마)를 고른다.\n문장별 판정: (가) O. will → would, tomorrow → the next day. (나) X. tomorrow를 the next day로 바꾸지 않았다. (다) X. will을 would로 바꾸지 않았다. (라) O. said to → told, will → would. (마) X. we를 they로 바꾸지 않았다.\n정답 판단: 틀린 것은 (나), (다), (마)이다.\n선택지 분석:\n① [오답] (가)는 바른 전환이므로 오답이다.\n② [오답] (가)는 바른 전환이므로 오답이다.\n③ [오답] (라)는 바른 전환이므로 오답이다.\n④ [정답] 틀린 (나), (다), (마)만 묶었으므로 정답이다.\n⑤ [오답] (가), (라)는 바른 전환이므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 중 화법 전환이 어법상 틀린 문장으로만 묶인 것은?",
+   "passage": "(가) Mina said, \"I am busy.\"\n→ Mina said that she was busy.\n(나) Tom asked me, \"When will you leave?\"\n→ Tom asked me when would I leave.\n(다) Jane said, \"I have finished.\"\n→ Jane said that she had finished.\n(라) Leo said, \"I met her yesterday.\"\n→ Leo said that he had met her the day before.\n(마) The coach said to us, \"Practice harder.\"\n→ The coach told us practice harder.",
+   "c": [
+    "(가), (나)",
+    "(나), (마)",
+    "(다), (라)",
+    "(나), (다), (마)",
+    "(가), (라), (마)"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 평서문은 said that/told + 사람 + that, 의문문은 asked + 의문사 + 주어 + 동사, 명령문은 told + 사람 + (not) to부정사로 바꾼다. 전달동사가 과거이면 시제를 한 단계 뒤로 옮기고 tomorrow → the next day, today → that day, now → then으로 바꾼다.\n풀이 순서: ① 화살표 뒤 문장마다 확인한다. 시제를 한 단계 뒤로 옮겼는지, 대명사와 때를 나타내는 말을 바꿨는지, 의문문·명령문이면 어순과 to부정사가 맞는지. → ② (나)는 간접의문문이 의문문 어순(when would I leave)이고, (마)는 told us 뒤에 to가 빠졌다. 나머지는 바르다. → ③ 틀린 것만 묶은 (나), (마)를 고른다.\n문장별 판정:\n(가) 옳음: am → was.\n(나) 틀림: 간접의문문은 when I would leave 어순이다.\n(다) 옳음: have finished → had finished.\n(라) 옳음: met → had met, yesterday → the day before.\n(마) 틀림: 명령문은 told us to practice harder로 쓴다.\n정답 판단: 화법 전환이 틀린 것은 (나), (마)이다.\n선택지 분석:\n① [오답] (가)는 틀린 항목이 아니고, 틀린 항목 (마)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 틀린 항목 (나), (마)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (다), (라)는 틀린 항목이 아니고, 틀린 항목 (나), (마)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (다)는 틀린 항목이 아니다. 따라서 오답이다.\n⑤ [오답] (가), (라)는 틀린 항목이 아니고, 틀린 항목 (나)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "C": {
+   "stem": "다음 중 화법 전환이 어법상 틀린 문장으로만 묶인 것은?",
+   "passage": "(가) Mina said, \"I will finish tomorrow.\"\n→ Mina said that she would finish tomorrow.\n(나) Tom said, \"I am tired now.\"\n→ Tom said that he was tired then.\n(다) Jane asked me, \"Where do you live?\"\n→ Jane asked me where did I live.\n(라) Leo said, \"I finished yesterday.\"\n→ Leo said that he had finished the day before.\n(마) The teacher said to me, \"Open the window.\"\n→ The teacher said me to open the window.",
+   "c": [
+    "(가), (나)",
+    "(다), (라)",
+    "(가), (다), (마)",
+    "(나), (다), (마)",
+    "(가), (라), (마)"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 평서문은 said that/told + 사람 + that, 의문문은 asked + 의문사 + 주어 + 동사, 명령문은 told + 사람 + (not) to부정사로 바꾼다. 전달동사가 과거이면 시제를 한 단계 뒤로 옮기고 tomorrow → the next day, today → that day, now → then으로 바꾼다.\n풀이 순서: ① 화살표 뒤 문장마다 확인한다. 시제를 한 단계 뒤로 옮겼는지, 대명사와 때를 나타내는 말을 바꿨는지, 의문문·명령문이면 어순과 to부정사가 맞는지. → ② (가)는 tomorrow를 바꾸지 않았고, (다)는 간접의문문이 의문문 어순이며, (마)는 said me to가 아니라 told me to여야 한다. 나머지는 바르다. → ③ 틀린 것만 묶은 (가), (다), (마)를 고른다.\n문장별 판정:\n(가) 틀림: tomorrow는 the next day로 바꿔야 한다.\n(나) 옳음: am → was, now → then.\n(다) 틀림: 간접의문문은 where I lived 어순이다.\n(라) 옳음: finished → had finished, yesterday → the day before.\n(마) 틀림: 명령문은 told me to open으로 쓴다.\n정답 판단: 화법 전환이 틀린 것은 (가), (다), (마)이다.\n선택지 분석:\n① [오답] (나)는 틀린 항목이 아니고, 틀린 항목 (다), (마)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (라)는 틀린 항목이 아니고, 틀린 항목 (가), (마)를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 틀린 항목 (가), (다), (마)를 빠짐없이 골랐으므로 정답이다.\n④ [오답] (나)는 틀린 항목이 아니고, 틀린 항목 (가)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (라)는 틀린 항목이 아니고, 틀린 항목 (다)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "D": {
+   "stem": "다음 중 화법 전환이 어법상 틀린 문장으로만 묶인 것은?",
+   "passage": "(가) Tom said, \"I can help.\"\n→ Tom said that he could help.\n(나) Mina said to me, \"I will call you tomorrow.\"\n→ Mina said that she will call me tomorrow.\n(다) Jane asked me, \"Why are you late?\"\n→ Jane asked me why was I late.\n(라) Leo said, \"I saw him yesterday.\"\n→ Leo said that he had seen him the day before.\n(마) Mom said to me, \"Do not run.\"\n→ Mom told me not to run.",
+   "c": [
+    "(가), (나)",
+    "(다), (라)",
+    "(나), (라), (마)",
+    "(가), (다), (마)",
+    "(나), (다)"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 평서문은 said that/told + 사람 + that, 의문문은 asked + 의문사 + 주어 + 동사, 명령문은 told + 사람 + (not) to부정사로 바꾼다. 전달동사가 과거이면 시제를 한 단계 뒤로 옮기고 tomorrow → the next day, today → that day, now → then으로 바꾼다.\n풀이 순서: ① 화살표 뒤 문장마다 확인한다. 시제를 한 단계 뒤로 옮겼는지, 대명사와 때를 나타내는 말을 바꿨는지, 의문문·명령문이면 어순과 to부정사가 맞는지. → ② (나)는 will과 tomorrow를 바꾸지 않았고, (다)는 간접의문문이 의문문 어순(why was I late)이다. 나머지는 바르다. → ③ 틀린 것만 묶은 (나), (다)를 고른다.\n문장별 판정:\n(가) 옳음: can → could.\n(나) 틀림: will → would, tomorrow → the next day로 바꿔야 한다.\n(다) 틀림: 간접의문문은 why I was late 어순이다.\n(라) 옳음: saw → had seen, yesterday → the day before.\n(마) 옳음: 부정 명령문은 told me not to run이다.\n정답 판단: 화법 전환이 틀린 것은 (나), (다)이다.\n선택지 분석:\n① [오답] (가)는 틀린 항목이 아니고, 틀린 항목 (다)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (라)는 틀린 항목이 아니고, 틀린 항목 (나)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (라), (마)는 틀린 항목이 아니고, 틀린 항목 (다)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (가), (마)는 틀린 항목이 아니고, 틀린 항목 (나)를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 틀린 항목 (나), (다)를 빠짐없이 골랐으므로 정답이다."
+  },
+  "E": {
+   "stem": "다음 중 화법 전환이 어법상 틀린 문장으로만 묶인 것은?",
+   "passage": "(가) Tom said, \"I will be late for the meeting.\"\n→ Tom said that he will be late for the meeting.\n(나) Mina asked me, \"Where did you go last weekend?\"\n→ Mina asked me where I had gone the previous weekend.\n(다) Jane said, \"I can drive my father's car.\"\n→ Jane said that she could drive her father's car.\n(라) Leo said, \"I finished my homework today.\"\n→ Leo said that he had finished his homework today.\n(마) Dad said to me, \"Do not touch the hot pan.\"\n→ Dad told me not to touch the hot pan.",
+   "c": [
+    "(가), (라)",
+    "(나), (다)",
+    "(가), (나), (라)",
+    "(다), (마)",
+    "(라), (마)"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 평서문은 said that/told + 사람 + that, 의문문은 asked + 의문사 + 주어 + 동사, 명령문은 told + 사람 + (not) to부정사로 바꾼다. 전달동사가 과거이면 시제를 한 단계 뒤로 옮기고 tomorrow → the next day, today → that day, now → then으로 바꾼다.\n풀이 순서: ① 화살표 뒤 문장마다 확인한다. 시제를 한 단계 뒤로 옮겼는지, 대명사와 때를 나타내는 말을 바꿨는지, 의문문·명령문이면 어순과 to부정사가 맞는지. → ② (가)는 will을 would로, (라)는 today를 that day로 바꾸지 않았다. 나머지는 바르다. → ③ 틀린 것만 묶은 (가), (라)를 고른다.\n문장별 판정:\n(가) 틀림: will을 would로 바꿔야 한다.\n(나) 옳음: 간접의문문 어순이고 did go → had gone, last weekend → the previous weekend로 바꿨다.\n(다) 옳음: can을 could로, my를 her로 바꿨다.\n(라) 틀림: today는 that day로 바꿔야 한다.\n(마) 옳음: 부정 명령문은 told me not to touch로 전달한다.\n정답 판단: 화법 전환이 틀린 것은 (가), (라)이다.\n선택지 분석:\n① [정답] 틀린 항목 (가), (라)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (나), (다)는 틀린 항목이 아니고, 틀린 항목 (가), (라)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (나)는 틀린 항목이 아니다. 따라서 오답이다.\n④ [오답] (다), (마)는 틀린 항목이 아니고, 틀린 항목 (가), (라)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (마)는 틀린 항목이 아니고, 틀린 항목 (가)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "F": {
+   "stem": "다음 중 화법 전환이 어법상 틀린 문장으로만 묶인 것은?",
+   "passage": "(가) Mina said, \"I have lost my key to the house.\"\n→ Mina said that she had lost her key to the house.\n(나) Tom asked, \"Why did Jane leave the party early?\"\n→ Tom asked why Jane had left the party early.\n(다) Jane said, \"I will call you tonight.\"\n→ Jane said that she will call me that night.\n(라) Leo said to me, \"Close the door behind you.\"\n→ Leo told me to close the door behind me.\n(마) Mom said to me, \"Do not be late for dinner.\"\n→ Mom said me not to be late for dinner.",
+   "c": [
+    "(가), (다)",
+    "(나), (라)",
+    "(다), (마)",
+    "(가), (나), (마)",
+    "(라), (마)"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 평서문은 said that/told + 사람 + that, 의문문은 asked + 의문사 + 주어 + 동사, 명령문은 told + 사람 + (not) to부정사로 바꾼다. 전달동사가 과거이면 시제를 한 단계 뒤로 옮기고 tomorrow → the next day, today → that day, now → then으로 바꾼다.\n풀이 순서: ① 화살표 뒤 문장마다 확인한다. 시제를 한 단계 뒤로 옮겼는지, 대명사와 때를 나타내는 말을 바꿨는지, 의문문·명령문이면 어순과 to부정사가 맞는지. → ② (다)는 will을 would로 바꾸지 않았고, (마)는 said me가 아니라 told me여야 한다. 나머지는 바르다. → ③ 틀린 것만 묶은 (다), (마)를 고른다.\n문장별 판정:\n(가) 옳음: have lost → had lost, my → her로 바꿨다.\n(나) 옳음: 간접의문문 어순이고 did leave → had left로 바꿨다.\n(다) 틀림: will을 would로 바꿔야 한다.\n(라) 옳음: 명령문은 told me to close로 전달하고 you를 me로 바꿨다.\n(마) 틀림: said 뒤에 사람을 바로 쓸 수 없다. Mom told me not to be late for dinner.\n정답 판단: 화법 전환이 틀린 것은 (다), (마)이다.\n선택지 분석:\n① [오답] (가)는 틀린 항목이 아니고, 틀린 항목 (마)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (나), (라)는 틀린 항목이 아니고, 틀린 항목 (다), (마)를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 틀린 항목 (다), (마)를 빠짐없이 골랐으므로 정답이다.\n④ [오답] (가), (나)는 틀린 항목이 아니고, 틀린 항목 (다)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (라)는 틀린 항목이 아니고, 틀린 항목 (다)를 빠뜨렸다. 따라서 오답이다."
+  }
+ },
+ "prior_review": {
+  "A": {
+   "verdict": "보완 권장",
+   "issues": [
+    {
+     "kind": "표기",
+     "where": "문장별 판정",
+     "detail": "(가)~(마) 다섯 판정이 한 줄에 이어져 있다. 고정 짜임대로 문장마다 줄을 나눈다."
+    },
+    {
+     "kind": "표기",
+     "where": "풀이 순서 ③·정답 판단",
+     "detail": "풀이 순서 끝에 ‘정답은 ④.’가 없고, 정답 판단이 ‘틀린 것은 (나), (다), (마)이다.’로 끝나 ‘정답은 ④이다.’ 끝맺음이 없다."
+    },
+    {
+     "kind": "구체성",
+     "where": "선택지 분석 ①·②",
+     "detail": "①과 ②가 “(가)는 바른 전환이므로 오답이다.”로 글자 그대로 같다. 조합형 집 규칙대로 ‘바른 것을 넣었고 틀린 ○○을 빠뜨렸다’ 꼴로 보기마다 다르게 쓴다."
+    }
+   ],
+   "proposed": "핵심 규칙: 평서문을 간접화법으로 바꿀 때는 전달동사가 과거이면 시제를 한 단계 뒤로 옮기고(will → would), 인칭대명사를 전달자의 처지에 맞게 바꾸며, tomorrow는 the next day로 바꾼다.\n풀이 순서: ① 화살표 뒤 문장마다 확인한다. 시제를 한 단계 뒤로 옮겼는지, 대명사와 때를 나타내는 말을 바꿨는지, 의문문·명령문이면 어순과 to부정사가 맞는지. → ② (나)는 tomorrow를, (다)는 will을, (마)는 we를 바꾸지 않았다. (가)와 (라)는 바르다. → ③ 틀린 것만 묶은 (나), (다), (마)를 고른다. 정답은 ④.\n문장별 판정:\n(가) O. will → would, tomorrow → the next day로 바꿨다.\n(나) X. tomorrow를 the next day로 바꾸지 않았다.\n(다) X. will을 would로 바꾸지 않았다.\n(라) O. said to → told, will → would로 바꿨다.\n(마) X. we를 they로 바꾸지 않았다.\n정답 판단: 화법 전환이 틀린 것은 (나), (다), (마)이므로 정답은 ④이다.\n선택지 분석:\n① [오답] (가)는 바른 전환이고, 틀린 (다), (마)를 빠뜨렸으므로 오답이다.\n② [오답] (가)는 바른 전환이고, 틀린 (나), (마)를 빠뜨렸으므로 오답이다.\n③ [오답] (라)는 바른 전환이고, 틀린 (나), (마)를 빠뜨렸으므로 오답이다.\n④ [정답] 틀린 (나), (다), (마)만 빠짐없이 묶었으므로 정답이다.\n⑤ [오답] (가), (라)는 바른 전환이고, 틀린 (나), (다)를 빠뜨렸으므로 오답이다.",
+   "note": "",
+   "verified": false
+  },
+  "B": {
+   "verdict": "보완 권장",
+   "issues": [
+    {
+     "kind": "표기",
+     "where": "풀이 순서 ③·정답 판단",
+     "detail": "풀이 순서 끝에 ‘정답은 ②.’가 없고, 정답 판단이 ‘…틀린 것은 ( ), ( )이다.’로 끝나 ‘정답은 ②이다.’ 끝맺음이 없다."
+    },
+    {
+     "kind": "일관성",
+     "where": "문장별 판정",
+     "detail": "판정 표시를 ‘옳음:/틀림:’으로 썼다. 고정 짜임과 같은 번호의 A 해설은 ‘O./X.’이므로 맞춘다."
+    }
+   ],
+   "proposed": "핵심 규칙: 평서문은 said that/told + 사람 + that, 의문문은 asked + 의문사 + 주어 + 동사, 명령문은 told + 사람 + (not) to부정사로 바꾼다. 전달동사가 과거이면 시제를 한 단계 뒤로 옮기고 tomorrow → the next day, today → that day, now → then으로 바꾼다.\n풀이 순서: ① 화살표 뒤 문장마다 확인한다. 시제를 한 단계 뒤로 옮겼는지, 대명사와 때를 나타내는 말을 바꿨는지, 의문문·명령문이면 어순과 to부정사가 맞는지. → ② (나)는 간접의문문이 의문문 어순(when would I leave)이고, (마)는 told us 뒤에 to가 빠졌다. 나머지는 바르다. → ③ 틀린 것만 묶은 (나), (마)를 고른다. 정답은 ②.\n문장별 판정:\n(가) O. am → was.\n(나) X. 간접의문문은 when I would leave 어순이다.\n(다) O. have finished → had finished.\n(라) O. met → had met, yesterday → the day before.\n(마) X. 명령문은 told us to practice harder로 쓴다.\n정답 판단: 화법 전환이 틀린 것은 (나), (마)이므로 정답은 ②이다.\n선택지 분석:\n① [오답] (가)는 틀린 항목이 아니고, 틀린 항목 (마)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 틀린 항목 (나), (마)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (다), (라)는 틀린 항목이 아니고, 틀린 항목 (나), (마)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (다)는 틀린 항목이 아니다. 따라서 오답이다.\n⑤ [오답] (가), (라)는 틀린 항목이 아니고, 틀린 항목 (나)를 빠뜨렸다. 따라서 오답이다.",
+   "note": "",
+   "verified": false
+  },
+  "C": {
+   "verdict": "보완 권장",
+   "issues": [
+    {
+     "kind": "표기",
+     "where": "풀이 순서 ③·정답 판단",
+     "detail": "풀이 순서 끝에 ‘정답은 ③.’가 없고, 정답 판단이 ‘…틀린 것은 ( ), ( )이다.’로 끝나 ‘정답은 ③이다.’ 끝맺음이 없다."
+    },
+    {
+     "kind": "일관성",
+     "where": "문장별 판정",
+     "detail": "판정 표시를 ‘옳음:/틀림:’으로 썼다. 고정 짜임과 같은 번호의 A 해설은 ‘O./X.’이므로 맞춘다."
+    }
+   ],
+   "proposed": "핵심 규칙: 평서문은 said that/told + 사람 + that, 의문문은 asked + 의문사 + 주어 + 동사, 명령문은 told + 사람 + (not) to부정사로 바꾼다. 전달동사가 과거이면 시제를 한 단계 뒤로 옮기고 tomorrow → the next day, today → that day, now → then으로 바꾼다.\n풀이 순서: ① 화살표 뒤 문장마다 확인한다. 시제를 한 단계 뒤로 옮겼는지, 대명사와 때를 나타내는 말을 바꿨는지, 의문문·명령문이면 어순과 to부정사가 맞는지. → ② (가)는 tomorrow를 바꾸지 않았고, (다)는 간접의문문이 의문문 어순이며, (마)는 said me to가 아니라 told me to여야 한다. 나머지는 바르다. → ③ 틀린 것만 묶은 (가), (다), (마)를 고른다. 정답은 ③.\n문장별 판정:\n(가) X. tomorrow는 the next day로 바꿔야 한다.\n(나) O. am → was, now → then.\n(다) X. 간접의문문은 where I lived 어순이다.\n(라) O. finished → had finished, yesterday → the day before.\n(마) X. 명령문은 told me to open으로 쓴다.\n정답 판단: 화법 전환이 틀린 것은 (가), (다), (마)이므로 정답은 ③이다.\n선택지 분석:\n① [오답] (나)는 틀린 항목이 아니고, 틀린 항목 (다), (마)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (라)는 틀린 항목이 아니고, 틀린 항목 (가), (마)를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 틀린 항목 (가), (다), (마)를 빠짐없이 골랐으므로 정답이다.\n④ [오답] (나)는 틀린 항목이 아니고, 틀린 항목 (가)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (라)는 틀린 항목이 아니고, 틀린 항목 (다)를 빠뜨렸다. 따라서 오답이다.",
+   "note": "",
+   "verified": false
+  },
+  "D": {
+   "verdict": "보완 권장",
+   "issues": [
+    {
+     "kind": "표기",
+     "where": "풀이 순서 ③·정답 판단",
+     "detail": "풀이 순서 끝에 ‘정답은 ⑤.’가 없고, 정답 판단이 ‘…틀린 것은 ( ), ( )이다.’로 끝나 ‘정답은 ⑤이다.’ 끝맺음이 없다."
+    },
+    {
+     "kind": "일관성",
+     "where": "문장별 판정",
+     "detail": "판정 표시를 ‘옳음:/틀림:’으로 썼다. 고정 짜임과 같은 번호의 A 해설은 ‘O./X.’이므로 맞춘다."
+    }
+   ],
+   "proposed": "핵심 규칙: 평서문은 said that/told + 사람 + that, 의문문은 asked + 의문사 + 주어 + 동사, 명령문은 told + 사람 + (not) to부정사로 바꾼다. 전달동사가 과거이면 시제를 한 단계 뒤로 옮기고 tomorrow → the next day, today → that day, now → then으로 바꾼다.\n풀이 순서: ① 화살표 뒤 문장마다 확인한다. 시제를 한 단계 뒤로 옮겼는지, 대명사와 때를 나타내는 말을 바꿨는지, 의문문·명령문이면 어순과 to부정사가 맞는지. → ② (나)는 will과 tomorrow를 바꾸지 않았고, (다)는 간접의문문이 의문문 어순(why was I late)이다. 나머지는 바르다. → ③ 틀린 것만 묶은 (나), (다)를 고른다. 정답은 ⑤.\n문장별 판정:\n(가) O. can → could.\n(나) X. will → would, tomorrow → the next day로 바꿔야 한다.\n(다) X. 간접의문문은 why I was late 어순이다.\n(라) O. saw → had seen, yesterday → the day before.\n(마) O. 부정 명령문은 told me not to run이다.\n정답 판단: 화법 전환이 틀린 것은 (나), (다)이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] (가)는 틀린 항목이 아니고, 틀린 항목 (다)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (라)는 틀린 항목이 아니고, 틀린 항목 (나)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (라), (마)는 틀린 항목이 아니고, 틀린 항목 (다)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (가), (마)는 틀린 항목이 아니고, 틀린 항목 (나)를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 틀린 항목 (나), (다)를 빠짐없이 골랐으므로 정답이다.",
+   "note": "",
+   "verified": false
+  },
+  "E": {
+   "verdict": "보완 권장",
+   "issues": [
+    {
+     "kind": "표기",
+     "where": "풀이 순서 ③·정답 판단",
+     "detail": "풀이 순서 끝에 ‘정답은 ①.’가 없고, 정답 판단이 ‘…틀린 것은 ( ), ( )이다.’로 끝나 ‘정답은 ①이다.’ 끝맺음이 없다."
+    },
+    {
+     "kind": "일관성",
+     "where": "문장별 판정",
+     "detail": "판정 표시를 ‘옳음:/틀림:’으로 썼다. 고정 짜임과 같은 번호의 A 해설은 ‘O./X.’이므로 맞춘다."
+    }
+   ],
+   "proposed": "핵심 규칙: 평서문은 said that/told + 사람 + that, 의문문은 asked + 의문사 + 주어 + 동사, 명령문은 told + 사람 + (not) to부정사로 바꾼다. 전달동사가 과거이면 시제를 한 단계 뒤로 옮기고 tomorrow → the next day, today → that day, now → then으로 바꾼다.\n풀이 순서: ① 화살표 뒤 문장마다 확인한다. 시제를 한 단계 뒤로 옮겼는지, 대명사와 때를 나타내는 말을 바꿨는지, 의문문·명령문이면 어순과 to부정사가 맞는지. → ② (가)는 will을 would로, (라)는 today를 that day로 바꾸지 않았다. 나머지는 바르다. → ③ 틀린 것만 묶은 (가), (라)를 고른다. 정답은 ①.\n문장별 판정:\n(가) X. will을 would로 바꿔야 한다.\n(나) O. 간접의문문 어순이고 did go → had gone, last weekend → the previous weekend로 바꿨다.\n(다) O. can을 could로, my를 her로 바꿨다.\n(라) X. today는 that day로 바꿔야 한다.\n(마) O. 부정 명령문은 told me not to touch로 전달한다.\n정답 판단: 화법 전환이 틀린 것은 (가), (라)이므로 정답은 ①이다.\n선택지 분석:\n① [정답] 틀린 항목 (가), (라)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (나), (다)는 틀린 항목이 아니고, 틀린 항목 (가), (라)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (나)는 틀린 항목이 아니다. 따라서 오답이다.\n④ [오답] (다), (마)는 틀린 항목이 아니고, 틀린 항목 (가), (라)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (마)는 틀린 항목이 아니고, 틀린 항목 (가)를 빠뜨렸다. 따라서 오답이다.",
+   "note": "",
+   "verified": false
+  },
+  "F": {
+   "verdict": "보완 권장",
+   "issues": [
+    {
+     "kind": "표기",
+     "where": "풀이 순서 ③·정답 판단",
+     "detail": "풀이 순서 끝에 ‘정답은 ③.’가 없고, 정답 판단이 ‘…틀린 것은 ( ), ( )이다.’로 끝나 ‘정답은 ③이다.’ 끝맺음이 없다."
+    },
+    {
+     "kind": "일관성",
+     "where": "문장별 판정",
+     "detail": "판정 표시를 ‘옳음:/틀림:’으로 썼다. 고정 짜임과 같은 번호의 A 해설은 ‘O./X.’이므로 맞춘다."
+    },
+    {
+     "kind": "표기",
+     "where": "문장별 판정 (마)",
+     "detail": "‘Mom told me not to be late for dinner.’가 영어만으로 된 해설 문장이다(금지 표기). ‘told me not to be late로 써야 한다’처럼 우리말 문장 안에 넣는다."
+    }
+   ],
+   "proposed": "핵심 규칙: 평서문은 said that/told + 사람 + that, 의문문은 asked + 의문사 + 주어 + 동사, 명령문은 told + 사람 + (not) to부정사로 바꾼다. 전달동사가 과거이면 시제를 한 단계 뒤로 옮기고 tomorrow → the next day, today → that day, now → then으로 바꾼다.\n풀이 순서: ① 화살표 뒤 문장마다 확인한다. 시제를 한 단계 뒤로 옮겼는지, 대명사와 때를 나타내는 말을 바꿨는지, 의문문·명령문이면 어순과 to부정사가 맞는지. → ② (다)는 will을 would로 바꾸지 않았고, (마)는 said me가 아니라 told me여야 한다. 나머지는 바르다. → ③ 틀린 것만 묶은 (다), (마)를 고른다. 정답은 ③.\n문장별 판정:\n(가) O. have lost → had lost, my → her로 바꿨다.\n(나) O. 간접의문문 어순이고 did leave → had left로 바꿨다.\n(다) X. will을 would로 바꿔야 한다.\n(라) O. 명령문은 told me to close로 전달하고 you를 me로 바꿨다.\n(마) X. said 뒤에 사람을 바로 쓸 수 없으므로 told me not to be late로 써야 한다.\n정답 판단: 화법 전환이 틀린 것은 (다), (마)이므로 정답은 ③이다.\n선택지 분석:\n① [오답] (가)는 틀린 항목이 아니고, 틀린 항목 (마)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (나), (라)는 틀린 항목이 아니고, 틀린 항목 (다), (마)를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 틀린 항목 (다), (마)를 빠짐없이 골랐으므로 정답이다.\n④ [오답] (가), (나)는 틀린 항목이 아니고, 틀린 항목 (다)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (라)는 틀린 항목이 아니고, 틀린 항목 (다)를 빠뜨렸다. 따라서 오답이다.",
+   "note": "",
+   "verified": false
+  }
+ }
+}

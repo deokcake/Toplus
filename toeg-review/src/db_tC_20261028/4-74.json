@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:37:32.355Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "The Nile is the longest river in the world.",
+      "1": "This puzzle is more easy than that one.",
+      "2": "This is the best pizza in town.",
+      "3": "Jane is more careful than Tom.",
+      "4": "It is the coldest day of the year."
+    },
+    "expl": "핵심 규칙: 짧은 단어는 -er·-est, 긴 단어는 more·most를 붙이며 둘을 겹쳐 쓰지 않는다. good - better - best, bad - worse - worst는 불규칙 변화이다.\n풀이 순서: ① 문장마다 비교급·최상급의 형태를 본다. → ② more/most와 -er/-est가 겹쳤는지, 불규칙 변화를 규칙형으로 쓰지 않았는지 확인한다. → ③ 선택지 ②의 easy는 짧은 낱말이라 more를 쓰지 않는다. easier가 맞다. 정답은 ②.\n문장별 판정:\n정답 판단: easy의 비교급은 easier이므로 정답은 ②이다.\n선택지 분석:\n① [오답] 비교급·최상급을 바르게 썼으므로 오답이다.\n② [정답] easy의 비교급은 easier이므로 정답이다.\n③ [오답] 비교급·최상급을 바르게 썼으므로 오답이다.\n④ [오답] 비교급·최상급을 바르게 썼으므로 오답이다.\n⑤ [오답] 비교급·최상급을 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 틀린 문장을 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:37:31.507Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:37:32.355Z",
+      "what": "확인 완료"
+    }
+  }
+}

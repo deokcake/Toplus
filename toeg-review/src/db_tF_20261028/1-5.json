@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-21 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-26T06:28:50.830Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 보어는 주어·목적어의 상태를 설명하고 부사어는 동작을 꾸민다. 각 동사의 목적어·전치사 결합을 실제 문장에 적용한다.\n풀이 순서: ① 문장마다 동사의 종류부터 가른다. 감각동사 뒤와 find·keep·make·consider의 목적어 뒤는 형용사 자리이고, reach·discuss·enter·approach 뒤는 전치사 없는 목적어 자리다. → ② 형용사 자리에 부사가 왔거나 타동사 뒤에 전치사가 붙은 문장을 표시한다: a) looks beautifully. → ③ 표시한 문장을 세면 1개이다.\n문장별 판정:\na) 틀림: sky의 모습을 설명하는 형용사 beautiful이 필요하다. beautifully → beautiful.\nb) 옳음: useful은 목적어 the book의 성질을 나타낸다.\nc) 옳음: anxious는 목적어 us의 상태를 설명한다.\nd) 옳음: quietly는 slept를 꾸미는 부사이다.\ne) 옳음: inform A of B 구조이다.\nf) 옳음: reach home에서 home을 직접 취하고 safely는 도착 방식을 꾸민다.\n정답 판단: 어법상 틀린 문장은 a의 1개이다.\n선택지 분석:\n① [정답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 1개는 실제 개수와 일치한다.\n② [오답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "a) The sky looks beautifully after the summer rain.\nb) I found the book useful for my science report.\nc) The news made us anxious about the trip.\nd) The child slept quietly in the back seat.\ne) Jane informed Tom of the decision this morning.\nf) We reached home safely before the storm.",
+    "stem": "다음 중 어법상 틀린 문장의 개수를 고르시오."
+  },
+  "tab": "ij7ic6nx",
+  "updatedAt": "2026-10-26T06:28:50.830Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:28:50.830Z",
+      "what": "확인 완료"
+    }
+  }
+}

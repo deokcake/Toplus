@@ -1,0 +1,179 @@
+{
+ "key": "2-2",
+ "type": "E",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "title": "5형식과 1형식 구별하기",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "2급 · CH 1 문장의 형식 · 2번 · E 유형\n\n이 문제는 목적격 보어가 있는지 따져 5형식이 아닌 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 1 문장의 형식 · 2번 · E 유형",
+     "이 문제는 목적격 보어가 있는지 따져 5형식이 아닌 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 1, 2번 E 유형. 이 문제는 목적격 보어가 있는지 따져 5형식이 아닌 문장을 고르는 문제예요.",
+   "caption": "5형식이 아닌 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 5형식 문장이 아닌 것을 고르시오.\n\n① The movie made her sleepy.\n② They appointed him manager.\n③ I want you to stay.\n④ The train stopped suddenly.\n⑤ The teacher asked us to sit down.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 5형식 문장이 아닌 것을 고르시오.",
+     "① The movie made her sleepy.",
+     "② They appointed him manager.",
+     "③ I want you to stay.",
+     "④ The train stopped suddenly.",
+     "⑤ The teacher asked us to sit down."
+    ]
+   },
+   "narration": "다음 중 5형식 문장이 아닌 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n5형식 = 주어 + 동사 + 목적어 + 목적격 보어\n목적격 보어(명사, 형용사, to부정사, 분사 등) → 목적어의 이름·신분·상태·행동을 설명\n동사 뒤에 목적어·보어 없이 부사(구)만 있으면 → 1형식 (부사는 형식에 세지 않아요)\n예) The song makes me happy. (그 노래는 나를 행복하게 해요. happy → me의 상태)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "5형식 = 주어 + 동사 + 목적어 + 목적격 보어",
+     "목적격 보어(명사, 형용사, to부정사, 분사 등) → 목적어의 이름·신분·상태·행동을 설명",
+     "동사 뒤에 목적어·보어 없이 부사(구)만 있으면 → 1형식 (부사는 형식에 세지 않아요)",
+     "예) The song makes me happy. (그 노래는 나를 행복하게 해요. happy → me의 상태)"
+    ]
+   },
+   "narration": "5형식 문장은 주어, 동사, 목적어 뒤에 목적격 보어가 오는 문장이에요. 목적격 보어는 명사, 형용사, to부정사, 분사 같은 말로, 목적어의 이름이나 신분, 상태, 행동을 설명해요. 예를 들어 The song makes me happy. 그 노래는 나를 행복하게 해요. 반면 동사 뒤에 목적어도 보어도 없이 부사나 부사구만 있으면 1형식이에요.",
+   "caption": "목적어 + 목적격 보어 = 5형식"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 33,
+   "screen": {
+    "text": "다음 중 5형식 문장이 아닌 것을 고르시오.\n\n① The movie made her sleepy.\n② They appointed him manager.\n③ I want you to stay.\n④ The train stopped suddenly.\n⑤ The teacher asked us to sit down.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "5형식 문장이 아닌 것"
+      ],
+      "strike": [],
+      "note": "5형식이 ‘아닌’ 것 → 문장마다 동사 뒤에 ‘목적어 + 목적어를 설명하는 말’이 있는지 본다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "her sleepy",
+       "him manager",
+       "you to stay",
+       "us to sit down"
+      ],
+      "strike": [
+       "① The movie made her sleepy.",
+       "② They appointed him manager.",
+       "③ I want you to stay.",
+       "⑤ The teacher asked us to sit down."
+      ],
+      "note": "sleepy = her의 상태, manager = him의 신분, to stay·to sit down = you, us가 할 행동 → ①②③⑤ 모두 5형식"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "stopped suddenly"
+      ],
+      "strike": [],
+      "note": "stopped 뒤에 목적어 없음, suddenly = 동사를 꾸미는 부사 → 1형식"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 동사 뒤에 목적어와 그 목적어를 설명하는 말이 함께 있는지 봐요. 둘째, 1번 sleepy는 her의 상태를, 2번 manager는 him의 신분을, 3번 to stay와 5번 to sit down은 you와 us가 할 행동을 나타내요. 그래서 이 네 문장은 모두 5형식이에요. 셋째, 4번은 stopped 뒤에 목적어가 없고, suddenly는 동사를 꾸미는 부사라서 1형식이에요.",
+   "caption": "보어 확인 → 부사만 → ④"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 30,
+   "screen": {
+    "text": "① The movie made her sleepy.  ✗  sleepy가 her의 상태 → 5형식\n② They appointed him manager.  ✗  manager가 him의 신분(직책) → 5형식\n③ I want you to stay.  ✗  to stay가 you가 할 행동 → 5형식\n④ The train stopped suddenly.  ✓  stopped 뒤에 부사 suddenly만 → 1형식\n⑤ The teacher asked us to sit down.  ✗  to sit down이 us가 할 행동 → 5형식",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① The movie made her sleepy.  ✗  sleepy가 her의 상태 → 5형식",
+     "② They appointed him manager.  ✗  manager가 him의 신분(직책) → 5형식",
+     "③ I want you to stay.  ✗  to stay가 you가 할 행동 → 5형식",
+     "④ The train stopped suddenly.  ✓  stopped 뒤에 부사 suddenly만 → 1형식",
+     "⑤ The teacher asked us to sit down.  ✗  to sit down이 us가 할 행동 → 5형식"
+    ]
+   },
+   "narration": "정답은 4번 The train stopped suddenly, 기차가 갑자기 멈췄다는 문장이에요. 3번 I want you to stay는 네가 머물기를 원한다는 뜻으로, you가 목적어이고 to stay는 you가 할 행동을 설명하는 목적격 보어예요. 2번은 him 뒤에 명사 manager가 이어져 4형식처럼 보이지만, him이 곧 manager라서 manager는 신분을 나타내는 목적격 보어예요.",
+   "caption": "정답 ④ (1형식)"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ④ The train stopped suddenly.\n\n목적어 + 목적격 보어 → 5형식, 동사 뒤에 부사(구)만 → 1형식",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ The train stopped suddenly.",
+     "목적어 + 목적격 보어 → 5형식, 동사 뒤에 부사(구)만 → 1형식"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 목적어 뒤에 그 목적어를 설명하는 목적격 보어가 있어야 5형식이에요.",
+   "caption": "목적어 + 목적격 보어 → 5형식"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 5형식 문장이 아닌 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "The movie made her sleepy.",
+   "They appointed him manager.",
+   "I want you to stay.",
+   "The train stopped suddenly.",
+   "The teacher asked us to sit down."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 5형식은 S+V+O+OC이며 목적격보어는 목적어의 상태·직책·행동을 설명한다. 명사구 전체를 하나의 성분으로 분석한다.\n풀이 순서: ① 문장마다 동사 뒤에 ‘목적어 + 목적어를 설명하는 말’이 이어지는지 본다. → ② 목적어 뒤의 말이 목적어의 이름·상태·행동을 나타내면 5형식이다. → ③ 선택지 ④는 stopped 뒤에 부사 suddenly만 있는 1형식이다(③·⑤의 to부정사는 목적격 보어다). 5형식이 아니다.\n문장별 판정:\n정답 판단: The train(S)+stopped(V)의 1형식이다. suddenly는 동사를 수식하는 부사이며 목적어나 보어가 아니다. 5형식이 아닌 문장을 묻기 때문에 정답이다.\n선택지 분석:\n① [오답] The movie(S)+made(V)+her(O)+sleepy(OC)의 5형식이다. sleepy는 her의 상태를 설명한다.\n② [오답] They(S)+appointed(V)+him(O)+manager(OC)의 5형식이다. manager는 him의 직책을 설명하며 목적어에 합치지 않는다.\n③ [오답] I(S)+want(V)+you(O)+to stay(OC)의 5형식이다. to stay는 you가 할 행동을 설명한다.\n④ [정답] The train(S)+stopped(V)의 1형식이다. suddenly는 동사를 수식하는 부사이며 목적어나 보어가 아니다.\n⑤ [오답] The teacher(S)+asked(V)+us(O)+to sit down(OC)의 5형식이다. to sit down은 us가 할 행동을 설명한다."
+ }
+}

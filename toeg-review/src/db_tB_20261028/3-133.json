@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:25:56.984Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "this is - a delicious",
+      "1": "is this - delicious",
+      "2": "this is - delicious",
+      "3": "this are - delicious",
+      "4": "this is - deliciously"
+    },
+    "expl": "핵심 규칙: 감탄문은 What + a/an + 형용사 + 명사 + 주어 + 동사!, How + 형용사 + 주어 + 동사!의 어순이다.\n풀이 순서: ① What 감탄문의 빈칸은 ‘주어 + 동사’ 자리다(의문문 어순이 아니다): this is. → ② How 감탄문의 빈칸은 형용사 자리다. 뒤에 명사가 없으므로 a를 쓰지 않는다: delicious. → ③ 정답은 this is - delicious.\n문장별 판정:\n정답 판단: What 감탄문의 주어 + 동사(this is)와 How 뒤 형용사(delicious)를 바르게 골랐으므로 정답은 ③이다.\n선택지 분석:\n① [오답] How 뒤에는 a 없이 형용사만 쓰므로 오답이다.\n② [오답] 감탄문은 주어 + 동사 어순이라 this is로 쓰므로 오답이다.\n③ [정답] What 감탄문의 주어 + 동사(this is)와 How 뒤 형용사(delicious)를 바르게 골랐으므로 정답이다.\n④ [오답] 단수 주어 this에는 is를 쓰므로 오답이다.\n⑤ [오답] How 뒤에는 be동사의 보어인 형용사를 쓰므로 오답이다.",
+    "passage": "What a delicious cake ______!\nHow _____ the cake is!",
+    "stem": "다음 두 문장을 같은 뜻이 되도록 하는 단어를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:25:55.894Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:25:56.984Z",
+      "what": "확인 완료"
+    }
+  }
+}

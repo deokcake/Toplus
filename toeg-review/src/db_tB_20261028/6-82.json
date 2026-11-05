@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:03:11.219Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Mina cooks in the kitchen now.",
+      "1": "Mina is cook in the kitchen now.",
+      "2": "Mina cooking in the kitchen now.",
+      "3": "Mina is cooking in the kitchen now.",
+      "4": "Mina being cooking in the kitchen now."
+    },
+    "expl": "핵심 규칙: ‘지금 ~하고 있다’는 am/is/are + 동사원형-ing로 옮긴다. be동사 없이 -ing형만 쓰거나 be동사 뒤에 동사원형을 쓰지 않는다.\n풀이 순서: ① ‘요리하고 있다’ → 지금 진행 중인 일이므로 be동사 + -ing형이 필요하다. → ② 주어(Mina)에 맞는 be동사는 is, -ing형은 cooking. → ③ 둘 다 갖춘 문장은 ④.\n문장별 판정:\n정답 판단: 3인칭 단수 주어에 is + cooking으로 바르게 옮겼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 현재형이라 지금 하고 있는 동작을 나타내지 못하므로 오답이다.\n② [오답] is 뒤에는 동사원형이 아니라 cooking을 써야 하므로 오답이다.\n③ [오답] be동사 없이 -ing형만으로는 동사 자리를 채울 수 없으므로 오답이다.\n④ [정답] 3인칭 단수 주어에 is + cooking으로 바르게 옮겼으므로 정답이다.\n⑤ [오답] being이 아니라 주어에 맞는 is를 써야 하므로 오답이다.",
+    "passage": "Mina는 지금 부엌에서 요리하고 있다.",
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T07:03:10.425Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T07:03:11.219Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:03:11.219Z",
+      "what": "확인 완료"
+    }
+  }
+}

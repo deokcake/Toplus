@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T07:02:00.901Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "0개",
+      "1": "1개",
+      "2": "2개",
+      "3": "3개",
+      "4": "4개"
+    },
+    "expl": "핵심 규칙: 동사마다 목적어로 동명사를 쓰는지 to부정사를 쓰는지 확인한다. deny, avoid, suggest, consider, finish, enjoy, postpone, admit, give up 등은 동명사를, decide, promise, want, agree, expect, plan, refuse 등은 to부정사를 목적어로 쓴다.\n풀이 순서: ① 밑줄 앞의 동사를 to부정사를 쓰는 동사와 동명사를 쓰는 동사로 나눈다. → ② refuse는 to부정사를, enjoy, postpone, finish는 동명사를 쓴다. regret + 동명사는 ‘~한 것을 후회하다’로 옳다. 따라서 D(finished to paint)만 틀렸다. → ③ 틀린 문장을 세면 1개이다.\n문장별 판정:\nA. 옳음: enjoy는 동명사를 목적어로 쓴다(enjoy reading).\nB. 옳음: postpone은 동명사를 목적어로 쓴다(postponed meeting).\nC. 옳음: refuse는 to부정사를 목적어로 쓴다(refused to lend).\nD. 틀림: finish는 동명사를 목적어로 쓴다. finished to paint → finished painting.\nE. 옳음: regret + 동명사는 이미 한 일을 후회한다는 뜻이다(regret telling).\n정답 판단: 어법상 틀린 문장은 D의 1개이다.\n선택지 분석:\n① [오답] 어법상 틀린 문장은 D의 1개이다. 이 보기의 0개는 실제 개수와 일치하지 않으므로 오답이다.\n② [정답] 어법상 틀린 문장은 D의 1개이다. 이 보기의 1개는 실제 개수와 일치하므로 정답이다.\n③ [오답] 어법상 틀린 문장은 D의 1개이다. 이 보기의 2개는 실제 개수와 일치하지 않으므로 오답이다.\n④ [오답] 어법상 틀린 문장은 D의 1개이다. 이 보기의 3개는 실제 개수와 일치하지 않으므로 오답이다.\n⑤ [오답] 어법상 틀린 문장은 D의 1개이다. 이 보기의 4개는 실제 개수와 일치하지 않으므로 오답이다.",
+    "passage": "A. I enjoy <u>reading</u> mystery novels on quiet Sunday afternoons.\nB. She postponed <u>meeting</u> him until the end of the month.\nC. Tom refused <u>to lend</u> his new bike to his little brother.\nD. We finished <u>to paint</u> the old fence before it started to rain.\nE. They regret <u>telling</u> their friends the secret so easily.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장의 개수를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T07:01:22.793Z"
+  },
+  "tab": "sj53vmnt",
+  "updatedAt": "2026-10-23T07:02:00.901Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T07:02:00.901Z",
+      "what": "확인 완료"
+    }
+  }
+}

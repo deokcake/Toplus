@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:53:47.036Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "(A), (B), (D)",
+      "1": "(B), (C), (E)",
+      "2": "(A), (C), (E)",
+      "3": "(C), (D), (E)",
+      "4": "(A), (B), (C)"
+    },
+    "expl": "핵심 규칙: unless는 ‘~하지 않으면(= if ~ not)’이라는 뜻이라 뒤에 not을 겹쳐 쓰지 않는다. 조건절에는 미래 일이라도 현재형을 쓰고, 문맥상 뜻이 맞는지도 확인한다.\n풀이 순서: ① unless를 ‘~하지 않으면’으로 옮겨 문장마다 뜻이 통하는지 본다. → ② unless 뒤에 not·will이 있거나 동사 형태가 틀린 문장, 뜻이 거꾸로 되는 문장을 표시한다. (B)는 unless절에 will을 썼고, (D)는 ‘헬멧을 쓰지 않으면 안전하다’는 뜻이 되어 문맥이 맞지 않는다. → ③ 남은 세 문장을 모은 (A), (C), (E)를 고른다.\n문장별 판정:\n(A) 옳음: 버스가 늦지 않으면 정오 전에 도착한다.\n(B) 틀림: 조건의 unless절에서는 미래의 일도 현재시제로 쓴다. unless a teacher is present.\n(C) 옳음: 몸이 나아지지 않으면 집에 있겠다.\n(D) 틀림: ‘헬멧을 쓰지 않으면 안전하다’는 문맥이 맞지 않는다.\n(E) 옳음: 컴퓨터가 멈추지 않으면 보고서를 끝낸다.\n정답 판단: 문맥과 어법이 모두 올바른 문장은 (A), (C), (E)이다.\n선택지 분석:\n① [오답] (B), (D)는 올바른 문장이 아니고, 올바른 문장 (C), (E)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (B)는 올바른 문장이 아니고, 올바른 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 올바른 문장 (A), (C), (E)를 빠짐없이 골랐으므로 정답이다.\n④ [오답] (D)는 올바른 문장이 아니고, 올바른 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (B)는 올바른 문장이 아니고, 올바른 문장 (E)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(A) Unless the bus is late, we will arrive before noon.\n(B) You cannot use this room unless a teacher will be present.\n(C) Unless Jane feels better, she will stay home.\n(D) Unless he wears a helmet, he will be safe.\n(E) I will finish the report tonight unless the computer stops working.",
+    "stem": "다음 중 문맥과 어법이 모두 올바른 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T09:53:14.703Z"
+  },
+  "tab": "5dbz9ufh",
+  "updatedAt": "2026-10-23T09:53:47.036Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T09:53:47.036Z",
+      "what": "확인 완료"
+    }
+  }
+}

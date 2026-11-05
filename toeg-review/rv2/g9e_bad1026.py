@@ -1,0 +1,101 @@
+# 2026-10-26 전체 감수 반영(fx/z9a~z9c): 바뀐 본문·보기에 맞춰 풀이 순서 칸을 고친다. (g9d 뒤에 읽힌다)
+def U(g_, n_, **kw): EX[(g_, n_)].update(kw)
+# ---- 1급 ----
+U(1, 19, E=("도착했을 때", "이미 돈을 가지고 달아난 뒤였다"))
+U(1, 44, D="a만 live in의 in이 빠져 틀렸다. b(nothing strange), c(wide enough), d(careless of), e(too bitter)는 옳다.",
+  F="b는 nothing exciting의 순서가 뒤바뀌었고, e는 what to do여야 하는데 doing을 썼다. a(to study in), c(strong enough), d(brave of)는 옳다.")
+U(1, 69, F=("No lights being on, Jane assumed nobody was home.", "분사구문으로 바꾸는 것은 부사절뿐이고, 주절의 동사 assumed는 그대로 둔다."))
+U(1, 76, D=("Mina", "is", "taller", "a little", "her sister Jane"))
+U(1, 98, E=("had chosen the other route", "would be there by now"), F=("had moved to Seoul last year", "would live ~ now"))
+U(1, 117, E="① 따옴표 안이 Do not ~의 부정 명령문이다. 전달동사 said to를 told로 바꾸고 바로 뒤에 사람을 쓴다. → ② 명령의 내용은 to부정사로 쓰고, 부정은 to 앞에 not을 붙인다(not to forget). → ③ said + 사람, not for, to not, don't를 쓴 보기를 지운다. 정답은 {a}.")
+U(1, 69, D=("No buses running late at night, Mina called a taxi.", "진행형 were running은 being을 생략하고 running만 남긴다. being running이라고 쓰지 않는다."),
+  F=("No lights being on in the house, Jane assumed nobody was home.", "분사구문으로 바꾸는 것은 부사절뿐이고, 주절의 동사 assumed는 그대로 둔다."))
+# ---- 2급 ----
+U(2, 19, D=("missed", "have missed", "어젯밤 8시에", "지금 기차를 놓친 상태다"), F=("closed", "has already closed", "어젯밤 9시에", "지금 서점이 닫혀 있다"))
+U(2, 44, D=("themselves", "The players cleaned the locker room.", "We prepared the whole meal for the party."), E=("myself", "I checked the final numbers.", "Tom wrote the whole graduation speech."),
+  F=("himself", "The mayor opened the event.", "You fixed the broken chair in the kitchen."))
+ST64 = "① 밑줄마다 전치사(또는 전치사 to로 끝나는 look forward to·be used to) 뒤의 형태를 본다. → ② 전치사 뒤에는 동명사(-ing)를 쓴다. 동사원형·to부정사는 올 수 없고, -ing형이라도 앞의 전치사 to가 빠지면 틀린다. → ③ 바른 것은 {n}({0})뿐이다."
+U(2, 64, D=ST64.replace("{0}", "in learning"), E=ST64.replace("{0}", "for being"), F=ST64.replace("{0}", "from making"))
+U(2, 102, D="pick up은 ‘찾아오다’, turn up은 ‘(소리를) 키우다’다.", E="turn down은 ‘거절하다’, slow down은 ‘(속도를) 줄이다’다.")
+U(2, 103, D=("공원이 학교 ‘뒤에’ 있다.", "학교는 공원 ‘앞에’ 있다."))
+U(2, 118, E=("A as well as B", "동사는 A(My older sister)에 맞춘다. 단수다. 가까운 I에 속지 않는다."))
+# ---- 3급 ----
+U(3, 6, E=("now → 현재", "two big dogs, 복수"))
+U(3, 28, E="a lunch")
+U(3, 46, D="① 질문이 요일을 묻는지 달을 묻는지 본다(What month → 달). → ② 괄호 속 우리말(5월)에 해당하는 영어 낱말을 찾는다. 철자와 소리가 비슷한 March와 May, June과 July를 헷갈리지 않는다. → ③ 정답은 {a}.",
+  E="① 질문이 요일을 묻는지 달을 묻는지 본다(What day → 요일). → ② 괄호 속 우리말(월요일)에 해당하는 영어 낱말을 찾는다. 철자가 비슷한 Tuesday와 Thursday를 헷갈리지 않는다. → ③ 정답은 {a}.",
+  F="① 질문이 요일을 묻는지 달을 묻는지 본다(What month → 달). → ② 괄호 속 우리말(12월)에 해당하는 영어 낱말을 찾는다. 철자가 비슷한 November와 December를 헷갈리지 않는다. → ③ 정답은 {a}.")
+U(3, 48, E=("Tom", "showed", "us + a picture of his family"), F=("The teacher", "gave", "them + a lot of math homework"))
+U(3, 53, F="밖에 비가 많이 온다")
+U(3, 71, D=("a close friend", "talk to a close friend(친한 친구에게 말하다)"), E=("a quiet room", "study in a quiet room(조용한 방 안에서 공부하다)"), F=("a soft bed", "sleep on a soft bed(푹신한 침대 위에서 자다)"))
+U(3, 84, D="⑤는 전치사 about 뒤에 동사원형 fail을 썼다. failing으로 고친다.", F="①은 전치사 about 뒤에 동사원형 move를 썼다. moving으로 고친다.")
+U(3, 85, E="want는 to부정사를 쓰므로 ⓑ(wants learning)가, avoid는 동명사를 쓰므로 ⓒ(avoid to drive)가 어색하다. 나머지는 옳다.",
+  F="plan은 to부정사를 쓰므로 ⓐ(plans visiting)가, give up은 동명사를 쓰므로 ⓓ(gave up to learn)가 어색하다. 나머지는 옳다.")
+U(3, 90, F="ⓑ만 틀렸다. avoid는 동명사를 쓰므로 avoids meeting이다. 나머지는 옳다.")
+U(3, 97, E="① 밑줄 친 부사의 뜻을 확인한다: widely는 ‘널리’라는 뜻이다. → ② 우리말 ‘활짝’에 맞는 부사는 형용사와 형태가 같은 wide다. → ③ 부사만 바르게 고치고 나머지는 그대로 둔 문장을 고른다. 정답은 {n}.",
+  F="① 밑줄 친 부사의 형태를 확인한다: earlyly라는 말은 없다. → ② 우리말 ‘일찍’에 맞는 부사는 -ly를 붙이지 않은 early다. → ③ 부사만 바르게 고치고 나머지는 그대로 둔 문장을 고른다. 정답은 {n}.")
+U(3, 99, F=("always", "‘항상’", "조동사 will 뒤, 일반동사 remember 앞"))
+U(3, 101, F=("bad, little, many, good, far", "긴 낱말 interesting은 more - most를 써야 하는데 ④는 interestinger, interestingest로 썼다."))
+U(3, 105, F=("ⓐ에서 고쳐 쓴 biggest", "ⓑ에서 so ~ as 사이에 고쳐 쓴 tall"))
+U(3, 109, F=("강조어 even + 비교급 easier + than", "②는 even 대신 so를 써도 된다고 했지만 so도 비교급을 강조하지 못한다."))
+U(3, 111, D=("탁자 위(표면)이므로 on", "날짜(June 10th) 앞에도 on"), F=("나라(Canada) 앞에는 in", "달(December) 앞에도 in"))
+U(3, 112, F=("‘집에’는 at home으로 굳어진 표현이다. (A)는 at이다.", "방이라는 공간 안이므로 (B)는 in이다."))
+U(3, 113, D="kept raining(계속 내렸다)은 저녁까지 이어진 상태라 until, be back(돌아오다)은 5시까지 마쳐야 하는 일이라 기한의 by를 쓴다.",
+  F="is closed(닫혀 있다)는 다음 주 월요일까지 이어지는 상태라 until, pay(내다)는 한 번에 끝나는 동작이라 기한의 by를 쓴다.")
+U(3, 117, F=("동사 come home(집에 오다)은 계속되는 동작이 아니라 한 번에 끝나는 동작이다. 9시까지 마쳐야 하는 기한이다.", "‘~까지’가 기한이면 by, 계속이면 until이다. until을 by로 고친다."))
+U(3, 122, F="① that 바로 뒤를 본다. 명사 하나가 오면 지시형용사, ‘주어 + 동사’가 오면 접속사다. → ② ②만 that 뒤에 주어 + 동사(you are)가 이어진다. 나머지는 that 뒤에 명사(building, box, idea, hat)가 온다. → ③ 정답은 {n}.")
+U(3, 125, D=("A can't ~, and B can't ~ either(A도 B도 못한다)", "Neither A nor B로 바꾼다"), F=("A, or B(A나 B 가운데 하나)", "either가 있으므로 either A or B"))
+U(3, 135, F="⑤만 What + delicious + cookies(복수명사라 a가 없다) + these are로 맞다.")
+U(3, 139, F=("or", "‘~해라, 그렇지 않으면 …할 것이다’라는 뜻이다.", "If we don't hurry up, we will miss the train", "ⓐ"))
+# ---- 4급 D·E·F: 풀이 순서가 예전 문항을 설명하던 것을 지금 문항에 맞게 ----
+U(4, 3, E="③의 violin은 단수형이지만 악기 이름이라 play the violin처럼 the를 쓴다.")
+U(4, 8, D=("‘~의 끝에’는 한 시점이므로 at을 쓴다.", "그 달의 정해진 끝을 가리키므로 the를 쓴다(at the end of the month)."),
+  E=("날짜(the first of May) 앞에는 on을 쓴다.", "서수(first) 앞에는 the를 쓴다(on the first of May)."),
+  F=("‘~ 후에, ~ 안에’라는 시간의 흐름은 in으로 나타낸다.", "‘1분’이라는 하나의 단위이므로 a를 쓴다(in a minute: 곧)."))
+U(4, 9, D="by a car, by the bus, by the bike, by a subway는 관사가 있어 틀렸다. by boat만 옳다.")
+U(4, 10, F="(C) by a bike(by bike), (D) a egg(an egg)가 틀렸다. (A), (B)는 옳다.")
+U(4, 13, D="⑤는 동사 visited 뒤라 목적격 them이 와야 하는데 소유격 their로 고쳤다.", E="③은 전치사 for 뒤라 목적격 me가 와야 하는데 소유대명사 mine으로 고쳤다.")
+U(4, 14, D="scissors는 복수 취급한다. ②의 is가 틀렸다(are).")
+U(4, 15, D="ⓐ The news are(is), ⓑ Those bag is(That bag is)가 틀렸다.", E="ⓑ her(hers), ⓒ childrens'(children's)가 틀렸다.")
+U(4, 16, E="①의 their는 theirs로 써야 한다.")
+U(4, 26, F="③만 I를 you로 받고 aren't로 답해 맞다.")
+U(4, 31, D="go는 현재형이다. 나머지는 played, studied, was, met으로 모두 과거형이다.", E="watches는 현재형이다. 나머지는 read, were, went, had로 모두 과거형이다.")
+U(4, 35, D="ⓐ buyed(bought), ⓑ stoped(stopped)가 틀렸다.", E="ⓒ carryed(carried), ⓓ Did ~ wrote(write)가 틀렸다.", F="ⓐ buyed(bought), ⓓ runned(ran)가 틀렸다.")
+U(4, 38, D="①은 yesterday가 있는데 sees를 썼다. saw로 고친다.", E="②는 last week이 있는데 buy를 썼다. bought로 고친다.", F="④는 yesterday가 있는데 eats를 썼다. ate로 고친다.")
+U(4, 41, E="be going to 문장이므로 be동사 뒤에 not을 넣는다: are not going (to go shopping).", F="will 뒤에 not을 넣고 동사원형을 쓴다: will not go (camping).")
+U(4, 43, D="③만 to 뒤에 장소 the museum이 온다. now도 지금 하고 있는 일임을 알려 준다.", E="①만 to 뒤에 장소 the library가 온다. now도 지금 하고 있는 일임을 알려 준다.", F="④만 to 뒤에 장소 the hospital이 온다. now도 지금 하고 있는 일임을 알려 준다.")
+U(4, 44, D="④만 will study와 when절의 현재형 gets를 써서 맞다.", F="①만 will start와 when절의 현재형 comes를 써서 맞다.")
+U(4, 50, D="(A) will playing(play), (B) Are Tom(Is Tom)이 틀렸다.")
+U(4, 52, D=("‘말할 수 있다’", "능력을 나타내는 조동사는 can이다."))
+U(4, 53, D="①이 틀렸다. 조동사는 주어가 3인칭 단수여도 -s를 붙이지 않는다.", E="③이 틀렸다. 조동사는 두 개를 연달아 쓰지 않는다(will be able to로 쓴다).")
+U(4, 54, D="③은 must 뒤에 to leave를 썼다. to를 뺀다.", E="⑤는 will 뒤에 과거형 called를 썼다. call로 고친다.")
+U(4, 57, E=("문이 열려 있으니 ‘누군가 안에 있는 것이 틀림없다’", "④만 차가 여기 있다는 근거로 집에 있다고 추측한다."))
+U(4, 62, E="famous가 동사 became 뒤에서 주어 my brother를 보충 설명한다. 보기 가운데 동사 뒤에서 주어를 설명하는 형용사는 hungry뿐이다")
+U(4, 63, E=("pencils는 셀 수 있으므로 many", "cars도 셀 수 있으므로 many"), F=("eggs는 셀 수 있으므로 many", "coffee는 셀 수 없으므로 much"))
+U(4, 64, D="③의 friends는 셀 수 있다. much가 아니라 many다.", F="②의 milk는 셀 수 없다. a few가 아니라 a little이다.")
+U(4, 66, D="④만 milk(셀 수 없음) 앞에 a little을 써서 맞다.", E="①만 water(셀 수 없음) 앞에 much를 써서 맞다.")
+U(4, 68, D=("No라고 했으므로 ‘좀처럼 ~않다’ seldom", "늦지 않으려고 서둘렀으므로 ‘빨리’ fast"), E=("No라고 했으므로 ‘좀처럼 ~않다’ rarely", "큰 소리의 반대인 ‘조용히’이므로 부사 quietly"))
+U(4, 71, D="긴 낱말 famous는 more - most를 쓰는데 ⑤는 famouser, famousest로 썼다.", E="y로 끝나는 busy는 y를 i로 바꿔 busier - busiest인데 ④는 more busy, most busy로 썼다.",
+  F="단모음 + 단자음으로 끝나는 sad는 d를 겹쳐 sadder - saddest인데 ①은 sader, sadest로 썼다.")
+U(4, 74, E="③은 most와 -est를 겹쳐 썼다. the easiest가 맞다.", F="⑤의 good은 불규칙 변화다. gooder가 아니라 better가 맞다.")
+U(4, 78, D="④만 cute의 최상급 the cutest로 맞다.", E="②만 긴 낱말 boring에 the most를 써서 맞다.", F="⑤만 good의 최상급 the best로 맞다.")
+U(4, 82, D="도시(Busan) 앞에는 in을 쓴다. ②의 at이 틀렸다.", E="강물 속(공간의 안)이므로 in을 쓴다. ⑤의 on이 틀렸다.", F="‘~ 앞에’는 in front of로 쓴다. ④는 of가 빠졌다.")
+U(4, 83, D="Friday(요일), Children's Day(특정한 날), June 1st(날짜)", E="Wednesday(요일), Christmas Day(특정한 날), July 4th(날짜)")
+U(4, 85, D="ⓐ on home(at home), ⓓ on the door(at the door)가 틀렸다.", F="ⓐ in front to(in front of), ⓑ on the sea(in the sea)가 틀렸다.")
+U(4, 87, F="I was sleeping은 주어 + 동사이므로 while, the test는 명사이므로 during이다.")
+U(4, 88, D="③만 뒤(천천히 운전했다)가 앞(길이 얼었다)의 결과라 so가 들어간다. 나머지는 because다.", E="②만 뒤(선물을 받았다)가 앞(웃었다)의 이유라 because가 들어간다. 나머지는 so다.",
+  F="①만 뒤(약을 먹었다)가 앞(머리가 아팠다)의 결과라 so가 들어간다. 나머지는 because다.")
+U(4, 93, D="①은 Shall we 뒤에 to meet을 썼다. to를 빼고 동사원형 meet으로 고친다.", E="④는 Don't 뒤에 running을 썼다. 동사원형 run으로 고친다.", F="②는 Please 뒤에 sits를 썼다. 동사원형 sit으로 고친다.")
+U(4, 94, D="②는 명사 없이 형용사 beautiful만 있는데 What을 썼다. How로 고친다.", E="④는 Let's 뒤에 to eat을 썼다. 동사원형 eat으로 고친다.", F="①은 셀 수 없는 명사 weather가 있는데 How a를 썼다. What nice weather it is!가 맞다.")
+U(4, 95, D="③은 a funny movie에서 a가 빠졌다. What a funny movie it is!가 되어야 한다.", E="④는 a big elephant라는 명사구가 있으므로 What a big elephant it is!가 되어야 한다.",
+  F="②는 모음 소리로 시작하는 exciting 앞이라 a가 아니라 an을 써야 한다. What an exciting game it is!가 맞다.")
+U(4, 98, E="Clean the room / Water the plants", F="Run fast / Look at the map")
+U(4, 99, E="①만 What about going, Shall we go로 둘 다 맞다.")
+U(4, 101, D=("found", "찾은 것은 a small puppy"), F=("play", "하는 것은 badminton"))
+U(4, 102, D=("sounds", "strangely만 부사다."), F=("feels", "softly만 부사다."))
+U(4, 103, D=("The sun rises", "⑤만 Birds fly로 1형식이다."), E=("The children ran", "①만 The rain stopped로 1형식이다."), F=("A strange thing happened", "②만 The bus came으로 1형식이다."))
+U(4, 105, D="①은 smells nicely가 틀린 문장인데 바르다고 설명했다. smells nice가 맞다.", E="③은 sounds strangely가 틀린 문장인데 옳다고 설명했다. sounds strange가 맞다.")
+U(4, 108, D="①만 looks 뒤에 형용사 happy를 썼다.", E="⑤만 smell 뒤에 형용사 sweet를 썼다.")
+S32 = "① 밑줄 문장의 동사({0})는 ‘was/were + -ing’, 곧 과거진행형이다. → ② 과거진행형은 ‘~하고 있었다’로 옮긴다. → ③ ‘~하지 않았다’, ‘다 ~했다’, ‘자주 ~한다’, ‘~할 것이다’로 옮긴 보기를 지운다. 정답은 {n}."
+U(3, 32, D=S32.replace("{0}", "was cooking"), E=S32.replace("{0}", "was reading"), F=S32.replace("{0}", "was sleeping").replace("‘~하지 않았다’, ‘다 ~했다’, ‘자주 ~한다’, ‘~할 것이다’", "‘~하지 않았다’, ‘깼다’, ‘~할 것이다’, ‘자주 ~한다’"))
+U(1, 35, D="a는 staying으로 to부정사가 깨졌고, d는 put out의 out이, e는 laugh at의 at이 빠졌다. b의 was taken care of와 c의 was expected to win은 옳다.")

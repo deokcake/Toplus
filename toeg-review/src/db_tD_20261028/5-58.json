@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T09:34:05.059Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "They leaving are tonight.",
+      "1": "Are they leaving tonight.",
+      "2": "Tonight are they leaving.",
+      "3": "They are tonight leaving.",
+      "4": "They are leaving tonight."
+    },
+    "expl": "핵심 규칙: 가까운 미래의 정해진 계획은 현재진행형(am/is/are + -ing)으로 나타낼 수 있다. 평서문은 주어 + be동사 + -ing + 목적어 + 시간 표현의 어순으로 쓰고 마침표로 끝낸다.\n풀이 순서: ① 마침표로 끝나므로 평서문이다. 주어(They)로 시작한다. → ② 주어 뒤에 be동사(are) + -ing형(leaving)을 두고, 나머지(tonight)를 잇는다. → ③ 이 순서인 것은 ⑤.\n문장별 판정:\n정답 판단: 주어 + be동사 + -ing + 시간 표현의 어순으로 바르게 배열했으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] -ing형이 be동사보다 앞에 왔으므로 오답이다.\n② [오답] be동사가 주어 앞에 와 의문문 어순인데 마침표로 끝나므로 오답이다.\n③ [오답] 시간 표현을 앞에 두면서 주어와 be동사의 순서가 바뀌었으므로 오답이다.\n④ [오답] 시간 표현 tonight이 be동사와 -ing형 사이에 끼어들었으므로 오답이다.\n⑤ [정답] 주어 + be동사 + -ing + 시간 표현의 어순으로 바르게 배열했으므로 정답이다.",
+    "passage": null,
+    "stem": "다음 단어들을 바르게 배열하여 '계획된 미래'를 나타내는 문장을 만드세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T09:34:03.208Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T09:34:05.059Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T09:34:05.059Z",
+      "what": "확인 완료"
+    }
+  }
+}

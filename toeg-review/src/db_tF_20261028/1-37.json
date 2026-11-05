@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T06:39:10.195Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 단순과거 수동태는 was/were + 과거분사이며, 명시된 행위자 정보는 by + 행위자로 유지한다.\n풀이 순서: ① 능동문의 동사(deleted)가 과거이므로 수동태도 과거의 was/were + 과거분사여야 한다. → ② be동사가 없거나 -ing형·have + 과거분사처럼 능동인 보기, 현재형 보기를 지운다. → ③ 능동문의 주어 A hacker는 by a hacker로 남겨야 뜻이 같다. by someone은 뜻이 달라진다. 정답은 ④.\n문장별 판정:\n정답 판단: 과거 수동태와 원문의 행위자 a hacker를 모두 보존했다.\n선택지 분석:\n① [오답] by someone은 원문에서 명시한 a hacker라는 정보를 유지하지 못한다. 문법 자체의 오류는 아니다. 교정: The files were deleted from the server by a hacker.\n② [오답] 과거분사 앞에 be동사가 없어 수동태가 되지 않는다. 교정: The files were deleted from the server by a hacker.\n③ [오답] 현재형 수동태여서 원문의 과거 시제를 유지하지 못한다. 교정: The files were deleted from the server by a hacker.\n④ [정답] 과거 수동태와 원문의 행위자 a hacker를 모두 보존했다.\n⑤ [오답] 과거진행 능동태로 동작을 받는 수동 관계를 나타내지 않는다. 교정: The files were deleted from the server by a hacker.",
+    "passage": null,
+    "stem": "다음 중 주어진 문장과 의미가 같은 수동태 문장은 무엇인가?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T06:36:19.469Z"
+  },
+  "tab": "ij7ic6nx",
+  "updatedAt": "2026-10-26T06:39:10.195Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:39:10.195Z",
+      "what": "확인 완료"
+    }
+  }
+}

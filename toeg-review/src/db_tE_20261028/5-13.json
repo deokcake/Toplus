@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T09:10:23.016Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "The sun rises in the east.",
+      "1": "You are very kind.",
+      "2": "My uncle has a car.",
+      "3": "The girls dances well.",
+      "4": "Dad washes the dishes."
+    },
+    "expl": "핵심 규칙: 현재 시제에서 3인칭 단수 주어의 일반동사에는 -s/-es를 붙이고(자음 + y는 y를 i로 바꾸고 -es), 그 밖의 주어에는 동사원형을 쓴다. be동사는 I에 am, 3인칭 단수에 is, you·복수에 are를 쓴다.\n풀이 순서: ① 문장마다 주어가 3인칭 단수인지 본다. → ② 3인칭 단수면 동사에 -(e)s(have는 has), 아니면 동사원형이다. → ③ 선택지 ④의 The girls는 복수이므로 dance를 써야 한다. 정답은 ④.\n문장별 판정:\n정답 판단: 복수 주어 The girls에는 dance를 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n② [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n③ [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n④ [정답] 복수 주어 The girls에는 dance를 써야 하므로 정답이다.\n⑤ [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:10:21.288Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:10:23.016Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-21T11:50:19.476Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "'not'을 빼도 문장의 뜻은 달라지지 않는다.",
+      "1": "'not'은 is 뒤, reading 앞에 와서 '읽고 있지 않다'는 뜻을 만들며, is not은 isn't로 줄일 수 있다.",
+      "2": "'not'은 a book 앞에 와서 'She is reading not a book.'으로 써야 한다.",
+      "3": "주어가 She이므로 not 대신 no를 써서 'She is no reading a book.'으로 쓴다.",
+      "4": "부정문이므로 is를 does로 바꿔 'She does not reading a book.'으로 써야 한다."
+    },
+    "expl": "핵심 규칙: 현재진행형 부정문은 주어 + am/is/are + not + 동사원형-ing로 쓴다. is not은 isn't, are not은 aren't로 줄일 수 있지만 am not은 줄이지 않는다(I'm not).\n풀이 순서: ① 문장에서 not의 자리를 확인한다: is + not + reading. → ② 설명마다 뜻(부정), 자리(be동사 뒤), 줄임꼴, 다른 말로 바꿀 수 있는지를 대어 본다. → ③ 선택지 ② 자리, 뜻, 줄임꼴(isn't)을 바르게 말했다. 정답은 ②.\n문장별 판정:\n정답 판단: not은 be동사 뒤에 오고 is not은 isn't로 줄일 수 있으므로 정답은 ②이다.\n선택지 분석:\n① [오답] not을 빼면 ‘읽고 있다’는 긍정문이 되어 뜻이 반대가 되므로 오답이다.\n② [정답] not은 be동사 뒤에 오고 is not은 isn't로 줄일 수 있으므로 정답이다.\n③ [오답] not은 목적어 앞이 아니라 be동사 뒤에 오므로 오답이다.\n④ [오답] 동사를 부정할 때는 no가 아니라 not을 쓰므로 오답이다.\n⑤ [오답] 진행형 부정문에는 does가 아니라 be동사 + not을 쓰므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-21T11:50:17.533Z"
+  },
+  "tab": "ojjpxrut",
+  "updatedAt": "2026-10-21T11:50:19.476Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T11:50:19.476Z",
+      "what": "확인 완료"
+    }
+  }
+}

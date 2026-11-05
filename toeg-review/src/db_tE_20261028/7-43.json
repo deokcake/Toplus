@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T07:48:42.826Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Is that a bird?",
+      "1": "Are you tired?",
+      "2": "Is this your desk?",
+      "3": null,
+      "4": "Is it hot?"
+    },
+    "expl": "핵심 규칙: 대답의 주어가 they이면 질문은 여러 개(these/those/복수 명사)를 물은 것이다. this/that/it(한 개)은 it으로, you는 I/we로, she는 she로 받는다.\n풀이 순서: ① 대답을 본다: Yes, they're mine. 주어가 they다. → ② they로 받을 수 있는 것은 these/those로 물은 여러 개뿐이다. this/that/it이나 you, she로 물은 질문을 지운다. → ③ 남는 것은 Are those your books?\n문장별 판정:\n정답 판단: those를 they로 받아 대답할 수 있으므로 정답은 ④이다.\n선택지 분석:\n① [오답] this·that으로 한 개를 물으면 대답에서 it으로 받으므로 오답이다.\n② [오답] you에 대한 질문에는 I나 we로 답하므로 오답이다.\n③ [오답] this·that으로 한 개를 물으면 대답에서 it으로 받으므로 오답이다.\n④ [정답] those를 they로 받아 대답할 수 있으므로 정답이다.\n⑤ [오답] it에 대한 질문에는 it으로 답하므로 오답이다.",
+    "passage": "A: _______________________\nB: Yes, they're mine.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T07:48:40.762Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T07:48:42.826Z",
+      "what": "확인 완료"
+    }
+  }
+}

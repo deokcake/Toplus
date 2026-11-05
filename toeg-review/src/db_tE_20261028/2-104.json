@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-28T04:25:24.788Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "The lights went out <u>during we watched TV</u> last night.",
+      "1": "Our school was built <u>in 1995</u> by the city.",
+      "2": "I'll call you <u>at Tuesday</u> after school.",
+      "3": "The class ends <u>on 3:30</u> in the afternoon.",
+      "4": "Leaves turn red and yellow <u>at fall</u>."
+    },
+    "expl": "핵심 규칙: 시각·정오·새벽 같은 한 시점은 at, 요일·날짜·특정한 날은 on, 월·계절·연도·아침/저녁은 in을 쓴다. during 뒤에는 명사(구)가, while 뒤에는 주어 + 동사가 온다.\n풀이 순서: ① 밑줄마다 전치사 뒤의 시간 표현이 시각, 요일·날짜, 월·계절·연도, 기간 가운데 무엇인지 가른다. → ② 시각은 at, 요일·날짜는 on, 월·계절·연도는 in, 특정 기간(명사)은 during이다. 절(주어 + 동사) 앞에는 while을 쓴다. → ③ 선택지 ②만 맞다(연도인 1995 앞에 in).\n문장별 판정:\n정답 판단: 연도 앞에 in을 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 주어 + 동사 앞에는 during이 아니라 while을 써야 하므로 오답이다.\n② [정답] 연도 앞에 in을 바르게 썼으므로 정답이다.\n③ [오답] 요일에는 on을 써야 하므로 오답이다.\n④ [오답] 시각에는 at을 써야 하므로 오답이다.\n⑤ [오답] 계절에는 in을 써야 하므로 오답이다.",
+    "passage": "",
+    "stem": "다음 밑줄 친 부분이 어법상 옳은 문장을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T01:18:24.756Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:18:32.976Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:25:24.788Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:25:21.837Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:25:24.788Z",
+      "what": "확인 완료"
+    }
+  }
+}

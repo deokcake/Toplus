@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T05:15:12.247Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "(A), (B), (C)",
+      "1": "(B), (C), (D)",
+      "2": "(B), (D), (E)",
+      "3": "(A), (C), (E)",
+      "4": "(C), (D), (E)"
+    },
+    "expl": "핵심 규칙: unless는 ‘~하지 않으면(= if ~ not)’이라는 뜻이라 뒤에 not을 겹쳐 쓰지 않는다. 조건절에는 미래 일이라도 현재형을 쓰고, 문맥상 뜻이 맞는지도 확인한다.\n풀이 순서: ① unless를 ‘~하지 않으면’으로 옮겨 문장마다 뜻이 통하는지 본다. → ② unless 뒤에 not·will이 있거나 동사 형태가 틀린 문장, 뜻이 거꾸로 되는 문장을 표시한다. (A)는 unless 뒤에 부정을 겹쳐 ‘비가 오면 밖에서 논다’는 어색한 뜻이 되고, (E)는 ‘열심히 공부하지 않으면 쉽게 합격한다’는 뜻이 되어 문맥이 맞지 않는다. → ③ 남은 세 문장을 모은 (B), (C), (D)를 고른다.\n문장별 판정:\n(A) 틀림: unless에 이미 not의 뜻이 있어 doesn't를 겹쳐 쓸 수 없다. Unless it rains.\n(B) 옳음: 표가 없으면 들어갈 수 없다.\n(C) 옳음: Mina가 전화하지 않으면 6시에 떠난다.\n(D) 옳음: 따뜻하지 않으면 코트를 입겠다.\n(E) 틀림: ‘공부하지 않으면 쉽게 통과한다’는 문맥이 맞지 않는다. If you study hard로 써야 한다.\n정답 판단: 문맥과 어법이 모두 올바른 문장은 (B), (C), (D)이다.\n선택지 분석:\n① [오답] (A)는 올바른 문장이 아니고, 올바른 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 올바른 문장 (B), (C), (D)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (E)는 올바른 문장이 아니고, 올바른 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (A), (E)는 올바른 문장이 아니고, 올바른 문장 (B), (D)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (E)는 올바른 문장이 아니고, 올바른 문장 (B)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(A) Unless it doesn't rain, we will play outside.\n(B) You cannot enter unless you have a ticket.\n(C) Unless Mina calls me, I will leave at six.\n(D) I will wear a coat unless it is warm tomorrow.\n(E) Unless you study hard, you will pass the test easily.",
+    "stem": "다음 중 문맥과 어법이 모두 올바른 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T05:15:10.159Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T05:15:12.247Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T05:15:12.247Z",
+      "what": "확인 완료"
+    }
+  }
+}

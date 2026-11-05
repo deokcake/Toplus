@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-09-30T12:38:00.319Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "0개",
+      "1": null,
+      "2": "2개",
+      "3": null,
+      "4": "4개"
+    },
+    "expl": "[선택지별 구체 해설]\n핵심 규칙: 동사마다 목적어로 동명사를 쓰는지 to부정사를 쓰는지 확인한다. deny, avoid, suggest, consider, finish, enjoy, postpone, admit, give up 등은 동명사를, decide, promise, want, agree, expect, plan, refuse 등은 to부정사를 목적어로 쓴다.\n문장별 판정:\nA. 옳음: deny는 동명사를 목적어로 쓴다(denied taking).\nB. 틀림: avoid는 동명사를 목적어로 쓴다. avoided to answer → avoided answering.\nC. 옳음: decide는 to부정사를 목적어로 쓴다(decided to leave).\nD. 옳음: suggest는 동명사를 목적어로 쓴다(suggested going).\nE. 틀림: promise는 to부정사를 목적어로 쓴다. promised helping → promised to help.\n정답 판단: 어법상 틀린 문장은 B, E의 2개이다.\n① [오답] 어법상 틀린 문장은 B, E의 2개이다. 이 보기의 0개는 실제 개수와 일치하지 않으므로 오답이다.\n② [오답] 어법상 틀린 문장은 B, E의 2개이다. 이 보기의 1개는 실제 개수와 일치하지 않으므로 오답이다.\n③ [정답] 어법상 틀린 문장은 B, E의 2개이다. 이 보기의 2개는 실제 개수와 일치하므로 정답이다.\n④ [오답] 어법상 틀린 문장은 B, E의 2개이다. 이 보기의 3개는 실제 개수와 일치하지 않으므로 오답이다.\n⑤ [오답] 어법상 틀린 문장은 B, E의 2개이다. 이 보기의 4개는 실제 개수와 일치하지 않으므로 오답이다.\n풀이 순서: 발문의 의미·형태 조건을 확인하고 각 보기의 실제 표현을 대조한다. 오류가 있는 부분은 그 이유와 교정형을 확인한 뒤 정답이 하나인지 점검한다.",
+    "passage": "A. Tom denied <u>taking</u> the important file from the teacher's desk.\nB. Jane avoided <u>to answer</u> the reporter's difficult questions after the game.\nC. We decided <u>to leave</u> the party early because of the heavy rain.\nD. Leo suggested <u>going</u> to Busan by train instead of by car.\nE. Mina promised <u>helping</u> us with the science project this weekend.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장의 개수를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-09-30T07:01:18.000Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-09-30T05:27:47.837Z",
+      "text": "원형 문항에 비해 문장의 길이가 짧고, 단어 수가 적음.\n"
+    }
+  },
+  "tab": "bijqceul",
+  "updatedAt": "2026-09-30T12:38:00.319Z",
+  "verdict": null,
+  "verdictAt": "2026-09-30T12:37:57.803Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-09-30T12:38:00.319Z",
+      "what": "확인 완료"
+    }
+  }
+}

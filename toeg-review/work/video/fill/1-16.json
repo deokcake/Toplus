@@ -1,0 +1,482 @@
+{
+ "A": {
+  "title": "상태동사의 진행형과 시제",
+  "intro": "이 문제는 상태동사와 시제를 따져 어법상 옳은 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 옳은 문장은 무엇일까요? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "상태동사: want, like, believe, know, have(가지다)처럼 상태를 나타내는 동사",
+    "상태동사는 보통 진행형(be동사 + ing형)으로 쓰지 않아요",
+    "시간 표현과 시제 맞추기: yesterday → 과거 시제 / Look!·now로 지금 하는 동작 → 현재진행형",
+    "예) I know her name. (나는 그녀의 이름을 알아요.)"
+   ],
+   "narration": "want, like, believe, know, 그리고 가지다라는 뜻의 have처럼 상태를 나타내는 상태동사는 보통 진행형으로 쓰지 않아요. I know her name. 나는 그녀의 이름을 알아요. 또 시제는 시간 표현에 맞춰서, yesterday처럼 지난 때를 말하면 과거 시제, Look!이나 now로 지금 하는 동작을 말하면 현재진행형을 써요."
+  },
+  "steps": [
+   {
+    "note": "진행형 is having(형이 있다 = 가지다), am believing(믿다) → 상태동사 → ②④ 지움",
+    "highlight": [
+     "is having",
+     "am believing"
+    ],
+    "strike": [
+     "② He is having two older brothers.",
+     "④ I am believing what you said."
+    ],
+    "narration": "첫째, 진행형 문장을 봐요. 2번 have는 형이 있다는 소유, 4번 believe는 믿는다는 상태라서 has, believe로 써야 해요."
+   },
+   {
+    "note": "시간 표현: Yesterday + 현재형 like ✗, Look!·now + 과거형 drank ✗ → ③⑤ 지움",
+    "highlight": [
+     "Yesterday",
+     "like the pizza",
+     "drank",
+     "water now"
+    ],
+    "strike": [
+     "③ Yesterday, they like the pizza very much.",
+     "⑤ Look! The dog drank some water now."
+    ],
+    "narration": "둘째, 시간 표현을 보면, 3번은 Yesterday가 있으니 like가 아니라 liked, 5번은 Look!과 now로 지금 마시는 중이니 drank가 아니라 is drinking이 맞아요."
+   },
+   {
+    "note": "① 상태동사 want를 현재형 wants로 → 정답",
+    "highlight": [
+     "① My sister wants a new smartphone."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 1번은 상태동사 want를 현재형으로 바르게 썼어요. My sister wants a new smartphone. 내 여동생은 새 스마트폰을 갖고 싶어 해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① My sister wants a new smartphone.  ✓  상태동사 want를 현재형으로 바르게 씀",
+    "② He is having two older brothers.  ✗  have(가지다, 있다)는 진행형 X → has",
+    "③ Yesterday, they like the pizza very much.  ✗  Yesterday인데 현재형 → liked",
+    "④ I am believing what you said.  ✗  believe(믿다)는 진행형 X → believe",
+    "⑤ Look! The dog drank some water now.  ✗  지금 하는 동작인데 과거형 → is drinking"
+   ],
+   "narration": "정답은 1번이에요. 2번은 진행형 꼴이 익숙해 보여도, 형이 있다는 소유의 have라서 has로 써야 해요. 4번 believe도 믿는다는 상태라 진행형으로 쓰지 않아요. 5번은 now와 맞게 지금 마시고 있다는 is drinking으로 써야 해요."
+  },
+  "summary": {
+   "card": "상태동사(want, believe, have 가지다)는 진행형 X, 시제는 시간 표현에 맞추기",
+   "narration": "정답은 1번이에요. 기억할 것, 상태동사는 보통 진행형으로 쓰지 않고, 동사의 시제는 시간 표현에 맞춰요."
+  },
+  "captions": [
+   "상태동사와 시제",
+   "먼저 풀어 보세요",
+   "상태동사는 보통 진행형 X",
+   "진행형 → 시간 표현 → ①",
+   "정답 ① wants",
+   "상태동사 진행형 X, 시제는 시간 표현에"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   38,
+   24,
+   11
+  ]
+ },
+ "B": {
+  "title": "have(먹다)의 진행형과 시제",
+  "intro": "이 문제는 진행형과 시제를 따져 어법상 옳은 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 옳은 문장은 무엇일까요? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "상태동사: know, own, belong, have(가지다)처럼 상태를 나타내는 동사 → 보통 진행형 X",
+    "같은 동사라도 have(먹다)처럼 동작을 나타내면 진행형 O",
+    "시간 표현과 시제 맞추기: ago → 과거 시제 / Look!·now로 지금 하는 동작 → 현재진행형",
+    "예) I am having lunch. (나는 점심을 먹고 있어요.)"
+   ],
+   "narration": "know, own, belong, 그리고 가지다라는 뜻의 have 같은 상태동사는 보통 진행형으로 쓰지 않아요. 하지만 have가 먹다라는 동작이면 진행형을 쓸 수 있어요. I am having lunch. 나는 점심을 먹고 있어요. 시제는 시간 표현에 맞춰서, ago처럼 지난 때를 말하면 과거 시제, Look!이나 now로 지금 하는 동작을 말하면 현재진행형을 써요."
+  },
+  "steps": [
+   {
+    "note": "진행형 is belonging(소유), am knowing(알다) → 상태동사 → ②④ 지움",
+    "highlight": [
+     "is belonging",
+     "am knowing"
+    ],
+    "strike": [
+     "② This bag is belonging to my sister.",
+     "④ I am knowing the answer to this riddle."
+    ],
+    "narration": "첫째, 진행형 문장을 봐요. 2번 belong은 누구의 것이라는 소유, 4번 know는 알고 있다는 상태라서 belongs, know로 써야 해요."
+   },
+   {
+    "note": "시간 표현: Look!·now + 과거형 slept ✗, Two years ago + 현재형 owns ✗ → ①⑤ 지움",
+    "highlight": [
+     "slept",
+     "sofa now",
+     "Two years ago",
+     "owns a small bakery"
+    ],
+    "strike": [
+     "① Look! The baby slept on the sofa now.",
+     "⑤ Two years ago, Mr. Park owns a small bakery."
+    ],
+    "narration": "둘째, 시간 표현을 보면, 1번은 Look!과 now로 지금 자는 중이니 slept가 아니라 is sleeping, 5번은 Two years ago가 있으니 owns가 아니라 owned가 맞아요."
+   },
+   {
+    "note": "③ have = 먹다(동작) → 진행형 O, now와도 맞음 → 정답",
+    "highlight": [
+     "③ We are having dinner with our grandparents now."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 3번의 have는 먹다라는 동작이라 진행형이 맞아요. We are having dinner with our grandparents now. 우리는 지금 조부모님과 저녁을 먹고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Look! The baby slept on the sofa now.  ✗  지금 하는 동작인데 과거형 → is sleeping",
+    "② This bag is belonging to my sister.  ✗  belong(누구의 것이다)은 진행형 X → belongs",
+    "③ We are having dinner with our grandparents now.  ✓  have(먹다)는 동작 → 진행형 O",
+    "④ I am knowing the answer to this riddle.  ✗  know(알다)는 진행형 X → know",
+    "⑤ Two years ago, Mr. Park owns a small bakery.  ✗  Two years ago인데 현재형 → owned"
+   ],
+   "narration": "정답은 3번이에요. 3번은 have를 진행형으로 써서 틀렸다고 생각하기 쉽지만, 여기서는 먹다라는 동작이라 맞아요. 2번 belong과 4번 know는 상태동사라 belongs와 know로 써야 해요. 5번은 Two years ago와 맞게 과거형 owned로 써야 해요."
+  },
+  "summary": {
+   "card": "상태동사는 진행형 X, have(먹다)처럼 동작이면 진행형 O, 시제는 시간 표현에 맞추기",
+   "narration": "정답은 3번이에요. 기억할 것, 상태동사는 보통 진행형으로 쓰지 않지만, have가 먹다라는 동작이면 진행형을 쓸 수 있어요."
+  },
+  "captions": [
+   "진행형을 쓸 수 있는 동사와 시제",
+   "먼저 풀어 보세요",
+   "상태는 진행형 X, 동작은 O",
+   "진행형 → 시간 표현 → ③",
+   "정답 ③ are having",
+   "have(먹다)는 진행형 O"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   38,
+   24,
+   11
+  ]
+ },
+ "C": {
+  "title": "상태동사 own·taste와 시제",
+  "intro": "이 문제는 상태동사와 시제를 따져 어법상 옳은 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 옳은 문장은 무엇일까요? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "상태동사: own, resemble, belong, taste(~한 맛이 나다)처럼 상태를 나타내는 동사 → 보통 진행형 X",
+    "같은 taste라도 ‘맛보다’처럼 동작을 나타내면 진행형 O",
+    "시간 표현과 시제 맞추기: last year → 과거 시제 / Look!·right now로 지금 하는 동작 → 현재진행형",
+    "예) This cake tastes sweet. (이 케이크는 단맛이 나요.)"
+   ],
+   "narration": "own, resemble, belong, 어떤 맛이 난다는 뜻의 taste 같은 상태동사는 보통 진행형으로 쓰지 않아요. taste가 맛을 본다는 동작이면 진행형을 쓸 수 있어요. This cake tastes sweet. 이 케이크는 단맛이 나요. 시제는 시간 표현에 맞춰서, last year처럼 지난 때를 말하면 과거 시제, Look!이나 right now로 지금 하는 동작을 말하면 현재진행형을 써요."
+  },
+  "steps": [
+   {
+    "note": "진행형 is tasting(짠맛이 나다), are resembling(닮다) → 상태 → ①④ 지움",
+    "highlight": [
+     "is tasting",
+     "are resembling"
+    ],
+    "strike": [
+     "① The soup is tasting too salty.",
+     "④ The twins are resembling their father."
+    ],
+    "narration": "첫째, 진행형 문장을 봐요. 1번 taste는 짠맛이 난다는 상태, 4번 resemble은 닮았다는 상태라서 tastes, resemble로 써야 해요."
+   },
+   {
+    "note": "시간 표현: Look!·right now + 과거형 played ✗, Last year + 현재형 belongs ✗ → ③⑤ 지움",
+    "highlight": [
+     "played",
+     "right now",
+     "Last year",
+     "belongs to the school band"
+    ],
+    "strike": [
+     "③ Look! The children played in the snow right now.",
+     "⑤ Last year, my cousin belongs to the school band."
+    ],
+    "narration": "둘째, 시간 표현을 보면, 3번은 Look!과 right now로 지금 노는 중이니 played가 아니라 are playing, 5번은 Last year가 있으니 belongs가 아니라 belonged가 맞아요."
+   },
+   {
+    "note": "② 상태동사 own을 현재형 owns로 → 정답",
+    "highlight": [
+     "② My uncle owns two restaurants in Busan."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 2번은 상태동사 own을 현재형으로 바르게 썼어요. My uncle owns two restaurants in Busan. 우리 삼촌은 부산에 식당을 두 곳 가지고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The soup is tasting too salty.  ✗  taste(~한 맛이 나다)는 상태 → tastes",
+    "② My uncle owns two restaurants in Busan.  ✓  상태동사 own을 현재형으로 바르게 씀",
+    "③ Look! The children played in the snow right now.  ✗  지금 하는 동작인데 과거형 → are playing",
+    "④ The twins are resembling their father.  ✗  resemble(닮다)은 진행형 X → resemble",
+    "⑤ Last year, my cousin belongs to the school band.  ✗  Last year인데 현재형 → belonged"
+   ],
+   "narration": "정답은 2번이에요. 1번은 taste가 맛을 본다는 뜻이면 진행형이 되지만, 여기서는 수프가 짠맛이 난다는 상태라 tastes로 써야 해요. 4번 resemble도 닮았다는 상태라 진행형으로 쓰지 않아요. 5번은 Last year와 맞게 과거형 belonged로 써야 해요."
+  },
+  "summary": {
+   "card": "상태동사(own, resemble, taste 맛이 나다)는 진행형 X, 시제는 시간 표현에 맞추기",
+   "narration": "정답은 2번이에요. 기억할 것, 상태동사는 보통 진행형으로 쓰지 않고, 어떤 맛이 난다는 뜻의 taste도 상태동사예요."
+  },
+  "captions": [
+   "상태동사와 시제",
+   "먼저 풀어 보세요",
+   "taste(맛이 나다)는 상태 → 진행형 X",
+   "진행형 → 시간 표현 → ②",
+   "정답 ② owns",
+   "상태동사 진행형 X, 시제는 시간 표현에"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   38,
+   24,
+   11
+  ]
+ },
+ "D": {
+  "title": "taste(맛보다)의 진행형과 시제",
+  "intro": "이 문제는 진행형과 시제를 따져 어법상 옳은 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 옳은 문장은 무엇일까요? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "상태동사: own, contain, taste(~한 맛이 나다)처럼 상태를 나타내는 동사 → 보통 진행형 X",
+    "같은 taste라도 ‘맛보다’처럼 동작을 나타내면 진행형 O",
+    "시간 표현과 시제 맞추기: tomorrow → 과거형 X, 앞으로의 일(will 등) / Look!·now로 지금 하는 동작 → 현재진행형",
+    "예) Mom is tasting the soup. (엄마가 수프 맛을 보고 계세요.)"
+   ],
+   "narration": "own, contain, 어떤 맛이 난다는 뜻의 taste 같은 상태동사는 보통 진행형으로 쓰지 않아요. 하지만 taste가 맛을 본다는 동작이면 진행형을 쓸 수 있어요. Mom is tasting the soup. 엄마가 수프 맛을 보고 계세요. 시제는 시간 표현에 맞춰서, tomorrow는 앞으로의 때라 과거형과 쓰지 않고, Look!이나 now로 지금 하는 동작을 말하면 현재진행형을 써요."
+  },
+  "steps": [
+   {
+    "note": "진행형 is containing(담고 있다), are owning(소유하다) → 상태동사 → ②④ 지움",
+    "highlight": [
+     "is containing",
+     "are owning"
+    ],
+    "strike": [
+     "② This box is containing old family photos.",
+     "④ My parents are owning a small café."
+    ],
+    "narration": "첫째, 진행형 문장을 봐요. 2번 contain은 담고 있다는 상태, 4번 own은 가지고 있다는 소유라서 contains, own으로 써야 해요."
+   },
+   {
+    "note": "시간 표현: Look!·now + 과거형 snowed ✗, Tomorrow + 과거형 took ✗ → ③⑤ 지움",
+    "highlight": [
+     "snowed",
+     "outside now",
+     "Tomorrow",
+     "took"
+    ],
+    "strike": [
+     "③ Look! It snowed heavily outside now.",
+     "⑤ Tomorrow, the students took a big test."
+    ],
+    "narration": "둘째, 시간 표현을 보면, 3번은 Look!과 now로 지금 눈이 오는 중이니 snowed가 아니라 is snowing, 5번은 Tomorrow가 앞으로의 일이니 took이 아니라 will take가 맞아요."
+   },
+   {
+    "note": "① taste = 맛보다(동작) → 진행형 O, right now와도 맞음 → 정답",
+    "highlight": [
+     "① The chef is tasting the sauce right now."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 1번의 taste는 맛을 본다는 동작이라 진행형이 맞아요. The chef is tasting the sauce right now. 요리사가 지금 소스 맛을 보고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The chef is tasting the sauce right now.  ✓  taste(맛보다)는 동작 → 진행형 O",
+    "② This box is containing old family photos.  ✗  contain(담고 있다)은 진행형 X → contains",
+    "③ Look! It snowed heavily outside now.  ✗  지금 내리는 눈인데 과거형 → is snowing",
+    "④ My parents are owning a small café.  ✗  own(소유하다)은 진행형 X → own",
+    "⑤ Tomorrow, the students took a big test.  ✗  Tomorrow인데 과거형 → will take"
+   ],
+   "narration": "정답은 1번이에요. 1번은 taste를 진행형으로 써서 틀렸다고 생각하기 쉽지만, 여기서는 맛을 본다는 동작이라 맞아요. 2번 contain과 4번 own은 상태를 나타내서 contains와 own으로 써야 해요. 5번은 Tomorrow가 앞으로의 일이라 과거형 took 대신 will take로 고쳐야 해요."
+  },
+  "summary": {
+   "card": "상태동사는 진행형 X, taste(맛보다)처럼 동작이면 진행형 O, 시제는 시간 표현에 맞추기",
+   "narration": "정답은 1번이에요. 기억할 것, 상태동사는 보통 진행형으로 쓰지 않지만, taste가 맛을 본다는 동작이면 진행형을 쓸 수 있어요."
+  },
+  "captions": [
+   "진행형을 쓸 수 있는 동사와 시제",
+   "먼저 풀어 보세요",
+   "맛이 나다는 상태, 맛보다는 동작",
+   "진행형 → 시간 표현 → ①",
+   "정답 ① is tasting",
+   "taste(맛보다)는 진행형 O"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   38,
+   24,
+   11
+  ]
+ },
+ "E": {
+  "title": "상태동사 contain·have와 시제",
+  "intro": "이 문제는 상태동사와 시제를 따져 어법상 옳은 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 옳은 문장은 무엇일까요? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "상태동사: contain, seem, have(가지다)처럼 상태를 나타내는 동사 → 보통 진행형 X",
+    "같은 have라도 ‘먹다’처럼 동작을 나타내면 진행형 O",
+    "시간 표현과 시제 맞추기: last night → 과거 시제 / Look!·now로 지금 하는 동작 → 현재진행형",
+    "예) She has a red bike. (그녀는 빨간 자전거를 가지고 있어요.)"
+   ],
+   "narration": "contain, seem, 가지다라는 뜻의 have 같은 상태동사는 보통 진행형으로 쓰지 않아요. have가 먹다라는 동작이면 진행형을 쓸 수 있어요. She has a red bike. 그녀는 빨간 자전거를 가지고 있어요. 시제는 시간 표현에 맞춰서, last night처럼 지난 때를 말하면 과거 시제, Look!이나 now로 지금 하는 동작을 말하면 현재진행형을 써요."
+  },
+  "steps": [
+   {
+    "note": "진행형 is seeming(~처럼 보이다), is having(숙제가 있다 = 가지다) → 상태 → ②③ 지움",
+    "highlight": [
+     "is seeming",
+     "is having"
+    ],
+    "strike": [
+     "② He is seeming very nervous today.",
+     "③ She is having a lot of homework this week."
+    ],
+    "narration": "첫째, 진행형 문장을 봐요. 2번 seem은 그렇게 보인다는 상태, 3번 have는 숙제가 있다는 소유의 뜻이라서 seems, has로 써야 해요."
+   },
+   {
+    "note": "시간 표현: Look!·now + 과거형 chased ✗, Last night + 현재형 need ✗ → ①⑤ 지움",
+    "highlight": [
+     "chased",
+     "yard now",
+     "Last night",
+     "need more chairs"
+    ],
+    "strike": [
+     "① Look! My dog chased a cat in the yard now.",
+     "⑤ Last night, we need more chairs for the party."
+    ],
+    "narration": "둘째, 시간 표현을 보면, 1번은 Look!과 now로 지금 쫓는 중이니 chased가 아니라 is chasing, 5번은 Last night, 곧 지난밤의 일이니 need가 아니라 needed가 맞아요."
+   },
+   {
+    "note": "④ 상태동사 contain을 현재형 contains로 → 정답",
+    "highlight": [
+     "④ This soup contains too much salt."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 4번은 상태동사 contain을 현재형으로 바르게 썼어요. This soup contains too much salt. 이 수프에는 소금이 너무 많이 들어 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Look! My dog chased a cat in the yard now.  ✗  지금 하는 동작인데 과거형 → is chasing",
+    "② He is seeming very nervous today.  ✗  seem(~처럼 보이다)은 진행형 X → seems",
+    "③ She is having a lot of homework this week.  ✗  have(가지다, 있다)는 진행형 X → has",
+    "④ This soup contains too much salt.  ✓  상태동사 contain을 현재형으로 바르게 씀",
+    "⑤ Last night, we need more chairs for the party.  ✗  Last night인데 현재형 → needed"
+   ],
+   "narration": "정답은 4번이에요. 3번은 this week 때문에 진행형이 어울려 보이지만, 숙제가 있다는 뜻의 have는 상태라 has로 써야 해요. 2번 seem도 그렇게 보인다는 상태라 seems로 써야 해요. 5번은 지난밤의 일이니 과거형 needed로 써야 해요."
+  },
+  "summary": {
+   "card": "상태동사(contain, seem, have 가지다)는 진행형 X, 시제는 시간 표현에 맞추기",
+   "narration": "정답은 4번이에요. 기억할 것, 상태동사는 보통 진행형으로 쓰지 않고, 가지다라는 뜻의 have도 상태동사예요."
+  },
+  "captions": [
+   "상태동사와 시제",
+   "먼저 풀어 보세요",
+   "have(가지다)는 상태 → 진행형 X",
+   "진행형 → 시간 표현 → ④",
+   "정답 ④ contains",
+   "상태동사 진행형 X, 시제는 시간 표현에"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   38,
+   24,
+   11
+  ]
+ },
+ "F": {
+  "title": "think about의 진행형과 시제",
+  "intro": "이 문제는 진행형과 시제를 따져 어법상 옳은 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 옳은 문장은 무엇일까요? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "상태동사: have(가지다), weigh(무게가 ~이다)처럼 상태를 나타내는 동사 → 보통 진행형 X",
+    "think about(~에 대해 생각하다)처럼 동작을 나타내면 진행형 O",
+    "시간 표현과 시제 맞추기: yesterday → 과거 시제 / Look!·now로 지금 하는 동작 → 현재진행형",
+    "예) Tom is thinking about a trip. (톰은 여행을 생각하고 있어요.)"
+   ],
+   "narration": "가지다라는 뜻의 have나 무게가 얼마라는 뜻의 weigh 같은 상태동사는 보통 진행형으로 쓰지 않아요. think about처럼 생각하는 동작은 진행형을 쓸 수 있어요. Tom is thinking about a trip. 톰은 여행을 생각하고 있어요. 시제는 시간 표현에 맞춰서, yesterday처럼 지난 때를 말하면 과거 시제, Look!이나 now로 지금 하는 동작을 말하면 현재진행형을 써요."
+  },
+  "steps": [
+   {
+    "note": "진행형 is weighing(무게가 ~이다), is having(자녀가 있다 = 가지다) → 상태 → ②④ 지움",
+    "highlight": [
+     "is weighing",
+     "is having"
+    ],
+    "strike": [
+     "② The suitcase is weighing about twenty kilograms.",
+     "④ Mr. Kim is having three children."
+    ],
+    "narration": "첫째, 진행형 문장을 봐요. 2번 weigh는 무게가 얼마 나간다는 상태, 4번 have는 자녀가 있다는 소유라서 weighs, has로 써야 해요."
+   },
+   {
+    "note": "시간 표현: Look!·now + 과거형 built ✗, Yesterday + 현재형 talks ✗ → ①③ 지움",
+    "highlight": [
+     "built",
+     "snowman now",
+     "Yesterday",
+     "talks on the phone"
+    ],
+    "strike": [
+     "① Look! The kids built a snowman now.",
+     "③ Yesterday, Dad talks on the phone for two hours."
+    ],
+    "narration": "둘째, 시간 표현을 보면, 1번은 Look!과 now로 지금 만드는 중이니 built가 아니라 are building, 3번은 Yesterday가 있으니 talks가 아니라 talked가 맞아요."
+   },
+   {
+    "note": "⑤ think about = 생각하는 동작 → 진행형 O → 정답",
+    "highlight": [
+     "⑤ I am thinking about my summer plans."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 5번의 think about은 생각하는 동작이라 진행형이 맞아요. I am thinking about my summer plans. 나는 여름 계획에 대해 생각하고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Look! The kids built a snowman now.  ✗  지금 하는 동작인데 과거형 → are building",
+    "② The suitcase is weighing about twenty kilograms.  ✗  weigh(무게가 ~이다)는 진행형 X → weighs",
+    "③ Yesterday, Dad talks on the phone for two hours.  ✗  Yesterday인데 현재형 → talked",
+    "④ Mr. Kim is having three children.  ✗  have(자녀가 있다)는 진행형 X → has",
+    "⑤ I am thinking about my summer plans.  ✓  think about(생각하다)은 동작 → 진행형 O"
+   ],
+   "narration": "정답은 5번이에요. 5번은 진행형이라 틀렸다고 생각하기 쉽지만, think about은 생각하는 동작이라 진행형이 맞아요. 4번은 자녀가 있다는 소유의 have라서 has로 써야 해요. 2번 weigh도 무게가 얼마 나간다는 상태라 weighs로 써야 해요."
+  },
+  "summary": {
+   "card": "상태동사는 진행형 X, think about처럼 동작이면 진행형 O, 시제는 시간 표현에 맞추기",
+   "narration": "정답은 5번이에요. 기억할 것, 상태동사는 보통 진행형으로 쓰지 않지만, think about처럼 동작이면 진행형을 쓸 수 있어요."
+  },
+  "captions": [
+   "진행형을 쓸 수 있는 동사와 시제",
+   "먼저 풀어 보세요",
+   "상태는 진행형 X, 동작은 O",
+   "진행형 → 시간 표현 → ⑤",
+   "정답 ⑤ am thinking",
+   "think about은 진행형 O"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   38,
+   24,
+   11
+  ]
+ }
+}

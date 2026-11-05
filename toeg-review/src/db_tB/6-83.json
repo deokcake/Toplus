@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:03:36.849Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": null,
+      "1": "Is - is cooking",
+      "2": "Do - are cooking",
+      "3": "Is - are cooking",
+      "4": null
+    },
+    "expl": "핵심 규칙: 현재진행형은 am/is/are + 동사원형-ing로 지금 하고 있는 동작을 나타낸다. 의문문은 be동사를 주어 앞에, 부정문은 be동사 뒤에 not을 둔다. be동사는 주어에 맞춰 I am, 3인칭 단수 is, you·복수 are를 쓴다.\n풀이 순서: ① 첫 문장: 뒤에 -ing형이 있으므로 be동사로 묻는다. 주어가 he(단수)이므로 Is. → ② 둘째 문장: 주어가 Jane(단수)이므로 is cooking. → ③ 정답은 Is - is cooking.\n문장별 판정:\n정답 판단: he에 Is, Jane에 is cooking을 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 첫째: 주어 he에는 Is를 써야 하므로 오답이다.\n② [정답] he에 Is, Jane에 is cooking을 바르게 썼으므로 정답이다.\n③ [오답] 첫째: 진행형 의문문은 Do가 아니라 be동사로 시작하고, 둘째: Jane에는 is를 써야 하므로 오답이다.\n④ [오답] 둘째: 3인칭 단수 주어 Jane에는 is를 써야 하므로 오답이다.\n⑤ [오답] 첫째: he에는 Is를, 둘째: Jane에는 is를 써야 하므로 오답이다.",
+    "passage": "- <u>Are</u> he running?\n- Jane <u>are cooking</u>.",
+    "stem": "밑줄 친 부분을 바르게 고친 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T07:03:35.939Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T07:03:36.849Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:03:36.849Z",
+      "what": "확인 완료"
+    }
+  }
+}

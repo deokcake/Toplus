@@ -1,0 +1,86 @@
+{
+ "key": "4-100",
+ "grade": 4,
+ "chapter": "CH 10 문장의 종류",
+ "items": {
+  "A": {
+   "stem": "다음 <보기> 중 어법상 틀린 문장으로만 짝지어진 것은?",
+   "passage": "<보기>\n(A) How cold is it today!\n(B) What a beautiful flowers they are!\n(C) How carefully he drives!\n(D) What an interesting story it is!\n(E) How loud he speak!",
+   "c": [
+    "(A), (B), (C)",
+    "(C), (D)",
+    "(A), (B), (E)",
+    "(B), (C), (E)",
+    "(A), (D), (E)"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 감탄문의 어순: How + 형용사/부사 + 주어 + 동사!, What + (a/an) + 형용사 + 명사 + 주어 + 동사! 복수명사 앞에는 a를 쓰지 않고, 동사는 주어에 맞춘다.\n풀이 순서: ① 문장마다 세 가지를 본다: What/How 뒤의 덩어리, ‘주어 + 동사’ 어순, 주어와 동사의 수. → ② (A) is it(it is), (B) a ~ flowers(a를 뺀다), (E) he speak(speaks)가 틀렸다. → ③ 틀린 문장만 묶은 (A), (B), (E)가 정답이다.\n문장별 판정: (A) X. 의문문 어순이다(How cold it is today!). (B) X. 복수명사 flowers 앞에 a를 쓸 수 없다. (C) O. How + 부사 + 주어 + 동사. (D) O. What + an + 형용사 + 명사 + 주어 + 동사. (E) X. 주어 he에는 speaks.\n정답 판단: 틀린 문장 (A), (B), (E)만 묶었으므로 정답은 ③이다.\n선택지 분석:\n① [오답] (C)는 옳은 문장이므로 오답이다.\n② [오답] (C), (D) 모두 옳은 문장이므로 오답이다.\n③ [정답] 틀린 문장 (A), (B), (E)만 묶었으므로 정답이다.\n④ [오답] (C)는 옳은 문장이므로 오답이다.\n⑤ [오답] (D)는 옳은 문장이므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 <보기> 중 어법상 틀린 문장으로만 짝지어진 것은?",
+   "passage": "<보기>\n(A) What an amazing story it is!\n(B) How interesting the book is!\n(C) What cute the cat is!\n(D) How a nice car it is!\n(E) How well they sings!",
+   "c": [
+    "(A), (B), (C)",
+    "(C), (D), (E)",
+    "(A), (B), (E)",
+    "(B), (C), (E)",
+    "(A), (D), (E)"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 감탄문은 What + (a/an) + 형용사 + 명사 + 주어 + 동사!, How + 형용사/부사 + 주어 + 동사!이다. 복수명사 앞에는 a/an을 쓰지 않고, 주어와 동사의 수를 일치시킨다.\n풀이 순서: ① 문장마다 세 가지를 본다: What/How 뒤의 덩어리, ‘주어 + 동사’ 어순, 주어와 동사의 수. → ② (C) What cute(How cute), (D) How a nice car(What a nice car)가 틀렸다. → ③ 틀린 문장만 묶은 (C), (D), (E)가 정답이다.\n문장별 판정:\n(A) O. What + an + 형용사 + 명사 + 주어 + 동사이다.\n(B) O. How + 형용사 + 주어 + 동사이다.\n(C) X. 명사 없이 형용사만 오면 How를 쓴다.\n(D) X. 명사구가 있으면 What을 쓴다.\n(E) X. 복수 주어 they에는 sing을 쓴다.\n정답 판단: 어법상 틀린 문장은 (C), (D), (E)이다.\n선택지 분석:\n① [오답] (A), (B)는 틀린 문장이 아니고, 틀린 문장 (D), (E)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 틀린 문장 (C), (D), (E)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (A), (B)는 틀린 문장이 아니고, 틀린 문장 (C), (D)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (B)는 틀린 문장이 아니고, 틀린 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (A)는 틀린 문장이 아니고, 틀린 문장 (C)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "C": {
+   "stem": "다음 <보기> 중 어법상 틀린 문장으로만 짝지어진 것은?",
+   "passage": "<보기>\n(A) What a tall trees they are!\n(B) How cute the dog is!\n(C) How fast he run!\n(D) What an interesting book it is!\n(E) What exciting the game was!",
+   "c": [
+    "(A), (C), (E)",
+    "(B), (D)",
+    "(A), (B), (C)",
+    "(B), (C), (E)",
+    "(A), (D), (E)"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 감탄문은 What + (a/an) + 형용사 + 명사 + 주어 + 동사!, How + 형용사/부사 + 주어 + 동사!이다. 복수명사 앞에는 a/an을 쓰지 않고, 주어와 동사의 수를 일치시킨다.\n풀이 순서: ① 문장마다 세 가지를 본다: What/How 뒤의 덩어리, ‘주어 + 동사’ 어순, 주어와 동사의 수. → ② (A) a ~ trees(a를 뺀다), (C) he run(he runs), (E) What exciting(How exciting)이 틀렸다. → ③ 틀린 문장만 묶은 (A), (C), (E)가 정답이다.\n문장별 판정:\n(A) X. 복수명사 trees 앞에는 a를 쓰지 않는다.\n(B) O. How + 형용사 + 주어 + 동사이다.\n(C) X. 3인칭 단수 주어 he에는 runs를 쓴다.\n(D) O. What + an + 형용사 + 명사 + 주어 + 동사이다.\n(E) X. 명사 없이 형용사만 오면 How를 쓴다.\n정답 판단: 어법상 틀린 문장은 (A), (C), (E)이다.\n선택지 분석:\n① [정답] 틀린 문장 (A), (C), (E)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (B), (D)는 틀린 문장이 아니고, 틀린 문장 (A), (C), (E)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (B)는 틀린 문장이 아니고, 틀린 문장 (E)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (B)는 틀린 문장이 아니고, 틀린 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (D)는 틀린 문장이 아니고, 틀린 문장 (C)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "D": {
+   "stem": "다음 <보기> 중 어법상 틀린 문장으로만 짝지어진 것은?",
+   "passage": "<보기>\n(A) How kind your sister are!\n(B) What a nice day it is today!\n(C) How a tall boy your brother is!\n(D) What beautiful the flowers are!\n(E) How quickly the rabbit runs!",
+   "c": [
+    "(A), (B), (C)",
+    "(C), (D)",
+    "(A), (C), (D)",
+    "(B), (C), (E)",
+    "(A), (D), (E)"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 감탄문은 What + (a/an) + 형용사 + 명사 + 주어 + 동사!, How + 형용사/부사 + 주어 + 동사!이다. 복수명사 앞에는 a/an을 쓰지 않고, 주어와 동사의 수를 일치시킨다.\n풀이 순서: ① 문장마다 세 가지를 본다: What/How 뒤의 덩어리, ‘주어 + 동사’ 어순, 주어와 동사의 수. → ② (A) your sister are(is), (C) How a tall boy(What a tall boy), (D) What beautiful(How beautiful)이 틀렸다. → ③ 틀린 문장만 묶은 (A), (C), (D)가 정답이다.\n문장별 판정:\n(A) X. 3인칭 단수 주어 your sister에는 is를 쓴다.\n(B) O. What + a + 형용사 + 명사 + 주어 + 동사이다.\n(C) X. 명사구(a tall boy)가 있으면 What을 쓴다.\n(D) X. 명사 없이 형용사만 오면 How를 쓴다.\n(E) O. How + 부사 + 주어 + 동사이다.\n정답 판단: 어법상 틀린 문장은 (A), (C), (D)이다.\n선택지 분석:\n① [오답] (B)는 틀린 문장이 아니고, 틀린 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n② [오답] 틀린 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 틀린 문장 (A), (C), (D)를 빠짐없이 골랐으므로 정답이다.\n④ [오답] (B), (E)는 틀린 문장이 아니고, 틀린 문장 (A), (D)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (E)는 틀린 문장이 아니고, 틀린 문장 (C)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "E": {
+   "stem": "다음 <보기> 중 어법상 틀린 문장으로만 짝지어진 것은?",
+   "passage": "<보기>\n(A) What an old house your grandma has!\n(B) How cute your puppies is!\n(C) What interesting book you have!\n(D) How a beautiful day we have!\n(E) What a smart boy your cousin is!",
+   "c": [
+    "(A), (B), (C)",
+    "(C), (D), (E)",
+    "(A), (B), (E)",
+    "(B), (C), (D)",
+    "(A), (D), (E)"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 감탄문은 What + (a/an) + 형용사 + 명사 + 주어 + 동사!, How + 형용사/부사 + 주어 + 동사!이다. 복수명사 앞에는 a/an을 쓰지 않고, 주어와 동사의 수를 일치시킨다.\n풀이 순서: ① 문장마다 세 가지를 본다: What/How 뒤의 덩어리, ‘주어 + 동사’ 어순, 주어와 동사의 수. → ② (B) your puppies is(are), (C) What interesting book(an이 빠졌다), (D) How a beautiful day(What a beautiful day)가 틀렸다. → ③ 틀린 문장만 묶은 (B), (C), (D)가 정답이다.\n문장별 판정:\n(A) O. What + an + 형용사 + 명사 + 주어 + 동사이다.\n(B) X. 복수 주어 your puppies에는 are를 쓴다.\n(C) X. 단수명사 book 앞에 an이 빠졌다.\n(D) X. 명사구(a beautiful day)가 있으면 What을 쓴다.\n(E) O. What + a + 형용사 + 명사 + 주어 + 동사이다.\n정답 판단: 어법상 틀린 문장은 (B), (C), (D)이다.\n선택지 분석:\n① [오답] (A)는 틀린 문장이 아니고, 틀린 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (E)는 틀린 문장이 아니고, 틀린 문장 (B)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (A), (E)는 틀린 문장이 아니고, 틀린 문장 (C), (D)를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 틀린 문장 (B), (C), (D)를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] (A), (E)는 틀린 문장이 아니고, 틀린 문장 (B), (C)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "F": {
+   "stem": "다음 <보기> 중 어법상 틀린 문장으로만 짝지어진 것은?",
+   "passage": "<보기>\n(A) How fast Tom run in the race!\n(B) What a lovely dog Jane has!\n(C) How a kind girl Mina is!\n(D) What beautiful flowers you grow!\n(E) How nice the weather are today!",
+   "c": [
+    "(A), (B), (C)",
+    "(C), (D)",
+    "(A), (B), (E)",
+    "(B), (C), (E)",
+    "(A), (C), (E)"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 감탄문은 What + (a/an) + 형용사 + 명사 + 주어 + 동사!, How + 형용사/부사 + 주어 + 동사!이다. 복수명사 앞에는 a/an을 쓰지 않고, 주어와 동사의 수를 일치시킨다.\n풀이 순서: ① 문장마다 세 가지를 본다: What/How 뒤의 덩어리, ‘주어 + 동사’ 어순, 주어와 동사의 수. → ② (A) Tom run(runs), (C) How a kind girl(What a kind girl), (E) the weather are(is)가 틀렸다. → ③ 틀린 문장만 묶은 (A), (C), (E)가 정답이다.\n문장별 판정:\n(A) X. 3인칭 단수 주어 Tom에는 runs를 쓴다.\n(B) O. What + a + 형용사 + 명사 + 주어 + 동사이다.\n(C) X. 명사구(a kind girl)가 있으면 What을 쓴다.\n(D) O. What + 형용사 + 복수명사 + 주어 + 동사이다.\n(E) X. 셀 수 없는 명사 weather에는 is를 쓴다.\n정답 판단: 어법상 틀린 문장은 (A), (C), (E)이다.\n선택지 분석:\n① [오답] (B)는 틀린 문장이 아니고, 틀린 문장 (E)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (D)는 틀린 문장이 아니고, 틀린 문장 (A), (E)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (B)는 틀린 문장이 아니고, 틀린 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (B)는 틀린 문장이 아니고, 틀린 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 틀린 문장 (A), (C), (E)를 빠짐없이 골랐으므로 정답이다."
+  }
+ },
+ "prior_review": {}
+}

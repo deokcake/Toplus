@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:03:09.205Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "(A) down - (B) at",
+      "1": "(A) up - (B) after",
+      "2": "(A) out - (B) into",
+      "3": "(A) off - (B) for",
+      "4": "(A) up - (B) for"
+    },
+    "expl": "핵심 규칙: pick up은 소포를 찾아오다, wait for는 기다리다라는 뜻이다.\n풀이 순서: ① (A) 문장의 뜻을 본다. 소포를 ‘찾아왔다’: pick up. → ② (B) 문장의 뜻을 본다. 버스를 ‘기다린다’: wait for. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: 두 문장의 실제 뜻에 맞는 공통 어휘 결합을 확인한다.\n선택지 분석:\n① [오답] (A) pick up은 소포를 찾아오다라는 뜻이므로 up이 필요하다 (제시된 down은 주어진 뜻과 다르거나 표현을 완성하지 못한다) / (B) wait for는 기다리다라는 뜻이므로 for가 필요하다 (제시된 at은 주어진 뜻과 다르거나 표현을 완성하지 못한다). 바른 연결은 (A) up - (B) for이다.\n② [오답] (A) pick up은 소포를 찾아오다라는 뜻이므로 up이 필요하다 (이 요소는 맞다) / (B) wait for는 기다리다라는 뜻이므로 for가 필요하다 (제시된 after는 주어진 뜻과 다르거나 표현을 완성하지 못한다). 바른 연결은 (A) up - (B) for이다.\n③ [오답] (A) pick up은 소포를 찾아오다라는 뜻이므로 up이 필요하다 (제시된 out은 주어진 뜻과 다르거나 표현을 완성하지 못한다) / (B) wait for는 기다리다라는 뜻이므로 for가 필요하다 (제시된 into는 주어진 뜻과 다르거나 표현을 완성하지 못한다). 바른 연결은 (A) up - (B) for이다.\n④ [오답] (A) pick up은 소포를 찾아오다라는 뜻이므로 up이 필요하다 (제시된 off는 주어진 뜻과 다르거나 표현을 완성하지 못한다) / (B) wait for는 기다리다라는 뜻이므로 for가 필요하다 (이 요소는 맞다). 바른 연결은 (A) up - (B) for이다.\n⑤ [정답] (A) pick up은 소포를 찾아오다라는 뜻이므로 up이 필요하다 (이 요소는 맞다) / (B) wait for는 기다리다라는 뜻이므로 for가 필요하다 (이 요소는 맞다). 바른 연결은 (A) up - (B) for이다.",
+    "passage": "- Mina picked (<u>     A     </u>) the package at the post office this morning.\n- She is waiting (<u>     B     </u>) the bus at the stop now.",
+    "stem": "다음 문장의 빈칸 (A), (B)에 들어갈 전치사가 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T17:02:47.557Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T17:03:04.409Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:03:09.205Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:03:04.396Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:03:09.205Z",
+      "what": "확인 완료"
+    }
+  }
+}

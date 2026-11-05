@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:16:31.219Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "But the new library was biggest than the old one.",
+      "1": "But the new library was very big than the old one.",
+      "2": "But the new library was bigger than the old one.",
+      "3": "But the new library was big than the old one.",
+      "4": "But the new library was more big than the old one."
+    },
+    "expl": "핵심 규칙: than 앞에는 비교급, the ~ of 구문에는 최상급을 쓴다. 짧은 단어는 -er·-est를 붙이고 more·most를 겹쳐 쓰지 않으며, very는 비교급을 꾸미지 않는다.\n풀이 순서: ① 밑줄 친 문장에서 틀린 곳을 찾는다: more bigger. → ② more와 -er을 겹쳐 쓸 수 없으므로 bigger만 쓴다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: big의 비교급 bigger로 바르게 고쳤으므로 정답은 ③이다.\n선택지 분석:\n① [오답] than 앞에는 최상급이 아니라 비교급을 쓰므로 오답이다.\n② [오답] than 앞에는 원급이 아니라 비교급을 쓰므로 오답이다.\n③ [정답] big의 비교급 bigger로 바르게 고쳤으므로 정답이다.\n④ [오답] than 앞에는 원급이 아니라 비교급을 쓰므로 오답이다.\n⑤ [오답] big은 짧은 단어라 more big이 아니라 bigger로 쓰므로 오답이다.",
+    "passage": "Last Sunday, I visited two libraries in my town. The old library was small and dark. <u>But the new library was more bigger than the old one</u>. It also had many new books.",
+    "stem": "다음 글에서 밑줄 친 문장을 어법상 올바르게 고친 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:16:34.075Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:16:34.075Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

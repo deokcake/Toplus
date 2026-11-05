@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:20:19.951Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "The concert was held on July.",
+      "1": "The concert is held in July.",
+      "2": "The concert was held in July.",
+      "3": "The concert held in July.",
+      "4": "The concert were held in July."
+    },
+    "expl": "핵심 규칙: 과거에 열렸다는 뜻은 was/were held로 나타낸다. 연도·월에는 in, 날짜·요일에는 on, 시각에는 at을 쓴다.\n풀이 순서: ① 동사부터 정한다: ‘열렸다’는 과거의 수동이고 주어 The concert가 단수이므로 was held. → ② 때를 나타내는 말 앞의 전치사를 정한다: July는 달이므로 in. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 과거 수동태 was held와 월 앞의 in을 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 월 앞에는 on이 아니라 in을 쓰므로 오답이다.\n② [오답] 과거의 일이고, was held로 써야 하므로 오답이다.\n③ [정답] 과거 수동태 was held와 월 앞의 in을 바르게 썼으므로 정답이다.\n④ [오답] ‘열리다’는 be held로 써야 하므로 오답이다.\n⑤ [오답] 단수 주어 The concert에는 was를 쓰므로 오답이다.",
+    "passage": "그 콘서트는 7월에 열렸다. (be held, July)",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:20:19.499Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:20:19.951Z",
+      "what": "확인 완료"
+    }
+  }
+}

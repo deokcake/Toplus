@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:26:14.758Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 미래의 시간·조건 부사절은 현재형을 쓴다. although(though)와 but은 함께 쓰지 않고, despite·because of 뒤에는 명사, although·because 뒤에는 절이 온다. unless에는 not의 뜻이 들어 있다. 상관접속사 주어는 B에(both A and B는 복수로) 동사를 맞춘다.\n풀이 순서: ① 문장마다 접속사를 찾아 그 뒤가 절인지 명사인지, 시제가 맞는지 본다. 시간·조건의 부사절에는 will을 쓰지 않는다. → ② 상관접속사 주어는 B에 수를 맞춘다(both A and B는 복수). → ③ ⓔ만 틀렸다. when Dad gets home으로 써야 한다. 올바르지 않은 문장은 1개이다.\n문장별 판정:\nⓐ O. 조건 부사절에 현재형을 썼다.\nⓑ O. although(양보) 뒤에 절이 왔다.\nⓒ O. B(Tom)에 맞춰 is를 썼다.\nⓓ O. both A and B는 복수 동사를 쓴다.\nⓔ X. 시간 부사절에는 현재형을 쓴다(when Dad gets home).\n정답 판단: 어법상 올바르지 않은 문장은 ⓔ로 1개이다.\n선택지 분석:\n① [정답] 어법상 올바르지 않은 문장은 ⓔ로 1개이다. 이 보기의 1개는 실제 개수와 일치한다.\n② [오답] 어법상 올바르지 않은 문장은 ⓔ로 1개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 어법상 올바르지 않은 문장은 ⓔ로 1개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 어법상 올바르지 않은 문장은 ⓔ로 1개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 올바르지 않은 문장은 ⓔ로 1개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "<보기>\nⓐ If Jane finishes her work early, she will call you.\nⓑ Although it rained all day, we played soccer outside.\nⓒ Neither the boys nor Tom is ready for the trip.\nⓓ Both Mina and Jane are students at this school.\nⓔ We will eat dinner when Dad will get home from work.",
+    "stem": "다음 <보기> 중 어법상 올바르지 않은 문장은 몇 개인가?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T01:27:09.582Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:27:16.537Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:26:14.758Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:26:06.168Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:26:14.758Z",
+      "what": "확인 완료"
+    }
+  }
+}

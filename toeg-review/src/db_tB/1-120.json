@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T05:30:00.217Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "(가), (나)",
+      "1": "(나), (마)",
+      "2": "(다), (라)",
+      "3": "(나), (다), (마)",
+      "4": "(가), (라), (마)"
+    },
+    "expl": "핵심 규칙: 평서문은 said that/told + 사람 + that, 의문문은 asked + 의문사 + 주어 + 동사, 명령문은 told + 사람 + (not) to부정사로 바꾼다. 전달동사가 과거이면 시제를 한 단계 뒤로 옮기고 tomorrow → the next day, today → that day, now → then으로 바꾼다.\n풀이 순서: ① 화살표 뒤 문장마다 확인한다. 시제를 한 단계 뒤로 옮겼는지, 대명사와 때를 나타내는 말을 바꿨는지, 의문문·명령문이면 어순과 to부정사가 맞는지. → ② (나)는 간접의문문이 의문문 어순(when would I leave)이고, (마)는 told us 뒤에 to가 빠졌다. 나머지는 바르다. → ③ 틀린 것만 묶은 (나), (마)를 고른다.\n문장별 판정:\n(가) 옳음: am → was.\n(나) 틀림: 간접의문문은 when I would leave 어순이다.\n(다) 옳음: have finished → had finished.\n(라) 옳음: met → had met, yesterday → the day before.\n(마) 틀림: 명령문은 told us to practice harder로 쓴다.\n정답 판단: 화법 전환이 틀린 것은 (나), (마)이다.\n선택지 분석:\n① [오답] (가)는 틀린 항목이 아니고, 틀린 항목 (마)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 틀린 항목 (나), (마)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (다), (라)는 틀린 항목이 아니고, 틀린 항목 (나), (마)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (다)는 틀린 항목이 아니다. 따라서 오답이다.\n⑤ [오답] (가), (라)는 틀린 항목이 아니고, 틀린 항목 (나)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(가) Mina said, \"I am busy.\"\n→ Mina said that she was busy.\n(나) Tom asked me, \"When will you leave?\"\n→ Tom asked me when would I leave.\n(다) Jane said, \"I have finished.\"\n→ Jane said that she had finished.\n(라) Leo said, \"I met her yesterday.\"\n→ Leo said that he had met her the day before.\n(마) The coach said to us, \"Practice harder.\"\n→ The coach told us practice harder.",
+    "stem": "다음 중 화법 전환이 어법상 틀린 문장으로만 묶인 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T05:29:15.022Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T05:30:00.217Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T05:30:00.217Z",
+      "what": "확인 완료"
+    }
+  }
+}

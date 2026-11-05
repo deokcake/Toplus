@@ -1,0 +1,182 @@
+{
+ "key": "5-11",
+ "type": "B",
+ "grade": 5,
+ "chapter": "CH 2 be동사와 일반동사",
+ "title": "자음 + y로 끝나는 동사의 3인칭 단수형",
+ "total_sec": 130,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "5급 · CH 2 be동사와 일반동사 · 11번 · B 유형\n\n이 문제는 주어 The baby 뒤에 오는 일반동사 cry의 알맞은 현재형을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 2 be동사와 일반동사 · 11번 · B 유형",
+     "이 문제는 주어 The baby 뒤에 오는 일반동사 cry의 알맞은 현재형을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 2, 11번 B 유형. 이 문제는 주어 The baby 뒤에 오는 일반동사 cry의 알맞은 현재형을 고르는 문제예요.",
+   "caption": "cry의 3인칭 단수형"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 주어진 동사의 알맞은 형태를 고르시오.\n\n아기는 배가 고플 때 운다.\nThe baby _______(cry) when it is hungry.\n\n① crys\n② cries\n③ cried\n④ cry\n⑤ crying",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 주어진 동사의 알맞은 형태를 고르시오.",
+     "아기는 배가 고플 때 운다.",
+     "The baby _______(cry) when it is hungry.",
+     "① crys",
+     "② cries",
+     "③ cried",
+     "④ cry",
+     "⑤ crying"
+    ]
+   },
+   "narration": "다음 주어진 동사 cry의 알맞은 형태를 고르세요. The baby 빈칸 when it is hungry, 아기는 배가 고플 때 운다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\n현재(늘 하는 일·사실), 주어가 3인칭 단수(he, she, it, the baby) → 일반동사 + s/es\ny 앞이 자음 → y를 i로 바꾸고 + es (fly → flies)\ny 앞이 모음 → + s만 (play → plays),  have → has\n주어가 I, you, we, they, 복수 → 동사원형 (I fly)\n예) The bird flies high. (그 새는 높이 날아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재(늘 하는 일·사실), 주어가 3인칭 단수(he, she, it, the baby) → 일반동사 + s/es",
+     "y 앞이 자음 → y를 i로 바꾸고 + es (fly → flies)",
+     "y 앞이 모음 → + s만 (play → plays),  have → has",
+     "주어가 I, you, we, they, 복수 → 동사원형 (I fly)",
+     "예) The bird flies high. (그 새는 높이 날아요.)"
+    ]
+   },
+   "narration": "일반동사 현재형은 늘 하는 일이나 사실을 말할 때 써요. 주어가 he, she, it이나 the baby처럼 3인칭 단수이면 동사에 s나 es를 붙이고, have는 has로 써요. y로 끝나는 동사는 fly처럼 y 앞이 자음이면 y를 i로 바꾸고 es를 붙이고, play처럼 y 앞이 모음이면 s만 붙여요. 주어가 I, you, we, they이거나 여럿이면 동사원형을 그대로 써요. The bird flies high. 그 새는 높이 날아요.",
+   "caption": "자음 + y → y를 i로 + es"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 주어진 동사의 알맞은 형태를 고르시오.\n\n아기는 배가 고플 때 운다.\nThe baby _______(cry) when it is hungry.\n\n① crys\n② cries\n③ cried\n④ cry\n⑤ crying",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "The baby _______",
+       "is hungry"
+      ],
+      "strike": [
+       "③ cried"
+      ],
+      "note": "주어 The baby = 아기 한 명 → 3인칭 단수. ‘운다’, when 뒤 is → 현재. 과거형 cried는 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "② cries"
+      ],
+      "strike": [
+       "④ cry",
+       "① crys"
+      ],
+      "note": "cry: y 앞 r = 자음 → y를 i로 바꾸고 + es = cries. 동사원형 cry, y를 그대로 둔 crys는 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② cries"
+      ],
+      "strike": [
+       "⑤ crying"
+      ],
+      "note": "crying → be동사 없이 혼자 동사 자리 X → cries"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 주어 The baby는 아기 한 명이라서 3인칭 단수예요. 배가 고플 때마다 우는 것은 늘 있는 일이라 현재형을 쓰니까, 과거형 cried는 맞지 않아요. 둘째, cry는 y 앞에 자음 r이 있어서 y를 i로 바꾸고 es를 붙인 cries가 되니까, 동사원형 cry와 y를 그대로 둔 crys는 틀려요. 셋째, crying은 be동사 없이 혼자서 동사 자리를 채울 수 없어요. The baby cries when it is hungry. 아기는 배가 고플 때 울어요.",
+   "caption": "The baby → 현재 → cries"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① crys  ✗  y 앞이 자음이면 y를 i로 바꾸고 es (y를 그대로 둔 틀린 철자)\n② cries  ✓  3인칭 단수 The baby, 자음 + y → y를 i로 바꾸고 + es\n③ cried  ✗  과거형이라 ‘운다’, when 뒤의 is(현재)와 안 맞아요\n④ cry  ✗  동사원형은 I, you, we, they, 복수 주어에 써요 (The baby에는 cries)\n⑤ crying  ✗  be동사 없이 ing형만으로는 동사 자리를 못 채워요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① crys  ✗  y 앞이 자음이면 y를 i로 바꾸고 es (y를 그대로 둔 틀린 철자)",
+     "② cries  ✓  3인칭 단수 The baby, 자음 + y → y를 i로 바꾸고 + es",
+     "③ cried  ✗  과거형이라 ‘운다’, when 뒤의 is(현재)와 안 맞아요",
+     "④ cry  ✗  동사원형은 I, you, we, they, 복수 주어에 써요 (The baby에는 cries)",
+     "⑤ crying  ✗  be동사 없이 ing형만으로는 동사 자리를 못 채워요"
+    ]
+   },
+   "narration": "정답은 2번 cries예요. 1번 crys는 s만 붙였는데, cry는 y 앞이 자음이라 y를 i로 바꾸고 es를 붙여야 해요. 4번 cry는 I, you, we, they나 여럿이 주어일 때 쓰는 동사원형이라 The baby와 맞지 않아요. 3번 cried는 과거형이라 운다는 현재의 뜻과 맞지 않아요.",
+   "caption": "정답 ② cries"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ② cries\n\n3인칭 단수 주어 → 동사 + s/es (y 앞이 자음이면 y → i + es, have → has)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② cries",
+     "3인칭 단수 주어 → 동사 + s/es (y 앞이 자음이면 y → i + es, have → has)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 주어가 3인칭 단수이면 cries처럼 일반동사의 3인칭 단수형을 쓰고, y 앞이 자음이면 y를 i로 바꾸고 es를 붙여요.",
+   "caption": "y 앞이 자음이면 ies"
+  }
+ ],
+ "source": {
+  "stem": "다음 주어진 동사의 알맞은 형태를 고르시오.",
+  "passage": "아기는 배가 고플 때 운다.\nThe baby _______(cry) when it is hungry.",
+  "c": [
+   "crys",
+   "cries",
+   "cried",
+   "cry",
+   "crying"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 주어가 3인칭 단수이면 일반동사 현재형에 -(e)s를 붙인다. be동사와 일반동사를 함께 쓰지 않는다.\n풀이 순서: ① 주어를 본다: The baby. 3인칭 단수다. → ② 일반동사 현재형에 -(e)s를 붙인다: cry는 ‘자음 + y’로 끝나므로 y를 i로 바꾸고 -es를 붙여 cries. → ③ 정답은 cries.\n문장별 판정:\n정답 판단: cries — 현재시제의 주어에 맞는 일반동사 형태가 'cries'이다. 3인칭 단수이면 -s/-es 또는 철자 변화를 적용하므로 정답은 ②이다.\n선택지 분석:\n① [오답] crys — 주어에 맞는 현재형은 'cries'인데 'crys'는 3인칭 단수 수일치 또는 철자 규칙과 맞지 않는다. 따라서 오답이다.\n② [정답] cries — 현재시제의 주어에 맞는 일반동사 형태가 'cries'이다. 3인칭 단수이면 -s/-es 또는 철자 변화를 적용하므로 정답이다.\n③ [오답] cried — 과거형이므로 현재시제 빈칸에 맞지 않는다. 따라서 오답이다.\n④ [오답] cry — 주어에 맞는 현재형은 'cries'인데 'cry'는 3인칭 단수 수일치 또는 철자 규칙과 맞지 않는다. 따라서 오답이다.\n⑤ [오답] crying — -ing형은 단순현재 긍정문의 본동사 형태가 아니다. 따라서 오답이다."
+ }
+}

@@ -1,0 +1,180 @@
+{
+ "key": "1-13",
+ "type": "A",
+ "grade": 1,
+ "chapter": "CH 2 시제",
+ "title": "Have you ever 질문의 짧은 대답",
+ "total_sec": 137,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "1급 · CH 2 시제 · 13번\n\n이 문제는 Have you ever로 경험을 묻는 질문에 알맞은 짧은 대답을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 2 시제 · 13번",
+     "이 문제는 Have you ever로 경험을 묻는 질문에 알맞은 짧은 대답을 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 2, 13번. 이 문제는 Have you ever로 경험을 묻는 질문에 알맞은 짧은 대답을 고르는 문제예요.",
+   "caption": "경험을 묻는 질문의 대답"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 21,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.\n\nA: Have you ever tried skydiving?\nB: _______ It's on my bucket list though.\n\n① Yes, I did.\n② No, I didn't.\n③ Yes, I have.\n④ No, I haven't.\n⑤ Of course, I did.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+     "A: Have you ever tried skydiving?",
+     "B: _______ It's on my bucket list though.",
+     "① Yes, I did.",
+     "② No, I didn't.",
+     "③ Yes, I have.",
+     "④ No, I haven't.",
+     "⑤ Of course, I did."
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 말로 알맞은 것을 고르세요. Have you ever tried skydiving? 빈칸, It's on my bucket list though. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\nHave you ever + 과거분사 ~? → 지금까지 해 본 적이 있는지(경험) 묻는 현재완료 의문문\n짧은 대답은 질문의 have를 받아요 → Yes, I have. / No, I haven't.\n이 질문에는 did, didn't나 am으로 답하지 않아요\nYes·No는 뒤에 이어지는 말과 뜻이 맞아야 해요\n예) A: Have you ever seen a koala?  B: Yes, I have. (코알라를 본 적 있니? 응, 있어.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "Have you ever + 과거분사 ~? → 지금까지 해 본 적이 있는지(경험) 묻는 현재완료 의문문",
+     "짧은 대답은 질문의 have를 받아요 → Yes, I have. / No, I haven't.",
+     "이 질문에는 did, didn't나 am으로 답하지 않아요",
+     "Yes·No는 뒤에 이어지는 말과 뜻이 맞아야 해요",
+     "예) A: Have you ever seen a koala?  B: Yes, I have. (코알라를 본 적 있니? 응, 있어.)"
+    ]
+   },
+   "narration": "Have you ever 뒤에 과거분사가 오는 질문은 지금까지 해 본 적이 있는지 묻는 현재완료 의문문이에요. 짧은 대답은 질문의 have를 받아 Yes, I have 또는 No, I haven't로 하고, did나 am으로 답하지 않아요. Yes와 No는 뒤의 말과 뜻이 맞아야 해요. Have you ever seen a koala? 코알라를 본 적 있니? Yes, I have. 응, 있어.",
+   "caption": "Have you ever → have로 답해요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.\n\nA: Have you ever tried skydiving?\nB: _______ It's on my bucket list though.\n\n① Yes, I did.\n② No, I didn't.\n③ Yes, I have.\n④ No, I haven't.\n⑤ Of course, I did.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Have you ever tried skydiving?"
+      ],
+      "strike": [
+       "① Yes, I did.",
+       "② No, I didn't.",
+       "⑤ Of course, I did."
+      ],
+      "note": "질문 Have you ever ~? → 대답도 have / haven't. did·didn't로 답한 보기를 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "It's on my bucket list though."
+      ],
+      "strike": [],
+      "note": "빈칸 뒤: 그래도 해 보고 싶은 일 목록에 있다 → 아직 안 해 봤다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ No, I haven't."
+      ],
+      "strike": [
+       "③ Yes, I have."
+      ],
+      "note": "해 본 적 없다 → No, I haven't."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, Have you ever tried skydiving은 스카이다이빙을 해 본 적 있냐는 경험 질문이라 대답은 have나 haven't로 해요. 그래서 did나 didn't로 답한 1번, 2번, 5번을 지워요. 둘째, 빈칸 뒤 It's on my bucket list though는 그래도 해 보고 싶은 일 목록에 있다는 말이라, 아직 안 해 봤다는 뜻이에요. 셋째, 그러니 Yes, I have가 아니라 No, I haven't가 알맞아요.",
+   "caption": "have로 답하기 → 뒤의 말과 뜻 맞추기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① Yes, I did.  ✗  Have로 물었는데 did로 답했고, 해 봤다는 뜻도 뒤의 말과 반대예요\n② No, I didn't.  ✗  안 해 봤다는 뜻은 맞지만 didn't가 아니라 haven't로 답해요\n③ Yes, I have.  ✗  형태는 맞지만 아직 안 해 봤으니 Yes가 틀려요\n④ No, I haven't.  ✓  haven't로 답하고, 해 본 적 없다는 뜻도 맞아요\n⑤ Of course, I did.  ✗  Of course를 붙여도 did로 답한 꼴이고, 뜻도 반대예요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Yes, I did.  ✗  Have로 물었는데 did로 답했고, 해 봤다는 뜻도 뒤의 말과 반대예요",
+     "② No, I didn't.  ✗  안 해 봤다는 뜻은 맞지만 didn't가 아니라 haven't로 답해요",
+     "③ Yes, I have.  ✗  형태는 맞지만 아직 안 해 봤으니 Yes가 틀려요",
+     "④ No, I haven't.  ✓  haven't로 답하고, 해 본 적 없다는 뜻도 맞아요",
+     "⑤ Of course, I did.  ✗  Of course를 붙여도 did로 답한 꼴이고, 뜻도 반대예요"
+    ]
+   },
+   "narration": "정답은 4번 No, I haven't예요. haven't로 답했고, 안 해 봤다는 뜻도 맞아요. 2번 No, I didn't는 안 해 봤다는 뜻은 맞지만, Have로 물었으니 didn't가 아니라 haven't로 답해야 해요. 3번 Yes, I have는 형태는 맞지만, 해 봤다는 뜻이라 버킷 리스트에 있다는 말과 맞지 않아요.",
+   "caption": "정답 ④ No, I haven't."
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ④ No, I haven't.\n\nHave you ever ~? → Yes, I have. / No, I haven't. (뒤의 말과 뜻 맞추기)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ No, I haven't.",
+     "Have you ever ~? → Yes, I have. / No, I haven't. (뒤의 말과 뜻 맞추기)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, Have you ever 질문에는 have나 haven't로 답하고, Yes와 No는 뒤의 말과 뜻을 맞춰요.",
+   "caption": "have·haven't로, 뜻은 뒤의 말에 맞춰"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Have you ever tried skydiving?\nB: _______ It's on my bucket list though.",
+  "c": [
+   "Yes, I did.",
+   "No, I didn't.",
+   "Yes, I have.",
+   "No, I haven't.",
+   "Of course, I did."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: Have you ever ~?로 경험을 물으면 Yes, I have. / No, I haven't.로 답한다. did로 답하지 않는다.\n풀이 순서: ① 질문이 Have you ever ~?이므로 대답도 have/haven't로 한다. 다른 말로 답한 보기를 지운다. → ② 빈칸 뒤의 말(It's on my bucket list though)로 해 본 적이 있는지 가른다. → ③ 아직 해 보지 못했고 해 보고 싶다는 뜻이므로 정답은 No, I haven't.\n문장별 판정:\n정답 판단: have로 물은 데 haven't로 답했고, 뒤의 ‘버킷 리스트에는 있다’는 말과도 이어지므로 정답은 ④이다.\n선택지 분석:\n① [오답] 현재완료 의문문에 did로 답할 수 없으므로 오답이다.\n② [오답] 현재완료 의문문에 didn't로 답할 수 없으므로 오답이다.\n③ [오답] 뒤의 말로 보아 아직 해 본 적이 없어 긍정의 대답은 맞지 않으므로 오답이다.\n④ [정답] have로 물은 데 haven't로 답했고, 뒤의 ‘버킷 리스트에는 있다’는 말과도 이어지므로 정답이다.\n⑤ [오답] 현재완료 의문문에 did로 답할 수 없으므로 오답이다."
+ }
+}

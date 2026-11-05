@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-21T11:25:14.752Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": "watch - watched",
+      "4": null
+    },
+    "expl": "핵심 규칙: 규칙 과거형: 대부분 -ed, 자음 + y는 y를 i로 바꾸고 -ed(carried), 단모음 + 단자음은 자음을 겹쳐 -ed(hugged), 모음 + y는 그대로 -ed(played).\n풀이 순서: ① 동사의 끝을 본다: 자음 + y인지, 단모음 + 단자음인지, 모음 + y인지. → ② 그 끝에 맞는 규칙(-ied, 자음 겹치기, 그대로 -ed)대로 되었는지 본다. → ③ plan은 단모음 + 단자음이므로 planned다. 정답은 plan - planed.\n문장별 판정:\n정답 판단: plan은 단모음 + 단자음이라 n을 겹쳐 planned로 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 자음 + y라 y를 i로 바꾼 옳은 형태이므로 오답이다.\n② [정답] plan은 단모음 + 단자음이라 n을 겹쳐 planned로 써야 하므로 정답이다.\n③ [오답] -ed를 붙인 옳은 형태이므로 오답이다.\n④ [오답] -ed를 붙인 옳은 형태이므로 오답이다.\n⑤ [오답] 단모음 + 단자음이라 g를 겹쳐 쓴 옳은 형태이므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-21T11:25:13.349Z"
+  },
+  "tab": "ojjpxrut",
+  "updatedAt": "2026-10-21T11:25:14.753Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T11:25:14.753Z",
+      "what": "확인 완료"
+    }
+  }
+}

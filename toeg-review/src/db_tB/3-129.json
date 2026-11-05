@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:24:25.927Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Unless you don't water the plant, it will die.",
+      "1": "Unless you water the plant, it won't die.",
+      "2": "Unless you water the plant, it will die.",
+      "3": "Unless you watering the plant, it will die.",
+      "4": "Unless you not water the plant, it won't die."
+    },
+    "expl": "핵심 규칙: unless는 if ~ not(~하지 않으면)의 뜻이므로 unless절에 not을 또 쓰지 않고, 주절의 뜻은 그대로 둔다.\n풀이 순서: ① Unless = If ~ not이다. if절의 부정(don't)을 지우고 If를 Unless로 바꾼다. → ② unless절은 Unless you water the plant가 된다. → ③ 주절(it will die)은 그대로 둔다. 정답은 ③.\n문장별 판정:\n정답 판단: If ~ not을 Unless로 바꾸고 주절은 그대로 두었으므로 정답은 ③이다.\n선택지 분석:\n① [오답] unless에 not의 뜻이 있어 not(don't)을 또 쓰면 안 되므로 오답이다.\n② [오답] 주절의 뜻을 반대로 뒤집었으므로 오답이다.\n③ [정답] If ~ not을 Unless로 바꾸고 주절은 그대로 두었으므로 정답이다.\n④ [오답] unless절에 동사가 없이 -ing형만 썼으므로 오답이다.\n⑤ [오답] unless절에 not을 남겼고 주절의 뜻도 뒤집었으므로 오답이다.",
+    "passage": "If you don't water the plant, it will die.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:24:25.488Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:24:25.927Z",
+      "what": "확인 완료"
+    }
+  }
+}

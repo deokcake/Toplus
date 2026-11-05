@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-06T07:19:06.013Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Where does your father work?",
+      "1": "Is your father working in Seoul now?",
+      "2": null,
+      "3": null,
+      "4": "Did your father work in Seoul?"
+    },
+    "expl": "핵심 규칙: Yes/No로 답하는 일반동사 현재 의문문은 Do/Does + 주어 + 동사원형이다. 의문사 의문문은 Yes/No로 답하지 않고, 진행형·과거 의문문에는 is/did로 답한다.\n풀이 순서: ① 대답이 Yes로 시작하므로 의문사 없는 의문문이어야 한다. → ② 대답의 동사(works)가 일반동사 현재형이므로 Do/Does로 묻는다. 주어가 your father(3인칭 단수)이므로 Does. → ③ Do/Does 뒤는 동사원형이다. 정답은 ③.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 + Does + 동사원형의 현재 의문문이므로 정답은 ③이다.\n선택지 분석:\n① [오답] 의문사 의문문은 Yes/No로 답하지 않으므로 오답이다.\n② [오답] 진행형 질문에는 Yes, he is로 답하므로 오답이다.\n③ [정답] 3인칭 단수 주어 + Does + 동사원형의 현재 의문문이므로 정답이다.\n④ [오답] 3인칭 단수 주어에는 Does를 쓰므로 오답이다.\n⑤ [오답] 과거 질문에는 Yes, he did로 답하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 대화의 빈칸에 들어갈 질문으로 가장 알맞은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T07:17:38.941Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-06T07:19:06.013Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T07:19:06.013Z",
+      "what": "확인 완료"
+    }
+  }
+}

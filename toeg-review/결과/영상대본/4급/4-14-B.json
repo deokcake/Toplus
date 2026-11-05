@@ -1,0 +1,180 @@
+{
+ "key": "4-14",
+ "type": "B",
+ "grade": 4,
+ "chapter": "CH 2 대명사",
+ "title": "단수·복수 취급 명사와 동사",
+ "total_sec": 127,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "4급 · CH 2 대명사 · 14번 · B 유형\n\n이 문제는 주어가 단수 취급인지 복수 취급인지 보고, 동사가 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 2 대명사 · 14번 · B 유형",
+     "이 문제는 주어가 단수 취급인지 복수 취급인지 보고, 동사가 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 2, 14번 B 유형. 이 문제는 주어가 단수 취급인지 복수 취급인지 보고, 동사가 틀린 문장을 고르는 문제예요.",
+   "caption": "단수·복수 취급 명사와 동사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분이 틀린 문장을 고르시오.\n\n① My glasses <u>are</u> on the table.\n② Mathematics <u>are</u> my favorite subject.\n③ The shorts <u>look</u> too big.\n④ His advice <u>was</u> very helpful.\n⑤ The jeans <u>are</u> blue.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 밑줄 친 부분이 틀린 문장을 고르시오.",
+     "① My glasses <u>are</u> on the table.",
+     "② Mathematics <u>are</u> my favorite subject.",
+     "③ The shorts <u>look</u> too big.",
+     "④ His advice <u>was</u> very helpful.",
+     "⑤ The jeans <u>are</u> blue."
+    ]
+   },
+   "narration": "다음 중 밑줄 친 부분이 틀린 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\n학문 이름(mathematics, physics) → s로 끝나도 단수 취급\n셀 수 없는 명사(advice, information) → 단수 취급\nglasses, shorts, jeans(두 부분이 짝인 물건) → 하나여도 복수 취급\n이런 명사가 주어일 때: 단수 취급 → is, was, looks   복수 취급 → are, were, look\n예) Physics is difficult. (물리학은 어려워요.)  These jeans are old. (이 청바지는 낡았어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "학문 이름(mathematics, physics) → s로 끝나도 단수 취급",
+     "셀 수 없는 명사(advice, information) → 단수 취급",
+     "glasses, shorts, jeans(두 부분이 짝인 물건) → 하나여도 복수 취급",
+     "이런 명사가 주어일 때: 단수 취급 → is, was, looks   복수 취급 → are, were, look",
+     "예) Physics is difficult. (물리학은 어려워요.)  These jeans are old. (이 청바지는 낡았어요.)"
+    ]
+   },
+   "narration": "mathematics 같은 학문 이름은 s로 끝나도 단수 취급하고, advice 같은 셀 수 없는 명사도 단수 취급해요. 안경 glasses와 반바지 shorts처럼 두 부분이 짝을 이루는 물건은 하나여도 복수 취급해요. 이런 주어가 단수 취급이면 is나 looks, 복수 취급이면 are나 look처럼 써요. 예를 들어 Physics is difficult, 물리학은 어려워요. These jeans are old, 이 청바지는 낡았어요.",
+   "caption": "단수 취급과 복수 취급"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분이 틀린 문장을 고르시오.\n\n① My glasses <u>are</u> on the table.\n② Mathematics <u>are</u> my favorite subject.\n③ The shorts <u>look</u> too big.\n④ His advice <u>was</u> very helpful.\n⑤ The jeans <u>are</u> blue.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "glasses",
+       "Mathematics",
+       "shorts",
+       "advice",
+       "jeans"
+      ],
+      "strike": [],
+      "note": "밑줄 친 동사의 주어 찾기: glasses, Mathematics, shorts, advice, jeans"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① My glasses <u>are</u> on the table.",
+       "③ The shorts <u>look</u> too big.",
+       "⑤ The jeans <u>are</u> blue."
+      ],
+      "note": "glasses, shorts, jeans = 두 부분이 짝인 물건 → 복수 취급 → are, look, are 맞음"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② Mathematics <u>are</u> my favorite subject."
+      ],
+      "strike": [
+       "④ His advice <u>was</u> very helpful."
+      ],
+      "note": "advice = 셀 수 없는 명사 → was 맞음. Mathematics = 학문 이름 → 단수 취급 → are ✗ → is"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 밑줄 친 동사의 주어 glasses, Mathematics, shorts, advice, jeans를 찾아요. 둘째, glasses, shorts, jeans는 두 부분이 짝을 이루는 물건이라 복수 취급하니, are, look, are가 맞아요. 셋째, advice는 셀 수 없는 명사라 was가 맞아요. 그런데 Mathematics는 s로 끝나도 학문 이름이라 단수 취급하니, are가 아니라 is를 써야 해요. Mathematics is my favorite subject, 수학은 내가 가장 좋아하는 과목이에요.",
+   "caption": "주어 찾기 → 복수 → 단수 확인"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 21,
+   "screen": {
+    "text": "① My glasses <u>are</u> on the table.  ✗  glasses(안경)는 두 부분이 짝인 물건 → 복수 are\n② Mathematics <u>are</u> my favorite subject.  ✓  학문 이름은 s로 끝나도 단수 취급 → is로 고쳐요\n③ The shorts <u>look</u> too big.  ✗  shorts(반바지)는 두 부분이 짝인 물건 → 복수 look\n④ His advice <u>was</u> very helpful.  ✗  advice는 셀 수 없는 명사 → 단수 was\n⑤ The jeans <u>are</u> blue.  ✗  jeans는 두 부분이 짝인 물건 → 복수 are",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① My glasses <u>are</u> on the table.  ✗  glasses(안경)는 두 부분이 짝인 물건 → 복수 are",
+     "② Mathematics <u>are</u> my favorite subject.  ✓  학문 이름은 s로 끝나도 단수 취급 → is로 고쳐요",
+     "③ The shorts <u>look</u> too big.  ✗  shorts(반바지)는 두 부분이 짝인 물건 → 복수 look",
+     "④ His advice <u>was</u> very helpful.  ✗  advice는 셀 수 없는 명사 → 단수 was",
+     "⑤ The jeans <u>are</u> blue.  ✗  jeans는 두 부분이 짝인 물건 → 복수 are"
+    ]
+   },
+   "narration": "정답은 2번이에요. Mathematics는 s로 끝나서 복수처럼 보이지만, 학문 이름이라 is를 써야 해요. 3번 shorts는 반바지 한 벌이어도 복수 취급하니 look이 맞아요. 1번 glasses 역시 안경 하나여도 복수 취급해서 are가 맞아요.",
+   "caption": "정답 ② Mathematics are"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② Mathematics <u>are</u> my favorite subject.\n\n학문 이름·셀 수 없는 명사 → 단수 취급   두 부분이 짝인 물건 → 복수 취급",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② Mathematics <u>are</u> my favorite subject.",
+     "학문 이름·셀 수 없는 명사 → 단수 취급   두 부분이 짝인 물건 → 복수 취급"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, mathematics 같은 학문 이름은 s로 끝나도 단수 취급해요.",
+   "caption": "학문 이름은 단수 취급"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 밑줄 친 부분이 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "My glasses <u>are</u> on the table.",
+   "Mathematics <u>are</u> my favorite subject.",
+   "The shorts <u>look</u> too big.",
+   "His advice <u>was</u> very helpful.",
+   "The jeans <u>are</u> blue."
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: news·information·advice·furniture와 학문 이름(mathematics, physics, economics)은 단수 취급하고, pants·jeans·scissors·glasses·socks처럼 짝을 이루는 물건과 police는 복수 취급한다.\n풀이 순서: ① 주어 명사를 둘로 가른다: 단수 취급(news, information, advice, 학문 이름), 복수 취급(짝을 이루는 물건, police). → ② 밑줄 친 동사가 그에 맞는지 본다. mathematics는 학문 이름이라 단수 취급한다. ④의 are가 틀렸다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: 학문 이름 mathematics는 단수 취급해 is를 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 복수 취급하는 명사라 복수 동사가 맞으므로 오답이다.\n② [정답] 학문 이름 mathematics는 단수 취급해 is를 써야 하므로 정답이다.\n③ [오답] 복수 취급하는 명사라 복수 동사가 맞으므로 오답이다.\n④ [오답] 단수 취급하는 명사라 단수 동사가 맞으므로 오답이다.\n⑤ [오답] 복수 취급하는 명사라 복수 동사가 맞으므로 오답이다."
+ }
+}

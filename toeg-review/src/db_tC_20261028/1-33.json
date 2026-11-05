@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:11:57.697Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "was",
+      "1": "advised",
+      "2": "to resting",
+      "3": "at home for a week",
+      "4": "by the doctor"
+    },
+    "expl": "핵심 규칙: advise, tell, ask, encourage + 목적어 + to부정사 문장을 수동태로 바꾸면 ‘be + 과거분사 + to부정사’가 된다. to부정사는 그대로 남는다.\n풀이 순서: ① 능동문에서 ‘동사 + 목적어 + to부정사’를 찾는다: advised the patient to rest. → ② 수동태에서는 목적어가 주어로 나가고 동사가 be + 과거분사가 될 뿐, to부정사(to rest)는 모양이 바뀌지 않는다. → ③ 선택지 ③은 to 뒤에 -ing형을 썼으므로 틀렸다.\n문장별 판정:\n정답 판단: 능동문의 to rest는 수동태에서도 to부정사로 남아야 하는데 to resting으로 썼으므로 정답이다.\n선택지 분석:\n① [오답] 주어 The patient는 단수이고 과거의 일이라 was를 바르게 썼으므로 오답이다.\n② [오답] advise의 과거분사 advised를 바르게 썼으므로 오답이다.\n③ [정답] 능동문의 to rest는 수동태에서도 to부정사로 남아야 하는데 to resting으로 썼으므로 정답이다.\n④ [오답] 능동문의 부사구 at home for a week를 그대로 썼으므로 오답이다.\n⑤ [오답] 능동문의 주어를 by + 행위자로 바르게 나타냈으므로 오답이다.",
+    "passage": "The doctor advised the patient to rest at home for a week.\n→ The patient ①<u>was</u> ②<u>advised</u> ③<u>to resting</u> ④<u>at home for a week</u> ⑤<u>by the doctor</u>.",
+    "stem": "다음 문장을 수동태 문장으로 바꿀 때, 어법상 틀린 부분을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T05:14:35.514Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T05:15:24.098Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T03:12:00.009Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:12:00.009Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:12:00.009Z",
+      "what": "판정을 Claude 판정으로 되돌림"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T03:15:37.158Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "the most diligent student in our class",
+      "1": "harder than anyone else in the whole school",
+      "2": "much kinder than most of her classmates",
+      "3": "No other student is as kind as Mina",
+      "4": "the most smartest girl I have ever met"
+    },
+    "expl": "핵심 규칙: 최상급은 the + -est/most + 원급으로, 비교급은 -er/more + 원급 + than으로 쓰며 more와 -er, most와 -est를 겹쳐 쓰지 않는다. bad-worse-worst 같은 불규칙 변화도 확인한다. No other + 단수명사 + 비교급 than(as + 원급 + as)은 최상급의 뜻을 나타낸다.\n풀이 순서: ① 밑줄마다 비교 표현의 형태를 본다. 원급은 as ~ as, 비교급은 -er/more ~ than, 최상급은 the -est/the most ~다. → ② more와 -er, most와 -est를 겹치거나, 불규칙 변화(bad - worse)를 무시하면 틀린다. → ③ 선택지 ⑤가 틀렸다: the most smartest가 아니라 the smartest.\n문장별 판정:\n정답 판단: the smartest로 써야 하는데 most와 -est를 겹쳐 썼다.\n선택지 분석:\n① [오답] the most + 원급의 바른 최상급이므로 오답이다.\n② [오답] 비교급 + than anyone else(최상급의 뜻)의 바른 형태이므로 오답이다.\n③ [오답] much로 강조한 비교급 kinder than의 바른 형태이므로 오답이다.\n④ [오답] No other + 단수명사 + as + 원급 + as(최상급의 뜻)의 바른 형태이므로 오답이다.\n⑤ [정답] smart의 최상급은 the smartest다. most와 -est를 겹쳐 쓸 수 없으므로 정답이다.",
+    "passage": "A: Mina is ①<u>the most diligent student in our class</u>, isn't she?\nB: I agree. She studies ②<u>harder than anyone else in the whole school</u>.\nA: She is also ③<u>much kinder than most of her classmates</u>, I think.\nB: That's true. ④<u>No other student is as kind as Mina</u> in our grade.\nA: And she's ⑤<u>the most smartest girl I have ever met</u>, too.",
+    "stem": "다음 대화에서 사용된 표현 중 어법상 옳지 않은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T03:56:22.578Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T03:56:37.468Z",
+      "text": "제시된 지문이 기준 문항에 비해 너무 짧음."
+    }
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T03:15:37.158Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:15:32.658Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:15:37.158Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:02:25.918Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "baked",
+      "1": "sleeping",
+      "2": "Sitting",
+      "3": "serving",
+      "4": "Satisfied"
+    },
+    "expl": "핵심 규칙: 분사구문과 명사를 꾸미는 분사는 의미상 주어(꾸밈을 받는 명사)와의 관계가 능동이면 현재분사, 수동이면 과거분사를 쓴다. 앞선 일이 끝난 뒤를 나타내면 Having + 과거분사를 쓴다.\n풀이 순서: ① 밑줄 친 분사마다 의미상 주어(분사구문은 주절의 주어, 명사 수식은 그 명사)를 찾는다. → ② 주어가 그 동작을 하면 -ing, 당하면 과거분사다. 분사 뒤에 목적어가 있으면 능동, by ~가 있으면 수동일 가능성이 크다. → ③ 선택지 ④가 틀렸다: 음료는 ‘담겨 나온’ 것이므로 serving이 아니라 served.\n문장별 판정:\n정답 판단: serving: 음료가 큰 컵에 담겨 나온 수동 관계이므로 served로 고쳐야 한다.\n선택지 분석:\n① [오답] baked: 빵이 구워진 수동 관계라 알맞으므로 오답이다.\n② [오답] sleeping: 고양이가 직접 자는 능동 관계라 알맞으므로 오답이다.\n③ [오답] Sitting: 주어(she)가 직접 앉는 능동 관계라 알맞으므로 오답이다.\n④ [정답] serving: 음료가 큰 컵에 담겨 나온 수동 관계이므로 served로 고쳐야 한다. 어법상 틀린 부분이므로 정답이다.\n⑤ [오답] Satisfied: 주어(she)가 카페에 만족하게 된 수동 관계라 알맞으므로 오답이다.",
+    "passage": "On a cold afternoon, Jane entered a small café near the station to warm up. It was her first visit, and the café was quieter than she had expected. The smell of freshly ①<u>baked</u> bread filled the cozy room. She saw a gray cat ②<u>sleeping</u> peacefully by the window in the sunlight. ③<u>Sitting</u> at a table in the corner, she ordered a cup of hot chocolate. The drink ④<u>serving</u> in a big blue cup was sweet and warm. ⑤<u>Satisfied</u> with the café and its quiet mood, she decided to come back every weekend.",
+    "stem": "다음 글의 밑줄 친 부분 중 어법상 틀린 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T16:44:57.769Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:45:05.273Z",
+      "text": "기준 문항에 비해 지문이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:02:25.918Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:02:18.356Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:02:25.918Z",
+      "what": "확인 완료"
+    }
+  }
+}

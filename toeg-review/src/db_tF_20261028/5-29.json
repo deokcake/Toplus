@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:48:18.733Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "tired가 -ed로 끝나 과거를 나타내므로 was를 did로 고쳐야 한다.",
+      "1": "이유를 묻는 Why 뒤에는 are를 쓰므로 are로 고쳐야 한다.",
+      "2": "they가 한 무리를 가리키는 단수이므로 is로 고쳐야 한다.",
+      "3": "they는 3인칭 복수 대명사이므로 were로 고쳐야 한다.",
+      "4": "they는 2인칭 복수이므로 are로 고쳐야 한다."
+    },
+    "expl": "핵심 규칙: be동사 과거형은 주어가 I·3인칭 단수면 was, you·복수면 were를 쓴다. 의문사(Why, Where, How)나 형용사는 be동사의 형태를 정하지 않고, 일반동사가 없는 문장이므로 did로 바꾸지 않는다.\n풀이 순서: ① 의문문이므로 주어는 be동사 뒤에 있다: they. → ② 복수 주어이므로 were가 맞다. → ③ 이 이유를 말한 것은 ④.\n문장별 판정:\n정답 판단: 복수 주어의 be동사 과거형은 were이므로 정답은 ④이다.\n선택지 분석:\n① [오답] tired는 상태를 나타내는 형용사이고, 일반동사가 없는 be동사 의문문이므로 오답이다.\n② [오답] 의문사는 be동사의 형태를 정하지 않고, yesterday의 일이라 과거형을 써야 하므로 오답이다.\n③ [오답] they는 복수 대명사이고, yesterday의 일이라 과거형을 써야 하므로 오답이다.\n④ [정답] 복수 주어의 be동사 과거형은 were이므로 정답이다.\n⑤ [오답] they는 3인칭 복수이고, yesterday의 일이라 과거형 were를 써야 하므로 오답이다.",
+    "passage": "Why <u>was</u> they tired yesterday?\n위 문장에서 was는 틀린 표현이다. 그 이유는 (                                    )",
+    "stem": "다음은 제시된 문장의 오류를 고치는 과정이다. 빈칸에 들어갈 설명으로 옳은 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:48:13.005Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:48:18.733Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:48:18.733Z",
+      "what": "확인 완료"
+    }
+  }
+}

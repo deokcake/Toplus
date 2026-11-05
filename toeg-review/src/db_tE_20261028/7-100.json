@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T08:09:13.673Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "가, 다, 라",
+      "1": null,
+      "2": "가, 나",
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: What date는 날짜, What day는 요일을 묻는다. 날짜의 일은 서수로 말하고, 날짜·요일을 말할 때는 비인칭 주어 It을 쓴다.\n풀이 순서: ① 설명을 하나씩 실제로 묻고 답하는 말에 대어 본다. → ② 가 O, 나 X(first, second, third는 서수다), 다 O, 라 O. → ③ 옳은 것을 모두 모으면 가, 다, 라이다.\n문장별 판정:\n가 O. was를 써서 지난 요일을 묻는다.\n나 X. first, second, third는 순서를 나타내는 서수이다.\n다 O. June은 6월이다.\n라 O. 요일을 나타내는 It은 비인칭 주어이다.\n정답 판단: 옳은 설명은 가, 다, 라이다.\n선택지 분석:\n① [정답] 옳은 설명 가, 다, 라를 빠짐없이 골랐으므로 정답이다.\n② [오답] 나는 옳은 설명이 아니고, 옳은 설명 가를 빠뜨렸다. 따라서 오답이다.\n③ [오답] 나는 옳은 설명이 아니고, 옳은 설명 다, 라를 빠뜨렸다. 따라서 오답이다.\n④ [오답] 옳은 설명 라를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] 나는 옳은 설명이 아니다. 따라서 오답이다.",
+    "passage": "[ 보기 ]\n가. 'What day was it?'은 지난 요일을 묻는 표현이다.\n나. first, second, third는 기수이다.\n다. June은 달(월)의 이름이다.\n라. 'It is Sunday.'의 It은 요일을 나타내는 비인칭 주어이다.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T08:09:11.921Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:09:13.673Z",
+      "what": "확인 완료"
+    }
+  }
+}

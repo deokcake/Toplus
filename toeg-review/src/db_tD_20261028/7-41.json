@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T03:41:37.949Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: this(이것)·that(저것)은 한 개를 가리켜 is와 쓰고, these(이것들)·those(저것들)는 여러 개를 가리켜 are와 쓴다. 대답에서는 this/that을 it으로, these/those를 they로 받는다.\n풀이 순서: ① 빈칸 뒤가 are이므로 한 개를 가리키는 This, That, It을 지운다. → ② 우리말이 ‘저것들’이므로 멀리 있는 여러 개를 가리킨다. → ③ 정답은 Those.\n문장별 판정:\n정답 판단: ‘저것들’은 멀리 있는 여러 개를 가리키는 Those이고 are와도 어울리므로 정답은 ①이다.\n선택지 분석:\n① [정답] ‘저것들’은 멀리 있는 여러 개를 가리키는 Those이고 are와도 어울리므로 정답이다.\n② [오답] It은 한 개를 가리켜 are와 쓸 수 없으므로 오답이다.\n③ [오답] These는 ‘이것들’이라는 뜻이므로 오답이다.\n④ [오답] This는 한 개를 가리켜 are와 쓸 수 없으므로 오답이다.\n⑤ [오답] That은 한 개를 가리켜 are와 쓸 수 없으므로 오답이다.",
+    "passage": "_______ are mountains.\n(저것들은 산들이다.)",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T03:41:36.250Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T03:41:37.949Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:41:37.949Z",
+      "what": "확인 완료"
+    }
+  }
+}

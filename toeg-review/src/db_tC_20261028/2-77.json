@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T03:54:33.941Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "Knowing not the answer, Tom remained silent.",
+      "2": "Knowing the answer, Tom remained silent.",
+      "3": "Not known the answer, Tom remained silent.",
+      "4": "Unless knowing the answer, Tom remained silent."
+    },
+    "expl": "핵심 규칙: 부사절의 주어가 주절과 같으면 접속사와 주어를 생략하고 동사를 분사로 바꾼다. 부정어(not)는 분사 앞에 두고, 수동이면 과거분사, 주절보다 앞선 일이면 Having + 과거분사를 쓰며, 접속사의 뜻(이유·양보)을 바꾸지 않는다.\n풀이 순서: ① 부사절에서 접속사(As)와 주절과 같은 주어를 지운다. → ② 남은 동사를 분사로 바꾼다. didn't know → Not knowing(부정어 not은 분사 앞) → ③ 정답은 ①. 뜻을 바꾸는 접속사나 not을 덧붙인 것, 능동·수동이 틀린 것은 지운다.\n문장별 판정:\n정답 판단: 주어가 같아 접속사와 주어를 생략하고 동사를 분사로 바꾼 알맞은 분사구문이다. 부정어(not)도 분사 앞에 바르게 두었다. 따라서 정답은 ①이다.\n선택지 분석:\n① [정답] 주어가 같아 접속사와 주어를 생략하고 동사를 분사로 바꾼 알맞은 분사구문이다. 부정어(not)도 분사 앞에 바르게 두었다. 따라서 정답이다.\n② [오답] Knowing not: 부정어는 분사 앞에 두어야 하므로 오답이다.\n③ [오답] 부정어가 빠져 ‘답을 알아서’라는 반대 뜻이 되므로 오답이다.\n④ [오답] Not known: Tom이 답을 아는 능동 관계인데 과거분사를 써서 맞지 않으므로 오답이다.\n⑤ [오답] Unless: ‘~하지 않는다면’이라는 조건의 뜻이 되어 원래의 이유(As)와 뜻이 달라지므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T03:54:23.310Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T03:54:33.941Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T03:54:33.941Z",
+      "what": "확인 완료"
+    }
+  }
+}

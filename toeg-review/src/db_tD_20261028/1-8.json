@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T06:40:20.690Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: ask a favor of + 사람, make A for + 사람, give A to + 사람처럼 동사마다 사람 앞 전치사가 정해져 있다.\n풀이 순서: ① 빈칸 앞의 동사 세 개를 찾는다: (A) ask a favor, (B) make, (C) give. → ② ask a favor 뒤에는 of, ‘~을 위해 해 주는’ 동사(make) 뒤에는 for, ‘~에게 건네는’ 동사(give) 뒤에는 to를 쓴다. → ③ 세 자리를 순서대로 맞춘 (A) of - (B) for - (C) to를 고른다.\n문장별 판정:\n정답 판단: (A) ask a favor of, (B) make A for, (C) give A to이므로 of - for - to가 맞다.\n선택지 분석:\n① [오답] (A) 자리는 of가 맞다. 따라서 오답이다.\n② [정답] (A) ask a favor of, (B) make A for, (C) give A to이므로 of - for - to가 맞다. 모든 자리가 맞으므로 정답이다.\n③ [오답] (C) 자리는 to가 맞다. 따라서 오답이다.\n④ [오답] (B) 자리는 for가 맞다. 따라서 오답이다.\n⑤ [오답] (A) 자리는 of가 맞다, (B) 자리는 for가 맞다, (C) 자리는 to가 맞다. 따라서 오답이다.",
+    "passage": "• We asked a favor (A)_____ the guide.\n• She made lunch (B)_____ the children.\n• The nurse gave the medicine (C)_____ the patient.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T06:40:15.432Z"
+  },
+  "tab": "sj53vmnt",
+  "updatedAt": "2026-10-23T06:40:20.690Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T06:40:20.690Z",
+      "what": "확인 완료"
+    }
+  }
+}

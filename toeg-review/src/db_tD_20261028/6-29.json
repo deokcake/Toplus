@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T04:18:12.200Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "were ready",
+      "1": "was cold",
+      "2": "was inside a tent",
+      "3": "was quiet",
+      "4": "were safe"
+    },
+    "expl": "핵심 규칙: 지문의 각 문장에서 주어를 먼저 찾고, 주어가 I·3인칭 단수면 was, 복수(A and B 포함)면 were인지 확인한다.\n풀이 순서: ① 밑줄마다 바로 앞의 주어를 찾는다. → ② 주어가 한 사람·한 개면 was, 둘 이상이면 were인지 본다. → ③ 선택지 ③의 주어 My cousins는 복수라 were다. 정답은 ③.\n문장별 판정:\n정답 판단: 주어 My cousins는 복수라 was가 아니라 were를 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 주어 The tents는 복수라 were를 바르게 썼으므로 오답이다.\n② [오답] 주어 The air는 단수라 was를 바르게 썼으므로 오답이다.\n③ [정답] 주어 My cousins는 복수라 was가 아니라 were를 써야 하므로 정답이다.\n④ [오답] 주어 Our dog는 단수라 was를 바르게 썼으므로 오답이다.\n⑤ [오답] 주어 We에 were를 바르게 썼으므로 오답이다.",
+    "passage": "Last night, we camped by a lake. The tents ①<u>were</u> ready. The air ②<u>was</u> cold. My cousins ③<u>was</u> inside a tent. Our dog ④<u>was</u> quiet. We ⑤<u>were</u> safe.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T04:18:10.828Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T04:18:12.200Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T04:18:12.200Z",
+      "what": "확인 완료"
+    }
+  }
+}

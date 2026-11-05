@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:01:50.326Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Felt sick, she stayed home.",
+      "1": "Though feeling sick, she stayed home.",
+      "2": "Feeling sick, she stayed home.",
+      "3": "Being felt sick, she stayed home.",
+      "4": "Not feeling sick, she stayed home."
+    },
+    "expl": "핵심 규칙: 부사절의 주어가 주절과 같으면 접속사와 주어를 생략하고 동사를 분사로 바꾼다. 부정어(not)는 분사 앞에 두고, 수동이면 과거분사, 주절보다 앞선 일이면 Having + 과거분사를 쓰며, 접속사의 뜻(이유·양보)을 바꾸지 않는다.\n풀이 순서: ① 부사절에서 접속사(Because)와 주절과 같은 주어를 지운다. → ② 남은 동사를 분사로 바꾼다. felt → Feeling(능동, 주절과 같은 때) → ③ 정답은 ③. 뜻을 바꾸는 접속사나 not을 덧붙인 것, 능동·수동이 틀린 것은 지운다.\n문장별 판정:\n정답 판단: 주어가 같아 접속사와 주어를 생략하고 동사를 분사로 바꾼 알맞은 분사구문이다. 따라서 정답은 ③이다.\n선택지 분석:\n① [오답] Felt: 능동의 분사구문은 현재분사(Feeling)로 시작하므로 오답이다.\n② [오답] Though: ‘~에도 불구하고’라는 양보의 뜻이 되어 원래의 이유(Because)와 뜻이 달라지므로 오답이다.\n③ [정답] 주어가 같아 접속사와 주어를 생략하고 동사를 분사로 바꾼 알맞은 분사구문이다. 따라서 정답이다.\n④ [오답] Being felt: 그녀가 느끼는 능동 관계인데 수동 형태를 써서 맞지 않으므로 오답이다.\n⑤ [오답] Not: 부정어가 붙어 ‘아프지 않아서’라는 반대 뜻이 되므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T07:01:49.058Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T07:01:50.326Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T07:01:50.326Z",
+      "what": "확인 완료"
+    }
+  }
+}

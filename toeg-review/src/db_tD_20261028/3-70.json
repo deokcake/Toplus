@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T18:10:44.829Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "How long did Jisu practice the piano yesterday",
+      "1": "When is Jisu's contest",
+      "2": "What did her teacher say",
+      "3": "Why did Jisu practice the piano",
+      "4": "Who wants to win first prize"
+    },
+    "expl": "핵심 규칙: 우리말 질문이 묻는 정보에 맞는 의문사를 고른다: where(어디), what(무엇), how long(얼마나 오래), why(왜), which(어느·어떤). 일반동사 과거 의문문은 의문사 + did + 주어 + 동사원형으로 만든다.\n풀이 순서: ① 우리말 질문(‘얼마나 오래 연습했니?’)에서 묻는 정보를 찾는다. → ② A의 대답(She practiced for three hours.)이 그 정보를 답하는지 확인한다. → ③ 그 정보를 묻는 의문사(How long)로 시작하는 ①이 정답이다.\n문장별 판정:\n정답 판단: How long(얼마나 오래)로 연습 시간을 물어 우리말 해석과 맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] How long(얼마나 오래)로 연습 시간을 물어 우리말 해석과 맞으므로 정답이다.\n② [오답] When(대회 날짜)를 묻는 질문이라 우리말 해석과 맞지 않으므로 오답이다.\n③ [오답] What(선생님이 한 말)을 묻는 질문이라 우리말 해석과 맞지 않으므로 오답이다.\n④ [오답] Why(이유)를 묻는 질문이라 우리말 해석과 맞지 않으므로 오답이다.\n⑤ [오답] Who(사람)을 묻는 질문이라 우리말 해석과 맞지 않으므로 오답이다.",
+    "passage": "Jisu practiced the piano for three hours yesterday after school. She has a big piano contest next week, and she wants to do her best. Her teacher listened to her playing and said that it was getting much better. Jisu is a little nervous, but she hopes to win first prize this time.\nQ: ________________________?\n(지수는 어제 얼마나 오래 피아노를 연습했니?)\nA: She practiced for three hours.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:10:26.632Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:10:44.829Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:10:44.829Z",
+      "what": "확인 완료"
+    }
+  }
+}

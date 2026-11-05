@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-06T08:39:44.192Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "She has <u>much</u> friends.",
+      "1": "We need <u>many</u> rice.",
+      "2": "There is <u>a few</u> water.",
+      "3": "I have <u>a little</u> books.",
+      "4": "I have <u>a little</u> money."
+    },
+    "expl": "핵심 규칙: 수량을 나타내는 many/(a) few는 가산 복수 명사, much/(a) little은 불가산 명사와 쓴다. little은 이 문항에서 크기가 아니라 양이 적다는 뜻이다.\n풀이 순서: ① 밑줄 뒤의 명사가 셀 수 있는지 하나씩 본다. → ② 셀 수 있는 명사에는 (a) few·many, 셀 수 없는 명사에는 (a) little·much다. → ③ 선택지 ⑤만 money(셀 수 없음) 앞에 a little을 써서 맞다. 정답은 ⑤.\n문장별 판정:\n정답 판단: money는 불가산 명사이므로 a little money가 맞다. 따라서 정답은 ⑤이다.\n선택지 분석:\n① [오답] friends는 가산 복수 명사이므로 수량 표현 much friends를 many friends로 고친다. 바른 문장: She has many friends.\n② [오답] rice는 불가산 명사이므로 수량 표현 many rice를 much rice로 고친다. 바른 문장: We need much rice.\n③ [오답] water는 불가산 명사이므로 수량 표현 a few water를 a little water로 고친다. 바른 문장: There is a little water.\n④ [오답] books는 가산 복수 명사이므로 수량 표현 a little books를 a few books로 고친다. 바른 문장: I have a few books.\n⑤ [정답] money는 불가산 명사이므로 a little money가 맞다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 부분의 쓰임이 어법상 옳은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T08:39:36.041Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-06T08:39:44.192Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T08:39:44.192Z",
+      "what": "확인 완료"
+    }
+  }
+}

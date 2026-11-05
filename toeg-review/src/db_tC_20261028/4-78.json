@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:39:53.030Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "This is <u>the most expensivest</u> car.",
+      "1": "He is <u>the famousest</u> actor.",
+      "2": "Today is <u>the happiest</u> day of my life.",
+      "3": "She is <u>the most smartest</u> girl.",
+      "4": "It was <u>the most hottest</u> day."
+    },
+    "expl": "핵심 규칙: 최상급은 짧은 단어에 -est, 긴 단어에 most를 붙이며 둘을 겹쳐 쓰지 않는다. good - best, bad - worst처럼 불규칙 변화도 있다.\n풀이 순서: ① 밑줄마다 형용사가 짧은 낱말인지 긴 낱말인지 가른다. → ② 짧으면 -er/-est만, 길면 more/most만 쓴다. 둘을 겹치거나 긴 낱말에 -est를 붙인 것을 지운다. → ③ 선택지 ③만 happy의 최상급 the happiest(y를 i로 바꾼다)로 맞다. 정답은 ③.\n문장별 판정:\n정답 판단: happy의 최상급 happiest를 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] -est와 most를 겹쳐 쓸 수 없으므로 오답이다.\n② [오답] 긴 단어 famous는 the most famous로 써야 하므로 오답이다.\n③ [정답] happy의 최상급 happiest를 바르게 썼으므로 정답이다.\n④ [오답] -est와 most를 겹쳐 쓸 수 없으므로 오답이다.\n⑤ [오답] -est와 most를 겹쳐 쓸 수 없으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 부분의 형태가 어법상 옳은 것을 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:39:52.130Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:39:53.030Z",
+      "what": "확인 완료"
+    }
+  }
+}

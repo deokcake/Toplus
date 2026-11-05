@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:02:05.094Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: remember·forget·regret·stop은 -ing(이미 한 일)과 to부정사(앞으로 할 일, 목적)에 따라 뜻이 달라진다. try -ing은 시험 삼아 해 봄, try to-V는 하려고 애씀이다. be worth·It is no use(good) 뒤에는 동명사를, 전치사 뒤에도 동명사를 쓴다.\n풀이 순서: ① 문장마다 동사 뒤 형태를 본다. regret, remember, forget, try, stop은 동명사와 to부정사에 따라 뜻이 달라지므로 문맥을 본다. → ② 관용 표현은 형태가 정해져 있다: It is no use(good) -ing, be busy -ing, be worth -ing, look forward to -ing. → ③ ⓑ는 stopped talking, ⓓ는 used to working, ⓔ는 avoided answering으로 써야 한다. 올바르지 않은 문장은 3개이다.\n문장별 판정:\nⓐ O. forget -ing은 ‘이미 한 일을 잊다’이다.\nⓑ X. stop 뒤에는 동명사를 쓴다. 교정문: She stopped talking when the teacher entered the classroom.\nⓒ O. 유감스러운 소식을 전할 때는 regret to inform을 쓴다.\nⓓ X. be used to의 to는 전치사라 동명사를 쓴다. 교정문: He is used to working late at the office.\nⓔ X. avoid는 동명사를 목적어로 쓴다. 교정문: They avoided answering the reporter's difficult questions.\n정답 판단: 어법상 올바르지 않은 문장은 ⓑ, ⓓ, ⓔ로 3개이다.\n선택지 분석:\n① [오답] 어법상 올바르지 않은 문장은 ⓑ, ⓓ, ⓔ로 3개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 어법상 올바르지 않은 문장은 ⓑ, ⓓ, ⓔ로 3개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [정답] 어법상 올바르지 않은 문장은 ⓑ, ⓓ, ⓔ로 3개이다. 이 보기의 3개는 실제 개수와 일치한다.\n④ [오답] 어법상 올바르지 않은 문장은 ⓑ, ⓓ, ⓔ로 3개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 올바르지 않은 문장은 ⓑ, ⓓ, ⓔ로 3개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "<보기>\nⓐ I forgot meeting him before, but he remembered me at once.\nⓑ She stopped talk when the teacher entered the classroom.\nⓒ We regret to inform you that your application failed this time.\nⓓ He is used to work late at the office.\nⓔ They avoided to answer the reporter's difficult questions.",
+    "stem": "다음 <보기>의 주어진 문장 중 어법상 올바르지 않은 문장은 몇 개인가?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T16:44:08.532Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:44:17.410Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:12:13.985Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T04:12:13.985Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:12:13.985Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

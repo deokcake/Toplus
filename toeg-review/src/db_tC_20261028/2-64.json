@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-23T03:50:35.913Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "He is afraid of <u>to fly</u> alone at night.",
+      "1": "Thank you for <u>to invite</u> me to your birthday party.",
+      "2": "She left the room without <u>to say</u> a single word.",
+      "3": "Tom succeeded in <u>solving</u> the difficult puzzle at last.",
+      "4": "I'm used <u>to get</u> up early in the morning."
+    },
+    "expl": "핵심 규칙: 전치사 뒤에는 명사나 동명사를 쓰며 to부정사를 쓰지 않는다. look forward to·be used to의 to도 전치사이므로 뒤에 동명사를 쓴다.\n풀이 순서: ① 밑줄 앞이 모두 전치사임을 확인한다(of, for, without, in, to). → ② 전치사 뒤에 동사가 오면 동명사(-ing)로 쓴다. 동사원형이나 to부정사는 올 수 없다. → ③ 동명사를 쓴 것은 ④(in solving)뿐이다.\n문장별 판정:\n정답 판단: 전치사 in 뒤에 동명사 solving을 바르게 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 전치사 of 뒤에는 to부정사가 아니라 동명사 flying을 써야 하므로 오답이다.\n② [오답] 전치사 for 뒤에는 동명사 inviting을 써야 하므로 오답이다.\n③ [오답] 전치사 without 뒤에는 동명사 saying을 써야 하므로 오답이다.\n④ [정답] 전치사 in 뒤에 동명사 solving을 바르게 썼으므로 정답이다.\n⑤ [오답] be used to의 to는 전치사라 동명사 getting을 써야 하므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T03:49:26.501Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T03:50:32.314Z",
+      "text": "기준 문항과 밑줄의 범위가 다름. 통일할 필요가 있음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:35:57.675Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T03:35:57.675Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:35:57.675Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:53:46.473Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Jane's birthday is December fifteen.",
+      "1": "Jane's birthday is December fiftieth.",
+      "2": "Jane's birthday is December fifteenth.",
+      "3": "Jane's birthday is December fifth.",
+      "4": "Jane's birthday is December fifty."
+    },
+    "expl": "핵심 규칙: 날짜의 ‘일’은 서수로 읽는다(3일 third, 12일 twelfth, 21일 twenty-first, 30일 thirtieth). 기수로 읽거나 비슷한 수(13일 thirteenth, 20일 twentieth)와 헷갈리지 않도록 한다.\n풀이 순서: ① 날짜의 ‘일’을 확인한다: 15일. → ② 날짜는 서수로 읽으므로 fifteenth. → ③ 기수로 읽은 것과 비슷하게 생긴 다른 날짜를 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: 15일을 서수 fifteenth로 바르게 읽었으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 날짜의 일은 기수 fifteen이 아니라 서수로 읽으므로 오답이다.\n② [오답] fiftieth는 50번째라 날짜가 될 수 없으므로 오답이다.\n③ [정답] 15일을 서수 fifteenth로 바르게 읽었으므로 정답이다.\n④ [오답] fifth는 5일이므로 오답이다.\n⑤ [오답] fifty는 50을 뜻하는 기수이므로 오답이다.",
+    "passage": null,
+    "stem": "우리말과 같은 뜻이 되는 문장을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:53:44.901Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:53:46.473Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:53:46.473Z",
+      "what": "확인 완료"
+    }
+  }
+}

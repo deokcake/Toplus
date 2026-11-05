@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T03:24:37.021Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "a slice of",
+      "1": "a loaf of",
+      "2": "a piece of",
+      "3": "a sheet of",
+      "4": "a glass of"
+    },
+    "expl": "핵심 규칙: 셀 수 없는 명사는 단위 표현으로 센다: a glass of water, a sheet of paper, a loaf of bread, a bottle of milk, a piece of cheese.\n풀이 순서: ① 우리말에서 세는 단위를 찾는다: ‘한 잔’. → ② 빈칸 뒤 명사(water)는 셀 수 없으므로 단위 표현으로 센다. 그 단위에 맞는 표현은 a glass of다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: ‘물 한 잔’은 a glass of water이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] a slice of는 얇게 썬 ‘한 조각’이라 물에 쓰지 않으므로 오답이다.\n② [오답] a loaf of는 빵 같은 ‘한 덩어리’에 쓰므로 오답이다.\n③ [오답] a piece of는 ‘한 조각’이라 물에 쓰지 않으므로 오답이다.\n④ [오답] a sheet of는 종이 같은 ‘한 장’에 쓰므로 오답이다.\n⑤ [정답] ‘물 한 잔’은 a glass of water이므로 정답이다.",
+    "passage": "물 한 잔을 주세요.\nI'd like _____ water, please.",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:34:37.954Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:35:14.408Z",
+      "text": "1, 5번 복수 정답 가능하므로 선택지 수정할 필요가 있음"
+    }
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T03:24:37.021Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:24:30.639Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:24:37.021Z",
+      "what": "확인 완료"
+    }
+  }
+}

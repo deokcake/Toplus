@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T09:10:43.216Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "No, I am not.",
+      "1": "No, I doesn't.",
+      "2": "No, I can't.",
+      "3": null,
+      "4": "No, I not study."
+    },
+    "expl": "핵심 규칙: Do/Does 의문문에는 Yes, 주어 + do/does. / No, 주어 + don't/doesn't.로 짧게 답한다. 주어가 3인칭 단수면 does, 그 밖에는 do를 쓴다.\n풀이 순서: ① 질문의 첫 낱말(Do)을 그대로 받아 답한다. → ② 주어를 대명사로 바꾼다: you → I. → ③ 정답은 No, I don't.\n문장별 판정:\n정답 판단: Do 의문문에 don't로 바르게 답했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] Do 의문문에는 be동사로 답하지 않으므로 오답이다.\n② [오답] 주어 I에는 don't를 쓰므로 오답이다.\n③ [오답] Do 의문문에는 can으로 답하지 않으므로 오답이다.\n④ [정답] Do 의문문에 don't로 바르게 답했으므로 정답이다.\n⑤ [오답] 부정은 don't로 만들므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:10:41.176Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:10:43.216Z",
+      "what": "확인 완료"
+    }
+  }
+}

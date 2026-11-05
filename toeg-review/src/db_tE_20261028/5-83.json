@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:25:09.915Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Christmas is <u>in</u> December.",
+      "1": "My dad works <u>at</u> a bank.",
+      "2": "The festival is <u>at</u> Friday.",
+      "3": "I read books <u>in</u> the evening.",
+      "4": "The picture is <u>on</u> the wall."
+    },
+    "expl": "핵심 규칙: 시각·정오·밤 앞에는 at, 요일·날짜 앞에는 on, 월·계절·연도·오전/오후/저녁 앞에는 in을 쓴다. 장소는 특정 지점에 at, 표면 위에 on, 안쪽이나 도시·나라에 in을 쓴다.\n풀이 순서: ① 밑줄 뒤의 말이 시각·요일·날짜·달·계절·연도·장소 가운데 무엇인지 가른다. → ② 그 종류에 맞는 전치사인지 본다. → ③ 선택지 ③ Friday는 요일이라 on을 쓴다. 정답은 ③.\n문장별 판정:\n정답 판단: 요일 앞에는 on을 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 월 앞에 in을 바르게 썼으므로 오답이다.\n② [오답] 일하는 지점인 a bank 앞에 at을 바르게 썼으므로 오답이다.\n③ [정답] 요일 앞에는 on을 써야 하므로 정답이다.\n④ [오답] the evening 앞에 in을 바르게 썼으므로 오답이다.\n⑤ [오답] 벽 표면을 나타내는 the wall 앞에 on을 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:25:07.260Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:25:09.915Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:25:09.915Z",
+      "what": "확인 완료"
+    }
+  }
+}

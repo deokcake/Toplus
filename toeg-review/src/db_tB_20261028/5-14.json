@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T07:28:23.403Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "They aren't hungry.",
+      "1": null,
+      "2": "I'm not a student.",
+      "3": "The dog doesn't bark at night.",
+      "4": "Mina doesn't studies after dinner."
+    },
+    "expl": "핵심 규칙: be동사 부정은 am not, isn't, aren't로, 일반동사 현재 부정은 3인칭 단수 주어에 doesn't + 동사원형, 그 밖에는 don't + 동사원형으로 쓴다.\n풀이 순서: ① be동사 부정문은 주어와 be동사가 맞는지 본다. → ② 일반동사 부정문은 don't/doesn't가 주어와 맞는지, 뒤가 동사원형인지 본다. → ③ 선택지 ⑤는 doesn't 뒤에 studies를 썼다. study로 고친다. 정답은 ⑤.\n문장별 판정:\n정답 판단: doesn't 뒤에는 동사원형 study를 써야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.\n② [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.\n③ [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.\n④ [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.\n⑤ [정답] doesn't 뒤에는 동사원형 study를 써야 하므로 정답이다.",
+    "passage": null,
+    "stem": "다음 중 틀린 문장을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T07:28:22.587Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:28:23.403Z",
+      "what": "확인 완료"
+    }
+  }
+}

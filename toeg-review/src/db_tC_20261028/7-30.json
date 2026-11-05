@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-20T09:41:14.586Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 각 문장의 주어를 보고 밑줄 친 be동사를 판단한다. 복수 주어에는 are, 3인칭 단수 주어에는 is, I에는 am을 쓴다.\n풀이 순서: ① 문장마다 주어가 I인지, 한 사람·한 개인지, you·여럿인지 가른다. → ② 밑줄 친 be동사가 그에 맞는지 본다. (가) O, (나) The puppy + are(X), (다) O, (라) The books + is(X). → ③ 옳은 것만 모으면 (가), (다)\n문장별 판정:\n(가) O. 복수 주어 My parents에 are를 썼다.\n(나) X. 단수 주어 The puppy에는 is를 써야 한다.\n(다) O. 주어 I에 am을 썼다.\n(라) X. 복수 주어 The books에는 are를 써야 한다.\n정답 판단: 밑줄 친 부분이 옳은 문장은 (가), (다)이다.\n선택지 분석:\n① [정답] 옳은 문장 (가), (다)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (나), (라)는 옳은 문장이 아니고, 옳은 문장 (가), (다)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (나)는 옳은 문장이 아니고, 옳은 문장 (다)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (나)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (라)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(가) My parents <u>are</u> at work.\n(나) The puppy <u>are</u> hungry.\n(다) I <u>am</u> ready.\n(라) The books <u>is</u> heavy.",
+    "stem": "다음 중 밑줄 친 부분이 문법적으로 옳은 것을 모두 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-20T09:41:13.717Z"
+  },
+  "tab": "n2uhrol0",
+  "updatedAt": "2026-10-20T09:41:14.586Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-20T09:41:14.586Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:48:00.113Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "접속사 Since를 생략한다.",
+      "1": "no buses와 Mina는 주어가 다르므로 no buses를 남긴다.",
+      "2": "were running은 주절과 같은 때이므로 being running으로 바꾼다.",
+      "3": "부사절의 시제가 주절(called)과 같으므로 having + 과거분사를 쓰지 않는다.",
+      "4": "분사구문을 부정할 때는 분사 바로 앞에 not을 둔다."
+    },
+    "expl": "핵심 규칙: 부사절을 분사구문으로 바꿀 때: 접속사를 생략하고, 두 절의 주어가 다르면 의미상 주어를 남기며, 동사를 분사로 바꾼다(주절과 같은 때이면 being, 먼저이면 having + 과거분사). 부정어는 분사 앞에 둔다.\n풀이 순서: ① 부사절을 분사구문으로 바꾸는 차례를 떠올린다. 접속사를 생략하고, 주어가 다르면 남기고, 동사를 분사로 바꾼다. → ② 제시문에 적용하면 다음과 같다. No buses running late at night, Mina called a taxi. → ③ 이 결과나 규칙과 어긋나는 설명은 ③이다. 진행형 were running은 being을 생략하고 running만 남긴다. being running이라고 쓰지 않는다.\n문장별 판정:\n정답 판단: 진행형 were running은 분사구문에서 running만 남기므로 옳지 않은 설명이다.\n선택지 분석:\n① [오답] 분사구문에서는 접속사를 생략한다. 옳은 설명이므로 오답이다.\n② [오답] 부사절과 주절의 주어가 다르면 부사절의 주어를 남긴다. 옳은 설명이므로 오답이다.\n③ [정답] 진행형 were running은 being running이 아니라 running만 남긴다(No buses running). 옳지 않은 설명이므로 정답이다.\n④ [오답] 두 절의 때가 같으면 단순분사를 쓰고 having + 과거분사는 쓰지 않는다. 옳은 설명이므로 오답이다.\n⑤ [오답] 분사구문의 부정은 not을 분사 앞에 둔다(not knowing ~). 옳은 설명이므로 오답이다.",
+    "passage": "Since no buses were running late at night, Mina called a taxi.",
+    "stem": "다음 문장을 분사구문으로 전환하는 과정에 대한 설명 중 옳지 않은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T07:09:41.607Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T07:10:59.904Z",
+      "text": "선택지 3, 4번이 서로 상충된다. 정답을 쉽게 추론할 수 있음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:48:00.113Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:47:11.014Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:48:00.113Z",
+      "what": "확인 완료"
+    }
+  }
+}

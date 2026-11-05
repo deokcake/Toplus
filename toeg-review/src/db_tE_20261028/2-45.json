@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-24T00:39:21.988Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "Mina, Ben, Sora",
+      "1": "Mina, Leo",
+      "2": "Leo, Jane, Ben",
+      "3": "Mina, Jane, Sora",
+      "4": "Ben, Sora"
+    },
+    "expl": "핵심 규칙: 가목적어 it은 목적어 자리에 먼저 오고 진목적어(to부정사·that절)는 뒤에 온다. some은 긍정문·권유·부탁, any는 부정문·의문문에 주로 쓴다. each/every + 단수명사, each of + 복수명사는 단수 동사를 쓴다. 재귀 용법은 뺄 수 없고 강조 용법은 뺄 수 있다. others는 막연한 다른 몇몇, the others는 정해진 나머지 전부이다.\n풀이 순서: ① 학생마다 예문과 설명을 따로 따진다. 틀린 예문을 맞다고 하거나 용법을 잘못 말하면 틀린 설명이다. → ② Leo는 부탁하는 말에 any가 자연스럽다고 했고(some), Jane은 Every student have를 맞다고 했다(has). 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Mina, Ben, Sora이다.\n문장별 판정:\nMina 옳음: it이 목적어 자리에 먼저 오고 진목적어 that절이 뒤에 왔다.\nLeo 틀림: 부탁하는 의문문에는 some을 쓴다(Can I have some water?).\nJane 틀림: every + 단수명사는 단수 동사를 쓰므로 has to가 맞다.\nBen 옳음: by itself는 ‘저절로’라는 뜻이다.\nSora 옳음: 일부를 뺀 정해진 나머지 전부이므로 the others이다.\n정답 판단: 올바르게 설명한 학생은 Mina, Ben, Sora이다.\n선택지 분석:\n① [정답] 올바르게 설명한 학생 Mina, Ben, Sora를 빠짐없이 골랐으므로 정답이다.\n② [오답] Leo는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Ben, Sora를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Leo, Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina, Sora를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Ben를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "Mina: She made it clear that she disagreed. 에서 it은 가목적어야.\nLeo: Can I have any water? 는 부탁하는 말이라 any가 자연스러워.\nJane: Every student have to wear a uniform. 은 맞는 문장이야.\nBen: The door opened by itself. 에서 by itself는 ‘저절로’라는 뜻이야.\nSora: Some of the cookies are gone, and the others are in the box. 에서 the others는 남은 쿠키 전부를 뜻해.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T00:38:14.821Z"
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-24T00:39:21.988Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T00:39:21.988Z",
+      "what": "확인 완료"
+    }
+  }
+}

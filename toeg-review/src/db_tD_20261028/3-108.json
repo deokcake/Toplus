@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-21 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-23T18:23:06.930Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "This is one of the most expensive bag in the store.",
+      "1": "This is one of the most expensive bags in the store.",
+      "2": "This is one of most the expensive bags in the store.",
+      "3": "This is the most one of expensive bags in the store.",
+      "4": "This is the one of most expensive bags in the store."
+    },
+    "expl": "핵심 규칙: ‘가장 ~한 것 중 하나’는 one of the + 최상급 + 복수명사로 쓴다.\n풀이 순서: ① ‘가장 ~한 … 중 하나’의 틀을 세운다: one of the + 최상급 + 복수명사. → ② 형태를 바꿀 낱말은 둘이다: bag → bags(expensive는 긴 단어라 most expensive 그대로). → ③ the가 최상급 바로 앞에 있는지도 확인한다. 정답은 ②.\n문장별 판정:\n정답 판단: one of the + 최상급(most expensive) + 복수명사(bags)로 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 최상급 뒤에 단수 bag를 썼고, 복수형 bags이 되어야 하므로 오답이다.\n② [정답] one of the + 최상급(most expensive) + 복수명사(bags)로 바르게 썼으므로 정답이다.\n③ [오답] the가 most 뒤로 가서 one of the most + 원급 어순이 깨졌으므로 오답이다.\n④ [오답] the most가 one 앞에 와서 one of the most + 원급 어순이 깨졌으므로 오답이다.\n⑤ [오답] the가 one 앞에 와서 one of the + 최상급 어순이 깨졌으므로 오답이다.",
+    "passage": "이것은 가게에서 가장 비싼 가방 중 하나이다.\n( this / one / of / expensive / bag / is / store / in / the / most / the / . )",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오. (필요하면 단어의 형태를 바꿀 것)"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:23:06.930Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:23:06.930Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T07:42:09.447Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "in the car",
+      "1": "in the museum",
+      "2": "at the market",
+      "3": "in the park",
+      "4": "on the bridge"
+    },
+    "expl": "핵심 규칙: 우리말의 장소를 영어로 옮길 때 ‘~ 위에’는 on, ‘~ 안에’는 in, 학교·집·정류장 같은 지점은 at으로 나타낸다.\n풀이 순서: ① 우리말에서 장소를 찾는다: ‘공원에’. → ② 그 장소를 나타내는 영어 표현은 in the park. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: ‘공원에’라는 우리말과 맞으므로 정답은 ④이다.\n선택지 분석:\n① [오답] ‘차 안에’라는 뜻이라 우리말과 맞지 않으므로 오답이다.\n② [오답] ‘박물관에’라는 뜻이라 우리말과 맞지 않으므로 오답이다.\n③ [오답] ‘시장에’라는 뜻이라 우리말과 맞지 않으므로 오답이다.\n④ [정답] ‘공원에’라는 우리말과 맞으므로 정답이다.\n⑤ [오답] ‘다리 위에’라는 뜻이라 우리말과 맞지 않으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T07:42:08.032Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T07:42:09.447Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T07:42:09.447Z",
+      "what": "확인 완료"
+    }
+  }
+}

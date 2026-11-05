@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T03:28:51.154Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: did/didn't와 조동사(can, may, must, should, might) 뒤에는 동사원형을 쓰며, to나 -ing·과거형·-s를 붙이지 않는다.\n풀이 순서: ① 문장마다 did/didn't나 조동사를 찾는다. → ② 그 뒤의 동사가 원형인지 확인한다. 과거형(-ed, 불규칙 과거형), -s, -ing, to가 붙으면 틀린다. → ③ ⓑ는 Did Tom saw(see), ⓓ는 must to study(must study)가 틀렸다. 나머지 셋이 옳다. 옳은 문장은 3개이다.\n문장별 판정:\nⓐ O. didn't + 동사원형이다.\nⓑ X. Did 뒤에는 동사원형(see)을 쓴다.\nⓒ O. can + 동사원형이다.\nⓓ X. must 뒤에는 to 없이 동사원형을 쓴다.\nⓔ O. might + 동사원형이다.\n정답 판단: 어법상 옳은 문장은 ⓐ, ⓒ, ⓔ로 3개이다.\n선택지 분석:\n① [오답] 어법상 옳은 문장은 ⓐ, ⓒ, ⓔ로 3개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 어법상 옳은 문장은 ⓐ, ⓒ, ⓔ로 3개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [정답] 어법상 옳은 문장은 ⓐ, ⓒ, ⓔ로 3개이다. 이 보기의 3개는 실제 개수와 일치한다.\n④ [오답] 어법상 옳은 문장은 ⓐ, ⓒ, ⓔ로 3개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 옳은 문장은 ⓐ, ⓒ, ⓔ로 3개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "ⓐ Jane didn't go home right after school today.\nⓑ Did Tom saw the movie with his friends last night?\nⓒ We can help you carry the heavy boxes.\nⓓ She must to study for the test tonight.\nⓔ They might visit their grandparents this weekend.",
+    "stem": "다음 중 어법상 옳은 문장의 개수는?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:01:52.615Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:01:57.182Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:28:51.154Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:28:42.223Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:28:51.154Z",
+      "what": "확인 완료"
+    }
+  }
+}

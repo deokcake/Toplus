@@ -1,0 +1,452 @@
+{
+ "A": {
+  "title": "불규칙 동사의 과거형",
+  "intro": "이 문제는 동사의 현재형과 과거형 짝 가운데 과거형을 잘못 쓴 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사의 현재형과 과거형이 잘못 짝지어진 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+    "규칙 동사 → 보통 동사원형 끝에 ed (play → played)",
+    "불규칙 동사 → ed 없이 정해진 과거형 (run → ran, take → took)",
+    "현재형과 과거형이 똑같은 동사도 있어요 (put → put)",
+    "예) We ran to the station. (우리는 역으로 달려갔어요.)"
+   ],
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙 동사는 보통 동사원형 끝에 ed를 붙여서, play는 played가 돼요. 불규칙 동사는 ed를 붙이지 않고, run은 ran, take는 took처럼 정해진 과거형을 써서 하나씩 외워야 해요. put처럼 현재형과 과거형이 똑같은 동사도 있어요. We ran to the station. 우리는 역으로 달려갔어요."
+  },
+  "steps": [
+   {
+    "note": "‘잘못’ 짝지어진 것 찾기 → 짝마다 과거형 확인 (규칙 동사 ed, 불규칙 동사는 정해진 꼴)",
+    "highlight": [
+     "현재형과 과거형",
+     "잘못 짝지어진 것"
+    ],
+    "strike": [],
+    "narration": "첫째, 잘못 짝지어진 것을 찾는 문제라서, 짝마다 과거형이 맞는지 하나씩 확인해요."
+   },
+   {
+    "note": "teach → taught, ride → rode, hit → hit (불규칙) / stop → stopped (규칙, p를 한 번 더 쓰고 ed) → 옳은 짝",
+    "highlight": [],
+    "strike": [
+     "① teach - taught",
+     "② ride - rode",
+     "④ stop - stopped",
+     "⑤ hit - hit"
+    ],
+    "narration": "둘째, teach는 taught, ride는 rode가 맞고, hit은 과거형도 hit, stop은 p를 한 번 더 쓰고 ed를 붙인 stopped가 맞아요."
+   },
+   {
+    "note": "날다 fly → flew (불규칙). flied는 규칙 동사처럼 바꾼 꼴 → 잘못된 짝",
+    "highlight": [
+     "③ fly - flied"
+    ],
+    "strike": [],
+    "narration": "셋째, 날다라는 뜻의 fly는 불규칙 동사라서 과거형이 flew예요. 따라서 fly를 규칙 동사처럼 바꾼 flied와 짝지은 3번이 잘못이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① teach - taught  ✗  옳은 짝: teach의 과거형은 taught",
+    "② ride - rode  ✗  옳은 짝: ride의 과거형은 rode",
+    "③ fly - flied  ✓  잘못된 짝: 날다 fly의 과거형은 flew",
+    "④ stop - stopped  ✗  옳은 짝: 규칙 동사, p를 한 번 더 쓰고 ed",
+    "⑤ hit - hit  ✗  옳은 짝: 현재형과 과거형이 똑같은 동사"
+   ],
+   "narration": "정답은 3번 fly와 flied예요. 5번 hit과 hit은 모양이 같아서 틀려 보이지만, hit은 현재형과 과거형이 똑같은 동사라 옳은 짝이에요. 4번 stopped도 p가 두 번 나와 어색해 보여도, stop의 옳은 과거형이에요."
+  },
+  "summary": {
+   "card": "불규칙 동사 → ed 없이 정해진 과거형 (날다 fly → flew)",
+   "narration": "정답은 3번이에요. 기억할 것, 불규칙 동사는 ed를 붙이지 않고 정해진 과거형을 외워서 써요."
+  },
+  "captions": [
+   "현재형·과거형 짝 찾기",
+   "먼저 풀어 보세요",
+   "규칙 동사 ed, 불규칙은 따로 외워요",
+   "짝마다 확인 → 날다 fly는 flew",
+   "정답 ③ fly - flied",
+   "불규칙 과거형은 외워요"
+  ],
+  "sec": [
+   12,
+   17,
+   30,
+   32,
+   20,
+   11
+  ]
+ },
+ "B": {
+  "title": "불규칙 동사의 과거형",
+  "intro": "이 문제는 동사원형과 과거형 짝 가운데 과거형을 잘못 쓴 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사원형과 과거형이 잘못 짝지어진 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+    "규칙 동사 → 보통 동사원형 끝에 ed (play → played)",
+    "불규칙 동사 → ed 없이 정해진 과거형 (run → ran, take → took)",
+    "불규칙 동사의 과거형은 하나씩 외워요!",
+    "예) I took a picture of my cat. (나는 우리 고양이 사진을 찍었어요.)"
+   ],
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙 동사는 보통 동사원형 끝에 ed를 붙여서, play는 played가 돼요. 불규칙 동사는 ed를 붙이지 않고, run은 ran, take는 took처럼 정해진 과거형을 써서 하나씩 외워야 해요. I took a picture of my cat. 나는 우리 고양이 사진을 찍었어요."
+  },
+  "steps": [
+   {
+    "note": "‘잘못’ 짝지어진 것 찾기 → 짝마다 과거형 확인 (규칙 동사 ed, 불규칙 동사는 정해진 꼴)",
+    "highlight": [
+     "동사원형과 과거형",
+     "잘못 짝지어진 것"
+    ],
+    "strike": [],
+    "narration": "첫째, 잘못 짝지어진 것을 찾는 문제라서, 짝마다 과거형이 맞는지 하나씩 확인해요."
+   },
+   {
+    "note": "leave → left, teach → taught, write → wrote, bring → brought (불규칙) → 옳은 짝",
+    "highlight": [],
+    "strike": [
+     "① leave - left",
+     "② teach - taught",
+     "③ write - wrote",
+     "⑤ bring - brought"
+    ],
+    "narration": "둘째, leave는 left, teach는 taught, write는 wrote, bring은 brought가 맞는 과거형이라 이 네 짝은 옳아요."
+   },
+   {
+    "note": "speak → spoke (불규칙). speaked는 ed를 붙인 꼴 → 잘못된 짝",
+    "highlight": [
+     "④ speak - speaked"
+    ],
+    "strike": [],
+    "narration": "셋째, speak도 불규칙 동사라서 과거형이 spoke예요. 따라서 speak에 ed를 붙인 speaked와 짝지은 4번이 잘못이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① leave - left  ✗  옳은 짝: leave의 과거형은 left",
+    "② teach - taught  ✗  옳은 짝: teach의 과거형은 taught",
+    "③ write - wrote  ✗  옳은 짝: write의 과거형은 wrote",
+    "④ speak - speaked  ✓  잘못된 짝: speak의 과거형은 spoke",
+    "⑤ bring - brought  ✗  옳은 짝: bring의 과거형은 brought"
+   ],
+   "narration": "정답은 4번 speak와 speaked예요. 1번 left는 leave와 모양이 많이 달라서 틀려 보이지만, leave의 옳은 과거형이에요. 5번 brought도 bring의 옳은 과거형이에요."
+  },
+  "summary": {
+   "card": "불규칙 동사 → ed 없이 정해진 과거형 (speak → spoke)",
+   "narration": "정답은 4번이에요. 기억할 것, 불규칙 동사는 ed를 붙이지 않고 정해진 과거형을 외워서 써요."
+  },
+  "captions": [
+   "동사원형·과거형 짝 찾기",
+   "먼저 풀어 보세요",
+   "규칙 동사 ed, 불규칙은 따로 외워요",
+   "짝마다 확인 → speak는 spoke",
+   "정답 ④ speak - speaked",
+   "불규칙 과거형은 외워요"
+  ],
+  "sec": [
+   12,
+   16,
+   28,
+   30,
+   20,
+   11
+  ]
+ },
+ "C": {
+  "title": "불규칙 동사의 과거형",
+  "intro": "이 문제는 동사의 현재형과 과거형 짝 가운데 과거형을 잘못 쓴 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사의 현재형과 과거형이 잘못 짝지어진 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+    "규칙 동사 → 보통 동사원형 끝에 ed (play → played)",
+    "불규칙 동사 → ed 없이 정해진 과거형 (run → ran, take → took)",
+    "불규칙 동사의 과거형은 하나씩 외워요!",
+    "예) My dog ran to me. (우리 개가 나에게 달려왔어요.)"
+   ],
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙 동사는 보통 동사원형 끝에 ed를 붙여서, play는 played가 돼요. 불규칙 동사는 ed를 붙이지 않고, run은 ran, take는 took처럼 정해진 과거형을 써서 하나씩 외워야 해요. My dog ran to me. 우리 개가 나에게 달려왔어요."
+  },
+  "steps": [
+   {
+    "note": "‘잘못’ 짝지어진 것 찾기 → 짝마다 과거형 확인 (규칙 동사 ed, 불규칙 동사는 정해진 꼴)",
+    "highlight": [
+     "현재형과 과거형",
+     "잘못 짝지어진 것"
+    ],
+    "strike": [],
+    "narration": "첫째, 잘못 짝지어진 것을 찾는 문제라서, 짝마다 과거형이 맞는지 하나씩 확인해요."
+   },
+   {
+    "note": "come → came, 날다 fly → flew, buy → bought, eat → ate (불규칙) → 옳은 짝",
+    "highlight": [],
+    "strike": [
+     "① come - came",
+     "② fly - flew",
+     "④ buy - bought",
+     "⑤ eat - ate"
+    ],
+    "narration": "둘째, come은 came, 날다라는 뜻의 fly는 flew, buy는 bought, eat은 ate가 맞는 과거형이라 이 네 짝은 옳아요."
+   },
+   {
+    "note": "go → went (불규칙). goed는 ed를 붙인 꼴 → 잘못된 짝",
+    "highlight": [
+     "③ go - goed"
+    ],
+    "strike": [],
+    "narration": "셋째, go도 불규칙 동사라서 과거형이 went예요. 따라서 go에 ed를 붙인 goed와 짝지은 3번이 잘못이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① come - came  ✗  옳은 짝: come의 과거형은 came",
+    "② fly - flew  ✗  옳은 짝: 날다 fly의 과거형은 flew",
+    "③ go - goed  ✓  잘못된 짝: go의 과거형은 went",
+    "④ buy - bought  ✗  옳은 짝: buy의 과거형은 bought",
+    "⑤ eat - ate  ✗  옳은 짝: eat의 과거형은 ate"
+   ],
+   "narration": "정답은 3번 go와 goed예요. 2번 flew는 fly와 모양이 많이 달라서 틀려 보이지만, 날다라는 뜻의 fly는 과거형이 flew가 맞아요. 5번 ate도 eat의 옳은 과거형이에요."
+  },
+  "summary": {
+   "card": "불규칙 동사 → ed 없이 정해진 과거형 (go → went)",
+   "narration": "정답은 3번이에요. 기억할 것, 불규칙 동사는 ed를 붙이지 않고 정해진 과거형을 외워서 써요."
+  },
+  "captions": [
+   "현재형·과거형 짝 찾기",
+   "먼저 풀어 보세요",
+   "규칙 동사 ed, 불규칙은 따로 외워요",
+   "짝마다 확인 → go는 went",
+   "정답 ③ go - goed",
+   "불규칙 과거형은 외워요"
+  ],
+  "sec": [
+   12,
+   17,
+   27,
+   30,
+   20,
+   11
+  ]
+ },
+ "D": {
+  "title": "불규칙 동사의 과거형",
+  "intro": "이 문제는 동사의 현재형과 과거형 짝 가운데 과거형을 잘못 쓴 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사의 현재형과 과거형이 잘못 짝지어진 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+    "규칙 동사 → 보통 동사원형 끝에 ed (play → played)",
+    "불규칙 동사 → ed 없이 정해진 과거형 (run → ran, take → took)",
+    "불규칙 동사의 과거형은 하나씩 외워요!",
+    "예) Tom took the bus to school. (톰은 버스를 타고 학교에 갔어요.)"
+   ],
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙 동사는 보통 동사원형 끝에 ed를 붙여서, play는 played가 돼요. 불규칙 동사는 ed를 붙이지 않고, run은 ran, take는 took처럼 정해진 과거형을 써서 하나씩 외워야 해요. Tom took the bus to school. 톰은 버스를 타고 학교에 갔어요."
+  },
+  "steps": [
+   {
+    "note": "‘잘못’ 짝지어진 것 찾기 → 짝마다 과거형 확인 (규칙 동사 ed, 불규칙 동사는 정해진 꼴)",
+    "highlight": [
+     "현재형과 과거형",
+     "잘못 짝지어진 것"
+    ],
+    "strike": [],
+    "narration": "첫째, 잘못 짝지어진 것을 찾는 문제라서, 짝마다 과거형이 맞는지 하나씩 확인해요."
+   },
+   {
+    "note": "speak → spoke, make → made, go → went, see → saw (불규칙) → 옳은 짝",
+    "highlight": [],
+    "strike": [
+     "① speak - spoke",
+     "③ make - made",
+     "④ go - went",
+     "⑤ see - saw"
+    ],
+    "narration": "둘째, speak는 spoke, make는 made, go는 went, see는 saw가 맞는 과거형이라 이 네 짝은 옳아요."
+   },
+   {
+    "note": "buy → bought (불규칙). buyed는 ed를 붙인 꼴 → 잘못된 짝",
+    "highlight": [
+     "② buy - buyed"
+    ],
+    "strike": [],
+    "narration": "셋째, buy도 불규칙 동사라서 과거형이 bought예요. 따라서 buy에 ed를 붙인 buyed와 짝지은 2번이 잘못이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① speak - spoke  ✗  옳은 짝: speak의 과거형은 spoke",
+    "② buy - buyed  ✓  잘못된 짝: buy의 과거형은 bought",
+    "③ make - made  ✗  옳은 짝: make의 과거형은 made",
+    "④ go - went  ✗  옳은 짝: go의 과거형은 went",
+    "⑤ see - saw  ✗  옳은 짝: see의 과거형은 saw"
+   ],
+   "narration": "정답은 2번 buy와 buyed예요. buy는 play와 달리 ed를 붙이지 않는 불규칙 동사예요. 4번 went는 go와 모양이 전혀 달라서 틀려 보이지만, go의 옳은 과거형이에요. 3번 made도 make의 옳은 과거형이에요."
+  },
+  "summary": {
+   "card": "불규칙 동사 → ed 없이 정해진 과거형 (buy → bought)",
+   "narration": "정답은 2번이에요. 기억할 것, 불규칙 동사는 ed를 붙이지 않고 정해진 과거형을 외워서 써요."
+  },
+  "captions": [
+   "현재형·과거형 짝 찾기",
+   "먼저 풀어 보세요",
+   "규칙 동사 ed, 불규칙은 따로 외워요",
+   "짝마다 확인 → buy는 bought",
+   "정답 ② buy - buyed",
+   "불규칙 과거형은 외워요"
+  ],
+  "sec": [
+   12,
+   17,
+   27,
+   30,
+   20,
+   11
+  ]
+ },
+ "E": {
+  "title": "불규칙 동사의 과거형",
+  "intro": "이 문제는 동사의 현재형과 과거형 짝 가운데 과거형을 잘못 쓴 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사의 현재형과 과거형이 잘못 짝지어진 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+    "규칙 동사 → 보통 동사원형 끝에 ed (play → played)",
+    "불규칙 동사 → ed 없이 정해진 과거형 (run → ran, take → took)",
+    "불규칙 동사의 과거형은 하나씩 외워요!",
+    "예) They ran in the park. (그들은 공원에서 달렸어요.)"
+   ],
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙 동사는 보통 동사원형 끝에 ed를 붙여서, play는 played가 돼요. 불규칙 동사는 ed를 붙이지 않고, run은 ran, take는 took처럼 정해진 과거형을 써서 하나씩 외워야 해요. They ran in the park. 그들은 공원에서 달렸어요."
+  },
+  "steps": [
+   {
+    "note": "‘잘못’ 짝지어진 것 찾기 → 짝마다 과거형 확인 (규칙 동사 ed, 불규칙 동사는 정해진 꼴)",
+    "highlight": [
+     "현재형과 과거형",
+     "잘못 짝지어진 것"
+    ],
+    "strike": [],
+    "narration": "첫째, 잘못 짝지어진 것을 찾는 문제라서, 짝마다 과거형이 맞는지 하나씩 확인해요."
+   },
+   {
+    "note": "come → came, go → went, 날다 fly → flew, buy → bought (불규칙) → 옳은 짝",
+    "highlight": [],
+    "strike": [
+     "② come - came",
+     "③ go - went",
+     "④ fly - flew",
+     "⑤ buy - bought"
+    ],
+    "narration": "둘째, come은 came, go는 went, 날다라는 뜻의 fly는 flew, buy는 bought가 맞는 과거형이라 이 네 짝은 옳아요."
+   },
+   {
+    "note": "see → saw (불규칙). seed는 see의 과거형이 아님 → 잘못된 짝",
+    "highlight": [
+     "① see - seed"
+    ],
+    "strike": [],
+    "narration": "셋째, see도 불규칙 동사라서 과거형이 saw예요. 따라서 seed와 짝지은 1번이 잘못이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① see - seed  ✓  잘못된 짝: see의 과거형은 saw",
+    "② come - came  ✗  옳은 짝: come의 과거형은 came",
+    "③ go - went  ✗  옳은 짝: go의 과거형은 went",
+    "④ fly - flew  ✗  옳은 짝: 날다 fly의 과거형은 flew",
+    "⑤ buy - bought  ✗  옳은 짝: buy의 과거형은 bought"
+   ],
+   "narration": "정답은 1번 see와 seed예요. seed는 see 뒤에 d만 붙인 꼴이라 see의 과거형이 아니에요. 3번 went는 go와 모양이 전혀 달라서 틀려 보이지만, go의 옳은 과거형이에요. 4번 flew도 날다라는 뜻의 fly의 옳은 과거형이에요."
+  },
+  "summary": {
+   "card": "불규칙 동사 → ed 없이 정해진 과거형 (see → saw)",
+   "narration": "정답은 1번이에요. 기억할 것, 불규칙 동사는 ed를 붙이지 않고 정해진 과거형을 외워서 써요."
+  },
+  "captions": [
+   "현재형·과거형 짝 찾기",
+   "먼저 풀어 보세요",
+   "규칙 동사 ed, 불규칙은 따로 외워요",
+   "짝마다 확인 → see는 saw",
+   "정답 ① see - seed",
+   "불규칙 과거형은 외워요"
+  ],
+  "sec": [
+   12,
+   17,
+   27,
+   30,
+   22,
+   11
+  ]
+ },
+ "F": {
+  "title": "불규칙 동사의 과거형",
+  "intro": "이 문제는 동사의 현재형과 과거형 짝 가운데 과거형을 잘못 쓴 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사의 현재형과 과거형이 잘못 짝지어진 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+    "규칙 동사 → 보통 동사원형 끝에 ed (play → played)",
+    "불규칙 동사 → ed 없이 정해진 과거형 (run → ran, take → took)",
+    "불규칙 동사의 과거형은 하나씩 외워요!",
+    "예) She took a lot of pictures. (그녀는 사진을 많이 찍었어요.)"
+   ],
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙 동사는 보통 동사원형 끝에 ed를 붙여서, play는 played가 돼요. 불규칙 동사는 ed를 붙이지 않고, run은 ran, take는 took처럼 정해진 과거형을 써서 하나씩 외워야 해요. She took a lot of pictures. 그녀는 사진을 많이 찍었어요."
+  },
+  "steps": [
+   {
+    "note": "‘잘못’ 짝지어진 것 찾기 → 짝마다 과거형 확인 (규칙 동사 ed, 불규칙 동사는 정해진 꼴)",
+    "highlight": [
+     "현재형과 과거형",
+     "잘못 짝지어진 것"
+    ],
+    "strike": [],
+    "narration": "첫째, 잘못 짝지어진 것을 찾는 문제라서, 짝마다 과거형이 맞는지 하나씩 확인해요."
+   },
+   {
+    "note": "come → came, eat → ate, see → saw, teach → taught (불규칙) → 옳은 짝",
+    "highlight": [],
+    "strike": [
+     "① come - came",
+     "② eat - ate",
+     "④ see - saw",
+     "⑤ teach - taught"
+    ],
+    "narration": "둘째, come은 came, eat은 ate, see는 saw, teach는 taught가 맞는 과거형이라 이 네 짝은 옳아요."
+   },
+   {
+    "note": "make → made (불규칙). maked는 규칙 동사처럼 바꾼 꼴 → 잘못된 짝",
+    "highlight": [
+     "③ make - maked"
+    ],
+    "strike": [],
+    "narration": "셋째, make도 불규칙 동사라서 과거형이 made예요. 따라서 make 뒤에 d를 붙인 maked와 짝지은 3번이 잘못이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① come - came  ✗  옳은 짝: come의 과거형은 came",
+    "② eat - ate  ✗  옳은 짝: eat의 과거형은 ate",
+    "③ make - maked  ✓  잘못된 짝: make의 과거형은 made",
+    "④ see - saw  ✗  옳은 짝: see의 과거형은 saw",
+    "⑤ teach - taught  ✗  옳은 짝: teach의 과거형은 taught"
+   ],
+   "narration": "정답은 3번 make와 maked예요. 2번 ate는 eat과 모양이 많이 달라서 틀려 보이지만, eat의 옳은 과거형이에요. 5번 taught도 teach의 옳은 과거형이에요."
+  },
+  "summary": {
+   "card": "불규칙 동사 → ed 없이 정해진 과거형 (make → made)",
+   "narration": "정답은 3번이에요. 기억할 것, 불규칙 동사는 ed를 붙이지 않고 정해진 과거형을 외워서 써요."
+  },
+  "captions": [
+   "현재형·과거형 짝 찾기",
+   "먼저 풀어 보세요",
+   "규칙 동사 ed, 불규칙은 따로 외워요",
+   "짝마다 확인 → make는 made",
+   "정답 ③ make - maked",
+   "불규칙 과거형은 외워요"
+  ],
+  "sec": [
+   12,
+   17,
+   27,
+   30,
+   20,
+   11
+  ]
+ }
+}

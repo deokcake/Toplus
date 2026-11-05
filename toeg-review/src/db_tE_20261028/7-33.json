@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T07:44:40.551Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: be동사 부정문은 be동사 뒤에 not을 붙인다(am not, is not/isn't, are not/aren't). 의문문은 be동사를 주어 앞에 두고, 대답의 be동사도 주어에 맞춘다. be동사는 I에 am, 3인칭 단수에 is, you·복수에 are를 쓴다.\n풀이 순서: ① 첫 문장의 주어: My parents(여럿) → are not. → ② 둘째 문장의 주어: You → are not. → ③ 둘을 바르게 짝지은 것은 are not - are not.\n문장별 판정:\n정답 판단: 두 문장의 주어에 맞는 부정형을 바르게 짝지었으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 둘째 빈칸 is not: 주어 You에는 are not(aren't)을 쓴다. 따라서 오답이다.\n② [오답] 첫째 빈칸 isn't: 복수 주어 My parents에는 are not(aren't)을 쓴다. 둘째 빈칸 isn't: 주어 You에는 are not(aren't)을 쓴다. 따라서 오답이다.\n③ [정답] 두 문장의 주어에 맞는 부정형을 바르게 짝지었으므로 정답이다.\n④ [오답] 첫째 빈칸 isn't: 복수 주어 My parents에는 are not(aren't)을 쓴다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 am not: 복수 주어 My parents에는 are not(aren't)을 쓴다. 둘째 빈칸 isn't: 주어 You에는 are not(aren't)을 쓴다. 따라서 오답이다.",
+    "passage": "- My parents _______ home.\n- You _______ late.",
+    "stem": "다음 빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T07:44:39.175Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T07:44:40.551Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T07:44:40.551Z",
+      "what": "확인 완료"
+    }
+  }
+}

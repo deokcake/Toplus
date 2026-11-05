@@ -1,0 +1,180 @@
+{
+ "key": "2-7",
+ "type": "C",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "title": "1형식 문장으로만 된 짝 고르기",
+ "total_sec": 138,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "2급 · CH 1 문장의 형식 · 7번 · C 유형\n\n이 문제는 동사 뒤에 오는 말을 살펴, 두 문장이 모두 1형식인 짝을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 1 문장의 형식 · 7번 · C 유형",
+     "이 문제는 동사 뒤에 오는 말을 살펴, 두 문장이 모두 1형식인 짝을 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 1, 7번 C 유형. 이 문제는 동사 뒤에 오는 말을 살펴, 두 문장이 모두 1형식인 짝을 고르는 문제예요.",
+   "caption": "1형식 문장으로만 된 짝"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 1형식 문장으로만 짝지어진 것은?\n\n① Tom has a bike. / The bus came.\n② Jane looks tired. / They ran fast.\n③ The children ran outside. / The bell rang suddenly.\n④ The food smells nice. / Birds flew.\n⑤ We kept the door open. / He slept.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 1형식 문장으로만 짝지어진 것은?",
+     "① Tom has a bike. / The bus came.",
+     "② Jane looks tired. / They ran fast.",
+     "③ The children ran outside. / The bell rang suddenly.",
+     "④ The food smells nice. / Birds flew.",
+     "⑤ We kept the door open. / He slept."
+    ]
+   },
+   "narration": "다음 중 1형식 문장으로만 짝지어진 것은? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n1형식 = 주어 + 동사 (이것만으로 뜻이 완성돼요)\n동사 뒤의 부사·부사구(어떻게, 언제, 어디서)는 형식에 세지 않아요\n동사 뒤에 주어의 상태·신분을 설명하는 보어 → 2형식, 목적어 → 3·4·5형식\n예) The plane landed safely. (비행기가 안전하게 착륙했어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "1형식 = 주어 + 동사 (이것만으로 뜻이 완성돼요)",
+     "동사 뒤의 부사·부사구(어떻게, 언제, 어디서)는 형식에 세지 않아요",
+     "동사 뒤에 주어의 상태·신분을 설명하는 보어 → 2형식, 목적어 → 3·4·5형식",
+     "예) The plane landed safely. (비행기가 안전하게 착륙했어요.)"
+    ]
+   },
+   "narration": "1형식은 주어와 동사만으로 뜻이 완성되는 문장으로, 뒤에 부사나 부사구가 붙어도 1형식이에요. 하지만 동사 뒤에 주어의 상태나 신분을 설명하는 보어가 오면 2형식, 목적어가 오면 3, 4, 5형식이에요. 예를 들어 The plane landed safely. 비행기가 안전하게 착륙했어요. safely는 방법을 나타내는 부사라서 1형식이에요.",
+   "caption": "1형식 = 주어 + 동사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 42,
+   "screen": {
+    "text": "다음 중 1형식 문장으로만 짝지어진 것은?\n\n① Tom has a bike. / The bus came.\n② Jane looks tired. / They ran fast.\n③ The children ran outside. / The bell rang suddenly.\n④ The food smells nice. / Birds flew.\n⑤ We kept the door open. / He slept.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "has a bike",
+       "kept the door open"
+      ],
+      "strike": [
+       "① Tom has a bike. / The bus came.",
+       "⑤ We kept the door open. / He slept."
+      ],
+      "note": "목적어가 있는 문장 → ① has a bike (3형식), ⑤ kept the door open (목적어 + 목적격 보어, 5형식). 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "looks tired",
+       "smells nice"
+      ],
+      "strike": [
+       "② Jane looks tired. / They ran fast.",
+       "④ The food smells nice. / Birds flew."
+      ],
+      "note": "주어를 설명하는 형용사 보어 → ② looks tired, ④ smells nice (2형식). 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "The children ran outside.",
+       "The bell rang suddenly."
+      ],
+      "strike": [],
+      "note": "남는 것은 ③ → outside(밖으로), suddenly(갑자기)는 부사 → 둘 다 1형식"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 1번 has 뒤의 a bike는 목적어라서 3형식이고, 5번은 목적어 the door 뒤에 그 상태를 설명하는 목적격 보어 open이 있어서 5형식이에요. 둘째, 2번 tired와 4번 nice는 주어의 상태를 설명하는 형용사 보어라서, looks tired와 smells nice가 있는 문장은 2형식이에요. 셋째, 남은 3번의 outside는 밖으로, suddenly는 갑자기라는 뜻의 부사라서 두 문장 모두 1형식이에요. The children ran outside. 아이들이 밖으로 뛰어나갔어요. The bell rang suddenly. 종이 갑자기 울렸어요.",
+   "caption": "목적어·보어 있는 짝 지우기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 30,
+   "screen": {
+    "text": "① Tom has a bike. / The bus came.  ✗  a bike는 has의 목적어 → 3형식\n② Jane looks tired. / They ran fast.  ✗  tired는 주어 Jane을 설명하는 보어 → 2형식\n③ The children ran outside. / The bell rang suddenly.  ✓  outside, suddenly는 부사 → 둘 다 1형식\n④ The food smells nice. / Birds flew.  ✗  nice는 주어를 설명하는 보어 → 2형식\n⑤ We kept the door open. / He slept.  ✗  목적어 the door + 목적격 보어 open → 5형식",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Tom has a bike. / The bus came.  ✗  a bike는 has의 목적어 → 3형식",
+     "② Jane looks tired. / They ran fast.  ✗  tired는 주어 Jane을 설명하는 보어 → 2형식",
+     "③ The children ran outside. / The bell rang suddenly.  ✓  outside, suddenly는 부사 → 둘 다 1형식",
+     "④ The food smells nice. / Birds flew.  ✗  nice는 주어를 설명하는 보어 → 2형식",
+     "⑤ We kept the door open. / He slept.  ✗  목적어 the door + 목적격 보어 open → 5형식"
+    ]
+   },
+   "narration": "정답은 3번이에요. 2번을 고르기 쉬운데, ran fast의 fast는 빨리라는 부사라서 뒤 문장은 1형식이 맞아요. 하지만 Jane looks tired. 제인이 피곤해 보인다는 뜻인데, tired는 주어 Jane의 상태를 설명하는 보어라서 2형식이에요. 4번도 smells nice의 nice가 주어를 설명하는 보어라서, 1형식으로만 된 짝이 아니에요.",
+   "caption": "정답 ③ ran outside, rang suddenly"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ③ The children ran outside. / The bell rang suddenly.\n\n보어·목적어 없이 주어 + 동사 (+ 부사·부사구) → 1형식",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ The children ran outside. / The bell rang suddenly.",
+     "보어·목적어 없이 주어 + 동사 (+ 부사·부사구) → 1형식"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 보어나 목적어 없이 주어와 동사만 있으면, 부사나 부사구가 붙어도 1형식이에요.",
+   "caption": "부사·부사구만 → 1형식"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 1형식 문장으로만 짝지어진 것은?",
+  "passage": "",
+  "c": [
+   "Tom has a bike. / The bus came.",
+   "Jane looks tired. / They ran fast.",
+   "The children ran outside. / The bell rang suddenly.",
+   "The food smells nice. / Birds flew.",
+   "We kept the door open. / He slept."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 1형식의 핵심 구조는 S+V이며 장소·시간·방법 부사어는 목적어나 보어로 세지 않는다. 연결동사 뒤 주어의 성질은 주격보어이고 타동사 뒤 대상은 목적어이다.\n풀이 순서: ① 문장마다 동사 뒤의 말이 부사(구)인지, 보어·목적어인지 가른다. 부사(구)는 형식에 들어가지 않는다. → ② 한 쌍에서 한 문장이라도 보어나 목적어가 있으면 지운다: ① has a bike, ② looks tired, ④ smells nice, ⑤ kept the door open. → ③ 두 문장 모두 ‘주어 + 동사(+ 부사)’인 ③이 정답이다.\n문장별 판정:\n정답 판단: The children(S)+ran(V), The bell(S)+rang(V)로 둘 다 1형식이다. outside와 suddenly는 부사이다.\n선택지 분석:\n① [오답] Tom(S)+has(V)+a bike(O)는 3형식, The bus(S)+came(V)는 1형식이다.\n② [오답] Jane(S)+looks(V)+tired(C)는 2형식, They(S)+ran(V)는 1형식이다.\n③ [정답] The children(S)+ran(V), The bell(S)+rang(V)로 둘 다 1형식이다. outside와 suddenly는 부사이다.\n④ [오답] The food(S)+smells(V)+nice(C)는 2형식, Birds(S)+flew(V)는 1형식이다.\n⑤ [오답] We(S)+kept(V)+the door(O)+open(OC)는 5형식, He(S)+slept(V)는 1형식이다."
+ }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T05:15:22.967Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "My brother is in the <u>fourth</u> grade.",
+      "1": "She came <u>second</u> in the race.",
+      "2": "Today is April <u>threeth</u>.",
+      "3": "It is the <u>eleventh</u> day of the trip.",
+      "4": "Our festival is on October <u>twentieth</u>."
+    },
+    "expl": "핵심 규칙: 서수는 대부분 기수 + th로 만들지만, first, second, third는 따로 외우고 fifth(five), ninth(nine), twelfth(twelve), eighth(eight), twentieth(twenty)처럼 철자가 바뀌는 것에 주의한다.\n풀이 순서: ① 밑줄 친 서수마다 바탕이 되는 기수를 떠올린다. → ② 그냥 th만 붙이면 안 되는 낱말(third, fifth, eighth, ninth, twelfth, twentieth 등)을 따로 확인한다. → ③ three → third. 정답은 ③.\n문장별 판정:\n정답 판단: three의 서수는 threeth가 아니라 third이므로 정답은 ③이다.\n선택지 분석:\n① [오답] 서수(fourth)의 철자가 바르므로 오답이다.\n② [오답] 서수(second)의 철자가 바르므로 오답이다.\n③ [정답] three의 서수는 threeth가 아니라 third이므로 정답이다.\n④ [오답] 서수(eleventh)의 철자가 바르므로 오답이다.\n⑤ [오답] 서수(twentieth)의 철자가 바르므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 서수의 철자가 틀린 문장을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T05:15:21.870Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T05:15:22.967Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T05:15:22.967Z",
+      "what": "확인 완료"
+    }
+  }
+}

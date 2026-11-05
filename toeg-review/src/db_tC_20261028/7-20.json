@@ -1,0 +1,34 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-28T03:35:15.591Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "유리: This is my pencil case.",
+      "1": "민아: Those are our chairs.",
+      "2": "지호: This are my books.",
+      "3": "준수: That is her bike.",
+      "4": "선생님: Well done, everyone!"
+    },
+    "expl": "핵심 규칙: this·that은 한 개, these·those는 여러 개를 가리킨다. these/those 뒤에는 are와 복수 명사를, this/that 뒤에는 is와 단수 명사를 쓴다.\n풀이 순서: ① 문장마다 지시어(this/that/these/those), be동사, 명사를 차례로 본다. → ② 셋의 수(하나/여럿)가 모두 같은지 견준다. → ③ 선택지 ③ This(하나) + are + books(여럿)라 맞지 않는다. 정답은 ③.\n문장별 판정:\n정답 판단: 여러 권(books)이고, This가 아니라 These를 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 지시 표현, be동사, 명사의 수가 모두 맞으므로 오답이다.\n② [오답] 지시 표현, be동사, 명사의 수가 모두 맞으므로 오답이다.\n③ [정답] 여러 권(books)이고, This가 아니라 These를 써야 하므로 정답이다.\n④ [오답] 지시 표현, be동사, 명사의 수가 모두 맞으므로 오답이다.\n⑤ [오답] 선생님의 칭찬으로 어법상 틀린 곳이 없으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 문법적으로 틀린 문장을 말한 학생을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-20T09:32:32.869Z"
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:35:15.591Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-20T09:32:32.869Z",
+      "what": "Claude 수정 예시 적용"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:35:15.591Z",
+      "what": "확인 완료"
+    }
+  }
+}

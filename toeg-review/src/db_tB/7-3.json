@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-04T10:45:58.597Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "She drinks <u>some tea</u>.",
+      "1": "He eats <u>some soup</u>.",
+      "2": "They have <u>two dogs</u>.",
+      "3": "I like <u>grapes</u>.",
+      "4": "He has <u>five rices</u>."
+    },
+    "expl": "핵심 규칙: 셀 수 없는 명사(water, rice, bread, milk, homework)는 some과 함께 쓰고 복수형으로 쓰지 않는다. 셀 수 있는 명사는 two, four, many 뒤에서 복수형으로 쓴다.\n풀이 순서: ① 밑줄 친 명사가 셀 수 있는지 없는지 가른다. → ② 셀 수 없는 명사에 수나 -s가 붙었는지, 셀 수 있는 명사가 수 뒤에서 복수형인지 본다. → ③ 선택지 ⑤ rice는 셀 수 없다(some rice). 정답은 ⑤.\n문장별 판정:\n정답 판단: rice는 셀 수 없는 명사라 복수형으로 쓰지 않으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 셀 수 없는 명사(tea)를 some과 함께 바르게 썼으므로 오답이다.\n② [오답] 셀 수 없는 명사(soup)를 some과 함께 바르게 썼으므로 오답이다.\n③ [오답] 셀 수 있는 명사를 복수형(dogs)으로 바르게 썼으므로 오답이다.\n④ [오답] 셀 수 있는 명사를 복수형(grapes)으로 바르게 썼으므로 오답이다.\n⑤ [정답] rice는 셀 수 없는 명사라 복수형으로 쓰지 않으므로 정답이다.",
+    "passage": null,
+    "stem": "다음 문장에서 밑줄 친 부분의 쓰임이 어색한 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-04T10:45:55.979Z"
+  },
+  "tab": "012jzi2r",
+  "updatedAt": "2026-10-04T10:45:58.597Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-04T10:45:58.597Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:31:43.580Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "My aunt married with a famous pianist last spring.",
+      "1": "Mina discussed about the plan with her classmates.",
+      "2": "The hikers reached the shelter on the mountain before dark.",
+      "3": "She resembles with her older sister in many ways.",
+      "4": "He entered into the room without knocking on the door."
+    },
+    "expl": "핵심 규칙: reach, discuss, resemble, enter는 이 문장들의 뜻에서 목적어를 전치사 없이 바로 취하는 타동사이다.\n풀이 순서: ① 문장마다 동사 바로 뒤에 전치사가 끼어 있는지 본다. → ② 오답 네 문장은 전치사 없이 목적어를 받는 타동사 뒤에 전치사를 붙였다(married with, discussed about, resembles with, entered into). → ③ 선택지 ③만 동사 뒤에 목적어가 바로 온다(reached the shelter).\n문장별 판정:\n정답 판단: reach는 전치사 없이 목적어를 바로 받는 타동사이고 ③은 reached the shelter로 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] marry는 전치사 없이 목적어를 바로 받는 타동사라 married with가 아니라 married a famous pianist로 써야 하므로 오답이다.\n② [오답] discuss는 타동사라 discussed about이 아니라 discussed the plan으로 써야 하므로 오답이다.\n③ [정답] reach는 전치사 없이 목적어를 바로 받는 타동사인데 reached the shelter로 바르게 썼으므로 정답이다.\n④ [오답] resemble은 타동사라 resembles with가 아니라 resembles her older sister로 써야 하므로 오답이다.\n⑤ [오답] enter는 ‘들어가다’의 뜻일 때 전치사 없이 목적어를 받고, entered into가 아니라 entered the room으로 써야 하므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 동사가 올바르게 사용된 문장을 고르시오."
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:28:38.334Z",
+      "text": "1번과 3번에서 같은 동사인 reach가 사용되어 정답을 쉽게 유추할 수 있음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:31:43.580Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:31:39.237Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:31:43.580Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+ "key": "1-16",
+ "type": "C",
+ "grade": 1,
+ "chapter": "CH 2 시제",
+ "title": "상태동사 own·taste와 시제",
+ "total_sec": 129,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "1급 · CH 2 시제 · 16번 · C 유형\n\n이 문제는 상태동사와 시제를 따져 어법상 옳은 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 2 시제 · 16번 · C 유형",
+     "이 문제는 상태동사와 시제를 따져 어법상 옳은 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 2, 16번 C 유형. 이 문제는 상태동사와 시제를 따져 어법상 옳은 문장을 고르는 문제예요.",
+   "caption": "상태동사와 시제"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장은?\n\n① The soup is tasting too salty.\n② My uncle owns two restaurants in Busan.\n③ Look! The children played in the snow right now.\n④ The twins are resembling their father.\n⑤ Last year, my cousin belongs to the school band.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 어법상 옳은 문장은?",
+     "① The soup is tasting too salty.",
+     "② My uncle owns two restaurants in Busan.",
+     "③ Look! The children played in the snow right now.",
+     "④ The twins are resembling their father.",
+     "⑤ Last year, my cousin belongs to the school band."
+    ]
+   },
+   "narration": "다음 중 어법상 옳은 문장은 무엇일까요? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n상태동사: own, resemble, belong, taste(~한 맛이 나다)처럼 상태를 나타내는 동사 → 보통 진행형 X\n같은 taste라도 ‘맛보다’처럼 동작을 나타내면 진행형 O\n시간 표현과 시제 맞추기: last year → 과거 시제 / Look!·right now로 지금 하는 동작 → 현재진행형\n예) This cake tastes sweet. (이 케이크는 단맛이 나요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "상태동사: own, resemble, belong, taste(~한 맛이 나다)처럼 상태를 나타내는 동사 → 보통 진행형 X",
+     "같은 taste라도 ‘맛보다’처럼 동작을 나타내면 진행형 O",
+     "시간 표현과 시제 맞추기: last year → 과거 시제 / Look!·right now로 지금 하는 동작 → 현재진행형",
+     "예) This cake tastes sweet. (이 케이크는 단맛이 나요.)"
+    ]
+   },
+   "narration": "own, resemble, belong, 어떤 맛이 난다는 뜻의 taste 같은 상태동사는 보통 진행형으로 쓰지 않아요. taste가 맛을 본다는 동작이면 진행형을 쓸 수 있어요. This cake tastes sweet. 이 케이크는 단맛이 나요. 시제는 시간 표현에 맞춰서, last year처럼 지난 때를 말하면 과거 시제, Look!이나 right now로 지금 하는 동작을 말하면 현재진행형을 써요.",
+   "caption": "taste(맛이 나다)는 상태 → 진행형 X"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장은?\n\n① The soup is tasting too salty.\n② My uncle owns two restaurants in Busan.\n③ Look! The children played in the snow right now.\n④ The twins are resembling their father.\n⑤ Last year, my cousin belongs to the school band.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "is tasting",
+       "are resembling"
+      ],
+      "strike": [
+       "① The soup is tasting too salty.",
+       "④ The twins are resembling their father."
+      ],
+      "note": "진행형 is tasting(짠맛이 나다), are resembling(닮다) → 상태 → ①④ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "played",
+       "right now",
+       "Last year",
+       "belongs to the school band"
+      ],
+      "strike": [
+       "③ Look! The children played in the snow right now.",
+       "⑤ Last year, my cousin belongs to the school band."
+      ],
+      "note": "시간 표현: Look!·right now + 과거형 played ✗, Last year + 현재형 belongs ✗ → ③⑤ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② My uncle owns two restaurants in Busan."
+      ],
+      "strike": [],
+      "note": "② 상태동사 own을 현재형 owns로 → 정답"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 진행형 문장을 봐요. 1번 taste는 짠맛이 난다는 상태, 4번 resemble은 닮았다는 상태라서 tastes, resemble로 써야 해요. 둘째, 시간 표현을 보면, 3번은 Look!과 right now로 지금 노는 중이니 played가 아니라 are playing, 5번은 Last year가 있으니 belongs가 아니라 belonged가 맞아요. 셋째, 남은 2번은 상태동사 own을 현재형으로 바르게 썼어요. My uncle owns two restaurants in Busan. 우리 삼촌은 부산에 식당을 두 곳 가지고 있어요.",
+   "caption": "진행형 → 시간 표현 → ②"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① The soup is tasting too salty.  ✗  taste(~한 맛이 나다)는 상태 → tastes\n② My uncle owns two restaurants in Busan.  ✓  상태동사 own을 현재형으로 바르게 씀\n③ Look! The children played in the snow right now.  ✗  지금 하는 동작인데 과거형 → are playing\n④ The twins are resembling their father.  ✗  resemble(닮다)은 진행형 X → resemble\n⑤ Last year, my cousin belongs to the school band.  ✗  Last year인데 현재형 → belonged",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① The soup is tasting too salty.  ✗  taste(~한 맛이 나다)는 상태 → tastes",
+     "② My uncle owns two restaurants in Busan.  ✓  상태동사 own을 현재형으로 바르게 씀",
+     "③ Look! The children played in the snow right now.  ✗  지금 하는 동작인데 과거형 → are playing",
+     "④ The twins are resembling their father.  ✗  resemble(닮다)은 진행형 X → resemble",
+     "⑤ Last year, my cousin belongs to the school band.  ✗  Last year인데 현재형 → belonged"
+    ]
+   },
+   "narration": "정답은 2번이에요. 1번은 taste가 맛을 본다는 뜻이면 진행형이 되지만, 여기서는 수프가 짠맛이 난다는 상태라 tastes로 써야 해요. 4번 resemble도 닮았다는 상태라 진행형으로 쓰지 않아요. 5번은 Last year와 맞게 과거형 belonged로 써야 해요.",
+   "caption": "정답 ② owns"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ② My uncle owns two restaurants in Busan.\n\n상태동사(own, resemble, taste 맛이 나다)는 진행형 X, 시제는 시간 표현에 맞추기",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② My uncle owns two restaurants in Busan.",
+     "상태동사(own, resemble, taste 맛이 나다)는 진행형 X, 시제는 시간 표현에 맞추기"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 상태동사는 보통 진행형으로 쓰지 않고, 어떤 맛이 난다는 뜻의 taste도 상태동사예요.",
+   "caption": "상태동사 진행형 X, 시제는 시간 표현에"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 어법상 옳은 문장은?",
+  "passage": "",
+  "c": [
+   "The soup is tasting too salty.",
+   "My uncle owns two restaurants in Busan.",
+   "Look! The children played in the snow right now.",
+   "The twins are resembling their father.",
+   "Last year, my cousin belongs to the school band."
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: own, know, belong, contain, seem, resemble 같은 상태동사는 보통 진행형으로 쓰지 않는다. 다만 have(먹다), taste(맛보다), think about(곰곰이 생각하다)처럼 동작을 나타낼 때는 진행형을 쓸 수 있다. 또 now, yesterday, last year, tomorrow 같은 시간 표현과 동사의 시제가 맞아야 한다.\n풀이 순서: ① 문장마다 두 가지를 본다. 진행형으로 쓴 동사가 상태동사인지, 시간 표현과 시제가 맞는지. → ② is tasting(맛이 나다), are resembling은 상태동사의 진행형이라 틀렸고, right now + played, Last year + belongs는 시제가 어긋난다. → ③ 남는 ②는 상태동사 own을 현재형으로 썼다.\n문장별 판정:\n정답 판단: ‘My uncle owns two restaurants in Busan.’은 상태동사(own)를 단순현재형으로 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] ‘The soup is tasting too salty.’의 동사 taste: ‘~한 맛이 나다’는 뜻일 때 상태동사라 진행형으로 쓰지 않는다. ‘The soup tastes too salty.’로 고쳐야 하므로 오답이다.\n② [정답] ‘My uncle owns two restaurants in Busan.’은 상태동사(own)를 단순현재형으로 바르게 썼으므로 정답이다.\n③ [오답] ‘Look! The children played in the snow right now.’은 시간 표현(Look!, right now)과 동사의 시제가 맞지 않는다. ‘Look! The children are playing in the snow right now.’로 고쳐야 하므로 오답이다.\n④ [오답] ‘The twins are resembling their father.’의 동사 resemble: ‘닮다’는 상태동사라 진행형으로 쓰지 않는다. ‘The twins resemble their father.’로 고쳐야 하므로 오답이다.\n⑤ [오답] ‘Last year, my cousin belongs to the school band.’은 시간 표현(Last year)과 동사의 시제가 맞지 않는다. ‘Last year, my cousin belonged to the school band.’로 고쳐야 하므로 오답이다."
+ }
+}

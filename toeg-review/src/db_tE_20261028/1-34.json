@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T19:22:23.329Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "to be stealing",
+      "1": "having been stolen",
+      "2": "to have stolen",
+      "3": "to have been stolen",
+      "4": "to be stolen"
+    },
+    "expl": "핵심 규칙: 주어 + is said/believed/thought + to부정사는 ‘주어가 ~한다고 여겨진다’는 뜻이다. 전해지는 일이 말하는 시점보다 먼저 일어났으면 완료부정사를, 주어가 그 일을 당했으면 to have been + 과거분사를 쓴다.\n풀이 순서: ① 첫 문장에서 주절과 that절의 시제를 견준다: 주절은 현재(think), that절은 과거(was stolen). → ② that절의 주어를 문장 앞으로 꺼내면 동사는 to부정사가 되는데, that절이 한 시제 앞서므로 to have + 과거분사를 쓴다. → ③ 그림은 도난당한 대상이므로 수동의 been stolen까지 넣는다. to be stolen은 시제가, to have stolen은 태가 틀렸다. 정답은 to have been stolen.\n문장별 판정:\n정답 판단: 그림을 도둑맞은 것은 몇 년 전에 일어난 일이고 주어가 그 일을 당했으므로 완료 수동 부정사 to have been stolen가 알맞다. 정답은 ④이다.\n선택지 분석:\n① [오답] to be stealing: 진행 능동 부정사라 수동 관계와 과거 시점을 모두 나타내지 못한다.\n② [오답] having been stolen: is believed/thought 뒤에는 분사구가 아니라 to부정사가 와야 한다.\n③ [오답] to have stolen: 완료부정사이지만 능동이라 주어가 그 일을 당한 관계를 나타내지 못한다.\n④ [정답] 그림을 도둑맞은 것은 몇 년 전에 일어난 일이고 주어가 그 일을 당했으므로 완료 수동 부정사 to have been stolen가 알맞다. 정답이다.\n⑤ [오답] to be stolen: 단순 수동 부정사라 믿는 지금과 같은 때의 일로 읽힌다. 과거의 일에는 완료부정사가 필요하다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:22:08.963Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:22:23.329Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:22:23.329Z",
+      "what": "확인 완료"
+    }
+  }
+}

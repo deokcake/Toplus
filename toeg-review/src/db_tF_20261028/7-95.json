@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:56:31.425Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "Tom is the <u>four</u> runner.(Tom은 네 번째 주자이다.)",
+      "1": "I have <u>three</u> cousins.(나는 사촌이 세 명 있다.)",
+      "2": "January is the <u>first</u> month of the year.(1월은 한 해의 첫 번째 달이다.)",
+      "3": "We have <u>six</u> classes today.(우리는 오늘 수업이 여섯 개 있다.)",
+      "4": "He is in the <u>second</u> grade.(그는 2학년이다.)"
+    },
+    "expl": "핵심 규칙: 개수를 말할 때는 기수(one, two, three …), 순서를 말할 때는 서수(first, second, third …)를 쓴다. 우리말 뜻이 ‘~ 번째, 첫째, ~층, ~등’이면 서수가 필요하다.\n풀이 순서: ① 우리말 해석에서 밑줄 친 수가 개수인지 순서(~ 번째, ~층, 첫)인지 가른다. → ② 개수면 기수(one, two …), 순서면 서수(first, second …)여야 한다. → ③ 선택지 ①의 ‘네 번째 주자’는 순서인데 기수 four를 썼다. 정답은 ①.\n문장별 판정:\n정답 판단: ‘네 번째’라는 순서를 나타내고, 기수 four가 아니라 서수 fourth를 써야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] ‘네 번째’라는 순서를 나타내고, 기수 four가 아니라 서수 fourth를 써야 하므로 정답이다.\n② [오답] 개수를 나타내고, 기수(three)를 바르게 썼으므로 오답이다.\n③ [오답] 순서를 나타내고, 서수(first)를 바르게 썼으므로 오답이다.\n④ [오답] 개수를 나타내고, 기수(six)를 바르게 썼으므로 오답이다.\n⑤ [오답] 순서를 나타내고, 서수(second)를 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 부분이 틀린 문장을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:56:29.605Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:56:31.425Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:56:31.425Z",
+      "what": "확인 완료"
+    }
+  }
+}

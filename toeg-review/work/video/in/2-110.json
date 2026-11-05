@@ -1,0 +1,86 @@
+{
+ "key": "2-110",
+ "grade": 2,
+ "chapter": "CH 11 전치사",
+ "items": {
+  "A": {
+   "stem": "다음 <보기> 중 밑줄 친 부분이 어법상 올바른 문장의 개수를 고르시오.",
+   "passage": "<보기>\n- I will finish this project <u>until</u> Friday.\n- We need to submit the report <u>to next</u> Monday.\n- She has been studying English <u>during</u> three years.\n- The cat jumped <u>over</u> the fence quickly.\n- There are many shops <u>among</u> the school.",
+   "c": [
+    "1개",
+    "2개",
+    "3개",
+    "4개",
+    "5개"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: by는 ‘~까지(기한)’, until은 ‘~까지 계속’, for + 숫자로 된 기간, during + 특정 기간 명사, over는 ‘~을 넘어’, among은 ‘셋 이상 사이에’다.\n풀이 순서: ① ‘~까지’가 기한(그때까지 끝냄)이면 by, 계속(그때까지 이어짐)이면 until이다. 동사가 finish, submit, send이면 by, stay, wait, be open이면 until이다. → ② 숫자로 된 기간은 for, 특정 기간(명사)은 during, 절 앞은 while, 시각은 at이다. → ③ 넷째(over the fence)만 옳다. 첫째·둘째는 by, 셋째는 for, 다섯째는 around가 맞다. 올바른 문장은 1개이다.\n문장별 판정: 첫째 X. 끝내는 기한이므로 by Friday. 둘째 X. 제출 기한이므로 by next Monday. 셋째 X. 숫자로 된 기간이므로 for three years. 넷째 O. 울타리를 ‘넘어’ 뛰었으므로 over. 다섯째 X. 학교 ‘주변에’이므로 around(near).\n정답 판단: 밑줄 친 부분이 올바른 문장은 넷째 하나다.\n선택지 분석:\n① [정답] 밑줄 친 부분이 올바른 문장은 넷째 하나뿐이므로 정답이다.\n② [오답] 밑줄 친 부분이 올바른 문장은 넷째 하나뿐이므로 오답이다.\n③ [오답] 밑줄 친 부분이 올바른 문장은 넷째 하나뿐이므로 오답이다.\n④ [오답] 밑줄 친 부분이 올바른 문장은 넷째 하나뿐이므로 오답이다.\n⑤ [오답] 밑줄 친 부분이 올바른 문장은 넷째 하나뿐이므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 <보기> 중 밑줄 친 부분이 어법상 올바른 문장의 개수를 고르시오.",
+   "passage": "<보기>\n- I will finish the report <u>until Friday</u>.\n- We must submit the form <u>by noon</u>.\n- Jane studied <u>for three hours</u>.\n- Tom slept <u>during the movie</u>.\n- We arrived <u>at 8 sharp</u>.",
+   "c": [
+    "1개",
+    "2개",
+    "3개",
+    "4개",
+    "5개"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: by는 완료 기한, until은 상태의 지속 끝, for는 수량 기간, during은 사건·특정 기간 명사, while은 절을 이끈다. over는 장애물을 넘어가는 경로를 나타낸다.\n풀이 순서: ① ‘~까지’가 기한(그때까지 끝냄)이면 by, 계속(그때까지 이어짐)이면 until이다. 동사가 finish, submit, send이면 by, stay, wait, be open이면 until이다. → ② 숫자로 된 기간은 for, 특정 기간(명사)은 during, 절 앞은 while, 시각은 at이다. → ③ 첫째만 틀렸다. finish는 기한이므로 by Friday다. 올바른 문장은 4개이다.\n문장별 판정:\n첫째 X: 보고서 완료 기한에는 by를 쓴다. I will finish the report by Friday.\n둘째 O: by noon은 정오까지의 제출 기한이다.\n셋째 O: for three hours는 세 시간 동안의 지속 기간이다.\n넷째 O: during the movie는 영화 상영 중이다.\n다섯째 O: at 8 sharp는 정확히 8시에라는 뜻이다.\n정답 판단: 옳은 문장의 수는 4개이다.\n선택지 분석:\n① [오답] 옳은 문장이 4개이므로 1개는 맞지 않는다.\n② [오답] 옳은 문장이 4개이므로 2개는 맞지 않는다.\n③ [오답] 옳은 문장이 4개이므로 3개는 맞지 않는다.\n④ [정답] 옳은 문장이 4개이므로 일치한다.\n⑤ [오답] 옳은 문장이 4개이므로 5개는 맞지 않는다."
+  },
+  "C": {
+   "stem": "다음 <보기> 중 밑줄 친 부분이 어법상 올바른 문장의 개수를 고르시오.",
+   "passage": "<보기>\n- Stay here <u>until</u> six, and then we can leave together.\n- Finish all the work <u>until</u> Friday, or you will be in trouble.\n- We talked <u>during</u> two hours about the new science project.\n- The lights went out <u>during</u> the storm last night.\n- Tom came to my house <u>around</u> noon with his little brother.",
+   "c": [
+    "1개",
+    "2개",
+    "3개",
+    "4개",
+    "5개"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: by는 ‘~까지’ 끝내야 하는 완료 기한, until은 ‘~까지’ 계속되는 상태의 끝을 나타낸다. for + 숫자 기간, during + 특정 기간·사건 명사, while + 주어 + 동사, at + 시각을 구별한다.\n풀이 순서: ① ‘~까지’가 기한(그때까지 끝냄)이면 by, 계속(그때까지 이어짐)이면 until이다. 동사가 finish, submit, send이면 by, stay, wait, be open이면 until이다. → ② 숫자로 된 기간은 for, 특정 기간(명사)은 during, 절 앞은 while, 시각은 at이다. → ③ 둘째는 by Friday, 셋째는 for two hours로 써야 한다. 올바른 문장은 3개이다.\n문장별 판정:\n첫째 O. 머무는 상태가 6시까지 이어지므로 until이다.\n둘째 X. 금요일까지 끝내야 하는 기한이므로 by를 쓴다.\n셋째 X. 숫자로 나타낸 기간은 for를 쓴다(for two hours).\n넷째 O. 특정 사건(the storm) 동안이므로 during이다.\n다섯째 O. 대략의 시각은 around이다.\n정답 판단: 밑줄 친 부분이 올바른 문장은 첫째, 넷째, 다섯째로 3개이다.\n선택지 분석:\n① [오답] 밑줄 친 부분이 올바른 문장은 첫째, 넷째, 다섯째로 3개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 밑줄 친 부분이 올바른 문장은 첫째, 넷째, 다섯째로 3개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [정답] 밑줄 친 부분이 올바른 문장은 첫째, 넷째, 다섯째로 3개이다. 이 보기의 3개는 실제 개수와 일치한다.\n④ [오답] 밑줄 친 부분이 올바른 문장은 첫째, 넷째, 다섯째로 3개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 밑줄 친 부분이 올바른 문장은 첫째, 넷째, 다섯째로 3개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다."
+  },
+  "D": {
+   "stem": "다음 <보기> 중 밑줄 친 부분이 어법상 올바른 문장의 개수를 고르시오.",
+   "passage": "<보기>\n- I waited for her call <u>until midnight</u>, but she never called.\n- Submit this report <u>until Monday</u> if you want full credit.\n- Jane lived there <u>for five years</u> before she moved to Busan.\n- Tom slept <u>while the flight</u> to London because he was tired.\n- The bus finally came <u>on seven sharp</u>, just as the sign said.",
+   "c": [
+    "1개",
+    "2개",
+    "3개",
+    "4개",
+    "5개"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: by는 ‘~까지’ 끝내야 하는 완료 기한, until은 ‘~까지’ 계속되는 상태의 끝을 나타낸다. for + 숫자 기간, during + 특정 기간·사건 명사, while + 주어 + 동사, at + 시각을 구별한다.\n풀이 순서: ① ‘~까지’가 기한(그때까지 끝냄)이면 by, 계속(그때까지 이어짐)이면 until이다. 동사가 finish, submit, send이면 by, stay, wait, be open이면 until이다. → ② 숫자로 된 기간은 for, 특정 기간(명사)은 during, 절 앞은 while, 시각은 at이다. → ③ 둘째는 by Monday, 넷째는 during the flight, 다섯째는 at seven sharp로 써야 한다. 올바른 문장은 2개이다.\n문장별 판정:\n첫째 O. 기다리는 상태가 자정까지 이어지므로 until이다.\n둘째 X. 월요일까지 내야 하는 기한이므로 by를 쓴다.\n셋째 O. 숫자로 나타낸 기간이므로 for이다.\n넷째 X. 명사(the flight) 앞에는 during을 쓴다.\n다섯째 X. 시각 앞에는 at을 쓴다(at seven sharp).\n정답 판단: 밑줄 친 부분이 올바른 문장은 첫째, 셋째로 2개이다.\n선택지 분석:\n① [오답] 밑줄 친 부분이 올바른 문장은 첫째, 셋째로 2개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [정답] 밑줄 친 부분이 올바른 문장은 첫째, 셋째로 2개이다. 이 보기의 2개는 실제 개수와 일치한다.\n③ [오답] 밑줄 친 부분이 올바른 문장은 첫째, 셋째로 2개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 밑줄 친 부분이 올바른 문장은 첫째, 셋째로 2개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 밑줄 친 부분이 올바른 문장은 첫째, 셋째로 2개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다."
+  },
+  "E": {
+   "stem": "다음 <보기> 중 밑줄 친 부분이 어법상 올바른 문장의 개수를 고르시오.",
+   "passage": "<보기>\n- We stayed at the party <u>until</u> the end of the fireworks show.\n- Finish it <u>by</u> tomorrow if you want to take the trip.\n- Mina studied <u>for</u> an hour after dinner every night.\n- Jane read a magazine <u>during</u> she waited for the dentist this morning.\n- The first class starts <u>at</u> nine every morning except Monday.",
+   "c": [
+    "1개",
+    "2개",
+    "3개",
+    "4개",
+    "5개"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: by는 ‘~까지’ 끝내야 하는 완료 기한, until은 ‘~까지’ 계속되는 상태의 끝을 나타낸다. for + 숫자 기간, during + 특정 기간·사건 명사, while + 주어 + 동사, at + 시각을 구별한다.\n풀이 순서: ① ‘~까지’가 기한(그때까지 끝냄)이면 by, 계속(그때까지 이어짐)이면 until이다. 동사가 finish, submit, send이면 by, stay, wait, be open이면 until이다. → ② 숫자로 된 기간은 for, 특정 기간(명사)은 during, 절 앞은 while, 시각은 at이다. → ③ 넷째만 틀렸다. 절(she waited) 앞에는 during이 아니라 while을 쓴다. 올바른 문장은 4개이다.\n문장별 판정:\n첫째 O. 끝까지 머무는 상태가 이어지므로 until이다.\n둘째 O. 끝내야 하는 기한이므로 by를 썼다.\n셋째 O. 숫자로 나타낸 기간 앞에 for를 썼다.\n넷째 X. 절(she waited) 앞에는 during이 아니라 while을 쓴다.\n다섯째 O. 시각 앞에 at을 썼다.\n정답 판단: 밑줄 친 부분이 올바른 문장은 첫째, 둘째, 셋째, 다섯째로 4개이다.\n선택지 분석:\n① [오답] 밑줄 친 부분이 올바른 문장은 첫째, 둘째, 셋째, 다섯째로 4개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 밑줄 친 부분이 올바른 문장은 첫째, 둘째, 셋째, 다섯째로 4개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 밑줄 친 부분이 올바른 문장은 첫째, 둘째, 셋째, 다섯째로 4개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [정답] 밑줄 친 부분이 올바른 문장은 첫째, 둘째, 셋째, 다섯째로 4개이다. 이 보기의 4개는 실제 개수와 일치한다.\n⑤ [오답] 밑줄 친 부분이 올바른 문장은 첫째, 둘째, 셋째, 다섯째로 4개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다."
+  },
+  "F": {
+   "stem": "다음 <보기> 중 밑줄 친 부분이 어법상 올바른 문장의 개수를 고르시오.",
+   "passage": "<보기>\n- The store is open <u>until</u> ten on Fridays and Saturdays.\n- Send the file <u>until</u> noon so that I can check it today.\n- We worked <u>for</u> three hours to finish the group project.\n- Jane rested in the shade <u>while</u> the break between the games.\n- Tom arrived at the station <u>on</u> six and waited for us.",
+   "c": [
+    "1개",
+    "2개",
+    "3개",
+    "4개",
+    "5개"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: by는 ‘~까지’ 끝내야 하는 완료 기한, until은 ‘~까지’ 계속되는 상태의 끝을 나타낸다. for + 숫자 기간, during + 특정 기간·사건 명사, while + 주어 + 동사, at + 시각을 구별한다.\n풀이 순서: ① ‘~까지’가 기한(그때까지 끝냄)이면 by, 계속(그때까지 이어짐)이면 until이다. 동사가 finish, submit, send이면 by, stay, wait, be open이면 until이다. → ② 숫자로 된 기간은 for, 특정 기간(명사)은 during, 절 앞은 while, 시각은 at이다. → ③ 둘째는 by noon, 넷째는 during the break, 다섯째는 at six로 써야 한다. 올바른 문장은 2개이다.\n문장별 판정:\n첫째 O. 문을 연 상태가 10시까지 이어지므로 until이다.\n둘째 X. 정오까지 보내야 하는 기한이므로 by를 쓴다.\n셋째 O. 숫자로 나타낸 기간 앞에 for를 썼다.\n넷째 X. 명사(the break) 앞에는 during을 쓴다.\n다섯째 X. 시각 앞에는 at을 쓴다(at six).\n정답 판단: 밑줄 친 부분이 올바른 문장은 첫째, 셋째로 2개이다.\n선택지 분석:\n① [오답] 밑줄 친 부분이 올바른 문장은 첫째, 셋째로 2개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [정답] 밑줄 친 부분이 올바른 문장은 첫째, 셋째로 2개이다. 이 보기의 2개는 실제 개수와 일치한다.\n③ [오답] 밑줄 친 부분이 올바른 문장은 첫째, 셋째로 2개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 밑줄 친 부분이 올바른 문장은 첫째, 셋째로 2개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 밑줄 친 부분이 올바른 문장은 첫째, 셋째로 2개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다."
+  }
+ },
+ "prior_review": {}
+}

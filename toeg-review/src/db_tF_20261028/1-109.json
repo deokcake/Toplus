@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T08:48:51.762Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "(A), (C), (E)",
+      "1": "(B), (C), (D)",
+      "2": "(A), (D), (E)",
+      "3": "(C), (D), (E)",
+      "4": "(A), (B), (D)"
+    },
+    "expl": "핵심 규칙: unless는 ‘~하지 않으면(= if ~ not)’이라는 뜻이라 뒤에 not을 겹쳐 쓰지 않는다. 조건절에는 미래 일이라도 현재형을 쓰고, 문맥상 뜻이 맞는지도 확인한다.\n풀이 순서: ① unless를 ‘~하지 않으면’으로 옮겨 문장마다 뜻이 통하는지 본다. → ② unless 뒤에 not·will이 있거나 동사 형태가 틀린 문장, 뜻이 거꾸로 되는 문장을 표시한다. (C)는 unless절에 won't를 썼고, (E)는 ‘수영장이 열지 않으면 수영하러 간다’는 뜻이 되어 문맥이 맞지 않는다. → ③ 남은 세 문장을 모은 (A), (B), (D)를 고른다.\n문장별 판정:\n(A) 옳음: 기차가 늦지 않으면 정오까지 부산에 도착한다.\n(B) 옳음: 과제를 끝내지 않으면 통과할 수 없다.\n(C) 틀림: unless 뒤에 won't를 겹쳐 썼고, 조건절에는 현재형을 쓴다. Unless Leo calls first.\n(D) 옳음: 열쇠를 잊지 않으면 문을 열 수 있다.\n(E) 틀림: ‘수영장이 열지 않으면 수영하러 간다’는 문맥이 맞지 않는다. unless the pool is closed.\n정답 판단: 문맥과 어법이 모두 올바른 문장은 (A), (B), (D)이다.\n선택지 분석:\n① [오답] (C), (E)는 올바른 문장이 아니고, 올바른 문장 (B), (D)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (C)는 올바른 문장이 아니고, 올바른 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (E)는 올바른 문장이 아니고, 올바른 문장 (B)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (C), (E)는 올바른 문장이 아니고, 올바른 문장 (A), (B)를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 올바른 문장 (A), (B), (D)를 빠짐없이 골랐으므로 정답이다.",
+    "passage": "(A) Unless the train is delayed, we will reach Busan by noon.\n(B) You cannot pass the course unless you complete the project.\n(C) Unless Leo won't call first, I will not change the plan.\n(D) Unless she forgets the key, she can open the door.\n(E) We will go swimming unless the pool is open.",
+    "stem": "다음 중 문맥과 어법이 모두 올바른 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T08:48:30.512Z"
+  },
+  "tab": "6l39qm2m",
+  "updatedAt": "2026-10-26T08:48:51.762Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T08:48:51.762Z",
+      "what": "확인 완료"
+    }
+  }
+}

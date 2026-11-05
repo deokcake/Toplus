@@ -1,0 +1,185 @@
+{
+ "key": "4-15",
+ "type": "F",
+ "grade": 4,
+ "chapter": "CH 2 대명사",
+ "title": "These car와 news의 수 일치",
+ "total_sec": 125,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "4급 · CH 2 대명사 · 15번 · F 유형\n\n이 문제는 명사의 수와 소유 표현을 보고, 옳은 문장만 짝지은 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 2 대명사 · 15번 · F 유형",
+     "이 문제는 명사의 수와 소유 표현을 보고, 옳은 문장만 짝지은 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 2, 15번 F 유형. 이 문제는 명사의 수와 소유 표현을 보고, 옳은 문장만 짝지은 것을 고르는 문제예요.",
+   "caption": "These car와 news의 수 일치"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 17,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장으로만 짝지어진 것은?\n\nⓐ This English book in my bag is mine.\nⓑ That is my little sister's new bike.\nⓒ These car is very fast and expensive.\nⓓ The news about the game are interesting.\n\n① ⓐ, ⓒ\n② ⓑ, ⓓ\n③ ⓐ, ⓑ\n④ ⓒ, ⓓ\n⑤ ⓑ, ⓒ",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 어법상 옳은 문장으로만 짝지어진 것은?",
+     "ⓐ This English book in my bag is mine.",
+     "ⓑ That is my little sister's new bike.",
+     "ⓒ These car is very fast and expensive.",
+     "ⓓ The news about the game are interesting.",
+     "① ⓐ, ⓒ",
+     "② ⓑ, ⓓ",
+     "③ ⓐ, ⓑ",
+     "④ ⓒ, ⓓ",
+     "⑤ ⓑ, ⓒ"
+    ]
+   },
+   "narration": "다음 중 어법상 옳은 문장으로만 짝지어진 것을 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\nthis, that + 단수 명사 · these, those + 복수 명사\n현재형 be동사: 단수 명사 주어 → is · 복수 명사 주어 → are (news는 단수)\n사람·동물의 것 → 주로 's (Amy's) · 사물의 것 → 주로 of\n명사 없이 ‘누구의 것’ → mine, hers, theirs\n예) These cups are mine. (이 컵들은 내 것이에요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "this, that + 단수 명사 · these, those + 복수 명사",
+     "현재형 be동사: 단수 명사 주어 → is · 복수 명사 주어 → are (news는 단수)",
+     "사람·동물의 것 → 주로 's (Amy's) · 사물의 것 → 주로 of",
+     "명사 없이 ‘누구의 것’ → mine, hers, theirs",
+     "예) These cups are mine. (이 컵들은 내 것이에요.)"
+    ]
+   },
+   "narration": "this와 that 뒤에는 단수 명사, these와 those 뒤에는 복수 명사를 써요. 현재형 be동사는 단수 명사 주어에 is를 쓰는데, news는 s로 끝나도 단수예요. 소유는 사람이나 동물이면 주로 아포스트로피 에스, 사물이면 주로 of로 나타내고, 명사 없이 쓸 때는 mine 같은 소유대명사를 써요. 예를 들어 These cups are mine, 이 컵들은 내 것이에요.",
+   "caption": "수 일치와 's, of, mine"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장으로만 짝지어진 것은?\n\nⓐ This English book in my bag is mine.\nⓑ That is my little sister's new bike.\nⓒ These car is very fast and expensive.\nⓓ The news about the game are interesting.\n\n① ⓐ, ⓒ\n② ⓑ, ⓓ\n③ ⓐ, ⓑ\n④ ⓒ, ⓓ\n⑤ ⓑ, ⓒ",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [],
+      "strike": [
+       "These car is"
+      ],
+      "note": "ⓒ These + 단수 car ✗ → This car is 또는 These cars are"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "The news about the game"
+      ],
+      "strike": [
+       "are interesting"
+      ],
+      "note": "ⓓ The news는 단수 → are ✗, is"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "is mine",
+       "my little sister's new bike",
+       "③ ⓐ, ⓑ"
+      ],
+      "strike": [
+       "① ⓐ, ⓒ",
+       "② ⓑ, ⓓ",
+       "④ ⓒ, ⓓ",
+       "⑤ ⓑ, ⓒ"
+      ],
+      "note": "ⓐ 명사 없이 ‘내 것’ mine ○ · ⓑ sister's ○ → ③"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 씨 문장은 These 뒤에 단수 car를 써서 틀렸어요. This car is나 These cars are로 써야 해요. 둘째, 디 문장의 The news는 단수라서 are가 아니라 is를 써야 해요. 셋째, 에이 문장의 mine과 비 문장의 sister's는 옳아요. 그래서 3번이에요.",
+   "caption": "지시어 → news → 짝"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① ⓐ, ⓒ  ✗  ⓒ These + 단수 car ✗ · 옳은 ⓑ를 빠뜨렸어요\n② ⓑ, ⓓ  ✗  ⓓ news는 단수 → is · 옳은 ⓐ를 빠뜨렸어요\n③ ⓐ, ⓑ  ✓  옳은 문장 ⓐ, ⓑ만 짝지었어요\n④ ⓒ, ⓓ  ✗  ⓒ, ⓓ 둘 다 틀렸어요 (This car is, news is)\n⑤ ⓑ, ⓒ  ✗  ⓒ This car is 또는 These cars are · 옳은 ⓐ mine을 빠뜨렸어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① ⓐ, ⓒ  ✗  ⓒ These + 단수 car ✗ · 옳은 ⓑ를 빠뜨렸어요",
+     "② ⓑ, ⓓ  ✗  ⓓ news는 단수 → is · 옳은 ⓐ를 빠뜨렸어요",
+     "③ ⓐ, ⓑ  ✓  옳은 문장 ⓐ, ⓑ만 짝지었어요",
+     "④ ⓒ, ⓓ  ✗  ⓒ, ⓓ 둘 다 틀렸어요 (This car is, news is)",
+     "⑤ ⓑ, ⓒ  ✗  ⓒ This car is 또는 These cars are · 옳은 ⓐ mine을 빠뜨렸어요"
+    ]
+   },
+   "narration": "정답은 3번이에요. 2번은 news가 s로 끝나서 복수라고 생각하면 고르기 쉬워요. 하지만 news는 단수라 is를 써요. 1번이나 5번은 씨 문장을 옳다고 본 거예요. These 뒤에는 복수 명사가 와야 해서 These car는 틀렸어요.",
+   "caption": "정답 ③ ⓐ, ⓑ"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ③ ⓐ, ⓑ\n\nthese + 복수 명사 · news는 단수 → is",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ ⓐ, ⓑ",
+     "these + 복수 명사 · news는 단수 → is"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, these 뒤에는 복수 명사를 쓰고, news는 단수로 써요.",
+   "caption": "these + 복수 · news는 단수"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 어법상 옳은 문장으로만 짝지어진 것은?",
+  "passage": "ⓐ This English book in my bag is mine.\nⓑ That is my little sister's new bike.\nⓒ These car is very fast and expensive.\nⓓ The news about the game are interesting.",
+  "c": [
+   "ⓐ, ⓒ",
+   "ⓑ, ⓓ",
+   "ⓐ, ⓑ",
+   "ⓒ, ⓓ",
+   "ⓑ, ⓒ"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 지시어(this/that ↔ these/those)·명사·동사의 수를 맞춘다. 사람·동물의 소유는 's(복수 -s로 끝나면 '만), 사물의 소유는 of로 나타낸다.\n풀이 순서: ① 주어와 동사의 수가 맞는지 본다(pants·shoes는 복수, news는 단수, this/that + 단수, these/those + 복수). → ② 소유 표현을 본다(사람은 's, -s로 끝나는 복수명사는 ', 사물은 of). → ③ ⓒ These car is(This car is), ⓓ The news ~ are(is)가 틀렸다. 옳은 문장만 고른 ⓐ, ⓑ가 정답이다.\n문장별 판정:\nⓐ O. 명사 없이 ‘내 것’은 mine이다.\nⓑ O. 사람의 소유를 's로 나타냈다.\nⓒ X. These 뒤에는 복수명사 cars와 are를 쓴다.\nⓓ X. news는 단수 취급해 is를 쓴다.\n정답 판단: 어법상 옳은 문장은 ⓐ, ⓑ이다.\n선택지 분석:\n① [오답] ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓑ를 빠뜨렸다. 따라서 오답이다.\n② [오답] ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓐ를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 옳은 문장 ⓐ, ⓑ를 빠짐없이 골랐으므로 정답이다.\n④ [오답] ⓒ, ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓐ, ⓑ를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓐ를 빠뜨렸다. 따라서 오답이다."
+ }
+}

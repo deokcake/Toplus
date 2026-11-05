@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T10:32:59.422Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "ㄱ",
+      "1": "ㄴ",
+      "2": "ㄱ, ㄷ",
+      "3": "ㄴ, ㄷ",
+      "4": "ㄱ, ㄴ"
+    },
+    "expl": "핵심 규칙: 명령문은 주어 you를 생략하고 동사원형으로 시작하며, 부정은 Don't + 동사원형(Don't be …)으로 쓴다. Let's의 부정은 Let's not + 동사원형이고, Let's + 동사원형은 Shall we/Why don't we + 동사원형?, How about + -ing?와 뜻이 비슷하다.\n풀이 순서: ① <보기>의 설명마다 실제로 문장을 바꿔 써 본다. → ② ㄱ Let's 뒤는 동사원형(X), ㄴ O, ㄷ How about taking(X). → ③ 옳은 것만 모으면 ㄴ이다.\n문장별 판정:\nㄱ X. Let's 뒤에는 주어와 관계없이 동사원형을 쓴다.\nㄴ O. Let's + 동사원형은 Why don't we + 동사원형?으로 바꿀 수 있다.\nㄷ X. How about 뒤에는 -ing형을 써서 How about taking umbrellas too?가 된다.\n정답 판단: 옳은 설명은 ㄴ이다.\n선택지 분석:\n① [오답] ㄱ는 옳은 설명이 아니고, 옳은 설명 ㄴ를 빠뜨렸다. 따라서 오답이다.\n② [정답] 옳은 설명 ㄴ를 빠짐없이 골랐으므로 정답이다.\n③ [오답] ㄱ, ㄷ는 옳은 설명이 아니고, 옳은 설명 ㄴ를 빠뜨렸다. 따라서 오답이다.\n④ [오답] ㄷ는 옳은 설명이 아니다. 따라서 오답이다.\n⑤ [오답] ㄱ는 옳은 설명이 아니다. 따라서 오답이다.",
+    "passage": "It's cold outside. (A)<u>Let's wear</u> coats. (B)<u>Shall we take</u> umbrellas too?\n<보기>\nㄱ. (A)의 wear는 Let's(= Let us)의 us에 맞춰 wears로 써야 한다.\nㄴ. (A)는 'Why don't we wear coats?'로 바꾸어 쓸 수 있다.\nㄷ. (B)를 How about으로 바꾸면 'How about take umbrellas too?'가 된다.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:32:55.222Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:32:59.422Z",
+      "what": "확인 완료"
+    }
+  }
+}

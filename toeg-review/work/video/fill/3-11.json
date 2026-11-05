@@ -1,0 +1,452 @@
+{
+ "A": {
+  "title": "They went 문장의 과거 부정문",
+  "intro": "이 문제는 일반동사 과거형 went가 쓰인 문장을 과거 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장을 과거 부정문으로 올바르게 바꾼 것을 고르세요. They went to the park. 그들은 공원에 갔어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 과거 문장의 부정문 → did not(didn't) + 동사원형",
+    "주어가 누구든 didn't (I, he, they 모두 같아요)",
+    "didn't가 과거를 나타내니 동사는 원형으로 (made → make)",
+    "don't·doesn't(현재 부정), wasn't(be동사 was의 부정)는 쓰지 않아요",
+    "예) He made a cake. → He didn't make a cake. (그는 케이크를 만들지 않았어요.)"
+   ],
+   "narration": "일반동사 과거 문장의 부정문은 주어와 관계없이 did not, 줄여서 didn't를 동사 앞에 써요. didn't가 과거를 나타내니 뒤의 동사는 원형으로 되돌려요. 현재 부정 don't, doesn't나 be동사 부정 wasn't는 쓰지 않아요. 예를 들어 He made a cake의 부정문은 He didn't make a cake예요. 그는 케이크를 만들지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "went는 일반동사 go의 과거형 → 부정은 didn't. not만 쓴 ④, 현재 부정 don't를 쓴 ③을 지운다.",
+    "highlight": [
+     "They went to the park."
+    ],
+    "strike": [
+     "④ They not went to the park.",
+     "③ They don't went to the park."
+    ],
+    "narration": "첫째, went는 일반동사 go의 과거형이라 부정문에는 didn't가 필요해요. didn't 없이 not만 넣은 4번과, 현재 부정 don't를 쓴 3번을 지워요."
+   },
+   {
+    "note": "didn't 뒤에는 동사원형 → 과거형 went를 쓴 ①, ing형 going을 쓴 ⑤를 지운다.",
+    "highlight": [],
+    "strike": [
+     "① They didn't went to the park.",
+     "⑤ They didn't going to the park."
+    ],
+    "narration": "둘째, didn't 뒤에는 동사원형이 와야 하니, 과거형 went를 쓴 1번과 ing형 going을 쓴 5번을 지워요."
+   },
+   {
+    "note": "남는 것은 ② didn't + 동사원형 go → They didn't go to the park.",
+    "highlight": [
+     "② They didn't go to the park."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 2번은 didn't 뒤에 동사원형 go를 썼어요. They didn't go to the park. 그들은 공원에 가지 않았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① They didn't went to the park.  ✗  didn't 뒤에 과거형 went를 썼어요",
+    "② They didn't go to the park.  ✓  didn't + 동사원형 go",
+    "③ They don't went to the park.  ✗  don't는 현재 부정이에요 (went도 틀려요)",
+    "④ They not went to the park.  ✗  didn't 없이 not만 넣었어요",
+    "⑤ They didn't going to the park.  ✗  didn't 뒤에 ing형 going을 썼어요"
+   ],
+   "narration": "정답은 2번이에요. 1번은 didn't 뒤에 과거형 went를 그대로 써서 틀렸어요. 동사는 원형 go로 되돌려야 해요. 4번은 didn't 없이 not만 넣었는데, 일반동사의 과거 문장은 not만으로는 부정문이 되지 않아요. 3번 don't는 현재 부정이라 과거 문장과 맞지 않아요."
+  },
+  "summary": {
+   "card": "일반동사 과거 부정문 → 주어와 관계없이 didn't + 동사원형",
+   "narration": "정답은 2번이에요. 기억할 것, 일반동사의 과거 문장을 부정문으로 바꿀 때는 주어와 관계없이 didn't 뒤에 동사원형을 써요."
+  },
+  "captions": [
+   "They went 문장의 과거 부정문",
+   "먼저 풀어 보세요",
+   "과거 부정문은 didn't + 동사원형",
+   "didn't 필요 → 동사원형 → go",
+   "정답 ② didn't go",
+   "didn't + 동사원형"
+  ],
+  "sec": [
+   11,
+   16,
+   28,
+   36,
+   25,
+   10
+  ]
+ },
+ "B": {
+  "title": "Mina cleaned 문장의 과거 부정문",
+  "intro": "이 문제는 일반동사 과거형 cleaned가 쓰인 문장을 과거 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장을 과거 부정문으로 올바르게 바꾼 것을 고르세요. Mina cleaned her room. 미나는 자기 방을 청소했어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 과거 문장의 부정문 → did not(didn't) + 동사원형",
+    "주어가 누구든 didn't (I, he, they 모두 같아요)",
+    "didn't가 과거를 나타내니 동사는 원형으로 (played → play)",
+    "don't·doesn't(현재 부정), wasn't(be동사 was의 부정)는 쓰지 않아요",
+    "예) She played tennis. → She didn't play tennis. (그녀는 테니스를 치지 않았어요.)"
+   ],
+   "narration": "일반동사 과거 문장의 부정문은 주어와 관계없이 did not, 줄여서 didn't를 동사 앞에 써요. didn't가 과거를 나타내니 뒤의 동사는 원형으로 되돌려요. 현재 부정 don't, doesn't나 be동사 부정 wasn't는 쓰지 않아요. 예를 들어 She played tennis의 부정문은 She didn't play tennis예요. 그녀는 테니스를 치지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "cleaned는 일반동사 clean의 과거형 → 부정은 didn't. 현재 부정 doesn't(②), be동사 부정 wasn't(④), not만 쓴 ⑤를 지운다.",
+    "highlight": [
+     "Mina cleaned her room."
+    ],
+    "strike": [
+     "② Mina doesn't clean her room.",
+     "④ Mina wasn't clean her room.",
+     "⑤ Mina not cleaned her room."
+    ],
+    "narration": "첫째, cleaned는 일반동사 clean의 과거형이라 부정문에는 didn't가 필요해요. 현재 부정 doesn't를 쓴 2번, be동사 was의 부정 wasn't를 쓴 4번, not만 넣은 5번을 지워요."
+   },
+   {
+    "note": "didn't 뒤에는 동사원형 → 과거형 cleaned를 쓴 ①을 지운다.",
+    "highlight": [],
+    "strike": [
+     "① Mina didn't cleaned her room."
+    ],
+    "narration": "둘째, didn't 뒤에는 동사원형이 와야 하니, 과거형 cleaned를 그대로 쓴 1번도 지워요."
+   },
+   {
+    "note": "남는 것은 ③ didn't + 동사원형 clean → Mina didn't clean her room.",
+    "highlight": [
+     "③ Mina didn't clean her room."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 3번은 didn't 뒤에 동사원형 clean을 썼어요. Mina didn't clean her room. 미나는 자기 방을 청소하지 않았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Mina didn't cleaned her room.  ✗  didn't 뒤에 과거형 cleaned를 썼어요",
+    "② Mina doesn't clean her room.  ✗  doesn't는 현재 부정이에요",
+    "③ Mina didn't clean her room.  ✓  didn't + 동사원형 clean",
+    "④ Mina wasn't clean her room.  ✗  일반동사 clean의 과거 부정은 didn't로 해요",
+    "⑤ Mina not cleaned her room.  ✗  didn't 없이 not만 넣었어요"
+   ],
+   "narration": "정답은 3번이에요. 1번은 didn't 뒤에 과거형 cleaned를 그대로 써서 틀렸어요. 동사는 원형 clean으로 되돌려야 해요. 4번 wasn't는 be동사 was의 부정인데, 여기서 clean은 방을 청소한다는 일반동사라서 didn't를 써야 해요. 2번 doesn't는 현재 부정이라 과거 문장과 맞지 않아요."
+  },
+  "summary": {
+   "card": "일반동사 과거 부정문 → 주어와 관계없이 didn't + 동사원형",
+   "narration": "정답은 3번이에요. 기억할 것, 일반동사의 과거 문장을 부정문으로 바꿀 때는 주어와 관계없이 didn't 뒤에 동사원형을 써요."
+  },
+  "captions": [
+   "Mina cleaned 문장의 과거 부정문",
+   "먼저 풀어 보세요",
+   "과거 부정문은 didn't + 동사원형",
+   "didn't 필요 → 동사원형 → clean",
+   "정답 ③ didn't clean",
+   "didn't + 동사원형"
+  ],
+  "sec": [
+   11,
+   16,
+   28,
+   36,
+   25,
+   10
+  ]
+ },
+ "C": {
+  "title": "Jane bought 문장의 과거 부정문",
+  "intro": "이 문제는 일반동사 과거형 bought가 쓰인 문장을 과거 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장을 과거 부정문으로 올바르게 바꾼 것을 고르세요. Jane bought a new bag. 제인은 새 가방을 샀어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 과거 문장의 부정문 → did not(didn't) + 동사원형",
+    "주어가 누구든 didn't (I, he, they 모두 같아요)",
+    "didn't가 과거를 나타내니 동사는 원형으로 (took → take)",
+    "don't·doesn't(현재 부정), wasn't(be동사 was의 부정)는 쓰지 않아요",
+    "예) He took a taxi. → He didn't take a taxi. (그는 택시를 타지 않았어요.)"
+   ],
+   "narration": "일반동사 과거 문장의 부정문은 주어와 관계없이 did not, 줄여서 didn't를 동사 앞에 써요. didn't가 과거를 나타내니 뒤의 동사는 원형으로 되돌려요. 현재 부정 don't, doesn't나 be동사 부정 wasn't는 쓰지 않아요. 예를 들어 He took a taxi의 부정문은 He didn't take a taxi예요. 그는 택시를 타지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "bought는 일반동사 buy의 과거형 → 부정은 didn't. didn't가 없는 ②, be동사 부정 wasn't(①), 현재 부정 don't(⑤)를 지운다.",
+    "highlight": [
+     "Jane bought a new bag."
+    ],
+    "strike": [
+     "② Jane buy a new bag.",
+     "① Jane wasn't buy a new bag.",
+     "⑤ Jane don't buy a new bag."
+    ],
+    "narration": "첫째, bought는 일반동사 buy의 과거형이라 부정문에는 didn't가 필요해요. didn't 없이 동사만 바꾼 2번, be동사 was의 부정 wasn't를 쓴 1번, 현재 부정 don't를 쓴 5번을 지워요."
+   },
+   {
+    "note": "didn't 뒤에는 동사원형 → 과거형 bought를 쓴 ④를 지운다.",
+    "highlight": [],
+    "strike": [
+     "④ Jane didn't bought a new bag."
+    ],
+    "narration": "둘째, didn't 뒤에는 동사원형이 와야 하니, 과거형 bought를 그대로 쓴 4번도 지워요."
+   },
+   {
+    "note": "남는 것은 ③ didn't + 동사원형 buy → Jane didn't buy a new bag.",
+    "highlight": [
+     "③ Jane didn't buy a new bag."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 3번은 didn't 뒤에 동사원형 buy를 썼어요. Jane didn't buy a new bag. 제인은 새 가방을 사지 않았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Jane wasn't buy a new bag.  ✗  일반동사 buy의 과거 부정은 didn't로 해요",
+    "② Jane buy a new bag.  ✗  didn't가 없어 부정문이 아니에요",
+    "③ Jane didn't buy a new bag.  ✓  didn't + 동사원형 buy",
+    "④ Jane didn't bought a new bag.  ✗  didn't 뒤에 과거형 bought를 썼어요",
+    "⑤ Jane don't buy a new bag.  ✗  don't는 현재 부정이에요"
+   ],
+   "narration": "정답은 3번이에요. 4번은 didn't 뒤에 과거형 bought를 그대로 써서 틀렸어요. 동사는 원형 buy로 되돌려야 해요. 1번 wasn't는 be동사 was의 부정이라, 일반동사 buy의 과거 부정문에는 쓰지 않아요. 5번 don't는 현재 부정이라 과거 문장과 맞지 않아요."
+  },
+  "summary": {
+   "card": "일반동사 과거 부정문 → 주어와 관계없이 didn't + 동사원형",
+   "narration": "정답은 3번이에요. 기억할 것, 일반동사의 과거 문장을 부정문으로 바꿀 때는 주어와 관계없이 didn't 뒤에 동사원형을 써요."
+  },
+  "captions": [
+   "Jane bought 문장의 과거 부정문",
+   "먼저 풀어 보세요",
+   "과거 부정문은 didn't + 동사원형",
+   "didn't 필요 → 동사원형 → buy",
+   "정답 ③ didn't buy",
+   "didn't + 동사원형"
+  ],
+  "sec": [
+   11,
+   16,
+   28,
+   36,
+   25,
+   10
+  ]
+ },
+ "D": {
+  "title": "Tom saw 문장의 과거 부정문",
+  "intro": "이 문제는 일반동사 과거형 saw가 쓰인 문장을 과거 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장을 과거 부정문으로 올바르게 바꾼 것을 고르세요. Tom saw a movie. 톰은 영화를 봤어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 과거 문장의 부정문 → did not(didn't) + 동사원형",
+    "주어가 누구든 didn't (I, he, they 모두 같아요)",
+    "didn't가 과거를 나타내니 동사는 원형으로 (met → meet)",
+    "don't·doesn't(현재 부정), wasn't(be동사 was의 부정)는 쓰지 않아요",
+    "예) She met her friend. → She didn't meet her friend. (그녀는 친구를 만나지 않았어요.)"
+   ],
+   "narration": "일반동사 과거 문장의 부정문은 주어와 관계없이 did not, 줄여서 didn't를 동사 앞에 써요. didn't가 과거를 나타내니 뒤의 동사는 원형으로 되돌려요. 현재 부정 don't, doesn't나 be동사 부정 wasn't는 쓰지 않아요. 예를 들어 She met her friend의 부정문은 She didn't meet her friend예요. 그녀는 친구를 만나지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "saw는 일반동사 see의 과거형 → 부정은 didn't. didn't가 없는 ②, be동사 부정 wasn't(③), 현재 부정 don't(⑤)를 지운다.",
+    "highlight": [
+     "Tom saw a movie."
+    ],
+    "strike": [
+     "② Tom see a movie.",
+     "③ Tom wasn't see a movie.",
+     "⑤ Tom don't see a movie."
+    ],
+    "narration": "첫째, saw는 일반동사 see의 과거형이라 부정문에는 didn't가 필요해요. didn't 없이 동사만 바꾼 2번, be동사 was의 부정 wasn't를 쓴 3번, 현재 부정 don't를 쓴 5번을 지워요."
+   },
+   {
+    "note": "didn't 뒤에는 동사원형 → 과거형 saw를 쓴 ④를 지운다.",
+    "highlight": [],
+    "strike": [
+     "④ Tom didn't saw a movie."
+    ],
+    "narration": "둘째, didn't 뒤에는 동사원형이 와야 하니, 과거형 saw를 그대로 쓴 4번도 지워요."
+   },
+   {
+    "note": "남는 것은 ① didn't + 동사원형 see → Tom didn't see a movie.",
+    "highlight": [
+     "① Tom didn't see a movie."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 1번은 didn't 뒤에 동사원형 see를 썼어요. Tom didn't see a movie. 톰은 영화를 보지 않았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Tom didn't see a movie.  ✓  didn't + 동사원형 see",
+    "② Tom see a movie.  ✗  didn't가 없어 부정문이 아니에요",
+    "③ Tom wasn't see a movie.  ✗  일반동사 see의 과거 부정은 didn't로 해요",
+    "④ Tom didn't saw a movie.  ✗  didn't 뒤에 과거형 saw를 썼어요",
+    "⑤ Tom don't see a movie.  ✗  don't는 현재 부정이에요"
+   ],
+   "narration": "정답은 1번이에요. 4번은 didn't 뒤에 과거형 saw를 그대로 써서 틀렸어요. 동사는 원형 see로 되돌려야 해요. 3번 wasn't는 be동사 was의 부정이라, 일반동사 see의 과거 부정문에는 쓰지 않아요. 2번은 didn't 없이 동사만 see로 바꿔서 부정문이 되지 않았어요."
+  },
+  "summary": {
+   "card": "일반동사 과거 부정문 → 주어와 관계없이 didn't + 동사원형",
+   "narration": "정답은 1번이에요. 기억할 것, 일반동사의 과거 문장을 부정문으로 바꿀 때는 주어와 관계없이 didn't 뒤에 동사원형을 써요."
+  },
+  "captions": [
+   "Tom saw 문장의 과거 부정문",
+   "먼저 풀어 보세요",
+   "과거 부정문은 didn't + 동사원형",
+   "didn't 필요 → 동사원형 → see",
+   "정답 ① didn't see",
+   "didn't + 동사원형"
+  ],
+  "sec": [
+   11,
+   16,
+   28,
+   36,
+   25,
+   10
+  ]
+ },
+ "E": {
+  "title": "We ate 문장의 과거 부정문",
+  "intro": "이 문제는 일반동사 과거형 ate가 쓰인 문장을 과거 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장을 과거 부정문으로 올바르게 바꾼 것을 고르세요. We ate lunch at noon. 우리는 정오에 점심을 먹었어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 과거 문장의 부정문 → did not(didn't) + 동사원형",
+    "주어가 누구든 didn't (I, he, they 모두 같아요)",
+    "didn't가 과거를 나타내니 동사는 원형으로 (drank → drink)",
+    "don't·doesn't(현재 부정), wasn't(be동사 was의 부정)는 쓰지 않아요",
+    "예) They drank milk. → They didn't drink milk. (그들은 우유를 마시지 않았어요.)"
+   ],
+   "narration": "일반동사 과거 문장의 부정문은 주어와 관계없이 did not, 줄여서 didn't를 동사 앞에 써요. didn't가 과거를 나타내니 뒤의 동사는 원형으로 되돌려요. 현재 부정 don't, doesn't나 be동사 부정 wasn't는 쓰지 않아요. 예를 들어 They drank milk의 부정문은 They didn't drink milk예요. 그들은 우유를 마시지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "ate는 일반동사 eat의 과거형 → 부정은 didn't. be동사 부정 wasn't(②), didn't가 없는 ③, 현재 부정 don't(⑤)를 지운다.",
+    "highlight": [
+     "We ate lunch at noon."
+    ],
+    "strike": [
+     "② We wasn't eat lunch at noon.",
+     "③ We eat lunch at noon.",
+     "⑤ We don't eat lunch at noon."
+    ],
+    "narration": "첫째, ate는 일반동사 eat의 과거형이라 부정문에는 didn't가 필요해요. be동사 was의 부정 wasn't를 쓴 2번, didn't 없이 쓴 3번, 현재 부정 don't를 쓴 5번을 지워요."
+   },
+   {
+    "note": "didn't 뒤에는 동사원형 → 과거형 ate를 쓴 ④를 지운다.",
+    "highlight": [],
+    "strike": [
+     "④ We didn't ate lunch at noon."
+    ],
+    "narration": "둘째, didn't 뒤에는 동사원형이 와야 하니, 과거형 ate를 그대로 쓴 4번도 지워요."
+   },
+   {
+    "note": "남는 것은 ① didn't + 동사원형 eat → We didn't eat lunch at noon.",
+    "highlight": [
+     "① We didn't eat lunch at noon."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 1번은 didn't 뒤에 동사원형 eat을 썼어요. We didn't eat lunch at noon. 우리는 정오에 점심을 먹지 않았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① We didn't eat lunch at noon.  ✓  didn't + 동사원형 eat",
+    "② We wasn't eat lunch at noon.  ✗  일반동사 eat의 과거 부정은 didn't (We에는 was도 안 써요)",
+    "③ We eat lunch at noon.  ✗  didn't가 없는 현재 문장이에요",
+    "④ We didn't ate lunch at noon.  ✗  didn't 뒤에 과거형 ate를 썼어요",
+    "⑤ We don't eat lunch at noon.  ✗  don't는 현재 부정이에요"
+   ],
+   "narration": "정답은 1번이에요. 4번은 didn't 뒤에 과거형 ate를 그대로 써서 틀렸어요. 동사는 원형 eat으로 되돌려야 해요. 2번 wasn't는 be동사 was의 부정이라 일반동사 eat의 과거 부정문에는 쓰지 않고, 주어 We에는 was도 쓰지 않아요. 5번 don't는 현재 부정이라 과거 문장과 맞지 않아요."
+  },
+  "summary": {
+   "card": "일반동사 과거 부정문 → 주어와 관계없이 didn't + 동사원형",
+   "narration": "정답은 1번이에요. 기억할 것, 일반동사의 과거 문장을 부정문으로 바꿀 때는 주어와 관계없이 didn't 뒤에 동사원형을 써요."
+  },
+  "captions": [
+   "We ate 문장의 과거 부정문",
+   "먼저 풀어 보세요",
+   "과거 부정문은 didn't + 동사원형",
+   "didn't 필요 → 동사원형 → eat",
+   "정답 ① didn't eat",
+   "didn't + 동사원형"
+  ],
+  "sec": [
+   11,
+   16,
+   28,
+   36,
+   25,
+   10
+  ]
+ },
+ "F": {
+  "title": "I wrote 문장의 과거 부정문",
+  "intro": "이 문제는 일반동사 과거형 wrote가 쓰인 문장을 과거 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장을 과거 부정문으로 올바르게 바꾼 것을 고르세요. I wrote a letter. 나는 편지를 썼어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 과거 문장의 부정문 → did not(didn't) + 동사원형",
+    "주어가 누구든 didn't (I, he, they 모두 같아요)",
+    "didn't가 과거를 나타내니 동사는 원형으로 (sang → sing)",
+    "don't·doesn't(현재 부정), wasn't(be동사 was의 부정)는 쓰지 않아요",
+    "예) She sang a song. → She didn't sing a song. (그녀는 노래를 부르지 않았어요.)"
+   ],
+   "narration": "일반동사 과거 문장의 부정문은 주어와 관계없이 did not, 줄여서 didn't를 동사 앞에 써요. didn't가 과거를 나타내니 뒤의 동사는 원형으로 되돌려요. 현재 부정 don't, doesn't나 be동사 부정 wasn't는 쓰지 않아요. 예를 들어 She sang a song의 부정문은 She didn't sing a song이에요. 그녀는 노래를 부르지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "wrote는 일반동사 write의 과거형 → 부정은 didn't. didn't가 없는 ②, be동사 부정 wasn't(③), 현재 부정 don't(④)를 지운다.",
+    "highlight": [
+     "I wrote a letter."
+    ],
+    "strike": [
+     "② I write a letter.",
+     "③ I wasn't write a letter.",
+     "④ I don't write a letter."
+    ],
+    "narration": "첫째, wrote는 일반동사 write의 과거형이라 부정문에는 didn't가 필요해요. didn't 없이 쓴 2번, be동사 was의 부정 wasn't를 쓴 3번, 현재 부정 don't를 쓴 4번을 지워요."
+   },
+   {
+    "note": "didn't 뒤에는 동사원형 → 과거형 wrote를 쓴 ⑤를 지운다.",
+    "highlight": [],
+    "strike": [
+     "⑤ I didn't wrote a letter."
+    ],
+    "narration": "둘째, didn't 뒤에는 동사원형이 와야 하니, 과거형 wrote를 그대로 쓴 5번도 지워요."
+   },
+   {
+    "note": "남는 것은 ① didn't + 동사원형 write → I didn't write a letter.",
+    "highlight": [
+     "① I didn't write a letter."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 1번은 didn't 뒤에 동사원형 write를 썼어요. I didn't write a letter. 나는 편지를 쓰지 않았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I didn't write a letter.  ✓  didn't + 동사원형 write",
+    "② I write a letter.  ✗  didn't가 없는 현재 문장이에요",
+    "③ I wasn't write a letter.  ✗  일반동사 write의 과거 부정은 didn't로 해요",
+    "④ I don't write a letter.  ✗  don't는 현재 부정이에요",
+    "⑤ I didn't wrote a letter.  ✗  didn't 뒤에 과거형 wrote를 썼어요"
+   ],
+   "narration": "정답은 1번이에요. 5번은 didn't 뒤에 과거형 wrote를 그대로 써서 틀렸어요. 동사는 원형 write로 되돌려야 해요. 3번 wasn't는 be동사 was의 부정이라, 일반동사 write의 과거 부정문에는 쓰지 않아요. 4번 don't는 현재 부정이라 과거 문장과 맞지 않아요."
+  },
+  "summary": {
+   "card": "일반동사 과거 부정문 → 주어와 관계없이 didn't + 동사원형",
+   "narration": "정답은 1번이에요. 기억할 것, 일반동사의 과거 문장을 부정문으로 바꿀 때는 주어와 관계없이 didn't 뒤에 동사원형을 써요."
+  },
+  "captions": [
+   "I wrote 문장의 과거 부정문",
+   "먼저 풀어 보세요",
+   "과거 부정문은 didn't + 동사원형",
+   "didn't 필요 → 동사원형 → write",
+   "정답 ① didn't write",
+   "didn't + 동사원형"
+  ],
+  "sec": [
+   11,
+   16,
+   28,
+   36,
+   25,
+   10
+  ]
+ }
+}

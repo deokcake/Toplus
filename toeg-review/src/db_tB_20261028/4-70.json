@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T07:59:02.447Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "(a), (b), (c)",
+      "1": "(a), (b), (d)",
+      "2": "(b), (c), (e)",
+      "3": "(a), (d), (e)",
+      "4": "(c), (d), (e)"
+    },
+    "expl": "핵심 규칙: few·a few·many는 셀 수 있는 명사의 복수형, little·a little·much는 셀 수 없는 명사와 함께 쓴다.\n풀이 순서: ① 밑줄 뒤의 명사가 셀 수 있는지 하나씩 본다. cups of water처럼 단위가 있으면 단위(cups)를 센다. → ② (c) many homework(much), (e) a little friends(a few)가 틀렸다. → ③ 옳은 것만 묶은 (a), (b), (d)가 정답이다.\n문장별 판정:\n(a) O. 셀 수 있는 명사 pencils에 few를 썼다.\n(b) O. 셀 수 없는 명사 milk에 much를 썼다.\n(c) X. 셀 수 없는 명사 homework에는 much를 쓴다.\n(d) O. 셀 수 없는 명사 money에 a little을 썼다.\n(e) X. 셀 수 있는 명사 friends에는 a few를 쓴다.\n정답 판단: 밑줄 친 부분의 쓰임이 옳은 문장은 (a), (b), (d)이다.\n선택지 분석:\n① [오답] (c)는 옳은 문장이 아니고, 옳은 문장 (d)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 옳은 문장 (a), (b), (d)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (c), (e)는 옳은 문장이 아니고, 옳은 문장 (a), (d)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (e)는 옳은 문장이 아니고, 옳은 문장 (b)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (c), (e)는 옳은 문장이 아니고, 옳은 문장 (a), (b)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(a) I have <u>few</u> pencils in my pencil case.\n(b) She drinks <u>much</u> milk every morning.\n(c) We have <u>many</u> homework to do tonight.\n(d) Tom has <u>a little</u> money in his wallet.\n(e) They have <u>a little</u> friends in their new school.",
+    "stem": "다음 중 밑줄 친 부분의 쓰임이 어법상 옳은 것만 묶인 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-20T07:58:49.242Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T08:43:42.763Z",
+      "text": "기준 문항에 비해 변형 문항의 문장이 짧음. 적절한 수정 필요."
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T07:59:02.447Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T07:59:01.333Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T07:59:02.447Z",
+      "what": "확인 완료"
+    }
+  }
+}

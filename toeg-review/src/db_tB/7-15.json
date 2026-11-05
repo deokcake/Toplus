@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-04T10:58:35.182Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 문장의 주어 자리에는 주격(I, we, she, they)을, 명사 앞에는 소유격(my, our, her, their)을 쓴다.\n풀이 순서: ① (A): 뒤에 동사(are)가 오는 주어 자리다. 우리말 ‘~는’ → 주격 We. → ② (B): 뒤에 명사(room)가 온다. 우리말 ‘~의’ → 소유격 Our. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: (A)에 주격, (B)에 소유격을 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] (A): 주어 자리에는 주격(We)을 쓰므로 오답이다.\n② [정답] (A)에 주격, (B)에 소유격을 바르게 썼으므로 정답이다.\n③ [오답] (A): 주어 자리에는 주격(We)을 쓰므로, (B): 명사 앞에는 소유격(Our)을 쓰므로 오답이다.\n④ [오답] (A): 주어 자리에는 주격(We)을 쓰므로 오답이다.\n⑤ [오답] (B): 명사 앞에는 소유격(Our)을 쓰므로 오답이다.",
+    "passage": "(A) ________ are friends. (우리는 친구이다.)\n(B) ________ room is nice. (우리의 방은 멋지다.)",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-04T10:58:34.030Z"
+  },
+  "tab": "012jzi2r",
+  "updatedAt": "2026-10-04T10:58:35.182Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-04T10:58:35.182Z",
+      "what": "확인 완료"
+    }
+  }
+}

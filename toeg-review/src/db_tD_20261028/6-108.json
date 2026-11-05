@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T06:41:47.249Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "(A) How about - (B) Let's",
+      "1": "(A) Let's - (B) Shall",
+      "2": "(A) Let's - (B) How about",
+      "3": "(A) Shall we - (B) Let's",
+      "4": "(A) Let's - (B) Why don't"
+    },
+    "expl": "핵심 규칙: Let's와 Why don't we 뒤에는 동사원형, Shall we 뒤에도 동사원형을 쓰고, How about/What about 뒤에는 -ing형을 쓴다. Shall은 we와 함께 Shall we ~?로 쓴다.\n풀이 순서: ① (A) 뒤를 본다: play(동사원형), 마침표 → Let's. → ② (B) 뒤를 본다: starting(-ing형), 물음표 → How about. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 동사원형 앞에 Let's, -ing형 앞에 How about을 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] (A): How about 뒤에는 -ing형을, (B): Let's 뒤에는 동사원형을 쓰므로 오답이다.\n② [오답] (B): Shall we 뒤에는 동사원형을 쓰고 Shall만으로는 쓸 수 없으므로 오답이다.\n③ [정답] 동사원형 앞에 Let's, -ing형 앞에 How about을 바르게 썼으므로 정답이다.\n④ [오답] (A): Shall we 문장은 물음표로 끝나야 하고, (B): Let's 뒤에는 -ing형을 쓰지 않으므로 오답이다.\n⑤ [오답] (B): Why don't we 뒤에는 동사원형을 쓰고 we가 빠졌으므로 오답이다.",
+    "passage": "A: We're free. (<u>   A   </u>) play tennis.\nB: Nice. (<u>   B   </u>) starting now?",
+    "stem": "다음 대화의 빈칸에 들어갈 말이 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T06:41:45.421Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T06:41:47.249Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T06:41:47.249Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T04:09:29.760Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "(A) He's - (B) his",
+      "1": "(A) His - (B) his",
+      "2": "(A) He's - (B) he's",
+      "3": "(A) His - (B) he's",
+      "4": "(A) He - (B) his"
+    },
+    "expl": "핵심 규칙: It's·They're·He's·She's·We're·You're는 ‘주어 + be동사’의 줄임말이고, its·their·his·her·our·your는 명사 앞에 쓰는 소유격이다.\n풀이 순서: ① (A) 뒤에 동사가 없다. ‘주어 + be동사’의 줄임말이 들어가야 문장이 된다: He's(= He is). → ② (B) 뒤에는 명사가 있다. 소유격이 들어간다: his. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n② [오답] (A) 빈칸 His: 뒤에 동사가 없어 ‘그는 ~이다’의 He's(He is)를 쓴다. 따라서 오답이다.\n③ [오답] (B) 빈칸 he's: 명사 older brother 앞이라 소유격 his를 쓴다. 따라서 오답이다.\n④ [오답] (A) 빈칸 His: 뒤에 동사가 없어 ‘그는 ~이다’의 He's(He is)를 쓴다, (B) 빈칸 he's: 명사 older brother 앞이라 소유격 his를 쓴다. 따라서 오답이다.\n⑤ [오답] (A) 빈칸 He: 뒤에 동사가 없어 ‘그는 ~이다’의 He's(He is)를 쓴다. 따라서 오답이다.",
+    "passage": "- (<u>    A    </u>) Tom, my new classmate from Busan.\n- I know (<u>    B    </u>) older brother very well.",
+    "stem": "빈칸 (A)와 (B)에 들어갈 말이 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:11:20.321Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:11:28.706Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:09:29.760Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:09:26.173Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:09:29.760Z",
+      "what": "확인 완료"
+    }
+  }
+}

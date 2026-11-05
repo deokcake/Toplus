@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-21 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-23T01:47:20.789Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "I remember to visit that museum.",
+      "1": "I remembered visiting that museum.",
+      "2": "I remember visiting that museum.",
+      "3": "I remember I will visit that museum.",
+      "4": "I remember visit that museum."
+    },
+    "expl": "핵심 규칙: remember + 동명사는 ‘(과거에) ~한 것을 기억하다’, remember + to부정사는 ‘(앞으로) ~할 것을 기억하다’라는 뜻이다. 주절의 시제도 우리말(기억한다/기억했다)에 맞춘다.\n풀이 순서: ① 우리말 ‘방문했던 것을 기억한다’은 이미 한 일을 지금 기억한다는 뜻이다. → ② 이미 한 일을 기억할 때는 remember + 동명사(visiting)를 쓴다. remember + to부정사는 ‘앞으로 할 일을 기억하다’라 뜻이 다르다. → ③ remember의 시제가 우리말과 다르거나 뒤에 동사원형·will을 쓴 보기를 지운다. 정답은 I remember visiting that museum.\n문장별 판정:\n정답 판단: remember + 동명사로 과거에 한 일을 지금 기억한다는 우리말 뜻에 맞는다. 정답은 ③이다.\n선택지 분석:\n① [오답] remember + to부정사는 앞으로 할 일을 기억한다는 뜻이라 우리말과 다르다.\n② [오답] remembered는 과거에 기억했다는 뜻이라 우리말 ‘기억한다’와 시제가 다르다.\n③ [정답] remember + 동명사로 과거에 한 일을 지금 기억한다는 우리말 뜻에 맞는다. 정답이다.\n④ [오답] I will …은 앞으로 할 일을 나타내 우리말 ‘~했던 것’과 맞지 않는다.\n⑤ [오답] remember 뒤에 동사원형을 바로 쓸 수 없다. 과거에 한 일을 기억한다는 뜻이면 동명사를 써야 한다.",
+    "passage": "나는 그 박물관을 방문했던 것을 기억한다.",
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-07T03:04:53.458Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T07:41:05.520Z",
+      "text": "오류가 반복된다. 차라리 영어 단어를 제시하지 않고, 한국어 문장만 제공한 뒤 그에 맞는 적절한 영어 문장을 고르는 유형으로 기준 문항과 변형 문항 모두 수정하는 것이 적절함."
+    }
+  },
+  "tab": "765wette",
+  "updatedAt": "2026-10-23T01:47:20.789Z",
+  "verdict": null,
+  "verdictAt": "2026-10-23T01:47:18.147Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T01:47:20.789Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T06:25:57.348Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Should I take an umbrella?",
+      "1": "Does Jane has to work?",
+      "2": "Can your brother swim?",
+      "3": "Do you have to go now?",
+      "4": "Must we be quiet here?"
+    },
+    "expl": "핵심 규칙: can, may, must, should는 주어 앞에 두어 의문문을 만들고 뒤에 동사원형을 쓴다. have to는 Do/Does + 주어 + have to + 동사원형?으로 묻고, 3인칭 단수 주어에는 Does를 쓴다.\n풀이 순서: ① Do/Does로 시작한 문장은 주어와 맞는지, 뒤가 have to인지 본다. → ② Can/May/Must/Should로 시작한 문장은 뒤의 동사가 원형인지 본다. → ③ 선택지 ②는 Does 뒤에 has to를 썼다. 정답은 ②.\n문장별 판정:\n정답 판단: Does 뒤에는 has to가 아니라 have to를 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 조동사를 주어 앞에 두고 동사원형을 써서 의문문을 바르게 만들었으므로 오답이다.\n② [정답] Does 뒤에는 has to가 아니라 have to를 써야 하므로 정답이다.\n③ [오답] 조동사를 주어 앞에 두고 동사원형을 써서 의문문을 바르게 만들었으므로 오답이다.\n④ [오답] 주어에 맞는 Do/Does와 have to로 의문문을 바르게 만들었으므로 오답이다.\n⑤ [오답] 조동사를 주어 앞에 두고 동사원형을 써서 의문문을 바르게 만들었으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T06:25:53.984Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T06:25:57.348Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T06:25:57.348Z",
+      "what": "확인 완료"
+    }
+  }
+}

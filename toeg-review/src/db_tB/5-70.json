@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:05:19.313Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "'two dollar'는 'two dollars'로, 'one cents'는 'one cent'로 둘 다 고쳐야 한다.",
+      "1": "'two dollar'만 'two dollars'로 고치면 된다.",
+      "2": "'one cents'만 'one cent'로 고치면 된다.",
+      "3": "'It'은 값을 나타낼 수 없으므로 'The price'로만 써야 한다.",
+      "4": "'one cents'는 아주 작은 돈이므로 빼고 'two dollar'라고만 써야 한다."
+    },
+    "expl": "핵심 규칙: 금액은 1이면 단수(one dollar, one cent), 2 이상이면 복수(two dollars, fifty cents)로 쓴다. 달러와 센트 사이에는 and를 쓸 수 있다.\n풀이 순서: ① 밑줄 친 부분을 수와 단위로 나눈다: two + dollar / one + cents. → ② 수가 1이면 단수, 2 이상이면 복수인지 하나씩 본다. two dollar → two dollars, one cents → one cent. → ③ 발문이 ‘모두’ 찾으라고 했으므로 틀린 곳을 빠짐없이 고친 것을 고른다. 정답은 ①.\n문장별 판정:\n정답 판단: 2달러는 복수 dollars, 1센트는 단수 cent로 두 군데를 모두 바르게 고쳤으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 2달러는 복수 dollars, 1센트는 단수 cent로 두 군데를 모두 바르게 고쳤으므로 정답이다.\n② [오답] one cents도 1센트라 one cent로 고쳐야 하므로 오답이다.\n③ [오답] two dollar도 2달러라 two dollars로 고쳐야 하므로 오답이다.\n④ [오답] It으로 앞의 공책을 받아 값을 말할 수 있고, 밑줄 친 부분과도 관계없으므로 오답이다.\n⑤ [오답] 1센트를 빼면 금액이 달라지고, two dollar도 틀린 표현이므로 오답이다.",
+    "passage": "Jisu needs a notebook for school. She finds a nice one. It is <u>two dollar and one cents</u>. She buys it right away.",
+    "stem": "다음 지문에서 밑줄 친 부분의 어법상 틀린 점을 모두 찾아 바르게 고쳐 설명한 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T08:05:16.315Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T08:05:19.313Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T08:05:19.313Z",
+      "what": "확인 완료"
+    }
+  }
+}

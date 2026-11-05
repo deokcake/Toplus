@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:47:06.919Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "(A) to be - (B) to have been",
+      "1": "(A) to have been - (B) to be",
+      "2": "(A) to be - (B) to be",
+      "3": "(A) to being - (B) to have being",
+      "4": "(A) to have been - (B) to have been"
+    },
+    "expl": "핵심 규칙: to부정사가 나타내는 때가 seem/appear와 같으면 단순부정사(to be), 그보다 앞서면 완료부정사(to have been)를 쓴다.\n풀이 순서: ① 문장마다 때를 알려 주는 말을 찾는다: (A) years ago, (B) now. → ② seem/appear(현재)와 같은 때의 일은 to be, 그보다 앞선 때의 일은 to have been으로 쓴다. → ③ 정답은 (A) to have been - (B) to be.\n문장별 판정:\n정답 판단: (A)는 years ago가 있어 앞선 일이므로 to have been, (B)는 now가 있어 지금의 일이므로 to be가 알맞다.\n선택지 분석:\n① [오답] (A) to be: 맞지 않는다. (A) 자리의 때에 맞는 부정사를 써야 한다. (B) to have been: 맞지 않는다. (B) 자리의 때에 맞는 부정사를 써야 한다. 따라서 오답이다.\n② [정답] (A)는 years ago가 있어 앞선 일이므로 to have been, (B)는 now가 있어 지금의 일이므로 to be가 알맞다. 모든 자리가 알맞으므로 정답이다.\n③ [오답] (A) to be: 맞지 않는다. (A) 자리의 때에 맞는 부정사를 써야 한다. 따라서 오답이다.\n④ [오답] (A) to being: 맞지 않는다. (A) 자리의 때에 맞는 부정사를 써야 한다. (B) to have being: 맞지 않는다. (B) 자리의 때에 맞는 부정사를 써야 한다. 따라서 오답이다.\n⑤ [오답] (B) to have been: 맞지 않는다. (B) 자리의 때에 맞는 부정사를 써야 한다. 따라서 오답이다.",
+    "passage": "• The old building seems (<u>      A      </u>) crowded with shoppers many years ago.\n• Sadly, it seems (<u>      B      </u>) almost empty and quiet now.",
+    "stem": "다음 빈칸 (A)와 (B)에 들어갈 말이 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T06:58:42.285Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T06:58:48.051Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:47:06.919Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:46:43.374Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:47:06.919Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:43:04.593Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "이유를 묻는 Why가 문장 맨 앞에 와서 is로 고쳐야 한다.",
+      "1": "주어가 3인칭 단수인 class이기 때문에 is로 고쳐야 한다.",
+      "2": "late for class가 과거의 일이므로 일반동사 의문문처럼 did로 고쳐야 한다.",
+      "3": "의문문에서는 be동사를 쓸 수 없으므로 do로 고쳐야 한다.",
+      "4": "주어 the students가 3인칭 복수이므로 were로 고쳐야 한다."
+    },
+    "expl": "핵심 규칙: be동사 과거형은 주어가 I·3인칭 단수면 was, you·복수면 were를 쓴다. 의문사(Why, Where, How)나 형용사는 be동사의 형태를 정하지 않고, 일반동사가 없는 문장이므로 did로 바꾸지 않는다.\n풀이 순서: ① 의문문이므로 주어는 be동사 뒤에 있다: the students. → ② 복수 주어이므로 were가 맞다. → ③ 이 이유를 말한 것은 ⑤.\n문장별 판정:\n정답 판단: 복수 주어의 be동사 과거형은 were이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 의문사는 be동사의 형태를 정하지 않고, yesterday의 일이라 과거형을 써야 하므로 오답이다.\n② [오답] 주어는 class가 아니라 the students이고, yesterday가 있어 과거형을 써야 하므로 오답이다.\n③ [오답] 일반동사가 없는 be동사 의문문이라 did를 쓰지 않으므로 오답이다.\n④ [오답] late는 형용사라 be동사가 필요하고 의문문에도 be동사를 쓰므로 오답이다.\n⑤ [정답] 복수 주어의 be동사 과거형은 were이므로 정답이다.",
+    "passage": "Why <u>was</u> the students late for class yesterday?\n위 문장에서 was는 틀린 표현이다. 그 이유는 (                                    )",
+    "stem": "다음은 제시된 문장의 오류를 고치는 과정이다. 빈칸에 들어갈 설명으로 옳은 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T07:43:03.699Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T07:43:04.593Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:43:04.593Z",
+      "what": "확인 완료"
+    }
+  }
+}

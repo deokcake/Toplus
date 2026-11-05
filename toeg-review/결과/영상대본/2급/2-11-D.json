@@ -1,0 +1,180 @@
+{
+ "key": "2-11",
+ "type": "D",
+ "grade": 2,
+ "chapter": "CH 2 시제",
+ "title": "last April과 since 뒤의 시제",
+ "total_sec": 133,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "2급 · CH 2 시제 · 11번 · D 유형\n\n이 문제는 시간 표현을 보고 두 빈칸에 알맞은 시제를 짝지어 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 2 시제 · 11번 · D 유형",
+     "이 문제는 시간 표현을 보고 두 빈칸에 알맞은 시제를 짝지어 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 2, 11번 D 유형. 이 문제는 시간 표현을 보고 두 빈칸에 알맞은 시제를 짝지어 고르는 문제예요.",
+   "caption": "last April과 since 뒤의 시제"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 22,
+   "screen": {
+    "text": "다음 대화의 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.\n\nA: We _____ the museum last April.\nB: I _____ there twice since I moved here.\n\n① visited — went\n② have visited — have been\n③ visited — have been\n④ visited — go\n⑤ have visited — went",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 대화의 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+     "A: We _____ the museum last April.",
+     "B: I _____ there twice since I moved here.",
+     "① visited — went",
+     "② have visited — have been",
+     "③ visited — have been",
+     "④ visited — go",
+     "⑤ have visited — went"
+    ]
+   },
+   "narration": "다음 대화의 빈칸에 들어갈 말을 바르게 짝지은 것을 고르세요. We 빈칸 the museum last April, I 빈칸 there twice since I moved here. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n이미 끝난 과거의 때 (yesterday, last ~) → 과거형\n과거부터 지금까지 이어지는 기간 (since + 시작한 때) → 현재완료\n현재완료 = have/has + 과거분사 (주어가 3인칭 단수면 has)\n끝난 과거의 때를 나타내는 말과 현재완료는 함께 쓰지 않아요\n예) I have lived here since last year. (나는 작년부터 지금까지 여기 살고 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "이미 끝난 과거의 때 (yesterday, last ~) → 과거형",
+     "과거부터 지금까지 이어지는 기간 (since + 시작한 때) → 현재완료",
+     "현재완료 = have/has + 과거분사 (주어가 3인칭 단수면 has)",
+     "끝난 과거의 때를 나타내는 말과 현재완료는 함께 쓰지 않아요",
+     "예) I have lived here since last year. (나는 작년부터 지금까지 여기 살고 있어요.)"
+    ]
+   },
+   "narration": "yesterday나 last week처럼 이미 끝난 과거의 때에는 과거형을 쓰고, 현재완료는 쓰지 않아요. since 뒤에 시작한 때를 써서, 그때부터 지금까지 이어지는 기간을 말할 때는 현재완료를 써요. 현재완료는 have나 has 뒤에 과거분사를 써요. 예를 들어 I have lived here since last year. 나는 작년부터 지금까지 여기 살고 있어요.",
+   "caption": "끝난 과거 vs 지금까지"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 대화의 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.\n\nA: We _____ the museum last April.\nB: I _____ there twice since I moved here.\n\n① visited — went\n② have visited — have been\n③ visited — have been\n④ visited — go\n⑤ have visited — went",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "last April"
+      ],
+      "strike": [
+       "② have visited — have been",
+       "⑤ have visited — went"
+      ],
+      "note": "last April = 이미 끝난 과거 → 과거형 visited. have visited로 시작하는 ②, ⑤ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "since I moved here"
+      ],
+      "strike": [
+       "① visited — went",
+       "④ visited — go"
+      ],
+      "note": "since I moved here = 이사 온 때부터 지금까지 (moved는 시작한 때라 과거형) → 빈칸은 현재완료 have been. went, go인 ①, ④ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ visited — have been"
+      ],
+      "strike": [],
+      "note": "남는 것: ③ visited — have been"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 첫 빈칸 문장의 last April은 이미 끝난 과거라서 과거형 visited를 쓰니까, have visited로 시작하는 2번과 5번을 지워요. 둘째, since I moved here는 이사 온 때부터 지금까지라는 기간이에요. moved는 시작한 때를 말해서 과거형이고, 빈칸에는 현재완료 have been을 쓰니까, went와 go를 쓴 1번과 4번도 지워요. 셋째, 남는 3번을 넣으면 I have been there twice since I moved here, 이사 온 뒤로 거기에 두 번 가 봤다는 뜻이에요.",
+   "caption": "last April → visited, since → have been"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 22,
+   "screen": {
+    "text": "① visited — went  ✗  since I moved here와 과거형 went는 함께 쓰지 않아요\n② have visited — have been  ✗  last April과 현재완료 have visited는 함께 못 써요\n③ visited — have been  ✓  last April은 과거형, since I moved here는 현재완료\n④ visited — go  ✗  현재형 go는 지금까지 있었던 일을 나타내지 못해요\n⑤ have visited — went  ✗  have visited, went 둘 다 시제가 틀려요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① visited — went  ✗  since I moved here와 과거형 went는 함께 쓰지 않아요",
+     "② have visited — have been  ✗  last April과 현재완료 have visited는 함께 못 써요",
+     "③ visited — have been  ✓  last April은 과거형, since I moved here는 현재완료",
+     "④ visited — go  ✗  현재형 go는 지금까지 있었던 일을 나타내지 못해요",
+     "⑤ have visited — went  ✗  have visited, went 둘 다 시제가 틀려요"
+    ]
+   },
+   "narration": "정답은 3번이에요. 1번은 since I moved here가 있는데 과거형 went를 써서 틀렸어요. 2번은 have been은 맞지만, last April과 현재완료 have visited를 함께 써서 틀렸어요. 4번 go는 현재형이라, 지금까지 있었던 일을 나타내지 못해요.",
+   "caption": "정답 ③ visited — have been"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ③ visited — have been\n\n끝난 과거의 때 → 과거형  /  since + 시작한 때 (지금까지) → 현재완료",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ visited — have been",
+     "끝난 과거의 때 → 과거형  /  since + 시작한 때 (지금까지) → 현재완료"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 이미 끝난 과거의 때는 과거형, since처럼 지금까지 이어지는 기간은 현재완료를 써요.",
+   "caption": "끝난 과거는 과거형, since는 현재완료"
+  }
+ ],
+ "source": {
+  "stem": "다음 대화의 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+  "passage": "A: We _____ the museum last April.\nB: I _____ there twice since I moved here.",
+  "c": [
+   "visited — went",
+   "have visited — have been",
+   "visited — have been",
+   "visited — go",
+   "have visited — went"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: yesterday, last ~처럼 끝난 과거 시점에는 과거형을 쓰고, since ~, for ~ now처럼 과거부터 지금까지 이어지는 기간에는 현재완료(have/has + 과거분사)를 쓴다.\n풀이 순서: ① 첫째 빈칸 문장의 시간 표현(last April)은 끝난 과거 시점이다. 과거형(visited)을 쓰고 현재완료는 쓸 수 없다. → ② 둘째 빈칸 문장의 시간 표현(since I moved here)은 과거부터 지금까지 이어지는 기간이다. 현재완료(have been)를 쓴다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: last April에는 과거형(visited), since I moved here에는 현재완료(have been)를 쓰므로 정답은 ③이다.\n선택지 분석:\n① [오답] 지금까지 이어지는 기간(since I moved here)에는 went가 아니라 현재완료를 써야 하므로 오답이다.\n② [오답] 끝난 과거 시점(last April)과 현재완료(have visited)를 함께 쓸 수 없으므로 오답이다.\n③ [정답] last April에는 과거형(visited), since I moved here에는 현재완료(have been)를 쓰므로 정답이다.\n④ [오답] 지금까지 이어지는 기간(since I moved here)에는 go가 아니라 현재완료를 써야 하므로 오답이다.\n⑤ [오답] 두 빈칸 모두 시제가 맞지 않으므로 오답이다."
+ }
+}

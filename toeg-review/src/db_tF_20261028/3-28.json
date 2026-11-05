@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T12:16:27.497Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "breakfast",
+      "1": "the breakfast",
+      "2": "some breakfasts",
+      "3": "breakfasts",
+      "4": "any breakfasts"
+    },
+    "expl": "핵심 규칙: breakfast, lunch, dinner 같은 식사 이름은 보통 관사 없이 쓰고 복수형으로 쓰지 않는다.\n풀이 순서: ① 밑줄(a breakfast)의 명사는 식사 이름이다. → ② 식사 이름(breakfast, lunch, dinner)은 관사 없이, 복수형으로 만들지 않고 쓴다. → ③ 관사도 -s도 없는 breakfast가 정답이다.\n문장별 판정:\n정답 판단: breakfast: 일상적인 식사 이름은 관사 없이 단수로 쓰므로 정답은 ①이다.\n선택지 분석:\n① [정답] breakfast: 일상적인 식사 이름은 관사 없이 단수로 쓰므로 정답이다.\n② [오답] the breakfast: 식사 이름 앞에는 the도 쓰지 않으므로 오답이다.\n③ [오답] some breakfasts: 식사 이름은 복수형으로 쓰지 않으므로 오답이다.\n④ [오답] breakfasts: 식사 이름은 복수형으로 쓰지 않으므로 오답이다.\n⑤ [오답] any breakfasts: 식사 이름은 복수형으로 쓰지 않으므로 오답이다.",
+    "passage": "Jane: Did you eat <u>a breakfast</u> before you came to school?\nTom: No, I got up too late this morning.",
+    "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오."
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T12:16:27.497Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T12:16:27.497Z",
+      "what": "확인 완료"
+    }
+  }
+}

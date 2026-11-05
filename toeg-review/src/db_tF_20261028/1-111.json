@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T08:49:12.263Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Grandma always said that time is money.",
+      "1": null,
+      "2": "The guide told us that the Titanic sank in 1912.",
+      "3": "Tom said that he was going to the library.",
+      "4": "Jina said that she would help me the next day."
+    },
+    "expl": "핵심 규칙: 주절이 과거이면 종속절도 과거·과거완료·would·could로 시제를 맞춘다. 단, 일반적 진리·속담·습관은 현재형, 역사적 사실은 과거형을 그대로 쓴다.\n풀이 순서: ① 문장마다 주절의 동사가 과거인지 확인하고 that절의 시제와 견준다. → ② 주절이 과거이면 that절은 과거·과거완료(would, could)여야 한다. 진리는 현재시제, 역사적 사실은 과거시제로 써도 된다. → ③ 선택지 ②는 주절이 과거인데 that절에 현재완료 has moved를 썼다(had moved). ①의 격언과 ③의 역사적 사실은 예외라 옳다.\n문장별 판정:\n정답 판단: 주절이 과거(knew)인데 현재완료를 써서 틀렸다. had moved로 써야 한다. 정답은 ②이다.\n선택지 분석:\n① [오답] 속담은 주절이 과거여도 현재형을 쓴다. 오답이다.\n② [정답] 주절이 과거(knew)인데 현재완료를 써서 틀렸다. had moved로 써야 한다. 정답이다.\n③ [오답] 역사적 사실은 주절과 관계없이 과거형을 쓴다. 오답이다.\n④ [오답] 주절(과거)에 맞춰 시제를 바르게 맞췄다. 오답이다.\n⑤ [오답] 주절(과거)에 맞춰 시제를 바르게 맞췄다. 오답이다.",
+    "passage": null,
+    "stem": "다음 중 어법상 어색한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T08:49:04.879Z"
+  },
+  "tab": "6l39qm2m",
+  "updatedAt": "2026-10-26T08:49:12.263Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T08:49:12.263Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-21T06:25:20.042Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "2개",
+      "1": "3개",
+      "2": "4개",
+      "3": "5개",
+      "4": null
+    },
+    "expl": "핵심 규칙: 분사구문의 의미상 주어가 주절의 주어와 같은지, 능동·수동 관계와 먼저 일어난 일(having + 과거분사)을 확인한다. with + 목적어 뒤에는 목적어가 한 동작이면 현재분사, 받은 상태면 과거분사를 쓴다.\n풀이 순서: ① 문장마다 분사와 그 의미상 주어의 관계(능동·수동)를 확인하고, 분사구문의 숨은 주어가 주절의 주어와 같은지 본다. → ② f)만 틀렸다. Tom이 놀란 것이므로 Surprising이 아니라 Surprised여야 한다. 나머지 다섯 문장은 옳다. → ③ 옳은 문장을 세면 5개이다.\n문장별 판정:\na) 옳음: 부정 분사구문 Not knowing이 주어 the tourists와 맞다.\nb) 옳음: 벽이 칠해진 것이 먼저이므로 Having been painted이다.\nc) 옳음: 누나가 피곤한 상태이므로 과거분사 Tired이다.\nd) 옳음: 눈이 스스로 반짝이므로 with + 목적어 + 현재분사이다.\ne) 옳음: 집을 나선 사람과 주절 주어 I가 같다.\nf) 틀림: Tom이 놀란 것이므로 Surprised at the news가 되어야 한다.\n정답 판단: 문법적으로 옳은 문장은 5개이다.\n선택지 분석:\n① [오답] 문법적으로 옳은 문장은 5개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n② [오답] 문법적으로 옳은 문장은 5개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n③ [오답] 문법적으로 옳은 문장은 5개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n④ [정답] 문법적으로 옳은 문장은 5개이다. 이 보기의 5개는 실제 개수와 일치한다.\n⑤ [오답] 문법적으로 옳은 문장은 5개이다. 이 보기의 6개는 실제 개수와 일치하지 않는다.",
+    "passage": "a) Not knowing the way, the tourists asked a police officer.\nb) Having been painted yesterday, the wall is still wet.\nc) Tired from the long trip, my sister fell asleep on the sofa.\nd) With her eyes shining, the girl opened the gift.\ne) Leaving the house, I forgot to lock the door.\nf) Surprising at the news, Tom dropped his cup.",
+    "stem": "다음 중 문법적으로 옳은 문장의 개수를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T06:24:04.880Z"
+  },
+  "tab": "fi3f83jb",
+  "updatedAt": "2026-10-21T06:25:20.042Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T06:25:20.042Z",
+      "what": "확인 완료"
+    }
+  }
+}

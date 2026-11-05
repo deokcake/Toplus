@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T04:02:49.729Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "The store opens <u>in 9 a.m.</u>",
+      "1": "My birthday is <u>at May 3rd</u>.",
+      "2": "We have a test <u>in Friday</u>.",
+      "3": "The movie starts <u>at 8 o'clock</u>.",
+      "4": "It often snows <u>on December</u>."
+    },
+    "expl": "핵심 규칙: 시각·정오·새벽 같은 한 시점은 at, 요일·날짜·특정한 날은 on, 월·계절·연도·아침/저녁은 in을 쓴다. during 뒤에는 명사(구)가, while 뒤에는 주어 + 동사가 온다.\n풀이 순서: ① 밑줄마다 전치사 뒤의 시간 표현이 시각, 요일·날짜, 월·계절·연도, 기간 가운데 무엇인지 가른다. → ② 시각은 at, 요일·날짜는 on, 월·계절·연도는 in, 특정 기간(명사)은 during이다. 절(주어 + 동사) 앞에는 while을 쓴다. → ③ 선택지 ④만 맞다(시각인 8 o'clock 앞에 at).\n문장별 판정:\n정답 판단: 시각 앞에 at을 바르게 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 시각에는 at을 써야 하므로 오답이다.\n② [오답] 날짜에는 on을 써야 하므로 오답이다.\n③ [오답] 요일에는 on을 써야 하므로 오답이다.\n④ [정답] 시각 앞에 at을 바르게 썼으므로 정답이다.\n⑤ [오답] 월에는 in을 써야 하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 밑줄 친 부분이 어법상 옳은 문장을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:02:24.898Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:02:49.729Z",
+      "what": "확인 완료"
+    }
+  }
+}

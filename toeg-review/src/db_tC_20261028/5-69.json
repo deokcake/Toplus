@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T02:40:22.634Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "twelve — thousand",
+      "1": "twenty — hundred",
+      "2": null,
+      "3": "two — thousand",
+      "4": "twenty — million"
+    },
+    "expl": "핵심 규칙: 큰 수는 세 자리씩 끊어 읽는다. 34,200은 thirty-four thousand two hundred처럼 앞의 두 자리를 십 단위(twenty, forty, sixty …)로 읽고 thousand를 붙인다. hundred·thousand에는 -s를 붙이지 않는다.\n풀이 순서: ① 쉼표에서 끊는다: 21 / 500. → ② 쉼표 앞의 수를 읽는다: 21은 twenty-one. → ③ 쉼표 자리는 천 단위이므로 thousand다. 정답은 twenty — thousand.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ③이다.\n선택지 분석:\n① [오답] (A) twelve: 21의 앞자리는 십 단위 twenty로 읽는다. 따라서 오답이다.\n② [오답] (B) hundred: 천 단위는 thousand로 읽는다. 따라서 오답이다.\n③ [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n④ [오답] (A) two: 21의 앞자리는 십 단위 twenty로 읽는다. 따라서 오답이다.\n⑤ [오답] (B) million: 천 단위는 thousand로 읽는다. 따라서 오답이다.",
+    "passage": "21,500은 (   A   )-one (   B   ) five hundred라고 읽습니다.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:40:20.470Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-22T02:40:22.634Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:40:22.634Z",
+      "what": "확인 완료"
+    }
+  }
+}

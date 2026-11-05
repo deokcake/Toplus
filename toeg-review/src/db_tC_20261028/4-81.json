@@ -1,0 +1,44 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:34:04.120Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "during",
+      "1": "for",
+      "2": "on",
+      "3": "in",
+      "4": "at"
+    },
+    "expl": "핵심 규칙: 정확한 시각과 정오·자정에는 at, 요일·날짜에는 on, 월·연도·계절에는 in을 쓴다.\n풀이 순서: ① 빈칸 뒤의 때를 나타내는 말이 무엇인지 본다: noon(정오)은 한 시점. → ② 시각은 at, 요일·날짜는 on, 달·계절·연도는 in이다. → ③ 정답은 at.\n문장별 판정:\n정답 판단: 정오(noon) 같은 시각에는 at을 쓰므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] during은 ‘~ 동안’이라 시각 앞에 쓰지 않으므로 오답이다.\n② [오답] for는 기간의 길이에 쓰므로 오답이다.\n③ [오답] on은 요일·날짜에 쓰므로 오답이다.\n④ [오답] in은 월·연도·계절에 쓰므로 오답이다.\n⑤ [정답] 정오(noon) 같은 시각에는 at을 쓰므로 정답이다.",
+    "passage": "우리 동네 빵집은 매일 정오에 문을 연다.\nThe bakery on our street opens _____ noon every day.",
+    "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:40:59.472Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T06:23:13.529Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:34:04.120Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:34:00.065Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:41:00.142Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:34:04.120Z",
+      "what": "확인 완료"
+    }
+  }
+}

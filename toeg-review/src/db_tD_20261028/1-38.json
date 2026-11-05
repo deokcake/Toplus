@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T06:55:17.885Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "had given Tom",
+      "1": "is given Tom",
+      "2": "was giving Tom",
+      "3": "has given Tom",
+      "4": "was given to Tom"
+    },
+    "expl": "핵심 규칙: 4형식 문장의 사물 목적어를 주어로 수동태를 만들면 be + 과거분사 뒤 사람 앞에 전치사(to)를 쓴다. 과거 문장이면 was/were를 쓴다.\n풀이 순서: ① 능동문의 구조를 나눈다: gave(동사) + Tom(사람) + an award(사물). → ② 사물 목적어(an award)가 주어가 되면 동사는 과거의 수동태(was + 과거분사)가 되고, 남은 사람 목적어 앞에는 to를 붙인다. → ③ 능동형(have/had + 과거분사, was + -ing)과 현재형을 지운다. 정답은 was given to Tom.\n문장별 판정:\n정답 판단: 과거 능동문이므로 was given, 사람 앞에는 to를 붙인 was given to Tom가 알맞다. 정답은 ⑤이다.\n선택지 분석:\n① [오답] had given Tom: 과거완료 능동형이라 수동 관계를 나타내지 못한다.\n② [오답] is given Tom: 현재 수동이라 과거 문장의 시제와 맞지 않는다.\n③ [오답] was giving Tom: 과거진행 능동형이라 수동 관계를 나타내지 못한다.\n④ [오답] has given Tom: 현재완료 능동형이라 주어(The award)가 받은 것이 되는 수동 관계를 나타내지 못한다.\n⑤ [정답] 과거 능동문이므로 was given, 사람 앞에는 to를 붙인 was given to Tom가 알맞다. 정답이다.",
+    "passage": "The company gave Tom an award for his service.\n→ The award (<u>        </u>) for his service by the company.",
+    "stem": "다음 문장을 ‘The award’를 주어로 하는 수동태 문장으로 바꿀 때, 빈칸에 들어갈 말로 가장 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T06:55:06.333Z"
+  },
+  "tab": "sj53vmnt",
+  "updatedAt": "2026-10-23T06:55:17.885Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T06:55:17.885Z",
+      "what": "확인 완료"
+    }
+  }
+}

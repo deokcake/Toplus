@@ -1,0 +1,180 @@
+{
+ "key": "6-10",
+ "type": "D",
+ "grade": 6,
+ "chapter": "CH 1 명사와 관사",
+ "title": "도시 이름 Seoul과 tourists의 표기",
+ "total_sec": 132,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "6급 · CH 1 명사와 관사 · 10번 · D 유형\n\n이 문제는 대화 속 Seoul과 tourists를 바르게 쓰는 법에 대한 옳은 설명을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 1 명사와 관사 · 10번 · D 유형",
+     "이 문제는 대화 속 Seoul과 tourists를 바르게 쓰는 법에 대한 옳은 설명을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 1, 10번 D 유형. 이 문제는 대화 속 Seoul과 tourists를 바르게 쓰는 법에 대한 옳은 설명을 고르는 문제예요.",
+   "caption": "Seoul과 tourists의 표기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 대화를 읽고, 밑줄 친 (A)와 (B)의 표기법에 대한 설명으로 옳은 것을 고르세요.\n\nLeo: Is (A)<u>Seoul</u> in Korea?\nMina: Yes. Many (B)<u>tourists</u> visit the city.\n\n① (A)는 보통명사이므로 소문자로 쓴다.\n② (B)는 한 명을 뜻하므로 tourist로 써야 한다.\n③ (A)의 Seoul은 도시 이름인 고유명사이므로 대문자로 시작한다.\n④ (A)와 (B)는 모두 복수명사이다.\n⑤ (B)는 도시 이름이므로 Tourists로 써야 한다.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 대화를 읽고, 밑줄 친 (A)와 (B)의 표기법에 대한 설명으로 옳은 것을 고르세요.",
+     "Leo: Is (A)<u>Seoul</u> in Korea?",
+     "Mina: Yes. Many (B)<u>tourists</u> visit the city.",
+     "① (A)는 보통명사이므로 소문자로 쓴다.",
+     "② (B)는 한 명을 뜻하므로 tourist로 써야 한다.",
+     "③ (A)의 Seoul은 도시 이름인 고유명사이므로 대문자로 시작한다.",
+     "④ (A)와 (B)는 모두 복수명사이다.",
+     "⑤ (B)는 도시 이름이므로 Tourists로 써야 한다."
+    ]
+   },
+   "narration": "다음 대화를 읽고, 밑줄 친 에이와 비의 표기법에 대한 설명으로 옳은 것을 고르세요. Is Seoul in Korea? Yes. Many tourists visit the city. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n사람, 도시, 나라, 요일, 달, 언어, 기념일의 이름 = 고유명사\n고유명사는 문장 어디에서나 첫 글자를 대문자로 (Tom, Busan, Japan)\n이름이 아닌 보통명사는 문장 맨 앞이 아니면 소문자로 (city, student)\n셀 수 있는 명사가 둘 이상(two, three, many 뒤) → 복수형: 대부분 + s (student → students)\n예) Three students live in Busan. (학생 세 명이 부산에 살아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "사람, 도시, 나라, 요일, 달, 언어, 기념일의 이름 = 고유명사",
+     "고유명사는 문장 어디에서나 첫 글자를 대문자로 (Tom, Busan, Japan)",
+     "이름이 아닌 보통명사는 문장 맨 앞이 아니면 소문자로 (city, student)",
+     "셀 수 있는 명사가 둘 이상(two, three, many 뒤) → 복수형: 대부분 + s (student → students)",
+     "예) Three students live in Busan. (학생 세 명이 부산에 살아요.)"
+    ]
+   },
+   "narration": "사람, 도시, 나라, 요일, 달, 언어, 기념일의 이름은 고유명사라서, 문장 어디에 있든 첫 글자를 대문자로 써요. city나 student처럼 이름이 아닌 보통명사는 문장 맨 앞이 아니면 소문자로 써요. 셀 수 있는 명사가 two, three, many 같은 말 뒤에서 둘 이상을 나타내면 복수형을 쓰고, 대부분 s를 붙여요. 예를 들어 Three students live in Busan, 학생 세 명이 부산에 살아요. Busan은 대문자로 쓰고, student는 students가 돼요.",
+   "caption": "고유명사는 대문자, 보통명사는 소문자"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 대화를 읽고, 밑줄 친 (A)와 (B)의 표기법에 대한 설명으로 옳은 것을 고르세요.\n\nLeo: Is (A)<u>Seoul</u> in Korea?\nMina: Yes. Many (B)<u>tourists</u> visit the city.\n\n① (A)는 보통명사이므로 소문자로 쓴다.\n② (B)는 한 명을 뜻하므로 tourist로 써야 한다.\n③ (A)의 Seoul은 도시 이름인 고유명사이므로 대문자로 시작한다.\n④ (A)와 (B)는 모두 복수명사이다.\n⑤ (B)는 도시 이름이므로 Tourists로 써야 한다.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "(A)<u>Seoul</u>"
+      ],
+      "strike": [
+       "① (A)는 보통명사이므로 소문자로 쓴다.",
+       "④ (A)와 (B)는 모두 복수명사이다."
+      ],
+      "note": "(A) Seoul = 도시 하나의 이름 = 고유명사 → 대문자, 복수명사 아님. ①, ④를 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "Many (B)<u>tourists</u>"
+      ],
+      "strike": [
+       "② (B)는 한 명을 뜻하므로 tourist로 써야 한다.",
+       "⑤ (B)는 도시 이름이므로 Tourists로 써야 한다."
+      ],
+      "note": "Many (B) tourists → 관광객이라는 보통명사라 소문자, Many 뒤라 복수형. ②, ⑤를 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ (A)의 Seoul은 도시 이름인 고유명사이므로 대문자로 시작한다."
+      ],
+      "strike": [],
+      "note": "남는 것은 ③ → Seoul은 도시 이름이라 대문자로 시작한다."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, Is Seoul in Korea, 서울은 한국에 있나요? Seoul은 도시 하나의 이름인 고유명사라 대문자로 쓰고 복수명사도 아니니까, 1번과 4번을 지워요. 둘째, Many tourists visit the city, 많은 관광객이 그 도시를 찾아와요. tourists는 도시 이름이 아니라 관광객이라는 보통명사라 소문자로 쓰고, Many 뒤라서 여러 명을 뜻하는 복수형이 맞으니까 2번과 5번을 지워요. 셋째, 남는 3번이 도시 이름 Seoul을 대문자로 시작한다고 바르게 설명했어요.",
+   "caption": "Seoul 대문자 → Many tourists"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 30,
+   "screen": {
+    "text": "① (A)는 보통명사이므로 소문자로 쓴다.  ✗  Seoul은 보통명사가 아닌 도시 이름, 고유명사\n② (B)는 한 명을 뜻하므로 tourist로 써야 한다.  ✗  Many 뒤라 여러 명, 복수형 tourists\n③ (A)의 Seoul은 도시 이름인 고유명사이므로 대문자로 시작한다.  ✓  도시 이름은 고유명사라 대문자로 시작\n④ (A)와 (B)는 모두 복수명사이다.  ✗  Seoul은 도시 하나의 이름, 복수명사 아님\n⑤ (B)는 도시 이름이므로 Tourists로 써야 한다.  ✗  tourists는 관광객, 보통명사라 소문자",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① (A)는 보통명사이므로 소문자로 쓴다.  ✗  Seoul은 보통명사가 아닌 도시 이름, 고유명사",
+     "② (B)는 한 명을 뜻하므로 tourist로 써야 한다.  ✗  Many 뒤라 여러 명, 복수형 tourists",
+     "③ (A)의 Seoul은 도시 이름인 고유명사이므로 대문자로 시작한다.  ✓  도시 이름은 고유명사라 대문자로 시작",
+     "④ (A)와 (B)는 모두 복수명사이다.  ✗  Seoul은 도시 하나의 이름, 복수명사 아님",
+     "⑤ (B)는 도시 이름이므로 Tourists로 써야 한다.  ✗  tourists는 관광객, 보통명사라 소문자"
+    ]
+   },
+   "narration": "정답은 3번이에요. Seoul은 도시 이름인 고유명사라 문장 어디에 있든 대문자로 시작해요. 5번은 tourists를 도시 이름이라고 했지만, tourists는 관광객이라는 보통명사라 소문자로 써요. 2번은 한 명을 뜻한다고 했지만, Many 뒤에 오므로 여러 명이고 복수형 tourists가 맞아요. 4번은 둘 다 복수명사라고 했지만, Seoul은 도시 하나의 이름이에요.",
+   "caption": "정답 ③ 도시 이름은 대문자"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ (A)의 Seoul은 도시 이름인 고유명사이므로 대문자로 시작한다.\n\n도시 이름 같은 고유명사는 문장 어디에서나 대문자로 시작",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ (A)의 Seoul은 도시 이름인 고유명사이므로 대문자로 시작한다.",
+     "도시 이름 같은 고유명사는 문장 어디에서나 대문자로 시작"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, Seoul 같은 도시 이름은 고유명사라 문장 어디에 있든 첫 글자를 대문자로 써요.",
+   "caption": "고유명사는 어디서나 대문자"
+  }
+ ],
+ "source": {
+  "stem": "다음 대화를 읽고, 밑줄 친 (A)와 (B)의 표기법에 대한 설명으로 옳은 것을 고르세요.",
+  "passage": "Leo: Is (A)<u>Seoul</u> in Korea?\nMina: Yes. Many (B)<u>tourists</u> visit the city.",
+  "c": [
+   "(A)는 보통명사이므로 소문자로 쓴다.",
+   "(B)는 한 명을 뜻하므로 tourist로 써야 한다.",
+   "(A)의 Seoul은 도시 이름인 고유명사이므로 대문자로 시작한다.",
+   "(A)와 (B)는 모두 복수명사이다.",
+   "(B)는 도시 이름이므로 Tourists로 써야 한다."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 사람·도시·요일·달 이름은 대문자로 시작한다. 보통명사의 복수형은 단어별 규칙으로 확인한다.\n풀이 순서: ① (A)가 무엇의 이름인지 본다: Seoul, 도시 이름. 고유명사이므로 대문자로 시작한다. → ② (B)는 보통명사의 복수형이다: tourist + s. 소문자로 쓴다. → ③ 이 두 가지와 맞는 설명은 ③.\n문장별 판정:\n정답 판단: Seoul은 도시 이름인 고유명사이다. 문장의 위치와 관계없이 첫 글자를 대문자로 쓴다. 따라서 정답은 ③이다.\n선택지 분석:\n① [오답] Seoul은 도시 이름인 고유명사이다. 문장 중간에서도 소문자로 바꾸지 않는다.\n② [오답] tourist는 셀 수 있는 명사이고 복수형은 tourists이다. 앞의 복수 수량·지시 표현에 맞게 tourists로 쓰며, 단수형으로 바꾸지 않는다.\n③ [정답] Seoul은 도시 이름인 고유명사이다. 문장의 위치와 관계없이 첫 글자를 대문자로 쓴다.\n④ [오답] Seoul은 도시 이름이지만 tourists는 보통명사 tourist의 복수형이다. 두 단어를 모두 사람 이름·고유명사·복수명사라고 볼 수 없다.\n⑤ [오답] tourists는 보통명사 tourist의 복수형이다. 물건이 중요하다는 이유로 대문자로 쓰거나 도시 이름으로 분류하지 않는다."
+ }
+}

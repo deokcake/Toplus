@@ -1,0 +1,469 @@
+{
+ "A": {
+  "title": "Those·That이 가리키는 것과 be동사",
+  "intro": "이 문제는 Those와 That, be동사, 명사의 수에 대한 옳은 설명을 고르는 문제예요.",
+  "problem_narration": "다음 지문을 읽고, 밑줄 친 에이부터 디까지에 대한 설명으로 문법적으로 옳은 것을 고르세요. Those are his socks. That is his hat. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "가리키는 말 this, that → 한 개 / these, those → 여러 개",
+    "this, these → 가까이 있는 것 / that, those → 멀리 있는 것",
+    "현재형 be동사: this, that → is / these, those → are",
+    "뒤의 명사도 같은 수로: 한 개 → 단수형, 여러 개 → 복수형",
+    "예) This is my cup. (이것은 내 컵이에요.)"
+   ],
+   "narration": "가리키는 말 this와 that은 한 개, these와 those는 여러 개를 가리켜요. this와 these는 가까이 있는 것, that과 those는 멀리 있는 것이에요. 현재형 be동사는 this와 that에는 is, these와 those에는 are를 쓰고, 뒤의 명사도 그 수에 맞춰요. 예를 들어 This is my cup, 이것은 내 컵이에요."
+  },
+  "steps": [
+   {
+    "note": "두 쌍으로 보기: Those are + socks(여러 개) / That is + hat(한 개)",
+    "highlight": [
+     "(A)<u>Those are</u>",
+     "(B)<u>his socks</u>",
+     "(C)<u>That is</u>",
+     "(D)<u>his hat</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, Those are his socks는 저것들은 그의 양말이라는 뜻으로, 여러 개라서 Those와 are, 복수형 socks를 썼어요. That is his hat은 저것은 그의 모자라는 뜻으로, 한 개라서 That과 is, 단수형 hat을 썼어요."
+   },
+   {
+    "note": "this는 is와 / That은 한 개 / hat은 한 개 → 단수형. ①, ③, ④ 지우기",
+    "highlight": [],
+    "strike": [
+     "① (A)에서 those 대신 'this'를 써도 뒤의 are와 잘 어울린다.",
+     "③ (C)에서 'That'은 멀리 있는 여러 개를 가리킬 때 쓴다.",
+     "④ (D)에서 'hat'은 하나이므로 'hats'라고 고쳐 써야 문법에 맞다."
+    ],
+    "narration": "둘째, this는 is와 쓰니 1번, That은 한 개를 가리키니 3번, hat은 한 개라 단수형이 맞으니 4번을 지워요."
+   },
+   {
+    "note": "Those에는 are, That에는 is → 바꿔 쓸 수 없음. ⑤ 지우면 ② 남음",
+    "highlight": [
+     "② (A)의 Those는 멀리 있는 여러 개를 가리키며 복수 be동사 are와 함께 쓴다."
+    ],
+    "strike": [
+     "⑤ (A)와 (C)의 동사는 주어의 수와 상관없이 항상 바꿔 쓸 수 있다."
+    ],
+    "narration": "셋째, Those에는 are, That에는 is라서 바꿔 쓸 수 없으니 5번도 지우면 2번이 남아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A)에서 those 대신 'this'를 써도 뒤의 are와 잘 어울린다.  ✗  this는 한 개를 가리켜 is와 써요",
+    "② (A)의 Those는 멀리 있는 여러 개를 가리키며 복수 be동사 are와 함께 쓴다.  ✓  Those는 멀리 있는 여러 개, are와 써요",
+    "③ (C)에서 'That'은 멀리 있는 여러 개를 가리킬 때 쓴다.  ✗  That은 멀리 있는 한 개를 가리켜요",
+    "④ (D)에서 'hat'은 하나이므로 'hats'라고 고쳐 써야 문법에 맞다.  ✗  That is 뒤의 hat은 한 개, 단수형이 맞아요",
+    "⑤ (A)와 (C)의 동사는 주어의 수와 상관없이 항상 바꿔 쓸 수 있다.  ✗  Those에는 are, That에는 is, 바꿔 쓸 수 없어요"
+   ],
+   "narration": "정답은 2번이에요. Those는 멀리 있는 여러 개를 가리키고 are와 함께 써요. 3번은 That이 여러 개를 가리킨다고 했지만, That은 멀리 있는 한 개예요. 1번처럼 this로 바꾸면 한 개를 가리키니 are가 아니라 is와 써야 해요."
+  },
+  "summary": {
+   "card": "this, that = 한 개 / these, those = 여러 개 → be동사와 명사도 같은 수로",
+   "narration": "정답은 2번이에요. 기억할 것, this와 that은 한 개, these와 those는 여러 개를 가리키고, be동사와 명사도 그 수에 맞춰요."
+  },
+  "captions": [
+   "Those·That과 be동사",
+   "먼저 풀어 보세요",
+   "가리키는 수와 거리, be동사",
+   "두 쌍 보기 → 수 확인 → ②",
+   "정답 ② Those + are",
+   "be동사·명사도 같은 수로"
+  ],
+  "sec": [
+   11,
+   22,
+   26,
+   37,
+   20,
+   12
+  ]
+ },
+ "B": {
+  "title": "These·This가 가리키는 것과 be동사",
+  "intro": "이 문제는 These와 This, be동사, 명사의 수에 대한 옳은 설명을 고르는 문제예요.",
+  "problem_narration": "다음 지문을 읽고, 밑줄 친 에이부터 디까지에 대한 설명으로 문법적으로 옳은 것을 고르세요. These are her gloves. This is her scarf. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "가리키는 말 this, that → 한 개 / these, those → 여러 개",
+    "this, these → 가까이 있는 것 / that, those → 멀리 있는 것",
+    "현재형 be동사: this, that → is / these, those → are",
+    "뒤의 명사도 같은 수로: 한 개 → 단수형, 여러 개 → 복수형",
+    "예) That is my bike. (저것은 내 자전거예요.)"
+   ],
+   "narration": "가리키는 말 this와 that은 한 개, these와 those는 여러 개를 가리켜요. this와 these는 가까이 있는 것, that과 those는 멀리 있는 것이에요. 현재형 be동사는 this와 that에는 is, these와 those에는 are를 쓰고, 뒤의 명사도 그 수에 맞춰요. 예를 들어 That is my bike, 저것은 내 자전거예요."
+  },
+  "steps": [
+   {
+    "note": "두 쌍으로 보기: These are + gloves(여러 개) / This is + scarf(한 개)",
+    "highlight": [
+     "(A)<u>These are</u>",
+     "(B)<u>her gloves</u>",
+     "(C)<u>This is</u>",
+     "(D)<u>her scarf</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, These are her gloves는 이것들은 그녀의 장갑이라는 뜻으로, 여러 개라서 These와 are, 복수형 gloves를 썼어요. This is her scarf는 이것은 그녀의 스카프라는 뜻으로, 한 개라서 This와 is, 단수형 scarf를 썼어요."
+   },
+   {
+    "note": "scarf는 한 개 → 단수형 / gloves는 여러 개 → 복수형. ①, ② 지우기",
+    "highlight": [],
+    "strike": [
+     "① (D)의 scarf는 복수 명사이므로 scarves로 고쳐야 한다.",
+     "② (B)의 gloves는 한 개이므로 glove로 써야 한다."
+    ],
+    "narration": "둘째, scarf는 단수형, gloves는 복수형이 맞으니 1번과 2번을 지워요."
+   },
+   {
+    "note": "These(여러 개)와 This(한 개)는 바꿔 쓸 수 없음 / This는 가까이 있는 한 개. ④, ⑤ 지우면 ③ 남음",
+    "highlight": [
+     "③ (A)의 These는 가까이 있는 여러 개를 가리키며 복수 be동사 are와 함께 쓴다."
+    ],
+    "strike": [
+     "④ These와 This는 수와 관계없이 서로 바꿔 쓸 수 있다.",
+     "⑤ (C)의 This는 멀리 있는 여러 개를 가리킨다."
+    ],
+    "narration": "셋째, These와 This는 수가 달라 바꿔 쓸 수 없으니 4번, This는 가까이 있는 한 개를 가리키니 5번도 지우면 3번이 남아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (D)의 scarf는 복수 명사이므로 scarves로 고쳐야 한다.  ✗  This is 뒤의 scarf는 한 개, 단수형이 맞아요",
+    "② (B)의 gloves는 한 개이므로 glove로 써야 한다.  ✗  These are 뒤의 gloves는 여러 개, 복수형이 맞아요",
+    "③ (A)의 These는 가까이 있는 여러 개를 가리키며 복수 be동사 are와 함께 쓴다.  ✓  These는 가까이 있는 여러 개, are와 써요",
+    "④ These와 This는 수와 관계없이 서로 바꿔 쓸 수 있다.  ✗  These는 여러 개, This는 한 개라 바꿔 쓸 수 없어요",
+    "⑤ (C)의 This는 멀리 있는 여러 개를 가리킨다.  ✗  This는 가까이 있는 한 개를 가리켜요"
+   ],
+   "narration": "정답은 3번이에요. These는 가까이 있는 여러 개를 가리키고 are와 함께 써요. 5번은 This가 멀리 있는 여러 개라고 했지만, This는 가까이 있는 한 개예요. 1번은 scarf가 복수 명사라고 했지만, This is 뒤의 scarf는 한 개라 단수형이 맞아요."
+  },
+  "summary": {
+   "card": "this, that = 한 개 / these, those = 여러 개 → be동사와 명사도 같은 수로",
+   "narration": "정답은 3번이에요. 기억할 것, this와 that은 한 개, these와 those는 여러 개를 가리키고, be동사와 명사도 그 수에 맞춰요."
+  },
+  "captions": [
+   "These·This와 be동사",
+   "먼저 풀어 보세요",
+   "가리키는 수와 거리, be동사",
+   "두 쌍 보기 → 수·거리 → ③",
+   "정답 ③ These + are",
+   "be동사·명사도 같은 수로"
+  ],
+  "sec": [
+   12,
+   22,
+   27,
+   37,
+   22,
+   12
+  ]
+ },
+ "C": {
+  "title": "This·These가 가리키는 것과 be동사",
+  "intro": "이 문제는 This와 These, be동사, 명사의 수에 대한 옳은 설명을 고르는 문제예요.",
+  "problem_narration": "다음 지문을 읽고, 밑줄 친 에이부터 디까지에 대한 설명으로 문법적으로 옳은 것을 고르세요. These are my books. This is my notebook. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "가리키는 말 this, that → 한 개 / these, those → 여러 개",
+    "this, these → 가까이 있는 것 / that, those → 멀리 있는 것",
+    "현재형 be동사: this, that → is / these, those → are",
+    "뒤의 명사도 같은 수로: 한 개 → 단수형, 여러 개 → 복수형",
+    "예) Those are my cards. (저것들은 내 카드예요.)"
+   ],
+   "narration": "가리키는 말 this와 that은 한 개, these와 those는 여러 개를 가리켜요. this와 these는 가까이 있는 것, that과 those는 멀리 있는 것이에요. 현재형 be동사는 this와 that에는 is, these와 those에는 are를 쓰고, 뒤의 명사도 그 수에 맞춰요. 예를 들어 Those are my cards, 저것들은 내 카드예요."
+  },
+  "steps": [
+   {
+    "note": "두 쌍으로 보기: These are + books(여러 개) / This is + notebook(한 개)",
+    "highlight": [
+     "(A)<u>These are</u>",
+     "(B)<u>my books</u>",
+     "(C)<u>This is</u>",
+     "(D)<u>my notebook</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, These are my books는 이것들은 내 책들이라는 뜻으로, 여러 개라서 These와 are, 복수형 books를 썼어요. This is my notebook은 이것은 내 공책이라는 뜻으로, 한 개라서 This와 is, 단수형 notebook을 썼어요."
+   },
+   {
+    "note": "books는 여러 권 → 복수형 / notebook은 한 권 → 단수, is. ①, ③ 지우기",
+    "highlight": [],
+    "strike": [
+     "① (B)의 books는 하나이므로 book으로 고쳐야 한다.",
+     "③ (D)의 notebook은 복수 명사이므로 are와 함께 써야 한다."
+    ],
+    "narration": "둘째, books는 복수형이 맞고 notebook은 단수 명사라 is와 쓰니 1번과 3번을 지워요."
+   },
+   {
+    "note": "These는 가까이 있는 여러 개 / These와 This는 바꿔 쓸 수 없음. ②, ④ 지우면 ⑤ 남음",
+    "highlight": [
+     "⑤ (C)의 This는 가까이 있는 한 개를 가리키므로 is와 함께 쓴다."
+    ],
+    "strike": [
+     "② (A)의 These는 멀리 있는 여러 개를 가리킨다.",
+     "④ These와 This는 수와 관계없이 바꾸어 쓸 수 있다."
+    ],
+    "narration": "셋째, These는 가까이 있는 것을 가리키니 2번, These와 This는 수가 달라 바꿔 쓸 수 없으니 4번도 지우면 5번이 남아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (B)의 books는 하나이므로 book으로 고쳐야 한다.  ✗  These are 뒤의 books는 여러 권, 복수형이 맞아요",
+    "② (A)의 These는 멀리 있는 여러 개를 가리킨다.  ✗  These는 가까이 있는 여러 개를 가리켜요",
+    "③ (D)의 notebook은 복수 명사이므로 are와 함께 써야 한다.  ✗  notebook은 한 권, 단수 명사라 is와 써요",
+    "④ These와 This는 수와 관계없이 바꾸어 쓸 수 있다.  ✗  These는 여러 개, This는 한 개라 바꿔 쓸 수 없어요",
+    "⑤ (C)의 This는 가까이 있는 한 개를 가리키므로 is와 함께 쓴다.  ✓  This는 가까이 있는 한 개, is와 써요"
+   ],
+   "narration": "정답은 5번이에요. This는 가까이 있는 한 개를 가리키고 is와 함께 써요. 2번은 These가 멀리 있는 여러 개라고 했지만, These는 가까이 있는 여러 개예요. 3번은 notebook이 복수 명사라고 했지만, 한 권이라 단수 명사이고 is와 써요."
+  },
+  "summary": {
+   "card": "this, that = 한 개 / these, those = 여러 개 → be동사와 명사도 같은 수로",
+   "narration": "정답은 5번이에요. 기억할 것, this와 that은 한 개, these와 those는 여러 개를 가리키고, be동사와 명사도 그 수에 맞춰요."
+  },
+  "captions": [
+   "This·These와 be동사",
+   "먼저 풀어 보세요",
+   "가리키는 수와 거리, be동사",
+   "두 쌍 보기 → 수·거리 → ⑤",
+   "정답 ⑤ This + is",
+   "be동사·명사도 같은 수로"
+  ],
+  "sec": [
+   12,
+   22,
+   27,
+   37,
+   21,
+   12
+  ]
+ },
+ "D": {
+  "title": "That·Those가 가리키는 것과 be동사",
+  "intro": "이 문제는 That과 Those, be동사, 명사의 수에 대한 옳은 설명을 고르는 문제예요.",
+  "problem_narration": "다음 지문을 읽고, 밑줄 친 에이부터 디까지에 대한 설명으로 문법적으로 옳은 것을 고르세요. Those are her shoes. That is her bag. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "가리키는 말 this, that → 한 개 / these, those → 여러 개",
+    "this, these → 가까이 있는 것 / that, those → 멀리 있는 것",
+    "현재형 be동사: this, that → is / these, those → are",
+    "뒤의 명사도 같은 수로: 한 개 → 단수형, 여러 개 → 복수형",
+    "예) These are my dolls. (이것들은 내 인형이에요.)"
+   ],
+   "narration": "가리키는 말 this와 that은 한 개, these와 those는 여러 개를 가리켜요. this와 these는 가까이 있는 것, that과 those는 멀리 있는 것이에요. 현재형 be동사는 this와 that에는 is, these와 those에는 are를 쓰고, 뒤의 명사도 그 수에 맞춰요. 예를 들어 These are my dolls, 이것들은 내 인형이에요."
+  },
+  "steps": [
+   {
+    "note": "두 쌍으로 보기: Those are + shoes(여러 개) / That is + bag(한 개)",
+    "highlight": [
+     "(A)<u>Those are</u>",
+     "(B)<u>her shoes</u>",
+     "(C)<u>That is</u>",
+     "(D)<u>her bag</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, Those are her shoes는 저것들은 그녀의 신발이라는 뜻으로, 여러 개라서 Those와 are, 복수형 shoes를 썼어요. That is her bag은 저것은 그녀의 가방이라는 뜻으로, 한 개라서 That과 is, 단수형 bag을 썼어요."
+   },
+   {
+    "note": "bag은 한 개 → 단수형 / shoes는 여러 개 → 복수 명사. ①, ⑤ 지우기",
+    "highlight": [],
+    "strike": [
+     "① (D)의 bag은 복수형 bags로 써야 한다.",
+     "⑤ (B)의 shoes는 단수 명사이다."
+    ],
+    "narration": "둘째, bag은 단수형이 맞고 shoes는 복수 명사이니 1번과 5번을 지워요."
+   },
+   {
+    "note": "Those는 여러 개 → is가 아니라 are. ②, ③ 지우면 ④ 남음",
+    "highlight": [
+     "④ (C)의 That은 멀리 있는 한 개를 가리키므로 is와 함께 쓴다."
+    ],
+    "strike": [
+     "② (A)의 Those는 멀리 있는 한 개를 가리킨다.",
+     "③ Those 뒤에는 항상 is가 온다."
+    ],
+    "narration": "셋째, Those는 여러 개를 가리키고 is가 아니라 are와 쓰니 2번과 3번도 지우면 4번이 남아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (D)의 bag은 복수형 bags로 써야 한다.  ✗  That is 뒤의 bag은 한 개, 단수형이 맞아요",
+    "② (A)의 Those는 멀리 있는 한 개를 가리킨다.  ✗  Those는 멀리 있는 여러 개를 가리켜요",
+    "③ Those 뒤에는 항상 is가 온다.  ✗  여러 개를 가리키는 Those는 are와 써요",
+    "④ (C)의 That은 멀리 있는 한 개를 가리키므로 is와 함께 쓴다.  ✓  That은 멀리 있는 한 개, is와 써요",
+    "⑤ (B)의 shoes는 단수 명사이다.  ✗  Those are 뒤의 shoes는 여러 개, 복수 명사예요"
+   ],
+   "narration": "정답은 4번이에요. That은 멀리 있는 한 개를 가리키고 is와 함께 써요. 2번은 Those가 한 개를 가리킨다고 했지만, Those는 멀리 있는 여러 개예요. 3번은 Those 뒤에 is가 온다고 했지만, Those는 여러 개라 Those are처럼 are와 써요."
+  },
+  "summary": {
+   "card": "this, that = 한 개 / these, those = 여러 개 → be동사와 명사도 같은 수로",
+   "narration": "정답은 4번이에요. 기억할 것, this와 that은 한 개, these와 those는 여러 개를 가리키고, be동사와 명사도 그 수에 맞춰요."
+  },
+  "captions": [
+   "That·Those와 be동사",
+   "먼저 풀어 보세요",
+   "가리키는 수와 거리, be동사",
+   "두 쌍 보기 → 수 확인 → ④",
+   "정답 ④ That + is",
+   "be동사·명사도 같은 수로"
+  ],
+  "sec": [
+   12,
+   22,
+   27,
+   35,
+   21,
+   12
+  ]
+ },
+ "E": {
+  "title": "This is 뒤 명사의 수와 be동사",
+  "intro": "이 문제는 These와 This, be동사, 명사의 수에 대한 옳은 설명을 고르는 문제예요.",
+  "problem_narration": "다음 지문을 읽고, 밑줄 친 에이부터 디까지에 대한 설명으로 문법적으로 옳은 것을 고르세요. These are our pencils. This is our eraser. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "가리키는 말 this, that → 한 개 / these, those → 여러 개",
+    "this, these → 가까이 있는 것 / that, those → 멀리 있는 것",
+    "현재형 be동사: this, that → is / these, those → are",
+    "뒤의 명사도 같은 수로: 한 개 → 단수형, 여러 개 → 복수형",
+    "예) That is my desk. (저것은 내 책상이에요.)"
+   ],
+   "narration": "가리키는 말 this와 that은 한 개, these와 those는 여러 개를 가리켜요. this와 these는 가까이 있는 것, that과 those는 멀리 있는 것이에요. 현재형 be동사는 this와 that에는 is, these와 those에는 are를 쓰고, 뒤의 명사도 그 수에 맞춰요. 예를 들어 That is my desk, 저것은 내 책상이에요."
+  },
+  "steps": [
+   {
+    "note": "두 쌍으로 보기: These are + pencils(여러 개) / This is + eraser(한 개)",
+    "highlight": [
+     "(A)<u>These are</u>",
+     "(B)<u>our pencils</u>",
+     "(C)<u>This is</u>",
+     "(D)<u>our eraser</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, These are our pencils는 이것들은 우리의 연필이라는 뜻으로, 여러 개라서 These와 are, 복수형 pencils를 썼어요. This is our eraser는 이것은 우리의 지우개라는 뜻으로, 한 개라서 This와 is, 단수형 eraser를 썼어요."
+   },
+   {
+    "note": "pencils는 복수형 / 한 개를 가리키는 This 뒤에는 is. ①, ② 지우기",
+    "highlight": [],
+    "strike": [
+     "① (B)의 pencils는 단수형이다.",
+     "② (C)의 This 뒤에는 are가 와야 한다."
+    ],
+    "narration": "둘째, pencils는 복수형이고 This 뒤에는 is를 쓰니 1번과 2번을 지워요."
+   },
+   {
+    "note": "These는 여러 개 / These와 This는 가까이 있는 것. ④, ⑤ 지우면 ③ 남음",
+    "highlight": [
+     "③ (D)의 eraser는 하나를 나타내므로 단수형이 맞다."
+    ],
+    "strike": [
+     "④ (A)의 These는 가까이 있는 한 개를 가리킨다.",
+     "⑤ These와 This는 모두 먼 곳의 대상을 가리킨다."
+    ],
+    "narration": "셋째, These는 여러 개를 가리키고, These와 This는 가까이 있는 것을 가리키니 4번과 5번도 지우면 3번이 남아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (B)의 pencils는 단수형이다.  ✗  These are 뒤의 pencils는 여러 개, 복수형이에요",
+    "② (C)의 This 뒤에는 are가 와야 한다.  ✗  한 개를 가리키는 This는 is와 써요",
+    "③ (D)의 eraser는 하나를 나타내므로 단수형이 맞다.  ✓  This is 뒤의 eraser는 한 개, 단수형이 맞아요",
+    "④ (A)의 These는 가까이 있는 한 개를 가리킨다.  ✗  These는 가까이 있는 여러 개를 가리켜요",
+    "⑤ These와 This는 모두 먼 곳의 대상을 가리킨다.  ✗  These와 This는 가까이, 먼 곳은 those와 that"
+   ],
+   "narration": "정답은 3번이에요. This is 뒤의 eraser는 한 개라 단수형이 맞아요. 2번은 This 뒤에 are가 온다고 했지만, 한 개를 가리키는 This는 is와 써요. 5번은 These와 This가 먼 곳을 가리킨다고 했지만, 둘 다 가까이 있는 것을 가리켜요."
+  },
+  "summary": {
+   "card": "this, that = 한 개 / these, those = 여러 개 → be동사와 명사도 같은 수로",
+   "narration": "정답은 3번이에요. 기억할 것, this와 that은 한 개, these와 those는 여러 개를 가리키고, be동사와 명사도 그 수에 맞춰요."
+  },
+  "captions": [
+   "This is 뒤 eraser의 수",
+   "먼저 풀어 보세요",
+   "가리키는 수와 거리, be동사",
+   "두 쌍 보기 → 수·거리 → ③",
+   "정답 ③ eraser는 단수형",
+   "be동사·명사도 같은 수로"
+  ],
+  "sec": [
+   12,
+   22,
+   27,
+   36,
+   21,
+   12
+  ]
+ },
+ "F": {
+  "title": "Those are 뒤 복수형 buses",
+  "intro": "이 문제는 Those와 That, be동사, 명사의 복수형에 대한 옳은 설명을 고르는 문제예요.",
+  "problem_narration": "다음 지문을 읽고, 밑줄 친 에이부터 디까지에 대한 설명으로 문법적으로 옳은 것을 고르세요. Those are their buses. That is their car. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "가리키는 말 this, that → 한 개 / these, those → 여러 개",
+    "this, these → 가까이 있는 것 / that, those → 멀리 있는 것",
+    "현재형 be동사: this, that → is / these, those → are",
+    "뒤의 명사도 같은 수로: 여러 개면 복수형, s·x·sh·ch로 끝나면 보통 + es",
+    "예) These are my boxes. (이것들은 내 상자들이에요.)"
+   ],
+   "narration": "this와 that은 한 개, these와 those는 여러 개를 가리키고, this와 these는 가까이, that과 those는 멀리 있는 것이에요. 현재형 be동사는 this와 that에 is, these와 those에 are를 써요. 뒤의 명사도 수를 맞추는데, s, x, sh, ch로 끝나면 보통 es를 붙여요. 예를 들어 These are my boxes, 이것들은 내 상자들이에요."
+  },
+  "steps": [
+   {
+    "note": "두 쌍으로 보기: Those are + buses(여러 개) / That is + car(한 개)",
+    "highlight": [
+     "(A)<u>Those are</u>",
+     "(B)<u>their buses</u>",
+     "(C)<u>That is</u>",
+     "(D)<u>their car</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, Those are their buses는 저것들은 그들의 버스라는 뜻으로, 여러 개라서 Those와 are, 복수형 buses를 썼어요. That is their car는 저것은 그들의 자동차라는 뜻으로, 한 개라서 That과 is, 단수형 car를 썼어요."
+   },
+   {
+    "note": "car는 단수형 / That 뒤에는 is / Those(여러 개)와 That(한 개)은 수가 다름 / Those는 멀리. ①, ②, ④, ⑤ 지우기",
+    "highlight": [],
+    "strike": [
+     "① (D)의 car는 복수형 cars가 되어야 한다.",
+     "② (C)의 That 뒤에는 복수 be동사 are가 온다.",
+     "④ Those와 That은 같은 수를 나타낸다.",
+     "⑤ (A)의 Those는 가까이 있는 여러 개를 가리킨다."
+    ],
+    "narration": "둘째, car는 단수형이 맞고, That 뒤에는 is, Those와 That은 수가 다르고, Those는 멀리 있는 것이니 1번, 2번, 4번, 5번을 지워요."
+   },
+   {
+    "note": "bus는 s로 끝남 → bus + es = buses → ③ 남음",
+    "highlight": [
+     "③ (B)의 buses는 bus의 올바른 복수형이다."
+    ],
+    "strike": [],
+    "narration": "셋째, bus는 s로 끝나서 es를 붙인 buses가 복수형이니 3번이 남아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (D)의 car는 복수형 cars가 되어야 한다.  ✗  That is 뒤의 car는 한 대, 단수형이 맞아요",
+    "② (C)의 That 뒤에는 복수 be동사 are가 온다.  ✗  한 개를 가리키는 That은 is와 써요",
+    "③ (B)의 buses는 bus의 올바른 복수형이다.  ✓  s로 끝나는 bus + es = buses",
+    "④ Those와 That은 같은 수를 나타낸다.  ✗  Those는 여러 개, That은 한 개예요",
+    "⑤ (A)의 Those는 가까이 있는 여러 개를 가리킨다.  ✗  Those는 멀리 있는 여러 개를 가리켜요"
+   ],
+   "narration": "정답은 3번이에요. bus는 s로 끝나서 es를 붙인 buses가 올바른 복수형이에요. 5번은 Those가 가까이 있는 것이라고 했지만, Those는 멀리 있는 여러 개예요. 2번은 That 뒤에 are가 온다고 했지만, 한 개를 가리키는 That은 is와 써요."
+  },
+  "summary": {
+   "card": "여러 개면 복수형: s로 끝나는 명사는 보통 + es (bus → buses)",
+   "narration": "정답은 3번이에요. 기억할 것, 여러 개면 복수형을 쓰고, bus처럼 s로 끝나는 명사는 보통 es를 붙여요."
+  },
+  "captions": [
+   "Those are 뒤 복수형 buses",
+   "먼저 풀어 보세요",
+   "가리키는 수와 거리, 복수형",
+   "수·거리 확인 → buses → ③",
+   "정답 ③ bus의 복수형 buses",
+   "s로 끝나면 보통 + es"
+  ],
+  "sec": [
+   12,
+   22,
+   30,
+   39,
+   22,
+   11
+  ]
+ }
+}

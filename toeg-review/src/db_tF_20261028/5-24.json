@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T10:47:37.757Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Tom kept the secret.",
+      "1": "The baby holded my finger.",
+      "2": "I heard a strange sound.",
+      "3": "We tried a new dish.",
+      "4": "She paid for the tickets."
+    },
+    "expl": "핵심 규칙: 과거의 일은 동사의 과거형으로 쓴다. be동사 과거형은 I·3인칭 단수에 was, you·복수에 were를 쓰고, 일반동사는 -ed를 붙이거나 불규칙 과거형(go → went, buy → bought)을 쓴다.\n풀이 순서: ① 문장마다 동사의 과거형이 바른지 본다. → ② 불규칙 동사에 -ed를 붙인 것을 찾는다. hold의 과거형은 held다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: hold의 과거형은 불규칙형 held이므로 정답은 ②이다.\n선택지 분석:\n① [오답] keep의 과거형 kept를 바르게 썼으므로 오답이다.\n② [정답] hold의 과거형은 불규칙형 held이므로 정답이다.\n③ [오답] hear의 과거형 heard를 바르게 썼으므로 오답이다.\n④ [오답] try의 과거형 tried를 바르게 썼으므로 오답이다.\n⑤ [오답] pay의 과거형 paid를 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:47:35.005Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:47:37.757Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+ "key": "1-3",
+ "type": "E",
+ "grade": 1,
+ "chapter": "CH 1 문장의 구조",
+ "title": "사역동사와 get·help 뒤 동사 형태",
+ "total_sec": 138,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "1급 · CH 1 문장의 구조 · 3번 · E 유형\n\n이 문제는 사역동사와 get, help의 목적어 뒤 동사 형태가 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 1 문장의 구조 · 3번 · E 유형",
+     "이 문제는 사역동사와 get, help의 목적어 뒤 동사 형태가 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 1, 3번 E 유형. 이 문제는 사역동사와 get, help의 목적어 뒤 동사 형태가 틀린 문장을 고르는 문제예요.",
+   "caption": "사역동사 뒤 동사의 형태"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 사역동사의 용법이 올바르지 못한 것을 고르시오.\n\n① Our coach made us practice every morning.\n② The doctor had the nurse take my temperature.\n③ The kind man helped us to find the bus stop.\n④ The boss got his assistant book a hotel room.\n⑤ The guard let the visitors take photos.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 사역동사의 용법이 올바르지 못한 것을 고르시오.",
+     "① Our coach made us practice every morning.",
+     "② The doctor had the nurse take my temperature.",
+     "③ The kind man helped us to find the bus stop.",
+     "④ The boss got his assistant book a hotel room.",
+     "⑤ The guard let the visitors take photos."
+    ]
+   },
+   "narration": "다음 중 사역동사의 용법이 올바르지 못한 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n목적어가 그 일을 직접 할 때 (‘목적어에게 …하게 하다’)\nmake / have / let + 목적어 + 동사원형\nget + 목적어 + to부정사 (동사원형만 쓰면 ✗)\nhelp + 목적어 + 동사원형 또는 to부정사 (‘…하도록 돕다’)\n예) Mina got her dad to buy a cake. (미나는 아빠가 케이크를 사게 했어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "목적어가 그 일을 직접 할 때 (‘목적어에게 …하게 하다’)",
+     "make / have / let + 목적어 + 동사원형",
+     "get + 목적어 + to부정사 (동사원형만 쓰면 ✗)",
+     "help + 목적어 + 동사원형 또는 to부정사 (‘…하도록 돕다’)",
+     "예) Mina got her dad to buy a cake. (미나는 아빠가 케이크를 사게 했어요.)"
+    ]
+   },
+   "narration": "사역동사 make, have, let은 어떤 일을 시키거나 허락한다는 뜻이에요. 목적어가 그 일을 직접 할 때, 목적어 뒤에 동사원형을 써요. 비슷한 뜻의 get은 목적어 뒤에 to부정사를 쓰고, 돕다라는 뜻의 help는 동사원형과 to부정사를 둘 다 써요. 예를 들어 Mina got her dad to buy a cake. 미나는 아빠가 케이크를 사게 했어요.",
+   "caption": "make·have·let은 원형, get은 to부정사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 41,
+   "screen": {
+    "text": "다음 중 사역동사의 용법이 올바르지 못한 것을 고르시오.\n\n① Our coach made us practice every morning.\n② The doctor had the nurse take my temperature.\n③ The kind man helped us to find the bus stop.\n④ The boss got his assistant book a hotel room.\n⑤ The guard let the visitors take photos.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "made us",
+       "had the nurse",
+       "helped us",
+       "got his assistant",
+       "let the visitors"
+      ],
+      "strike": [],
+      "note": "문장마다 사역동사와 목적어 찾기 → 목적어 뒤 동사의 형태 확인"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "practice every morning",
+       "take my temperature",
+       "take photos",
+       "to find the bus stop"
+      ],
+      "strike": [],
+      "note": "make·have·let + 목적어 + 동사원형(practice, take) → 맞다 / help + 목적어 + to find → help는 to부정사도 가능 → 맞다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ The boss got his assistant"
+      ],
+      "strike": [
+       "book a hotel room"
+      ],
+      "note": "④ book = 예약하다(동사). get + 목적어 + 동사원형 book ✗ → to book. 틀린 문장은 ④"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 사역동사와 목적어를 찾고, 목적어 뒤 동사의 형태를 봐요. 둘째, 1번 made, 2번 had, 5번 let 뒤에는 동사원형 practice와 take가 왔고, 3번 helped 뒤의 to find도 help는 to부정사를 쓸 수 있어서 모두 맞아요. 셋째, 4번은 got his assistant 뒤에 예약하다라는 뜻의 동사원형 book을 바로 썼어요. get은 to부정사를 쓰니까 to book으로 고쳐야 해요. The boss got his assistant to book a hotel room. 사장님은 비서에게 호텔 방을 예약하게 했어요.",
+   "caption": "동사 짝짓기 → 형태 확인 → ④"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① Our coach made us practice every morning.  ✗  make + 목적어 + 동사원형 practice → 맞는 문장\n② The doctor had the nurse take my temperature.  ✗  have + 목적어 + 동사원형 take → 맞는 문장\n③ The kind man helped us to find the bus stop.  ✗  help는 목적어 뒤에 to부정사도 가능 → 맞는 문장\n④ The boss got his assistant book a hotel room.  ✓  get + 목적어 뒤에는 to부정사 → to book (틀린 문장)\n⑤ The guard let the visitors take photos.  ✗  let + 목적어 + 동사원형 take → 맞는 문장",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Our coach made us practice every morning.  ✗  make + 목적어 + 동사원형 practice → 맞는 문장",
+     "② The doctor had the nurse take my temperature.  ✗  have + 목적어 + 동사원형 take → 맞는 문장",
+     "③ The kind man helped us to find the bus stop.  ✗  help는 목적어 뒤에 to부정사도 가능 → 맞는 문장",
+     "④ The boss got his assistant book a hotel room.  ✓  get + 목적어 뒤에는 to부정사 → to book (틀린 문장)",
+     "⑤ The guard let the visitors take photos.  ✗  let + 목적어 + 동사원형 take → 맞는 문장"
+    ]
+   },
+   "narration": "정답은 4번이에요. got 뒤에 목적어 his assistant가 오고 동사원형 book이 바로 와서 틀렸어요. 3번 helped us to find는 to가 붙어서 틀렸다고 보기 쉽지만, help는 목적어 뒤에 to부정사와 동사원형을 둘 다 쓸 수 있어서 맞아요. 2번 had와 5번 let 뒤에는 to 없이 동사원형 take를 써서 맞아요.",
+   "caption": "정답 ④ → to book"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ④ The boss got his assistant book a hotel room.\n\n목적어가 직접 할 때: make / have / let + 목적어 + 동사원형,  get + 목적어 + to부정사",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ The boss got his assistant book a hotel room.",
+     "목적어가 직접 할 때: make / have / let + 목적어 + 동사원형,  get + 목적어 + to부정사"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 목적어가 직접 할 때 make, have, let은 동사원형, get은 to부정사를 써요.",
+   "caption": "get + 목적어 + to부정사"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 사역동사의 용법이 올바르지 못한 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Our coach made us practice every morning.",
+   "The doctor had the nurse take my temperature.",
+   "The kind man helped us to find the bus stop.",
+   "The boss got his assistant book a hotel room.",
+   "The guard let the visitors take photos."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: make/have/let + 목적어 + 동사원형, get + 목적어 + to부정사 구조를 쓴다. help는 목적어 뒤에 동사원형과 to부정사를 모두 취할 수 있다. 목적어는 관사까지 포함한 명사구 전체로 본다.\n풀이 순서: ① 문장마다 사역동사(make, have, let, help, get)와 목적어 뒤의 동사 형태를 짝짓는다. → ② make·have·let 뒤의 동사원형, help 뒤의 동사원형·to부정사는 모두 옳다. → ③ get만 to부정사가 필요한데 ④는 got + 목적어 뒤에 동사원형(book)을 썼다. to부정사(to book)로 고쳐야 한다.\n문장별 판정:\n정답 판단: ‘The boss got his assistant book a hotel room.’은 get + 목적어 뒤에 동사원형 book을 두었다. got his assistant to book으로 고쳐야 한다.\n선택지 분석:\n① [오답] ‘Our coach made us practice every morning.’은 made + 목적어 + 동사원형 구조로 쓰여 올바르다. 잘못된 용법이 아니므로 오답이다.\n② [오답] ‘The doctor had the nurse take my temperature.’은 had + 목적어 + 동사원형 구조로 쓰여 올바르다. 잘못된 용법이 아니므로 오답이다.\n③ [오답] help는 목적어 뒤에 to부정사도 쓸 수 있으므로 ‘helped us to find’는 올바르다. 오답이다.\n④ [정답] get + 목적어 뒤에 동사원형 book을 두었다. got his assistant to book으로 고쳐야 하므로 정답이다.\n⑤ [오답] ‘The guard let the visitors take photos.’은 let + 목적어 + 동사원형 구조로 쓰여 올바르다. 잘못된 용법이 아니므로 오답이다."
+ }
+}

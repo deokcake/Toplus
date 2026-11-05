@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:23:58.732Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "'join'은 '가입하다'의 뜻일 때 진행형으로 쓸 수 없기 때문이다.",
+      "1": "'be going to' 뒤의 'to'는 전치사가 아니라 부정사의 to이므로 뒤에 동사원형이 와야 하기 때문이다.",
+      "2": "'My brother'가 단수이므로 -ing 대신 -s를 붙여야 하기 때문이다.",
+      "3": "'is'가 이미 있으므로 동사를 한 번 더 -ing로 쓸 수 없기 때문이다.",
+      "4": "'team' 앞에 'the'가 있으면 동사는 원형으로 써야 하기 때문이다."
+    },
+    "expl": "핵심 규칙: be going to의 to는 부정사를 만드는 to이므로 뒤에 동사원형이 와서 미래의 계획을 나타낸다.\n풀이 순서: ① 밑줄 바로 앞을 본다: be going to의 to다. → ② ‘be going to + 동사원형’이 ‘~할 것이다’라는 미래 표현이다. to 뒤라서 joining이 아니라 join을 쓴다. → ③ 이 이유를 말한 것은 ②.\n문장별 판정:\n정답 판단: be going to의 to는 부정사의 to라 뒤에 동사원형이 오므로 바른 설명이라 정답은 ②이다.\n선택지 분석:\n① [오답] 동사의 뜻이 아니라 to 때문에 동사원형을 쓰므로 오답이다.\n② [정답] be going to의 to는 부정사의 to라 뒤에 동사원형이 오므로 바른 설명이라 정답이다.\n③ [오답] to 뒤에는 -s형이 아니라 동사원형을 쓰므로 오답이다.\n④ [오답] is going이 진행형이라서가 아니라 to 뒤라서 동사원형을 쓰므로 오답이다.\n⑤ [오답] 관사는 동사의 형태와 관계없으므로 오답이다.",
+    "passage": "My brother is going to <u>joining</u> the soccer team.",
+    "stem": "다음 문장에서 'joining'을 'join'으로 고쳐야 하는 이유를 가장 바르게 설명한 것은?"
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:23:57.882Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:23:58.732Z",
+      "what": "확인 완료"
+    }
+  }
+}

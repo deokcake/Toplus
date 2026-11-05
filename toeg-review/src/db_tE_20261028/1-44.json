@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T19:27:34.055Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "a, c, d",
+      "1": "c, d, e",
+      "2": "a, b",
+      "3": "a, b, e",
+      "4": "b, d, e"
+    },
+    "expl": "핵심 규칙: 부정사가 명사를 꾸밀 때 뒤에 필요한 전치사를 빠뜨리지 않고, -thing으로 끝나는 말은 형용사가 뒤에서 꾸민다. enough는 형용사 뒤에 오며, 성품 형용사 뒤에는 of + 목적격을 쓴다.\n풀이 순서: ① 밑줄마다 볼 것을 정한다. 명사를 꾸미는 to부정사 뒤에 전치사가 필요한지, -thing과 형용사의 순서가 맞는지, to부정사의 모양이 바른지. → ② a는 write with의 with가 빠졌고, c는 easy enough의 순서가 뒤바뀌었다. b(something important), d(nice of), e(감정의 원인)는 옳다. → ③ 옳은 것만 모은 b, d, e를 고른다.\n문장별 판정:\na) 틀림: ‘펜으로 쓰다’는 write with a pen이므로 to write with로 써야 한다.\nb) 옳음: -thing 뒤에서 형용사 important가 꾸민다.\nc) 틀림: enough는 형용사 뒤에 온다. enough easy → easy enough.\nd) 옳음: 성품 형용사 nice 뒤에 of + 목적격을 썼다.\ne) 옳음: 감정의 원인을 나타내는 부사적 용법이다.\n정답 판단: 어법상 옳은 문장은 b, d, e이다.\n선택지 분석:\n① [오답] a, c는 옳은 문장이 아니고, 옳은 문장 b, e를 빠뜨렸다. 따라서 오답이다.\n② [오답] c는 옳은 문장이 아니고, 옳은 문장 b를 빠뜨렸다. 따라서 오답이다.\n③ [오답] a는 옳은 문장이 아니고, 옳은 문장 d, e를 빠뜨렸다. 따라서 오답이다.\n④ [오답] a는 옳은 문장이 아니고, 옳은 문장 d를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 옳은 문장 b, d, e를 빠짐없이 골랐으므로 정답이다.",
+    "passage": "a) Tom needs a pen <u>to write</u>.\nb) I have <u>something important</u> to tell you.\nc) The test is <u>enough easy</u> for children to solve.\nd) It was <u>nice of Jane to call</u> me.\ne) She was surprised <u>to hear</u> the news.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 것을 모두 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:27:26.298Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:27:34.055Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:27:34.055Z",
+      "what": "확인 완료"
+    }
+  }
+}

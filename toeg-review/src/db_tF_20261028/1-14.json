@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T06:30:56.502Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "realized — had cleaned",
+      "1": "realized — cleaned",
+      "2": "had realized — cleaned",
+      "3": "had realized — had cleaned",
+      "4": "has realized — have cleaned"
+    },
+    "expl": "핵심 규칙: 과거의 한 시점(알게 된 때)을 기준으로 그보다 먼저 끝난 일은 had + 과거분사로 나타내고, 기준 시점의 일은 단순과거로 쓴다.\n풀이 순서: ① 우리말에서 두 일의 순서를 가른다. ‘교실을 청소한 것’이 먼저, ‘알게 된 것’이 나중이다. → ② 나중 일(주절)은 과거형으로, 그보다 먼저 일어난 일(that절)은 had + 과거분사로 쓴다. → ③ ‘과거형 — had + 과거분사’ 순서인 realized — had cleaned를 고른다.\n문장별 판정:\n정답 판단: 우리말에서 알게 된 일이 기준 시점이고 청소한 일은 그보다 먼저 끝났으므로 realized — had cleaned가 알맞다.\n선택지 분석:\n① [정답] 우리말에서 알게 된 일이 기준 시점이고 청소한 일은 그보다 먼저 끝났으므로 realized — had cleaned가 알맞다. 모든 자리가 알맞으므로 정답이다.\n② [오답] 둘째 빈칸 cleaned: 단순과거이어서 맞지 않는다. 그보다 먼저 끝난 that절의 일은 과거완료 had cleaned로 쓴다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 had realized: 과거완료이어서 맞지 않는다. 기준 시점인 주절의 일은 단순과거 realized로 쓴다. 둘째 빈칸 cleaned: 단순과거이어서 맞지 않는다. 그보다 먼저 끝난 that절의 일은 과거완료 had cleaned로 쓴다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 had realized: 과거완료이어서 맞지 않는다. 기준 시점인 주절의 일은 단순과거 realized로 쓴다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 has realized: 현재완료이어서 맞지 않는다. 기준 시점인 주절의 일은 단순과거 realized로 쓴다. 둘째 빈칸 have cleaned: 현재완료이어서 맞지 않는다. 그보다 먼저 끝난 that절의 일은 과거완료 had cleaned로 쓴다. 따라서 오답이다.",
+    "passage": "선생님은 학생들이 교실을 이미 청소해 두었다는 것을 알게 되었다.\nThe teacher _____ that the students _____ the classroom already.",
+    "stem": "다음 우리말과 같도록 빈칸에 알맞은 말끼리 짝지은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T06:30:49.714Z"
+  },
+  "tab": "ij7ic6nx",
+  "updatedAt": "2026-10-26T06:30:56.502Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:30:56.502Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T09:22:49.580Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "expl": "핵심 규칙: 요일은 What day is it?, 날짜는 What date is it?(What's the date?), 시각은 What time is it?으로 묻는다.\n풀이 순서: ① 빈칸은 질문에 있으므로 대답을 먼저 본다. → ② 첫 대답은 10 dollars(값) → much, 둘째 대답은 Ten minutes(걸리는 시간) → long. → ③ 정답은 much - long.\n문장별 판정:\n정답 판단: (첫째 빈칸) 10 dollars는 가격 정보이므로 How much is it?으로 묻는다. much가 알맞다. (둘째 빈칸) Ten minutes는 소요 시간 정보이므로 How long does it take?로 묻는다. long이 알맞다. 따라서 정답은 ③이다.\n선택지 분석:\n① [오답] (첫째 빈칸) 10 dollars는 가격 정보이므로 How much is it?으로 묻는다. 이 질문을 완성할 표현은 much이다. (둘째 빈칸) Ten minutes는 소요 시간 정보이므로 How long does it take?로 묻는다. 이 질문을 완성할 표현은 long이다.\n② [오답] (첫째 빈칸) 10 dollars는 가격 정보이므로 How much is it?으로 묻는다. 이 질문을 완성할 표현은 much이다. (둘째 빈칸) Ten minutes는 소요 시간 정보이므로 How long does it take?로 묻는다. 이 질문을 완성할 표현은 long이다.\n③ [정답] (첫째 빈칸) 10 dollars는 가격 정보이므로 How much is it?으로 묻는다. much가 알맞다. (둘째 빈칸) Ten minutes는 소요 시간 정보이므로 How long does it take?로 묻는다. long이 알맞다.\n④ [오답] (첫째 빈칸) 10 dollars는 가격 정보이므로 How much is it?으로 묻는다. 이 질문을 완성할 표현은 much이다. (둘째 빈칸) Ten minutes는 소요 시간 정보이므로 How long does it take?로 묻는다. 이 질문을 완성할 표현은 long이다.\n⑤ [오답] (첫째 빈칸) 10 dollars는 가격 정보이므로 How much is it?으로 묻는다. 이 질문을 완성할 표현은 much이다. (둘째 빈칸) Ten minutes는 소요 시간 정보이므로 How long does it take?로 묻는다. 이 질문을 완성할 표현은 long이다."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:22:47.295Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:22:49.580Z",
+      "what": "확인 완료"
+    }
+  }
+}

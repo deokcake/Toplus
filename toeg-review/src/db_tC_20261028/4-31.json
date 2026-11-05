@@ -1,0 +1,44 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:33:08.252Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Minsu cleaned his room last Sunday.",
+      "1": "We were late for school yesterday.",
+      "2": "My dad cooks dinner on weekends.",
+      "3": "She took a picture of the sea.",
+      "4": "They left the house an hour ago."
+    },
+    "expl": "핵심 규칙: 과거 시제는 이미 끝난 일을 나타내며 동사의 과거형(-ed, 불규칙 과거형, was/were)을 쓴다. 현재형은 현재의 상태·습관을 나타낸다.\n풀이 순서: ① 문장마다 동사의 형태만 본다. → ② 과거형(-ed, 불규칙 과거형, was/were)인 문장을 지운다. → ③ cooks는 현재형이다. on weekends(주말마다)도 현재의 습관을 나타낸다. 정답은 ③.\n문장별 판정:\n정답 판단: cooks는 현재형이고 on weekends(주말마다)도 현재의 습관을 나타내 과거 시제가 아니므로 정답은 ③이다.\n선택지 분석:\n① [오답] cleaned는 clean의 과거형이라 과거 시제 문장이므로 오답이다.\n② [오답] were는 be동사의 과거형이라 과거 시제 문장이므로 오답이다.\n③ [정답] cooks는 현재형이고 on weekends(주말마다)도 현재의 습관을 나타내 과거 시제가 아니므로 정답이다.\n④ [오답] took은 take의 과거형이라 과거 시제 문장이므로 오답이다.\n⑤ [오답] left는 leave의 과거형이라 과거 시제 문장이므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 과거 시제 문장이 아닌 것을 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T12:38:03.380Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T06:04:16.622Z",
+      "text": "정답이 되는 선택지만 길이가 너무 길다. 모든 선택지를 비슷한 길이로 만드는 것이 좋음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:33:08.252Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:33:01.880Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T12:38:05.038Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:33:08.252Z",
+      "what": "확인 완료"
+    }
+  }
+}

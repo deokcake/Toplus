@@ -1,0 +1,30 @@
+{
+  "by": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "done": true,
+  "doneAt": "2026-10-24T02:51:47.565Z",
+  "doneBy": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": "you - yours",
+      "4": "we - us"
+    },
+    "expl": "핵심 규칙: 인칭대명사는 주격(I, you, he, she, we, they), 목적격(me, you, him, her, us, them), 소유대명사(mine, yours, his, hers, ours, theirs)로 형태가 바뀐다.\n풀이 순서: ① 짝의 앞은 모두 주격이다. 뒤가 목적격인지 확인한다. → ② she의 목적격은 her다. hers는 소유대명사다. → ③ 정답은 you - yours.\n문장별 판정:\n정답 판단: 주격 - 소유대명사의 짝이라 나머지(주격 - 목적격)와 관계가 다르므로 정답은 ④이다.\n선택지 분석:\n① [오답] 주격 - 목적격의 짝이므로 오답이다.\n② [오답] 주격 - 목적격의 짝이므로 오답이다.\n③ [오답] 주격 - 목적격의 짝이므로 오답이다.\n④ [정답] 주격 - 소유대명사의 짝이라 나머지(주격 - 목적격)와 관계가 다르므로 정답이다.\n⑤ [오답] 주격 - 목적격의 짝이므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": "2026-10-24T02:51:42.719Z"
+  },
+  "tab": "ai7fx4gw",
+  "updatedAt": "2026-10-24T02:51:47.565Z",
+  "who": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": {
+      "at": "2026-10-24T02:51:47.565Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+ "key": "2-5",
+ "type": "B",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "title": "문장의 형식, 바르게 설명한 학생 고르기",
+ "total_sec": 133,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "2급 · CH 1 문장의 형식 · 5번 · B 유형\n\n이 문제는 문장의 형식을 올바르게 설명한 학생을 모두 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 1 문장의 형식 · 5번 · B 유형",
+     "이 문제는 문장의 형식을 올바르게 설명한 학생을 모두 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 1, 5번 B 유형. 이 문제는 문장의 형식을 올바르게 설명한 학생을 모두 고르는 문제예요.",
+   "caption": "문장의 형식 설명 판단"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 18,
+   "screen": {
+    "text": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오.\n\nYuna: I sent my cousin a postcard. 'send'가 간접목적어와 직접목적어를 차례로 취한 4형식 문장이에요.\nMinho: Dad made me to wash the car. 사역동사 'make' 뒤 목적격 보어 자리에는 to부정사를 쓰므로 'to wash'가 맞아요.\nSora: I bought a scarf for Mom. 'buy'를 3형식으로 쓸 때는 간접목적어 앞에 전치사 'for'를 쓰므로 옳은 문장이에요.\nJin: We found the door locked. 문이 잠긴 수동의 관계이므로 목적격 보어로 과거분사 'locked'를 쓴 것이 맞아요.\nHana: The soup tastes deliciously. 감각동사 'taste' 뒤에는 부사가 와야 하므로 'deliciously'가 맞아요.\n\n① Yuna, Sora, Jin\n② Sora, Jin, Hana\n③ Yuna, Minho, Hana\n④ Minho, Jin\n⑤ Yuna, Sora",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+     "Yuna: I sent my cousin a postcard. 'send'가 간접목적어와 직접목적어를 차례로 취한 4형식 문장이에요.",
+     "Minho: Dad made me to wash the car. 사역동사 'make' 뒤 목적격 보어 자리에는 to부정사를 쓰므로 'to wash'가 맞아요.",
+     "Sora: I bought a scarf for Mom. 'buy'를 3형식으로 쓸 때는 간접목적어 앞에 전치사 'for'를 쓰므로 옳은 문장이에요.",
+     "Jin: We found the door locked. 문이 잠긴 수동의 관계이므로 목적격 보어로 과거분사 'locked'를 쓴 것이 맞아요.",
+     "Hana: The soup tastes deliciously. 감각동사 'taste' 뒤에는 부사가 와야 하므로 'deliciously'가 맞아요.",
+     "① Yuna, Sora, Jin",
+     "② Sora, Jin, Hana",
+     "③ Yuna, Minho, Hana",
+     "④ Minho, Jin",
+     "⑤ Yuna, Sora"
+    ]
+   },
+   "narration": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n4형식(동사 + ~에게 + ~을) → 3형식: give, send, tell, show, teach는 to, buy, make는 for\n사역동사 make, have + 목적어 + 동사원형 (to부정사 ✗)\n목적어와 목적격 보어가 수동 관계 → 과거분사 (목적어가 당하는 일)\n감각동사(look, smell, taste) 뒤 보어 → 형용사 (부사 ✗)\n예) The news made her cry. (그 소식은 그녀를 울게 했어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "4형식(동사 + ~에게 + ~을) → 3형식: give, send, tell, show, teach는 to, buy, make는 for",
+     "사역동사 make, have + 목적어 + 동사원형 (to부정사 ✗)",
+     "목적어와 목적격 보어가 수동 관계 → 과거분사 (목적어가 당하는 일)",
+     "감각동사(look, smell, taste) 뒤 보어 → 형용사 (부사 ✗)",
+     "예) The news made her cry. (그 소식은 그녀를 울게 했어요.)"
+    ]
+   },
+   "narration": "4형식을 3형식으로 바꾸면 받는 사람 앞에 give와 send는 to를, buy와 make는 for를 써요. 사역동사 make와 have 뒤에는 목적어가 하는 일을 to부정사가 아닌 동사원형으로 쓰고, 목적어가 당하는 수동 관계면 과거분사로 써요. 감각동사 뒤 보어로는 부사가 아닌 형용사를 써요. 예를 들어 The news made her cry. 그 소식은 그녀를 울게 했어요.",
+   "caption": "to·for, 목적격 보어, 감각동사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 41,
+   "screen": {
+    "text": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오.\n\nYuna: I sent my cousin a postcard. 'send'가 간접목적어와 직접목적어를 차례로 취한 4형식 문장이에요.\nMinho: Dad made me to wash the car. 사역동사 'make' 뒤 목적격 보어 자리에는 to부정사를 쓰므로 'to wash'가 맞아요.\nSora: I bought a scarf for Mom. 'buy'를 3형식으로 쓸 때는 간접목적어 앞에 전치사 'for'를 쓰므로 옳은 문장이에요.\nJin: We found the door locked. 문이 잠긴 수동의 관계이므로 목적격 보어로 과거분사 'locked'를 쓴 것이 맞아요.\nHana: The soup tastes deliciously. 감각동사 'taste' 뒤에는 부사가 와야 하므로 'deliciously'가 맞아요.\n\n① Yuna, Sora, Jin\n② Sora, Jin, Hana\n③ Yuna, Minho, Hana\n④ Minho, Jin\n⑤ Yuna, Sora",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "올바르게 설명한 학생들",
+       "Dad made me to wash the car."
+      ],
+      "strike": [
+       "사역동사 'make' 뒤 목적격 보어 자리에는 to부정사를 쓰므로 'to wash'가 맞아요."
+      ],
+      "note": "학생마다 예문 O·X와 설명 O·X를 따로 본다. Minho: 사역동사 made 뒤에는 동사원형 wash → to wash가 맞다는 설명 X"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "The soup tastes deliciously."
+      ],
+      "strike": [
+       "감각동사 'taste' 뒤에는 부사가 와야 하므로 'deliciously'가 맞아요."
+      ],
+      "note": "Hana: 감각동사 tastes 뒤 보어는 형용사 delicious → 부사가 맞다는 설명 X"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "I sent my cousin a postcard.",
+       "I bought a scarf for Mom.",
+       "We found the door locked.",
+       "① Yuna, Sora, Jin"
+      ],
+      "strike": [],
+      "note": "Yuna(4형식) O, Sora(buy는 for) O, Jin(문이 잠김 → locked) O → Yuna, Sora, Jin"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 학생마다 예문과 설명이 둘 다 맞는지 따져요. Minho는 made 뒤에 to wash가 맞다고 했지만, 사역동사 made me 뒤에는 동사원형 wash를 써야 하니 틀렸어요. 둘째, Hana는 tastes 뒤에 부사 deliciously가 맞다고 했지만, 감각동사 뒤 보어 자리에는 형용사를 써야 하니 틀렸어요. 셋째, 4형식을 바르게 설명한 Yuna, buy에 for를 쓴다고 한 Sora, 문이 잠긴 수동 관계를 locked로 나타낸 Jin은 모두 맞아요. 그래서 올바르게 설명한 학생은 Yuna, Sora, Jin이에요.",
+   "caption": "Minho·Hana 설명 틀림 → ①"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 22,
+   "screen": {
+    "text": "① Yuna, Sora, Jin  ✓  바르게 설명한 세 학생을 모두 고름\n② Sora, Jin, Hana  ✗  Hana의 설명이 틀림(tastes 뒤 보어는 형용사), Yuna가 빠짐\n③ Yuna, Minho, Hana  ✗  Minho와 Hana의 설명이 틀림, Sora와 Jin이 빠짐\n④ Minho, Jin  ✗  Minho의 설명이 틀림(made 뒤에는 동사원형), Yuna와 Sora가 빠짐\n⑤ Yuna, Sora  ✗  바르게 설명한 Jin이 빠짐",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✓",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Yuna, Sora, Jin  ✓  바르게 설명한 세 학생을 모두 고름",
+     "② Sora, Jin, Hana  ✗  Hana의 설명이 틀림(tastes 뒤 보어는 형용사), Yuna가 빠짐",
+     "③ Yuna, Minho, Hana  ✗  Minho와 Hana의 설명이 틀림, Sora와 Jin이 빠짐",
+     "④ Minho, Jin  ✗  Minho의 설명이 틀림(made 뒤에는 동사원형), Yuna와 Sora가 빠짐",
+     "⑤ Yuna, Sora  ✗  바르게 설명한 Jin이 빠짐"
+    ]
+   },
+   "narration": "정답은 1번 Yuna, Sora, Jin이에요. 감각동사 뒤에 부사가 온다는 Hana의 말을 믿으면 2번이나 3번을 고르게 돼요. made 뒤에 to wash를 쓴다는 Minho의 말을 믿으면 4번이나 3번을 고르게 돼요. 5번은 바르게 설명한 Jin을 빠뜨렸어요.",
+   "caption": "정답 ① Yuna, Sora, Jin"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ① Yuna, Sora, Jin\n\n사역동사 + 목적어 + 동사원형(목적어가 하는 일) / 감각동사 + 형용사 / buy·make는 for",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ① Yuna, Sora, Jin",
+     "사역동사 + 목적어 + 동사원형(목적어가 하는 일) / 감각동사 + 형용사 / buy·make는 for"
+    ]
+   },
+   "narration": "정답은 1번이에요. 기억할 것, 사역동사 make 뒤 목적어가 하는 일은 동사원형으로, 감각동사 뒤 보어는 형용사로 써요.",
+   "caption": "예문과 설명을 따로 확인"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+  "passage": "Yuna: I sent my cousin a postcard. 'send'가 간접목적어와 직접목적어를 차례로 취한 4형식 문장이에요.\nMinho: Dad made me to wash the car. 사역동사 'make' 뒤 목적격 보어 자리에는 to부정사를 쓰므로 'to wash'가 맞아요.\nSora: I bought a scarf for Mom. 'buy'를 3형식으로 쓸 때는 간접목적어 앞에 전치사 'for'를 쓰므로 옳은 문장이에요.\nJin: We found the door locked. 문이 잠긴 수동의 관계이므로 목적격 보어로 과거분사 'locked'를 쓴 것이 맞아요.\nHana: The soup tastes deliciously. 감각동사 'taste' 뒤에는 부사가 와야 하므로 'deliciously'가 맞아요.",
+  "c": [
+   "Yuna, Sora, Jin",
+   "Sora, Jin, Hana",
+   "Yuna, Minho, Hana",
+   "Minho, Jin",
+   "Yuna, Sora"
+  ],
+  "ans": 1,
+  "expl": "핵심 규칙: give·send·tell·show·teach는 3형식에서 to를, buy·make는 for를 쓴다. 사역동사 make·have + 목적어 + 동사원형이고, 목적어와 목적격 보어가 수동 관계이면 과거분사를 쓴다. 감각동사 뒤 보어는 형용사다.\n풀이 순서: ① 학생마다 ‘예문이 맞는 문장인가’와 ‘설명이 맞는가’를 따로 따진다. → ② Minho는 사역동사 made 뒤의 to wash가 맞다고 했고, Hana는 tastes 뒤의 부사 deliciously가 맞다고 했다. 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Yuna, Sora, Jin이다.\n문장별 판정:\nYuna O(send의 4형식).\nMinho X(사역동사 made 뒤에는 원형부정사 wash를 쓴다).\nSora O(buy는 for를 쓴다).\nJin O(문이 잠기는 수동 관계라 locked).\nHana X(tastes 뒤에는 형용사 delicious).\n정답 판단: 올바르게 설명한 학생은 Yuna, Sora, Jin이다.\n선택지 분석:\n① [정답] 올바르게 설명한 학생 Yuna, Sora, Jin를 빠짐없이 골랐으므로 정답이다.\n② [오답] Hana는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Yuna를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Minho, Hana는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Sora, Jin를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Minho는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Yuna, Sora를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] 올바르게 설명한 학생 Jin를 빠뜨렸다. 따라서 오답이다."
+ }
+}

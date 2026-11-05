@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T07:10:53.423Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "We saw <u>he</u>. → We saw <u>him</u>.",
+      "1": "The red cap is <u>her's</u>. → The red cap is <u>hers</u>.",
+      "2": "Is this <u>you</u> bag? → Is this <u>your</u> bag?",
+      "3": "That house is <u>their</u>. → That house is <u>theirs</u>.",
+      "4": "Tom visited <u>they</u>. → Tom visited <u>their</u>."
+    },
+    "expl": "핵심 규칙: 동사·전치사의 목적어 자리에는 목적격(me, him, her, us, them)을 쓴다. 명사 없이 ‘~의 것’은 소유대명사(mine, yours, hers, ours, theirs)로 쓰며 아포스트로피(')를 붙이지 않고, ‘누구의’는 Whose로 쓴다.\n풀이 순서: ① 고친 말이 그 자리에 맞는지 본다: 명사 앞이면 소유격, 명사가 없으면 소유대명사, 동사·전치사 뒤면 목적격. → ② 선택지 ⑤는 동사 visited 뒤라 목적격 them이 와야 하는데 소유격 their로 고쳤다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: 목적어 자리는 목적격 them이어야 하는데 소유격 their로 고쳐 바르게 고치지 못했으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 목적어 자리에는 목적격 him을 쓰고, 바르게 고쳤으므로 오답이다.\n② [오답] 소유대명사 hers에는 '를 붙이지 않으고, 바르게 고쳤으므로 오답이다.\n③ [오답] 명사 앞에는 소유격 your를 쓰고, 바르게 고쳤으므로 오답이다.\n④ [오답] 명사 없이 ‘그들의 것’은 theirs이고, 바르게 고쳤으므로 오답이다.\n⑤ [정답] 목적어 자리는 목적격 them이어야 하는데 소유격 their로 고쳐 바르게 고치지 못했으므로 정답이다.",
+    "passage": null,
+    "stem": "밑줄 친 부분을 바르게 고치지 못한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:10:42.528Z"
+  },
+  "tab": "el3qe2ii",
+  "updatedAt": "2026-10-27T07:10:53.423Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:10:53.423Z",
+      "what": "확인 완료"
+    }
+  }
+}

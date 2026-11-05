@@ -1,0 +1,33 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T04:10:34.276Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "is",
+      "1": "am",
+      "2": "be",
+      "3": "are",
+      "4": "being"
+    },
+    "expl": "핵심 규칙: either A or B, neither A nor B, not only A but also B가 주어이면 동사는 B에 수를 맞추고, both A and B는 복수 동사를 쓴다.\n풀이 순서: ① 주어의 상관접속사를 확인한다: Neither A nor B. → ② 동사는 가까운 B(his friends)에 맞춘다. 복수다. → ③ 정답은 are. be, being은 문장의 동사가 될 수 없다.\n문장별 판정:\n정답 판단: are: Neither A nor B는 B(his friends, 복수)에 수를 맞추므로 정답은 ④이다.\n선택지 분석:\n① [오답] is: 동사는 B(his friends)에 맞추고, 단수형은 맞지 않으므로 오답이다.\n② [오답] am: 주어가 I가 아니므로 오답이다.\n③ [오답] be: 주어 뒤 동사 자리에 원형을 쓸 수 없으므로 오답이다.\n④ [정답] are: Neither A nor B는 B(his friends, 복수)에 수를 맞추므로 정답이다.\n⑤ [오답] being: -ing만으로는 문장의 동사가 될 수 없으므로 오답이다.",
+    "passage": "- Neither Tom nor his friends ________ interested in the game.",
+    "stem": "다음 빈칸에 들어갈 가장 적절한 단어는?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:10:30.580Z"
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:36:12.473Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T03:36:12.473Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:36:12.473Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차: 길이)",
+  "done": true,
+  "doneAt": "2026-10-28T04:04:22.812Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "I <u>took</u> a bus to the museum yesterday.",
+      "1": "We <u>drank</u> cold water after the game.",
+      "2": "Tom <u>buyed</u> a new bike last weekend.",
+      "3": "Dad <u>made</u> a wooden box for me.",
+      "4": "Jane <u>came</u> home late last night."
+    },
+    "expl": "핵심 규칙: 불규칙동사의 과거형은 -ed를 붙이지 않고 따로 외운 형태를 쓴다(go - went, buy - bought, see - saw, write - wrote).\n풀이 순서: ① 밑줄 친 동사의 원형을 떠올려 과거형이 규칙(-ed)인지 불규칙인지 가른다. → ② 불규칙동사에 -ed를 붙인 것이 틀린 형태다. → ③ 선택지 ③의 buyed는 틀렸다. buy의 과거형은 bought다.\n문장별 판정:\n정답 판단: buyed: buy의 과거형은 bought이다. 어법상 틀린 부분이므로 정답은 ③이다.\n선택지 분석:\n① [오답] took: take의 과거형을 바르게 썼으므로 오답이다.\n② [오답] drank: drink의 과거형을 바르게 썼으므로 오답이다.\n③ [정답] buyed: buy의 과거형은 bought이다. 어법상 틀린 부분이므로 정답이다.\n④ [오답] made: make의 과거형을 바르게 썼으므로 오답이다.\n⑤ [오답] came: come의 과거형을 바르게 썼으므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 밑줄 친 부분이 어법상 틀린 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T17:31:06.587Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T17:31:13.409Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:04:22.812Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:04:20.552Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:04:22.812Z",
+      "what": "확인 완료"
+    }
+  }
+}

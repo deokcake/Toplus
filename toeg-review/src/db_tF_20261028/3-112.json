@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-27T05:28:53.074Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "(A) in / (B) at",
+      "1": "(A) on / (B) in",
+      "2": "(A) at / (B) on",
+      "3": "(A) at / (B) in",
+      "4": "(A) in / (B) on"
+    },
+    "expl": "핵심 규칙: 장소 전치사는 at the end of, at the corner of, in front of, on the top shelf, at home, in the room처럼 명사와 어울리는 짝으로 쓴다.\n풀이 순서: ① (A)를 정한다: ‘집에’는 at home으로 굳어진 표현이다. (A)는 at이다. → ② (B)를 정한다: 방이라는 공간 안이므로 (B)는 in이다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: ‘집에’는 at home으로 나타내 (A)에는 at, 방이라는 공간 안이고(B)에는 in이므로 정답은 ④이다.\n선택지 분석:\n① [오답] (A) in: ‘집에’는 at home으로 나타내 (A)에는 at이다, (B) at: 방이라는 공간 안이므로 (B)에는 in이다. 따라서 오답이다.\n② [오답] (A) on: ‘집에’는 at home으로 나타내 (A)에는 at이다. 따라서 오답이다.\n③ [오답] (B) on: 방이라는 공간 안이므로 (B)에는 in이다. 따라서 오답이다.\n④ [정답] ‘집에’는 at home으로 나타내 (A)에는 at, 방이라는 공간 안이고(B)에는 in이므로 정답이다.\n⑤ [오답] (A) in: ‘집에’는 at home으로 나타내 (A)에는 at이다, (B) on: 방이라는 공간 안이므로 (B)에는 in이다. 따라서 오답이다.",
+    "passage": "A: Where is Minsu now?\nB: He is (<u>    A    </u>) home. He's reading a book (<u>    B    </u>) his room.",
+    "stem": "다음 대화의 빈칸에 들어갈 전치사가 바르게 짝지어진 것은?"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:28:53.074Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:28:53.074Z",
+      "what": "확인 완료"
+    }
+  }
+}

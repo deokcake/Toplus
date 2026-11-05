@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:22:46.539Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "your",
+      "1": "will",
+      "2": "help",
+      "3": "sister",
+      "4": "us"
+    },
+    "expl": "핵심 규칙: will 의문문은 Will + 주어 + 동사원형 ~?의 어순이다.\n풀이 순서: ① 의문문이므로 Will을 맨 앞에 둔다. → ② 그 뒤에 주어 + 동사원형 + 나머지를 놓는다: Will / your / sister / help / us? → ③ 넷째 단어는 help.\n문장별 판정:\n정답 판단: Will your sister help us?에서 네 번째 단어이므로 정답은 ③이다.\n선택지 분석:\n① [오답] Will your sister help us?에서 두 번째 단어이므로 오답이다.\n② [오답] Will은 첫 번째 단어이므로 오답이다.\n③ [정답] Will your sister help us?에서 네 번째 단어이므로 정답이다.\n④ [오답] 세 번째 단어이므로 오답이다.\n⑤ [오답] 다섯 번째 단어이므로 오답이다.",
+    "passage": "( your / will / help / sister / us / ? )",
+    "stem": "다음 단어들을 바르게 배열하여 의문문을 만들 때, 네 번째에 올 단어는?"
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:22:45.380Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:22:46.539Z",
+      "what": "확인 완료"
+    }
+  }
+}

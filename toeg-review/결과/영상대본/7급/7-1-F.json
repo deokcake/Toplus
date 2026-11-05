@@ -1,0 +1,174 @@
+{
+ "key": "7-1",
+ "type": "F",
+ "grade": 7,
+ "chapter": "CH 1 명사",
+ "title": "셀 수 있는 명사와 셀 수 없는 명사",
+ "total_sec": 119,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "7급 · CH 1 명사 · 1번 · F 유형\n\n이 문제는 다섯 개의 명사 가운데 셀 수 없는 명사를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 1 명사 · 1번 · F 유형",
+     "이 문제는 다섯 개의 명사 가운데 셀 수 없는 명사를 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 1, 1번 F 유형. 이 문제는 다섯 개의 명사 가운데 셀 수 없는 명사를 고르는 문제예요.",
+   "caption": "셀 수 없는 명사 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 13,
+   "screen": {
+    "text": "다음 중 셀 수 없는 명사를 고르시오.\n\n① rabbit\n② bicycle\n③ cookie\n④ water\n⑤ teacher",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 셀 수 없는 명사를 고르시오.",
+     "① rabbit",
+     "② bicycle",
+     "③ cookie",
+     "④ water",
+     "⑤ teacher"
+    ]
+   },
+   "narration": "다음 중 셀 수 없는 명사를 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n하나, 둘 셀 수 있는 명사 → a/an을 붙이거나 복수형으로 (a ball, two balls)\n셀 수 없는 명사 → a/an을 붙이지 않고 복수형도 쓰지 않아요\n물질(water, milk, bread, rice), 감정(love), money는 보통 셀 수 없어요\n예) I have two balls. I drink juice. (나는 공이 두 개 있어요. 나는 주스를 마셔요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "하나, 둘 셀 수 있는 명사 → a/an을 붙이거나 복수형으로 (a ball, two balls)",
+     "셀 수 없는 명사 → a/an을 붙이지 않고 복수형도 쓰지 않아요",
+     "물질(water, milk, bread, rice), 감정(love), money는 보통 셀 수 없어요",
+     "예) I have two balls. I drink juice. (나는 공이 두 개 있어요. 나는 주스를 마셔요.)"
+    ]
+   },
+   "narration": "하나, 둘 셀 수 있는 명사는 하나일 때 a나 an을 붙일 수 있고, 여럿일 때는 복수형으로 써요. water 물, milk 우유, bread 빵, rice 쌀 같은 물질이나 love 사랑 같은 감정, 그리고 money 돈은 보통 셀 수 없는 명사예요. 셀 수 없는 명사에는 a나 an을 붙이지 않고, 복수형으로도 쓰지 않아요. 예를 들어 I have two balls, 나는 공이 두 개 있어요. I drink juice, 나는 주스를 마셔요.",
+   "caption": "셀 수 있는 명사, 셀 수 없는 명사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 중 셀 수 없는 명사를 고르시오.\n\n① rabbit\n② bicycle\n③ cookie\n④ water\n⑤ teacher",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "셀 수 없는 명사"
+      ],
+      "strike": [],
+      "note": "발문: 셀 수 없는 명사를 고른다 → 보기마다 하나, 둘 셀 수 있는지 따져 본다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① rabbit",
+       "② bicycle",
+       "③ cookie",
+       "⑤ teacher"
+      ],
+      "note": "rabbit, bicycle, cookie, teacher → a rabbit, a bicycle, a cookie, a teacher … 셀 수 있다 → 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ water"
+      ],
+      "strike": [],
+      "note": "남는 것은 water(물) = 액체로 된 물질 → 하나, 둘 셀 수 없다."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 셀 수 없는 명사를 고르는 문제니까, 보기마다 하나, 둘 셀 수 있는지 따져 봐요. 둘째, rabbit, bicycle, cookie, teacher는 a rabbit, a bicycle, a cookie, a teacher처럼 하나, 둘 셀 수 있으니 지워요. 셋째, 남은 water는 물이에요. 물은 액체로 된 물질이라 하나, 둘 셀 수 없어요. 그래서 셀 수 없는 명사는 water예요.",
+   "caption": "셀 수 있는 것 지우기 → water"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① rabbit  ✗  a rabbit, two rabbits처럼 셀 수 있어요\n② bicycle  ✗  a bicycle, two bicycles처럼 셀 수 있어요\n③ cookie  ✗  a cookie, two cookies처럼 셀 수 있어요\n④ water  ✓  물이라는 액체 물질, 셀 수 없는 명사\n⑤ teacher  ✗  a teacher, two teachers처럼 셀 수 있어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① rabbit  ✗  a rabbit, two rabbits처럼 셀 수 있어요",
+     "② bicycle  ✗  a bicycle, two bicycles처럼 셀 수 있어요",
+     "③ cookie  ✗  a cookie, two cookies처럼 셀 수 있어요",
+     "④ water  ✓  물이라는 액체 물질, 셀 수 없는 명사",
+     "⑤ teacher  ✗  a teacher, two teachers처럼 셀 수 있어요"
+    ]
+   },
+   "narration": "정답은 4번 water예요. water는 물이라는 액체 물질이라 하나, 둘 셀 수 없어요. 3번 cookie는 먹는 것이라 헷갈릴 수 있지만, a cookie, two cookies처럼 하나, 둘 셀 수 있어요. 2번 bicycle도 a bicycle, two bicycles처럼 셀 수 있는 명사예요.",
+   "caption": "정답 ④ water"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ④ water\n\nwater·milk 같은 물질 → 보통 셀 수 없는 명사",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ water",
+     "water·milk 같은 물질 → 보통 셀 수 없는 명사"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, water, milk 같은 물질은 보통 셀 수 없는 명사라서 a나 an을 붙이지 않아요.",
+   "caption": "물질은 보통 셀 수 없어요"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 셀 수 없는 명사를 고르시오.",
+  "passage": "",
+  "c": [
+   "rabbit",
+   "bicycle",
+   "cookie",
+   "water",
+   "teacher"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 셀 수 있는 명사는 a/an을 붙이거나 복수형으로 쓸 수 있다. 물질(bread, rice, milk, water, money)이나 추상적인 것(love)을 나타내는 명사는 셀 수 없어 a/an을 붙이지 않고 복수형도 쓰지 않는다.\n풀이 순서: ① 보기마다 앞에 ‘한 개, 두 개’를 붙여 본다. → ② 붙일 수 없는 것을 찾는다. water(물)는 액체라 셀 수 없다. → ③ 정답은 water.\n문장별 판정:\n정답 판단: water: 물질을 나타내는 셀 수 없는 명사이므로 정답은 ④이다.\n선택지 분석:\n① [오답] rabbit: 하나, 둘로 셀 수 있는 명사이므로 오답이다.\n② [오답] bicycle: 하나, 둘로 셀 수 있는 명사이므로 오답이다.\n③ [오답] cookie: 하나, 둘로 셀 수 있는 명사이므로 오답이다.\n④ [정답] water: 물질을 나타내는 셀 수 없는 명사이므로 정답이다.\n⑤ [오답] teacher: 하나, 둘로 셀 수 있는 명사이므로 오답이다."
+ }
+}

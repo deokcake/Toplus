@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T06:24:30.262Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "This cap is too tight. Do you have a looser _____?",
+      "1": "I don't have an eraser. Can you lend me _____?",
+      "2": "Jane baked a pie and shared _____ with her neighbors.",
+      "3": "There are two parks near here. Let's go to the bigger _____.",
+      "4": "Which bus should I take, this one or that _____?"
+    },
+    "expl": "핵심 규칙: it은 앞서 말한 바로 그 대상을 다시 가리킨다. one은 앞의 단수 가산명사와 같은 종류의 다른 하나를 가리키며, a new one·the bigger one·this one처럼 수식어와 함께 쓸 수 있다.\n풀이 순서: ① 빈칸이 앞에 나온 ‘바로 그것’을 가리키는지, ‘같은 종류의 다른 하나’를 가리키는지 가른다. → ② 빈칸 앞에 a/an/the + 형용사나 this, that이 있거나, 정해지지 않은 아무거나 하나를 뜻하면 one이다. → ③ 선택지 ③은 Jane이 구운 바로 그 파이를 가리키므로 it이다.\n문장별 판정:\n정답 판단: 빈칸: 앞에 나온 바로 그 파이를 가리키고, it이 들어가 나머지 넷(one)과 다르므로 정답은 ③이다.\n선택지 분석:\n① [오답] 빈칸: 모자와 같은 종류의 다른 하나를 가리키므로 one이 들어간다. 나머지와 같으므로 오답이다.\n② [오답] 빈칸: 지우개와 같은 종류의 다른 하나를 가리키므로 one이 들어간다. 나머지와 같으므로 오답이다.\n③ [정답] 빈칸: 앞에 나온 바로 그 파이를 가리키고, it이 들어가 나머지 넷(one)과 다르므로 정답이다.\n④ [오답] 빈칸: 공원과 같은 종류의 다른 하나를 가리키므로 one이 들어간다. 나머지와 같으므로 오답이다.\n⑤ [오답] 빈칸: 버스와 같은 종류의 다른 하나를 가리키므로 one이 들어간다. 나머지와 같으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 빈칸에 들어갈 말이 나머지 넷과 다른 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T06:24:17.470Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T06:24:30.262Z",
+      "what": "확인 완료"
+    }
+  }
+}

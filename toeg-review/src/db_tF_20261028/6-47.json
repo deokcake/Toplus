@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:18:16.659Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "We didn't visited our grandma last weekend.",
+      "1": "We visit our grandma last weekend.",
+      "2": "We doesn't visit our grandma last weekend.",
+      "3": "We didn't visit our grandma last weekend.",
+      "4": "We weren't visit our grandma last weekend."
+    },
+    "expl": "핵심 규칙: 과거의 일은 동사의 과거형으로 쓴다. 규칙동사는 -ed를 붙이고(자음 + y는 -ied, 단모음 + 단자음은 자음을 겹쳐 -ed), 부정문은 didn't + 동사원형, 의문문은 Did + 주어 + 동사원형 ~?으로 쓴다.\n풀이 순서: ① 우리말 ‘방문하지 않았다’ → 과거의 부정이므로 didn't가 필요하다. → ② didn't 뒤의 동사는 원형이다: didn't visit. → ③ doesn't, wasn't/weren't, didn't + 과거형을 지운다. 정답은 ④.\n문장별 판정:\n정답 판단: didn't + 동사원형 visit으로 과거 부정을 바르게 나타냈으므로 정답은 ④이다.\n선택지 분석:\n① [오답] didn't 뒤에는 동사원형 visit을 써야 하므로 오답이다.\n② [오답] 부정문이 아니고 과거형도 아니므로 오답이다.\n③ [오답] last weekend가 있어 doesn't를 쓸 수 없고 주어 We와도 맞지 않으므로 오답이다.\n④ [정답] didn't + 동사원형 visit으로 과거 부정을 바르게 나타냈으므로 정답이다.\n⑤ [오답] 일반동사 visit의 부정에 weren't를 쓸 수 없으므로 오답이다.",
+    "passage": "우리는 지난 주말에 할머니를 방문하지 않았다.",
+    "stem": "다음 우리말을 영어로 바르게 옮긴 문장을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:18:04.575Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:18:16.659Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:18:16.659Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T08:20:17.689Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": null,
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 비교급·최상급에는 -er·-est와 more·most를 겹쳐 쓰지 않는다. heavy - heavier, fast - faster, tall - tallest, good - better - best, bad - worse - worst처럼 알맞은 형태를 쓴다.\n풀이 순서: ① 밑줄마다 낱말의 길이를 본다. 짧은 낱말(1음절, -y로 끝나는 2음절)은 -er/-est, 긴 낱말은 more/most다. → ② 둘을 겹쳐 쓰지 않았는지, 불규칙 변화를 바르게 썼는지 본다. → ③ d more happier(happier)만 틀렸다. 옳은 문장은 4개이다.\n문장별 판정:\nⓐ O. big의 비교급 bigger이다.\nⓑ O. easy의 최상급 easiest이다.\nⓒ O. good의 비교급 better이다.\nⓓ X. happier에 more를 겹쳐 쓸 수 없다.\nⓔ O. bad의 최상급 worst이다.\n정답 판단: 밑줄 친 부분이 옳은 문장은 ⓐ, ⓑ, ⓒ, ⓔ로 4개이다.\n선택지 분석:\n① [오답] 밑줄 친 부분이 옳은 문장은 ⓐ, ⓑ, ⓒ, ⓔ로 4개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 밑줄 친 부분이 옳은 문장은 ⓐ, ⓑ, ⓒ, ⓔ로 4개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 밑줄 친 부분이 옳은 문장은 ⓐ, ⓑ, ⓒ, ⓔ로 4개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [정답] 밑줄 친 부분이 옳은 문장은 ⓐ, ⓑ, ⓒ, ⓔ로 4개이다. 이 보기의 4개는 실제 개수와 일치한다.\n⑤ [오답] 밑줄 친 부분이 옳은 문장은 ⓐ, ⓑ, ⓒ, ⓔ로 4개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "ⓐ The dog is <u>bigger than</u> the cat next door.\nⓑ This is <u>the easiest</u> question on the test.\nⓒ Tom is <u>better than</u> Ben at singing.\nⓓ Jane is <u>more happier than</u> Amy today.\nⓔ It is <u>the worst</u> day of my life.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장의 개수를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T08:20:04.769Z"
+  },
+  "tab": "x2buc7cy",
+  "updatedAt": "2026-10-27T08:20:17.689Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T08:20:17.689Z",
+      "what": "확인 완료"
+    }
+  }
+}

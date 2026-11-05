@@ -1,0 +1,44 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:32:46.673Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "I put two sugar in my warm tea every morning.",
+      "1": "I put many sugar in my warm tea every morning.",
+      "2": "I put an sugar in my warm tea every morning.",
+      "3": "I put some sugar in my warm tea every morning.",
+      "4": "I put a sugar in my warm tea every morning."
+    },
+    "expl": "핵심 규칙: sugar, butter, water, bread, money 같은 셀 수 없는 명사는 a/an이나 수를 붙이지 않고, ‘약간’은 some으로 나타낸다.\n풀이 순서: ① 명사(butter)가 셀 수 있는지 본다. 하나, 둘로 세지 않고 양으로 다루는 명사다. → ② 셀 수 없는 명사에는 a/an, 수(two), many, 복수형 -s를 쓰지 않는다. → ③ ‘약간’은 some으로 나타낸다. 정답은 ④.\n문장별 판정:\n정답 판단: ‘약간의 설탕’를 some + 셀 수 없는 명사로 바르게 옮겼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 셀 수 없는 명사 sugar 앞에 수(two)를 쓸 수 없으므로 오답이다.\n② [오답] many는 셀 수 있는 명사의 복수형에 쓰므로 셀 수 없는 sugar에는 쓸 수 없어 오답이다.\n③ [오답] 셀 수 없는 명사 sugar 앞에 an을 쓸 수 없으므로 오답이다.\n④ [정답] ‘약간의 설탕’를 some + 셀 수 없는 명사로 바르게 옮겼으므로 정답이다.\n⑤ [오답] 셀 수 없는 명사 sugar 앞에 a를 쓸 수 없으므로 오답이다.",
+    "passage": "나는 매일 아침 따뜻한 차에 설탕을 약간 넣는다.",
+    "stem": "다음 우리말을 영어로 가장 바르게 옮긴 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T05:49:14.066Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:49:42.238Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:32:46.673Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:32:35.872Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:32:46.673Z",
+      "what": "확인 완료"
+    },
+    "u_p7DX7y1beMZ8et5ArgcmKw": {
+      "at": "2026-10-24T02:48:18.075Z",
+      "what": "확인 완료"
+    }
+  }
+}

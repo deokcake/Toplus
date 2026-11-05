@@ -1,0 +1,180 @@
+{
+ "key": "5-34",
+ "type": "F",
+ "grade": 5,
+ "chapter": "CH 4 현재진행형",
+ "title": "Are we ~? 진행형 질문의 대답",
+ "total_sec": 136,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "5급 · CH 4 현재진행형 · 34번 · F 유형\n\n이 문제는 현재진행형 질문 Are we walking too fast에 알맞은 짧은 대답을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 4 현재진행형 · 34번 · F 유형",
+     "이 문제는 현재진행형 질문 Are we walking too fast에 알맞은 짧은 대답을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 4, 34번 F 유형. 이 문제는 현재진행형 질문 Are we walking too fast에 알맞은 짧은 대답을 고르는 문제예요.",
+   "caption": "Are we ~?의 대답"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 18,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말을 고르시오.\n\nA: Are we walking too fast?\nB: _________________\n\n① No, we don't.\n② Yes, they are.\n③ No, we aren't.\n④ Yes, we do.\n⑤ No, we weren't.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 말을 고르시오.",
+     "A: Are we walking too fast?",
+     "B: _________________",
+     "① No, we don't.",
+     "② Yes, they are.",
+     "③ No, we aren't.",
+     "④ Yes, we do.",
+     "⑤ No, we weren't."
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 말을 고르세요. Are we walking too fast? 우리가 너무 빨리 걷고 있니? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\n현재진행형 질문: Am / Is / Are + 주어 + 동사의 ing형 ~? (지금 ~하고 있니?)\nbe동사로 대답: Yes, 주어 + be동사.  /  No, 주어 + be동사 + not.\n주어는 보통 대명사로, be동사는 그 주어에 맞는 현재형으로\n예) Are your friends playing soccer? — No, they aren't. (네 친구들은 축구하고 있니? 아니, 안 하고 있어.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재진행형 질문: Am / Is / Are + 주어 + 동사의 ing형 ~? (지금 ~하고 있니?)",
+     "be동사로 대답: Yes, 주어 + be동사.  /  No, 주어 + be동사 + not.",
+     "주어는 보통 대명사로, be동사는 그 주어에 맞는 현재형으로",
+     "예) Are your friends playing soccer? — No, they aren't. (네 친구들은 축구하고 있니? 아니, 안 하고 있어.)"
+    ]
+   },
+   "narration": "Am, Is, Are로 시작해서 지금 하고 있는지 묻는 현재진행형 질문에는 be동사로 대답해요. Yes 뒤에는 주어와 be동사를, No 뒤에는 주어와 be동사와 not을 써요. 주어는 보통 대명사로 바꾸고, be동사는 그 주어에 맞는 현재형으로 써요. Are your friends playing soccer? 네 친구들은 축구하고 있니? No, they aren't. 아니, 안 하고 있어.",
+   "caption": "진행형 질문엔 be동사로 대답"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 35,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말을 고르시오.\n\nA: Are we walking too fast?\nB: _________________\n\n① No, we don't.\n② Yes, they are.\n③ No, we aren't.\n④ Yes, we do.\n⑤ No, we weren't.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Are"
+      ],
+      "strike": [
+       "① No, we don't.",
+       "④ Yes, we do."
+      ],
+      "note": "Are로 시작하는 질문 → be동사로 대답. don't ①, do ④ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "we walking"
+      ],
+      "strike": [
+       "② Yes, they are."
+      ],
+      "note": "질문의 we = 함께 걷는 묻는 사람과 대답하는 사람 → 대답도 we. they로 받은 ② 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ No, we aren't."
+      ],
+      "strike": [
+       "⑤ No, we weren't."
+      ],
+      "note": "we에 맞는 현재형 be동사는 are. 과거형 ⑤ weren't 지움 → ③ No, we aren't."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 질문이 Are로 시작하니 be동사로 대답해야 해서, don't로 대답한 1번과 do로 대답한 4번을 지워요. 둘째, 질문의 we는 묻는 사람과 대답하는 사람을 함께 가리키니, 대답도 we로 하고 they로 받은 2번은 지워요. 셋째, we에 맞는 현재형 be동사는 are이니, 과거형 weren't를 쓴 5번을 지워요. 남는 것은 3번 No, we aren't. 아니, 너무 빨리 걷고 있지 않아.",
+   "caption": "be동사 → we → 현재형"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 27,
+   "screen": {
+    "text": "① No, we don't.  ✗  Are로 물었으니 don't로 답하지 않아요\n② Yes, they are.  ✗  우리를 가리키는 we를 they로 바꾸지 않아요\n③ No, we aren't.  ✓  we에 맞는 현재형 aren't\n④ Yes, we do.  ✗  Yes로 답해도 do가 아니라 we are\n⑤ No, we weren't.  ✗  현재형 질문에 과거형 weren't는 안 돼요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① No, we don't.  ✗  Are로 물었으니 don't로 답하지 않아요",
+     "② Yes, they are.  ✗  우리를 가리키는 we를 they로 바꾸지 않아요",
+     "③ No, we aren't.  ✓  we에 맞는 현재형 aren't",
+     "④ Yes, we do.  ✗  Yes로 답해도 do가 아니라 we are",
+     "⑤ No, we weren't.  ✗  현재형 질문에 과거형 weren't는 안 돼요"
+    ]
+   },
+   "narration": "정답은 3번, No, we aren't예요. 2번 Yes, they are는 우리를 가리키는 we를 다른 사람들을 가리키는 they로 바꿔서 틀렸어요. 1번 No, we don't는 Are로 물었는데 don't로 대답해서 틀렸어요. 5번 No, we weren't는 현재형 질문에 과거형 weren't로 대답해서 틀렸어요.",
+   "caption": "정답 ③ No, we aren't."
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ③ No, we aren't.\n\n현재진행형 질문 → Yes/No, 대명사 주어 + 그 주어에 맞는 현재형 be동사(+ not)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ No, we aren't.",
+     "현재진행형 질문 → Yes/No, 대명사 주어 + 그 주어에 맞는 현재형 be동사(+ not)"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 현재진행형 질문에는 주어를 보통 대명사로 받고, 그 주어에 맞는 현재형 be동사로 대답해요.",
+   "caption": "주어 + 현재형 be동사"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 말을 고르시오.",
+  "passage": "A: Are we walking too fast?\nB: _________________",
+  "c": [
+   "No, we don't.",
+   "Yes, they are.",
+   "No, we aren't.",
+   "Yes, we do.",
+   "No, we weren't."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: be동사 진행형 의문문에는 Yes, 주어 + be동사. / No, 주어 + be동사 + not.으로 답한다. 대답의 주어는 질문의 주어에 맞추고(you → I, Jane → she), 시제도 질문과 같게 현재형 be동사를 쓴다.\n풀이 순서: ① 질문의 be동사와 주어를 본다: Are we ~? → ② 대답의 주어는 we, 동사는 질문과 같은 현재형 be동사다. do/does나 was/were로 답한 것을 지운다. → ③ 정답은 No, we aren't.\n문장별 판정:\n정답 판단: Are we 질문에 we aren't로 바르게 답했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] be동사 의문문에는 don't로 답하지 않으므로 오답이다.\n② [오답] we에 대한 질문에 they로 답했으므로 오답이다.\n③ [정답] Are we 질문에 we aren't로 바르게 답했으므로 정답이다.\n④ [오답] be동사 의문문에는 do로 답하지 않으므로 오답이다.\n⑤ [오답] 현재진행형 질문에 과거형 weren't로 답했으므로 오답이다."
+ }
+}

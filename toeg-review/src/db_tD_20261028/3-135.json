@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T18:32:45.374Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "How a exciting game it was!",
+      "1": "What exciting the game was!",
+      "2": "What exciting game it was!",
+      "3": "What an exciting game it was!",
+      "4": "How exciting game it was!"
+    },
+    "expl": "핵심 규칙: 감탄문은 What + (a/an) + 형용사 + 명사 + 주어 + 동사!, How + 형용사/부사 + 주어 + 동사!이다. 복수명사 앞에는 a/an을 쓰지 않고, How 바로 뒤에는 a/an + 명사를 쓰지 않는다.\n풀이 순서: ① What 뒤에는 ‘(a/an) + 형용사 + 명사’, How 뒤에는 ‘형용사/부사’만 온다. 그 뒤는 주어 + 동사다. → ② 보기마다 What/How 바로 뒤의 덩어리를 확인한다. ④만 What + an + exciting + game + it was로 맞다. ①·⑤는 How 뒤에 명사가 왔고, ②는 명사 없이 What을 썼고, ③은 an이 빠졌다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: What + an + 형용사 + 명사 + 주어 + 동사의 어순이므로 정답은 ④이다.\n선택지 분석:\n① [오답] How 뒤에 a + 형용사 + 명사를 쓸 수 없으므로 오답이다.\n② [오답] 명사 없이 형용사만 오면 How를 쓰므로 오답이다.\n③ [오답] 단수명사 game 앞에 an이 빠졌으므로 오답이다.\n④ [정답] What + an + 형용사 + 명사 + 주어 + 동사의 어순이므로 정답이다.\n⑤ [오답] How 뒤에 형용사 + 명사를 쓸 수 없으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 감탄문의 문장 구조가 어법상 옳은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:32:35.061Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:32:45.374Z",
+      "what": "확인 완료"
+    }
+  }
+}

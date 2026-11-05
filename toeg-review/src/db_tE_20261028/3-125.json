@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T05:00:19.786Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: both A and B와 A as well as B는 두 항목을 포함한다. not only A but also B는 A뿐 아니라 B도라는 뜻이다. neither A nor B의 부정 의미는 not ... A or B로 나타낼 수 있다. 연결 표현은 동사의 인칭 변화처럼 분석하지 않는다.\n풀이 순서: ① 첫 문장의 표현을 확인한다: B as well as A. → ② 둘째 문장의 틀에 맞는 같은 뜻의 표현을 찾는다: not only A 뒤이므로 but also B. → ③ 정답은 but also.\n문장별 판정:\n정답 판단: 앞에 이미 있는 not only와 짝을 이루어 두 언어를 모두 말한다는 뜻을 나타낸다. 따라서 정답은 ⑤이다.\n선택지 분석:\n① [오답] or는 둘 중 하나의 선택을 나타내어 두 항목을 모두 포함하는 원문의 뜻과 다르다.\n② [오답] 이 긍정 문장의 두 항목을 모두 포함하는 자리에 부정 연결 nor를 쓸 수 없다.\n③ [오답] 이미 제시된 상관접속사와 맞게 짝을 이루려면 but also가 필요하다. and는 그 짝을 만들지 못한다.\n④ [오답] 이미 제시된 상관접속사와 맞게 짝을 이루려면 but also가 필요하다. as well as는 그 짝을 만들지 못한다.\n⑤ [정답] 앞에 이미 있는 not only와 짝을 이루어 두 언어를 모두 말한다는 뜻을 나타낸다.",
+    "passage": "Jane can speak English as well as French.\n= Jane can speak not only French (<u>           </u>) English.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T04:59:58.302Z"
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T05:00:19.786Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T05:00:19.786Z",
+      "what": "확인 완료"
+    }
+  }
+}

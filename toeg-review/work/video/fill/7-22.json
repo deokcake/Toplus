@@ -1,0 +1,446 @@
+{
+ "A": {
+  "title": "is와 어울리는 주어",
+  "intro": "이 문제는 be동사 is 앞 빈칸에 들어갈 수 없는 주어를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 알맞지 않은 것을 고르세요. 빈칸, is pretty. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형은 주어에 맞게 am, is, are",
+    "I → am",
+    "he, she, it, I·you가 아닌 한 사람·한 개 (my dad, the dog) → is",
+    "you, we, they, 여럿 (the dogs, Mike and Sora) → are",
+    "예) He is tall. They are tall. (그는 키가 커요. 그들은 키가 커요.)"
+   ],
+   "narration": "be동사 현재형 am, is, are는 주어가 누구인지, 어떤지, 어디에 있는지 말해요. 주어가 I면 am, he, she, it처럼 I도 you도 아닌 한 사람이나 한 개면 is를 써요. you, we, they이거나 여럿이면 are를 써요. 예를 들어 He is tall, 그는 키가 커요. They are tall, 그들은 키가 커요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 바로 뒤 be동사 is → 빈칸은 is와 어울리는 주어 자리",
+    "highlight": [
+     "is pretty."
+    ],
+    "strike": [],
+    "narration": "첫째, 빈칸 바로 뒤에 be동사 is가 있으니, 빈칸에는 is와 어울리는 주어가 들어가야 해요."
+   },
+   {
+    "note": "My sister, Ella, It, She = I·you가 아닌 한 사람·한 개 → is와 어울림 → 답이 아니다",
+    "highlight": [],
+    "strike": [
+     "① My sister",
+     "③ Ella",
+     "④ It",
+     "⑤ She"
+    ],
+    "narration": "둘째, My sister, Ella, It, She는 모두 I도 you도 아닌 한 사람이나 한 개라서 is와 어울리니 지워요."
+   },
+   {
+    "note": "They = 여럿 → is가 아니라 are → 알맞지 않은 것은 They (They are pretty.)",
+    "highlight": [
+     "② They"
+    ],
+    "strike": [],
+    "narration": "셋째, They는 그들이라는 뜻으로 여럿을 가리켜서 is가 아니라 are와 써요. They are pretty, 그들은 예뻐요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① My sister  ✗  my가 붙어도 sister 한 사람 → is와 어울려요",
+    "② They  ✓  여럿 → is가 아니라 are와 써요",
+    "③ Ella  ✗  한 사람의 이름 → is와 어울려요",
+    "④ It  ✗  한 개나 한 마리 → is와 어울려요",
+    "⑤ She  ✗  여자 한 사람 → is와 어울려요"
+   ],
+   "narration": "정답은 2번 They예요. They는 여럿을 가리켜서 is가 아니라 are와 써요. 1번 My sister에는 나의라는 뜻의 my가 있지만, 주어는 sister 한 사람이라 am이 아니라 is를 써요. 4번 It은 사람이 아니어도 한 개나 한 마리를 가리키니까 is와 어울려요."
+  },
+  "summary": {
+   "card": "I·you가 아닌 한 사람·한 개 → is  |  여럿 → are",
+   "narration": "정답은 2번이에요. 기억할 것, is는 I도 you도 아닌 한 사람이나 한 개인 주어와 쓰고, 여럿인 주어에는 are를 써요."
+  },
+  "captions": [
+   "is 앞에 올 수 없는 주어",
+   "먼저 풀어 보세요",
+   "주어에 맞게 am, is, are",
+   "is → 하나인 주어, They는 여럿",
+   "정답 ② They",
+   "하나는 is, 여럿은 are"
+  ],
+  "sec": [
+   11,
+   16,
+   30,
+   34,
+   26,
+   12
+  ]
+ },
+ "B": {
+  "title": "are와 어울리는 주어",
+  "intro": "이 문제는 be동사 are 앞 빈칸에 들어갈 수 없는 주어를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 알맞지 않은 것을 고르세요. 빈칸, are happy. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형은 주어에 맞게 am, is, are",
+    "I → am",
+    "he, she, it, I·you가 아닌 한 사람·한 개 (my dad, the dog) → is",
+    "you(한 사람이어도), we, they, 여럿 (the dogs) → are",
+    "예) You are kind. (너는 친절해요.)"
+   ],
+   "narration": "be동사 현재형 am, is, are는 주어가 누구인지, 어떤지, 어디에 있는지 말해요. 주어가 I면 am, he, she, it처럼 I도 you도 아닌 한 사람이나 한 개면 is를 써요. you, we, they이거나 여럿이면 are인데, you는 한 사람에게 말할 때도 are예요. 예를 들어 You are kind, 너는 친절해요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 바로 뒤 be동사 are → 빈칸은 are와 어울리는 주어 자리",
+    "highlight": [
+     "are happy."
+    ],
+    "strike": [],
+    "narration": "첫째, 빈칸 바로 뒤에 be동사 are가 있으니, 빈칸에는 are와 어울리는 주어가 들어가야 해요."
+   },
+   {
+    "note": "You(한 사람이어도 are), They, The boys, We = you나 여럿 → are와 어울림 → 답이 아니다",
+    "highlight": [],
+    "strike": [
+     "① You",
+     "③ They",
+     "④ The boys",
+     "⑤ We"
+    ],
+    "narration": "둘째, You, They, The boys, We는 you이거나 여럿이라 are와 어울리니 지워요. You는 한 사람에게 말할 때도 are를 써요."
+   },
+   {
+    "note": "Tom = you도 여럿도 아닌 한 사람 → are가 아니라 is → 알맞지 않은 것은 Tom (Tom is happy.)",
+    "highlight": [
+     "② Tom"
+    ],
+    "strike": [],
+    "narration": "셋째, Tom은 you도 아니고 여럿도 아닌 한 사람이라 are가 아니라 is와 써요. Tom is happy, 톰은 행복해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① You  ✗  한 사람에게 말해도 you는 are와 써요",
+    "② Tom  ✓  한 사람 → are가 아니라 is와 써요",
+    "③ They  ✗  여럿 → are와 어울려요",
+    "④ The boys  ✗  boy에 s가 붙은 여럿 → are와 어울려요",
+    "⑤ We  ✗  나를 포함한 여럿 → are와 어울려요"
+   ],
+   "narration": "정답은 2번 Tom이에요. Tom은 한 사람이라 are가 아니라 is와 써요. 1번 You는 한 사람일 수도 있어서 헷갈리지만, you는 한 사람에게 말할 때도 are를 써요. 4번 The boys는 boy에 s가 붙어서 여러 소년을 뜻하니 are와 어울려요."
+  },
+  "summary": {
+   "card": "you, 여럿 → are  |  I·you가 아닌 한 사람·한 개 → is",
+   "narration": "정답은 2번이에요. 기억할 것, are는 you나 여럿인 주어와 쓰고, I도 you도 아닌 한 사람이나 한 개인 주어에는 is를 써요."
+  },
+  "captions": [
+   "are 앞에 올 수 없는 주어",
+   "먼저 풀어 보세요",
+   "주어에 맞게 am, is, are",
+   "are → you·여럿, Tom은 한 사람",
+   "정답 ② Tom",
+   "you·여럿은 are, 하나는 is"
+  ],
+  "sec": [
+   11,
+   16,
+   30,
+   36,
+   28,
+   13
+  ]
+ },
+ "C": {
+  "title": "is와 어울리는 주어",
+  "intro": "이 문제는 be동사 is 앞 빈칸에 들어갈 수 없는 주어를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 알맞지 않은 것을 고르세요. 빈칸, is at home. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형은 주어에 맞게 am, is, are",
+    "I → am",
+    "he, she, it, I·you가 아닌 한 사람·한 개 (my dad, the dog) → is",
+    "you, we, they, 여럿 (the dogs, Mike and Sora) → are",
+    "예) Mom is at school. They are at school. (엄마는 학교에 있어요. 그들은 학교에 있어요.)"
+   ],
+   "narration": "be동사 현재형 am, is, are는 주어가 누구인지, 어떤지, 어디에 있는지 말해요. 주어가 I면 am, he, she, it처럼 I도 you도 아닌 한 사람이나 한 개면 is를 써요. you, we, they이거나 여럿이면 are를 써요. 예를 들어 Mom is at school, 엄마는 학교에 있어요. They are at school, 그들은 학교에 있어요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 바로 뒤 be동사 is → 빈칸은 is와 어울리는 주어 자리",
+    "highlight": [
+     "is at home."
+    ],
+    "strike": [],
+    "narration": "첫째, 빈칸 바로 뒤에 be동사 is가 있으니, 빈칸에는 is와 어울리는 주어가 들어가야 해요."
+   },
+   {
+    "note": "My father, He, The cat, Jane = I·you가 아닌 한 사람·한 마리 → is와 어울림 → 답이 아니다",
+    "highlight": [],
+    "strike": [
+     "② My father",
+     "③ He",
+     "④ The cat",
+     "⑤ Jane"
+    ],
+    "narration": "둘째, My father, He, The cat, Jane은 모두 I도 you도 아닌 한 사람이나 한 마리라서 is와 어울리니 지워요."
+   },
+   {
+    "note": "We = 나를 포함한 여럿 → is가 아니라 are → 알맞지 않은 것은 We (We are at home.)",
+    "highlight": [
+     "① We"
+    ],
+    "strike": [],
+    "narration": "셋째, We는 우리라는 뜻으로 나를 포함한 여럿을 가리켜서 is가 아니라 are와 써요. We are at home, 우리는 집에 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① We  ✓  나를 포함한 여럿 → is가 아니라 are와 써요",
+    "② My father  ✗  my가 붙어도 father 한 사람 → is와 어울려요",
+    "③ He  ✗  남자 한 사람 → is와 어울려요",
+    "④ The cat  ✗  고양이 한 마리 → is와 어울려요",
+    "⑤ Jane  ✗  한 사람의 이름 → is와 어울려요"
+   ],
+   "narration": "정답은 1번 We예요. We는 나를 포함한 여럿이라 is가 아니라 are와 써요. 2번 My father에는 나의라는 뜻의 my가 있지만, 주어는 아버지 한 사람이라 am이 아니라 is를 써요. 4번 The cat은 사람이 아니어도 고양이 한 마리라서 is와 어울려요."
+  },
+  "summary": {
+   "card": "I·you가 아닌 한 사람·한 개 → is  |  여럿 → are",
+   "narration": "정답은 1번이에요. 기억할 것, is는 I도 you도 아닌 한 사람이나 한 개인 주어와 쓰고, we처럼 여럿인 주어에는 are를 써요."
+  },
+  "captions": [
+   "is 앞에 올 수 없는 주어",
+   "먼저 풀어 보세요",
+   "주어에 맞게 am, is, are",
+   "is → 하나인 주어, We는 여럿",
+   "정답 ① We",
+   "하나는 is, 여럿은 are"
+  ],
+  "sec": [
+   11,
+   16,
+   31,
+   34,
+   26,
+   13
+  ]
+ },
+ "D": {
+  "title": "are와 어울리는 주어",
+  "intro": "이 문제는 be동사 are 앞 빈칸에 들어갈 수 없는 주어를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 알맞지 않은 것을 고르세요. 빈칸, are on the stage. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형은 주어에 맞게 am, is, are",
+    "I → am",
+    "he, she, it, I·you가 아닌 한 사람·한 개 (my dad, the dog) → is",
+    "you, we, they, 여럿, and로 이은 두 사람 (Mike and Sora) → are",
+    "예) The birds are small. (그 새들은 작아요.)"
+   ],
+   "narration": "be동사 현재형 am, is, are는 주어가 누구인지, 어떤지, 어디에 있는지 말해요. 주어가 I면 am, he, she, it처럼 I도 you도 아닌 한 사람이나 한 개면 is를 써요. you, we, they이거나 여럿이면 are이고, and로 이은 두 사람도 여럿이에요. 예를 들어 The birds are small, 그 새들은 작아요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 바로 뒤 be동사 are → 빈칸은 are와 어울리는 주어 자리",
+    "highlight": [
+     "are on the stage."
+    ],
+    "strike": [],
+    "narration": "첫째, 빈칸 바로 뒤에 be동사 are가 있으니, 빈칸에는 are와 어울리는 주어가 들어가야 해요."
+   },
+   {
+    "note": "They, The dancers, Tom and Mina(and로 이은 두 사람), My friends = 여럿 → are와 어울림 → 답이 아니다",
+    "highlight": [],
+    "strike": [
+     "① They",
+     "② The dancers",
+     "③ Tom and Mina",
+     "⑤ My friends"
+    ],
+    "narration": "둘째, They, The dancers, Tom and Mina, My friends는 모두 여럿이라 are와 어울리니 지워요. Tom and Mina는 and로 두 사람을 이은 주어예요."
+   },
+   {
+    "note": "The singer = 가수 한 사람 → are가 아니라 is → 알맞지 않은 것은 The singer (The singer is on the stage.)",
+    "highlight": [
+     "④ The singer"
+    ],
+    "strike": [],
+    "narration": "셋째, The singer는 가수 한 사람이라 are가 아니라 is와 써요. The singer is on the stage, 가수가 무대 위에 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① They  ✗  여럿 → are와 어울려요",
+    "② The dancers  ✗  dancer에 s가 붙은 여럿 → are와 어울려요",
+    "③ Tom and Mina  ✗  and로 이은 두 사람 → are와 어울려요",
+    "④ The singer  ✓  가수 한 사람 → are가 아니라 is와 써요",
+    "⑤ My friends  ✗  friend에 s가 붙은 여럿 → are와 어울려요"
+   ],
+   "narration": "정답은 4번 The singer예요. The singer는 가수 한 사람이라 are가 아니라 is와 써요. 3번 Tom and Mina는 Tom과 Mina가 각각 한 사람이라 헷갈릴 수 있지만, and로 이으면 두 사람이라 are와 어울려요. 2번 The dancers와 5번 My friends는 끝에 s가 붙어 여럿을 뜻하니 are와 어울려요."
+  },
+  "summary": {
+   "card": "여럿, and로 이은 두 사람 → are  |  I·you가 아닌 한 사람·한 개 → is",
+   "narration": "정답은 4번이에요. 기억할 것, 여럿인 주어나 and로 이은 두 사람에는 are, I도 you도 아닌 한 사람이나 한 개에는 is를 써요."
+  },
+  "captions": [
+   "are 앞에 올 수 없는 주어",
+   "먼저 풀어 보세요",
+   "주어에 맞게 am, is, are",
+   "are → 여럿, The singer는 한 사람",
+   "정답 ④ The singer",
+   "여럿·and로 이은 두 사람은 are"
+  ],
+  "sec": [
+   11,
+   17,
+   30,
+   36,
+   28,
+   13
+  ]
+ },
+ "E": {
+  "title": "are와 어울리는 주어",
+  "intro": "이 문제는 be동사 are 앞 빈칸에 들어갈 수 없는 주어를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 알맞지 않은 것을 고르세요. 빈칸, are hungry. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형은 주어에 맞게 am, is, are",
+    "I → am",
+    "he, she, it, I·you가 아닌 한 사람·한 개 (my dad, the dog) → is",
+    "you(한 사람이어도), we, they, 여럿, and로 이은 두 사람 → are",
+    "예) Mike and I are busy. (마이크와 나는 바빠요.)"
+   ],
+   "narration": "be동사 현재형 am, is, are는 주어가 누구인지, 어떤지, 어디에 있는지 말해요. 주어가 I면 am, he, she, it처럼 I도 you도 아닌 한 사람이나 한 개면 is를 써요. you, we, they이거나 여럿이면 are예요. 한 사람인 you와 and로 이은 두 사람도 are예요. 예를 들어 Mike and I are busy, 마이크와 나는 바빠요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 바로 뒤 be동사 are → 빈칸은 are와 어울리는 주어 자리",
+    "highlight": [
+     "are hungry."
+    ],
+    "strike": [],
+    "narration": "첫째, 빈칸 바로 뒤에 be동사 are가 있으니, 빈칸에는 are와 어울리는 주어가 들어가야 해요."
+   },
+   {
+    "note": "We, The kids, You(한 사람이어도 are), Tom and I(두 사람) = you나 여럿 → are와 어울림 → 답이 아니다",
+    "highlight": [],
+    "strike": [
+     "① We",
+     "② The kids",
+     "④ You",
+     "⑤ Tom and I"
+    ],
+    "narration": "둘째, We, The kids, You, Tom and I는 you이거나 여럿이라 are와 어울리니 지워요. Tom and I는 끝에 I가 있어도 두 사람이라 am이 아니라 are를 써요."
+   },
+   {
+    "note": "She = 여자 한 사람 → are가 아니라 is → 알맞지 않은 것은 She (She is hungry.)",
+    "highlight": [
+     "③ She"
+    ],
+    "strike": [],
+    "narration": "셋째, She는 그녀라는 뜻으로 여자 한 사람을 가리켜서 are가 아니라 is와 써요. She is hungry, 그녀는 배가 고파요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① We  ✗  나를 포함한 여럿 → are와 어울려요",
+    "② The kids  ✗  kid에 s가 붙은 여럿 → are와 어울려요",
+    "③ She  ✓  여자 한 사람 → are가 아니라 is와 써요",
+    "④ You  ✗  한 사람에게 말해도 you는 are와 써요",
+    "⑤ Tom and I  ✗  Tom과 나 두 사람 → am이 아니라 are"
+   ],
+   "narration": "정답은 3번 She예요. She는 한 사람이라 are가 아니라 is와 써요. 5번 Tom and I는 I가 보여서 am을 떠올리기 쉽지만, Tom과 나 두 사람이라 are를 써요. 4번 You는 한 사람일 수도 있지만, you는 한 사람에게 말할 때도 are를 써요."
+  },
+  "summary": {
+   "card": "you, 여럿, and로 이은 두 사람 → are  |  I·you가 아닌 한 사람·한 개 → is",
+   "narration": "정답은 3번이에요. 기억할 것, are는 you나 여럿인 주어와 쓰고, I도 you도 아닌 한 사람이나 한 개인 주어에는 is를 써요."
+  },
+  "captions": [
+   "are 앞에 올 수 없는 주어",
+   "먼저 풀어 보세요",
+   "주어에 맞게 am, is, are",
+   "are → you·여럿, She는 한 사람",
+   "정답 ③ She",
+   "you·여럿은 are, 하나는 is"
+  ],
+  "sec": [
+   11,
+   16,
+   32,
+   38,
+   28,
+   13
+  ]
+ },
+ "F": {
+  "title": "are와 어울리는 주어",
+  "intro": "이 문제는 be동사 are 앞 빈칸에 들어갈 수 없는 주어를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 알맞지 않은 것을 고르세요. 빈칸, are students. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형은 주어에 맞게 am, is, are",
+    "I → am",
+    "he, she, it, I·you가 아닌 한 사람·한 개 (my dad, the dog) → is",
+    "you, we, they, 여럿, and로 이은 두 사람 (Mike and Sora) → are",
+    "예) They are cooks. (그들은 요리사예요.)"
+   ],
+   "narration": "be동사 현재형 am, is, are는 주어가 누구인지, 어떤지, 어디에 있는지 말해요. 주어가 I면 am, he, she, it처럼 I도 you도 아닌 한 사람이나 한 개면 is를 써요. you, we, they이거나 여럿이면 are이고, and로 이은 두 사람도 여럿이에요. 예를 들어 They are cooks, 그들은 요리사예요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 바로 뒤 be동사 are → 빈칸은 are와 어울리는 주어 자리",
+    "highlight": [
+     "are students."
+    ],
+    "strike": [],
+    "narration": "첫째, 빈칸 바로 뒤에 be동사 are가 있으니, 빈칸에는 are와 어울리는 주어가 들어가야 해요."
+   },
+   {
+    "note": "We, The girls, They, Tom and Ben(and로 이은 두 사람) = 여럿 → are와 어울림 → 답이 아니다",
+    "highlight": [],
+    "strike": [
+     "① We",
+     "② The girls",
+     "④ They",
+     "⑤ Tom and Ben"
+    ],
+    "narration": "둘째, We, The girls, They, Tom and Ben은 모두 여럿이라 are와 어울리니 지워요. Tom and Ben은 and로 두 사람을 이은 주어예요."
+   },
+   {
+    "note": "My brother = my가 붙어도 brother 한 사람 → are가 아니라 is → 알맞지 않은 것은 My brother (My brother is a student.)",
+    "highlight": [
+     "③ My brother"
+    ],
+    "strike": [],
+    "narration": "셋째, My brother는 나의라는 뜻의 my가 있어도 주어는 brother 한 사람이라 are가 아니라 is와 써요. My brother is a student, 우리 형은 학생이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① We  ✗  나를 포함한 여럿 → are와 어울려요",
+    "② The girls  ✗  girl에 s가 붙은 여럿 → are와 어울려요",
+    "③ My brother  ✓  brother 한 사람 → are가 아니라 is와 써요",
+    "④ They  ✗  여럿 → are와 어울려요",
+    "⑤ Tom and Ben  ✗  and로 이은 두 사람 → are와 어울려요"
+   ],
+   "narration": "정답은 3번 My brother예요. My brother는 한 사람이라 are가 아니라 is와 써요. my가 보여서 am을 떠올릴 수 있지만, am은 주어가 I일 때만 써요. 5번 Tom and Ben은 Tom과 Ben이 각각 한 사람이라 헷갈릴 수 있지만, and로 이으면 두 사람이라 are와 어울려요."
+  },
+  "summary": {
+   "card": "여럿, and로 이은 두 사람 → are  |  my가 붙어도 한 사람이면 is",
+   "narration": "정답은 3번이에요. 기억할 것, are는 you나 여럿인 주어와 쓰고, I도 you도 아닌 한 사람이나 한 개인 주어에는 is를 써요."
+  },
+  "captions": [
+   "are 앞에 올 수 없는 주어",
+   "먼저 풀어 보세요",
+   "주어에 맞게 am, is, are",
+   "are → 여럿, My brother는 한 사람",
+   "정답 ③ My brother",
+   "여럿은 are, 한 사람은 is"
+  ],
+  "sec": [
+   11,
+   16,
+   30,
+   38,
+   28,
+   13
+  ]
+ }
+}

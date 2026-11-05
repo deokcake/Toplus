@@ -1,0 +1,86 @@
+{
+ "key": "3-128",
+ "grade": 3,
+ "chapter": "CH 13 접속사",
+ "items": {
+  "A": {
+   "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오.",
+   "passage": "그녀는 아름다울 뿐만 아니라 똑똑하기도 하다.\n(not / smart / beautiful / she / is / but / also / only)",
+   "c": [
+    "She is not only beautiful but also smart.",
+    "She not is only beautiful but also smart.",
+    "She is only not beautiful but also smart.",
+    "She is not beautiful only but also smart.",
+    "She is not only beautiful also but smart."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: not only A but also B는 ‘A뿐만 아니라 B도’이다. not only와 but also를 떼거나 순서를 바꾸지 않고 A, B 바로 앞에 둔다.\n풀이 순서: ① ‘A뿐만 아니라 B도’는 not only A but also B다. A와 B를 정한다: A는 beautiful, B는 smart. → ② She is 뒤에 not only A but also B를 통째로 놓는다. not only와 but also는 떼거나 순서를 바꾸지 않는다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: not only A but also B 어순으로 바르게 배열했으므로 정답은 ①이다.\n선택지 분석:\n① [정답] not only A but also B 어순으로 바르게 배열했으므로 정답이다.\n② [오답] not이 be동사 앞에 와서 어순이 틀렸으므로 오답이다.\n③ [오답] only not이 아니라 not only로 써야 하므로 오답이다.\n④ [오답] not과 only를 떼어 쓸 수 없으므로 오답이다.\n⑤ [오답] also but이 아니라 but also로 써야 하므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오.",
+   "passage": "이 책은 재미있을 뿐만 아니라 유용하다.\n(not / useful / interesting / this book / is / but / also / only)",
+   "c": [
+    "This book not is only interesting but also useful.",
+    "This book is not only interesting but also useful.",
+    "This book is only not interesting but also useful.",
+    "This book is not interesting only but also useful.",
+    "This book is not only interesting also but useful."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: not only A but also B는 ‘A뿐 아니라 B도’라는 뜻이며, not only와 but also를 떼지 않고 A와 B 바로 앞에 각각 둔다.\n풀이 순서: ① ‘A뿐만 아니라 B도’는 not only A but also B다. A와 B를 정한다: A는 interesting, B는 useful. → ② This book is 뒤에 not only A but also B를 통째로 놓는다. not only와 but also는 떼거나 순서를 바꾸지 않는다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: not only A but also B 어순으로 바르게 배열했으므로 정답은 ②이다.\n선택지 분석:\n① [오답] not이 be동사 앞에 와서 어순이 틀렸으므로 오답이다.\n② [정답] not only A but also B 어순으로 바르게 배열했으므로 정답이다.\n③ [오답] only not이 아니라 not only로 써야 하므로 오답이다.\n④ [오답] not과 only를 떼어 쓸 수 없으므로 오답이다.\n⑤ [오답] also but이 아니라 but also로 써야 하므로 오답이다."
+  },
+  "C": {
+   "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오.",
+   "passage": "Tom은 친절할 뿐만 아니라 재미있다.\n(not / funny / kind / Tom / is / but / also / only)",
+   "c": [
+    "Tom is not kind only but also funny.",
+    "Tom not is only kind but also funny.",
+    "Tom is not only kind also but funny.",
+    "Tom is only not kind but also funny.",
+    "Tom is not only kind but also funny."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: not only A but also B는 ‘A뿐 아니라 B도’라는 뜻이며, not only와 but also를 떼지 않고 A와 B 바로 앞에 각각 둔다.\n풀이 순서: ① ‘A뿐만 아니라 B도’는 not only A but also B다. A와 B를 정한다: A는 kind, B는 funny. → ② Tom is 뒤에 not only A but also B를 통째로 놓는다. not only와 but also는 떼거나 순서를 바꾸지 않는다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: not only A but also B 어순으로 바르게 배열했으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] not과 only를 떼어 쓸 수 없으므로 오답이다.\n② [오답] not이 be동사 앞에 와서 어순이 틀렸으므로 오답이다.\n③ [오답] also but이 아니라 but also로 써야 하므로 오답이다.\n④ [오답] only not이 아니라 not only로 써야 하므로 오답이다.\n⑤ [정답] not only A but also B 어순으로 바르게 배열했으므로 정답이다."
+  },
+  "D": {
+   "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오.",
+   "passage": "Jane은 영어뿐만 아니라 프랑스어도 말한다.\n(not / French / English / Jane / speaks / but / also / only)",
+   "c": [
+    "Jane not speaks only English but also French.",
+    "Jane speaks only not English but also French.",
+    "Jane speaks not only English but also French.",
+    "Jane speaks not English only but also French.",
+    "Jane speaks not only English also but French."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: not only A but also B는 ‘A뿐 아니라 B도’라는 뜻이며, not only와 but also를 떼지 않고 A와 B 바로 앞에 각각 둔다.\n풀이 순서: ① ‘A뿐만 아니라 B도’는 not only A but also B다. A와 B를 정한다: A는 English, B는 French. → ② Jane speaks 뒤에 not only A but also B를 통째로 놓는다. not only와 but also는 떼거나 순서를 바꾸지 않는다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: not only A but also B 어순으로 바르게 배열했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] not이 일반동사 앞에 오고 only와 떨어져 어순이 틀렸으므로 오답이다.\n② [오답] only not이 아니라 not only로 써야 하므로 오답이다.\n③ [정답] not only A but also B 어순으로 바르게 배열했으므로 정답이다.\n④ [오답] not과 only를 떼어 쓸 수 없으므로 오답이다.\n⑤ [오답] also but이 아니라 but also로 써야 하므로 오답이다."
+  },
+  "E": {
+   "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오.",
+   "passage": "우리는 부산뿐만 아니라 서울도 방문했다.\n(not / Seoul / Busan / we / visited / but / also / only)",
+   "c": [
+    "We visited not only Busan but also Seoul.",
+    "We visited only not Busan but also Seoul.",
+    "We visited not Busan only but also Seoul.",
+    "We not visited only Busan but also Seoul.",
+    "We visited not only Busan also but Seoul."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: not only A but also B는 ‘A뿐 아니라 B도’라는 뜻이며, not only와 but also를 떼지 않고 A와 B 바로 앞에 각각 둔다.\n풀이 순서: ① ‘A뿐만 아니라 B도’는 not only A but also B다. A와 B를 정한다: A는 Busan, B는 Seoul. → ② We visited 뒤에 not only A but also B를 통째로 놓는다. not only와 but also는 떼거나 순서를 바꾸지 않는다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: not only A but also B 어순으로 바르게 배열했으므로 정답은 ①이다.\n선택지 분석:\n① [정답] not only A but also B 어순으로 바르게 배열했으므로 정답이다.\n② [오답] only not이 아니라 not only로 써야 하므로 오답이다.\n③ [오답] not과 only를 떼어 쓸 수 없으므로 오답이다.\n④ [오답] not이 일반동사 앞에 오고 only와 떨어져 어순이 틀렸으므로 오답이다.\n⑤ [오답] also but이 아니라 but also로 써야 하므로 오답이다."
+  },
+  "F": {
+   "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오.",
+   "passage": "그는 수영뿐만 아니라 달리기도 잘한다.\n(not / running / swimming / he / is / good at / but / also / only)",
+   "c": [
+    "He is good at only not swimming but also running.",
+    "He not is good at only swimming but also running.",
+    "He is good at not swimming only but also running.",
+    "He is good at not only swimming but also running.",
+    "He is good at not only swimming also but running."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: not only A but also B는 ‘A뿐 아니라 B도’라는 뜻이며, not only와 but also를 떼지 않고 A와 B 바로 앞에 각각 둔다.\n풀이 순서: ① ‘A뿐만 아니라 B도’는 not only A but also B다. A와 B를 정한다: A는 swimming, B는 running. → ② He is good at 뒤에 not only A but also B를 통째로 놓는다. not only와 but also는 떼거나 순서를 바꾸지 않는다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: not only A but also B 어순으로 바르게 배열했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] only not이 아니라 not only로 써야 하므로 오답이다.\n② [오답] not이 be동사 앞에 와서 어순이 틀렸으므로 오답이다.\n③ [오답] not과 only를 떼어 쓸 수 없으므로 오답이다.\n④ [정답] not only A but also B 어순으로 바르게 배열했으므로 정답이다.\n⑤ [오답] also but이 아니라 but also로 써야 하므로 오답이다."
+  }
+ },
+ "prior_review": {}
+}

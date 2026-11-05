@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T02:25:40.529Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "주어 Tom이 3인칭 단수이므로 현재형 is로 고쳐야 한다.",
+      "2": "yesterday가 있는 과거 의문문은 Did로 시작하므로 Did로 고쳐야 한다.",
+      "3": "의문사 Why 뒤에는 조동사 do가 오므로 does로 고쳐야 한다.",
+      "4": "형용사 late 앞에는 be동사의 원형을 쓰므로 be로 고쳐야 한다."
+    },
+    "expl": "핵심 규칙: be동사 과거형은 주어가 I·3인칭 단수면 was, you·복수면 were를 쓴다. 의문사(Why, Where, How)나 형용사는 be동사의 형태를 정하지 않고, 일반동사가 없는 문장이므로 did로 바꾸지 않는다.\n풀이 순서: ① 의문문이므로 주어는 be동사 뒤에 있다: Tom. → ② 단수 주어이므로 was가 맞다. → ③ 이 이유를 말한 것은 ①.\n문장별 판정:\n정답 판단: 3인칭 단수 주어의 be동사 과거형은 was이므로 정답은 ①이다.\n선택지 분석:\n① [정답] 3인칭 단수 주어의 be동사 과거형은 was이므로 정답이다.\n② [오답] yesterday의 일이라 현재형 is가 아니라 과거형 was를 써야 하므로 오답이다.\n③ [오답] 일반동사가 없는 be동사 의문문이라 did를 쓰지 않으므로 오답이다.\n④ [오답] 의문사 뒤에도 be동사 의문문은 be동사를 쓰고, 과거의 일이므로 오답이다.\n⑤ [오답] 형용사 앞이라도 주어와 시제에 맞는 be동사를 써야 하므로 오답이다.",
+    "passage": "Why <u>were</u> Tom late yesterday?\n위 문장에서 were는 틀린 표현이다. 그 이유는 (                                    )",
+    "stem": "다음은 제시된 문장의 오류를 고치는 과정이다. 빈칸에 들어갈 설명으로 옳은 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:25:39.141Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-22T02:25:40.529Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:25:40.529Z",
+      "what": "확인 완료"
+    }
+  }
+}

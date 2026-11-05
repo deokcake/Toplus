@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-04T11:23:16.472Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": "that",
+      "4": null
+    },
+    "expl": "핵심 규칙: ‘이것(들)은/저것(들)은 ~의 … 이다’는 지시대명사 + be동사 + 소유격 + 형용사 + 명사의 순서로 배열한다. this/that에는 is, these/those에는 are를 쓴다.\n풀이 순서: ① 우리말의 주어(‘저것은’)에 맞는 지시대명사와 be동사를 먼저 놓는다: That is. → ② 그 뒤에 소유격 + 형용사 + 명사를 잇는다: my new backpack. → ③ 완성 문장 That is my new backpack.의 셋째 낱말은 my.\n문장별 판정:\n정답 판단: 완성 문장은 That is my new backpack.이고 세 번째 단어는 my이다.\n선택지 분석:\n① [오답] 완성 문장 That is my new backpack.에서 단어(is)는 2번째에 오므로 오답이다.\n② [오답] 완성 문장 That is my new backpack.에서 단어(backpack)는 5번째에 오므로 오답이다.\n③ [오답] 완성 문장 That is my new backpack.에서 단어(new)는 4번째에 오므로 오답이다.\n④ [오답] 완성 문장 That is my new backpack.에서 단어(that)는 1번째에 오므로 오답이다.\n⑤ [정답] 완성 문장 That is my new backpack.에서 단어(my)는 3번째에 오므로 정답이다.",
+    "passage": "저것은 나의 새 배낭이다.\n( is / backpack / new / that / my / . )",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 만들 때, 세 번째에 올 단어를 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-04T11:23:15.142Z"
+  },
+  "tab": "012jzi2r",
+  "updatedAt": "2026-10-04T11:23:16.472Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-04T11:23:16.472Z",
+      "what": "확인 완료"
+    }
+  }
+}

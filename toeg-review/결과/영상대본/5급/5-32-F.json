@@ -1,0 +1,179 @@
+{
+ "key": "5-32",
+ "type": "F",
+ "grade": 5,
+ "chapter": "CH 4 현재진행형",
+ "title": "‘청소하고 있다’를 현재진행형으로",
+ "total_sec": 129,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "5급 · CH 4 현재진행형 · 32번 · F 유형\n\n이 문제는 ‘청소하고 있다’를 현재진행형으로 바르게 옮긴 영어 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 4 현재진행형 · 32번 · F 유형",
+     "이 문제는 ‘청소하고 있다’를 현재진행형으로 바르게 옮긴 영어 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 4, 32번 F 유형. 이 문제는 ‘청소하고 있다’를 현재진행형으로 바르게 옮긴 영어 문장을 고르는 문제예요.",
+   "caption": "‘청소하고 있다’를 현재진행형으로"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 17,
+   "screen": {
+    "text": "우리말을 영어로 바르게 옮긴 것을 고르시오.\n\n우리는 방을 청소하고 있다.\n\n① We are clean the room.\n② We is cleaning the room.\n③ We do cleaning the room.\n④ We are cleaning the room.\n⑤ We cleaning the room.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "우리말을 영어로 바르게 옮긴 것을 고르시오.",
+     "우리는 방을 청소하고 있다.",
+     "① We are clean the room.",
+     "② We is cleaning the room.",
+     "③ We do cleaning the room.",
+     "④ We are cleaning the room.",
+     "⑤ We cleaning the room."
+    ]
+   },
+   "narration": "우리말을 영어로 바르게 옮긴 것을 고르세요. 우리는 방을 청소하고 있다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\n지금 하고 있는 동작(~하고 있다) → 현재진행형 am / is / are + 동사ing\nbe동사는 주어에 맞춰요: I → am, 3인칭 단수 → is, 복수·you → are\nbe동사와 ing형 중 하나라도 빠지면 현재진행형이 아니에요\n예) We are watching TV. (우리는 텔레비전을 보고 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "지금 하고 있는 동작(~하고 있다) → 현재진행형 am / is / are + 동사ing",
+     "be동사는 주어에 맞춰요: I → am, 3인칭 단수 → is, 복수·you → are",
+     "be동사와 ing형 중 하나라도 빠지면 현재진행형이 아니에요",
+     "예) We are watching TV. (우리는 텔레비전을 보고 있어요.)"
+    ]
+   },
+   "narration": "현재진행형은 지금 하고 있는 동작을 나타내요. be동사 am, is, are 뒤에 동사의 ing형을 써요. be동사는 주어에 맞춰 I에는 am, 3인칭 단수에는 is, 복수와 you에는 are를 써요. be동사와 ing형 중 하나라도 빠지면 현재진행형이 아니에요. We are watching TV. 우리는 텔레비전을 보고 있어요.",
+   "caption": "am / is / are + 동사ing"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "우리말을 영어로 바르게 옮긴 것을 고르시오.\n\n우리는 방을 청소하고 있다.\n\n① We are clean the room.\n② We is cleaning the room.\n③ We do cleaning the room.\n④ We are cleaning the room.\n⑤ We cleaning the room.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "청소하고 있다"
+      ],
+      "strike": [
+       "⑤ We cleaning the room.",
+       "③ We do cleaning the room."
+      ],
+      "note": "‘청소하고 있다’ = 지금 진행 중 → be동사 + ing형 둘 다 필요. be동사가 없는 ⑤, do를 쓴 ③ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "우리는"
+      ],
+      "strike": [
+       "② We is cleaning the room."
+      ],
+      "note": "주어 We → are. is를 쓴 ② 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ We are cleaning the room."
+      ],
+      "strike": [
+       "① We are clean the room."
+      ],
+      "note": "are 뒤에는 ing형 cleaning. clean을 쓴 ① 지움 → 남는 ④"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, ‘청소하고 있다’는 지금 진행 중인 일이라 be동사와 ing형이 둘 다 필요하니, be동사가 없는 5번과 be동사 대신 do를 쓴 3번은 지워요. 둘째, 주어 We에 맞는 be동사는 are라서 is를 쓴 2번도 지워요. 셋째, 진행형에서는 are 뒤에 ing형이 와야 하니 clean을 쓴 1번도 지우면 4번이 남아요. We are cleaning the room. 우리는 방을 청소하고 있어요.",
+   "caption": "진행 중 → are → cleaning"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① We are clean the room.  ✗  are 뒤에 clean이 아니라 ing형 cleaning\n② We is cleaning the room.  ✗  주어 We에는 is가 아니라 are\n③ We do cleaning the room.  ✗  진행형은 do가 아니라 be동사 are와 함께\n④ We are cleaning the room.  ✓  We에 맞는 are + cleaning\n⑤ We cleaning the room.  ✗  be동사 are가 빠졌어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① We are clean the room.  ✗  are 뒤에 clean이 아니라 ing형 cleaning",
+     "② We is cleaning the room.  ✗  주어 We에는 is가 아니라 are",
+     "③ We do cleaning the room.  ✗  진행형은 do가 아니라 be동사 are와 함께",
+     "④ We are cleaning the room.  ✓  We에 맞는 are + cleaning",
+     "⑤ We cleaning the room.  ✗  be동사 are가 빠졌어요"
+    ]
+   },
+   "narration": "정답은 4번이에요. 주어 We에 맞는 are와 cleaning을 썼어요. 1번은 are 뒤에 ing형이 아닌 clean을 써서 ‘청소하고 있다’는 뜻이 되지 않아요. 2번은 주어 We에 is를 써서 틀렸어요. 3번은 be동사 대신 do를 썼어요.",
+   "caption": "정답 ④ are cleaning"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ④ We are cleaning the room.\n\n지금 하고 있는 동작 = 주어에 맞는 am / is / are + 동사ing",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ We are cleaning the room.",
+     "지금 하고 있는 동작 = 주어에 맞는 am / is / are + 동사ing"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 지금 하고 있는 동작은 주어에 맞는 am, is, are 뒤에 동사의 ing형을 써요.",
+   "caption": "주어에 맞는 be동사 + 동사ing"
+  }
+ ],
+ "source": {
+  "stem": "우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "우리는 방을 청소하고 있다.",
+  "c": [
+   "We are clean the room.",
+   "We is cleaning the room.",
+   "We do cleaning the room.",
+   "We are cleaning the room.",
+   "We cleaning the room."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: ‘~하고 있다’는 현재진행형 am/is/are + 동사원형-ing로 쓴다. be동사는 주어에 맞춘다.\n풀이 순서: ① 우리말 ‘청소하고 있다’ → 지금 진행 중인 일이므로 be동사 + -ing형을 쓴다. → ② 주어(We)에 맞는 be동사는 are, -ing형은 cleaning. → ③ be동사가 빠지거나 동사 형태·철자·시제가 틀린 문장을 지운다. 정답은 ④.\n문장별 판정:\n정답 판단: We are cleaning the room. — 'We are cleaning the room.'는 주어에 맞는 be동사와 동사 -ing형을 사용한 현재진행형이며 우리말 의미도 정확하다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] We are clean the room. — 'We are clean the room.'는 be동사 수일치, 동사 -ing형, 시제 또는 문장 어순 중 하나가 현재진행형 규칙과 맞지 않는다.\n② [오답] We is cleaning the room. — 'We is cleaning the room.'는 be동사 수일치, 동사 -ing형, 시제 또는 문장 어순 중 하나가 현재진행형 규칙과 맞지 않는다.\n③ [오답] We do cleaning the room. — 'We do cleaning the room.'는 be동사 수일치, 동사 -ing형, 시제 또는 문장 어순 중 하나가 현재진행형 규칙과 맞지 않는다.\n④ [정답] We are cleaning the room. — 'We are cleaning the room.'는 주어에 맞는 be동사와 동사 -ing형을 사용한 현재진행형이며 우리말 의미도 정확하다.\n⑤ [오답] We cleaning the room. — 'We cleaning the room.'는 be동사 수일치, 동사 -ing형, 시제 또는 문장 어순 중 하나가 현재진행형 규칙과 맞지 않는다."
+ }
+}

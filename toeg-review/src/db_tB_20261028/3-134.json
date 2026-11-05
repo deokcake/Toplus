@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T09:26:09.042Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Minho는 피아노를 친다.",
+      "1": "Minho는 피아노를 치지 않는다.",
+      "2": "Minho는 피아노를 쳤다.",
+      "3": "Minho는 피아노를 치지 않았다.",
+      "4": "Minho는 피아노를 칠 것이다."
+    },
+    "expl": "핵심 규칙: 부가의문문에 답할 때는 사실이 긍정이면 Yes + 긍정, 부정이면 No + 부정으로 답한다. 답의 조동사·be동사로 시제를 확인한다.\n풀이 순서: ① 답의 Yes/No만 본다. 질문이 긍정이든 부정이든 Yes는 긍정, No는 부정이다. → ② 답의 동사로 시제를 확인한다: Yes, she does는 현재·긍정 → 좋아한다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: No, he doesn't는 현재의 부정(치지 않는다)이므로 정답은 ②이다.\n선택지 분석:\n① [오답] No, he doesn't는 부정의 답이므로 오답이다.\n② [정답] No, he doesn't는 현재의 부정(치지 않는다)이므로 정답이다.\n③ [오답] doesn't는 현재이고 부정이므로 오답이다.\n④ [오답] doesn't는 과거가 아니라 현재이므로 오답이다.\n⑤ [오답] doesn't는 미래가 아니라 현재의 부정이므로 오답이다.",
+    "passage": "A: Minho plays the piano, doesn't he?\nB: <u>No, he doesn't</u>.",
+    "stem": "다음 밑줄 친 부분의 의미로 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:26:07.640Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T09:26:09.042Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:26:09.042Z",
+      "what": "확인 완료"
+    }
+  }
+}

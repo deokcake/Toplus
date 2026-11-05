@@ -1,0 +1,446 @@
+{
+ "A": {
+  "title": "불규칙 동사의 과거형",
+  "intro": "이 문제는 다섯 문장 가운데 동사의 과거형을 잘못 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사의 형태가 잘못된 것을 고르세요. 다섯 문장의 동사를 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+    "규칙 동사 → 보통 동사원형 끝에 ed (play → played)",
+    "불규칙 동사 → ed 없이 정해진 과거형 (go → went, see → saw)",
+    "불규칙 동사에 ed를 붙이면 틀려요 (goed ✗)",
+    "예) I played soccer and went home. (나는 축구를 하고 집에 갔어요.)"
+   ],
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙 동사는 보통 동사원형 끝에 ed를 붙여서, play는 played가 돼요. 불규칙 동사는 ed를 붙이지 않고 정해진 과거형을 써요. go는 went, see는 saw가 되고, go에 ed를 붙인 꼴은 틀려요. I played soccer and went home. 나는 축구를 하고 집에 갔어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 동사를 찾아 과거형이 바른지 하나씩 확인한다.",
+    "highlight": [
+     "동사의 형태가 잘못된 것"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 동사를 찾아서 과거형을 바르게 썼는지 하나씩 확인해요."
+   },
+   {
+    "note": "taught(teach), wrote(write): 불규칙 과거형 / stayed(stay), lived(live): 규칙 과거형 → 옳은 문장",
+    "highlight": [],
+    "strike": [
+     "① He taught English at school.",
+     "② I stayed in London three years ago.",
+     "③ She wrote the letter.",
+     "④ They lived in a city."
+    ],
+    "narration": "둘째, teach의 taught와 write의 wrote는 불규칙 동사의 과거형이 맞고, stay의 stayed와 live의 lived는 규칙 동사의 과거형이 맞아요."
+   },
+   {
+    "note": "grow → grew (불규칙). growed는 ed를 붙인 틀린 꼴 → ⑤",
+    "highlight": [
+     "growed"
+    ],
+    "strike": [],
+    "narration": "셋째, grow는 불규칙 동사라서 과거형이 grew예요. 따라서 growed를 쓴 5번이 잘못이에요. My grandmother grew the flowers. 할머니가 꽃을 기르셨어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① He taught English at school.  ✗  옳은 문장: teach의 과거형은 taught",
+    "② I stayed in London three years ago.  ✗  옳은 문장: 규칙 동사 stay에 ed",
+    "③ She wrote the letter.  ✗  옳은 문장: write의 과거형은 wrote",
+    "④ They lived in a city.  ✗  옳은 문장: e로 끝나는 live는 d만 붙여 lived",
+    "⑤ My grandmother growed the flowers.  ✓  틀린 문장: grow의 과거형은 grew"
+   ],
+   "narration": "정답은 5번이에요. grow의 과거형은 grew라서, growed는 틀린 꼴이에요. 1번 taught는 teach와 모양이 많이 달라도, teach의 과거형이 맞아요. 4번 lived는 ed가 아니라 d만 붙었지만, live가 e로 끝나서 d만 붙인 옳은 꼴이에요. 2번 stayed는 규칙 동사 stay에 ed를 붙인 옳은 꼴이에요."
+  },
+  "summary": {
+   "card": "불규칙 동사는 ed 없이 정해진 과거형 (grow → grew)",
+   "narration": "정답은 5번이에요. 기억할 것, 불규칙 동사는 ed를 붙이지 않고 정해진 과거형을 써요. grow의 과거형은 grew예요."
+  },
+  "captions": [
+   "과거형이 잘못된 문장 찾기",
+   "먼저 풀어 보세요",
+   "규칙 동사 ed, 불규칙은 따로 외워요",
+   "문장마다 동사 확인 → grow는 grew",
+   "정답 ⑤ growed → grew",
+   "불규칙 과거형은 외워요"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   36,
+   30,
+   11
+  ]
+ },
+ "B": {
+  "title": "불규칙 동사의 과거형",
+  "intro": "이 문제는 다섯 문장 가운데 과거형 동사의 형태가 잘못된 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 과거형 동사의 형태가 잘못된 문장을 고르세요. 다섯 문장의 동사를 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+    "규칙 동사 → 보통 동사원형 끝에 ed (play → played)",
+    "불규칙 동사 → ed 없이 정해진 과거형 (go → went, see → saw)",
+    "불규칙 동사에 ed를 붙이면 틀려요 (goed ✗)",
+    "예) I played soccer and went home. (나는 축구를 하고 집에 갔어요.)"
+   ],
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙 동사는 보통 동사원형 끝에 ed를 붙여서, play는 played가 돼요. 불규칙 동사는 ed를 붙이지 않고 정해진 과거형을 써요. go는 went, see는 saw가 되고, go에 ed를 붙인 꼴은 틀려요. I played soccer and went home. 나는 축구를 하고 집에 갔어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 동사를 찾아 과거형이 바른지 하나씩 확인한다.",
+    "highlight": [
+     "과거형 동사의 형태가 잘못된 문장"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 동사를 찾아서 과거형을 바르게 썼는지 하나씩 확인해요."
+   },
+   {
+    "note": "taught(teach), found(find): 불규칙 과거형 / carried(carry), stopped(stop): 규칙 과거형 → 옳은 문장",
+    "highlight": [],
+    "strike": [
+     "② Mina taught me a new game.",
+     "③ Tom carried the heavy box upstairs.",
+     "④ We found a small cafe near the park.",
+     "⑤ They stopped the car at the light."
+    ],
+    "narration": "둘째, teach의 taught와 find의 found는 불규칙 동사의 과거형이 맞고, carry의 carried와 stop의 stopped는 규칙 동사의 과거형이 맞아요."
+   },
+   {
+    "note": "catch → caught (불규칙). catched는 ed를 붙인 틀린 꼴 → ①",
+    "highlight": [
+     "catched"
+    ],
+    "strike": [],
+    "narration": "셋째, catch는 불규칙 동사라서 과거형이 caught예요. 따라서 catched를 쓴 1번이 잘못이에요. The child caught the ball with both hands. 아이가 두 손으로 공을 잡았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The child catched the ball with both hands.  ✓  틀린 문장: catch의 과거형은 caught",
+    "② Mina taught me a new game.  ✗  옳은 문장: teach의 과거형은 taught",
+    "③ Tom carried the heavy box upstairs.  ✗  옳은 문장: carry는 y를 i로 바꾸고 ed",
+    "④ We found a small cafe near the park.  ✗  옳은 문장: find의 과거형은 found",
+    "⑤ They stopped the car at the light.  ✗  옳은 문장: stop은 p를 한 번 더 쓰고 ed"
+   ],
+   "narration": "정답은 1번이에요. catch의 과거형은 caught라서, catched는 틀린 꼴이에요. 3번 carried는 모양이 바뀌어 틀려 보이지만, carry는 y를 i로 바꾸고 ed를 붙이는 게 맞아요. 5번 stopped도 stop의 p를 한 번 더 쓰고 ed를 붙인 옳은 꼴이에요. 4번 found는 find의 과거형이라 옳아요."
+  },
+  "summary": {
+   "card": "불규칙 동사는 ed 없이 정해진 과거형 (catch → caught)",
+   "narration": "정답은 1번이에요. 기억할 것, 불규칙 동사는 ed를 붙이지 않고 정해진 과거형을 써요. catch의 과거형은 caught예요."
+  },
+  "captions": [
+   "과거형이 잘못된 문장 찾기",
+   "먼저 풀어 보세요",
+   "규칙 동사 ed, 불규칙은 따로 외워요",
+   "문장마다 동사 확인 → catch는 caught",
+   "정답 ① catched → caught",
+   "불규칙 과거형은 외워요"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   37,
+   30,
+   11
+  ]
+ },
+ "C": {
+  "title": "불규칙 동사의 과거형",
+  "intro": "이 문제는 다섯 문장 가운데 동사의 과거형을 잘못 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사의 형태가 잘못된 것을 고르세요. 다섯 문장의 동사를 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+    "규칙 동사 → 보통 동사원형 끝에 ed (play → played)",
+    "불규칙 동사 → ed 없이 정해진 과거형 (go → went, see → saw)",
+    "불규칙 동사에 ed를 붙이면 틀려요 (goed ✗)",
+    "예) I played soccer and went home. (나는 축구를 하고 집에 갔어요.)"
+   ],
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙 동사는 보통 동사원형 끝에 ed를 붙여서, play는 played가 돼요. 불규칙 동사는 ed를 붙이지 않고 정해진 과거형을 써요. go는 went, see는 saw가 되고, go에 ed를 붙인 꼴은 틀려요. I played soccer and went home. 나는 축구를 하고 집에 갔어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 동사를 찾아 과거형이 바른지 하나씩 확인한다.",
+    "highlight": [
+     "동사의 형태가 잘못된 것"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 동사를 찾아서 과거형을 바르게 썼는지 하나씩 확인해요."
+   },
+   {
+    "note": "sent(send), swam(swim), lost(lose): 불규칙 과거형 / cooked(cook): 규칙 과거형 → 옳은 문장",
+    "highlight": [],
+    "strike": [
+     "① Mina sent me a card.",
+     "② We swam in the lake.",
+     "③ Dad cooked dinner for us.",
+     "⑤ I lost my key yesterday."
+    ],
+    "narration": "둘째, send의 sent, swim의 swam, lose의 lost는 불규칙 동사의 과거형이 맞고, cook의 cooked는 규칙 동사의 과거형이 맞아요."
+   },
+   {
+    "note": "run → ran (불규칙). runned는 ed를 붙인 틀린 꼴 → ④",
+    "highlight": [
+     "runned"
+    ],
+    "strike": [],
+    "narration": "셋째, run은 불규칙 동사라서 과거형이 ran이에요. 따라서 runned를 쓴 4번이 잘못이에요. The dog ran to the door. 개가 문으로 달려갔어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Mina sent me a card.  ✗  옳은 문장: send의 과거형은 sent",
+    "② We swam in the lake.  ✗  옳은 문장: swim의 과거형은 swam",
+    "③ Dad cooked dinner for us.  ✗  옳은 문장: 규칙 동사 cook에 ed",
+    "④ The dog runned to the door.  ✓  틀린 문장: run의 과거형은 ran",
+    "⑤ I lost my key yesterday.  ✗  옳은 문장: lose의 과거형은 lost"
+   ],
+   "narration": "정답은 4번이에요. run의 과거형은 ran이라서, runned는 틀린 꼴이에요. 2번 swam은 낯설어 보여도 swim의 과거형이 맞아요. 5번 lost는 lose의 과거형이고, 1번 sent는 send의 과거형이라 둘 다 옳아요."
+  },
+  "summary": {
+   "card": "불규칙 동사는 ed 없이 정해진 과거형 (run → ran)",
+   "narration": "정답은 4번이에요. 기억할 것, 불규칙 동사는 ed를 붙이지 않고 정해진 과거형을 써요. run의 과거형은 ran이에요."
+  },
+  "captions": [
+   "과거형이 잘못된 문장 찾기",
+   "먼저 풀어 보세요",
+   "규칙 동사 ed, 불규칙은 따로 외워요",
+   "문장마다 동사 확인 → run은 ran",
+   "정답 ④ runned → ran",
+   "불규칙 과거형은 외워요"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   36,
+   27,
+   11
+  ]
+ },
+ "D": {
+  "title": "불규칙 동사의 과거형",
+  "intro": "이 문제는 다섯 문장 가운데 동사의 과거형을 잘못 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사의 형태가 잘못된 것을 고르세요. 다섯 문장의 동사를 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+    "규칙 동사 → 보통 동사원형 끝에 ed (play → played)",
+    "불규칙 동사 → ed 없이 정해진 과거형 (go → went, see → saw)",
+    "불규칙 동사에 ed를 붙이면 틀려요 (goed ✗)",
+    "예) I played soccer and went home. (나는 축구를 하고 집에 갔어요.)"
+   ],
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙 동사는 보통 동사원형 끝에 ed를 붙여서, play는 played가 돼요. 불규칙 동사는 ed를 붙이지 않고 정해진 과거형을 써요. go는 went, see는 saw가 되고, go에 ed를 붙인 꼴은 틀려요. I played soccer and went home. 나는 축구를 하고 집에 갔어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 동사를 찾아 과거형이 바른지 하나씩 확인한다.",
+    "highlight": [
+     "동사의 형태가 잘못된 것"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 동사를 찾아서 과거형을 바르게 썼는지 하나씩 확인해요."
+   },
+   {
+    "note": "built(build), met(meet): 불규칙 과거형 / cried(cry), dropped(drop): 규칙 과거형 → 옳은 문장",
+    "highlight": [],
+    "strike": [
+     "① They built a tree house.",
+     "② My sister cried at the movie.",
+     "③ We met our teacher at the mall.",
+     "④ Tom dropped his phone."
+    ],
+    "narration": "둘째, build의 built와 meet의 met은 불규칙 동사의 과거형이 맞고, cry의 cried와 drop의 dropped는 규칙 동사의 과거형이 맞아요."
+   },
+   {
+    "note": "think → thought (불규칙). thinked는 ed를 붙인 틀린 꼴 → ⑤",
+    "highlight": [
+     "thinked"
+    ],
+    "strike": [],
+    "narration": "셋째, think는 불규칙 동사라서 과거형이 thought예요. 따라서 thinked를 쓴 5번이 잘못이에요. Jane thought about her future. 제인은 자기의 미래에 대해 생각했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① They built a tree house.  ✗  옳은 문장: build의 과거형은 built",
+    "② My sister cried at the movie.  ✗  옳은 문장: cry는 y를 i로 바꾸고 ed",
+    "③ We met our teacher at the mall.  ✗  옳은 문장: meet의 과거형은 met",
+    "④ Tom dropped his phone.  ✗  옳은 문장: drop은 p를 한 번 더 쓰고 ed",
+    "⑤ Jane thinked about her future.  ✓  틀린 문장: think의 과거형은 thought"
+   ],
+   "narration": "정답은 5번이에요. think의 과거형은 thought라서, thinked는 틀린 꼴이에요. 2번 cried는 cry의 y를 i로 바꾸고 ed를 붙인 옳은 꼴이에요. 4번 dropped도 drop의 p를 한 번 더 쓰고 ed를 붙인 옳은 꼴이에요. 1번 built는 build의 과거형이라 옳아요."
+  },
+  "summary": {
+   "card": "불규칙 동사는 ed 없이 정해진 과거형 (think → thought)",
+   "narration": "정답은 5번이에요. 기억할 것, 불규칙 동사는 ed를 붙이지 않고 정해진 과거형을 써요. think의 과거형은 thought예요."
+  },
+  "captions": [
+   "과거형이 잘못된 문장 찾기",
+   "먼저 풀어 보세요",
+   "규칙 동사 ed, 불규칙은 따로 외워요",
+   "문장마다 동사 확인 → think는 thought",
+   "정답 ⑤ thinked → thought",
+   "불규칙 과거형은 외워요"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   37,
+   30,
+   11
+  ]
+ },
+ "E": {
+  "title": "불규칙 동사의 과거형",
+  "intro": "이 문제는 다섯 문장 가운데 동사의 과거형을 잘못 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사의 형태가 잘못된 것을 고르세요. 다섯 문장의 동사를 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+    "규칙 동사 → 보통 동사원형 끝에 ed (play → played)",
+    "불규칙 동사 → ed 없이 정해진 과거형 (go → went, see → saw)",
+    "불규칙 동사에 ed를 붙이면 틀려요 (goed ✗)",
+    "예) I played soccer and went home. (나는 축구를 하고 집에 갔어요.)"
+   ],
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙 동사는 보통 동사원형 끝에 ed를 붙여서, play는 played가 돼요. 불규칙 동사는 ed를 붙이지 않고 정해진 과거형을 써요. go는 went, see는 saw가 되고, go에 ed를 붙인 꼴은 틀려요. I played soccer and went home. 나는 축구를 하고 집에 갔어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 동사를 찾아 과거형이 바른지 하나씩 확인한다.",
+    "highlight": [
+     "동사의 형태가 잘못된 것"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 동사를 찾아서 과거형을 바르게 썼는지 하나씩 확인해요."
+   },
+   {
+    "note": "rang(울리다 ring), drove(drive), sold(sell): 불규칙 과거형 / planned(plan): 규칙 과거형 → 옳은 문장",
+    "highlight": [],
+    "strike": [
+     "① The bell rang at nine.",
+     "② I planned a trip to Busan.",
+     "④ Dad drove us to school.",
+     "⑤ They sold their old car."
+    ],
+    "narration": "둘째, 울리다라는 뜻의 ring은 rang, drive는 drove, sell은 sold가 불규칙 동사의 과거형으로 맞고, plan의 planned는 규칙 동사의 과거형이 맞아요."
+   },
+   {
+    "note": "sleep → slept (불규칙). sleeped는 ed를 붙인 틀린 꼴 → ③",
+    "highlight": [
+     "sleeped"
+    ],
+    "strike": [],
+    "narration": "셋째, sleep은 불규칙 동사라서 과거형이 slept예요. 따라서 sleeped를 쓴 3번이 잘못이에요. She slept late on Sunday. 그녀는 일요일에 늦게까지 잤어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The bell rang at nine.  ✗  옳은 문장: 울리다 ring의 과거형은 rang",
+    "② I planned a trip to Busan.  ✗  옳은 문장: plan은 n을 한 번 더 쓰고 ed",
+    "③ She sleeped late on Sunday.  ✓  틀린 문장: sleep의 과거형은 slept",
+    "④ Dad drove us to school.  ✗  옳은 문장: drive의 과거형은 drove",
+    "⑤ They sold their old car.  ✗  옳은 문장: sell의 과거형은 sold"
+   ],
+   "narration": "정답은 3번이에요. sleep의 과거형은 slept라서, sleeped는 틀린 꼴이에요. 2번 planned는 n이 두 번 나와 어색해 보여도, plan은 n을 한 번 더 쓰고 ed를 붙이는 게 맞아요. 1번 rang은 울리다라는 뜻의 ring의 과거형이에요. 5번 sold도 sell의 과거형이라 옳아요."
+  },
+  "summary": {
+   "card": "불규칙 동사는 ed 없이 정해진 과거형 (sleep → slept)",
+   "narration": "정답은 3번이에요. 기억할 것, 불규칙 동사는 ed를 붙이지 않고 정해진 과거형을 써요. sleep의 과거형은 slept예요."
+  },
+  "captions": [
+   "과거형이 잘못된 문장 찾기",
+   "먼저 풀어 보세요",
+   "규칙 동사 ed, 불규칙은 따로 외워요",
+   "문장마다 동사 확인 → sleep은 slept",
+   "정답 ③ sleeped → slept",
+   "불규칙 과거형은 외워요"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   38,
+   30,
+   11
+  ]
+ },
+ "F": {
+  "title": "불규칙 동사의 과거형",
+  "intro": "이 문제는 다섯 문장 가운데 동사의 과거형을 잘못 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사의 형태가 잘못된 것을 고르세요. 다섯 문장의 동사를 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+    "규칙 동사 → 보통 동사원형 끝에 ed (play → played)",
+    "불규칙 동사 → ed 없이 정해진 과거형 (go → went, see → saw)",
+    "불규칙 동사에 ed를 붙이면 틀려요 (goed ✗)",
+    "예) I played soccer and went home. (나는 축구를 하고 집에 갔어요.)"
+   ],
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙 동사는 보통 동사원형 끝에 ed를 붙여서, play는 played가 돼요. 불규칙 동사는 ed를 붙이지 않고 정해진 과거형을 써요. go는 went, see는 saw가 되고, go에 ed를 붙인 꼴은 틀려요. I played soccer and went home. 나는 축구를 하고 집에 갔어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 동사를 찾아 과거형이 바른지 하나씩 확인한다.",
+    "highlight": [
+     "동사의 형태가 잘못된 것"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 동사를 찾아서 과거형을 바르게 썼는지 하나씩 확인해요."
+   },
+   {
+    "note": "kept(keep), heard(hear), paid(pay): 불규칙 과거형 / tried(try): 규칙 과거형 → 옳은 문장",
+    "highlight": [],
+    "strike": [
+     "① Tom kept the secret.",
+     "③ I heard a strange sound.",
+     "④ We tried a new dish.",
+     "⑤ She paid for the tickets."
+    ],
+    "narration": "둘째, keep의 kept, hear의 heard, pay의 paid는 불규칙 동사의 과거형이 맞고, try의 tried는 규칙 동사의 과거형이 맞아요."
+   },
+   {
+    "note": "hold → held (불규칙). holded는 ed를 붙인 틀린 꼴 → ②",
+    "highlight": [
+     "holded"
+    ],
+    "strike": [],
+    "narration": "셋째, hold는 불규칙 동사라서 과거형이 held예요. 따라서 holded를 쓴 2번이 잘못이에요. The baby held my finger. 아기가 내 손가락을 잡았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Tom kept the secret.  ✗  옳은 문장: keep의 과거형은 kept",
+    "② The baby holded my finger.  ✓  틀린 문장: hold의 과거형은 held",
+    "③ I heard a strange sound.  ✗  옳은 문장: hear의 과거형은 heard",
+    "④ We tried a new dish.  ✗  옳은 문장: try는 y를 i로 바꾸고 ed",
+    "⑤ She paid for the tickets.  ✗  옳은 문장: pay의 과거형은 paid (payed ✗)"
+   ],
+   "narration": "정답은 2번이에요. hold의 과거형은 held라서, holded는 틀린 꼴이에요. 5번 paid는 played처럼 payed로 쓸 것 같지만, pay는 과거형이 paid인 불규칙 동사예요. 4번 tried는 try의 y를 i로 바꾸고 ed를 붙인 옳은 꼴이에요. 3번 heard도 hear의 과거형이라 옳아요."
+  },
+  "summary": {
+   "card": "불규칙 동사는 ed 없이 정해진 과거형 (hold → held)",
+   "narration": "정답은 2번이에요. 기억할 것, 불규칙 동사는 ed를 붙이지 않고 정해진 과거형을 써요. hold의 과거형은 held예요."
+  },
+  "captions": [
+   "과거형이 잘못된 문장 찾기",
+   "먼저 풀어 보세요",
+   "규칙 동사 ed, 불규칙은 따로 외워요",
+   "문장마다 동사 확인 → hold는 held",
+   "정답 ② holded → held",
+   "불규칙 과거형은 외워요"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   36,
+   30,
+   11
+  ]
+ }
+}

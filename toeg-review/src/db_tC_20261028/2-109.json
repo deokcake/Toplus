@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T04:03:59.226Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "over - along - among",
+      "1": "into - along - between",
+      "2": "over - along - between",
+      "3": "over - onto - between",
+      "4": "over - between - along"
+    },
+    "expl": "핵심 규칙: 이동 전치사는 out of(밖으로), into(안으로), across(가로질러), along(따라), over(넘어), up/down(위로/아래로), under(아래로), between(둘 사이), among(여럿 사이)을 구별한다. 세 자리가 모두 문장의 뜻과 맞아야 한다.\n풀이 순서: ① 동사와 장소를 짝지어 움직임을 그려 본다. → ② 울타리를 ‘넘어’(over), 강을 ‘따라’ 걸어(along), 두 나무 ‘사이에’ 앉았다(둘이므로 between). → ③ 순서대로 over - along - between이다.\n문장별 판정:\n정답 판단: 울타리를 ‘넘어’ over, 강을 ‘따라’ along, 두 나무 ‘사이에’ between이다.\n선택지 분석:\n① [오답] 셋째 빈칸 among: among은 셋 이상 사이에 쓰며, 두 나무 사이는 between이다. 따라서 오답이다.\n② [오답] 첫째 빈칸 into: 울타리 ‘안으로’ 올라간다는 뜻은 통하지 않는다. 따라서 오답이다.\n③ [정답] over - along - between: 모든 자리가 알맞으므로 정답이다.\n④ [오답] 둘째 빈칸 onto: 강 ‘위로’ 걸어 올라간다는 뜻은 통하지 않는다. 따라서 오답이다.\n⑤ [오답] 둘째 빈칸 between: 강 ‘사이’를 걷는다는 뜻은 통하지 않는다. 셋째 빈칸 along: 두 나무를 ‘따라’ 앉는다는 뜻은 통하지 않는다. 따라서 오답이다.",
+    "passage": "The child climbed ________ the fence, walked ________ the river, and sat ________ two big trees.",
+    "stem": "다음 문장의 빈칸에 들어갈 전치사가 순서대로 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:03:48.158Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T04:03:59.226Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:03:59.226Z",
+      "what": "확인 완료"
+    }
+  }
+}

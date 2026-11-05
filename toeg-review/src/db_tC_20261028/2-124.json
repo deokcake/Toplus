@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T03:22:34.108Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "I knew the answer",
+      "1": "I have the textbook",
+      "2": "I had studied harder",
+      "3": "you had asked me",
+      "4": "I were as smart"
+    },
+    "expl": "핵심 규칙: 현재 사실과 반대되는 조건·소망은 과거형(be동사는 were), 과거 사실과 반대되는 조건·후회는 had + 과거분사로 나타낸다. I wish, If only 뒤에는 will·can 같은 현재형 조동사를 쓰지 않는다.\n풀이 순서: ① 밑줄마다 I wish, If only, If 뒤의 동사 형태를 본다. 현재 사실의 반대는 과거형(were, could), 과거 사실의 반대는 had + 과거분사다. → ② 이 자리에 현재형이나 will, can이 있으면 틀린 것이다. if절은 주절의 형태와도 짝이 맞아야 한다. → ③ 선택지 ②가 틀렸다: 주절이 would lend인데 if절에 have를 썼다. had가 맞다.\n문장별 판정:\n정답 판단: 주절이 would lend인 가정법 과거이므로 if절에는 had를 써야 한다.\n선택지 분석:\n① [오답] I wish 뒤 현재 사실 반대의 소망에 과거형 knew를 바르게 썼으므로 오답이다.\n② [정답] 주절이 would lend인 가정법 과거이고, if절에는 had를 써야 하므로 정답이다.\n③ [오답] 과거 사실과 반대되는 조건에 had + 과거분사를 바르게 썼으므로 오답이다.\n④ [오답] I wish + had + 과거분사로 지난 일의 아쉬움을 바르게 나타냈으므로 오답이다.\n⑤ [오답] If only 뒤 현재 사실 반대의 소망에 were를 바르게 썼으므로 오답이다.",
+    "passage": "Tom: I wish ①<u>I knew the answer</u> to this question. I've been thinking about it for almost an hour, and I'm still stuck.\nAmy: If ②<u>I have the textbook</u> with me, I would lend it to you right now. Unfortunately, I left it at school.\nTom: Thanks anyway. If ③<u>I had studied harder</u> last week, I wouldn't be so worried about the test now.\nAmy: I wish ④<u>you had asked me</u> earlier. We could have studied together at the library after school.\nTom: You're right. If only ⑤<u>I were as smart</u> and well organized as you are!",
+    "stem": "다음 대화에서 사용된 가정법 표현 중 어법상 옳지 않은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:13:18.288Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:13:49.414Z",
+      "text": "기준 문항에 비해 지문의 길이가 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:36:23.174Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T03:36:23.174Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:36:23.174Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

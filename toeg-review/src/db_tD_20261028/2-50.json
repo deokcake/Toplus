@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:00:23.740Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "(A), (B)",
+      "1": "(C), (D)",
+      "2": "(A), (C), (E)",
+      "3": "(B), (D), (E)",
+      "4": "(B), (C), (E)"
+    },
+    "expl": "핵심 규칙: all of / most of / some of + 명사 뒤의 동사는 of 뒤 명사에 수를 맞춘다(불가산명사 → 단수, 복수명사 → 복수). each of + 복수명사, one of + 복수명사, every + 단수명사는 단수 동사를 쓴다.\n풀이 순서: ① 밑줄 동사의 수는 of 뒤 명사가 정한다. all/most/some of + 셀 수 없는 명사는 단수, + 복수 명사는 복수다. → ② each of ~, one of ~, every ~는 뒤에 복수 명사가 와도 항상 단수다. → ③ 틀린 문장을 지운다: (A) news는 셀 수 없으므로 was, (D) windows는 복수이므로 were. 옳은 문장만 묶은 (B), (C), (E)가 정답이다.\n문장별 판정:\n(A) X. news는 불가산명사라 단수 동사를 쓴다. 교정: was\n(B) O. each of + 복수명사는 단수 동사(wears)를 쓴다.\n(C) O. milk는 불가산명사라 단수 동사(has)를 쓴다.\n(D) X. of 뒤 windows가 복수라 복수 동사를 쓴다. 교정: were\n(E) O. one of + 복수명사는 단수 동사(is)를 쓴다.\n정답 판단: 옳은 문장은 (B), (C), (E)이고, 이 문장들로만 묶인 보기가 정답이다.\n선택지 분석:\n① [오답] (A)는 옳은 문장이 아니고, 옳은 문장 (C), (E)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (B), (E)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (A)는 옳은 문장이 아니고, 옳은 문장 (B)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 옳은 문장 (B), (C), (E)를 빠짐없이 골랐으므로 정답이다.",
+    "passage": "(A) All of the news about the accident <u>were</u> shocking.\n(B) Each of the players on the team <u>wears</u> a number.\n(C) Most of the milk in the bottle <u>has</u> gone bad.\n(D) All of the windows in the classroom <u>was</u> open.\n(E) One of the teachers at our school <u>is</u> from Canada.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장으로만 묶인 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T16:38:03.167Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:38:08.211Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:00:23.740Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:00:14.252Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:00:23.740Z",
+      "what": "확인 완료"
+    }
+  }
+}

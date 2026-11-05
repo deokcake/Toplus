@@ -1,0 +1,476 @@
+{
+ "A": {
+  "title": "인칭대명사로 바꿔 쓰기",
+  "intro": "이 문제는 밑줄 친 말을 알맞은 대명사로 바꿔 썼는지 따져서, 옳지 않은 것을 고르는 문제예요.",
+  "problem_narration": "밑줄 친 부분을 대명사를 사용해 바꿔 쓴 문장이 옳지 않은 것을 고르세요. 화살표 앞의 밑줄 친 말을 화살표 뒤에서 대명사로 바꿨어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "여럿: 나를 포함 → we, 나 없이 너를 포함 → you, 나도 너도 없음 → they",
+    "한 명·하나: 남자 → he, 여자 → she, 동물이나 물건 → 보통 it",
+    "누구의 것(~’s): 남자 한 명의 것 → his, 여자 한 명의 것 → her",
+    "예) Sora and I like music. → We like music. (우리는 음악을 좋아해요.)"
+   ],
+   "narration": "여럿을 대명사로 바꿀 때는 나를 포함하면 we, 나는 없고 너를 포함하면 you, 나도 너도 없으면 they를 써요. 한 명이나 하나일 때는 남자는 he, 여자는 she, 동물이나 물건은 보통 it을 써요. Jiho's처럼 누구의 것인지 나타내는 말은 남자 한 명의 것이면 his, 여자 한 명의 것이면 her로 바꿔요. 예를 들어 Sora and I like music, 소라와 나는 음악을 좋아해요. 나를 포함하니까 We로 바꿔서 We like music, 우리는 음악을 좋아해요."
+  },
+  "steps": [
+   {
+    "note": "한 명: Kelly(여자) → She, Tom's(남자 Tom의 것) → His — 바르다.",
+    "highlight": [
+     "<u>Kelly</u>",
+     "<u>Tom's</u>"
+    ],
+    "strike": [
+     "③ <u>Kelly</u> is a nurse. → <u>She</u> is a nurse.",
+     "④ <u>Tom's</u> cap is nice. → <u>His</u> cap is nice."
+    ],
+    "narration": "첫째, 한 명을 가리키는 말부터 봐요. 여자 Kelly는 She로, 남자 Tom의 것인 Tom's는 His로 바르게 바꿨어요."
+   },
+   {
+    "note": "David and Tom: 나도 너도 없는 두 사람 → They — 바르다.",
+    "highlight": [
+     "<u>David and Tom</u>"
+    ],
+    "strike": [
+     "② <u>David and Tom</u> are my brothers. → <u>They</u> are my brothers."
+    ],
+    "narration": "둘째, David and Tom에는 나도 너도 없으니 They가 맞아요."
+   },
+   {
+    "note": "I(나)가 든 여럿 → We. My mother and I → We 바름 / Bruce and I → You는 틀림(→ We).",
+    "highlight": [
+     "<u>Bruce and I</u>",
+     "<u>You</u> are friends."
+    ],
+    "strike": [
+     "⑤ <u>My mother and I</u> are family. → <u>We</u> are family."
+    ],
+    "narration": "셋째, 나를 뜻하는 I가 들어 있는 여럿은 We로 바꿔요. My mother and I는 We로 맞게 바꿨지만, Bruce and I를 You로 바꾼 1번은 옳지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① <u>Bruce and I</u> are friends. → <u>You</u> are friends.  ✓  I(나)가 들어 있어 You가 아니라 We",
+    "② <u>David and Tom</u> are my brothers. → <u>They</u> are my brothers.  ✗  나도 너도 없는 두 사람 → They",
+    "③ <u>Kelly</u> is a nurse. → <u>She</u> is a nurse.  ✗  여자 한 명 Kelly → She",
+    "④ <u>Tom's</u> cap is nice. → <u>His</u> cap is nice.  ✗  남자 Tom의 것 → His",
+    "⑤ <u>My mother and I</u> are family. → <u>We</u> are family.  ✗  I(나)를 포함한 여럿 → We"
+   ],
+   "narration": "정답은 1번이에요. Bruce and I에는 나를 뜻하는 I가 들어 있어서 You가 아니라 We로 바꿔야 해요. We are friends. 우리는 친구예요. 5번 My mother and I도 I가 들어 있어서 We로 바르게 바꿨어요. 4번 Tom's는 남자 Tom의 것이라 His가 맞아요."
+  },
+  "summary": {
+   "card": "나를 포함한 여럿 → we (나 없이 너를 포함 → you, 나도 너도 없음 → they)",
+   "narration": "정답은 1번이에요. 기억할 것, 여럿을 대명사로 바꿀 때 나를 포함하면 we, 나는 없고 너를 포함하면 you, 나도 너도 없으면 they예요."
+  },
+  "captions": [
+   "인칭대명사로 바꿔 쓰기",
+   "먼저 풀어 보세요",
+   "여럿 we·you·they, 한 명 he·she·it",
+   "한 명 → 여럿 → I가 든 여럿",
+   "정답 ① You → We",
+   "나를 포함한 여럿은 we"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   36,
+   30,
+   10
+  ]
+ },
+ "B": {
+  "title": "인칭대명사로 바꿔 쓰기",
+  "intro": "이 문제는 밑줄 친 말을 알맞은 대명사로 바꿔 썼는지 따져서, 옳지 않은 것을 고르는 문제예요.",
+  "problem_narration": "밑줄 친 부분을 대명사를 사용해 바꿔 쓴 문장이 옳지 않은 것을 고르세요. 단, Tom은 남자이고, Amy, Jane, Kelly는 여자예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "여럿: 나를 포함 → we, 나 없이 너를 포함 → you, 나도 너도 없음 → they",
+    "한 명·하나: 남자 → he, 여자 → she, 동물이나 물건 → 보통 it",
+    "누구의 것(~’s): 남자 한 명의 것 → his, 여자 한 명의 것 → her",
+    "예) Minho and I play soccer. → We play soccer. (우리는 축구를 해요.)"
+   ],
+   "narration": "여럿을 대명사로 바꿀 때는 나를 포함하면 we, 나는 없고 너를 포함하면 you, 나도 너도 없으면 they를 써요. 한 명이나 하나일 때는 남자는 he, 여자는 she, 동물이나 물건은 보통 it을 써요. Jiho's처럼 누구의 것인지 나타내는 말은 남자 한 명의 것이면 his, 여자 한 명의 것이면 her로 바꿔요. 예를 들어 Minho and I play soccer, 민호와 나는 축구를 해요. 나를 포함하니까 We로 바꿔서 We play soccer, 우리는 축구를 해요."
+  },
+  "steps": [
+   {
+    "note": "한 명·하나: Tom(남자) → He, My dog(동물) → It, Kelly's(여자 Kelly의 것) → Her — 바르다.",
+    "highlight": [
+     "<u>Tom</u>",
+     "<u>My dog</u>",
+     "<u>Kelly's</u>"
+    ],
+    "strike": [
+     "① <u>Tom</u> is tall. → <u>He</u> is tall.",
+     "② <u>My dog</u> is cute. → <u>It</u> is cute.",
+     "⑤ <u>Kelly's</u> pen is new. → <u>Her</u> pen is new."
+    ],
+    "narration": "첫째, 한 명이나 하나를 가리키는 말부터 봐요. 남자 Tom은 He, 동물 My dog은 It, 여자 Kelly의 것인 Kelly's는 Her로 바르게 바꿨어요."
+   },
+   {
+    "note": "Jane and Amy: 나도 너도 없는 두 사람 → They — 바르다.",
+    "highlight": [
+     "<u>Jane and Amy</u>"
+    ],
+    "strike": [
+     "④ <u>Jane and Amy</u> are friends. → <u>They</u> are friends."
+    ],
+    "narration": "둘째, Jane and Amy에는 나도 너도 없으니 They가 맞아요."
+   },
+   {
+    "note": "My brother and I: I(나)가 들어 있음 → They가 아니라 We. ③이 옳지 않다.",
+    "highlight": [
+     "<u>My brother and I</u>",
+     "<u>They</u> are students."
+    ],
+    "strike": [],
+    "narration": "셋째, My brother and I에는 나를 뜻하는 I가 들어 있어요. 그래서 They가 아니라 We로 바꿔야 하니 3번이 옳지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① <u>Tom</u> is tall. → <u>He</u> is tall.  ✗  남자 한 명 Tom → He",
+    "② <u>My dog</u> is cute. → <u>It</u> is cute.  ✗  동물 하나 → It",
+    "③ <u>My brother and I</u> are students. → <u>They</u> are students.  ✓  I(나)가 들어 있어 They가 아니라 We",
+    "④ <u>Jane and Amy</u> are friends. → <u>They</u> are friends.  ✗  나도 너도 없는 두 사람 → They",
+    "⑤ <u>Kelly's</u> pen is new. → <u>Her</u> pen is new.  ✗  여자 Kelly의 것 → Her"
+   ],
+   "narration": "정답은 3번이에요. My brother and I에는 나를 뜻하는 I가 들어 있어서 They가 아니라 We로 바꿔야 해요. We are students. 우리는 학생이에요. 4번 Jane and Amy는 나도 너도 없는 두 사람이라 They가 맞아요. 2번 My dog은 동물 한 마리라서 It으로 바르게 바꿨어요."
+  },
+  "summary": {
+   "card": "나를 포함한 여럿 → we (나 없이 너를 포함 → you, 나도 너도 없음 → they)",
+   "narration": "정답은 3번이에요. 기억할 것, 여럿을 대명사로 바꿀 때 나를 포함하면 we, 나는 없고 너를 포함하면 you, 나도 너도 없으면 they예요."
+  },
+  "captions": [
+   "인칭대명사로 바꿔 쓰기",
+   "먼저 풀어 보세요",
+   "여럿 we·you·they, 한 명 he·she·it",
+   "한 명 → 여럿 → I가 든 여럿",
+   "정답 ③ They → We",
+   "나를 포함한 여럿은 we"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   36,
+   30,
+   10
+  ]
+ },
+ "C": {
+  "title": "인칭대명사로 바꿔 쓰기",
+  "intro": "이 문제는 밑줄 친 말을 알맞은 대명사로 바꿔 썼는지 따져서, 옳지 않은 것을 고르는 문제예요.",
+  "problem_narration": "밑줄 친 부분을 대명사를 사용해 바꿔 쓴 문장이 옳지 않은 것을 고르세요. 단, Ben, Leo, Tom은 남자이고, Jane은 여자예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "여럿: 나를 포함 → we, 나 없이 너를 포함 → you, 나도 너도 없음 → they",
+    "한 명·하나: 남자 → he, 여자 → she, 동물이나 물건 → 보통 it",
+    "누구의 것(~’s): 남자 한 명의 것 → his, 여자 한 명의 것 → her",
+    "예) My uncle's car is fast. → His car is fast. (그의 차는 빨라요.)"
+   ],
+   "narration": "여럿을 대명사로 바꿀 때는 나를 포함하면 we, 나는 없고 너를 포함하면 you, 나도 너도 없으면 they를 써요. 한 명이나 하나일 때는 남자는 he, 여자는 she, 동물이나 물건은 보통 it을 써요. Jiho's처럼 누구의 것인지 나타내는 말은 남자 한 명의 것이면 his, 여자 한 명의 것이면 her로 바꿔요. 예를 들어 My uncle's car is fast, 우리 삼촌의 차는 빨라요. 삼촌은 남자 한 명이니까 His로 바꿔서 His car is fast, 그의 차는 빨라요."
+  },
+  "steps": [
+   {
+    "note": "여럿: Ben and Leo(나도 너도 없음) → They, My cousin and I(I 있음) → We — 바르다.",
+    "highlight": [
+     "<u>Ben and Leo</u>",
+     "<u>My cousin and I</u>"
+    ],
+    "strike": [
+     "① <u>Ben and Leo</u> are here. → <u>They</u> are here.",
+     "⑤ <u>My cousin and I</u> are hungry. → <u>We</u> are hungry."
+    ],
+    "narration": "첫째, 여럿을 가리키는 말부터 봐요. Ben and Leo에는 나도 너도 없으니 They, My cousin and I에는 I가 있으니 We가 맞아요."
+   },
+   {
+    "note": "Tom: 남자 한 명 → He — 바르다.",
+    "highlight": [
+     "<u>Tom</u>"
+    ],
+    "strike": [
+     "③ <u>Tom</u> is my friend. → <u>He</u> is my friend."
+    ],
+    "narration": "둘째, 남자 한 명인 Tom은 He로 바르게 바꿨어요."
+   },
+   {
+    "note": "누구의 것: Jane's(여자) → Her 바름 / Ben's(남자) → Her는 틀림(→ His).",
+    "highlight": [
+     "<u>Ben's</u>",
+     "<u>Her</u> dog is cute."
+    ],
+    "strike": [
+     "② <u>Jane's</u> cat is small. → <u>Her</u> cat is small."
+    ],
+    "narration": "셋째, 누구의 것인지 나타내는 말을 봐요. Jane's는 여자 Jane의 것이라 Her가 맞지만, Ben's는 남자 Ben의 것이라 Her가 아니라 His로 바꿔야 해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① <u>Ben and Leo</u> are here. → <u>They</u> are here.  ✗  나도 너도 없는 두 사람 → They",
+    "② <u>Jane's</u> cat is small. → <u>Her</u> cat is small.  ✗  여자 Jane의 것 → Her",
+    "③ <u>Tom</u> is my friend. → <u>He</u> is my friend.  ✗  남자 한 명 Tom → He",
+    "④ <u>Ben's</u> dog is cute. → <u>Her</u> dog is cute.  ✓  남자 Ben의 것은 Her가 아니라 His",
+    "⑤ <u>My cousin and I</u> are hungry. → <u>We</u> are hungry.  ✗  I(나)를 포함한 여럿 → We"
+   ],
+   "narration": "정답은 4번이에요. Ben은 남자라서 Ben's는 Her가 아니라 His로 바꿔야 해요. His dog is cute. 그의 개는 귀여워요. 2번 Jane's는 여자 Jane의 것이라 Her가 맞아요. 5번 My cousin and I는 나를 뜻하는 I가 들어 있어서 We로 바르게 바꿨어요."
+  },
+  "summary": {
+   "card": "누구의 것(~’s): 남자 한 명의 것 → his, 여자 한 명의 것 → her",
+   "narration": "정답은 4번이에요. 기억할 것, 누구의 것인지 나타내는 말은 남자 한 명의 것이면 his, 여자 한 명의 것이면 her로 바꿔요."
+  },
+  "captions": [
+   "인칭대명사로 바꿔 쓰기",
+   "먼저 풀어 보세요",
+   "여럿 we·you·they, 한 명 he·she·it",
+   "여럿 → 한 명 → 누구의 것",
+   "정답 ④ Her → His",
+   "남자의 것 his, 여자의 것 her"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   36,
+   30,
+   10
+  ]
+ },
+ "D": {
+  "title": "인칭대명사로 바꿔 쓰기",
+  "intro": "이 문제는 밑줄 친 말을 알맞은 대명사로 바꿔 썼는지 따져서, 옳지 않은 것을 고르는 문제예요.",
+  "problem_narration": "밑줄 친 부분을 대명사를 사용해 바꿔 쓴 문장이 옳지 않은 것을 고르세요. 단, Ben, Leo, Tom은 남자이고, Jane, Kelly, Mina는 여자예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "여럿: 나를 포함 → we, 나 없이 너를 포함 → you, 나도 너도 없음 → they",
+    "한 명·하나: 남자 → he, 여자 → she, 동물이나 물건 → 보통 it",
+    "누구의 것(~’s): 남자 한 명의 것 → his, 여자 한 명의 것 → her",
+    "예) Sora and Minho are kind. → They are kind. (그들은 친절해요.)"
+   ],
+   "narration": "여럿을 대명사로 바꿀 때는 나를 포함하면 we, 나는 없고 너를 포함하면 you, 나도 너도 없으면 they를 써요. 한 명이나 하나일 때는 남자는 he, 여자는 she, 동물이나 물건은 보통 it을 써요. Jiho's처럼 누구의 것인지 나타내는 말은 남자 한 명의 것이면 his, 여자 한 명의 것이면 her로 바꿔요. 예를 들어 Sora and Minho are kind, 소라와 민호는 친절해요. 나도 너도 없으니까 They로 바꿔서 They are kind, 그들은 친절해요."
+  },
+  "steps": [
+   {
+    "note": "한 명: Leo's(남자 Leo의 것) → His, Kelly(여자) → She — 바르다.",
+    "highlight": [
+     "<u>Leo's</u>",
+     "<u>Kelly</u>"
+    ],
+    "strike": [
+     "① <u>Leo's</u> cap is red. → <u>His</u> cap is red.",
+     "④ <u>Kelly</u> is a nurse. → <u>She</u> is a nurse."
+    ],
+    "narration": "첫째, 한 명을 가리키는 말부터 봐요. 남자 Leo의 것인 Leo's는 His, 여자 Kelly는 She로 바르게 바꿨어요."
+   },
+   {
+    "note": "My dad and I(I 있음) → We, Tom and Ben(나도 너도 없음) → They — 바르다.",
+    "highlight": [
+     "<u>My dad and I</u>",
+     "<u>Tom and Ben</u>"
+    ],
+    "strike": [
+     "③ <u>Tom and Ben</u> are friends. → <u>They</u> are friends.",
+     "⑤ <u>My dad and I</u> are here. → <u>We</u> are here."
+    ],
+    "narration": "둘째, My dad and I에는 나를 뜻하는 I가 있으니 We, Tom and Ben에는 나도 너도 없으니 They가 맞아요."
+   },
+   {
+    "note": "Jane and Mina: 나도 너도 없음 → We가 아니라 They. ②가 옳지 않다.",
+    "highlight": [
+     "<u>Jane and Mina</u>",
+     "<u>We</u> are sisters."
+    ],
+    "strike": [],
+    "narration": "셋째, Jane and Mina에도 나도 너도 없어요. 그래서 We가 아니라 They로 바꿔야 하니 2번이 옳지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① <u>Leo's</u> cap is red. → <u>His</u> cap is red.  ✗  남자 Leo의 것 → His",
+    "② <u>Jane and Mina</u> are sisters. → <u>We</u> are sisters.  ✓  나도 너도 없으니 We가 아니라 They",
+    "③ <u>Tom and Ben</u> are friends. → <u>They</u> are friends.  ✗  나도 너도 없는 두 사람 → They",
+    "④ <u>Kelly</u> is a nurse. → <u>She</u> is a nurse.  ✗  여자 한 명 Kelly → She",
+    "⑤ <u>My dad and I</u> are here. → <u>We</u> are here.  ✗  I(나)를 포함한 여럿 → We"
+   ],
+   "narration": "정답은 2번이에요. Jane and Mina에는 나도 너도 들어 있지 않아서 We가 아니라 They로 바꿔야 해요. They are sisters. 그들은 자매예요. 5번 My dad and I는 나를 뜻하는 I가 들어 있어서 We가 맞아요. 3번 Tom and Ben도 나도 너도 없는 두 사람이라 They로 바르게 바꿨어요."
+  },
+  "summary": {
+   "card": "나도 너도 없는 여럿 → they (나를 포함 → we, 나 없이 너를 포함 → you)",
+   "narration": "정답은 2번이에요. 기억할 것, 여럿을 대명사로 바꿀 때 나도 너도 없으면 they, 나를 포함하면 we, 나는 없고 너를 포함하면 you예요."
+  },
+  "captions": [
+   "인칭대명사로 바꿔 쓰기",
+   "먼저 풀어 보세요",
+   "여럿 we·you·they, 한 명 he·she·it",
+   "한 명 → 여럿 → 나도 너도 없는 여럿",
+   "정답 ② We → They",
+   "나도 너도 없는 여럿은 they"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   36,
+   30,
+   10
+  ]
+ },
+ "E": {
+  "title": "인칭대명사로 바꿔 쓰기",
+  "intro": "이 문제는 밑줄 친 말을 알맞은 대명사로 바꿔 썼는지 따져서, 옳지 않은 것을 고르는 문제예요.",
+  "problem_narration": "밑줄 친 부분을 대명사를 사용해 바꿔 쓴 문장이 옳지 않은 것을 고르세요. 단, Ben, Sam, Tom은 남자이고, Jane은 여자예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "여럿: 나를 포함 → we, 나 없이 너를 포함 → you, 나도 너도 없음 → they",
+    "한 명·하나: 남자 → he, 여자 → she, 동물이나 물건 → 보통 it",
+    "누구의 것(~’s): 남자 한 명의 것 → his, 여자 한 명의 것 → her",
+    "예) My uncle is a cook. → He is a cook. (그는 요리사예요.)"
+   ],
+   "narration": "여럿을 대명사로 바꿀 때는 나를 포함하면 we, 나는 없고 너를 포함하면 you, 나도 너도 없으면 they를 써요. 한 명이나 하나일 때는 남자는 he, 여자는 she, 동물이나 물건은 보통 it을 써요. Jiho's처럼 누구의 것인지 나타내는 말은 남자 한 명의 것이면 his, 여자 한 명의 것이면 her로 바꿔요. 예를 들어 My uncle is a cook, 우리 삼촌은 요리사예요. 삼촌은 남자 한 명이니까 He로 바꿔서 He is a cook, 그는 요리사예요."
+  },
+  "steps": [
+   {
+    "note": "여럿: Ben and Sam(나도 너도 없음) → They, Tom and I(I 있음) → We — 바르다.",
+    "highlight": [
+     "<u>Ben and Sam</u>",
+     "<u>Tom and I</u>"
+    ],
+    "strike": [
+     "④ <u>Ben and Sam</u> are brothers. → <u>They</u> are brothers.",
+     "⑤ <u>Tom and I</u> are students. → <u>We</u> are students."
+    ],
+    "narration": "첫째, 여럿을 가리키는 말부터 봐요. Ben and Sam에는 나도 너도 없으니 They, Tom and I에는 I가 있으니 We가 맞아요."
+   },
+   {
+    "note": "My puppy(동물 하나) → It, Jane's(여자 Jane의 것) → Her — 바르다.",
+    "highlight": [
+     "<u>My puppy</u>",
+     "<u>Jane's</u>"
+    ],
+    "strike": [
+     "② <u>My puppy</u> is small. → <u>It</u> is small.",
+     "③ <u>Jane's</u> book is new. → <u>Her</u> book is new."
+    ],
+    "narration": "둘째, 강아지 My puppy는 동물 하나라서 It, 여자 Jane의 것인 Jane's는 Her로 바르게 바꿨어요."
+   },
+   {
+    "note": "My father: 아버지 = 남자 한 명 → She가 아니라 He. ①이 옳지 않다.",
+    "highlight": [
+     "<u>My father</u>",
+     "<u>She</u> is tall."
+    ],
+    "strike": [],
+    "narration": "셋째, My father는 아버지, 곧 남자 한 명이에요. 그래서 She가 아니라 He로 바꿔야 하니 1번이 옳지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① <u>My father</u> is tall. → <u>She</u> is tall.  ✓  아버지는 남자 한 명이라 She가 아니라 He",
+    "② <u>My puppy</u> is small. → <u>It</u> is small.  ✗  동물 하나 → It",
+    "③ <u>Jane's</u> book is new. → <u>Her</u> book is new.  ✗  여자 Jane의 것 → Her",
+    "④ <u>Ben and Sam</u> are brothers. → <u>They</u> are brothers.  ✗  나도 너도 없는 두 사람 → They",
+    "⑤ <u>Tom and I</u> are students. → <u>We</u> are students.  ✗  I(나)를 포함한 여럿 → We"
+   ],
+   "narration": "정답은 1번이에요. My father는 아버지, 곧 남자 한 명이라서 She가 아니라 He로 바꿔야 해요. He is tall. 그는 키가 커요. 2번 My puppy는 동물 한 마리라서 It으로 바르게 바꿨어요. 3번 Jane's는 여자 Jane의 것이라 Her가 맞아요."
+  },
+  "summary": {
+   "card": "한 명: 남자 → he, 여자 → she (동물이나 물건 하나 → 보통 it)",
+   "narration": "정답은 1번이에요. 기억할 것, 한 명을 대명사로 바꿀 때 남자는 he, 여자는 she를 쓰고, 동물이나 물건 하나는 보통 it을 써요."
+  },
+  "captions": [
+   "인칭대명사로 바꿔 쓰기",
+   "먼저 풀어 보세요",
+   "여럿 we·you·they, 한 명 he·she·it",
+   "여럿 → 하나 → 남자 한 명",
+   "정답 ① She → He",
+   "남자 한 명은 he, 여자 한 명은 she"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   36,
+   30,
+   10
+  ]
+ },
+ "F": {
+  "title": "인칭대명사로 바꿔 쓰기",
+  "intro": "이 문제는 밑줄 친 말을 알맞은 대명사로 바꿔 썼는지 따져서, 옳지 않은 것을 고르는 문제예요.",
+  "problem_narration": "밑줄 친 부분을 대명사를 사용해 바꿔 쓴 문장이 옳지 않은 것을 고르세요. 단, Ben, David, Leo는 남자이고, Jane, Mina는 여자예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "여럿: 나를 포함 → we, 나 없이 너를 포함 → you, 나도 너도 없음 → they",
+    "한 명·하나: 남자 → he, 여자 → she, 동물이나 물건 → 보통 it",
+    "누구의 것(~’s): 남자 한 명의 것 → his, 여자 한 명의 것 → her",
+    "예) You and Sora are tall. → You are tall. (너희는 키가 커요.)"
+   ],
+   "narration": "여럿을 대명사로 바꿀 때는 나를 포함하면 we, 나는 없고 너를 포함하면 you, 나도 너도 없으면 they를 써요. 한 명이나 하나일 때는 남자는 he, 여자는 she, 동물이나 물건은 보통 it을 써요. Jiho's처럼 누구의 것인지 나타내는 말은 남자 한 명의 것이면 his, 여자 한 명의 것이면 her로 바꿔요. 예를 들어 You and Sora are tall, 너와 소라는 키가 커요. 나는 없고 너를 포함하니까 You로 바꿔서 You are tall, 너희는 키가 커요."
+  },
+  "steps": [
+   {
+    "note": "한 명: David's(남자 David의 것) → His, Mina(여자) → She — 바르다.",
+    "highlight": [
+     "<u>David's</u>",
+     "<u>Mina</u>"
+    ],
+    "strike": [
+     "② <u>David's</u> bike is blue. → <u>His</u> bike is blue.",
+     "④ <u>Mina</u> is my aunt. → <u>She</u> is my aunt."
+    ],
+    "narration": "첫째, 한 명을 가리키는 말부터 봐요. 남자 David의 것인 David's는 His, 여자 Mina는 She로 바르게 바꿨어요."
+   },
+   {
+    "note": "Jane and I(I 있음) → We, Leo and Ben(나도 너도 없음) → They — 바르다.",
+    "highlight": [
+     "<u>Jane and I</u>",
+     "<u>Leo and Ben</u>"
+    ],
+    "strike": [
+     "① <u>Jane and I</u> are partners. → <u>We</u> are partners.",
+     "③ <u>Leo and Ben</u> are cousins. → <u>They</u> are cousins."
+    ],
+    "narration": "둘째, Jane and I에는 나를 뜻하는 I가 있으니 We, Leo and Ben에는 나도 너도 없으니 They가 맞아요."
+   },
+   {
+    "note": "You and your brother: 나는 없고 너(You)를 포함 → They가 아니라 You. ⑤가 옳지 않다.",
+    "highlight": [
+     "<u>You and your brother</u>",
+     "<u>They</u> are late."
+    ],
+    "strike": [],
+    "narration": "셋째, You and your brother에는 나는 없지만 너를 뜻하는 You가 들어 있어요. 그래서 They가 아니라 You로 바꿔야 하니 5번이 옳지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① <u>Jane and I</u> are partners. → <u>We</u> are partners.  ✗  I(나)를 포함한 여럿 → We",
+    "② <u>David's</u> bike is blue. → <u>His</u> bike is blue.  ✗  남자 David의 것 → His",
+    "③ <u>Leo and Ben</u> are cousins. → <u>They</u> are cousins.  ✗  나도 너도 없는 두 사람 → They",
+    "④ <u>Mina</u> is my aunt. → <u>She</u> is my aunt.  ✗  여자 한 명 Mina → She",
+    "⑤ <u>You and your brother</u> are late. → <u>They</u> are late.  ✓  나 없이 너(You)를 포함해 They가 아니라 You"
+   ],
+   "narration": "정답은 5번이에요. You and your brother에는 나는 없고 너를 뜻하는 You가 들어 있어서 They가 아니라 You로 바꿔야 해요. You are late. 너희는 늦었어요. 3번 Leo and Ben은 나도 너도 없는 두 사람이라 They가 맞아요. 1번 Jane and I는 나를 뜻하는 I가 들어 있어서 We로 바르게 바꿨어요."
+  },
+  "summary": {
+   "card": "나 없이 너를 포함한 여럿 → you (나를 포함 → we, 나도 너도 없음 → they)",
+   "narration": "정답은 5번이에요. 기억할 것, 여럿을 대명사로 바꿀 때 나는 없고 너를 포함하면 you, 나를 포함하면 we, 나도 너도 없으면 they예요."
+  },
+  "captions": [
+   "인칭대명사로 바꿔 쓰기",
+   "먼저 풀어 보세요",
+   "여럿 we·you·they, 한 명 he·she·it",
+   "한 명 → 여럿 → 너를 포함한 여럿",
+   "정답 ⑤ They → You",
+   "나 없이 너를 포함한 여럿은 you"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   36,
+   30,
+   10
+  ]
+ }
+}

@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T07:45:06.949Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Climbing",
+      "1": "flying",
+      "2": "made",
+      "3": "Feeling",
+      "4": "Refreshing"
+    },
+    "expl": "핵심 규칙: 분사구문과 명사를 꾸미는 분사는 의미상 주어(꾸밈을 받는 명사)와의 관계가 능동이면 현재분사, 수동이면 과거분사를 쓴다. 앞선 일이 끝난 뒤를 나타내면 Having + 과거분사를 쓴다.\n풀이 순서: ① 밑줄 친 분사마다 의미상 주어(분사구문은 주절의 주어, 명사 수식은 그 명사)를 찾는다. → ② 주어가 그 동작을 하면 -ing, 당하면 과거분사다. 분사 뒤에 목적어가 있으면 능동, by ~가 있으면 수동일 가능성이 크다. → ③ 선택지 ⑤가 틀렸다: 그녀가 바람에 ‘상쾌해진’ 것이므로(by the cool wind) Refreshing이 아니라 Refreshed.\n문장별 판정:\n정답 판단: Refreshing: 주어(she)가 시원한 바람에 기운을 되찾게 된 수동 관계이므로 Refreshed로 고쳐야 한다.\n선택지 분석:\n① [오답] Climbing: 주어(she)가 직접 오르는 능동 관계라 알맞으므로 오답이다.\n② [오답] flying: 새들이 직접 나는 능동 관계라 알맞으므로 오답이다.\n③ [오답] made: 벤치가 나무로 만들어진 수동 관계라 알맞으므로 오답이다.\n④ [오답] Feeling: 주어(she)가 피곤함을 느끼는 능동 관계라 알맞으므로 오답이다.\n⑤ [정답] Refreshing: 주어(she)가 시원한 바람에 기운을 되찾게 된 수동 관계이므로 Refreshed로 고쳐야 한다. 어법상 틀린 부분이므로 정답이다.",
+    "passage": "Yesterday, Mina went hiking with her family for the first time this year. ①<u>Climbing</u> up the steep mountain path, she saw many colorful birds ②<u>flying</u> above the tall pine trees. At the top, there was a small bench ③<u>made</u> of old wood, and from there she could see the whole town. ④<u>Feeling</u> tired after the long climb, she sat on it for a while and drank some water. ⑤<u>Refreshing</u> by the cool wind, she walked down the mountain happily with her family.",
+    "stem": "다음 글의 밑줄 친 부분 중 어법상 틀린 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-20T07:44:56.990Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T06:59:36.152Z",
+      "text": "기준 문항에 비해 지문의 길이가 짧음."
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T07:45:21.345Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T07:45:21.345Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T07:45:21.345Z",
+      "what": "판정을 Claude 판정으로 되돌림"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T12:22:25.278Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "These socks are warm.",
+      "1": "That bag looks heavy.",
+      "2": "This furniture are expensive.",
+      "3": "Those students are busy.",
+      "4": "This advice is helpful."
+    },
+    "expl": "핵심 규칙: this/that은 단수명사와, these/those는 복수명사와 쓰고, 동사도 명사의 수에 맞춘다. pants·glasses·scissors처럼 짝을 이루는 물건은 복수로, information·furniture·news·advice는 단수로 취급한다.\n풀이 순서: ① 문장마다 ‘지시어(this/that/these/those) - 명사 - 동사’ 세 가지의 수가 맞는지 본다. → ② 셀 수 없는 명사(information, furniture, news)는 단수로, 짝을 이루는 물건(pants, glasses, scissors)은 복수로 취급한다. → ③ 선택지 ③이 어긋난다: furniture는 셀 수 없으므로 This furniture is가 맞다.\n문장별 판정:\n정답 판단: furniture는 셀 수 없는 명사라 단수로 취급하므로 is를 쓴다. 수 일치가 틀렸으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 지시어·명사·동사의 수가 모두 맞으므로 오답이다.\n② [오답] 지시어·명사·동사의 수가 모두 맞으므로 오답이다.\n③ [정답] furniture는 셀 수 없는 명사라 단수로 취급하므로 is를 쓴다. 수 일치가 틀렸으므로 정답이다.\n④ [오답] 지시어·명사·동사의 수가 모두 맞으므로 오답이다.\n⑤ [오답] 지시어·명사·동사의 수가 모두 맞으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T12:22:21.061Z"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T12:22:25.278Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T12:22:25.278Z",
+      "what": "확인 완료"
+    }
+  }
+}

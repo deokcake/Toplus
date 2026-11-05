@@ -1,0 +1,44 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-28 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:32:59.165Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "_____ book on the desk is red.",
+      "1": "This is _____ bag for the trip.",
+      "2": "That black car is _____.",
+      "3": "I like _____ new jacket a lot.",
+      "4": "_____ is my classmate now."
+    },
+    "expl": "핵심 규칙: his는 명사 앞의 소유격(his friend)이나 ‘그의 것’이라는 소유대명사(The book is his)로 쓴다. 주어 자리에는 He, 목적어 자리에는 him을 쓴다.\n풀이 순서: ① his가 들어가는 자리는 둘이다: 명사 앞(소유격), 명사 없이 ‘그의 것’(소유대명사). → ② 빈칸 뒤에 명사가 있거나 ‘~의 것’으로 풀리는 문장을 지운다. → ③ 선택지 ⑤는 빈칸 뒤가 동사 is라 주어 자리다. He가 들어간다. 정답은 ⑤.\n문장별 판정:\n정답 판단: ⑤는 빈칸 뒤가 동사 is라 주어 자리다. ‘그는 내 반 친구다’이므로 He가 들어가고 his는 들어갈 수 없다. 정답은 ⑤이다.\n선택지 분석:\n① [오답] 명사 book 앞이라 소유격 His가 들어가므로 오답이다.\n② [오답] 명사 bag 앞이라 소유격 his가 들어가므로 오답이다.\n③ [오답] ‘저 차는 그의 것이다’라는 소유대명사 his가 들어가므로 오답이다.\n④ [오답] 명사 jacket 앞이라 소유격 his가 들어가므로 오답이다.\n⑤ [정답] 빈칸 뒤가 동사 is인 주어 자리라 주격 He가 들어가고 his는 들어갈 수 없으므로 정답이다.",
+    "passage": "",
+    "stem": "다음 빈칸에 his[His]가 들어갈 수 없는 것을 고르시오."
+  },
+  "editors": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": "2026-10-24T02:52:30.453Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:52:05.714Z",
+      "text": "정답이 되는 선택지만 너무 길어서 정답을 유추할 수 있음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:32:59.165Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:32:51.842Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:32:59.165Z",
+      "what": "확인 완료"
+    },
+    "u_p7DX7y1beMZ8et5ArgcmKw": {
+      "at": "2026-10-24T02:52:33.085Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,452 @@
+{
+ "A": {
+  "title": "빵 한 덩어리의 단위 표현",
+  "intro": "이 문제는 셀 수 없는 명사 bread의 수량을 나타내는 알맞은 단위 표현을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르세요. 빵 한 덩어리를 원해요, I'd like 빈칸 bread, please. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 없는 명사(빵, 물, 종이 등)는 a/an이나 숫자를 바로 붙여 세지 않아요.",
+    "수량은 단위 표현으로: a + 단위 + of + 명사",
+    "단위는 그릇·모양에 맞춰요: 빵 한 덩어리 a loaf of, 한 조각 a piece of, 한 병 a bottle of",
+    "예) She ate a bowl of rice. (그녀는 밥 한 그릇을 먹었어요.)"
+   ],
+   "narration": "빵, 물, 종이처럼 셀 수 없는 명사는 관사 a나 숫자를 바로 붙여 세지 않아요. 대신 a bowl of처럼 단위 표현으로 수량을 나타내요. 단위는 담는 그릇이나 모양에 맞춰, 빵 한 덩어리는 a loaf of, 한 조각은 a piece of, 한 병은 a bottle of처럼 골라요. 예를 들어 She ate a bowl of rice. 그녀는 밥 한 그릇을 먹었어요."
+  },
+  "steps": [
+   {
+    "note": "우리말에서 세는 단위 찾기: 한 덩어리",
+    "highlight": [
+     "한 덩어리"
+    ],
+    "strike": [],
+    "narration": "첫째, 우리말 빵 한 덩어리에서 세는 단위는 덩어리예요."
+   },
+   {
+    "note": "bread는 셀 수 없는 명사 → 단위 표현으로 센다",
+    "highlight": [
+     "bread"
+    ],
+    "strike": [],
+    "narration": "둘째, 빈칸 뒤 명사 bread, 빵은 셀 수 없는 명사라서 단위 표현으로 수량을 나타내요."
+   },
+   {
+    "note": "빵 한 덩어리 = loaf → ② a loaf of. 컵·조각·병은 지운다",
+    "highlight": [
+     "② a loaf of"
+    ],
+    "strike": [
+     "① a cup of",
+     "③ a piece of",
+     "④ a bottle of",
+     "⑤ a slice of"
+    ],
+    "narration": "셋째, 빵 한 덩어리를 나타내는 단위는 loaf라서 2번 a loaf of가 알맞아요. I'd like a loaf of bread, please. 빵 한 덩어리를 원해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① a cup of  ✗  한 컵이라 ‘한 덩어리’와 맞지 않아요",
+    "② a loaf of  ✓  빵 한 덩어리 = a loaf of bread",
+    "③ a piece of  ✗  한 조각이라 ‘한 덩어리’와 맞지 않아요",
+    "④ a bottle of  ✗  한 병이라 빵에 쓰지 않아요",
+    "⑤ a slice of  ✗  얇게 썬 한 조각이라 ‘한 덩어리’와 달라요"
+   ],
+   "narration": "정답은 2번 a loaf of예요. 3번 a piece of와 5번 a slice of를 고르기 쉬워요. a piece of bread는 빵 한 조각, a slice of bread는 얇게 썬 빵 한 조각이에요. 둘 다 쓰는 말이지만 우리말이 한 덩어리라서 맞지 않아요. 1번 a cup of는 한 컵이라 빵 한 덩어리와 맞지 않아요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사는 a + 단위 + of로 세어요: 빵 한 덩어리 = a loaf of bread",
+   "narration": "정답은 2번이에요. 기억할 것, 셀 수 없는 명사는 단위 표현으로 세어요. 빵 한 덩어리는 a loaf of bread예요."
+  },
+  "captions": [
+   "bread의 단위 표현",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사는 단위 표현으로",
+   "빵 한 덩어리 → a loaf of",
+   "정답 ② a loaf of",
+   "빵 한 덩어리 = a loaf of bread"
+  ],
+  "sec": [
+   11,
+   19,
+   29,
+   30,
+   24,
+   11
+  ]
+ },
+ "B": {
+  "title": "수프 한 그릇의 단위 표현",
+  "intro": "이 문제는 셀 수 없는 명사 soup의 수량을 나타내는 알맞은 단위 표현을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르세요. 수프 한 그릇을 원해요, I'd like 빈칸 soup, please. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 없는 명사(수프, 물, 빵 등)는 a/an이나 숫자를 바로 붙여 세지 않아요.",
+    "수량은 단위 표현으로: a + 단위 + of + 명사",
+    "단위는 그릇·모양에 맞춰요: 한 그릇 a bowl of, 빵 한 덩어리 a loaf of, 한 장 a sheet of",
+    "예) He drank a bottle of juice. (그는 주스 한 병을 마셨어요.)"
+   ],
+   "narration": "수프, 물, 빵처럼 셀 수 없는 명사는 관사 a나 숫자를 바로 붙여 세지 않아요. 대신 a bottle of처럼 단위 표현으로 수량을 나타내요. 단위는 담는 그릇이나 모양에 맞춰, 한 그릇은 a bowl of, 빵 한 덩어리는 a loaf of, 한 장은 a sheet of처럼 골라요. 예를 들어 He drank a bottle of juice. 그는 주스 한 병을 마셨어요."
+  },
+  "steps": [
+   {
+    "note": "우리말에서 세는 단위 찾기: 한 그릇",
+    "highlight": [
+     "한 그릇"
+    ],
+    "strike": [],
+    "narration": "첫째, 우리말 수프 한 그릇에서 세는 단위는 그릇이에요."
+   },
+   {
+    "note": "soup는 셀 수 없는 명사 → 단위 표현으로 센다",
+    "highlight": [
+     "soup"
+    ],
+    "strike": [],
+    "narration": "둘째, 빈칸 뒤 명사 soup, 수프는 셀 수 없는 명사라서 단위 표현으로 수량을 나타내요."
+   },
+   {
+    "note": "그릇 = bowl → ② a bowl of. 덩어리·장·조각·짝은 지운다",
+    "highlight": [
+     "② a bowl of"
+    ],
+    "strike": [
+     "① a loaf of",
+     "③ a sheet of",
+     "④ a slice of",
+     "⑤ a pair of"
+    ],
+    "narration": "셋째, 그릇을 나타내는 단위는 bowl이라서 2번 a bowl of가 알맞아요. I'd like a bowl of soup, please. 수프 한 그릇을 원해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① a loaf of  ✗  빵 같은 한 덩어리에 써요",
+    "② a bowl of  ✓  수프 한 그릇 = a bowl of soup",
+    "③ a sheet of  ✗  종이 같은 한 장에 써요",
+    "④ a slice of  ✗  얇게 썬 한 조각이라 ‘한 그릇’과 맞지 않아요",
+    "⑤ a pair of  ✗  신발처럼 짝을 이루는 물건에 써요"
+   ],
+   "narration": "정답은 2번 a bowl of예요. 5번 a pair of는 a pair of shoes, 신발 한 켤레처럼 짝을 이루는 물건에 써요. 4번 a slice of는 얇게 썬 한 조각이라 수프 한 그릇과 맞지 않아요. 1번 a loaf of는 빵 같은 한 덩어리에 써서 수프에는 맞지 않아요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사는 a + 단위 + of로 세어요: 수프 한 그릇 = a bowl of soup",
+   "narration": "정답은 2번이에요. 기억할 것, 셀 수 없는 명사는 단위 표현으로 세어요. 수프 한 그릇은 a bowl of soup예요."
+  },
+  "captions": [
+   "soup의 단위 표현",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사는 단위 표현으로",
+   "한 그릇 → a bowl of",
+   "정답 ② a bowl of",
+   "수프 한 그릇 = a bowl of soup"
+  ],
+  "sec": [
+   11,
+   19,
+   29,
+   30,
+   24,
+   11
+  ]
+ },
+ "C": {
+  "title": "물 한 잔의 단위 표현",
+  "intro": "이 문제는 셀 수 없는 명사 water의 수량을 나타내는 알맞은 단위 표현을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르세요. 물 한 잔을 주세요, I'd like 빈칸 water, please. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 없는 명사(물, 빵, 종이 등)는 a/an이나 숫자를 바로 붙여 세지 않아요.",
+    "수량은 단위 표현으로: a + 단위 + of + 명사",
+    "단위는 그릇·모양에 맞춰요: 유리잔 한 잔 a glass of, 한 조각 a piece of, 한 장 a sheet of",
+    "예) She ate a bowl of rice. (그녀는 밥 한 그릇을 먹었어요.)"
+   ],
+   "narration": "물, 빵, 종이처럼 셀 수 없는 명사는 관사 a나 숫자를 바로 붙여 세지 않아요. 대신 a bowl of처럼 단위 표현으로 수량을 나타내요. 단위는 담는 그릇이나 모양에 맞춰, 유리잔 한 잔은 a glass of, 한 조각은 a piece of, 한 장은 a sheet of처럼 골라요. 예를 들어 She ate a bowl of rice. 그녀는 밥 한 그릇을 먹었어요."
+  },
+  "steps": [
+   {
+    "note": "우리말에서 세는 단위 찾기: 한 잔",
+    "highlight": [
+     "한 잔"
+    ],
+    "strike": [],
+    "narration": "첫째, 우리말 물 한 잔에서 세는 단위는 잔이에요."
+   },
+   {
+    "note": "water는 셀 수 없는 명사 → 단위 표현으로 센다",
+    "highlight": [
+     "water"
+    ],
+    "strike": [],
+    "narration": "둘째, 빈칸 뒤 명사 water, 물은 셀 수 없는 명사라서 단위 표현으로 수량을 나타내요."
+   },
+   {
+    "note": "물 한 잔 = glass → ⑤ a glass of. 조각·덩어리·장은 지운다",
+    "highlight": [
+     "⑤ a glass of"
+    ],
+    "strike": [
+     "① a slice of",
+     "② a loaf of",
+     "③ a piece of",
+     "④ a sheet of"
+    ],
+    "narration": "셋째, 물처럼 유리잔에 담긴 것의 한 잔은 glass로 나타내니까 5번 a glass of가 알맞아요. I'd like a glass of water, please. 물 한 잔을 주세요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① a slice of  ✗  얇게 썬 한 조각이라 물에 쓰지 않아요",
+    "② a loaf of  ✗  빵 같은 한 덩어리에 써요",
+    "③ a piece of  ✗  한 조각이라 ‘물 한 잔’과 맞지 않아요",
+    "④ a sheet of  ✗  종이 같은 한 장에 써요",
+    "⑤ a glass of  ✓  물 한 잔 = a glass of water"
+   ],
+   "narration": "정답은 5번 a glass of예요. 3번 a piece of는 한 조각이라 물 한 잔과 맞지 않아요. 1번 a slice of도 얇게 썬 한 조각이라 물에 쓰지 않아요. 4번 a sheet of는 종이 같은 한 장에 써요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사는 a + 단위 + of로 세어요: 물 한 잔 = a glass of water",
+   "narration": "정답은 5번이에요. 기억할 것, 셀 수 없는 명사는 단위 표현으로 세어요. 물 한 잔은 a glass of water예요."
+  },
+  "captions": [
+   "water의 단위 표현",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사는 단위 표현으로",
+   "한 잔 → a glass of",
+   "정답 ⑤ a glass of",
+   "물 한 잔 = a glass of water"
+  ],
+  "sec": [
+   11,
+   19,
+   29,
+   30,
+   24,
+   11
+  ]
+ },
+ "D": {
+  "title": "종이 한 장의 단위 표현",
+  "intro": "이 문제는 셀 수 없는 명사 paper의 수량을 나타내는 알맞은 단위 표현을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르세요. 종이 한 장이 필요해요, I need 빈칸 paper. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 없는 명사(종이, 물, 빵 등)는 a/an이나 숫자를 바로 붙여 세지 않아요.",
+    "수량은 단위 표현으로: a + 단위 + of + 명사",
+    "단위는 그릇·모양에 맞춰요: 한 장 a sheet of, 한 병 a bottle of, 한 컵 a cup of",
+    "예) She ate a bowl of rice. (그녀는 밥 한 그릇을 먹었어요.)"
+   ],
+   "narration": "종이, 물, 빵처럼 셀 수 없는 명사는 관사 a나 숫자를 바로 붙여 세지 않아요. 대신 a bowl of처럼 단위 표현으로 수량을 나타내요. 단위는 담는 그릇이나 모양에 맞춰, 한 장은 a sheet of, 한 병은 a bottle of, 한 컵은 a cup of처럼 골라요. 예를 들어 She ate a bowl of rice. 그녀는 밥 한 그릇을 먹었어요."
+  },
+  "steps": [
+   {
+    "note": "우리말에서 세는 단위 찾기: 한 장",
+    "highlight": [
+     "한 장"
+    ],
+    "strike": [],
+    "narration": "첫째, 우리말 종이 한 장에서 세는 단위는 장이에요."
+   },
+   {
+    "note": "종이라는 뜻의 paper는 셀 수 없는 명사 → 단위 표현으로 센다",
+    "highlight": [
+     "paper"
+    ],
+    "strike": [],
+    "narration": "둘째, 빈칸 뒤 명사 paper는 종이라는 뜻일 때 셀 수 없는 명사라서 단위 표현으로 수량을 나타내요."
+   },
+   {
+    "note": "종이 한 장 = sheet → ⑤ a sheet of. 덩어리·병·조각·컵은 지운다",
+    "highlight": [
+     "⑤ a sheet of"
+    ],
+    "strike": [
+     "① a loaf of",
+     "② a bottle of",
+     "③ a slice of",
+     "④ a cup of"
+    ],
+    "narration": "셋째, 종이처럼 얇고 넓은 것의 한 장은 sheet로 나타내니까 5번 a sheet of가 알맞아요. I need a sheet of paper. 종이 한 장이 필요해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① a loaf of  ✗  빵 같은 한 덩어리에 써요",
+    "② a bottle of  ✗  한 병이라 종이에 쓰지 않아요",
+    "③ a slice of  ✗  얇게 썬 한 조각이라 ‘한 장’과 맞지 않아요",
+    "④ a cup of  ✗  한 컵이라 종이에 쓰지 않아요",
+    "⑤ a sheet of  ✓  종이 한 장 = a sheet of paper"
+   ],
+   "narration": "정답은 5번 a sheet of예요. 3번 a slice of를 고르기 쉬운데, slice는 빵이나 치즈처럼 썬 것의 얇은 한 조각을 나타내요. 그래서 종이 한 장과는 맞지 않아요. 4번 a cup of는 한 컵, 2번 a bottle of는 한 병이라 종이에 쓰지 않아요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사는 a + 단위 + of로 세어요: 종이 한 장 = a sheet of paper",
+   "narration": "정답은 5번이에요. 기억할 것, 셀 수 없는 명사는 단위 표현으로 세어요. 종이 한 장은 a sheet of paper예요."
+  },
+  "captions": [
+   "paper의 단위 표현",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사는 단위 표현으로",
+   "한 장 → a sheet of",
+   "정답 ⑤ a sheet of",
+   "종이 한 장 = a sheet of paper"
+  ],
+  "sec": [
+   11,
+   19,
+   29,
+   30,
+   24,
+   11
+  ]
+ },
+ "E": {
+  "title": "치즈 한 조각의 단위 표현",
+  "intro": "이 문제는 셀 수 없는 명사 cheese의 수량을 나타내는 알맞은 단위 표현을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르세요. 치즈 한 조각을 주세요, I'd like 빈칸 cheese. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 없는 명사(치즈, 물, 빵 등)는 a/an이나 숫자를 바로 붙여 세지 않아요.",
+    "수량은 단위 표현으로: a + 단위 + of + 명사",
+    "단위는 그릇·모양에 맞춰요: 한 조각 a piece of, 빵 한 덩어리 a loaf of, 한 병 a bottle of",
+    "예) She ate a bowl of rice. (그녀는 밥 한 그릇을 먹었어요.)"
+   ],
+   "narration": "치즈, 물, 빵처럼 셀 수 없는 명사는 관사 a나 숫자를 바로 붙여 세지 않아요. 대신 a bowl of처럼 단위 표현으로 수량을 나타내요. 단위는 담는 그릇이나 모양에 맞춰, 한 조각은 a piece of, 빵 한 덩어리는 a loaf of, 한 병은 a bottle of처럼 골라요. 예를 들어 She ate a bowl of rice. 그녀는 밥 한 그릇을 먹었어요."
+  },
+  "steps": [
+   {
+    "note": "우리말에서 세는 단위 찾기: 한 조각",
+    "highlight": [
+     "한 조각"
+    ],
+    "strike": [],
+    "narration": "첫째, 우리말 치즈 한 조각에서 세는 단위는 조각이에요."
+   },
+   {
+    "note": "cheese는 셀 수 없는 명사 → 단위 표현으로 센다",
+    "highlight": [
+     "cheese"
+    ],
+    "strike": [],
+    "narration": "둘째, 빈칸 뒤 명사 cheese, 치즈는 셀 수 없는 명사라서 단위 표현으로 수량을 나타내요."
+   },
+   {
+    "note": "보기 중 조각 = piece → ④ a piece of. 병·장·컵·덩어리는 지운다",
+    "highlight": [
+     "④ a piece of"
+    ],
+    "strike": [
+     "① a bottle of",
+     "② a sheet of",
+     "③ a cup of",
+     "⑤ a loaf of"
+    ],
+    "narration": "셋째, 보기 중에서 한 조각을 나타내는 단위는 piece뿐이라 4번 a piece of가 알맞아요. I'd like a piece of cheese. 치즈 한 조각을 주세요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① a bottle of  ✗  한 병이라 ‘한 조각’과 맞지 않아요",
+    "② a sheet of  ✗  종이 같은 한 장에 써요",
+    "③ a cup of  ✗  한 컵이라 ‘한 조각’과 맞지 않아요",
+    "④ a piece of  ✓  치즈 한 조각 = a piece of cheese",
+    "⑤ a loaf of  ✗  통째로 구운 빵 같은 한 덩어리에 써요"
+   ],
+   "narration": "정답은 4번 a piece of예요. 5번 a loaf of를 고르기 쉬운데, loaf는 통째로 구운 빵 같은 한 덩어리를 나타내요. 그래서 치즈 한 조각과는 맞지 않아요. 2번 a sheet of는 종이 같은 한 장에 쓰고, 3번 a cup of는 한 컵이라 한 조각과 맞지 않아요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사는 a + 단위 + of로 세어요: 치즈 한 조각 = a piece of cheese",
+   "narration": "정답은 4번이에요. 기억할 것, 셀 수 없는 명사는 단위 표현으로 세어요. 치즈 한 조각은 a piece of cheese예요."
+  },
+  "captions": [
+   "cheese의 단위 표현",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사는 단위 표현으로",
+   "한 조각 → a piece of",
+   "정답 ④ a piece of",
+   "치즈 한 조각 = a piece of cheese"
+  ],
+  "sec": [
+   11,
+   19,
+   29,
+   30,
+   24,
+   11
+  ]
+ },
+ "F": {
+  "title": "우유 한 병의 단위 표현",
+  "intro": "이 문제는 셀 수 없는 명사 milk의 수량을 나타내는 알맞은 단위 표현을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르세요. 우유 한 병을 원해요, I'd like 빈칸 milk. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 없는 명사(우유, 물, 빵 등)는 a/an이나 숫자를 바로 붙여 세지 않아요.",
+    "수량은 단위 표현으로: a + 단위 + of + 명사",
+    "단위는 그릇·모양에 맞춰요: 한 병 a bottle of, 한 조각 a piece of, 한 장 a sheet of",
+    "예) She ate a bowl of rice. (그녀는 밥 한 그릇을 먹었어요.)"
+   ],
+   "narration": "우유, 물, 빵처럼 셀 수 없는 명사는 관사 a나 숫자를 바로 붙여 세지 않아요. 대신 a bowl of처럼 단위 표현으로 수량을 나타내요. 단위는 담는 그릇이나 모양에 맞춰, 한 병은 a bottle of, 한 조각은 a piece of, 한 장은 a sheet of처럼 골라요. 예를 들어 She ate a bowl of rice. 그녀는 밥 한 그릇을 먹었어요."
+  },
+  "steps": [
+   {
+    "note": "우리말에서 세는 단위 찾기: 한 병",
+    "highlight": [
+     "한 병"
+    ],
+    "strike": [],
+    "narration": "첫째, 우리말 우유 한 병에서 세는 단위는 병이에요."
+   },
+   {
+    "note": "milk는 셀 수 없는 명사 → 단위 표현으로 센다",
+    "highlight": [
+     "milk"
+    ],
+    "strike": [],
+    "narration": "둘째, 빈칸 뒤 명사 milk, 우유는 셀 수 없는 명사라서 단위 표현으로 수량을 나타내요."
+   },
+   {
+    "note": "병 = bottle → ⑤ a bottle of. 조각·장·덩어리는 지운다",
+    "highlight": [
+     "⑤ a bottle of"
+    ],
+    "strike": [
+     "① a slice of",
+     "② a sheet of",
+     "③ a piece of",
+     "④ a loaf of"
+    ],
+    "narration": "셋째, 병을 나타내는 단위는 bottle이라서 5번 a bottle of가 알맞아요. I'd like a bottle of milk. 우유 한 병을 원해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① a slice of  ✗  얇게 썬 한 조각이라 우유에 쓰지 않아요",
+    "② a sheet of  ✗  종이 같은 한 장에 써요",
+    "③ a piece of  ✗  한 조각이라 ‘우유 한 병’과 맞지 않아요",
+    "④ a loaf of  ✗  빵 같은 한 덩어리에 써요",
+    "⑤ a bottle of  ✓  우유 한 병 = a bottle of milk"
+   ],
+   "narration": "정답은 5번 a bottle of예요. 3번 a piece of는 한 조각이라 우유 한 병과 맞지 않아요. 1번 a slice of도 얇게 썬 한 조각이라 우유에 쓰지 않아요. 4번 a loaf of는 빵 같은 한 덩어리에 써요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사는 a + 단위 + of로 세어요: 우유 한 병 = a bottle of milk",
+   "narration": "정답은 5번이에요. 기억할 것, 셀 수 없는 명사는 단위 표현으로 세어요. 우유 한 병은 a bottle of milk예요."
+  },
+  "captions": [
+   "milk의 단위 표현",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사는 단위 표현으로",
+   "한 병 → a bottle of",
+   "정답 ⑤ a bottle of",
+   "우유 한 병 = a bottle of milk"
+  ],
+  "sec": [
+   11,
+   19,
+   29,
+   30,
+   24,
+   11
+  ]
+ }
+}

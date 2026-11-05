@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-21T11:51:21.921Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 각 문장의 실제 주어에 맞는 was/were와 -ing형을 각각 확인한다.\n풀이 순서: ① 첫 문장의 주어: the dog(단수) → Was. → ② 둘째 문장의 주어: The children(복수) → were waiting. → ③ 정답은 Was - were waiting.\n문장별 판정:\n정답 판단: (첫째 빈칸) Was: 과거진행형 의문문의 주어 the dog에는 was가 필요하다. (둘째 빈칸) were waiting: 주어 The children에 맞는 were와 wait의 -ing형 waiting을 함께 쓴다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] (첫째 빈칸) Is → Was. 과거진행형 의문문의 주어 the dog에는 was가 필요하다. (둘째 빈칸) are waiting → were waiting. 주어 The children에 맞는 were와 wait의 -ing형 waiting을 함께 쓴다.\n② [오답] (첫째 빈칸) Did → Was. 과거진행형 의문문의 주어 the dog에는 was가 필요하다. (둘째 빈칸) waited → were waiting. 주어 The children에 맞는 were와 wait의 -ing형 waiting을 함께 쓴다.\n③ [오답] (첫째 빈칸) Were → Was. 과거진행형 의문문의 주어 the dog에는 was가 필요하다. (둘째 빈칸) was waiting → were waiting. 주어 The children에 맞는 were와 wait의 -ing형 waiting을 함께 쓴다.\n④ [정답] (첫째 빈칸) Was: 과거진행형 의문문의 주어 the dog에는 was가 필요하다. (둘째 빈칸) were waiting: 주어 The children에 맞는 were와 wait의 -ing형 waiting을 함께 쓴다.\n⑤ [오답] (첫째 빈칸) Was: 과거진행형 의문문의 주어 the dog에는 was가 필요하다. (둘째 빈칸) was waiting → were waiting. 주어 The children에 맞는 were와 wait의 -ing형 waiting을 함께 쓴다.",
+    "passage": "- _______ the dog barking last night?\n- The children ________ near the gate then.",
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-21T11:51:19.073Z"
+  },
+  "tab": "ojjpxrut",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T11:51:21.921Z",
+      "what": "확인 완료"
+    }
+  }
+}

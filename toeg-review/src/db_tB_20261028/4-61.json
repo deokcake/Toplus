@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T07:58:13.308Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": 5,
+    "c": {
+      "0": "그들은 거의 축구를 하지 않는다.",
+      "1": "그들은 항상 축구를 한다.",
+      "2": "그들은 축구를 잘 한다.",
+      "3": "그들은 전혀 축구를 하지 않는다.",
+      "4": "그들은 자주 축구를 한다."
+    },
+    "expl": "핵심 규칙: 빈도부사의 뜻: always(항상) > usually(보통) > often(자주) > sometimes(가끔) > seldom·rarely(거의 ~않다) > never(전혀 ~않다).\n풀이 순서: ① 문장에서 빈도부사를 찾는다: often. → ② 뜻을 떠올린다: ‘자주’. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: often은 ‘자주’라는 뜻이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] ‘거의 ~않는다’는 seldom·rarely이므로 오답이다.\n② [오답] ‘항상’은 always이므로 오답이다.\n③ [오답] ‘잘’은 빈도가 아니라 정도를 나타내는 well이므로 오답이다.\n④ [오답] ‘전혀 ~않는다’는 never이므로 오답이다.\n⑤ [정답] often은 ‘자주’라는 뜻이므로 정답이다.",
+    "passage": "They often play soccer.",
+    "stem": "다음 문장의 의미로 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T08:36:47.451Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T08:37:40.502Z",
+      "text": "변형 문항의 3번과 5번 선택지가 애매해 오류의 가능성을 가짐. 3번 선택지를 좀 더 확실한 오답으로 수정 필요."
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T07:58:13.308Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T07:58:12.598Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T07:58:13.308Z",
+      "what": "확인 완료"
+    }
+  }
+}

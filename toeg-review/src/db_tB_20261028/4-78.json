@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-06T08:47:03.810Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Jane is <u>the prettiest</u> girl here.",
+      "1": "Tom is <u>more taller</u> than Ben.",
+      "2": "She is <u>the most prettiest</u> singer.",
+      "3": "He is <u>the goodest</u> player.",
+      "4": "This is <u>the interestingest</u> book."
+    },
+    "expl": "핵심 규칙: 최상급은 짧은 단어에 -est, 긴 단어에 most를 붙이며 둘을 겹쳐 쓰지 않는다. good - best, bad - worst처럼 불규칙 변화도 있다.\n풀이 순서: ① 밑줄마다 형용사가 짧은 낱말인지 긴 낱말인지 가른다. → ② 짧으면 -er/-est만, 길면 more/most만 쓴다. 둘을 겹치거나 긴 낱말에 -est를 붙인 것을 지운다. → ③ 선택지 ①만 pretty의 최상급 the prettiest로 맞다. 정답은 ①.\n문장별 판정:\n정답 판단: pretty의 최상급 prettiest를 바르게 썼으므로 정답은 ①이다.\n선택지 분석:\n① [정답] pretty의 최상급 prettiest를 바르게 썼으므로 정답이다.\n② [오답] taller에 more를 겹쳐 쓸 수 없으므로 오답이다.\n③ [오답] -est와 most를 겹쳐 쓸 수 없으므로 오답이다.\n④ [오답] good의 최상급은 불규칙 best이므로 오답이다.\n⑤ [오답] 긴 단어 interesting은 the most interesting으로 써야 하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 부분의 형태가 어법상 옳은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T08:46:45.409Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-06T08:47:03.810Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T08:47:03.810Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,447 @@
+{
+ "A": {
+  "title": "Lucy's를 대신하는 소유격 대명사",
+  "intro": "이 문제는 밑줄 친 Lucy's를 대신할 알맞은 소유격 대명사를 고르는 문제예요.",
+  "problem_narration": "다음 밑줄 친 부분을 대신할 말로 알맞은 것을 고르세요. 단, Tom은 남자이고 Lucy는 여자예요. Tom is Lucy's brother. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "명사 앞의 Jim's(짐의) 같은 말 → 소유격 대명사로 바꿔 쓸 수 있어요.",
+    "남자 한 명 → his, 여자 한 명 → her",
+    "사물·동물 하나 → its, 여럿 → their",
+    "예) Jim's cap → His cap is blue. (그의 모자는 파란색이에요.)"
+   ],
+   "narration": "명사 앞에 오는 Jim's는 짐의라는 뜻으로, 뒤에 오는 명사가 누구의 것인지 나타내요. 이런 말은 소유격 대명사로 바꿔 쓸 수 있어요. 남자 한 명의 것은 his, 여자 한 명의 것은 her, 사물이나 동물 하나의 것은 보통 its, 여럿의 것은 their를 써요. 예를 들어 Jim이 남자라면 Jim's cap은 His cap으로 바꿔요. His cap is blue. 그의 모자는 파란색이에요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 친 Lucy's = Lucy의 → 주인은 Lucy, 여자 한 명.",
+    "highlight": [
+     "Lucy's",
+     "Lucy는 여자"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 Lucy's는 Lucy의라는 뜻이고, 발문에서 Lucy는 여자라고 했어요."
+   },
+   {
+    "note": "Lucy는 사람 한 명 → its(사물·동물), their(여럿) 지움. my(나의), our(우리의)도 Lucy의 것이 아니다.",
+    "highlight": [],
+    "strike": [
+     "① its",
+     "② their",
+     "③ our",
+     "⑤ my"
+    ],
+    "narration": "둘째, Lucy는 사람 한 명이라 사물이나 동물에 쓰는 its와 여럿에 쓰는 their는 지워요. 나의라는 뜻의 my와 우리의라는 뜻의 our도 Lucy의 것을 나타내지 못해요."
+   },
+   {
+    "note": "여자 한 명의 것 → her: Tom is her brother.",
+    "highlight": [
+     "④ her"
+    ],
+    "strike": [],
+    "narration": "셋째, 여자 한 명의 것은 her예요. Tom is her brother. 톰은 그녀의 오빠예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① its  ✗  사물·동물 하나의 것에 써요 (Lucy는 사람)",
+    "② their  ✗  여럿의 것에 써요 (Lucy는 한 명)",
+    "③ our  ✗  나를 포함한 여럿, 곧 ‘우리의’ 것에 써요",
+    "④ her  ✓  여자 한 명인 Lucy의 것 → her",
+    "⑤ my  ✗  말하는 사람, 곧 ‘나의’ 것에 써요"
+   ],
+   "narration": "정답은 4번 her예요. 1번 its는 사물이나 동물 하나의 것에 쓰는데, Lucy는 사람이에요. 2번 their는 여럿의 것에 쓰는데, Lucy는 한 명이에요. 5번 my는 나의라는 뜻이라 Lucy의 것을 나타내지 못해요."
+  },
+  "summary": {
+   "card": "주인을 보고: 남자 한 명 his, 여자 한 명 her, 사물·동물 하나 its, 여럿 their",
+   "narration": "정답은 4번이에요. 기억할 것, Lucy's처럼 명사 앞에서 누구의 것인지 나타내는 말은 주인에 맞는 소유격 대명사로 바꿔요. 여자 한 명은 her, 남자 한 명은 his, 사물이나 동물 하나는 보통 its, 여럿은 their예요."
+  },
+  "captions": [
+   "Lucy's를 대신할 말",
+   "먼저 풀어 보세요",
+   "누구의 것? his, her, its, their",
+   "Lucy = 여자 한 명 → her",
+   "정답 ④ her",
+   "주인에 맞는 소유격 대명사"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   34,
+   26,
+   12
+  ]
+ },
+ "B": {
+  "title": "my father's를 대신하는 소유격 대명사",
+  "intro": "이 문제는 밑줄 친 my father's를 대신할 알맞은 소유격 대명사를 고르는 문제예요.",
+  "problem_narration": "다음 밑줄 친 부분을 대신할 말로 알맞은 것을 고르세요. This is my father's car. 밑줄 친 부분은 my father's예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "명사 앞의 Amy's(에이미의) 같은 말 → 소유격 대명사로 바꿔 쓸 수 있어요.",
+    "남자 한 명 → his, 여자 한 명 → her",
+    "사물·동물 하나 → its, 여럿 → their",
+    "예) Amy's cat → Her cat is white. (그녀의 고양이는 하얀색이에요.)"
+   ],
+   "narration": "명사 앞에 오는 Amy's는 에이미의라는 뜻으로, 뒤에 오는 명사가 누구의 것인지 나타내요. 이런 말은 소유격 대명사로 바꿔 쓸 수 있어요. 남자 한 명의 것은 his, 여자 한 명의 것은 her, 사물이나 동물 하나의 것은 보통 its, 여럿의 것은 their를 써요. 예를 들어 Amy가 여자라면 Amy's cat은 Her cat으로 바꿔요. Her cat is white. 그녀의 고양이는 하얀색이에요."
+  },
+  "steps": [
+   {
+    "note": "my father's = 나의 아버지의 → 차의 주인은 아버지(남자 한 명).",
+    "highlight": [
+     "my father's",
+     "car"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 my father's는 나의 아버지의라는 뜻이라, 차의 주인은 아버지, 곧 남자 한 명이에요."
+   },
+   {
+    "note": "주인은 내가 아니라 아버지 → my, our 지움. her(여자 한 명), their(여럿)도 지움.",
+    "highlight": [],
+    "strike": [
+     "④ my",
+     "③ our",
+     "⑤ her",
+     "① their"
+    ],
+    "narration": "둘째, 주인은 내가 아니라 아버지라서 my와 our는 맞지 않아요. 여자 한 명에 쓰는 her와 여럿에 쓰는 their도 지워요."
+   },
+   {
+    "note": "남자 한 명의 것 → his. my father's 전체를 his로: This is his car.",
+    "highlight": [
+     "② his"
+    ],
+    "strike": [],
+    "narration": "셋째, 남자 한 명의 것은 his라서 my father's 전체를 his로 바꿔요. This is his car. 이것은 그의 차예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① their  ✗  여럿의 것에 써요 (아버지는 한 명)",
+    "② his  ✓  남자 한 명인 아버지의 것 → his",
+    "③ our  ✗  나를 포함한 여럿, 곧 ‘우리의’ 것에 써요",
+    "④ my  ✗  ‘나의’ 것 — 차의 주인은 내가 아니라 아버지",
+    "⑤ her  ✗  여자 한 명의 것에 써요"
+   ],
+   "narration": "정답은 2번 his예요. 4번 my는 밑줄 친 말에 my가 들어 있어서 고르기 쉽지만, 차의 주인은 내가 아니라 아버지예요. 5번 her는 여자 한 명의 것에 써요. 1번 their는 여럿의 것에 쓰는데, 아버지는 한 명이에요."
+  },
+  "summary": {
+   "card": "주인을 보고: 남자 한 명 his, 여자 한 명 her, 사물·동물 하나 its, 여럿 their",
+   "narration": "정답은 2번이에요. 기억할 것, my father's처럼 명사 앞에서 누구의 것인지 나타내는 말은 주인에 맞는 소유격 대명사로 바꿔요. 남자 한 명은 his, 여자 한 명은 her, 사물이나 동물 하나는 보통 its, 여럿은 their예요."
+  },
+  "captions": [
+   "my father's를 대신할 말",
+   "먼저 풀어 보세요",
+   "누구의 것? his, her, its, their",
+   "아버지 = 남자 한 명 → his",
+   "정답 ② his",
+   "주인에 맞는 소유격 대명사"
+  ],
+  "sec": [
+   11,
+   16,
+   28,
+   36,
+   26,
+   12
+  ]
+ },
+ "C": {
+  "title": "my brother's를 대신하는 소유격 대명사",
+  "intro": "이 문제는 밑줄 친 my brother's를 대신할 알맞은 소유격 대명사를 고르는 문제예요.",
+  "problem_narration": "다음 밑줄 친 부분을 대신할 말로 알맞은 것을 고르세요. The dog is my brother's pet. 밑줄 친 부분은 my brother's예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "명사 앞의 the cat's(그 고양이의) 같은 말 → 소유격 대명사로 바꿔 쓸 수 있어요.",
+    "남자 한 명 → his, 여자 한 명 → her",
+    "사물·동물 하나 → its, 여럿 → their",
+    "예) The cat's tail → Its tail is long. (그것의 꼬리는 길어요.)"
+   ],
+   "narration": "명사 앞에 오는 the cat's는 그 고양이의라는 뜻으로, 뒤에 오는 명사가 누구의 것인지 나타내요. 이런 말은 소유격 대명사로 바꿔 쓸 수 있어요. 남자 한 명의 것은 his, 여자 한 명의 것은 her, 사물이나 동물 하나의 것은 보통 its, 여럿의 것은 their를 써요. 예를 들어 The cat's tail은 앞의 The까지 함께 Its tail로 바꿔요. Its tail is long. 그것의 꼬리는 길어요."
+  },
+  "steps": [
+   {
+    "note": "my brother's → 반려동물의 주인은 my brother(남자 한 명).",
+    "highlight": [
+     "my brother's",
+     "pet"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 my brother's에서 반려동물의 주인은 my brother, 곧 남자 한 명이에요."
+   },
+   {
+    "note": "주인은 내가 아니라 brother → my, our 지움. her(여자 한 명), their(여럿)도 지움.",
+    "highlight": [],
+    "strike": [
+     "⑤ my",
+     "① our",
+     "④ her",
+     "② their"
+    ],
+    "narration": "둘째, 주인은 내가 아니라 brother라서 my와 our는 맞지 않아요. 여자 한 명에 쓰는 her와 여럿에 쓰는 their도 지워요."
+   },
+   {
+    "note": "남자 한 명의 것 → his. my brother's 전체를 his로: The dog is his pet.",
+    "highlight": [
+     "③ his"
+    ],
+    "strike": [],
+    "narration": "셋째, 남자 한 명의 것은 his라서 my brother's 전체를 his로 바꿔요. The dog is his pet. 그 개는 그의 반려동물이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① our  ✗  나를 포함한 여럿, 곧 ‘우리의’ 것에 써요",
+    "② their  ✗  여럿의 것에 써요 (brother는 한 명)",
+    "③ his  ✓  남자 한 명인 my brother의 것 → his",
+    "④ her  ✗  여자 한 명의 것에 써요",
+    "⑤ my  ✗  ‘나의’ 것 — 개의 주인은 내가 아니라 brother"
+   ],
+   "narration": "정답은 3번 his예요. 5번 my는 밑줄 친 말에 my가 들어 있어서 고르기 쉽지만, 개의 주인은 내가 아니라 my brother예요. 4번 her는 여자 한 명의 것에 써요. 2번 their는 여럿의 것에 쓰는데, brother는 한 명이에요."
+  },
+  "summary": {
+   "card": "주인을 보고: 남자 한 명 his, 여자 한 명 her, 사물·동물 하나 its, 여럿 their",
+   "narration": "정답은 3번이에요. 기억할 것, my brother's처럼 명사 앞에서 누구의 것인지 나타내는 말은 주인에 맞는 소유격 대명사로 바꿔요. 남자 한 명은 his, 여자 한 명은 her, 사물이나 동물 하나는 보통 its, 여럿은 their예요."
+  },
+  "captions": [
+   "my brother's를 대신할 말",
+   "먼저 풀어 보세요",
+   "누구의 것? his, her, its, their",
+   "brother = 남자 한 명 → his",
+   "정답 ③ his",
+   "주인에 맞는 소유격 대명사"
+  ],
+  "sec": [
+   11,
+   16,
+   30,
+   36,
+   26,
+   12
+  ]
+ },
+ "D": {
+  "title": "Leo's를 대신하는 소유격 대명사",
+  "intro": "이 문제는 밑줄 친 Leo's를 대신할 알맞은 소유격 대명사를 고르는 문제예요.",
+  "problem_narration": "다음 밑줄 친 부분을 대신할 말로 알맞은 것을 고르세요. 단, Leo는 남자이고 Mina는 여자예요. Mina is Leo's sister. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "명사 앞의 Amy's(에이미의) 같은 말 → 소유격 대명사로 바꿔 쓸 수 있어요.",
+    "남자 한 명 → his, 여자 한 명 → her",
+    "사물·동물 하나 → its, 여럿 → their",
+    "예) Amy's cat → Her cat is white. (그녀의 고양이는 하얀색이에요.)"
+   ],
+   "narration": "명사 앞에 오는 Amy's는 에이미의라는 뜻으로, 뒤에 오는 명사가 누구의 것인지 나타내요. 이런 말은 소유격 대명사로 바꿔 쓸 수 있어요. 남자 한 명의 것은 his, 여자 한 명의 것은 her, 사물이나 동물 하나의 것은 보통 its, 여럿의 것은 their를 써요. 예를 들어 Amy가 여자라면 Amy's cat은 Her cat으로 바꿔요. Her cat is white. 그녀의 고양이는 하얀색이에요."
+  },
+  "steps": [
+   {
+    "note": "밑줄은 주어 Mina가 아니라 Leo's(Leo의). Leo는 남자 한 명.",
+    "highlight": [
+     "Leo's",
+     "Leo는 남자"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 말은 주어 Mina가 아니라 Leo's이고, 발문에서 Leo는 남자라고 했어요."
+   },
+   {
+    "note": "her(여자 한 명)는 Mina에는 맞아도 Leo에는 X. its(사물·동물), our(우리의), their(여럿)도 지움.",
+    "highlight": [],
+    "strike": [
+     "③ her",
+     "① its",
+     "② our",
+     "⑤ their"
+    ],
+    "narration": "둘째, 여자 한 명에 쓰는 her는 Mina에는 맞지만 Leo에는 맞지 않아요. 사물이나 동물에 쓰는 its, 우리의라는 뜻의 our, 여럿에 쓰는 their도 지워요."
+   },
+   {
+    "note": "남자 한 명의 것 → his: Mina is his sister.",
+    "highlight": [
+     "④ his"
+    ],
+    "strike": [],
+    "narration": "셋째, 남자 한 명의 것은 his예요. Mina is his sister. 미나는 그의 여동생이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① its  ✗  사물·동물 하나의 것에 써요 (Leo는 사람)",
+    "② our  ✗  나를 포함한 여럿, 곧 ‘우리의’ 것에 써요",
+    "③ her  ✗  여자 한 명의 것 — 밑줄은 Mina가 아니라 Leo's",
+    "④ his  ✓  남자 한 명인 Leo의 것 → his",
+    "⑤ their  ✗  여럿의 것에 써요 (Leo는 한 명)"
+   ],
+   "narration": "정답은 4번 his예요. 3번 her는 주어 Mina가 여자라서 고르기 쉽지만, 밑줄 친 말은 남자 Leo의 것이에요. 1번 its는 사물이나 동물 하나의 것에 쓰는데, Leo는 사람이에요. 5번 their는 여럿의 것에 쓰는데, Leo는 한 명이에요."
+  },
+  "summary": {
+   "card": "주인을 보고: 남자 한 명 his, 여자 한 명 her, 사물·동물 하나 its, 여럿 their",
+   "narration": "정답은 4번이에요. 기억할 것, 주어가 아니라 밑줄 친 말의 주인을 보고 소유격 대명사를 골라요. 남자 한 명은 his, 여자 한 명은 her, 사물이나 동물 하나는 보통 its, 여럿은 their예요."
+  },
+  "captions": [
+   "Leo's를 대신할 말",
+   "먼저 풀어 보세요",
+   "누구의 것? his, her, its, their",
+   "주인은 Leo, 남자 한 명 → his",
+   "정답 ④ his",
+   "밑줄 친 말의 주인을 보고"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   38,
+   28,
+   12
+  ]
+ },
+ "E": {
+  "title": "bird's를 대신하는 소유격 대명사",
+  "intro": "이 문제는 밑줄 친 bird's를 대신할 알맞은 소유격 대명사를 고르는 문제예요.",
+  "problem_narration": "다음 밑줄 친 부분을 대신할 말로 알맞은 것을 고르세요. The bird's nest is in the tree. 밑줄 친 부분은 bird's예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "명사 앞의 Jim's(짐의) 같은 말 → 소유격 대명사로 바꿔 쓸 수 있어요.",
+    "남자 한 명 → his, 여자 한 명 → her",
+    "사물·동물 하나 → its, 여럿 → their",
+    "예) Jim's cap → His cap is blue. (그의 모자는 파란색이에요.)"
+   ],
+   "narration": "명사 앞에 오는 Jim's는 짐의라는 뜻으로, 뒤에 오는 명사가 누구의 것인지 나타내요. 이런 말은 소유격 대명사로 바꿔 쓸 수 있어요. 남자 한 명의 것은 his, 여자 한 명의 것은 her, 사물이나 동물 하나의 것은 보통 its, 여럿의 것은 their를 써요. 예를 들어 Jim이 남자라면 Jim's cap은 His cap으로 바꿔요. His cap is blue. 그의 모자는 파란색이에요."
+  },
+  "steps": [
+   {
+    "note": "bird's = 새의 → 둥지의 주인은 the bird(동물 한 마리).",
+    "highlight": [
+     "bird's",
+     "nest"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 bird's는 새의라는 뜻이라, 둥지의 주인은 새 한 마리예요."
+   },
+   {
+    "note": "her(여자 한 명), their(여럿), my(나의), our(우리의) 지움.",
+    "highlight": [],
+    "strike": [
+     "① her",
+     "④ their",
+     "⑤ my",
+     "③ our"
+    ],
+    "narration": "둘째, her는 여자 한 명, their는 여럿, my와 our는 나와 우리의 것에 쓰니 지워요."
+   },
+   {
+    "note": "동물 하나의 것 → its. 앞의 The도 함께 바꾼다: Its nest is in the tree.",
+    "highlight": [
+     "② its",
+     "The"
+    ],
+    "strike": [],
+    "narration": "셋째, 새처럼 동물 하나의 것은 보통 its예요. 앞의 The까지 함께 바꾸면 Its nest is in the tree. 그것의 둥지는 나무에 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① her  ✗  여자 한 명의 것에 써요",
+    "② its  ✓  동물 한 마리인 새의 것 → its",
+    "③ our  ✗  나를 포함한 여럿, 곧 ‘우리의’ 것에 써요",
+    "④ their  ✗  여럿의 것에 써요 (새는 한 마리)",
+    "⑤ my  ✗  말하는 사람, 곧 ‘나의’ 것에 써요"
+   ],
+   "narration": "정답은 2번 its예요. 4번 their는 여럿의 것에 쓰는데, 새는 한 마리예요. 1번 her는 여자 한 명의 것에 쓰는 말이라 이 새에는 맞지 않아요. 5번 my는 나의라는 뜻이라 새의 것을 나타내지 못해요."
+  },
+  "summary": {
+   "card": "주인을 보고: 남자 한 명 his, 여자 한 명 her, 사물·동물 하나 its, 여럿 their",
+   "narration": "정답은 2번이에요. 기억할 것, the bird's처럼 사물이나 동물 하나의 것은 보통 앞의 the까지 함께 its로 바꿔요. 남자 한 명은 his, 여자 한 명은 her, 여럿은 their예요."
+  },
+  "captions": [
+   "bird's를 대신할 말",
+   "먼저 풀어 보세요",
+   "누구의 것? his, her, its, their",
+   "새 한 마리 → its",
+   "정답 ② its",
+   "사물·동물 하나 → its"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   36,
+   26,
+   12
+  ]
+ },
+ "F": {
+  "title": "my sister's를 대신하는 소유격 대명사",
+  "intro": "이 문제는 밑줄 친 my sister's를 대신할 알맞은 소유격 대명사를 고르는 문제예요.",
+  "problem_narration": "다음 밑줄 친 부분을 대신할 말로 알맞은 것을 고르세요. That is my sister's bag. 밑줄 친 부분은 my sister's예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "명사 앞의 the cat's(그 고양이의) 같은 말 → 소유격 대명사로 바꿔 쓸 수 있어요.",
+    "남자 한 명 → his, 여자 한 명 → her",
+    "사물·동물 하나 → its, 여럿 → their",
+    "예) The cat's tail → Its tail is long. (그것의 꼬리는 길어요.)"
+   ],
+   "narration": "명사 앞에 오는 the cat's는 그 고양이의라는 뜻으로, 뒤에 오는 명사가 누구의 것인지 나타내요. 이런 말은 소유격 대명사로 바꿔 쓸 수 있어요. 남자 한 명의 것은 his, 여자 한 명의 것은 her, 사물이나 동물 하나의 것은 보통 its, 여럿의 것은 their를 써요. 예를 들어 The cat's tail은 앞의 The까지 함께 Its tail로 바꿔요. Its tail is long. 그것의 꼬리는 길어요."
+  },
+  "steps": [
+   {
+    "note": "my sister's → 가방의 주인은 my sister(여자 한 명).",
+    "highlight": [
+     "my sister's",
+     "bag"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 my sister's에서 가방의 주인은 my sister, 곧 여자 한 명이에요."
+   },
+   {
+    "note": "주인은 내가 아니라 sister → my, our 지움. his(남자 한 명), their(여럿)도 지움.",
+    "highlight": [],
+    "strike": [
+     "② my",
+     "③ our",
+     "① his",
+     "④ their"
+    ],
+    "narration": "둘째, 주인은 내가 아니라 sister라서 my와 our는 맞지 않아요. 남자 한 명에 쓰는 his와 여럿에 쓰는 their도 지워요."
+   },
+   {
+    "note": "여자 한 명의 것 → her. my sister's 전체를 her로: That is her bag.",
+    "highlight": [
+     "⑤ her"
+    ],
+    "strike": [],
+    "narration": "셋째, 여자 한 명의 것은 her라서 my sister's 전체를 her로 바꿔요. That is her bag. 저것은 그녀의 가방이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① his  ✗  남자 한 명의 것에 써요",
+    "② my  ✗  ‘나의’ 것 — 가방의 주인은 내가 아니라 sister",
+    "③ our  ✗  나를 포함한 여럿, 곧 ‘우리의’ 것에 써요",
+    "④ their  ✗  여럿의 것에 써요 (sister는 한 명)",
+    "⑤ her  ✓  여자 한 명인 my sister의 것 → her"
+   ],
+   "narration": "정답은 5번 her예요. 2번 my는 밑줄 친 말에 my가 들어 있어서 고르기 쉽지만, 가방의 주인은 내가 아니라 my sister예요. 1번 his는 남자 한 명의 것에 써요. 4번 their는 여럿의 것에 쓰는데, sister는 한 명이에요."
+  },
+  "summary": {
+   "card": "주인을 보고: 남자 한 명 his, 여자 한 명 her, 사물·동물 하나 its, 여럿 their",
+   "narration": "정답은 5번이에요. 기억할 것, my sister's처럼 명사 앞에서 누구의 것인지 나타내는 말은 주인에 맞는 소유격 대명사로 바꿔요. 여자 한 명은 her, 남자 한 명은 his, 사물이나 동물 하나는 보통 its, 여럿은 their예요."
+  },
+  "captions": [
+   "my sister's를 대신할 말",
+   "먼저 풀어 보세요",
+   "누구의 것? his, her, its, their",
+   "sister = 여자 한 명 → her",
+   "정답 ⑤ her",
+   "주인에 맞는 소유격 대명사"
+  ],
+  "sec": [
+   11,
+   16,
+   30,
+   36,
+   26,
+   12
+  ]
+ }
+}

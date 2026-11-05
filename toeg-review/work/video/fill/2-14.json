@@ -1,0 +1,450 @@
+{
+ "A": {
+  "title": "끝난 과거의 때와 현재완료",
+  "intro": "이 문제는 현재완료와 과거형을 알맞게 썼는지 살펴 어법상 틀린 대화를 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 틀린 대화를 고르세요. 보기마다 A가 묻고 B가 대답해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료 have(has) + 과거분사: 경험, 계속, 완료처럼 과거의 일이 지금과 이어질 때",
+    "일이 일어난 때를 끝난 과거로 밝히면 → 현재완료 ✗, 과거형 ✓",
+    "끝난 과거의 때: yesterday, last night, two days ago, When did ~?에 답하는 때",
+    "예) I lost my key yesterday. (나는 어제 열쇠를 잃어버렸어요.)  I have lost my key yesterday. ✗"
+   ],
+   "narration": "현재완료는 have나 has 뒤에 과거분사를 써서, 경험, 계속, 완료처럼 과거의 일이 지금과 이어질 때 써요. 하지만 일이 일어난 때를 yesterday, two days ago처럼 끝난 과거로 밝히면 현재완료가 아니라 과거형을 써요. When did 질문에 그때를 밝혀 답할 때도 과거형이에요. 예를 들어 I lost my key yesterday. 나는 어제 열쇠를 잃어버렸어요."
+  },
+  "steps": [
+   {
+    "note": "대답 속 때를 나타내는 말 찾기: ④ an hour ago = 한 시간 전, 끝난 과거의 한 때. A도 When did로 물음",
+    "highlight": [
+     "④ A: When did you finish your homework?",
+     "an hour ago"
+    ],
+    "strike": [],
+    "narration": "첫째, 대답에 끝난 과거의 때가 있는 대화는 4번이에요. A가 When did로 언제 끝냈는지 묻고, B가 an hour ago, 곧 한 시간 전이라고 답했어요."
+   },
+   {
+    "note": "끝난 과거의 때 + 현재완료 have finished ✗ → 과거형: I finished it an hour ago.",
+    "highlight": [
+     "B: I have finished it an hour ago."
+    ],
+    "strike": [],
+    "narration": "둘째, 그런데 현재완료 have finished를 썼으니, 과거형으로 I finished it an hour ago라고 해야 해요. 나는 한 시간 전에 그것을 끝냈어요."
+   },
+   {
+    "note": "나머지 ①②③⑤에는 일이 일어난 끝난 과거의 때가 없고 시제가 알맞다 → 지운다",
+    "highlight": [],
+    "strike": [
+     "① A: Have you ever been to Paris? B: Yes, I have been there twice.",
+     "② A: How long have you lived here? B: I have lived here for 5 years.",
+     "③ A: What are you doing now? B: I am reading a book.",
+     "⑤ A: Will you go to the party tonight? B: Yes, I will. I'm looking forward to it."
+    ],
+    "narration": "셋째, 나머지 대화에는 일이 일어난 끝난 과거의 때가 없고 시제도 알맞아서, 틀린 대화는 4번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① A: Have you ever been to Paris? B: Yes, I have been there twice.  ✗  ever, twice: 지금까지의 경험 → 현재완료가 맞아요",
+    "② A: How long have you lived here? B: I have lived here for 5 years.  ✗  How long, for 5 years: 지금까지 계속 → 현재완료가 맞아요",
+    "③ A: What are you doing now? B: I am reading a book.  ✗  now: 지금 하는 일 → 현재진행형이 맞아요",
+    "④ A: When did you finish your homework? B: I have finished it an hour ago.  ✓  an hour ago는 끝난 과거 → I finished it an hour ago.",
+    "⑤ A: Will you go to the party tonight? B: Yes, I will. I'm looking forward to it.  ✗  tonight: 앞으로의 일 → will로 묻고 답했어요"
+   ],
+   "narration": "정답은 4번이에요. 한 시간 전에 끝낸 일이니 have finished가 아니라 finished를 써요. 1번은 ever와 twice로 지금까지의 경험을 말하니 현재완료가 맞아요. 2번은 How long으로 묻고 for five years로 답한, 지금까지 이어진 일이라 현재완료가 맞아요. 5번은 앞으로의 일을 will로 묻고 답해서 맞아요."
+  },
+  "summary": {
+   "card": "일이 일어난 끝난 과거의 때(yesterday, last night, ~ ago)를 밝히면 → 현재완료 ✗, 과거형 ✓",
+   "narration": "정답은 4번이에요. 기억할 것, 일이 일어난 때를 끝난 과거로 밝히면 현재완료가 아니라 과거형을 써요."
+  },
+  "captions": [
+   "현재완료와 과거형 고르기",
+   "먼저 풀어 보세요",
+   "끝난 과거의 때 → 과거형",
+   "an hour ago → finished",
+   "정답 ④ have finished → finished",
+   "끝난 과거의 때엔 과거형"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   36,
+   28,
+   11
+  ]
+ },
+ "B": {
+  "title": "끝난 과거의 때와 현재완료",
+  "intro": "이 문제는 현재완료와 과거형을 알맞게 썼는지 살펴 어법상 틀린 대화를 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 틀린 대화를 고르세요. 보기마다 A가 묻고 B가 대답해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료 have(has) + 과거분사: 경험, 계속, 완료처럼 과거의 일이 지금과 이어질 때",
+    "일이 일어난 때를 끝난 과거로 밝히면 → 현재완료 ✗, 과거형 ✓",
+    "끝난 과거의 때: yesterday, last night, two days ago, When did ~?에 답하는 때",
+    "예) I lost my key yesterday. (나는 어제 열쇠를 잃어버렸어요.)  I have lost my key yesterday. ✗"
+   ],
+   "narration": "현재완료는 have나 has 뒤에 과거분사를 써서, 경험, 계속, 완료처럼 과거의 일이 지금과 이어질 때 써요. 하지만 일이 일어난 때를 yesterday, two days ago처럼 끝난 과거로 밝히면 현재완료가 아니라 과거형을 써요. When did 질문에 그때를 밝혀 답할 때도 과거형이에요. 예를 들어 I lost my key yesterday. 나는 어제 열쇠를 잃어버렸어요."
+  },
+  "steps": [
+   {
+    "note": "대답 속 때를 나타내는 말 찾기: ③ two hours ago = 두 시간 전, 끝난 과거의 한 때. A도 When did로 물음",
+    "highlight": [
+     "③ A: When did you submit the report?",
+     "two hours ago"
+    ],
+    "strike": [],
+    "narration": "첫째, 대답에 끝난 과거의 때가 있는 대화는 3번이에요. A가 When did로 언제 냈는지 묻고, B가 two hours ago, 곧 두 시간 전이라고 답했어요."
+   },
+   {
+    "note": "끝난 과거의 때 + 현재완료 have submitted ✗ → 과거형: I submitted it two hours ago.",
+    "highlight": [
+     "B: I have submitted it two hours ago."
+    ],
+    "strike": [],
+    "narration": "둘째, 그런데 현재완료 have submitted를 썼으니, 과거형으로 I submitted it two hours ago라고 해야 해요. 나는 두 시간 전에 그것을 제출했어요."
+   },
+   {
+    "note": "나머지 ①②④⑤에는 일이 일어난 끝난 과거의 때가 없고 시제가 알맞다 → 지운다",
+    "highlight": [],
+    "strike": [
+     "① A: Will you join us for lunch tomorrow? B: Yes, I will. I'd love to.",
+     "② A: What is your sister doing now? B: She is practicing the piano.",
+     "④ A: How long have you known Mr. Kim? B: I have known him for eight years.",
+     "⑤ A: Have you ever tried Thai food? B: Yes, I have tried it twice."
+    ],
+    "narration": "셋째, 나머지 대화에는 일이 일어난 끝난 과거의 때가 없고 시제도 알맞아서, 틀린 대화는 3번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① A: Will you join us for lunch tomorrow? B: Yes, I will. I'd love to.  ✗  tomorrow: 앞으로의 일 → will로 묻고 답했어요",
+    "② A: What is your sister doing now? B: She is practicing the piano.  ✗  now: 지금 하는 일 → 현재진행형이 맞아요",
+    "③ A: When did you submit the report? B: I have submitted it two hours ago.  ✓  two hours ago는 끝난 과거 → I submitted it two hours ago.",
+    "④ A: How long have you known Mr. Kim? B: I have known him for eight years.  ✗  How long, for eight years: 지금까지 계속 → 현재완료가 맞아요",
+    "⑤ A: Have you ever tried Thai food? B: Yes, I have tried it twice.  ✗  ever, twice: 지금까지의 경험 → 현재완료가 맞아요"
+   ],
+   "narration": "정답은 3번이에요. 두 시간 전에 낸 일이니 have submitted가 아니라 submitted를 써요. 4번은 How long으로 묻고 for eight years로 답한, 지금까지 이어진 일이라 현재완료가 맞아요. 5번은 ever와 twice로 지금까지의 경험을 말하니 현재완료가 맞아요. 1번은 내일의 일을 will로 묻고 답해서 맞아요."
+  },
+  "summary": {
+   "card": "일이 일어난 끝난 과거의 때(yesterday, last night, ~ ago)를 밝히면 → 현재완료 ✗, 과거형 ✓",
+   "narration": "정답은 3번이에요. 기억할 것, 일이 일어난 때를 끝난 과거로 밝히면 현재완료가 아니라 과거형을 써요."
+  },
+  "captions": [
+   "현재완료와 과거형 고르기",
+   "먼저 풀어 보세요",
+   "끝난 과거의 때 → 과거형",
+   "two hours ago → submitted",
+   "정답 ③ have submitted → submitted",
+   "끝난 과거의 때엔 과거형"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   36,
+   28,
+   11
+  ]
+ },
+ "C": {
+  "title": "끝난 과거의 때와 현재완료",
+  "intro": "이 문제는 현재완료와 과거형을 알맞게 썼는지 살펴 어법상 틀린 대화를 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 틀린 대화를 고르세요. 보기마다 A가 묻고 B가 대답해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료 have(has) + 과거분사: 경험, 계속, 완료처럼 과거의 일이 지금과 이어질 때",
+    "일이 일어난 때를 끝난 과거로 밝히면 → 현재완료 ✗, 과거형 ✓",
+    "끝난 과거의 때: yesterday, last night, two days ago, When did ~?에 답하는 때",
+    "예) I lost my key yesterday. (나는 어제 열쇠를 잃어버렸어요.)  I have lost my key yesterday. ✗"
+   ],
+   "narration": "현재완료는 have나 has 뒤에 과거분사를 써서, 경험, 계속, 완료처럼 과거의 일이 지금과 이어질 때 써요. 하지만 일이 일어난 때를 yesterday, two days ago처럼 끝난 과거로 밝히면 현재완료가 아니라 과거형을 써요. When did 질문에 그때를 밝혀 답할 때도 과거형이에요. 예를 들어 I lost my key yesterday. 나는 어제 열쇠를 잃어버렸어요."
+  },
+  "steps": [
+   {
+    "note": "When did로 언제 했는지 묻는 대화: ①, ④ → 그때를 밝혀 과거형으로 답해야 한다",
+    "highlight": [
+     "① A: When did Jane leave the office?",
+     "④ A: When did you arrive at the hotel?"
+    ],
+    "strike": [],
+    "narration": "첫째, When did로 언제 했는지 묻는 1번과 4번은 그때를 밝혀 과거형으로 답해야 해요."
+   },
+   {
+    "note": "④ at nine last night + 과거형 arrived ✓ → 지운다. ① at noon = 이미 지난 정오인데 현재완료 has left ✗ → She left at noon.",
+    "highlight": [
+     "B: She has left at noon."
+    ],
+    "strike": [
+     "④ A: When did you arrive at the hotel? B: I arrived at nine last night."
+    ],
+    "narration": "둘째, 4번은 과거형 arrived로 맞게 답했지만, 1번 B는 이미 지난 정오인 at noon과 함께 현재완료 has left를 썼어요. 따라서 She left at noon이라고 해야 해요. 그녀는 정오에 떠났어요."
+   },
+   {
+    "note": "나머지 ②③⑤에는 일이 일어난 끝난 과거의 때가 없고 시제가 알맞다 → 지운다",
+    "highlight": [],
+    "strike": [
+     "② A: Have you finished your science project yet? B: Yes, I have just finished it.",
+     "③ A: How long has she worked at the bank? B: She has worked there since May.",
+     "⑤ A: Are you reading the newspaper now? B: No, I am watching the news."
+    ],
+    "narration": "셋째, 나머지 대화에는 일이 일어난 끝난 과거의 때가 없고 시제도 알맞아서, 틀린 대화는 1번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① A: When did Jane leave the office? B: She has left at noon.  ✓  When did에 지난 정오로 답함 → She left at noon.",
+    "② A: Have you finished your science project yet? B: Yes, I have just finished it.  ✗  yet, just: 일을 끝냈는지 → 현재완료가 맞아요",
+    "③ A: How long has she worked at the bank? B: She has worked there since May.  ✗  since May: 5월부터 지금까지 → 현재완료가 맞아요",
+    "④ A: When did you arrive at the hotel? B: I arrived at nine last night.  ✗  When did에 at nine last night → 과거형 arrived가 맞아요",
+    "⑤ A: Are you reading the newspaper now? B: No, I am watching the news.  ✗  now: 지금 하는 일 → 현재진행형이 맞아요"
+   ],
+   "narration": "정답은 1번이에요. 지난 정오에 떠난 일이니 has left가 아니라 left를 써요. 3번의 since May는 5월부터 지금까지라는 뜻이에요. 그때부터 지금까지 일해 왔으니 현재완료가 맞아요. 2번은 yet과 just로 일을 끝냈는지 묻고 답해서 현재완료가 맞아요."
+  },
+  "summary": {
+   "card": "일이 일어난 끝난 과거의 때(yesterday, last night, ~ ago)를 밝히면 → 현재완료 ✗, 과거형 ✓",
+   "narration": "정답은 1번이에요. 기억할 것, 일이 일어난 때를 끝난 과거로 밝히면 현재완료가 아니라 과거형을 써요."
+  },
+  "captions": [
+   "현재완료와 과거형 고르기",
+   "먼저 풀어 보세요",
+   "끝난 과거의 때 → 과거형",
+   "When did + at noon → left",
+   "정답 ① has left → left",
+   "끝난 과거의 때엔 과거형"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   38,
+   26,
+   11
+  ]
+ },
+ "D": {
+  "title": "끝난 과거의 때와 현재완료",
+  "intro": "이 문제는 현재완료와 과거형을 알맞게 썼는지 살펴 어법상 틀린 대화를 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 틀린 대화를 고르세요. 보기마다 A가 묻고 B가 대답해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료 have(has) + 과거분사: 경험, 계속, 완료처럼 과거의 일이 지금과 이어질 때",
+    "일이 일어난 때를 끝난 과거로 밝히면 → 현재완료 ✗, 과거형 ✓",
+    "끝난 과거의 때: yesterday, last night, two days ago, When did ~?에 답하는 때",
+    "예) I lost my key yesterday. (나는 어제 열쇠를 잃어버렸어요.)  I have lost my key yesterday. ✗"
+   ],
+   "narration": "현재완료는 have나 has 뒤에 과거분사를 써서, 경험, 계속, 완료처럼 과거의 일이 지금과 이어질 때 써요. 하지만 일이 일어난 때를 yesterday, two days ago처럼 끝난 과거로 밝히면 현재완료가 아니라 과거형을 써요. When did 질문에 그때를 밝혀 답할 때도 과거형이에요. 예를 들어 I lost my key yesterday. 나는 어제 열쇠를 잃어버렸어요."
+  },
+  "steps": [
+   {
+    "note": "대답 속 때를 나타내는 말 찾기: ① last night, ③ yesterday = 끝난 과거의 한 때",
+    "highlight": [
+     "B: Yes, I have seen it last night.",
+     "B: She came back yesterday."
+    ],
+    "strike": [],
+    "narration": "첫째, 대답 속 때를 보면 1번의 last night과 3번의 yesterday는 이미 끝난 과거의 때예요."
+   },
+   {
+    "note": "③ 과거형 came back ✓ → 지운다. ① last night + 현재완료 have seen ✗ → Yes, I saw it last night.",
+    "highlight": [
+     "have seen it last night"
+    ],
+    "strike": [
+     "③ A: When did Jane come back from Canada? B: She came back yesterday."
+    ],
+    "narration": "둘째, 3번은 과거형 came back을 써서 맞지만, 1번 B는 last night과 함께 현재완료 have seen을 썼어요. 따라서 Yes, I saw it last night이라고 해야 해요. 네, 어젯밤에 봤어요."
+   },
+   {
+    "note": "나머지 ②④⑤에는 일이 일어난 끝난 과거의 때가 없고 시제가 알맞다 → 지운다",
+    "highlight": [],
+    "strike": [
+     "② A: What will you do this weekend? B: I will visit my grandparents.",
+     "④ A: How long has your brother played tennis? B: He has played it for three years.",
+     "⑤ A: Have they ever been to Jeju? B: Yes, they have been there several times."
+    ],
+    "narration": "셋째, 나머지 대화에는 일이 일어난 끝난 과거의 때가 없고 시제도 알맞아서, 틀린 대화는 1번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① A: Did you see the game last night? B: Yes, I have seen it last night.  ✓  last night은 끝난 과거 → Yes, I saw it last night.",
+    "② A: What will you do this weekend? B: I will visit my grandparents.  ✗  this weekend: 앞으로의 일 → will로 묻고 답했어요",
+    "③ A: When did Jane come back from Canada? B: She came back yesterday.  ✗  When did에 yesterday → 과거형 came back이 맞아요",
+    "④ A: How long has your brother played tennis? B: He has played it for three years.  ✗  How long, for three years: 지금까지 계속 → 현재완료가 맞아요",
+    "⑤ A: Have they ever been to Jeju? B: Yes, they have been there several times.  ✗  ever, several times: 지금까지의 경험 → 현재완료가 맞아요"
+   ],
+   "narration": "정답은 1번이에요. 어젯밤에 본 일이니 have seen이 아니라 saw를 써요. 5번은 ever와 several times로 지금까지의 경험을 말하니 현재완료가 맞아요. 4번은 How long으로 묻고 for three years로 답한, 지금까지 이어진 일이라 현재완료가 맞아요."
+  },
+  "summary": {
+   "card": "일이 일어난 끝난 과거의 때(yesterday, last night, ~ ago)를 밝히면 → 현재완료 ✗, 과거형 ✓",
+   "narration": "정답은 1번이에요. 기억할 것, 일이 일어난 때를 끝난 과거로 밝히면 현재완료가 아니라 과거형을 써요."
+  },
+  "captions": [
+   "현재완료와 과거형 고르기",
+   "먼저 풀어 보세요",
+   "끝난 과거의 때 → 과거형",
+   "last night → saw",
+   "정답 ① have seen → saw",
+   "끝난 과거의 때엔 과거형"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   36,
+   26,
+   11
+  ]
+ },
+ "E": {
+  "title": "끝난 과거의 때와 현재완료",
+  "intro": "이 문제는 현재완료와 과거형을 알맞게 썼는지 살펴 어법상 틀린 대화를 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 틀린 대화를 고르세요. 보기마다 A가 묻고 B가 대답해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료 have(has) + 과거분사: 경험, 계속, 완료처럼 과거의 일이 지금과 이어질 때",
+    "일이 일어난 때를 끝난 과거로 밝히면 → 현재완료 ✗, 과거형 ✓",
+    "끝난 과거의 때: yesterday, last night, two days ago, When did ~?에 답하는 때",
+    "예) I lost my key yesterday. (나는 어제 열쇠를 잃어버렸어요.)  I have lost my key yesterday. ✗"
+   ],
+   "narration": "현재완료는 have나 has 뒤에 과거분사를 써서, 경험, 계속, 완료처럼 과거의 일이 지금과 이어질 때 써요. 하지만 일이 일어난 때를 yesterday, two days ago처럼 끝난 과거로 밝히면 현재완료가 아니라 과거형을 써요. When did 질문에 그때를 밝혀 답할 때도 과거형이에요. 예를 들어 I lost my key yesterday. 나는 어제 열쇠를 잃어버렸어요."
+  },
+  "steps": [
+   {
+    "note": "When did로 언제 했는지 묻는 대화: ①, ⑤ → 그때를 밝혀 과거형으로 답해야 한다",
+    "highlight": [
+     "① A: When did the class end?",
+     "⑤ A: When did Tom call you?"
+    ],
+    "strike": [],
+    "narration": "첫째, When did로 언제 했는지 묻는 1번과 5번은 그때를 밝혀 과거형으로 답해야 해요."
+   },
+   {
+    "note": "① 과거형 ended ✓ → 지운다. ⑤ yesterday + 현재완료 has called ✗ → He called me yesterday.",
+    "highlight": [
+     "B: He has called me yesterday."
+    ],
+    "strike": [
+     "① A: When did the class end? B: It ended at three o'clock."
+    ],
+    "narration": "둘째, 1번은 과거형 ended로 맞게 답했지만, 5번 B는 yesterday와 함께 현재완료 has called를 썼어요. 따라서 He called me yesterday라고 해야 해요. 그는 어제 나에게 전화했어요."
+   },
+   {
+    "note": "나머지 ②③④에는 일이 일어난 끝난 과거의 때가 없고 시제가 알맞다 → 지운다",
+    "highlight": [],
+    "strike": [
+     "② A: Have you eaten dinner yet? B: No, I haven't eaten anything yet.",
+     "③ A: How long has Tom lived in this town? B: He has lived here since 2020.",
+     "④ A: Are they waiting for the bus? B: Yes, they are waiting at the stop."
+    ],
+    "narration": "셋째, 나머지 대화에는 일이 일어난 끝난 과거의 때가 없고 시제도 알맞아서, 틀린 대화는 5번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① A: When did the class end? B: It ended at three o'clock.  ✗  When did에 at three o'clock → 과거형 ended가 맞아요",
+    "② A: Have you eaten dinner yet? B: No, I haven't eaten anything yet.  ✗  yet: 아직 안 먹은 일 → 현재완료가 맞아요",
+    "③ A: How long has Tom lived in this town? B: He has lived here since 2020.  ✗  since 2020: 2020년부터 지금까지 → 현재완료가 맞아요",
+    "④ A: Are they waiting for the bus? B: Yes, they are waiting at the stop.  ✗  지금 하는 일 → 현재진행형이 맞아요",
+    "⑤ A: When did Tom call you? B: He has called me yesterday.  ✓  yesterday는 끝난 과거 → He called me yesterday."
+   ],
+   "narration": "정답은 5번이에요. 어제 전화한 일이니 has called가 아니라 called를 써요. 3번의 since twenty twenty는 2020년부터 지금까지라는 뜻이에요. 그때부터 지금까지 살아 왔으니 현재완료가 맞아요. 2번은 yet으로 저녁을 먹었는지 묻고 아직 안 먹었다고 답해서 현재완료가 맞아요."
+  },
+  "summary": {
+   "card": "일이 일어난 끝난 과거의 때(yesterday, last night, ~ ago)를 밝히면 → 현재완료 ✗, 과거형 ✓",
+   "narration": "정답은 5번이에요. 기억할 것, 일이 일어난 때를 끝난 과거로 밝히면 현재완료가 아니라 과거형을 써요."
+  },
+  "captions": [
+   "현재완료와 과거형 고르기",
+   "먼저 풀어 보세요",
+   "끝난 과거의 때 → 과거형",
+   "yesterday → called",
+   "정답 ⑤ has called → called",
+   "끝난 과거의 때엔 과거형"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   36,
+   28,
+   11
+  ]
+ },
+ "F": {
+  "title": "끝난 과거의 때와 현재완료",
+  "intro": "이 문제는 현재완료와 과거형을 알맞게 썼는지 살펴 어법상 틀린 대화를 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 틀린 대화를 고르세요. 보기마다 A가 묻고 B가 대답해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료 have(has) + 과거분사: 경험, 계속, 완료처럼 과거의 일이 지금과 이어질 때",
+    "일이 일어난 때를 끝난 과거로 밝히면 → 현재완료 ✗, 과거형 ✓",
+    "끝난 과거의 때: yesterday, last night, two days ago, When did ~?에 답하는 때",
+    "예) I lost my key yesterday. (나는 어제 열쇠를 잃어버렸어요.)  I have lost my key yesterday. ✗"
+   ],
+   "narration": "현재완료는 have나 has 뒤에 과거분사를 써서, 경험, 계속, 완료처럼 과거의 일이 지금과 이어질 때 써요. 하지만 일이 일어난 때를 yesterday, two days ago처럼 끝난 과거로 밝히면 현재완료가 아니라 과거형을 써요. When did 질문에 그때를 밝혀 답할 때도 과거형이에요. 예를 들어 I lost my key yesterday. 나는 어제 열쇠를 잃어버렸어요."
+  },
+  "steps": [
+   {
+    "note": "지난 일을 묻는 대화: ④ Did, ⑤ When did",
+    "highlight": [
+     "④ A: Did they arrive on Monday?",
+     "⑤ A: When did your cousins leave?"
+    ],
+    "strike": [],
+    "narration": "첫째, 4번은 Did로, 5번은 When did로 이미 지난 일을 물었어요."
+   },
+   {
+    "note": "⑤ 과거형 left ✓ → 지운다. ④ on Monday = 이미 지난 월요일인데 현재완료 have arrived ✗ → Yes, they arrived on Monday.",
+    "highlight": [
+     "B: Yes, they have arrived on Monday."
+    ],
+    "strike": [
+     "⑤ A: When did your cousins leave? B: They left on Tuesday morning."
+    ],
+    "narration": "둘째, 5번은 과거형 left로 맞게 답했지만, 4번 B는 이미 지난 월요일인 on Monday와 함께 현재완료 have arrived를 썼어요. 따라서 Yes, they arrived on Monday라고 해야 해요. 네, 그들은 월요일에 도착했어요."
+   },
+   {
+    "note": "나머지 ①②③에는 일이 일어난 끝난 과거의 때가 없고 시제가 알맞다 → 지운다",
+    "highlight": [],
+    "strike": [
+     "① A: Have you seen this movie before? B: Yes, I have seen it twice.",
+     "② A: How long have you studied English? B: I have studied it for six years.",
+     "③ A: Will Jane come to the meeting? B: Yes, she will come after lunch."
+    ],
+    "narration": "셋째, 나머지 대화에는 일이 일어난 끝난 과거의 때가 없고 시제도 알맞아서, 틀린 대화는 4번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① A: Have you seen this movie before? B: Yes, I have seen it twice.  ✗  before, twice: 지금까지의 경험 → 현재완료가 맞아요",
+    "② A: How long have you studied English? B: I have studied it for six years.  ✗  How long, for six years: 지금까지 계속 → 현재완료가 맞아요",
+    "③ A: Will Jane come to the meeting? B: Yes, she will come after lunch.  ✗  앞으로의 일 → will로 묻고 답했어요",
+    "④ A: Did they arrive on Monday? B: Yes, they have arrived on Monday.  ✓  지난 월요일은 끝난 과거 → Yes, they arrived on Monday.",
+    "⑤ A: When did your cousins leave? B: They left on Tuesday morning.  ✗  When did에 on Tuesday morning → 과거형 left가 맞아요"
+   ],
+   "narration": "정답은 4번이에요. 지난 월요일에 도착한 일이니 have arrived가 아니라 arrived를 써요. 1번은 before와 twice로 지금까지의 경험을 말하니 현재완료가 맞아요. 2번은 How long으로 묻고 for six years로 답한, 지금까지 이어진 일이라 현재완료가 맞아요."
+  },
+  "summary": {
+   "card": "일이 일어난 끝난 과거의 때(yesterday, last night, ~ ago)를 밝히면 → 현재완료 ✗, 과거형 ✓",
+   "narration": "정답은 4번이에요. 기억할 것, 일이 일어난 때를 끝난 과거로 밝히면 현재완료가 아니라 과거형을 써요."
+  },
+  "captions": [
+   "현재완료와 과거형 고르기",
+   "먼저 풀어 보세요",
+   "끝난 과거의 때 → 과거형",
+   "지난 월요일 → arrived",
+   "정답 ④ have arrived → arrived",
+   "끝난 과거의 때엔 과거형"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   36,
+   26,
+   11
+  ]
+ }
+}

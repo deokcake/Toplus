@@ -1,0 +1,177 @@
+{
+ "key": "7-21",
+ "type": "B",
+ "grade": 7,
+ "chapter": "CH 3 be동사",
+ "title": "문장에서 be동사 찾기",
+ "total_sec": 130,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "7급 · CH 3 be동사 · 21번 · B 유형\n\n이 문제는 주어가 Our neighbors인 문장에서 be동사를 찾아 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 3 be동사 · 21번 · B 유형",
+     "이 문제는 주어가 Our neighbors인 문장에서 be동사를 찾아 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 3, 21번 B 유형. 이 문제는 주어가 Our neighbors인 문장에서 be동사를 찾아 고르는 문제예요.",
+   "caption": "문장에서 be동사 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 문장에서 be동사에 해당하는 것을 고르시오.\n\nOur neighbors are English teachers.\n\n① teachers\n② are\n③ Our\n④ neighbors\n⑤ English",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장에서 be동사에 해당하는 것을 고르시오.",
+     "Our neighbors are English teachers.",
+     "① teachers",
+     "② are",
+     "③ Our",
+     "④ neighbors",
+     "⑤ English"
+    ]
+   },
+   "narration": "다음 문장에서 be동사에 해당하는 것을 고르세요. Our neighbors are English teachers. 우리 이웃들은 영어 선생님들이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 현재형: am, is, are\n뜻: ~이다, ~하다, ~에 있다\n자리: 보통 주어 바로 뒤\n예) My parents are doctors. (우리 부모님은 의사예요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 현재형: am, is, are",
+     "뜻: ~이다, ~하다, ~에 있다",
+     "자리: 보통 주어 바로 뒤",
+     "예) My parents are doctors. (우리 부모님은 의사예요.)"
+    ]
+   },
+   "narration": "be동사의 현재형은 am, is, are 세 가지예요. be동사는 주어가 누구인지, 무엇인지, 어떤 상태인지, 어디에 있는지 말할 때 써요. 우리말로는 무엇이다, 어떠하다, 어디에 있다처럼 옮기고, 보통 주어 바로 뒤에 와요. My parents are doctors. 우리 부모님은 의사예요. 주어 My parents 바로 뒤의 are가 be동사예요.",
+   "caption": "be동사 현재형 am, is, are"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 문장에서 be동사에 해당하는 것을 고르시오.\n\nOur neighbors are English teachers.\n\n① teachers\n② are\n③ Our\n④ neighbors\n⑤ English",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "are"
+      ],
+      "strike": [],
+      "note": "am, is, are 가운데 하나를 찾는다 → are"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "Our neighbors are"
+      ],
+      "strike": [],
+      "note": "are는 주어 Our neighbors 바로 뒤 → 이웃들이 누구인지 말해 준다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② are"
+      ],
+      "strike": [
+       "① teachers",
+       "③ Our",
+       "④ neighbors",
+       "⑤ English"
+      ],
+      "note": "Our, neighbors, English, teachers는 be동사가 아니다 → 정답 ② are"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장에서 am, is, are 가운데 하나를 찾아요. 이 문장에는 are가 있어요. 둘째, are는 주어 Our neighbors 바로 뒤에서 우리 이웃들이 누구인지 말해 줘요. 셋째, Our, neighbors, English, teachers는 be동사가 아니니까 지워요. 남는 것은 2번 are예요.",
+   "caption": "are 찾기 → 주어 Our neighbors 바로 뒤"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① teachers  ✗  ‘선생님들’이라는 뜻의 명사예요\n② are  ✓  주어 Our neighbors 바로 뒤의 be동사예요\n③ Our  ✗  ‘우리의’라는 뜻의 소유격이에요\n④ neighbors  ✗  주어로 쓰인 명사예요\n⑤ English  ✗  teachers를 꾸미는 말이에요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① teachers  ✗  ‘선생님들’이라는 뜻의 명사예요",
+     "② are  ✓  주어 Our neighbors 바로 뒤의 be동사예요",
+     "③ Our  ✗  ‘우리의’라는 뜻의 소유격이에요",
+     "④ neighbors  ✗  주어로 쓰인 명사예요",
+     "⑤ English  ✗  teachers를 꾸미는 말이에요"
+    ]
+   },
+   "narration": "정답은 2번 are예요. 우리말로 영어 선생님들이다라고 옮기니까 1번 teachers를 고르기 쉬워요. 하지만 teachers는 선생님들이라는 명사이고, 이 문장에서 이다의 뜻은 are가 맡아요. 5번 English는 teachers를 꾸며 영어 선생님이라는 뜻을 만드는 말이고, 4번 neighbors는 주어로 쓰인 명사예요.",
+   "caption": "정답 ② are"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ② are\n\nbe동사 현재형 am, is, are는 보통 주어 바로 뒤에 와요",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② are",
+     "be동사 현재형 am, is, are는 보통 주어 바로 뒤에 와요"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, be동사의 현재형은 am, is, are이고, 보통 주어 바로 뒤에 와요.",
+   "caption": "am, is, are는 보통 주어 바로 뒤"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장에서 be동사에 해당하는 것을 고르시오.",
+  "passage": "Our neighbors are English teachers.",
+  "c": [
+   "teachers",
+   "are",
+   "Our",
+   "neighbors",
+   "English"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 제시문에서 be동사의 현재형이다.\n풀이 순서: ① 문장에서 am, is, are 가운데 하나를 찾는다. → ② 주어(Our neighbors) 바로 뒤에 있는 are가 be동사다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: 정답은 ②입니다. ‘are’는 be동사의 현재형입니다. 제시문에서 주어의 신분·상태를 설명합니다.\n선택지 분석:\n① [오답] ‘teachers’는 명사이며 be동사가 아닙니다.\n② [정답] ‘are’는 be동사의 현재형입니다. 제시문에서 주어의 신분·상태를 설명합니다.\n③ [오답] ‘Our’는 소유격이며 be동사가 아닙니다.\n④ [오답] ‘neighbors’는 명사이며 be동사가 아닙니다.\n⑤ [오답] ‘English’는 명사를 꾸미는 말이며 be동사가 아닙니다."
+ }
+}

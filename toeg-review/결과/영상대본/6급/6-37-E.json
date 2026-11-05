@@ -1,0 +1,179 @@
+{
+ "key": "6-37",
+ "type": "E",
+ "grade": 6,
+ "chapter": "CH 4 일반동사",
+ "title": "The dog doesn't 뒤 동사의 형태",
+ "total_sec": 126,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "6급 · CH 4 일반동사 · 37번 · E 유형\n\n이 문제는 The dog doesn't 뒤의 빈칸에 들어갈 동사의 알맞은 형태를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 4 일반동사 · 37번 · E 유형",
+     "이 문제는 The dog doesn't 뒤의 빈칸에 들어갈 동사의 알맞은 형태를 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 4, 37번 E 유형. 이 문제는 The dog doesn't 뒤의 빈칸에 들어갈 동사의 알맞은 형태를 고르는 문제예요.",
+   "caption": "The dog doesn't 뒤 동사의 형태"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 17,
+   "screen": {
+    "text": "다음 문장의 빈칸에 들어갈 알맞은 말을 고르시오.\n\nThe dog doesn't ________ fast.\n\n① runs\n② run\n③ to run\n④ running\n⑤ ran",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장의 빈칸에 들어갈 알맞은 말을 고르시오.",
+     "The dog doesn't ________ fast.",
+     "① runs",
+     "② run",
+     "③ to run",
+     "④ running",
+     "⑤ ran"
+    ]
+   },
+   "narration": "다음 문장의 빈칸에 들어갈 알맞은 말을 고르세요. The dog doesn't 빈칸 fast. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n일반동사 현재형 부정문: 주어 + don't / doesn't + 동사원형 (~하지 않아요)\nI, you, we, they, 복수 → don't  ·  he, she, it처럼 3인칭 단수 → doesn't\ndoesn't 뒤의 동사는 늘 동사원형 (3인칭 단수 표시는 does에 이미 있어요)\n예) Sujin doesn't wear glasses. (수진이는 안경을 쓰지 않아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "일반동사 현재형 부정문: 주어 + don't / doesn't + 동사원형 (~하지 않아요)",
+     "I, you, we, they, 복수 → don't  ·  he, she, it처럼 3인칭 단수 → doesn't",
+     "doesn't 뒤의 동사는 늘 동사원형 (3인칭 단수 표시는 does에 이미 있어요)",
+     "예) Sujin doesn't wear glasses. (수진이는 안경을 쓰지 않아요.)"
+    ]
+   },
+   "narration": "일반동사 현재형으로 하지 않는다고 말할 때는 동사 앞에 don't를 쓰는데, 주어가 he, she, it처럼 3인칭 단수이면 doesn't를 써요. doesn't 뒤의 동사는 늘 동사원형이에요. 3인칭 단수 표시는 does에 이미 있으니까, 동사는 3인칭 단수형으로 바꾸지 않아요. 예를 들어 Sujin doesn't wear glasses. 수진이는 안경을 쓰지 않아요.",
+   "caption": "doesn't 뒤에는 동사원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 문장의 빈칸에 들어갈 알맞은 말을 고르시오.\n\nThe dog doesn't ________ fast.\n\n① runs\n② run\n③ to run\n④ running\n⑤ ran",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "doesn't",
+       "________"
+      ],
+      "strike": [
+       "③ to run",
+       "④ running",
+       "⑤ ran"
+      ],
+      "note": "빈칸은 doesn't 바로 뒤 = 동사원형 자리 → to가 붙은 ③, ing형 ④, 과거형 ⑤ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "The dog"
+      ],
+      "strike": [
+       "① runs"
+      ],
+      "note": "The dog(개 한 마리)는 3인칭 단수지만 그 표시는 does에 이미 있음 → 3인칭 단수형 runs ① 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② run"
+      ],
+      "strike": [],
+      "note": "남는 것은 동사원형 run → The dog doesn't run fast."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 빈칸은 doesn't 바로 뒤라서 동사원형 자리예요. 그래서 to를 붙인 to run, ing형 running, 과거형 ran은 지워요. 둘째, 주어 The dog는 개 한 마리라서 3인칭 단수지만 그 표시는 does에 이미 들어 있으니, 3인칭 단수형 runs도 지워요. 셋째, 남는 것은 동사원형 run이에요. The dog doesn't run fast. 그 개는 빨리 달리지 않아요.",
+   "caption": "동사원형 자리 → runs 아님 → run"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 25,
+   "screen": {
+    "text": "① runs  ✗  3인칭 단수형, s를 또 붙이지 않아요\n② run  ✓  doesn't 뒤에 오는 동사원형\n③ to run  ✗  doesn't 바로 뒤에 to + 동사원형은 쓰지 않아요\n④ running  ✗  doesn't 바로 뒤에 ing형은 쓰지 않아요\n⑤ ran  ✗  과거형, doesn't 뒤에는 동사원형",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① runs  ✗  3인칭 단수형, s를 또 붙이지 않아요",
+     "② run  ✓  doesn't 뒤에 오는 동사원형",
+     "③ to run  ✗  doesn't 바로 뒤에 to + 동사원형은 쓰지 않아요",
+     "④ running  ✗  doesn't 바로 뒤에 ing형은 쓰지 않아요",
+     "⑤ ran  ✗  과거형, doesn't 뒤에는 동사원형"
+    ]
+   },
+   "narration": "정답은 2번 run이에요. 1번 runs는 개 한 마리가 주어라서 고르기 쉽지만, doesn't 뒤에는 s를 또 붙이지 않고 동사원형을 써요. 5번 ran은 과거형이라 doesn't 바로 뒤에 올 수 없어요. 4번 running처럼 ing형도 doesn't 바로 뒤에는 쓰지 않아요.",
+   "caption": "정답 ② run"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② run\n\ndoesn't(does not) + 동사원형  (3인칭 단수 주어여도 동사원형)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② run",
+     "doesn't(does not) + 동사원형  (3인칭 단수 주어여도 동사원형)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 주어가 3인칭 단수여도 doesn't 뒤에는 동사원형을 써요.",
+   "caption": "doesn't + 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장의 빈칸에 들어갈 알맞은 말을 고르시오.",
+  "passage": "The dog doesn't ________ fast.",
+  "c": [
+   "runs",
+   "run",
+   "to run",
+   "running",
+   "ran"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 일반동사 현재 부정문은 주어+don’t/doesn’t+동사원형으로 만든다.\n풀이 순서: ① 빈칸 앞의 doesn't를 본다. 3인칭 단수의 -s는 이미 does에 들어 있다. → ② 그래서 뒤의 동사는 원형이다. runs, to run, running, ran(과거형)을 지운다. → ③ 남는 것은 run.\n문장별 판정:\n정답 판단: run: doesn’t 뒤의 본동사는 원형 run이다. 따라서 정답은 ②이다.\n선택지 분석:\n① [오답] runs → run. doesn’t 뒤의 본동사는 원형 run이다. 주어가 3인칭 단수여도 doesn’t 뒤에는 본동사에 s를 다시 붙이지 않는다.\n② [정답] run: doesn’t 뒤의 본동사는 원형 run이다.\n③ [오답] to run → run. doesn’t 뒤의 본동사는 원형 run이다. to부정사는 이 자리에 쓰지 않는다.\n④ [오답] running → run. doesn’t 뒤의 본동사는 원형 run이다. 진행형의 -ing형은 doesn’t 바로 뒤의 본동사 형태가 아니다.\n⑤ [오답] ran → run. doesn’t 뒤의 본동사는 원형 run이다. 과거형이 아니라 동사원형을 써야 한다."
+ }
+}

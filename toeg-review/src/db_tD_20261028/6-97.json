@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T06:34:29.036Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 첫 문장은 질문을 부정하고, 둘째 문장은 다른 동작을 긍정한다. 두 문장 모두 과거 시제를 유지한다.\n풀이 순서: ① 첫 빈칸: 대답이 No, they ~이므로 weren't. → ② 둘째 빈칸: 주어가 They이므로 were. → ③ 정답은 weren't - were.\n문장별 판정:\n정답 판단: (첫째 빈칸) weren't: 앞의 Was/Were 질문에 No로 답하므로 they에 맞는 부정형 weren’t를 쓴다. (둘째 빈칸) were: 둘째 문장은 하고 있던 동작을 긍정한다. 주어 they에 맞는 과거 be동사 were를 not 없이 쓴다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] (첫째 빈칸) wasn't → weren't. 앞의 Was/Were 질문에 No로 답하므로 they에 맞는 부정형 weren’t를 쓴다. (둘째 빈칸) were: 둘째 문장은 하고 있던 동작을 긍정한다. 주어 they에 맞는 과거 be동사 were를 not 없이 쓴다.\n② [오답] (첫째 빈칸) weren't: 앞의 Was/Were 질문에 No로 답하므로 they에 맞는 부정형 weren’t를 쓴다. (둘째 빈칸) was → were. 둘째 문장은 하고 있던 동작을 긍정한다. 주어 they에 맞는 과거 be동사 were를 not 없이 쓴다.\n③ [오답] (첫째 빈칸) was → weren't. 앞의 Was/Were 질문에 No로 답하므로 they에 맞는 부정형 weren’t를 쓴다. (둘째 빈칸) wasn't → were. 둘째 문장은 하고 있던 동작을 긍정한다. 주어 they에 맞는 과거 be동사 were를 not 없이 쓴다.\n④ [정답] (첫째 빈칸) weren't: 앞의 Was/Were 질문에 No로 답하므로 they에 맞는 부정형 weren’t를 쓴다. (둘째 빈칸) were: 둘째 문장은 하고 있던 동작을 긍정한다. 주어 they에 맞는 과거 be동사 were를 not 없이 쓴다.\n⑤ [오답] (첫째 빈칸) didn't → weren't. 앞의 Was/Were 질문에 No로 답하므로 they에 맞는 부정형 weren’t를 쓴다. (둘째 빈칸) was → were. 둘째 문장은 하고 있던 동작을 긍정한다. 주어 they에 맞는 과거 be동사 were를 not 없이 쓴다.",
+    "passage": null,
+    "stem": "다음 대화의 빈칸에 들어갈 말이 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T06:34:26.764Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T06:34:29.036Z",
+      "what": "확인 완료"
+    }
+  }
+}

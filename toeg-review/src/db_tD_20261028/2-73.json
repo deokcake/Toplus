@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T16:44:45.389Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "The <u>crying</u> baby needs some milk.",
+      "1": "The letter <u>writing</u> by my grandma made me cry.",
+      "2": "The students <u>waiting</u> outside look cold.",
+      "3": "We ate some <u>fried</u> rice.",
+      "4": "This is a picture <u>painted</u> by Picasso."
+    },
+    "expl": "핵심 규칙: 명사가 직접 하는 동작은 현재분사로, 동작을 받거나 그 결과 상태에 있는 명사는 과거분사로 꾸민다.\n풀이 순서: ① 밑줄 친 분사가 꾸미는 명사를 찾아 ‘명사가 ~하다’(능동)인지 ‘명사가 ~되다’(수동)인지 본다. → ② 능동이면 -ing, 수동이면 과거분사다. by ~, 과거 시점 표현은 수동의 단서다. → ③ 선택지 ②가 어색하다: 편지는 쓰‘인’ 것이므로(by my grandma) written이 맞다.\n문장별 판정:\n정답 판단: 명사(The letter)는 쓰인 대상이므로 과거분사(written)로 써야 한다. 어색한 부분이므로 정답은 ②이다.\n선택지 분석:\n① [오답] 현재분사: 명사(baby)가 직접 우는 능동 관계라 알맞으므로 오답이다.\n② [정답] 명사(The letter)는 쓰인 대상이므로 과거분사(written)로 써야 한다. 어색한 부분이므로 정답이다.\n③ [오답] 현재분사: 명사(The students)가 직접 기다리는 능동 관계라 알맞으므로 오답이다.\n④ [오답] 과거분사: 명사(rice)가 볶아진 수동 관계라 알맞으므로 오답이다.\n⑤ [오답] 과거분사: 명사(a picture)가 그려진 수동 관계라 알맞으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T16:44:33.115Z"
+  },
+  "tab": "8s1sfi09",
+  "updatedAt": "2026-10-23T16:44:45.389Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:44:45.389Z",
+      "what": "확인 완료"
+    }
+  }
+}

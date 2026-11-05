@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:54:04.446Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "(C), (D)",
+      "1": "(B), (C)",
+      "2": "(A), (D)",
+      "3": "(A), (C)",
+      "4": "(A), (B)"
+    },
+    "expl": "핵심 규칙: 미래의 시간·조건을 나타내는 부사절(when, after, until, if, unless 등)에서는 미래의 일도 현재형으로 쓴다.\n풀이 순서: ① 밑줄은 모두 when, if, after, until, unless가 이끄는 부사절 안의 동사다. → ② 시간·조건의 부사절에서는 미래의 일도 현재형으로 쓴다. 밑줄에 will이 있으면 틀린 것이다: (B) will get, (C) will snow. → ③ 남은 두 문장을 묶은 (A), (D)가 정답이다.\n문장별 판정:\n(A) O. 조건 부사절(if)에서 현재형으로 미래를 나타냈다.\n(B) X. 시간 부사절(when)에는 현재형을 쓴다: will get → gets.\n(C) X. 조건 부사절(if)에는 현재형을 쓴다: will snow → snows.\n(D) O. 시간 부사절(until)에서 현재형으로 미래를 나타냈다.\n정답 판단: 옳은 문장은 (A), (D)이다.\n선택지 분석:\n① [오답] (C)는 옳은 문장이 아니고, 옳은 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (B), (C)는 옳은 문장이 아니고, 옳은 문장 (A), (D)를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 옳은 문장 (A), (D)를 빠짐없이 골랐으므로 정답이다.\n④ [오답] (C)는 옳은 문장이 아니고, 옳은 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (B)는 옳은 문장이 아니고, 옳은 문장 (D)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(A) I'll tell you right away if I <u>find</u> your lost key.\n(B) We will leave for the airport when Tom <u>will get</u> here.\n(C) If it <u>will snow</u> heavily tomorrow morning, our school will close.\n(D) I'll stay in my seat quietly until the movie finally <u>ends</u>.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T10:11:38.364Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T10:11:46.315Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:54:04.446Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:53:54.862Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:54:04.446Z",
+      "what": "확인 완료"
+    }
+  }
+}

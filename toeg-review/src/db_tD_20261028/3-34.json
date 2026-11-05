@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:06:43.831Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "be - was - am",
+      "1": "be - was - is",
+      "2": "being - was - am",
+      "3": "is - was - be",
+      "4": "be - were - am"
+    },
+    "expl": "핵심 규칙: 미래는 will + 동사원형 또는 be going to + 동사원형으로 나타내며, be going to와 과거진행형(was/were + -ing)의 be동사는 주어의 인칭·수에 맞춘다.\n풀이 순서: ① 첫째 빈칸은 will 뒤다. 조동사 뒤이므로 원형 be가 온다. → ② 둘째 빈칸은 과거진행형(-ing, when ~)이다. 주어(Jane)에 맞춰 was를 쓴다. → ③ 셋째 빈칸은 be going to다. 주어(I)에 맞춰 am을 쓴다. 정답은 ①.\n문장별 판정:\n정답 판단: will 뒤 원형 be, 주어(Jane)에 맞춘 was, 주어(I)에 맞춘 am이다.\n선택지 분석:\n① [정답] be - was - am: 세 빈칸이 모두 알맞으므로 정답이다.\n② [오답] 셋째 빈칸 is: be going to의 be동사는 주어(I)에 맞춰 am를 쓴다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 being: will 뒤에는 동사원형 be를 쓴다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 is: will 뒤에는 동사원형 be를 쓴다. 셋째 빈칸 be: be going to의 be동사는 주어(I)에 맞춰 am를 쓴다. 따라서 오답이다.\n⑤ [오답] 둘째 빈칸 were: 과거진행형의 be동사는 주어(Jane)에 맞춰 was를 쓴다. 따라서 오답이다.",
+    "passage": "I will _____ busy with my homework tomorrow.\nJane _____ reading a book when I arrived home.\nI _____ going to study math tonight.",
+    "stem": "다음 빈칸에 들어갈 단어들이 알맞게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T17:58:33.043Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T17:58:41.087Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:06:43.831Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:06:38.845Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:06:43.831Z",
+      "what": "확인 완료"
+    }
+  }
+}

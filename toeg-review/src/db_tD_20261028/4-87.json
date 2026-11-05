@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T04:10:31.254Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "during - during",
+      "1": "during - for",
+      "2": "for - during",
+      "3": "while - for",
+      "4": "for - while"
+    },
+    "expl": "핵심 규칙: for는 기간의 길이(an hour, two hours), during은 특정한 때(the lesson, the movie, the test) 앞에 쓰고, while은 뒤에 주어 + 동사가 오는 절을 이끈다.\n풀이 순서: ① 빈칸 뒤의 말을 본다. 숫자가 든 기간의 길이면 for, 특정한 때를 나타내는 명사면 during, 주어 + 동사면 while이다. → ② two hours는 기간의 길이이므로 for, the boring movie는 특정한 때를 나타내는 명사구이므로 during이다. → ③ 정답은 for - during.\n문장별 판정:\n정답 판단: 첫째 빈칸 뒤 two hours는 기간의 길이라 for, 둘째 빈칸 뒤 the boring movie는 특정한 때를 나타내는 명사구라 during이 알맞다. 정답은 ③이다.\n선택지 분석:\n① [오답] 첫째 빈칸 during: for는 기간의 길이 앞에 쓴다(→ for). 따라서 오답이다.\n② [오답] 첫째 빈칸 during: for는 기간의 길이 앞에 쓴다(→ for), 둘째 빈칸 for: during은 특정한 때를 나타내는 명사 앞에 쓴다(→ during). 따라서 오답이다.\n③ [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n④ [오답] 첫째 빈칸 while: for는 기간의 길이 앞에 쓴다(→ for), 둘째 빈칸 for: during은 특정한 때를 나타내는 명사 앞에 쓴다(→ during). 따라서 오답이다.\n⑤ [오답] 둘째 빈칸 while: during은 특정한 때를 나타내는 명사 앞에 쓴다(→ during). 따라서 오답이다.",
+    "passage": "I stayed at the library ________ two hours.\nMy brother slept ________ the boring movie.",
+    "stem": "다음 문장의 빈칸에 들어갈 말이 순서대로 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:33:59.200Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:34:21.425Z",
+      "text": "기준 문한에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:10:31.254Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:10:27.212Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:10:31.254Z",
+      "what": "확인 완료"
+    }
+  }
+}

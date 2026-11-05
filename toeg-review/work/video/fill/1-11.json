@@ -1,0 +1,471 @@
+{
+ "A": {
+  "title": "주어 He의 습관과 미래 의문문",
+  "intro": "이 문제는 He의 습관을 말하는 동사의 형태와 미래를 묻는 의문문의 첫 낱말을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오. He 빈칸 his guitar every evening, 빈칸 they attend the conference next month? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지금 되풀이하는 습관·일정 → 현재형 (every day, on Mondays)",
+    "현재형, 주어가 3인칭 단수 → 동사 + s/es (have → has)",
+    "앞으로의 일 묻기 → Will + 주어 + 동사원형 ~?",
+    "예) Amy walks every day. Will she walk tomorrow? (에이미는 매일 걸어요. 내일 걸을까요?)"
+   ],
+   "narration": "지금 되풀이하는 습관이나 일정은 현재형으로 쓰고, 주어가 3인칭 단수이면 동사에 s나 es를 붙이는데, have는 has로 써요. 앞으로의 일은 Will을 주어 앞에, 동사원형을 주어 뒤에 써서 물을 수 있어요. Amy walks every day. 에이미는 매일 걸어요. Will she walk tomorrow? 내일 걸을까요?"
+  },
+  "steps": [
+   {
+    "note": "every evening = 지금 매일 저녁 하는 습관 → 현재형, He = 3인칭 단수 → plays. play를 쓴 ②⑤ 지움",
+    "highlight": [
+     "He",
+     "every evening"
+    ],
+    "strike": [
+     "② play — Will",
+     "⑤ play — Do"
+    ],
+    "narration": "첫째, 첫 문장은 every evening, 곧 지금 매일 저녁 하는 습관이라 현재형을 쓰고, 주어 He는 3인칭 단수라 plays를 써요. play를 쓴 2번과 5번을 지워요."
+   },
+   {
+    "note": "주어 they 뒤 동사원형 attend → be동사 Are ✗(①), next month = 앞으로의 일 → 과거를 묻는 Did ✗(③)",
+    "highlight": [
+     "attend",
+     "next month"
+    ],
+    "strike": [
+     "① plays — Are",
+     "③ played — Did"
+    ],
+    "narration": "둘째, 의문문은 주어 they 뒤에 동사원형 attend가 있어 be동사 Are는 쓸 수 없고, next month는 앞으로의 일이라 과거를 묻는 Did도 맞지 않으니 1번과 3번을 지워요."
+   },
+   {
+    "note": "남는 ④ plays — Will",
+    "highlight": [
+     "④ plays — Will"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 4번을 넣으면 He plays his guitar every evening, 그는 매일 저녁 기타를 쳐요. Will they attend the conference next month? 그들은 다음 달 회의에 참석할까요?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① plays — Are  ✗  Are로 시작한 의문문에 동사원형 attend는 못 써요",
+    "② play — Will  ✗  Will은 맞지만 He에는 plays를 써요",
+    "③ played — Did  ✗  Did는 과거를 묻는 말이라 next month와 안 맞아요",
+    "④ plays — Will  ✓  지금의 습관은 plays, 다음 달의 일을 묻는 Will",
+    "⑤ play — Do  ✗  He에는 plays, 둘째 칸도 Do보다 Will이 알맞아요"
+   ],
+   "narration": "정답은 4번 plays와 Will이에요. 2번은 Will은 맞지만, 주어 He가 3인칭 단수라 plays를 써야 해요. 1번은 plays는 맞지만, Are로 시작한 의문문에는 주어 뒤에 동사원형 attend를 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "지금의 습관 → 현재형 · 앞으로의 일 묻기 → Will + 주어 + 동사원형 ~?",
+   "narration": "정답은 4번이에요. 기억할 것, 지금의 습관은 현재형으로 쓰고, 앞으로의 일은 Will과 동사원형으로 물을 수 있어요."
+  },
+  "captions": [
+   "He의 습관과 미래 의문문",
+   "먼저 풀어 보세요",
+   "습관은 현재형, 미래 질문은 Will",
+   "He → plays, 동사원형 앞 → Will",
+   "정답 ④ plays — Will",
+   "지금 습관은 현재형, 미래는 Will"
+  ],
+  "sec": [
+   11,
+   19,
+   26,
+   37,
+   20,
+   11
+  ]
+ },
+ "B": {
+  "title": "도서관 일정과 미래 의문문",
+  "intro": "이 문제는 도서관 일정을 말하는 동사의 형태와 미래를 묻는 의문문의 첫 낱말을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오. The library 빈칸 at nine on weekdays, 빈칸 it remain open later tomorrow? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지금 되풀이하는 습관·일정 → 현재형 (every day, on Mondays)",
+    "현재형, 주어가 3인칭 단수 → 동사 + s/es (have → has)",
+    "앞으로의 일 묻기 → Will + 주어 + 동사원형 ~?",
+    "예) Amy walks every day. Will she walk tomorrow? (에이미는 매일 걸어요. 내일 걸을까요?)"
+   ],
+   "narration": "지금 되풀이하는 습관이나 일정은 현재형으로 쓰고, 주어가 3인칭 단수이면 동사에 s나 es를 붙이는데, have는 has로 써요. 앞으로의 일은 Will을 주어 앞에, 동사원형을 주어 뒤에 써서 물을 수 있어요. Amy walks every day. 에이미는 매일 걸어요. Will she walk tomorrow? 내일 걸을까요?"
+  },
+  "steps": [
+   {
+    "note": "첫 빈칸 = 주어 The library 뒤 동사 자리. ing형 closing ✗, 3인칭 단수의 현재형은 close가 아니라 closes → ②④ 지움",
+    "highlight": [
+     "The library",
+     "on weekdays"
+    ],
+    "strike": [
+     "② close - Did",
+     "④ closing - Will"
+    ],
+    "narration": "첫째, 첫 빈칸은 주어 The library 뒤의 동사 자리예요. ing형 closing은 혼자서 동사가 될 수 없고, 주어가 3인칭 단수라 현재형은 close가 아니라 closes여서 2번과 4번을 지워요."
+   },
+   {
+    "note": "주어 it 뒤 동사원형 remain → be동사 Are ✗(⑤), it에는 Do가 아니라 Does ✗(①)",
+    "highlight": [
+     "remain",
+     "tomorrow"
+    ],
+    "strike": [
+     "① closed - Do",
+     "⑤ will close - Are"
+    ],
+    "narration": "둘째, 의문문은 주어 it 뒤에 동사원형 remain이 있어 be동사 Are는 쓸 수 없고, 주어 it에는 Do가 아니라 Does를 쓰니 1번과 5번도 지워요."
+   },
+   {
+    "note": "남는 ③ closes - Will: 평일 일정은 현재형 closes, 내일의 일은 Will",
+    "highlight": [
+     "③ closes - Will"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 3번을 넣으면 The library closes at nine on weekdays, 그 도서관은 평일에는 9시에 문을 닫아요. Will it remain open later tomorrow? 내일은 더 늦게까지 열까요?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① closed - Do  ✗  주어 it에는 Do가 아니라 Does를 써요",
+    "② close - Did  ✗  The library에는 closes, Did는 tomorrow와 안 맞아요",
+    "③ closes - Will  ✓  평일 일정은 현재형 closes, 내일의 일을 묻는 Will",
+    "④ closing - Will  ✗  ing형 closing은 혼자 동사가 될 수 없어요",
+    "⑤ will close - Are  ✗  Are로 시작한 의문문에 동사원형 remain은 못 써요"
+   ],
+   "narration": "정답은 3번 closes와 Will이에요. 5번의 will close는 첫 빈칸에 쓸 수 있지만, Are로 시작한 의문문에는 주어 뒤에 동사원형 remain을 쓸 수 없어요. 4번은 Will은 맞지만, ing형 closing은 혼자서 동사가 될 수 없어요."
+  },
+  "summary": {
+   "card": "되풀이되는 일정 → 현재형 · 앞으로의 일 묻기 → Will + 주어 + 동사원형 ~?",
+   "narration": "정답은 3번이에요. 기억할 것, 되풀이되는 일정은 현재형으로 쓰고, 앞으로의 일은 Will과 동사원형으로 물을 수 있어요."
+  },
+  "captions": [
+   "도서관 일정과 미래 의문문",
+   "먼저 풀어 보세요",
+   "일정은 현재형, 미래 질문은 Will",
+   "동사 자리 → it remain → Will",
+   "정답 ③ closes - Will",
+   "일정은 현재형, 미래는 Will"
+  ],
+  "sec": [
+   11,
+   19,
+   26,
+   37,
+   20,
+   11
+  ]
+ },
+ "C": {
+  "title": "주어 Mina의 습관과 미래 의문문",
+  "intro": "이 문제는 Mina의 습관을 말하는 동사의 형태와 미래를 묻는 의문문의 첫 낱말을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오. Mina 빈칸 the piano after dinner every day, 빈칸 she join the orchestra next semester? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지금 되풀이하는 습관·일정 → 현재형 (every day, on Mondays)",
+    "현재형, 주어가 3인칭 단수 → 동사 + s/es (have → has)",
+    "앞으로의 일 묻기 → Will + 주어 + 동사원형 ~?",
+    "예) Amy walks every day. Will she walk tomorrow? (에이미는 매일 걸어요. 내일 걸을까요?)"
+   ],
+   "narration": "지금 되풀이하는 습관이나 일정은 현재형으로 쓰고, 주어가 3인칭 단수이면 동사에 s나 es를 붙이는데, have는 has로 써요. 앞으로의 일은 Will을 주어 앞에, 동사원형을 주어 뒤에 써서 물을 수 있어요. Amy walks every day. 에이미는 매일 걸어요. Will she walk tomorrow? 내일 걸을까요?"
+  },
+  "steps": [
+   {
+    "note": "every day = 지금 매일 하는 습관 → 현재형, Mina = 3인칭 단수 → practices. practice를 쓴 ③⑤ 지움",
+    "highlight": [
+     "Mina",
+     "every day"
+    ],
+    "strike": [
+     "③ practice — Will",
+     "⑤ practice — Do"
+    ],
+    "narration": "첫째, 첫 문장은 every day, 곧 지금 매일 하는 습관이라 현재형을 쓰고, 주어 Mina는 3인칭 단수라 practices를 써요. practice를 쓴 3번과 5번을 지워요."
+   },
+   {
+    "note": "주어 she 뒤 동사원형 join → be동사 Are ✗(①), next semester = 앞으로의 일 → 과거를 묻는 Did ✗(④)",
+    "highlight": [
+     "join",
+     "next semester"
+    ],
+    "strike": [
+     "① practices — Are",
+     "④ practiced — Did"
+    ],
+    "narration": "둘째, 의문문은 주어 she 뒤에 동사원형 join이 있어 be동사 Are는 쓸 수 없고, next semester는 앞으로의 일이라 과거를 묻는 Did도 맞지 않으니 1번과 4번을 지워요."
+   },
+   {
+    "note": "남는 ② practices — Will",
+    "highlight": [
+     "② practices — Will"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 2번을 넣으면 Mina practices the piano after dinner every day, 미나는 매일 저녁 식사 후 피아노를 연습해요. Will she join the orchestra next semester? 다음 학기에 오케스트라에 들어갈까요?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① practices — Are  ✗  Are로 시작한 의문문에 동사원형 join은 못 써요",
+    "② practices — Will  ✓  지금의 습관은 practices, 다음 학기의 일을 묻는 Will",
+    "③ practice — Will  ✗  Will은 맞지만 Mina에는 practices를 써요",
+    "④ practiced — Did  ✗  Did는 과거를 묻는 말이라 next semester와 안 맞아요",
+    "⑤ practice — Do  ✗  Mina에는 practices, she에는 Do가 아니라 Does"
+   ],
+   "narration": "정답은 2번 practices와 Will이에요. 3번은 Will은 맞지만, 주어 Mina가 3인칭 단수라 practices를 써야 해요. 1번은 practices는 맞지만, Are로 시작한 의문문에는 주어 뒤에 동사원형 join을 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "지금의 습관 → 현재형 · 앞으로의 일 묻기 → Will + 주어 + 동사원형 ~?",
+   "narration": "정답은 2번이에요. 기억할 것, 지금의 습관은 현재형으로 쓰고, 앞으로의 일은 Will과 동사원형으로 물을 수 있어요."
+  },
+  "captions": [
+   "Mina의 습관과 미래 의문문",
+   "먼저 풀어 보세요",
+   "습관은 현재형, 미래 질문은 Will",
+   "Mina → practices, 동사원형 앞 → Will",
+   "정답 ② practices — Will",
+   "지금 습관은 현재형, 미래는 Will"
+  ],
+  "sec": [
+   11,
+   19,
+   26,
+   37,
+   20,
+   11
+  ]
+ },
+ "D": {
+  "title": "주어 Tom의 습관과 미래 의문문",
+  "intro": "이 문제는 Tom의 습관을 말하는 동사의 형태와 미래를 묻는 의문문의 첫 낱말을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오. Tom 빈칸 to school by bike every morning, 빈칸 he take the bus next week? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지금 되풀이하는 습관·일정 → 현재형 (every day, on Mondays)",
+    "현재형, 주어가 3인칭 단수 → 동사 + s/es (have → has)",
+    "앞으로의 일 묻기 → Will + 주어 + 동사원형 ~?",
+    "예) Amy walks every day. Will she walk tomorrow? (에이미는 매일 걸어요. 내일 걸을까요?)"
+   ],
+   "narration": "지금 되풀이하는 습관이나 일정은 현재형으로 쓰고, 주어가 3인칭 단수이면 동사에 s나 es를 붙이는데, have는 has로 써요. 앞으로의 일은 Will을 주어 앞에, 동사원형을 주어 뒤에 써서 물을 수 있어요. Amy walks every day. 에이미는 매일 걸어요. Will she walk tomorrow? 내일 걸을까요?"
+  },
+  "steps": [
+   {
+    "note": "every morning = 지금 매일 아침 하는 습관 → 현재형, Tom = 3인칭 단수 → rides. ride를 쓴 ④⑤ 지움",
+    "highlight": [
+     "Tom",
+     "every morning"
+    ],
+    "strike": [
+     "④ ride — Will",
+     "⑤ ride — Do"
+    ],
+    "narration": "첫째, 첫 문장은 every morning, 곧 지금 매일 아침 하는 습관이라 현재형을 쓰고, 주어 Tom은 3인칭 단수라 rides를 써요. ride를 쓴 4번과 5번을 지워요."
+   },
+   {
+    "note": "주어 he 뒤 동사원형 take → be동사 Are ✗(③), next week = 앞으로의 일 → 과거를 묻는 Did ✗(①)",
+    "highlight": [
+     "take",
+     "next week"
+    ],
+    "strike": [
+     "① rode — Did",
+     "③ rides — Are"
+    ],
+    "narration": "둘째, 의문문은 주어 he 뒤에 동사원형 take가 있어 be동사 Are는 쓸 수 없고, next week는 앞으로의 일이라 과거를 묻는 Did도 맞지 않으니 1번과 3번을 지워요."
+   },
+   {
+    "note": "남는 ② rides — Will",
+    "highlight": [
+     "② rides — Will"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 2번을 넣으면 Tom rides to school by bike every morning, Tom은 매일 아침 자전거로 학교에 가요. Will he take the bus next week? 다음 주에는 버스를 탈까요?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① rode — Did  ✗  Did는 과거를 묻는 말이라 next week와 안 맞아요",
+    "② rides — Will  ✓  지금의 습관은 rides, 다음 주의 일을 묻는 Will",
+    "③ rides — Are  ✗  Are로 시작한 의문문에 동사원형 take는 못 써요",
+    "④ ride — Will  ✗  Will은 맞지만 Tom에는 rides를 써요",
+    "⑤ ride — Do  ✗  Tom에는 rides, he에는 Do가 아니라 Does"
+   ],
+   "narration": "정답은 2번 rides와 Will이에요. 4번은 Will은 맞지만, 주어 Tom이 3인칭 단수라 rides를 써야 해요. 3번은 rides는 맞지만, Are로 시작한 의문문에는 주어 뒤에 동사원형 take를 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "지금의 습관 → 현재형 · 앞으로의 일 묻기 → Will + 주어 + 동사원형 ~?",
+   "narration": "정답은 2번이에요. 기억할 것, 지금의 습관은 현재형으로 쓰고, 앞으로의 일은 Will과 동사원형으로 물을 수 있어요."
+  },
+  "captions": [
+   "Tom의 습관과 미래 의문문",
+   "먼저 풀어 보세요",
+   "습관은 현재형, 미래 질문은 Will",
+   "Tom → rides, 동사원형 앞 → Will",
+   "정답 ② rides — Will",
+   "지금 습관은 현재형, 미래는 Will"
+  ],
+  "sec": [
+   11,
+   19,
+   26,
+   37,
+   20,
+   11
+  ]
+ },
+ "E": {
+  "title": "주어 My dad의 습관과 미래 의문문",
+  "intro": "이 문제는 아빠의 습관을 말하는 동사의 형태와 미래를 묻는 의문문의 첫 낱말을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오. My dad 빈칸 coffee every morning, 빈칸 he stop drinking it next month? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지금 되풀이하는 습관·일정 → 현재형 (every day, on Mondays)",
+    "현재형, 주어가 3인칭 단수 → 동사 + s/es (have → has)",
+    "앞으로의 일 묻기 → Will + 주어 + 동사원형 ~?",
+    "예) Amy walks every day. Will she walk tomorrow? (에이미는 매일 걸어요. 내일 걸을까요?)"
+   ],
+   "narration": "지금 되풀이하는 습관이나 일정은 현재형으로 쓰고, 주어가 3인칭 단수이면 동사에 s나 es를 붙이는데, have는 has로 써요. 앞으로의 일은 Will을 주어 앞에, 동사원형을 주어 뒤에 써서 물을 수 있어요. Amy walks every day. 에이미는 매일 걸어요. Will she walk tomorrow? 내일 걸을까요?"
+  },
+  "steps": [
+   {
+    "note": "every morning = 지금 매일 아침 하는 습관 → 현재형, My dad = 3인칭 단수 → drinks. drink를 쓴 ④⑤ 지움",
+    "highlight": [
+     "My dad",
+     "every morning"
+    ],
+    "strike": [
+     "④ drink — Will",
+     "⑤ drink — Do"
+    ],
+    "narration": "첫째, 첫 문장은 every morning, 곧 지금 매일 아침 하는 습관이라 현재형을 쓰고, 주어 My dad는 3인칭 단수라 drinks를 써요. drink를 쓴 4번과 5번을 지워요."
+   },
+   {
+    "note": "주어 he 뒤 동사원형 stop → be동사 Are ✗(①), next month = 앞으로의 일 → 과거를 묻는 Did ✗(②)",
+    "highlight": [
+     "stop",
+     "next month"
+    ],
+    "strike": [
+     "① drinks — Are",
+     "② drank — Did"
+    ],
+    "narration": "둘째, 의문문은 주어 he 뒤에 동사원형 stop이 있어 be동사 Are는 쓸 수 없고, next month는 앞으로의 일이라 과거를 묻는 Did도 맞지 않으니 1번과 2번을 지워요."
+   },
+   {
+    "note": "남는 ③ drinks — Will",
+    "highlight": [
+     "③ drinks — Will"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 3번을 넣으면 My dad drinks coffee every morning, 우리 아빠는 매일 아침 커피를 마셔요. Will he stop drinking it next month? 다음 달에는 커피를 끊을까요?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① drinks — Are  ✗  Are로 시작한 의문문에 동사원형 stop은 못 써요",
+    "② drank — Did  ✗  Did는 과거를 묻는 말이라 next month와 안 맞아요",
+    "③ drinks — Will  ✓  지금의 습관은 drinks, 다음 달의 일을 묻는 Will",
+    "④ drink — Will  ✗  Will은 맞지만 My dad에는 drinks를 써요",
+    "⑤ drink — Do  ✗  My dad에는 drinks, he에는 Do가 아니라 Does"
+   ],
+   "narration": "정답은 3번 drinks와 Will이에요. 4번은 Will은 맞지만, 주어 My dad가 3인칭 단수라 drinks를 써야 해요. 1번은 drinks는 맞지만, Are로 시작한 의문문에는 주어 뒤에 동사원형 stop을 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "지금의 습관 → 현재형 · 앞으로의 일 묻기 → Will + 주어 + 동사원형 ~?",
+   "narration": "정답은 3번이에요. 기억할 것, 지금의 습관은 현재형으로 쓰고, 앞으로의 일은 Will과 동사원형으로 물을 수 있어요."
+  },
+  "captions": [
+   "My dad의 습관과 미래 의문문",
+   "먼저 풀어 보세요",
+   "습관은 현재형, 미래 질문은 Will",
+   "My dad → drinks, 동사원형 앞 → Will",
+   "정답 ③ drinks — Will",
+   "지금 습관은 현재형, 미래는 Will"
+  ],
+  "sec": [
+   11,
+   19,
+   26,
+   37,
+   20,
+   11
+  ]
+ },
+ "F": {
+  "title": "주어 Jane의 습관과 미래 의문문",
+  "intro": "이 문제는 Jane의 습관을 말하는 동사의 형태와 미래를 묻는 의문문의 첫 낱말을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오. Jane 빈칸 English on Tuesdays, 빈칸 she take French next year? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지금 되풀이하는 습관·일정 → 현재형 (every day, on Mondays)",
+    "현재형, 주어가 3인칭 단수 → 동사 + s/es (have → has)",
+    "자음 + y로 끝나면 y → i + es (carry → carries)",
+    "앞으로의 일 묻기 → Will + 주어 + 동사원형 ~?",
+    "예) Amy walks every day. Will she walk tomorrow? (에이미는 매일 걸어요. 내일 걸을까요?)"
+   ],
+   "narration": "지금 되풀이하는 습관은 현재형으로 쓰고, 주어가 3인칭 단수이면 동사에 s나 es를 붙이는데, have는 has로 써요. carry처럼 자음 뒤 y로 끝나면 y를 i로 바꾸고 es를 붙여요. 앞으로의 일은 Will을 주어 앞에, 동사원형을 주어 뒤에 써서 물을 수 있어요. Amy walks every day. 에이미는 매일 걸어요. Will she walk tomorrow? 내일 걸을까요?"
+  },
+  "steps": [
+   {
+    "note": "on Tuesdays = 지금 화요일마다 하는 일 → 현재형, Jane = 3인칭 단수 → studies(y → i + es). study를 쓴 ①② 지움",
+    "highlight": [
+     "Jane",
+     "on Tuesdays"
+    ],
+    "strike": [
+     "① study — Will",
+     "② study — Do"
+    ],
+    "narration": "첫째, 첫 문장은 on Tuesdays, 곧 지금 화요일마다 하는 일이라 현재형을 쓰고, 주어 Jane은 3인칭 단수라 studies를 써요. study를 쓴 1번과 2번을 지워요."
+   },
+   {
+    "note": "주어 she 뒤 동사원형 take → be동사 Are ✗(③), next year = 앞으로의 일 → 과거를 묻는 Did ✗(⑤)",
+    "highlight": [
+     "take",
+     "next year"
+    ],
+    "strike": [
+     "③ studies — Are",
+     "⑤ studied — Did"
+    ],
+    "narration": "둘째, 의문문은 주어 she 뒤에 동사원형 take가 있어 be동사 Are는 쓸 수 없고, next year는 앞으로의 일이라 과거를 묻는 Did도 맞지 않으니 3번과 5번을 지워요."
+   },
+   {
+    "note": "남는 ④ studies — Will",
+    "highlight": [
+     "④ studies — Will"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 4번을 넣으면 Jane studies English on Tuesdays, Jane은 화요일마다 영어를 공부해요. Will she take French next year? 내년에는 프랑스어 수업을 들을까요?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① study — Will  ✗  Will은 맞지만 Jane에는 studies를 써요",
+    "② study — Do  ✗  Jane에는 studies, she에는 Do가 아니라 Does",
+    "③ studies — Are  ✗  Are로 시작한 의문문에 동사원형 take는 못 써요",
+    "④ studies — Will  ✓  지금의 습관은 studies, 내년의 일을 묻는 Will",
+    "⑤ studied — Did  ✗  Did는 과거를 묻는 말이라 next year와 안 맞아요"
+   ],
+   "narration": "정답은 4번 studies와 Will이에요. 1번은 Will은 맞지만, 주어 Jane이 3인칭 단수라 studies를 써야 해요. 3번은 studies는 맞지만, Are로 시작한 의문문에는 주어 뒤에 동사원형 take를 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "지금의 습관 → 현재형 · 앞으로의 일 묻기 → Will + 주어 + 동사원형 ~?",
+   "narration": "정답은 4번이에요. 기억할 것, 지금의 습관은 현재형으로 쓰고, 앞으로의 일은 Will과 동사원형으로 물을 수 있어요."
+  },
+  "captions": [
+   "Jane의 습관과 미래 의문문",
+   "먼저 풀어 보세요",
+   "습관은 현재형, 미래 질문은 Will",
+   "Jane → studies, 동사원형 앞 → Will",
+   "정답 ④ studies — Will",
+   "지금 습관은 현재형, 미래는 Will"
+  ],
+  "sec": [
+   11,
+   19,
+   30,
+   38,
+   20,
+   11
+  ]
+ }
+}

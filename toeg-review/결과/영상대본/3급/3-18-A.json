@@ -1,0 +1,179 @@
+{
+ "key": "3-18",
+ "type": "A",
+ "grade": 3,
+ "chapter": "CH 2 일반동사",
+ "title": "일반동사 현재 부정문 does not",
+ "total_sec": 133,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "3급 · CH 2 일반동사 · 18번\n\n이 문제는 주어 He와 일반동사 watches가 쓰인 현재 문장을 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 2 일반동사 · 18번",
+     "이 문제는 주어 He와 일반동사 watches가 쓰인 현재 문장을 부정문으로 바르게 바꾼 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 2, 18번. 이 문제는 주어 He와 일반동사 watches가 쓰인 현재 문장을 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+   "caption": "일반동사 현재 부정문"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 문장을 부정문으로 바꾼 것을 고르시오.\n\nHe watches TV every evening.\n\n① He not watches TV every evening.\n② He does not watches TV every evening.\n③ He doesn’t watching TV every evening.\n④ He does not watch TV every evening.\n⑤ He isn’t watch TV every evening.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장을 부정문으로 바꾼 것을 고르시오.",
+     "He watches TV every evening.",
+     "① He not watches TV every evening.",
+     "② He does not watches TV every evening.",
+     "③ He doesn’t watching TV every evening.",
+     "④ He does not watch TV every evening.",
+     "⑤ He isn’t watch TV every evening."
+    ]
+   },
+   "narration": "다음 문장을 부정문으로 바꾼 것을 고르세요. He watches TV every evening. 그는 매일 저녁 텔레비전을 봐요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\n일반동사 현재 문장의 부정문(~하지 않아요) → do/does + not + 동사원형\n3인칭 단수 주어(he, she, it, Mina 등) → does not (줄여서 doesn't)\nI, you, 복수 주어(we, they 등) → do not (줄여서 don't)\ndo not, does not 뒤의 동사는 원형 (reads → read)\n예) Mina reads comics. → Mina doesn't read comics. (미나는 만화책을 읽지 않아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "일반동사 현재 문장의 부정문(~하지 않아요) → do/does + not + 동사원형",
+     "3인칭 단수 주어(he, she, it, Mina 등) → does not (줄여서 doesn't)",
+     "I, you, 복수 주어(we, they 등) → do not (줄여서 don't)",
+     "do not, does not 뒤의 동사는 원형 (reads → read)",
+     "예) Mina reads comics. → Mina doesn't read comics. (미나는 만화책을 읽지 않아요.)"
+    ]
+   },
+   "narration": "일반동사 현재 문장을 하지 않는다는 뜻의 부정문으로 바꿀 때는 동사 앞에 do not이나 does not을 써요. 주어가 he, she, it 같은 3인칭 단수이면 does not, I, you나 복수이면 do not을 쓰고, 줄이면 doesn't, don't예요. 뒤에는 동사원형을 써요. 예를 들어 Mina reads comics는 Mina doesn't read comics가 돼요. 미나는 만화책을 읽지 않아요.",
+   "caption": "do/does not + 동사원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 33,
+   "screen": {
+    "text": "다음 문장을 부정문으로 바꾼 것을 고르시오.\n\nHe watches TV every evening.\n\n① He not watches TV every evening.\n② He does not watches TV every evening.\n③ He doesn’t watching TV every evening.\n④ He does not watch TV every evening.\n⑤ He isn’t watch TV every evening.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "He watches TV every evening."
+      ],
+      "strike": [
+       "① He not watches TV every evening.",
+       "⑤ He isn’t watch TV every evening."
+      ],
+      "note": "watches = 일반동사 현재형 → do/does가 필요. not만 넣은 ①, be동사 isn't를 쓴 ⑤ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "He watches TV every evening."
+      ],
+      "strike": [
+       "② He does not watches TV every evening.",
+       "③ He doesn’t watching TV every evening."
+      ],
+      "note": "He = 3인칭 단수 → does not + 동사원형. watches(②), watching(③) 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ He does not watch TV every evening."
+      ],
+      "strike": [],
+      "note": "남는 것: ④ does not + watch"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, watches는 일반동사의 현재형이니 do나 does가 필요해서, not만 넣은 1번과 be동사 isn't를 쓴 5번은 지워요. 둘째, 주어 He는 3인칭 단수라서 does not을 쓰고, 뒤에는 동사원형이 와요. 그래서 watches를 쓴 2번과 ing형 watching을 쓴 3번도 지워요. 셋째, 남는 것은 4번이에요. He does not watch TV every evening. 그는 매일 저녁 텔레비전을 보지 않아요.",
+   "caption": "일반동사 → He → does not watch"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① He not watches TV every evening.  ✗  does 없이 not만 넣었어요\n② He does not watches TV every evening.  ✗  does not 뒤에 watches (→ watch)\n③ He doesn’t watching TV every evening.  ✗  doesn’t 뒤에 ing형 (→ watch)\n④ He does not watch TV every evening.  ✓  He → does not + 동사원형 watch\n⑤ He isn’t watch TV every evening.  ✗  be동사 isn’t와 동사원형 watch를 나란히 썼어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① He not watches TV every evening.  ✗  does 없이 not만 넣었어요",
+     "② He does not watches TV every evening.  ✗  does not 뒤에 watches (→ watch)",
+     "③ He doesn’t watching TV every evening.  ✗  doesn’t 뒤에 ing형 (→ watch)",
+     "④ He does not watch TV every evening.  ✓  He → does not + 동사원형 watch",
+     "⑤ He isn’t watch TV every evening.  ✗  be동사 isn’t와 동사원형 watch를 나란히 썼어요"
+    ]
+   },
+   "narration": "정답은 4번이에요. 2번은 does not 뒤에 watches를 그대로 두어서 틀렸어요. does가 이미 주어에 맞춘 모양이니 동사는 원형 watch로 써요. 3번은 doesn't 뒤에 ing형 watching을 써서 틀렸어요. 5번은 be동사 isn't 뒤에 동사원형 watch를 나란히 써서 틀렸어요.",
+   "caption": "정답 ④"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ④ He does not watch TV every evening.\n\n3인칭 단수 주어 → does not + 동사원형 (I, you, 복수 → do not)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ He does not watch TV every evening.",
+     "3인칭 단수 주어 → does not + 동사원형 (I, you, 복수 → do not)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 3인칭 단수 주어에는 does not을 쓰고, 그 뒤에는 동사원형을 써요.",
+   "caption": "3인칭 단수 → does not + 원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장을 부정문으로 바꾼 것을 고르시오.",
+  "passage": "He watches TV every evening.",
+  "c": [
+   "He not watches TV every evening.",
+   "He does not watches TV every evening.",
+   "He doesn’t watching TV every evening.",
+   "He does not watch TV every evening.",
+   "He isn’t watch TV every evening."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 일반동사 현재형의 부정문은 ‘do/does + not + 동사원형’이다. 3인칭 단수 주어에는 does not을 쓰고 본동사는 원형으로 되돌린다.\n풀이 순서: ① 동사(watches)가 일반동사의 현재형이다. 부정문은 do/does + not + 동사원형이다. → ② 주어(He, 3인칭 단수)에 맞춰 does not을 쓴다. 본동사는 원형(watch)으로 되돌린다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: does not + 동사원형으로 바르게 바꿨으므로 정답은 ④이다.\n선택지 분석:\n① [오답] not만으로는 일반동사를 부정할 수 없으므로 오답이다.\n② [오답] does not 뒤에는 동사원형 watch를 써야 하므로 오답이다.\n③ [오답] doesn't 뒤에 -ing를 쓸 수 없으므로 오답이다.\n④ [정답] does not + 동사원형으로 바르게 바꿨으므로 정답이다.\n⑤ [오답] 일반동사의 부정에 be동사를 쓰지 않으므로 오답이다."
+ }
+}

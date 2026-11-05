@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:22:58.839Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "six — thousand",
+      "2": "sixteen — thousand",
+      "3": "sixty — hundred",
+      "4": "sixty — million"
+    },
+    "expl": "핵심 규칙: 큰 수는 세 자리씩 끊어 읽는다. 34,200은 thirty-four thousand two hundred처럼 앞의 두 자리를 십 단위(twenty, forty, sixty …)로 읽고 thousand를 붙인다. hundred·thousand에는 -s를 붙이지 않는다.\n풀이 순서: ① 쉼표에서 끊는다: 62 / 100. → ② 쉼표 앞의 수를 읽는다: 62는 sixty-two. → ③ 쉼표 자리는 천 단위이므로 thousand다. 정답은 sixty — thousand.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n② [오답] (A) six: 62의 앞자리는 십 단위 sixty로 읽는다. 따라서 오답이다.\n③ [오답] (A) sixteen: 62의 앞자리는 십 단위 sixty로 읽는다. 따라서 오답이다.\n④ [오답] (B) hundred: 천 단위는 thousand로 읽는다. 따라서 오답이다.\n⑤ [오답] (B) million: 천 단위는 thousand로 읽는다. 따라서 오답이다.",
+    "passage": "62,100은 (   A   )-two (   B   ) one hundred라고 읽습니다.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:22:56.599Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:22:58.839Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:22:58.839Z",
+      "what": "확인 완료"
+    }
+  }
+}

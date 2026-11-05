@@ -1,0 +1,21 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T02:39:59.666Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "expl": "핵심 규칙: 요일은 What day is it?, 날짜는 What date is it?(What's the date?), 시각은 What time is it?으로 묻는다.\n풀이 순서: ① 빈칸은 질문에 있으므로 대답을 먼저 본다. → ② 첫 대답은 8:30(시각) → time, 둘째 대답은 Monday(요일) → day. → ③ 정답은 time — day.\n문장별 판정:\n정답 판단: (첫째 빈칸) 8:30은 시각 정보이므로 What time is it?으로 묻는다. time이 알맞다. (둘째 빈칸) Monday는 요일 정보이므로 What day is it today?로 묻는다. day가 알맞다. 따라서 정답은 ②이다.\n선택지 분석:\n① [오답] (첫째 빈칸) 8:30은 시각 정보이므로 What time is it?으로 묻는다. 이 질문을 완성할 표현은 time이다. (둘째 빈칸) Monday는 요일 정보이므로 What day is it today?로 묻는다. day가 알맞다.\n② [정답] (첫째 빈칸) 8:30은 시각 정보이므로 What time is it?으로 묻는다. time이 알맞다. (둘째 빈칸) Monday는 요일 정보이므로 What day is it today?로 묻는다. day가 알맞다.\n③ [오답] (첫째 빈칸) 8:30은 시각 정보이므로 What time is it?으로 묻는다. time이 알맞다. (둘째 빈칸) Monday는 요일 정보이므로 What day is it today?로 묻는다. 이 질문을 완성할 표현은 day이다.\n④ [오답] (첫째 빈칸) 8:30은 시각 정보이므로 What time is it?으로 묻는다. 이 질문을 완성할 표현은 time이다. (둘째 빈칸) Monday는 요일 정보이므로 What day is it today?로 묻는다. day가 알맞다.\n⑤ [오답] (첫째 빈칸) 8:30은 시각 정보이므로 What time is it?으로 묻는다. 이 질문을 완성할 표현은 time이다. (둘째 빈칸) Monday는 요일 정보이므로 What day is it today?로 묻는다. 이 질문을 완성할 표현은 day이다."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:39:58.214Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:39:59.666Z",
+      "what": "확인 완료"
+    }
+  }
+}

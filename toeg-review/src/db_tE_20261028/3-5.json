@@ -1,0 +1,35 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-24T01:42:16.236Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": null,
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: be동사는 주어의 인칭·수와 시제에 맞춘다(I am, 단수 is/was, 복수·you are/were). 부정문은 be동사 뒤에 not을, 의문문은 be동사를 주어 앞에 둔다. There + be동사는 뒤의 명사에 수를 맞추고, news처럼 -s로 끝나도 단수인 명사에 주의한다.\n풀이 순서: ① 밑줄 친 be동사마다 주어를 찾는다. There로 시작하면 뒤의 명사가 주어다. → ② 주어의 수(단수·복수)와 인칭에 be동사가 맞는지 본다. → ③ ⓓ만 틀렸다. news는 단수 취급하므로 is를 쓴다. 옳은 문장은 4개이다.\n문장별 판정:\nⓐ O. 복수 주어에 are를 썼다.\nⓑ O. 단수 주어의 과거 부정에 wasn't를 썼다.\nⓒ O. 셀 수 없는 명사(water)는 단수 취급하므로 There is이다.\nⓓ X. news는 -s로 끝나도 단수 취급하므로 is를 쓴다.\nⓔ O. 주어 I의 의문문에 Am을 썼다.\n정답 판단: 밑줄 친 부분이 옳은 문장은 ⓐ, ⓑ, ⓒ, ⓔ로 4개이다.\n선택지 분석:\n① [오답] 밑줄 친 부분이 옳은 문장은 ⓐ, ⓑ, ⓒ, ⓔ로 4개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 밑줄 친 부분이 옳은 문장은 ⓐ, ⓑ, ⓒ, ⓔ로 4개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 밑줄 친 부분이 옳은 문장은 ⓐ, ⓑ, ⓒ, ⓔ로 4개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [정답] 밑줄 친 부분이 옳은 문장은 ⓐ, ⓑ, ⓒ, ⓔ로 4개이다. 이 보기의 4개는 실제 개수와 일치한다.\n⑤ [오답] 밑줄 친 부분이 옳은 문장은 ⓐ, ⓑ, ⓒ, ⓔ로 4개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "ⓐ We <u>are</u> students at the same middle school.\nⓑ Tom <u>wasn't</u> at home when I called him.\nⓒ There <u>is</u> some water in the bottle.\nⓓ The news about the game <u>are</u> good.\nⓔ <u>Am</u> I late for the meeting today?",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장의 개수를 고르시오."
+  },
+  "editors": {
+    "u_RnkZacPBvFbpSXLsuk2A3g": "2026-10-24T01:03:43.745Z"
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-24T01:42:16.236Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:42:16.236Z",
+      "what": "확인 완료"
+    },
+    "u_RnkZacPBvFbpSXLsuk2A3g": {
+      "at": "2026-10-24T01:03:43.745Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

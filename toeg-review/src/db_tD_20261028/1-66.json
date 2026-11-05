@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T07:08:51.761Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Knowing not the answer, Tom stayed silent.",
+      "1": null,
+      "2": "Not known the answer, Tom stayed silent.",
+      "3": "Not being knowing the answer, Tom stayed silent.",
+      "4": "Not having know the answer, Tom stayed silent."
+    },
+    "expl": "핵심 규칙: 부사절을 분사구문으로 바꿀 때는 접속사와 같은 주어를 빼고 동사를 분사로 바꾼다. 능동이면 -ing, 수동이면 과거분사, 먼저 일어난 일이면 Having + 과거분사를 쓰고, 뒤에 and를 붙이지 않는다.\n풀이 순서: ① 부사절에서 접속사(Because)와 주절과 같은 주어를 지운다. → ② 남은 동사(did not know)를 분사로 바꾼다. 부정어 Not을 분사 앞에 두어 Not knowing이 된다. → ③ 주절은 그대로 둔다. 접속사가 남았거나 분사의 모양이 다른 보기를 지우면 정답은 ②.\n문장별 판정:\n정답 판단: not을 분사 앞에 두고 능동 knowing을 쓴 분사구문이 바르다. 정답은 ②이다.\n선택지 분석:\n① [오답] 부정어 not은 분사 앞에 둔다. 오답이다.\n② [정답] not을 분사 앞에 두고 능동 knowing을 쓴 분사구문이 바르다. 정답이다.\n③ [오답] known은 수동이라 Tom이 답을 몰랐다는 뜻이 아니다. 오답이다.\n④ [오답] being knowing은 겹친 틀린 형태이다. 오답이다.\n⑤ [오답] having 뒤에는 과거분사가 와야 하고, 이미 모른 상태가 같은 때의 일이므로 단순형이 알맞다. 오답이다.",
+    "passage": null,
+    "stem": "다음 문장을 분사구문을 사용하여 바르게 바꾼 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T07:08:40.027Z"
+  },
+  "tab": "sj53vmnt",
+  "updatedAt": "2026-10-23T07:08:51.761Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T07:08:51.761Z",
+      "what": "확인 완료"
+    }
+  }
+}

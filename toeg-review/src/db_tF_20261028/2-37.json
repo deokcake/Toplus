@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T09:58:29.286Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "The dancer was watched perform on the big stage at the festival by them.",
+      "1": "The dancer was watched performing on the big stage at the festival by them.",
+      "2": "The dancer was watched to performing on the big stage at the festival by them.",
+      "3": "The dancer is watched performing on the big stage at the festival by them.",
+      "4": "The dancer was watching performing on the big stage at the festival by them."
+    },
+    "expl": "핵심 규칙: see/hear/watch+목적어+현재분사의 수동태는 목적어를 주어로 옮겨 be+지각동사의 과거분사+현재분사로 만든다. 원문의 과거 시제와 새 주어의 수를 유지한다.\n풀이 순서: ① 능동태의 목적어(the dancer)가 주어가 되고 동사는 ‘be동사 + 과거분사’가 된다. 능동태 동사(watched)가 과거형이므로 was watched. → ② 목적격 보어였던 현재분사(performing)는 그대로 둔다. to를 붙이거나 동사원형으로 바꾸지 않는다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: 지각동사 watch의 현재분사 보어(performing)는 수동태에서도 그대로 두므로 정답은 ②이다.\n선택지 분석:\n① [오답] 원형부정사 보어는 수동태에서 to부정사가 되고, 동사원형을 그대로 쓸 수 없으므로 오답이다.\n② [정답] 지각동사 watch의 현재분사 보어(performing)는 수동태에서도 그대로 두므로 정답이다.\n③ [오답] 지각동사의 수동태에서 to 뒤에는 동사원형이 오고, to + -ing는 쓸 수 없으므로 오답이다.\n④ [오답] 과거의 일이고, 현재형 수동태를 쓸 수 없으므로 오답이다.\n⑤ [오답] 주어 The dancer가 동작을 받는 것이고, 진행형이 아니라 be동사 + 과거분사를 써야 하므로 오답이다.",
+    "passage": "They watched the dancer performing on the big stage at the festival.",
+    "stem": "다음 문장을 수동태로 올바르게 완성한 것은?"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T09:58:29.286Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T09:58:29.286Z",
+      "what": "확인 완료"
+    }
+  }
+}

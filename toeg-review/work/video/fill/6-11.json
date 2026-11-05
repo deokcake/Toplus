@@ -1,0 +1,444 @@
+{
+ "A": {
+  "title": "명사를 대신하는 주격 대명사",
+  "intro": "이 문제는 주어진 말과 그 말을 대신하는 주격 대명사가 잘못 짝지어진 것을 고르는 문제예요.",
+  "problem_narration": "다음 주어진 명사의 주격 대명사 형태가 잘못된 것을 고르세요. 보기마다 왼쪽 말을 대신하는 주격 대명사가 오른쪽에 있어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "주격 대명사: 주어 자리에서 사람·물건을 대신하는 말",
+    "여럿 → I가 있으면 we, I 없이 you가 있으면 you(너희), 둘 다 없으면 they",
+    "나도 너도 아닌 한 사람 → 남자 he, 여자 she",
+    "물건·동물 하나 → it",
+    "예) Mina and I are friends. We like music. (미나와 나는 친구예요. 우리는 음악을 좋아해요.)"
+   ],
+   "narration": "주격 대명사는 주어 자리에서 사람이나 물건을 대신하는 말이에요. 여럿을 받을 때 I가 들어 있으면 we, I 없이 you가 들어 있으면 너희라는 뜻의 you, 둘 다 없으면 they를 써요. 나도 너도 아닌 다른 사람 한 명은 남자면 he, 여자면 she로 받고, 물건이나 동물 하나는 it으로 받아요. 예를 들어 Mina and I are friends, 미나와 나는 친구예요. 이어서 Mina and I를 We로 받아 We like music, 우리는 음악을 좋아해요."
+  },
+  "steps": [
+   {
+    "note": "왼쪽 말에 I가 있는지 먼저 본다 → ③ you and I, ⑤ I and my brother는 we로 받아야 한다.",
+    "highlight": [
+     "③ you and I - you",
+     "⑤ I and my brother - we"
+    ],
+    "strike": [],
+    "narration": "첫째, 왼쪽 말에 I가 들어 있는지 먼저 봐요. 3번 you and I와 5번 I and my brother에는 I가 있으니 둘 다 we로 받아야 해요."
+   },
+   {
+    "note": "⑤는 we → 바르다. ③은 you → 틀렸다(you가 있어도 I가 있으면 we).",
+    "highlight": [
+     "③ you and I - you"
+    ],
+    "strike": [
+     "⑤ I and my brother - we"
+    ],
+    "narration": "둘째, 5번은 we로 바르게 받았지만, 3번은 you가 보인다고 you로 받아서 틀렸어요."
+   },
+   {
+    "note": "I가 없는 ①②④ → 몇 명인지, 남자·여자인지 본다 → 모두 바르다. 잘못된 것은 ③.",
+    "highlight": [],
+    "strike": [
+     "① my mom - she",
+     "② her brother - he",
+     "④ Sophie and David - they"
+    ],
+    "narration": "셋째, 나머지도 확인해요. my mom은 여자 한 명이라 she, her brother는 남자 한 명이라 he, Sophie and David는 I도 you도 없는 두 사람이라 they로 모두 바르게 받았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① my mom - she  ✗  엄마는 여자 한 명 → she가 맞아요",
+    "② her brother - he  ✗  남자 형제 한 명 → he가 맞아요",
+    "③ you and I - you  ✓  I가 들어 있는 여럿 → we로 받아야 해요",
+    "④ Sophie and David - they  ✗  I도 you도 없는 두 사람 → they가 맞아요",
+    "⑤ I and my brother - we  ✗  I가 들어 있는 여럿 → we가 맞아요"
+   ],
+   "narration": "정답은 3번이에요. you and I에는 you가 있어서 you로 받기 쉬워요. 하지만 I가 들어 있는 여럿은 you가 함께 있어도 we로 받아야 해요. 5번 I and my brother도 I가 들어 있어서 we가 맞아요. 4번 Sophie and David는 I도 you도 없는 두 사람이라 they가 맞아요."
+  },
+  "summary": {
+   "card": "I가 들어 있는 여럿은 we, I 없이 you가 들어 있는 여럿은 you",
+   "narration": "정답은 3번이에요. 기억할 것, I가 들어 있는 여럿은 you가 함께 있어도 we로 받아요. I 없이 you가 들어 있는 여럿은 you로 받아요."
+  },
+  "captions": [
+   "명사를 대신하는 주격 대명사",
+   "먼저 풀어 보세요",
+   "누구인지, 몇인지 보고 골라요",
+   "I가 있으면 we",
+   "정답 ③ you and I - you",
+   "I가 들어 있는 여럿은 we"
+  ],
+  "sec": [
+   10,
+   15,
+   30,
+   36,
+   28,
+   11
+  ]
+ },
+ "B": {
+  "title": "명사를 대신하는 주격 대명사",
+  "intro": "이 문제는 주어진 말과 그 말을 대신하는 주격 대명사가 잘못 짝지어진 것을 고르는 문제예요.",
+  "problem_narration": "다음 주어진 명사의 주격 대명사 형태가 잘못된 것을 고르세요. 보기마다 왼쪽 말을 대신하는 주격 대명사가 오른쪽에 있어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "주격 대명사: 주어 자리에서 사람·물건을 대신하는 말",
+    "여럿 → I가 있으면 we, I 없이 you가 있으면 you(너희), 둘 다 없으면 they",
+    "나도 너도 아닌 한 사람 → 남자 he, 여자 she",
+    "물건·동물 하나 → it",
+    "예) Minho and I are in the park. We play soccer. (민호와 나는 공원에 있어요. 우리는 축구를 해요.)"
+   ],
+   "narration": "주격 대명사는 주어 자리에서 사람이나 물건을 대신하는 말이에요. 여럿을 받을 때 I가 들어 있으면 we, I 없이 you가 들어 있으면 너희라는 뜻의 you, 둘 다 없으면 they를 써요. 나도 너도 아닌 다른 사람 한 명은 남자면 he, 여자면 she로 받고, 물건이나 동물 하나는 it으로 받아요. 예를 들어 Minho and I are in the park, 민호와 나는 공원에 있어요. 이어서 Minho and I를 We로 받아 We play soccer, 우리는 축구를 해요."
+  },
+  "steps": [
+   {
+    "note": "왼쪽 말에 I가 있는지 먼저 본다 → ① my sister and I에 I가 있다.",
+    "highlight": [
+     "① my sister and I - they"
+    ],
+    "strike": [],
+    "narration": "첫째, 왼쪽 말에 I가 들어 있는지 먼저 봐요. 1번 my sister and I에는 I가 있어요."
+   },
+   {
+    "note": "I가 들어 있는 여럿 → we. ①은 they로 받았다 → 틀림.",
+    "highlight": [
+     "① my sister and I - they"
+    ],
+    "strike": [],
+    "narration": "둘째, I가 들어 있는 여럿은 we로 받아야 하는데, 1번은 they로 받아서 틀렸어요."
+   },
+   {
+    "note": "I가 없는 ②③④⑤ → 몇인지, 누구인지 본다 → 모두 바르다. 잘못된 것은 ①.",
+    "highlight": [],
+    "strike": [
+     "② my grandmother - she",
+     "③ the dog - it",
+     "④ Tom and Jerry - they",
+     "⑤ my uncle - he"
+    ],
+    "narration": "셋째, 나머지를 확인해요. my grandmother는 여자 한 명이라 she, the dog은 동물 하나라 it, Tom and Jerry는 I도 you도 없는 여럿이라 they, my uncle은 남자 한 명이라 he로 모두 바르게 받았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① my sister and I - they  ✓  I가 들어 있는 여럿 → we로 받아야 해요",
+    "② my grandmother - she  ✗  할머니는 여자 한 명 → she가 맞아요",
+    "③ the dog - it  ✗  동물 하나 → it이 맞아요",
+    "④ Tom and Jerry - they  ✗  I도 you도 없는 여럿 → they가 맞아요",
+    "⑤ my uncle - he  ✗  삼촌은 남자 한 명 → he가 맞아요"
+   ],
+   "narration": "정답은 1번이에요. my sister and I는 두 사람이라 they를 고르기 쉬워요. 하지만 I가 들어 있는 여럿은 we로 받아야 해요. 4번 Tom and Jerry는 I도 you도 없는 여럿이라 they가 맞아요. 3번 the dog은 동물 하나라 it이 맞아요."
+  },
+  "summary": {
+   "card": "I가 들어 있는 여럿은 we, I도 you도 없는 여럿은 they",
+   "narration": "정답은 1번이에요. 기억할 것, I가 들어 있는 여럿은 we로 받고, I도 you도 없는 여럿은 they로 받아요."
+  },
+  "captions": [
+   "명사를 대신하는 주격 대명사",
+   "먼저 풀어 보세요",
+   "누구인지, 몇인지 보고 골라요",
+   "I가 있으면 we",
+   "정답 ① my sister and I - they",
+   "I가 들어 있는 여럿은 we"
+  ],
+  "sec": [
+   10,
+   15,
+   30,
+   36,
+   26,
+   10
+  ]
+ },
+ "C": {
+  "title": "명사를 대신하는 주격 대명사",
+  "intro": "이 문제는 주어진 말과 그 말을 대신하는 주격 대명사가 잘못 짝지어진 것을 고르는 문제예요.",
+  "problem_narration": "다음 주어진 명사의 주격 대명사 형태가 잘못된 것을 고르세요. 보기마다 왼쪽 말을 대신하는 주격 대명사가 오른쪽에 있어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "주격 대명사: 주어 자리에서 사람·물건을 대신하는 말",
+    "여럿 → I가 있으면 we, I 없이 you가 있으면 you(너희), 둘 다 없으면 they",
+    "나도 너도 아닌 한 사람 → 남자 he, 여자 she",
+    "물건·동물 하나 → it",
+    "예) You and Mina are my friends. You are kind. (너와 미나는 내 친구예요. 너희는 친절해요.)"
+   ],
+   "narration": "주격 대명사는 주어 자리에서 사람이나 물건을 대신하는 말이에요. 여럿을 받을 때 I가 들어 있으면 we, I 없이 you가 들어 있으면 너희라는 뜻의 you, 둘 다 없으면 they를 써요. 나도 너도 아닌 다른 사람 한 명은 남자면 he, 여자면 she로 받고, 물건이나 동물 하나는 it으로 받아요. 예를 들어 You and Mina are my friends, 너와 미나는 내 친구예요. 이어서 You and Mina를 You로 받아 You are kind, 너희는 친절해요."
+  },
+  "steps": [
+   {
+    "note": "왼쪽 말에 I가 있는지 먼저 본다 → ④ my mother and I - we는 바르다.",
+    "highlight": [],
+    "strike": [
+     "④ my mother and I - we"
+    ],
+    "narration": "첫째, 왼쪽 말에 I가 있는지 보면, 4번 my mother and I는 I가 있어서 we로 바르게 받았어요."
+   },
+   {
+    "note": "I가 없으면 you가 있는지 본다 → ② you and Jane은 you로 받아야 하는데 she → 틀림.",
+    "highlight": [
+     "② you and Jane - she"
+    ],
+    "strike": [],
+    "narration": "둘째, I가 없으면 you가 들어 있는지 봐요. 2번 you and Jane에는 you가 있으니 you로 받아야 하는데, she로 받아서 틀렸어요."
+   },
+   {
+    "note": "나머지 ①③⑤ → 몇인지, 누구인지 본다 → 모두 바르다. 잘못된 것은 ②.",
+    "highlight": [],
+    "strike": [
+     "① Mr. Park - he",
+     "③ the students - they",
+     "⑤ this bike - it"
+    ],
+    "narration": "셋째, 나머지도 확인해요. Mr. Park은 남자 한 명이라 he, the students는 여럿이라 they, this bike는 물건 하나라 it으로 모두 바르게 받았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Mr. Park - he  ✗  Mr.는 남자 이름 앞에 붙여요 → he가 맞아요",
+    "② you and Jane - she  ✓  I 없이 you가 들어 있는 여럿 → you로 받아야 해요",
+    "③ the students - they  ✗  학생 여럿 → they가 맞아요",
+    "④ my mother and I - we  ✗  I가 들어 있는 여럿 → we가 맞아요",
+    "⑤ this bike - it  ✗  물건 하나 → it이 맞아요"
+   ],
+   "narration": "정답은 2번이에요. Jane만 보고 여자 한 명이라고 생각해서 she를 고르기 쉬워요. 하지만 you and Jane은 너와 제인 두 사람이고, you가 들어 있어서 너희라는 뜻의 you로 받아요. 4번 my mother and I는 I가 들어 있어서 we가 맞아요. 3번 the students는 학생 여럿이라 they가 맞아요."
+  },
+  "summary": {
+   "card": "I 없이 you가 들어 있는 여럿은 you(너희), she는 여자 한 명",
+   "narration": "정답은 2번이에요. 기억할 것, I 없이 you가 들어 있는 여럿은 너희라는 뜻의 you로 받아요. she는 여자 한 명을 받는 말이에요."
+  },
+  "captions": [
+   "명사를 대신하는 주격 대명사",
+   "먼저 풀어 보세요",
+   "누구인지, 몇인지 보고 골라요",
+   "I 없이 you가 있으면 you",
+   "정답 ② you and Jane - she",
+   "you가 들어 있는 여럿은 you"
+  ],
+  "sec": [
+   10,
+   15,
+   30,
+   36,
+   28,
+   11
+  ]
+ },
+ "D": {
+  "title": "명사를 대신하는 주격 대명사",
+  "intro": "이 문제는 주어진 말과 그 말을 대신하는 주격 대명사가 잘못 짝지어진 것을 고르는 문제예요.",
+  "problem_narration": "다음 주어진 명사의 주격 대명사 형태가 잘못된 것을 고르세요. 보기마다 왼쪽 말을 대신하는 주격 대명사가 오른쪽에 있어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "주격 대명사: 주어 자리에서 사람·물건을 대신하는 말",
+    "여럿 → I가 있으면 we, I 없이 you가 있으면 you(너희), 둘 다 없으면 they",
+    "나도 너도 아닌 한 사람 → 남자 he, 여자 she",
+    "물건·동물 하나 → it",
+    "예) My grandparents live in Busan. They are kind. (우리 할아버지와 할머니는 부산에 사세요. 그분들은 친절하세요.)"
+   ],
+   "narration": "주격 대명사는 주어 자리에서 사람이나 물건을 대신하는 말이에요. 여럿을 받을 때 I가 들어 있으면 we, I 없이 you가 들어 있으면 너희라는 뜻의 you, 둘 다 없으면 they를 써요. 나도 너도 아닌 다른 사람 한 명은 남자면 he, 여자면 she로 받고, 물건이나 동물 하나는 it으로 받아요. 예를 들어 My grandparents live in Busan, 우리 할아버지와 할머니는 부산에 사세요. 이어서 My grandparents를 They로 받아 They are kind, 그분들은 친절하세요."
+  },
+  "steps": [
+   {
+    "note": "왼쪽 말에 I나 you가 있는지 먼저 본다 → ③ my friend and I - we는 바르다.",
+    "highlight": [],
+    "strike": [
+     "③ my friend and I - we"
+    ],
+    "narration": "첫째, 왼쪽 말에 I나 you가 들어 있는지 먼저 봐요. 3번 my friend and I는 I가 있어서 we로 바르게 받았어요."
+   },
+   {
+    "note": "나머지는 몇인지, 누구인지 본다 → ① they, ② she, ⑤ he는 바르다.",
+    "highlight": [],
+    "strike": [
+     "① the cats - they",
+     "② Ms. Lee - she",
+     "⑤ the boy - he"
+    ],
+    "narration": "둘째, 1번 the cats는 고양이 여럿이라 they, 5번 the boy는 남자 한 명이라 he로 바르게 받았어요. Ms. Lee도 여자 한 명이라 she가 맞아요."
+   },
+   {
+    "note": "④ my parents = 부모님 두 사람 → they여야 하는데 it → 틀림.",
+    "highlight": [
+     "④ my parents - it"
+    ],
+    "strike": [],
+    "narration": "셋째, 4번 my parents는 부모님 두 사람이라 they로 받아야 하는데, 물건이나 동물 하나에 쓰는 it으로 받아서 틀렸어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① the cats - they  ✗  고양이 여럿 → they가 맞아요",
+    "② Ms. Lee - she  ✗  Ms.는 여자 이름 앞에 붙여요 → she가 맞아요",
+    "③ my friend and I - we  ✗  I가 들어 있는 여럿 → we가 맞아요",
+    "④ my parents - it  ✓  부모님 두 사람 → they로 받아야 해요",
+    "⑤ the boy - he  ✗  남자아이 한 명 → he가 맞아요"
+   ],
+   "narration": "정답은 4번이에요. my parents는 parent에 s가 붙은 복수형으로, 부모님 두 사람을 뜻해요. 그래서 it이 아니라 they로 받아야 해요. 1번 the cats도 고양이 여럿이라 they가 맞아요. 3번 my friend and I는 I가 들어 있어서 we가 맞아요."
+  },
+  "summary": {
+   "card": "it은 물건·동물 하나, I도 you도 없는 여럿은 they",
+   "narration": "정답은 4번이에요. 기억할 것, it은 물건이나 동물 하나를 받는 말이에요. I도 you도 없는 여럿은 사람이든 물건이든 they로 받아요."
+  },
+  "captions": [
+   "명사를 대신하는 주격 대명사",
+   "먼저 풀어 보세요",
+   "누구인지, 몇인지 보고 골라요",
+   "부모님 두 사람 → they",
+   "정답 ④ my parents - it",
+   "여럿은 they, 하나는 it"
+  ],
+  "sec": [
+   10,
+   15,
+   30,
+   36,
+   26,
+   11
+  ]
+ },
+ "E": {
+  "title": "명사를 대신하는 주격 대명사",
+  "intro": "이 문제는 주어진 말과 그 말을 대신하는 주격 대명사가 잘못 짝지어진 것을 고르는 문제예요.",
+  "problem_narration": "다음 주어진 명사의 주격 대명사 형태가 잘못된 것을 고르세요. 보기마다 왼쪽 말을 대신하는 주격 대명사가 오른쪽에 있어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "주격 대명사: 주어 자리에서 사람·물건을 대신하는 말",
+    "여럿 → I가 있으면 we, I 없이 you가 있으면 you(너희), 둘 다 없으면 they",
+    "나도 너도 아닌 한 사람 → 남자 he, 여자 she",
+    "물건·동물 하나 → it",
+    "예) Mina and her brother are at home. They watch TV. (미나와 남동생은 집에 있어요. 그들은 텔레비전을 봐요.)"
+   ],
+   "narration": "주격 대명사는 주어 자리에서 사람이나 물건을 대신하는 말이에요. 여럿을 받을 때 I가 들어 있으면 we, I 없이 you가 들어 있으면 너희라는 뜻의 you, 둘 다 없으면 they를 써요. 나도 너도 아닌 다른 사람 한 명은 남자면 he, 여자면 she로 받고, 물건이나 동물 하나는 it으로 받아요. 예를 들어 Mina and her brother are at home, 미나와 남동생은 집에 있어요. 이어서 Mina and her brother를 They로 받아 They watch TV, 그들은 텔레비전을 봐요."
+  },
+  "steps": [
+   {
+    "note": "왼쪽 말에 I나 you가 있는지 먼저 본다 → ② my cousin and I - we는 바르다.",
+    "highlight": [],
+    "strike": [
+     "② my cousin and I - we"
+    ],
+    "narration": "첫째, 왼쪽 말에 I나 you가 들어 있는지 먼저 봐요. 2번 my cousin and I는 I가 있어서 we로 바르게 받았어요."
+   },
+   {
+    "note": "나머지는 몇인지, 누구인지 본다 → ① they, ③ it, ④ she는 바르다.",
+    "highlight": [],
+    "strike": [
+     "① the teachers - they",
+     "③ this pencil - it",
+     "④ Mrs. Brown - she"
+    ],
+    "narration": "둘째, 1번 the teachers는 선생님 여럿이라 they, 3번 this pencil은 물건 하나라 it으로 바르게 받았어요. Mrs. Brown도 여자 한 명이라 she가 맞아요."
+   },
+   {
+    "note": "⑤ Jisu and her sister = 두 사람 → they여야 하는데 she → 틀림.",
+    "highlight": [
+     "⑤ Jisu and her sister - she"
+    ],
+    "strike": [],
+    "narration": "셋째, 5번 Jisu and her sister는 두 사람이라 they로 받아야 하는데, 여자 한 명에게 쓰는 she로 받아서 틀렸어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① the teachers - they  ✗  선생님 여럿 → they가 맞아요",
+    "② my cousin and I - we  ✗  I가 들어 있는 여럿 → we가 맞아요",
+    "③ this pencil - it  ✗  물건 하나 → it이 맞아요",
+    "④ Mrs. Brown - she  ✗  Mrs.는 여자 이름 앞에 붙여요 → she가 맞아요",
+    "⑤ Jisu and her sister - she  ✓  두 사람 → they로 받아야 해요"
+   ],
+   "narration": "정답은 5번이에요. Jisu와 her sister가 모두 여자라서 she를 고르기 쉬워요. 하지만 she는 여자 한 명을 받는 말이라, 두 사람은 they로 받아야 해요. Mrs. Brown은 여자 한 명이라 4번은 she로 바르게 받았어요. 2번 my cousin and I는 I가 들어 있어서 we가 맞아요."
+  },
+  "summary": {
+   "card": "she는 여자 한 명, I도 you도 없는 여럿은 they",
+   "narration": "정답은 5번이에요. 기억할 것, she는 여자 한 명을 받는 말이에요. I도 you도 없는 여럿은 they로 받아요."
+  },
+  "captions": [
+   "명사를 대신하는 주격 대명사",
+   "먼저 풀어 보세요",
+   "누구인지, 몇인지 보고 골라요",
+   "두 사람 → they",
+   "정답 ⑤ Jisu and her sister - she",
+   "she는 한 명, 여럿은 they"
+  ],
+  "sec": [
+   10,
+   15,
+   30,
+   36,
+   28,
+   10
+  ]
+ },
+ "F": {
+  "title": "명사를 대신하는 주격 대명사",
+  "intro": "이 문제는 주어진 말과 그 말을 대신하는 주격 대명사가 잘못 짝지어진 것을 고르는 문제예요.",
+  "problem_narration": "다음 주어진 명사의 주격 대명사 형태가 잘못된 것을 고르세요. 보기마다 왼쪽 말을 대신하는 주격 대명사가 오른쪽에 있어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "주격 대명사: 주어 자리에서 사람·물건을 대신하는 말",
+    "여럿 → I가 있으면 we, I 없이 you가 있으면 you(너희), 둘 다 없으면 they",
+    "나도 너도 아닌 한 사람 → 남자 he, 여자 she",
+    "물건·동물 하나 → it",
+    "예) The cups are on the table. They are blue. (컵들이 탁자 위에 있어요. 그것들은 파란색이에요.)"
+   ],
+   "narration": "주격 대명사는 주어 자리에서 사람이나 물건을 대신하는 말이에요. 여럿을 받을 때 I가 들어 있으면 we, I 없이 you가 들어 있으면 너희라는 뜻의 you, 둘 다 없으면 they를 써요. 나도 너도 아닌 다른 사람 한 명은 남자면 he, 여자면 she로 받고, 물건이나 동물 하나는 it으로 받아요. 예를 들어 The cups are on the table, 컵들이 탁자 위에 있어요. 이어서 The cups를 They로 받아 They are blue, 그것들은 파란색이에요."
+  },
+  "steps": [
+   {
+    "note": "왼쪽 말에 I나 you가 있는지 먼저 본다 → ④ we, ⑤ you는 바르다.",
+    "highlight": [],
+    "strike": [
+     "④ my brother and I - we",
+     "⑤ you and Jiho - you"
+    ],
+    "narration": "첫째, 왼쪽 말에 I나 you가 들어 있는지 먼저 봐요. 4번 my brother and I는 I가 있어서 we, 5번 you and Jiho는 I 없이 you가 있어서 you로 바르게 받았어요."
+   },
+   {
+    "note": "나머지는 몇인지, 누구인지 본다 → ① she, ② he는 바르다.",
+    "highlight": [],
+    "strike": [
+     "① my aunt - she",
+     "② Mr. Kim - he"
+    ],
+    "narration": "둘째, 1번 my aunt는 여자 한 명이라 she로 바르게 받았어요. Mr. Kim도 남자 한 명이라 he가 맞아요."
+   },
+   {
+    "note": "③ the books = 책 여러 권 → they여야 하는데 it → 틀림.",
+    "highlight": [
+     "③ the books - it"
+    ],
+    "strike": [],
+    "narration": "셋째, 3번 the books는 책 여러 권이라 they로 받아야 하는데, 물건 하나에 쓰는 it으로 받아서 틀렸어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① my aunt - she  ✗  고모·이모는 여자 한 명 → she가 맞아요",
+    "② Mr. Kim - he  ✗  Mr.는 남자 이름 앞에 붙여요 → he가 맞아요",
+    "③ the books - it  ✓  책 여러 권 → they로 받아야 해요",
+    "④ my brother and I - we  ✗  I가 들어 있는 여럿 → we가 맞아요",
+    "⑤ you and Jiho - you  ✗  I 없이 you가 들어 있는 여럿 → you가 맞아요"
+   ],
+   "narration": "정답은 3번이에요. books는 book에 s가 붙은 복수형이라 책 여러 권을 뜻해요. 물건 하나는 it으로 받지만, 여러 개는 they로 받아야 해요. 5번 you and Jiho는 I 없이 you가 들어 있어서 you가 맞아요. 이때 you는 너희라는 뜻이에요."
+  },
+  "summary": {
+   "card": "it은 물건·동물 하나, I도 you도 없는 여럿은 they",
+   "narration": "정답은 3번이에요. 기억할 것, it은 물건이나 동물 하나를 받는 말이에요. 물건이 여러 개이면 they로 받아요."
+  },
+  "captions": [
+   "명사를 대신하는 주격 대명사",
+   "먼저 풀어 보세요",
+   "누구인지, 몇인지 보고 골라요",
+   "책 여러 권 → they",
+   "정답 ③ the books - it",
+   "여럿은 they, 하나는 it"
+  ],
+  "sec": [
+   10,
+   15,
+   30,
+   36,
+   26,
+   10
+  ]
+ }
+}

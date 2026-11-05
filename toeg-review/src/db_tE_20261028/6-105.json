@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T08:58:21.185Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Please",
+      "1": "be",
+      "2": "in",
+      "3": "class",
+      "4": "quiet"
+    },
+    "expl": "핵심 규칙: 제안문은 Let's (not) + 동사원형 + 목적어, 명령문은 (Please) + 동사원형 + 보어·목적어의 순서로 배열한다.\n풀이 순서: ① 문장을 완성한다: Please be quiet in class. → ② 앞에서부터 센다. → ③ 세 번째 낱말은 quiet. 정답은 ⑤.\n문장별 판정:\n정답 판단: 완성 문장은 Please be quiet in class.이고 세 번째 단어는 quiet이다.\n선택지 분석:\n① [오답] 완성 문장 Please be quiet in class.에서 단어(Please)는 1번째에 오므로 오답이다.\n② [오답] 완성 문장 Please be quiet in class.에서 단어(be)는 2번째에 오므로 오답이다.\n③ [오답] 완성 문장 Please be quiet in class.에서 단어(in)는 4번째에 오므로 오답이다.\n④ [오답] 완성 문장 Please be quiet in class.에서 단어(class)는 5번째에 오므로 오답이다.\n⑤ [정답] 완성 문장 Please be quiet in class.에서 단어(quiet)는 3번째에 오므로 정답이다.",
+    "passage": "be / Please / in / quiet / class",
+    "stem": "다음 단어들을 바르게 나열하여 문장을 완성할 때, 세 번째에 오는 단어를 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T08:58:18.901Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T08:58:21.185Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:58:21.185Z",
+      "what": "확인 완료"
+    }
+  }
+}

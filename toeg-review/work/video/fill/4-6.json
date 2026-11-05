@@ -1,0 +1,452 @@
+{
+ "A": {
+  "title": "How many 뒤 sheep의 복수형",
+  "intro": "이 문제는 How many 뒤 빈칸에 들어갈 명사의 알맞은 복수형을 고르는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 들어갈 알맞은 단어를 고르세요. How many, 빈칸, do you see in the picture? I see ten. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "How many(몇 개, 몇 마리) 뒤 → 셀 수 있는 명사의 복수형",
+    "대부분의 명사는 s나 es를 붙여요. (dog → dogs, box → boxes)",
+    "sheep, deer는 단수형과 복수형이 같아요. (one sheep, two sheep)",
+    "예) There are many sheep on the hill. (언덕 위에 양이 많이 있어요.)"
+   ],
+   "narration": "How many는 몇 개, 몇 마리인지 묻는 말이에요. 그래서 How many 뒤에는 셀 수 있는 명사의 복수형이 와요. 대부분의 명사는 dogs, boxes처럼 s나 es를 붙여 복수형을 만들어요. 그런데 sheep과 deer는 한 마리일 때도, 여러 마리일 때도 모양이 같아요. 예를 들어 There are many sheep on the hill, 언덕 위에 양이 많이 있어요."
+  },
+  "steps": [
+   {
+    "note": "How many 뒤 = 복수형 자리. ship은 배 한 척을 나타내는 단수형 → 지운다.",
+    "highlight": [
+     "How many ________",
+     "I see ten."
+    ],
+    "strike": [
+     "⑤ ship"
+    ],
+    "narration": "첫째, How many는 몇 개인지 묻는 말이라 빈칸에는 복수형이 와야 해요. 5번 ship은 배 한 척을 나타내는 단수형이라 지워요."
+   },
+   {
+    "note": "sheep은 복수형도 sheep → s나 es를 붙인 꼴은 지운다.",
+    "highlight": [],
+    "strike": [
+     "① sheepes",
+     "③ sheeps",
+     "④ sheeppes"
+    ],
+    "narration": "둘째, sheep은 여러 마리일 때도 sheep이에요. 그래서 s나 es를 붙인 1번, 3번, 4번도 지워요."
+   },
+   {
+    "note": "남는 것은 sheep → How many sheep do you see in the picture?",
+    "highlight": [
+     "② sheep"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 2번 sheep을 넣으면 How many sheep do you see in the picture, 그림에서 양이 몇 마리 보이니, I see ten, 열 마리가 보여, 라는 대화가 돼요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① sheepes  ✗  sheep에는 es를 붙이지 않아요",
+    "② sheep  ✓  sheep은 복수형도 sheep",
+    "③ sheeps  ✗  sheep에는 s도 붙이지 않아요",
+    "④ sheeppes  ✗  p를 겹쳐 쓰고 es를 붙인 꼴은 없어요",
+    "⑤ ship  ✗  ship(배)은 단수형이에요 (여러 척은 ships)"
+   ],
+   "narration": "정답은 2번 sheep이에요. 3번 sheeps는 다른 명사처럼 s를 붙인 꼴인데, sheep은 여러 마리여도 s를 붙이지 않아요. 5번 ship은 소리가 비슷하지만 배라는 뜻이고, 배 한 척을 나타내는 단수형이라 How many 뒤에 올 수 없어요. 1번 sheepes도 sheep에 es를 붙인 꼴이라 틀렸어요."
+  },
+  "summary": {
+   "card": "How many + 복수형, sheep은 복수형도 sheep",
+   "narration": "정답은 2번이에요. 기억할 것, How many 뒤에는 복수형을 쓰고, sheep은 여러 마리여도 sheep이에요."
+  },
+  "captions": [
+   "How many 뒤 명사의 복수형",
+   "먼저 풀어 보세요",
+   "sheep은 복수형도 sheep",
+   "복수형 자리 → ship 지움 → sheep",
+   "정답 ② sheep",
+   "How many + 복수형"
+  ],
+  "sec": [
+   10,
+   14,
+   22,
+   30,
+   22,
+   10
+  ]
+ },
+ "B": {
+  "title": "How many 뒤 deer의 복수형",
+  "intro": "이 문제는 How many 뒤에 오는 명사 deer의 알맞은 형태를 고르는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 들어갈 알맞은 단어를 고르세요. How many, 빈칸, are there? There are five. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "How many(몇 개, 몇 마리) 뒤 → 셀 수 있는 명사의 복수형",
+    "대부분의 명사는 s나 es를 붙여요. (cat → cats, box → boxes)",
+    "deer, sheep은 단수형과 복수형이 같아요. (one deer, two deer)",
+    "예) I saw three deer in the forest. (나는 숲에서 사슴 세 마리를 봤어요.)"
+   ],
+   "narration": "How many는 몇 개, 몇 마리인지 묻는 말이에요. 그래서 How many 뒤에는 셀 수 있는 명사의 복수형이 와요. 대부분의 명사는 cats, boxes처럼 s나 es를 붙여 복수형을 만들어요. 그런데 deer와 sheep은 한 마리일 때도, 여러 마리일 때도 모양이 같아요. 예를 들어 I saw three deer in the forest, 나는 숲에서 사슴 세 마리를 봤어요."
+  },
+  "steps": [
+   {
+    "note": "How many 뒤 = 복수형 자리. 한 마리를 뜻하는 a deer, '사슴의'를 뜻하는 deer's는 지운다.",
+    "highlight": [
+     "How many ________",
+     "There are five."
+    ],
+    "strike": [
+     "① a deer",
+     "⑤ deer's"
+    ],
+    "narration": "첫째, How many 뒤에는 복수형이 와야 해요. 1번 a deer는 사슴 한 마리, 5번 deer's는 사슴의라는 뜻이라 둘 다 지워요."
+   },
+   {
+    "note": "deer는 복수형도 deer → ies나 es를 붙인 꼴은 지운다.",
+    "highlight": [],
+    "strike": [
+     "② deeries",
+     "④ deeres"
+    ],
+    "narration": "둘째, deer는 여러 마리일 때도 deer예요. 그래서 ies를 붙인 2번과 es를 붙인 4번도 지워요."
+   },
+   {
+    "note": "남는 것은 deer → How many deer are there?",
+    "highlight": [
+     "③ deer"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 3번 deer를 넣으면 How many deer are there, 사슴이 몇 마리 있니, There are five, 다섯 마리 있어, 라는 대화가 돼요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① a deer  ✗  a deer는 사슴 한 마리예요",
+    "② deeries  ✗  deer에 ies를 붙인 꼴은 없어요",
+    "③ deer  ✓  deer는 복수형도 deer",
+    "④ deeres  ✗  deer에는 es를 붙이지 않아요",
+    "⑤ deer's  ✗  deer's는 '사슴의'라는 뜻(소유격)이에요"
+   ],
+   "narration": "정답은 3번 deer예요. 1번 a deer는 사슴 한 마리라는 뜻이라 몇 마리인지 묻는 How many 뒤에 올 수 없어요. 4번 deeres는 deer에 es를 붙인 꼴인데, deer는 여러 마리여도 모양이 그대로예요. 5번 deer's는 사슴의라는 뜻이라 How many 뒤에 올 수 없어요."
+  },
+  "summary": {
+   "card": "How many + 복수형, deer는 복수형도 deer",
+   "narration": "정답은 3번이에요. 기억할 것, How many 뒤에는 복수형을 쓰고, deer는 여러 마리여도 deer예요."
+  },
+  "captions": [
+   "How many 뒤 deer의 형태",
+   "먼저 풀어 보세요",
+   "deer는 복수형도 deer",
+   "복수형 자리 → deer 그대로",
+   "정답 ③ deer",
+   "How many + 복수형"
+  ],
+  "sec": [
+   10,
+   14,
+   22,
+   30,
+   22,
+   10
+  ]
+ },
+ "C": {
+  "title": "How many 뒤 goose의 복수형",
+  "intro": "이 문제는 How many 뒤에 오는 명사 goose의 알맞은 형태를 고르는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 들어갈 알맞은 단어를 고르세요. How many, 빈칸, are there on the farm? There are twenty. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "How many(몇 개, 몇 마리) 뒤 → 셀 수 있는 명사의 복수형",
+    "대부분의 명사는 s나 es를 붙여요. (cat → cats, box → boxes)",
+    "모양이 불규칙하게 바뀌는 명사도 있어요. (goose → geese, mouse → mice)",
+    "예) Two geese are swimming in the lake. (거위 두 마리가 호수에서 헤엄치고 있어요.)"
+   ],
+   "narration": "How many는 몇 개, 몇 마리인지 묻는 말이에요. 그래서 How many 뒤에는 셀 수 있는 명사의 복수형이 와요. 대부분의 명사는 cats, boxes처럼 s나 es를 붙여 복수형을 만들어요. 그런데 goose는 geese, mouse는 mice처럼 s를 붙이지 않고 모양이 불규칙하게 바뀌는 명사도 있어요. 예를 들어 Two geese are swimming in the lake, 거위 두 마리가 호수에서 헤엄치고 있어요."
+  },
+  "steps": [
+   {
+    "note": "How many 뒤 = 복수형 자리. 한 마리를 나타내는 a goose, goose는 지운다.",
+    "highlight": [
+     "How many ________",
+     "There are twenty."
+    ],
+    "strike": [
+     "③ a goose",
+     "⑤ goose"
+    ],
+    "narration": "첫째, How many 뒤에는 복수형이 와야 해요. 3번 a goose와 5번 goose는 거위 한 마리를 나타내는 단수형이라 지워요."
+   },
+   {
+    "note": "goose의 복수형은 geese(s를 붙이지 않음) → gooses, geeses도 지운다.",
+    "highlight": [],
+    "strike": [
+     "① gooses",
+     "④ geeses"
+    ],
+    "narration": "둘째, goose는 s를 붙이지 않고 모양이 바뀌어 geese가 돼요. 그래서 s를 붙인 1번 gooses와, geese에 s를 또 붙인 4번 geeses도 지워요."
+   },
+   {
+    "note": "남는 것은 geese → How many geese are there on the farm?",
+    "highlight": [
+     "② geese"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 2번 geese를 넣으면 How many geese are there on the farm, 농장에 거위가 몇 마리 있니, There are twenty, 스무 마리 있어, 라는 대화가 돼요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① gooses  ✗  goose는 s를 붙이지 않고 geese로 바뀌어요",
+    "② geese  ✓  goose의 불규칙 복수형",
+    "③ a goose  ✗  a goose는 거위 한 마리예요",
+    "④ geeses  ✗  geese가 이미 복수형이라 s를 또 붙이지 않아요",
+    "⑤ goose  ✗  goose는 한 마리를 나타내는 단수형이에요"
+   ],
+   "narration": "정답은 2번 geese예요. 1번 gooses는 다른 명사처럼 s를 붙인 꼴인데, goose는 s를 붙이지 않고 geese로 모양이 바뀌어요. 4번 geeses는 이미 복수형인 geese에 s를 또 붙여서 틀렸어요. 5번 goose는 거위 한 마리를 나타내는 단수형이라 How many 뒤에 올 수 없어요."
+  },
+  "summary": {
+   "card": "How many + 복수형, goose → geese",
+   "narration": "정답은 2번이에요. 기억할 것, How many 뒤에는 복수형을 쓰고, goose의 복수형은 geese예요."
+  },
+  "captions": [
+   "How many 뒤 goose의 형태",
+   "먼저 풀어 보세요",
+   "모양이 바뀌는 복수형",
+   "복수형 자리 → geese",
+   "정답 ② geese",
+   "goose → geese"
+  ],
+  "sec": [
+   10,
+   14,
+   22,
+   30,
+   22,
+   10
+  ]
+ },
+ "D": {
+  "title": "How many 뒤 fish의 복수형",
+  "intro": "이 문제는 How many 뒤에 오는 명사 fish의 알맞은 형태를 고르는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 들어갈 알맞은 단어를 고르세요. How many, 빈칸, did you see? I saw two. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "How many(몇 개, 몇 마리) 뒤 → 셀 수 있는 명사의 복수형",
+    "대부분의 명사는 s나 es를 붙여요. (cat → cats, box → boxes)",
+    "sheep, deer는 단수형과 복수형이 같아요.",
+    "fish도 여러 마리를 말할 때 보통 fish 그대로 써요.",
+    "예) There are many fish in the pond. (연못에 물고기가 많이 있어요.)"
+   ],
+   "narration": "How many는 몇 개, 몇 마리인지 묻는 말이에요. 그래서 How many 뒤에는 셀 수 있는 명사의 복수형이 와요. 대부분의 명사는 cats, boxes처럼 s나 es를 붙여 복수형을 만들어요. 그런데 sheep과 deer는 단수형과 복수형이 같고, fish도 여러 마리를 말할 때 보통 fish 그대로 써요. 예를 들어 There are many fish in the pond, 연못에 물고기가 많이 있어요."
+  },
+  "steps": [
+   {
+    "note": "How many 뒤 = 복수형 자리. 한 마리를 뜻하는 a fish는 지운다.",
+    "highlight": [
+     "How many ________",
+     "I saw two."
+    ],
+    "strike": [
+     "④ a fish"
+    ],
+    "narration": "첫째, How many 뒤에는 복수형이 와야 해요. 4번 a fish는 물고기 한 마리라는 뜻이라 지워요."
+   },
+   {
+    "note": "fish는 여러 마리여도 보통 fish → 끝에 es, s, ies를 붙인 꼴은 지운다.",
+    "highlight": [],
+    "strike": [
+     "① fisheses",
+     "③ fishs",
+     "⑤ fishies"
+    ],
+    "narration": "둘째, fish는 여러 마리일 때도 보통 fish 그대로 써요. 그래서 끝에 다른 글자를 붙인 1번, 3번, 5번도 지워요."
+   },
+   {
+    "note": "남는 것은 fish → How many fish did you see?",
+    "highlight": [
+     "② fish"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 2번 fish를 넣으면 How many fish did you see, 물고기를 몇 마리 봤니, I saw two, 두 마리 봤어, 라는 대화가 돼요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① fisheses  ✗  fish에 es를 두 번 붙인 꼴은 없어요",
+    "② fish  ✓  fish는 여러 마리여도 보통 fish",
+    "③ fishs  ✗  fish에는 s를 붙이지 않아요",
+    "④ a fish  ✗  a fish는 물고기 한 마리예요",
+    "⑤ fishies  ✗  fish 끝에 ies를 붙인 꼴은 없어요"
+   ],
+   "narration": "정답은 2번 fish예요. 4번 a fish는 물고기 한 마리라는 뜻이라 몇 마리인지 묻는 How many 뒤에 올 수 없어요. 3번 fishs는 다른 명사처럼 s를 붙인 꼴인데, fish는 여러 마리여도 보통 fish 그대로 써요. 1번 fisheses는 fish에 es를 두 번이나 붙여서 틀렸어요."
+  },
+  "summary": {
+   "card": "How many + 복수형, fish는 여러 마리여도 보통 fish",
+   "narration": "정답은 2번이에요. 기억할 것, How many 뒤에는 복수형을 쓰고, fish는 여러 마리여도 보통 fish 그대로 써요."
+  },
+  "captions": [
+   "How many 뒤 fish의 형태",
+   "먼저 풀어 보세요",
+   "fish는 여러 마리도 fish",
+   "복수형 자리 → fish 그대로",
+   "정답 ② fish",
+   "How many + 복수형"
+  ],
+  "sec": [
+   10,
+   14,
+   22,
+   30,
+   22,
+   10
+  ]
+ },
+ "E": {
+  "title": "How many 뒤 mouse의 복수형",
+  "intro": "이 문제는 How many 뒤에 오는 명사 mouse의 알맞은 형태를 고르는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 들어갈 알맞은 단어를 고르세요. How many, 빈칸, did your cat catch last night? It caught two in the kitchen. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "How many(몇 개, 몇 마리) 뒤 → 셀 수 있는 명사의 복수형",
+    "대부분의 명사는 s나 es를 붙여요. (cat → cats, box → boxes)",
+    "모양이 불규칙하게 바뀌는 명사도 있어요. (mouse(쥐) → mice, goose → geese)",
+    "예) I saw two mice in the garden. (나는 정원에서 쥐 두 마리를 봤어요.)"
+   ],
+   "narration": "How many는 몇 개, 몇 마리인지 묻는 말이라, 뒤에 셀 수 있는 명사의 복수형이 와요. 대부분의 명사는 cats, boxes처럼 s나 es를 붙여 복수형을 만들어요. 그런데 쥐를 뜻하는 mouse는 mice가 되는 것처럼, s를 붙이지 않고 모양이 불규칙하게 바뀌는 명사도 있어요. 예를 들어 I saw two mice in the garden, 나는 정원에서 쥐 두 마리를 봤어요."
+  },
+  "steps": [
+   {
+    "note": "How many 뒤 = 복수형 자리. 한 마리를 나타내는 a mouse, mouse는 지운다.",
+    "highlight": [
+     "How many ________"
+    ],
+    "strike": [
+     "② a mouse",
+     "⑤ mouse"
+    ],
+    "narration": "첫째, How many 뒤에는 복수형이 와야 해요. 2번 a mouse와 5번 mouse는 쥐 한 마리를 나타내는 단수형이라 지워요."
+   },
+   {
+    "note": "쥐 mouse의 복수형은 mice(s를 붙이지 않음) → mouses, mices도 지운다.",
+    "highlight": [],
+    "strike": [
+     "① mouses",
+     "③ mices"
+    ],
+    "narration": "둘째, 쥐를 뜻하는 mouse의 복수형은 s를 붙이지 않고 모양이 바뀐 mice예요. 그래서 1번 mouses와 3번 mices도 지워요."
+   },
+   {
+    "note": "남는 것은 mice → How many mice did your cat catch last night?",
+    "highlight": [
+     "④ mice"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 4번 mice를 넣으면 How many mice did your cat catch last night, 어젯밤에 너희 고양이가 쥐를 몇 마리 잡았니, It caught two in the kitchen, 부엌에서 두 마리 잡았어, 라는 대화가 돼요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① mouses  ✗  쥐 mouse는 s를 붙이지 않고 mice로 바뀌어요",
+    "② a mouse  ✗  a mouse는 쥐 한 마리예요",
+    "③ mices  ✗  mice가 이미 복수형이라 s를 또 붙이지 않아요",
+    "④ mice  ✓  mouse(쥐)의 불규칙 복수형",
+    "⑤ mouse  ✗  mouse는 한 마리를 나타내는 단수형이에요"
+   ],
+   "narration": "정답은 4번 mice예요. 1번 mouses는 다른 명사처럼 s를 붙인 꼴인데, 쥐를 뜻하는 mouse는 mice로 모양이 바뀌어요. 3번 mices는 이미 복수형인 mice에 s를 또 붙여서 틀렸어요. 5번 mouse는 쥐 한 마리를 나타내는 단수형이라 How many 뒤에 올 수 없어요."
+  },
+  "summary": {
+   "card": "How many + 복수형, mouse(쥐) → mice",
+   "narration": "정답은 4번이에요. 기억할 것, How many 뒤에는 복수형을 쓰고, 쥐를 뜻하는 mouse의 복수형은 mice예요."
+  },
+  "captions": [
+   "How many 뒤 mouse의 형태",
+   "먼저 풀어 보세요",
+   "모양이 바뀌는 복수형",
+   "복수형 자리 → mice",
+   "정답 ④ mice",
+   "mouse → mice"
+  ],
+  "sec": [
+   10,
+   14,
+   22,
+   30,
+   22,
+   10
+  ]
+ },
+ "F": {
+  "title": "How many 뒤 wolf의 복수형",
+  "intro": "이 문제는 How many 뒤에 오는 명사 wolf의 알맞은 형태를 고르는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 들어갈 알맞은 단어를 고르세요. How many, 빈칸, live in this forest? I think there are three near the river. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "How many(몇 개, 몇 마리) 뒤 → 셀 수 있는 명사의 복수형",
+    "대부분의 명사는 s나 es를 붙여요. (cat → cats, box → boxes)",
+    "wolf, leaf는 끝의 f를 v로 바꾸고 es를 붙여요. (wolf → wolves, leaf → leaves)",
+    "f로 끝나도 s만 붙이는 명사도 있어요. (roof → roofs)",
+    "예) I saw two wolves at the zoo. (나는 동물원에서 늑대 두 마리를 봤어요.)"
+   ],
+   "narration": "How many는 몇 개, 몇 마리인지 묻는 말이라, 뒤에 셀 수 있는 명사의 복수형이 와요. 대부분의 명사는 cats, boxes처럼 s나 es를 붙여요. 그런데 wolf와 leaf는 끝의 f를 v로 바꾸고 es를 붙여요. 다만 roof는 roofs처럼, f로 끝나도 s만 붙이는 명사도 있어요. 예를 들어 I saw two wolves at the zoo, 나는 동물원에서 늑대 두 마리를 봤어요."
+  },
+  "steps": [
+   {
+    "note": "How many 뒤 = 복수형 자리. 한 마리를 뜻하는 a wolf는 지운다.",
+    "highlight": [
+     "How many ________"
+    ],
+    "strike": [
+     "③ a wolf"
+    ],
+    "narration": "첫째, How many 뒤에는 복수형이 와야 해요. 3번 a wolf는 늑대 한 마리라는 뜻이라 지워요."
+   },
+   {
+    "note": "wolf → f를 v로 바꾸고 es → wolves. f를 그대로 둔 wolfs, wolfes와 끝의 s가 빠진 wolve는 지운다.",
+    "highlight": [],
+    "strike": [
+     "② wolfs",
+     "④ wolfes",
+     "⑤ wolve"
+    ],
+    "narration": "둘째, wolf는 끝의 f를 v로 바꾸고 es를 붙여요. 그래서 f를 그대로 둔 2번과 4번, 끝의 s가 빠진 5번도 지워요."
+   },
+   {
+    "note": "남는 것은 wolves → How many wolves live in this forest?",
+    "highlight": [
+     "① wolves"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 1번 wolves를 넣으면 How many wolves live in this forest, 이 숲에는 늑대가 몇 마리 사니, I think there are three near the river, 강 근처에 세 마리 있는 것 같아, 라는 대화가 돼요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① wolves  ✓  wolf는 f를 v로 바꾸고 es를 붙여요",
+    "② wolfs  ✗  f를 v로 바꾸지 않고 s만 붙였어요",
+    "③ a wolf  ✗  a wolf는 늑대 한 마리예요",
+    "④ wolfes  ✗  es는 붙였지만 f를 v로 바꾸지 않았어요",
+    "⑤ wolve  ✗  f를 v로 바꾸고 끝의 s를 빠뜨렸어요"
+   ],
+   "narration": "정답은 1번 wolves예요. 2번 wolfs는 다른 명사처럼 s만 붙인 꼴인데, wolf는 끝의 f를 v로 바꾸고 es를 붙여야 해요. 4번 wolfes는 es는 붙였지만 f를 v로 바꾸지 않았어요. 5번 wolve는 f를 v로 바꾸기만 하고 끝의 s가 빠져서 복수형이 아니에요."
+  },
+  "summary": {
+   "card": "How many + 복수형, wolf → wolves",
+   "narration": "정답은 1번이에요. 기억할 것, How many 뒤에는 복수형을 쓰고, wolf는 f를 v로 바꾸고 es를 붙여 wolves가 돼요."
+  },
+  "captions": [
+   "How many 뒤 wolf의 형태",
+   "먼저 풀어 보세요",
+   "f를 v로 바꾸고 es",
+   "복수형 자리 → wolves",
+   "정답 ① wolves",
+   "wolf → wolves"
+  ],
+  "sec": [
+   10,
+   14,
+   22,
+   30,
+   22,
+   10
+  ]
+ }
+}

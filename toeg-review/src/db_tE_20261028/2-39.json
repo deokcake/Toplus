@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-24T00:35:25.073Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "is being deal with by",
+      "1": "is being dealt by with",
+      "2": "was being dealt with by",
+      "3": "is being dealt with by",
+      "4": "is dealt being with by"
+    },
+    "expl": "핵심 규칙: 전치사·부사가 포함된 동사 표현(talk about, look after 등)을 수동태로 바꿀 때 그 전치사·부사를 동사 바로 뒤에 그대로 둔다. 현재진행 수동태는 am/is/are being + 과거분사이며, 행위자는 by + 목적격으로 나타낸다.\n풀이 순서: ① 능동태가 현재진행형(are dealing)이므로 수동태는 ‘is + being + 과거분사’다. → ② 구동사(deal with)는 한 덩어리다. 과거분사 바로 뒤에 전치사를 그대로 두고, 그 다음에 by를 쓴다. → ③ 정답은 is being dealt with by. 시제를 바꾼 것, 동사원형을 쓴 것, 전치사와 by의 순서를 바꾼 것은 지운다.\n문장별 판정:\n정답 판단: 현재진행 수동태(is being + 과거분사)에 with를 동사 바로 뒤에 두고 by를 이어 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] being 뒤에는 동사원형이 아니라 과거분사를 써야 하므로 오답이다.\n② [오답] 전치사 with는 과거분사 바로 뒤에 두어야 하는데 by 뒤로 옮겼으므로 오답이다.\n③ [오답] 능동문이 현재진행(are dealing)이고, is를 써야 하는데 과거진행으로 바꿨으므로 오답이다.\n④ [정답] 현재진행 수동태(is being + 과거분사)에 with를 동사 바로 뒤에 두고 by를 이어 썼으므로 정답이다.\n⑤ [오답] being은 be동사 바로 뒤, 과거분사 앞에 와야 하므로 오답이다.",
+    "passage": "\"The staff are dealing with the complaint.\"\n→ The complaint ________ ________ ________ ________ ________ the staff.",
+    "stem": "다음 문장을 수동태로 바꿀 때 빈칸에 들어갈 말이 순서대로 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T00:35:10.040Z"
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-24T00:35:25.073Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T00:35:25.073Z",
+      "what": "확인 완료"
+    }
+  }
+}

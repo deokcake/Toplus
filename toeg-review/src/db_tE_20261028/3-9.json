@@ -1,0 +1,28 @@
+{
+  "by": "u_RnkZacPBvFbpSXLsuk2A3g",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차: 길이)",
+  "done": true,
+  "doneAt": "2026-10-24T01:16:29.311Z",
+  "doneBy": "u_RnkZacPBvFbpSXLsuk2A3g",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "가, 나",
+      "1": "나, 다",
+      "2": "가, 다, 라",
+      "3": "나, 다, 라",
+      "4": "가, 나, 라"
+    },
+    "expl": "핵심 규칙: There + be동사 구문에서 there는 형식상 앞에 오는 유도부사이고 실제 주어는 be동사 뒤의 명사이다. be동사의 수·시제는 실제 주어와 때에 맞추며, 의문문은 be동사를 there 앞에 두고 Yes, there is./No, there isn't.처럼 답한다.\n풀이 순서: ① There is/are 문장에서 실제 주어는 be동사 뒤의 명사(many people)다. there는 주어가 아니다. → ② be동사는 그 명사의 수와 시제에 맞추고, 의문문은 be동사를 there 앞으로 옮긴다. 대답은 Yes, there is(are). / No, there isn't(aren't).다. → ③ 틀린 설명을 지운다: 다(people을 단수로 봄). 남은 것을 묶은 가, 나, 라가 정답이다.\n문장별 판정:\n가 O. 실제 주어가 복수라 Were이다.\n나 O. 현재라면 Are를 쓴다.\n다 X. people은 -s가 없어도 복수 명사이다.\n라 O. Yes, there were.로 답한다.\n정답 판단: 옳은 설명은 가, 나, 라이다.\n선택지 분석:\n① [오답] 옳은 설명 라를 빠뜨렸다. 따라서 오답이다.\n② [오답] 다는 옳은 설명이 아니고, 옳은 설명 가, 라를 빠뜨렸다. 따라서 오답이다.\n③ [오답] 다는 옳은 설명이 아니고, 옳은 설명 나를 빠뜨렸다. 따라서 오답이다.\n④ [오답] 다는 옳은 설명이 아니고, 옳은 설명 가를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 옳은 설명 가, 나, 라를 빠짐없이 골랐으므로 정답이다.",
+    "passage": "<보기>\nWere there many people at the bus stop this morning?\n\n가. 실제 주어 'many people'이 복수이므로 be동사의 과거형 'Were'를 썼다.\n나. 지금의 일을 묻는다면 'Are there many people at the bus stop?'처럼 'Are'를 쓴다.\n다. 'people'은 -s가 붙지 않았으므로 단수 명사로 보아 'Was'를 써야 한다.\n라. 이 질문에 긍정으로 답할 때는 'Yes, there were.'처럼 답한다.",
+    "stem": "다음 중 <보기> 문장에 대한 설명 중 옳은 것을 모두 고르시오."
+  },
+  "tab": "a9xxlb0l",
+  "updatedAt": "2026-10-24T01:16:29.311Z",
+  "who": {
+    "u_RnkZacPBvFbpSXLsuk2A3g": {
+      "at": "2026-10-24T01:16:29.311Z",
+      "what": "확인 완료"
+    }
+  }
+}

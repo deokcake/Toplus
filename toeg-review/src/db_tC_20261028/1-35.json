@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:12:42.108Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "a, b, c",
+      "1": "b, c, e",
+      "2": "a, d, e",
+      "3": "b, d, e",
+      "4": "a, c, d"
+    },
+    "expl": "핵심 규칙: ask·tell·advise·order·allow + 목적어 + to부정사를 수동태로 바꾸면 be + 과거분사 뒤에 to부정사를 그대로 둔다. call off, look into, take care of 같은 구동사는 수동태에서도 전치사·부사를 빠뜨리지 않는다.\n풀이 순서: ① 화살표 앞뒤를 견주며 두 가지만 본다. 능동문의 to부정사가 수동문에서도 to부정사로 남았는지, 구동사의 전치사·부사가 수동문에 남았는지. → ② c는 being quiet, e는 stay로 to부정사가 깨졌고, b는 look for의 for가 빠졌다. a의 was encouraged to join과 d의 was turned down은 옳다. → ③ 틀린 세 문장을 모은 b, c, e를 고른다.\n문장별 판정:\na) 옳음: was encouraged 뒤에 to join을 그대로 두었다.\nb) 틀림: look for의 for를 빠뜨렸다. was looked → was looked for.\nc) 틀림: were told 뒤에는 to부정사가 온다. being quiet → to be quiet.\nd) 옳음: 구동사 turn down을 그대로 두었다.\ne) 틀림: was ordered 뒤에는 to부정사가 온다. stay → to stay.\n정답 판단: 어법상 틀린 문장은 b, c, e이다.\n선택지 분석:\n① [오답] a는 틀린 문장이 아니고, 틀린 문장 e를 빠뜨렸다. 따라서 오답이다.\n② [정답] 틀린 문장 b, c, e를 빠짐없이 골랐으므로 정답이다.\n③ [오답] a, d는 틀린 문장이 아니고, 틀린 문장 b, c를 빠뜨렸다. 따라서 오답이다.\n④ [오답] d는 틀린 문장이 아니고, 틀린 문장 c를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] a, d는 틀린 문장이 아니고, 틀린 문장 b, e를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "a) My parents encouraged me to join the school art club.\n→ I was encouraged to join the school art club by my parents.\nb) The police looked for the missing child all night.\n→ The missing child was looked all night by the police.\nc) The teacher told us to be quiet during the test.\n→ We were told being quiet during the test by the teacher.\nd) They turned down my offer without any explanation.\n→ My offer was turned down without any explanation by them.\ne) The doctor ordered him to stay in bed for three days.\n→ He was ordered stay in bed for three days by the doctor.",
+    "stem": "다음 중 어법상 틀린 문장을 모두 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T05:15:40.595Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T05:16:03.181Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T03:12:42.108Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:12:08.752Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:12:42.108Z",
+      "what": "확인 완료"
+    }
+  }
+}

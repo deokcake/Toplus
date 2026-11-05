@@ -1,0 +1,86 @@
+{
+ "key": "5-70",
+ "grade": 5,
+ "chapter": "CH 7 숫자 표현과 비인칭주어 it",
+ "items": {
+  "A": {
+   "stem": "다음 지문에서 밑줄 친 부분의 어법상 틀린 점을 모두 찾아 바르게 고쳐 설명한 것을 고르세요.",
+   "passage": "Sumi goes to the store. She wants a chocolate. It is <u>one dollars and five cent</u>. She gives the money to the clerk.",
+   "c": [
+    "'one dollars'는 1달러이므로 'one dollar'로 고쳐야 한다.",
+    "'five cent'는 1보다 큰 수의 센트이므로 'five cents'로 고쳐야 한다.",
+    "'one dollars and five cent'는 'one dollar and five cents'로 둘 다 고쳐야 한다.",
+    "'chocolate'은 셀 수 없는 명사이므로 'a'를 빼고 'some chocolate'으로만 써야 한다.",
+    "'five cent'는 아주 작은 돈이므로 'and'를 빼고 'five cent'라고만 써야 한다."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 금액의 단위는 수에 맞춘다: 1이면 단수(one dollar, one cent), 2 이상이면 복수(five dollars, five cents).\n풀이 순서: ① 밑줄 친 부분을 수와 단위로 나눈다: one + dollars / five + cent. → ② 수가 1이면 단수, 2 이상이면 복수인지 하나씩 본다. one dollars → one dollar, five cent → five cents. → ③ 발문이 ‘모두’ 찾으라고 했으므로 틀린 곳을 빠짐없이 고친 것을 고른다. 정답은 ③.\n문장별 판정:\n정답 판단: one dollar, five cents로 두 군데를 모두 바르게 고쳤으므로 정답은 ③이다.\n선택지 분석:\n① [오답] one dollars만 고치면 five cent가 틀린 채로 남으므로 오답이다.\n② [오답] five cent만 고치면 one dollars가 틀린 채로 남으므로 오답이다.\n③ [정답] one dollar, five cents로 두 군데를 모두 바르게 고쳤으므로 정답이다.\n④ [오답] a chocolate은 초콜릿 한 개를 뜻하는 옳은 표현이고 밑줄 친 부분도 아니므로 오답이다.\n⑤ [오답] and를 빼도 five cent는 틀린 표현이므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 지문에서 밑줄 친 부분의 어법상 틀린 점을 모두 찾아 바르게 고쳐 설명한 것을 고르세요.",
+   "passage": "Jisu needs a notebook for school. She finds a nice one. It is <u>two dollar and one cents</u>. She buys it right away.",
+   "c": [
+    "'two dollar'는 'two dollars'로, 'one cents'는 'one cent'로 둘 다 고쳐야 한다.",
+    "'two dollar'만 'two dollars'로 고치면 된다.",
+    "'one cents'만 'one cent'로 고치면 된다.",
+    "'It'은 값을 나타낼 수 없으므로 'The price'로만 써야 한다.",
+    "'one cents'는 아주 작은 돈이므로 빼고 'two dollar'라고만 써야 한다."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 금액은 1이면 단수(one dollar, one cent), 2 이상이면 복수(two dollars, fifty cents)로 쓴다. 달러와 센트 사이에는 and를 쓸 수 있다.\n풀이 순서: ① 밑줄 친 부분을 수와 단위로 나눈다: two + dollar / one + cents. → ② 수가 1이면 단수, 2 이상이면 복수인지 하나씩 본다. two dollar → two dollars, one cents → one cent. → ③ 발문이 ‘모두’ 찾으라고 했으므로 틀린 곳을 빠짐없이 고친 것을 고른다. 정답은 ①.\n문장별 판정:\n정답 판단: 2달러는 복수 dollars, 1센트는 단수 cent로 두 군데를 모두 바르게 고쳤으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 2달러는 복수 dollars, 1센트는 단수 cent로 두 군데를 모두 바르게 고쳤으므로 정답이다.\n② [오답] one cents도 1센트라 one cent로 고쳐야 하므로 오답이다.\n③ [오답] two dollar도 2달러라 two dollars로 고쳐야 하므로 오답이다.\n④ [오답] It으로 앞의 공책을 받아 값을 말할 수 있고, 밑줄 친 부분과도 관계없으므로 오답이다.\n⑤ [오답] 1센트를 빼면 금액이 달라지고, two dollar도 틀린 표현이므로 오답이다."
+  },
+  "C": {
+   "stem": "다음 지문에서 밑줄 친 부분의 어법상 틀린 점을 모두 찾아 바르게 고쳐 설명한 것을 고르세요.",
+   "passage": "Minho goes to the shop. He buys a pen. The pen is <u>four dollar and thirty cent</u>. He puts it in his bag.",
+   "c": [
+    "'four dollar'만 'four dollars'로 고치면 된다.",
+    "'thirty cent'만 'thirty cents'로 고치면 된다.",
+    "'four dollar and thirty cent'는 'four dollars and thirty cents'로 둘 다 고쳐야 한다.",
+    "'thirty'는 큰 수이므로 'thirties'로 고치고 cent는 그대로 둔다.",
+    "'pen'은 셀 수 있는 명사이므로 'a pen'을 'pens'로 고쳐야 한다."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 금액은 1이면 단수(one dollar, one cent), 2 이상이면 복수(two dollars, fifty cents)로 쓴다. 달러와 센트 사이에는 and를 쓸 수 있다.\n풀이 순서: ① 밑줄 친 부분을 수와 단위로 나눈다: four + dollar / thirty + cent. → ② 수가 1이면 단수, 2 이상이면 복수인지 하나씩 본다. four dollar → four dollars, thirty cent → thirty cents. → ③ 발문이 ‘모두’ 찾으라고 했으므로 틀린 곳을 빠짐없이 고친 것을 고른다. 정답은 ③.\n문장별 판정:\n정답 판단: 4달러와 30센트는 모두 복수라 두 군데를 모두 바르게 고쳤으므로 정답은 ③이다.\n선택지 분석:\n① [오답] thirty cent도 30센트라 thirty cents로 고쳐야 하므로 오답이다.\n② [오답] four dollar도 4달러라 four dollars로 고쳐야 하므로 오답이다.\n③ [정답] 4달러와 30센트는 모두 복수라 두 군데를 모두 바르게 고쳤으므로 정답이다.\n④ [오답] 수를 나타내는 thirty에는 -s를 붙이지 않고, 복수형이 되어야 할 것은 cent이므로 오답이다.\n⑤ [오답] 펜 한 자루를 사는 것이라 a pen이 맞고, 밑줄 친 부분과도 관계없으므로 오답이다."
+  },
+  "D": {
+   "stem": "다음 지문에서 밑줄 친 부분의 어법상 틀린 점을 모두 찾아 바르게 고쳐 설명한 것을 고르세요.",
+   "passage": "Jiwoo wants some juice. The juice is <u>one dollars and fifty cent</u>. She buys it for her brother.",
+   "c": [
+    "'one dollars'만 'one dollar'로 고치면 된다.",
+    "'one dollars'는 'one dollar'로, 'fifty cent'는 'fifty cents'로 고쳐야 한다.",
+    "'fifty'는 50이라는 큰 수이므로 'fifties'로 고쳐야 한다.",
+    "'juice'는 셀 수 없는 명사이므로 'some juice'를 'a juice'로 고쳐야 한다.",
+    "'fifty cent'만 'fifty cents'로 고치면 된다."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 금액은 1이면 단수(one dollar, one cent), 2 이상이면 복수(two dollars, fifty cents)로 쓴다. 달러와 센트 사이에는 and를 쓸 수 있다.\n풀이 순서: ① 밑줄 친 부분을 수와 단위로 나눈다: one + dollars / fifty + cent. → ② 수가 1이면 단수, 2 이상이면 복수인지 하나씩 본다. one dollars → one dollar, fifty cent → fifty cents. → ③ 발문이 ‘모두’ 찾으라고 했으므로 틀린 곳을 빠짐없이 고친 것을 고른다. 정답은 ②.\n문장별 판정:\n정답 판단: 1달러는 단수 dollar, 50센트는 복수 cents로 두 군데를 모두 바르게 고쳤으므로 정답은 ②이다.\n선택지 분석:\n① [오답] fifty cent도 50센트라 fifty cents로 고쳐야 하므로 오답이다.\n② [정답] 1달러는 단수 dollar, 50센트는 복수 cents로 두 군데를 모두 바르게 고쳤으므로 정답이다.\n③ [오답] 수를 나타내는 fifty에는 -s를 붙이지 않고, 복수형이 되어야 할 것은 cent이므로 오답이다.\n④ [오답] 셀 수 없는 명사 juice에는 a를 쓰지 않아 some juice가 맞으므로 오답이다.\n⑤ [오답] one dollars도 1달러라 one dollar로 고쳐야 하므로 오답이다."
+  },
+  "E": {
+   "stem": "다음 지문에서 밑줄 친 부분의 어법상 틀린 점을 모두 찾아 바르게 고쳐 설명한 것을 고르세요.",
+   "passage": "Tom finds a toy car in a store. It is <u>five dollar and twenty cent</u>. He really likes it.",
+   "c": [
+    "'twenty cent'만 'twenty cents'로 고치면 된다.",
+    "금액 사이의 and는 쓰지 않으므로 'five dollar, twenty cent'로 고쳐야 한다.",
+    "'five dollar'만 'five dollars'로 고치면 된다.",
+    "'five dollar and twenty cent'는 'five dollars and twenty cents'로 둘 다 고쳐야 한다.",
+    "'It'은 앞의 a toy car를 가리키므로 'They'로 고쳐야 한다."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 금액은 1이면 단수(one dollar, one cent), 2 이상이면 복수(two dollars, fifty cents)로 쓴다. 달러와 센트 사이에는 and를 쓸 수 있다.\n풀이 순서: ① 밑줄 친 부분을 수와 단위로 나눈다: five + dollar / twenty + cent. → ② 수가 1이면 단수, 2 이상이면 복수인지 하나씩 본다. five dollar → five dollars, twenty cent → twenty cents. → ③ 발문이 ‘모두’ 찾으라고 했으므로 틀린 곳을 빠짐없이 고친 것을 고른다. 정답은 ④.\n문장별 판정:\n정답 판단: 5달러와 20센트는 모두 복수라 두 군데를 모두 바르게 고쳤으므로 정답은 ④이다.\n선택지 분석:\n① [오답] five dollar도 5달러라 five dollars로 고쳐야 하므로 오답이다.\n② [오답] 달러와 센트 사이에 and를 쓸 수 있고, 틀린 곳은 dollar와 cent이므로 오답이다.\n③ [오답] twenty cent도 20센트라 twenty cents로 고쳐야 하므로 오답이다.\n④ [정답] 5달러와 20센트는 모두 복수라 두 군데를 모두 바르게 고쳤으므로 정답이다.\n⑤ [오답] a toy car는 하나라 It이 맞으므로 오답이다."
+  },
+  "F": {
+   "stem": "다음 지문에서 밑줄 친 부분의 어법상 틀린 점을 모두 찾아 바르게 고쳐 설명한 것을 고르세요.",
+   "passage": "Mom buys two apples at the market. They are <u>one dollars and one cents</u>. She puts them in her basket.",
+   "c": [
+    "'one cents' 한 곳만 'one cent'로 바꾸면 된다.",
+    "'They'는 사과 값을 가리키므로 'It'으로 고쳐야 한다.",
+    "앞의 'one dollars' 한 곳만 'one dollar'로 바꾸면 된다.",
+    "같은 수가 두 번 나오므로 'one cents'를 빼고 'one dollars'라고만 써야 한다.",
+    "'one dollars'와 'one cents'를 'one dollar and one cent'로 모두 단수로 고쳐야 한다."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 금액은 1이면 단수(one dollar, one cent), 2 이상이면 복수(two dollars, fifty cents)로 쓴다. 달러와 센트 사이에는 and를 쓸 수 있다.\n풀이 순서: ① 밑줄 친 부분을 수와 단위로 나눈다: one + dollars / one + cents. → ② 수가 1이면 단수, 2 이상이면 복수인지 하나씩 본다. one dollars → one dollar, one cents → one cent. → ③ 발문이 ‘모두’ 찾으라고 했으므로 틀린 곳을 빠짐없이 고친 것을 고른다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 1달러와 1센트는 모두 단수라 두 군데를 모두 바르게 고쳤으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] one dollars도 1달러라 one dollar로 고쳐야 하므로 오답이다.\n② [오답] They는 앞의 two apples를 가리켜 맞고, 밑줄 친 부분과도 관계없으므로 오답이다.\n③ [오답] one cents도 1센트라 one cent로 고쳐야 하므로 오답이다.\n④ [오답] 1센트를 빼면 금액이 달라지고, one dollars도 틀린 표현이므로 오답이다.\n⑤ [정답] 1달러와 1센트는 모두 단수라 두 군데를 모두 바르게 고쳤으므로 정답이다."
+  }
+ },
+ "prior_review": {}
+}

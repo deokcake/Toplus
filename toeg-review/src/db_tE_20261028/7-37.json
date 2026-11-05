@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T07:45:25.615Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: be동사 의문문에는 Yes, 주어 + be동사. / No, 주어 + be동사 + not.으로 답한다. 대답의 주어는 질문의 주어를 대명사로 받고(you → I, I → you, Tom → he, the door → it), be동사도 그 주어에 맞춘다.\n풀이 순서: ① 질문이 주어에 맞는 be동사로 시작하는지 본다. → ② 대답의 주어(대명사)와 be동사가 맞는지 본다. → ③ 선택지 ②·③은 대명사의 수가, ④는 질문의 be동사가, ⑤는 대답의 be동사가 틀렸다. 정답은 ①.\n문장별 판정:\n정답 판단: 복수 주어 the windows를 they로 받아 aren't로 바르게 답했으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 복수 주어 the windows를 they로 받아 aren't로 바르게 답했으므로 정답이다.\n② [오답] the windows는 it이 아니라 they로 받아야 하므로 오답이다.\n③ [오답] the window(단수)는 they가 아니라 it으로 받아야 하므로 오답이다.\n④ [오답] 복수 주어 the windows의 의문문은 Is가 아니라 Are로 시작하므로 오답이다.\n⑤ [오답] 대답의 주어 they에는 are를 써야 하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 질문과 대답이 바르게 연결된 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T07:45:24.179Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T07:45:25.615Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T07:45:25.615Z",
+      "what": "확인 완료"
+    }
+  }
+}

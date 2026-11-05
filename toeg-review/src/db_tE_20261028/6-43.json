@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T08:49:09.234Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 일반동사 과거 부정문은 didn’t+원형, 과거 긍정문은 과거형으로 만든다.\n풀이 순서: ① 첫 문장: last week이 있고 뒤에 동사원형이 있으므로 didn't가 들어간다. → ② 둘째 문장: last Sunday이 있고 빈칸이 동사 자리이므로 과거형 cooked. → ③ 정답은 didn't - cooked.\n문장별 판정:\n정답 판단: (첫째 빈칸) didn't: 첫 문장은 일반동사의 과거 부정문이므로 didn’t+동사원형 구조가 필요하다. (둘째 빈칸) cooked: cook의 과거형은 cooked이다. 이 동사는 끝 자음을 반복하지 않고 ed를 붙인다. 둘째 문장은 과거 긍정문이다. 따라서 정답은 ②이다.\n선택지 분석:\n① [오답] (첫째 빈칸) didn't: 첫 문장은 일반동사의 과거 부정문이므로 didn’t+동사원형 구조가 필요하다. (둘째 빈칸) cook → cooked. cook의 과거형은 cooked이다. 이 동사는 끝 자음을 반복하지 않고 ed를 붙인다. 둘째 문장은 과거 긍정문이다.\n② [정답] (첫째 빈칸) didn't: 첫 문장은 일반동사의 과거 부정문이므로 didn’t+동사원형 구조가 필요하다. (둘째 빈칸) cooked: cook의 과거형은 cooked이다. 이 동사는 끝 자음을 반복하지 않고 ed를 붙인다. 둘째 문장은 과거 긍정문이다.\n③ [오답] (첫째 빈칸) don't → didn't. 첫 문장은 일반동사의 과거 부정문이므로 didn’t+동사원형 구조가 필요하다. (둘째 빈칸) cooked: cook의 과거형은 cooked이다. 이 동사는 끝 자음을 반복하지 않고 ed를 붙인다. 둘째 문장은 과거 긍정문이다.\n④ [오답] (첫째 빈칸) didn't: 첫 문장은 일반동사의 과거 부정문이므로 didn’t+동사원형 구조가 필요하다. (둘째 빈칸) cooks → cooked. cook의 과거형은 cooked이다. 이 동사는 끝 자음을 반복하지 않고 ed를 붙인다. 둘째 문장은 과거 긍정문이다.\n⑤ [오답] (첫째 빈칸) doesn't → didn't. 첫 문장은 일반동사의 과거 부정문이므로 didn’t+동사원형 구조가 필요하다. (둘째 빈칸) cooked: cook의 과거형은 cooked이다. 이 동사는 끝 자음을 반복하지 않고 ed를 붙인다. 둘째 문장은 과거 긍정문이다.",
+    "passage": "- They _______ visit us last week.\n- My dad _______ dinner last Sunday.",
+    "stem": "빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T08:49:07.038Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:49:09.234Z",
+      "what": "확인 완료"
+    }
+  }
+}

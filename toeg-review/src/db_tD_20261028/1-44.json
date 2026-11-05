@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:46:40.098Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "b, c, d, e",
+      "1": "a, c, e",
+      "2": "b, c, d",
+      "3": "a, b, c",
+      "4": "c, d, e"
+    },
+    "expl": "핵심 규칙: 부정사의 명사 수식·결과·감정 원인 용법, 의문사 + 부정사, enough/too 구문 및 사람의 성품을 평가하는 of 구문을 실제 문장별로 확인한다.\n풀이 순서: ① 밑줄마다 볼 것을 정한다. 명사를 꾸미는 to부정사 뒤에 전치사가 필요한지, -thing과 형용사의 순서가 맞는지, to부정사의 모양이 바른지. → ② a만 live in의 in이 빠져 틀렸다. b(nothing strange), c(wide enough), d(careless of), e(too bitter)는 옳다. → ③ 옳은 것만 모은 b, c, d, e를 고른다.\n문장별 판정:\na) 틀림: ‘집에서 살다’는 live in a house이므로 to live in으로 써야 한다.\nb) 옳음: -thing으로 끝나는 말은 형용사가 뒤에서 꾸민다.\nc) 옳음: 형용사 + enough 어순이다.\nd) 옳음: 성품 형용사 careless 뒤에 of + 목적격을 썼다.\ne) 옳음: too + 형용사 + to부정사(너무 ~해서 …할 수 없다) 구문이다.\n정답 판단: 어법상 옳은 문장은 b, c, d, e이다.\n선택지 분석:\n① [정답] 옳은 문장 b, c, d, e를 빠짐없이 골랐으므로 정답이다.\n② [오답] a는 옳은 문장이 아니고, 옳은 문장 b, d를 빠뜨렸다. 따라서 오답이다.\n③ [오답] 옳은 문장 e를 빠뜨렸다. 따라서 오답이다.\n④ [오답] a는 옳은 문장이 아니고, 옳은 문장 d, e를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] 옳은 문장 b를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "a) We are looking for a quiet house <u>to live</u>.\nb) There is <u>nothing strange</u> to report today.\nc) The road is <u>wide enough</u> for two cars to pass.\nd) It was <u>careless of him</u> to forget his passport.\ne) The coffee is <u>too bitter</u> for me to drink.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 것을 모두 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T06:56:58.222Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T06:57:28.456Z",
+      "text": "기준 문항과 밑줄의 범위가 다르다."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:46:40.098Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:46:32.092Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:46:40.098Z",
+      "what": "확인 완료"
+    }
+  }
+}

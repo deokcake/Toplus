@@ -1,0 +1,35 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T12:35:45.924Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "doesn't walks",
+      "1": "doesn't walk",
+      "2": "don't walk",
+      "3": "doesn't walking",
+      "4": "doesn't walked"
+    },
+    "expl": "핵심 규칙: 일반동사 현재 부정문은 3인칭 단수 주어에 doesn't + 동사원형, 그 밖의 주어에 don't + 동사원형을 쓴다.\n풀이 순서: ① 주어를 본다: she(3인칭 단수)이므로 doesn't. → ② 뒤에는 동사원형을 쓴다: walk. → ③ 정답은 doesn't walk.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 she의 부정 doesn't + 동사원형으로 바르게 고쳤으므로 정답은 ②이다.\n선택지 분석:\n① [오답] doesn't 뒤에는 동사원형을 쓰므로 오답이다.\n② [정답] 3인칭 단수 주어 she의 부정 doesn't + 동사원형으로 바르게 고쳤으므로 정답이다.\n③ [오답] 3인칭 단수 주어에는 don't가 아니라 doesn't를 쓰므로 오답이다.\n④ [오답] doesn't 뒤에 -ing형을 쓸 수 없으므로 오답이다.\n⑤ [오답] doesn't 뒤에 과거형을 쓸 수 없으므로 오답이다.",
+    "passage": "A: Does Mina walk to school?\nB: No, she <u>don't walk</u> to school. She takes the bus.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T06:01:59.283Z"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T06:01:59.283Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T12:35:45.924Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T06:01:59.283Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

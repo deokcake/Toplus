@@ -1,0 +1,180 @@
+{
+ "key": "3-17",
+ "type": "E",
+ "grade": 3,
+ "chapter": "CH 2 일반동사",
+ "title": "You like 문장의 의문문",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "3급 · CH 2 일반동사 · 17번 · E 유형\n\n이 문제는 일반동사 like가 쓰인 현재 문장을 바른 의문문으로 바꾼 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 2 일반동사 · 17번 · E 유형",
+     "이 문제는 일반동사 like가 쓰인 현재 문장을 바른 의문문으로 바꾼 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 2, 17번 E 유형. 이 문제는 일반동사 like가 쓰인 현재 문장을 바른 의문문으로 바꾼 것을 고르는 문제예요.",
+   "caption": "You like 문장의 의문문"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 문장을 의문문으로 바꾼 것을 고르시오.\n\nYou like this song very much.\n\n① Does you like this song very much?\n② Do you liked this song very much?\n③ Are you like this song very much?\n④ Do you like this song very much?\n⑤ Do you likes this song very much?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장을 의문문으로 바꾼 것을 고르시오.",
+     "You like this song very much.",
+     "① Does you like this song very much?",
+     "② Do you liked this song very much?",
+     "③ Are you like this song very much?",
+     "④ Do you like this song very much?",
+     "⑤ Do you likes this song very much?"
+    ]
+   },
+   "narration": "다음 문장을 의문문으로 바꾼 것을 고르세요. You like this song very much. 너는 이 노래를 아주 좋아해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n일반동사 현재형 문장의 의문문: Do/Does + 주어 + 동사원형 ~? (~하니?)\nI, you, we, they, 복수 주어 → Do\n3인칭 단수 주어(he, she, it, 단수 명사) → Does\n일반동사라 be동사로, 현재라 Did로 묻지 않아요\n예) They live in Seoul. → Do they live in Seoul? (그들은 서울에 사니?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "일반동사 현재형 문장의 의문문: Do/Does + 주어 + 동사원형 ~? (~하니?)",
+     "I, you, we, they, 복수 주어 → Do",
+     "3인칭 단수 주어(he, she, it, 단수 명사) → Does",
+     "일반동사라 be동사로, 현재라 Did로 묻지 않아요",
+     "예) They live in Seoul. → Do they live in Seoul? (그들은 서울에 사니?)"
+    ]
+   },
+   "narration": "일반동사 현재형 문장을 의문문으로 바꿀 때는 be동사나 Did가 아니라 Do나 Does를 주어 앞에 쓰고, 동사는 원형으로 써요. 주어가 I, you, we, they나 복수이면 Do, he, she, it 같은 3인칭 단수이면 Does예요. 예를 들어 They live in Seoul, 그들은 서울에 살아요. 의문문은 Do they live in Seoul? 그들은 서울에 사니?",
+   "caption": "Do/Does + 주어 + 동사원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 31,
+   "screen": {
+    "text": "다음 문장을 의문문으로 바꾼 것을 고르시오.\n\nYou like this song very much.\n\n① Does you like this song very much?\n② Do you liked this song very much?\n③ Are you like this song very much?\n④ Do you like this song very much?\n⑤ Do you likes this song very much?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "You like this song very much."
+      ],
+      "strike": [
+       "③ Are you like this song very much?"
+      ],
+      "note": "동사 like는 일반동사 현재형 → be동사 Are로 시작한 ③ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "You"
+      ],
+      "strike": [
+       "① Does you like this song very much?"
+      ],
+      "note": "주어 You → Do. Does로 시작한 ① 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ Do you like this song very much?"
+      ],
+      "strike": [
+       "② Do you liked this song very much?",
+       "⑤ Do you likes this song very much?"
+      ],
+      "note": "Do 뒤는 동사원형 like → liked를 쓴 ②, likes를 쓴 ⑤ 지움 → ④"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 이 문장의 like는 일반동사 현재형이니, be동사 Are로 시작한 3번을 지워요. 둘째, 주어 You에는 Does가 아니라 Do를 쓰니, Does로 시작한 1번을 지워요. 셋째, Do 뒤의 동사는 원형 like로 쓰니, 과거형 liked를 쓴 2번과 s형 likes를 쓴 5번을 지우면 4번이 남아요. Do you like this song very much? 너는 이 노래를 아주 좋아하니?",
+   "caption": "일반동사 → Do → 원형 like"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 21,
+   "screen": {
+    "text": "① Does you like this song very much?  ✗  주어 you에는 Does가 아니라 Do\n② Do you liked this song very much?  ✗  Do 뒤에 과거형 liked를 썼어요 (원형 like)\n③ Are you like this song very much?  ✗  일반동사 like 문장은 be동사로 묻지 않아요\n④ Do you like this song very much?  ✓  주어 you → Do + 동사원형 like\n⑤ Do you likes this song very much?  ✗  Do 뒤에 s형 likes를 썼어요 (원형 like)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Does you like this song very much?  ✗  주어 you에는 Does가 아니라 Do",
+     "② Do you liked this song very much?  ✗  Do 뒤에 과거형 liked를 썼어요 (원형 like)",
+     "③ Are you like this song very much?  ✗  일반동사 like 문장은 be동사로 묻지 않아요",
+     "④ Do you like this song very much?  ✓  주어 you → Do + 동사원형 like",
+     "⑤ Do you likes this song very much?  ✗  Do 뒤에 s형 likes를 썼어요 (원형 like)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 3번을 고르기 쉬운데, 이 문장의 like는 일반동사라서 be동사 Are로 묻지 않아요. 1번은 주어 you에 Does를 써서 틀렸어요. 2번과 5번은 Do 뒤에 liked와 likes를 써서 틀렸어요. 동사는 원형 like로 써요.",
+   "caption": "정답 ④ Do you like"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 13,
+   "screen": {
+    "text": "정답 ④ Do you like this song very much?\n\n일반동사 현재 의문문: Do/Does + 주어 + 동사원형 ~?  (복수 주어, I, you → Do)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ Do you like this song very much?",
+     "일반동사 현재 의문문: Do/Does + 주어 + 동사원형 ~?  (복수 주어, I, you → Do)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 일반동사 현재 의문문은 Do나 Does 뒤에 동사원형을 쓰고, 복수 주어와 I, you에는 Do를 써요.",
+   "caption": "I, you, 복수 주어 → Do + 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장을 의문문으로 바꾼 것을 고르시오.",
+  "passage": "You like this song very much.",
+  "c": [
+   "Does you like this song very much?",
+   "Do you liked this song very much?",
+   "Are you like this song very much?",
+   "Do you like this song very much?",
+   "Do you likes this song very much?"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 현재 일반동사 의문문은 Do/Does + 주어 + 동사원형으로 만든다. 3인칭 단수 주어에는 Does를 쓰고, be동사나 did·과거형을 섞지 않는다.\n풀이 순서: ① 동사(like)가 일반동사의 현재형이다. 의문문은 Do/Does + 주어 + 동사원형이다. → ② 주어(You)에 맞춰 Do를 쓴다. 본동사는 원형으로 쓴다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: Do/Does + 주어 + 동사원형으로 바르게 바꿨으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 주어 you에는 Do를 쓰므로 오답이다.\n② [오답] Do 뒤에는 동사원형(like)을 쓰므로 오답이다.\n③ [오답] 일반동사 문장에는 be동사로 의문문을 만들지 않으므로 오답이다.\n④ [정답] Do/Does + 주어 + 동사원형으로 바르게 바꿨으므로 정답이다.\n⑤ [오답] Do 뒤에는 동사원형(like)을 쓰므로 오답이다."
+ }
+}

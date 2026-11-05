@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:44:34.702Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": "this"
+    },
+    "expl": "핵심 규칙: ‘이것(들)은/저것(들)은 ~의 … 이다’는 지시대명사 + be동사 + 소유격 + 형용사 + 명사의 순서로 배열한다. this/that에는 is, these/those에는 are를 쓴다.\n풀이 순서: ① 우리말의 주어(‘이것은’)에 맞는 지시대명사와 be동사를 먼저 놓는다: This is. → ② 그 뒤에 소유격 + 형용사 + 명사를 잇는다: their nice house. → ③ 완성 문장 This is their nice house.의 셋째 낱말은 their.\n문장별 판정:\n정답 판단: 완성 문장은 This is their nice house.이고 세 번째 단어는 their이다.\n선택지 분석:\n① [오답] 완성 문장 This is their nice house.에서 단어(house)는 5번째에 오므로 오답이다.\n② [오답] 완성 문장 This is their nice house.에서 단어(is)는 2번째에 오므로 오답이다.\n③ [정답] 완성 문장 This is their nice house.에서 단어(their)는 3번째에 오므로 정답이다.\n④ [오답] 완성 문장 This is their nice house.에서 단어(nice)는 4번째에 오므로 오답이다.\n⑤ [오답] 완성 문장 This is their nice house.에서 단어(this)는 1번째에 오므로 오답이다.",
+    "passage": "이것은 그들의 멋진 집이다.\n( house / is / their / nice / this / . )",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 만들 때, 세 번째에 올 단어를 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:44:32.462Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:44:34.702Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:44:34.702Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-26T04:00:01.664Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "can't",
+      "1": "should",
+      "2": "will",
+      "3": "must",
+      "4": "may"
+    },
+    "expl": "핵심 규칙: can은 능력·허락, may/might는 가능성·추측 등에 쓰며 조동사 뒤에는 동사원형을 사용한다.\n풀이 순서: ① B의 말에서 확신의 정도를 알려 주는 단서를 찾는다: It's possible. → ② 확실하지 않은 추측은 might(may)다. must는 확신, can't는 강한 부정, will은 단정이라 이 단서와 맞지 않는다. → ③ 정답은 may.\n문장별 판정:\n정답 판단: may는 확신 없이 인정하는 가능성을 나타낸다. B의 유보적인 가능성 표현과 일치한다. 따라서 정답은 ⑤이다.\n선택지 분석:\n① [오답] can't는 불가능하다는 판단을 나타낸다. 대화에 맞는 단순한 가능성은 may로 나타낸다.\n② [오답] should는 당위나 그럴 것이라는 기대를 나타낸다. 대화에 맞는 단순한 가능성은 may로 나타낸다.\n③ [오답] will은 그럴 것이라는 예측·추측이나 의지를 나타낸다. 대화에 맞는 단순한 가능성은 may로 나타낸다.\n④ [오답] must는 강한 확신이나 의무를 나타낸다. 대화에 맞는 단순한 가능성은 may로 나타낸다.\n⑤ [정답] may는 확신 없이 인정하는 가능성을 나타낸다. B의 유보적인 가능성 표현과 일치한다.",
+    "passage": "A: Can Jane come to the party tonight?\nB: She _____ come after work. It's possible, but she hasn't decided yet.",
+    "stem": "빈칸에 들어갈 조동사로 가장 적절한 것을 고르시오."
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T04:00:01.664Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:00:01.664Z",
+      "what": "확인 완료"
+    }
+  }
+}

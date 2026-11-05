@@ -1,0 +1,33 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-24T01:25:42.849Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "is",
+      "1": "am",
+      "2": "are",
+      "3": "being",
+      "4": "be"
+    },
+    "expl": "핵심 규칙: either A or B, neither A nor B, not only A but also B가 주어이면 동사는 B에 수를 맞추고, both A and B는 복수 동사를 쓴다.\n풀이 순서: ① 주어의 상관접속사를 확인한다: Both A and B. → ② 두 사람을 합친 복수이므로 복수 동사를 쓴다. → ③ 정답은 are. be, being은 문장의 동사가 될 수 없다.\n문장별 판정:\n정답 판단: are: Both A and B는 복수 동사를 쓰므로 정답은 ③이다.\n선택지 분석:\n① [오답] is: Both A and B는 복수이고, 단수형은 맞지 않으므로 오답이다.\n② [오답] am: 주어가 I가 아니므로 오답이다.\n③ [정답] are: Both A and B는 복수 동사를 쓰므로 정답이다.\n④ [오답] being: -ing만으로는 문장의 동사가 될 수 없으므로 오답이다.\n⑤ [오답] be: 주어 뒤 동사 자리에 원형을 쓸 수 없으므로 오답이다.",
+    "passage": "- Both Mina and her brother ________ good at swimming.",
+    "stem": "다음 빈칸에 들어갈 가장 적절한 단어는?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T01:25:06.333Z"
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:30:48.347Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T04:30:48.347Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:30:48.347Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

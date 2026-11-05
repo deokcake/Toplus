@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-21T11:52:36.533Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 질문과 대답의 인칭 전환·수·과거 시제·긍정/부정을 따로 확인한다.\n풀이 순서: ① (A): 질문의 주어가 Tom and Ben(복수)이므로 Were. → ② (B): 대답이 No, they ~이므로 weren't. → ③ 정답은 Were - weren't.\n문장별 판정:\n정답 판단: (A) Were: 주어 Tom and Ben의 과거진행형 질문이므로 were를 앞에 놓는다. (B) weren't: 대답의 they에 맞는 were를 쓰고 No의 부정이므로 not을 붙인다. 따라서 정답은 ③이다.\n선택지 분석:\n① [오답] (A) Was → Were. 주어 Tom and Ben의 과거진행형 질문이므로 were를 앞에 놓는다. (B) wasn't → weren't. 대답의 they에 맞는 were를 쓰고 No의 부정이므로 not을 붙인다.\n② [오답] (A) Were: 주어 Tom and Ben의 과거진행형 질문이므로 were를 앞에 놓는다. (B) were → weren't. 대답의 they에 맞는 were를 쓰고 No의 부정이므로 not을 붙인다.\n③ [정답] (A) Were: 주어 Tom and Ben의 과거진행형 질문이므로 were를 앞에 놓는다. (B) weren't: 대답의 they에 맞는 were를 쓰고 No의 부정이므로 not을 붙인다.\n④ [오답] (A) Was → Were. 주어 Tom and Ben의 과거진행형 질문이므로 were를 앞에 놓는다. (B) were → weren't. 대답의 they에 맞는 were를 쓰고 No의 부정이므로 not을 붙인다.\n⑤ [오답] (A) Were: 주어 Tom and Ben의 과거진행형 질문이므로 were를 앞에 놓는다. (B) was → weren't. 대답의 they에 맞는 were를 쓰고 No의 부정이므로 not을 붙인다.",
+    "passage": "A: (<u>     A     </u>) Tom and Ben playing?\nB: No, they (<u>     B     </u>).",
+    "stem": "다음 대화의 빈칸에 들어갈 말이 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-21T11:52:34.591Z"
+  },
+  "tab": "ojjpxrut",
+  "updatedAt": "2026-10-21T11:52:36.533Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T11:52:36.533Z",
+      "what": "확인 완료"
+    }
+  }
+}

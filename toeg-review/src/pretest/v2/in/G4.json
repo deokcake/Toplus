@@ -1,0 +1,1026 @@
+[
+ {
+  "key": "4-1",
+  "grade": 4,
+  "no": 1,
+  "chapter": "CH 1",
+  "chapter_name": "명사와 관사",
+  "ref": {
+   "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "city - cities",
+    "leaf - leaves",
+    "potato - potatoes",
+    "child - children",
+    "mouse - mouses"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 명사의 복수형: 자음 + y → -ies(city - cities), -f(e) → -ves(leaf - leaves), -o → -es(potato - potatoes). 불규칙: child - children, mouse - mice, man - men, tooth - teeth, foot - feet.\n풀이 순서: ① 불규칙으로 변하는 명사부터 확인한다: child - children, mouse - mice. → ② 나머지는 규칙(-s, -es, y → ies, f → ves)대로인지 본다. → ③ mouse의 복수형을 mouses로 썼다. 정답은 ⑤.\n문장별 판정:\n정답 판단: mouse의 복수형은 mouses가 아니라 mice이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 자음 + y로 끝나 y를 i로 바꾸고 -es를 붙인 옳은 형태이므로 오답이다.\n② [오답] -f를 v로 바꾸고 -es를 붙인 옳은 형태이므로 오답이다.\n③ [오답] -o로 끝나 -es를 붙인 옳은 형태이므로 오답이다.\n④ [오답] child의 불규칙 복수형 children으로 옳으므로 오답이다.\n⑤ [정답] mouse의 복수형은 mouses가 아니라 mice이므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "man - mans",
+     "woman - women",
+     "tooth - teeth",
+     "watch - watches",
+     "book - books"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "box - boxes",
+     "knife - knifes",
+     "woman - women",
+     "book - books",
+     "baby - babies"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "mouse - mice",
+     "child - childs",
+     "foot - feet",
+     "class - classes",
+     "dish - dishes"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "man - men",
+     "child - children",
+     "city - cities",
+     "box - boxes",
+     "tooth - tooths"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "foot - foots",
+     "child - children",
+     "leaf - leaves",
+     "mouse - mice",
+     "baby - babies"
+    ],
+    "ans": 1
+   }
+  },
+  "target_answer_position": 1,
+  "v1_pretest": {
+   "stem": "다음 빈칸 (A)~(C)에 괄호 안의 명사를 알맞은 형태로 바꾸어 넣을 때, 바르게 짝지어진 것은?",
+   "passage": "Many (A)_______ (wolf) live in this forest, so be careful at night.\nMy grandma grows (B)_______ (tomato) and carrots in her garden.\nThree (C)_______ (goose) are swimming in the lake near our school.",
+   "c": [
+    "(A) wolves - (B) tomatoes - (C) geese",
+    "(A) wolfs - (B) tomatos - (C) geese",
+    "(A) wolves - (B) tomatos - (C) gooses",
+    "(A) wolfs - (B) tomatoes - (C) gooses",
+    "(A) wolves - (B) tomatos - (C) geese"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 명사의 복수형은 -f(e)로 끝나면 f(e)를 v로 바꾸고 -es를 붙이고(wolf - wolves), 자음 + o로 끝나면 -es를 붙인다(tomato - tomatoes). goose처럼 불규칙하게 변하는 명사는 따로 외운다(goose - geese, foot - feet, tooth - teeth).\n풀이 순서: ① (A) wolf는 -f로 끝나므로 f를 v로 바꾸고 -es를 붙인 wolves. → ② (B) tomato는 -o로 끝나므로 tomatoes, (C) goose는 불규칙 변화라 geese. → ③ 세 칸이 모두 바른 짝을 찾는다. 정답은 ①.\n문장별 판정:\n정답 판단: wolves, tomatoes, geese를 모두 바르게 짝지었으므로 정답은 ①이다.\n선택지 분석:\n① [정답] wolves, tomatoes, geese를 모두 바르게 짝지었으므로 정답이다.\n② [오답] (A): wolf의 복수형은 wolves, (B): tomato의 복수형은 tomatoes이므로 오답이다.\n③ [오답] (B): tomato는 -es를 붙인 tomatoes로, (C): goose는 불규칙 복수형 geese로 써야 하므로 오답이다.\n④ [오답] (A): wolf는 f를 v로 바꾼 wolves로 쓰고, (C): goose의 복수형은 gooses가 아니라 geese이므로 오답이다.\n⑤ [오답] (A)와 (C)는 맞지만 (B): tomato의 복수형은 tomatos가 아니라 tomatoes이므로 오답이다.",
+   "new_format": "세 문장의 빈칸 (A)~(C)에 괄호 안 명사의 복수형을 넣을 때 바르게 짝지어진 것 고르기",
+   "design": "원문항처럼 -f → -ves, -o → -es, 불규칙 복수형(mouse - mice와 같은 모음 변화)을 평가하되, 단수-복수 짝을 판정하는 대신 문맥(Many, Three 등) 속 빈칸에 들어갈 복수형을 직접 떠올리게 바꿨다. 오답은 wolfs, tomatos, gooses처럼 규칙 변화를 그대로 적용해 생기는 실제 실수로 짰고, 칸마다 많이 나온 형태를 고르면 오답 ⑤가 되도록 배치해 찍기를 막았다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 45/10 글자 234/63 정답 1",
+   "ERR  원문항보다 너무 김: 낱말 45 > 상한 18 (원문항 10) — 난이도가 올라감",
+   "ERR  빈칸 3개 짝 고르기 — 원문항보다 판단할 곳이 많음"
+  ]
+ },
+ {
+  "key": "4-12",
+  "grade": 4,
+  "no": 12,
+  "chapter": "CH 2",
+  "chapter_name": "대명사",
+  "ref": {
+   "stem": "다음 빈칸에 his[His]가 들어갈 수 없는 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "_____ is my best friend.",
+    "I met _____ friend yesterday.",
+    "_____ parents are doctors.",
+    "It's _____ birthday today.",
+    "The book is _____."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: his는 명사 앞의 소유격(his friend)이나 ‘그의 것’이라는 소유대명사(The book is his)로 쓴다. 주어 자리에는 He를 쓴다.\n풀이 순서: ① his가 들어가는 자리는 둘이다: 명사 앞(소유격), 명사 없이 ‘그의 것’(소유대명사). → ② 빈칸 뒤에 명사가 있거나 ‘~의 것’으로 풀리는 문장을 지운다. → ③ 선택지 ①은 빈칸 뒤가 동사 is라 주어 자리다. ‘그는 내 가장 친한 친구다’이므로 He가 들어간다. 정답은 ①.\n문장별 판정:\n정답 판단: 주어 자리라 His가 아니라 He가 들어가야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] 주어 자리라 His가 아니라 He가 들어가야 하므로 정답이다.\n② [오답] 명사 friend 앞에 소유격 his가 들어가므로 오답이다.\n③ [오답] 명사 parents 앞에 소유격 His가 들어가므로 오답이다.\n④ [오답] 명사 birthday 앞에 소유격 his가 들어가므로 오답이다.\n⑤ [오답] ‘그의 것’이라는 소유대명사 his가 들어가므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 his[His]가 들어갈 수 없는 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "This is _____ desk.",
+     "_____ is very happy today.",
+     "I know _____ teacher.",
+     "That book is _____.",
+     "_____ hat is blue."
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 빈칸에 his[His]가 들어갈 수 없는 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "_____ book on the desk is red.",
+     "This is _____ bag for the trip.",
+     "That black car is _____.",
+     "I like _____ new jacket a lot.",
+     "_____ is my classmate now."
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 빈칸에 his[His]가 들어갈 수 없는 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "This is _____ watch.",
+     "The blue umbrella is _____.",
+     "I know _____ brother.",
+     "_____ dog is cute.",
+     "_____ likes to wear a cap."
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "다음 빈칸에 his[His]가 들어갈 수 없는 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "My teacher helped _____ after class.",
+     "_____ sister is kind to everyone.",
+     "This is _____ new pencil.",
+     "That bike in the yard is _____.",
+     "I really like _____ car."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 빈칸에 his[His]가 들어갈 수 없는 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "_____ father works at a hospital.",
+     "_____ is a kind boy in my class.",
+     "We visited _____ house last Sunday.",
+     "I really like _____ new red cap.",
+     "The blue bag on the chair is _____."
+    ],
+    "ans": 2
+   }
+  },
+  "target_answer_position": 3,
+  "v1_pretest": {
+   "stem": "다음 <보기>의 빈칸 중 his[His]가 들어가는 것을 모두 고른 것은?",
+   "passage": "<보기>\nⓐ Minho lost _______ new umbrella on the bus yesterday.\nⓑ My grandfather lives in Jeonju. _______ grows apples on a big farm.\nⓒ This blue jacket was on Daniel's chair. I'm sure it is _______.\nⓓ Mr. Kim is our music teacher. _______ classes are always fun.\nⓔ Eric's puppy is very smart. It always follows _______ around the house.",
+   "c": [
+    "ⓐ, ⓑ, ⓓ",
+    "ⓐ, ⓑ, ⓓ, ⓔ",
+    "ⓐ, ⓒ, ⓓ",
+    "ⓐ, ⓒ, ⓔ",
+    "ⓐ, ⓓ, ⓔ"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: his는 명사 앞에서 ‘그의’라는 소유격(his umbrella)으로, 명사 없이 ‘그의 것’이라는 소유대명사(it is his)로 쓴다. 동사 앞 주어 자리에는 He를, 동사 뒤 목적어 자리에는 him을 쓴다.\n풀이 순서: ① 빈칸 뒤에 (형용사 +) 명사가 이어지는지 본다: 이어지면 문장 맨 앞이라도 소유격 his[His]. → ② 명사가 없으면 빈칸의 자리를 본다: 동사 앞 주어 자리는 He, 동사 뒤 목적어 자리는 him, be동사 뒤에서 ‘그의 것’을 뜻하면 소유대명사 his. → ③ his[His]가 들어가는 것은 ⓐ, ⓒ, ⓓ이다. 정답은 ③.\n문장별 판정:\nⓐ O. 형용사 + 명사(new umbrella) 앞이라 소유격 his가 들어간다.\nⓑ X. 빈칸 뒤가 동사 grows인 주어 자리라 He가 들어간다.\nⓒ O. 명사 없이 ‘그의 것’(Daniel의 것)을 뜻하는 소유대명사 his가 들어간다.\nⓓ O. 문장 맨 앞이지만 뒤에 명사 classes가 있으므로 소유격 His가 들어가 ‘그의 수업’이 된다.\nⓔ X. 동사 follows 뒤 목적어 자리라 him이 들어간다.\n정답 판단: his[His]가 들어가는 것은 ⓐ, ⓒ, ⓓ이고 ⓑ에는 He, ⓔ에는 him이 들어가므로 정답은 ③이다.\n선택지 분석:\n① [오답] ⓑ는 주어 자리라 He가 들어가고, 소유대명사 his가 들어가는 ⓒ가 빠졌으므로 오답이다.\n② [오답] ⓑ에는 주어 He, ⓔ에는 목적어 him이 들어가고, 소유대명사 his가 들어가는 ⓒ가 빠졌으므로 오답이다.\n③ [정답] 소유격 his[His]가 들어가는 ⓐ, ⓓ와 소유대명사 his가 들어가는 ⓒ를 모두 골랐으므로 정답이다.\n④ [오답] ⓔ는 목적어 자리라 him이 들어가고, 명사 classes 앞이라 His가 들어가는 ⓓ가 빠졌으므로 오답이다.\n⑤ [오답] ⓔ는 목적어 자리라 him이 들어가고, 소유대명사 his가 들어가는 ⓒ가 빠졌으므로 오답이다.",
+   "new_format": "<보기> 다섯 문장의 빈칸 중 his[His]가 들어가는 것을 모두 고른 조합 고르기",
+   "design": "원문항과 같이 his는 명사 앞 소유격과 ‘그의 것’이라는 소유대명사로 쓰고 주어 자리에는 He가 온다는 규칙을 평가한다. his가 들어갈 수 없는 문장 하나를 고르는 대신 <보기>에서 his[His]가 들어가는 빈칸을 모두 고르게 바꿔 다섯 빈칸을 하나하나 판정하게 했고, his가 들어갈 수 없는 자리를 주어 He(ⓑ)와 목적어 him(ⓔ) 두 곳으로 나눴다. 오답 조합은 주어 자리에 His를 쓰는 실수, 목적어 him 자리에 his를 쓰는 실수, 소유대명사 his를 모르는 실수, 문장 맨 앞 빈칸을 무조건 주어로 보는 실수를 섞어 짰고, 정답 조합이 다른 조합의 부분집합이나 상위집합이 되지 않게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 51/17 글자 219/76 정답 3",
+   "ERR  원문항보다 너무 김: 낱말 51 > 상한 25 (원문항 17) — 난이도가 올라감",
+   "ERR  원문항이 조합형이 아닌데 조합 고르기 형식 — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "4-23",
+  "grade": 4,
+  "no": 23,
+  "chapter": "CH 3",
+  "chapter_name": "be동사와 일반동사",
+  "ref": {
+   "stem": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르시오.",
+   "passage": "",
+   "c": [
+    "The cat sleep on the sofa.",
+    "My sister cook dinner.",
+    "The students studies hard.",
+    "Water boils at 100°C.",
+    "He don't like coffee."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 현재 시제에서 주어가 3인칭 단수이면 동사에 -(e)s를 붙이고 부정은 doesn't를 쓴다. 복수 주어에는 동사원형을 쓴다.\n풀이 순서: ① 문장마다 주어가 단수인지 복수인지 가른다. → ② 단수 주어면 동사에 -(e)s(부정은 doesn't), 복수 주어면 동사원형(부정은 don't)인지 본다. → ③ 선택지 ④만 단수 취급하는 Water에 boils를 써서 맞다. 정답은 ④.\n문장별 판정:\n정답 판단: 셀 수 없는 명사 Water는 단수 취급해 boils가 맞으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 단수 주어 The cat에는 sleeps를 써야 하므로 오답이다.\n② [오답] 단수 주어 My sister에는 cooks를 써야 하므로 오답이다.\n③ [오답] 복수 주어 The students에는 study를 써야 하므로 오답이다.\n④ [정답] 셀 수 없는 명사 Water는 단수 취급해 boils가 맞으므로 정답이다.\n⑤ [오답] 3인칭 단수 주어 He에는 doesn't를 써야 하므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "My dog run very fast.",
+     "The children plays in the park.",
+     "The news is interesting.",
+     "She don't eat meat.",
+     "My parents works hard."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "Tom watch TV every night.",
+     "The girls sings well.",
+     "It rain a lot in July.",
+     "He don't know the answer.",
+     "My uncle teaches math."
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "The boys play soccer.",
+     "Jane cry easily.",
+     "Our teacher have a car.",
+     "The birds sings in the morning.",
+     "Mina don't like carrots."
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "The baby cry at night.",
+     "Jane studies English.",
+     "My friends lives near here.",
+     "Tom go to bed at ten.",
+     "She have long hair."
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "The students is in the gym.",
+     "My cat sleep all day.",
+     "He fix cars.",
+     "These pants are new.",
+     "Dad don't drink coffee."
+    ],
+    "ans": 4
+   }
+  },
+  "target_answer_position": 5,
+  "v1_pretest": {
+   "stem": "다음 <보기>에서 주어와 동사의 수 일치가 바르게 된 문장을 모두 고른 것은?",
+   "passage": "<보기>\nⓐ My cousins visits us every winter.\nⓑ Ice melts quickly on hot summer days.\nⓒ My uncle don't eat spicy food at all.\nⓓ My grandparents live in a small town near the sea.\nⓔ Our science teacher always wears a white coat in class.",
+   "c": [
+    "ⓐ, ⓑ, ⓒ",
+    "ⓐ, ⓓ",
+    "ⓑ, ⓒ",
+    "ⓑ, ⓒ, ⓔ",
+    "ⓑ, ⓓ, ⓔ"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 현재 시제에서 주어가 3인칭 단수(셀 수 없는 명사 포함)이면 동사에 -(e)s를 붙이고 부정은 doesn't + 동사원형을 쓴다. 주어가 복수이면 동사원형을 쓰고 부정은 don't를 쓴다.\n풀이 순서: ① 문장마다 주어가 단수인지 복수인지 가른다(셀 수 없는 명사 Ice는 단수 취급). → ② 단수 주어면 동사에 -(e)s(부정은 doesn't), 복수 주어면 동사원형(부정은 don't)인지 본다. → ③ ⓐ visits(visit), ⓒ don't(doesn't)가 틀렸고 ⓑ, ⓓ, ⓔ가 옳다. 정답은 ⑤.\n문장별 판정:\nⓐ X. 복수 주어 My cousins에는 동사원형 visit를 써야 한다.\nⓑ O. 셀 수 없는 명사 Ice는 단수 취급하므로 melts가 맞다.\nⓒ X. 3인칭 단수 주어 My uncle의 부정은 doesn't eat으로 써야 한다.\nⓓ O. 복수 주어 My grandparents에 동사원형 live가 맞다.\nⓔ O. 3인칭 단수 주어 Our science teacher에 wears가 맞다.\n정답 판단: 수 일치가 바른 문장 ⓑ, ⓓ, ⓔ를 모두 골랐으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] ⓐ는 복수 주어에 visits를, ⓒ는 단수 주어에 don't를 써서 틀린 문장이므로 오답이다.\n② [오답] ⓐ는 복수 주어 My cousins에 visits를 써서 틀렸고 옳은 문장 ⓑ, ⓔ가 빠졌으므로 오답이다.\n③ [오답] ⓒ는 단수 주어 My uncle에 don't를 써서 틀렸고 옳은 문장 ⓓ, ⓔ가 빠졌으므로 오답이다.\n④ [오답] ⓑ, ⓔ는 옳지만 틀린 문장 ⓒ가 들어 있고 옳은 문장 ⓓ가 빠졌으므로 오답이다.\n⑤ [정답] 수 일치가 바른 문장 ⓑ, ⓓ, ⓔ를 모두 골랐으므로 정답이다.",
+   "new_format": "<보기> 다섯 문장 중 수 일치가 바른 문장을 모두 고른 조합 고르기",
+   "design": "현재 시제에서 3인칭 단수(셀 수 없는 명사 포함) 주어에는 동사 -(e)s와 doesn't, 복수 주어에는 동사원형과 don't를 쓰는 규칙을 그대로 평가한다. 옳은 문장 하나를 고르는 대신 다섯 문장을 모두 O/X로 판정해 조합을 고르게 바꿨고, 원문항의 Water처럼 셀 수 없는 주어(Ice)를 옳은 문장에 넣었다. 틀린 문장은 복수 주어 + -s, 단수 주어 + don't로 한 군데씩만 틀리게 했고, 오답 조합에는 정답의 부분집합이 없게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 41/22 글자 172/94 정답 5",
+   "ERR  원문항보다 너무 김: 낱말 41 > 상한 33 (원문항 22) — 난이도가 올라감",
+   "ERR  원문항이 조합형이 아닌데 조합 고르기 형식 — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "4-34",
+  "grade": 4,
+  "no": 34,
+  "chapter": "CH 4",
+  "chapter_name": "시제Ⅰ",
+  "ref": {
+   "stem": "다음 중 틀린 문장을 고르시오.",
+   "passage": "",
+   "c": [
+    "Kelly went to the store.",
+    "My sister and I were at school yesterday.",
+    "We meeted at the cafe.",
+    "I wrote a letter to my friend.",
+    "They came home late."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 불규칙 동사의 과거형은 -ed를 붙이지 않는다: meet - met, write - wrote, go - went, buy - bought, see - saw, come - came.\n풀이 순서: ① 문장마다 동사의 과거형이 바른지 본다. 불규칙 동사에 -ed를 붙인 것을 찾는다. → ② meet는 불규칙 동사라 과거형이 met이다. meeted는 없는 형태다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: meet의 과거형은 meeted가 아니라 met이므로 정답은 ③이다.\n선택지 분석:\n① [오답] go의 과거형 went로 옳으므로 오답이다.\n② [오답] 복수 주어에 were를 써서 옳으므로 오답이다.\n③ [정답] meet의 과거형은 meeted가 아니라 met이므로 정답이다.\n④ [오답] write의 과거형 wrote로 옳으므로 오답이다.\n⑤ [오답] come의 과거형 came으로 옳으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 틀린 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "I writed a letter.",
+     "Tom went home.",
+     "Jane bought a bag.",
+     "They saw the movie.",
+     "We met at the library."
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 중 틀린 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "Mom made a cake.",
+     "He sent me an email.",
+     "I heared a strange sound.",
+     "The kids swam in the river.",
+     "She told me a story."
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 중 틀린 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "Tom goed home early.",
+     "We ate pizza for dinner.",
+     "They sang a song together.",
+     "He found his key.",
+     "I drank some juice."
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 중 틀린 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "My dad drove to work.",
+     "Jane buyed a new dress.",
+     "The bird flew away.",
+     "We sat on the bench.",
+     "He wore a blue cap."
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 중 틀린 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "I lost my umbrella.",
+     "The baby slept well.",
+     "She gave me a pen.",
+     "We took the bus.",
+     "They seed a rainbow."
+    ],
+    "ans": 5
+   }
+  },
+  "target_answer_position": 1,
+  "v1_pretest": {
+   "stem": "다음 글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것은?",
+   "passage": "Last Saturday, I ⓐ<u>catched</u> a bad cold, so I stayed in bed all day. My dad ⓑ<u>brought</u> me some warm tea and medicine. After lunch, I ⓒ<u>read</u> my favorite comic book for an hour. In the evening, my friend Yuna ⓓ<u>came</u> to my house with some oranges. She ⓔ<u>drew</u> a funny picture for me, and I felt much better.",
+   "c": [
+    "ⓐ",
+    "ⓑ",
+    "ⓒ",
+    "ⓓ",
+    "ⓔ"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 불규칙 동사의 과거형은 -ed를 붙이지 않고 따로 외운다: catch - caught, bring - brought, read - read, come - came, draw - drew.\n풀이 순서: ① 글이 지난 토요일(Last Saturday)의 일이므로 밑줄 친 동사는 모두 과거형이어야 한다. → ② 불규칙 동사에 -ed를 붙인 것이 있는지 하나씩 본다. → ③ catch의 과거형은 caught인데 ⓐ에 catched를 썼다. 정답은 ①.\n문장별 판정:\nⓐ X. catch의 과거형은 catched가 아니라 caught이다.\nⓑ O. bring의 과거형 brought이다.\nⓒ O. read의 과거형은 철자가 같은 read이다.\nⓓ O. come의 과거형 came이다.\nⓔ O. draw의 과거형 drew이다.\n정답 판단: catch는 불규칙 동사라 과거형이 catched가 아니라 caught이므로 정답은 ①이다.\n선택지 분석:\n① [정답] catch는 불규칙 동사라 과거형이 catched가 아니라 caught이므로 정답이다.\n② [오답] bring의 불규칙 과거형 brought로 옳으므로 오답이다.\n③ [오답] read는 과거형도 철자가 read로 같아 옳으므로 오답이다.\n④ [오답] come의 불규칙 과거형 came으로 옳으므로 오답이다.\n⑤ [오답] draw의 불규칙 과거형 drew로 옳으므로 오답이다.",
+   "new_format": "지난 일을 쓴 글에서 밑줄 친 동사 과거형 ⓐ~ⓔ 중 어법상 틀린 것 고르기",
+   "design": "불규칙 동사의 과거형에는 -ed를 붙이지 않는다는 규칙을 그대로 평가한다. 낱문장 대신 지난 토요일의 일을 쓴 글 속 동사 다섯 개를 판단하게 바꿔 시제 문맥을 함께 읽게 했고, 현재형과 철자가 같은 과거형 read를 넣어 형태만 보고 고르지 못하게 했다. 정답 catched는 catch - caught를 모르는 학생이 실제로 쓰는 실수다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 59/29 글자 222/108 정답 1",
+   "ERR  원문항보다 너무 김: 낱말 59 > 상한 43 (원문항 29) — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "4-45",
+  "grade": 4,
+  "no": 45,
+  "chapter": "CH 5",
+  "chapter_name": "시제Ⅱ",
+  "ref": {
+   "stem": "다음 중 어법상 옳은 문장의 개수를 고르시오.",
+   "passage": "ⓐ It not will snow tomorrow.\nⓑ It's going to be dark soon.\nⓒ My sister wills watch TV tonight.\nⓓ Are you going to take a walk?\nⓔ He'll builds a big sandcastle.",
+   "c": [
+    "1개",
+    "2개",
+    "3개",
+    "4개",
+    "5개"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: will + 동사원형(부정은 will not). will에는 -s를 붙이지 않는다. be going to + 동사원형.\n풀이 순서: ① will 문장은 세 가지를 본다: will에 -s가 없는지, 뒤가 동사원형인지, not이 will 뒤에 있는지. → ② be going to 문장은 be동사가 있는지, to 뒤가 동사원형인지 본다. → ③ ⓐ not will(will not), ⓒ wills(will), ⓔ He'll builds(build)가 틀렸다. ⓑ, ⓓ만 옳다. 옳은 문장은 2개이다.\n문장별 판정: ⓐ X. not은 will 뒤에 온다(will not snow). ⓑ O. be going to + 동사원형. ⓒ X. will에는 -s를 붙이지 않는다. ⓓ O. be going to 의문문. ⓔ X. will 뒤에는 동사원형 build.\n정답 판단: 옳은 문장은 ⓑ, ⓓ 두 개다.\n선택지 분석:\n① [오답] 옳은 문장은 ⓑ, ⓓ 두 개이므로 오답이다.\n② [정답] 옳은 문장은 ⓑ, ⓓ 두 개이므로 정답이다.\n③ [오답] 옳은 문장은 ⓑ, ⓓ 두 개이므로 오답이다.\n④ [오답] 옳은 문장은 ⓑ, ⓓ 두 개이므로 오답이다.\n⑤ [오답] 옳은 문장은 ⓑ, ⓓ 두 개이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 어법상 옳은 문장의 개수를 고르시오.",
+    "passage": "ⓐ Tom will be at home this evening.\nⓑ Are they going to visit their grandmother?\nⓒ I am not going to go to the party tonight.\nⓓ She won't studies math tonight.\nⓔ We will eat dinner later.",
+    "c": [
+     "1개",
+     "2개",
+     "3개",
+     "4개",
+     "5개"
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 중 어법상 옳은 문장의 개수를 고르시오.",
+    "passage": "ⓐ It will be sunny in Busan tomorrow.\nⓑ She not will come to the meeting.\nⓒ Tom going to call you after lunch.\nⓓ They wills arrive at the station soon.\nⓔ Are you going to visiting him this weekend?",
+    "c": [
+     "1개",
+     "2개",
+     "3개",
+     "4개",
+     "5개"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 중 어법상 옳은 문장의 개수를 고르시오.",
+    "passage": "ⓐ She will study for the exam tonight.\nⓑ Tom going to play soccer with us.\nⓒ We are going to leave at seven.\nⓓ I won't be late for class again.\nⓔ Does she going to come to the party?",
+    "c": [
+     "1개",
+     "2개",
+     "3개",
+     "4개",
+     "5개"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 중 어법상 옳은 문장의 개수를 고르시오.",
+    "passage": "ⓐ They will come to my house tomorrow.\nⓑ She is going to study at the library.\nⓒ Tom won't goes home before six.\nⓓ Are you going to play tennis after school?\nⓔ We will not be late for the movie.",
+    "c": [
+     "1개",
+     "2개",
+     "3개",
+     "4개",
+     "5개"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 중 어법상 옳은 문장의 개수를 고르시오.",
+    "passage": "ⓐ I am going to buy a new bag this weekend.\nⓑ Will he come to the concert with us?\nⓒ She wills study hard for the test.\nⓓ We not are going to leave early today.\nⓔ They will help us with the boxes.",
+    "c": [
+     "1개",
+     "2개",
+     "3개",
+     "4개",
+     "5개"
+    ],
+    "ans": 3
+   }
+  },
+  "target_answer_position": 3,
+  "v1_pretest": {
+   "stem": "다음 중 문장을 괄호 안의 지시대로 바르게 바꾼 것은?",
+   "passage": "",
+   "c": [
+    "Jake will clean the classroom after school today. (부정문으로) → Jake not will clean the classroom after school today.",
+    "We are going to have lunch in the park. (의문문으로) → Are we going to having lunch in the park?",
+    "The bus will arrive soon. (be going to를 써서) → The bus is going to arrive soon.",
+    "My aunt is going to buy a car. (will을 써서) → My aunt wills buy a car.",
+    "Sora will join the school dance club this year. (의문문으로) → Will Sora joins the school dance club this year?"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: will 뒤에는 동사원형이 오고 will에는 -s를 붙이지 않는다. 부정문은 will not(won't) + 동사원형, 의문문은 Will + 주어 + 동사원형 ~?이다. be going to는 be동사를 주어에 맞추고 to 뒤에 동사원형을 쓴다.\n풀이 순서: ① 바꾼 문장에서 will이나 be going to를 찾는다. → ② will에 -s가 없는지, not이 will 뒤에 있는지, will과 to 뒤가 동사원형인지 본다. → ③ 선택지 ③만 주어 The bus에 맞춰 is going to arrive로 바르게 바꿨다. 정답은 ③.\n문장별 판정:\n정답 판단: will arrive를 be going to로 바꿀 때 주어 The bus에 맞춰 is going to + 동사원형 arrive를 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 부정문은 not을 will 뒤에 두어 will not clean으로 써야 하므로 오답이다.\n② [오답] be going to의 to 뒤에는 동사원형이 와야 해 having이 아니라 have로 써야 하므로 오답이다.\n③ [정답] 주어 The bus에 맞춰 is going to + 동사원형 arrive를 썼으므로 정답이다.\n④ [오답] will은 주어와 상관없이 -s를 붙이지 않아 will buy로 써야 하므로 오답이다.\n⑤ [오답] Will 의문문에서도 will 뒤에는 동사원형이 와야 해 joins가 아니라 join으로 써야 하므로 오답이다.",
+   "new_format": "괄호 안 지시(부정문·의문문·will과 be going to 바꿔 쓰기)대로 바꾼 문장 중 바른 것 고르기",
+   "design": "will + 동사원형(will에 -s 없음, not은 will 뒤)과 be동사 + going to + 동사원형이라는 미래 표현의 형태 규칙을 그대로 평가한다. 완성된 문장을 세는 대신 부정문·의문문·바꿔 쓰기로 전환한 결과를 판단하게 바꿨고, 다섯 보기를 모두 다른 문장으로 두어 원문항처럼 다섯 번 판정하게 했다. 오답은 not will, going to + -ing, wills, Will + 주어 + -s처럼 원문항이 다룬 실수로 한 군데씩만 틀리게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 83/29 글자 358/126 정답 3",
+   "ERR  원문항보다 너무 김: 낱말 83 > 상한 43 (원문항 29) — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "4-56",
+  "grade": 4,
+  "no": 56,
+  "chapter": "CH 6",
+  "chapter_name": "조동사",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+   "passage": "He ________ clean his room today.",
+   "c": [
+    "have to",
+    "has",
+    "has to",
+    "having to",
+    "is have to"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: have to(~해야 한다)는 주어가 3인칭 단수이면 has to, 그 밖에는 have to를 쓴다. 뒤에는 동사원형이 온다.\n풀이 순서: ① 빈칸 뒤가 동사원형(clean)이다. ‘~해야 한다’는 have to + 동사원형이 들어간다. → ② 주어(He는 3인칭 단수이므로 has to)에 맞춘다. → ③ 정답은 has to.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 He에 has to + 동사원형이 알맞으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 주어 He는 3인칭 단수라 have to가 아니라 has to를 쓰므로 오답이다.\n② [오답] to가 빠져 has clean이 되어 틀리므로 오답이다.\n③ [정답] 3인칭 단수 주어 He에 has to + 동사원형이 알맞으므로 정답이다.\n④ [오답] having to만으로는 동사 자리를 채울 수 없으므로 오답이다.\n⑤ [오답] be동사와 have to를 함께 쓸 수 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "passage": "We ________ study tonight.",
+    "c": [
+     "has to",
+     "does have",
+     "having to",
+     "have to",
+     "are have to"
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "passage": "My sister ________ walk the dog every morning.",
+    "c": [
+     "have to",
+     "has to",
+     "has",
+     "having to",
+     "is have to"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "passage": "They ________ leave early.",
+    "c": [
+     "does have",
+     "having to",
+     "has to",
+     "have to",
+     "are have to"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "passage": "I ________ finish this work.",
+    "c": [
+     "have to",
+     "does have",
+     "am have to",
+     "having to",
+     "has to"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "passage": "Jane ________ wear a uniform.",
+    "c": [
+     "does have",
+     "has to",
+     "does to",
+     "having to",
+     "have to"
+    ],
+    "ans": 2
+   }
+  },
+  "target_answer_position": 4,
+  "v1_pretest": {
+   "stem": "다음 대화의 빈칸 (A), (B)에 들어갈 말이 바르게 짝지어진 것은?",
+   "passage": "A: Can you play badminton with me after school?\nB: Sorry, I can't. My mom is sick, so I (A)_______ make dinner for my little brother.\nA: Oh, that's too bad. Then what about Jinwoo?\nB: He can't come, either. He (B)_______ go to his piano lesson at five.",
+   "c": [
+    "(A) has to - (B) has to",
+    "(A) have to - (B) have to",
+    "(A) has to - (B) has",
+    "(A) have to - (B) has to",
+    "(A) has to - (B) having to"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: ‘~해야 한다’는 have to + 동사원형으로 쓰고, 주어가 3인칭 단수이면 has to를 쓴다. to를 빼거나 having to처럼 -ing형으로 쓰지 않는다.\n풀이 순서: ① 두 빈칸 뒤가 모두 동사원형(make, go)이므로 have to나 has to가 들어간다. → ② (A)는 주어가 I이므로 have to, (B)는 주어가 3인칭 단수 He이므로 has to. → ③ 두 칸을 바르게 짝지은 것을 찾는다. 정답은 ④.\n문장별 판정:\n정답 판단: (A) 주어 I에 have to, (B) 3인칭 단수 주어 He에 has to를 바르게 짝지었으므로 정답은 ④이다.\n선택지 분석:\n① [오답] (A): 주어 I에는 has to가 아니라 have to를 쓰므로 오답이다.\n② [오답] (B): 3인칭 단수 주어 He에는 have to가 아니라 has to를 쓰므로 오답이다.\n③ [오답] (A): 주어 I에는 have to를 쓰고, (B): has 뒤에 to가 빠져 has go가 되므로 오답이다.\n④ [정답] 주어 I에 have to, 3인칭 단수 주어 He에 has to를 바르게 짝지었으므로 정답이다.\n⑤ [오답] (A): 주어 I에는 have to를 쓰고, (B): having to만으로는 동사 자리를 채울 수 없으므로 오답이다.",
+   "new_format": "대화 속 두 빈칸 (A)·(B)에 들어갈 have to/has to 형태 짝 고르기",
+   "design": "‘~해야 한다’의 have to를 주어에 맞춰 have to/has to로 쓰고 뒤에 동사원형을 둔다는 규칙을 그대로 평가한다. 빈칸 하나를 대화 속 두 빈칸으로 바꿔 주어 I(have to)와 3인칭 단수 He(has to)를 함께 판단하게 했다. 오답은 원문항처럼 주어와 맞지 않는 형태, to가 빠진 has, -ing형 having to로 짰고, 칸마다 많이 나온 형태를 고르면 오답 ①이 되도록 배치했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 66/15 글자 232/49 정답 4",
+   "ERR  원문항보다 너무 김: 낱말 66 > 상한 23 (원문항 15) — 난이도가 올라감",
+   "WARN 원문항은 한 곳만 판단하는데 두 빈칸 짝 — 판단 개수가 늘지 않았는지"
+  ]
+ },
+ {
+  "key": "4-67",
+  "grade": 4,
+  "no": 67,
+  "chapter": "CH 7",
+  "chapter_name": "형용사와 부사",
+  "ref": {
+   "stem": "다음 상황을 읽고 빈칸에 알맞은 단어를 고르시오.",
+   "passage": "Jinho doesn't like milk. He drinks milk only once or twice a year.\n→ Jinho ________ drinks milk.",
+   "c": [
+    "seldom",
+    "always",
+    "usually",
+    "often",
+    "sometimes"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: seldom은 ‘거의 ~하지 않는다’, never는 ‘전혀 ~하지 않는다’, sometimes는 ‘가끔’, often은 ‘자주’, usually는 ‘보통’, always는 ‘항상’이다.\n풀이 순서: ① 상황에서 얼마나 자주인지를 찾는다: 1년에 한두 번(once or twice a year). → ② 그 빈도에 맞는 부사를 고른다: 거의 하지 않는 것이므로 seldom. → ③ 정답은 seldom.\n문장별 판정:\n정답 판단: 1년에 한두 번은 ‘거의 ~하지 않는다’이므로 정답은 ①이다.\n선택지 분석:\n① [정답] 1년에 한두 번은 ‘거의 ~하지 않는다’이므로 정답이다.\n② [오답] always는 ‘항상’이라 맞지 않으므로 오답이다.\n③ [오답] usually는 ‘보통’이라 맞지 않으므로 오답이다.\n④ [오답] often은 ‘자주’라 맞지 않으므로 오답이다.\n⑤ [오답] sometimes는 ‘가끔’이라 1년에 한두 번보다 잦으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 상황을 읽고 빈칸에 알맞은 단어를 고르시오.",
+    "passage": "Jane exercises every single day, even on holidays.\n→ Jane ________ exercises.",
+    "c": [
+     "always",
+     "often",
+     "sometimes",
+     "never",
+     "seldom"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 상황을 읽고 빈칸에 알맞은 단어를 고르시오.",
+    "passage": "Minsu hates carrots. He has not eaten them even once in his life.\n→ Minsu ________ eats carrots.",
+    "c": [
+     "often",
+     "seldom",
+     "always",
+     "sometimes",
+     "never"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 상황을 읽고 빈칸에 알맞은 단어를 고르시오.",
+    "passage": "Tom loves movies. He watches movies three or four times every week.\n→ Tom ________ watches movies.",
+    "c": [
+     "always",
+     "never",
+     "seldom",
+     "often",
+     "hardly ever"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 상황을 읽고 빈칸에 알맞은 단어를 고르시오.",
+    "passage": "Jane takes the bus to school on most days, but she walks once in a while.\n→ Jane ________ takes the bus to school.",
+    "c": [
+     "always",
+     "seldom",
+     "usually",
+     "never",
+     "hardly ever"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 상황을 읽고 빈칸에 알맞은 단어를 고르시오.",
+    "passage": "We eat out once in a while, but not often.\n→ We ________ eat out.",
+    "c": [
+     "always",
+     "often",
+     "never",
+     "sometimes",
+     "usually"
+    ],
+    "ans": 4
+   }
+  },
+  "target_answer_position": 5,
+  "v1_pretest": {
+   "stem": "다음 표의 내용과 일치하지 않는 문장을 고르시오.",
+   "passage": "Jiwon's Habits\nActivity\tHow often\nget up at seven o'clock\tevery day, even on weekends\neat cereal for breakfast\ton most days\neat pizza for dinner\tonly two or three times a year\ndrink coffee or soda\tnot even once in her life\nplay chess with her dad\tonce in a while",
+   "c": [
+    "Jiwon always gets up at seven o'clock.",
+    "Jiwon usually eats cereal for breakfast.",
+    "Jiwon hardly ever eats pizza for dinner.",
+    "Jiwon never drinks coffee or soda.",
+    "Jiwon often plays chess with her dad."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 빈도부사는 얼마나 자주 하는지를 나타낸다: always(항상) > usually(보통, 대개) > often(자주) > sometimes(가끔) > hardly ever·seldom(거의 ~하지 않는) > never(전혀 ~하지 않는).\n풀이 순서: ① 문장마다 활동을 표에서 찾아 얼마나 자주 하는지 확인한다. → ② 그 횟수와 문장의 빈도부사 뜻이 맞는지 본다. → ③ 체스는 once in a while(가끔)인데 선택지 ⑤는 often(자주)을 썼다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 아빠와 체스 두기는 표에서 once in a while(가끔)이라 often(자주)과 맞지 않으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 주말에도 매일 7시에 일어나므로 always(항상)와 일치해 오답이다.\n② [오답] 대부분의 날(on most days)에 시리얼을 먹으므로 usually(보통)와 일치해 오답이다.\n③ [오답] 피자는 1년에 두세 번만 먹으므로 hardly ever(거의 ~하지 않는)와 일치해 오답이다.\n④ [오답] 커피나 탄산음료는 한 번도 마신 적이 없으므로 never(전혀 ~하지 않는)와 일치해 오답이다.\n⑤ [정답] 체스는 가끔(once in a while) 두는데 often(자주)을 써서 표와 일치하지 않으므로 정답이다.",
+   "new_format": "활동별 횟수 표를 보고 빈도부사를 쓴 다섯 문장 중 표와 일치하지 않는 것 고르기",
+   "design": "횟수를 나타내는 표현(every day, on most days, once in a while, two or three times a year, not even once)을 알맞은 빈도부사로 잇는 능력을 그대로 평가한다. 상황 하나에 부사 하나를 고르는 대신 표의 다섯 활동과 다섯 부사를 하나씩 맞춰 보게 바꿨다. 정답 문장은 ‘가끔(once in a while)’ 하는 활동에 often을 써서 sometimes와 often의 뜻을 구별해야 풀리게 했고, 문장 길이는 고르게 맞췄다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 85/21 글자 366/101 정답 5",
+   "ERR  원문항보다 너무 김: 낱말 85 > 상한 31 (원문항 21) — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "4-78",
+  "grade": 4,
+  "no": 78,
+  "chapter": "CH 8",
+  "chapter_name": "비교 구문",
+  "ref": {
+   "stem": "다음 중 밑줄 친 부분의 형태가 어법상 옳은 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "He is <u>the most funniest</u> boy in my class.",
+    "Science is <u>the difficultest</u> subject for me.",
+    "This is <u>the most interesting</u> book of all.",
+    "She is <u>the most tallest</u> girl in the team.",
+    "It was <u>the most baddest</u> day ever."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 최상급: 짧은 단어는 the + -est, 긴 단어는 the most + 원급. most와 -est를 겹쳐 쓰지 않는다. bad의 최상급은 worst다.\n풀이 순서: ① 밑줄마다 형용사가 짧은 낱말인지 긴 낱말인지 가른다. → ② 짧으면 -er/-est만, 길면 more/most만 쓴다. 둘을 겹치거나 긴 낱말에 -est를 붙인 것을 지운다. → ③ 선택지 ③만 긴 낱말 interesting에 the most를 써서 맞다. 정답은 ③.\n문장별 판정:\n정답 판단: 긴 단어 interesting에 the most를 쓴 옳은 형태이므로 정답은 ③이다.\n선택지 분석:\n① [오답] most와 -est를 겹쳐 쓸 수 없으므로 오답이다.\n② [오답] difficult는 긴 단어라 the most difficult로 써야 하므로 오답이다.\n③ [정답] 긴 단어 interesting에 the most를 쓴 옳은 형태이므로 정답이다.\n④ [오답] most와 -est를 겹쳐 쓸 수 없으므로 오답이다.\n⑤ [오답] bad의 최상급은 the worst이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 밑줄 친 부분의 형태가 어법상 옳은 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Jane is <u>the prettiest</u> girl here.",
+     "Tom is <u>more taller</u> than Ben.",
+     "She is <u>the most prettiest</u> singer.",
+     "He is <u>the goodest</u> player.",
+     "This is <u>the interestingest</u> book."
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 중 밑줄 친 부분의 형태가 어법상 옳은 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "This is <u>the most expensivest</u> car.",
+     "He is <u>the famousest</u> actor.",
+     "Today is <u>the happiest</u> day of my life.",
+     "She is <u>the most smartest</u> girl.",
+     "It was <u>the most hottest</u> day."
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 중 밑줄 친 부분의 형태가 어법상 옳은 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Mina is <u>the most kindest</u> friend in our class.",
+     "That was <u>the baddest</u> movie of the year.",
+     "He is <u>more stronger</u> than his older brother.",
+     "My dog is <u>the cutest</u> dog in the world.",
+     "It is <u>the usefulest</u> book in the library."
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 중 밑줄 친 부분의 형태가 어법상 옳은 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "He is <u>the most fastest</u> runner in our school.",
+     "That was <u>the most boring</u> class of the day.",
+     "This is <u>the goodest</u> cake in this bakery.",
+     "She is <u>the carefulest</u> driver in my family.",
+     "It is <u>the most biggest</u> room in the house."
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 중 밑줄 친 부분의 형태가 어법상 옳은 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "It is <u>the most coldest</u> city in Korea.",
+     "This is <u>the difficultest</u> question on the test.",
+     "This is <u>the most wonderfulest</u> trip of my life.",
+     "She is <u>more busier</u> than her mother today.",
+     "He is <u>the best</u> player on the soccer team."
+    ],
+    "ans": 5
+   }
+  },
+  "target_answer_position": 4,
+  "v1_pretest": {
+   "stem": "다음 중 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "My uncle is <u>the most strongest</u> man in our town. → the most strong",
+    "This is <u>the beautifulest</u> beach in Jeju. → the more beautiful",
+    "Minji is <u>the goodest</u> dancer in our club. → the most good",
+    "Sumi is <u>the popularest</u> student in our class. → the most popular",
+    "Last Monday was <u>the most bad</u> day of my life. → the baddest"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 최상급은 짧은 단어는 the + -est, 긴 단어는 the most + 원급으로 쓰고, most와 -est를 겹쳐 쓰지 않는다. good - best, bad - worst처럼 불규칙하게 변하는 것은 따로 외운다.\n풀이 순서: ① 밑줄 친 형용사가 짧은 단어인지, 긴 단어인지, 불규칙 변화인지 가른다. → ② 고친 말이 그 규칙대로 된 최상급인지 본다. → ③ 선택지 ④만 긴 단어 popular를 the most popular로 바르게 고쳤다. 정답은 ④.\n문장별 판정:\n정답 판단: 긴 단어 popular의 최상급은 the most popular이므로 정답은 ④이다.\n선택지 분석:\n① [오답] strong은 짧은 단어라 most 없이 the strongest로 고쳐야 하므로 오답이다.\n② [오답] ‘제주에서 가장 아름다운’이라는 최상급 자리라 긴 단어 beautiful은 the most beautiful로 고쳐야 하므로 오답이다.\n③ [오답] good의 최상급은 불규칙 변화인 the best이므로 오답이다.\n④ [정답] 긴 단어 popular의 최상급 the most popular로 바르게 고쳤으므로 정답이다.\n⑤ [오답] bad의 최상급은 불규칙 변화인 the worst이므로 오답이다.",
+   "new_format": "틀린 최상급에 밑줄을 긋고 고친 말을 붙인 다섯 보기 중 바르게 고친 것 고르기",
+   "design": "짧은 단어는 the + -est, 긴 단어는 the most + 원급, most와 -est를 겹쳐 쓰지 않음, good·bad의 불규칙 최상급이라는 원문항의 규칙을 그대로 평가한다. 밑줄 친 최상급이 옳은지 고르는 대신 틀린 최상급을 고친 결과가 맞는지 판단하게 바꿔 형태를 직접 만들어 보게 했다. 오답은 the most strong, the more beautiful, the most good, the baddest처럼 고치다가 다시 틀리는 실제 실수로 짰고, 고친 말의 길이를 고르게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 57/40 글자 240/158 정답 4",
+   "WARN 원문항의 1.4배 — 1.3배 안팎으로 줄일 수 있는지"
+  ]
+ },
+ {
+  "key": "4-89",
+  "grade": 4,
+  "no": 89,
+  "chapter": "CH 9",
+  "chapter_name": "전치사와 접속사",
+  "ref": {
+   "stem": "다음 중 밑줄 친 'when'의 쓰임이 나머지 넷과 다른 하나는?",
+   "passage": "",
+   "c": [
+    "I was happy <u>when</u> I saw him.",
+    "<u>When</u> do you usually go to bed?",
+    "He was eating a sandwich <u>when</u> I entered.",
+    "<u>When</u> the spring comes, flowers bloom.",
+    "Please be quiet <u>when</u> you are in the library."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: when이 문장 맨 앞에서 ‘언제’를 묻고 뒤가 의문문 어순이면 의문사, ‘~할 때’라는 뜻으로 두 절을 이으면 접속사다.\n풀이 순서: ① 문장 끝에 물음표가 있고 when 뒤가 의문문 어순(do/does/did·be동사 + 주어)이면 ‘언제’를 묻는 의문사다. → ② 그렇지 않고 두 절을 이으면 ‘~할 때’라는 접속사다. → ③ 선택지 ②만 ‘언제 자니?’라고 묻는 의문사다. 정답은 ②.\n문장별 판정:\n정답 판단: ‘언제’를 묻는 의문사이므로 정답은 ②이다.\n선택지 분석:\n① [오답] ‘~했을 때’라는 접속사이므로 오답이다.\n② [정답] ‘언제’를 묻는 의문사이므로 정답이다.\n③ [오답] ‘~했을 때’라는 접속사이므로 오답이다.\n④ [오답] ‘~하면(할 때)’이라는 접속사이므로 오답이다.\n⑤ [오답] ‘~할 때’라는 접속사이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 밑줄 친 'when'의 쓰임이 나머지 넷과 다른 하나는?",
+    "passage": "",
+    "c": [
+     "Call me <u>when</u> you arrive.",
+     "<u>When</u> she saw me, she smiled.",
+     "I was studying <u>when</u> Tom called.",
+     "<u>When</u> does school start?",
+     "We ate <u>when</u> we got home."
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 중 밑줄 친 'when'의 쓰임이 나머지 넷과 다른 하나는?",
+    "passage": "",
+    "c": [
+     "<u>When</u> did you get home last night?",
+     "<u>When</u> is the school concert this year?",
+     "<u>When</u> my dog was sick, I felt very sad.",
+     "<u>When</u> will the next bus come here?",
+     "<u>When</u> do you usually play soccer with your friends?"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 중 밑줄 친 'when'의 쓰임이 나머지 넷과 다른 하나는?",
+    "passage": "",
+    "c": [
+     "<u>When</u> I was young, I lived in Busan.",
+     "<u>When</u> is your sister's birthday party?",
+     "Please turn off the light <u>when</u> you leave the room.",
+     "It was snowing <u>when</u> we woke up this morning.",
+     "He laughed loudly <u>when</u> he heard the joke."
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 중 밑줄 친 'when'의 쓰임이 나머지 넷과 다른 하나는?",
+    "passage": "",
+    "c": [
+     "<u>When</u> can you come to my house?",
+     "<u>When</u> did Jane call you last night?",
+     "<u>When</u> does the movie start at the theater tonight?",
+     "<u>When</u> is Mom coming back from work?",
+     "<u>When</u> you get home, wash your hands first."
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 중 밑줄 친 'when'의 쓰임이 나머지 넷과 다른 하나는?",
+    "passage": "",
+    "c": [
+     "<u>When</u> did Jane arrive at the airport?",
+     "We were happy <u>when</u> we won the game.",
+     "Say hello to him <u>when</u> you see him.",
+     "I fell down <u>when</u> I was running in the park.",
+     "<u>When</u> it rains, we stay inside and read."
+    ],
+    "ans": 1
+   }
+  },
+  "target_answer_position": 2,
+  "v1_pretest": {
+   "stem": "다음 <보기>의 밑줄 친 When과 쓰임이 같은 것은?",
+   "passage": "<보기>\n<u>When</u> is the last day of your summer vacation?",
+   "c": [
+    "<u>When</u> you go to the market, can you buy some eggs for me?",
+    "<u>When</u> did your family move to this quiet town?",
+    "Do you wear a raincoat <u>when</u> it rains?",
+    "My dog always barks loudly <u>when</u> someone rings the doorbell.",
+    "<u>When</u> my grandma visits us, she always brings rice cakes."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: when 뒤가 의문문 어순(be동사나 do·does·did + 주어)이고 ‘언제’를 물으면 의문사이고, when 뒤에 ‘주어 + 동사’가 와서 ‘~할 때’라는 뜻으로 두 절을 이으면 접속사다.\n풀이 순서: ① <보기>의 When은 뒤가 is the last day(be동사 + 주어)로 ‘언제’를 묻는 의문사다. → ② 선택지마다 when 바로 뒤가 의문문 어순인지 ‘주어 + 동사’인지 본다(물음표나 위치만 보고 판단하지 않는다). → ③ 선택지 ②만 When 뒤가 did your family move(did + 주어 + 동사원형)인 의문사다. 정답은 ②.\n문장별 판정:\n정답 판단: 선택지 ②의 When은 ‘언제 이사 왔니?’라고 묻는 의문사로 <보기>와 쓰임이 같으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 물음표로 끝나지만 When 뒤가 you go(주어 + 동사)인 ‘~할 때’라는 접속사이므로 오답이다.\n② [정답] When 뒤가 did your family move인 의문문 어순으로 ‘언제’를 묻는 의문사이므로 정답이다.\n③ [오답] 의문문이지만 when은 it rains를 이끌어 ‘비가 올 때’라는 뜻의 접속사이므로 오답이다.\n④ [오답] when 뒤가 someone rings(주어 + 동사)로 ‘누군가 초인종을 누를 때’라는 접속사이므로 오답이다.\n⑤ [오답] 문장 맨 앞에 있지만 When 뒤가 my grandma visits(주어 + 동사)인 ‘~할 때’라는 접속사이므로 오답이다.",
+   "new_format": "<보기>의 의문사 When과 쓰임이 같은 것을 다섯 문장 중에서 고르기",
+   "design": "when 뒤가 의문문 어순이면 ‘언제’를 묻는 의문사, ‘주어 + 동사’가 와서 두 절을 이으면 ‘~할 때’라는 접속사라는 구별을 그대로 평가한다. ‘다른 하나’ 대신 <보기>와 ‘같은 것’을 고르게 바꿨고, 문장 맨 앞 When으로 시작해 물음표로 끝나는 접속사 문장(①)과 의문문 속 접속사(③)를 넣어 물음표나 위치만 보고는 풀 수 없게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 59/37 글자 237/140 정답 2",
+   "ERR  원문항보다 너무 김: 낱말 59 > 상한 55 (원문항 37) — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "4-100",
+  "grade": 4,
+  "no": 100,
+  "chapter": "CH 10",
+  "chapter_name": "문장의 종류",
+  "ref": {
+   "stem": "다음 <보기> 중 어법상 틀린 문장으로만 짝지어진 것은?",
+   "passage": "<보기>\n(A) How cold is it today!\n(B) What a beautiful flowers they are!\n(C) How carefully he drives!\n(D) What an interesting story it is!\n(E) How loud he speak!",
+   "c": [
+    "(A), (B), (C)",
+    "(C), (D)",
+    "(A), (B), (E)",
+    "(B), (C), (E)",
+    "(A), (D), (E)"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 감탄문의 어순: How + 형용사/부사 + 주어 + 동사!, What + (a/an) + 형용사 + 명사 + 주어 + 동사! 복수명사 앞에는 a를 쓰지 않고, 동사는 주어에 맞춘다.\n풀이 순서: ① 문장마다 세 가지를 본다: What/How 뒤의 덩어리, ‘주어 + 동사’ 어순, 주어와 동사의 수. → ② (A) is it(it is), (B) a ~ flowers(a를 뺀다), (E) he speak(speaks)가 틀렸다. → ③ 틀린 문장만 묶은 (A), (B), (E)가 정답이다.\n문장별 판정: (A) X. 의문문 어순이다(How cold it is today!). (B) X. 복수명사 flowers 앞에 a를 쓸 수 없다. (C) O. How + 부사 + 주어 + 동사. (D) O. What + an + 형용사 + 명사 + 주어 + 동사. (E) X. 주어 he에는 speaks.\n정답 판단: 틀린 문장 (A), (B), (E)만 묶었으므로 정답은 ③이다.\n선택지 분석:\n① [오답] (C)는 옳은 문장이므로 오답이다.\n② [오답] (C), (D) 모두 옳은 문장이므로 오답이다.\n③ [정답] 틀린 문장 (A), (B), (E)만 묶었으므로 정답이다.\n④ [오답] (C)는 옳은 문장이므로 오답이다.\n⑤ [오답] (D)는 옳은 문장이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 <보기> 중 어법상 틀린 문장으로만 짝지어진 것은?",
+    "passage": "<보기>\n(A) What an amazing story it is!\n(B) How interesting the book is!\n(C) What cute the cat is!\n(D) How a nice car it is!\n(E) How well they sings!",
+    "c": [
+     "(A), (B), (C)",
+     "(C), (D), (E)",
+     "(A), (B), (E)",
+     "(B), (C), (E)",
+     "(A), (D), (E)"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 <보기> 중 어법상 틀린 문장으로만 짝지어진 것은?",
+    "passage": "<보기>\n(A) What a tall trees they are!\n(B) How cute the dog is!\n(C) How fast he run!\n(D) What an interesting book it is!\n(E) What exciting the game was!",
+    "c": [
+     "(A), (C), (E)",
+     "(B), (D)",
+     "(A), (B), (C)",
+     "(B), (C), (E)",
+     "(A), (D), (E)"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 <보기> 중 어법상 틀린 문장으로만 짝지어진 것은?",
+    "passage": "<보기>\n(A) How kind your sister are!\n(B) What a nice day it is today!\n(C) How a tall boy your brother is!\n(D) What beautiful the flowers are!\n(E) How quickly the rabbit runs!",
+    "c": [
+     "(A), (B), (C)",
+     "(C), (D)",
+     "(A), (C), (D)",
+     "(B), (C), (E)",
+     "(A), (D), (E)"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 <보기> 중 어법상 틀린 문장으로만 짝지어진 것은?",
+    "passage": "<보기>\n(A) What an old house your grandma has!\n(B) How cute your puppies is!\n(C) What interesting book you have!\n(D) How a beautiful day we have!\n(E) What a smart boy your cousin is!",
+    "c": [
+     "(A), (B), (C)",
+     "(C), (D), (E)",
+     "(A), (B), (E)",
+     "(B), (C), (D)",
+     "(A), (D), (E)"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 <보기> 중 어법상 틀린 문장으로만 짝지어진 것은?",
+    "passage": "<보기>\n(A) How fast Tom run in the race!\n(B) What a lovely dog Jane has!\n(C) How a kind girl Mina is!\n(D) What beautiful flowers you grow!\n(E) How nice the weather are today!",
+    "c": [
+     "(A), (B), (C)",
+     "(C), (D)",
+     "(A), (B), (E)",
+     "(B), (C), (E)",
+     "(A), (C), (E)"
+    ],
+    "ans": 5
+   }
+  },
+  "target_answer_position": 2,
+  "v1_pretest": {
+   "stem": "다음 중 어법상 옳은 문장의 개수를 고르시오.",
+   "passage": "ⓐ How brave the young firefighter was!\nⓑ What a lovely pictures you painted!\nⓒ How a funny movie we watched!\nⓓ What an old castle we visited in England!\nⓔ What fresh the bread smells!",
+   "c": [
+    "1개",
+    "2개",
+    "3개",
+    "4개",
+    "5개"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 감탄문은 How + 형용사/부사 + 주어 + 동사!, What + (a/an) + 형용사 + 명사 + 주어 + 동사! 꼴이다. 형용사 뒤에 명사가 있으면 What, 없으면 How를 쓰고, 복수명사 앞에는 a/an을 쓰지 않는다.\n풀이 순서: ① 감탄하는 형용사/부사 뒤에 명사가 있는지 본다: 명사가 있으면 What, 없으면 How. → ② What 뒤의 명사가 단수이면 a/an을 쓰고 복수이면 쓰지 않았는지 본다. → ③ ⓐ, ⓓ만 옳고 ⓑ, ⓒ, ⓔ는 틀렸다. 옳은 문장은 2개이다. 정답은 ②.\n문장별 판정:\nⓐ O. How + 형용사(brave) + 주어 + 동사 어순이다.\nⓑ X. 복수명사 pictures 앞에는 a를 쓰지 않는다(What lovely pictures you painted!).\nⓒ X. 명사 movie가 있으므로 How가 아니라 What을 쓴다(What a funny movie we watched!).\nⓓ O. What + an + 형용사 + 명사 + 주어 + 동사 어순이다.\nⓔ X. 명사 없이 형용사 fresh만 있으므로 What이 아니라 How를 쓴다(How fresh the bread smells!).\n정답 판단: 어법상 옳은 문장은 ⓐ, ⓓ로 2개이므로 정답은 ②이다.\n선택지 분석:\n① [오답] 어법상 옳은 문장은 ⓐ, ⓓ로 2개이다. 이 보기의 1개는 옳은 문장 하나를 빠뜨린 개수라 실제 개수와 일치하지 않는다.\n② [정답] 어법상 옳은 문장은 ⓐ, ⓓ로 2개이므로 정답이다.\n③ [오답] 어법상 옳은 문장은 ⓐ, ⓓ로 2개이다. 이 보기의 3개는 틀린 문장 ⓑ, ⓒ, ⓔ 중 하나를 옳다고 센 개수라 실제 개수와 일치하지 않는다.\n④ [오답] 어법상 옳은 문장은 ⓐ, ⓓ로 2개이다. 이 보기의 4개는 틀린 문장 둘을 옳다고 센 개수라 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 옳은 문장은 ⓐ, ⓓ로 2개이다. 이 보기의 5개는 틀린 문장 ⓑ, ⓒ, ⓔ까지 모두 옳다고 본 개수라 실제 개수와 일치하지 않는다.",
+   "new_format": "감탄문 ⓐ~ⓔ 중 어법상 옳은 문장의 개수 고르기",
+   "design": "How + 형용사/부사 + 주어 + 동사!, What + (a/an) + 형용사 + 명사 + 주어 + 동사!의 짜임과 복수명사 앞에 a/an을 쓰지 않는 규칙을 그대로 평가한다. 틀린 문장의 조합을 고르는 대신 옳은 문장의 개수를 세게 바꿔 다섯 문장을 모두 판정하게 했다. 틀린 문장은 복수명사 앞에 a를 쓰는 실수(ⓑ)와 How와 What을 헷갈리는 실수(ⓒ How + a + 형용사 + 명사, ⓔ What + 형용사)로 한 군데씩만 틀리게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 31/25 글자 148/104 정답 2",
+   "ERR  원문항이 개수형이 아닌데 개수 세기 형식 — 난이도가 올라감"
+  ]
+ }
+]

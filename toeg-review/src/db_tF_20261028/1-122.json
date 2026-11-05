@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:32:02.907Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "The students all not agreed with the plan.",
+      "1": "No all students agreed with the plan.",
+      "2": "All students agreed with the plan.",
+      "3": "None of the students agreed with the plan.",
+      "4": "Not all students agreed with the plan."
+    },
+    "expl": "핵심 규칙: not all·not every는 ‘모두 ~한 것은 아니다’라는 부분부정, none·no는 ‘아무도(하나도) ~ 않다’라는 전체부정이다. every 뒤에는 단수 명사를 쓰고, 일반동사는 not만으로 부정하지 않는다.\n풀이 순서: ① 우리말 ‘모든 ~이 …한 것은 아니다’는 일부만 그렇다는 부분부정이다. → ② 부분부정은 Not all(every) ~로 나타낸다. None·No는 전체부정, 부정어가 없으면 전체 긍정이다. → ③ 형태가 틀린 보기(all not agreed, No all ~)도 지운다. 정답은 ⑤.\n문장별 판정:\n정답 판단: ‘모든 학생들이 그 계획에 동의한 것은 아니다’는 일부만 동의했다는 부분부정이므로 Not all students agreed with the plan.이 알맞다. 정답은 ⑤이다.\n선택지 분석:\n① [오답] all not은 부분부정의 바른 형태가 아니므로 오답이다(Not all students …).\n② [오답] No all이라는 표현은 쓰지 않으므로 오답이다.\n③ [오답] 부정어가 없어 ‘모든 학생이 동의했다’는 전체 긍정이 되므로 오답이다.\n④ [오답] None of는 ‘아무도 동의하지 않았다’는 전체부정이므로 오답이다.\n⑤ [정답] Not all + 명사로 ‘모두가 ~한 것은 아니다’라는 부분부정을 바르게 나타냈으므로 정답이다.",
+    "passage": "모든 학생들이 그 계획에 동의한 것은 아니다.",
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T08:53:13.447Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T08:53:21.829Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:32:02.907Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:31:59.676Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:32:02.907Z",
+      "what": "확인 완료"
+    }
+  }
+}

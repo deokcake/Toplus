@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T03:39:49.665Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Are you hungry? - Yes, you are.",
+      "1": null,
+      "2": "Is the door open? - No, they isn't.",
+      "3": "Is Mina tall? - Yes, he is.",
+      "4": "Are we late? - Yes, we is."
+    },
+    "expl": "핵심 규칙: be동사 의문문에는 Yes, 주어 + be동사. / No, 주어 + be동사 + not.으로 답한다. 대답의 주어는 질문의 주어를 대명사로 받고(you → I, I → you, Tom → he, the door → it), be동사도 그 주어에 맞춘다.\n풀이 순서: ① 질문이 주어에 맞는 be동사로 시작하는지 본다. → ② 대답의 주어(대명사)와 be동사가 맞는지 본다. → ③ 선택지 ①은 대답의 주어(you → I)가, ③·④는 대명사가, ⑤는 be동사가 틀렸다. 정답은 ②.\n문장별 판정:\n정답 판단: they에 대한 질문에 aren't로 바르게 답했으므로 정답은 ②이다.\n선택지 분석:\n① [오답] you에 대한 질문에는 I로 받아 Yes, I am으로 답하므로 오답이다.\n② [정답] they에 대한 질문에 aren't로 바르게 답했으므로 정답이다.\n③ [오답] the door는 it으로 받아 No, it isn't로 답하므로 오답이다.\n④ [오답] Mina는 he가 아니라 she로 받아야 하므로 오답이다.\n⑤ [오답] 대답의 주어 we에는 are를 써야 하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 질문과 대답이 바르게 연결된 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T03:39:47.898Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T03:39:49.665Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:39:49.665Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T06:32:02.344Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "reached - has - close",
+      "1": "reached - has - closed",
+      "2": "reached - had - closed",
+      "3": "reached - had - close",
+      "4": "had reached - had - closed"
+    },
+    "expl": "핵심 규칙: 과거의 기준 사건에는 단순과거를, 그보다 먼저 끝난 사건에는 had + 과거분사를 쓴다.\n풀이 순서: ① when절의 우리말(‘도착했을 때’)이 과거이므로 (A)는 과거형이다. → ② 주절의 already와 우리말 ‘이미 문을 닫은 뒤였다’로 보아 그보다 먼저 끝난 일이므로 (B)(C)는 had + 과거분사다. → ③ (A)를 다른 시제로 쓴 보기와 has·was·동사원형이 들어간 보기를 지운다. 정답은 reached - had - closed.\n문장별 판정:\n정답 판단: 도착한 일이 기준이고 빵집이 문을 닫은 일은 그보다 먼저이므로 reached - had - closed가 알맞다.\n선택지 분석:\n① [오답] (B) has: 현재완료의 has이어서 맞지 않는다. (B)는 그보다 먼저 끝난 일을 나타내는 과거완료의 had가 와야 한다. (C) close: 동사원형이어서 맞지 않는다. (C)는 had 뒤이므로 과거분사가 와야 한다. 따라서 오답이다.\n② [오답] (B) has: 현재완료의 has이어서 맞지 않는다. (B)는 그보다 먼저 끝난 일을 나타내는 과거완료의 had가 와야 한다. 따라서 오답이다.\n③ [정답] 도착한 일이 기준이고 빵집이 문을 닫은 일은 그보다 먼저이므로 reached - had - closed가 알맞다. 모든 자리가 알맞으므로 정답이다.\n④ [오답] (C) close: 동사원형이어서 맞지 않는다. (C)는 had 뒤이므로 과거분사가 와야 한다. 따라서 오답이다.\n⑤ [오답] (A) had reached: 과거완료이어서 맞지 않는다. (A)는 기준이 되는 과거 사건이므로 단순과거를 쓴다. 따라서 오답이다.",
+    "passage": "When I (<u>    A    </u>) the small bakery near my house, it (<u>    B    </u>) already (<u>    C    </u>) for the day.\n(내가 집 근처 작은 빵집에 도착했을 때, 빵집은 이미 그날 문을 닫은 뒤였다.)",
+    "stem": "다음 우리말과 같도록 빈칸 (A)~(C)에 들어갈 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "tab": "ij7ic6nx",
+  "updatedAt": "2026-10-26T06:32:02.344Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:32:02.344Z",
+      "what": "확인 완료"
+    }
+  }
+}

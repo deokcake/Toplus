@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:52:12.089Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Yes, they are.",
+      "1": "Yes, he can.",
+      "2": "Yes, they can't.",
+      "3": "Yes, they can.",
+      "4": "No, we can."
+    },
+    "expl": "핵심 규칙: Can + 주어 ~? 질문에는 Yes, 대명사 + can. / No, 대명사 + can't.로 답한다. 질문의 주어를 알맞은 대명사로 바꾸고, Yes에는 can, No에는 can't를 짝지운다.\n풀이 순서: ① 질문의 주어를 대답에서 무엇으로 받는지 정한다: they → they. → ② Yes에는 can, No에는 can't를 짝짓는다. be동사나 do/does로는 답하지 않는다. → ③ 둘 다 맞는 것은 Yes, they can.\n문장별 판정:\n정답 판단: 주어 they를 그대로 받고 Yes에 can을 바르게 짝지었으므로 정답은 ④이다.\n선택지 분석:\n① [오답] can으로 물었고, are가 아니라 can으로 답해야 하므로 오답이다.\n② [오답] 질문의 주어 they를 he로 바꿔 받았으므로 오답이다.\n③ [오답] Yes/No와 can/can't의 짝이 맞지 않으므로 오답이다.\n④ [정답] 주어 they를 그대로 받고 Yes에 can을 바르게 짝지었으므로 정답이다.\n⑤ [오답] 주어 they를 we로 바꿨고 No와 can의 짝도 맞지 않으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 질문에 대한 대답으로 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:52:10.794Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:52:12.089Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:52:12.089Z",
+      "what": "확인 완료"
+    }
+  }
+}

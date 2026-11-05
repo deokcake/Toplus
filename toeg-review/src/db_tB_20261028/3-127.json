@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T09:23:52.100Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "I can either cook or clean.",
+      "1": "I can not only cook but also clean.",
+      "2": "I can neither cook nor clean.",
+      "3": "I can both cook and clean.",
+      "4": "I can no cook and clean."
+    },
+    "expl": "핵심 규칙: neither A nor B는 ‘A도 B도 아닌’이라는 뜻이며 A와 B를 같은 형태로 나란히 쓴다.\n풀이 순서: ① 우리말이 둘 다 부정임을 확인한다: ‘읽을 수도 쓸 수도 없다’. neither A nor B를 쓴다. → ② 짝을 확인한다: neither는 nor와, either는 or와 짝을 이룬다. can 뒤의 동사는 원형이다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: neither A nor B로 ‘요리도 청소도 못한다’를 바르게 옮겼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] either A or B는 ‘둘 중 하나’라 뜻이 맞지 않으므로 오답이다.\n② [오답] ‘~뿐 아니라 ~도 할 수 있다’라 부정의 뜻과 맞지 않으므로 오답이다.\n③ [정답] neither A nor B로 ‘요리도 청소도 못한다’를 바르게 옮겼으므로 정답이다.\n④ [오답] ‘둘 다 할 수 있다’라 부정의 뜻과 맞지 않으므로 오답이다.\n⑤ [오답] 조동사 뒤에 no를 써서 부정할 수 없으므로 오답이다.",
+    "passage": "나는 요리도 청소도 할 수 없다.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:23:49.051Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T09:23:52.101Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:23:52.101Z",
+      "what": "확인 완료"
+    }
+  }
+}

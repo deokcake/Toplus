@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-09-30T05:30:42.305Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Look! The baby slept on the sofa now.",
+      "1": "This bag is belonging to my sister.",
+      "2": "We are having dinner with our grandparents now.",
+      "3": "I am knowing the answer to this riddle.",
+      "4": "Two years ago, Mr. Park owns a small bakery."
+    },
+    "expl": "[선택지별 구체 해설]\n핵심 규칙: own, know, belong, contain, seem, resemble 같은 상태동사는 보통 진행형으로 쓰지 않는다. 다만 have(먹다), taste(맛보다), think about(곰곰이 생각하다)처럼 동작을 나타낼 때는 진행형을 쓸 수 있다. 또 now, yesterday, last year, tomorrow 같은 시간 표현과 동사의 시제가 맞아야 한다.\n① [오답] ‘Look! The baby slept on the sofa now.’은 시간 표현(Look!, now)과 동사의 시제가 맞지 않는다. ‘Look! The baby is sleeping on the sofa now.’로 고쳐야 하므로 오답이다.\n② [오답] ‘This bag is belonging to my sister.’의 동사 belong: 소유 관계를 나타내는 상태동사라 진행형으로 쓰지 않는다. ‘This bag belongs to my sister.’로 고쳐야 하므로 오답이다.\n③ [정답] ‘We are having dinner with our grandparents now.’의 동사(have)는 ‘(식사를) 하다’라는 동작을 나타내므로 진행형으로 쓸 수 있어 정답이다.\n④ [오답] ‘I am knowing the answer to this riddle.’의 동사 know: ‘알고 있다’는 상태동사라 진행형으로 쓰지 않는다. ‘I know the answer to this riddle.’로 고쳐야 하므로 오답이다.\n⑤ [오답] ‘Two years ago, Mr. Park owns a small bakery.’은 시간 표현(Two years ago)과 동사의 시제가 맞지 않는다. ‘Two years ago, Mr. Park owned a small bakery.’로 고쳐야 하므로 오답이다.\n풀이 순서: ① 발문이 옳은 것·틀린 것·다른 것·개수·조합·배열 중 무엇을 요구하는지 확인한다. → ② 지문과 선택지에서 상태동사와 진행형을 판단하는 실제 단어·문장 성분·시제 단서를 표시한다. → ③ 각 선택지에서 맞는 부분과 틀린 부분을 분리하고, 틀린 표현은 올바른 형태로 고친다. → ④ 모든 선택지를 같은 기준으로 다시 확인해 정답 또는 원문 검토 대상을 확정한다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-09-30T05:29:24.000Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-09-30T04:56:14.961Z",
+      "text": "선택지 중 4개가 진행형, 1개가 현재형이라 난이도가 너무 낮은 것은 아닌지 의심\n현재형과 현재진행형을 쓰는 경우가 애매한 경우가 있다.\n문장을 만들 때 이 점을 면밀히 검토하고, 만약 진행형과 현재형을 썼을 경우 모두 문장에 이상이 없다면 차라리 과거형 혹은 미래형으로 시제를 바꿔 오답인 선택지를 제시하는 것이 문항의 오류를 피하는 좋은 방법이다."
+    }
+  },
+  "tab": "z3ehxzzk",
+  "updatedAt": "2026-09-30T05:30:51.266Z",
+  "verdict": null,
+  "verdictAt": "2026-09-30T05:30:51.266Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-09-30T05:30:51.266Z",
+      "what": "판정을 Claude 판정으로 되돌림"
+    }
+  }
+}

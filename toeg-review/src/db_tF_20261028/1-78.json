@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T07:17:29.938Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "No other student in the group is as smart as Tom. → Tom is the smartest student in the group.",
+      "1": "Nothing is more relaxing than a warm bath. → A warm bath is more relaxing than anything else.",
+      "2": "No other planet in the solar system is larger than Jupiter. → Jupiter is larger than any other planet in the solar system.",
+      "3": "Nothing in the shop is cheaper than this pen. → This pen is more expensive than anything else in the shop.",
+      "4": "No other building in the town is as old as this church. → This church is the oldest building in the town."
+    },
+    "expl": "핵심 규칙: ‘No other + 단수명사 ~ 비교급 than A’, ‘No other ~ as + 원급 + as A’, ‘Nothing ~ 비교급 than A’는 모두 ‘A가 가장 ~하다’는 최상급의 뜻이다. 전환한 문장도 A가 가장 ~하다는 뜻이어야 한다.\n풀이 순서: ① 화살표 앞 문장(No other ~, Nothing ~)을 ‘A가 가장 ~하다’로 옮긴다. → ② 화살표 뒤 문장도 같은 뜻인지 본다. 최상급이거나 ‘비교급 + than any other(anything else)’이면 같은 뜻이다. → ③ 선택지 ④는 뒤 문장의 표현(more expensive) 때문에 뜻이 반대가 된다.\n문장별 판정:\n정답 판단: 앞 문장은 ‘이 펜이 가게에서 가장 싸다’는 뜻인데 뒤 문장은 그 반대의 뜻이 되어 전환이 바르지 않다. 정답은 ④이다.\n선택지 분석:\n① [오답] 앞뒤 문장이 모두 ‘Tom이 모둠에서 가장 똑똑하다’는 뜻이라 바른 전환이다. 오답이다.\n② [오답] 앞뒤 문장이 모두 ‘따뜻한 목욕이 가장 편안하다’는 뜻이라 바른 전환이다. 오답이다.\n③ [오답] 앞뒤 문장이 모두 ‘목성이 태양계에서 가장 크다’는 뜻이라 바른 전환이다. 오답이다.\n④ [정답] 앞 문장은 ‘이 펜이 가게에서 가장 싸다’는 뜻인데 뒤 문장은 그 반대의 뜻이 되어 전환이 바르지 않다. 정답이다.\n⑤ [오답] 앞뒤 문장이 모두 ‘이 교회가 마을에서 가장 오래되었다’는 뜻이라 바른 전환이다. 오답이다.",
+    "passage": null,
+    "stem": "다음 중 문장의 전환이 바르지 않은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T07:17:18.136Z"
+  },
+  "tab": "mtbqujsm",
+  "updatedAt": "2026-10-26T07:17:29.938Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T07:17:29.938Z",
+      "what": "확인 완료"
+    }
+  }
+}

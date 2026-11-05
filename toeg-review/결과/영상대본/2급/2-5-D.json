@@ -1,0 +1,185 @@
+{
+ "key": "2-5",
+ "type": "D",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "title": "문장의 형식, 바르게 설명한 학생 고르기",
+ "total_sec": 135,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "2급 · CH 1 문장의 형식 · 5번 · D 유형\n\n이 문제는 문장의 형식을 올바르게 설명한 학생을 모두 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 1 문장의 형식 · 5번 · D 유형",
+     "이 문제는 문장의 형식을 올바르게 설명한 학생을 모두 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 1, 5번 D 유형. 이 문제는 문장의 형식을 올바르게 설명한 학생을 모두 고르는 문제예요.",
+   "caption": "문장의 형식 설명 판단"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 18,
+   "screen": {
+    "text": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오.\n\nTom: We told him the truth. 'tell'이 간접목적어 'him'과 직접목적어 'the truth'를 취한 4형식 문장이에요.\nAmy: Mom made me clean my room. 사역동사 'make' 뒤 목적격 보어로 원형부정사 'clean'을 쓴 옳은 문장이에요.\nJoon: Dad bought a ticket to me. 'buy'를 3형식으로 바꿀 때는 'to'를 쓰므로 옳은 문장이에요.\nMina: She kept the door open. 'open'은 목적어 'the door'의 상태를 설명하는 목적격 보어로 쓰인 형용사예요.\nLeo: The soup tastes well. 감각동사 'taste' 뒤에는 부사 'well'을 써야 하므로 옳은 문장이에요.\n\n① Tom, Joon\n② Amy, Mina\n③ Joon, Mina, Leo\n④ Tom, Amy, Mina\n⑤ Tom, Amy, Leo",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+     "Tom: We told him the truth. 'tell'이 간접목적어 'him'과 직접목적어 'the truth'를 취한 4형식 문장이에요.",
+     "Amy: Mom made me clean my room. 사역동사 'make' 뒤 목적격 보어로 원형부정사 'clean'을 쓴 옳은 문장이에요.",
+     "Joon: Dad bought a ticket to me. 'buy'를 3형식으로 바꿀 때는 'to'를 쓰므로 옳은 문장이에요.",
+     "Mina: She kept the door open. 'open'은 목적어 'the door'의 상태를 설명하는 목적격 보어로 쓰인 형용사예요.",
+     "Leo: The soup tastes well. 감각동사 'taste' 뒤에는 부사 'well'을 써야 하므로 옳은 문장이에요.",
+     "① Tom, Joon",
+     "② Amy, Mina",
+     "③ Joon, Mina, Leo",
+     "④ Tom, Amy, Mina",
+     "⑤ Tom, Amy, Leo"
+    ]
+   },
+   "narration": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n4형식(동사 + ~에게 + ~을) → 3형식: give, send, tell, show, teach는 to, buy, make는 for\n사역동사 make, have + 목적어 + 동사원형 (목적어가 하는 일)\n목적격 보어 자리에 형용사도 와요 (목적어의 상태)\n감각동사(look, smell, taste) 뒤 보어 → 형용사 (부사 ✗)\n예) She made a cake for me. (그녀가 내게 케이크를 만들어 줬어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "4형식(동사 + ~에게 + ~을) → 3형식: give, send, tell, show, teach는 to, buy, make는 for",
+     "사역동사 make, have + 목적어 + 동사원형 (목적어가 하는 일)",
+     "목적격 보어 자리에 형용사도 와요 (목적어의 상태)",
+     "감각동사(look, smell, taste) 뒤 보어 → 형용사 (부사 ✗)",
+     "예) She made a cake for me. (그녀가 내게 케이크를 만들어 줬어요.)"
+    ]
+   },
+   "narration": "4형식을 3형식으로 바꾸면 받는 사람 앞에 give와 send는 to를, buy와 make는 for를 써요. 사역동사 make와 have 뒤에는 목적어가 하는 일을 동사원형으로 쓰고, 목적어의 상태를 말하면 목적격 보어로 형용사도 써요. 감각동사 뒤 보어로는 부사가 아닌 형용사를 써요. 예를 들어 She made a cake for me. 그녀가 내게 케이크를 만들어 줬어요.",
+   "caption": "to·for, 목적격 보어, 감각동사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 44,
+   "screen": {
+    "text": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오.\n\nTom: We told him the truth. 'tell'이 간접목적어 'him'과 직접목적어 'the truth'를 취한 4형식 문장이에요.\nAmy: Mom made me clean my room. 사역동사 'make' 뒤 목적격 보어로 원형부정사 'clean'을 쓴 옳은 문장이에요.\nJoon: Dad bought a ticket to me. 'buy'를 3형식으로 바꿀 때는 'to'를 쓰므로 옳은 문장이에요.\nMina: She kept the door open. 'open'은 목적어 'the door'의 상태를 설명하는 목적격 보어로 쓰인 형용사예요.\nLeo: The soup tastes well. 감각동사 'taste' 뒤에는 부사 'well'을 써야 하므로 옳은 문장이에요.\n\n① Tom, Joon\n② Amy, Mina\n③ Joon, Mina, Leo\n④ Tom, Amy, Mina\n⑤ Tom, Amy, Leo",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "올바르게 설명한 학생들",
+       "Dad bought a ticket to me."
+      ],
+      "strike": [
+       "'buy'를 3형식으로 바꿀 때는 'to'를 쓰므로 옳은 문장이에요."
+      ],
+      "note": "학생마다 예문 O·X와 설명 O·X를 따로 본다. Joon: buy는 받는 사람 앞에 for → bought a ticket for me, to가 맞다는 설명 X"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "The soup tastes well."
+      ],
+      "strike": [
+       "감각동사 'taste' 뒤에는 부사 'well'을 써야 하므로 옳은 문장이에요."
+      ],
+      "note": "Leo: 감각동사 tastes 뒤 보어는 형용사 → 맛이 좋다 = tastes good, 부사 well이라는 설명 X"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "We told him the truth.",
+       "Mom made me clean my room.",
+       "She kept the door open.",
+       "④ Tom, Amy, Mina"
+      ],
+      "strike": [],
+      "note": "Tom(4형식) O, Amy(made + me + clean) O, Mina(open = 형용사 목적격 보어) O → Tom, Amy, Mina"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 학생마다 예문과 설명이 둘 다 맞는지 따져요. Joon은 buy에 to를 쓴다고 했지만, buy는 받는 사람 앞에 for를 써서 bought a ticket for me가 맞으니 틀렸어요. 둘째, Leo는 tastes 뒤에 부사 well을 써야 한다고 했지만, 감각동사 뒤 보어는 형용사라서 맛이 좋다는 tastes good이 맞으니 틀렸어요. 셋째, 4형식을 바르게 설명한 Tom, made 뒤에 동사원형 clean을 쓴 Amy, open을 형용사 목적격 보어라고 한 Mina는 모두 맞아요. 그래서 올바르게 설명한 학생은 Tom, Amy, Mina예요.",
+   "caption": "Joon·Leo 설명 틀림 → ④"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 22,
+   "screen": {
+    "text": "① Tom, Joon  ✗  Joon의 설명이 틀림(buy는 for), Amy와 Mina가 빠짐\n② Amy, Mina  ✗  바르게 설명한 Tom이 빠짐\n③ Joon, Mina, Leo  ✗  Joon과 Leo의 설명이 틀림, Tom과 Amy가 빠짐\n④ Tom, Amy, Mina  ✓  바르게 설명한 세 학생을 모두 고름\n⑤ Tom, Amy, Leo  ✗  Leo의 설명이 틀림(맛이 좋다는 tastes good), Mina가 빠짐",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Tom, Joon  ✗  Joon의 설명이 틀림(buy는 for), Amy와 Mina가 빠짐",
+     "② Amy, Mina  ✗  바르게 설명한 Tom이 빠짐",
+     "③ Joon, Mina, Leo  ✗  Joon과 Leo의 설명이 틀림, Tom과 Amy가 빠짐",
+     "④ Tom, Amy, Mina  ✓  바르게 설명한 세 학생을 모두 고름",
+     "⑤ Tom, Amy, Leo  ✗  Leo의 설명이 틀림(맛이 좋다는 tastes good), Mina가 빠짐"
+    ]
+   },
+   "narration": "정답은 4번 Tom, Amy, Mina예요. tastes 뒤에 부사 well을 쓴다는 Leo의 말을 믿으면 5번이나 3번을 고르게 돼요. buy에 to를 쓴다는 Joon의 말을 믿으면 1번이나 3번을 고르게 돼요. 2번은 바르게 설명한 Tom을 빠뜨렸어요.",
+   "caption": "정답 ④ Tom, Amy, Mina"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ④ Tom, Amy, Mina\n\nbuy·make는 for, give·send·tell은 to / 감각동사 + 형용사 보어 (tastes good)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ Tom, Amy, Mina",
+     "buy·make는 for, give·send·tell은 to / 감각동사 + 형용사 보어 (tastes good)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, buy는 3형식에서 for를 쓰고, 감각동사 뒤 보어에는 형용사를 써요.",
+   "caption": "예문과 설명을 따로 확인"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+  "passage": "Tom: We told him the truth. 'tell'이 간접목적어 'him'과 직접목적어 'the truth'를 취한 4형식 문장이에요.\nAmy: Mom made me clean my room. 사역동사 'make' 뒤 목적격 보어로 원형부정사 'clean'을 쓴 옳은 문장이에요.\nJoon: Dad bought a ticket to me. 'buy'를 3형식으로 바꿀 때는 'to'를 쓰므로 옳은 문장이에요.\nMina: She kept the door open. 'open'은 목적어 'the door'의 상태를 설명하는 목적격 보어로 쓰인 형용사예요.\nLeo: The soup tastes well. 감각동사 'taste' 뒤에는 부사 'well'을 써야 하므로 옳은 문장이에요.",
+  "c": [
+   "Tom, Joon",
+   "Amy, Mina",
+   "Joon, Mina, Leo",
+   "Tom, Amy, Mina",
+   "Tom, Amy, Leo"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: give·send·tell·show·teach는 3형식에서 to를, buy·make는 for를 쓴다. 사역동사 make·have + 목적어 + 동사원형이고, 목적어와 목적격 보어가 수동 관계이면 과거분사를 쓴다. 감각동사 뒤 보어는 형용사다.\n풀이 순서: ① 학생마다 ‘예문이 맞는 문장인가’와 ‘설명이 맞는가’를 따로 따진다. → ② Joon은 buy에 to가 맞다고 했고(for가 맞다), Leo는 tastes 뒤에 well이 맞다고 했다. 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Tom, Amy, Mina이다.\n문장별 판정:\nTom O(tell의 4형식).\nAmy O(사역동사 made 뒤 원형부정사 clean).\nJoon X(buy는 for를 쓴다. bought a ticket for me).\nMina O(open은 형용사 목적격 보어).\nLeo X(tastes 뒤에는 형용사 good).\n정답 판단: 올바르게 설명한 학생은 Tom, Amy, Mina이다.\n선택지 분석:\n① [오답] Joon는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Amy, Mina를 빠뜨렸다. 따라서 오답이다.\n② [오답] 올바르게 설명한 학생 Tom를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Joon, Leo는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Tom, Amy를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 올바르게 설명한 학생 Tom, Amy, Mina를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] Leo는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다."
+ }
+}

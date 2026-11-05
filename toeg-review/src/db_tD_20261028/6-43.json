@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T04:23:55.912Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "didn't - closed",
+      "1": "doesn't - closed",
+      "2": "weren't - closed",
+      "3": "don't - closed",
+      "4": "didn't - close"
+    },
+    "expl": "핵심 규칙: 과거의 일은 동사의 과거형으로 쓴다. 규칙동사는 -ed를 붙이고(자음 + y는 -ied, 단모음 + 단자음은 자음을 겹쳐 -ed), 부정문은 didn't + 동사원형, 의문문은 Did + 주어 + 동사원형 ~?으로 쓴다.\n풀이 순서: ① 첫 문장: last night이 있고 뒤에 동사원형이 있으므로 didn't가 들어간다. → ② 둘째 문장: an hour ago이 있고 빈칸이 동사 자리이므로 과거형 closed. → ③ 정답은 didn't - closed.\n문장별 판정:\n정답 판단: 과거 부정 didn't와 과거형 closed를 바르게 짝지었으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 과거 부정 didn't와 과거형 closed를 바르게 짝지었으므로 정답이다.\n② [오답] last night이 있어 doesn't를 쓸 수 없고 주어 We와도 맞지 않으므로 오답이다.\n③ [오답] 일반동사 watch의 부정에 weren't를 쓸 수 없으므로 오답이다.\n④ [오답] last night이 있어 don't를 쓸 수 없으므로 오답이다.\n⑤ [오답] an hour ago가 있어 과거형 closed를 써야 하므로 오답이다.",
+    "passage": "- We _______ watch the movie last night.\n- Mina _______ the door for her grandma an hour ago.",
+    "stem": "빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T04:23:53.788Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T04:23:55.912Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T04:23:55.912Z",
+      "what": "확인 완료"
+    }
+  }
+}

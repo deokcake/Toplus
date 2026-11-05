@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:21:37.543Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "fifth - eleventh - fourth",
+      "1": "five - eleven - fourth",
+      "2": "five - eleventh - four",
+      "3": "fifth - eleven - four",
+      "4": "five - eleventh - fourth"
+    },
+    "expl": "핵심 규칙: 개수는 기수(one, two, three …)로, 순서·몇 번째·층·생일은 서수(first, second, third, fourth … twelfth)로 나타낸다.\n풀이 순서: ① 첫 문장은 개수를 말한다 → 기수 five. → ② 둘째 문장은 몇 번째 생일인지 말한다 → 서수 eleventh. → ③ 셋째 문장은 몇 층인지 말한다 → 서수 fourth. 정답은 ⑤.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 첫째 빈칸 fifth: 손가락의 개수는 기수 five로 나타낸다. 따라서 오답이다.\n② [오답] 둘째 빈칸 eleven: 몇 번째 생일은 서수 eleventh로 나타낸다. 따라서 오답이다.\n③ [오답] 셋째 빈칸 four: 층은 서수 fourth로 나타낸다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 fifth: 손가락의 개수는 기수 five로 나타낸다. 둘째 빈칸 eleven: 몇 번째 생일은 서수 eleventh로 나타낸다. 셋째 빈칸 four: 층은 서수 fourth로 나타낸다. 따라서 오답이다.\n⑤ [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.",
+    "passage": "· A hand has _______ fingers.\n· It is Tom's _______ birthday.\n· She lives on the _______ floor.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:21:35.319Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:21:37.543Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:21:37.543Z",
+      "what": "확인 완료"
+    }
+  }
+}

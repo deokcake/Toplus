@@ -1,0 +1,35 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T12:41:15.256Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "practices - practicing",
+      "1": "practices - practiced",
+      "2": "practiced - practiced",
+      "3": "practice - practiced",
+      "4": "practices - practices"
+    },
+    "expl": "핵심 규칙: every ~는 현재의 반복을, yesterday·last night는 과거를 나타낸다. 3인칭 단수 주어의 현재형에는 -s/-es를 붙이고, 과거형은 주어와 관계없이 -ed형을 쓴다.\n풀이 순서: ① 첫 문장의 때를 나타내는 말(every morning)은 되풀이되는 일이다. 현재형을 쓰되 주어에 맞춘다: Mina는 3인칭 단수이므로 practices. → ② 둘째 문장의 last night는 끝난 일이다. 과거형을 쓴다: practiced. → ③ 정답은 practices - practiced.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 둘째 빈칸 practicing: last night(과거)라 practiced를 쓴다. 따라서 오답이다.\n② [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n③ [오답] 첫째 빈칸 practiced: every morning(반복)이고 3인칭 단수 주어라 practices를 쓴다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 practice: every morning(반복)이고 3인칭 단수 주어라 practices를 쓴다. 따라서 오답이다.\n⑤ [오답] 둘째 빈칸 practices: last night(과거)라 practiced를 쓴다. 따라서 오답이다.",
+    "passage": "Mina ________ the piano every morning.\nMina ________ the piano last night.",
+    "stem": "다음 빈칸에 들어갈 단어가 순서대로 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T06:05:17.332Z"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T06:05:17.332Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T12:41:15.256Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T06:05:17.332Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:17:28.552Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "The shoes which is by the door are mine.",
+      "1": "The shoes which are by the door is mine.",
+      "2": "The shoes which is by the door is my.",
+      "3": "The shoes which are by the door are my.",
+      "4": "The shoes which are by the door are mine."
+    },
+    "expl": "핵심 규칙: 주격 관계대명사 뒤 동사는 선행사에, 주절의 동사는 문장의 주어에 수를 맞춘다. be동사 뒤 ‘~의 것’은 소유대명사(mine, ours, hers)로 쓰고, 명사 앞에는 소유격(my, our, her)을 쓴다.\n풀이 순서: ① 관계절의 동사는 선행사(The shoes, 복수)에 수를 맞춘다. → ② 문장 전체의 동사도 같은 주어에 수를 맞춘다. → ③ 문장 끝의 소유 표현을 확인한다. be동사 뒤에는 my가 아니라 mine을 쓴다. 세 군데가 모두 맞는 것은 ⑤이다.\n문장별 판정:\n정답 판단: 관계절 동사(are)와 주절 동사(are)가 복수 선행사·주어에 맞고, 소유대명사(mine)도 바르므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 관계절 동사는 복수 선행사(The shoes)에 맞춰 are로 써야 하므로 오답이다.\n② [오답] 주절 동사는 복수 주어(The shoes)에 맞춰 are로 써야 하므로 오답이다.\n③ [오답] 두 동사가 모두 단수이고, be동사 뒤에는 소유대명사(mine)를 써야 하므로 오답이다.\n④ [오답] be동사 뒤에는 소유격(my)이 아니라 소유대명사(mine)를 써야 하므로 오답이다.\n⑤ [정답] 관계절 동사(are)와 주절 동사(are)가 복수 선행사·주어에 맞고, 소유대명사(mine)도 바르므로 정답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T07:17:28.074Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T07:17:28.552Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T07:17:28.552Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T04:11:00.737Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "likes",
+      "1": "Tom",
+      "2": "very much",
+      "3": "rock",
+      "4": "rock music"
+    },
+    "expl": "핵심 규칙: 목적어는 동사가 나타내는 행동·상태의 대상(~을/를)이 되는 명사구 전체이다. 주어, 동사, 때·정도를 나타내는 부사어, 목적어를 꾸미는 말만 떼어 낸 것과 구별한다.\n풀이 순서: ① 동사를 찾는다: likes. → ② 동사에 ‘무엇을?’이라고 물어 본다: 좋아하는 것은 rock music. 낱말 하나가 아니라 꾸미는 말까지 묶어 답한다. → ③ 정답은 rock music.\n문장별 판정:\n정답 판단: 동사 likes에 ‘무엇을?’이라고 물으면 rock music이 답이 되므로 목적어는 rock music이다. 정답은 ⑤이다.\n선택지 분석:\n① [오답] likes는 ‘좋아하다’라는 동사라 목적어가 아니므로 오답이다.\n② [오답] Tom은 문장의 주어라 목적어가 아니므로 오답이다.\n③ [오답] very much는 정도를 나타내는 부사어라 목적어가 아니므로 오답이다.\n④ [오답] rock은 music을 꾸미는 말로 목적어의 일부일 뿐이라 오답이다.\n⑤ [정답] rock music은 동사 likes의 대상(무엇을?)이 되는 명사구 전체이므로 정답이다.",
+    "passage": "Tom likes rock music very much.",
+    "stem": "다음 문장에서 목적어를 바르게 찾은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:40:37.960Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:40:42.073Z",
+      "text": "기준 문한에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:11:00.737Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:10:57.093Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:11:00.737Z",
+      "what": "확인 완료"
+    }
+  }
+}

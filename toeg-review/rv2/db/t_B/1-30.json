@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-09-30T04:57:01.353Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "[선택지별 구체 해설]\n핵심 규칙: 과거에 했어야 했지만 하지 않은 일을 후회할 때는 should have + 과거분사를 쓴다. must have + 과거분사는 과거 일에 대한 강한 추측이라 후회의 뜻이 아니다. 조동사 뒤에는 have를 빼거나(should gone) to를 넣을(should have to gone) 수 없다.\n정답 판단: 지문은 이미 지나간 일을 후회하는 상황이므로 should have + 과거분사인 ‘he should have gone to bed earlier’가 알맞다.\n① [정답] ‘he should have gone to bed earlier’는 하지 않은 일을 후회하는 should have + 과거분사라 문맥에 맞으므로 정답이다.\n② [오답] ‘he could gone to bed earlier’는 could 뒤에 have가 빠져 형태가 틀렸으므로 오답이다.\n③ [오답] ‘he should have to gone to bed earlier’는 should have 뒤에 to를 넣어 형태가 틀렸으므로 오답이다.\n④ [오답] ‘he should gone to bed earlier’는 should 뒤에 have가 빠져 형태가 틀렸으므로 오답이다.\n⑤ [오답] ‘he must have gone to bed earlier’의 must have + 과거분사는 과거 일에 대한 강한 추측이라, 하지 않은 일을 후회하는 문맥에 맞지 않으므로 오답이다.\n풀이 순서: ① 발문이 옳은 것·틀린 것·다른 것·개수·조합·배열 중 무엇을 요구하는지 확인한다. → ② 지문과 선택지에서 should have p.p.을 판단하는 실제 단어·문장 성분·시제 단서를 표시한다. → ③ 각 선택지에서 맞는 부분과 틀린 부분을 분리하고, 틀린 표현은 올바른 형태로 고친다. → ④ 모든 선택지를 같은 기준으로 다시 확인해 정답 또는 원문 검토 대상을 확정한다.",
+    "passage": "Tom had an important exam this morning, but he stayed up all night playing online games. During the exam, he felt so tired that he could not focus on the questions.\nLooking back, <u>he thinks he must have gone to bed earlier</u>, and he regrets it now.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-09-30T04:56:59.719Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-09-30T04:45:29.668Z",
+      "text": "변형 문항의 지문이 너무 짧음."
+    }
+  },
+  "tab": "z3ehxzzk",
+  "updatedAt": "2026-09-30T05:31:08.478Z",
+  "verdict": null,
+  "verdictAt": "2026-09-30T05:31:08.478Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-09-30T05:31:08.478Z",
+      "what": "판정을 Claude 판정으로 되돌림"
+    }
+  }
+}

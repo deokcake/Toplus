@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T09:05:16.774Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Mina, Leo, Amy",
+      "1": "Mina, Leo, Tom",
+      "2": "Jane, Tom, Amy",
+      "3": "Leo, Tom",
+      "4": "Mina, Jane"
+    },
+    "expl": "핵심 규칙: give·send·tell·show·teach는 3형식에서 to를, buy·make는 for를 쓴다. 사역동사 make·have + 목적어 + 동사원형이고, 목적어와 목적격 보어가 수동 관계이면 과거분사를 쓴다. 감각동사 뒤 보어는 형용사다.\n풀이 순서: ① 학생마다 ‘예문이 맞는 문장인가’와 ‘설명이 맞는가’를 따로 따진다. → ② Jane은 buy에 to가 맞다고 했고(for가 맞다), Amy는 looks 뒤의 부사 quietly가 맞다고 했다. 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Mina, Leo, Tom이다.\n문장별 판정:\nMina O(teach의 4형식).\nLeo O(사역동사 made 뒤 원형부정사 laugh).\nJane X(buy는 for를 쓴다. bought flowers for my teacher on her birthday).\nTom O(창문이 깨진 수동 관계라 broken).\nAmy X(looks 뒤에는 형용사 quiet).\n정답 판단: 올바르게 설명한 학생은 Mina, Leo, Tom이다.\n선택지 분석:\n① [오답] Amy는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Tom를 빠뜨렸다. 따라서 오답이다.\n② [정답] 올바르게 설명한 학생 Mina, Leo, Tom를 빠짐없이 골랐으므로 정답이다.\n③ [오답] Jane, Amy는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina, Leo를 빠뜨렸다. 따라서 오답이다.\n④ [오답] 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Leo, Tom를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "Mina: She taught us English at the summer camp. 'teach'가 간접목적어 'us'와 직접목적어 'English'를 취한 4형식 문장이에요.\nLeo: The funny joke made me laugh. 사역동사 'make' 뒤 목적격 보어로 원형부정사 'laugh'를 쓴 옳은 문장이에요.\nJane: I bought flowers to my teacher on her birthday. 'buy'를 3형식으로 바꿀 때는 받는 사람 앞에 'to'를 쓰므로 옳은 문장이에요.\nTom: We found the window broken this morning. 창문이 깨진 수동의 관계이므로 목적격 보어로 과거분사 'broken'을 쓴 것이 맞아요.\nAmy: The room looks quietly at night. 감각동사 'look' 뒤에는 부사 'quietly'를 써야 하므로 옳은 문장이에요.",
+    "stem": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오."
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T09:05:16.774Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T09:05:16.774Z",
+      "what": "확인 완료"
+    }
+  }
+}

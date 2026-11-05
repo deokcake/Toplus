@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:43:38.216Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: Did/didn't/Does 뒤에는 동사원형을 쓰고, be동사는 주어에 맞춰 was/were를 쓰며 일반동사와 함께 쓰지 않는다. 불규칙 동사는 정해진 과거형을 쓴다.\n풀이 순서: ① did/didn't/Does가 있는 문장은 뒤가 동사원형인지 본다. → ② be동사 문장은 주어와 수가 맞는지, 일반동사와 겹쳐 쓰지 않았는지 본다. → ③ (나) did not ate(eat), (다) The boys was(were)가 틀렸다. 정답은 (나), (다).\n문장별 판정:\n(가) O. Did 뒤에 동사원형 bring을 썼다.\n(나) X. did not 뒤에는 동사원형 eat을 써야 한다.\n(다) X. 복수 주어 The boys에는 were를 써야 한다.\n(라) O. write의 과거형 wrote를 썼다.\n(마) O. visit의 과거형 visited를 썼다.\n정답 판단: 어법상 틀린 문장은 (나), (다)이다.\n선택지 분석:\n① [오답] (가)는 틀린 문장이 아니고, 틀린 문장 (나)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (라)는 틀린 문장이 아니고, 틀린 문장 (나)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (가)는 틀린 문장이 아니고, 틀린 문장 (다)를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 틀린 문장 (나), (다)를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] (라)는 틀린 문장이 아니고, 틀린 문장 (다)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(가) Did Mina bring her camera?\n(나) He did not ate lunch.\n(다) The boys was late.\n(라) Jane wrote a postcard.\n(마) We visited our grandma last Sunday.",
+    "stem": "다음 중 어법상 틀린 문장으로만 짝지어진 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T07:43:37.049Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T07:43:38.216Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:43:38.216Z",
+      "what": "확인 완료"
+    }
+  }
+}

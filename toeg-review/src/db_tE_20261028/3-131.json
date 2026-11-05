@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T05:02:18.833Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "Finish - eat",
+      "1": "Finishing - eat",
+      "2": "Finish - eating",
+      "3": "To finish - to eat",
+      "4": "Finishes - eats"
+    },
+    "expl": "핵심 규칙: 명령문은 주어 없이 동사원형으로 시작하고, Let's 뒤에도 동사원형을 쓴다.\n풀이 순서: ① 첫 문장은 ‘~해라’라는 명령문이다. 주어 없이 동사원형으로 시작한다: Finish. → ② 둘째 문장은 Let's + 동사원형(~하자)이다: eat. → ③ 정답은 Finish - eat.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n② [오답] 첫째 빈칸 Finishing: 명령문은 동사원형으로 시작한다. 따라서 오답이다.\n③ [오답] 둘째 빈칸 eating: Let's 뒤에는 동사원형을 쓴다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 To finish: 명령문은 동사원형으로 시작한다, 둘째 빈칸 to eat: Let's 뒤에는 동사원형을 쓴다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 Finishes: 명령문은 동사원형으로 시작한다, 둘째 빈칸 eats: Let's 뒤에는 동사원형을 쓴다. 따라서 오답이다.",
+    "passage": "_____ your homework first.(먼저 숙제를 끝내라.)\nLet's _____ dinner after that.(그다음에 저녁을 먹자.)",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T05:01:22.152Z"
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T05:02:18.833Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T05:02:18.833Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차: 길이)",
+  "done": true,
+  "doneAt": "2026-10-26T04:51:45.874Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "a few - Much - much",
+      "1": "few - Much - a lot of",
+      "2": "a little - A lot of - many",
+      "3": "few - Many - much",
+      "4": "many - A few - a lot of"
+    },
+    "expl": "핵심 규칙: many·a few·few는 셀 수 있는 명사의 복수형, much·a little·little은 셀 수 없는 명사에 쓰고 a lot of는 둘 다에 쓴다. a few·a little은 ‘조금 있는’, few·little은 ‘거의 없는’이다.\n풀이 순서: ① 빈칸 뒤 명사가 셀 수 있는지 하나씩 본다: (A) students 셀 수 있음, (B) students 셀 수 있음, (C) work 셀 수 없음. → ② 셀 수 있으면 many·a few·few, 셀 수 없으면 much·a little·little, a lot of는 둘 다 된다. → ③ 세 자리가 모두 맞는 few - Many - much가 정답이다.\n문장별 판정:\n정답 판단: (A) 다섯 명뿐이라 ‘거의 없는’ few, (B) 셀 수 있는 students에 Many, (C) 셀 수 없는 work에 much가 모두 알맞으므로 정답은 ④이다.\n선택지 분석:\n① [오답] (A) a few: ‘조금 있다’는 뜻이라 ‘다섯 명뿐’이라는 흐름과 맞지 않고, (B) Much: 셀 수 있는 students에는 Many를 써야 하므로 오답이다.\n② [오답] (B) Much: 셀 수 있는 students에는 Many를 써야 하므로 오답이다.\n③ [오답] (A) a little: 셀 수 있는 students에 쓸 수 없고, (C) many: 셀 수 없는 work에는 much를 써야 하므로 오답이다.\n④ [정답] (A) 다섯 명뿐이라 ‘거의 없는’ few, (B) 셀 수 있는 students에 Many, (C) 셀 수 없는 work에 much가 모두 알맞으므로 정답이다.\n⑤ [오답] (A) many: 다섯 명뿐인데 ‘많다’는 뜻이라 맞지 않고, (B) A few: 대부분이 축제에 갔다는 흐름과 맞지 않으므로 오답이다.",
+    "passage": "Teacher: Only five students came to class today. Why are there so (A)________ students?\nMina: There is a school festival in the gym. (B)________ students went there to watch the show.\nTeacher: I see. Then we don't have (C)________ work to do today. Let's just review the last lesson.",
+    "stem": "다음 대화의 빈칸 (A)~(C)에 들어갈 말로 알맞은 것을 고르시오."
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T04:51:45.874Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:51:45.874Z",
+      "what": "확인 완료"
+    }
+  }
+}

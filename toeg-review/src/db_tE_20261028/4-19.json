@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T08:02:24.198Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "These",
+      "1": "is",
+      "2": "surprising",
+      "3": "it",
+      "4": "the"
+    },
+    "expl": "핵심 규칙: glasses·gloves·pants·shoes처럼 짝을 이루는 물건과 police는 복수 취급해 they/them으로 받는다. news는 단수 취급해 this/it으로 받는다.\n풀이 순서: ① 뒤 문장의 주어와 동사를 맞춰 본다: It are는 수가 맞지 않는다. → ② 앞 문장에서 가리키는 명사를 찾아 어느 쪽이 틀렸는지 정한다: news는 단수 취급하므로 It is가 되어야 한다. 틀린 것은 are다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: news는 단수 취급하고, These가 아니라 This를 써야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] news는 단수 취급하고, These가 아니라 This를 써야 하므로 정답이다.\n② [오답] 단수 취급하는 news에 is가 맞으므로 오답이다.\n③ [오답] be동사 뒤 보어 자리에 형용사가 맞으므로 오답이다.\n④ [오답] 단수 취급하는 news를 it으로 받는 것이 맞으므로 오답이다.\n⑤ [오답] on the radio로 the를 쓰는 것이 맞으므로 오답이다.",
+    "passage": "①<u>These</u> news ②<u>is</u> very ③<u>surprising</u>. I heard ④<u>it</u> on ⑤<u>the</u> radio.",
+    "stem": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T08:02:20.169Z"
+  },
+  "tab": "x2buc7cy",
+  "updatedAt": "2026-10-27T08:02:24.198Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T08:02:24.198Z",
+      "what": "확인 완료"
+    }
+  }
+}

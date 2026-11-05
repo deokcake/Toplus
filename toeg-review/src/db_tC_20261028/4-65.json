@@ -1,0 +1,30 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "done": true,
+  "doneAt": "2026-10-25T14:32:30.987Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "ⓐ, ⓑ",
+      "1": "ⓐ, ⓒ",
+      "2": "ⓑ, ⓒ",
+      "3": "ⓑ, ⓓ",
+      "4": "ⓒ, ⓓ"
+    },
+    "expl": "핵심 규칙: many·(a) few는 셀 수 있는 명사, much·(a) little은 셀 수 없는 명사와 쓴다. 빈도부사는 일반동사 앞, be동사 뒤에 두고, 3인칭 단수 주어의 동사에는 -s/-es를 붙인다.\n풀이 순서: ① 밑줄이 수량 표현이면 뒤의 명사가 셀 수 있는지, 동사이면 주어와 맞는지 본다. → ② ⓐ much milks(much milk), ⓓ never is(is never)가 틀렸다. ⓑ, ⓒ는 옳다. → ③ 옳은 문장만 고른 ⓑ, ⓒ가 정답이다.\n문장별 판정:\nⓐ X. milk는 셀 수 없는 명사라 복수형을 쓰지 않는다.\nⓑ O. 빈도부사가 일반동사 앞에 오고 3인칭 단수형 walks를 썼다.\nⓒ O. 셀 수 있는 명사 eggs에 a few를 썼다.\nⓓ X. 주어 They에는 are를 쓰고 빈도부사는 그 뒤에 온다.\n정답 판단: 밑줄 친 부분이 옳은 문장은 ⓑ, ⓒ이다.\n선택지 분석:\n① [오답] ⓐ는 옳은 문장이 아니고, 옳은 문장 ⓒ를 빠뜨렸다. 따라서 오답이다.\n② [오답] ⓐ는 옳은 문장이 아니고, 옳은 문장 ⓑ를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 옳은 문장 ⓑ, ⓒ를 빠짐없이 골랐으므로 정답이다.\n④ [오답] ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓒ를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓑ를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "ⓐ She drinks <u>much milks</u> every morning.\nⓑ Minsu <u>usually walks</u> to school with his sister.\nⓒ We have <u>a few eggs</u> in the fridge.\nⓓ They <u>never is</u> late for school.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:32:29.727Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-25T14:32:30.987Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:32:30.987Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T08:48:00.996Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "A, B, C, E",
+      "1": "B, D, F, G",
+      "2": "A, C, D, G",
+      "3": "C, E, F, G",
+      "4": "B, C, E, F"
+    },
+    "expl": "핵심 규칙: because of·despite·in spite of 뒤에는 명사(구), because·although 뒤에는 절이 온다. so ~ that은 결과, lest ~ (should)는 ‘~하지 않도록’을 나타내고, 간접의문문은 ‘의문사 + 주어 + 동사’ 어순이다. however(no matter how) 뒤에는 형용사·부사가 바로 온다.\n풀이 순서: ① 문장마다 접속사·전치사 뒤에 온 것이 명사(구)인지 절인지, 간접의문문의 어순이 바른지 확인한다. → ② A는 Although 뒤에 명사만 왔고, D는 unless절에 will을 썼으며, G는 However 뒤에 부사가 바로 오지 않았다. 나머지 넷은 옳다. → ③ 옳은 문장만 모은 B, C, E, F를 고른다.\n문장별 판정:\nA) 틀림: although 뒤에는 절이 와야 한다. Despite the long delay.\nB) 옳음: so + 형용사 + that(결과).\nC) 옳음: lest + 주어 + should + 동사원형.\nD) 틀림: 조건의 unless절에서는 미래의 일도 현재시제로 쓴다. Unless it rains tomorrow.\nE) 옳음: no matter who가 양보절을 이끈다.\nF) 옳음: 간접의문문 어순(when + 주어 + 동사).\nG) 틀림: however 바로 뒤에 부사가 와야 한다. However carefully he drove.\n정답 판단: 어법상 옳은 문장은 B, C, E, F이다.\n선택지 분석:\n① [오답] A는 옳은 문장이 아니고, 옳은 문장 F를 빠뜨렸다. 따라서 오답이다.\n② [오답] D, G는 옳은 문장이 아니고, 옳은 문장 C, E를 빠뜨렸다. 따라서 오답이다.\n③ [오답] A, D, G는 옳은 문장이 아니고, 옳은 문장 B, E, F를 빠뜨렸다. 따라서 오답이다.\n④ [오답] G는 옳은 문장이 아니고, 옳은 문장 B를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 옳은 문장 B, C, E, F를 빠짐없이 골랐으므로 정답이다.",
+    "passage": "A) Although the long delay, we waited patiently at the gate.\nB) Jane was so nervous that she forgot her lines on stage.\nC) Lest Tom should miss the bus, he left home early.\nD) Unless it will rain tomorrow, we will play outside.\nE) No matter who calls me, do not answer the phone.\nF) I am not sure when the store closes on Sundays.\nG) However he drove carefully, the icy road was dangerous.",
+    "stem": "다음 중 어법상 옳은 것을 모두 고르시오."
+  },
+  "tab": "6l39qm2m",
+  "updatedAt": "2026-10-26T08:48:00.996Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T08:48:00.996Z",
+      "what": "확인 완료"
+    }
+  }
+}

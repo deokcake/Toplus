@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T03:53:32.184Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "The girl <u>singing</u> on the stage is my cousin.",
+      "1": "I found a <u>broken</u> vase on the floor.",
+      "2": "The man <u>talking</u> to Jane is our coach.",
+      "3": "The bridge <u>building</u> in 1990 is still strong.",
+      "4": "Do you know the woman <u>wearing</u> a hat?"
+    },
+    "expl": "핵심 규칙: 명사가 직접 하는 동작은 현재분사로, 동작을 받거나 그 결과 상태에 있는 명사는 과거분사로 꾸민다.\n풀이 순서: ① 밑줄 친 분사가 꾸미는 명사를 찾아 ‘명사가 ~하다’(능동)인지 ‘명사가 ~되다’(수동)인지 본다. → ② 능동이면 -ing, 수동이면 과거분사다. by ~, 과거 시점 표현은 수동의 단서다. → ③ 선택지 ④가 어색하다: 다리는 지어‘진’ 것이므로 built가 맞다.\n문장별 판정:\n정답 판단: 명사(The bridge)는 지어진 대상이므로 과거분사(built)로 써야 한다. 어색한 부분이므로 정답은 ④이다.\n선택지 분석:\n① [오답] 현재분사: 명사(The girl)가 직접 노래하는 능동 관계라 알맞으므로 오답이다.\n② [오답] 과거분사: 명사(vase)가 깨진 수동 관계라 알맞으므로 오답이다.\n③ [오답] 현재분사: 명사(The man)가 직접 말하는 능동 관계라 알맞으므로 오답이다.\n④ [정답] 명사(The bridge)는 지어진 대상이므로 과거분사(built)로 써야 한다. 어색한 부분이므로 정답이다.\n⑤ [오답] 현재분사: 명사(the woman)가 직접 모자를 쓴 능동 관계라 알맞으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T03:53:22.141Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T03:53:32.184Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T03:53:32.184Z",
+      "what": "확인 완료"
+    }
+  }
+}

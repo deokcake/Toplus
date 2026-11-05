@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T18:08:55.216Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Where did you buy the shirt?",
+      "1": "When did you buy the shirt?",
+      "2": "Who bought the shirt?",
+      "3": "How much did the shirt cost?",
+      "4": "Why did you buy the shirt?"
+    },
+    "expl": "핵심 규칙: 의문사는 묻는 정보에 맞게 고른다: who(사람), what(사물·일), where(장소), when(때), why(이유), how(방법), how much(값·양), how long(기간). 일반동사 과거 의문문은 의문사 + did + 주어 + 동사원형이다.\n풀이 순서: ① B의 대답이 알려 주는 정보가 무엇인지 본다: 값(thirty dollars). → ② 그 정보를 묻는 의문사는 How much(얼마)다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: How much는 값을 묻고 B가 값(thirty dollars)을 말하므로 정답은 ④이다.\n선택지 분석:\n① [오답] Where는 장소를 묻는데 B는 값을 말하므로 오답이다.\n② [오답] When은 때를 묻는데 B는 값을 말하므로 오답이다.\n③ [오답] Who는 산 사람을 묻는데 B는 값을 말하므로 오답이다.\n④ [정답] How much는 값을 묻고 B가 값(thirty dollars)을 말하므로 정답이다.\n⑤ [오답] Why는 이유를 묻는데 B는 값을 말하므로 오답이다.",
+    "passage": "A: ________________________\nB: It cost thirty dollars.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:08:41.906Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:08:55.217Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:08:55.217Z",
+      "what": "확인 완료"
+    }
+  }
+}

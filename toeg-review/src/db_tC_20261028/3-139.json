@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T05:28:39.768Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "ⓐ의 'and'는 단순히 두 문장을 이어 주므로 생략해도 뜻이 같다.",
+      "1": "ⓐ를 'If'를 사용한 문장으로 바꾸면 'If you don't practice every day, you will win the game.'이 된다.",
+      "2": "ⓐ는 '연습해라, 그렇지 않으면 질 것이다'라는 경고의 뜻이다.",
+      "3": "ⓐ의 'Practice'는 명사로 쓰여 '연습'이라는 뜻의 주어이다.",
+      "4": "ⓐ는 명령문 뒤에 'and'가 와서 '매일 연습하면 경기에서 이길 것이다'라는 뜻을 나타낸다."
+    },
+    "expl": "핵심 규칙: 명령문 + and는 ‘~해라, 그러면 …할 것이다’(If you ~), 명령문 + or는 ‘~해라, 그렇지 않으면 …할 것이다’(If you don't ~)의 뜻이다. 명령문은 주어 You를 생략하고 동사원형으로 시작한다.\n풀이 순서: ① ⓐ의 틀을 본다: 명령문 + and. → ② ‘~해라, 그러면 …할 것이다’라는 뜻이다. ‘그렇지 않으면’은 or일 때다. → ③ If 문장으로 바꿔 확인한다: If you practice every day, you will win the game. 정답은 ⑤.\n문장별 판정:\n정답 판단: 명령문 + and의 뜻을 바르게 설명했으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 명령문 뒤의 and는 ‘그러면’의 뜻이라 생략할 수 없으므로 오답이다.\n② [오답] 명령문 + and는 If you ~(긍정)로 바꿔야 하므로 오답이다.\n③ [오답] and는 ‘그러면’이라 경고가 아니라 조건의 결과를 나타내므로 오답이다.\n④ [오답] Practice는 명령문을 이끄는 동사원형이므로 오답이다.\n⑤ [정답] 명령문 + and의 뜻을 바르게 설명했으므로 정답이다.",
+    "passage": "Our class will have a soccer game next week. Our coach told us, \"ⓐ<u>Practice every day, and you will win the game</u>.\" We are practicing hard now.",
+    "stem": "다음 지문의 밑줄 친 ⓐ에 대한 한국어 문법 설명으로 가장 적절한 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:28:27.804Z"
+  },
+  "tab": "fhh9u0lo",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:28:39.768Z",
+      "what": "확인 완료"
+    }
+  }
+}

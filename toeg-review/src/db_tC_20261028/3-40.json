@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T03:25:50.448Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "ⓐ went는 ‘가다(go)’의 과거형으로 불규칙하게 변한 것이다.",
+      "1": "ⓑ는 과거의 특정 시점(정오)에 진행 중이던 동작을 나타내는 과거진행형이다.",
+      "2": "ⓒ: buy의 과거형은 buyed이므로 bought는 틀린 표현이다.",
+      "3": "ⓓ는 복수 주어에 맞춰 were를 쓴 과거진행형이다.",
+      "4": "ⓔ: did not 뒤이므로 동사원형 come을 썼다."
+    },
+    "expl": "핵심 규칙: 과거의 일은 과거형(규칙 -ed, 불규칙 변화), 과거에 진행 중이던 일은 was/were + -ing로 나타낸다. did not 뒤에는 동사원형을 쓰고, be going to + 동사원형은 미래의 계획을 나타낸다.\n풀이 순서: ① 밑줄마다 형태가 옳은지 먼저 본다. 이 지문의 밑줄 다섯 개는 모두 옳은 표현이다. → ② 설명이 그 형태를 바르게 풀었는지 본다. 옳은 표현을 고쳐야 한다고 하거나 시제 이름을 틀리게 말하면 틀린 설명이다. → ③ 선택지 ③의 설명이 틀렸다. buy의 과거형은 buyed가 아니라 bought다.\n문장별 판정:\n정답 판단: buy의 과거형은 bought이므로 ⓒ는 옳고, 이 설명이 틀렸다.\n선택지 분석:\n① [오답] went는 go의 불규칙 과거형이라 옳은 설명이므로 오답이다.\n② [오답] was studying은 과거의 특정 시점에 진행 중이던 과거진행형이라 옳은 설명이므로 오답이다.\n③ [정답] buy의 과거형은 bought이므로 ⓒ는 옳고 이 설명이 틀렸다. 옳지 않은 설명이므로 정답이다.\n④ [오답] 복수 주어에 were를 쓴 과거진행형이라 옳은 설명이므로 오답이다.\n⑤ [오답] didn't 뒤에 동사원형 come을 쓴 것이 맞아 옳은 설명이므로 오답이다.",
+    "passage": "Yesterday, Tom ⓐ<u>went</u> to school early to finish his science project. He ⓑ<u>was studying</u> in the library at noon when his friends called him. Later, he ⓒ<u>bought</u> a snack at the store across the street. His friends ⓓ<u>were playing</u> soccer on the field after school. He ⓔ<u>didn't come</u> home late because he had to help his mother.",
+    "stem": "다음 지문의 밑줄 친 ⓐ~ⓔ 중, 한국어 문법 설명이 옳지 않은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:39:54.704Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:41:45.883Z",
+      "text": "기준 문항에 비해 지문이 너무 짧음\n선택지 순서를 알파벳 순서와 맞출 필요가 있음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:25:50.448Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:25:41.961Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:25:50.448Z",
+      "what": "확인 완료"
+    }
+  }
+}

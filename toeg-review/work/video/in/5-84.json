@@ -1,0 +1,86 @@
+{
+ "key": "5-84",
+ "grade": 5,
+ "chapter": "CH 9 전치사",
+ "items": {
+  "A": {
+   "stem": "다음 빈칸에 들어갈 말을 고르시오.",
+   "passage": "A: What year were you born in?\nB: _______________________",
+   "c": [
+    "I was born in summer.",
+    "I was born in December.",
+    "I was born in 2016.",
+    "I was born on Tuesday.",
+    "I was born in Ulsan."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: What year에는 연도로, What month에는 달로, What day에는 요일로, What time에는 시각으로 답한다. 연도·달·계절은 in, 요일은 on, 시각은 at과 쓴다.\n풀이 순서: ① 질문이 묻는 정보를 본다: What year(연도). → ② 보기는 문장의 앞부분이 같고 뒤의 정보만 다르다. 그 정보의 종류를 하나씩 가른다. → ③ 연도는 2016뿐이다. 정답은 ③.\n문장별 판정:\n정답 판단: 연도(2016)로 답했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] summer는 계절이라 연도를 묻는 말의 답이 아니므로 오답이다.\n② [오답] December는 달이므로 오답이다.\n③ [정답] 연도(2016)로 답했으므로 정답이다.\n④ [오답] Tuesday는 요일이므로 오답이다.\n⑤ [오답] Ulsan은 장소이므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 빈칸에 들어갈 말을 고르시오.",
+   "passage": "A: What month were you born in?\nB: _______________________",
+   "c": [
+    "I was born in October.",
+    "I was born near the station.",
+    "I was born at ten o'clock.",
+    "I was born in 2018.",
+    "I was born on Thursday."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: What year에는 연도로, What month에는 달로, What day에는 요일로, What time에는 시각으로 답한다. 연도·달·계절은 in, 요일은 on, 시각은 at과 쓴다.\n풀이 순서: ① 질문이 묻는 정보를 본다: What month(달). → ② 보기는 문장의 앞부분이 같고 뒤의 정보만 다르다. 그 정보의 종류를 하나씩 가른다. → ③ 달은 October뿐이다. 정답은 ①.\n문장별 판정:\n정답 판단: in October는 태어난 월이 10월이라는 직접적인 대답이며 월 앞의 in도 옳다. 따라서 정답은 ①이다.\n선택지 분석:\n① [정답] in October는 태어난 월이 10월이라는 직접적인 대답이며 월 앞의 in도 옳다.\n② [오답] 태어난 장소를 답한 문장이다. 질문은 태어난 월을 요구하므로 맞지 않는다.\n③ [오답] 태어난 시각을 답한 문장이다. 문법적으로 옳지만 질문은 태어난 월을 요구한다.\n④ [오답] 태어난 연도가 2018년이라는 정상 문장이다. 그러나 질문은 태어난 월을 요구하므로 직접적인 답이 아니다.\n⑤ [오답] 태어난 요일을 답한 문장이다. 문법적으로 옳지만 질문은 태어난 월을 요구한다."
+  },
+  "C": {
+   "stem": "다음 빈칸에 들어갈 말을 고르시오.",
+   "passage": "A: What season were you born in?\nB: _______________________",
+   "c": [
+    "I was born in April.",
+    "I was born at night.",
+    "I was born on Monday.",
+    "I was born in spring.",
+    "I was born in Seoul."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 질문의 의문사가 묻는 정보에 맞춰 답한다. What year는 연도, What month는 달, What season은 계절, What day는 요일, What time은 시각, Where는 장소를 묻는다.\n풀이 순서: ① 질문이 묻는 정보를 본다: What season(계절). → ② 보기는 문장의 앞부분이 같고 뒤의 정보만 다르다. 그 정보의 종류를 하나씩 가른다. → ③ 계절은 spring뿐이다. 정답은 ④.\n문장별 판정:\n정답 판단: 계절을 묻는 질문에 계절로 알맞게 답했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 달을 답해 계절을 묻는 질문에 맞지 않으므로 오답이다.\n② [오답] 하루 중 때를 답해 계절을 묻는 질문에 맞지 않으므로 오답이다.\n③ [오답] 요일을 답해 계절을 묻는 질문에 맞지 않으므로 오답이다.\n④ [정답] 계절을 묻는 질문에 계절로 알맞게 답했으므로 정답이다.\n⑤ [오답] 장소를 답해 계절을 묻는 질문에 맞지 않으므로 오답이다."
+  },
+  "D": {
+   "stem": "다음 빈칸에 들어갈 말을 고르시오.",
+   "passage": "A: What day do you have English class?\nB: _______________________",
+   "c": [
+    "I have English in the morning.",
+    "I have English at 10 o'clock.",
+    "I have English on Monday.",
+    "I have English in Room 3.",
+    "I have English in March."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 질문의 의문사가 묻는 정보에 맞춰 답한다. What year는 연도, What month는 달, What season은 계절, What day는 요일, What time은 시각, Where는 장소를 묻는다.\n풀이 순서: ① 질문이 묻는 정보를 본다: What day(요일). → ② 보기는 문장의 앞부분이 같고 뒤의 정보만 다르다. 그 정보의 종류를 하나씩 가른다. → ③ 요일은 Monday뿐이다. 정답은 ③.\n문장별 판정:\n정답 판단: 요일을 묻는 질문에 요일로 알맞게 답했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 때(오전)를 답해 요일을 묻는 질문에 맞지 않으므로 오답이다.\n② [오답] 시각을 답해 요일을 묻는 질문에 맞지 않으므로 오답이다.\n③ [정답] 요일을 묻는 질문에 요일로 알맞게 답했으므로 정답이다.\n④ [오답] 장소를 답해 요일을 묻는 질문에 맞지 않으므로 오답이다.\n⑤ [오답] 달을 답해 요일을 묻는 질문에 맞지 않으므로 오답이다."
+  },
+  "E": {
+   "stem": "다음 빈칸에 들어갈 말을 고르시오.",
+   "passage": "A: What time does school start?\nB: _______________________",
+   "c": [
+    "It starts on Monday.",
+    "It starts in March.",
+    "It starts at the main gate.",
+    "It starts in 2025.",
+    "It starts at 9 o'clock."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 질문의 의문사가 묻는 정보에 맞춰 답한다. What year는 연도, What month는 달, What season은 계절, What day는 요일, What time은 시각, Where는 장소를 묻는다.\n풀이 순서: ① 질문이 묻는 정보를 본다: What time(시각). → ② 보기는 문장의 앞부분이 같고 뒤의 정보만 다르다. 그 정보의 종류를 하나씩 가른다. → ③ 시각은 9 o'clock뿐이다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 시각을 묻는 질문에 시각으로 알맞게 답했으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 요일을 답해 시각을 묻는 질문에 맞지 않으므로 오답이다.\n② [오답] 달을 답해 시각을 묻는 질문에 맞지 않으므로 오답이다.\n③ [오답] 장소를 답해 시각을 묻는 질문에 맞지 않으므로 오답이다.\n④ [오답] 연도를 답해 시각을 묻는 질문에 맞지 않으므로 오답이다.\n⑤ [정답] 시각을 묻는 질문에 시각으로 알맞게 답했으므로 정답이다."
+  },
+  "F": {
+   "stem": "다음 빈칸에 들어갈 말을 고르시오.",
+   "passage": "A: Where do you live?\nB: _______________________",
+   "c": [
+    "I live with my parents.",
+    "I live in Ulsan.",
+    "I moved here in 2019.",
+    "I live a happy life.",
+    "I go home at five."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 질문의 의문사가 묻는 정보에 맞춰 답한다. What year는 연도, What month는 달, What season은 계절, What day는 요일, What time은 시각, Where는 장소를 묻는다.\n풀이 순서: ① 질문이 묻는 정보를 본다: Where(장소). → ② 보기는 문장의 앞부분이 같고 뒤의 정보만 다르다. 그 정보의 종류를 하나씩 가른다. → ③ 사는 곳을 말한 것은 in Ulsan뿐이다. 정답은 ②.\n문장별 판정:\n정답 판단: 장소를 묻는 질문에 사는 곳으로 알맞게 답했으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 함께 사는 사람을 답해 장소를 묻는 질문에 맞지 않으므로 오답이다.\n② [정답] 장소를 묻는 질문에 사는 곳으로 알맞게 답했으므로 정답이다.\n③ [오답] 이사 온 해를 답해 장소를 묻는 질문에 맞지 않으므로 오답이다.\n④ [오답] 사는 모습을 답해 장소를 묻는 질문에 맞지 않으므로 오답이다.\n⑤ [오답] 집에 가는 시각을 답해 장소를 묻는 질문에 맞지 않으므로 오답이다."
+  }
+ },
+ "prior_review": {}
+}

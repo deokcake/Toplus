@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:24:13.203Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "are not",
+      "1": "is not",
+      "2": "am not",
+      "3": "does not",
+      "4": "do not"
+    },
+    "expl": "핵심 규칙: 능력의 can't는 주어에 맞는 am/is/are not able to로 바꿀 수 있다. do/does not은 be동사 자리에 쓸 수 없다.\n풀이 순서: ① can't를 be not able to로 바꾼다. 빈칸 두 개는 be동사 + not이다. do not/does not을 지운다. → ② 주어를 본다: We → are. → ③ 정답은 are not.\n문장별 판정:\n정답 판단: 주어 We에 맞는 are not이므로 정답은 ①이다.\n선택지 분석:\n① [정답] 주어 We에 맞는 are not이므로 정답이다.\n② [오답] is not은 3인칭 단수 주어에 쓰므로 오답이다.\n③ [오답] am not은 주어 I에만 쓰므로 오답이다.\n④ [오답] do/does not은 be동사 자리에 쓸 수 없으므로 오답이다.\n⑤ [오답] do/does not은 be동사 자리에 쓸 수 없으므로 오답이다.",
+    "passage": "We can't help.\n= We ________ ________ able to help.",
+    "stem": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:24:10.651Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:24:13.203Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:24:13.203Z",
+      "what": "확인 완료"
+    }
+  }
+}

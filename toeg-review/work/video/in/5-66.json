@@ -1,0 +1,86 @@
+{
+ "key": "5-66",
+ "grade": 5,
+ "chapter": "CH 7 숫자 표현과 비인칭주어 it",
+ "items": {
+  "A": {
+   "stem": "다음 빈칸에 '8시 15분'이라는 의미가 되도록 알맞은 단어를 고르세요.",
+   "passage": "It's a ________ after eight.",
+   "c": [
+    "fifty",
+    "half",
+    "quarter",
+    "past",
+    "clock"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 15분은 a quarter, 30분은 half로 나타낸다. after/past는 ‘~ 지난’, to는 ‘~ 전’이다.\n풀이 순서: ① 우리말 시각을 본다: 8시 15분. → ② 주어진 틀에 맞춰 본다: 8시에서 15분 지남 → a quarter after eight. → ③ 정답은 quarter.\n문장별 판정:\n정답 판단: a quarter after eight이 8시 15분이므로 정답은 ③이다.\n선택지 분석:\n① [오답] fifty는 50이라 15분이 되지 않으므로 오답이다.\n② [오답] half는 30분이고 앞에 a를 쓰지 않으므로 오답이다.\n③ [정답] a quarter after eight이 8시 15분이므로 정답이다.\n④ [오답] past는 after와 같은 뜻의 말이라 a 뒤에 올 수 없으므로 오답이다.\n⑤ [오답] clock은 a ~ after eight 자리에 올 수 없으므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 빈칸에 '9시 30분'이라는 의미가 되도록 알맞은 단어를 고르세요.",
+   "passage": "It's ________ past nine.",
+   "c": [
+    "a quarter",
+    "thirty to",
+    "ten",
+    "quarter",
+    "half"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 30분은 half past + 그 시각, 15분은 a quarter after(past) + 그 시각, 45분·50분처럼 다음 시각이 가까우면 a quarter/ten to + 다음 시각으로 나타낸다.\n풀이 순서: ① 우리말 시각을 본다: 9시 30분. → ② 주어진 틀에 맞춰 본다: 9시에서 30분 지남 → half past nine. → ③ 정답은 half.\n문장별 판정:\n정답 판단: half past nine은 9시 30분이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] a quarter past nine은 9시 15분이므로 오답이다.\n② [오답] thirty to nine은 8시 30분이므로 오답이다.\n③ [오답] ten past nine은 9시 10분이므로 오답이다.\n④ [오답] quarter는 15분이고 앞에 a가 필요하므로 오답이다.\n⑤ [정답] half past nine은 9시 30분이므로 정답이다."
+  },
+  "C": {
+   "stem": "다음 빈칸에 '4시 30분'이라는 의미가 되도록 알맞은 단어를 고르세요.",
+   "passage": "It's half ________ four.",
+   "c": [
+    "at",
+    "past",
+    "to",
+    "quarter",
+    "o'clock"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 30분은 half past + 그 시각, 15분은 a quarter after(past) + 그 시각, 45분·50분처럼 다음 시각이 가까우면 a quarter/ten to + 다음 시각으로 나타낸다.\n풀이 순서: ① 우리말 시각을 본다: 4시 30분. → ② 주어진 틀에 맞춰 본다: 4시에서 30분 지남 → half past four. → ③ 정답은 past.\n문장별 판정:\n정답 판단: half past four는 4시 30분이므로 정답은 ②이다.\n선택지 분석:\n① [오답] at은 시각 앞에 쓰는 전치사라 half 뒤에 올 수 없으므로 오답이다.\n② [정답] half past four는 4시 30분이므로 정답이다.\n③ [오답] half to four라는 표현은 쓰지 않으므로 오답이다.\n④ [오답] half 뒤에 quarter를 쓸 수 없으므로 오답이다.\n⑤ [오답] o'clock은 정각에만 쓰므로 오답이다."
+  },
+  "D": {
+   "stem": "다음 빈칸에 '9시 45분'이라는 의미가 되도록 알맞은 단어를 고르세요.",
+   "passage": "It's a quarter ________ ten.",
+   "c": [
+    "five",
+    "quarter",
+    "after",
+    "to",
+    "half"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 30분은 half past + 그 시각, 15분은 a quarter after(past) + 그 시각, 45분·50분처럼 다음 시각이 가까우면 a quarter/ten to + 다음 시각으로 나타낸다.\n풀이 순서: ① 우리말 시각을 본다: 9시 45분. → ② 주어진 틀에 맞춰 본다: 10시 15분 전 → a quarter to ten. → ③ 정답은 to.\n문장별 판정:\n정답 판단: a quarter to ten은 10시 15분 전인 9시 45분이므로 정답은 ④이다.\n선택지 분석:\n① [오답] a quarter five라는 표현은 없으므로 오답이다.\n② [오답] a quarter 뒤에 quarter를 또 쓸 수 없으므로 오답이다.\n③ [오답] a quarter after ten은 10시 15분이므로 오답이다.\n④ [정답] a quarter to ten은 10시 15분 전인 9시 45분이므로 정답이다.\n⑤ [오답] a quarter 뒤에 half를 쓸 수 없으므로 오답이다."
+  },
+  "E": {
+   "stem": "다음 빈칸에 '7시 15분'이라는 의미가 되도록 알맞은 단어를 고르세요.",
+   "passage": "It's a quarter ________ seven.",
+   "c": [
+    "after",
+    "to",
+    "half",
+    "quarter",
+    "five"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 30분은 half past + 그 시각, 15분은 a quarter after(past) + 그 시각, 45분·50분처럼 다음 시각이 가까우면 a quarter/ten to + 다음 시각으로 나타낸다.\n풀이 순서: ① 우리말 시각을 본다: 7시 15분. → ② 주어진 틀에 맞춰 본다: 7시에서 15분 지남 → a quarter after seven. → ③ 정답은 after.\n문장별 판정:\n정답 판단: a quarter after seven은 7시 15분이므로 정답은 ①이다.\n선택지 분석:\n① [정답] a quarter after seven은 7시 15분이므로 정답이다.\n② [오답] a quarter to seven은 6시 45분이므로 오답이다.\n③ [오답] a quarter 뒤에 half를 쓸 수 없으므로 오답이다.\n④ [오답] a quarter 뒤에 quarter를 또 쓸 수 없으므로 오답이다.\n⑤ [오답] a quarter five라는 표현은 없으므로 오답이다."
+  },
+  "F": {
+   "stem": "다음 빈칸에 '2시 50분'이라는 의미가 되도록 알맞은 단어를 고르세요.",
+   "passage": "It's ten ________ three.",
+   "c": [
+    "past",
+    "after",
+    "to",
+    "half",
+    "quarter"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 30분은 half past + 그 시각, 15분은 a quarter after(past) + 그 시각, 45분·50분처럼 다음 시각이 가까우면 a quarter/ten to + 다음 시각으로 나타낸다.\n풀이 순서: ① 우리말 시각을 본다: 2시 50분. → ② 주어진 틀에 맞춰 본다: 3시 10분 전 → ten to three. → ③ 정답은 to.\n문장별 판정:\n정답 판단: ten to three는 3시 10분 전인 2시 50분이므로 정답은 ③이다.\n선택지 분석:\n① [오답] ten past three는 3시 10분이므로 오답이다.\n② [오답] ten after three는 3시 10분이므로 오답이다.\n③ [정답] ten to three는 3시 10분 전인 2시 50분이므로 정답이다.\n④ [오답] ten 뒤에 half를 쓸 수 없으므로 오답이다.\n⑤ [오답] ten 뒤에 quarter를 쓸 수 없으므로 오답이다."
+  }
+ },
+ "prior_review": {}
+}

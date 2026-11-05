@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-04T11:16:15.141Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Is he a student? - Yes, he are.",
+      "1": "Is Tom home? - No, he aren't.",
+      "2": "Are they friends? - No, they isn't.",
+      "3": "Am I late? - No, you isn't.",
+      "4": "Are you at home? - Yes, I am."
+    },
+    "expl": "핵심 규칙: be동사 의문문에는 Yes, 주어 + be동사. / No, 주어 + be동사 + not.으로 답한다. 대답의 주어는 질문의 주어를 대명사로 받고(you → I, I → you, Tom → he, the door → it), be동사도 그 주어에 맞춘다.\n풀이 순서: ① 질문이 주어에 맞는 be동사로 시작하는지 본다. → ② 대답의 주어(대명사)와 be동사가 맞는지 본다. → ③ 선택지 ①·②는 he에 are/aren't를, ③은 they에 isn't를, ④는 you에 isn't를 써서 틀렸다. 정답은 ⑤.\n문장별 판정:\n정답 판단: you에 대한 질문에 I am으로 바르게 답했으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 대답의 주어 he에는 is를 써야 하므로 오답이다.\n② [오답] 대답의 주어 he에는 isn't를 써야 하므로 오답이다.\n③ [오답] 대답의 주어 they에는 aren't를 써야 하므로 오답이다.\n④ [오답] 대답의 주어 you에는 aren't를 써야 하므로 오답이다.\n⑤ [정답] you에 대한 질문에 I am으로 바르게 답했으므로 정답이다.",
+    "passage": null,
+    "stem": "다음 중 질문과 대답이 바르게 연결된 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-04T11:16:11.560Z"
+  },
+  "tab": "012jzi2r",
+  "updatedAt": "2026-10-04T11:16:15.141Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-04T11:16:15.141Z",
+      "what": "확인 완료"
+    }
+  }
+}

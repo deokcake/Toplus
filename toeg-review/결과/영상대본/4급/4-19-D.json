@@ -1,0 +1,173 @@
+{
+ "key": "4-19",
+ "type": "D",
+ "grade": 4,
+ "chapter": "CH 2 대명사",
+ "title": "pants를 받는 대명사 them",
+ "total_sec": 132,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "4급 · CH 2 대명사 · 19번 · D 유형\n\n이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 2 대명사 · 19번 · D 유형",
+     "이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 2, 19번 D 유형. 이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요.",
+   "caption": "pants를 받는 대명사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 19,
+   "screen": {
+    "text": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?\n\nI ①<u>bought</u> ②<u>some</u> pants ③<u>yesterday</u>. I ④<u>really</u> like ⑤<u>it</u>.\n\n① bought\n② some\n③ yesterday\n④ really\n⑤ it",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?",
+     "I ①<u>bought</u> ②<u>some</u> pants ③<u>yesterday</u>. I ④<u>really</u> like ⑤<u>it</u>.",
+     "① bought",
+     "② some",
+     "③ yesterday",
+     "④ really",
+     "⑤ it"
+    ]
+   },
+   "narration": "다음 문장의 밑줄 친 부분 중 어법상 틀린 것을 고르세요. I bought some pants yesterday. I really like it. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n대명사는 가리키는 명사의 수에 맞춰요.\n단수인 물건 → it   복수 → 주어 자리 they, 목적어 자리 them\npants, scissors, glasses(안경): 두 부분이 한 벌인 물건 → 늘 복수형, 복수 취급\n예) My glasses are dirty. Please clean them. (내 안경이 더러워요. 그 안경을 닦아 주세요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "대명사는 가리키는 명사의 수에 맞춰요.",
+     "단수인 물건 → it   복수 → 주어 자리 they, 목적어 자리 them",
+     "pants, scissors, glasses(안경): 두 부분이 한 벌인 물건 → 늘 복수형, 복수 취급",
+     "예) My glasses are dirty. Please clean them. (내 안경이 더러워요. 그 안경을 닦아 주세요.)"
+    ]
+   },
+   "narration": "대명사는 가리키는 명사의 수에 맞춰요. 단수인 물건은 it으로 받고, 복수는 주어 자리에서 they, 목적어 자리에서 them으로 받아요. 바지 pants, 가위 scissors, 안경 glasses는 두 부분이 한 벌인 물건이라, 하나여도 늘 복수형으로 쓰고 복수 취급해요. 예를 들어 My glasses are dirty, 내 안경이 더러워요. Please clean them, 그 안경을 닦아 주세요.",
+   "caption": "두 부분이 한 벌 → 복수 취급"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 30,
+   "screen": {
+    "text": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?\n\nI ①<u>bought</u> ②<u>some</u> pants ③<u>yesterday</u>. I ④<u>really</u> like ⑤<u>it</u>.\n\n① bought\n② some\n③ yesterday\n④ really\n⑤ it",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "⑤<u>it</u>",
+       "pants"
+      ],
+      "strike": [],
+      "note": "밑줄 친 it이 가리키는 것 = 앞 문장의 pants(바지)"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "pants"
+      ],
+      "strike": [],
+      "note": "pants는 늘 복수형, 복수 취급 → it이 아니라 they, them으로 받는다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ it"
+      ],
+      "strike": [],
+      "note": "like 뒤 목적어 자리 → them: I really like them."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 밑줄 친 it이 가리키는 것을 앞 문장에서 찾으면, 내가 어제 산 바지 pants예요. 둘째, pants는 늘 복수형으로 쓰고 복수 취급하니, it이 아니라 they나 them으로 받아야 해요. 셋째, like 뒤의 목적어 자리니까 them을 써요. I really like them, 나는 그 바지가 정말 좋아요.",
+   "caption": "it → pants → them"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① bought  ✗  yesterday가 있으니 과거형 bought\n② some  ✗  복수형 pants 앞에 some을 쓸 수 있어요\n③ yesterday  ✗  과거형 bought와 어울리는 때 표현(어제)\n④ really  ✗  동사 like를 꾸미는 부사 really(정말)\n⑤ it  ✓  복수 취급하는 pants → them으로 고쳐요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① bought  ✗  yesterday가 있으니 과거형 bought",
+     "② some  ✗  복수형 pants 앞에 some을 쓸 수 있어요",
+     "③ yesterday  ✗  과거형 bought와 어울리는 때 표현(어제)",
+     "④ really  ✗  동사 like를 꾸미는 부사 really(정말)",
+     "⑤ it  ✓  복수 취급하는 pants → them으로 고쳐요"
+    ]
+   },
+   "narration": "정답은 5번 it이에요. pants는 복수 취급하니 them으로 고쳐야 해요. 2번 some은 복수형 pants 앞에 쓸 수 있어서 맞아요. 1번 bought는 yesterday가 있으니 과거형이 맞아요. 4번 really는 정말이라는 뜻으로 동사 like를 꾸며서 맞아요.",
+   "caption": "정답 ⑤ it → them"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ⑤ it\n\npants처럼 두 부분이 한 벌인 물건 → 복수 취급 → they, them",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ it",
+     "pants처럼 두 부분이 한 벌인 물건 → 복수 취급 → they, them"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, pants처럼 두 부분이 한 벌인 물건은 복수 취급해서, 목적어 자리에서는 them으로 받아요.",
+   "caption": "pants → they, them"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?",
+  "passage": "I ①<u>bought</u> ②<u>some</u> pants ③<u>yesterday</u>. I ④<u>really</u> like ⑤<u>it</u>.",
+  "c": [
+   "bought",
+   "some",
+   "yesterday",
+   "really",
+   "it"
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: glasses·gloves·pants·shoes처럼 짝을 이루는 물건과 police는 복수 취급해 they/them으로 받는다. news는 단수 취급해 this/it으로 받는다.\n풀이 순서: ① 뒤 문장의 주어와 동사를 맞춰 본다: They is는 수가 맞지 않는다. → ② 앞 문장에서 가리키는 명사를 찾아 어느 쪽이 틀렸는지 정한다: pants는 복수 취급하므로 They are가 되어야 한다. 틀린 것은 is다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: 복수 취급하는 pants는 them으로 받아야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] yesterday가 있어 과거형 bought가 맞으므로 오답이다.\n② [오답] 복수 취급하는 pants 앞에 some을 쓸 수 있으므로 오답이다.\n③ [오답] 과거의 때를 나타내는 말로 맞으므로 오답이다.\n④ [오답] 동사 like를 꾸미는 부사로 맞으므로 오답이다.\n⑤ [정답] 복수 취급하는 pants는 them으로 받아야 하므로 정답이다."
+ }
+}

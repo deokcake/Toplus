@@ -1,0 +1,36 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T07:42:26.055Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": 2,
+    "c": {
+      "0": "A, D, F",
+      "1": "A, B, C, E, F",
+      "2": "A, B, D",
+      "3": "A, B, F",
+      "4": "B, C, E"
+    },
+    "expl": "핵심 규칙: 주어의 실제 단수·복수, 격식 문어의 each/neither 규칙, 보고동사 say/tell/ask의 목적어와 간접의문절 어순을 각각 확인한다.\n풀이 순서: ① 문장마다 주어와 동사의 수 일치, 전달동사(say, tell, ask)의 쓰임과 시제를 확인한다. → ② D만 틀렸다. Each of + 복수명사는 단수 동사 has를 쓴다. 나머지 다섯은 옳다. → ③ 옳은 문장을 빠짐없이 모은 A, B, C, E, F를 고른다.\n문장별 판정:\nA) 옳음: the young은 젊은 사람들을 뜻하는 복수 표현이므로 adapt가 맞다.\nB) 옳음: 말한 시점보다 앞선 분실을 had lost로 표현했다.\nC) 옳음: asked 뒤 간접의문절에 when + 주어 + would start를 썼다.\nD) 틀림: each of의 중심어 each에 맞추어 격식 문어에서는 단수 동사 has를 쓴다. 교정: Each of the students has a locker.\nE) 옳음: told 뒤에 사람 목적어 me를 놓고 당시의 상태를 was tired로 전달했다.\nF) 옳음: police는 복수로 취급하므로 are가 맞다.\n정답 판단: 옳은 문장은 A, B, C, E, F이다.\n선택지 분석:\n① [오답] 옳은 문장은 A, B, C, E, F이다. 틀린 문장 D를 포함했다. 옳은 문장 B, C, E를 빠뜨렸다.\n② [정답] 옳은 문장은 A, B, C, E, F이다. 이 보기는 해당 문장들을 모두 포함한다.\n③ [오답] 옳은 문장은 A, B, C, E, F이다. 틀린 문장 D를 포함했다. 옳은 문장 C, E, F를 빠뜨렸다.\n④ [오답] 옳은 문장은 A, B, C, E, F이다. 옳은 문장 C, E를 빠뜨렸다.\n⑤ [오답] 옳은 문장은 A, B, C, E, F이다. 옳은 문장 A, F를 빠뜨렸다.",
+    "passage": "A) The young often adapt quickly to new technology and social change.\nB) Jane said she had lost the key to her apartment on the way home.\nC) Tom asked when the meeting would start the next morning.\nD) Each of the students have a locker in the hallway near the gym.\nE) Mina told me that she was tired after the long day at school.\nF) The police are here to investigate the accident on the main road.",
+    "stem": "다음 중 어법상 옳은 것을 모두 고르시오."
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T05:20:50.334Z",
+      "text": "기준 문항에 비해 문장이 짧음."
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T07:42:26.055Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T07:42:25.436Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T07:42:26.055Z",
+      "what": "확인 완료"
+    }
+  }
+}

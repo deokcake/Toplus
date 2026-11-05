@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T05:26:01.742Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "or",
+      "1": "and",
+      "2": "nor",
+      "3": "but also",
+      "4": "as well as"
+    },
+    "expl": "핵심 규칙: both A and B = not only A but also B(A뿐 아니라 B도) = B as well as A이다. neither A nor B(A도 B도 아닌)는 not ~ A or B로, either A or B는 ‘A나 B 중 하나’로 나타낸다.\n풀이 순서: ① 첫 문장의 표현을 확인한다: both A and B(A와 B 둘 다). → ② 둘째 문장의 틀에 맞는 같은 뜻의 표현을 찾는다: both를 빼면 A and B. → ③ 정답은 nor.\n문장별 판정:\n정답 판단: neither A nor B(A도 B도 아닌)로 두 부정문을 바르게 합쳤으므로 정답은 ③이다.\n선택지 분석:\n① [오답] neither는 or가 아니라 nor와 짝을 이루므로 오답이다.\n② [오답] neither는 and와 짝을 이루지 않으므로 오답이다.\n③ [정답] neither A nor B(A도 B도 아닌)로 두 부정문을 바르게 합쳤으므로 정답이다.\n④ [오답] but also는 not only와 짝을 이루므로 오답이다.\n⑤ [오답] as well as는 ‘~뿐 아니라’라 부정의 뜻과 맞지 않으므로 오답이다.",
+    "passage": "I don't like cats, and I don't like dogs.\n= I like neither cats (<u>           </u>) dogs.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:25:53.491Z"
+  },
+  "tab": "fhh9u0lo",
+  "updatedAt": "2026-10-23T05:26:01.742Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:26:01.742Z",
+      "what": "확인 완료"
+    }
+  }
+}

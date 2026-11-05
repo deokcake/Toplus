@@ -1,0 +1,33 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T17:07:26.681Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "are",
+      "1": "were",
+      "2": "am",
+      "3": "being",
+      "4": "is"
+    },
+    "expl": "핵심 규칙: A as well as B가 주어이면 동사는 A에, not only A but also B는 B에 수를 맞춘다.\n풀이 순서: ① 주어의 연결어를 확인한다: A as well as B. → ② 동사는 A(The teacher)에 맞춘다. 단수다. 가까운 the students에 속지 않는다. → ③ 정답은 is.\n문장별 판정:\n정답 판단: is: A as well as B는 A(The teacher, 단수)에 수를 맞추므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] are: A as well as B는 A(The teacher, 단수)에 맞추고, 맞지 않으므로 오답이다.\n② [오답] were: A(The teacher)가 단수라 복수형은 맞지 않으므로 오답이다.\n③ [오답] am: 주어가 I가 아니므로 오답이다.\n④ [오답] being: -ing만으로는 문장의 동사가 될 수 없으므로 오답이다.\n⑤ [정답] is: A as well as B는 A(The teacher, 단수)에 수를 맞추므로 정답이다.",
+    "passage": "The teacher as well as the students ________ excited about the field trip.",
+    "stem": "다음 문장의 빈칸에 들어갈 동사의 형태가 가장 적절한 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T17:06:50.212Z"
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:12:18.963Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T04:12:18.963Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:12:18.963Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

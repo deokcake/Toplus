@@ -1,0 +1,464 @@
+{
+ "A": {
+  "title": "Have you ever 질문의 짧은 대답",
+  "intro": "이 문제는 Have you ever로 경험을 묻는 질문에 알맞은 짧은 대답을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 알맞은 것을 고르세요. Have you ever tried skydiving? 빈칸, It's on my bucket list though. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Have you ever + 과거분사 ~? → 지금까지 해 본 적이 있는지(경험) 묻는 현재완료 의문문",
+    "짧은 대답은 질문의 have를 받아요 → Yes, I have. / No, I haven't.",
+    "이 질문에는 did, didn't나 am으로 답하지 않아요",
+    "Yes·No는 뒤에 이어지는 말과 뜻이 맞아야 해요",
+    "예) A: Have you ever seen a koala?  B: Yes, I have. (코알라를 본 적 있니? 응, 있어.)"
+   ],
+   "narration": "Have you ever 뒤에 과거분사가 오는 질문은 지금까지 해 본 적이 있는지 묻는 현재완료 의문문이에요. 짧은 대답은 질문의 have를 받아 Yes, I have 또는 No, I haven't로 하고, did나 am으로 답하지 않아요. Yes와 No는 뒤의 말과 뜻이 맞아야 해요. Have you ever seen a koala? 코알라를 본 적 있니? Yes, I have. 응, 있어."
+  },
+  "steps": [
+   {
+    "note": "질문 Have you ever ~? → 대답도 have / haven't. did·didn't로 답한 보기를 지운다.",
+    "highlight": [
+     "Have you ever tried skydiving?"
+    ],
+    "strike": [
+     "① Yes, I did.",
+     "② No, I didn't.",
+     "⑤ Of course, I did."
+    ],
+    "narration": "첫째, Have you ever tried skydiving은 스카이다이빙을 해 본 적 있냐는 경험 질문이라 대답은 have나 haven't로 해요. 그래서 did나 didn't로 답한 1번, 2번, 5번을 지워요."
+   },
+   {
+    "note": "빈칸 뒤: 그래도 해 보고 싶은 일 목록에 있다 → 아직 안 해 봤다",
+    "highlight": [
+     "It's on my bucket list though."
+    ],
+    "strike": [],
+    "narration": "둘째, 빈칸 뒤 It's on my bucket list though는 그래도 해 보고 싶은 일 목록에 있다는 말이라, 아직 안 해 봤다는 뜻이에요."
+   },
+   {
+    "note": "해 본 적 없다 → No, I haven't.",
+    "highlight": [
+     "④ No, I haven't."
+    ],
+    "strike": [
+     "③ Yes, I have."
+    ],
+    "narration": "셋째, 그러니 Yes, I have가 아니라 No, I haven't가 알맞아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Yes, I did.  ✗  Have로 물었는데 did로 답했고, 해 봤다는 뜻도 뒤의 말과 반대예요",
+    "② No, I didn't.  ✗  안 해 봤다는 뜻은 맞지만 didn't가 아니라 haven't로 답해요",
+    "③ Yes, I have.  ✗  형태는 맞지만 아직 안 해 봤으니 Yes가 틀려요",
+    "④ No, I haven't.  ✓  haven't로 답하고, 해 본 적 없다는 뜻도 맞아요",
+    "⑤ Of course, I did.  ✗  Of course를 붙여도 did로 답한 꼴이고, 뜻도 반대예요"
+   ],
+   "narration": "정답은 4번 No, I haven't예요. haven't로 답했고, 안 해 봤다는 뜻도 맞아요. 2번 No, I didn't는 안 해 봤다는 뜻은 맞지만, Have로 물었으니 didn't가 아니라 haven't로 답해야 해요. 3번 Yes, I have는 형태는 맞지만, 해 봤다는 뜻이라 버킷 리스트에 있다는 말과 맞지 않아요."
+  },
+  "summary": {
+   "card": "Have you ever ~? → Yes, I have. / No, I haven't. (뒤의 말과 뜻 맞추기)",
+   "narration": "정답은 4번이에요. 기억할 것, Have you ever 질문에는 have나 haven't로 답하고, Yes와 No는 뒤의 말과 뜻을 맞춰요."
+  },
+  "captions": [
+   "경험을 묻는 질문의 대답",
+   "먼저 풀어 보세요",
+   "Have you ever → have로 답해요",
+   "have로 답하기 → 뒤의 말과 뜻 맞추기",
+   "정답 ④ No, I haven't.",
+   "have·haven't로, 뜻은 뒤의 말에 맞춰"
+  ],
+  "sec": [
+   10,
+   16,
+   26,
+   32,
+   24,
+   10
+  ]
+ },
+ "B": {
+  "title": "Have you ever 질문의 짧은 대답",
+  "intro": "이 문제는 Have you ever로 경험을 묻는 질문에 알맞은 짧은 대답을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 알맞은 것을 고르세요. Have you ever volunteered at an animal shelter? 빈칸, I have never done that, but I hope to try it during vacation. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Have you ever + 과거분사 ~? → 지금까지 해 본 적이 있는지(경험) 묻는 현재완료 의문문",
+    "짧은 대답은 질문의 have를 받아요 → Yes, I have. / No, I haven't.",
+    "이 질문에는 did, didn't나 am으로 답하지 않아요",
+    "Yes·No는 뒤에 이어지는 말과 뜻이 맞아야 해요",
+    "예) A: Have you ever seen a koala?  B: Yes, I have. (코알라를 본 적 있니? 응, 있어.)"
+   ],
+   "narration": "Have you ever 뒤에 과거분사가 오는 질문은 지금까지 해 본 적이 있는지 묻는 현재완료 의문문이에요. 짧은 대답은 질문의 have를 받아 Yes, I have 또는 No, I haven't로 하고, did나 am으로 답하지 않아요. Yes와 No는 뒤의 말과 뜻이 맞아야 해요. Have you ever seen a koala? 코알라를 본 적 있니? Yes, I have. 응, 있어."
+  },
+  "steps": [
+   {
+    "note": "질문 Have you ever ~? → 대답도 have / haven't. did·didn't·am으로 답한 보기를 지운다.",
+    "highlight": [
+     "Have you ever volunteered at an animal shelter?"
+    ],
+    "strike": [
+     "② No, I didn't.",
+     "③ I am.",
+     "⑤ Yes, I did."
+    ],
+    "narration": "첫째, Have you ever volunteered at an animal shelter는 동물 보호소에서 봉사해 본 적 있냐는 경험 질문이라 대답은 have나 haven't로 해요. 그래서 did나 didn't, am으로 답한 2번, 3번, 5번을 지워요."
+   },
+   {
+    "note": "빈칸 뒤: 한 번도 해 본 적이 없다",
+    "highlight": [
+     "I have never done that"
+    ],
+    "strike": [],
+    "narration": "둘째, 빈칸 뒤 I have never done that은 그 일을 한 번도 해 본 적이 없다는 뜻이에요."
+   },
+   {
+    "note": "해 본 적 없다 → No, I haven't.",
+    "highlight": [
+     "④ No, I haven't."
+    ],
+    "strike": [
+     "① Yes, I have."
+    ],
+    "narration": "셋째, 그러니 Yes, I have가 아니라 No, I haven't가 알맞아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Yes, I have.  ✗  해 봤다는 뜻이라 I have never done that과 반대예요",
+    "② No, I didn't.  ✗  안 해 봤다는 뜻은 맞지만 Have로 물었으니 haven't로 답해요",
+    "③ I am.  ✗  Are you ~?처럼 be동사로 물을 때 하는 대답이에요",
+    "④ No, I haven't.  ✓  haven't로 답하고, 해 본 적 없다는 뜻도 맞아요",
+    "⑤ Yes, I did.  ✗  did로 답했고, 해 봤다는 뜻도 반대예요"
+   ],
+   "narration": "정답은 4번 No, I haven't예요. haven't로 답했고, 안 해 봤다는 뜻도 맞아요. 2번 No, I didn't는 안 해 봤다는 뜻은 맞지만, Have로 물었으니 haven't로 답해야 해요. 1번 Yes, I have는 형태는 맞지만, 해 봤다는 뜻이라 I have never done that과 반대예요."
+  },
+  "summary": {
+   "card": "Have you ever ~? → Yes, I have. / No, I haven't. (뒤의 말과 뜻 맞추기)",
+   "narration": "정답은 4번이에요. 기억할 것, Have you ever 질문에는 have나 haven't로 답하고, Yes와 No는 뒤의 말과 뜻을 맞춰요."
+  },
+  "captions": [
+   "경험을 묻는 질문의 대답",
+   "먼저 풀어 보세요",
+   "Have you ever → have로 답해요",
+   "have로 답하기 → 뒤의 말과 뜻 맞추기",
+   "정답 ④ No, I haven't.",
+   "have·haven't로, 뜻은 뒤의 말에 맞춰"
+  ],
+  "sec": [
+   10,
+   16,
+   26,
+   32,
+   24,
+   10
+  ]
+ },
+ "C": {
+  "title": "Have you ever 질문의 짧은 대답",
+  "intro": "이 문제는 Have you ever로 경험을 묻는 질문에 알맞은 짧은 대답을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 알맞은 것을 고르세요. Have you ever traveled abroad alone? 빈칸, I went to Singapore by myself last year. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Have you ever + 과거분사 ~? → 지금까지 해 본 적이 있는지(경험) 묻는 현재완료 의문문",
+    "짧은 대답은 질문의 have를 받아요 → Yes, I have. / No, I haven't.",
+    "이 질문에는 did, didn't나 am으로 답하지 않아요",
+    "Yes·No는 뒤에 이어지는 말과 뜻이 맞아야 해요",
+    "예) A: Have you ever seen a koala?  B: Yes, I have. (코알라를 본 적 있니? 응, 있어.)"
+   ],
+   "narration": "Have you ever 뒤에 과거분사가 오는 질문은 지금까지 해 본 적이 있는지 묻는 현재완료 의문문이에요. 짧은 대답은 질문의 have를 받아 Yes, I have 또는 No, I haven't로 하고, did나 am으로 답하지 않아요. Yes와 No는 뒤의 말과 뜻이 맞아야 해요. Have you ever seen a koala? 코알라를 본 적 있니? Yes, I have. 응, 있어."
+  },
+  "steps": [
+   {
+    "note": "질문 Have you ever ~? → 대답도 have / haven't. did·didn't·am으로 답한 보기를 지운다.",
+    "highlight": [
+     "Have you ever traveled abroad alone?"
+    ],
+    "strike": [
+     "② No, I didn't.",
+     "③ I am.",
+     "④ Yes, I did."
+    ],
+    "narration": "첫째, Have you ever traveled abroad alone은 혼자 해외여행을 해 본 적 있냐는 경험 질문이라 대답은 have나 haven't로 해요. 그래서 did나 didn't, am으로 답한 2번, 3번, 4번을 지워요."
+   },
+   {
+    "note": "빈칸 뒤: 작년에 혼자 싱가포르에 갔다 → 해 봤다",
+    "highlight": [
+     "I went to Singapore by myself last year."
+    ],
+    "strike": [],
+    "narration": "둘째, 빈칸 뒤 I went to Singapore by myself last year는 작년에 혼자 싱가포르에 갔다는 말이라, 해 봤다는 뜻이에요."
+   },
+   {
+    "note": "해 봤다 → Yes, I have.",
+    "highlight": [
+     "① Yes, I have."
+    ],
+    "strike": [
+     "⑤ No, I haven't."
+    ],
+    "narration": "셋째, 그러니 No, I haven't가 아니라 Yes, I have가 알맞아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Yes, I have.  ✓  have로 답하고, 해 봤다는 뜻도 맞아요",
+    "② No, I didn't.  ✗  didn't로 답했고, 안 해 봤다는 뜻도 반대예요",
+    "③ I am.  ✗  Are you ~?처럼 be동사로 물을 때 하는 대답이에요",
+    "④ Yes, I did.  ✗  해 봤다는 뜻은 맞지만 Have로 물었으니 have로 답해요",
+    "⑤ No, I haven't.  ✗  형태는 맞지만 싱가포르에 다녀왔으니 No가 틀려요"
+   ],
+   "narration": "정답은 1번 Yes, I have예요. 4번 Yes, I did를 고르기 쉬운데, 뒤 문장은 last year라는 지난 때를 말해서 과거형 went를 쓴 거예요. 짧은 대답은 질문의 Have를 받아 have로 해요. 5번 No, I haven't는 형태는 맞지만, 안 해 봤다는 뜻이라 싱가포르에 다녀왔다는 말과 반대예요."
+  },
+  "summary": {
+   "card": "Have you ever ~? → Yes, I have. / No, I haven't. (뒤의 말과 뜻 맞추기)",
+   "narration": "정답은 1번이에요. 기억할 것, Have you ever 질문에는 have나 haven't로 답하고, Yes와 No는 뒤의 말과 뜻을 맞춰요."
+  },
+  "captions": [
+   "경험을 묻는 질문의 대답",
+   "먼저 풀어 보세요",
+   "Have you ever → have로 답해요",
+   "have로 답하기 → 뒤의 말과 뜻 맞추기",
+   "정답 ① Yes, I have.",
+   "have·haven't로, 뜻은 뒤의 말에 맞춰"
+  ],
+  "sec": [
+   10,
+   16,
+   26,
+   32,
+   24,
+   10
+  ]
+ },
+ "D": {
+  "title": "Have you ever 질문의 짧은 대답",
+  "intro": "이 문제는 Have you ever로 경험을 묻는 질문에 알맞은 짧은 대답을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 알맞은 것을 고르세요. Have you ever taken part in a debate contest? 빈칸, I competed in one last semester. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Have you ever + 과거분사 ~? → 지금까지 해 본 적이 있는지(경험) 묻는 현재완료 의문문",
+    "짧은 대답은 질문의 have를 받아요 → Yes, I have. / No, I haven't.",
+    "이 질문에는 did, didn't나 am으로 답하지 않아요",
+    "Yes·No는 뒤에 이어지는 말과 뜻이 맞아야 해요",
+    "예) A: Have you ever seen a koala?  B: Yes, I have. (코알라를 본 적 있니? 응, 있어.)"
+   ],
+   "narration": "Have you ever 뒤에 과거분사가 오는 질문은 지금까지 해 본 적이 있는지 묻는 현재완료 의문문이에요. 짧은 대답은 질문의 have를 받아 Yes, I have 또는 No, I haven't로 하고, did나 am으로 답하지 않아요. Yes와 No는 뒤의 말과 뜻이 맞아야 해요. Have you ever seen a koala? 코알라를 본 적 있니? Yes, I have. 응, 있어."
+  },
+  "steps": [
+   {
+    "note": "질문 Have you ever ~? → 대답도 have / haven't. did·didn't·am으로 답한 보기를 지운다.",
+    "highlight": [
+     "Have you ever taken part in a debate contest?"
+    ],
+    "strike": [
+     "① Yes, I did.",
+     "② No, I didn't.",
+     "⑤ I am."
+    ],
+    "narration": "첫째, Have you ever taken part in a debate contest는 토론 대회에 참가해 본 적 있냐는 경험 질문이라 대답은 have나 haven't로 해요. 그래서 did나 didn't, am으로 답한 1번, 2번, 5번을 지워요."
+   },
+   {
+    "note": "빈칸 뒤: 지난 학기에 토론 대회에 나갔다 → 해 봤다",
+    "highlight": [
+     "I competed in one last semester."
+    ],
+    "strike": [],
+    "narration": "둘째, 빈칸 뒤 I competed in one last semester는 지난 학기에 토론 대회에 나갔다는 말이라, 해 봤다는 뜻이에요."
+   },
+   {
+    "note": "해 봤다 → Yes, I have.",
+    "highlight": [
+     "④ Yes, I have."
+    ],
+    "strike": [
+     "③ No, I haven't."
+    ],
+    "narration": "셋째, 그러니 No, I haven't가 아니라 Yes, I have가 알맞아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Yes, I did.  ✗  해 봤다는 뜻은 맞지만 Have로 물었으니 have로 답해요",
+    "② No, I didn't.  ✗  didn't로 답했고, 안 해 봤다는 뜻도 반대예요",
+    "③ No, I haven't.  ✗  형태는 맞지만 대회에 나갔으니 No가 틀려요",
+    "④ Yes, I have.  ✓  have로 답하고, 해 봤다는 뜻도 맞아요",
+    "⑤ I am.  ✗  Are you ~?처럼 be동사로 물을 때 하는 대답이에요"
+   ],
+   "narration": "정답은 4번 Yes, I have예요. 1번 Yes, I did를 고르기 쉬운데, 뒤 문장은 last semester라는 지난 때를 말해서 과거형 competed를 쓴 거예요. 짧은 대답은 질문의 Have를 받아 have로 해요. 3번 No, I haven't는 형태는 맞지만, 안 해 봤다는 뜻이라 대회에 나갔다는 말과 반대예요."
+  },
+  "summary": {
+   "card": "Have you ever ~? → Yes, I have. / No, I haven't. (뒤의 말과 뜻 맞추기)",
+   "narration": "정답은 4번이에요. 기억할 것, Have you ever 질문에는 have나 haven't로 답하고, Yes와 No는 뒤의 말과 뜻을 맞춰요."
+  },
+  "captions": [
+   "경험을 묻는 질문의 대답",
+   "먼저 풀어 보세요",
+   "Have you ever → have로 답해요",
+   "have로 답하기 → 뒤의 말과 뜻 맞추기",
+   "정답 ④ Yes, I have.",
+   "have·haven't로, 뜻은 뒤의 말에 맞춰"
+  ],
+  "sec": [
+   10,
+   16,
+   26,
+   32,
+   24,
+   10
+  ]
+ },
+ "E": {
+  "title": "Have you ever 질문의 짧은 대답",
+  "intro": "이 문제는 Have you ever로 경험을 묻는 질문에 알맞은 짧은 대답을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 알맞은 것을 고르세요. Have you ever stayed awake all night to study? 빈칸, I have never done that; I always stop studying before midnight. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Have you ever + 과거분사 ~? → 지금까지 해 본 적이 있는지(경험) 묻는 현재완료 의문문",
+    "짧은 대답은 질문의 have를 받아요 → Yes, I have. / No, I haven't.",
+    "이 질문에는 did, didn't나 am으로 답하지 않아요",
+    "Yes·No는 뒤에 이어지는 말과 뜻이 맞아야 해요",
+    "예) A: Have you ever seen a koala?  B: Yes, I have. (코알라를 본 적 있니? 응, 있어.)"
+   ],
+   "narration": "Have you ever 뒤에 과거분사가 오는 질문은 지금까지 해 본 적이 있는지 묻는 현재완료 의문문이에요. 짧은 대답은 질문의 have를 받아 Yes, I have 또는 No, I haven't로 하고, did나 am으로 답하지 않아요. Yes와 No는 뒤의 말과 뜻이 맞아야 해요. Have you ever seen a koala? 코알라를 본 적 있니? Yes, I have. 응, 있어."
+  },
+  "steps": [
+   {
+    "note": "질문 Have you ever ~? → 대답도 have / haven't. did·didn't·am으로 답한 보기를 지운다.",
+    "highlight": [
+     "Have you ever stayed awake all night to study?"
+    ],
+    "strike": [
+     "① Yes, I did.",
+     "③ I am.",
+     "④ No, I didn't."
+    ],
+    "narration": "첫째, Have you ever stayed awake all night to study는 공부하느라 밤을 새워 본 적 있냐는 경험 질문이라 대답은 have나 haven't로 해요. 그래서 did나 didn't, am으로 답한 1번, 3번, 4번을 지워요."
+   },
+   {
+    "note": "빈칸 뒤: 한 번도 그런 적이 없다",
+    "highlight": [
+     "I have never done that"
+    ],
+    "strike": [],
+    "narration": "둘째, 빈칸 뒤 I have never done that은 그런 적이 한 번도 없다는 뜻이에요."
+   },
+   {
+    "note": "해 본 적 없다 → No, I haven't.",
+    "highlight": [
+     "② No, I haven't."
+    ],
+    "strike": [
+     "⑤ Yes, I have."
+    ],
+    "narration": "셋째, 그러니 Yes, I have가 아니라 No, I haven't가 알맞아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Yes, I did.  ✗  did로 답했고, 해 봤다는 뜻도 반대예요",
+    "② No, I haven't.  ✓  haven't로 답하고, 해 본 적 없다는 뜻도 맞아요",
+    "③ I am.  ✗  Are you ~?처럼 be동사로 물을 때 하는 대답이에요",
+    "④ No, I didn't.  ✗  안 해 봤다는 뜻은 맞지만 Have로 물었으니 haven't로 답해요",
+    "⑤ Yes, I have.  ✗  해 봤다는 뜻이라 I have never done that과 반대예요"
+   ],
+   "narration": "정답은 2번 No, I haven't예요. haven't로 답했고, 안 해 봤다는 뜻도 맞아요. 4번 No, I didn't는 안 해 봤다는 뜻은 맞지만, Have로 물었으니 haven't로 답해야 해요. 5번 Yes, I have는 형태는 맞지만, 해 봤다는 뜻이라 I have never done that과 반대예요."
+  },
+  "summary": {
+   "card": "Have you ever ~? → Yes, I have. / No, I haven't. (뒤의 말과 뜻 맞추기)",
+   "narration": "정답은 2번이에요. 기억할 것, Have you ever 질문에는 have나 haven't로 답하고, Yes와 No는 뒤의 말과 뜻을 맞춰요."
+  },
+  "captions": [
+   "경험을 묻는 질문의 대답",
+   "먼저 풀어 보세요",
+   "Have you ever → have로 답해요",
+   "have로 답하기 → 뒤의 말과 뜻 맞추기",
+   "정답 ② No, I haven't.",
+   "have·haven't로, 뜻은 뒤의 말에 맞춰"
+  ],
+  "sec": [
+   10,
+   16,
+   26,
+   32,
+   24,
+   10
+  ]
+ },
+ "F": {
+  "title": "Have you ever 질문의 짧은 대답",
+  "intro": "이 문제는 Have you ever로 경험을 묻는 질문에 알맞은 짧은 대답을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말로 알맞은 것을 고르세요. Have you ever cooked a full meal for your family? 빈칸, I made dinner for them last weekend. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Have you ever + 과거분사 ~? → 지금까지 해 본 적이 있는지(경험) 묻는 현재완료 의문문",
+    "짧은 대답은 질문의 have를 받아요 → Yes, I have. / No, I haven't.",
+    "이 질문에는 did, didn't나 am으로 답하지 않아요",
+    "Yes·No는 뒤에 이어지는 말과 뜻이 맞아야 해요",
+    "예) A: Have you ever seen a koala?  B: Yes, I have. (코알라를 본 적 있니? 응, 있어.)"
+   ],
+   "narration": "Have you ever 뒤에 과거분사가 오는 질문은 지금까지 해 본 적이 있는지 묻는 현재완료 의문문이에요. 짧은 대답은 질문의 have를 받아 Yes, I have 또는 No, I haven't로 하고, did나 am으로 답하지 않아요. Yes와 No는 뒤의 말과 뜻이 맞아야 해요. Have you ever seen a koala? 코알라를 본 적 있니? Yes, I have. 응, 있어."
+  },
+  "steps": [
+   {
+    "note": "질문 Have you ever ~? → 대답도 have / haven't. did·didn't·am으로 답한 보기를 지운다.",
+    "highlight": [
+     "Have you ever cooked a full meal for your family?"
+    ],
+    "strike": [
+     "② No, I didn't.",
+     "④ I am.",
+     "⑤ Yes, I did."
+    ],
+    "narration": "첫째, Have you ever cooked a full meal for your family는 가족에게 식사 한 끼를 요리해 준 적 있냐는 경험 질문이라 대답은 have나 haven't로 해요. 그래서 did나 didn't, am으로 답한 2번, 4번, 5번을 지워요."
+   },
+   {
+    "note": "빈칸 뒤: 지난 주말에 가족에게 저녁을 만들어 줬다 → 해 봤다",
+    "highlight": [
+     "I made dinner for them last weekend."
+    ],
+    "strike": [],
+    "narration": "둘째, 빈칸 뒤 I made dinner for them last weekend는 지난 주말에 저녁을 만들어 줬다는 말이라, 해 봤다는 뜻이에요."
+   },
+   {
+    "note": "해 봤다 → Yes, I have.",
+    "highlight": [
+     "③ Yes, I have."
+    ],
+    "strike": [
+     "① No, I haven't."
+    ],
+    "narration": "셋째, 그러니 No, I haven't가 아니라 Yes, I have가 알맞아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① No, I haven't.  ✗  형태는 맞지만 저녁을 만들어 줬으니 No가 틀려요",
+    "② No, I didn't.  ✗  didn't로 답했고, 안 해 봤다는 뜻도 반대예요",
+    "③ Yes, I have.  ✓  have로 답하고, 해 봤다는 뜻도 맞아요",
+    "④ I am.  ✗  Are you ~?처럼 be동사로 물을 때 하는 대답이에요",
+    "⑤ Yes, I did.  ✗  해 봤다는 뜻은 맞지만 Have로 물었으니 have로 답해요"
+   ],
+   "narration": "정답은 3번 Yes, I have예요. 5번 Yes, I did를 고르기 쉬운데, 뒤 문장은 last weekend라는 지난 때를 말해서 과거형 made를 쓴 거예요. 짧은 대답은 질문의 Have를 받아 have로 해요. 1번 No, I haven't는 형태는 맞지만, 안 해 봤다는 뜻이라 저녁을 만들어 줬다는 말과 반대예요."
+  },
+  "summary": {
+   "card": "Have you ever ~? → Yes, I have. / No, I haven't. (뒤의 말과 뜻 맞추기)",
+   "narration": "정답은 3번이에요. 기억할 것, Have you ever 질문에는 have나 haven't로 답하고, Yes와 No는 뒤의 말과 뜻을 맞춰요."
+  },
+  "captions": [
+   "경험을 묻는 질문의 대답",
+   "먼저 풀어 보세요",
+   "Have you ever → have로 답해요",
+   "have로 답하기 → 뒤의 말과 뜻 맞추기",
+   "정답 ③ Yes, I have.",
+   "have·haven't로, 뜻은 뒤의 말에 맞춰"
+  ],
+  "sec": [
+   10,
+   16,
+   26,
+   32,
+   24,
+   10
+  ]
+ }
+}

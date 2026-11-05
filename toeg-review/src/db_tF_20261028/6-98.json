@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:30:53.058Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": null,
+      "1": "piano",
+      "2": "the",
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 과거진행형 의문문은 Was/Were + 주어 + 동사원형-ing + 목적어·부사의 순서로 배열한다.\n풀이 순서: ① 의문문으로 배열한다: Was Tom playing the piano? → ② 앞에서부터 센다. → ③ 네 번째 낱말은 the. 정답은 ③.\n문장별 판정:\n정답 판단: 완성 문장은 Was Tom playing the piano?이고 네 번째 단어는 the이다.\n선택지 분석:\n① [오답] 완성 문장 Was Tom playing the piano?에서 단어(playing)는 3번째에 오므로 오답이다.\n② [오답] 완성 문장 Was Tom playing the piano?에서 단어(piano)는 5번째에 오므로 오답이다.\n③ [정답] 완성 문장 Was Tom playing the piano?에서 단어(the)가 네 번째에 오므로 정답이다.\n④ [오답] 완성 문장 Was Tom playing the piano?에서 단어(Tom)는 2번째에 오므로 오답이다.\n⑤ [오답] 완성 문장 Was Tom playing the piano?에서 단어(was)는 1번째에 오므로 오답이다.",
+    "passage": "( the / Tom / playing / was / piano / ? )",
+    "stem": "다음 단어들을 바르게 나열하여 의문문을 만들 때, 네 번째에 오는 단어는?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:30:51.183Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:30:53.058Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:30:53.058Z",
+      "what": "확인 완료"
+    }
+  }
+}

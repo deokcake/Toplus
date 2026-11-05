@@ -1,0 +1,475 @@
+{
+ "A": {
+  "title": "나를 포함한 여럿을 받는 주격 We",
+  "intro": "이 문제는 Kelly and I를 대신해 주어로 쓸 알맞은 대명사를 고르는 문제예요.",
+  "problem_narration": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르세요. Kelly and I are friends. 빈칸, are friends. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "주격 I, you, he, she, it, we, they = ‘~는, ~가’ → 주어로 써요",
+    "we의 다른 꼴: our(우리의) + 명사 · us(우리를) · ours(우리의 것)",
+    "여럿을 받을 때: 나 포함 → we · 나 빼고 너 포함 → you · 나와 너 빼고 → they",
+    "예) Mina and I like pizza. → We like pizza. (우리는 피자를 좋아해요.)"
+   ],
+   "narration": "주격 I, you, he, she, it, we, they는 ‘나는’, ‘우리는’처럼 주어로 쓰는 꼴이에요. we의 다른 꼴인 our는 우리의라는 뜻으로 뒤에 명사가 오고, us는 우리를, ours는 우리의 것이라는 뜻이에요. 여럿을 대명사 하나로 받을 때, 나를 포함하면 we, 나는 빼고 너를 포함하면 you, 나와 너를 모두 빼면 they를 써요. 예를 들어 Mina and I는 나를 포함한 여럿이라 We로 받아요. We like pizza, 우리는 피자를 좋아해요."
+  },
+  "steps": [
+   {
+    "note": "Kelly and I = 켈리와 나 → 나를 포함한 여럿 → we (they의 꼴 Their 지움)",
+    "highlight": [
+     "Kelly and I"
+    ],
+    "strike": [
+     "⑤ Their"
+    ],
+    "narration": "첫째, 앞 문장의 주어 Kelly and I는 켈리와 나, 곧 나를 포함한 여럿이라 we로 받아요. 그래서 they의 다른 꼴인 Their는 지워요."
+   },
+   {
+    "note": "빈칸 = 동사 are 앞 주어 자리 → ‘우리는’ = 주격. Ours(우리의 것)·Us(우리를)·Our(우리의) 지움",
+    "highlight": [
+     "_______ are friends."
+    ],
+    "strike": [
+     "① Ours",
+     "③ Us",
+     "④ Our"
+    ],
+    "narration": "둘째, 빈칸은 동사 are 앞 주어 자리라 우리는이라는 뜻의 주격이 와야 하니, 우리의 것인 Ours, 우리를인 Us, 우리의인 Our는 지워요."
+   },
+   {
+    "note": "남는 것 = 주격 We → We are friends.",
+    "highlight": [
+     "② We"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 주격 We예요. We are friends, 우리는 친구예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Ours  ✗  ‘우리의 것’이라 사람인 Kelly and I를 대신할 수 없어요",
+    "② We  ✓  나를 포함한 여럿을 받는 주격 (우리는)",
+    "③ Us  ✗  ‘우리를’이라는 목적격 · 주어로 쓰지 않아요",
+    "④ Our  ✗  ‘우리의’라는 소유격 · 뒤에 명사가 와야 해요",
+    "⑤ Their  ✗  ‘그들의’라는 소유격 · 나를 포함한 여럿은 we로 받아요"
+   ],
+   "narration": "정답은 2번 We예요. 3번 Us는 우리를이라는 뜻의 목적격이라 주어로 쓰지 않아요. 4번 Our는 우리의라는 뜻이라 Our class처럼 뒤에 명사가 와야 해요. 1번 Ours는 우리의 것이라는 뜻이라 사람인 Kelly and I를 대신할 수 없어요."
+  },
+  "summary": {
+   "card": "나를 포함한 여럿 → we · 주어로 쓸 때는 주격 we",
+   "narration": "정답은 2번이에요. 기억할 것, 나를 포함한 여럿은 we로 받고, 주어로 쓸 때는 주격 we를 써요."
+  },
+  "captions": [
+   "Kelly and I를 받는 대명사",
+   "먼저 풀어 보세요",
+   "주격은 주어로 써요",
+   "나 포함 여럿 → 주격 We",
+   "정답 ② We",
+   "나 포함 여럿 → 주격 we"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   26,
+   10
+  ]
+ },
+ "B": {
+  "title": "나와 너를 뺀 여럿을 받는 주격 They",
+  "intro": "이 문제는 Tom and his sister를 대신해 주어로 쓸 알맞은 대명사를 고르는 문제예요.",
+  "problem_narration": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르세요. Tom and his sister are in the science club. 빈칸, are in the science club. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "주격 I, you, he, she, it, we, they = ‘~는, ~가’ → 주어로 써요",
+    "they의 다른 꼴: their(그들의) + 명사 · them(그들을) · theirs(그들의 것)",
+    "여럿을 받을 때: 나 포함 → we · 나 빼고 너 포함 → you · 나와 너 빼고 → they",
+    "예) Ben and Amy play soccer. → They play soccer. (그들은 축구를 해요.)"
+   ],
+   "narration": "주격 I, you, he, she, it, we, they는 ‘나는’, ‘그들은’처럼 주어로 쓰는 꼴이에요. they의 다른 꼴인 their는 그들의라는 뜻으로 뒤에 명사가 오고, them은 그들을, theirs는 그들의 것이라는 뜻이에요. 여럿을 대명사 하나로 받을 때, 나를 포함하면 we, 나는 빼고 너를 포함하면 you, 나와 너를 모두 빼면 they를 써요. 예를 들어 Ben and Amy는 나도 너도 들어 있지 않은 여럿이라 They로 받아요. They play soccer, 그들은 축구를 해요."
+  },
+  "steps": [
+   {
+    "note": "Tom and his sister = 두 사람, 나·너 없음 → they (하나를 받는 it의 꼴 Its 지움)",
+    "highlight": [
+     "Tom and his sister"
+    ],
+    "strike": [
+     "⑤ Its"
+    ],
+    "narration": "첫째, 앞 문장의 주어 Tom and his sister는 톰과 그의 누나나 여동생, 곧 나도 너도 들어 있지 않은 두 사람이라 they로 받아요. 그래서 하나를 받는 it의 다른 꼴인 Its는 지워요."
+   },
+   {
+    "note": "빈칸 = 동사 are 앞 주어 자리 → ‘그들은’ = 주격. Their(그들의)·Them(그들을)·Theirs(그들의 것) 지움",
+    "highlight": [
+     "_______ are in the science club."
+    ],
+    "strike": [
+     "① Their",
+     "② Them",
+     "④ Theirs"
+    ],
+    "narration": "둘째, 빈칸은 동사 are 앞 주어 자리라 그들은이라는 뜻의 주격이 와야 하니, 그들의인 Their, 그들을인 Them, 그들의 것인 Theirs는 지워요."
+   },
+   {
+    "note": "남는 것 = 주격 They → They are in the science club.",
+    "highlight": [
+     "③ They"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 주격 They예요. They are in the science club, 그들은 과학 동아리 회원이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Their  ✗  ‘그들의’라는 소유격 · 뒤에 명사가 와야 해요",
+    "② Them  ✗  ‘그들을’이라는 목적격 · 주어로 쓰지 않아요",
+    "③ They  ✓  나와 너를 뺀 여럿을 받는 주격 (그들은)",
+    "④ Theirs  ✗  ‘그들의 것’이라 사람인 Tom and his sister를 대신할 수 없어요",
+    "⑤ Its  ✗  ‘그것의’ · 하나를 받는 it의 소유격이에요"
+   ],
+   "narration": "정답은 3번 They예요. 2번 Them은 그들을이라는 뜻의 목적격이라 주어로 쓰지 않아요. 1번 Their는 그들의라는 뜻이라 Their club처럼 뒤에 명사가 와야 해요. 4번 Theirs는 그들의 것이라는 뜻이라 사람인 Tom and his sister를 대신할 수 없어요."
+  },
+  "summary": {
+   "card": "나와 너를 뺀 여럿 → they · 주어로 쓸 때는 주격 they",
+   "narration": "정답은 3번이에요. 기억할 것, 나와 너를 뺀 여럿은 they로 받고, 주어로 쓸 때는 주격 they를 써요."
+  },
+  "captions": [
+   "Tom and his sister를 받는 대명사",
+   "먼저 풀어 보세요",
+   "주격은 주어로 써요",
+   "나·너 뺀 여럿 → 주격 They",
+   "정답 ③ They",
+   "나·너 뺀 여럿 → 주격 they"
+  ],
+  "sec": [
+   10,
+   16,
+   26,
+   36,
+   26,
+   10
+  ]
+ },
+ "C": {
+  "title": "여자 한 명을 받는 주격 She",
+  "intro": "이 문제는 Jane을 대신해 주어로 쓸 알맞은 대명사를 고르는 문제예요.",
+  "problem_narration": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르세요. Jane is my cousin. 빈칸, is my cousin. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "주격 I, you, he, she, it, we, they = ‘~는, ~가’ → 주어로 써요",
+    "한 명·하나를 받을 때: 남자 → he · 여자 → she · 사물·동물 → 보통 it",
+    "she의 다른 꼴: her(그녀의, 그녀를) · hers(그녀의 것) · herself(그녀 자신)",
+    "예) My aunt is a nurse. → She is a nurse. (그녀는 간호사예요.)"
+   ],
+   "narration": "주격 I, you, he, she, it, we, they는 ‘나는’, ‘그녀는’처럼 주어로 쓰는 꼴이에요. 한 사람을 받을 때 남자는 he, 여자는 she를 쓰고, 사물이나 동물 하나는 보통 it으로 받아요. she의 다른 꼴인 her는 그녀의 또는 그녀를, hers는 그녀의 것, herself는 그녀 자신이라는 뜻이에요. 예를 들어 My aunt는 여자 한 명이라 She로 받아요. She is a nurse, 그녀는 간호사예요."
+  },
+  "steps": [
+   {
+    "note": "Jane = 여자 한 명 → she (사물·동물 하나를 받는 it의 꼴 Its 지움)",
+    "highlight": [
+     "Jane"
+    ],
+    "strike": [
+     "⑤ Its"
+    ],
+    "narration": "첫째, 앞 문장의 주어 Jane은 여자 한 명이라 she로 받아요. 그래서 사물이나 동물 하나를 받는 it의 다른 꼴인 Its는 지워요."
+   },
+   {
+    "note": "빈칸 = 동사 is 앞 주어 자리 → ‘그녀는’ = 주격. Her(그녀의, 그녀를)·Hers(그녀의 것)·Herself(그녀 자신) 지움",
+    "highlight": [
+     "_______ is my cousin."
+    ],
+    "strike": [
+     "① Her",
+     "③ Hers",
+     "④ Herself"
+    ],
+    "narration": "둘째, 빈칸은 동사 is 앞 주어 자리라 그녀는이라는 뜻의 주격이 와야 하니, 그녀의 또는 그녀를인 Her, 그녀의 것인 Hers, 그녀 자신인 Herself는 지워요."
+   },
+   {
+    "note": "남는 것 = 주격 She → She is my cousin.",
+    "highlight": [
+     "② She"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 주격 She예요. She is my cousin, 그녀는 나의 사촌이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Her  ✗  ‘그녀의, 그녀를’ · 소유격이나 목적격이에요",
+    "② She  ✓  여자 한 명을 받는 주격 (그녀는)",
+    "③ Hers  ✗  ‘그녀의 것’이라 사람인 Jane을 대신할 수 없어요",
+    "④ Herself  ✗  ‘그녀 자신’ · 주어 자리에는 쓰지 않아요",
+    "⑤ Its  ✗  ‘그것의’ · 여자 한 명은 she로 받아요"
+   ],
+   "narration": "정답은 2번 She예요. 1번 Her는 그녀의 또는 그녀를이라는 뜻이라 주어로 쓰지 않아요. 4번 Herself는 그녀 자신이라는 뜻이고, 주어 자리에는 쓰지 않아요. 3번 Hers는 그녀의 것이라는 뜻이라 사람인 Jane을 대신할 수 없어요."
+  },
+  "summary": {
+   "card": "여자 한 명 → she · 주어로 쓸 때는 주격 she",
+   "narration": "정답은 2번이에요. 기억할 것, 여자 한 명은 she로 받고, 주어로 쓸 때는 주격 she를 써요."
+  },
+  "captions": [
+   "Jane을 받는 대명사",
+   "먼저 풀어 보세요",
+   "주격은 주어로 써요",
+   "여자 한 명 → 주격 She",
+   "정답 ② She",
+   "여자 한 명 → 주격 she"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   26,
+   10
+  ]
+ },
+ "D": {
+  "title": "남자 한 명을 받는 주격 He",
+  "intro": "이 문제는 My father를 대신해 주어로 쓸 알맞은 대명사를 고르는 문제예요.",
+  "problem_narration": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르세요. My father is tall. 빈칸, is tall. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "주격 I, you, he, she, it, we, they = ‘~는, ~가’ → 주어로 써요",
+    "한 명·하나를 받을 때: 남자 → he · 여자 → she · 사물·동물 → 보통 it",
+    "he의 다른 꼴: his(그의, 그의 것) · him(그를) · himself(그 자신)",
+    "예) My brother is a doctor. → He is a doctor. (그는 의사예요.)"
+   ],
+   "narration": "주격 I, you, he, she, it, we, they는 ‘나는’, ‘그는’처럼 주어로 쓰는 꼴이에요. 한 사람을 받을 때 남자는 he, 여자는 she를 쓰고, 사물이나 동물 하나는 보통 it으로 받아요. he의 다른 꼴인 his는 그의 또는 그의 것, him은 그를, himself는 그 자신이라는 뜻이에요. 예를 들어 My brother는 남자 한 명이라 He로 받아요. He is a doctor, 그는 의사예요."
+  },
+  "steps": [
+   {
+    "note": "My father = 아빠, 남자 한 명 → he",
+    "highlight": [
+     "My father"
+    ],
+    "strike": [],
+    "narration": "첫째, 앞 문장의 주어 My father는 우리 아빠, 곧 남자 한 명이라 he로 받아요."
+   },
+   {
+    "note": "빈칸 = 동사 is 앞 주어 자리 → ‘그는’ = 주격. His(그의, 그의 것)·Him(그를)·Himself(그 자신) 지움",
+    "highlight": [
+     "_______ is tall."
+    ],
+    "strike": [
+     "① His",
+     "② Him",
+     "③ Himself"
+    ],
+    "narration": "둘째, 빈칸은 동사 is 앞 주어 자리라 그는이라는 뜻의 주격이 와야 하니, 그의 또는 그의 것인 His, 그를인 Him, 그 자신인 Himself는 지워요."
+   },
+   {
+    "note": "He's = He is → 넣으면 He's is tall (is가 두 번)",
+    "highlight": [
+     "_______ is tall."
+    ],
+    "strike": [
+     "④ He's"
+    ],
+    "narration": "셋째, He's는 He is를 줄인 말이라, 빈칸에 넣으면 He's is tall처럼 is가 두 번 나와요."
+   },
+   {
+    "note": "남는 것 = 주격 He → He is tall.",
+    "highlight": [
+     "⑤ He"
+    ],
+    "strike": [],
+    "narration": "넷째, 남는 것은 주격 He예요. He is tall, 그는 키가 커요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① His  ✗  ‘그의’ 또는 ‘그의 것’ · ‘그는’이 아니에요",
+    "② Him  ✗  ‘그를’이라는 목적격 · 주어로 쓰지 않아요",
+    "③ Himself  ✗  ‘그 자신’ · 주어 자리에는 쓰지 않아요",
+    "④ He's  ✗  He is의 줄임말 · 뒤의 is와 겹쳐요",
+    "⑤ He  ✓  남자 한 명을 받는 주격 (그는)"
+   ],
+   "narration": "정답은 5번 He예요. 4번 He's는 He is를 줄인 말이라, 넣으면 is가 두 번 나와서 틀려요. 1번 His는 그의 또는 그의 것이라는 뜻이라, 그는이라는 뜻의 주어가 될 수 없어요. 2번 Him은 그를이라는 뜻의 목적격이라 주어로 쓰지 않아요."
+  },
+  "summary": {
+   "card": "남자 한 명 → he · 주어로 쓸 때는 주격 he",
+   "narration": "정답은 5번이에요. 기억할 것, 남자 한 명은 he로 받고, 주어로 쓸 때는 주격 he를 써요."
+  },
+  "captions": [
+   "My father를 받는 대명사",
+   "먼저 풀어 보세요",
+   "주격은 주어로 써요",
+   "남자 한 명 → 주격 He",
+   "정답 ⑤ He",
+   "남자 한 명 → 주격 he"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   38,
+   28,
+   10
+  ]
+ },
+ "E": {
+  "title": "너를 포함한 여럿을 받는 주격 You",
+  "intro": "이 문제는 You and Tom을 대신해 주어로 쓸 알맞은 대명사를 고르는 문제예요.",
+  "problem_narration": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르세요. You and Tom are late. 빈칸, are late. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "주격 I, you, he, she, it, we, they = ‘~는, ~가’ → 주어로 써요",
+    "여럿을 받을 때: 나 포함 → we · 나 빼고 너 포함 → you · 나와 너 빼고 → they",
+    "you의 다른 꼴: your(너의, 너희의) + 명사 · yours(너의 것, 너희의 것) · yourself(너 자신)",
+    "예) You and Mina are kind. → You are kind. (너희는 친절해요.)"
+   ],
+   "narration": "주격 I, you, he, she, it, we, they는 ‘나는’, ‘너희는’처럼 주어로 쓰는 꼴이에요. 여럿을 대명사 하나로 받을 때, 나를 포함하면 we, 나는 빼고 너를 포함하면 you, 나와 너를 모두 빼면 they를 써요. you의 다른 꼴인 your는 너의 또는 너희의라는 뜻으로 뒤에 명사가 오고, yours는 너의 것, yourself는 너 자신이라는 뜻이에요. 예를 들어 You and Mina는 너를 포함한 여럿이라 You로 받아요. You are kind, 너희는 친절해요."
+  },
+  "steps": [
+   {
+    "note": "You and Tom = 너와 톰 → 너를 포함한 여럿 → you (they의 꼴 Them 지움)",
+    "highlight": [
+     "You and Tom"
+    ],
+    "strike": [
+     "⑤ Them"
+    ],
+    "narration": "첫째, 앞 문장의 주어 You and Tom은 너와 톰, 곧 너를 포함한 여럿이라 they가 아니라 you로 받아요. 그래서 they의 다른 꼴인 Them은 지워요."
+   },
+   {
+    "note": "빈칸 = 동사 are 앞 주어 자리 → ‘너희는’ = 주격. Your(너의)·Yours(너의 것)·Yourself(너 자신) 지움",
+    "highlight": [
+     "_______ are late."
+    ],
+    "strike": [
+     "② Your",
+     "③ Yours",
+     "④ Yourself"
+    ],
+    "narration": "둘째, 빈칸은 동사 are 앞 주어 자리라 너희는이라는 뜻의 주격이 와야 하니, 너의인 Your, 너의 것인 Yours, 너 자신인 Yourself는 지워요."
+   },
+   {
+    "note": "남는 것 = 주격 You → You are late.",
+    "highlight": [
+     "① You"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 주격 You예요. You are late, 너희는 늦었어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① You  ✓  너를 포함한 여럿을 받는 주격 (너희는)",
+    "② Your  ✗  ‘너의’라는 소유격 · 뒤에 명사가 와야 해요",
+    "③ Yours  ✗  ‘너의 것’이라 사람인 You and Tom을 대신할 수 없어요",
+    "④ Yourself  ✗  ‘너 자신’ · 주어 자리에는 쓰지 않아요",
+    "⑤ Them  ✗  ‘그들을’이라는 목적격 · 너를 포함한 여럿은 you로 받아요"
+   ],
+   "narration": "정답은 1번 You예요. 5번 Them은 그들을이라는 뜻의 목적격이라 주어로 쓰지 않고, 너를 포함한 여럿은 they가 아니라 you로 받아요. 2번 Your는 너의라는 뜻이라 Your bag처럼 뒤에 명사가 와야 해요. 4번 Yourself는 너 자신이라는 뜻이고, 주어 자리에는 쓰지 않아요."
+  },
+  "summary": {
+   "card": "나는 빼고 너를 포함한 여럿 → you · 주어로 쓸 때는 주격 you",
+   "narration": "정답은 1번이에요. 기억할 것, 나는 빼고 너를 포함한 여럿은 you로 받고, 주어로 쓸 때는 주격 you를 써요."
+  },
+  "captions": [
+   "You and Tom을 받는 대명사",
+   "먼저 풀어 보세요",
+   "주격은 주어로 써요",
+   "너 포함 여럿 → 주격 You",
+   "정답 ① You",
+   "너 포함 여럿 → 주격 you"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   26,
+   10
+  ]
+ },
+ "F": {
+  "title": "동물 하나를 받는 주격 It",
+  "intro": "이 문제는 주어 The dog 대신 쓸 알맞은 대명사를 고르는 문제예요.",
+  "problem_narration": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르세요. The dog is cute. 빈칸, is cute. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "주격 I, you, he, she, it, we, they = ‘~는, ~가’ → 주어로 써요",
+    "한 명·하나를 받을 때: 남자 → he · 여자 → she · 사물·동물 → 보통 it",
+    "it의 다른 꼴: its(그것의) + 명사 · itself(그것 자신)",
+    "예) The ball is round. → It is round. (그것은 둥글어요.)"
+   ],
+   "narration": "주격 I, you, he, she, it, we, they는 ‘나는’, ‘그것은’처럼 주어로 쓰는 꼴이에요. 한 사람을 받을 때 남자는 he, 여자는 she를 쓰고, 사물이나 동물 하나는 보통 it으로 받아요. it의 다른 꼴인 its는 그것의라는 뜻으로 뒤에 명사가 오고, itself는 그것 자신이라는 뜻이에요. 예를 들어 The ball은 사물 하나라 It으로 받아요. It is round, 그것은 둥글어요."
+  },
+  "steps": [
+   {
+    "note": "The dog = 개 한 마리, 동물 하나 → it (Them(그들을) 지움)",
+    "highlight": [
+     "The dog"
+    ],
+    "strike": [
+     "⑤ Them"
+    ],
+    "narration": "첫째, 앞 문장의 주어 The dog 같은 동물 하나는 it으로 받으니, 그들을이라는 뜻의 Them은 지워요."
+   },
+   {
+    "note": "빈칸 = 동사 is 앞 주어 자리 → ‘그것은’ = 주격. Its(그것의)·Itself(그것 자신) 지움",
+    "highlight": [
+     "_______ is cute."
+    ],
+    "strike": [
+     "① Its",
+     "③ Itself"
+    ],
+    "narration": "둘째, 빈칸은 동사 is 앞 주어 자리라 그것은이라는 뜻의 주격이 와야 하니, 그것의인 Its, 그것 자신인 Itself는 지워요."
+   },
+   {
+    "note": "It's = It is → 넣으면 It's is cute (is가 두 번)",
+    "highlight": [
+     "_______ is cute."
+    ],
+    "strike": [
+     "② It's"
+    ],
+    "narration": "셋째, It's는 It is를 줄인 말이라, 빈칸에 넣으면 It's is cute처럼 is가 두 번 나와요."
+   },
+   {
+    "note": "남는 것 = 주격 It → It is cute.",
+    "highlight": [
+     "④ It"
+    ],
+    "strike": [],
+    "narration": "넷째, 남는 것은 주격 It이에요. It is cute, 그것은 귀여워요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Its  ✗  ‘그것의’라는 소유격 · 뒤에 명사가 와야 해요",
+    "② It's  ✗  It is의 줄임말 · 뒤의 is와 겹쳐요",
+    "③ Itself  ✗  ‘그것 자신’ · 주어 자리에는 쓰지 않아요",
+    "④ It  ✓  사물·동물 하나를 받는 주격 (그것은)",
+    "⑤ Them  ✗  ‘그들을’이라는 목적격 · 동물 하나는 it으로 받아요"
+   ],
+   "narration": "정답은 4번 It이에요. 2번 It's는 It is를 줄인 말이라, 넣으면 is가 두 번 나와서 틀려요. 1번 Its는 그것의라는 뜻이라 Its tail처럼 뒤에 명사가 와야 해요. Its와 It's는 소리가 같아서 헷갈리기 쉬우니 조심해요. 3번 Itself는 그것 자신이라는 뜻이고, 주어 자리에는 쓰지 않아요."
+  },
+  "summary": {
+   "card": "사물·동물 하나 → 보통 it · 주어로 쓸 때는 주격 it",
+   "narration": "정답은 4번이에요. 기억할 것, 사물이나 동물 하나는 보통 it으로 받고, 주어로 쓸 때는 주격 it을 써요."
+  },
+  "captions": [
+   "The dog 대신 쓸 대명사",
+   "먼저 풀어 보세요",
+   "주격은 주어로 써요",
+   "동물 하나 → 주격 It",
+   "정답 ④ It",
+   "사물·동물 하나 → 주격 it"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   38,
+   30,
+   10
+  ]
+ }
+}

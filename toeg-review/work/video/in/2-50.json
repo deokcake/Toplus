@@ -1,0 +1,86 @@
+{
+ "key": "2-50",
+ "grade": 2,
+ "chapter": "CH 5 대명사",
+ "items": {
+  "A": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장으로만 묶인 것을 고르시오.",
+   "passage": "(A) All of the information <u>are</u> very useful.\n(B) Do you have any <u>ideas</u> for the party?\n(C) Each of the students <u>have</u> a different dream.\n(D) All of the cakes on the table <u>smells</u> sweet.\n(E) All of my family members <u>were</u> surprised at the news.",
+   "c": [
+    "(A), (B)",
+    "(B), (E)",
+    "(C), (D)",
+    "(A), (C), (E)",
+    "(B), (D), (E)"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: all/most/some of 뒤의 명사가 셀 수 없으면 단수 동사, 복수이면 복수 동사를 쓴다. each of ~, one of ~, every ~는 항상 단수 동사를 쓴다. any 뒤의 셀 수 있는 명사는 복수형으로 쓴다.\n풀이 순서: ① 밑줄 동사의 수는 of 뒤 명사가 정한다. all/most/some of + 셀 수 없는 명사는 단수, + 복수 명사는 복수다. → ② each of ~, one of ~, every ~는 뒤에 복수 명사가 와도 항상 단수다. → ③ 틀린 문장을 지운다: (A) information은 셀 수 없으므로 is, (C) each of ~는 has, (D) cakes는 복수이므로 smell. 옳은 문장만 묶은 (B), (E)가 정답이다.\n문장별 판정: (A) X. information은 셀 수 없으므로 is. (B) O. any + 복수 명사. (C) X. each of ~는 단수이므로 has. (D) X. 주어가 cakes이므로 smell. (E) O. family members가 복수이므로 were.\n정답 판단: (B)와 (E) 모두 옳으므로 정답은 ②이다.\n선택지 분석:\n① [오답] (A)가 틀렸으므로 오답이다.\n② [정답] (B)와 (E) 모두 옳으므로 정답이다.\n③ [오답] (C)와 (D) 모두 틀렸으므로 오답이다.\n④ [오답] (A)와 (C)가 틀렸으므로 오답이다.\n⑤ [오답] (D)가 틀렸으므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장으로만 묶인 것을 고르시오.",
+   "passage": "(A) All of the furniture <u>is</u> new.\n(B) Each of the girls <u>have</u> a phone.\n(C) Most of the students <u>walk</u> to school.\n(D) One of my friends <u>live</u> in Busan.\n(E) Some of the water <u>were</u> spilled.",
+   "c": [
+    "(A), (C)",
+    "(A), (B)",
+    "(C), (D)",
+    "(A), (C), (E)",
+    "(B), (D), (E)"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: all of / most of / some of + 명사 뒤의 동사는 of 뒤 명사에 수를 맞춘다(불가산명사 → 단수, 복수명사 → 복수). each of + 복수명사, one of + 복수명사, every + 단수명사는 단수 동사를 쓴다.\n풀이 순서: ① 밑줄 동사의 수는 of 뒤 명사가 정한다. all/most/some of + 셀 수 없는 명사는 단수, + 복수 명사는 복수다. → ② each of ~, one of ~, every ~는 뒤에 복수 명사가 와도 항상 단수다. → ③ 틀린 문장을 지운다: (B) each of ~는 has, (D) one of ~는 lives, (E) water는 셀 수 없으므로 was. 옳은 문장만 묶은 (A), (C)가 정답이다.\n문장별 판정:\n(A) O. furniture는 불가산명사라 단수 동사(is)를 쓴다.\n(B) X. each of + 복수명사는 단수 동사를 쓴다. 교정: has\n(C) O. of 뒤 students가 복수라 복수 동사(walk)를 쓴다.\n(D) X. one of + 복수명사는 단수 동사를 쓴다. 교정: lives\n(E) X. water는 불가산명사라 단수 동사를 쓴다. 교정: was\n정답 판단: 옳은 문장은 (A), (C)이고, 이 문장들로만 묶인 보기가 정답이다.\n선택지 분석:\n① [정답] 옳은 문장 (A), (C)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (B)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (E)는 옳은 문장이 아니다. 따라서 오답이다.\n⑤ [오답] (B), (D), (E)는 옳은 문장이 아니고, 옳은 문장 (A), (C)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "C": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장으로만 묶인 것을 고르시오.",
+   "passage": "(A) All of the money <u>was</u> stolen.\n(B) Each of the rooms <u>has</u> a window.\n(C) All of my classmates <u>likes</u> pizza.\n(D) Some of the cookies <u>was</u> burned.\n(E) Every student <u>need</u> a pencil.",
+   "c": [
+    "(A), (C)",
+    "(B), (D)",
+    "(A), (B)",
+    "(B), (C), (E)",
+    "(A), (D), (E)"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: all of / most of / some of + 명사 뒤의 동사는 of 뒤 명사에 수를 맞춘다(불가산명사 → 단수, 복수명사 → 복수). each of + 복수명사, one of + 복수명사, every + 단수명사는 단수 동사를 쓴다.\n풀이 순서: ① 밑줄 동사의 수는 of 뒤 명사가 정한다. all/most/some of + 셀 수 없는 명사는 단수, + 복수 명사는 복수다. → ② each of ~, one of ~, every ~는 뒤에 복수 명사가 와도 항상 단수다. → ③ 틀린 문장을 지운다: (C) classmates는 복수이므로 like, (D) cookies는 복수이므로 were, (E) every ~는 needs. 옳은 문장만 묶은 (A), (B)가 정답이다.\n문장별 판정:\n(A) O. money는 불가산명사라 단수 동사(was)를 쓴다.\n(B) O. each of + 복수명사는 단수 동사(has)를 쓴다.\n(C) X. of 뒤 classmates가 복수라 복수 동사를 쓴다. 교정: like\n(D) X. of 뒤 cookies가 복수라 복수 동사를 쓴다. 교정: were\n(E) X. every + 단수명사는 단수 동사를 쓴다. 교정: needs\n정답 판단: 옳은 문장은 (A), (B)이고, 이 문장들로만 묶인 보기가 정답이다.\n선택지 분석:\n① [오답] (C)는 옳은 문장이 아니고, 옳은 문장 (B)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 옳은 문장 (A), (B)를 빠짐없이 골랐으므로 정답이다.\n④ [오답] (C), (E)는 옳은 문장이 아니고, 옳은 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (D), (E)는 옳은 문장이 아니고, 옳은 문장 (B)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "D": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장으로만 묶인 것을 고르시오.",
+   "passage": "(A) All of the news about the accident <u>were</u> shocking.\n(B) Each of the players on the team <u>wears</u> a number.\n(C) Most of the milk in the bottle <u>has</u> gone bad.\n(D) All of the windows in the classroom <u>was</u> open.\n(E) One of the teachers at our school <u>is</u> from Canada.",
+   "c": [
+    "(A), (B)",
+    "(C), (D)",
+    "(A), (C), (E)",
+    "(B), (D), (E)",
+    "(B), (C), (E)"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: all of / most of / some of + 명사 뒤의 동사는 of 뒤 명사에 수를 맞춘다(불가산명사 → 단수, 복수명사 → 복수). each of + 복수명사, one of + 복수명사, every + 단수명사는 단수 동사를 쓴다.\n풀이 순서: ① 밑줄 동사의 수는 of 뒤 명사가 정한다. all/most/some of + 셀 수 없는 명사는 단수, + 복수 명사는 복수다. → ② each of ~, one of ~, every ~는 뒤에 복수 명사가 와도 항상 단수다. → ③ 틀린 문장을 지운다: (A) news는 셀 수 없으므로 was, (D) windows는 복수이므로 were. 옳은 문장만 묶은 (B), (C), (E)가 정답이다.\n문장별 판정:\n(A) X. news는 불가산명사라 단수 동사를 쓴다. 교정: was\n(B) O. each of + 복수명사는 단수 동사(wears)를 쓴다.\n(C) O. milk는 불가산명사라 단수 동사(has)를 쓴다.\n(D) X. of 뒤 windows가 복수라 복수 동사를 쓴다. 교정: were\n(E) O. one of + 복수명사는 단수 동사(is)를 쓴다.\n정답 판단: 옳은 문장은 (B), (C), (E)이고, 이 문장들로만 묶인 보기가 정답이다.\n선택지 분석:\n① [오답] (A)는 옳은 문장이 아니고, 옳은 문장 (C), (E)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (B), (E)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (A)는 옳은 문장이 아니고, 옳은 문장 (B)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 옳은 문장 (B), (C), (E)를 빠짐없이 골랐으므로 정답이다."
+  },
+  "E": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장으로만 묶인 것을 고르시오.",
+   "passage": "(A) All of the homework for today <u>are</u> done.\n(B) Each of us in the class <u>is</u> ready for the test.\n(C) Some of the books on the shelf <u>are</u> missing.\n(D) Most of the birthday cake <u>were</u> eaten by the children.\n(E) All of the students in my class <u>was</u> tired after the trip.",
+   "c": [
+    "(A), (B)",
+    "(B), (C)",
+    "(C), (D)",
+    "(A), (C), (E)",
+    "(B), (D), (E)"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: all of / most of / some of + 명사 뒤의 동사는 of 뒤 명사에 수를 맞춘다(불가산명사 → 단수, 복수명사 → 복수). each of + 복수명사, one of + 복수명사, every + 단수명사는 단수 동사를 쓴다.\n풀이 순서: ① 밑줄 동사의 수는 of 뒤 명사가 정한다. all/most/some of + 셀 수 없는 명사는 단수, + 복수 명사는 복수다. → ② each of ~, one of ~, every ~는 뒤에 복수 명사가 와도 항상 단수다. → ③ 틀린 문장을 지운다: (A) homework는 셀 수 없으므로 is, (D) cake는 단수이므로 was, (E) students는 복수이므로 were. 옳은 문장만 묶은 (B), (C)가 정답이다.\n문장별 판정:\n(A) X. homework는 불가산명사라 단수 동사를 쓴다. 교정: is\n(B) O. each of + 복수 대명사도 단수 동사(is)를 쓴다.\n(C) O. of 뒤 books가 복수라 복수 동사(are)를 쓴다.\n(D) X. of 뒤 cake가 한 덩어리(단수)라 단수 동사를 쓴다. 교정: was\n(E) X. of 뒤 students가 복수라 복수 동사를 쓴다. 교정: were\n정답 판단: 옳은 문장은 (B), (C)이고, 이 문장들로만 묶인 보기가 정답이다.\n선택지 분석:\n① [오답] (A)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 옳은 문장 (B), (C)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (B)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (A), (E)는 옳은 문장이 아니고, 옳은 문장 (B)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (D), (E)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "F": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장으로만 묶인 것을 고르시오.",
+   "passage": "(A) All of the luggage on the plane <u>was</u> lost.\n(B) Each of the classrooms in this building <u>have</u> a projector.\n(C) One of the boys in my class <u>plays</u> the violin.\n(D) All of my old shoes in the closet <u>is</u> dirty.\n(E) Most of the people in this town <u>agree</u> with you.",
+   "c": [
+    "(A), (B)",
+    "(C), (D)",
+    "(B), (C), (E)",
+    "(A), (C), (E)",
+    "(A), (D), (E)"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: all of / most of / some of + 명사 뒤의 동사는 of 뒤 명사에 수를 맞춘다(불가산명사 → 단수, 복수명사 → 복수). each of + 복수명사, one of + 복수명사, every + 단수명사는 단수 동사를 쓴다.\n풀이 순서: ① 밑줄 동사의 수는 of 뒤 명사가 정한다. all/most/some of + 셀 수 없는 명사는 단수, + 복수 명사는 복수다. → ② each of ~, one of ~, every ~는 뒤에 복수 명사가 와도 항상 단수다. → ③ 틀린 문장을 지운다: (B) each of ~는 has, (D) shoes는 복수이므로 are. 옳은 문장만 묶은 (A), (C), (E)가 정답이다.\n문장별 판정:\n(A) O. luggage는 불가산명사라 단수 동사(was)를 쓴다.\n(B) X. each of + 복수명사는 단수 동사를 쓴다. 교정: has\n(C) O. one of + 복수명사는 단수 동사(plays)를 쓴다.\n(D) X. of 뒤 shoes가 복수라 복수 동사를 쓴다. 교정: are\n(E) O. of 뒤 people이 복수라 복수 동사(agree)를 쓴다.\n정답 판단: 옳은 문장은 (A), (C), (E)이고, 이 문장들로만 묶인 보기가 정답이다.\n선택지 분석:\n① [오답] (B)는 옳은 문장이 아니고, 옳은 문장 (C), (E)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (A), (E)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (B)는 옳은 문장이 아니고, 옳은 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 (A), (C), (E)를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다."
+  }
+ },
+ "prior_review": {}
+}

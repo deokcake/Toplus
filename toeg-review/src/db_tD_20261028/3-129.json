@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T18:31:41.209Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Unless Tom calling me, I won't know the answer.",
+      "1": "Unless Tom doesn't call me, I won't know the answer.",
+      "2": "Unless Tom calls me, I will know the answer.",
+      "3": "Unless Tom calls me, I won't know the answer.",
+      "4": "Unless Tom not call me, I will know the answer."
+    },
+    "expl": "핵심 규칙: unless는 if ~ not(~하지 않으면)의 뜻이므로 unless절에 not을 또 쓰지 않고, 주절의 뜻은 그대로 둔다.\n풀이 순서: ① Unless = If ~ not이다. if절의 부정(doesn't)을 지우고 If를 Unless로 바꾼다. → ② unless절은 Unless Tom calls가 된다. doesn't가 빠지면서 동사에 -s가 붙는다. → ③ 주절(I won't know)은 그대로 둔다. 정답은 ④.\n문장별 판정:\n정답 판단: If ~ not을 Unless로 바꾸고 주절은 그대로 두었으므로 정답은 ④이다.\n선택지 분석:\n① [오답] unless절에 동사가 없이 -ing형만 썼으므로 오답이다.\n② [오답] unless에 not의 뜻이 있어 not(doesn't)을 또 쓰면 안 되므로 오답이다.\n③ [오답] 주절의 뜻을 반대로 뒤집었으므로 오답이다.\n④ [정답] If ~ not을 Unless로 바꾸고 주절은 그대로 두었으므로 정답이다.\n⑤ [오답] unless절에 not을 남겼고 주절의 뜻도 뒤집었으므로 오답이다.",
+    "passage": "If Tom doesn't call me, I won't know the answer.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:31:32.219Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:31:41.209Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:31:41.209Z",
+      "what": "확인 완료"
+    }
+  }
+}

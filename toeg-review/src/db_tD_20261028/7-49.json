@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T03:43:33.229Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Is that an cars?",
+      "1": "Are that cars?",
+      "2": "Is those a car?",
+      "3": null,
+      "4": "Is that a cars?"
+    },
+    "expl": "핵심 규칙: 지시어와 be동사, 명사의 수를 함께 맞춘다. this/that + is + a/an + 단수 명사, these/those + are + 복수 명사로 쓰고, a/an은 첫소리로 정한다.\n풀이 순서: ① <보기>에서 서로 맞지 않는 곳을 찾는다: 자음 소리로 시작하는 car 앞에 an을 썼다. → ② 지시대명사·be동사·관사·명사의 수를 하나로 맞추면 Is that a car? → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 자음 소리로 시작하는 car 앞에 a를 바르게 고쳤으므로 정답은 ④이다.\n선택지 분석:\n① [오답] car는 자음 소리로 시작해 a를 쓰고 한 대라 단수 car를 쓰므로 오답이다.\n② [오답] that은 한 개를 가리켜 Are, 복수 명사와 함께 쓸 수 없으므로 오답이다.\n③ [오답] 한 대를 가리키고, those가 아니라 that을 쓰므로 오답이다.\n④ [정답] 자음 소리로 시작하는 car 앞에 a를 바르게 고쳤으므로 정답이다.\n⑤ [오답] a 뒤에는 단수 명사 car를 써야 하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 <보기>의 문장을 바르게 고쳐 쓴 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T03:43:31.430Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T03:43:33.230Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:43:33.230Z",
+      "what": "확인 완료"
+    }
+  }
+}

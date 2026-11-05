@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T08:21:24.626Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": 5,
+    "c": {
+      "0": "They cannot enter now.",
+      "1": "Jane can be patient.",
+      "2": "I can carry this box.",
+      "3": "We can wait outside.",
+      "4": "Tom can is a good swimmer."
+    },
+    "expl": "핵심 규칙: can, can't, cannot 뒤에는 동사원형을 쓴다(be동사는 be). can에는 -s를 붙이지 않고, 뒤에 -s가 붙은 동사를 쓰지 않는다.\n풀이 순서: ① 문장마다 can/can't/cannot 바로 뒤의 말을 본다. → ② 그 자리에 동사원형이 왔는지, can 자체에 -s가 붙지 않았는지 확인한다. → ③ 선택지 ⑤는 can 뒤에 is를 썼다(원형은 be). 정답은 ⑤.\n문장별 판정:\n정답 판단: can 뒤에는 is가 아니라 원형 be를 써야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] cannot 뒤에 동사원형 enter를 썼으므로 오답이다.\n② [오답] can 뒤에 be동사의 원형 be를 썼으므로 오답이다.\n③ [오답] can 뒤에 동사원형 carry를 썼으므로 오답이다.\n④ [오답] can 뒤에 동사원형 wait를 썼으므로 오답이다.\n⑤ [정답] can 뒤에는 is가 아니라 원형 be를 써야 하므로 정답이다.",
+    "passage": "",
+    "stem": "다음 중 틀린 문장을 고르시오."
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-04T11:57:34.114Z",
+      "text": "보기5번의 난이도가 높음 (to +동사원형 )원문의 문제처럼 동사의 종류가 오류인걸로 바꾸기 "
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T08:21:24.626Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T08:21:23.683Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-04T11:57:34.114Z",
+      "what": "메모 작성"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T08:21:24.626Z",
+      "what": "확인 완료"
+    }
+  }
+}

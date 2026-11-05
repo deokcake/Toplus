@@ -1,0 +1,86 @@
+{
+ "key": "4-20",
+ "grade": 4,
+ "chapter": "CH 2 대명사",
+ "items": {
+  "A": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?",
+   "passage": "(A) Tom and Sarah <u>is</u> good friends.\n(B) Their friendship <u>are</u> very strong.\n(C) Those two <u>are</u> always together.\n(D) Sarah brought <u>her's</u> books.",
+   "c": [
+    "(A), (B)",
+    "(B), (C)",
+    "(A), (C), (D)",
+    "(B), (C), (D)",
+    "(A), (B), (D)"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: A and B는 복수 주어다. 단수 주어에는 단수 동사를 쓴다. 명사 앞에는 소유격(her)을 쓰며 소유대명사에는 '를 붙이지 않는다.\n풀이 순서: ① 밑줄이 동사이면 주어의 수와 맞는지, 대명사이면 자리에 맞는지(명사 앞: 소유격, 명사 없음: 소유대명사) 본다. → ② (A) is(are), (B) are(is), (D) her's(her)가 틀렸다. (C)만 옳다. → ③ 틀린 것을 빠짐없이 고른 (A), (B), (D)가 정답이다.\n문장별 판정: (A) X. 복수 주어 Tom and Sarah에는 are. (B) X. 단수 주어 friendship에는 is. (C) O. Those two + are. (D) X. books 앞에는 소유격 her를 쓴다.\n정답 판단: 틀린 문장 (A), (B), (D)를 모두 골랐으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] (D)가 빠졌으므로 오답이다.\n② [오답] (C)는 옳은 문장이고 (A), (D)가 빠졌으므로 오답이다.\n③ [오답] (C)는 옳은 문장이고 (B)가 빠졌으므로 오답이다.\n④ [오답] (C)는 옳은 문장이고 (A)가 빠졌으므로 오답이다.\n⑤ [정답] 틀린 문장 (A), (B), (D)를 모두 골랐으므로 정답이다."
+  },
+  "B": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?",
+   "passage": "(A) The new scissors on the desk <u>are</u> very sharp.\n(B) This big house near the park is <u>their's</u>.\n(C) The news about the test <u>are</u> really bad.\n(D) We know <u>them</u> from our old school.",
+   "c": [
+    "(A), (B)",
+    "(B), (C)",
+    "(A), (C), (D)",
+    "(B), (C), (D)",
+    "(A), (B), (D)"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 복수 주어에는 복수 동사, 단수 주어에는 단수 동사를 쓴다. 소유대명사에는 '를 붙이지 않고, 명사 없이 ‘~의 것’은 소유대명사로 쓰며, ‘누구의’는 Whose이다.\n풀이 순서: ① 밑줄이 동사이면 주어의 수와 맞는지, 대명사이면 자리에 맞는지(명사 앞: 소유격, 명사 없음: 소유대명사) 본다. → ② (B) their's(theirs), (C) The news are(is)가 틀렸다. (A), (D)는 옳다. → ③ 틀린 것을 빠짐없이 고른 (B), (C)가 정답이다.\n문장별 판정:\n(A) O. scissors는 복수 취급한다.\n(B) X. 명사 없이 ‘그들의 것’은 소유대명사 theirs로 쓴다. 소유대명사에는 '를 붙이지 않는다.\n(C) X. news는 단수 취급해 is를 쓴다.\n(D) O. 목적어 자리에 목적격 them을 썼다.\n정답 판단: 밑줄 친 부분이 틀린 문장은 (B), (C)이다.\n선택지 분석:\n① [오답] (A)는 틀린 문장이 아니고, 틀린 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 틀린 문장 (B), (C)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (A), (D)는 틀린 문장이 아니고, 틀린 문장 (B)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (D)는 틀린 문장이 아니다. 따라서 오답이다.\n⑤ [오답] (A), (D)는 틀린 문장이 아니고, 틀린 문장 (C)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "C": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?",
+   "passage": "(A) Jane and Mike <u>are</u> my cousins from Busan.\n(B) Their house near the beach <u>are</u> very big.\n(C) Those bags on the chair are <u>their</u>.\n(D) This book about dinosaurs is <u>my</u>.",
+   "c": [
+    "(A), (B)",
+    "(B), (C)",
+    "(A), (C), (D)",
+    "(B), (C), (D)",
+    "(A), (B), (D)"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 복수 주어에는 복수 동사, 단수 주어에는 단수 동사를 쓴다. 소유대명사에는 '를 붙이지 않고, 명사 없이 ‘~의 것’은 소유대명사로 쓰며, ‘누구의’는 Whose이다.\n풀이 순서: ① 밑줄이 동사이면 주어의 수와 맞는지, 대명사이면 자리에 맞는지(명사 앞: 소유격, 명사 없음: 소유대명사) 본다. → ② (B) are(is), (C) their(theirs), (D) my(mine)가 틀렸다. (A)는 옳다. → ③ 틀린 것을 빠짐없이 고른 (B), (C), (D)가 정답이다.\n문장별 판정:\n(A) O. 복수 주어에 are를 썼다.\n(B) X. 단수 주어 Their house에는 is를 쓴다.\n(C) X. 명사 없이 ‘그들의 것’은 theirs로 쓴다.\n(D) X. 명사 없이 ‘내 것’은 mine으로 쓴다.\n정답 판단: 밑줄 친 부분이 틀린 문장은 (B), (C), (D)이다.\n선택지 분석:\n① [오답] (A)는 틀린 문장이 아니고, 틀린 문장 (C), (D)를 빠뜨렸다. 따라서 오답이다.\n② [오답] 틀린 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (A)는 틀린 문장이 아니고, 틀린 문장 (B)를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 틀린 문장 (B), (C), (D)를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] (A)는 틀린 문장이 아니고, 틀린 문장 (C)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "D": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?",
+   "passage": "(A) These pants <u>is</u> new, but they are too long.\n(B) The news on TV <u>is</u> good today.\n(C) That red car over there is <u>hers</u>.\n(D) Those books on the shelf are <u>our</u>.",
+   "c": [
+    "(A), (D)",
+    "(B), (C)",
+    "(A), (C), (D)",
+    "(B), (C), (D)",
+    "(A), (B), (D)"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 복수 주어에는 복수 동사, 단수 주어에는 단수 동사를 쓴다. 소유대명사에는 '를 붙이지 않고, 명사 없이 ‘~의 것’은 소유대명사로 쓰며, ‘누구의’는 Whose이다.\n풀이 순서: ① 밑줄이 동사이면 주어의 수와 맞는지, 대명사이면 자리에 맞는지(명사 앞: 소유격, 명사 없음: 소유대명사) 본다. → ② (A) These pants is(are), (D) our(ours)가 틀렸다. → ③ 틀린 것을 빠짐없이 고른 (A), (D)가 정답이다.\n문장별 판정:\n(A) X. pants는 복수 취급해 are를 쓴다.\n(B) O. news는 단수 취급한다.\n(C) O. 명사 없이 ‘그녀의 것’은 hers이다.\n(D) X. 명사 없이 ‘우리 것’은 ours로 쓴다.\n정답 판단: 밑줄 친 부분이 틀린 문장은 (A), (D)이다.\n선택지 분석:\n① [정답] 틀린 문장 (A), (D)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (B), (C)는 틀린 문장이 아니고, 틀린 문장 (A), (D)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (C)는 틀린 문장이 아니다. 따라서 오답이다.\n④ [오답] (B), (C)는 틀린 문장이 아니고, 틀린 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (B)는 틀린 문장이 아니다. 따라서 오답이다."
+  },
+  "E": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?",
+   "passage": "(A) Jane and I <u>am</u> good friends from kindergarten.\n(B) This bag with the blue ribbon is <u>mine</u>.\n(C) <u>Who's</u> shoes are these by the door?\n(D) The police <u>are</u> here to help the lost child.",
+   "c": [
+    "(A), (B)",
+    "(A), (C)",
+    "(B), (C), (D)",
+    "(A), (C), (D)",
+    "(A), (B), (D)"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 복수 주어에는 복수 동사, 단수 주어에는 단수 동사를 쓴다. 소유대명사에는 '를 붙이지 않고, 명사 없이 ‘~의 것’은 소유대명사로 쓰며, ‘누구의’는 Whose이다.\n풀이 순서: ① 밑줄이 동사이면 주어의 수와 맞는지, 대명사이면 자리에 맞는지(명사 앞: 소유격, 명사 없음: 소유대명사) 본다. → ② (A) Jane and I am(are), (C) Who's(Whose)가 틀렸다. (B), (D)는 옳다. → ③ 틀린 것을 빠짐없이 고른 (A), (C)가 정답이다.\n문장별 판정:\n(A) X. 복수 주어 Jane and I에는 are를 쓴다.\n(B) O. 명사 없이 ‘내 것’은 mine이다.\n(C) X. ‘누구의’는 Whose로 쓴다.\n(D) O. police는 복수 취급한다.\n정답 판단: 밑줄 친 부분이 틀린 문장은 (A), (C)이다.\n선택지 분석:\n① [오답] (B)는 틀린 문장이 아니고, 틀린 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 틀린 문장 (A), (C)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (B), (D)는 틀린 문장이 아니고, 틀린 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (D)는 틀린 문장이 아니다. 따라서 오답이다.\n⑤ [오답] (B), (D)는 틀린 문장이 아니고, 틀린 문장 (C)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "F": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?",
+   "passage": "(A) The children <u>is</u> in the playground after lunch.\n(B) Their room on the second floor <u>is</u> big.\n(C) This bike with the basket is <u>her's</u>.\n(D) Those books on the table are <u>my</u>.",
+   "c": [
+    "(A), (C)",
+    "(B), (D)",
+    "(A), (C), (D)",
+    "(B), (C), (D)",
+    "(A), (B), (D)"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 복수 주어에는 복수 동사, 단수 주어에는 단수 동사를 쓴다. 소유대명사에는 '를 붙이지 않고, 명사 없이 ‘~의 것’은 소유대명사로 쓰며, ‘누구의’는 Whose이다.\n풀이 순서: ① 밑줄이 동사이면 주어의 수와 맞는지, 대명사이면 자리에 맞는지(명사 앞: 소유격, 명사 없음: 소유대명사) 본다. → ② (A) The children is(are), (C) her's(hers), (D) my(mine)가 틀렸다. (B)는 옳다. → ③ 틀린 것을 빠짐없이 고른 (A), (C), (D)가 정답이다.\n문장별 판정:\n(A) X. 복수 주어 The children에는 are를 쓴다.\n(B) O. 단수 주어 Their room에 is를 썼다.\n(C) X. 소유대명사 hers에는 '를 붙이지 않는다.\n(D) X. 명사 없이 ‘내 것’은 mine으로 쓴다.\n정답 판단: 밑줄 친 부분이 틀린 문장은 (A), (C), (D)이다.\n선택지 분석:\n① [오답] 틀린 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (B)는 틀린 문장이 아니고, 틀린 문장 (A), (C)를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 틀린 문장 (A), (C), (D)를 빠짐없이 골랐으므로 정답이다.\n④ [오답] (B)는 틀린 문장이 아니고, 틀린 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (B)는 틀린 문장이 아니고, 틀린 문장 (C)를 빠뜨렸다. 따라서 오답이다."
+  }
+ },
+ "prior_review": {}
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T05:37:10.994Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": "do you",
+      "3": "don't you",
+      "4": "were you"
+    },
+    "expl": "핵심 규칙: 부가의문문은 앞 문장이 긍정이면 부정, 부정이면 긍정으로 쓰고, 앞 문장의 동사(be동사·조동사·do/does/did)와 시제에 맞추며 주어는 대명사로 받는다.\n풀이 순서: ① 앞 문장의 동사를 본다: be동사 aren't이므로 are로 받는다. → ② 앞 문장이 부정이므로 긍정형 are를 쓴다. → ③ 주어는 대명사로 받는다. 정답은 are you.\n문장별 판정:\n정답 판단: 부정문의 be동사 aren't에 맞춰 긍정 are you로 쓰므로 정답은 ①이다.\n선택지 분석:\n① [정답] 부정문의 be동사 aren't에 맞춰 긍정 are you로 쓰므로 정답이다.\n② [오답] 부정문 뒤에는 긍정의 부가의문문을 쓰므로 오답이다.\n③ [오답] be동사 문장이라 do로 받을 수 없으므로 오답이다.\n④ [오답] be동사 문장이라 do로 받을 수 없고 부정형이기도 하므로 오답이다.\n⑤ [오답] 현재 시제 aren't를 과거 were로 받을 수 없으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 문장의 빈칸에 들어갈 알맞은 부가의문문을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T05:37:06.069Z"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:37:10.994Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:37:10.994Z",
+      "what": "확인 완료"
+    }
+  }
+}

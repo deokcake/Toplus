@@ -1,0 +1,86 @@
+{
+ "key": "6-7",
+ "grade": 6,
+ "chapter": "CH 1 명사와 관사",
+ "items": {
+  "A": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르세요.",
+   "passage": "나는 매일 우유를 마신다.",
+   "c": [
+    "I drink a milk every day.",
+    "I drink milk every day.",
+    "I drink an milk every day.",
+    "I drink milks every day.",
+    "I was drink milk every day."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: milk, water, bread, rice 같은 물질 명사는 셀 수 없으므로 a/an을 붙이지 않고 복수형으로도 쓰지 않는다.\n풀이 순서: ① 우리말의 목적어(우유 milk)는 셀 수 없는 명사다. a/an이나 -s가 붙은 문장을 지운다. → ② 남은 문장에서 동사의 형태(주어와의 일치, be동사를 겹쳐 쓰지 않았는지)를 본다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: milk를 관사 없이 단수형으로 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 셀 수 없는 명사 milk 앞에 a를 쓰지 않으므로 오답이다.\n② [정답] milk를 관사 없이 단수형으로 바르게 썼으므로 정답이다.\n③ [오답] milk는 자음 소리로 시작하고 셀 수도 없으므로 오답이다.\n④ [오답] 셀 수 없는 명사는 복수형으로 쓰지 않으므로 오답이다.\n⑤ [오답] was와 일반동사 drink를 함께 쓸 수 없으므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르세요.",
+   "passage": "우리는 점심에 밥을 먹는다.",
+   "c": [
+    "We eat rices for lunch.",
+    "We eats rice for lunch.",
+    "We eat a rice for lunch.",
+    "We are eat rice for lunch.",
+    "We eat rice for lunch."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 반복되는 습관은 일반동사 현재형으로 나타낸다. 불가산명사에는 일반적인 물질의 뜻에서 a/an이나 복수형을 쓰지 않는다.\n풀이 순서: ① 우리말의 목적어(밥 rice)는 셀 수 없는 명사다. a/an이나 -s가 붙은 문장을 지운다. → ② 남은 문장에서 동사의 형태(주어와의 일치, be동사를 겹쳐 쓰지 않았는지)를 본다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: We eat rice for lunch. 일반동사 현재형으로 습관을 나타내고 물질·음악 명사를 이 문맥에 맞게 불가산 용법으로 썼다. 따라서 정답은 ⑤이다.\n선택지 분석:\n① [오답] rice는 여기서 종류를 세는 뜻이 아니므로 rices가 아니라 rice로 쓴다.\n② [오답] 주어 We에는 3인칭 단수형 eats가 아니라 eat을 쓴다.\n③ [오답] rice는 이 문맥에서 불가산명사이므로 a/an을 바로 붙이지 않는다.\n④ [오답] 일반동사 현재형 eat 앞에 are를 붙이지 않는다.\n⑤ [정답] We eat rice for lunch. 일반동사 현재형으로 습관을 나타내고 물질·음악 명사를 이 문맥에 맞게 불가산 용법으로 썼다."
+  },
+  "C": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르세요.",
+   "passage": "그녀는 매일 빵을 먹는다.",
+   "c": [
+    "She eats bread every day.",
+    "She eats a bread every day.",
+    "She eats breads every day.",
+    "She eat bread every day.",
+    "She is eat bread every day."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 반복되는 습관은 일반동사 현재형으로 나타낸다. 불가산명사에는 일반적인 물질의 뜻에서 a/an이나 복수형을 쓰지 않는다.\n풀이 순서: ① 우리말의 목적어(빵 bread)는 셀 수 없는 명사다. a/an이나 -s가 붙은 문장을 지운다. → ② 남은 문장에서 동사의 형태(주어와의 일치, be동사를 겹쳐 쓰지 않았는지)를 본다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: She eats bread every day. 일반동사 현재형으로 습관을 나타내고 물질·음악 명사를 이 문맥에 맞게 불가산 용법으로 썼다. 따라서 정답은 ①이다.\n선택지 분석:\n① [정답] She eats bread every day. 일반동사 현재형으로 습관을 나타내고 물질·음악 명사를 이 문맥에 맞게 불가산 용법으로 썼다.\n② [오답] bread는 이 문맥에서 불가산명사이므로 a/an을 바로 붙이지 않는다.\n③ [오답] bread는 여기서 종류를 세는 뜻이 아니므로 breads가 아니라 bread로 쓴다.\n④ [오답] 주어 She는 3인칭 단수이므로 eats를 쓴다.\n⑤ [오답] 일반동사 현재형은 She eats이다. is와 원형 eat을 함께 쓰지 않는다."
+  },
+  "D": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르세요.",
+   "passage": "나는 아침마다 물을 마신다.",
+   "c": [
+    "I drink water every morning.",
+    "I am drink water every morning.",
+    "I drink waters every morning.",
+    "I drinks water every morning.",
+    "I drink a water every morning."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 반복되는 습관은 일반동사 현재형으로 나타낸다. 불가산명사에는 일반적인 물질의 뜻에서 a/an이나 복수형을 쓰지 않는다.\n풀이 순서: ① 우리말의 목적어(물 water)는 셀 수 없는 명사다. a/an이나 -s가 붙은 문장을 지운다. → ② 남은 문장에서 동사의 형태(주어와의 일치, be동사를 겹쳐 쓰지 않았는지)를 본다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: I drink water every morning. 일반동사 현재형으로 습관을 나타내고 물질·음악 명사를 이 문맥에 맞게 불가산 용법으로 썼다. 따라서 정답은 ①이다.\n선택지 분석:\n① [정답] I drink water every morning. 일반동사 현재형으로 습관을 나타내고 물질·음악 명사를 이 문맥에 맞게 불가산 용법으로 썼다.\n② [오답] 일반동사 현재형 drink 앞에 am을 붙이지 않는다.\n③ [오답] water는 여기서 종류를 세는 뜻이 아니므로 waters가 아니라 water로 쓴다.\n④ [오답] 주어 I에는 원형 drink를 쓴다.\n⑤ [오답] water는 이 문맥에서 불가산명사이므로 a/an을 바로 붙이지 않는다."
+  },
+  "E": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르세요.",
+   "passage": "우리는 매일 아침 주스를 마신다.",
+   "c": [
+    "We drink a juice every morning.",
+    "We drink juice every morning.",
+    "We drinks juice every morning.",
+    "We drink juices every morning.",
+    "We are drink juice every morning."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 반복되는 습관은 일반동사 현재형으로 나타낸다. 불가산명사에는 일반적인 물질의 뜻에서 a/an이나 복수형을 쓰지 않는다.\n풀이 순서: ① 우리말의 목적어(주스 juice)는 셀 수 없는 명사다. a/an이나 -s가 붙은 문장을 지운다. → ② 남은 문장에서 동사의 형태(주어와의 일치, be동사를 겹쳐 쓰지 않았는지)를 본다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: juice를 셀 수 없는 명사로 쓰고 주어 We에 맞게 drink를 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 셀 수 없는 명사 juice 앞에 a를 쓰지 않으므로 오답이다.\n② [정답] juice를 셀 수 없는 명사로 쓰고 주어 We에 맞게 drink를 바르게 썼으므로 정답이다.\n③ [오답] 주어 We에는 drinks가 아니라 drink를 쓰므로 오답이다.\n④ [오답] 셀 수 없는 명사 juice에는 복수형을 쓰지 않으므로 오답이다.\n⑤ [오답] 일반동사 drink 앞에 be동사 are를 함께 쓸 수 없으므로 오답이다."
+  },
+  "F": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르세요.",
+   "passage": "Mina는 매일 음악을 듣는다.",
+   "c": [
+    "Mina listens a music every day.",
+    "Mina listen to music every day.",
+    "Mina is listen to music every day.",
+    "Mina listens to music every day.",
+    "Mina listens to musics every day."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 반복되는 습관은 일반동사 현재형으로 나타낸다. 불가산명사에는 일반적인 물질의 뜻에서 a/an이나 복수형을 쓰지 않는다.\n풀이 순서: ① 우리말의 목적어(음악 music)는 셀 수 없는 명사다. a/an이나 -s가 붙은 문장을 지운다. → ② 남은 문장에서 동사의 형태(주어와의 일치, be동사를 겹쳐 쓰지 않았는지)를 본다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: Mina listens to music every day. 일반동사 현재형으로 습관을 나타내고 물질·음악 명사를 이 문맥에 맞게 불가산 용법으로 썼다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] music은 이 문맥에서 불가산명사이므로 a/an을 바로 붙이지 않는다. 음악을 듣는다는 뜻의 listen은 목적어 앞에 to가 필요하다.\n② [오답] 주어 Mina는 3인칭 단수이므로 listens를 쓴다.\n③ [오답] 습관을 나타내는 현재형은 Mina listens to이다. is와 원형 listen을 함께 쓰지 않는다.\n④ [정답] Mina listens to music every day. 일반동사 현재형으로 습관을 나타내고 물질·음악 명사를 이 문맥에 맞게 불가산 용법으로 썼다.\n⑤ [오답] music은 여기서 종류를 세는 뜻이 아니므로 musics가 아니라 music으로 쓴다."
+  }
+ },
+ "prior_review": {}
+}

@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T07:48:54.123Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": 5,
+    "c": {
+      "0": "①",
+      "1": "②",
+      "2": "③",
+      "3": "④",
+      "4": "⑤"
+    },
+    "expl": "핵심 규칙: 형용사는 보통 꾸미는 명사 바로 앞에 오지만, something·someone처럼 -thing·-one으로 끝나는 대명사는 형용사가 뒤에서 꾸민다.\n풀이 순서: ① 우리말에서 형용사가 꾸미는 말을 찾는다: ‘따뜻한 것’. → ② 영어 문장에서 그 말은 something이다. -thing으로 끝나는 대명사는 형용사가 바로 뒤에서 꾸민다(something warm). → ③ 정답은 something 바로 뒤의 번호인 ⑤이다.\n문장별 판정:\n정답 판단: -thing 대명사 something은 형용사가 뒤에서 꾸미고, something 바로 뒤(to eat 앞)에 와야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] Please 앞 자리는 형용사가 꾸밀 말과 맞지 않는 위치이므로 오답이다.\n② [오답] give 앞 자리는 형용사가 꾸밀 말과 맞지 않는 위치이므로 오답이다.\n③ [오답] me 앞 자리는 형용사가 꾸밀 말과 맞지 않는 위치이므로 오답이다.\n④ [오답] something 앞 자리는 형용사가 꾸밀 말과 맞지 않는 위치이므로 오답이다.\n⑤ [정답] -thing 대명사 something은 형용사가 뒤에서 꾸미고, something 바로 뒤(to eat 앞)에 와야 하므로 정답이다.",
+    "passage": "나에게 먹을 따뜻한 것을 좀 줘.\n① Please ② give ③ me ④ something ⑤ to eat.",
+    "stem": "다음 중 warm이 들어갈 위치를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:04:11.953Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:05:02.906Z",
+      "text": "기준 문항과 변형 문항의 형식에 오류가 있음. 명화한 지문을 제시하고 그 사이에 선택지 번호를 배열하여 문항 오류를 수정해야 함."
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T07:48:59.018Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T07:48:59.018Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T07:48:59.018Z",
+      "what": "판정을 Claude 판정으로 되돌림"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T17:03:21.769Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "out of - among - across",
+      "1": "at - across - among",
+      "2": "out of - to - among",
+      "3": null,
+      "4": "under - across - to"
+    },
+    "expl": "핵심 규칙: 이동 전치사는 out of(밖으로), into(안으로), across(가로질러), along(따라), over(넘어), up/down(위로/아래로), under(아래로), between(둘 사이), among(여럿 사이)을 구별한다. 세 자리가 모두 문장의 뜻과 맞아야 한다.\n풀이 순서: ① 동사와 장소를 짝지어 움직임을 그려 본다. → ② 새장 ‘밖으로’ 날아(out of), 마당을 ‘가로질러’ 지나(across), 여러 나무 ‘사이로’ 사라졌다(셋 이상이므로 among). → ③ 순서대로 out of - across - among이다.\n문장별 판정:\n정답 판단: 새장 ‘밖으로’ out of, 마당을 ‘가로질러’ across, 여러 나무 ‘사이로’ among이다.\n선택지 분석:\n① [오답] 둘째 빈칸 among: 마당은 여럿이 아니므로 among을 쓸 수 없다. 셋째 빈칸 across: 나무들 ‘을 가로질러’ 사라진다는 뜻은 통하지 않는다. 따라서 오답이다.\n② [오답] 첫째 빈칸 at: 새장 ‘을 향해’ 날아서는 새장에서 빠져나가는 뜻이 되지 않는다. 따라서 오답이다.\n③ [오답] 둘째 빈칸 to: 마당을 ‘지나간다(passed)’는 뜻에 to는 맞지 않는다. 따라서 오답이다.\n④ [정답] out of - across - among: 모든 자리가 알맞으므로 정답이다.\n⑤ [오답] 첫째 빈칸 under: 새장 ‘아래로’ 날아간다는 뜻은 뒤의 흐름과 맞지 않는다. 셋째 빈칸 to: disappeared to the trees라는 표현은 쓰지 않는다. 따라서 오답이다.",
+    "passage": "The bird flew ________ the cage, passed ________ the yard, and disappeared ________ the trees.",
+    "stem": "다음 문장의 빈칸에 들어갈 전치사가 순서대로 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T17:03:08.652Z"
+  },
+  "tab": "8s1sfi09",
+  "updatedAt": "2026-10-23T17:03:21.769Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T17:03:21.769Z",
+      "what": "확인 완료"
+    }
+  }
+}

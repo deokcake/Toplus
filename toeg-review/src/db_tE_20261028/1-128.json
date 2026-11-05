@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:20:11.634Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "stands - is",
+      "1": "are - are",
+      "2": "is - are",
+      "3": "is - is",
+      "4": "are - is"
+    },
+    "expl": "핵심 규칙: 장소의 부사구가 문장 앞에 오면 ‘부사구 + 동사 + 주어’로 도치하고, 동사는 뒤에 오는 주어에 수를 맞춘다. There is/are도 뒤의 주어에 수를 맞춘다.\n풀이 순서: ① 두 문장 모두 주어가 동사 뒤에 있다. 빈칸 뒤에서 진짜 주어를 찾는다. → ② 첫째 문장의 주어(a small cafe - 단수)와 둘째 문장의 주어(several cars - 복수)의 수를 가른다. → ③ 순서대로 맞춘 is - are를 고른다.\n문장별 판정:\n정답 판단: a small cafe는 단수라 is, several cars는 복수라 are가 알맞으므로 정답은 ③이다.\n선택지 분석:\n① [오답] several cars는 복수라 둘째 빈칸에 is를 쓸 수 없으므로 오답이다.\n② [오답] a small cafe는 단수라 첫째 빈칸에 are를 쓸 수 없으므로 오답이다.\n③ [정답] a small cafe는 단수라 is, several cars는 복수라 are가 알맞으므로 정답이다.\n④ [오답] several cars는 복수라 둘째 빈칸에 is를 쓸 수 없으므로 오답이다.\n⑤ [오답] 두 빈칸의 수가 서로 바뀌었으므로 오답이다.",
+    "passage": "- At the end of this narrow road ________ a small cafe.\n- There ________ several cars parked outside the cafe.",
+    "stem": "다음 문장의 빈칸에 들어갈 말이 순서대로 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:59:03.675Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:59:08.786Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:20:11.634Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:20:04.971Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:20:11.634Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T07:11:24.627Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "There being no seats left, we stood.",
+      "1": "Being no seats left, we stood.",
+      "2": "The bus having leave, we took a taxi.",
+      "3": "It raining heavily and we stayed home.",
+      "4": "Having no money left, the trip was canceled."
+    },
+    "expl": "핵심 규칙: 주절과 주어가 다른 분사구문(독립분사구문)은 의미상 주어를 분사 앞에 밝혀 쓴다. 완료형은 having + 과거분사, 완료 수동은 having been + 과거분사이며, 분사구문 뒤에 so 같은 접속사를 붙이지 않는다.\n풀이 순서: ① 분사구문의 형태를 본다: 분사(-ing·과거분사)가 있어야 하고, 주절과 다른 주어는 분사 바로 앞에 밝힌다(‘주어 + 분사 ~, 주절’). → ② 분사의 모양이 틀렸거나, 분사구문 뒤에 접속사(so, and, but)를 붙였거나, 주어의 자리가 틀린 보기를 지운다. → ③ 남는 ①은 There being ~으로 ‘~이 있어서’를 나타내는 독립분사구문을 바르게 썼다.\n문장별 판정:\n정답 판단: 주절과 다른 주어 There를 밝힌 독립분사구문이다. 분사구문의 쓰임이 바르므로 정답은 ①이다.\n선택지 분석:\n① [정답] 주절과 다른 주어 There를 밝힌 독립분사구문이다. 분사구문의 쓰임이 바르므로 정답이다.\n② [오답] there를 빼서 의미상 주어가 없어졌다. 오답이다.\n③ [오답] having 뒤에는 과거분사 left가 와야 한다. 오답이다.\n④ [오답] 분사구문 뒤에 and를 붙였다. 오답이다.\n⑤ [오답] 돈이 없는 사람과 주절 주어 the trip이 달라 주어를 밝혀야 한다. 오답이다.",
+    "passage": "",
+    "stem": "다음 중 분사구문의 쓰임이 어법상 옳은 문장을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T07:11:06.897Z"
+  },
+  "tab": "sj53vmnt",
+  "updatedAt": "2026-10-23T07:11:24.627Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T07:11:24.627Z",
+      "what": "확인 완료"
+    }
+  }
+}

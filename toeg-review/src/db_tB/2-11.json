@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T05:49:47.100Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "ran into — haven't talked to",
+      "1": "ran into — didn't talk to",
+      "2": "ran into — don't talk to",
+      "3": "have run into — haven't talked to",
+      "4": "have run into — didn't talk to"
+    },
+    "expl": "핵심 규칙: yesterday, last ~처럼 끝난 과거 시점에는 과거형을 쓰고, since ~, for ~ now처럼 과거부터 지금까지 이어지는 기간에는 현재완료(have/has + 과거분사)를 쓴다.\n풀이 순서: ① 첫째 빈칸 문장의 시간 표현(last Monday)은 끝난 과거 시점이다. 과거형(ran into)을 쓰고 현재완료는 쓸 수 없다. → ② 둘째 빈칸 문장의 시간 표현(since last winter)은 과거부터 지금까지 이어지는 기간이다. 현재완료(haven't talked to)를 쓴다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: last Monday에는 과거형(ran into), since last winter에는 현재완료(haven't talked to)를 쓰므로 정답은 ①이다.\n선택지 분석:\n① [정답] last Monday에는 과거형(ran into), since last winter에는 현재완료(haven't talked to)를 쓰므로 정답이다.\n② [오답] 지금까지 이어지는 기간(since last winter)에는 didn't talk to가 아니라 현재완료를 써야 하므로 오답이다.\n③ [오답] 지금까지 이어지는 기간(since last winter)에는 don't talk to가 아니라 현재완료를 써야 하므로 오답이다.\n④ [오답] 끝난 과거 시점(last Monday)과 현재완료(have run into)를 함께 쓸 수 없으므로 오답이다.\n⑤ [오답] 두 빈칸 모두 시제가 맞지 않으므로 오답이다.",
+    "passage": "A: I _____ Jisoo at the library last Monday.\nB: Really? I _____ her since last winter.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T05:49:36.133Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T05:49:47.100Z",
+      "what": "확인 완료"
+    }
+  }
+}

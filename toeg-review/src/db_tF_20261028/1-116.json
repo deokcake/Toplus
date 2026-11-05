@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T08:51:19.484Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "have",
+      "1": "were",
+      "2": "is",
+      "3": "are",
+      "4": "be"
+    },
+    "expl": "핵심 규칙: the number of + 복수명사는 “~의 수”라는 단수 개념이므로 동사는 the number에 맞춰 단수형을 쓴다. 뒤의 복수명사에 동사를 일치시키지 않는다.\n풀이 순서: ① 주어가 The number of ~로 시작한다. ‘~의 수’라는 뜻이므로 주어의 중심은 The number다. → ② 주어 안의 복수명사(complaints)에 끌리지 않고 단수 동사를 고른다. → ③ 빈칸 뒤에 -ing형(falling)이 있으므로 be동사 is가 들어간다. 정답은 ③.\n문장별 판정:\n정답 판단: The number of complaints의 중심어 The number가 단수이므로 is가 정답이다.\n선택지 분석:\n① [오답] 주어의 중심은 The number이라는 단수 표현이므로 have는 현재 문장의 수·형태와 맞지 않는다.\n② [오답] 주어의 중심은 The number이라는 단수 표현이므로 were는 현재 문장의 수·형태와 맞지 않는다.\n③ [정답] 주어의 중심은 복수명사 complaints가 아니라 The number이므로 단수동사 is가 맞다.\n④ [오답] 주어의 중심은 The number이라는 단수 표현이므로 are는 현재 문장의 수·형태와 맞지 않는다.\n⑤ [오답] 주어의 중심은 The number이라는 단수 표현이므로 be는 현재 문장의 수·형태와 맞지 않는다.",
+    "passage": "The number of complaints from our customers ________ falling every month.",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것은?"
+  },
+  "tab": "6l39qm2m",
+  "updatedAt": "2026-10-26T08:51:19.484Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T08:51:19.484Z",
+      "what": "확인 완료"
+    }
+  }
+}

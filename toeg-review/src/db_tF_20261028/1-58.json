@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T06:46:30.929Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "The gate prevents children runs from onto the road.",
+      "1": "The gate prevents children from running onto the road.",
+      "2": "The gate prevents from running children onto the road.",
+      "3": "The gate prevents children from ran onto the road.",
+      "4": "The gate prevents children running from onto the road."
+    },
+    "expl": "핵심 규칙: prevent + 목적어 + from + 동명사는 ‘(목적어)가 ~하지 못하게 하다’라는 뜻이다. from 바로 뒤에 동명사를 둔다.\n풀이 순서: ① 낱말에 prevent와 from이 있으므로 ‘prevent + 목적어 + from + -ing’ 틀을 떠올린다. → ② 우리말에서 하지 못하게 되는 대상(children)을 목적어로, 하지 못하게 되는 행동(run onto the road)을 from 뒤에 둔다. from 뒤이므로 동사를 -ing형(running)으로 바꾼다. → ③ 완성하면 The gate prevents children from running onto the road.\n문장별 판정:\n정답 판단: prevent + children + from + running의 어순과 형태가 바르므로 정답은 ②이다.\n선택지 분석:\n① [오답] from이 동사 뒤에 왔고 run을 runs로 바꿔 동명사도 아니므로 오답이다.\n② [정답] prevent + children + from + running의 어순과 형태가 바르므로 정답이다.\n③ [오답] 목적어 children이 from running 뒤로 가서 어순이 틀렸으므로 오답이다.\n④ [오답] from 뒤에는 동명사 running을 써야 하는데 과거형 ran을 썼으므로 오답이다.\n⑤ [오답] from이 running 뒤에 와서 어순이 틀렸으므로 오답이다.",
+    "passage": "안전문은 아이들이 도로로 뛰어가지 못하게 한다.\n(prevents / from / children / run / onto the road / the gate)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성할 때, 가장 알맞은 것을 고르시오. (단, 주어진 단어 중 한 단어의 형태를 알맞게 바꾸어 사용할 것.)"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T06:46:26.470Z"
+  },
+  "tab": "ij7ic6nx",
+  "updatedAt": "2026-10-26T06:46:30.929Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:46:30.929Z",
+      "what": "확인 완료"
+    }
+  }
+}

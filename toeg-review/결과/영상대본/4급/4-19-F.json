@@ -1,0 +1,173 @@
+{
+ "key": "4-19",
+ "type": "F",
+ "grade": 4,
+ "chapter": "CH 2 대명사",
+ "title": "복수 취급하는 police와 대명사",
+ "total_sec": 130,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "4급 · CH 2 대명사 · 19번 · F 유형\n\n이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 2 대명사 · 19번 · F 유형",
+     "이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 2, 19번 F 유형. 이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요.",
+   "caption": "복수 취급하는 police"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?\n\nThe police ①<u>are</u> ②<u>here</u> now. I called ③<u>it</u> ten ④<u>minutes</u> ⑤<u>ago</u>.\n\n① are\n② here\n③ it\n④ minutes\n⑤ ago",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?",
+     "The police ①<u>are</u> ②<u>here</u> now. I called ③<u>it</u> ten ④<u>minutes</u> ⑤<u>ago</u>.",
+     "① are",
+     "② here",
+     "③ it",
+     "④ minutes",
+     "⑤ ago"
+    ]
+   },
+   "narration": "다음 문장의 밑줄 친 부분 중 어법상 틀린 것을 고르세요. The police are here now. I called it ten minutes ago. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\n대명사는 가리키는 명사의 수에 맞춰요.\n단수인 물건 → it   복수 → 주어 자리 they, 목적어 자리 them\npolice(경찰)는 s로 끝나지 않아도 늘 복수 취급 → are, they, them\n예) The police are near the bank. I can see them. (경찰이 은행 근처에 있어요. 나는 경찰을 볼 수 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "대명사는 가리키는 명사의 수에 맞춰요.",
+     "단수인 물건 → it   복수 → 주어 자리 they, 목적어 자리 them",
+     "police(경찰)는 s로 끝나지 않아도 늘 복수 취급 → are, they, them",
+     "예) The police are near the bank. I can see them. (경찰이 은행 근처에 있어요. 나는 경찰을 볼 수 있어요.)"
+    ]
+   },
+   "narration": "대명사는 가리키는 명사의 수에 맞춰요. 단수인 물건은 it으로 받고, 복수는 주어 자리에서 they, 목적어 자리에서 them으로 받아요. 경찰 police는 s로 끝나지 않지만 늘 복수 취급해서, be동사는 are, 대명사는 they나 them을 써요. 예를 들어 The police are near the bank, 경찰이 은행 근처에 있어요. I can see them, 나는 경찰을 볼 수 있어요.",
+   "caption": "police는 복수 취급"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?\n\nThe police ①<u>are</u> ②<u>here</u> now. I called ③<u>it</u> ten ④<u>minutes</u> ⑤<u>ago</u>.\n\n① are\n② here\n③ it\n④ minutes\n⑤ ago",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "③<u>it</u>",
+       "The police"
+      ],
+      "strike": [],
+      "note": "밑줄 친 it이 가리키는 것 = 앞 문장의 The police(경찰)"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "③ it"
+      ],
+      "strike": [],
+      "note": "police는 복수 취급, called 뒤 목적어 자리 → them: I called them ten minutes ago."
+     },
+     {
+      "step": 3,
+      "highlight": [],
+      "strike": [
+       "① are"
+      ],
+      "note": "앞 문장의 are도 복수 취급하는 police에 맞다 → 틀린 것은 it"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 밑줄 친 it이 가리키는 것을 앞 문장에서 찾으면, 내가 십 분 전에 부른 The police, 경찰이에요. 둘째, police는 복수 취급하니, called 뒤의 목적어 자리에는 it이 아니라 them을 써요. I called them ten minutes ago, 나는 십 분 전에 경찰을 불렀어요. 셋째, 앞 문장의 are도 복수 취급하는 police에 맞으니, 틀린 것은 3번 it이에요.",
+   "caption": "it → The police → them"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 22,
+   "screen": {
+    "text": "① are  ✗  복수 취급하는 police에 맞는 are\n② here  ✗  ‘여기에’를 뜻하는 부사 here\n③ it  ✓  복수 취급하는 police → them으로 고쳐요\n④ minutes  ✗  ten 뒤라 복수형 minutes\n⑤ ago  ✗  ‘~ 전에’, 과거형 called와 함께 써요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① are  ✗  복수 취급하는 police에 맞는 are",
+     "② here  ✗  ‘여기에’를 뜻하는 부사 here",
+     "③ it  ✓  복수 취급하는 police → them으로 고쳐요",
+     "④ minutes  ✗  ten 뒤라 복수형 minutes",
+     "⑤ ago  ✗  ‘~ 전에’, 과거형 called와 함께 써요"
+    ]
+   },
+   "narration": "정답은 3번 it이에요. police는 복수 취급하니 them으로 고쳐야 해요. 4번 minutes는 ten 뒤라서 복수형이 맞아요. 5번 ago는 전에라는 뜻이라 과거형 called와 함께 써요.",
+   "caption": "정답 ③ it → them"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ it\n\npolice → 늘 복수 취급 → are, they, them",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ it",
+     "police → 늘 복수 취급 → are, they, them"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, police는 늘 복수 취급해서 it이 아니라 they나 them으로 받아요.",
+   "caption": "police → they, them"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?",
+  "passage": "The police ①<u>are</u> ②<u>here</u> now. I called ③<u>it</u> ten ④<u>minutes</u> ⑤<u>ago</u>.",
+  "c": [
+   "are",
+   "here",
+   "it",
+   "minutes",
+   "ago"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: glasses·gloves·pants·shoes처럼 짝을 이루는 물건과 police는 복수 취급해 they/them으로 받는다. news는 단수 취급해 this/it으로 받는다.\n풀이 순서: ① 뒤 문장의 주어와 동사를 맞춰 본다: They is는 수가 맞지 않는다. → ② 앞 문장에서 가리키는 명사를 찾아 어느 쪽이 틀렸는지 정한다: police는 복수 취급하므로 They are가 되어야 한다. 틀린 것은 is다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 복수 취급하는 police는 them으로 받아야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] police는 복수 취급하고, are가 맞으므로 오답이다.\n② [오답] 장소를 나타내는 부사로 맞으므로 오답이다.\n③ [정답] 복수 취급하는 police는 them으로 받아야 하므로 정답이다.\n④ [오답] ten 뒤이고, 복수형 minutes가 맞으므로 오답이다.\n⑤ [오답] ‘~ 전에’라는 뜻으로 과거형 called와 맞으므로 오답이다."
+ }
+}

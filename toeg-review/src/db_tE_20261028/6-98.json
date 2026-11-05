@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T08:57:25.553Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "then",
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 과거진행형 의문문은 Was/Were + 주어 + 동사원형-ing + 목적어·부사의 순서로 배열한다.\n풀이 순서: ① 의문문으로 배열한다: Was Jane cooking dinner then? → ② 앞에서부터 센다. → ③ 네 번째 낱말은 dinner. 정답은 ⑤.\n문장별 판정:\n정답 판단: 완성 문장은 Was Jane cooking dinner then?이고 네 번째 단어는 dinner이다.\n선택지 분석:\n① [오답] 완성 문장 Was Jane cooking dinner then?에서 단어(then)는 5번째에 오므로 오답이다.\n② [오답] 완성 문장 Was Jane cooking dinner then?에서 단어(cooking)는 3번째에 오므로 오답이다.\n③ [오답] 완성 문장 Was Jane cooking dinner then?에서 단어(was)는 1번째에 오므로 오답이다.\n④ [오답] 완성 문장 Was Jane cooking dinner then?에서 단어(Jane)는 2번째에 오므로 오답이다.\n⑤ [정답] 완성 문장 Was Jane cooking dinner then?에서 단어(dinner)가 네 번째에 오므로 정답이다.",
+    "passage": "( dinner / Jane / cooking / was / then / ? )",
+    "stem": "다음 단어들을 바르게 나열하여 의문문을 만들 때, 네 번째에 오는 단어는?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T08:57:23.190Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T08:57:25.553Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:57:25.553Z",
+      "what": "확인 완료"
+    }
+  }
+}

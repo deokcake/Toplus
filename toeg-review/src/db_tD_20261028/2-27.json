@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-23T10:17:18.411Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "They are solve difficult problems quickly.",
+      "1": "They does solve difficult problems quickly.",
+      "2": "They do solve difficult problems quickly.",
+      "3": "They do solves difficult problems quickly.",
+      "4": "They did solve difficult problems quickly."
+    },
+    "expl": "핵심 규칙: 동사를 강조할 때는 do/does/did + 동사원형을 쓴다. 시제와 인칭은 do/does/did가 나타내고 뒤의 동사는 원형으로 쓴다.\n풀이 순서: ① 원래 문장의 동사(solve)에서 시제와 주어를 확인한다. 현재형이고 주어가 They이므로 do를 쓴다. → ② do/does/did를 동사 앞에 두고 동사는 원형(solve)으로 바꾼다. → ③ 시제가 달라졌거나 동사가 원형이 아닌 보기를 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: do + 동사원형 solve로 현재의 동작을 바르게 강조했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] are는 동사를 강조하지 못하고 뒤에 동사원형도 올 수 없으므로 오답이다.\n② [오답] 주어 They에는 does를 쓸 수 없으므로 오답이다.\n③ [정답] do + 동사원형 solve로 현재의 동작을 바르게 강조했으므로 정답이다.\n④ [오답] do 뒤에 solves를 쓸 수 없으므로 오답이다.\n⑤ [오답] 현재형 문장을 과거의 did로 강조하면 시제가 달라지므로 오답이다.",
+    "passage": "They solve difficult problems quickly.",
+    "stem": "다음 문장을 동사 강조 문장으로 바르게 바꾼 것은?"
+  },
+  "tab": "5dbz9ufh",
+  "updatedAt": "2026-10-23T10:17:18.411Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T10:17:18.411Z",
+      "what": "확인 완료"
+    }
+  }
+}

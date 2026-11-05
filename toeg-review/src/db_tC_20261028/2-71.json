@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T03:53:07.467Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "breaking — fixing",
+      "1": "broken — fixing",
+      "2": "broken — fixed",
+      "3": "breaking — fixed",
+      "4": "broke — fixed"
+    },
+    "expl": "핵심 규칙: 명사가 직접 하는 동작은 현재분사(-ing)로, 동작을 받는 명사는 과거분사로 꾸민다. 문장의 동사 자리는 주어와의 관계에 따라 진행형(be + -ing)이나 수동태(be + 과거분사)로 쓴다.\n풀이 순서: ① 첫째 밑줄은 앞의 명사(The window)를 꾸미는 분사 자리다. 창문은 공에 깨진 것이므로 수동의 broken이다. → ② 둘째 밑줄은 be동사 뒤다. 창문은 고쳐진 것이므로 수동태의 fixed다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 창문이 공에 깨진 수동 관계라 broken이 명사를 꾸미고, 창문이 고쳐졌으므로 was fixed의 수동태가 된다.\n선택지 분석:\n① [오답] 첫째 자리 breaking: 창문이 공에 깨진 수동 관계라 현재분사는 맞지 않는다. 둘째 자리 fixing: 창문이 고쳐진 수동 관계이므로 was 뒤에 과거분사를 쓴다. 따라서 오답이다.\n② [오답] 둘째 자리 fixing: 창문이 고쳐진 수동 관계이므로 was 뒤에 과거분사를 쓴다. 따라서 오답이다.\n③ [정답] broken — fixed: 두 자리가 모두 알맞으므로 정답이다.\n④ [오답] 첫째 자리 breaking: 창문이 공에 깨진 수동 관계라 현재분사는 맞지 않는다. 따라서 오답이다.\n⑤ [오답] 첫째 자리 broke: 과거형은 명사를 꾸미지 못하며 과거분사(broken)를 써야 한다. 따라서 오답이다.",
+    "passage": "The window <u>break</u> by the ball was <u>fix</u> yesterday.",
+    "stem": "다음 밑줄 친 동사의 알맞은 형태를 바르게 짝지은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T03:52:59.809Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T03:53:07.467Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T03:53:07.467Z",
+      "what": "확인 완료"
+    }
+  }
+}

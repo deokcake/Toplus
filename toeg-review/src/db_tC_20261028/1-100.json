@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-21T07:10:56.039Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: If it had not been for ...에서 if를 생략하면 Had it not been for ...로 도치한다. 과거의 반대 결과는 would/could have + p.p.로 나타낸다.\n풀이 순서: ① 조건을 형태로 바꾼다. ‘~이 없었더라면’은 If it had not been for ~이고, If를 생략하면 Had it not been for ~가 된다. → ② 우리말의 주절(‘지키지 못했을 것이다’)은 과거 사실의 반대이므로 would/could have + 과거분사(could not have met)여야 한다. → ③ If나 Without으로 시작하는 보기, 도치 어순이나 주절의 형태가 틀린 보기를 지운다. 정답은 ④.\n문장별 판정:\n정답 판단: ‘Had it not been for Mina's help, I could not have met the deadline.’이 If 생략 도치와 과거 결과 형태를 모두 만족한다.\n선택지 분석:\n① [오답] ‘Had not it been for Mina's help, I could not have met the deadline.’은 도치 어순이 잘못되었다. Had it not been for가 맞다.\n② [오답] ‘Without Mina's help I could not have met the deadline.’은 의미는 가능하지만 if 생략 도치형이 아니어서 조건을 충족하지 않는다.\n③ [오답] ‘If it had not been for Mina's help, I could not have met the deadline.’은 의미는 비슷할 수 있지만 발문이 요구한 if 생략 도치 조건을 충족하지 않는다.\n④ [정답] ‘Had it not been for Mina's help, I could not have met the deadline.’은 if 생략 도치 Had it not been for와 과거 가상 결과절을 모두 정확히 갖춘다.\n⑤ [오답] ‘Had it not been for Mina's help, I cannot have met the deadline.’은 결과절의 have/시제 형태가 과거 가정 결과에 맞지 않는다.",
+    "passage": "<조건>\n\"Mina의 도움이 없었더라면 나는 마감일을 지키지 못했을 것이다.\"라는 의미일 것.\n접속사 'If'를 생략한 도치 구문일 것.\n축약형을 사용하지 않을 것.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T07:10:15.584Z"
+  },
+  "tab": "fi3f83jb",
+  "updatedAt": "2026-10-21T07:10:56.039Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T07:10:56.039Z",
+      "what": "확인 완료"
+    }
+  }
+}

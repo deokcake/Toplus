@@ -1,0 +1,179 @@
+{
+ "key": "3-16",
+ "type": "B",
+ "grade": 3,
+ "chapter": "CH 2 일반동사",
+ "title": "doesn't 부정문의 동사 형태",
+ "total_sec": 133,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "3급 · CH 2 일반동사 · 16번 · B 유형\n\n이 문제는 doesn't가 쓰인 일반동사 현재 부정문에서 어법상 틀린 부분을 찾는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 2 일반동사 · 16번 · B 유형",
+     "이 문제는 doesn't가 쓰인 일반동사 현재 부정문에서 어법상 틀린 부분을 찾는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 2, 16번 B 유형. 이 문제는 doesn't가 쓰인 일반동사 현재 부정문에서 어법상 틀린 부분을 찾는 문제예요.",
+   "caption": "doesn't 부정문의 동사 형태"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 21,
+   "screen": {
+    "text": "다음 문장에서 어법상 틀린 부분을 고르시오.\n\nTom ①<u>doesn't</u> ②<u>likes</u> ③<u>music</u> ④<u>very</u> ⑤<u>much</u>.\n\n① doesn't\n② likes\n③ music\n④ very\n⑤ much",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장에서 어법상 틀린 부분을 고르시오.",
+     "Tom ①<u>doesn't</u> ②<u>likes</u> ③<u>music</u> ④<u>very</u> ⑤<u>much</u>.",
+     "① doesn't",
+     "② likes",
+     "③ music",
+     "④ very",
+     "⑤ much"
+    ]
+   },
+   "narration": "다음 문장에서 어법상 틀린 부분을 고르세요. Tom doesn't likes music very much. 톰은 음악을 아주 많이 좋아하지는 않아요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n일반동사 현재 부정문: 주어 + don't/doesn't + 동사원형\n일반동사 현재 의문문: Do/Does + 주어 + 동사원형 ~?\n3인칭 단수 주어(he, she, it, Tom) → doesn't, Does\nI, you, we, they, 복수 주어 → don't, Do\n예) He doesn't eat carrots. (그는 당근을 먹지 않아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "일반동사 현재 부정문: 주어 + don't/doesn't + 동사원형",
+     "일반동사 현재 의문문: Do/Does + 주어 + 동사원형 ~?",
+     "3인칭 단수 주어(he, she, it, Tom) → doesn't, Does",
+     "I, you, we, they, 복수 주어 → don't, Do",
+     "예) He doesn't eat carrots. (그는 당근을 먹지 않아요.)"
+    ]
+   },
+   "narration": "일반동사 현재형의 부정문은 동사 앞에 don't나 doesn't를, 예, 아니요로 묻는 의문문은 주어 앞에 Do나 Does를 써요. 주어가 he, she, it 같은 3인칭 단수이면 doesn't와 Does를, 그 밖의 주어에는 don't와 Do를 써요. 이때 동사는 주어와 상관없이 원형으로 써요. 예를 들어 He doesn't eat carrots. 그는 당근을 먹지 않아요.",
+   "caption": "don't/doesn't + 동사원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 문장에서 어법상 틀린 부분을 고르시오.\n\nTom ①<u>doesn't</u> ②<u>likes</u> ③<u>music</u> ④<u>very</u> ⑤<u>much</u>.\n\n① doesn't\n② likes\n③ music\n④ very\n⑤ much",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Tom ①<u>doesn't</u>"
+      ],
+      "strike": [
+       "① doesn't"
+      ],
+      "note": "doesn't → 일반동사 현재 부정문. 주어 Tom은 3인칭 단수 → doesn't는 알맞다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "②<u>likes</u>"
+      ],
+      "strike": [],
+      "note": "doesn't 뒤 동사는 원형 → likes는 틀림 (like)."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② likes"
+      ],
+      "strike": [
+       "③ music",
+       "④ very",
+       "⑤ much"
+      ],
+      "note": "music = like의 목적어, very much = 아주 많이 → 틀린 부분은 ②."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, doesn't가 있으니 일반동사 현재 부정문이고, 주어 Tom은 3인칭 단수라서 doesn't는 알맞아요. 둘째, doesn't 뒤의 동사는 원형으로 쓰니, s가 붙은 likes는 like로 고쳐야 해요. 셋째, music은 like의 목적어, very much는 아주 많이라는 뜻이라 알맞으니, 틀린 부분은 2번이에요. Tom doesn't like music very much. 톰은 음악을 아주 많이 좋아하지는 않아요.",
+   "caption": "doesn't ○ → likes ✗ → ②"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① doesn't  ✗  3인칭 단수 주어 Tom의 부정문에 알맞아요\n② likes  ✓  doesn't 뒤의 동사는 원형 like로 써야 해요\n③ music  ✗  like의 목적어(음악을)로 알맞아요\n④ very  ✗  much를 꾸며 '아주'라는 뜻을 더해요\n⑤ much  ✗  very much(아주 많이)로 동사 like를 꾸며요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① doesn't  ✗  3인칭 단수 주어 Tom의 부정문에 알맞아요",
+     "② likes  ✓  doesn't 뒤의 동사는 원형 like로 써야 해요",
+     "③ music  ✗  like의 목적어(음악을)로 알맞아요",
+     "④ very  ✗  much를 꾸며 '아주'라는 뜻을 더해요",
+     "⑤ much  ✗  very much(아주 많이)로 동사 like를 꾸며요"
+    ]
+   },
+   "narration": "정답은 2번 likes예요. 주어 Tom이 3인칭 단수여도, doesn't 뒤에는 동사원형 like를 써요. 1번 doesn't를 고르기 쉬운데, Tom은 3인칭 단수라서 don't가 아니라 doesn't가 맞아요. 5번 much는 very와 함께 아주 많이라는 뜻으로 like를 꾸며서 알맞아요.",
+   "caption": "정답 ② likes"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ② likes\n\n주어 + don't/doesn't + 동사원형  (3인칭 단수 주어 → doesn't)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② likes",
+     "주어 + don't/doesn't + 동사원형  (3인칭 단수 주어 → doesn't)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, don't나 doesn't로 부정하는 일반동사는 주어와 상관없이 동사원형으로 써요.",
+   "caption": "don't/doesn't 뒤는 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장에서 어법상 틀린 부분을 고르시오.",
+  "passage": "Tom ①<u>doesn't</u> ②<u>likes</u> ③<u>music</u> ④<u>very</u> ⑤<u>much</u>.",
+  "c": [
+   "doesn't",
+   "likes",
+   "music",
+   "very",
+   "much"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 현재 일반동사의 의문문·부정문은 do/does + 동사원형으로 만든다. 3인칭 단수 주어에는 does, 그 밖의 주어에는 do를 쓰고, 본동사에는 -s를 붙이지 않는다.\n풀이 순서: ① 문장이 Do/Does로 시작하거나 don't/doesn't가 들어 있다. 그 뒤 본동사는 원형이어야 하고, Do/Does는 주어에 맞아야 한다. → ② doesn't 뒤의 likes가 틀렸다(like). → ③ 틀린 부분은 ②이다.\n문장별 판정:\n정답 판단: likes: doesn't 뒤에는 동사원형(like)을 써야 한다. 틀린 부분이므로 정답은 ②이다.\n선택지 분석:\n① [오답] doesn't: 3인칭 단수 주어의 부정에 알맞으므로 오답이다.\n② [정답] likes: doesn't 뒤에는 동사원형(like)을 써야 한다. 틀린 부분이므로 정답이다.\n③ [오답] music: 동사의 목적어로 알맞으므로 오답이다.\n④ [오답] very: much를 꾸미는 부사로 알맞으므로 오답이다.\n⑤ [오답] much: ‘매우’라는 부사로 알맞으므로 오답이다."
+ }
+}

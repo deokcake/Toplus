@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T03:43:18.974Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "shoes",
+      "1": "your",
+      "2": "are",
+      "3": "new",
+      "4": "those"
+    },
+    "expl": "핵심 규칙: ‘이것(들)은/저것(들)은 ~의 … 이다’는 지시대명사 + be동사 + 소유격 + 형용사 + 명사의 순서로 배열한다. this/that에는 is, these/those에는 are를 쓴다.\n풀이 순서: ① 우리말의 주어(‘저것들은’)에 맞는 지시대명사와 be동사를 먼저 놓는다: Those are. → ② 그 뒤에 소유격 + 형용사 + 명사를 잇는다: your new shoes. → ③ 완성 문장 Those are your new shoes.의 셋째 낱말은 your.\n문장별 판정:\n정답 판단: 완성 문장은 Those are your new shoes.이고 세 번째 단어는 your이다.\n선택지 분석:\n① [오답] 완성 문장 Those are your new shoes.에서 단어(shoes)는 5번째에 오므로 오답이다.\n② [정답] 완성 문장 Those are your new shoes.에서 단어(your)는 3번째에 오므로 정답이다.\n③ [오답] 완성 문장 Those are your new shoes.에서 단어(are)는 2번째에 오므로 오답이다.\n④ [오답] 완성 문장 Those are your new shoes.에서 단어(new)는 4번째에 오므로 오답이다.\n⑤ [오답] 완성 문장 Those are your new shoes.에서 단어(those)는 1번째에 오므로 오답이다.",
+    "passage": "저것들은 너의 새 신발들이다.\n( shoes / your / are / new / those / . )",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 만들 때, 세 번째에 올 단어를 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T03:43:17.346Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T03:43:18.974Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:43:18.974Z",
+      "what": "확인 완료"
+    }
+  }
+}

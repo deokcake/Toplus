@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T02:37:58.726Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "has lost — has used",
+      "1": "lost — used",
+      "2": "lost — has used",
+      "3": "lost — uses",
+      "4": "has lost — used"
+    },
+    "expl": "핵심 규칙: yesterday, last ~처럼 끝난 과거 시점에는 과거형을 쓰고, since ~, for ~ now처럼 과거부터 지금까지 이어지는 기간에는 현재완료(have/has + 과거분사)를 쓴다.\n풀이 순서: ① 첫째 빈칸 문장의 시간 표현(yesterday)은 끝난 과거 시점이다. 과거형(lost)을 쓰고 현재완료는 쓸 수 없다. → ② 둘째 빈칸 문장의 시간 표현(since middle school)은 과거부터 지금까지 이어지는 기간이다. 현재완료(has used)를 쓴다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: yesterday에는 과거형(lost), since middle school에는 현재완료(has used)를 쓰므로 정답은 ③이다.\n선택지 분석:\n① [오답] 끝난 과거 시점(yesterday)과 현재완료(has lost)를 함께 쓸 수 없으므로 오답이다.\n② [오답] 지금까지 이어지는 기간(since middle school)에는 used가 아니라 현재완료를 써야 하므로 오답이다.\n③ [정답] yesterday에는 과거형(lost), since middle school에는 현재완료(has used)를 쓰므로 정답이다.\n④ [오답] 지금까지 이어지는 기간(since middle school)에는 uses가 아니라 현재완료를 써야 하므로 오답이다.\n⑤ [오답] 두 빈칸 모두 시제가 맞지 않으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T02:37:28.934Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T02:37:58.726Z",
+      "what": "확인 완료"
+    }
+  }
+}

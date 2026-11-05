@@ -1,0 +1,86 @@
+{
+ "key": "4-19",
+ "grade": 4,
+ "chapter": "CH 2 대명사",
+ "items": {
+  "A": {
+   "stem": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?",
+   "passage": "I have ①<u>some</u> ②<u>scissors</u> in ③<u>my</u> desk. ④<u>It</u> are very ⑤<u>sharp</u>.",
+   "c": [
+    "some",
+    "scissors",
+    "my",
+    "It",
+    "sharp"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: scissors, glasses, pants, shoes처럼 짝을 이루는 물건은 복수 취급해 They(them)로 받는다. news는 단수 취급해 It으로 받는다.\n풀이 순서: ① 뒤 문장의 주어와 동사를 맞춰 본다: It are는 수가 맞지 않는다. → ② 앞 문장에서 가리키는 명사를 찾아 어느 쪽이 틀렸는지 정한다: scissors는 복수 취급하므로 They are가 되어야 한다. 틀린 것은 It이다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: scissors는 복수 취급하므로 It이 아니라 They로 받아야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 복수 취급하는 scissors 앞에 some을 쓸 수 있으므로 오답이다.\n② [오답] 가위는 짝을 이루는 물건이라 복수형 scissors가 맞으므로 오답이다.\n③ [오답] 명사 desk 앞에 소유격 my가 맞으므로 오답이다.\n④ [정답] scissors는 복수 취급하므로 It이 아니라 They로 받아야 하므로 정답이다.\n⑤ [오답] be동사 뒤 보어 자리에 형용사 sharp가 맞으므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?",
+   "passage": "Jane bought ①<u>some</u> new ②<u>shoes</u>. ③<u>It</u> ④<u>are</u> very ⑤<u>comfortable</u>.",
+   "c": [
+    "some",
+    "shoes",
+    "It",
+    "are",
+    "comfortable"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: shoes·pants·glasses처럼 짝을 이루는 물건은 복수 취급해 They로 받고 복수 동사를 쓴다.\n풀이 순서: ① 뒤 문장의 주어와 동사를 맞춰 본다: They is는 수가 맞지 않는다. → ② 앞 문장에서 가리키는 명사를 찾아 어느 쪽이 틀렸는지 정한다: shoes는 복수이므로 They are가 되어야 한다. 틀린 것은 is다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 복수명사 shoes는 They로 받아야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 복수명사 shoes 앞에 some을 쓸 수 있으므로 오답이다.\n② [오답] 신발은 짝을 이루는 물건이라 복수형 shoes가 맞으므로 오답이다.\n③ [정답] 복수명사 shoes는 They로 받아야 하므로 정답이다.\n④ [오답] They로 받으면 복수 동사 are가 맞으므로 오답이다.\n⑤ [오답] be동사 뒤 보어 자리에 형용사가 맞으므로 오답이다."
+  },
+  "C": {
+   "stem": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?",
+   "passage": "I can't find my ①<u>gloves</u>. Did you see ②<u>it</u>? ③<u>My</u> hands ④<u>are</u> very ⑤<u>cold</u>.",
+   "c": [
+    "gloves",
+    "it",
+    "My",
+    "are",
+    "cold"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: glasses·gloves·pants·shoes처럼 짝을 이루는 물건과 police는 복수 취급해 they/them으로 받는다. news는 단수 취급해 this/it으로 받는다.\n풀이 순서: ① 뒤 문장의 주어와 동사를 맞춰 본다: They is는 수가 맞지 않는다. → ② 앞 문장에서 가리키는 명사를 찾아 어느 쪽이 틀렸는지 정한다: glasses는 복수 취급하므로 They are가 되어야 한다. 틀린 것은 is다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: 복수명사 gloves는 them으로 받아야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 장갑은 짝을 이루는 물건이라 복수형 gloves가 맞으므로 오답이다.\n② [정답] 복수명사 gloves는 them으로 받아야 하므로 정답이다.\n③ [오답] 명사 hands 앞에 소유격 My가 맞으므로 오답이다.\n④ [오답] 복수 주어 My hands에 are가 맞으므로 오답이다.\n⑤ [오답] be동사 뒤 보어 자리에 형용사가 맞으므로 오답이다."
+  },
+  "D": {
+   "stem": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?",
+   "passage": "I ①<u>bought</u> ②<u>some</u> pants ③<u>yesterday</u>. I ④<u>really</u> like ⑤<u>it</u>.",
+   "c": [
+    "bought",
+    "some",
+    "yesterday",
+    "really",
+    "it"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: glasses·gloves·pants·shoes처럼 짝을 이루는 물건과 police는 복수 취급해 they/them으로 받는다. news는 단수 취급해 this/it으로 받는다.\n풀이 순서: ① 뒤 문장의 주어와 동사를 맞춰 본다: They is는 수가 맞지 않는다. → ② 앞 문장에서 가리키는 명사를 찾아 어느 쪽이 틀렸는지 정한다: pants는 복수 취급하므로 They are가 되어야 한다. 틀린 것은 is다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: 복수 취급하는 pants는 them으로 받아야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] yesterday가 있어 과거형 bought가 맞으므로 오답이다.\n② [오답] 복수 취급하는 pants 앞에 some을 쓸 수 있으므로 오답이다.\n③ [오답] 과거의 때를 나타내는 말로 맞으므로 오답이다.\n④ [오답] 동사 like를 꾸미는 부사로 맞으므로 오답이다.\n⑤ [정답] 복수 취급하는 pants는 them으로 받아야 하므로 정답이다."
+  },
+  "E": {
+   "stem": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?",
+   "passage": "①<u>These</u> news ②<u>is</u> very ③<u>surprising</u>. I heard ④<u>it</u> on ⑤<u>the</u> radio.",
+   "c": [
+    "These",
+    "is",
+    "surprising",
+    "it",
+    "the"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: glasses·gloves·pants·shoes처럼 짝을 이루는 물건과 police는 복수 취급해 they/them으로 받는다. news는 단수 취급해 this/it으로 받는다.\n풀이 순서: ① 뒤 문장의 주어와 동사를 맞춰 본다: It are는 수가 맞지 않는다. → ② 앞 문장에서 가리키는 명사를 찾아 어느 쪽이 틀렸는지 정한다: news는 단수 취급하므로 It is가 되어야 한다. 틀린 것은 are다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: news는 단수 취급하고, These가 아니라 This를 써야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] news는 단수 취급하고, These가 아니라 This를 써야 하므로 정답이다.\n② [오답] 단수 취급하는 news에 is가 맞으므로 오답이다.\n③ [오답] be동사 뒤 보어 자리에 형용사가 맞으므로 오답이다.\n④ [오답] 단수 취급하는 news를 it으로 받는 것이 맞으므로 오답이다.\n⑤ [오답] on the radio로 the를 쓰는 것이 맞으므로 오답이다."
+  },
+  "F": {
+   "stem": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?",
+   "passage": "The police ①<u>are</u> ②<u>here</u> now. I called ③<u>it</u> ten ④<u>minutes</u> ⑤<u>ago</u>.",
+   "c": [
+    "are",
+    "here",
+    "it",
+    "minutes",
+    "ago"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: glasses·gloves·pants·shoes처럼 짝을 이루는 물건과 police는 복수 취급해 they/them으로 받는다. news는 단수 취급해 this/it으로 받는다.\n풀이 순서: ① 뒤 문장의 주어와 동사를 맞춰 본다: They is는 수가 맞지 않는다. → ② 앞 문장에서 가리키는 명사를 찾아 어느 쪽이 틀렸는지 정한다: police는 복수 취급하므로 They are가 되어야 한다. 틀린 것은 is다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 복수 취급하는 police는 them으로 받아야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] police는 복수 취급하고, are가 맞으므로 오답이다.\n② [오답] 장소를 나타내는 부사로 맞으므로 오답이다.\n③ [정답] 복수 취급하는 police는 them으로 받아야 하므로 정답이다.\n④ [오답] ten 뒤이고, 복수형 minutes가 맞으므로 오답이다.\n⑤ [오답] ‘~ 전에’라는 뜻으로 과거형 called와 맞으므로 오답이다."
+  }
+ },
+ "prior_review": {}
+}

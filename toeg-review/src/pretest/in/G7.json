@@ -1,0 +1,832 @@
+[
+ {
+  "key": "7-1",
+  "grade": 7,
+  "no": 1,
+  "chapter": "CH 1",
+  "chapter_name": "명사",
+  "ref": {
+   "stem": "다음 중 셀 수 없는 명사를 고르시오.",
+   "passage": "",
+   "c": [
+    "cat",
+    "desk",
+    "love",
+    "orange",
+    "book"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 하나, 둘 셀 수 있는 것은 셀 수 있는 명사다. 물질(water, bread, milk, rice, money)이나 눈에 보이지 않는 것(love)은 셀 수 없는 명사다.\n풀이 순서: ① 보기마다 앞에 ‘한 개, 두 개’를 붙여 본다. → ② 붙일 수 없는 것을 찾는다. love(사랑)는 형태가 없어 셀 수 없다. → ③ 정답은 love.\n문장별 판정:\n정답 판단: 눈에 보이지 않는 감정이라 셀 수 없으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 한 마리, 두 마리 셀 수 있으므로 오답이다.\n② [오답] 한 개, 두 개 셀 수 있으므로 오답이다.\n③ [정답] 눈에 보이지 않는 감정이라 셀 수 없으므로 정답이다.\n④ [오답] 한 개, 두 개 셀 수 있으므로 오답이다.\n⑤ [오답] 한 권, 두 권 셀 수 있으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 셀 수 없는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "pen",
+     "rabbit",
+     "bread",
+     "table",
+     "egg"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 중 셀 수 없는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "bag",
+     "box",
+     "rice",
+     "banana",
+     "bird"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 중 셀 수 없는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "milk",
+     "pencil",
+     "orange",
+     "chair",
+     "dog"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 중 셀 수 없는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "watch",
+     "money",
+     "teacher",
+     "apple",
+     "car"
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 중 셀 수 없는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "rabbit",
+     "bicycle",
+     "cookie",
+     "water",
+     "teacher"
+    ],
+    "ans": 4
+   }
+  },
+  "target_answer_position": 4
+ },
+ {
+  "key": "7-12",
+  "grade": 7,
+  "no": 12,
+  "chapter": "CH 2",
+  "chapter_name": "대명사",
+  "ref": {
+   "stem": "짝지어진 단어의 관계가 <보기>와 다른 것을 고르시오.",
+   "passage": "<보기>\nI - my",
+   "c": [
+    "he - his",
+    "her - she",
+    "they - their",
+    "you - your",
+    "it - its"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: I - my는 주격 - 소유격(‘~는’ - ‘~의’)의 짝이다. 주격: I, you, he, she, it, we, they / 소유격: my, your, his, her, its, our, their.\n풀이 순서: ① <보기>의 관계를 정한다: I - my은 주격 - 소유격(‘~는’ - ‘~의’)이다. → ② 보기마다 앞 낱말이 주격, 뒤 낱말이 소유격인지 본다. → ③ her - she는 소유격 - 주격으로 순서가 거꾸로다. 정답은 her - she.\n문장별 판정:\n정답 판단: her는 소유격, she는 주격이라 순서가 <보기>와 반대이므로 정답은 ②이다.\n선택지 분석:\n① [오답] he - his는 주격 - 소유격이므로 오답이다.\n② [정답] her는 소유격, she는 주격이라 순서가 <보기>와 반대이므로 정답이다.\n③ [오답] they - their는 주격 - 소유격이므로 오답이다.\n④ [오답] you - your는 주격 - 소유격이므로 오답이다.\n⑤ [오답] it - its는 주격 - 소유격이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "짝지어진 단어의 관계가 <보기>와 다른 것을 고르시오.",
+    "passage": "<보기>\nwe - our",
+    "c": [
+     "he - his",
+     "you - your",
+     "it - its",
+     "their - they",
+     "she - her"
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "짝지어진 단어의 관계가 <보기>와 다른 것을 고르시오.",
+    "passage": "<보기>\nhe - his",
+    "c": [
+     "I - my",
+     "you - your",
+     "they - their",
+     "we - our",
+     "its - it"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "짝지어진 단어의 관계가 <보기>와 다른 것을 고르시오.",
+    "passage": "<보기>\nshe - her",
+    "c": [
+     "it - its",
+     "we - our",
+     "my - I",
+     "they - their",
+     "he - his"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "짝지어진 단어의 관계가 <보기>와 다른 것을 고르시오.",
+    "passage": "<보기>\nthey - their",
+    "c": [
+     "our - we",
+     "you - your",
+     "I - my",
+     "he - his",
+     "it - its"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "짝지어진 단어의 관계가 <보기>와 다른 것을 고르시오.",
+    "passage": "<보기>\nit - its",
+    "c": [
+     "I - my",
+     "his - he",
+     "we - our",
+     "you - your",
+     "they - their"
+    ],
+    "ans": 2
+   }
+  },
+  "target_answer_position": 5
+ },
+ {
+  "key": "7-23",
+  "grade": 7,
+  "no": 23,
+  "chapter": "CH 3",
+  "chapter_name": "be동사",
+  "ref": {
+   "stem": "다음 빈칸에 현재형 be동사가 들어갈 때, 나머지와 다른 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "I _______ a student.",
+    "He _______ my father.",
+    "She _______ a nurse.",
+    "It _______ a desk.",
+    "The boy _______ a student."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: be동사의 현재형: I am / he, she, it, 단수 명사 is / you, we, they, 복수 명사 are.\n풀이 순서: ① 문장마다 주어를 보고 am/is/are를 넣어 본다. → ② 하나만 다른 것을 찾는다. → ③ 선택지 ①만 am이고 나머지는 is다. 정답은 ①.\n문장별 판정:\n정답 판단: I에는 am이 들어가 나머지(is)와 다르므로 정답은 ①이다.\n선택지 분석:\n① [정답] I에는 am이 들어가 나머지(is)와 다르므로 정답이다.\n② [오답] He에는 is가 들어가므로 오답이다.\n③ [오답] She에는 is가 들어가므로 오답이다.\n④ [오답] It에는 is가 들어가므로 오답이다.\n⑤ [오답] The boy에는 is가 들어가므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 현재형 be동사가 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The cats _______ small.",
+     "We _______ ready.",
+     "The baby _______ asleep.",
+     "They _______ here.",
+     "You _______ nice."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 빈칸에 현재형 be동사가 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "He _______ my uncle.",
+     "We _______ late.",
+     "The dog _______ cute.",
+     "She _______ a teacher.",
+     "Jane _______ home."
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 빈칸에 현재형 be동사가 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The girls _______ excited.",
+     "We _______ ready.",
+     "You _______ very kind.",
+     "They _______ outside.",
+     "Tom _______ in the music room."
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "다음 빈칸에 현재형 be동사가 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "It _______ cold.",
+     "You _______ busy.",
+     "The books _______ new.",
+     "They _______ happy.",
+     "Tom and Ben _______ friends."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 빈칸에 현재형 be동사가 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "We _______ friends.",
+     "The boys _______ busy.",
+     "They _______ students.",
+     "My uncle _______ a cook.",
+     "You _______ kind."
+    ],
+    "ans": 4
+   }
+  },
+  "target_answer_position": 4
+ },
+ {
+  "key": "7-34",
+  "grade": 7,
+  "no": 34,
+  "chapter": "CH 4",
+  "chapter_name": "be동사 부정문과 의문문",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 말이 ‘Are’이 아닌 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "_______ the tea hot?",
+    "_______ you a student?",
+    "_______ they pretty?",
+    "_______ the pencils on the desk?",
+    "_______ we on a wrong way?"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: be동사 의문문은 be동사를 주어 앞에 둔다. Am I ~? / Is + 한 사람·한 개 ~? / Are + you·여럿 ~?\n풀이 순서: ① 빈칸 뒤의 주어를 하나씩 본다. → ② you나 여럿이면 Are, 한 사람·한 개(셀 수 없는 것 포함)면 Is, I면 Am이다. → ③ the tea는 셀 수 없어 단수로 다루므로 Is가 들어간다. 정답은 ①.\n문장별 판정:\n정답 판단: the tea는 셀 수 없는 명사라 Is가 들어가므로 정답은 ①이다.\n선택지 분석:\n① [정답] the tea는 셀 수 없는 명사라 Is가 들어가므로 정답이다.\n② [오답] you에는 Are가 들어가므로 오답이다.\n③ [오답] they에는 Are가 들어가므로 오답이다.\n④ [오답] the pencils는 여럿이라 Are가 들어가므로 오답이다.\n⑤ [오답] we에는 Are가 들어가므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 말이 ‘Are’이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "_______ the books new?",
+     "_______ we ready?",
+     "_______ Jane at home?",
+     "_______ you busy?",
+     "_______ they happy?"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 말이 ‘Are’이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "_______ we late?",
+     "_______ the boys outside?",
+     "_______ these books new?",
+     "_______ you ready?",
+     "_______ I early?"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 말이 ‘Are’이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "_______ the kids at the park?",
+     "_______ you and Tom brothers?",
+     "_______ these shoes new?",
+     "_______ your bag heavy?",
+     "_______ they in the library?"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 말이 ‘Are’이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "_______ those your pencils?",
+     "_______ it your umbrella?",
+     "_______ the students in the gym?",
+     "_______ you thirsty?",
+     "_______ we on the right bus?"
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 말이 ‘Are’이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "_______ the girls happy?",
+     "_______ I late?",
+     "_______ the cats under the table?",
+     "_______ you busy?",
+     "_______ we on time?"
+    ],
+    "ans": 2
+   }
+  },
+  "target_answer_position": 3
+ },
+ {
+  "key": "7-45",
+  "grade": 7,
+  "no": 45,
+  "chapter": "CH 5",
+  "chapter_name": "지시 대명사",
+  "ref": {
+   "stem": "다음 대화의 빈칸에 알맞은 말이 순서대로 짝지어진 것을 고르세요.",
+   "passage": "A: Are ________ your books?\nB: No, ________ aren't.",
+   "c": [
+    "this - they",
+    "those - they",
+    "that - it",
+    "these - it",
+    "those - it"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: these/those는 여러 개를 가리켜 Are와 쓰고 대답에서 they로 받는다. this/that은 한 개를 가리켜 Is와 쓰고 대답에서 it으로 받는다.\n풀이 순서: ① 질문의 be동사가 Are이므로 첫 빈칸에는 여러 개를 가리키는 지시대명사가 온다. → ② 대답의 be동사(aren't)에 맞는 대명사는 they. → ③ 둘을 갖춘 것은 those - they.\n문장별 판정:\n정답 판단: 여러 개를 가리키는 those와 대답의 they를 바르게 짝지었으므로 정답은 ②이다.\n선택지 분석:\n① [오답] this는 한 개를 가리켜 Are와 쓸 수 없으므로 오답이다.\n② [정답] 여러 개를 가리키는 those와 대답의 they를 바르게 짝지었으므로 정답이다.\n③ [오답] that은 한 개를 가리켜 Are와 쓸 수 없으므로 오답이다.\n④ [오답] 여러 개는 대답에서 it이 아니라 they로 받으므로 오답이다.\n⑤ [오답] 여러 개는 대답에서 it이 아니라 they로 받으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 대화의 빈칸에 알맞은 말이 순서대로 짝지어진 것을 고르세요.",
+    "passage": "A: Are ________ our tickets?\nB: Yes, ________ are.",
+    "c": [
+     "those - it",
+     "these - they",
+     "these - it",
+     "that - it",
+     "this - it"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 대화의 빈칸에 알맞은 말이 순서대로 짝지어진 것을 고르세요.",
+    "passage": "A: Are ________ my pencils?\nB: Yes, ________ are.",
+    "c": [
+     "these - it",
+     "those - it",
+     "these - they",
+     "this - it",
+     "that - it"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 대화의 빈칸에 알맞은 말이 순서대로 짝지어진 것을 고르세요.",
+    "passage": "A: Is ________ your bag?\nB: Yes, ________ is.",
+    "c": [
+     "this - it",
+     "these - they",
+     "this - they",
+     "those - it",
+     "these - it"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 대화의 빈칸에 알맞은 말이 순서대로 짝지어진 것을 고르세요.",
+    "passage": "A: Is ________ his car?\nB: No, ________ isn't.",
+    "c": [
+     "those - they",
+     "that - they",
+     "that - it",
+     "these - it",
+     "those - it"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 대화의 빈칸에 알맞은 말이 순서대로 짝지어진 것을 고르세요.",
+    "passage": "A: Are ________ her shoes?\nB: No, ________ aren't.",
+    "c": [
+     "this - it",
+     "that - they",
+     "these - it",
+     "this - they",
+     "these - they"
+    ],
+    "ans": 5
+   }
+  },
+  "target_answer_position": 2
+ },
+ {
+  "key": "7-56",
+  "grade": 7,
+  "no": 56,
+  "chapter": "CH 6",
+  "chapter_name": "일반동사",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.",
+   "passage": "We _______ to the bus.",
+   "c": [
+    "runs",
+    "running",
+    "to run",
+    "is run",
+    "run"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 주어가 I, you, we, they나 복수면 일반동사를 원형 그대로 쓴다. be동사와 일반동사 원형을 함께 쓰지 않으며, -ing형이나 to + 동사만으로는 동사 자리를 채울 수 없다.\n풀이 순서: ① 빈칸은 주어(We) 바로 뒤의 동사 자리다. -ing형, to + 동사, is + 동사를 지운다. → ② 주어(We)가 3인칭 단수가 아니므로 -s/-es가 붙은 꼴도 지운다. → ③ 남는 것은 run.\n문장별 판정:\n정답 판단: We에 동사원형 run이 알맞으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] runs는 3인칭 단수 주어에 쓰므로 오답이다.\n② [오답] -ing형만으로는 동사 자리를 채울 수 없으므로 오답이다.\n③ [오답] to + 동사만으로는 동사 자리를 채울 수 없으므로 오답이다.\n④ [오답] be동사와 일반동사 원형을 함께 쓸 수 없고 We와 is도 맞지 않으므로 오답이다.\n⑤ [정답] We에 동사원형 run이 알맞으므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.",
+    "passage": "I _______ books.",
+    "c": [
+     "is read",
+     "reads",
+     "read",
+     "reading",
+     "to read"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.",
+    "passage": "They _______ soccer.",
+    "c": [
+     "plays",
+     "playing",
+     "to play",
+     "play",
+     "is play"
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.",
+    "passage": "They _______ the classroom together.",
+    "c": [
+     "is clean",
+     "cleans",
+     "clean",
+     "cleaning",
+     "to clean"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.",
+    "passage": "You _______ English.",
+    "c": [
+     "studying",
+     "studies",
+     "is study",
+     "study",
+     "to study"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.",
+    "passage": "We _______ TV.",
+    "c": [
+     "watch",
+     "watches",
+     "to watch",
+     "is watch",
+     "watching"
+    ],
+    "ans": 1
+   }
+  },
+  "target_answer_position": 2
+ },
+ {
+  "key": "7-67",
+  "grade": 7,
+  "no": 67,
+  "chapter": "CH 7",
+  "chapter_name": "일반동사 부정문과 의문문",
+  "ref": {
+   "stem": "다음 질문에 대한 대답으로 가장 알맞은 것을 고르세요.",
+   "passage": "Does it taste good?",
+   "c": [
+    "Yes, it do.",
+    "No, it don't.",
+    "Yes, it is.",
+    "No, it isn't.",
+    "Yes, it does."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: Do/Does로 물으면 Yes, 주어 + do/does. / No, 주어 + don't/doesn't.로 답한다. be동사로 답하지 않으며, 대답의 주어는 질문의 주어를 대명사로 받는다(you → I).\n풀이 순서: ① 질문이 Does(으)로 시작하므로 대답에도 be동사가 아니라 do/does를 쓴다. → ② 대답의 주어는 it이고 it에는 does를 쓴다. → ③ 정답은 Yes, it does.\n문장별 판정:\n정답 판단: Does로 묻고 it does로 답했으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] it에는 do가 아니라 does를 쓰므로 오답이다.\n② [오답] it에는 don't가 아니라 doesn't를 쓰므로 오답이다.\n③ [오답] Does로 물었으므로 be동사로 답하지 않으므로 오답이다.\n④ [오답] Does로 물었으므로 be동사로 답하지 않으므로 오답이다.\n⑤ [정답] Does로 묻고 it does로 답했으므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 질문에 대한 대답으로 가장 알맞은 것을 고르세요.",
+    "passage": "Does Tom study English?",
+    "c": [
+     "Yes, he is.",
+     "Yes, he doesn't.",
+     "Yes, he do.",
+     "Yes, he does.",
+     "Yes, it does."
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 질문에 대한 대답으로 가장 알맞은 것을 고르세요.",
+    "passage": "Do they play soccer?",
+    "c": [
+     "Yes, they are.",
+     "Yes, they do.",
+     "Yes, they does.",
+     "Yes, they plays.",
+     "Yes, we do."
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 질문에 대한 대답으로 가장 알맞은 것을 고르세요.",
+    "passage": "Does Mina need a ticket?",
+    "c": [
+     "No, she isn't.",
+     "No, she don't.",
+     "No, Mina not.",
+     "No, her doesn't.",
+     "No, she doesn't."
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "다음 질문에 대한 대답으로 가장 알맞은 것을 고르세요.",
+    "passage": "Do your parents like music?",
+    "c": [
+     "No, they aren't.",
+     "No, they doesn't.",
+     "No, they don't.",
+     "No, we don't.",
+     "No, they not."
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 질문에 대한 대답으로 가장 알맞은 것을 고르세요.",
+    "passage": "Do you need help?",
+    "c": [
+     "No, I don't.",
+     "Yes, you do.",
+     "No, I doesn't.",
+     "Yes, I am.",
+     "No, I not."
+    ],
+    "ans": 1
+   }
+  },
+  "target_answer_position": 1
+ },
+ {
+  "key": "7-78",
+  "grade": 7,
+  "no": 78,
+  "chapter": "CH 8",
+  "chapter_name": "의문사 의문문",
+  "ref": {
+   "stem": "다음 중 빈칸에 들어갈 be동사가 'are'인 문장을 고르세요.",
+   "passage": "",
+   "c": [
+    "How old _______ she?",
+    "How old _______ your cat?",
+    "How old _______ Eddie?",
+    "How old _______ it?",
+    "How old _______ they?"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 의문사 뒤 빈칸의 be동사는 뒤에 오는 주어에 맞춘다. 한 사람·한 개인 주어에는 is, you나 여럿인 주어에는 are를 쓴다.\n풀이 순서: ① 빈칸 뒤의 주어를 하나씩 본다. 한 사람·한 개면 is가 들어간다. → ② you나 여럿인 주어를 찾는다: they. → ③ are가 들어가는 것은 ⑤.\n문장별 판정:\n정답 판단: they는 여럿이라 are가 들어가므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] she는 한 사람이라 is가 들어가므로 오답이다.\n② [오답] your cat은 한 마리라 is가 들어가므로 오답이다.\n③ [오답] Eddie는 한 사람이라 is가 들어가므로 오답이다.\n④ [오답] it에는 is가 들어가므로 오답이다.\n⑤ [정답] they는 여럿이라 are가 들어가므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 빈칸에 들어갈 be동사가 'are'인 문장을 고르세요.",
+    "passage": "",
+    "c": [
+     "How tall _______ your brother?",
+     "Where _______ the bus stop?",
+     "How old _______ the boys?",
+     "What _______ your name?",
+     "Who _______ that man?"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 중 빈칸에 들어갈 be동사가 'are'인 문장을 고르세요.",
+    "passage": "",
+    "c": [
+     "How _______ your mom?",
+     "How much _______ it?",
+     "Who _______ that girl?",
+     "Where _______ you?",
+     "What color _______ your bike?"
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 중 빈칸에 들어갈 be동사가 'are'인 문장을 고르세요.",
+    "passage": "",
+    "c": [
+     "What _______ these?",
+     "How much _______ this cap?",
+     "Where _______ Tom?",
+     "What color _______ the sky?",
+     "Who _______ she?"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 중 빈칸에 들어갈 be동사가 'are'인 문장을 고르세요.",
+    "passage": "",
+    "c": [
+     "Where _______ the library?",
+     "How old _______ your grandpa?",
+     "What time _______ it?",
+     "Who _______ he?",
+     "What color _______ the books?"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 중 빈칸에 들어갈 be동사가 'are'인 문장을 고르세요.",
+    "passage": "",
+    "c": [
+     "What _______ your phone number?",
+     "Where _______ the children?",
+     "How much _______ this toy?",
+     "What color _______ the bag?",
+     "When _______ the concert?"
+    ],
+    "ans": 2
+   }
+  },
+  "target_answer_position": 5
+ },
+ {
+  "key": "7-89",
+  "grade": 7,
+  "no": 89,
+  "chapter": "CH 9",
+  "chapter_name": "조동사 Can",
+  "ref": {
+   "stem": "다음 문장에서 'play' 뒤에 's'를 붙이지 않은 이유로 가장 적절한 설명을 고르세요.",
+   "passage": "He can play the guitar.",
+   "c": [
+    "주어인 'He'가 나(I)와 같은 1인칭이기 때문이다.",
+    "조동사 'can' 뒤에는 주어에 상관없이 동사의 원래 모양을 써야 하기 때문이다.",
+    "'기타(guitar)'가 악기 이름이기 때문에 동사를 바꿀 수 없기 때문이다.",
+    "문장 끝에 마침표(.)가 있으면 동사에 s를 붙이지 않는 것이 규칙이기 때문이다.",
+    "'칠 수 있다'는 뜻의 play는 항상 s를 붙이지 않고 사용하기 때문이다."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 조동사 can 뒤에는 주어의 인칭·수와 관계없이 동사원형을 쓴다. 3인칭 단수 주어여도 can이 있으면 동사에 -s를 붙이지 않는다.\n풀이 순서: ① can을 빼고 읽어 본다: He plays the guitar. 주어가 3인칭 단수라 동사에 s가 붙는다. → ② can을 넣으면 He can play the guitar. can 뒤의 동사는 주어와 관계없이 원래 모양으로 돌아간다. → ③ can을 이유로 든 것은 ②.\n문장별 판정:\n정답 판단: 조동사 can 뒤에는 동사원형을 쓰므로 정답은 ②이다.\n선택지 분석:\n① [오답] He는 3인칭이고, 인칭이 아니라 can 때문에 s를 붙이지 않으므로 오답이다.\n② [정답] 조동사 can 뒤에는 동사원형을 쓰므로 정답이다.\n③ [오답] 목적어는 동사 모양과 관계없으므로 오답이다.\n④ [오답] 문장 부호는 동사 모양과 관계없으므로 오답이다.\n⑤ [오답] play도 can이 없으면 plays가 되므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 문장에서 'speak' 뒤에 's'를 붙이지 않은 이유로 가장 적절한 설명을 고르세요.",
+    "passage": "Tom can speak English.",
+    "c": [
+     "주어인 'Tom'이 여러 명(복수)이기 때문이다.",
+     "'English'가 언어 이름이라 동사의 모양을 바꿀 수 없기 때문이다.",
+     "'can' 뒤에 오는 동사는 주어가 Tom이어도 s를 붙이지 않은 원래 모양으로 쓰기 때문이다.",
+     "'말하다'라는 뜻의 speak는 항상 s를 붙이지 않고 쓰기 때문이다.",
+     "동사 뒤에 다른 낱말이 오면 동사에 s를 붙이지 않기 때문이다."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 문장에서 'read' 뒤에 's'를 붙이지 않은 이유로 가장 적절한 설명을 고르세요.",
+    "passage": "Mina can read this map.",
+    "c": [
+     "문장에 this가 있기 때문이다.",
+     "map이 단수이기 때문이다.",
+     "read는 언제나 s를 붙이지 않기 때문이다.",
+     "can이 앞에 있으므로 본동사 read는 기본형으로 유지되기 때문이다.",
+     "Mina가 사람이기 때문이다."
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 문장에서 'sing' 뒤에 's'를 붙이지 않은 이유로 가장 적절한 설명을 고르세요.",
+    "passage": "She can sing well.",
+    "c": [
+     "'She'가 여자를 가리키는 말이라서 동사에 s를 붙이지 않기 때문이다.",
+     "can은 조동사이므로, 주어가 She여도 뒤에 오는 동사는 원래 모양 sing을 쓰기 때문이다.",
+     "'well'처럼 꾸며 주는 말이 뒤에 오면 동사에 s를 붙이지 않기 때문이다.",
+     "'노래하다'라는 뜻의 sing은 원래 s를 붙이지 않는 동사이기 때문이다.",
+     "주어 'She'를 여러 사람으로 보기 때문이다."
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 문장에서 'help' 뒤에 's'를 붙이지 않은 이유로 가장 적절한 설명을 고르세요.",
+    "passage": "My brother can help you.",
+    "c": [
+     "help 앞에 조동사 can이 있어서, 주어가 3인칭 단수여도 동사원형을 쓰기 때문이다.",
+     "'you'가 목적어로 나오면 동사에 s를 붙이지 않기 때문이다.",
+     "'돕다'라는 뜻의 help는 모양이 바뀌지 않는 동사이기 때문이다.",
+     "'My brother'가 두 단어라서 복수로 보기 때문이다.",
+     "문장이 짧으면 동사에 s를 붙이지 않아도 되기 때문이다."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 문장에서 'run' 뒤에 's'를 붙이지 않은 이유로 가장 적절한 설명을 고르세요.",
+    "passage": "The dog can run fast.",
+    "c": [
+     "'dog'가 사람이 아니라 동물이기 때문이다.",
+     "'fast'가 문장 맨 끝에 있기 때문이다.",
+     "'달리다'라는 뜻의 run은 짧은 동사라서 s를 붙이지 않기 때문이다.",
+     "주어 'The dog' 앞에 the가 붙어 있기 때문이다.",
+     "조동사 can 다음에 오는 동사는 s나 -ing를 붙이지 않은 원형으로 쓰기 때문이다."
+    ],
+    "ans": 5
+   }
+  },
+  "target_answer_position": 3
+ },
+ {
+  "key": "7-100",
+  "grade": 7,
+  "no": 100,
+  "chapter": "CH 10",
+  "chapter_name": "실용표현",
+  "ref": {
+   "stem": "영어로 날짜와 요일을 묻고 답하는 방법에 대한 설명으로 옳은 것을 모두 고른 것은?",
+   "passage": "[ 보기 ]\n가. 'What date is it?'은 날짜를 묻는 표현이다.\n나. 'What day is it?'은 요일을 묻는 표현이다.\n다. 날짜를 대답할 때는 보통 서수(-th, -st 등)를 사용한다.\n라. 요일을 대답할 때는 숫자로 대답해야 한다.",
+   "c": [
+    "가, 나",
+    "다, 라",
+    "가, 다, 라",
+    "나, 다, 라",
+    "가, 나, 다"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: What date는 날짜, What day는 요일을 묻는다. 날짜의 일은 서수로 말하고, 요일은 요일 이름으로 대답한다. 날짜·요일을 말할 때는 It을 주어로 쓴다.\n풀이 순서: ① 설명을 하나씩 실제로 묻고 답하는 말에 대어 본다. → ② 가 O, 나 O, 다 O, 라 X(요일은 요일 이름으로 대답한다). → ③ 옳은 것을 모두 모으면 가, 나, 다이다.\n문장별 판정: 가 O. What date는 날짜를 묻는다. 나 O. What day는 요일을 묻는다. 다 O. 날짜의 일은 서수로 말한다. 라 X. 요일은 숫자가 아니라 요일 이름(Monday 등)으로 대답한다.\n정답 판단: 옳은 설명은 가, 나, 다이다.\n선택지 분석:\n① [오답] 다도 옳은 설명이므로 오답이다.\n② [오답] 라가 틀린 설명이므로 오답이다.\n③ [오답] 라가 틀린 설명이므로 오답이다.\n④ [오답] 라가 틀린 설명이므로 오답이다.\n⑤ [정답] 가, 나, 다가 모두 옳은 설명이므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "영어로 날짜와 요일을 묻고 답하는 방법에 대한 설명으로 옳은 것을 모두 고른 것은?",
+    "passage": "[ 보기 ]\n가. 'What day is it today?'에는 'It is May 5th.'로 대답한다.\n나. 'What is the date today?'는 오늘 날짜를 묻는 표현이다.\n다. 요일을 말할 때는 'It is Friday.'처럼 It을 주어로 쓴다.\n라. 'June 1st'의 1st는 first로 읽는다.",
+    "c": [
+     "가, 나",
+     "다, 라",
+     "나, 다, 라",
+     "가, 나, 라",
+     "가, 다"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "영어로 날짜와 요일을 묻고 답하는 방법에 대한 설명으로 옳은 것을 모두 고른 것은?",
+    "passage": "[ 보기 ]\n가. 'What date is it?'은 요일을 묻는 표현이다.\n나. 'What day is it?'이라고 물으면 'It is Monday.'처럼 대답한다.\n다. 날짜의 '3rd'는 three가 아니라 third로 읽는다.\n라. 요일 이름은 문장 가운데에 오면 소문자로 시작한다.",
+    "c": [
+     "가, 나",
+     "나, 다",
+     "가, 다, 라",
+     "나, 다, 라",
+     "가, 나, 다"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "영어로 날짜와 요일을 묻고 답하는 방법에 대한 설명으로 옳은 것을 모두 고른 것은?",
+    "passage": "[ 보기 ]\n가. 'What date is it today?'라고 물으면 'It is June 2nd.'처럼 대답한다.\n나. 날짜의 '2nd'는 two로 읽는다.\n다. 요일을 물을 때는 'What time is it?'이라고 한다.\n라. 'It is Friday.'는 요일을 묻는 말에 알맞은 대답이다.",
+    "c": [
+     "가, 나",
+     "다, 라",
+     "가, 다, 라",
+     "가, 라",
+     "나, 다, 라"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "영어로 날짜와 요일을 묻고 답하는 방법에 대한 설명으로 옳은 것을 모두 고른 것은?",
+    "passage": "[ 보기 ]\n가. 'What day was it?'은 지난 요일을 묻는 표현이다.\n나. first, second, third는 기수이다.\n다. June은 달(월)의 이름이다.\n라. 'It is Sunday.'의 It은 요일을 나타내는 비인칭 주어이다.",
+    "c": [
+     "가, 다, 라",
+     "나, 다, 라",
+     "가, 나",
+     "가, 다",
+     "가, 나, 다, 라"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "영어로 날짜와 요일을 묻고 답하는 방법에 대한 설명으로 옳은 것을 모두 고른 것은?",
+    "passage": "[ 보기 ]\n가. 'When is your birthday?'에는 'It is May 3rd.'처럼 날짜로 답할 수 있다.\n나. 'What day is it?'은 요일을 묻는 질문이다.\n다. December는 요일의 이름이다.\n라. third는 서수이다.",
+    "c": [
+     "가, 나",
+     "나, 다, 라",
+     "가, 다",
+     "가, 나, 다",
+     "가, 나, 라"
+    ],
+    "ans": 5
+   }
+  },
+  "target_answer_position": 1
+ }
+]

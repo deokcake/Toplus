@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T05:15:22.609Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Does he mind wait here?",
+      "1": "Does mind he waiting here?",
+      "2": "He does mind to wait here?",
+      "3": "Does he mind to wait here?",
+      "4": "Does he mind waiting here?"
+    },
+    "expl": "핵심 규칙: mind, enjoy는 동명사를 목적어로 쓴다. 일반동사 의문문은 Do(Does) + 주어 + 동사원형 순서다.\n풀이 순서: ① 의문문의 뼈대를 세운다: Does + 주어 + mind. → ② mind 뒤의 동사(wait)는 동명사(waiting)로 바꾼다. 발문이 형태를 바꿔도 된다고 한 까닭이다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: Does + 주어 + mind + 동명사로 바르게 배열했으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 동사원형(wait)을 동명사(waiting)로 바꿔야 하므로 오답이다.\n② [오답] Does + 주어 + 동사 순서가 아니므로 오답이다.\n③ [오답] 의문문 어순(Do/Does + 주어)이 아니고 to부정사를 썼으므로 오답이다.\n④ [오답] mind는 to부정사가 아니라 동명사를 목적어로 쓰므로 오답이다.\n⑤ [정답] Does + 주어 + mind + 동명사로 바르게 배열했으므로 정답이다.",
+    "passage": "그는 여기서 기다리는 것을 꺼리니?\n(he / mind / wait / here / does / ?)",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:15:11.863Z"
+  },
+  "tab": "fhh9u0lo",
+  "updatedAt": "2026-10-23T05:15:22.609Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:15:22.609Z",
+      "what": "확인 완료"
+    }
+  }
+}

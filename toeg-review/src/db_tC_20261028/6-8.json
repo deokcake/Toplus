@@ -1,0 +1,41 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-21T10:54:12.820Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "a foot",
+      "1": "footes",
+      "2": "foots",
+      "3": "foot",
+      "4": "feet"
+    },
+    "expl": "핵심 규칙: ten, three, two, several 뒤에서는 명사의 알맞은 복수형을 쓴다.\n풀이 순서: ① 빈칸 앞뒤에서 수를 나타내는 말을 찾는다: three. 복수형이 필요하다. → ② 단수형과 a가 붙은 것을 지운다. → ③ foot의 복수형은 feet이다. 정답은 feet.\n문장별 판정:\n정답 판단: foot의 불규칙 복수형은 feet이다. 지문의 수량 표현은 둘 이상을 요구하므로 이 복수형이 알맞다. 따라서 정답은 ⑤이다.\n선택지 분석:\n① [오답] foot의 불규칙 복수형은 feet이다. 수량 표현 뒤에는 a foot이 아니라 feet가 필요하다.\n② [오답] foot의 불규칙 복수형은 feet이다. 수량 표현 뒤에는 footes가 아니라 feet가 필요하다.\n③ [오답] foot의 불규칙 복수형은 feet이다. 수량 표현 뒤에는 foots가 아니라 feet가 필요하다.\n④ [오답] foot의 불규칙 복수형은 feet이다. 수량 표현 뒤에는 foot이 아니라 feet가 필요하다.\n⑤ [정답] foot의 불규칙 복수형은 feet이다. 지문의 수량 표현은 둘 이상을 요구하므로 이 복수형이 알맞다.",
+    "passage": "The two desks are three _______ apart.",
+    "stem": "다음 빈칸에 들어갈 단어의 형태가 알맞은 것을 고르세요."
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T10:54:08.956Z",
+      "text": "several 말고 three 로 바꿔"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:37:53.650Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T03:37:53.650Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T10:54:12.820Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:37:53.650Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-09-30T12:44:47.102Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "Having finished the task, we left the office.",
+      "1": "Being finished the task, we left the office.",
+      "2": "Finished the task, we left the office.",
+      "3": "Because having finished the task, we left the office.",
+      "4": "Having finishing the task, we left the office."
+    },
+    "expl": "핵심 규칙: 부사절을 분사구문으로 바꿀 때는 접속사와 같은 주어를 빼고 동사를 분사로 바꾼다. 능동이면 -ing, 수동이면 과거분사, 먼저 일어난 일이면 Having + 과거분사를 쓰고, 뒤에 and를 붙이지 않는다.\n풀이 순서: ① 부사절에서 접속사(Because)와 주절과 같은 주어를 지운다. → ② 남은 동사(had finished)를 분사로 바꾼다. 주절보다 앞선 때이므로 Having finished가 된다. → ③ 주절은 그대로 둔다. 접속사가 남았거나 분사의 모양이 다른 보기를 지우면 정답은 ①.\n문장별 판정:\n정답 판단: 먼저 끝낸 일을 Having + 과거분사로 바르게 나타냈다. 정답은 ①이다.\n선택지 분석:\n① [정답] 먼저 끝낸 일을 Having + 과거분사로 바르게 나타냈다. 정답이다.\n② [오답] Being + 과거분사는 수동이라 우리가 끝낸 뜻이 아니고 목적어도 올 수 없다. 오답이다.\n③ [오답] 과거분사만 쓰면 수동의 뜻이 되어 우리가 과제를 끝낸 뜻이 아니다. 오답이다.\n④ [오답] 분사구문에서는 접속사 because를 남기지 않는다. 오답이다.\n⑤ [오답] Having 뒤에는 과거분사가 와야 한다. finishing은 틀린 형태이다. 오답이다.",
+    "passage": null,
+    "stem": "다음 문장을 분사구문을 사용하여 바르게 바꾼 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-09-30T12:44:46.379Z"
+  },
+  "tab": "bijqceul",
+  "updatedAt": "2026-09-30T12:44:47.102Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-09-30T12:44:47.102Z",
+      "what": "확인 완료"
+    }
+  }
+}

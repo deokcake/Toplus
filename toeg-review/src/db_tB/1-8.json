@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-09-29T07:49:39.666Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A) to - (B) for - (C) to",
+      "1": "(A) of - (B) for - (C) to",
+      "2": "(A) for - (B) to - (C) of",
+      "3": "(A) to - (B) of - (C) for",
+      "4": "(A) to - (B) for - (C) of"
+    },
+    "expl": "핵심 규칙: explain A to + 사람, prepare A for + 사람, ask a favor of + 사람처럼 동사마다 사람 앞 전치사가 정해져 있다.\n풀이 순서: ① 빈칸 앞의 동사 세 개를 찾는다: (A) explain, (B) prepare, (C) ask a favor. → ② ask a favor 뒤에는 of, ‘~을 위해 해 주는’ 동사(prepare) 뒤에는 for, ‘~에게 건네는’ 동사(explain) 뒤에는 to를 쓴다. → ③ 세 자리를 순서대로 맞춘 (A) to - (B) for - (C) of를 고른다.\n문장별 판정:\n정답 판단: (A) explain A to, (B) prepare A for, (C) ask a favor of이므로 to - for - of가 맞다.\n선택지 분석:\n① [오답] (C) 자리는 of가 맞다. 따라서 오답이다.\n② [오답] (A) 자리는 to가 맞다, (C) 자리는 of가 맞다. 따라서 오답이다.\n③ [오답] (A) 자리는 to가 맞다, (B) 자리는 for가 맞다. 따라서 오답이다.\n④ [오답] (B) 자리는 for가 맞다, (C) 자리는 of가 맞다. 따라서 오답이다.\n⑤ [정답] (A) explain A to, (B) prepare A for, (C) ask a favor of이므로 to - for - of가 맞다. 모든 자리가 맞으므로 정답이다.",
+    "passage": "• The guide explained the safety rule (A)_____ the visitors.\n• The chef prepared a vegetarian meal (B)_____ Mina.\n• The reporter asked a favor (C)_____ the scientist.",
+    "stem": "다음 빈칸 (A), (B), (C)에 들어갈 전치사가 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-04T10:13:57.287Z"
+  },
+  "tab": "490f725g",
+  "updatedAt": "2026-10-04T10:13:57.287Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-04T10:13:57.287Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

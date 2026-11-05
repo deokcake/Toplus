@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:55:51.057Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "heavyly",
+      "1": "heavily",
+      "2": "heavy",
+      "3": "heaviness",
+      "4": "heavilly"
+    },
+    "expl": "핵심 규칙: 형용사에 -ly를 붙여 부사를 만든다. 자음 + y로 끝나면 y를 i로 바꾸고 -ly를 붙이며(happy → happily, easy → easily), -ful로 끝나면 -ly만 붙인다(careful → carefully).\n풀이 순서: ① ‘무겁게’는 동사를 꾸미므로 부사가 필요하다. 형용사와 명사를 지운다. → ② 형용사 heavy에 -ly를 붙인다. 자음 + y로 끝나므로 y를 i로 바꾼다. → ③ 정답은 heavily.\n문장별 판정:\n정답 판단: y를 i로 바꾸고 -ly를 붙인 부사 heavily를 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 자음 + y로 끝나는 형용사(heavy)는 y를 i로 바꾸고 -ly를 붙여 부사(heavily)가 되므로 오답이다.\n② [정답] y를 i로 바꾸고 -ly를 붙인 부사 heavily를 바르게 썼으므로 정답이다.\n③ [오답] 형용사 heavy로는 동사 breathed를 꾸밀 수 없으므로 오답이다.\n④ [오답] ‘무거움’이라는 명사라 동사를 꾸밀 수 없으므로 오답이다.\n⑤ [오답] -ly에 l을 한 번만 써서 heavily가 되므로 오답이다.",
+    "passage": "그는 무겁게 숨을 쉬었다.\n→ He breathed ________.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:55:48.529Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:55:51.057Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:55:51.057Z",
+      "what": "확인 완료"
+    }
+  }
+}

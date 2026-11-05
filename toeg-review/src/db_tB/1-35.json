@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-09-30T04:52:37.039Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": null,
+      "1": "b, d, e",
+      "2": "a, c, d",
+      "3": "c, d, e",
+      "4": "a, b, e"
+    },
+    "expl": "핵심 규칙: ask·tell·advise·order·allow + 목적어 + to부정사를 수동태로 바꾸면 be + 과거분사 뒤에 to부정사를 그대로 둔다. call off, look into, take care of 같은 구동사는 수동태에서도 전치사·부사를 빠뜨리지 않는다.\n풀이 순서: ① 화살표 앞뒤를 견주며 두 가지만 본다. 능동문의 to부정사가 수동문에서도 to부정사로 남았는지, 구동사의 전치사·부사가 수동문에 남았는지. → ② b는 to submitting, d는 warming up으로 to부정사가 깨졌고, e는 take care of의 of가 빠졌다. a의 were permitted to use와 c의 was put off는 옳다. → ③ 틀린 세 문장을 모은 b, d, e를 고른다.\n문장별 판정:\na) 옳음: were permitted 뒤에 to use를 그대로 두었다.\nb) 틀림: were asked 뒤에는 to + 동사원형이 온다. to submitting → to submit.\nc) 옳음: 구동사 put off를 그대로 두었다.\nd) 틀림: were instructed 뒤에는 to부정사가 온다. warming up → to warm up.\ne) 틀림: take care of의 of를 빠뜨렸다. taken care → taken care of.\n정답 판단: 어법상 틀린 문장은 b, d, e이다.\n선택지 분석:\n① [오답] a, c는 틀린 문장이 아니고, 틀린 문장 d, e를 빠뜨렸다. 따라서 오답이다.\n② [정답] 틀린 문장 b, d, e를 빠짐없이 골랐으므로 정답이다.\n③ [오답] a, c는 틀린 문장이 아니고, 틀린 문장 b, e를 빠뜨렸다. 따라서 오답이다.\n④ [오답] c는 틀린 문장이 아니고, 틀린 문장 b를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] a는 틀린 문장이 아니고, 틀린 문장 d를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "a) The librarian permitted us to use the meeting room.\n→ We were permitted to use the meeting room by the librarian.\nb) The teacher asked us to submit the reports.\n→ We were asked to submitting the reports by the teacher.\nc) The organizers put off the outdoor concert.\n→ The outdoor concert was put off by the organizers.\nd) The coach instructed the players to warm up.\n→ The players were instructed warming up by the coach.\ne) The nurse took care of the patient.\n→ The patient was taken care by the nurse.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-09-30T04:52:36.081Z"
+  },
+  "tab": "53o9ohxc",
+  "updatedAt": "2026-09-30T04:52:37.039Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-09-30T04:52:37.039Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T06:43:19.428Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "The chef is tasting the sauce right now.",
+      "1": "This box is containing old family photos.",
+      "2": "Look! It snowed heavily outside now.",
+      "3": "My parents are owning a small café.",
+      "4": "Tomorrow, the students took a big test."
+    },
+    "expl": "핵심 규칙: own, know, belong, contain, seem, resemble 같은 상태동사는 보통 진행형으로 쓰지 않는다. 다만 have(먹다), taste(맛보다), think about(곰곰이 생각하다)처럼 동작을 나타낼 때는 진행형을 쓸 수 있다. 또 now, yesterday, last year, tomorrow 같은 시간 표현과 동사의 시제가 맞아야 한다.\n풀이 순서: ① 문장마다 두 가지를 본다. 진행형으로 쓴 동사가 상태동사인지, 시간 표현과 시제가 맞는지. → ② is containing, are owning은 상태동사의 진행형이라 틀렸고, now + snowed, Tomorrow + took은 시제가 어긋난다. → ③ 남는 ①은 taste가 ‘맛을 보다’라는 동작이라 진행형이 가능하다.\n문장별 판정:\n정답 판단: ‘The chef is tasting the sauce right now.’의 동사(taste)는 ‘맛을 보다’라는 동작을 나타내므로 진행형으로 쓸 수 있어 정답은 ①이다.\n선택지 분석:\n① [정답] ‘The chef is tasting the sauce right now.’의 동사(taste)는 ‘맛을 보다’라는 동작을 나타내므로 진행형으로 쓸 수 있어 정답이다.\n② [오답] ‘This box is containing old family photos.’의 동사 contain: ‘담고 있다’는 상태동사라 진행형으로 쓰지 않는다. ‘This box contains old family photos.’로 고쳐야 하므로 오답이다.\n③ [오답] ‘Look! It snowed heavily outside now.’은 시간 표현(Look!, now)과 동사의 시제가 맞지 않는다. ‘Look! It is snowing heavily outside now.’로 고쳐야 하므로 오답이다.\n④ [오답] ‘My parents are owning a small café.’의 동사 own: ‘소유하다’는 상태동사라 진행형으로 쓰지 않는다. ‘My parents own a small café.’로 고쳐야 하므로 오답이다.\n⑤ [오답] ‘Tomorrow, the students took a big test.’은 시간 표현(Tomorrow)과 동사의 시제가 맞지 않는다. ‘Tomorrow, the students will take a big test.’로 고쳐야 하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 어법상 옳은 문장은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T06:43:10.200Z"
+  },
+  "tab": "sj53vmnt",
+  "updatedAt": "2026-10-23T06:43:19.428Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T06:43:19.428Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-21 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-09-29T07:50:07.214Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 목적어의 상태·성질을 서술하는 목적격보어에는 형용사나 분사를 쓴다. -ly라는 철자만으로 품사를 결정하지 않는다.\n풀이 순서: ① 문장마다 make·keep·find·leave + 목적어 뒤에 온 말(목적격 보어)을 찾는다. → ② 그 자리에 -ly 부사가 오면 어색한 문장이다: (b) comfortably. → ③ 세어 보면 1개이다.\n문장별 판정:\n(a) 옳음: hungry가 me의 상태를 설명한다.\n(b) 틀림: chair의 성질을 판단하므로 형용사 comfortable이 필요하다. comfortably → comfortable.\n(c) 옳음: focused가 us의 집중한 상태를 설명한다.\n(d) 옳음: running은 engine이 작동 중인 상태를 나타낸다.\n(e) 옳음: dangerous가 road의 위험한 상태를 설명한다.\n정답 판단: 어법상 틀린 문장은 b의 1개이다.\n선택지 분석:\n① [정답] 어법상 틀린 문장은 b의 1개이다. 이 보기의 1개는 실제 개수와 일치한다.\n② [오답] 어법상 틀린 문장은 b의 1개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 어법상 틀린 문장은 b의 1개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 어법상 틀린 문장은 b의 1개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 틀린 문장은 b의 1개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "(a) The smell of fresh bread made me hungry.\n(b) We found the new chair comfortably after a long day.\n(c) The teacher kept us focused during the lesson.\n(d) She left the engine running in the parking lot.\n(e) The heavy rain made the road dangerous at night.",
+    "stem": "다음 중 어법상 어색한 문장의 개수는?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-09-29T07:49:59.214Z"
+  },
+  "tab": "oa0m4q6z",
+  "updatedAt": "2026-10-21T04:33:01.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-09-29T07:50:07.214Z",
+      "what": "확인 완료"
+    }
+  }
+}

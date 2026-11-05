@@ -1,0 +1,86 @@
+{
+ "key": "4-10",
+ "grade": 4,
+ "chapter": "CH 1 명사와 관사",
+ "items": {
+  "A": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?",
+   "passage": "(A) I need <u>some water</u>.\n(B) There are <u>two childs</u> in the room.\n(C) He goes there <u>by a taxi</u>.\n(D) I play <u>the tennis</u> in the afternoon.",
+   "c": [
+    "(A), (B)",
+    "(B), (C)",
+    "(A), (C), (D)",
+    "(B), (C), (D)",
+    "(A), (B), (C), (D)"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: some + 셀 수 없는 명사, child의 복수형은 children, by + 교통수단은 무관사, play + 운동 이름은 무관사(play tennis).\n풀이 순서: ① 밑줄마다 확인할 점을 정한다: 수량 표현 + 명사, 복수형, by + 교통수단, play + 운동·악기, a/an. → ② (B) childs(children), (C) by a taxi(by taxi), (D) the tennis(tennis)가 틀렸다. (A)만 옳다. → ③ 틀린 것을 빠짐없이 고른 (B), (C), (D)가 정답이다.\n문장별 판정: (A) O. 셀 수 없는 명사 water 앞의 some. (B) X. child의 복수형은 children. (C) X. by taxi로 관사 없이 쓴다. (D) X. 운동 이름 앞에는 the를 쓰지 않는다(play tennis).\n정답 판단: 틀린 문장 (B), (C), (D)를 모두 골랐으므로 정답은 ④이다.\n선택지 분석:\n① [오답] (A)는 옳은 문장이고 (C), (D)가 빠졌으므로 오답이다.\n② [오답] (D)가 빠졌으므로 오답이다.\n③ [오답] (A)는 옳은 문장이고 (B)가 빠졌으므로 오답이다.\n④ [정답] 틀린 문장 (B), (C), (D)를 모두 골랐으므로 정답이다.\n⑤ [오답] (A)는 옳은 문장이므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?",
+   "passage": "(A) She drinks <u>some milks</u>.\n(B) I see <u>two feet</u>.\n(C) Tom plays <u>the drums</u>.\n(D) They go <u>to home</u>.",
+   "c": [
+    "(A), (D)",
+    "(B), (C)",
+    "(A), (B), (D)",
+    "(B), (C), (D)",
+    "(A), (B), (C), (D)"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 셀 수 없는 명사는 복수형을 쓰지 않고, 불규칙 복수형(feet, children, mice, men, women)을 따로 익힌다. by + 교통수단과 운동 이름 앞에는 관사를 쓰지 않고, 악기 앞에는 the를 쓰며, a/an은 첫소리로 정한다.\n풀이 순서: ① 밑줄마다 확인할 점을 정한다: 수량 표현 + 명사, 복수형, by + 교통수단, play + 운동·악기, a/an. → ② (A) some milks(some milk), (D) go to home(go home)이 틀렸다. (B), (C)는 옳다. → ③ 틀린 것을 빠짐없이 고른 (A), (D)가 정답이다.\n문장별 판정:\n(A) X. milk는 셀 수 없는 명사라 복수형을 쓰지 않는다.\n(B) O. foot의 불규칙 복수형 feet이다.\n(C) O. 악기 앞에 the를 썼다.\n(D) X. ‘집에 가다’는 go home으로 to를 쓰지 않는다.\n정답 판단: 밑줄 친 부분이 틀린 문장은 (A), (D)이다.\n선택지 분석:\n① [정답] 틀린 문장 (A), (D)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (B), (C)는 틀린 문장이 아니고, 틀린 문장 (A), (D)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (B)는 틀린 문장이 아니다. 따라서 오답이다.\n④ [오답] (B), (C)는 틀린 문장이 아니고, 틀린 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (B), (C)는 틀린 문장이 아니다. 따라서 오답이다."
+  },
+  "C": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?",
+   "passage": "(A) I need <u>some breads</u>.\n(B) There are <u>two children</u>.\n(C) He plays <u>a piano</u> every day.\n(D) She lives in <u>a old house</u>.",
+   "c": [
+    "(A), (C)",
+    "(B), (D)",
+    "(A), (C), (D)",
+    "(A), (B), (C)",
+    "(A), (B), (C), (D)"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 셀 수 없는 명사는 복수형을 쓰지 않고, 불규칙 복수형(feet, children, mice, men, women)을 따로 익힌다. by + 교통수단과 운동 이름 앞에는 관사를 쓰지 않고, 악기 앞에는 the를 쓰며, a/an은 첫소리로 정한다.\n풀이 순서: ① 밑줄마다 확인할 점을 정한다: 수량 표현 + 명사, 복수형, by + 교통수단, play + 운동·악기, a/an. → ② (A) some breads(some bread), (C) plays a piano(plays the piano), (D) a old house(an old house)가 틀렸다. (B)는 옳다. → ③ 틀린 것을 빠짐없이 고른 (A), (C), (D)가 정답이다.\n문장별 판정:\n(A) X. bread는 셀 수 없는 명사라 복수형을 쓰지 않는다.\n(B) O. child의 불규칙 복수형 children이다.\n(C) X. 악기 앞에는 the를 써서 play the piano로 쓴다.\n(D) X. old는 모음 소리로 시작해 an old house로 쓴다.\n정답 판단: 밑줄 친 부분이 틀린 문장은 (A), (C), (D)이다.\n선택지 분석:\n① [오답] 틀린 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (B)는 틀린 문장이 아니고, 틀린 문장 (A), (C)를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 틀린 문장 (A), (C), (D)를 빠짐없이 골랐으므로 정답이다.\n④ [오답] (B)는 틀린 문장이 아니고, 틀린 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (B)는 틀린 문장이 아니다. 따라서 오답이다."
+  },
+  "D": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?",
+   "passage": "(A) We eat <u>some rice</u> for dinner.\n(B) I saw three <u>mouses</u> in the kitchen.\n(C) She goes to school <u>by the bus</u> every morning.\n(D) He has <u>an umbrella</u> in his bag.",
+   "c": [
+    "(A), (B)",
+    "(B), (C)",
+    "(B), (C), (D)",
+    "(A), (C), (D)",
+    "(A), (B), (C), (D)"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 셀 수 없는 명사는 복수형을 쓰지 않고, 불규칙 복수형(feet, children, mice, men, women)을 따로 익힌다. by + 교통수단과 운동 이름 앞에는 관사를 쓰지 않고, 악기 앞에는 the를 쓰며, a/an은 첫소리로 정한다.\n풀이 순서: ① 밑줄마다 확인할 점을 정한다: 수량 표현 + 명사, 복수형, by + 교통수단, play + 운동·악기, a/an. → ② (B) mouses(mice), (C) by the bus(by bus)가 틀렸다. (A), (D)는 옳다. → ③ 틀린 것을 빠짐없이 고른 (B), (C)가 정답이다.\n문장별 판정:\n(A) O. 셀 수 없는 명사 rice에 some을 썼다.\n(B) X. mouse의 복수형은 mice이다.\n(C) X. by + 교통수단에는 관사를 쓰지 않는다.\n(D) O. umbrella는 모음 소리로 시작해 an을 쓴다.\n정답 판단: 밑줄 친 부분이 틀린 문장은 (B), (C)이다.\n선택지 분석:\n① [오답] (A)는 틀린 문장이 아니고, 틀린 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 틀린 문장 (B), (C)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (D)는 틀린 문장이 아니다. 따라서 오답이다.\n④ [오답] (A), (D)는 틀린 문장이 아니고, 틀린 문장 (B)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (A), (D)는 틀린 문장이 아니다. 따라서 오답이다."
+  },
+  "E": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?",
+   "passage": "(A) I need <u>some moneys</u> for the bus ride.\n(B) There are <u>two mans</u> at the front door.\n(C) He plays <u>the soccer</u> after school every day.\n(D) She sees <u>an dog</u> in the park.",
+   "c": [
+    "(A), (B)",
+    "(C), (D)",
+    "(A), (B), (C)",
+    "(B), (C), (D)",
+    "(A), (B), (C), (D)"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 셀 수 없는 명사는 복수형을 쓰지 않고, 불규칙 복수형(feet, children, mice, men, women)을 따로 익힌다. by + 교통수단과 운동 이름 앞에는 관사를 쓰지 않고, 악기 앞에는 the를 쓰며, a/an은 첫소리로 정한다.\n풀이 순서: ① 밑줄마다 확인할 점을 정한다: 수량 표현 + 명사, 복수형, by + 교통수단, play + 운동·악기, a/an. → ② (A) moneys(money), (B) mans(men), (C) the soccer(soccer), (D) an dog(a dog)로 네 문장이 모두 틀렸다. → ③ 틀린 것을 빠짐없이 고른 (A), (B), (C), (D)가 정답이다.\n문장별 판정:\n(A) X. money는 셀 수 없는 명사라 복수형을 쓰지 않는다.\n(B) X. man의 복수형은 men이다.\n(C) X. 운동 이름 앞에는 관사를 쓰지 않는다.\n(D) X. dog는 자음 소리로 시작해 a를 쓴다.\n정답 판단: 밑줄 친 부분이 틀린 문장은 (A), (B), (C), (D)이다.\n선택지 분석:\n① [오답] 틀린 문장 (C), (D)를 빠뜨렸다. 따라서 오답이다.\n② [오답] 틀린 문장 (A), (B)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] 틀린 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] 틀린 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 틀린 문장 (A), (B), (C), (D)를 빠짐없이 골랐으므로 정답이다."
+  },
+  "F": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?",
+   "passage": "(A) Mom bought <u>some bread</u> at the bakery.\n(B) There are three <u>women</u> in the shop.\n(C) Jane goes to school <u>by a bike</u> every day.\n(D) He has <u>a egg</u> in his lunch box.",
+   "c": [
+    "(A), (C)",
+    "(B), (D)",
+    "(A), (C), (D)",
+    "(C), (D)",
+    "(B), (C), (D)"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 셀 수 없는 명사는 복수형을 쓰지 않고, 불규칙 복수형(feet, children, mice, men, women)을 따로 익힌다. by + 교통수단과 운동 이름 앞에는 관사를 쓰지 않고, 악기 앞에는 the를 쓰며, a/an은 첫소리로 정한다.\n풀이 순서: ① 밑줄마다 확인할 점을 정한다: 수량 표현 + 명사, 복수형, by + 교통수단, play + 운동·악기, a/an. → ② (C) by a bike(by bike), (D) a egg(an egg)가 틀렸다. (A), (B)는 옳다. → ③ 틀린 것을 빠짐없이 고른 (C), (D)가 정답이다.\n문장별 판정:\n(A) O. 셀 수 없는 명사 bread에 some을 썼다.\n(B) O. woman의 불규칙 복수형 women이다.\n(C) X. by + 교통수단에는 관사를 쓰지 않는다.\n(D) X. egg는 모음 소리로 시작해 an을 쓴다.\n정답 판단: 밑줄 친 부분이 틀린 문장은 (C), (D)이다.\n선택지 분석:\n① [오답] (A)는 틀린 문장이 아니고, 틀린 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (B)는 틀린 문장이 아니고, 틀린 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (A)는 틀린 문장이 아니다. 따라서 오답이다.\n④ [정답] 틀린 문장 (C), (D)를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] (B)는 틀린 문장이 아니다. 따라서 오답이다."
+  }
+ },
+ "prior_review": {}
+}

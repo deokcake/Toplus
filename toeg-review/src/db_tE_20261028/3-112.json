@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:29:11.721Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "(A) in / (B) on",
+      "1": "(A) at / (B) in",
+      "2": "(A) on / (B) in",
+      "3": "(A) at / (B) of",
+      "4": "(A) in / (B) of"
+    },
+    "expl": "핵심 규칙: 장소 전치사는 at the end of, at the corner of, in front of, on the top shelf, at home, in the room처럼 명사와 어울리는 짝으로 쓴다.\n풀이 순서: ① (A)를 정한다: ‘~ 앞에’는 in front of로 굳어진 표현이다. (A)는 in이다. → ② (B)를 정한다: (B)는 of다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: ‘~ 앞에’는 in front of로 나타내 (A)에는 in, (B)에는 of이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] (B) on: (B)에는 of이다. 따라서 오답이다.\n② [오답] (A) at: ‘~ 앞에’는 in front of로 나타내 (A)에는 in이다, (B) in: (B)에는 of이다. 따라서 오답이다.\n③ [오답] (A) on: ‘~ 앞에’는 in front of로 나타내 (A)에는 in이다, (B) in: (B)에는 of이다. 따라서 오답이다.\n④ [오답] (A) at: ‘~ 앞에’는 in front of로 나타내 (A)에는 in이다. 따라서 오답이다.\n⑤ [정답] ‘~ 앞에’는 in front of로 나타내 (A)에는 in, (B)에는 of이므로 정답이다.",
+    "passage": "A: Where is the subway station?\nB: It is (<u>    A    </u>) front (<u>    B    </u>) the bank on Main Street.",
+    "stem": "다음 대화의 빈칸에 들어갈 전치사가 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T04:56:36.145Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:56:49.206Z",
+      "text": "기준 문항에 비해 문장이 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:29:11.721Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:29:08.555Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:29:11.721Z",
+      "what": "확인 완료"
+    }
+  }
+}

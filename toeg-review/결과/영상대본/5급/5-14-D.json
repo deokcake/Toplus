@@ -1,0 +1,176 @@
+{
+ "key": "5-14",
+ "type": "D",
+ "grade": 5,
+ "chapter": "CH 2 be동사와 일반동사",
+ "title": "be동사와 일반동사의 현재 부정문",
+ "total_sec": 123,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 2 be동사와 일반동사 · 14번 · D 유형\n\n이 문제는 be동사와 일반동사의 현재 부정문 가운데 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 2 be동사와 일반동사 · 14번 · D 유형",
+     "이 문제는 be동사와 일반동사의 현재 부정문 가운데 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 2, 14번 D 유형. 이 문제는 be동사와 일반동사의 현재 부정문 가운데 틀린 문장을 고르는 문제예요.",
+   "caption": "부정문 틀린 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① You aren't alone.\n② They don't live here.\n③ Jane isn't a nurse.\n④ The kids aren't at school.\n⑤ Tom doesn't eats meat.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 틀린 문장을 고르시오.",
+     "① You aren't alone.",
+     "② They don't live here.",
+     "③ Jane isn't a nurse.",
+     "④ The kids aren't at school.",
+     "⑤ Tom doesn't eats meat."
+    ]
+   },
+   "narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 부정문: am, are, is 뒤에 not (is not → isn't, are not → aren't)\n일반동사 현재 부정문: 동사 앞에 don't 또는 doesn't\n3인칭 단수 주어(he, she, it, Tom 등) → doesn't · 그 밖의 주어 → don't\ndon't, doesn't 뒤에는 늘 동사원형\n예) My dad doesn't drink milk. (우리 아빠는 우유를 마시지 않아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 부정문: am, are, is 뒤에 not (is not → isn't, are not → aren't)",
+     "일반동사 현재 부정문: 동사 앞에 don't 또는 doesn't",
+     "3인칭 단수 주어(he, she, it, Tom 등) → doesn't · 그 밖의 주어 → don't",
+     "don't, doesn't 뒤에는 늘 동사원형",
+     "예) My dad doesn't drink milk. (우리 아빠는 우유를 마시지 않아요.)"
+    ]
+   },
+   "narration": "be동사 am, are, is 뒤에 not을 붙이면 ‘아니다’, ‘있지 않다’ 같은 뜻의 부정문이 되고, is not은 isn't, are not은 aren't로 줄여 쓸 수 있어요. 일반동사 현재형은 동사 앞에 don't나 doesn't를 써서 ‘하지 않는다’라는 뜻의 부정문을 만들어요. 주어가 3인칭 단수, 곧 he, she, it이나 Tom처럼 나도 너도 아닌 한 사람이나 한 개이면 doesn't를 쓰고, 그 밖의 주어에는 don't를 써요. 그리고 don't와 doesn't 뒤에는 늘 동사원형을 써요. My dad doesn't drink milk. 우리 아빠는 우유를 마시지 않아요.",
+   "caption": "be동사·일반동사의 부정문"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① You aren't alone.\n② They don't live here.\n③ Jane isn't a nurse.\n④ The kids aren't at school.\n⑤ Tom doesn't eats meat.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "① You aren't",
+       "③ Jane isn't",
+       "④ The kids aren't"
+      ],
+      "strike": [],
+      "note": "be동사 부정문 ①③④: You → aren't, 한 사람인 Jane → isn't, 여럿인 The kids → aren't → 맞다"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "② They don't live"
+      ],
+      "strike": [],
+      "note": "일반동사 부정문 ②: 여럿인 They → don't + live → 맞다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ Tom doesn't"
+      ],
+      "strike": [
+       "eats"
+      ],
+      "note": "⑤ 3인칭 단수 Tom → doesn't는 맞지만 뒤에 eats ✗ → eat. 틀린 문장은 ⑤"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, be동사 부정문인 1번, 3번, 4번을 보면, You에는 aren't, 한 사람인 Jane에는 isn't, 여럿인 The kids에는 aren't를 써서 모두 맞아요. 둘째, 일반동사 부정문인 2번은 여럿인 They에 don't를 쓰고, 뒤에 동사원형 live를 써서 맞아요. 셋째, 5번은 3인칭 단수 Tom에 doesn't를 쓴 것은 맞지만, 뒤에 동사원형이 아닌 eats를 썼으니 eat으로 고쳐야 해요. Tom doesn't eat meat. 톰은 고기를 먹지 않아요. 따라서 틀린 문장은 5번이에요.",
+   "caption": "be동사 → 일반동사 → ⑤"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① You aren't alone.  ✗  You에는 한 사람이어도 are → aren't, 맞는 문장\n② They don't live here.  ✗  여럿인 They에 don't + 동사원형 live → 맞는 문장\n③ Jane isn't a nurse.  ✗  한 사람인 Jane에 isn't → 맞는 문장\n④ The kids aren't at school.  ✗  여럿인 The kids에 aren't → 맞는 문장\n⑤ Tom doesn't eats meat.  ✓  doesn't 뒤는 동사원형 → eats를 eat으로 (틀린 문장)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① You aren't alone.  ✗  You에는 한 사람이어도 are → aren't, 맞는 문장",
+     "② They don't live here.  ✗  여럿인 They에 don't + 동사원형 live → 맞는 문장",
+     "③ Jane isn't a nurse.  ✗  한 사람인 Jane에 isn't → 맞는 문장",
+     "④ The kids aren't at school.  ✗  여럿인 The kids에 aren't → 맞는 문장",
+     "⑤ Tom doesn't eats meat.  ✓  doesn't 뒤는 동사원형 → eats를 eat으로 (틀린 문장)"
+    ]
+   },
+   "narration": "정답은 5번이에요. Tom은 3인칭 단수라 doesn't는 맞지만, doesn't 뒤에는 eats가 아니라 동사원형 eat을 써야 해요. 1번 You는 한 사람을 가리킬 때도 are를 쓰므로 aren't가 맞아요. 4번 The kids는 아이가 여럿이라 aren't가 맞아요. 2번도 여럿인 They에 don't와 동사원형 live를 써서 맞아요.",
+   "caption": "정답 ⑤ eats → eat"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ⑤ Tom doesn't eats meat.\n\nbe동사 뒤에 not · 3인칭 단수는 doesn't, 그 밖은 don't · 그 뒤에는 늘 동사원형",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ Tom doesn't eats meat.",
+     "be동사 뒤에 not · 3인칭 단수는 doesn't, 그 밖은 don't · 그 뒤에는 늘 동사원형"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 주어가 3인칭 단수여도 doesn't 뒤에는 s나 es가 붙지 않은 동사원형을 써요.",
+   "caption": "doesn't 뒤에는 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "You aren't alone.",
+   "They don't live here.",
+   "Jane isn't a nurse.",
+   "The kids aren't at school.",
+   "Tom doesn't eats meat."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: be동사 부정은 am not, isn't, aren't로, 일반동사 현재 부정은 3인칭 단수 주어에 doesn't + 동사원형, 그 밖에는 don't + 동사원형으로 쓴다.\n풀이 순서: ① be동사 부정문은 주어와 be동사가 맞는지 본다. → ② 일반동사 부정문은 don't/doesn't가 주어와 맞는지, 뒤가 동사원형인지 본다. → ③ 선택지 ⑤는 doesn't 뒤에 eats를 썼다. eat으로 고친다. 정답은 ⑤.\n문장별 판정:\n정답 판단: doesn't 뒤에는 동사원형 eat을 써야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.\n② [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.\n③ [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.\n④ [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.\n⑤ [정답] doesn't 뒤에는 동사원형 eat을 써야 하므로 정답이다."
+ }
+}

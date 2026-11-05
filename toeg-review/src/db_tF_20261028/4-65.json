@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-28T03:01:34.282Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "ⓐ, ⓑ",
+      "1": "ⓐ, ⓒ",
+      "2": "ⓑ, ⓒ",
+      "3": "ⓑ, ⓓ",
+      "4": "ⓒ, ⓓ"
+    },
+    "expl": "핵심 규칙: many·(a) few는 셀 수 있는 명사, much·(a) little은 셀 수 없는 명사와 쓴다. 빈도부사는 일반동사 앞, be동사 뒤에 두고, 3인칭 단수 주어의 동사에는 -s/-es를 붙인다.\n풀이 순서: ① 밑줄이 수량 표현이면 뒤의 명사가 셀 수 있는지, 동사이면 주어와 맞는지 본다. → ② ⓐ many water(much water), ⓒ seldom watch(watches)가 틀렸다. ⓑ, ⓓ는 옳다. → ③ 옳은 문장만 고른 ⓑ, ⓓ가 정답이다.\n문장별 판정:\nⓐ X. 셀 수 없는 명사 water에는 much를 쓴다.\nⓑ O. 셀 수 없는 명사 money에 little을 썼다.\nⓒ X. 3인칭 단수 주어 He에는 watches를 쓴다.\nⓓ O. 빈도부사가 be동사 뒤에 왔다.\n정답 판단: 밑줄 친 부분이 옳은 문장은 ⓑ, ⓓ이다.\n선택지 분석:\n① [오답] ⓐ는 옳은 문장이 아니고, 옳은 문장 ⓓ를 빠뜨렸다. 따라서 오답이다.\n② [오답] ⓐ, ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓑ, ⓓ를 빠뜨렸다. 따라서 오답이다.\n③ [오답] ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓓ를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 ⓑ, ⓓ를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓑ를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "ⓐ We drink <u>many water</u> after the game.\nⓑ She has <u>little money</u> in her pocket.\nⓒ He <u>seldom watch</u> TV on weekdays.\nⓓ They <u>are always</u> kind to new students.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-28T03:00:52.703Z"
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T03:01:34.282Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:01:34.282Z",
+      "what": "확인 완료"
+    }
+  }
+}

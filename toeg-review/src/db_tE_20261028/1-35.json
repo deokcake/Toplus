@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-23T19:23:57.518Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "a, b, c",
+      "1": "b, c, d",
+      "2": "c, d, e",
+      "3": "a, c, e",
+      "4": "b, d, e"
+    },
+    "expl": "핵심 규칙: ask·tell·advise·order·allow + 목적어 + to부정사를 수동태로 바꾸면 be + 과거분사 뒤에 to부정사를 그대로 둔다. call off, look into, take care of 같은 구동사는 수동태에서도 전치사·부사를 빠뜨리지 않는다.\n풀이 순서: ① 화살표 앞뒤를 견주며 두 가지만 본다. 능동문의 to부정사가 수동문에서도 to부정사로 남았는지, 구동사의 전치사·부사가 수동문에 남았는지. → ② c는 paying, e는 buy로 to부정사가 깨졌고, d는 hand in의 in이 빠졌다. a의 was allowed to leave와 b의 was looked up to by는 옳다. → ③ 틀린 세 문장을 모은 c, d, e를 고른다.\n문장별 판정:\na) 옳음: was allowed 뒤에 to leave를 그대로 두었다.\nb) 옳음: 구동사 look up to를 그대로 두었다.\nc) 틀림: was forced 뒤에는 to부정사가 온다. paying → to pay.\nd) 틀림: hand in의 in을 빠뜨렸다. were handed → were handed in.\ne) 틀림: was asked 뒤에는 to부정사가 온다. buy → to buy.\n정답 판단: 어법상 틀린 문장은 c, d, e이다.\n선택지 분석:\n① [오답] a, b는 틀린 문장이 아니고, 틀린 문장 d, e를 빠뜨렸다. 따라서 오답이다.\n② [오답] b는 틀린 문장이 아니고, 틀린 문장 e를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 틀린 문장 c, d, e를 빠짐없이 골랐으므로 정답이다.\n④ [오답] a는 틀린 문장이 아니고, 틀린 문장 d를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] b는 틀린 문장이 아니고, 틀린 문장 c를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "a) The manager allowed Tom to leave early for the dentist.\n→ Tom was allowed to leave early for the dentist by the manager.\nb) Everyone looked up to the old teacher in the village.\n→ The old teacher in the village was looked up to by everyone.\nc) The judge forced the man to pay the fine at once.\n→ The man was forced paying the fine at once by the judge.\nd) The students handed in their reports before the deadline.\n→ Their reports were handed before the deadline by the students.\ne) Mom asked me to buy some eggs on the way home.\n→ I was asked buy some eggs on the way home by Mom.",
+    "stem": "다음 중 어법상 틀린 문장을 모두 고르시오."
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:23:57.518Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:23:57.518Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:13:55.360Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "easy",
+      "1": "easily",
+      "2": "easiest",
+      "3": "more easy",
+      "4": "easier"
+    },
+    "expl": "핵심 규칙: than 앞에는 비교급을 쓴다. good - better, bad - worse, many·much - more, little - less, far - farther는 불규칙 변화이고, easy처럼 자음 + y로 끝나면 y를 i로 바꿔 -er을 붙인다.\n풀이 순서: ① 빈칸 뒤의 than을 본다. than 앞에는 비교급이 온다. → ② 괄호 안 낱말 easy의 비교급을 떠올린다: 자음 + y로 끝나므로 y를 i로 바꿔 easy - easier - easiest. → ③ 정답은 easier.\n문장별 판정:\n정답 판단: than 앞에 easy의 비교급 easier를 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] than 앞에는 원급을 쓸 수 없으므로 오답이다.\n② [오답] be동사 뒤 보어 자리에 부사를 쓸 수 없고 비교급도 아니므로 오답이다.\n③ [오답] than과 함께 최상급을 쓸 수 없으므로 오답이다.\n④ [오답] easy의 비교급은 more easy가 아니라 easier이므로 오답이다.\n⑤ [정답] than 앞에 easy의 비교급 easier를 바르게 썼으므로 정답이다.",
+    "passage": "A: How was the test?\nB: It was ______(easy) than I thought.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:13:54.938Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:13:55.360Z",
+      "what": "확인 완료"
+    }
+  }
+}

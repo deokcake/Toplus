@@ -1,0 +1,182 @@
+{
+ "key": "1-12",
+ "type": "D",
+ "grade": 1,
+ "chapter": "CH 2 시제",
+ "title": "끝난 과거 시점과 현재완료",
+ "total_sec": 140,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "1급 · CH 2 시제 · 12번 · D 유형\n\n이 문제는 때를 나타내는 말과 주어를 보고, 두 빈칸에 알맞은 동사 형태를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 2 시제 · 12번 · D 유형",
+     "이 문제는 때를 나타내는 말과 주어를 보고, 두 빈칸에 알맞은 동사 형태를 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 2, 12번 D 유형. 이 문제는 때를 나타내는 말과 주어를 보고, 두 빈칸에 알맞은 동사 형태를 고르는 문제예요.",
+   "caption": "과거형과 현재완료 짝짓기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 21,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.\n\nWe _____ the old bridge last summer.\nEngineers _____ a safer design recently.\n\n① repaired — create\n② repaired — has created\n③ repaired — have created\n④ repairs — create\n⑤ has repaired — have created",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+     "We _____ the old bridge last summer.",
+     "Engineers _____ a safer design recently.",
+     "① repaired — create",
+     "② repaired — has created",
+     "③ repaired — have created",
+     "④ repairs — create",
+     "⑤ has repaired — have created"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오. We 빈칸 the old bridge last summer. Engineers 빈칸 a safer design recently. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n끝난 과거 시점(yesterday, last week, two days ago) → 과거형 (현재완료 ✗)\n현재완료 = have/has + 과거분사: 과거의 일이 지금과 이어질 때\nhas는 3인칭 단수 주어에만, 그 밖의 주어(I, you, 복수)는 have\nrecently, lately로 최근부터 지금까지의 일을 말할 때 → 현재완료 (recently는 과거형과도 써요)\n예) We have learned a lot recently. (우리는 최근에 많은 것을 배웠어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "끝난 과거 시점(yesterday, last week, two days ago) → 과거형 (현재완료 ✗)",
+     "현재완료 = have/has + 과거분사: 과거의 일이 지금과 이어질 때",
+     "has는 3인칭 단수 주어에만, 그 밖의 주어(I, you, 복수)는 have",
+     "recently, lately로 최근부터 지금까지의 일을 말할 때 → 현재완료 (recently는 과거형과도 써요)",
+     "예) We have learned a lot recently. (우리는 최근에 많은 것을 배웠어요.)"
+    ]
+   },
+   "narration": "yesterday, last week 같은 끝난 과거 시점에는 과거형을 쓰고, 현재완료는 쓰지 않아요. 현재완료는 have나 has 뒤에 과거분사를 써서 과거의 일이 지금과 이어짐을 나타내고, has는 3인칭 단수 주어에만 써요. recently, lately로 최근부터 지금까지의 일을 말할 때도 현재완료를 써요. 예를 들어 We have learned a lot recently. 우리는 최근에 많은 것을 배웠어요.",
+   "caption": "끝난 과거 → 과거형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 39,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.\n\nWe _____ the old bridge last summer.\nEngineers _____ a safer design recently.\n\n① repaired — create\n② repaired — has created\n③ repaired — have created\n④ repairs — create\n⑤ has repaired — have created",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "last summer"
+      ],
+      "strike": [
+       "④ repairs — create",
+       "⑤ has repaired — have created"
+      ],
+      "note": "첫 문장 last summer = 끝난 과거 시점 → 과거형 repaired. 현재형 repairs(④), 현재완료 has repaired(⑤)는 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "recently"
+      ],
+      "strike": [
+       "① repaired — create"
+      ],
+      "note": "둘째 문장 recently + 최근에 만들어 낸 성과 → 현재형 create ✗, 현재완료"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "Engineers",
+       "③ repaired — have created"
+      ],
+      "strike": [
+       "② repaired — has created"
+      ],
+      "note": "주어 Engineers는 복수 → has ✗, have → ③ 남음"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 첫 문장의 last summer, 즉 지난여름은 끝난 과거 시점이라 과거형 repaired를 써요. 현재형 repairs인 4번과 현재완료 has repaired인 5번을 지워요. 둘째, 둘째 문장은 recently와 함께 최근에 만들어 낸 성과를 말하니, 현재형 create가 아니라 현재완료를 써야 해서 1번을 지워요. 셋째, 주어 Engineers는 복수라서 has가 아니라 have를 쓰니, 2번을 지우면 3번이 남아요. Engineers have created a safer design recently. 기술자들은 최근에 더 안전한 설계를 만들어 냈어요.",
+   "caption": "last summer → recently → 복수 have"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 25,
+   "screen": {
+    "text": "① repaired — create  ✗  repaired는 맞지만 현재형 create로는 최근 성과를 못 나타내요\n② repaired — has created  ✗  복수 주어 Engineers에는 has가 아니라 have\n③ repaired — have created  ✓  last summer엔 과거형, 복수 주어와 recently엔 have created\n④ repairs — create  ✗  지난여름 일에 현재형 repairs, 둘째도 현재형 create\n⑤ has repaired — have created  ✗  last summer와 현재완료는 함께 못 써요 (We에는 has도 ✗)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① repaired — create  ✗  repaired는 맞지만 현재형 create로는 최근 성과를 못 나타내요",
+     "② repaired — has created  ✗  복수 주어 Engineers에는 has가 아니라 have",
+     "③ repaired — have created  ✓  last summer엔 과거형, 복수 주어와 recently엔 have created",
+     "④ repairs — create  ✗  지난여름 일에 현재형 repairs, 둘째도 현재형 create",
+     "⑤ has repaired — have created  ✗  last summer와 현재완료는 함께 못 써요 (We에는 has도 ✗)"
+    ]
+   },
+   "narration": "정답은 3번 repaired, have created예요. 2번은 현재완료이지만, 복수 주어 Engineers에 has를 써서 틀렸어요. 5번 has repaired는 지난여름 같은 끝난 과거 시점과 쓸 수 없고, We에는 has도 쓰지 않아요. 1번은 repaired는 맞지만, 현재형 create로는 최근에 만들어 낸 성과를 나타낼 수 없어요.",
+   "caption": "정답 ③ repaired — have created"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ③ repaired — have created\n\n끝난 과거 시점 → 과거형 / 최근부터 지금까지의 일 → have/has + 과거분사 (복수 주어 → have)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ repaired — have created",
+     "끝난 과거 시점 → 과거형 / 최근부터 지금까지의 일 → have/has + 과거분사 (복수 주어 → have)"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 끝난 과거 시점은 과거형, 최근부터 지금까지의 일은 현재완료, 복수 주어에는 have예요.",
+   "caption": "복수 주어 + have + 과거분사"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+  "passage": "We _____ the old bridge last summer.\nEngineers _____ a safer design recently.",
+  "c": [
+   "repaired — create",
+   "repaired — has created",
+   "repaired — have created",
+   "repairs — create",
+   "has repaired — have created"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: yesterday·last week처럼 끝난 과거 시점에는 단순과거를 쓴다. 과거부터 현재까지의 최근 성과는 have/has + 과거분사로 나타낸다. 동사 선택과 시제·수 일치 오류는 구분한다.\n풀이 순서: ① 첫 문장에는 끝난 과거 시점(last summer)이 있으므로 과거형을 쓴다. 현재형과 현재완료를 지운다. → ② 둘째 문장에는 최근부터 지금까지를 나타내는 말(recently)이 있으므로 현재완료를 쓴다. 주어(Engineers)가 복수이므로 has가 아니라 have다. → ③ 정답은 repaired — have created.\n문장별 판정:\n정답 판단: last summer에는 단순과거 repaired, recently와 복수 주어 Engineers에는 have created가 알맞다.\n선택지 분석:\n① [오답] 둘째 빈칸 create: 동사원형이어서 맞지 않는다. recently가 나타내는 최근부터 지금까지의 결과는 have/has + 과거분사로 쓰고, 복수 주어에는 have를 쓴다. 따라서 오답이다.\n② [오답] 둘째 빈칸 has created: 현재완료이어서 맞지 않는다. recently가 나타내는 최근부터 지금까지의 결과는 have/has + 과거분사로 쓰고, 복수 주어에는 have를 쓴다. 따라서 오답이다.\n③ [정답] last summer에는 단순과거 repaired, recently와 복수 주어 Engineers에는 have created가 알맞다. 모든 자리가 알맞으므로 정답이다.\n④ [오답] 첫째 빈칸 repairs: 현재형이어서 맞지 않는다. last night·yesterday처럼 끝난 과거 시점에는 단순과거를 쓴다. 둘째 빈칸 create: 동사원형이어서 맞지 않는다. recently가 나타내는 최근부터 지금까지의 결과는 have/has + 과거분사로 쓰고, 복수 주어에는 have를 쓴다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 has repaired: 현재완료이어서 맞지 않는다. last night·yesterday처럼 끝난 과거 시점에는 단순과거를 쓴다. 따라서 오답이다."
+ }
+}

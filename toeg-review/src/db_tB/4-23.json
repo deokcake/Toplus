@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-06T07:12:19.644Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "My dog run very fast.",
+      "1": "The children plays in the park.",
+      "2": null,
+      "3": "She don't eat meat.",
+      "4": "My parents works hard."
+    },
+    "expl": "핵심 규칙: 현재 시제에서 3인칭 단수 주어의 일반동사에는 -s/-es를 붙이고(have → has), 복수 주어에는 동사원형을 쓴다. 3인칭 단수 주어의 부정은 doesn't + 동사원형이다.\n풀이 순서: ① 문장마다 주어가 단수인지 복수인지 가른다. → ② 단수 주어면 동사에 -(e)s(부정은 doesn't), 복수 주어면 동사원형(부정은 don't)인지 본다. → ③ 선택지 ③만 단수 취급하는 news에 is를 써서 맞다. 정답은 ③.\n문장별 판정:\n정답 판단: 단수 취급하는 news에 is를 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 3인칭 단수 주어 My dog에는 runs를 쓰므로 오답이다.\n② [오답] 복수 주어 The children에는 play를 쓰므로 오답이다.\n③ [정답] 단수 취급하는 news에 is를 바르게 썼으므로 정답이다.\n④ [오답] 3인칭 단수 주어 She의 부정은 doesn't이므로 오답이다.\n⑤ [오답] 복수 주어 My parents에는 work를 쓰므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T07:12:06.422Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-06T07:12:19.644Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T07:12:19.644Z",
+      "what": "확인 완료"
+    }
+  }
+}

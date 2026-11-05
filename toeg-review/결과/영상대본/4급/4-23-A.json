@@ -1,0 +1,180 @@
+{
+ "key": "4-23",
+ "type": "A",
+ "grade": 4,
+ "chapter": "CH 3 be동사와 일반동사",
+ "title": "주어와 동사의 수일치 (일반동사 현재형)",
+ "total_sec": 155,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "4급 · CH 3 be동사와 일반동사 · 23번\n\n이 문제는 주어가 3인칭 단수인지 복수인지에 맞게 일반동사를 쓴 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 3 be동사와 일반동사 · 23번",
+     "이 문제는 주어가 3인칭 단수인지 복수인지에 맞게 일반동사를 쓴 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 3, 23번. 이 문제는 주어가 3인칭 단수인지 복수인지에 맞게 일반동사를 쓴 문장을 고르는 문제예요.",
+   "caption": "주어와 동사의 수일치"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르시오.\n\n① The cat sleep on the sofa.\n② My sister cook dinner.\n③ The students studies hard.\n④ Water boils at 100°C.\n⑤ He don't like coffee.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르시오.",
+     "① The cat sleep on the sofa.",
+     "② My sister cook dinner.",
+     "③ The students studies hard.",
+     "④ Water boils at 100°C.",
+     "⑤ He don't like coffee."
+    ]
+   },
+   "narration": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르세요. 다섯 문장의 주어와 동사를 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 39,
+   "screen": {
+    "text": "핵심 규칙\n현재 시제에서는 주어에 맞춰 동사 모양을 정해요.\n3인칭 단수 주어(셀 수 없는 명사 포함) → 일반동사 + s/es (have → has)\n복수 주어 → 일반동사는 동사원형\n일반동사 부정 → 3인칭 단수 doesn't, 복수 don't + 동사원형\n예) He plays tennis, and they play baseball. (그는 테니스를 치고, 그들은 야구를 해요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재 시제에서는 주어에 맞춰 동사 모양을 정해요.",
+     "3인칭 단수 주어(셀 수 없는 명사 포함) → 일반동사 + s/es (have → has)",
+     "복수 주어 → 일반동사는 동사원형",
+     "일반동사 부정 → 3인칭 단수 doesn't, 복수 don't + 동사원형",
+     "예) He plays tennis, and they play baseball. (그는 테니스를 치고, 그들은 야구를 해요.)"
+    ]
+   },
+   "narration": "현재 시제에서는 주어에 맞춰 동사 모양을 정하는데, 이것을 수일치라고 해요. 주어가 I와 you가 아닌 한 사람이나 한 개, 또는 water 같은 셀 수 없는 명사이면 3인칭 단수라서, 일반동사에 s나 es를 붙이고 have는 has로 써요. 주어가 여럿인 복수이면 동사원형을 쓰고, 부정은 3인칭 단수면 doesn't, 복수면 don't 뒤에 동사원형을 써요. 예를 들어 He plays tennis, and they play baseball. 그는 테니스를 치고, 그들은 야구를 해요.",
+   "caption": "3인칭 단수 → s/es, 복수 → 원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 37,
+   "screen": {
+    "text": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르시오.\n\n① The cat sleep on the sofa.\n② My sister cook dinner.\n③ The students studies hard.\n④ Water boils at 100°C.\n⑤ He don't like coffee.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "The cat sleep",
+       "My sister cook"
+      ],
+      "strike": [
+       "① The cat sleep on the sofa.",
+       "② My sister cook dinner."
+      ],
+      "note": "주어가 3인칭 단수인지 복수인지 → 동사 확인. The cat, My sister는 3인칭 단수인데 s가 없다 → ①, ② 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "The students studies",
+       "He don't"
+      ],
+      "strike": [
+       "③ The students studies hard.",
+       "⑤ He don't like coffee."
+      ],
+      "note": "The students는 복수 → study. He의 부정 → doesn't. ③, ⑤ 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ Water boils at 100°C."
+      ],
+      "strike": [],
+      "note": "Water는 셀 수 없는 명사 → 3인칭 단수 → boils ✓"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 주어가 3인칭 단수인지 복수인지 보고 동사를 확인해요. 1번 The cat과 2번 My sister는 3인칭 단수인데, sleep과 cook에 s가 없어서 틀렸어요. 둘째, 3번 The students는 복수라서 study를, 5번 He는 3인칭 단수라서 doesn't를 써야 해요. 셋째, 4번 Water는 셀 수 없는 명사라서 3인칭 단수로 보고, boils를 바르게 썼어요. Water boils at 100 degrees Celsius. 물은 섭씨 100도에서 끓어요.",
+   "caption": "3인칭 단수? 복수? → 동사 확인"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 30,
+   "screen": {
+    "text": "① The cat sleep on the sofa.  ✗  The cat은 3인칭 단수 → sleeps\n② My sister cook dinner.  ✗  My sister는 3인칭 단수 → cooks\n③ The students studies hard.  ✗  The students는 복수 → study\n④ Water boils at 100°C.  ✓  셀 수 없는 Water는 3인칭 단수 → boils\n⑤ He don't like coffee.  ✗  He의 부정 → doesn't like",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① The cat sleep on the sofa.  ✗  The cat은 3인칭 단수 → sleeps",
+     "② My sister cook dinner.  ✗  My sister는 3인칭 단수 → cooks",
+     "③ The students studies hard.  ✗  The students는 복수 → study",
+     "④ Water boils at 100°C.  ✓  셀 수 없는 Water는 3인칭 단수 → boils",
+     "⑤ He don't like coffee.  ✗  He의 부정 → doesn't like"
+    ]
+   },
+   "narration": "정답은 4번이에요. 물은 하나, 둘 셀 수 없지만 3인칭 단수로 보기 때문에 boils가 맞아요. 3번은 studies에 es가 붙어 있어 맞아 보이지만, 주어 The students가 복수라서 동사원형 study를 써야 해요. 5번은 He 뒤에 don't를 써서 틀렸어요. 3인칭 단수 주어의 부정은 doesn't like처럼 써요.",
+   "caption": "정답 ④ Water boils"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 18,
+   "screen": {
+    "text": "정답 ④ Water boils at 100°C.\n\n현재 시제 3인칭 단수(셀 수 없는 명사 포함) → 일반동사 + s/es (have → has), 복수 → 동사원형",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ Water boils at 100°C.",
+     "현재 시제 3인칭 단수(셀 수 없는 명사 포함) → 일반동사 + s/es (have → has), 복수 → 동사원형"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 현재 시제에서 3인칭 단수 주어에는 일반동사에 s나 es를 붙이고 have는 has로 쓰며, 복수 주어에는 동사원형을 써요. 셀 수 없는 명사도 3인칭 단수예요.",
+   "caption": "3인칭 단수 + s/es, 복수 + 원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "The cat sleep on the sofa.",
+   "My sister cook dinner.",
+   "The students studies hard.",
+   "Water boils at 100°C.",
+   "He don't like coffee."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 현재 시제에서 주어가 3인칭 단수이면 동사에 -(e)s를 붙이고 부정은 doesn't를 쓴다. 복수 주어에는 동사원형을 쓴다.\n풀이 순서: ① 문장마다 주어가 단수인지 복수인지 가른다. → ② 단수 주어면 동사에 -(e)s(부정은 doesn't), 복수 주어면 동사원형(부정은 don't)인지 본다. → ③ 선택지 ④만 단수 취급하는 Water에 boils를 써서 맞다. 정답은 ④.\n문장별 판정:\n정답 판단: 셀 수 없는 명사 Water는 단수 취급해 boils가 맞으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 단수 주어 The cat에는 sleeps를 써야 하므로 오답이다.\n② [오답] 단수 주어 My sister에는 cooks를 써야 하므로 오답이다.\n③ [오답] 복수 주어 The students에는 study를 써야 하므로 오답이다.\n④ [정답] 셀 수 없는 명사 Water는 단수 취급해 boils가 맞으므로 정답이다.\n⑤ [오답] 3인칭 단수 주어 He에는 doesn't를 써야 하므로 오답이다."
+ }
+}

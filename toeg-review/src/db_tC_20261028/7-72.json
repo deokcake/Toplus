@@ -1,0 +1,21 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-20T11:09:27.754Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "expl": "핵심 규칙: 우리말의 의문사·주어·동작과 현재형 의문문 구조가 맞다.\n풀이 순서: ① 우리말의 주어를 본다: ‘그들은’ → they(→ do). → ② 동작을 본다: ‘하니’ → do. → ③ What + do + 주어 + 동사원형의 순서로 쓴 것은 ⑤.\n문장별 판정:\n정답 판단: 정답은 ⑤입니다. What은 무엇을 묻고, they를 주어로 do와 동사원형 do를 바르게 사용했습니다. 주어진 우리말의 주어와 동작을 정확히 옮겼습니다.\n선택지 분석:\n① [오답] 주어 they는 복수 주어 they이므로 do를 쓰고, 뒤에는 동사원형 do를 씁니다. does도 원형 do로 바꿔야 합니다. 바르게 고치면: What do they do after school?\n② [오답] Who는 ‘누구’를 묻습니다. 우리말은 무엇을 하는지 또는 어떤 대상을 말하는지 묻기 때문에 What이 필요합니다. 바르게 고치면: What do they do after school?\n③ [오답] Where는 ‘어디’를 묻습니다. 우리말은 무엇을 하는지 또는 어떤 대상을 말하는지 묻기 때문에 What이 필요합니다. 바르게 고치면: What do they do after school?\n④ [오답] 주어 they는 복수 주어 they이므로 do를 쓰고, 뒤에는 동사원형 do를 씁니다. does를 do로 바꿔야 합니다. 바르게 고치면: What do they do after school?\n⑤ [정답] What은 무엇을 묻고, they를 주어로 do와 동사원형 do를 바르게 사용했습니다. 주어진 우리말의 주어와 동작을 정확히 옮겼습니다."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-20T11:09:27.194Z"
+  },
+  "tab": "n2uhrol0",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-20T11:09:27.754Z",
+      "what": "확인 완료"
+    }
+  }
+}

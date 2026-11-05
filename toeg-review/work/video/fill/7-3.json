@@ -1,0 +1,495 @@
+{
+ "A": {
+  "title": "셀 수 있는 명사와 셀 수 없는 명사",
+  "intro": "이 문제는 밑줄 친 명사가 셀 수 있는지 없는지 따져서 쓰임이 어색한 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장에서 밑줄 친 부분의 쓰임이 어색한 것은 무엇일까요? 다섯 문장의 밑줄 친 부분을 하나씩 잘 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 있는 명사 (egg, cup): 둘 이상이면 복수형 → two eggs",
+    "셀 수 없는 명사 (water, bread, rice, money): 하나, 둘 세지 않아요",
+    "셀 수 없는 명사는 보통 two, three 같은 수를 붙이지 않고, 복수형으로도 쓰지 않아요",
+    "양을 말할 때는 some을 쓸 수 있어요 → some water",
+    "예) I have two eggs and some sugar. (나에게는 달걀 두 개와 설탕이 조금 있어요.)"
+   ],
+   "narration": "명사에는 셀 수 있는 명사와 셀 수 없는 명사가 있어요. egg처럼 하나, 둘 셀 수 있는 명사는 둘 이상이면 two eggs처럼 복수형으로 써요. water, bread, money처럼 셀 수 없는 명사는 보통 two 같은 수를 붙이지 않고, 복수형으로도 쓰지 않아요. 양을 말할 때는 some water처럼 some을 쓸 수 있어요. 예를 들어 I have two eggs and some sugar, 나에게는 달걀 두 개와 설탕이 조금 있어요."
+  },
+  "steps": [
+   {
+    "note": "명사 가르기: 셀 수 있는 box, apple / 셀 수 없는 water, money, bread",
+    "highlight": [
+     "some water",
+     "two boxes",
+     "apples",
+     "three moneys",
+     "some bread"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 명사가 셀 수 있는지 없는지 먼저 갈라요. box와 apple은 셀 수 있고, water, money, bread는 셀 수 없는 명사예요."
+   },
+   {
+    "note": "셀 수 있는 명사는 복수형 → two boxes, apples 바름",
+    "highlight": [
+     "two boxes",
+     "apples"
+    ],
+    "strike": [
+     "② He has <u>two boxes</u>.",
+     "③ She likes <u>apples</u>."
+    ],
+    "narration": "둘째, 셀 수 있는 box와 apple은 복수형 boxes와 apples로 바르게 썼어요."
+   },
+   {
+    "note": "셀 수 없는 명사: some water, some bread 바름 / three moneys는 수와 s가 붙어 어색 → some money",
+    "highlight": [
+     "three moneys"
+    ],
+    "strike": [
+     "① I need <u>some water</u>.",
+     "⑤ We want <u>some bread</u>."
+    ],
+    "narration": "셋째, 셀 수 없는 water와 bread는 some과 함께 바르게 썼어요. 그런데 셀 수 없는 money에 three를 붙이고 s까지 붙인 three moneys는 어색해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I need <u>some water</u>.  ✗  셀 수 없는 water를 some과 함께 바르게 썼어요",
+    "② He has <u>two boxes</u>.  ✗  셀 수 있는 box를 two 뒤에서 복수형 boxes로 썼어요",
+    "③ She likes <u>apples</u>.  ✗  셀 수 있는 apple을 복수형 apples로 썼어요",
+    "④ I have <u>three moneys</u>.  ✓  money는 셀 수 없어 three도, s도 붙이지 않아요 (→ some money)",
+    "⑤ We want <u>some bread</u>.  ✗  셀 수 없는 bread를 some과 함께 바르게 썼어요"
+   ],
+   "narration": "정답은 4번 three moneys예요. money는 셀 수 없는 명사라서 three를 붙이거나 복수형으로 쓰지 않고, 돈이 조금 있다고 할 때는 I have some money라고 해요. 2번 two boxes와 3번 apples는 셀 수 있는 명사의 복수형이라 바르게 썼어요. 1번 some water와 5번 some bread는 셀 수 없는 명사를 some과 함께 바르게 썼어요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사는 보통 수를 붙이거나 복수형으로 쓰지 않아요 (some money ○, three moneys ✗)",
+   "narration": "정답은 4번이에요. 기억할 것, water, bread, money처럼 셀 수 없는 명사는 보통 수를 붙이지 않고 복수형으로도 쓰지 않아요."
+  },
+  "captions": [
+   "셀 수 있는 명사와 셀 수 없는 명사",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사: 수·복수형 ✗",
+   "명사 가르기 → 복수형 확인",
+   "정답 ④ three moneys",
+   "money는 셀 수 없는 명사"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   36,
+   28,
+   10
+  ]
+ },
+ "B": {
+  "title": "셀 수 있는 명사와 셀 수 없는 명사",
+  "intro": "이 문제는 밑줄 친 명사가 셀 수 있는지 없는지 따져서 쓰임이 어색한 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장에서 밑줄 친 부분의 쓰임이 어색한 것은 무엇일까요? 다섯 문장의 밑줄 친 부분을 하나씩 잘 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 있는 명사 (cup, egg): 둘 이상이면 복수형 → three cups",
+    "셀 수 없는 명사 (water, milk, bread, rice): 하나, 둘 세지 않아요",
+    "셀 수 없는 명사는 보통 two, three 같은 수를 붙이지 않고, 복수형으로도 쓰지 않아요",
+    "양을 말할 때는 some을 쓸 수 있어요 → some milk",
+    "예) We need three cups and some salt. (우리는 컵 세 개와 소금이 조금 필요해요.)"
+   ],
+   "narration": "명사에는 셀 수 있는 명사와 셀 수 없는 명사가 있어요. cup처럼 하나, 둘 셀 수 있는 명사는 둘 이상이면 three cups처럼 복수형으로 써요. water, milk, rice처럼 셀 수 없는 명사는 보통 three 같은 수를 붙이지 않고, 복수형으로도 쓰지 않아요. 양을 말할 때는 some milk처럼 some을 쓸 수 있어요. 예를 들어 We need three cups and some salt, 우리는 컵 세 개와 소금이 조금 필요해요."
+  },
+  "steps": [
+   {
+    "note": "명사 가르기: 셀 수 있는 dog, grape / 셀 수 없는 tea, soup, rice",
+    "highlight": [
+     "some tea",
+     "some soup",
+     "two dogs",
+     "grapes",
+     "five rices"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 명사가 셀 수 있는지 없는지 먼저 갈라요. dog와 grape는 셀 수 있고, tea, soup, rice는 셀 수 없는 명사예요."
+   },
+   {
+    "note": "셀 수 있는 명사는 복수형 → two dogs, grapes 바름",
+    "highlight": [
+     "two dogs",
+     "grapes"
+    ],
+    "strike": [
+     "③ They have <u>two dogs</u>.",
+     "④ I like <u>grapes</u>."
+    ],
+    "narration": "둘째, 셀 수 있는 dog와 grape는 복수형 dogs와 grapes로 바르게 썼어요."
+   },
+   {
+    "note": "셀 수 없는 명사: some tea, some soup 바름 / five rices는 수와 s가 붙어 어색 → some rice",
+    "highlight": [
+     "five rices"
+    ],
+    "strike": [
+     "① She drinks <u>some tea</u>.",
+     "② He eats <u>some soup</u>."
+    ],
+    "narration": "셋째, 셀 수 없는 tea와 soup는 some과 함께 바르게 썼어요. 그런데 셀 수 없는 rice에 five를 붙이고 s까지 붙인 five rices는 어색해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① She drinks <u>some tea</u>.  ✗  셀 수 없는 tea를 some과 함께 바르게 썼어요",
+    "② He eats <u>some soup</u>.  ✗  셀 수 없는 soup를 some과 함께 바르게 썼어요",
+    "③ They have <u>two dogs</u>.  ✗  셀 수 있는 dog를 two 뒤에서 복수형 dogs로 썼어요",
+    "④ I like <u>grapes</u>.  ✗  셀 수 있는 grape를 복수형 grapes로 썼어요",
+    "⑤ He has <u>five rices</u>.  ✓  rice는 셀 수 없어 five도, s도 붙이지 않아요 (→ some rice)"
+   ],
+   "narration": "정답은 5번 five rices예요. rice는 셀 수 없는 명사라서 five를 붙이거나 복수형으로 쓰지 않고, 밥이 조금 있다고 할 때는 He has some rice라고 해요. 1번 some tea와 2번 some soup는 셀 수 없는 명사를 some과 함께 바르게 썼어요. 4번 grapes는 셀 수 있는 grape의 복수형이라 바르게 썼어요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사는 보통 수를 붙이거나 복수형으로 쓰지 않아요 (some rice ○, five rices ✗)",
+   "narration": "정답은 5번이에요. 기억할 것, water, milk, rice처럼 셀 수 없는 명사는 보통 수를 붙이지 않고 복수형으로도 쓰지 않아요."
+  },
+  "captions": [
+   "셀 수 있는 명사와 셀 수 없는 명사",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사: 수·복수형 ✗",
+   "명사 가르기 → 복수형 확인",
+   "정답 ⑤ five rices",
+   "rice는 셀 수 없는 명사"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   36,
+   28,
+   10
+  ]
+ },
+ "C": {
+  "title": "셀 수 있는 명사와 셀 수 없는 명사",
+  "intro": "이 문제는 밑줄 친 명사가 셀 수 있는지 없는지 따져서 쓰임이 어색한 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장에서 밑줄 친 부분의 쓰임이 어색한 것은 무엇일까요? 다섯 문장의 밑줄 친 부분을 하나씩 잘 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 있는 명사 (cookie, cup): 둘 이상이면 복수형 → two cookies",
+    "셀 수 없는 명사 (water, milk, bread, rice): 하나, 둘 세지 않아요",
+    "셀 수 없는 명사는 보통 two, three 같은 수를 붙이지 않고, 복수형으로도 쓰지 않아요",
+    "양을 말할 때는 some을 쓸 수 있어요 → some water",
+    "예) She has two cookies and some honey. (그녀에게는 쿠키 두 개와 꿀이 조금 있어요.)"
+   ],
+   "narration": "명사에는 셀 수 있는 명사와 셀 수 없는 명사가 있어요. cookie처럼 하나, 둘 셀 수 있는 명사는 둘 이상이면 two cookies처럼 복수형으로 써요. water, milk, bread처럼 셀 수 없는 명사는 보통 two 같은 수를 붙이지 않고, 복수형으로도 쓰지 않아요. 양을 말할 때는 some water처럼 some을 쓸 수 있어요. 예를 들어 She has two cookies and some honey, 그녀에게는 쿠키 두 개와 꿀이 조금 있어요."
+  },
+  "steps": [
+   {
+    "note": "명사 가르기: 셀 수 있는 pencil, banana / 셀 수 없는 milk, cheese, bread",
+    "highlight": [
+     "some milk",
+     "some cheese",
+     "two breads",
+     "four pencils",
+     "bananas"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 명사가 셀 수 있는지 없는지 먼저 갈라요. pencil과 banana는 셀 수 있고, milk, cheese, bread는 셀 수 없는 명사예요."
+   },
+   {
+    "note": "셀 수 있는 명사는 복수형 → four pencils, bananas 바름",
+    "highlight": [
+     "four pencils",
+     "bananas"
+    ],
+    "strike": [
+     "④ I have <u>four pencils</u>.",
+     "⑤ They like <u>bananas</u>."
+    ],
+    "narration": "둘째, 셀 수 있는 pencil과 banana는 복수형 pencils와 bananas로 바르게 썼어요."
+   },
+   {
+    "note": "셀 수 없는 명사: some milk, some cheese 바름 / two breads는 수와 s가 붙어 어색 → some bread",
+    "highlight": [
+     "two breads"
+    ],
+    "strike": [
+     "① He drinks <u>some milk</u>.",
+     "② We eat <u>some cheese</u>."
+    ],
+    "narration": "셋째, 셀 수 없는 milk와 cheese는 some과 함께 바르게 썼어요. 그런데 셀 수 없는 bread에 two를 붙이고 s까지 붙인 two breads는 어색해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① He drinks <u>some milk</u>.  ✗  셀 수 없는 milk를 some과 함께 바르게 썼어요",
+    "② We eat <u>some cheese</u>.  ✗  셀 수 없는 cheese를 some과 함께 바르게 썼어요",
+    "③ We eat <u>two breads</u>.  ✓  bread는 셀 수 없어 two도, s도 붙이지 않아요 (→ some bread)",
+    "④ I have <u>four pencils</u>.  ✗  셀 수 있는 pencil을 four 뒤에서 복수형 pencils로 썼어요",
+    "⑤ They like <u>bananas</u>.  ✗  셀 수 있는 banana를 복수형 bananas로 썼어요"
+   ],
+   "narration": "정답은 3번 two breads예요. bread는 셀 수 없는 명사라서 two를 붙이거나 복수형으로 쓰지 않고, 빵을 조금 먹는다고 할 때는 We eat some bread라고 해요. 2번 some cheese는 셀 수 없는 cheese를 some과 함께 바르게 썼어요. 4번 four pencils는 셀 수 있는 pencil을 four 뒤에서 복수형으로 바르게 썼어요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사는 보통 수를 붙이거나 복수형으로 쓰지 않아요 (some bread ○, two breads ✗)",
+   "narration": "정답은 3번이에요. 기억할 것, water, milk, bread처럼 셀 수 없는 명사는 보통 수를 붙이지 않고 복수형으로도 쓰지 않아요."
+  },
+  "captions": [
+   "셀 수 있는 명사와 셀 수 없는 명사",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사: 수·복수형 ✗",
+   "명사 가르기 → 복수형 확인",
+   "정답 ③ two breads",
+   "bread는 셀 수 없는 명사"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   36,
+   28,
+   10
+  ]
+ },
+ "D": {
+  "title": "셀 수 있는 명사와 셀 수 없는 명사",
+  "intro": "이 문제는 밑줄 친 명사가 셀 수 있는지 없는지 따져서 쓰임이 어색한 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장에서 밑줄 친 부분의 쓰임이 어색한 것은 무엇일까요? 다섯 문장의 밑줄 친 부분을 하나씩 잘 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 있는 명사 (lemon, egg): 둘 이상이면 복수형 → four lemons, many eggs",
+    "셀 수 없는 명사 (water, milk, juice, 종이를 뜻하는 paper): 하나, 둘 세지 않아요",
+    "셀 수 없는 명사는 보통 two, three 같은 수를 붙이지 않고, 복수형으로도 쓰지 않아요",
+    "양을 말할 때는 some을 쓸 수 있어요 → some milk",
+    "예) He wants four lemons and some sugar. (그는 레몬 네 개와 설탕을 조금 원해요.)"
+   ],
+   "narration": "명사에는 셀 수 있는 명사와 셀 수 없는 명사가 있어요. lemon처럼 하나, 둘 셀 수 있는 명사는 둘 이상이면 four lemons처럼 복수형으로 쓰고, many 뒤에서도 복수형으로 써요. water, milk, juice처럼 셀 수 없는 명사는 보통 two 같은 수를 붙이지 않고, 복수형으로도 쓰지 않아요. 양을 말할 때는 some milk처럼 some을 쓸 수 있어요. 예를 들어 He wants four lemons and some sugar, 그는 레몬 네 개와 설탕을 조금 원해요."
+  },
+  "steps": [
+   {
+    "note": "명사 가르기: 셀 수 있는 bird, notebook / 셀 수 없는 water, juice, paper(종이)",
+    "highlight": [
+     "two waters",
+     "some juice",
+     "some paper",
+     "many birds",
+     "three notebooks"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 명사가 셀 수 있는지 없는지 먼저 갈라요. bird와 notebook은 셀 수 있고, water, juice, 그리고 종이를 뜻하는 paper는 셀 수 없는 명사예요."
+   },
+   {
+    "note": "셀 수 있는 명사는 many, three 뒤에서 복수형 → many birds, three notebooks 바름",
+    "highlight": [
+     "many birds",
+     "three notebooks"
+    ],
+    "strike": [
+     "④ They saw <u>many birds</u>.",
+     "⑤ He bought <u>three notebooks</u>."
+    ],
+    "narration": "둘째, 셀 수 있는 bird와 notebook은 many와 three 뒤에서 복수형 birds와 notebooks로 바르게 썼어요."
+   },
+   {
+    "note": "셀 수 없는 명사: some juice, some paper 바름 / two waters는 수와 s가 붙어 어색 → some water",
+    "highlight": [
+     "two waters"
+    ],
+    "strike": [
+     "② I drank <u>some juice</u>.",
+     "③ She has <u>some paper</u>."
+    ],
+    "narration": "셋째, 셀 수 없는 juice와 paper는 some과 함께 바르게 썼어요. 그런데 셀 수 없는 water에 two를 붙이고 s까지 붙인 two waters는 어색해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I need <u>two waters</u>.  ✓  water는 셀 수 없어 two도, s도 붙이지 않아요 (→ some water)",
+    "② I drank <u>some juice</u>.  ✗  셀 수 없는 juice를 some과 함께 바르게 썼어요",
+    "③ She has <u>some paper</u>.  ✗  종이를 뜻하는 paper는 셀 수 없어 some과 함께 바르게 썼어요",
+    "④ They saw <u>many birds</u>.  ✗  셀 수 있는 bird를 many 뒤에서 복수형 birds로 썼어요",
+    "⑤ He bought <u>three notebooks</u>.  ✗  셀 수 있는 notebook을 three 뒤에서 복수형으로 썼어요"
+   ],
+   "narration": "정답은 1번 two waters예요. water는 셀 수 없는 명사라서 two를 붙이거나 복수형으로 쓰지 않고, 물이 조금 필요하다고 할 때는 I need some water라고 해요. 3번 some paper는 종이를 뜻하는 paper가 셀 수 없는 명사라서 some과 함께 바르게 썼어요. 4번 many birds는 셀 수 있는 bird를 many 뒤에서 복수형으로 바르게 썼어요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사는 보통 수를 붙이거나 복수형으로 쓰지 않아요 (some water ○, two waters ✗)",
+   "narration": "정답은 1번이에요. 기억할 것, water, milk, juice처럼 셀 수 없는 명사는 보통 수를 붙이지 않고 복수형으로도 쓰지 않아요."
+  },
+  "captions": [
+   "셀 수 있는 명사와 셀 수 없는 명사",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사: 수·복수형 ✗",
+   "명사 가르기 → 복수형 확인",
+   "정답 ① two waters",
+   "water는 셀 수 없는 명사"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   36,
+   28,
+   10
+  ]
+ },
+ "E": {
+  "title": "셀 수 있는 명사와 셀 수 없는 명사",
+  "intro": "이 문제는 밑줄 친 명사가 셀 수 있는지 없는지 따져서 쓰임이 어색한 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장에서 밑줄 친 부분의 쓰임이 어색한 것은 무엇일까요? 다섯 문장의 밑줄 친 부분을 하나씩 잘 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 있는 명사 (egg, cup): 둘 이상이면 복수형 → two eggs",
+    "셀 수 없는 명사 (water, milk, juice, rice): 하나, 둘 세지 않아요",
+    "셀 수 없는 명사는 보통 two, three 같은 수를 붙이지 않고, 복수형으로도 쓰지 않아요",
+    "양을 말할 때는 some을 쓸 수 있어요 → some juice",
+    "예) I buy two eggs and some butter. (나는 달걀 두 개와 버터를 조금 사요.)"
+   ],
+   "narration": "명사에는 셀 수 있는 명사와 셀 수 없는 명사가 있어요. egg처럼 하나, 둘 셀 수 있는 명사는 둘 이상이면 two eggs처럼 복수형으로 써요. water, milk, juice처럼 셀 수 없는 명사는 보통 two 같은 수를 붙이지 않고, 복수형으로도 쓰지 않아요. 양을 말할 때는 some juice처럼 some을 쓸 수 있어요. 예를 들어 I buy two eggs and some butter, 나는 달걀 두 개와 버터를 조금 사요."
+  },
+  "steps": [
+   {
+    "note": "명사 가르기: 셀 수 있는 orange, pencil, pen / 셀 수 없는 soup, milk",
+    "highlight": [
+     "some soup",
+     "oranges",
+     "two milks",
+     "four pencils",
+     "five pens"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 명사가 셀 수 있는지 없는지 먼저 갈라요. orange, pencil, pen은 셀 수 있고, soup와 milk는 셀 수 없는 명사예요."
+   },
+   {
+    "note": "셀 수 있는 명사는 복수형 → oranges, four pencils, five pens 바름",
+    "highlight": [
+     "oranges",
+     "four pencils",
+     "five pens"
+    ],
+    "strike": [
+     "② She likes <u>oranges</u>.",
+     "④ He has <u>four pencils</u>.",
+     "⑤ I have <u>five pens</u>."
+    ],
+    "narration": "둘째, 셀 수 있는 orange, pencil, pen은 복수형 oranges, pencils, pens로 바르게 썼어요."
+   },
+   {
+    "note": "셀 수 없는 명사: some soup 바름 / two milks는 수와 s가 붙어 어색 → some milk",
+    "highlight": [
+     "two milks"
+    ],
+    "strike": [
+     "① They want <u>some soup</u>."
+    ],
+    "narration": "셋째, 셀 수 없는 soup는 some과 함께 바르게 썼어요. 그런데 셀 수 없는 milk에 two를 붙이고 s까지 붙인 two milks는 어색해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① They want <u>some soup</u>.  ✗  셀 수 없는 soup를 some과 함께 바르게 썼어요",
+    "② She likes <u>oranges</u>.  ✗  셀 수 있는 orange를 복수형 oranges로 썼어요",
+    "③ I drink <u>two milks</u> every morning.  ✓  milk는 셀 수 없어 two도, s도 붙이지 않아요 (→ some milk)",
+    "④ He has <u>four pencils</u>.  ✗  셀 수 있는 pencil을 four 뒤에서 복수형 pencils로 썼어요",
+    "⑤ I have <u>five pens</u>.  ✗  셀 수 있는 pen을 five 뒤에서 복수형 pens로 썼어요"
+   ],
+   "narration": "정답은 3번 two milks예요. milk는 셀 수 없는 명사라서 two를 붙이거나 복수형으로 쓰지 않고, 아침마다 우유를 조금 마신다고 할 때는 I drink some milk every morning이라고 해요. 1번 some soup는 셀 수 없는 soup를 some과 함께 바르게 썼어요. 2번 oranges는 셀 수 있는 orange의 복수형이라 바르게 썼어요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사는 보통 수를 붙이거나 복수형으로 쓰지 않아요 (some milk ○, two milks ✗)",
+   "narration": "정답은 3번이에요. 기억할 것, water, milk, juice처럼 셀 수 없는 명사는 보통 수를 붙이지 않고 복수형으로도 쓰지 않아요."
+  },
+  "captions": [
+   "셀 수 있는 명사와 셀 수 없는 명사",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사: 수·복수형 ✗",
+   "명사 가르기 → 복수형 확인",
+   "정답 ③ two milks",
+   "milk는 셀 수 없는 명사"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   36,
+   28,
+   10
+  ]
+ },
+ "F": {
+  "title": "셀 수 있는 명사와 셀 수 없는 명사",
+  "intro": "이 문제는 밑줄 친 명사가 셀 수 있는지 없는지 따져서 쓰임이 어색한 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장에서 밑줄 친 부분의 쓰임이 어색한 것은 무엇일까요? 다섯 문장의 밑줄 친 부분을 하나씩 잘 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 있는 명사 (lemon, egg): 둘 이상이면 복수형 → two lemons",
+    "셀 수 없는 명사 (water, milk, juice, rice): 하나, 둘 세지 않아요",
+    "셀 수 없는 명사는 보통 two, three 같은 수를 붙이지 않고, 복수형으로도 쓰지 않아요",
+    "양을 말할 때는 some을 쓸 수 있어요 → some water",
+    "예) I want two lemons and some honey. (나는 레몬 두 개와 꿀을 조금 원해요.)"
+   ],
+   "narration": "명사에는 셀 수 있는 명사와 셀 수 없는 명사가 있어요. lemon처럼 하나, 둘 셀 수 있는 명사는 둘 이상이면 two lemons처럼 복수형으로 써요. water, milk, juice처럼 셀 수 없는 명사는 보통 two 같은 수를 붙이지 않고, 복수형으로도 쓰지 않아요. 양을 말할 때는 some water처럼 some을 쓸 수 있어요. 예를 들어 I want two lemons and some honey, 나는 레몬 두 개와 꿀을 조금 원해요."
+  },
+  "steps": [
+   {
+    "note": "명사 가르기: 셀 수 있는 book, banana / 셀 수 없는 cheese, rice, juice",
+    "highlight": [
+     "three books",
+     "bananas",
+     "some cheese",
+     "some rice",
+     "two juices"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 명사가 셀 수 있는지 없는지 먼저 갈라요. book과 banana는 셀 수 있고, cheese, rice, juice는 셀 수 없는 명사예요."
+   },
+   {
+    "note": "셀 수 있는 명사는 복수형 → three books, bananas 바름",
+    "highlight": [
+     "three books",
+     "bananas"
+    ],
+    "strike": [
+     "① She has <u>three books</u>.",
+     "② He likes <u>bananas</u>."
+    ],
+    "narration": "둘째, 셀 수 있는 book과 banana는 복수형 books와 bananas로 바르게 썼어요."
+   },
+   {
+    "note": "셀 수 없는 명사: some cheese, some rice 바름 / two juices는 수와 s가 붙어 어색 → some juice",
+    "highlight": [
+     "two juices"
+    ],
+    "strike": [
+     "③ Mom buys <u>some cheese</u>.",
+     "④ I eat <u>some rice</u>."
+    ],
+    "narration": "셋째, 셀 수 없는 cheese와 rice는 some과 함께 바르게 썼어요. 그런데 셀 수 없는 juice에 two를 붙이고 s까지 붙인 two juices는 어색해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① She has <u>three books</u>.  ✗  셀 수 있는 book을 three 뒤에서 복수형 books로 썼어요",
+    "② He likes <u>bananas</u>.  ✗  셀 수 있는 banana를 복수형 bananas로 썼어요",
+    "③ Mom buys <u>some cheese</u>.  ✗  셀 수 없는 cheese를 some과 함께 바르게 썼어요",
+    "④ I eat <u>some rice</u>.  ✗  셀 수 없는 rice를 some과 함께 바르게 썼어요",
+    "⑤ She drinks <u>two juices</u>.  ✓  juice는 셀 수 없어 two도, s도 붙이지 않아요 (→ some juice)"
+   ],
+   "narration": "정답은 5번 two juices예요. juice는 셀 수 없는 명사라서 two를 붙이거나 복수형으로 쓰지 않고, 주스를 조금 마신다고 할 때는 She drinks some juice라고 해요. 3번 some cheese와 4번 some rice는 셀 수 없는 명사를 some과 함께 바르게 썼어요. 2번 bananas는 셀 수 있는 banana의 복수형이라 바르게 썼어요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사는 보통 수를 붙이거나 복수형으로 쓰지 않아요 (some juice ○, two juices ✗)",
+   "narration": "정답은 5번이에요. 기억할 것, water, milk, juice처럼 셀 수 없는 명사는 보통 수를 붙이지 않고 복수형으로도 쓰지 않아요."
+  },
+  "captions": [
+   "셀 수 있는 명사와 셀 수 없는 명사",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사: 수·복수형 ✗",
+   "명사 가르기 → 복수형 확인",
+   "정답 ⑤ two juices",
+   "juice는 셀 수 없는 명사"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   36,
+   28,
+   10
+  ]
+ }
+}

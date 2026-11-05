@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T08:05:18.139Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Are you and Tom friends? - Yes, you are.",
+      "1": "Is the dog hungry? - Yes, it is.",
+      "2": "Am I tall? - No, I'm not.",
+      "3": "Are your parents home? - No, they isn't.",
+      "4": "Is Mina sick? - Yes, he is."
+    },
+    "expl": "핵심 규칙: be동사 짧은 대답은 주어에 맞춰 I am, you/we/they are, he/she/it is로 쓰고, 질문의 I는 대답에서 you로, you는 I(또는 we)로 바뀐다. this/that은 대답에서 it으로 받는다.\n풀이 순서: ① 대답의 주어가 질문의 주어를 바르게 받았는지 본다(I → you, you → I, 그 밖은 같은 대명사). → ② 대답의 be동사가 주어와 맞는지, Yes/No와 긍정·부정이 맞는지 본다. → ③ 선택지 ②만 he와 is가 맞다. 정답은 ②.\n문장별 판정:\n정답 판단: the dog을 it으로 받아 바르게 답했으므로 정답은 ②이다.\n선택지 분석:\n① [오답] you and Tom에 대한 질문에는 we로 답해 Yes, we are이므로 오답이다.\n② [정답] the dog을 it으로 받아 바르게 답했으므로 정답이다.\n③ [오답] I에 대한 질문에는 you로 답해 No, you aren't이므로 오답이다.\n④ [오답] they에는 aren't를 쓰므로 오답이다.\n⑤ [오답] Mina는 she로 받으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 질문과 응답이 문법적으로 가장 적절하게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T08:05:11.004Z"
+  },
+  "tab": "x2buc7cy",
+  "updatedAt": "2026-10-27T08:05:18.139Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T08:05:18.139Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T08:49:00.882Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "cooks",
+      "1": "did cooked",
+      "2": "cooked",
+      "3": "cook",
+      "4": "cooking"
+    },
+    "expl": "핵심 규칙: 과거의 일은 동사의 과거형으로 쓴다. 규칙동사는 -ed를 붙이고(자음 + y는 -ied, 단모음 + 단자음은 자음을 겹쳐 -ed), 부정문은 didn't + 동사원형, 의문문은 Did + 주어 + 동사원형 ~?으로 쓴다.\n풀이 순서: ① 때를 나타내는 말을 찾는다: last night. 과거다. → ② 동사의 과거형을 만든다: cook → cooked. → ③ 현재형, -ing형, did + 과거형을 지운다. 정답은 cooked.\n문장별 판정:\n정답 판단: last night에 맞는 과거형이므로 정답은 ③이다.\n선택지 분석:\n① [오답] last night이 있어 현재형을 쓸 수 없으므로 오답이다.\n② [오답] did와 과거형을 함께 쓸 수 없으므로 오답이다.\n③ [정답] last night에 맞는 과거형이므로 정답이다.\n④ [오답] last night이 있어 현재형을 쓸 수 없고 주어 She와도 맞지 않으므로 오답이다.\n⑤ [오답] be동사 없이 -ing형만 쓸 수 없으므로 오답이다.",
+    "passage": "She _______ dinner last night.",
+    "stem": "빈칸에 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T08:48:59.170Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T08:49:00.882Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:49:00.882Z",
+      "what": "확인 완료"
+    }
+  }
+}

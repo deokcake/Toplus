@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T03:25:28.910Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "ⓐ: 'moon'은 하나뿐인 천체라서 앞에 정관사 'the'를 쓴다.",
+      "1": "ⓑ: '저녁 식사'와 같은 식사 이름 앞에는 언제나 부정관사 'a'를 써야 한다.",
+      "2": "ⓒ: 통신 수단을 나타내는 'by' 뒤에는 관사를 쓰지 않고 명사만 쓴다.",
+      "3": "ⓓ: 하루의 시간대를 나타내는 'evening' 앞에는 'in the'를 써서 'in the evening'으로 쓴다.",
+      "4": "ⓔ: 'play the guitar'처럼 악기를 연주한다고 할 때 악기 이름 앞에는 'the'를 쓴다."
+    },
+    "expl": "핵심 규칙: 하나뿐인 것(the sun, the moon, the sky)과 악기 앞에는 the를 쓴다. 식사 이름, 운동 이름, by + 교통·통신 수단, on foot에는 관사를 쓰지 않는다. 하루의 시간대는 in the morning/afternoon/evening으로 쓴다.\n풀이 순서: ① 밑줄마다 관사가 맞는지 본다. 하나뿐인 것·악기·시간대(in the morning)에는 the, 식사·운동 이름과 by + 교통수단에는 관사를 쓰지 않는다. → ② 설명이 이 규칙과 맞는지 견준다. → ③ 선택지 ②의 설명이 틀렸다. 식사 이름 dinner 앞에는 관사를 쓰지 않는다.\n문장별 판정:\n정답 판단: 식사 이름 dinner 앞에는 관사를 쓰지 않으므로 옳지 않은 설명이다.\n선택지 분석:\n① [오답] 하나뿐인 moon 앞에 the를 쓴다는 옳은 설명이므로 오답이다.\n② [정답] 식사 이름 dinner 앞에는 관사를 쓰지 않는다. 옳지 않은 설명이므로 정답이다.\n③ [오답] by + 통신 수단에는 관사를 쓰지 않는다는 옳은 설명이므로 오답이다.\n④ [오답] 시간대는 in the evening으로 쓴다는 옳은 설명이므로 오답이다.\n⑤ [오답] 악기 이름 앞에는 the를 쓴다는 옳은 설명이므로 오답이다.",
+    "passage": "<보기>\nLast night, we went up the hill and saw ⓐ<u>the moon</u> shining over the town. After ⓑ<u>dinner</u>, we talked with our cousins ⓒ<u>by phone</u> for a long time. In ⓓ<u>the evening</u>, Tom played ⓔ<u>the guitar</u> for us, and everyone sang along happily.",
+    "stem": "다음 <보기> 지문의 밑줄 친 ⓐ~ⓔ에 대한 설명으로 옳지 않은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:36:28.737Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:37:20.469Z",
+      "text": "선택지 순서를 a, b, c, d, e 순으로 수정 필요"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:36:34.722Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T03:36:34.722Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:36:34.722Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

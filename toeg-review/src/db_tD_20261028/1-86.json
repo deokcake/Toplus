@@ -1,0 +1,37 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:49:01.778Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "I know the real reason what Mina left the birthday party so early last night.",
+      "1": "I know the real reason why Mina left the birthday party so early last night.",
+      "2": "I know the real reason which Mina left the birthday party so early last night.",
+      "3": "I know the real reason where Mina left the birthday party so early last night.",
+      "4": "I know the real reason how Mina left the birthday party so early last night."
+    },
+    "expl": "핵심 규칙: 시간의 선행사 day/summer에는 when, 장소 office/town에는 where, 이유 reason에는 why를 써서 전치사+관계대명사 표현을 관계부사로 바꿀 수 있다. 문법적으로 가능한 that이 있더라도 발문이 “관계부사를 사용하여”라고 요구하면 정답 조건을 충족하지 않는다.\n풀이 순서: ① 바꿀 부분은 ‘전치사 + which’(for which)이다. → ② 선행사(the reason)가 이유를 나타내므로 관계부사 why로 바꾼다. which만 쓰면 전치사 for가 빠져 틀린다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: 이유의 선행사 the reason 뒤에 관계부사 why를 써서 for which를 바르게 바꿨으므로 정답은 ②이다.\n선택지 분석:\n① [오답] what은 선행사를 포함하고, 선행사 뒤에 쓸 수 없으므로 오답이다.\n② [정답] 이유의 선행사 the reason 뒤에 관계부사 why를 써서 for which를 바르게 바꿨으므로 정답이다.\n③ [오답] which만 쓰면 원래 문장의 전치사가 빠져 맞지 않으므로 오답이다.\n④ [오답] where는 장소를 나타내고, 이유의 선행사와 맞지 않으므로 오답이다.\n⑤ [오답] how는 방법을 나타내고, 이유의 선행사와 맞지 않으므로 오답이다.",
+    "passage": "I know the real reason for which Mina left the birthday party so early last night.",
+    "stem": "다음 문장을 관계부사를 사용하여 어법상 가장 올바르게 변경한 문장은 무엇인가?"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T07:37:44.645Z",
+      "text": "기준 문항에 비해 문장의 길이가 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:49:01.778Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:48:51.941Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:49:01.778Z",
+      "what": "확인 완료"
+    }
+  }
+}

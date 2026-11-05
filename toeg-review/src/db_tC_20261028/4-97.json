@@ -1,0 +1,35 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:57:01.559Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "So",
+      "2": null,
+      "3": "Very",
+      "4": "Such"
+    },
+    "expl": "핵심 규칙: 명사구(a + 형용사 + 명사)를 강조하면 What, 형용사·부사를 강조하면 How로 감탄문을 시작한다. So, Very, Such로는 이 어순의 감탄문을 시작하지 않는다.\n풀이 순서: ① 빈칸 뒤를 본다: a tall building + it is. → ② a + 형용사 + 명사가 있으므로 What이다. → ③ 정답은 What.\n문장별 판정:\n정답 판단: 명사구 a tall building을 강조하는 What 감탄문이므로 정답은 ③이다.\n선택지 분석:\n① [오답] 뒤에 명사구(a tall building)가 있어 How를 쓸 수 없으므로 오답이다.\n② [오답] 강조어라 감탄문을 이 어순으로 시작하지 못하므로 오답이다.\n③ [정답] 명사구 a tall building을 강조하는 What 감탄문이므로 정답이다.\n④ [오답] 강조어라 감탄문을 이 어순으로 시작하지 못하므로 오답이다.\n⑤ [오답] 강조어라 감탄문을 이 어순으로 시작하지 못하므로 오답이다.",
+    "passage": "It is a very tall building.\n= ________ a tall building it is!",
+    "stem": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T06:38:35.043Z"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T06:38:35.043Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:57:01.559Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T06:38:35.043Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-06T07:08:38.283Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "ⓐ, ⓑ",
+      "1": "ⓐ, ⓒ",
+      "2": "ⓑ, ⓒ",
+      "3": "ⓑ, ⓓ",
+      "4": "ⓒ, ⓓ"
+    },
+    "expl": "핵심 규칙: 지시어(this/that ↔ these/those)·명사·동사의 수를 맞춘다. 사람·동물의 소유는 's(복수 -s로 끝나면 '만), 사물의 소유는 of로 나타낸다.\n풀이 순서: ① 주어와 동사의 수가 맞는지 본다(pants·shoes는 복수, news는 단수, this/that + 단수, these/those + 복수). → ② 소유 표현을 본다(사람은 's, -s로 끝나는 복수명사는 ', 사물은 of). → ③ ⓑ Those shoes is(are), ⓓ two girl's bags(two girls' bags)가 틀렸다. 옳은 문장만 고른 ⓐ, ⓒ가 정답이다.\n문장별 판정:\nⓐ O. 단수 That dog + is이다.\nⓑ X. 복수 Those shoes에는 are를 쓴다.\nⓒ O. 사물의 소유를 of로 나타냈다.\nⓓ X. 두 소녀의 가방은 girls' bags로 쓴다.\n정답 판단: 어법상 옳은 문장은 ⓐ, ⓒ이다.\n선택지 분석:\n① [오답] ⓑ는 옳은 문장이 아니고, 옳은 문장 ⓒ를 빠뜨렸다. 따라서 오답이다.\n② [정답] 옳은 문장 ⓐ, ⓒ를 빠짐없이 골랐으므로 정답이다.\n③ [오답] ⓑ는 옳은 문장이 아니고, 옳은 문장 ⓐ를 빠뜨렸다. 따라서 오답이다.\n④ [오답] ⓑ, ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓐ, ⓒ를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓐ를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "ⓐ That dog is cute.\nⓑ Those shoes is mine.\nⓒ The color of the car is red.\nⓓ These two girl's bags are new.",
+    "stem": "다음 중 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T07:07:24.036Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T07:08:38.283Z",
+      "what": "확인 완료"
+    }
+  }
+}

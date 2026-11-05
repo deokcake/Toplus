@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차: 길이)",
+  "done": true,
+  "doneAt": "2026-10-24T01:45:32.016Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "We <u>went</u> home right after the concert.",
+      "1": "Jane <u>ate</u> lunch with her friends today.",
+      "2": "Tom <u>wrote</u> a letter to his grandmother.",
+      "3": "They <u>met</u> a famous singer at the mall.",
+      "4": "I <u>seed</u> the movie twice last month."
+    },
+    "expl": "핵심 규칙: 불규칙동사의 과거형은 -ed를 붙이지 않고 따로 외운 형태를 쓴다(go - went, buy - bought, see - saw, write - wrote).\n풀이 순서: ① 밑줄 친 동사의 원형을 떠올려 과거형이 규칙(-ed)인지 불규칙인지 가른다. → ② 불규칙동사에 -ed를 붙인 것이 틀린 형태다. → ③ 선택지 ⑤의 seed는 틀렸다. see의 과거형은 saw다.\n문장별 판정:\n정답 판단: seed: see의 과거형은 saw이다. 어법상 틀린 부분이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] went: go의 과거형을 바르게 썼으므로 오답이다.\n② [오답] ate: eat의 과거형을 바르게 썼으므로 오답이다.\n③ [오답] wrote: write의 과거형을 바르게 썼으므로 오답이다.\n④ [오답] met: meet의 과거형을 바르게 썼으므로 오답이다.\n⑤ [정답] seed: see의 과거형은 saw이다. 어법상 틀린 부분이므로 정답이다.",
+    "passage": "",
+    "stem": "다음 중 밑줄 친 부분이 어법상 틀린 것을 고르시오."
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-24T01:45:32.016Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:45:32.016Z",
+      "what": "확인 완료"
+    }
+  }
+}

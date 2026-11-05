@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-26T12:04:10.778Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: be동사는 주어의 인칭·수와 시제에 맞춘다(I am, 단수 is/was, 복수·you are/were). 부정문은 be동사 뒤에 not을, 의문문은 be동사를 주어 앞에 둔다. There + be동사는 뒤의 명사에 수를 맞추고, news처럼 -s로 끝나도 단수인 명사에 주의한다.\n풀이 순서: ① 밑줄 친 be동사마다 주어를 찾는다. There로 시작하면 뒤의 명사가 주어다. → ② 주어의 수(단수·복수)와 인칭에 be동사가 맞는지 본다. → ③ ⓑ는 They에 wasn't(weren't), ⓒ는 two cats에 was(were), ⓓ는 We에 isn't(aren't), ⓔ는 you에 Is(Are)를 썼다. ⓐ만 옳다. 옳은 문장은 1개이다.\n문장별 판정:\nⓐ O. 3인칭 단수 주어에 is를 썼다.\nⓑ X. 복수 주어(They)의 과거 부정은 weren't이다.\nⓒ X. 뒤의 명사(two cats)가 복수이므로 There were이다.\nⓓ X. 복수 주어(We)의 부정은 aren't이다.\nⓔ X. 주어 you의 의문문은 Are이다.\n정답 판단: 밑줄 친 부분이 옳은 문장은 ⓐ로 1개이다.\n선택지 분석:\n① [정답] 밑줄 친 부분이 옳은 문장은 ⓐ로 1개이다. 이 보기의 1개는 실제 개수와 일치한다.\n② [오답] 밑줄 친 부분이 옳은 문장은 ⓐ로 1개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 밑줄 친 부분이 옳은 문장은 ⓐ로 1개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 밑줄 친 부분이 옳은 문장은 ⓐ로 1개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 밑줄 친 부분이 옳은 문장은 ⓐ로 1개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "ⓐ Jane <u>is</u> kind to everyone in her class.\nⓑ They <u>wasn't</u> busy last weekend.\nⓒ There <u>was</u> two cats under the table.\nⓓ We <u>isn't</u> late for school today.\nⓔ <u>Is</u> you ready for the test tomorrow?",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장의 개수를 고르시오."
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T12:04:10.778Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T12:04:10.778Z",
+      "what": "확인 완료"
+    }
+  }
+}

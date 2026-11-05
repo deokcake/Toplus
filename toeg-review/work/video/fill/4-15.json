@@ -1,0 +1,483 @@
+{
+ "A": {
+  "title": "pants의 수와 소유 표현",
+  "intro": "이 문제는 명사의 수와 소유 표현을 보고, 옳은 문장만 짝지은 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 옳은 문장으로만 짝지어진 것을 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "this, that + 단수 명사 · these, those + 복수 명사",
+    "동사도 주어의 수에 맞춰요 (pants는 늘 복수 → look, are)",
+    "사람·동물의 것 → 주로 's (Amy's) · s로 끝나는 복수 명사 → '만 (the boys')",
+    "사물의 것 → 주로 of (the door of the room = 방의 문)",
+    "예) Those boys' caps are blue. (저 소년들의 모자는 파란색이에요.)"
+   ],
+   "narration": "this와 that 뒤에는 단수 명사, these와 those 뒤에는 복수 명사를 써요. 동사도 주어의 수에 맞추는데, pants는 늘 복수예요. 소유는 사람이나 동물이면 주로 아포스트로피 에스, 사물이면 주로 of로 나타내요. s로 끝나는 복수 명사에는 아포스트로피만 붙여요. 예를 들어 Those boys' caps are blue, 저 소년들의 모자는 파란색이에요."
+  },
+  "steps": [
+   {
+    "note": "ⓐ 주어 Those pants는 복수 → looks ✗, look",
+    "highlight": [
+     "Those pants"
+    ],
+    "strike": [
+     "looks"
+    ],
+    "narration": "첫째, 에이 문장의 주어 Those pants는 복수라서 looks가 아니라 look을 써야 해요."
+   },
+   {
+    "note": "ⓓ 버스 두 대의 문 → buses' doors (bus's ✗)",
+    "highlight": [
+     "These two"
+    ],
+    "strike": [
+     "bus's doors"
+    ],
+    "narration": "둘째, 디 문장은 버스 두 대의 문이라서 buses 뒤에 아포스트로피만 붙여야 해요."
+   },
+   {
+    "note": "ⓑ of로 개의 이름(the dog's name도 가능) · ⓒ my uncle's house → 옳다 → ①",
+    "highlight": [
+     "The name of the dog",
+     "my uncle's house",
+     "① ⓑ, ⓒ"
+    ],
+    "strike": [
+     "② ⓐ, ⓑ",
+     "③ ⓐ, ⓓ",
+     "④ ⓑ, ⓓ",
+     "⑤ ⓒ, ⓓ"
+    ],
+    "narration": "셋째, 비 문장은 of로 개의 이름을, 씨 문장은 my uncle's house로 삼촌의 집을 나타내서 둘 다 옳아요. 그래서 1번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① ⓑ, ⓒ  ✓  옳은 문장 ⓑ, ⓒ만 짝지었어요",
+    "② ⓐ, ⓑ  ✗  ⓐ pants는 복수 → looks가 아니라 look",
+    "③ ⓐ, ⓓ  ✗  ⓐ looks, ⓓ bus's 둘 다 틀렸어요",
+    "④ ⓑ, ⓓ  ✗  ⓓ 버스 두 대의 문 → buses' doors",
+    "⑤ ⓒ, ⓓ  ✗  ⓓ 틀림 · 옳은 ⓑ the name of the dog를 빠뜨렸어요"
+   ],
+   "narration": "정답은 1번이에요. 2번은 pants를 바지 한 벌로 보고 looks가 맞다고 생각하면 고르기 쉬워요. 하지만 pants는 늘 복수라 look을 써요. 5번은 동물에는 꼭 아포스트로피 에스를 써야 한다고 생각하면 고르게 돼요. 동물에도 of를 쓸 수 있어서 비 문장은 옳고, 디 문장이 틀렸어요."
+  },
+  "summary": {
+   "card": "pants는 늘 복수 → look · s로 끝나는 복수 명사의 소유 → '만 (buses')",
+   "narration": "정답은 1번이에요. 기억할 것, pants는 늘 복수로 쓰고, s로 끝나는 복수 명사에는 아포스트로피만 붙여요."
+  },
+  "captions": [
+   "pants의 수와 소유 표현",
+   "먼저 풀어 보세요",
+   "수 일치와 's, of",
+   "수 일치 → 소유 표현 → 짝",
+   "정답 ① ⓑ, ⓒ",
+   "주어의 수 · 's와 of"
+  ],
+  "sec": [
+   11,
+   17,
+   30,
+   32,
+   24,
+   11
+  ]
+ },
+ "B": {
+  "title": "Those shoes의 수와 소유 표현",
+  "intro": "이 문제는 명사의 수와 소유 표현을 보고, 옳은 문장만 짝지은 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 옳은 문장으로만 짝지어진 것을 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "this, that + 단수 명사 · these, those + 복수 명사",
+    "현재형 be동사: 단수 명사 주어 → is · 복수 명사 주어 → are",
+    "사람·동물의 것 → 주로 's (Amy's) · s로 끝나는 복수 명사 → '만 (the boys')",
+    "사물의 것 → 주로 of (the door of the room = 방의 문)",
+    "예) These cats' toys are small. (이 고양이들의 장난감은 작아요.)"
+   ],
+   "narration": "this와 that 뒤에는 단수 명사, these와 those 뒤에는 복수 명사를 써요. 현재형 be동사는 단수 명사 주어에 is, 복수 명사 주어에 are를 써요. 소유는 사람이나 동물이면 주로 아포스트로피 에스, 사물이면 주로 of로 나타내요. s로 끝나는 복수 명사에는 아포스트로피만 붙여요. 예를 들어 These cats' toys are small, 이 고양이들의 장난감은 작아요."
+  },
+  "steps": [
+   {
+    "note": "ⓐ 단수 That dog + is ○ · ⓑ 복수 Those shoes + is ✗ → are",
+    "highlight": [
+     "That dog is"
+    ],
+    "strike": [
+     "Those shoes is"
+    ],
+    "narration": "첫째, 에이 문장은 단수 That dog에 is를 써서 옳아요. 비 문장의 Those shoes는 복수라서 are를 써야 해요."
+   },
+   {
+    "note": "ⓒ 사물(자동차)의 색 → of ○ · ⓓ 두 소녀의 가방 → two girls' bags",
+    "highlight": [
+     "The color of the car"
+    ],
+    "strike": [
+     "girl's bags"
+    ],
+    "narration": "둘째, 씨 문장은 사물인 자동차의 색을 of로 나타내서 옳아요. 디 문장은 두 소녀의 가방이니 girls 뒤에 아포스트로피만 붙여야 해요."
+   },
+   {
+    "note": "옳은 문장 ⓐ, ⓒ → ②",
+    "highlight": [
+     "② ⓐ, ⓒ"
+    ],
+    "strike": [
+     "① ⓐ, ⓑ",
+     "③ ⓑ, ⓒ",
+     "④ ⓑ, ⓓ",
+     "⑤ ⓒ, ⓓ"
+    ],
+    "narration": "셋째, 그래서 옳은 두 문장을 짝지은 2번이 답이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① ⓐ, ⓑ  ✗  ⓑ Those shoes에는 are · 옳은 ⓒ를 빠뜨렸어요",
+    "② ⓐ, ⓒ  ✓  옳은 문장 ⓐ, ⓒ만 짝지었어요",
+    "③ ⓑ, ⓒ  ✗  ⓑ 복수 주어에 is ✗ · 옳은 ⓐ를 빠뜨렸어요",
+    "④ ⓑ, ⓓ  ✗  ⓑ, ⓓ 둘 다 틀렸어요 (are, girls')",
+    "⑤ ⓒ, ⓓ  ✗  ⓓ 두 소녀의 → two girls' · 옳은 ⓐ를 빠뜨렸어요"
+   ],
+   "narration": "정답은 2번이에요. 1번이나 3번은 비 문장을 옳다고 본 거예요. 뒤의 mine만 보고 is가 맞아 보이지만, 주어 Those shoes가 복수라서 are를 써요. 5번은 디 문장을 옳다고 본 거예요. 소녀가 두 명이니 girls 뒤에 아포스트로피만 붙여요."
+  },
+  "summary": {
+   "card": "복수 명사 주어 → are · s로 끝나는 복수 명사의 소유 → '만",
+   "narration": "정답은 2번이에요. 기억할 것, 복수 명사 주어에는 are를 쓰고, s로 끝나는 복수 명사에는 아포스트로피만 붙여요."
+  },
+  "captions": [
+   "Those shoes의 수와 소유 표현",
+   "먼저 풀어 보세요",
+   "수 일치와 's, of",
+   "수 일치 → 소유 표현 → 짝",
+   "정답 ② ⓐ, ⓒ",
+   "주어의 수 · 's와 of"
+  ],
+  "sec": [
+   11,
+   17,
+   30,
+   32,
+   24,
+   11
+  ]
+ },
+ "C": {
+  "title": "jeans의 수와 소유 표현",
+  "intro": "이 문제는 명사의 수와 소유 표현을 보고, 옳은 문장만 짝지은 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 옳은 문장으로만 짝지어진 것을 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "this, that + 단수 명사 · these, those + 복수 명사",
+    "현재형 be동사: 복수 주어 → are (jeans는 늘 복수) · 단수 명사 주어 → is",
+    "사람·동물의 것 → 주로 's (Amy's) · s로 끝나는 복수 명사 → '만 (the boys')",
+    "사물의 것 → 주로 of (the door of the room = 방의 문)",
+    "예) My cousins' shoes are new. (내 사촌들의 신발은 새것이에요.)"
+   ],
+   "narration": "this와 that 뒤에는 단수 명사, these와 those 뒤에는 복수 명사를 써요. 현재형 be동사는 복수 주어에 are를 쓰는데, jeans는 늘 복수예요. 소유는 사람이나 동물이면 주로 아포스트로피 에스, 사물이면 주로 of로 나타내요. s로 끝나는 복수 명사에는 아포스트로피만 붙여요. 예를 들어 My cousins' shoes are new, 내 사촌들의 신발은 새것이에요."
+  },
+  "steps": [
+   {
+    "note": "ⓐ These jeans는 복수 → is ✗, are",
+    "highlight": [
+     "These jeans"
+    ],
+    "strike": [
+     "is too small"
+    ],
+    "narration": "첫째, 에이 문장의 These jeans는 복수라서 is가 아니라 are를 써야 해요."
+   },
+   {
+    "note": "ⓒ 형의 자전거 → my brother's bike",
+    "highlight": [],
+    "strike": [
+     "my brother bike"
+    ],
+    "narration": "둘째, 씨 문장은 형의 자전거라는 뜻이니 brother 뒤에 아포스트로피 에스를 붙여야 해요."
+   },
+   {
+    "note": "ⓑ 사물(집)의 지붕 → of ○ · ⓓ parents' ○ → ④",
+    "highlight": [
+     "The roof of the house",
+     "My parents' car",
+     "④ ⓑ, ⓓ"
+    ],
+    "strike": [
+     "① ⓐ, ⓑ",
+     "② ⓐ, ⓒ",
+     "③ ⓑ, ⓒ",
+     "⑤ ⓒ, ⓓ"
+    ],
+    "narration": "셋째, 비 문장은 사물인 집의 지붕을 of로 나타냈고, 디 문장은 s로 끝나는 복수 parents 뒤에 아포스트로피만 붙였어요. 둘 다 옳으니 4번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① ⓐ, ⓑ  ✗  ⓐ jeans는 복수 → are · 옳은 ⓓ를 빠뜨렸어요",
+    "② ⓐ, ⓒ  ✗  ⓐ, ⓒ 둘 다 틀렸어요 (are, brother's)",
+    "③ ⓑ, ⓒ  ✗  ⓒ 형의 자전거 → my brother's bike",
+    "④ ⓑ, ⓓ  ✓  옳은 문장 ⓑ, ⓓ만 짝지었어요",
+    "⑤ ⓒ, ⓓ  ✗  ⓒ 틀림 · 옳은 ⓑ the roof of the house를 빠뜨렸어요"
+   ],
+   "narration": "정답은 4번이에요. 1번은 jeans를 청바지 한 벌로 보고 is가 맞다고 생각하면 고르기 쉬워요. 하지만 jeans는 늘 복수라 are를 써요. 3번은 디 문장의 parents 뒤에도 아포스트로피 에스가 있어야 한다고 생각하면 고르게 돼요. s로 끝나는 복수 명사에는 아포스트로피만 붙이니 디 문장은 옳아요."
+  },
+  "summary": {
+   "card": "jeans는 늘 복수 → are · 사람의 소유 → 주로 's (my brother's bike)",
+   "narration": "정답은 4번이에요. 기억할 것, jeans는 늘 복수로 쓰고, 사람의 소유는 주로 아포스트로피 에스로 나타내요."
+  },
+  "captions": [
+   "jeans의 수와 소유 표현",
+   "먼저 풀어 보세요",
+   "수 일치와 's, of",
+   "수 일치 → 소유 표현 → 짝",
+   "정답 ④ ⓑ, ⓓ",
+   "주어의 수 · 's와 '"
+  ],
+  "sec": [
+   11,
+   17,
+   30,
+   32,
+   24,
+   11
+  ]
+ },
+ "D": {
+  "title": "news의 수와 지시어의 수",
+  "intro": "이 문제는 명사의 수와 소유 표현을 보고, 옳은 문장만 짝지은 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 옳은 문장으로만 짝지어진 것을 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "this, that + 단수 명사 · these, those + 복수 명사",
+    "현재형 be동사: 단수 명사 주어 → is · 복수 명사 주어 → are (news는 단수)",
+    "사람·동물의 것 → 주로 's (Amy's)",
+    "사물의 것 → 주로 of (the door of the room = 방의 문)",
+    "예) This girl's shoes are red. (이 소녀의 신발은 빨간색이에요.)"
+   ],
+   "narration": "this와 that 뒤에는 단수 명사, these와 those 뒤에는 복수 명사를 써요. 현재형 be동사는 단수 명사 주어에 is를 쓰는데, news는 s로 끝나도 단수예요. 소유는 사람이나 동물이면 주로 아포스트로피 에스, 사물이면 주로 of로 나타내요. 예를 들어 This girl's shoes are red, 이 소녀의 신발은 빨간색이에요."
+  },
+  "steps": [
+   {
+    "note": "ⓐ The news는 단수 → are ✗, is",
+    "highlight": [
+     "The news from my sister"
+    ],
+    "strike": [
+     "are really good"
+    ],
+    "narration": "첫째, 에이 문장의 The news는 단수라서 are가 아니라 is를 써야 해요."
+   },
+   {
+    "note": "ⓑ Those + 단수 bag ✗ → That bag is 또는 Those bags are",
+    "highlight": [],
+    "strike": [
+     "Those bag"
+    ],
+    "narration": "둘째, 비 문장은 Those 뒤에 단수 bag을 써서 틀렸어요. That bag is나 Those bags are로 써야 해요."
+   },
+   {
+    "note": "ⓒ Tom's ○ · ⓓ 사물(탁자)의 다리 → of, 복수 legs + are ○ → ⑤",
+    "highlight": [
+     "Tom's new science book",
+     "The legs of the old table are",
+     "⑤ ⓒ, ⓓ"
+    ],
+    "strike": [
+     "① ⓐ, ⓑ",
+     "② ⓐ, ⓒ",
+     "③ ⓑ, ⓒ",
+     "④ ⓑ, ⓓ"
+    ],
+    "narration": "셋째, 씨 문장의 Tom's와 디 문장의 The legs of the old table은 소유를 바르게 나타냈어요. 그래서 5번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① ⓐ, ⓑ  ✗  ⓐ, ⓑ 둘 다 틀렸어요 (news is, That bag)",
+    "② ⓐ, ⓒ  ✗  ⓐ news는 단수 → is · 옳은 ⓓ를 빠뜨렸어요",
+    "③ ⓑ, ⓒ  ✗  ⓑ Those + 단수 bag ✗ · 옳은 ⓓ를 빠뜨렸어요",
+    "④ ⓑ, ⓓ  ✗  ⓑ That bag is 또는 Those bags are · 옳은 ⓒ를 빠뜨렸어요",
+    "⑤ ⓒ, ⓓ  ✓  옳은 문장 ⓒ, ⓓ만 짝지었어요"
+   ],
+   "narration": "정답은 5번이에요. 2번은 news가 s로 끝나서 복수라고 생각하면 고르기 쉬워요. 하지만 news는 단수라 is를 써요. 3번이나 4번은 비 문장을 옳다고 본 거예요. Those 뒤에는 복수 명사가 와야 해서 Those bag은 틀렸어요."
+  },
+  "summary": {
+   "card": "news는 단수 → is · those + 복수 명사",
+   "narration": "정답은 5번이에요. 기억할 것, news는 단수로 쓰고, those 뒤에는 복수 명사를 써요."
+  },
+  "captions": [
+   "news의 수와 지시어의 수",
+   "먼저 풀어 보세요",
+   "수 일치와 's, of",
+   "수 일치 → 소유 표현 → 짝",
+   "정답 ⑤ ⓒ, ⓓ",
+   "news는 단수"
+  ],
+  "sec": [
+   11,
+   17,
+   30,
+   32,
+   24,
+   11
+  ]
+ },
+ "E": {
+  "title": "소유대명사와 children's",
+  "intro": "이 문제는 소유격과 소유대명사를 보고, 옳은 문장만 짝지은 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 옳은 문장으로만 짝지어진 것을 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "명사 앞 ‘누구의’ → 사람·동물은 주로 's (Amy's)",
+    "s로 끝나는 복수 명사 → '만 (the boys') · s로 끝나지 않는 복수 명사 → 's (the men's)",
+    "명사 없이 ‘누구의 것’ → 소유대명사 mine, yours, his, hers, ours, theirs",
+    "예) This is Amy's cap, not mine. (이건 내 것이 아니라 Amy의 모자예요.)"
+   ],
+   "narration": "사람이나 동물의 소유는 주로 아포스트로피 에스로 나타내요. s로 끝나는 복수 명사에는 아포스트로피만 붙이고, men처럼 s로 끝나지 않는 복수 명사에는 아포스트로피 에스를 붙여요. 명사 없이 누구의 것이라고 할 때는 hers, theirs 같은 소유대명사를 써요. 예를 들어 This is Amy's cap, not mine. 이건 내 것이 아니라 Amy의 모자예요."
+  },
+  "steps": [
+   {
+    "note": "명사 없이 ‘~의 것’ → ⓐ theirs ○ · ⓑ her ✗ → hers",
+    "highlight": [
+     "are theirs"
+    ],
+    "strike": [
+     "is her"
+    ],
+    "narration": "첫째, 에이 문장은 그들의 것이라는 뜻으로 theirs를 써서 옳아요. 비 문장은 가방이 그녀의 것이라는 뜻이니 hers를 써야 해요."
+   },
+   {
+    "note": "children은 이미 복수 → children's (childrens' ✗) · ⓓ friend's ○",
+    "highlight": [
+     "My best friend's house"
+    ],
+    "strike": [
+     "The childrens' toys"
+    ],
+    "narration": "둘째, children은 이미 복수형이라 아포스트로피 에스를 붙여 children's로 써야 해요. 디 문장 My best friend's house는 옳아요."
+   },
+   {
+    "note": "옳은 문장 ⓐ, ⓓ → ①",
+    "highlight": [
+     "① ⓐ, ⓓ"
+    ],
+    "strike": [
+     "② ⓐ, ⓑ",
+     "③ ⓑ, ⓒ",
+     "④ ⓑ, ⓓ",
+     "⑤ ⓒ, ⓓ"
+    ],
+    "narration": "셋째, 그래서 옳은 두 문장을 짝지은 1번이 답이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① ⓐ, ⓓ  ✓  옳은 문장 ⓐ, ⓓ만 짝지었어요",
+    "② ⓐ, ⓑ  ✗  ⓑ 그녀의 것 → hers · 옳은 ⓓ를 빠뜨렸어요",
+    "③ ⓑ, ⓒ  ✗  ⓑ, ⓒ 둘 다 틀렸어요 (hers, children's)",
+    "④ ⓑ, ⓓ  ✗  ⓑ is her ✗ · 옳은 ⓐ theirs를 빠뜨렸어요",
+    "⑤ ⓒ, ⓓ  ✗  ⓒ childrens' ✗ → children's · 옳은 ⓐ를 빠뜨렸어요"
+   ],
+   "narration": "정답은 1번이에요. 2번이나 4번은 비 문장의 her를 옳다고 본 거예요. 그녀의라는 뜻의 her는 뒤에 명사가 와야 하고, 명사 없이 그녀의 것이라고 할 때는 hers를 써요. 5번은 씨 문장을 옳다고 본 거예요. children은 s로 끝나지 않는 복수 명사라 children's로 써요."
+  },
+  "summary": {
+   "card": "명사 없이 ‘그녀의 것’ → hers · children의 소유 → children's",
+   "narration": "정답은 1번이에요. 기억할 것, 명사 없이 그녀의 것은 hers로 쓰고, children의 소유는 children's로 나타내요."
+  },
+  "captions": [
+   "소유대명사와 children's",
+   "먼저 풀어 보세요",
+   "소유격과 소유대명사",
+   "소유대명사 → 소유격 → 짝",
+   "정답 ① ⓐ, ⓓ",
+   "hers, theirs · children's"
+  ],
+  "sec": [
+   11,
+   17,
+   30,
+   32,
+   24,
+   11
+  ]
+ },
+ "F": {
+  "title": "These car와 news의 수 일치",
+  "intro": "이 문제는 명사의 수와 소유 표현을 보고, 옳은 문장만 짝지은 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 옳은 문장으로만 짝지어진 것을 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "this, that + 단수 명사 · these, those + 복수 명사",
+    "현재형 be동사: 단수 명사 주어 → is · 복수 명사 주어 → are (news는 단수)",
+    "사람·동물의 것 → 주로 's (Amy's) · 사물의 것 → 주로 of",
+    "명사 없이 ‘누구의 것’ → mine, hers, theirs",
+    "예) These cups are mine. (이 컵들은 내 것이에요.)"
+   ],
+   "narration": "this와 that 뒤에는 단수 명사, these와 those 뒤에는 복수 명사를 써요. 현재형 be동사는 단수 명사 주어에 is를 쓰는데, news는 s로 끝나도 단수예요. 소유는 사람이나 동물이면 주로 아포스트로피 에스, 사물이면 주로 of로 나타내고, 명사 없이 쓸 때는 mine 같은 소유대명사를 써요. 예를 들어 These cups are mine, 이 컵들은 내 것이에요."
+  },
+  "steps": [
+   {
+    "note": "ⓒ These + 단수 car ✗ → This car is 또는 These cars are",
+    "highlight": [],
+    "strike": [
+     "These car is"
+    ],
+    "narration": "첫째, 씨 문장은 These 뒤에 단수 car를 써서 틀렸어요. This car is나 These cars are로 써야 해요."
+   },
+   {
+    "note": "ⓓ The news는 단수 → are ✗, is",
+    "highlight": [
+     "The news about the game"
+    ],
+    "strike": [
+     "are interesting"
+    ],
+    "narration": "둘째, 디 문장의 The news는 단수라서 are가 아니라 is를 써야 해요."
+   },
+   {
+    "note": "ⓐ 명사 없이 ‘내 것’ mine ○ · ⓑ sister's ○ → ③",
+    "highlight": [
+     "is mine",
+     "my little sister's new bike",
+     "③ ⓐ, ⓑ"
+    ],
+    "strike": [
+     "① ⓐ, ⓒ",
+     "② ⓑ, ⓓ",
+     "④ ⓒ, ⓓ",
+     "⑤ ⓑ, ⓒ"
+    ],
+    "narration": "셋째, 에이 문장의 mine과 비 문장의 sister's는 옳아요. 그래서 3번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① ⓐ, ⓒ  ✗  ⓒ These + 단수 car ✗ · 옳은 ⓑ를 빠뜨렸어요",
+    "② ⓑ, ⓓ  ✗  ⓓ news는 단수 → is · 옳은 ⓐ를 빠뜨렸어요",
+    "③ ⓐ, ⓑ  ✓  옳은 문장 ⓐ, ⓑ만 짝지었어요",
+    "④ ⓒ, ⓓ  ✗  ⓒ, ⓓ 둘 다 틀렸어요 (This car is, news is)",
+    "⑤ ⓑ, ⓒ  ✗  ⓒ This car is 또는 These cars are · 옳은 ⓐ mine을 빠뜨렸어요"
+   ],
+   "narration": "정답은 3번이에요. 2번은 news가 s로 끝나서 복수라고 생각하면 고르기 쉬워요. 하지만 news는 단수라 is를 써요. 1번이나 5번은 씨 문장을 옳다고 본 거예요. These 뒤에는 복수 명사가 와야 해서 These car는 틀렸어요."
+  },
+  "summary": {
+   "card": "these + 복수 명사 · news는 단수 → is",
+   "narration": "정답은 3번이에요. 기억할 것, these 뒤에는 복수 명사를 쓰고, news는 단수로 써요."
+  },
+  "captions": [
+   "These car와 news의 수 일치",
+   "먼저 풀어 보세요",
+   "수 일치와 's, of, mine",
+   "지시어 → news → 짝",
+   "정답 ③ ⓐ, ⓑ",
+   "these + 복수 · news는 단수"
+  ],
+  "sec": [
+   11,
+   17,
+   30,
+   32,
+   24,
+   11
+  ]
+ }
+}

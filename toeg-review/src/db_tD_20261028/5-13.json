@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T06:59:00.189Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Mina fixes her bike.",
+      "1": "We are good friends.",
+      "2": "My brother play soccer.",
+      "3": "The birds sing in the morning.",
+      "4": "She tries her best."
+    },
+    "expl": "핵심 규칙: 현재 시제에서 3인칭 단수 주어의 일반동사에는 -s/-es를 붙이고(자음 + y는 y를 i로 바꾸고 -es), 그 밖의 주어에는 동사원형을 쓴다. be동사는 I에 am, 3인칭 단수에 is, you·복수에 are를 쓴다.\n풀이 순서: ① 문장마다 주어가 3인칭 단수인지 본다. → ② 3인칭 단수면 동사에 -(e)s(have는 has), 아니면 동사원형이다. → ③ 선택지 ③의 My brother는 3인칭 단수이므로 plays를 써야 한다. 정답은 ③.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 My brother에는 plays를 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n② [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n③ [정답] 3인칭 단수 주어 My brother에는 plays를 써야 하므로 정답이다.\n④ [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n⑤ [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T06:58:58.898Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T06:59:00.189Z",
+      "what": "확인 완료"
+    }
+  }
+}

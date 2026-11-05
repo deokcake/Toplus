@@ -1,0 +1,180 @@
+{
+ "key": "5-4",
+ "type": "D",
+ "grade": 5,
+ "chapter": "CH 1 대명사",
+ "title": "주어 자리 He와 소유격 his",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 1 대명사 · 4번 · D 유형\n\n이 문제는 ‘그’를 나타내는 대명사 he, him, his 중 빈칸 자리에 맞는 것을 따져, 나머지와 다른 것이 들어가는 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 1 대명사 · 4번 · D 유형",
+     "이 문제는 ‘그’를 나타내는 대명사 he, him, his 중 빈칸 자리에 맞는 것을 따져, 나머지와 다른 것이 들어가는 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 1, 4번 D 유형. 이 문제는 ‘그’를 나타내는 대명사 he, him, his 중 빈칸 자리에 맞는 것을 따져, 나머지와 다른 것이 들어가는 문장을 고르는 문제예요.",
+   "caption": "‘그’ 대명사의 자리"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 빈칸에 '그'와 관련된 대명사가 들어갈 때, 성격이 다른 하나를 고르시오.\n\n① _______ is kind to everyone.\n② _______ studies English every night.\n③ That is _______ new bike.\n④ _______ lives next to my house.\n⑤ _______ plays soccer after school.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 '그'와 관련된 대명사가 들어갈 때, 성격이 다른 하나를 고르시오.",
+     "① _______ is kind to everyone.",
+     "② _______ studies English every night.",
+     "③ That is _______ new bike.",
+     "④ _______ lives next to my house.",
+     "⑤ _______ plays soccer after school."
+    ]
+   },
+   "narration": "다음 빈칸에 ‘그’와 관련된 대명사가 들어갈 때, 성격이 다른 하나를 고르세요. 다섯 문장의 빈칸이 각각 어떤 자리인지 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 26,
+   "screen": {
+    "text": "핵심 규칙\n‘그’ 대명사는 문장 속 자리에 따라 모양이 달라져요.\n주어 자리 → 주격 he (그는, 그가)\n동사·전치사 뒤 목적어 → 목적격 him (그를, 그에게)\n명사 앞에서 ‘그의’ → 소유격 his\n예) He loves his dog, and his dog loves him. (그는 그의 개를 사랑하고, 그의 개도 그를 사랑해요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "‘그’ 대명사는 문장 속 자리에 따라 모양이 달라져요.",
+     "주어 자리 → 주격 he (그는, 그가)",
+     "동사·전치사 뒤 목적어 → 목적격 him (그를, 그에게)",
+     "명사 앞에서 ‘그의’ → 소유격 his",
+     "예) He loves his dog, and his dog loves him. (그는 그의 개를 사랑하고, 그의 개도 그를 사랑해요.)"
+    ]
+   },
+   "narration": "‘그’를 나타내는 대명사는 문장 속 자리에 따라 모양이 달라져요. 주어 자리에는 ‘그는, 그가’라는 뜻의 주격 he를, 동사나 전치사 뒤 목적어 자리에는 ‘그를, 그에게’라는 뜻의 목적격 him을 써요. 명사 앞에서 ‘그의’라는 뜻을 나타낼 때는 소유격 his를 써요. 예를 들어 He loves his dog, and his dog loves him. 그는 그의 개를 사랑하고, 그의 개도 그를 사랑해요.",
+   "caption": "주어 he · 목적어 him · 그의 his"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 빈칸에 '그'와 관련된 대명사가 들어갈 때, 성격이 다른 하나를 고르시오.\n\n① _______ is kind to everyone.\n② _______ studies English every night.\n③ That is _______ new bike.\n④ _______ lives next to my house.\n⑤ _______ plays soccer after school.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "_______ new bike."
+      ],
+      "strike": [],
+      "note": "빈칸 뒤에 명사가 이어져 ‘그의 ~’가 되는가? → ③ new bike 앞 = 소유격 his"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "_______ is kind",
+       "_______ studies",
+       "_______ lives",
+       "_______ plays"
+      ],
+      "strike": [],
+      "note": "나머지는 빈칸 바로 뒤에 동사 is, studies, lives, plays → 주어 자리 → 주격 He"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ That is _______ new bike."
+      ],
+      "strike": [
+       "① _______ is kind to everyone.",
+       "② _______ studies English every night.",
+       "④ _______ lives next to my house.",
+       "⑤ _______ plays soccer after school."
+      ],
+      "note": "He 넷, his 하나 → 성격이 다른 것은 ③"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 빈칸 뒤에 명사가 이어져 ‘그의 무엇’이라는 뜻이 되는지 먼저 봐요. 3번은 빈칸 뒤에 new bike가 있어서 ‘그의 새 자전거’가 되니, 소유격 his가 들어가요. 둘째, 나머지 네 문장은 빈칸 바로 뒤에 동사 is, studies, lives, plays가 와서 빈칸이 주어 자리이니, 주격 He가 들어가요. 셋째, He가 들어가는 네 문장과 달리 3번만 his가 들어가요. That is his new bike. 저것은 그의 새 자전거예요.",
+   "caption": "명사 앞인가 → 주어인가 → ③"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 30,
+   "screen": {
+    "text": "① _______ is kind to everyone.  ✗  동사 is 앞 주어 → He\n② _______ studies English every night.  ✗  동사 studies 앞 주어 → He\n③ That is _______ new bike.  ✓  뒤에 new bike → ‘그의’ 소유격 his\n④ _______ lives next to my house.  ✗  동사 lives 앞 주어 → He\n⑤ _______ plays soccer after school.  ✗  동사 plays 앞 주어 → He",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① _______ is kind to everyone.  ✗  동사 is 앞 주어 → He",
+     "② _______ studies English every night.  ✗  동사 studies 앞 주어 → He",
+     "③ That is _______ new bike.  ✓  뒤에 new bike → ‘그의’ 소유격 his",
+     "④ _______ lives next to my house.  ✗  동사 lives 앞 주어 → He",
+     "⑤ _______ plays soccer after school.  ✗  동사 plays 앞 주어 → He"
+    ]
+   },
+   "narration": "정답은 3번이에요. 빈칸 뒤에 new bike가 이어져 ‘그의 새 자전거’라는 뜻이 되니 소유격 his가 들어가요. 1번에도 3번처럼 is가 있지만, 빈칸이 is 앞의 주어 자리라서 He가 들어가요. He is kind to everyone. 그는 모두에게 친절해요. 4번과 5번도 빈칸 바로 뒤에 동사 lives와 plays가 와서, 빈칸은 ‘그는’이라는 뜻의 주어 He예요.",
+   "caption": "정답 ③ his"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ That is _______ new bike.\n\n주어 → he · 동사·전치사 뒤 목적어 → him · 명사 앞 ‘그의’ → his",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ That is _______ new bike.",
+     "주어 → he · 동사·전치사 뒤 목적어 → him · 명사 앞 ‘그의’ → his"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 주어 자리에는 he, 동사나 전치사 뒤 목적어 자리에는 him, 명사 앞에서 ‘그의’라는 뜻일 때는 his를 써요.",
+   "caption": "주어 He, 명사 앞 his"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 '그'와 관련된 대명사가 들어갈 때, 성격이 다른 하나를 고르시오.",
+  "passage": "",
+  "c": [
+   "_______ is kind to everyone.",
+   "_______ studies English every night.",
+   "That is _______ new bike.",
+   "_______ lives next to my house.",
+   "_______ plays soccer after school."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 주어 자리에는 주격(he, she), 동사·전치사 뒤 목적어 자리에는 목적격(him, her), 명사 앞에는 소유격(his, her)을 쓴다.\n풀이 순서: ① 빈칸의 자리를 본다: 주어 자리(주격), 동사·전치사 뒤(목적격), 명사 앞(소유격). → ② 선택지 ③만 명사 bike 앞이라 소유격 his가 들어간다. 나머지는 주격 He다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 명사 앞이라 소유격(his)이 들어가 나머지와 다르므로 정답은 ③이다.\n선택지 분석:\n① [오답] 주어 자리라 주격(He)이 들어가므로 오답이다.\n② [오답] 주어 자리라 주격(He)이 들어가므로 오답이다.\n③ [정답] 명사 앞이라 소유격(his)이 들어가 나머지와 다르므로 정답이다.\n④ [오답] 주어 자리라 주격(He)이 들어가므로 오답이다.\n⑤ [오답] 주어 자리라 주격(He)이 들어가므로 오답이다."
+ }
+}

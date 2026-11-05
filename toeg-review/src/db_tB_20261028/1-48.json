@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-09-30T05:19:56.589Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A) to be - (B) to have been",
+      "1": "(A) to have been - (B) to be",
+      "2": "(A) having been - (B) being",
+      "3": "(A) to have been - (B) being",
+      "4": "(A) to have - (B) to be"
+    },
+    "expl": "핵심 규칙: seem/appear의 판단 시점과 같은 때의 상태는 단순부정사 to be로, 주절보다 앞선 과거의 상태·사건은 완료부정사 to have been/to have p.p.로 나타낸다.\n풀이 순서: ① 문장마다 때를 알려 주는 말을 찾는다: (A) years ago, (B) now. → ② seem/appear(현재)와 같은 때의 일은 to be, 그보다 앞선 때의 일은 to have been으로 쓴다. → ③ 정답은 (A) to have been - (B) to be.\n문장별 판정:\n정답 판단: 문장 속 현재/과거 시간 관계를 비교하면 (A) to have been, (B) to be가 된다.\n선택지 분석:\n① [오답] (A)는 to have been이 필요하므로 to be는 맞지 않는다. (B)는 to be가 필요하므로 to have been은 맞지 않는다. 따라서 두 빈칸을 모두 충족하지 못한다.\n② [정답] (A)는 to have been이 필요하므로 to have been은 맞다. (B)는 to be가 필요하므로 to be는 맞다. 두 시간 관계를 모두 정확히 나타낸다.\n③ [오답] (A)는 to have been이 필요하므로 having been은 맞지 않는다. (B)는 to be가 필요하므로 being은 맞지 않는다. 따라서 두 빈칸을 모두 충족하지 못한다.\n④ [오답] (A)는 to have been이 필요하므로 to have been은 맞다. (B)는 to be가 필요하므로 being은 맞지 않는다. 따라서 두 빈칸을 모두 충족하지 못한다.\n⑤ [오답] (A)는 to have been이 필요하므로 to have는 맞지 않는다. (B)는 to be가 필요하므로 to be는 맞다. 따라서 두 빈칸을 모두 충족하지 못한다.",
+    "passage": "• The bridge appears (<u>      A      </u>) badly damaged during the earthquake years ago.\n• After the repairs, it appears (<u>      B      </u>) completely safe now.",
+    "stem": "다음 빈칸 (A)와 (B)에 들어갈 말이 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-04T11:23:06.848Z"
+  },
+  "tab": "7cl4h520",
+  "updatedAt": "2026-10-04T11:23:06.848Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-04T11:23:06.848Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T15:05:24.749Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "The baby looks <u>sleepily</u>.",
+      "1": "The girl sings <u>beautifully</u>.",
+      "2": "He drives <u>careful</u>.",
+      "3": "The music sounds <u>loudly</u>.",
+      "4": "The bread smells <u>freshly</u>."
+    },
+    "expl": "핵심 규칙: 감각·연결동사(look, smell, taste, feel, seem, sound, become) 뒤 보어 자리에는 형용사를, 동작을 꾸미는 자리(runs, sings, drives, speaks)에는 부사를 쓴다.\n풀이 순서: ① 동사가 감각·상태 동사인지 동작 동사인지 가른다. → ② 감각·상태 동사 뒤는 형용사, 동작 동사 뒤는 부사다. → ③ 선택지 ②만 동작 동사 sings 뒤에 부사 beautifully를 썼다. 정답은 ②.\n문장별 판정:\n정답 판단: 동사 sings를 꾸미는 부사를 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 감각·연결동사 뒤 보어 자리에는 형용사를 써야 하므로 오답이다.\n② [정답] 동사 sings를 꾸미는 부사를 바르게 썼으므로 정답이다.\n③ [오답] 동작을 꾸미는 자리에는 부사를 써야 하므로 오답이다.\n④ [오답] 감각·연결동사 뒤 보어 자리에는 형용사를 써야 하므로 오답이다.\n⑤ [오답] 감각·연결동사 뒤 보어 자리에는 형용사를 써야 하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 부분의 쓰임이 어법상 옳은 것을 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T15:05:24.128Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T15:05:24.749Z",
+      "what": "확인 완료"
+    }
+  }
+}

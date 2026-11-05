@@ -1,0 +1,37 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:33:44.708Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: many·few는 셀 수 있는 명사, much·little은 셀 수 없는 명사에 쓴다. 주어의 상태를 설명하는 보어 자리에는 형용사, 동작을 꾸미는 자리에는 부사를 쓰며, 빈도부사는 be동사 뒤에 둔다.\n풀이 순서: ① 문장마다 확인할 곳을 정한다: 수량 표현 뒤 명사가 셀 수 있는지, 꾸밈을 받는 말이 명사인지 동사인지, -ly가 붙어 뜻이 달라진 부사가 있는지. → ② ⓑ looks happily(happy), ⓒ fastly(fast), ⓓ few money(little), ⓔ cold something(something cold)이 틀렸다. ⓐ만 옳다. → ③ 틀린 문장은 4개이다.\n문장별 판정:\nⓐ O. 셀 수 있는 명사 friends에 many를 바르게 썼다.\nⓑ X. look 뒤 보어 자리에는 형용사 happy를 쓴다.\nⓒ X. fast는 -ly 없이 부사로 쓴다.\nⓓ X. 셀 수 없는 명사 money에는 little을 쓴다.\nⓔ X. -thing 대명사는 형용사가 뒤에서 꾸미므로 something cold로 쓴다.\n정답 판단: 어법상 틀린 문장은 ⓑ, ⓒ, ⓓ, ⓔ로 4개이다.\n선택지 분석:\n① [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓓ, ⓔ로 4개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓓ, ⓔ로 4개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓓ, ⓔ로 4개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [정답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓓ, ⓔ로 4개이다. 이 보기의 4개는 실제 개수와 일치한다.\n⑤ [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓓ, ⓔ로 4개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "ⓐ I have many friends in my new school in Seoul.\nⓑ She looks happily in the picture with her dog.\nⓒ Tom runs fastly every morning to catch the bus.\nⓓ We have few money for the family trip this summer.\nⓔ I want to drink cold something after the soccer game.",
+    "stem": "다음 문장 중 어법상 틀린 문장은 몇 개인가?"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:25:55.779Z",
+      "text": "5개 문장 중 5개가 다 틀린 문장이면 학생들이 너무 허무해 함.\n하나 정도는 옳은 문장을 제시하는 것이 좋음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:33:44.708Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:33:35.291Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:33:44.708Z",
+      "what": "확인 완료"
+    }
+  }
+}

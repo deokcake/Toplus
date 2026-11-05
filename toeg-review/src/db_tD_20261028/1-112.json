@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:50:10.451Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "is - are",
+      "1": "was - was",
+      "2": "are - are",
+      "3": "are - is",
+      "4": "is - is"
+    },
+    "expl": "핵심 규칙: most·half·some·분수(two-thirds 등) of + 명사가 주어이면 of 뒤 명사에 동사의 수를 맞춘다. 셀 수 없는 명사·단수명사이면 단수, 복수명사이면 복수 동사를 쓴다.\n풀이 순서: ① 주어가 ‘부분을 나타내는 말 + of + 명사’이므로 of 뒤의 명사를 본다. → ② 첫째 문장의 the land는 셀 수 없는 명사라 단수 동사, 둘째 문장의 the houses는 복수명사라 복수 동사를 쓴다. → ③ 정답은 is - are.\n문장별 판정:\n정답 판단: 모든 자리가 알맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 모든 자리가 알맞으므로 정답이다.\n② [오답] 첫째 빈칸 was: 맞지 않는다. 첫째 빈칸은 of 뒤의 land(셀 수 없는 명사)에 수를 맞춰 is를 쓴다. 둘째 빈칸 was: 맞지 않는다. 둘째 빈칸은 of 뒤의 houses(복수)에 수를 맞춰 are를 쓴다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 are: 맞지 않는다. 첫째 빈칸은 of 뒤의 land(셀 수 없는 명사)에 수를 맞춰 is를 쓴다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 are: 맞지 않는다. 첫째 빈칸은 of 뒤의 land(셀 수 없는 명사)에 수를 맞춰 is를 쓴다. 둘째 빈칸 is: 맞지 않는다. 둘째 빈칸은 of 뒤의 houses(복수)에 수를 맞춰 are를 쓴다. 따라서 오답이다.\n⑤ [오답] 둘째 빈칸 is: 맞지 않는다. 둘째 빈칸은 of 뒤의 houses(복수)에 수를 맞춰 are를 쓴다. 따라서 오답이다.",
+    "passage": "• Three-quarters of the land in this area _____ protected by law.\n• Most of the houses on this street _____ empty now.",
+    "stem": "다음 중 빈칸에 들어가는 것을 알맞게 짝지은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T09:55:20.387Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T09:55:25.704Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:50:10.451Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:50:02.077Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:50:10.451Z",
+      "what": "확인 완료"
+    }
+  }
+}

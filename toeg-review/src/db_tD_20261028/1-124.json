@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:50:49.619Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "I have never experienced such cold weather in my whole life",
+      "1": "Neither have I",
+      "2": "Here comes the bus at last",
+      "3": "Seldom I have felt so tired after a long day",
+      "4": "So strong is the wind that we can hardly walk"
+    },
+    "expl": "핵심 규칙: hardly, seldom, never 같은 부정·준부정 표현이 문두에 오면 조동사/be동사를 주어 앞으로 보내 도치한다. Neither + 조동사 + 주어, Here comes + 명사 같은 구조도 각각의 도치 규칙을 따른다.\n풀이 순서: ① 밑줄마다 문장(절)의 맨 앞에 부정어나 Neither·Here·So가 있는지 본다. → ② 있으면 그 뒤가 ‘(조)동사 + 주어’ 순서인지 확인한다. → ③ 선택지 ④는 부정어(Seldom) 뒤가 ‘주어 + 동사’ 순서 그대로다. 바른 어순은 Seldom have I felt.\n문장별 판정:\n정답 판단: 부정어 Seldom이 문장 맨 앞에 와서 조동사 have를 주어 I 앞으로 보내야 하므로 정답이다.\n선택지 분석:\n① [오답] 부정어 never가 문장 중간에 있어 도치하지 않는 일반 어순이 맞으므로 오답이다.\n② [오답] Neither + 조동사 + 주어(Neither have I)의 도치가 맞으므로 오답이다.\n③ [오답] Here comes + 명사 주어의 도치가 맞으므로 오답이다.\n④ [정답] 부정어 Seldom이 문장 맨 앞에 오면 조동사를 주어 앞으로 보내야 한다. Seldom have I felt so tired로 고쳐야 하므로 정답이다.\n⑤ [오답] So + 형용사 + be동사 + 주어 + that 구문의 도치가 맞으므로 오답이다.",
+    "passage": "A: ①<u>I have never experienced such cold weather in my whole life</u>.\nB: ②<u>Neither have I</u>. Oh, look! ③<u>Here comes the bus at last</u>.\nA: ④<u>Seldom I have felt so tired after a long day</u>.\nB: ⑤<u>So strong is the wind that we can hardly walk</u> straight.",
+    "stem": "다음 대화의 밑줄 친 부분 중 어법상 어색한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T09:59:19.887Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T09:59:31.854Z",
+      "text": "기준 문항에 비해 지문이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:50:49.619Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:50:30.697Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:50:49.619Z",
+      "what": "확인 완료"
+    }
+  }
+}

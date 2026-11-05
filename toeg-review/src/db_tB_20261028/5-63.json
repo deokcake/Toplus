@@ -1,0 +1,20 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:03:28.189Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "expl": "핵심 규칙: 연도는 두 자리씩 끊어 읽는다(1550 fifteen fifty). 뒤 두 자리가 00이면 hundred, 2000년대는 two thousand ~로도 읽는다.\n풀이 순서: ① 연도를 앞 두 자리와 뒤 두 자리로 끊는다. → ② 각 부분을 수로 읽어 보기와 견준다. 뒤가 05처럼 0으로 시작하면 oh five로 읽는다. → ③ 1705는 seventeen oh five인데 fifty(50)로 읽었다. 정답은 ④.\n문장별 판정:\n정답 판단: seventeen fifty는 1750년이다. 1705년은 seventeen oh five라고 읽는다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] 1876 - eighteen seventy-six — 제시된 숫자를 연도로 읽는 일반적인 방식과 일치하므로 잘못 읽은 것이 아니다.\n② [오답] 1907 - nineteen oh seven — 제시된 숫자를 연도로 읽는 일반적인 방식과 일치하므로 잘못 읽은 것이 아니다.\n③ [오답] 2040 - twenty forty — 제시된 숫자를 연도로 읽는 일반적인 방식과 일치하므로 잘못 읽은 것이 아니다.\n④ [정답] seventeen fifty는 1750년이다. 1705년은 seventeen oh five라고 읽는다.\n⑤ [오답] 2011 - twenty eleven — 제시된 숫자를 연도로 읽는 일반적인 방식과 일치하므로 잘못 읽은 것이 아니다."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T08:03:27.559Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T08:03:28.189Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T08:03:28.189Z",
+      "what": "확인 완료"
+    }
+  }
+}

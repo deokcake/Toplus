@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T12:45:17.384Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Mathematics <u>is</u> easy for Tom.",
+      "1": "The police <u>is</u> here.",
+      "2": "The information <u>was</u> wrong.",
+      "3": "These glasses <u>are</u> new.",
+      "4": "The trousers <u>look</u> nice."
+    },
+    "expl": "핵심 규칙: news·information·advice·furniture와 학문 이름(mathematics, physics, economics)은 단수 취급하고, pants·jeans·scissors·glasses·socks처럼 짝을 이루는 물건과 police는 복수 취급한다.\n풀이 순서: ① 주어 명사를 둘로 가른다: 단수 취급(news, information, advice, 학문 이름), 복수 취급(짝을 이루는 물건, police). → ② 밑줄 친 동사가 그에 맞는지 본다. police는 복수 취급한다. ②의 is가 틀렸다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: police는 복수 취급해 are를 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 단수 취급하는 명사라 단수 동사가 맞으므로 오답이다.\n② [정답] police는 복수 취급해 are를 써야 하므로 정답이다.\n③ [오답] 단수 취급하는 명사라 단수 동사가 맞으므로 오답이다.\n④ [오답] 복수 취급하는 명사라 복수 동사가 맞으므로 오답이다.\n⑤ [오답] 복수 취급하는 명사라 복수 동사가 맞으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 부분이 틀린 문장을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T12:44:51.257Z"
+  },
+  "tab": "ocdtwd0p",
+  "updatedAt": "2026-10-27T12:45:17.384Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T12:45:17.384Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T06:49:58.942Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "Being worried, Leo checked the message again.",
+      "1": "Worry, Leo checked the message again.",
+      "2": "To be worried, Leo checked the message again.",
+      "3": "Worried being, Leo checked the message again.",
+      "4": "Because being worried, Leo checked the message again."
+    },
+    "expl": "핵심 규칙: 부사절을 분사구문으로 바꿀 때는 접속사와 같은 주어를 빼고 동사를 분사로 바꾼다. 능동이면 -ing, 수동이면 과거분사, 먼저 일어난 일이면 Having + 과거분사를 쓰고, 뒤에 and를 붙이지 않는다.\n풀이 순서: ① 부사절에서 접속사(Because)와 주절과 같은 주어를 지운다. → ② 남은 동사(was worried)를 분사로 바꾼다. be동사를 Being으로 바꿔 Being worried가 된다. → ③ 주절은 그대로 둔다. 접속사가 남았거나 분사의 모양이 다른 보기를 지우면 정답은 ①.\n문장별 판정:\n정답 판단: was worried를 분사구문으로 바꾸면 Being worried(Being 생략 가능)가 되어 바르다. 정답은 ①이다.\n선택지 분석:\n① [정답] was worried를 분사구문으로 바꾸면 Being worried(Being 생략 가능)가 되어 바르다. 정답이다.\n② [오답] 동사원형 Worry로는 분사구문을 만들 수 없다. 오답이다.\n③ [오답] To be worried는 to부정사라 이유를 나타내는 분사구문이 아니다. 오답이다.\n④ [오답] 어순이 뒤바뀐 틀린 형태이다. 오답이다.\n⑤ [오답] 분사구문에서는 접속사 because를 남기지 않는다. 오답이다.",
+    "passage": null,
+    "stem": "다음 문장을 분사구문을 사용하여 바르게 바꾼 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T06:49:20.076Z"
+  },
+  "tab": "ij7ic6nx",
+  "updatedAt": "2026-10-26T06:49:58.942Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:49:58.942Z",
+      "what": "확인 완료"
+    }
+  }
+}

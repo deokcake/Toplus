@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:26:52.459Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A) are - (B) reading",
+      "1": "(A) am - (B) reading",
+      "2": "(A) does - (B) read",
+      "3": "(A) are - (B) read",
+      "4": "(A) is - (B) reading"
+    },
+    "expl": "핵심 규칙: 현재진행형은 주어에 맞는 be동사와 동사원형-ing가 모두 있어야 한다.\n풀이 순서: ① 질문이 진행형(What ~ doing?)이므로 대답도 be동사 + -ing다. → ② (A): 주어 You에 맞는 are. (B): read → reading. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: 주어(You)에 맞는 be동사(are)와 -ing형(reading)을 바르게 짝지었으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 주어(You)에 맞는 be동사(are)와 -ing형(reading)을 바르게 짝지었으므로 정답이다.\n② [오답] (A): 주어(You)에 맞는 be동사(are)를 써야 하므로 오답이다.\n③ [오답] (A): 진행형에는 조동사·일반동사(does)가 아니라 be동사(are)를 써야 하므로, (B): be동사 뒤에는 -ing형(reading)을 써야 하므로 오답이다.\n④ [오답] (B): be동사 뒤에는 -ing형(reading)을 써야 하므로 오답이다.\n⑤ [오답] (A): 주어(You)에 맞는 be동사(are)를 써야 하므로 오답이다.",
+    "passage": "Jane: What am I doing?\nTom: You (<u>    A    </u>) (<u>    B    </u>) a book.",
+    "stem": "다음 대화의 빈칸 (A)와 (B)에 들어갈 말이 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:26:41.383Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:26:52.459Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:26:52.459Z",
+      "what": "확인 완료"
+    }
+  }
+}

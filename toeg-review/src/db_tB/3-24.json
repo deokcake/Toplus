@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:50:18.377Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "(A): an / (B): an",
+      "1": "(A): a / (B): an",
+      "2": "(A): an / (B): a",
+      "3": "(A): a / (B): a",
+      "4": "(A): any / (B): an"
+    },
+    "expl": "핵심 규칙: a/an은 철자가 아니라 바로 뒤 단어의 첫소리로 정한다. 모음 소리 앞에는 an(an hour, an honest), 자음 소리 앞에는 a(a university, a one-way, a European)를 쓴다.\n풀이 순서: ① a/an은 뒤 낱말의 철자가 아니라 첫 ‘소리’로 정한다. 모음 소리 앞에는 an, 자음 소리 앞에는 a다. → ② (A) 뒤의 European은 /j/ 소리로 시작한다(a). (B) 뒤의 empty는 모음 소리로 시작한다(an). → ③ 정답은 ②.\n문장별 판정:\n정답 판단: (A)는 a, (B)는 an이다.\n선택지 분석:\n① [오답] (A) an: European은 자음 소리 /j/로 시작하므로 a를 쓴다. 따라서 오답이다.\n② [정답] (A) a - (B) an: 두 자리가 모두 첫소리에 맞으므로 정답이다.\n③ [오답] (A) an: European은 자음 소리 /j/로 시작하므로 a를 쓴다. (B) a: empty는 모음 소리로 시작하므로 an을 쓴다. 따라서 오답이다.\n④ [오답] (B) a: empty는 모음 소리로 시작하므로 an을 쓴다. 따라서 오답이다.\n⑤ [오답] (A) any: any는 단수 명사 보어 앞에 쓰지 않는다. 따라서 오답이다.",
+    "passage": "• He is (<u>    A    </u>) European tourist.\n• Is there (<u>    B    </u>) empty seat?",
+    "stem": "다음 빈칸 (A)와 (B)에 들어갈 말이 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T07:49:49.741Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T07:50:18.377Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T07:50:18.377Z",
+      "what": "확인 완료"
+    }
+  }
+}

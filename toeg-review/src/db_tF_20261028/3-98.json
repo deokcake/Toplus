@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-27T05:25:05.204Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "a few - a lot of - few",
+      "1": "a little - much - few",
+      "2": "a little - a lot of - little",
+      "3": "little - many - a few",
+      "4": "a little - a lot of - few"
+    },
+    "expl": "핵심 규칙: many·a few·few는 셀 수 있는 명사의 복수형, much·a little·little은 셀 수 없는 명사에 쓰고 a lot of는 둘 다에 쓴다. a few·a little은 ‘조금 있는’, few·little은 ‘거의 없는’이다.\n풀이 순서: ① 빈칸 뒤 명사가 셀 수 있는지 하나씩 본다: (A) water 셀 수 없음, (B) people 셀 수 있음, (C) people 셀 수 있음. → ② 셀 수 있으면 many·a few·few, 셀 수 없으면 much·a little·little, a lot of는 둘 다 된다. → ③ 세 자리가 모두 맞는 a little - a lot of - few가 정답이다.\n문장별 판정:\n정답 판단: (A)~(C) 모두 명사의 종류(셀 수 있는지)와 대화의 뜻에 맞으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] (A) a few: 셀 수 있는 명사에 쓰는 말이라 water에 맞지 않는다. 따라서 오답이다.\n② [오답] (B) much: 셀 수 없는 명사에 쓰는 말이라 people에 맞지 않는다. 따라서 오답이다.\n③ [오답] (C) little: 셀 수 없는 명사에 쓰는 말이라 people에 맞지 않는다. 따라서 오답이다.\n④ [오답] (A) little: 목이 말라 물을 ‘조금’ 달라는 뜻이라 a little이 알맞다, (B) many: 사람이 많다는 뜻이라 a lot of가 알맞다, (C) a few: 비 때문에 ‘거의 없었다’는 뜻이라 very few가 알맞다. 따라서 오답이다.\n⑤ [정답] (A)~(C) 모두 명사의 종류(셀 수 있는지)와 대화의 뜻에 맞으므로 정답이다.",
+    "passage": "Amy: Can I have (A)________ water, please? I'm really thirsty after the long walk.\nDad: Sure. Here you are. Drink slowly.\nAmy: Thanks. Wow, there are (B)________ people in this park today! Is there a festival?\nDad: Maybe. Last week, there were very (C)________ people here because of the heavy rain.",
+    "stem": "다음 대화의 빈칸 (A)~(C)에 들어갈 말로 알맞은 것을 고르시오."
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:25:05.204Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:25:05.204Z",
+      "what": "확인 완료"
+    }
+  }
+}

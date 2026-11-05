@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T02:44:44.714Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "(B), (D)",
+      "1": "(A), (C)",
+      "2": "(A), (B), (D)",
+      "3": "(B), (C), (D)",
+      "4": "(A), (B), (C), (D)"
+    },
+    "expl": "핵심 규칙: 형용사는 명사 앞에서 명사를 꾸미거나, be동사·연결동사(look, seem, smell, taste, sound, feel, become) 뒤에서 주어를 보충 설명한다. 부사는 동사·형용사·다른 부사를 꾸민다.\n풀이 순서: ① 밑줄마다 동사의 종류를 가른다. 연결동사(look, sound, feel, smell, taste, seem) 뒤는 형용사, 동작을 나타내는 동사 뒤는 부사다. → ② (B) cooked it careful → carefully, (D) tastes wonderfully → wonderful. (A), (C)는 옳다. → ③ 틀린 것을 모두 모으면 (B), (D)\n문장별 판정:\n(A) O. 연결동사 smells 뒤에 형용사 good을 썼다.\n(B) X. 동사 cooked를 꾸미므로 부사 carefully를 써야 한다.\n(C) O. 동사 cooks를 부사 well이 꾸민다.\n(D) X. 연결동사 tastes 뒤에는 형용사 wonderful을 써야 한다.\n정답 판단: 어법상 틀린 부분은 (B), (D)이다.\n선택지 분석:\n① [정답] 틀린 부분 (B), (D)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (A), (C)는 틀린 부분이 아니고, 틀린 부분 (B), (D)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (A)는 틀린 부분이 아니다. 따라서 오답이다.\n④ [오답] (C)는 틀린 부분이 아니다. 따라서 오답이다.\n⑤ [오답] (A), (C)는 틀린 부분이 아니다. 따라서 오답이다.",
+    "passage": "Tom: The soup (A)<u>smells good</u>.\nJane: Yes, Mom cooked it (B)<u>careful</u>.\nTom: She always cooks (C)<u>well</u>.\nJane: It tastes (D)<u>wonderfully</u>.",
+    "stem": "다음 대화에서 어법상 틀린 부분을 모두 고른 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:44:42.834Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-22T02:44:44.714Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:44:44.714Z",
+      "what": "확인 완료"
+    }
+  }
+}

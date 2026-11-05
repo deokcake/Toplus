@@ -1,0 +1,465 @@
+{
+ "A": {
+  "title": "Where 의문문의 be동사 과거형",
+  "intro": "이 문제는 Where 의문문에서 be동사 과거형 was가 틀린 이유를 고르는 문제예요.",
+  "problem_narration": "다음 문장에서 was가 틀린 이유로, 빈칸에 들어갈 옳은 설명을 고르세요. Where was your friends yesterday? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "was, were: be동사의 과거형 (~이었다, ~에 있었다)",
+    "주어 I 또는 3인칭 단수(he, she, it, the cat) → was",
+    "주어 you 또는 복수(we, they, the cats) → were  (you는 한 명이어도 were)",
+    "Where, Why, How 의문문: 의문사 + was/were + 주어 ~?",
+    "예) Where were your parents last night? (너의 부모님은 어젯밤 어디에 계셨니?)"
+   ],
+   "narration": "was와 were는 지난 일을 말하는 be동사의 과거형이에요. 주어가 I나 he, she, it 같은 3인칭 단수이면 was예요. 주어가 you나 we, they 같은 복수이면 were이고, you는 한 명이어도 were예요. Where, Why, How 의문문에서도 주어는 be동사 바로 뒤에 와요. Where were your parents last night? 너의 부모님은 어젯밤 어디에 계셨니?"
+  },
+  "steps": [
+   {
+    "note": "Where 의문문 → 주어는 be동사 뒤의 your friends. your 혼자는 주어가 아니다.",
+    "highlight": [
+     "your friends"
+    ],
+    "strike": [
+     "① 주어가 2인칭 단수인 your이기 때문에 were로 고쳐야 한다."
+    ],
+    "narration": "첫째, Where로 묻는 문장이라 주어는 be동사 뒤의 your friends이고, your 혼자는 주어가 아니에요."
+   },
+   {
+    "note": "your friends = 3인칭 복수, yesterday = 과거 → were. 현재형 are·is, did는 아니다.",
+    "highlight": [
+     "yesterday"
+    ],
+    "strike": [
+     "③ 과거를 나타내는 yesterday가 있어서 did로 고쳐야 한다.",
+     "④ 장소를 묻는 Where가 문장 맨 앞에 와서 are로 고쳐야 한다.",
+     "⑤ 일반동사가 없는 의문문이므로 is로 고쳐야 한다."
+    ],
+    "narration": "둘째, your friends는 3인칭 복수이고 yesterday가 있으니 과거형 were를 써야 해서, 현재형 are나 is는 맞지 않아요. 일반동사 없이 be동사로 묻는 문장이라 did도 쓰지 않아요."
+   },
+   {
+    "note": "고칠 말 were와 이유가 모두 맞는 것 → ②",
+    "highlight": [
+     "② 주어가 3인칭 복수인 your friends이기 때문에 were로 고쳐야 한다."
+    ],
+    "strike": [],
+    "narration": "셋째, 고칠 말과 이유가 모두 맞는 것은 2번이에요. Where were your friends yesterday? 네 친구들은 어제 어디에 있었니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 주어가 2인칭 단수인 your이기 때문에 were로 고쳐야 한다.  ✗  were는 맞지만 주어는 your가 아니라 your friends",
+    "② 주어가 3인칭 복수인 your friends이기 때문에 were로 고쳐야 한다.  ✓  3인칭 복수 주어의 과거형은 were",
+    "③ 과거를 나타내는 yesterday가 있어서 did로 고쳐야 한다.  ✗  일반동사가 없는 be동사 의문문이라 did를 안 써요",
+    "④ 장소를 묻는 Where가 문장 맨 앞에 와서 are로 고쳐야 한다.  ✗  Where는 be동사 모양을 정하지 않고, 과거라 are도 아님",
+    "⑤ 일반동사가 없는 의문문이므로 is로 고쳐야 한다.  ✗  yesterday가 있어 현재형 is는 안 되고, 주어도 복수"
+   ],
+   "narration": "정답은 2번이에요. 1번도 were로 고치지만, 주어를 your라고 해서 이유가 틀렸어요. 3번은 yesterday가 있다고 did로 고친다고 했지만, 일반동사가 없는 be동사 의문문에는 did를 쓰지 않아요. 4번의 Where는 be동사 모양을 정하지 않고, 과거의 일이라 현재형 are도 맞지 않아요."
+  },
+  "summary": {
+   "card": "be동사 과거형: 주어 I·3인칭 단수 → was, 주어 you·복수 → were",
+   "narration": "정답은 2번이에요. 기억할 것, Where 의문문에서는 be동사 뒤의 주어를 찾고, 주어가 복수이면 과거형은 were예요."
+  },
+  "captions": [
+   "Where 의문문의 be동사 과거형",
+   "먼저 풀어 보세요",
+   "I·3인칭 단수 was, you·복수 were",
+   "주어 your friends → 복수 → were",
+   "정답 ② your friends라서 were",
+   "복수 주어의 과거형은 were"
+  ],
+  "sec": [
+   11,
+   19,
+   31,
+   34,
+   25,
+   12
+  ]
+ },
+ "B": {
+  "title": "Why 의문문의 be동사 과거형",
+  "intro": "이 문제는 Why 의문문에서 be동사 과거형 was가 틀린 이유를 고르는 문제예요.",
+  "problem_narration": "다음 문장에서 was가 틀린 이유로, 빈칸에 들어갈 옳은 설명을 고르세요. Why was the students late for class yesterday? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "was, were: be동사의 과거형 (~이었다, ~에 있었다)",
+    "주어 I 또는 3인칭 단수(he, she, it, the cat) → was",
+    "주어 you 또는 복수(we, they, the cats) → were  (you는 한 명이어도 were)",
+    "Where, Why, How 의문문: 의문사 + was/were + 주어 ~?",
+    "예) Why was Mina sad last night? (미나는 어젯밤 왜 슬펐니?)"
+   ],
+   "narration": "was와 were는 지난 일을 말하는 be동사의 과거형이에요. 주어가 I나 he, she, it 같은 3인칭 단수이면 was예요. 주어가 you나 we, they 같은 복수이면 were이고, you는 한 명이어도 were예요. Where, Why, How 의문문에서도 주어는 be동사 바로 뒤에 와요. Why was Mina sad last night? 미나는 어젯밤 왜 슬펐니?"
+  },
+  "steps": [
+   {
+    "note": "Why 의문문 → 주어는 be동사 뒤의 the students. for 뒤의 class는 주어가 아니다.",
+    "highlight": [
+     "the students"
+    ],
+    "strike": [
+     "② 주어가 3인칭 단수인 class이기 때문에 is로 고쳐야 한다."
+    ],
+    "narration": "첫째, Why로 묻는 문장이라 주어는 be동사 뒤의 the students이고, for 뒤의 class는 주어가 아니에요."
+   },
+   {
+    "note": "the students = 3인칭 복수, yesterday = 과거 → were. 현재형 is 아님. late는 형용사 → be동사 필요, did·do 아님.",
+    "highlight": [
+     "late",
+     "yesterday"
+    ],
+    "strike": [
+     "① 이유를 묻는 Why가 문장 맨 앞에 와서 is로 고쳐야 한다.",
+     "③ late for class가 과거의 일이므로 일반동사 의문문처럼 did로 고쳐야 한다.",
+     "④ 의문문에서는 be동사를 쓸 수 없으므로 do로 고쳐야 한다."
+    ],
+    "narration": "둘째, the students는 3인칭 복수이고 yesterday가 있으니 과거형 were를 써야 해서, 현재형 is는 맞지 않아요. late는 형용사라 이 문장에는 be동사가 꼭 있어야 하니, did나 do로 바꾸지 않아요."
+   },
+   {
+    "note": "고칠 말 were와 이유가 모두 맞는 것 → ⑤",
+    "highlight": [
+     "⑤ 주어 the students가 3인칭 복수이므로 were로 고쳐야 한다."
+    ],
+    "strike": [],
+    "narration": "셋째, 고칠 말과 이유가 모두 맞는 것은 5번이에요. Why were the students late for class yesterday? 학생들은 어제 왜 수업에 늦었니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 이유를 묻는 Why가 문장 맨 앞에 와서 is로 고쳐야 한다.  ✗  Why는 be동사 모양을 정하지 않고, 과거라 is도 아님",
+    "② 주어가 3인칭 단수인 class이기 때문에 is로 고쳐야 한다.  ✗  주어는 class가 아니라 the students",
+    "③ late for class가 과거의 일이므로 일반동사 의문문처럼 did로 고쳐야 한다.  ✗  일반동사가 없는 be동사 의문문이라 did를 안 써요",
+    "④ 의문문에서는 be동사를 쓸 수 없으므로 do로 고쳐야 한다.  ✗  형용사 late 앞에는 be동사가 필요하고, 의문문에도 be동사를 써요",
+    "⑤ 주어 the students가 3인칭 복수이므로 were로 고쳐야 한다.  ✓  3인칭 복수 주어의 과거형은 were"
+   ],
+   "narration": "정답은 5번이에요. 2번은 class를 주어로 봤지만, class는 for 뒤에 붙은 말이고 주어는 the students예요. 3번은 과거의 일이라 did를 쓴다고 했지만, 일반동사가 없는 be동사 의문문에는 did를 쓰지 않아요. 1번의 Why는 be동사 모양을 정하지 않고, 과거의 일이라 현재형 is도 맞지 않아요."
+  },
+  "summary": {
+   "card": "be동사 과거형: 주어 I·3인칭 단수 → was, 주어 you·복수 → were",
+   "narration": "정답은 5번이에요. 기억할 것, Why 의문문에서는 be동사 뒤의 주어를 찾고, 주어가 복수이면 과거형은 were예요."
+  },
+  "captions": [
+   "Why 의문문의 be동사 과거형",
+   "먼저 풀어 보세요",
+   "I·3인칭 단수 was, you·복수 were",
+   "주어 the students → 복수 → were",
+   "정답 ⑤ the students라서 were",
+   "복수 주어의 과거형은 were"
+  ],
+  "sec": [
+   11,
+   20,
+   30,
+   37,
+   26,
+   12
+  ]
+ },
+ "C": {
+  "title": "Why 의문문의 be동사 과거형",
+  "intro": "이 문제는 Why 의문문에서 be동사 과거형 were가 틀린 이유를 고르는 문제예요.",
+  "problem_narration": "다음 문장에서 were가 틀린 이유로, 빈칸에 들어갈 옳은 설명을 고르세요. Why were Tom late yesterday? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "was, were: be동사의 과거형 (~이었다, ~에 있었다)",
+    "주어 I 또는 3인칭 단수(he, she, it, the cat) → was",
+    "주어 you 또는 복수(we, they, the cats) → were  (you는 한 명이어도 were)",
+    "Where, Why, How 의문문: 의문사 + was/were + 주어 ~?",
+    "예) Where were you last Sunday? (너는 지난 일요일에 어디에 있었니?)"
+   ],
+   "narration": "was와 were는 지난 일을 말하는 be동사의 과거형이에요. 주어가 I나 he, she, it 같은 3인칭 단수이면 was예요. 주어가 you나 we, they 같은 복수이면 were이고, you는 한 명이어도 were예요. Where, Why, How 의문문에서도 주어는 be동사 바로 뒤에 와요. Where were you last Sunday? 너는 지난 일요일에 어디에 있었니?"
+  },
+  "steps": [
+   {
+    "note": "Why 의문문 → 주어는 be동사 뒤의 Tom → 한 사람 = 3인칭 단수",
+    "highlight": [
+     "Tom"
+    ],
+    "strike": [],
+    "narration": "첫째, Why로 묻는 문장이라 주어는 be동사 뒤의 Tom이고, Tom은 한 사람이라 3인칭 단수예요."
+   },
+   {
+    "note": "yesterday = 과거 → was. 현재형 is·does, 원형 be는 아니다. be동사 의문문 → Did 아님.",
+    "highlight": [
+     "yesterday"
+    ],
+    "strike": [
+     "② 주어 Tom이 3인칭 단수이므로 현재형 is로 고쳐야 한다.",
+     "③ yesterday가 있는 과거 의문문은 Did로 시작하므로 Did로 고쳐야 한다.",
+     "④ 의문사 Why 뒤에는 조동사 do가 오므로 does로 고쳐야 한다.",
+     "⑤ 형용사 late 앞에는 be동사의 원형을 쓰므로 be로 고쳐야 한다."
+    ],
+    "narration": "둘째, yesterday가 있으니 과거형 was를 써야 해서, 현재형 is와 does, 원형 be는 맞지 않아요. 일반동사 없이 be동사로 묻는 문장이라 Did도 쓰지 않아요."
+   },
+   {
+    "note": "고칠 말 was와 이유가 모두 맞는 것 → ①",
+    "highlight": [
+     "① 주어 Tom이 3인칭 단수이므로 was로 고쳐야 한다."
+    ],
+    "strike": [],
+    "narration": "셋째, 고칠 말과 이유가 모두 맞는 것은 1번이에요. Why was Tom late yesterday? 톰은 어제 왜 늦었니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 주어 Tom이 3인칭 단수이므로 was로 고쳐야 한다.  ✓  3인칭 단수 주어의 과거형은 was",
+    "② 주어 Tom이 3인칭 단수이므로 현재형 is로 고쳐야 한다.  ✗  yesterday가 있어 현재형 is는 안 돼요",
+    "③ yesterday가 있는 과거 의문문은 Did로 시작하므로 Did로 고쳐야 한다.  ✗  일반동사가 없는 be동사 의문문이라 Did를 안 써요",
+    "④ 의문사 Why 뒤에는 조동사 do가 오므로 does로 고쳐야 한다.  ✗  Why 뒤에도 be동사를 쓰고, 과거라 현재형 does도 아님",
+    "⑤ 형용사 late 앞에는 be동사의 원형을 쓰므로 be로 고쳐야 한다.  ✗  이 문장에는 원형 be가 아니라 주어·과거에 맞춘 was"
+   ],
+   "narration": "정답은 1번이에요. 2번은 주어 Tom을 바르게 봤지만, yesterday가 있으니 현재형 is가 아니라 과거형 was를 써야 해요. 3번은 Did로 시작한다고 했지만, 일반동사가 없는 be동사 의문문에는 Did를 쓰지 않아요. 5번의 원형 be도 이 문장에는 맞지 않고, 주어 Tom과 과거에 맞춘 was를 써야 해요."
+  },
+  "summary": {
+   "card": "be동사 과거형: 주어 I·3인칭 단수 → was, 주어 you·복수 → were",
+   "narration": "정답은 1번이에요. 기억할 것, Why 의문문에서는 be동사 뒤의 주어를 찾고, Tom처럼 3인칭 단수이면 과거형은 was예요."
+  },
+  "captions": [
+   "Why 의문문의 be동사 과거형",
+   "먼저 풀어 보세요",
+   "I·3인칭 단수 was, you·복수 were",
+   "주어 Tom → 3인칭 단수 → was",
+   "정답 ① Tom이라서 was",
+   "3인칭 단수 주어의 과거형은 was"
+  ],
+  "sec": [
+   11,
+   19,
+   31,
+   32,
+   27,
+   12
+  ]
+ },
+ "D": {
+  "title": "Where 의문문의 be동사 과거형",
+  "intro": "이 문제는 Where 의문문에서 be동사 과거형 was가 틀린 이유를 고르는 문제예요.",
+  "problem_narration": "다음 문장에서 was가 틀린 이유로, 빈칸에 들어갈 옳은 설명을 고르세요. Where was the boys yesterday? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "was, were: be동사의 과거형 (~이었다, ~에 있었다)",
+    "주어 I 또는 3인칭 단수(he, she, it, the cat) → was",
+    "주어 you 또는 복수(we, they, the cats) → were  (you는 한 명이어도 were)",
+    "Where, Why, How 의문문: 의문사 + was/were + 주어 ~?",
+    "예) Where was your cat last night? (너의 고양이는 어젯밤 어디에 있었니?)"
+   ],
+   "narration": "was와 were는 지난 일을 말하는 be동사의 과거형이에요. 주어가 I나 he, she, it 같은 3인칭 단수이면 was예요. 주어가 you나 we, they 같은 복수이면 were이고, you는 한 명이어도 were예요. Where, Why, How 의문문에서도 주어는 be동사 바로 뒤에 와요. Where was your cat last night? 너의 고양이는 어젯밤 어디에 있었니?"
+  },
+  "steps": [
+   {
+    "note": "Where 의문문 → 주어는 be동사 뒤의 the boys. Where는 주어가 아니다.",
+    "highlight": [
+     "the boys"
+    ],
+    "strike": [
+     "④ 주어가 장소를 나타내는 Where이므로 is로 고쳐야 한다."
+    ],
+    "narration": "첫째, Where로 묻는 문장이라 주어는 be동사 뒤의 the boys이고, Where는 주어가 아니에요."
+   },
+   {
+    "note": "the boys = 복수, yesterday = 과거 → were. 현재형 are, 원형 be는 아니다. be동사 의문문 → did 아님.",
+    "highlight": [
+     "yesterday"
+    ],
+    "strike": [
+     "① Where 의문문에서는 be동사를 쓸 수 없으므로 did로 고쳐야 한다.",
+     "③ the boys가 3인칭 복수이므로 현재형 are로 고쳐야 한다.",
+     "⑤ 주어 the boys가 복수이므로 동사원형 be로 고쳐야 한다."
+    ],
+    "narration": "둘째, the boys는 여러 명인 복수이고 yesterday가 있으니 과거형 were를 써야 해서, 현재형 are나 원형 be는 맞지 않아요. 일반동사 없이 be동사로 묻는 문장이라 did도 쓰지 않아요."
+   },
+   {
+    "note": "고칠 말 were와 이유가 모두 맞는 것 → ②",
+    "highlight": [
+     "② the boys는 여러 명을 나타내는 복수 주어이므로 were로 고쳐야 한다."
+    ],
+    "strike": [],
+    "narration": "셋째, 고칠 말과 이유가 모두 맞는 것은 2번이에요. Where were the boys yesterday? 그 소년들은 어제 어디에 있었니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Where 의문문에서는 be동사를 쓸 수 없으므로 did로 고쳐야 한다.  ✗  Where 뒤에도 be동사를 쓰고, 일반동사가 없어 did를 안 써요",
+    "② the boys는 여러 명을 나타내는 복수 주어이므로 were로 고쳐야 한다.  ✓  복수 주어의 과거형은 were",
+    "③ the boys가 3인칭 복수이므로 현재형 are로 고쳐야 한다.  ✗  yesterday가 있어 현재형 are는 안 돼요",
+    "④ 주어가 장소를 나타내는 Where이므로 is로 고쳐야 한다.  ✗  Where는 주어가 아니고, 주어는 the boys",
+    "⑤ 주어 the boys가 복수이므로 동사원형 be로 고쳐야 한다.  ✗  이 문장에는 원형 be가 아니라 주어·과거에 맞춘 were"
+   ],
+   "narration": "정답은 2번이에요. 3번은 복수 주어를 바르게 봤지만, yesterday가 있으니 현재형 are가 아니라 과거형 were를 써야 해요. 4번은 Where를 주어로 봤지만, Where는 장소를 묻는 말이고 주어는 the boys예요. 1번의 말과 달리 Where 뒤에도 be동사를 쓸 수 있고, 일반동사가 없으니 did로 바꾸지 않아요."
+  },
+  "summary": {
+   "card": "be동사 과거형: 주어 I·3인칭 단수 → was, 주어 you·복수 → were",
+   "narration": "정답은 2번이에요. 기억할 것, Where 의문문에서는 be동사 뒤의 주어를 찾고, the boys처럼 복수이면 과거형은 were예요."
+  },
+  "captions": [
+   "Where 의문문의 be동사 과거형",
+   "먼저 풀어 보세요",
+   "I·3인칭 단수 was, you·복수 were",
+   "주어 the boys → 복수 → were",
+   "정답 ② the boys라서 were",
+   "복수 주어의 과거형은 were"
+  ],
+  "sec": [
+   11,
+   19,
+   31,
+   34,
+   26,
+   12
+  ]
+ },
+ "E": {
+  "title": "How 의문문의 be동사 과거형",
+  "intro": "이 문제는 How 의문문에서 be동사 과거형 were가 틀린 이유를 고르는 문제예요.",
+  "problem_narration": "다음 문장에서 were가 틀린 이유로, 빈칸에 들어갈 옳은 설명을 고르세요. How were Jane yesterday? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "was, were: be동사의 과거형 (~이었다, ~에 있었다)",
+    "주어 I 또는 3인칭 단수(he, she, it, the cat) → was",
+    "주어 you 또는 복수(we, they, the cats) → were  (you는 한 명이어도 were)",
+    "Where, Why, How 의문문: 의문사 + was/were + 주어 ~?",
+    "예) How was your trip last week? (너의 지난주 여행은 어땠니?)"
+   ],
+   "narration": "was와 were는 지난 일을 말하는 be동사의 과거형이에요. 주어가 I나 he, she, it 같은 3인칭 단수이면 was예요. 주어가 you나 we, they 같은 복수이면 were이고, you는 한 명이어도 were예요. Where, Why, How 의문문에서도 주어는 be동사 바로 뒤에 와요. How was your trip last week? 너의 지난주 여행은 어땠니?"
+  },
+  "steps": [
+   {
+    "note": "How 의문문 → 주어는 be동사 뒤의 Jane. yesterday는 때를 나타내는 말이다.",
+    "highlight": [
+     "Jane"
+    ],
+    "strike": [
+     "④ 주어가 yesterday이고 시간은 단수로 보므로 was로 고쳐야 한다."
+    ],
+    "narration": "첫째, How로 묻는 문장이라 주어는 be동사 뒤의 Jane이고, 끝의 yesterday는 때를 나타내는 말이에요."
+   },
+   {
+    "note": "Jane = 3인칭 단수, yesterday = 과거 → was. 현재형 is 아님. be동사 의문문 → did 아님.",
+    "highlight": [
+     "yesterday"
+    ],
+    "strike": [
+     "① 상태를 묻는 How 뒤에는 현재형을 쓰므로 is로 고쳐야 한다.",
+     "② How 의문문은 일반동사 의문문이므로 did로 고쳐야 한다.",
+     "⑤ Jane이 3인칭 단수이므로 현재형 is로 고쳐야 한다."
+    ],
+    "narration": "둘째, Jane은 3인칭 단수이고 yesterday가 있으니 과거형 was를 써야 해서, 현재형 is는 맞지 않아요. 일반동사 없이 be동사로 묻는 문장이라 did도 쓰지 않아요."
+   },
+   {
+    "note": "고칠 말 was와 이유가 모두 맞는 것 → ③",
+    "highlight": [
+     "③ Jane은 3인칭 단수 주어이므로 was로 고쳐야 한다."
+    ],
+    "strike": [],
+    "narration": "셋째, 고칠 말과 이유가 모두 맞는 것은 3번이에요. How was Jane yesterday? 제인은 어제 어땠니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 상태를 묻는 How 뒤에는 현재형을 쓰므로 is로 고쳐야 한다.  ✗  How는 시제를 정하지 않고, yesterday가 있어 과거형을 써요",
+    "② How 의문문은 일반동사 의문문이므로 did로 고쳐야 한다.  ✗  일반동사가 없는 be동사 의문문이라 did를 안 써요",
+    "③ Jane은 3인칭 단수 주어이므로 was로 고쳐야 한다.  ✓  3인칭 단수 주어의 과거형은 was",
+    "④ 주어가 yesterday이고 시간은 단수로 보므로 was로 고쳐야 한다.  ✗  was는 맞지만 주어는 yesterday가 아니라 Jane",
+    "⑤ Jane이 3인칭 단수이므로 현재형 is로 고쳐야 한다.  ✗  yesterday가 있어 현재형 is는 안 돼요"
+   ],
+   "narration": "정답은 3번이에요. 4번도 was로 고치지만, 주어를 yesterday라고 해서 이유가 틀렸어요. 5번은 주어 Jane을 바르게 봤지만, yesterday가 있으니 현재형 is가 아니라 과거형 was를 써야 해요. 1번의 How는 be동사의 모양이나 시제를 정하지 않아요."
+  },
+  "summary": {
+   "card": "be동사 과거형: 주어 I·3인칭 단수 → was, 주어 you·복수 → were",
+   "narration": "정답은 3번이에요. 기억할 것, How 의문문에서는 be동사 뒤의 주어를 찾고, Jane처럼 3인칭 단수이면 과거형은 was예요."
+  },
+  "captions": [
+   "How 의문문의 be동사 과거형",
+   "먼저 풀어 보세요",
+   "I·3인칭 단수 was, you·복수 were",
+   "주어 Jane → 3인칭 단수 → was",
+   "정답 ③ Jane이라서 was",
+   "3인칭 단수 주어의 과거형은 was"
+  ],
+  "sec": [
+   11,
+   19,
+   31,
+   32,
+   22,
+   12
+  ]
+ },
+ "F": {
+  "title": "Why 의문문의 be동사 과거형",
+  "intro": "이 문제는 Why 의문문에서 be동사 과거형 was가 틀린 이유를 고르는 문제예요.",
+  "problem_narration": "다음 문장에서 was가 틀린 이유로, 빈칸에 들어갈 옳은 설명을 고르세요. Why was they tired yesterday? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "was, were: be동사의 과거형 (~이었다, ~에 있었다)",
+    "주어 I 또는 3인칭 단수(he, she, it, the cat) → was",
+    "주어 you 또는 복수(we, they, the cats) → were  (you는 한 명이어도 were)",
+    "Where, Why, How 의문문: 의문사 + was/were + 주어 ~?",
+    "예) Why were you sad last night? (너는 어젯밤 왜 슬펐니?)"
+   ],
+   "narration": "was와 were는 지난 일을 말하는 be동사의 과거형이에요. 주어가 I나 he, she, it 같은 3인칭 단수이면 was예요. 주어가 you나 we, they 같은 복수이면 were이고, you는 한 명이어도 were예요. Where, Why, How 의문문에서도 주어는 be동사 바로 뒤에 와요. Why were you sad last night? 너는 어젯밤 왜 슬펐니?"
+  },
+  "steps": [
+   {
+    "note": "Why 의문문 → 주어는 be동사 뒤의 they → 2인칭이 아닌 3인칭 복수(한 무리를 가리켜도 복수)",
+    "highlight": [
+     "they"
+    ],
+    "strike": [
+     "③ they가 한 무리를 가리키는 단수이므로 is로 고쳐야 한다.",
+     "⑤ they는 2인칭 복수이므로 are로 고쳐야 한다."
+    ],
+    "narration": "첫째, Why로 묻는 문장이라 주어는 be동사 뒤의 they이고, they는 2인칭이 아니라 3인칭 복수예요."
+   },
+   {
+    "note": "yesterday = 과거 → were. Why는 be동사 모양을 정하지 않는다. tired는 형용사 → did 아님.",
+    "highlight": [
+     "tired",
+     "yesterday"
+    ],
+    "strike": [
+     "① tired가 -ed로 끝나 과거를 나타내므로 was를 did로 고쳐야 한다.",
+     "② 이유를 묻는 Why 뒤에는 are를 쓰므로 are로 고쳐야 한다."
+    ],
+    "narration": "둘째, yesterday가 있으니 과거형 were를 써야 하고, 현재형 are는 맞지 않아요. tired는 상태를 나타내는 형용사라, did로 바꾸지도 않아요."
+   },
+   {
+    "note": "고칠 말 were와 이유가 모두 맞는 것 → ④",
+    "highlight": [
+     "④ they는 3인칭 복수 대명사이므로 were로 고쳐야 한다."
+    ],
+    "strike": [],
+    "narration": "셋째, 고칠 말과 이유가 모두 맞는 것은 4번이에요. Why were they tired yesterday? 그들은 어제 왜 피곤했니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① tired가 -ed로 끝나 과거를 나타내므로 was를 did로 고쳐야 한다.  ✗  tired는 상태를 나타내는 형용사, be동사 의문문이라 did를 안 써요",
+    "② 이유를 묻는 Why 뒤에는 are를 쓰므로 are로 고쳐야 한다.  ✗  Why는 be동사 모양을 정하지 않고, 과거라 are도 아님",
+    "③ they가 한 무리를 가리키는 단수이므로 is로 고쳐야 한다.  ✗  they는 복수이고, 과거라 현재형 is도 아님",
+    "④ they는 3인칭 복수 대명사이므로 were로 고쳐야 한다.  ✓  3인칭 복수 주어의 과거형은 were",
+    "⑤ they는 2인칭 복수이므로 are로 고쳐야 한다.  ✗  they는 3인칭이고, 과거라 are가 아니라 were"
+   ],
+   "narration": "정답은 4번이에요. 1번은 tired가 ed로 끝나 과거라고 했지만, tired는 '피곤한'이라는 뜻의 형용사예요. 일반동사가 없는 be동사 의문문이라 did를 쓰지 않아요. 5번은 they를 2인칭이라고 했지만, they는 3인칭이고 과거의 일이라 현재형 are도 맞지 않아요. 3번처럼 they가 한 무리를 가리킨다고 단수로 보지 않아요."
+  },
+  "summary": {
+   "card": "be동사 과거형: 주어 I·3인칭 단수 → was, 주어 you·복수 → were",
+   "narration": "정답은 4번이에요. 기억할 것, Why 의문문에서는 be동사 뒤의 주어를 찾고, they처럼 복수이면 과거형은 were예요."
+  },
+  "captions": [
+   "Why 의문문의 be동사 과거형",
+   "먼저 풀어 보세요",
+   "I·3인칭 단수 was, you·복수 were",
+   "주어 they → 3인칭 복수 → were",
+   "정답 ④ they라서 were",
+   "복수 주어의 과거형은 were"
+  ],
+  "sec": [
+   11,
+   19,
+   30,
+   31,
+   29,
+   12
+  ]
+ }
+}

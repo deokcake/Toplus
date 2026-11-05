@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T12:45:50.685Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 앞에 나온 사람·사물을 대명사로 받을 때는 수(단수·복수)와 성(남·여)을 맞추고, 동사 뒤 목적어 자리에는 목적격(me, you, him, her, it, us, them)을 쓴다.\n풀이 순서: ① 빈칸이 가리키는 말을 앞에서 찾는다: A가 말한 me. B의 처지에서는 상대방이다. → ② 빈칸은 동사 뒤 목적어 자리이므로 목적격을 쓴다: you. → ③ 정답은 you.\n문장별 판정:\n정답 판단: A가 자신을 가리킨 me는 대답하는 B의 처지에서 상대방이므로, 동사 help 뒤 목적어 자리에 you를 쓴다. 정답은 ④이다.\n선택지 분석:\n① [오답] him은 다른 남자를 가리켜 A를 받을 수 없으므로 오답이다.\n② [오답] her는 다른 여자를 가리켜 A를 받을 수 없으므로 오답이다.\n③ [오답] me는 대답하는 B 자신을 가리켜, B가 A를 도와준다는 뜻이 되지 않으므로 오답이다.\n④ [정답] A가 말한 me는 B의 처지에서 상대방이므로 목적격 you가 들어가 정답이다.\n⑤ [오답] them은 여러 사람을 가리켜 A 한 사람을 받을 수 없으므로 오답이다.",
+    "passage": "A: Can you help me with my math homework after school?\nB: Sure, I can help ________ in the library.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T12:45:41.295Z"
+  },
+  "tab": "ocdtwd0p",
+  "updatedAt": "2026-10-27T12:45:50.685Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T12:45:50.685Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T08:13:02.158Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": 3,
+    "c": {
+      "0": "be",
+      "1": "am",
+      "2": "is",
+      "3": "aren't",
+      "4": "are"
+    },
+    "expl": "핵심 규칙: 현재형 be동사: I am / you, we, they are / he, she, it is. be는 원형이라 그대로 쓸 수 없다.\n풀이 순서: ① 주어를 본다: Tom(3인칭 단수). → ② 그 주어에 맞는 현재형 be동사는 is. → ③ 원형 be와 주어에 맞지 않는 형태(부정형 포함)를 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: 주어 Tom에 맞는 be동사이므로 정답은 ③이다.\n선택지 분석:\n① [오답] be는 동사원형이라 주어 뒤에 그대로 쓸 수 없으므로 오답이다.\n② [오답] am은 주어 I에만 쓰므로 오답이다.\n③ [정답] 주어 Tom에 맞는 be동사이므로 정답이다.\n④ [오답] aren't는 are의 부정형이라 주어 Tom에 맞지 않으므로 오답이다.\n⑤ [오답] are는 you·복수 주어에 쓰므로 오답이다.",
+    "passage": "Tom _______ in his room now.",
+    "stem": "다음 빈칸에 들어갈 알맞은 단어를 고르세요."
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T05:37:18.463Z",
+      "text": "해당유닛에서는 아직 be동사의 과거형을 배우지 않은 단계이기 때문에 원문의 보기도 과거형을 없애고 다른보기로 만들어 "
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T08:13:02.158Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T08:13:01.165Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T05:37:18.463Z",
+      "what": "메모 작성"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T08:13:02.158Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+ "key": "7-56",
+ "grade": 7,
+ "chapter": "CH 6 일반동사",
+ "title": "I·you·we·they 뒤의 일반동사 원형",
+ "total_sec": 110,
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 5,
+   "screen": {
+    "text": "7급 · CH 6 일반동사 · 56번\n오늘의 규칙: 주어가 I, you, we, they나 복수면 일반동사는 원형 그대로",
+    "highlight": [
+     "원형 그대로"
+    ],
+    "marks": {}
+   },
+   "narration": "7급 챕터 6, 번호 56. 오늘은 We 뒤에 쓰는 일반동사 원형을 봅니다.",
+   "caption": "We 뒤에는 동사원형"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 12,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.\n\nWe _______ to the bus.\n\n① runs\n② running\n③ to run\n④ is run\n⑤ run",
+    "highlight": [],
+    "marks": {}
+   },
+   "narration": "다음 빈칸에 들어갈 알맞은 단어를 고르세요. 문장은 We, 빈칸, to the bus예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋습니다.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 18,
+   "screen": {
+    "text": "핵심 규칙\n주어가 I, you, we, they나 복수면 일반동사를 원형 그대로 쓴다.\nbe동사 + 일반동사 원형 ✗\n-ing형만 ✗ / to + 동사만 ✗\n\n예: They play soccer.",
+    "highlight": [
+     "원형 그대로",
+     "play"
+    ],
+    "marks": {}
+   },
+   "narration": "주어가 I, you, we, they나 복수면 일반동사는 원형 그대로 써요. be동사와 일반동사 원형은 함께 쓰지 않아요. ing형이나 to 뒤에 동사가 오는 꼴만으로는 동사 자리를 채울 수 없어요. 예를 들어 They play soccer, 그들은 축구를 해요.",
+   "caption": "I·you·we·they·복수 → 원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.\n\nWe _______ to the bus.\n\n① runs\n② running\n③ to run\n④ is run\n⑤ run",
+    "highlight": [
+     "We",
+     "_______",
+     "running",
+     "to run",
+     "is run",
+     "runs",
+     "run"
+    ],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "We",
+       "_______"
+      ],
+      "strike": [
+       "running",
+       "to run",
+       "is run"
+      ],
+      "note": "주어 We 바로 뒤 = 동사 자리. -ing형·to+동사·is+동사 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "We"
+      ],
+      "strike": [
+       "runs"
+      ],
+      "note": "We는 3인칭 단수가 아님 → -s형 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "run"
+      ],
+      "strike": [],
+      "note": "남는 것은 run → We run to the bus."
+     }
+    ]
+   },
+   "narration": "첫째, 빈칸은 주어 We 바로 뒤의 동사 자리예요. 그래서 ing형인 2번, to 동사인 3번, is 동사인 4번을 지워요. 둘째, We는 3인칭 단수가 아니니까 s가 붙은 1번 runs도 지워요. 셋째, 남는 것은 5번 run, We run to the bus, 우리는 버스로 달려가요.",
+   "caption": "동사 자리 → 3인칭 단수 아님 → run"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 22,
+   "screen": {
+    "text": "① runs ✗  3인칭 단수 주어용 → run\n② running ✗  -ing형만으로는 동사 자리 ✗ → run\n③ to run ✗  to + 동사만으로는 동사 자리 ✗ → run\n④ is run ✗  be동사 + 원형 ✗, We와 is도 불일치 → run\n⑤ run ✓",
+    "highlight": [
+     "runs",
+     "is run",
+     "running"
+    ],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    }
+   },
+   "narration": "5번 run이 정답이에요. 1번 runs는 3인칭 단수 주어에 쓰는 꼴이라 We와 맞지 않아요. 4번 is run은 be동사와 일반동사 원형을 함께 쓸 수 없고, We와 is도 맞지 않아요. 2번 running은 ing형만으로는 동사 자리를 채울 수 없어요.",
+   "caption": "runs·is run·running 왜 틀렸나"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 9,
+   "screen": {
+    "text": "정답 ⑤ run\n주어가 I, you, we, they나 복수면 일반동사는 원형 그대로",
+    "highlight": [
+     "⑤",
+     "run"
+    ],
+    "marks": {}
+   },
+   "narration": "정답은 5번. 기억할 것: We 같은 주어 뒤에는 일반동사를 원형 그대로 써요.",
+   "caption": "정답 ⑤ run"
+  },
+  {
+   "no": 7,
+   "name": "같은 원리 문제",
+   "sec": 12,
+   "screen": {
+    "text": "B. I _______ books.\n① is read ② reads ③ read ④ reading ⑤ to read → 정답 ③ read\n\nC. They _______ soccer.\n① plays ② playing ③ to play ④ play ⑤ is play → 정답 ④ play",
+    "highlight": [
+     "I",
+     "They",
+     "read",
+     "play"
+    ],
+    "marks": {}
+   },
+   "narration": "같은 규칙으로 이 문제도 풀어 보세요. 주어가 I나 They면 동사는 원형 그대로예요. 정답은 각각 3번 read, 4번 play예요.",
+   "caption": "같은 규칙으로 풀어 보기"
+  }
+ ],
+ "related": [
+  {
+   "type": "B",
+   "stem": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.",
+   "passage": "I _______ books.",
+   "c": [
+    "is read",
+    "reads",
+    "read",
+    "reading",
+    "to read"
+   ],
+   "ans": 3
+  },
+  {
+   "type": "C",
+   "stem": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.",
+   "passage": "They _______ soccer.",
+   "c": [
+    "plays",
+    "playing",
+    "to play",
+    "play",
+    "is play"
+   ],
+   "ans": 4
+  }
+ ]
+}

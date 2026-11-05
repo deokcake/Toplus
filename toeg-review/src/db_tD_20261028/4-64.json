@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T07:27:15.574Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "There are only a few cookies left in the jar.",
+      "1": "I have little money in my wallet now.",
+      "2": "She has much friends at her new school.",
+      "3": "They need a lot of help with the move.",
+      "4": "He drank a little green tea after dinner."
+    },
+    "expl": "핵심 규칙: few·a few·many는 셀 수 있는 명사의 복수형, little·a little·much는 셀 수 없는 명사와 쓴다. a lot of·lots of는 둘 다에 쓴다.\n풀이 순서: ① 문장마다 수량 표현 뒤의 명사가 셀 수 있는지 본다. → ② 셀 수 있으면 (a) few·many, 셀 수 없으면 (a) little·much가 맞다. → ③ 선택지 ③의 friends는 셀 수 있다. much가 아니라 many다. 정답은 ③.\n문장별 판정:\n정답 판단: 셀 수 있는 friends에는 much가 아니라 many를 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 셀 수 있는 cookies(복수)에 a few를 바르게 썼으므로 오답이다.\n② [오답] 셀 수 없는 money에 little을 바르게 썼으므로 오답이다.\n③ [정답] 셀 수 있는 friends에는 much가 아니라 many를 써야 하므로 정답이다.\n④ [오답] a lot of는 셀 수 없는 help에도 쓰므로 오답이다.\n⑤ [오답] 셀 수 없는 tea에 a little을 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:27:11.003Z"
+  },
+  "tab": "el3qe2ii",
+  "updatedAt": "2026-10-27T07:27:15.574Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:27:15.574Z",
+      "what": "확인 완료"
+    }
+  }
+}

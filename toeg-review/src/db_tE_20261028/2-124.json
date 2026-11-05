@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-24T01:28:42.345Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "I had a pet dog",
+      "1": "you had a dog",
+      "2": "my mom allows it",
+      "3": "my apartment were bigger",
+      "4": "we lived in a house"
+    },
+    "expl": "핵심 규칙: 현재 사실과 반대되는 조건·소망은 과거형(be동사는 were), 과거 사실과 반대되는 조건·후회는 had + 과거분사로 나타낸다. I wish, If only 뒤에는 will·can 같은 현재형 조동사를 쓰지 않는다.\n풀이 순서: ① 밑줄마다 I wish, If only, If 뒤의 동사 형태를 본다. 현재 사실의 반대는 과거형(were, could), 과거 사실의 반대는 had + 과거분사다. → ② 이 자리에 현재형이나 will, can이 있으면 틀린 것이다. if절은 주절의 형태와도 짝이 맞아야 한다. → ③ 선택지 ③이 틀렸다: 주절이 would get인데 if절에 allows를 썼다. allowed가 맞다.\n문장별 판정:\n정답 판단: 주절이 would get인 가정법 과거이므로 if절에는 allowed를 써야 한다.\n선택지 분석:\n① [오답] I wish 뒤 현재 사실 반대의 소망에 과거형 had를 바르게 썼으므로 오답이다.\n② [오답] 현재 사실과 반대되는 조건에 과거형 had를 바르게 썼으므로 오답이다.\n③ [정답] 주절이 would get인 가정법 과거이고, if절에는 allowed를 써야 하므로 정답이다.\n④ [오답] I wish 뒤 현재 사실 반대의 소망에 were를 바르게 썼으므로 오답이다.\n⑤ [오답] If only 뒤 현재 사실 반대의 소망에 과거형 lived를 바르게 썼으므로 오답이다.",
+    "passage": "Sora: I wish ①<u>I had a pet dog</u>. All my friends have one, and they always talk about their dogs.\nMin: If ②<u>you had a dog</u>, you would have to walk it every single day, even in the cold winter.\nSora: I know that. I wouldn't mind at all. If ③<u>my mom allows it</u>, I would get one right away.\nMin: I understand. I wish ④<u>my apartment were bigger</u>, too. Then I could keep a big dog myself.\nSora: If only ⑤<u>we lived in a house</u> with a big yard and a garden!",
+    "stem": "다음 대화에서 사용된 가정법 표현 중 어법상 옳지 않은 것을 고르시오."
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-24T01:28:42.345Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:28:42.345Z",
+      "what": "확인 완료"
+    }
+  }
+}

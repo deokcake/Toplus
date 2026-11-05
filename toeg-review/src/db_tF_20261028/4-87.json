@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-28T03:04:59.894Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "during - while",
+      "1": "while - during",
+      "2": null,
+      "3": "while - for",
+      "4": "during - for"
+    },
+    "expl": "핵심 규칙: for는 기간의 길이(an hour, two hours), during은 특정한 때(the lesson, the movie, the test) 앞에 쓰고, while은 뒤에 주어 + 동사가 오는 절을 이끈다.\n풀이 순서: ① 빈칸 뒤의 말을 본다. 숫자가 든 기간의 길이면 for, 특정한 때를 나타내는 명사면 during, 주어 + 동사면 while이다. → ② I was sleeping은 주어 + 동사이므로 while, the test는 명사이므로 during이다. → ③ 정답은 while - during.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 첫째 빈칸 during: while은 주어 + 동사가 있는 절 앞에 쓴다(→ while), 둘째 빈칸 while: during은 특정한 때를 나타내는 명사 앞에 쓴다(→ during). 따라서 오답이다.\n② [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n③ [오답] 첫째 빈칸 for: while은 주어 + 동사가 있는 절 앞에 쓴다(→ while). 따라서 오답이다.\n④ [오답] 둘째 빈칸 for: during은 특정한 때를 나타내는 명사 앞에 쓴다(→ during). 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 during: while은 주어 + 동사가 있는 절 앞에 쓴다(→ while), 둘째 빈칸 for: during은 특정한 때를 나타내는 명사 앞에 쓴다(→ during). 따라서 오답이다.",
+    "passage": "My phone rang ________ I was sleeping on the sofa.\nNobody in our class talked ________ the test.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-28T03:04:54.040Z"
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T03:04:59.894Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:04:59.894Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+ "key": "5-5",
+ "type": "A",
+ "grade": 5,
+ "chapter": "CH 1 대명사",
+ "title": "자리에 맞는 대명사: 소유대명사 ours",
+ "total_sec": 126,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 1 대명사 · 5번\n\n이 문제는 주격, 목적격, 소유격, 소유대명사가 자리에 맞게 쓰인 옳은 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 1 대명사 · 5번",
+     "이 문제는 주격, 목적격, 소유격, 소유대명사가 자리에 맞게 쓰인 옳은 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 1, 5번. 이 문제는 주격, 목적격, 소유격, 소유대명사가 자리에 맞게 쓰인 옳은 문장을 고르는 문제예요.",
+   "caption": "자리에 맞는 대명사 형태"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 옳은 문장을 고르시오.\n\n① I like them songs.\n② It's fur is soft.\n③ Tom is mine friend.\n④ Us like we’s school.\n⑤ The computer is not ours.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 옳은 문장을 고르시오.",
+     "① I like them songs.",
+     "② It's fur is soft.",
+     "③ Tom is mine friend.",
+     "④ Us like we’s school.",
+     "⑤ The computer is not ours."
+    ]
+   },
+   "narration": "다음 중 옳은 문장을 고르세요. 다섯 문장에서 대명사가 어느 자리에 쓰였는지 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n주어 자리 → 주격 (I, he, we, they) · 목적어 자리 → 목적격 (me, him, us, them)\n명사 앞에서 ‘누구의’ → 소유격 (my, your, his, her, its, our, their)\n명사 없이 ‘누구의 것’ → 소유대명사 (mine, yours, his, hers, ours, theirs)\n이 소유격·소유대명사에는 's를 붙이지 않아요 (it's는 it is의 줄임말)\n예) My bag is red, but yours is blue. (내 가방은 빨간색이고, 네 것은 파란색이에요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "주어 자리 → 주격 (I, he, we, they) · 목적어 자리 → 목적격 (me, him, us, them)",
+     "명사 앞에서 ‘누구의’ → 소유격 (my, your, his, her, its, our, their)",
+     "명사 없이 ‘누구의 것’ → 소유대명사 (mine, yours, his, hers, ours, theirs)",
+     "이 소유격·소유대명사에는 's를 붙이지 않아요 (it's는 it is의 줄임말)",
+     "예) My bag is red, but yours is blue. (내 가방은 빨간색이고, 네 것은 파란색이에요.)"
+    ]
+   },
+   "narration": "인칭대명사는 자리에 따라 모양이 달라서, 주어 자리에는 I, we 같은 주격을, 목적어 자리에는 me, us 같은 목적격을 써요. 명사 앞에서 누구의 것인지 나타낼 때는 my, our 같은 소유격을, 명사 없이 누구의 것이라고 말할 때는 mine, ours 같은 소유대명사를 써요. 이 소유격과 소유대명사에는 아포스트로피 에스를 붙이지 않고, 아포스트로피가 있는 it's는 it is를 줄인 말이에요. 예를 들어 My bag is red, but yours is blue. 내 가방은 빨간색이고, 네 것은 파란색이에요.",
+   "caption": "자리에 따라 바뀌는 대명사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 옳은 문장을 고르시오.\n\n① I like them songs.\n② It's fur is soft.\n③ Tom is mine friend.\n④ Us like we’s school.\n⑤ The computer is not ours.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Us",
+       "we’s school"
+      ],
+      "strike": [
+       "④ Us like we’s school."
+      ],
+      "note": "주어 자리 → 주격: ④ Us → We, 명사 school 앞 we’s → our"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "them songs",
+       "It's fur",
+       "mine friend"
+      ],
+      "strike": [
+       "① I like them songs.",
+       "② It's fur is soft.",
+       "③ Tom is mine friend."
+      ],
+      "note": "명사 앞 ‘누구의’ → 소유격: songs 앞 their, fur 앞 Its, friend 앞 my"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ The computer is not ours."
+      ],
+      "strike": [],
+      "note": "명사 없이 ‘우리의 것’ → 소유대명사 ours → ⑤"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 4번은 주어 자리에 주격 We 대신 목적격 Us를 썼고, school 앞에도 소유격 our를 쓰지 않아서 틀렸어요. 둘째, 명사 앞에서 누구의 것인지 나타낼 때는 소유격을 써요. songs 앞은 their, fur 앞은 아포스트로피 없는 Its, friend 앞은 my여야 하니 1번, 2번, 3번은 틀렸어요. 셋째, 5번 ours는 명사 없이 우리의 것이라는 뜻의 소유대명사라서 맞아요. The computer is not ours. 그 컴퓨터는 우리 것이 아니에요.",
+   "caption": "주어 자리 → 명사 앞 → ours"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① I like them songs.  ✗  ‘그들의’ 노래 → 목적격 them이 아니라 소유격 their\n② It's fur is soft.  ✗  It's는 It is의 줄임말, ‘그것의’는 Its\n③ Tom is mine friend.  ✗  명사 friend 앞에는 mine이 아니라 소유격 my\n④ Us like we’s school.  ✗  주어 자리는 주격 We, 명사 school 앞은 소유격 our\n⑤ The computer is not ours.  ✓  명사 없이 ‘우리의 것’ → 소유대명사 ours",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① I like them songs.  ✗  ‘그들의’ 노래 → 목적격 them이 아니라 소유격 their",
+     "② It's fur is soft.  ✗  It's는 It is의 줄임말, ‘그것의’는 Its",
+     "③ Tom is mine friend.  ✗  명사 friend 앞에는 mine이 아니라 소유격 my",
+     "④ Us like we’s school.  ✗  주어 자리는 주격 We, 명사 school 앞은 소유격 our",
+     "⑤ The computer is not ours.  ✓  명사 없이 ‘우리의 것’ → 소유대명사 ours"
+    ]
+   },
+   "narration": "정답은 5번이에요. 명사 없이 우리의 것이라는 뜻이라 소유대명사 ours가 맞아요. 3번 mine은 나의 것이라는 소유대명사라서 명사 friend 앞에는 소유격 my를 써야 해요. 2번은 아포스트로피가 있는 It's를 썼는데, It's는 It is를 줄인 말이라서 fur 앞의 그것의는 아포스트로피 없는 Its로 써요. 1번은 그들의 노래라는 뜻이니 목적격 them이 아니라 소유격 their를 써야 해요.",
+   "caption": "정답 ⑤ ours"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ⑤ The computer is not ours.\n\n명사 앞 ‘누구의’ → 소유격(our) · 명사 없이 ‘누구의 것’ → 소유대명사(ours)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ The computer is not ours.",
+     "명사 앞 ‘누구의’ → 소유격(our) · 명사 없이 ‘누구의 것’ → 소유대명사(ours)"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 명사 앞에서 누구의 것인지 나타낼 때는 our 같은 소유격을, 명사 없이 누구의 것이라고 말할 때는 ours 같은 소유대명사를 써요.",
+   "caption": "소유격 our · 소유대명사 ours"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "I like them songs.",
+   "It's fur is soft.",
+   "Tom is mine friend.",
+   "Us like we’s school.",
+   "The computer is not ours."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 주어 자리에는 주격, 명사 앞에는 소유격(my, its, our), 명사 없이 ‘~의 것’은 소유대명사(mine, ours)를 쓴다. It's는 It is의 줄임말이다.\n풀이 순서: ① 대명사마다 자리를 본다: 주어 자리, 명사 앞, 명사 없이 ‘~의 것’. → ② 주어 자리는 주격, 명사 앞은 소유격, 명사가 없으면 소유대명사다. → ③ 선택지 ⑤만 명사 없이 ours를 써서 맞다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 명사 없이 ‘우리의 것’이라는 소유대명사 ours를 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 명사 songs 앞에 목적격 them을 쓸 수 없으므로 오답이다.\n② [오답] ‘그것의’는 It's가 아니라 Its이므로 오답이다.\n③ [오답] 명사 friend 앞에는 mine이 아니라 my를 쓰므로 오답이다.\n④ [오답] 주어는 We, 소유격은 our를 써야 하므로 오답이다.\n⑤ [정답] 명사 없이 ‘우리의 것’이라는 소유대명사 ours를 바르게 썼으므로 정답이다."
+ }
+}

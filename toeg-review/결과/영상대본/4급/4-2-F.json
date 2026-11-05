@@ -1,0 +1,181 @@
+{
+ "key": "4-2",
+ "type": "F",
+ "grade": 4,
+ "chapter": "CH 1 명사와 관사",
+ "title": "셀 수 있는 명사와 셀 수 없는 명사",
+ "total_sec": 130,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "4급 · CH 1 명사와 관사 · 2번 · F 유형\n\n이 문제는 다섯 개의 명사 가운데 셀 수 있는 명사를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 1 명사와 관사 · 2번 · F 유형",
+     "이 문제는 다섯 개의 명사 가운데 셀 수 있는 명사를 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 1, 2번 F 유형. 이 문제는 다섯 개의 명사 가운데 셀 수 있는 명사를 고르는 문제예요.",
+   "caption": "셀 수 있는 명사 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 셀 수 있는 명사를 고르시오.\n\n① teacher\n② homework\n③ rice\n④ water\n⑤ milk",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 셀 수 있는 명사를 고르시오.",
+     "① teacher",
+     "② homework",
+     "③ rice",
+     "④ water",
+     "⑤ milk"
+    ]
+   },
+   "narration": "다음 중 셀 수 있는 명사를 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n사람·동물·물건처럼 하나씩 셀 수 있는 명사 → 하나일 때 a/an, 둘 이상이면 복수형 (a friend, two friends)\n셀 수 없는 명사 → a/an을 붙이지 않고, 복수형도 쓰지 않아요\n물질(salt)이나 추상적인 것(peace)처럼 덩어리나 전체로 말하는 명사 → 보통 셀 수 없어요\n예) Tom has two friends. He loves peace. (Tom은 친구가 두 명 있어요. 그는 평화를 사랑해요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "사람·동물·물건처럼 하나씩 셀 수 있는 명사 → 하나일 때 a/an, 둘 이상이면 복수형 (a friend, two friends)",
+     "셀 수 없는 명사 → a/an을 붙이지 않고, 복수형도 쓰지 않아요",
+     "물질(salt)이나 추상적인 것(peace)처럼 덩어리나 전체로 말하는 명사 → 보통 셀 수 없어요",
+     "예) Tom has two friends. He loves peace. (Tom은 친구가 두 명 있어요. 그는 평화를 사랑해요.)"
+    ]
+   },
+   "narration": "사람, 동물, 물건처럼 하나씩 셀 수 있는 명사는 하나일 때 a나 an을 붙일 수 있고, 둘 이상이면 복수형을 써요. salt 소금 같은 물질이나 peace 평화 같은 추상적인 것처럼 덩어리나 전체로 말하는 명사는 보통 셀 수 없어서 a나 an도 복수형도 쓰지 않아요. 예를 들어 Tom has two friends, Tom은 친구가 두 명 있어요. He loves peace, 그는 평화를 사랑해요.",
+   "caption": "셀 수 있는 명사, 셀 수 없는 명사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 중 셀 수 있는 명사를 고르시오.\n\n① teacher\n② homework\n③ rice\n④ water\n⑤ milk",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "셀 수 있는 명사"
+      ],
+      "strike": [],
+      "note": "‘셀 수 있는 명사’를 고른다 → 보기마다 a/an을 붙이거나 복수형으로 쓸 수 있는지 본다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "③ rice",
+       "④ water",
+       "⑤ milk"
+      ],
+      "note": "rice(쌀·밥), water(물), milk(우유) = 물질 → 양으로 말하고 하나, 둘 세지 않는다 → 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [],
+      "strike": [
+       "② homework"
+      ],
+      "note": "homework = 숙제 전체 → 우리말과 달리 셀 수 없다 → 지운다."
+     },
+     {
+      "step": 4,
+      "highlight": [
+       "① teacher"
+      ],
+      "strike": [],
+      "note": "남은 teacher(선생님) → a teacher, two teachers → 셀 수 있다."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 셀 수 있는 명사를 고르는 문제니까, 보기마다 a나 an을 붙이거나 복수형으로 쓸 수 있는지 따져 봐요. 둘째, rice 쌀, water 물, milk 우유는 모두 물질이라 양으로 말하고, 하나, 둘 세지 않아요. 셋째, homework는 우리말로는 숙제 두 개처럼 세지만, 영어에서는 숙제 전체를 말하는 명사라 셀 수 없어요. 넷째, 남은 teacher는 선생님이라서 a teacher, two teachers처럼 한 명, 두 명 셀 수 있어요.",
+   "caption": "물질·homework 지우기 → teacher"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① teacher  ✓  a teacher, two teachers처럼 셀 수 있어요\n② homework  ✗  숙제 전체를 말해요, 셀 수 없어요\n③ rice  ✗  쌀·밥이라는 물질, 셀 수 없어요\n④ water  ✗  물이라는 물질, 셀 수 없어요\n⑤ milk  ✗  우유라는 물질, 셀 수 없어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✓",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① teacher  ✓  a teacher, two teachers처럼 셀 수 있어요",
+     "② homework  ✗  숙제 전체를 말해요, 셀 수 없어요",
+     "③ rice  ✗  쌀·밥이라는 물질, 셀 수 없어요",
+     "④ water  ✗  물이라는 물질, 셀 수 없어요",
+     "⑤ milk  ✗  우유라는 물질, 셀 수 없어요"
+    ]
+   },
+   "narration": "정답은 1번 teacher예요. teacher는 사람이라 a teacher, two teachers처럼 한 명, 두 명 셀 수 있어요. 2번 homework는 우리말로는 숙제 두 개처럼 세지만, 영어에서는 숙제 전체를 말하는 셀 수 없는 명사예요. 3번 rice는 쌀이나 밥이라는 물질이라 하나, 둘 세지 않아요. 5번 milk도 우유라는 물질이라 셀 수 없어요.",
+   "caption": "정답 ① teacher"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ① teacher\n\n하나씩 셀 수 있는 명사 → a/an, 복수형을 써요 (a teacher, two teachers)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ① teacher",
+     "하나씩 셀 수 있는 명사 → a/an, 복수형을 써요 (a teacher, two teachers)"
+    ]
+   },
+   "narration": "정답은 1번이에요. 기억할 것, 하나씩 셀 수 있는 명사는 a나 an을 붙이거나 복수형으로 쓸 수 있어요.",
+   "caption": "하나씩 셀 수 있으면 a/an·복수형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+  "passage": "",
+  "c": [
+   "teacher",
+   "homework",
+   "rice",
+   "water",
+   "milk"
+  ],
+  "ans": 1,
+  "expl": "핵심 규칙: 사람·동물·물건을 하나씩 세는 기본 뜻은 가산 명사이다. 물질·추상 개념·활동을 덩어리나 전체로 말하는 아래 뜻은 불가산으로 취급한다.\n풀이 순서: ① 낱말마다 a/an을 붙이거나 복수형(-s)으로 쓸 수 있는지 따져 본다. → ② 하나, 둘로 세지 않고 양으로 다루는 명사를 지운다: homework, rice, water, milk. → ③ 하나씩 셀 수 있는 것은 teacher뿐이다.\n문장별 판정:\n정답 판단: teacher는 각 교사를 하나씩 셀 수 있는 가산 명사이다. 따라서 정답은 ①이다.\n선택지 분석:\n① [정답] teacher는 각 교사를 하나씩 셀 수 있는 가산 명사이다.\n② [오답] homework는 숙제라는 과제의 전체를 가리키는 기본적으로 불가산으로 취급한다.\n③ [오답] rice는 쌀이라는 곡물의 양을 가리키는 기본적으로 불가산으로 취급한다.\n④ [오답] water는 물이라는 물질을 가리키는 기본적으로 불가산으로 취급한다.\n⑤ [오답] milk는 우유라는 물질을 가리키는 기본적으로 불가산으로 취급한다."
+ }
+}

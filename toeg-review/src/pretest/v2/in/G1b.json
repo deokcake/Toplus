@@ -1,0 +1,615 @@
+[
+ {
+  "key": "1-78",
+  "grade": 1,
+  "no": 78,
+  "chapter": "CH 8",
+  "chapter_name": "비교",
+  "ref": {
+   "stem": "다음 중 문장의 전환이 바르지 않은 것은?",
+   "passage": "",
+   "c": [
+    "Nothing is more precious than time. → Time is more precious than anything else.",
+    "No other boy in the village is as smart as he. → He is the smartest boy in the village.",
+    "No other subject is easier than English for me. → English is easier than any other subject for me.",
+    "Nothing is more important than health. → Health is less important than anything else.",
+    "No other lake in this area is deeper than this lake. → This lake is deeper than any other lake in this area."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: ‘No other + 단수명사 ~ 비교급 than A’, ‘No other ~ as + 원급 + as A’, ‘Nothing ~ 비교급 than A’는 모두 ‘A가 가장 ~하다’는 최상급의 뜻이다. 전환한 문장도 A가 가장 ~하다는 뜻이어야 한다.\n풀이 순서: ① 화살표 앞 문장(No other ~, Nothing ~)을 ‘A가 가장 ~하다’로 옮긴다. → ② 화살표 뒤 문장도 같은 뜻인지 본다. 최상급이거나 ‘비교급 + than any other(anything else)’이면 같은 뜻이다. → ③ 선택지 ④는 뒤 문장의 표현(less important) 때문에 뜻이 반대가 된다.\n문장별 판정:\n정답 판단: 앞 문장은 ‘건강이 가장 중요하다’는 뜻인데 뒤 문장은 ‘건강이 가장 덜 중요하다’는 뜻이 되므로 정답은 ④이다.\n선택지 분석:\n① [오답] 앞뒤 문장이 모두 ‘시간이 가장 소중하다’는 뜻이라 바른 전환이므로 오답이다.\n② [오답] 앞뒤 문장이 모두 ‘그가 마을에서 가장 똑똑하다’는 뜻이라 바른 전환이므로 오답이다.\n③ [오답] 앞뒤 문장이 모두 ‘영어가 내게 가장 쉬운 과목이다’는 뜻이라 바른 전환이므로 오답이다.\n④ [정답] 앞 문장은 ‘건강이 가장 중요하다’는 뜻인데 뒤 문장은 ‘건강이 가장 덜 중요하다’는 뜻이 되므로 정답이다.\n⑤ [오답] 앞뒤 문장이 모두 ‘이 호수가 이 지역에서 가장 깊다’는 뜻이라 바른 전환이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 문장의 전환이 바르지 않은 것은?",
+    "passage": "",
+    "c": [
+     "No other student in her class is as tall as Mina. → Mina is the tallest student in her class.",
+     "No other sport is as popular as soccer in this town. → Soccer is less popular than any other sport in this town.",
+     "No other month is hotter than August here. → August is hotter than any other month here.",
+     "Nothing is more valuable than friendship. → Friendship is more valuable than anything else.",
+     "Nothing is as important as safety. → Safety is the most important thing."
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 중 문장의 전환이 바르지 않은 것은?",
+    "passage": "",
+    "c": [
+     "No other laptop in the store is cheaper than this one. → This laptop is cheaper than any other laptop in the store.",
+     "Nothing is more exciting than traveling. → Traveling is more exciting than anything else.",
+     "No other river in Korea is as long as this river. → This river is the longest in Korea.",
+     "No other city in the country is larger than this city. → This city is the largest in the country.",
+     "Nothing is more difficult than this puzzle. → This puzzle is easier than anything else."
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 중 문장의 전환이 바르지 않은 것은?",
+    "passage": "",
+    "c": [
+     "No other runner on the team is faster than Jane. → Jane is slower than any other runner on the team.",
+     "Nothing is more refreshing than cold water. → Cold water is more refreshing than anything else.",
+     "No other mountain in Asia is as high as Mt. Everest. → Mt. Everest is the highest mountain in Asia.",
+     "No other season is more beautiful than spring. → Spring is more beautiful than any other season.",
+     "Nothing is as sweet as honey. → Honey is the sweetest thing."
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 중 문장의 전환이 바르지 않은 것은?",
+    "passage": "",
+    "c": [
+     "No other guide I have read is more useful than this one. → This guide is more useful than any other guide I have read.",
+     "Nothing is more comfortable than my old sofa. → My old sofa is more comfortable than anything else.",
+     "No other animal on land is as big as the elephant. → The elephant is smaller than any other animal on land.",
+     "No other day of the week is busier than Monday. → Monday is busier than any other day of the week.",
+     "Nothing is as precious as family. → Family is the most precious thing."
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 중 문장의 전환이 바르지 않은 것은?",
+    "passage": "",
+    "c": [
+     "No other student in the group is as smart as Tom. → Tom is the smartest student in the group.",
+     "Nothing is more relaxing than a warm bath. → A warm bath is more relaxing than anything else.",
+     "No other planet in the solar system is larger than Jupiter. → Jupiter is larger than any other planet in the solar system.",
+     "Nothing in the shop is cheaper than this pen. → This pen is more expensive than anything else in the shop.",
+     "No other building in the town is as old as this church. → This church is the oldest building in the town."
+    ],
+    "ans": 4
+   }
+  },
+  "target_answer_position": 2,
+  "v1_pretest": {
+   "stem": "다음 <보기>에서 문장의 전환이 바른 것을 모두 고른 것은?",
+   "passage": "<보기>\nⓐ No other bakery in this neighborhood is as popular as Sunny Bakery. → Sunny Bakery is the most popular bakery in this neighborhood.\nⓑ No other player on our team scored more goals than Junho last season. → Junho scored fewer goals than any other player on our team last season.\nⓒ No other jacket in this store is less expensive than this one. → This jacket is the least expensive one in this store.\nⓓ No other station on this subway line is as crowded as City Hall Station during rush hour. → City Hall Station is the least crowded station on this subway line during rush hour.\nⓔ Nothing is more comforting on a cold night than a cup of hot cocoa. → A cup of hot cocoa is more comforting on a cold night than anything else.",
+   "c": [
+    "ⓐ, ⓑ, ⓒ",
+    "ⓐ, ⓒ, ⓔ",
+    "ⓐ, ⓓ, ⓔ",
+    "ⓑ, ⓒ, ⓓ",
+    "ⓑ, ⓓ, ⓔ"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: ‘No other + 단수명사 ~ 비교급 than A’, ‘No other + 단수명사 ~ as + 원급 + as A’, ‘Nothing ~ 비교급 than A’는 모두 ‘A가 가장 ~하다’는 최상급의 뜻이다. 바꾼 문장도 최상급이나 ‘비교급 + than any other + 단수명사(anything else)’로 같은 뜻을 나타내야 한다.\n풀이 순서: ① 화살표 앞 문장을 ‘A가 가장 ~하다’로 옮긴다. less expensive처럼 less가 있으면 ‘A가 가장 덜 ~하다’이다. → ② 화살표 뒤 문장이 앞 문장과 같은 방향의 뜻인지 확인한다. more 대신 fewer를 쓰거나, the most 대신 the least를 쓰면 뜻이 반대가 된다. → ③ 뜻이 같은 전환은 ⓐ, ⓒ, ⓔ이다. 정답은 ②.\n문장별 판정:\nⓐ O. 앞뒤 문장이 모두 ‘Sunny Bakery가 이 동네에서 가장 인기 있는 빵집이다’라는 뜻이다.\nⓑ X. 앞 문장은 ‘지난 시즌 팀에서 준호가 골을 가장 많이 넣었다’는 뜻인데 뒤 문장은 ‘가장 적게 넣었다’는 뜻이 되므로 fewer를 more로 고쳐야 한다.\nⓒ O. 앞 문장은 ‘이 가게에 이 재킷보다 덜 비싼 재킷은 없다’, 곧 ‘이 재킷이 가장 덜 비싸다’는 뜻이므로 the least expensive로 바르게 바꿨다.\nⓓ X. 앞 문장은 ‘출퇴근 시간에 시청역이 가장 붐빈다’는 뜻인데 뒤 문장은 ‘가장 덜 붐빈다’는 뜻이 되므로 the least crowded를 the most crowded로 고쳐야 한다.\nⓔ O. 앞뒤 문장이 모두 ‘추운 밤에는 핫코코아 한 잔이 무엇보다 위안이 된다’는 뜻이다.\n정답 판단: 앞 문장의 최상급 뜻을 그대로 옮긴 전환은 ⓐ, ⓒ, ⓔ이므로 정답은 ②이다.\n선택지 분석:\n① [오답] ⓑ는 fewer를 써서 ‘골을 가장 적게 넣었다’는 반대 뜻이 되었고, 바른 전환인 ⓔ가 빠졌으므로 오답이다.\n② [정답] 최상급의 뜻을 그대로 옮긴 ⓐ, ⓒ, ⓔ만 모았으므로 정답이다.\n③ [오답] ⓓ는 the least crowded를 써서 ‘가장 덜 붐빈다’는 반대 뜻이 되었고, 바른 전환인 ⓒ가 빠졌으므로 오답이다.\n④ [오답] ⓑ와 ⓓ는 모두 뜻이 반대로 바뀐 전환이고, 바른 전환인 ⓐ, ⓔ가 빠졌으므로 오답이다.\n⑤ [오답] ⓑ와 ⓓ는 모두 뜻이 반대로 바뀐 전환이고, 바른 전환인 ⓐ, ⓒ가 빠졌으므로 오답이다.",
+   "new_format": "<보기>의 전환 다섯 쌍(ⓐ~ⓔ) 중 바른 전환만 모두 고른 조합 고르기",
+   "design": "‘No other + 단수명사 ~ 비교급 than A / as + 원급 + as A’, ‘Nothing ~ 비교급 than A’가 ‘A가 가장 ~하다’는 최상급의 뜻이어서 바꾼 문장도 같은 뜻이어야 한다는 규칙을 그대로 평가한다. 바르지 않은 전환 하나 고르기를 바른 전환만 모두 고르는 조합형으로 바꾸어 다섯 쌍을 모두 판정하게 했고, 조합 보기는 모두 세 개씩 묶고 기호마다 세 번씩 나오게 해 빈도로 찍을 수 없게 했다. 오답 전환은 more 대신 fewer를, the most 대신 the least를 써서 뜻을 뒤집어 만들고, less expensive → the least expensive처럼 least가 들어가도 뜻이 같은 바른 전환을 함께 넣어 낱말만 보고 판단할 수 없게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 131/85 글자 570/362 정답 2",
+   "ERR  원문항보다 너무 김: 낱말 131 > 상한 127 (원문항 85) — 난이도가 올라감",
+   "ERR  원문항이 조합형이 아닌데 조합 고르기 형식 — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "1-89",
+  "grade": 1,
+  "no": 89,
+  "chapter": "CH 9",
+  "chapter_name": "관계사",
+  "ref": {
+   "stem": "다음은 <관계대명사의 생략>에 대한 설명이다. 지문의 밑줄 친 부분에 근거하여 (A)~(C)에 들어갈 용어를 바르게 나열한 것은?",
+   "passage": "The man <u>who is standing</u> over there is my uncle.\n설명: 위 문장에서 'who'는 주격 관계대명사이다. 영어에서는 주격 관계대명사가 (<u>      A      </u>)와 함께 쓰일 때, 이 두 단어를 (<u>      B      </u>) 생략할 수 있다. 생략 후에는 (<u>      C      </u>)인 'standing'이 선행사인 'The man'을 직접 수식하게 되어 문장이 간결해진다.",
+   "c": [
+    "(A) 일반동사 - (B) 각각 - (C) 동명사",
+    "(A) be동사 - (B) 각각 - (C) 현재분사",
+    "(A) 조동사 - (B) 동시에 - (C) 과거분사",
+    "(A) 일반동사 - (B) 동시에 - (C) 현재분사",
+    "(A) be동사 - (B) 동시에 - (C) 현재분사"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: ‘주격 관계대명사 + be동사’ 뒤에 분사가 오면 관계대명사와 be동사를 함께 생략할 수 있고, 남은 분사(현재분사·과거분사)가 선행사를 직접 꾸민다.\n풀이 순서: ① 밑줄 친 부분(who is standing)을 ‘주격 관계대명사 + be동사 + 분사’로 나눈다. 관계대명사와 함께 쓰인 것은 be동사이므로 (A)는 be동사다. → ② 이 두 단어는 한꺼번에 생략하므로 (B)는 ‘동시에’다. → ③ 남는 말(standing)은 -ing형으로 명사를 꾸미는 현재분사이므로 (C)가 정해진다. 정답은 ⑤.\n문장별 판정:\n정답 판단: (A) be동사, (B) 동시에, (C) 현재분사이다.\n선택지 분석:\n① [오답] (A)는 일반동사가 아니라 be동사이고, 둘을 각각이 아니라 동시에 생략하며, standing은 동명사가 아니므로 오답이다.\n② [오답] 두 단어를 각각이 아니라 동시에 생략하므로 오답이다.\n③ [오답] (A)는 조동사가 아니라 be동사이고 standing은 과거분사가 아니므로 오답이다.\n④ [오답] (A)는 일반동사가 아니라 be동사이므로 오답이다.\n⑤ [정답] who와 함께 쓰인 is는 be동사이고, 둘을 동시에 생략하며, 남는 standing은 현재분사이므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음은 <관계대명사의 생략>에 대한 설명이다. 지문의 밑줄 친 부분에 근거하여 (A)~(C)에 들어갈 용어를 바르게 나열한 것은?",
+    "passage": "The cars <u>which are parked</u> outside belong to Tom.\n설명: 위 문장에서 'which'는 주격 관계대명사이다. 주격 관계대명사가 (<u>      A      </u>)와 함께 쓰일 때, 이 두 단어를 (<u>      B      </u>) 생략할 수 있다. 생략 후에는 (<u>      C      </u>)인 'parked' 하나만 남아 선행사 'The cars' 뒤에서 그 명사를 직접 수식하게 된다.",
+    "c": [
+     "(A) 일반동사 - (B) 각각 - (C) 과거분사",
+     "(A) be동사 - (B) 동시에 - (C) 과거분사",
+     "(A) be동사 - (B) 각각 - (C) 현재분사",
+     "(A) 조동사 - (B) 동시에 - (C) 동명사",
+     "(A) be동사 - (B) 동시에 - (C) 현재분사"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음은 <관계대명사의 생략>에 대한 설명이다. 지문의 밑줄 친 부분에 근거하여 (A)~(C)에 들어갈 용어를 바르게 나열한 것은?",
+    "passage": "The students <u>who are waiting</u> outside are from Class 1.\n설명: 위 문장에서 'who'는 주격 관계대명사이다. 주격 관계대명사가 (<u>      A      </u>)와 함께 쓰일 때, 이 두 단어를 (<u>      B      </u>) 생략할 수 있다. 생략 후에는 (<u>      C      </u>)인 'waiting' 하나만 남아 선행사 'The students' 뒤에서 그 명사를 직접 수식하게 된다.",
+    "c": [
+     "(A) be동사 - (B) 동시에 - (C) 현재분사",
+     "(A) be동사 - (B) 각각 - (C) 동명사",
+     "(A) 일반동사 - (B) 동시에 - (C) 현재분사",
+     "(A) be동사 - (B) 동시에 - (C) 과거분사",
+     "(A) 조동사 - (B) 각각 - (C) 현재분사"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음은 <관계대명사의 생략>에 대한 설명이다. 지문의 밑줄 친 부분에 근거하여 (A)~(C)에 들어갈 용어를 바르게 나열한 것은?",
+    "passage": "The documents <u>which were signed</u> by the manager yesterday are ready.\n설명: 위 문장에서 'which'는 주격 관계대명사이다. 주격 관계대명사가 (<u>      A      </u>)와 함께 쓰일 때, 이 두 단어를 (<u>      B      </u>) 생략할 수 있다. 생략 후에는 (<u>      C      </u>)인 'signed' 하나만 남아 선행사 'The documents' 뒤에서 그 명사를 직접 수식하게 된다.",
+    "c": [
+     "(A) 조동사 - (B) 동시에 - (C) 과거분사",
+     "(A) be동사 - (B) 하나만 - (C) 과거분사",
+     "(A) be동사 - (B) 동시에 - (C) 동명사",
+     "(A) be동사 - (B) 동시에 - (C) 과거분사",
+     "(A) 일반동사 - (B) 하나만 - (C) 현재분사"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음은 <관계대명사의 생략>에 대한 설명이다. 지문의 밑줄 친 부분에 근거하여 (A)~(C)에 들어갈 용어를 바르게 나열한 것은?",
+    "passage": "The man <u>who is standing</u> by the door is my uncle.\n설명: 위 문장에서 'who'는 주격 관계대명사이다. 주격 관계대명사가 (<u>      A      </u>)와 함께 쓰일 때, 이 두 단어를 (<u>      B      </u>) 생략할 수 있다. 생략 후에는 (<u>      C      </u>)인 'standing' 하나만 남아 선행사 'The man' 뒤에서 그 명사를 직접 수식하게 된다.",
+    "c": [
+     "(A) 일반동사 - (B) 동시에 - (C) 동명사",
+     "(A) be동사 - (B) 하나만 - (C) 현재분사",
+     "(A) 조동사 - (B) 동시에 - (C) 현재분사",
+     "(A) be동사 - (B) 동시에 - (C) 과거분사",
+     "(A) be동사 - (B) 동시에 - (C) 현재분사"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음은 <관계대명사의 생략>에 대한 설명이다. 지문의 밑줄 친 부분에 근거하여 (A)~(C)에 들어갈 용어를 바르게 나열한 것은?",
+    "passage": "The girl <u>who is wearing</u> a red coat is Mina.\n설명: 위 문장에서 'who'는 주격 관계대명사이다. 주격 관계대명사가 (<u>      A      </u>)와 함께 쓰일 때, 이 두 단어를 (<u>      B      </u>) 생략할 수 있다. 생략 후에는 (<u>      C      </u>)인 'wearing' 하나만 남아 선행사 'The girl' 뒤에서 그 명사를 직접 수식하게 된다.",
+    "c": [
+     "(A) be동사 - (B) 동시에 - (C) 동명사",
+     "(A) 일반동사 - (B) 하나만 - (C) 현재분사",
+     "(A) be동사 - (B) 동시에 - (C) 현재분사",
+     "(A) be동사 - (B) 하나만 - (C) 과거분사",
+     "(A) 조동사 - (B) 동시에 - (C) 현재분사"
+    ],
+    "ans": 3
+   }
+  },
+  "target_answer_position": 4,
+  "v1_pretest": {
+   "stem": "다음 문장의 밑줄 친 부분을 생략할 수 있는 것은?",
+   "passage": "",
+   "c": [
+    "The woman <u>who</u> is reading a newspaper by the window is my aunt.",
+    "The singer <u>who has</u> released three albums this year will visit our city.",
+    "The bakery <u>that sells</u> rice bread opens at seven every morning.",
+    "The photos <u>which were</u> taken at the school festival are on the bulletin board.",
+    "The boy who <u>is</u> sitting next to Yuna is my cousin from Canada."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 주격 관계대명사는 혼자서는 생략할 수 없지만, ‘주격 관계대명사 + be동사’ 뒤에 분사가 오면 두 낱말을 함께 생략할 수 있다. 생략하면 남은 분사(현재분사·과거분사)가 선행사를 직접 꾸민다.\n풀이 순서: ① 밑줄 친 부분이 주격 관계대명사와 be동사를 함께 묶은 것인지 확인한다. → ② be동사 뒤에 분사가 있어서 생략한 뒤에도 분사가 선행사를 바로 꾸미는 문장이 되는지 본다. → ③ 선택지 ④만 which were를 함께 생략하면 taken이 The photos를 꾸미는 바른 문장이 된다. 정답은 ④.\n문장별 판정:\n정답 판단: 주격 관계대명사 which와 be동사 were를 함께 생략하면 과거분사 taken이 The photos를 직접 꾸며 The photos taken at the school festival이 되므로 정답은 ④이다.\n선택지 분석:\n① [오답] 주격 관계대명사 who만 생략하면 The woman is reading ~ is my aunt처럼 동사가 둘이 되어 문장이 성립하지 않으므로 오답이다.\n② [오답] has는 be동사가 아니라 현재완료를 만드는 조동사이다. who has를 생략하면 The singer released ~ will visit처럼 동사가 둘이 되므로 오답이다.\n③ [오답] sells는 be동사가 아니라 일반동사이다. that sells를 생략하면 The bakery rice bread opens ~처럼 관계사절의 동사가 사라져 문장이 성립하지 않으므로 오답이다.\n④ [정답] which were를 함께 생략하면 과거분사 taken이 The photos를 직접 꾸미는 바른 문장이 되므로 정답이다.\n⑤ [오답] be동사 is만 생략하면 The boy who sitting ~처럼 관계대명사 뒤에 동사가 없어진다. who is를 함께 생략해야 하므로 오답이다.",
+   "new_format": "다섯 문장 중 밑줄 친 부분을 생략할 수 있는 것 고르기(같은 규칙을 문장에 적용하는 형식)",
+   "design": "‘주격 관계대명사 + be동사’는 두 낱말을 함께 생략할 수 있고, 생략한 뒤에는 남은 분사가 선행사를 직접 꾸민다는 규칙을 그대로 평가한다. 용어를 채우는 설명형을 그 규칙을 문장에 적용해 생략할 수 있는 부분을 고르는 형식으로 바꾸었다. 오답은 원문항의 오답 용어(각각·조동사·일반동사)에 맞추어 관계대명사만 생략, be동사만 생략, 조동사 has와 함께 생략, 일반동사 sells와 함께 생략하는 경우로 만들었다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 64/19 글자 269/206 정답 4",
+   "ERR  원문항보다 너무 김: 낱말 64 > 상한 28 (원문항 19) — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "1-100",
+  "grade": 1,
+  "no": 100,
+  "chapter": "CH 10",
+  "chapter_name": "가정법",
+  "ref": {
+   "stem": "다음 <조건>을 모두 만족하는 문장으로 가장 적절한 것은?",
+   "passage": "<조건>\n\"그의 용기가 없었더라면, 그는 그 아이를 구하지 못했을 것이다.\"라는 의미일 것.\n접속사 'If'를 생략한 도치 구문일 것.\n축약형을 사용하지 않을 것.",
+   "c": [
+    "Were it not for his courage, he could not save the child.",
+    "Had he not have courage, he would not have saved the child.",
+    "Had it not been for his courage, he could not have saved the child.",
+    "If it had not been for his courage, he could not have saved the child.",
+    "Had it not been for his courage, he could not save the child."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: If it had not been for ~(~이 없었더라면)에서 if를 생략하면 Had it not been for ~로 도치한다. 과거 사실의 반대이므로 주절은 would/could have + 과거분사이다.\n풀이 순서: ① 조건을 형태로 바꾼다. ‘~이 없었더라면’은 If it had not been for ~이고, If를 생략하면 Had it not been for ~가 된다. → ② 우리말의 주절(‘구하지 못했을 것이다’)은 과거 사실의 반대이므로 would/could have + 과거분사(could not have saved)여야 한다. → ③ If나 Without으로 시작하는 보기, 도치 어순이나 주절의 형태가 틀린 보기를 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: Had it not been for로 도치하고 주절에 could not have saved를 써서 세 조건을 모두 만족하므로 정답은 ③이다.\n선택지 분석:\n① [오답] Were it not for ~, could not save는 현재 사실의 반대라 ‘구하지 못했을 것이다’와 시제가 맞지 않으므로 오답이다.\n② [오답] Had he not have courage는 틀린 형태이므로 오답이다.\n③ [정답] Had it not been for로 도치하고 주절에 could not have saved를 써서 세 조건을 모두 만족하므로 정답이다.\n④ [오답] If를 생략하지 않았으므로 오답이다.\n⑤ [오답] 주절이 could not save라 과거 사실의 반대를 나타내지 못하므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 <조건>을 모두 만족하는 문장으로 가장 적절한 것은?",
+    "passage": "<조건>\n\"Tom의 경고가 없었더라면 우리는 위험을 몰랐을 것이다.\"라는 의미일 것.\n접속사 'If'를 생략한 도치 구문일 것.\n축약형을 사용하지 않을 것.",
+    "c": [
+     "If it had not been for Tom's warning, we would not have known the danger.",
+     "Without Tom's warning we would not have known the danger.",
+     "Had it not been for Tom's warning, we would not have known the danger.",
+     "Had it not been for Tom's warning, we would not known the danger.",
+     "Had not it been for Tom's warning, we would not have known the danger."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 <조건>을 모두 만족하는 문장으로 가장 적절한 것은?",
+    "passage": "<조건>\n\"Mina의 도움이 없었더라면 나는 마감일을 지키지 못했을 것이다.\"라는 의미일 것.\n접속사 'If'를 생략한 도치 구문일 것.\n축약형을 사용하지 않을 것.",
+    "c": [
+     "Had not it been for Mina's help, I could not have met the deadline.",
+     "Without Mina's help I could not have met the deadline.",
+     "If it had not been for Mina's help, I could not have met the deadline.",
+     "Had it not been for Mina's help, I could not have met the deadline.",
+     "Had it not been for Mina's help, I cannot have met the deadline."
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 <조건>을 모두 만족하는 문장으로 가장 적절한 것은?",
+    "passage": "<조건>\n\"그 지도가 없었더라면 우리는 길을 잃었을 것이다.\"라는 의미일 것.\n접속사 'If'를 생략한 도치 구문일 것.\n축약형을 사용하지 않을 것.",
+    "c": [
+     "Had it not been for the map, we would have gotten lost.",
+     "Had not it been for the map, we would have gotten lost.",
+     "If it was not for the map, we would have gotten lost.",
+     "Without the map we would have gotten lost.",
+     "Had it not been for the map, we will have gotten lost."
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 <조건>을 모두 만족하는 문장으로 가장 적절한 것은?",
+    "passage": "<조건>\n\"Jane의 조언이 없었더라면 나는 잘못된 선택을 했을 것이다.\"라는 의미일 것.\n접속사 'If'를 생략한 도치 구문일 것.\n축약형을 사용하지 않을 것.",
+    "c": [
+     "Had it not been for Jane's advice, I will have made the wrong choice.",
+     "Had it not been for Jane's advice, I would have made the wrong choice.",
+     "Had not it been for Jane's advice, I would have made the wrong choice.",
+     "If it was not for Jane's advice, I would have made the wrong choice.",
+     "Without Jane's advice I would have made the wrong choice."
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 <조건>을 모두 만족하는 문장으로 가장 적절한 것은?",
+    "passage": "<조건>\n\"그 백업 파일이 없었더라면 우리는 데이터를 복구하지 못했을 것이다.\"라는 의미일 것.\n접속사 'If'를 생략한 도치 구문일 것.\n축약형을 사용하지 않을 것.",
+    "c": [
+     "Had it not been for the backup file, we could not have recovered the data.",
+     "Had not it been for the backup file, we could not have recovered the data.",
+     "Had it not been for the backup file, we cannot have recovered the data.",
+     "If it had not been for the backup file, we could not have recovered the data.",
+     "Without the backup file we could not have recovered the data."
+    ],
+    "ans": 1
+   }
+  },
+  "target_answer_position": 2,
+  "v1_pretest": {
+   "stem": "다음 글의 마지막 문장이 괄호 안의 우리말과 같은 뜻이 되도록 할 때, (A), (B)에 들어갈 말이 바르게 짝지어진 것은?",
+   "passage": "Last winter, a hiker fell and hurt his ankle on a snowy mountain, so he could not walk down by himself. A rescue team searched for him with a specially trained dog. (A)_______ the dog, the team (B)_______ him before dark.\n(그 개가 없었더라면, 구조대는 어두워지기 전에 그를 찾지 못했을 것이다.)",
+   "c": [
+    "(A) Were it not for - (B) could not find",
+    "(A) Had it not been for - (B) could not have found",
+    "(A) Had not it been for - (B) could not have found",
+    "(A) Had it not been for - (B) could not find",
+    "(A) Had not it been for - (B) could not find"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 과거 사실의 반대인 ‘~이 없었더라면’은 If it had not been for ~이고, If를 생략하면 had를 주어 it 앞으로 보내 Had it not been for ~로 쓴다. 주절도 과거 사실의 반대이므로 could(would) + have + 과거분사를 쓴다.\n풀이 순서: ① 우리말 ‘없었더라면 ~ 찾지 못했을 것이다’와 앞 문장의 Last winter를 보고 과거 사실의 반대(가정법 과거완료)임을 확인한다. → ② (A)는 If를 생략하고 had를 맨 앞으로 보낸 Had it not been for, (B)는 could not have found여야 한다. → ③ Were it not for, Had not it been for, could not find가 들어간 보기를 지운다. 정답은 ②.\n문장별 판정:\n정답 판단: (A)에 If를 생략하고 도치한 Had it not been for를, (B)에 과거 사실의 반대를 나타내는 could not have found를 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] Were it not for와 could not find는 현재 사실의 반대(가정법 과거)를 나타내서 지난겨울의 일을 가정하는 우리말과 시제가 맞지 않으므로 오답이다.\n② [정답] Had it not been for로 바르게 도치하고 주절에 could not have found를 써서 과거 사실의 반대를 나타내므로 정답이다.\n③ [오답] (B)는 맞지만, If를 생략한 도치에서 축약하지 않은 not은 주어 it 뒤에 두어 Had it not been for로 써야 하므로 오답이다.\n④ [오답] (A)는 맞지만, (B) could not find는 과거 사실의 반대를 나타내지 못하므로 could not have found로 써야 해 오답이다.\n⑤ [오답] (A)는 not의 위치가 틀린 Had not it been for이고, (B)도 could not have found로 써야 하므로 오답이다.",
+   "new_format": "글의 마지막 문장이 괄호 안 우리말과 같은 뜻이 되도록 빈칸 (A)·(B)에 들어갈 말의 짝 고르기",
+   "design": "If it had not been for ~에서 If를 생략한 도치 Had it not been for ~와 과거 사실의 반대를 나타내는 주절(could not have + 과거분사)을 그대로 평가한다. 조건 영작형을 두 빈칸 짝 고르기로 바꾸고, 앞 문장에 지난겨울의 일을 넣어 우리말과 문맥 양쪽에서 시제를 판단하게 했다. 오답은 원문항처럼 Were it not for(현재 사실의 반대), Had not it been for(도치 어순 오류), 주절 could not find(시제 불일치)를 섞어 두 빈칸을 모두 따져야 풀리게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 80/67 글자 333/304 정답 2",
+   "WARN 원문항은 한 곳만 판단하는데 두 빈칸 짝 — 판단 개수가 늘지 않았는지"
+  ]
+ },
+ {
+  "key": "1-102",
+  "grade": 1,
+  "no": 102,
+  "chapter": "CH 11",
+  "chapter_name": "접속사",
+  "ref": {
+   "stem": "다음 중 어법상 올바른 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "Neither the singer nor the dancers is performing today.",
+    "Both my sister and her friend enjoys cooking.",
+    "Not only my brother but also his friends is coming to the party.",
+    "Either my parents or my brother needs to sign this form.",
+    "The manager as well as the employees have been working hard."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: both A and B는 복수 취급한다. either A or B, neither A nor B, not only A but also B는 동사에 가까운 B에 수를 맞추고, A as well as B는 A에 수를 맞춘다.\n풀이 순서: ① 문장마다 상관접속사를 찾고 동사가 어느 말에 수를 맞춰야 하는지 정한다. both ~ and는 복수, either·neither·not only는 동사에 가까운 쪽, as well as는 앞쪽이다. → ② 그 말이 단수인지 복수인지 보고 동사와 견준다. → ③ 선택지 ④만 수가 맞는다: or 뒤의 my brother(단수) - needs.\n문장별 판정:\n정답 판단: or 뒤의 my brother에 수를 맞춰 needs를 바르게 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] nor 뒤의 the dancers에 수를 맞춰 are를 써야 하므로 오답이다.\n② [오답] both A and B는 복수이므로 enjoy를 써야 하므로 오답이다.\n③ [오답] but also 뒤의 his friends에 수를 맞춰 are를 써야 하므로 오답이다.\n④ [정답] or 뒤의 my brother에 수를 맞춰 needs를 바르게 썼으므로 정답이다.\n⑤ [오답] as well as 앞의 The manager에 수를 맞춰 has를 써야 하므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 어법상 올바른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Both the manager and the employees is satisfied.",
+     "Neither the teachers nor Tom are available.",
+     "Either the students or the teacher is presenting first.",
+     "Either Mina or her parents is attending.",
+     "Not only Jane but also her friends is joining."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 중 어법상 올바른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Neither my cousins nor my brother were at home.",
+     "Both Minji and her twin sister likes spicy food.",
+     "Either Mina or her parents are attending the ceremony.",
+     "Not only the coach but also the players was tired.",
+     "The teacher as well as the students are excited."
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 중 어법상 올바른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Both the bus and the train is late today.",
+     "Neither the teachers nor Tom is available today.",
+     "Not only my dad but also my uncles enjoys fishing.",
+     "Either you or your sister have to clean the room.",
+     "My friends as well as Jina was invited to the party."
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 중 어법상 올바른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Either the manager or the workers is responsible.",
+     "Both my mom and my aunt works at the hospital.",
+     "The captain as well as the sailors were brave.",
+     "Neither the dog nor the cats was hungry.",
+     "Not only Jane but also her friends are joining us."
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 중 어법상 올바른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Not only the students but also the principal were surprised.",
+     "Either my brothers or my sister are going to pick me up.",
+     "Neither Sora nor her friends knows the answer.",
+     "Both Yuna and her brother are good at math.",
+     "The singer as well as the dancers look nervous."
+    ],
+    "ans": 4
+   }
+  },
+  "target_answer_position": 4,
+  "v1_pretest": {
+   "stem": "다음 빈칸에 들어갈 be동사의 현재형이 나머지 넷과 다른 것은?",
+   "passage": "",
+   "c": [
+    "Not only the actors but also the director _______ waiting for the rain to stop.",
+    "Either the tour guides or the bus driver _______ going to call the hotel about the delay.",
+    "My grandmother as well as my two little cousins _______ staying with us this week.",
+    "Both the city library and the sports center _______ closed on all national holidays.",
+    "Neither the players nor the coach _______ happy with the referee's decision."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: both A and B는 늘 복수로 취급한다. either A or B, neither A nor B, not only A but also B는 동사에 가까운 B에, A as well as B는 앞의 A에 동사의 수를 맞춘다.\n풀이 순서: ① 문장마다 상관접속사를 찾고 동사가 어느 말에 수를 맞추는지 정한다. → ② 그 말이 단수인지 복수인지 보고 is와 are 가운데 하나를 넣는다. → ③ 선택지 ④에만 are가 들어가고 나머지 넷에는 is가 들어간다. 정답은 ④.\n문장별 판정:\n정답 판단: both A and B는 복수로 취급하므로 선택지 ④에만 are가 들어가고, 나머지 넷은 수를 맞추는 말이 단수라 is가 들어가므로 정답은 ④이다.\n선택지 분석:\n① [오답] not only A but also B는 B에 수를 맞추므로 단수 the director에 맞춰 is가 들어가 나머지와 같으므로 오답이다.\n② [오답] either A or B는 동사에 가까운 B에 수를 맞추므로 단수 the bus driver에 맞춰 is가 들어가 나머지와 같으므로 오답이다.\n③ [오답] A as well as B는 앞의 A에 수를 맞추므로 동사 바로 앞의 my two little cousins가 아니라 단수 My grandmother에 맞춰 is가 들어가 나머지와 같으므로 오답이다.\n④ [정답] both A and B는 복수로 취급하므로 are가 들어가 나머지 넷의 is와 다르므로 정답이다.\n⑤ [오답] neither A nor B는 B에 수를 맞추므로 단수 the coach에 맞춰 is가 들어가 나머지와 같으므로 오답이다.",
+   "new_format": "상관접속사가 쓰인 다섯 문장의 빈칸에 들어갈 be동사 현재형이 나머지 넷과 다른 것 고르기",
+   "design": "both A and B는 복수, either A or B·neither A nor B·not only A but also B는 B에, A as well as B는 A에 동사의 수를 맞춘다는 규칙을 그대로 평가한다. 옳은 문장 하나 고르기를 다섯 빈칸을 모두 채워 보고 나머지와 다른 것을 찾는 형식으로 바꾸어 다섯 상관접속사를 빠짐없이 적용하게 했다. 동사에서 먼 쪽에 복수 명사(the actors, the tour guides, the players)를 두고 as well as 문장은 동사 바로 앞에 복수 명사(my two little cousins)를 두어, 복수 동사로 착각하거나 가까운 명사에 맞추는 실수를 함정으로 만들었다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 68/52 글자 302/228 정답 4",
+   "WARN 원문항의 1.3배 — 1.3배 안팎으로 줄일 수 있는지"
+  ]
+ },
+ {
+  "key": "1-115",
+  "grade": 1,
+  "no": 115,
+  "chapter": "CH 12",
+  "chapter_name": "일치와 화법",
+  "ref": {
+   "stem": "다음 중 어법상 옳은 것을 모두 고르시오.",
+   "passage": "A) The elderly deserve more respect from younger generations.\nB) She said that she had completed her thesis before the deadline.\nC) One of my colleagues are working on a similar project.\nD) The teacher explained that water boils at 100 degrees Celsius.\nE) Either the manager or the assistants has to handle this issue.\nF) Most of the participants are pleased with the workshop.",
+   "c": [
+    "A, B, C",
+    "B, C, F",
+    "A, C, E, F",
+    "A, B, D, F",
+    "A, B, C, D, F"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: the + 형용사(the elderly)는 ‘~한 사람들’로 복수, one of·each of는 단수, either A or B는 B에 수를 맞춘다. 전달동사 뒤의 that절은 시제 일치를 따르되 변하지 않는 진리는 현재시제로 쓴다.\n풀이 순서: ① 문장마다 주어와 동사의 수 일치, 전달동사(say, tell, ask)의 쓰임과 시제를 확인한다. → ② C는 One of 뒤라 is여야 하고, E는 or 뒤의 the assistants에 맞춰 have여야 한다. 나머지 넷은 옳다. → ③ 옳은 문장을 빠짐없이 모은 A, B, D, F를 고른다.\n문장별 판정: A) O. the elderly는 ‘노인들’로 복수. B) O. 말한 때보다 앞선 일을 had completed로 썼다. C) X. One of + 복수명사는 단수 동사 is를 쓴다. D) O. 변하지 않는 진리는 현재시제. E) X. or 뒤의 the assistants에 수를 맞춰 have를 쓴다. F) O. Most of + 복수명사는 복수 동사.\n정답 판단: 옳은 것은 A, B, D, F이다.\n선택지 분석:\n① [오답] C가 틀렸고 D, F가 빠졌으므로 오답이다.\n② [오답] C가 틀렸으므로 오답이다.\n③ [오답] C, E가 틀렸으므로 오답이다.\n④ [정답] 옳은 A, B, D, F만 모았으므로 정답이다.\n⑤ [오답] 틀린 C가 들어 있으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 어법상 옳은 것을 모두 고르시오.",
+    "passage": "A) The young often adapt quickly to new technology and social change.\nB) Jane said she had lost the key to her apartment on the way home.\nC) Tom asked when the meeting would start the next morning.\nD) Each of the students have a locker in the hallway near the gym.\nE) Mina told me that she was tired after the long day at school.\nF) The police are here to investigate the accident on the main road.",
+    "c": [
+     "A, D, F",
+     "A, B, C, E, F",
+     "A, B, D",
+     "A, B, F",
+     "B, C, E"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 중 어법상 옳은 것을 모두 고르시오.",
+    "passage": "A) The rich are not always happy with their lives.\nB) Mina said that she has finished the report before noon.\nC) Tom told me that he was tired after the trip.\nD) Each of the machines in the factory needs regular repair.\nE) She asked where was the station when she got off the bus.\nF) The police are investigating the case of the missing bicycle.",
+    "c": [
+     "A, B, C, E, F",
+     "B, C, E",
+     "A, C, D, F",
+     "A, D, F",
+     "A, B, D"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 중 어법상 옳은 것을 모두 고르시오.",
+    "passage": "A) The elderly needs better access to healthcare in rural areas.\nB) Tom said that he would arrive later because of the heavy traffic.\nC) Jane asked me where did I live when we first met.\nD) Neither of the plans is perfect, but we must choose one.\nE) Mina told me that she was busy with her science project.\nF) The police are discussing the issue with the local residents.",
+    "c": [
+     "A, B, D, F",
+     "A, B, D",
+     "A, D, F",
+     "B, D, E, F",
+     "B, C, E"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 중 어법상 옳은 것을 모두 고르시오.",
+    "passage": "A) The poor deserve support from the government and the community.\nB) Mina said that she could help us with the school festival.\nC) Tom asked me where I had been during the summer vacation.\nD) Every one of the computers in the lab needs an update this week.\nE) Jane told that she was late because of the traffic jam.\nF) The cattle are grazing peacefully on the green hill.",
+    "c": [
+     "A, B, D",
+     "A, B, C, E, F",
+     "B, C, E",
+     "A, D, F",
+     "A, B, C, D, F"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 중 어법상 옳은 것을 모두 고르시오.",
+    "passage": "A) The disabled need accessible facilities in every public building.\nB) Tom said he had finished the work before the deadline.\nC) Mina asked why Jane had left the party so early.\nD) Each of the answers on the test are correct.\nE) Jane told me she would call after dinner.\nF) The police are searching the area for the lost child.",
+    "c": [
+     "A, D, F",
+     "B, C, E",
+     "A, B, C, E, F",
+     "A, B, F",
+     "A, B, D"
+    ],
+    "ans": 3
+   }
+  },
+  "target_answer_position": 1,
+  "v1_pretest": {
+   "stem": "다음 글의 밑줄 친 부분 중 어법상 틀린 것의 개수는?",
+   "passage": "Last winter, my classmates and I volunteered at a shelter in our town. When we arrived, the homeless ⓐ<u>were</u> already waiting in line for hot soup. Each of the volunteers ⓑ<u>were</u> given an apron and a pair of gloves. The manager told us that she ⓒ<u>had opened</u> the shelter about twenty years before. We cooked a lot of soup that morning, but most of the soup ⓓ<u>was</u> gone in less than an hour. Before we left, our teacher reminded us that a small act of kindness ⓔ<u>makes</u> a big difference.",
+   "c": [
+    "1개",
+    "2개",
+    "3개",
+    "4개",
+    "5개"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: the + 형용사(the homeless)는 ‘~한 사람들’이라는 뜻으로 복수 취급하고, each of + 복수명사는 단수 취급한다. most of 뒤에서는 of 뒤의 명사에 수를 맞춘다. 전달동사가 과거일 때 그보다 앞선 일은 과거완료로 쓰지만, 일반적 진리나 격언은 시제 일치를 하지 않고 현재시제로 쓴다.\n풀이 순서: ① 밑줄 친 동사마다 진짜 주어(the homeless, Each of the volunteers, most of the soup)를 찾아 단수인지 복수인지 정한다. → ② told, reminded 뒤의 that절은 시제 일치와 그 예외에 맞는지 확인한다. → ③ 틀린 것은 ⓑ 하나이다. 정답은 ①.\n문장별 판정:\nⓐ O. the homeless는 ‘노숙자들’이라는 복수의 뜻이므로 were가 맞다.\nⓑ X. Each of + 복수명사는 단수 취급하므로 were를 was로 고쳐야 한다.\nⓒ O. 매니저가 말한 때(told)보다 쉼터를 연 일이 먼저이므로 과거완료 had opened가 맞다.\nⓓ O. most of 뒤의 the soup는 셀 수 없는 명사이므로 단수 동사 was가 맞다.\nⓔ O. ‘작은 친절이 큰 차이를 만든다’는 일반적 진리(격언)이므로 시제 일치를 하지 않고 현재시제 makes를 쓴다.\n정답 판단: 어법상 틀린 것은 ⓑ 하나뿐이므로 정답은 ①이다.\n선택지 분석:\n① [정답] 어법상 틀린 것은 Each of 뒤에 were를 쓴 ⓑ로 1개이므로 정답이다.\n② [오답] 어법상 틀린 것은 ⓑ로 1개이다. ⓓ의 was는 셀 수 없는 명사 the soup에 맞춘 옳은 형태이므로 이 보기의 2개는 실제 개수와 일치하지 않아 오답이다.\n③ [오답] 어법상 틀린 것은 ⓑ로 1개이다. ⓔ의 makes도 일반적 진리를 나타내는 현재시제로 옳으므로 이 보기의 3개는 실제 개수와 일치하지 않아 오답이다.\n④ [오답] 어법상 틀린 것은 ⓑ로 1개이다. ⓐ의 the homeless도 복수 취급하므로 were가 옳아 이 보기의 4개는 실제 개수와 일치하지 않아 오답이다.\n⑤ [오답] 어법상 틀린 것은 ⓑ로 1개이다. ⓒ의 had opened도 말한 때보다 앞선 일을 나타내 옳으므로 이 보기의 5개는 실제 개수와 일치하지 않아 오답이다.",
+   "new_format": "한 편의 글에서 밑줄 친 다섯 곳(ⓐ~ⓔ) 중 어법상 틀린 것의 개수 고르기",
+   "design": "the + 형용사(복수 취급), each of + 복수명사(단수 취급), most of + 명사(of 뒤 명사에 수 일치), 전달동사 뒤 that절의 시제 일치(앞선 일은 과거완료)와 그 예외(일반적 진리·격언은 현재)를 그대로 평가한다. 독립된 여섯 문장의 조합 고르기를 한 편의 글 속 밑줄 다섯 곳의 개수형으로 바꾸어 문맥 안에서 하나하나 판정하게 했다. the homeless were(the + 형용사를 단수로 착각), most of the soup was(most를 늘 복수로 착각), a small act of kindness makes(시제 일치를 지나치게 적용)를 옳은 함정으로 두고 each of the volunteers were만 틀리게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 90/83 글자 381/326 정답 1",
+   "ERR  원문항이 개수형이 아닌데 개수 세기 형식 — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "1-128",
+  "grade": 1,
+  "no": 128,
+  "chapter": "CH 13",
+  "chapter_name": "특수구문",
+  "ref": {
+   "stem": "다음 문장의 빈칸에 들어갈 말이 순서대로 짝지어진 것은?",
+   "passage": "- Behind the mountains ________ a small, peaceful village.\n- There ________ a number of students waiting in the hallway.",
+   "c": [
+    "is - is",
+    "are - are",
+    "is - are",
+    "are - is",
+    "was - is"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 장소의 부사구가 문장 앞에 오면 ‘부사구 + 동사 + 주어’로 도치하고, 동사는 뒤에 오는 주어에 수를 맞춘다. There is/are도 뒤의 주어에 수를 맞추며, a number of + 복수명사는 복수 취급한다.\n풀이 순서: ① 두 문장 모두 주어가 동사 뒤에 있다. 빈칸 뒤에서 진짜 주어를 찾는다. → ② 첫째 문장의 주어(a small, peaceful village - 단수)와 둘째 문장의 주어(a number of students - 복수)의 수를 가른다. → ③ 순서대로 맞춘 is - are를 고른다.\n문장별 판정:\n정답 판단: 뒤의 주어 a small, peaceful village는 단수라 is, a number of students는 복수라 are가 알맞으므로 정답은 ③이다.\n선택지 분석:\n① [오답] a number of students는 복수라 둘째 빈칸에 is를 쓸 수 없으므로 오답이다.\n② [오답] a small, peaceful village는 단수라 첫째 빈칸에 are를 쓸 수 없으므로 오답이다.\n③ [정답] 뒤의 주어 a small, peaceful village는 단수라 is, a number of students는 복수라 are가 알맞으므로 정답이다.\n④ [오답] 두 빈칸의 수가 서로 바뀌었으므로 오답이다.\n⑤ [오답] 둘째 빈칸에 is를 쓸 수 없고 첫째 빈칸의 시제도 어울리지 않으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 문장의 빈칸에 들어갈 말이 순서대로 짝지어진 것은?",
+    "passage": "- Under the table ________ two sleeping cats.\n- There ________ a notebook on the chair.",
+    "c": [
+     "stands - is",
+     "are - are",
+     "is - is",
+     "is - are",
+     "are - is"
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "다음 문장의 빈칸에 들어갈 말이 순서대로 짝지어진 것은?",
+    "passage": "- Beyond the river ________ several small farms.\n- There ________ a large tree in front of the house.",
+    "c": [
+     "are - are",
+     "stands - is",
+     "are - is",
+     "is - is",
+     "is - are"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 문장의 빈칸에 들어갈 말이 순서대로 짝지어진 것은?",
+    "passage": "- On the hill near our village ________ an old castle.\n- There ________ many tourists near the main gate today.",
+    "c": [
+     "stands - is",
+     "stand - are",
+     "stands - are",
+     "is - is",
+     "are - is"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 문장의 빈칸에 들어갈 말이 순서대로 짝지어진 것은?",
+    "passage": "- At the end of this narrow road ________ a small cafe.\n- There ________ several cars parked outside the cafe.",
+    "c": [
+     "stands - is",
+     "are - are",
+     "is - are",
+     "is - is",
+     "are - is"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 문장의 빈칸에 들어갈 말이 순서대로 짝지어진 것은?",
+    "passage": "- Behind the tall office building downtown ________ three delivery trucks.\n- There ________ a narrow alley right beside it.",
+    "c": [
+     "is - is",
+     "stands - is",
+     "are - is",
+     "are - are",
+     "is - are"
+    ],
+    "ans": 3
+   }
+  },
+  "target_answer_position": 3,
+  "v1_pretest": {
+   "stem": "다음 중 어법상 틀린 것은?",
+   "passage": "",
+   "c": [
+    "Along the riverbank in our town stand rows of tall cherry trees.",
+    "There were a number of empty seats on the last train to Busan.",
+    "In the middle of the lake is two small islands covered with pine trees.",
+    "Look! Here comes the bus that goes to City Hall.",
+    "Right next to the bakery is a small flower shop run by my aunt."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 장소·방향의 부사(구)나 Here, There가 문장 앞에 오면 ‘부사(구) + 동사 + 주어’로 도치되고, 동사는 뒤에 오는 주어에 수를 맞춘다. a number of + 복수명사는 ‘많은 ~’이라는 뜻으로 복수 취급한다.\n풀이 순서: ① 문장 앞의 부사(구)를 빼고 동사 뒤에서 진짜 주어를 찾는다. → ② 주어가 단수인지 복수인지 보고 동사의 수와 견준다. → ③ 선택지 ③은 주어 two small islands가 복수인데 is를 썼다. 정답은 ③.\n문장별 판정:\n정답 판단: 부사구 In the middle of the lake 뒤의 주어 two small islands가 복수인데 단수 동사 is를 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 동사 앞의 the riverbank가 아니라 동사 뒤의 주어 rows of tall cherry trees에 수를 맞추므로 복수 동사 stand가 옳아 오답이다.\n② [오답] a number of empty seats는 ‘많은 빈자리’라는 복수이므로 There were가 옳아 오답이다.\n③ [정답] 주어 two small islands가 복수인데 단수 동사 is를 썼으므로 are로 고쳐야 해 정답이다.\n④ [오답] Here 뒤의 주어 the bus가 단수이므로 comes가 옳아 오답이다.\n⑤ [오답] 동사 뒤의 주어 a small flower shop이 단수이므로 is가 옳아 오답이다.",
+   "new_format": "부사(구) 도치·There·Here 구문 다섯 문장 중 동사의 수 일치가 어법상 틀린 것 고르기",
+   "design": "장소·방향의 부사(구)나 There, Here가 문장 앞에 와서 ‘부사(구) + 동사 + 주어’로 도치될 때 동사를 뒤의 주어에 맞추고, a number of + 복수명사는 복수로 취급한다는 규칙을 그대로 평가한다. 두 빈칸 짝 고르기를 다섯 문장 판정형으로 바꾸고 be동사뿐 아니라 stand, come 같은 일반동사의 도치도 넣었다. 동사 앞의 명사(the riverbank, the lake, the bakery)에 수를 맞추거나 a number of를 단수로 보는 실수를 함정으로 두고, 단수 주어에 is를 쓴 옳은 문장(⑤)을 함께 넣어 is만 보고 고를 수 없게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 63/26 글자 244/112 정답 3",
+   "ERR  원문항보다 너무 김: 낱말 63 > 상한 39 (원문항 26) — 난이도가 올라감"
+  ]
+ }
+]

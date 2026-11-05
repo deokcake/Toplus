@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-09-30T12:38:28.406Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "I remember to visit that museum.",
+      "1": "I remembered visiting that museum.",
+      "2": "I remember visiting that museum.",
+      "3": "I remember I will visit that museum.",
+      "4": "I remember visit that museum."
+    },
+    "expl": "[선택지별 구체 해설]\n핵심 규칙: remember + 동명사는 ‘(과거에) ~한 것을 기억하다’, remember + to부정사는 ‘(앞으로) ~할 것을 기억하다’라는 뜻이다. 주절의 시제도 우리말(기억한다/기억했다)에 맞춘다.\n① [오답] remember + to부정사는 앞으로 할 일을 기억한다는 뜻이라 우리말과 다르다.\n② [오답] remembered는 과거에 기억했다는 뜻이라 우리말 ‘기억한다’와 시제가 다르다.\n③ [정답] remember + 동명사로 과거에 한 일을 지금 기억한다는 우리말 뜻에 맞는다. 정답이다.\n④ [오답] I will …은 앞으로 할 일을 나타내 우리말 ‘~했던 것’과 맞지 않는다.\n⑤ [오답] remember 뒤에 동사원형을 바로 쓸 수 없다. 과거에 한 일을 기억한다는 뜻이면 동명사를 써야 한다.\n풀이 순서: 발문의 의미·형태 조건을 확인하고 각 보기의 실제 표현을 대조한다. 오류가 있는 부분은 그 이유와 교정형을 확인한 뒤 정답이 하나인지 점검한다.",
+    "passage": "( remember / visit / that / museum / I / . )\n(나는 그 박물관을 방문했던 것을 기억한다.)",
+    "stem": "다음 중 주어진 단어를 활용하여 우리말 문장에 맞도록 영작한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-09-30T07:01:18.000Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-09-30T05:29:07.517Z",
+      "text": "주어진 단어 중 불필요한 단어인 to가 포함되어 있음"
+    }
+  },
+  "tab": "bijqceul",
+  "updatedAt": "2026-09-30T12:38:28.406Z",
+  "verdict": null,
+  "verdictAt": "2026-09-30T12:38:27.390Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-09-30T12:38:28.406Z",
+      "what": "확인 완료"
+    }
+  }
+}

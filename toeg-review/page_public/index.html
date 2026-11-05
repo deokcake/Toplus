@@ -1,0 +1,575 @@
+<title>TOEG 감수 공개판</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+<style>
+:root{
+  --bg:#EEF1F4; --surface:#FFFFFF; --surface-2:#F6F8FA; --ink:#17202B; --muted:#5B6776; --faint:#8A95A3;
+  --line:#D8DEE5; --line-strong:#B9C3CE; --accent:#1C6680; --accent-ink:#FFFFFF; --accent-soft:#E1EEF2;
+  --ok:#2E7D4F; --ok-soft:#E3F2E8; --fxp:#9A6A00; --fxp-soft:#FBF0D2; --fxc:#C2531B; --fxc-soft:#FBE6D9; --bad:#B8322A; --bad-soft:#F8DEDB;
+  --edit:#FFF8DB; --edit-line:#E0B83C; --focus:#1C6680; --shadow:0 1px 2px rgba(23,32,43,.06),0 4px 14px rgba(23,32,43,.05);
+  --sans:"IBM Plex Sans KR",system-ui,-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  --serif:"Source Serif 4","IBM Plex Sans KR",Georgia,"Apple SD Gothic Neo",serif;
+  --mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --bg:#0F151B; --surface:#161E27; --surface-2:#1B2530; --ink:#E4EAF0; --muted:#9CA8B6; --faint:#6F7C8B;
+    --line:#2A3542; --line-strong:#3A4757; --accent:#63B5CF; --accent-ink:#0B1A20; --accent-soft:#18323C;
+    --ok:#6CC592; --ok-soft:#173026; --fxp:#E3B84F; --fxp-soft:#352C12; --fxc:#EE9362; --fxc-soft:#3A2418; --bad:#F07B72; --bad-soft:#3B1D1B;
+    --edit:#2E2A14; --edit-line:#B8952A; --focus:#63B5CF; --shadow:0 1px 2px rgba(0,0,0,.3);
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --bg:#0F151B; --surface:#161E27; --surface-2:#1B2530; --ink:#E4EAF0; --muted:#9CA8B6; --faint:#6F7C8B;
+  --line:#2A3542; --line-strong:#3A4757; --accent:#63B5CF; --accent-ink:#0B1A20; --accent-soft:#18323C;
+  --ok:#6CC592; --ok-soft:#173026; --fxp:#E3B84F; --fxp-soft:#352C12; --fxc:#EE9362; --fxc-soft:#3A2418; --bad:#F07B72; --bad-soft:#3B1D1B;
+  --edit:#2E2A14; --edit-line:#B8952A; --focus:#63B5CF; --shadow:0 1px 2px rgba(0,0,0,.3);
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:14px;line-height:1.55}
+button,select,textarea,input{font:inherit;color:inherit}
+button{cursor:pointer}
+:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.app{max-width:1320px;margin:0 auto;padding-inline:16px;padding-block:0 48px}
+
+/* 상단 고르기 막대 */
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding-block:12px}
+.bar-top{display:flex;flex-wrap:wrap;align-items:center;gap:8px 16px;margin-bottom:10px}
+.brand{font-size:17px;font-weight:700;letter-spacing:-.01em;margin-right:auto}
+.brand span{font-size:12px;font-weight:400;color:var(--muted);margin-left:8px}
+.pickers{display:flex;flex-wrap:wrap;align-items:flex-end;gap:10px}
+.pick{display:flex;flex-direction:column;gap:3px}
+.pick label{font-size:11px;font-weight:600;color:var(--muted);letter-spacing:.04em}
+.pick select{appearance:none;-webkit-appearance:none;border:1px solid var(--line-strong);border-radius:8px;background:var(--surface) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M1 1l4 4 4-4' fill='none' stroke='%235B6776' stroke-width='1.5'/%3E%3C/svg%3E") no-repeat right 10px center;padding:7px 30px 7px 10px;font-size:14px;font-weight:500;min-height:38px;max-width:100%}
+.pick select:hover{border-color:var(--accent)}
+#typeSel{min-width:190px} #gradeSel{min-width:90px} #noSel{min-width:260px} #filterSel{min-width:180px}
+.pager{display:flex;gap:6px}
+.btn{border:1px solid var(--line-strong);background:var(--surface);border-radius:8px;padding:7px 12px;font-weight:500;min-height:38px}
+.btn:hover{border-color:var(--accent)}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.btn.small{min-height:30px;padding:4px 10px;font-size:13px}
+.btn:disabled{opacity:.5;cursor:default}
+.actions{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.state{font-size:12px;color:var(--muted)}
+.state.err{color:var(--bad)}
+.progress{font-size:12px;color:var(--muted)}
+.progress b{color:var(--ink);font-family:var(--mono)}
+
+main{display:flex;flex-direction:column;gap:16px;padding-top:16px}
+.itemhead{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 14px}
+.itemhead h1{margin:0;font-size:24px;letter-spacing:-.02em}
+.itemhead .ch{color:var(--muted)}
+
+.compare{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;align-items:start}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);min-width:0}
+.card>header{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:10px 16px;border-bottom:1px solid var(--line);font-size:13px;min-height:46px}
+.card>header .who{font-weight:600}
+.card>header .tag{margin-left:auto;font-size:12px;color:var(--muted)}
+.card .body{padding:16px;display:flex;flex-direction:column;gap:12px}
+.card.var>header{background:var(--accent-soft)}
+.stem{font-weight:600;font-size:15px;line-height:1.6}
+.passage{font-family:var(--serif);font-size:15.5px;line-height:1.7;background:var(--surface-2);border:1px solid var(--line);border-radius:8px;padding:10px 14px;overflow-wrap:anywhere}
+u{text-decoration-thickness:1.5px;text-underline-offset:3px}
+.choices{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px}
+.choices li{display:grid;grid-template-columns:30px 1fr;gap:6px;align-items:baseline;font-family:var(--serif);font-size:15px;line-height:1.55;padding:4px 8px;border-radius:6px;overflow-wrap:anywhere}
+.choices li .num{font-family:var(--sans);color:var(--muted);text-align:center}
+.choices li.right{background:var(--ok-soft)}
+.choices li.right .num{color:var(--ok);font-weight:700}
+.anskey{font-size:13px;color:var(--muted)}
+.anskey b{color:var(--ok)}
+.warnbox{border:1px solid var(--bad);background:var(--bad-soft);border-radius:8px;padding:8px 12px;font-size:13px}
+.warnbox b{color:var(--bad)}
+
+/* 바로 고치기 */
+.toolbar{display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-size:12px;color:var(--muted)}
+.toolbar .ubtn{border:1px solid var(--line-strong);background:var(--surface);border-radius:6px;min-width:32px;min-height:30px;font-weight:700;text-decoration:underline;text-underline-offset:3px}
+.toolbar .ubtn:hover{border-color:var(--accent)}
+[contenteditable="true"]{outline:none;border-radius:6px;transition:box-shadow .12s,background .12s;cursor:text}
+[contenteditable="true"]:hover{box-shadow:0 0 0 1px var(--line-strong)}
+[contenteditable="true"]:focus{box-shadow:0 0 0 2px var(--focus);background:var(--surface)}
+.stem[contenteditable="true"]{padding:2px 6px;margin:0 -6px}
+.choices li .txt[contenteditable="true"]{padding:0 4px;margin:0 -4px}
+.changed{background:var(--edit)!important;box-shadow:inset 3px 0 0 var(--edit-line)}
+.passage.empty-ok:empty::before,.stem:empty::before,.txt:empty::before{content:attr(data-ph);color:var(--faint);font-family:var(--sans);font-size:13px;font-weight:400}
+.choices li .num.pick-ans{border:1px solid transparent;background:none;border-radius:50%;width:26px;height:26px;padding:0;font-size:16px;line-height:1;color:var(--muted)}
+.choices li .num.pick-ans:hover{border-color:var(--ok);color:var(--ok)}
+.choices li.right .num.pick-ans{background:var(--ok);color:var(--surface)}
+details.expl{border-top:1px solid var(--line);padding-top:10px;font-size:13px;color:var(--muted)}
+details.expl summary{cursor:pointer;font-weight:500;color:var(--ink)}
+details.expl .explbox{white-space:pre-wrap;margin-top:8px;max-height:360px;overflow:auto;padding:6px 8px;border:1px solid var(--line);border-radius:6px;background:var(--surface-2);color:var(--ink)}
+details.orig{font-size:13px;color:var(--muted)}
+details.orig summary{cursor:pointer}
+.editflag{font-size:12px;font-weight:600;color:var(--fxp)}
+.confirm{display:inline-flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:13px;background:var(--bad-soft);border:1px solid var(--bad);border-radius:8px;padding:6px 10px}
+
+.pill{display:inline-flex;align-items:center;gap:6px;border-radius:999px;padding:3px 10px;font-weight:600;font-size:13px}
+.pill.ok{background:var(--ok-soft);color:var(--ok)}.pill.fxp{background:var(--fxp-soft);color:var(--fxp)}.pill.fxc{background:var(--fxc-soft);color:var(--fxc)}.pill.bad{background:var(--bad-soft);color:var(--bad)}
+.bottom{display:grid;grid-template-columns:minmax(0,3fr) minmax(0,2fr);gap:16px;align-items:start}
+.review .body{display:grid;grid-template-columns:90px 1fr;gap:10px 14px;align-items:start}
+.review dt{font-size:12px;color:var(--muted);padding-top:2px}
+.review dd{margin:0;line-height:1.7}
+.tags{display:flex;flex-wrap:wrap;gap:6px}
+.tags span{font-size:12px;border:1px solid var(--line);border-radius:6px;padding:1px 8px;background:var(--surface-2)}
+.mine .body{gap:14px}
+.mine .lab{font-size:12px;color:var(--muted);display:block;margin-bottom:4px}
+.vsel{width:100%;border:1px solid var(--line-strong);border-radius:8px;background:var(--surface);padding:7px 10px;min-height:38px}
+.check{display:inline-flex;align-items:center;gap:8px;font-weight:500}
+.check input{width:18px;height:18px;accent-color:var(--ok)}
+textarea.memo{width:100%;min-height:72px;border:1px solid var(--line-strong);border-radius:8px;padding:8px 10px;background:var(--surface);resize:vertical}
+.note{font-size:12px;color:var(--muted)}
+kbd{font-family:var(--mono);font-size:11px;border:1px solid var(--line-strong);border-bottom-width:2px;border-radius:4px;padding:0 4px;background:var(--surface)}
+.loading{padding:40px;text-align:center;color:var(--muted)}
+.toast{position:fixed;left:50%;bottom:calc(env(safe-area-inset-bottom,0px) + 20px);transform:translateX(-50%);background:var(--ink);color:var(--surface);padding:8px 14px;border-radius:8px;font-size:13px;z-index:20}
+
+@media (max-width:900px){
+  .compare,.bottom{grid-template-columns:1fr}
+  .review .body{grid-template-columns:1fr}
+  #typeSel,#noSel,#filterSel{min-width:0;width:100%}
+  .pick{flex:1 1 44%}
+  .bar{position:static}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="app">
+  <header class="bar">
+    <div class="bar-top">
+      <div class="brand">TOEG 감수 공개판<span>기준 문항과 변형 문항을 나란히 보고 바로 고칩니다 · 고친 내용은 이 브라우저에만 저장됩니다</span></div>
+      <span class="progress" id="progress"></span>
+      <span class="state" id="saveState" aria-live="polite"></span>
+      <div class="actions">
+        <button class="btn" id="exportOne" type="button">이 유형 엑셀 받기</button>
+        <button class="btn" id="exportAll" type="button">5개 유형 한꺼번에(zip)</button>
+      </div>
+    </div>
+    <div class="pickers">
+      <div class="pick"><label for="typeSel">유형</label><select id="typeSel"></select></div>
+      <div class="pick"><label for="gradeSel">급수</label><select id="gradeSel"></select></div>
+      <div class="pick"><label for="noSel">문항 번호</label><select id="noSel"></select></div>
+      <div class="pick"><label for="filterSel">보기</label><select id="filterSel"></select></div>
+      <div class="pager"><button class="btn" type="button" id="prevBtn" title="이전 문항 (←)">← 이전</button><button class="btn" type="button" id="nextBtn" title="다음 문항 (→)">다음 →</button></div>
+    </div>
+  </header>
+  <main id="main"><div class="loading">문항을 불러오는 중입니다…</div></main>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<script>
+(function(){
+"use strict";
+const V = ["적합","수정(표기)","수정(내용)","부적합"];
+const VC = {"적합":"ok","수정(표기)":"fxp","수정(내용)":"fxc","부적합":"bad"};
+const CIRC = "①②③④⑤";
+const FILTERS = [["all","전체 문항"],["적합","적합만"],["수정(표기)","수정(표기)만"],["수정(내용)","수정(내용)만"],["부적합","부적합만"],["mine","내가 고친 문항"],["todo","확인 전 문항"]];
+const S = {idx:null, ref:null, byKey:{}, type:"B", key:null, filter:"all", edits:{},
+           db:null, dl:null, unsub:null, confirmRevert:false, pendingRender:false, rnOf:{}};
+const $ = s => document.querySelector(s);
+
+/* ---------- 도우미 ---------- */
+function esc(s){ return String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+function rich(s){ return esc(s).replace(/&lt;(\/?)u&gt;/g, "<$1u>").replace(/\n/g, "<br>"); }
+function vcls(v){ return VC[v] || "fxc"; }
+function norm(s){ return String(s ?? "").replace(/\r/g, "").replace(/ /g, " ").replace(/\n+$/, ""); }
+function toast(msg){ const t = document.createElement("div"); t.className = "toast"; t.textContent = msg; document.body.appendChild(t); setTimeout(() => t.remove(), 2600); }
+function setState(msg, err){ const el = $("#saveState"); el.textContent = msg || ""; el.classList.toggle("err", !!err); }
+async function getJSON(url){ const r = await fetch(url); if(!r.ok) throw new Error(url + " " + r.status); return r.json(); }
+function localGet(k){ try { return JSON.parse(localStorage.getItem(k) || "null"); } catch(e){ return null; } }
+function localSet(k, v){ try { localStorage.setItem(k, JSON.stringify(v)); } catch(e){} }
+
+/* 편집 칸 → 원본 표기(<u>…</u>, 줄바꿈)로 */
+function serialize(el){
+  let out = "";
+  const walk = (node, inU) => {
+    node.childNodes.forEach(n => {
+      if(n.nodeType === 3){ out += n.nodeValue; return; }
+      if(n.nodeType !== 1) return;
+      const tag = n.tagName;
+      if(tag === "BR"){ out += "\n"; return; }
+      const block = tag === "DIV" || tag === "P" || tag === "LI";
+      if(block && out && !out.endsWith("\n")) out += "\n";
+      const deco = (n.style && (n.style.textDecorationLine || n.style.textDecoration)) || "";
+      const u = tag === "U" || /underline/.test(deco);
+      if(u && !inU){ out += "<u>"; walk(n, true); out += "</u>"; } else walk(n, inU);
+      if(block && !out.endsWith("\n")) out += "\n";
+    });
+  };
+  walk(el, false);
+  return norm(out.replace(/<u><\/u>/g, "").replace(/<\/u><u>/g, ""));
+}
+
+/* ---------- 상태 ---------- */
+function row(key){ return S.byKey[S.type] && S.byKey[S.type][key]; }
+function editOf(key){ return S.edits[key] || null; }
+function hasEdit(e){ return !!(e && e.edit && Object.keys(e.edit).length); }
+function effVerdict(key){ const e = editOf(key); const r = row(key); return (e && e.verdict) || (r && r.v); }
+function effItem(key){
+  const r = row(key); const ed = (editOf(key) || {}).edit || {};
+  return {stem: ed.stem ?? r.stem, passage: ed.passage ?? r.passage, c: ed.c ?? r.c, ans: ed.ans ?? r.ans, expl: ed.expl ?? r.expl};
+}
+function matches(key, f){
+  f = f || S.filter; if(f === "all") return true;
+  const e = editOf(key);
+  if(f === "mine") return hasEdit(e);
+  if(f === "todo") return !(e && e.done);
+  return effVerdict(key) === f;
+}
+
+/* ---------- 고르기 막대 ---------- */
+function renderPickers(){
+  const key = S.key; const [g] = key.split("-"); const verds = S.idx.verdicts[key] || {};
+  $("#typeSel").innerHTML = S.idx.types.split("").map(t => `<option value="${t}" ${t === S.type ? "selected" : ""}>${t} 유형 · ${esc(verds[t] || "")}</option>`).join("");
+  $("#gradeSel").innerHTML = Object.keys(S.idx.grades).map(x => `<option value="${x}" ${x === g ? "selected" : ""}>${x}급</option>`).join("");
+  const chs = S.idx.grades[g] || [];
+  $("#noSel").innerHTML = chs.map(c => {
+    const opts = c.nos.map(n => { const k = g + "-" + n; const e = editOf(k);
+      if(k !== key && !matches(k)) return "";
+      const marks = (hasEdit(e) ? " ✎" : "") + (e && e.done ? " ✓" : "");
+      return `<option value="${k}" ${k === key ? "selected" : ""}>${n}번 · ${esc(effVerdict(k))}${marks}</option>`; }).join("");
+    return opts ? `<optgroup label="${esc(c.ch.replace(" ", ""))} ${esc(c.chn)}">${opts}</optgroup>` : "";
+  }).join("");
+  const all = S.idx.order;
+  $("#filterSel").innerHTML = FILTERS.map(([f, label]) => `<option value="${f}" ${f === S.filter ? "selected" : ""}>${label} (${all.filter(k => matches(k, f)).length})</option>`).join("");
+  const done = all.filter(k => (editOf(k) || {}).done).length;
+  const mine = all.filter(k => hasEdit(editOf(k))).length;
+  $("#progress").innerHTML = `${S.type} 유형 · 확인 완료 <b>${done}</b>/${all.length} · 고친 문항 <b>${mine}</b>`;
+}
+
+/* ---------- 본문 ---------- */
+function choicesHTML(it, inline){
+  const a = parseInt(it.ans, 10);
+  if(inline) return `<p class="anskey">보기는 본문 속 번호 · 정답 <b>${CIRC[a-1] || it.ans}</b> ${rich(it.c[a-1] || "")}</p>`;
+  return `<ol class="choices">` + it.c.map((c, i) => `<li class="${i + 1 === a ? "right" : ""}"><span class="num">${CIRC[i]}</span><span>${rich(c)}</span></li>`).join("") + `</ol>`;
+}
+function refBody(ref){
+  return `<div class="stem">${rich(ref.stem)}</div>` + (ref.passage ? `<div class="passage">${rich(ref.passage)}</div>` : "") + choicesHTML(ref, ref.inline);
+}
+function varBody(key){
+  const r = row(key); const it = effItem(key); const a = parseInt(it.ans, 10);
+  const ch = (field, v, o) => norm(v) !== norm(o) ? " changed" : "";
+  return `
+    <div class="toolbar"><span>글자를 눌러 바로 고칩니다. 밑줄: 글자를 고른 뒤</span><button type="button" class="ubtn" id="uBtn" title="밑줄 (Ctrl/⌘+U)">U</button><span>· 정답: 보기 번호를 누르세요</span></div>
+    <div class="stem${ch("stem", it.stem, r.stem)}" contenteditable="true" data-field="stem" data-ph="발문을 입력하세요" spellcheck="false">${rich(it.stem)}</div>
+    <div class="passage empty-ok${ch("passage", it.passage, r.passage)}" contenteditable="true" data-field="passage" data-ph="본문 없음 · 눌러서 추가" spellcheck="false">${rich(it.passage)}</div>
+    <ol class="choices">${it.c.map((c, i) => `<li class="${i + 1 === a ? "right" : ""}${ch("c", c, r.c[i])}"><button type="button" class="num pick-ans" data-ans="${i+1}" aria-pressed="${i + 1 === a}" title="${i+1}번을 정답으로">${CIRC[i]}</button><span class="txt" contenteditable="true" data-field="c${i}" data-ph="보기 ${i+1}" spellcheck="false">${rich(c)}</span></li>`).join("")}</ol>
+    <details class="expl" ${norm(it.expl) !== norm(r.expl) ? "open" : ""}><summary>해설 보기·고치기</summary><div class="explbox${ch("expl", it.expl, r.expl)}" contenteditable="true" data-field="expl" spellcheck="false">${esc(it.expl)}</div></details>`;
+}
+function renderMain(){
+  const key = S.key; const r = row(key); const ref = S.ref[key];
+  if(!r || !ref){ $("#main").innerHTML = '<div class="loading">문항을 불러오는 중입니다…</div>'; return; }
+  const [g, n] = key.split("-"); const e = editOf(key) || {}; const edited = hasEdit(e);
+  const aRef = parseInt(ref.ans, 10); const itAns = parseInt(effItem(key).ans, 10);
+  const autos = (r.auto || "").split(" / ").filter(Boolean).map(s => `<span>${esc(s)}</span>`).join("");
+  const refNote = ref.note ? `<div class="warnbox"><b>원문항 확인 사항</b> ${esc(ref.note)}</div>` : "";
+  const revert = !edited ? "" : S.confirmRevert
+    ? `<span class="confirm">고친 내용을 모두 지울까요? <button class="btn small" type="button" id="revertYes">지우기</button><button class="btn small" type="button" id="revertNo">취소</button></span>`
+    : `<button class="btn small" type="button" id="revertBtn">원래대로</button>`;
+  $("#main").innerHTML = `
+  <section class="itemhead"><h1>${g}급 ${n}번</h1><span class="ch">${esc(r.ch.replace(" ", ""))} ${esc(r.chn)}</span></section>
+  <div class="compare">
+    <article class="card ref"><header><span class="who">기준 문항</span><span class="tag">정답 ${CIRC[aRef-1] || ""}</span></header>
+      <div class="body">${refNote}${refBody(ref)}</div></article>
+    <article class="card var"><header><span class="who">${S.type} 유형 변형 문항</span><span id="editFlag">${edited ? '<span class="editflag">✎ 고친 문항</span>' : ""}</span>${revert}<span class="tag" id="varAns">정답 ${CIRC[itAns-1] || ""}</span></header>
+      <div class="body" id="varBody">${varBody(key)}
+      ${edited ? `<details class="orig"><summary>고치기 전 원래 문항 보기</summary><div style="margin-top:8px">${refBody({stem:r.stem, passage:r.passage, c:r.c, ans:r.ans, inline:false})}</div></details>` : ""}</div></article>
+  </div>
+  <div class="bottom">
+    <section class="card review"><header><span class="who">Claude 감수 의견</span><span class="pill ${vcls(r.v)}">${esc(r.v)}</span></header>
+      <dl class="body">
+        <dt>판정 근거</dt><dd>${esc(r.why)}</dd>
+        <dt>수정 제안</dt><dd>${r.fix ? esc(r.fix) : "없음"}</dd>
+        <dt>자동 점검</dt><dd>${autos ? `<div class="tags">${autos}</div>` : "특이 사항 없음"}</dd>
+      </dl></section>
+    <section class="card mine"><header><span class="who">내 검토</span><span class="tag">${e.updatedAt ? "마지막 저장 " + new Date(e.updatedAt).toLocaleString("ko-KR", {month:"numeric", day:"numeric", hour:"2-digit", minute:"2-digit"}) : "아직 저장한 내용 없음"}</span></header>
+      <div class="body">
+        <div><label class="lab" for="myVerdict">내 판정</label><select class="vsel" id="myVerdict">
+          <option value="">Claude 판정 따름 (${esc(r.v)})</option>${V.map(v => `<option value="${v}" ${e.verdict === v ? "selected" : ""}>${v}</option>`).join("")}</select></div>
+        <label class="check"><input type="checkbox" id="doneBox" ${e.done ? "checked" : ""}> 이 문항 확인 완료</label>
+        <div><label class="lab" for="memo">메모</label><textarea class="memo" id="memo" placeholder="엑셀 '검토 메모' 열에 들어갑니다">${esc(e.note || "")}</textarea></div>
+        <p class="note">단축키: <kbd>←</kbd> <kbd>→</kbd> 이전·다음 문항 (글자를 고치는 중이 아닐 때)</p>
+      </div></section>
+  </div>`;
+}
+function renderAll(){ renderPickers(); renderMain(); }
+function busy(){ const a = document.activeElement; return !!(a && (a.isContentEditable || a.id === "memo")); }
+
+/* ---------- 이동 ---------- */
+function go(key){
+  if(!key) return; flushInline(); S.key = key; S.confirmRevert = false;
+  try { history.replaceState(null, "", "#" + S.type + "-" + key); } catch(e){}
+  renderAll(); window.scrollTo({top:0});
+}
+function step(dir){
+  const list = S.idx.order; let i = list.indexOf(S.key);
+  for(let t = 0; t < list.length; t++){ i = (i + dir + list.length) % list.length; if(matches(list[i])) return go(list[i]); }
+  toast("조건에 맞는 문항이 없습니다.");
+}
+async function setType(t){
+  if(t === S.type) return;
+  flushInline(); S.type = t; S.confirmRevert = false;
+  $("#main").innerHTML = '<div class="loading">' + t + ' 유형을 불러오는 중입니다…</div>';
+  await ensureType(t); subscribe(t);
+  try { history.replaceState(null, "", "#" + S.type + "-" + S.key); } catch(e){}
+  renderAll();
+}
+async function ensureType(t){
+  if(S.byKey[t]) return;
+  const rows = await getJSON("data/" + t + ".json");
+  const m = {}; rows.forEach(r => m[r.g + "-" + r.n] = r); S.byKey[t] = m;
+}
+
+/* ---------- 저장 ---------- */
+function subscribe(t){
+  if(S.unsub){ try { S.unsub(); } catch(e){} S.unsub = null; }
+  if(!S.db){ S.edits = localGet("toeg-pub-edits-" + t) || {}; return; }
+  S.unsub = S.db.collection("t_" + t).limit(1000).onSnapshot(snap => {
+    if(t !== S.type) return;
+    const m = {}; snap.docs.forEach(d => { if(d.exists) m[d.id] = d.data(); });
+    S.edits = m; renderPickers();
+    if(busy() || inlineTimer) S.pendingRender = true; else renderMain();
+  }, () => setState("저장된 내용을 불러오지 못했습니다. 새로고침해 주세요.", true));
+}
+const chain = {};
+function persist(t, key, body){
+  const id = t + "/" + key;
+  const job = (chain[id] || Promise.resolve()).then(async () => {
+    setState("저장 중…");
+    if(!S.db){
+      const all = localGet("toeg-pub-edits-" + t) || {};
+      if(body) all[key] = body; else delete all[key];
+      localSet("toeg-pub-edits-" + t, all); setState("이 브라우저에 저장됨"); return;
+    }
+    const ref = S.db.collection("t_" + t).doc(key);
+    const run = () => body ? ref.set(body) : ref.delete();
+    try { await run(); }
+    catch(e){ if(e && e.code === "unavailable"){ await new Promise(r => setTimeout(r, 600 + Math.random() * 600)); await run(); } else throw e; }
+    setState("저장됨 " + new Date().toLocaleTimeString("ko-KR", {hour:"2-digit", minute:"2-digit"}));
+  }).catch(e => {
+    const code = e && e.code;
+    setState(code === "invalid_argument" ? "저장 권한이 없어 저장하지 못했습니다." :
+             code === "quota_exceeded" ? "저장 공간이 가득 찼습니다." : "저장하지 못했습니다. 잠시 뒤 다시 시도해 주세요.", true);
+  });
+  chain[id] = job; return job;
+}
+function cleanBody(b){
+  const out = {};
+  if(b.verdict) out.verdict = b.verdict;
+  if(b.note) out.note = b.note;
+  if(b.done) out.done = true;
+  if(b.edit && Object.keys(b.edit).length) out.edit = b.edit;
+  if(!Object.keys(out).length) return null;
+  out.updatedAt = new Date().toISOString();
+  return out;
+}
+function update(key, patch, t){
+  t = t || S.type;
+  const cur = Object.assign({}, (t === S.type ? editOf(key) : null) || {});
+  Object.assign(cur, patch);
+  const body = cleanBody(cur);
+  if(t === S.type){ if(body) S.edits[key] = body; else delete S.edits[key]; }
+  return persist(t, key, body);
+}
+
+/* 바로 고치기: 화면의 칸에서 읽어 원본과 다른 것만 저장 */
+let inlineTimer = null; let inlineCtx = null;
+function readInline(){
+  const box = $("#varBody"); if(!box) return null;
+  const get = f => { const el = box.querySelector(`[data-field="${f}"]`); return el ? (f === "expl" ? norm(el.innerText) : serialize(el)) : null; };
+  const ansBtn = box.querySelector(".pick-ans[aria-pressed='true']");
+  return {stem: get("stem"), passage: get("passage"), c: [0,1,2,3,4].map(i => get("c" + i)), ans: ansBtn ? ansBtn.dataset.ans : null, expl: get("expl")};
+}
+function diffEdit(r, v){
+  const ed = {};
+  if(v.stem !== null && v.stem !== norm(r.stem)) ed.stem = v.stem;
+  if(v.passage !== null && v.passage !== norm(r.passage)) ed.passage = v.passage;
+  if(v.c.every(x => x !== null) && v.c.some((x, i) => x !== norm(r.c[i]))) ed.c = v.c;
+  if(v.ans !== null && String(v.ans) !== String(r.ans)) ed.ans = String(v.ans);
+  if(v.expl !== null && v.expl !== norm(r.expl)) ed.expl = v.expl;
+  return ed;
+}
+function scheduleInline(){
+  inlineCtx = {t: S.type, key: S.key};
+  clearTimeout(inlineTimer); inlineTimer = setTimeout(flushInline, 1000);
+  setState("고치는 중…");
+}
+function flushInline(){
+  if(!inlineTimer) return; clearTimeout(inlineTimer); inlineTimer = null;
+  const ctx = inlineCtx; if(!ctx || ctx.t !== S.type || ctx.key !== S.key) return;
+  const r = row(ctx.key); const v = readInline(); if(!r || !v) return;
+  const ed = diffEdit(r, v);
+  const prev = JSON.stringify((editOf(ctx.key) || {}).edit || {});
+  if(JSON.stringify(ed) === prev){ setState(""); return; }
+  update(ctx.key, {edit: ed}, ctx.t);
+  markChanged();
+  S.pendingRender = true;
+}
+function markChanged(){
+  const box = $("#varBody"); if(!box) return; const r = row(S.key); const v = readInline(); if(!v) return;
+  const set = (sel, on) => { const el = box.querySelector(sel); if(el) el.classList.toggle("changed", on); };
+  set('[data-field="stem"]', v.stem !== norm(r.stem));
+  set('[data-field="passage"]', v.passage !== norm(r.passage));
+  set('[data-field="expl"]', v.expl !== norm(r.expl));
+  box.querySelectorAll(".choices li").forEach((li, i) => li.classList.toggle("changed", v.c[i] !== norm(r.c[i])));
+  const edited = hasEdit(editOf(S.key));
+  const flag = $("#editFlag"); if(flag) flag.innerHTML = edited ? '<span class="editflag">✎ 고친 문항</span>' : "";
+  const a = parseInt(v.ans, 10); const va = $("#varAns"); if(va) va.textContent = "정답 " + (CIRC[a-1] || "");
+  renderPickers();
+}
+
+/* ---------- 엑셀 ---------- */
+function xcell(ref, text, s){
+  const t = String(text ?? "").replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F]/g, "");
+  return `<c r="${ref}" s="${s}" t="inlineStr"><is><t xml:space="preserve">${esc(t)}</t></is></c>`;
+}
+function setCell(body, ref, text){
+  const re = new RegExp('<c r="' + ref + '"([^>]*?)(?:/>|>[\\s\\S]*?</c>)');
+  return body.replace(re, (m, attrs) => { const s = (attrs.match(/s="(\d+)"/) || [0, "0"])[1]; return xcell(ref, text, s); });
+}
+function changeSummary(e){
+  const ed = e.edit || {}; const parts = [];
+  if("stem" in ed) parts.push("발문"); if("passage" in ed) parts.push("본문");
+  if(ed.c) parts.push("보기"); if("ans" in ed) parts.push("정답"); if("expl" in ed) parts.push("해설");
+  const when = e.updatedAt ? e.updatedAt.slice(0, 10) : "";
+  return parts.length ? parts.join(", ") + " 수정" + (when ? " (" + when + ")" : "") : "";
+}
+async function buildXlsx(t, edits){
+  const tpl = await getJSON("tpl/" + t + ".json");
+  const zip = await JSZip.loadAsync(tpl.b64, {base64: true});
+  const path = "xl/worksheets/sheet1.xml";
+  let sh = await zip.file(path).async("string");
+  const st = S.idx.style[t];
+  const headS = (sh.match(/<c r="I1"[^>]*?s="(\d+)"/) || [0, "0"])[1];
+  sh = sh.replace(/<dimension ref="A1:V(\d+)"\/>/, '<dimension ref="A1:Y$1"/>');
+  sh = sh.replace(/<col min="23" max="16384" width="9" style="(\d+)"\/>/, (m, s) =>
+    `<col min="23" max="23" width="14" style="${s}" customWidth="1"/><col min="24" max="24" width="40" style="${s}" customWidth="1"/><col min="25" max="25" width="30" style="${s}" customWidth="1"/><col min="26" max="16384" width="9" style="${s}"/>`);
+  const byRn = {};
+  Object.entries(edits).forEach(([k, e]) => { const rn = S.rnOf[k]; if(rn) byRn[rn] = e; });
+  sh = sh.replace(/<row r="(\d+)"([^>]*)>([\s\S]*?)<\/row>/g, (m, rn, attrs, body) => {
+    attrs = attrs.replace('spans="1:22"', 'spans="1:25"');
+    if(rn === "1") return `<row r="1"${attrs}>${body}${xcell("W1", "검토자 판정", headS)}${xcell("X1", "검토 메모", headS)}${xcell("Y1", "수정 내역", headS)}</row>`;
+    const e = byRn[rn]; if(!e) return `<row r="${rn}"${attrs}>${body}</row>`;
+    const ed = e.edit || {};
+    const map = {I: ed.stem, J: ed.passage, P: ed.ans, Q: ed.expl};
+    if(ed.c) ["K","L","M","N","O"].forEach((col, i) => map[col] = ed.c[i]);
+    Object.entries(map).forEach(([col, v]) => { if(v !== undefined) body = setCell(body, col + rn, v); });
+    const ver = e.verdict || "";
+    body += xcell("W" + rn, ver, ver ? st[ver] : st.text) + xcell("X" + rn, e.note || "", st.text) + xcell("Y" + rn, changeSummary(e), st.text);
+    return `<row r="${rn}"${attrs}>${body}</row>`;
+  });
+  zip.file(path, sh);
+  return zip.generateAsync({type:"blob", compression:"DEFLATE"});
+}
+async function editsFor(t){
+  if(t === S.type) return S.edits;
+  if(!S.db) return localGet("toeg-pub-edits-" + t) || {};
+  const snap = await S.db.collection("t_" + t).limit(1000).get();
+  const m = {}; snap.docs.forEach(d => { if(d.exists) m[d.id] = d.data(); }); return m;
+}
+async function doExport(all){
+  flushInline();
+  if(!S.dl){ toast("이 화면에서는 파일 저장을 쓸 수 없습니다."); return; }
+  const b1 = $("#exportOne"), b2 = $("#exportAll"); b1.disabled = b2.disabled = true;
+  setState("엑셀을 만드는 중…");
+  try {
+    let data, filename;
+    if(!all){ data = await buildXlsx(S.type, await editsFor(S.type)); filename = S.type + " type 감수결과(검토 반영).xlsx"; }
+    else {
+      const out = new JSZip();
+      for(const t of S.idx.types.split("")) out.file(t + " type 감수결과(검토 반영).xlsx", await buildXlsx(t, await editsFor(t)));
+      data = await out.generateAsync({type:"blob", compression:"DEFLATE"}); filename = "TOEG 감수결과(검토 반영).zip";
+    }
+    setState("");
+    await S.dl.save({filename, data});
+    toast("파일을 저장했습니다.");
+  } catch(e){
+    const code = e && e.code;
+    if(code === "declined") setState("");
+    else if(code === "rate_limited") setState("저장 창이 이미 열려 있습니다.", true);
+    else setState("파일을 만들지 못했습니다.", true);
+  } finally { b1.disabled = b2.disabled = false; }
+}
+
+/* ---------- 이벤트 ---------- */
+document.addEventListener("change", ev => {
+  const id = ev.target.id;
+  if(id === "typeSel") setType(ev.target.value);
+  else if(id === "gradeSel"){ const g = ev.target.value; const ks = S.idx.order.filter(k => k.split("-")[0] === g); go(ks.find(k => matches(k)) || ks[0]); }
+  else if(id === "noSel") go(ev.target.value);
+  else if(id === "filterSel"){ S.filter = ev.target.value; if(!matches(S.key)) step(1); else renderPickers(); }
+  else if(id === "myVerdict"){ update(S.key, {verdict: ev.target.value}); renderPickers(); }
+  else if(id === "doneBox"){ update(S.key, {done: ev.target.checked}); renderPickers(); }
+});
+document.addEventListener("click", ev => {
+  const b = ev.target.closest("button"); if(!b) return;
+  if(b.dataset.ans){
+    const box = $("#varBody"); box.querySelectorAll(".pick-ans").forEach(x => { const on = x === b; x.setAttribute("aria-pressed", on); x.closest("li").classList.toggle("right", on); });
+    scheduleInline(); flushInline(); return;
+  }
+  switch(b.id){
+    case "prevBtn": step(-1); break;
+    case "nextBtn": step(1); break;
+    case "uBtn": document.execCommand("underline"); scheduleInline(); break;
+    case "revertBtn": S.confirmRevert = true; renderMain(); break;
+    case "revertNo": S.confirmRevert = false; renderMain(); break;
+    case "revertYes": S.confirmRevert = false; clearTimeout(inlineTimer); inlineTimer = null; update(S.key, {edit: {}}); renderAll(); break;
+    case "exportOne": doExport(false); break;
+    case "exportAll": doExport(true); break;
+  }
+});
+/* 밑줄 버튼을 눌러도 선택이 풀리지 않게 */
+document.addEventListener("mousedown", ev => { if(ev.target.closest("#uBtn")) ev.preventDefault(); });
+document.addEventListener("input", ev => {
+  if(ev.target.closest && ev.target.closest("[data-field]")){ scheduleInline(); return; }
+  if(ev.target.id === "memo"){ const key = S.key, v = ev.target.value; clearTimeout(memoTimer); memoTimer = setTimeout(() => { memoTimer = null; update(key, {note: v}); }, 900); }
+});
+let memoTimer = null;
+document.addEventListener("focusout", ev => {
+  if(ev.target.closest && ev.target.closest("[data-field]")){ flushInline(); }
+  if(ev.target.id === "memo" && memoTimer){ clearTimeout(memoTimer); memoTimer = null; update(S.key, {note: ev.target.value}); }
+  setTimeout(() => { if(S.pendingRender && !busy() && !inlineTimer){ S.pendingRender = false; renderMain(); } }, 50);
+});
+/* 붙여 넣기는 글자만 */
+document.addEventListener("paste", ev => {
+  const el = ev.target.closest && ev.target.closest("[contenteditable='true']"); if(!el) return;
+  ev.preventDefault(); const text = (ev.clipboardData || window.clipboardData).getData("text/plain");
+  document.execCommand("insertText", false, text);
+});
+document.addEventListener("keydown", ev => {
+  const a = ev.target;
+  if(a.isContentEditable){
+    if((ev.metaKey || ev.ctrlKey) && (ev.key === "u" || ev.key === "U")){ ev.preventDefault(); document.execCommand("underline"); scheduleInline(); }
+    if((ev.key === "Enter") && a.dataset.field && a.dataset.field.startsWith("c")) ev.preventDefault();
+    return;
+  }
+  const tag = (a.tagName || "").toLowerCase();
+  if(tag === "textarea" || tag === "input" || tag === "select" || ev.metaKey || ev.ctrlKey || ev.altKey) return;
+  if(ev.key === "ArrowLeft"){ step(-1); ev.preventDefault(); }
+  else if(ev.key === "ArrowRight"){ step(1); ev.preventDefault(); }
+});
+window.addEventListener("pagehide", flushInline);
+
+/* ---------- 시작 ---------- */
+async function start(){
+  try {
+    const [idx, ref] = await Promise.all([getJSON("data/index.json"), getJSON("data/ref.json")]);
+    S.idx = idx; S.ref = ref; idx.order.forEach((k, i) => S.rnOf[k] = i + 2);
+    const h = (location.hash || "").replace("#", "").match(/^([B-F])-(\d+-\d+)$/);
+    if(h && idx.order.includes(h[2])){ S.type = h[1]; S.key = h[2]; } else S.key = idx.order[0];
+    await ensureType(S.type);
+    S.edits = localGet("toeg-pub-edits-" + S.type) || {};
+    renderAll();
+  } catch(e){ $("#main").innerHTML = '<div class="loading">문항 데이터를 불러오지 못했습니다. 새로고침해 주세요.</div>'; return; }
+  const c = window.claude;
+  if(c && c.use){
+    setState("고친 내용은 이 브라우저에만 저장됩니다. 엑셀로 받아 두세요.");
+    c.use("downloads").then(dl => { S.dl = dl; if(!dl){ $("#exportOne").hidden = true; $("#exportAll").hidden = true; } });
+  } else {
+    setState("고친 내용은 이 브라우저에만 저장됩니다. 엑셀로 받아 두세요.");
+    $("#exportOne").hidden = true; $("#exportAll").hidden = true;
+  }
+}
+start();
+})();
+</script>

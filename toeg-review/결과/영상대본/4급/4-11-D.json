@@ -1,0 +1,175 @@
+{
+ "key": "4-11",
+ "type": "D",
+ "grade": 4,
+ "chapter": "CH 2 대명사",
+ "title": "목적격 him과 소유격·소유대명사 his",
+ "total_sec": 130,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "4급 · CH 2 대명사 · 11번 · D 유형\n\n이 문제는 주격과 목적격, 소유대명사를 구별해 관계가 다른 짝을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 2 대명사 · 11번 · D 유형",
+     "이 문제는 주격과 목적격, 소유대명사를 구별해 관계가 다른 짝을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 2, 11번 D 유형. 이 문제는 주격과 목적격, 소유대명사를 구별해 관계가 다른 짝을 고르는 문제예요.",
+   "caption": "주격·목적격·소유대명사 구별"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.\n\n① they - them\n② I - me\n③ he - his\n④ we - us\n⑤ she - her",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.",
+     "① they - them",
+     "② I - me",
+     "③ he - his",
+     "④ we - us",
+     "⑤ she - her"
+    ]
+   },
+   "narration": "다음 중 짝지어진 단어의 관계가 다른 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n주격(주어 자리, ~는·~가): I, you, he, she, it, we, they\n목적격(동사·전치사 뒤, ~를·~에게): me, you, him, her, it, us, them\n소유대명사(명사 없이 혼자, ~의 것): mine, yours, his, hers, ours, theirs\nhis는 명사 앞에서 ‘그의’로도 써요: his book (그의 책)\n예) I gave him his. (나는 그에게 그의 것을 줬어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "주격(주어 자리, ~는·~가): I, you, he, she, it, we, they",
+     "목적격(동사·전치사 뒤, ~를·~에게): me, you, him, her, it, us, them",
+     "소유대명사(명사 없이 혼자, ~의 것): mine, yours, his, hers, ours, theirs",
+     "his는 명사 앞에서 ‘그의’로도 써요: his book (그의 책)",
+     "예) I gave him his. (나는 그에게 그의 것을 줬어요.)"
+    ]
+   },
+   "narration": "주어 자리에는 주격, 동사나 전치사 뒤 목적어 자리에는 목적격을 써요. I는 me, he는 him, she는 her, we는 us, they는 them이 되고, you와 it은 모양이 그대로예요. 누구의 것이라는 뜻으로 명사 없이 혼자 쓰는 mine, his는 소유대명사예요. 예를 들어 I gave him his, 나는 그에게 그의 것을 줬어요.",
+   "caption": "주격·목적격·소유대명사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.\n\n① they - them\n② I - me\n③ he - his\n④ we - us\n⑤ she - her",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "짝지어진 단어의 관계가 다른 것"
+      ],
+      "strike": [],
+      "note": "짝의 앞 they, I, he, we, she = 모두 주격 → 뒤 낱말이 목적격인지 본다"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① they - them",
+       "② I - me",
+       "④ we - us",
+       "⑤ she - her"
+      ],
+      "note": "them, me, us, her = they, I, we, she의 목적격 → ①②④⑤ 주격 - 목적격"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ he - his"
+      ],
+      "strike": [],
+      "note": "he의 목적격은 him · his = 그의(소유격), 그의 것(소유대명사) → ③만 관계가 다르다"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 짝의 앞 낱말 they, I, he, we, she는 모두 주격이니, 뒤 낱말이 목적격인지 확인해요. 둘째, them, me, us, her는 각각 they, I, we, she의 목적격이에요. 그래서 1번, 2번, 4번, 5번은 주격과 목적격의 짝이에요. 셋째, he의 목적격은 him인데 3번은 his예요. his는 his book처럼 그의라는 뜻이거나 그의 것이라는 뜻이라, 목적격이 아닌 이 짝만 관계가 달라요.",
+   "caption": "앞은 주격 → 뒤는 목적격인지"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 25,
+   "screen": {
+    "text": "① they - them  ✗  them은 they의 목적격 (그들을)\n② I - me  ✗  me는 I의 목적격 (나를)\n③ he - his  ✓  his는 소유격·소유대명사 (그의, 그의 것), he의 목적격은 him\n④ we - us  ✗  us는 we의 목적격 (우리를), ‘우리의’는 our\n⑤ she - her  ✗  her는 she의 목적격 (그녀를), ‘그녀의’로도 써요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① they - them  ✗  them은 they의 목적격 (그들을)",
+     "② I - me  ✗  me는 I의 목적격 (나를)",
+     "③ he - his  ✓  his는 소유격·소유대명사 (그의, 그의 것), he의 목적격은 him",
+     "④ we - us  ✗  us는 we의 목적격 (우리를), ‘우리의’는 our",
+     "⑤ she - her  ✗  her는 she의 목적격 (그녀를), ‘그녀의’로도 써요"
+    ]
+   },
+   "narration": "정답은 3번, he와 his예요. 5번 she와 her는 her가 그녀의라는 뜻으로도 쓰여서 헷갈릴 수 있어요. 하지만 she의 목적격도 her라서 다른 짝들처럼 주격과 목적격의 짝이에요. 4번 us를 우리의로 착각하기 쉽지만, 우리의는 our이고 us는 우리를이라는 목적격이에요.",
+   "caption": "정답 ③ he - his"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ③ he - his\n\n주격 - 목적격 - 소유대명사: he - him - his, I - me - mine",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ he - his",
+     "주격 - 목적격 - 소유대명사: he - him - his, I - me - mine"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, he의 목적격은 him이고, his는 그의, 또는 그의 것이라는 뜻이에요.",
+   "caption": "he - him - his"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "they - them",
+   "I - me",
+   "he - his",
+   "we - us",
+   "she - her"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 소유격은 명사 앞에, 소유대명사는 명사 없이 단독으로 쓰며 목적격과 구별한다.\n풀이 순서: ① 짝의 앞은 모두 주격이다. 뒤가 목적격인지 확인한다. → ② he의 목적격은 him이다. his는 소유격·소유대명사다. → ③ 정답은 he - his.\n문장별 판정:\n정답 판단: he-his는 주격과 소유대명사의 관계이다. 나머지 주격-목적격 관계와 성격이 다르다.\n선택지 분석:\n① they - them - 오답. they-them은 주격과 목적격의 대응 관계이다.\n② I - me - 오답. I-me는 주격과 목적격의 대응 관계이다. 문항이 찾는 예외 관계가 아니므로 오답이다.\n③ he - his - 정답. he-his는 주격과 소유대명사의 관계이다. 나머지 주격-목적격 관계와 성격이 다르다.\n④ we - us - 오답. we-us는 주격과 목적격의 대응 관계이다. 문항이 찾는 예외 관계가 아니므로 오답이다.\n⑤ she - her - 오답. she-her는 주격과 목적격의 대응 관계이다. 문항이 찾는 예외 관계가 아니므로 오답이다."
+ }
+}

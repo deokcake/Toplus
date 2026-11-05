@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:15:54.744Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "demanded",
+      "1": "should",
+      "2": "be completed",
+      "3": "that",
+      "4": "attends"
+    },
+    "expl": "핵심 규칙: 제안·요구할 행동을 원형가정법으로 나타낼 때 that절의 동사는 인칭·수와 무관하게 원형을 쓴다. should를 쓸 수도 있으며 수동은 be + 과거분사로 만든다.\n풀이 순서: ① 주절의 동사(demanded)가 주장·제안·요구를 나타내므로 뒤의 that절은 ‘(should) + 동사원형’이어야 한다. → ② and 뒤의 ④ that절도 같은 동사에 걸린다. should가 생략되어도 동사원형이다. → ③ 선택지 ⑤만 동사원형이 아니라 -s가 붙은 형태(attends)다. 동사원형(attend)으로 고쳐야 한다.\n문장별 판정:\n정답 판단: attends는 3인칭 단수 현재형이다. 요구·제안을 나타내는 that절에서는 주어가 단수여도 동사원형 attend를 써야 한다. attends → attend.\n선택지 분석:\n① [오답] demanded는 여기서 행동을 제안·권고·요구하는 보고동사이다. 뒤의 that절에 원형가정법을 연결할 수 있다.\n② [오답] should는 요구·제안 내용에 쓰는 조동사이며, 뒤에는 동사원형이 온다.\n③ [오답] be completed는 should 뒤의 be + 과거분사이다. 주어가 그 행위의 대상이 되는 수동 의미로 적절하다.\n④ [오답] 두 번째 that은 and 뒤에 첫 that절과 병렬인 내용절을 이끈다.\n⑤ [정답] attends는 3인칭 단수 현재형이다. 요구·제안을 나타내는 that절에서는 주어가 단수여도 동사원형 attend를 써야 한다. attends → attend.",
+    "passage": "The manager ①<u>demanded</u> that the sales report ②<u>should</u> ③<u>be completed</u> by today and ④<u>that</u> Tom ⑤<u>attends</u> the meeting with the clients.",
+    "stem": "다음 문장에서 밑줄 친 부분 중 어법상 옳지 않은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:20:25.075Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:20:29.920Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:15:54.744Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:15:47.657Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:15:54.744Z",
+      "what": "확인 완료"
+    }
+  }
+}

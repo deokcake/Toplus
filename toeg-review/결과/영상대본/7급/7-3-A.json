@@ -1,0 +1,183 @@
+{
+ "key": "7-3",
+ "type": "A",
+ "grade": 7,
+ "chapter": "CH 1 명사",
+ "title": "셀 수 있는 명사와 셀 수 없는 명사",
+ "total_sec": 124,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "7급 · CH 1 명사 · 3번\n\n이 문제는 밑줄 친 명사가 셀 수 있는지 없는지 따져서 쓰임이 어색한 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 1 명사 · 3번",
+     "이 문제는 밑줄 친 명사가 셀 수 있는지 없는지 따져서 쓰임이 어색한 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 1, 3번. 이 문제는 밑줄 친 명사가 셀 수 있는지 없는지 따져서 쓰임이 어색한 것을 고르는 문제예요.",
+   "caption": "셀 수 있는 명사와 셀 수 없는 명사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 문장에서 밑줄 친 부분의 쓰임이 어색한 것은?\n\n① I need <u>some water</u>.\n② He has <u>two boxes</u>.\n③ She likes <u>apples</u>.\n④ I have <u>three moneys</u>.\n⑤ We want <u>some bread</u>.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장에서 밑줄 친 부분의 쓰임이 어색한 것은?",
+     "① I need <u>some water</u>.",
+     "② He has <u>two boxes</u>.",
+     "③ She likes <u>apples</u>.",
+     "④ I have <u>three moneys</u>.",
+     "⑤ We want <u>some bread</u>."
+    ]
+   },
+   "narration": "다음 문장에서 밑줄 친 부분의 쓰임이 어색한 것은 무엇일까요? 다섯 문장의 밑줄 친 부분을 하나씩 잘 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 26,
+   "screen": {
+    "text": "핵심 규칙\n셀 수 있는 명사 (egg, cup): 둘 이상이면 복수형 → two eggs\n셀 수 없는 명사 (water, bread, rice, money): 하나, 둘 세지 않아요\n셀 수 없는 명사는 보통 two, three 같은 수를 붙이지 않고, 복수형으로도 쓰지 않아요\n양을 말할 때는 some을 쓸 수 있어요 → some water\n예) I have two eggs and some sugar. (나에게는 달걀 두 개와 설탕이 조금 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "셀 수 있는 명사 (egg, cup): 둘 이상이면 복수형 → two eggs",
+     "셀 수 없는 명사 (water, bread, rice, money): 하나, 둘 세지 않아요",
+     "셀 수 없는 명사는 보통 two, three 같은 수를 붙이지 않고, 복수형으로도 쓰지 않아요",
+     "양을 말할 때는 some을 쓸 수 있어요 → some water",
+     "예) I have two eggs and some sugar. (나에게는 달걀 두 개와 설탕이 조금 있어요.)"
+    ]
+   },
+   "narration": "명사에는 셀 수 있는 명사와 셀 수 없는 명사가 있어요. egg처럼 하나, 둘 셀 수 있는 명사는 둘 이상이면 two eggs처럼 복수형으로 써요. water, bread, money처럼 셀 수 없는 명사는 보통 two 같은 수를 붙이지 않고, 복수형으로도 쓰지 않아요. 양을 말할 때는 some water처럼 some을 쓸 수 있어요. 예를 들어 I have two eggs and some sugar, 나에게는 달걀 두 개와 설탕이 조금 있어요.",
+   "caption": "셀 수 없는 명사: 수·복수형 ✗"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 문장에서 밑줄 친 부분의 쓰임이 어색한 것은?\n\n① I need <u>some water</u>.\n② He has <u>two boxes</u>.\n③ She likes <u>apples</u>.\n④ I have <u>three moneys</u>.\n⑤ We want <u>some bread</u>.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "some water",
+       "two boxes",
+       "apples",
+       "three moneys",
+       "some bread"
+      ],
+      "strike": [],
+      "note": "명사 가르기: 셀 수 있는 box, apple / 셀 수 없는 water, money, bread"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "two boxes",
+       "apples"
+      ],
+      "strike": [
+       "② He has <u>two boxes</u>.",
+       "③ She likes <u>apples</u>."
+      ],
+      "note": "셀 수 있는 명사는 복수형 → two boxes, apples 바름"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "three moneys"
+      ],
+      "strike": [
+       "① I need <u>some water</u>.",
+       "⑤ We want <u>some bread</u>."
+      ],
+      "note": "셀 수 없는 명사: some water, some bread 바름 / three moneys는 수와 s가 붙어 어색 → some money"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 밑줄 친 명사가 셀 수 있는지 없는지 먼저 갈라요. box와 apple은 셀 수 있고, water, money, bread는 셀 수 없는 명사예요. 둘째, 셀 수 있는 box와 apple은 복수형 boxes와 apples로 바르게 썼어요. 셋째, 셀 수 없는 water와 bread는 some과 함께 바르게 썼어요. 그런데 셀 수 없는 money에 three를 붙이고 s까지 붙인 three moneys는 어색해요.",
+   "caption": "명사 가르기 → 복수형 확인"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① I need <u>some water</u>.  ✗  셀 수 없는 water를 some과 함께 바르게 썼어요\n② He has <u>two boxes</u>.  ✗  셀 수 있는 box를 two 뒤에서 복수형 boxes로 썼어요\n③ She likes <u>apples</u>.  ✗  셀 수 있는 apple을 복수형 apples로 썼어요\n④ I have <u>three moneys</u>.  ✓  money는 셀 수 없어 three도, s도 붙이지 않아요 (→ some money)\n⑤ We want <u>some bread</u>.  ✗  셀 수 없는 bread를 some과 함께 바르게 썼어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① I need <u>some water</u>.  ✗  셀 수 없는 water를 some과 함께 바르게 썼어요",
+     "② He has <u>two boxes</u>.  ✗  셀 수 있는 box를 two 뒤에서 복수형 boxes로 썼어요",
+     "③ She likes <u>apples</u>.  ✗  셀 수 있는 apple을 복수형 apples로 썼어요",
+     "④ I have <u>three moneys</u>.  ✓  money는 셀 수 없어 three도, s도 붙이지 않아요 (→ some money)",
+     "⑤ We want <u>some bread</u>.  ✗  셀 수 없는 bread를 some과 함께 바르게 썼어요"
+    ]
+   },
+   "narration": "정답은 4번 three moneys예요. money는 셀 수 없는 명사라서 three를 붙이거나 복수형으로 쓰지 않고, 돈이 조금 있다고 할 때는 I have some money라고 해요. 2번 two boxes와 3번 apples는 셀 수 있는 명사의 복수형이라 바르게 썼어요. 1번 some water와 5번 some bread는 셀 수 없는 명사를 some과 함께 바르게 썼어요.",
+   "caption": "정답 ④ three moneys"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ④ I have <u>three moneys</u>.\n\n셀 수 없는 명사는 보통 수를 붙이거나 복수형으로 쓰지 않아요 (some money ○, three moneys ✗)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ I have <u>three moneys</u>.",
+     "셀 수 없는 명사는 보통 수를 붙이거나 복수형으로 쓰지 않아요 (some money ○, three moneys ✗)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, water, bread, money처럼 셀 수 없는 명사는 보통 수를 붙이지 않고 복수형으로도 쓰지 않아요.",
+   "caption": "money는 셀 수 없는 명사"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장에서 밑줄 친 부분의 쓰임이 어색한 것은?",
+  "passage": "",
+  "c": [
+   "I need <u>some water</u>.",
+   "He has <u>two boxes</u>.",
+   "She likes <u>apples</u>.",
+   "I have <u>three moneys</u>.",
+   "We want <u>some bread</u>."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 셀 수 없는 명사(water, bread, money, rice)는 복수형으로 쓰지 않고 수를 붙이지 않는다(some water). 셀 수 있는 명사는 둘 이상일 때 복수형으로 쓴다.\n풀이 순서: ① 밑줄 친 명사가 셀 수 있는지 없는지 가른다. → ② 셀 수 없는 명사에 수나 -s가 붙었는지, 셀 수 있는 명사가 수 뒤에서 복수형인지 본다. → ③ 선택지 ④ money는 셀 수 없다(some money). 정답은 ④.\n문장별 판정:\n정답 판단: money는 셀 수 없는 명사라 three를 붙이거나 복수형으로 쓰지 않으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 셀 수 없는 명사 water를 some과 바르게 썼으므로 오답이다.\n② [오답] 셀 수 있는 명사를 복수형 boxes로 바르게 썼으므로 오답이다.\n③ [오답] 셀 수 있는 명사를 복수형으로 바르게 썼으므로 오답이다.\n④ [정답] money는 셀 수 없는 명사라 three를 붙이거나 복수형으로 쓰지 않으므로 정답이다.\n⑤ [오답] 셀 수 없는 명사 bread를 some과 바르게 썼으므로 오답이다."
+ }
+}

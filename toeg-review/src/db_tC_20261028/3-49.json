@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T03:26:53.528Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "make yourselves",
+      "1": "help yourselves",
+      "2": "enjoy yourselves",
+      "3": "take yourselves",
+      "4": "teach yourselves"
+    },
+    "expl": "핵심 규칙: Help yourself (to ~)는 ‘(~을) 마음껏 드세요’, Make yourself at home은 ‘편하게 있어요’, Enjoy yourself는 ‘즐거운 시간 보내요’, Behave yourself는 ‘얌전히 굴어라’라는 관용 표현이다. 한 명에게는 yourself, 여러 명에게는 yourselves를 쓴다.\n풀이 순서: ① 괄호 속 우리말과 빈칸 뒤의 말(to the cake)을 본다. → ② 그 뜻의 재귀대명사 관용 표현을 떠올린다: help yourselves to ~(마음껏 먹다). → ③ 정답은 help yourselves.\n문장별 판정:\n정답 판단: help yourselves: ‘마음껏 드세요’ 표현이라 우리말 뜻에 맞으므로 정답은 ②이다.\n선택지 분석:\n① [오답] make yourselves: ‘편하게 있어요(at home과 함께)’ 표현이라 우리말 뜻에 맞지 않으므로 오답이다.\n② [정답] help yourselves: ‘마음껏 드세요’ 표현이라 우리말 뜻에 맞으므로 정답이다.\n③ [오답] enjoy yourselves: ‘즐거운 시간 보내요’ 표현이라 우리말 뜻에 맞지 않으므로 오답이다.\n④ [오답] take yourselves: 관용 표현으로 쓰이지 않는 표현이라 우리말 뜻에 맞지 않으므로 오답이다.\n⑤ [오답] teach yourselves: ‘독학하다’ 표현이라 우리말 뜻에 맞지 않으므로 오답이다.",
+    "passage": "A: Kids, welcome! There is a big chocolate cake on the table.\nB: Wow, it looks really delicious!\nA: Please ____________ to the cake and some juice.\n(케이크를 마음껏 먹으렴.)",
+    "stem": "다음 대화의 빈칸에 알맞은 말을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:59:06.022Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:59:19.774Z",
+      "text": "기준 문항에 비해 지문이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:26:53.528Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:26:47.903Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:26:53.528Z",
+      "what": "확인 완료"
+    }
+  }
+}

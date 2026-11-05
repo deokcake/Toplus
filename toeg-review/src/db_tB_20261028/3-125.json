@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:23:31.163Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": null,
+      "1": "but also",
+      "2": "and",
+      "3": "nor",
+      "4": "or"
+    },
+    "expl": "핵심 규칙: both A and B = not only A but also B(A뿐 아니라 B도) = B as well as A이다. neither A nor B(A도 B도 아닌)는 not ~ A or B로, either A or B는 ‘A나 B 중 하나’로 나타낸다.\n풀이 순서: ① 첫 문장의 표현을 확인한다: both A and B(A와 B 둘 다). → ② 둘째 문장의 틀에 맞는 같은 뜻의 표현을 찾는다: not only A 뒤이므로 but also B. → ③ 정답은 but also.\n문장별 판정:\n정답 판단: not only A but also B로 both A and B와 같은 뜻이 되므로 정답은 ②이다.\n선택지 분석:\n① [오답] as well as는 not only와 짝을 이루지 않으므로 오답이다.\n② [정답] not only A but also B로 both A and B와 같은 뜻이 되므로 정답이다.\n③ [오답] not only는 and가 아니라 but also와 짝을 이루므로 오답이다.\n④ [오답] nor는 neither와 짝을 이루므로 오답이다.\n⑤ [오답] or는 either와 짝을 이루므로 오답이다.",
+    "passage": "He is both smart and kind.\n= He is not only smart (<u>           </u>) kind.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:23:26.460Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:23:31.163Z",
+      "what": "확인 완료"
+    }
+  }
+}

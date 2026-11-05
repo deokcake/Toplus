@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T04:32:55.888Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "draw - drawed / know - knew / throw - threw",
+      "1": "meet - met / feed - feeded / lead - led",
+      "2": "think - thought / fight - fought / teach - teached",
+      "3": "choose - chose / freeze - froze / steal - stole",
+      "4": "shut - shutted / cut - cut / put - put"
+    },
+    "expl": "핵심 규칙: 불규칙동사는 -ed를 붙이지 않고 정해진 과거형을 쓴다. 규칙동사(help, smell, dream 등)는 -ed를 붙이고, cut·put·hit·cost처럼 원형과 과거형이 같은 동사도 있다.\n풀이 순서: ① 묶음마다 세 동사의 과거형을 하나씩 확인한다. 불규칙동사에 -ed를 붙인 것이 하나라도 있으면 지운다. → ② drawed(drew), feeded(fed), teached(taught), shutted(shut)가 틀렸다. → ③ 세 개가 모두 옳은 ④가 정답이다.\n문장별 판정:\n정답 판단: 세 동사의 과거형이 모두 알맞으므로 정답은 ④이다.\n선택지 분석:\n① [오답] draw - drawed이 틀렸다(바른 과거형 drew). 따라서 오답이다.\n② [오답] feed - feeded이 틀렸다(바른 과거형 fed). 따라서 오답이다.\n③ [오답] teach - teached이 틀렸다(바른 과거형 taught). 따라서 오답이다.\n④ [정답] 세 동사의 과거형이 모두 알맞으므로 정답이다.\n⑤ [오답] shut - shutted이 틀렸다(바른 과거형 shut). 따라서 오답이다.",
+    "passage": null,
+    "stem": "다음 동사의 과거형이 모두 올바른 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:32:46.244Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T04:32:55.888Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:32:55.888Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T07:50:04.438Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "expl": "핵심 규칙: 동사원형과 현재 3인칭 단수형의 짝이 정확하다.\n풀이 순서: ① 동사의 끝 글자를 본다. -s, -sh, -ch, -x, -o로 끝나면 -es, 자음 + y로 끝나면 -ies를 붙인다. → ② 이 규칙에 어긋난 짝을 찾는다: carry는 자음 + y로 끝나므로 carries가 맞다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 정답은 ④입니다. carry는 자음+y로 끝나므로 y를 i로 바꾸고 es를 붙여 carries가 됩니다. 제시된 carrys는 잘못된 형태입니다. 바르게 고치면: carry - carries\n선택지 분석:\n① [오답] read에는 s를 붙여 reads로 씁니다. 제시된 reads는 정확합니다.\n② [오답] do의 현재 3인칭 단수형은 does입니다. 제시된 does는 정확합니다.\n③ [오답] fix에는 es를 붙여 fixes로 씁니다. 제시된 fixes는 정확합니다.\n④ [정답] carry는 자음+y로 끝나므로 y를 i로 바꾸고 es를 붙여 carries가 됩니다. 제시된 carrys는 잘못된 형태입니다. 바르게 고치면: carry - carries\n⑤ [오답] try는 자음+y로 끝나므로 y를 i로 바꾸고 es를 붙여 tries가 됩니다. 제시된 tries는 정확합니다."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T07:50:03.022Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T07:50:04.438Z",
+      "what": "확인 완료"
+    }
+  }
+}

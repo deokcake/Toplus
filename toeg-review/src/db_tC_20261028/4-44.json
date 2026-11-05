@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:21:50.728Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Tom going to buy a new phone.",
+      "1": "I will cleaned my room later.",
+      "2": "She will stay home if it rains tomorrow.",
+      "3": "We are going to having a picnic.",
+      "4": "They will going to leave soon."
+    },
+    "expl": "핵심 규칙: will과 be going to 뒤에는 동사원형을 쓴다. be going to의 be동사를 빼지 않고, will과 be going to를 겹쳐 쓰지 않으며, 시간·조건 부사절(when, after, if)에서는 미래 대신 현재형을 쓴다.\n풀이 순서: ① 미래 표현의 꼴을 확인한다: will + 동사원형, be동사 + going to + 동사원형. → ② when·after가 이끄는 절은 미래의 일이라도 현재형으로 쓴다. → ③ 선택지 ③만 will stay와 if절의 현재형 rains를 써서 맞다. 조건을 나타내는 if절도 미래의 일을 현재형으로 쓴다. 정답은 ③.\n문장별 판정:\n정답 판단: will + 동사원형과 조건 부사절의 현재형(rains)을 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] be going to에서 be동사가 빠졌으므로 오답이다.\n② [오답] will 뒤에는 과거형이 아니라 동사원형을 쓰므로 오답이다.\n③ [정답] will + 동사원형과 조건 부사절의 현재형(rains)을 바르게 썼으므로 정답이다.\n④ [오답] be going to 뒤에는 -ing형이 아니라 동사원형을 쓰므로 오답이다.\n⑤ [오답] will과 be going to를 겹쳐 쓸 수 없으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:21:47.659Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:21:50.728Z",
+      "what": "확인 완료"
+    }
+  }
+}

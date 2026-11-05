@@ -1,0 +1,186 @@
+{
+ "key": "4-45",
+ "type": "F",
+ "grade": 4,
+ "chapter": "CH 5 시제Ⅱ",
+ "title": "will과 be going to의 형태",
+ "total_sec": 133,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "4급 · CH 5 시제Ⅱ · 45번 · F 유형\n\n이 문제는 will과 be going to 문장 중 어법상 옳은 문장의 개수를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 5 시제Ⅱ · 45번 · F 유형",
+     "이 문제는 will과 be going to 문장 중 어법상 옳은 문장의 개수를 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 5, 45번 F 유형. 이 문제는 will과 be going to 문장 중 어법상 옳은 문장의 개수를 고르는 문제예요.",
+   "caption": "옳은 문장 개수 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장의 개수를 고르시오.\n\nⓐ I am going to buy a new bag this weekend.\nⓑ Will he come to the concert with us?\nⓒ She wills study hard for the test.\nⓓ We not are going to leave early today.\nⓔ They will help us with the boxes.\n\n① 1개\n② 2개\n③ 3개\n④ 4개\n⑤ 5개",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 어법상 옳은 문장의 개수를 고르시오.",
+     "ⓐ I am going to buy a new bag this weekend.",
+     "ⓑ Will he come to the concert with us?",
+     "ⓒ She wills study hard for the test.",
+     "ⓓ We not are going to leave early today.",
+     "ⓔ They will help us with the boxes.",
+     "① 1개",
+     "② 2개",
+     "③ 3개",
+     "④ 4개",
+     "⑤ 5개"
+    ]
+   },
+   "narration": "다음 중 어법상 옳은 문장의 개수를 고르세요. 지문의 다섯 문장을 읽고 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\nwill / be going to + 동사원형 → 앞으로 일어날 일 (~할 거예요)\nwill은 주어가 누구든 그대로 (wills ✗) · 부정 will not = won't\nbe going to의 be는 주어에 맞게 am, is, are · 부정은 be동사 뒤에 not\n예) She is going to read a book. (그녀는 책을 읽을 거예요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "will / be going to + 동사원형 → 앞으로 일어날 일 (~할 거예요)",
+     "will은 주어가 누구든 그대로 (wills ✗) · 부정 will not = won't",
+     "be going to의 be는 주어에 맞게 am, is, are · 부정은 be동사 뒤에 not",
+     "예) She is going to read a book. (그녀는 책을 읽을 거예요.)"
+    ]
+   },
+   "narration": "will과 be going to는 앞으로 일어날 일을 말할 때 쓰고, 뒤에 동사원형이 와요. will은 주어가 누구여도 s를 붙이지 않고, 부정은 will not, 줄여서 won't예요. be going to의 be는 주어에 맞게 am, is, are로 쓰고, not은 be동사 뒤에 와요. 예를 들어 She is going to read a book. 그녀는 책을 읽을 거예요.",
+   "caption": "will·be going to + 동사원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장의 개수를 고르시오.\n\nⓐ I am going to buy a new bag this weekend.\nⓑ Will he come to the concert with us?\nⓒ She wills study hard for the test.\nⓓ We not are going to leave early today.\nⓔ They will help us with the boxes.\n\n① 1개\n② 2개\n③ 3개\n④ 4개\n⑤ 5개",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Will he come",
+       "will help"
+      ],
+      "strike": [
+       "wills"
+      ],
+      "note": "will 문장 ⓑ·ⓒ·ⓔ: Will he come(의문문), will help → 옳다 / wills → will"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "am going to buy"
+      ],
+      "strike": [
+       "not are"
+      ],
+      "note": "be going to 문장 ⓐ·ⓓ: am going to buy → 옳다 / not are → are not (not은 be동사 뒤)"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ 3개"
+      ],
+      "strike": [
+       "① 1개",
+       "② 2개",
+       "④ 4개",
+       "⑤ 5개"
+      ],
+      "note": "옳은 문장 ⓐ, ⓑ, ⓔ → 3개"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, will 문장 중 비 문장 Will he come은 Will을 주어 앞에 쓴 의문문이고, 이 문장 will help도 옳아요. 씨 문장은 주어가 She여도 wills가 아니라 will로 써야 해요. 둘째, be going to 문장 중 에이 문장 am going to buy는 옳아요. 디 문장은 not이 are 앞에 있어서, We are not going to로 고쳐야 해요. 셋째, 옳은 문장은 에이, 비, 이 문장, 세 개예요.",
+   "caption": "will 문장 → be going to 문장 → 개수"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 30,
+   "screen": {
+    "text": "① 1개  ✗  ⓐ am going to buy도 옳아요\n② 2개  ✗  ⓑ Will he come ~?도 옳은 의문문\n③ 3개  ✓  옳은 문장은 ⓐ, ⓑ, ⓔ\n④ 4개  ✗  ⓓ not are는 틀려요 (→ are not)\n⑤ 5개  ✗  ⓒ wills도 틀려요 (→ will study)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① 1개  ✗  ⓐ am going to buy도 옳아요",
+     "② 2개  ✗  ⓑ Will he come ~?도 옳은 의문문",
+     "③ 3개  ✓  옳은 문장은 ⓐ, ⓑ, ⓔ",
+     "④ 4개  ✗  ⓓ not are는 틀려요 (→ are not)",
+     "⑤ 5개  ✗  ⓒ wills도 틀려요 (→ will study)"
+    ]
+   },
+   "narration": "정답은 3번, 3개예요. 틀린 문장은 씨 문장과 디 문장, 두 개예요. 디 문장은 be going to가 다 들어 있어서 맞아 보이지만, not은 be동사 뒤에 와야 해요. 디 문장을 옳다고 보면 4번을 고르게 돼요. 비 문장 Will he come은 Will을 주어 앞에 쓴 의문문이라 옳으니, 2번도 답이 아니에요.",
+   "caption": "정답 ③ 3개"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ③ 3개\n\nnot은 will, be동사 뒤 (are not going to) · will에 s ✗",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ 3개",
+     "not은 will, be동사 뒤 (are not going to) · will에 s ✗"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, not은 will이나 be동사 뒤에 와요. will에는 주어와 상관없이 s를 붙이지 않아요.",
+   "caption": "not은 will·be동사 뒤"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 어법상 옳은 문장의 개수를 고르시오.",
+  "passage": "ⓐ I am going to buy a new bag this weekend.\nⓑ Will he come to the concert with us?\nⓒ She wills study hard for the test.\nⓓ We not are going to leave early today.\nⓔ They will help us with the boxes.",
+  "c": [
+   "1개",
+   "2개",
+   "3개",
+   "4개",
+   "5개"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: will + 동사원형(부정 will not/won't), be going to + 동사원형(부정 be not going to)으로 쓴다. will에는 -s를 붙이지 않고, not은 will·be동사 뒤에 온다.\n풀이 순서: ① will 문장은 세 가지를 본다: will에 -s가 없는지, 뒤가 동사원형인지, not이 will 뒤에 있는지. → ② be going to 문장은 be동사가 있는지, to 뒤가 동사원형인지 본다. → ③ ⓒ wills(will), ⓓ not are(are not)가 틀렸다. 옳은 문장은 3개이다.\n문장별 판정:\nⓐ O. be going to + 동사원형이다.\nⓑ O. Will + 주어 + 동사원형 의문문이다.\nⓒ X. will에는 -s를 붙이지 않는다.\nⓓ X. not은 be동사 뒤에 와서 are not going to로 쓴다.\nⓔ O. will + 동사원형이다.\n정답 판단: 어법상 옳은 문장은 ⓐ, ⓑ, ⓔ로 3개이다.\n선택지 분석:\n① [오답] 어법상 옳은 문장은 ⓐ, ⓑ, ⓔ로 3개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 어법상 옳은 문장은 ⓐ, ⓑ, ⓔ로 3개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [정답] 어법상 옳은 문장은 ⓐ, ⓑ, ⓔ로 3개이다. 이 보기의 3개는 실제 개수와 일치한다.\n④ [오답] 어법상 옳은 문장은 ⓐ, ⓑ, ⓔ로 3개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 옳은 문장은 ⓐ, ⓑ, ⓔ로 3개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다."
+ }
+}

@@ -1,0 +1,458 @@
+{
+ "A": {
+  "title": "주격과 소유격 구별하기",
+  "intro": "이 문제는 밑줄 친 대명사가 주격인지 소유격인지 따져서, 성격이 다른 하나를 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분의 성격이 나머지 넷과 다른 것은 무엇일까요? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "인칭대명사는 쓰이는 자리에 따라 모양이 달라져요.",
+    "주격: 문장의 주어 자리 (나는, 그는) → I, you, he, she, it, we, they",
+    "소유격: 명사 앞에서 그 명사를 꾸밈 (나의, 그의) → my, your, his, her, its, our, their",
+    "예) He loves his dog. (그는 그의 개를 사랑해요.)"
+   ],
+   "narration": "인칭대명사는 쓰이는 자리에 따라 모양이 달라져요. 문장의 주어가 되어 나는, 그는처럼 쓰이면 I, he, she, we, they 같은 주격이에요. 명사 앞에서 나의, 그의처럼 누구의 것인지 나타내면 my, his, her, our, their 같은 소유격이에요. He loves his dog. 그는 그의 개를 사랑해요. 주어 He는 주격이고, 명사 dog 앞의 his는 소유격이에요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 바로 뒤를 본다: my book, your bag, Our school, His father → 모두 명사가 온다.",
+    "highlight": [
+     "<u>my</u> book",
+     "<u>your</u> bag",
+     "<u>Our</u> school",
+     "<u>His</u> father"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 말 바로 뒤를 보세요. my 뒤에는 book, your 뒤에는 bag, Our 뒤에는 school, His 뒤에는 father라는 명사가 와요."
+   },
+   {
+    "note": "명사를 꾸며 ‘~의’ → 소유격 넷은 지운다.",
+    "highlight": [],
+    "strike": [
+     "① This is <u>my</u> book.",
+     "② I like <u>your</u> bag.",
+     "③ <u>Our</u> school is big.",
+     "⑤ <u>His</u> father is a doctor."
+    ],
+    "narration": "둘째, 이 넷은 뒤의 명사를 꾸며 나의, 너의, 우리의, 그의라는 뜻을 나타내는 소유격이에요."
+   },
+   {
+    "note": "문장 맨 앞 They, 바로 뒤에 동사 are → 주어로 쓰인 주격 → 성격이 다른 것은 ④",
+    "highlight": [
+     "<u>They</u> are"
+    ],
+    "strike": [],
+    "narration": "셋째, 4번 They는 문장 맨 앞에 있고 바로 뒤에 동사 are가 오니까, 주어로 쓰인 주격이라 혼자 성격이 달라요. They are my friends. 그들은 나의 친구들이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① This is <u>my</u> book.  ✗  명사 book 앞의 소유격 (나의)",
+    "② I like <u>your</u> bag.  ✗  명사 bag 앞의 소유격 (너의)",
+    "③ <u>Our</u> school is big.  ✗  문장 맨 앞이지만 명사 school 앞의 소유격 (우리의)",
+    "④ <u>They</u> are my friends.  ✓  동사 are 앞의 주어 → 주격 (그들은)",
+    "⑤ <u>His</u> father is a doctor.  ✗  문장 맨 앞이지만 명사 father 앞의 소유격 (그의)"
+   ],
+   "narration": "정답은 4번 They예요. They는 동사 are 앞에서 주어로 쓰인 주격이에요. 3번 Our와 5번 His는 문장 맨 앞에 있어서 주어처럼 보일 수 있어요. 하지만 바로 뒤에 명사 school과 father가 오니까 우리의, 그의라는 뜻의 소유격이에요. 이 두 문장의 주어는 Our school, His father처럼 명사까지 합친 말이에요."
+  },
+  "summary": {
+   "card": "명사 앞에서 ‘~의’ → 소유격,  문장의 주어 → 주격",
+   "narration": "정답은 4번이에요. 기억할 것, 명사 앞에서 누구의 것인지 나타내면 소유격, 문장의 주어로 쓰이면 주격이에요."
+  },
+  "captions": [
+   "주격과 소유격 구별하기",
+   "먼저 풀어 보세요",
+   "주어는 주격, ‘~의’는 소유격",
+   "밑줄 뒤에 명사? 동사?",
+   "정답 ④ They",
+   "명사 앞은 소유격, 주어는 주격"
+  ],
+  "sec": [
+   10,
+   13,
+   28,
+   34,
+   27,
+   10
+  ]
+ },
+ "B": {
+  "title": "목적격과 소유격 구별하기",
+  "intro": "이 문제는 밑줄 친 대명사가 소유격인지 목적격인지 따져서, 성격이 다른 하나를 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분의 성격이 나머지 넷과 다른 것은 무엇일까요? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "인칭대명사는 쓰이는 자리에 따라 모양이 달라져요.",
+    "소유격: 명사 앞에서 그 명사를 꾸밈 (나의, 그의) → my, your, his, her, its, our, their",
+    "목적격: 동사나 전치사 뒤 목적어 자리 (나를, 그에게) → me, you, him, her, it, us, them",
+    "예) I play with him and his brother. (나는 그와 그의 남동생과 함께 놀아요.)"
+   ],
+   "narration": "인칭대명사는 쓰이는 자리에 따라 모양이 달라져요. 명사 앞에서 나의, 그의처럼 누구의 것인지 나타내면 my, his, her, our, their 같은 소유격이에요. 동사나 전치사 뒤에서 목적어가 되어 나를, 그에게처럼 쓰이면 me, him, her, us, them 같은 목적격이에요. I play with him and his brother. 나는 그와 그의 남동생과 함께 놀아요. 전치사 with 뒤의 him은 목적격이고, 명사 brother 앞의 his는 소유격이에요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 바로 뒤를 본다: their house, her key, my desk, our classroom → 모두 명사가 온다.",
+    "highlight": [
+     "<u>their</u> house",
+     "<u>her</u> key",
+     "<u>my</u> desk",
+     "<u>our</u> classroom"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 말 바로 뒤를 보세요. their 뒤에는 house, her 뒤에는 key, my 뒤에는 desk, our 뒤에는 classroom이라는 명사가 와요."
+   },
+   {
+    "note": "명사를 꾸며 ‘~의’ → 소유격 넷은 지운다.",
+    "highlight": [],
+    "strike": [
+     "② We visited <u>their</u> house.",
+     "③ She lost <u>her</u> key.",
+     "④ This is <u>my</u> desk.",
+     "⑤ That is <u>our</u> classroom."
+    ],
+    "narration": "둘째, 이 넷은 뒤의 명사를 꾸며 그들의, 그녀의, 나의, 우리의라는 뜻을 나타내는 소유격이에요."
+   },
+   {
+    "note": "him 뒤에는 명사가 없다. 전치사 to의 목적어 → 목적격 → 성격이 다른 것은 ①",
+    "highlight": [
+     "to <u>him</u>"
+    ],
+    "strike": [],
+    "narration": "셋째, 1번 him 뒤에는 명사가 없고, him은 전치사 to 뒤에서 목적어로 쓰인 목적격이라 혼자 성격이 달라요. The teacher spoke to him. 선생님이 그에게 말씀하셨어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The teacher spoke to <u>him</u>.  ✓  전치사 to의 목적어 → 목적격 (그에게)",
+    "② We visited <u>their</u> house.  ✗  동사 뒤지만 명사 house 앞의 소유격 (그들의)",
+    "③ She lost <u>her</u> key.  ✗  목적격과 모양만 같고, 명사 key 앞의 소유격 (그녀의)",
+    "④ This is <u>my</u> desk.  ✗  명사 desk 앞의 소유격 (나의)",
+    "⑤ That is <u>our</u> classroom.  ✗  명사 classroom 앞의 소유격 (우리의)"
+   ],
+   "narration": "정답은 1번 him이에요. him은 전치사 to 뒤에서 목적어로 쓰인 목적격이에요. 3번 her는 동사 lost 바로 뒤에 있고, 목적격으로도 쓰이는 말이라 헷갈릴 수 있어요. 하지만 여기서는 명사 key 앞에서 그녀의라는 뜻이라 소유격이에요. 2번 their도 동사 visited 뒤에 있지만, 명사 house를 꾸미는 소유격이에요."
+  },
+  "summary": {
+   "card": "명사 앞에서 ‘~의’ → 소유격,  동사나 전치사의 목적어 → 목적격",
+   "narration": "정답은 1번이에요. 기억할 것, 명사 앞에서 누구의 것인지 나타내면 소유격, 동사나 전치사 뒤에서 목적어로 쓰이면 목적격이에요."
+  },
+  "captions": [
+   "목적격과 소유격 구별하기",
+   "먼저 풀어 보세요",
+   "‘~의’는 소유격, 목적어는 목적격",
+   "밑줄 뒤에 명사가 있나?",
+   "정답 ① him",
+   "명사 앞은 소유격, 목적어는 목적격"
+  ],
+  "sec": [
+   10,
+   13,
+   30,
+   35,
+   27,
+   11
+  ]
+ },
+ "C": {
+  "title": "주격과 소유격 구별하기",
+  "intro": "이 문제는 밑줄 친 대명사가 주격인지 소유격인지 따져서, 성격이 다른 하나를 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분의 성격이 나머지 넷과 다른 것은 무엇일까요? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "인칭대명사는 쓰이는 자리에 따라 모양이 달라져요.",
+    "주격: 문장의 주어 자리 (나는, 그는) → I, you, he, she, it, we, they",
+    "소유격: 명사 앞에서 그 명사를 꾸밈 (나의, 그의) → my, your, his, her, its, our, their",
+    "예) He loves his dog. (그는 그의 개를 사랑해요.)"
+   ],
+   "narration": "인칭대명사는 쓰이는 자리에 따라 모양이 달라져요. 문장의 주어가 되어 나는, 그는처럼 쓰이면 I, he, she, we, they 같은 주격이에요. 명사 앞에서 나의, 그의처럼 누구의 것인지 나타내면 my, his, her, our, their 같은 소유격이에요. He loves his dog. 그는 그의 개를 사랑해요. 주어 He는 주격이고, 명사 dog 앞의 his는 소유격이에요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 바로 뒤를 본다: our room, my books, your bags, her pencil → 모두 명사가 온다.",
+    "highlight": [
+     "<u>our</u> room",
+     "<u>my</u> books",
+     "<u>your</u> bags",
+     "<u>her</u> pencil"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 말 바로 뒤를 보세요. our 뒤에는 room, my 뒤에는 books, your 뒤에는 bags, her 뒤에는 pencil이라는 명사가 와요."
+   },
+   {
+    "note": "명사를 꾸며 ‘~의’ → 소유격 넷은 지운다.",
+    "highlight": [],
+    "strike": [
+     "① That is <u>our</u> room.",
+     "③ These are <u>my</u> books.",
+     "④ Those are <u>your</u> bags.",
+     "⑤ This is <u>her</u> pencil."
+    ],
+    "narration": "둘째, 이 넷은 뒤의 명사를 꾸며 우리의, 나의, 너의, 그녀의라는 뜻을 나타내는 소유격이에요."
+   },
+   {
+    "note": "문장 맨 앞 He, 바로 뒤에 동사 is → 주어로 쓰인 주격 → 성격이 다른 것은 ②",
+    "highlight": [
+     "<u>He</u> is"
+    ],
+    "strike": [],
+    "narration": "셋째, 2번 He는 문장 맨 앞에 있고 바로 뒤에 동사 is가 오니까, 주어로 쓰인 주격이라 혼자 성격이 달라요. He is tall. 그는 키가 커요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① That is <u>our</u> room.  ✗  명사 room 앞의 소유격 (우리의)",
+    "② <u>He</u> is tall.  ✓  동사 is 앞의 주어 → 주격 (그는)",
+    "③ These are <u>my</u> books.  ✗  명사 books 앞의 소유격 (나의)",
+    "④ Those are <u>your</u> bags.  ✗  you가 아닌 your, 명사 bags 앞의 소유격 (너의)",
+    "⑤ This is <u>her</u> pencil.  ✗  목적격과 모양만 같고, 명사 pencil 앞의 소유격 (그녀의)"
+   ],
+   "narration": "정답은 2번 He예요. He는 동사 is 앞에서 주어로 쓰인 주격이에요. 5번 her는 목적격으로도 쓰이는 말이라 헷갈릴 수 있어요. 하지만 여기서는 명사 pencil 앞에서 그녀의라는 뜻이라 소유격이에요. 4번 your는 you와 달리 명사 bags 앞에서 너의라는 뜻을 나타내는 소유격이에요."
+  },
+  "summary": {
+   "card": "명사 앞에서 ‘~의’ → 소유격,  문장의 주어 → 주격",
+   "narration": "정답은 2번이에요. 기억할 것, 명사 앞에서 누구의 것인지 나타내면 소유격, 문장의 주어로 쓰이면 주격이에요."
+  },
+  "captions": [
+   "주격과 소유격 구별하기",
+   "먼저 풀어 보세요",
+   "주어는 주격, ‘~의’는 소유격",
+   "밑줄 뒤에 명사? 동사?",
+   "정답 ② He",
+   "명사 앞은 소유격, 주어는 주격"
+  ],
+  "sec": [
+   10,
+   13,
+   28,
+   33,
+   26,
+   10
+  ]
+ },
+ "D": {
+  "title": "주격과 소유격 구별하기",
+  "intro": "이 문제는 밑줄 친 대명사가 주격인지 소유격인지 따져서, 성격이 다른 하나를 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분의 성격이 나머지 넷과 다른 것은 무엇일까요? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "인칭대명사는 쓰이는 자리에 따라 모양이 달라져요.",
+    "주격: 문장의 주어 자리 (나는, 그는) → I, you, he, she, it, we, they",
+    "소유격: 명사 앞에서 그 명사를 꾸밈 (나의, 그의) → my, your, his, her, its, our, their",
+    "예) He loves his dog. (그는 그의 개를 사랑해요.)"
+   ],
+   "narration": "인칭대명사는 쓰이는 자리에 따라 모양이 달라져요. 문장의 주어가 되어 나는, 그는처럼 쓰이면 I, he, she, we, they 같은 주격이에요. 명사 앞에서 나의, 그의처럼 누구의 것인지 나타내면 my, his, her, our, their 같은 소유격이에요. He loves his dog. 그는 그의 개를 사랑해요. 주어 He는 주격이고, 명사 dog 앞의 his는 소유격이에요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 바로 뒤를 본다: our shoes, my pens, his hat, their bike → 모두 명사가 온다.",
+    "highlight": [
+     "<u>our</u> shoes",
+     "<u>my</u> pens",
+     "<u>his</u> hat",
+     "<u>their</u> bike"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 말 바로 뒤를 보세요. our 뒤에는 shoes, my 뒤에는 pens, his 뒤에는 hat, their 뒤에는 bike라는 명사가 와요."
+   },
+   {
+    "note": "명사를 꾸며 ‘~의’ → 소유격 넷은 지운다.",
+    "highlight": [],
+    "strike": [
+     "① These are <u>our</u> shoes.",
+     "③ Those are <u>my</u> pens.",
+     "④ This is <u>his</u> hat.",
+     "⑤ That is <u>their</u> bike."
+    ],
+    "narration": "둘째, 이 넷은 뒤의 명사를 꾸며 우리의, 나의, 그의, 그들의라는 뜻을 나타내는 소유격이에요."
+   },
+   {
+    "note": "문장 맨 앞 She, 바로 뒤에 동사 is → 주어로 쓰인 주격 → 성격이 다른 것은 ②",
+    "highlight": [
+     "<u>She</u> is"
+    ],
+    "strike": [],
+    "narration": "셋째, 2번 She는 문장 맨 앞에 있고 바로 뒤에 동사 is가 오니까, 주어로 쓰인 주격이라 혼자 성격이 달라요. She is kind. 그녀는 친절해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① These are <u>our</u> shoes.  ✗  명사 shoes 앞의 소유격 (우리의)",
+    "② <u>She</u> is kind.  ✓  동사 is 앞의 주어 → 주격 (그녀는)",
+    "③ Those are <u>my</u> pens.  ✗  명사 pens 앞의 소유격 (나의)",
+    "④ This is <u>his</u> hat.  ✗  he가 아닌 his, 명사 hat 앞의 소유격 (그의)",
+    "⑤ That is <u>their</u> bike.  ✗  they가 아닌 their, 명사 bike 앞의 소유격 (그들의)"
+   ],
+   "narration": "정답은 2번 She예요. She는 동사 is 앞에서 주어로 쓰인 주격이에요. 4번 his는 he와 모양이 비슷하지만, 명사 hat 앞에서 그의라는 뜻을 나타내는 소유격이에요. 5번 their도 they와 헷갈리기 쉬워요. 하지만 명사 bike를 꾸며 그들의라는 뜻을 나타내는 소유격이에요."
+  },
+  "summary": {
+   "card": "명사 앞에서 ‘~의’ → 소유격,  문장의 주어 → 주격",
+   "narration": "정답은 2번이에요. 기억할 것, 명사 앞에서 누구의 것인지 나타내면 소유격, 문장의 주어로 쓰이면 주격이에요."
+  },
+  "captions": [
+   "주격과 소유격 구별하기",
+   "먼저 풀어 보세요",
+   "주어는 주격, ‘~의’는 소유격",
+   "밑줄 뒤에 명사? 동사?",
+   "정답 ② She",
+   "명사 앞은 소유격, 주어는 주격"
+  ],
+  "sec": [
+   10,
+   13,
+   28,
+   33,
+   26,
+   10
+  ]
+ },
+ "E": {
+  "title": "주격과 소유격 구별하기",
+  "intro": "이 문제는 밑줄 친 대명사가 주격인지 소유격인지 따져서, 성격이 다른 하나를 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분의 성격이 나머지 넷과 다른 것은 무엇일까요? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "인칭대명사는 쓰이는 자리에 따라 모양이 달라져요.",
+    "주격: 문장의 주어 자리 (나는, 그는) → I, you, he, she, it, we, they",
+    "소유격: 명사 앞에서 그 명사를 꾸밈 (나의, 그의) → my, your, his, her, its, our, their",
+    "예) He loves his dog. (그는 그의 개를 사랑해요.)"
+   ],
+   "narration": "인칭대명사는 쓰이는 자리에 따라 모양이 달라져요. 문장의 주어가 되어 나는, 그는처럼 쓰이면 I, he, she, we, they 같은 주격이에요. 명사 앞에서 나의, 그의처럼 누구의 것인지 나타내면 my, his, her, our, their 같은 소유격이에요. He loves his dog. 그는 그의 개를 사랑해요. 주어 He는 주격이고, 명사 dog 앞의 his는 소유격이에요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 바로 뒤를 본다: her bag, your book, his socks, their cars → 모두 명사가 온다.",
+    "highlight": [
+     "<u>her</u> bag",
+     "<u>your</u> book",
+     "<u>his</u> socks",
+     "<u>their</u> cars"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 말 바로 뒤를 보세요. her 뒤에는 bag, your 뒤에는 book, his 뒤에는 socks, their 뒤에는 cars라는 명사가 와요."
+   },
+   {
+    "note": "명사를 꾸며 ‘~의’ → 소유격 넷은 지운다.",
+    "highlight": [],
+    "strike": [
+     "① That is <u>her</u> bag.",
+     "② This is <u>your</u> book.",
+     "④ Those are <u>his</u> socks.",
+     "⑤ These are <u>their</u> cars."
+    ],
+    "narration": "둘째, 이 넷은 뒤의 명사를 꾸며 그녀의, 너의, 그의, 그들의라는 뜻을 나타내는 소유격이에요."
+   },
+   {
+    "note": "문장 맨 앞 We, 바로 뒤에 동사 are → 주어로 쓰인 주격 → 성격이 다른 것은 ③",
+    "highlight": [
+     "<u>We</u> are"
+    ],
+    "strike": [],
+    "narration": "셋째, 3번 We는 문장 맨 앞에 있고 바로 뒤에 동사 are가 오니까, 주어로 쓰인 주격이라 혼자 성격이 달라요. We are ready. 우리는 준비가 됐어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① That is <u>her</u> bag.  ✗  목적격과 모양만 같고, 명사 bag 앞의 소유격 (그녀의)",
+    "② This is <u>your</u> book.  ✗  you가 아닌 your, 명사 book 앞의 소유격 (너의)",
+    "③ <u>We</u> are ready.  ✓  동사 are 앞의 주어 → 주격 (우리는)",
+    "④ Those are <u>his</u> socks.  ✗  명사 socks 앞의 소유격 (그의)",
+    "⑤ These are <u>their</u> cars.  ✗  명사 cars 앞의 소유격 (그들의)"
+   ],
+   "narration": "정답은 3번 We예요. We는 동사 are 앞에서 주어로 쓰인 주격이에요. 1번 her는 목적격으로도 쓰이는 말이라 헷갈릴 수 있어요. 하지만 여기서는 명사 bag 앞에서 그녀의라는 뜻이라 소유격이에요. 2번 your는 you와 달리 명사 book 앞에서 너의라는 뜻을 나타내는 소유격이에요."
+  },
+  "summary": {
+   "card": "명사 앞에서 ‘~의’ → 소유격,  문장의 주어 → 주격",
+   "narration": "정답은 3번이에요. 기억할 것, 명사 앞에서 누구의 것인지 나타내면 소유격, 문장의 주어로 쓰이면 주격이에요."
+  },
+  "captions": [
+   "주격과 소유격 구별하기",
+   "먼저 풀어 보세요",
+   "주어는 주격, ‘~의’는 소유격",
+   "밑줄 뒤에 명사? 동사?",
+   "정답 ③ We",
+   "명사 앞은 소유격, 주어는 주격"
+  ],
+  "sec": [
+   10,
+   13,
+   28,
+   33,
+   26,
+   10
+  ]
+ },
+ "F": {
+  "title": "주격과 소유격 구별하기",
+  "intro": "이 문제는 밑줄 친 대명사가 주격인지 소유격인지 따져서, 성격이 다른 하나를 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분의 성격이 나머지 넷과 다른 것은 무엇일까요? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "인칭대명사는 쓰이는 자리에 따라 모양이 달라져요.",
+    "주격: 문장의 주어 자리 (나는, 그는) → I, you, he, she, it, we, they",
+    "소유격: 명사 앞에서 그 명사를 꾸밈 (나의, 그의) → my, your, his, her, its, our, their",
+    "예) He loves his dog. (그는 그의 개를 사랑해요.)"
+   ],
+   "narration": "인칭대명사는 쓰이는 자리에 따라 모양이 달라져요. 문장의 주어가 되어 나는, 그는처럼 쓰이면 I, he, she, we, they 같은 주격이에요. 명사 앞에서 나의, 그의처럼 누구의 것인지 나타내면 my, his, her, our, their 같은 소유격이에요. He loves his dog. 그는 그의 개를 사랑해요. 주어 He는 주격이고, 명사 dog 앞의 his는 소유격이에요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 바로 뒤를 본다: their pencils, our school, her books, my desk → 모두 명사가 온다.",
+    "highlight": [
+     "<u>their</u> pencils",
+     "<u>our</u> school",
+     "<u>her</u> books",
+     "<u>my</u> desk"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 말 바로 뒤를 보세요. their 뒤에는 pencils, our 뒤에는 school, her 뒤에는 books, my 뒤에는 desk라는 명사가 와요."
+   },
+   {
+    "note": "명사를 꾸며 ‘~의’ → 소유격 넷은 지운다.",
+    "highlight": [],
+    "strike": [
+     "② Those are <u>their</u> pencils.",
+     "③ This is <u>our</u> school.",
+     "④ These are <u>her</u> books.",
+     "⑤ That is <u>my</u> desk."
+    ],
+    "narration": "둘째, 이 넷은 뒤의 명사를 꾸며 그들의, 우리의, 그녀의, 나의라는 뜻을 나타내는 소유격이에요."
+   },
+   {
+    "note": "문장 맨 앞 I, 바로 뒤에 동사 am → 주어로 쓰인 주격 → 성격이 다른 것은 ①",
+    "highlight": [
+     "<u>I</u> am"
+    ],
+    "strike": [],
+    "narration": "셋째, 1번 I는 문장 맨 앞에 있고 바로 뒤에 동사 am이 오니까, 주어로 쓰인 주격이라 혼자 성격이 달라요. I am hungry. 나는 배가 고파요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① <u>I</u> am hungry.  ✓  동사 am 앞의 주어 → 주격 (나는)",
+    "② Those are <u>their</u> pencils.  ✗  명사 pencils 앞의 소유격 (그들의)",
+    "③ This is <u>our</u> school.  ✗  명사 school 앞의 소유격 (우리의)",
+    "④ These are <u>her</u> books.  ✗  목적격과 모양만 같고, 명사 books 앞의 소유격 (그녀의)",
+    "⑤ That is <u>my</u> desk.  ✗  I가 아닌 my, 명사 desk 앞의 소유격 (나의)"
+   ],
+   "narration": "정답은 1번 I예요. I는 동사 am 앞에서 주어로 쓰인 주격이에요. 4번 her는 목적격으로도 쓰이는 말이라 헷갈릴 수 있어요. 하지만 여기서는 명사 books 앞에서 그녀의라는 뜻이라 소유격이에요. 5번 my는 I의 소유격으로, 명사 desk 앞에서 나의라는 뜻을 나타내요."
+  },
+  "summary": {
+   "card": "명사 앞에서 ‘~의’ → 소유격,  문장의 주어 → 주격",
+   "narration": "정답은 1번이에요. 기억할 것, 명사 앞에서 누구의 것인지 나타내면 소유격, 문장의 주어로 쓰이면 주격이에요."
+  },
+  "captions": [
+   "주격과 소유격 구별하기",
+   "먼저 풀어 보세요",
+   "주어는 주격, ‘~의’는 소유격",
+   "밑줄 뒤에 명사? 동사?",
+   "정답 ① I",
+   "명사 앞은 소유격, 주어는 주격"
+  ],
+  "sec": [
+   10,
+   13,
+   28,
+   33,
+   26,
+   10
+  ]
+ }
+}

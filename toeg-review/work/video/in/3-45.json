@@ -1,0 +1,86 @@
+{
+ "key": "3-45",
+ "grade": 3,
+ "chapter": "CH 5 대명사",
+ "items": {
+  "A": {
+   "stem": "다음 중 잘못 설명한 학생들을 모두 고르시오.",
+   "passage": "Josh: I myself will do it.에서 myself는 생략해도 문법적으로 옳은 문장이야.\nDanny: The children enjoyed themselves at the party.에서 themselves를 생략해도 문법적으로 옳은 문장이야.\nLisa: This flowers smell nice.에서 flowers는 복수이므로 This가 아니라 These를 사용해야 해.\nMark: It's raining heavily outside.의 It과 It's my book.의 It은 문법적으로 하는 역할이 같아.\nNina: The news are exciting.에서 news는 복수형태이므로 옳은 문장이야.",
+   "c": [
+    "Josh, Danny",
+    "Lisa, Mark",
+    "Danny, Mark, Nina",
+    "Josh, Lisa, Mark",
+    "Danny, Lisa, Nina"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 강조 용법의 재귀대명사는 생략할 수 있지만 목적어인 재귀대명사는 생략할 수 없다. these/those + 복수 명사. 날씨·시간·요일의 It은 비인칭 주어다. news는 단수 취급한다.\n풀이 순서: ① 학생마다 설명이 옳은지 따진다. 이 문항은 ‘잘못’ 설명한 학생을 고른다. → ② 기준: 목적어인 재귀대명사는 생략할 수 없다. 날씨·시간·요일·거리의 It은 뜻이 없는 비인칭 주어다. news, scissors 같은 명사의 수에 주의한다. → ③ Danny는 enjoyed의 목적어를 생략할 수 있다고 했고, Mark는 비인칭 It과 대명사 It을 같다고 했으며, Nina는 news를 복수로 보았다. 잘못 설명한 학생을 모으면 Danny, Mark, Nina이다.\n문장별 판정: Josh O(강조 용법이라 생략할 수 있다). Danny X(enjoyed의 목적어라 생략할 수 없다). Lisa O(These flowers). Mark X(날씨의 It은 비인칭 주어, It's my book의 It은 대명사다). Nina X(news는 단수 취급하므로 is).\n정답 판단: 잘못 설명한 학생은 Danny, Mark, Nina다.\n선택지 분석:\n① [오답] 잘못 설명한 학생은 Danny, Mark, Nina이므로 오답이다.\n② [오답] 잘못 설명한 학생은 Danny, Mark, Nina이므로 오답이다.\n③ [정답] 잘못 설명한 학생은 Danny, Mark, Nina이므로 정답이다.\n④ [오답] 잘못 설명한 학생은 Danny, Mark, Nina이므로 오답이다.\n⑤ [오답] 잘못 설명한 학생은 Danny, Mark, Nina이므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 중 잘못 설명한 학생들을 모두 고르시오.",
+   "passage": "Amy: She herself made the cake.에서 herself는 생략해도 문법적으로 옳아.\nBen: We enjoyed ourselves.에서 ourselves를 생략해도 옳은 문장이야.\nChloe: Those shoes is new.는 shoes가 복수이므로 is를 are로 고쳐야 해.\nDan: It is cold today.의 It은 날씨를 나타내는 비인칭 주어야.\nEve: This is hers.의 hers는 목적격 대명사야.",
+   "c": [
+    "Amy, Ben",
+    "Ben, Eve",
+    "Chloe, Dan",
+    "Ben, Dan, Eve",
+    "Amy, Chloe, Eve"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 재귀 용법(목적어)의 재귀대명사는 뺄 수 없고, 강조 용법은 빼도 된다. this/that은 단수, these/those는 복수와 쓰며, news는 단수 취급한다. 날씨·시간·거리를 나타내는 it은 비인칭 주어이고, hers·mine 같은 ‘~의 것’은 소유대명사이다.\n풀이 순서: ① 학생마다 설명이 옳은지 따진다. 이 문항은 ‘잘못’ 설명한 학생을 고른다. → ② 기준: 목적어인 재귀대명사는 생략할 수 없다. 날씨·시간·요일·거리의 It은 뜻이 없는 비인칭 주어다. news, scissors 같은 명사의 수에 주의한다. → ③ Ben은 enjoyed의 목적어 ourselves를 생략할 수 있다고 했고, Eve는 소유대명사 hers를 목적격이라고 했다. 잘못 설명한 학생을 모으면 Ben, Eve이다.\n문장별 판정:\nAmy 옳음: 강조 용법이라 빼도 된다.\nBen 틀림: enjoy의 목적어인 재귀 용법이라 뺄 수 없다.\nChloe 옳음: 복수 주어에는 are를 쓴다.\nDan 옳음: 날씨의 비인칭 주어 it이다.\nEve 틀림: hers는 ‘그녀의 것’이라는 소유대명사이다.\n정답 판단: 잘못 설명한 학생은 Ben, Eve이다.\n선택지 분석:\n① [오답] Amy는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Eve를 빠뜨렸다. 따라서 오답이다.\n② [정답] 잘못 설명한 학생 Ben, Eve를 빠짐없이 골랐으므로 정답이다.\n③ [오답] Chloe, Dan는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Ben, Eve를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Dan는 잘못 설명한 학생이 아니다. 따라서 오답이다.\n⑤ [오답] Amy, Chloe는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Ben를 빠뜨렸다. 따라서 오답이다."
+  },
+  "C": {
+   "stem": "다음 중 잘못 설명한 학생들을 모두 고르시오.",
+   "passage": "Tom: I hurt myself while I was cooking dinner.의 myself는 재귀 용법이라 생략할 수 없어.\nJane: This news about the test are good for us.은 news가 -s로 끝나서 옳은 문장이야.\nAmy: It's Sunday today.의 It과 It's my bag on the chair.의 It은 문법적으로 하는 역할이 같아.\nBen: I finished the whole project by myself.에서 by myself는 ‘혼자서’라는 뜻이야.\nMia: These is my notebooks for math class.는 옳은 문장이야.",
+   "c": [
+    "Tom, Jane",
+    "Amy, Ben",
+    "Jane, Mia",
+    "Jane, Amy, Mia",
+    "Tom, Ben, Mia"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 재귀 용법(목적어)의 재귀대명사는 뺄 수 없고, 강조 용법은 빼도 된다. this/that은 단수, these/those는 복수와 쓰며, news는 단수 취급한다. 날씨·시간·거리를 나타내는 it은 비인칭 주어이고, hers·mine 같은 ‘~의 것’은 소유대명사이다.\n풀이 순서: ① 학생마다 설명이 옳은지 따진다. 이 문항은 ‘잘못’ 설명한 학생을 고른다. → ② 기준: 목적어인 재귀대명사는 생략할 수 없다. 날씨·시간·요일·거리의 It은 뜻이 없는 비인칭 주어다. news, scissors 같은 명사의 수에 주의한다. → ③ Jane은 This news are를 옳다고 했고, Amy는 요일의 It과 대명사 It을 같다고 했으며, Mia는 These is를 옳다고 했다. 잘못 설명한 학생을 모으면 Jane, Amy, Mia이다.\n문장별 판정:\nTom 옳음: hurt의 목적어인 재귀 용법이다.\nJane 틀림: news는 단수 취급하므로 is를 쓴다.\nAmy 틀림: 앞의 It은 요일의 비인칭 주어, 뒤의 It은 ‘그것’을 가리키는 대명사이다.\nBen 옳음: by oneself는 ‘혼자서’이다.\nMia 틀림: 복수명사(notebooks)에는 These are를 쓴다.\n정답 판단: 잘못 설명한 학생은 Jane, Amy, Mia이다.\n선택지 분석:\n① [오답] Tom는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Amy, Mia를 빠뜨렸다. 따라서 오답이다.\n② [오답] Ben는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Jane, Mia를 빠뜨렸다. 따라서 오답이다.\n③ [오답] 잘못 설명한 학생 Amy를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 잘못 설명한 학생 Jane, Amy, Mia를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] Tom, Ben는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Jane, Amy를 빠뜨렸다. 따라서 오답이다."
+  },
+  "D": {
+   "stem": "다음 중 잘못 설명한 학생들을 모두 고르시오.",
+   "passage": "Leo: She herself did all the homework last night.의 herself는 생략해도 옳아.\nMina: Make yourself at home while I get some tea.는 ‘편하게 있어’라는 관용 표현이야.\nSam: Help yourselves to the cookies on the table.은 한 사람에게만 쓰는 표현이야.\nAmy: He looked at himself in the mirror for a long time.의 himself는 소유격이야.\nKai: That is a nice bag, and I want one, too.의 one은 bag을 대신해.",
+   "c": [
+    "Leo, Sam",
+    "Mina, Kai",
+    "Sam, Amy, Kai",
+    "Leo, Mina, Amy",
+    "Sam, Amy"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 재귀 용법(목적어)의 재귀대명사는 뺄 수 없고, 강조 용법은 빼도 된다. this/that은 단수, these/those는 복수와 쓰며, news는 단수 취급한다. 날씨·시간·거리를 나타내는 it은 비인칭 주어이고, hers·mine 같은 ‘~의 것’은 소유대명사이다.\n풀이 순서: ① 학생마다 설명이 옳은지 따진다. 이 문항은 ‘잘못’ 설명한 학생을 고른다. → ② 기준: 목적어인 재귀대명사는 생략할 수 없다. 날씨·시간·요일·거리의 It은 뜻이 없는 비인칭 주어다. news, scissors 같은 명사의 수에 주의한다. → ③ Sam은 Help yourselves를 한 사람에게 쓴다고 했고, Amy는 목적어인 himself를 소유격이라고 했다. 잘못 설명한 학생을 모으면 Sam, Amy이다.\n문장별 판정:\nLeo 옳음: 강조 용법이라 빼도 된다.\nMina 옳음: 관용 표현이다.\nSam 틀림: yourselves는 여러 사람에게 쓴다.\nAmy 틀림: himself는 재귀대명사이다.\nKai 옳음: one은 같은 종류의 물건(bag)을 대신한다.\n정답 판단: 잘못 설명한 학생은 Sam, Amy이다.\n선택지 분석:\n① [오답] Leo는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Amy를 빠뜨렸다. 따라서 오답이다.\n② [오답] Mina, Kai는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Sam, Amy를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Kai는 잘못 설명한 학생이 아니다. 따라서 오답이다.\n④ [오답] Leo, Mina는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Sam를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 잘못 설명한 학생 Sam, Amy를 빠짐없이 골랐으므로 정답이다."
+  },
+  "E": {
+   "stem": "다음 중 잘못 설명한 학생들을 모두 고르시오.",
+   "passage": "Jane: I did it myself without any help from my parents.의 myself는 강조 용법이라 생략해도 옳아.\nTom: They talked to themselves quietly in the corner.에서 themselves를 them으로 바꿔도 뜻이 같아.\nBen: This scissors is sharp, so be careful with it.은 옳은 문장이야.\nMina: It's 7 o'clock now, so we should leave.의 It은 시간을 나타내는 비인칭 주어야.\nLeo: The glasses on the table are my, not yours.는 옳은 문장이야.",
+   "c": [
+    "Tom, Ben, Leo",
+    "Jane, Mina",
+    "Tom, Ben",
+    "Ben, Mina, Leo",
+    "Jane, Tom, Leo"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 재귀 용법(목적어)의 재귀대명사는 뺄 수 없고, 강조 용법은 빼도 된다. this/that은 단수, these/those는 복수와 쓰며, news는 단수 취급한다. 날씨·시간·거리를 나타내는 it은 비인칭 주어이고, hers·mine 같은 ‘~의 것’은 소유대명사이다.\n풀이 순서: ① 학생마다 설명이 옳은지 따진다. 이 문항은 ‘잘못’ 설명한 학생을 고른다. → ② 기준: 목적어인 재귀대명사는 생략할 수 없다. 날씨·시간·요일·거리의 It은 뜻이 없는 비인칭 주어다. news, scissors 같은 명사의 수에 주의한다. → ③ Tom은 themselves를 them으로 바꿔도 같다고 했고, Ben은 This scissors is를, Leo는 are my를 옳다고 했다. 잘못 설명한 학생을 모으면 Tom, Ben, Leo이다.\n문장별 판정:\nJane 옳음: 강조 용법이라 빼도 된다.\nTom 틀림: them으로 바꾸면 다른 사람들에게 말했다는 뜻이 된다.\nBen 틀림: scissors는 복수 취급하므로 These scissors are이다.\nMina 옳음: 시간의 비인칭 주어 it이다.\nLeo 틀림: 뒤에 명사가 없으므로 소유대명사 mine을 쓴다.\n정답 판단: 잘못 설명한 학생은 Tom, Ben, Leo이다.\n선택지 분석:\n① [정답] 잘못 설명한 학생 Tom, Ben, Leo를 빠짐없이 골랐으므로 정답이다.\n② [오답] Jane, Mina는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Tom, Ben, Leo를 빠뜨렸다. 따라서 오답이다.\n③ [오답] 잘못 설명한 학생 Leo를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Mina는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Tom를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] Jane는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Ben를 빠뜨렸다. 따라서 오답이다."
+  },
+  "F": {
+   "stem": "다음 중 잘못 설명한 학생들을 모두 고르시오.",
+   "passage": "Sam: The boy hurt himself when he fell off the bike.는 주어와 목적어가 같은 대상이야.\nAmy: She herself called me late last night.에서 herself를 빼면 틀린 문장이 돼.\nTom: Help yourself to the cake on the table.는 ‘케이크를 마음껏 먹어’라는 뜻이야.\nJane: We enjoyed ourselves at the beach last weekend.에서 ourselves는 단수 재귀대명사야.\nKai: It's far from here to the station.의 It은 거리를 나타내는 비인칭 주어야.",
+   "c": [
+    "Sam, Amy",
+    "Amy, Tom, Jane",
+    "Amy, Jane",
+    "Jane, Kai",
+    "Sam, Tom, Kai"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 재귀 용법(목적어)의 재귀대명사는 뺄 수 없고, 강조 용법은 빼도 된다. this/that은 단수, these/those는 복수와 쓰며, news는 단수 취급한다. 날씨·시간·거리를 나타내는 it은 비인칭 주어이고, hers·mine 같은 ‘~의 것’은 소유대명사이다.\n풀이 순서: ① 학생마다 설명이 옳은지 따진다. 이 문항은 ‘잘못’ 설명한 학생을 고른다. → ② 기준: 목적어인 재귀대명사는 생략할 수 없다. 날씨·시간·요일·거리의 It은 뜻이 없는 비인칭 주어다. news, scissors 같은 명사의 수에 주의한다. → ③ Amy는 강조 용법의 herself를 빼면 틀린다고 했고, Jane은 ourselves를 단수라고 했다. 잘못 설명한 학생을 모으면 Amy, Jane이다.\n문장별 판정:\nSam 옳음: 재귀 용법이다.\nAmy 틀림: 강조 용법이라 빼도 옳은 문장이다.\nTom 옳음: 관용 표현이다.\nJane 틀림: ourselves는 복수(우리 자신)이다.\nKai 옳음: 거리의 비인칭 주어 it이다.\n정답 판단: 잘못 설명한 학생은 Amy, Jane이다.\n선택지 분석:\n① [오답] Sam는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Jane를 빠뜨렸다. 따라서 오답이다.\n② [오답] Tom는 잘못 설명한 학생이 아니다. 따라서 오답이다.\n③ [정답] 잘못 설명한 학생 Amy, Jane를 빠짐없이 골랐으므로 정답이다.\n④ [오답] Kai는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Amy를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] Sam, Tom, Kai는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Amy, Jane를 빠뜨렸다. 따라서 오답이다."
+  }
+ },
+ "prior_review": {}
+}

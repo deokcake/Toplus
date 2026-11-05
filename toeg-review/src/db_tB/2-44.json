@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T06:24:53.398Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 재귀대명사가 동사·전치사의 목적어로서 주어와 같은 대상을 가리키면 재귀 용법이다. 주어가 직접 했음을 덧붙이면 강조 용법이며 빼도 핵심 문장 구조가 유지된다.\n풀이 순서: ① <보기>의 재귀대명사(himself)를 빼 본다. ‘The chef served the final dish.’만으로도 문장이 완전하다. 주어를 강조하는 강조 용법이다. → ② 보기마다 재귀대명사를 빼 본다. 동사나 전치사의 목적어가 사라져 문장이 깨지면 재귀 용법이다. → ③ 선택지 ④만 빼도 문장이 성립한다(The students organized the festival.).\n문장별 판정:\n정답 판단: 제시문 The chef himself served the final dish.의 재귀대명사는 주어가 직접 했음을 강조한다. themselves는 주어 The students가 직접 축제를 조직했음을 강조한다. 이를 빼도 주어·동사·필수 목적어가 남으므로 제시문의 강조 용법과 같다.\n선택지 분석:\n① [오답] myself는 전치사 at의 목적어이며 보는 대상이 주어 I와 같다는 재귀 용법이다.\n② [오답] themselves는 introduced의 목적어로서 주어와 같은 대상을 가리키는 재귀 용법이다.\n③ [오답] herself는 hurt의 목적어로서 주어와 같은 대상을 가리키는 재귀 용법이다.\n④ [정답] themselves는 주어 The students가 직접 축제를 조직했음을 강조한다. 이를 빼도 주어·동사·필수 목적어가 남으므로 제시문의 강조 용법과 같다.\n⑤ [오답] himself는 blamed의 목적어로서 주어와 같은 대상을 가리키는 재귀 용법이다.",
+    "passage": "<보기>\nThe chef <u>himself</u> served the final dish.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T06:24:52.372Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T06:24:53.398Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T06:24:53.398Z",
+      "what": "확인 완료"
+    }
+  }
+}

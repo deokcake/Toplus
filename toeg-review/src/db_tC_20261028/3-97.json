@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T05:18:34.495Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "The train is running fastlier along the river.",
+      "1": "The train is running fast along the river.",
+      "2": "The train is running very fastly along the river.",
+      "3": "The train is running too fasting along the river.",
+      "4": "The train is running fastly along the river."
+    },
+    "expl": "핵심 규칙: high(높이)/highly(매우), late(늦게)/lately(최근에), hard(열심히)/hardly(거의 ~않다), wide(활짝)/widely(널리)처럼 -ly가 붙으면 뜻이 달라지는 부사가 있고, fast·early는 -ly 없이 부사로 쓴다.\n풀이 순서: ① 밑줄 친 부사의 뜻을 확인한다: fastly라는 말은 없다. → ② ‘빨리’라는 뜻의 부사는 형용사와 형태가 같은 fast다. → ③ 부사만 바르게 고치고 나머지는 그대로 둔 문장을 고른다. 정답은 ②.\n문장별 판정:\n정답 판단: fast는 -ly 없이 그대로 부사로 쓰므로 정답은 ②이다.\n선택지 분석:\n① [오답] fastlier라는 형태는 없으므로 오답이다.\n② [정답] fast는 -ly 없이 그대로 부사로 쓰므로 정답이다.\n③ [오답] fastly라는 말이 없어 very를 붙여도 틀리므로 오답이다.\n④ [오답] fasting은 ‘빠르게’라는 부사가 아니므로 오답이다.\n⑤ [오답] 틀린 부분(fastly)을 그대로 두었으므로 오답이다.",
+    "passage": "The train is running <u>fastly</u> along the river.\n(기차가 강을 따라 빠르게 달리고 있다.)",
+    "stem": "다음 문장에서 밑줄 친 부분을 바르게 고친 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:18:25.605Z"
+  },
+  "tab": "fhh9u0lo",
+  "updatedAt": "2026-10-23T05:18:34.495Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:18:34.495Z",
+      "what": "확인 완료"
+    }
+  }
+}

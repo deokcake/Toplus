@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T04:09:23.558Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "her",
+      "1": "me",
+      "2": "him",
+      "3": "they",
+      "4": "you"
+    },
+    "expl": "핵심 규칙: 앞에 나온 사람·사물을 대명사로 받을 때는 수(단수·복수)와 성(남·여)을 맞추고, 동사 뒤 목적어 자리에는 목적격(me, you, him, her, it, us, them)을 쓴다.\n풀이 순서: ① 빈칸이 가리키는 말을 앞에서 찾는다: Jane(여자 한 명). → ② 빈칸은 동사 뒤 목적어 자리이므로 목적격을 쓴다: her. → ③ 정답은 her.\n문장별 판정:\n정답 판단: 빈칸은 동사 called 뒤 목적어 자리이고 Jane(여자 한 명)을 받으므로 목적격 her가 들어간다. 정답은 ①이다.\n선택지 분석:\n① [정답] Jane(여자 한 명)을 받는 목적격이므로 정답이다.\n② [오답] me는 B 자신을 가리켜 Jane을 받을 수 없으므로 오답이다.\n③ [오답] him은 남자 한 명을 받는 목적격이라 Jane을 받을 수 없으므로 오답이다.\n④ [오답] they는 주격이고 복수라 동사 뒤 목적어 자리에서 Jane을 받을 수 없으므로 오답이다.\n⑤ [오답] you는 상대방 A를 가리켜 Jane을 받을 수 없으므로 오답이다.",
+    "passage": "A: Did you call Jane about the class party?\nB: Yes, I called ________ after dinner last night.",
+    "stem": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:11:13.209Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:11:18.124Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:09:23.558Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:09:20.719Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:09:23.558Z",
+      "what": "확인 완료"
+    }
+  }
+}

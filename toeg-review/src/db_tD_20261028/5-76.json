@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T09:38:07.932Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "Tom runs very fast.",
+      "1": "Tom very runs fast.",
+      "2": "Tom runs fast very.",
+      "3": "Runs Tom very fast.",
+      "4": "Tom fast runs very."
+    },
+    "expl": "핵심 규칙: 영어 문장은 주어 + 동사 + 목적어·보어의 어순으로 쓴다. 형용사는 명사 앞(a + 형용사 + 명사)이나 be동사 뒤에, very는 꾸미는 형용사·부사 바로 앞에, 동사를 꾸미는 부사는 보통 문장 끝에 둔다.\n풀이 순서: ① 주어와 동사를 먼저 찾는다: Tom / runs. → ② 나머지를 묶는다: very + fast(very는 부사 앞). → ③ 주어 + 동사 + 나머지의 순서로 놓는다. 정답은 ①.\n문장별 판정:\n정답 판단: 주어 + 동사 + very + 부사의 어순으로 바르게 배열했으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 주어 + 동사 + very + 부사의 어순으로 바르게 배열했으므로 정답이다.\n② [오답] very는 동사가 아니라 부사 fast 앞에 와야 하므로 오답이다.\n③ [오답] very는 꾸미는 부사 fast 앞에 와야 하므로 오답이다.\n④ [오답] 동사 runs로 문장을 시작해 주어 + 동사의 어순이 아니므로 오답이다.\n⑤ [오답] 부사 fast는 동사 runs 뒤에, very는 fast 앞에 와야 하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 주어진 단어를 적절하게 배열하여 올바른 문장을 완성한 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T09:38:06.528Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T09:38:07.932Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T09:38:07.932Z",
+      "what": "확인 완료"
+    }
+  }
+}

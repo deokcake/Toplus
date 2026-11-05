@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:14:33.062Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "on",
+      "1": "There",
+      "2": "books",
+      "3": "are",
+      "4": "shelf"
+    },
+    "expl": "핵심 규칙: 우리말 뜻에 맞게 주어 + 동사 + (목적어) + 전치사 + 명사의 어순으로 배열한다. There is/are 문장은 There + be동사 + 주어로 시작하고, 명령문은 동사원형으로 시작한다.\n풀이 순서: ① 우리말에 맞게 문장을 완성한다: There are books on the shelf. → ② 앞에서부터 센다. → ③ 세 번째 낱말은 books. 정답은 ③.\n문장별 판정:\n정답 판단: 완성 문장은 There are books on the shelf.이고, 세 번째 단어는 books이다.\n선택지 분석:\n① [오답] on은 네 번째에 오므로 오답이다.\n② [오답] There는 첫 번째에 오므로 오답이다.\n③ [정답] books는 세 번째에 오므로 정답이다.\n④ [오답] are는 두 번째에 오므로 오답이다.\n⑤ [오답] shelf는 여섯 번째에 오므로 오답이다.",
+    "passage": "선반 위에 책들이 있다.\n(on / There / books / the / are / shelf)",
+    "stem": "주어진 단어들을 바르게 배열할 때, 세 번째에 오는 단어는 무엇입니까?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T08:14:32.409Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T08:14:33.062Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T08:14:33.062Z",
+      "what": "확인 완료"
+    }
+  }
+}

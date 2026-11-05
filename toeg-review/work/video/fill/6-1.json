@@ -1,0 +1,452 @@
+{
+ "A": {
+  "title": "명사의 복수형 만들기",
+  "intro": "이 문제는 명사의 단수형과 복수형 짝 가운데 복수형을 잘못 만든 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 있는 명사로 둘 이상을 말할 때 → 복수형, 대부분 + s (cat → cats)",
+    "s, x, sh, ch → + es (fox → foxes) / 자음 + y → y를 i로 + es (story → stories)",
+    "f, fe로 끝나는 많은 명사 → f, fe를 v로 바꾸고 + es (leaf → leaves)",
+    "불규칙: man → men, child → children / 단수·복수 같음: deer",
+    "예) I have three dresses. (나는 드레스 세 벌이 있어요.)"
+   ],
+   "narration": "셀 수 있는 명사로 둘 이상을 말할 때는 복수형을 쓰는데, 대부분 s를 붙이고 s, x, sh, ch로 끝나면 보통 es를 붙여요. y 앞이 자음이면 y를 i로 바꾸고 es를 붙여요. f나 fe로 끝나는 많은 명사는 f나 fe를 v로 바꾸고 es를 붙여요. man은 men, child는 children처럼 불규칙하게 바뀌는 명사와 deer처럼 단수와 복수가 같은 명사는 따로 외워요. 예를 들어 I have three dresses, 나는 드레스 세 벌이 있어요."
+  },
+  "steps": [
+   {
+    "note": "‘잘못 짝지어진 것’ 찾기 → 끝 글자 규칙 짝부터: babies(자음 + y), dishes(sh), wolves(f → v) 모두 바름",
+    "highlight": [
+     "잘못 짝지어진 것"
+    ],
+    "strike": [
+     "① baby - babies",
+     "② dish - dishes",
+     "③ wolf - wolves"
+    ],
+    "narration": "첫째, 잘못 짝지어진 것을 찾으니까 끝 글자 규칙대로 바뀌는 짝부터 확인해요. baby는 y 앞이 자음이라 babies, dish는 sh로 끝나서 dishes, wolf는 f를 v로 바꾸고 es를 붙인 wolves로 모두 맞아요."
+   },
+   {
+    "note": "sheep은 단수·복수 모양이 같은 명사 → 바른 짝",
+    "highlight": [],
+    "strike": [
+     "⑤ sheep - sheep"
+    ],
+    "narration": "둘째, sheep은 단수와 복수의 모양이 같은 명사라서 sheep과 sheep의 짝도 맞아요."
+   },
+   {
+    "note": "foot은 불규칙 명사 → 복수형 feet, foots는 틀림",
+    "highlight": [
+     "④ foot - foots"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 foot은 불규칙하게 바뀌는 명사라서 복수형은 s를 붙인 foots가 아니라 feet예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① baby - babies  ✗  y 앞이 자음 → y를 i로 바꾸고 + es, 바른 짝",
+    "② dish - dishes  ✗  sh로 끝나서 + es, 바른 짝",
+    "③ wolf - wolves  ✗  f를 v로 바꾸고 + es, 바른 짝",
+    "④ foot - foots  ✓  foot의 복수형은 feet, foots는 틀린 모양",
+    "⑤ sheep - sheep  ✗  단수와 복수가 같은 명사, 바른 짝"
+   ],
+   "narration": "정답은 4번 foot과 foots의 짝이에요. foot의 복수형은 feet라서 s를 붙인 foots는 틀렸어요. 5번 sheep은 모양이 그대로라 틀려 보이지만, 단수와 복수가 같은 명사라서 바른 짝이에요. 3번 wolf는 f를 v로 바꾸고 es를 붙인 wolves가 바른 모양이에요. 1번 baby도 y 앞이 자음이라 y를 i로 바꾸고 es를 붙인 babies가 바른 모양이에요."
+  },
+  "summary": {
+   "card": "불규칙 명사는 s 대신 정해진 복수형: foot → feet",
+   "narration": "정답은 4번이에요. 기억할 것, foot처럼 불규칙하게 바뀌는 명사는 s를 붙이지 않고 feet처럼 정해진 복수형을 써요."
+  },
+  "captions": [
+   "명사의 복수형 짝 확인",
+   "먼저 풀어 보세요",
+   "s, es, ies, ves와 불규칙 복수형",
+   "규칙 짝 → 같은 모양 → foot",
+   "정답 ④ foot - foots",
+   "foot → feet"
+  ],
+  "sec": [
+   10,
+   15,
+   30,
+   41,
+   34,
+   10
+  ]
+ },
+ "B": {
+  "title": "명사의 복수형 만들기",
+  "intro": "이 문제는 명사의 단수형과 복수형 짝 가운데 복수형을 잘못 만든 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 있는 명사로 둘 이상을 말할 때 → 복수형, 대부분 + s (cat → cats)",
+    "s, x, sh, ch로 끝나면 + es (bus → buses)",
+    "자음 + y → y를 i로 바꾸고 + es (story → stories)",
+    "불규칙: man → men, tooth → teeth, mouse → mice",
+    "예) I have two pens and three brushes. (나는 펜 두 자루와 붓 세 자루가 있어요.)"
+   ],
+   "narration": "셀 수 있는 명사로 둘 이상을 말할 때는 복수형을 써요. 대부분 cat을 cats로 쓰듯이 s를 붙이고, s, x, sh, ch로 끝나면 보통 es를 붙여요. y 앞이 자음이면 y를 i로 바꾸고 es를 붙여요. man은 men, tooth는 teeth, mouse는 mice처럼 불규칙하게 바뀌는 명사는 따로 외워요. 예를 들어 I have two pens and three brushes, 나는 펜 두 자루와 붓 세 자루가 있어요."
+  },
+  "steps": [
+   {
+    "note": "‘잘못 짝지어진 것’ 찾기 → 규칙 짝부터: boxes(x로 끝남), books(+ s) 바름",
+    "highlight": [
+     "잘못 짝지어진 것"
+    ],
+    "strike": [
+     "② box - boxes",
+     "⑤ book - books"
+    ],
+    "narration": "첫째, 잘못 짝지어진 것을 찾으니까 끝 글자 규칙대로 바뀌는 짝부터 확인해요. box는 x로 끝나서 es를 붙인 boxes, book은 s만 붙인 books로 모두 맞아요."
+   },
+   {
+    "note": "불규칙 명사: woman → women, foot → feet 바름",
+    "highlight": [],
+    "strike": [
+     "① woman - women",
+     "③ foot - feet"
+    ],
+    "narration": "둘째, 남은 짝은 불규칙하게 바뀌는 명사예요. woman은 women, foot은 feet로 바르게 짝지어졌어요."
+   },
+   {
+    "note": "child의 복수형은 children → childs는 틀림",
+    "highlight": [
+     "④ child - childs"
+    ],
+    "strike": [],
+    "narration": "셋째, child의 복수형은 children이라서 s를 붙인 childs는 틀린 모양이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① woman - women  ✗  woman의 불규칙 복수형 women, 바른 짝",
+    "② box - boxes  ✗  x로 끝나서 + es, 바른 짝",
+    "③ foot - feet  ✗  foot의 불규칙 복수형 feet, 바른 짝",
+    "④ child - childs  ✓  child의 복수형은 children, childs는 틀린 모양",
+    "⑤ book - books  ✗  s만 붙이는 명사, 바른 짝"
+   ],
+   "narration": "정답은 4번 child와 childs의 짝이에요. child의 복수형은 children이라서 s를 붙인 childs는 틀렸어요. 1번 women과 3번 feet는 s를 붙이지 않아서 틀려 보이지만, 불규칙하게 바뀌는 명사의 바른 복수형이에요. 2번 box는 x로 끝나서 es를 붙인 boxes가 바른 모양이에요."
+  },
+  "summary": {
+   "card": "불규칙 명사는 s 대신 정해진 복수형: child → children",
+   "narration": "정답은 4번이에요. 기억할 것, child처럼 불규칙하게 바뀌는 명사는 s를 붙이지 않고 children처럼 정해진 복수형을 써요."
+  },
+  "captions": [
+   "명사의 복수형 짝 확인",
+   "먼저 풀어 보세요",
+   "s, es, ies와 불규칙 복수형",
+   "규칙 짝 → 불규칙 짝 → child",
+   "정답 ④ child - childs",
+   "child → children"
+  ],
+  "sec": [
+   10,
+   15,
+   29,
+   37,
+   28,
+   10
+  ]
+ },
+ "C": {
+  "title": "명사의 복수형 만들기",
+  "intro": "이 문제는 명사의 단수형과 복수형 짝 가운데 복수형을 잘못 만든 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 있는 명사로 둘 이상을 말할 때 → 복수형, 대부분 + s (cup → cups)",
+    "s, x, sh, ch로 끝나면 + es (box → boxes)",
+    "자음 + y → y를 i로 바꾸고 + es (baby → babies)",
+    "불규칙: child → children, foot → feet, mouse → mice",
+    "예) I eat two peaches every day. (나는 날마다 복숭아 두 개를 먹어요.)"
+   ],
+   "narration": "셀 수 있는 명사로 둘 이상을 말할 때는 복수형을 써요. 대부분 cup을 cups로 쓰듯이 s를 붙이고, s, x, sh, ch로 끝나면 보통 es를 붙여요. y 앞이 자음이면 y를 i로 바꾸고 es를 붙여요. child는 children, foot은 feet, mouse는 mice처럼 불규칙하게 바뀌는 명사는 따로 외워요. 예를 들어 I eat two peaches every day, 나는 날마다 복숭아 두 개를 먹어요."
+  },
+  "steps": [
+   {
+    "note": "‘잘못 짝지어진 것’ 찾기 → 규칙 짝부터: classes(s로 끝남), watches(ch로 끝남) 바름",
+    "highlight": [
+     "잘못 짝지어진 것"
+    ],
+    "strike": [
+     "② class - classes",
+     "⑤ watch - watches"
+    ],
+    "narration": "첫째, 잘못 짝지어진 것을 찾으니까 끝 글자 규칙대로 바뀌는 짝부터 확인해요. class는 s로 끝나서 classes, watch는 ch로 끝나서 watches로 모두 es를 바르게 붙였어요."
+   },
+   {
+    "note": "불규칙 명사: woman → women, man → men 바름",
+    "highlight": [],
+    "strike": [
+     "① woman - women",
+     "③ man - men"
+    ],
+    "narration": "둘째, 남은 짝은 불규칙하게 바뀌는 명사예요. woman은 women, man은 men으로 바르게 짝지어졌어요."
+   },
+   {
+    "note": "tooth의 복수형은 teeth → tooths는 틀림",
+    "highlight": [
+     "④ tooth - tooths"
+    ],
+    "strike": [],
+    "narration": "셋째, tooth의 복수형은 teeth라서 s를 붙인 tooths는 틀린 모양이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① woman - women  ✗  woman의 불규칙 복수형 women, 바른 짝",
+    "② class - classes  ✗  s로 끝나서 + es, 바른 짝",
+    "③ man - men  ✗  man의 불규칙 복수형 men, 바른 짝",
+    "④ tooth - tooths  ✓  tooth의 복수형은 teeth, tooths는 틀린 모양",
+    "⑤ watch - watches  ✗  ch로 끝나서 + es, 바른 짝"
+   ],
+   "narration": "정답은 4번 tooth와 tooths의 짝이에요. tooth의 복수형은 teeth라서 s를 붙인 tooths는 틀렸어요. 1번 women과 3번 men은 s를 붙이지 않아서 틀려 보이지만, 불규칙하게 바뀌는 명사의 바른 복수형이에요. 2번 class는 s로 끝나서 es를 붙인 classes가 바른 모양이에요."
+  },
+  "summary": {
+   "card": "불규칙 명사는 s 대신 정해진 복수형: tooth → teeth",
+   "narration": "정답은 4번이에요. 기억할 것, tooth처럼 불규칙하게 바뀌는 명사는 s를 붙이지 않고 teeth처럼 정해진 복수형을 써요."
+  },
+  "captions": [
+   "명사의 복수형 짝 확인",
+   "먼저 풀어 보세요",
+   "s, es, ies와 불규칙 복수형",
+   "규칙 짝 → 불규칙 짝 → tooth",
+   "정답 ④ tooth - tooths",
+   "tooth → teeth"
+  ],
+  "sec": [
+   10,
+   15,
+   29,
+   38,
+   28,
+   10
+  ]
+ },
+ "D": {
+  "title": "명사의 복수형 만들기",
+  "intro": "이 문제는 명사의 단수형과 복수형 짝 가운데 복수형을 잘못 만든 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 있는 명사로 둘 이상을 말할 때 → 복수형, 대부분 + s (cat → cats)",
+    "s, x, sh, ch → + es (box → boxes) / o로 끝나는 일부 명사도 + es (tomato → tomatoes)",
+    "f, fe로 끝나는 많은 명사 → f, fe를 v로 바꾸고 + es (leaf → leaves)",
+    "불규칙: man → men, child → children / 단수·복수 같음: sheep",
+    "예) There are two benches. (벤치가 두 개 있어요.)"
+   ],
+   "narration": "셀 수 있는 명사로 둘 이상을 말할 때는 복수형을 쓰는데, 대부분 s를 붙이고 s, x, sh, ch로 끝나면 보통 es를 붙여요. tomato처럼 o로 끝나는 명사 가운데 es를 붙이는 것도 있고, f나 fe로 끝나는 많은 명사는 f나 fe를 v로 바꾸고 es를 붙여요. man은 men, child는 children처럼 불규칙하게 바뀌는 명사와 sheep처럼 단수와 복수가 같은 명사는 따로 외워요. 예를 들어 There are two benches, 벤치가 두 개 있어요."
+  },
+  "steps": [
+   {
+    "note": "‘잘못 짝지어진 것’ 찾기 → 규칙 짝부터: potatoes, heroes(+ es), knives(fe → v + es) 바름",
+    "highlight": [
+     "잘못 짝지어진 것"
+    ],
+    "strike": [
+     "② potato - potatoes",
+     "③ knife - knives",
+     "⑤ hero - heroes"
+    ],
+    "narration": "첫째, 잘못 짝지어진 것을 찾으니까 끝 글자 규칙대로 바뀌는 짝부터 확인해요. potato와 hero는 es를 붙이는 명사라서 potatoes와 heroes가 맞고, knife는 fe를 v로 바꾸고 es를 붙인 knives가 맞아요."
+   },
+   {
+    "note": "deer는 단수·복수 모양이 같은 명사 → 바른 짝",
+    "highlight": [],
+    "strike": [
+     "④ deer - deer"
+    ],
+    "narration": "둘째, deer는 단수와 복수의 모양이 같은 명사라서 deer와 deer의 짝도 맞아요."
+   },
+   {
+    "note": "woman은 불규칙 명사 → 복수형 women, womans는 틀림",
+    "highlight": [
+     "① woman - womans"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 woman은 불규칙하게 바뀌는 명사라서 복수형은 s를 붙인 womans가 아니라 women이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① woman - womans  ✓  woman의 복수형은 women, womans는 틀린 모양",
+    "② potato - potatoes  ✗  potato는 + es로 쓰는 명사, 바른 짝",
+    "③ knife - knives  ✗  fe를 v로 바꾸고 + es, 바른 짝",
+    "④ deer - deer  ✗  단수와 복수가 같은 명사, 바른 짝",
+    "⑤ hero - heroes  ✗  hero는 + es로 쓰는 명사, 바른 짝"
+   ],
+   "narration": "정답은 1번 woman과 womans의 짝이에요. woman의 복수형은 women이라서 s를 붙인 womans는 틀렸어요. 4번 deer는 모양이 그대로라 틀려 보이지만, 단수와 복수가 같은 명사라서 바른 짝이에요. 3번 knife는 fe를 v로 바꾸고 es를 붙인 knives가 바른 모양이에요. 2번 potato도 es를 붙인 potatoes가 바른 모양이에요."
+  },
+  "summary": {
+   "card": "불규칙 명사는 s 대신 정해진 복수형: woman → women",
+   "narration": "정답은 1번이에요. 기억할 것, woman처럼 불규칙하게 바뀌는 명사는 s를 붙이지 않고 women처럼 정해진 복수형을 써요."
+  },
+  "captions": [
+   "명사의 복수형 짝 확인",
+   "먼저 풀어 보세요",
+   "s, es, ves와 불규칙 복수형",
+   "규칙 짝 → 같은 모양 → woman",
+   "정답 ① woman - womans",
+   "woman → women"
+  ],
+  "sec": [
+   10,
+   15,
+   30,
+   42,
+   33,
+   10
+  ]
+ },
+ "E": {
+  "title": "명사의 복수형 만들기",
+  "intro": "이 문제는 명사의 단수형과 복수형 짝 가운데 복수형을 잘못 만든 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 있는 명사로 둘 이상을 말할 때 → 복수형, 대부분 + s (cup → cups)",
+    "s, x, sh, ch로 끝나면 + es (box → boxes)",
+    "자음 + y → y를 i로 바꾸고 + es (baby → babies)",
+    "불규칙: woman → women, foot → feet, goose → geese",
+    "예) I read two stories every night. (나는 밤마다 이야기 두 편을 읽어요.)"
+   ],
+   "narration": "셀 수 있는 명사로 둘 이상을 말할 때는 복수형을 써요. 대부분 cup을 cups로 쓰듯이 s를 붙이고, s, x, sh, ch로 끝나면 보통 es를 붙여요. y 앞이 자음이면 y를 i로 바꾸고 es를 붙여요. woman은 women, foot은 feet, goose는 geese처럼 불규칙하게 바뀌는 명사는 따로 외워요. 예를 들어 I read two stories every night, 나는 밤마다 이야기 두 편을 읽어요."
+  },
+  "steps": [
+   {
+    "note": "‘잘못 짝지어진 것’ 찾기 → 규칙 짝부터: buses(s로 끝남), ladies(자음 + y) 바름",
+    "highlight": [
+     "잘못 짝지어진 것"
+    ],
+    "strike": [
+     "③ bus - buses",
+     "④ lady - ladies"
+    ],
+    "narration": "첫째, 잘못 짝지어진 것을 찾으니까 끝 글자 규칙대로 바뀌는 짝부터 확인해요. bus는 s로 끝나서 es를 붙인 buses, lady는 y 앞이 자음이라 y를 i로 바꾸고 es를 붙인 ladies로 모두 맞아요."
+   },
+   {
+    "note": "불규칙 명사: child → children, mouse → mice 바름",
+    "highlight": [],
+    "strike": [
+     "① child - children",
+     "② mouse - mice"
+    ],
+    "narration": "둘째, 남은 짝은 불규칙하게 바뀌는 명사예요. child는 children, mouse는 mice로 바르게 짝지어졌어요."
+   },
+   {
+    "note": "man의 복수형은 men → mans는 틀림",
+    "highlight": [
+     "⑤ man - mans"
+    ],
+    "strike": [],
+    "narration": "셋째, man의 복수형은 men이라서 s를 붙인 mans는 틀린 모양이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① child - children  ✗  child의 불규칙 복수형 children, 바른 짝",
+    "② mouse - mice  ✗  mouse의 불규칙 복수형 mice, 바른 짝",
+    "③ bus - buses  ✗  s로 끝나서 + es, 바른 짝",
+    "④ lady - ladies  ✗  y 앞이 자음 → y를 i로 바꾸고 + es, 바른 짝",
+    "⑤ man - mans  ✓  man의 복수형은 men, mans는 틀린 모양"
+   ],
+   "narration": "정답은 5번 man과 mans의 짝이에요. man의 복수형은 men이라서 s를 붙인 mans는 틀렸어요. 1번 children과 2번 mice는 s를 붙이지 않아서 틀려 보이지만, 불규칙하게 바뀌는 명사의 바른 복수형이에요. 4번 lady는 y 앞이 자음이라 y를 i로 바꾸고 es를 붙인 ladies가 바른 모양이에요."
+  },
+  "summary": {
+   "card": "불규칙 명사는 s 대신 정해진 복수형: man → men",
+   "narration": "정답은 5번이에요. 기억할 것, man처럼 불규칙하게 바뀌는 명사는 s를 붙이지 않고 men처럼 정해진 복수형을 써요."
+  },
+  "captions": [
+   "명사의 복수형 짝 확인",
+   "먼저 풀어 보세요",
+   "s, es, ies와 불규칙 복수형",
+   "규칙 짝 → 불규칙 짝 → man",
+   "정답 ⑤ man - mans",
+   "man → men"
+  ],
+  "sec": [
+   10,
+   15,
+   29,
+   39,
+   29,
+   9
+  ]
+ },
+ "F": {
+  "title": "명사의 복수형 만들기",
+  "intro": "이 문제는 명사의 단수형과 복수형 짝 가운데 복수형을 잘못 만든 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 있는 명사로 둘 이상을 말할 때 → 복수형, 대부분 + s (cup → cups)",
+    "s, x, sh, ch로 끝나면 + es (dish → dishes)",
+    "자음 + y → y를 i로 바꾸고 + es (baby → babies)",
+    "불규칙: man → men, child → children, foot → feet",
+    "예) Two foxes live in the forest. (여우 두 마리가 숲에 살아요.)"
+   ],
+   "narration": "셀 수 있는 명사로 둘 이상을 말할 때는 복수형을 써요. 대부분 cup을 cups로 쓰듯이 s를 붙이고, s, x, sh, ch로 끝나면 보통 es를 붙여요. y 앞이 자음이면 y를 i로 바꾸고 es를 붙여요. man은 men, child는 children, foot은 feet처럼 불규칙하게 바뀌는 명사는 따로 외워요. 예를 들어 Two foxes live in the forest, 여우 두 마리가 숲에 살아요."
+  },
+  "steps": [
+   {
+    "note": "‘잘못 짝지어진 것’ 찾기 → 규칙 짝부터: cities(자음 + y), boxes(x로 끝남) 바름",
+    "highlight": [
+     "잘못 짝지어진 것"
+    ],
+    "strike": [
+     "① city - cities",
+     "② box - boxes"
+    ],
+    "narration": "첫째, 잘못 짝지어진 것을 찾으니까 끝 글자 규칙대로 바뀌는 짝부터 확인해요. city는 y 앞이 자음이라 y를 i로 바꾸고 es를 붙인 cities, box는 x로 끝나서 es를 붙인 boxes로 모두 맞아요."
+   },
+   {
+    "note": "불규칙 명사: tooth → teeth, goose → geese 바름",
+    "highlight": [],
+    "strike": [
+     "③ tooth - teeth",
+     "④ goose - geese"
+    ],
+    "narration": "둘째, 남은 짝은 불규칙하게 바뀌는 명사예요. tooth는 teeth, goose는 geese로 바르게 짝지어졌어요."
+   },
+   {
+    "note": "쥐 mouse의 복수형은 mice → mouses는 틀림",
+    "highlight": [
+     "⑤ mouse - mouses"
+    ],
+    "strike": [],
+    "narration": "셋째, 쥐를 뜻하는 mouse의 복수형은 mice라서 s를 붙인 mouses는 틀린 모양이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① city - cities  ✗  y 앞이 자음 → y를 i로 바꾸고 + es, 바른 짝",
+    "② box - boxes  ✗  x로 끝나서 + es, 바른 짝",
+    "③ tooth - teeth  ✗  tooth의 불규칙 복수형 teeth, 바른 짝",
+    "④ goose - geese  ✗  goose의 불규칙 복수형 geese, 바른 짝",
+    "⑤ mouse - mouses  ✓  쥐 mouse의 복수형은 mice, mouses는 틀린 모양"
+   ],
+   "narration": "정답은 5번 mouse와 mouses의 짝이에요. 쥐를 뜻하는 mouse의 복수형은 mice라서 s를 붙인 mouses는 틀렸어요. 3번 teeth와 4번 geese는 s를 붙이지 않아서 틀려 보이지만, 불규칙하게 바뀌는 명사의 바른 복수형이에요. 1번 city는 y 앞이 자음이라 y를 i로 바꾸고 es를 붙인 cities가 바른 모양이에요."
+  },
+  "summary": {
+   "card": "불규칙 명사는 s 대신 정해진 복수형: mouse → mice",
+   "narration": "정답은 5번이에요. 기억할 것, mouse처럼 불규칙하게 바뀌는 명사는 s를 붙이지 않고 mice처럼 정해진 복수형을 써요."
+  },
+  "captions": [
+   "명사의 복수형 짝 확인",
+   "먼저 풀어 보세요",
+   "s, es, ies와 불규칙 복수형",
+   "규칙 짝 → 불규칙 짝 → mouse",
+   "정답 ⑤ mouse - mouses",
+   "mouse → mice"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   41,
+   31,
+   10
+  ]
+ }
+}

@@ -1,0 +1,458 @@
+{
+ "A": {
+  "title": "대답 No, they don't에 맞는 질문",
+  "intro": "이 문제는 대답 No, they don't와 짝이 맞는 질문을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말을 고르세요. 대답은 No, they don't예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Yes, No로 짧게 답할 때는 질문을 시작한 말에 맞춰요.",
+    "Do → do, don't      Does → does, doesn't",
+    "be동사 → be동사      Did → did      Can → can",
+    "대답의 주어는 질문의 주어를 가리키는 대명사 (you → I, your friends → they)",
+    "예) Do your friends like pizza? — Yes, they do. (네 친구들은 피자를 좋아하니? 응, 좋아해.)"
+   ],
+   "narration": "Yes나 No로 짧게 답할 때는 질문을 시작한 말에 맞춰요. Do로 물으면 do나 don't, Does로 물으면 does나 doesn't로 답해요. be동사로 물으면 be동사, Did는 did, Can은 can으로 답해요. 대답의 주어는 질문의 주어를 가리키는 대명사로 써요. 예를 들어 Do your friends like pizza? 네 친구들은 피자를 좋아하니, 하고 물으면 Yes, they do, 응, 좋아해, 하고 답해요."
+  },
+  "steps": [
+   {
+    "note": "대답의 주어 they, don't = do + not",
+    "highlight": [
+     "B: No, they don't."
+    ],
+    "strike": [],
+    "narration": "첫째, 대답에서 주어 they와, do에 not이 붙은 don't를 찾아요."
+   },
+   {
+    "note": "질문은 Do로 시작, 주어는 they로 받을 여러 명 → be동사 질문 ①④⑤, Does 질문 ③은 지운다",
+    "highlight": [],
+    "strike": [
+     "① Are these at home?",
+     "③ Does Jane do her homework?",
+     "④ Is he a teacher?",
+     "⑤ Are you busy?"
+    ],
+    "narration": "둘째, 따라서 질문은 Do로 시작하고 주어는 they로 받을 수 있는 여러 명이어야 하니, be동사로 묻는 1번, 4번, 5번과 Does로 묻는 3번을 지워요."
+   },
+   {
+    "note": "Do + your cousins(→ they) → No, they don't.",
+    "highlight": [
+     "② Do your cousins live in New Zealand?"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 2번은 Do로 묻고 your cousins를 they로 받아요. Do your cousins live in New Zealand? 네 사촌들은 뉴질랜드에 사니? No, they don't, 아니, 안 살아."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Are these at home?  ✗  be동사 Are로 물었으니 No, they aren't.",
+    "② Do your cousins live in New Zealand?  ✓  Do + your cousins(→ they) → No, they don't.",
+    "③ Does Jane do her homework?  ✗  Does + Jane(→ she) → No, she doesn't.",
+    "④ Is he a teacher?  ✗  be동사 Is로 물었으니 No, he isn't.",
+    "⑤ Are you busy?  ✗  be동사 Are + you → No, I'm not."
+   ],
+   "narration": "정답은 2번이에요. 1번은 주어를 they로 받지만, be동사 Are로 물었으니 No, they aren't로 답해요. 3번은 Does로 물었고 Jane은 she로 받으니, No, she doesn't로 답해요."
+  },
+  "summary": {
+   "card": "Do로 물으면 do, don't로 · 주어는 질문의 주어를 가리키는 대명사로",
+   "narration": "정답은 2번이에요. 기억할 것, Do로 물으면 do나 don't로 답하고, 주어는 질문의 주어를 가리키는 대명사로 써요."
+  },
+  "captions": [
+   "No, they don't에 맞는 질문",
+   "먼저 풀어 보세요",
+   "질문을 시작한 말에 맞춰 답해요",
+   "don't → Do, they → 여러 명",
+   "정답 ② Do your cousins",
+   "Do → do, don't"
+  ],
+  "sec": [
+   10,
+   14,
+   28,
+   34,
+   24,
+   11
+  ]
+ },
+ "B": {
+  "title": "대답 No, they don't에 맞는 질문",
+  "intro": "이 문제는 대답 No, they don't와 짝이 맞는 질문을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말을 고르세요. 대답은 No, they don't have a dog, they have a cat이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Yes, No로 짧게 답할 때는 질문을 시작한 말에 맞춰요.",
+    "Do → do, don't      Does → does, doesn't",
+    "be동사 → be동사      Did → did      Can → can",
+    "대답의 주어는 질문의 주어를 가리키는 대명사 (you → I, the boys → they)",
+    "예) Do the boys play baseball? — Yes, they do. (그 소년들은 야구를 하니? 응, 해.)"
+   ],
+   "narration": "Yes나 No로 짧게 답할 때는 질문을 시작한 말에 맞춰요. Do로 물으면 do나 don't, Does로 물으면 does나 doesn't로 답해요. be동사로 물으면 be동사, Did는 did, Can은 can으로 답해요. 대답의 주어는 질문의 주어를 가리키는 대명사로 써요. 예를 들어 Do the boys play baseball? 그 소년들은 야구를 하니, 하고 물으면 Yes, they do, 응, 해, 하고 답해요."
+  },
+  "steps": [
+   {
+    "note": "대답의 주어 they(여러 명), don't = do + not → 질문은 Do로 시작",
+    "highlight": [
+     "No, they don't have a dog."
+    ],
+    "strike": [
+     "① Are your neighbors at home?",
+     "② Are they your neighbors?",
+     "⑤ Is the dog outside?"
+    ],
+    "narration": "첫째, 대답의 don't는 do에 not이 붙은 말이니, 질문은 Do로 시작해야 해요. be동사로 묻는 1번, 2번, 5번을 지워요."
+   },
+   {
+    "note": "주어 they = 여러 명. your neighbor = 한 명 → Does, doesn't → ③ 지움",
+    "highlight": [],
+    "strike": [
+     "③ Does your neighbor have a dog?"
+    ],
+    "narration": "둘째, 대답의 주어 they는 여러 명이에요. 3번의 your neighbor는 이웃 한 명이라 Does로 묻고 doesn't로 답하니 지워요."
+   },
+   {
+    "note": "Do + your neighbors(→ they) → ④",
+    "highlight": [
+     "④ Do your neighbors have a dog?"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 4번 Do your neighbors have a dog? 네 이웃들은 개를 키우니? your neighbors를 they로 받아 No, they don't로 답해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Are your neighbors at home?  ✗  집에 있는지 be동사 Are로 물음 → No, they aren't.",
+    "② Are they your neighbors?  ✗  이웃인지 be동사 Are로 물음 → No, they aren't.",
+    "③ Does your neighbor have a dog?  ✗  이웃 한 명(→ he, she) + Does → No, he doesn't.",
+    "④ Do your neighbors have a dog?  ✓  Do + your neighbors(→ they) → No, they don't.",
+    "⑤ Is the dog outside?  ✗  Is + the dog(→ it) → No, it isn't."
+   ],
+   "narration": "정답은 4번이에요. 3번은 4번과 거의 같지만, 이웃 한 명이라 No, he doesn't나 No, she doesn't로 답해요. 1번은 주어를 they로 받지만, be동사 Are로 물었으니 No, they aren't로 답해요."
+  },
+  "summary": {
+   "card": "Do로 물으면 do, don't로 · 주어는 질문의 주어를 가리키는 대명사로",
+   "narration": "정답은 4번이에요. 기억할 것, Do로 물으면 do나 don't로 답하고, 주어는 질문의 주어를 가리키는 대명사로 써요."
+  },
+  "captions": [
+   "No, they don't에 맞는 질문",
+   "먼저 풀어 보세요",
+   "질문을 시작한 말에 맞춰 답해요",
+   "don't → Do, 한 명 → Does",
+   "정답 ④ Do your neighbors",
+   "Do → do, don't"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   36,
+   26,
+   11
+  ]
+ },
+ "C": {
+  "title": "대답 No, she doesn't에 맞는 질문",
+  "intro": "이 문제는 대답 No, she doesn't와 짝이 맞는 질문을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말을 고르세요. 대답은 No, she doesn't예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Yes, No로 짧게 답할 때는 질문을 시작한 말에 맞춰요.",
+    "Do → do, don't      Does → does, doesn't",
+    "be동사 → be동사      Did → did      Can → can",
+    "대답의 주어는 질문의 주어를 가리키는 대명사 (you → I, your mom → she)",
+    "예) Does your mom drink coffee? — Yes, she does. (너희 엄마는 커피를 드시니? 응, 드셔.)"
+   ],
+   "narration": "Yes나 No로 짧게 답할 때는 질문을 시작한 말에 맞춰요. Do로 물으면 do나 don't, Does로 물으면 does나 doesn't로 답해요. be동사로 물으면 be동사, Did는 did, Can은 can으로 답해요. 대답의 주어는 질문의 주어를 가리키는 대명사로 써요. 예를 들어 Does your mom drink coffee? 너희 엄마는 커피를 드시니, 하고 물으면 Yes, she does, 응, 드셔, 하고 답해요."
+  },
+  "steps": [
+   {
+    "note": "doesn't = does + not → 질문은 Does로 시작 → Is, Do, Can 질문 ①③⑤는 지운다",
+    "highlight": [
+     "B: No, she doesn't."
+    ],
+    "strike": [
+     "① Is Jane your sister?",
+     "③ Do Jane and Amy like milk?",
+     "⑤ Can Jane swim?"
+    ],
+    "narration": "첫째, 대답의 doesn't는 does에 not이 붙은 말이니, 질문은 Does로 시작해야 해요. Is, Do, Can으로 묻는 1번, 3번, 5번을 지워요."
+   },
+   {
+    "note": "주어 she = 여자 한 명 → Tom(→ he)은 지우고 Jane(→ she) → ④",
+    "highlight": [
+     "④ Does Jane like milk?"
+    ],
+    "strike": [
+     "② Does Tom like milk?"
+    ],
+    "narration": "둘째, 대답의 주어 she는 여자 한 명이에요. 2번의 Tom은 he로 받으니 지우고, 4번의 Jane은 she로 받아요."
+   },
+   {
+    "note": "Does Jane like milk? — No, she doesn't.",
+    "highlight": [
+     "④ Does Jane like milk?"
+    ],
+    "strike": [],
+    "narration": "셋째, Does Jane like milk? 제인은 우유를 좋아하니? No, she doesn't, 아니, 안 좋아해."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Is Jane your sister?  ✗  be동사 Is로 물었으니 No, she isn't.",
+    "② Does Tom like milk?  ✗  Tom은 he로 받아요 → No, he doesn't.",
+    "③ Do Jane and Amy like milk?  ✗  두 사람(→ they) + Do → No, they don't.",
+    "④ Does Jane like milk?  ✓  Does + Jane(→ she) → No, she doesn't.",
+    "⑤ Can Jane swim?  ✗  Can으로 물었으니 No, she can't."
+   ],
+   "narration": "정답은 4번이에요. 2번은 Does로 물었지만, Tom은 he로 받아서 No, he doesn't로 답해요. 3번은 두 사람이라 they로 받고, Do로 물었으니 No, they don't로 답해요."
+  },
+  "summary": {
+   "card": "Does로 물으면 does, doesn't로 · 주어는 질문의 주어를 가리키는 대명사로",
+   "narration": "정답은 4번이에요. 기억할 것, Does로 물으면 does나 doesn't로 답하고, 주어는 질문의 주어를 가리키는 대명사로 써요."
+  },
+  "captions": [
+   "No, she doesn't에 맞는 질문",
+   "먼저 풀어 보세요",
+   "질문을 시작한 말에 맞춰 답해요",
+   "doesn't → Does, she → Jane",
+   "정답 ④ Does Jane like milk?",
+   "Does → does, doesn't"
+  ],
+  "sec": [
+   10,
+   14,
+   28,
+   34,
+   24,
+   11
+  ]
+ },
+ "D": {
+  "title": "대답 No, he doesn't에 맞는 질문",
+  "intro": "이 문제는 대답 No, he doesn't와 짝이 맞는 질문을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말을 고르세요. 대답은 No, he doesn't예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Yes, No로 짧게 답할 때는 질문을 시작한 말에 맞춰요.",
+    "Do → do, don't      Does → does, doesn't",
+    "be동사 → be동사      Did → did      Can → can",
+    "대답의 주어는 질문의 주어를 가리키는 대명사 (you → I, your dad → he)",
+    "예) Does your dad cook? — Yes, he does. (너희 아빠는 요리를 하시니? 응, 하셔.)"
+   ],
+   "narration": "Yes나 No로 짧게 답할 때는 질문을 시작한 말에 맞춰요. Do로 물으면 do나 don't, Does로 물으면 does나 doesn't로 답해요. be동사로 물으면 be동사, Did는 did, Can은 can으로 답해요. 대답의 주어는 질문의 주어를 가리키는 대명사로 써요. 예를 들어 Does your dad cook? 너희 아빠는 요리를 하시니, 하고 물으면 Yes, he does, 응, 하셔, 하고 답해요."
+  },
+  "steps": [
+   {
+    "note": "doesn't = does + not → 질문은 Does로 시작 → Is, Do, Did 질문 ②③⑤는 지운다",
+    "highlight": [
+     "B: No, he doesn't."
+    ],
+    "strike": [
+     "② Is Tom a soccer player?",
+     "③ Do they play soccer?",
+     "⑤ Did Tom play soccer?"
+    ],
+    "narration": "첫째, 대답의 doesn't는 does에 not이 붙은 말이니, 질문은 Does로 시작해야 해요. Is, Do, Did로 묻는 2번, 3번, 5번을 지워요."
+   },
+   {
+    "note": "주어 he = 남자 한 명 → Jane(→ she)은 지우고 Tom(→ he) → ①",
+    "highlight": [
+     "① Does Tom play soccer?"
+    ],
+    "strike": [
+     "④ Does Jane play soccer?"
+    ],
+    "narration": "둘째, 대답의 주어 he는 남자 한 명이에요. 4번의 Jane은 she로 받으니 지우고, 1번의 Tom은 he로 받아요."
+   },
+   {
+    "note": "Does Tom play soccer? — No, he doesn't.",
+    "highlight": [
+     "① Does Tom play soccer?"
+    ],
+    "strike": [],
+    "narration": "셋째, Does Tom play soccer? 톰은 축구를 하니? No, he doesn't, 아니, 안 해."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Does Tom play soccer?  ✓  Does + Tom(→ he) → No, he doesn't.",
+    "② Is Tom a soccer player?  ✗  be동사 Is로 물었으니 No, he isn't.",
+    "③ Do they play soccer?  ✗  they + Do → No, they don't.",
+    "④ Does Jane play soccer?  ✗  Jane은 she로 받아요 → No, she doesn't.",
+    "⑤ Did Tom play soccer?  ✗  Did로 물었으니 No, he didn't."
+   ],
+   "narration": "정답은 1번이에요. 5번은 Tom을 he로 받지만, Did로 물었으니 No, he didn't로 답해요. 4번은 Does로 물었지만, Jane은 she로 받아서 No, she doesn't로 답해요."
+  },
+  "summary": {
+   "card": "Does로 물으면 does, doesn't로 · 주어는 질문의 주어를 가리키는 대명사로",
+   "narration": "정답은 1번이에요. 기억할 것, Does로 물으면 does나 doesn't로 답하고, 주어는 질문의 주어를 가리키는 대명사로 써요."
+  },
+  "captions": [
+   "No, he doesn't에 맞는 질문",
+   "먼저 풀어 보세요",
+   "질문을 시작한 말에 맞춰 답해요",
+   "doesn't → Does, he → Tom",
+   "정답 ① Does Tom play soccer?",
+   "Does → does, doesn't"
+  ],
+  "sec": [
+   10,
+   14,
+   28,
+   34,
+   24,
+   11
+  ]
+ },
+ "E": {
+  "title": "대답 No, we don't에 맞는 질문",
+  "intro": "이 문제는 대답 No, we don't와 짝이 맞는 질문을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말을 고르세요. 대답은 No, we don't예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Yes, No로 짧게 답할 때는 질문을 시작한 말에 맞춰요.",
+    "Do → do, don't      Does → does, doesn't",
+    "be동사 → be동사      Did → did      Can → can",
+    "대답의 주어는 질문의 주어를 가리키는 대명사 (you → I, you and Mina → we)",
+    "예) Do you and Mina walk to school? — Yes, we do. (너와 미나는 학교에 걸어가니? 응, 걸어가.)"
+   ],
+   "narration": "Yes나 No로 짧게 답할 때는 질문을 시작한 말에 맞춰요. Do로 물으면 do나 don't, Does로 물으면 does나 doesn't로 답해요. be동사로 물으면 be동사, Did는 did, Can은 can으로 답해요. 주어는 질문의 주어를 가리키는 대명사로 쓰고, 나를 포함한 여러 명에게 물으면 we로 답해요. 예를 들어 Do you and Mina walk to school? 너와 미나는 학교에 걸어가니, 하고 물으면 Yes, we do, 응, 걸어가, 하고 답해요."
+  },
+  "steps": [
+   {
+    "note": "don't = do + not → 질문은 Do로 시작 → Are, Did, Does 질문 ①④⑤는 지운다",
+    "highlight": [
+     "B: No, we don't."
+    ],
+    "strike": [
+     "① Are you and your brother students?",
+     "④ Did you study English?",
+     "⑤ Does your brother study English?"
+    ],
+    "narration": "첫째, 대답의 don't는 do에 not이 붙은 말이니, 질문은 Do로 시작해야 해요. Are, Did, Does로 묻는 1번, 4번, 5번을 지워요."
+   },
+   {
+    "note": "주어 we = 나를 포함한 여러 명 → they는 지우고 you and your brother(→ we) → ③",
+    "highlight": [
+     "③ Do you and your brother study English?"
+    ],
+    "strike": [
+     "② Do they study English?"
+    ],
+    "narration": "둘째, 대답의 주어 we는 나를 포함한 여러 명이에요. 2번의 they는 그대로 they로 받으니 지우고, 3번의 you and your brother는 we로 받아요."
+   },
+   {
+    "note": "Do you and your brother study English? — No, we don't.",
+    "highlight": [
+     "③ Do you and your brother study English?"
+    ],
+    "strike": [],
+    "narration": "셋째, Do you and your brother study English? 너와 네 형제는 영어를 공부하니? No, we don't, 아니, 우리는 안 해."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Are you and your brother students?  ✗  be동사 Are로 물었으니 No, we aren't.",
+    "② Do they study English?  ✗  they는 그대로 they → No, they don't.",
+    "③ Do you and your brother study English?  ✓  Do + you and your brother(→ we) → No, we don't.",
+    "④ Did you study English?  ✗  Did로 물었으니 didn't로 답해요.",
+    "⑤ Does your brother study English?  ✗  형제 한 명(→ he) + Does → No, he doesn't."
+   ],
+   "narration": "정답은 3번이에요. 1번은 주어를 we로 받지만, be동사 Are로 물었으니 No, we aren't로 답해요. 5번은 형제 한 명에 대해 Does로 물었으니 No, he doesn't로 답해요."
+  },
+  "summary": {
+   "card": "Do로 물으면 do, don't로 · 나를 포함한 여러 명에게 물으면 we로",
+   "narration": "정답은 3번이에요. 기억할 것, Do로 물으면 do나 don't로 답하고, 나를 포함한 여러 명에게 물으면 we로 답해요."
+  },
+  "captions": [
+   "No, we don't에 맞는 질문",
+   "먼저 풀어 보세요",
+   "질문을 시작한 말에 맞춰 답해요",
+   "don't → Do, we → you and",
+   "정답 ③ Do you and your brother",
+   "Do → do, don't · we"
+  ],
+  "sec": [
+   10,
+   14,
+   30,
+   36,
+   24,
+   11
+  ]
+ },
+ "F": {
+  "title": "대답 No, I don't에 맞는 질문",
+  "intro": "이 문제는 대답 No, I don't와 짝이 맞는 질문을 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말을 고르세요. 대답은 No, I don't예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Yes, No로 짧게 답할 때는 질문을 시작한 말에 맞춰요.",
+    "Do → do, don't      Does → does, doesn't",
+    "be동사 → be동사      Did → did      Can → can",
+    "대답의 주어는 질문의 주어를 가리키는 대명사 (you → I, your mom → she)",
+    "예) Do you like carrots? — Yes, I do. (너는 당근을 좋아하니? 응, 좋아해.)"
+   ],
+   "narration": "Yes나 No로 짧게 답할 때는 질문을 시작한 말에 맞춰요. Do로 물으면 do나 don't, Does로 물으면 does나 doesn't로 답해요. be동사로 물으면 be동사, Did는 did, Can은 can으로 답해요. 주어는 질문의 주어를 가리키는 대명사로 쓰고, 나에게 you로 물으면 I로 답해요. 예를 들어 Do you like carrots? 너는 당근을 좋아하니, 하고 물으면 Yes, I do, 응, 좋아해, 하고 답해요."
+  },
+  "steps": [
+   {
+    "note": "don't = do + not → 질문은 Do로 시작 → Are, Does, Did, Can 질문 ①③④⑤는 지운다",
+    "highlight": [
+     "B: No, I don't."
+    ],
+    "strike": [
+     "① Are you tired?",
+     "③ Does she watch TV every day?",
+     "④ Did you watch TV yesterday?",
+     "⑤ Can you watch TV now?"
+    ],
+    "narration": "첫째, 대답의 don't는 do에 not이 붙은 말이니, 질문은 Do로 시작해야 해요. Are, Does, Did, Can으로 묻는 1번, 3번, 4번, 5번을 지워요."
+   },
+   {
+    "note": "Do you → 나에게 묻는 말 → I로 답한다 → ②",
+    "highlight": [
+     "② Do you watch TV every day?"
+    ],
+    "strike": [],
+    "narration": "둘째, 남는 2번은 Do you로 물어요. 나에게 you로 물으면 대답의 주어는 I예요."
+   },
+   {
+    "note": "Do you watch TV every day? — No, I don't.",
+    "highlight": [
+     "② Do you watch TV every day?"
+    ],
+    "strike": [],
+    "narration": "셋째, Do you watch TV every day? 너는 매일 TV를 보니? No, I don't, 아니, 안 봐."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Are you tired?  ✗  be동사 Are로 물었으니 No, I'm not.",
+    "② Do you watch TV every day?  ✓  Do + you(→ I) → No, I don't.",
+    "③ Does she watch TV every day?  ✗  Does + she → No, she doesn't.",
+    "④ Did you watch TV yesterday?  ✗  Did로 물었으니 No, I didn't.",
+    "⑤ Can you watch TV now?  ✗  Can으로 물었으니 No, I can't."
+   ],
+   "narration": "정답은 2번이에요. 4번은 you에게 묻는 것은 맞지만, Did로 물었으니 No, I didn't로 답해요. 5번은 Can으로 물었으니 No, I can't로 답해요. 1번은 be동사 Are로 물었으니 No, I'm not으로 답해요."
+  },
+  "summary": {
+   "card": "Do로 물으면 do, don't로 · you로 물으면 I로",
+   "narration": "정답은 2번이에요. 기억할 것, Do로 물으면 do나 don't로 답하고, 나에게 you로 물으면 I로 답해요."
+  },
+  "captions": [
+   "No, I don't에 맞는 질문",
+   "먼저 풀어 보세요",
+   "질문을 시작한 말에 맞춰 답해요",
+   "don't → Do, I → Do you",
+   "정답 ② Do you watch TV",
+   "Do → do, don't · you → I"
+  ],
+  "sec": [
+   10,
+   14,
+   30,
+   34,
+   24,
+   11
+  ]
+ }
+}

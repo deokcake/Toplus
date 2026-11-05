@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T19:41:37.843Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "(A), (E)",
+      "1": "(B), (C)",
+      "2": "(A), (D)",
+      "3": "(C), (E)",
+      "4": "(B), (D)"
+    },
+    "expl": "핵심 규칙: as ~ as 안에서 동사를 꾸미면 부사를, be동사·연결동사(look, feel, seem, sound, become)의 보어이면 형용사를 쓴다.\n풀이 순서: ① 밑줄마다 as ~ as 앞의 동사를 본다. 일반동사를 꾸미면 부사 자리, look·feel·seem·sound·become 뒤면 형용사 자리다. → ② (A) worked 뒤는 부사 자리인데 형용사 efficient를, (E) spoke 뒤는 부사 자리인데 형용사 polite를 썼다. → ③ 틀린 두 곳을 모은 (A), (E)를 고른다.\n문장별 판정:\n(A) 틀림: worked를 꾸미므로 부사 efficiently를 써야 한다.\n(B) 옳음: seemed의 보어이므로 형용사 simple이다.\n(C) 옳음: early는 finished를 꾸미는 부사이다.\n(D) 옳음: felt의 보어이므로 형용사 relieved이다.\n(E) 틀림: spoke를 꾸미므로 부사 politely를 써야 한다.\n정답 판단: 어법상 틀린 것은 (A), (E)이다.\n선택지 분석:\n① [정답] 틀린 것 (A), (E)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (B), (C)는 틀린 것이 아니고, 틀린 것 (A), (E)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (D)는 틀린 것이 아니고, 틀린 것 (E)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (C)는 틀린 것이 아니고, 틀린 것 (A)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (B), (D)는 틀린 것이 아니고, 틀린 것 (A), (E)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "During the busy holiday season, the team worked (A)<u>as efficient as</u> possible to meet the deadline. At first, the plan seemed (B)<u>as simple as</u> they had hoped. Thanks to good teamwork, they finished the project (C)<u>as early as</u> expected. When the client approved it, everyone felt (D)<u>as relieved as</u> the team leader. At the final meeting, the leader spoke (E)<u>as polite as</u> possible to thank the client.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:41:09.875Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:41:37.843Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:41:37.843Z",
+      "what": "확인 완료"
+    }
+  }
+}

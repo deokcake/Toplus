@@ -1,0 +1,179 @@
+{
+ "key": "2-2",
+ "type": "A",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "title": "5형식과 3형식 구별하기",
+ "total_sec": 122,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "2급 · CH 1 문장의 형식 · 2번\n\n이 문제는 목적격 보어가 있는지 따져 5형식이 아닌 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 1 문장의 형식 · 2번",
+     "이 문제는 목적격 보어가 있는지 따져 5형식이 아닌 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 1, 2번. 이 문제는 목적격 보어가 있는지 따져 5형식이 아닌 문장을 고르는 문제예요.",
+   "caption": "5형식이 아닌 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 5형식 문장이 아닌 것을 고르시오.\n\n① They elected him president.\n② We consider her honest.\n③ The noise drove me crazy.\n④ She painted the wall blue.\n⑤ I want some pizza.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 5형식 문장이 아닌 것을 고르시오.",
+     "① They elected him president.",
+     "② We consider her honest.",
+     "③ The noise drove me crazy.",
+     "④ She painted the wall blue.",
+     "⑤ I want some pizza."
+    ]
+   },
+   "narration": "다음 중 5형식 문장이 아닌 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n5형식 = 주어 + 동사 + 목적어 + 목적격 보어\n목적격 보어(명사, 형용사, to부정사, 분사 등) → 목적어의 이름·신분·상태·행동을 설명\n동사 뒤에 목적어 하나만 있고 그것을 설명하는 말이 없으면 → 3형식\n예) The song makes me happy. (그 노래는 나를 행복하게 해요. happy → me의 상태)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "5형식 = 주어 + 동사 + 목적어 + 목적격 보어",
+     "목적격 보어(명사, 형용사, to부정사, 분사 등) → 목적어의 이름·신분·상태·행동을 설명",
+     "동사 뒤에 목적어 하나만 있고 그것을 설명하는 말이 없으면 → 3형식",
+     "예) The song makes me happy. (그 노래는 나를 행복하게 해요. happy → me의 상태)"
+    ]
+   },
+   "narration": "5형식 문장은 주어, 동사, 목적어 뒤에 목적격 보어가 오는 문장이에요. 목적격 보어는 명사, 형용사, to부정사, 분사 같은 말로, 목적어의 이름이나 신분, 상태, 행동을 설명해요. 예를 들어 The song makes me happy. 그 노래는 나를 행복하게 해요. 반면 동사 뒤에 목적어 하나만 있고 그것을 설명하는 말이 없으면 3형식이에요.",
+   "caption": "목적어 + 목적격 보어 = 5형식"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 중 5형식 문장이 아닌 것을 고르시오.\n\n① They elected him president.\n② We consider her honest.\n③ The noise drove me crazy.\n④ She painted the wall blue.\n⑤ I want some pizza.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "5형식 문장이 아닌 것"
+      ],
+      "strike": [],
+      "note": "5형식이 ‘아닌’ 것 → 문장마다 동사 뒤에 ‘목적어 + 목적어를 설명하는 말’이 있는지 본다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "him president",
+       "her honest",
+       "me crazy",
+       "the wall blue"
+      ],
+      "strike": [
+       "① They elected him president.",
+       "② We consider her honest.",
+       "③ The noise drove me crazy.",
+       "④ She painted the wall blue."
+      ],
+      "note": "president = him의 신분 / honest, crazy, blue = her, me, the wall의 상태 → ①~④ 모두 5형식"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "want some pizza"
+      ],
+      "strike": [],
+      "note": "want 뒤에는 목적어 some pizza 하나뿐, 설명하는 말 없음 → 3형식"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 동사 뒤에 목적어와 그 목적어를 설명하는 말이 함께 있는지 봐요. 둘째, 1번 president는 him의 신분을, 2번 honest, 3번 crazy, 4번 blue는 her, me, the wall의 상태를 나타내요. 그래서 1번부터 4번까지는 모두 5형식이에요. 셋째, 5번은 want 뒤에 목적어 some pizza만 있고 그것을 설명하는 말이 없으니 3형식이에요.",
+   "caption": "보어 확인 → 목적어만 → ⑤"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① They elected him president.  ✗  president가 him의 신분(him = president) → 5형식\n② We consider her honest.  ✗  honest가 her의 성질을 설명 → 5형식\n③ The noise drove me crazy.  ✗  crazy가 me의 상태를 설명 → 5형식\n④ She painted the wall blue.  ✗  blue가 칠한 뒤 the wall의 색깔을 설명 → 5형식\n⑤ I want some pizza.  ✓  want 뒤에 목적어 some pizza만 → 3형식",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① They elected him president.  ✗  president가 him의 신분(him = president) → 5형식",
+     "② We consider her honest.  ✗  honest가 her의 성질을 설명 → 5형식",
+     "③ The noise drove me crazy.  ✗  crazy가 me의 상태를 설명 → 5형식",
+     "④ She painted the wall blue.  ✗  blue가 칠한 뒤 the wall의 색깔을 설명 → 5형식",
+     "⑤ I want some pizza.  ✓  want 뒤에 목적어 some pizza만 → 3형식"
+    ]
+   },
+   "narration": "정답은 5번 I want some pizza, 나는 피자를 좀 원한다는 문장이에요. 4번은 벽을 칠했다는 3형식처럼 보이지만, blue가 칠한 뒤 벽의 색깔을 설명하니 5형식이에요. 3번 drove me crazy는 나를 미치게 만들었다는 뜻이고, crazy가 me의 상태를 설명하는 5형식이에요.",
+   "caption": "정답 ⑤ (3형식)"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ⑤ I want some pizza.\n\n목적어 + 목적격 보어 → 5형식, 목적어 하나만 → 3형식",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ I want some pizza.",
+     "목적어 + 목적격 보어 → 5형식, 목적어 하나만 → 3형식"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 목적어 뒤에 그 목적어를 설명하는 목적격 보어가 있어야 5형식이에요.",
+   "caption": "목적어 + 목적격 보어 → 5형식"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 5형식 문장이 아닌 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "They elected him president.",
+   "We consider her honest.",
+   "The noise drove me crazy.",
+   "She painted the wall blue.",
+   "I want some pizza."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 5형식은 ‘주어 + 동사 + 목적어 + 목적격 보어’다. 목적격 보어(명사, 형용사, to부정사, 분사 등)는 목적어의 이름·상태·행동을 설명한다.\n풀이 순서: ① 문장마다 동사 뒤에 ‘목적어 + 목적어를 설명하는 말’이 이어지는지 본다. → ② 목적어 뒤의 말이 목적어의 이름·상태·행동을 나타내면 5형식이다. → ③ 선택지 ⑤는 want 뒤에 목적어 some pizza만 있는 3형식이다. 5형식이 아니다.\n문장별 판정:\n정답 판단: want 뒤에 목적어(some pizza)만 있는 3형식이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] him = president 관계의 5형식이므로 오답이다.\n② [오답] her의 성질을 honest가 설명하는 5형식이므로 오답이다.\n③ [오답] me의 상태를 crazy가 설명하는 5형식이므로 오답이다.\n④ [오답] the wall의 상태를 blue가 설명하는 5형식이므로 오답이다.\n⑤ [정답] want 뒤에 목적어(some pizza)만 있는 3형식이므로 정답이다."
+ }
+}

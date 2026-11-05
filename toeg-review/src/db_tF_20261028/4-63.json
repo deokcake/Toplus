@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-28T03:00:43.349Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "much - much",
+      "1": "many - many",
+      "2": "few - little",
+      "3": "much - many",
+      "4": "many - much"
+    },
+    "expl": "핵심 규칙: many는 셀 수 있는 명사의 복수형, much는 셀 수 없는 명사와 함께 쓴다.\n풀이 순서: ① (A) 뒤의 명사를 본다: eggs는 셀 수 있으므로 many. → ② (B) 뒤의 명사를 본다: coffee는 셀 수 없으므로 much. → ③ 정답은 many - much.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] (A) 빈칸 much: eggs는 셀 수 있는 명사의 복수형이라 many를 쓴다. 따라서 오답이다.\n② [오답] (B) 빈칸 many: coffee는 셀 수 없는 명사라 much를 쓴다. 따라서 오답이다.\n③ [오답] (A) 빈칸 few: eggs는 셀 수 있는 명사의 복수형이라 many를 쓴다, (B) 빈칸 little: coffee는 셀 수 없는 명사라 much를 쓴다. 따라서 오답이다.\n④ [오답] (A) 빈칸 much: eggs는 셀 수 있는 명사의 복수형이라 many를 쓴다, (B) 빈칸 many: coffee는 셀 수 없는 명사라 much를 쓴다. 따라서 오답이다.\n⑤ [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.",
+    "passage": "(A) How ________ eggs do we need?\n(B) I don't drink ________ coffee.",
+    "stem": "빈칸 (A)와 (B)에 들어갈 말이 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-28T03:00:36.974Z"
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T03:00:43.349Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:00:43.349Z",
+      "what": "확인 완료"
+    }
+  }
+}

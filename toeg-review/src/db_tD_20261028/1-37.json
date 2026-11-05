@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T06:55:00.935Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "The gate locked after the concert.",
+      "1": "The gate is locked after the concert.",
+      "2": "The gate was locked after the concert.",
+      "3": "The gate was locking after the concert.",
+      "4": "The gate had locked after the concert."
+    },
+    "expl": "핵심 규칙: 단순과거 능동문을 수동태로 바꿀 때 목적어를 주어로 옮기고 was/were + 과거분사를 쓴다. 능동문에 드러난 행위자는 by + 행위자로 남기고, 없던 행위자를 새로 넣지 않는다.\n풀이 순서: ① 능동문의 동사(locked)가 과거이므로 수동태도 과거의 was/were + 과거분사여야 한다. → ② be동사가 없거나 -ing형·have + 과거분사처럼 능동인 보기, 현재형 보기를 지운다. → ③ 행위자가 Someone이라 by 없이 쓴다. 정답은 ③.\n문장별 판정:\n정답 판단: 행위자 Someone은 생략하고 was locked로 과거 수동을 바르게 만들었다. 정답은 ③이다.\n선택지 분석:\n① [오답] be동사가 없어 문이 스스로 잠근 능동문이 되었다. 오답이다.\n② [오답] is locked는 현재형이라 과거에 일어난 일과 시제가 맞지 않는다. 오답이다.\n③ [정답] 행위자 Someone은 생략하고 was locked로 과거 수동을 바르게 만들었다. 정답이다.\n④ [오답] was locking은 과거진행 능동형이라 문이 잠긴 뜻이 아니다. 오답이다.\n⑤ [오답] had locked는 과거완료 능동형이라 수동 관계를 나타내지 못한다. 오답이다.",
+    "passage": "Someone locked the gate after the concert.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T06:54:47.184Z"
+  },
+  "tab": "sj53vmnt",
+  "updatedAt": "2026-10-23T06:55:00.935Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T06:55:00.935Z",
+      "what": "확인 완료"
+    }
+  }
+}

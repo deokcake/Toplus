@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T19:58:39.917Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: A as well as B는 A에, either A or B·neither A nor B·not only A but also B는 B에 동사의 수를 맞춘다. both A and B는 복수, every·none of + 셀 수 없는 명사는 단수 동사를 쓴다.\n풀이 순서: ① 문장마다 주어의 중심이 되는 말을 정한다. A as well as B는 A, either·neither·not only는 B, both는 복수다. → ② 동사의 수와 견준다. A)는 The manager에 맞춰 is여야 하고, C)는 my brother에 맞춰 likes여야 한다. 나머지 넷은 옳다. → ③ 틀린 문장을 세면 2개이다.\n문장별 판정:\nA) 틀림: A as well as B는 A(The manager)에 맞춰 is.\nB) 옳음: either A or B는 B(Tom)에 맞춰 is.\nC) 틀림: neither A nor B는 B(my brother)에 맞춰 likes.\nD) 옳음: not only A but also B는 B(her sisters)에 맞춰 play.\nE) 옳음: both A and B는 복수라 were.\nF) 옳음: water는 셀 수 없는 명사라 was.\n정답 판단: 어법상 틀린 문장은 2개이다.\n선택지 분석:\n① [오답] 어법상 틀린 문장은 2개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [정답] 어법상 틀린 문장은 2개이다. 이 보기의 2개는 실제 개수와 일치한다.\n③ [오답] 어법상 틀린 문장은 2개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 어법상 틀린 문장은 2개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 틀린 문장은 2개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "A) The manager as well as the staff members are satisfied.\nB) Either the boys or Tom is responsible.\nC) Neither my parents nor my brother like spicy food.\nD) Not only Sora but also her sisters play the violin.\nE) Both the singer and the dancers were nervous.\nF) None of the water was clean.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:58:14.425Z"
+  },
+  "tab": "mg6mzu0g",
+  "updatedAt": "2026-10-23T19:58:39.917Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:58:39.917Z",
+      "what": "확인 완료"
+    }
+  }
+}

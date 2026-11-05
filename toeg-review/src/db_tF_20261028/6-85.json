@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:25:55.671Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Jiho is brushing his teeth.",
+      "1": "The kids are having a snack.",
+      "2": "Dad is reading the news.",
+      "3": "They are owning a car.",
+      "4": "It is getting dark."
+    },
+    "expl": "핵심 규칙: have(가지다), know, like, own, belong처럼 상태를 나타내는 동사는 보통 진행형으로 쓰지 않는다. 다만 have가 ‘먹다, 보내다’처럼 동작을 나타내면 진행형으로 쓸 수 있다(have lunch, have fun).\n풀이 순서: ① 문장마다 동사가 동작인지 상태인지 가른다. → ② 상태 동사(소유의 have, know, like, own, belong)를 be + -ing로 쓴 문장을 찾는다. → ③ 선택지 ④의 own은 상태다. ②의 have는 ‘먹다’라는 동작이다. 정답은 ④.\n문장별 판정:\n정답 판단: own은 소유를 나타내는 상태동사라 They own으로 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 동작을 나타내는 동사를 진행형으로 바르게 썼으므로 오답이다.\n② [오답] have가 ‘먹다·보내다’라는 동작의 뜻이라 진행형으로 쓸 수 있으므로 오답이다.\n③ [오답] 동작을 나타내는 동사를 진행형으로 바르게 썼으므로 오답이다.\n④ [정답] own은 소유를 나타내는 상태동사라 They own으로 써야 하므로 정답이다.\n⑤ [오답] 동작을 나타내는 동사를 진행형으로 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 어법상 틀린 문장을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:25:54.103Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:25:55.671Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:25:55.671Z",
+      "what": "확인 완료"
+    }
+  }
+}

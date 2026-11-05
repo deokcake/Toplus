@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T08:04:38.805Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 요일은 What day is it?, 날짜는 What date is it?(What's the date?), 시각은 What time is it?으로 묻는다.\n풀이 순서: ① 빈칸은 질문에 있으므로 대답을 먼저 본다. → ② 첫 대답은 a quarter past five(시각) → What time, 둘째 대답은 windy(날씨) → How. → ③ 정답은 What time — How.\n문장별 판정:\n정답 판단: (첫째 빈칸) a quarter past five는 시각 정보이므로 What time is it?으로 묻는다. What time이 알맞다. (둘째 빈칸) windy는 날씨 정보이므로 How is the weather today?로 묻는다. How가 알맞다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] (첫째 빈칸) a quarter past five는 시각 정보이므로 What time is it?으로 묻는다. 이 질문을 완성할 표현은 What time이다. (둘째 빈칸) windy는 날씨 정보이므로 How is the weather today?로 묻는다. 이 질문을 완성할 표현은 How이다.\n② [오답] (첫째 빈칸) a quarter past five는 시각 정보이므로 What time is it?으로 묻는다. 이 질문을 완성할 표현은 What time이다. (둘째 빈칸) windy는 날씨 정보이므로 How is the weather today?로 묻는다. 이 질문을 완성할 표현은 How이다.\n③ [오답] (첫째 빈칸) a quarter past five는 시각 정보이므로 What time is it?으로 묻는다. 이 질문을 완성할 표현은 What time이다. (둘째 빈칸) windy는 날씨 정보이므로 How is the weather today?로 묻는다. 이 질문을 완성할 표현은 How이다.\n④ [정답] (첫째 빈칸) a quarter past five는 시각 정보이므로 What time is it?으로 묻는다. What time이 알맞다. (둘째 빈칸) windy는 날씨 정보이므로 How is the weather today?로 묻는다. How가 알맞다.\n⑤ [오답] (첫째 빈칸) a quarter past five는 시각 정보이므로 What time is it?으로 묻는다. 이 질문을 완성할 표현은 What time이다. (둘째 빈칸) windy는 날씨 정보이므로 How is the weather today?로 묻는다. 이 질문을 완성할 표현은 How이다.",
+    "passage": null,
+    "stem": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T08:04:38.034Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T08:04:38.805Z",
+      "what": "확인 완료"
+    }
+  }
+}

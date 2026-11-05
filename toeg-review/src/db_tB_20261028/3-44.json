@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:03:57.371Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "one - them",
+      "1": "ones - it",
+      "2": "it - ones",
+      "3": "ones - them",
+      "4": null
+    },
+    "expl": "핵심 규칙: one/ones는 앞에 나온 명사와 같은 종류의 다른 것을 대신하고(복수는 ones), it/them은 앞에 나온 바로 그 대상을 가리킨다.\n풀이 순서: ① 첫째 빈칸은 앞 명사(socks, 복수)와 ‘같은 종류의 것’을 대신한다. 단수이면 one, 복수이면 ones다. → ② 둘째 빈칸은 앞에 나온 ‘바로 그것’(My gloves, 복수)을 가리킨다. 단수이면 it, 복수이면 them이다. → ③ 정답은 ones - them.\n문장별 판정:\n정답 판단: ones - them: 같은 종류의 복수 물건은 ones, 바로 그 장갑(복수)은 them으로 알맞으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 첫째 빈칸 one: 복수명사(socks)를 대신하므로 ones를 쓴다. 따라서 오답이다.\n② [오답] 둘째 빈칸 it: 장갑 한 켤레(my gloves)는 복수이므로 them을 쓴다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 it: 같은 종류의 다른 양말을 뜻하므로 ones를 쓴다. 둘째 빈칸 ones: 바로 그 장갑을 가리키므로 them을 쓴다. 따라서 오답이다.\n④ [정답] ones - them: 같은 종류의 복수 물건은 ones, 바로 그 장갑(복수)은 them으로 알맞으므로 정답이다.\n⑤ [오답] 첫째 빈칸 one: 복수명사(socks)를 대신하므로 ones를 쓴다. 둘째 빈칸 it: 복수인 장갑을 가리키므로 them을 쓴다. 따라서 오답이다.",
+    "passage": "These socks are too small. I need bigger _____.\nMy gloves are by the door. Can you bring _____ to me?",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T08:03:56.805Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T08:03:57.371Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T08:03:57.371Z",
+      "what": "확인 완료"
+    }
+  }
+}

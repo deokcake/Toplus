@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T05:23:32.953Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "before - under - during",
+      "1": "after - under - while",
+      "2": "before - on - for",
+      "3": "after - in - during",
+      "4": "before - under - while"
+    },
+    "expl": "핵심 규칙: before는 ‘~ 전에’, after는 ‘~ 후에’, on은 표면 위, under는 아래, in은 안을 나타낸다. during은 ‘~ 동안’으로 뒤에 명사가 오고, while은 뒤에 주어 + 동사가 온다.\n풀이 순서: ① 발문의 우리말 뜻에서 전치사에 해당하는 말을 찾는다: ‘전에’, ‘벽 표면 위에’, ‘경기 중에’. → ② 차례로 옮긴다: before, on, during(while 뒤에는 주어 + 동사가 온다). → ③ 정답은 before - under - during.\n문장별 판정:\n정답 판단: 세 빈칸 모두 우리말 해석에 맞는 전치사를 골랐으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 세 빈칸 모두 우리말 해석에 맞는 전치사를 골랐으므로 정답이다.\n② [오답] 첫째 빈칸 after: ‘저녁 식사 전에’의 뜻에 맞지 않는다(→ before), 셋째 빈칸 while: while은 뒤에 주어 + 동사가 와야 해 명사 앞에 쓸 수 없다. 따라서 오답이다.\n③ [오답] 둘째 빈칸 on: ‘침대 밑에서’의 뜻에 맞지 않는다(→ under), 셋째 빈칸 for: ‘영화 상영 중에’의 뜻에 맞지 않는다(→ during). 따라서 오답이다.\n④ [오답] 첫째 빈칸 after: ‘저녁 식사 전에’의 뜻에 맞지 않는다(→ before), 둘째 빈칸 in: ‘침대 밑에서’의 뜻에 맞지 않는다(→ under). 따라서 오답이다.\n⑤ [오답] 셋째 빈칸 while: while은 뒤에 주어 + 동사가 와야 해 명사 앞에 쓸 수 없다. 따라서 오답이다.",
+    "passage": "Wash your hands _____ dinner.(저녁 식사 전에 손을 씻어라.)\nThe dog is sleeping _____ the bed.(개가 침대 밑에서 자고 있다.)\nNobody talked _____ the movie.(영화 상영 중에 아무도 말하지 않았다.)",
+    "stem": "다음 빈칸에 들어갈 단어를 바르게 짝지은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:23:20.635Z"
+  },
+  "tab": "fhh9u0lo",
+  "updatedAt": "2026-10-23T05:23:32.953Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:23:32.953Z",
+      "what": "확인 완료"
+    }
+  }
+}

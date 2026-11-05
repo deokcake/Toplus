@@ -1,0 +1,452 @@
+{
+ "A": {
+  "title": "현재완료진행과 since·for",
+  "intro": "이 문제는 지금도 계속되는 동작을 바르게 나타낸 문장을 고르는 문제예요.",
+  "problem_narration": "두 문장의 뜻을 합친 문장을 고르세요. We started waiting for the bus at 9 AM. We are still waiting now. 9시에 기다리기 시작해서 지금도 기다리는 중이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거에 시작해 지금도 계속되는 동작 → 현재완료진행",
+    "형태: have been + 동사의 ing형 (3인칭 단수 주어 → has been)",
+    "since + 시작한 때 (~부터) · for + 계속된 기간 (~ 동안)",
+    "예) She has been learning Chinese since March. (그녀는 3월부터 중국어를 배우고 있어요.)"
+   ],
+   "narration": "과거에 시작해 지금도 계속되는 동작은 현재완료진행으로 나타내요. 형태는 have been 뒤에 동사의 ing형을 쓰고, 3인칭 단수 주어에는 has been을 써요. 시작한 때는 since 뒤에, 계속된 기간은 for 뒤에 써요. 예를 들어 She has been learning Chinese since March. 그녀는 3월부터 중국어를 배우고 있어요."
+  },
+  "steps": [
+   {
+    "note": "at 9 AM에 시작 + still … now 지금도 계속 → 9시부터 지금까지 기다리는 중",
+    "highlight": [
+     "started waiting for the bus at 9 AM",
+     "still waiting now"
+    ],
+    "strike": [],
+    "narration": "첫째, 오전 9시에 기다리기 시작했고, still과 now를 보면 지금도 기다리는 중이에요."
+   },
+   {
+    "note": "지금까지 이어지지 않는 시제 지움: waited(과거), were waiting(과거진행), had been waiting(과거완료진행)",
+    "highlight": [],
+    "strike": [
+     "① We waited for the bus since 9 AM.",
+     "④ We were waiting for the bus since 9 AM.",
+     "⑤ We had been waiting for the bus since 9 AM."
+    ],
+    "narration": "둘째, 과거형 waited, 과거진행형 were waiting, 그리고 과거의 어느 때까지 계속된 일을 나타내는 had been waiting은 지금과 이어지지 않아요."
+   },
+   {
+    "note": "9시 = 기다림을 시작한 때 → 지금까지 이어지는 일에서는 at ✗ since ✓ → ③",
+    "highlight": [
+     "③ We have been waiting for the bus since 9 AM."
+    ],
+    "strike": [
+     "② We have waited for the bus at 9 AM."
+    ],
+    "narration": "셋째, 9시는 시작한 때라서, 지금까지 이어지는 일에서는 at이 아니라 since 뒤에 써요. We have been waiting for the bus since 9 AM. 우리는 9시부터 버스를 기다리고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① We waited for the bus since 9 AM.  ✗  과거형 → 지금도 기다리는 중임을 나타내지 못해요",
+    "② We have waited for the bus at 9 AM.  ✗  지금까지 이어지는 일의 시작한 때 → at이 아니라 since",
+    "③ We have been waiting for the bus since 9 AM.  ✓  9시부터 지금까지 계속 기다리는 중",
+    "④ We were waiting for the bus since 9 AM.  ✗  과거진행형 → 지금까지 이어지지 않아요",
+    "⑤ We had been waiting for the bus since 9 AM.  ✗  과거완료진행 → 과거의 어느 때까지 계속"
+   ],
+   "narration": "정답은 3번이에요. 2번은 have가 있어 고르기 쉽지만, 시작한 때 앞에 since가 아니라 at을 써서 틀렸어요. 5번 had been waiting은 과거의 어느 때까지 계속된 일이라 지금도 기다린다는 뜻과 맞지 않아요. 1번 waited는 과거형이라 지금과 이어지지 않아요."
+  },
+  "summary": {
+   "card": "지금도 계속되는 동작 → have/has been + ing형 · since + 시작한 때 · for + 기간",
+   "narration": "정답은 3번이에요. 기억할 것, 지금도 계속되는 동작은 have been이나 has been 뒤에 ing형을 쓰고, 시작한 때는 since, 기간은 for로 나타내요."
+  },
+  "captions": [
+   "지금도 계속되는 동작 고르기",
+   "먼저 풀어 보세요",
+   "have/has been + ing형",
+   "시작·계속 확인 → 시제 → since",
+   "정답 ③",
+   "지금까지 계속 → have/has been + ing"
+  ],
+  "sec": [
+   10,
+   20,
+   26,
+   38,
+   22,
+   12
+  ]
+ },
+ "B": {
+  "title": "현재완료진행과 since·for",
+  "intro": "이 문제는 지금도 계속되는 동작을 바르게 나타낸 문장을 고르는 문제예요.",
+  "problem_narration": "두 문장의 뜻을 합친 문장을 고르세요. Tom started working here in 2022. He is still working here now. 톰은 2022년에 일하기 시작해서 지금도 일하는 중이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거에 시작해 지금도 계속되는 동작 → 현재완료진행",
+    "형태: have been + 동사의 ing형 (3인칭 단수 주어 → has been)",
+    "since + 시작한 때 (~부터) · for + 계속된 기간 (~ 동안)",
+    "예) I have been cleaning my room since lunch. (나는 점심때부터 내 방을 청소하고 있어요.)"
+   ],
+   "narration": "과거에 시작해 지금도 계속되는 동작은 현재완료진행으로 나타내요. 형태는 have been 뒤에 동사의 ing형을 쓰고, 3인칭 단수 주어에는 has been을 써요. 시작한 때는 since 뒤에, 계속된 기간은 for 뒤에 써요. 예를 들어 I have been cleaning my room since lunch. 나는 점심때부터 내 방을 청소하고 있어요."
+  },
+  "steps": [
+   {
+    "note": "in 2022에 시작 + still … now 지금도 계속 → 2022년부터 지금까지 일하는 중",
+    "highlight": [
+     "started working here in 2022",
+     "still working here now"
+    ],
+    "strike": [],
+    "narration": "첫째, 2022년에 일하기 시작했고, still과 now를 보면 지금도 일하는 중이에요."
+   },
+   {
+    "note": "Tom = 3인칭 단수 → has been + ing형. was working(과거진행), been 빠진 has working, had been working(과거완료진행) 지움",
+    "highlight": [],
+    "strike": [
+     "① Tom was working here since 2022.",
+     "④ Tom has working here since 2022.",
+     "⑤ Tom had been working here since 2022."
+    ],
+    "narration": "둘째, 주어 Tom은 3인칭 단수라서 has been 뒤에 ing형을 써요. 과거진행형 was working과 과거완료진행형 had been working은 지금과 이어지지 않고, has working은 been이 빠졌어요."
+   },
+   {
+    "note": "2022년 = 일을 시작한 때 → 지금까지 이어지는 일에서는 at ✗ since ✓ → ③",
+    "highlight": [
+     "③ Tom has been working here since 2022."
+    ],
+    "strike": [
+     "② Tom has been working here at 2022."
+    ],
+    "narration": "셋째, 2022년은 시작한 때라서, 지금까지 이어지는 일에서는 at이 아니라 since 뒤에 써요. Tom has been working here since 2022. 톰은 2022년부터 여기서 일하고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Tom was working here since 2022.  ✗  과거진행형 → 지금까지 이어지지 않아요",
+    "② Tom has been working here at 2022.  ✗  지금까지 이어지는 일의 시작한 때 → at이 아니라 since",
+    "③ Tom has been working here since 2022.  ✓  2022년부터 지금까지 계속 일하는 중",
+    "④ Tom has working here since 2022.  ✗  has 뒤에 been이 빠졌어요",
+    "⑤ Tom had been working here since 2022.  ✗  과거완료진행 → 과거의 어느 때까지 계속"
+   ],
+   "narration": "정답은 3번이에요. 2번은 has been working까지는 맞지만, 시작한 때 앞에 since가 아니라 at을 써서 틀렸어요. 4번 has working은 been이 빠져서 현재완료진행이 되지 못해요. 5번 had been working은 과거의 어느 때까지 계속된 일이에요."
+  },
+  "summary": {
+   "card": "지금도 계속되는 동작 → have/has been + ing형 · since + 시작한 때 · for + 기간",
+   "narration": "정답은 3번이에요. 기억할 것, 지금도 계속되는 동작은 have been이나 has been 뒤에 ing형을 쓰고, 시작한 때는 since, 기간은 for로 나타내요."
+  },
+  "captions": [
+   "지금도 계속되는 동작 고르기",
+   "먼저 풀어 보세요",
+   "have/has been + ing형",
+   "시작·계속 확인 → has been → since",
+   "정답 ③",
+   "지금까지 계속 → have/has been + ing"
+  ],
+  "sec": [
+   10,
+   20,
+   26,
+   38,
+   22,
+   12
+  ]
+ },
+ "C": {
+  "title": "현재완료진행과 since·for",
+  "intro": "이 문제는 지금도 계속되는 동작을 바르게 나타낸 문장을 고르는 문제예요.",
+  "problem_narration": "두 문장의 뜻을 합친 문장을 고르세요. We started discussing the issue at 2 p.m. We are still discussing it now. 2시에 그 문제를 논의하기 시작해서 지금도 논의하는 중이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거에 시작해 지금도 계속되는 동작 → 현재완료진행",
+    "형태: have been + 동사의 ing형 (3인칭 단수 주어 → has been)",
+    "since + 시작한 때 (~부터) · for + 계속된 기간 (~ 동안)",
+    "예) He has been reading the book since Monday. (그는 월요일부터 그 책을 읽고 있어요.)"
+   ],
+   "narration": "과거에 시작해 지금도 계속되는 동작은 현재완료진행으로 나타내요. 형태는 have been 뒤에 동사의 ing형을 쓰고, 3인칭 단수 주어에는 has been을 써요. 시작한 때는 since 뒤에, 계속된 기간은 for 뒤에 써요. 예를 들어 He has been reading the book since Monday. 그는 월요일부터 그 책을 읽고 있어요."
+  },
+  "steps": [
+   {
+    "note": "at 2 p.m.에 시작 + still … now 지금도 계속 → 2시부터 지금까지 논의하는 중",
+    "highlight": [
+     "started discussing the issue at 2 p.m.",
+     "still discussing it now"
+    ],
+    "strike": [],
+    "narration": "첫째, 오후 2시에 논의하기 시작했고, still과 now를 보면 지금도 논의하는 중이에요."
+   },
+   {
+    "note": "We → have been + ing형. been 빠진 have discussing, were discussing(과거진행), had been discussing(과거완료진행) 지움",
+    "highlight": [],
+    "strike": [
+     "① We have discussing the issue since 2 p.m.",
+     "② We were discussing the issue since 2 p.m.",
+     "④ We had been discussing the issue since 2 p.m."
+    ],
+    "narration": "둘째, 주어 We에는 have been 뒤에 ing형을 써요. have discussing은 been이 빠졌고, 과거진행형 were discussing과 과거완료진행형 had been discussing은 지금과 이어지지 않아요."
+   },
+   {
+    "note": "2시 = 논의를 시작한 때 → 지금까지 이어지는 일에서는 at ✗ since ✓ → ③",
+    "highlight": [
+     "③ We have been discussing the issue since 2 p.m."
+    ],
+    "strike": [
+     "⑤ We have been discussing the issue at 2 p.m."
+    ],
+    "narration": "셋째, 2시는 시작한 때라서, 지금까지 이어지는 일에서는 at이 아니라 since 뒤에 써요. We have been discussing the issue since 2 p.m. 우리는 오후 2시부터 그 문제를 논의하고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① We have discussing the issue since 2 p.m.  ✗  have 뒤에 been이 빠졌어요",
+    "② We were discussing the issue since 2 p.m.  ✗  과거진행형 → 지금까지 이어지지 않아요",
+    "③ We have been discussing the issue since 2 p.m.  ✓  2시부터 지금까지 계속 논의하는 중",
+    "④ We had been discussing the issue since 2 p.m.  ✗  과거완료진행 → 과거의 어느 때까지 계속",
+    "⑤ We have been discussing the issue at 2 p.m.  ✗  지금까지 이어지는 일의 시작한 때 → at이 아니라 since"
+   ],
+   "narration": "정답은 3번이에요. 5번은 have been discussing까지는 맞지만, 시작한 때 앞에 since가 아니라 at을 써서 틀렸어요. 1번 have discussing은 been이 빠져서 현재완료진행이 되지 못해요. 4번 had been discussing은 과거의 어느 때까지 계속된 일이에요."
+  },
+  "summary": {
+   "card": "지금도 계속되는 동작 → have/has been + ing형 · since + 시작한 때 · for + 기간",
+   "narration": "정답은 3번이에요. 기억할 것, 지금도 계속되는 동작은 have been이나 has been 뒤에 ing형을 쓰고, 시작한 때는 since, 기간은 for로 나타내요."
+  },
+  "captions": [
+   "지금도 계속되는 동작 고르기",
+   "먼저 풀어 보세요",
+   "have/has been + ing형",
+   "시작·계속 확인 → have been → since",
+   "정답 ③",
+   "지금까지 계속 → have/has been + ing"
+  ],
+  "sec": [
+   10,
+   20,
+   26,
+   38,
+   22,
+   12
+  ]
+ },
+ "D": {
+  "title": "현재완료진행과 since·for",
+  "intro": "이 문제는 지금도 계속되는 동작을 바르게 나타낸 문장을 고르는 문제예요.",
+  "problem_narration": "두 문장의 뜻을 합친 문장을 고르세요. Mina started studying at noon. She is still studying now. 미나는 정오에 공부하기 시작해서 지금도 공부하는 중이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거에 시작해 지금도 계속되는 동작 → 현재완료진행",
+    "형태: have been + 동사의 ing형 (3인칭 단수 주어 → has been)",
+    "since + 시작한 때 (~부터) · for + 계속된 기간 (~ 동안)",
+    "예) The kids have been playing soccer since 3 o'clock. (아이들은 3시부터 축구를 하고 있어요.)"
+   ],
+   "narration": "과거에 시작해 지금도 계속되는 동작은 현재완료진행으로 나타내요. 형태는 have been 뒤에 동사의 ing형을 쓰고, 3인칭 단수 주어에는 has been을 써요. 시작한 때는 since 뒤에, 계속된 기간은 for 뒤에 써요. 예를 들어 The kids have been playing soccer since 3 o'clock. 아이들은 3시부터 축구를 하고 있어요."
+  },
+  "steps": [
+   {
+    "note": "at noon에 시작 + still … now 지금도 계속 → 정오부터 지금까지 공부하는 중",
+    "highlight": [
+     "started studying at noon",
+     "still studying now"
+    ],
+    "strike": [],
+    "narration": "첫째, 정오에 공부하기 시작했고, still과 now를 보면 지금도 공부하는 중이에요."
+   },
+   {
+    "note": "Mina = 3인칭 단수 → has been + ing형. had been studying(과거완료진행), was studying(과거진행), been 빠진 has studying 지움",
+    "highlight": [],
+    "strike": [
+     "② Mina had been studying since noon.",
+     "③ Mina was studying since noon.",
+     "④ Mina has studying since noon."
+    ],
+    "narration": "둘째, 주어 Mina는 3인칭 단수라서 has been 뒤에 ing형을 써요. 과거의 어느 때까지 계속된 일을 나타내는 had been studying과 과거진행형 was studying은 지금과 이어지지 않고, has studying은 been이 빠졌어요."
+   },
+   {
+    "note": "정오 = 공부를 시작한 때 → 지금까지 이어지는 일에서는 at ✗ since ✓ → ①",
+    "highlight": [
+     "① Mina has been studying since noon."
+    ],
+    "strike": [
+     "⑤ Mina has been studying at noon."
+    ],
+    "narration": "셋째, 정오는 시작한 때라서, 지금까지 이어지는 일에서는 at이 아니라 since 뒤에 써요. Mina has been studying since noon. 미나는 정오부터 공부하고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Mina has been studying since noon.  ✓  정오부터 지금까지 계속 공부하는 중",
+    "② Mina had been studying since noon.  ✗  과거완료진행 → 과거의 어느 때까지 계속",
+    "③ Mina was studying since noon.  ✗  과거진행형 → 지금까지 이어지지 않아요",
+    "④ Mina has studying since noon.  ✗  has 뒤에 been이 빠졌어요",
+    "⑤ Mina has been studying at noon.  ✗  지금까지 이어지는 일의 시작한 때 → at이 아니라 since"
+   ],
+   "narration": "정답은 1번이에요. 5번은 has been studying까지는 맞지만, 시작한 때 앞에 since가 아니라 at을 써서 틀렸어요. 2번 had been studying은 과거의 어느 때까지 계속된 일이라 지금도 공부한다는 뜻과 맞지 않아요. 4번 has studying은 been이 빠졌어요."
+  },
+  "summary": {
+   "card": "지금도 계속되는 동작 → have/has been + ing형 · since + 시작한 때 · for + 기간",
+   "narration": "정답은 1번이에요. 기억할 것, 지금도 계속되는 동작은 have been이나 has been 뒤에 ing형을 쓰고, 시작한 때는 since, 기간은 for로 나타내요."
+  },
+  "captions": [
+   "지금도 계속되는 동작 고르기",
+   "먼저 풀어 보세요",
+   "have/has been + ing형",
+   "시작·계속 확인 → has been → since",
+   "정답 ①",
+   "지금까지 계속 → have/has been + ing"
+  ],
+  "sec": [
+   10,
+   20,
+   26,
+   38,
+   22,
+   12
+  ]
+ },
+ "E": {
+  "title": "현재완료진행과 since·for",
+  "intro": "이 문제는 지금도 계속되는 동작을 바르게 나타낸 문장을 고르는 문제예요.",
+  "problem_narration": "두 문장의 뜻을 합친 문장을 고르세요. It started raining three hours ago. It is still raining now. 세 시간 전에 비가 오기 시작해서 지금도 비가 오는 중이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거에 시작해 지금도 계속되는 동작 → 현재완료진행",
+    "형태: have been + 동사의 ing형 (3인칭 단수 주어 → has been)",
+    "since + 시작한 때 (~부터) · for + 계속된 기간 (~ 동안)",
+    "예) She has been playing the piano for two hours. (그녀는 두 시간째 피아노를 치고 있어요.)"
+   ],
+   "narration": "과거에 시작해 지금도 계속되는 동작은 현재완료진행으로 나타내요. 형태는 have been 뒤에 동사의 ing형을 쓰고, 3인칭 단수 주어에는 has been을 써요. 시작한 때는 since 뒤에, 계속된 기간은 for 뒤에 써요. 예를 들어 She has been playing the piano for two hours. 그녀는 두 시간째 피아노를 치고 있어요."
+  },
+  "steps": [
+   {
+    "note": "three hours ago에 시작 + still … now 지금도 계속 → 세 시간째 비가 오는 중",
+    "highlight": [
+     "started raining three hours ago",
+     "still raining now"
+    ],
+    "strike": [],
+    "narration": "첫째, 세 시간 전에 비가 오기 시작했고, still과 now를 보면 지금도 비가 오는 중이에요."
+   },
+   {
+    "note": "It = 3인칭 단수 → has been + ing형. been 빠진 has raining, had been raining(과거완료진행), was raining(과거진행) 지움",
+    "highlight": [],
+    "strike": [
+     "① It has raining for three hours.",
+     "② It had been raining for three hours.",
+     "③ It was raining for three hours."
+    ],
+    "narration": "둘째, 주어 It은 3인칭 단수라서 has been 뒤에 ing형을 써요. has raining은 been이 빠졌고, 과거의 어느 때까지 계속된 일을 나타내는 had been raining과 과거진행형 was raining은 지금과 이어지지 않아요."
+   },
+   {
+    "note": "three hours = 시작한 때가 아니라 계속된 기간 → since ✗ for ✓ → ④",
+    "highlight": [
+     "④ It has been raining for three hours."
+    ],
+    "strike": [
+     "⑤ It has been raining since three hours."
+    ],
+    "narration": "셋째, three hours는 시작한 때가 아니라 계속된 기간이라서 since가 아니라 for를 써요. It has been raining for three hours. 세 시간째 비가 오고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① It has raining for three hours.  ✗  has 뒤에 been이 빠졌어요",
+    "② It had been raining for three hours.  ✗  과거완료진행 → 과거의 어느 때까지 계속",
+    "③ It was raining for three hours.  ✗  과거진행형 → 지금까지 이어지지 않아요",
+    "④ It has been raining for three hours.  ✓  세 시간째 지금까지 계속 비가 오는 중",
+    "⑤ It has been raining since three hours.  ✗  기간 앞에는 since가 아니라 for"
+   ],
+   "narration": "정답은 4번이에요. 5번은 has been raining까지는 맞지만, 세 시간이라는 기간 앞에 since를 써서 틀렸어요. 2번 had been raining은 과거의 어느 때까지 계속된 일이라 지금도 비가 온다는 뜻과 맞지 않아요. 3번 was raining은 과거에 비가 오던 일만 말해요."
+  },
+  "summary": {
+   "card": "지금도 계속되는 동작 → have/has been + ing형 · since + 시작한 때 · for + 기간",
+   "narration": "정답은 4번이에요. 기억할 것, 지금도 계속되는 동작은 have been이나 has been 뒤에 ing형을 쓰고, 시작한 때는 since, 기간은 for로 나타내요."
+  },
+  "captions": [
+   "지금도 계속되는 동작 고르기",
+   "먼저 풀어 보세요",
+   "have/has been + ing형",
+   "시작·계속 확인 → has been → for",
+   "정답 ④",
+   "지금까지 계속 → have/has been + ing"
+  ],
+  "sec": [
+   10,
+   20,
+   26,
+   38,
+   22,
+   12
+  ]
+ },
+ "F": {
+  "title": "현재완료진행과 since·for",
+  "intro": "이 문제는 지금도 계속되는 동작을 바르게 나타낸 문장을 고르는 문제예요.",
+  "problem_narration": "두 문장의 뜻을 합친 문장을 고르세요. They started waiting forty minutes ago. They are still waiting now. 40분 전에 기다리기 시작해서 지금도 기다리는 중이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거에 시작해 지금도 계속되는 동작 → 현재완료진행",
+    "형태: have been + 동사의 ing형 (3인칭 단수 주어 → has been)",
+    "since + 시작한 때 (~부터) · for + 계속된 기간 (~ 동안)",
+    "예) I have been learning Chinese for a year. (나는 1년째 중국어를 배우고 있어요.)"
+   ],
+   "narration": "과거에 시작해 지금도 계속되는 동작은 현재완료진행으로 나타내요. 형태는 have been 뒤에 동사의 ing형을 쓰고, 3인칭 단수 주어에는 has been을 써요. 시작한 때는 since 뒤에, 계속된 기간은 for 뒤에 써요. 예를 들어 I have been learning Chinese for a year. 나는 1년째 중국어를 배우고 있어요."
+  },
+  "steps": [
+   {
+    "note": "forty minutes ago에 시작 + still … now 지금도 계속 → 40분째 기다리는 중",
+    "highlight": [
+     "started waiting forty minutes ago",
+     "still waiting now"
+    ],
+    "strike": [],
+    "narration": "첫째, 40분 전에 기다리기 시작했고, still과 now를 보면 지금도 기다리는 중이에요."
+   },
+   {
+    "note": "They → have been + ing형. were waiting(과거진행), had been waiting(과거완료진행), waited(과거) 지움",
+    "highlight": [],
+    "strike": [
+     "① They were waiting for forty minutes.",
+     "④ They had been waiting for forty minutes.",
+     "⑤ They waited for forty minutes."
+    ],
+    "narration": "둘째, 주어 They에는 have been 뒤에 ing형을 써요. 과거진행형 were waiting, 과거형 waited, 그리고 과거의 어느 때까지 계속된 일을 나타내는 had been waiting은 지금과 이어지지 않아요."
+   },
+   {
+    "note": "forty minutes = 시작한 때가 아니라 계속된 기간 → since ✗ for ✓ → ③",
+    "highlight": [
+     "③ They have been waiting for forty minutes."
+    ],
+    "strike": [
+     "② They have been waiting since forty minutes."
+    ],
+    "narration": "셋째, forty minutes는 시작한 때가 아니라 계속된 기간이라서 since가 아니라 for를 써요. They have been waiting for forty minutes. 그들은 40분째 기다리고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① They were waiting for forty minutes.  ✗  과거진행형 → 지금까지 이어지지 않아요",
+    "② They have been waiting since forty minutes.  ✗  기간 앞에는 since가 아니라 for",
+    "③ They have been waiting for forty minutes.  ✓  40분째 지금까지 계속 기다리는 중",
+    "④ They had been waiting for forty minutes.  ✗  과거완료진행 → 과거의 어느 때까지 계속",
+    "⑤ They waited for forty minutes.  ✗  과거형 → 이미 끝난 일이라 지금과 이어지지 않아요"
+   ],
+   "narration": "정답은 3번이에요. 2번은 have been waiting까지는 맞지만, 40분이라는 기간 앞에 since를 써서 틀렸어요. 5번 waited는 과거형이라 이미 끝난 일을 말해서, 지금도 기다린다는 뜻을 나타내지 못해요. 4번 had been waiting은 과거의 어느 때까지 계속된 일이에요."
+  },
+  "summary": {
+   "card": "지금도 계속되는 동작 → have/has been + ing형 · since + 시작한 때 · for + 기간",
+   "narration": "정답은 3번이에요. 기억할 것, 지금도 계속되는 동작은 have been이나 has been 뒤에 ing형을 쓰고, 시작한 때는 since, 기간은 for로 나타내요."
+  },
+  "captions": [
+   "지금도 계속되는 동작 고르기",
+   "먼저 풀어 보세요",
+   "have/has been + ing형",
+   "시작·계속 확인 → have been → for",
+   "정답 ③",
+   "지금까지 계속 → have/has been + ing"
+  ],
+  "sec": [
+   10,
+   20,
+   26,
+   38,
+   22,
+   12
+  ]
+ }
+}

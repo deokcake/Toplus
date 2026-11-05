@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:28:07.341Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "How Tom does get to work every morning?",
+      "1": "How does Tom get to work every morning?",
+      "2": "How does get Tom to work every morning?",
+      "3": "How Tom get to work every morning does?",
+      "4": "Does how Tom get to work every morning?"
+    },
+    "expl": "핵심 규칙: 의문사가 있는 일반동사 의문문은 ‘의문사 + do/does/did + 주어 + 동사원형 ~?’ 순서다.\n풀이 순서: ① 의문사(How)를 맨 앞에 둔다. → ② 그 뒤는 ‘does + 주어(Tom) + 동사원형(get)’ 순서다. → ③ 이 순서인 ②를 고른다.\n문장별 판정:\n정답 판단: How + does + 주어 + 동사원형 순서로 바르게 배열했으므로 정답은 ②이다.\n선택지 분석:\n① [오답] does가 주어(Tom) 앞에 와야 하므로 오답이다.\n② [정답] How + does + 주어 + 동사원형 순서로 바르게 배열했으므로 정답이다.\n③ [오답] 주어(Tom)가 동사(get) 앞에 와야 하므로 오답이다.\n④ [오답] does가 문장 끝에 놓여 의문문 어순이 아니므로 오답이다.\n⑤ [오답] 의문사 How가 문장 맨 앞에 와야 하므로 오답이다.",
+    "passage": "Tom은 매일 아침 어떻게 일하러 가니?\n(how / get / to work / does / Tom / every morning / ?)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T04:27:55.749Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:28:16.474Z",
+      "text": "기준 문항에 비해 문장이 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:28:07.341Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:28:02.931Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:28:07.341Z",
+      "what": "확인 완료"
+    }
+  }
+}

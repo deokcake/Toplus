@@ -1,0 +1,177 @@
+{
+ "key": "7-27",
+ "type": "F",
+ "grade": 7,
+ "chapter": "CH 3 be동사",
+ "title": "주어 He와 be동사 is의 줄임말",
+ "total_sec": 135,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "7급 · CH 3 be동사 · 27번 · F 유형\n\n이 문제는 He is를 바르게 줄여 쓴 말을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 3 be동사 · 27번 · F 유형",
+     "이 문제는 He is를 바르게 줄여 쓴 말을 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 3, 27번 F 유형. 이 문제는 He is를 바르게 줄여 쓴 말을 고르는 문제예요.",
+   "caption": "He is의 줄임말"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 알맞은 말을 고르세요.\n\nHe is tall. → _______ tall.\n\n① Hes\n② He'is\n③ H's\n④ His\n⑤ He's",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 알맞은 말을 고르세요.",
+     "He is tall. → _______ tall.",
+     "① Hes",
+     "② He'is",
+     "③ H's",
+     "④ His",
+     "⑤ He's"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 알맞은 말을 고르세요. He is tall, 그는 키가 커요, 이 문장을 줄여 쓰면 빈칸 tall이 돼요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\nI, you, we, they, he, she, it 뒤의 be동사는 줄여 쓸 수 있어요. 뜻은 같아요.\n주어는 그대로 두고, be동사의 첫 글자를 뺀 자리에 ' (아포스트로피)를 찍어요.\nam → I'm   are → you're, we're, they're   is → he's, she's, it's\nhis(그의)는 소유격이에요. he is를 줄인 말이 아니에요.\n예) It is hot. → It's hot. (날씨가 더워요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "I, you, we, they, he, she, it 뒤의 be동사는 줄여 쓸 수 있어요. 뜻은 같아요.",
+     "주어는 그대로 두고, be동사의 첫 글자를 뺀 자리에 ' (아포스트로피)를 찍어요.",
+     "am → I'm   are → you're, we're, they're   is → he's, she's, it's",
+     "his(그의)는 소유격이에요. he is를 줄인 말이 아니에요.",
+     "예) It is hot. → It's hot. (날씨가 더워요.)"
+    ]
+   },
+   "narration": "I, you, he, she 같은 주어 뒤의 be동사는 줄여 쓸 수 있고, 줄여도 뜻은 같아요. 주어는 그대로 두고 be동사의 첫 글자를 뺀 자리에 아포스트로피를 찍어서, I'm, we're, she's처럼 써요. 소리가 비슷한 his는 그의라는 뜻의 소유격이라 줄임말이 아니에요. 예를 들어 It is hot을 줄이면 It's hot이에요. 날씨가 더워요.",
+   "caption": "be동사 첫 글자 자리에 '"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 알맞은 말을 고르세요.\n\nHe is tall. → _______ tall.\n\n① Hes\n② He'is\n③ H's\n④ His\n⑤ He's",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "He is tall."
+      ],
+      "strike": [
+       "④ His",
+       "③ H's"
+      ],
+      "note": "줄일 두 낱말 = 주어 He + be동사 is. His는 소유격(그의), He의 e까지 뺀 ③도 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① Hes",
+       "② He'is"
+      ],
+      "note": "is는 첫 글자 i를 빼고 ' → 's. ' 없는 ①, i를 빼지 않은 ②는 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ He's"
+      ],
+      "strike": [],
+      "note": "남는 것은 ⑤ He's → He's tall."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 줄일 두 낱말은 주어 He와 be동사 is예요. 그의라는 뜻의 소유격 His와, 주어 He의 글자까지 뺀 3번은 지워요. 둘째, is는 첫 글자를 빼고 그 자리에 아포스트로피를 찍으니, 아포스트로피가 없는 1번과 첫 글자를 빼지 않은 2번은 지워요. 셋째, 남는 것은 5번 He's예요. He's tall. 그는 키가 커요.",
+   "caption": "His는 소유격, is만 줄이기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① Hes  ✗  아포스트로피(')가 빠졌어요\n② He'is  ✗  is의 i를 빼지 않았어요\n③ H's  ✗  주어 He의 e까지 뺐어요\n④ His  ✗  ‘그의’라는 소유격이에요\n⑤ He's  ✓  is의 첫 글자 i를 빼고 '를 찍었어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① Hes  ✗  아포스트로피(')가 빠졌어요",
+     "② He'is  ✗  is의 i를 빼지 않았어요",
+     "③ H's  ✗  주어 He의 e까지 뺐어요",
+     "④ His  ✗  ‘그의’라는 소유격이에요",
+     "⑤ He's  ✓  is의 첫 글자 i를 빼고 '를 찍었어요"
+    ]
+   },
+   "narration": "정답은 5번 He's예요. 4번 His는 소리가 비슷하지만 그의라는 뜻의 소유격이라, He is를 줄인 말이 아니에요. 1번은 아포스트로피가 빠졌어요. 2번은 아포스트로피는 찍었지만 is의 첫 글자를 빼지 않았어요.",
+   "caption": "정답 ⑤ He's"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 13,
+   "screen": {
+    "text": "정답 ⑤ He's\n\n주어는 그대로, be동사의 첫 글자 자리에 ' · his(그의)는 소유격",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ He's",
+     "주어는 그대로, be동사의 첫 글자 자리에 ' · his(그의)는 소유격"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 주어는 그대로 두고 be동사의 첫 글자를 뺀 자리에 아포스트로피를 찍어 줄이고, his는 소유격이에요.",
+   "caption": "his(그의)는 소유격"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 알맞은 말을 고르세요.",
+  "passage": "He is tall. → _______ tall.",
+  "c": [
+   "Hes",
+   "He'is",
+   "H's",
+   "His",
+   "He's"
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: be동사 축약형은 빠진 글자 자리에 아포스트로피(')를 찍어 I'm, you're, he's, she's, it's, we're, they're로 쓴다. your, its, his는 소유격이라 축약형이 아니다.\n풀이 순서: ① 줄일 두 낱말을 본다: He is. → ② be동사의 첫 글자를 빼고 그 자리에 '를 찍는다: He + 's. His는 소유격이다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: he is를 바르게 줄였으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 아포스트로피(')를 빠뜨렸으므로 오답이다.\n② [오답] is의 i를 빼지 않고 아포스트로피만 넣었으므로 오답이다.\n③ [오답] he의 글자를 빼고 줄였으므로 오답이다.\n④ [오답] his는 ‘그의’라는 소유격이라 he is의 축약형이 아니므로 오답이다.\n⑤ [정답] he is를 바르게 줄였으므로 정답이다."
+ }
+}

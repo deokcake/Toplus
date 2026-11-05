@@ -1,0 +1,174 @@
+{
+ "key": "4-11",
+ "type": "E",
+ "grade": 4,
+ "chapter": "CH 2 대명사",
+ "title": "목적격 them과 소유대명사 theirs",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "4급 · CH 2 대명사 · 11번 · E 유형\n\n이 문제는 주격과 목적격, 소유대명사를 구별해 관계가 다른 짝을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 2 대명사 · 11번 · E 유형",
+     "이 문제는 주격과 목적격, 소유대명사를 구별해 관계가 다른 짝을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 2, 11번 E 유형. 이 문제는 주격과 목적격, 소유대명사를 구별해 관계가 다른 짝을 고르는 문제예요.",
+   "caption": "주격·목적격·소유대명사 구별"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.\n\n① he - him\n② she - her\n③ I - me\n④ they - theirs\n⑤ we - us",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.",
+     "① he - him",
+     "② she - her",
+     "③ I - me",
+     "④ they - theirs",
+     "⑤ we - us"
+    ]
+   },
+   "narration": "다음 중 짝지어진 단어의 관계가 다른 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n주격(주어 자리, ~는·~가): I, you, he, she, it, we, they\n목적격(동사·전치사 뒤, ~를·~에게): me, you, him, her, it, us, them\n소유대명사(명사 없이 혼자, ~의 것): mine, yours, his, hers, ours, theirs\n예) We gave them theirs. (우리는 그들에게 그들의 것을 줬어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "주격(주어 자리, ~는·~가): I, you, he, she, it, we, they",
+     "목적격(동사·전치사 뒤, ~를·~에게): me, you, him, her, it, us, them",
+     "소유대명사(명사 없이 혼자, ~의 것): mine, yours, his, hers, ours, theirs",
+     "예) We gave them theirs. (우리는 그들에게 그들의 것을 줬어요.)"
+    ]
+   },
+   "narration": "주어 자리에는 주격, 동사나 전치사 뒤 목적어 자리에는 목적격을 써요. I는 me, he는 him, she는 her, we는 us, they는 them이 되고, you와 it은 모양이 그대로예요. 누구의 것이라는 뜻으로 명사 없이 혼자 쓰는 mine, theirs는 소유대명사예요. 예를 들어 We gave them theirs, 우리는 그들에게 그들의 것을 줬어요.",
+   "caption": "주격·목적격·소유대명사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.\n\n① he - him\n② she - her\n③ I - me\n④ they - theirs\n⑤ we - us",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "짝지어진 단어의 관계가 다른 것"
+      ],
+      "strike": [],
+      "note": "짝의 앞 he, she, I, they, we = 모두 주격 → 뒤 낱말이 목적격인지 본다"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① he - him",
+       "② she - her",
+       "③ I - me",
+       "⑤ we - us"
+      ],
+      "note": "him, her, me, us = he, she, I, we의 목적격 → ①②③⑤ 주격 - 목적격"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ they - theirs"
+      ],
+      "strike": [],
+      "note": "they의 목적격은 them · theirs = 그들의 것(소유대명사) → ④만 관계가 다르다"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 짝의 앞 낱말 he, she, I, they, we는 모두 주격이니, 뒤 낱말이 목적격인지 확인해요. 둘째, him, her, me, us는 각각 he, she, I, we의 목적격이에요. 그래서 1번, 2번, 3번, 5번은 주격과 목적격의 짝이에요. 셋째, they의 목적격은 them인데 4번은 theirs예요. theirs는 그들의 것이라는 소유대명사라서, 이 짝만 관계가 달라요.",
+   "caption": "앞은 주격 → 뒤는 목적격인지"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 25,
+   "screen": {
+    "text": "① he - him  ✗  him은 he의 목적격 (그를), he의 소유격은 his\n② she - her  ✗  her는 she의 목적격 (그녀를), ‘그녀의’로도 써요\n③ I - me  ✗  me는 I의 목적격 (나를)\n④ they - theirs  ✓  theirs는 소유대명사 (그들의 것), they의 목적격은 them\n⑤ we - us  ✗  us는 we의 목적격 (우리를)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① he - him  ✗  him은 he의 목적격 (그를), he의 소유격은 his",
+     "② she - her  ✗  her는 she의 목적격 (그녀를), ‘그녀의’로도 써요",
+     "③ I - me  ✗  me는 I의 목적격 (나를)",
+     "④ they - theirs  ✓  theirs는 소유대명사 (그들의 것), they의 목적격은 them",
+     "⑤ we - us  ✗  us는 we의 목적격 (우리를)"
+    ]
+   },
+   "narration": "정답은 4번, they와 theirs예요. 2번 she와 her는 her가 그녀의라는 뜻으로도 쓰여서 헷갈릴 수 있어요. 하지만 she의 목적격도 her라서 다른 짝들처럼 주격과 목적격의 짝이에요. 1번 him을 그의로 착각하기 쉽지만, 그의는 his이고 him은 그를이라는 목적격이에요.",
+   "caption": "정답 ④ they - theirs"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ④ they - theirs\n\n주격 - 목적격 - 소유대명사: they - them - theirs, I - me - mine",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ they - theirs",
+     "주격 - 목적격 - 소유대명사: they - them - theirs, I - me - mine"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, they의 목적격은 them이고, theirs는 그들의 것이라는 소유대명사예요.",
+   "caption": "they - them - theirs"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "he - him",
+   "she - her",
+   "I - me",
+   "they - theirs",
+   "we - us"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 소유격은 명사 앞에, 소유대명사는 명사 없이 단독으로 쓰며 목적격과 구별한다.\n풀이 순서: ① 짝의 앞은 모두 주격이다. 뒤가 목적격인지 확인한다. → ② they의 목적격은 them이다. theirs는 소유대명사다. → ③ 정답은 they - theirs.\n문장별 판정:\n정답 판단: they-theirs는 주격과 소유대명사의 관계이다. 나머지 주격-목적격 관계와 성격이 다르다.\n선택지 분석:\n① he - him - 오답. he-him은 주격과 목적격의 대응 관계이다. 문항이 찾는 예외 관계가 아니므로 오답이다.\n② she - her - 오답. she-her는 주격과 목적격의 대응 관계이다. 문항이 찾는 예외 관계가 아니므로 오답이다.\n③ I - me - 오답. I-me는 주격과 목적격의 대응 관계이다. 문항이 찾는 예외 관계가 아니므로 오답이다.\n④ they - theirs - 정답. they-theirs는 주격과 소유대명사의 관계이다. 나머지 주격-목적격 관계와 성격이 다르다.\n⑤ we - us - 오답. we-us는 주격과 목적격의 대응 관계이다. 문항이 찾는 예외 관계가 아니므로 오답이다."
+ }
+}

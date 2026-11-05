@@ -1,0 +1,181 @@
+{
+ "key": "1-7",
+ "type": "E",
+ "grade": 1,
+ "chapter": "CH 1 문장의 구조",
+ "title": "전치사 없이 목적어를 받는 동사",
+ "total_sec": 133,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "1급 · CH 1 문장의 구조 · 7번 · E 유형\n\n이 문제는 동사 뒤에 전치사가 필요한지 판단해, 어법상 어색한 밑줄을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 1 문장의 구조 · 7번 · E 유형",
+     "이 문제는 동사 뒤에 전치사가 필요한지 판단해, 어법상 어색한 밑줄을 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 1, 7번 E 유형. 이 문제는 동사 뒤에 전치사가 필요한지 판단해, 어법상 어색한 밑줄을 고르는 문제예요.",
+   "caption": "동사 뒤 전치사, 필요할까?"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 문장의 밑줄 친 부분 중 어법상 어색한 것은?\n\nTom ①<u>reached</u> home late. He ②<u>entered</u> the kitchen and ③<u>discussed</u> the problem with Dad. His little sister, who ④<u>resembles to</u> him a lot, ⑤<u>asked about</u> his day.\n\n① reached\n② entered\n③ discussed\n④ resembles to\n⑤ asked about",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장의 밑줄 친 부분 중 어법상 어색한 것은?",
+     "Tom ①<u>reached</u> home late. He ②<u>entered</u> the kitchen and ③<u>discussed</u> the problem with Dad. His little sister, who ④<u>resembles to</u> him a lot, ⑤<u>asked about</u> his day.",
+     "① reached",
+     "② entered",
+     "③ discussed",
+     "④ resembles to",
+     "⑤ asked about"
+    ]
+   },
+   "narration": "다음 문장의 밑줄 친 부분 중 어법상 어색한 것은? 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\nattend 참석하다 · discuss 논의하다 · reach 도착하다, 이르다\nenter 들어가다 · approach 다가가다 · resemble 닮다\n이 뜻으로 쓸 때는 우리말에 ‘~에, ~에 대해, ~와’가 붙어도 전치사 없이 바로 목적어\nask about(~에 대해 묻다)은 about이 꼭 필요해요\n예) Mina resembles her mother. (미나는 엄마와 닮았어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "attend 참석하다 · discuss 논의하다 · reach 도착하다, 이르다",
+     "enter 들어가다 · approach 다가가다 · resemble 닮다",
+     "이 뜻으로 쓸 때는 우리말에 ‘~에, ~에 대해, ~와’가 붙어도 전치사 없이 바로 목적어",
+     "ask about(~에 대해 묻다)은 about이 꼭 필요해요",
+     "예) Mina resembles her mother. (미나는 엄마와 닮았어요.)"
+    ]
+   },
+   "narration": "attend는 참석하다, discuss는 논의하다, reach는 도착하다, enter는 들어가다, approach는 다가가다, resemble은 닮다라는 뜻이에요. 이런 뜻으로 쓸 때는 우리말에 조사가 붙어도 전치사 없이 목적어를 바로 써요. 하지만 ask about은 무엇에 대해 묻는다는 뜻이라 about이 꼭 필요해요. 예를 들어 Mina resembles her mother. 미나는 엄마와 닮았어요.",
+   "caption": "전치사 없이 바로 목적어"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 39,
+   "screen": {
+    "text": "다음 문장의 밑줄 친 부분 중 어법상 어색한 것은?\n\nTom ①<u>reached</u> home late. He ②<u>entered</u> the kitchen and ③<u>discussed</u> the problem with Dad. His little sister, who ④<u>resembles to</u> him a lot, ⑤<u>asked about</u> his day.\n\n① reached\n② entered\n③ discussed\n④ resembles to\n⑤ asked about",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "④ resembles to",
+       "⑤ asked about"
+      ],
+      "strike": [
+       "① reached",
+       "② entered",
+       "③ discussed"
+      ],
+      "note": "전치사가 붙은 밑줄: ④ resembles to, ⑤ asked about. ①②③은 전치사 없이 바로 씀 → 바름"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "his day"
+      ],
+      "strike": [
+       "⑤ asked about"
+      ],
+      "note": "ask about = ~에 대해 묻다 → about이 꼭 필요 → asked about his day는 바름"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ resembles to",
+       "him a lot"
+      ],
+      "strike": [],
+      "note": "닮다 resemble은 ‘~와 닮다’로 옮겨져도 대상을 바로 → to를 빼고 resembles him"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 밑줄 친 동사 중 전치사가 붙은 것은 4번 resembles to와 5번 asked about이에요. 나머지 reached, entered, discussed는 전치사 없이 바르게 썼어요. 둘째, ask about은 무엇에 대해 묻는다는 뜻이라 about이 꼭 필요해서, asked about his day는 맞아요. 셋째, 닮다라는 뜻의 resemble은 우리말로 누구와 닮다로 옮겨져도 닮은 대상을 바로 목적어로 받으니, to를 빼고 resembles him으로 써야 해요. His little sister resembles him a lot. 그의 여동생은 그와 많이 닮았어요.",
+   "caption": "전치사 찾기 → ask about → resemble"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① reached  ✗  도착한 곳 home 앞에 전치사가 없어 맞아요\n② entered  ✗  들어간 곳 the kitchen을 into 없이 받아요\n③ discussed  ✗  논의한 것 the problem을 about 없이 받아요\n④ resembles to  ✓  닮다 resemble은 to 없이 → resembles him\n⑤ asked about  ✗  ‘~에 대해 묻다’ ask about은 about이 필요해요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① reached  ✗  도착한 곳 home 앞에 전치사가 없어 맞아요",
+     "② entered  ✗  들어간 곳 the kitchen을 into 없이 받아요",
+     "③ discussed  ✗  논의한 것 the problem을 about 없이 받아요",
+     "④ resembles to  ✓  닮다 resemble은 to 없이 → resembles him",
+     "⑤ asked about  ✗  ‘~에 대해 묻다’ ask about은 about이 필요해요"
+    ]
+   },
+   "narration": "정답은 4번 resembles to예요. 5번 asked about도 전치사가 붙어 있지만, 무엇에 대해 묻는다는 뜻이라 about이 있어야 맞아요. 2번 entered는 우리말로 부엌에 들어갔다로 옮겨져도, into 없이 the kitchen을 바로 받아 맞아요. 3번 discussed도 about 없이 the problem을 바로 받아 맞아요.",
+   "caption": "정답 ④ resembles to"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 13,
+   "screen": {
+    "text": "정답 ④ resembles to\n\nresemble(닮다) · enter(들어가다) · discuss(논의하다) + 목적어, 전치사 없이",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ resembles to",
+     "resemble(닮다) · enter(들어가다) · discuss(논의하다) + 목적어, 전치사 없이"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 닮다, 들어가다, 논의하다라는 뜻의 resemble, enter, discuss는 전치사 없이 목적어를 바로 써요.",
+   "caption": "resemble + 대상, to 없이"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장의 밑줄 친 부분 중 어법상 어색한 것은?",
+  "passage": "Tom ①<u>reached</u> home late. He ②<u>entered</u> the kitchen and ③<u>discussed</u> the problem with Dad. His little sister, who ④<u>resembles to</u> him a lot, ⑤<u>asked about</u> his day.",
+  "c": [
+   "reached",
+   "entered",
+   "discussed",
+   "resembles to",
+   "asked about"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: reach, enter, discuss, resemble은 목적어를 전치사 없이 바로 취하는 타동사이다. ask about은 물어보는 주제를 about 뒤에 연결한다.\n풀이 순서: ① 밑줄 친 동사 가운데 전치사가 붙은 것부터 찾는다: ④ resembles to, ⑤ asked about. → ② ask about은 about이 꼭 필요하지만, resemble은 닮은 대상을 바로 목적어로 받는다. → ③ 따라서 ④에서 전치사를 뺀 형태(resembles him)가 바르다.\n문장별 판정:\n정답 판단: “resembles to”는 resemble 뒤에 불필요한 to를 넣었다. “resembles him”으로 고쳐야 한다.\n선택지 분석:\n① [오답] “reached”는 도착 장소 home을 바로 받는다. 올바른 부분이므로 오답이다.\n② [오답] “entered”는 들어간 장소 the kitchen을 바로 목적어로 받는다. 올바른 부분이므로 오답이다.\n③ [오답] “discussed”는 논의 대상 the problem을 바로 목적어로 받는다. 올바른 부분이므로 오답이다.\n④ [정답] resemble은 닮은 대상을 바로 목적어로 받는 타동사이다. to를 빼고 “resembles him”으로 고쳐야 하므로 정답이다.\n⑤ [오답] “asked about”는 about 뒤에 물어본 주제 his day가 온다. 올바른 부분이므로 오답이다."
+ }
+}

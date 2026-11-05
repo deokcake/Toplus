@@ -1,0 +1,30 @@
+{
+  "by": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "done": true,
+  "doneAt": "2026-10-24T02:55:13.208Z",
+  "doneBy": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "The scissors <u>are</u> on the desk.",
+      "1": "This bread <u>is</u> fresh.",
+      "2": "Physics <u>is</u> hard for me.",
+      "3": "My pants <u>is</u> too long.",
+      "4": "The children <u>are</u> playing."
+    },
+    "expl": "핵심 규칙: news·information·advice·furniture와 학문 이름(mathematics, physics, economics)은 단수 취급하고, pants·jeans·scissors·glasses·socks처럼 짝을 이루는 물건과 police는 복수 취급한다.\n풀이 순서: ① 주어 명사를 둘로 가른다: 단수 취급(news, information, advice, 학문 이름), 복수 취급(짝을 이루는 물건, police). → ② 밑줄 친 동사가 그에 맞는지 본다. news는 단수 취급한다. ③의 are가 틀렸다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: pants는 복수 취급해 are를 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 복수 취급하는 명사라 복수 동사가 맞으므로 오답이다.\n② [오답] 단수 취급하는 명사라 단수 동사가 맞으므로 오답이다.\n③ [오답] 단수 취급하는 명사라 단수 동사가 맞으므로 오답이다.\n④ [정답] pants는 복수 취급해 are를 써야 하므로 정답이다.\n⑤ [오답] 복수 취급하는 명사라 복수 동사가 맞으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 부분이 틀린 문장을 고르시오."
+  },
+  "editors": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": "2026-10-24T02:55:12.235Z"
+  },
+  "tab": "ai7fx4gw",
+  "updatedAt": "2026-10-24T02:55:13.208Z",
+  "who": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": {
+      "at": "2026-10-24T02:55:13.208Z",
+      "what": "확인 완료"
+    }
+  }
+}

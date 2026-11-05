@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:12:42.910Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "runners - dress - less",
+      "1": "runner - dress - less",
+      "2": "runners - dresses - little",
+      "3": "runners - dresses - fewer",
+      "4": "runner - dresses - little"
+    },
+    "expl": "핵심 규칙: one of the + 최상급 뒤에는 복수명사, 비교급 + than any other 뒤에는 단수명사를 쓴다. than 앞의 수량 비교급은 셀 수 없는 명사에 less, 셀 수 있는 명사에 fewer·more를 쓴다.\n풀이 순서: ① 첫째 빈칸: one of the + 최상급 뒤이므로 복수명사(runners). → ② 둘째 빈칸: any other 뒤이므로 단수명사(dress). → ③ 셋째 빈칸: 뒤에 than이 있으므로 비교급(셀 수 없는 water 앞의 less). 정답은 runners - dress - less.\n문장별 판정:\n정답 판단: one of the 뒤 복수명사, any other 뒤 단수명사, than 앞 비교급을 모두 바르게 골랐으므로 정답은 ①이다.\n선택지 분석:\n① [정답] one of the 뒤 복수명사, any other 뒤 단수명사, than 앞 비교급을 모두 바르게 골랐으므로 정답이다.\n② [오답] 첫째 빈칸: one of the 뒤에는 복수명사(runners)를 쓴다. 따라서 오답이다.\n③ [오답] 둘째 빈칸: any other 뒤에는 단수명사(dress)를 쓴다, 셋째 빈칸: than 앞에는 원급(little)이 아니라 비교급(less)을 쓴다. 따라서 오답이다.\n④ [오답] 둘째 빈칸: any other 뒤에는 단수명사(dress)를 쓴다, 셋째 빈칸: fewer는 셀 수 있는 명사에 쓰는데 water는 셀 수 없는 명사라 less를 쓴다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸: one of the 뒤에는 복수명사(runners)를 쓴다, 둘째 빈칸: any other 뒤에는 단수명사(dress)를 쓴다, 셋째 빈칸: than 앞에는 원급(little)이 아니라 비교급(less)을 쓴다. 따라서 오답이다.",
+    "passage": "Minho is one of the fastest ______ in our school.\nThis dress is prettier than any other ____ in the shop.\nI drink ______ water than my sister.",
+    "stem": "다음 빈칸에 들어갈 단어를 바르게 짝지은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:12:41.140Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:12:42.910Z",
+      "what": "확인 완료"
+    }
+  }
+}

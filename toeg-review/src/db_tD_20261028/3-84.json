@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:07:32.213Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "My brother is good at cooking Italian food.",
+      "1": "I want to visit my grandmother this weekend.",
+      "2": "She kept talking on the phone for an hour.",
+      "3": "Do you mind helping me with this box?",
+      "4": "Tom is worried about fail the math test."
+    },
+    "expl": "핵심 규칙: 전치사(about, in, of, at, for, without) 뒤와 관용 표현(look forward to, feel like, be busy, can't help, How about, be used to, It's no use, have a hard time, spend + 시간) 뒤에는 동명사를 쓴다.\n풀이 순서: ① 문장마다 -ing형이나 to부정사 앞의 표현을 찾는다(전치사, 관용 표현, 동사). → ② 전치사와 look forward to, feel like 뒤에는 동명사가 와야 한다. → ③ 선택지 ⑤는 전치사 about 뒤에 동사원형 fail을 썼다. failing으로 고친다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 전치사 about 뒤에는 동명사(failing)를 써야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 전치사 at 뒤에 동명사를 바르게 썼으므로 오답이다.\n② [오답] want는 to부정사를 목적어로 쓰므로 to visit이 바르다. 따라서 오답이다.\n③ [오답] keep + 동명사를 바르게 썼으므로 오답이다.\n④ [오답] mind + 동명사를 바르게 썼으므로 오답이다.\n⑤ [정답] 전치사 about 뒤에는 동명사(failing)를 써야 하므로 정답이다.",
+    "passage": "",
+    "stem": "다음 중 어법상 틀린 문장을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:15:05.441Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:15:48.436Z",
+      "text": "정답이 되는 선택지만 동명사가 없어 정답을 쉽게 유추할 수 있다."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:07:32.213Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:07:21.844Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:07:32.213Z",
+      "what": "확인 완료"
+    }
+  }
+}

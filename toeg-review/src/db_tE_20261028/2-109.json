@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-24T01:21:11.938Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "into - down - at",
+      "1": "up - among - at",
+      "2": "up - down - among",
+      "3": "at - down - into",
+      "4": "up - down - at"
+    },
+    "expl": "핵심 규칙: 이동 전치사는 out of(밖으로), into(안으로), across(가로질러), along(따라), over(넘어), up/down(위로/아래로), under(아래로), between(둘 사이), among(여럿 사이)을 구별한다. 세 자리가 모두 문장의 뜻과 맞아야 한다.\n풀이 순서: ① 동사와 장소를 짝지어 움직임을 그려 본다. → ② 계단을 ‘올라’(up), 복도를 ‘따라가’(down), 문 ‘앞에서’ 멈췄다(at). → ③ 순서대로 up - down - at이다.\n문장별 판정:\n정답 판단: 계단을 ‘올라’ up, 복도를 ‘따라 쭉’ down, 문 ‘앞에(한 지점)’ at이다.\n선택지 분석:\n① [오답] 첫째 빈칸 into: 계단 ‘안으로’ 걷는다는 뜻은 통하지 않는다. 따라서 오답이다.\n② [오답] 둘째 빈칸 among: 복도는 여럿이 아니므로 among을 쓸 수 없다. 따라서 오답이다.\n③ [오답] 셋째 빈칸 among: 문 하나 앞에 멈추는 것이므로 among은 맞지 않는다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 at: walked at the stairs라는 표현은 쓰지 않는다. 셋째 빈칸 into: 문 ‘안으로’ 멈춘다는 뜻은 통하지 않는다. 따라서 오답이다.\n⑤ [정답] up - down - at: 모든 자리가 알맞으므로 정답이다.",
+    "passage": "Tom walked ________ the stairs, went ________ the hallway, and stopped ________ the door.",
+    "stem": "다음 문장의 빈칸에 들어갈 전치사가 순서대로 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T01:20:13.607Z"
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-24T01:21:11.938Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:21:11.938Z",
+      "what": "확인 완료"
+    }
+  }
+}

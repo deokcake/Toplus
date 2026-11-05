@@ -1,0 +1,458 @@
+{
+ "A": {
+  "title": "자음 + y로 끝나는 동사의 3인칭 단수형",
+  "intro": "이 문제는 보기의 studies, carries와 같은 규칙으로 바뀌는 동사 묶음을 고르는 문제예요.",
+  "problem_narration": "다음 보기의 문장들과 같은 규칙으로 동사가 변하는 단어만 묶은 것을 고르세요. She studies hard. He carries a bag. 그녀는 열심히 공부하고, 그는 가방을 들고 다녀요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "주어가 3인칭 단수(he, she, it, Tom)일 때 일반동사 현재형 → 대부분 동사 + s (likes)",
+    "자음 + y로 끝나면 → y를 i로 바꾸고 + es (try → tries)",
+    "모음(a, e, i, o, u) + y로 끝나면 → s만 (play → plays)",
+    "s, sh, ch, x로 끝나는 동사, go, do → + es (washes, goes) · have → has",
+    "예) Minsu tries his best. (민수는 최선을 다해요.)"
+   ],
+   "narration": "주어가 he, she, it이나 Tom처럼 3인칭 단수이면 일반동사 현재형에 대부분 s를 붙여요. 자음 다음 y로 끝나면 y를 i로 바꾸고 es를 붙이지만, play처럼 모음 다음 y로 끝나면 s만 붙여요. s, sh, ch, x로 끝나는 동사와 go, do는 es를 붙이고, have는 has가 돼요. Minsu tries his best. 민수는 최선을 다해요."
+  },
+  "steps": [
+   {
+    "note": "studies ← study, carries ← carry: 자음 + y → y를 i로 바꾸고 + es",
+    "highlight": [
+     "studies",
+     "carries"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 studies와 carries는 study와 carry가 바뀐 모양이에요. 둘 다 자음 다음의 y를 i로 바꾸고 es를 붙였어요."
+   },
+   {
+    "note": "y로 끝나지 않는 묶음은 y를 바꿀 일이 없다 → 지운다",
+    "highlight": [],
+    "strike": [
+     "① go, do",
+     "② wash, watch",
+     "⑤ like, make"
+    ],
+    "narration": "둘째, y로 끝나지 않는 1번, 2번, 5번은 y를 바꿀 일이 없으니 지워요."
+   },
+   {
+    "note": "y 앞 글자: buy, say → 모음 / fly, cry → 자음 → ④",
+    "highlight": [
+     "④ fly, cry"
+    ],
+    "strike": [
+     "③ buy, say"
+    ],
+    "narration": "셋째, 남은 3번과 4번은 y 앞 글자를 봐요. buy, say는 y 앞이 모음이고, fly, cry는 자음이라 4번이 보기와 같아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① go, do  ✗  y를 바꾸지 않고 es만 (goes, does)",
+    "② wash, watch  ✗  sh, ch로 끝나 es만 (washes, watches)",
+    "③ buy, say  ✗  모음 + y라 s만 (buys, says)",
+    "④ fly, cry  ✓  자음 + y → y를 i로 바꾸고 es (flies, cries)",
+    "⑤ like, make  ✗  s만 붙여요 (likes, makes)"
+   ],
+   "narration": "정답은 4번 fly, cry예요. flies, cries처럼 y를 i로 바꾸고 es를 붙여요. 3번 buy, say도 y로 끝나지만 y 앞이 모음이라 buys, says처럼 s만 붙여요. 1번 go, do는 goes, does처럼 es를 붙이지만 y를 i로 바꾸지는 않아요."
+  },
+  "summary": {
+   "card": "3인칭 단수 현재형: 자음 + y → y를 i로 바꾸고 + es (모음 + y → s만)",
+   "narration": "정답은 4번이에요. 기억할 것, 주어가 3인칭 단수일 때 자음 다음에 y로 끝나는 동사는 y를 i로 바꾸고 es를 붙여요."
+  },
+  "captions": [
+   "studies, carries와 같은 규칙",
+   "먼저 풀어 보세요",
+   "3인칭 단수 현재형 만들기",
+   "원래 모양 → y로 끝나나 → y 앞 글자",
+   "정답 ④ fly, cry",
+   "자음 + y → y를 i로 바꾸고 + es"
+  ],
+  "sec": [
+   10,
+   20,
+   28,
+   32,
+   26,
+   10
+  ]
+ },
+ "B": {
+  "title": "자음 + y로 끝나는 동사의 3인칭 단수형",
+  "intro": "이 문제는 보기의 studies, carries와 같은 규칙으로 바뀌는 동사 묶음을 고르는 문제예요.",
+  "problem_narration": "다음 보기의 문장들과 같은 규칙으로 동사가 변하는 단어만 묶은 것을 고르세요. She studies science. He carries a box. 그녀는 과학을 공부하고, 그는 상자를 날라요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "주어가 3인칭 단수(he, she, it, Tom)일 때 일반동사 현재형 → 대부분 동사 + s (likes)",
+    "자음 + y로 끝나면 → y를 i로 바꾸고 + es (try → tries)",
+    "모음(a, e, i, o, u) + y로 끝나면 → s만 (play → plays)",
+    "s, sh, ch, x로 끝나는 동사, go, do → + es (washes, goes) · have → has",
+    "예) Minsu tries his best. (민수는 최선을 다해요.)"
+   ],
+   "narration": "주어가 he, she, it이나 Tom처럼 3인칭 단수이면 일반동사 현재형에 대부분 s를 붙여요. 자음 다음 y로 끝나면 y를 i로 바꾸고 es를 붙이지만, play처럼 모음 다음 y로 끝나면 s만 붙여요. s, sh, ch, x로 끝나는 동사와 go, do는 es를 붙이고, have는 has가 돼요. Minsu tries his best. 민수는 최선을 다해요."
+  },
+  "steps": [
+   {
+    "note": "studies ← study, carries ← carry: 자음 + y → y를 i로 바꾸고 + es",
+    "highlight": [
+     "studies",
+     "carries"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 studies와 carries는 study와 carry가 바뀐 모양이에요. 둘 다 자음 다음의 y를 i로 바꾸고 es를 붙였어요."
+   },
+   {
+    "note": "y로 끝나지 않는 묶음은 y를 바꿀 일이 없다 → 지운다",
+    "highlight": [],
+    "strike": [
+     "② wash, fix",
+     "③ go, do",
+     "⑤ read, open"
+    ],
+    "narration": "둘째, y로 끝나지 않는 2번, 3번, 5번은 y를 바꿀 일이 없으니 지워요."
+   },
+   {
+    "note": "y 앞 글자: play, enjoy → 모음 / worry, hurry → 자음 → ①",
+    "highlight": [
+     "① worry, hurry"
+    ],
+    "strike": [
+     "④ play, enjoy"
+    ],
+    "narration": "셋째, 남은 1번과 4번은 y 앞 글자를 봐요. play, enjoy는 y 앞이 모음이고, worry, hurry는 자음이라 1번이 보기와 같아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① worry, hurry  ✓  자음 + y → y를 i로 바꾸고 es (worries, hurries)",
+    "② wash, fix  ✗  sh, x로 끝나 es만 (washes, fixes)",
+    "③ go, do  ✗  y를 바꾸지 않고 es만 (goes, does)",
+    "④ play, enjoy  ✗  모음 + y라 s만 (plays, enjoys)",
+    "⑤ read, open  ✗  s만 붙여요 (reads, opens)"
+   ],
+   "narration": "정답은 1번 worry, hurry예요. worries, hurries처럼 y를 i로 바꾸고 es를 붙여요. 4번 play, enjoy도 y로 끝나지만 y 앞이 모음이라 plays, enjoys처럼 s만 붙여요. 3번 go, do는 goes, does처럼 es를 붙이지만 y를 i로 바꾸지는 않아요."
+  },
+  "summary": {
+   "card": "3인칭 단수 현재형: 자음 + y → y를 i로 바꾸고 + es (모음 + y → s만)",
+   "narration": "정답은 1번이에요. 기억할 것, 주어가 3인칭 단수일 때 자음 다음에 y로 끝나는 동사는 y를 i로 바꾸고 es를 붙여요."
+  },
+  "captions": [
+   "studies, carries와 같은 규칙",
+   "먼저 풀어 보세요",
+   "3인칭 단수 현재형 만들기",
+   "원래 모양 → y로 끝나나 → y 앞 글자",
+   "정답 ① worry, hurry",
+   "자음 + y → y를 i로 바꾸고 + es"
+  ],
+  "sec": [
+   10,
+   20,
+   28,
+   32,
+   26,
+   10
+  ]
+ },
+ "C": {
+  "title": "자음 + y로 끝나는 동사의 3인칭 단수형",
+  "intro": "이 문제는 보기의 tries, cries와 같은 규칙으로 바뀌는 동사 묶음을 고르는 문제예요.",
+  "problem_narration": "다음 보기의 문장들과 같은 규칙으로 동사가 변하는 단어만 묶은 것을 고르세요. My brother tries hard. The baby cries at night. 우리 형은 열심히 노력하고, 아기는 밤에 울어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "주어가 3인칭 단수(he, she, it, Tom)일 때 일반동사 현재형 → 대부분 동사 + s (likes)",
+    "자음 + y로 끝나면 → y를 i로 바꾸고 + es (carry → carries)",
+    "모음(a, e, i, o, u) + y로 끝나면 → s만 (play → plays)",
+    "s, sh, ch, x로 끝나는 동사, go, do → + es (washes, goes) · have → has",
+    "예) Dad carries the boxes. (아빠가 상자들을 날라요.)"
+   ],
+   "narration": "주어가 he, she, it이나 Tom처럼 3인칭 단수이면 일반동사 현재형에 대부분 s를 붙여요. 자음 다음 y로 끝나면 y를 i로 바꾸고 es를 붙이지만, play처럼 모음 다음 y로 끝나면 s만 붙여요. s, sh, ch, x로 끝나는 동사와 go, do는 es를 붙이고, have는 has가 돼요. Dad carries the boxes. 아빠가 상자들을 날라요."
+  },
+  "steps": [
+   {
+    "note": "tries ← try, cries ← cry: 자음 + y → y를 i로 바꾸고 + es",
+    "highlight": [
+     "tries",
+     "cries"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 tries와 cries는 try와 cry가 바뀐 모양이에요. 둘 다 자음 다음의 y를 i로 바꾸고 es를 붙였어요."
+   },
+   {
+    "note": "y로 끝나지 않는 묶음은 y를 바꿀 일이 없다 → 지운다",
+    "highlight": [],
+    "strike": [
+     "① watch, wash",
+     "④ go, do",
+     "⑤ like, make"
+    ],
+    "narration": "둘째, y로 끝나지 않는 1번, 4번, 5번은 y를 바꿀 일이 없으니 지워요."
+   },
+   {
+    "note": "y 앞 글자: play, stay → 모음 / worry, study → 자음 → ②",
+    "highlight": [
+     "② worry, study"
+    ],
+    "strike": [
+     "③ play, stay"
+    ],
+    "narration": "셋째, 남은 2번과 3번은 y 앞 글자를 봐요. play, stay는 y 앞이 모음이고, worry, study는 자음이라 2번이 보기와 같아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① watch, wash  ✗  ch, sh로 끝나 es만 (watches, washes)",
+    "② worry, study  ✓  자음 + y → y를 i로 바꾸고 es (worries, studies)",
+    "③ play, stay  ✗  모음 + y라 s만 (plays, stays)",
+    "④ go, do  ✗  y를 바꾸지 않고 es만 (goes, does)",
+    "⑤ like, make  ✗  s만 붙여요 (likes, makes)"
+   ],
+   "narration": "정답은 2번 worry, study예요. worries, studies처럼 y를 i로 바꾸고 es를 붙여요. 3번 play, stay도 y로 끝나지만 y 앞이 모음이라 plays, stays처럼 s만 붙여요. 4번 go, do는 goes, does처럼 es를 붙이지만 y를 i로 바꾸지는 않아요."
+  },
+  "summary": {
+   "card": "3인칭 단수 현재형: 자음 + y → y를 i로 바꾸고 + es (모음 + y → s만)",
+   "narration": "정답은 2번이에요. 기억할 것, 주어가 3인칭 단수일 때 자음 다음에 y로 끝나는 동사는 y를 i로 바꾸고 es를 붙여요."
+  },
+  "captions": [
+   "tries, cries와 같은 규칙",
+   "먼저 풀어 보세요",
+   "3인칭 단수 현재형 만들기",
+   "원래 모양 → y로 끝나나 → y 앞 글자",
+   "정답 ② worry, study",
+   "자음 + y → y를 i로 바꾸고 + es"
+  ],
+  "sec": [
+   10,
+   20,
+   28,
+   32,
+   26,
+   10
+  ]
+ },
+ "D": {
+  "title": "자음 + y로 끝나는 동사의 3인칭 단수형",
+  "intro": "이 문제는 보기의 worries, hurries와 같은 규칙으로 바뀌는 동사 묶음을 고르는 문제예요.",
+  "problem_narration": "다음 보기의 문장들과 같은 규칙으로 동사가 변하는 단어만 묶은 것을 고르세요. She worries a lot. He hurries to school. 그녀는 걱정을 많이 하고, 그는 서둘러 학교에 가요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "주어가 3인칭 단수(he, she, it, Tom)일 때 일반동사 현재형 → 대부분 동사 + s (likes)",
+    "자음 + y로 끝나면 → y를 i로 바꾸고 + es (try → tries)",
+    "모음(a, e, i, o, u) + y로 끝나면 → s만 (play → plays)",
+    "s, sh, ch, x로 끝나는 동사, go, do → + es (washes, goes) · have → has",
+    "예) Minsu tries his best. (민수는 최선을 다해요.)"
+   ],
+   "narration": "주어가 he, she, it이나 Tom처럼 3인칭 단수이면 일반동사 현재형에 대부분 s를 붙여요. 자음 다음 y로 끝나면 y를 i로 바꾸고 es를 붙이지만, play처럼 모음 다음 y로 끝나면 s만 붙여요. s, sh, ch, x로 끝나는 동사와 go, do는 es를 붙이고, have는 has가 돼요. Minsu tries his best. 민수는 최선을 다해요."
+  },
+  "steps": [
+   {
+    "note": "worries ← worry, hurries ← hurry: 자음 + y → y를 i로 바꾸고 + es",
+    "highlight": [
+     "worries",
+     "hurries"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 worries와 hurries는 worry와 hurry가 바뀐 모양이에요. 둘 다 자음 다음의 y를 i로 바꾸고 es를 붙였어요."
+   },
+   {
+    "note": "y로 끝나지 않는 묶음은 y를 바꿀 일이 없다 → 지운다",
+    "highlight": [],
+    "strike": [
+     "① fix, mix",
+     "④ teach, catch",
+     "⑤ have, go"
+    ],
+    "narration": "둘째, y로 끝나지 않는 1번, 4번, 5번은 y를 바꿀 일이 없으니 지워요."
+   },
+   {
+    "note": "y 앞 글자: enjoy, say → 모음 / copy, fly → 자음 → ③",
+    "highlight": [
+     "③ copy, fly"
+    ],
+    "strike": [
+     "② enjoy, say"
+    ],
+    "narration": "셋째, 남은 2번과 3번은 y 앞 글자를 봐요. enjoy, say는 y 앞이 모음이고, copy, fly는 자음이라 3번이 보기와 같아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① fix, mix  ✗  x로 끝나 es만 (fixes, mixes)",
+    "② enjoy, say  ✗  모음 + y라 s만 (enjoys, says)",
+    "③ copy, fly  ✓  자음 + y → y를 i로 바꾸고 es (copies, flies)",
+    "④ teach, catch  ✗  ch로 끝나 es만 (teaches, catches)",
+    "⑤ have, go  ✗  have → has, go → goes (y 변화 없음)"
+   ],
+   "narration": "정답은 3번 copy, fly예요. copies, flies처럼 y를 i로 바꾸고 es를 붙여요. 2번 enjoy, say도 y로 끝나지만 y 앞이 모음이라 enjoys, says처럼 s만 붙여요. 5번은 have가 has로, go가 goes로 바뀌어서 보기와 규칙이 달라요."
+  },
+  "summary": {
+   "card": "3인칭 단수 현재형: 자음 + y → y를 i로 바꾸고 + es (모음 + y → s만)",
+   "narration": "정답은 3번이에요. 기억할 것, 주어가 3인칭 단수일 때 자음 다음에 y로 끝나는 동사는 y를 i로 바꾸고 es를 붙여요."
+  },
+  "captions": [
+   "worries, hurries와 같은 규칙",
+   "먼저 풀어 보세요",
+   "3인칭 단수 현재형 만들기",
+   "원래 모양 → y로 끝나나 → y 앞 글자",
+   "정답 ③ copy, fly",
+   "자음 + y → y를 i로 바꾸고 + es"
+  ],
+  "sec": [
+   10,
+   20,
+   28,
+   32,
+   26,
+   10
+  ]
+ },
+ "E": {
+  "title": "자음 + y로 끝나는 동사의 3인칭 단수형",
+  "intro": "이 문제는 보기의 flies, dries와 같은 규칙으로 바뀌는 동사 묶음을 고르는 문제예요.",
+  "problem_narration": "다음 보기의 문장들과 같은 규칙으로 동사가 변하는 단어만 묶은 것을 고르세요. The bird flies high. Mom dries the clothes. 새는 높이 날고, 엄마는 옷을 말려요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "주어가 3인칭 단수(he, she, it, Tom)일 때 일반동사 현재형 → 대부분 동사 + s (likes)",
+    "자음 + y로 끝나면 → y를 i로 바꾸고 + es (try → tries)",
+    "모음(a, e, i, o, u) + y로 끝나면 → s만 (play → plays)",
+    "s, sh, ch, x로 끝나는 동사, go, do → + es (washes, goes) · have → has",
+    "예) Minsu tries his best. (민수는 최선을 다해요.)"
+   ],
+   "narration": "주어가 he, she, it이나 Tom처럼 3인칭 단수이면 일반동사 현재형에 대부분 s를 붙여요. 자음 다음 y로 끝나면 y를 i로 바꾸고 es를 붙이지만, play처럼 모음 다음 y로 끝나면 s만 붙여요. s, sh, ch, x로 끝나는 동사와 go, do는 es를 붙이고, have는 has가 돼요. Minsu tries his best. 민수는 최선을 다해요."
+  },
+  "steps": [
+   {
+    "note": "flies ← fly, dries ← dry: 자음 + y → y를 i로 바꾸고 + es",
+    "highlight": [
+     "flies",
+     "dries"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 flies와 dries는 fly와 dry가 바뀐 모양이에요. 둘 다 자음 다음의 y를 i로 바꾸고 es를 붙였어요."
+   },
+   {
+    "note": "y로 끝나지 않는 묶음은 y를 바꿀 일이 없다 → 지운다",
+    "highlight": [],
+    "strike": [
+     "② push, finish",
+     "③ come, write",
+     "⑤ do, go"
+    ],
+    "narration": "둘째, y로 끝나지 않는 2번, 3번, 5번은 y를 바꿀 일이 없으니 지워요."
+   },
+   {
+    "note": "y 앞 글자: buy, pray → 모음 / carry, marry → 자음 → ④",
+    "highlight": [
+     "④ carry, marry"
+    ],
+    "strike": [
+     "① buy, pray"
+    ],
+    "narration": "셋째, 남은 1번과 4번은 y 앞 글자를 봐요. buy, pray는 y 앞이 모음이고, carry, marry는 자음이라 4번이 보기와 같아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① buy, pray  ✗  모음 + y라 s만 (buys, prays)",
+    "② push, finish  ✗  sh로 끝나 es만 (pushes, finishes)",
+    "③ come, write  ✗  s만 붙여요 (comes, writes)",
+    "④ carry, marry  ✓  자음 + y → y를 i로 바꾸고 es (carries, marries)",
+    "⑤ do, go  ✗  y를 바꾸지 않고 es만 (does, goes)"
+   ],
+   "narration": "정답은 4번 carry, marry예요. carries, marries처럼 y를 i로 바꾸고 es를 붙여요. 1번 buy, pray도 y로 끝나지만 y 앞이 모음이라 buys, prays처럼 s만 붙여요. 5번 do, go는 does, goes처럼 es를 붙이지만 y를 i로 바꾸지는 않아요."
+  },
+  "summary": {
+   "card": "3인칭 단수 현재형: 자음 + y → y를 i로 바꾸고 + es (모음 + y → s만)",
+   "narration": "정답은 4번이에요. 기억할 것, 주어가 3인칭 단수일 때 자음 다음에 y로 끝나는 동사는 y를 i로 바꾸고 es를 붙여요."
+  },
+  "captions": [
+   "flies, dries와 같은 규칙",
+   "먼저 풀어 보세요",
+   "3인칭 단수 현재형 만들기",
+   "원래 모양 → y로 끝나나 → y 앞 글자",
+   "정답 ④ carry, marry",
+   "자음 + y → y를 i로 바꾸고 + es"
+  ],
+  "sec": [
+   10,
+   20,
+   28,
+   32,
+   26,
+   10
+  ]
+ },
+ "F": {
+  "title": "자음 + y로 끝나는 동사의 3인칭 단수형",
+  "intro": "이 문제는 보기의 copies, replies와 같은 규칙으로 바뀌는 동사 묶음을 고르는 문제예요.",
+  "problem_narration": "다음 보기의 문장들과 같은 규칙으로 동사가 변하는 단어만 묶은 것을 고르세요. Tom copies the notes. She replies quickly. 톰은 노트를 베껴 쓰고, 그녀는 빨리 대답해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "주어가 3인칭 단수(he, she, it, Tom)일 때 일반동사 현재형 → 대부분 동사 + s (likes)",
+    "자음 + y로 끝나면 → y를 i로 바꾸고 + es (try → tries)",
+    "모음(a, e, i, o, u) + y로 끝나면 → s만 (play → plays)",
+    "s, sh, ch, x로 끝나는 동사, go, do → + es (washes, goes) · have → has",
+    "예) Minsu tries his best. (민수는 최선을 다해요.)"
+   ],
+   "narration": "주어가 he, she, it이나 Tom처럼 3인칭 단수이면 일반동사 현재형에 대부분 s를 붙여요. 자음 다음 y로 끝나면 y를 i로 바꾸고 es를 붙이지만, play처럼 모음 다음 y로 끝나면 s만 붙여요. s, sh, ch, x로 끝나는 동사와 go, do는 es를 붙이고, have는 has가 돼요. Minsu tries his best. 민수는 최선을 다해요."
+  },
+  "steps": [
+   {
+    "note": "copies ← copy, replies ← reply: 자음 + y → y를 i로 바꾸고 + es",
+    "highlight": [
+     "copies",
+     "replies"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 copies와 replies는 copy와 reply가 바뀐 모양이에요. 둘 다 자음 다음의 y를 i로 바꾸고 es를 붙였어요."
+   },
+   {
+    "note": "y로 끝나지 않는 묶음은 y를 바꿀 일이 없다 → 지운다",
+    "highlight": [],
+    "strike": [
+     "② kiss, pass",
+     "④ wash, brush",
+     "⑤ have, do"
+    ],
+    "narration": "둘째, y로 끝나지 않는 2번, 4번, 5번은 y를 바꿀 일이 없으니 지워요."
+   },
+   {
+    "note": "y 앞 글자: play, enjoy → 모음 / study, bury → 자음 → ①",
+    "highlight": [
+     "① study, bury"
+    ],
+    "strike": [
+     "③ play, enjoy"
+    ],
+    "narration": "셋째, 남은 1번과 3번은 y 앞 글자를 봐요. play, enjoy는 y 앞이 모음이고, study, bury는 자음이라 1번이 보기와 같아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① study, bury  ✓  자음 + y → y를 i로 바꾸고 es (studies, buries)",
+    "② kiss, pass  ✗  s로 끝나 es만 (kisses, passes)",
+    "③ play, enjoy  ✗  모음 + y라 s만 (plays, enjoys)",
+    "④ wash, brush  ✗  sh로 끝나 es만 (washes, brushes)",
+    "⑤ have, do  ✗  have → has, do → does (y 변화 없음)"
+   ],
+   "narration": "정답은 1번 study, bury예요. studies, buries처럼 y를 i로 바꾸고 es를 붙여요. 3번 play, enjoy도 y로 끝나지만 y 앞이 모음이라 plays, enjoys처럼 s만 붙여요. 5번은 have가 has로, do가 does로 바뀌어서 보기와 규칙이 달라요."
+  },
+  "summary": {
+   "card": "3인칭 단수 현재형: 자음 + y → y를 i로 바꾸고 + es (모음 + y → s만)",
+   "narration": "정답은 1번이에요. 기억할 것, 주어가 3인칭 단수일 때 자음 다음에 y로 끝나는 동사는 y를 i로 바꾸고 es를 붙여요."
+  },
+  "captions": [
+   "copies, replies와 같은 규칙",
+   "먼저 풀어 보세요",
+   "3인칭 단수 현재형 만들기",
+   "원래 모양 → y로 끝나나 → y 앞 글자",
+   "정답 ① study, bury",
+   "자음 + y → y를 i로 바꾸고 + es"
+  ],
+  "sec": [
+   10,
+   20,
+   28,
+   32,
+   26,
+   10
+  ]
+ }
+}

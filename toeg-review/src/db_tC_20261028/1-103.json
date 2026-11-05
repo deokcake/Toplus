@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-21T07:12:00.299Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Do you know what time is it now?",
+      "1": "I wonder where did she buy that hat.",
+      "2": "Can you tell me how old is your brother?",
+      "3": "Please tell me who will lead the team.",
+      "4": "I don't know why is the store closed."
+    },
+    "expl": "핵심 규칙: 간접의문문은 ‘의문사 + 주어 + 동사’ 어순으로 쓴다. be동사·조동사의 도치를 풀고, do/does/did가 있으면 빼고 본동사에 시제·수를 표시한다.\n풀이 순서: ① 문장마다 Do you know, I wonder, tell me 등의 뒤에 이어진 의문사절을 찾는다. → ② 의문사 바로 뒤에 ‘주어 + 동사’가 오는지 본다. be동사·조동사·do가 주어 앞에 있으면 틀린 어순이다. → ③ 선택지 ④만 평서문 어순이다: who will lead(의문사 who가 주어).\n문장별 판정:\n정답 판단: 의문사 who가 주어라 who + 동사 어순이 바르다. 정답은 ④이다.\n선택지 분석:\n① [오답] 간접의문문인데 의문문 어순(동사 + 주어)을 그대로 두어 틀렸다. what time it is로 써야 한다. 오답이다.\n② [오답] 간접의문문인데 의문문 어순(동사 + 주어)을 그대로 두어 틀렸다. where she bought로 써야 한다. 오답이다.\n③ [오답] 간접의문문인데 의문문 어순(동사 + 주어)을 그대로 두어 틀렸다. how old your brother is로 써야 한다. 오답이다.\n④ [정답] 의문사 who가 주어라 who + 동사 어순이 바르다. 정답이다.\n⑤ [오답] 간접의문문인데 의문문 어순(동사 + 주어)을 그대로 두어 틀렸다. why the store is closed로 써야 한다. 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T07:11:50.541Z"
+  },
+  "tab": "fi3f83jb",
+  "updatedAt": "2026-10-21T07:12:00.299Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T07:12:00.299Z",
+      "what": "확인 완료"
+    }
+  }
+}

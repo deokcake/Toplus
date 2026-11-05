@@ -1,0 +1,180 @@
+{
+ "key": "3-14",
+ "type": "D",
+ "grade": 3,
+ "chapter": "CH 2 일반동사",
+ "title": "불규칙동사의 과거형",
+ "total_sec": 127,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "3급 · CH 2 일반동사 · 14번 · D 유형\n\n이 문제는 불규칙동사의 과거형을 세 개 모두 바르게 쓴 묶음을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 2 일반동사 · 14번 · D 유형",
+     "이 문제는 불규칙동사의 과거형을 세 개 모두 바르게 쓴 묶음을 고르는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 2, 14번 D 유형. 이 문제는 불규칙동사의 과거형을 세 개 모두 바르게 쓴 묶음을 고르는 문제예요.",
+   "caption": "불규칙동사의 과거형"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 동사의 과거형이 모두 올바른 것을 고르시오.\n\n① stand - stood / understand - understood / sell - selled\n② pay - payed / say - said / lay - laid\n③ blow - blew / grow - grew / know - knew\n④ get - got / forget - forgetted / shoot - shot\n⑤ drink - drank / sink - sinked / ring - rang",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 동사의 과거형이 모두 올바른 것을 고르시오.",
+     "① stand - stood / understand - understood / sell - selled",
+     "② pay - payed / say - said / lay - laid",
+     "③ blow - blew / grow - grew / know - knew",
+     "④ get - got / forget - forgetted / shoot - shot",
+     "⑤ drink - drank / sink - sinked / ring - rang"
+    ]
+   },
+   "narration": "다음 동사의 과거형이 모두 올바른 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\n과거형: 지나간 일을 말할 때 쓰는 동사의 꼴\n규칙동사 → 보통 동사원형 + ed (walk → walked)\n불규칙동사 → 정해진 과거형을 따로 외워요 (see → saw, have → had)\n불규칙동사에 ed를 붙이면 틀려요 (haved ✗)\n예) He walked to the park and saw his friend. (그는 공원까지 걸어가서 친구를 봤어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+     "규칙동사 → 보통 동사원형 + ed (walk → walked)",
+     "불규칙동사 → 정해진 과거형을 따로 외워요 (see → saw, have → had)",
+     "불규칙동사에 ed를 붙이면 틀려요 (haved ✗)",
+     "예) He walked to the park and saw his friend. (그는 공원까지 걸어가서 친구를 봤어요.)"
+    ]
+   },
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙동사는 보통 동사원형 끝에 ed를 붙여서, walk는 walked가 돼요. 불규칙동사는 see는 saw, have는 had처럼 정해진 과거형을 따로 외우고, haved처럼 ed를 붙이면 틀려요. 예를 들어 He walked to the park and saw his friend. 그는 공원까지 걸어가서 친구를 봤어요.",
+   "caption": "규칙동사는 ed, 불규칙동사는 외우기"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 동사의 과거형이 모두 올바른 것을 고르시오.\n\n① stand - stood / understand - understood / sell - selled\n② pay - payed / say - said / lay - laid\n③ blow - blew / grow - grew / know - knew\n④ get - got / forget - forgetted / shoot - shot\n⑤ drink - drank / sink - sinked / ring - rang",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "sell - selled",
+       "forget - forgetted"
+      ],
+      "strike": [
+       "① stand - stood / understand - understood / sell - selled",
+       "④ get - got / forget - forgetted / shoot - shot"
+      ],
+      "note": "묶음마다 세 과거형 확인. sell → sold, forget → forgot인데 ed를 붙임 → ①, ④ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "pay - payed",
+       "sink - sinked"
+      ],
+      "strike": [
+       "② pay - payed / say - said / lay - laid",
+       "⑤ drink - drank / sink - sinked / ring - rang"
+      ],
+      "note": "pay → paid, sink → sank인데 ed를 붙임 → ②, ⑤ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ blow - blew / grow - grew / know - knew"
+      ],
+      "strike": [],
+      "note": "남는 ③ → blew, grew, knew 모두 바른 과거형"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 묶음마다 세 동사의 과거형을 하나씩 확인해요. sell의 과거형은 sold, forget의 과거형은 forgot이라서 selled가 있는 1번과 forgetted가 있는 4번을 지워요. 둘째, pay의 과거형은 paid, sink의 과거형은 sank라서 payed가 있는 2번과 sinked가 있는 5번도 지워요. 셋째, 남은 3번은 blew, grew, knew가 모두 맞는 과거형이에요.",
+   "caption": "ed 붙인 불규칙동사 지우기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① stand - stood / understand - understood / sell - selled  ✗  sell의 과거형은 sold\n② pay - payed / say - said / lay - laid  ✗  pay의 과거형은 paid\n③ blow - blew / grow - grew / know - knew  ✓  blew, grew, knew 모두 바른 과거형\n④ get - got / forget - forgetted / shoot - shot  ✗  forget의 과거형은 forgot\n⑤ drink - drank / sink - sinked / ring - rang  ✗  sink의 과거형은 sank",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① stand - stood / understand - understood / sell - selled  ✗  sell의 과거형은 sold",
+     "② pay - payed / say - said / lay - laid  ✗  pay의 과거형은 paid",
+     "③ blow - blew / grow - grew / know - knew  ✓  blew, grew, knew 모두 바른 과거형",
+     "④ get - got / forget - forgetted / shoot - shot  ✗  forget의 과거형은 forgot",
+     "⑤ drink - drank / sink - sinked / ring - rang  ✗  sink의 과거형은 sank"
+    ]
+   },
+   "narration": "정답은 3번이에요. 2번은 play의 과거형 played처럼 payed라고 쓰기 쉽지만, pay는 불규칙동사라서 과거형이 paid예요. 5번은 drank와 rang은 맞지만, sink의 과거형은 sank예요. 4번은 got과 shot은 맞지만, forget의 과거형은 forgot이에요.",
+   "caption": "정답 ③ blew, grew, knew"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ blow - blew / grow - grew / know - knew\n\n불규칙동사의 과거형은 ed 없이 따로 외워요 (pay → paid)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ blow - blew / grow - grew / know - knew",
+     "불규칙동사의 과거형은 ed 없이 따로 외워요 (pay → paid)"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 불규칙동사는 ed를 붙이지 않고 정해진 과거형을 외워서 써요.",
+   "caption": "불규칙동사는 ed 없이"
+  }
+ ],
+ "source": {
+  "stem": "다음 동사의 과거형이 모두 올바른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "stand - stood / understand - understood / sell - selled",
+   "pay - payed / say - said / lay - laid",
+   "blow - blew / grow - grew / know - knew",
+   "get - got / forget - forgetted / shoot - shot",
+   "drink - drank / sink - sinked / ring - rang"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 불규칙동사는 -ed를 붙이지 않고 정해진 과거형을 쓴다. 규칙동사(help, smell, dream 등)는 -ed를 붙이고, cut·put·hit·cost처럼 원형과 과거형이 같은 동사도 있다.\n풀이 순서: ① 묶음마다 세 동사의 과거형을 하나씩 확인한다. 불규칙동사에 -ed를 붙인 것이 하나라도 있으면 지운다. → ② selled(sold), payed(paid), forgetted(forgot), sinked(sank)가 틀렸다. → ③ 세 개가 모두 옳은 ③이 정답이다.\n문장별 판정:\n정답 판단: 세 동사의 과거형이 모두 알맞으므로 정답은 ③이다.\n선택지 분석:\n① [오답] sell - selled이 틀렸다(바른 과거형 sold). 따라서 오답이다.\n② [오답] pay - payed이 틀렸다(바른 과거형 paid). 따라서 오답이다.\n③ [정답] 세 동사의 과거형이 모두 알맞으므로 정답이다.\n④ [오답] forget - forgetted이 틀렸다(바른 과거형 forgot). 따라서 오답이다.\n⑤ [오답] sink - sinked이 틀렸다(바른 과거형 sank). 따라서 오답이다."
+ }
+}

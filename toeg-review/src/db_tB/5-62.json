@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:02:46.640Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "March twenty-one is her birthday.",
+      "1": "March twenty-first is her birthday.",
+      "2": "March twelfth is her birthday.",
+      "3": "March twenty-third is her birthday.",
+      "4": "March first is her birthday."
+    },
+    "expl": "핵심 규칙: 날짜의 ‘일’은 서수로 읽는다(3일 third, 12일 twelfth, 21일 twenty-first, 30일 thirtieth). 기수로 읽거나 비슷한 수(13일 thirteenth, 20일 twentieth)와 헷갈리지 않도록 한다.\n풀이 순서: ① 날짜의 ‘일’을 확인한다: 21일. → ② 날짜는 서수로 읽으므로 twenty-first. → ③ 기수로 읽은 것과 비슷하게 생긴 다른 날짜를 지운다. 정답은 ②.\n문장별 판정:\n정답 판단: 21일을 서수 twenty-first로 바르게 읽었으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 날짜의 일은 기수 twenty-one이 아니라 서수로 읽으므로 오답이다.\n② [정답] 21일을 서수 twenty-first로 바르게 읽었으므로 정답이다.\n③ [오답] twelfth는 12일이므로 오답이다.\n④ [오답] twenty-third는 23일이므로 오답이다.\n⑤ [오답] first는 1일이므로 오답이다.",
+    "passage": null,
+    "stem": "우리말과 같은 뜻이 되는 문장을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T08:02:45.755Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T08:02:46.640Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T08:02:46.640Z",
+      "what": "확인 완료"
+    }
+  }
+}

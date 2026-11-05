@@ -1,0 +1,35 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T12:40:51.505Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: There + be동사 구문에서 be동사는 뒤의 명사에 맞춘다. 과거에는 단수 명사 앞에 was, 복수 명사 앞에 were를 쓴다.\n풀이 순서: ① 때를 나타내는 말을 찾는다: an hour ago. 과거이므로 was나 were다. → ② be동사 뒤의 명사를 본다: two cats는 복수이므로 were. → ③ 정답은 were.\n문장별 판정:\n정답 판단: 과거(an hour ago)이고 뒤의 명사 two cats가 복수라 were를 쓰므로 정답은 ①이다.\n선택지 분석:\n① [정답] 과거(an hour ago)이고 뒤의 명사 two cats가 복수라 were를 쓰므로 정답이다.\n② [오답] 현재형이라 과거의 일과 맞지 않으므로 오답이다.\n③ [오답] 뒤의 명사 two cats가 복수라 was를 쓸 수 없으므로 오답이다.\n④ [오답] 현재형이라 과거의 일과 맞지 않으므로 오답이다.\n⑤ [오답] 동사원형은 There 뒤 동사 자리에 쓸 수 없으므로 오답이다.",
+    "passage": "There ________ two cats on the roof an hour ago.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T06:04:58.556Z"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T06:04:58.556Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T12:40:51.505Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T06:04:58.556Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T09:44:37.300Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "(A) When (B) Jane was (C) opened",
+      "1": "(A) When (B) Jane were (C) opened",
+      "2": "(A) After (B) Jane was (C) opened",
+      "3": "(A) When (B) Jane was (C) opens",
+      "4": "(A) When (B) Jane is (C) opened"
+    },
+    "expl": "핵심 규칙: ‘~하고 있었을 때’는 When + 주어 + was/were + -ing로, 뒤의 주절은 과거형으로 쓴다. was/were는 주어에 맞추고(I·3인칭 단수 was, we·they were), 시간 순서에 맞는 접속사를 고른다.\n풀이 순서: ① (A): ‘~했을 때’이므로 When. → ② (B): 주어와 be동사 과거형을 맞춘다: Jane was. → ③ (C): ‘열렸다’는 과거의 일이므로 과거형 opened. 정답은 ①.\n문장별 판정:\n정답 판단: When, Jane was, opened를 모두 바르게 썼으므로 정답은 ①이다.\n선택지 분석:\n① [정답] When, Jane was, opened를 모두 바르게 썼으므로 정답이다.\n② [오답] (B) 3인칭 단수 Jane에는 was를 써야 하므로 오답이다.\n③ [오답] (A) ‘자고 있었을 때’는 When을 써야 하므로 오답이다.\n④ [오답] (C) 과거의 일이라 opened를 써야 하므로 오답이다.\n⑤ [오답] (B) 과거의 일이라 Jane was를 써야 하므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T09:44:35.529Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T09:44:37.300Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T09:44:37.300Z",
+      "what": "확인 완료"
+    }
+  }
+}

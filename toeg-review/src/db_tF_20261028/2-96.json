@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T11:47:12.658Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "The bag which belongs to Jane is hers.",
+      "1": "The bag which belong to Jane is hers.",
+      "2": "The bag which belongs to Jane are hers.",
+      "3": "The bag which belongs to Jane is her.",
+      "4": "The bag which belong to Jane is her."
+    },
+    "expl": "핵심 규칙: 주격 관계대명사 뒤 동사는 선행사에, 주절의 동사는 문장의 주어에 수를 맞춘다. be동사 뒤 ‘~의 것’은 소유대명사(mine, ours, hers)로 쓰고, 명사 앞에는 소유격(my, our, her)을 쓴다.\n풀이 순서: ① 관계절의 동사는 선행사(The bag, 단수)에 수를 맞춘다. → ② 문장 전체의 동사도 같은 주어에 수를 맞춘다. → ③ 문장 끝의 소유 표현을 확인한다. be동사 뒤에는 her가 아니라 hers를 쓴다. 세 군데가 모두 맞는 것은 ①이다.\n문장별 판정:\n정답 판단: 관계절 동사(belongs)와 주절 동사(is)가 단수 선행사·주어에 맞고, 소유대명사(hers)도 바르므로 정답은 ①이다.\n선택지 분석:\n① [정답] 관계절 동사(belongs)와 주절 동사(is)가 단수 선행사·주어에 맞고, 소유대명사(hers)도 바르므로 정답이다.\n② [오답] 관계절 동사는 단수 선행사(The bag)에 맞춰 belongs로 써야 하므로 오답이다.\n③ [오답] 주절 동사는 단수 주어(The bag)에 맞춰 is로 써야 하므로 오답이다.\n④ [오답] be동사 뒤 ‘그녀의 것’은 소유대명사(hers)로 써야 하므로 오답이다.\n⑤ [오답] 관계절 동사가 선행사와 맞지 않고, be동사 뒤에는 소유대명사(hers)를 써야 하므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T11:47:04.892Z"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T11:47:12.658Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T11:47:12.658Z",
+      "what": "확인 완료"
+    }
+  }
+}

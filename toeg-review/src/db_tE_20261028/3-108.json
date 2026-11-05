@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-21 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-26T04:56:00.874Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Jane is one of the faster players on the team.",
+      "1": "Jane is the one of fastest players on the team.",
+      "2": "Jane is one of fastest the players on the team.",
+      "3": "Jane is one of the fastest player on the team.",
+      "4": "Jane is one of the fastest players on the team."
+    },
+    "expl": "핵심 규칙: ‘가장 ~한 것 중 하나’는 one of the + 최상급 + 복수명사로 쓴다.\n풀이 순서: ① ‘가장 ~한 … 중 하나’의 틀을 세운다: one of the + 최상급 + 복수명사. → ② 형태를 바꿀 낱말은 둘이다: fast → fastest, player → players. → ③ the가 최상급 바로 앞에 있는지도 확인한다. 정답은 ⑤.\n문장별 판정:\n정답 판단: one of the + 최상급(fastest) + 복수명사(players)로 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] ‘가장 ~한 것 중 하나’는 비교급 faster가 아니라 최상급 fastest을 쓰므로 오답이다.\n② [오답] the가 one 앞에 와서 one of the + 최상급 어순이 깨졌으므로 오답이다.\n③ [오답] the가 최상급 fastest 뒤로 가서 one of the + 최상급 어순이 깨졌으므로 오답이다.\n④ [오답] 최상급 뒤에 단수 player를 썼고, 복수형 players이 되어야 하므로 오답이다.\n⑤ [정답] one of the + 최상급(fastest) + 복수명사(players)로 바르게 썼으므로 정답이다.",
+    "passage": "Jane은 팀에서 가장 빠른 선수 중 하나이다.\n( Jane / one / of / fast / player / is / team / on / the / the / . )",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오. (필요하면 단어의 형태를 바꿀 것)"
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T04:56:00.874Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:56:00.874Z",
+      "what": "확인 완료"
+    }
+  }
+}

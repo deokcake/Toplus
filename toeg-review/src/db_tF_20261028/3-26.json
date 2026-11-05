@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T12:16:13.449Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "womans are",
+      "1": "women are",
+      "2": "women is",
+      "3": "woman are",
+      "4": "womens are"
+    },
+    "expl": "핵심 규칙: 불규칙 복수형(foot-feet, child-children, mouse-mice, man-men, woman-women)은 -s를 붙이지 않고 모양이 바뀌며, 복수 주어에는 be동사 are를 쓴다.\n풀이 순서: ① 주어 명사(woman)를 복수형으로 바꾼다. 불규칙 변화다(woman → women). → ② 주어가 복수가 되었으므로 be동사도 is에서 are로 바꾼다. → ③ 정답은 women are.\n문장별 판정:\n정답 판단: women are: 복수형(women)과 복수 동사(are)가 모두 알맞으므로 정답은 ②이다.\n선택지 분석:\n① [오답] womans: woman의 복수형은 women이다. 따라서 오답이다.\n② [정답] women are: 복수형(women)과 복수 동사(are)가 모두 알맞으므로 정답이다.\n③ [오답] is: 복수 주어에는 are를 쓴다. 따라서 오답이다.\n④ [오답] woman: woman의 복수형은 women이다. 따라서 오답이다.\n⑤ [오답] womens: woman의 복수형은 women이다. 따라서 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T12:16:04.166Z"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T12:16:13.449Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T12:16:13.449Z",
+      "what": "확인 완료"
+    }
+  }
+}

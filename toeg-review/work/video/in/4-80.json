@@ -1,0 +1,86 @@
+{
+ "key": "4-80",
+ "grade": 4,
+ "chapter": "CH 8 비교 구문",
+ "items": {
+  "A": {
+   "stem": "다음 <보기> 중 어법상 옳은 문장으로만 짝지어진 것은?",
+   "passage": "<보기>\n(가) It is the most cheapest shirt in the store.\n(나) My father is the oldest person in our family.\n(다) The blue whale is the biggest animal in the world.\n(라) This is the most baddest movie of the year.\n(마) Who is the most popular student in your class?",
+   "c": [
+    "(나), (다), (마)",
+    "(가), (나), (다)",
+    "(나), (라), (마)",
+    "(가), (다), (마)",
+    "(다), (라), (마)"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 최상급에 most와 -est를 겹쳐 쓰지 않는다. bad의 최상급은 worst, 긴 단어는 the most + 원급이다.\n풀이 순서: ① 문장마다 비교급·최상급의 형태만 본다. → ② more/most와 -er/-est를 겹쳐 쓴 문장, 불규칙 변화를 규칙형으로 쓴 문장을 지운다. → ③ (가) the most cheapest, (라) the most baddest가 틀렸다. 옳은 문장만 묶은 (나), (다), (마)가 정답이다.\n문장별 판정: (가) X. the cheapest. (나) O. old의 최상급 oldest. (다) O. big의 최상급 biggest. (라) X. the worst. (마) O. 긴 단어 popular에 the most.\n정답 판단: (나), (다), (마)가 모두 옳으므로 정답은 ①이다.\n선택지 분석:\n① [정답] (나), (다), (마)가 모두 옳으므로 정답이다.\n② [오답] (가)가 틀렸으므로 오답이다.\n③ [오답] (라)가 틀렸으므로 오답이다.\n④ [오답] (가)가 틀렸으므로 오답이다.\n⑤ [오답] (라)가 틀렸으므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 <보기> 중 어법상 옳은 문장으로만 짝지어진 것은?",
+   "passage": "<보기>\n(가) This is the most expensive bag in the shop.\n(나) Tom is more taller than his brother Ben.\n(다) Jane is happier than Amy about the trip.\n(라) It is the worst movie of the year.\n(마) The cat is the most smallest animal in the house.",
+   "c": [
+    "(가), (나), (다)",
+    "(가), (다), (라)",
+    "(나), (라), (마)",
+    "(가), (다), (마)",
+    "(다), (라), (마)"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 비교급·최상급에는 -er·-est와 more·most를 겹쳐 쓰지 않고, good - better - best, bad - worse - worst 같은 불규칙 변화를 바르게 쓴다.\n풀이 순서: ① 문장마다 비교급·최상급의 형태만 본다. → ② more/most와 -er/-est를 겹쳐 쓴 문장, 불규칙 변화를 규칙형으로 쓴 문장을 지운다. → ③ (나) more taller, (마) the most smallest가 틀렸다. 옳은 문장만 묶은 (가), (다), (라)가 정답이다.\n문장별 판정:\n(가) O. 긴 단어 expensive에 most를 썼다.\n(나) X. taller에 more를 겹쳐 쓸 수 없다.\n(다) O. happy의 비교급 happier이다.\n(라) O. bad의 최상급 worst이다.\n(마) X. smallest에 most를 겹쳐 쓸 수 없다.\n정답 판단: 어법상 옳은 문장은 (가), (다), (라)이다.\n선택지 분석:\n① [오답] (나)는 옳은 문장이 아니고, 옳은 문장 (라)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 옳은 문장 (가), (다), (라)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (나), (마)는 옳은 문장이 아니고, 옳은 문장 (가), (다)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (마)는 옳은 문장이 아니고, 옳은 문장 (라)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (마)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "C": {
+   "stem": "다음 <보기> 중 어법상 옳은 문장으로만 짝지어진 것은?",
+   "passage": "<보기>\n(가) Mina is the youngest in her family.\n(나) This is the most smallest room in the hotel.\n(다) Jane is taller than Amy by five centimeters.\n(라) Tom is more better at math than I am.\n(마) This is the most interesting book in the library.",
+   "c": [
+    "(나), (다), (마)",
+    "(가), (나), (다)",
+    "(나), (라), (마)",
+    "(가), (다), (마)",
+    "(다), (라), (마)"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 비교급·최상급에는 -er·-est와 more·most를 겹쳐 쓰지 않고, good - better - best, bad - worse - worst 같은 불규칙 변화를 바르게 쓴다.\n풀이 순서: ① 문장마다 비교급·최상급의 형태만 본다. → ② more/most와 -er/-est를 겹쳐 쓴 문장, 불규칙 변화를 규칙형으로 쓴 문장을 지운다. → ③ (나) the most smallest, (라) more better가 틀렸다. 옳은 문장만 묶은 (가), (다), (마)가 정답이다.\n문장별 판정:\n(가) O. young의 최상급 youngest이다.\n(나) X. smallest에 most를 겹쳐 쓸 수 없다.\n(다) O. tall의 비교급 taller이다.\n(라) X. better에 more를 겹쳐 쓸 수 없다.\n(마) O. 긴 단어 interesting에 most를 썼다.\n정답 판단: 어법상 옳은 문장은 (가), (다), (마)이다.\n선택지 분석:\n① [오답] (나)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (나)는 옳은 문장이 아니고, 옳은 문장 (마)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (나), (라)는 옳은 문장이 아니고, 옳은 문장 (가), (다)를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 (가), (다), (마)를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] (라)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "D": {
+   "stem": "다음 <보기> 중 어법상 옳은 문장으로만 짝지어진 것은?",
+   "passage": "<보기>\n(가) Tom is taller than his friend Ben in our class.\n(나) This is the easiest math test of the whole year.\n(다) Jane is more prettier than her older sister Amy.\n(라) He is the best player on our school soccer team.\n(마) Today is more hotter than yesterday in Seoul.",
+   "c": [
+    "(가), (나), (라)",
+    "(가), (다), (마)",
+    "(나), (다), (마)",
+    "(나), (라), (마)",
+    "(다), (라), (마)"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 비교급·최상급에는 -er·-est와 more·most를 겹쳐 쓰지 않고, good - better - best, bad - worse - worst 같은 불규칙 변화를 바르게 쓴다.\n풀이 순서: ① 문장마다 비교급·최상급의 형태만 본다. → ② more/most와 -er/-est를 겹쳐 쓴 문장, 불규칙 변화를 규칙형으로 쓴 문장을 지운다. → ③ (다) more prettier, (마) more hotter가 틀렸다. 옳은 문장만 묶은 (가), (나), (라)가 정답이다.\n문장별 판정:\n(가) O. tall의 비교급 taller이다.\n(나) O. easy의 최상급 easiest이다.\n(다) X. prettier에 more를 겹쳐 쓸 수 없다.\n(라) O. good의 최상급 best이다.\n(마) X. hotter에 more를 겹쳐 쓸 수 없다.\n정답 판단: 어법상 옳은 문장은 (가), (나), (라)이다.\n선택지 분석:\n① [정답] 옳은 문장 (가), (나), (라)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (다), (마)는 옳은 문장이 아니고, 옳은 문장 (나), (라)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (다), (마)는 옳은 문장이 아니고, 옳은 문장 (가), (라)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (마)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (다), (마)는 옳은 문장이 아니고, 옳은 문장 (가), (나)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "E": {
+   "stem": "다음 <보기> 중 어법상 옳은 문장으로만 짝지어진 것은?",
+   "passage": "<보기>\n(가) This blue bag is more heavier than that red one.\n(나) Jane is the most beautiful girl in the class picture.\n(다) Tom is gooder than his friend Ben at soccer.\n(라) This is the worst day of the whole week for me.\n(마) The dog is bigger than the cat in the yard.",
+   "c": [
+    "(나), (다), (마)",
+    "(가), (나), (다)",
+    "(나), (라), (마)",
+    "(가), (다), (마)",
+    "(다), (라), (마)"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 비교급·최상급에는 -er·-est와 more·most를 겹쳐 쓰지 않고, good - better - best, bad - worse - worst 같은 불규칙 변화를 바르게 쓴다.\n풀이 순서: ① 문장마다 비교급·최상급의 형태만 본다. → ② more/most와 -er/-est를 겹쳐 쓴 문장, 불규칙 변화를 규칙형으로 쓴 문장을 지운다. → ③ (가) more heavier, (다) gooder가 틀렸다. 옳은 문장만 묶은 (나), (라), (마)가 정답이다.\n문장별 판정:\n(가) X. heavier에 more를 겹쳐 쓸 수 없다.\n(나) O. 긴 단어 beautiful에 most를 썼다.\n(다) X. good의 비교급은 better이다.\n(라) O. bad의 최상급 worst이다.\n(마) O. big의 비교급 bigger이다.\n정답 판단: 어법상 옳은 문장은 (나), (라), (마)이다.\n선택지 분석:\n① [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (라)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (가), (다)는 옳은 문장이 아니고, 옳은 문장 (라), (마)를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 옳은 문장 (나), (라), (마)를 빠짐없이 골랐으므로 정답이다.\n④ [오답] (가), (다)는 옳은 문장이 아니고, 옳은 문장 (나), (라)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (나)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "F": {
+   "stem": "다음 <보기> 중 어법상 옳은 문장으로만 짝지어진 것은?",
+   "passage": "<보기>\n(가) The city of Seoul is larger than Busan in population.\n(나) Tom is the fastest runner in our whole school.\n(다) Jane is the most kindest student in our class.\n(라) This math test is more easier than the last one.\n(마) He is much better than me at drawing animals.",
+   "c": [
+    "(나), (다), (마)",
+    "(가), (나), (다)",
+    "(나), (라), (마)",
+    "(가), (다), (마)",
+    "(가), (나), (마)"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 비교급·최상급에는 -er·-est와 more·most를 겹쳐 쓰지 않고, good - better - best, bad - worse - worst 같은 불규칙 변화를 바르게 쓴다.\n풀이 순서: ① 문장마다 비교급·최상급의 형태만 본다. → ② more/most와 -er/-est를 겹쳐 쓴 문장, 불규칙 변화를 규칙형으로 쓴 문장을 지운다. → ③ (다) the most kindest, (라) more easier가 틀렸다. 옳은 문장만 묶은 (가), (나), (마)가 정답이다.\n문장별 판정:\n(가) O. large의 비교급 larger이다.\n(나) O. fast의 최상급 fastest이다.\n(다) X. kindest에 most를 겹쳐 쓸 수 없다.\n(라) X. easier에 more를 겹쳐 쓸 수 없다.\n(마) O. good의 비교급 better이다.\n정답 판단: 어법상 옳은 문장은 (가), (나), (마)이다.\n선택지 분석:\n① [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (마)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (라)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (나)를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 옳은 문장 (가), (나), (마)를 빠짐없이 골랐으므로 정답이다."
+  }
+ },
+ "prior_review": {}
+}

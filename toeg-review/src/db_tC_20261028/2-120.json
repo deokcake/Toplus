@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T04:12:34.636Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 미래의 시간·조건 부사절은 현재형을 쓴다. although(though)와 but은 함께 쓰지 않고, despite·because of 뒤에는 명사, although·because 뒤에는 절이 온다. unless에는 not의 뜻이 들어 있다. 상관접속사 주어는 B에(both A and B는 복수로) 동사를 맞춘다.\n풀이 순서: ① 문장마다 접속사를 찾아 그 뒤가 절인지 명사인지, 시제가 맞는지 본다. 시간·조건의 부사절에는 will을 쓰지 않는다. → ② 상관접속사 주어는 B에 수를 맞춘다(both A and B는 복수). → ③ ⓐ는 If it rains, ⓑ는 Although와 but을 함께 쓸 수 없고, ⓓ는 are absent로 써야 한다. 올바르지 않은 문장은 3개이다.\n문장별 판정:\nⓐ X. 조건 부사절에는 현재형을 쓴다(If it rains).\nⓑ X. although와 but은 함께 쓰지 않는다.\nⓒ O. B(her parents)에 맞춰 are를 썼다.\nⓓ X. both A and B는 복수 동사(are)를 쓴다.\nⓔ O. 시간 부사절에 현재형을 썼다.\n정답 판단: 어법상 올바르지 않은 문장은 ⓐ, ⓑ, ⓓ로 3개이다.\n선택지 분석:\n① [오답] 어법상 올바르지 않은 문장은 ⓐ, ⓑ, ⓓ로 3개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 어법상 올바르지 않은 문장은 ⓐ, ⓑ, ⓓ로 3개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [정답] 어법상 올바르지 않은 문장은 ⓐ, ⓑ, ⓓ로 3개이다. 이 보기의 3개는 실제 개수와 일치한다.\n④ [오답] 어법상 올바르지 않은 문장은 ⓐ, ⓑ, ⓓ로 3개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 올바르지 않은 문장은 ⓐ, ⓑ, ⓓ로 3개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "<보기>\nⓐ If it will rain tomorrow, we'll stay home.\nⓑ Although he was busy, but he helped me.\nⓒ Either Mina or her parents are coming.\nⓓ Both Tom and Jane is absent.\nⓔ We will leave after the bus arrives.",
+    "stem": "다음 <보기> 중 어법상 올바르지 않은 문장은 몇 개인가?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:12:12.998Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T04:12:34.636Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:12:34.636Z",
+      "what": "확인 완료"
+    }
+  }
+}

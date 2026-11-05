@@ -1,0 +1,184 @@
+{
+ "key": "2-8",
+ "type": "D",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "title": "목적격 보어의 쓰임 구별",
+ "total_sec": 140,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "2급 · CH 1 문장의 형식 · 8번 · D 유형\n\n이 문제는 밑줄 친 말이 목적격 보어로 쓰였는지 가려, 보기와 쓰임이 같은 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 1 문장의 형식 · 8번 · D 유형",
+     "이 문제는 밑줄 친 말이 목적격 보어로 쓰였는지 가려, 보기와 쓰임이 같은 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 1, 8번 D 유형. 이 문제는 밑줄 친 말이 목적격 보어로 쓰였는지 가려, 보기와 쓰임이 같은 것을 고르는 문제예요.",
+   "caption": "목적격 보어의 쓰임 구별"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분의 쓰임이 <보기>와 같은 것은?\n\n<보기>\nI found the instructions <u>confusing</u>.\n\n① The water got <u>cold</u> quickly.\n② We need <u>to hurry</u>.\n③ The kids played <u>happily</u>.\n④ Her voice sounds <u>soft</u>.\n⑤ The coach kept the players <u>focused</u>.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 밑줄 친 부분의 쓰임이 <보기>와 같은 것은?",
+     "<보기>",
+     "I found the instructions <u>confusing</u>.",
+     "① The water got <u>cold</u> quickly.",
+     "② We need <u>to hurry</u>.",
+     "③ The kids played <u>happily</u>.",
+     "④ Her voice sounds <u>soft</u>.",
+     "⑤ The coach kept the players <u>focused</u>."
+    ]
+   },
+   "narration": "다음 중 밑줄 친 부분의 쓰임이 보기와 같은 것은? I found the instructions confusing. 나는 그 설명서가 헷갈린다고 느꼈어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\nmake, keep, find, leave, paint + 목적어 + 형용사\n형용사가 목적어의 상태를 설명 → 목적격 보어\nsound, get 같은 동사 뒤에서 주어의 상태를 설명 → 주격 보어\n동사를 꾸미는 말 → 부사 / need 바로 뒤 to부정사 → need의 목적어\n예) The gift made me happy. (그 선물은 나를 행복하게 했어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "make, keep, find, leave, paint + 목적어 + 형용사",
+     "형용사가 목적어의 상태를 설명 → 목적격 보어",
+     "sound, get 같은 동사 뒤에서 주어의 상태를 설명 → 주격 보어",
+     "동사를 꾸미는 말 → 부사 / need 바로 뒤 to부정사 → need의 목적어",
+     "예) The gift made me happy. (그 선물은 나를 행복하게 했어요.)"
+    ]
+   },
+   "narration": "make, keep, find, leave 같은 동사는 목적어 뒤에 형용사를 써서 목적어가 어떤 상태인지 나타낼 수 있어요. 이 형용사를 목적격 보어라고 해요. The gift made me happy. 그 선물은 나를 행복하게 했어요. 여기서 happy가 목적어 me의 상태를 설명해요. 이와 달리 sound, get 같은 동사 뒤에서 주어의 상태를 설명하는 말은 주격 보어예요.",
+   "caption": "목적어의 상태를 설명하는 형용사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 43,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분의 쓰임이 <보기>와 같은 것은?\n\n<보기>\nI found the instructions <u>confusing</u>.\n\n① The water got <u>cold</u> quickly.\n② We need <u>to hurry</u>.\n③ The kids played <u>happily</u>.\n④ Her voice sounds <u>soft</u>.\n⑤ The coach kept the players <u>focused</u>.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "the instructions <u>confusing</u>"
+      ],
+      "strike": [],
+      "note": "<보기> confusing(헷갈리는) → 목적어 the instructions의 상태를 설명 = 목적격 보어"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① The water got <u>cold</u> quickly.",
+       "④ Her voice sounds <u>soft</u>."
+      ],
+      "note": "① cold, ④ soft → 동사 뒤에서 주어의 상태를 설명하는 주격 보어 → 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [],
+      "strike": [
+       "② We need <u>to hurry</u>.",
+       "③ The kids played <u>happily</u>."
+      ],
+      "note": "② to hurry = need의 목적어, ③ happily = played를 꾸미는 부사 → 지움"
+     },
+     {
+      "step": 4,
+      "highlight": [
+       "⑤ The coach kept the players <u>focused</u>."
+      ],
+      "strike": [],
+      "note": "⑤ focused(집중한) → 목적어 the players의 상태를 설명하는 목적격 보어"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 보기의 밑줄 친 confusing은 헷갈린다는 뜻의 형용사로, 목적어 the instructions의 상태를 설명하는 목적격 보어예요. 둘째, 1번 cold와 4번 soft는 동사 got, sounds 뒤에서 주어의 상태를 설명하는 주격 보어라서 지워요. 셋째, 2번 to hurry는 need의 목적어이고, 3번 happily는 동사 played를 꾸미는 부사라서 지워요. 넷째, 남은 5번 focused는 집중한 상태라는 뜻으로, 목적어 the players의 상태를 설명하는 목적격 보어예요. The coach kept the players focused. 코치는 선수들이 계속 집중하게 했어요.",
+   "caption": "주격 보어·부사·목적어 지우기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 25,
+   "screen": {
+    "text": "① The water got <u>cold</u> quickly.  ✗  got 뒤에서 주어 The water의 상태를 설명하는 주격 보어\n② We need <u>to hurry</u>.  ✗  need의 목적어로 쓰인 to부정사\n③ The kids played <u>happily</u>.  ✗  동사 played를 꾸미는 부사\n④ Her voice sounds <u>soft</u>.  ✗  sounds 뒤에서 주어 Her voice의 상태를 설명하는 주격 보어\n⑤ The coach kept the players <u>focused</u>.  ✓  목적어 the players의 상태를 설명하는 목적격 보어",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① The water got <u>cold</u> quickly.  ✗  got 뒤에서 주어 The water의 상태를 설명하는 주격 보어",
+     "② We need <u>to hurry</u>.  ✗  need의 목적어로 쓰인 to부정사",
+     "③ The kids played <u>happily</u>.  ✗  동사 played를 꾸미는 부사",
+     "④ Her voice sounds <u>soft</u>.  ✗  sounds 뒤에서 주어 Her voice의 상태를 설명하는 주격 보어",
+     "⑤ The coach kept the players <u>focused</u>.  ✓  목적어 the players의 상태를 설명하는 목적격 보어"
+    ]
+   },
+   "narration": "정답은 5번 focused예요. 1번 cold와 4번 soft도 형용사라서 고르기 쉬워요. 하지만 둘 다 동사 바로 뒤에서 주어의 상태를 설명하는 주격 보어예요. 이 두 문장에는 목적어가 없어서 목적격 보어가 올 수 없어요. 3번 happily는 형용사가 아니라 동사 played를 꾸미는 부사예요.",
+   "caption": "정답 ⑤ focused"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ⑤ The coach kept the players <u>focused</u>.\n\n목적어 뒤에서 목적어의 상태를 설명하는 형용사 → 목적격 보어",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ The coach kept the players <u>focused</u>.",
+     "목적어 뒤에서 목적어의 상태를 설명하는 형용사 → 목적격 보어"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 목적어 뒤에서 목적어의 상태를 설명하는 형용사가 목적격 보어예요.",
+   "caption": "목적어 + 형용사 = 목적격 보어"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 밑줄 친 부분의 쓰임이 <보기>와 같은 것은?",
+  "passage": "<보기>\nI found the instructions <u>confusing</u>.",
+  "c": [
+   "The water got <u>cold</u> quickly.",
+   "We need <u>to hurry</u>.",
+   "The kids played <u>happily</u>.",
+   "Her voice sounds <u>soft</u>.",
+   "The coach kept the players <u>focused</u>."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 목적격 보어는 목적어의 상태를 설명하는 말이다(make/keep/find/leave/paint/consider + 목적어 + 형용사). 주어를 설명하는 주격 보어, 동사를 꾸미는 부사, 동사의 목적어인 to부정사와 구별한다.\n풀이 순서: ① <보기>의 밑줄(confusing)은 목적어(the instructions) 뒤에서 그 상태를 설명하는 목적격 보어다. → ② 보기마다 밑줄이 무엇을 설명하는지 본다. 주어를 설명하면 주격 보어, 동사를 꾸미면 부사, 동사 뒤 to부정사는 목적어다. → ③ 선택지 ⑤의 밑줄(focused)만 목적어(the players)를 설명한다.\n문장별 판정:\n정답 판단: 목적어의 상태를 설명하는 목적격 보어로 〈보기〉와 쓰임이 같다. 정답은 ⑤이다.\n선택지 분석:\n① [오답] 주어의 상태를 설명하는 주격 보어라 〈보기〉와 다르다. 오답이다.\n② [오답] 동사의 목적어인 to부정사라 〈보기〉와 다르다. 오답이다.\n③ [오답] 동사를 꾸미는 부사라 〈보기〉와 다르다. 오답이다.\n④ [오답] 주어의 상태를 설명하는 주격 보어라 〈보기〉와 다르다. 오답이다.\n⑤ [정답] 목적어의 상태를 설명하는 목적격 보어로 〈보기〉와 쓰임이 같다. 정답이다."
+ }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T03:29:13.621Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: a/an은 뒤에 오는 낱말의 첫소리로 정한다. 모음 소리(a, e, i, o, u 소리)로 시작하면 an, 자음 소리로 시작하면 a를 쓴다.\n풀이 순서: ① 빈칸마다 뒤 낱말의 첫소리를 본다: ant(모음), owl(모음), fox(자음). → ② 모음 소리면 an, 자음 소리면 a를 넣는다. → ③ 정답은 an - an - a.\n문장별 판정:\n정답 판단: 세 빈칸 모두 첫소리에 맞는 a/an을 골랐으므로 정답은 ④이다.\n선택지 분석:\n① [오답] (A) 모음 소리로 시작하는 낱말(ant) 앞에는 an, (B) 모음 소리로 시작하는 낱말(owl) 앞에는 an이 와야 하므로 오답이다.\n② [오답] (A) 모음 소리로 시작하는 낱말(ant) 앞에는 an, (B) 모음 소리로 시작하는 낱말(owl) 앞에는 an, (C) 자음 소리로 시작하는 낱말(fox) 앞에는 a가 와야 하므로 오답이다.\n③ [오답] (A) 모음 소리로 시작하는 낱말(ant) 앞에는 an이 와야 하므로 오답이다.\n④ [정답] 세 빈칸 모두 첫소리에 맞는 a/an을 골랐으므로 정답이다.\n⑤ [오답] (B) 모음 소리로 시작하는 낱말(owl) 앞에는 an, (C) 자음 소리로 시작하는 낱말(fox) 앞에는 a가 와야 하므로 오답이다.",
+    "passage": "Tom draws (A)_______ ant, (B)_______ owl, and (C)_______ fox.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T03:29:11.269Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T03:29:13.621Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:29:13.621Z",
+      "what": "확인 완료"
+    }
+  }
+}

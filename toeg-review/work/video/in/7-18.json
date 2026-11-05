@@ -1,0 +1,86 @@
+{
+ "key": "7-18",
+ "grade": 7,
+ "chapter": "CH 2 대명사",
+ "items": {
+  "A": {
+   "stem": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것은?",
+   "passage": "A: _______ the school far?\nB: No, it _______.",
+   "c": [
+    "Are - isn't",
+    "Is - is",
+    "Is - isn't",
+    "Are - aren't",
+    "Is - am not"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: be동사 의문문은 Am/Is/Are + 주어 ~?이고, 대답의 be동사는 대답의 주어에 맞춘다. No로 답하면 not을 붙인다.\n풀이 순서: ① 질문의 주어: the school(한 개) → Is. → ② 대답: No, it → isn't. → ③ 정답은 Is - isn't.\n문장별 판정:\n정답 판단: the school에 Is, No 대답의 it에 isn't가 알맞으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 단수 주어 the school에 Are를 쓸 수 없으므로 오답이다.\n② [오답] No로 답했으므로 is가 아니라 isn't를 써야 하므로 오답이다.\n③ [정답] the school에 Is, No 대답의 it에 isn't가 알맞으므로 정답이다.\n④ [오답] the school과 it에 Are, aren't를 쓸 수 없으므로 오답이다.\n⑤ [오답] 대답의 주어 it에 am not을 쓸 수 없으므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것은?",
+   "passage": "A: _______ the books new?\nB: Yes, they _______.",
+   "c": [
+    "Are - are",
+    "Are - aren't",
+    "Are - am",
+    "Is - isn't",
+    "Is - is"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: be동사 의문문은 Am/Is/Are + 주어 ~?로 묻고, 대답의 be동사도 대답의 주어에 맞춘다(you → I am, I → you are).\n풀이 순서: ① 질문의 주어: the books(여럿) → Are. → ② 대답: Yes, they → are. → ③ 정답은 Are - are.\n문장별 판정:\n정답 판단: 질문과 대답의 주어에 맞는 be동사를 바르게 썼으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 질문과 대답의 주어에 맞는 be동사를 바르게 썼으므로 정답이다.\n② [오답] 둘째 빈칸 aren't: Yes 대답의 they에는 are를 쓴다. 따라서 오답이다.\n③ [오답] 둘째 빈칸 am: Yes 대답의 they에는 are를 쓴다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 Is: 복수 주어 the books에는 Are를 쓴다. 둘째 빈칸 isn't: Yes 대답의 they에는 are를 쓴다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 Is: 복수 주어 the books에는 Are를 쓴다. 둘째 빈칸 is: Yes 대답의 they에는 are를 쓴다. 따라서 오답이다."
+  },
+  "C": {
+   "stem": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것은?",
+   "passage": "A: _______ you ready?\nB: Yes, I _______.",
+   "c": [
+    "Are - are",
+    "Are - aren't",
+    "Is - is",
+    "Is - isn't",
+    "Are - am"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: be동사 의문문은 Am/Is/Are + 주어 ~?로 묻고, 대답의 be동사도 대답의 주어에 맞춘다(you → I am, I → you are).\n풀이 순서: ① 질문의 주어: you → Are. → ② 대답: Yes, I → am. → ③ 정답은 Are - am.\n문장별 판정:\n정답 판단: 질문과 대답의 주어에 맞는 be동사를 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 둘째 빈칸 are: Yes 대답의 I에는 am을 쓴다. 따라서 오답이다.\n② [오답] 둘째 빈칸 aren't: Yes 대답의 I에는 am을 쓴다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 Is: 주어 you에는 Are를 쓴다. 둘째 빈칸 is: Yes 대답의 I에는 am을 쓴다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 Is: 주어 you에는 Are를 쓴다. 둘째 빈칸 isn't: Yes 대답의 I에는 am을 쓴다. 따라서 오답이다.\n⑤ [정답] 질문과 대답의 주어에 맞는 be동사를 바르게 썼으므로 정답이다."
+  },
+  "D": {
+   "stem": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것은?",
+   "passage": "A: _______ I late?\nB: No, you _______.",
+   "c": [
+    "Am - aren't",
+    "Is - isn't",
+    "Are - am not",
+    "Am - am not",
+    "Are - aren't"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: be동사 의문문은 Am/Is/Are + 주어 ~?로 묻고, 대답의 be동사도 대답의 주어에 맞춘다(you → I am, I → you are).\n풀이 순서: ① 질문의 주어: I → Am. → ② 대답: No, you → aren't. → ③ 정답은 Am - aren't.\n문장별 판정:\n정답 판단: 질문과 대답의 주어에 맞는 be동사를 바르게 썼으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 질문과 대답의 주어에 맞는 be동사를 바르게 썼으므로 정답이다.\n② [오답] 첫째 빈칸 Is: 주어 I에는 Am을 쓴다. 둘째 빈칸 isn't: No 대답의 you에는 aren't를 쓴다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 Are: 주어 I에는 Am을 쓴다. 둘째 빈칸 am not: No 대답의 you에는 aren't를 쓴다. 따라서 오답이다.\n④ [오답] 둘째 빈칸 am not: No 대답의 you에는 aren't를 쓴다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 Are: 주어 I에는 Am을 쓴다. 따라서 오답이다."
+  },
+  "E": {
+   "stem": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것은?",
+   "passage": "A: _______ the boys busy?\nB: No, they _______.",
+   "c": [
+    "Are - aren't",
+    "Are - am",
+    "Is - isn't",
+    "Is - is",
+    "Are - are"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: be동사 의문문은 Am/Is/Are + 주어 ~?로 묻고, 대답의 be동사도 대답의 주어에 맞춘다(you → I am, I → you are).\n풀이 순서: ① 질문의 주어: the boys(여럿) → Are. → ② 대답: No, they → aren't. → ③ 정답은 Are - aren't.\n문장별 판정:\n정답 판단: 질문과 대답의 주어에 맞는 be동사를 바르게 썼으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 질문과 대답의 주어에 맞는 be동사를 바르게 썼으므로 정답이다.\n② [오답] 둘째 빈칸 am: No 대답의 they에는 aren't를 쓴다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 Is: 복수 주어 the boys에는 Are를 쓴다. 둘째 빈칸 isn't: No 대답의 they에는 aren't를 쓴다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 Is: 복수 주어 the boys에는 Are를 쓴다. 둘째 빈칸 is: No 대답의 they에는 aren't를 쓴다. 따라서 오답이다.\n⑤ [오답] 둘째 빈칸 are: No 대답의 they에는 aren't를 쓴다. 따라서 오답이다."
+  },
+  "F": {
+   "stem": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것은?",
+   "passage": "A: _______ Jane at home?\nB: Yes, she _______.",
+   "c": [
+    "Is - isn't",
+    "Are - are",
+    "Are - am",
+    "Is - is",
+    "Are - aren't"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: be동사 의문문은 Am/Is/Are + 주어 ~?로 묻고, 대답의 be동사도 대답의 주어에 맞춘다(you → I am, I → you are).\n풀이 순서: ① 질문의 주어: Jane(한 사람) → Is. → ② 대답: Yes, she → is. → ③ 정답은 Is - is.\n문장별 판정:\n정답 판단: 질문과 대답의 주어에 맞는 be동사를 바르게 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 둘째 빈칸 isn't: Yes 대답의 she에는 is를 쓴다. 따라서 오답이다.\n② [오답] 첫째 빈칸 Are: 3인칭 단수 주어 Jane에는 Is를 쓴다. 둘째 빈칸 are: Yes 대답의 she에는 is를 쓴다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 Are: 3인칭 단수 주어 Jane에는 Is를 쓴다. 둘째 빈칸 am: Yes 대답의 she에는 is를 쓴다. 따라서 오답이다.\n④ [정답] 질문과 대답의 주어에 맞는 be동사를 바르게 썼으므로 정답이다.\n⑤ [오답] 첫째 빈칸 Are: 3인칭 단수 주어 Jane에는 Is를 쓴다. 둘째 빈칸 aren't: Yes 대답의 she에는 is를 쓴다. 따라서 오답이다."
+  }
+ },
+ "prior_review": {}
+}

@@ -1,0 +1,180 @@
+{
+ "key": "2-4",
+ "type": "D",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "title": "동사에 따른 목적격 보어의 형태",
+ "total_sec": 130,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "2급 · CH 1 문장의 형식 · 4번 · D 유형\n\n이 문제는 동사에 맞지 않는 목적격 보어가 쓰인 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 1 문장의 형식 · 4번 · D 유형",
+     "이 문제는 동사에 맞지 않는 목적격 보어가 쓰인 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 1, 4번 D 유형. 이 문제는 동사에 맞지 않는 목적격 보어가 쓰인 문장을 고르는 문제예요.",
+   "caption": "목적격 보어가 틀린 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 목적격 보어가 잘못 사용된 것을 고르시오.\n\n① They wanted me to help with the school festival.\n② The teacher let us leave early after the test.\n③ She found the book about space very useful.\n④ We let the children to play outside in the yard.\n⑤ I heard the baby crying in the next room.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 목적격 보어가 잘못 사용된 것을 고르시오.",
+     "① They wanted me to help with the school festival.",
+     "② The teacher let us leave early after the test.",
+     "③ She found the book about space very useful.",
+     "④ We let the children to play outside in the yard.",
+     "⑤ I heard the baby crying in the next room."
+    ]
+   },
+   "narration": "다음 중 목적격 보어가 잘못 사용된 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\n목적격 보어 = 목적어가 하는 행동이나 목적어의 상태를 설명하는 말\n행동: make·have·let + 목적어 + 동사원형 (to 없이)\n행동: see·watch·hear + 목적어 + 동사원형/ing형,  want·expect + 목적어 + to부정사\n상태: keep·find·make + 목적어 + 형용사\n예) Mom let me go out. (엄마는 내가 밖에 나가게 해 주셨어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "목적격 보어 = 목적어가 하는 행동이나 목적어의 상태를 설명하는 말",
+     "행동: make·have·let + 목적어 + 동사원형 (to 없이)",
+     "행동: see·watch·hear + 목적어 + 동사원형/ing형,  want·expect + 목적어 + to부정사",
+     "상태: keep·find·make + 목적어 + 형용사",
+     "예) Mom let me go out. (엄마는 내가 밖에 나가게 해 주셨어요.)"
+    ]
+   },
+   "narration": "목적격 보어는 목적어가 하는 행동이나 상태를 설명하고, 형태는 동사가 정해요. 행동은 사역동사 make, have, let 뒤에서 to 없이 동사원형, 지각동사 see, hear 뒤에서 동사원형이나 ing형, want 뒤에서 to부정사로 써요. 상태는 keep, find 뒤에 형용사로 써요. 예를 들어 Mom let me go out. 엄마는 내가 밖에 나가게 해 주셨어요.",
+   "caption": "동사가 보어의 형태를 정해요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 37,
+   "screen": {
+    "text": "다음 중 목적격 보어가 잘못 사용된 것을 고르시오.\n\n① They wanted me to help with the school festival.\n② The teacher let us leave early after the test.\n③ She found the book about space very useful.\n④ We let the children to play outside in the yard.\n⑤ I heard the baby crying in the next room.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "wanted",
+       "heard",
+       "found"
+      ],
+      "strike": [
+       "① They wanted me to help with the school festival.",
+       "③ She found the book about space very useful.",
+       "⑤ I heard the baby crying in the next room."
+      ],
+      "note": "동사 확인 → ① wanted + to help, ⑤ 지각동사 heard + crying, ③ found + 형용사 very useful → 맞다"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "let us leave"
+      ],
+      "strike": [
+       "② The teacher let us leave early after the test."
+      ],
+      "note": "② 사역동사 let + us + leave(동사원형) → 맞다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "let the children to play"
+      ],
+      "strike": [],
+      "note": "④ 사역동사 let + the children + to play ✗ → play"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 동사를 보고 목적어 뒤의 말을 확인해요. 1번 wanted 뒤의 to부정사 to help, 5번 지각동사 heard 뒤의 ing형 crying, 3번 found 뒤의 형용사 useful은 모두 맞아요. 둘째, 2번은 사역동사 let 뒤에 동사원형 leave를 써서 맞아요. 셋째, 4번도 사역동사 let 뒤인데 to play를 썼으니 to를 빼고 play로 고쳐야 해요. We let the children play outside in the yard. 우리는 아이들이 마당에 나가 놀게 해 주었어요.",
+   "caption": "동사 확인 → let 뒤 to play"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① They wanted me to help with the school festival.  ✗  want 뒤 to부정사 to help는 맞아요\n② The teacher let us leave early after the test.  ✗  사역동사 let 뒤 동사원형 leave는 맞아요\n③ She found the book about space very useful.  ✗  found 뒤 형용사 very useful은 맞아요\n④ We let the children to play outside in the yard.  ✓  사역동사 let 뒤에는 동사원형: to play → play\n⑤ I heard the baby crying in the next room.  ✗  지각동사 heard 뒤 ing형 crying은 맞아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① They wanted me to help with the school festival.  ✗  want 뒤 to부정사 to help는 맞아요",
+     "② The teacher let us leave early after the test.  ✗  사역동사 let 뒤 동사원형 leave는 맞아요",
+     "③ She found the book about space very useful.  ✗  found 뒤 형용사 very useful은 맞아요",
+     "④ We let the children to play outside in the yard.  ✓  사역동사 let 뒤에는 동사원형: to play → play",
+     "⑤ I heard the baby crying in the next room.  ✗  지각동사 heard 뒤 ing형 crying은 맞아요"
+    ]
+   },
+   "narration": "정답은 4번이에요. 사역동사 let 뒤에서 목적어가 하는 행동은 to 없이 동사원형 play로 써야 해요. 2번도 let이 쓰였지만 동사원형 leave를 써서 맞아요. 1번 wanted 뒤에서 목적어가 할 행동은 to부정사로 쓰니까 to help가 맞아요.",
+   "caption": "정답 ④ to play → play"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ④ We let the children to play outside in the yard.\n\n목적어의 행동: make·have·let + 목적어 + 동사원형 (to부정사 ✗)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ We let the children to play outside in the yard.",
+     "목적어의 행동: make·have·let + 목적어 + 동사원형 (to부정사 ✗)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 사역동사 make, have, let 뒤에서 목적어가 하는 행동은 to 없이 동사원형으로 써요.",
+   "caption": "행동은 make·have·let + 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 목적격 보어가 잘못 사용된 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "They wanted me to help with the school festival.",
+   "The teacher let us leave early after the test.",
+   "She found the book about space very useful.",
+   "We let the children to play outside in the yard.",
+   "I heard the baby crying in the next room."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 5형식은 S+V+O+OC이며 목적격보어는 목적어의 신분·상태·행동을 설명한다. 사역동사 make/have/let 뒤에서 목적어가 행동하면 원형부정사를 쓴다.\n풀이 순서: ① 문장마다 동사를 보고 목적격 보어의 형태를 정한다. 사역동사(make, have, let)는 동사원형, 지각동사는 동사원형·-ing, want·expect는 to부정사, keep·find는 형용사다. → ② 목적어 뒤의 말이 그 형태인지 견준다. → ③ 선택지 ④는 사역동사 let 뒤에 to play를 썼다. play가 맞다.\n문장별 판정:\n정답 판단: 사역동사 let 뒤 목적격 보어에는 to부정사가 아니라 동사원형(play)을 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] want + 목적어 + to부정사로 목적격 보어를 바르게 썼으므로 오답이다.\n② [오답] 사역동사 let + 목적어 + 동사원형으로 바르게 썼으므로 오답이다.\n③ [오답] find + 목적어 + 형용사 보어로 바르게 썼으므로 오답이다.\n④ [정답] 사역동사 let 뒤 목적격 보어에는 to부정사가 아니라 동사원형(play)을 써야 하므로 정답이다.\n⑤ [오답] 지각동사 hear + 목적어 + 현재분사로 바르게 썼으므로 오답이다."
+ }
+}

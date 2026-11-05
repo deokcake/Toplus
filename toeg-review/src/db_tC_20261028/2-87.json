@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T03:56:59.588Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 배수 + as + 원급 + as로 배수 관계를 나타낸다. 셀 수 없는 양은 much, 속도는 fast, 길이는 long, 크기는 large를 쓴다.\n풀이 순서: ① 우리말의 배수(‘세 배’)를 영어로 옮긴다(three times). → ② 배수 표현은 ‘배수 + as + 원급 + as’ 순서다. 배수가 as 앞에 오고, as와 as 사이에는 원급(long)을 쓴다. → ③ 앞의 as가 없는 것, 원급 대신 비교급을 쓴 것, as ~ than은 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: three times as long as는 주어진 three times의 배수 관계를 나타낸다.\n선택지 분석:\n① [오답] 배수 뒤에 첫 번째 as가 빠졌다. 바른 빈칸 표현은 three times as long as이다.\n② [오답] 배수 표현 three times는 첫 번째 as 앞에 둔다. 바른 빈칸 표현은 three times as long as이다.\n③ [정답] 배수 + as + 원급 + as의 어순과 뜻이 맞다. three times as long as는 주어진 three times의 배수 관계를 나타낸다.\n④ [오답] 원급 비교에서는 두 번째 접속어도 as를 쓴다. 바른 빈칸 표현은 three times as long as이다.\n⑤ [오답] as와 as 사이에는 비교급 longer가 아니라 원급 long을 쓴다. 바른 빈칸 표현은 three times as long as이다.",
+    "passage": null,
+    "stem": "다음 우리말에 맞게 빈칸에 들어갈 가장 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T03:56:55.047Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T03:56:59.588Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T03:56:59.588Z",
+      "what": "확인 완료"
+    }
+  }
+}

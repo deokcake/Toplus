@@ -1,0 +1,180 @@
+{
+ "key": "6-27",
+ "type": "C",
+ "grade": 6,
+ "chapter": "CH 3 be동사 과거",
+ "title": "Tom으로 묻는 be동사 과거",
+ "total_sec": 130,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 13,
+   "screen": {
+    "text": "6급 · CH 3 be동사 과거 · 27번 · C 유형\n\n이 문제는 Tom으로 묻고 Yes, he로 답하는 대화에 알맞은 be동사 과거형을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 3 be동사 과거 · 27번 · C 유형",
+     "이 문제는 Tom으로 묻고 Yes, he로 답하는 대화에 알맞은 be동사 과거형을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 3, 27번 C 유형. 이 문제는 Tom으로 묻고 Yes, he로 답하는 대화에 알맞은 be동사 과거형을 고르는 문제예요.",
+   "caption": "Tom 의문문과 Yes 대답"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 23,
+   "screen": {
+    "text": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르시오.\n\nA: ________ Tom busy yesterday?\nB: Yes, he ________. He had a lot of homework.\n\n① Were - were\n② Was - wasn't\n③ Were - wasn't\n④ Was - weren't\n⑤ Was - was",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르시오.",
+     "A: ________ Tom busy yesterday?",
+     "B: Yes, he ________. He had a lot of homework.",
+     "① Were - were",
+     "② Was - wasn't",
+     "③ Were - wasn't",
+     "④ Was - weren't",
+     "⑤ Was - was"
+    ]
+   },
+   "narration": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. 묻는 말은 빈칸 Tom busy yesterday이고, 대답은 Yes, he 빈칸이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 과거형(지난 일): am, is → was / are → were\nI, 3인칭 단수(he, she, it 등) → was / you, 복수(we, they 등) → were\n의문문: Was/Were + 주어 …?\n대답: Yes, 주어 + was/were. / No, 주어 + wasn't/weren't. (대답의 주어에 맞춰요)\n예) Was Mina sick? Yes, she was. (미나는 아팠니? 응, 아팠어.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 과거형(지난 일): am, is → was / are → were",
+     "I, 3인칭 단수(he, she, it 등) → was / you, 복수(we, they 등) → were",
+     "의문문: Was/Were + 주어 …?",
+     "대답: Yes, 주어 + was/were. / No, 주어 + wasn't/weren't. (대답의 주어에 맞춰요)",
+     "예) Was Mina sick? Yes, she was. (미나는 아팠니? 응, 아팠어.)"
+    ]
+   },
+   "narration": "was는 am과 is의, were는 are의 과거형으로, 지난 일을 말할 때 써요. 주어가 I이거나 3인칭 단수이면 was, you이거나 복수이면 were를 써요. 의문문은 Was나 Were를 주어 앞에 쓰고, 대답은 대답의 주어에 맞춰 쓰되 No면 wasn't나 weren't로 해요. Was Mina sick? 미나는 아팠니? Yes, she was. 응, 아팠어.",
+   "caption": "Was/Were 의문문과 대답"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 31,
+   "screen": {
+    "text": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르시오.\n\nA: ________ Tom busy yesterday?\nB: Yes, he ________. He had a lot of homework.\n\n① Were - were\n② Was - wasn't\n③ Were - wasn't\n④ Was - weren't\n⑤ Was - was",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Tom busy yesterday?"
+      ],
+      "strike": [
+       "① Were - were",
+       "③ Were - wasn't"
+      ],
+      "note": "묻는 말의 주어 Tom = 한 사람, 3인칭 단수 → Was. Were로 시작하는 ①, ③은 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "Yes, he ________."
+      ],
+      "strike": [
+       "② Was - wasn't",
+       "④ Was - weren't"
+      ],
+      "note": "대답 Yes, he → 긍정, he에는 was. wasn't(②), weren't(④)는 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ Was - was"
+      ],
+      "strike": [],
+      "note": "남는 것은 ⑤ → Was Tom busy yesterday? Yes, he was."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 묻는 말의 주어 Tom은 한 사람, 3인칭 단수라서 Was를 써야 하니, Were로 시작하는 1번과 3번은 지워요. 둘째, 대답은 Yes이고 주어가 he라서 was를 써야 하니, wasn't를 쓴 2번과 weren't를 쓴 4번도 지워요. 셋째, 남는 것은 5번이에요. Was Tom busy yesterday? Tom은 어제 바빴니? Yes, he was. 응, 바빴어.",
+   "caption": "3인칭 단수 → Was, Yes, he → was"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 22,
+   "screen": {
+    "text": "① Were - were  ✗  Tom과 he는 3인칭 단수라 Were, were 모두 틀려요\n② Was - wasn't  ✗  Yes 대답에 부정형 wasn't를 썼어요\n③ Were - wasn't  ✗  Tom에 Were, Yes 대답에 wasn't 모두 틀려요\n④ Was - weren't  ✗  he에는 weren't를 쓰지 않고, Yes 대답에 부정형\n⑤ Was - was  ✓  Tom → Was, Yes, he → was",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① Were - were  ✗  Tom과 he는 3인칭 단수라 Were, were 모두 틀려요",
+     "② Was - wasn't  ✗  Yes 대답에 부정형 wasn't를 썼어요",
+     "③ Were - wasn't  ✗  Tom에 Were, Yes 대답에 wasn't 모두 틀려요",
+     "④ Was - weren't  ✗  he에는 weren't를 쓰지 않고, Yes 대답에 부정형",
+     "⑤ Was - was  ✓  Tom → Was, Yes, he → was"
+    ]
+   },
+   "narration": "정답은 5번 Was, was예요. 2번은 Was는 맞지만, Yes로 답했으니 not이 들어간 wasn't는 쓸 수 없어요. 1번은 Tom이 한 사람인데 Were와 were를 써서 둘 다 틀렸어요. 4번은 he에 weren't를 썼고, Yes 대답에 부정형을 써서 틀렸어요.",
+   "caption": "정답 ⑤ Was - was"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ⑤ Was - was\n\n3인칭 단수 주어 → Was, 대답의 he → was (Yes면 was)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ Was - was",
+     "3인칭 단수 주어 → Was, 대답의 he → was (Yes면 was)"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 3인칭 단수 주어에는 Was를 쓰고, he로 답할 때 Yes면 was를 써요.",
+   "caption": "3인칭 단수 → Was"
+  }
+ ],
+ "source": {
+  "stem": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르시오.",
+  "passage": "A: ________ Tom busy yesterday?\nB: Yes, he ________. He had a lot of homework.",
+  "c": [
+   "Were - were",
+   "Was - wasn't",
+   "Were - wasn't",
+   "Was - weren't",
+   "Was - was"
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: be동사 과거형은 주어가 I·3인칭 단수면 was, you·we·they·복수 주어(A and B 포함)면 were를 쓴다. 부정은 wasn't/weren't, 의문문은 Was/Were + 주어 ~?로 쓴다.\n풀이 순서: ① 첫 빈칸: 질문의 주어가 Tom(단수)이므로 Was. → ② 둘째 빈칸: 대답이 Yes, he ~이므로 was. → ③ 정답은 Was - was.\n문장별 판정:\n정답 판단: Tom에 Was, Yes 대답에 he was를 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 3인칭 단수 주어 Tom에는 Was를 쓰므로 오답이다.\n② [오답] Yes로 답했고, wasn't가 아니라 was를 써야 하므로 오답이다.\n③ [오답] Tom에는 Was를 쓰고, Yes로 답했고, was를 써야 하므로 오답이다.\n④ [오답] he에는 weren't를 쓰지 않고, Yes로 답했고, was를 써야 하므로 오답이다.\n⑤ [정답] Tom에 Was, Yes 대답에 he was를 바르게 썼으므로 정답이다."
+ }
+}

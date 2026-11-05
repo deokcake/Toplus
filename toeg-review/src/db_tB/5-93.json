@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:15:40.681Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "but - before",
+      "1": "and - after",
+      "2": "but - after",
+      "3": "or - before",
+      "4": "so - when"
+    },
+    "expl": "핵심 규칙: and는 나열(~와, 그리고), but은 대조(~지만), or는 선택(~ 또는, 아니면)을 나타낸다. when은 ‘~할 때’, before는 ‘~하기 전에’, after는 ‘~한 후에’라는 시간의 접속사로 뒤에 주어 + 동사를 이끈다.\n풀이 순서: ① 첫 문장의 우리말: ‘피곤했지만’ → but. → ② 둘째 문장의 우리말: ‘잠자리에 들기 전에’ → before. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: 두 빈칸에 우리말 뜻에 맞는 접속사를 모두 바르게 골랐으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 두 빈칸에 우리말 뜻에 맞는 접속사를 모두 바르게 골랐으므로 정답이다.\n② [오답] 첫째 빈칸 and: ‘피곤했지만’은 대조이므로 but을 쓴다. 둘째 빈칸 after: ‘잠자리에 들기 전에’이므로 before를 쓴다. 따라서 오답이다.\n③ [오답] 둘째 빈칸 after: ‘잠자리에 들기 전에’이므로 before를 쓴다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 or: ‘피곤했지만’은 대조이므로 but을 쓴다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 so: ‘피곤했지만’은 대조이므로 but을 쓴다. 둘째 빈칸 when: ‘잠자리에 들기 전에’이므로 before를 쓴다. 따라서 오답이다.",
+    "passage": "Tom was tired, ________ he finished the project. (Tom은 피곤했지만 프로젝트를 끝냈다.)\nI washed my face ________ I went to bed. (나는 잠자리에 들기 전에 세수를 했다.)",
+    "stem": "빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T08:15:40.075Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T08:15:40.681Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T08:15:40.681Z",
+      "what": "확인 완료"
+    }
+  }
+}

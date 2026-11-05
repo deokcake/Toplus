@@ -1,0 +1,464 @@
+{
+ "A": {
+  "title": "‘이것들’에 맞는 영어 대명사",
+  "intro": "이 문제는 우리말 ‘이것들’에 맞는 영어 대명사를 골라 빈칸을 채우는 문제예요.",
+  "problem_narration": "다음 우리말 뜻이 되도록 빈칸에 알맞은 말을 고르세요. 이것들은 나의 공들이 아니야, 빈칸 aren't my balls. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "가까운 것: this 이것 (하나), these 이것들 (여럿)",
+    "먼 것: that 저것 (하나), those 저것들 (여럿)",
+    "앞에서 말한 것: it 그것 (하나), they 그것들 (여럿)",
+    "be동사: 주어가 this, that, it → is / these, those, they → are",
+    "예) These are my pencils. (이것들은 나의 연필들이에요.)"
+   ],
+   "narration": "가까운 것은 this와 these로, this는 이것, these는 이것들이에요. 먼 것은 that과 those로, that은 저것, those는 저것들이에요. 앞에서 말한 것은 it과 they로, it은 그것, they는 그것들이에요. be동사는 주어가 this, that, it이면 is를, these, those, they이면 are를 써요. These are my pencils. 이것들은 나의 연필들이에요."
+  },
+  "steps": [
+   {
+    "note": "‘이것들은’ → 가까운 것, 여럿",
+    "highlight": [
+     "이것들은"
+    ],
+    "strike": [],
+    "narration": "첫째, 우리말 첫 낱말이 이것들은이니까, 가까운 것 여럿을 가리키는 말이 필요해요."
+   },
+   {
+    "note": "빈칸 뒤 aren't → 하나를 가리키는 This, That은 지운다(This·That 주어 → isn't)",
+    "highlight": [
+     "aren't"
+    ],
+    "strike": [
+     "① This",
+     "② That"
+    ],
+    "narration": "둘째, 빈칸 뒤에 aren't가 있어요. 주어가 This나 That이면 isn't를 쓰니까, 1번 This와 2번 That은 맞지 않아요."
+   },
+   {
+    "note": "They 그것들, Those 저것들 → 지운다. 가까운 여럿 = These",
+    "highlight": [
+     "⑤ These"
+    ],
+    "strike": [
+     "③ They",
+     "④ Those"
+    ],
+    "narration": "셋째, 남은 They, Those, These 가운데 가까운 것 여럿, 이것들은 These예요. These aren't my balls. 이것들은 나의 공들이 아니야."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① This  ✗  이것(가까운 하나), aren't와 맞지 않아요",
+    "② That  ✗  저것(먼 하나), aren't와 맞지 않아요",
+    "③ They  ✗  그것들(앞에서 말한 여럿)이에요",
+    "④ Those  ✗  저것들(먼 여럿)이에요",
+    "⑤ These  ✓  이것들(가까운 여럿)"
+   ],
+   "narration": "정답은 5번 These예요. 4번 Those도 여럿을 가리키지만, 저것들이라서 먼 것에 써요. 3번 They도 여럿이지만, 앞에서 말한 것을 가리키는 그것들이에요. 1번 This는 이것이라 가까운 것은 맞지만 하나를 가리켜서, 뒤에 aren't를 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "이것 this, 이것들 these / 저것 that, 저것들 those / 그것 it, 그것들 they",
+   "narration": "정답은 5번이에요. 기억할 것, 가까운 것 여럿, 이것들은 these예요. 저것들은 those, 그것들은 they예요."
+  },
+  "captions": [
+   "‘이것들’에 맞는 영어 대명사",
+   "먼저 풀어 보세요",
+   "가까운 것·먼 것·앞에서 말한 것",
+   "이것들은 → 가까운 여럿 → These",
+   "정답 ⑤ These",
+   "이것들 these, 저것들 those, 그것들 they"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   36,
+   28,
+   10
+  ]
+ },
+ "B": {
+  "title": "‘저것들’에 맞는 영어 대명사",
+  "intro": "이 문제는 우리말 ‘저것들’에 맞는 영어 대명사를 골라 빈칸을 채우는 문제예요.",
+  "problem_narration": "다음 우리말 뜻이 되도록 빈칸에 알맞은 말을 고르세요. 저것들은 나의 책들이 아니야, 빈칸 aren't my books. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "가까운 것: this 이것 (하나), these 이것들 (여럿)",
+    "먼 것: that 저것 (하나), those 저것들 (여럿)",
+    "앞에서 말한 것: it 그것 (하나), they 그것들 (여럿)",
+    "be동사: 주어가 this, that, it → is / these, those, they → are",
+    "예) Those are my cups. (저것들은 나의 컵들이에요.)"
+   ],
+   "narration": "가까운 것은 this와 these로, this는 이것, these는 이것들이에요. 먼 것은 that과 those로, that은 저것, those는 저것들이에요. 앞에서 말한 것은 it과 they로, it은 그것, they는 그것들이에요. be동사는 주어가 this, that, it이면 is를, these, those, they이면 are를 써요. Those are my cups. 저것들은 나의 컵들이에요."
+  },
+  "steps": [
+   {
+    "note": "‘저것들은’ → 먼 것, 여럿",
+    "highlight": [
+     "저것들은"
+    ],
+    "strike": [],
+    "narration": "첫째, 우리말 첫 낱말이 저것들은이니까, 먼 것 여럿을 가리키는 말이 필요해요."
+   },
+   {
+    "note": "빈칸 뒤 aren't → 하나를 가리키는 This, That은 지운다(This·That 주어 → isn't)",
+    "highlight": [
+     "aren't"
+    ],
+    "strike": [
+     "② This",
+     "④ That"
+    ],
+    "narration": "둘째, 빈칸 뒤에 aren't가 있어요. 주어가 This나 That이면 isn't를 쓰니까, 2번 This와 4번 That은 맞지 않아요."
+   },
+   {
+    "note": "These 이것들, They 그것들 → 지운다. 먼 여럿 = Those",
+    "highlight": [
+     "⑤ Those"
+    ],
+    "strike": [
+     "① These",
+     "③ They"
+    ],
+    "narration": "셋째, 남은 These, They, Those 가운데 먼 것 여럿, 저것들은 Those예요. Those aren't my books. 저것들은 나의 책들이 아니야."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① These  ✗  이것들(가까운 여럿)이에요",
+    "② This  ✗  이것(가까운 하나), aren't와 맞지 않아요",
+    "③ They  ✗  그것들(앞에서 말한 여럿)이에요",
+    "④ That  ✗  저것(먼 하나), aren't와 맞지 않아요",
+    "⑤ Those  ✓  저것들(먼 여럿)"
+   ],
+   "narration": "정답은 5번 Those예요. 1번 These도 여럿을 가리키지만, 이것들이라서 가까운 것에 써요. 3번 They도 여럿이지만, 가깝거나 먼 것이 아니라 앞에서 말한 것을 가리키는 그것들이에요. 4번 That은 저것이라 먼 것은 맞지만 하나를 가리켜서, 뒤에 aren't를 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "이것 this, 이것들 these / 저것 that, 저것들 those / 그것 it, 그것들 they",
+   "narration": "정답은 5번이에요. 기억할 것, 먼 것 여럿, 저것들은 those예요. 이것들은 these, 그것들은 they예요."
+  },
+  "captions": [
+   "‘저것들’에 맞는 영어 대명사",
+   "먼저 풀어 보세요",
+   "가까운 것·먼 것·앞에서 말한 것",
+   "저것들은 → 먼 여럿 → Those",
+   "정답 ⑤ Those",
+   "이것들 these, 저것들 those, 그것들 they"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   36,
+   28,
+   10
+  ]
+ },
+ "C": {
+  "title": "‘그것들’에 맞는 영어 대명사",
+  "intro": "이 문제는 우리말 ‘그것들’에 맞는 영어 대명사를 골라 빈칸을 채우는 문제예요.",
+  "problem_narration": "다음 우리말 뜻이 되도록 빈칸에 알맞은 말을 고르세요. 그것들은 내 장난감들이 아니야, 빈칸 aren't my toys. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "가까운 것: this 이것 (하나), these 이것들 (여럿)",
+    "먼 것: that 저것 (하나), those 저것들 (여럿)",
+    "앞에서 말한 것: it 그것 (하나), they 그것들 (여럿)",
+    "be동사: 주어가 this, that, it → is / these, those, they → are",
+    "예) I have two pens. They are blue. (나는 펜이 두 개 있는데, 그것들은 파란색이에요.)"
+   ],
+   "narration": "가까운 것은 this와 these로, this는 이것, these는 이것들이에요. 먼 것은 that과 those로, that은 저것, those는 저것들이에요. 앞에서 말한 것은 it과 they로, it은 그것, they는 그것들이에요. be동사는 주어가 this, that, it이면 is를, these, those, they이면 are를 써요. I have two pens. They are blue. 나는 펜이 두 개 있는데, 그것들은 파란색이에요."
+  },
+  "steps": [
+   {
+    "note": "‘그것들은’ → 앞에서 말한 것, 여럿",
+    "highlight": [
+     "그것들은"
+    ],
+    "strike": [],
+    "narration": "첫째, 우리말 첫 낱말이 그것들은이니까, 앞에서 말한 것 여럿을 가리키는 말이 필요해요."
+   },
+   {
+    "note": "빈칸 뒤 aren't → 하나를 가리키는 That, This는 지운다(That·This 주어 → isn't)",
+    "highlight": [
+     "aren't"
+    ],
+    "strike": [
+     "② That",
+     "③ This"
+    ],
+    "narration": "둘째, 빈칸 뒤에 aren't가 있어요. 주어가 That이나 This이면 isn't를 쓰니까, 2번 That과 3번 This는 맞지 않아요."
+   },
+   {
+    "note": "These 이것들, Those 저것들 → 지운다. 앞에서 말한 여럿 = They",
+    "highlight": [
+     "① They"
+    ],
+    "strike": [
+     "④ These",
+     "⑤ Those"
+    ],
+    "narration": "셋째, These는 이것들, Those는 저것들이니까, 앞에서 말한 것 여럿, 그것들은 They예요. They aren't my toys. 그것들은 내 장난감들이 아니야."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① They  ✓  그것들(앞에서 말한 여럿)",
+    "② That  ✗  저것(먼 하나), aren't와 맞지 않아요",
+    "③ This  ✗  이것(가까운 하나), aren't와 맞지 않아요",
+    "④ These  ✗  이것들(가까운 여럿)이에요",
+    "⑤ Those  ✗  저것들(먼 여럿)이에요"
+   ],
+   "narration": "정답은 1번 They예요. 5번 Those와 4번 These도 여럿을 가리켜서 aren't와는 맞아요. 하지만 Those는 저것들, These는 이것들이라 우리말 그것들과 뜻이 달라요. 2번 That과 3번 This는 하나를 가리켜서, 뒤에 aren't를 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "이것 this, 이것들 these / 저것 that, 저것들 those / 그것 it, 그것들 they",
+   "narration": "정답은 1번이에요. 기억할 것, 앞에서 말한 것 여럿, 그것들은 they예요. 이것들은 these, 저것들은 those예요."
+  },
+  "captions": [
+   "‘그것들’에 맞는 영어 대명사",
+   "먼저 풀어 보세요",
+   "가까운 것·먼 것·앞에서 말한 것",
+   "그것들은 → 앞에서 말한 여럿 → They",
+   "정답 ① They",
+   "이것들 these, 저것들 those, 그것들 they"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   36,
+   28,
+   10
+  ]
+ },
+ "D": {
+  "title": "‘이것’에 맞는 영어 대명사",
+  "intro": "이 문제는 우리말 ‘이것’에 맞는 영어 대명사를 골라 빈칸을 채우는 문제예요.",
+  "problem_narration": "다음 우리말 뜻이 되도록 빈칸에 알맞은 말을 고르세요. 이것은 내 사과가 아니야, 빈칸 isn't my apple. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "가까운 것: this 이것 (하나), these 이것들 (여럿)",
+    "먼 것: that 저것 (하나), those 저것들 (여럿)",
+    "앞에서 말한 것: it 그것 (하나), they 그것들 (여럿)",
+    "be동사: 주어가 this, that, it → is / these, those, they → are",
+    "예) This is my pencil. (이것은 나의 연필이에요.)"
+   ],
+   "narration": "가까운 것은 this와 these로, this는 이것, these는 이것들이에요. 먼 것은 that과 those로, that은 저것, those는 저것들이에요. 앞에서 말한 것은 it과 they로, it은 그것, they는 그것들이에요. be동사는 주어가 this, that, it이면 is를, these, those, they이면 are를 써요. This is my pencil. 이것은 나의 연필이에요."
+  },
+  "steps": [
+   {
+    "note": "‘이것은’ → 가까운 것, 하나",
+    "highlight": [
+     "이것은"
+    ],
+    "strike": [],
+    "narration": "첫째, 우리말 첫 낱말이 이것은이니까, 가까운 것 하나를 가리키는 말이 필요해요."
+   },
+   {
+    "note": "빈칸 뒤 isn't → 여럿을 가리키는 These, They, Those는 지운다(주어 → aren't)",
+    "highlight": [
+     "isn't"
+    ],
+    "strike": [
+     "① These",
+     "③ They",
+     "④ Those"
+    ],
+    "narration": "둘째, 빈칸 뒤에 isn't가 있어요. 주어가 These, They, Those이면 aren't를 쓰니까, 1번, 3번, 4번은 맞지 않아요."
+   },
+   {
+    "note": "That 저것 → 지운다. 가까운 하나 = This",
+    "highlight": [
+     "② This"
+    ],
+    "strike": [
+     "⑤ That"
+    ],
+    "narration": "셋째, 남은 This와 That 가운데 가까운 것 하나, 이것은 This예요. This isn't my apple. 이것은 내 사과가 아니야."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① These  ✗  이것들(가까운 여럿), isn't와 맞지 않아요",
+    "② This  ✓  이것(가까운 하나)",
+    "③ They  ✗  그것들(앞에서 말한 여럿), isn't와 맞지 않아요",
+    "④ Those  ✗  저것들(먼 여럿), isn't와 맞지 않아요",
+    "⑤ That  ✗  저것(먼 하나)이에요"
+   ],
+   "narration": "정답은 2번 This예요. 5번 That도 하나를 가리켜서 isn't와는 맞지만, 저것이라서 먼 것에 써요. 1번 These는 이것들이라 가까운 것은 맞지만 여럿을 가리켜서, 뒤에 isn't를 쓸 수 없어요. 3번 They도 그것들이라 여럿을 가리켜요."
+  },
+  "summary": {
+   "card": "이것 this, 이것들 these / 저것 that, 저것들 those / 그것 it, 그것들 they",
+   "narration": "정답은 2번이에요. 기억할 것, 가까운 것 하나, 이것은 this예요. 저것은 that, 그것은 it이에요."
+  },
+  "captions": [
+   "‘이것’에 맞는 영어 대명사",
+   "먼저 풀어 보세요",
+   "가까운 것·먼 것·앞에서 말한 것",
+   "이것은 → 가까운 하나 → This",
+   "정답 ② This",
+   "이것 this, 저것 that, 그것 it"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   36,
+   28,
+   10
+  ]
+ },
+ "E": {
+  "title": "‘저것’에 맞는 영어 대명사",
+  "intro": "이 문제는 우리말 ‘저것’에 맞는 영어 대명사를 골라 빈칸을 채우는 문제예요.",
+  "problem_narration": "다음 우리말 뜻이 되도록 빈칸에 알맞은 말을 고르세요. 저것은 내 우산이 아니야, 빈칸 isn't my umbrella. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "가까운 것: this 이것 (하나), these 이것들 (여럿)",
+    "먼 것: that 저것 (하나), those 저것들 (여럿)",
+    "앞에서 말한 것: it 그것 (하나), they 그것들 (여럿)",
+    "be동사: 주어가 this, that, it → is / these, those, they → are",
+    "예) That is my house. (저것은 나의 집이에요.)"
+   ],
+   "narration": "가까운 것은 this와 these로, this는 이것, these는 이것들이에요. 먼 것은 that과 those로, that은 저것, those는 저것들이에요. 앞에서 말한 것은 it과 they로, it은 그것, they는 그것들이에요. be동사는 주어가 this, that, it이면 is를, these, those, they이면 are를 써요. That is my house. 저것은 나의 집이에요."
+  },
+  "steps": [
+   {
+    "note": "‘저것은’ → 먼 것, 하나",
+    "highlight": [
+     "저것은"
+    ],
+    "strike": [],
+    "narration": "첫째, 우리말 첫 낱말이 저것은이니까, 먼 것 하나를 가리키는 말이 필요해요."
+   },
+   {
+    "note": "빈칸 뒤 isn't → 여럿을 가리키는 Those, They, These는 지운다(주어 → aren't)",
+    "highlight": [
+     "isn't"
+    ],
+    "strike": [
+     "① Those",
+     "② They",
+     "⑤ These"
+    ],
+    "narration": "둘째, 빈칸 뒤에 isn't가 있어요. 주어가 Those, They, These이면 aren't를 쓰니까, 1번, 2번, 5번은 맞지 않아요."
+   },
+   {
+    "note": "This 이것 → 지운다. 먼 하나 = That",
+    "highlight": [
+     "④ That"
+    ],
+    "strike": [
+     "③ This"
+    ],
+    "narration": "셋째, 남은 This와 That 가운데 먼 것 하나, 저것은 That이에요. That isn't my umbrella. 저것은 내 우산이 아니야."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Those  ✗  저것들(먼 여럿), isn't와 맞지 않아요",
+    "② They  ✗  그것들(앞에서 말한 여럿), isn't와 맞지 않아요",
+    "③ This  ✗  이것(가까운 하나)이에요",
+    "④ That  ✓  저것(먼 하나)",
+    "⑤ These  ✗  이것들(가까운 여럿), isn't와 맞지 않아요"
+   ],
+   "narration": "정답은 4번 That이에요. 3번 This도 하나를 가리켜서 isn't와는 맞지만, 이것이라서 가까운 것에 써요. 1번 Those는 저것들이라 먼 것은 맞지만 여럿을 가리켜서, 뒤에 isn't를 쓸 수 없어요. 2번 They도 그것들이라 여럿을 가리켜요."
+  },
+  "summary": {
+   "card": "이것 this, 이것들 these / 저것 that, 저것들 those / 그것 it, 그것들 they",
+   "narration": "정답은 4번이에요. 기억할 것, 먼 것 하나, 저것은 that이에요. 이것은 this, 그것은 it이에요."
+  },
+  "captions": [
+   "‘저것’에 맞는 영어 대명사",
+   "먼저 풀어 보세요",
+   "가까운 것·먼 것·앞에서 말한 것",
+   "저것은 → 먼 하나 → That",
+   "정답 ④ That",
+   "이것 this, 저것 that, 그것 it"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   36,
+   28,
+   10
+  ]
+ },
+ "F": {
+  "title": "‘그것’에 맞는 영어 대명사",
+  "intro": "이 문제는 우리말 ‘그것’에 맞는 영어 대명사를 골라 빈칸을 채우는 문제예요.",
+  "problem_narration": "다음 우리말 뜻이 되도록 빈칸에 알맞은 말을 고르세요. 그것은 내 가방이 아니야, 빈칸 isn't my bag. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "가까운 것: this 이것 (하나), these 이것들 (여럿)",
+    "먼 것: that 저것 (하나), those 저것들 (여럿)",
+    "앞에서 말한 것: it 그것 (하나), they 그것들 (여럿)",
+    "be동사: 주어가 this, that, it → is / these, those, they → are",
+    "예) I have a cap. It is red. (나는 모자가 하나 있는데, 그것은 빨간색이에요.)"
+   ],
+   "narration": "가까운 것은 this와 these로, this는 이것, these는 이것들이에요. 먼 것은 that과 those로, that은 저것, those는 저것들이에요. 앞에서 말한 것은 it과 they로, it은 그것, they는 그것들이에요. be동사는 주어가 this, that, it이면 is를, these, those, they이면 are를 써요. I have a cap. It is red. 나는 모자가 하나 있는데, 그것은 빨간색이에요."
+  },
+  "steps": [
+   {
+    "note": "‘그것은’ → 앞에서 말한 것, 하나",
+    "highlight": [
+     "그것은"
+    ],
+    "strike": [],
+    "narration": "첫째, 우리말 첫 낱말이 그것은이니까, 앞에서 말한 것 하나를 가리키는 말이 필요해요."
+   },
+   {
+    "note": "빈칸 뒤 isn't → 여럿을 가리키는 These, They는 지운다(주어 → aren't)",
+    "highlight": [
+     "isn't"
+    ],
+    "strike": [
+     "③ These",
+     "⑤ They"
+    ],
+    "narration": "둘째, 빈칸 뒤에 isn't가 있어요. 주어가 These나 They이면 aren't를 쓰니까, 3번 These와 5번 They는 맞지 않아요."
+   },
+   {
+    "note": "That 저것, This 이것 → 지운다. 앞에서 말한 하나 = It",
+    "highlight": [
+     "② It"
+    ],
+    "strike": [
+     "① That",
+     "④ This"
+    ],
+    "narration": "셋째, That은 저것, This는 이것이니까, 앞에서 말한 것 하나, 그것은 It이에요. It isn't my bag. 그것은 내 가방이 아니야."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① That  ✗  저것(먼 하나)이에요",
+    "② It  ✓  그것(앞에서 말한 하나)",
+    "③ These  ✗  이것들(가까운 여럿), isn't와 맞지 않아요",
+    "④ This  ✗  이것(가까운 하나)이에요",
+    "⑤ They  ✗  그것들(앞에서 말한 여럿), isn't와 맞지 않아요"
+   ],
+   "narration": "정답은 2번 It이에요. 5번 They도 앞에서 말한 것을 가리키지만, 그것들이라서 여럿에 써요. 그래서 뒤에 isn't를 쓸 수 없어요. 1번 That은 저것, 4번 This는 이것이에요. 둘 다 isn't와는 맞지만 우리말 그것과 뜻이 달라요."
+  },
+  "summary": {
+   "card": "이것 this, 이것들 these / 저것 that, 저것들 those / 그것 it, 그것들 they",
+   "narration": "정답은 2번이에요. 기억할 것, 앞에서 말한 것 하나, 그것은 it이에요. 여럿인 그것들은 they예요."
+  },
+  "captions": [
+   "‘그것’에 맞는 영어 대명사",
+   "먼저 풀어 보세요",
+   "가까운 것·먼 것·앞에서 말한 것",
+   "그것은 → 앞에서 말한 하나 → It",
+   "정답 ② It",
+   "그것 it, 그것들 they"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   36,
+   28,
+   10
+  ]
+ }
+}

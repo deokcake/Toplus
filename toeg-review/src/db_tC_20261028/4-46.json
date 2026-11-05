@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:22:17.759Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "is travel",
+      "1": "will travels",
+      "2": "does travel",
+      "3": "will travel",
+      "4": "will to travel"
+    },
+    "expl": "핵심 규칙: 미래 조동사 will 뒤에는 동사원형을 쓰며, 주어에 따라 will이나 뒤 동사에 -s를 붙이지 않는다.\n풀이 순서: ① 조동사 will 뒤에는 주어가 무엇이든 동사원형이 온다. → ② 주어가 My parents여도 will travel이다. to나 -s를 붙이지 않는다. → ③ 정답은 will travel.\n문장별 판정:\n정답 판단: will + 동사원형으로 미래를 바르게 나타냈으므로 정답은 ④이다.\n선택지 분석:\n① [오답] be동사 뒤에 동사원형을 바로 쓸 수 없으므로 오답이다.\n② [오답] will 뒤에는 -s를 붙이지 않은 동사원형을 쓰므로 오답이다.\n③ [오답] does로는 미래를 나타내지 못하므로 오답이다.\n④ [정답] will + 동사원형으로 미래를 바르게 나타냈으므로 정답이다.\n⑤ [오답] will 뒤에 to를 쓰지 않으므로 오답이다.",
+    "passage": "My parents ________________ to Jeju next month.",
+    "stem": "다음 빈칸에 들어갈 말이 어순에 맞게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:22:16.669Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:22:17.759Z",
+      "what": "확인 완료"
+    }
+  }
+}

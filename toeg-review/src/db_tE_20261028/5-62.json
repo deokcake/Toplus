@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:21:45.036Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Tom's birthday is January two.",
+      "1": "Tom's birthday is January twelfth.",
+      "2": "Tom's birthday is January twentieth.",
+      "3": "Tom's birthday is January twenty-second.",
+      "4": "Tom's birthday is January second."
+    },
+    "expl": "핵심 규칙: 날짜의 ‘일’은 서수로 읽는다(3일 third, 12일 twelfth, 21일 twenty-first, 30일 thirtieth). 기수로 읽거나 비슷한 수(13일 thirteenth, 20일 twentieth)와 헷갈리지 않도록 한다.\n풀이 순서: ① 날짜의 ‘일’을 확인한다: 2일. → ② 날짜는 서수로 읽으므로 second. → ③ 기수로 읽은 것과 비슷하게 생긴 다른 날짜를 지운다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 2일을 서수 second로 바르게 읽었으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 날짜의 일은 기수 two가 아니라 서수로 읽으므로 오답이다.\n② [오답] twelfth는 12일이므로 오답이다.\n③ [오답] twentieth는 20일이므로 오답이다.\n④ [오답] twenty-second는 22일이므로 오답이다.\n⑤ [정답] 2일을 서수 second로 바르게 읽었으므로 정답이다.",
+    "passage": null,
+    "stem": "우리말과 같은 뜻이 되는 문장을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:21:43.240Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:21:45.036Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:21:45.036Z",
+      "what": "확인 완료"
+    }
+  }
+}

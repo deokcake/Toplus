@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-28T03:24:17.123Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "ⓐ: 'go'의 불규칙 과거형으로, 어제 집에 간 일을 나타낸다.",
+      "1": "ⓑ: 'buy'의 과거형은 불규칙 변화인 'bought'이므로 ⓑ는 틀린 표현이다.",
+      "2": "ⓒ: 'come'의 불규칙 과거형으로, 여동생이 나중에 온 일을 나타낸다.",
+      "3": "ⓓ: 'eat'은 규칙 변화하는 동사이므로 과거형은 'eated'로 써야 한다.",
+      "4": "ⓔ: 주어가 'They'인 복수형이므로 be동사의 과거형 'were'를 쓴 것은 적절하다."
+    },
+    "expl": "핵심 규칙: 불규칙동사는 -ed를 붙이지 않고 정해진 과거형을 쓰며, 과거형은 주어의 인칭·수에 따라 바뀌지 않는다. be동사의 과거형은 복수 주어에 were를 쓴다.\n풀이 순서: ① 글머리의 시간 표현(Yesterday)을 보면 모두 과거의 일이다. 밑줄 친 동사가 과거형으로 바른지 하나씩 본다. → ② 지문에서 틀린 과거형은 ⓑ buyed다(bought). → ③ 설명마다 이 사실과 견준다. ④의 설명이 틀렸다. eat의 과거형은 eated가 아니라 ate다. ⓓ는 옳다.\n문장별 판정:\n정답 판단: eat의 과거형은 ate이므로 ⓓ는 알맞고, 이 설명이 틀렸다.\n선택지 분석:\n① [오답] went는 go의 불규칙 과거형이라 옳은 설명이므로 오답이다.\n② [오답] buy의 과거형은 bought라 옳은 설명이므로 오답이다.\n③ [오답] came은 come의 불규칙 과거형이라 옳은 설명이므로 오답이다.\n④ [정답] eat은 불규칙동사라 과거형이 ate이므로 ⓓ는 알맞고 이 설명이 틀렸다. 옳지 않은 설명이므로 정답이다.\n⑤ [오답] 복수 주어 They에 were를 쓴 것이 맞아 옳은 설명이므로 오답이다.",
+    "passage": "<보기>\nYesterday, Tom ⓐ<u>went</u> home early after school. He ⓑ<u>buyed</u> a snack at the store near his house. His sister ⓒ<u>came</u> home later in the evening. They ⓓ<u>ate</u> dinner together and ⓔ<u>were</u> very tired.",
+    "stem": "다음 <보기> 지문에 대한 설명으로 옳지 않은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:34:11.681Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:34:20.579Z",
+      "text": "기준 문항에 비해 지문이 너무 짧음"
+    }
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T03:24:17.123Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:24:12.835Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:24:17.123Z",
+      "what": "확인 완료"
+    }
+  }
+}

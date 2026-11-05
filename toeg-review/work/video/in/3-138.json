@@ -1,0 +1,86 @@
+{
+ "key": "3-138",
+ "grade": 3,
+ "chapter": "CH 14 문장의 종류",
+ "items": {
+  "A": {
+   "stem": "다음 우리말 문장을 올바르게 영작한 것을 고르시오.",
+   "passage": "얼마나 아름다운 날인가!",
+   "c": [
+    "What beautiful a day it is!",
+    "What a beautiful day it is!",
+    "How a day beautiful it is!",
+    "How a beautiful day it is!",
+    "What is a beautiful day, is it!"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 명사를 감탄하면 What + (a/an) + 형용사 + 명사 + 주어 + 동사!, 형용사·부사만 감탄하면 How + 형용사/부사 + 주어 + 동사!\n풀이 순서: ① 우리말에서 감탄하는 대상을 찾는다: ‘아름다운 날’(형용사 + 명사). → ② 명사가 있으므로 What으로 시작한다: What + a + beautiful + day + it is! → ③ 정답은 ②.\n문장별 판정:\n정답 판단: What + a + 형용사 + 명사 + 주어 + 동사의 어순이므로 정답은 ②이다.\n선택지 분석:\n① [오답] a가 형용사 beautiful 앞에 와야 하므로 오답이다.\n② [정답] What + a + 형용사 + 명사 + 주어 + 동사의 어순이므로 정답이다.\n③ [오답] How 뒤에 a + 명사를 쓸 수 없고 어순도 맞지 않으므로 오답이다.\n④ [오답] How 뒤에 a + 형용사 + 명사를 쓸 수 없으므로 오답이다.\n⑤ [오답] 감탄문에 의문문 어순이나 부가의문문 꼴을 쓰지 않으므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 우리말 문장을 올바르게 영작한 것을 고르시오.",
+   "passage": "얼마나 멋진 차인가!",
+   "c": [
+    "What nice car it is!",
+    "How a nice car it is!",
+    "What a nice car it is!",
+    "What a car nice it is!",
+    "How nice car it is!"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 감탄문은 What + (a/an) + 형용사 + 명사 + 주어 + 동사!, How + 형용사/부사 + 주어 + 동사!이다.\n풀이 순서: ① 우리말에서 감탄하는 대상을 찾는다: ‘멋진 차’(형용사 + 명사). → ② 명사가 있으므로 What으로 시작한다: What + a + nice + car + it is! → ③ 정답은 ③.\n문장별 판정:\n정답 판단: What + a + 형용사 + 명사 + 주어 + 동사의 어순이므로 정답은 ③이다.\n선택지 분석:\n① [오답] 단수명사 car 앞에 a가 빠졌으므로 오답이다.\n② [오답] How 뒤에 a + 형용사 + 명사를 쓸 수 없으므로 오답이다.\n③ [정답] What + a + 형용사 + 명사 + 주어 + 동사의 어순이므로 정답이다.\n④ [오답] 형용사는 명사 앞에 오므로 오답이다.\n⑤ [오답] How 뒤에 형용사 + 명사를 쓸 수 없으므로 오답이다."
+  },
+  "C": {
+   "stem": "다음 우리말 문장을 올바르게 영작한 것을 고르시오.",
+   "passage": "얼마나 용감한 소년들인가!",
+   "c": [
+    "What a brave boys they are!",
+    "How brave boys they are!",
+    "What brave boys they are!",
+    "What brave they boys are!",
+    "How a brave boys they are!"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 감탄문은 What + (a/an) + 형용사 + 명사 + 주어 + 동사!, How + 형용사/부사 + 주어 + 동사!이다.\n풀이 순서: ① 우리말에서 감탄하는 대상을 찾는다: ‘용감한 소년들’(형용사 + 복수명사). → ② 명사가 있으므로 What으로 시작한다. 복수명사라 a 없이 What + brave + boys + they are! → ③ 정답은 ③.\n문장별 판정:\n정답 판단: What + 형용사 + 복수명사 + 주어 + 동사의 어순이므로 정답은 ③이다.\n선택지 분석:\n① [오답] 복수명사 boys 앞에는 a를 쓰지 않으므로 오답이다.\n② [오답] How 뒤에 형용사 + 명사를 쓸 수 없으므로 오답이다.\n③ [정답] What + 형용사 + 복수명사 + 주어 + 동사의 어순이므로 정답이다.\n④ [오답] 명사 boys가 형용사 바로 뒤에 와야 하므로 오답이다.\n⑤ [오답] How 뒤에 a + 형용사 + 명사를 쓸 수 없으므로 오답이다."
+  },
+  "D": {
+   "stem": "다음 우리말 문장을 올바르게 영작한 것을 고르시오.",
+   "passage": "그 꽃은 얼마나 아름다운가!",
+   "c": [
+    "What the flower beautiful is!",
+    "How is beautiful the flower!",
+    "How beautiful the flower is!",
+    "What beautiful the flower is!",
+    "How a beautiful flower it is!"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: What 감탄문은 What (+a/an) + 형용사 + 명사 + 주어 + 동사, How 감탄문은 How + 형용사/부사 + 주어 + 동사 구조를 쓴다.\n풀이 순서: ① 우리말에서 감탄하는 대상을 찾는다: ‘아름다운가’(형용사만 있고 주어는 그 꽃). → ② 형용사만 있으므로 How로 시작한다: How + beautiful + the flower is! → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 'How beautiful the flower is!'는 What (+a/an) + 형용사 + 명사 + 주어 + 동사 또는 How + 형용사/부사 + 주어 + 동사의 감탄문 어순을 정확히 사용했다. 따라서 정답은 ③이다.\n선택지 분석:\n① [오답] What 감탄문은 What (+a/an) + 형용사 + 명사 + 주어 + 동사 어순이 필요하다. 'What the flower beautiful is!'는 관사·명사 위치 또는 주어-동사 어순이 어긋나 오답이다.\n② [오답] How 감탄문은 How + 형용사/부사 + 주어 + 동사 어순을 쓴다. 'How is beautiful the flower!'는 불필요한 a/an·명사 삽입 또는 의문문 어순을 사용해 오답이다.\n③ [정답] 'How beautiful the flower is!'는 What (+a/an) + 형용사 + 명사 + 주어 + 동사 또는 How + 형용사/부사 + 주어 + 동사의 감탄문 어순을 정확히 사용했다. 따라서 정답이다.\n④ [오답] What 감탄문은 What (+a/an) + 형용사 + 명사 + 주어 + 동사 어순이 필요하다. 'What beautiful the flower is!'는 관사·명사 위치 또는 주어-동사 어순이 어긋나 오답이다.\n⑤ [오답] How 감탄문은 How + 형용사/부사 + 주어 + 동사 어순을 쓴다. 'How a beautiful flower it is!'는 불필요한 a/an·명사 삽입 또는 의문문 어순을 사용해 오답이다."
+  },
+  "E": {
+   "stem": "다음 우리말 문장을 올바르게 영작한 것을 고르시오.",
+   "passage": "Tom은 얼마나 빨리 달리는가!",
+   "c": [
+    "What fast Tom runs!",
+    "What Tom runs fast!",
+    "How a fast Tom runs!",
+    "How fast Tom runs!",
+    "How fastly Tom runs!"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 감탄문은 What + (a/an) + 형용사 + 명사 + 주어 + 동사!, How + 형용사/부사 + 주어 + 동사!이다.\n풀이 순서: ① 우리말에서 감탄하는 대상을 찾는다: ‘빨리’(부사). → ② 부사를 감탄하므로 How로 시작한다: How + fast + Tom runs! → ③ 정답은 ④.\n문장별 판정:\n정답 판단: How + 부사 + 주어 + 동사의 어순이므로 정답은 ④이다.\n선택지 분석:\n① [오답] 명사 없이 부사만 오면 How를 쓰므로 오답이다.\n② [오답] What 뒤에 주어가 바로 올 수 없으므로 오답이다.\n③ [오답] How 뒤에 a를 쓸 수 없으므로 오답이다.\n④ [정답] How + 부사 + 주어 + 동사의 어순이므로 정답이다.\n⑤ [오답] fast는 -ly 없이 부사로 쓰므로 오답이다."
+  },
+  "F": {
+   "stem": "다음 우리말 문장을 올바르게 영작한 것을 고르시오.",
+   "passage": "얼마나 흥미로운 책인가!",
+   "c": [
+    "What a interesting book it is!",
+    "What interesting an book it is!",
+    "How interesting book it is!",
+    "How an interesting book it is!",
+    "What an interesting book it is!"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 감탄문은 What + (a/an) + 형용사 + 명사 + 주어 + 동사!, How + 형용사/부사 + 주어 + 동사!이다.\n풀이 순서: ① 우리말에서 감탄하는 대상을 찾는다: ‘흥미로운 책’(형용사 + 명사). → ② 명사가 있으므로 What으로 시작한다. interesting이 모음 소리로 시작하므로 an을 쓴다: What + an + interesting + book + it is! → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: What + an + 형용사 + 명사 + 주어 + 동사의 어순이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 모음 소리로 시작하는 interesting 앞에는 an을 쓰므로 오답이다.\n② [오답] an은 형용사 앞에 오므로 오답이다.\n③ [오답] How 뒤에 형용사 + 명사를 쓸 수 없으므로 오답이다.\n④ [오답] How 뒤에 an + 형용사 + 명사를 쓸 수 없으므로 오답이다.\n⑤ [정답] What + an + 형용사 + 명사 + 주어 + 동사의 어순이므로 정답이다."
+  }
+ },
+ "prior_review": {}
+}

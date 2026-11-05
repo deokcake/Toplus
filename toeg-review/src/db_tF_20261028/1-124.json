@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T08:54:15.545Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "I have never seen such a long line at this bus stop",
+      "1": "Neither have I",
+      "2": "Here comes another bus over there",
+      "3": "Rarely I have waited this long for a bus",
+      "4": "So crowded is the street that traffic has stopped"
+    },
+    "expl": "핵심 규칙: never, rarely, seldom, hardly 같은 부정어가 문장 맨 앞에 오면 ‘부정어 + 조동사 + 주어’로 도치한다. Neither + 조동사 + 주어, Here + 동사 + 주어, So + 형용사 + 동사 + 주어도 도치 구문이다.\n풀이 순서: ① 밑줄마다 문장(절)의 맨 앞에 부정어나 Neither·Here·So가 있는지 본다. → ② 있으면 그 뒤가 ‘(조)동사 + 주어’ 순서인지 확인한다. → ③ 선택지 ④는 부정어(Rarely) 뒤가 ‘주어 + 동사’ 순서 그대로다. 바른 어순은 Rarely have I waited.\n문장별 판정:\n정답 판단: 준부정어 Rarely가 문장 맨 앞에 와서 조동사 have를 주어 I 앞으로 보내야 하므로 정답이다.\n선택지 분석:\n① [오답] 부정어 never가 문장 중간에 있어 도치하지 않는 일반 어순이 맞으므로 오답이다.\n② [오답] Neither + 조동사 + 주어(Neither have I)의 도치가 맞으므로 오답이다.\n③ [오답] Here comes + 명사 주어의 도치가 맞으므로 오답이다.\n④ [정답] 준부정어 Rarely가 문장 맨 앞에 오면 조동사를 주어 앞으로 보내야 한다. Rarely have I waited this long으로 고쳐야 하므로 정답이다.\n⑤ [오답] So + 형용사 + be동사 + 주어 + that 구문의 도치가 맞으므로 오답이다.",
+    "passage": "A: ①<u>I have never seen such a long line at this bus stop</u>.\nB: ②<u>Neither have I</u>. ③<u>Here comes another bus over there</u>.\nA: ④<u>Rarely I have waited this long for a bus</u>.\nB: ⑤<u>So crowded is the street that traffic has stopped</u> completely.",
+    "stem": "다음 대화의 밑줄 친 부분 중 어법상 어색한 것을 고르시오."
+  },
+  "tab": "6l39qm2m",
+  "updatedAt": "2026-10-26T08:54:15.545Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T08:54:15.545Z",
+      "what": "확인 완료"
+    }
+  }
+}

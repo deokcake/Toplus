@@ -1,0 +1,179 @@
+{
+ "key": "2-2",
+ "type": "D",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "title": "5형식과 1형식 구별하기",
+ "total_sec": 126,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "2급 · CH 1 문장의 형식 · 2번 · D 유형\n\n이 문제는 목적격 보어가 있는지 따져 5형식이 아닌 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 1 문장의 형식 · 2번 · D 유형",
+     "이 문제는 목적격 보어가 있는지 따져 5형식이 아닌 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 1, 2번 D 유형. 이 문제는 목적격 보어가 있는지 따져 5형식이 아닌 문장을 고르는 문제예요.",
+   "caption": "5형식이 아닌 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 5형식 문장이 아닌 것을 고르시오.\n\n① We found the box empty.\n② The sun rose slowly.\n③ The coach made us confident.\n④ I saw the boy crossing the street.\n⑤ They painted the door green.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 5형식 문장이 아닌 것을 고르시오.",
+     "① We found the box empty.",
+     "② The sun rose slowly.",
+     "③ The coach made us confident.",
+     "④ I saw the boy crossing the street.",
+     "⑤ They painted the door green."
+    ]
+   },
+   "narration": "다음 중 5형식 문장이 아닌 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n5형식 = 주어 + 동사 + 목적어 + 목적격 보어\n목적격 보어(명사, 형용사, to부정사, 분사 등) → 목적어의 이름·신분·상태·행동을 설명\n동사 뒤에 목적어·보어 없이 부사(구)만 있으면 → 1형식 (부사는 형식에 세지 않아요)\n예) The song makes me happy. (그 노래는 나를 행복하게 해요. happy → me의 상태)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "5형식 = 주어 + 동사 + 목적어 + 목적격 보어",
+     "목적격 보어(명사, 형용사, to부정사, 분사 등) → 목적어의 이름·신분·상태·행동을 설명",
+     "동사 뒤에 목적어·보어 없이 부사(구)만 있으면 → 1형식 (부사는 형식에 세지 않아요)",
+     "예) The song makes me happy. (그 노래는 나를 행복하게 해요. happy → me의 상태)"
+    ]
+   },
+   "narration": "5형식 문장은 주어, 동사, 목적어 뒤에 목적격 보어가 오는 문장이에요. 목적격 보어는 명사, 형용사, to부정사, 분사 같은 말로, 목적어의 이름이나 신분, 상태, 행동을 설명해요. 예를 들어 The song makes me happy. 그 노래는 나를 행복하게 해요. 반면 동사 뒤에 목적어도 보어도 없이 부사나 부사구만 있으면 1형식이에요.",
+   "caption": "목적어 + 목적격 보어 = 5형식"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 5형식 문장이 아닌 것을 고르시오.\n\n① We found the box empty.\n② The sun rose slowly.\n③ The coach made us confident.\n④ I saw the boy crossing the street.\n⑤ They painted the door green.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "5형식 문장이 아닌 것"
+      ],
+      "strike": [],
+      "note": "5형식이 ‘아닌’ 것 → 문장마다 동사 뒤에 ‘목적어 + 목적어를 설명하는 말’이 있는지 본다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "the box empty",
+       "us confident",
+       "the boy crossing the street",
+       "the door green"
+      ],
+      "strike": [
+       "① We found the box empty.",
+       "③ The coach made us confident.",
+       "④ I saw the boy crossing the street.",
+       "⑤ They painted the door green."
+      ],
+      "note": "empty·confident·green = 상태, crossing the street = the boy의 행동 → ①③④⑤ 모두 5형식"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "rose slowly"
+      ],
+      "strike": [],
+      "note": "rose 뒤에 목적어 없음, slowly = 동사를 꾸미는 부사 → 1형식"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 동사 뒤에 목적어와 그 목적어를 설명하는 말이 함께 있는지 봐요. 둘째, 1번 empty, 3번 confident, 5번 green은 the box, us, the door의 상태를, 4번 crossing the street는 the boy가 하고 있던 행동을 나타내요. 그래서 이 네 문장은 모두 5형식이에요. 셋째, 2번은 rose 뒤에 목적어가 없고, slowly는 동사를 꾸미는 부사라서 1형식이에요.",
+   "caption": "보어 확인 → 부사만 → ②"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 27,
+   "screen": {
+    "text": "① We found the box empty.  ✗  empty가 the box의 상태 → 5형식\n② The sun rose slowly.  ✓  rose 뒤에 부사 slowly만 → 1형식\n③ The coach made us confident.  ✗  confident가 us의 상태 → 5형식\n④ I saw the boy crossing the street.  ✗  crossing the street가 the boy의 행동 → 5형식\n⑤ They painted the door green.  ✗  green이 칠한 뒤 the door의 색깔 → 5형식",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① We found the box empty.  ✗  empty가 the box의 상태 → 5형식",
+     "② The sun rose slowly.  ✓  rose 뒤에 부사 slowly만 → 1형식",
+     "③ The coach made us confident.  ✗  confident가 us의 상태 → 5형식",
+     "④ I saw the boy crossing the street.  ✗  crossing the street가 the boy의 행동 → 5형식",
+     "⑤ They painted the door green.  ✗  green이 칠한 뒤 the door의 색깔 → 5형식"
+    ]
+   },
+   "narration": "정답은 2번 The sun rose slowly, 해가 천천히 떴다는 문장이에요. 5번은 문을 칠했다는 3형식처럼 보이지만, green이 칠한 뒤 문의 색깔을 설명하니 5형식이에요. 1번 found는 여기서 상자가 비어 있다는 것을 알게 되었다는 뜻이고, empty가 the box의 상태를 설명하는 5형식이에요.",
+   "caption": "정답 ② (1형식)"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② The sun rose slowly.\n\n목적어 + 목적격 보어 → 5형식, 동사 뒤에 부사(구)만 → 1형식",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② The sun rose slowly.",
+     "목적어 + 목적격 보어 → 5형식, 동사 뒤에 부사(구)만 → 1형식"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 목적어 뒤에 그 목적어를 설명하는 목적격 보어가 있어야 5형식이에요.",
+   "caption": "목적어 + 목적격 보어 → 5형식"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 5형식 문장이 아닌 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "We found the box empty.",
+   "The sun rose slowly.",
+   "The coach made us confident.",
+   "I saw the boy crossing the street.",
+   "They painted the door green."
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 5형식은 S+V+O+OC이며 목적격보어는 목적어의 상태·신분·행동을 설명한다. 관사와 명사를 분리하지 않고 목적어 명사구 전체를 하나의 성분으로 본다.\n풀이 순서: ① 문장마다 동사 뒤에 ‘목적어 + 목적어를 설명하는 말’이 이어지는지 본다. → ② 목적어 뒤의 말이 목적어의 이름·상태·행동을 나타내면 5형식이다. → ③ 선택지 ②는 rose 뒤에 부사 slowly만 있는 1형식이다. 5형식이 아니다.\n문장별 판정:\n정답 판단: ‘The sun rose slowly’는 The sun(S) + rose(V) + 부사어의 1형식이다. 뒤의 표현이 있다면 부사어로 핵심 형식에 포함되지 않는다. 목적격보어가 없으므로 5형식이 아니다. 따라서 5형식이 아닌 선택지로 정답이다.\n선택지 분석:\n① [오답] ‘We found the box empty’는 We(S) + found(V) + the box(O) + empty(OC)의 5형식이다. 목적격보어가 목적어의 상태·신분·행동을 설명한다. 목적어와 목적격보어가 모두 있으므로 5형식이다. 5형식 문장이므로 오답이다.\n② [정답] ‘The sun rose slowly’는 The sun(S) + rose(V) + 부사어의 1형식이다. 뒤의 표현이 있다면 부사어로 핵심 형식에 포함되지 않는다. 목적격보어가 없으므로 5형식이 아니다. 발문이 요구한 5형식이 아닌 문장이므로 정답이다.\n③ [오답] ‘The coach made us confident’는 The coach(S) + made(V) + us(O) + confident(OC)의 5형식이다. 목적격보어가 목적어의 상태·신분·행동을 설명한다. 목적어와 목적격보어가 모두 있으므로 5형식이다. 5형식 문장이므로 오답이다.\n④ [오답] ‘I saw the boy crossing the street’는 I(S) + saw(V) + the boy(O) + crossing the street(OC)의 5형식이다. 목적격보어가 목적어의 상태·신분·행동을 설명한다. 목적어와 목적격보어가 모두 있으므로 5형식이다. 5형식 문장이므로 오답이다.\n⑤ [오답] ‘They painted the door green’는 They(S) + painted(V) + the door(O) + green(OC)의 5형식이다. 목적격보어가 목적어의 상태·신분·행동을 설명한다. 목적어와 목적격보어가 모두 있으므로 5형식이다. 5형식 문장이므로 오답이다."
+ }
+}

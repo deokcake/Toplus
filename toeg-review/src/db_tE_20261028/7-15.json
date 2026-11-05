@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T07:40:56.979Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A) Your - (B) Your",
+      "1": "(A) You - (B) Your",
+      "2": "(A) Your - (B) You",
+      "3": "(A) You - (B) You",
+      "4": "(A) Him - (B) Your"
+    },
+    "expl": "핵심 규칙: 문장의 주어 자리에는 주격(I, we, she, they)을, 명사 앞에는 소유격(my, our, her, their)을 쓴다.\n풀이 순서: ① (A): 뒤에 동사(are)가 오는 주어 자리다. 우리말 ‘~는’ → 주격 You. → ② (B): 뒤에 명사(bag)가 온다. 우리말 ‘~의’ → 소유격 Your. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: 주어 자리에 주격 You, 명사 앞에 소유격 Your를 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] (A): 주어 자리에는 주격(You)을 쓰므로 오답이다.\n② [정답] 주어 자리에 주격 You, 명사 앞에 소유격 Your를 바르게 썼으므로 정답이다.\n③ [오답] (A): 주어 자리에는 주격(You)을, (B): 명사 앞에는 소유격(Your)을 쓰므로 오답이다.\n④ [오답] (B): 명사 앞에는 소유격(Your)을 쓰므로 오답이다.\n⑤ [오답] (A): 주어 자리에는 주격(You)을 쓰므로 오답이다.",
+    "passage": "(A) ________ are my friend. (너는 내 친구이다.)\n(B) ________ bag is nice. (너의 가방은 멋지다.)",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T07:40:55.431Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T07:40:56.979Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T07:40:56.979Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+ "key": "5-33",
+ "type": "F",
+ "grade": 5,
+ "chapter": "CH 4 현재진행형",
+ "title": "현재진행형 틀린 문장 찾기",
+ "total_sec": 136,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "5급 · CH 4 현재진행형 · 33번 · F 유형\n\n이 문제는 현재진행형 문장 다섯 개 가운데 형태가 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 4 현재진행형 · 33번 · F 유형",
+     "이 문제는 현재진행형 문장 다섯 개 가운데 형태가 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 4, 33번 F 유형. 이 문제는 현재진행형 문장 다섯 개 가운데 형태가 틀린 문장을 고르는 문제예요.",
+   "caption": "현재진행형 틀린 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "틀린 문장을 고르시오.\n\n① The dog is running after the cat.\n② Does Jane cooking dinner now?\n③ We're waiting for you.\n④ The girls aren't laughing.\n⑤ Is it snowing outside?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "틀린 문장을 고르시오.",
+     "① The dog is running after the cat.",
+     "② Does Jane cooking dinner now?",
+     "③ We're waiting for you.",
+     "④ The girls aren't laughing.",
+     "⑤ Is it snowing outside?"
+    ]
+   },
+   "narration": "틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\n현재진행형(…하고 있다) = am/is/are + 동사의 -ing형\nI → am · 3인칭 단수(he, she, it, Tom) → is · you, 복수 → are\n부정문: be동사 뒤에 not · 예, 아니요 의문문: be동사를 주어 앞에\n진행형 의문문에는 Do/Does가 아니라 be동사\n예) Is he reading a book? (그는 책을 읽고 있나요?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재진행형(…하고 있다) = am/is/are + 동사의 -ing형",
+     "I → am · 3인칭 단수(he, she, it, Tom) → is · you, 복수 → are",
+     "부정문: be동사 뒤에 not · 예, 아니요 의문문: be동사를 주어 앞에",
+     "진행형 의문문에는 Do/Does가 아니라 be동사",
+     "예) Is he reading a book? (그는 책을 읽고 있나요?)"
+    ]
+   },
+   "narration": "현재진행형은 be동사 뒤에 동사의 ing형을 써서 주로 지금 하고 있는 일을 나타내요. be동사는 주어에 맞춰 I에는 am, he 같은 3인칭 단수에는 is, you와 복수에는 are를 써요. 진행형의 부정문은 be동사 뒤에 not을 쓰고, 예, 아니요로 묻는 의문문은 Do나 Does가 아니라 be동사를 주어 앞에 써요. Is he reading a book? 그는 책을 읽고 있나요?",
+   "caption": "be동사 + 동사의 ing형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 41,
+   "screen": {
+    "text": "틀린 문장을 고르시오.\n\n① The dog is running after the cat.\n② Does Jane cooking dinner now?\n③ We're waiting for you.\n④ The girls aren't laughing.\n⑤ Is it snowing outside?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "① The dog is",
+       "③ We're",
+       "④ The girls aren't"
+      ],
+      "strike": [],
+      "note": "평서문·부정문 ①③④: The dog → is, We're(We are), The girls → aren't → 맞다"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "⑤ Is it"
+      ],
+      "strike": [],
+      "note": "의문문은 be동사가 주어 앞: ⑤ Is it → 맞다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "Does"
+      ],
+      "strike": [],
+      "note": "② 지금 하고 있는지 묻는 진행형 의문문인데 Does ✗ → Is. 틀린 문장은 ②"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 주어와 be동사를 맞춰 보면, 1번 The dog에는 is, 3번은 We are를 줄인 We're, 4번 여럿인 The girls에는 aren't를 써서 맞아요. 둘째, 의문문인 5번은 주어 it 앞에 be동사 Is를 써서 맞아요. 셋째, 2번은 Jane이 지금 요리하고 있는지 묻는 진행형 의문문인데 be동사 대신 Does를 썼으니, 한 사람인 Jane에 맞게 Is로 고쳐야 해요. Is Jane cooking dinner now? 제인은 지금 저녁을 요리하고 있나요? 따라서 틀린 문장은 2번이에요.",
+   "caption": "주어와 be동사 → 의문문 → ②"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① The dog is running after the cat.  ✗  한 마리 The dog → is + running → 맞는 문장\n② Does Jane cooking dinner now?  ✓  진행형 의문문에는 Does가 아니라 be동사 → Does를 Is로 (틀린 문장)\n③ We're waiting for you.  ✗  We're = We are → 맞는 문장\n④ The girls aren't laughing.  ✗  여럿인 The girls → aren't(are not) → 맞는 문장\n⑤ Is it snowing outside?  ✗  주어 it → Is, 의문문이라 be동사가 주어 앞 → 맞는 문장",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① The dog is running after the cat.  ✗  한 마리 The dog → is + running → 맞는 문장",
+     "② Does Jane cooking dinner now?  ✓  진행형 의문문에는 Does가 아니라 be동사 → Does를 Is로 (틀린 문장)",
+     "③ We're waiting for you.  ✗  We're = We are → 맞는 문장",
+     "④ The girls aren't laughing.  ✗  여럿인 The girls → aren't(are not) → 맞는 문장",
+     "⑤ Is it snowing outside?  ✗  주어 it → Is, 의문문이라 be동사가 주어 앞 → 맞는 문장"
+    ]
+   },
+   "narration": "정답은 2번이에요. 일반동사 의문문처럼 Does를 쓰기 쉽지만, 진행형 의문문에는 Do나 Does가 아니라 be동사를 쓰니, Is를 주어 Jane 앞에 써야 해요. 3번 We're는 We are를 줄인 말이라 맞아요. 5번은 주어 it 앞에 Is를 써서 맞아요.",
+   "caption": "정답 ② Does → Is"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② Does Jane cooking dinner now?\n\n진행형 의문문에는 Do/Does가 아니라 be동사 (Is + 주어 + -ing형 …?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② Does Jane cooking dinner now?",
+     "진행형 의문문에는 Do/Does가 아니라 be동사 (Is + 주어 + -ing형 …?)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 진행형 의문문에는 Do나 Does가 아니라 be동사를 써요.",
+   "caption": "진행형 의문문은 be동사로"
+  }
+ ],
+ "source": {
+  "stem": "틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "The dog is running after the cat.",
+   "Does Jane cooking dinner now?",
+   "We're waiting for you.",
+   "The girls aren't laughing.",
+   "Is it snowing outside?"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 현재진행형은 am/is/are + 동사원형-ing로 쓰고, 부정문은 be동사 뒤에 not을, 의문문은 be동사를 주어 앞에 둔다. be동사는 주어에 맞춰 am/is/are를 쓴다.\n풀이 순서: ① 문장마다 주어를 찾아 be동사(am/is/are)가 맞는지 본다. 의문문의 주어는 be동사 뒤에 있다. → ② not의 자리, -ing형, be동사 대신 do/does를 쓰지 않았는지도 본다. → ③ 선택지 ②는 진행형 의문문을 Does로 시작했다(Is Jane cooking ~?). 정답은 ②.\n문장별 판정:\n정답 판단: 진행형 의문문은 Does가 아니라 be동사로 시작해 Is Jane cooking으로 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 주어에 맞는 be동사와 -ing형으로 진행형을 바르게 만들었으므로 오답이다.\n② [정답] 진행형 의문문은 Does가 아니라 be동사로 시작해 Is Jane cooking으로 써야 하므로 정답이다.\n③ [오답] 주어에 맞는 be동사와 -ing형으로 진행형을 바르게 만들었으므로 오답이다.\n④ [오답] 주어에 맞는 be동사와 -ing형으로 진행형을 바르게 만들었으므로 오답이다.\n⑤ [오답] 주어에 맞는 be동사와 -ing형으로 진행형을 바르게 만들었으므로 오답이다."
+ }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T04:59:37.726Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: if는 ‘만약 ~하면’, unless는 ‘~하지 않으면(= if ~ not)’이다. unless 뒤에 not을 또 쓰지 않는다. when은 ‘~할 때’, because는 ‘~ 때문에’, although는 ‘비록 ~이지만’이다.\n풀이 순서: ① 우리말에서 두 절을 잇는 말을 찾는다: ‘피곤하지만’. → ② 앞뒤가 서로 반대되는 내용이므로 Although(비록 ~이지만)를 쓴다. → ③ 정답은 If.\n문장별 판정:\n정답 판단: 뒤에 don't가 있어 If ~ not(~하지 않으면)이 되므로 정답은 ③이다.\n선택지 분석:\n① [오답] ‘~할 때’라 조건의 뜻과 맞지 않으므로 오답이다.\n② [오답] ‘~ 때문에’라 조건의 뜻과 맞지 않으므로 오답이다.\n③ [정답] 뒤에 don't가 있어 If ~ not(~하지 않으면)이 되므로 정답이다.\n④ [오답] unless에 이미 not의 뜻이 있어 don't와 함께 쓰면 뜻이 반대가 되므로 오답이다.\n⑤ [오답] ‘비록 ~이지만’이라 조건의 뜻과 맞지 않으므로 오답이다.",
+    "passage": "______ you don't like it, you can give it back.\n(그것이 마음에 들지 않으면, 돌려줘도 돼.)",
+    "stem": "다음 빈칸에 가장 적절한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T04:59:33.370Z"
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T04:59:37.726Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:59:37.726Z",
+      "what": "확인 완료"
+    }
+  }
+}

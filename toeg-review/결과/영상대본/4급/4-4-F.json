@@ -1,0 +1,180 @@
+{
+ "key": "4-4",
+ "type": "F",
+ "grade": 4,
+ "chapter": "CH 1 명사와 관사",
+ "title": "the를 반드시 쓰는 자리",
+ "total_sec": 136,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "4급 · CH 1 명사와 관사 · 4번 · F 유형\n\n이 문제는 다섯 문장 가운데 빈칸에 관사 the를 반드시 써야 하는 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 1 명사와 관사 · 4번 · F 유형",
+     "이 문제는 다섯 문장 가운데 빈칸에 관사 the를 반드시 써야 하는 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 1, 4번 F 유형. 이 문제는 다섯 문장 가운데 빈칸에 관사 the를 반드시 써야 하는 문장을 고르는 문제예요.",
+   "caption": "the를 반드시 쓰는 문장"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 18,
+   "screen": {
+    "text": "다음 중 ‘the’를 반드시 써야 하는 문장은?\n\n① She bought ________ new bag.\n② ________ cat is under the chair.\n③ ________ Pacific Ocean is very large.\n④ He needs ________ eraser.\n⑤ I eat ________ dinner with my family.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 ‘the’를 반드시 써야 하는 문장은?",
+     "① She bought ________ new bag.",
+     "② ________ cat is under the chair.",
+     "③ ________ Pacific Ocean is very large.",
+     "④ He needs ________ eraser.",
+     "⑤ I eat ________ dinner with my family."
+    ]
+   },
+   "narration": "다음 중 the를 반드시 써야 하는 문장은 무엇일까요? 다섯 문장의 빈칸을 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\n세상에 하나뿐인 것 → the (the sun, the moon, the sky)\n강·바다 이름 → the (the Nile) · 최상급 → 보통 the (the biggest)\n식사·운동 이름, go to school, go to bed → 보통 관사 없이\n정해지지 않은 셀 수 있는 것 하나 → a, an도 쓸 수 있어요\n예) Whales live in the Atlantic Ocean. (고래들은 대서양에 살아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "세상에 하나뿐인 것 → the (the sun, the moon, the sky)",
+     "강·바다 이름 → the (the Nile) · 최상급 → 보통 the (the biggest)",
+     "식사·운동 이름, go to school, go to bed → 보통 관사 없이",
+     "정해지지 않은 셀 수 있는 것 하나 → a, an도 쓸 수 있어요",
+     "예) Whales live in the Atlantic Ocean. (고래들은 대서양에 살아요.)"
+    ]
+   },
+   "narration": "the는 해, 달, 하늘처럼 세상에 하나뿐인 것과 강, 바다 이름 앞에 쓰고, biggest 같은 최상급 앞에도 보통 써요. 식사와 운동 이름 앞, go to school과 go to bed에는 보통 관사를 쓰지 않아요. 정해지지 않은 셀 수 있는 것 하나에는 a나 an을 쓸 수 있으니, the가 꼭 필요하지 않아요. 예를 들어 Whales live in the Atlantic Ocean, 고래들은 대서양에 살아요.",
+   "caption": "the를 쓰는 자리, 안 쓰는 자리"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 중 ‘the’를 반드시 써야 하는 문장은?\n\n① She bought ________ new bag.\n② ________ cat is under the chair.\n③ ________ Pacific Ocean is very large.\n④ He needs ________ eraser.\n⑤ I eat ________ dinner with my family.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "eat ________ dinner"
+      ],
+      "strike": [
+       "⑤ I eat ________ dinner with my family."
+      ],
+      "note": "관사를 쓰지 않는 자리 먼저 지우기: 식사 dinner → ⑤"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "new bag",
+       "cat",
+       "eraser"
+      ],
+      "strike": [
+       "① She bought ________ new bag.",
+       "② ________ cat is under the chair.",
+       "④ He needs ________ eraser."
+      ],
+      "note": "a, an을 써도 되는 자리 지우기: a new bag, A cat, an eraser(모음 소리) → ①②④"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ ________ Pacific Ocean is very large."
+      ],
+      "strike": [],
+      "note": "남는 ③: 바다 이름 Pacific Ocean → The Pacific Ocean"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 식사 이름 dinner 앞에는 보통 관사를 쓰지 않으니 5번을 지워요. 둘째, 1번 new bag, 2번 cat 앞에는 a를, 모음 소리로 시작하는 4번 eraser 앞에는 an을 쓸 수 있어요. 그래서 이 세 문장은 the가 꼭 필요하지 않아요. 셋째, 남는 3번의 Pacific Ocean, 곧 태평양은 바다 이름이라서 the를 꼭 써야 해요. The Pacific Ocean is very large. 태평양은 아주 넓어요.",
+   "caption": "관사 없음 → a, an 가능 → the만"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① She bought ________ new bag.  ✗  새 가방 하나 → a new bag도 돼요\n② ________ cat is under the chair.  ✗  고양이 한 마리 → A cat도 돼요\n③ ________ Pacific Ocean is very large.  ✓  바다 이름 → The Pacific Ocean\n④ He needs ________ eraser.  ✗  모음 소리 eraser → an eraser도 돼요\n⑤ I eat ________ dinner with my family.  ✗  식사 이름 앞 → 관사 없이 eat dinner",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① She bought ________ new bag.  ✗  새 가방 하나 → a new bag도 돼요",
+     "② ________ cat is under the chair.  ✗  고양이 한 마리 → A cat도 돼요",
+     "③ ________ Pacific Ocean is very large.  ✓  바다 이름 → The Pacific Ocean",
+     "④ He needs ________ eraser.  ✗  모음 소리 eraser → an eraser도 돼요",
+     "⑤ I eat ________ dinner with my family.  ✗  식사 이름 앞 → 관사 없이 eat dinner"
+    ]
+   },
+   "narration": "정답은 3번이에요. 태평양처럼 바다 이름 앞에는 the를 써요. 2번은 서로 아는 그 고양이라면 The cat도 쓸 수 있지만, 고양이 한 마리를 말할 때는 a를 쓰니 the가 반드시 필요하지는 않아요. 4번 eraser는 모음 소리로 시작해서 an을 쓸 수 있어요. 5번 dinner는 저녁 식사를 뜻하는 식사 이름이라서 보통 관사를 쓰지 않아요.",
+   "caption": "정답 ③ The Pacific Ocean"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ ________ Pacific Ocean is very large.\n\n강·바다 이름 → the (the Pacific Ocean)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ ________ Pacific Ocean is very large.",
+     "강·바다 이름 → the (the Pacific Ocean)"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 태평양 같은 바다 이름과 강 이름 앞에는 the를 써요.",
+   "caption": "강·바다 이름 → the"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 ‘the’를 반드시 써야 하는 문장은?",
+  "passage": "",
+  "c": [
+   "She bought ________ new bag.",
+   "________ cat is under the chair.",
+   "________ Pacific Ocean is very large.",
+   "He needs ________ eraser.",
+   "I eat ________ dinner with my family."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 유일하거나 특정한 대상에는 the를 쓰고, 식사·운동·학교의 본래 목적에는 보통 관사를 쓰지 않는다.\n풀이 순서: ① 관사를 쓰지 않는 자리(식사·운동 이름, go to school/bed)를 먼저 지운다. → ② a/an을 써도 되는 자리(처음 말하는 단수 명사)를 지운다. → ③ 남는 것은 바다 이름 Pacific Ocean 앞이다. 바다·강 이름 앞에는 the를 쓴다. 정답은 ③.\n문장별 판정:\n정답 판단: 유일하거나 고유하게 특정되는 대상이므로 the가 필요하다. 따라서 the가 반드시 필요한 선택지이다.\n선택지 분석:\n① She bought ________ new bag. - 오답. 특정하지 않은 대상을 처음 소개하는 뜻이라면 자음 소리 앞에 a를 쓸 수도 있다. 문맥상 특정하면 the도 가능하지만, 이 문장만으로 the가 반드시 필요하지는 않다. 따라서 the가 반드시 필요한 선택지가 아니다.\n② ________ cat is under the chair. - 오답. 특정하지 않은 대상을 처음 소개하는 뜻이라면 자음 소리 앞에 a를 쓸 수도 있다. 문맥상 특정하면 the도 가능하지만, 이 문장만으로 the가 반드시 필요하지는 않다. 따라서 the가 반드시 필요한 선택지가 아니다.\n③ ________ Pacific Ocean is very large. - 정답. 유일하거나 고유하게 특정되는 대상이므로 the가 필요하다. 따라서 the가 반드시 필요한 선택지이다.\n④ He needs ________ eraser. - 오답. 특정하지 않은 대상을 처음 소개하는 뜻이라면 모음 소리 앞에 an을 쓸 수도 있다. 문맥상 특정하면 the도 가능하지만, 이 문장만으로 the가 반드시 필요하지는 않다. 따라서 the가 반드시 필요한 선택지가 아니다.\n⑤ I eat ________ dinner with my family. - 오답. 식사·운동·학교/생활의 관용적 용법으로 관사를 쓰지 않는 표현이다. 따라서 the가 반드시 필요한 선택지가 아니다."
+ }
+}

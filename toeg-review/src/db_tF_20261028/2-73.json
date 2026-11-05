@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T11:37:57.374Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Who is the girl <u>dancing</u> with Tom?",
+      "1": "He showed me a photo <u>taken</u> in Paris.",
+      "2": "The car <u>parking</u> in front of my house is not mine.",
+      "3": "The <u>smiling</u> girl waved at me.",
+      "4": "English is a language <u>spoken</u> all over the world."
+    },
+    "expl": "핵심 규칙: 명사가 직접 하는 동작은 현재분사로, 동작을 받거나 그 결과 상태에 있는 명사는 과거분사로 꾸민다.\n풀이 순서: ① 밑줄 친 분사가 꾸미는 명사를 찾아 ‘명사가 ~하다’(능동)인지 ‘명사가 ~되다’(수동)인지 본다. → ② 능동이면 -ing, 수동이면 과거분사다. by ~, 과거 시점 표현은 수동의 단서다. → ③ 선택지 ③이 어색하다: 차는 주차‘된’ 것이므로 parked가 맞다.\n문장별 판정:\n정답 판단: 명사(The car)는 주차된 대상이므로 과거분사(parked)로 써야 한다. 어색한 부분이므로 정답은 ③이다.\n선택지 분석:\n① [오답] 현재분사: 명사(the girl)가 직접 춤추는 능동 관계라 알맞으므로 오답이다.\n② [오답] 과거분사: 명사(a photo)가 찍힌 수동 관계라 알맞으므로 오답이다.\n③ [정답] 명사(The car)는 주차된 대상이므로 과거분사(parked)로 써야 한다. 어색한 부분이므로 정답이다.\n④ [오답] 현재분사: 명사(girl)가 직접 웃는 능동 관계라 알맞으므로 오답이다.\n⑤ [오답] 과거분사: 명사(a language)가 쓰이는 수동 관계라 알맞으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T11:37:45.224Z"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T11:37:57.374Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T11:37:57.374Z",
+      "what": "확인 완료"
+    }
+  }
+}

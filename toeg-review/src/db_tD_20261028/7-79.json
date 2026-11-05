@@ -1,0 +1,41 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-22T03:55:07.631Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "What do Tom do",
+      "1": "He plays the guitar",
+      "2": "What do Jane and Amy do",
+      "3": "They dance",
+      "4": "What do you do"
+    },
+    "expl": "핵심 규칙: What 의문문은 What + do/does + 주어 + 동사원형 ~?으로, 대답은 주어에 맞는 현재형으로 쓴다. 3인칭 단수 주어에는 does와 -s형, 그 밖의 주어에는 do와 동사원형을 쓴다.\n풀이 순서: ① 밑줄마다 주어를 찾는다. 묻는 문장은 do/does가, 대답은 동사의 꼴이 주어와 맞아야 한다. → ② 3인칭 단수 주어(he, she, it, 한 사람·한 마리)면 does와 -s형, 아니면 do와 원형이다. → ③ 선택지 ①의 주어 Tom은 한 사람이라 do가 아니라 does를 쓴다. 정답은 ①.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 Tom에는 do가 아니라 does를 써야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] 3인칭 단수 주어 Tom에는 do가 아니라 does를 써야 하므로 정답이다.\n② [오답] 3인칭 단수 주어 He에 plays를 바르게 썼으므로 오답이다.\n③ [오답] 복수 주어 Jane and Amy에 do를 바르게 썼으므로 오답이다.\n④ [오답] 주어 They에 동사원형 dance를 바르게 썼으므로 오답이다.\n⑤ [오답] 주어 you에 do와 동사원형 do를 바르게 썼으므로 오답이다.",
+    "passage": "Look at the club list. ①<u>What do Tom do</u>? ②<u>He plays the guitar</u>. ③<u>What do Jane and Amy do</u>? ④<u>They dance</u>. ⑤<u>What do you do</u>? I sing songs.",
+    "stem": "다음 지문을 읽고 밑줄 친 ①~⑤ 중 문법적으로 틀린 것을 고르세요."
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:55:05.739Z",
+      "text": "의문사가 틀린것으로 정답이 되는 보기로 바꿔"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:14:35.818Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T04:14:35.818Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:55:07.631Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:14:35.818Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

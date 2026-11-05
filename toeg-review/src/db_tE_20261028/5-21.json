@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T09:11:37.128Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": null,
+      "1": "Mom made a cake yesterday.",
+      "2": "They go to school every day.",
+      "3": "He was home.",
+      "4": null
+    },
+    "expl": "핵심 규칙: 과거를 나타내는 문장은 동사의 과거형(-ed, 불규칙 과거형, was/were, didn't)을 쓴다. 현재형은 지금의 습관·사실을 나타낸다.\n풀이 순서: ① 문장마다 동사의 형태를 본다. hit처럼 현재형과 과거형이 같은 동사는 last night 같은 때를 나타내는 말로 가른다. → ② 과거형(-ed, 불규칙, was/were, did)인 문장을 지운다. → ③ 선택지 ③의 go는 현재형이고 every day도 지금의 습관을 나타낸다. 정답은 ③.\n문장별 판정:\n정답 판단: 현재형(go)으로 지금의 습관을 나타내 과거가 아니므로 정답은 ③이다.\n선택지 분석:\n① [오답] 과거형(played)을 쓴 과거의 문장이므로 오답이다.\n② [오답] 과거형(made)을 쓴 과거의 문장이므로 오답이다.\n③ [정답] 현재형(go)으로 지금의 습관을 나타내 과거가 아니므로 정답이다.\n④ [오답] 과거형(was)을 쓴 과거의 문장이므로 오답이다.\n⑤ [오답] 과거형(studied)을 쓴 과거의 문장이므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:11:35.020Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:11:37.128Z",
+      "what": "확인 완료"
+    }
+  }
+}

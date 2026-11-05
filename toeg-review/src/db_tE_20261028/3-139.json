@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-26T05:03:24.465Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "ⓐ는 '채소를 먹어라, 그렇지 않으면 몸이 나빠질 것이다'라는 경고의 뜻이다.",
+      "1": "ⓐ의 'and' 대신 'or'를 써도 같은 뜻이다.",
+      "2": "ⓐ를 'If'를 사용한 문장으로 바꾸면 'If you eat more vegetables, you will feel better.'가 된다.",
+      "3": "ⓐ의 'Eat'은 동명사 'Eating'으로 고쳐야 주어가 된다.",
+      "4": "ⓐ의 'you will feel better'는 명령문이므로 'feel better'로 고쳐야 한다."
+    },
+    "expl": "핵심 규칙: 명령문 + and는 ‘~해라, 그러면 …할 것이다’(If you ~), 명령문 + or는 ‘~해라, 그렇지 않으면 …할 것이다’(If you don't ~)의 뜻이다. 명령문은 주어 You를 생략하고 동사원형으로 시작한다.\n풀이 순서: ① ⓐ의 틀을 본다: 명령문 + and. → ② ‘~해라, 그러면 …할 것이다’라는 뜻이다. ‘그렇지 않으면’은 or일 때다. → ③ If 문장으로 바꿔 확인한다: If you eat more vegetables, you will feel better. 정답은 ③.\n문장별 판정:\n정답 판단: 명령문 + and를 If you ~로 바르게 바꿨으므로 정답은 ③이다.\n선택지 분석:\n① [오답] and는 ‘그러면’이라 경고의 뜻이 아니므로 오답이다.\n② [오답] or로 바꾸면 ‘먹지 않으면’의 뜻이 되어 달라지므로 오답이다.\n③ [정답] 명령문 + and를 If you ~로 바르게 바꿨으므로 정답이다.\n④ [오답] Eat은 명령문을 이끄는 동사원형이므로 오답이다.\n⑤ [오답] and 뒤는 명령문이 아니라 결과를 나타내는 평서문이므로 오답이다.",
+    "passage": "My sister wants to be healthy. The doctor told her, \"ⓐ<u>Eat more vegetables, and you will feel better</u>.\" Now she eats salad every day.",
+    "stem": "다음 지문의 밑줄 친 ⓐ에 대한 한국어 문법 설명으로 가장 적절한 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T05:03:09.024Z"
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T05:03:24.465Z",
+      "what": "확인 완료"
+    }
+  }
+}

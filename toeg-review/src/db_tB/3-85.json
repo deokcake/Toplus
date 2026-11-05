@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:01:42.751Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "ⓐ, ⓑ",
+      "1": "ⓐ, ⓒ",
+      "2": "ⓑ, ⓒ",
+      "3": "ⓑ, ⓓ",
+      "4": "ⓒ, ⓓ"
+    },
+    "expl": "핵심 규칙: want, hope, plan, decide는 to부정사를, enjoy, finish, avoid, keep, consider, give up, suggest, mind는 동명사를 목적어로 쓴다.\n풀이 순서: ① 밑줄 친 부분의 앞 동사가 동명사를 쓰는 동사인지 to부정사를 쓰는 동사인지 가른다. → ② enjoy, finish는 동명사를 쓰므로 ⓐ(enjoys to play), ⓒ(finished to paint)가 어색하다. hope, want는 to부정사를 쓰므로 ⓑ, ⓓ는 옳다. → ③ 정답은 ⓐ, ⓒ.\n문장별 판정:\nⓐ X. enjoy는 동명사(playing)를 목적어로 쓴다.\nⓑ O. hope + to부정사이다.\nⓒ X. finish는 동명사(painting)를 목적어로 쓴다.\nⓓ O. want + to부정사이다.\n정답 판단: 어법상 어색한 것은 ⓐ, ⓒ이다.\n선택지 분석:\n① [오답] ⓑ는 어색한 것이 아니고, 어색한 것 ⓒ를 빠뜨렸다. 따라서 오답이다.\n② [정답] 어색한 것 ⓐ, ⓒ를 빠짐없이 골랐으므로 정답이다.\n③ [오답] ⓑ는 어색한 것이 아니고, 어색한 것 ⓐ를 빠뜨렸다. 따라서 오답이다.\n④ [오답] ⓑ, ⓓ는 어색한 것이 아니고, 어색한 것 ⓐ, ⓒ를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] ⓓ는 어색한 것이 아니고, 어색한 것 ⓐ를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "ⓐ Tom <u>enjoys to play</u> tennis.\nⓑ She <u>hopes to become</u> a nurse.\nⓒ We <u>finished to paint</u> the wall.\nⓓ I <u>want to visit</u> Paris.",
+    "stem": "다음 중 밑줄 친 부분의 쓰임이 어법상 어색한 것끼리 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:01:38.323Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:01:42.751Z",
+      "what": "확인 완료"
+    }
+  }
+}

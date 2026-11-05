@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차: 길이)",
+  "done": true,
+  "doneAt": "2026-10-28T03:31:10.855Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "many - little - a lot of",
+      "1": "much - a few - a lot of",
+      "2": "much - little - many",
+      "3": "a lot of - little - much",
+      "4": "much - a little - much"
+    },
+    "expl": "핵심 규칙: many·a few·few는 셀 수 있는 명사의 복수형, much·a little·little은 셀 수 없는 명사에 쓰고 a lot of는 둘 다에 쓴다. a few·a little은 ‘조금 있는’, few·little은 ‘거의 없는’이다.\n풀이 순서: ① 빈칸 뒤 명사가 셀 수 있는지 하나씩 본다: (A) milk 셀 수 없음, (B) 앞의 milk(셀 수 없음)를 가리킴, (C) eggs 셀 수 있음. → ② 셀 수 있으면 many·a few·few, 셀 수 없으면 much·a little·little, a lot of는 둘 다 된다. → ③ 세 자리가 모두 맞는 much - little - many가 정답이다.\n문장별 판정:\n정답 판단: (A) 셀 수 없는 milk에 much, (B) ‘거의 없다’는 뜻의 little, (C) 셀 수 있는 eggs에 many가 모두 알맞으므로 정답은 ③이다.\n선택지 분석:\n① [오답] (A) many: 셀 수 없는 milk에는 much를 써야 하므로 오답이다.\n② [오답] (B) a few: very 뒤에 쓸 수 없고 셀 수 없는 milk를 가리키고, little을 써야 하므로 오답이다.\n③ [정답] (A) 셀 수 없는 milk에 much, (B) ‘거의 없다’는 뜻의 little, (C) 셀 수 있는 eggs에 many가 모두 알맞으므로 정답이다.\n④ [오답] (A) a lot of: How 뒤의 수량 의문에는 much를 쓰고, (C) much: 셀 수 있는 eggs에는 many를 써야 하므로 오답이다.\n⑤ [오답] (B) a little: very 뒤에 쓸 수 없고 ‘조금 있다’는 뜻이라 사야 한다는 흐름과 맞지 않으며, (C) much: 셀 수 있는 eggs에는 many를 써야 하므로 오답이다.",
+    "passage": "Mom: How (A)________ milk is left in the fridge? I want to make some pancakes.\nSon: There's very (B)________. Only half a cup, I think. We need to buy some.\nMom: Okay, I'll go to the store. Do we need eggs, too?\nSon: Yes. We don't have (C)________ eggs, either. There are only two left.",
+    "stem": "다음 대화의 빈칸 (A)~(C)에 들어갈 말로 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:18:35.879Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:18:42.444Z",
+      "text": "기준 문항에 비해 지문이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:31:10.855Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:30:58.854Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:31:10.855Z",
+      "what": "확인 완료"
+    }
+  }
+}

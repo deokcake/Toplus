@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-04T11:53:22.459Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "The new system is far more efficient than the old one.",
+      "1": "The new system is more far efficient than the old one.",
+      "2": "The new system far is more efficient than the old one.",
+      "3": "The new system is far more efficient the old one than.",
+      "4": "The new system is more efficient far than the old one."
+    },
+    "expl": "핵심 규칙: much/far/even/a little은 비교급 바로 앞에서 정도를 나타낸다. 주어 + be동사 + 강조어 + 비교급 + than + 비교 대상(절) 어순으로 쓴다.\n풀이 순서: ① 주어(the new system)와 동사(is)를 먼저 세운다. → ② 비교급(more efficient) 바로 앞에 강조어(far)를 놓고, 그 뒤에 than을 붙인다. → ③ than 뒤에 비교 대상(the old one)을 이으면 The new system is far more efficient than the old one.\n문장별 판정:\n정답 판단: 주어 + be동사 + 강조어 + 비교급 + than 어순이 바르다. 정답은 ①이다.\n선택지 분석:\n① [정답] 주어 + be동사 + 강조어 + 비교급 + than 어순이 바르다. 정답이다.\n② [오답] 강조어·비교급의 짝이 흩어졌다. 강조어 + 비교급을 붙여 써야 한다. 오답이다.\n③ [오답] 강조어가 be동사 앞으로 가 주어 + be동사 어순이 깨졌다. 오답이다.\n④ [오답] than과 뒤의 말 순서가 뒤바뀌었다. than 뒤에 비교 대상(절)을 바른 어순으로 둔다. 오답이다.\n⑤ [오답] 강조어가 비교급 뒤로 갔다. 강조어는 비교급 바로 앞에 둔다. 오답이다.",
+    "passage": null,
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것으로 가장 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-04T11:52:43.184Z"
+  },
+  "tab": "7cl4h520",
+  "updatedAt": "2026-10-04T11:53:22.459Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-04T11:53:22.459Z",
+      "what": "확인 완료"
+    }
+  }
+}

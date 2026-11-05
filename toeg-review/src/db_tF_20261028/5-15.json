@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T10:41:48.986Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "A: Does it rain a lot here? B: Yes, it is.",
+      "1": "A: Am I right? B: Yes, I am.",
+      "2": "A: Do your parents work? B: No, they aren't.",
+      "3": "A: Is Jane your friend? B: Yes, she is.",
+      "4": "A: Does he like music? B: Yes, he do."
+    },
+    "expl": "핵심 규칙: be동사 의문문에는 be동사로, Do/Does 의문문에는 do/does로 답하며, 대답의 주어는 질문의 주어에 맞춘다(you → I, this → it).\n풀이 순서: ① 질문의 첫 낱말을 본다. be동사로 물으면 be동사로, Do/Does로 물으면 do/does로 답한다. → ② 대답의 주어와 동사가 서로 맞는지 본다. → ③ 선택지 ④만 Is Jane ~? - she is로 맞는다. 정답은 ④.\n문장별 판정:\n정답 판단: 질문의 동사와 주어에 맞게 바르게 대답했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] Does 의문문에는 does로 답하므로 오답이다.\n② [오답] I에 대한 질문에는 you로 받아 Yes, you are로 답하므로 오답이다.\n③ [오답] Do 의문문에는 don't로 답하므로 오답이다.\n④ [정답] 질문의 동사와 주어에 맞게 바르게 대답했으므로 정답이다.\n⑤ [오답] 주어 he에는 does로 답하므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:41:47.561Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:41:48.986Z",
+      "what": "확인 완료"
+    }
+  }
+}

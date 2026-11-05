@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:48:25.044Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 비교급을 겹쳐 쓰지 않고(more taller ×), very로 비교급을 강조하지 않는다. 원급 비교는 as + 원급 + as, 배수는 ~ times as + 원급 + as이며, 동사를 꾸밀 때는 부사를 쓴다.\n풀이 순서: ① 문장마다 비교 구문의 틀(as + 원급 + as, 비교급 + than, 강조어 + 비교급, 배수 표현)을 확인한다. → ② C)는 more와 -er을 겹쳐 썼고(more heavier), D)는 less와 more를 겹쳐 썼으며(less more careful), F)는 동사 speaks를 꾸미는 자리에 형용사 fluent를 썼다. 나머지 세 문장은 옳다. → ③ 틀린 문장을 세면 3개이다.\n문장별 판정:\nA) 옳음: much로 비교급을 강조했다.\nB) 옳음: as + 원급 + as이다.\nC) 틀림: more와 -er을 겹쳐 썼다. two times as heavy as(또는 twice as heavy as).\nD) 틀림: less와 more를 겹쳐 썼다. less careful.\nE) 옳음: No + as + 원급 + as이다.\nF) 틀림: 동사 speaks를 꾸미므로 부사 fluently를 써야 한다.\n정답 판단: 어법상 틀린 문장은 3개이다.\n선택지 분석:\n① [오답] 어법상 틀린 문장은 3개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 어법상 틀린 문장은 3개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [정답] 어법상 틀린 문장은 3개이다. 이 보기의 3개는 실제 개수와 일치한다.\n④ [오답] 어법상 틀린 문장은 3개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 틀린 문장은 3개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "A) This new train is much faster than the old one.\nB) Jane is as tall as her older sister Mina.\nC) This bag is two times more heavier than mine.\nD) Tom is less more careful than his friend Leo.\nE) No runner in our school is as fast as Mina.\nF) He speaks English as fluent as a native speaker.",
+    "stem": "다음 중 어법상 틀린 문장의 개수를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T07:12:09.265Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T07:13:53.746Z",
+      "text": "기준 문항에 비해 문장의 길이가 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:48:25.044Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:48:04.095Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:48:25.044Z",
+      "what": "확인 완료"
+    }
+  }
+}

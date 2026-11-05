@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T04:09:17.435Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "ⓐ, ⓑ",
+      "1": "ⓐ, ⓒ",
+      "2": "ⓑ, ⓒ",
+      "3": "ⓑ, ⓓ",
+      "4": "ⓒ, ⓓ"
+    },
+    "expl": "핵심 규칙: 지시어(this/that ↔ these/those)·명사·동사의 수를 맞춘다. 사람·동물의 소유는 's(복수 -s로 끝나면 '만), 사물의 소유는 of로 나타낸다.\n풀이 순서: ① 주어와 동사의 수가 맞는지 본다(pants·shoes는 복수, news는 단수, this/that + 단수, these/those + 복수). → ② 소유 표현을 본다(사람은 's, -s로 끝나는 복수명사는 ', 사물은 of). → ③ ⓐ The news are(is), ⓑ Those bag is(That bag is)가 틀렸다. 옳은 문장만 고른 ⓒ, ⓓ가 정답이다.\n문장별 판정:\nⓐ X. news는 단수 취급해 is를 쓴다.\nⓑ X. Those 뒤에는 복수명사 bags와 are를 쓴다(That bag is로 고쳐도 된다).\nⓒ O. 사람의 소유를 's로 나타냈다.\nⓓ O. 사물의 소유를 of로 나타내고 복수 legs에 are를 썼다.\n정답 판단: 어법상 옳은 문장은 ⓒ, ⓓ이다.\n선택지 분석:\n① [오답] ⓐ, ⓑ는 옳은 문장이 아니고, 옳은 문장 ⓒ, ⓓ를 빠뜨렸다. 따라서 오답이다.\n② [오답] ⓐ는 옳은 문장이 아니고, 옳은 문장 ⓓ를 빠뜨렸다. 따라서 오답이다.\n③ [오답] ⓑ는 옳은 문장이 아니고, 옳은 문장 ⓓ를 빠뜨렸다. 따라서 오답이다.\n④ [오답] ⓑ는 옳은 문장이 아니고, 옳은 문장 ⓒ를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 옳은 문장 ⓒ, ⓓ를 빠짐없이 골랐으므로 정답이다.",
+    "passage": "ⓐ The news from my sister are really good.\nⓑ Those bag on the desk is hers.\nⓒ This is Tom's new science book.\nⓓ The legs of the old table are short.",
+    "stem": "다음 중 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:11:03.421Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:11:06.814Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:09:17.435Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:09:09.103Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:09:17.435Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:32:29.474Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "throws",
+      "1": "is throw",
+      "2": "to throw",
+      "3": "throw",
+      "4": "throwing"
+    },
+    "expl": "핵심 규칙: 부정 명령문은 Don't + 동사원형으로 쓴다. Please가 붙어도 don't 뒤는 동사원형이다.\n풀이 순서: ① 밑줄 앞의 don't(Don't)를 본다. → ② don't 뒤는 동사원형이다. 밑줄 친 throwing의 원형을 찾는다. → ③ 정답은 throw.\n문장별 판정:\n정답 판단: don't 뒤에는 동사원형을 쓰므로 정답은 ④이다.\n선택지 분석:\n① [오답] don't 뒤에 -s형을 쓸 수 없으므로 오답이다.\n② [오답] don't 뒤에 be동사를 쓸 수 없으므로 오답이다.\n③ [오답] don't 뒤에 to부정사를 쓸 수 없으므로 오답이다.\n④ [정답] don't 뒤에는 동사원형을 쓰므로 정답이다.\n⑤ [오답] 밑줄 친 형태 그대로라 고친 것이 아니므로 오답이다.",
+    "passage": "Please don't <u>throwing</u> trash here.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:32:27.182Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:32:29.474Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:32:29.474Z",
+      "what": "확인 완료"
+    }
+  }
+}

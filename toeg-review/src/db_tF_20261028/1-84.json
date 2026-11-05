@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T07:18:07.920Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Jeju Island, (<u>which</u>) many tourists visit, is famous for its beaches.",
+      "1": "The problem (<u>which</u>) Jane solved was difficult.",
+      "2": "The teacher (<u>who</u>) teaches us science is funny.",
+      "3": "My best friend, (<u>whom</u>) I met in kindergarten, moved away.",
+      "4": "The train (<u>that</u>) leaves at noon is full."
+    },
+    "expl": "핵심 규칙: 관계대명사는 제한적 용법의 목적격일 때만 생략할 수 있다. 주격이나, 쉼표 뒤 계속적 용법의 관계대명사는 생략할 수 없다.\n풀이 순서: ① 괄호 속 관계대명사 바로 뒤를 본다. 뒤에 ‘주어 + 동사’가 이어지면 목적격, 동사가 바로 오면 주격이다. → ② 목적격만 생략할 수 있다. 단, 쉼표 뒤(계속적 용법)에서는 목적격도 생략할 수 없다. → ③ 쉼표가 없고 뒤에 Jane solved가 이어지는 것은 ②뿐이다. ①과 ④는 목적격이지만 쉼표 뒤라 생략할 수 없다. 정답은 ②.\n문장별 판정:\n정답 판단: 제한적 용법의 목적격 관계대명사라 생략할 수 있다. 정답은 ②이다.\n선택지 분석:\n① [오답] 쉼표 뒤 계속적 용법이라 목적격이어도 생략할 수 없다. 오답이다.\n② [정답] 제한적 용법의 목적격 관계대명사라 생략할 수 있다. 정답이다.\n③ [오답] 주격 관계대명사라 생략할 수 없다. 오답이다.\n④ [오답] 쉼표 뒤 계속적 용법이라 목적격이어도 생략할 수 없다. 오답이다.\n⑤ [오답] 주격 관계대명사라 생략할 수 없다. 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T07:18:03.722Z"
+  },
+  "tab": "mtbqujsm",
+  "updatedAt": "2026-10-26T07:18:07.920Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T07:18:07.920Z",
+      "what": "확인 완료"
+    }
+  }
+}

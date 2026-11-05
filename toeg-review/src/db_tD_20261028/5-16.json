@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T09:21:23.999Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": "Yes, they does.",
+      "3": "Yes, they works.",
+      "4": "Yes, they can."
+    },
+    "expl": "핵심 규칙: Do/Does 의문문에는 Yes, 주어 + do/does. / No, 주어 + don't/doesn't.로 짧게 답한다. 주어가 3인칭 단수면 does, 그 밖에는 do를 쓴다.\n풀이 순서: ① 질문의 첫 낱말(Do)을 그대로 받아 답한다. → ② 주어를 대명사로 바꾼다: your parents → they. → ③ 정답은 Yes, they do.\n문장별 판정:\n정답 판단: Do 의문문에 do로 바르게 답했으므로 정답은 ①이다.\n선택지 분석:\n① [정답] Do 의문문에 do로 바르게 답했으므로 정답이다.\n② [오답] Do 의문문에는 be동사로 답하지 않으므로 오답이다.\n③ [오답] 복수 they에는 do를 쓰므로 오답이다.\n④ [오답] 짧은 대답에는 do를 쓰므로 오답이다.\n⑤ [오답] Do 의문문에는 can으로 답하지 않으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T09:21:22.127Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T09:21:23.999Z",
+      "what": "확인 완료"
+    }
+  }
+}

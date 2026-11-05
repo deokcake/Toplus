@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:25:08.013Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "(가), (다), (마)",
+      "1": "(나), (다), (라)",
+      "2": "(가), (나), (라)",
+      "3": "(다), (라), (마)",
+      "4": "(가), (나), (마)"
+    },
+    "expl": "핵심 규칙: what은 선행사를 포함해 ‘~하는 것’의 뜻으로 관계절 안에서 주어·목적어가 된다. 선행사(the thing, everything, all 등)가 있으면 what 대신 that·which를 쓰고, what 뒤 절에는 목적어를 다시 쓰지 않는다.\n풀이 순서: ① what 앞에 선행사(명사)가 있는지 본다. 선행사가 있으면 what을 쓸 수 없다. → ② what 뒤 절에 목적어(it)를 다시 쓰거나 what과 that을 겹쳐 쓴 것, 의문문 어순을 쓴 것도 틀린다. → ③ 틀린 문장을 지운다: (다) What Mina bought it, (라) The thing what. 남은 세 문장을 묶은 (가), (나), (마)가 정답이다.\n문장별 판정:\n(가) O. what이 told의 직접목적어 역할을 한다.\n(나) O. 선행사(The song) + 관계대명사 that이다.\n(다) X. what이 이미 bought의 목적어이므로 it을 다시 쓰지 않는다.\n(라) X. 선행사(The thing) 뒤에는 what을 쓰지 않는다.\n(마) O. 선행사(All) + 관계대명사 that이다.\n정답 판단: 옳은 문장은 (가), (나), (마)이고, 이 문장들로만 묶인 보기가 정답이다.\n선택지 분석:\n① [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (나)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (다), (라)는 옳은 문장이 아니고, 옳은 문장 (가), (마)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (라)는 옳은 문장이 아니고, 옳은 문장 (마)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (다), (라)는 옳은 문장이 아니고, 옳은 문장 (가), (나)를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 옳은 문장 (가), (나), (마)를 빠짐없이 골랐으므로 정답이다.",
+    "passage": "(가) I remember what Jane told me yesterday.\n(나) The song that he wrote for his mother is beautiful.\n(다) What Mina bought it at the mall was expensive.\n(라) The thing what I need now is time.\n(마) All that matters in this game is effort.",
+    "stem": "다음 중 어법상 옳은 문장으로만 묶인 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T01:17:29.923Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:17:40.406Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:25:08.013Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:25:05.354Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:25:08.013Z",
+      "what": "확인 완료"
+    }
+  }
+}

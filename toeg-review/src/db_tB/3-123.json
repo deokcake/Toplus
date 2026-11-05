@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T09:23:06.511Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "He eats either meat and fish.",
+      "1": "He eats neither meat nor fish.",
+      "2": "He eats both meat and fish.",
+      "3": "He eats not only meat but also fish.",
+      "4": "He eats either meat or fish."
+    },
+    "expl": "핵심 규칙: neither A nor B는 ‘A도 B도 아닌’, either A or B는 ‘A나 B 중 하나’, both A and B는 ‘A와 B 둘 다’라는 뜻이다.\n풀이 순서: ① 우리말이 둘 다 부정하는 문장임을 확인한다: ‘커피도 차도 마시지 않는다’. → ② ‘A도 B도 아닌’은 neither A nor B다. neither에 부정의 뜻이 있으므로 동사는 긍정형 그대로 쓴다. → ③ both, either, not only가 든 문장은 뜻이 다르다. 정답은 ②.\n문장별 판정:\n정답 판단: neither A nor B(A도 B도 아닌)로 바르게 옮겼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] either는 or와 짝을 이루고 뜻도 맞지 않으므로 오답이다.\n② [정답] neither A nor B(A도 B도 아닌)로 바르게 옮겼으므로 정답이다.\n③ [오답] both A and B는 ‘둘 다’라 부정의 뜻과 맞지 않으므로 오답이다.\n④ [오답] not only A but also B는 ‘A뿐 아니라 B도’라 부정의 뜻과 맞지 않으므로 오답이다.\n⑤ [오답] either A or B는 ‘둘 중 하나’라 뜻이 맞지 않으므로 오답이다.",
+    "passage": "그는 고기도 생선도 먹지 않는다.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:23:06.109Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T09:23:06.511Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:23:06.511Z",
+      "what": "확인 완료"
+    }
+  }
+}

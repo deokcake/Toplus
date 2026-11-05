@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:19:23.622Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "be",
+      "1": "have",
+      "2": "are",
+      "3": "is",
+      "4": "were"
+    },
+    "expl": "핵심 규칙: the number of + 복수명사는 “~의 수”라는 단수 개념이므로 동사는 the number에 맞춰 단수형을 쓴다. 뒤의 복수명사에 동사를 일치시키지 않는다.\n풀이 순서: ① 주어가 The number of ~로 시작한다. ‘~의 수’라는 뜻이므로 주어의 중심은 The number다. → ② 주어 안의 복수명사(accidents)에 끌리지 않고 단수 동사를 고른다. → ③ 빈칸 뒤에 -ing형(decreasing)이 있으므로 be동사 is가 들어간다. 정답은 ④.\n문장별 판정:\n정답 판단: The number of accidents의 중심어 The number가 단수이므로 is가 정답이다.\n선택지 분석:\n① [오답] 주어의 중심은 The number이라는 단수 표현이므로 be는 현재 문장의 수·형태와 맞지 않는다.\n② [오답] 주어의 중심은 The number이라는 단수 표현이므로 have는 현재 문장의 수·형태와 맞지 않는다.\n③ [오답] 주어의 중심은 The number이라는 단수 표현이므로 are는 현재 문장의 수·형태와 맞지 않는다.\n④ [정답] 주어의 중심은 복수명사 accidents가 아니라 The number이므로 단수동사 is가 맞다.\n⑤ [오답] 주어의 중심은 The number이라는 단수 표현이므로 were는 현재 문장의 수·형태와 맞지 않는다.",
+    "passage": "The number of car accidents on this road ________ decreasing this year.",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:56:23.361Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:56:28.071Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:19:23.622Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:19:19.745Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:19:23.622Z",
+      "what": "확인 완료"
+    }
+  }
+}

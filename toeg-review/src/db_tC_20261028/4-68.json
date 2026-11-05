@@ -1,0 +1,35 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:34:05.859Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "(A) fastly - (B) hard",
+      "1": "(A) fast - (B) hard",
+      "2": "(A) fast - (B) hardly",
+      "3": "(A) fastly - (B) hardly",
+      "4": "(A) hardly - (B) fast"
+    },
+    "expl": "핵심 규칙: hard는 ‘열심히’, hardly는 ‘거의 ~않다’로 뜻이 다르다. fast는 -ly 없이 부사로 쓰고(fastly는 없다), quiet는 형용사, quietly는 부사이다. 빈도는 always, often, sometimes, seldom, rarely로 나타낸다.\n풀이 순서: ① (A) 앞뒤 문맥을 본다: 좋은 달리기 선수라고 했으므로 ‘빨리’ fast(-ly를 붙이지 않는다). → ② (B) 앞뒤 문맥을 본다: No라고 했으므로 ‘거의 ~않다’ hardly. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ③이다.\n선택지 분석:\n① [오답] (A) 빈칸 fastly: ‘빠르게’는 -ly 없이 fast로 쓴다, (B) 빈칸 hard: No라는 대답에 맞게 ‘거의 ~않다’의 hardly를 쓴다. 따라서 오답이다.\n② [오답] (B) 빈칸 hard: No라는 대답에 맞게 ‘거의 ~않다’의 hardly를 쓴다. 따라서 오답이다.\n③ [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n④ [오답] (A) 빈칸 fastly: ‘빠르게’는 -ly 없이 fast로 쓴다. 따라서 오답이다.\n⑤ [오답] (A) 빈칸 hardly: ‘빠르게’는 -ly 없이 fast로 쓴다, (B) 빈칸 fast: No라는 대답에 맞게 ‘거의 ~않다’의 hardly를 쓴다. 따라서 오답이다.",
+    "passage": "A: Is Jina a good runner?\nB: Yes. She runs very (<u>    A    </u>).\nA: Does she get tired after running?\nB: No, she (<u>    B    </u>) gets tired.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T06:19:06.705Z"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T06:19:06.705Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:34:05.859Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T06:19:06.705Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

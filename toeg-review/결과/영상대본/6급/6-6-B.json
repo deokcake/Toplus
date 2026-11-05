@@ -1,0 +1,179 @@
+{
+ "key": "6-6",
+ "type": "B",
+ "grade": 6,
+ "chapter": "CH 1 명사와 관사",
+ "title": "banana 앞에 쓰는 a와 an",
+ "total_sec": 120,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "6급 · CH 1 명사와 관사 · 6번 · B 유형\n\n이 문제는 명사 banana 앞에 들어갈 알맞은 말을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 1 명사와 관사 · 6번 · B 유형",
+     "이 문제는 명사 banana 앞에 들어갈 알맞은 말을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 1, 6번 B 유형. 이 문제는 명사 banana 앞에 들어갈 알맞은 말을 고르는 문제예요.",
+   "caption": "banana 앞 a와 an"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.\n\nShe is eating _______ banana.\n\n① an\n② a\n③ two\n④ many\n⑤ three",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 알맞은 단어를 고르세요.",
+     "She is eating _______ banana.",
+     "① an",
+     "② a",
+     "③ two",
+     "④ many",
+     "⑤ three"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 알맞은 단어를 고르세요. She is eating, 빈칸, banana. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 26,
+   "screen": {
+    "text": "핵심 규칙\n셀 수 있는 명사 하나를 말할 때 → 보통 앞에 a나 an ('하나의')\n첫소리가 자음 소리 → a (a cat, a book)\n첫소리가 모음 소리(아, 애, 에, 이, 오, 어 등) → an (an ant, an onion)\ntwo, three, many(많은) 뒤 → 복수형 (two cats, many books)\n예) I see a dog and an elephant. (나는 개 한 마리와 코끼리 한 마리를 봐요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "셀 수 있는 명사 하나를 말할 때 → 보통 앞에 a나 an ('하나의')",
+     "첫소리가 자음 소리 → a (a cat, a book)",
+     "첫소리가 모음 소리(아, 애, 에, 이, 오, 어 등) → an (an ant, an onion)",
+     "two, three, many(많은) 뒤 → 복수형 (two cats, many books)",
+     "예) I see a dog and an elephant. (나는 개 한 마리와 코끼리 한 마리를 봐요.)"
+    ]
+   },
+   "narration": "셀 수 있는 명사 하나를 말할 때는 보통 그 앞에 '하나의'라는 뜻의 a나 an을 써요. 바로 뒤 낱말의 첫소리가 자음 소리이면 a를 쓰고, 아, 애, 에, 이, 오, 어 같은 모음 소리이면 an을 써요. 글자 모양이 아니라 첫소리를 듣고 정해요. 그리고 two, three, many 뒤에는 복수형을 써요. 예를 들어 I see a dog and an elephant, 나는 개 한 마리와 코끼리 한 마리를 봐요.",
+   "caption": "첫소리로 a와 an을 골라요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.\n\nShe is eating _______ banana.\n\n① an\n② a\n③ two\n④ many\n⑤ three",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "_______ banana"
+      ],
+      "strike": [
+       "③ two",
+       "④ many",
+       "⑤ three"
+      ],
+      "note": "빈칸 뒤 banana = 단수형 → 복수형과 쓰는 two, many, three는 지우고 a, an만 남긴다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "banana"
+      ],
+      "strike": [
+       "① an"
+      ],
+      "note": "banana의 첫소리 = 자음 소리 → an도 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② a"
+      ],
+      "strike": [],
+      "note": "남는 것은 a → She is eating a banana."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 빈칸 뒤 banana는 bananas가 아닌 단수형이에요. 그래서 복수형과 함께 쓰는 two, many, three는 지우고, 하나를 나타내는 a와 an만 남겨요. 둘째, banana는 b라는 자음 소리로 시작하니까 모음 소리 앞에 쓰는 an도 지워요. 셋째, 남는 것은 a예요. She is eating a banana, 그녀는 바나나 하나를 먹고 있어요.",
+   "caption": "단수형 → 자음 소리 → a"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① an  ✗  banana는 자음 소리로 시작해서 an을 쓸 수 없어요\n② a  ✓  자음 소리로 시작하는 banana 앞에는 a\n③ two  ✗  two(둘) 뒤에는 복수형 bananas가 와야 해요\n④ many  ✗  many(많은) 뒤에는 복수형 bananas가 와야 해요\n⑤ three  ✗  three(셋) 뒤에는 복수형 bananas가 와야 해요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① an  ✗  banana는 자음 소리로 시작해서 an을 쓸 수 없어요",
+     "② a  ✓  자음 소리로 시작하는 banana 앞에는 a",
+     "③ two  ✗  two(둘) 뒤에는 복수형 bananas가 와야 해요",
+     "④ many  ✗  many(많은) 뒤에는 복수형 bananas가 와야 해요",
+     "⑤ three  ✗  three(셋) 뒤에는 복수형 bananas가 와야 해요"
+    ]
+   },
+   "narration": "정답은 2번 a예요. 1번 an은 모음 소리 앞에 쓰는 말이에요. banana는 b라는 자음 소리로 시작해서 an을 쓸 수 없어요. 3번 two와 5번 three는 둘과 셋을 나타내서 뒤에 bananas처럼 복수형이 와야 해요. 4번 many도 '많은'이라는 뜻이라 복수형과 함께 써요.",
+   "caption": "정답 ② a"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② a\n\na와 an은 첫소리로: 자음 소리 → a, 모음 소리 → an",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② a",
+     "a와 an은 첫소리로: 자음 소리 → a, 모음 소리 → an"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, a와 an은 뒤 낱말의 첫소리로 골라요. 자음 소리이면 a, 모음 소리이면 an이에요.",
+   "caption": "자음 소리 a, 모음 소리 an"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.",
+  "passage": "She is eating _______ banana.",
+  "c": [
+   "an",
+   "a",
+   "two",
+   "many",
+   "three"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 셀 수 있는 단수명사 앞에 a/an을 쓴다. 뒤 낱말이 모음 소리로 시작하면 an, 자음 소리로 시작하면 a다. two, three, many 뒤에는 복수형을 쓴다.\n풀이 순서: ① 빈칸 뒤가 단수명사(banana)이므로 a나 an이 필요하다. 둘 이상을 나타내는 말(two, three, many)을 지운다. → ② banana의 첫소리는 자음 소리. → ③ 정답은 a.\n문장별 판정:\n정답 판단: 자음 소리로 시작하는 banana 앞에 a를 쓰므로 정답은 ②이다.\n선택지 분석:\n① [오답] banana는 자음 소리로 시작해 an을 쓸 수 없으므로 오답이다.\n② [정답] 자음 소리로 시작하는 banana 앞에 a를 쓰므로 정답이다.\n③ [오답] two 뒤에는 복수형 bananas가 와야 하므로 오답이다.\n④ [오답] many 뒤에는 복수형 bananas가 와야 하므로 오답이다.\n⑤ [오답] three 뒤에는 복수형 bananas가 와야 하므로 오답이다."
+ }
+}

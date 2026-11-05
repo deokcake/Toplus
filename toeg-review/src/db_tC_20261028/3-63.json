@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T05:02:33.417Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "How _____ bread did you eat?",
+      "1": "How _____ salt should I add?",
+      "2": "How _____ information do you need?",
+      "3": "How _____ tickets did you buy?",
+      "4": "How _____ furniture is in the room?"
+    },
+    "expl": "핵심 규칙: How many + 셀 수 있는 명사의 복수형은 개수를, How much + 셀 수 없는 명사는 양을 묻는다. bread, salt, information, furniture, advice, paper, snow, luggage 등은 셀 수 없는 명사이다.\n풀이 순서: ① 빈칸 뒤 명사가 셀 수 있는지 본다. 셀 수 있는 복수 명사 앞은 How many, 셀 수 없는 명사 앞은 How much다. → ② 명사 끝의 복수형 -s가 단서다. tickets만 복수 명사라 many이고, bread, salt, information, furniture는 셀 수 없어 much다. → ③ 나머지와 다른 것은 ④이다.\n문장별 판정:\n정답 판단: tickets: 셀 수 있는 명사의 복수형이라 many가 들어가고, 나머지(much)와 달라 정답은 ④이다.\n선택지 분석:\n① [오답] bread: 셀 수 없는 명사라 much가 들어가므로 오답이다.\n② [오답] salt: 셀 수 없는 명사라 much가 들어가므로 오답이다.\n③ [오답] information: 셀 수 없는 명사라 much가 들어가므로 오답이다.\n④ [정답] tickets: 셀 수 있는 명사의 복수형이라 many가 들어가고, 나머지(much)와 달라 정답이다.\n⑤ [오답] furniture: 셀 수 없는 명사라 much가 들어가므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:02:25.935Z"
+  },
+  "tab": "fhh9u0lo",
+  "updatedAt": "2026-10-23T05:02:33.417Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:02:33.417Z",
+      "what": "확인 완료"
+    }
+  }
+}

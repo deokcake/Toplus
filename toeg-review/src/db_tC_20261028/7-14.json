@@ -1,0 +1,41 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-21 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:35:04.725Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "our",
+      "1": "their",
+      "2": "his",
+      "3": "her",
+      "4": "my"
+    },
+    "expl": "핵심 규칙: 명사 + ’s는 소유격 대명사로 바꾼다. 남자 한 명은 his, 여자 한 명은 her, 여럿은 their, 나를 포함한 여럿은 our이다.\n풀이 순서: ① 밑줄 친 말이 누구(무엇)의 것을 말하는지 본다: my brother(남자 한 명). → ② 그에 맞는 소유격은 his. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: my brother(남자 한 명)의 소유는 his로 바꾸므로 정답이다.\n선택지 분석:\n① [오답] our는 나를 포함한 여럿의 소유이므로 오답이다.\n② [오답] their는 여럿의 소유이므로 오답이다.\n③ [정답] my brother(남자 한 명)의 소유는 his로 바꾸므로 정답이다.\n④ [오답] her는 여자 한 명의 소유이므로 오답이다.\n⑤ [오답] my는 나의 소유라 형(오빠)의 소유를 나타내지 못하므로 오답이다.",
+    "passage": "The dog is <u>my brother's</u> pet.",
+    "stem": "다음 밑줄 친 부분을 대신할 말로 알맞은 것을 고르시오."
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-20T09:30:39.483Z",
+      "text": "his가정답이되는 문제로 바꿔"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:38:29.517Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T03:38:29.517Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-20T09:30:39.483Z",
+      "what": "메모 작성"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:38:29.517Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

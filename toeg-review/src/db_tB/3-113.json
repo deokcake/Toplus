@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T09:18:13.578Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "by - until",
+      "1": "until - by",
+      "2": "for - by",
+      "3": "until - at",
+      "4": "on - to"
+    },
+    "expl": "핵심 규칙: by는 ‘~까지’ 한 번 끝내야 하는 완료 기한(submit, return, finish, be back)을, until은 ‘~까지’ 계속되는 상태·동작의 끝(stay, wait, be open, last)을 나타낸다.\n풀이 순서: ① 동사가 한 번에 끝나는 동작인지, 계속되는 동작·상태인지 본다. → ② return(반납하다)은 한 번에 끝나는 동작이라 기한의 by, stay open(열려 있다)은 이어지는 상태라 until을 쓴다. → ③ 정답은 until - by.\n문장별 판정:\n정답 판단: 첫째 문장은 머무는 상태가 10시까지 계속되고, until, 둘째 문장은 파일을 수요일까지 보내 끝내야 하는 기한이고, by이므로 정답은 ②이다.\n선택지 분석:\n① [오답] 첫째 빈칸 by: 머무는 상태가 10시까지 계속되므로 until이다, 둘째 빈칸 until: 파일을 수요일까지 보내 끝내야 하는 기한이므로 by이다. 따라서 오답이다.\n② [정답] 첫째 문장은 머무는 상태가 10시까지 계속되고, until, 둘째 문장은 파일을 수요일까지 보내 끝내야 하는 기한이고, by이므로 정답이다.\n③ [오답] 첫째 빈칸 for: 머무는 상태가 10시까지 계속되므로 until이다. 따라서 오답이다.\n④ [오답] 둘째 빈칸 at: 파일을 수요일까지 보내 끝내야 하는 기한이므로 by이다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 on: 머무는 상태가 10시까지 계속되므로 until이다, 둘째 빈칸 to: 파일을 수요일까지 보내 끝내야 하는 기한이므로 by이다. 따라서 오답이다.",
+    "passage": "- You can stay here _____ ten o'clock.\n- Please send me the file _____ Wednesday.",
+    "stem": "다음 빈칸에 들어갈 가장 적절한 전치사를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:18:13.211Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T09:18:13.578Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:18:13.578Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T19:53:45.065Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "The scientist explained that water freezes at 0°C.",
+      "1": "We learned that King Sejong created Hangeul.",
+      "2": "I thought that the store is open at that time.",
+      "3": "Mina told me that she could speak three languages.",
+      "4": "He said that he had met the singer before."
+    },
+    "expl": "핵심 규칙: 주절이 과거이면 종속절도 과거·과거완료·would·could로 시제를 맞춘다. 단, 일반적 진리·속담·습관은 현재형, 역사적 사실은 과거형을 그대로 쓴다.\n풀이 순서: ① 문장마다 주절의 동사가 과거인지 확인하고 that절의 시제와 견준다. → ② 주절이 과거이면 that절은 과거·과거완료(would, could)여야 한다. 진리는 현재시제, 역사적 사실은 과거시제로 써도 된다. → ③ 선택지 ③은 주절이 과거이고 at that time의 일인데 현재형 is를 썼다(was). ①의 진리와 ②의 역사적 사실은 예외라 옳다.\n문장별 판정:\n정답 판단: at that time의 일인데 현재형 is를 써서 틀렸다. was로 써야 한다. 정답은 ③이다.\n선택지 분석:\n① [오답] 일반적 진리는 주절이 과거여도 현재형을 쓴다. 오답이다.\n② [오답] 역사적 사실은 주절과 관계없이 과거형을 쓴다. 오답이다.\n③ [정답] at that time의 일인데 현재형 is를 써서 틀렸다. was로 써야 한다. 정답이다.\n④ [오답] 주절(과거)에 맞춰 시제를 바르게 맞췄다. 오답이다.\n⑤ [오답] 주절(과거)에 맞춰 시제를 바르게 맞췄다. 오답이다.",
+    "passage": null,
+    "stem": "다음 중 어법상 어색한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:53:35.619Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:53:45.065Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:53:45.065Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-23T16:34:21.728Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 진행 수동태는 be being p.p., 완료 수동태는 have/has been p.p., 미래 수동태는 will be p.p.이다. make·지각동사의 원형부정사 보어는 수동태에서 to부정사가 되며 지각동사의 현재분사 보어는 그대로 둔다. be interested는 in과 함께 쓴다.\n풀이 순서: ① 문장마다 주어가 동작을 받는 대상인지 보고 ‘be동사 + 과거분사’가 갖춰졌는지 확인한다. 진행은 being, 완료는 been이 들어간다. → ② 사역·지각동사의 수동태 뒤 형태(to부정사·현재분사)와 전치사도 본다. → ③ ⓑ는 opened, ⓒ는 to sing(또는 singing), ⓓ는 written, ⓔ는 planted, ⓕ는 eaten으로 써야 한다. ⓐ만 옳다. 틀린 문장은 5개이다.\n문장별 판정:\nⓐ O. 완료 수동태(has been repaired)이다.\nⓑ X. being 뒤에는 과거분사를 쓴다. 교정문: The front door was being opened when I arrived home.\nⓒ X. 지각동사의 원형부정사 보어는 수동태에서 to부정사가 된다. 교정문: The little boy was heard to sing in the next room.\nⓓ X. 수동태에는 과거분사를 쓴다. 교정문: These books were written by a famous writer from Busan.\nⓔ X. being 뒤에는 과거분사를 쓴다. 교정문: The trees are being planted along the river by students.\nⓕ X. 수동태에는 과거분사를 쓴다. 교정문: The chocolate cake was eaten by my little brother.\n정답 판단: 어법상 틀린 문장은 ⓑ, ⓒ, ⓓ, ⓔ, ⓕ로 5개이다.\n선택지 분석:\n① [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓓ, ⓔ, ⓕ로 5개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓓ, ⓔ, ⓕ로 5개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓓ, ⓔ, ⓕ로 5개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓓ, ⓔ, ⓕ로 5개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [정답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓓ, ⓔ, ⓕ로 5개이다. 이 보기의 5개는 실제 개수와 일치한다.",
+    "passage": "ⓐ The old car has been repaired by my uncle this week.\nⓑ The front door was being open when I arrived home.\nⓒ The little boy was heard sing in the next room.\nⓓ These books were wrote by a famous writer from Busan.\nⓔ The trees are being plant along the river by students.\nⓕ The chocolate cake was ate by my little brother.",
+    "stem": "다음 중 어법상 틀린 문장의 개수를 고르시오."
+  },
+  "tab": "8s1sfi09",
+  "updatedAt": "2026-10-23T16:34:21.728Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:34:21.728Z",
+      "what": "확인 완료"
+    }
+  }
+}

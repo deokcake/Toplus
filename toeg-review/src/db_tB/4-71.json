@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-06T08:44:00.560Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "small – smaller – smallest",
+      "1": "fat – fatter – fattest",
+      "2": "bad – badder – baddest",
+      "3": "careful – more careful – most careful",
+      "4": "funny – funnier – funniest"
+    },
+    "expl": "핵심 규칙: 비교급·최상급은 보통 -er·-est(단모음 + 단자음은 자음을 겹쳐 쓰고, 자음 + y는 y를 i로)나 more·most(긴 단어)로 만들며, good·well - better - best, bad - worse - worst, many·much - more - most는 불규칙 변화이다.\n풀이 순서: ① 불규칙으로 변하는 낱말(good, bad, many, little, far)이 있는지 먼저 본다. → ② 나머지는 규칙(-er/-est, y → i, 자음 겹치기, more/most)대로인지 본다. → ③ bad - worse - worst인데 ③은 badder, baddest로 썼다. 정답은 ③.\n문장별 판정:\n정답 판단: bad는 불규칙 변화라 worse - worst로 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 규칙 변화를 바르게 연결했으므로 오답이다.\n② [오답] 단모음 + 단자음이라 자음을 겹쳐 쓴 형태로 바르게 연결했으므로 오답이다.\n③ [정답] bad는 불규칙 변화라 worse - worst로 써야 하므로 정답이다.\n④ [오답] 긴 단어라 more, most를 쓴 형태로 바르게 연결했으므로 오답이다.\n⑤ [오답] 자음 + y라 y를 i로 바꾼 형태로 바르게 연결했으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 단어의 비교급과 최상급이 잘못 연결된 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T08:43:58.134Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T08:44:00.560Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:30:37.483Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "I bought a red umbrella.",
+      "1": "Your idea sounds great.",
+      "2": "She is a smart girl.",
+      "3": "We live in a small town.",
+      "4": "He found an interesting book."
+    },
+    "expl": "핵심 규칙: 형용사는 명사 앞에서 명사를 꾸미거나(a nice bike), be동사·look·smell·taste·sound·become·feel 같은 동사 뒤에서 주어를 보충 설명한다(The soup tastes salty).\n풀이 순서: ① 선생님이 든 예문에서 형용사가 어디에 있는지 본다: salty가 동사 tastes 뒤에서 주어 the soup를 보충 설명한다. 보기 가운데 동사 뒤에서 주어를 설명하는 형용사는 ②의 great뿐이다. → ② 보기마다 형용사 바로 뒤에 명사가 있는지(명사 수식), 동사 뒤에서 문장이 끝나는지(주어 설명) 가른다. → ③ 예문과 같은 쓰임은 ②.\n문장별 판정:\n정답 판단: great: 동사 sounds 뒤에서 주어를 보충 설명하는 형용사이므로 선생님 설명과 같아 정답은 ②이다.\n선택지 분석:\n① [오답] red: 명사 umbrella 앞에서 명사를 꾸미는 형용사이므로 선생님 설명과 달라 오답이다.\n② [정답] great: 동사 sounds 뒤에서 주어를 보충 설명하는 형용사이므로 선생님 설명과 같아 정답이다.\n③ [오답] smart: 명사 girl 앞에서 명사를 꾸미는 형용사이므로 선생님 설명과 달라 오답이다.\n④ [오답] small: 명사 town 앞에서 명사를 꾸미는 형용사이므로 선생님 설명과 달라 오답이다.\n⑤ [오답] interesting: 명사 book 앞에서 명사를 꾸미는 형용사이므로 선생님 설명과 달라 오답이다.",
+    "passage": "선생님: 형용사는 명사 앞에서 명사를 수식하거나 동사 뒤에서 주어를 보충 설명할 수 있어요. \"The soup tastes salty.\"에서는 형용사 salty가 동사 tastes 뒤에서 주어 the soup을 보충 설명하고 있어요.",
+    "stem": "선생님 설명에 해당하는 문장을 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:30:36.593Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:30:37.483Z",
+      "what": "확인 완료"
+    }
+  }
+}

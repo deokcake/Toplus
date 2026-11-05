@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 순서 정정",
+  "done": true,
+  "doneAt": "2026-10-27T05:37:32.912Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "ⓐ의 'or'는 '또는'이라는 뜻으로 서두르거나 기차를 놓치거나 둘 중 하나라는 의미이다.",
+      "1": "ⓐ를 'If'를 사용한 문장으로 바꾸면 'If we hurry up, we will miss the train.'이 된다.",
+      "2": "ⓐ의 'or'를 'and'로 바꾸면 '서두르면 기차를 놓칠 것이다'가 되어 같은 뜻이다.",
+      "3": "ⓐ는 명령문 뒤에 'or'가 와서 '서두르지 않으면 기차를 놓칠 것이다'라는 뜻을 나타낸다.",
+      "4": "ⓐ의 'Hurry up'은 과거의 일이므로 'Hurried up'으로 고쳐야 한다."
+    },
+    "expl": "핵심 규칙: 명령문 + and는 ‘~해라, 그러면 …할 것이다’(If you ~), 명령문 + or는 ‘~해라, 그렇지 않으면 …할 것이다’(If you don't ~)의 뜻이다. 명령문은 주어 You를 생략하고 동사원형으로 시작한다.\n풀이 순서: ① ⓐ의 틀을 본다: 명령문 + or. → ② ‘~해라, 그렇지 않으면 …할 것이다’라는 뜻이다. → ③ If 문장으로 바꿔 확인한다: If we don't hurry up, we will miss the train. 정답은 ④.\n문장별 판정:\n정답 판단: 명령문 + or의 뜻을 바르게 설명했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 명령문 뒤의 or는 ‘그렇지 않으면’이라는 뜻이므로 오답이다.\n② [오답] 명령문 + or는 부정의 If절로 바꿔야 하므로 오답이다.\n③ [오답] and로 바꾸면 뜻이 반대가 되어 같은 뜻이 아니므로 오답이다.\n④ [정답] 명령문 + or의 뜻을 바르게 설명했으므로 정답이다.\n⑤ [오답] 명령문은 시제와 관계없이 동사원형으로 쓰므로 오답이다.",
+    "passage": "We planned a trip to the beach. On the morning of the trip, my friend called me and said, \"ⓐ<u>Hurry up, or we will miss the train</u>.\" I ran to the station.",
+    "stem": "다음 지문의 밑줄 친 ⓐ에 대한 한국어 문법 설명으로 가장 적절한 것은?"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:37:32.912Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:37:32.912Z",
+      "what": "확인 완료"
+    }
+  }
+}

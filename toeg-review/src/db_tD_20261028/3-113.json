@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:08:08.649Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "by - until",
+      "1": "until - on",
+      "2": "for - by",
+      "3": "until - by",
+      "4": "in - at"
+    },
+    "expl": "핵심 규칙: by는 ‘~까지’ 한 번 끝내야 하는 완료 기한(submit, return, finish, be back)을, until은 ‘~까지’ 계속되는 상태·동작의 끝(stay, wait, be open, last)을 나타낸다.\n풀이 순서: ① 동사가 한 번에 끝나는 동작인지, 계속되는 동작·상태인지 본다. → ② kept raining(계속 내렸다)은 저녁까지 이어진 상태라 until, be back(돌아오다)은 5시까지 마쳐야 하는 일이라 기한의 by를 쓴다. → ③ 정답은 until - by.\n문장별 판정:\n정답 판단: 첫째 문장은 비가 저녁까지 계속 내렸고, until, 둘째 문장은 5시까지 돌아오는 기한이고, by이므로 정답은 ④이다.\n선택지 분석:\n① [오답] 첫째 빈칸 by: 비가 저녁까지 계속 내렸으므로 until이다, 둘째 빈칸 until: 5시까지 돌아오는 기한이므로 by이다. 따라서 오답이다.\n② [오답] 둘째 빈칸 on: 5시까지 돌아오는 기한이므로 by이다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 for: 비가 저녁까지 계속 내렸으므로 until이다. 따라서 오답이다.\n④ [정답] 첫째 문장은 비가 저녁까지 계속 내렸고, until, 둘째 문장은 5시까지 돌아오는 기한이고, by이므로 정답이다.\n⑤ [오답] 첫째 빈칸 in: 비가 저녁까지 계속 내렸으므로 until이다, 둘째 빈칸 at: 5시까지 돌아오는 기한이므로 by이다. 따라서 오답이다.",
+    "passage": "- It kept raining all day _____ evening.\n- I'll be back home _____ five o'clock today.",
+    "stem": "다음 빈칸에 들어갈 가장 적절한 전치사를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:24:22.516Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:24:49.601Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:08:08.649Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:08:01.343Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:08:08.649Z",
+      "what": "확인 완료"
+    }
+  }
+}

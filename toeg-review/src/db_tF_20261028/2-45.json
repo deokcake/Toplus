@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T10:02:49.853Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Tom, Amy",
+      "1": "Amy, Jin, Mia",
+      "2": "Tom, Amy, Jin",
+      "3": "Tom, Jin, Leo",
+      "4": "Tom, Amy, Jin, Mia"
+    },
+    "expl": "핵심 규칙: 가목적어 it은 목적어 자리에 먼저 오고 진목적어(to부정사·that절)는 뒤에 온다. some은 긍정문·권유·부탁, any는 부정문·의문문에 주로 쓴다. each/every + 단수명사, each of + 복수명사는 단수 동사를 쓴다. 재귀 용법은 뺄 수 없고 강조 용법은 뺄 수 있다. others는 막연한 다른 몇몇, the others는 정해진 나머지 전부이다.\n풀이 순서: ① 학생마다 예문과 설명을 따로 따진다. 틀린 예문을 맞다고 하거나 용법을 잘못 말하면 틀린 설명이다. → ② Mia는 cut의 목적어인 himself를 뺄 수 있다고 했고, Leo는 others를 ‘남은 전부’로 풀었다(전부는 the others). 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Tom, Amy, Jin이다.\n문장별 판정:\nTom 옳음: 가목적어 it의 진목적어는 뒤의 to wake up early이다.\nAmy 옳음: 권유하는 의문문에는 some을 쓸 수 있다.\nJin 옳음: each of + 복수명사는 단수 동사(has)를 쓴다.\nMia 틀림: cut의 목적어인 재귀 용법이라 뺄 수 없다.\nLeo 틀림: 남은 다섯 명 전부는 the others로 나타내며, others는 막연한 다른 몇몇이다.\n정답 판단: 올바르게 설명한 학생은 Tom, Amy, Jin이다.\n선택지 분석:\n① [오답] 올바르게 설명한 학생 Jin를 빠뜨렸다. 따라서 오답이다.\n② [오답] Mia는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Tom를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 올바르게 설명한 학생 Tom, Amy, Jin를 빠짐없이 골랐으므로 정답이다.\n④ [오답] Leo는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Amy를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] Mia는 올바르게 설명한 학생이 아니다. 따라서 오답이다.",
+    "passage": "Tom: I found it hard to wake up early. 에서 진목적어는 to wake up early야.\nAmy: Would you like some cookies? 에서 some은 권유할 때 쓴 거야.\nJin: Each of my friends has a bike. 는 맞는 문장이야.\nMia: Kevin cut himself while cooking. 에서 himself를 빼도 문장이 온전해.\nLeo: Ten people came. Five stayed, and others left early. 에서 others는 남은 다섯 명 전부를 뜻해.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T10:02:28.886Z"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T10:02:49.853Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T10:02:49.853Z",
+      "what": "확인 완료"
+    }
+  }
+}

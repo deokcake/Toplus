@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T05:16:26.262Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: What date는 날짜, What day는 요일을 묻는다. 날짜의 일은 서수로 말하고, 날짜·요일을 말할 때는 비인칭 주어 It을 쓴다.\n풀이 순서: ① 설명을 하나씩 실제로 묻고 답하는 말에 대어 본다. → ② 가 X(What day에는 요일로 대답한다), 나 O, 다 O, 라 O. → ③ 옳은 것을 모두 모으면 나, 다, 라이다.\n문장별 판정:\n가 X. What day는 요일을 묻으므로 May 5th가 아니라 요일로 대답한다.\n나 O. What is the date today?는 날짜를 묻는다.\n다 O. 요일은 비인칭 주어 It으로 말한다.\n라 O. 1st는 서수 first이다.\n정답 판단: 옳은 설명은 나, 다, 라이다.\n선택지 분석:\n① [오답] 가는 옳은 설명이 아니고, 옳은 설명 다, 라를 빠뜨렸다. 따라서 오답이다.\n② [오답] 옳은 설명 나를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 옳은 설명 나, 다, 라를 빠짐없이 골랐으므로 정답이다.\n④ [오답] 가는 옳은 설명이 아니고, 옳은 설명 다를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] 가는 옳은 설명이 아니고, 옳은 설명 나, 라를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "[ 보기 ]\n가. 'What day is it today?'에는 'It is May 5th.'로 대답한다.\n나. 'What is the date today?'는 오늘 날짜를 묻는 표현이다.\n다. 요일을 말할 때는 'It is Friday.'처럼 It을 주어로 쓴다.\n라. 'June 1st'의 1st는 first로 읽는다.",
+    "stem": "영어로 날짜와 요일을 묻고 답하는 방법에 대한 설명으로 옳은 것을 모두 고른 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T05:16:24.991Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T05:16:26.262Z",
+      "what": "확인 완료"
+    }
+  }
+}

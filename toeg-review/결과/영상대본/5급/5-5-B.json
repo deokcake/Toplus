@@ -1,0 +1,180 @@
+{
+ "key": "5-5",
+ "type": "B",
+ "grade": 5,
+ "chapter": "CH 1 대명사",
+ "title": "자리에 맞는 대명사: 소유격 Its",
+ "total_sec": 126,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 1 대명사 · 5번 · B 유형\n\n이 문제는 주격, 목적격, 소유격, 소유대명사가 자리에 맞게 쓰인 옳은 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 1 대명사 · 5번 · B 유형",
+     "이 문제는 주격, 목적격, 소유격, 소유대명사가 자리에 맞게 쓰인 옳은 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 1, 5번 B 유형. 이 문제는 주격, 목적격, 소유격, 소유대명사가 자리에 맞게 쓰인 옳은 문장을 고르는 문제예요.",
+   "caption": "자리에 맞는 대명사 형태"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 옳은 문장을 고르시오.\n\n① We love ours teacher.\n② Its tail is very long.\n③ Me brother is a student.\n④ The red cap is his's.\n⑤ Them are my classmates.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 옳은 문장을 고르시오.",
+     "① We love ours teacher.",
+     "② Its tail is very long.",
+     "③ Me brother is a student.",
+     "④ The red cap is his's.",
+     "⑤ Them are my classmates."
+    ]
+   },
+   "narration": "다음 중 옳은 문장을 고르세요. 다섯 문장에서 대명사가 어느 자리에 쓰였는지 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n주어 자리 → 주격 (I, he, we, they) · 목적어 자리 → 목적격 (me, him, us, them)\n명사 앞에서 ‘누구의’ → 소유격 (my, your, his, her, its, our, their)\n명사 없이 ‘누구의 것’ → 소유대명사 (mine, yours, his, hers, ours, theirs)\n이 소유격·소유대명사에는 's를 붙이지 않아요 (it's는 it is의 줄임말)\n예) Her cat is white, but mine is black. (그녀의 고양이는 하얗고, 내 것은 까매요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "주어 자리 → 주격 (I, he, we, they) · 목적어 자리 → 목적격 (me, him, us, them)",
+     "명사 앞에서 ‘누구의’ → 소유격 (my, your, his, her, its, our, their)",
+     "명사 없이 ‘누구의 것’ → 소유대명사 (mine, yours, his, hers, ours, theirs)",
+     "이 소유격·소유대명사에는 's를 붙이지 않아요 (it's는 it is의 줄임말)",
+     "예) Her cat is white, but mine is black. (그녀의 고양이는 하얗고, 내 것은 까매요.)"
+    ]
+   },
+   "narration": "인칭대명사는 자리에 따라 모양이 달라서, 주어 자리에는 I, we 같은 주격을, 목적어 자리에는 me, us 같은 목적격을 써요. 명사 앞에서 누구의 것인지 나타낼 때는 my, our 같은 소유격을, 명사 없이 누구의 것이라고 말할 때는 mine, ours 같은 소유대명사를 써요. 이 소유격과 소유대명사에는 아포스트로피 에스를 붙이지 않고, 아포스트로피가 있는 it's는 it is를 줄인 말이에요. 예를 들어 Her cat is white, but mine is black. 그녀의 고양이는 하얗고, 내 것은 까매요.",
+   "caption": "자리에 따라 바뀌는 대명사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 옳은 문장을 고르시오.\n\n① We love ours teacher.\n② Its tail is very long.\n③ Me brother is a student.\n④ The red cap is his's.\n⑤ Them are my classmates.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Them are"
+      ],
+      "strike": [
+       "⑤ Them are my classmates."
+      ],
+      "note": "주어 자리 → 주격: ⑤ Them → They"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "ours teacher",
+       "Me brother"
+      ],
+      "strike": [
+       "① We love ours teacher.",
+       "③ Me brother is a student."
+      ],
+      "note": "명사 앞 ‘누구의’ → 소유격: teacher 앞 our, brother 앞 My"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② Its tail is very long."
+      ],
+      "strike": [
+       "④ The red cap is his's."
+      ],
+      "note": "his에는 's를 붙이지 않는다 → ④ 지움. 남은 ② tail 앞 소유격 Its"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 5번은 주어 자리에 주격 They 대신 목적격 Them을 써서 틀렸어요. 둘째, 명사 앞에서 누구의 것인지 나타낼 때는 소유격을 써요. 그래서 teacher 앞의 ours와 brother 앞의 Me는 알맞지 않으니 1번과 3번은 틀렸어요. 셋째, his에는 아포스트로피 에스를 붙이지 않으니 4번도 틀렸고, 남은 2번은 tail 앞에 아포스트로피 없는 소유격 Its를 써서 맞아요. Its tail is very long. 그것의 꼬리는 아주 길어요.",
+   "caption": "주어 자리 → 명사 앞 → Its"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① We love ours teacher.  ✗  명사 teacher 앞에는 ours가 아니라 소유격 our\n② Its tail is very long.  ✓  명사 tail 앞에 ‘그것의’ → 소유격 Its\n③ Me brother is a student.  ✗  명사 brother 앞에는 목적격 Me가 아니라 소유격 My\n④ The red cap is his's.  ✗  ‘그의 것’은 his 그대로, 's를 붙이지 않아요\n⑤ Them are my classmates.  ✗  주어 자리에는 목적격 Them이 아니라 주격 They",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① We love ours teacher.  ✗  명사 teacher 앞에는 ours가 아니라 소유격 our",
+     "② Its tail is very long.  ✓  명사 tail 앞에 ‘그것의’ → 소유격 Its",
+     "③ Me brother is a student.  ✗  명사 brother 앞에는 목적격 Me가 아니라 소유격 My",
+     "④ The red cap is his's.  ✗  ‘그의 것’은 his 그대로, 's를 붙이지 않아요",
+     "⑤ Them are my classmates.  ✗  주어 자리에는 목적격 Them이 아니라 주격 They"
+    ]
+   },
+   "narration": "정답은 2번이에요. 아포스트로피가 없는 Its는 그것의라는 뜻의 소유격이라서 명사 tail 앞에 알맞아요. 1번 ours는 우리의 것이라는 소유대명사라서 명사 teacher 앞에는 소유격 our를 써야 해요. 4번은 그의 것이라는 뜻인데, his는 그대로 그의 것이라는 뜻으로도 쓰이니 아포스트로피 에스를 붙이지 않아요. 5번 Them은 목적격이라서 주어 자리에는 주격 They를 써요.",
+   "caption": "정답 ② Its"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② Its tail is very long.\n\n명사 앞 ‘그것의’ → 소유격 its · it's는 it is의 줄임말",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② Its tail is very long.",
+     "명사 앞 ‘그것의’ → 소유격 its · it's는 it is의 줄임말"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 명사 앞에서 그것의라고 나타낼 때는 아포스트로피 없는 소유격 its를 써요. 아포스트로피가 있는 it's는 it is를 줄인 말이에요.",
+   "caption": "‘그것의’ + 명사 → its"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "We love ours teacher.",
+   "Its tail is very long.",
+   "Me brother is a student.",
+   "The red cap is his's.",
+   "Them are my classmates."
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 명사 앞에는 소유격(my, our, his, its, their), 명사 없이 ‘~의 것’은 소유대명사(mine, ours, hers, yours, theirs), 주어 자리에는 주격, 목적어 자리에는 목적격을 쓴다. 소유격·소유대명사에는 '(아포스트로피)를 붙이지 않고, it's는 it is의 줄임말이다.\n풀이 순서: ① 대명사마다 자리를 본다: 주어 자리, 명사 앞, 명사 없이 ‘~의 것’. → ② 주어 자리는 주격, 명사 앞은 소유격, 명사가 없으면 소유대명사다. → ③ 선택지 ②만 명사 tail 앞에 소유격 Its를 써서 맞다. ①은 명사 앞에 ours, ③은 Me, ④는 his's, ⑤는 주어 자리에 Them을 썼다. 정답은 ②.\n문장별 판정:\n정답 판단: 명사 tail 앞에 소유격 Its를 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 명사 teacher 앞에는 소유격 our를 쓰므로 오답이다.\n② [정답] 명사 tail 앞에 소유격 Its를 바르게 썼으므로 정답이다.\n③ [오답] 명사 앞에는 소유격 My를 쓰므로 오답이다.\n④ [오답] his는 소유대명사로도 쓰여 's를 붙이지 않으므로 오답이다.\n⑤ [오답] 주어 자리에는 주격 They를 쓰므로 오답이다."
+ }
+}

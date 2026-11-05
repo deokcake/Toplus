@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T19:49:23.607Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "If Jane had brought her ID, she will have entered.",
+      "1": "If Jane would have brought her ID, she would have entered.",
+      "2": "If Jane brought her ID, she would have entered.",
+      "3": "If Jane had bring her ID, she would have entered.",
+      "4": "If Jane had brought her ID, she would have entered."
+    },
+    "expl": "핵심 규칙: 과거 사실의 반대는 If + 주어 + had + 과거분사, 주어 + would(could) have + 과거분사로 쓴다. if절에 would have를 쓰지 않고, 결과절의 have를 빠뜨리지 않는다.\n풀이 순서: ① 다섯 문장은 같은 내용이고 if절과 주절의 동사 형태만 다르다. → ② 과거 사실의 반대이므로 if절은 had + 과거분사(had brought), 주절은 would have + 과거분사(would have entered)여야 한다. → ③ 두 자리가 모두 맞는 문장을 고른다. 정답은 ⑤.\n문장별 판정:\n정답 판단: if절 had brought, 결과절 would have entered로 과거 사실의 반대를 바르게 나타냈다. 정답은 ⑤이다.\n선택지 분석:\n① [오답] 결과절에 will have를 쓰면 가정법이 아니다. 오답이다.\n② [오답] if절에는 would have를 쓰지 않는다. 오답이다.\n③ [오답] if절이 과거형이라 결과절과 시점이 맞지 않는다. 오답이다.\n④ [오답] had 뒤에는 과거분사 brought를 쓴다. 오답이다.\n⑤ [정답] if절 had brought, 결과절 would have entered로 과거 사실의 반대를 바르게 나타냈다. 정답이다.",
+    "passage": null,
+    "stem": "다음 중 어법상 가장 올바른 문장은 무엇인가?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:49:09.532Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:49:23.607Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:49:23.607Z",
+      "what": "확인 완료"
+    }
+  }
+}

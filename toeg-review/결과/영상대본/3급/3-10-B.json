@@ -1,0 +1,187 @@
+{
+ "key": "3-10",
+ "type": "B",
+ "grade": 3,
+ "chapter": "CH 1 be동사",
+ "title": "There 문장과 a lot of의 수",
+ "total_sec": 135,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "3급 · CH 1 be동사 · 10번 · B 유형\n\n이 문제는 was와 were가 주어에 맞게 쓰였는지 따져 틀린 문장의 개수를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 1 be동사 · 10번 · B 유형",
+     "이 문제는 was와 were가 주어에 맞게 쓰였는지 따져 틀린 문장의 개수를 고르는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 1, 10번 B 유형. 이 문제는 was와 were가 주어에 맞게 쓰였는지 따져 틀린 문장의 개수를 고르는 문제예요.",
+   "caption": "a lot of와 was, were"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 17,
+   "screen": {
+    "text": "다음 <보기> 중 어법상 틀린 문장의 개수는?\n\n<보기>\n- This morning, there was a lot of people waiting at the bus stop near my house.\n- The bus were late because of the heavy rain.\n- My friends and I were cold, but we talked and laughed together.\n- The driver was very kind and said sorry to everyone.\n\n① 1개\n② 2개\n③ 3개\n④ 4개\n⑤ 없음",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 <보기> 중 어법상 틀린 문장의 개수는?",
+     "<보기>",
+     "- This morning, there was a lot of people waiting at the bus stop near my house.",
+     "- The bus were late because of the heavy rain.",
+     "- My friends and I were cold, but we talked and laughed together.",
+     "- The driver was very kind and said sorry to everyone.",
+     "① 1개",
+     "② 2개",
+     "③ 3개",
+     "④ 4개",
+     "⑤ 없음"
+    ]
+   },
+   "narration": "다음 보기 중 어법상 틀린 문장의 개수를 고르세요. 네 문장을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 과거형: 주어가 I, 3인칭 단수(he, she, it, 단수 명사) → was\n주어가 you, 복수(we, they, 복수 명사) → were\nThere was, There were (…이 있었다) → 뒤에 오는 명사에 맞춰요\na lot of + 복수 명사 → were · a lot of + 셀 수 없는 명사 → was\n예) There were a lot of birds in the park. (공원에 새가 많이 있었어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 과거형: 주어가 I, 3인칭 단수(he, she, it, 단수 명사) → was",
+     "주어가 you, 복수(we, they, 복수 명사) → were",
+     "There was, There were (…이 있었다) → 뒤에 오는 명사에 맞춰요",
+     "a lot of + 복수 명사 → were · a lot of + 셀 수 없는 명사 → was",
+     "예) There were a lot of birds in the park. (공원에 새가 많이 있었어요.)"
+    ]
+   },
+   "narration": "be동사 과거형 was와 were는 '이었다', '있었다'라는 뜻이에요. 주어가 I나 3인칭 단수이면 was를, you나 복수이면 were를 써요. There was, There were는 뒤에 오는 명사에 맞추는데, a lot of 뒤에 복수 명사가 오면 were, 셀 수 없는 명사면 was예요. 예를 들어 There were a lot of birds in the park, 공원에 새가 많이 있었어요.",
+   "caption": "There 문장은 뒤 명사에 맞춰요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 35,
+   "screen": {
+    "text": "다음 <보기> 중 어법상 틀린 문장의 개수는?\n\n<보기>\n- This morning, there was a lot of people waiting at the bus stop near my house.\n- The bus were late because of the heavy rain.\n- My friends and I were cold, but we talked and laughed together.\n- The driver was very kind and said sorry to everyone.\n\n① 1개\n② 2개\n③ 3개\n④ 4개\n⑤ 없음",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "a lot of people"
+      ],
+      "strike": [
+       "there was a lot of people"
+      ],
+      "note": "There 문장: be동사 뒤 a lot of people(복수) → there were (was ✗)"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "My friends and I were",
+       "The driver was"
+      ],
+      "strike": [
+       "The bus were"
+      ],
+      "note": "나머지는 주어: The bus = 한 대 → was (were ✗) · My friends and I = 여러 명 → were ✓ · The driver = 한 명 → was ✓"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② 2개"
+      ],
+      "strike": [
+       "① 1개",
+       "③ 3개",
+       "④ 4개",
+       "⑤ 없음"
+      ],
+      "note": "틀린 문장: 첫째, 둘째 → 2개"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 첫 번째 문장처럼 there 뒤에 be동사가 오면 be동사 뒤의 명사 a lot of people에 맞춰요. people은 복수 명사라서 there were를 써야 하니 틀렸어요. 둘째, 나머지 문장은 주어를 봐요. The bus는 버스 한 대라서 was를 써야 하니 두 번째 문장은 틀렸고, 여러 명인 My friends and I에 were, 한 명인 The driver에 was를 쓴 문장은 옳아요. 셋째, 틀린 문장은 첫 번째와 두 번째, 모두 2개예요.",
+   "caption": "There 문장 → 주어 → 개수"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 27,
+   "screen": {
+    "text": "① 1개  ✗  첫째도 틀려요: a lot of people은 복수 → there were\n② 2개  ✓  틀린 문장은 첫째, 둘째 두 개\n③ 3개  ✗  셋째 My friends and I는 여러 명 → were가 맞아요\n④ 4개  ✗  넷째 The driver was도 옳아요\n⑤ 없음  ✗  둘째 The bus were부터 틀려요 (버스 한 대 → was)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① 1개  ✗  첫째도 틀려요: a lot of people은 복수 → there were",
+     "② 2개  ✓  틀린 문장은 첫째, 둘째 두 개",
+     "③ 3개  ✗  셋째 My friends and I는 여러 명 → were가 맞아요",
+     "④ 4개  ✗  넷째 The driver was도 옳아요",
+     "⑤ 없음  ✗  둘째 The bus were부터 틀려요 (버스 한 대 → was)"
+    ]
+   },
+   "narration": "정답은 2번, 2개예요. 첫 번째 문장은 a lot of의 a를 보고 was가 맞다고 생각하기 쉬운데, 이 문장을 놓치면 1번을 고르게 돼요. 세 번째 문장은 주어 끝의 I만 보고 was를 떠올리기 쉽지만, My friends and I는 여러 명이라 were가 맞아요. 이 문장까지 틀렸다고 세면 3번을 고르게 돼요.",
+   "caption": "정답 ② 2개"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 13,
+   "screen": {
+    "text": "정답 ② 2개\n\nThere 문장은 뒤 명사에 맞춰요 · a lot of + 복수 명사 → were",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② 2개",
+     "There 문장은 뒤 명사에 맞춰요 · a lot of + 복수 명사 → were"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, There was, There were는 be동사 뒤의 명사에 맞추고, a lot of 뒤에 복수 명사가 오면 were를 써요.",
+   "caption": "a lot of + 복수 명사 → were"
+  }
+ ],
+ "source": {
+  "stem": "다음 <보기> 중 어법상 틀린 문장의 개수는?",
+  "passage": "<보기>\n- This morning, there was a lot of people waiting at the bus stop near my house.\n- The bus were late because of the heavy rain.\n- My friends and I were cold, but we talked and laughed together.\n- The driver was very kind and said sorry to everyone.",
+  "c": [
+   "1개",
+   "2개",
+   "3개",
+   "4개",
+   "없음"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: there 구문은 뒤의 실제 명사의 수와 문장의 시제에 맞춰 there is/are/was/were를 고른다. 주어가 있는 문장은 주어의 수·시제에 맞춰 was/were를 쓴다(a lot of + 셀 수 없는 명사는 단수, 복수명사는 복수).\n풀이 순서: ① 문장마다 주어를 찾는다. there was/were는 뒤의 명사가 주어다. → ② 단수 주어(셀 수 없는 명사 포함)에는 was, 복수 주어에는 were인지 확인한다. → ③ 첫째는 a lot of people이 복수라 were, 둘째는 The bus가 단수라 was여야 한다. 틀린 문장은 2개이다.\n문장별 판정:\n첫째 X. 뒤의 명사(a lot of people)가 복수이므로 there were이다.\n둘째 X. 단수 주어(The bus)의 과거는 was이다.\n셋째 O. 복수 주어(My friends and I)의 과거는 were이다.\n넷째 O. 단수 주어(the driver)의 과거는 was이다.\n정답 판단: 어법상 틀린 문장은 첫째, 둘째로 2개이다.\n선택지 분석:\n① [오답] 어법상 틀린 문장은 첫째, 둘째로 2개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [정답] 어법상 틀린 문장은 첫째, 둘째로 2개이다. 이 보기의 2개는 실제 개수와 일치한다.\n③ [오답] 어법상 틀린 문장은 첫째, 둘째로 2개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 어법상 틀린 문장은 첫째, 둘째로 2개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 틀린 문장은 첫째, 둘째로 2개이다. 이 보기의 없음은 실제 개수와 일치하지 않는다."
+ }
+}

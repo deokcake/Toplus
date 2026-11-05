@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T19:17:55.874Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "sold — have tested",
+      "1": "sells — test",
+      "2": "has sold — have tested",
+      "3": "sold — test",
+      "4": "sold — has tested"
+    },
+    "expl": "핵심 규칙: yesterday·last week처럼 끝난 과거 시점에는 단순과거를 쓴다. 과거부터 현재까지의 최근 성과는 have/has + 과거분사로 나타낸다. 동사 선택과 시제·수 일치 오류는 구분한다.\n풀이 순서: ① 첫 문장에는 끝난 과거 시점(yesterday morning)이 있으므로 과거형을 쓴다. 현재형과 현재완료를 지운다. → ② 둘째 문장에는 최근부터 지금까지를 나타내는 말(recently)이 있으므로 현재완료를 쓴다. 주어(Doctors)가 복수이므로 has가 아니라 have다. → ③ 정답은 sold — have tested.\n문장별 판정:\n정답 판단: yesterday morning에는 단순과거 sold, recently와 복수 주어 Doctors에는 have tested가 알맞다.\n선택지 분석:\n① [정답] yesterday morning에는 단순과거 sold, recently와 복수 주어 Doctors에는 have tested가 알맞다. 모든 자리가 알맞으므로 정답이다.\n② [오답] 첫째 빈칸 sells: 현재형이어서 맞지 않는다. last night·yesterday처럼 끝난 과거 시점에는 단순과거를 쓴다. 둘째 빈칸 test: 동사원형이어서 맞지 않는다. recently가 나타내는 최근부터 지금까지의 결과는 have/has + 과거분사로 쓰고, 복수 주어에는 have를 쓴다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 has sold: 현재완료이어서 맞지 않는다. last night·yesterday처럼 끝난 과거 시점에는 단순과거를 쓴다. 따라서 오답이다.\n④ [오답] 둘째 빈칸 test: 동사원형이어서 맞지 않는다. recently가 나타내는 최근부터 지금까지의 결과는 have/has + 과거분사로 쓰고, 복수 주어에는 have를 쓴다. 따라서 오답이다.\n⑤ [오답] 둘째 빈칸 has tested: 현재완료이어서 맞지 않는다. recently가 나타내는 최근부터 지금까지의 결과는 have/has + 과거분사로 쓰고, 복수 주어에는 have를 쓴다. 따라서 오답이다.",
+    "passage": "Tom _____ his old bike yesterday morning.\nDoctors _____ a new vaccine recently.",
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:17:37.823Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:17:55.874Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:17:55.874Z",
+      "what": "확인 완료"
+    }
+  }
+}

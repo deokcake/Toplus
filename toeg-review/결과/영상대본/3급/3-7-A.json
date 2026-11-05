@@ -1,0 +1,178 @@
+{
+ "key": "3-7",
+ "type": "A",
+ "grade": 3,
+ "chapter": "CH 1 be동사",
+ "title": "They were 문장의 의문문",
+ "total_sec": 132,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "3급 · CH 1 be동사 · 7번\n\n이 문제는 주어 They와 be동사 were가 쓰인 문장을 바른 의문문으로 바꾼 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 1 be동사 · 7번",
+     "이 문제는 주어 They와 be동사 were가 쓰인 문장을 바른 의문문으로 바꾼 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 1, 7번. 이 문제는 주어 They와 be동사 were가 쓰인 문장을 바른 의문문으로 바꾼 것을 고르는 문제예요.",
+   "caption": "They were 문장의 의문문"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 18,
+   "screen": {
+    "text": "다음 문장을 의문문으로 바꾼 것을 고르시오.\n\nThey were busy yesterday.\n\n① Are they busy yesterday?\n② Were they busy yesterday?\n③ Do they were busy yesterday?\n④ Did they busy yesterday?\n⑤ Was they busy yesterday?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장을 의문문으로 바꾼 것을 고르시오.",
+     "They were busy yesterday.",
+     "① Are they busy yesterday?",
+     "② Were they busy yesterday?",
+     "③ Do they were busy yesterday?",
+     "④ Did they busy yesterday?",
+     "⑤ Was they busy yesterday?"
+    ]
+   },
+   "narration": "다음 문장을 의문문으로 바꾼 것을 고르세요. They were busy yesterday. 그들은 어제 바빴어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n문장의 동사가 be동사(am, is, are, was, were) → be동사를 주어 앞으로 옮기고 끝에 ?\nbe동사는 주어·시제에 맞게: I → am, was / he, she, it 등 3인칭 단수 → is, was / you, 복수 → are, were\n나머지 말은 그대로. do, does, did는 쓰지 않고, 옮긴 be동사를 제자리에 또 쓰지 않아요.\n예) He was sick. → Was he sick? (그는 아팠니?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "문장의 동사가 be동사(am, is, are, was, were) → be동사를 주어 앞으로 옮기고 끝에 ?",
+     "be동사는 주어·시제에 맞게: I → am, was / he, she, it 등 3인칭 단수 → is, was / you, 복수 → are, were",
+     "나머지 말은 그대로. do, does, did는 쓰지 않고, 옮긴 be동사를 제자리에 또 쓰지 않아요.",
+     "예) He was sick. → Was he sick? (그는 아팠니?)"
+    ]
+   },
+   "narration": "문장의 동사가 be동사 am, is, are, was, were이면, 주어와 시제에 맞는 그 be동사를 주어 앞으로 옮기고 나머지 말은 그대로 두어 의문문을 만들어요. do, does, did는 쓰지 않고, 옮긴 be동사를 제자리에 또 쓰지 않아요. 예를 들어 He was sick, 그는 아팠어요. 의문문은 Was he sick? 그는 아팠니?",
+   "caption": "be동사를 주어 앞으로"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 문장을 의문문으로 바꾼 것을 고르시오.\n\nThey were busy yesterday.\n\n① Are they busy yesterday?\n② Were they busy yesterday?\n③ Do they were busy yesterday?\n④ Did they busy yesterday?\n⑤ Was they busy yesterday?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "They were busy yesterday."
+      ],
+      "strike": [
+       "③ Do they were busy yesterday?",
+       "④ Did they busy yesterday?"
+      ],
+      "note": "동사는 be동사 were → do, did를 쓰지 않는다. Do, Did로 시작한 ③, ④를 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "They"
+      ],
+      "strike": [
+       "① Are they busy yesterday?",
+       "⑤ Was they busy yesterday?"
+      ],
+      "note": "yesterday → 과거, 주어 They → 복수 → were 그대로. 현재형 Are, I와 3인칭 단수에 쓰는 Was를 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② Were they busy yesterday?"
+      ],
+      "strike": [],
+      "note": "were를 주어 앞으로 → Were they busy yesterday?"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장의 동사가 be동사 were이니, do나 did를 쓴 3번과 4번은 지워요. 둘째, yesterday가 있으니 과거이고, 주어 They는 여러 명이라 were를 그대로 써야 해요. 현재형 Are와, I나 3인칭 단수에 쓰는 Was는 지워요. 셋째, 남는 것은 were를 주어 they 앞으로 옮긴 2번이에요. Were they busy yesterday? 그들은 어제 바빴니?",
+   "caption": "do·did 없이 → 과거·복수 → Were"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① Are they busy yesterday?  ✗  Are는 현재형이라 yesterday와 안 맞아요\n② Were they busy yesterday?  ✓  were를 주어 they 앞으로 옮겼어요\n③ Do they were busy yesterday?  ✗  be동사 의문문에는 Do를 쓰지 않아요\n④ Did they busy yesterday?  ✗  were를 빼고 Did를 썼어요 (busy는 ‘바쁜’)\n⑤ Was they busy yesterday?  ✗  Was는 I와 3인칭 단수에 써요 (they → Were)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Are they busy yesterday?  ✗  Are는 현재형이라 yesterday와 안 맞아요",
+     "② Were they busy yesterday?  ✓  were를 주어 they 앞으로 옮겼어요",
+     "③ Do they were busy yesterday?  ✗  be동사 의문문에는 Do를 쓰지 않아요",
+     "④ Did they busy yesterday?  ✗  were를 빼고 Did를 썼어요 (busy는 ‘바쁜’)",
+     "⑤ Was they busy yesterday?  ✗  Was는 I와 3인칭 단수에 써요 (they → Were)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 1번은 be동사를 주어 앞에 옮겼지만 현재형 Are를 써서, yesterday와 맞지 않아요. 5번 Was는 I나 3인칭 단수 주어에 쓰는 과거형이라 they에는 쓸 수 없어요. 4번은 were를 빼고 Did를 썼는데, 여기서 busy는 바쁜이라는 뜻의 형용사라 Did 뒤에 와야 할 동사원형이 없어요.",
+   "caption": "정답 ② Were they"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ② Were they busy yesterday?\n\nbe동사 문장의 의문문 → 주어·시제에 맞는 be동사를 주어 앞으로",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② Were they busy yesterday?",
+     "be동사 문장의 의문문 → 주어·시제에 맞는 be동사를 주어 앞으로"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, be동사 문장의 의문문은 주어와 시제에 맞는 be동사를 주어 앞으로 옮겨요.",
+   "caption": "be동사를 주어 앞으로"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장을 의문문으로 바꾼 것을 고르시오.",
+  "passage": "They were busy yesterday.",
+  "c": [
+   "Are they busy yesterday?",
+   "Were they busy yesterday?",
+   "Do they were busy yesterday?",
+   "Did they busy yesterday?",
+   "Was they busy yesterday?"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: be동사가 있는 문장의 의문문은 do/does/did 없이 be동사를 주어 앞으로 옮겨 만든다.\n풀이 순서: ① 문장의 동사가 be동사(were)다. be동사 의문문은 do/does/did 없이 be동사를 주어 앞으로 옮긴다. → ② 시제와 주어(They)에 맞는 형태는 그대로 둔다. → ③ ‘Were they’로 시작하고 be동사가 한 번만 나오는 ②를 고른다.\n문장별 판정:\n정답 판단: be동사 were를 주어 앞으로 옮겼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] yesterday가 있어 현재형 Are를 쓸 수 없으므로 오답이다.\n② [정답] be동사 were를 주어 앞으로 옮겼으므로 정답이다.\n③ [오답] be동사 의문문에는 Do를 쓰지 않으므로 오답이다.\n④ [오답] Did를 쓰면 문장에 동사가 없어지므로 오답이다.\n⑤ [오답] 주어 they에 Was를 쓸 수 없으므로 오답이다."
+ }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:04:42.895Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Amy, Ben",
+      "1": "Ben, Eve",
+      "2": "Chloe, Dan",
+      "3": "Ben, Dan, Eve",
+      "4": "Amy, Chloe, Eve"
+    },
+    "expl": "핵심 규칙: 재귀 용법(목적어)의 재귀대명사는 뺄 수 없고, 강조 용법은 빼도 된다. this/that은 단수, these/those는 복수와 쓰며, news는 단수 취급한다. 날씨·시간·거리를 나타내는 it은 비인칭 주어이고, hers·mine 같은 ‘~의 것’은 소유대명사이다.\n풀이 순서: ① 학생마다 설명이 옳은지 따진다. 이 문항은 ‘잘못’ 설명한 학생을 고른다. → ② 기준: 목적어인 재귀대명사는 생략할 수 없다. 날씨·시간·요일·거리의 It은 뜻이 없는 비인칭 주어다. news, scissors 같은 명사의 수에 주의한다. → ③ Ben은 enjoyed의 목적어 ourselves를 생략할 수 있다고 했고, Eve는 소유대명사 hers를 목적격이라고 했다. 잘못 설명한 학생을 모으면 Ben, Eve이다.\n문장별 판정:\nAmy 옳음: 강조 용법이라 빼도 된다.\nBen 틀림: enjoy의 목적어인 재귀 용법이라 뺄 수 없다.\nChloe 옳음: 복수 주어에는 are를 쓴다.\nDan 옳음: 날씨의 비인칭 주어 it이다.\nEve 틀림: hers는 ‘그녀의 것’이라는 소유대명사이다.\n정답 판단: 잘못 설명한 학생은 Ben, Eve이다.\n선택지 분석:\n① [오답] Amy는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Eve를 빠뜨렸다. 따라서 오답이다.\n② [정답] 잘못 설명한 학생 Ben, Eve를 빠짐없이 골랐으므로 정답이다.\n③ [오답] Chloe, Dan는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Ben, Eve를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Dan는 잘못 설명한 학생이 아니다. 따라서 오답이다.\n⑤ [오답] Amy, Chloe는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Ben를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "Amy: She herself made the cake.에서 herself는 생략해도 문법적으로 옳아.\nBen: We enjoyed ourselves.에서 ourselves를 생략해도 옳은 문장이야.\nChloe: Those shoes is new.는 shoes가 복수이므로 is를 are로 고쳐야 해.\nDan: It is cold today.의 It은 날씨를 나타내는 비인칭 주어야.\nEve: This is hers.의 hers는 목적격 대명사야.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T08:04:42.393Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T08:04:42.895Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T08:04:42.895Z",
+      "what": "확인 완료"
+    }
+  }
+}

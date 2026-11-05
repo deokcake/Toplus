@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T19:24:03.625Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "She known is for her kindness.",
+      "1": "She is for her kindness known.",
+      "2": "Known is she for her kindness.",
+      "3": "She is known her kindness for.",
+      "4": null
+    },
+    "expl": "핵심 규칙: 주어 + be동사 + 과거분사 + 전치사구(with/for + 명사) 어순으로 쓴다.\n풀이 순서: ① 낱말 가운데 주어(she)와 be동사(is)를 먼저 세운다. → ② be동사 바로 뒤에 과거분사(known)를 붙여 수동태를 만든다. → ③ 과거분사와 짝이 되는 전치사와 남은 명사(for her kindness)를 차례로 붙이면 She is known for her kindness.\n문장별 판정:\n정답 판단: 주어 + be동사 + 과거분사 + 전치사구 어순이 바르다. 정답은 ⑤이다.\n선택지 분석:\n① [오답] be동사와 과거분사의 순서가 뒤바뀌었다. 주어 + be동사 + 과거분사 어순이어야 하므로 오답이다.\n② [오답] 과거분사가 문장 끝으로 갔다. be동사 바로 뒤에 과거분사가 와야 하므로 오답이다.\n③ [오답] 문장 앞에 과거분사를 두어 평서문 어순(주어 + 동사)이 깨졌으므로 오답이다.\n④ [오답] 전치사가 목적어 뒤로 갔다. 전치사 + 명사 순서여야 하므로 오답이다.\n⑤ [정답] 주어 + be동사 + 과거분사 + 전치사구 어순이 바르다. 정답이다.",
+    "passage": null,
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것으로 가장 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:23:59.351Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:24:03.625Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:24:03.625Z",
+      "what": "확인 완료"
+    }
+  }
+}

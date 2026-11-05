@@ -1,0 +1,469 @@
+{
+ "A": {
+  "title": "be동사 과거형과 break의 과거형",
+  "intro": "이 문제는 두 빈칸에 알맞은 be동사와 일반동사의 형태를 짝지어 고르는 문제예요.",
+  "problem_narration": "다음 빈칸 에이와 비에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. The wind 에이 빈칸 very strong, it 비 빈칸 the window. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지난 때의 일 → 동사를 과거형으로 써요.",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "일반동사 과거형: ed로 끝나는 것이 많아요 (play → played) · 불규칙 (go → went)",
+    "예) My friends were thirsty, so they drank water. (내 친구들은 목이 말라서 물을 마셨어요.)"
+   ],
+   "narration": "지난 때의 일을 말할 때는 동사를 과거형으로 써요. be동사 과거형은 주어가 I나 3인칭 단수이면 was, you나 복수이면 were예요. 일반동사는 played처럼 ed로 끝나는 과거형이 많고, went처럼 모양이 바뀌는 불규칙 동사도 있어요. My friends were thirsty, so they drank water. 내 친구들은 목이 말라서 물을 마셨어요."
+  },
+  "steps": [
+   {
+    "note": "(A)의 주어 The wind = 3인칭 단수 → were를 쓴 ③ 지움",
+    "highlight": [
+     "The wind (A)________ very strong."
+    ],
+    "strike": [
+     "③ were — broke"
+    ],
+    "narration": "첫째, 에이 빈칸의 주어 The wind는 3인칭 단수라서, you나 복수 주어에 쓰는 were를 넣은 3번은 지워요."
+   },
+   {
+    "note": "(B): It break처럼 동사원형만 쓸 수 없음, breaked는 없는 말 → ①, ⑤ 지움. break의 과거형 broke",
+    "highlight": [
+     "It (B)________ the window."
+    ],
+    "strike": [
+     "① was — break",
+     "⑤ was — breaked"
+    ],
+    "narration": "둘째, 비 빈칸에 It break처럼 동사원형만 쓸 수는 없고 breaked라는 말도 없으니, 1번과 5번을 지우면 과거형 broke가 남아요."
+   },
+   {
+    "note": "창문을 깬 그때 바람이 셌다 → (A)도 과거형 was. is를 쓴 ② 지움 → ④",
+    "highlight": [
+     "④ was — broke"
+    ],
+    "strike": [
+     "② is — broke"
+    ],
+    "narration": "셋째, 창문을 깬 것은 지난 일이고 바람이 센 것도 그때의 일이니, 에이 빈칸도 현재형 is가 아닌 과거형 was를 써요. The wind was very strong. 바람이 아주 셌어요. It broke the window. 그 바람이 창문을 깼어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① was — break  ✗  It 뒤에 동사원형 break를 그대로 못 써요 (지난 일은 broke)",
+    "② is — broke  ✗  창문을 깬 그때 바람이 셌던 것이라 과거형 was",
+    "③ were — broke  ✗  3인칭 단수 주어 The wind에는 was",
+    "④ was — broke  ✓  3인칭 단수 주어의 과거형 was + break의 과거형 broke",
+    "⑤ was — breaked  ✗  breaked는 없는 말 · break의 과거형은 broke"
+   ],
+   "narration": "정답은 4번, was와 broke예요. 2번 is는 현재형인데, 바람이 센 것은 창문을 깬 그때의 일이라 was를 써요. 5번 breaked는 없는 말이에요. 1번처럼 It 뒤에 동사원형 break를 그대로 쓸 수는 없고, 지난 일이라면 broke를 써요."
+  },
+  "summary": {
+   "card": "지난 때의 일 → be동사는 was, were · 일반동사도 과거형 (break → broke)",
+   "narration": "정답은 4번이에요. 기억할 것, 지난 때의 일은 be동사를 was나 were로, 일반동사도 과거형으로 써요."
+  },
+  "captions": [
+   "be동사와 일반동사의 과거형",
+   "먼저 풀어 보세요",
+   "지난 일 → was, were와 과거형",
+   "단수 → was · It 뒤 → broke",
+   "정답 ④ was — broke",
+   "지난 일 → was, were + 과거형"
+  ],
+  "sec": [
+   11,
+   22,
+   28,
+   39,
+   21,
+   11
+  ]
+ },
+ "B": {
+  "title": "be동사 과거형과 cheer의 과거형",
+  "intro": "이 문제는 두 빈칸에 알맞은 be동사와 일반동사의 형태를 짝지어 고르는 문제예요.",
+  "problem_narration": "다음 빈칸 에이와 비에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. Last night, the children 에이 빈칸 excited, and they 비 빈칸 loudly when the show began. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지난 때를 나타내는 말 (yesterday, last night 등) → 동사를 과거형으로",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "일반동사 과거형: ed로 끝나는 것이 많아요 (play → played) · 불규칙 (go → went)",
+    "예) Mina was sick, so she stayed home. (미나는 아파서 집에 있었어요.)"
+   ],
+   "narration": "지난 때를 나타내는 말이 있으면 동사를 과거형으로 써요. be동사 과거형은 주어가 I나 3인칭 단수이면 was, you나 복수이면 were예요. 일반동사는 played처럼 ed로 끝나는 과거형이 많고, went처럼 모양이 바뀌는 불규칙 동사도 있어요. Mina was sick, so she stayed home. 미나는 아파서 집에 있었어요."
+  },
+  "steps": [
+   {
+    "note": "Last night(지난밤) → 두 빈칸 모두 과거형. 현재형 are를 쓴 ② 지움",
+    "highlight": [
+     "Last night"
+    ],
+    "strike": [
+     "② are — cheered"
+    ],
+    "narration": "첫째, 맨 앞을 보면 Last night, 지난밤의 일이라 두 빈칸 모두 과거형을 써야 하니, 현재형 are를 쓴 2번을 지워요."
+   },
+   {
+    "note": "(A)의 주어 the children = 복수 → were. was를 쓴 ④ 지움",
+    "highlight": [
+     "the children (A)________ excited"
+    ],
+    "strike": [
+     "④ was — cheered"
+    ],
+    "narration": "둘째, 에이 빈칸의 주어 the children은 복수라서 be동사 과거형 were를 쓰니, was를 쓴 4번도 지워요."
+   },
+   {
+    "note": "(B): cheer + ed → cheered. 현재형 cheers, cheer를 쓴 ①, ⑤ 지움 → ③",
+    "highlight": [
+     "they (B)________ loudly",
+     "③ were — cheered"
+    ],
+    "strike": [
+     "① were — cheers",
+     "⑤ were — cheer"
+    ],
+    "narration": "셋째, cheer는 ed를 붙여 과거형 cheered를 만들어요. 현재형 cheers와 cheer를 쓴 1번과 5번도 지워요. Last night, the children were excited, and they cheered loudly when the show began. 지난밤 아이들은 신이 났고, 공연이 시작되자 크게 환호했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① were — cheers  ✗  지난밤의 일이라 cheered · cheers는 they와도 안 맞아요",
+    "② are — cheered  ✗  Last night의 일이라 are가 아닌 were",
+    "③ were — cheered  ✓  복수 주어의 과거형 were + cheer의 과거형 cheered",
+    "④ was — cheered  ✗  복수 주어 the children에는 were",
+    "⑤ were — cheer  ✗  지난밤의 일이라 cheer가 아닌 cheered"
+   ],
+   "narration": "정답은 3번, were와 cheered예요. 4번 was는 I나 3인칭 단수 주어에 쓰는 과거형이라 the children과 맞지 않아요. 1번 cheers는 현재형이고, s형은 3인칭 단수 주어에 쓰니 they와도 맞지 않아요. 5번 cheer도 현재형이라 지난밤의 일에는 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "지난 때의 일 → be동사는 was, were · 일반동사도 과거형 (cheer → cheered)",
+   "narration": "정답은 3번이에요. 기억할 것, 지난 때의 일은 be동사를 was나 were로, 일반동사도 과거형으로 써요."
+  },
+  "captions": [
+   "be동사와 일반동사의 과거형",
+   "먼저 풀어 보세요",
+   "지난 일 → was, were와 과거형",
+   "Last night → were → cheered",
+   "정답 ③ were — cheered",
+   "지난 일 → was, were + 과거형"
+  ],
+  "sec": [
+   11,
+   24,
+   28,
+   41,
+   23,
+   11
+  ]
+ },
+ "C": {
+  "title": "be동사 과거형과 eat의 과거형",
+  "intro": "이 문제는 두 빈칸에 알맞은 be동사와 일반동사의 형태를 짝지어 고르는 문제예요.",
+  "problem_narration": "다음 빈칸 에이와 비에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. Yesterday, the boys 에이 빈칸 hungry, so they 비 빈칸 lunch early. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지난 때를 나타내는 말 (yesterday, last night 등) → 동사를 과거형으로",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "일반동사 과거형: ed로 끝나는 것이 많아요 (play → played) · 불규칙 (go → went)",
+    "예) The baby was sleepy, so she took a nap. (아기는 졸려서 낮잠을 잤어요.)"
+   ],
+   "narration": "지난 때를 나타내는 말이 있으면 동사를 과거형으로 써요. be동사 과거형은 주어가 I나 3인칭 단수이면 was, you나 복수이면 were예요. 일반동사는 played처럼 ed로 끝나는 과거형이 많고, went처럼 모양이 바뀌는 불규칙 동사도 있어요. The baby was sleepy, so she took a nap. 아기는 졸려서 낮잠을 잤어요."
+  },
+  "steps": [
+   {
+    "note": "Yesterday(어제) → 두 빈칸 모두 과거형. 현재형 are를 쓴 ③ 지움",
+    "highlight": [
+     "Yesterday"
+    ],
+    "strike": [
+     "③ are — ate"
+    ],
+    "narration": "첫째, 맨 앞을 보면 Yesterday, 어제의 일이라 두 빈칸 모두 과거형을 써야 하니, 현재형 are를 쓴 3번을 지워요."
+   },
+   {
+    "note": "(A)의 주어 the boys = 복수 → were. was를 쓴 ② 지움",
+    "highlight": [
+     "the boys (A)________ hungry"
+    ],
+    "strike": [
+     "② was — ate"
+    ],
+    "narration": "둘째, 에이 빈칸의 주어 the boys는 복수라서 be동사 과거형 were를 쓰니, was를 쓴 2번도 지워요."
+   },
+   {
+    "note": "(B): eat은 불규칙 동사 → ate. 현재형 eat, 없는 말 eated를 쓴 ①, ⑤ 지움 → ④",
+    "highlight": [
+     "they (B)________ lunch early",
+     "④ were — ate"
+    ],
+    "strike": [
+     "① were — eat",
+     "⑤ were — eated"
+    ],
+    "narration": "셋째, eat은 불규칙 동사라 과거형이 ate예요. 현재형 eat과 없는 말 eated를 쓴 1번과 5번도 지워요. Yesterday, the boys were hungry, so they ate lunch early. 어제 남자아이들은 배가 고파서 점심을 일찍 먹었어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① were — eat  ✗  어제의 일이라 eat이 아닌 과거형 ate",
+    "② was — ate  ✗  복수 주어 the boys에는 were",
+    "③ are — ate  ✗  Yesterday의 일이라 are가 아닌 were",
+    "④ were — ate  ✓  복수 주어의 과거형 were + eat의 과거형 ate",
+    "⑤ were — eated  ✗  eated는 없는 말 · eat의 과거형은 ate"
+   ],
+   "narration": "정답은 4번, were와 ate예요. 5번 eated는 없는 말이고, eat의 과거형은 ate예요. 2번 was는 I나 3인칭 단수 주어에 쓰는 과거형이라 the boys와 맞지 않아요. 1번은 현재형 eat을 써서 어제의 일에 맞지 않아요."
+  },
+  "summary": {
+   "card": "지난 때의 일 → be동사는 was, were · 일반동사도 과거형 (eat → ate)",
+   "narration": "정답은 4번이에요. 기억할 것, 지난 때의 일은 be동사를 was나 were로, 일반동사도 과거형으로 써요."
+  },
+  "captions": [
+   "be동사와 일반동사의 과거형",
+   "먼저 풀어 보세요",
+   "지난 일 → was, were와 과거형",
+   "Yesterday → were → ate",
+   "정답 ④ were — ate",
+   "지난 일 → was, were + 과거형"
+  ],
+  "sec": [
+   11,
+   22,
+   29,
+   38,
+   20,
+   11
+  ]
+ },
+ "D": {
+  "title": "be동사 과거형과 go의 과거형",
+  "intro": "이 문제는 두 빈칸에 알맞은 be동사와 일반동사의 형태를 짝지어 고르는 문제예요.",
+  "problem_narration": "다음 빈칸 에이와 비에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. Last Friday, Jane 에이 빈칸 tired, so she 비 빈칸 home early. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지난 때를 나타내는 말 (yesterday, last night 등) → 동사를 과거형으로",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "일반동사 과거형: ed로 끝나는 것이 많아요 (play → played) · 불규칙 (buy → bought)",
+    "예) My friends were thirsty, so they drank water. (내 친구들은 목이 말라서 물을 마셨어요.)"
+   ],
+   "narration": "지난 때를 나타내는 말이 있으면 동사를 과거형으로 써요. be동사 과거형은 주어가 I나 3인칭 단수이면 was, you나 복수이면 were예요. 일반동사는 played처럼 ed로 끝나는 과거형이 많고, bought처럼 모양이 바뀌는 불규칙 동사도 있어요. My friends were thirsty, so they drank water. 내 친구들은 목이 말라서 물을 마셨어요."
+  },
+  "steps": [
+   {
+    "note": "Last Friday(지난 금요일) → 두 빈칸 모두 과거형. 현재형 is를 쓴 ① 지움",
+    "highlight": [
+     "Last Friday"
+    ],
+    "strike": [
+     "① is — went"
+    ],
+    "narration": "첫째, 맨 앞을 보면 Last Friday, 지난 금요일의 일이라 두 빈칸 모두 과거형을 써야 하니, 현재형 is를 쓴 1번을 지워요."
+   },
+   {
+    "note": "(A)의 주어 Jane = 3인칭 단수 → was. were를 쓴 ④ 지움",
+    "highlight": [
+     "Jane (A)________ tired"
+    ],
+    "strike": [
+     "④ were — went"
+    ],
+    "narration": "둘째, 에이 빈칸의 주어 Jane은 한 사람, 3인칭 단수라서 be동사 과거형 was를 쓰니, were를 쓴 4번도 지워요."
+   },
+   {
+    "note": "(B): go는 불규칙 동사 → went. 없는 말 goed, 동사원형 go를 쓴 ③, ⑤ 지움 → ②",
+    "highlight": [
+     "she (B)________ home early",
+     "② was — went"
+    ],
+    "strike": [
+     "③ was — goed",
+     "⑤ was — go"
+    ],
+    "narration": "셋째, go는 불규칙 동사라 과거형이 went예요. 없는 말 goed와 동사원형 go를 쓴 3번과 5번도 지워요. Last Friday, Jane was tired, so she went home early. 지난 금요일에 제인은 피곤해서 집에 일찍 갔어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① is — went  ✗  지난 금요일의 일이라 is가 아닌 was",
+    "② was — went  ✓  3인칭 단수 주어의 과거형 was + go의 과거형 went",
+    "③ was — goed  ✗  goed는 없는 말 · go의 과거형은 went",
+    "④ were — went  ✗  3인칭 단수 주어 Jane에는 was",
+    "⑤ was — go  ✗  지난 일이라 went (현재라도 she 뒤에는 goes)"
+   ],
+   "narration": "정답은 2번, was와 went예요. 3번 goed는 없는 말이고, go의 과거형은 went예요. 1번 is는 현재형이라 지난 금요일의 일에 맞지 않아요. 5번 go는 과거형이 아니고, 현재라 해도 she 뒤에는 goes를 써요."
+  },
+  "summary": {
+   "card": "지난 때의 일 → be동사는 was, were · 일반동사도 과거형 (go → went)",
+   "narration": "정답은 2번이에요. 기억할 것, 지난 때의 일은 be동사를 was나 were로, 일반동사도 과거형으로 써요."
+  },
+  "captions": [
+   "be동사와 일반동사의 과거형",
+   "먼저 풀어 보세요",
+   "지난 일 → was, were와 과거형",
+   "Last Friday → was → went",
+   "정답 ② was — went",
+   "지난 일 → was, were + 과거형"
+  ],
+  "sec": [
+   11,
+   22,
+   29,
+   40,
+   20,
+   11
+  ]
+ },
+ "E": {
+  "title": "be동사 과거형과 get의 과거형",
+  "intro": "이 문제는 두 빈칸에 알맞은 be동사와 일반동사의 형태를 짝지어 고르는 문제예요.",
+  "problem_narration": "다음 빈칸 에이와 비에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. Last Christmas, we 에이 빈칸 happy because we 비 빈칸 a big gift. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지난 때를 나타내는 말 (yesterday, last night 등) → 동사를 과거형으로",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "일반동사 과거형: ed로 끝나는 것이 많아요 (play → played) · 불규칙 (go → went)",
+    "예) He was late, so he ran to school. (그는 늦어서 학교로 달려갔어요.)"
+   ],
+   "narration": "지난 때를 나타내는 말이 있으면 동사를 과거형으로 써요. be동사 과거형은 주어가 I나 3인칭 단수이면 was, you나 복수이면 were예요. 일반동사는 played처럼 ed로 끝나는 과거형이 많고, went처럼 모양이 바뀌는 불규칙 동사도 있어요. He was late, so he ran to school. 그는 늦어서 학교로 달려갔어요."
+  },
+  "steps": [
+   {
+    "note": "Last Christmas(지난 크리스마스) → 두 빈칸 모두 과거형. 현재형 are를 쓴 ② 지움",
+    "highlight": [
+     "Last Christmas"
+    ],
+    "strike": [
+     "② are — got"
+    ],
+    "narration": "첫째, 맨 앞을 보면 Last Christmas, 지난 크리스마스의 일이라 두 빈칸 모두 과거형을 써야 하니, 현재형 are를 쓴 2번을 지워요."
+   },
+   {
+    "note": "(A)의 주어 we = 복수 → were. was를 쓴 ④ 지움",
+    "highlight": [
+     "we (A)________ happy"
+    ],
+    "strike": [
+     "④ was — got"
+    ],
+    "narration": "둘째, 에이 빈칸의 주어 we는 우리, 복수라서 be동사 과거형 were를 쓰니, was를 쓴 4번도 지워요."
+   },
+   {
+    "note": "(B): get은 불규칙 동사 → got. 현재형 get, 없는 말 getted를 쓴 ①, ③ 지움 → ⑤",
+    "highlight": [
+     "we (B)________ a big gift",
+     "⑤ were — got"
+    ],
+    "strike": [
+     "① were — get",
+     "③ were — getted"
+    ],
+    "narration": "셋째, get은 불규칙 동사라 과거형이 got이에요. 현재형 get과 없는 말 getted를 쓴 1번과 3번도 지워요. Last Christmas, we were happy because we got a big gift. 지난 크리스마스에 우리는 큰 선물을 받아서 행복했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① were — get  ✗  지난 크리스마스의 일이라 get이 아닌 과거형 got",
+    "② are — got  ✗  Last Christmas의 일이라 are가 아닌 were",
+    "③ were — getted  ✗  getted는 없는 말 · get의 과거형은 got",
+    "④ was — got  ✗  복수 주어 we에는 was가 아닌 were",
+    "⑤ were — got  ✓  복수 주어의 과거형 were + get의 과거형 got"
+   ],
+   "narration": "정답은 5번, were와 got이에요. 4번 was는 I나 3인칭 단수 주어에 쓰는 과거형이라 we와 맞지 않아요. 3번 getted는 없는 말이고, get의 과거형은 got이에요. 2번 are는 현재형이라 지난 크리스마스의 일에 맞지 않아요."
+  },
+  "summary": {
+   "card": "지난 때의 일 → be동사는 was, were · 일반동사도 과거형 (get → got)",
+   "narration": "정답은 5번이에요. 기억할 것, 지난 때의 일은 be동사를 was나 were로, 일반동사도 과거형으로 써요."
+  },
+  "captions": [
+   "be동사와 일반동사의 과거형",
+   "먼저 풀어 보세요",
+   "지난 일 → was, were와 과거형",
+   "Last Christmas → were → got",
+   "정답 ⑤ were — got",
+   "지난 일 → was, were + 과거형"
+  ],
+  "sec": [
+   11,
+   22,
+   28,
+   40,
+   21,
+   11
+  ]
+ },
+ "F": {
+  "title": "be동사 과거형과 make의 과거형",
+  "intro": "이 문제는 두 빈칸에 알맞은 be동사와 일반동사의 형태를 짝지어 고르는 문제예요.",
+  "problem_narration": "다음 빈칸 에이와 비에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. Last weekend, Tom 에이 빈칸 busy because he 비 빈칸 a new desk. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지난 때를 나타내는 말 (yesterday, last night 등) → 동사를 과거형으로",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "일반동사 과거형: ed로 끝나는 것이 많아요 (play → played) · 불규칙 (go → went)",
+    "예) The kids were cold, so they wore coats. (아이들은 추워서 코트를 입었어요.)"
+   ],
+   "narration": "지난 때를 나타내는 말이 있으면 동사를 과거형으로 써요. be동사 과거형은 주어가 I나 3인칭 단수이면 was, you나 복수이면 were예요. 일반동사는 played처럼 ed로 끝나는 과거형이 많고, went처럼 모양이 바뀌는 불규칙 동사도 있어요. The kids were cold, so they wore coats. 아이들은 추워서 코트를 입었어요."
+  },
+  "steps": [
+   {
+    "note": "Last weekend(지난 주말) → 두 빈칸 모두 과거형. 현재형 is를 쓴 ③ 지움",
+    "highlight": [
+     "Last weekend"
+    ],
+    "strike": [
+     "③ is — made"
+    ],
+    "narration": "첫째, 맨 앞을 보면 Last weekend, 지난 주말의 일이라 두 빈칸 모두 과거형을 써야 하니, 현재형 is를 쓴 3번을 지워요."
+   },
+   {
+    "note": "(A)의 주어 Tom = 3인칭 단수 → was. were를 쓴 ④ 지움",
+    "highlight": [
+     "Tom (A)________ busy"
+    ],
+    "strike": [
+     "④ were — made"
+    ],
+    "narration": "둘째, 에이 빈칸의 주어 Tom은 한 사람, 3인칭 단수라서 be동사 과거형 was를 쓰니, were를 쓴 4번도 지워요."
+   },
+   {
+    "note": "(B): make는 불규칙 동사 → made. 없는 말 maked, 동사원형 make를 쓴 ②, ⑤ 지움 → ①",
+    "highlight": [
+     "he (B)________ a new desk",
+     "① was — made"
+    ],
+    "strike": [
+     "② was — maked",
+     "⑤ was — make"
+    ],
+    "narration": "셋째, make는 불규칙 동사라 과거형이 made예요. 없는 말 maked와 동사원형 make를 쓴 2번과 5번도 지워요. Last weekend, Tom was busy because he made a new desk. 지난 주말에 톰은 새 책상을 만드느라 바빴어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① was — made  ✓  3인칭 단수 주어의 과거형 was + make의 과거형 made",
+    "② was — maked  ✗  maked는 없는 말 · make의 과거형은 made",
+    "③ is — made  ✗  지난 주말의 일이라 is가 아닌 was",
+    "④ were — made  ✗  3인칭 단수 주어 Tom에는 was",
+    "⑤ was — make  ✗  지난 일이라 made (현재라도 he 뒤에는 makes)"
+   ],
+   "narration": "정답은 1번, was와 made예요. 2번 maked는 없는 말이고, make의 과거형은 made예요. 3번 is는 현재형이라 지난 주말의 일에 맞지 않아요. 4번 were는 you나 복수 주어에 쓰는 과거형이라 Tom과 맞지 않아요."
+  },
+  "summary": {
+   "card": "지난 때의 일 → be동사는 was, were · 일반동사도 과거형 (make → made)",
+   "narration": "정답은 1번이에요. 기억할 것, 지난 때의 일은 be동사를 was나 were로, 일반동사도 과거형으로 써요."
+  },
+  "captions": [
+   "be동사와 일반동사의 과거형",
+   "먼저 풀어 보세요",
+   "지난 일 → was, were와 과거형",
+   "Last weekend → was → made",
+   "정답 ① was — made",
+   "지난 일 → was, were + 과거형"
+  ],
+  "sec": [
+   11,
+   22,
+   29,
+   39,
+   20,
+   11
+  ]
+ }
+}

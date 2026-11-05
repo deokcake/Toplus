@@ -1,0 +1,33 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:10:03.004Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "She <u>is owning</u> a big dog.",
+      "1": "We <u>are wanting</u> more time.",
+      "2": "Tom <u>is playing</u> the piano now.",
+      "3": "I <u>am believing</u> your story.",
+      "4": "They <u>are knowing</u> the answer."
+    },
+    "expl": "핵심 규칙: know, want, need, believe, own, belong, prefer, hate, have(가지고 있다) 같은 상태동사는 보통 진행형으로 쓰지 않는다. 동작동사는 be동사 + -ing로 진행형을 만든다.\n풀이 순서: ① 밑줄은 모두 진행형(be + -ing)이다. 동사가 동작인지 상태인지 가른다. → ② 감정·인식·소유를 나타내는 상태 동사는 진행형으로 쓰지 않는다. → ③ 선택지 ③의 play만 동작 동사라 진행형이 옳다.\n문장별 판정:\n정답 판단: 동작동사를 be동사 + -ing의 진행형으로 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 상태동사(own)는 진행형으로 쓰지 않으므로 오답이다.\n② [오답] 상태동사(want)는 진행형으로 쓰지 않으므로 오답이다.\n③ [정답] 동작동사를 be동사 + -ing의 진행형으로 바르게 썼으므로 정답이다.\n④ [오답] 상태동사(believe)는 진행형으로 쓰지 않으므로 오답이다.\n⑤ [오답] 상태동사(know)는 진행형으로 쓰지 않으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 부분의 쓰임이 어법상 옳은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T08:10:02.620Z"
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T08:21:57.323Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-20T08:21:57.323Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T08:21:57.323Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

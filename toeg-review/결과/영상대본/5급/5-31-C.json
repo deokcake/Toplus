@@ -1,0 +1,176 @@
+{
+ "key": "5-31",
+ "type": "C",
+ "grade": 5,
+ "chapter": "CH 4 현재진행형",
+ "title": "ing형 철자: 끝 자음 겹쳐 쓰기",
+ "total_sec": 132,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "5급 · CH 4 현재진행형 · 31번 · C 유형\n\n이 문제는 ing형을 만드는 철자 규칙에 맞지 않게 짝지어진 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 4 현재진행형 · 31번 · C 유형",
+     "이 문제는 ing형을 만드는 철자 규칙에 맞지 않게 짝지어진 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 4, 31번 C 유형. 이 문제는 ing형을 만드는 철자 규칙에 맞지 않게 짝지어진 것을 고르는 문제예요.",
+   "caption": "ing형 만드는 철자 규칙"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "동사의 원형과 -ing형이 잘못 짝지어진 것을 고르시오.\n\n① die - dying\n② stop - stopping\n③ come - coming\n④ enjoy - enjoying\n⑤ run - runing",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "동사의 원형과 -ing형이 잘못 짝지어진 것을 고르시오.",
+     "① die - dying",
+     "② stop - stopping",
+     "③ come - coming",
+     "④ enjoy - enjoying",
+     "⑤ run - runing"
+    ]
+   },
+   "narration": "동사의 원형과 ing형이 잘못 짝지어진 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n지금 하고 있는 일(~하고 있다) → be동사(am, is, are) + ing형\ning형: 대부분 동사원형 + ing (go → going), y로 끝나도 그대로 (study → studying)\n끝이 소리 나지 않는 e → e를 빼고 + ing (make → making) · 끝이 ie → ie를 y로 바꾸고 + ing (lie → lying)\n강세 있는 단모음 + 단자음으로 끝나면 → 끝 자음을 한 번 더(겹쳐) 쓰고 + ing (sit → sitting), w·x·y는 제외\n예) The kids are playing. (아이들이 놀고 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "지금 하고 있는 일(~하고 있다) → be동사(am, is, are) + ing형",
+     "ing형: 대부분 동사원형 + ing (go → going), y로 끝나도 그대로 (study → studying)",
+     "끝이 소리 나지 않는 e → e를 빼고 + ing (make → making) · 끝이 ie → ie를 y로 바꾸고 + ing (lie → lying)",
+     "강세 있는 단모음 + 단자음으로 끝나면 → 끝 자음을 한 번 더(겹쳐) 쓰고 + ing (sit → sitting), w·x·y는 제외",
+     "예) The kids are playing. (아이들이 놀고 있어요.)"
+    ]
+   },
+   "narration": "지금 하는 일은 be동사와 ing형으로 말해요. ing형은 대부분 동사원형에 ing을 붙이고, y로 끝나도 그대로예요. make처럼 소리 나지 않는 e는 빼고, lie처럼 끝의 ie는 y로 바꿔요. sit처럼 세게 읽는 모음 하나와 자음 하나로 끝나면 w, x, y만 빼고 끝 자음을 겹쳐 써요. The kids are playing. 아이들이 놀고 있어요.",
+   "caption": "ing형을 만드는 규칙"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "동사의 원형과 -ing형이 잘못 짝지어진 것을 고르시오.\n\n① die - dying\n② stop - stopping\n③ come - coming\n④ enjoy - enjoying\n⑤ run - runing",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [],
+      "strike": [
+       "① die - dying",
+       "③ come - coming",
+       "④ enjoy - enjoying"
+      ],
+      "note": "끝 글자 보기: die → ie를 y로 (dying), come → e를 빼고 (coming), enjoy → y는 그대로 (enjoying) → 맞음"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "⑤ run - runing"
+      ],
+      "strike": [
+       "② stop - stopping"
+      ],
+      "note": "stop, run → 모음 하나 + 자음 하나, 그 모음에 강세 → 끝 자음 한 번 더. stopping 맞음"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ run - runing"
+      ],
+      "strike": [],
+      "note": "run → n을 한 번 더 → running이어야 하는데 runing → 잘못된 짝"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 동사의 끝 글자를 봐요. die는 ie를 y로 바꾼 dying, come은 소리 나지 않는 e를 뺀 coming, enjoy는 y로 끝나서 그대로 붙인 enjoying이라 모두 맞아요. 둘째, stop과 run은 세게 읽는 모음 하나와 자음 하나로 끝나서, 끝 자음을 한 번 더 쓴 stopping은 맞아요. 셋째, run도 n을 한 번 더 쓴 running이 되어야 하는데 runing으로 썼어요. 그래서 잘못 짝지어진 것은 5번이에요.",
+   "caption": "끝 글자 → 자음 겹쳐 쓰기 → running"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① die - dying  ✗  ie로 끝나 ie를 y로 바꾸고 + ing, 맞아요\n② stop - stopping  ✗  단모음 + 단자음 → p를 한 번 더, 맞아요\n③ come - coming  ✗  소리 나지 않는 e → e를 빼고 + ing, 맞아요\n④ enjoy - enjoying  ✗  y로 끝나면 y를 바꾸지 않고 + ing, 맞아요\n⑤ run - runing  ✓  단모음 + 단자음 → n을 한 번 더, running으로 써야 해요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① die - dying  ✗  ie로 끝나 ie를 y로 바꾸고 + ing, 맞아요",
+     "② stop - stopping  ✗  단모음 + 단자음 → p를 한 번 더, 맞아요",
+     "③ come - coming  ✗  소리 나지 않는 e → e를 빼고 + ing, 맞아요",
+     "④ enjoy - enjoying  ✗  y로 끝나면 y를 바꾸지 않고 + ing, 맞아요",
+     "⑤ run - runing  ✓  단모음 + 단자음 → n을 한 번 더, running으로 써야 해요"
+    ]
+   },
+   "narration": "정답은 5번이에요. run은 끝 자음 n을 한 번 더 써서 running으로 써야 하는데 n을 하나만 썼어요. 1번 dying은 die와 모양이 많이 달라 보이지만, ie를 y로 바꾸고 ing을 붙인 바른 모양이에요. 4번 enjoying은 y로 끝나서 y를 바꾸거나 겹쳐 쓰지 않고 그대로 ing을 붙였어요.",
+   "caption": "정답 ⑤ run - runing"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ⑤ run - runing\n\n강세 있는 단모음 + 단자음(w·x·y 제외)으로 끝나면 → 끝 자음을 한 번 더 + ing (run → running)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ run - runing",
+     "강세 있는 단모음 + 단자음(w·x·y 제외)으로 끝나면 → 끝 자음을 한 번 더 + ing (run → running)"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 세게 읽는 단모음과 단자음으로 끝나면 w, x, y만 빼고 자음을 겹쳐 ing을 붙여요.",
+   "caption": "강세 있는 단모음 + 단자음 → 겹쳐 쓰기"
+  }
+ ],
+ "source": {
+  "stem": "동사의 원형과 -ing형이 잘못 짝지어진 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "die - dying",
+   "stop - stopping",
+   "come - coming",
+   "enjoy - enjoying",
+   "run - runing"
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: -ing형은 대부분 동사원형에 -ing를 붙인다. -e로 끝나면 e를 빼고(make → making), -ie로 끝나면 ie를 y로 바꾸며(lie → lying), 강세 있는 단모음 + 단자음으로 끝나면 자음을 한 번 더 쓴다(run → running). 자음 + y, 모음 + y는 그대로 -ing를 붙인다.\n풀이 순서: ① 동사의 끝소리를 본다: -e, -ie, 단모음 + 단자음 가운데 어느 것인지 가른다. → ② run은 단모음 + 단자음이라 running이다. 나머지는 규칙대로다. → ③ 정답은 run - runing.\n문장별 판정:\n정답 판단: 단모음 + 단자음으로 끝나 자음을 한 번 더 써서 running으로 써야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] -ie로 끝나 ie를 y로 바꾸고 -ing를 바르게 붙였으므로 오답이다.\n② [오답] 단모음 + 단자음으로 끝나 자음을 한 번 더 쓰고 -ing를 바르게 붙였으므로 오답이다.\n③ [오답] -e로 끝나 e를 빼고 -ing를 바르게 붙였으므로 오답이다.\n④ [오답] y로 끝나도 그대로 -ing를 바르게 붙였으므로 오답이다.\n⑤ [정답] 단모음 + 단자음으로 끝나 자음을 한 번 더 써서 running으로 써야 하므로 정답이다."
+ }
+}

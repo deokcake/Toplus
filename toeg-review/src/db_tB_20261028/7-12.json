@@ -1,0 +1,42 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-21 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-23T01:49:07.084Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "he - his",
+      "1": "you - your",
+      "2": "it - its",
+      "3": "their - they",
+      "4": "she - her"
+    },
+    "expl": "핵심 규칙: I - my는 주격 - 소유격(‘~는’ - ‘~의’)의 짝이다. 주격: I, you, he, she, it, we, they / 소유격: my, your, his, her, its, our, their.\n풀이 순서: ① <보기>의 관계를 정한다: we - our은 주격 - 소유격(‘~는’ - ‘~의’)이다. → ② 보기마다 앞 낱말이 주격, 뒤 낱말이 소유격인지 본다. → ③ their - they는 소유격 - 주격으로 순서가 거꾸로다. 정답은 their - they.\n문장별 판정:\n정답 판단: their는 소유격, they는 주격이라 순서가 <보기>와 반대이므로 정답이다.\n선택지 분석:\n① [오답] 주격 - 소유격 관계라 <보기>와 같으므로 오답이다.\n② [오답] 주격 - 소유격 관계라 <보기>와 같으므로 오답이다.\n③ [오답] 주격 - 소유격 관계라 <보기>와 같으므로 오답이다.\n④ [정답] their는 소유격, they는 주격이라 순서가 <보기>와 반대이므로 정답이다.\n⑤ [오답] 주격 - 소유격 관계라 <보기>와 같으므로 오답이다.",
+    "passage": "<보기>\nwe - our",
+    "stem": "짝지어진 단어의 관계가 <보기>와 다른 것을 고르시오."
+  },
+  "editors": null,
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-20T08:59:02.313Z",
+      "text": "7급에서는 주격과 소유격만 공부합니다. 목젹격은 아직 배우지 않은것이니 주격 소유격관계를 묻는 문제로 바꾸세요"
+    }
+  },
+  "tab": "765wette",
+  "updatedAt": "2026-10-23T01:49:08.713Z",
+  "verdict": null,
+  "verdictAt": "2026-10-23T01:49:08.713Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-20T08:59:04.471Z",
+      "what": "확인 해제"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T01:49:08.713Z",
+      "what": "판정을 Claude 판정으로 되돌림"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T18:30:01.460Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "so - because",
+      "1": "because - so",
+      "2": "so - so",
+      "3": "because - because",
+      "4": "although - because"
+    },
+    "expl": "핵심 규칙: because는 뒤에 이유를, so는 뒤에 결과를 이끈다. although는 ‘비록 ~이지만’의 양보를 나타낸다.\n풀이 순서: ① 빈칸 뒤의 절이 원인인지 결과인지 가른다. → ② 첫 문장: 열심히 공부했다(원인) → 합격했다(결과). 뒤가 결과다. 둘째 문장: 열심히 공부했다 ← 합격하고 싶었다(이유). 뒤가 이유다. → ③ 뒤가 결과면 so, 뒤가 이유면 because다. 정답은 because - because.\n문장별 판정:\n정답 판단: 첫째 빈칸은 뒤 절(합격하고 싶었음)이 열심히 공부한 이유라 because, 둘째 빈칸은 뒤 절(시험에 합격함)이 기뻤던 이유라 because이므로 정답은 ④이다.\n선택지 분석:\n① [오답] 첫째 빈칸 so: 뒤 절(합격하고 싶었음)이 열심히 공부한 이유라 because이다. 따라서 오답이다.\n② [오답] 둘째 빈칸 so: 뒤 절(시험에 합격함)이 기뻤던 이유라 because이다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 so: 뒤 절(합격하고 싶었음)이 열심히 공부한 이유라 because이다, 둘째 빈칸 so: 뒤 절(시험에 합격함)이 기뻤던 이유라 because이다. 따라서 오답이다.\n④ [정답] 첫째 빈칸은 뒤 절(합격하고 싶었음)이 열심히 공부한 이유라 because, 둘째 빈칸은 뒤 절(시험에 합격함)이 기뻤던 이유라 because이므로 정답이다.\n⑤ [오답] 첫째 빈칸 although: 뒤 절(합격하고 싶었음)이 열심히 공부한 이유라 because이다. 따라서 오답이다.",
+    "passage": "- Jane studied hard _____ she wanted to pass.\n- She was happy _____ she passed the test.",
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:29:49.122Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:30:01.460Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:30:01.460Z",
+      "what": "확인 완료"
+    }
+  }
+}

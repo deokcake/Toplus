@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-24T01:11:28.207Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "the worst vacation I have ever had",
+      "1": "more bad than you expected",
+      "2": "more heavily than last year",
+      "3": "as carefully as you can",
+      "4": "Nothing is more important than good weather"
+    },
+    "expl": "핵심 규칙: 최상급은 the + -est/most + 원급으로, 비교급은 -er/more + 원급 + than으로 쓰며 more와 -er, most와 -est를 겹쳐 쓰지 않는다. bad-worse-worst 같은 불규칙 변화도 확인한다. No other + 단수명사 + 비교급 than(as + 원급 + as)은 최상급의 뜻을 나타낸다.\n풀이 순서: ① 밑줄마다 비교 표현의 형태를 본다. 원급은 as ~ as, 비교급은 -er/more ~ than, 최상급은 the -est/the most ~다. → ② more와 -er, most와 -est를 겹치거나, 불규칙 변화(bad - worse)를 무시하면 틀린다. → ③ 선택지 ②가 틀렸다: more bad가 아니라 worse.\n문장별 판정:\n정답 판단: bad의 비교급은 worse이므로 worse than으로 써야 한다.\n선택지 분석:\n① [오답] bad의 최상급 worst를 바르게 썼으므로 오답이다.\n② [정답] bad의 비교급은 worse이고, worse than으로 써야 하므로 정답이다.\n③ [오답] 부사 heavily의 비교급 more heavily의 바른 형태이므로 오답이다.\n④ [오답] as + 원급 + as의 바른 형태이므로 오답이다.\n⑤ [오답] Nothing is + 비교급 + than(최상급의 뜻)의 바른 형태이므로 오답이다.",
+    "passage": "A: How was your vacation at the beach last week?\nB: It was ①<u>the worst vacation I have ever had</u>. Everything went wrong.\nA: Why? Was the weather ②<u>more bad than you expected</u>?\nB: Yes. It rained ③<u>more heavily than last year</u>, and the hotel was noisy.\nA: That's too bad. Next time, check the weather ④<u>as carefully as you can</u> before you leave.\nB: I will. ⑤<u>Nothing is more important than good weather</u> on a beach trip.",
+    "stem": "다음 대화에서 사용된 표현 중 어법상 옳지 않은 것을 고르시오."
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-24T01:11:28.207Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:11:28.207Z",
+      "what": "확인 완료"
+    }
+  }
+}

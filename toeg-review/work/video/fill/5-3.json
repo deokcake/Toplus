@@ -1,0 +1,455 @@
+{
+ "A": {
+  "title": "That is 뒤에 올 수 없는 말",
+  "intro": "이 문제는 That is 뒤에 올 수 있는 말을 가려서, 빈칸에 들어갈 수 없는 말을 고르는 문제예요.",
+  "problem_narration": "빈칸에 들어갈 수 없는 말을 고르세요. That is 빈칸. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "This, That = 한 사람·한 개를 가리켜요 → This is, That is",
+    "뒤에 올 수 있어요: 단수 명사(구), 명사's (Mina's 미나의 것)",
+    "소유대명사도 올 수 있어요: mine, yours, his, hers, ours, theirs",
+    "여러 개를 가리키는 복수 명사(구)는 못 와요 → These are, Those are",
+    "예) That is my pen. (저것은 내 펜이에요.)  Those are my pens. (저것들은 내 펜들이에요.)"
+   ],
+   "narration": "This와 That은 한 사람이나 한 개를 가리키는 말이라서 This is, That is처럼 is와 함께 써요. 그래서 This is와 That is 뒤에는 my pen 같은 단수 명사, Mina's처럼 미나의 것이라는 말, mine이나 ours처럼 누구의 것이라는 뜻의 소유대명사가 올 수 있어요. 하지만 여러 개를 가리키는 복수 명사는 올 수 없고, 여러 개일 때는 These are나 Those are를 써요. That is my pen. 저것은 내 펜이에요. Those are my pens. 저것들은 내 펜들이에요."
+  },
+  "steps": [
+   {
+    "note": "That is = 하나를 가리킨다 → 빈칸에 여러 개를 가리키는 말은 올 수 없다.",
+    "highlight": [
+     "That is"
+    ],
+    "strike": [],
+    "narration": "첫째, 빈칸 앞의 That is는 하나를 가리켜요. 그래서 빈칸에 여러 개를 가리키는 말은 올 수 없어요."
+   },
+   {
+    "note": "her dog(개 한 마리), my brother's(내 형의 것), mine·yours(나의 것·너의 것) → 올 수 있다 → 지운다.",
+    "highlight": [],
+    "strike": [
+     "② her dog",
+     "③ my brother's",
+     "④ mine",
+     "⑤ yours"
+    ],
+    "narration": "둘째, her dog는 개 한 마리, my brother's는 내 형의 것, mine과 yours는 나의 것과 너의 것이라는 뜻이라 모두 That is 뒤에 올 수 있어요."
+   },
+   {
+    "note": "my friends = 친구 여러 명(복수) → That is 뒤에 들어갈 수 없다.",
+    "highlight": [
+     "① my friends"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 my friends는 친구 여러 명을 가리키는 복수 명사라서 That is 뒤에 들어갈 수 없어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① my friends  ✓  친구 여러 명(복수) → That is 뒤에 올 수 없어요",
+    "② her dog  ✗  개 한 마리(단수 명사구) → 올 수 있어요",
+    "③ my brother's  ✗  명사's = 내 형의 것 → 올 수 있어요",
+    "④ mine  ✗  소유대명사 = 나의 것 → 올 수 있어요",
+    "⑤ yours  ✗  소유대명사 = 너의 것 → 올 수 있어요"
+   ],
+   "narration": "정답은 1번 my friends예요. 친구 여러 명을 가리키므로 That is가 아니라 Those are와 함께 써야 해요. 3번 my brother's는 뒤에 명사가 없어 틀려 보이지만, 내 형의 것이라는 뜻이라 That is 뒤에 올 수 있어요. 4번 mine과 5번 yours도 나의 것, 너의 것이라는 소유대명사라서 올 수 있어요. That is mine. 저것은 나의 것이에요."
+  },
+  "summary": {
+   "card": "This is, That is 뒤에 여러 개를 가리키는 복수 명사 ✗ (→ These are, Those are)",
+   "narration": "정답은 1번이에요. 기억할 것, This is와 That is 뒤에는 여러 개를 가리키는 복수 명사가 올 수 없어요. 여러 개일 때는 These are나 Those are를 써요."
+  },
+  "captions": [
+   "That is 뒤에 올 수 없는 말",
+   "먼저 풀어 보세요",
+   "This, That은 하나를 가리켜요",
+   "That is → 올 수 있는 말 → my friends",
+   "정답 ① my friends",
+   "여러 개를 가리키는 복수 명사 ✗"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   28,
+   10
+  ]
+ },
+ "B": {
+  "title": "This is 뒤에 올 수 없는 말",
+  "intro": "이 문제는 This is 뒤에 올 수 있는 말을 가려서, 빈칸에 들어갈 수 없는 말을 고르는 문제예요.",
+  "problem_narration": "빈칸에 들어갈 수 없는 말을 고르세요. This is 빈칸. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "This, That = 한 사람·한 개를 가리켜요 → This is, That is",
+    "뒤에 올 수 있어요: 단수 명사(구), 명사's (Mina's 미나의 것)",
+    "소유대명사도 올 수 있어요: mine, yours, his, hers, ours, theirs",
+    "여러 개를 가리키는 복수 명사(구)는 못 와요 → These are, Those are",
+    "예) This is my pen. (이것은 내 펜이에요.)  These are my pens. (이것들은 내 펜들이에요.)"
+   ],
+   "narration": "This와 That은 한 사람이나 한 개를 가리키는 말이라서 This is, That is처럼 is와 함께 써요. 그래서 This is와 That is 뒤에는 my pen 같은 단수 명사, Mina's처럼 미나의 것이라는 말, mine이나 ours처럼 누구의 것이라는 뜻의 소유대명사가 올 수 있어요. 하지만 여러 개를 가리키는 복수 명사는 올 수 없고, 여러 개일 때는 These are나 Those are를 써요. This is my pen. 이것은 내 펜이에요. These are my pens. 이것들은 내 펜들이에요."
+  },
+  "steps": [
+   {
+    "note": "This is = 하나를 가리킨다 → 빈칸에 여러 개를 가리키는 말은 올 수 없다.",
+    "highlight": [
+     "This is"
+    ],
+    "strike": [],
+    "narration": "첫째, 빈칸 앞의 This is는 하나를 가리켜요. 그래서 빈칸에 여러 개를 가리키는 말은 올 수 없어요."
+   },
+   {
+    "note": "his new camera(카메라 한 대), my sister's(내 여동생의 것), hers·theirs(그녀의 것·그들의 것) → 올 수 있다 → 지운다.",
+    "highlight": [],
+    "strike": [
+     "① hers",
+     "② my sister's",
+     "④ his new camera",
+     "⑤ theirs"
+    ],
+    "narration": "둘째, his new camera는 카메라 한 대, my sister's는 내 여동생의 것, hers와 theirs는 그녀의 것과 그들의 것이라는 뜻이라 모두 This is 뒤에 올 수 있어요."
+   },
+   {
+    "note": "our bicycles = 자전거 여러 대(복수) → This is 뒤에 들어갈 수 없다.",
+    "highlight": [
+     "③ our bicycles"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 our bicycles는 자전거 여러 대를 가리키는 복수 명사라서 This is 뒤에 들어갈 수 없어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① hers  ✗  소유대명사 = 그녀의 것 → 올 수 있어요",
+    "② my sister's  ✗  명사's = 내 여동생의 것 → 올 수 있어요",
+    "③ our bicycles  ✓  자전거 여러 대(복수) → This is 뒤에 올 수 없어요",
+    "④ his new camera  ✗  카메라 한 대(단수 명사구) → 올 수 있어요",
+    "⑤ theirs  ✗  소유대명사 = 그들의 것 (물건 하나도 가리켜요) → 올 수 있어요"
+   ],
+   "narration": "정답은 3번 our bicycles예요. 자전거 여러 대를 가리키므로 This is가 아니라 These are와 함께 써야 해요. 5번 theirs는 그들이라는 여러 사람이 떠올라 헷갈리지만, 여기서는 그들의 물건 하나를 가리키는 소유대명사라 올 수 있어요. This is theirs. 이것은 그들의 것이에요. 4번 his new camera는 낱말이 많아도 카메라 한 대를 가리키는 단수 명사라 올 수 있어요."
+  },
+  "summary": {
+   "card": "This is, That is 뒤에 여러 개를 가리키는 복수 명사 ✗ (→ These are, Those are)",
+   "narration": "정답은 3번이에요. 기억할 것, This is와 That is 뒤에는 여러 개를 가리키는 복수 명사가 올 수 없어요. 여러 개일 때는 These are나 Those are를 써요."
+  },
+  "captions": [
+   "This is 뒤에 올 수 없는 말",
+   "먼저 풀어 보세요",
+   "This, That은 하나를 가리켜요",
+   "This is → 올 수 있는 말 → our bicycles",
+   "정답 ③ our bicycles",
+   "여러 개를 가리키는 복수 명사 ✗"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   30,
+   10
+  ]
+ },
+ "C": {
+  "title": "This is 뒤에 올 수 없는 말",
+  "intro": "이 문제는 This is 뒤에 올 수 있는 말을 가려서, 빈칸에 들어갈 수 없는 말을 고르는 문제예요.",
+  "problem_narration": "빈칸에 들어갈 수 없는 말을 고르세요. This is 빈칸. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "This, That = 한 사람·한 개를 가리켜요 → This is, That is",
+    "뒤에 올 수 있어요: 단수 명사(구), 명사's (Mina's 미나의 것)",
+    "소유대명사도 올 수 있어요: mine, yours, his, hers, ours, theirs",
+    "여러 개를 가리키는 복수 명사(구)는 못 와요 → These are, Those are",
+    "예) This is my pen. (이것은 내 펜이에요.)  These are my pens. (이것들은 내 펜들이에요.)"
+   ],
+   "narration": "This와 That은 한 사람이나 한 개를 가리키는 말이라서 This is, That is처럼 is와 함께 써요. 그래서 This is와 That is 뒤에는 my pen 같은 단수 명사, Mina's처럼 미나의 것이라는 말, mine이나 ours처럼 누구의 것이라는 뜻의 소유대명사가 올 수 있어요. 하지만 여러 개를 가리키는 복수 명사는 올 수 없고, 여러 개일 때는 These are나 Those are를 써요. This is my pen. 이것은 내 펜이에요. These are my pens. 이것들은 내 펜들이에요."
+  },
+  "steps": [
+   {
+    "note": "This is = 하나를 가리킨다 → 빈칸에 여러 개를 가리키는 말은 올 수 없다.",
+    "highlight": [
+     "This is"
+    ],
+    "strike": [],
+    "narration": "첫째, 빈칸 앞의 This is는 하나를 가리켜요. 그래서 빈칸에 여러 개를 가리키는 말은 올 수 없어요."
+   },
+   {
+    "note": "my notebook(공책 한 권), Tom's(톰의 것), ours·yours(우리의 것·너의 것) → 올 수 있다 → 지운다.",
+    "highlight": [],
+    "strike": [
+     "① ours",
+     "③ Tom's",
+     "④ my notebook",
+     "⑤ yours"
+    ],
+    "narration": "둘째, my notebook은 공책 한 권, Tom's는 톰의 것, ours와 yours는 우리의 것과 너의 것이라는 뜻이라 모두 This is 뒤에 올 수 있어요."
+   },
+   {
+    "note": "her books = 책 여러 권(복수) → This is 뒤에 들어갈 수 없다.",
+    "highlight": [
+     "② her books"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 her books는 책 여러 권을 가리키는 복수 명사라서 This is 뒤에 들어갈 수 없어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① ours  ✗  소유대명사 = 우리의 것 (물건 하나도 가리켜요) → 올 수 있어요",
+    "② her books  ✓  책 여러 권(복수) → This is 뒤에 올 수 없어요",
+    "③ Tom's  ✗  명사's = 톰의 것 → 올 수 있어요",
+    "④ my notebook  ✗  공책 한 권(단수 명사구) → 올 수 있어요",
+    "⑤ yours  ✗  소유대명사 = 너의 것 → 올 수 있어요"
+   ],
+   "narration": "정답은 2번 her books예요. 책 여러 권을 가리키므로 This is가 아니라 These are와 함께 써야 해요. 1번 ours는 우리라는 여러 사람이 떠올라 헷갈리지만, 여기서는 우리의 물건 하나를 가리키는 소유대명사라 올 수 있어요. 3번 Tom's는 뒤에 명사가 없어도 톰의 것이라는 뜻이라 올 수 있어요. This is Tom's. 이것은 톰의 것이에요."
+  },
+  "summary": {
+   "card": "This is, That is 뒤에 여러 개를 가리키는 복수 명사 ✗ (→ These are, Those are)",
+   "narration": "정답은 2번이에요. 기억할 것, This is와 That is 뒤에는 여러 개를 가리키는 복수 명사가 올 수 없어요. 여러 개일 때는 These are나 Those are를 써요."
+  },
+  "captions": [
+   "This is 뒤에 올 수 없는 말",
+   "먼저 풀어 보세요",
+   "This, That은 하나를 가리켜요",
+   "This is → 올 수 있는 말 → her books",
+   "정답 ② her books",
+   "여러 개를 가리키는 복수 명사 ✗"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   30,
+   10
+  ]
+ },
+ "D": {
+  "title": "That is 뒤에 올 수 없는 말",
+  "intro": "이 문제는 That is 뒤에 올 수 있는 말을 가려서, 빈칸에 들어갈 수 없는 말을 고르는 문제예요.",
+  "problem_narration": "빈칸에 들어갈 수 없는 말을 고르세요. That is 빈칸. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "This, That = 한 사람·한 개를 가리켜요 → This is, That is",
+    "뒤에 올 수 있어요: 단수 명사(구), 명사's (Mina's 미나의 것)",
+    "소유대명사도 올 수 있어요: mine, yours, his, hers, ours, theirs",
+    "여러 개를 가리키는 복수 명사(구)는 못 와요 → These are, Those are",
+    "예) That is my pen. (저것은 내 펜이에요.)  Those are my pens. (저것들은 내 펜들이에요.)"
+   ],
+   "narration": "This와 That은 한 사람이나 한 개를 가리키는 말이라서 This is, That is처럼 is와 함께 써요. 그래서 This is와 That is 뒤에는 my pen 같은 단수 명사, Mina's처럼 미나의 것이라는 말, mine이나 ours처럼 누구의 것이라는 뜻의 소유대명사가 올 수 있어요. 하지만 여러 개를 가리키는 복수 명사는 올 수 없고, 여러 개일 때는 These are나 Those are를 써요. That is my pen. 저것은 내 펜이에요. Those are my pens. 저것들은 내 펜들이에요."
+  },
+  "steps": [
+   {
+    "note": "That is = 하나를 가리킨다 → 빈칸에 여러 개를 가리키는 말은 올 수 없다.",
+    "highlight": [
+     "That is"
+    ],
+    "strike": [],
+    "narration": "첫째, 빈칸 앞의 That is는 하나를 가리켜요. 그래서 빈칸에 여러 개를 가리키는 말은 올 수 없어요."
+   },
+   {
+    "note": "my parents' car: parents'는 복수여도 가리키는 것은 car 한 대 → 단수 명사구 → 올 수 있다.",
+    "highlight": [
+     "car"
+    ],
+    "strike": [
+     "② my parents' car"
+    ],
+    "narration": "둘째, my parents' car는 부모님의 차라는 뜻인데, parents는 두 분이어도 가리키는 것은 차 한 대라서 That is 뒤에 올 수 있어요."
+   },
+   {
+    "note": "his(그의 것), mine(나의 것), the teacher's(선생님의 것) → 올 수 있다 → 지운다.",
+    "highlight": [],
+    "strike": [
+     "① his",
+     "③ mine",
+     "⑤ the teacher's"
+    ],
+    "narration": "셋째, his와 mine은 그의 것, 나의 것이라는 소유대명사이고, the teacher's는 선생님의 것이라는 뜻이라 모두 올 수 있어요."
+   },
+   {
+    "note": "their pencils = 연필 여러 자루(복수) → That is 뒤에 들어갈 수 없다.",
+    "highlight": [
+     "④ their pencils"
+    ],
+    "strike": [],
+    "narration": "넷째, 남은 their pencils는 연필 여러 자루를 가리키는 복수 명사라서 That is 뒤에 들어갈 수 없어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① his  ✗  소유대명사 = 그의 것 → 올 수 있어요",
+    "② my parents' car  ✗  부모님의 차 한 대(단수 명사구) → 올 수 있어요",
+    "③ mine  ✗  소유대명사 = 나의 것 → 올 수 있어요",
+    "④ their pencils  ✓  연필 여러 자루(복수) → That is 뒤에 올 수 없어요",
+    "⑤ the teacher's  ✗  명사's = 선생님의 것 → 올 수 있어요"
+   ],
+   "narration": "정답은 4번 their pencils예요. 연필 여러 자루를 가리키므로 That is가 아니라 Those are와 함께 써야 해요. 2번 my parents' car는 parents 때문에 여러 개처럼 보이지만, 가리키는 것은 차 한 대라서 올 수 있어요. 1번 his는 뒤에 명사가 없어 이상해 보이지만, 여기서는 그의 것이라는 소유대명사예요. That is his. 저것은 그의 것이에요."
+  },
+  "summary": {
+   "card": "This is, That is 뒤에 여러 개를 가리키는 복수 명사 ✗ (→ These are, Those are)",
+   "narration": "정답은 4번이에요. 기억할 것, This is와 That is 뒤에는 여러 개를 가리키는 복수 명사가 올 수 없어요. 여러 개일 때는 These are나 Those are를 써요."
+  },
+  "captions": [
+   "That is 뒤에 올 수 없는 말",
+   "먼저 풀어 보세요",
+   "This, That은 하나를 가리켜요",
+   "That is → 차 한 대 → their pencils",
+   "정답 ④ their pencils",
+   "여러 개를 가리키는 복수 명사 ✗"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   40,
+   30,
+   10
+  ]
+ },
+ "E": {
+  "title": "This is 뒤에 올 수 없는 말",
+  "intro": "이 문제는 This is 뒤에 올 수 있는 말을 가려서, 빈칸에 들어갈 수 없는 말을 고르는 문제예요.",
+  "problem_narration": "빈칸에 들어갈 수 없는 말을 고르세요. This is 빈칸. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "This, That = 한 사람·한 개를 가리켜요 → This is, That is",
+    "뒤에 올 수 있어요: 단수 명사(구), 명사's (Mina's 미나의 것)",
+    "소유대명사도 올 수 있어요: mine, yours, his, hers, ours, theirs",
+    "여러 개를 가리키는 복수 명사(구)는 못 와요 → These are, Those are",
+    "예) This is my pen. (이것은 내 펜이에요.)  These are my pens. (이것들은 내 펜들이에요.)"
+   ],
+   "narration": "This와 That은 한 사람이나 한 개를 가리키는 말이라서 This is, That is처럼 is와 함께 써요. 그래서 This is와 That is 뒤에는 my pen 같은 단수 명사, Mina's처럼 미나의 것이라는 말, mine이나 ours처럼 누구의 것이라는 뜻의 소유대명사가 올 수 있어요. 하지만 여러 개를 가리키는 복수 명사는 올 수 없고, 여러 개일 때는 These are나 Those are를 써요. This is my pen. 이것은 내 펜이에요. These are my pens. 이것들은 내 펜들이에요."
+  },
+  "steps": [
+   {
+    "note": "This is = 하나를 가리킨다 → 빈칸에 여러 개를 가리키는 말은 올 수 없다.",
+    "highlight": [
+     "This is"
+    ],
+    "strike": [],
+    "narration": "첫째, 빈칸 앞의 This is는 하나를 가리켜요. 그래서 빈칸에 여러 개를 가리키는 말은 올 수 없어요."
+   },
+   {
+    "note": "her bag(가방 한 개), my uncle's(내 삼촌의 것), yours·theirs(너의 것·그들의 것) → 올 수 있다 → 지운다.",
+    "highlight": [],
+    "strike": [
+     "② yours",
+     "③ my uncle's",
+     "④ theirs",
+     "⑤ her bag"
+    ],
+    "narration": "둘째, her bag은 가방 한 개, my uncle's는 내 삼촌의 것, yours와 theirs는 너의 것과 그들의 것이라는 뜻이라 모두 This is 뒤에 올 수 있어요."
+   },
+   {
+    "note": "his shoes = 신발 여러 짝(복수 shoes) → This is 뒤에 들어갈 수 없다.",
+    "highlight": [
+     "① his shoes"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 his shoes는 신발 두 짝 이상을 가리키는 복수 명사라서 This is 뒤에 들어갈 수 없어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① his shoes  ✓  신발 여러 짝(복수 shoes) → This is 뒤에 올 수 없어요",
+    "② yours  ✗  소유대명사 = 너의 것 → 올 수 있어요",
+    "③ my uncle's  ✗  명사's = 내 삼촌의 것 → 올 수 있어요",
+    "④ theirs  ✗  소유대명사 = 그들의 것 (물건 하나도 가리켜요) → 올 수 있어요",
+    "⑤ her bag  ✗  가방 한 개(단수 명사구) → 올 수 있어요"
+   ],
+   "narration": "정답은 1번 his shoes예요. 우리말로는 그의 신발이라 하나처럼 느껴지지만, shoes는 신발 두 짝 이상을 가리키는 복수 명사예요. 그래서 This is가 아니라 These are와 함께 써요. 4번 theirs는 그들이라는 여러 사람이 떠올라 헷갈리지만, 여기서는 그들의 물건 하나를 가리키는 소유대명사라 올 수 있어요. 3번 my uncle's는 뒤에 명사가 없어도 내 삼촌의 것이라는 뜻이라 올 수 있어요."
+  },
+  "summary": {
+   "card": "This is, That is 뒤에 여러 개를 가리키는 복수 명사 ✗ (→ These are, Those are)",
+   "narration": "정답은 1번이에요. 기억할 것, This is와 That is 뒤에는 여러 개를 가리키는 복수 명사가 올 수 없어요. 여러 개일 때는 These are나 Those are를 써요."
+  },
+  "captions": [
+   "This is 뒤에 올 수 없는 말",
+   "먼저 풀어 보세요",
+   "This, That은 하나를 가리켜요",
+   "This is → 올 수 있는 말 → his shoes",
+   "정답 ① his shoes",
+   "여러 개를 가리키는 복수 명사 ✗"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   30,
+   10
+  ]
+ },
+ "F": {
+  "title": "That is 뒤에 올 수 없는 말",
+  "intro": "이 문제는 That is 뒤에 올 수 있는 말을 가려서, 빈칸에 들어갈 수 없는 말을 고르는 문제예요.",
+  "problem_narration": "빈칸에 들어갈 수 없는 말을 고르세요. That is 빈칸. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "This, That = 한 사람·한 개를 가리켜요 → This is, That is",
+    "뒤에 올 수 있어요: 단수 명사(구), 명사's (Mina's 미나의 것)",
+    "소유대명사도 올 수 있어요: mine, yours, his, hers, ours, theirs",
+    "여러 개를 가리키는 복수 명사(구)는 못 와요 → These are, Those are",
+    "예) That is my pen. (저것은 내 펜이에요.)  Those are my pens. (저것들은 내 펜들이에요.)"
+   ],
+   "narration": "This와 That은 한 사람이나 한 개를 가리키는 말이라서 This is, That is처럼 is와 함께 써요. 그래서 This is와 That is 뒤에는 my pen 같은 단수 명사, Mina's처럼 미나의 것이라는 말, mine이나 ours처럼 누구의 것이라는 뜻의 소유대명사가 올 수 있어요. 하지만 여러 개를 가리키는 복수 명사는 올 수 없고, 여러 개일 때는 These are나 Those are를 써요. That is my pen. 저것은 내 펜이에요. Those are my pens. 저것들은 내 펜들이에요."
+  },
+  "steps": [
+   {
+    "note": "That is = 하나를 가리킨다 → 빈칸에 여러 개를 가리키는 말은 올 수 없다.",
+    "highlight": [
+     "That is"
+    ],
+    "strike": [],
+    "narration": "첫째, 빈칸 앞의 That is는 하나를 가리켜요. 그래서 빈칸에 여러 개를 가리키는 말은 올 수 없어요."
+   },
+   {
+    "note": "my brother's cap(모자 한 개), Jane's(제인의 것), hers·ours(그녀의 것·우리의 것) → 올 수 있다 → 지운다.",
+    "highlight": [],
+    "strike": [
+     "① Jane's",
+     "② hers",
+     "③ ours",
+     "④ my brother's cap"
+    ],
+    "narration": "둘째, my brother's cap은 내 형의 모자 한 개, Jane's는 제인의 것, hers와 ours는 그녀의 것과 우리의 것이라는 뜻이라 모두 That is 뒤에 올 수 있어요."
+   },
+   {
+    "note": "her toys = 장난감 여러 개(복수) → That is 뒤에 들어갈 수 없다.",
+    "highlight": [
+     "⑤ her toys"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 her toys는 장난감 여러 개를 가리키는 복수 명사라서 That is 뒤에 들어갈 수 없어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Jane's  ✗  명사's = 제인의 것 → 올 수 있어요",
+    "② hers  ✗  소유대명사 = 그녀의 것 → 올 수 있어요",
+    "③ ours  ✗  소유대명사 = 우리의 것 (물건 하나도 가리켜요) → 올 수 있어요",
+    "④ my brother's cap  ✗  내 형의 모자 한 개(단수 명사구) → 올 수 있어요",
+    "⑤ her toys  ✓  장난감 여러 개(복수) → That is 뒤에 올 수 없어요"
+   ],
+   "narration": "정답은 5번 her toys예요. 장난감 여러 개를 가리키므로 That is가 아니라 Those are와 함께 써야 해요. 3번 ours는 우리라는 여러 사람이 떠올라 헷갈리지만, 여기서는 우리의 물건 하나를 가리키는 소유대명사라 올 수 있어요. 2번 hers는 her와 비슷해 보이지만, 뒤에 명사 없이 그녀의 것이라는 뜻이라 올 수 있어요. 1번 Jane's도 제인의 것이라는 뜻이라 올 수 있어요."
+  },
+  "summary": {
+   "card": "This is, That is 뒤에 여러 개를 가리키는 복수 명사 ✗ (→ These are, Those are)",
+   "narration": "정답은 5번이에요. 기억할 것, This is와 That is 뒤에는 여러 개를 가리키는 복수 명사가 올 수 없어요. 여러 개일 때는 These are나 Those are를 써요."
+  },
+  "captions": [
+   "That is 뒤에 올 수 없는 말",
+   "먼저 풀어 보세요",
+   "This, That은 하나를 가리켜요",
+   "That is → 올 수 있는 말 → her toys",
+   "정답 ⑤ her toys",
+   "여러 개를 가리키는 복수 명사 ✗"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   30,
+   10
+  ]
+ }
+}

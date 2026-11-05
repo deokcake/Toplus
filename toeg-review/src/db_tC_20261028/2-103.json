@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T04:02:22.696Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "below",
+      "1": null,
+      "2": "above",
+      "3": "behind",
+      "4": "across from"
+    },
+    "expl": "핵심 규칙: 위치 전치사는 두 대상의 관계를 나타낸다. A가 B 앞(in front of)이면 B는 A 뒤(behind), A가 B 위(above)면 B는 A 아래(under/below), 맞은편(across from)과 옆(next to, beside)은 서로 같은 관계이다.\n풀이 순서: ① 둘째 문장에서 두 대상의 위치 관계를 읽는다. 탁자가 전등 ‘아래에’ 있다. → ② 첫째 문장은 주어와 대상이 바뀌어 있다. 그 관계를 뒤집어 본다. 전등은 탁자 ‘위에’ 있다. → ③ 정답은 above.\n문장별 판정:\n정답 판단: above: 탁자가 전등 아래에 있으면 전등은 탁자 위에 있으므로 정답은 ③이다.\n선택지 분석:\n① [오답] below: 전등이 탁자 아래에 있다는 반대 뜻이 되므로 오답이다.\n② [오답] beside: 옆의 관계라 위아래 관계와 맞지 않으므로 오답이다.\n③ [정답] above: 탁자가 전등 아래에 있으면 전등은 탁자 위에 있으므로 정답이다.\n④ [오답] behind: 뒤의 관계라 위아래 관계와 맞지 않으므로 오답이다.\n⑤ [오답] across from: 맞은편의 관계라 위아래 관계와 맞지 않으므로 오답이다.",
+    "passage": "The lamp is _____ the table.\n= The table is under the lamp.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:02:06.682Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T04:02:22.696Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:02:22.696Z",
+      "what": "확인 완료"
+    }
+  }
+}

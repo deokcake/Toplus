@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T15:00:32.737Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "My brother",
+      "1": "cleaned",
+      "2": "his messy room",
+      "3": "with Dad",
+      "4": "last Sunday"
+    },
+    "expl": "핵심 규칙: 목적어는 동사의 동작 대상(~을/를)이 되는 명사구 전체이다. 주어, 동사, 시간·장소·방법을 나타내는 부사어와 구별한다.\n풀이 순서: ① 동사를 찾는다: cleaned. → ② 동사에 ‘무엇을?’이라고 물어 본다: 청소한 것은 his messy room. → ③ 때·장소·목적을 나타내는 말은 부사구다. 정답은 his messy room.\n문장별 판정:\n정답 판단: 동사 cleaned의 대상(~을/를)이 되는 목적어이므로 정답은 ③이다.\n선택지 분석:\n① [오답] 문장의 주어이므로 오답이다.\n② [오답] 문장의 동사이므로 오답이다.\n③ [정답] 동사 cleaned의 대상(~을/를)이 되는 목적어이므로 정답이다.\n④ [오답] 시간·장소·방법을 나타내는 부사어이므로 오답이다.\n⑤ [오답] 시간·장소·방법을 나타내는 부사어이므로 오답이다.",
+    "passage": "①<u>My brother</u> ②<u>cleaned</u> ③<u>his messy room</u> ④<u>with Dad</u> ⑤<u>last Sunday</u>.",
+    "stem": null
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T15:00:32.057Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T15:00:32.737Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+ "key": "7-56",
+ "type": "A",
+ "grade": 7,
+ "chapter": "CH 6 일반동사",
+ "title": "주어 We 뒤 일반동사의 형태",
+ "total_sec": 127,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "7급 · CH 6 일반동사 · 56번\n\n이 문제는 주어 We 뒤에 오는 일반동사의 알맞은 형태를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 6 일반동사 · 56번",
+     "이 문제는 주어 We 뒤에 오는 일반동사의 알맞은 형태를 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 6, 56번. 이 문제는 주어 We 뒤에 오는 일반동사의 알맞은 형태를 고르는 문제예요.",
+   "caption": "We 뒤 일반동사의 형태"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.\n\nWe _______ to the bus.\n\n① runs\n② running\n③ to run\n④ is run\n⑤ run",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 알맞은 단어를 고르세요.",
+     "We _______ to the bus.",
+     "① runs",
+     "② running",
+     "③ to run",
+     "④ is run",
+     "⑤ run"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 알맞은 단어를 고르세요. We, 빈칸, to the bus. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n일반동사 현재형: 주로 평소에 하는 일이나 사실을 말해요\n주어가 I, you, we, they이거나 여럿 → 동사원형 (eat)\n주어가 he, she, it 같은 3인칭 단수 → 동사 + s/es (eats, goes), have는 has\nbe동사와 동사원형은 나란히 쓰지 않고, ing형이나 to + 동사만으로는 동사 자리를 못 채워요\n예) We eat lunch. (우리는 점심을 먹어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "일반동사 현재형: 주로 평소에 하는 일이나 사실을 말해요",
+     "주어가 I, you, we, they이거나 여럿 → 동사원형 (eat)",
+     "주어가 he, she, it 같은 3인칭 단수 → 동사 + s/es (eats, goes), have는 has",
+     "be동사와 동사원형은 나란히 쓰지 않고, ing형이나 to + 동사만으로는 동사 자리를 못 채워요",
+     "예) We eat lunch. (우리는 점심을 먹어요.)"
+    ]
+   },
+   "narration": "일반동사 현재형은 주로 평소에 하는 일이나 사실을 말해요. 주어가 I, you, we, they이거나 여럿이면 동사원형을 그대로 써요. 주어가 he, she, it 같은 3인칭 단수이면 동사에 s나 es를 붙이고, have는 has로 바꿔 써요. 그리고 be동사와 동사원형은 나란히 쓰지 않고, ing형이나 to가 붙은 꼴만으로는 동사 자리를 채울 수 없어요. 예를 들어 We eat lunch, 우리는 점심을 먹어요.",
+   "caption": "주어에 따라 동사 모양이 달라요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.\n\nWe _______ to the bus.\n\n① runs\n② running\n③ to run\n④ is run\n⑤ run",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "We",
+       "_______"
+      ],
+      "strike": [
+       "② running",
+       "③ to run",
+       "④ is run"
+      ],
+      "note": "빈칸은 주어 We 바로 뒤 = 동사 자리. ing형, to + 동사, is가 붙은 꼴은 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "We"
+      ],
+      "strike": [
+       "① runs"
+      ],
+      "note": "We는 3인칭 단수가 아니다 → s가 붙은 runs도 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ run"
+      ],
+      "strike": [],
+      "note": "남는 것은 동사원형 run → We run to the bus."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 빈칸은 주어 We 바로 뒤라서 동사 자리예요. ing형인 running, to가 붙은 to run, We에 맞지 않는 is가 붙은 is run은 이 자리에 올 수 없어요. 둘째, We는 3인칭 단수가 아니라서 s가 붙은 runs도 지워요. 셋째, 남는 것은 동사원형 run이에요. We run to the bus, 우리는 버스를 향해 달려가요.",
+   "caption": "동사 자리 → 3인칭 단수 아님 → run"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① runs  ✗  s가 붙은 꼴은 he, she, it 같은 3인칭 단수 주어에 써요\n② running  ✗  ing형만으로는 동사 자리를 채울 수 없어요\n③ to run  ✗  to + 동사만으로는 동사 자리를 채울 수 없어요\n④ is run  ✗  We에는 is를 쓰지 않고, ‘달려간다’는 be동사 없이 run만 써요\n⑤ run  ✓  주어 We에 맞는 동사원형",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① runs  ✗  s가 붙은 꼴은 he, she, it 같은 3인칭 단수 주어에 써요",
+     "② running  ✗  ing형만으로는 동사 자리를 채울 수 없어요",
+     "③ to run  ✗  to + 동사만으로는 동사 자리를 채울 수 없어요",
+     "④ is run  ✗  We에는 is를 쓰지 않고, ‘달려간다’는 be동사 없이 run만 써요",
+     "⑤ run  ✓  주어 We에 맞는 동사원형"
+    ]
+   },
+   "narration": "정답은 5번 run이에요. 1번 runs는 he나 she 같은 3인칭 단수 주어에 쓰는 꼴이라 We와 맞지 않아요. 4번 is run은 We에 맞지 않는 is를 썼어요. 버스를 향해 달려간다고 할 때는 be동사 없이 run만 써요. 2번 running은 ing형이라 혼자서는 동사 자리를 채울 수 없어요.",
+   "caption": "정답 ⑤ run"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ⑤ run\n\n일반동사 현재형: 주어 I, you, we, they, 여럿 → 동사원형",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ run",
+     "일반동사 현재형: 주어 I, you, we, they, 여럿 → 동사원형"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 일반동사 현재형은 주어가 I, you, we, they이거나 여럿이면 동사원형을 써요.",
+   "caption": "I·you·we·they·여럿 + 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.",
+  "passage": "We _______ to the bus.",
+  "c": [
+   "runs",
+   "running",
+   "to run",
+   "is run",
+   "run"
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 주어가 I, you, we, they나 복수면 일반동사를 원형 그대로 쓴다. be동사와 일반동사 원형을 함께 쓰지 않으며, -ing형이나 to + 동사만으로는 동사 자리를 채울 수 없다.\n풀이 순서: ① 빈칸은 주어(We) 바로 뒤의 동사 자리다. -ing형, to + 동사, is + 동사를 지운다. → ② 주어(We)가 3인칭 단수가 아니므로 -s/-es가 붙은 꼴도 지운다. → ③ 남는 것은 run.\n문장별 판정:\n정답 판단: We에 동사원형 run이 알맞으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] runs는 3인칭 단수 주어에 쓰므로 오답이다.\n② [오답] -ing형만으로는 동사 자리를 채울 수 없으므로 오답이다.\n③ [오답] to + 동사만으로는 동사 자리를 채울 수 없으므로 오답이다.\n④ [오답] be동사와 일반동사 원형을 함께 쓸 수 없고 We와 is도 맞지 않으므로 오답이다.\n⑤ [정답] We에 동사원형 run이 알맞으므로 정답이다."
+ }
+}

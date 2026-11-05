@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:54:58.693Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "(A), (B), (E)",
+      "1": null,
+      "2": "(B), (C), (E)",
+      "3": "(C), (D), (E)",
+      "4": "(A), (C), (D)"
+    },
+    "expl": "핵심 규칙: Can + 주어 + 동사원형 ~? 형태인지 본다. can에는 -s를 붙이지 않고(Cans ×), can 뒤의 동사는 -s나 to 없이 원형으로 쓴다.\n풀이 순서: ① 문장마다 밑줄 친 말이 Can인지, can 뒤의 동사인지 본다. → ② Can에는 -s를 붙이지 않고, can 뒤의 동사는 원형이어야 한다. (A) O, (B) swims(X), (C) O, (D) O, (E) Cans(X). → ③ 옳은 것만 모으면 (A), (C), (D)\n문장별 판정:\n(A) O. can 뒤에 동사원형 help를 썼다.\n(B) X. can 뒤에는 동사원형 swim을 써야 한다.\n(C) O. can 뒤에 동사원형 go를 썼다.\n(D) O. can 뒤에 be동사의 원형 be를 썼다.\n(E) X. can에는 -s를 붙이지 않는다.\n정답 판단: 밑줄 친 부분이 옳은 문장은 (A), (C), (D)이다.\n선택지 분석:\n① [오답] (B), (E)는 옳은 문장이 아니고, 옳은 문장 (C), (D)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (E)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (B), (E)는 옳은 문장이 아니고, 옳은 문장 (A), (D)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (E)는 옳은 문장이 아니고, 옳은 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 옳은 문장 (A), (C), (D)를 빠짐없이 골랐으므로 정답이다.",
+    "passage": "(A) Can I <u>help</u> you now?\n(B) Can she <u>swims</u> in the sea?\n(C) Can they <u>go</u> home early?\n(D) Can he <u>be</u> kind to animals?\n(E) <u>Cans</u> we run in the gym?",
+    "stem": "다음 중 밑줄 친 부분이 문법적으로 옳은 문장으로 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:54:55.689Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:54:58.693Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:54:58.693Z",
+      "what": "확인 완료"
+    }
+  }
+}

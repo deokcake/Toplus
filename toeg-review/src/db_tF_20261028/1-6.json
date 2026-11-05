@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T06:29:00.094Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "tastes",
+      "1": "taste",
+      "2": "is tasted",
+      "3": "tasting",
+      "4": "to taste"
+    },
+    "expl": "핵심 규칙: 단수 주어 뒤에서 감각·상태 연결동사는 현재시제 3인칭 단수형(smells, sounds, feels, seems, tastes)을 쓰고, 뒤의 형용사 보어와 연결한다. -ing·수동태·-ly를 임의로 붙이지 않는다.\n풀이 순서: ① 빈칸 뒤에 형용사(too salty)만 있고 다른 동사가 없으므로, 빈칸은 형용사 보어를 받는 연결동사가 문장의 동사로 들어갈 자리다. → ② -ing형과 to부정사는 혼자 동사 자리에 올 수 없어 지운다. → ③ 주어(The sauce)가 3인칭 단수이므로 원형이 아니라 -s가 붙은 tastes를 고른다.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 The sauce에 맞춘 연결동사 tastes 뒤에 형용사 보어 too salty가 와서 올바르다. 따라서 정답은 ①이다.\n선택지 분석:\n① [정답] 3인칭 단수 주어 The sauce에 맞춘 연결동사 tastes 뒤에 형용사 보어 too salty가 와서 올바르다.\n② [오답] 주어(The sauce)는 3인칭 단수이므로 taste가 아니라 tastes를 써야 한다.\n③ [오답] taste가 주어의 상태를 나타내는 연결동사(~하게 들리다·느껴지다·보이다)로 쓰일 때는 수동태로 만들지 않는다.\n④ [오답] tasting은 -ing형이라 혼자서 문장의 동사가 될 수 없다.\n⑤ [오답] to taste는 to부정사라 문장의 동사 자리에 올 수 없다.",
+    "passage": "The tomato sauce in this pasta _________ too salty for me.",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것은?"
+  },
+  "tab": "ij7ic6nx",
+  "updatedAt": "2026-10-26T06:29:00.094Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:29:00.094Z",
+      "what": "확인 완료"
+    }
+  }
+}

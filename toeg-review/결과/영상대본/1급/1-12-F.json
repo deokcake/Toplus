@@ -1,0 +1,182 @@
+{
+ "key": "1-12",
+ "type": "F",
+ "grade": 1,
+ "chapter": "CH 2 시제",
+ "title": "끝난 과거 시점과 현재완료",
+ "total_sec": 140,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "1급 · CH 2 시제 · 12번 · F 유형\n\n이 문제는 때를 나타내는 말과 주어를 보고, 두 빈칸에 알맞은 동사 형태를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 2 시제 · 12번 · F 유형",
+     "이 문제는 때를 나타내는 말과 주어를 보고, 두 빈칸에 알맞은 동사 형태를 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 2, 12번 F 유형. 이 문제는 때를 나타내는 말과 주어를 보고, 두 빈칸에 알맞은 동사 형태를 고르는 문제예요.",
+   "caption": "과거형과 현재완료 짝짓기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 21,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.\n\nJane _____ the application last week.\nThe team members _____ several improvements recently.\n\n① submits — introduce\n② has submitted — have introduced\n③ submitted — introduce\n④ submitted — have introduced\n⑤ submitted — has introduced",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+     "Jane _____ the application last week.",
+     "The team members _____ several improvements recently.",
+     "① submits — introduce",
+     "② has submitted — have introduced",
+     "③ submitted — introduce",
+     "④ submitted — have introduced",
+     "⑤ submitted — has introduced"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오. Jane 빈칸 the application last week. The team members 빈칸 several improvements recently. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n끝난 과거 시점(yesterday, last week, two days ago) → 과거형 (현재완료 ✗)\n현재완료 = have/has + 과거분사: 과거의 일이 지금과 이어질 때\nhas는 3인칭 단수 주어에만, 그 밖의 주어(I, you, 복수)는 have\nrecently, lately로 최근부터 지금까지의 일을 말할 때 → 현재완료 (recently는 과거형과도 써요)\n예) We have learned a lot recently. (우리는 최근에 많은 것을 배웠어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "끝난 과거 시점(yesterday, last week, two days ago) → 과거형 (현재완료 ✗)",
+     "현재완료 = have/has + 과거분사: 과거의 일이 지금과 이어질 때",
+     "has는 3인칭 단수 주어에만, 그 밖의 주어(I, you, 복수)는 have",
+     "recently, lately로 최근부터 지금까지의 일을 말할 때 → 현재완료 (recently는 과거형과도 써요)",
+     "예) We have learned a lot recently. (우리는 최근에 많은 것을 배웠어요.)"
+    ]
+   },
+   "narration": "yesterday, last week 같은 끝난 과거 시점에는 과거형을 쓰고, 현재완료는 쓰지 않아요. 현재완료는 have나 has 뒤에 과거분사를 써서 과거의 일이 지금과 이어짐을 나타내고, has는 3인칭 단수 주어에만 써요. recently, lately로 최근부터 지금까지의 일을 말할 때도 현재완료를 써요. 예를 들어 We have learned a lot recently. 우리는 최근에 많은 것을 배웠어요.",
+   "caption": "끝난 과거 → 과거형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 40,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.\n\nJane _____ the application last week.\nThe team members _____ several improvements recently.\n\n① submits — introduce\n② has submitted — have introduced\n③ submitted — introduce\n④ submitted — have introduced\n⑤ submitted — has introduced",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "last week"
+      ],
+      "strike": [
+       "① submits — introduce",
+       "② has submitted — have introduced"
+      ],
+      "note": "첫 문장 last week = 끝난 과거 시점 → 과거형 submitted. 현재형 submits(①), 현재완료 has submitted(②)는 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "recently"
+      ],
+      "strike": [
+       "③ submitted — introduce"
+      ],
+      "note": "둘째 문장 recently + 최근에 이뤄 낸 개선 → 현재형 introduce ✗, 현재완료"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "The team members",
+       "④ submitted — have introduced"
+      ],
+      "strike": [
+       "⑤ submitted — has introduced"
+      ],
+      "note": "주어 The team members는 복수 → has ✗, have → ④ 남음"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 첫 문장의 last week, 즉 지난주는 끝난 과거 시점이라 과거형 submitted를 써요. 현재형 submits인 1번과 현재완료 has submitted인 2번을 지워요. 둘째, 둘째 문장은 recently와 함께 최근에 이뤄 낸 개선을 말하니, 현재형 introduce가 아니라 현재완료를 써야 해서 3번을 지워요. 셋째, 주어 The team members는 복수라서 has가 아니라 have를 쓰니, 5번을 지우면 4번이 남아요. The team members have introduced several improvements recently. 팀원들은 최근에 몇 가지 개선 사항을 도입했어요.",
+   "caption": "last week → recently → 복수 have"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① submits — introduce  ✗  지난주 일에 현재형 submits, 둘째도 현재형 introduce\n② has submitted — have introduced  ✗  last week와 현재완료 has submitted는 함께 못 써요\n③ submitted — introduce  ✗  submitted는 맞지만 현재형 introduce로는 최근 성과를 못 나타내요\n④ submitted — have introduced  ✓  last week엔 과거형, 복수 주어와 recently엔 have introduced\n⑤ submitted — has introduced  ✗  복수 주어 The team members에는 has가 아니라 have",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① submits — introduce  ✗  지난주 일에 현재형 submits, 둘째도 현재형 introduce",
+     "② has submitted — have introduced  ✗  last week와 현재완료 has submitted는 함께 못 써요",
+     "③ submitted — introduce  ✗  submitted는 맞지만 현재형 introduce로는 최근 성과를 못 나타내요",
+     "④ submitted — have introduced  ✓  last week엔 과거형, 복수 주어와 recently엔 have introduced",
+     "⑤ submitted — has introduced  ✗  복수 주어 The team members에는 has가 아니라 have"
+    ]
+   },
+   "narration": "정답은 4번 submitted, have introduced예요. 5번은 현재완료이지만, 복수 주어 The team members에 has를 써서 틀렸어요. 2번 has submitted는 지난주 같은 끝난 과거 시점과 함께 쓸 수 없어요. 3번은 submitted는 맞지만, 현재형 introduce로는 최근에 이뤄 낸 개선을 나타낼 수 없어요.",
+   "caption": "정답 ④ submitted — have introduced"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ④ submitted — have introduced\n\n끝난 과거 시점 → 과거형 / 최근부터 지금까지의 일 → have/has + 과거분사 (복수 주어 → have)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ submitted — have introduced",
+     "끝난 과거 시점 → 과거형 / 최근부터 지금까지의 일 → have/has + 과거분사 (복수 주어 → have)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 끝난 과거 시점은 과거형, 최근부터 지금까지의 일은 현재완료, 복수 주어에는 have예요.",
+   "caption": "복수 주어 + have + 과거분사"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+  "passage": "Jane _____ the application last week.\nThe team members _____ several improvements recently.",
+  "c": [
+   "submits — introduce",
+   "has submitted — have introduced",
+   "submitted — introduce",
+   "submitted — have introduced",
+   "submitted — has introduced"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: yesterday·last week처럼 끝난 과거 시점에는 단순과거를 쓴다. 과거부터 현재까지의 최근 성과는 have/has + 과거분사로 나타낸다. 동사 선택과 시제·수 일치 오류는 구분한다.\n풀이 순서: ① 첫 문장에는 끝난 과거 시점(last week)이 있으므로 과거형을 쓴다. 현재형과 현재완료를 지운다. → ② 둘째 문장에는 최근부터 지금까지를 나타내는 말(recently)이 있으므로 현재완료를 쓴다. 주어(The team members)가 복수이므로 has가 아니라 have다. → ③ 정답은 submitted — have introduced.\n문장별 판정:\n정답 판단: last week에는 단순과거 submitted, recently와 복수 주어 The team members에는 have introduced가 알맞다.\n선택지 분석:\n① [오답] 첫째 빈칸 submits: 현재형이어서 맞지 않는다. last night·yesterday처럼 끝난 과거 시점에는 단순과거를 쓴다. 둘째 빈칸 introduce: 동사원형이어서 맞지 않는다. recently가 나타내는 최근부터 지금까지의 결과는 have/has + 과거분사로 쓰고, 복수 주어에는 have를 쓴다. 따라서 오답이다.\n② [오답] 첫째 빈칸 has submitted: 현재완료이어서 맞지 않는다. last night·yesterday처럼 끝난 과거 시점에는 단순과거를 쓴다. 따라서 오답이다.\n③ [오답] 둘째 빈칸 introduce: 동사원형이어서 맞지 않는다. recently가 나타내는 최근부터 지금까지의 결과는 have/has + 과거분사로 쓰고, 복수 주어에는 have를 쓴다. 따라서 오답이다.\n④ [정답] last week에는 단순과거 submitted, recently와 복수 주어 The team members에는 have introduced가 알맞다. 모든 자리가 알맞으므로 정답이다.\n⑤ [오답] 둘째 빈칸 has introduced: 현재완료이어서 맞지 않는다. recently가 나타내는 최근부터 지금까지의 결과는 have/has + 과거분사로 쓰고, 복수 주어에는 have를 쓴다. 따라서 오답이다."
+ }
+}

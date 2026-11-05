@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T04:55:19.061Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 최상급 의미를 비교급으로 바꿀 때 비교 대상은 any other + 단수명사로 표현할 수 있다.\n풀이 순서: ① 첫 문장은 최상급이다: the fastest runner. → ② 같은 뜻을 비교급으로 쓰면 ‘비교급 + than any other + 단수명사’(다른 어떤 ~보다 더 …한)다. → ③ any other 뒤의 명사가 단수인 것을 고른다. 정답은 any other runner.\n문장별 판정:\n정답 판단: 최상급 의미를 비교급으로 바꿀 때 같은 집단의 나머지 하나하나와 비교하므로 'any other + 단수명사'를 사용한다. 'any other runner'가 이 구조에 맞아 정답은 ④이다.\n선택지 분석:\n① [오답] any other 뒤에는 이 구조에서 단수명사가 와야 한다. 'any other runners'는 복수형을 사용해 오답이다.\n② [오답] 원문의 최상급 의미를 유지하려면 같은 집단의 다른 어느 하나와 비교하는 'any other + 단수명사' 구조가 필요하다. 'the other runner'는 한정사·수 또는 의미가 맞지 않아 오답이다.\n③ [오답] 원문의 최상급 의미를 유지하려면 같은 집단의 다른 어느 하나와 비교하는 'any other + 단수명사' 구조가 필요하다. 'another runner'는 한정사·수 또는 의미가 맞지 않아 오답이다.\n④ [정답] 최상급 의미를 비교급으로 바꿀 때 같은 집단의 나머지 하나하나와 비교하므로 'any other + 단수명사'를 사용한다. 'any other runner'가 이 구조에 맞아 정답이다.\n⑤ [오답] 원문의 최상급 의미를 유지하려면 같은 집단의 다른 어느 하나와 비교하는 'any other + 단수명사' 구조가 필요하다. 'all other runner'는 한정사·수 또는 의미가 맞지 않아 오답이다.",
+    "passage": "Jane is the fastest runner on the team.\n= Jane is faster than (<u>                   </u>) on the team.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T04:55:13.845Z"
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T04:55:19.061Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:55:19.061Z",
+      "what": "확인 완료"
+    }
+  }
+}

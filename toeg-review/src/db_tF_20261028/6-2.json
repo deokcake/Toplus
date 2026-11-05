@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:03:27.924Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "fork",
+      "1": "chair",
+      "2": "blanket",
+      "3": "spoon",
+      "4": "milk"
+    },
+    "expl": "핵심 규칙: a/an은 셀 수 있는 명사의 단수형 앞에만 쓴다. water, bread, money, rice, milk처럼 셀 수 없는 명사 앞에는 a/an을 쓰지 않는다.\n풀이 순서: ① 빈칸 앞에 a가 있으므로 빈칸에는 셀 수 있는 명사의 단수형만 들어간다. → ② 보기 가운데 하나, 둘 셀 수 없는 것(물질·추상 명사)을 찾는다. → ③ milk는 물질이라 셀 수 없다(a glass of milk). 정답은 ⑤.\n문장별 판정:\n정답 판단: 셀 수 없는 명사(milk)라 a 뒤에 쓸 수 없으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다.\n② [오답] 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다.\n③ [오답] 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다.\n④ [오답] 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다.\n⑤ [정답] 셀 수 없는 명사(milk)라 a 뒤에 쓸 수 없으므로 정답이다.",
+    "passage": "Please bring me a _______.",
+    "stem": "다음 빈칸에 들어갈 수 없는 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:03:26.885Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:03:27.924Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:03:27.924Z",
+      "what": "확인 완료"
+    }
+  }
+}

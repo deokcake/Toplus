@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-27T05:37:54.219Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "(A) will - (B) What - (C) How",
+      "1": "(A) shall - (B) Why - (C) How",
+      "2": "(A) shall - (B) What - (C) What",
+      "3": "(A) do - (B) Why - (C) How",
+      "4": "(A) shall - (B) What - (C) How"
+    },
+    "expl": "핵심 규칙: Let's ~의 부가의문문은 shall we?, 명령문의 부가의문문은 will you?이다. 제안은 Why don't we + 동사원형 / How(What) about + -ing로 하고, 감탄문은 a/an + 명사 앞에 What, 형용사 앞에 How를 쓴다.\n풀이 순서: ① (A): Let's ~ 뒤의 부가의문문은 shall we다. → ② (B): 뒤에 about + -ing가 있으므로 What about ~?(~하는 게 어때?)이다. → ③ (C): 형용사 beautiful 뒤에 바로 the sunset is가 오므로 How다. 정답은 (A) shall - (B) What - (C) How.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] (A) 빈칸 will: Let's ~의 부가의문문은 shall we이다. 따라서 오답이다.\n② [오답] (B) 빈칸 Why: about + -ing로 제안할 때는 What(How)을 쓰고 Why는 쓰지 않는다. 따라서 오답이다.\n③ [오답] (C) 빈칸 What: 형용사 beautiful 앞의 감탄문은 How이다. 따라서 오답이다.\n④ [오답] (A) 빈칸 do: Let's ~의 부가의문문은 shall we이다, (B) 빈칸 Why: about + -ing로 제안할 때는 What(How)을 쓰고 Why는 쓰지 않는다. 따라서 오답이다.\n⑤ [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.",
+    "passage": "A: The weather is so nice this evening. Let's take a walk, (A)_____ we?\nB: Sure. (B)_____ about going to the river near our house?\nA: Great. (C)_____ beautiful the sunset is over the water!",
+    "stem": "다음 대화의 빈칸 (A)~(C)에 들어갈 표현으로 알맞게 짝지어진 것을 고르시오."
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:37:54.219Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:37:54.219Z",
+      "what": "확인 완료"
+    }
+  }
+}

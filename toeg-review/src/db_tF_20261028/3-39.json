@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-26T12:21:46.163Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "(가), (나)",
+      "1": "(가), (다)",
+      "2": "(나), (다)",
+      "3": "(나), (라)",
+      "4": "(다), (라)"
+    },
+    "expl": "핵심 규칙: 현재진행형은 am/is/are + 동사-ing로 만들며 be동사는 주어에 맞춘다. -e로 끝나면 e를 빼고 -ing(write → writing), 단모음 + 단자음이면 자음을 한 번 더 쓴다(sit → sitting). know·want 같은 상태동사는 보통 진행형으로 쓰지 않는다.\n풀이 순서: ① 문장마다 ‘be동사 + -ing’가 갖춰졌는지 본다. be동사가 주어에 맞는지, 뒤가 -ing인지 확인한다. → ② -ing의 철자(e를 빼는 동사, 끝 자음을 겹쳐 쓰는 동사)와 진행형으로 쓰지 않는 상태 동사도 확인한다. → ③ 틀린 문장을 지운다: (가) The dog are, (다) am want. 남은 두 문장을 묶은 (나), (라)가 정답이다.\n문장별 판정:\n(가) X. 단수 주어(The dog)에는 is를 쓴다.\n(나) O. is + -ing의 현재진행형이다.\n(다) X. am 뒤에 원형을 쓸 수 없고, want는 진행형으로도 쓰지 않는다.\n(라) O. are + -ing의 현재진행형이다.\n정답 판단: 옳은 문장은 (나), (라)이다.\n선택지 분석:\n① [오답] (가)는 옳은 문장이 아니고, 옳은 문장 (라)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (가), (다)는 옳은 문장이 아니고, 옳은 문장 (나), (라)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (라)를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 (나), (라)를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (나)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(가) The dog are barking at the mailman again.\n(나) Tom is working at the cafe this afternoon.\n(다) I am want a new bag for school.\n(라) We are cleaning the classroom after school.",
+    "stem": "다음 중 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T12:21:46.163Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T12:21:46.163Z",
+      "what": "확인 완료"
+    }
+  }
+}

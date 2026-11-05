@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:19:21.259Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "(A) Let's - (B) Shall",
+      "1": "(A) How about - (B) Let's",
+      "2": "(A) Shall - (B) How about",
+      "3": "(A) How about - (B) Shall",
+      "4": "(A) Let's - (B) Let's"
+    },
+    "expl": "핵심 규칙: Let's와 Why don't we 뒤에는 동사원형, Shall we 뒤에도 동사원형을 쓰고, How about/What about 뒤에는 -ing형을 쓴다. Shall은 we와 함께 Shall we ~?로 쓴다.\n풀이 순서: ① (A) 뒤를 본다: watching(-ing형), 물음표 → How about. → ② (B) 뒤를 본다: go(동사원형), 마침표 → Let's. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: -ing형 앞에 How about, 동사원형 앞에 Let's를 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] (A): Let's 뒤에는 -ing형이 아니라 동사원형을 쓰므로 오답이다.\n② [정답] -ing형 앞에 How about, 동사원형 앞에 Let's를 바르게 썼으므로 정답이다.\n③ [오답] (A): Shall은 we 없이 쓸 수 없고, (B): How about 뒤에는 -ing형을 쓰므로 오답이다.\n④ [오답] (B): Shall은 we와 함께 Shall we ~?로 써야 하므로 오답이다.\n⑤ [오답] (A): Let's 뒤에는 -ing형 watching을 쓸 수 없으므로 오답이다.",
+    "passage": "A: I'm bored. (<u>   A   </u>) watching a movie?\nB: Good. (<u>   B   </u>) go now.",
+    "stem": "다음 대화의 빈칸에 들어갈 말이 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T07:19:20.365Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T07:19:21.259Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:19:21.259Z",
+      "what": "확인 완료"
+    }
+  }
+}

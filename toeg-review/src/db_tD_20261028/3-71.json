@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:11:10.344Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "to",
+      "1": "in",
+      "2": "at",
+      "3": "from",
+      "4": "on"
+    },
+    "expl": "핵심 규칙: 형용사적 to부정사가 앞의 명사를 꾸밀 때, 그 명사가 전치사의 목적어이면(stand on a stool, write with a pen) 전치사를 to부정사 뒤에 남긴다.\n풀이 순서: ① 빈칸 앞의 to부정사가 꾸미는 명사(a close friend)를 동사 뒤로 옮겨 본다: talk to a close friend(친한 친구에게 말하다). → ② 이때 필요한 전치사를 to부정사 뒤에 그대로 남긴다. → ③ 정답은 to.\n문장별 판정:\n정답 판단: talk to a friend(친구에게 말하다): 명사가 전치사 to의 목적어가 되어 뜻이 통하므로 정답은 ①이다.\n선택지 분석:\n① [정답] talk to a friend(친구에게 말하다): 명사가 전치사 to의 목적어가 되어 뜻이 통하므로 정답이다.\n② [오답] talk in a friend: 뜻이 통하지 않으므로 오답이다.\n③ [오답] talk at a friend: 뜻이 통하지 않으므로 오답이다.\n④ [오답] talk from a friend: 뜻이 통하지 않으므로 오답이다.\n⑤ [오답] talk on a friend: 뜻이 통하지 않으므로 오답이다.",
+    "passage": "She has a close friend to talk (<u>          </u>) about her problems.",
+    "stem": "다음 빈칸에 들어갈 전치사로 알맞은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:10:45.705Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:10:59.107Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:11:10.344Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:07:15.260Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:11:10.344Z",
+      "what": "확인 완료"
+    }
+  }
+}

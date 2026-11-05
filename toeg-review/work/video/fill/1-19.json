@@ -1,0 +1,476 @@
+{
+ "A": {
+  "title": "과거형과 과거완료 had + 과거분사",
+  "intro": "이 문제는 우리말에 맞게 과거형과 과거완료를 골라 짝짓는 문제예요.",
+  "problem_narration": "다음 우리말과 같도록 빈칸 에이, 비, 씨에 들어갈 말이 바르게 짝지어진 것을 고르시오. When he 빈칸 at the office, the meeting 빈칸 already 빈칸, 그가 사무실에 도착했을 때 회의가 이미 끝나 있었다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "had + 과거분사(과거완료): 과거의 어느 때보다 먼저 일어난 일",
+    "기준이 되는 과거의 한 순간 → 과거형",
+    "has / have + 과거분사(현재완료)는 지금이 기준 → 과거가 기준이면 쓰지 않아요",
+    "예) When I woke up, Mom had already made breakfast. (내가 일어났을 때, 엄마는 이미 아침을 만들어 두셨어요.)"
+   ],
+   "narration": "과거완료는 had 뒤에 과거분사를 써서, 과거의 어느 때보다 먼저 일어난 일을 나타내요. 현재완료 has나 have는 지금이 기준이라, 기준이 과거이면 쓰지 않아요. 예를 들어 When I woke up, Mom had already made breakfast. 내가 일어났을 때, 엄마는 이미 아침을 만들어 두셨어요. 기준인 일어난 순간은 과거형 woke up, 그보다 먼저 한 일은 had made예요."
+  },
+  "steps": [
+   {
+    "note": "(A) ‘도착했을 때’ = 기준이 되는 과거의 한 순간 → 과거형 arrived. 현재형 arrives ①, 과거진행형 was arriving ③ 지움",
+    "highlight": [
+     "When he",
+     "도착했을 때"
+    ],
+    "strike": [
+     "① arrives - has - finished",
+     "③ was arriving - had - finished"
+    ],
+    "narration": "첫째, 에이 빈칸은 우리말로 도착했을 때예요. 기준이 되는 과거의 한 순간이라 과거형 arrived를 쓰니, 현재형 arrives인 1번과 도착하고 있었다는 뜻의 was arriving인 3번을 지워요."
+   },
+   {
+    "note": "(B) ‘이미 끝나 있었다’ = 도착보다 먼저 일어난 일 → 과거완료 had. has ② 지움",
+    "highlight": [
+     "already",
+     "이미 끝나 있었다"
+    ],
+    "strike": [
+     "② arrived - has - finished"
+    ],
+    "narration": "둘째, 회의가 이미 끝난 일은 도착보다 먼저라, 비 빈칸은 현재완료의 has가 아니라 과거완료의 had예요. 그래서 2번을 지워요."
+   },
+   {
+    "note": "(C) 과거완료 had 뒤 → 과거분사 finished. 동사원형 finish ⑤ 지움 → ④",
+    "highlight": [
+     "④ arrived - had - finished"
+    ],
+    "strike": [
+     "⑤ arrived - had - finish"
+    ],
+    "narration": "셋째, 과거완료 had 뒤의 씨 빈칸은 과거분사 finished라, 동사원형 finish인 5번을 지우면 4번이 남아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① arrives - has - finished  ✗  ‘도착했을 때’인데 현재형 arrives, (B) has도 틀림",
+    "② arrived - has - finished  ✗  기준이 과거라 현재완료 has는 쓸 수 없어요",
+    "③ was arriving - had - finished  ✗  was arriving은 ‘도착하고 있었다’라 우리말과 달라요",
+    "④ arrived - had - finished  ✓  도착은 과거형, 먼저 끝난 회의는 had finished",
+    "⑤ arrived - had - finish  ✗  과거완료는 had + 과거분사(finished)"
+   ],
+   "narration": "정답은 4번이에요. 도착은 과거형 arrived로, 그보다 먼저 끝난 회의는 had finished로 썼어요. 2번은 already가 있어서 has를 고르기 쉽지만, 기준이 과거라 현재완료는 쓸 수 없어요. 3번 was arriving은 도착하고 있었다는 뜻이라 우리말과 맞지 않아요."
+  },
+  "summary": {
+   "card": "기준이 되는 과거의 순간 → 과거형, 그보다 먼저 일어난 일 → had + 과거분사",
+   "narration": "정답은 4번이에요. 기억할 것, 기준이 되는 과거의 순간은 과거형, 그보다 먼저 일어난 일은 had와 과거분사예요."
+  },
+  "captions": [
+   "과거형과 과거완료 짝짓기",
+   "먼저 풀어 보세요",
+   "먼저 일어난 일은 had + 과거분사",
+   "arrived → had → finished",
+   "정답 ④ arrived - had - finished",
+   "먼저 일어난 일 → had + 과거분사"
+  ],
+  "sec": [
+   10,
+   20,
+   26,
+   32,
+   24,
+   10
+  ]
+ },
+ "B": {
+  "title": "과거형과 과거완료 had + 과거분사",
+  "intro": "이 문제는 우리말에 맞게 과거형과 과거완료를 골라 짝짓는 문제예요.",
+  "problem_narration": "다음 우리말과 같도록 빈칸 에이, 비, 씨에 들어갈 말이 바르게 짝지어진 것을 고르시오. When Tom 빈칸 the station, the train 빈칸 already 빈칸, Tom이 역에 도착했을 때 기차는 이미 떠나고 없었다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "had + 과거분사(과거완료): 과거의 어느 때보다 먼저 일어난 일",
+    "기준이 되는 과거의 한 순간 → 과거형",
+    "has / have + 과거분사(현재완료)는 지금이 기준 → 과거가 기준이면 쓰지 않아요",
+    "예) When I called Jina, she had already gone to bed. (내가 지나에게 전화했을 때, 지나는 이미 잠자리에 든 뒤였어요.)"
+   ],
+   "narration": "과거완료는 had 뒤에 과거분사를 써서, 과거의 어느 때보다 먼저 일어난 일을 나타내요. 현재완료 has나 have는 지금이 기준이라, 기준이 과거이면 쓰지 않아요. 예를 들어 When I called Jina, she had already gone to bed. 내가 지나에게 전화했을 때, 지나는 이미 잠자리에 든 뒤였어요. 기준인 전화한 순간은 과거형 called, 그보다 먼저 잠든 일은 had gone이에요."
+  },
+  "steps": [
+   {
+    "note": "(A) ‘도착했을 때’ = 기준이 되는 과거의 한 순간 → 과거형 reached. 기준을 과거완료로 쓴 had reached ⑤ 지움",
+    "highlight": [
+     "When Tom",
+     "도착했을 때"
+    ],
+    "strike": [
+     "⑤ had reached - had - departed"
+    ],
+    "narration": "첫째, 에이 빈칸은 우리말로 도착했을 때예요. 기준이 되는 과거의 한 순간이라 과거형 reached를 쓰니, 과거완료 had reached인 5번을 지워요."
+   },
+   {
+    "note": "(B) ‘이미 떠나고 없었다’ = 도착보다 먼저 일어난 일 → 과거완료 had. was ②, has ③ 지움",
+    "highlight": [
+     "already",
+     "이미 떠나고 없었다"
+    ],
+    "strike": [
+     "② reached - was - departed",
+     "③ reached - has - departed"
+    ],
+    "narration": "둘째, 기차가 이미 떠난 일은 도착보다 먼저라, 비 빈칸은 과거완료의 had예요. 그래서 was를 쓴 2번과 현재완료 has를 쓴 3번을 지워요."
+   },
+   {
+    "note": "(C) 과거완료 had 뒤 → 과거분사 departed. 동사원형 depart ④ 지움 → ①",
+    "highlight": [
+     "① reached - had - departed"
+    ],
+    "strike": [
+     "④ reached - had - depart"
+    ],
+    "narration": "셋째, 과거완료 had 뒤의 씨 빈칸은 과거분사 departed라, 동사원형 depart인 4번을 지우면 1번이 남아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① reached - had - departed  ✓  도착은 과거형, 먼저 떠난 기차는 had departed",
+    "② reached - was - departed  ✗  먼저 떠난 일은 was가 아니라 과거완료 had departed로",
+    "③ reached - has - departed  ✗  기준이 과거라 현재완료 has는 쓸 수 없어요",
+    "④ reached - had - depart  ✗  과거완료는 had + 과거분사(departed)",
+    "⑤ had reached - had - departed  ✗  기준이 되는 도착은 과거형 reached로"
+   ],
+   "narration": "정답은 1번이에요. 도착은 과거형 reached로, 그보다 먼저 떠난 기차는 had departed로 썼어요. 3번은 already가 있어서 has를 고르기 쉽지만, 기준이 과거라 현재완료는 쓸 수 없어요. 5번은 먼저 일어난 일이 아니라 기준인 도착을 had reached로 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "기준이 되는 과거의 순간 → 과거형, 그보다 먼저 일어난 일 → had + 과거분사",
+   "narration": "정답은 1번이에요. 기억할 것, 기준이 되는 과거의 순간은 과거형, 그보다 먼저 일어난 일은 had와 과거분사예요."
+  },
+  "captions": [
+   "과거형과 과거완료 짝짓기",
+   "먼저 풀어 보세요",
+   "먼저 일어난 일은 had + 과거분사",
+   "reached → had → departed",
+   "정답 ① reached - had - departed",
+   "먼저 일어난 일 → had + 과거분사"
+  ],
+  "sec": [
+   10,
+   20,
+   26,
+   32,
+   24,
+   10
+  ]
+ },
+ "C": {
+  "title": "과거형과 과거완료 had + 과거분사",
+  "intro": "이 문제는 우리말에 맞게 과거형과 과거완료를 골라 짝짓는 문제예요.",
+  "problem_narration": "다음 우리말과 같도록 빈칸 에이, 비, 씨에 들어갈 말이 바르게 짝지어진 것을 고르시오. When Mina 빈칸 the theater, the show 빈칸 already 빈칸, Mina가 극장에 들어갔을 때 공연은 이미 시작한 뒤였다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "had + 과거분사(과거완료): 과거의 어느 때보다 먼저 일어난 일",
+    "기준이 되는 과거의 한 순간 → 과거형",
+    "has / have + 과거분사(현재완료)는 지금이 기준 → 과거가 기준이면 쓰지 않아요",
+    "예) When we came back, the ice had already melted. (우리가 돌아왔을 때, 얼음은 이미 녹아 있었어요.)"
+   ],
+   "narration": "과거완료는 had 뒤에 과거분사를 써서, 과거의 어느 때보다 먼저 일어난 일을 나타내요. 현재완료 has나 have는 지금이 기준이라, 기준이 과거이면 쓰지 않아요. 예를 들어 When we came back, the ice had already melted. 우리가 돌아왔을 때, 얼음은 이미 녹아 있었어요. 기준인 돌아온 순간은 과거형 came back, 그보다 먼저 녹은 일은 had melted예요."
+  },
+  "steps": [
+   {
+    "note": "(A) ‘들어갔을 때’ = 기준이 되는 과거의 한 순간 → 과거형 entered. had entered ④, 현재형 enters ⑤ 지움",
+    "highlight": [
+     "When Mina",
+     "들어갔을 때"
+    ],
+    "strike": [
+     "④ had entered - had - begun",
+     "⑤ enters - has - begun"
+    ],
+    "narration": "첫째, 에이 빈칸은 우리말로 들어갔을 때예요. 기준이 되는 과거의 한 순간이라 과거형 entered를 쓰니, 과거완료 had entered인 4번과 현재형 enters인 5번을 지워요."
+   },
+   {
+    "note": "(B) ‘이미 시작한 뒤였다’ = 들어간 때보다 먼저 일어난 일 → 과거완료 had. has ② 지움",
+    "highlight": [
+     "already",
+     "이미 시작한 뒤였다"
+    ],
+    "strike": [
+     "② entered - has - begun"
+    ],
+    "narration": "둘째, 공연이 이미 시작한 일은 들어간 때보다 먼저라, 비 빈칸은 현재완료의 has가 아니라 과거완료의 had예요. 그래서 2번을 지워요."
+   },
+   {
+    "note": "(C) 과거완료 had 뒤 → 과거분사 begun. 동사원형 begin ③ 지움 → ①",
+    "highlight": [
+     "① entered - had - begun"
+    ],
+    "strike": [
+     "③ entered - had - begin"
+    ],
+    "narration": "셋째, 과거완료 had 뒤의 씨 빈칸은 과거분사 begun이라, 동사원형 begin인 3번을 지우면 1번이 남아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① entered - had - begun  ✓  들어간 때는 과거형, 먼저 시작한 공연은 had begun",
+    "② entered - has - begun  ✗  기준이 과거라 현재완료 has는 쓸 수 없어요",
+    "③ entered - had - begin  ✗  과거완료는 had + 과거분사(begun)",
+    "④ had entered - had - begun  ✗  기준이 되는 들어간 때는 과거형 entered로",
+    "⑤ enters - has - begun  ✗  현재형 enters, (B) has까지 두 곳이 틀림"
+   ],
+   "narration": "정답은 1번이에요. 들어간 때는 과거형 entered로, 그보다 먼저 시작한 공연은 had begun으로 썼어요. 2번은 already가 있어서 has를 고르기 쉽지만, 기준이 과거라 현재완료는 쓸 수 없어요. 4번은 먼저 일어난 일이 아니라 기준인 들어간 때를 had entered로 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "기준이 되는 과거의 순간 → 과거형, 그보다 먼저 일어난 일 → had + 과거분사",
+   "narration": "정답은 1번이에요. 기억할 것, 기준이 되는 과거의 순간은 과거형, 그보다 먼저 일어난 일은 had와 과거분사예요."
+  },
+  "captions": [
+   "과거형과 과거완료 짝짓기",
+   "먼저 풀어 보세요",
+   "먼저 일어난 일은 had + 과거분사",
+   "entered → had → begun",
+   "정답 ① entered - had - begun",
+   "먼저 일어난 일 → had + 과거분사"
+  ],
+  "sec": [
+   10,
+   20,
+   26,
+   32,
+   24,
+   10
+  ]
+ },
+ "D": {
+  "title": "과거형과 과거완료 had + 과거분사",
+  "intro": "이 문제는 우리말에 맞게 과거형과 과거완료를 골라 짝짓는 문제예요.",
+  "problem_narration": "다음 우리말과 같도록 빈칸 에이, 비, 씨에 들어갈 말이 바르게 짝지어진 것을 고르시오. When we 빈칸 home, Dad 빈칸 already 빈칸, 우리가 집에 도착했을 때 아빠는 이미 나가고 없었다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "had + 과거분사(과거완료): 과거의 어느 때보다 먼저 일어난 일",
+    "기준이 되는 과거의 한 순간 → 과거형",
+    "has / have + 과거분사(현재완료)는 지금이 기준 → 과거가 기준이면 쓰지 않아요",
+    "예) When we came back, the ice had already melted. (우리가 돌아왔을 때, 얼음은 이미 녹아 있었어요.)"
+   ],
+   "narration": "과거완료는 had 뒤에 과거분사를 써서, 과거의 어느 때보다 먼저 일어난 일을 나타내요. 현재완료 has나 have는 지금이 기준이라, 기준이 과거이면 쓰지 않아요. 예를 들어 When we came back, the ice had already melted. 우리가 돌아왔을 때, 얼음은 이미 녹아 있었어요. 기준인 돌아온 순간은 과거형 came back, 그보다 먼저 녹은 일은 had melted예요."
+  },
+  "steps": [
+   {
+    "note": "(A) ‘도착했을 때’ = 기준이 되는 과거의 한 순간 → 과거형 got. 기준을 과거완료로 쓴 had got ④ 지움",
+    "highlight": [
+     "When we",
+     "도착했을 때"
+    ],
+    "strike": [
+     "④ had got - had - left"
+    ],
+    "narration": "첫째, 에이 빈칸은 우리말로 도착했을 때예요. 기준이 되는 과거의 한 순간이라 과거형 got을 쓰니, 과거완료 had got인 4번을 지워요."
+   },
+   {
+    "note": "(B) ‘이미 나가고 없었다’ = 도착보다 먼저 일어난 일 → 과거완료 had. has ①, was ⑤ 지움",
+    "highlight": [
+     "already",
+     "이미 나가고 없었다"
+    ],
+    "strike": [
+     "① got - has - left",
+     "⑤ got - was - left"
+    ],
+    "narration": "둘째, 아빠가 이미 나간 일은 도착보다 먼저라, 비 빈칸은 과거완료의 had예요. 그래서 현재완료 has를 쓴 1번과 was를 쓴 5번을 지워요."
+   },
+   {
+    "note": "(C) 과거완료 had 뒤 → 과거분사 left. 동사원형 leave ② 지움 → ③",
+    "highlight": [
+     "③ got - had - left"
+    ],
+    "strike": [
+     "② got - had - leave"
+    ],
+    "narration": "셋째, 과거완료 had 뒤의 씨 빈칸은 과거분사 left라, 동사원형 leave인 2번을 지우면 3번이 남아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① got - has - left  ✗  기준이 과거라 현재완료 has는 쓸 수 없어요",
+    "② got - had - leave  ✗  과거완료는 had + 과거분사(left)",
+    "③ got - had - left  ✓  도착은 과거형 got, 먼저 나간 아빠는 had left",
+    "④ had got - had - left  ✗  기준이 되는 도착은 과거형 got으로",
+    "⑤ got - was - left  ✗  was left는 ‘남겨졌다’는 뜻이 돼요"
+   ],
+   "narration": "정답은 3번이에요. 도착은 과거형 got으로, 그보다 먼저 나간 아빠는 had left로 썼어요. 1번은 already가 있어서 has를 고르기 쉽지만, 기준이 과거라 현재완료는 쓸 수 없어요. 5번 was left는 아빠가 남겨졌다는 뜻이 되어 우리말과 맞지 않아요."
+  },
+  "summary": {
+   "card": "기준이 되는 과거의 순간 → 과거형, 그보다 먼저 일어난 일 → had + 과거분사",
+   "narration": "정답은 3번이에요. 기억할 것, 기준이 되는 과거의 순간은 과거형, 그보다 먼저 일어난 일은 had와 과거분사예요."
+  },
+  "captions": [
+   "과거형과 과거완료 짝짓기",
+   "먼저 풀어 보세요",
+   "먼저 일어난 일은 had + 과거분사",
+   "got → had → left",
+   "정답 ③ got - had - left",
+   "먼저 일어난 일 → had + 과거분사"
+  ],
+  "sec": [
+   10,
+   20,
+   26,
+   32,
+   24,
+   10
+  ]
+ },
+ "E": {
+  "title": "과거형과 과거완료 had + 과거분사",
+  "intro": "이 문제는 우리말에 맞게 과거형과 과거완료를 골라 짝짓는 문제예요.",
+  "problem_narration": "다음 우리말과 같도록 빈칸 에이, 비, 씨에 들어갈 말이 바르게 짝지어진 것을 고르시오. When the police 빈칸 the bank downtown, the two thieves 빈칸 already 빈칸 with the money, 경찰이 시내 은행에 도착했을 때 두 도둑은 이미 돈을 가지고 달아난 뒤였다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "had + 과거분사(과거완료): 과거의 어느 때보다 먼저 일어난 일",
+    "기준이 되는 과거의 한 순간 → 과거형",
+    "has / have + 과거분사(현재완료)는 지금이 기준 → 과거가 기준이면 쓰지 않아요",
+    "예) When I woke up, Mom had already made breakfast. (내가 일어났을 때, 엄마는 이미 아침을 만들어 두셨어요.)"
+   ],
+   "narration": "과거완료는 had 뒤에 과거분사를 써서, 과거의 어느 때보다 먼저 일어난 일을 나타내요. 현재완료 has나 have는 지금이 기준이라, 기준이 과거이면 쓰지 않아요. 예를 들어 When I woke up, Mom had already made breakfast. 내가 일어났을 때, 엄마는 이미 아침을 만들어 두셨어요. 기준인 일어난 순간은 과거형 woke up, 그보다 먼저 한 일은 had made예요."
+  },
+  "steps": [
+   {
+    "note": "(A) ‘도착했을 때’ = 기준이 되는 과거의 한 순간 → 과거형 arrived at. 기준을 과거완료로 쓴 had arrived at ③ 지움",
+    "highlight": [
+     "When the police",
+     "도착했을 때"
+    ],
+    "strike": [
+     "③ had arrived at - had - escaped"
+    ],
+    "narration": "첫째, 에이 빈칸은 우리말로 도착했을 때예요. 기준이 되는 과거의 한 순간이라 과거형 arrived at을 쓰니, 과거완료 had arrived at인 3번을 지워요."
+   },
+   {
+    "note": "(B) ‘이미 달아난 뒤였다’ = 도착보다 먼저 일어난 일 → 과거완료 had. 현재완료 have ①② 지움",
+    "highlight": [
+     "already",
+     "이미 돈을 가지고 달아난 뒤였다"
+    ],
+    "strike": [
+     "① arrived at - have - escaped",
+     "② arrived at - have - escape"
+    ],
+    "narration": "둘째, 도둑들이 이미 달아난 일은 도착보다 먼저라 비 빈칸은 과거완료의 had이니, 현재완료 have인 1번과 2번을 지워요."
+   },
+   {
+    "note": "(C) 과거완료 had 뒤 → 과거분사 escaped. 동사원형 escape ⑤ 지움 → ④",
+    "highlight": [
+     "④ arrived at - had - escaped"
+    ],
+    "strike": [
+     "⑤ arrived at - had - escape"
+    ],
+    "narration": "셋째, 과거완료 had 뒤의 씨 빈칸은 과거분사 escaped라, 동사원형 escape인 5번을 지우면 4번이 남아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① arrived at - have - escaped  ✗  기준이 과거라 현재완료 have는 쓸 수 없어요",
+    "② arrived at - have - escape  ✗  현재완료 have, 동사원형 escape까지 두 곳이 틀림",
+    "③ had arrived at - had - escaped  ✗  기준이 되는 도착은 과거형 arrived at으로",
+    "④ arrived at - had - escaped  ✓  도착은 과거형, 먼저 달아난 일은 had escaped",
+    "⑤ arrived at - had - escape  ✗  과거완료는 had + 과거분사(escaped)"
+   ],
+   "narration": "정답은 4번이에요. 도착은 과거형 arrived at으로, 그보다 먼저 달아난 일은 had escaped로 썼어요. 1번은 already가 있어서 have를 고르기 쉽지만, 기준이 과거라 현재완료는 쓸 수 없어요. 3번은 먼저 일어난 일이 아니라 기준인 도착을 had arrived at으로 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "기준이 되는 과거의 순간 → 과거형, 그보다 먼저 일어난 일 → had + 과거분사",
+   "narration": "정답은 4번이에요. 기억할 것, 기준이 되는 과거의 순간은 과거형, 그보다 먼저 일어난 일은 had와 과거분사예요."
+  },
+  "captions": [
+   "과거형과 과거완료 짝짓기",
+   "먼저 풀어 보세요",
+   "먼저 일어난 일은 had + 과거분사",
+   "arrived at → had → escaped",
+   "정답 ④ arrived at - had - escaped",
+   "먼저 일어난 일 → had + 과거분사"
+  ],
+  "sec": [
+   10,
+   20,
+   26,
+   32,
+   24,
+   10
+  ]
+ },
+ "F": {
+  "title": "과거형과 과거완료 had + 과거분사",
+  "intro": "이 문제는 우리말에 맞게 과거형과 과거완료를 골라 짝짓는 문제예요.",
+  "problem_narration": "다음 우리말과 같도록 빈칸 에이, 비, 씨에 들어갈 말이 바르게 짝지어진 것을 고르시오. When I 빈칸 the small bakery near my house, it 빈칸 already 빈칸 for the day, 내가 집 근처 작은 빵집에 도착했을 때 빵집은 이미 그날 문을 닫은 뒤였다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "had + 과거분사(과거완료): 과거의 어느 때보다 먼저 일어난 일",
+    "기준이 되는 과거의 한 순간 → 과거형",
+    "has / have + 과거분사(현재완료)는 지금이 기준 → 과거가 기준이면 쓰지 않아요",
+    "예) When I called Jina, she had already gone to bed. (내가 지나에게 전화했을 때, 지나는 이미 잠자리에 든 뒤였어요.)"
+   ],
+   "narration": "과거완료는 had 뒤에 과거분사를 써서, 과거의 어느 때보다 먼저 일어난 일을 나타내요. 현재완료 has나 have는 지금이 기준이라, 기준이 과거이면 쓰지 않아요. 예를 들어 When I called Jina, she had already gone to bed. 내가 지나에게 전화했을 때, 지나는 이미 잠자리에 든 뒤였어요. 기준인 전화한 순간은 과거형 called, 그보다 먼저 잠든 일은 had gone이에요."
+  },
+  "steps": [
+   {
+    "note": "(A) ‘도착했을 때’ = 기준이 되는 과거의 한 순간 → 과거형 reached. 기준을 과거완료로 쓴 had reached ⑤ 지움",
+    "highlight": [
+     "When I",
+     "도착했을 때"
+    ],
+    "strike": [
+     "⑤ had reached - had - closed"
+    ],
+    "narration": "첫째, 에이 빈칸은 우리말로 도착했을 때예요. 기준이 되는 과거의 한 순간이라 과거형 reached를 쓰니, 과거완료 had reached인 5번을 지워요."
+   },
+   {
+    "note": "(B) ‘이미 문을 닫은 뒤였다’ = 도착보다 먼저 일어난 일 → 과거완료 had. 현재완료 has ①② 지움",
+    "highlight": [
+     "already",
+     "이미 그날 문을 닫은 뒤였다"
+    ],
+    "strike": [
+     "① reached - has - close",
+     "② reached - has - closed"
+    ],
+    "narration": "둘째, 빵집이 이미 문을 닫은 일은 도착보다 먼저라 비 빈칸은 과거완료의 had이니, 현재완료 has인 1번과 2번을 지워요."
+   },
+   {
+    "note": "(C) 과거완료 had 뒤 → 과거분사 closed. 동사원형 close ④ 지움 → ③",
+    "highlight": [
+     "③ reached - had - closed"
+    ],
+    "strike": [
+     "④ reached - had - close"
+    ],
+    "narration": "셋째, 과거완료 had 뒤의 씨 빈칸은 과거분사 closed라, 동사원형 close인 4번을 지우면 3번이 남아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① reached - has - close  ✗  현재완료 has, 동사원형 close까지 두 곳이 틀림",
+    "② reached - has - closed  ✗  기준이 과거라 현재완료 has는 쓸 수 없어요",
+    "③ reached - had - closed  ✓  도착은 과거형, 먼저 문을 닫은 일은 had closed",
+    "④ reached - had - close  ✗  과거완료는 had + 과거분사(closed)",
+    "⑤ had reached - had - closed  ✗  기준이 되는 도착은 과거형 reached로"
+   ],
+   "narration": "정답은 3번이에요. 도착은 과거형 reached로, 그보다 먼저 문을 닫은 일은 had closed로 썼어요. 2번은 already가 있어서 has를 고르기 쉽지만, 기준이 과거라 현재완료는 쓸 수 없어요. 5번은 먼저 일어난 일이 아니라 기준인 도착을 had reached로 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "기준이 되는 과거의 순간 → 과거형, 그보다 먼저 일어난 일 → had + 과거분사",
+   "narration": "정답은 3번이에요. 기억할 것, 기준이 되는 과거의 순간은 과거형, 그보다 먼저 일어난 일은 had와 과거분사예요."
+  },
+  "captions": [
+   "과거형과 과거완료 짝짓기",
+   "먼저 풀어 보세요",
+   "먼저 일어난 일은 had + 과거분사",
+   "reached → had → closed",
+   "정답 ③ reached - had - closed",
+   "먼저 일어난 일 → had + 과거분사"
+  ],
+  "sec": [
+   10,
+   20,
+   26,
+   32,
+   24,
+   10
+  ]
+ }
+}

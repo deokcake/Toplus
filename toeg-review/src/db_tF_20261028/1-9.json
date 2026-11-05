@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-21 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-26T06:29:22.722Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 목적어의 상태·성질을 서술하는 목적격보어에는 형용사나 분사를 쓴다. -ly라는 철자만으로 품사를 결정하지 않는다.\n풀이 순서: ① 문장마다 make·keep·find·leave + 목적어 뒤에 온 말(목적격 보어)을 찾는다. → ② 그 자리에 -ly 부사가 오면 어색한 문장이다: (a) inspiringly. → ③ 세어 보면 1개이다.\n문장별 판정:\n(a) 틀림: everyone이 감화를 받은 상태를 나타내려면 과거분사 inspired가 필요하다. inspiringly → inspired.\n(b) 옳음: difficult가 task의 성질을 설명한다.\n(c) 옳음: locked가 door가 잠긴 상태를 설명한다.\n(d) 옳음: awake는 baby가 깨어 있는 상태를 유지함을 나타내는 형용사 목적격보어이다.\n(e) 옳음: entertaining은 movie가 주는 흥미로운 성질을 설명한다.\n정답 판단: 어법상 틀린 문장은 a의 1개이다.\n선택지 분석:\n① [정답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 1개는 실제 개수와 일치한다.\n② [오답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "(a) The speech about courage made everyone inspiringly.\n(b) They found the science task difficult at first.\n(c) We kept the front door locked all night.\n(d) The loud noise kept the baby awake for hours.\n(e) I found the movie entertaining from start to finish.",
+    "stem": "다음 중 어법상 어색한 문장의 개수는?"
+  },
+  "tab": "ij7ic6nx",
+  "updatedAt": "2026-10-26T06:29:22.722Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:29:22.722Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+ "key": "4-13",
+ "type": "D",
+ "grade": 4,
+ "chapter": "CH 2 대명사",
+ "title": "목적격 them과 소유격 their",
+ "total_sec": 130,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 13,
+   "screen": {
+    "text": "4급 · CH 2 대명사 · 13번 · D 유형\n\n이 문제는 목적격, 소유격, 소유대명사를 구별해서 바르게 고치지 못한 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 2 대명사 · 13번 · D 유형",
+     "이 문제는 목적격, 소유격, 소유대명사를 구별해서 바르게 고치지 못한 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 2, 13번 D 유형. 이 문제는 목적격, 소유격, 소유대명사를 구별해서 바르게 고치지 못한 것을 고르는 문제예요.",
+   "caption": "목적격과 소유격 구별"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 19,
+   "screen": {
+    "text": "밑줄 친 부분을 바르게 고치지 못한 것을 고르시오.\n\n① We saw <u>he</u>. → We saw <u>him</u>.\n② The red cap is <u>her's</u>. → The red cap is <u>hers</u>.\n③ Is this <u>you</u> bag? → Is this <u>your</u> bag?\n④ That house is <u>their</u>. → That house is <u>theirs</u>.\n⑤ Tom visited <u>they</u>. → Tom visited <u>their</u>.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "밑줄 친 부분을 바르게 고치지 못한 것을 고르시오.",
+     "① We saw <u>he</u>. → We saw <u>him</u>.",
+     "② The red cap is <u>her's</u>. → The red cap is <u>hers</u>.",
+     "③ Is this <u>you</u> bag? → Is this <u>your</u> bag?",
+     "④ That house is <u>their</u>. → That house is <u>theirs</u>.",
+     "⑤ Tom visited <u>they</u>. → Tom visited <u>their</u>."
+    ]
+   },
+   "narration": "밑줄 친 부분을 바르게 고치지 못한 것을 고르세요. 고친 말이 그 자리에 맞는지 하나씩 확인해 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\n소유격(나의) + 명사: my, your, his, her, our, their\n소유대명사(나의 것): mine, yours, his, hers, ours, theirs ← ' 붙이지 않음\n목적격(나를, 나에게): me, him, her, us, them ← 동사·전치사의 목적어\n예) I visited them at their house. (나는 그들의 집으로 그들을 찾아갔어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "소유격(나의) + 명사: my, your, his, her, our, their",
+     "소유대명사(나의 것): mine, yours, his, hers, ours, theirs ← ' 붙이지 않음",
+     "목적격(나를, 나에게): me, him, her, us, them ← 동사·전치사의 목적어",
+     "예) I visited them at their house. (나는 그들의 집으로 그들을 찾아갔어요.)"
+    ]
+   },
+   "narration": "명사 앞의 ‘그들의’는 소유격 their이고, 소유격 뒤에는 명사가 와야 해요. 명사 없이 쓰는 ‘그들의 것’은 소유대명사 theirs이고, 아포스트로피를 붙이지 않아요. 동사나 전치사의 목적어로 ‘그들을’, ‘그들에게’처럼 그 사람들을 가리킬 때는 목적격 them을 써요. 예를 들어 I visited them at their house. 나는 그들의 집으로 그들을 찾아갔어요.",
+   "caption": "소유격·소유대명사·목적격"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 30,
+   "screen": {
+    "text": "밑줄 친 부분을 바르게 고치지 못한 것을 고르시오.\n\n① We saw <u>he</u>. → We saw <u>him</u>.\n② The red cap is <u>her's</u>. → The red cap is <u>hers</u>.\n③ Is this <u>you</u> bag? → Is this <u>your</u> bag?\n④ That house is <u>their</u>. → That house is <u>theirs</u>.\n⑤ Tom visited <u>they</u>. → Tom visited <u>their</u>.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "saw <u>him</u>",
+       "visited <u>their</u>"
+      ],
+      "strike": [],
+      "note": "목적어 자리를 찾는다: ① 동사 saw 뒤, ⑤ 동사 visited 뒤"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "⑤ Tom visited <u>they</u>. → Tom visited <u>their</u>."
+      ],
+      "strike": [],
+      "note": "⑤ ‘그들을’ → 목적격 them. their는 소유격(뒤에 명사 필요) → 잘못 고침"
+     },
+     {
+      "step": 3,
+      "highlight": [],
+      "strike": [
+       "① We saw <u>he</u>. → We saw <u>him</u>.",
+       "② The red cap is <u>her's</u>. → The red cap is <u>hers</u>.",
+       "③ Is this <u>you</u> bag? → Is this <u>your</u> bag?",
+       "④ That house is <u>their</u>. → That house is <u>theirs</u>."
+      ],
+      "note": "① saw him(목적격)과 ②③④는 바르게 고침 → 답은 ⑤"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 목적어 자리를 찾으면 동사 saw 뒤의 1번과 동사 visited 뒤의 5번이에요. 둘째, 5번은 ‘그들을’이라는 뜻이니 목적격 them을 써야 하는데, 뒤에 명사가 와야 하는 소유격 their로 고쳤어요. Tom visited them. 톰이 그들을 찾아갔어요. 셋째, 1번은 목적격 him이 맞고, 2번, 3번, 4번도 바르게 고쳤으니 답은 5번이에요.",
+   "caption": "visited 뒤 목적어 → them"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① We saw <u>he</u>. → We saw <u>him</u>.  ✗  saw의 목적어 ‘그를’은 목적격 him\n② The red cap is <u>her's</u>. → The red cap is <u>hers</u>.  ✗  소유대명사 hers에는 ' 없음\n③ Is this <u>you</u> bag? → Is this <u>your</u> bag?  ✗  명사 bag 앞 ‘너의’는 소유격 your\n④ That house is <u>their</u>. → That house is <u>theirs</u>.  ✗  their 뒤에 명사가 없음 → ‘그들의 것’은 theirs\n⑤ Tom visited <u>they</u>. → Tom visited <u>their</u>.  ✓  visited의 목적어 ‘그들을’은 them (their는 명사 앞에 씀)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① We saw <u>he</u>. → We saw <u>him</u>.  ✗  saw의 목적어 ‘그를’은 목적격 him",
+     "② The red cap is <u>her's</u>. → The red cap is <u>hers</u>.  ✗  소유대명사 hers에는 ' 없음",
+     "③ Is this <u>you</u> bag? → Is this <u>your</u> bag?  ✗  명사 bag 앞 ‘너의’는 소유격 your",
+     "④ That house is <u>their</u>. → That house is <u>theirs</u>.  ✗  their 뒤에 명사가 없음 → ‘그들의 것’은 theirs",
+     "⑤ Tom visited <u>they</u>. → Tom visited <u>their</u>.  ✓  visited의 목적어 ‘그들을’은 them (their는 명사 앞에 씀)"
+    ]
+   },
+   "narration": "정답은 5번이에요. visited의 목적어로 그 사람들을 가리키니 them이 와야 해요. 3번은 명사 bag 앞이라 ‘너의’라는 뜻의 소유격 your로 바르게 고쳤어요. 4번은 their 뒤에 명사가 없으니 ‘그들의 것’이라는 뜻의 theirs가 맞아요. 2번 hers처럼 소유대명사에는 아포스트로피를 붙이지 않아요.",
+   "caption": "정답 ⑤ visited their"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 13,
+   "screen": {
+    "text": "정답 ⑤ Tom visited <u>they</u>. → Tom visited <u>their</u>.\n\n목적어 ‘그들을, 그들에게’ → 목적격 them / 소유격 their + 명사",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ Tom visited <u>they</u>. → Tom visited <u>their</u>.",
+     "목적어 ‘그들을, 그들에게’ → 목적격 them / 소유격 their + 명사"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 동사나 전치사 뒤에서 그 사람들을 가리키면 목적격 them을 쓰고, 소유격 their 뒤에는 명사가 와야 해요.",
+   "caption": "목적어는 them, their 뒤엔 명사"
+  }
+ ],
+ "source": {
+  "stem": "밑줄 친 부분을 바르게 고치지 못한 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "We saw <u>he</u>. → We saw <u>him</u>.",
+   "The red cap is <u>her's</u>. → The red cap is <u>hers</u>.",
+   "Is this <u>you</u> bag? → Is this <u>your</u> bag?",
+   "That house is <u>their</u>. → That house is <u>theirs</u>.",
+   "Tom visited <u>they</u>. → Tom visited <u>their</u>."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 동사·전치사의 목적어 자리에는 목적격(me, him, her, us, them)을 쓴다. 명사 없이 ‘~의 것’은 소유대명사(mine, yours, hers, ours, theirs)로 쓰며 아포스트로피(')를 붙이지 않고, ‘누구의’는 Whose로 쓴다.\n풀이 순서: ① 고친 말이 그 자리에 맞는지 본다: 명사 앞이면 소유격, 명사가 없으면 소유대명사, 동사·전치사 뒤면 목적격. → ② 선택지 ⑤는 동사 visited 뒤라 목적격 them이 와야 하는데 소유격 their로 고쳤다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: 목적어 자리는 목적격 them이어야 하는데 소유격 their로 고쳐 바르게 고치지 못했으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 목적어 자리에는 목적격 him을 쓰고, 바르게 고쳤으므로 오답이다.\n② [오답] 소유대명사 hers에는 '를 붙이지 않으고, 바르게 고쳤으므로 오답이다.\n③ [오답] 명사 앞에는 소유격 your를 쓰고, 바르게 고쳤으므로 오답이다.\n④ [오답] 명사 없이 ‘그들의 것’은 theirs이고, 바르게 고쳤으므로 오답이다.\n⑤ [정답] 목적어 자리는 목적격 them이어야 하는데 소유격 their로 고쳐 바르게 고치지 못했으므로 정답이다."
+ }
+}

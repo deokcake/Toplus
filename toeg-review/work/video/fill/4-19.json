@@ -1,0 +1,430 @@
+{
+ "A": {
+  "title": "짝을 이루는 물건을 받는 대명사",
+  "intro": "이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요.",
+  "problem_narration": "다음 문장의 밑줄 친 부분 중 어법상 틀린 것을 고르세요. I have some scissors in my desk. It are very sharp. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "대명사는 가리키는 명사의 수에 맞춰요.",
+    "단수인 물건 → it   복수 → they(주어), them(목적어)",
+    "scissors, glasses(안경), pants: 두 부분이 한 벌인 물건 → 늘 복수형, 복수 취급",
+    "예) My glasses are new. They are blue. (내 안경은 새것이에요. 그 안경은 파란색이에요.)"
+   ],
+   "narration": "대명사는 가리키는 명사의 수에 맞춰, 단수인 물건은 it, 복수는 they나 them으로 받아요. 가위 scissors, 안경 glasses, 바지 pants는 두 부분이 한 벌인 물건이라, 하나여도 늘 복수형으로 쓰고 복수 취급해요. 그래서 they로 받고, be동사는 are를 써요. 예를 들어 My glasses are new, 내 안경은 새것이에요. They are blue, 그 안경은 파란색이에요."
+  },
+  "steps": [
+   {
+    "note": "뒤 문장의 주어 It과 동사 are → 수가 맞지 않는다",
+    "highlight": [
+     "④<u>It</u> are"
+    ],
+    "strike": [],
+    "narration": "첫째, 뒤 문장의 주어 It과 동사 are를 맞춰 보면, It에는 is를 쓰니 수가 맞지 않아요."
+   },
+   {
+    "note": "It이 가리키는 것 = 앞 문장의 scissors(가위) → 복수 취급 → They are가 되어야 한다",
+    "highlight": [
+     "②<u>scissors</u>"
+    ],
+    "strike": [],
+    "narration": "둘째, 앞 문장에서 가리키는 명사를 찾으면 책상 안의 가위, scissors예요. scissors는 복수 취급하니, are는 맞고 They로 받아야 해요."
+   },
+   {
+    "note": "틀린 것은 It → They로 고친다: They are very sharp.",
+    "highlight": [
+     "④ It"
+    ],
+    "strike": [],
+    "narration": "셋째, 그래서 틀린 것은 4번 It이에요. They are very sharp, 그 가위는 아주 날카로워요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① some  ✗  복수형 scissors 앞에 some을 쓸 수 있어요",
+    "② scissors  ✗  가위는 두 날이 한 벌이라 늘 복수형 scissors",
+    "③ my  ✗  명사 desk 앞의 소유격 my(나의)",
+    "④ It  ✓  복수 취급하는 scissors → They로 고쳐요",
+    "⑤ sharp  ✗  be동사 뒤 형용사 sharp(날카로운)"
+   ],
+   "narration": "정답은 4번 It이에요. 2번 scissors를 단수로 고쳐야 한다고 생각하기 쉽지만, 가위는 하나여도 늘 복수형 scissors로 써요. 1번 some은 복수형 scissors 앞에 쓸 수 있어요. 5번 sharp는 날카로운이라는 뜻의 형용사로, be동사 뒤에 바르게 쓰였어요."
+  },
+  "summary": {
+   "card": "scissors, glasses, pants → 복수 취급 → they, them으로 받기",
+   "narration": "정답은 4번이에요. 기억할 것, scissors처럼 두 부분이 한 벌인 물건은 복수 취급해서 they나 them으로 받아요."
+  },
+  "captions": [
+   "짝을 이루는 물건과 대명사",
+   "먼저 풀어 보세요",
+   "두 부분이 한 벌 → 복수 취급",
+   "It are → scissors → They",
+   "정답 ④ It → They",
+   "scissors → they, them"
+  ],
+  "sec": [
+   12,
+   20,
+   28,
+   30,
+   26,
+   10
+  ]
+ },
+ "B": {
+  "title": "짝을 이루는 물건을 받는 대명사",
+  "intro": "이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요.",
+  "problem_narration": "다음 문장의 밑줄 친 부분 중 어법상 틀린 것을 고르세요. Jane bought some new shoes. It are very comfortable. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "대명사는 가리키는 명사의 수에 맞춰요.",
+    "단수인 물건 → it   복수 → they(주어), them(목적어)",
+    "shoes, gloves: 두 짝이 한 켤레인 물건 → 보통 복수형, 복수 취급",
+    "예) My gloves are warm. They are red. (내 장갑은 따뜻해요. 그 장갑은 빨간색이에요.)"
+   ],
+   "narration": "대명사는 가리키는 명사의 수에 맞춰, 단수인 물건은 it, 복수는 they나 them으로 받아요. 신발 shoes, 장갑 gloves처럼 두 짝이 한 켤레인 물건은 보통 복수형으로 써요. 복수형은 복수 취급해서 they로 받고, be동사도 is가 아니라 are를 써요. 예를 들어 My gloves are warm, 내 장갑은 따뜻해요. They are red, 그 장갑은 빨간색이에요."
+  },
+  "steps": [
+   {
+    "note": "뒤 문장의 주어 It과 동사 are → 수가 맞지 않는다",
+    "highlight": [
+     "③<u>It</u> ④<u>are</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 뒤 문장의 주어 It과 동사 are를 맞춰 보면, It에는 is를 쓰니 수가 맞지 않아요."
+   },
+   {
+    "note": "It이 가리키는 것 = 앞 문장의 shoes(신발) → 복수형 → They로 받아야 한다",
+    "highlight": [
+     "②<u>shoes</u>"
+    ],
+    "strike": [],
+    "narration": "둘째, 앞 문장에서 가리키는 명사를 찾으면 Jane이 산 신발, shoes예요. shoes는 복수형이니 They로 받아야 해요."
+   },
+   {
+    "note": "They로 고치면 are는 그대로 맞다 → 틀린 것은 It: They are very comfortable.",
+    "highlight": [
+     "③ It"
+    ],
+    "strike": [
+     "④ are"
+    ],
+    "narration": "셋째, They로 고치면 are는 그대로 맞으니, 틀린 것은 3번 It이에요. They are very comfortable, 그 신발은 아주 편해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① some  ✗  복수형 shoes 앞에 some을 쓸 수 있어요",
+    "② shoes  ✗  신발은 두 짝이 한 켤레라 보통 복수형 shoes",
+    "③ It  ✓  복수형 shoes → They로 고쳐요",
+    "④ are  ✗  They로 고치면 복수에 맞는 are",
+    "⑤ comfortable  ✗  be동사 뒤 형용사 comfortable(편한)"
+   ],
+   "narration": "정답은 3번 It이에요. 4번 are를 is로 고치고 싶을 수 있어요. 하지만 It is라고 하면 복수형 shoes를 가리킬 수 없으니, It을 They로 고쳐야 해요. 2번 shoes는 신발을 말할 때 보통 쓰는 복수형이라 맞아요."
+  },
+  "summary": {
+   "card": "복수형 shoes, gloves → it이 아니라 they, them으로 받기",
+   "narration": "정답은 3번이에요. 기억할 것, 복수형 shoes처럼 복수인 명사는 it이 아니라 they나 them으로 받아요."
+  },
+  "captions": [
+   "짝을 이루는 물건과 대명사",
+   "먼저 풀어 보세요",
+   "두 짝이 한 켤레 → 복수형",
+   "It are → shoes → They",
+   "정답 ③ It → They",
+   "복수형 shoes → they, them"
+  ],
+  "sec": [
+   12,
+   20,
+   28,
+   30,
+   26,
+   10
+  ]
+ },
+ "C": {
+  "title": "복수명사를 받는 목적어 them",
+  "intro": "이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요.",
+  "problem_narration": "다음 문장의 밑줄 친 부분 중 어법상 틀린 것을 고르세요. I can't find my gloves. Did you see it? My hands are very cold. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "대명사는 가리키는 명사의 수에 맞춰요.",
+    "단수인 물건 → it   복수 → 주어 자리 they, 목적어 자리 them",
+    "gloves, shoes: 두 짝이 한 켤레인 물건 → 보통 복수형, 복수 취급",
+    "예) I like my new shoes. I wear them every day. (나는 새 신발이 좋아요. 나는 그 신발을 매일 신어요.)"
+   ],
+   "narration": "대명사는 가리키는 명사의 수에 맞춰요. 단수인 물건은 it으로 받고, 복수는 주어 자리에서 they, 목적어 자리에서 them으로 받아요. 장갑 gloves, 신발 shoes처럼 두 짝이 한 켤레인 물건은 보통 복수형으로 쓰고 복수 취급해요. 예를 들어 I like my new shoes, 나는 새 신발이 좋아요. I wear them every day, 나는 그 신발을 매일 신어요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 친 it이 가리키는 것 = 앞 문장의 gloves(장갑)",
+    "highlight": [
+     "①<u>gloves</u>",
+     "②<u>it</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 it이 가리키는 것을 앞 문장에서 찾으면, 찾을 수 없다고 한 장갑 gloves예요."
+   },
+   {
+    "note": "gloves는 복수형 → it이 아니라 they, them으로 받는다",
+    "highlight": [
+     "①<u>gloves</u>"
+    ],
+    "strike": [],
+    "narration": "둘째, gloves는 복수형이라 it이 아니라 they나 them으로 받아야 해요."
+   },
+   {
+    "note": "see 뒤 목적어 자리 → them: Did you see them?",
+    "highlight": [
+     "② it"
+    ],
+    "strike": [],
+    "narration": "셋째, see 뒤의 목적어 자리니까 them을 써요. Did you see them? 그 장갑 봤어요?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① gloves  ✗  장갑은 보통 복수형, 두 손(My hands)과도 맞아요",
+    "② it  ✓  복수형 gloves → 목적어 them으로 고쳐요",
+    "③ My  ✗  명사 hands 앞의 소유격 My(나의)",
+    "④ are  ✗  복수 주어 My hands에 맞는 are",
+    "⑤ cold  ✗  be동사 뒤 형용사 cold(차가운)"
+   ],
+   "narration": "정답은 2번 it이에요. 1번 gloves를 glove로 고쳐야 한다고 생각할 수 있어요. 하지만 두 손이 차갑다고 했으니 장갑 한 켤레를 찾는 말이라, 복수형 gloves가 맞아요. 4번 are는 주어 My hands가 복수라서 맞아요."
+  },
+  "summary": {
+   "card": "복수 → 주어 자리 they, 목적어 자리 them",
+   "narration": "정답은 2번이에요. 기억할 것, 복수형 gloves처럼 복수인 명사는 목적어 자리에서 it이 아니라 them으로 받아요."
+  },
+  "captions": [
+   "복수명사를 받는 them",
+   "먼저 풀어 보세요",
+   "복수 → they, them",
+   "it → gloves → them",
+   "정답 ② it → them",
+   "복수 목적어 → them"
+  ],
+  "sec": [
+   12,
+   20,
+   28,
+   30,
+   26,
+   10
+  ]
+ },
+ "D": {
+  "title": "pants를 받는 대명사 them",
+  "intro": "이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요.",
+  "problem_narration": "다음 문장의 밑줄 친 부분 중 어법상 틀린 것을 고르세요. I bought some pants yesterday. I really like it. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "대명사는 가리키는 명사의 수에 맞춰요.",
+    "단수인 물건 → it   복수 → 주어 자리 they, 목적어 자리 them",
+    "pants, scissors, glasses(안경): 두 부분이 한 벌인 물건 → 늘 복수형, 복수 취급",
+    "예) My glasses are dirty. Please clean them. (내 안경이 더러워요. 그 안경을 닦아 주세요.)"
+   ],
+   "narration": "대명사는 가리키는 명사의 수에 맞춰요. 단수인 물건은 it으로 받고, 복수는 주어 자리에서 they, 목적어 자리에서 them으로 받아요. 바지 pants, 가위 scissors, 안경 glasses는 두 부분이 한 벌인 물건이라, 하나여도 늘 복수형으로 쓰고 복수 취급해요. 예를 들어 My glasses are dirty, 내 안경이 더러워요. Please clean them, 그 안경을 닦아 주세요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 친 it이 가리키는 것 = 앞 문장의 pants(바지)",
+    "highlight": [
+     "⑤<u>it</u>",
+     "pants"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 it이 가리키는 것을 앞 문장에서 찾으면, 내가 어제 산 바지 pants예요."
+   },
+   {
+    "note": "pants는 늘 복수형, 복수 취급 → it이 아니라 they, them으로 받는다",
+    "highlight": [
+     "pants"
+    ],
+    "strike": [],
+    "narration": "둘째, pants는 늘 복수형으로 쓰고 복수 취급하니, it이 아니라 they나 them으로 받아야 해요."
+   },
+   {
+    "note": "like 뒤 목적어 자리 → them: I really like them.",
+    "highlight": [
+     "⑤ it"
+    ],
+    "strike": [],
+    "narration": "셋째, like 뒤의 목적어 자리니까 them을 써요. I really like them, 나는 그 바지가 정말 좋아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① bought  ✗  yesterday가 있으니 과거형 bought",
+    "② some  ✗  복수형 pants 앞에 some을 쓸 수 있어요",
+    "③ yesterday  ✗  과거형 bought와 어울리는 때 표현(어제)",
+    "④ really  ✗  동사 like를 꾸미는 부사 really(정말)",
+    "⑤ it  ✓  복수 취급하는 pants → them으로 고쳐요"
+   ],
+   "narration": "정답은 5번 it이에요. pants는 복수 취급하니 them으로 고쳐야 해요. 2번 some은 복수형 pants 앞에 쓸 수 있어서 맞아요. 1번 bought는 yesterday가 있으니 과거형이 맞아요. 4번 really는 정말이라는 뜻으로 동사 like를 꾸며서 맞아요."
+  },
+  "summary": {
+   "card": "pants처럼 두 부분이 한 벌인 물건 → 복수 취급 → they, them",
+   "narration": "정답은 5번이에요. 기억할 것, pants처럼 두 부분이 한 벌인 물건은 복수 취급해서, 목적어 자리에서는 them으로 받아요."
+  },
+  "captions": [
+   "pants를 받는 대명사",
+   "먼저 풀어 보세요",
+   "두 부분이 한 벌 → 복수 취급",
+   "it → pants → them",
+   "정답 ⑤ it → them",
+   "pants → they, them"
+  ],
+  "sec": [
+   12,
+   18,
+   28,
+   30,
+   28,
+   10
+  ]
+ },
+ "E": {
+  "title": "단수 취급하는 명사 news",
+  "intro": "이 문제는 명사 news와 함께 쓰는 말의 수를 살펴, 어법상 틀린 부분을 고르는 문제예요.",
+  "problem_narration": "다음 문장의 밑줄 친 부분 중 어법상 틀린 것을 고르세요. These news is very surprising. I heard it on the radio. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "news(소식)는 s로 끝나도 셀 수 없는 명사 → 단수 취급",
+    "꾸밀 때: this news, that news (these, those는 복수명사 앞에만)",
+    "be동사는 is, 대명사는 it",
+    "예) That news is great. Did you hear it? (그 소식은 정말 좋아요. 그 소식 들었어요?)"
+   ],
+   "narration": "news는 소식이라는 뜻으로, s로 끝나서 복수처럼 보이지만 셀 수 없는 명사라 단수 취급해요. 그래서 this news, that news처럼 쓰고, 복수명사 앞에 쓰는 these나 those는 쓰지 않아요. be동사는 is를 쓰고, 대명사 it으로 받아요. 예를 들어 That news is great, 그 소식은 정말 좋아요. Did you hear it? 그 소식 들었어요?"
+  },
+  "steps": [
+   {
+    "note": "밑줄 친 These(복수)와 is(단수)가 같은 news를 두고 수가 맞지 않는다",
+    "highlight": [
+     "①<u>These</u> news ②<u>is</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 These와 is는 모두 news와 함께 쓰였어요. These는 복수명사 앞에 쓰는 말인데, is는 news를 단수로 본 것이라 둘이 맞지 않아요."
+   },
+   {
+    "note": "news는 단수 취급 → is, 뒤 문장의 it은 맞다 → 틀린 것은 These",
+    "highlight": [
+     "① These"
+    ],
+    "strike": [
+     "② is",
+     "④ it"
+    ],
+    "narration": "둘째, news는 단수 취급하니 is와 뒤 문장의 it은 맞고, 틀린 것은 These예요."
+   },
+   {
+    "note": "These → This: This news is very surprising.",
+    "highlight": [
+     "① These"
+    ],
+    "strike": [],
+    "narration": "셋째, These를 This로 고쳐요. This news is very surprising, 이 소식은 정말 놀라워요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① These  ✓  단수 취급하는 news 앞 → This로 고쳐요",
+    "② is  ✗  단수 취급하는 news에 맞는 is",
+    "③ surprising  ✗  be동사 뒤 형용사 surprising(놀라운)",
+    "④ it  ✗  단수 취급하는 news를 it으로 받아요",
+    "⑤ the  ✗  ‘라디오로’는 on the radio"
+   ],
+   "narration": "정답은 1번 These예요. news는 단수 취급하니 This를 써야 해요. 2번 is를 are로 고쳐야 한다고 생각하기 쉬워요. 하지만 news는 s로 끝나도 단수 취급이라 is가 맞아요. 4번 it도 단수 취급하는 news를 가리켜서 맞아요."
+  },
+  "summary": {
+   "card": "news → 단수 취급: this news, is, it",
+   "narration": "정답은 1번이에요. 기억할 것, news는 s로 끝나도 단수 취급해서 this news처럼 쓰고, be동사는 is, 대명사는 it을 써요."
+  },
+  "captions": [
+   "단수 취급하는 news",
+   "먼저 풀어 보세요",
+   "news는 단수 취급",
+   "These ↔ is → These가 틀림",
+   "정답 ① These → This",
+   "news → this, is, it"
+  ],
+  "sec": [
+   12,
+   20,
+   28,
+   32,
+   26,
+   10
+  ]
+ },
+ "F": {
+  "title": "복수 취급하는 police와 대명사",
+  "intro": "이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요.",
+  "problem_narration": "다음 문장의 밑줄 친 부분 중 어법상 틀린 것을 고르세요. The police are here now. I called it ten minutes ago. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "대명사는 가리키는 명사의 수에 맞춰요.",
+    "단수인 물건 → it   복수 → 주어 자리 they, 목적어 자리 them",
+    "police(경찰)는 s로 끝나지 않아도 늘 복수 취급 → are, they, them",
+    "예) The police are near the bank. I can see them. (경찰이 은행 근처에 있어요. 나는 경찰을 볼 수 있어요.)"
+   ],
+   "narration": "대명사는 가리키는 명사의 수에 맞춰요. 단수인 물건은 it으로 받고, 복수는 주어 자리에서 they, 목적어 자리에서 them으로 받아요. 경찰 police는 s로 끝나지 않지만 늘 복수 취급해서, be동사는 are, 대명사는 they나 them을 써요. 예를 들어 The police are near the bank, 경찰이 은행 근처에 있어요. I can see them, 나는 경찰을 볼 수 있어요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 친 it이 가리키는 것 = 앞 문장의 The police(경찰)",
+    "highlight": [
+     "③<u>it</u>",
+     "The police"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 it이 가리키는 것을 앞 문장에서 찾으면, 내가 십 분 전에 부른 The police, 경찰이에요."
+   },
+   {
+    "note": "police는 복수 취급, called 뒤 목적어 자리 → them: I called them ten minutes ago.",
+    "highlight": [
+     "③ it"
+    ],
+    "strike": [],
+    "narration": "둘째, police는 복수 취급하니, called 뒤의 목적어 자리에는 it이 아니라 them을 써요. I called them ten minutes ago, 나는 십 분 전에 경찰을 불렀어요."
+   },
+   {
+    "note": "앞 문장의 are도 복수 취급하는 police에 맞다 → 틀린 것은 it",
+    "highlight": [],
+    "strike": [
+     "① are"
+    ],
+    "narration": "셋째, 앞 문장의 are도 복수 취급하는 police에 맞으니, 틀린 것은 3번 it이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① are  ✗  복수 취급하는 police에 맞는 are",
+    "② here  ✗  ‘여기에’를 뜻하는 부사 here",
+    "③ it  ✓  복수 취급하는 police → them으로 고쳐요",
+    "④ minutes  ✗  ten 뒤라 복수형 minutes",
+    "⑤ ago  ✗  ‘~ 전에’, 과거형 called와 함께 써요"
+   ],
+   "narration": "정답은 3번 it이에요. police는 복수 취급하니 them으로 고쳐야 해요. 4번 minutes는 ten 뒤라서 복수형이 맞아요. 5번 ago는 전에라는 뜻이라 과거형 called와 함께 써요."
+  },
+  "summary": {
+   "card": "police → 늘 복수 취급 → are, they, them",
+   "narration": "정답은 3번이에요. 기억할 것, police는 늘 복수 취급해서 it이 아니라 they나 them으로 받아요."
+  },
+  "captions": [
+   "복수 취급하는 police",
+   "먼저 풀어 보세요",
+   "police는 복수 취급",
+   "it → The police → them",
+   "정답 ③ it → them",
+   "police → they, them"
+  ],
+  "sec": [
+   12,
+   20,
+   28,
+   34,
+   22,
+   10
+  ]
+ }
+}

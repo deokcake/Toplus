@@ -1,0 +1,482 @@
+{
+ "A": {
+  "title": "주어에 맞는 be동사 am, is, are",
+  "intro": "이 문제는 문장마다 be동사가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형은 주어에 맞춰 am, is, are 중 하나를 써요",
+    "I → am  ·  he, she, it, 나도 너도 아닌 하나, 셀 수 없는 것 → is",
+    "you(한 명이어도), we, they, 여럿 → are",
+    "예/아니요로 묻는 be동사 의문문(be동사 + 주어 ~?), 부정문(be동사 + not)에서도 be동사는 주어에 맞춰요",
+    "예) Is your bag heavy? (네 가방은 무겁니?)"
+   ],
+   "narration": "be동사는 무엇이다, 어떠하다, 어디에 있다는 뜻이고, 현재형은 주어에 맞춰 am, is, are 중 하나를 써요. 주어가 I이면 am, he, she, it처럼 나도 너도 아닌 하나나 셀 수 없는 것이면 is를 써요. you는 한 사람이어도 are를 쓰고, we, they나 여럿에도 are를 써요. be동사 문장을 예, 아니요로 묻는 의문문으로 만들 때는 be동사를 주어 앞에 쓰고, 부정문으로 만들 때는 be동사 뒤에 not을 쓰는데, 이때도 be동사는 주어에 맞춰요. Is your bag heavy? 네 가방은 무겁니?"
+  },
+  "steps": [
+   {
+    "note": "주어 찾기: She, They, you, Those, he (물음표 문장은 맨 앞 be동사 바로 뒤가 주어)",
+    "highlight": [
+     "① She",
+     "② They",
+     "③ Is you",
+     "④ Those",
+     "⑤ Is he"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 주어를 찾는데, 물음표로 끝나는 3번과 5번은 맨 앞 be동사 바로 뒤의 you와 he가 주어예요."
+   },
+   {
+    "note": "She, he(한 사람) → is ✓  /  They, Those(저것들, 여럿) → are ✓  /  aren't = are not ✓",
+    "highlight": [],
+    "strike": [
+     "① She is my best friend.",
+     "② They aren't at home today.",
+     "④ Those are her pencils.",
+     "⑤ Is he a doctor?"
+    ],
+    "narration": "둘째, She와 he는 한 사람이라 is, They와 저것들이라는 뜻의 Those는 여럿이라 are를 바르게 썼어요. 2번 aren't도 are 뒤에 not을 붙여 줄인 말이라 맞아요."
+   },
+   {
+    "note": "you는 한 명이어도 are → Is you ✗ → Are you → 틀린 문장은 ③",
+    "highlight": [
+     "③ Is you ready for the test?"
+    ],
+    "strike": [
+     "Is you"
+    ],
+    "narration": "셋째, 3번의 주어 you는 한 사람을 가리켜도 are를 쓰니, Is you를 Are you로 고쳐야 해요. Are you ready for the test? 너는 시험 볼 준비가 됐니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① She is my best friend.  ✗  She는 한 사람 → is가 맞아요",
+    "② They aren't at home today.  ✗  They는 여럿 → are, not은 be동사 뒤 → 맞아요",
+    "③ Is you ready for the test?  ✓  you는 한 명이어도 are → Are you (틀린 문장)",
+    "④ Those are her pencils.  ✗  Those(저것들)는 여럿 → are가 맞아요",
+    "⑤ Is he a doctor?  ✗  주어 he는 한 사람 → Is가 맞아요"
+   ],
+   "narration": "정답은 3번이에요. you는 한 사람에게 말할 때도 are를 쓰니 Is you가 아니라 Are you로 써야 해요. 5번 Is he는 be동사가 앞에 와서 어색해 보이지만, 주어 he가 한 사람이라 Is가 맞아요. 4번 Those는 저것들이라는 뜻의 여럿이라 are가 맞아요. 2번 aren't는 are not을 줄인 말로, They에 맞게 바르게 썼어요."
+  },
+  "summary": {
+   "card": "I → am  ·  나도 너도 아닌 하나, 셀 수 없는 것 → is  ·  you, we, they, 여럿 → are (의문문·부정문에서도)",
+   "narration": "정답은 3번이에요. 기억할 것, be동사는 주어 앞에 와도 주어에 맞춰 골라요. you는 한 사람이어도 are를 써요."
+  },
+  "captions": [
+   "be동사가 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "I는 am, 하나는 is, 여럿은 are",
+   "주어 찾기 → 맞는 문장 지우기 → ③",
+   "정답 ③ Is you → Are you",
+   "you는 한 명이어도 are"
+  ],
+  "sec": [
+   10,
+   13,
+   30,
+   39,
+   27,
+   10
+  ]
+ },
+ "B": {
+  "title": "주어에 맞는 be동사 am, is, are",
+  "intro": "이 문제는 be동사로 묻는 다섯 문장에서 be동사가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형은 주어에 맞춰 am, is, are 중 하나를 써요",
+    "I → am  ·  he, she, it, 나도 너도 아닌 하나, 셀 수 없는 것 → is",
+    "you(한 명이어도), we, they, 여럿 → are",
+    "예/아니요로 묻는 be동사 의문문(be동사 + 주어 ~?)에서도 be동사는 뒤에 오는 주어에 맞춰요",
+    "예) Is your bag heavy? (네 가방은 무겁니?)"
+   ],
+   "narration": "be동사는 무엇이다, 어떠하다, 어디에 있다는 뜻이고, 현재형은 주어에 맞춰 am, is, are 중 하나를 써요. 주어가 I이면 am, he, she, it처럼 나도 너도 아닌 하나나 셀 수 없는 것이면 is를 써요. you는 한 사람이어도 are를 쓰고, we, they나 여럿에도 are를 써요. be동사 문장을 예, 아니요로 묻는 의문문으로 만들 때는 be동사를 주어 앞에 쓰는데, 이때도 be동사는 뒤에 오는 주어에 맞춰요. Is your bag heavy? 네 가방은 무겁니?"
+  },
+  "steps": [
+   {
+    "note": "모두 의문문 → 맨 앞 be동사 바로 뒤의 주어: she, the boys, they, they, it",
+    "highlight": [
+     "① Is she",
+     "② Are the boys",
+     "③ Are they",
+     "④ Is they",
+     "⑤ Is it"
+    ],
+    "strike": [],
+    "narration": "첫째, 다섯 문장 모두 물음표로 끝나니, 맨 앞 be동사 바로 뒤에 있는 주어 she, the boys, they, they, it을 찾아요."
+   },
+   {
+    "note": "she, it → Is ✓  /  the boys(소년 여러 명), they(여럿) → Are ✓",
+    "highlight": [],
+    "strike": [
+     "① Is she kind?",
+     "② Are the boys home?",
+     "③ Are they students?",
+     "⑤ Is it cold?"
+    ],
+    "narration": "둘째, she와 it에는 Is, 소년 여러 명인 the boys와 they에는 Are를 써야 해요. 그래서 1번, 2번, 3번, 5번은 맞아요."
+   },
+   {
+    "note": "they인데 Is ✗ → Are they → 틀린 문장은 ④",
+    "highlight": [
+     "④ Is they your friends?"
+    ],
+    "strike": [
+     "Is they"
+    ],
+    "narration": "셋째, 4번은 주어가 they인데 Is를 썼으니, Is they를 Are they로 고쳐야 해요. Are they your friends? 그들은 네 친구들이니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Is she kind?  ✗  she는 한 사람 → Is가 맞아요",
+    "② Are the boys home?  ✗  the boys는 소년 여러 명 → Are가 맞아요",
+    "③ Are they students?  ✗  they는 여럿 → Are가 맞아요",
+    "④ Is they your friends?  ✓  they는 여럿 → Are they (틀린 문장)",
+    "⑤ Is it cold?  ✗  it에는 is → Is가 맞아요"
+   ],
+   "narration": "정답은 4번이에요. they는 여럿을 가리키니 Is they가 아니라 Are they로 써야 해요. 3번은 같은 they에 Are를 바르게 써서 맞는 문장이에요. 2번 the boys는 소년 여러 명이라 Are가 맞아요. 1번 she와 5번 it에는 Is를 쓰니 맞아요."
+  },
+  "summary": {
+   "card": "I → am  ·  나도 너도 아닌 하나, 셀 수 없는 것 → is  ·  you, we, they, 여럿 → are (의문문에서도)",
+   "narration": "정답은 4번이에요. 기억할 것, be동사가 주어 앞에 오는 의문문에서도 be동사는 주어에 맞춰요. they처럼 여럿이면 Are를 써요."
+  },
+  "captions": [
+   "be동사가 틀린 의문문 찾기",
+   "먼저 풀어 보세요",
+   "I는 am, 하나는 is, 여럿은 are",
+   "주어 찾기 → 맞는 문장 지우기 → ④",
+   "정답 ④ Is they → Are they",
+   "의문문도 주어에 맞춰요"
+  ],
+  "sec": [
+   10,
+   13,
+   30,
+   36,
+   21,
+   11
+  ]
+ },
+ "C": {
+  "title": "주어에 맞는 be동사 am, is, are",
+  "intro": "이 문제는 의문문과 부정문에서도 be동사가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형은 주어에 맞춰 am, is, are 중 하나를 써요",
+    "I → am  ·  he, she, it, 나도 너도 아닌 하나, 셀 수 없는 것 → is",
+    "you(한 명이어도), we, they, 여럿 → are",
+    "예/아니요로 묻는 be동사 의문문(be동사 + 주어 ~?), 부정문(be동사 + not)에서도 be동사는 주어에 맞춰요",
+    "예) Is your bag heavy? (네 가방은 무겁니?)"
+   ],
+   "narration": "be동사는 무엇이다, 어떠하다, 어디에 있다는 뜻이고, 현재형은 주어에 맞춰 am, is, are 중 하나를 써요. 주어가 I이면 am, he, she, it처럼 나도 너도 아닌 하나나 셀 수 없는 것이면 is를 써요. you는 한 사람이어도 are를 쓰고, we, they나 여럿에도 are를 써요. be동사 문장을 예, 아니요로 묻는 의문문으로 만들 때는 be동사를 주어 앞에 쓰고, 부정문으로 만들 때는 be동사 뒤에 not을 쓰는데, 이때도 be동사는 주어에 맞춰요. Is your bag heavy? 네 가방은 무겁니?"
+  },
+  "steps": [
+   {
+    "note": "주어 찾기: the weather, Mina, she, They, those (물음표 문장은 맨 앞 be동사 바로 뒤가 주어)",
+    "highlight": [
+     "① Is the weather",
+     "② Is Mina",
+     "③ Are she",
+     "④ They",
+     "⑤ Are those"
+    ],
+    "strike": [],
+    "narration": "첫째, 주어를 찾으면 4번은 맨 앞의 They이고, 물음표로 끝나는 나머지 문장은 맨 앞 be동사 바로 뒤의 the weather, Mina, she, those예요."
+   },
+   {
+    "note": "the weather(셀 수 없는 것), Mina(한 사람) → Is ✓  /  They, those(저것들, 여럿) → are ✓  /  aren't = are not ✓",
+    "highlight": [],
+    "strike": [
+     "① Is the weather cold?",
+     "② Is Mina at the library?",
+     "④ They aren't busy today.",
+     "⑤ Are those your notebooks?"
+    ],
+    "narration": "둘째, 날씨라는 뜻의 the weather는 셀 수 없는 것, Mina는 한 사람이라 Is를 쓰고, They와 저것들이라는 뜻의 those는 여럿이라 are를 바르게 썼어요. 4번 aren't도 are 뒤에 not을 붙여 줄인 말이라 맞아요."
+   },
+   {
+    "note": "she는 한 사람 → Are she ✗ → Is she → 틀린 문장은 ③",
+    "highlight": [
+     "③ Are she your cousin?"
+    ],
+    "strike": [
+     "Are she"
+    ],
+    "narration": "셋째, 3번의 주어 she는 한 사람이라 Are she를 Is she로 고쳐야 해요. Is she your cousin? 그녀는 네 사촌이니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Is the weather cold?  ✗  the weather(날씨)는 셀 수 없는 것 → Is가 맞아요",
+    "② Is Mina at the library?  ✗  Mina는 한 사람 → Is가 맞아요",
+    "③ Are she your cousin?  ✓  she는 한 사람 → Is she (틀린 문장)",
+    "④ They aren't busy today.  ✗  They는 여럿 → are, not은 be동사 뒤 → 맞아요",
+    "⑤ Are those your notebooks?  ✗  those(저것들)는 여럿 → Are가 맞아요"
+   ],
+   "narration": "정답은 3번이에요. she는 한 사람이라 Are she가 아니라 Is she로 써야 해요. 1번 the weather는 날씨라는 뜻으로 셀 수 없는 것이라 Is가 맞아요. 5번 those는 저것들이라는 뜻의 여럿이라 Are가 맞아요. 4번 aren't는 are not을 줄인 말로, They에 맞게 바르게 썼어요."
+  },
+  "summary": {
+   "card": "I → am  ·  나도 너도 아닌 하나, 셀 수 없는 것 → is  ·  you, we, they, 여럿 → are (의문문·부정문에서도)",
+   "narration": "정답은 3번이에요. 기억할 것, be동사는 주어 앞에 와도 주어에 맞춰 골라요. she처럼 나도 너도 아닌 한 사람이면 Is를 써요."
+  },
+  "captions": [
+   "be동사가 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "I는 am, 하나는 is, 여럿은 are",
+   "주어 찾기 → 맞는 문장 지우기 → ③",
+   "정답 ③ Are she → Is she",
+   "한 사람이면 Is"
+  ],
+  "sec": [
+   10,
+   13,
+   30,
+   44,
+   24,
+   11
+  ]
+ },
+ "D": {
+  "title": "주어에 맞는 be동사 am, is, are",
+  "intro": "이 문제는 의문문과 부정문에서도 be동사가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형은 주어에 맞춰 am, is, are 중 하나를 써요",
+    "I → am  ·  he, she, it, 나도 너도 아닌 하나, 셀 수 없는 것 → is",
+    "you(한 명이어도), we, they, 여럿 → are",
+    "예/아니요로 묻는 be동사 의문문(be동사 + 주어 ~?), 부정문(be동사 + not)에서도 be동사는 주어에 맞춰요",
+    "예) Is your bag heavy? (네 가방은 무겁니?)"
+   ],
+   "narration": "be동사는 무엇이다, 어떠하다, 어디에 있다는 뜻이고, 현재형은 주어에 맞춰 am, is, are 중 하나를 써요. 주어가 I이면 am, he, she, it처럼 나도 너도 아닌 하나나 셀 수 없는 것이면 is를 써요. you는 한 사람이어도 are를 쓰고, we, they나 여럿에도 are를 써요. be동사 문장을 예, 아니요로 묻는 의문문으로 만들 때는 be동사를 주어 앞에 쓰고, 부정문으로 만들 때는 be동사 뒤에 not을 쓰는데, 이때도 be동사는 주어에 맞춰요. Is your bag heavy? 네 가방은 무겁니?"
+  },
+  "steps": [
+   {
+    "note": "주어 찾기: Mina, the children, the dog, They, he (물음표 문장은 맨 앞 be동사 바로 뒤가 주어)",
+    "highlight": [
+     "① Is Mina",
+     "② Are the children",
+     "③ Is the dog",
+     "④ They",
+     "⑤ Are he"
+    ],
+    "strike": [],
+    "narration": "첫째, 주어를 찾으면 4번은 맨 앞의 They이고, 물음표로 끝나는 나머지 문장은 맨 앞 be동사 바로 뒤의 Mina, the children, the dog, he예요."
+   },
+   {
+    "note": "Mina, the dog(하나) → Is ✓  /  the children(아이 여러 명), They → are ✓  /  are not ✓",
+    "highlight": [],
+    "strike": [
+     "① Is Mina your sister?",
+     "② Are the children ready?",
+     "③ Is the dog hungry?",
+     "④ They are not late."
+    ],
+    "narration": "둘째, Mina와 the dog처럼 하나인 주어에는 Is를 쓰고, s로 끝나지 않아도 아이 여러 명을 뜻하는 the children과 They에는 are를 바르게 썼어요. 4번은 not도 be동사 뒤에 바르게 놓았어요."
+   },
+   {
+    "note": "he는 한 사람 → Are he ✗ → Is he → 틀린 문장은 ⑤",
+    "highlight": [
+     "⑤ Are he at home?"
+    ],
+    "strike": [
+     "Are he"
+    ],
+    "narration": "셋째, 5번의 주어 he는 한 사람이라 Are he를 Is he로 고쳐야 해요. Is he at home? 그는 집에 있니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Is Mina your sister?  ✗  Mina는 한 사람 → Is가 맞아요",
+    "② Are the children ready?  ✗  children은 아이 여러 명 → Are가 맞아요",
+    "③ Is the dog hungry?  ✗  the dog(개 한 마리) → Is가 맞아요",
+    "④ They are not late.  ✗  They는 여럿 → are, not은 be동사 뒤 → 맞아요",
+    "⑤ Are he at home?  ✓  he는 한 사람 → Is he (틀린 문장)"
+   ],
+   "narration": "정답은 5번이에요. he는 한 사람이라 Are he가 아니라 Is he로 써야 해요. 2번 children은 s로 끝나지 않지만 아이 여러 명이라는 뜻이라 Are가 맞아요. 1번 Mina는 한 사람이라 Is가 맞아요. 4번은 They에 맞는 are 뒤에 not을 바르게 놓았어요."
+  },
+  "summary": {
+   "card": "I → am  ·  나도 너도 아닌 하나, 셀 수 없는 것 → is  ·  you, we, they, 여럿 → are (의문문·부정문에서도)",
+   "narration": "정답은 5번이에요. 기억할 것, be동사는 주어 앞에 와도 주어에 맞춰 골라요. he처럼 나도 너도 아닌 한 사람이면 Is를 써요."
+  },
+  "captions": [
+   "be동사가 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "I는 am, 하나는 is, 여럿은 are",
+   "주어 찾기 → 맞는 문장 지우기 → ⑤",
+   "정답 ⑤ Are he → Is he",
+   "한 사람이면 Is"
+  ],
+  "sec": [
+   10,
+   13,
+   30,
+   41,
+   21,
+   10
+  ]
+ },
+ "E": {
+  "title": "주어에 맞는 be동사 am, is, are",
+  "intro": "이 문제는 문장마다 be동사가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형은 주어에 맞춰 am, is, are 중 하나를 써요",
+    "I → am  ·  he, she, it, 나도 너도 아닌 하나, 셀 수 없는 것 → is",
+    "you(한 명이어도), we, they, 여럿 → are",
+    "예/아니요로 묻는 be동사 의문문(be동사 + 주어 ~?)에서도 be동사는 뒤에 오는 주어에 맞춰요",
+    "예) Is your bag heavy? (네 가방은 무겁니?)"
+   ],
+   "narration": "be동사는 무엇이다, 어떠하다, 어디에 있다는 뜻이고, 현재형은 주어에 맞춰 am, is, are 중 하나를 써요. 주어가 I이면 am, he, she, it처럼 나도 너도 아닌 하나나 셀 수 없는 것이면 is를 써요. you는 한 사람이어도 are를 쓰고, we, they나 여럿에도 are를 써요. be동사 문장을 예, 아니요로 묻는 의문문으로 만들 때는 be동사를 주어 앞에 쓰는데, 이때도 be동사는 뒤에 오는 주어에 맞춰요. Is your bag heavy? 네 가방은 무겁니?"
+  },
+  "steps": [
+   {
+    "note": "주어 찾기: He, the weather, these, The boys, your father (물음표 문장은 맨 앞 be동사 바로 뒤가 주어)",
+    "highlight": [
+     "① He",
+     "② Is the weather",
+     "③ Are these",
+     "④ The boys",
+     "⑤ Are your father"
+    ],
+    "strike": [],
+    "narration": "첫째, 주어를 찾으면 1번은 He, 4번은 The boys이고, 물음표로 끝나는 나머지 문장은 맨 앞 be동사 바로 뒤의 the weather, these, your father예요."
+   },
+   {
+    "note": "He(한 사람), the weather(셀 수 없는 것) → is ✓  /  these(이것들), The boys(여럿) → are ✓",
+    "highlight": [],
+    "strike": [
+     "① He is my uncle.",
+     "② Is the weather warm?",
+     "③ Are these your books?",
+     "④ The boys are busy."
+    ],
+    "narration": "둘째, He는 한 사람이고 날씨라는 뜻의 the weather는 셀 수 없는 것이라 is를 쓰고, 이것들이라는 뜻의 these와 The boys는 여럿이라 are를 바르게 썼어요. 그래서 1번부터 4번까지는 맞는 문장이에요."
+   },
+   {
+    "note": "주어는 your father(아버지 한 사람) → Are ✗ → Is your father → 틀린 문장은 ⑤",
+    "highlight": [
+     "⑤ Are your father a cook?"
+    ],
+    "strike": [
+     "Are your father"
+    ],
+    "narration": "셋째, 5번의 주어는 your가 아니라 아버지 한 사람인 your father라서, Are를 Is로 고쳐야 해요. Is your father a cook? 네 아버지는 요리사이시니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① He is my uncle.  ✗  He는 한 사람 → is가 맞아요",
+    "② Is the weather warm?  ✗  the weather(날씨)는 셀 수 없는 것 → Is가 맞아요",
+    "③ Are these your books?  ✗  these(이것들)는 여럿 → Are가 맞아요",
+    "④ The boys are busy.  ✗  The boys는 소년 여러 명 → are가 맞아요",
+    "⑤ Are your father a cook?  ✓  your father는 한 사람 → Is your father (틀린 문장)"
+   ],
+   "narration": "정답은 5번이에요. your 때문에 Are를 쓰기 쉽지만, 주어는 아버지 한 사람인 your father라서 Is를 써야 해요. 3번 these는 이것들이라는 뜻의 여럿이라 Are가 맞아요. 2번 the weather는 날씨라는 뜻으로 셀 수 없는 것이라 Is가 맞아요. 4번 The boys는 소년 여러 명이라 are가 맞아요."
+  },
+  "summary": {
+   "card": "I → am  ·  나도 너도 아닌 하나, 셀 수 없는 것 → is  ·  you, we, they, 여럿 → are (의문문에서도)",
+   "narration": "정답은 5번이에요. 기억할 것, be동사는 주어 전체를 보고 골라요. your가 붙어 있어도 your father처럼 한 사람이면 Is를 써요."
+  },
+  "captions": [
+   "be동사가 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "I는 am, 하나는 is, 여럿은 are",
+   "주어 찾기 → 맞는 문장 지우기 → ⑤",
+   "정답 ⑤ Are → Is your father",
+   "your father는 한 사람 → Is"
+  ],
+  "sec": [
+   10,
+   13,
+   30,
+   45,
+   25,
+   12
+  ]
+ },
+ "F": {
+  "title": "주어에 맞는 be동사 am, is, are",
+  "intro": "이 문제는 문장마다 주어를 찾아 be동사가 알맞게 쓰였는지 살피고, 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형은 주어에 맞춰 am, is, are 중 하나를 써요",
+    "I → am  ·  he, she, it, 나도 너도 아닌 하나, 셀 수 없는 것 → is",
+    "you(한 명이어도), we, they, 여럿 → are",
+    "예/아니요로 묻는 be동사 의문문(be동사 + 주어 ~?), 부정문(be동사 + not)에서도 be동사는 주어에 맞춰요",
+    "예) Is your bag heavy? (네 가방은 무겁니?)"
+   ],
+   "narration": "be동사는 무엇이다, 어떠하다, 어디에 있다는 뜻이고, 현재형은 주어에 맞춰 am, is, are 중 하나를 써요. 주어가 I이면 am, he, she, it처럼 나도 너도 아닌 하나나 셀 수 없는 것이면 is를 써요. you는 한 사람이어도 are를 쓰고, we, they나 여럿에도 are를 써요. be동사 문장을 예, 아니요로 묻는 의문문으로 만들 때는 be동사를 주어 앞에 쓰고, 부정문으로 만들 때는 be동사 뒤에 not을 쓰는데, 이때도 be동사는 주어에 맞춰요. Is your bag heavy? 네 가방은 무겁니?"
+  },
+  "steps": [
+   {
+    "note": "주어 찾기: Tom, The girls, We, These, the cat (물음표 문장은 맨 앞 be동사 바로 뒤가 주어)",
+    "highlight": [
+     "① Is Tom",
+     "② The girls",
+     "③ We",
+     "④ These",
+     "⑤ Is the cat"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 주어를 찾는데, 물음표로 끝나는 1번과 5번은 맨 앞 be동사 바로 뒤의 Tom과 the cat이 주어예요."
+   },
+   {
+    "note": "Tom, the cat(하나) → Is ✓  /  We, These(이것들, 여럿) → are ✓  /  are not ✓",
+    "highlight": [],
+    "strike": [
+     "① Is Tom at home?",
+     "③ We are not tired.",
+     "④ These are my gloves.",
+     "⑤ Is the cat under the chair?"
+    ],
+    "narration": "둘째, Tom과 the cat은 하나라 Is, We와 이것들이라는 뜻의 These는 여럿이라 are를 바르게 썼어요. 3번은 not도 be동사 뒤에 바르게 놓았어요."
+   },
+   {
+    "note": "The girls(소녀 여러 명) → is ✗ → are → 틀린 문장은 ②",
+    "highlight": [
+     "② The girls is in the garden."
+    ],
+    "strike": [
+     "The girls is"
+    ],
+    "narration": "셋째, 2번의 주어 The girls는 소녀 여러 명이라 is를 are로 고쳐야 해요. The girls are in the garden. 그 소녀들은 정원에 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Is Tom at home?  ✗  Tom은 한 사람 → Is가 맞아요",
+    "② The girls is in the garden.  ✓  The girls는 소녀 여러 명 → are (틀린 문장)",
+    "③ We are not tired.  ✗  We는 여럿 → are, not은 be동사 뒤 → 맞아요",
+    "④ These are my gloves.  ✗  These(이것들)는 여럿 → are가 맞아요",
+    "⑤ Is the cat under the chair?  ✗  the cat은 한 마리 → Is가 맞아요"
+   ],
+   "narration": "정답은 2번이에요. The girls는 소녀 여러 명이니 is가 아니라 are를 써야 해요. 4번 These는 이것들이라는 뜻의 여럿이라 are가 맞아요. 5번은 be동사가 앞에 와 있지만, 주어 the cat이 한 마리라 Is가 맞아요. 3번 We는 여럿이라 are를 쓰고, not을 그 뒤에 바르게 놓았어요."
+  },
+  "summary": {
+   "card": "I → am  ·  나도 너도 아닌 하나, 셀 수 없는 것 → is  ·  you, we, they, 여럿 → are (의문문·부정문에서도)",
+   "narration": "정답은 2번이에요. 기억할 것, be동사는 주어에 맞춰 골라요. The girls처럼 여럿을 뜻하는 주어에는 are를 써요."
+  },
+  "captions": [
+   "be동사가 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "I는 am, 하나는 is, 여럿은 are",
+   "주어 찾기 → 맞는 문장 지우기 → ②",
+   "정답 ② The girls is → are",
+   "여럿이면 are"
+  ],
+  "sec": [
+   10,
+   13,
+   30,
+   37,
+   24,
+   10
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T04:56:57.739Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "until - by",
+      "1": "at - for",
+      "2": "during - until",
+      "3": "by - until",
+      "4": "by - on"
+    },
+    "expl": "핵심 규칙: by는 ‘~까지’ 한 번 끝내야 하는 완료 기한(submit, return, finish, be back)을, until은 ‘~까지’ 계속되는 상태·동작의 끝(stay, wait, be open, last)을 나타낸다.\n풀이 순서: ① 빈칸 뒤의 말을 본다: 2010은 연도, May 5th는 날짜다. → ② 연도 앞에는 in, 날짜 앞에는 on을 쓴다. → ③ 정답은 by - until.\n문장별 판정:\n정답 판단: 첫째 문장은 기차를 타려면 오전 7시까지 떠나야 하는 기한이고, by, 둘째 문장은 해 질 녘까지 축구를 계속하고, until이므로 정답은 ④이다.\n선택지 분석:\n① [오답] 첫째 빈칸 until: 기차를 타려면 오전 7시까지 떠나야 하는 기한이므로 by이다, 둘째 빈칸 by: 해 질 녘까지 축구를 계속하므로 until이다. 따라서 오답이다.\n② [오답] 첫째 빈칸 at: 기차를 타려면 오전 7시까지 떠나야 하는 기한이므로 by이다, 둘째 빈칸 for: 해 질 녘까지 축구를 계속하므로 until이다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 during: 기차를 타려면 오전 7시까지 떠나야 하는 기한이므로 by이다. 따라서 오답이다.\n④ [정답] 첫째 문장은 기차를 타려면 오전 7시까지 떠나야 하는 기한이고, by, 둘째 문장은 해 질 녘까지 축구를 계속하고, until이므로 정답이다.\n⑤ [오답] 둘째 빈칸 on: 해 질 녘까지 축구를 계속하므로 until이다. 따라서 오답이다.",
+    "passage": "- We need to leave _____ 7 a.m. to catch the train.\n- Let's play soccer _____ sunset.",
+    "stem": "다음 빈칸에 들어갈 가장 적절한 전치사를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T04:56:51.515Z"
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T04:56:57.739Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:56:57.739Z",
+      "what": "확인 완료"
+    }
+  }
+}

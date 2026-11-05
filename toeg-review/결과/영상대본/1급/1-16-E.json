@@ -1,0 +1,181 @@
+{
+ "key": "1-16",
+ "type": "E",
+ "grade": 1,
+ "chapter": "CH 2 시제",
+ "title": "상태동사 contain·have와 시제",
+ "total_sec": 129,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "1급 · CH 2 시제 · 16번 · E 유형\n\n이 문제는 상태동사와 시제를 따져 어법상 옳은 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 2 시제 · 16번 · E 유형",
+     "이 문제는 상태동사와 시제를 따져 어법상 옳은 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 2, 16번 E 유형. 이 문제는 상태동사와 시제를 따져 어법상 옳은 문장을 고르는 문제예요.",
+   "caption": "상태동사와 시제"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장은?\n\n① Look! My dog chased a cat in the yard now.\n② He is seeming very nervous today.\n③ She is having a lot of homework this week.\n④ This soup contains too much salt.\n⑤ Last night, we need more chairs for the party.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 어법상 옳은 문장은?",
+     "① Look! My dog chased a cat in the yard now.",
+     "② He is seeming very nervous today.",
+     "③ She is having a lot of homework this week.",
+     "④ This soup contains too much salt.",
+     "⑤ Last night, we need more chairs for the party."
+    ]
+   },
+   "narration": "다음 중 어법상 옳은 문장은 무엇일까요? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n상태동사: contain, seem, have(가지다)처럼 상태를 나타내는 동사 → 보통 진행형 X\n같은 have라도 ‘먹다’처럼 동작을 나타내면 진행형 O\n시간 표현과 시제 맞추기: last night → 과거 시제 / Look!·now로 지금 하는 동작 → 현재진행형\n예) She has a red bike. (그녀는 빨간 자전거를 가지고 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "상태동사: contain, seem, have(가지다)처럼 상태를 나타내는 동사 → 보통 진행형 X",
+     "같은 have라도 ‘먹다’처럼 동작을 나타내면 진행형 O",
+     "시간 표현과 시제 맞추기: last night → 과거 시제 / Look!·now로 지금 하는 동작 → 현재진행형",
+     "예) She has a red bike. (그녀는 빨간 자전거를 가지고 있어요.)"
+    ]
+   },
+   "narration": "contain, seem, 가지다라는 뜻의 have 같은 상태동사는 보통 진행형으로 쓰지 않아요. have가 먹다라는 동작이면 진행형을 쓸 수 있어요. She has a red bike. 그녀는 빨간 자전거를 가지고 있어요. 시제는 시간 표현에 맞춰서, last night처럼 지난 때를 말하면 과거 시제, Look!이나 now로 지금 하는 동작을 말하면 현재진행형을 써요.",
+   "caption": "have(가지다)는 상태 → 진행형 X"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 39,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장은?\n\n① Look! My dog chased a cat in the yard now.\n② He is seeming very nervous today.\n③ She is having a lot of homework this week.\n④ This soup contains too much salt.\n⑤ Last night, we need more chairs for the party.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "is seeming",
+       "is having"
+      ],
+      "strike": [
+       "② He is seeming very nervous today.",
+       "③ She is having a lot of homework this week."
+      ],
+      "note": "진행형 is seeming(~처럼 보이다), is having(숙제가 있다 = 가지다) → 상태 → ②③ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "chased",
+       "yard now",
+       "Last night",
+       "need more chairs"
+      ],
+      "strike": [
+       "① Look! My dog chased a cat in the yard now.",
+       "⑤ Last night, we need more chairs for the party."
+      ],
+      "note": "시간 표현: Look!·now + 과거형 chased ✗, Last night + 현재형 need ✗ → ①⑤ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ This soup contains too much salt."
+      ],
+      "strike": [],
+      "note": "④ 상태동사 contain을 현재형 contains로 → 정답"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 진행형 문장을 봐요. 2번 seem은 그렇게 보인다는 상태, 3번 have는 숙제가 있다는 소유의 뜻이라서 seems, has로 써야 해요. 둘째, 시간 표현을 보면, 1번은 Look!과 now로 지금 쫓는 중이니 chased가 아니라 is chasing, 5번은 Last night, 곧 지난밤의 일이니 need가 아니라 needed가 맞아요. 셋째, 남은 4번은 상태동사 contain을 현재형으로 바르게 썼어요. This soup contains too much salt. 이 수프에는 소금이 너무 많이 들어 있어요.",
+   "caption": "진행형 → 시간 표현 → ④"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① Look! My dog chased a cat in the yard now.  ✗  지금 하는 동작인데 과거형 → is chasing\n② He is seeming very nervous today.  ✗  seem(~처럼 보이다)은 진행형 X → seems\n③ She is having a lot of homework this week.  ✗  have(가지다, 있다)는 진행형 X → has\n④ This soup contains too much salt.  ✓  상태동사 contain을 현재형으로 바르게 씀\n⑤ Last night, we need more chairs for the party.  ✗  Last night인데 현재형 → needed",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Look! My dog chased a cat in the yard now.  ✗  지금 하는 동작인데 과거형 → is chasing",
+     "② He is seeming very nervous today.  ✗  seem(~처럼 보이다)은 진행형 X → seems",
+     "③ She is having a lot of homework this week.  ✗  have(가지다, 있다)는 진행형 X → has",
+     "④ This soup contains too much salt.  ✓  상태동사 contain을 현재형으로 바르게 씀",
+     "⑤ Last night, we need more chairs for the party.  ✗  Last night인데 현재형 → needed"
+    ]
+   },
+   "narration": "정답은 4번이에요. 3번은 this week 때문에 진행형이 어울려 보이지만, 숙제가 있다는 뜻의 have는 상태라 has로 써야 해요. 2번 seem도 그렇게 보인다는 상태라 seems로 써야 해요. 5번은 지난밤의 일이니 과거형 needed로 써야 해요.",
+   "caption": "정답 ④ contains"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ④ This soup contains too much salt.\n\n상태동사(contain, seem, have 가지다)는 진행형 X, 시제는 시간 표현에 맞추기",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ This soup contains too much salt.",
+     "상태동사(contain, seem, have 가지다)는 진행형 X, 시제는 시간 표현에 맞추기"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 상태동사는 보통 진행형으로 쓰지 않고, 가지다라는 뜻의 have도 상태동사예요.",
+   "caption": "상태동사 진행형 X, 시제는 시간 표현에"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 어법상 옳은 문장은?",
+  "passage": "",
+  "c": [
+   "Look! My dog chased a cat in the yard now.",
+   "He is seeming very nervous today.",
+   "She is having a lot of homework this week.",
+   "This soup contains too much salt.",
+   "Last night, we need more chairs for the party."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: own, know, belong, contain, seem, resemble 같은 상태동사는 보통 진행형으로 쓰지 않는다. 다만 have(먹다), taste(맛보다), think about(곰곰이 생각하다)처럼 동작을 나타낼 때는 진행형을 쓸 수 있다. 또 now, yesterday, last year, tomorrow 같은 시간 표현과 동사의 시제가 맞아야 한다.\n풀이 순서: ① 문장마다 두 가지를 본다. 진행형으로 쓴 동사가 상태동사인지, 시간 표현과 시제가 맞는지. → ② is seeming, is having(가지다)은 상태동사의 진행형이라 틀렸고, now + chased, Last night + need는 시제가 어긋난다. → ③ 남는 ④는 상태동사 contain을 현재형으로 썼다.\n문장별 판정:\n정답 판단: ‘This soup contains too much salt.’은 상태동사(contain)를 단순현재형으로 바르게 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] ‘Look! My dog chased a cat in the yard now.’은 시간 표현(Look!, now)과 동사의 시제가 맞지 않는다. ‘Look! My dog is chasing a cat in the yard now.’로 고쳐야 하므로 오답이다.\n② [오답] ‘He is seeming very nervous today.’의 동사 seem: ‘~처럼 보이다’는 상태동사라 진행형으로 쓰지 않는다. ‘He seems very nervous today.’로 고쳐야 하므로 오답이다.\n③ [오답] ‘She is having a lot of homework this week.’의 동사 have: ‘가지고 있다’는 뜻일 때 상태동사라 진행형으로 쓰지 않는다. ‘She has a lot of homework this week.’로 고쳐야 하므로 오답이다.\n④ [정답] ‘This soup contains too much salt.’은 상태동사(contain)를 단순현재형으로 바르게 썼으므로 정답이다.\n⑤ [오답] ‘Last night, we need more chairs for the party.’은 시간 표현(Last night)과 동사의 시제가 맞지 않는다. ‘Last night, we needed more chairs for the party.’로 고쳐야 하므로 오답이다."
+ }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:26:40.039Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "sweet",
+      "1": "delicious",
+      "2": "fresh",
+      "3": "warm",
+      "4": "nicely"
+    },
+    "expl": "핵심 규칙: be동사 뒤에서 and로 이어지는 말은 주어를 설명하는 형용사여야 한다. -ly로 끝나는 부사는 이 자리에 올 수 없고, friendly처럼 -ly로 끝나는 형용사는 올 수 있다.\n풀이 순서: ① and 앞의 말을 본다: soft. be동사 뒤의 형용사다. → ② and 뒤에도 형용사가 와야 한다. 부사를 찾는다. → ③ nicely는 부사다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 부사라 be동사 뒤에서 주어를 설명하는 형용사 자리에 올 수 없으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 형용사라 be동사 뒤에서 and로 이어져 주어를 설명할 수 있으므로 오답이다.\n② [오답] 형용사라 be동사 뒤에서 and로 이어져 주어를 설명할 수 있으므로 오답이다.\n③ [오답] 형용사라 be동사 뒤에서 and로 이어져 주어를 설명할 수 있으므로 오답이다.\n④ [오답] 형용사라 be동사 뒤에서 and로 이어져 주어를 설명할 수 있으므로 오답이다.\n⑤ [정답] 부사라 be동사 뒤에서 주어를 설명하는 형용사 자리에 올 수 없으므로 정답이다.",
+    "passage": "This cake is soft and _______.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:26:37.231Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:26:40.039Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:26:40.039Z",
+      "what": "확인 완료"
+    }
+  }
+}

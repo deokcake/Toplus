@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-23T19:39:34.483Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "This test is harder even than yesterday's test.",
+      "1": "This test even is harder than yesterday's test.",
+      "2": "This test is even than harder yesterday's test.",
+      "3": "This test is even harder yesterday's than test.",
+      "4": "This test is even harder than yesterday's test."
+    },
+    "expl": "핵심 규칙: much/far/even/a little은 비교급 바로 앞에서 정도를 나타낸다. 주어 + be동사 + 강조어 + 비교급 + than + 비교 대상(절) 어순으로 쓴다.\n풀이 순서: ① 주어(this test)와 동사(is)를 먼저 세운다. → ② 비교급(harder) 바로 앞에 강조어(even)를 놓고, 그 뒤에 than을 붙인다. → ③ than 뒤에 비교 대상(yesterday's test)을 이으면 This test is even harder than yesterday's test.\n문장별 판정:\n정답 판단: 주어 + be동사 + 강조어 + 비교급 + than 어순이 바르다. 정답은 ⑤이다.\n선택지 분석:\n① [오답] 강조어가 비교급 뒤로 갔다. 강조어는 비교급 바로 앞에 둔다. 오답이다.\n② [오답] 강조어가 be동사 앞으로 가 주어 + be동사 어순이 깨졌다. 오답이다.\n③ [오답] 강조어·비교급의 짝이 흩어졌다. 강조어 + 비교급을 붙여 써야 한다. 오답이다.\n④ [오답] than과 뒤의 말 순서가 뒤바뀌었다. than 뒤에 비교 대상(절)을 바른 어순으로 둔다. 오답이다.\n⑤ [정답] 주어 + be동사 + 강조어 + 비교급 + than 어순이 바르다. 정답이다.",
+    "passage": "(harder / test / than / this / even / is / yesterday's / test)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것으로 가장 알맞은 것을 고르시오."
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:39:34.483Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:39:34.483Z",
+      "what": "확인 완료"
+    }
+  }
+}

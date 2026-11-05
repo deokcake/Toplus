@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T05:28:26.363Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "What a brave boys they are!",
+      "1": "How brave boys they are!",
+      "2": "What brave boys they are!",
+      "3": "What brave they boys are!",
+      "4": "How a brave boys they are!"
+    },
+    "expl": "핵심 규칙: 감탄문은 What + (a/an) + 형용사 + 명사 + 주어 + 동사!, How + 형용사/부사 + 주어 + 동사!이다.\n풀이 순서: ① 우리말에서 감탄하는 대상을 찾는다: ‘용감한 소년들’(형용사 + 복수명사). → ② 명사가 있으므로 What으로 시작한다. 복수명사라 a 없이 What + brave + boys + they are! → ③ 정답은 ③.\n문장별 판정:\n정답 판단: What + 형용사 + 복수명사 + 주어 + 동사의 어순이므로 정답은 ③이다.\n선택지 분석:\n① [오답] 복수명사 boys 앞에는 a를 쓰지 않으므로 오답이다.\n② [오답] How 뒤에 형용사 + 명사를 쓸 수 없으므로 오답이다.\n③ [정답] What + 형용사 + 복수명사 + 주어 + 동사의 어순이므로 정답이다.\n④ [오답] 명사 boys가 형용사 바로 뒤에 와야 하므로 오답이다.\n⑤ [오답] How 뒤에 a + 형용사 + 명사를 쓸 수 없으므로 오답이다.",
+    "passage": "얼마나 용감한 소년들인가!",
+    "stem": "다음 우리말 문장을 올바르게 영작한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:28:14.281Z"
+  },
+  "tab": "fhh9u0lo",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:28:26.363Z",
+      "what": "확인 완료"
+    }
+  }
+}

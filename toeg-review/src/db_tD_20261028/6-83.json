@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T06:28:12.284Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 현재진행형 의문문은 be+주어+-ing?, 평서문은 주어+be+-ing이다.\n풀이 순서: ① 첫 문장: 뒤에 -ing형이 있으므로 be동사로 묻는다. 주어가 he(단수)이므로 Is. → ② 둘째 문장: 주어가 The boys(복수)이므로 are playing. → ③ 정답은 Is - are playing.\n문장별 판정:\n정답 판단: (첫째 밑줄) Is: 현재 의문문에서 he에 맞는 be동사는 Is이다. (둘째 밑줄) are playing: 주어 The boys에 맞는 are와 원래 동작의 -ing형 playing이 필요하다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] (첫째 밑줄) Are → Is. 현재 의문문에서 he에 맞는 be동사는 Is이다. (둘째 밑줄) am playing → are playing. 주어 The boys에 맞는 are와 원래 동작의 -ing형 playing이 필요하다.\n② [오답] (첫째 밑줄) Are → Is. 현재 의문문에서 he에 맞는 be동사는 Is이다. (둘째 밑줄) are playing: 주어 The boys에 맞는 are와 원래 동작의 -ing형 playing이 필요하다.\n③ [오답] (첫째 밑줄) Do → Is. 현재 의문문에서 he에 맞는 be동사는 Is이다. (둘째 밑줄) are playing: 주어 The boys에 맞는 are와 원래 동작의 -ing형 playing이 필요하다.\n④ [정답] (첫째 밑줄) Is: 현재 의문문에서 he에 맞는 be동사는 Is이다. (둘째 밑줄) are playing: 주어 The boys에 맞는 are와 원래 동작의 -ing형 playing이 필요하다.\n⑤ [오답] (첫째 밑줄) Is: 현재 의문문에서 he에 맞는 be동사는 Is이다. (둘째 밑줄) is playing → are playing. 주어 The boys에 맞는 are와 원래 동작의 -ing형 playing이 필요하다.",
+    "passage": null,
+    "stem": "밑줄 친 부분을 바르게 고친 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T06:28:10.036Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T06:28:12.284Z",
+      "what": "확인 완료"
+    }
+  }
+}

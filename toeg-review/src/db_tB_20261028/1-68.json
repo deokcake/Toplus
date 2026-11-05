@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-01T05:12:48.851Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A) cutting - (B) make",
+      "1": null,
+      "2": "(A) to cut - (B) to make",
+      "3": "(A) cut - (B) made",
+      "4": "(A) cutting - (B) making"
+    },
+    "expl": "핵심 규칙: get + 사물 목적어 + 과거분사는 그 사물이 어떤 처리를 받게 한다는 뜻이고, have + 사람 목적어 + 동사원형은 그 사람에게 어떤 일을 하게 한다는 뜻이다.\n풀이 순서: ① (A) 앞의 목적어(my hair)는 동작을 당하는 사물이므로 get + 목적어 뒤에 과거분사를 쓴다. → ② (B) 앞의 목적어(the stylist)는 동작을 직접 하는 사람이고 앞의 동사가 사역동사 have이므로 동사원형을 쓴다. → ③ ‘과거분사 - 동사원형’ 순서인 (A) cut - (B) make를 고른다.\n문장별 판정:\n정답 판단: 모든 자리가 알맞으므로 정답은 ②이다.\n선택지 분석:\n① [오답] (A) cutting: -ing형이어서 맞지 않는다. (A)는 사물이 처리를 받는 것이므로 get + 목적어 + 과거분사를 쓴다. 따라서 오답이다.\n② [정답] 모든 자리가 알맞으므로 정답이다.\n③ [오답] (A) to cut: to부정사이어서 맞지 않는다. (A)는 사물이 처리를 받는 것이므로 get + 목적어 + 과거분사를 쓴다. (B) to make: to부정사이어서 맞지 않는다. (B)는 사람에게 일을 시키는 것이므로 have + 사람 + 동사원형을 쓴다. 따라서 오답이다.\n④ [오답] (B) made: 단순과거이어서 맞지 않는다. (B)는 사람에게 일을 시키는 것이므로 have + 사람 + 동사원형을 쓴다. 따라서 오답이다.\n⑤ [오답] (A) cutting: -ing형이어서 맞지 않는다. (A)는 사물이 처리를 받는 것이므로 get + 목적어 + 과거분사를 쓴다. (B) making: -ing형이어서 맞지 않는다. (B)는 사람에게 일을 시키는 것이므로 have + 사람 + 동사원형을 쓴다. 따라서 오답이다.",
+    "passage": "A: Why are you at the salon?\nB: I want to get my hair (<u>      A      </u>). I will have the stylist (<u>      B      </u>) it shorter.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-01T05:14:14.241Z"
+  },
+  "tab": "sbp1soih",
+  "updatedAt": "2026-10-01T05:14:14.241Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-01T05:14:14.241Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

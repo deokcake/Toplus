@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T03:24:12.555Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Tom, Amy",
+      "1": "Amy, Jin, Mia",
+      "2": "Tom, Jin, Leo",
+      "3": null,
+      "4": "Jin, Mia, Leo"
+    },
+    "expl": "핵심 규칙: 가목적어 it은 목적어 자리에 먼저 오고 진목적어(to부정사·that절)는 뒤에 온다. some은 긍정문·권유·부탁, any는 부정문·의문문에 주로 쓴다. each/every + 단수명사, each of + 복수명사는 단수 동사를 쓴다. 재귀 용법은 뺄 수 없고 강조 용법은 뺄 수 있다. others는 막연한 다른 몇몇, the others는 정해진 나머지 전부이다.\n풀이 순서: ① 학생마다 예문과 설명을 따로 따진다. 틀린 예문을 맞다고 하거나 용법을 잘못 말하면 틀린 설명이다. → ② Jin은 Each student have를 맞다고 했고(has), Mia는 enjoyed의 목적어인 myself를 강조 용법이라고 했다. 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Tom, Amy, Leo이다.\n문장별 판정:\nTom 옳음: it이 목적어 자리에 먼저 오고 진목적어 that절이 뒤에 왔다.\nAmy 옳음: 의문문에는 any를 주로 쓴다.\nJin 틀림: each + 단수명사는 단수 동사를 쓰므로 has로 고쳐야 한다.\nMia 틀림: enjoy의 목적어인 재귀 용법이라 뺄 수 없다.\nLeo 옳음: 세 자루 중 하나를 뺀 정해진 나머지 전부이므로 the others이다.\n정답 판단: 올바르게 설명한 학생은 Tom, Amy, Leo이다.\n선택지 분석:\n① [오답] 올바르게 설명한 학생 Leo를 빠뜨렸다. 따라서 오답이다.\n② [오답] Jin, Mia는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Tom, Leo를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Jin는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Amy를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 올바르게 설명한 학생 Tom, Amy, Leo를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] Jin, Mia는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Tom, Amy를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "Tom: I think it strange that nobody called. 에서 it은 가목적어야.\nAmy: Do you have any brothers? 에서 any는 의문문이라 쓰였어.\nJin: Each student have a different dream. 은 맞는 문장이야.\nMia: I enjoyed myself at the party. 에서 myself는 강조 용법이라 생략해도 돼.\nLeo: I have three pens. One is black, and the others are red. 에서 the others는 나머지 두 자루 전부를 뜻해.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T03:23:41.749Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T03:24:12.555Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T03:24:12.555Z",
+      "what": "확인 완료"
+    }
+  }
+}

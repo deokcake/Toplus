@@ -1,0 +1,180 @@
+{
+ "key": "6-24",
+ "type": "D",
+ "grade": 6,
+ "chapter": "CH 3 be동사 과거",
+ "title": "they로 묻고 No로 답하는 be동사 과거",
+ "total_sec": 130,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 13,
+   "screen": {
+    "text": "6급 · CH 3 be동사 과거 · 24번 · D 유형\n\n이 문제는 주어 they로 묻는 be동사 과거 의문문과 No, they 대답에 알맞은 be동사를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 3 be동사 과거 · 24번 · D 유형",
+     "이 문제는 주어 they로 묻는 be동사 과거 의문문과 No, they 대답에 알맞은 be동사를 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 3, 24번 D 유형. 이 문제는 주어 they로 묻는 be동사 과거 의문문과 No, they 대답에 알맞은 be동사를 고르는 문제예요.",
+   "caption": "they 의문문과 No 대답"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 21,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오.\n\nA: _______ they at school?\nB: No, they _______.\n\n① Was - wasn't\n② Were - were\n③ Were - weren't\n④ Was - was\n⑤ Were - wasn't",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오.",
+     "A: _______ they at school?",
+     "B: No, they _______.",
+     "① Was - wasn't",
+     "② Were - were",
+     "③ Were - weren't",
+     "④ Was - was",
+     "⑤ Were - wasn't"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르세요. 묻는 말은 빈칸 they at school, 대답은 No, they 빈칸이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 과거 의문문: Was/Were + 주어 …?\nI, 3인칭 단수(he, she, it 등) → Was / you, 복수(we, they 등) → Were\n대답: Yes, 주어 + was/were. / No, 주어 + wasn't/weren't.\n대답의 be동사는 대답의 주어에 맞춰요.\n예) Was he at the park? No, he wasn't. (그는 공원에 있었니? 아니, 없었어.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 과거 의문문: Was/Were + 주어 …?",
+     "I, 3인칭 단수(he, she, it 등) → Was / you, 복수(we, they 등) → Were",
+     "대답: Yes, 주어 + was/were. / No, 주어 + wasn't/weren't.",
+     "대답의 be동사는 대답의 주어에 맞춰요.",
+     "예) Was he at the park? No, he wasn't. (그는 공원에 있었니? 아니, 없었어.)"
+    ]
+   },
+   "narration": "be동사 과거 의문문은 Was나 Were를 주어 앞에 써요. 주어가 I이거나 he, she, it 같은 3인칭 단수이면 Was, you이거나 복수이면 Were를 써요. 대답은 Yes면 was나 were, No면 wasn't나 weren't를 대답의 주어에 맞춰 써요. Was he at the park? 그는 공원에 있었니? No, he wasn't. 아니, 없었어.",
+   "caption": "Was/Were 의문문과 대답"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 30,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오.\n\nA: _______ they at school?\nB: No, they _______.\n\n① Was - wasn't\n② Were - were\n③ Were - weren't\n④ Was - was\n⑤ Were - wasn't",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "they at school?"
+      ],
+      "strike": [
+       "① Was - wasn't",
+       "④ Was - was"
+      ],
+      "note": "묻는 말의 주어 they = 복수 → Were. Was로 시작하는 ①, ④는 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "No, they _______."
+      ],
+      "strike": [
+       "② Were - were",
+       "⑤ Were - wasn't"
+      ],
+      "note": "대답 No, they → 부정, they에는 were → weren't. were(②), wasn't(⑤)는 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ Were - weren't"
+      ],
+      "strike": [],
+      "note": "남는 것은 ③ → Were they at school? No, they weren't."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 묻는 말의 주어 they는 복수라서 Were를 써야 하니, Was로 시작하는 1번과 4번은 지워요. 둘째, 대답은 No이고 주어가 they라서 weren't를 써야 하니, were를 쓴 2번과 wasn't를 쓴 5번도 지워요. 셋째, 남는 것은 3번이에요. Were they at school? 그들은 학교에 있었니? No, they weren't. 아니, 없었어.",
+   "caption": "they → Were, No, they → weren't"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① Was - wasn't  ✗  복수 they에 Was, wasn't를 썼어요\n② Were - were  ✗  No로 답했는데 not 없는 were\n③ Were - weren't  ✓  they → Were, No, they → weren't\n④ Was - was  ✗  they에 Was, No 대답에 긍정 was\n⑤ Were - wasn't  ✗  대답의 주어 they에는 wasn't가 아니라 weren't",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Was - wasn't  ✗  복수 they에 Was, wasn't를 썼어요",
+     "② Were - were  ✗  No로 답했는데 not 없는 were",
+     "③ Were - weren't  ✓  they → Were, No, they → weren't",
+     "④ Was - was  ✗  they에 Was, No 대답에 긍정 was",
+     "⑤ Were - wasn't  ✗  대답의 주어 they에는 wasn't가 아니라 weren't"
+    ]
+   },
+   "narration": "정답은 3번 Were, weren't예요. 2번은 첫째 빈칸 Were는 맞지만, No로 답했으니 not이 들어간 weren't를 써야 해요. 5번은 not은 들어갔지만, 주어 they에는 wasn't가 아니라 weren't를 써요. 1번은 복수인 they에 Was와 wasn't를 써서 둘 다 틀렸어요.",
+   "caption": "정답 ③ Were - weren't"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ③ Were - weren't\n\n복수 주어 they → Were, No, they → weren't",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ Were - weren't",
+     "복수 주어 they → Were, No, they → weren't"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, they 같은 복수 주어에는 Were를 쓰고, No로 답할 때는 not을 붙여 weren't를 써요.",
+   "caption": "they → Were, No → weren't"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오.",
+  "passage": "A: _______ they at school?\nB: No, they _______.",
+  "c": [
+   "Was - wasn't",
+   "Were - were",
+   "Were - weren't",
+   "Was - was",
+   "Were - wasn't"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 긍정 의문문의 Was/Were를 주어에 맞추고, 대답은 Yes/No와 인칭 전환을 함께 확인한다.\n풀이 순서: ① 질문의 주어를 본다: they → Were. → ② 대답의 주어와 Yes/No를 본다: No, they → weren't. → ③ 정답은 Were - weren't.\n문장별 판정:\n정답 판단: (첫째 빈칸) Were: 긍정 의문문이므로 부정어 없이 주어 they에 맞는 were를 앞에 놓는다. (둘째 빈칸) weren't: 대답의 주어 they와 No의 부정에 맞춰 weren't를 쓴다. 따라서 정답은 ③이다.\n선택지 분석:\n① [오답] (첫째 빈칸) Was → Were. 긍정 의문문이므로 부정어 없이 주어 they에 맞는 were를 앞에 놓는다. (둘째 빈칸) wasn't → weren't. 대답의 주어 they와 No의 부정에 맞춰 weren't를 쓴다.\n② [오답] (첫째 빈칸) Were: 긍정 의문문이므로 부정어 없이 주어 they에 맞는 were를 앞에 놓는다. (둘째 빈칸) were → weren't. 대답의 주어 they와 No의 부정에 맞춰 weren't를 쓴다.\n③ [정답] (첫째 빈칸) Were: 긍정 의문문이므로 부정어 없이 주어 they에 맞는 were를 앞에 놓는다. (둘째 빈칸) weren't: 대답의 주어 they와 No의 부정에 맞춰 weren't를 쓴다.\n④ [오답] (첫째 빈칸) Was → Were. 긍정 의문문이므로 부정어 없이 주어 they에 맞는 were를 앞에 놓는다. (둘째 빈칸) was → weren't. 대답의 주어 they와 No의 부정에 맞춰 weren't를 쓴다.\n⑤ [오답] (첫째 빈칸) Were: 긍정 의문문이므로 부정어 없이 주어 they에 맞는 were를 앞에 놓는다. (둘째 빈칸) wasn't → weren't. 대답의 주어 they와 No의 부정에 맞춰 weren't를 쓴다."
+ }
+}

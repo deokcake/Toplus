@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-21T11:54:28.293Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": null,
+      "1": "open",
+      "2": null,
+      "3": "the",
+      "4": null
+    },
+    "expl": "핵심 규칙: 제안문은 Let's (not) + 동사원형 + 목적어, 명령문은 (Please) + 동사원형 + 보어·목적어의 순서로 배열한다.\n풀이 순서: ① 문장을 완성한다: Let's not open the door. → ② 앞에서부터 센다. → ③ 세 번째 낱말은 open. 정답은 ②.\n문장별 판정:\n정답 판단: 완성 문장은 Let's not open the door.이고 세 번째 단어는 open이다.\n선택지 분석:\n① [오답] 완성 문장 Let's not open the door.에서 단어(not)는 2번째에 오므로 오답이다.\n② [정답] 완성 문장 Let's not open the door.에서 단어(open)는 3번째에 오므로 정답이다.\n③ [오답] 완성 문장 Let's not open the door.에서 단어(door)는 5번째에 오므로 오답이다.\n④ [오답] 완성 문장 Let's not open the door.에서 단어(the)는 4번째에 오므로 오답이다.\n⑤ [오답] 완성 문장 Let's not open the door.에서 단어(Let's)는 1번째에 오므로 오답이다.",
+    "passage": "the / door / open / not / Let's",
+    "stem": "다음 단어들을 바르게 나열하여 문장을 완성할 때, 세 번째에 오는 단어를 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-21T11:54:25.691Z"
+  },
+  "tab": "ojjpxrut",
+  "updatedAt": "2026-10-21T11:54:28.293Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T11:54:28.293Z",
+      "what": "확인 완료"
+    }
+  }
+}

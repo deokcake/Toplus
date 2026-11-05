@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:04:02.707Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Are you watching TV?",
+      "1": "Is Tom reading a book?",
+      "2": "Are the kids sleeping?",
+      "3": "Were they swimming?",
+      "4": "Is it raining?"
+    },
+    "expl": "핵심 규칙: 짧은 대답의 주어와 be동사를 보고 질문을 찾는다. you에 대한 질문에는 I/we, 한 남자는 he, 한 여자는 she, 사물·날씨는 it, 여럿은 they로 답하고, 과거 질문(Was/Were)에는 wasn't/weren't로 답한다.\n풀이 순서: ① 대답의 주어와 be동사를 본다: they aren't. → ② 이 주어로 답하게 되는 질문의 주어를 거꾸로 찾는다: 여럿을 가리키는 the kids. 시제도 현재여야 한다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: the kids를 they로 받아 aren't로 답할 수 있으므로 정답은 ③이다.\n선택지 분석:\n① [오답] you에 대한 질문에는 I나 we로 답하므로 오답이다.\n② [오답] Tom에 대한 질문에는 he로 답하므로 오답이다.\n③ [정답] the kids를 they로 받아 aren't로 답할 수 있으므로 정답이다.\n④ [오답] 과거 질문에는 weren't로 답하므로 오답이다.\n⑤ [오답] 날씨의 it에 대한 질문에는 it으로 답하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 빈칸에 들어갈 말을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T07:04:01.811Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T07:04:02.707Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:04:02.707Z",
+      "what": "확인 완료"
+    }
+  }
+}

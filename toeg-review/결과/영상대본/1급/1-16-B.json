@@ -1,0 +1,181 @@
+{
+ "key": "1-16",
+ "type": "B",
+ "grade": 1,
+ "chapter": "CH 2 시제",
+ "title": "have(먹다)의 진행형과 시제",
+ "total_sec": 129,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "1급 · CH 2 시제 · 16번 · B 유형\n\n이 문제는 진행형과 시제를 따져 어법상 옳은 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 2 시제 · 16번 · B 유형",
+     "이 문제는 진행형과 시제를 따져 어법상 옳은 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 2, 16번 B 유형. 이 문제는 진행형과 시제를 따져 어법상 옳은 문장을 고르는 문제예요.",
+   "caption": "진행형을 쓸 수 있는 동사와 시제"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장은?\n\n① Look! The baby slept on the sofa now.\n② This bag is belonging to my sister.\n③ We are having dinner with our grandparents now.\n④ I am knowing the answer to this riddle.\n⑤ Two years ago, Mr. Park owns a small bakery.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 어법상 옳은 문장은?",
+     "① Look! The baby slept on the sofa now.",
+     "② This bag is belonging to my sister.",
+     "③ We are having dinner with our grandparents now.",
+     "④ I am knowing the answer to this riddle.",
+     "⑤ Two years ago, Mr. Park owns a small bakery."
+    ]
+   },
+   "narration": "다음 중 어법상 옳은 문장은 무엇일까요? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n상태동사: know, own, belong, have(가지다)처럼 상태를 나타내는 동사 → 보통 진행형 X\n같은 동사라도 have(먹다)처럼 동작을 나타내면 진행형 O\n시간 표현과 시제 맞추기: ago → 과거 시제 / Look!·now로 지금 하는 동작 → 현재진행형\n예) I am having lunch. (나는 점심을 먹고 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "상태동사: know, own, belong, have(가지다)처럼 상태를 나타내는 동사 → 보통 진행형 X",
+     "같은 동사라도 have(먹다)처럼 동작을 나타내면 진행형 O",
+     "시간 표현과 시제 맞추기: ago → 과거 시제 / Look!·now로 지금 하는 동작 → 현재진행형",
+     "예) I am having lunch. (나는 점심을 먹고 있어요.)"
+    ]
+   },
+   "narration": "know, own, belong, 그리고 가지다라는 뜻의 have 같은 상태동사는 보통 진행형으로 쓰지 않아요. 하지만 have가 먹다라는 동작이면 진행형을 쓸 수 있어요. I am having lunch. 나는 점심을 먹고 있어요. 시제는 시간 표현에 맞춰서, ago처럼 지난 때를 말하면 과거 시제, Look!이나 now로 지금 하는 동작을 말하면 현재진행형을 써요.",
+   "caption": "상태는 진행형 X, 동작은 O"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장은?\n\n① Look! The baby slept on the sofa now.\n② This bag is belonging to my sister.\n③ We are having dinner with our grandparents now.\n④ I am knowing the answer to this riddle.\n⑤ Two years ago, Mr. Park owns a small bakery.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "is belonging",
+       "am knowing"
+      ],
+      "strike": [
+       "② This bag is belonging to my sister.",
+       "④ I am knowing the answer to this riddle."
+      ],
+      "note": "진행형 is belonging(소유), am knowing(알다) → 상태동사 → ②④ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "slept",
+       "sofa now",
+       "Two years ago",
+       "owns a small bakery"
+      ],
+      "strike": [
+       "① Look! The baby slept on the sofa now.",
+       "⑤ Two years ago, Mr. Park owns a small bakery."
+      ],
+      "note": "시간 표현: Look!·now + 과거형 slept ✗, Two years ago + 현재형 owns ✗ → ①⑤ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ We are having dinner with our grandparents now."
+      ],
+      "strike": [],
+      "note": "③ have = 먹다(동작) → 진행형 O, now와도 맞음 → 정답"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 진행형 문장을 봐요. 2번 belong은 누구의 것이라는 소유, 4번 know는 알고 있다는 상태라서 belongs, know로 써야 해요. 둘째, 시간 표현을 보면, 1번은 Look!과 now로 지금 자는 중이니 slept가 아니라 is sleeping, 5번은 Two years ago가 있으니 owns가 아니라 owned가 맞아요. 셋째, 남은 3번의 have는 먹다라는 동작이라 진행형이 맞아요. We are having dinner with our grandparents now. 우리는 지금 조부모님과 저녁을 먹고 있어요.",
+   "caption": "진행형 → 시간 표현 → ③"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① Look! The baby slept on the sofa now.  ✗  지금 하는 동작인데 과거형 → is sleeping\n② This bag is belonging to my sister.  ✗  belong(누구의 것이다)은 진행형 X → belongs\n③ We are having dinner with our grandparents now.  ✓  have(먹다)는 동작 → 진행형 O\n④ I am knowing the answer to this riddle.  ✗  know(알다)는 진행형 X → know\n⑤ Two years ago, Mr. Park owns a small bakery.  ✗  Two years ago인데 현재형 → owned",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Look! The baby slept on the sofa now.  ✗  지금 하는 동작인데 과거형 → is sleeping",
+     "② This bag is belonging to my sister.  ✗  belong(누구의 것이다)은 진행형 X → belongs",
+     "③ We are having dinner with our grandparents now.  ✓  have(먹다)는 동작 → 진행형 O",
+     "④ I am knowing the answer to this riddle.  ✗  know(알다)는 진행형 X → know",
+     "⑤ Two years ago, Mr. Park owns a small bakery.  ✗  Two years ago인데 현재형 → owned"
+    ]
+   },
+   "narration": "정답은 3번이에요. 3번은 have를 진행형으로 써서 틀렸다고 생각하기 쉽지만, 여기서는 먹다라는 동작이라 맞아요. 2번 belong과 4번 know는 상태동사라 belongs와 know로 써야 해요. 5번은 Two years ago와 맞게 과거형 owned로 써야 해요.",
+   "caption": "정답 ③ are having"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ③ We are having dinner with our grandparents now.\n\n상태동사는 진행형 X, have(먹다)처럼 동작이면 진행형 O, 시제는 시간 표현에 맞추기",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ We are having dinner with our grandparents now.",
+     "상태동사는 진행형 X, have(먹다)처럼 동작이면 진행형 O, 시제는 시간 표현에 맞추기"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 상태동사는 보통 진행형으로 쓰지 않지만, have가 먹다라는 동작이면 진행형을 쓸 수 있어요.",
+   "caption": "have(먹다)는 진행형 O"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 어법상 옳은 문장은?",
+  "passage": "",
+  "c": [
+   "Look! The baby slept on the sofa now.",
+   "This bag is belonging to my sister.",
+   "We are having dinner with our grandparents now.",
+   "I am knowing the answer to this riddle.",
+   "Two years ago, Mr. Park owns a small bakery."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: own, know, belong, contain, seem, resemble 같은 상태동사는 보통 진행형으로 쓰지 않는다. 다만 have(먹다), taste(맛보다), think about(곰곰이 생각하다)처럼 동작을 나타낼 때는 진행형을 쓸 수 있다. 또 now, yesterday, last year, tomorrow 같은 시간 표현과 동사의 시제가 맞아야 한다.\n풀이 순서: ① 문장마다 두 가지를 본다. 진행형으로 쓴 동사가 상태동사인지, 시간 표현과 시제가 맞는지. → ② is belonging, am knowing은 상태동사의 진행형이라 틀렸고, now + slept, Two years ago + owns는 시제가 어긋난다. → ③ 남는 ③은 have가 ‘먹다’라는 동작이라 진행형이 가능하다.\n문장별 판정:\n정답 판단: ‘We are having dinner with our grandparents now.’의 동사(have)는 ‘(식사를) 하다’라는 동작을 나타내므로 진행형으로 쓸 수 있어 정답은 ③이다.\n선택지 분석:\n① [오답] ‘Look! The baby slept on the sofa now.’은 시간 표현(Look!, now)과 동사의 시제가 맞지 않는다. ‘Look! The baby is sleeping on the sofa now.’로 고쳐야 하므로 오답이다.\n② [오답] ‘This bag is belonging to my sister.’의 동사 belong: 소유 관계를 나타내는 상태동사라 진행형으로 쓰지 않는다. ‘This bag belongs to my sister.’로 고쳐야 하므로 오답이다.\n③ [정답] ‘We are having dinner with our grandparents now.’의 동사(have)는 ‘(식사를) 하다’라는 동작을 나타내므로 진행형으로 쓸 수 있어 정답이다.\n④ [오답] ‘I am knowing the answer to this riddle.’의 동사 know: ‘알고 있다’는 상태동사라 진행형으로 쓰지 않는다. ‘I know the answer to this riddle.’로 고쳐야 하므로 오답이다.\n⑤ [오답] ‘Two years ago, Mr. Park owns a small bakery.’은 시간 표현(Two years ago)과 동사의 시제가 맞지 않는다. ‘Two years ago, Mr. Park owned a small bakery.’로 고쳐야 하므로 오답이다."
+ }
+}

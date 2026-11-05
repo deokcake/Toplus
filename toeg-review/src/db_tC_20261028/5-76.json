@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T02:43:19.674Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Very the dog is cute.",
+      "1": "The dog very is cute.",
+      "2": "The dog is cute very.",
+      "3": "The dog is very cute.",
+      "4": "Is the dog very cute."
+    },
+    "expl": "핵심 규칙: 영어 문장은 주어 + 동사 + 목적어·보어의 어순으로 쓴다. 형용사는 명사 앞(a + 형용사 + 명사)이나 be동사 뒤에, very는 꾸미는 형용사·부사 바로 앞에, 동사를 꾸미는 부사는 보통 문장 끝에 둔다.\n풀이 순서: ① 주어와 동사를 먼저 찾는다: the dog / is. → ② 나머지를 묶는다: very + cute(very는 형용사 앞). → ③ 주어 + 동사 + 나머지의 순서로 놓는다. 정답은 ④.\n문장별 판정:\n정답 판단: 주어 + 동사 + 목적어·보어의 어순으로 바르게 배열했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] very는 꾸미는 형용사 cute 바로 앞에 와야 하므로 오답이다.\n② [오답] very는 동사 is가 아니라 형용사 cute 앞에 와야 하므로 오답이다.\n③ [오답] very는 꾸미는 형용사 cute 뒤가 아니라 앞에 와야 하므로 오답이다.\n④ [정답] 주어 + 동사 + 목적어·보어의 어순으로 바르게 배열했으므로 정답이다.\n⑤ [오답] be동사가 주어 앞에 와 의문문 어순인데 마침표로 끝나므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 주어진 단어를 적절하게 배열하여 올바른 문장을 완성한 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:43:17.262Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-22T02:43:19.674Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:43:19.674Z",
+      "what": "확인 완료"
+    }
+  }
+}

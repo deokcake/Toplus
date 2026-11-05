@@ -1,0 +1,30 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "done": true,
+  "doneAt": "2026-10-25T14:37:50.896Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": null,
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 비교급·최상급에는 -er·-est와 more·most를 겹쳐 쓰지 않는다. heavy - heavier, fast - faster, tall - tallest, good - better - best, bad - worse - worst처럼 알맞은 형태를 쓴다.\n풀이 순서: ① 밑줄마다 낱말의 길이를 본다. 짧은 낱말(1음절, -y로 끝나는 2음절)은 -er/-est, 긴 낱말은 more/most다. → ② 둘을 겹쳐 쓰지 않았는지, 불규칙 변화를 바르게 썼는지 본다. → ③ ⓐ more heavier(heavier), ⓒ the most tall(the tallest), ⓔ more fast(faster)가 틀렸다. 옳은 문장은 2개이다.\n문장별 판정:\nⓐ X. heavier에 more를 겹쳐 쓸 수 없다.\nⓑ O. warm의 비교급 warmer이다.\nⓒ X. tall의 최상급은 the tallest이다.\nⓓ O. good의 최상급 best이다.\nⓔ X. fast의 비교급은 faster이다.\n정답 판단: 밑줄 친 부분이 옳은 문장은 ⓑ, ⓓ로 2개이다.\n선택지 분석:\n① [오답] 밑줄 친 부분이 옳은 문장은 ⓑ, ⓓ로 2개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [정답] 밑줄 친 부분이 옳은 문장은 ⓑ, ⓓ로 2개이다. 이 보기의 2개는 실제 개수와 일치한다.\n③ [오답] 밑줄 친 부분이 옳은 문장은 ⓑ, ⓓ로 2개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 밑줄 친 부분이 옳은 문장은 ⓑ, ⓓ로 2개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 밑줄 친 부분이 옳은 문장은 ⓑ, ⓓ로 2개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "ⓐ This box is <u>more heavier than</u> that box.\nⓑ Jeju is <u>warmer than</u> Seoul in winter.\nⓒ Tom is <u>the most tall</u> in his class.\nⓓ This is <u>the best</u> movie of the year.\nⓔ She runs <u>more fast than</u> me.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장의 개수를 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:37:49.876Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-25T14:37:50.896Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:37:50.896Z",
+      "what": "확인 완료"
+    }
+  }
+}

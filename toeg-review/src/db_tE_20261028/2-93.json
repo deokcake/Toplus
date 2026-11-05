@@ -1,0 +1,33 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-24T01:14:21.024Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "in - of - on",
+      "1": "by - on - in",
+      "2": "at - for - in",
+      "3": "on - about - by",
+      "4": "at - about - at"
+    },
+    "expl": "핵심 규칙: 전치사 + which의 전치사는 관계절을 원래 문장으로 풀었을 때 선행사 앞에 오는 전치사이다(I was born in the house → the house in which I was born).\n풀이 순서: ① 선행사를 관계절 끝으로 옮겨 전치사를 찾는다. → ② was moving at the speed, talked about the topic, leaves at the time → ③ 순서대로 at - about - at이다.\n문장별 판정:\n정답 판단: 관계절을 원래 문장으로 풀면 ‘the car was moving at the speed’, ‘we talked about the topic’, ‘the train leaves at the time’이므로 at - about - at이다.\n선택지 분석:\n① [오답] A 빈칸 in: 관계절을 풀면 ‘the car was moving at the speed’이므로 at가 알맞다. B 빈칸 of: 관계절을 풀면 ‘we talked about the topic’이므로 about가 알맞다. C 빈칸 on: 관계절을 풀면 ‘the train leaves at the time’이므로 at가 알맞다. 따라서 오답이다.\n② [오답] A 빈칸 by: 관계절을 풀면 ‘the car was moving at the speed’이므로 at가 알맞다. B 빈칸 on: 관계절을 풀면 ‘we talked about the topic’이므로 about가 알맞다. C 빈칸 in: 관계절을 풀면 ‘the train leaves at the time’이므로 at가 알맞다. 따라서 오답이다.\n③ [오답] B 빈칸 for: 관계절을 풀면 ‘we talked about the topic’이므로 about가 알맞다. C 빈칸 in: 관계절을 풀면 ‘the train leaves at the time’이므로 at가 알맞다. 따라서 오답이다.\n④ [오답] A 빈칸 on: 관계절을 풀면 ‘the car was moving at the speed’이므로 at가 알맞다. C 빈칸 by: 관계절을 풀면 ‘the train leaves at the time’이므로 at가 알맞다. 따라서 오답이다.\n⑤ [정답] at - about - at: 세 빈칸이 모두 알맞으므로 정답이다.",
+    "passage": "A. The speed _____ which the car was moving was dangerous.\nB. The topic _____ which we talked was interesting.\nC. The time _____ which the train leaves is six.",
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T01:13:47.008Z"
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-24T01:14:21.024Z",
+  "verdict": null,
+  "verdictAt": "2026-10-24T01:14:17.436Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:14:21.024Z",
+      "what": "확인 완료"
+    }
+  }
+}

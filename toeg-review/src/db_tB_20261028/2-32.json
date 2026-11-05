@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T06:06:18.633Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "designed — designed",
+      "1": "was designed — design",
+      "2": "designed — was designed",
+      "3": "design — was designed",
+      "4": "was designed — designed"
+    },
+    "expl": "핵심 규칙: Did + 주어 뒤에는 동사원형을 쓴다. 주어가 동작을 받는 대상이면 수동태(be동사 + 과거분사)를 쓰고, 과거의 일이면 be동사를 과거형으로 쓴다.\n풀이 순서: ① 첫째 빈칸은 Did + 주어 뒤다. 동사원형(design)이 온다. → ② 둘째 빈칸의 주어(it = 포스터)는 동작을 받는 대상이고 뒤에 by ~가 있다. 수동태다. 과거의 일이므로 was designed. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: Did 뒤에는 동사원형(design), by ~가 있는 둘째 빈칸에는 과거 수동태(was designed)를 쓰므로 정답은 ④이다.\n선택지 분석:\n① [오답] 두 빈칸 모두 맞지 않으므로 오답이다.\n② [오답] 두 빈칸 모두 맞지 않으므로 오답이다.\n③ [오답] Did + 주어 뒤에는 동사원형(design)을 써야 하므로 오답이다.\n④ [정답] Did 뒤에는 동사원형(design), by ~가 있는 둘째 빈칸에는 과거 수동태(was designed)를 쓰므로 정답이다.\n⑤ [오답] 두 빈칸 모두 맞지 않으므로 오답이다.",
+    "passage": "A: Did your class _____ this poster?\nB: No, it _____ by the art club last week.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T06:06:13.321Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T06:06:18.633Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T06:06:18.633Z",
+      "what": "확인 완료"
+    }
+  }
+}

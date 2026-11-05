@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:12:51.188Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "cry - cries",
+      "2": "mix - mixes",
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 3인칭 단수 현재형은 대부분 -s를 붙이고, s·x·sh·ch·o로 끝나면 -es(washes, fixes, goes), 자음 + y는 y를 i로 바꾸고 -es(studies)를 붙인다. 모음 + y는 -s만 붙이고(plays), have는 has가 된다.\n풀이 순서: ① 동사원형의 끝을 본다: s·x·sh·ch·o인지, 자음 + y인지, have인지. → ② 그 끝에 맞는 규칙(-es, -ies, has)대로 되었는지 본다. → ③ study는 자음 + y이므로 studies다. 정답은 study - studys.\n문장별 판정:\n정답 판단: 자음 + y라 y를 i로 바꾸고 -es를 붙여 studies로 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] sh로 끝나 -es를 붙인 옳은 형태이므로 오답이다.\n② [오답] 자음 + y라 y를 i로 바꾸고 -es를 붙인 옳은 형태이므로 오답이다.\n③ [오답] x로 끝나 -es를 붙인 옳은 형태이므로 오답이다.\n④ [정답] 자음 + y라 y를 i로 바꾸고 -es를 붙여 studies로 써야 하므로 정답이다.\n⑤ [오답] o로 끝나 -es를 붙인 옳은 형태이므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:12:49.623Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:12:51.188Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:12:51.188Z",
+      "what": "확인 완료"
+    }
+  }
+}

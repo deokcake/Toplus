@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:19:30.265Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "said - not to",
+      "1": "told - not for",
+      "2": "asked - to not",
+      "3": "told - not to",
+      "4": "told - don't"
+    },
+    "expl": "핵심 규칙: 부정 명령·요청은 told/asked + 사람 + not to + 동사원형으로 전달할 수 있다. asked 자체를 오류로 보지 않고 뒤의 부정 부정사 형태를 확인한다.\n풀이 순서: ① 따옴표 안이 Do not ~의 부정 명령문이다. 전달동사 said to를 told로 바꾸고 바로 뒤에 사람을 쓴다. → ② 명령의 내용은 to부정사로 쓰고, 부정은 to 앞에 not을 붙인다(not to forget). → ③ said + 사람, not for, to not, don't를 쓴 보기를 지운다. 정답은 told - not to.\n문장별 판정:\n정답 판단: told + 사람 + not to + 동사원형으로 부정 명령을 전달하므로 정답이다.\n선택지 분석:\n① [오답] said는 사람 목적어 뒤에 to부정사를 바로 잇지 않고, told로 고쳐야 하므로 오답이다.\n② [오답] 부정 명령은 not to + 동사원형으로 전달하고, not for는 쓸 수 없으므로 오답이다.\n③ [오답] asked도 쓸 수 있지만 부정은 to 앞에 not을 두어 not to로 써야 하므로 오답이다.\n④ [정답] told + 사람 + not to + 동사원형으로 부정 명령을 바르게 전달했으므로 정답이다.\n⑤ [오답] 간접 화법에서는 명령문의 don't를 그대로 쓰지 않고 not to로 바꿔야 하므로 오답이다.",
+    "passage": "Jane said to Leo, \"Do not forget the key to the classroom.\"\n→ Jane ________ Leo ________ ________ forget the key to the classroom.",
+    "stem": "다음 문장의 빈칸에 들어갈 말로 가장 적절한 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:56:30.351Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:56:46.240Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:19:30.265Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:19:26.651Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:19:30.265Z",
+      "what": "확인 완료"
+    }
+  }
+}

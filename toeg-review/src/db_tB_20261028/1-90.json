@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-07T02:56:46.887Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": 5,
+    "c": {
+      "0": "which",
+      "1": "whoever",
+      "2": "where",
+      "3": "when",
+      "4": "on that"
+    },
+    "expl": "핵심 규칙: 관계대명사는 절 안의 주어·목적어 역할을, 관계부사는 장소·시간 관계를 나타낸다. 전치사 바로 뒤의 관계대명사는 사물에 which를 쓰며 that을 쓰지 않는다. 복합관계사는 문장 안의 역할을 함께 확인한다.\n풀이 순서: ① 밑줄 친 관계사마다 앞뒤를 확인한다. 선행사가 사물·장소·때 가운데 무엇인지, 관계사 앞에 전치사가 있는지 본다. → ② 선택지 ① 사물 + which, ② whoever(~하는 사람은 누구든), ③ 장소 + where, ④ 때 + when은 모두 바르다. → ③ 선택지 ⑤는 전치사 바로 뒤에 that을 썼다. on which로 고쳐야 한다.\n문장별 판정:\n정답 판단: 전치사 on 바로 뒤에 관계대명사 that을 쓸 수 없다. 사물 선행사를 받도록 on which로 고친다.\n선택지 분석:\n① [오답] which는 사물 a center를 받고 supports의 주어 역할을 한다.\n② [오답] whoever needs assistance는 도움이 필요한 누구든이라는 명사절로 helps의 목적어이다.\n③ [오답] where는 장소 The room과 she teaches를 연결한다.\n④ [오답] when은 시간 the day와 she began을 연결한다.\n⑤ [정답] 전치사 on 바로 뒤에 관계대명사 that을 쓸 수 없다. 사물 선행사를 받도록 on which로 고친다.",
+    "passage": "Mina volunteers at a community center ①<u>which</u> supports children from low-income families. Every Saturday, she helps ②<u>whoever</u> needs assistance with homework or reading. The room ③<u>where</u> she teaches is bright and full of books. She still remembers the day ④<u>when</u> she began volunteering two years ago. The old shelf ⑤<u>on that</u> she keeps the children's books is always full.",
+    "stem": "다음 글의 밑줄 친 ①~⑤ 중 어법상 어색한 표현을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-04T12:01:26.493Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-04T12:01:40.938Z",
+      "text": "기준 문항에 비해 지문이 너무 짧음."
+    }
+  },
+  "tab": "a0bclcbk",
+  "updatedAt": "2026-10-07T02:56:49.723Z",
+  "verdict": null,
+  "verdictAt": "2026-10-07T02:56:49.723Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-07T02:56:49.723Z",
+      "what": "판정을 Claude 판정으로 되돌림"
+    }
+  }
+}

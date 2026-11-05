@@ -1,0 +1,476 @@
+{
+ "A": {
+  "title": "명사의 복수형과 관사 없이 쓰는 자리",
+  "intro": "이 문제는 명사의 복수형과 관사 쓰임을 보고 틀린 문장을 모두 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은 무엇일까요? 네 문장의 밑줄 친 부분을 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 없는 명사(water, milk) → some 뒤에서도 s를 붙이지 않아요 (some milk)",
+    "불규칙 복수형: child → children, man → men",
+    "by + 교통수단 이름(타는 방법) → 관사 없이 (by bus)",
+    "play + 운동 이름 → 관사 없이 (play soccer)",
+    "예) The children play baseball after school. (아이들은 방과 후에 야구를 해요.)"
+   ],
+   "narration": "water, milk처럼 셀 수 없는 명사는 some 뒤에서도 s를 붙이지 않고, child의 복수형은 children처럼 모양이 바뀌어요. by bus처럼 by 뒤에 교통수단 이름만 써서 타는 방법을 말할 때는 a나 the 같은 관사를 쓰지 않아요. play 뒤에 운동 이름을 쓸 때도 관사를 쓰지 않아요. 예를 들어 The children play baseball after school. 아이들은 방과 후에 야구를 해요."
+  },
+  "steps": [
+   {
+    "note": "(A) some water: water는 셀 수 없는 명사 → 옳다. (B) two childs → two children",
+    "highlight": [
+     "some water"
+    ],
+    "strike": [
+     "two childs"
+    ],
+    "narration": "첫째, 에이 문장의 water는 셀 수 없는 명사라서 some water가 맞아요. 비 문장은 child의 복수형을 childs로 써서 틀렸고, children이 맞아요."
+   },
+   {
+    "note": "(C) by a taxi → by taxi, (D) the tennis → play tennis (관사 없이)",
+    "highlight": [],
+    "strike": [
+     "by a taxi",
+     "the tennis"
+    ],
+    "narration": "둘째, 씨 문장은 by 뒤의 교통수단이라 관사 없이 by taxi로 써야 해요. 디 문장도 play 뒤의 운동 이름이라 관사 없이 play tennis로 써야 해요."
+   },
+   {
+    "note": "틀린 문장 (B), (C), (D) → ④",
+    "highlight": [
+     "④ (B), (C), (D)"
+    ],
+    "strike": [
+     "① (A), (B)",
+     "② (B), (C)",
+     "③ (A), (C), (D)",
+     "⑤ (A), (B), (C), (D)"
+    ],
+    "narration": "셋째, 틀린 비, 씨, 디를 빠짐없이 고른 것은 4번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A), (B)  ✗  (A) some water는 옳고, 틀린 (C), (D)가 빠졌어요",
+    "② (B), (C)  ✗  틀린 (D) the tennis가 빠졌어요",
+    "③ (A), (C), (D)  ✗  (A)는 옳고, 틀린 (B) two childs가 빠졌어요",
+    "④ (B), (C), (D)  ✓  틀린 문장 (B), (C), (D)를 모두 골랐어요",
+    "⑤ (A), (B), (C), (D)  ✗  (A) some water는 옳은 문장이에요"
+   ],
+   "narration": "정답은 4번, 비, 씨, 디예요. 에이 문장 some water는 옳으니, 에이가 들어간 1번, 3번, 5번은 답이 될 수 없어요. 2번은 틀린 디 문장 the tennis를 빠뜨렸어요. some 뒤에는 늘 복수형이 온다고 생각하면 5번을 고르기 쉬우니 조심해요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사 s ✗ · child → children · by + 교통수단, play + 운동 이름 → 관사 ✗",
+   "narration": "정답은 4번이에요. 기억할 것, 셀 수 없는 명사는 복수형으로 쓰지 않고, by 뒤 교통수단과 play 뒤 운동 이름에는 관사를 쓰지 않아요."
+  },
+  "captions": [
+   "틀린 문장 모두 고르기",
+   "먼저 풀어 보세요",
+   "명사의 수와 관사 없는 자리",
+   "(A) 옳음 → (B)(C)(D) 틀림 → ④",
+   "정답 ④ (B), (C), (D)",
+   "셀 수 없는 명사 s ✗, 관사 ✗ 자리"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   31,
+   24,
+   10
+  ]
+ },
+ "B": {
+  "title": "셀 수 없는 명사, play the, go home",
+  "intro": "이 문제는 명사의 복수형과 관사, go home 표현을 보고 틀린 문장을 모두 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은 무엇일까요? 네 문장의 밑줄 친 부분을 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 없는 명사(milk, water) → some 뒤에서도 s를 붙이지 않아요 (some water)",
+    "불규칙 복수형: foot → feet, child → children",
+    "악기를 연주할 때 → play the + 악기 이름 (play the violin)",
+    "집에 가다 → to 없이 go home",
+    "예) My sister plays the violin at home. (우리 언니는 집에서 바이올린을 연주해요.)"
+   ],
+   "narration": "milk, water처럼 셀 수 없는 명사는 some 뒤에서도 s를 붙이지 않고, foot의 복수형 feet처럼 모양이 바뀌는 복수형도 있어요. 악기를 연주한다고 할 때는 play 뒤 악기 이름 앞에 the를 써요. 그리고 집에 간다고 할 때는 to 없이 go home이라고 해요. 예를 들어 My sister plays the violin at home. 우리 언니는 집에서 바이올린을 연주해요."
+  },
+  "steps": [
+   {
+    "note": "(A) some milks → some milk (milk는 셀 수 없다). (B) two feet: foot의 복수형 → 옳다",
+    "highlight": [
+     "two feet"
+    ],
+    "strike": [
+     "some milks"
+    ],
+    "narration": "첫째, 에이 문장의 milk는 셀 수 없는 명사라서 milks로 쓸 수 없고, some milk가 맞아요. 비 문장의 feet는 foot의 복수형이라 옳아요."
+   },
+   {
+    "note": "(C) the drums: 악기 연주 → 옳다. (D) go to home → go home",
+    "highlight": [
+     "the drums"
+    ],
+    "strike": [
+     "to home"
+    ],
+    "narration": "둘째, 씨 문장은 드럼을 연주한다는 뜻이라 the drums가 맞아요. 디 문장은 집에 간다는 뜻이라 to 없이 go home으로 써야 해요."
+   },
+   {
+    "note": "틀린 문장 (A), (D) → ①",
+    "highlight": [
+     "① (A), (D)"
+    ],
+    "strike": [
+     "② (B), (C)",
+     "③ (A), (B), (D)",
+     "④ (B), (C), (D)",
+     "⑤ (A), (B), (C), (D)"
+    ],
+    "narration": "셋째, 틀린 에이와 디를 빠짐없이 고른 것은 1번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A), (D)  ✓  틀린 문장 (A), (D)를 모두 골랐어요",
+    "② (B), (C)  ✗  (B) two feet, (C) the drums는 옳은 문장이에요",
+    "③ (A), (B), (D)  ✗  (B) two feet는 foot의 바른 복수형이에요",
+    "④ (B), (C), (D)  ✗  (B), (C)는 옳고, 틀린 (A) some milks가 빠졌어요",
+    "⑤ (A), (B), (C), (D)  ✗  (B), (C)는 옳은 문장이에요"
+   ],
+   "narration": "정답은 1번, 에이와 디예요. 비 문장 two feet와 씨 문장 the drums는 옳으니, 비나 씨가 들어간 2번부터 5번까지는 답이 될 수 없어요. feet에 s가 없어서 틀렸다고 보면 3번을 고르기 쉬워요. feet는 그 자체로 foot의 복수형이에요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사 s ✗ · foot → feet · play the + 악기 · go home (to ✗)",
+   "narration": "정답은 1번이에요. 기억할 것, 셀 수 없는 명사는 복수형으로 쓰지 않고, 집에 간다고 할 때는 to 없이 go home이라고 해요."
+  },
+  "captions": [
+   "틀린 문장 모두 고르기",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사·play the·go home",
+   "(A)(D) 틀림, (B)(C) 옳음 → ①",
+   "정답 ① (A), (D)",
+   "milk s ✗, go home"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   31,
+   24,
+   10
+  ]
+ },
+ "C": {
+  "title": "셀 수 없는 명사, play the, a와 an",
+  "intro": "이 문제는 명사의 복수형과 a, an, the의 쓰임을 보고 틀린 문장을 모두 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은 무엇일까요? 네 문장의 밑줄 친 부분을 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 없는 명사(bread, milk) → some 뒤에서도 s를 붙이지 않아요 (some milk)",
+    "불규칙 복수형: child → children, foot → feet",
+    "악기를 연주할 때 → play the + 악기 이름 (play the guitar)",
+    "a, an → 뒤 낱말의 첫소리로: 자음 소리 앞 a, 모음 소리 앞 an (a cup, an apple)",
+    "예) I eat an apple and drink some milk. (나는 사과 한 개를 먹고 우유를 조금 마셔요.)"
+   ],
+   "narration": "bread처럼 셀 수 없는 명사는 some 뒤에서도 s를 붙이지 않고, child의 복수형은 children이에요. 악기를 연주한다고 할 때는 play 뒤 악기 이름 앞에 the를 써요. a와 an은 뒤 낱말의 첫소리로 골라서, 모음 소리 앞에는 an, 자음 소리 앞에는 a를 써요. 예를 들어 I eat an apple and drink some milk. 나는 사과 한 개를 먹고 우유를 조금 마셔요."
+  },
+  "steps": [
+   {
+    "note": "(A) some breads → some bread (bread는 셀 수 없다). (B) two children: child의 복수형 → 옳다",
+    "highlight": [
+     "two children"
+    ],
+    "strike": [
+     "some breads"
+    ],
+    "narration": "첫째, 에이 문장의 bread는 셀 수 없는 명사라서 breads로 쓸 수 없어요. 비 문장의 children은 child의 복수형이라 옳아요."
+   },
+   {
+    "note": "(C) plays a piano → plays the piano, (D) a old house → an old house (모음 소리)",
+    "highlight": [],
+    "strike": [
+     "a piano",
+     "a old house"
+    ],
+    "narration": "둘째, 씨 문장은 피아노를 연주한다는 뜻이라 plays the piano로 써야 해요. 디 문장의 old는 모음 소리로 시작해서 an old house로 써야 해요."
+   },
+   {
+    "note": "틀린 문장 (A), (C), (D) → ③",
+    "highlight": [
+     "③ (A), (C), (D)"
+    ],
+    "strike": [
+     "① (A), (C)",
+     "② (B), (D)",
+     "④ (A), (B), (C)",
+     "⑤ (A), (B), (C), (D)"
+    ],
+    "narration": "셋째, 틀린 에이, 씨, 디를 빠짐없이 고른 것은 3번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A), (C)  ✗  틀린 (D) a old house가 빠졌어요",
+    "② (B), (D)  ✗  (B)는 옳고, 틀린 (A), (C)가 빠졌어요",
+    "③ (A), (C), (D)  ✓  틀린 문장 (A), (C), (D)를 모두 골랐어요",
+    "④ (A), (B), (C)  ✗  (B) two children은 옳고, 틀린 (D)가 빠졌어요",
+    "⑤ (A), (B), (C), (D)  ✗  (B) two children은 옳은 문장이에요"
+   ],
+   "narration": "정답은 3번, 에이, 씨, 디예요. 비 문장 two children은 옳으니, 비가 들어간 2번, 4번, 5번은 답이 될 수 없어요. 1번은 틀린 디 문장 a old house를 빠뜨렸어요. a old house를 맞다고 보기 쉬운데, old는 모음 소리로 시작하니 an old house가 맞아요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사 s ✗ · play the + 악기 · 모음 소리 앞 an",
+   "narration": "정답은 3번이에요. 기억할 것, 셀 수 없는 명사는 복수형으로 쓰지 않고, 악기를 연주할 때는 the, 모음 소리 앞에는 an을 써요."
+  },
+  "captions": [
+   "틀린 문장 모두 고르기",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사·play the·a, an",
+   "(B) 옳음 → (A)(C)(D) 틀림 → ③",
+   "정답 ③ (A), (C), (D)",
+   "bread s ✗, play the, an old"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   31,
+   24,
+   10
+  ]
+ },
+ "D": {
+  "title": "불규칙 복수형 mice, by bus, an",
+  "intro": "이 문제는 명사의 복수형과 관사 쓰임을 보고 틀린 문장을 모두 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은 무엇일까요? 네 문장의 밑줄 친 부분을 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 없는 명사(rice, water) → s 없이 some과 함께 쓸 수 있어요 (some water)",
+    "불규칙 복수형: mouse → mice, foot → feet",
+    "by + 교통수단 이름(타는 방법) → 관사 없이 (by train)",
+    "a, an → 뒤 낱말의 첫소리로: 자음 소리 앞 a, 모음 소리 앞 an (a cup, an apple)",
+    "예) We go to the zoo by train. (우리는 기차를 타고 동물원에 가요.)"
+   ],
+   "narration": "rice처럼 셀 수 없는 명사는 s 없이 some과 함께 쓸 수 있고, mouse의 복수형은 mice예요. by train처럼 by 뒤에 교통수단 이름만 써서 타는 방법을 말할 때는 관사를 쓰지 않아요. a와 an은 뒤 낱말의 첫소리로 골라서, 모음 소리 앞에는 an, 자음 소리 앞에는 a를 써요. 예를 들어 We go to the zoo by train. 우리는 기차를 타고 동물원에 가요."
+  },
+  "steps": [
+   {
+    "note": "(A) some rice: rice는 셀 수 없는 명사 → 옳다. (B) mouses → mice",
+    "highlight": [
+     "some rice"
+    ],
+    "strike": [
+     "mouses"
+    ],
+    "narration": "첫째, 에이 문장의 rice는 셀 수 없는 명사라서 some rice가 맞아요. 비 문장은 mouse의 복수형을 mouses로 써서 틀렸고, mice가 맞아요."
+   },
+   {
+    "note": "(C) by the bus → by bus (관사 없이). (D) an umbrella: 모음 소리 → 옳다",
+    "highlight": [
+     "an umbrella"
+    ],
+    "strike": [
+     "by the bus"
+    ],
+    "narration": "둘째, 씨 문장은 버스를 타고 간다는 뜻이라 관사 없이 by bus로 써야 해요. 디 문장의 umbrella는 모음 소리로 시작해서 an umbrella가 맞아요."
+   },
+   {
+    "note": "틀린 문장 (B), (C) → ②",
+    "highlight": [
+     "② (B), (C)"
+    ],
+    "strike": [
+     "① (A), (B)",
+     "③ (B), (C), (D)",
+     "④ (A), (C), (D)",
+     "⑤ (A), (B), (C), (D)"
+    ],
+    "narration": "셋째, 틀린 비와 씨를 빠짐없이 고른 것은 2번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A), (B)  ✗  (A) some rice는 옳고, 틀린 (C)가 빠졌어요",
+    "② (B), (C)  ✓  틀린 문장 (B), (C)를 모두 골랐어요",
+    "③ (B), (C), (D)  ✗  (D) an umbrella는 옳은 문장이에요",
+    "④ (A), (C), (D)  ✗  (A), (D)는 옳고, 틀린 (B) mouses가 빠졌어요",
+    "⑤ (A), (B), (C), (D)  ✗  (A), (D)는 옳은 문장이에요"
+   ],
+   "narration": "정답은 2번, 비와 씨예요. 에이 문장 some rice와 디 문장 an umbrella는 옳으니, 에이나 디가 들어간 1번, 3번, 4번, 5번은 답이 될 수 없어요. umbrella 앞의 an을 틀렸다고 보면 3번을 고르기 쉬워요. umbrella는 모음 소리로 시작하니 an이 맞아요."
+  },
+  "summary": {
+   "card": "mouse → mice · by + 교통수단 → 관사 ✗ · 모음 소리 앞 an",
+   "narration": "정답은 2번이에요. 기억할 것, mouse의 복수형은 mice이고, by 뒤의 교통수단에는 관사를 쓰지 않아요."
+  },
+  "captions": [
+   "틀린 문장 모두 고르기",
+   "먼저 풀어 보세요",
+   "복수형·by + 교통수단·a, an",
+   "(B)(C) 틀림, (A)(D) 옳음 → ②",
+   "정답 ② (B), (C)",
+   "mice, by bus, an umbrella"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   31,
+   24,
+   10
+  ]
+ },
+ "E": {
+  "title": "money, men, play soccer, a와 an",
+  "intro": "이 문제는 셀 수 없는 명사, 불규칙 복수형, 관사 쓰임을 보고 틀린 문장을 모두 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은 무엇일까요? 네 문장의 밑줄 친 부분을 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 없는 명사(money, water) → some 뒤에서도 s를 붙이지 않아요 (some water)",
+    "불규칙 복수형: man → men, woman → women",
+    "play + 운동 이름 → 관사 없이 (play basketball)",
+    "a, an → 뒤 낱말의 첫소리로: 자음 소리 앞 a, 모음 소리 앞 an (a cup, an apple)",
+    "예) My friends play basketball on Sundays. (내 친구들은 일요일마다 농구를 해요.)"
+   ],
+   "narration": "money처럼 셀 수 없는 명사는 some 뒤에서도 s를 붙이지 않고, man의 복수형은 men이에요. play 뒤에 운동 이름을 쓸 때는 a나 the 같은 관사를 쓰지 않아요. a와 an은 뒤 낱말의 첫소리로 골라서, 자음 소리 앞에는 a, 모음 소리 앞에는 an을 써요. 예를 들어 My friends play basketball on Sundays. 내 친구들은 일요일마다 농구를 해요."
+  },
+  "steps": [
+   {
+    "note": "(A) some moneys → some money (money는 셀 수 없다). (B) two mans → two men",
+    "highlight": [],
+    "strike": [
+     "some moneys",
+     "two mans"
+    ],
+    "narration": "첫째, 에이 문장의 money는 셀 수 없는 명사라서 moneys로 쓸 수 없어요. 비 문장은 man의 복수형을 mans로 써서 틀렸고, men이 맞아요."
+   },
+   {
+    "note": "(C) the soccer → plays soccer (관사 없이). (D) an dog → a dog (자음 소리)",
+    "highlight": [],
+    "strike": [
+     "the soccer",
+     "an dog"
+    ],
+    "narration": "둘째, 씨 문장은 play 뒤의 운동 이름이라 관사 없이 plays soccer로 써야 해요. 디 문장의 dog는 자음 소리로 시작해서 a dog로 써야 해요."
+   },
+   {
+    "note": "네 문장 모두 틀림 → ⑤",
+    "highlight": [
+     "⑤ (A), (B), (C), (D)"
+    ],
+    "strike": [
+     "① (A), (B)",
+     "② (C), (D)",
+     "③ (A), (B), (C)",
+     "④ (B), (C), (D)"
+    ],
+    "narration": "셋째, 네 문장이 모두 틀렸으니 넷을 모두 고른 5번이 답이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A), (B)  ✗  틀린 (C) the soccer, (D) an dog가 빠졌어요",
+    "② (C), (D)  ✗  틀린 (A) some moneys, (B) two mans가 빠졌어요",
+    "③ (A), (B), (C)  ✗  틀린 (D) an dog가 빠졌어요",
+    "④ (B), (C), (D)  ✗  틀린 (A) some moneys가 빠졌어요",
+    "⑤ (A), (B), (C), (D)  ✓  네 문장이 모두 틀려 넷을 모두 골랐어요"
+   ],
+   "narration": "정답은 5번이에요. 네 문장이 모두 틀렸으니, 하나라도 빠뜨린 1번부터 4번까지는 답이 될 수 없어요. 돈은 셀 수 있다고 생각해 에이 문장 some moneys를 맞다고 보면 4번을 고르기 쉬워요. money는 셀 수 없는 명사라 s를 붙이지 않아요. an dog를 놓치면 3번을 고르게 되는데, dog는 자음 소리로 시작해 a dog가 맞아요."
+  },
+  "summary": {
+   "card": "money s ✗ · man → men · play + 운동 이름 → 관사 ✗ · 자음 소리 앞 a",
+   "narration": "정답은 5번이에요. 기억할 것, money는 셀 수 없는 명사라 s를 붙이지 않고, play 뒤의 운동 이름에는 관사를 쓰지 않아요."
+  },
+  "captions": [
+   "틀린 문장 모두 고르기",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사·복수형·관사",
+   "(A)(B)(C)(D) 모두 틀림 → ⑤",
+   "정답 ⑤ (A), (B), (C), (D)",
+   "money s ✗, play soccer"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   31,
+   24,
+   10
+  ]
+ },
+ "F": {
+  "title": "by bike와 an egg, 명사의 수",
+  "intro": "이 문제는 명사의 복수형과 a, an, 관사 없는 자리를 보고 틀린 문장을 모두 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은 무엇일까요? 네 문장의 밑줄 친 부분을 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "셀 수 없는 명사(bread, milk) → s 없이 some과 함께 쓸 수 있어요 (some milk)",
+    "불규칙 복수형: woman → women, child → children",
+    "by + 교통수단 이름(타는 방법) → 관사 없이 (by car)",
+    "a, an → 뒤 낱말의 첫소리로: 자음 소리 앞 a, 모음 소리 앞 an (a cup, an apple)",
+    "예) My dad goes to work by car. (우리 아빠는 차를 타고 회사에 가요.)"
+   ],
+   "narration": "bread처럼 셀 수 없는 명사는 s 없이 some과 함께 쓸 수 있고, woman의 복수형은 women이에요. by car처럼 by 뒤에 교통수단 이름만 써서 타는 방법을 말할 때는 관사를 쓰지 않아요. a와 an은 뒤 낱말의 첫소리로 골라서, 모음 소리 앞에는 an, 자음 소리 앞에는 a를 써요. 예를 들어 My dad goes to work by car. 우리 아빠는 차를 타고 회사에 가요."
+  },
+  "steps": [
+   {
+    "note": "(A) some bread: bread는 셀 수 없는 명사 → 옳다. (B) three women: woman의 복수형 → 옳다",
+    "highlight": [
+     "some bread",
+     "women"
+    ],
+    "strike": [],
+    "narration": "첫째, 에이 문장의 bread는 셀 수 없는 명사라서 some bread가 맞아요. 비 문장의 women은 woman의 복수형이라 옳아요."
+   },
+   {
+    "note": "(C) by a bike → by bike (관사 없이). (D) a egg → an egg (모음 소리)",
+    "highlight": [],
+    "strike": [
+     "by a bike",
+     "a egg"
+    ],
+    "narration": "둘째, 씨 문장은 자전거를 타고 간다는 뜻이라 관사 없이 by bike로 써야 해요. 디 문장의 egg는 모음 소리로 시작해서 an egg로 써야 해요."
+   },
+   {
+    "note": "틀린 문장 (C), (D) → ④",
+    "highlight": [
+     "④ (C), (D)"
+    ],
+    "strike": [
+     "① (A), (C)",
+     "② (B), (D)",
+     "③ (A), (C), (D)",
+     "⑤ (B), (C), (D)"
+    ],
+    "narration": "셋째, 틀린 씨와 디를 빠짐없이 고른 것은 4번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A), (C)  ✗  (A) some bread는 옳고, 틀린 (D)가 빠졌어요",
+    "② (B), (D)  ✗  (B) three women은 옳고, 틀린 (C)가 빠졌어요",
+    "③ (A), (C), (D)  ✗  (A) some bread는 옳은 문장이에요",
+    "④ (C), (D)  ✓  틀린 문장 (C), (D)를 모두 골랐어요",
+    "⑤ (B), (C), (D)  ✗  (B) three women은 옳은 문장이에요"
+   ],
+   "narration": "정답은 4번, 씨와 디예요. 에이 문장 some bread와 비 문장 three women은 옳으니, 에이나 비가 들어간 1번, 2번, 3번, 5번은 답이 될 수 없어요. some 뒤라서 breads로 써야 한다고 생각하면 3번을 고르기 쉬워요. bread는 셀 수 없는 명사라 s를 붙이지 않아요."
+  },
+  "summary": {
+   "card": "by + 교통수단 → 관사 ✗ · 모음 소리 앞 an · 셀 수 없는 명사 s ✗",
+   "narration": "정답은 4번이에요. 기억할 것, by 뒤의 교통수단에는 관사를 쓰지 않고, 모음 소리 앞에는 an을 써요."
+  },
+  "captions": [
+   "틀린 문장 모두 고르기",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사·by + 교통수단·a, an",
+   "(A)(B) 옳음 → (C)(D) 틀림 → ④",
+   "정답 ④ (C), (D)",
+   "by bike, an egg"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   31,
+   24,
+   10
+  ]
+ }
+}

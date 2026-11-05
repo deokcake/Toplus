@@ -1,0 +1,30 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "done": true,
+  "doneAt": "2026-10-25T14:27:41.716Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Am - have",
+      "1": "Does - have",
+      "2": "Do - has",
+      "3": "Do - have",
+      "4": "Does - has"
+    },
+    "expl": "핵심 규칙: Must ~?는 Do/Does + 주어 + have to + 동사원형 ~?으로 바꿀 수 있다. 3인칭 단수 주어에는 Does, 그 밖의 주어에는 Do를 쓰고, 뒤의 have는 원형이다.\n풀이 순서: ① must와 같은 뜻은 have to다. have to의 의문문은 일반동사처럼 Do/Does로 만든다. → ② 주어를 본다: he는 3인칭 단수이므로 Does. → ③ Do/Does 뒤이므로 둘째 빈칸은 동사원형 have다. 정답은 Do - have.\n문장별 판정:\n정답 판단: 3인칭 단수가 아닌 주어에 Do를 쓰고 뒤에 원형 have를 바르게 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] have to 의문문은 be동사로 만들지 않으므로 오답이다.\n② [오답] 주어가 3인칭 단수가 아니라 Does를 쓸 수 없으므로 오답이다.\n③ [오답] Do 뒤에는 원형 have를 쓰므로 오답이다.\n④ [정답] 3인칭 단수가 아닌 주어에 Do를 쓰고 뒤에 원형 have를 바르게 썼으므로 정답이다.\n⑤ [오답] Does 뒤에는 원형 have를 쓰고 주어도 3인칭 단수가 아니므로 오답이다.",
+    "passage": "Must I bring my lunch?\n= ________ I ________ to bring my lunch?",
+    "stem": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:27:40.555Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-25T14:27:41.716Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:27:41.716Z",
+      "what": "확인 완료"
+    }
+  }
+}

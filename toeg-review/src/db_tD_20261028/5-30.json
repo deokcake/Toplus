@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T09:26:24.587Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "(가), (나)",
+      "1": "(나), (다)",
+      "2": "(라), (마)",
+      "3": "(가), (라)",
+      "4": "(나), (마)"
+    },
+    "expl": "핵심 규칙: Did/didn't/Does 뒤에는 동사원형을 쓰고, be동사는 주어에 맞춰 was/were를 쓰며 일반동사와 함께 쓰지 않는다. 불규칙 동사는 정해진 과거형을 쓴다.\n풀이 순서: ① did/didn't/Does가 있는 문장은 뒤가 동사원형인지 본다. → ② be동사 문장은 주어와 수가 맞는지, 일반동사와 겹쳐 쓰지 않았는지 본다. → ③ (나) didn't went(go), (마) The boys was(were)가 틀렸다. 정답은 (나), (마).\n문장별 판정:\n(가) O. bake의 과거형 baked를 썼다.\n(나) X. didn't 뒤에는 동사원형 go를 써야 한다.\n(다) O. Do 뒤에 동사원형 walk를 썼다.\n(라) O. 단수 주어 The movie에 was를 썼다.\n(마) X. 복수 주어 The boys에는 were를 써야 한다.\n정답 판단: 어법상 틀린 문장은 (나), (마)이다.\n선택지 분석:\n① [오답] (가)는 틀린 문장이 아니고, 틀린 문장 (마)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (다)는 틀린 문장이 아니고, 틀린 문장 (마)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (라)는 틀린 문장이 아니고, 틀린 문장 (나)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (가), (라)는 틀린 문장이 아니고, 틀린 문장 (나), (마)를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 틀린 문장 (나), (마)를 빠짐없이 골랐으므로 정답이다.",
+    "passage": "(가) My mom baked cookies for us.\n(나) He didn't went to the party.\n(다) Do you walk to school?\n(라) The movie was very funny.\n(마) The boys was at the park yesterday.",
+    "stem": "다음 중 어법상 틀린 문장으로만 짝지어진 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T09:26:23.751Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T09:26:24.587Z",
+      "what": "확인 완료"
+    }
+  }
+}

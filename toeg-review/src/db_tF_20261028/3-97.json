@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 순서 정정",
+  "done": true,
+  "doneAt": "2026-10-27T05:23:38.760Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "I got up so earlyly this morning to catch the first bus.",
+      "1": "I got up very earlyly this morning to catch the first bus.",
+      "2": "I got up earlily this morning to catch the first bus.",
+      "3": "I got up early this morning to catch the first bus.",
+      "4": "I got up too earlying this morning to catch the first bus."
+    },
+    "expl": "핵심 규칙: high(높이)/highly(매우), late(늦게)/lately(최근에), hard(열심히)/hardly(거의 ~않다), wide(활짝)/widely(널리)처럼 -ly가 붙으면 뜻이 달라지는 부사가 있고, fast·early는 -ly 없이 부사로 쓴다.\n풀이 순서: ① 밑줄 친 부사의 형태를 확인한다: earlyly라는 말은 없다. → ② 우리말 ‘일찍’에 맞는 부사는 -ly를 붙이지 않은 early다. → ③ 부사만 바르게 고치고 나머지는 그대로 둔 문장을 고른다. 정답은 ④.\n문장별 판정:\n정답 판단: early는 -ly를 더 붙이지 않고 그대로 부사로 쓰므로 정답은 ④이다.\n선택지 분석:\n① [오답] 틀린 부분(earlyly)을 그대로 두었으므로 오답이다.\n② [오답] earlyly라는 말이 없어 very를 붙여도 틀리므로 오답이다.\n③ [오답] earlily라는 말은 없으므로 오답이다.\n④ [정답] early는 -ly를 더 붙이지 않고 그대로 부사로 쓰므로 정답이다.\n⑤ [오답] earlying이라는 형태는 없으므로 오답이다.",
+    "passage": "I got up <u>earlyly</u> this morning to catch the first bus.\n(나는 첫 버스를 타려고 오늘 아침 일찍 일어났다.)",
+    "stem": "다음 문장에서 밑줄 친 부분을 바르게 고친 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T05:23:38.156Z"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:23:38.760Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:23:38.760Z",
+      "what": "확인 완료"
+    }
+  }
+}

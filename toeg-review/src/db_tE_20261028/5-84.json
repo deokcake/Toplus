@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:25:16.483Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "It starts on Monday.",
+      "1": "It starts in March.",
+      "2": "It starts at the main gate.",
+      "3": "It starts in 2025.",
+      "4": null
+    },
+    "expl": "핵심 규칙: 질문의 의문사가 묻는 정보에 맞춰 답한다. What year는 연도, What month는 달, What season은 계절, What day는 요일, What time은 시각, Where는 장소를 묻는다.\n풀이 순서: ① 질문이 묻는 정보를 본다: What time(시각). → ② 보기는 문장의 앞부분이 같고 뒤의 정보만 다르다. 그 정보의 종류를 하나씩 가른다. → ③ 시각은 9 o'clock뿐이다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 시각을 묻는 질문에 시각으로 알맞게 답했으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 요일을 답해 시각을 묻는 질문에 맞지 않으므로 오답이다.\n② [오답] 달을 답해 시각을 묻는 질문에 맞지 않으므로 오답이다.\n③ [오답] 장소를 답해 시각을 묻는 질문에 맞지 않으므로 오답이다.\n④ [오답] 연도를 답해 시각을 묻는 질문에 맞지 않으므로 오답이다.\n⑤ [정답] 시각을 묻는 질문에 시각으로 알맞게 답했으므로 정답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:25:14.459Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:25:16.483Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:25:16.483Z",
+      "what": "확인 완료"
+    }
+  }
+}

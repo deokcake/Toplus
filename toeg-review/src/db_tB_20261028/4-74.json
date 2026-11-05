@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-06T08:44:51.163Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": null,
+      "1": "This is the easiest test.",
+      "2": "Seoul is bigger than Busan.",
+      "3": "Jane is the beautifullest girl here.",
+      "4": "My room is cleaner than yours."
+    },
+    "expl": "핵심 규칙: 짧은 단어는 -er·-est, 긴 단어는 more·most를 붙이며 둘을 겹쳐 쓰지 않는다. good - better - best, bad - worse - worst는 불규칙 변화이다.\n풀이 순서: ① 문장마다 비교급·최상급의 형태를 본다. → ② more/most와 -er/-est가 겹쳤는지, 불규칙 변화를 규칙형으로 쓰지 않았는지 확인한다. → ③ 선택지 ④의 beautiful은 긴 단어라 -est를 붙이지 않는다. the most beautiful이 맞다. 정답은 ④.\n문장별 판정:\n정답 판단: 긴 단어 beautiful은 the most beautiful로 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 비교급·최상급을 바르게 썼으므로 오답이다.\n② [오답] 비교급·최상급을 바르게 썼으므로 오답이다.\n③ [오답] 비교급·최상급을 바르게 썼으므로 오답이다.\n④ [정답] 긴 단어 beautiful은 the most beautiful로 써야 하므로 정답이다.\n⑤ [오답] 비교급·최상급을 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 틀린 문장을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T08:44:49.997Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T08:44:51.163Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T08:56:42.089Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 과거진행형 부정문은 was/were not+-ing, 의문문은 Was/Were+주어+-ing?이다.\n풀이 순서: ① 첫 문장: 빈칸 뒤에 -ing형이 있으므로 be동사 과거형(+ not)이 들어간다. 주어가 Jane이므로 was not. → ② 둘째 문장: Was/Were + 주어 뒤이므로 -ing형 cooking. → ③ 정답은 was not - cooking.\n문장별 판정:\n정답 판단: (첫째 빈칸) was not: Jane에 맞는 과거 be동사 was에 not을 붙여 부정한다. wasn't와 was not은 같은 뜻이다. (둘째 빈칸) cooking: cook에 ing을 붙이면 cooking이 된다. 둘째 문장은 과거진행형이므로 이 -ing형이 필요하다. 따라서 정답은 ①이다.\n선택지 분석:\n① [정답] (첫째 빈칸) was not: Jane에 맞는 과거 be동사 was에 not을 붙여 부정한다. wasn't와 was not은 같은 뜻이다. (둘째 빈칸) cooking: cook에 ing을 붙이면 cooking이 된다. 둘째 문장은 과거진행형이므로 이 -ing형이 필요하다.\n② [오답] (첫째 빈칸) were not → wasn't. Jane에 맞는 과거 be동사 was에 not을 붙여 부정한다. wasn't와 was not은 같은 뜻이다. (둘째 빈칸) cooking: cook에 ing을 붙이면 cooking이 된다. 둘째 문장은 과거진행형이므로 이 -ing형이 필요하다.\n③ [오답] (첫째 빈칸) wasn't: Jane에 맞는 과거 be동사 was에 not을 붙여 부정한다. wasn't와 was not은 같은 뜻이다. (둘째 빈칸) cooks → cooking. cook에 ing을 붙이면 cooking이 된다. 둘째 문장은 과거진행형이므로 이 -ing형이 필요하다.\n④ [오답] (첫째 빈칸) was not: Jane에 맞는 과거 be동사 was에 not을 붙여 부정한다. wasn't와 was not은 같은 뜻이다. (둘째 빈칸) cook → cooking. cook에 ing을 붙이면 cooking이 된다. 둘째 문장은 과거진행형이므로 이 -ing형이 필요하다.\n⑤ [오답] (첫째 빈칸) did not → wasn't. Jane에 맞는 과거 be동사 was에 not을 붙여 부정한다. wasn't와 was not은 같은 뜻이다. (둘째 빈칸) cooking: cook에 ing을 붙이면 cooking이 된다. 둘째 문장은 과거진행형이므로 이 -ing형이 필요하다.",
+    "passage": "- Jane _______ cooking dinner.\n- Was she ________ at home?",
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T08:56:39.857Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:56:42.089Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T12:29:13.252Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Where did you go after school?",
+      "1": "What did you do after school?",
+      "2": "When did you get home?",
+      "3": "Who took you home?",
+      "4": "Why did you go home early?"
+    },
+    "expl": "핵심 규칙: 의문사는 묻는 정보에 맞게 고른다: who(사람), what(사물·일), where(장소), when(때), why(이유), how(방법), how much(값·양), how long(기간). 일반동사 과거 의문문은 의문사 + did + 주어 + 동사원형이다.\n풀이 순서: ① B의 대답이 알려 주는 정보가 무엇인지 본다: 이유(Because ~). → ② 그 정보를 묻는 의문사는 Why(왜)다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: Why는 이유를 묻고 B가 Because로 이유를 말하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] Where는 장소를 묻는데 B는 이유(Because ...)를 말하므로 오답이다.\n② [오답] What은 한 일을 묻는데 B는 이유를 말하므로 오답이다.\n③ [오답] When은 때를 묻는데 B는 이유를 말하므로 오답이다.\n④ [오답] Who는 데려다준 사람을 묻는데 B는 이유를 말하므로 오답이다.\n⑤ [정답] Why는 이유를 묻고 B가 Because로 이유를 말하므로 정답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T12:29:06.760Z"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T12:29:13.252Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T12:29:13.252Z",
+      "what": "확인 완료"
+    }
+  }
+}

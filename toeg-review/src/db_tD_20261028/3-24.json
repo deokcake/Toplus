@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:06:15.412Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "(A): an / (B): a",
+      "1": "(A): a / (B): a",
+      "2": "(A): any / (B): a",
+      "3": "(A): a / (B): an",
+      "4": "(A): an / (B): an"
+    },
+    "expl": "핵심 규칙: a/an은 철자가 아니라 바로 뒤 단어의 첫소리로 정한다. 모음 소리 앞에는 an(an hour, an honest), 자음 소리 앞에는 a(a university, a one-way, a European)를 쓴다.\n풀이 순서: ① a/an은 뒤 낱말의 철자가 아니라 첫 ‘소리’로 정한다. 모음 소리 앞에는 an, 자음 소리 앞에는 a다. → ② (A) 뒤의 unusual은 모음 소리로 시작한다(an). (B) 뒤의 book은 자음 소리로 시작한다(a). → ③ 정답은 ①.\n문장별 판정:\n정답 판단: (A)는 an, (B)는 a이다.\n선택지 분석:\n① [정답] (A) an - (B) a: 두 자리가 모두 첫소리에 맞으므로 정답이다.\n② [오답] (A) a: unusual은 모음 소리로 시작하므로 an을 쓴다. 따라서 오답이다.\n③ [오답] (A) any: any는 단수 명사 보어 앞에 쓰지 않는다. 따라서 오답이다.\n④ [오답] (A) a: unusual은 모음 소리로 시작하므로 an을 쓴다. (B) an: book은 자음 소리로 시작하므로 a를 쓴다. 따라서 오답이다.\n⑤ [오답] (B) an: book은 자음 소리로 시작하므로 a를 쓴다. 따라서 오답이다.",
+    "passage": "• It was (<u>    A    </u>) unusual story about my grandfather.\n• He bought (<u>    B    </u>) book about animals yesterday.",
+    "stem": "다음 빈칸 (A)와 (B)에 들어갈 말이 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T17:51:10.817Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T17:51:21.804Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:06:15.412Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:04:38.609Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:06:15.412Z",
+      "what": "확인 완료"
+    }
+  }
+}

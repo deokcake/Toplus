@@ -1,0 +1,177 @@
+{
+ "key": "2-16",
+ "type": "C",
+ "grade": 2,
+ "chapter": "CH 2 시제",
+ "title": "상태동사 believe는 단순현재로",
+ "total_sec": 131,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "2급 · CH 2 시제 · 16번 · C 유형\n\n이 문제는 진행형으로 쓴 상태동사 believe를 바르게 고치는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 2 시제 · 16번 · C 유형",
+     "이 문제는 진행형으로 쓴 상태동사 believe를 바르게 고치는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 2, 16번 C 유형. 이 문제는 진행형으로 쓴 상태동사 believe를 바르게 고치는 문제예요.",
+   "caption": "상태동사 believe 바르게 고치기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 밑줄 친 부분을 바르게 고친 것으로 알맞은 것은?\n\nShe <u>is believing</u> his story.\n\n① believing\n② is believe\n③ believes\n④ believe\n⑤ is believed",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 밑줄 친 부분을 바르게 고친 것으로 알맞은 것은?",
+     "She <u>is believing</u> his story.",
+     "① believing",
+     "② is believe",
+     "③ believes",
+     "④ believe",
+     "⑤ is believed"
+    ]
+   },
+   "narration": "밑줄 친 부분을 바르게 고친 것을 고르세요. She is believing his story. 그녀가 그의 이야기를 믿는다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n상태동사: believe, understand, know, own처럼 마음·생각·소유·상태를 나타내는 동사\n상태동사는 보통 진행형(be동사 + ing형)으로 쓰지 않고 단순현재로 써요.\n일반동사 단순현재는 주어에 맞춰요: 3인칭 단수 → 대부분 s·es (have → has), 다른 주어 → 동사원형\n예) I understand your question. (나는 네 질문을 이해해요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "상태동사: believe, understand, know, own처럼 마음·생각·소유·상태를 나타내는 동사",
+     "상태동사는 보통 진행형(be동사 + ing형)으로 쓰지 않고 단순현재로 써요.",
+     "일반동사 단순현재는 주어에 맞춰요: 3인칭 단수 → 대부분 s·es (have → has), 다른 주어 → 동사원형",
+     "예) I understand your question. (나는 네 질문을 이해해요.)"
+    ]
+   },
+   "narration": "believe, understand, know, own처럼 마음, 생각, 소유, 상태를 나타내는 동사를 상태동사라고 해요. 상태동사는 동작이 아니라서 보통 진행형으로 쓰지 않고 단순현재로 써요. 일반동사의 단순현재는 주어에 맞춰서, 3인칭 단수 주어에는 대부분 s나 es를 붙이고 다른 주어에는 동사원형을 써요. I understand your question. 나는 네 질문을 이해해요.",
+   "caption": "상태동사는 보통 단순현재로"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 밑줄 친 부분을 바르게 고친 것으로 알맞은 것은?\n\nShe <u>is believing</u> his story.\n\n① believing\n② is believe\n③ believes\n④ believe\n⑤ is believed",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "<u>is believing</u>"
+      ],
+      "strike": [],
+      "note": "밑줄 is believing = 진행형. believe(믿다)는 생각의 상태 → 단순현재로 고친다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① believing",
+       "② is believe",
+       "⑤ is believed"
+      ],
+      "note": "단순현재 동사가 아닌 것 지우기: ing형만 남은 believing, be동사 + 동사원형 is believe, 수동태 is believed"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "She",
+       "③ believes"
+      ],
+      "strike": [
+       "④ believe"
+      ],
+      "note": "주어 She = 3인칭 단수 → believes (believe는 s가 빠짐)"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 밑줄 친 is believing은 진행형인데, believe는 무언가를 믿는 마음의 상태를 나타내는 상태동사라서 단순현재로 고쳐야 해요. 둘째, ing형만 남은 believing, be동사와 동사원형을 나란히 쓴 is believe, 믿어진다는 뜻의 수동태 is believed는 단순현재 동사가 아니라서 지워요. 셋째, 주어 She는 3인칭 단수라서 동사원형 believe가 아니라 s를 붙인 believes를 써요. She believes his story. 그녀는 그의 이야기를 믿어요.",
+   "caption": "진행형 → 단순현재 → 주어 She"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① believing  ✗  ing형만으로는 동사 자리를 채울 수 없어요\n② is believe  ✗  be동사 is와 동사원형 believe를 나란히 쓰지 않아요\n③ believes  ✓  상태동사를 단순현재로, 3인칭 단수 She에 맞춰 s\n④ believe  ✗  주어 She는 3인칭 단수라 s를 붙여야 해요\n⑤ is believed  ✗  ‘믿어진다’는 수동태라 뜻이 달라져요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① believing  ✗  ing형만으로는 동사 자리를 채울 수 없어요",
+     "② is believe  ✗  be동사 is와 동사원형 believe를 나란히 쓰지 않아요",
+     "③ believes  ✓  상태동사를 단순현재로, 3인칭 단수 She에 맞춰 s",
+     "④ believe  ✗  주어 She는 3인칭 단수라 s를 붙여야 해요",
+     "⑤ is believed  ✗  ‘믿어진다’는 수동태라 뜻이 달라져요"
+    ]
+   },
+   "narration": "정답은 3번 believes예요. 4번 believe는 단순현재로 고친 것은 맞지만, 3인칭 단수 주어 She에 맞게 s를 붙이지 않았어요. 1번 believing은 is만 지운 꼴인데, ing형만으로는 동사 자리를 채울 수 없어요. 5번 is believed는 믿어진다는 뜻의 수동태라서 뜻이 달라져요.",
+   "caption": "정답 ③ believes"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ believes\n\n상태동사는 보통 진행형으로 쓰지 않고, 주어에 맞는 단순현재로 써요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ believes",
+     "상태동사는 보통 진행형으로 쓰지 않고, 주어에 맞는 단순현재로 써요."
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, believe 같은 상태동사는 보통 진행형 대신 주어에 맞는 단순현재로 써요.",
+   "caption": "상태동사 + 주어에 맞는 단순현재"
+  }
+ ],
+ "source": {
+  "stem": "다음 밑줄 친 부분을 바르게 고친 것으로 알맞은 것은?",
+  "passage": "She <u>is believing</u> his story.",
+  "c": [
+   "believing",
+   "is believe",
+   "believes",
+   "believe",
+   "is believed"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 상태를 나타내는 동사(know, believe, own, need, resemble 등)는 보통 진행형으로 쓰지 않고 단순현재로 쓴다. 상태동사도 특정 의미·문맥에서는 진행형으로 쓰일 수 있으므로 진행형을 언제나 비문이라고 단정하지 않는다. 단순현재형은 주어와 수를 일치시킨다.\n풀이 순서: ① 밑줄의 동사(believe)가 동작인지 상태인지 본다. ‘믿다’는 상태를 나타내므로 진행형으로 쓰지 않는다. → ② 진행형을 단순현재로 고친다. be동사 + 동사원형, 수동태, -ing만 남긴 보기는 지운다. → ③ 주어(She)에 수를 맞추면 believes이다.\n문장별 판정:\n정답 판단: 주어 She에 맞는 believe의 단순현재형은 believes이다. 완성문: She believes his story.\n선택지 분석:\n① [오답] believing만으로는 문장의 정형동사가 되지 않는다. 단순현재 동사가 필요하다. 완성문: She believes his story.\n② [오답] be동사 is와 동사원형 believe를 이렇게 직접 연결할 수 없다. 완성문: She believes his story.\n③ [정답] 주어 She에 맞는 believe의 단순현재형은 believes이다. 완성문: She believes his story.\n④ [오답] 단순현재 동사의 수를 주어 She에 맞추면 believes이다. believe는 주어와 일치하지 않는다. 완성문: She believes his story.\n⑤ [오답] is believed는 수동형이다. 주어가 직접 느끼거나 알고 소유하는 원문의 능동 상태를 나타내지 않는다. 완성문: She believes his story."
+ }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-21T11:40:21.388Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: Can+주어+동사원형?으로 능력을 묻는다.\n풀이 순서: ① 문장에 can이 있으므로 can을 주어 앞으로 보낸다: Can + Tom. → ② 뒤의 동사는 원형 그대로다: ride. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: can을 주어 앞으로 옮겼고 본동사 ride를 원형으로 유지했다. 따라서 정답은 ②이다.\n선택지 분석:\n① [오답] Can 뒤에서 본동사는 ride의 원형이어야 한다. Can Tom ride a bike?로 고친다.\n② [정답] can을 주어 앞으로 옮겼고 본동사 ride를 원형으로 유지했다.\n③ [오답] 평서문 어순에 물음표만 붙인 것은 의문문으로 바르게 바꾼 것이 아니다.\n④ [오답] 원문의 can을 유지하지 않아 능력을 묻는 조동사 의문문이 아니다. Can Tom ride a bike?로 고친다.\n⑤ [오답] can 의문문에 Do/Does 또는 be동사를 함께 앞세우지 않는다. Can Tom ride a bike?로 고친다.",
+    "passage": null,
+    "stem": "다음 문장을 의문문으로 바르게 바꾼 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-21T11:40:19.252Z"
+  },
+  "tab": "ojjpxrut",
+  "updatedAt": "2026-10-21T11:40:21.388Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T11:40:21.388Z",
+      "what": "확인 완료"
+    }
+  }
+}

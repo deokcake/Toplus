@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T05:25:52.420Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "so - so",
+      "2": "so - because",
+      "3": "because - because",
+      "4": "although - so"
+    },
+    "expl": "핵심 규칙: because는 뒤에 이유를, so는 뒤에 결과를 이끈다. although는 ‘비록 ~이지만’의 양보를 나타낸다.\n풀이 순서: ① 발문이 알려 준 관계를 확인한다: 첫 빈칸은 대조, 둘째 빈칸은 선택. → ② 대조는 but, 선택은 or로 잇는다. → ③ 정답은 so - so.\n문장별 판정:\n정답 판단: 첫째 빈칸은 뒤 절(잠이 듦)이 지루했던 결과라 so, 둘째 빈칸은 뒤 절(수영하러 감)이 더웠던 결과라 so이므로 정답은 ②이다.\n선택지 분석:\n① [오답] 첫째 빈칸 because: 뒤 절(잠이 듦)이 지루했던 결과라 so이다. 따라서 오답이다.\n② [정답] 첫째 빈칸은 뒤 절(잠이 듦)이 지루했던 결과라 so, 둘째 빈칸은 뒤 절(수영하러 감)이 더웠던 결과라 so이므로 정답이다.\n③ [오답] 둘째 빈칸 because: 뒤 절(수영하러 감)이 더웠던 결과라 so이다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 because: 뒤 절(잠이 듦)이 지루했던 결과라 so이다, 둘째 빈칸 because: 뒤 절(수영하러 감)이 더웠던 결과라 so이다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 although: 뒤 절(잠이 듦)이 지루했던 결과라 so이다. 따라서 오답이다.",
+    "passage": "- The movie was boring, _____ I fell asleep.\n- It was very hot, _____ we went swimming.",
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:25:42.125Z"
+  },
+  "tab": "fhh9u0lo",
+  "updatedAt": "2026-10-23T05:25:52.420Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:25:52.420Z",
+      "what": "확인 완료"
+    }
+  }
+}

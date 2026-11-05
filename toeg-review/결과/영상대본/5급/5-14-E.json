@@ -1,0 +1,176 @@
+{
+ "key": "5-14",
+ "type": "E",
+ "grade": 5,
+ "chapter": "CH 2 be동사와 일반동사",
+ "title": "be동사와 일반동사의 현재 부정문",
+ "total_sec": 123,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 2 be동사와 일반동사 · 14번 · E 유형\n\n이 문제는 be동사와 일반동사의 현재 부정문 가운데 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 2 be동사와 일반동사 · 14번 · E 유형",
+     "이 문제는 be동사와 일반동사의 현재 부정문 가운데 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 2, 14번 E 유형. 이 문제는 be동사와 일반동사의 현재 부정문 가운데 틀린 문장을 고르는 문제예요.",
+   "caption": "부정문 틀린 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① She doesn't watch TV.\n② Jane doesn't plays the piano.\n③ I am not tired.\n④ It isn't cold today.\n⑤ We don't have class today.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 틀린 문장을 고르시오.",
+     "① She doesn't watch TV.",
+     "② Jane doesn't plays the piano.",
+     "③ I am not tired.",
+     "④ It isn't cold today.",
+     "⑤ We don't have class today."
+    ]
+   },
+   "narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 부정문: am, are, is 뒤에 not (is not → isn't, are not → aren't)\n일반동사 현재 부정문: 동사 앞에 don't 또는 doesn't\n3인칭 단수 주어(he, she, it, Tom 등) → doesn't · 그 밖의 주어 → don't\ndon't, doesn't 뒤에는 늘 동사원형\n예) Kevin doesn't swim in the sea. (케빈은 바다에서 수영하지 않아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 부정문: am, are, is 뒤에 not (is not → isn't, are not → aren't)",
+     "일반동사 현재 부정문: 동사 앞에 don't 또는 doesn't",
+     "3인칭 단수 주어(he, she, it, Tom 등) → doesn't · 그 밖의 주어 → don't",
+     "don't, doesn't 뒤에는 늘 동사원형",
+     "예) Kevin doesn't swim in the sea. (케빈은 바다에서 수영하지 않아요.)"
+    ]
+   },
+   "narration": "be동사 am, are, is 뒤에 not을 붙이면 ‘아니다’, ‘있지 않다’ 같은 뜻의 부정문이 되고, is not은 isn't, are not은 aren't로 줄여 쓸 수 있어요. 일반동사 현재형은 동사 앞에 don't나 doesn't를 써서 ‘하지 않는다’라는 뜻의 부정문을 만들어요. 주어가 3인칭 단수, 곧 he, she, it이나 Tom처럼 나도 너도 아닌 한 사람이나 한 개이면 doesn't를 쓰고, 그 밖의 주어에는 don't를 써요. 그리고 don't와 doesn't 뒤에는 늘 동사원형을 써요. Kevin doesn't swim in the sea. 케빈은 바다에서 수영하지 않아요.",
+   "caption": "be동사·일반동사의 부정문"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① She doesn't watch TV.\n② Jane doesn't plays the piano.\n③ I am not tired.\n④ It isn't cold today.\n⑤ We don't have class today.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "③ I am not",
+       "④ It isn't"
+      ],
+      "strike": [],
+      "note": "be동사 부정문 ③④: I → am not, 3인칭 단수 It → isn't → 맞다"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "① She doesn't watch",
+       "⑤ We don't have"
+      ],
+      "strike": [],
+      "note": "일반동사 부정문 ①⑤: 3인칭 단수 She → doesn't + watch, 여럿인 We → don't + have → 맞다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② Jane doesn't"
+      ],
+      "strike": [
+       "plays"
+      ],
+      "note": "② 3인칭 단수 Jane → doesn't는 맞지만 뒤에 plays ✗ → play. 틀린 문장은 ②"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, be동사 부정문인 3번과 4번을 보면, 주어 I에는 am not, 3인칭 단수 It에는 isn't를 써서 둘 다 맞아요. 둘째, 일반동사 부정문인 1번과 5번은 3인칭 단수 She에 doesn't, 여럿인 We에 don't를 쓰고, 뒤에 동사원형 watch와 have를 써서 맞아요. 셋째, 2번은 3인칭 단수 Jane에 doesn't를 쓴 것은 맞지만, 뒤에 동사원형이 아닌 plays를 썼으니 play로 고쳐야 해요. Jane doesn't play the piano. 제인은 피아노를 치지 않아요. 따라서 틀린 문장은 2번이에요.",
+   "caption": "be동사 → 일반동사 → ②"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① She doesn't watch TV.  ✗  3인칭 단수 She에 doesn't + 동사원형 watch → 맞는 문장\n② Jane doesn't plays the piano.  ✓  doesn't 뒤는 동사원형 → plays를 play로 (틀린 문장)\n③ I am not tired.  ✗  주어 I에 am not → 맞는 문장\n④ It isn't cold today.  ✗  3인칭 단수 It에 isn't → 맞는 문장\n⑤ We don't have class today.  ✗  여럿인 We에 don't + 동사원형 have → 맞는 문장",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① She doesn't watch TV.  ✗  3인칭 단수 She에 doesn't + 동사원형 watch → 맞는 문장",
+     "② Jane doesn't plays the piano.  ✓  doesn't 뒤는 동사원형 → plays를 play로 (틀린 문장)",
+     "③ I am not tired.  ✗  주어 I에 am not → 맞는 문장",
+     "④ It isn't cold today.  ✗  3인칭 단수 It에 isn't → 맞는 문장",
+     "⑤ We don't have class today.  ✗  여럿인 We에 don't + 동사원형 have → 맞는 문장"
+    ]
+   },
+   "narration": "정답은 2번이에요. Jane은 3인칭 단수라 doesn't는 맞지만, doesn't 뒤에는 plays가 아니라 동사원형 play를 써야 해요. 1번 She도 3인칭 단수라 watches를 써야 한다고 생각하기 쉽지만, doesn't 뒤라서 동사원형 watch가 맞아요. 5번은 여럿인 We에 don't를 쓰고 뒤에 동사원형 have를 써서 맞아요. 3번은 주어 I에 am not을 써서 맞아요.",
+   "caption": "정답 ② plays → play"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② Jane doesn't plays the piano.\n\nbe동사 뒤에 not · 3인칭 단수는 doesn't, 그 밖은 don't · 그 뒤에는 늘 동사원형",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② Jane doesn't plays the piano.",
+     "be동사 뒤에 not · 3인칭 단수는 doesn't, 그 밖은 don't · 그 뒤에는 늘 동사원형"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 주어가 3인칭 단수여도 doesn't 뒤에는 s나 es가 붙지 않은 동사원형을 써요.",
+   "caption": "doesn't 뒤에는 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "She doesn't watch TV.",
+   "Jane doesn't plays the piano.",
+   "I am not tired.",
+   "It isn't cold today.",
+   "We don't have class today."
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: be동사 부정은 am not, isn't, aren't로, 일반동사 현재 부정은 3인칭 단수 주어에 doesn't + 동사원형, 그 밖에는 don't + 동사원형으로 쓴다.\n풀이 순서: ① be동사 부정문은 주어와 be동사가 맞는지 본다. → ② 일반동사 부정문은 don't/doesn't가 주어와 맞는지, 뒤가 동사원형인지 본다. → ③ 선택지 ②는 doesn't 뒤에 plays를 썼다. play로 고친다. 정답은 ②.\n문장별 판정:\n정답 판단: doesn't 뒤에는 동사원형 play를 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.\n② [정답] doesn't 뒤에는 동사원형 play를 써야 하므로 정답이다.\n③ [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.\n④ [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.\n⑤ [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다."
+ }
+}

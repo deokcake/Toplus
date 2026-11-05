@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-24T01:24:01.284Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "This is the bag <u>that</u> was stolen.",
+      "1": "The reason is <u>that</u> I was sick.",
+      "2": "It is important <u>that</u> we save water.",
+      "3": "The book <u>that</u> I read last week was boring.",
+      "4": "There is a rumor <u>that</u> the store will close."
+    },
+    "expl": "핵심 규칙: 목적격 관계대명사 that은 생략할 수 있다. 주격 관계대명사 that, 문장 맨 앞 주어절의 That, 진주어·보어·동격절을 이끄는 that은 생략하지 않는다.\n풀이 순서: ① 밑줄 친 that 뒤의 절이 완전한지 본다. 완전하면 접속사, 주어나 목적어가 빠져 있으면 관계대명사다. → ② 관계대명사라면 that 뒤에 ‘주어 + 동사’가 바로 오는지 본다. 그렇다면 목적격이라 생략할 수 있다. 동사가 바로 오면 주격이라 생략할 수 없다. → ③ 선택지 ④만 목적격 관계대명사다(The book (that) I read).\n문장별 판정:\n정답 판단: 목적격 관계대명사: 관계절 동사의 목적어 역할을 하고, 생략할 수 있으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 주격 관계대명사: 관계절의 주어 역할을 하고, 생략할 수 없으므로 오답이다.\n② [오답] be동사 뒤 보어절을 이끄는 접속사라 생략하지 않으므로 오답이다.\n③ [오답] 진주어절을 이끄는 접속사라 생략하지 않으므로 오답이다.\n④ [정답] 목적격 관계대명사: 관계절 동사의 목적어 역할을 하고, 생략할 수 있으므로 정답이다.\n⑤ [오답] 앞 명사의 내용을 설명하는 동격절 접속사라 생략할 수 없으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 문장 중 밑줄 친 that을 생략할 수 있는 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T01:23:46.351Z"
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-24T01:24:01.284Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:24:01.284Z",
+      "what": "확인 완료"
+    }
+  }
+}

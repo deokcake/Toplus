@@ -1,0 +1,172 @@
+{
+ "key": "4-19",
+ "type": "A",
+ "grade": 4,
+ "chapter": "CH 2 대명사",
+ "title": "짝을 이루는 물건을 받는 대명사",
+ "total_sec": 131,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "4급 · CH 2 대명사 · 19번\n\n이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 2 대명사 · 19번",
+     "이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 2, 19번. 이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요.",
+   "caption": "짝을 이루는 물건과 대명사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?\n\nI have ①<u>some</u> ②<u>scissors</u> in ③<u>my</u> desk. ④<u>It</u> are very ⑤<u>sharp</u>.\n\n① some\n② scissors\n③ my\n④ It\n⑤ sharp",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?",
+     "I have ①<u>some</u> ②<u>scissors</u> in ③<u>my</u> desk. ④<u>It</u> are very ⑤<u>sharp</u>.",
+     "① some",
+     "② scissors",
+     "③ my",
+     "④ It",
+     "⑤ sharp"
+    ]
+   },
+   "narration": "다음 문장의 밑줄 친 부분 중 어법상 틀린 것을 고르세요. I have some scissors in my desk. It are very sharp. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\n대명사는 가리키는 명사의 수에 맞춰요.\n단수인 물건 → it   복수 → they(주어), them(목적어)\nscissors, glasses(안경), pants: 두 부분이 한 벌인 물건 → 늘 복수형, 복수 취급\n예) My glasses are new. They are blue. (내 안경은 새것이에요. 그 안경은 파란색이에요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "대명사는 가리키는 명사의 수에 맞춰요.",
+     "단수인 물건 → it   복수 → they(주어), them(목적어)",
+     "scissors, glasses(안경), pants: 두 부분이 한 벌인 물건 → 늘 복수형, 복수 취급",
+     "예) My glasses are new. They are blue. (내 안경은 새것이에요. 그 안경은 파란색이에요.)"
+    ]
+   },
+   "narration": "대명사는 가리키는 명사의 수에 맞춰, 단수인 물건은 it, 복수는 they나 them으로 받아요. 가위 scissors, 안경 glasses, 바지 pants는 두 부분이 한 벌인 물건이라, 하나여도 늘 복수형으로 쓰고 복수 취급해요. 그래서 they로 받고, be동사는 are를 써요. 예를 들어 My glasses are new, 내 안경은 새것이에요. They are blue, 그 안경은 파란색이에요.",
+   "caption": "두 부분이 한 벌 → 복수 취급"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 30,
+   "screen": {
+    "text": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?\n\nI have ①<u>some</u> ②<u>scissors</u> in ③<u>my</u> desk. ④<u>It</u> are very ⑤<u>sharp</u>.\n\n① some\n② scissors\n③ my\n④ It\n⑤ sharp",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "④<u>It</u> are"
+      ],
+      "strike": [],
+      "note": "뒤 문장의 주어 It과 동사 are → 수가 맞지 않는다"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "②<u>scissors</u>"
+      ],
+      "strike": [],
+      "note": "It이 가리키는 것 = 앞 문장의 scissors(가위) → 복수 취급 → They are가 되어야 한다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ It"
+      ],
+      "strike": [],
+      "note": "틀린 것은 It → They로 고친다: They are very sharp."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 뒤 문장의 주어 It과 동사 are를 맞춰 보면, It에는 is를 쓰니 수가 맞지 않아요. 둘째, 앞 문장에서 가리키는 명사를 찾으면 책상 안의 가위, scissors예요. scissors는 복수 취급하니, are는 맞고 They로 받아야 해요. 셋째, 그래서 틀린 것은 4번 It이에요. They are very sharp, 그 가위는 아주 날카로워요.",
+   "caption": "It are → scissors → They"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① some  ✗  복수형 scissors 앞에 some을 쓸 수 있어요\n② scissors  ✗  가위는 두 날이 한 벌이라 늘 복수형 scissors\n③ my  ✗  명사 desk 앞의 소유격 my(나의)\n④ It  ✓  복수 취급하는 scissors → They로 고쳐요\n⑤ sharp  ✗  be동사 뒤 형용사 sharp(날카로운)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① some  ✗  복수형 scissors 앞에 some을 쓸 수 있어요",
+     "② scissors  ✗  가위는 두 날이 한 벌이라 늘 복수형 scissors",
+     "③ my  ✗  명사 desk 앞의 소유격 my(나의)",
+     "④ It  ✓  복수 취급하는 scissors → They로 고쳐요",
+     "⑤ sharp  ✗  be동사 뒤 형용사 sharp(날카로운)"
+    ]
+   },
+   "narration": "정답은 4번 It이에요. 2번 scissors를 단수로 고쳐야 한다고 생각하기 쉽지만, 가위는 하나여도 늘 복수형 scissors로 써요. 1번 some은 복수형 scissors 앞에 쓸 수 있어요. 5번 sharp는 날카로운이라는 뜻의 형용사로, be동사 뒤에 바르게 쓰였어요.",
+   "caption": "정답 ④ It → They"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ④ It\n\nscissors, glasses, pants → 복수 취급 → they, them으로 받기",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ It",
+     "scissors, glasses, pants → 복수 취급 → they, them으로 받기"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, scissors처럼 두 부분이 한 벌인 물건은 복수 취급해서 they나 them으로 받아요.",
+   "caption": "scissors → they, them"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?",
+  "passage": "I have ①<u>some</u> ②<u>scissors</u> in ③<u>my</u> desk. ④<u>It</u> are very ⑤<u>sharp</u>.",
+  "c": [
+   "some",
+   "scissors",
+   "my",
+   "It",
+   "sharp"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: scissors, glasses, pants, shoes처럼 짝을 이루는 물건은 복수 취급해 They(them)로 받는다. news는 단수 취급해 It으로 받는다.\n풀이 순서: ① 뒤 문장의 주어와 동사를 맞춰 본다: It are는 수가 맞지 않는다. → ② 앞 문장에서 가리키는 명사를 찾아 어느 쪽이 틀렸는지 정한다: scissors는 복수 취급하므로 They are가 되어야 한다. 틀린 것은 It이다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: scissors는 복수 취급하므로 It이 아니라 They로 받아야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 복수 취급하는 scissors 앞에 some을 쓸 수 있으므로 오답이다.\n② [오답] 가위는 짝을 이루는 물건이라 복수형 scissors가 맞으므로 오답이다.\n③ [오답] 명사 desk 앞에 소유격 my가 맞으므로 오답이다.\n④ [정답] scissors는 복수 취급하므로 It이 아니라 They로 받아야 하므로 정답이다.\n⑤ [오답] be동사 뒤 보어 자리에 형용사 sharp가 맞으므로 오답이다."
+ }
+}

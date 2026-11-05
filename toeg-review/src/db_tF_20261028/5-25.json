@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T10:47:44.685Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Tom didn't drank the juice.",
+      "1": "Did the kids slept well?",
+      "2": "Does your mom worked here?",
+      "3": "Did he gave you a present?",
+      "4": "I didn't feel well yesterday."
+    },
+    "expl": "핵심 규칙: Did/didn't와 Does/doesn't 뒤에는 동사원형을 쓴다. 과거의 일을 긍정문으로 말할 때만 동사의 과거형을 쓴다.\n풀이 순서: ① Did, didn't, Does가 있는 문장은 뒤의 동사가 원형인지 본다. → ② 조동사가 없는 문장은 과거형이 바른지 본다. → ③ 선택지 ⑤만 didn't 뒤에 동사원형 feel을 바르게 썼다. 정답은 ⑤.\n문장별 판정:\n정답 판단: didn't 뒤에 동사원형 feel을 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] didn't 뒤에는 동사원형 drink를 써야 하므로 오답이다.\n② [오답] Did 뒤에는 동사원형 sleep을 써야 하므로 오답이다.\n③ [오답] Does 뒤에는 동사원형 work를 써야 하므로 오답이다.\n④ [오답] Did 뒤에는 동사원형 give를 써야 하므로 오답이다.\n⑤ [정답] didn't 뒤에 동사원형 feel을 바르게 썼으므로 정답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:47:42.861Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:47:44.685Z",
+      "what": "확인 완료"
+    }
+  }
+}

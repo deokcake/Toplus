@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T02:24:14.177Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Mina sent me a card.",
+      "1": "We swam in the lake.",
+      "2": "Dad cooked dinner for us.",
+      "3": "The dog runned to the door.",
+      "4": "I lost my key yesterday."
+    },
+    "expl": "핵심 규칙: 과거의 일은 동사의 과거형으로 쓴다. be동사 과거형은 I·3인칭 단수에 was, you·복수에 were를 쓰고, 일반동사는 -ed를 붙이거나 불규칙 과거형(go → went, buy → bought)을 쓴다.\n풀이 순서: ① 문장마다 동사의 과거형이 바른지 본다. → ② 불규칙 동사에 -ed를 붙인 것을 찾는다. run의 과거형은 ran이다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: run의 과거형은 불규칙형 ran이므로 정답은 ④이다.\n선택지 분석:\n① [오답] send의 과거형 sent를 바르게 썼으므로 오답이다.\n② [오답] swim의 과거형 swam을 바르게 썼으므로 오답이다.\n③ [오답] cook의 과거형 cooked를 바르게 썼으므로 오답이다.\n④ [정답] run의 과거형은 불규칙형 ran이므로 정답이다.\n⑤ [오답] lose의 과거형 lost를 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:24:12.049Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:24:14.177Z",
+      "what": "확인 완료"
+    }
+  }
+}

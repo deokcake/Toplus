@@ -1,0 +1,180 @@
+{
+ "key": "6-25",
+ "type": "E",
+ "grade": 6,
+ "chapter": "CH 3 be동사 과거",
+ "title": "the cake로 묻는 Was 의문문의 대답",
+ "total_sec": 126,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "6급 · CH 3 be동사 과거 · 25번 · E 유형\n\n이 문제는 주어가 the cake인 Was 의문문에 어법상 알맞은 대답을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 3 be동사 과거 · 25번 · E 유형",
+     "이 문제는 주어가 the cake인 Was 의문문에 어법상 알맞은 대답을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 3, 25번 E 유형. 이 문제는 주어가 the cake인 Was 의문문에 어법상 알맞은 대답을 고르는 문제예요.",
+   "caption": "the cake로 묻는 Was 의문문"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 질문에 대한 대답으로 어법상 가장 알맞은 것은?\n\nWas the cake good?\n\n① Yes, it is.\n② Yes, it were.\n③ Yes, it was.\n④ Yes, it does.\n⑤ Yes, they were.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 질문에 대한 대답으로 어법상 가장 알맞은 것은?",
+     "Was the cake good?",
+     "① Yes, it is.",
+     "② Yes, it were.",
+     "③ Yes, it was.",
+     "④ Yes, it does.",
+     "⑤ Yes, they were."
+    ]
+   },
+   "narration": "다음 질문에 대한 대답으로 어법상 가장 알맞은 것을 고르세요. Was the cake good? 그 케이크는 맛있었니? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\nWas/Were로 묻는 be동사 과거 의문문 → be동사 과거형으로 답해요. (do, does, did로 답하지 않아요)\nYes, 주어 + was/were. / No, 주어 + wasn't/weren't.\n명사 주어는 대명사로: 남자 한 명 he, 여자 한 명 she, 물건 하나 it, 둘 이상 they\nI, he, she, it → was / you, we, they → were\n예) Were the boxes heavy? No, they weren't. (그 상자들은 무거웠니? 아니, 안 무거웠어.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "Was/Were로 묻는 be동사 과거 의문문 → be동사 과거형으로 답해요. (do, does, did로 답하지 않아요)",
+     "Yes, 주어 + was/were. / No, 주어 + wasn't/weren't.",
+     "명사 주어는 대명사로: 남자 한 명 he, 여자 한 명 she, 물건 하나 it, 둘 이상 they",
+     "I, he, she, it → was / you, we, they → were",
+     "예) Were the boxes heavy? No, they weren't. (그 상자들은 무거웠니? 아니, 안 무거웠어.)"
+    ]
+   },
+   "narration": "Was나 Were로 물으면 be동사 과거형으로, Yes면 was나 were, No면 wasn't나 weren't로 답해요. 명사 주어는 대명사로 바꿔 물건 하나는 it, 둘 이상은 they로 받고, I, he, she, it에는 was, you, we, they에는 were를 써요. Were the boxes heavy? 그 상자들은 무거웠니? No, they weren't. 아니, 안 무거웠어.",
+   "caption": "Was/Were 의문문의 대답"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 29,
+   "screen": {
+    "text": "다음 질문에 대한 대답으로 어법상 가장 알맞은 것은?\n\nWas the cake good?\n\n① Yes, it is.\n② Yes, it were.\n③ Yes, it was.\n④ Yes, it does.\n⑤ Yes, they were.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "the cake"
+      ],
+      "strike": [
+       "⑤ Yes, they were."
+      ],
+      "note": "the cake = 물건 하나 → it. they로 답한 ⑤는 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "Was"
+      ],
+      "strike": [
+       "① Yes, it is.",
+       "④ Yes, it does."
+      ],
+      "note": "be동사 과거형 Was로 물었다 → 현재형 is(①), does(④)는 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ Yes, it was."
+      ],
+      "strike": [
+       "② Yes, it were."
+      ],
+      "note": "it에는 were가 아니라 was → ②도 지운다. 남는 것은 ③ → Yes, it was."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 질문의 주어 the cake는 물건 하나라서 it으로 받아요. 그래서 they로 답한 5번은 지워요. 둘째, be동사 과거형 Was로 물었으니, 현재형 is로 답한 1번과 does로 답한 4번도 지워요. 셋째, it에는 were가 아니라 was를 쓰니 2번도 지우면, 남는 것은 3번이에요. Yes, it was. 응, 맛있었어.",
+   "caption": "it → 과거형 → was"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 22,
+   "screen": {
+    "text": "① Yes, it is.  ✗  과거로 물었는데 현재형 is로 답했어요\n② Yes, it were.  ✗  it에는 were가 아니라 was\n③ Yes, it was.  ✓  the cake → it, it에는 was\n④ Yes, it does.  ✗  be동사 Was로 물었는데 does로 답했어요\n⑤ Yes, they were.  ✗  물건 하나인 the cake는 they가 아니라 it",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Yes, it is.  ✗  과거로 물었는데 현재형 is로 답했어요",
+     "② Yes, it were.  ✗  it에는 were가 아니라 was",
+     "③ Yes, it was.  ✓  the cake → it, it에는 was",
+     "④ Yes, it does.  ✗  be동사 Was로 물었는데 does로 답했어요",
+     "⑤ Yes, they were.  ✗  물건 하나인 the cake는 they가 아니라 it"
+    ]
+   },
+   "narration": "정답은 3번이에요. 1번 Yes, it is는 주어 it은 맞지만, 과거로 물었는데 현재형 is로 답해서 틀렸어요. 2번은 it에 were를 써서 틀렸어요. it에는 was를 써요. 4번은 be동사 Was로 물었는데 does로 답해서 틀렸어요.",
+   "caption": "정답 ③ Yes, it was."
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ③ Yes, it was.\n\nWas/Were 의문문 → 대명사 주어 + 그 주어에 맞는 was/were (the cake → it was)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ Yes, it was.",
+     "Was/Were 의문문 → 대명사 주어 + 그 주어에 맞는 was/were (the cake → it was)"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, Was나 Were로 물으면 질문의 주어를 대명사로 바꾸고, 그 대명사에 맞는 was나 were로 답해요.",
+   "caption": "대명사 주어 + was/were"
+  }
+ ],
+ "source": {
+  "stem": "다음 질문에 대한 대답으로 어법상 가장 알맞은 것은?",
+  "passage": "Was the cake good?",
+  "c": [
+   "Yes, it is.",
+   "Yes, it were.",
+   "Yes, it was.",
+   "Yes, it does.",
+   "Yes, they were."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: Was/Were 의문문에는 Yes, 주어 + was/were. / No, 주어 + wasn't/weren't.로 답한다. 대답의 주어는 질문의 주어를 대명사로 받고(the cookies → they, Jane → she), 시제도 과거로 맞춘다.\n풀이 순서: ① 질문의 주어를 대명사로 바꾼다: the cake → it. → ② 질문이 과거(Was/Were)이므로 대답도 was/were로 하고, 대명사에 맞춘다: it was. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: the cake를 it으로 받아 was로 바르게 답했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 과거 질문에 현재형 is로 답했으므로 오답이다.\n② [오답] 단수 주어 it에는 was를 써야 하므로 오답이다.\n③ [정답] the cake를 it으로 받아 was로 바르게 답했으므로 정답이다.\n④ [오답] be동사 과거 질문에 does로 답했으므로 오답이다.\n⑤ [오답] the cake는 they가 아니라 it으로 받아야 하므로 오답이다."
+ }
+}

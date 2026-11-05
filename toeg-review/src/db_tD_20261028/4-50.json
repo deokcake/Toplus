@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T07:22:11.437Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A), (B), (C)",
+      "1": "(B), (C), (D)",
+      "2": "(A), (D), (E)",
+      "3": "(B), (D), (E)",
+      "4": "(C), (D), (E)"
+    },
+    "expl": "핵심 규칙: will + 동사원형(부정 won't), be going to + 동사원형(부정 be not going to, 의문 Be동사 + 주어 + going to)으로 쓴다. be동사를 빼거나 -ing·-s형을 쓰면 틀린다.\n풀이 순서: ① be going to 문장은 be동사가 있는지, not이 be동사 바로 뒤에 있는지, to 뒤가 동사원형인지 본다. will 문장은 will + 동사원형인지 본다. → ② (A) will playing(play), (B) Are Tom(Is Tom)이 틀렸다. → ③ 옳은 문장만 묶은 (C), (D), (E)가 정답이다.\n문장별 판정:\n(A) X. will 뒤에는 동사원형 play를 쓴다.\n(B) X. 단수 주어 Tom에는 Is를 쓴다.\n(C) O. be going to 의문문이다.\n(D) O. won't + 동사원형이다.\n(E) O. be going to + 동사원형이다.\n정답 판단: 어법상 옳은 문장은 (C), (D), (E)이다.\n선택지 분석:\n① [오답] (A), (B)는 옳은 문장이 아니고, 옳은 문장 (D), (E)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (B)는 옳은 문장이 아니고, 옳은 문장 (E)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (A)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (B)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 옳은 문장 (C), (D), (E)를 빠짐없이 골랐으므로 정답이다.",
+    "passage": "<보기>\n(A) They will playing soccer after school.\n(B) Are Tom going to study in the library?\n(C) Is she going to cook dinner tonight?\n(D) We won't leave before the game ends.\n(E) I am going to buy it next month.",
+    "stem": "다음 <보기>의 문장 중 어법상 옳은 것만 묶은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:22:04.066Z"
+  },
+  "tab": "el3qe2ii",
+  "updatedAt": "2026-10-27T07:22:11.437Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:22:11.437Z",
+      "what": "확인 완료"
+    }
+  }
+}

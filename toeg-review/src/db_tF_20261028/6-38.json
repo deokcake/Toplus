@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:16:11.475Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Does your brother drive a car?",
+      "1": "Do Tom have a bike?",
+      "2": "Does the shop opens at nine?",
+      "3": "Are they go to the gym?",
+      "4": "Do you knows her?"
+    },
+    "expl": "핵심 규칙: 일반동사 현재형은 3인칭 단수 주어에 -s/-es를 붙이고, 그 밖의 주어에는 동사원형을 쓴다. 의문문은 Do/Does + 주어 + 동사원형 ~?, 부정문은 don't/doesn't + 동사원형으로 쓴다.\n풀이 순서: ① 맨 앞의 Do/Does가 주어와 맞는지 본다(3인칭 단수 → Does). → ② 뒤의 동사가 원형인지 본다. Is/Are로 시작한 문장은 일반동사 의문문이 될 수 없다. → ③ 선택지 ①만 Does + your brother + drive로 두 가지가 모두 맞는다. 정답은 ①.\n문장별 판정:\n정답 판단: 3인칭 단수 주어에 Does + 동사원형 drive를 바르게 썼으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 3인칭 단수 주어에 Does + 동사원형 drive를 바르게 썼으므로 정답이다.\n② [오답] 3인칭 단수 주어 Tom에는 Does를 써야 하므로 오답이다.\n③ [오답] Does 뒤에는 동사원형 open을 써야 하므로 오답이다.\n④ [오답] 일반동사 go의 의문문에는 be동사 Are가 아니라 Do를 써야 하므로 오답이다.\n⑤ [오답] Do 뒤에는 동사원형 know를 써야 하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 어법상 옳은 문장을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:16:09.428Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:16:11.475Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:16:11.475Z",
+      "what": "확인 완료"
+    }
+  }
+}

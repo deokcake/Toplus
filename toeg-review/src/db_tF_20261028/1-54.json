@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T06:44:25.587Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "He recommended visiting the old palace in the city.",
+      "1": "They need to leave early to catch the first train.",
+      "2": "Mina imagined living in Paris with her family.",
+      "3": "We finished to clean the room before dinner.",
+      "4": "I learned to ride a bike when I was seven."
+    },
+    "expl": "핵심 규칙: avoid, postpone, consider, deny, finish, enjoy, mind, give up, quit, practice, admit, recommend, imagine 등은 동명사만 목적어로 쓰고, want, hope, decide, plan, promise, agree, need, learn 등은 to부정사를 목적어로 쓴다. continue, try는 둘 다 쓸 수 있다.\n풀이 순서: ① 문장마다 동사와 그 뒤 목적어의 형태(to부정사인지 -ing인지)를 짝짓는다. → ② recommend, imagine 뒤의 동명사와 need, learn 뒤의 to부정사는 모두 옳다. → ③ 선택지 ④는 finish 뒤에 to부정사를 썼으므로 동명사(cleaning)로 고쳐야 한다.\n문장별 판정:\n정답 판단: 동사(finish)는 동명사만 목적어로 쓰므로 to부정사를 쓸 수 없다. finished cleaning로 고쳐야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 동사(recommend)는 동명사를 목적어로 쓰므로 -ing형을 바르게 썼다. 오답이다.\n② [오답] 동사(need)는 to부정사를 목적어로 쓰므로 to부정사를 바르게 썼다. 오답이다.\n③ [오답] 동사(imagine)는 동명사를 목적어로 쓰므로 -ing형을 바르게 썼다. 오답이다.\n④ [정답] 동사(finish)는 동명사만 목적어로 쓰므로 to부정사를 쓸 수 없다. finished cleaning로 고쳐야 하므로 정답이다.\n⑤ [오답] 동사(learn)는 to부정사를 목적어로 쓰므로 to부정사를 바르게 썼다. 오답이다.",
+    "passage": "",
+    "stem": "다음 중 어법상 어색한 것을 고르시오."
+  },
+  "tab": "ij7ic6nx",
+  "updatedAt": "2026-10-26T06:44:25.587Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:44:25.587Z",
+      "what": "확인 완료"
+    }
+  }
+}

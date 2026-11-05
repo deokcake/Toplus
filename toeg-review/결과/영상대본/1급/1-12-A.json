@@ -1,0 +1,181 @@
+{
+ "key": "1-12",
+ "type": "A",
+ "grade": 1,
+ "chapter": "CH 2 시제",
+ "title": "끝난 과거 시점과 현재완료",
+ "total_sec": 138,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "1급 · CH 2 시제 · 12번\n\n이 문제는 때를 나타내는 말과 주어를 보고, 두 빈칸에 알맞은 동사 형태를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 2 시제 · 12번",
+     "이 문제는 때를 나타내는 말과 주어를 보고, 두 빈칸에 알맞은 동사 형태를 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 2, 12번. 이 문제는 때를 나타내는 말과 주어를 보고, 두 빈칸에 알맞은 동사 형태를 고르는 문제예요.",
+   "caption": "과거형과 현재완료 짝짓기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 21,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.\n\nShe _____ her keys yesterday morning.\nThe scientists _____ a groundbreaking discovery recently.\n\n① lost — have made\n② loses — make\n③ lost — make\n④ loses — have made\n⑤ have lost — have made",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+     "She _____ her keys yesterday morning.",
+     "The scientists _____ a groundbreaking discovery recently.",
+     "① lost — have made",
+     "② loses — make",
+     "③ lost — make",
+     "④ loses — have made",
+     "⑤ have lost — have made"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오. She 빈칸 her keys yesterday morning. The scientists 빈칸 a groundbreaking discovery recently. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n끝난 과거 시점(yesterday, last week, two days ago) → 과거형 (현재완료 ✗)\n현재완료 = have/has + 과거분사: 과거의 일이 지금과 이어질 때\nhas는 3인칭 단수 주어에만, 그 밖의 주어(I, you, 복수)는 have\nrecently, lately로 최근부터 지금까지의 일을 말할 때 → 현재완료 (recently는 과거형과도 써요)\n예) We have learned a lot recently. (우리는 최근에 많은 것을 배웠어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "끝난 과거 시점(yesterday, last week, two days ago) → 과거형 (현재완료 ✗)",
+     "현재완료 = have/has + 과거분사: 과거의 일이 지금과 이어질 때",
+     "has는 3인칭 단수 주어에만, 그 밖의 주어(I, you, 복수)는 have",
+     "recently, lately로 최근부터 지금까지의 일을 말할 때 → 현재완료 (recently는 과거형과도 써요)",
+     "예) We have learned a lot recently. (우리는 최근에 많은 것을 배웠어요.)"
+    ]
+   },
+   "narration": "yesterday, last week 같은 끝난 과거 시점에는 과거형을 쓰고, 현재완료는 쓰지 않아요. 현재완료는 have나 has 뒤에 과거분사를 써서 과거의 일이 지금과 이어짐을 나타내고, has는 3인칭 단수 주어에만 써요. recently, lately로 최근부터 지금까지의 일을 말할 때도 현재완료를 써요. 예를 들어 We have learned a lot recently. 우리는 최근에 많은 것을 배웠어요.",
+   "caption": "끝난 과거 → 과거형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 39,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.\n\nShe _____ her keys yesterday morning.\nThe scientists _____ a groundbreaking discovery recently.\n\n① lost — have made\n② loses — make\n③ lost — make\n④ loses — have made\n⑤ have lost — have made",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "yesterday morning"
+      ],
+      "strike": [
+       "② loses — make",
+       "④ loses — have made",
+       "⑤ have lost — have made"
+      ],
+      "note": "첫 문장 yesterday morning = 끝난 과거 시점 → 과거형 lost. 현재형 loses(②④), 현재완료 have lost(⑤)는 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "recently"
+      ],
+      "strike": [
+       "③ lost — make"
+      ],
+      "note": "둘째 문장 recently + 최근에 이뤄 낸 발견 → 현재형 make ✗, 현재완료"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "The scientists",
+       "① lost — have made"
+      ],
+      "strike": [],
+      "note": "The scientists는 복수 → have made. 남는 것 ① lost — have made"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 첫 문장의 yesterday morning, 즉 어제 아침은 끝난 과거 시점이라 과거형 lost를 써요. 현재형 loses인 2번, 4번과 현재완료 have lost인 5번을 지워요. 둘째, 둘째 문장은 recently와 함께 최근에 이뤄 낸 발견을 말하니, 현재형 make가 아니라 현재완료를 써야 해서 3번을 지워요. 셋째, 주어 The scientists는 복수라서 have made가 맞고, 남는 것은 1번이에요. The scientists have made a groundbreaking discovery recently. 그 과학자들은 최근에 획기적인 발견을 했어요.",
+   "caption": "yesterday → recently → ①"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① lost — have made  ✓  yesterday morning엔 과거형, 최근의 성과엔 have made\n② loses — make  ✗  어제 일에 현재형 loses, 최근 성과에도 현재형 make\n③ lost — make  ✗  lost는 맞지만 현재형 make로는 최근에 해낸 일을 못 나타내요\n④ loses — have made  ✗  have made는 맞지만 어제 아침 일에 현재형 loses\n⑤ have lost — have made  ✗  yesterday morning과 현재완료는 함께 못 써요 (She에는 have도 ✗)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✓",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① lost — have made  ✓  yesterday morning엔 과거형, 최근의 성과엔 have made",
+     "② loses — make  ✗  어제 일에 현재형 loses, 최근 성과에도 현재형 make",
+     "③ lost — make  ✗  lost는 맞지만 현재형 make로는 최근에 해낸 일을 못 나타내요",
+     "④ loses — have made  ✗  have made는 맞지만 어제 아침 일에 현재형 loses",
+     "⑤ have lost — have made  ✗  yesterday morning과 현재완료는 함께 못 써요 (She에는 have도 ✗)"
+    ]
+   },
+   "narration": "정답은 1번 lost, have made예요. 3번은 lost는 맞지만, 현재형 make로는 최근에 이뤄 낸 발견을 나타낼 수 없어요. 5번 have lost는 yesterday morning 같은 끝난 과거 시점과 함께 쓸 수 없고, 주어 She에는 have도 쓰지 않아요. 4번은 have made는 맞지만, 어제 아침 일에 현재형 loses를 써서 틀렸어요.",
+   "caption": "정답 ① lost — have made"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ① lost — have made\n\n끝난 과거 시점 → 과거형 / 최근부터 지금까지의 일 → have/has + 과거분사",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ① lost — have made",
+     "끝난 과거 시점 → 과거형 / 최근부터 지금까지의 일 → have/has + 과거분사"
+    ]
+   },
+   "narration": "정답은 1번이에요. 기억할 것, 끝난 과거 시점은 과거형, 최근부터 지금까지의 일은 현재완료예요.",
+   "caption": "끝난 과거는 과거형"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+  "passage": "She _____ her keys yesterday morning.\nThe scientists _____ a groundbreaking discovery recently.",
+  "c": [
+   "lost — have made",
+   "loses — make",
+   "lost — make",
+   "loses — have made",
+   "have lost — have made"
+  ],
+  "ans": 1,
+  "expl": "핵심 규칙: yesterday처럼 끝난 과거 시점을 나타내는 말이 있으면 과거시제를 쓰고, recently·lately처럼 최근부터 지금까지를 나타내는 말과는 현재완료(have/has + 과거분사)를 쓴다.\n풀이 순서: ① 첫 문장에는 끝난 과거 시점(yesterday morning)이 있으므로 과거형 lost를 쓴다. 현재형 loses와 현재완료 have lost를 지운다. → ② 둘째 문장에는 최근부터 지금까지를 나타내는 recently가 있으므로 현재형 make가 아니라 현재완료 have made를 쓴다. → ③ 정답은 lost — have made.\n문장별 판정:\n정답 판단: yesterday morning에는 과거형 lost, recently에는 현재완료 have made가 맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] yesterday morning에는 과거형 lost, recently에는 현재완료 have made가 맞으므로 정답이다.\n② [오답] yesterday morning과 현재형 loses가 맞지 않으므로 오답이다.\n③ [오답] recently와 함께 최근의 성과를 나타내려면 make가 아니라 have made를 써야 하므로 오답이다.\n④ [오답] yesterday morning과 현재형 loses가 맞지 않으므로 오답이다.\n⑤ [오답] 주어 She에 have lost를 쓸 수 없고, yesterday morning과 현재완료도 함께 쓰지 않으므로 오답이다."
+ }
+}

@@ -1,0 +1,184 @@
+{
+ "key": "7-43",
+ "type": "F",
+ "grade": 7,
+ "chapter": "CH 5 지시 대명사",
+ "title": "they로 답하는 질문 고르기",
+ "total_sec": 145,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "7급 · CH 5 지시 대명사 · 43번 · F 유형\n\n이 문제는 대답의 주어 they를 보고, 그 대답에 알맞은 질문을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 5 지시 대명사 · 43번 · F 유형",
+     "이 문제는 대답의 주어 they를 보고, 그 대답에 알맞은 질문을 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 5, 43번 F 유형. 이 문제는 대답의 주어 they를 보고, 그 대답에 알맞은 질문을 고르는 문제예요.",
+   "caption": "대답의 they에 맞는 질문"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 23,
+   "screen": {
+    "text": "다음 대화의 빈칸에 알맞은 것을 고르시오.\n\nA: _______________________\nB: No, they're not.\n\n① Is this your eraser?\n② Are these my pencils?\n③ Is she your sister?\n④ Are you ready?\n⑤ Is that a cloud?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 대화의 빈칸에 알맞은 것을 고르시오.",
+     "A: _______________________",
+     "B: No, they're not.",
+     "① Is this your eraser?",
+     "② Are these my pencils?",
+     "③ Is she your sister?",
+     "④ Are you ready?",
+     "⑤ Is that a cloud?"
+    ]
+   },
+   "narration": "다음 대화의 빈칸에 알맞은 것을 고르세요. A가 빈칸으로 묻고, B가 No, they're not, 아니, 그렇지 않아, 하고 답해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n대답에서는 질문의 주어를 알맞은 대명사로 받아요.\nthese, those, 복수 명사 → they\nthis, that(사람이 아닌 것 하나), it → it\nyou → I 또는 we,  she → she\n예) Are these your gloves? — Yes, they are. (이것들은 네 장갑이니? 응, 그래.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "대답에서는 질문의 주어를 알맞은 대명사로 받아요.",
+     "these, those, 복수 명사 → they",
+     "this, that(사람이 아닌 것 하나), it → it",
+     "you → I 또는 we,  she → she",
+     "예) Are these your gloves? — Yes, they are. (이것들은 네 장갑이니? 응, 그래.)"
+    ]
+   },
+   "narration": "대답에서는 질문의 주어를 알맞은 대명사로 받아요. 질문의 주어가 these, those이거나 복수 명사이면 they로 답해요. this나 that이 사람이 아닌 것 하나를 가리키거나 주어가 it이면 it으로 답해요. 주어가 you이면 I나 we로, she이면 she로 답해요. 예를 들어 Are these your gloves? 이것들은 네 장갑이니? Yes, they are. 응, 그래.",
+   "caption": "질문의 주어를 대명사로 받아요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 42,
+   "screen": {
+    "text": "다음 대화의 빈칸에 알맞은 것을 고르시오.\n\nA: _______________________\nB: No, they're not.\n\n① Is this your eraser?\n② Are these my pencils?\n③ Is she your sister?\n④ Are you ready?\n⑤ Is that a cloud?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "No, they're not."
+      ],
+      "strike": [],
+      "note": "대답의 주어 they (they're = they are) → 질문은 여러 개를 물었다"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① Is this your eraser?",
+       "⑤ Is that a cloud?"
+      ],
+      "note": "this, that으로 하나를 물은 질문 → 대답은 it → 지운다"
+     },
+     {
+      "step": 3,
+      "highlight": [],
+      "strike": [
+       "③ Is she your sister?",
+       "④ Are you ready?"
+      ],
+      "note": "③ 주어 she → 대답은 she, ④ 주어 you → 대답은 I 또는 we → 지운다"
+     },
+     {
+      "step": 4,
+      "highlight": [
+       "② Are these my pencils?"
+      ],
+      "strike": [],
+      "note": "남는 것 ② → Are these my pencils? / No, they're not."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 대답의 they're는 they are를 줄인 말이에요. 주어가 they라서, 질문의 주어는 these나 those처럼 여러 개여야 해요. 둘째, 1번은 this, 5번은 that으로 사람이 아닌 것 하나를 물었어요. 그래서 it으로 답하니까 지워요. 셋째, 3번은 주어가 she라서 she로 답하고, 4번은 주어가 you라서 I나 we로 답해요. 둘 다 지워요. 넷째, 남는 것은 2번이에요. Are these my pencils? 이것들은 내 연필들이니? No, they're not. 아니, 그렇지 않아.",
+   "caption": "they → 여러 개 → these"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① Is this your eraser?  ✗  this(지우개 하나) → 대답은 it\n② Are these my pencils?  ✓  these(연필 여러 자루) → 대답은 they\n③ Is she your sister?  ✗  she로 물으면 대답도 she\n④ Are you ready?  ✗  you로 물으면 대답은 I 또는 we\n⑤ Is that a cloud?  ✗  that(구름 하나) → 대답은 it",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Is this your eraser?  ✗  this(지우개 하나) → 대답은 it",
+     "② Are these my pencils?  ✓  these(연필 여러 자루) → 대답은 they",
+     "③ Is she your sister?  ✗  she로 물으면 대답도 she",
+     "④ Are you ready?  ✗  you로 물으면 대답은 I 또는 we",
+     "⑤ Is that a cloud?  ✗  that(구름 하나) → 대답은 it"
+    ]
+   },
+   "narration": "정답은 2번이에요. these로 연필 여러 자루를 물었으니 they로 답할 수 있어요. 4번은 Are로 시작해서 고르기 쉽지만, 주어가 you라서 I나 we로 답해요. 3번은 한 사람인 she를 물었으니 대답도 she로 해요.",
+   "caption": "정답 ② Are these my pencils?"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② Are these my pencils?\n\n질문의 주어가 these, those, 복수 명사 → 대답은 they",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② Are these my pencils?",
+     "질문의 주어가 these, those, 복수 명사 → 대답은 they"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 질문의 주어가 these, those이거나 복수 명사이면 대답은 they로 해요.",
+   "caption": "these·those·복수 명사 → they"
+  }
+ ],
+ "source": {
+  "stem": "다음 대화의 빈칸에 알맞은 것을 고르시오.",
+  "passage": "A: _______________________\nB: No, they're not.",
+  "c": [
+   "Is this your eraser?",
+   "Are these my pencils?",
+   "Is she your sister?",
+   "Are you ready?",
+   "Is that a cloud?"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 대답의 주어가 they이면 질문은 여러 개(these/those/복수 명사)를 물은 것이다. this/that/it(한 개)은 it으로, you는 I/we로, she는 she로 받는다.\n풀이 순서: ① 대답을 본다: No, they're not. 주어가 they다. → ② they로 받을 수 있는 것은 these/those로 물은 여러 개뿐이다. this/that/it이나 you, she로 물은 질문을 지운다. → ③ 남는 것은 Are these my pencils?\n문장별 판정:\n정답 판단: these를 they로 받아 대답할 수 있으므로 정답은 ②이다.\n선택지 분석:\n① [오답] this·that으로 한 개를 물으면 대답에서 it으로 받으므로 오답이다.\n② [정답] these를 they로 받아 대답할 수 있으므로 정답이다.\n③ [오답] she에 대한 질문에는 she로 답하므로 오답이다.\n④ [오답] you에 대한 질문에는 I나 we로 답하므로 오답이다.\n⑤ [오답] this·that으로 한 개를 물으면 대답에서 it으로 받으므로 오답이다."
+ }
+}

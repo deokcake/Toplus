@@ -1,0 +1,191 @@
+{
+ "key": "5-30",
+ "type": "E",
+ "grade": 5,
+ "chapter": "CH 3 be동사와 일반동사 과거",
+ "title": "do·did 문장의 동사원형과 불규칙 과거형",
+ "total_sec": 135,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "5급 · CH 3 be동사와 일반동사 과거 · 30번 · E 유형\n\n이 문제는 다섯 문장의 동사 형태를 따져 어법상 틀린 문장끼리 짝지은 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 3 be동사와 일반동사 과거 · 30번 · E 유형",
+     "이 문제는 다섯 문장의 동사 형태를 따져 어법상 틀린 문장끼리 짝지은 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 3, 30번 E 유형. 이 문제는 다섯 문장의 동사 형태를 따져 어법상 틀린 문장끼리 짝지은 것을 고르는 문제예요.",
+   "caption": "틀린 문장끼리 짝짓기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 18,
+   "screen": {
+    "text": "다음 중 어법상 틀린 문장으로만 짝지어진 것을 고르세요.\n\n(가) We stayed home last weekend.\n(나) Were you tired after the game?\n(다) I losed my umbrella yesterday.\n(라) She doesn't eat breakfast.\n(마) Did Tom fixed the bike?\n\n① (가), (다)\n② (다), (마)\n③ (나), (라)\n④ (가), (마)\n⑤ (라), (마)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 어법상 틀린 문장으로만 짝지어진 것을 고르세요.",
+     "(가) We stayed home last weekend.",
+     "(나) Were you tired after the game?",
+     "(다) I losed my umbrella yesterday.",
+     "(라) She doesn't eat breakfast.",
+     "(마) Did Tom fixed the bike?",
+     "① (가), (다)",
+     "② (다), (마)",
+     "③ (나), (라)",
+     "④ (가), (마)",
+     "⑤ (라), (마)"
+    ]
+   },
+   "narration": "다음 중 어법상 틀린 문장으로만 짝지어진 것을 고르세요. 다섯 문장을 하나씩 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\nDo, Does, Did로 묻는 문장, don't, doesn't, didn't 부정문 → 일반동사는 동사원형\nbe동사 과거형: I, 3인칭 단수 → was · you, 복수 → were\n일반동사 과거형: 대부분 + ed (play → played) · 불규칙 동사 (go → went)\n예) My friends were busy, so they didn't come. (내 친구들은 바빠서 오지 않았어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "Do, Does, Did로 묻는 문장, don't, doesn't, didn't 부정문 → 일반동사는 동사원형",
+     "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+     "일반동사 과거형: 대부분 + ed (play → played) · 불규칙 동사 (go → went)",
+     "예) My friends were busy, so they didn't come. (내 친구들은 바빠서 오지 않았어요.)"
+    ]
+   },
+   "narration": "Do, Does, Did로 묻거나 부정하는 문장에서는 일반동사를 동사원형으로 써요. 지난 일을 말할 때 be동사는 주어가 I나 3인칭 단수이면 was, you나 복수이면 were를 써요. 일반동사 과거형은 대부분 ed를 붙이고, go와 went 같은 불규칙 동사는 모양이 따로 있어요. My friends were busy, so they didn't come. 내 친구들은 바빠서 오지 않았어요.",
+   "caption": "동사원형 · was와 were · 과거형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 중 어법상 틀린 문장으로만 짝지어진 것을 고르세요.\n\n(가) We stayed home last weekend.\n(나) Were you tired after the game?\n(다) I losed my umbrella yesterday.\n(라) She doesn't eat breakfast.\n(마) Did Tom fixed the bike?\n\n① (가), (다)\n② (다), (마)\n③ (나), (라)\n④ (가), (마)\n⑤ (라), (마)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "doesn't eat",
+       "Did Tom fixed"
+      ],
+      "strike": [],
+      "note": "(라) doesn't eat ✓ / (마) Did … fixed ✗ → fix"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "Were you tired"
+      ],
+      "strike": [],
+      "note": "(나) 주어 you → Were ✓"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "We stayed",
+       "I losed"
+      ],
+      "strike": [],
+      "note": "(가) stayed ✓ / (다) losed ✗ → lose의 과거형은 불규칙 lost"
+     },
+     {
+      "step": 4,
+      "highlight": [
+       "② (다), (마)"
+      ],
+      "strike": [
+       "① (가), (다)",
+       "③ (나), (라)",
+       "④ (가), (마)",
+       "⑤ (라), (마)"
+      ],
+      "note": "틀린 문장 (다), (마) = ②"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, doesn't와 Did가 있는 문장을 봐요. 라 문장은 동사원형 eat을 써서 맞지만, 마 문장은 Did로 묻는데 fixed를 써서 틀렸고 동사원형 fix를 써야 해요. 둘째, 나 문장은 주어 you에 Were를 써서 맞아요. 셋째, 가 문장의 stayed는 맞지만, 다 문장은 불규칙 동사 lose의 과거형 lost 대신 losed를 써서 틀렸어요. 넷째, 틀린 문장인 다 문장과 마 문장을 짝지은 것은 2번이에요.",
+   "caption": "Did Tom fixed, I losed → ②"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① (가), (다)  ✗  (가) stay의 과거형 stayed로 맞는 문장\n② (다), (마)  ✓  I losed, Did Tom fixed 둘 다 틀린 문장\n③ (나), (라)  ✗  (나) you에 Were, (라) doesn't eat 모두 맞는 문장\n④ (가), (마)  ✗  (가)는 맞는 문장, 틀린 (다) I losed를 빠뜨림\n⑤ (라), (마)  ✗  (라) doesn't 뒤 동사원형 eat으로 맞는 문장",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① (가), (다)  ✗  (가) stay의 과거형 stayed로 맞는 문장",
+     "② (다), (마)  ✓  I losed, Did Tom fixed 둘 다 틀린 문장",
+     "③ (나), (라)  ✗  (나) you에 Were, (라) doesn't eat 모두 맞는 문장",
+     "④ (가), (마)  ✗  (가)는 맞는 문장, 틀린 (다) I losed를 빠뜨림",
+     "⑤ (라), (마)  ✗  (라) doesn't 뒤 동사원형 eat으로 맞는 문장"
+    ]
+   },
+   "narration": "정답은 2번이에요. 5번의 라 문장은 주어가 She라서 eats를 떠올리기 쉬워요. 하지만 doesn't 뒤에는 동사원형 eat을 써서 맞아요. 3번의 나 문장도 you는 한 사람에게 말할 때도 were를 쓰니까 맞는 문장이에요. 1번과 4번에 든 가 문장의 stayed도 stay의 바른 과거형이에요.",
+   "caption": "정답 ② (다), (마)"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 13,
+   "screen": {
+    "text": "정답 ② (다), (마)\n\nDo, Does, Did로 묻거나 부정 → 동사원형 · 불규칙 동사는 정해진 과거형 (lose → lost)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② (다), (마)",
+     "Do, Does, Did로 묻거나 부정 → 동사원형 · 불규칙 동사는 정해진 과거형 (lose → lost)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, do, does, did로 묻거나 부정할 때는 동사원형을 쓰고, 불규칙 동사는 정해진 과거형을 써요.",
+   "caption": "did 뒤 동사원형, 불규칙 과거형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 어법상 틀린 문장으로만 짝지어진 것을 고르세요.",
+  "passage": "(가) We stayed home last weekend.\n(나) Were you tired after the game?\n(다) I losed my umbrella yesterday.\n(라) She doesn't eat breakfast.\n(마) Did Tom fixed the bike?",
+  "c": [
+   "(가), (다)",
+   "(다), (마)",
+   "(나), (라)",
+   "(가), (마)",
+   "(라), (마)"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: Did/didn't/Does 뒤에는 동사원형을 쓰고, be동사는 주어에 맞춰 was/were를 쓰며 일반동사와 함께 쓰지 않는다. 불규칙 동사는 정해진 과거형을 쓴다.\n풀이 순서: ① did/didn't/Does가 있는 문장은 뒤가 동사원형인지 본다. → ② be동사 문장은 주어와 수가 맞는지, 일반동사와 겹쳐 쓰지 않았는지 본다. → ③ (다) losed(lost), (마) Did ~ fixed(fix)가 틀렸다. 정답은 (다), (마).\n문장별 판정:\n(가) O. stay의 과거형 stayed를 썼다.\n(나) O. 주어 you에 Were를 썼다.\n(다) X. lose의 과거형은 불규칙형 lost이다.\n(라) O. doesn't 뒤에 동사원형 eat을 썼다.\n(마) X. Did 뒤에는 동사원형 fix를 써야 한다.\n정답 판단: 어법상 틀린 문장은 (다), (마)이다.\n선택지 분석:\n① [오답] (가)는 틀린 문장이 아니고, 틀린 문장 (마)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 틀린 문장 (다), (마)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (나), (라)는 틀린 문장이 아니고, 틀린 문장 (다), (마)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (가)는 틀린 문장이 아니고, 틀린 문장 (다)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (라)는 틀린 문장이 아니고, 틀린 문장 (다)를 빠뜨렸다. 따라서 오답이다."
+ }
+}

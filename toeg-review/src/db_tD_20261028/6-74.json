@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T06:25:27.808Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Yes, he has.",
+      "1": "Yes, he is.",
+      "2": "No, he don't.",
+      "3": "Yes, he does.",
+      "4": "Yes, he must to."
+    },
+    "expl": "핵심 규칙: Do/Does ~ have to …? 질문에는 Yes, 주어 + do/does. / No, 주어 + don't/doesn't.로 짧게 답한다. has나 must to, be동사로 답하지 않는다.\n풀이 순서: ① 질문의 첫 낱말을 본다: Does. 대답도 같은 조동사로 한다. → ② 대답의 주어는 Tom → he. → ③ 정답은 Yes, he does.\n문장별 판정:\n정답 판단: Does 질문에 he does로 바르게 답했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] Does 질문에는 has가 아니라 does로 답하므로 오답이다.\n② [오답] have to 질문에는 be동사로 답하지 않으므로 오답이다.\n③ [오답] 3인칭 단수 주어 he에는 doesn't를 쓰므로 오답이다.\n④ [정답] Does 질문에 he does로 바르게 답했으므로 정답이다.\n⑤ [오답] must 뒤에는 to를 쓰지 않고 Does 질문에는 does로 답하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 질문에 대한 대답으로 어법상 가장 알맞은 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T06:25:25.936Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T06:25:27.808Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T06:25:27.808Z",
+      "what": "확인 완료"
+    }
+  }
+}

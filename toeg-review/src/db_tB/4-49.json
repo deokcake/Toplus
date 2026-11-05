@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-06T08:30:35.661Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "'Tom'이 3인칭 단수이므로 동사에 -ing를 붙이면 안 되기 때문이다.",
+      "1": "'tonight'은 아직 오지 않은 때이므로 -ing형을 쓸 수 없기 때문이다.",
+      "2": "'is' 뒤에는 반드시 동사원형이 와야 하기 때문이다.",
+      "3": "'be going to'의 'to'는 부정사를 만드는 to이므로 뒤에 동사원형이 와야 하기 때문이다.",
+      "4": "'study'는 '공부하다'의 뜻일 때 -ing형으로 쓸 수 없기 때문이다."
+    },
+    "expl": "핵심 규칙: be going to의 to는 부정사를 만드는 to이므로 뒤에 동사원형이 와서 미래의 계획을 나타낸다.\n풀이 순서: ① 밑줄 바로 앞을 본다: be going to의 to다. → ② ‘be going to + 동사원형’이 ‘~할 것이다’라는 미래 표현이다. to 뒤라서 studying이 아니라 study를 쓴다. → ③ 이 이유를 말한 것은 ④.\n문장별 판정:\n정답 판단: be going to의 to는 부정사의 to라 뒤에 동사원형이 오므로 바른 설명이라 정답은 ④이다.\n선택지 분석:\n① [오답] 주어의 인칭은 -ing형과 관계없으므로 오답이다.\n② [오답] 때를 나타내는 말이 아니라 to 때문에 동사원형을 쓰므로 오답이다.\n③ [오답] is 바로 뒤가 아니라 to 뒤의 동사를 고치는 것이므로 오답이다.\n④ [정답] be going to의 to는 부정사의 to라 뒤에 동사원형이 오므로 바른 설명이라 정답이다.\n⑤ [오답] study도 -ing형(studying)으로 쓸 수 있으므로 오답이다.",
+    "passage": "Tom is going to <u>studying</u> tonight.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T08:30:24.555Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-06T08:30:35.661Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T08:30:35.661Z",
+      "what": "확인 완료"
+    }
+  }
+}

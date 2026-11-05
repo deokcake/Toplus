@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:28:39.164Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Jane does mind to wash the dishes?",
+      "1": "Does mind Jane washing the dishes?",
+      "2": "Does Jane mind wash the dishes?",
+      "3": "Does Jane mind to wash the dishes?",
+      "4": "Does Jane mind washing the dishes?"
+    },
+    "expl": "핵심 규칙: mind, enjoy는 동명사를 목적어로 쓴다. 일반동사 의문문은 Do(Does) + 주어 + 동사원형 순서다.\n풀이 순서: ① 의문문의 뼈대를 세운다: Does + 주어 + mind. → ② mind 뒤의 동사(wash)는 동명사(washing)로 바꾼다. 발문이 형태를 바꿔도 된다고 한 까닭이다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: Does + 주어 + mind + 동명사로 바르게 배열했으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 의문문 어순(Do/Does + 주어)이 아니고 to부정사를 썼으므로 오답이다.\n② [오답] Does + 주어 + 동사 순서가 아니므로 오답이다.\n③ [오답] 동사원형(wash)을 동명사(washing)로 바꿔야 하므로 오답이다.\n④ [오답] mind는 to부정사가 아니라 동명사를 목적어로 쓰므로 오답이다.\n⑤ [정답] Does + 주어 + mind + 동명사로 바르게 배열했으므로 정답이다.",
+    "passage": "Jane은 설거지하는 것을 꺼리니?\n(Jane / mind / wash / the / dishes / does / ?)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오. (필요 시 단어의 형태를 바꿀 것)"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T04:42:33.264Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:43:03.938Z",
+      "text": "the dishes 를 각각 나누는 것이 더 좋음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:28:39.164Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:28:36.672Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:28:39.164Z",
+      "what": "확인 완료"
+    }
+  }
+}

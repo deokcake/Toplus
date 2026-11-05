@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-27T05:13:38.481Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "How we get there from the station do?",
+      "1": "How we do get there from the station?",
+      "2": "How do we get there from the station?",
+      "3": "How do get we there from the station?",
+      "4": "Do how we get there from the station?"
+    },
+    "expl": "핵심 규칙: 의문사가 있는 일반동사 의문문은 ‘의문사 + do/does/did + 주어 + 동사원형 ~?’ 순서다.\n풀이 순서: ① 의문사(How)를 맨 앞에 둔다. → ② 그 뒤는 ‘do + 주어(we) + 동사원형(get)’ 순서다. → ③ 이 순서인 ③을 고른다.\n문장별 판정:\n정답 판단: How + do + 주어 + 동사원형 순서로 바르게 배열했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] do가 문장 끝에 놓여 의문문 어순이 아니므로 오답이다.\n② [오답] do가 주어(we) 앞에 와야 하므로 오답이다.\n③ [정답] How + do + 주어 + 동사원형 순서로 바르게 배열했으므로 정답이다.\n④ [오답] 주어(we)가 동사(get) 앞에 와야 하므로 오답이다.\n⑤ [오답] 의문사 How가 문장 맨 앞에 와야 하므로 오답이다.",
+    "passage": "우리는 기차역에서 어떻게 거기에 가니?\n(how / get / there / do / we / from the station / ?)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오."
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:13:38.481Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:13:38.481Z",
+      "what": "확인 완료"
+    }
+  }
+}

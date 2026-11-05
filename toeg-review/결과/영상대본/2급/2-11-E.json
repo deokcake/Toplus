@@ -1,0 +1,180 @@
+{
+ "key": "2-11",
+ "type": "E",
+ "grade": 2,
+ "chapter": "CH 2 시제",
+ "title": "last month와 for … now의 시제",
+ "total_sec": 136,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "2급 · CH 2 시제 · 11번 · E 유형\n\n이 문제는 시간 표현을 보고 두 빈칸에 알맞은 시제를 짝지어 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 2 시제 · 11번 · E 유형",
+     "이 문제는 시간 표현을 보고 두 빈칸에 알맞은 시제를 짝지어 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 2, 11번 E 유형. 이 문제는 시간 표현을 보고 두 빈칸에 알맞은 시제를 짝지어 고르는 문제예요.",
+   "caption": "last month와 for … now의 시제"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 23,
+   "screen": {
+    "text": "다음 대화의 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.\n\nA: Tom _____ a new job last month.\nB: He _____ at that company for four weeks now.\n\n① started — worked\n② has started — has worked\n③ started — works\n④ started — has worked\n⑤ has started — worked",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 대화의 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+     "A: Tom _____ a new job last month.",
+     "B: He _____ at that company for four weeks now.",
+     "① started — worked",
+     "② has started — has worked",
+     "③ started — works",
+     "④ started — has worked",
+     "⑤ has started — worked"
+    ]
+   },
+   "narration": "다음 대화의 빈칸에 들어갈 말을 바르게 짝지은 것을 고르세요. Tom 빈칸 a new job last month, He 빈칸 at that company for four weeks now. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n이미 끝난 과거의 때 (yesterday, last ~) → 과거형\n과거부터 지금까지 이어지는 기간 (since + 시작한 때, for + 기간 + now) → 현재완료\n현재완료 = have/has + 과거분사 (주어가 3인칭 단수면 has)\n끝난 과거의 때를 나타내는 말과 현재완료는 함께 쓰지 않아요\n예) I have lived here for a year now. (나는 지금까지 일 년째 여기 살고 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "이미 끝난 과거의 때 (yesterday, last ~) → 과거형",
+     "과거부터 지금까지 이어지는 기간 (since + 시작한 때, for + 기간 + now) → 현재완료",
+     "현재완료 = have/has + 과거분사 (주어가 3인칭 단수면 has)",
+     "끝난 과거의 때를 나타내는 말과 현재완료는 함께 쓰지 않아요",
+     "예) I have lived here for a year now. (나는 지금까지 일 년째 여기 살고 있어요.)"
+    ]
+   },
+   "narration": "yesterday나 last week처럼 이미 끝난 과거의 때에는 과거형을 쓰고, 현재완료는 쓰지 않아요. since 뒤에 시작한 때가 오거나, for 뒤의 기간에 now가 붙어 지금까지 이어지는 기간을 말할 때는 현재완료를 써요. 현재완료는 have나 has 뒤에 과거분사를 써요. 예를 들어 I have lived here for a year now. 나는 지금까지 일 년째 여기 살고 있어요.",
+   "caption": "끝난 과거 vs 지금까지"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 대화의 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.\n\nA: Tom _____ a new job last month.\nB: He _____ at that company for four weeks now.\n\n① started — worked\n② has started — has worked\n③ started — works\n④ started — has worked\n⑤ has started — worked",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "last month"
+      ],
+      "strike": [
+       "② has started — has worked",
+       "⑤ has started — worked"
+      ],
+      "note": "last month = 이미 끝난 과거 → 과거형 started. has started로 시작하는 ②, ⑤ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "for four weeks now"
+      ],
+      "strike": [
+       "① started — worked",
+       "③ started — works"
+      ],
+      "note": "for four weeks now = 지금까지 4주째 → 주어 He에 맞춰 현재완료 has worked. worked, works인 ①, ③ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ started — has worked"
+      ],
+      "strike": [],
+      "note": "남는 것: ④ started — has worked"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 첫 빈칸 문장의 last month는 이미 끝난 과거라서 과거형 started를 쓰니까, has started로 시작하는 2번과 5번을 지워요. 둘째, for four weeks now는 지금까지 4주째라는 기간이에요. 그래서 주어 He에 맞춰 현재완료 has worked를 쓰니까, worked와 works를 쓴 1번과 3번도 지워요. 셋째, 남는 4번을 넣으면 He has worked at that company for four weeks now, 지금까지 4주째 그 회사에서 일하고 있다는 뜻이에요.",
+   "caption": "last month → started, for … now → has worked"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 23,
+   "screen": {
+    "text": "① started — worked  ✗  for four weeks now와 과거형 worked는 함께 쓰지 않아요\n② has started — has worked  ✗  last month와 현재완료 has started는 함께 못 써요\n③ started — works  ✗  현재형 works는 지금까지 이어진 기간을 나타내지 못해요\n④ started — has worked  ✓  last month는 과거형, for four weeks now는 현재완료\n⑤ has started — worked  ✗  has started, worked 둘 다 시제가 틀려요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① started — worked  ✗  for four weeks now와 과거형 worked는 함께 쓰지 않아요",
+     "② has started — has worked  ✗  last month와 현재완료 has started는 함께 못 써요",
+     "③ started — works  ✗  현재형 works는 지금까지 이어진 기간을 나타내지 못해요",
+     "④ started — has worked  ✓  last month는 과거형, for four weeks now는 현재완료",
+     "⑤ has started — worked  ✗  has started, worked 둘 다 시제가 틀려요"
+    ]
+   },
+   "narration": "정답은 4번이에요. 3번 works는 지금도 일해서 고르기 쉽지만, for four weeks now는 지금까지 이어진 기간이라 현재완료를 써야 해요. 1번은 과거형 worked를 써서 틀렸어요. 2번은 has worked는 맞지만, last month와 현재완료 has started를 함께 써서 틀렸어요.",
+   "caption": "정답 ④ started — has worked"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 13,
+   "screen": {
+    "text": "정답 ④ started — has worked\n\n끝난 과거의 때 → 과거형  /  for + 기간 + now (지금까지) → 현재완료",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ started — has worked",
+     "끝난 과거의 때 → 과거형  /  for + 기간 + now (지금까지) → 현재완료"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 이미 끝난 과거의 때는 과거형, for four weeks now처럼 지금까지 이어지는 기간은 현재완료를 써요.",
+   "caption": "끝난 과거는 과거형, for … now는 현재완료"
+  }
+ ],
+ "source": {
+  "stem": "다음 대화의 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+  "passage": "A: Tom _____ a new job last month.\nB: He _____ at that company for four weeks now.",
+  "c": [
+   "started — worked",
+   "has started — has worked",
+   "started — works",
+   "started — has worked",
+   "has started — worked"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: yesterday, last ~처럼 끝난 과거 시점에는 과거형을 쓰고, since ~, for ~ now처럼 과거부터 지금까지 이어지는 기간에는 현재완료(have/has + 과거분사)를 쓴다.\n풀이 순서: ① 첫째 빈칸 문장의 시간 표현(last month)은 끝난 과거 시점이다. 과거형(started)을 쓰고 현재완료는 쓸 수 없다. → ② 둘째 빈칸 문장의 시간 표현(for four weeks now)은 과거부터 지금까지 이어지는 기간이다. 현재완료(has worked)를 쓴다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: last month에는 과거형(started), for four weeks now에는 현재완료(has worked)를 쓰므로 정답은 ④이다.\n선택지 분석:\n① [오답] 지금까지 이어지는 기간(for four weeks now)에는 worked가 아니라 현재완료를 써야 하므로 오답이다.\n② [오답] 끝난 과거 시점(last month)과 현재완료(has started)를 함께 쓸 수 없으므로 오답이다.\n③ [오답] 지금까지 이어지는 기간(for four weeks now)에는 works가 아니라 현재완료를 써야 하므로 오답이다.\n④ [정답] last month에는 과거형(started), for four weeks now에는 현재완료(has worked)를 쓰므로 정답이다.\n⑤ [오답] 두 빈칸 모두 시제가 맞지 않으므로 오답이다."
+ }
+}

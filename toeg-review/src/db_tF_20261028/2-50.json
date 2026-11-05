@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T10:04:22.121Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "(A), (B)",
+      "1": "(C), (D)",
+      "2": "(B), (C), (E)",
+      "3": "(A), (C), (E)",
+      "4": "(A), (D), (E)"
+    },
+    "expl": "핵심 규칙: all of / most of / some of + 명사 뒤의 동사는 of 뒤 명사에 수를 맞춘다(불가산명사 → 단수, 복수명사 → 복수). each of + 복수명사, one of + 복수명사, every + 단수명사는 단수 동사를 쓴다.\n풀이 순서: ① 밑줄 동사의 수는 of 뒤 명사가 정한다. all/most/some of + 셀 수 없는 명사는 단수, + 복수 명사는 복수다. → ② each of ~, one of ~, every ~는 뒤에 복수 명사가 와도 항상 단수다. → ③ 틀린 문장을 지운다: (B) each of ~는 has, (D) shoes는 복수이므로 are. 옳은 문장만 묶은 (A), (C), (E)가 정답이다.\n문장별 판정:\n(A) O. luggage는 불가산명사라 단수 동사(was)를 쓴다.\n(B) X. each of + 복수명사는 단수 동사를 쓴다. 교정: has\n(C) O. one of + 복수명사는 단수 동사(plays)를 쓴다.\n(D) X. of 뒤 shoes가 복수라 복수 동사를 쓴다. 교정: are\n(E) O. of 뒤 people이 복수라 복수 동사(agree)를 쓴다.\n정답 판단: 옳은 문장은 (A), (C), (E)이고, 이 문장들로만 묶인 보기가 정답이다.\n선택지 분석:\n① [오답] (B)는 옳은 문장이 아니고, 옳은 문장 (C), (E)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (A), (E)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (B)는 옳은 문장이 아니고, 옳은 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 (A), (C), (E)를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(A) All of the luggage on the plane <u>was</u> lost.\n(B) Each of the classrooms in this building <u>have</u> a projector.\n(C) One of the boys in my class <u>plays</u> the violin.\n(D) All of my old shoes in the closet <u>is</u> dirty.\n(E) Most of the people in this town <u>agree</u> with you.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장으로만 묶인 것을 고르시오."
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T10:04:22.121Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T10:04:22.121Z",
+      "what": "확인 완료"
+    }
+  }
+}

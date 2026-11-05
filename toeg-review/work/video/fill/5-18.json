@@ -1,0 +1,476 @@
+{
+ "A": {
+  "title": "be동사 축약형과 am not",
+  "intro": "이 문제는 be동사 축약형을 바르게 썼는지 보고, 어색한 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 축약형의 쓰임이 어법상 어색한 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "축약형: 두 낱말을 줄여 쓴 꼴 · 뜻은 그대로",
+    "주어 + be동사 → I'm, you're, he's, she's, it's, we're, they're",
+    "be동사 + not → isn't, aren't",
+    "아포스트로피(')는 빠진 글자 자리에 · am not은 amn't로 줄이지 않고 I'm not",
+    "예) I'm not hungry. (나는 배고프지 않아요.)"
+   ],
+   "narration": "축약형은 두 낱말을 줄여 쓴 꼴로, 뜻은 줄이기 전과 같아요. 주어와 be동사는 I'm, you're, he's처럼, be동사와 not은 isn't, aren't처럼 줄여요. 이때 아포스트로피는 글자가 빠진 자리에 찍어요. am not은 amn't로 줄이지 않고 I am을 줄여 I'm not으로 써요. 예를 들어 I'm not hungry, 나는 배고프지 않아요."
+  },
+  "steps": [
+   {
+    "note": "주어 + be동사 축약형: You're = You are, It's = It is → 바른 꼴, 지운다.",
+    "highlight": [
+     "You<u>'re</u>",
+     "It<u>'s</u>"
+    ],
+    "strike": [
+     "① You<u>'re</u> not my friend.",
+     "④ It<u>'s</u> not a blue pen."
+    ],
+    "narration": "첫째, 1번 You're는 You are를, 4번 It's는 It is를 바르게 줄인 말이라 지워요."
+   },
+   {
+    "note": "be동사 + not 축약형: He → isn't, They → aren't. 주어와 맞고 바른 꼴, 지운다.",
+    "highlight": [
+     "He <u>isn't</u>",
+     "They <u>aren't</u>"
+    ],
+    "strike": [
+     "② He <u>isn't</u> very tall.",
+     "⑤ They <u>aren't</u> at home."
+    ],
+    "narration": "둘째, 2번은 주어 He에 맞게 is not을 isn't로, 5번은 주어 They에 맞게 are not을 aren't로 줄여서 지워요."
+   },
+   {
+    "note": "am not은 amn't로 줄이지 않는다 → I'm not happy today.",
+    "highlight": [
+     "③ I <u>amn't</u> happy today."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 3번 amn't는 am not을 줄이려 한 꼴인데, am not은 이렇게 줄이지 않아요. I am을 줄여 I'm not happy로 써야 해요. 나는 행복하지 않다는 뜻이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① You<u>'re</u> not my friend.  ✗  You are → You're, 바르게 줄였어요",
+    "② He <u>isn't</u> very tall.  ✗  He에 맞는 is not → isn't",
+    "③ I <u>amn't</u> happy today.  ✓  am not은 amn't로 줄이지 않아요 → I'm not",
+    "④ It<u>'s</u> not a blue pen.  ✗  It is → It's, 바르게 줄였어요",
+    "⑤ They <u>aren't</u> at home.  ✗  They에 맞는 are not → aren't"
+   ],
+   "narration": "정답은 3번이에요. am not은 amn't로 줄이지 않으니, I'm not으로 고쳐야 해요. 2번 isn't와 5번 aren't는 주어 He에는 is, They에는 are를 맞게 써서 바르게 줄였어요. 1번 You're not은 You are not을 줄인 말로, You aren't와 뜻이 같아요."
+  },
+  "summary": {
+   "card": "am not은 amn't로 줄이지 않아요 → I'm not (I am + not)",
+   "narration": "정답은 3번이에요. 기억할 것, am not은 amn't로 줄이지 않고 I'm not으로 써요."
+  },
+  "captions": [
+   "be동사 축약형 찾기",
+   "먼저 풀어 보세요",
+   "아포스트로피는 빠진 글자 자리에",
+   "주어+be동사 → be동사+not → amn't",
+   "정답 ③ amn't → I'm not",
+   "am not → I'm not"
+  ],
+  "sec": [
+   11,
+   16,
+   32,
+   35,
+   26,
+   10
+  ]
+ },
+ "B": {
+  "title": "is not의 축약형과 아포스트로피 자리",
+  "intro": "이 문제는 be동사 축약형을 바르게 썼는지 보고, 어색한 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 축약형의 쓰임이 어법상 어색한 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "축약형: 두 낱말을 줄여 쓴 꼴 · 뜻은 그대로",
+    "주어 + be동사 → I'm, you're, he's, she's, it's, we're, they're",
+    "be동사 + not → isn't, aren't",
+    "아포스트로피(')는 빠진 글자 자리에: is not → isn't (not의 o가 빠진 자리)",
+    "예) This isn't my cap. (이것은 내 모자가 아니에요.)"
+   ],
+   "narration": "축약형은 두 낱말을 줄여 쓴 꼴로, 뜻은 줄이기 전과 같아요. 주어와 be동사는 I'm, you're, he's처럼, be동사와 not은 isn't, aren't처럼 줄여요. 이때 아포스트로피는 글자가 빠진 자리에 찍어요. 그래서 is not은 not의 o가 빠진 자리에 찍어 isn't가 돼요. 예를 들어 This isn't my cap, 이것은 내 모자가 아니에요."
+  },
+  "steps": [
+   {
+    "note": "주어 + be동사 축약형: They're, I'm, It's → 바른 꼴, 지운다.",
+    "highlight": [
+     "They<u>'re</u>",
+     "I<u>'m</u>",
+     "It<u>'s</u>"
+    ],
+    "strike": [
+     "① They<u>'re</u> in the library.",
+     "③ I<u>'m</u> not sure.",
+     "⑤ It<u>'s</u> cold today."
+    ],
+    "narration": "첫째, 1번 They're, 3번 I'm, 5번 It's는 주어와 be동사를 바르게 줄인 말이라 지워요."
+   },
+   {
+    "note": "We → are not → aren't. 아포스트로피는 not의 o 자리 → 바른 꼴, 지운다.",
+    "highlight": [
+     "We <u>aren't</u>"
+    ],
+    "strike": [
+     "② We <u>aren't</u> ready."
+    ],
+    "narration": "둘째, 2번 aren't는 주어 We에 맞고, 아포스트로피도 not의 o가 빠진 자리에 있어서 지워요."
+   },
+   {
+    "note": "is'nt: 아포스트로피를 n 앞에 찍음 → o가 빠진 n과 t 사이: isn't → He isn't hungry.",
+    "highlight": [
+     "④ He <u>is'nt</u> hungry."
+    ],
+    "strike": [],
+    "narration": "셋째, 4번은 아포스트로피를 n 앞에 찍었어요. o가 빠진 n과 t 사이에 찍어 isn't로 써야 해요. He isn't hungry, 그는 배고프지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① They<u>'re</u> in the library.  ✗  They are → They're, 바르게 줄였어요",
+    "② We <u>aren't</u> ready.  ✗  We에 맞는 are not → aren't",
+    "③ I<u>'m</u> not sure.  ✗  I am → I'm, 그 뒤에 not",
+    "④ He <u>is'nt</u> hungry.  ✓  아포스트로피는 o가 빠진 n과 t 사이 → isn't",
+    "⑤ It<u>'s</u> cold today.  ✗  It is → It's, 바르게 줄였어요"
+   ],
+   "narration": "정답은 4번이에요. is not은 not의 o가 빠진 자리, 곧 n과 t 사이에 아포스트로피를 찍어 isn't로 써요. 3번 I'm not은 I am을 줄인 I'm 뒤에 not을 쓴 바른 꼴이에요. 2번 aren't는 주어 We에 맞고, 아포스트로피 자리도 맞아요."
+  },
+  "summary": {
+   "card": "is not → isn't · 아포스트로피는 not의 o가 빠진 자리",
+   "narration": "정답은 4번이에요. 기억할 것, 아포스트로피는 글자가 빠진 자리에 찍어서 is not은 isn't로 써요."
+  },
+  "captions": [
+   "be동사 축약형 찾기",
+   "먼저 풀어 보세요",
+   "아포스트로피는 빠진 글자 자리에",
+   "주어+be동사 → aren't → is'nt",
+   "정답 ④ is'nt → isn't",
+   "is not → isn't"
+  ],
+  "sec": [
+   12,
+   16,
+   32,
+   34,
+   26,
+   11
+  ]
+ },
+ "C": {
+  "title": "주어 She와 be동사의 축약형",
+  "intro": "이 문제는 be동사 축약형을 바르게 썼는지 보고, 어색한 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 축약형의 쓰임이 어법상 어색한 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "축약형: 두 낱말을 줄여 쓴 꼴 · 뜻은 그대로",
+    "주어 + be동사 → I'm, you're, he's, she's, it's, we're, they're",
+    "be동사 + not → isn't, aren't",
+    "아포스트로피(')는 빠진 글자 자리에: she is → she's (is의 i가 빠진 자리)",
+    "예) He's my uncle. (그는 우리 삼촌이에요.)"
+   ],
+   "narration": "축약형은 두 낱말을 줄여 쓴 꼴로, 뜻은 줄이기 전과 같아요. 주어와 be동사는 I'm, you're, he's처럼, be동사와 not은 isn't, aren't처럼 줄여요. 이때 아포스트로피는 글자가 빠진 자리에 찍어요. 그래서 she is는 is의 첫 글자가 빠진 자리에 찍어 she's가 돼요. 예를 들어 He's my uncle, 그는 우리 삼촌이에요."
+  },
+  "steps": [
+   {
+    "note": "주어 + be동사 축약형: You're, I'm → 바른 꼴, 지운다.",
+    "highlight": [
+     "You<u>'re</u>",
+     "I<u>'m</u>"
+    ],
+    "strike": [
+     "① You<u>'re</u> late.",
+     "⑤ I<u>'m</u> fine."
+    ],
+    "narration": "첫째, 1번 You're와 5번 I'm은 주어와 be동사를 바르게 줄인 말이라 지워요."
+   },
+   {
+    "note": "be동사 + not: We → aren't, It → isn't. 주어와 맞고 바른 꼴, 지운다.",
+    "highlight": [
+     "We <u>aren't</u>",
+     "It <u>isn't</u>"
+    ],
+    "strike": [
+     "③ We <u>aren't</u> busy.",
+     "④ It <u>isn't</u> my bag."
+    ],
+    "narration": "둘째, 3번은 주어 We에 맞게 are not을 aren't로, 4번은 주어 It에 맞게 is not을 isn't로 바르게 줄여서 지워요."
+   },
+   {
+    "note": "She'is: 빠진 글자 없이 아포스트로피만 넣음 → She is = She's → She's my sister.",
+    "highlight": [
+     "② She<u>'is</u> my sister."
+    ],
+    "strike": [],
+    "narration": "셋째, 2번은 She 뒤에 아포스트로피를 찍고 is를 그대로 써서, 빠진 글자가 없어요. She's로 줄여야 해요. She's my sister, 그녀는 내 여동생이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① You<u>'re</u> late.  ✗  You are → You're, 바르게 줄였어요",
+    "② She<u>'is</u> my sister.  ✓  빠진 글자 없이 아포스트로피만 넣었어요 → She's",
+    "③ We <u>aren't</u> busy.  ✗  We에 맞는 are not → aren't",
+    "④ It <u>isn't</u> my bag.  ✗  It에 맞는 is not → isn't",
+    "⑤ I<u>'m</u> fine.  ✗  I am → I'm, 바르게 줄였어요"
+   ],
+   "narration": "정답은 2번이에요. She is를 줄이면 is의 첫 글자가 빠지고, 그 자리에 아포스트로피를 찍어 She's가 돼요. 4번 isn't는 is not을 줄인 말로, 주어 It에 맞게 is를 썼어요. 3번 aren't는 주어 We에 맞게 are not을 줄인 바른 꼴이에요."
+  },
+  "summary": {
+   "card": "she is → she's · 아포스트로피는 빠진 글자 자리",
+   "narration": "정답은 2번이에요. 기억할 것, 아포스트로피는 글자가 빠진 자리에 찍어서 She is는 She's로 써요."
+  },
+  "captions": [
+   "be동사 축약형 찾기",
+   "먼저 풀어 보세요",
+   "아포스트로피는 빠진 글자 자리에",
+   "주어+be동사 → be동사+not → She'is",
+   "정답 ② She'is → She's",
+   "she is → she's"
+  ],
+  "sec": [
+   12,
+   16,
+   31,
+   34,
+   26,
+   11
+  ]
+ },
+ "D": {
+  "title": "주어 I와 be동사의 축약형",
+  "intro": "이 문제는 be동사 축약형을 바르게 썼는지 보고, 어색한 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 축약형의 쓰임이 어법상 어색한 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "축약형: 두 낱말을 줄여 쓴 꼴 · 뜻은 그대로",
+    "주어 + be동사 → I'm, you're, he's, she's, it's, we're, they're",
+    "be동사 + not → isn't, aren't",
+    "아포스트로피(')는 빠진 글자 자리에: I am → I'm (am의 a가 빠진 자리)",
+    "예) They're my friends. (그들은 내 친구들이에요.)"
+   ],
+   "narration": "축약형은 두 낱말을 줄여 쓴 꼴로, 뜻은 줄이기 전과 같아요. 주어와 be동사는 I'm, you're, he's처럼, be동사와 not은 isn't, aren't처럼 줄여요. 이때 아포스트로피는 글자가 빠진 자리에 찍어요. 그래서 I am은 am의 첫 글자가 빠진 자리에 찍어 I'm이 돼요. 예를 들어 They're my friends, 그들은 내 친구들이에요."
+  },
+  "steps": [
+   {
+    "note": "주어 + be동사 축약형: He's, We're → 바른 꼴, 지운다.",
+    "highlight": [
+     "He<u>'s</u>",
+     "We<u>'re</u>"
+    ],
+    "strike": [
+     "① He<u>'s</u> a doctor.",
+     "⑤ We<u>'re</u> classmates."
+    ],
+    "narration": "첫째, 1번 He's와 5번 We're는 주어와 be동사를 바르게 줄인 말이라 지워요."
+   },
+   {
+    "note": "be동사 + not: They → aren't, She → isn't. 주어와 맞고 바른 꼴, 지운다.",
+    "highlight": [
+     "They <u>aren't</u>",
+     "She <u>isn't</u>"
+    ],
+    "strike": [
+     "② They <u>aren't</u> here.",
+     "④ She <u>isn't</u> sad."
+    ],
+    "narration": "둘째, 2번은 주어 They에 맞게 are not을 aren't로, 4번은 주어 She에 맞게 is not을 isn't로 바르게 줄여서 지워요."
+   },
+   {
+    "note": "I'am: 빠진 글자 없이 아포스트로피만 넣음 → I am = I'm → I'm not tired.",
+    "highlight": [
+     "③ I<u>'am</u> not tired."
+    ],
+    "strike": [],
+    "narration": "셋째, 3번은 I 뒤에 아포스트로피를 찍고 am을 그대로 써서, 빠진 글자가 없어요. I'm으로 줄여야 해요. I'm not tired, 나는 피곤하지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① He<u>'s</u> a doctor.  ✗  He is → He's, 바르게 줄였어요",
+    "② They <u>aren't</u> here.  ✗  They에 맞는 are not → aren't",
+    "③ I<u>'am</u> not tired.  ✓  빠진 글자 없이 아포스트로피만 넣었어요 → I'm",
+    "④ She <u>isn't</u> sad.  ✗  She에 맞는 is not → isn't",
+    "⑤ We<u>'re</u> classmates.  ✗  We are → We're, 바르게 줄였어요"
+   ],
+   "narration": "정답은 3번이에요. I am을 줄이면 am의 첫 글자가 빠지고, 그 자리에 아포스트로피를 찍어 I'm이 돼요. 2번 aren't는 주어 They에 맞게 are not을 줄인 바른 꼴이에요. 4번 isn't도 주어 She에 맞게 is not을 바르게 줄였어요."
+  },
+  "summary": {
+   "card": "I am → I'm · 아포스트로피는 빠진 글자 자리",
+   "narration": "정답은 3번이에요. 기억할 것, 아포스트로피는 글자가 빠진 자리에 찍어서 I am은 I'm으로 써요."
+  },
+  "captions": [
+   "be동사 축약형 찾기",
+   "먼저 풀어 보세요",
+   "아포스트로피는 빠진 글자 자리에",
+   "주어+be동사 → be동사+not → I'am",
+   "정답 ③ I'am → I'm",
+   "I am → I'm"
+  ],
+  "sec": [
+   12,
+   16,
+   32,
+   34,
+   26,
+   11
+  ]
+ },
+ "E": {
+  "title": "are not의 축약형과 아포스트로피 자리",
+  "intro": "이 문제는 be동사 축약형을 바르게 썼는지 보고, 어색한 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 축약형의 쓰임이 어법상 어색한 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "축약형: 두 낱말을 줄여 쓴 꼴 · 뜻은 그대로",
+    "주어 + be동사 → I'm, you're, he's, she's, it's, we're, they're",
+    "be동사 + not → isn't, aren't",
+    "아포스트로피(')는 빠진 글자 자리에: are not → aren't (not의 o가 빠진 자리)",
+    "예) My shoes aren't new. (내 신발은 새것이 아니에요.)"
+   ],
+   "narration": "축약형은 두 낱말을 줄여 쓴 꼴로, 뜻은 줄이기 전과 같아요. 주어와 be동사는 I'm, you're, he's처럼, be동사와 not은 isn't, aren't처럼 줄여요. 이때 아포스트로피는 글자가 빠진 자리에 찍어요. 그래서 are not은 not의 o가 빠진 자리에 찍어 aren't가 돼요. 예를 들어 My shoes aren't new, 내 신발은 새것이 아니에요."
+  },
+  "steps": [
+   {
+    "note": "주어 + be동사 축약형: We're, It's, I'm → 바른 꼴, 지운다.",
+    "highlight": [
+     "We<u>'re</u>",
+     "It<u>'s</u>",
+     "I<u>'m</u>"
+    ],
+    "strike": [
+     "① We<u>'re</u> ready.",
+     "③ It<u>'s</u> my turn.",
+     "④ I<u>'m</u> not angry."
+    ],
+    "narration": "첫째, 1번 We're, 3번 It's, 4번 I'm은 주어와 be동사를 바르게 줄인 말이라 지워요."
+   },
+   {
+    "note": "You → are not → aren't. 아포스트로피는 not의 o 자리 → 바른 꼴, 지운다.",
+    "highlight": [
+     "You <u>aren't</u>"
+    ],
+    "strike": [
+     "② You <u>aren't</u> alone."
+    ],
+    "narration": "둘째, 2번 aren't는 주어 You에 맞고, 아포스트로피도 not의 o가 빠진 자리에 있어서 지워요."
+   },
+   {
+    "note": "are'nt: 아포스트로피를 n 앞에 찍음 → o가 빠진 n과 t 사이: aren't → They aren't at school.",
+    "highlight": [
+     "⑤ They <u>are'nt</u> at school."
+    ],
+    "strike": [],
+    "narration": "셋째, 5번은 아포스트로피를 n 앞에 찍었어요. o가 빠진 n과 t 사이에 찍어 aren't로 써야 해요. They aren't at school, 그들은 학교에 없어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① We<u>'re</u> ready.  ✗  We are → We're, 바르게 줄였어요",
+    "② You <u>aren't</u> alone.  ✗  You에 맞는 are not → aren't",
+    "③ It<u>'s</u> my turn.  ✗  It is → It's, 바르게 줄였어요",
+    "④ I<u>'m</u> not angry.  ✗  I am → I'm, 그 뒤에 not",
+    "⑤ They <u>are'nt</u> at school.  ✓  아포스트로피는 o가 빠진 n과 t 사이 → aren't"
+   ],
+   "narration": "정답은 5번이에요. are not은 not의 o가 빠진 자리, 곧 n과 t 사이에 아포스트로피를 찍어 aren't로 써요. 2번 aren't는 주어 You에 맞고, 아포스트로피 자리도 맞아요. 4번 I'm not은 I am을 줄인 I'm 뒤에 not을 쓴 바른 꼴이에요."
+  },
+  "summary": {
+   "card": "are not → aren't · 아포스트로피는 not의 o가 빠진 자리",
+   "narration": "정답은 5번이에요. 기억할 것, 아포스트로피는 글자가 빠진 자리에 찍어서 are not은 aren't로 써요."
+  },
+  "captions": [
+   "be동사 축약형 찾기",
+   "먼저 풀어 보세요",
+   "아포스트로피는 빠진 글자 자리에",
+   "주어+be동사 → aren't → are'nt",
+   "정답 ⑤ are'nt → aren't",
+   "are not → aren't"
+  ],
+  "sec": [
+   12,
+   16,
+   32,
+   34,
+   26,
+   11
+  ]
+ },
+ "F": {
+  "title": "is not의 축약형과 아포스트로피 쓰기",
+  "intro": "이 문제는 be동사 축약형을 바르게 썼는지 보고, 어색한 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 축약형의 쓰임이 어법상 어색한 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "축약형: 두 낱말을 줄여 쓴 꼴 · 뜻은 그대로",
+    "주어 + be동사 → I'm, you're, he's, she's, it's, we're, they're",
+    "be동사 + not → isn't, aren't",
+    "아포스트로피(')는 빠진 글자 자리에: is not → isn't (not의 o가 빠진 자리)",
+    "예) Tom isn't tall. (톰은 키가 크지 않아요.)"
+   ],
+   "narration": "축약형은 두 낱말을 줄여 쓴 꼴로, 뜻은 줄이기 전과 같아요. 주어와 be동사는 I'm, you're, he's처럼, be동사와 not은 isn't, aren't처럼 줄여요. 이때 아포스트로피는 글자가 빠진 자리에 꼭 찍어요. 그래서 is not은 not의 o가 빠진 자리에 찍어 isn't가 돼요. 예를 들어 Tom isn't tall, 톰은 키가 크지 않아요."
+  },
+  "steps": [
+   {
+    "note": "주어 + be동사 축약형: They're, I'm → 바른 꼴, 지운다.",
+    "highlight": [
+     "They<u>'re</u>",
+     "I<u>'m</u>"
+    ],
+    "strike": [
+     "② They<u>'re</u> brothers.",
+     "③ I<u>'m</u> sleepy."
+    ],
+    "narration": "첫째, 2번 They're와 3번 I'm은 주어와 be동사를 바르게 줄인 말이라 지워요."
+   },
+   {
+    "note": "be동사 + not: He → isn't, We → aren't. 주어와 맞고 아포스트로피도 제자리, 지운다.",
+    "highlight": [
+     "He <u>isn't</u>",
+     "We <u>aren't</u>"
+    ],
+    "strike": [
+     "④ He <u>isn't</u> busy.",
+     "⑤ We <u>aren't</u> late."
+    ],
+    "narration": "둘째, 4번은 주어 He에 맞게 is not을 isn't로, 5번은 주어 We에 맞게 are not을 aren't로 바르게 줄여서 지워요."
+   },
+   {
+    "note": "isnt: 아포스트로피가 빠짐 → o가 빠진 자리에 찍어 isn't → She isn't here.",
+    "highlight": [
+     "① She <u>isnt</u> here."
+    ],
+    "strike": [],
+    "narration": "셋째, 1번은 is not을 줄이면서 아포스트로피를 빠뜨렸어요. o가 빠진 자리에 아포스트로피를 찍어 isn't로 써야 해요. She isn't here, 그녀는 여기에 없어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① She <u>isnt</u> here.  ✓  아포스트로피가 빠졌어요 → isn't",
+    "② They<u>'re</u> brothers.  ✗  They are → They're, 바르게 줄였어요",
+    "③ I<u>'m</u> sleepy.  ✗  I am → I'm, 바르게 줄였어요",
+    "④ He <u>isn't</u> busy.  ✗  He에 맞는 is not → isn't",
+    "⑤ We <u>aren't</u> late.  ✗  We에 맞는 are not → aren't"
+   ],
+   "narration": "정답은 1번이에요. is not을 줄일 때는 not의 o가 빠진 자리에 아포스트로피를 꼭 찍어서 isn't로 써요. 4번 isn't는 주어 He에 맞고, 아포스트로피도 바르게 찍었어요. 5번 aren't는 주어 We에 맞게 are not을 줄인 바른 꼴이에요."
+  },
+  "summary": {
+   "card": "is not → isn't · 빠진 글자 자리에 아포스트로피를 꼭 찍어요",
+   "narration": "정답은 1번이에요. 기억할 것, 아포스트로피는 글자가 빠진 자리에 꼭 찍어서 is not은 isn't로 써요."
+  },
+  "captions": [
+   "be동사 축약형 찾기",
+   "먼저 풀어 보세요",
+   "아포스트로피는 빠진 글자 자리에",
+   "주어+be동사 → be동사+not → isnt",
+   "정답 ① isnt → isn't",
+   "is not → isn't"
+  ],
+  "sec": [
+   12,
+   16,
+   32,
+   35,
+   26,
+   11
+  ]
+ }
+}

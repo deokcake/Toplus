@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T03:59:49.786Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "We are in the <u>seventh</u> grade.",
+      "1": "Turn left at the <u>third</u> corner.",
+      "2": "It was her <u>fortieth</u> birthday.",
+      "3": "The test is on June <u>fiveth</u>.",
+      "4": "He finished <u>fourteenth</u> in the race."
+    },
+    "expl": "핵심 규칙: 서수는 대부분 기수 + th로 만들지만, first, second, third는 따로 외우고 fifth(five), ninth(nine), twelfth(twelve), eighth(eight), twentieth(twenty)처럼 철자가 바뀌는 것에 주의한다.\n풀이 순서: ① 밑줄 친 서수마다 바탕이 되는 기수를 떠올린다. → ② 그냥 th만 붙이면 안 되는 낱말(third, fifth, eighth, ninth, twelfth, twentieth 등)을 따로 확인한다. → ③ five → fifth(ve를 f로 바꾼다). 정답은 ④.\n문장별 판정:\n정답 판단: five의 서수는 ve를 f로 바꿔 fifth로 쓰므로 정답은 ④이다.\n선택지 분석:\n① [오답] 서수(seventh)의 철자가 바르므로 오답이다.\n② [오답] 서수(third)의 철자가 바르므로 오답이다.\n③ [오답] 서수(fortieth)의 철자가 바르므로 오답이다.\n④ [정답] five의 서수는 ve를 f로 바꿔 fifth로 쓰므로 정답이다.\n⑤ [오답] 서수(fourteenth)의 철자가 바르므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 서수의 철자가 틀린 문장을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T03:59:48.019Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T03:59:49.786Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:59:49.786Z",
+      "what": "확인 완료"
+    }
+  }
+}

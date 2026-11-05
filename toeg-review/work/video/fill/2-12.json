@@ -1,0 +1,460 @@
+{
+ "A": {
+  "title": "현재완료와 함께 쓰는 for와 since",
+  "intro": "이 문제는 현재완료 문장의 두 빈칸에 기간과 시작 시점에 맞는 말을 짝지어 넣는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 전치사를 바르게 짝지은 것을 고르세요. My father has worked at this school 에이 빈칸 twenty-five years, I have known her 비 빈칸 she was eleven years old. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료 have/has + 과거분사: 과거부터 지금까지 ‘~해 왔다’(계속)",
+    "for + 기간의 길이(얼마 동안): for three years, for a week",
+    "since + 시작 시점(언제부터): since 2023, since Monday",
+    "since 뒤에 주어 + 동사도 와요: since I was ten (내가 열 살 때부터)",
+    "예) I have played the piano for three years. (나는 3년 동안 피아노를 쳐 왔어요.)  I have played the piano since I was ten. (나는 열 살 때부터 피아노를 쳐 왔어요.)"
+   ],
+   "narration": "현재완료로 과거부터 지금까지 이어진 일을 말할 때, 얼마 동안인지 기간의 길이 앞에는 for를 쓰고, 언제부터인지 시작 시점 앞에는 since를 써요. 시작 시점은 since 뒤에 주어와 동사로 말할 수도 있어요. 예를 들어 I have played the piano for three years, 나는 3년 동안 피아노를 쳐 왔어요. I have played the piano since I was ten, 나는 열 살 때부터 피아노를 쳐 왔어요."
+  },
+  "steps": [
+   {
+    "note": "(A) 25 years = 얼마 동안(기간의 길이) → for. (A)가 since인 ①·④ 지움",
+    "highlight": [
+     "(A) _____ 25 years"
+    ],
+    "strike": [
+     "① (A) since (B) since",
+     "④ (A) since (B) for"
+    ],
+    "narration": "첫째, 에이 빈칸 뒤의 twenty-five years는 25년 동안이라는 기간의 길이라서 for를 써요. 에이 빈칸이 since인 1번과 4번을 지워요."
+   },
+   {
+    "note": "(B) she was 11 years old = 그녀가 11살이었던 때(시작 시점, 주어 + 동사) → since. (B)가 for인 ②, when인 ⑤ 지움",
+    "highlight": [
+     "(B) _____ she was 11 years old"
+    ],
+    "strike": [
+     "② (A) for (B) for",
+     "⑤ (A) for (B) when"
+    ],
+    "narration": "둘째, 비 빈칸 뒤의 she was eleven years old에도 years가 있지만, 기간이 아니라 그녀가 열한 살이었던 때, 곧 시작 시점이라서 since를 써요. 비 빈칸이 for인 2번과 when인 5번을 지워요."
+   },
+   {
+    "note": "남는 ③ → I have known her since she was 11 years old.",
+    "highlight": [
+     "③ (A) for (B) since"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 3번을 넣으면 I have known her since she was eleven years old, 나는 그녀가 열한 살 때부터 그녀를 알아 왔어요, 라는 문장이 돼요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) since (B) since  ✗  25 years는 기간의 길이 → for",
+    "② (A) for (B) for  ✗  she was 11 years old는 나이를 말한 때(시작 시점) → since",
+    "③ (A) for (B) since  ✓  기간 앞에 for, 시작 시점 앞에 since",
+    "④ (A) since (B) for  ✗  for와 since가 서로 바뀌었어요",
+    "⑤ (A) for (B) when  ✗  when(~할 때)은 ‘그때부터 지금까지’를 나타내지 못해요"
+   ],
+   "narration": "정답은 3번이에요. 2번을 고르기 쉬운데, she was eleven years old의 years는 나이를 말할 뿐 기간의 길이가 아니에요. 5번의 when은 무엇을 할 때라는 뜻이라, 그때부터 지금까지를 나타내지 못해요. 4번은 for와 since를 서로 바꿔 썼어요."
+  },
+  "summary": {
+   "card": "얼마 동안(기간의 길이) → for, 언제부터(시작 시점) → since",
+   "narration": "정답은 3번이에요. 기억할 것, 기간의 길이 앞에는 for를, 시작 시점 앞에는 since를 써요."
+  },
+  "captions": [
+   "for와 since 짝짓기",
+   "먼저 풀어 보세요",
+   "기간은 for, 시작 시점은 since",
+   "25 years → for, she was 11 → since",
+   "정답 ③ for - since",
+   "얼마 동안 for, 언제부터 since"
+  ],
+  "sec": [
+   11,
+   22,
+   30,
+   38,
+   22,
+   10
+  ]
+ },
+ "B": {
+  "title": "현재완료와 함께 쓰는 for와 since",
+  "intro": "이 문제는 현재완료 문장의 두 빈칸에 기간과 시작 시점에 맞는 말을 짝지어 넣는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말을 바르게 짝지은 것을 고르세요. The museum has been open 에이 빈칸 nineteen ninety-eight, Our guide has worked there 비 빈칸 more than a decade. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료 have/has + 과거분사: 과거부터 지금까지 ‘~해 왔다’(계속)",
+    "for + 기간의 길이(얼마 동안): for three years, for a week",
+    "since + 시작 시점(언제부터): since 2023, since Monday",
+    "예) I have played the piano for three years. (나는 3년 동안 피아노를 쳐 왔어요.)  I have played the piano since last year. (나는 작년부터 피아노를 쳐 왔어요.)"
+   ],
+   "narration": "현재완료로 과거부터 지금까지 이어진 일을 말할 때, 얼마 동안인지 기간의 길이 앞에는 for를 쓰고, 언제부터인지 시작 시점 앞에는 since를 써요. 예를 들어 I have played the piano for three years, 나는 3년 동안 피아노를 쳐 왔어요. I have played the piano since last year, 나는 작년부터 피아노를 쳐 왔어요."
+  },
+  "steps": [
+   {
+    "note": "(A) 1998 = 1998년이라는 때(시작 시점) → since. (A)가 for인 ③·④, from인 ⑤ 지움",
+    "highlight": [
+     "(A) _____ 1998"
+    ],
+    "strike": [
+     "③ (A) for (B) since",
+     "④ (A) for (B) for",
+     "⑤ (A) from (B) during"
+    ],
+    "narration": "첫째, 에이 빈칸 뒤의 1998은 숫자이지만 몇 년 동안이 아니라 1998년이라는 때, 곧 시작 시점이라서 since를 써요. 에이 빈칸이 for인 3번과 4번, from인 5번을 지워요."
+   },
+   {
+    "note": "(B) more than a decade = 10년 넘는 동안(기간의 길이) → for. (B)가 since인 ① 지움",
+    "highlight": [
+     "(B) _____ more than a decade"
+    ],
+    "strike": [
+     "① (A) since (B) since"
+    ],
+    "narration": "둘째, 비 빈칸 뒤의 more than a decade는 10년이 넘는 동안이라는 기간의 길이라서 for를 써요. 비 빈칸이 since인 1번을 지워요."
+   },
+   {
+    "note": "남는 ② → The museum has been open since 1998.",
+    "highlight": [
+     "② (A) since (B) for"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 2번을 넣으면 The museum has been open since nineteen ninety-eight, 그 박물관은 1998년부터 문을 열어 왔어요, 라는 문장이 돼요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) since (B) since  ✗  more than a decade는 기간의 길이 → for",
+    "② (A) since (B) for  ✓  1998은 시작 시점 → since, more than a decade는 기간 → for",
+    "③ (A) for (B) since  ✗  for와 since가 서로 바뀌었어요",
+    "④ (A) for (B) for  ✗  1998은 기간이 아니라 시작 시점 → since",
+    "⑤ (A) from (B) during  ✗  시작 시점 1998 앞에는 since, 기간의 길이 앞에는 for를 써요"
+   ],
+   "narration": "정답은 2번이에요. 4번을 고르기 쉬운데, 1998은 기간의 길이가 아니라 시작 시점이라서 for를 쓸 수 없어요. 1번은 more than a decade라는 기간의 길이 앞에 since를 써서 틀렸어요. 5번의 during은 어느 기간 중에 일이 일어났는지를 말하는 말이라, 얼마 동안 이어졌는지는 for로 말해요."
+  },
+  "summary": {
+   "card": "얼마 동안(기간의 길이) → for, 언제부터(시작 시점) → since",
+   "narration": "정답은 2번이에요. 기억할 것, 기간의 길이 앞에는 for를, 시작 시점 앞에는 since를 써요."
+  },
+  "captions": [
+   "for와 since 짝짓기",
+   "먼저 풀어 보세요",
+   "기간은 for, 시작 시점은 since",
+   "1998 → since, a decade → for",
+   "정답 ② since - for",
+   "얼마 동안 for, 언제부터 since"
+  ],
+  "sec": [
+   11,
+   22,
+   26,
+   38,
+   24,
+   10
+  ]
+ },
+ "C": {
+  "title": "현재완료와 함께 쓰는 for와 since",
+  "intro": "이 문제는 현재완료 문장의 두 빈칸에 기간과 시작 시점에 맞는 말을 짝지어 넣는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말을 바르게 짝지은 것을 고르세요. She has studied French 에이 빈칸 twenty twenty-two, They have been married 비 빈칸 six years. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료 have/has + 과거분사: 과거부터 지금까지 ‘~해 왔다’(계속)",
+    "for + 기간의 길이(얼마 동안): for three years, for a week",
+    "since + 시작 시점(언제부터): since 2023, since Monday",
+    "예) I have played the piano for three years. (나는 3년 동안 피아노를 쳐 왔어요.)  I have played the piano since last year. (나는 작년부터 피아노를 쳐 왔어요.)"
+   ],
+   "narration": "현재완료로 과거부터 지금까지 이어진 일을 말할 때, 얼마 동안인지 기간의 길이 앞에는 for를 쓰고, 언제부터인지 시작 시점 앞에는 since를 써요. 예를 들어 I have played the piano for three years, 나는 3년 동안 피아노를 쳐 왔어요. I have played the piano since last year, 나는 작년부터 피아노를 쳐 왔어요."
+  },
+  "steps": [
+   {
+    "note": "(A) 2022 = 2022년이라는 때(시작 시점) → since. (A)가 for인 ①·②, during인 ⑤ 지움",
+    "highlight": [
+     "(A) _____ 2022"
+    ],
+    "strike": [
+     "① (A) for (B) for",
+     "② (A) for (B) since",
+     "⑤ (A) during (B) from"
+    ],
+    "narration": "첫째, 에이 빈칸 뒤의 2022는 2022년이라는 때, 곧 시작 시점이라서 since를 써요. 에이 빈칸이 for인 1번과 2번, during인 5번을 지워요."
+   },
+   {
+    "note": "(B) six years = 6년 동안(기간의 길이) → for. (B)가 since인 ③ 지움",
+    "highlight": [
+     "(B) _____ six years"
+    ],
+    "strike": [
+     "③ (A) since (B) since"
+    ],
+    "narration": "둘째, 비 빈칸 뒤의 six years는 6년 동안이라는 기간의 길이라서 for를 써요. 비 빈칸이 since인 3번을 지워요."
+   },
+   {
+    "note": "남는 ④ → They have been married for six years.",
+    "highlight": [
+     "④ (A) since (B) for"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 4번을 넣으면 They have been married for six years, 그들은 결혼한 지 6년이 되었어요, 라는 문장이 돼요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) for (B) for  ✗  2022는 기간이 아니라 시작 시점 → since",
+    "② (A) for (B) since  ✗  for와 since가 서로 바뀌었어요",
+    "③ (A) since (B) since  ✗  six years는 기간의 길이 → for",
+    "④ (A) since (B) for  ✓  2022는 시작 시점 → since, six years는 기간 → for",
+    "⑤ (A) during (B) from  ✗  during 2022는 ‘2022년 중에’, from은 ‘~부터’라서 ‘6년 동안’을 못 나타내요"
+   ],
+   "narration": "정답은 4번이에요. 2번은 for와 since를 서로 바꿔 썼어요. 3번은 six years라는 기간의 길이 앞에 since를 써서 틀렸어요. 5번의 during 2022는 2022년 중에라는 뜻이라 그때부터 지금까지를 나타내지 못하고, from은 무엇부터라는 시작점을 나타내는 말이라 six years 앞에 써서 6년 동안을 나타낼 수 없어요."
+  },
+  "summary": {
+   "card": "얼마 동안(기간의 길이) → for, 언제부터(시작 시점) → since",
+   "narration": "정답은 4번이에요. 기억할 것, 기간의 길이 앞에는 for를, 시작 시점 앞에는 since를 써요."
+  },
+  "captions": [
+   "for와 since 짝짓기",
+   "먼저 풀어 보세요",
+   "기간은 for, 시작 시점은 since",
+   "2022 → since, six years → for",
+   "정답 ④ since - for",
+   "얼마 동안 for, 언제부터 since"
+  ],
+  "sec": [
+   11,
+   20,
+   26,
+   36,
+   26,
+   10
+  ]
+ },
+ "D": {
+  "title": "현재완료와 함께 쓰는 for와 since",
+  "intro": "이 문제는 현재완료 문장의 두 빈칸에 기간과 시작 시점에 맞는 말을 짝지어 넣는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말을 바르게 짝지은 것을 고르세요. We have waited 에이 빈칸 two hours, Tom has worked there 비 빈칸 last spring. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료 have/has + 과거분사: 과거부터 지금까지 ‘~해 왔다’(계속)",
+    "for + 기간의 길이(얼마 동안): for three years, for a week",
+    "since + 시작 시점(언제부터): since 2023, since Monday",
+    "예) I have played the piano for three years. (나는 3년 동안 피아노를 쳐 왔어요.)  I have played the piano since last year. (나는 작년부터 피아노를 쳐 왔어요.)"
+   ],
+   "narration": "현재완료로 과거부터 지금까지 이어진 일을 말할 때, 얼마 동안인지 기간의 길이 앞에는 for를 쓰고, 언제부터인지 시작 시점 앞에는 since를 써요. 예를 들어 I have played the piano for three years, 나는 3년 동안 피아노를 쳐 왔어요. I have played the piano since last year, 나는 작년부터 피아노를 쳐 왔어요."
+  },
+  "steps": [
+   {
+    "note": "(A) two hours = 두 시간 동안(기간의 길이) → for. (A)가 since인 ①·④ 지움",
+    "highlight": [
+     "(A) _____ two hours"
+    ],
+    "strike": [
+     "① (A) since (B) for",
+     "④ (A) since (B) since"
+    ],
+    "narration": "첫째, 에이 빈칸 뒤의 two hours는 두 시간 동안이라는 기간의 길이라서 for를 써요. 에이 빈칸이 since인 1번과 4번을 지워요."
+   },
+   {
+    "note": "(B) last spring = 지난봄이라는 때(시작 시점) → since. (B)가 when인 ③, for인 ⑤ 지움",
+    "highlight": [
+     "(B) _____ last spring"
+    ],
+    "strike": [
+     "③ (A) for (B) when",
+     "⑤ (A) for (B) for"
+    ],
+    "narration": "둘째, 비 빈칸 뒤의 last spring은 지난봄이라는 때, 곧 시작 시점이라서 since를 써요. 비 빈칸이 when인 3번과 for인 5번을 지워요."
+   },
+   {
+    "note": "남는 ② → Tom has worked there since last spring.",
+    "highlight": [
+     "② (A) for (B) since"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 2번을 넣으면 Tom has worked there since last spring, 톰은 지난봄부터 그곳에서 일해 왔어요, 라는 문장이 돼요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) since (B) for  ✗  for와 since가 서로 바뀌었어요",
+    "② (A) for (B) since  ✓  two hours는 기간 → for, last spring은 시작 시점 → since",
+    "③ (A) for (B) when  ✗  when(~할 때)은 ‘지난봄부터 지금까지’를 나타내지 못해요",
+    "④ (A) since (B) since  ✗  two hours는 기간의 길이 → for",
+    "⑤ (A) for (B) for  ✗  last spring은 기간이 아니라 시작 시점 → since"
+   ],
+   "narration": "정답은 2번이에요. 3번의 when은 무엇을 할 때라는 뜻이라, 지난봄부터 지금까지를 나타내지 못해요. 5번은 last spring을 기간으로 잘못 보고 for를 썼어요. 1번은 for와 since를 서로 바꿔 썼어요."
+  },
+  "summary": {
+   "card": "얼마 동안(기간의 길이) → for, 언제부터(시작 시점) → since",
+   "narration": "정답은 2번이에요. 기억할 것, 기간의 길이 앞에는 for를, 시작 시점 앞에는 since를 써요."
+  },
+  "captions": [
+   "for와 since 짝짓기",
+   "먼저 풀어 보세요",
+   "기간은 for, 시작 시점은 since",
+   "two hours → for, last spring → since",
+   "정답 ② for - since",
+   "얼마 동안 for, 언제부터 since"
+  ],
+  "sec": [
+   11,
+   18,
+   26,
+   36,
+   22,
+   10
+  ]
+ },
+ "E": {
+  "title": "현재완료와 함께 쓰는 for와 since",
+  "intro": "이 문제는 현재완료 문장의 두 빈칸에 기간과 시작 시점에 맞는 말을 짝지어 넣는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말을 바르게 짝지은 것을 고르세요. I have owned this bike 에이 빈칸 five years, Jane has lived here 비 빈칸 she was a child. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료 have/has + 과거분사: 과거부터 지금까지 ‘~해 왔다’(계속)",
+    "for + 기간의 길이(얼마 동안): for three years, for a week",
+    "since + 시작 시점(언제부터): since 2023, since Monday",
+    "since 뒤에 주어 + 동사도 와요: since I was ten (내가 열 살 때부터)",
+    "예) I have played the piano for three years. (나는 3년 동안 피아노를 쳐 왔어요.)  I have played the piano since I was ten. (나는 열 살 때부터 피아노를 쳐 왔어요.)"
+   ],
+   "narration": "현재완료로 과거부터 지금까지 이어진 일을 말할 때, 얼마 동안인지 기간의 길이 앞에는 for를 쓰고, 언제부터인지 시작 시점 앞에는 since를 써요. 시작 시점은 since 뒤에 주어와 동사로 말할 수도 있어요. 예를 들어 I have played the piano for three years, 나는 3년 동안 피아노를 쳐 왔어요. I have played the piano since I was ten, 나는 열 살 때부터 피아노를 쳐 왔어요."
+  },
+  "steps": [
+   {
+    "note": "(A) five years = 5년 동안(기간의 길이) → for. (A)가 since인 ④·⑤ 지움",
+    "highlight": [
+     "(A) _____ five years"
+    ],
+    "strike": [
+     "④ (A) since (B) for",
+     "⑤ (A) since (B) since"
+    ],
+    "narration": "첫째, 에이 빈칸 뒤의 five years는 5년 동안이라는 기간의 길이라서 for를 써요. 에이 빈칸이 since인 4번과 5번을 지워요."
+   },
+   {
+    "note": "(B) she was a child = 어렸을 때(시작 시점, 주어 + 동사) → since. (B)가 when인 ①, for인 ③ 지움",
+    "highlight": [
+     "(B) _____ she was a child"
+    ],
+    "strike": [
+     "① (A) for (B) when",
+     "③ (A) for (B) for"
+    ],
+    "narration": "둘째, 비 빈칸 뒤의 she was a child는 그녀가 어린아이였던 때, 곧 시작 시점을 주어와 동사로 말한 것이라서 since를 써요. 비 빈칸이 when인 1번과 for인 3번을 지워요."
+   },
+   {
+    "note": "남는 ② → Jane has lived here since she was a child.",
+    "highlight": [
+     "② (A) for (B) since"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 2번을 넣으면 Jane has lived here since she was a child, 제인은 어렸을 때부터 여기서 살아 왔어요, 라는 문장이 돼요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) for (B) when  ✗  when(~할 때)은 ‘어렸을 때부터 지금까지’를 나타내지 못해요",
+    "② (A) for (B) since  ✓  five years는 기간 → for, she was a child는 시작 시점 → since",
+    "③ (A) for (B) for  ✗  she was a child는 시작 시점(주어 + 동사) → since",
+    "④ (A) since (B) for  ✗  for와 since가 서로 바뀌었어요",
+    "⑤ (A) since (B) since  ✗  five years는 기간의 길이 → for"
+   ],
+   "narration": "정답은 2번이에요. 1번을 고르기 쉬운데, when은 무엇을 할 때라는 뜻이라 어렸을 때부터 지금까지를 나타내지 못해요. 3번은 she was a child라는 시작 시점 앞에 for를 써서 틀렸어요. 4번은 for와 since를 서로 바꿔 썼어요."
+  },
+  "summary": {
+   "card": "얼마 동안(기간의 길이) → for, 언제부터(시작 시점) → since",
+   "narration": "정답은 2번이에요. 기억할 것, 기간의 길이 앞에는 for를, 시작 시점 앞에는 since를 써요."
+  },
+  "captions": [
+   "for와 since 짝짓기",
+   "먼저 풀어 보세요",
+   "기간은 for, 시작 시점은 since",
+   "five years → for, she was a child → since",
+   "정답 ② for - since",
+   "얼마 동안 for, 언제부터 since"
+  ],
+  "sec": [
+   11,
+   20,
+   30,
+   38,
+   22,
+   10
+  ]
+ },
+ "F": {
+  "title": "현재완료와 함께 쓰는 for와 since",
+  "intro": "이 문제는 현재완료 문장의 두 빈칸에 기간과 시작 시점에 맞는 말을 짝지어 넣는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말을 바르게 짝지은 것을 고르세요. The store has been open 에이 빈칸 eight a.m., He has taught here 비 빈칸 a long time. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료 have/has + 과거분사: 과거부터 지금까지 ‘~해 왔다’(계속)",
+    "for + 기간의 길이(얼마 동안): for three years, for a week",
+    "since + 시작 시점(언제부터): since 2023, since Monday",
+    "예) I have played the piano for three years. (나는 3년 동안 피아노를 쳐 왔어요.)  I have played the piano since last year. (나는 작년부터 피아노를 쳐 왔어요.)"
+   ],
+   "narration": "현재완료로 과거부터 지금까지 이어진 일을 말할 때, 얼마 동안인지 기간의 길이 앞에는 for를 쓰고, 언제부터인지 시작 시점 앞에는 since를 써요. 예를 들어 I have played the piano for three years, 나는 3년 동안 피아노를 쳐 왔어요. I have played the piano since last year, 나는 작년부터 피아노를 쳐 왔어요."
+  },
+  "steps": [
+   {
+    "note": "(A) 8 a.m. = 오전 8시라는 한 시점(시작 시점) → since. (A)가 for인 ①·⑤, during인 ④ 지움",
+    "highlight": [
+     "(A) _____ 8 a.m."
+    ],
+    "strike": [
+     "① (A) for (B) since",
+     "④ (A) during (B) from",
+     "⑤ (A) for (B) for"
+    ],
+    "narration": "첫째, 에이 빈칸 뒤의 eight a.m.은 오전 8시라는 한 시점, 곧 시작 시점이라서 since를 써요. 에이 빈칸이 for인 1번과 5번, during인 4번을 지워요."
+   },
+   {
+    "note": "(B) a long time = 오랫동안(기간의 길이) → for. (B)가 since인 ② 지움",
+    "highlight": [
+     "(B) _____ a long time"
+    ],
+    "strike": [
+     "② (A) since (B) since"
+    ],
+    "narration": "둘째, 비 빈칸 뒤의 a long time은 오랫동안이라는 기간의 길이라서 for를 써요. 비 빈칸이 since인 2번을 지워요."
+   },
+   {
+    "note": "남는 ③ → The store has been open since 8 a.m.",
+    "highlight": [
+     "③ (A) since (B) for"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 3번을 넣으면 The store has been open since eight a.m., 그 가게는 오전 8시부터 문을 열고 있어요, 라는 문장이 돼요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) for (B) since  ✗  for와 since가 서로 바뀌었어요",
+    "② (A) since (B) since  ✗  a long time은 기간의 길이 → for",
+    "③ (A) since (B) for  ✓  8 a.m.은 시작 시점 → since, a long time은 기간 → for",
+    "④ (A) during (B) from  ✗  during은 한 시점 앞에 쓰지 않고, from은 ‘~부터’라서 ‘오랫동안’을 못 나타내요",
+    "⑤ (A) for (B) for  ✗  8 a.m.은 기간이 아니라 시작 시점 → since"
+   ],
+   "narration": "정답은 3번이에요. 5번은 eight a.m.을 기간으로 잘못 보고 for를 썼어요. 1번은 for와 since를 서로 바꿔 썼어요. 4번의 during은 어느 기간 중에라는 뜻이라 한 시점 앞에 쓰지 않고, from은 무엇부터라는 시작점을 나타내는 말이라 a long time 앞에 써서 오랫동안을 나타낼 수 없어요."
+  },
+  "summary": {
+   "card": "얼마 동안(기간의 길이) → for, 언제부터(시작 시점) → since",
+   "narration": "정답은 3번이에요. 기억할 것, 기간의 길이 앞에는 for를, 시작 시점 앞에는 since를 써요."
+  },
+  "captions": [
+   "for와 since 짝짓기",
+   "먼저 풀어 보세요",
+   "기간은 for, 시작 시점은 since",
+   "8 a.m. → since, a long time → for",
+   "정답 ③ since - for",
+   "얼마 동안 for, 언제부터 since"
+  ],
+  "sec": [
+   11,
+   20,
+   26,
+   38,
+   24,
+   10
+  ]
+ }
+}

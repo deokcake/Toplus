@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-21T11:37:49.262Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: may not에는 문맥에 따라 추측 또는 불허의 뜻이 있다. 문장의 내용으로 둘 중 어느 뜻인지 판단한다.\n풀이 순서: ① may not 뒤의 말을 본다: be home(상태). → ② may not은 ‘~하지 않을지도 모른다’는 추측이다. 다른 뜻(can't 불가능, must not 금지, don't have to 불필요)과 가른다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: may not은 추측의 문맥에서 “~이 아닐지도/하지 않을지도 모른다”라는 불확실한 가능성을 나타낸다. 따라서 정답은 ①이다.\n선택지 분석:\n① [정답] may not은 추측의 문맥에서 “~이 아닐지도/하지 않을지도 모른다”라는 불확실한 가능성을 나타낸다.\n② [오답] 반드시/틀림없다/절대로와 같은 단정은 may의 불확실한 추측과 다르다.\n③ [오답] “할 수 없다”는 불가능·능력의 부정을 나타낸다. 불확실한 가능성을 나타내는 may not보다 단정적이다.\n④ [오답] “필요가 없다”는 don’t/doesn’t have to의 뜻이다. 여기서 may not은 필요 여부가 아니라 가능성을 말한다.\n⑤ [오답] 여기서는 금지로 읽으면 문장의 뜻이 어색하다. may not을 추측으로 해석하면 “~하지 않을지도 모른다”이다.",
+    "passage": null,
+    "stem": "다음 문장의 의미로 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-21T11:37:47.380Z"
+  },
+  "tab": "ojjpxrut",
+  "updatedAt": "2026-10-21T11:37:49.262Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T11:37:49.262Z",
+      "what": "확인 완료"
+    }
+  }
+}

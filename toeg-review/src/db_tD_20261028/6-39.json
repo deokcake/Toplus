@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T04:21:48.084Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": "Are - Are"
+    },
+    "expl": "핵심 규칙: (A)와 (B)의 주어를 각각 확인하여 3인칭 단수면 Does, I·you·we·they·복수 주어면 Do를 쓴다.\n풀이 순서: ① (A)의 주어: your classmates(복수) → Do. → ② (B)의 주어: you → Do. → ③ 정답은 Do - Do.\n문장별 판정:\n정답 판단: 복수 주어와 you 모두 Do를 쓰므로 정답은 ②이다.\n선택지 분석:\n① [오답] (A): 복수 주어 your classmates에는 Do를 쓰므로 오답이다.\n② [정답] 복수 주어와 you 모두 Do를 쓰므로 정답이다.\n③ [오답] (B): 주어 you에는 Do를 쓰므로 오답이다.\n④ [오답] 복수 주어와 you에는 Does를 쓰지 않으므로 오답이다.\n⑤ [오답] 일반동사 study, help의 의문문에는 be동사를 쓰지 않으므로 오답이다.",
+    "passage": "(A) ________ your classmates study together?\n(B) ________ you help them?",
+    "stem": "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T04:21:46.020Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T04:21:48.084Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T04:21:48.084Z",
+      "what": "확인 완료"
+    }
+  }
+}

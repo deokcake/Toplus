@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-23T19:20:45.149Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "A, B, C",
+      "1": "B, D, E",
+      "2": "C, D, F",
+      "3": "A, E, F",
+      "4": "A, C, F"
+    },
+    "expl": "핵심 규칙: 조동사 뒤 원형, would rather A than B의 원형 병렬, used to + 원형과 be used to + 동명사를 구별한다. 옳고 틀린 문장을 먼저 판정한 뒤 틀린 문장을 빠짐없이 선택한다.\n풀이 순서: ① 문장마다 조동사 표현 뒤의 동사 형태를 확인한다. → ② A는 than 뒤에 waiting을, C는 can 뒤에 working을 썼고, F는 조동사 둘(will can)을 겹쳐 썼다. B의 could have called, D의 is used to living, E의 used to be는 옳다. → ③ 틀린 세 문장만 모은 A, C, F를 고른다.\n문장별 판정:\nA) 틀림: would rather A than B에서 than 뒤에도 동사원형을 쓴다. than waiting → than wait.\nB) 옳음: could have called는 더 일찍 전화할 수 있었다는 뜻을 나타낸다.\nC) 틀림: 조동사 can 뒤에는 동사원형을 쓴다. can working → can work.\nD) 옳음: be used to에서 to는 전치사이며 동명사 living이 이어져 익숙함을 나타낸다.\nE) 옳음: used to be가 과거에 극장이 있었다는 상태를 나타낸다.\nF) 틀림: 조동사 두 개를 이어 쓸 수 없다. will can finish → will be able to finish.\n정답 판단: 어법상 틀린 문장은 A, C, F이다.\n선택지 분석:\n① [오답] B는 틀린 문장이 아니고, 틀린 문장 F를 빠뜨렸다. 따라서 오답이다.\n② [오답] B, D, E는 틀린 문장이 아니고, 틀린 문장 A, C, F를 빠뜨렸다. 따라서 오답이다.\n③ [오답] D는 틀린 문장이 아니고, 틀린 문장 A를 빠뜨렸다. 따라서 오답이다.\n④ [오답] E는 틀린 문장이 아니고, 틀린 문장 C를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 틀린 문장 A, C, F를 빠짐없이 골랐으므로 정답이다.",
+    "passage": "A) We would rather leave now than waiting here for hours.\nB) Mina could have called us earlier about the delay.\nC) Tom can working at the new cafe this weekend.\nD) She is used to living alone in the big city.\nE) There used to be a theater here long ago.\nF) He will can finish the report by tomorrow morning.",
+    "stem": "다음 중 어법상 틀린 문장들로만 구성된 것을 고르시오."
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:20:45.149Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:20:45.149Z",
+      "what": "확인 완료"
+    }
+  }
+}

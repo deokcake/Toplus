@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T06:22:02.447Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "What do the pandas eat?",
+      "1": "What does the rabbits eat?",
+      "2": "What do your cat eat?",
+      "3": "What does the babies eat?",
+      "4": "What do the bird eat?"
+    },
+    "expl": "핵심 규칙: 의문사 의문문은 의문사 + do/does + 주어 + 동사원형 ~?(일반동사) 또는 의문사 + be동사 + 주어 ~?로 쓴다. 3인칭 단수 주어에는 does를, 그 밖의 주어에는 do를 쓴다.\n풀이 순서: ① 문장마다 주어가 단수인지 복수인지 가른다(-s가 붙은 명사, they는 복수). → ② 단수면 does, 복수면 do인지, 뒤의 동사가 원형인지 본다. → ③ 선택지 ①만 복수 주어 the pandas + do로 바르다. 정답은 ①.\n문장별 판정:\n정답 판단: 복수 주어 the pandas에 do를 바르게 썼으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 복수 주어 the pandas에 do를 바르게 썼으므로 정답이다.\n② [오답] 복수 주어 the rabbits에는 do를 써야 하므로 오답이다.\n③ [오답] 단수 주어 your cat에는 does를 써야 하므로 오답이다.\n④ [오답] 복수 주어 the babies에는 do를 써야 하므로 오답이다.\n⑤ [오답] 단수 주어 the bird에는 does를 써야 하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 어법상 옳은 문장을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T06:22:00.859Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T06:22:02.447Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T06:22:02.447Z",
+      "what": "확인 완료"
+    }
+  }
+}

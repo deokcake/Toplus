@@ -1,0 +1,86 @@
+{
+ "key": "2-95",
+ "grade": 2,
+ "chapter": "CH 10 관계사",
+ "items": {
+  "A": {
+   "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Ben: He has everything that he needs. 에서 that은 생략할 수 있어.\nClara: Jack is the boy who scored the goal. 에서 who는 생략할 수 있어.\nDave: Tell me the way how you did it. 에서 the way와 how는 동시에 사용할 수 없기 때문에 틀린 문장이야.\nFinn: I remember the day on which we met. 에서 on which는 when으로 바꿀 수 있어.",
+   "c": [
+    "Dave, Finn",
+    "Ben, Clara",
+    "Ben, Dave, Finn",
+    "Clara, Dave, Finn",
+    "Clara, Finn"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 목적격 관계대명사는 생략할 수 있고 주격 관계대명사는 혼자 생략할 수 없다. the way와 how는 함께 쓰지 않는다. 전치사 + which는 관계부사로 바꿀 수 있다(on which = when).\n풀이 순서: ① 관계대명사 뒤에 주어가 있으면 목적격(생략 가능), 바로 동사가 오면 주격(혼자서는 생략 불가)이다. → ② the way how는 쓰지 않고, 전치사 + which는 선행사에 맞는 관계부사로 바꿀 수 있다. → ③ Clara만 틀렸다. who 뒤에 동사 scored가 바로 오는 주격이라 생략할 수 없다. 옳게 설명한 학생만 모으면 Ben, Dave, Finn이다.\n문장별 판정: Ben O(needs의 목적어인 that은 생략할 수 있다). Clara X(scored의 주어인 who는 생략할 수 없다). Dave O(the way how는 함께 쓰지 않는다). Finn O(on which = when).\n정답 판단: 올바르게 설명한 학생은 Ben, Dave, Finn이다.\n선택지 분석:\n① [오답] 올바르게 설명한 학생은 Ben, Dave, Finn이므로 오답이다.\n② [오답] 올바르게 설명한 학생은 Ben, Dave, Finn이므로 오답이다.\n③ [정답] 올바르게 설명한 학생은 Ben, Dave, Finn이므로 정답이다.\n④ [오답] 올바르게 설명한 학생은 Ben, Dave, Finn이므로 오답이다.\n⑤ [오답] 올바르게 설명한 학생은 Ben, Dave, Finn이므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Mina: The book that I borrowed is useful. 에서 that은 생략할 수 있어.\nLeo: Jane is the girl who won the prize. 에서 who는 생략할 수 있어.\nTom: This is the way how I solved it. 은 옳은 문장이야.\nAmy: This is the house in which I lived. 에서 in which는 where로 바꿀 수 있어.",
+   "c": [
+    "Mina, Leo",
+    "Mina, Amy",
+    "Leo, Tom",
+    "Mina, Tom, Amy",
+    "Leo, Amy"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 목적격 관계대명사는 생략할 수 있지만 주격·소유격은 생략하지 않는다(주격 관계대명사 + be동사는 함께 생략할 수 있다). 관계부사는 전치사 + which로 바꿀 수 있고, the way와 how는 함께 쓰지 않으며, 전치사 뒤에는 that을 쓰지 않는다. what은 선행사를 포함한다.\n풀이 순서: ① 관계대명사 뒤에 주어가 있으면 목적격(생략 가능), 바로 동사가 오면 주격(혼자서는 생략 불가)이다. → ② the way how는 쓰지 않고, 전치사 + which는 선행사에 맞는 관계부사로 바꿀 수 있다. → ③ Leo는 주격 who를 생략할 수 있다고 했고, Tom은 the way how를 옳다고 했다. 둘 다 틀렸다. 옳게 설명한 학생만 모으면 Mina, Amy이다.\n문장별 판정:\nMina 옳음: borrowed의 목적어 역할을 하는 목적격 관계대명사라 생략할 수 있다.\nLeo 틀림: won의 주어 역할을 하는 주격 관계대명사라 생략할 수 없다.\nTom 틀림: the way와 how는 함께 쓰지 않는다(the way I solved it 또는 how I solved it).\nAmy 옳음: 장소 선행사 뒤 in which는 관계부사 where로 바꿀 수 있다.\n정답 판단: 올바르게 설명한 학생은 Mina, Amy이다.\n선택지 분석:\n① [오답] Leo는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Amy를 빠뜨렸다. 따라서 오답이다.\n② [정답] 올바르게 설명한 학생 Mina, Amy를 빠짐없이 골랐으므로 정답이다.\n③ [오답] Leo, Tom는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina, Amy를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Tom는 올바르게 설명한 학생이 아니다. 따라서 오답이다.\n⑤ [오답] Leo는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다."
+  },
+  "C": {
+   "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Jane: The movie we watched was exciting. 은 목적격 관계대명사가 생략된 문장이야.\nTom: The man lives next door is a doctor. 는 who가 생략된 옳은 문장이야.\nMina: Monday is the day on which the shop is closed. 에서 on which는 when으로 바꿀 수 있어.\nAmy: What she said surprised me. 에서 what은 선행사를 포함해.",
+   "c": [
+    "Jane, Tom",
+    "Tom, Mina, Amy",
+    "Jane, Mina",
+    "Jane, Mina, Amy",
+    "Jane, Tom, Amy"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 목적격 관계대명사는 생략할 수 있지만 주격·소유격은 생략하지 않는다(주격 관계대명사 + be동사는 함께 생략할 수 있다). 관계부사는 전치사 + which로 바꿀 수 있고, the way와 how는 함께 쓰지 않으며, 전치사 뒤에는 that을 쓰지 않는다. what은 선행사를 포함한다.\n풀이 순서: ① 관계대명사 뒤에 주어가 있으면 목적격(생략 가능), 바로 동사가 오면 주격(혼자서는 생략 불가)이다. → ② the way how는 쓰지 않고, 전치사 + which는 선행사에 맞는 관계부사로 바꿀 수 있다. → ③ Tom만 틀렸다. ‘The man lives next door is a doctor.’는 주격 who를 빼서 동사가 둘이 된 틀린 문장이다. 옳게 설명한 학생만 모으면 Jane, Mina, Amy이다.\n문장별 판정:\nJane 옳음: watched의 목적어 역할을 하는 관계대명사가 생략되었다.\nTom 틀림: 주격 관계대명사(who)는 생략할 수 없어 동사가 두 개 겹친다.\nMina 옳음: 시간 선행사 뒤 on which는 관계부사 when으로 바꿀 수 있다.\nAmy 옳음: what은 ‘~한 것’으로 선행사를 포함한다.\n정답 판단: 올바르게 설명한 학생은 Jane, Mina, Amy이다.\n선택지 분석:\n① [오답] Tom는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina, Amy를 빠뜨렸다. 따라서 오답이다.\n② [오답] Tom는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Jane를 빠뜨렸다. 따라서 오답이다.\n③ [오답] 올바르게 설명한 학생 Amy를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 올바르게 설명한 학생 Jane, Mina, Amy를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] Tom는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다."
+  },
+  "D": {
+   "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Tom: The song which I like is old. 에서 which는 생략할 수 없어.\nAmy: The boy whose bike was stolen called the police. 에서 whose는 생략할 수 없어.\nMina: Tell me the reason why you were late. 에서 why는 for which로 바꿀 수 있어.\nLeo: This is the town in that I grew up. 은 옳은 문장이야.",
+   "c": [
+    "Tom, Amy",
+    "Mina, Leo",
+    "Amy, Mina",
+    "Tom, Amy, Mina",
+    "Amy, Mina, Leo"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 목적격 관계대명사는 생략할 수 있지만 주격·소유격은 생략하지 않는다(주격 관계대명사 + be동사는 함께 생략할 수 있다). 관계부사는 전치사 + which로 바꿀 수 있고, the way와 how는 함께 쓰지 않으며, 전치사 뒤에는 that을 쓰지 않는다. what은 선행사를 포함한다.\n풀이 순서: ① 관계대명사 뒤에 주어가 있으면 목적격(생략 가능), 바로 동사가 오면 주격(혼자서는 생략 불가)이다. → ② the way how는 쓰지 않고, 전치사 + which는 선행사에 맞는 관계부사로 바꿀 수 있다. → ③ Tom은 목적격 which를 생략할 수 없다고 했고, Leo는 in that을 옳다고 했다(전치사 뒤에는 that을 쓸 수 없다). 둘 다 틀렸다. 옳게 설명한 학생만 모으면 Amy, Mina이다.\n문장별 판정:\nTom 틀림: like의 목적어 역할을 하는 목적격 관계대명사라 생략할 수 있다.\nAmy 옳음: 소유격 관계대명사(whose)는 생략할 수 없다.\nMina 옳음: 이유 선행사 뒤 why는 for which로 바꿀 수 있다.\nLeo 틀림: 전치사 뒤에는 that을 쓰지 않으므로 in which로 써야 한다.\n정답 판단: 올바르게 설명한 학생은 Amy, Mina이다.\n선택지 분석:\n① [오답] Tom는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다.\n② [오답] Leo는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Amy를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 올바르게 설명한 학생 Amy, Mina를 빠짐없이 골랐으므로 정답이다.\n④ [오답] Tom는 올바르게 설명한 학생이 아니다. 따라서 오답이다.\n⑤ [오답] Leo는 올바르게 설명한 학생이 아니다. 따라서 오답이다."
+  },
+  "E": {
+   "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Mina: The phone I bought is expensive. 는 옳은 문장이야.\nLeo: The boy who is running is Tom. 에서 who is를 함께 생략해 The boy running is Tom.으로 쓸 수 있어.\nJane: I know the reason why she cried. 에서 the reason과 why는 함께 쓸 수 없어.\nTom: What he wants is clear. 에서 What은 The thing which로 바꿀 수 있어.",
+   "c": [
+    "Mina, Leo",
+    "Leo, Jane, Tom",
+    "Mina, Jane",
+    "Jane, Tom",
+    "Mina, Leo, Tom"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 목적격 관계대명사는 생략할 수 있지만 주격·소유격은 생략하지 않는다(주격 관계대명사 + be동사는 함께 생략할 수 있다). 관계부사는 전치사 + which로 바꿀 수 있고, the way와 how는 함께 쓰지 않으며, 전치사 뒤에는 that을 쓰지 않는다. what은 선행사를 포함한다.\n풀이 순서: ① 관계대명사 뒤에 주어가 있으면 목적격(생략 가능), 바로 동사가 오면 주격(혼자서는 생략 불가)이다. → ② the way how는 쓰지 않고, 전치사 + which는 선행사에 맞는 관계부사로 바꿀 수 있다. → ③ Jane만 틀렸다. the reason why는 함께 쓸 수 있다. 함께 쓰지 못하는 것은 the way how다. 옳게 설명한 학생만 모으면 Mina, Leo, Tom이다.\n문장별 판정:\nMina 옳음: bought의 목적어 역할을 하는 관계대명사가 생략된 옳은 문장이다.\nLeo 옳음: 주격 관계대명사 + be동사는 함께 생략할 수 있다.\nJane 틀림: the reason why는 함께 쓸 수 있다(둘 중 하나를 생략해도 된다).\nTom 옳음: what은 the thing which(that)로 바꿀 수 있다.\n정답 판단: 올바르게 설명한 학생은 Mina, Leo, Tom이다.\n선택지 분석:\n① [오답] 올바르게 설명한 학생 Tom를 빠뜨렸다. 따라서 오답이다.\n② [오답] Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Leo, Tom를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina, Leo를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 올바르게 설명한 학생 Mina, Leo, Tom를 빠짐없이 골랐으므로 정답이다."
+  },
+  "F": {
+   "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Amy: The cake that we made was good. 에서 that은 which로 바꿀 수 있어.\nTom: The teacher who helped me is kind. 에서 who 대신 that을 쓸 수 있어.\nJane: This is the house where she lives. 에서 where는 which로 바꿀 수 있어.\nMina: I don't like the way he talks. 는 옳은 문장이야.",
+   "c": [
+    "Amy, Tom, Mina",
+    "Tom, Jane",
+    "Amy, Jane, Mina",
+    "Amy, Tom",
+    "Tom, Jane, Mina"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 목적격 관계대명사는 생략할 수 있지만 주격·소유격은 생략하지 않는다(주격 관계대명사 + be동사는 함께 생략할 수 있다). 관계부사는 전치사 + which로 바꿀 수 있고, the way와 how는 함께 쓰지 않으며, 전치사 뒤에는 that을 쓰지 않는다. what은 선행사를 포함한다.\n풀이 순서: ① 관계대명사 뒤에 주어가 있으면 목적격(생략 가능), 바로 동사가 오면 주격(혼자서는 생략 불가)이다. → ② the way how는 쓰지 않고, 전치사 + which는 선행사에 맞는 관계부사로 바꿀 수 있다. → ③ Jane만 틀렸다. where 뒤는 완전한 절이라 which로 바꿀 수 없다(in which는 가능). 옳게 설명한 학생만 모으면 Amy, Tom, Mina이다.\n문장별 판정:\nAmy 옳음: 사물 선행사 뒤 목적격 관계대명사 that은 which로 바꿀 수 있다.\nTom 옳음: 사람 선행사 뒤 주격 관계대명사 who는 that으로 바꿀 수 있다.\nJane 틀림: where는 in which로 바꿔야 하며 which만으로는 lives 뒤 장소를 나타내지 못한다.\nMina 옳음: the way 뒤에 how 없이 절이 온 옳은 문장이다.\n정답 판단: 올바르게 설명한 학생은 Amy, Tom, Mina이다.\n선택지 분석:\n① [정답] 올바르게 설명한 학생 Amy, Tom, Mina를 빠짐없이 골랐으므로 정답이다.\n② [오답] Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Amy, Mina를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Tom를 빠뜨렸다. 따라서 오답이다.\n④ [오답] 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Amy를 빠뜨렸다. 따라서 오답이다."
+  }
+ },
+ "prior_review": {}
+}

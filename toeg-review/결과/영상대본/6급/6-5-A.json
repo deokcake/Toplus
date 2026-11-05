@@ -1,0 +1,176 @@
+{
+ "key": "6-5",
+ "type": "A",
+ "grade": 6,
+ "chapter": "CH 1 명사와 관사",
+ "title": "첫소리로 고르는 a와 an",
+ "total_sec": 127,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "6급 · CH 1 명사와 관사 · 5번\n\n이 문제는 관사 a, an, the가 바르게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 1 명사와 관사 · 5번",
+     "이 문제는 관사 a, an, the가 바르게 쓰였는지 살펴 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 1, 5번. 이 문제는 관사 a, an, the가 바르게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+   "caption": "a, an, the 틀린 문장 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① They live in an igloo.\n② Can you give me a hour?\n③ Look at the sky.\n④ I play the flute.\n⑤ Wait a second!",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 틀린 문장을 고르시오.",
+     "① They live in an igloo.",
+     "② Can you give me a hour?",
+     "③ Look at the sky.",
+     "④ I play the flute.",
+     "⑤ Wait a second!"
+    ]
+   },
+   "narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\na, an은 바로 뒤 낱말의 첫 글자가 아니라 첫소리로 골라요\n자음 소리로 시작 → a (a dog, a big box)\n모음 소리(아, 애, 에, 이, 오, 어 등)로 시작 → an (an umbrella, an old car)\nh를 발음하지 않는 hour, honest → an  ·  ‘유’ 소리로 시작하는 uniform → a\n예) I ate a hamburger an hour ago. (나는 한 시간 전에 햄버거를 먹었어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "a, an은 바로 뒤 낱말의 첫 글자가 아니라 첫소리로 골라요",
+     "자음 소리로 시작 → a (a dog, a big box)",
+     "모음 소리(아, 애, 에, 이, 오, 어 등)로 시작 → an (an umbrella, an old car)",
+     "h를 발음하지 않는 hour, honest → an  ·  ‘유’ 소리로 시작하는 uniform → a",
+     "예) I ate a hamburger an hour ago. (나는 한 시간 전에 햄버거를 먹었어요.)"
+    ]
+   },
+   "narration": "a와 an은 보통 셀 수 있는 것 하나를 말할 때 쓰는데, 둘 중 무엇을 쓸지는 바로 뒤 낱말의 첫 글자가 아니라 첫소리로 정해요. 자음 소리로 시작하면 a를 쓰고, 아, 애, 에, 이, 오, 어 같은 모음 소리로 시작하면 an을 써요. 그래서 h를 발음하지 않는 hour와 honest 앞에는 an을 쓰고, 유 소리로 시작하는 uniform 앞에는 a를 써요. 예를 들어 I ate a hamburger an hour ago, 나는 한 시간 전에 햄버거를 먹었어요. hamburger는 h를 발음해서 a, hour는 h를 발음하지 않아서 an을 썼어요.",
+   "caption": "a, an은 첫소리로 골라요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 35,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① They live in an igloo.\n② Can you give me a hour?\n③ Look at the sky.\n④ I play the flute.\n⑤ Wait a second!",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "an igloo",
+       "a second"
+      ],
+      "strike": [],
+      "note": "a, an 바로 뒤 낱말의 첫소리: igloo(모음 소리) → an, second(자음 소리) → a → 맞다"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "② Can you give me a hour?"
+      ],
+      "strike": [
+       "a hour"
+      ],
+      "note": "hour는 h를 발음하지 않음 → 첫소리가 모음 소리 → a hour ✗, an hour"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "the sky",
+       "the flute"
+      ],
+      "strike": [],
+      "note": "the sky(하나뿐인 하늘), play the flute(악기 연주) → 맞다 → 틀린 문장은 ②"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, a나 an 바로 뒤 낱말의 첫소리를 들어 보면, igloo는 모음 소리로 시작해서 an igloo, second는 자음 소리로 시작해서 a second가 맞아요. 둘째, hour는 h를 발음하지 않아서 모음 소리로 시작하니, a hour가 아니라 an hour로 써야 해요. Can you give me an hour? 나에게 한 시간을 내줄 수 있어요? 셋째, 하나뿐인 하늘을 가리키는 the sky와, 악기를 연주한다는 play the flute도 the를 바르게 썼어요. 따라서 틀린 문장은 2번이에요.",
+   "caption": "첫소리 → hour → the 확인"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 27,
+   "screen": {
+    "text": "① They live in an igloo.  ✗  igloo는 모음 소리로 시작 → an이 맞아요\n② Can you give me a hour?  ✓  hour는 h를 발음하지 않아요 → an hour (틀린 문장)\n③ Look at the sky.  ✗  하나뿐인 하늘 → the sky가 맞아요\n④ I play the flute.  ✗  악기를 연주할 때 악기 이름 앞에 the → 맞아요\n⑤ Wait a second!  ✗  second는 자음 소리로 시작 → a가 맞아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① They live in an igloo.  ✗  igloo는 모음 소리로 시작 → an이 맞아요",
+     "② Can you give me a hour?  ✓  hour는 h를 발음하지 않아요 → an hour (틀린 문장)",
+     "③ Look at the sky.  ✗  하나뿐인 하늘 → the sky가 맞아요",
+     "④ I play the flute.  ✗  악기를 연주할 때 악기 이름 앞에 the → 맞아요",
+     "⑤ Wait a second!  ✗  second는 자음 소리로 시작 → a가 맞아요"
+    ]
+   },
+   "narration": "정답은 2번이에요. hour는 h를 발음하지 않아 모음 소리로 시작하니 an hour로 써야 해요. 4번 the flute를 틀렸다고 보기 쉽지만, 악기를 연주한다고 할 때는 악기 이름 앞에 the를 써요. 1번 igloo는 모음 소리로 시작해서 an이 맞아요. 5번 Wait a second는 잠깐 기다리라는 뜻이고, second가 자음 소리로 시작해서 a가 맞아요.",
+   "caption": "정답 ② a hour → an hour"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② Can you give me a hour?\n\na, an은 첫소리로: 자음 소리 → a, 모음 소리 → an (an hour, an honest)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② Can you give me a hour?",
+     "a, an은 첫소리로: 자음 소리 → a, 모음 소리 → an (an hour, an honest)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, a와 an은 첫 글자가 아니라 바로 뒤 낱말의 첫소리로 골라요. h를 발음하지 않는 hour 앞에는 an을 써요.",
+   "caption": "h를 발음 안 하면 an"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "They live in an igloo.",
+   "Can you give me a hour?",
+   "Look at the sky.",
+   "I play the flute.",
+   "Wait a second!"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: a/an은 철자가 아니라 첫소리로 정한다. hour, honest는 h를 발음하지 않아 an, university, uniform, useful, European은 /j/ 소리로 시작해 a를 쓴다.\n풀이 순서: ① a/an 뒤 낱말의 첫 ‘소리’를 본다. 철자와 소리가 다른 낱말(h를 발음하지 않는 낱말, ‘유’로 소리 나는 u·eu)을 살핀다. → ② hour는 ‘아워’로 모음 소리라 an hour다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: hour는 h를 발음하지 않아 an hour로 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] igloo는 모음 소리로 시작해 an이 맞으므로 오답이다.\n② [정답] hour는 h를 발음하지 않아 an hour로 써야 하므로 정답이다.\n③ [오답] 하나뿐인 sky 앞에 the를 바르게 썼으므로 오답이다.\n④ [오답] 악기 이름 앞에 the를 바르게 썼으므로 오답이다.\n⑤ [오답] second는 자음 소리로 시작해 a가 맞으므로 오답이다."
+ }
+}

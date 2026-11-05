@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-26T04:02:47.348Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "㉠, ㉡",
+      "1": "㉠, ㉢",
+      "2": "㉡, ㉢",
+      "3": "㉡, ㉣",
+      "4": "㉢, ㉣"
+    },
+    "expl": "핵심 규칙: 진행형은 be동사 + 동사-ing로 만들며 be동사는 주어에 맞춘다. 단모음 + 단자음으로 끝나는 동사는 자음을 한 번 더 쓰고(swim → swimming, nap → napping, sit → sitting), -e로 끝나면 e를 뺀다(have → having, write → writing).\n풀이 순서: ① 문장마다 be동사가 주어에 맞는지 본다. → ② be동사 뒤가 -ing인지, 철자가 맞는지 본다(끝 자음을 겹치는 동사, e를 빼는 동사). → ③ 틀린 문장을 지운다: ㉢ writting(writing), ㉣ am study(am studying). 남은 두 문장을 묶은 ㉠, ㉡가 정답이다.\n문장별 판정:\n㉠ O. is + watching이다.\n㉡ O. sit은 t를 한 번 더 써 sitting이다.\n㉢ X. write는 e를 빼고 writing이다(t는 한 번만 쓴다).\n㉣ X. am 뒤에는 studying을 쓴다.\n정답 판단: 옳은 문장은 ㉠, ㉡이다.\n선택지 분석:\n① [정답] 옳은 문장 ㉠, ㉡를 빠짐없이 골랐으므로 정답이다.\n② [오답] ㉢는 옳은 문장이 아니고, 옳은 문장 ㉡를 빠뜨렸다. 따라서 오답이다.\n③ [오답] ㉢는 옳은 문장이 아니고, 옳은 문장 ㉠를 빠뜨렸다. 따라서 오답이다.\n④ [오답] ㉣는 옳은 문장이 아니고, 옳은 문장 ㉠를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] ㉢, ㉣는 옳은 문장이 아니고, 옳은 문장 ㉠, ㉡를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "㉠ Tom is watching TV with his little brother.\n㉡ They are sitting on the bench in the park.\n㉢ Jane is writting a letter to her pen pal.\n㉣ I am study for the English test now.",
+    "stem": "다음 중 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T04:02:47.348Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:02:47.348Z",
+      "what": "확인 완료"
+    }
+  }
+}

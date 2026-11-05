@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-28T02:58:44.182Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "don't have to",
+      "1": "can",
+      "2": "will",
+      "3": "might not",
+      "4": "must not"
+    },
+    "expl": "핵심 규칙: must(~해야 한다), must not(~하면 안 된다), can(~할 수 있다), might(~일지도 모른다), will(~할 것이다)처럼 우리말 뜻에 맞는 조동사를 고른다.\n풀이 순서: ① 우리말에서 조동사에 해당하는 말을 찾는다: ‘해야 한다’. → ② 발문이 have to의 형태를 물었다. 주어 Students가 복수이므로 have to다. → ③ 정답은 must not.\n문장별 판정:\n정답 판단: must not은 ‘~하면 안 된다’는 금지이므로 우리말과 맞아 정답은 ⑤이다.\n선택지 분석:\n① [오답] don't have to는 ‘~할 필요가 없다’는 뜻이므로 우리말과 맞지 않아 오답이다.\n② [오답] can은 ‘~할 수 있다’는 뜻이므로 우리말과 맞지 않아 오답이다.\n③ [오답] will은 ‘~할 것이다’는 뜻이므로 우리말과 맞지 않아 오답이다.\n④ [오답] might not은 ‘~하지 않을지도 모른다’는 뜻이므로 우리말과 맞지 않아 오답이다.\n⑤ [정답] must not은 ‘~하면 안 된다’는 금지이므로 우리말과 맞아 정답이다.",
+    "passage": "학생들은 도서관에서 떠들면 안 된다.\nStudents _____ make noise in the library.",
+    "stem": "빈칸에 들어갈 알맞은 말을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-28T02:58:25.981Z"
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T02:58:44.182Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T02:58:44.182Z",
+      "what": "확인 완료"
+    }
+  }
+}

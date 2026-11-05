@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T05:12:35.506Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "I have <u>two</u> brothers.(나는 남자 형제가 두 명 있다.)",
+      "1": "Today is my <u>tenth</u> birthday.(오늘은 나의 열 번째 생일이다.)",
+      "2": "There are <u>seven</u> days in a week.(일주일은 7일이다.)",
+      "3": "He is my <u>three</u> son.(그는 나의 셋째 아들이다.)",
+      "4": "She lives on the <u>fifth</u> floor.(그녀는 5층에 산다.)"
+    },
+    "expl": "핵심 규칙: 개수를 말할 때는 기수(one, two, three …), 순서를 말할 때는 서수(first, second, third …)를 쓴다. 우리말 뜻이 ‘~ 번째, 첫째, ~층, ~등’이면 서수가 필요하다.\n풀이 순서: ① 우리말 해석에서 밑줄 친 수가 개수인지 순서(~ 번째, ~층, 첫)인지 가른다. → ② 개수면 기수(one, two …), 순서면 서수(first, second …)여야 한다. → ③ 선택지 ④의 ‘셋째 아들’은 순서인데 기수 three를 썼다. 정답은 ④.\n문장별 판정:\n정답 판단: ‘셋째’라는 순서를 나타내고, 기수 three가 아니라 서수 third를 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 개수를 나타내고, 기수(two)를 바르게 썼으므로 오답이다.\n② [오답] 순서를 나타내고, 서수(tenth)를 바르게 썼으므로 오답이다.\n③ [오답] 개수를 나타내고, 기수(seven)를 바르게 썼으므로 오답이다.\n④ [정답] ‘셋째’라는 순서를 나타내고, 기수 three가 아니라 서수 third를 써야 하므로 정답이다.\n⑤ [오답] 순서를 나타내고, 서수(fifth)를 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 부분이 틀린 문장을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T05:12:34.720Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T05:12:35.506Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T05:12:35.506Z",
+      "what": "확인 완료"
+    }
+  }
+}

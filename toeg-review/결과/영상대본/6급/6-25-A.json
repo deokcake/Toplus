@@ -1,0 +1,180 @@
+{
+ "key": "6-25",
+ "type": "A",
+ "grade": 6,
+ "chapter": "CH 3 be동사 과거",
+ "title": "the cookies로 묻는 Were 의문문의 대답",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "6급 · CH 3 be동사 과거 · 25번\n\n이 문제는 주어가 the cookies인 Were 의문문에 어법상 알맞은 대답을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 3 be동사 과거 · 25번",
+     "이 문제는 주어가 the cookies인 Were 의문문에 어법상 알맞은 대답을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 3, 25번. 이 문제는 주어가 the cookies인 Were 의문문에 어법상 알맞은 대답을 고르는 문제예요.",
+   "caption": "the cookies로 묻는 Were 의문문"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 질문에 대한 대답으로 어법상 가장 알맞은 것은?\n\nWere the cookies delicious?\n\n① Yes, it was.\n② Yes, they were.\n③ No, they was not.\n④ Yes, they are.\n⑤ No, it were not.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 질문에 대한 대답으로 어법상 가장 알맞은 것은?",
+     "Were the cookies delicious?",
+     "① Yes, it was.",
+     "② Yes, they were.",
+     "③ No, they was not.",
+     "④ Yes, they are.",
+     "⑤ No, it were not."
+    ]
+   },
+   "narration": "다음 질문에 대한 대답으로 어법상 가장 알맞은 것을 고르세요. Were the cookies delicious? 그 쿠키들은 맛있었니? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\nWas/Were로 묻는 be동사 과거 의문문 → be동사 과거형으로 답해요.\nYes, 주어 + was/were. / No, 주어 + wasn't(was not)/weren't(were not).\n명사 주어는 대명사로: 남자 한 명 he, 여자 한 명 she, 물건 하나 it, 둘 이상 they\nI, he, she, it → was / you, we, they → were\n예) Was the box heavy? No, it wasn't. (그 상자는 무거웠니? 아니, 안 무거웠어.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "Was/Were로 묻는 be동사 과거 의문문 → be동사 과거형으로 답해요.",
+     "Yes, 주어 + was/were. / No, 주어 + wasn't(was not)/weren't(were not).",
+     "명사 주어는 대명사로: 남자 한 명 he, 여자 한 명 she, 물건 하나 it, 둘 이상 they",
+     "I, he, she, it → was / you, we, they → were",
+     "예) Was the box heavy? No, it wasn't. (그 상자는 무거웠니? 아니, 안 무거웠어.)"
+    ]
+   },
+   "narration": "Was나 Were로 물으면 be동사 과거형으로, Yes면 was나 were, No면 wasn't나 weren't로 답해요. 명사 주어는 대명사로 바꿔 물건 하나는 it, 둘 이상은 they로 받고, I, he, she, it에는 was, you, we, they에는 were를 써요. Was the box heavy? 그 상자는 무거웠니? No, it wasn't. 아니, 안 무거웠어.",
+   "caption": "Was/Were 의문문의 대답"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 28,
+   "screen": {
+    "text": "다음 질문에 대한 대답으로 어법상 가장 알맞은 것은?\n\nWere the cookies delicious?\n\n① Yes, it was.\n② Yes, they were.\n③ No, they was not.\n④ Yes, they are.\n⑤ No, it were not.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "the cookies"
+      ],
+      "strike": [
+       "① Yes, it was.",
+       "⑤ No, it were not."
+      ],
+      "note": "the cookies = 쿠키 여러 개 → they. it으로 답한 ①, ⑤는 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "Were"
+      ],
+      "strike": [
+       "④ Yes, they are."
+      ],
+      "note": "Were로 묻는 과거 의문문 → 대답도 과거형. 현재형 are로 답한 ④는 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② Yes, they were."
+      ],
+      "strike": [
+       "③ No, they was not."
+      ],
+      "note": "they에는 was not이 아니라 were not → ③도 지운다. 남는 것은 ② → Yes, they were."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 질문의 주어 the cookies는 쿠키 여러 개라서 they로 받아야 해요. 그래서 it으로 답한 1번과 5번은 지워요. 둘째, Were로 묻는 과거 의문문이니, 현재형 are로 답한 4번도 지워요. 셋째, they에는 was가 아니라 were를 쓰니 3번도 지우면, 남는 것은 2번이에요. Yes, they were. 응, 맛있었어.",
+   "caption": "they → 과거형 → were"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 25,
+   "screen": {
+    "text": "① Yes, it was.  ✗  쿠키 여러 개인 the cookies는 it이 아니라 they\n② Yes, they were.  ✓  the cookies → they, they에는 were\n③ No, they was not.  ✗  they에는 was not이 아니라 were not\n④ Yes, they are.  ✗  과거로 물었는데 현재형 are로 답했어요\n⑤ No, it were not.  ✗  the cookies는 it이 아니고, it에는 were not도 안 써요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Yes, it was.  ✗  쿠키 여러 개인 the cookies는 it이 아니라 they",
+     "② Yes, they were.  ✓  the cookies → they, they에는 were",
+     "③ No, they was not.  ✗  they에는 was not이 아니라 were not",
+     "④ Yes, they are.  ✗  과거로 물었는데 현재형 are로 답했어요",
+     "⑤ No, it were not.  ✗  the cookies는 it이 아니고, it에는 were not도 안 써요"
+    ]
+   },
+   "narration": "정답은 2번이에요. 4번 Yes, they are는 주어 they는 맞지만, 과거로 물었는데 현재형 are로 답해서 틀렸어요. 3번은 they에 was not을 써서 틀렸어요. 줄이지 않은 꼴이 문제가 아니라, they에는 were not을 써야 해요. 1번은 쿠키 여러 개를 it으로 받아서 틀렸어요.",
+   "caption": "정답 ② Yes, they were."
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ② Yes, they were.\n\nWas/Were 의문문 → 대명사 주어 + 그 주어에 맞는 was/were (the cookies → they were)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② Yes, they were.",
+     "Was/Were 의문문 → 대명사 주어 + 그 주어에 맞는 was/were (the cookies → they were)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, Was나 Were로 물으면 질문의 주어를 대명사로 바꾸고, 그 대명사에 맞는 was나 were로 답해요.",
+   "caption": "대명사 주어 + was/were"
+  }
+ ],
+ "source": {
+  "stem": "다음 질문에 대한 대답으로 어법상 가장 알맞은 것은?",
+  "passage": "Were the cookies delicious?",
+  "c": [
+   "Yes, it was.",
+   "Yes, they were.",
+   "No, they was not.",
+   "Yes, they are.",
+   "No, it were not."
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: Was/Were 의문문에는 Yes, 주어 + was/were. / No, 주어 + wasn't/weren't.로 답한다. 대답의 주어는 질문의 주어를 받는 대명사다.\n풀이 순서: ① 질문의 주어를 대명사로 바꾼다: the cookies → they. → ② 질문이 과거(Was/Were)이므로 대답도 was/were로 하고, 대명사에 맞춘다: they were. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: the cookies를 they로 받고 were로 답했으므로 정답은 ②이다.\n선택지 분석:\n① [오답] the cookies는 복수라 it으로 받을 수 없으므로 오답이다.\n② [정답] the cookies를 they로 받고 were로 답했으므로 정답이다.\n③ [오답] they에 was를 쓸 수 없으므로 오답이다.\n④ [오답] 과거의 질문에 현재형 are로 답할 수 없으므로 오답이다.\n⑤ [오답] the cookies를 it으로 받을 수 없고 it에 were도 쓸 수 없으므로 오답이다."
+ }
+}

@@ -1,0 +1,31 @@
+{
+  "by": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-24T02:50:01.786Z",
+  "doneBy": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "She went to Busan by the train.",
+      "1": "He comes to school by a bicycle.",
+      "2": "We traveled to Japan by ship.",
+      "3": "They go to work by the subway.",
+      "4": "I came here by an airplane."
+    },
+    "expl": "핵심 규칙: by + 교통수단(bus, train, taxi, plane, ship, bike)에는 관사를 쓰지 않는다.\n풀이 순서: ① 문장마다 by 뒤를 본다. 교통수단을 나타내는 by 뒤에는 a/an/the를 쓰지 않는다. → ② by the train, by a bicycle, by the subway, by an airplane은 관사가 있어 틀렸다. by ship만 옳다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: by + 교통수단에 관사 없이 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] by + 교통수단에는 관사를 쓰지 않으므로 오답이다.\n② [오답] by + 교통수단에는 관사를 쓰지 않으므로 오답이다.\n③ [정답] by + 교통수단에 관사 없이 바르게 썼으므로 정답이다.\n④ [오답] by + 교통수단에는 관사를 쓰지 않으므로 오답이다.\n⑤ [오답] by + 교통수단에는 관사를 쓰지 않으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": "2026-10-24T02:49:58.671Z"
+  },
+  "tab": "ai7fx4gw",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": {
+      "at": "2026-10-24T02:50:01.786Z",
+      "what": "확인 완료"
+    }
+  }
+}

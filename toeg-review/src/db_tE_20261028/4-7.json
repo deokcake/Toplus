@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T07:52:46.328Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "She eats many bread with milk before school every morning.",
+      "1": "She eats some bread with milk before school every morning.",
+      "2": "She eats an bread with milk before school every morning.",
+      "3": "She eats two bread with milk before school every morning.",
+      "4": "She eats a bread with milk before school every morning."
+    },
+    "expl": "핵심 규칙: 이 문장에서 빵의 양을 나타내는 bread는 불가산으로 취급하며 some bread로 약간의 양을 나타낸다. 종류·제공 단위를 세는 다른 문맥의 가산 용법과 구별한다.\n풀이 순서: ① 명사(bread)가 셀 수 있는지 본다. 하나, 둘로 세지 않고 양으로 다루는 명사다. → ② 셀 수 없는 명사에는 a/an, 수(two), many, 복수형 -s를 쓰지 않는다. → ③ ‘약간’은 some으로 나타낸다. 정답은 ②.\n문장별 판정:\n정답 판단: ‘약간의 빵’를 some + 셀 수 없는 명사로 바르게 옮겼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] many는 셀 수 있는 명사의 복수형에 쓰므로 셀 수 없는 bread에는 쓸 수 없어 오답이다.\n② [정답] ‘약간의 빵’를 some + 셀 수 없는 명사로 바르게 옮겼으므로 정답이다.\n③ [오답] 셀 수 없는 명사 bread 앞에 an을 쓸 수 없으므로 오답이다.\n④ [오답] 셀 수 없는 명사 bread 앞에 수(two)를 쓸 수 없으므로 오답이다.\n⑤ [오답] 셀 수 없는 명사 bread 앞에 a를 쓸 수 없으므로 오답이다.",
+    "passage": "그녀는 매일 아침 학교에 가기 전에 우유와 함께 빵을 약간 먹는다.",
+    "stem": "다음 우리말을 영어로 가장 바르게 옮긴 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:52:10.067Z"
+  },
+  "tab": "el3qe2ii",
+  "updatedAt": "2026-10-27T07:52:46.328Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:52:46.328Z",
+      "what": "확인 완료"
+    }
+  }
+}

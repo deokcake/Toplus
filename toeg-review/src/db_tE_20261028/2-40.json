@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-24T00:36:34.256Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 진행 수동태는 be being p.p., 완료 수동태는 have/has been p.p., 미래 수동태는 will be p.p.이다. make·지각동사의 원형부정사 보어는 수동태에서 to부정사가 되며 지각동사의 현재분사 보어는 그대로 둔다. be interested는 in과 함께 쓴다.\n풀이 순서: ① 문장마다 주어가 동작을 받는 대상인지 보고 ‘be동사 + 과거분사’가 갖춰졌는지 확인한다. 진행은 being, 완료는 been이 들어간다. → ② 사역·지각동사의 수동태 뒤 형태(to부정사·현재분사)와 전치사도 본다. → ③ ⓑ는 widened, ⓒ는 made to clean으로 써야 하고, ⓕ는 after 뒤에 by가 빠졌다. 틀린 문장은 3개이다.\n문장별 판정:\nⓐ O. 미래 수동태(will be finished)이다.\nⓑ X. being 뒤에는 과거분사를 쓴다. 교정문: The narrow road is being widened for the new buses.\nⓒ X. make의 원형부정사 보어는 수동태에서 to부정사가 된다. 교정문: The child was made to clean the messy room by his father.\nⓓ O. 완료 수동태(has been delivered)이다.\nⓔ O. 단순과거 수동태(was sung)이다.\nⓕ X. look after의 after를 그대로 두고 행위자 앞에 by를 쓴다. 교정문: The baby is being looked after by her aunt this week.\n정답 판단: 어법상 틀린 문장은 ⓑ, ⓒ, ⓕ로 3개이다.\n선택지 분석:\n① [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓕ로 3개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓕ로 3개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [정답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓕ로 3개이다. 이 보기의 3개는 실제 개수와 일치한다.\n④ [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓕ로 3개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓕ로 3개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "ⓐ The final report will be finished by our team tomorrow.\nⓑ The narrow road is being widen for the new buses.\nⓒ The child was made clean the messy room by his father.\nⓓ The package has been delivered to the wrong address again.\nⓔ This beautiful song was sung by Mina at the concert.\nⓕ The baby is being looked after her aunt this week.",
+    "stem": "다음 중 어법상 틀린 문장의 개수를 고르시오."
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-24T00:36:34.256Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T00:36:34.256Z",
+      "what": "확인 완료"
+    }
+  }
+}

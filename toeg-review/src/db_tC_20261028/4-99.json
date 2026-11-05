@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:58:00.140Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Why don't we <u>swim</u>? - Shall we <u>swimming</u>?",
+      "1": "Let's <u>draw</u> pictures. - How about <u>draw</u> pictures?",
+      "2": "Shall we <u>cook</u>? - Let's <u>cooking</u>.",
+      "3": "What about <u>visiting</u> Grandma? - Why don't we <u>visit</u> Grandma?",
+      "4": "How about <u>running</u>? - Let's <u>running</u>."
+    },
+    "expl": "핵심 규칙: Let's, Shall we, Why don't we 뒤에는 동사원형을, How about·What about 뒤에는 동명사(-ing)를 쓴다.\n풀이 순서: ① 제안 표현을 둘로 가른다: 뒤에 동사원형이 오는 것(Let's, Shall we, Why don't we), 뒤에 -ing가 오는 것(How about, What about). → ② 짝마다 두 밑줄을 모두 확인한다. 하나라도 틀리면 지운다. → ③ 선택지 ④만 What about visiting, Why don't we visit로 둘 다 맞다. 정답은 ④.\n문장별 판정:\n정답 판단: 두 제안문 모두 뒤의 동사 형태가 바르므로 정답은 ④이다.\n선택지 분석:\n① [오답] Shall we 뒤에는 동사원형 swim을 써야 하므로 오답이다.\n② [오답] How about 뒤에는 drawing을 써야 하므로 오답이다.\n③ [오답] Let's 뒤에는 동사원형 cook을 써야 하므로 오답이다.\n④ [정답] 두 제안문 모두 뒤의 동사 형태가 바르므로 정답이다.\n⑤ [오답] Let's 뒤에는 동사원형 run을 써야 하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 부분이 모두 올바른 것을 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:57:59.501Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:58:00.140Z",
+      "what": "확인 완료"
+    }
+  }
+}

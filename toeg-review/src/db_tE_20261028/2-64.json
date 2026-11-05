@@ -1,0 +1,37 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:23:55.015Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "He left the room without <u>close</u> the door behind him.",
+      "1": "How about <u>to take</u> a taxi to the airport instead?",
+      "2": "Jane apologized for <u>being</u> late for the important meeting.",
+      "3": "I'm looking <u>forward hearing</u> from you very soon.",
+      "4": "She is <u>used reading</u> poems before going to bed."
+    },
+    "expl": "핵심 규칙: 전치사 뒤에는 명사나 동명사를 쓰며 to부정사를 쓰지 않는다. look forward to·be used to의 to도 전치사이므로 뒤에 동명사를 쓴다.\n풀이 순서: ① 밑줄마다 전치사(또는 전치사 to로 끝나는 look forward to·be used to) 뒤의 형태를 본다. → ② 전치사 뒤에는 동명사(-ing)를 쓴다. 동사원형·to부정사는 올 수 없고, -ing형이라도 앞의 전치사 to가 빠지면 틀린다. → ③ 바른 것은 ③(for being)뿐이다.\n문장별 판정:\n정답 판단: 전치사 for 뒤에 동명사 being을 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 전치사 without 뒤에는 동사원형이 아니라 동명사 closing을 써야 하므로 오답이다.\n② [오답] 전치사 about 뒤에는 to부정사가 아니라 동명사 taking을 써야 하므로 오답이다.\n③ [정답] 전치사 for 뒤에 동명사 being을 바르게 썼으므로 정답이다.\n④ [오답] -ing형은 맞지만 look forward to의 전치사 to가 빠졌다. forward to hearing으로 써야 하므로 오답이다.\n⑤ [오답] -ing형은 맞지만 be used to의 전치사 to가 빠졌다. used to reading으로 써야 하므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 것을 고르시오."
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:01:02.292Z",
+      "text": "정답이 되는 선택지만 동명사를 쓰고 있어 형태로 정답을 유추할 수 있다."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:23:55.015Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:23:31.482Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:23:55.015Z",
+      "what": "확인 완료"
+    }
+  }
+}

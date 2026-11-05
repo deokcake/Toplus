@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:32:49.452Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "It was <u>biggest</u> fish I've ever caught in this lake.",
+      "1": "She is <u>my best</u> friend in our class.",
+      "2": "This is <u>our oldest</u> photo of our grandmother.",
+      "3": "He is one of <u>the richest</u> men in the country.",
+      "4": "This is <u>the most beautiful</u> beach I've ever visited."
+    },
+    "expl": "핵심 규칙: 형용사의 최상급이 명사를 꾸밀 때는 앞에 the를 쓴다. 소유격(my, our 등)이 있으면 the를 쓰지 않는다.\n풀이 순서: ① 밑줄은 모두 명사를 꾸미는 형용사의 최상급이다. → ② 형용사의 최상급 앞에는 the나 소유격(my, our 등)을 쓴다(one of the + 최상급도 같다). → ③ 선택지 ①만 the도 소유격도 없다. 바른 형태는 the biggest.\n문장별 판정:\n정답 판단: 명사를 꾸미는 최상급 앞에는 the나 소유격이 와야 하는데 ①은 biggest 앞에 아무것도 없다. the biggest로 고쳐야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] 형용사 최상급 biggest 앞에 the가 빠져 어법상 완전하지 않으므로 정답이다.\n② [오답] 최상급 best 앞에 소유격 my를 썼으므로 the가 없어도 맞다. 오답이다.\n③ [오답] 최상급 oldest 앞에 소유격 our를 썼으므로 the 없이도 맞다. 오답이다.\n④ [오답] one of the + 최상급 + 복수명사를 바르게 썼으므로 오답이다.\n⑤ [오답] 긴 형용사의 최상급 the most beautiful을 바르게 썼으므로 오답이다.",
+    "passage": "",
+    "stem": "다음 문장 중 밑줄 친 부분이 어법상 완전하지 않은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T11:42:59.308Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T11:43:28.322Z",
+      "text": "정답 선택지만 the를 포함하지 않아, 쉽게 유추가 가능함"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:32:49.452Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:32:42.656Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:32:49.452Z",
+      "what": "확인 완료"
+    }
+  }
+}

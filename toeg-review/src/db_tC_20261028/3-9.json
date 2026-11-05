@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T04:29:36.064Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": null,
+      "1": "나, 다",
+      "2": "가, 라",
+      "3": "가, 다, 라",
+      "4": "나, 라"
+    },
+    "expl": "핵심 규칙: There + be동사 구문에서 there는 형식상 앞에 오는 유도부사이고 실제 주어는 be동사 뒤의 명사이다. be동사의 수·시제는 실제 주어와 때에 맞추며, 의문문은 be동사를 there 앞에 두고 Yes, there is./No, there isn't.처럼 답한다.\n풀이 순서: ① There is/are 문장에서 실제 주어는 be동사 뒤의 명사(two books)다. there는 주어가 아니다. → ② be동사는 그 명사의 수와 시제에 맞추고, 의문문은 be동사를 there 앞으로 옮긴다. 대답은 Yes, there is(are). / No, there isn't(aren't).다. → ③ 틀린 설명을 지운다: 나(there에 수를 맞춘다고 함), 다(Yes, it is.로 답한다고 함). 남은 것을 묶은 가, 라가 정답이다.\n문장별 판정:\n가 O. 실제 주어가 복수라 Are이다.\n나 X. there는 주어가 아니다.\n다 X. Yes, there are.로 답한다.\n라 O. be동사를 there 뒤로 돌리면 평서문이 된다.\n정답 판단: 옳은 설명은 가, 라이다.\n선택지 분석:\n① [오답] 나는 옳은 설명이 아니고, 옳은 설명 라를 빠뜨렸다. 따라서 오답이다.\n② [오답] 나, 다는 옳은 설명이 아니고, 옳은 설명 가, 라를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 옳은 설명 가, 라를 빠짐없이 골랐으므로 정답이다.\n④ [오답] 다는 옳은 설명이 아니다. 따라서 오답이다.\n⑤ [오답] 나는 옳은 설명이 아니고, 옳은 설명 가를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "<보기>\nAre there two books on the desk?\n\n가. 실제 주어 two books가 복수라 Are를 썼다.\n나. there가 문장의 주어이므로 there에 수를 맞춘다.\n다. 이 질문에는 Yes, it is.로 답한다.\n라. 평서문으로 바꾸면 There are two books on the desk.가 된다.",
+    "stem": "다음 중 <보기> 문장에 대한 설명 중 옳은 것을 모두 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:29:19.898Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T04:29:36.064Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:29:36.064Z",
+      "what": "확인 완료"
+    }
+  }
+}

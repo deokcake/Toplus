@@ -1,0 +1,197 @@
+{
+ "key": "1-9",
+ "type": "A",
+ "grade": 1,
+ "chapter": "CH 1 문장의 구조",
+ "title": "목적어의 상태를 말하는 목적격 보어",
+ "total_sec": 136,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "1급 · CH 1 문장의 구조 · 9번\n\n이 문제는 목적격 보어 자리의 형용사와 부사를 가려 어법상 어색한 문장의 개수를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 1 문장의 구조 · 9번",
+     "이 문제는 목적격 보어 자리의 형용사와 부사를 가려 어법상 어색한 문장의 개수를 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 1, 9번. 이 문제는 목적격 보어 자리의 형용사와 부사를 가려 어법상 어색한 문장의 개수를 고르는 문제예요.",
+   "caption": "목적격 보어 자리의 형용사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 17,
+   "screen": {
+    "text": "다음 중 어법상 어색한 문장의 개수는?\n\n(a) Don't leave the door open.\n(b) The long walk made me exhaustedly.\n(c) Your support kept us hopeful during the hard times.\n(d) I found the secret box empty in the room.\n(e) The news about the accident made everyone luckily.\n\n① 1개\n② 2개\n③ 3개\n④ 4개\n⑤ 5개",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 어법상 어색한 문장의 개수는?",
+     "(a) Don't leave the door open.",
+     "(b) The long walk made me exhaustedly.",
+     "(c) Your support kept us hopeful during the hard times.",
+     "(d) I found the secret box empty in the room.",
+     "(e) The news about the accident made everyone luckily.",
+     "① 1개",
+     "② 2개",
+     "③ 3개",
+     "④ 4개",
+     "⑤ 5개"
+    ]
+   },
+   "narration": "어법상 어색한 문장은 몇 개인지 고르세요. 지문의 다섯 문장을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\nmake, keep, find, leave + 목적어 + 목적격 보어\n목적어의 상태를 말할 때 → 주로 형용사나 분사 (happy, tired, running)\n우리말이 ‘행복하게’여도 -ly 부사(happily, slowly) ✗\nfriendly, lovely는 -ly로 끝나도 형용사 → ✓\n예) The gift made her happy. (그 선물은 그녀를 행복하게 했어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "make, keep, find, leave + 목적어 + 목적격 보어",
+     "목적어의 상태를 말할 때 → 주로 형용사나 분사 (happy, tired, running)",
+     "우리말이 ‘행복하게’여도 -ly 부사(happily, slowly) ✗",
+     "friendly, lovely는 -ly로 끝나도 형용사 → ✓",
+     "예) The gift made her happy. (그 선물은 그녀를 행복하게 했어요.)"
+    ]
+   },
+   "narration": "make, keep, find, leave는 목적어 뒤에 그 목적어의 상태를 말하는 목적격 보어를 쓸 수 있어요. 목적어의 상태를 말할 때는 주로 형용사나 분사를 써요. 우리말로 행복하게처럼 옮겨져도, 형용사에 ly를 붙인 부사는 이 자리에 쓰지 않아요. 예를 들어 The gift made her happy. 그 선물은 그녀를 행복하게 했어요.",
+   "caption": "목적어의 상태는 형용사·분사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 중 어법상 어색한 문장의 개수는?\n\n(a) Don't leave the door open.\n(b) The long walk made me exhaustedly.\n(c) Your support kept us hopeful during the hard times.\n(d) I found the secret box empty in the room.\n(e) The news about the accident made everyone luckily.\n\n① 1개\n② 2개\n③ 3개\n④ 4개\n⑤ 5개",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "leave the door open",
+       "made me exhaustedly",
+       "kept us hopeful",
+       "found the secret box empty",
+       "made everyone luckily"
+      ],
+      "strike": [],
+      "note": "make·keep·find·leave + 목적어 뒤의 말(목적격 보어)을 찾는다"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "open",
+       "hopeful",
+       "empty"
+      ],
+      "strike": [],
+      "note": "(a) open, (c) hopeful, (d) empty = 형용사 → 옳음"
+     },
+     {
+      "step": 3,
+      "highlight": [],
+      "strike": [
+       "exhaustedly",
+       "luckily"
+      ],
+      "note": "(b) exhaustedly → exhausted / (e) luckily = 부사 → 틀림"
+     },
+     {
+      "step": 4,
+      "highlight": [
+       "② 2개"
+      ],
+      "strike": [
+       "① 1개",
+       "③ 3개",
+       "④ 4개",
+       "⑤ 5개"
+      ],
+      "note": "어색한 문장 (b), (e) → 2개"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 make, keep, find, leave의 목적어 뒤에 온 말을 찾아요. 둘째, 에이 문장의 open, 씨 문장의 hopeful, 디 문장의 empty는 모두 목적어의 상태를 말하는 형용사라서 옳아요. 셋째, 비 문장의 exhaustedly는 ly를 붙인 부사라서 틀렸고, 지친 상태를 말하는 exhausted로 고쳐야 해요. 이 문장 The news about the accident도 목적어 everyone 뒤에 부사 luckily를 써서 틀렸어요. 넷째, 어색한 문장은 exhaustedly와 luckily가 들어간 두 문장이에요.",
+   "caption": "보어 찾기 → 판정 → 개수"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 31,
+   "screen": {
+    "text": "① 1개  ✗  (b) exhaustedly와 (e) luckily 둘 다 틀려요\n② 2개  ✓  어색한 문장은 (b), (e) 두 개\n③ 3개  ✗  (a) leave the door open은 옳아요 (형용사 open)\n④ 4개  ✗  (c) kept us hopeful도 옳아요 (형용사 hopeful)\n⑤ 5개  ✗  (d) found the secret box empty도 옳아요 (형용사 empty)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① 1개  ✗  (b) exhaustedly와 (e) luckily 둘 다 틀려요",
+     "② 2개  ✓  어색한 문장은 (b), (e) 두 개",
+     "③ 3개  ✗  (a) leave the door open은 옳아요 (형용사 open)",
+     "④ 4개  ✗  (c) kept us hopeful도 옳아요 (형용사 hopeful)",
+     "⑤ 5개  ✗  (d) found the secret box empty도 옳아요 (형용사 empty)"
+    ]
+   },
+   "narration": "정답은 2번, 2개예요. luckily는 운 좋게도라는 뜻이라 자연스러워 보여서 놓치기 쉬운데, 그러면 1번을 고르게 돼요. 하지만 everyone의 상태를 말하는 자리라서 부사 luckily는 쓸 수 없어요. 에이 문장 Don't leave the door open은 문을 열어 두지 말라는 명령문인데, leave 뒤에 목적어와 형용사 open이 와서 옳아요. 이것까지 틀렸다고 세면 3번을 고르게 돼요.",
+   "caption": "정답 ② 2개"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ② 2개\n\n목적어의 상태를 말하는 목적격 보어 → 형용사·분사 (-ly 부사 ✗)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② 2개",
+     "목적어의 상태를 말하는 목적격 보어 → 형용사·분사 (-ly 부사 ✗)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 목적어의 상태를 말하는 자리에는 ly를 붙인 부사가 아니라 형용사나 분사를 써요.",
+   "caption": "상태는 형용사·분사, -ly 부사 ✗"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 어법상 어색한 문장의 개수는?",
+  "passage": "(a) Don't leave the door open.\n(b) The long walk made me exhaustedly.\n(c) Your support kept us hopeful during the hard times.\n(d) I found the secret box empty in the room.\n(e) The news about the accident made everyone luckily.",
+  "c": [
+   "1개",
+   "2개",
+   "3개",
+   "4개",
+   "5개"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: make, keep, find, leave + 목적어 뒤의 목적격 보어 자리에는 부사가 아니라 형용사(분사)를 쓴다.\n풀이 순서: ① 문장마다 make·keep·find·leave + 목적어 뒤에 온 말(목적격 보어)을 찾는다. → ② 그 자리에 -ly 부사가 오면 어색한 문장이다: (b) exhaustedly, (e) luckily. → ③ 세어 보면 2개이다.\n문장별 판정: (a) O. leave + 목적어 + 형용사(open). (b) X. exhaustedly를 exhausted로 고친다. (c) O. kept + 목적어 + 형용사(hopeful). (d) O. found + 목적어 + 형용사(empty). (e) X. made + 목적어 뒤에 부사 luckily를 쓸 수 없다.\n정답 판단: 어색한 문장은 (b), (e) 두 개다.\n선택지 분석:\n① [오답] 어색한 문장은 (b), (e) 두 개이므로 오답이다.\n② [정답] 어색한 문장은 (b), (e) 두 개이므로 정답이다.\n③ [오답] 어색한 문장은 (b), (e) 두 개이므로 오답이다.\n④ [오답] 어색한 문장은 (b), (e) 두 개이므로 오답이다.\n⑤ [오답] 어색한 문장은 (b), (e) 두 개이므로 오답이다."
+ }
+}

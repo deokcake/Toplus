@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T12:51:27.934Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "The students is in the gym.",
+      "1": "My cat sleep all day.",
+      "2": "He fix cars.",
+      "3": null,
+      "4": "Dad don't drink coffee."
+    },
+    "expl": "핵심 규칙: 현재 시제에서 3인칭 단수 주어의 일반동사에는 -s/-es를 붙이고(have → has), 복수 주어에는 동사원형을 쓴다. 3인칭 단수 주어의 부정은 doesn't + 동사원형이다.\n풀이 순서: ① 문장마다 주어가 단수인지 복수인지 가른다. → ② 단수 주어면 동사에 -(e)s(부정은 doesn't), 복수 주어면 동사원형(부정은 don't)인지 본다. → ③ 선택지 ④만 복수 취급하는 pants에 are를 써서 맞다. 정답은 ④.\n문장별 판정:\n정답 판단: 복수 취급하는 pants에 are를 바르게 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 복수 주어 The students에는 are를 쓰므로 오답이다.\n② [오답] 3인칭 단수 주어 My cat에는 sleeps를 쓰므로 오답이다.\n③ [오답] 3인칭 단수 주어 He에는 fixes를 쓰므로 오답이다.\n④ [정답] 복수 취급하는 pants에 are를 바르게 썼으므로 정답이다.\n⑤ [오답] 3인칭 단수 주어 Dad의 부정은 doesn't이므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T12:51:13.148Z"
+  },
+  "tab": "ocdtwd0p",
+  "updatedAt": "2026-10-27T12:51:27.934Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T12:51:27.934Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:55:49.237Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "What month is it?",
+      "1": "What is the date now?",
+      "2": "What time was it?",
+      "3": null,
+      "4": "What date was it yesterday?"
+    },
+    "expl": "핵심 규칙: 대답이 알려 주는 정보(시각, 요일, 날짜, 월)와 시제(is/was)를 보고 질문을 고른다. What time은 시각, What day는 요일, What date는 날짜를 묻는다.\n풀이 순서: ① 대답이 알려 주는 정보를 본다: June 3rd → 날짜(What date). → ② 대답의 시제를 본다: was → 과거. → ③ 둘 다 맞는 질문은 What date was it yesterday?\n문장별 판정:\n정답 판단: 어제 날짜를 묻는 질문이라 대답(It was June 3rd.)과 정보·시제가 모두 맞으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 현재의 월을 묻는 질문이라 과거형 날짜 대답과 맞지 않으므로 오답이다.\n② [오답] 현재를 묻는 질문이라 과거형 대답(It was ~.)과 맞지 않으므로 오답이다.\n③ [오답] 날짜가 아니라 시각을 묻는 질문이므로 오답이다.\n④ [오답] 날짜가 아니라 요일을 묻는 질문이므로 오답이다.\n⑤ [정답] 어제 날짜를 묻는 질문이라 대답(It was June 3rd.)과 정보·시제가 모두 맞으므로 정답이다.",
+    "passage": null,
+    "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:55:17.353Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:55:49.237Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:55:49.237Z",
+      "what": "확인 완료"
+    }
+  }
+}

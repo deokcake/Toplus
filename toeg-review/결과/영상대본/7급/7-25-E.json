@@ -1,0 +1,179 @@
+{
+ "key": "7-25",
+ "type": "E",
+ "grade": 7,
+ "chapter": "CH 3 be동사",
+ "title": "주어와 be동사 am, is, are의 짝",
+ "total_sec": 124,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "7급 · CH 3 be동사 · 25번 · E 유형\n\n이 문제는 다섯 문장에서 주어와 be동사의 짝이 맞지 않는 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 3 be동사 · 25번 · E 유형",
+     "이 문제는 다섯 문장에서 주어와 be동사의 짝이 맞지 않는 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 3, 25번 E 유형. 이 문제는 다섯 문장에서 주어와 be동사의 짝이 맞지 않는 틀린 문장을 고르는 문제예요.",
+   "caption": "주어와 be동사의 짝"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 13,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① The dogs are big.\n② Tom is here.\n③ The girl is my cousin.\n④ They are busy.\n⑤ The boys is happy.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 틀린 문장을 고르시오.",
+     "① The dogs are big.",
+     "② Tom is here.",
+     "③ The girl is my cousin.",
+     "④ They are busy.",
+     "⑤ The boys is happy."
+    ]
+   },
+   "narration": "다음 중 틀린 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 현재형 am, is, are: 주로 '이다', '있다'\nI → am, you → are\nhe, she, it(한 명·한 개) → is\nwe, they, cats처럼 여럿을 뜻하는 말 → are\n예) The cats are cute. (그 고양이들은 귀여워요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 현재형 am, is, are: 주로 '이다', '있다'",
+     "I → am, you → are",
+     "he, she, it(한 명·한 개) → is",
+     "we, they, cats처럼 여럿을 뜻하는 말 → are",
+     "예) The cats are cute. (그 고양이들은 귀여워요.)"
+    ]
+   },
+   "narration": "be동사의 현재형 am, is, are는 주로 '이다'나 '있다'라는 뜻이고, 주어에 맞춰 골라요. 주어가 I이면 am, you이면 are를 써요. he, she, it처럼 한 명이나 한 개이면 is, we, they처럼 여럿이면 are를 써요. cats처럼 여럿을 뜻하는 말이 주어여도 are를 써요. 예를 들어 The cats are cute, 그 고양이들은 귀여워요.",
+   "caption": "주어에 맞춰 am·is·are"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① The dogs are big.\n② Tom is here.\n③ The girl is my cousin.\n④ They are busy.\n⑤ The boys is happy.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "The dogs",
+       "Tom",
+       "The girl",
+       "They",
+       "The boys"
+      ],
+      "strike": [],
+      "note": "문장마다 주어 찾기: Tom·The girl = 한 사람, The dogs·They·The boys = 여럿."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① The dogs are big.",
+       "② Tom is here.",
+       "③ The girl is my cousin.",
+       "④ They are busy."
+      ],
+      "note": "짝이 맞는 문장은 지운다: Tom·The girl → is, The dogs·They → are."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ The boys is happy."
+      ],
+      "strike": [],
+      "note": "여러 명인 The boys에 is → 틀림. The boys are happy."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 주어를 찾아요. Tom과 The girl은 한 사람, The dogs, They, The boys는 여럿이에요. 둘째, Tom과 The girl에는 is, The dogs와 They에는 are를 바르게 썼으니 지워요. 셋째, 5번의 The boys는 소년이 여러 명이라 are를 써야 하는데 is를 썼어요. 바르게 고치면 The boys are happy, 그 소년들은 행복해요.",
+   "caption": "주어 찾기 → 짝 맞추기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① The dogs are big.  ✗  여럿 The dogs → are, 바른 문장\n② Tom is here.  ✗  한 사람 Tom → is, 바른 문장\n③ The girl is my cousin.  ✗  한 사람 The girl → is, 바른 문장\n④ They are busy.  ✗  여럿 They → are, 바른 문장\n⑤ The boys is happy.  ✓  여러 명 The boys → are로 고쳐야 해요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① The dogs are big.  ✗  여럿 The dogs → are, 바른 문장",
+     "② Tom is here.  ✗  한 사람 Tom → is, 바른 문장",
+     "③ The girl is my cousin.  ✗  한 사람 The girl → is, 바른 문장",
+     "④ They are busy.  ✗  여럿 They → are, 바른 문장",
+     "⑤ The boys is happy.  ✓  여러 명 The boys → are로 고쳐야 해요"
+    ]
+   },
+   "narration": "정답은 5번이에요. The boys는 소년이 여러 명이라 are를 써요. 3번 The girl은 소녀 한 명이라 is가 맞아요. 1번 The dogs는 개가 여러 마리라 are가 맞고, 2번 Tom은 한 사람이라 is가 맞아요.",
+   "caption": "정답 ⑤ The boys에는 are"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ⑤ The boys is happy.\n\nboys처럼 여럿이 주어 → are",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ The boys is happy.",
+     "boys처럼 여럿이 주어 → are"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, The boys처럼 주어가 여럿이면 be동사는 are를 써요.",
+   "caption": "여럿 + are"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "The dogs are big.",
+   "Tom is here.",
+   "The girl is my cousin.",
+   "They are busy.",
+   "The boys is happy."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 현재형 be동사는 주어가 I면 am, 3인칭 단수(he, she, it, 사람·사물 하나)면 is, you·we·they와 복수 주어(A and B 포함)면 are를 쓴다.\n풀이 순서: ① 문장마다 주어가 I인지, 한 사람·한 개인지, 여럿인지 가른다. → ② be동사가 그에 맞는지 본다. → ③ 선택지 ⑤의 The boys는 여럿이라 are다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 복수 주어 The boys에는 are를 써야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 복수 주어 The dogs에 are를 바르게 썼으므로 오답이다.\n② [오답] 3인칭 단수 주어 Tom에 is를 바르게 썼으므로 오답이다.\n③ [오답] 단수 주어 The girl에 is를 바르게 썼으므로 오답이다.\n④ [오답] 주어 They에 are를 바르게 썼으므로 오답이다.\n⑤ [정답] 복수 주어 The boys에는 are를 써야 하므로 정답이다."
+ }
+}

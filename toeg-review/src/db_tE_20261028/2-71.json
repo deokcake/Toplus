@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-24T01:05:40.607Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "slept — woken",
+      "1": "sleeping — woke",
+      "2": "sleeps — woken",
+      "3": "sleeping — woken",
+      "4": "slept — waking"
+    },
+    "expl": "핵심 규칙: 명사가 직접 하는 동작은 현재분사(-ing)로, 동작을 받는 명사는 과거분사로 꾸민다. 문장의 동사 자리는 주어와의 관계에 따라 진행형(be + -ing)이나 수동태(be + 과거분사)로 쓴다.\n풀이 순서: ① 첫째 밑줄은 앞의 명사(The cat)를 꾸미는 분사 자리다. 고양이가 자고 있으므로 능동의 sleeping이다. → ② 둘째 밑줄은 be동사 뒤다. 뒤에 by the noise가 있으므로 수동태의 woken이다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 고양이가 자고 있던 능동 관계라 sleeping이 명사를 꾸미고, 고양이가 소음에 깨워졌으므로 was woken up의 수동태가 된다.\n선택지 분석:\n① [오답] 첫째 자리 slept: 고양이가 스스로 자고 있던 능동 관계라 과거형(과거분사)은 맞지 않는다. 따라서 오답이다.\n② [오답] 둘째 자리 woke: was 뒤 수동태에는 과거형이 아니라 과거분사(woken)를 쓴다. 따라서 오답이다.\n③ [오답] 첫째 자리 sleeps: 문장의 동사(was)가 따로 있어 명사를 꾸미는 자리에 동사 형태를 쓸 수 없다. 따라서 오답이다.\n④ [정답] sleeping — woken: 두 자리가 모두 알맞으므로 정답이다.\n⑤ [오답] 첫째 자리 slept: 고양이가 스스로 자고 있던 능동 관계라 과거형(과거분사)은 맞지 않는다. 둘째 자리 waking: 고양이가 소음에 깨워진 수동 관계이므로 was 뒤에 과거분사를 쓴다. 따라서 오답이다.",
+    "passage": "The cat <u>sleep</u> on the sofa was <u>wake</u> up by the noise.",
+    "stem": "다음 밑줄 친 동사의 알맞은 형태를 바르게 짝지은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T01:05:28.925Z"
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-24T01:05:40.607Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:05:40.607Z",
+      "what": "확인 완료"
+    }
+  }
+}

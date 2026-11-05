@@ -1,0 +1,44 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:33:24.382Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "She caught a bad cold last week.",
+      "1": "My uncle came to visit us last Sunday.",
+      "2": "We swam in the lake near our house.",
+      "3": "He sold his old car to his friend.",
+      "4": "I leave home at seven yesterday morning."
+    },
+    "expl": "핵심 규칙: 과거를 나타내는 말(yesterday, last ~, ago)이 있으면 동사의 과거형을 쓴다. 과거형은 주어와 관계없이 같은 형태이며 -s를 붙이지 않는다.\n풀이 순서: ① 문장마다 동사가 과거형인지 본다. → ② 과거의 때를 나타내는 말이 있는데 동사가 현재형·원형인 문장을 찾는다. → ③ 선택지 ⑤는 yesterday가 있는데 leave를 썼다. left로 고친다. 정답은 ⑤.\n문장별 판정:\n정답 판단: yesterday morning이 있는데 현재형 leave를 썼다. left로 고쳐야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] catch의 과거형 caught를 바르게 썼으므로 오답이다.\n② [오답] come의 과거형 came을 바르게 썼으므로 오답이다.\n③ [오답] swim의 과거형 swam을 바르게 썼으므로 오답이다.\n④ [오답] sell의 과거형 sold를 바르게 썼으므로 오답이다.\n⑤ [정답] yesterday morning이 있는데 현재형 leave를 썼다. left로 고쳐야 하므로 정답이다.",
+    "passage": "",
+    "stem": "다음 중 어법상 틀린 문장을 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:14:24.897Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T06:05:40.195Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:33:24.382Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:33:10.546Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:14:26.466Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:33:24.382Z",
+      "what": "확인 완료"
+    }
+  }
+}

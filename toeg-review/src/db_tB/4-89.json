@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T08:01:01.067Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": 4,
+    "c": {
+      "0": "Call me <u>when</u> you arrive.",
+      "1": "<u>When</u> she saw me, she smiled.",
+      "2": "I was studying <u>when</u> Tom called.",
+      "3": "<u>When</u> does school start?",
+      "4": "We ate <u>when</u> we got home."
+    },
+    "expl": "핵심 규칙: 접속사 when은 ‘~할 때’라는 시간의 부사절(주어 + 동사)을 이끌고, 의문사 when은 ‘언제’라고 묻는 의문문을 이끈다.\n풀이 순서: ① 문장 끝에 물음표가 있고 when 뒤가 의문문 어순(do/does/did·be동사 + 주어)이면 ‘언제’를 묻는 의문사다. → ② 그렇지 않고 두 절을 이으면 ‘~할 때’라는 접속사다. → ③ 선택지 ④만 ‘언제 시작하니?’라고 묻는 의문사다. 정답은 ④.\n문장별 판정:\n정답 판단: 의문사 when: ‘언제’라고 묻는 의문문을 이끌므로 나머지와 달라 정답은 ④이다.\n선택지 분석:\n① [오답] 접속사 when: ‘~할 때’라는 시간의 부사절을 이끌므로 오답이다.\n② [오답] 접속사 when: ‘~할 때’라는 시간의 부사절을 이끌므로 오답이다.\n③ [오답] 접속사 when: ‘~할 때’라는 시간의 부사절을 이끌므로 오답이다.\n④ [정답] 의문사 when: ‘언제’라고 묻는 의문문을 이끌므로 나머지와 달라 정답이다.\n⑤ [오답] 접속사 when: ‘~할 때’라는 시간의 부사절을 이끌므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 밑줄 친 'when'의 쓰임이 나머지 넷과 다른 하나는?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T08:52:41.146Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T08:53:56.770Z",
+      "text": "기준 문항과 같이 선택지 두 개의 when의 위치를 문장 제일 앞으로 하는 문장으로 구성할 필요가 있음. when의 위치만으로 정답을 추론할 수 있는 문항은 부적절하다. 이에 따른 수정이 필요."
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T08:01:01.067Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T08:00:53.789Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T08:01:01.067Z",
+      "what": "확인 완료"
+    }
+  }
+}

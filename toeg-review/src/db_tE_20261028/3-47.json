@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-26T03:58:25.188Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "their",
+      "1": "theirs",
+      "2": "to them",
+      "3": "to their",
+      "4": "them"
+    },
+    "expl": "핵심 규칙: 동사 뒤 목적어 자리에는 목적격(me, us, him, her, them)을 쓴다. 소유격(my, our, their)은 명사 앞에, 소유대명사(mine, ours, theirs)는 ‘~의 것’에 쓰며, 목적어를 바로 받는 동사 뒤에 to를 붙이지 않는다.\n풀이 순서: ① 밑줄(they)은 동사(helped) 바로 뒤, 목적어 자리다. → ② 목적어 자리에는 목적격을 쓴다. 소유격·소유대명사는 쓸 수 없고, 이 동사 뒤에는 to도 필요 없다. → ③ 정답은 them.\n문장별 판정:\n정답 판단: them: 동사(helped) 뒤 목적어 자리의 목적격으로 알맞으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] their: 명사 앞에 쓰는 소유격이라 목적어 자리에 맞지 않으므로 오답이다.\n② [오답] theirs: ‘~의 것’을 뜻하는 소유대명사라 사람을 가리키는 목적어로 맞지 않으므로 오답이다.\n③ [오답] to them: helped는 목적어를 바로 받고, to를 붙이지 않으므로 오답이다.\n④ [오답] to their: helped는 목적어를 바로 받고, to를 붙이지 않으므로 오답이다.\n⑤ [정답] them: 동사(helped) 뒤 목적어 자리의 목적격으로 알맞으므로 정답이다.",
+    "passage": "Jane helped <u>they</u> with their science homework after school.",
+    "stem": "다음 문장의 밑줄 친 부분을 바르게 고친 것을 고르시오."
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T03:58:25.188Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T03:58:25.188Z",
+      "what": "확인 완료"
+    }
+  }
+}

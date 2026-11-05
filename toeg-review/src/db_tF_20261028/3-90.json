@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 순서 정정",
+  "done": true,
+  "doneAt": "2026-10-27T05:19:29.640Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 동명사 주어는 단수 취급한다. 전치사 뒤와 enjoy·avoid·finish·keep·mind·consider·suggest 뒤에는 동명사를, want·hope·plan·decide 뒤에는 to부정사를 쓴다.\n풀이 순서: ① 문장마다 확인할 곳을 정한다: 동명사 주어이면 동사의 수, 그 밖에는 -ing형·to부정사 앞의 동사나 표현. → ② ⓑ만 틀렸다. avoid는 동명사를 쓰므로 avoids meeting이다. 나머지는 옳다. → ③ 옳은 문장은 4개이다.\n문장별 판정:\nⓐ O. like는 동명사를 목적어로 쓸 수 있다.\nⓑ X. avoid는 동명사(meeting)를 목적어로 쓴다.\nⓒ O. plan + to부정사이다.\nⓓ O. keep + 동명사이다.\nⓔ O. be busy + -ing이다.\n정답 판단: 어법상 옳은 문장은 ⓐ, ⓒ, ⓓ, ⓔ로 4개이다.\n선택지 분석:\n① [오답] 어법상 옳은 문장은 ⓐ, ⓒ, ⓓ, ⓔ로 4개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 어법상 옳은 문장은 ⓐ, ⓒ, ⓓ, ⓔ로 4개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 어법상 옳은 문장은 ⓐ, ⓒ, ⓓ, ⓔ로 4개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [정답] 어법상 옳은 문장은 ⓐ, ⓒ, ⓓ, ⓔ로 4개이다. 이 보기의 4개는 실제 개수와 일치한다.\n⑤ [오답] 어법상 옳은 문장은 ⓐ, ⓒ, ⓓ, ⓔ로 4개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "ⓐ I like reading books in the library.\nⓑ She avoids to meet him at school.\nⓒ We plan to travel to Jeju this summer.\nⓓ Tom keeps practicing the piano every day.\nⓔ They are busy preparing for the festival.",
+    "stem": "다음 중 어법상 옳은 문장의 개수를 고르시오."
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:19:29.640Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:19:29.640Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T08:19:04.355Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "'usually'는 의문문에서만 쓸 수 있기 때문이다.",
+      "1": "'before bed'가 있으면 동사를 -ing형으로 써야 하기 때문이다.",
+      "2": "'reads'가 본동사이므로 불필요한 'is'를 삭제하여 'She usually reads before bed.'로 써야 하기 때문이다.",
+      "3": "'is' 뒤에는 동사원형 'read'가 와야 하므로 'She is usually read'로 고쳐야 하기 때문이다.",
+      "4": "'usually'는 'reads' 뒤에 와야 하기 때문이다."
+    },
+    "expl": "핵심 규칙: 일반동사를 현재 시제로 쓸 때는 be동사를 덧붙이지 않는다. 빈도부사는 일반동사 앞에 두고, 3인칭 단수 주어의 동사에는 -s/-es를 붙인다.\n풀이 순서: ① 밑줄 친 문장에 동사가 둘이다: be동사 is, 일반동사 reads. → ② 뒤에 목적어가 있어 일반동사가 본동사다. be동사를 빼고 ‘빈도부사 + 일반동사’로 쓴다: She usually reads. → ③ 이 이유를 말한 것은 ③.\n문장별 판정:\n정답 판단: 일반동사가 본동사라 불필요한 be동사를 빼야 한다는 이유를 바르게 설명했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] usually는 평서문에서도 쓰므로 오답이다.\n② [오답] before bed는 동사의 형태와 관계없으므로 오답이다.\n③ [정답] 일반동사가 본동사라 불필요한 be동사를 빼야 한다는 이유를 바르게 설명했으므로 정답이다.\n④ [오답] is 뒤에 동사원형을 쓸 수 없고 is 자체를 빼야 하므로 오답이다.\n⑤ [오답] 빈도부사는 일반동사 앞에 오므로 오답이다.",
+    "passage": "A: Does Jane usually read at night?\nB: Yes. <u>She is usually reads before bed</u>.",
+    "stem": "다음 대화의 밑줄 친 문장이 어법상 틀린 이유를 한국어로 가장 바르게 설명한 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T08:18:49.658Z"
+  },
+  "tab": "x2buc7cy",
+  "updatedAt": "2026-10-27T08:19:04.355Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T08:19:04.355Z",
+      "what": "확인 완료"
+    }
+  }
+}

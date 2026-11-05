@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:20:23.843Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Mina has to open the window.",
+      "1": "Mina must open the window.",
+      "2": "Mina may opens the window.",
+      "3": "Mina may open the window.",
+      "4": null
+    },
+    "expl": "핵심 규칙: ‘~해도 된다’는 허락은 may + 동사원형으로 나타낸다. must와 have to는 ‘~해야 한다’는 의무다. 조동사 뒤에는 동사원형을 쓴다.\n풀이 순서: ① 우리말 ‘열어도 된다’ → 허락이므로 may + 동사원형이 필요하다. → ② 의무(must, have to)의 문장과 may 뒤의 동사 형태가 틀린 문장을 지운다. → ③ may open인 문장은 ④.\n문장별 판정:\n정답 판단: may + 동사원형으로 허락을 바르게 나타냈으므로 정답은 ④이다.\n선택지 분석:\n① [오답] has to는 ‘~해야 한다’는 의무이므로 오답이다.\n② [오답] must는 ‘~해야 한다’는 의무이므로 오답이다.\n③ [오답] may 뒤에는 동사원형 open을 써야 하므로 오답이다.\n④ [정답] may + 동사원형으로 허락을 바르게 나타냈으므로 정답이다.\n⑤ [오답] be동사와 일반동사 원형을 함께 쓸 수 없고 허락의 뜻도 없으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 우리말과 일치하는 문장을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:20:21.839Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:20:23.843Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:20:23.843Z",
+      "what": "확인 완료"
+    }
+  }
+}

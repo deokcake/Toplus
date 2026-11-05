@@ -1,0 +1,177 @@
+{
+ "key": "6-34",
+ "type": "B",
+ "grade": 6,
+ "chapter": "CH 4 일반동사",
+ "title": "She likes 문장을 의문문으로",
+ "total_sec": 127,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "6급 · CH 4 일반동사 · 34번 · B 유형\n\n이 문제는 일반동사 likes가 있는 현재형 문장을 의문문으로 올바르게 바꾼 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 4 일반동사 · 34번 · B 유형",
+     "이 문제는 일반동사 likes가 있는 현재형 문장을 의문문으로 올바르게 바꾼 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 4, 34번 B 유형. 이 문제는 일반동사 likes가 있는 현재형 문장을 의문문으로 올바르게 바꾼 문장을 고르는 문제예요.",
+   "caption": "She likes 문장을 의문문으로"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.\n\nShe likes apples.\n\n① Does she like apples?\n② She likes apples?\n③ Do she like apples?\n④ Does she to like apples?\n⑤ Does she likes apples?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.",
+     "She likes apples.",
+     "① Does she like apples?",
+     "② She likes apples?",
+     "③ Do she like apples?",
+     "④ Does she to like apples?",
+     "⑤ Does she likes apples?"
+    ]
+   },
+   "narration": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르세요. She likes apples는 그녀는 사과를 좋아한다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 24,
+   "screen": {
+    "text": "핵심 규칙\n일반동사 현재형 의문문 → Do, Does + 주어 + 동사원형 ~?\nhe, she, it 같은 3인칭 단수 주어 → Does  ·  I, you, we, they, 복수 → Do\n주어 뒤의 동사는 동사원형 (eats → eat)\n예) He eats bread. → Does he eat bread? (그는 빵을 먹니?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "일반동사 현재형 의문문 → Do, Does + 주어 + 동사원형 ~?",
+     "he, she, it 같은 3인칭 단수 주어 → Does  ·  I, you, we, they, 복수 → Do",
+     "주어 뒤의 동사는 동사원형 (eats → eat)",
+     "예) He eats bread. → Does he eat bread? (그는 빵을 먹니?)"
+    ]
+   },
+   "narration": "일반동사 현재형 문장의 의문문은 Do나 Does를 주어 앞에 쓰고, 동사는 동사원형으로 바꿔 끝에 물음표를 붙여요. he, she, it 같은 3인칭 단수 주어에는 Does를, 그 밖의 주어에는 Do를 써요. He eats bread의 의문문은 Does he eat bread? 그는 빵을 먹니?",
+   "caption": "Do, Does + 주어 + 동사원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 35,
+   "screen": {
+    "text": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.\n\nShe likes apples.\n\n① Does she like apples?\n② She likes apples?\n③ Do she like apples?\n④ Does she to like apples?\n⑤ Does she likes apples?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "She likes apples."
+      ],
+      "strike": [
+       "② She likes apples?"
+      ],
+      "note": "주어 She, 동사 likes = 일반동사 현재형 → Do, Does로 시작. 물음표만 붙인 ② 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "③ Do she like apples?"
+      ],
+      "note": "She = 3인칭 단수 → Does. Do로 시작한 ③ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "① Does she like apples?"
+      ],
+      "strike": [
+       "④ Does she to like apples?",
+       "⑤ Does she likes apples?"
+      ],
+      "note": "Does 뒤에는 동사원형 like → to like ④, likes ⑤ 지움 → ①"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 주어진 문장은 주어가 She, 동사가 일반동사 likes인 현재형 문장이라서 Do나 Does로 시작해야 해요. 그래서 물음표만 붙인 2번은 지워요. 둘째, She는 3인칭 단수라서 Do가 아니라 Does를 써야 하니까 3번도 지워요. 셋째, Does 뒤에는 동사원형 like를 써야 하니까 to like를 쓴 4번과 likes를 쓴 5번을 지우면, 남은 1번이 답이에요. Does she like apples? 그녀는 사과를 좋아하니?",
+   "caption": "현재형 → Does → 동사원형 like"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 23,
+   "screen": {
+    "text": "① Does she like apples?  ✓  Does + she + 동사원형 like\n② She likes apples?  ✗  Does 없이 물음표만 붙였어요\n③ Do she like apples?  ✗  3인칭 단수 she에는 Does\n④ Does she to like apples?  ✗  to like가 아니라 동사원형 like\n⑤ Does she likes apples?  ✗  likes가 아니라 동사원형 like",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✓",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Does she like apples?  ✓  Does + she + 동사원형 like",
+     "② She likes apples?  ✗  Does 없이 물음표만 붙였어요",
+     "③ Do she like apples?  ✗  3인칭 단수 she에는 Does",
+     "④ Does she to like apples?  ✗  to like가 아니라 동사원형 like",
+     "⑤ Does she likes apples?  ✗  likes가 아니라 동사원형 like"
+    ]
+   },
+   "narration": "정답은 Does와 동사원형 like를 바르게 쓴 1번이에요. 5번은 Does는 맞지만 likes를 그대로 두었는데, Does 뒤에는 동사원형을 써야 해요. 3번은 3인칭 단수 She에 Does가 아니라 Do를 썼어요. 4번은 Does 뒤에 동사원형 like 대신 to like를 썼어요.",
+   "caption": "정답 ① Does she like apples?"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 13,
+   "screen": {
+    "text": "정답 ① Does she like apples?\n\nDo, Does + 주어 + 동사원형 ~?  (3인칭 단수 주어 → Does)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ① Does she like apples?",
+     "Do, Does + 주어 + 동사원형 ~?  (3인칭 단수 주어 → Does)"
+    ]
+   },
+   "narration": "정답은 1번이에요. 기억할 것, 일반동사 현재형 의문문은 Do나 Does 뒤에 주어와 동사원형을 쓰고, 3인칭 단수 주어면 Does를 써요.",
+   "caption": "3인칭 단수 → Does + 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.",
+  "passage": "She likes apples.",
+  "c": [
+   "Does she like apples?",
+   "She likes apples?",
+   "Do she like apples?",
+   "Does she to like apples?",
+   "Does she likes apples?"
+  ],
+  "ans": 1,
+  "expl": "핵심 규칙: 현재형 일반동사 의문문은 Do/Does+주어+동사원형?이다. 원문의 현재 시제를 유지한다.\n풀이 순서: ① 주어와 동사를 본다: she / likes. → ② 주어에 맞는 조동사는 Does, 그 뒤의 동사는 원형 like. → ③ Does + 주어 + like ~?인 것을 고른다. 정답은 ①.\n문장별 판정:\n정답 판단: Does는 주어 she에 맞고, 뒤의 본동사 like도 원형이다. 어순은 Does+she+like이다. 따라서 정답은 ①이다.\n선택지 분석:\n① [정답] Does는 주어 she에 맞고, 뒤의 본동사 like도 원형이다. 어순은 Does+she+like이다.\n② [오답] 일반동사 문장을 의문문으로 바꿀 때는 Do/Does로 시작해야 한다. 평서문 어순에 물음표만 붙인 것은 올바르게 바꾼 의문문이 아니다.\n③ [오답] she의 현재 일반동사 의문문은 Does로 시작한다. Do를 Does로 고친다.\n④ [오답] Does 뒤에는 to부정사가 아니라 동사원형 like가 필요하다. Does she like apples?로 고친다.\n⑤ [오답] Does가 시제·인칭 정보를 나타내므로 본동사는 likes가 아니라 원형 like를 쓴다."
+ }
+}

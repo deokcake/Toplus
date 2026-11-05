@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:52:36.710Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Can they are friends?",
+      "1": "Can they be friends?",
+      "2": "Are they be friends?",
+      "3": "Can they is friends?",
+      "4": "Do they be friends?"
+    },
+    "expl": "핵심 규칙: ‘~할 수 있니?’는 Can + 주어 + 동사원형 ~?으로 쓴다. be동사의 원형은 be이므로 can 뒤에는 is/are가 아니라 be를 쓴다. Do나 Are를 함께 쓰지 않는다.\n풀이 순서: ① ‘~할 수 있니?’이므로 Can + 주어(they)로 시작한다. → ② ‘친구가 되다’는 be동사 + friends(으)로 나타내는데, can 뒤에서는 be동사를 원형 be로 쓴다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: Can + 주어 + be로 우리말을 바르게 옮겼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] can 뒤에는 are가 아니라 원형 be를 써야 하므로 오답이다.\n② [정답] Can + 주어 + be로 우리말을 바르게 옮겼으므로 정답이다.\n③ [오답] be동사 Are와 be를 함께 쓸 수 없고 ‘~할 수 있니’의 뜻도 없으므로 오답이다.\n④ [오답] can 뒤에는 is가 아니라 원형 be를 써야 하므로 오답이다.\n⑤ [오답] ‘~할 수 있니’는 Do가 아니라 Can으로 물어야 하므로 오답이다.",
+    "passage": "그들은 친구가 될 수 있니?",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:52:34.821Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:52:36.710Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:52:36.710Z",
+      "what": "확인 완료"
+    }
+  }
+}

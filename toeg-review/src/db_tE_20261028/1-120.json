@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:19:51.837Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "(가), (라)",
+      "1": "(나), (다)",
+      "2": "(가), (나), (라)",
+      "3": "(다), (마)",
+      "4": "(라), (마)"
+    },
+    "expl": "핵심 규칙: 평서문은 said that/told + 사람 + that, 의문문은 asked + 의문사 + 주어 + 동사, 명령문은 told + 사람 + (not) to부정사로 바꾼다. 전달동사가 과거이면 시제를 한 단계 뒤로 옮기고 tomorrow → the next day, today → that day, now → then으로 바꾼다.\n풀이 순서: ① 화살표 뒤 문장마다 확인한다. 시제를 한 단계 뒤로 옮겼는지, 대명사와 때를 나타내는 말을 바꿨는지, 의문문·명령문이면 어순과 to부정사가 맞는지. → ② (가)는 will을 would로, (라)는 today를 that day로 바꾸지 않았다. 나머지는 바르다. → ③ 틀린 것만 묶은 (가), (라)를 고른다.\n문장별 판정:\n(가) 틀림: will을 would로 바꿔야 한다.\n(나) 옳음: 간접의문문 어순이고 did go → had gone, last weekend → the previous weekend로 바꿨다.\n(다) 옳음: can을 could로, my를 her로 바꿨다.\n(라) 틀림: today는 that day로 바꿔야 한다.\n(마) 옳음: 부정 명령문은 told me not to touch로 전달한다.\n정답 판단: 화법 전환이 틀린 것은 (가), (라)이다.\n선택지 분석:\n① [정답] 틀린 항목 (가), (라)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (나), (다)는 틀린 항목이 아니고, 틀린 항목 (가), (라)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (나)는 틀린 항목이 아니다. 따라서 오답이다.\n④ [오답] (다), (마)는 틀린 항목이 아니고, 틀린 항목 (가), (라)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (마)는 틀린 항목이 아니고, 틀린 항목 (가)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(가) Tom said, \"I will be late for the meeting.\"\n→ Tom said that he will be late for the meeting.\n(나) Mina asked me, \"Where did you go last weekend?\"\n→ Mina asked me where I had gone the previous weekend.\n(다) Jane said, \"I can drive my father's car.\"\n→ Jane said that she could drive her father's car.\n(라) Leo said, \"I finished my homework today.\"\n→ Leo said that he had finished his homework today.\n(마) Dad said to me, \"Do not touch the hot pan.\"\n→ Dad told me not to touch the hot pan.",
+    "stem": "다음 중 화법 전환이 어법상 틀린 문장으로만 묶인 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:57:20.758Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:57:26.182Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:19:51.837Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:19:40.121Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:19:51.837Z",
+      "what": "확인 완료"
+    }
+  }
+}

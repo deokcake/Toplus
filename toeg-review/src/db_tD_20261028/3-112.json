@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T18:24:21.507Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": null,
+      "1": null,
+      "2": "(A) at / (B) of",
+      "3": "(A) at / (B) on",
+      "4": "(A) in / (B) at"
+    },
+    "expl": "핵심 규칙: 장소 전치사는 at the end of, at the corner of, in front of, on the top shelf, at home, in the room처럼 명사와 어울리는 짝으로 쓴다.\n풀이 순서: ① (A)를 정한다: 꼭대기 면 위이므로 on the top으로 쓴다. → ② (B)를 정한다: ‘책상의 윗면’이므로 of를 쓴다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: 선반 표면 위에 놓여 있고(A)에는 on, 부엌이라는 공간 안이고(B)에는 in이므로 정답은 ②이다.\n선택지 분석:\n① [오답] (A) in: 선반 표면 위에 놓여 있으므로 (A)에는 on이다, (B) on: 부엌이라는 공간 안이므로 (B)에는 in이다. 따라서 오답이다.\n② [정답] 선반 표면 위에 놓여 있고(A)에는 on, 부엌이라는 공간 안이고(B)에는 in이므로 정답이다.\n③ [오답] (A) at: 선반 표면 위에 놓여 있으므로 (A)에는 on이다, (B) of: 부엌이라는 공간 안이므로 (B)에는 in이다. 따라서 오답이다.\n④ [오답] (A) at: 선반 표면 위에 놓여 있으므로 (A)에는 on이다, (B) on: 부엌이라는 공간 안이므로 (B)에는 in이다. 따라서 오답이다.\n⑤ [오답] (A) in: 선반 표면 위에 놓여 있으므로 (A)에는 on이다, (B) at: 부엌이라는 공간 안이므로 (B)에는 in이다. 따라서 오답이다.",
+    "passage": "A: Where is the sugar?\nB: It is (<u>    A    </u>) the top shelf (<u>    B    </u>) the kitchen.",
+    "stem": "다음 대화의 빈칸에 들어갈 전치사가 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:24:05.942Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:24:21.507Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:24:21.507Z",
+      "what": "확인 완료"
+    }
+  }
+}

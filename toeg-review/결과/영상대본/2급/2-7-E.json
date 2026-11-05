@@ -1,0 +1,180 @@
+{
+ "key": "2-7",
+ "type": "E",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "title": "1형식 문장으로만 된 짝 고르기",
+ "total_sec": 135,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "2급 · CH 1 문장의 형식 · 7번 · E 유형\n\n이 문제는 동사 뒤에 오는 말을 살펴, 두 문장이 모두 1형식인 짝을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 1 문장의 형식 · 7번 · E 유형",
+     "이 문제는 동사 뒤에 오는 말을 살펴, 두 문장이 모두 1형식인 짝을 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 1, 7번 E 유형. 이 문제는 동사 뒤에 오는 말을 살펴, 두 문장이 모두 1형식인 짝을 고르는 문제예요.",
+   "caption": "1형식 문장으로만 된 짝"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 1형식 문장으로만 짝지어진 것은?\n\n① She became a teacher. / Birds sang.\n② I need help. / The sun rose.\n③ We gave her flowers. / The bus arrived.\n④ The baby slept peacefully. / The crowd cheered.\n⑤ Tom looks happy. / The baby slept.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 1형식 문장으로만 짝지어진 것은?",
+     "① She became a teacher. / Birds sang.",
+     "② I need help. / The sun rose.",
+     "③ We gave her flowers. / The bus arrived.",
+     "④ The baby slept peacefully. / The crowd cheered.",
+     "⑤ Tom looks happy. / The baby slept."
+    ]
+   },
+   "narration": "다음 중 1형식 문장으로만 짝지어진 것은? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n1형식 = 주어 + 동사 (이것만으로 뜻이 완성돼요)\n동사 뒤의 부사·부사구(어떻게, 언제, 어디서)는 형식에 세지 않아요\n동사 뒤에 주어의 상태·신분을 설명하는 보어 → 2형식, 목적어 → 3·4·5형식\n예) The kids played in the garden. (아이들이 정원에서 놀았어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "1형식 = 주어 + 동사 (이것만으로 뜻이 완성돼요)",
+     "동사 뒤의 부사·부사구(어떻게, 언제, 어디서)는 형식에 세지 않아요",
+     "동사 뒤에 주어의 상태·신분을 설명하는 보어 → 2형식, 목적어 → 3·4·5형식",
+     "예) The kids played in the garden. (아이들이 정원에서 놀았어요.)"
+    ]
+   },
+   "narration": "1형식은 주어와 동사만으로 뜻이 완성되는 문장으로, 뒤에 부사나 부사구가 붙어도 1형식이에요. 하지만 동사 뒤에 주어의 상태나 신분을 설명하는 보어가 오면 2형식, 목적어가 오면 3, 4, 5형식이에요. 예를 들어 The kids played in the garden. 아이들이 정원에서 놀았어요. in the garden은 장소를 나타내는 부사구라서 1형식이에요.",
+   "caption": "1형식 = 주어 + 동사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 39,
+   "screen": {
+    "text": "다음 중 1형식 문장으로만 짝지어진 것은?\n\n① She became a teacher. / Birds sang.\n② I need help. / The sun rose.\n③ We gave her flowers. / The bus arrived.\n④ The baby slept peacefully. / The crowd cheered.\n⑤ Tom looks happy. / The baby slept.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "need help",
+       "gave her flowers"
+      ],
+      "strike": [
+       "② I need help. / The sun rose.",
+       "③ We gave her flowers. / The bus arrived."
+      ],
+      "note": "목적어가 있는 문장 → ② need help (3형식), ③ gave her flowers (4형식). 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "became a teacher",
+       "looks happy"
+      ],
+      "strike": [
+       "① She became a teacher. / Birds sang.",
+       "⑤ Tom looks happy. / The baby slept."
+      ],
+      "note": "주어를 설명하는 보어 → ① became a teacher (명사 보어, 신분), ⑤ looks happy (형용사 보어) → 2형식. 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "The baby slept peacefully.",
+       "The crowd cheered."
+      ],
+      "strike": [],
+      "note": "남는 것은 ④ → peacefully(평화롭게)는 부사 → 둘 다 1형식"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 2번 need 뒤의 help는 목적어라서 3형식이고, 3번 gave 뒤의 her와 flowers는 목적어 두 개라서 4형식이에요. 둘째, 1번 a teacher는 주어 She의 신분을, 5번 happy는 주어 Tom의 상태를 설명하는 보어라서, became a teacher와 looks happy가 있는 문장은 2형식이에요. 셋째, 남은 4번의 peacefully는 평화롭게라는 뜻의 부사라서 두 문장 모두 1형식이에요. The baby slept peacefully. 아기가 평화롭게 잤어요. The crowd cheered. 사람들이 환호했어요.",
+   "caption": "목적어·보어 있는 짝 지우기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 30,
+   "screen": {
+    "text": "① She became a teacher. / Birds sang.  ✗  a teacher는 주어 She의 신분을 설명하는 보어 → 2형식\n② I need help. / The sun rose.  ✗  help는 need의 목적어 → 3형식\n③ We gave her flowers. / The bus arrived.  ✗  her, flowers 목적어 두 개 → 4형식\n④ The baby slept peacefully. / The crowd cheered.  ✓  peacefully는 부사 → 둘 다 1형식\n⑤ Tom looks happy. / The baby slept.  ✗  happy는 주어 Tom을 설명하는 보어 → 2형식",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① She became a teacher. / Birds sang.  ✗  a teacher는 주어 She의 신분을 설명하는 보어 → 2형식",
+     "② I need help. / The sun rose.  ✗  help는 need의 목적어 → 3형식",
+     "③ We gave her flowers. / The bus arrived.  ✗  her, flowers 목적어 두 개 → 4형식",
+     "④ The baby slept peacefully. / The crowd cheered.  ✓  peacefully는 부사 → 둘 다 1형식",
+     "⑤ Tom looks happy. / The baby slept.  ✗  happy는 주어 Tom을 설명하는 보어 → 2형식"
+    ]
+   },
+   "narration": "정답은 4번이에요. 5번을 고르기 쉬운데, 뒤 문장은 1형식이 맞아요. 하지만 Tom looks happy. 톰이 행복해 보인다는 뜻인데, happy는 주어 Tom의 상태를 설명하는 보어라서 2형식이에요. 1번의 a teacher는 목적어처럼 보이지만, She와 a teacher는 같은 사람이라 주어를 설명하는 보어이고, 그래서 2형식이에요.",
+   "caption": "정답 ④ slept peacefully, cheered"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ④ The baby slept peacefully. / The crowd cheered.\n\n보어·목적어 없이 주어 + 동사 (+ 부사·부사구) → 1형식",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ The baby slept peacefully. / The crowd cheered.",
+     "보어·목적어 없이 주어 + 동사 (+ 부사·부사구) → 1형식"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 보어나 목적어 없이 주어와 동사만 있으면, 부사나 부사구가 붙어도 1형식이에요.",
+   "caption": "부사·부사구만 → 1형식"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 1형식 문장으로만 짝지어진 것은?",
+  "passage": "",
+  "c": [
+   "She became a teacher. / Birds sang.",
+   "I need help. / The sun rose.",
+   "We gave her flowers. / The bus arrived.",
+   "The baby slept peacefully. / The crowd cheered.",
+   "Tom looks happy. / The baby slept."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 1형식의 핵심 구조는 S+V이며 장소·시간·방법 부사어는 목적어나 보어로 세지 않는다. 연결동사 뒤 주어의 성질은 주격보어이고 타동사 뒤 대상은 목적어이다.\n풀이 순서: ① 문장마다 동사 뒤의 말이 부사(구)인지, 보어·목적어인지 가른다. 부사(구)는 형식에 들어가지 않는다. → ② 한 쌍에서 한 문장이라도 보어나 목적어가 있으면 지운다: ① became a teacher, ② need help, ③ gave her flowers, ⑤ looks happy. → ③ 두 문장 모두 ‘주어 + 동사(+ 부사)’인 ④가 정답이다.\n문장별 판정:\n정답 판단: The baby(S)+slept(V), The crowd(S)+cheered(V)로 둘 다 1형식이다. peacefully는 부사이다.\n선택지 분석:\n① [오답] She(S)+became(V)+a teacher(C)는 2형식, Birds(S)+sang(V)는 1형식이다.\n② [오답] I(S)+need(V)+help(O)는 3형식, The sun(S)+rose(V)는 1형식이다.\n③ [오답] We(S)+gave(V)+her(IO)+flowers(DO)는 4형식, The bus(S)+arrived(V)는 1형식이다.\n④ [정답] The baby(S)+slept(V), The crowd(S)+cheered(V)로 둘 다 1형식이다. peacefully는 부사이다.\n⑤ [오답] Tom(S)+looks(V)+happy(C)는 2형식, The baby(S)+slept(V)는 1형식이다."
+ }
+}

@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-23T07:01:21.820Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "She enjoys taking pictures of birds.",
+      "1": "They hope to win the game.",
+      "2": "He admitted breaking the window.",
+      "3": "Tom considered to move to another city.",
+      "4": "We planned to visit the museum."
+    },
+    "expl": "핵심 규칙: avoid, postpone, consider, deny, finish, enjoy, mind, give up, quit, practice, admit, recommend, imagine 등은 동명사만 목적어로 쓰고, want, hope, decide, plan, promise, agree, need, learn 등은 to부정사를 목적어로 쓴다. continue, try는 둘 다 쓸 수 있다.\n풀이 순서: ① 문장마다 동사와 그 뒤 목적어의 형태(to부정사인지 -ing인지)를 짝짓는다. → ② enjoy, admit 뒤의 동명사와 hope, plan 뒤의 to부정사는 모두 옳다. → ③ 선택지 ④는 consider 뒤에 to부정사를 썼으므로 동명사(moving)로 고쳐야 한다.\n문장별 판정:\n정답 판단: 동사(consider)는 동명사만 목적어로 쓰므로 to부정사를 쓸 수 없다. considered moving로 고쳐야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 동사(enjoy)는 동명사를 목적어로 쓰므로 -ing형을 바르게 썼다. 오답이다.\n② [오답] 동사(hope)는 to부정사를 목적어로 쓰므로 to부정사를 바르게 썼다. 오답이다.\n③ [오답] 동사(admit)는 동명사를 목적어로 쓰므로 -ing형을 바르게 썼다. 오답이다.\n④ [정답] 동사(consider)는 동명사만 목적어로 쓰므로 to부정사를 쓸 수 없다. considered moving로 고쳐야 하므로 정답이다.\n⑤ [오답] 동사(plan)는 to부정사를 목적어로 쓰므로 to부정사를 바르게 썼다. 오답이다.",
+    "passage": "",
+    "stem": "다음 중 어법상 어색한 것을 고르시오."
+  },
+  "tab": "sj53vmnt",
+  "updatedAt": "2026-10-23T07:01:21.820Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T07:01:21.820Z",
+      "what": "확인 완료"
+    }
+  }
+}

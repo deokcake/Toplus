@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T08:30:34.877Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "The baby looks <u>sleepy</u>.",
+      "1": "The road became <u>icy</u>.",
+      "2": "Jane opened <u>the window</u>.",
+      "3": "Tom seems <u>busy</u>.",
+      "4": "The soup tastes <u>delicious</u>."
+    },
+    "expl": "핵심 규칙: 타동사 뒤에서 동작의 대상이 되는 목적어와, 연결동사(look, seem, become, taste) 뒤에서 주어의 상태를 설명하는 형용사 주격보어를 구별한다.\n풀이 순서: ① 밑줄 앞의 동사를 본다. 동작을 나타내는 동사(read, buy, open) 뒤는 목적어, 상태를 나타내는 동사(look, seem, become, smell, taste) 뒤는 보어다. → ② 선택지 ③만 opened 뒤의 the window로 목적어다. 나머지는 보어다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: the window: opened의 대상인 목적어라 나머지(주격보어)와 역할이 달라 정답은 ③이다.\n선택지 분석:\n① [오답] sleepy: 연결동사 looks 뒤에서 주어의 상태를 설명하는 주격보어이므로 오답이다.\n② [오답] icy: 연결동사 became 뒤에서 주어의 상태를 설명하는 주격보어이므로 오답이다.\n③ [정답] the window: opened의 대상인 목적어라 나머지(주격보어)와 역할이 달라 정답이다.\n④ [오답] busy: 연결동사 seems 뒤에서 주어의 상태를 설명하는 주격보어이므로 오답이다.\n⑤ [오답] delicious: 연결동사 tastes 뒤에서 주어의 상태를 설명하는 주격보어이므로 오답이다.",
+    "passage": null,
+    "stem": "다음 밑줄 친 부분이 문장에서 하는 역할이 다른 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T08:30:27.314Z"
+  },
+  "tab": "x2buc7cy",
+  "updatedAt": "2026-10-27T08:30:34.877Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T08:30:34.877Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+ "key": "5-1",
+ "type": "C",
+ "grade": 5,
+ "chapter": "CH 1 대명사",
+ "title": "여자 한 명을 받는 주격 She",
+ "total_sec": 120,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 1 대명사 · 1번 · C 유형\n\n이 문제는 Jane을 대신해 주어로 쓸 알맞은 대명사를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 1 대명사 · 1번 · C 유형",
+     "이 문제는 Jane을 대신해 주어로 쓸 알맞은 대명사를 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 1, 1번 C 유형. 이 문제는 Jane을 대신해 주어로 쓸 알맞은 대명사를 고르는 문제예요.",
+   "caption": "Jane을 받는 대명사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.\n\nJane is my cousin. _______ is my cousin.\n\n① Her\n② She\n③ Hers\n④ Herself\n⑤ Its",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.",
+     "Jane is my cousin. _______ is my cousin.",
+     "① Her",
+     "② She",
+     "③ Hers",
+     "④ Herself",
+     "⑤ Its"
+    ]
+   },
+   "narration": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르세요. Jane is my cousin. 빈칸, is my cousin. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 26,
+   "screen": {
+    "text": "핵심 규칙\n주격 I, you, he, she, it, we, they = ‘~는, ~가’ → 주어로 써요\n한 명·하나를 받을 때: 남자 → he · 여자 → she · 사물·동물 → 보통 it\nshe의 다른 꼴: her(그녀의, 그녀를) · hers(그녀의 것) · herself(그녀 자신)\n예) My aunt is a nurse. → She is a nurse. (그녀는 간호사예요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "주격 I, you, he, she, it, we, they = ‘~는, ~가’ → 주어로 써요",
+     "한 명·하나를 받을 때: 남자 → he · 여자 → she · 사물·동물 → 보통 it",
+     "she의 다른 꼴: her(그녀의, 그녀를) · hers(그녀의 것) · herself(그녀 자신)",
+     "예) My aunt is a nurse. → She is a nurse. (그녀는 간호사예요.)"
+    ]
+   },
+   "narration": "주격 I, you, he, she, it, we, they는 ‘나는’, ‘그녀는’처럼 주어로 쓰는 꼴이에요. 한 사람을 받을 때 남자는 he, 여자는 she를 쓰고, 사물이나 동물 하나는 보통 it으로 받아요. she의 다른 꼴인 her는 그녀의 또는 그녀를, hers는 그녀의 것, herself는 그녀 자신이라는 뜻이에요. 예를 들어 My aunt는 여자 한 명이라 She로 받아요. She is a nurse, 그녀는 간호사예요.",
+   "caption": "주격은 주어로 써요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.\n\nJane is my cousin. _______ is my cousin.\n\n① Her\n② She\n③ Hers\n④ Herself\n⑤ Its",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Jane"
+      ],
+      "strike": [
+       "⑤ Its"
+      ],
+      "note": "Jane = 여자 한 명 → she (사물·동물 하나를 받는 it의 꼴 Its 지움)"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "_______ is my cousin."
+      ],
+      "strike": [
+       "① Her",
+       "③ Hers",
+       "④ Herself"
+      ],
+      "note": "빈칸 = 동사 is 앞 주어 자리 → ‘그녀는’ = 주격. Her(그녀의, 그녀를)·Hers(그녀의 것)·Herself(그녀 자신) 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② She"
+      ],
+      "strike": [],
+      "note": "남는 것 = 주격 She → She is my cousin."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 앞 문장의 주어 Jane은 여자 한 명이라 she로 받아요. 그래서 사물이나 동물 하나를 받는 it의 다른 꼴인 Its는 지워요. 둘째, 빈칸은 동사 is 앞 주어 자리라 그녀는이라는 뜻의 주격이 와야 하니, 그녀의 또는 그녀를인 Her, 그녀의 것인 Hers, 그녀 자신인 Herself는 지워요. 셋째, 남는 것은 주격 She예요. She is my cousin, 그녀는 나의 사촌이에요.",
+   "caption": "여자 한 명 → 주격 She"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① Her  ✗  ‘그녀의, 그녀를’ · 소유격이나 목적격이에요\n② She  ✓  여자 한 명을 받는 주격 (그녀는)\n③ Hers  ✗  ‘그녀의 것’이라 사람인 Jane을 대신할 수 없어요\n④ Herself  ✗  ‘그녀 자신’ · 주어 자리에는 쓰지 않아요\n⑤ Its  ✗  ‘그것의’ · 여자 한 명은 she로 받아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Her  ✗  ‘그녀의, 그녀를’ · 소유격이나 목적격이에요",
+     "② She  ✓  여자 한 명을 받는 주격 (그녀는)",
+     "③ Hers  ✗  ‘그녀의 것’이라 사람인 Jane을 대신할 수 없어요",
+     "④ Herself  ✗  ‘그녀 자신’ · 주어 자리에는 쓰지 않아요",
+     "⑤ Its  ✗  ‘그것의’ · 여자 한 명은 she로 받아요"
+    ]
+   },
+   "narration": "정답은 2번 She예요. 1번 Her는 그녀의 또는 그녀를이라는 뜻이라 주어로 쓰지 않아요. 4번 Herself는 그녀 자신이라는 뜻이고, 주어 자리에는 쓰지 않아요. 3번 Hers는 그녀의 것이라는 뜻이라 사람인 Jane을 대신할 수 없어요.",
+   "caption": "정답 ② She"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② She\n\n여자 한 명 → she · 주어로 쓸 때는 주격 she",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② She",
+     "여자 한 명 → she · 주어로 쓸 때는 주격 she"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 여자 한 명은 she로 받고, 주어로 쓸 때는 주격 she를 써요.",
+   "caption": "여자 한 명 → 주격 she"
+  }
+ ],
+ "source": {
+  "stem": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.",
+  "passage": "Jane is my cousin. _______ is my cousin.",
+  "c": [
+   "Her",
+   "She",
+   "Hers",
+   "Herself",
+   "Its"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 인칭대명사는 자리에 따라 주격(I, you, he, she, it, we, they), 소유격(my, your, his, her, its, our, their), 목적격(me, you, him, her, it, us, them), 소유대명사(mine, yours, his, hers, ours, theirs)로 쓴다.\n풀이 순서: ① 앞 문장의 주어를 대명사로 바꾼다: Jane(여자 한 명)은 ‘그녀’. → ② 빈칸은 동사 앞 주어 자리이므로 주격을 쓴다. → ③ 정답은 She.\n문장별 판정:\n정답 판단: Jane을 받는 주격 She이므로 정답은 ②이다.\n선택지 분석:\n① [오답] Her: 소유격·목적격이라 주어 자리에 쓸 수 없으므로 오답이다.\n② [정답] Jane을 받는 주격 She이므로 정답이다.\n③ [오답] Hers: 소유대명사이라 주어 자리에 쓸 수 없으므로 오답이다.\n④ [오답] Herself: 재귀대명사이라 주어 자리에 쓸 수 없으므로 오답이다.\n⑤ [오답] Its: 사물의 소유격이라 맞지 않으므로 오답이다."
+ }
+}

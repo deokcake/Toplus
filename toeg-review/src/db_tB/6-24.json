@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T05:50:48.133Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 긍정 의문문의 Was/Were를 주어에 맞추고, 대답은 Yes/No와 인칭 전환을 함께 확인한다.\n풀이 순서: ① 질문의 주어를 본다: Tom and Ben(복수) → Were. → ② 대답의 주어와 Yes/No를 본다: Yes, they → were. → ③ 정답은 Were - were.\n문장별 판정:\n정답 판단: (첫째 빈칸) Were: 긍정 의문문이므로 부정어 없이 주어 Tom and Ben에 맞는 were를 앞에 놓는다. (둘째 빈칸) were: 대답의 주어 they와 Yes의 긍정에 맞춰 were를 쓴다. 따라서 정답은 ①이다.\n선택지 분석:\n① [정답] (첫째 빈칸) Were: 긍정 의문문이므로 부정어 없이 주어 Tom and Ben에 맞는 were를 앞에 놓는다. (둘째 빈칸) were: 대답의 주어 they와 Yes의 긍정에 맞춰 were를 쓴다.\n② [오답] (첫째 빈칸) Was → Were. 긍정 의문문이므로 부정어 없이 주어 Tom and Ben에 맞는 were를 앞에 놓는다. (둘째 빈칸) wasn't → were. 대답의 주어 they와 Yes의 긍정에 맞춰 were를 쓴다.\n③ [오답] (첫째 빈칸) Were: 긍정 의문문이므로 부정어 없이 주어 Tom and Ben에 맞는 were를 앞에 놓는다. (둘째 빈칸) was → were. 대답의 주어 they와 Yes의 긍정에 맞춰 were를 쓴다.\n④ [오답] (첫째 빈칸) Was → Were. 긍정 의문문이므로 부정어 없이 주어 Tom and Ben에 맞는 were를 앞에 놓는다. (둘째 빈칸) was → were. 대답의 주어 they와 Yes의 긍정에 맞춰 were를 쓴다.\n⑤ [오답] (첫째 빈칸) Were: 긍정 의문문이므로 부정어 없이 주어 Tom and Ben에 맞는 were를 앞에 놓는다. (둘째 빈칸) wasn't → were. 대답의 주어 they와 Yes의 긍정에 맞춰 were를 쓴다.",
+    "passage": null,
+    "stem": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T05:50:46.817Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T05:50:48.133Z",
+      "what": "확인 완료"
+    }
+  }
+}

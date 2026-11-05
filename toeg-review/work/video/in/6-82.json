@@ -1,0 +1,86 @@
+{
+ "key": "6-82",
+ "grade": 6,
+ "chapter": "CH 9 현재진행형",
+ "items": {
+  "A": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+   "passage": "그는 지금 책을 읽고 있다.",
+   "c": [
+    "He read a book now.",
+    "He is read a book now.",
+    "He is reading a book now.",
+    "He reading a book now.",
+    "He being reading a book now."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: ‘지금 ~하고 있다’는 현재진행형 am/is/are + 동사원형-ing로 쓴다.\n풀이 순서: ① ‘읽고 있다’ → 지금 진행 중인 일이므로 be동사 + -ing형이 필요하다. → ② 주어(He)에 맞는 be동사는 is, -ing형은 reading. → ③ 둘 다 갖춘 문장은 ③.\n문장별 판정:\n정답 판단: is + reading으로 바르게 옮겼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] be동사와 -ing형이 없으므로 오답이다.\n② [오답] is 뒤에 동사원형 read를 쓸 수 없으므로 오답이다.\n③ [정답] is + reading으로 바르게 옮겼으므로 정답이다.\n④ [오답] be동사가 빠졌으므로 오답이다.\n⑤ [오답] being이 아니라 is를 써야 하므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+   "passage": "Mina는 지금 부엌에서 요리하고 있다.",
+   "c": [
+    "Mina cooks in the kitchen now.",
+    "Mina is cook in the kitchen now.",
+    "Mina cooking in the kitchen now.",
+    "Mina is cooking in the kitchen now.",
+    "Mina being cooking in the kitchen now."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: ‘지금 ~하고 있다’는 am/is/are + 동사원형-ing로 옮긴다. be동사 없이 -ing형만 쓰거나 be동사 뒤에 동사원형을 쓰지 않는다.\n풀이 순서: ① ‘요리하고 있다’ → 지금 진행 중인 일이므로 be동사 + -ing형이 필요하다. → ② 주어(Mina)에 맞는 be동사는 is, -ing형은 cooking. → ③ 둘 다 갖춘 문장은 ④.\n문장별 판정:\n정답 판단: 3인칭 단수 주어에 is + cooking으로 바르게 옮겼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 현재형이라 지금 하고 있는 동작을 나타내지 못하므로 오답이다.\n② [오답] is 뒤에는 동사원형이 아니라 cooking을 써야 하므로 오답이다.\n③ [오답] be동사 없이 -ing형만으로는 동사 자리를 채울 수 없으므로 오답이다.\n④ [정답] 3인칭 단수 주어에 is + cooking으로 바르게 옮겼으므로 정답이다.\n⑤ [오답] being이 아니라 주어에 맞는 is를 써야 하므로 오답이다."
+  },
+  "C": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+   "passage": "나는 지금 지도를 그리고 있다.",
+   "c": [
+    "I am drawing a map yesterday.",
+    "I am draw a map now.",
+    "I am drawing a map now.",
+    "I are drawing a map now.",
+    "I am draws a map now."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 현재진행형은 am/is/are+동사-ing이다. 우리말의 시간 정보도 보존한다.\n풀이 순서: ① ‘그리고 있다’ → 지금 진행 중인 일이므로 be동사 + -ing형이 필요하다. → ② 주어(I)에 맞는 be동사는 am, -ing형은 drawing. → ③ 둘 다 갖춘 문장은 ③.\n문장별 판정:\n정답 판단: 주어 I에 맞는 am과 drawing을 사용하여 현재진행형을 만들었다. 따라서 정답은 ③이다.\n선택지 분석:\n① [오답] 주어 I에 맞는 am과 drawing을 사용하여 현재진행형을 만들었다. 그러나 yesterday는 어제이므로 우리말의 지금(now)과 다르다.\n② [오답] 진행형의 본동사는 draw가 아니라 drawing이다. draw에 ing을 붙이면 drawing이 된다.\n③ [정답] 주어 I에 맞는 am과 drawing을 사용하여 현재진행형을 만들었다.\n④ [오답] 주어 I의 현재진행형에는 be동사 am이 필요하다. are를 am으로 고친다.\n⑤ [오답] 진행형의 본동사는 draws가 아니라 drawing이다. draw에 ing을 붙이면 drawing이 된다."
+  },
+  "D": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+   "passage": "그들은 지금 버스를 기다리고 있다.",
+   "c": [
+    "They are waiting for the bus now.",
+    "They waiting for the bus now.",
+    "They is waiting for the bus now.",
+    "They are wait for the bus now.",
+    "They wait for the bus now."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 현재진행형은 am/is/are+동사-ing이다. 우리말의 시간 정보도 보존한다.\n풀이 순서: ① ‘기다리고 있다’ → 지금 진행 중인 일이므로 be동사 + -ing형이 필요하다. → ② 주어(They)에 맞는 be동사는 are, -ing형은 waiting. → ③ 둘 다 갖춘 문장은 ①.\n문장별 판정:\n정답 판단: 주어 They에 맞는 are와 waiting을 사용하여 현재진행형을 만들었다. 따라서 정답은 ①이다.\n선택지 분석:\n① [정답] 주어 They에 맞는 are와 waiting을 사용하여 현재진행형을 만들었다.\n② [오답] 주어 They의 현재진행형에는 be동사 are가 필요하다. 주어 뒤의 be동사가 빠져 있다.\n③ [오답] 주어 They의 현재진행형에는 be동사 are가 필요하다. is를 are로 고친다.\n④ [오답] 진행형의 본동사는 wait가 아니라 waiting이다. wait에 ing을 붙이면 waiting이 된다.\n⑤ [오답] 주어 They의 현재진행형에는 be동사 are가 필요하다. 주어 뒤의 be동사가 빠져 있다. 진행형의 본동사는 wait가 아니라 waiting이다. wait에 ing을 붙이면 waiting이 된다."
+  },
+  "E": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+   "passage": "아이들은 지금 공원에서 뛰고 있다.",
+   "c": [
+    "The children are running in the park now.",
+    "The children runs in the park now.",
+    "The children is running in the park now.",
+    "The children running in the park now.",
+    "The children are run in the park now."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: ‘지금 ~하고 있다’는 am/is/are + 동사원형-ing로 옮긴다. be동사 없이 -ing형만 쓰거나 be동사 뒤에 동사원형을 쓰지 않는다.\n풀이 순서: ① ‘뛰고 있다’ → 지금 진행 중인 일이므로 be동사 + -ing형이 필요하다. → ② 주어(The children)에 맞는 be동사는 are, -ing형은 running. → ③ 둘 다 갖춘 문장은 ①.\n문장별 판정:\n정답 판단: 복수 주어 The children에 are + running으로 바르게 옮겼으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 복수 주어 The children에 are + running으로 바르게 옮겼으므로 정답이다.\n② [오답] 현재형이고 복수 주어에 -s를 붙였으므로 오답이다.\n③ [오답] 복수 주어 The children에는 are를 써야 하므로 오답이다.\n④ [오답] be동사 없이 -ing형만으로는 동사 자리를 채울 수 없으므로 오답이다.\n⑤ [오답] are 뒤에는 동사원형이 아니라 running을 써야 하므로 오답이다."
+  },
+  "F": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+   "passage": "그녀는 지금 편지를 쓰고 있다.",
+   "c": [
+    "She are writing a letter now.",
+    "She is write a letter now.",
+    "She is writing a letter yesterday.",
+    "She is writing a letter now.",
+    "She does writing a letter now."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 현재진행형은 am/is/are+동사-ing이다. 우리말의 시간 정보도 보존한다.\n풀이 순서: ① ‘쓰고 있다’ → 지금 진행 중인 일이므로 be동사 + -ing형이 필요하다. → ② 주어(She)에 맞는 be동사는 is, -ing형은 writing. → ③ 둘 다 갖춘 문장은 ④.\n문장별 판정:\n정답 판단: 주어 She에 맞는 is와 writing을 사용하여 현재진행형을 만들었다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] 주어 She의 현재진행형에는 be동사 is가 필요하다. are를 is로 고친다.\n② [오답] 진행형의 본동사는 write가 아니라 writing이다. write는 끝의 e를 빼고 ing을 붙여 writing으로 쓴다.\n③ [오답] 주어 She에 맞는 is와 writing을 사용하여 현재진행형을 만들었다. 그러나 yesterday는 어제이므로 우리말의 지금(now)과 다르다.\n④ [정답] 주어 She에 맞는 is와 writing을 사용하여 현재진행형을 만들었다.\n⑤ [오답] 주어 She의 현재진행형에는 be동사 is가 필요하다. does를 is로 고친다."
+  }
+ },
+ "prior_review": {}
+}

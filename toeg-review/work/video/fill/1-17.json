@@ -1,0 +1,484 @@
+{
+ "A": {
+  "title": "현재완료와 끝난 과거 시점",
+  "intro": "이 문제는 현재완료와 과거형의 쓰임을 따져 어법상 어색한 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 어색한 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료 = have/has + 과거분사",
+    "과거의 일이 지금과 이어질 때 (경험·완료·계속·결과)",
+    "since, for, ever, already, just 등과 자주 함께 써요",
+    "끝난 과거 시점 (yesterday, last ~, ~ ago, in 2020) → 현재완료 ✗, 과거형 ○",
+    "예) He has played the piano for five years. (그는 5년 동안 피아노를 쳐 왔어요.)  He played it yesterday. (그는 어제 그것을 쳤어요.)"
+   ],
+   "narration": "현재완료는 have나 has 뒤에 과거분사를 쓰고, 과거의 일이 지금과 이어질 때 써요. since, for, ever, already, just와 자주 함께 써요. 하지만 yesterday나 two days ago처럼 끝난 과거의 때를 밝히면 현재완료가 아니라 과거형을 써요. He has played the piano for five years. 그는 5년 동안 피아노를 쳐 왔어요. He played it yesterday. 그는 어제 그것을 쳤어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 때를 나타내는 말 찾기 → 동사의 시제와 짝짓기",
+    "highlight": [
+     "since I was born",
+     "ever",
+     "already",
+     "last night",
+     "in 2022"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 때를 나타내는 말을 찾아 동사의 시제와 짝지어요."
+   },
+   {
+    "note": "①②③ since·ever·already + 현재완료 ○ / ④ last night + 과거형 saw ○",
+    "highlight": [],
+    "strike": [
+     "① I have lived in Seoul since I was born.",
+     "② Have you ever been to Jeju Island?",
+     "③ He has already lost his umbrella again.",
+     "④ We saw the movie together last night."
+    ],
+    "narration": "둘째, 1번부터 3번은 since, ever, already와 함께 현재완료를 썼고, 4번은 끝난 과거 시점 last night에 과거형 saw를 써서 모두 바른 문장이에요."
+   },
+   {
+    "note": "⑤ in 2022 = 끝난 과거 시점 + has graduated ✗ → She graduated from college in 2022.",
+    "highlight": [
+     "in 2022"
+    ],
+    "strike": [
+     "has graduated"
+    ],
+    "narration": "셋째, 5번은 끝난 과거 시점 in 2022와 현재완료 has graduated를 함께 써서 어색하니, 과거형 graduated로 고쳐요. She graduated from college in 2022. 그녀는 2022년에 대학을 졸업했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I have lived in Seoul since I was born.  ✗  since + 현재완료: 태어난 뒤로 지금까지 계속 (바른 문장)",
+    "② Have you ever been to Jeju Island?  ✗  ever + 현재완료: 경험을 물어요 (바른 문장)",
+    "③ He has already lost his umbrella again.  ✗  already + 현재완료: 완료 (바른 문장)",
+    "④ We saw the movie together last night.  ✗  last night + 과거형 saw (바른 문장)",
+    "⑤ She has graduated from college in 2022.  ✓  in 2022는 끝난 과거 시점 → graduated로"
+   ],
+   "narration": "정답은 in 2022와 현재완료를 함께 쓴 5번이에요. 1번은 과거형 was born이 있어 헷갈릴 수 있지만, 태어난 뒤로 지금까지 계속 산 일을 since와 현재완료로 써서 맞아요. 3번은 already와 함께 벌써 또 우산을 잃어버린 일을 현재완료로 써서 맞아요."
+  },
+  "summary": {
+   "card": "끝난 과거 시점(yesterday, last ~, ~ ago, in 2020) → 과거형 (현재완료 ✗)",
+   "narration": "정답은 5번이에요. 기억할 것, in 2022처럼 끝난 과거 시점을 밝히면 현재완료가 아니라 과거형을 써요."
+  },
+  "captions": [
+   "현재완료와 끝난 과거 시점",
+   "먼저 풀어 보세요",
+   "끝난 과거 시점엔 과거형",
+   "때 표현 찾기 → 시제 짝짓기",
+   "정답 ⑤ → graduated",
+   "끝난 과거 시점 → 과거형"
+  ],
+  "sec": [
+   10,
+   14,
+   30,
+   36,
+   24,
+   11
+  ]
+ },
+ "B": {
+  "title": "현재완료와 끝난 과거 시점",
+  "intro": "이 문제는 현재완료와 과거형의 쓰임을 따져 어법상 어색한 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 어색한 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료 = have/has + 과거분사",
+    "과거의 일이 지금과 이어질 때 (경험·완료·계속·결과)",
+    "since, for, ever, already, just 등과 자주 함께 써요",
+    "끝난 과거 시점 (yesterday, last ~, ~ ago, in 2020) → 현재완료 ✗, 과거형 ○",
+    "예) He has played the piano for five years. (그는 5년 동안 피아노를 쳐 왔어요.)  He played it yesterday. (그는 어제 그것을 쳤어요.)"
+   ],
+   "narration": "현재완료는 have나 has 뒤에 과거분사를 쓰고, 과거의 일이 지금과 이어질 때 써요. since, for, ever, already, just와 자주 함께 써요. 하지만 yesterday나 two days ago처럼 끝난 과거의 때를 밝히면 현재완료가 아니라 과거형을 써요. He has played the piano for five years. 그는 5년 동안 피아노를 쳐 왔어요. He played it yesterday. 그는 어제 그것을 쳤어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 때를 나타내는 말 찾기 → 동사의 시제와 짝짓기",
+    "highlight": [
+     "yesterday",
+     "last summer",
+     "already",
+     "for years",
+     "just"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 때를 나타내는 말을 찾아 동사의 시제와 짝지어요."
+   },
+   {
+    "note": "① yesterday + 과거형 finished ○ / ③④⑤ already·for years·just + 현재완료 ○",
+    "highlight": [],
+    "strike": [
+     "① Mina finished the report yesterday.",
+     "③ We have already moved the boxes.",
+     "④ Tom has known her for years.",
+     "⑤ Jane has just called me."
+    ],
+    "narration": "둘째, 1번은 끝난 과거 시점 yesterday에 과거형 finished를 썼고, 3번부터 5번은 already, for years, just와 함께 현재완료를 써서 모두 바른 문장이에요."
+   },
+   {
+    "note": "② last summer = 끝난 과거 시점 + have visited ✗ → They visited Busan last summer.",
+    "highlight": [
+     "last summer"
+    ],
+    "strike": [
+     "have visited"
+    ],
+    "narration": "셋째, 2번은 끝난 과거 시점 last summer와 현재완료 have visited를 함께 써서 어색하니, 과거형 visited로 고쳐요. They visited Busan last summer. 그들은 지난여름에 부산을 방문했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Mina finished the report yesterday.  ✗  yesterday + 과거형 finished (바른 문장)",
+    "② They have visited Busan last summer.  ✓  last summer는 끝난 과거 시점 → visited로",
+    "③ We have already moved the boxes.  ✗  already + 현재완료: 완료 (바른 문장)",
+    "④ Tom has known her for years.  ✗  for years + 현재완료: 계속 (바른 문장)",
+    "⑤ Jane has just called me.  ✗  just + 현재완료: 방금 끝난 일 (바른 문장)"
+   ],
+   "narration": "정답은 last summer와 현재완료를 함께 쓴 2번이에요. 4번은 for years와 함께 여러 해 전부터 지금까지 그녀를 알아 온 일을 현재완료로 써서 맞아요. 5번은 just와 함께 방금 끝난 일을 현재완료로 써서 맞아요."
+  },
+  "summary": {
+   "card": "끝난 과거 시점(yesterday, last ~, ~ ago, in 2020) → 과거형 (현재완료 ✗)",
+   "narration": "정답은 2번이에요. 기억할 것, last summer처럼 끝난 과거 시점을 밝히면 현재완료가 아니라 과거형을 써요."
+  },
+  "captions": [
+   "현재완료와 끝난 과거 시점",
+   "먼저 풀어 보세요",
+   "끝난 과거 시점엔 과거형",
+   "때 표현 찾기 → 시제 짝짓기",
+   "정답 ② → visited",
+   "끝난 과거 시점 → 과거형"
+  ],
+  "sec": [
+   10,
+   14,
+   30,
+   36,
+   24,
+   11
+  ]
+ },
+ "C": {
+  "title": "현재완료와 끝난 과거 시점",
+  "intro": "이 문제는 현재완료와 과거형의 쓰임을 따져 어법상 어색한 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 어색한 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료 = have/has + 과거분사",
+    "과거의 일이 지금과 이어질 때 (경험·완료·계속·결과)",
+    "since, for, ever, already, just 등과 자주 함께 써요",
+    "끝난 과거 시점 (yesterday, last ~, ~ ago, in 2020) → 현재완료 ✗, 과거형 ○",
+    "예) He has played the piano for five years. (그는 5년 동안 피아노를 쳐 왔어요.)  He played it yesterday. (그는 어제 그것을 쳤어요.)"
+   ],
+   "narration": "현재완료는 have나 has 뒤에 과거분사를 쓰고, 과거의 일이 지금과 이어질 때 써요. since, for, ever, already, just와 자주 함께 써요. 하지만 yesterday나 two days ago처럼 끝난 과거의 때를 밝히면 현재완료가 아니라 과거형을 써요. He has played the piano for five years. 그는 5년 동안 피아노를 쳐 왔어요. He played it yesterday. 그는 어제 그것을 쳤어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 때를 나타내는 말 찾기 → 동사의 시제와 짝짓기",
+    "highlight": [
+     "for ten years",
+     "ever",
+     "yesterday",
+     "ten minutes ago",
+     "just"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 때를 나타내는 말을 찾아 동사의 시제와 짝지어요."
+   },
+   {
+    "note": "①②⑤ for ten years·ever·just + 현재완료 ○ / ③ yesterday + 과거형 lost ○",
+    "highlight": [],
+    "strike": [
+     "① My uncle has worked at this hospital for ten years.",
+     "② Have you ever eaten Thai food?",
+     "③ I lost my phone on the subway yesterday.",
+     "⑤ We have just finished our homework."
+    ],
+    "narration": "둘째, 1번, 2번, 5번은 for ten years, ever, just와 함께 현재완료를 썼고, 3번은 끝난 과거 시점 yesterday에 과거형 lost를 써서 모두 바른 문장이에요."
+   },
+   {
+    "note": "④ ten minutes ago = 끝난 과거 시점 + has left ✗ → The bus left ten minutes ago.",
+    "highlight": [
+     "ten minutes ago"
+    ],
+    "strike": [
+     "has left"
+    ],
+    "narration": "셋째, 4번은 끝난 과거 시점 ten minutes ago와 현재완료 has left를 함께 써서 어색하니, 과거형 left로 고쳐요. The bus left ten minutes ago. 버스는 10분 전에 떠났어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① My uncle has worked at this hospital for ten years.  ✗  for ten years + 현재완료: 계속 (바른 문장)",
+    "② Have you ever eaten Thai food?  ✗  ever + 현재완료: 경험을 물어요 (바른 문장)",
+    "③ I lost my phone on the subway yesterday.  ✗  yesterday + 과거형 lost (바른 문장)",
+    "④ The bus has left ten minutes ago.  ✓  ten minutes ago는 끝난 과거 시점 → left로",
+    "⑤ We have just finished our homework.  ✗  just + 현재완료: 방금 끝난 일 (바른 문장)"
+   ],
+   "narration": "정답은 ten minutes ago와 현재완료를 함께 쓴 4번이에요. 1번은 for ten years와 함께 10년 전부터 지금까지 일해 온 일을 현재완료로 써서 맞아요. 3번은 현재완료가 없어 틀려 보일 수 있지만, yesterday가 있으니 과거형 lost가 맞아요."
+  },
+  "summary": {
+   "card": "끝난 과거 시점(yesterday, last ~, ~ ago, in 2020) → 과거형 (현재완료 ✗)",
+   "narration": "정답은 4번이에요. 기억할 것, ten minutes ago처럼 끝난 과거 시점을 밝히면 현재완료가 아니라 과거형을 써요."
+  },
+  "captions": [
+   "현재완료와 끝난 과거 시점",
+   "먼저 풀어 보세요",
+   "끝난 과거 시점엔 과거형",
+   "때 표현 찾기 → 시제 짝짓기",
+   "정답 ④ → left",
+   "끝난 과거 시점 → 과거형"
+  ],
+  "sec": [
+   10,
+   14,
+   30,
+   36,
+   24,
+   11
+  ]
+ },
+ "D": {
+  "title": "현재완료와 끝난 과거 시점",
+  "intro": "이 문제는 현재완료와 과거형의 쓰임을 따져 어법상 어색한 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 어색한 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료 = have/has + 과거분사",
+    "과거의 일이 지금과 이어질 때 (경험·완료·계속·결과)",
+    "since, for, ever, already, just 등과 자주 함께 써요",
+    "끝난 과거 시점 (yesterday, last ~, ~ ago, in 2020) → 현재완료 ✗, 과거형 ○",
+    "예) He has played the piano for five years. (그는 5년 동안 피아노를 쳐 왔어요.)  He played it yesterday. (그는 어제 그것을 쳤어요.)"
+   ],
+   "narration": "현재완료는 have나 has 뒤에 과거분사를 쓰고, 과거의 일이 지금과 이어질 때 써요. since, for, ever, already, just와 자주 함께 써요. 하지만 yesterday나 two days ago처럼 끝난 과거의 때를 밝히면 현재완료가 아니라 과거형을 써요. He has played the piano for five years. 그는 5년 동안 피아노를 쳐 왔어요. He played it yesterday. 그는 어제 그것을 쳤어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 때를 나타내는 말 찾기 → 동사의 시제와 짝짓기",
+    "highlight": [
+     "already",
+     "twice",
+     "last Monday",
+     "last weekend",
+     "since 2019",
+     "ever"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 때를 나타내는 말을 찾아 동사의 시제와 짝지어요."
+   },
+   {
+    "note": "①④⑤ already·since 2019·ever + 현재완료 ○ / ③ last weekend + 과거형 visited ○",
+    "highlight": [],
+    "strike": [
+     "① Sujin has already read this novel twice.",
+     "③ I visited my grandparents last weekend.",
+     "④ They have lived in Busan since 2019.",
+     "⑤ Has your brother ever ridden a horse?"
+    ],
+    "narration": "둘째, 1번, 4번, 5번은 already, since 2019, ever와 함께 현재완료를 썼고, 3번은 끝난 과거 시점 last weekend에 과거형 visited를 써서 모두 바른 문장이에요."
+   },
+   {
+    "note": "② last Monday = 끝난 과거 시점 + has met ✗ → Tom met her last Monday.",
+    "highlight": [
+     "last Monday"
+    ],
+    "strike": [
+     "has met"
+    ],
+    "narration": "셋째, 2번은 끝난 과거 시점 last Monday와 현재완료 has met을 함께 써서 어색하니, 과거형 met으로 고쳐요. Tom met her last Monday. 톰은 지난 월요일에 그녀를 만났어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Sujin has already read this novel twice.  ✗  already, twice + 현재완료: 경험 (바른 문장)",
+    "② Tom has met her last Monday.  ✓  last Monday는 끝난 과거 시점 → met으로",
+    "③ I visited my grandparents last weekend.  ✗  last weekend + 과거형 visited (바른 문장)",
+    "④ They have lived in Busan since 2019.  ✗  since 2019 + 현재완료: 계속 (바른 문장)",
+    "⑤ Has your brother ever ridden a horse?  ✗  ever + 현재완료: 경험을 물어요 (바른 문장)"
+   ],
+   "narration": "정답은 last Monday와 현재완료를 함께 쓴 2번이에요. 4번은 2019년이 과거라 헷갈릴 수 있지만, since 2019는 2019년부터 지금까지를 뜻해서 현재완료와 잘 어울려요. 1번의 read는 원형과 과거분사의 모양이 같아서, has already read는 바른 현재완료예요."
+  },
+  "summary": {
+   "card": "끝난 과거 시점(yesterday, last ~, ~ ago, in 2020) → 과거형 (현재완료 ✗)",
+   "narration": "정답은 2번이에요. 기억할 것, last Monday처럼 끝난 과거 시점을 밝히면 현재완료가 아니라 과거형을 써요."
+  },
+  "captions": [
+   "현재완료와 끝난 과거 시점",
+   "먼저 풀어 보세요",
+   "끝난 과거 시점엔 과거형",
+   "때 표현 찾기 → 시제 짝짓기",
+   "정답 ② → met",
+   "끝난 과거 시점 → 과거형"
+  ],
+  "sec": [
+   10,
+   14,
+   30,
+   36,
+   24,
+   11
+  ]
+ },
+ "E": {
+  "title": "현재완료와 끝난 과거 시점",
+  "intro": "이 문제는 현재완료와 과거형의 쓰임을 따져 어법상 어색한 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 어색한 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료 = have/has + 과거분사",
+    "과거의 일이 지금과 이어질 때 (경험·완료·계속·결과)",
+    "since, for, ever, never, just 등과 자주 함께 써요",
+    "끝난 과거 시점 (yesterday, last ~, ~ ago, in 2020) → 현재완료 ✗, 과거형 ○",
+    "예) He has played the piano for five years. (그는 5년 동안 피아노를 쳐 왔어요.)  He played it yesterday. (그는 어제 그것을 쳤어요.)"
+   ],
+   "narration": "현재완료는 have나 has 뒤에 과거분사를 쓰고, 과거의 일이 지금과 이어질 때 써요. since, for, ever, never, just와 자주 함께 써요. 하지만 yesterday나 two days ago처럼 끝난 과거의 때를 밝히면 현재완료가 아니라 과거형을 써요. He has played the piano for five years. 그는 5년 동안 피아노를 쳐 왔어요. He played it yesterday. 그는 어제 그것을 쳤어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 때를 나타내는 말 찾기 → 동사의 시제와 짝짓기",
+    "highlight": [
+     "just",
+     "for twenty years",
+     "last night",
+     "never",
+     "before",
+     "in 2021"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 때를 나타내는 말을 찾아 동사의 시제와 짝지어요."
+   },
+   {
+    "note": "①②④ just·for twenty years·never + 현재완료 ○ / ③ last night + 과거형 Did you watch ○",
+    "highlight": [],
+    "strike": [
+     "① The rain has just stopped.",
+     "② My parents have been married for twenty years.",
+     "③ Did you watch the game last night?",
+     "④ I have never seen snow before."
+    ],
+    "narration": "둘째, 1번, 2번, 4번은 just, for twenty years, never와 함께 현재완료를 썼고, 3번은 끝난 과거 시점 last night에 과거형 Did you watch로 물어서 모두 바른 문장이에요."
+   },
+   {
+    "note": "⑤ in 2021 = 끝난 과거 시점 + have moved ✗ → We moved here in 2021.",
+    "highlight": [
+     "in 2021"
+    ],
+    "strike": [
+     "have moved"
+    ],
+    "narration": "셋째, 5번은 끝난 과거 시점 in 2021과 현재완료 have moved를 함께 써서 어색하니, 과거형 moved로 고쳐요. We moved here in 2021. 우리는 2021년에 이곳으로 이사 왔어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The rain has just stopped.  ✗  just + 현재완료: 방금 끝난 일 (바른 문장)",
+    "② My parents have been married for twenty years.  ✗  for twenty years + 현재완료: 계속된 상태 (바른 문장)",
+    "③ Did you watch the game last night?  ✗  last night + 과거형 의문문 Did you watch (바른 문장)",
+    "④ I have never seen snow before.  ✗  never + 현재완료: 경험 (바른 문장)",
+    "⑤ We have moved here in 2021.  ✓  in 2021은 끝난 과거 시점 → moved로"
+   ],
+   "narration": "정답은 in 2021과 현재완료를 함께 쓴 5번이에요. 2번은 결혼한 일이 과거라 헷갈릴 수 있지만, for twenty years와 함께 20년 동안 지금까지 이어진 상태를 현재완료로 써서 맞아요. 3번은 last night가 있으니 과거형 Did you watch로 묻는 것이 맞아요."
+  },
+  "summary": {
+   "card": "끝난 과거 시점(yesterday, last ~, ~ ago, in 2020) → 과거형 (현재완료 ✗)",
+   "narration": "정답은 5번이에요. 기억할 것, in 2021처럼 끝난 과거 시점을 밝히면 현재완료가 아니라 과거형을 써요."
+  },
+  "captions": [
+   "현재완료와 끝난 과거 시점",
+   "먼저 풀어 보세요",
+   "끝난 과거 시점엔 과거형",
+   "때 표현 찾기 → 시제 짝짓기",
+   "정답 ⑤ → moved",
+   "끝난 과거 시점 → 과거형"
+  ],
+  "sec": [
+   10,
+   14,
+   30,
+   36,
+   24,
+   11
+  ]
+ },
+ "F": {
+  "title": "현재완료와 끝난 과거 시점",
+  "intro": "이 문제는 현재완료와 과거형의 쓰임을 따져 어법상 어색한 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 어색한 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료 = have/has + 과거분사",
+    "과거의 일이 지금과 이어질 때 (경험·완료·계속·결과)",
+    "since, already, just, yet, so far 등과 자주 함께 써요",
+    "끝난 과거 시점 (yesterday, last ~, ~ ago, in 2020) → 현재완료 ✗, 과거형 ○",
+    "예) He has played the piano for five years. (그는 5년 동안 피아노를 쳐 왔어요.)  He played it yesterday. (그는 어제 그것을 쳤어요.)"
+   ],
+   "narration": "현재완료는 have나 has 뒤에 과거분사를 쓰고, 과거의 일이 지금과 이어질 때 써요. since, already, just, yet, so far와 자주 함께 써요. 하지만 yesterday나 two days ago처럼 끝난 과거의 때를 밝히면 현재완료가 아니라 과거형을 써요. He has played the piano for five years. 그는 5년 동안 피아노를 쳐 왔어요. He played it yesterday. 그는 어제 그것을 쳤어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 때를 나타내는 말 찾기 → 동사의 시제와 짝짓기",
+    "highlight": [
+     "so far",
+     "at seven o'clock",
+     "two hours ago",
+     "yet",
+     "since Monday"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 때를 나타내는 말을 찾아 동사의 시제와 짝지어요."
+   },
+   {
+    "note": "①④⑤ so far·yet·since Monday + 현재완료 ○ / ② 정해진 과거의 때(일곱 시) + 과거형 started ○",
+    "highlight": [],
+    "strike": [
+     "① Our team has won three games so far.",
+     "② The movie started at seven o'clock.",
+     "④ Have you finished the book yet?",
+     "⑤ He has been sick since Monday."
+    ],
+    "narration": "둘째, 1번, 4번, 5번은 so far, yet, since Monday와 함께 현재완료를 썼고, 2번은 일곱 시라는 정해진 과거의 때에 과거형 started를 써서 모두 바른 문장이에요."
+   },
+   {
+    "note": "③ two hours ago = 끝난 과거 시점 + has called ✗ → Jiwoo called me two hours ago.",
+    "highlight": [
+     "two hours ago"
+    ],
+    "strike": [
+     "has called"
+    ],
+    "narration": "셋째, 3번은 끝난 과거 시점 two hours ago와 현재완료 has called를 함께 써서 어색하니, 과거형 called로 고쳐요. Jiwoo called me two hours ago. 지우는 두 시간 전에 나에게 전화했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Our team has won three games so far.  ✗  so far + 현재완료: 지금까지의 결과 (바른 문장)",
+    "② The movie started at seven o'clock.  ✗  정해진 과거의 때(일곱 시) + 과거형 started (바른 문장)",
+    "③ Jiwoo has called me two hours ago.  ✓  two hours ago는 끝난 과거 시점 → called로",
+    "④ Have you finished the book yet?  ✗  yet + 현재완료: 끝냈는지 물어요 (바른 문장)",
+    "⑤ He has been sick since Monday.  ✗  since Monday + 현재완료: 계속된 상태 (바른 문장)"
+   ],
+   "narration": "정답은 two hours ago와 현재완료를 함께 쓴 3번이에요. 5번은 Monday가 지난 요일이라 헷갈릴 수 있지만, since Monday는 월요일부터 지금까지를 뜻해서 현재완료와 잘 어울려요. 2번은 일곱 시라는 정해진 때에 이미 일어난 일이라 과거형 started가 맞아요."
+  },
+  "summary": {
+   "card": "끝난 과거 시점(yesterday, last ~, ~ ago, in 2020) → 과거형 (현재완료 ✗)",
+   "narration": "정답은 3번이에요. 기억할 것, two hours ago처럼 끝난 과거 시점을 밝히면 현재완료가 아니라 과거형을 써요."
+  },
+  "captions": [
+   "현재완료와 끝난 과거 시점",
+   "먼저 풀어 보세요",
+   "끝난 과거 시점엔 과거형",
+   "때 표현 찾기 → 시제 짝짓기",
+   "정답 ③ → called",
+   "끝난 과거 시점 → 과거형"
+  ],
+  "sec": [
+   10,
+   14,
+   30,
+   36,
+   24,
+   11
+  ]
+ }
+}

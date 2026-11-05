@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T04:54:33.217Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 비교급·최상급은 규칙 변화와 불규칙 변화(good-better-best 등)를 구별하고 than, the 등 비교 표지를 함께 확인한다.\n풀이 순서: ① 보기의 형용사가 표의 어느 줄인지 찾는다(old·young은 Age, heavy·light는 Weight, tall·short는 Height). → ② 비교급 + than이면 두 수의 크기를, as ~ as이면 두 수가 같은지를 확인한다. → ③ 선택지 ①은 Mina가 더 무겁다고 했는데 Mina는 48kg, Sora는 52kg이다. 정답은 ①.\n문장별 판정:\n정답 판단: 표에서 Mina의 weight 값은 48, Sora는 52이므로 이 비교는 성립하지 않는다. 발문은 표와 일치하지 않는 문장을 묻고 있으며 이 문장은 표의 수치와 일치하지 않으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 표에서 Mina의 weight 값은 48, Sora는 52이므로 이 비교는 성립하지 않는다. 발문은 표와 일치하지 않는 문장을 묻고 있으며 이 문장은 표의 수치와 일치하지 않으므로 정답이다.\n② [오답] 표에서 Sora의 weight 값은 52, Mina는 48이므로 이 비교는 성립한다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다.\n③ [오답] 표에서 Mina의 weight 값은 48, Sora는 52이므로 이 비교는 성립한다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다.\n④ [오답] Mina의 height 값 158과 Sora의 값 158이 같다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다.\n⑤ [오답] Mina의 age 값 14와 Sora의 값 14가 같다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다.",
+    "passage": "Name\tMina\tSora\nAge\t14\t14\nWeight\t48kg\t52kg\nHeight\t158cm\t158cm",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T04:52:34.397Z"
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T04:54:33.217Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:54:33.217Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-09-30T05:15:15.056Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "a, b",
+      "1": null,
+      "2": "a, c, e",
+      "3": "c, d, e",
+      "4": "a, b, c, d"
+    },
+    "expl": "핵심 규칙: 부정사가 명사를 꾸밀 때 뒤에 필요한 전치사를 빠뜨리지 않고, -thing으로 끝나는 말은 형용사가 뒤에서 꾸민다. enough는 형용사 뒤에 오며, 성품 형용사 뒤에는 of + 목적격을 쓴다.\n풀이 순서: ① 밑줄마다 볼 것을 정한다. 명사를 꾸미는 to부정사 뒤에 전치사가 필요한지, -thing과 형용사의 순서가 맞는지, to부정사의 모양이 바른지. → ② a는 talk to의 to가 빠졌고, e는 주어 The bag이 lift의 목적어인데 it을 또 썼다. b(something useful), c(enough for ~ to), d(generous of)는 옳다. → ③ 옳은 것만 모은 b, c, d를 고른다.\n문장별 판정:\na) 틀림: ‘친구와 이야기하다’는 talk to a friend이므로 to talk to로 써야 한다.\nb) 옳음: -thing 뒤에서 형용사 useful이 꾸민다.\nc) 옳음: 형용사 + enough + for 의미상 주어 + to부정사 어순이다.\nd) 옳음: 성품 형용사 generous 뒤에 of + 목적격을 썼다.\ne) 틀림: to lift의 목적어가 문장의 주어 The bag이므로 it을 다시 쓰지 않는다.\n정답 판단: 어법상 옳은 문장은 b, c, d이다.\n선택지 분석:\n① [오답] a는 옳은 문장이 아니고, 옳은 문장 c, d를 빠뜨렸다. 따라서 오답이다.\n② [정답] 옳은 문장 b, c, d를 빠짐없이 골랐으므로 정답이다.\n③ [오답] a, e는 옳은 문장이 아니고, 옳은 문장 b, d를 빠뜨렸다. 따라서 오답이다.\n④ [오답] e는 옳은 문장이 아니고, 옳은 문장 b를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] a는 옳은 문장이 아니다. 따라서 오답이다.",
+    "passage": "a) Jane has a friend <u>to talk</u>.\nb) I found <u>something useful</u> to buy.\nc) The room is <u>large enough for us to use</u>.\nd) It was <u>generous of Mina to donate</u>.\ne) The bag is <u>too heavy for Leo to lift it</u>.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 것을 모두 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-09-30T05:15:13.948Z"
+  },
+  "tab": "zzfs6wak",
+  "updatedAt": "2026-09-30T05:15:15.056Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-09-30T05:15:15.056Z",
+      "what": "확인 완료"
+    }
+  }
+}

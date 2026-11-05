@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T04:10:28.558Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Gina, Ivy, Kate",
+      "1": "Gina, Jake, Liam",
+      "2": "Hank, Ivy, Jake",
+      "3": "Gina, Hank, Liam",
+      "4": "Hank, Jake, Kate"
+    },
+    "expl": "핵심 규칙: either A or B·neither A nor B·not only A but also B는 B에, both A and B는 복수 동사에 맞춘다. 목적어 명사절의 that은 생략할 수 있지만 동격의 that은 생략하지 않는다. so that은 목적, so ~ that은 결과를 나타내고, although·because 뒤에는 절, despite·because of 뒤에는 명사가 온다. too ~ to는 so ~ that … can't로 바꿀 수 있다.\n풀이 순서: ① 학생마다 예문이 옳은지와 설명이 옳은지를 따로 본다. → ② 기준: 상관접속사는 B에 수 일치(both A and B는 복수), 목적어절 that은 생략 가능, despite·because of 뒤는 명사, although·because 뒤는 절, so that은 목적이다. → ③ Hank는 said 뒤에 that을 반드시 써야 한다고 했고, Jake는 because of 뒤에 절이 와도 된다고 했으며, Liam은 not only A but also B가 A에 수 일치한다고 했다. 셋 다 틀렸다. 옳게 설명한 학생만 모으면 Gina, Ivy, Kate이다.\n문장별 판정:\nGina 옳음: B(his parents)에 맞춰 are를 썼다.\nHank 틀림: said 뒤 목적어 명사절의 that은 생략할 수 있어 옳은 문장이다.\nIvy 옳음: as + 명사는 ‘~로서’라는 전치사이다.\nJake 틀림: because of 뒤에는 명사가 오므로 Because it rained로 써야 한다.\nKate 옳음: too ~ for 목적격 to부정사는 so ~ that + 주어 + can't로 바꿀 수 있다.\nLiam 틀림: not only A but also B는 B(friends)에 맞춰 are를 쓴다.\n정답 판단: 올바르게 설명한 학생은 Gina, Ivy, Kate이다.\n선택지 분석:\n① [정답] 올바르게 설명한 학생 Gina, Ivy, Kate를 빠짐없이 골랐으므로 정답이다.\n② [오답] Jake, Liam는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Ivy, Kate를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Hank, Jake는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Gina, Kate를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Hank, Liam는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Ivy, Kate를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] Hank, Jake는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Gina, Ivy를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "Gina: Neither Tom nor his parents are home. B(parents)에 수일치해서 맞는 문장이야.\nHank: She said she was tired. said 뒤에는 접속사 that을 반드시 써야 하므로 틀린 문장이야.\nIvy: He works as a waiter. 여기서 as는 '~로서'라는 뜻의 전치사야.\nJake: Because of it rained, the game was canceled. because of 뒤에 절이 와도 돼.\nKate: The soup is too hot for me to eat. 는 The soup is so hot that I can't eat it.으로 바꿀 수 있어.\nLiam: Not only Mina but also her friends is coming. not only A but also B는 A에 수일치하므로 맞아.",
+    "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:09:54.107Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T04:10:28.558Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:10:28.558Z",
+      "what": "확인 완료"
+    }
+  }
+}

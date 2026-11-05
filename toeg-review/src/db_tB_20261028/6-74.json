@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:00:13.005Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": null,
+      "1": "Yes, I have.",
+      "2": "No, I don't.",
+      "3": "No, I don't have.",
+      "4": "Yes, I must to."
+    },
+    "expl": "핵심 규칙: Do/Does ~ have to …? 질문에는 Yes, 주어 + do/does. / No, 주어 + don't/doesn't.로 짧게 답한다. has나 must to, be동사로 답하지 않는다.\n풀이 순서: ① 질문의 첫 낱말을 본다: Do. 대답도 같은 조동사로 한다. → ② 대답의 주어는 you → I. → ③ 정답은 No, I don't.\n문장별 판정:\n정답 판단: Do you 질문에 I don't로 바르게 답했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] have to 질문에는 be동사로 답하지 않으므로 오답이다.\n② [오답] Do 질문에는 have가 아니라 do로 답하므로 오답이다.\n③ [정답] Do you 질문에 I don't로 바르게 답했으므로 정답이다.\n④ [오답] don't have로 끝내면 뜻이 달라지고 짧은 대답은 I don't로 하므로 오답이다.\n⑤ [오답] must 뒤에는 to를 쓰지 않고 Do 질문에는 do로 답하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 질문에 대한 대답으로 어법상 가장 알맞은 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T07:00:12.343Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T07:00:13.005Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:00:13.005Z",
+      "what": "확인 완료"
+    }
+  }
+}

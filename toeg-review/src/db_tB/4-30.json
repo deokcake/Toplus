@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-06T07:26:37.521Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 앞의 두 주어는 3인칭 단수이므로 -s/-es형, 셋째 주어는 복수이므로 원형을 쓴다. study는 studies, go는 goes로 바뀐다.\n풀이 순서: ① 빈칸마다 주어를 찾는다: (A) My dog 단수, (B) It 단수, (C) The cats 복수. → ② 단수 주어에는 -(e)s를 붙이고(have → has, y → ies), 복수 주어에는 동사원형을 쓴다. → ③ 정답은 sleeps - eats - run.\n문장별 판정:\n정답 판단: (A) My dog는 3인칭 단수이므로 sleeps가 필요하다. sleeps가 맞다. (B) It은 3인칭 단수이므로 eats가 필요하다. eats가 맞다. (C) The cats는 복수이므로 run이 필요하다. run이 맞다. 따라서 정답은 ⑤이다.\n선택지 분석:\n① [오답] (A) My dog는 3인칭 단수이므로 sleeps가 필요하다. sleeps가 맞다. (B) It은 3인칭 단수이므로 eats가 필요하다. eats가 맞다. (C) The cats는 복수이므로 run이 필요하다. runs를 run으로 고친다.\n② [오답] (A) My dog는 3인칭 단수이므로 sleeps가 필요하다. sleeps가 맞다. (B) It은 3인칭 단수이므로 eats가 필요하다. eat을 eats로 고친다. (C) The cats는 복수이므로 run이 필요하다. runs를 run으로 고친다.\n③ [오답] (A) My dog는 3인칭 단수이므로 sleeps가 필요하다. sleep을 sleeps로 고친다. (B) It은 3인칭 단수이므로 eats가 필요하다. eats가 맞다. (C) The cats는 복수이므로 run이 필요하다. run이 맞다.\n④ [오답] (A) My dog는 3인칭 단수이므로 sleeps가 필요하다. sleep을 sleeps로 고친다. (B) It은 3인칭 단수이므로 eats가 필요하다. eat을 eats로 고친다. (C) The cats는 복수이므로 run이 필요하다. run이 맞다.\n⑤ [정답] (A) My dog는 3인칭 단수이므로 sleeps가 필요하다. sleeps가 맞다. (B) It은 3인칭 단수이므로 eats가 필요하다. eats가 맞다. (C) The cats는 복수이므로 run이 필요하다. run이 맞다.",
+    "passage": null,
+    "stem": "다음 글의 흐름상 빈칸 (A), (B), (C)에 들어갈 동사의 형태가 순서대로 바르게 연결된 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T07:26:20.268Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T07:26:36.252Z",
+      "text": "기준 문항 줄바꿈이 어색함. 수정 필요\n변형 문항은 통과"
+    }
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-06T07:26:37.521Z",
+  "verdict": "수정(내용)",
+  "verdictAt": "2026-10-06T07:24:20.705Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T07:26:37.521Z",
+      "what": "확인 완료"
+    }
+  }
+}

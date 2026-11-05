@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T18:23:40.169Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "'a little'은 비교급 앞에서 ‘조금 더’라는 뜻을 나타낸다.",
+      "1": "'difficult'는 긴 단어라 '-er' 대신 앞에 'more'를 쓴다.",
+      "2": "'a little' 대신 'very'를 써서 ‘매우 더 어렵다’는 뜻을 나타낼 수 있다.",
+      "3": "'the last one'의 'one'은 앞의 'question'을 대신한다.",
+      "4": "'more difficult'를 'difficulter'로 쓸 수 없다."
+    },
+    "expl": "핵심 규칙: 비교급은 much·even·far·still·a lot·a little로 강조하거나 정도를 나타내고, very·so로는 비교급을 꾸미지 않는다. 짧은 단어는 -er, 긴 단어는 more를 붙이며 둘을 겹쳐 쓰지 않는다.\n풀이 순서: ① 밑줄 부분을 나눈다: a little + 비교급 more difficult + than. → ② 보기마다 강조어·비교급 형태·than의 설명이 맞는지 본다. 비교급을 강조하는 말은 much, even, far, a lot이고 very는 안 된다. → ③ 선택지 ③은 a little 대신 very를 써도 된다고 해서 틀렸다. 정답은 ③.\n문장별 판정:\n정답 판단: very는 비교급을 꾸미지 않으므로 옳지 않은 설명이다.\n선택지 분석:\n① [오답] a little은 비교급 앞에서 정도를 나타내므로 옳은 설명이다. 따라서 오답이다.\n② [오답] 긴 단어는 more를 앞에 쓰므로 옳은 설명이다. 따라서 오답이다.\n③ [정답] very는 비교급을 꾸미지 않으므로 옳지 않은 설명이다. 따라서 정답이다.\n④ [오답] one은 앞에 나온 명사를 대신하므로 옳은 설명이다. 따라서 오답이다.\n⑤ [오답] 긴 단어 difficult에는 -er을 붙이지 않으므로 옳은 설명이다. 따라서 오답이다.",
+    "passage": "This question is <u>a little more difficult than</u> the last one.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:23:07.766Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:23:40.169Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:12:35.800Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "You aren't alone.",
+      "1": "They don't live here.",
+      "2": "Jane isn't a nurse.",
+      "3": "The kids aren't at school.",
+      "4": "Tom doesn't eats meat."
+    },
+    "expl": "핵심 규칙: be동사 부정은 am not, isn't, aren't로, 일반동사 현재 부정은 3인칭 단수 주어에 doesn't + 동사원형, 그 밖에는 don't + 동사원형으로 쓴다.\n풀이 순서: ① be동사 부정문은 주어와 be동사가 맞는지 본다. → ② 일반동사 부정문은 don't/doesn't가 주어와 맞는지, 뒤가 동사원형인지 본다. → ③ 선택지 ⑤는 doesn't 뒤에 eats를 썼다. eat으로 고친다. 정답은 ⑤.\n문장별 판정:\n정답 판단: doesn't 뒤에는 동사원형 eat을 써야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.\n② [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.\n③ [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.\n④ [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.\n⑤ [정답] doesn't 뒤에는 동사원형 eat을 써야 하므로 정답이다.",
+    "passage": "",
+    "stem": "다음 중 틀린 문장을 고르시오."
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T09:20:22.776Z",
+      "text": "기준문항과 같은 개념을 묻는 보기가 정답이 되게 바꿔"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:12:35.800Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T04:12:27.089Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T09:20:38.023Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:12:35.800Z",
+      "what": "확인 완료"
+    }
+  }
+}

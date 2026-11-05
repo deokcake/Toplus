@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T02:43:32.198Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "easy",
+      "1": "easyly",
+      "2": "easiness",
+      "3": "easilly",
+      "4": "easily"
+    },
+    "expl": "핵심 규칙: 형용사에 -ly를 붙여 부사를 만든다. 자음 + y로 끝나면 y를 i로 바꾸고 -ly를 붙이며(happy → happily, easy → easily), -ful로 끝나면 -ly만 붙인다(careful → carefully).\n풀이 순서: ① ‘쉽게’는 동사를 꾸미므로 부사가 필요하다. 형용사와 명사를 지운다. → ② 형용사 easy에 -ly를 붙인다. 자음 + y로 끝나므로 y를 i로 바꾼다. → ③ 정답은 easily.\n문장별 판정:\n정답 판단: y를 i로 바꾸고 -ly를 붙인 부사 easily를 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 형용사 easy로는 동사 solved를 꾸밀 수 없으므로 오답이다.\n② [오답] 자음 + y로 끝나는 형용사(easy)는 y를 i로 바꾸고 -ly를 붙여 부사(easily)가 되므로 오답이다.\n③ [오답] ‘쉬움’이라는 명사라 동사를 꾸밀 수 없으므로 오답이다.\n④ [오답] -ly에 l을 한 번만 써서 easily가 되므로 오답이다.\n⑤ [정답] y를 i로 바꾸고 -ly를 붙인 부사 easily를 바르게 썼으므로 정답이다.",
+    "passage": "그는 그 문제를 쉽게 풀었다.\n→ He solved the problem ________.",
+    "stem": "우리말 뜻에 맞게 빈칸에 들어갈 단어의 철자가 올바른 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:43:30.182Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-22T02:43:32.198Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:43:32.198Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:15:50.190Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "How _____ pencils do you need?",
+      "1": "How _____ eggs are in the basket?",
+      "2": "How _____ juice did you drink?",
+      "3": "How _____ friends came to the party?",
+      "4": "How _____ pages did you read?"
+    },
+    "expl": "핵심 규칙: How many + 셀 수 있는 명사의 복수형은 개수를, How much + 셀 수 없는 명사는 양을 묻는다. bread, salt, information, furniture, advice, paper, snow, luggage 등은 셀 수 없는 명사이다.\n풀이 순서: ① 빈칸 뒤 명사가 셀 수 있는지 본다. 셀 수 있는 복수 명사 앞은 How many, 셀 수 없는 명사 앞은 How much다. → ② 명사 끝의 복수형 -s가 단서다. juice만 셀 수 없어 much이고, pencils, eggs, friends, pages는 복수 명사라 many다. → ③ 나머지와 다른 것은 ③이다.\n문장별 판정:\n정답 판단: juice: 셀 수 없는 명사라 much가 들어가고, 나머지(many)와 달라 정답은 ③이다.\n선택지 분석:\n① [오답] pencils: 셀 수 있는 명사의 복수형이라 many가 들어가므로 오답이다.\n② [오답] eggs: 셀 수 있는 명사의 복수형이라 many가 들어가므로 오답이다.\n③ [정답] juice: 셀 수 없는 명사라 much가 들어가고, 나머지(many)와 달라 정답이다.\n④ [오답] friends: 셀 수 있는 명사의 복수형이라 many가 들어가므로 오답이다.\n⑤ [오답] pages: 셀 수 있는 명사의 복수형이라 many가 들어가므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T08:15:49.838Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T08:15:50.190Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T08:15:50.190Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T09:40:19.836Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "The ball is in the box.",
+      "1": "The ball is on the box.",
+      "2": "The ball is behind the box.",
+      "3": "The ball is next to the box.",
+      "4": "The ball is under the box."
+    },
+    "expl": "핵심 규칙: 위치를 나타내는 전치사는 in(~ 안에), on(~ 위에), under(~ 아래에), behind(~ 뒤에), in front of(~ 앞에), next to(~ 옆에), between(~ 사이에)이다.\n풀이 순서: ① 우리말에서 위치를 나타내는 말을 찾는다: ‘뒤에’. → ② 그 뜻의 전치사는 behind. → ③ 문장은 전치사만 다르므로 전치사만 견준다. 정답은 ③.\n문장별 판정:\n정답 판단: behind는 ‘~ 뒤에’라는 뜻이라 ‘상자 뒤에’가 되므로 정답은 ③이다.\n선택지 분석:\n① [오답] in은 ‘~ 안에’라는 뜻이므로 오답이다.\n② [오답] on은 ‘~ 위에’라는 뜻이므로 오답이다.\n③ [정답] behind는 ‘~ 뒤에’라는 뜻이라 ‘상자 뒤에’가 되므로 정답이다.\n④ [오답] next to는 ‘~ 옆에’라는 뜻이므로 오답이다.\n⑤ [오답] under는 ‘~ 아래에’라는 뜻이므로 오답이다.",
+    "passage": "공이 상자 뒤에 있다.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T09:40:18.584Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T09:40:19.836Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T09:40:19.836Z",
+      "what": "확인 완료"
+    }
+  }
+}

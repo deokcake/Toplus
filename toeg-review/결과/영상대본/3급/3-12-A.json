@@ -1,0 +1,180 @@
+{
+ "key": "3-12",
+ "type": "A",
+ "grade": 3,
+ "chapter": "CH 2 일반동사",
+ "title": "He plays 문장의 의문문",
+ "total_sec": 132,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "3급 · CH 2 일반동사 · 12번\n\n이 문제는 일반동사 plays가 쓰인 문장을 바른 현재 의문문으로 바꾼 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 2 일반동사 · 12번",
+     "이 문제는 일반동사 plays가 쓰인 문장을 바른 현재 의문문으로 바꾼 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 2, 12번. 이 문제는 일반동사 plays가 쓰인 문장을 바른 현재 의문문으로 바꾼 것을 고르는 문제예요.",
+   "caption": "He plays 문장의 의문문"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 19,
+   "screen": {
+    "text": "다음 문장을 현재 의문문으로 올바르게 바꾼 것을 고르시오.\n\nHe plays soccer.\n\n① Does he plays soccer?\n② Do he play soccer?\n③ Does he play soccer?\n④ Is he play soccer?\n⑤ Does he playing soccer?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장을 현재 의문문으로 올바르게 바꾼 것을 고르시오.",
+     "He plays soccer.",
+     "① Does he plays soccer?",
+     "② Do he play soccer?",
+     "③ Does he play soccer?",
+     "④ Is he play soccer?",
+     "⑤ Does he playing soccer?"
+    ]
+   },
+   "narration": "다음 문장을 현재 의문문으로 올바르게 바꾼 것을 고르세요. He plays soccer. 그는 축구를 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\n일반동사 현재형 문장의 의문문(예, 아니요로 답하는 것) → be동사가 아니라 Do/Does로 시작\nDo/Does + 주어 + 동사원형 ~? (~하니?)\n3인칭 단수 주어(he, she, it, 단수 명사) → Does\nI, you, we, they, 복수 주어 → Do\n예) She reads books. → Does she read books? (그녀는 책을 읽니?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "일반동사 현재형 문장의 의문문(예, 아니요로 답하는 것) → be동사가 아니라 Do/Does로 시작",
+     "Do/Does + 주어 + 동사원형 ~? (~하니?)",
+     "3인칭 단수 주어(he, she, it, 단수 명사) → Does",
+     "I, you, we, they, 복수 주어 → Do",
+     "예) She reads books. → Does she read books? (그녀는 책을 읽니?)"
+    ]
+   },
+   "narration": "일반동사 현재형 문장을 예, 아니요로 답하는 의문문으로 바꿀 때는 be동사가 아니라 Do나 Does를 주어 앞에 쓰고, 뒤의 동사는 동사원형으로 써요. 주어가 he, she, it 같은 3인칭 단수이면 Does, I, you, we, they나 복수이면 Do를 써요. 예를 들어 She reads books, 그녀는 책을 읽어요. 의문문은 Does she read books? 그녀는 책을 읽니?",
+   "caption": "Do/Does + 주어 + 동사원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 문장을 현재 의문문으로 올바르게 바꾼 것을 고르시오.\n\nHe plays soccer.\n\n① Does he plays soccer?\n② Do he play soccer?\n③ Does he play soccer?\n④ Is he play soccer?\n⑤ Does he playing soccer?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "He plays soccer."
+      ],
+      "strike": [
+       "④ Is he play soccer?"
+      ],
+      "note": "동사 plays는 일반동사 → be동사로 묻지 않는다. Is로 시작한 ④ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "He"
+      ],
+      "strike": [
+       "② Do he play soccer?"
+      ],
+      "note": "주어 He는 3인칭 단수 → Does. Do로 시작한 ② 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ Does he play soccer?"
+      ],
+      "strike": [
+       "① Does he plays soccer?",
+       "⑤ Does he playing soccer?"
+      ],
+      "note": "Does 뒤는 동사원형 play → plays를 쓴 ①, playing을 쓴 ⑤ 지움 → ③"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 이 문장의 동사 plays는 일반동사라서 be동사로 묻지 않으니, Is로 시작한 4번을 지워요. 둘째, 주어 He는 3인칭 단수라 Does를 쓰니, Do로 시작한 2번을 지워요. 셋째, Does 뒤에는 동사원형 play를 쓰니, s형 plays를 쓴 1번과 ing형 playing을 쓴 5번을 지우면 3번이 남아요. Does he play soccer? 그는 축구를 하니?",
+   "caption": "일반동사 → Does → 원형 play"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① Does he plays soccer?  ✗  Does 뒤에 s형 plays를 썼어요 (원형 play)\n② Do he play soccer?  ✗  3인칭 단수 He에는 Do가 아니라 Does\n③ Does he play soccer?  ✓  Does + 주어 + 동사원형 play\n④ Is he play soccer?  ✗  plays는 일반동사라 be동사 Is로 묻지 않아요\n⑤ Does he playing soccer?  ✗  Does 뒤에 ing형 playing은 쓸 수 없어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Does he plays soccer?  ✗  Does 뒤에 s형 plays를 썼어요 (원형 play)",
+     "② Do he play soccer?  ✗  3인칭 단수 He에는 Do가 아니라 Does",
+     "③ Does he play soccer?  ✓  Does + 주어 + 동사원형 play",
+     "④ Is he play soccer?  ✗  plays는 일반동사라 be동사 Is로 묻지 않아요",
+     "⑤ Does he playing soccer?  ✗  Does 뒤에 ing형 playing은 쓸 수 없어요"
+    ]
+   },
+   "narration": "정답은 3번이에요. 1번을 고르기 쉬운데, 3인칭 단수라는 표시는 Does가 맡으니 뒤의 동사는 plays가 아니라 원형 play로 써요. 2번은 주어 he가 3인칭 단수인데 Do를 써서 틀렸어요. 4번은 plays가 일반동사인데 be동사 Is로 물어서 틀렸어요.",
+   "caption": "정답 ③ Does he play"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ③ Does he play soccer?\n\n일반동사 현재 의문문: Do/Does + 주어 + 동사원형 ~?  (3인칭 단수 주어 → Does)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ Does he play soccer?",
+     "일반동사 현재 의문문: Do/Does + 주어 + 동사원형 ~?  (3인칭 단수 주어 → Does)"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 일반동사 현재 의문문은 Do나 Does 뒤에 동사원형을 쓰고, 3인칭 단수 주어에는 Does를 써요.",
+   "caption": "3인칭 단수 → Does + 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장을 현재 의문문으로 올바르게 바꾼 것을 고르시오.",
+  "passage": "He plays soccer.",
+  "c": [
+   "Does he plays soccer?",
+   "Do he play soccer?",
+   "Does he play soccer?",
+   "Is he play soccer?",
+   "Does he playing soccer?"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 일반동사의 현재 의문문은 ‘Do/Does + 주어 + 동사원형 ~?’이다. 3인칭 단수 주어에는 Does를 쓰고 본동사에는 -s를 붙이지 않는다.\n풀이 순서: ① 주어(he)에 맞는 조동사를 고른다. 3인칭 단수이므로 Does다. → ② Do/Does 뒤 본동사는 원형(play)으로 쓴다. → ③ 동사에 -s가 남은 것, -ing를 쓴 것, be동사로 시작한 것은 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: Does + 주어 + 동사원형으로 바르게 바꿨으므로 정답은 ③이다.\n선택지 분석:\n① [오답] Does 뒤에는 동사원형 play를 써야 하므로 오답이다.\n② [오답] 3인칭 단수 주어 he에는 Does를 써야 하므로 오답이다.\n③ [정답] Does + 주어 + 동사원형으로 바르게 바꿨으므로 정답이다.\n④ [오답] 일반동사 의문문에 be동사를 쓰지 않으므로 오답이다.\n⑤ [오답] Does 뒤에 -ing를 쓸 수 없으므로 오답이다."
+ }
+}

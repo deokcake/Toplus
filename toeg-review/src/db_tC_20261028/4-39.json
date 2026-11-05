@@ -1,0 +1,35 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:15:08.558Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "Mina cannot but cry at sad movies.",
+      "1": "Mina doesn't have to cry at sad movies.",
+      "2": "Mina never cries at sad movies.",
+      "3": "Mina shouldn't cry at sad movies.",
+      "4": "Mina can help you cry at sad movies."
+    },
+    "expl": "핵심 규칙: cannot help + 동명사는 ‘~하지 않을 수 없다’라는 뜻이며 cannot but + 동사원형과 같은 뜻이다. don't need to(~할 필요가 없다), shouldn't(~하면 안 된다), not ~ at all(전혀 ~않다)과 구별한다.\n풀이 순서: ① 제시문의 뜻을 푼다: cannot help -ing는 ‘~하지 않을 수 없다’. 슬픈 영화를 보면 울지 않을 수 없다는 뜻이다. → ② 같은 뜻의 표현은 cannot but + 동사원형이다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: cannot but + 동사원형으로 ‘~하지 않을 수 없다’는 같은 뜻을 나타내므로 정답은 ①이다.\n선택지 분석:\n① [정답] cannot but + 동사원형으로 ‘~하지 않을 수 없다’는 같은 뜻을 나타내므로 정답이다.\n② [오답] ‘울 필요가 없다’는 뜻이라 다르므로 오답이다.\n③ [오답] ‘결코 울지 않는다’는 뜻이라 반대이므로 오답이다.\n④ [오답] ‘울면 안 된다’는 뜻이라 다르므로 오답이다.\n⑤ [오답] ‘네가 우는 것을 도울 수 있다’는 뜻이라 다르므로 오답이다.",
+    "passage": "Mina cannot help crying at sad movies.",
+    "stem": "다음 문장과 의미가 같은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T06:05:54.604Z"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T06:05:54.604Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:15:08.558Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T06:05:54.604Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

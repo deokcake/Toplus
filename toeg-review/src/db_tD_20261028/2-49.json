@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T16:37:59.920Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "(A) ourselves - (B) myself",
+      "1": "(A) themselves - (B) myself",
+      "2": null,
+      "3": "(A) myself - (B) themselves",
+      "4": "(A) himself - (B) yourself"
+    },
+    "expl": "핵심 규칙: 재귀대명사는 주어와 같은 대상을 가리키며 주어의 인칭·수에 맞춘다. by oneself는 ‘혼자서, 스스로’라는 뜻이다.\n풀이 순서: ① 재귀대명사는 그 문장의 주어와 같은 대상을 가리킨다. 두 문장의 주어를 찾는다. → ② (A)의 주어(People)는 3인칭 복수이므로 themselves다. (B)의 주어(I)에 맞는 것은 myself다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: (A)는 복수 주어(People)와 같은 사람들을 가리키므로 themselves이다. (B)는 주어 I와 같은 사람이므로 myself이다.\n선택지 분석:\n① [오답] (A) ourselves: 1인칭 복수라 3인칭 주어와 맞지 않는다. 따라서 오답이다.\n② [정답] (A)는 복수 주어(People)와 같은 사람들을 가리키므로 themselves이다. (B)는 주어 I와 같은 사람이므로 myself이다. 두 자리가 모두 알맞으므로 정답이다.\n③ [오답] (B) ourselves: 1인칭 복수라 주어(I)와 맞지 않는다. 따라서 오답이다.\n④ [오답] (A) myself: 1인칭이라 3인칭 주어와 맞지 않는다. (B) themselves: 3인칭 복수라 주어(I)와 맞지 않는다. 따라서 오답이다.\n⑤ [오답] (A) himself: 한 사람을 가리키는 말이라 복수 주어와 맞지 않는다. (B) yourself: 2인칭이라 주어(I)와 맞지 않는다. 따라서 오답이다.",
+    "passage": "People should not blame (<u>     A     </u>) for every small mistake.\nI completed the entire project by (<u>     B     </u>).",
+    "stem": "다음 문장의 빈칸 (A), (B)에 들어갈 재귀대명사가 바르게 연결된 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T16:37:15.595Z"
+  },
+  "tab": "8s1sfi09",
+  "updatedAt": "2026-10-23T16:37:59.920Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:37:59.920Z",
+      "what": "확인 완료"
+    }
+  }
+}

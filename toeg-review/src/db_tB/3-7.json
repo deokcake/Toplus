@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:40:09.694Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Was the kids hungry after class?",
+      "1": "Did the kids were hungry after class?",
+      "2": "Were the kids hungry after class?",
+      "3": "Are the kids hungry after class?",
+      "4": "Were the kids were hungry after class?"
+    },
+    "expl": "핵심 규칙: be동사 문장의 의문문은 be동사를 주어 앞으로 보내고 나머지는 그대로 둔다. 주어의 인칭·수와 시제에 맞는 be동사를 쓰고, do/did를 쓰거나 be동사를 두 번 쓰지 않는다.\n풀이 순서: ① 문장의 동사가 be동사(were)다. be동사 의문문은 do/does/did 없이 be동사를 주어 앞으로 옮긴다. → ② 시제와 주어(The kids)에 맞는 형태는 그대로 둔다. → ③ ‘Were the kids’로 시작하고 be동사가 한 번만 나오는 ③을 고른다.\n문장별 판정:\n정답 판단: be동사를 주어 앞으로 보내고 시제·수를 그대로 둔 바른 의문문이므로 정답은 ③이다.\n선택지 분석:\n① [오답] 복수 주어(the kids)의 과거는 Were이므로 오답이다.\n② [오답] be동사 문장에는 did를 쓰지 않으므로 오답이다.\n③ [정답] be동사를 주어 앞으로 보내고 시제·수를 그대로 둔 바른 의문문이므로 정답이다.\n④ [오답] 과거(were)를 현재로 바꿔 시제가 맞지 않으므로 오답이다.\n⑤ [오답] be동사를 두 번 썼으므로 오답이다.",
+    "passage": "The kids were hungry after class.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T07:40:08.082Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T07:40:09.694Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T07:40:09.694Z",
+      "what": "확인 완료"
+    }
+  }
+}

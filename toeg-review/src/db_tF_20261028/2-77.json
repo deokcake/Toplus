@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T11:41:02.576Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Been tired, he went to bed immediately.",
+      "1": "Being tiring, he went to bed immediately.",
+      "2": "Though being tired, he went to bed immediately.",
+      "3": null,
+      "4": "Having tired, he went to bed immediately."
+    },
+    "expl": "핵심 규칙: 부사절의 주어가 주절과 같으면 접속사와 주어를 생략하고 동사를 분사로 바꾼다. 부정어(not)는 분사 앞에 두고, 수동이면 과거분사, 주절보다 앞선 일이면 Having + 과거분사를 쓰며, 접속사의 뜻(이유·양보)을 바꾸지 않는다.\n풀이 순서: ① 부사절에서 접속사(Because)와 주절과 같은 주어를 지운다. → ② 남은 동사를 분사로 바꾼다. was tired → Being tired → ③ 정답은 ④. 뜻을 바꾸는 접속사나 not을 덧붙인 것, 능동·수동이 틀린 것은 지운다.\n문장별 판정:\n정답 판단: 주어가 같아 접속사와 주어를 생략하고 동사를 분사로 바꾼 알맞은 분사구문이다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] Been: 분사구문은 Being(또는 Having been)으로 시작하며 Been만으로는 쓸 수 없으므로 오답이다.\n② [오답] tiring: 그가 피곤함을 느끼는 상태이고, tired를 써야 하므로 오답이다.\n③ [오답] Though: 양보의 뜻이 되어 원래의 이유(Because)와 뜻이 달라지므로 오답이다.\n④ [정답] 주어가 같아 접속사와 주어를 생략하고 동사를 분사로 바꾼 알맞은 분사구문이다. 따라서 정답이다.\n⑤ [오답] Having tired: ‘누군가를 피곤하게 했다’는 능동의 완료형이 되어 맞지 않으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T11:39:33.824Z"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T11:41:02.576Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T11:41:02.576Z",
+      "what": "확인 완료"
+    }
+  }
+}

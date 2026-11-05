@@ -1,0 +1,175 @@
+{
+ "key": "6-38",
+ "type": "D",
+ "grade": 6,
+ "chapter": "CH 4 일반동사",
+ "title": "일반동사 현재형 의문문 Do, Does",
+ "total_sec": 131,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "6급 · CH 4 일반동사 · 38번 · D 유형\n\n이 문제는 일반동사 현재형 의문문을 바르게 쓴 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 4 일반동사 · 38번 · D 유형",
+     "이 문제는 일반동사 현재형 의문문을 바르게 쓴 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 4, 38번 D 유형. 이 문제는 일반동사 현재형 의문문을 바르게 쓴 문장을 고르는 문제예요.",
+   "caption": "Do, Does 의문문 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장을 고르시오.\n\n① Does the bird sings?\n② Do he wear glasses?\n③ Is your dad cook dinner?\n④ Does they walk to school?\n⑤ Do we need help?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 어법상 옳은 문장을 고르시오.",
+     "① Does the bird sings?",
+     "② Do he wear glasses?",
+     "③ Is your dad cook dinner?",
+     "④ Does they walk to school?",
+     "⑤ Do we need help?"
+    ]
+   },
+   "narration": "다음 중 어법상 옳은 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n일반동사 현재형 의문문 → Do, Does + 주어 + 동사원형 ~?\nhe, she, it 같은 3인칭 단수 주어 → Does  ·  I, you, we, they, 복수 → Do\n주어 다음 동사는 Does일 때도 동사원형 (swims → swim)\n일반동사 현재형 문장은 be동사(Is, Are)로 묻지 않아요\n예) Does Mina swim? (미나는 수영을 하니?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "일반동사 현재형 의문문 → Do, Does + 주어 + 동사원형 ~?",
+     "he, she, it 같은 3인칭 단수 주어 → Does  ·  I, you, we, they, 복수 → Do",
+     "주어 다음 동사는 Does일 때도 동사원형 (swims → swim)",
+     "일반동사 현재형 문장은 be동사(Is, Are)로 묻지 않아요",
+     "예) Does Mina swim? (미나는 수영을 하니?)"
+    ]
+   },
+   "narration": "일반동사 현재형 문장을 물을 때는 be동사 Is나 Are가 아니라 Do나 Does를 주어 앞에 써요. he, she, it 같은 3인칭 단수 주어에는 Does를, I, you, we, they나 복수 주어에는 Do를 써요. 주어 다음 동사는 Does일 때도 동사원형이에요. 예를 들어 Does Mina swim? 미나는 수영을 하니?",
+   "caption": "Do, Does + 주어 + 동사원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장을 고르시오.\n\n① Does the bird sings?\n② Do he wear glasses?\n③ Is your dad cook dinner?\n④ Does they walk to school?\n⑤ Do we need help?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [],
+      "strike": [
+       "③ Is your dad cook dinner?"
+      ],
+      "note": "일반동사 cook 문장은 be동사로 묻지 않음 → Is로 시작한 ③ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "② Do he wear glasses?",
+       "④ Does they walk to school?"
+      ],
+      "note": "Do, Does가 주어와 맞나? he → Does, they → Do. ②, ④ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ Do we need help?"
+      ],
+      "strike": [
+       "① Does the bird sings?"
+      ],
+      "note": "Does 뒤 sings는 원형 아님 → ① 지움 → ⑤"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 일반동사 현재형 문장은 be동사로 묻지 않으니까, 일반동사 cook이 있는데 Is로 시작한 3번을 지워요. 둘째, Do와 Does가 주어와 맞는지 봐요. 3인칭 단수 he에 Do를 쓴 2번과, 복수 주어 they에 Does를 쓴 4번을 지워요. 셋째, 1번은 Does 뒤에 동사원형 sing이 아니라 sings를 써서 지우면, 5번이 남아요. Do we need help? 우리는 도움이 필요하니?",
+   "caption": "be동사 → 주어 → 동사원형"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① Does the bird sings?  ✗  Does 뒤에는 동사원형 sing\n② Do he wear glasses?  ✗  3인칭 단수 he에는 Does\n③ Is your dad cook dinner?  ✗  일반동사 cook 문장은 Is가 아니라 Does로 물어요\n④ Does they walk to school?  ✗  복수 주어 they에는 Do\n⑤ Do we need help?  ✓  Do + we + 동사원형 need",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① Does the bird sings?  ✗  Does 뒤에는 동사원형 sing",
+     "② Do he wear glasses?  ✗  3인칭 단수 he에는 Does",
+     "③ Is your dad cook dinner?  ✗  일반동사 cook 문장은 Is가 아니라 Does로 물어요",
+     "④ Does they walk to school?  ✗  복수 주어 they에는 Do",
+     "⑤ Do we need help?  ✓  Do + we + 동사원형 need"
+    ]
+   },
+   "narration": "정답은 주어 we에 Do와 동사원형 need를 쓴 5번이에요. 1번은 the bird에 Does는 맞게 썼지만, 동사원형 sing이 아니라 sings를 썼어요. 4번은 복수 주어 they에 Do가 아니라 Does를 썼어요. 3번은 일반동사 cook이 있는 문장인데 Does가 아니라 be동사 Is로 물었어요.",
+   "caption": "정답 ⑤ Do we need help?"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ⑤ Do we need help?\n\nDo, Does + 주어 + 동사원형 ~?  (3인칭 단수 주어 → Does)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ Do we need help?",
+     "Do, Does + 주어 + 동사원형 ~?  (3인칭 단수 주어 → Does)"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, Do나 Does 다음에는 주어와 동사원형을 쓰고, 3인칭 단수 주어에는 Does를 써요.",
+   "caption": "3인칭 단수 → Does + 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 어법상 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Does the bird sings?",
+   "Do he wear glasses?",
+   "Is your dad cook dinner?",
+   "Does they walk to school?",
+   "Do we need help?"
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 일반동사 현재형은 3인칭 단수 주어에 -s/-es를 붙이고, 그 밖의 주어에는 동사원형을 쓴다. 의문문은 Do/Does + 주어 + 동사원형 ~?, 부정문은 don't/doesn't + 동사원형으로 쓴다.\n풀이 순서: ① 맨 앞의 Do/Does가 주어와 맞는지 본다(3인칭 단수 → Does). → ② 뒤의 동사가 원형인지 본다. Is/Are로 시작한 문장은 일반동사 의문문이 될 수 없다. → ③ 선택지 ⑤만 Do + we + need로 두 가지가 모두 맞는다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 주어 we에 Do + 동사원형 need를 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] Does 뒤에는 동사원형 sing을 써야 하므로 오답이다.\n② [오답] 3인칭 단수 주어 he에는 Does를 써야 하므로 오답이다.\n③ [오답] 일반동사 cook의 의문문에는 be동사 Is가 아니라 Does를 써야 하므로 오답이다.\n④ [오답] 복수 주어 they에는 Do를 써야 하므로 오답이다.\n⑤ [정답] 주어 we에 Do + 동사원형 need를 바르게 썼으므로 정답이다."
+ }
+}

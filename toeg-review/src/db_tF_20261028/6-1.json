@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:02:41.668Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": "goose - geese",
+      "4": null
+    },
+    "expl": "핵심 규칙: 복수형은 대부분 -s를 붙이고, s·x·sh·ch로 끝나면 -es, 자음 + y는 y를 i로 바꾸고 -es를 붙인다. man - men, child - children, mouse - mice, foot - feet, goose - geese처럼 불규칙하게 변하는 명사는 따로 익힌다.\n풀이 순서: ① 규칙대로 변하는 짝(-s, -es, -ies, -ves)을 먼저 확인한다. → ② 남은 짝은 불규칙 명사다. 불규칙 명사에 -s를 붙인 것을 찾는다. → ③ mouse의 복수형은 mice다. 정답은 ⑤.\n문장별 판정:\n정답 판단: mouse의 복수형은 불규칙형 mice이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 자음 + y라 y를 i로 바꾸고 -es를 붙인 옳은 형태이므로 오답이다.\n② [오답] x로 끝나 -es를 붙인 옳은 형태이므로 오답이다.\n③ [오답] tooth의 불규칙 복수형을 바르게 썼으므로 오답이다.\n④ [오답] goose의 불규칙 복수형을 바르게 썼으므로 오답이다.\n⑤ [정답] mouse의 복수형은 불규칙형 mice이므로 정답이다.",
+    "passage": null,
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:02:38.956Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:02:41.668Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:02:41.668Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:51:01.593Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "stands - is",
+      "1": "stand - are",
+      "2": "stands - are",
+      "3": "is - is",
+      "4": "are - is"
+    },
+    "expl": "핵심 규칙: 장소도치와 there be에서는 동사 뒤의 실제 주어에 수를 맞춘다. 첫 주어는 an old castle, 둘째 주어는 many tourists이다. 장소도치에는 be뿐 아니라 stand 같은 자동사도 쓸 수 있다.\n풀이 순서: ① 두 문장 모두 주어가 동사 뒤에 있다. 빈칸 뒤에서 진짜 주어를 찾는다. → ② 첫째 문장의 주어(an old castle - 단수)와 둘째 문장의 주어(many tourists - 복수)의 수를 가른다. → ③ 순서대로 맞춘 stands - are를 고른다.\n문장별 판정:\n정답 판단: 첫 빈칸의 실제 주어 an old castle은 단수이므로 stands의 수 일치는 맞다. stand도 장소도치에 쓸 수 있는 자동사이다. 둘째 빈칸의 실제 주어 many tourists는 복수이다. are가 맞다.\n선택지 분석:\n① [오답] 첫 빈칸의 실제 주어 an old castle은 단수이므로 stands의 수 일치는 맞다. stand도 장소도치에 쓸 수 있는 자동사이다. 둘째 빈칸의 실제 주어 many tourists는 복수이다. is는 수가 맞지 않으므로 are로 고친다.\n② [오답] 첫 빈칸의 실제 주어 an old castle은 단수이므로 stand의 수 일치는 맞지 않는다. stand도 장소도치에 쓸 수 있는 자동사이다. stands로 고친다. 둘째 빈칸의 실제 주어 many tourists는 복수이다. are가 맞다.\n③ [정답] 첫 빈칸의 실제 주어 an old castle은 단수이므로 stands의 수 일치는 맞다. stand도 장소도치에 쓸 수 있는 자동사이다. 둘째 빈칸의 실제 주어 many tourists는 복수이다. are가 맞다.\n④ [오답] 첫 빈칸의 실제 주어 an old castle은 단수이므로 is의 수 일치는 맞다. 둘째 빈칸의 실제 주어 many tourists는 복수이다. is는 수가 맞지 않으므로 are로 고친다.\n⑤ [오답] 첫 빈칸의 실제 주어 an old castle은 단수이므로 are의 수 일치는 맞지 않는다. is로 고친다. 둘째 빈칸의 실제 주어 many tourists는 복수이다. is는 수가 맞지 않으므로 are로 고친다.",
+    "passage": "- On the hill near our village ________ an old castle.\n- There ________ many tourists near the main gate today.",
+    "stem": "다음 문장의 빈칸에 들어갈 말이 순서대로 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T10:01:19.152Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T10:01:23.419Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:51:01.593Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:50:52.227Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:51:01.593Z",
+      "what": "확인 완료"
+    }
+  }
+}

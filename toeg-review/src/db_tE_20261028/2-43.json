@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-24T00:37:20.605Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "We need a bigger tent. This _____ is too small.",
+      "1": "Is there a bank near here? — Yes, there's _____ across the street.",
+      "2": "I don't want a window seat. I'd like an aisle _____.",
+      "3": "Grandma knitted a scarf, and I wear _____ every winter.",
+      "4": "Every student got a card, and mine was the prettiest _____."
+    },
+    "expl": "핵심 규칙: it은 앞서 말한 바로 그 대상을 다시 가리킨다. one은 앞의 단수 가산명사와 같은 종류의 다른 하나를 가리키며, a new one·the bigger one·this one처럼 수식어와 함께 쓸 수 있다.\n풀이 순서: ① 빈칸이 앞에 나온 ‘바로 그것’을 가리키는지, ‘같은 종류의 다른 하나’를 가리키는지 가른다. → ② 빈칸 앞에 a/an/the + 형용사나 this, that이 있거나, 정해지지 않은 아무거나 하나를 뜻하면 one이다. → ③ 선택지 ④는 할머니가 떠 준 바로 그 목도리를 가리키므로 it이다.\n문장별 판정:\n정답 판단: 빈칸: 앞에 나온 바로 그 목도리를 가리키고, it이 들어가 나머지 넷(one)과 다르므로 정답은 ④이다.\n선택지 분석:\n① [오답] 빈칸: 텐트와 같은 종류의 다른 하나를 가리키므로 one이 들어간다. 나머지와 같으므로 오답이다.\n② [오답] 빈칸: 은행과 같은 종류의 다른 하나를 가리키므로 one이 들어간다. 나머지와 같으므로 오답이다.\n③ [오답] 빈칸: 좌석과 같은 종류의 다른 하나를 가리키므로 one이 들어간다. 나머지와 같으므로 오답이다.\n④ [정답] 빈칸: 앞에 나온 바로 그 목도리를 가리키고, it이 들어가 나머지 넷(one)과 다르므로 정답이다.\n⑤ [오답] 빈칸: 카드와 같은 종류의 다른 하나를 가리키므로 one이 들어간다. 나머지와 같으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 빈칸에 들어갈 말이 나머지 넷과 다른 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T00:36:59.406Z"
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T00:37:20.605Z",
+      "what": "확인 완료"
+    }
+  }
+}

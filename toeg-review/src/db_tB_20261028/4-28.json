@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-20T07:55:38.781Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "도윤: 주어 your friends가 복수라서 문장 앞에 Do를 썼어.",
+      "1": "지아: 운동 이름 soccer 앞에는 관사를 쓰지 않았어.",
+      "2": "현우: 대답은 Yes, they do.라고 할 수 있어.",
+      "3": "소민: Do 뒤의 동사는 plays로 써야 해.",
+      "4": "태오: 일반동사 play가 있어서 be동사 Are가 아니라 Do로 물었어."
+    },
+    "expl": "핵심 규칙: 일반동사 현재 의문문: Do/Does + 주어 + 동사원형 ~? Does가 이미 3인칭 단수를 나타내므로 뒤의 동사에는 -s를 붙이지 않는다.\n풀이 순서: ① 문장의 틀을 확인한다: Do + your friends(복수) + play(동사원형) ~? → ② 설명마다 이 틀과 맞는지 본다. → ③ 소민만 Do 뒤의 동사를 plays로 써야 한다고 해서 틀렸다. 정답은 ④.\n문장별 판정:\n정답 판단: Do 뒤에는 plays가 아니라 동사원형 play를 쓴다.\n선택지 분석:\n① [오답] 복수 주어 your friends라 Do를 쓴 것이 맞으므로 오답이다.\n② [오답] 운동 이름 앞에는 관사를 쓰지 않는 것이 맞으므로 오답이다.\n③ [오답] Do로 물으면 Yes, they do.로 답할 수 있으므로 오답이다.\n④ [정답] Do 뒤에는 plays가 아니라 동사원형 play를 쓰므로 정답이다.\n⑤ [오답] 일반동사가 있어 be동사가 아니라 Do로 묻는 것이 맞으므로 오답이다.",
+    "passage": "Do your friends play soccer in the park after school?",
+    "stem": "다음 문장을 읽고 문법적으로 잘못된 설명을 한 학생을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-20T07:55:13.027Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T07:21:34.341Z",
+      "text": "기준 문항에 비해 문장과 선택지가 너무 단조로움\n"
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T07:55:38.210Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T07:55:38.781Z",
+      "what": "확인 완료"
+    }
+  }
+}

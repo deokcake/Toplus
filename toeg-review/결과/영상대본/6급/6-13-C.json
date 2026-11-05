@@ -1,0 +1,180 @@
+{
+ "key": "6-13",
+ "type": "C",
+ "grade": 6,
+ "chapter": "CH 2 대명사와 be동사",
+ "title": "that으로 묻고 No로 답하는 be동사",
+ "total_sec": 129,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "6급 · CH 2 대명사와 be동사 · 13번 · C 유형\n\n이 문제는 주어 that으로 묻는 be동사 의문문과 No, it 대답에 알맞은 be동사를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 2 대명사와 be동사 · 13번 · C 유형",
+     "이 문제는 주어 that으로 묻는 be동사 의문문과 No, it 대답에 알맞은 be동사를 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 2, 13번 C 유형. 이 문제는 주어 that으로 묻는 be동사 의문문과 No, it 대답에 알맞은 be동사를 고르는 문제예요.",
+   "caption": "that 의문문과 No, it 대답"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오.\n\nA: _______ that her bag?\nB: No, it _______.\n\n① Is - isn't\n② Are - are\n③ Is - are\n④ Are - is\n⑤ Are - am",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오.",
+     "A: _______ that her bag?",
+     "B: No, it _______.",
+     "① Is - isn't",
+     "② Are - are",
+     "③ Is - are",
+     "④ Are - is",
+     "⑤ Are - am"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르세요. 묻는 말은 빈칸 that her bag, 대답은 No, it 빈칸이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\nYes/No로 답하는 be동사 의문문: be동사 + 주어 …?\n현재형 be동사: I → am, you·복수 → are, 3인칭 단수(he, she, it, this, that) → is\n대답: Yes, 주어 + be동사. / No, 주어 + be동사 + not. (is not → isn't, are not → aren't)\n대답의 be동사도 대답의 주어에 맞춰요.\n예) Is he your teacher? No, he isn't. (그는 너의 선생님이니? 아니, 그렇지 않아.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "Yes/No로 답하는 be동사 의문문: be동사 + 주어 …?",
+     "현재형 be동사: I → am, you·복수 → are, 3인칭 단수(he, she, it, this, that) → is",
+     "대답: Yes, 주어 + be동사. / No, 주어 + be동사 + not. (is not → isn't, are not → aren't)",
+     "대답의 be동사도 대답의 주어에 맞춰요.",
+     "예) Is he your teacher? No, he isn't. (그는 너의 선생님이니? 아니, 그렇지 않아.)"
+    ]
+   },
+   "narration": "Yes나 No로 답하는 be동사 의문문은 be동사를 주어 앞에 써요. 현재형 be동사는 I에는 am, you와 we, they 같은 복수에는 are, he, she, it, this, that 같은 3인칭 단수에는 is를 써요. 대답은 Yes, 주어, be동사 순서나 No, 주어, be동사, not 순서로 하고, be동사는 대답의 주어에 맞춰요. Is he your teacher? 그는 너의 선생님이니? No, he isn't. 아니, 그렇지 않아.",
+   "caption": "be동사 의문문과 대답"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오.\n\nA: _______ that her bag?\nB: No, it _______.\n\n① Is - isn't\n② Are - are\n③ Is - are\n④ Are - is\n⑤ Are - am",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "that"
+      ],
+      "strike": [
+       "② Are - are",
+       "④ Are - is",
+       "⑤ Are - am"
+      ],
+      "note": "묻는 말의 주어 that = 3인칭 단수 → Is. Are로 시작하는 ②, ④, ⑤는 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "No, it _______."
+      ],
+      "strike": [
+       "③ Is - are"
+      ],
+      "note": "대답 No, it → is not을 줄인 isn't. are를 쓴 ③도 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "① Is - isn't"
+      ],
+      "strike": [],
+      "note": "남는 것은 ① → Is that her bag? No, it isn't."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 묻는 말의 주어 that은 하나를 가리키는 3인칭 단수라서 Is를 써야 하니, Are로 시작하는 2번, 4번, 5번은 지워요. 둘째, 대답이 No이고 주어가 it이라서 is not을 줄인 isn't를 써야 하니, are를 쓴 3번도 지워요. 셋째, 남는 것은 1번이에요. Is that her bag? 저것은 그녀의 가방이니? No, it isn't. 아니, 그렇지 않아.",
+   "caption": "that → Is, No, it → isn't"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① Is - isn't  ✓  단수 that → Is, No, it → isn't\n② Are - are  ✗  단수 that에 Are, it에 are를 쓸 수 없어요\n③ Is - are  ✗  it에 are를 썼고, No 대답인데 not도 없어요\n④ Are - is  ✗  that에 Are를 쓸 수 없고, No 대답인데 not이 없어요\n⑤ Are - am  ✗  that에 Are를 쓸 수 없고, am은 주어 I에만 써요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✓",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Is - isn't  ✓  단수 that → Is, No, it → isn't",
+     "② Are - are  ✗  단수 that에 Are, it에 are를 쓸 수 없어요",
+     "③ Is - are  ✗  it에 are를 썼고, No 대답인데 not도 없어요",
+     "④ Are - is  ✗  that에 Are를 쓸 수 없고, No 대답인데 not이 없어요",
+     "⑤ Are - am  ✗  that에 Are를 쓸 수 없고, am은 주어 I에만 써요"
+    ]
+   },
+   "narration": "정답은 1번 Is, isn't예요. 4번은 둘째 빈칸에 it에 맞는 is를 썼지만, No로 답했으니 not을 붙인 isn't를 써야 해요. 게다가 하나를 가리키는 that에는 Are를 쓰지 않아요. 3번은 첫째 빈칸 Is는 맞지만, it에는 are를 쓰지 않고 No 대답에 맞는 not도 없어요.",
+   "caption": "정답 ① Is - isn't"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ① Is - isn't\n\nNo로 답하면 be동사 + not (it → isn't)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ① Is - isn't",
+     "No로 답하면 be동사 + not (it → isn't)"
+    ]
+   },
+   "narration": "정답은 1번이에요. 기억할 것, be동사는 묻는 말에서도 대답에서도 주어에 맞추고, No로 답할 때는 be동사에 not을 붙여요.",
+   "caption": "No 대답은 be동사 + not"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오.",
+  "passage": "A: _______ that her bag?\nB: No, it _______.",
+  "c": [
+   "Is - isn't",
+   "Are - are",
+   "Is - are",
+   "Are - is",
+   "Are - am"
+  ],
+  "ans": 1,
+  "expl": "핵심 규칙: be동사 의문문은 be동사+주어 순서이다. 짧은 대답에서도 인칭·수와 긍정/부정을 맞춘다.\n풀이 순서: ① 질문의 주어를 본다: that(단수) → Is. → ② 대답의 주어와 Yes/No를 본다: No, it → isn't. → ③ 정답은 Is - isn't.\n문장별 판정:\n정답 판단: (첫째 빈칸) Is: 주어 that에 맞는 현재형 is를 문장 앞에 놓는다. (둘째 빈칸) isn't: No에 맞는 부정 대답이며, 주어 it에는 isn't를 쓴다. 따라서 정답은 ①이다.\n선택지 분석:\n① [정답] (첫째 빈칸) Is: 주어 that에 맞는 현재형 is를 문장 앞에 놓는다. (둘째 빈칸) isn't: No에 맞는 부정 대답이며, 주어 it에는 isn't를 쓴다.\n② [오답] (첫째 빈칸) Are → Is. 주어 that에 맞는 현재형 is를 문장 앞에 놓는다. (둘째 빈칸) are → isn't. No에 맞는 부정 대답이며, 주어 it에는 isn't를 쓴다.\n③ [오답] (첫째 빈칸) Is: 주어 that에 맞는 현재형 is를 문장 앞에 놓는다. (둘째 빈칸) are → isn't. No에 맞는 부정 대답이며, 주어 it에는 isn't를 쓴다.\n④ [오답] (첫째 빈칸) Are → Is. 주어 that에 맞는 현재형 is를 문장 앞에 놓는다. (둘째 빈칸) is → isn't. No에 맞는 부정 대답이며, 주어 it에는 isn't를 쓴다.\n⑤ [오답] (첫째 빈칸) Are → Is. 주어 that에 맞는 현재형 is를 문장 앞에 놓는다. (둘째 빈칸) am → isn't. No에 맞는 부정 대답이며, 주어 it에는 isn't를 쓴다."
+ }
+}

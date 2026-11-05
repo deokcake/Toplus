@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:56:42.332Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "I live with my parents.",
+      "1": "I live in Ulsan.",
+      "2": "I moved here in 2019.",
+      "3": "I live a happy life.",
+      "4": "I go home at five."
+    },
+    "expl": "핵심 규칙: 질문의 의문사가 묻는 정보에 맞춰 답한다. What year는 연도, What month는 달, What season은 계절, What day는 요일, What time은 시각, Where는 장소를 묻는다.\n풀이 순서: ① 질문이 묻는 정보를 본다: Where(장소). → ② 보기는 문장의 앞부분이 같고 뒤의 정보만 다르다. 그 정보의 종류를 하나씩 가른다. → ③ 사는 곳을 말한 것은 in Ulsan뿐이다. 정답은 ②.\n문장별 판정:\n정답 판단: 장소를 묻는 질문에 사는 곳으로 알맞게 답했으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 함께 사는 사람을 답해 장소를 묻는 질문에 맞지 않으므로 오답이다.\n② [정답] 장소를 묻는 질문에 사는 곳으로 알맞게 답했으므로 정답이다.\n③ [오답] 이사 온 해를 답해 장소를 묻는 질문에 맞지 않으므로 오답이다.\n④ [오답] 사는 모습을 답해 장소를 묻는 질문에 맞지 않으므로 오답이다.\n⑤ [오답] 집에 가는 시각을 답해 장소를 묻는 질문에 맞지 않으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:56:39.112Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:56:42.332Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:56:42.332Z",
+      "what": "확인 완료"
+    }
+  }
+}

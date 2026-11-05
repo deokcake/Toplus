@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:10:35.848Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "A: Is this your pen? B: Yes, I am.",
+      "1": "A: Do you have a pet? B: No, I don't.",
+      "2": "A: Does Tom walk to school? B: Yes, he is.",
+      "3": "A: Are they students? B: Yes, they do.",
+      "4": "A: Is he tall? B: No, he doesn't."
+    },
+    "expl": "핵심 규칙: be동사 의문문에는 be동사로, Do/Does 의문문에는 do/does로 답하며, 대답의 주어는 질문의 주어에 맞춘다(you → I, this → it).\n풀이 순서: ① 질문의 첫 낱말을 본다. be동사로 물으면 be동사로, Do/Does로 물으면 do/does로 답한다. → ② 대답의 주어와 동사가 서로 맞는지 본다. → ③ 선택지 ②만 Are you ~? - I am not으로 맞는다. 정답은 ②.\n문장별 판정:\n정답 판단: 질문의 동사와 주어에 맞게 바르게 대답했으므로 정답은 ②이다.\n선택지 분석:\n① [오답] this는 it으로 받아 Yes, it is로 답하므로 오답이다.\n② [정답] 질문의 동사와 주어에 맞게 바르게 대답했으므로 정답이다.\n③ [오답] Does 의문문에는 be동사가 아니라 does로 답하므로 오답이다.\n④ [오답] be동사 의문문에는 are로 답하므로 오답이다.\n⑤ [오답] be동사 의문문에는 isn't로 답하므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:10:34.016Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:10:35.848Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:10:35.848Z",
+      "what": "확인 완료"
+    }
+  }
+}

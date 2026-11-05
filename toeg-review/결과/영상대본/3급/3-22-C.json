@@ -1,0 +1,175 @@
+{
+ "key": "3-22",
+ "type": "C",
+ "grade": 3,
+ "chapter": "CH 3 명사와 관사",
+ "title": "셀 수 있는 명사와 셀 수 없는 명사",
+ "total_sec": 126,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "3급 · CH 3 명사와 관사 · 22번 · C 유형\n\n이 문제는 다섯 개의 명사 가운데 셀 수 있는 명사를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 3 명사와 관사 · 22번 · C 유형",
+     "이 문제는 다섯 개의 명사 가운데 셀 수 있는 명사를 고르는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 3, 22번 C 유형. 이 문제는 다섯 개의 명사 가운데 셀 수 있는 명사를 고르는 문제예요.",
+   "caption": "셀 수 있는 명사 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 셀 수 있는 명사를 고르시오.\n\n① music\n② homework\n③ traffic\n④ equipment\n⑤ apple",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 셀 수 있는 명사를 고르시오.",
+     "① music",
+     "② homework",
+     "③ traffic",
+     "④ equipment",
+     "⑤ apple"
+    ]
+   },
+   "narration": "다음 중 셀 수 있는 명사를 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n셀 수 있는 명사 → 하나일 때 a/an, 둘 이상이면 복수형 (an egg, two eggs)\n셀 수 없는 명사 → a/an을 붙이지 않고, 복수형도 쓰지 않아요\n영어에서 셀 수 없는 명사: music(음악), homework(숙제), traffic(교통량), equipment(장비)\n예) I ate two eggs and some bread. (나는 달걀 두 개와 빵을 조금 먹었어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "셀 수 있는 명사 → 하나일 때 a/an, 둘 이상이면 복수형 (an egg, two eggs)",
+     "셀 수 없는 명사 → a/an을 붙이지 않고, 복수형도 쓰지 않아요",
+     "영어에서 셀 수 없는 명사: music(음악), homework(숙제), traffic(교통량), equipment(장비)",
+     "예) I ate two eggs and some bread. (나는 달걀 두 개와 빵을 조금 먹었어요.)"
+    ]
+   },
+   "narration": "셀 수 있는 명사는 하나일 때 a나 an을 붙일 수 있고, 둘 이상이면 복수형으로 써요. 셀 수 없는 명사에는 a나 an도, 복수형도 쓰지 않아요. music 음악, homework 숙제, traffic 교통량, equipment 장비는 영어에서 셀 수 없는 명사예요. 예를 들어 I ate two eggs and some bread, 달걀 두 개와 빵을 조금 먹었어요.",
+   "caption": "셀 수 있는 명사, 셀 수 없는 명사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 중 셀 수 있는 명사를 고르시오.\n\n① music\n② homework\n③ traffic\n④ equipment\n⑤ apple",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "셀 수 있는 명사"
+      ],
+      "strike": [
+       "① music",
+       "③ traffic"
+      ],
+      "note": "a/an·복수형이 되는지 본다 → music(음악), traffic(교통량)은 셀 수 없다 → 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "② homework",
+       "④ equipment"
+      ],
+      "note": "homework는 우리말과 달리 셀 수 없고, equipment는 장비를 묶어 부르는 셀 수 없는 명사 → 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ apple"
+      ],
+      "strike": [],
+      "note": "남은 apple(사과) → an apple, two apples → 셀 수 있다."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 보기마다 a나 an을 붙이거나 복수형으로 쓸 수 있는지 따져 봐요. music 음악과 traffic 교통량은 셀 수 없는 명사라서 지워요. 둘째, homework는 우리말로는 숙제 두 개처럼 세지만 셀 수 없는 명사예요. equipment 장비도 여러 도구를 묶어 부르는 셀 수 없는 명사라서 둘 다 지워요. 셋째, 남은 apple은 사과라서 an apple, two apples처럼 셀 수 있어요.",
+   "caption": "셀 수 없는 명사 지우기 → apple"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 30,
+   "screen": {
+    "text": "① music  ✗  음악, a music으로 쓰지 않아요\n② homework  ✗  숙제, 우리말과 달리 homeworks로 쓰지 않아요\n③ traffic  ✗  길을 오가는 차들 전체(교통량), 셀 수 없어요\n④ equipment  ✗  여러 도구를 묶어 부르는 말(장비), 셀 수 없어요\n⑤ apple  ✓  an apple, two apples처럼 셀 수 있어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① music  ✗  음악, a music으로 쓰지 않아요",
+     "② homework  ✗  숙제, 우리말과 달리 homeworks로 쓰지 않아요",
+     "③ traffic  ✗  길을 오가는 차들 전체(교통량), 셀 수 없어요",
+     "④ equipment  ✗  여러 도구를 묶어 부르는 말(장비), 셀 수 없어요",
+     "⑤ apple  ✓  an apple, two apples처럼 셀 수 있어요"
+    ]
+   },
+   "narration": "정답은 5번 apple이에요. 2번 homework는 숙제를 하나, 둘 세는 것 같아서 고르기 쉽지만, homeworks처럼 쓰지 않는 셀 수 없는 명사예요. 4번 equipment는 여러 도구를 묶어 부르는 말이라 셀 것 같지만, 영어에서는 셀 수 없어요. 3번 traffic도 차 한 대가 아니라 길을 오가는 차들 전체를 말해서 셀 수 없어요.",
+   "caption": "정답 ⑤ apple"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ⑤ apple\n\na/an을 붙이거나 복수형으로 쓸 수 있으면 셀 수 있는 명사 (an apple, two apples)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ apple",
+     "a/an을 붙이거나 복수형으로 쓸 수 있으면 셀 수 있는 명사 (an apple, two apples)"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, a나 an을 붙이거나 복수형으로 쓸 수 있으면 셀 수 있는 명사예요.",
+   "caption": "a/an·복수형이 되면 셀 수 있는 명사"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+  "passage": "",
+  "c": [
+   "music",
+   "homework",
+   "traffic",
+   "equipment",
+   "apple"
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 셀 수 있는 명사는 a/an·숫자와 함께 쓰고 복수형을 만들 수 있다. information, news, furniture, advice, homework, luggage, weather 같은 명사는 셀 수 없는 명사라 a/an이나 -s를 붙이지 않는다.\n풀이 순서: ① 낱말마다 a/an을 붙이거나 복수형(-s)으로 쓸 수 있는지 본다. → ② information, news, furniture, advice, homework, money처럼 낱개로 나뉘지 않는 것은 셀 수 없는 명사다. → ③ 선택지 ⑤만 셀 수 있다(an apple, two apples).\n문장별 판정:\n정답 판단: apple: a/an과 함께 쓰고 복수형을 만들 수 있는 셀 수 있는 명사이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] music: 셀 수 없는 명사라 a/an이나 복수형을 쓰지 않으므로 오답이다.\n② [오답] homework: 셀 수 없는 명사라 a/an이나 복수형을 쓰지 않으므로 오답이다.\n③ [오답] traffic: 셀 수 없는 명사라 a/an이나 복수형을 쓰지 않으므로 오답이다.\n④ [오답] equipment: 셀 수 없는 명사라 a/an이나 복수형을 쓰지 않으므로 오답이다.\n⑤ [정답] apple: a/an과 함께 쓰고 복수형을 만들 수 있는 셀 수 있는 명사이므로 정답이다."
+ }
+}

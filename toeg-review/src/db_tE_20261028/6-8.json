@@ -1,0 +1,28 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-23T08:32:16.291Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "goosees",
+      "1": "a goose",
+      "2": "geese",
+      "3": "gooses",
+      "4": "goose"
+    },
+    "expl": "핵심 규칙: ten, three, two, several 뒤에서는 명사의 알맞은 복수형을 쓴다.\n풀이 순서: ① 빈칸 앞뒤에서 수를 나타내는 말을 찾는다: Three ~ are. 복수형이 필요하다. → ② 단수형과 a가 붙은 것을 지운다. → ③ goose의 복수형은 geese다. 정답은 geese.\n문장별 판정:\n정답 판단: goose의 불규칙 복수형은 geese이다. 지문의 수량 표현은 둘 이상을 요구하므로 이 복수형이 알맞다. 따라서 정답은 ③이다.\n선택지 분석:\n① [오답] goose의 불규칙 복수형은 geese이다. 수량 표현 뒤에는 goosees가 아니라 geese가 필요하다.\n② [오답] goose의 불규칙 복수형은 geese이다. 수량 표현 뒤에는 a goose가 아니라 geese가 필요하다.\n③ [정답] goose의 불규칙 복수형은 geese이다. 지문의 수량 표현은 둘 이상을 요구하므로 이 복수형이 알맞다.\n④ [오답] goose의 불규칙 복수형은 geese이다. 수량 표현 뒤에는 gooses가 아니라 geese가 필요하다.\n⑤ [오답] goose의 불규칙 복수형은 geese이다. 수량 표현 뒤에는 goose가 아니라 geese가 필요하다.",
+    "passage": "Three _______ are swimming on the lake.",
+    "stem": "다음 빈칸에 들어갈 단어의 형태가 알맞은 것을 고르세요."
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T08:32:16.291Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:32:16.291Z",
+      "what": "확인 완료"
+    }
+  }
+}

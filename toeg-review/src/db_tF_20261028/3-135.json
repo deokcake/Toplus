@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 순서 정정",
+  "done": true,
+  "doneAt": "2026-10-27T05:37:05.060Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "What a delicious cookies these are!",
+      "1": "How delicious cookies these are!",
+      "2": "What delicious these cookies are!",
+      "3": "How a delicious cookie this is!",
+      "4": "What delicious cookies these are!"
+    },
+    "expl": "핵심 규칙: 감탄문은 What + (a/an) + 형용사 + 명사 + 주어 + 동사!, How + 형용사/부사 + 주어 + 동사!이다. 복수명사 앞에는 a/an을 쓰지 않고, How 바로 뒤에는 a/an + 명사를 쓰지 않는다.\n풀이 순서: ① What 뒤에는 ‘(a/an) + 형용사 + 명사’, How 뒤에는 ‘형용사/부사’만 온다. 그 뒤는 주어 + 동사다. → ② 보기마다 What/How 바로 뒤의 덩어리를 확인한다. ⑤만 What + delicious + cookies(복수명사라 a가 없다) + these are로 맞다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: What + 형용사 + 복수명사 + 주어 + 동사의 어순이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 복수명사 cookies 앞에는 a를 쓰지 않으므로 오답이다.\n② [오답] How 뒤에 형용사 + 명사를 쓸 수 없으므로 오답이다.\n③ [오답] 명사 없이 형용사만 오면 How를 쓰므로 오답이다.\n④ [오답] How 뒤에 a + 형용사 + 명사를 쓸 수 없으므로 오답이다.\n⑤ [정답] What + 형용사 + 복수명사 + 주어 + 동사의 어순이므로 정답이다.",
+    "passage": "",
+    "stem": "다음 중 감탄문의 문장 구조가 어법상 옳은 것은?"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:37:05.060Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:37:05.060Z",
+      "what": "확인 완료"
+    }
+  }
+}

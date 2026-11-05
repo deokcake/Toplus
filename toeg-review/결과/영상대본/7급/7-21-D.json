@@ -1,0 +1,177 @@
+{
+ "key": "7-21",
+ "type": "D",
+ "grade": 7,
+ "chapter": "CH 3 be동사",
+ "title": "문장에서 be동사 찾기",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "7급 · CH 3 be동사 · 21번 · D 유형\n\n이 문제는 주어가 I인 문장에서 be동사를 찾아 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 3 be동사 · 21번 · D 유형",
+     "이 문제는 주어가 I인 문장에서 be동사를 찾아 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 3, 21번 D 유형. 이 문제는 주어가 I인 문장에서 be동사를 찾아 고르는 문제예요.",
+   "caption": "문장에서 be동사 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 문장에서 be동사에 해당하는 것을 고르시오.\n\nI am a new student.\n\n① I\n② a\n③ new\n④ am\n⑤ student",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장에서 be동사에 해당하는 것을 고르시오.",
+     "I am a new student.",
+     "① I",
+     "② a",
+     "③ new",
+     "④ am",
+     "⑤ student"
+    ]
+   },
+   "narration": "다음 문장에서 be동사에 해당하는 것을 고르세요. I am a new student. 나는 새로 온 학생이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 현재형: am, is, are\n뜻: ~이다, ~하다, ~에 있다\n자리: 보통 주어 바로 뒤\n예) I am ten years old. (나는 열 살이에요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 현재형: am, is, are",
+     "뜻: ~이다, ~하다, ~에 있다",
+     "자리: 보통 주어 바로 뒤",
+     "예) I am ten years old. (나는 열 살이에요.)"
+    ]
+   },
+   "narration": "be동사의 현재형은 am, is, are 세 가지예요. be동사는 주어가 누구인지, 무엇인지, 어떤 상태인지, 어디에 있는지 말할 때 써요. 우리말로는 무엇이다, 어떠하다, 어디에 있다처럼 옮기고, 보통 주어 바로 뒤에 와요. I am ten years old. 나는 열 살이에요. 주어 I 바로 뒤의 am이 be동사예요.",
+   "caption": "be동사 현재형 am, is, are"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 문장에서 be동사에 해당하는 것을 고르시오.\n\nI am a new student.\n\n① I\n② a\n③ new\n④ am\n⑤ student",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "am"
+      ],
+      "strike": [],
+      "note": "am, is, are 가운데 하나를 찾는다 → am"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "I am"
+      ],
+      "strike": [],
+      "note": "am은 주어 I 바로 뒤 → 내가 누구인지 말해 준다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ am"
+      ],
+      "strike": [
+       "① I",
+       "② a",
+       "③ new",
+       "⑤ student"
+      ],
+      "note": "I, a, new, student는 be동사가 아니다 → 정답 ④ am"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장에서 am, is, are 가운데 하나를 찾아요. 이 문장에는 am이 있어요. 둘째, am은 주어 I 바로 뒤에서 내가 누구인지 말해 줘요. 셋째, I, a, new, student는 be동사가 아니니까 지워요. 남는 것은 4번 am이에요.",
+   "caption": "am 찾기 → 주어 I 바로 뒤"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① I  ✗  주어로 쓰인 대명사예요\n② a  ✗  new student 앞에 붙는 말이에요\n③ new  ✗  ‘새로운’이라는 뜻으로 student를 꾸미는 형용사예요\n④ am  ✓  주어 I 바로 뒤의 be동사예요\n⑤ student  ✗  ‘학생’이라는 뜻의 명사예요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① I  ✗  주어로 쓰인 대명사예요",
+     "② a  ✗  new student 앞에 붙는 말이에요",
+     "③ new  ✗  ‘새로운’이라는 뜻으로 student를 꾸미는 형용사예요",
+     "④ am  ✓  주어 I 바로 뒤의 be동사예요",
+     "⑤ student  ✗  ‘학생’이라는 뜻의 명사예요"
+    ]
+   },
+   "narration": "정답은 4번 am이에요. 우리말로 새로 온 학생이다라고 옮기니까 5번 student를 고르기 쉬워요. 하지만 student는 학생이라는 명사이고, 이 문장에서 이다의 뜻은 am이 맡아요. 3번 new는 새로운이라는 뜻으로 student를 꾸미는 말이고, 1번 I는 주어로 쓰인 대명사예요.",
+   "caption": "정답 ④ am"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ④ am\n\nbe동사 현재형 am, is, are는 보통 주어 바로 뒤에 와요",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ am",
+     "be동사 현재형 am, is, are는 보통 주어 바로 뒤에 와요"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, be동사의 현재형은 am, is, are이고, 보통 주어 바로 뒤에 와요.",
+   "caption": "am, is, are는 보통 주어 바로 뒤"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장에서 be동사에 해당하는 것을 고르시오.",
+  "passage": "I am a new student.",
+  "c": [
+   "I",
+   "a",
+   "new",
+   "am",
+   "student"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 제시문에서 be동사의 현재형이다.\n풀이 순서: ① 문장에서 am, is, are 가운데 하나를 찾는다. → ② 주어(I) 바로 뒤에 있는 am가 be동사다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 정답은 ④입니다. ‘am’은 be동사의 현재형입니다. 제시문에서 주어의 신분·상태를 설명합니다.\n선택지 분석:\n① [오답] ‘I’는 주격대명사이며 be동사가 아닙니다.\n② [오답] ‘a’는 관사이며 be동사가 아닙니다.\n③ [오답] ‘new’는 형용사이며 be동사가 아닙니다.\n④ [정답] ‘am’은 be동사의 현재형입니다. 제시문에서 주어의 신분·상태를 설명합니다.\n⑤ [오답] ‘student’는 명사이며 be동사가 아닙니다."
+ }
+}

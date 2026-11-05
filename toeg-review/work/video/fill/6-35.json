@@ -1,0 +1,481 @@
+{
+ "A": {
+  "title": "일반동사 현재형과 Do, Does 의문문",
+  "intro": "이 문제는 일반동사 현재형과 Do, Does 의문문을 바르게 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 옳은 문장을 고르세요. 다섯 문장 가운데 문법에 맞는 문장 하나를 찾아야 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "3인칭 단수 주어(he, she, it, Tom) → 일반동사 + s/es, have → has",
+    "자음 + y로 끝나면 y → i + es (cry → cries)",
+    "Do, Does 의문문: 3인칭 단수 주어 → Does / I, you, 복수 주어 → Do",
+    "Do, Does + 주어 + 동사원형",
+    "예) He reads books. (그는 책을 읽어요.)  Does he read books? (그는 책을 읽니?)"
+   ],
+   "narration": "일반동사 현재형은 평소 하는 일이나 사실을 말하고, he, she, it 같은 3인칭 단수 주어에만 s나 es를 붙여요. have는 has가 되고, 자음 다음 y로 끝나면 y를 ies로 바꿔요. Do나 Does로 물을 때는 3인칭 단수 주어면 Does, 아니면 Do를 쓰고, 동사는 원형이에요. He reads books, 그는 책을 읽어요. Does he read books? 그는 책을 읽니?"
+  },
+  "steps": [
+   {
+    "note": "평서문: We, I는 3인칭 단수가 아님 → 동사원형 fix, arrive",
+    "highlight": [
+     "We fixes",
+     "I arrives"
+    ],
+    "strike": [
+     "① We fixes the computer.",
+     "⑤ I arrives early today."
+    ],
+    "narration": "첫째, 평서문 1번 We와 5번 I는 3인칭 단수가 아니라서 동사원형 fix와 arrive를 써야 해요."
+   },
+   {
+    "note": "He는 3인칭 단수지만 study는 자음 + y → studies",
+    "highlight": [
+     "studys"
+    ],
+    "strike": [
+     "② He studys very hard."
+    ],
+    "narration": "둘째, 2번 He는 3인칭 단수지만, study는 자음 다음에 y로 끝나서 studies로 써야 해요."
+   },
+   {
+    "note": "의문문: she → Does / the store(3인칭 단수) + Does + 동사원형 sell ✓",
+    "highlight": [
+     "Do she",
+     "④ Does the store sell bread?"
+    ],
+    "strike": [
+     "③ Do she know my name?"
+    ],
+    "narration": "셋째, 의문문 3번 she는 3인칭 단수라 Does를 써야 해요. 4번은 3인칭 단수 주어 the store에 Does와 동사원형 sell을 바르게 썼어요. Does the store sell bread? 그 가게는 빵을 파니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① We fixes the computer.  ✗  주어 We에는 동사원형 fix",
+    "② He studys very hard.  ✗  자음 + y인 study → studies",
+    "③ Do she know my name?  ✗  3인칭 단수 she에는 Does",
+    "④ Does the store sell bread?  ✓  3인칭 단수 the store + Does + 동사원형 sell",
+    "⑤ I arrives early today.  ✗  주어 I에는 동사원형 arrive"
+   ],
+   "narration": "정답은 4번이에요. 2번은 He 뒤에 s형을 써서 맞아 보이지만, study는 y를 i로 바꾸고 es를 붙인 studies가 맞아요. 3번은 의문문이라 Do로 시작했지만, 3인칭 단수 she에는 Does를 써요. 1번은 fix에 es를 바르게 붙인 것처럼 보여도, 주어 We에는 동사원형 fix를 써요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → Does, 그 밖의 주어 → Do · 주어 뒤 동사는 원형",
+   "narration": "정답은 4번이에요. 기억할 것, Do나 Does는 주어에 맞춰 고르고, 주어 뒤의 동사는 원형으로 써요."
+  },
+  "captions": [
+   "일반동사 현재형과 Do, Does",
+   "먼저 풀어 보세요",
+   "주어에 맞는 동사 모양과 Do, Does",
+   "주어 → 철자 → 의문문",
+   "정답 ④ Does the store sell bread?",
+   "Do, Does는 주어에 맞게, 뒤는 원형"
+  ],
+  "sec": [
+   12,
+   18,
+   32,
+   34,
+   26,
+   11
+  ]
+ },
+ "B": {
+  "title": "일반동사 현재형과 Do, Does 의문문",
+  "intro": "이 문제는 일반동사 현재형과 Do, Does 의문문을 바르게 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 옳은 문장을 고르세요. 다섯 문장 가운데 문법에 맞는 문장 하나를 찾아야 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "3인칭 단수 주어(he, she, it, Tom) → 일반동사 + s/es, have → has",
+    "s, sh, ch, x, o로 끝나면 + es (go → goes, fix → fixes)",
+    "Do, Does 의문문: 3인칭 단수 주어 → Does / I, you, 복수 주어 → Do",
+    "Do, Does + 주어 + 동사원형",
+    "예) He reads books. (그는 책을 읽어요.)  Does he read books? (그는 책을 읽니?)"
+   ],
+   "narration": "일반동사 현재형은 평소 하는 일이나 사실을 말하고, he, she, it 같은 3인칭 단수 주어에만 s나 es를 붙여요. have는 has가 되고, ch나 sh로 끝나면 es를 붙여요. Do나 Does로 물을 때는 3인칭 단수 주어면 Does, 아니면 Do를 쓰고, 동사는 원형이에요. He reads books, 그는 책을 읽어요. Does he read books? 그는 책을 읽니?"
+  },
+  "steps": [
+   {
+    "note": "평서문: My brother(3인칭 단수) + watch(ch) → watches / They(복수) → play",
+    "highlight": [
+     "watchs",
+     "They plays"
+    ],
+    "strike": [
+     "① My brother watchs TV.",
+     "④ They plays soccer."
+    ],
+    "narration": "첫째, 평서문 1번 My brother는 3인칭 단수인데 watch는 ch로 끝나서 watches로, 4번 They는 복수라 동사원형 play로 써야 해요."
+   },
+   {
+    "note": "의문문: she → Does / Does를 쓰면 동사는 원형 teach",
+    "highlight": [
+     "Do she",
+     "Does Mr. Kim teaches"
+    ],
+    "strike": [
+     "② Do she like music?",
+     "⑤ Does Mr. Kim teaches science?"
+    ],
+    "narration": "둘째, 의문문 2번 she는 3인칭 단수라 Does를 써야 해요. 5번은 Does를 썼으니 teaches가 아니라 동사원형 teach를 써요."
+   },
+   {
+    "note": "you + Do + 동사원형 like ✓",
+    "highlight": [
+     "③ Do you like milk?"
+    ],
+    "strike": [],
+    "narration": "셋째, 3번은 주어 you에 Do와 동사원형 like를 바르게 썼어요. Do you like milk? 너는 우유를 좋아하니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① My brother watchs TV.  ✗  ch로 끝나는 watch → watches",
+    "② Do she like music?  ✗  3인칭 단수 she에는 Does",
+    "③ Do you like milk?  ✓  주어 you + Do + 동사원형 like",
+    "④ They plays soccer.  ✗  복수 They에는 동사원형 play",
+    "⑤ Does Mr. Kim teaches science?  ✗  Does를 쓰면 동사는 원형 teach"
+   ],
+   "narration": "정답은 3번이에요. 5번은 Mr. Kim이 3인칭 단수라 teaches가 맞아 보이지만, Does를 쓰면 동사는 원형 teach로 써요. 1번은 s를 붙였지만, watch는 ch로 끝나서 es를 붙인 watches가 맞아요. 4번 They는 여러 명이라 s를 붙이지 않은 play를 써요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → Does, 그 밖의 주어 → Do · 주어 뒤 동사는 원형",
+   "narration": "정답은 3번이에요. 기억할 것, Do나 Does는 주어에 맞춰 고르고, 주어 뒤의 동사는 원형으로 써요."
+  },
+  "captions": [
+   "일반동사 현재형과 Do, Does",
+   "먼저 풀어 보세요",
+   "주어에 맞는 동사 모양과 Do, Does",
+   "평서문 → 의문문 → ③",
+   "정답 ③ Do you like milk?",
+   "Do, Does는 주어에 맞게, 뒤는 원형"
+  ],
+  "sec": [
+   12,
+   18,
+   32,
+   33,
+   25,
+   11
+  ]
+ },
+ "C": {
+  "title": "일반동사 현재형과 Do, Does 의문문",
+  "intro": "이 문제는 일반동사 현재형과 Do, Does 의문문을 바르게 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 옳은 문장을 고르세요. 다섯 문장 가운데 문법에 맞는 문장 하나를 찾아야 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "3인칭 단수 주어(he, she, it, Tom) → 일반동사 + s/es, have → has",
+    "자음 + y로 끝나면 y → i + es (cry → cries)",
+    "Do, Does 의문문: 3인칭 단수 주어 → Does / I, you, 복수 주어 → Do",
+    "Do, Does + 주어 + 동사원형",
+    "예) He reads books. (그는 책을 읽어요.)  Does he read books? (그는 책을 읽니?)"
+   ],
+   "narration": "일반동사 현재형은 평소 하는 일이나 사실을 말하고, he, she, it 같은 3인칭 단수 주어에만 s나 es를 붙여요. have는 has가 되고, 자음 다음 y로 끝나면 y를 ies로 바꿔요. Do나 Does로 물을 때는 3인칭 단수 주어면 Does, 아니면 Do를 쓰고, 동사는 원형이에요. He reads books, 그는 책을 읽어요. Does he read books? 그는 책을 읽니?"
+  },
+  "steps": [
+   {
+    "note": "평서문: The children(복수) → need / I → go",
+    "highlight": [
+     "The children needs",
+     "I goes"
+    ],
+    "strike": [
+     "① The children needs more paper.",
+     "⑤ I goes to bed at ten."
+    ],
+    "narration": "첫째, 평서문 1번 The children은 child의 복수형이라 need, 5번 I는 3인칭 단수가 아니라서 go를 써야 해요."
+   },
+   {
+    "note": "Mina는 3인칭 단수지만 carry는 자음 + y → carries",
+    "highlight": [
+     "carrys"
+    ],
+    "strike": [
+     "③ Mina carrys a big bag."
+    ],
+    "narration": "둘째, 3번 Mina는 3인칭 단수지만, carry는 자음 다음에 y로 끝나서 carries로 써야 해요."
+   },
+   {
+    "note": "의문문: he → Does / your dog(3인칭 단수) + Does + 동사원형 bark ✓",
+    "highlight": [
+     "Do he",
+     "② Does your dog bark at night?"
+    ],
+    "strike": [
+     "④ Do he live near here?"
+    ],
+    "narration": "셋째, 의문문 4번 he는 3인칭 단수라 Does를 써야 해요. 2번은 3인칭 단수 주어 your dog에 Does와 동사원형 bark를 바르게 썼어요. Does your dog bark at night? 너의 개는 밤에 짖니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The children needs more paper.  ✗  복수 The children에는 동사원형 need",
+    "② Does your dog bark at night?  ✓  3인칭 단수 your dog + Does + 동사원형 bark",
+    "③ Mina carrys a big bag.  ✗  자음 + y인 carry → carries",
+    "④ Do he live near here?  ✗  3인칭 단수 he에는 Does",
+    "⑤ I goes to bed at ten.  ✗  주어 I에는 동사원형 go"
+   ],
+   "narration": "정답은 2번이에요. 1번은 children이 s로 끝나지 않아 한 명처럼 보이지만, child의 복수형이라 need를 써요. 3번은 s형을 쓴 것은 맞지만, carry는 y를 i로 바꾸고 es를 붙인 carries가 맞아요. 4번은 Do로 시작했지만, 3인칭 단수 he에는 Does를 써요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → Does, 그 밖의 주어 → Do · 주어 뒤 동사는 원형",
+   "narration": "정답은 2번이에요. 기억할 것, Do나 Does는 주어에 맞춰 고르고, 주어 뒤의 동사는 원형으로 써요."
+  },
+  "captions": [
+   "일반동사 현재형과 Do, Does",
+   "먼저 풀어 보세요",
+   "주어에 맞는 동사 모양과 Do, Does",
+   "주어 → 철자 → 의문문",
+   "정답 ② Does your dog bark …",
+   "Do, Does는 주어에 맞게, 뒤는 원형"
+  ],
+  "sec": [
+   12,
+   18,
+   32,
+   36,
+   24,
+   11
+  ]
+ },
+ "D": {
+  "title": "일반동사 현재형과 Do, Does 의문문",
+  "intro": "이 문제는 일반동사 현재형과 Do, Does 의문문을 바르게 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 옳은 문장을 고르세요. 다섯 문장 가운데 문법에 맞는 문장 하나를 찾아야 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "3인칭 단수 주어(he, she, it, Tom) → 일반동사 + s/es, have → has",
+    "s, sh, ch, x, o로 끝나면 + es (go → goes) · 자음 + y는 y → i + es (cry → cries)",
+    "Do, Does 의문문: 3인칭 단수 주어 → Does / I, you, 복수 주어 → Do",
+    "Do, Does + 주어 + 동사원형",
+    "예) She swims. (그녀는 수영해요.)  Does she swim? (그녀는 수영하니?)"
+   ],
+   "narration": "일반동사 현재형은 평소 하는 일이나 사실을 말하고, he, she 같은 3인칭 단수 주어에만 s나 es를 붙여요. have는 has가 되고, sh로 끝나면 es를 붙이고, 자음 다음 y는 ies로 바꿔요. Do나 Does로 물을 때는 3인칭 단수 주어면 Does, 아니면 Do, 동사는 원형이에요. She swims, 그녀는 수영해요. Does she swim? 그녀는 수영하니?"
+  },
+  "steps": [
+   {
+    "note": "Jiho, She(3인칭 단수): fly(자음 + y) → flies, wash(sh) → washes",
+    "highlight": [
+     "flys",
+     "washs"
+    ],
+    "strike": [
+     "① Jiho flys a kite.",
+     "② She washs her car."
+    ],
+    "narration": "첫째, 1번 Jiho와 2번 She는 3인칭 단수라 s형을 쓰는데, fly는 자음 다음에 y로 끝나서 flies, wash는 sh로 끝나서 washes가 돼요."
+   },
+   {
+    "note": "The bus = 버스 한 대(3인칭 단수) → stops",
+    "highlight": [
+     "The bus stop"
+    ],
+    "strike": [
+     "④ The bus stop here."
+    ],
+    "narration": "둘째, 4번 The bus도 3인칭 단수라 stop이 아니라 stops를 써요."
+   },
+   {
+    "note": "의문문: we → Do / your parents(복수) + Do + 동사원형 cook ✓",
+    "highlight": [
+     "Does we",
+     "⑤ Do your parents cook dinner?"
+    ],
+    "strike": [
+     "③ Does we have time?"
+    ],
+    "narration": "셋째, 의문문 3번 we에는 Does가 아니라 Do를 써요. 5번은 복수 주어 your parents에 Do와 동사원형 cook을 바르게 썼어요. Do your parents cook dinner? 너의 부모님은 저녁 식사를 요리하시니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Jiho flys a kite.  ✗  자음 + y인 fly → flies",
+    "② She washs her car.  ✗  sh로 끝나는 wash → washes",
+    "③ Does we have time?  ✗  주어 we에는 Do",
+    "④ The bus stop here.  ✗  3인칭 단수 The bus에는 stops",
+    "⑤ Do your parents cook dinner?  ✓  복수 your parents + Do + 동사원형 cook"
+   ],
+   "narration": "정답은 5번이에요. 4번은 bus가 s로 끝나서 여러 대처럼 보이지만, The bus는 한 대라 stops를 써요. 1번은 s를 붙였지만, fly는 y를 i로 바꾸고 es를 붙인 flies가 맞아요. 3번 we에는 Does가 아니라 Do를 써요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → Does, 그 밖의 주어 → Do · 주어 뒤 동사는 원형",
+   "narration": "정답은 5번이에요. 기억할 것, Do나 Does는 주어에 맞춰 고르고, 주어 뒤의 동사는 원형으로 써요."
+  },
+  "captions": [
+   "일반동사 현재형과 Do, Does",
+   "먼저 풀어 보세요",
+   "주어에 맞는 동사 모양과 Do, Does",
+   "철자 → 주어 → 의문문",
+   "정답 ⑤ Do your parents cook …",
+   "Do, Does는 주어에 맞게, 뒤는 원형"
+  ],
+  "sec": [
+   12,
+   18,
+   32,
+   36,
+   24,
+   11
+  ]
+ },
+ "E": {
+  "title": "일반동사 현재형과 Do, Does 의문문",
+  "intro": "이 문제는 일반동사 현재형과 Do, Does 의문문을 바르게 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 옳은 문장을 고르세요. 다섯 문장 가운데 문법에 맞는 문장 하나를 찾아야 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "3인칭 단수 주어(he, she, it, Tom) → 일반동사 + s/es, have → has",
+    "s, sh, ch, x, o로 끝나면 + es (go → goes) · 자음 + y는 y → i + es (cry → cries)",
+    "Do, Does 의문문: 3인칭 단수 주어 → Does / I, you, 복수 주어 → Do",
+    "Do, Does + 주어 + 동사원형",
+    "예) He reads books. (그는 책을 읽어요.)  Does he read books? (그는 책을 읽니?)"
+   ],
+   "narration": "일반동사 현재형은 평소 하는 일이나 사실을 말하고, he, she, it 같은 3인칭 단수 주어에만 s나 es를 붙여요. have는 has가 되고, 자음 다음 y로 끝나면 y를 ies로 바꿔요. Do나 Does로 물을 때는 3인칭 단수 주어면 Does, 아니면 Do를 쓰고, 동사는 원형이에요. He reads books, 그는 책을 읽어요. Does he read books? 그는 책을 읽니?"
+  },
+  "steps": [
+   {
+    "note": "평서문: You → look / My uncle(3인칭 단수) + teach(ch) → teaches",
+    "highlight": [
+     "You looks",
+     "My uncle teach"
+    ],
+    "strike": [
+     "③ You looks tired.",
+     "⑤ My uncle teach math."
+    ],
+    "narration": "첫째, 평서문 3번 You는 3인칭 단수가 아니라서 look, 5번 My uncle은 3인칭 단수라 ch로 끝나는 teach에 es를 붙인 teaches를 써야 해요."
+   },
+   {
+    "note": "He는 3인칭 단수지만 try는 자음 + y → tries",
+    "highlight": [
+     "trys"
+    ],
+    "strike": [
+     "② He trys his best."
+    ],
+    "narration": "둘째, 2번 He는 3인칭 단수지만, try는 자음 다음에 y로 끝나서 tries로 써야 해요."
+   },
+   {
+    "note": "의문문: the baby → Does / Jane(3인칭 단수) + Does + 동사원형 study ✓",
+    "highlight": [
+     "Do the baby",
+     "① Does Jane study English?"
+    ],
+    "strike": [
+     "④ Do the baby cry a lot?"
+    ],
+    "narration": "셋째, 의문문 4번 the baby는 3인칭 단수라 Does를 써야 해요. 1번은 3인칭 단수 주어 Jane에 Does와 동사원형 study를 바르게 썼어요. Does Jane study English? 제인은 영어를 공부하니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Does Jane study English?  ✓  3인칭 단수 Jane + Does + 동사원형 study",
+    "② He trys his best.  ✗  자음 + y인 try → tries",
+    "③ You looks tired.  ✗  주어 You에는 동사원형 look",
+    "④ Do the baby cry a lot?  ✗  3인칭 단수 the baby에는 Does",
+    "⑤ My uncle teach math.  ✗  3인칭 단수 My uncle에는 teaches"
+   ],
+   "narration": "정답은 1번이에요. 1번은 Jane이 3인칭 단수인데 study에 s가 없어서 틀려 보일 수 있어요. 하지만 Does를 쓰면 동사는 원형으로 써요. 4번은 the baby가 한 명이라 Do가 아니라 Does를 써요. 2번은 s를 붙였지만, try는 y를 i로 바꾸고 es를 붙인 tries가 맞아요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → Does, 그 밖의 주어 → Do · 주어 뒤 동사는 원형",
+   "narration": "정답은 1번이에요. 기억할 것, Do나 Does는 주어에 맞춰 고르고, 주어 뒤의 동사는 원형으로 써요."
+  },
+  "captions": [
+   "일반동사 현재형과 Do, Does",
+   "먼저 풀어 보세요",
+   "주어에 맞는 동사 모양과 Do, Does",
+   "주어 → 철자 → 의문문",
+   "정답 ① Does Jane study English?",
+   "Do, Does는 주어에 맞게, 뒤는 원형"
+  ],
+  "sec": [
+   12,
+   18,
+   32,
+   37,
+   27,
+   11
+  ]
+ },
+ "F": {
+  "title": "일반동사 현재형의 의문문과 부정문",
+  "intro": "이 문제는 일반동사 현재형과 의문문, 부정문을 바르게 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 옳은 문장을 고르세요. 다섯 문장 가운데 문법에 맞는 문장 하나를 찾아야 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "3인칭 단수 주어(he, she, it, Tom) → 일반동사 + s/es, have → has",
+    "s, sh, ch, x, o로 끝나면 + es (go → goes, fix → fixes)",
+    "Do, Does 의문문 · don't, doesn't 부정문: 3인칭 단수 주어 → Does, doesn't / 그 밖의 주어 → Do, don't",
+    "Do, Does, don't, doesn't를 쓰면 그 뒤 동사는 원형",
+    "예) He doesn't eat fish. (그는 생선을 먹지 않아요.)"
+   ],
+   "narration": "일반동사 현재형은 평소 하는 일이나 사실을 말하고, he, she, it 같은 3인칭 단수 주어에만 s나 es를 붙여요. have는 has가 돼요. Do, Does로 묻거나 don't, doesn't로 부정할 때 3인칭 단수 주어는 Does와 doesn't, 다른 주어는 Do와 don't를 써요. 그 뒤 동사는 원형이에요. He doesn't eat fish, 그는 생선을 먹지 않아요."
+  },
+  "steps": [
+   {
+    "note": "평서문: The girls(복수) → sing / Tom(3인칭 단수) + miss(s) → misses",
+    "highlight": [
+     "The girls sings",
+     "Tom miss"
+    ],
+    "strike": [
+     "① The girls sings well.",
+     "③ Tom miss his mom."
+    ],
+    "narration": "첫째, 평서문 1번 The girls는 복수라 동사원형 sing, 3번 Tom은 3인칭 단수라 s로 끝나는 miss에 es를 붙인 misses를 써야 해요."
+   },
+   {
+    "note": "부정문: We → doesn't가 아니라 don't",
+    "highlight": [
+     "We doesn't"
+    ],
+    "strike": [
+     "⑤ We doesn't like carrots."
+    ],
+    "narration": "둘째, 부정문 5번 We는 3인칭 단수가 아니라서 doesn't가 아니라 don't를 써요."
+   },
+   {
+    "note": "의문문: Does 뒤 rains → rain / they + Do + 동사원형 play ✓",
+    "highlight": [
+     "Does it rains",
+     "④ Do they play soccer?"
+    ],
+    "strike": [
+     "② Does it rains a lot here?"
+    ],
+    "narration": "셋째, 의문문 2번은 Does를 썼으니 rains가 아니라 동사원형 rain을 써요. 4번은 주어 they에 Do와 동사원형 play를 바르게 썼어요. Do they play soccer? 그들은 축구를 하니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The girls sings well.  ✗  복수 The girls에는 동사원형 sing",
+    "② Does it rains a lot here?  ✗  Does를 쓰면 동사는 원형 rain",
+    "③ Tom miss his mom.  ✗  3인칭 단수 Tom에는 misses",
+    "④ Do they play soccer?  ✓  주어 they + Do + 동사원형 play",
+    "⑤ We doesn't like carrots.  ✗  주어 We에는 don't"
+   ],
+   "narration": "정답은 4번이에요. 2번은 it이 3인칭 단수라 rains가 맞아 보이지만, Does를 쓰면 동사는 원형 rain으로 써요. 1번은 sings가 맞아 보여도, The girls는 여러 명이라 sing을 써요. 5번 We에는 doesn't가 아니라 don't를 써요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → Does, doesn't / 그 밖의 주어 → Do, don't · 그 뒤 동사는 원형",
+   "narration": "정답은 4번이에요. 기억할 것, Do, Does, don't, doesn't는 주어에 맞춰 고르고, 그 뒤 동사는 원형으로 써요."
+  },
+  "captions": [
+   "일반동사 현재형의 의문문·부정문",
+   "먼저 풀어 보세요",
+   "주어에 맞는 동사, Do, Does, don't, doesn't",
+   "평서문 → 부정문 → 의문문",
+   "정답 ④ Do they play soccer?",
+   "Do, Does, don't, doesn't + 원형"
+  ],
+  "sec": [
+   12,
+   18,
+   32,
+   35,
+   24,
+   12
+  ]
+ }
+}

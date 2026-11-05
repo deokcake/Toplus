@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:17:32.733Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "The hotel where we stayed last summer was very close to the beach.",
+      "1": "I'll never forget the moment when I heard the good news from my teacher.",
+      "2": "That is why I was late for the important meeting this morning.",
+      "3": "This is the way she solves difficult math problems so quickly.",
+      "4": "Please show me the way how you made this robot for the science fair."
+    },
+    "expl": "핵심 규칙: 선행사에 맞춰 시간은 when, 장소는 where, 이유는 why를 쓴다. 방법은 the way 또는 how 중 하나만 쓰고 the way how로 겹쳐 쓰지 않는다.\n풀이 순서: ① 문장마다 선행사와 관계부사의 짝을 확인한다. 때 - when, 장소 - where, 이유 - why가 맞는 짝이다. → ② 방법을 나타낼 때만 선행사 the way와 관계부사 how를 함께 쓰지 못한다. → ③ 선택지 ⑤는 the way how를 함께 썼으므로 틀렸다.\n문장별 판정:\n정답 판단: the way와 how를 겹쳐 썼다. the way 또는 how 하나만 써야 한다. 틀린 문장이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 장소 선행사 뒤에 where를 썼다. 올바르므로 오답이다.\n② [오답] 시간 선행사 뒤에 when을 썼다. 올바르므로 오답이다.\n③ [오답] why 하나로 이유를 나타냈다. 올바르므로 오답이다.\n④ [오답] the way 하나로 방법을 나타냈다. 올바르므로 오답이다.\n⑤ [정답] the way와 how를 겹쳐 썼다. the way 또는 how 하나만 써야 한다. 틀린 문장이므로 정답이다.",
+    "passage": "",
+    "stem": "다음 중 어법상 올바르지 않은 문장을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:41:50.225Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:41:55.433Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:30:22.061Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T04:30:22.061Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:30:22.061Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

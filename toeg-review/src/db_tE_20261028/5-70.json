@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:23:11.043Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "'twenty cent'만 'twenty cents'로 고치면 된다.",
+      "1": "금액 사이의 and는 쓰지 않으므로 'five dollar, twenty cent'로 고쳐야 한다.",
+      "2": "'five dollar'만 'five dollars'로 고치면 된다.",
+      "3": "'five dollar and twenty cent'는 'five dollars and twenty cents'로 둘 다 고쳐야 한다.",
+      "4": "'It'은 앞의 a toy car를 가리키므로 'They'로 고쳐야 한다."
+    },
+    "expl": "핵심 규칙: 금액은 1이면 단수(one dollar, one cent), 2 이상이면 복수(two dollars, fifty cents)로 쓴다. 달러와 센트 사이에는 and를 쓸 수 있다.\n풀이 순서: ① 밑줄 친 부분을 수와 단위로 나눈다: five + dollar / twenty + cent. → ② 수가 1이면 단수, 2 이상이면 복수인지 하나씩 본다. five dollar → five dollars, twenty cent → twenty cents. → ③ 발문이 ‘모두’ 찾으라고 했으므로 틀린 곳을 빠짐없이 고친 것을 고른다. 정답은 ④.\n문장별 판정:\n정답 판단: 5달러와 20센트는 모두 복수라 두 군데를 모두 바르게 고쳤으므로 정답은 ④이다.\n선택지 분석:\n① [오답] five dollar도 5달러라 five dollars로 고쳐야 하므로 오답이다.\n② [오답] 달러와 센트 사이에 and를 쓸 수 있고, 틀린 곳은 dollar와 cent이므로 오답이다.\n③ [오답] twenty cent도 20센트라 twenty cents로 고쳐야 하므로 오답이다.\n④ [정답] 5달러와 20센트는 모두 복수라 두 군데를 모두 바르게 고쳤으므로 정답이다.\n⑤ [오답] a toy car는 하나라 It이 맞으므로 오답이다.",
+    "passage": "Tom finds a toy car in a store. It is <u>five dollar and twenty cent</u>. He really likes it.",
+    "stem": "다음 지문에서 밑줄 친 부분의 어법상 틀린 점을 모두 찾아 바르게 고쳐 설명한 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:23:09.216Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:23:11.043Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:23:11.043Z",
+      "what": "확인 완료"
+    }
+  }
+}

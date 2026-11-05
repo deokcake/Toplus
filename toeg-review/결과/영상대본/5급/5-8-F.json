@@ -1,0 +1,180 @@
+{
+ "key": "5-8",
+ "type": "F",
+ "grade": 5,
+ "chapter": "CH 1 대명사",
+ "title": "s로 끝나는 복수 명사 boys의 소유격",
+ "total_sec": 130,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 1 대명사 · 8번 · F 유형\n\n이 문제는 belong to the boys와 같은 뜻이 되도록 빈칸에 알맞은 the boys의 소유격을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 1 대명사 · 8번 · F 유형",
+     "이 문제는 belong to the boys와 같은 뜻이 되도록 빈칸에 알맞은 the boys의 소유격을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 1, 8번 F 유형. 이 문제는 belong to the boys와 같은 뜻이 되도록 빈칸에 알맞은 the boys의 소유격을 고르는 문제예요.",
+   "caption": "the boys의 소유격 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르세요.\n\nThose shoes belong to the boys.\n= Those are ________ shoes.\n\n① the boys is\n② the boys\n③ the boy\n④ the boys'\n⑤ the boy's",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르세요.",
+     "Those shoes belong to the boys.",
+     "= Those are ________ shoes.",
+     "① the boys is",
+     "② the boys",
+     "③ the boy",
+     "④ the boys'",
+     "⑤ the boy's"
+    ]
+   },
+   "narration": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르세요. Those shoes belong to the boys. Those are 빈칸 shoes. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\nA belongs to B. = A is B's ~.  (물건 A는 주인 B의 것)\n단수 명사 → 's   Dad → Dad's (아빠의)\ns로 끝나는 복수 명사 → '만   the cats → the cats' (고양이들의)\ns로 끝나지 않는 복수 명사 → 's   the men → the men's (남자들의)\n예) These balls belong to the girls. = These are the girls' balls. (이것들은 그 소녀들의 공이에요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "A belongs to B. = A is B's ~.  (물건 A는 주인 B의 것)",
+     "단수 명사 → 's   Dad → Dad's (아빠의)",
+     "s로 끝나는 복수 명사 → '만   the cats → the cats' (고양이들의)",
+     "s로 끝나지 않는 복수 명사 → 's   the men → the men's (남자들의)",
+     "예) These balls belong to the girls. = These are the girls' balls. (이것들은 그 소녀들의 공이에요.)"
+    ]
+   },
+   "narration": "물건 뒤에 belong to와 주인이 오면 그 물건이 주인의 것이라는 뜻이고, 주인을 소유격으로 바꿔 물건 앞에 써도 같은 뜻이에요. 명사의 소유격은 단수 명사와 men처럼 s로 끝나지 않는 복수 명사에는 아포스트로피 에스를, s로 끝나는 복수 명사에는 아포스트로피만 붙여요. These balls belong to the girls, 이 공들은 그 소녀들의 것이에요. girls는 s로 끝나는 복수 명사라 아포스트로피만 붙여요. These are the girls' balls, 이것들은 그 소녀들의 공이에요.",
+   "caption": "belong to와 명사의 소유격"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르세요.\n\nThose shoes belong to the boys.\n= Those are ________ shoes.\n\n① the boys is\n② the boys\n③ the boy\n④ the boys'\n⑤ the boy's",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "belong to the boys."
+      ],
+      "strike": [],
+      "note": "belong to 뒤 = 주인 → the boys (여러 소년 = s로 끝나는 복수 명사)"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "________ shoes."
+      ],
+      "strike": [
+       "② the boys",
+       "③ the boy",
+       "① the boys is"
+      ],
+      "note": "빈칸 = 명사 shoes 앞 → ‘소년들의’ 소유격 자리. 아포스트로피가 없는 the boys·the boy, be동사 is를 붙인 the boys is 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ the boys'"
+      ],
+      "strike": [
+       "⑤ the boy's"
+      ],
+      "note": "boys = s로 끝나는 복수 명사 → '만. 단수의 소유격 the boy's(한 소년의) 지움 → the boys'"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, belong to 뒤의 주인은 the boys, 여러 소년이에요. 둘째, 빈칸은 명사 shoes 앞이라 소년들의라는 뜻의 소유격이 와야 해요. 그래서 아포스트로피가 없는 2번 the boys와 3번 the boy, be동사 is를 붙인 1번은 지워요. 셋째, boys는 s로 끝나는 복수 명사라 아포스트로피만 붙이니, 한 소년의라는 뜻인 5번은 지우고 4번 the boys'가 남아요. Those are the boys' shoes, 저것들은 그 소년들의 신발이에요.",
+   "caption": "주인 the boys → '만"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 30,
+   "screen": {
+    "text": "① the boys is  ✗  소유격이 아니에요 (복수 주어 the boys에는 is를 쓰지 않아요)\n② the boys  ✗  '가 없어 ‘소년들의’라는 뜻이 되지 않아요\n③ the boy  ✗  한 소년이고 소유격도 아니에요\n④ the boys'  ✓  s로 끝나는 복수 명사 boys + '만 → 소년들의\n⑤ the boy's  ✗  단수의 소유격(한 소년의) · 주인은 여러 소년이에요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① the boys is  ✗  소유격이 아니에요 (복수 주어 the boys에는 is를 쓰지 않아요)",
+     "② the boys  ✗  '가 없어 ‘소년들의’라는 뜻이 되지 않아요",
+     "③ the boy  ✗  한 소년이고 소유격도 아니에요",
+     "④ the boys'  ✓  s로 끝나는 복수 명사 boys + '만 → 소년들의",
+     "⑤ the boy's  ✗  단수의 소유격(한 소년의) · 주인은 여러 소년이에요"
+    ]
+   },
+   "narration": "정답은 4번 the boys'예요. 5번 the boy's는 아포스트로피 에스를 붙였지만, boy가 단수라 한 소년의라는 뜻이에요. 주인은 여러 소년인 the boys라서 맞지 않아요. 1번 the boys is는 소유격이 아니고, 복수 주어 the boys에는 is가 아니라 are를 써요. 2번 the boys는 아포스트로피가 없어서 소유격이 아니에요.",
+   "caption": "정답 ④ the boys'"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ④ the boys'\n\ns로 끝나는 복수 명사(boys, girls)의 소유격 → '만",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ the boys'",
+     "s로 끝나는 복수 명사(boys, girls)의 소유격 → '만"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, s로 끝나는 복수 명사는 아포스트로피만 붙여 소유격을 만들어요.",
+   "caption": "s로 끝나는 복수 + '"
+  }
+ ],
+ "source": {
+  "stem": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르세요.",
+  "passage": "Those shoes belong to the boys.\n= Those are ________ shoes.",
+  "c": [
+   "the boys is",
+   "the boys",
+   "the boy",
+   "the boys'",
+   "the boy's"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: A belongs to B = A is B's ~. 명사의 소유격: 단수는 's, -s로 끝나는 복수는 '만, -s로 끝나지 않는 복수(children)는 's를 붙인다.\n풀이 순서: ① belong to 뒤에서 주인을 찾는다: the boys(-s로 끝나는 복수). → ② 주인을 명사 앞으로 옮기고 소유격으로 만든다: '만 붙인다. → ③ 정답은 the boys'.\n문장별 판정:\n정답 판단: boys는 -s로 끝나는 복수 명사이므로 끝에 apostrophe만 붙여 boys'로 쓴다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] the boys is는 소유격이 아니며 복수 주어 boys와 단수 is의 수 일치도 맞지 않는다. 소유격 the boys'를 쓴다.\n② [오답] 복수 명사 boys에 소유격 표지가 빠져 있다. boys'로 고친다.\n③ [오답] boy는 단수이고 소유격 표지도 없다. 여러 소년의 소유는 the boys'이다.\n④ [정답] boys는 -s로 끝나는 복수 명사이므로 끝에 apostrophe만 붙여 boys'로 쓴다.\n⑤ [오답] boy's는 한 소년의 소유를 나타낸다. 앞 문장의 여러 소년을 받으려면 boys'가 필요하다."
+ }
+}

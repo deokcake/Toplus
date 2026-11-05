@@ -1,0 +1,181 @@
+{
+ "key": "4-2",
+ "type": "A",
+ "grade": 4,
+ "chapter": "CH 1 명사와 관사",
+ "title": "셀 수 있는 명사와 셀 수 없는 명사",
+ "total_sec": 125,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "4급 · CH 1 명사와 관사 · 2번\n\n이 문제는 다섯 개의 명사 가운데 셀 수 있는 명사를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 1 명사와 관사 · 2번",
+     "이 문제는 다섯 개의 명사 가운데 셀 수 있는 명사를 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 1, 2번. 이 문제는 다섯 개의 명사 가운데 셀 수 있는 명사를 고르는 문제예요.",
+   "caption": "셀 수 있는 명사 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 셀 수 있는 명사를 고르시오.\n\n① sugar\n② freedom\n③ monkey\n④ water\n⑤ music",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 셀 수 있는 명사를 고르시오.",
+     "① sugar",
+     "② freedom",
+     "③ monkey",
+     "④ water",
+     "⑤ music"
+    ]
+   },
+   "narration": "다음 중 셀 수 있는 명사를 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n하나, 둘 셀 수 있는 명사 → 하나일 때 a/an, 둘 이상이면 복수형 (a dog, two dogs)\n셀 수 없는 명사 → a/an을 붙이지 않고, 복수형도 쓰지 않아요\nsalt(소금) 같은 물질이나 peace(평화) 같은 추상적인 것 → 보통 셀 수 없어요\n예) I have two dogs. I love peace. (나는 개가 두 마리 있어요. 나는 평화를 사랑해요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "하나, 둘 셀 수 있는 명사 → 하나일 때 a/an, 둘 이상이면 복수형 (a dog, two dogs)",
+     "셀 수 없는 명사 → a/an을 붙이지 않고, 복수형도 쓰지 않아요",
+     "salt(소금) 같은 물질이나 peace(평화) 같은 추상적인 것 → 보통 셀 수 없어요",
+     "예) I have two dogs. I love peace. (나는 개가 두 마리 있어요. 나는 평화를 사랑해요.)"
+    ]
+   },
+   "narration": "하나, 둘 셀 수 있는 명사는 하나일 때 a나 an을 붙일 수 있고, 둘 이상이면 복수형으로 써요. salt 소금 같은 물질이나 peace 평화 같은 추상적인 것은 보통 셀 수 없어서, a나 an도 복수형도 쓰지 않아요. 예를 들어 I have two dogs, 나는 개가 두 마리 있어요. I love peace, 나는 평화를 사랑해요.",
+   "caption": "셀 수 있는 명사, 셀 수 없는 명사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 셀 수 있는 명사를 고르시오.\n\n① sugar\n② freedom\n③ monkey\n④ water\n⑤ music",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "셀 수 있는 명사"
+      ],
+      "strike": [],
+      "note": "‘셀 수 있는 명사’를 고른다 → 보기마다 a/an을 붙이거나 복수형으로 쓸 수 있는지 본다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① sugar",
+       "④ water"
+      ],
+      "note": "sugar(설탕), water(물) = 물질 → 양으로 말하고 하나, 둘 세지 않는다 → 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [],
+      "strike": [
+       "② freedom",
+       "⑤ music"
+      ],
+      "note": "freedom(자유), music(음악) = 추상적인 것 → 하나, 둘 세지 않는다 → 지운다."
+     },
+     {
+      "step": 4,
+      "highlight": [
+       "③ monkey"
+      ],
+      "strike": [],
+      "note": "남은 monkey(원숭이) → a monkey, two monkeys → 셀 수 있다."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 셀 수 있는 명사를 고르는 문제니까, 보기마다 a나 an을 붙이거나 복수형으로 쓸 수 있는지 따져 봐요. 둘째, sugar 설탕과 water 물은 물질이라 양으로 말하고, 하나, 둘 세지 않아요. 셋째, freedom 자유와 music 음악도 눈에 보이지 않는 추상적인 것이라 하나, 둘 세지 않아요. 넷째, 남은 monkey는 원숭이라서 a monkey, two monkeys처럼 한 마리, 두 마리 셀 수 있어요.",
+   "caption": "물질·추상적인 것 지우기 → monkey"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 29,
+   "screen": {
+    "text": "① sugar  ✗  설탕이라는 물질, 셀 수 없어요\n② freedom  ✗  자유라는 추상적인 것, 셀 수 없어요\n③ monkey  ✓  a monkey, two monkeys처럼 셀 수 있어요\n④ water  ✗  물이라는 물질, 셀 수 없어요\n⑤ music  ✗  음악 전체를 말해요 (노래는 a song으로 세요)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① sugar  ✗  설탕이라는 물질, 셀 수 없어요",
+     "② freedom  ✗  자유라는 추상적인 것, 셀 수 없어요",
+     "③ monkey  ✓  a monkey, two monkeys처럼 셀 수 있어요",
+     "④ water  ✗  물이라는 물질, 셀 수 없어요",
+     "⑤ music  ✗  음악 전체를 말해요 (노래는 a song으로 세요)"
+    ]
+   },
+   "narration": "정답은 3번 monkey예요. monkey는 a monkey, two monkeys처럼 한 마리, 두 마리 셀 수 있어요. 5번 music은 노래를 a song, two songs처럼 세는 것과 달리, 음악이라는 소리 전체를 말해서 셀 수 없어요. 1번 sugar는 설탕이라는 물질이라 하나, 둘 세지 않고 양으로 말해요. 2번 freedom도 자유라는 추상적인 것이라 하나, 둘 세지 않아요.",
+   "caption": "정답 ③ monkey"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ monkey\n\na/an, 복수형을 쓸 수 있으면 셀 수 있는 명사 (a monkey, two monkeys)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ monkey",
+     "a/an, 복수형을 쓸 수 있으면 셀 수 있는 명사 (a monkey, two monkeys)"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, a나 an을 붙이거나 복수형으로 쓸 수 있으면 셀 수 있는 명사예요.",
+   "caption": "a/an·복수형 가능 = 셀 수 있음"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+  "passage": "",
+  "c": [
+   "sugar",
+   "freedom",
+   "monkey",
+   "water",
+   "music"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 셀 수 있는 명사는 a/an을 붙이거나 복수형으로 쓸 수 있다. 물질(sugar, water)과 추상적인 것(freedom, music)은 셀 수 없다.\n풀이 순서: ① 낱말마다 a/an을 붙이거나 복수형(-s)으로 쓸 수 있는지 따져 본다. → ② 하나, 둘로 세지 않고 양으로 다루는 명사를 지운다: sugar, freedom, water, music. → ③ 하나씩 셀 수 있는 것은 monkey뿐이다.\n문장별 판정:\n정답 판단: monkey는 한 마리, 두 마리로 셀 수 있으므로 정답은 ③이다.\n선택지 분석:\n① [오답] sugar는 물질이라 셀 수 없으므로 오답이다.\n② [오답] freedom은 추상적인 것이라 셀 수 없으므로 오답이다.\n③ [정답] monkey는 한 마리, 두 마리로 셀 수 있으므로 정답이다.\n④ [오답] water는 물질이라 셀 수 없으므로 오답이다.\n⑤ [오답] music은 하나, 둘로 셀 수 없으므로 오답이다."
+ }
+}

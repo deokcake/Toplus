@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:56:52.784Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "The store opens <u>on</u> ten.",
+      "1": "I play games <u>in</u> Sunday.",
+      "2": "We met <u>at</u> 2020.",
+      "3": "She is <u>on</u> school.",
+      "4": "The keys are <u>in</u> my bag."
+    },
+    "expl": "핵심 규칙: 시각·정오·밤 앞에는 at, 요일·날짜 앞에는 on, 월·계절·연도·오전/오후/저녁 앞에는 in을 쓴다. 장소는 특정 지점에 at, 표면 위에 on, 안쪽이나 도시·나라에 in을 쓴다.\n풀이 순서: ① 밑줄 뒤의 말을 종류별로 가른다(시각, 요일·날짜, 달·계절·연도, 장소). → ② 맞는 전치사를 떠올려 밑줄과 견준다. → ③ 선택지 ⑤만 옳다(in my bag). ① at ten, ② on Sunday, ③ in 2020, ④ at school. 정답은 ⑤.\n문장별 판정:\n정답 판단: 안쪽 공간인 my bag 앞에 in을 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 시각 앞에는 at을 써야 하므로 오답이다.\n② [오답] 요일 앞에는 on을 써야 하므로 오답이다.\n③ [오답] 연도 앞에는 in을 써야 하므로 오답이다.\n④ [오답] ‘학교에’는 at school로 써야 하므로 오답이다.\n⑤ [정답] 안쪽 공간인 my bag 앞에 in을 바르게 썼으므로 정답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:56:45.036Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:56:52.784Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:56:52.784Z",
+      "what": "확인 완료"
+    }
+  }
+}

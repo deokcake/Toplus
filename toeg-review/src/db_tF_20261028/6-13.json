@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:07:53.300Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Are - am",
+      "1": "Am - aren't",
+      "2": "Is - aren't",
+      "3": "Am - isn't",
+      "4": "Are - aren't"
+    },
+    "expl": "핵심 규칙: 현재형 be동사는 주어가 I면 am, you·복수면 are, 3인칭 단수면 is를 쓴다. 의문문은 be동사 + 주어 ~?이고, I로 물으면 you로 답한다.\n풀이 순서: ① 질문의 주어를 본다: I → Am. → ② 대답의 주어와 Yes/No를 본다: No, you → aren't. → ③ 정답은 Am - aren't.\n문장별 판정:\n정답 판단: 주어 I에 Am, 부정 대답의 you에 aren't를 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 주어 I에는 Are가 아니라 Am을 쓰고, 대답의 주어 you에는 am을 쓸 수 없으므로 오답이다.\n② [정답] 주어 I에 Am, 부정 대답의 you에 aren't를 바르게 썼으므로 정답이다.\n③ [오답] 주어 I에는 Is가 아니라 Am을 써야 하므로 오답이다.\n④ [오답] 대답의 주어 you에는 isn't가 아니라 aren't를 써야 하므로 오답이다.\n⑤ [오답] 주어 I에는 Are가 아니라 Am을 써야 하므로 오답이다.",
+    "passage": "A: _______ I late for the class?\nB: No, you _______.",
+    "stem": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:07:51.616Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:07:53.300Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:07:53.300Z",
+      "what": "확인 완료"
+    }
+  }
+}

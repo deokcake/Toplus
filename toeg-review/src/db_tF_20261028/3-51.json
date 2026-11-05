@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:33:18.538Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Tom had better to go to bed early.",
+      "1": "Tom had better going to bed early.",
+      "2": "Tom had better go to bed early.",
+      "3": "Tom may go to bed early.",
+      "4": "Tom can go to bed early."
+    },
+    "expl": "핵심 규칙: 조동사(must, should, may, can)와 had better 뒤에는 동사원형을 쓴다. had better는 ‘~하는 것이 좋겠다’는 충고를 나타낸다.\n풀이 순서: ① 우리말의 끝(‘~하는 것이 좋겠다’)에 맞는 조동사를 고른다: had better. → ② 조동사 뒤에는 동사원형을 쓴다. to나 -ing가 붙은 보기를 지운다. → ③ 조동사의 뜻이 다른 보기(may ‘~해도 된다’, can ‘~할 수 있다’)도 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: ‘~하는 것이 좋겠다’는 충고의 had better이고 뒤에는 동사원형을 쓰므로 정답은 ③이다.\n선택지 분석:\n① [오답] had better 뒤에는 동사원형을 쓰므로 to를 붙인 to go는 오답이다.\n② [오답] had better 뒤에는 동사원형을 쓰므로 -ing형 going은 오답이다.\n③ [정답] ‘~하는 것이 좋겠다’를 had better + 동사원형으로 바르게 옮겼으므로 정답이다.\n④ [오답] may는 ‘~해도 된다’는 허락이라 우리말 뜻과 맞지 않으므로 오답이다.\n⑤ [오답] can은 ‘~할 수 있다’는 능력이라 우리말 뜻과 맞지 않으므로 오답이다.",
+    "passage": "Tom은 일찍 자는 것이 좋겠다.",
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T12:24:35.244Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T12:25:18.663Z",
+      "text": "should 보다는 had better이 더 적합하지 않나요?"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:33:18.538Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:33:12.035Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:33:18.538Z",
+      "what": "확인 완료"
+    }
+  }
+}

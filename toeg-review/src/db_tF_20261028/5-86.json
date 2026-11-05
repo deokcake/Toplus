@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:57:02.028Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 시각·정오·밤 앞에는 at, 요일·날짜 앞에는 on, 월·계절·연도·오전/오후/저녁 앞에는 in을 쓴다. 장소는 특정 지점에 at, 표면 위에 on, 안쪽이나 도시·나라에 in을 쓴다.\n풀이 순서: ① 빈칸 뒤의 말을 본다: Friday(요일). → ② 그 앞에 쓰는 전치사는 on. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: 요일 Friday 앞에는 on을 쓰므로 정답은 ①이다.\n선택지 분석:\n① [정답] 요일 Friday 앞에는 on을 쓰므로 정답이다.\n② [오답] in은 월·계절·연도 앞에 쓰므로 오답이다.\n③ [오답] at은 시각 앞에 쓰므로 오답이다.\n④ [오답] under는 ‘~ 아래에’라는 장소 전치사이므로 오답이다.\n⑤ [오답] between은 ‘~ 사이에’라는 뜻이므로 오답이다.",
+    "passage": "We have a school trip ________ Friday.",
+    "stem": "다음 빈칸에 들어갈 가장 알맞은 전치사를 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:56:58.580Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:57:02.028Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:57:02.028Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,491 @@
+{
+ "A": {
+  "title": "현재진행형: am, is, are + 동사의 ing형",
+  "intro": "이 문제는 현재진행형의 형태를 따져 어법상 옳은 문장을 모두 고르는 문제예요.",
+  "problem_narration": "다음 보기의 문장 중 어법상 옳은 것을 모두 고른 것은 무엇일까요? 가부터 라까지 네 문장을 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재진행형(…하고 있다): 주로 지금 하고 있는 일",
+    "형태: be동사(am, is, are) + 동사의 ing형",
+    "be동사는 주어에 맞춰요: I → am · 3인칭 단수(he, she, it, Tom) → is · we, you, they, 복수 → are",
+    "현재진행형에서는 be동사를 빼지 않고, be동사 뒤에 동사원형이나 s형을 쓰지 않아요",
+    "예) He is reading a book now. (그는 지금 책을 읽고 있어요.)"
+   ],
+   "narration": "현재진행형은 be동사 am, is, are 뒤에 동사의 ing형을 쓰고, 주로 지금 하고 있는 일을 나타내요. be동사는 주어에 맞춰서, I에는 am, he, she, it처럼 3인칭 단수 주어에는 is, we, you, they나 복수 주어에는 are를 써요. 현재진행형에서는 be동사를 빼지 않고, be동사 뒤에 동사원형이나 s가 붙은 꼴을 쓰지 않아요. 예를 들어 He is reading a book now. 그는 지금 책을 읽고 있어요."
+  },
+  "steps": [
+   {
+    "note": "be동사와 주어: The birds are, The bus is, I am, My mom is → 네 문장 모두 맞음",
+    "highlight": [
+     "The birds are",
+     "The bus is",
+     "I am",
+     "My mom is"
+    ],
+    "strike": [],
+    "narration": "첫째, be동사가 주어와 맞는지 봐요. 복수 주어 The birds에는 are, 3인칭 단수 The bus와 My mom에는 is, I에는 am을 써서 네 문장 모두 맞아요."
+   },
+   {
+    "note": "be동사 뒤: (나) is comes ✗ → is coming, (다) am study ✗ → am studying → (나)·(다)가 든 보기 지움",
+    "highlight": [
+     "is comes",
+     "am study"
+    ],
+    "strike": [
+     "① (가), (나)",
+     "② (나), (다)",
+     "③ (가), (다)",
+     "⑤ (나), (라)"
+    ],
+    "narration": "둘째, be동사 뒤가 ing형인지 봐요. 나 문장은 is 뒤에 comes를 써서 틀렸고, coming을 써야 해요. 다 문장은 am 뒤에 동사원형 study를 써서 틀렸고, studying을 써야 해요. 그래서 나 문장이나 다 문장이 든 보기를 지워요."
+   },
+   {
+    "note": "(가) are singing, (라) is making ✓ → ④ (가), (라)",
+    "highlight": [
+     "are singing",
+     "is making",
+     "④ (가), (라)"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 가 문장과 라 문장은 be동사 뒤에 singing, making을 써서 맞아요. My mom is making sandwiches. 엄마가 샌드위치를 만들고 있어요. 그래서 가와 라를 고른 4번이 남아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (가), (나)  ✗  (나) is comes는 틀림(→ is coming), 옳은 (라)를 빠뜨림",
+    "② (나), (다)  ✗  (나) is comes, (다) am study 둘 다 틀린 문장",
+    "③ (가), (다)  ✗  (다) am study는 틀림(→ am studying), 옳은 (라)를 빠뜨림",
+    "④ (가), (라)  ✓  are singing, is making 둘 다 옳은 문장",
+    "⑤ (나), (라)  ✗  (나) is comes는 틀림, 옳은 (가)를 빠뜨림"
+   ],
+   "narration": "정답은 4번이에요. 나 문장은 주어 The bus가 3인칭 단수라서 comes를 떠올리기 쉬워요. 하지만 be동사 is 뒤에는 ing형 coming을 써야 하니, 1번과 5번은 답이 아니에요. 다 문장도 am 뒤에 동사원형 study를 써서 틀렸으니 3번도 답이 아니에요."
+  },
+  "summary": {
+   "card": "현재진행형 = 주어에 맞는 am, is, are + 동사의 ing형",
+   "narration": "정답은 4번이에요. 기억할 것, 현재진행형은 주어에 맞는 be동사 am, is, are 뒤에 동사의 ing형을 써요."
+  },
+  "captions": [
+   "현재진행형의 형태",
+   "먼저 풀어 보세요",
+   "주어에 맞는 be동사 + ing형",
+   "is comes, am study ✗ → ④",
+   "정답 ④ (가), (라)",
+   "am, is, are + 동사의 ing형"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   40,
+   26,
+   10
+  ]
+ },
+ "B": {
+  "title": "현재진행형: am, is, are + 동사의 ing형",
+  "intro": "이 문제는 현재진행형의 형태를 따져 어법상 옳은 문장을 모두 고르는 문제예요.",
+  "problem_narration": "다음 보기의 문장 중 어법상 옳은 것을 모두 고른 것은 무엇일까요? 가부터 라까지 네 문장을 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재진행형(…하고 있다): 주로 지금 하고 있는 일",
+    "형태: be동사(am, is, are) + 동사의 ing형",
+    "be동사는 주어에 맞춰요: I → am · 3인칭 단수(he, she, it, Tom) → is · we, you, they, 복수 → are",
+    "현재진행형에서는 be동사를 빼지 않고, be동사 뒤에 동사원형이나 s형을 쓰지 않아요",
+    "예) He is reading a book now. (그는 지금 책을 읽고 있어요.)"
+   ],
+   "narration": "현재진행형은 be동사 am, is, are 뒤에 동사의 ing형을 쓰고, 주로 지금 하고 있는 일을 나타내요. be동사는 주어에 맞춰서, I에는 am, he, she, it처럼 3인칭 단수 주어에는 is, we, you, they나 복수 주어에는 are를 써요. 현재진행형에서는 be동사를 빼지 않고, be동사 뒤에 동사원형이나 s가 붙은 꼴을 쓰지 않아요. 예를 들어 He is reading a book now. 그는 지금 책을 읽고 있어요."
+  },
+  "steps": [
+   {
+    "note": "be동사와 주어: The students are, Mina is, I am ✓ / (라) The dog are ✗ → The dog is → (라)가 든 보기 지움",
+    "highlight": [
+     "The students are",
+     "Mina is",
+     "I am",
+     "The dog are"
+    ],
+    "strike": [
+     "① (나), (라)",
+     "③ (다), (라)",
+     "⑤ (가), (라)"
+    ],
+    "narration": "첫째, be동사가 주어와 맞는지 봐요. The students에는 are, Mina에는 is, I에는 am을 써서 맞아요. 하지만 라 문장은 주어가 The dog 한 마리라서 are가 아니라 is를 써야 해요. 그래서 라 문장이 든 1번, 3번, 5번을 지워요."
+   },
+   {
+    "note": "be동사 뒤: (나) is sings ✗ → is singing → ② 지움",
+    "highlight": [
+     "is sings"
+    ],
+    "strike": [
+     "② (가), (나)"
+    ],
+    "narration": "둘째, be동사 뒤가 ing형인지 봐요. 나 문장은 is 뒤에 s가 붙은 sings를 써서 틀렸고, singing을 써야 해요. 그래서 2번도 지워요."
+   },
+   {
+    "note": "(가) are preparing, (다) am waiting ✓ → ④ (가), (다)",
+    "highlight": [
+     "are preparing",
+     "am waiting",
+     "④ (가), (다)"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 4번의 가 문장과 다 문장은 be동사 뒤에 preparing, waiting을 써서 맞아요. I am waiting for my turn. 나는 내 차례를 기다리고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (나), (라)  ✗  (나) is sings, (라) The dog are 둘 다 틀린 문장",
+    "② (가), (나)  ✗  (나) is sings는 틀림(→ is singing), 옳은 (다)를 빠뜨림",
+    "③ (다), (라)  ✗  (라) The dog are는 틀림(→ The dog is), 옳은 (가)를 빠뜨림",
+    "④ (가), (다)  ✓  are preparing, am waiting 둘 다 옳은 문장",
+    "⑤ (가), (라)  ✗  (라) The dog are는 틀림, 옳은 (다)를 빠뜨림"
+   ],
+   "narration": "정답은 4번이에요. 라 문장은 be동사 뒤에 chasing이 있어서 맞아 보이지만, 주어 The dog 한 마리에는 is를 써야 해요. 그래서 3번과 5번은 답이 아니에요. 나 문장은 Mina가 3인칭 단수라서 sings를 떠올리기 쉽지만, is 뒤에는 ing형 singing을 써요. 그래서 2번도 답이 아니에요."
+  },
+  "summary": {
+   "card": "현재진행형 = 주어에 맞는 am, is, are + 동사의 ing형",
+   "narration": "정답은 4번이에요. 기억할 것, 현재진행형은 주어에 맞는 be동사 am, is, are 뒤에 동사의 ing형을 써요."
+  },
+  "captions": [
+   "현재진행형의 형태",
+   "먼저 풀어 보세요",
+   "주어에 맞는 be동사 + ing형",
+   "The dog are, is sings ✗ → ④",
+   "정답 ④ (가), (다)",
+   "am, is, are + 동사의 ing형"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   40,
+   28,
+   10
+  ]
+ },
+ "C": {
+  "title": "현재진행형: am, is, are + 동사의 ing형",
+  "intro": "이 문제는 현재진행형의 형태를 따져 어법상 옳은 문장을 모두 고르는 문제예요.",
+  "problem_narration": "다음 보기의 문장 중 어법상 옳은 것을 모두 고른 것은 무엇일까요? 가부터 라까지 네 문장을 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재진행형(…하고 있다): 주로 지금 하고 있는 일",
+    "형태: be동사(am, is, are) + 동사의 ing형",
+    "be동사는 주어에 맞춰요: I → am · 3인칭 단수(he, she, it, Tom) → is · we, you, they, 복수 → are",
+    "현재진행형에서는 be동사를 빼지 않고, be동사 뒤에 동사원형이나 s형을 쓰지 않아요",
+    "예) He is reading a book now. (그는 지금 책을 읽고 있어요.)"
+   ],
+   "narration": "현재진행형은 be동사 am, is, are 뒤에 동사의 ing형을 쓰고, 주로 지금 하고 있는 일을 나타내요. be동사는 주어에 맞춰서, I에는 am, he, she, it처럼 3인칭 단수 주어에는 is, we, you, they나 복수 주어에는 are를 써요. 현재진행형에서는 be동사를 빼지 않고, be동사 뒤에 동사원형이나 s가 붙은 꼴을 쓰지 않아요. 예를 들어 He is reading a book now. 그는 지금 책을 읽고 있어요."
+  },
+  "steps": [
+   {
+    "note": "be동사와 주어: The children are, My sister is, I am, We are → 네 문장 모두 맞음",
+    "highlight": [
+     "The children are",
+     "My sister is",
+     "I am",
+     "We are"
+    ],
+    "strike": [],
+    "narration": "첫째, be동사가 주어와 맞는지 봐요. The children은 child의 복수형이라 are, My sister에는 is, I에는 am, We에는 are를 써서 네 문장 모두 맞아요."
+   },
+   {
+    "note": "be동사 뒤: (나) is brushes ✗ → is brushing, (라) are wait ✗ → are waiting → (나)·(라)가 든 보기 지움",
+    "highlight": [
+     "is brushes",
+     "are wait"
+    ],
+    "strike": [
+     "① (나), (라)",
+     "② (나), (다)",
+     "④ (가), (나)",
+     "⑤ (다), (라)"
+    ],
+    "narration": "둘째, be동사 뒤가 ing형인지 봐요. 나 문장은 is 뒤에 brushes를 써서 틀렸고, brushing을 써야 해요. 라 문장은 are 뒤에 동사원형 wait를 써서 틀렸고, waiting을 써야 해요. 그래서 나 문장이나 라 문장이 든 보기를 지워요."
+   },
+   {
+    "note": "(가) are flying, (다) am doing ✓ → ③ (가), (다)",
+    "highlight": [
+     "are flying",
+     "am doing",
+     "③ (가), (다)"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 가 문장과 다 문장은 be동사 뒤에 flying, doing을 써서 맞아요. I am doing my homework right now. 나는 지금 숙제를 하고 있어요. 그래서 3번이 남아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (나), (라)  ✗  (나) is brushes, (라) are wait 둘 다 틀린 문장",
+    "② (나), (다)  ✗  (나) is brushes는 틀림(→ is brushing), 옳은 (가)를 빠뜨림",
+    "③ (가), (다)  ✓  are flying, am doing 둘 다 옳은 문장",
+    "④ (가), (나)  ✗  (나) is brushes는 틀림, 옳은 (다)를 빠뜨림",
+    "⑤ (다), (라)  ✗  (라) are wait는 틀림(→ are waiting), 옳은 (가)를 빠뜨림"
+   ],
+   "narration": "정답은 3번이에요. 나 문장은 주어 My sister가 3인칭 단수라서 brushes를 떠올리기 쉬워요. 하지만 is 뒤에는 ing형 brushing을 써야 하니, 2번과 4번은 답이 아니에요. 라 문장도 are 뒤에 동사원형 wait를 써서 틀렸으니 5번도 답이 아니에요."
+  },
+  "summary": {
+   "card": "현재진행형 = 주어에 맞는 am, is, are + 동사의 ing형",
+   "narration": "정답은 3번이에요. 기억할 것, 현재진행형은 주어에 맞는 be동사 am, is, are 뒤에 동사의 ing형을 써요."
+  },
+  "captions": [
+   "현재진행형의 형태",
+   "먼저 풀어 보세요",
+   "주어에 맞는 be동사 + ing형",
+   "is brushes, are wait ✗ → ③",
+   "정답 ③ (가), (다)",
+   "am, is, are + 동사의 ing형"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   40,
+   26,
+   10
+  ]
+ },
+ "D": {
+  "title": "현재진행형: am, is, are + 동사의 ing형",
+  "intro": "이 문제는 현재진행형의 형태를 따져 어법상 옳은 문장을 모두 고르는 문제예요.",
+  "problem_narration": "다음 보기의 문장 중 어법상 옳은 것을 모두 고른 것은 무엇일까요? 가부터 라까지 네 문장을 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재진행형(…하고 있다): 주로 지금 하고 있는 일",
+    "형태: be동사(am, is, are) + 동사의 ing형",
+    "be동사는 주어에 맞춰요: I → am · 3인칭 단수(he, she, it, Tom) → is · we, you, they, 복수 → are",
+    "현재진행형에서는 be동사를 빼지 않고, be동사 뒤에 동사원형이나 s형을 쓰지 않아요",
+    "예) He is reading a book now. (그는 지금 책을 읽고 있어요.)"
+   ],
+   "narration": "현재진행형은 be동사 am, is, are 뒤에 동사의 ing형을 쓰고, 주로 지금 하고 있는 일을 나타내요. be동사는 주어에 맞춰서, I에는 am, he, she, it처럼 3인칭 단수 주어에는 is, we, you, they나 복수 주어에는 are를 써요. 현재진행형에서는 be동사를 빼지 않고, be동사 뒤에 동사원형이나 s가 붙은 꼴을 쓰지 않아요. 예를 들어 He is reading a book now. 그는 지금 책을 읽고 있어요."
+  },
+  "steps": [
+   {
+    "note": "be동사가 있나? (가) My uncle washing ✗ → My uncle is washing → (가)가 든 보기 지움",
+    "highlight": [
+     "My uncle washing"
+    ],
+    "strike": [
+     "② (가), (라)",
+     "③ (가), (나)",
+     "⑤ (가), (다)"
+    ],
+    "narration": "첫째, be동사가 빠진 문장이 있는지 봐요. 가 문장은 My uncle 뒤에 be동사 없이 washing만 써서 틀렸어요. My uncle is washing his car now라고 써야 해요. 삼촌은 지금 세차를 하고 있어요. 그래서 가 문장이 든 2번, 3번, 5번을 지워요."
+   },
+   {
+    "note": "be동사와 주어: (라) I is ✗ → I am → ④ 지움",
+    "highlight": [
+     "I is"
+    ],
+    "strike": [
+     "④ (다), (라)"
+    ],
+    "narration": "둘째, be동사가 주어와 맞는지 봐요. 라 문장은 주어 I에 is를 써서 틀렸고, am을 써야 해요. 그래서 4번도 지워요."
+   },
+   {
+    "note": "(나) The boys are riding, (다) She is baking ✓ → ① (나), (다)",
+    "highlight": [
+     "The boys are riding",
+     "She is baking",
+     "① (나), (다)"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 1번의 나 문장과 다 문장은 주어에 맞는 are, is 뒤에 riding, baking을 써서 맞아요. She is baking cookies for her family. 그녀는 가족을 위해 쿠키를 굽고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (나), (다)  ✓  are riding, is baking 둘 다 옳은 문장",
+    "② (가), (라)  ✗  (가) be동사 빠짐, (라) I is 둘 다 틀린 문장",
+    "③ (가), (나)  ✗  (가) be동사 빠짐(→ is washing), 옳은 (다)를 빠뜨림",
+    "④ (다), (라)  ✗  (라) I is는 틀림(→ I am), 옳은 (나)를 빠뜨림",
+    "⑤ (가), (다)  ✗  (가) My uncle washing은 틀림, 옳은 (나)를 빠뜨림"
+   ],
+   "narration": "정답은 1번이에요. 가 문장은 ing형 washing이 있어서 맞아 보이지만, be동사가 빠져 있어서 틀렸어요. 그래서 3번과 5번은 답이 아니에요. 라 문장도 looking은 맞지만, 주어 I에는 is가 아니라 am을 써야 해서 4번도 답이 아니에요."
+  },
+  "summary": {
+   "card": "현재진행형 = 주어에 맞는 am, is, are + 동사의 ing형",
+   "narration": "정답은 1번이에요. 기억할 것, 현재진행형은 주어에 맞는 be동사 am, is, are 뒤에 동사의 ing형을 써요."
+  },
+  "captions": [
+   "현재진행형의 형태",
+   "먼저 풀어 보세요",
+   "주어에 맞는 be동사 + ing형",
+   "be동사 빠짐, I is ✗ → ①",
+   "정답 ① (나), (다)",
+   "am, is, are + 동사의 ing형"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   42,
+   26,
+   10
+  ]
+ },
+ "E": {
+  "title": "현재진행형: am, is, are + 동사의 ing형",
+  "intro": "이 문제는 현재진행형의 형태를 따져 어법상 옳은 문장을 모두 고르는 문제예요.",
+  "problem_narration": "다음 보기의 문장 중 어법상 옳은 것을 모두 고른 것은 무엇일까요? 가부터 라까지 네 문장을 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재진행형(…하고 있다): 주로 지금 하고 있는 일",
+    "형태: be동사(am, is, are) + 동사의 ing형",
+    "be동사는 주어에 맞춰요: I → am · 3인칭 단수(he, she, it, Tom) → is · we, you, they, 복수 → are",
+    "현재진행형에서는 be동사를 빼지 않고, be동사 뒤에 동사원형이나 s형을 쓰지 않아요",
+    "예) He is reading a book now. (그는 지금 책을 읽고 있어요.)"
+   ],
+   "narration": "현재진행형은 be동사 am, is, are 뒤에 동사의 ing형을 쓰고, 주로 지금 하고 있는 일을 나타내요. be동사는 주어에 맞춰서, I에는 am, he, she, it처럼 3인칭 단수 주어에는 is, we, you, they나 복수 주어에는 are를 써요. 현재진행형에서는 be동사를 빼지 않고, be동사 뒤에 동사원형이나 s가 붙은 꼴을 쓰지 않아요. 예를 들어 He is reading a book now. 그는 지금 책을 읽고 있어요."
+  },
+  "steps": [
+   {
+    "note": "be동사와 주어: We are, They are, I am ✓ / (나) He are ✗ → He is → (나)가 든 보기 지움",
+    "highlight": [
+     "We are",
+     "He are",
+     "They are",
+     "I am"
+    ],
+    "strike": [
+     "① (가), (나)",
+     "④ (나), (다)"
+    ],
+    "narration": "첫째, be동사가 주어와 맞는지 봐요. We와 They에는 are, I에는 am을 써서 맞아요. 하지만 나 문장은 3인칭 단수 주어 He에 are를 써서 틀렸고, is를 써야 해요. 그래서 1번과 4번을 지워요."
+   },
+   {
+    "note": "be동사 뒤: (가) are studies ✗ → are studying → ③, ⑤ 지움",
+    "highlight": [
+     "are studies"
+    ],
+    "strike": [
+     "③ (가), (라)",
+     "⑤ (가), (다)"
+    ],
+    "narration": "둘째, be동사 뒤가 ing형인지 봐요. 가 문장은 are 뒤에 s형 studies를 써서 틀렸고, studying을 써야 해요. 그래서 3번과 5번도 지워요."
+   },
+   {
+    "note": "(다) are building, (라) am helping ✓ → ② (다), (라)",
+    "highlight": [
+     "are building",
+     "am helping",
+     "② (다), (라)"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 2번의 다 문장과 라 문장은 be동사 뒤에 building, helping을 써서 맞아요. I am helping my dad in the kitchen. 나는 부엌에서 아빠를 돕고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (가), (나)  ✗  (가) are studies, (나) He are 둘 다 틀린 문장",
+    "② (다), (라)  ✓  are building, am helping 둘 다 옳은 문장",
+    "③ (가), (라)  ✗  (가) are studies는 틀림(→ are studying), 옳은 (다)를 빠뜨림",
+    "④ (나), (다)  ✗  (나) He are는 틀림(→ He is), 옳은 (라)를 빠뜨림",
+    "⑤ (가), (다)  ✗  (가) are studies는 틀림, 옳은 (라)를 빠뜨림"
+   ],
+   "narration": "정답은 2번이에요. 나 문장은 watching이 맞아서 옳아 보이지만, 주어 He에는 are가 아니라 is를 써야 해요. 그래서 4번은 답이 아니에요. 가 문장은 are 뒤에 s형 studies를 써서 틀렸어요. are 뒤에는 ing형 studying을 써야 하니, 3번과 5번도 답이 아니에요."
+  },
+  "summary": {
+   "card": "현재진행형 = 주어에 맞는 am, is, are + 동사의 ing형",
+   "narration": "정답은 2번이에요. 기억할 것, 현재진행형은 주어에 맞는 be동사 am, is, are 뒤에 동사의 ing형을 써요."
+  },
+  "captions": [
+   "현재진행형의 형태",
+   "먼저 풀어 보세요",
+   "주어에 맞는 be동사 + ing형",
+   "He are, are studies ✗ → ②",
+   "정답 ② (다), (라)",
+   "am, is, are + 동사의 ing형"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   40,
+   26,
+   10
+  ]
+ },
+ "F": {
+  "title": "현재진행형: am, is, are + 동사의 ing형",
+  "intro": "이 문제는 현재진행형의 형태를 따져 어법상 옳은 문장을 모두 고르는 문제예요.",
+  "problem_narration": "다음 보기의 문장 중 어법상 옳은 것을 모두 고른 것은 무엇일까요? 가부터 라까지 네 문장을 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재진행형(…하고 있다): 주로 지금 하고 있는 일",
+    "형태: be동사(am, is, are) + 동사의 ing형",
+    "be동사는 주어에 맞춰요: I → am · 3인칭 단수(he, she, it, Tom) → is · we, you, they, 복수 → are",
+    "현재진행형에서는 be동사를 빼지 않고, be동사 뒤에 동사원형이나 s형을 쓰지 않아요",
+    "예) He is reading a book now. (그는 지금 책을 읽고 있어요.)"
+   ],
+   "narration": "현재진행형은 be동사 am, is, are 뒤에 동사의 ing형을 쓰고, 주로 지금 하고 있는 일을 나타내요. be동사는 주어에 맞춰서, I에는 am, he, she, it처럼 3인칭 단수 주어에는 is, we, you, they나 복수 주어에는 are를 써요. 현재진행형에서는 be동사를 빼지 않고, be동사 뒤에 동사원형이나 s가 붙은 꼴을 쓰지 않아요. 예를 들어 He is reading a book now. 그는 지금 책을 읽고 있어요."
+  },
+  "steps": [
+   {
+    "note": "be동사와 주어: Tom is, The cat is, We are ✓ / (라) The girls is ✗ → The girls are → (라)가 든 보기 지움",
+    "highlight": [
+     "Tom is",
+     "The cat is",
+     "We are",
+     "The girls is"
+    ],
+    "strike": [
+     "① (다), (라)",
+     "② (가), (라)"
+    ],
+    "narration": "첫째, be동사가 주어와 맞는지 봐요. Tom과 The cat에는 is, We에는 are를 써서 맞아요. 하지만 라 문장은 복수 주어 The girls에 is를 써서 틀렸고, are를 써야 해요. 그래서 1번과 2번을 지워요."
+   },
+   {
+    "note": "be동사 뒤: (다) are clean the classroom ✗ → are cleaning → ③, ④ 지움",
+    "highlight": [
+     "are clean the classroom"
+    ],
+    "strike": [
+     "③ (나), (다)",
+     "④ (가), (다)"
+    ],
+    "narration": "둘째, be동사 뒤가 ing형인지 봐요. 다 문장은 교실을 청소하고 있다는 뜻인데 are 뒤에 동사원형 clean을 써서 틀렸고, cleaning을 써야 해요. 그래서 3번과 4번도 지워요."
+   },
+   {
+    "note": "(가) is jogging, (나) is climbing ✓ → ⑤ (가), (나)",
+    "highlight": [
+     "is jogging",
+     "is climbing",
+     "⑤ (가), (나)"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 5번의 가 문장과 나 문장은 be동사 뒤에 jogging, climbing을 써서 맞아요. Tom is jogging along the river. 톰은 강을 따라 달리고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (다), (라)  ✗  (다) are clean, (라) The girls is 둘 다 틀린 문장",
+    "② (가), (라)  ✗  (라) The girls is는 틀림(→ The girls are), 옳은 (나)를 빠뜨림",
+    "③ (나), (다)  ✗  (다) are clean the classroom은 틀림(→ are cleaning), 옳은 (가)를 빠뜨림",
+    "④ (가), (다)  ✗  (다) are clean은 틀림, 옳은 (나)를 빠뜨림",
+    "⑤ (가), (나)  ✓  is jogging, is climbing 둘 다 옳은 문장"
+   ],
+   "narration": "정답은 5번이에요. 라 문장은 jumping이 맞아서 옳아 보이지만, 주어 The girls는 여럿이라 is가 아니라 are를 써야 해요. 그래서 2번은 답이 아니에요. 다 문장은 교실을 청소하고 있다는 뜻이니 are 뒤에 cleaning을 써야 해요. 그래서 3번과 4번도 답이 아니에요."
+  },
+  "summary": {
+   "card": "현재진행형 = 주어에 맞는 am, is, are + 동사의 ing형",
+   "narration": "정답은 5번이에요. 기억할 것, 현재진행형은 주어에 맞는 be동사 am, is, are 뒤에 동사의 ing형을 써요."
+  },
+  "captions": [
+   "현재진행형의 형태",
+   "먼저 풀어 보세요",
+   "주어에 맞는 be동사 + ing형",
+   "The girls is, are clean ✗ → ⑤",
+   "정답 ⑤ (가), (나)",
+   "am, is, are + 동사의 ing형"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   40,
+   26,
+   10
+  ]
+ }
+}

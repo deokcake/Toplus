@@ -1,0 +1,34 @@
+{
+  "by": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-24T05:19:56.447Z",
+  "doneBy": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Are you hungry? - Yes, you are.",
+      "1": "Is he your brother? - No, he aren't.",
+      "2": "Are we late? - No, you aren't.",
+      "3": "Is it cold? - Yes, it are.",
+      "4": "Are they students? - Yes, they aren't."
+    },
+    "expl": "핵심 규칙: be동사 짧은 대답은 주어에 맞춰 I am, you/we/they are, he/she/it is로 쓰고, 질문의 I는 대답에서 you로, you는 I(또는 we)로 바뀐다. this/that은 대답에서 it으로 받는다.\n풀이 순서: ① 대답의 주어가 질문의 주어를 바르게 받았는지 본다(I → you, you → I, 그 밖은 같은 대명사). → ② 대답의 be동사가 주어와 맞는지, Yes/No와 긍정·부정이 맞는지 본다. → ③ 선택지 ③만 we를 you로 받고 No, you aren't로 답해 맞다. 정답은 ③.\n문장별 판정:\n정답 판단: 우리(we)에 대한 질문에 상대가 you로 받아 바르게 답했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] you에 대한 질문에는 I로 답해 Yes, I am이므로 오답이다.\n② [오답] he에는 isn't를 쓰므로 오답이다.\n③ [정답] 우리(we)에 대한 질문에 상대가 you로 받아 바르게 답했으므로 정답이다.\n④ [오답] it에는 is를 쓰므로 오답이다.\n⑤ [오답] Yes 뒤에는 긍정 they are를 쓰므로 오답이다.",
+    "passage": null,
+    "stem": "다음 질문과 응답이 문법적으로 가장 적절하게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": "2026-10-24T05:19:54.507Z"
+  },
+  "tab": "82y8x8a5",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "verdict": null,
+  "verdictAt": "2026-10-24T05:19:49.469Z",
+  "verdictBy": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "who": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": {
+      "at": "2026-10-24T05:19:56.447Z",
+      "what": "확인 완료"
+    }
+  }
+}

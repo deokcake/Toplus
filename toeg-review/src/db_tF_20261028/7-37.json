@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:43:02.094Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Is your dad a cook? - Yes, she is.",
+      "1": "Are the cats hungry? - No, they isn't.",
+      "2": null,
+      "3": "Is it cold? - Yes, it are.",
+      "4": "Am I tall? - Yes, I are."
+    },
+    "expl": "핵심 규칙: be동사 의문문에는 Yes, 주어 + be동사. / No, 주어 + be동사 + not.으로 답한다. 대답의 주어는 질문의 주어를 대명사로 받고(you → I, I → you, Tom → he, the door → it), be동사도 그 주어에 맞춘다.\n풀이 순서: ① 질문이 주어에 맞는 be동사로 시작하는지 본다. → ② 대답의 주어(대명사)와 be동사가 맞는지 본다. → ③ 선택지 ①은 대명사(she)가, ②·④는 be동사가, ⑤는 대답의 주어와 be동사가 틀렸다. 정답은 ③.\n문장별 판정:\n정답 판단: we에 대한 질문에 aren't로 바르게 답했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] your dad는 she가 아니라 he로 받아야 하므로 오답이다.\n② [오답] 대답의 주어 they에는 aren't를 써야 하므로 오답이다.\n③ [정답] we에 대한 질문에 aren't로 바르게 답했으므로 정답이다.\n④ [오답] 대답의 주어 it에는 is를 써야 하므로 오답이다.\n⑤ [오답] I에 대한 질문에는 you로 받아 Yes, you are로 답하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 질문과 대답이 바르게 연결된 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:42:59.930Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:43:02.094Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:43:02.094Z",
+      "what": "확인 완료"
+    }
+  }
+}

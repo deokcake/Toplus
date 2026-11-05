@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:18:54.444Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "ⓐ, ⓑ",
+      "1": "ⓐ, ⓓ",
+      "2": "ⓑ, ⓒ",
+      "3": "ⓑ, ⓓ",
+      "4": "ⓒ, ⓓ"
+    },
+    "expl": "핵심 규칙: 시간은 at + 시각, on + 요일·날짜, in + 월·연도·계절로, 장소는 at + 한 지점, on + 표면, in + 공간·도시·나라로 나타낸다. between은 둘 사이, among은 셋 이상 사이이다.\n풀이 순서: ① 문장마다 전치사와 그 뒤의 말을 짝지어 본다(때: at 시각, on 요일·날짜, in 달·연도 / 곳: on 표면, at 지점, in 안). → ② ⓒ on Busan(in Busan), ⓓ in Friday(on Friday)가 틀렸다. ⓐ, ⓑ는 옳다. → ③ 옳은 문장만 고른 ⓐ, ⓑ가 정답이다.\n문장별 판정:\nⓐ O. 시각에는 at을 쓴다.\nⓑ O. 계절에는 in을 쓴다.\nⓒ X. 도시에는 in을 쓴다(in Busan).\nⓓ X. 요일에는 on을 쓴다(on Friday).\n정답 판단: 어법상 옳은 문장은 ⓐ, ⓑ이다.\n선택지 분석:\n① [정답] 옳은 문장 ⓐ, ⓑ를 빠짐없이 골랐으므로 정답이다.\n② [오답] ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓑ를 빠뜨렸다. 따라서 오답이다.\n③ [오답] ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓐ를 빠뜨렸다. 따라서 오답이다.\n④ [오답] ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓐ를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] ⓒ, ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓐ, ⓑ를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "ⓐ The concert starts at 7 p.m.\nⓑ We go skiing in winter.\nⓒ My cousin lives on Busan.\nⓓ I'll see you in Friday.",
+    "stem": "다음 중 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:18:53.771Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:18:54.444Z",
+      "what": "확인 완료"
+    }
+  }
+}

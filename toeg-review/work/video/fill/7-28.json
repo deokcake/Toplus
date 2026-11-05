@@ -1,0 +1,464 @@
+{
+ "A": {
+  "title": "복수 주어 your shoes, They와 be동사",
+  "intro": "이 문제는 질문의 주어 your shoes와 대답의 주어 They에 맞는 be동사를 고르는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 알맞은 be동사가 순서대로 짝지어진 것을 고르세요. Where 빈칸 your shoes, They 빈칸 under the bed. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형: I → am · you, we, they, 둘 이상 → are",
+    "he, she, it, my dog처럼 3인칭 단수 → is",
+    "Where + be동사 + 주어? (~는 어디에 있어요?) → be동사는 뒤의 주어에 맞춰요",
+    "대답의 be동사는 대답의 주어에 맞춰요",
+    "예) Where is the cat? — It is under the chair. (고양이는 어디 있어요? 의자 밑에 있어요.)"
+   ],
+   "narration": "be동사 현재형은 주어가 I면 am, you, we, they나 둘 이상이면 are, he, she, it 같은 3인칭 단수면 is예요. 어디 있는지 묻는 Where 질문에서 be동사는 뒤에 오는 주어에, 대답에서는 대답의 주어에 맞춰요. Where is the cat? 고양이는 어디 있어요? It is under the chair. 의자 밑에 있어요."
+  },
+  "steps": [
+   {
+    "note": "첫째 빈칸: be동사는 뒤의 주어 your shoes(신발 여러 짝, 둘 이상)에 맞춘다 → are. 첫째 빈칸이 is, am인 보기를 지운다.",
+    "highlight": [
+     "your shoes"
+    ],
+    "strike": [
+     "① is - is",
+     "③ is - are",
+     "⑤ am - are"
+    ],
+    "narration": "첫째, 질문의 빈칸 뒤 주어 your shoes는 신발 여러 짝이라 are를 쓰니까, 첫째 빈칸이 is나 am인 1번, 3번, 5번을 지워요."
+   },
+   {
+    "note": "둘째 빈칸: 대답의 주어 They(그 신발들) → are. 둘째 빈칸이 is인 ②를 지운다.",
+    "highlight": [
+     "They"
+    ],
+    "strike": [
+     "② are - is"
+    ],
+    "narration": "둘째, 대답의 주어 They도 그 신발들을 가리켜 둘 이상이라 are를 쓰니까, 둘째 빈칸이 is인 2번도 지워요."
+   },
+   {
+    "note": "남는 것 ④ are - are → Where are your shoes? / They are under the bed.",
+    "highlight": [
+     "④ are - are"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 4번이에요. Where are your shoes? 네 신발은 어디에 있니? They are under the bed. 침대 아래에 있어."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① is - is  ✗  your shoes와 They는 둘 이상이라 is를 쓰지 않아요",
+    "② are - is  ✗  둘째 빈칸: 대답의 주어 They에는 are",
+    "③ is - are  ✗  첫째 빈칸: 질문의 주어 your shoes에는 are",
+    "④ are - are  ✓  your shoes에 are, They에 are",
+    "⑤ am - are  ✗  첫째 빈칸: am은 주어 I에만 써요"
+   ],
+   "narration": "정답은 4번이에요. 3번을 고른 학생은 Where is를 한 덩어리로 외워서 is를 넣었을 수 있어요. 하지만 be동사는 뒤에 오는 주어 your shoes에 맞춰 are를 써야 해요. 2번은 대답의 주어 They에 is를 써서 틀렸어요. 5번의 am은 주어가 I일 때만 써요."
+  },
+  "summary": {
+   "card": "Where + be동사 + 주어? → be동사는 뒤의 주어에 · 대답의 be동사는 대답의 주어에",
+   "narration": "정답은 4번이에요. 기억할 것, Where 뒤의 be동사는 뒤에 오는 주어에 맞추고, 대답의 be동사는 대답의 주어에 맞춰요."
+  },
+  "captions": [
+   "Where 질문·대답의 be동사",
+   "먼저 풀어 보세요",
+   "be동사는 주어에 맞춰요",
+   "your shoes·They → are",
+   "정답 ④ are - are",
+   "be동사는 각 문장의 주어에"
+  ],
+  "sec": [
+   11,
+   21,
+   29,
+   33,
+   23,
+   12
+  ]
+ },
+ "B": {
+  "title": "주어 you와 I에 맞는 be동사",
+  "intro": "이 문제는 질문의 주어 you와 대답의 주어 I에 맞는 be동사를 고르는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 알맞은 be동사가 순서대로 짝지어진 것을 고르세요. Where 빈칸 you, I 빈칸 at home. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형: I → am · you, we, they, 둘 이상 → are",
+    "he, she, it, my dog처럼 3인칭 단수 → is",
+    "Where + be동사 + 주어? (~는 어디에 있어요?) → be동사는 뒤의 주어에 맞춰요",
+    "대답의 be동사는 대답의 주어에 맞춰요",
+    "예) Where is Tom? — He is in his room. (톰은 어디 있어요? 자기 방에 있어요.)"
+   ],
+   "narration": "be동사 현재형은 주어가 I면 am, you, we, they나 둘 이상이면 are, he, she, it 같은 3인칭 단수면 is예요. 어디 있는지 묻는 Where 질문에서 be동사는 뒤에 오는 주어에, 대답에서는 대답의 주어에 맞춰요. Where is Tom? 톰은 어디 있어요? He is in his room. 자기 방에 있어요."
+  },
+  "steps": [
+   {
+    "note": "첫째 빈칸: 뒤의 주어 you → are. 첫째 빈칸이 is인 ①, ⑤를 지운다.",
+    "highlight": [
+     "you"
+    ],
+    "strike": [
+     "① is - are",
+     "⑤ is - is"
+    ],
+    "narration": "첫째, 질문의 빈칸 뒤 주어 you에는 are를 쓰니까, 첫째 빈칸이 is인 1번과 5번을 지워요."
+   },
+   {
+    "note": "둘째 빈칸: 질문의 you가 대답에서는 I로 바뀜 → am. 둘째 빈칸이 are, is인 ②, ③을 지운다.",
+    "highlight": [
+     "I ________ at home."
+    ],
+    "strike": [
+     "② are - are",
+     "③ are - is"
+    ],
+    "narration": "둘째, 대답에서는 질문의 you가 I로 바뀌었고, I에는 am을 쓰니까 둘째 빈칸이 are나 is인 2번과 3번도 지워요."
+   },
+   {
+    "note": "남는 것 ④ are - am → Where are you? / I am at home.",
+    "highlight": [
+     "④ are - am"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 4번이에요. Where are you? 너는 어디에 있니? I am at home. 나는 집에 있어."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① is - are  ✗  you에는 is가 아니라 are, I에는 are가 아니라 am",
+    "② are - are  ✗  둘째 빈칸: 주어 I에는 are가 아니라 am",
+    "③ are - is  ✗  둘째 빈칸: 주어 I에는 is가 아니라 am",
+    "④ are - am  ✓  you에 are, I에 am",
+    "⑤ is - is  ✗  you에도 I에도 is를 쓰지 않아요"
+   ],
+   "narration": "정답은 4번이에요. 2번을 고른 학생은 질문의 are를 대답에도 그대로 썼을 거예요. 하지만 대답의 주어는 I라서 am을 써야 해요. 3번은 주어 I에 is를 써서 틀렸어요. 1번은 질문의 주어 you에 is를 써서 첫째 빈칸부터 틀렸어요."
+  },
+  "summary": {
+   "card": "Where + be동사 + 주어? → be동사는 뒤의 주어에 · 대답의 be동사는 대답의 주어에",
+   "narration": "정답은 4번이에요. 기억할 것, Where 뒤의 be동사는 뒤에 오는 주어에 맞추고, 대답의 be동사는 대답의 주어에 맞춰요."
+  },
+  "captions": [
+   "you와 I에 맞는 be동사",
+   "먼저 풀어 보세요",
+   "be동사는 주어에 맞춰요",
+   "you → are, I → am",
+   "정답 ④ are - am",
+   "be동사는 각 문장의 주어에"
+  ],
+  "sec": [
+   11,
+   20,
+   29,
+   30,
+   22,
+   12
+  ]
+ },
+ "C": {
+  "title": "두 사람·한 사람 주어와 be동사",
+  "intro": "이 문제는 질문의 주어 Tom and Jane과 대답의 주어 Tom에 맞는 be동사를 고르는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 알맞은 be동사가 순서대로 짝지어진 것을 고르세요. Where 빈칸 Tom and Jane, Tom 빈칸 in the park. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형: I → am · you, we, they, 둘 이상 → are",
+    "he, she, it, my dog처럼 3인칭 단수 → is",
+    "Where + be동사 + 주어? (~는 어디에 있어요?) → be동사는 뒤의 주어에 맞춰요",
+    "대답의 be동사는 대답의 주어에 맞춰요",
+    "예) Where is the cat? — It is under the chair. (고양이는 어디 있어요? 의자 밑에 있어요.)"
+   ],
+   "narration": "be동사 현재형은 주어가 I면 am, you, we, they나 둘 이상이면 are, he, she, it 같은 3인칭 단수면 is예요. 어디 있는지 묻는 Where 질문에서 be동사는 뒤에 오는 주어에, 대답에서는 대답의 주어에 맞춰요. Where is the cat? 고양이는 어디 있어요? It is under the chair. 의자 밑에 있어요."
+  },
+  "steps": [
+   {
+    "note": "첫째 빈칸: 뒤의 주어 Tom and Jane = 두 사람(둘 이상) → are. 첫째 빈칸이 is인 ②, ③을 지운다.",
+    "highlight": [
+     "Tom and Jane"
+    ],
+    "strike": [
+     "② is - are",
+     "③ is - is"
+    ],
+    "narration": "첫째, 질문의 빈칸 뒤 주어 Tom and Jane은 두 사람이라 are를 쓰니까, 첫째 빈칸이 is인 2번과 3번을 지워요."
+   },
+   {
+    "note": "둘째 빈칸: 대답의 주어는 Tom 한 사람(3인칭 단수) → is. 둘째 빈칸이 am, are인 ④, ⑤를 지운다.",
+    "highlight": [
+     "Tom ________ in the park."
+    ],
+    "strike": [
+     "④ are - am",
+     "⑤ are - are"
+    ],
+    "narration": "둘째, 대답의 주어는 Tom 한 사람뿐이라 is를 쓰니까, 둘째 빈칸이 am이나 are인 4번과 5번을 지워요."
+   },
+   {
+    "note": "남는 것 ① are - is → Where are Tom and Jane? / Tom is in the park.",
+    "highlight": [
+     "① are - is"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 1번이에요. Where are Tom and Jane? 톰과 제인은 어디에 있니? Tom is in the park. 톰은 공원에 있어."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① are - is  ✓  Tom and Jane에 are, Tom에 is",
+    "② is - are  ✗  두 사람에 is, 한 사람에 are로 거꾸로 썼어요",
+    "③ is - is  ✗  첫째 빈칸: 두 사람 Tom and Jane에는 are",
+    "④ are - am  ✗  둘째 빈칸: am은 주어 I에만 써요",
+    "⑤ are - are  ✗  둘째 빈칸: 대답의 주어 Tom은 한 사람이라 is"
+   ],
+   "narration": "정답은 1번이에요. 5번을 고른 학생은 질문의 are를 대답에도 그대로 썼을 거예요. 하지만 대답의 주어는 Tom 한 사람이라 is를 써야 해요. 2번은 두 사람인 Tom and Jane에 is, 한 사람인 Tom에 are를 써서 거꾸로예요. 3번은 Tom and Jane에 is를 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "Where + be동사 + 주어? → be동사는 뒤의 주어에 · 대답의 be동사는 대답의 주어에",
+   "narration": "정답은 1번이에요. 기억할 것, Where 뒤의 be동사는 뒤에 오는 주어에 맞추고, 대답의 be동사는 대답의 주어에 맞춰요."
+  },
+  "captions": [
+   "두 사람·한 사람과 be동사",
+   "먼저 풀어 보세요",
+   "be동사는 주어에 맞춰요",
+   "두 사람 → are, 한 사람 → is",
+   "정답 ① are - is",
+   "be동사는 각 문장의 주어에"
+  ],
+  "sec": [
+   12,
+   21,
+   29,
+   32,
+   24,
+   12
+  ]
+ },
+ "D": {
+  "title": "3인칭 단수 주어 Jane, She와 be동사",
+  "intro": "이 문제는 질문의 주어 Jane과 대답의 주어 She에 맞는 be동사를 고르는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 알맞은 be동사가 순서대로 짝지어진 것을 고르세요. Where 빈칸 Jane, She 빈칸 at school. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형: I → am · you, we, they, 둘 이상 → are",
+    "he, she, it, my dog처럼 3인칭 단수 → is",
+    "Where + be동사 + 주어? (~는 어디에 있어요?) → be동사는 뒤의 주어에 맞춰요",
+    "대답의 be동사는 대답의 주어에 맞춰요",
+    "예) Where are my keys? — They are on the table. (내 열쇠들은 어디 있어요? 탁자 위에 있어요.)"
+   ],
+   "narration": "be동사 현재형은 주어가 I면 am, you, we, they나 둘 이상이면 are, he, she, it 같은 3인칭 단수면 is예요. 어디 있는지 묻는 Where 질문에서 be동사는 뒤에 오는 주어에, 대답에서는 대답의 주어에 맞춰요. Where are my keys? 내 열쇠들은 어디 있어요? They are on the table. 탁자 위에 있어요."
+  },
+  "steps": [
+   {
+    "note": "첫째 빈칸: 뒤의 주어 Jane = 한 사람(3인칭 단수) → is. 첫째 빈칸이 are인 ①, ③, ⑤를 지운다.",
+    "highlight": [
+     "Jane"
+    ],
+    "strike": [
+     "① are - are",
+     "③ are - is",
+     "⑤ are - am"
+    ],
+    "narration": "첫째, 질문의 빈칸 뒤 주어 Jane은 한 사람, 즉 3인칭 단수라 is를 쓰니까, 첫째 빈칸이 are인 1번, 3번, 5번을 지워요."
+   },
+   {
+    "note": "둘째 빈칸: 대답의 주어 She(= Jane) → is. 둘째 빈칸이 are인 ④를 지운다.",
+    "highlight": [
+     "She"
+    ],
+    "strike": [
+     "④ is - are"
+    ],
+    "narration": "둘째, 대답의 주어 She도 Jane을 가리키는 3인칭 단수라 is를 쓰니까, 둘째 빈칸이 are인 4번도 지워요."
+   },
+   {
+    "note": "남는 것 ② is - is → Where is Jane? / She is at school.",
+    "highlight": [
+     "② is - is"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 2번이에요. Where is Jane? 제인은 어디에 있니? She is at school. 그녀는 학교에 있어."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① are - are  ✗  한 사람인 Jane과 She에 are를 쓰지 않아요",
+    "② is - is  ✓  Jane에 is, She에 is",
+    "③ are - is  ✗  첫째 빈칸: 한 사람 Jane에는 is",
+    "④ is - are  ✗  둘째 빈칸: 주어 She에는 is",
+    "⑤ are - am  ✗  Jane에 are, She에 am을 써서 둘 다 틀려요"
+   ],
+   "narration": "정답은 2번이에요. 3번은 질문의 주어 Jane에 are를 써서 틀렸어요. be동사는 뒤의 주어 Jane에 맞추고, Jane은 한 사람이라 is예요. 4번은 대답의 주어 She에 are를 썼어요. She도 3인칭 단수라 is를 써야 해요."
+  },
+  "summary": {
+   "card": "Where + be동사 + 주어? → be동사는 뒤의 주어에 · 대답의 be동사는 대답의 주어에",
+   "narration": "정답은 2번이에요. 기억할 것, Where 뒤의 be동사는 뒤에 오는 주어에 맞추고, 대답의 be동사는 대답의 주어에 맞춰요."
+  },
+  "captions": [
+   "3인칭 단수 주어와 be동사",
+   "먼저 풀어 보세요",
+   "be동사는 주어에 맞춰요",
+   "Jane·She → is",
+   "정답 ② is - is",
+   "be동사는 각 문장의 주어에"
+  ],
+  "sec": [
+   11,
+   20,
+   30,
+   32,
+   20,
+   12
+  ]
+ },
+ "E": {
+  "title": "물건 하나 your book, It과 be동사",
+  "intro": "이 문제는 질문의 주어 your book과 대답의 주어 It에 맞는 be동사를 고르는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 알맞은 be동사가 순서대로 짝지어진 것을 고르세요. Where 빈칸 your book, It 빈칸 on the desk. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형: I → am · you, we, they, 둘 이상 → are",
+    "he, she, it, my dog처럼 3인칭 단수 → is",
+    "Where + be동사 + 주어? (~는 어디에 있어요?) → be동사는 뒤의 주어에 맞춰요",
+    "대답의 be동사는 대답의 주어에 맞춰요",
+    "예) Where are my keys? — They are on the table. (내 열쇠들은 어디 있어요? 탁자 위에 있어요.)"
+   ],
+   "narration": "be동사 현재형은 주어가 I면 am, you, we, they나 둘 이상이면 are, he, she, it 같은 3인칭 단수면 is예요. 어디 있는지 묻는 Where 질문에서 be동사는 뒤에 오는 주어에, 대답에서는 대답의 주어에 맞춰요. Where are my keys? 내 열쇠들은 어디 있어요? They are on the table. 탁자 위에 있어요."
+  },
+  "steps": [
+   {
+    "note": "첫째 빈칸: 뒤의 주어 your book = 책 한 권(3인칭 단수) → is. 첫째 빈칸이 are인 ②, ③, ⑤를 지운다.",
+    "highlight": [
+     "your book"
+    ],
+    "strike": [
+     "② are - are",
+     "③ are - is",
+     "⑤ are - am"
+    ],
+    "narration": "첫째, 질문의 빈칸 뒤 주어 your book은 책 한 권이라 is를 쓰니까, 첫째 빈칸이 are인 2번, 3번, 5번을 지워요."
+   },
+   {
+    "note": "둘째 빈칸: 대답의 주어 It(= 그 책, 3인칭 단수) → is. 둘째 빈칸이 are인 ①을 지운다.",
+    "highlight": [
+     "It"
+    ],
+    "strike": [
+     "① is - are"
+    ],
+    "narration": "둘째, 대답의 주어 It도 그 책 한 권을 가리키는 3인칭 단수라 is를 쓰니까, 둘째 빈칸이 are인 1번도 지워요."
+   },
+   {
+    "note": "남는 것 ④ is - is → Where is your book? / It is on the desk.",
+    "highlight": [
+     "④ is - is"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 4번이에요. Where is your book? 네 책은 어디에 있니? It is on the desk. 책상 위에 있어."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① is - are  ✗  둘째 빈칸: 주어 It에는 is",
+    "② are - are  ✗  책 한 권인 your book과 It에 are를 쓰지 않아요",
+    "③ are - is  ✗  첫째 빈칸: your book은 한 권이라 is",
+    "④ is - is  ✓  your book에 is, It에 is",
+    "⑤ are - am  ✗  your book에 are, It에 am을 써서 둘 다 틀려요"
+   ],
+   "narration": "정답은 4번이에요. 3번을 고른 학생은 your를 보고 you are를 떠올렸을 수 있어요. 하지만 be동사는 your가 아니라 주어 your book에 맞추고, 책 한 권이라 is예요. 1번은 대답의 주어 It에 are를 써서 틀렸어요. 5번의 am은 주어가 I일 때만 써요."
+  },
+  "summary": {
+   "card": "Where + be동사 + 주어? → be동사는 뒤의 주어에 · 대답의 be동사는 대답의 주어에",
+   "narration": "정답은 4번이에요. 기억할 것, Where 뒤의 be동사는 뒤에 오는 주어에 맞추고, 대답의 be동사는 대답의 주어에 맞춰요."
+  },
+  "captions": [
+   "물건 하나 주어와 be동사",
+   "먼저 풀어 보세요",
+   "be동사는 주어에 맞춰요",
+   "your book·It → is",
+   "정답 ④ is - is",
+   "be동사는 각 문장의 주어에"
+  ],
+  "sec": [
+   12,
+   21,
+   30,
+   32,
+   23,
+   12
+  ]
+ },
+ "F": {
+  "title": "주어 I와 You에 맞는 be동사",
+  "intro": "이 문제는 질문의 주어 I와 대답의 주어 You에 맞는 be동사를 고르는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 알맞은 be동사가 순서대로 짝지어진 것을 고르세요. Where 빈칸 I, You 빈칸 in the school library. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형: I → am · you, we, they, 둘 이상 → are",
+    "he, she, it, my dog처럼 3인칭 단수 → is",
+    "Where + be동사 + 주어? (~는 어디에 있어요?) → be동사는 뒤의 주어에 맞춰요",
+    "대답의 be동사는 대답의 주어에 맞춰요",
+    "예) Where is Tom? — He is in his room. (톰은 어디 있어요? 자기 방에 있어요.)"
+   ],
+   "narration": "be동사 현재형은 주어가 I면 am, you, we, they나 둘 이상이면 are, he, she, it 같은 3인칭 단수면 is예요. 어디 있는지 묻는 Where 질문에서 be동사는 뒤에 오는 주어에, 대답에서는 대답의 주어에 맞춰요. Where is Tom? 톰은 어디 있어요? He is in his room. 자기 방에 있어요."
+  },
+  "steps": [
+   {
+    "note": "첫째 빈칸: 뒤의 주어 I → am. 첫째 빈칸이 am이 아닌 ①, ②, ③, ⑤를 지운다.",
+    "highlight": [
+     "Where ________ I?"
+    ],
+    "strike": [
+     "① are - are",
+     "② is - am",
+     "③ is - is",
+     "⑤ are - am"
+    ],
+    "narration": "첫째, 질문의 빈칸 뒤 주어 I에는 am을 쓰니까, 첫째 빈칸이 am이 아닌 1번, 2번, 3번, 5번을 지워요."
+   },
+   {
+    "note": "둘째 빈칸: 질문의 I가 대답에서는 You로 바뀜 → are. ④의 둘째 빈칸 are와 맞는다.",
+    "highlight": [
+     "You ________ in the school library.",
+     "④ am - are"
+    ],
+    "strike": [],
+    "narration": "둘째, 대답에서는 질문의 I가 You로 바뀌었고, You에는 are를 쓰니까 4번의 둘째 빈칸 are도 맞아요."
+   },
+   {
+    "note": "정답 ④ am - are → Where am I? / You are in the school library.",
+    "highlight": [
+     "④ am - are"
+    ],
+    "strike": [],
+    "narration": "셋째, 정답은 4번이에요. Where am I? 나는 어디에 있니? You are in the school library. 너는 학교 도서관에 있어."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① are - are  ✗  첫째 빈칸: 주어 I에는 are가 아니라 am",
+    "② is - am  ✗  I에 is, You에 am을 써서 둘 다 틀려요",
+    "③ is - is  ✗  I에도 You에도 is를 쓰지 않아요",
+    "④ am - are  ✓  I에 am, You에 are",
+    "⑤ are - am  ✗  I에 are, You에 am으로 거꾸로 썼어요"
+   ],
+   "narration": "정답은 4번이에요. 5번을 고른 학생은 익숙한 Where are you, I am을 떠올렸을 거예요. 하지만 여기서는 질문의 주어가 I라서 am, 대답의 주어가 You라서 are예요. 1번은 질문의 주어 I에 are를 써서 틀렸어요. 2번은 I에 is, You에 am을 써서 둘 다 틀렸어요."
+  },
+  "summary": {
+   "card": "Where + be동사 + 주어? → be동사는 뒤의 주어에 · 대답의 be동사는 대답의 주어에",
+   "narration": "정답은 4번이에요. 기억할 것, Where 뒤의 be동사는 뒤에 오는 주어에 맞추고, 대답의 be동사는 대답의 주어에 맞춰요."
+  },
+  "captions": [
+   "I와 You에 맞는 be동사",
+   "먼저 풀어 보세요",
+   "be동사는 주어에 맞춰요",
+   "I → am, You → are",
+   "정답 ④ am - are",
+   "be동사는 각 문장의 주어에"
+  ],
+  "sec": [
+   11,
+   21,
+   29,
+   32,
+   26,
+   12
+  ]
+ }
+}

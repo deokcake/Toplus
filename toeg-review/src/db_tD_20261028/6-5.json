@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T04:10:37.179Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "It is a sunny day.",
+      "1": "She ate an egg for breakfast.",
+      "2": "We visited a museum.",
+      "3": "He is a honest man.",
+      "4": "I waited for an hour."
+    },
+    "expl": "핵심 규칙: a/an은 철자가 아니라 첫소리로 정한다. hour, honest, honor의 h는 발음하지 않아 an을 쓰고, university, uniform, useful, unique, European은 /j/ 소리로 시작해 a를 쓴다.\n풀이 순서: ① a/an 뒤 낱말의 첫 ‘소리’를 본다. 철자와 소리가 다른 낱말(h를 발음하지 않는 낱말, ‘유’로 소리 나는 u·eu)을 살핀다. → ② honest는 h를 발음하지 않아 an honest man이다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: honest의 h는 발음하지 않아 모음 소리로 시작하고, an을 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] sunny는 자음 소리로 시작해 a가 맞으므로 오답이다.\n② [오답] egg는 모음 소리로 시작하고, an을 바르게 썼으므로 오답이다.\n③ [오답] museum은 자음 소리로 시작하고, a를 바르게 썼으므로 오답이다.\n④ [정답] honest의 h는 발음하지 않아 모음 소리로 시작하고, an을 써야 하므로 정답이다.\n⑤ [오답] hour의 h는 발음하지 않아 an을 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T04:10:34.759Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T04:10:37.179Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T04:10:37.179Z",
+      "what": "확인 완료"
+    }
+  }
+}

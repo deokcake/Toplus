@@ -1,0 +1,178 @@
+{
+ "key": "4-6",
+ "type": "A",
+ "grade": 4,
+ "chapter": "CH 1 명사와 관사",
+ "title": "How many 뒤 sheep의 복수형",
+ "total_sec": 130,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "4급 · CH 1 명사와 관사 · 6번\n\n이 문제는 How many 뒤 빈칸에 들어갈 명사의 알맞은 복수형을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 1 명사와 관사 · 6번",
+     "이 문제는 How many 뒤 빈칸에 들어갈 명사의 알맞은 복수형을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 1, 6번. 이 문제는 How many 뒤 빈칸에 들어갈 명사의 알맞은 복수형을 고르는 문제예요.",
+   "caption": "How many 뒤 명사의 복수형"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 21,
+   "screen": {
+    "text": "다음 대화의 빈칸에 들어갈 알맞은 단어를 고르세요.\n\nA: How many ________ do you see in the picture?\nB: I see ten.\n\n① sheepes\n② sheep\n③ sheeps\n④ sheeppes\n⑤ ship",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 대화의 빈칸에 들어갈 알맞은 단어를 고르세요.",
+     "A: How many ________ do you see in the picture?",
+     "B: I see ten.",
+     "① sheepes",
+     "② sheep",
+     "③ sheeps",
+     "④ sheeppes",
+     "⑤ ship"
+    ]
+   },
+   "narration": "다음 대화의 빈칸에 들어갈 알맞은 단어를 고르세요. How many, 빈칸, do you see in the picture? I see ten. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\nHow many(몇 개, 몇 마리) 뒤 → 셀 수 있는 명사의 복수형\n대부분의 명사는 s나 es를 붙여요. (dog → dogs, box → boxes)\nsheep, deer는 단수형과 복수형이 같아요. (one sheep, two sheep)\n예) There are many sheep on the hill. (언덕 위에 양이 많이 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "How many(몇 개, 몇 마리) 뒤 → 셀 수 있는 명사의 복수형",
+     "대부분의 명사는 s나 es를 붙여요. (dog → dogs, box → boxes)",
+     "sheep, deer는 단수형과 복수형이 같아요. (one sheep, two sheep)",
+     "예) There are many sheep on the hill. (언덕 위에 양이 많이 있어요.)"
+    ]
+   },
+   "narration": "How many는 몇 개, 몇 마리인지 묻는 말이에요. 그래서 How many 뒤에는 셀 수 있는 명사의 복수형이 와요. 대부분의 명사는 dogs, boxes처럼 s나 es를 붙여 복수형을 만들어요. 그런데 sheep과 deer는 한 마리일 때도, 여러 마리일 때도 모양이 같아요. 예를 들어 There are many sheep on the hill, 언덕 위에 양이 많이 있어요.",
+   "caption": "sheep은 복수형도 sheep"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 35,
+   "screen": {
+    "text": "다음 대화의 빈칸에 들어갈 알맞은 단어를 고르세요.\n\nA: How many ________ do you see in the picture?\nB: I see ten.\n\n① sheepes\n② sheep\n③ sheeps\n④ sheeppes\n⑤ ship",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "How many ________",
+       "I see ten."
+      ],
+      "strike": [
+       "⑤ ship"
+      ],
+      "note": "How many 뒤 = 복수형 자리. ship은 배 한 척을 나타내는 단수형 → 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① sheepes",
+       "③ sheeps",
+       "④ sheeppes"
+      ],
+      "note": "sheep은 복수형도 sheep → s나 es를 붙인 꼴은 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② sheep"
+      ],
+      "strike": [],
+      "note": "남는 것은 sheep → How many sheep do you see in the picture?"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, How many는 몇 개인지 묻는 말이라 빈칸에는 복수형이 와야 해요. 5번 ship은 배 한 척을 나타내는 단수형이라 지워요. 둘째, sheep은 여러 마리일 때도 sheep이에요. 그래서 s나 es를 붙인 1번, 3번, 4번도 지워요. 셋째, 남는 2번 sheep을 넣으면 How many sheep do you see in the picture, 그림에서 양이 몇 마리 보이니, I see ten, 열 마리가 보여, 라는 대화가 돼요.",
+   "caption": "복수형 자리 → ship 지움 → sheep"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 25,
+   "screen": {
+    "text": "① sheepes  ✗  sheep에는 es를 붙이지 않아요\n② sheep  ✓  sheep은 복수형도 sheep\n③ sheeps  ✗  sheep에는 s도 붙이지 않아요\n④ sheeppes  ✗  p를 겹쳐 쓰고 es를 붙인 꼴은 없어요\n⑤ ship  ✗  ship(배)은 단수형이에요 (여러 척은 ships)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① sheepes  ✗  sheep에는 es를 붙이지 않아요",
+     "② sheep  ✓  sheep은 복수형도 sheep",
+     "③ sheeps  ✗  sheep에는 s도 붙이지 않아요",
+     "④ sheeppes  ✗  p를 겹쳐 쓰고 es를 붙인 꼴은 없어요",
+     "⑤ ship  ✗  ship(배)은 단수형이에요 (여러 척은 ships)"
+    ]
+   },
+   "narration": "정답은 2번 sheep이에요. 3번 sheeps는 다른 명사처럼 s를 붙인 꼴인데, sheep은 여러 마리여도 s를 붙이지 않아요. 5번 ship은 소리가 비슷하지만 배라는 뜻이고, 배 한 척을 나타내는 단수형이라 How many 뒤에 올 수 없어요. 1번 sheepes도 sheep에 es를 붙인 꼴이라 틀렸어요.",
+   "caption": "정답 ② sheep"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② sheep\n\nHow many + 복수형, sheep은 복수형도 sheep",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② sheep",
+     "How many + 복수형, sheep은 복수형도 sheep"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, How many 뒤에는 복수형을 쓰고, sheep은 여러 마리여도 sheep이에요.",
+   "caption": "How many + 복수형"
+  }
+ ],
+ "source": {
+  "stem": "다음 대화의 빈칸에 들어갈 알맞은 단어를 고르세요.",
+  "passage": "A: How many ________ do you see in the picture?\nB: I see ten.",
+  "c": [
+   "sheepes",
+   "sheep",
+   "sheeps",
+   "sheeppes",
+   "ship"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: sheep, deer, fish는 단수형과 복수형이 같다.\n풀이 순서: ① How many 뒤에는 셀 수 있는 명사의 복수형이 온다. → ② sheep은 단수형과 복수형이 같다. -s나 -es를 붙이지 않는다. → ③ 정답은 sheep.\n문장별 판정:\n정답 판단: sheep은 복수형도 sheep이므로 정답은 ②이다.\n선택지 분석:\n① [오답] sheepes라는 형태는 없으므로 오답이다.\n② [정답] sheep은 복수형도 sheep이므로 정답이다.\n③ [오답] sheep에는 -s를 붙이지 않으므로 오답이다.\n④ [오답] sheeppes라는 형태는 없으므로 오답이다.\n⑤ [오답] ship은 ‘배’라는 다른 낱말이므로 오답이다."
+ }
+}

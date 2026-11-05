@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:02:45.331Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "You do enjoy to write letters in English?",
+      "1": "Do enjoy you writing letters in English?",
+      "2": "Do you enjoy writing letters in English?",
+      "3": "Do you enjoy to write letters in English?",
+      "4": "Do you enjoy write letters in English?"
+    },
+    "expl": "핵심 규칙: mind, enjoy는 동명사를 목적어로 쓴다. 일반동사 의문문은 Do(Does) + 주어 + 동사원형 순서다.\n풀이 순서: ① 의문문의 뼈대를 세운다: Do + 주어 + enjoy. → ② enjoy 뒤의 동사(write)는 동명사(writing)로 바꾼다. 발문이 형태를 바꿔도 된다고 한 까닭이다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: Do + 주어 + enjoy + 동명사로 바르게 배열했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 의문문 어순(Do/Does + 주어)이 아니고 to부정사를 썼으므로 오답이다.\n② [오답] Do + 주어 + 동사 순서가 아니므로 오답이다.\n③ [정답] Do + 주어 + enjoy + 동명사로 바르게 배열했으므로 정답이다.\n④ [오답] enjoy는 to부정사가 아니라 동명사를 목적어로 쓰므로 오답이다.\n⑤ [오답] 동사원형(write)을 동명사(writing)로 바꿔야 하므로 오답이다.",
+    "passage": "너는 영어로 편지 쓰는 것을 즐기니?\n(you / enjoy / write / letters / in English / do / ?)",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:02:14.841Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:02:45.331Z",
+      "what": "확인 완료"
+    }
+  }
+}

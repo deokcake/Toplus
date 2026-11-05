@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T12:38:49.802Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "goes",
+      "1": "go",
+      "2": "going",
+      "3": null,
+      "4": "will go"
+    },
+    "expl": "핵심 규칙: 과거를 나타내는 말(yesterday, last ~, ~ ago)이 있으면 동사의 과거형을 쓴다. eat - ate, go - went, buy - bought, see - saw, write - wrote는 불규칙 과거형이다.\n풀이 순서: ① 문장에서 때를 나타내는 말을 찾는다: last summer(지난여름). → ② 과거의 일이므로 동사의 과거형을 쓴다: go의 과거형은 went. → ③ 정답은 went.\n문장별 판정:\n정답 판단: went: 과거를 나타내는 말과 어울리는 불규칙 과거형이므로 정답은 ④이다.\n선택지 분석:\n① [오답] goes: 3인칭 단수 현재형이라 과거의 일과 맞지 않으므로 오답이다.\n② [오답] go: 동사원형(현재형)이라 과거의 일과 맞지 않으므로 오답이다.\n③ [오답] going: -ing형만으로는 동사 자리에 쓸 수 없으므로 오답이다.\n④ [정답] went: 과거를 나타내는 말과 어울리는 불규칙 과거형이므로 정답이다.\n⑤ [오답] will go: will + 동사원형은 미래라 과거의 일과 맞지 않으므로 오답이다.",
+    "passage": "My family _____ to the beach last summer.",
+    "stem": "빈칸에 들어갈 동사 ‘go’의 알맞은 형태를 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T12:38:48.431Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T12:38:49.802Z",
+      "what": "확인 완료"
+    }
+  }
+}

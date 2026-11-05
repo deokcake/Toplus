@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T03:26:46.015Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "her",
+      "1": "hers",
+      "2": "to her",
+      "3": "to hers",
+      "4": "she's"
+    },
+    "expl": "핵심 규칙: 동사 뒤 목적어 자리에는 목적격(me, us, him, her, them)을 쓴다. 소유격(my, our, their)은 명사 앞에, 소유대명사(mine, ours, theirs)는 ‘~의 것’에 쓰며, 목적어를 바로 받는 동사 뒤에 to를 붙이지 않는다.\n풀이 순서: ① 밑줄(she)은 동사(called) 바로 뒤, 목적어 자리다. → ② 목적어 자리에는 목적격을 쓴다. 소유격·소유대명사는 쓸 수 없고, 이 동사 뒤에는 to도 필요 없다. → ③ 정답은 her.\n문장별 판정:\n정답 판단: her: 동사(called) 뒤 목적어 자리의 목적격으로 알맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] her: 동사(called) 뒤 목적어 자리의 목적격으로 알맞으므로 정답이다.\n② [오답] hers: ‘~의 것’을 뜻하는 소유대명사라 사람을 가리키는 목적어로 맞지 않으므로 오답이다.\n③ [오답] to her: called는 목적어를 바로 받고, to를 붙이지 않으므로 오답이다.\n④ [오답] to hers: called는 목적어를 바로 받고, to를 붙이지 않으므로 오답이다.\n⑤ [오답] she's: ‘주어 + be동사’의 줄임말이라 목적어 자리에 맞지 않으므로 오답이다.",
+    "passage": "Tom called <u>she</u> yesterday to ask about the homework.",
+    "stem": "다음 문장의 밑줄 친 부분을 바르게 고친 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:48:24.914Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:48:28.523Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:26:46.015Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:26:43.106Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:26:46.015Z",
+      "what": "확인 완료"
+    }
+  }
+}

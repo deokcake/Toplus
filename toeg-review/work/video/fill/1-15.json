@@ -1,0 +1,472 @@
+{
+ "A": {
+  "title": "완료시제·진행형·부사절의 시제",
+  "intro": "이 문제는 여러 시제의 쓰임을 따져 틀린 문장의 개수를 고르는 문제예요.",
+  "problem_narration": "밑줄 친 부분이 어법상 틀린 문장의 개수를 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료(have + 과거분사) + 분명한 과거 시점(yesterday, ago) ✗",
+    "시간·조건의 부사절(when, after, if, unless) → 미래의 일도 현재시제",
+    "상태동사(know, own, belong 등) → 진행형 ✗ · have(먹다)는 동작이라 진행형 ○",
+    "had + 과거분사 = 과거의 어느 때보다 먼저 · will have + 과거분사 = 미래의 어느 때까지",
+    "예) When he comes, we will start. (그가 오면 우리는 시작할 거예요.)"
+   ],
+   "narration": "현재완료는 yesterday처럼 분명한 과거 시점과 쓰지 않아요. 시간과 조건의 부사절은 미래의 일도 현재시제로 써요. When he comes, we will start. 그가 오면 우리는 시작할 거예요. know 같은 상태동사는 진행형으로 쓰지 않아요. 과거완료는 과거의 어느 때보다 앞선 일을, 미래완료는 미래의 어느 때까지 끝나거나 이어질 일을 나타내요."
+  },
+  "steps": [
+   {
+    "note": "a) yesterday morning = 분명한 과거 → has missed ✗ → missed / e) 알게 된 것보다 먼저 → leave ✗ → had left / f) by the time + 미래완료 ✓",
+    "highlight": [
+     "yesterday morning",
+     "two hours ago",
+     "by the time she retires"
+    ],
+    "strike": [
+     "has missed",
+     "leave"
+    ],
+    "narration": "첫째, 에이 문장은 yesterday morning이 있으니 has missed가 아니라 missed를 써야 하고, 이 문장 He just discovered는 휴대폰을 둔 일이 알게 된 것보다 먼저라서 leave를 had left로 고쳐야 해요. 에프 문장은 은퇴할 때까지 이어질 일을 미래완료로 바르게 썼어요."
+   },
+   {
+    "note": "b) 조건의 if절 → will call ✗ → call",
+    "highlight": [
+     "If you"
+    ],
+    "strike": [
+     "will call"
+    ],
+    "narration": "둘째, 비 문장은 조건을 나타내는 if절이라 미래의 일도 will call이 아니라 call로 써요."
+   },
+   {
+    "note": "c) have = 먹다(동작) → are having ✓ / d) know = 상태 → am knowing ✗ → know / 틀린 문장 a), b), d), e) → 4개",
+    "highlight": [
+     "are having",
+     "③ 4개"
+    ],
+    "strike": [
+     "am knowing"
+    ],
+    "narration": "셋째, 씨 문장의 have는 먹다라는 동작이라 are having이 옳지만, 디 문장의 know는 상태를 나타내서 am knowing이 아니라 know를 써요. 따라서 틀린 문장은 모두 네 개예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 2개  ✗  d) am knowing, e) leave도 틀려요",
+    "② 3개  ✗  e) leave도 틀려요 (알게 된 것보다 먼저 → had left)",
+    "③ 4개  ✓  틀린 문장은 a), b), d), e) 네 개",
+    "④ 5개  ✗  c) are having은 옳아요 (have = 먹다)",
+    "⑤ 6개  ✗  f) will have worked도 옳아요 (by the time + 미래완료)"
+   ],
+   "narration": "정답은 3번, 4개예요. 이 문장 He just discovered의 leave를 놓치면 2번을 고르게 돼요. 지난 일인데 과거형이 아닌 leave를 써서 틀렸어요. 씨 문장까지 틀렸다고 세면 4번을 고르게 되는데, 먹다라는 뜻의 have는 진행형으로 쓸 수 있어요."
+  },
+  "summary": {
+   "card": "시제는 시간 표현 · 접속사 · 동사의 뜻(상태/동작)에 맞춰 고르기",
+   "narration": "정답은 3번이에요. 기억할 것, 시제는 함께 쓰인 시간 표현과 접속사, 동사의 뜻에 맞춰 골라요."
+  },
+  "captions": [
+   "틀린 문장 개수 고르기",
+   "먼저 풀어 보세요",
+   "시간 표현에 맞는 시제",
+   "완료 → 부사절 → 진행형",
+   "정답 ③ 4개",
+   "과거 시점·부사절·상태동사"
+  ],
+  "sec": [
+   10,
+   17,
+   29,
+   43,
+   21,
+   10
+  ]
+ },
+ "B": {
+  "title": "완료시제·진행형·부사절의 시제",
+  "intro": "이 문제는 여러 시제의 쓰임을 따져 틀린 문장의 개수를 고르는 문제예요.",
+  "problem_narration": "밑줄 친 부분이 어법상 틀린 문장의 개수를 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료(have + 과거분사) + 분명한 과거 시점(yesterday, ago) ✗",
+    "시간·조건의 부사절(when, after, if, unless) → 미래의 일도 현재시제",
+    "상태동사(know, own, belong 등) → 진행형 ✗ · have(먹다)는 동작이라 진행형 ○",
+    "had + 과거분사 = 과거의 어느 때보다 먼저 · will have + 과거분사 = 미래의 어느 때까지",
+    "예) Unless you hurry, you will be late. (서두르지 않으면 늦을 거예요.)"
+   ],
+   "narration": "현재완료는 yesterday처럼 분명한 과거 시점과 쓰지 않아요. 시간과 조건의 부사절은 미래의 일도 현재시제로 써요. Unless you hurry, you will be late. 서두르지 않으면 늦을 거예요. know 같은 상태동사는 진행형으로 쓰지 않아요. 과거완료는 과거의 어느 때보다 앞선 일을, 미래완료는 미래의 어느 때까지 끝나거나 이어질 일을 나타내요."
+  },
+  "steps": [
+   {
+    "note": "a) since 2020 + 현재완료 ✓ / e) learned보다 먼저 이사 → had moved ✓ / f) By next month + 미래완료 ✓",
+    "highlight": [
+     "since 2020",
+     "had moved",
+     "By next month"
+    ],
+    "strike": [],
+    "narration": "첫째, 에이 문장은 since 2020과 함께 지금까지 산 일을 현재완료로, 이 문장 I learned they had moved는 알게 된 것보다 먼저 이사한 일을 과거완료로, 에프 문장은 다음 달까지 끝날 일을 미래완료로 바르게 썼어요."
+   },
+   {
+    "note": "b) unless = 조건의 부사절 → will study ✗ → studies",
+    "highlight": [
+     "Unless Mina"
+    ],
+    "strike": [
+     "will study"
+    ],
+    "narration": "둘째, 비 문장의 unless는 조건을 나타내는 접속사라서 미래의 일도 will study가 아니라 studies로 써요."
+   },
+   {
+    "note": "c) 지금 기다리는 동작 → are waiting ✓ / d) know = 상태 → is knowing ✗ → knows / 틀린 문장 b), d) → 2개",
+    "highlight": [
+     "are waiting",
+     "② 2개"
+    ],
+    "strike": [
+     "is knowing"
+    ],
+    "narration": "셋째, 씨 문장의 are waiting은 지금 기다리는 동작이라 옳지만, 디 문장의 know는 상태를 나타내서 is knowing이 아니라 knows를 써요. 따라서 틀린 문장은 비와 디, 두 개예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 1개  ✗  b) will study, d) is knowing 둘 다 틀려요",
+    "② 2개  ✓  틀린 문장은 b), d) 두 개",
+    "③ 3개  ✗  e) had moved는 옳아요 (learned보다 먼저 이사)",
+    "④ 4개  ✗  c) are waiting도 옳아요 (지금 기다리는 동작)",
+    "⑤ 5개  ✗  a) has lived도 옳아요 (since 2020 + 현재완료)"
+   ],
+   "narration": "정답은 2번, 2개예요. 비 문장의 will study를 놓치면 1번을 고르게 되는데, unless절에서도 미래의 일은 현재시제로 써요. 이 문장 I learned they had moved까지 틀렸다고 세면 3번을 고르게 돼요. 이사한 일이 알게 된 것보다 먼저라서 과거완료가 맞아요."
+  },
+  "summary": {
+   "card": "시간·조건 부사절 → 미래의 일도 현재시제 · 상태동사 → 진행형 ✗",
+   "narration": "정답은 2번이에요. 기억할 것, 시간과 조건의 부사절은 미래의 일도 현재시제로 쓰고, 상태동사는 진행형으로 쓰지 않아요."
+  },
+  "captions": [
+   "틀린 문장 개수 고르기",
+   "먼저 풀어 보세요",
+   "시간 표현에 맞는 시제",
+   "완료 → 부사절 → 진행형",
+   "정답 ② 2개",
+   "부사절은 현재시제, 상태동사는 진행형 ✗"
+  ],
+  "sec": [
+   10,
+   17,
+   29,
+   42,
+   23,
+   12
+  ]
+ },
+ "C": {
+  "title": "완료시제·진행형·부사절의 시제",
+  "intro": "이 문제는 여러 시제의 쓰임을 따져 틀린 문장의 개수를 고르는 문제예요.",
+  "problem_narration": "밑줄 친 부분이 어법상 틀린 문장의 개수를 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료(have + 과거분사) + 분명한 과거 시점(yesterday, ago) ✗",
+    "시간·조건의 부사절(when, after, if, unless) → 미래의 일도 현재시제",
+    "상태동사(contain, know, own 등) → 진행형 ✗ · have(먹다)는 동작이라 진행형 ○",
+    "had + 과거분사 = 과거의 어느 때보다 먼저 · will have + 과거분사 = 미래의 어느 때까지",
+    "예) If you need help, I will come. (네가 도움이 필요하면 내가 갈게요.)"
+   ],
+   "narration": "현재완료는 yesterday처럼 분명한 과거 시점과 쓰지 않아요. 시간과 조건의 부사절은 미래의 일도 현재시제로 써요. If you need help, I will come. 네가 도움이 필요하면 내가 갈게요. contain 같은 상태동사는 진행형으로 쓰지 않아요. 과거완료는 과거의 어느 때보다 앞선 일을, 미래완료는 미래의 어느 때까지 끝나거나 이어질 일을 나타내요."
+  },
+  "steps": [
+   {
+    "note": "a) already + 현재완료 ✓ / e) discovered보다 먼저 → had left ✓ / f) By next June + 미래완료 ✓",
+    "highlight": [
+     "already",
+     "had left",
+     "By next June"
+    ],
+    "strike": [],
+    "narration": "첫째, 에이 문장은 already와 함께 이미 끝낸 일을 현재완료로, 이 문장 Jane discovered의 had left는 알게 된 것보다 먼저 가방을 두고 온 일을 과거완료로, 에프 문장은 다가오는 6월까지 이어질 일을 미래완료로 바르게 썼어요."
+   },
+   {
+    "note": "b) 조건의 if절 → will arrive ✗ → arrives",
+    "highlight": [
+     "If Tom"
+    ],
+    "strike": [
+     "will arrive"
+    ],
+    "narration": "둘째, 비 문장은 조건을 나타내는 if절이라 미래의 일도 will arrive가 아니라 arrives로 써요."
+   },
+   {
+    "note": "c) have = 먹다(동작) → are having ✓ / d) contain = 담고 있다(상태) → is containing ✗ → contains / 틀린 문장 b), d) → 2개",
+    "highlight": [
+     "are having",
+     "② 2개"
+    ],
+    "strike": [
+     "is containing"
+    ],
+    "narration": "셋째, 씨 문장의 have는 먹다라는 동작이라 are having이 옳지만, 디 문장의 contain은 담고 있다라는 상태라서 is containing이 아니라 contains를 써요. 따라서 틀린 문장은 비와 디, 두 개예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 1개  ✗  b) will arrive, d) is containing 둘 다 틀려요",
+    "② 2개  ✓  틀린 문장은 b), d) 두 개",
+    "③ 3개  ✗  c) are having은 옳아요 (have = 먹다)",
+    "④ 4개  ✗  e) had left도 옳아요 (discovered보다 먼저)",
+    "⑤ 5개  ✗  a) has already finished도 옳아요 (already + 현재완료)"
+   ],
+   "narration": "정답은 2번, 2개예요. 씨 문장의 are having까지 틀렸다고 세면 3번을 고르게 되는데, 먹다라는 뜻의 have는 동작이라 진행형으로 쓸 수 있어요. 디 문장의 is containing을 놓치면 1번을 고르게 돼요. 담고 있다라는 상태의 contain은 진행형으로 쓰지 않아요."
+  },
+  "summary": {
+   "card": "시간·조건 부사절 → 미래의 일도 현재시제 · 상태동사 → 진행형 ✗",
+   "narration": "정답은 2번이에요. 기억할 것, 시간과 조건의 부사절은 미래의 일도 현재시제로 쓰고, 상태동사는 진행형으로 쓰지 않아요."
+  },
+  "captions": [
+   "틀린 문장 개수 고르기",
+   "먼저 풀어 보세요",
+   "시간 표현에 맞는 시제",
+   "완료 → 부사절 → 진행형",
+   "정답 ② 2개",
+   "부사절은 현재시제, 상태동사는 진행형 ✗"
+  ],
+  "sec": [
+   10,
+   17,
+   30,
+   42,
+   22,
+   12
+  ]
+ },
+ "D": {
+  "title": "완료시제·진행형·부사절의 시제",
+  "intro": "이 문제는 여러 시제의 쓰임을 따져 틀린 문장의 개수를 고르는 문제예요.",
+  "problem_narration": "밑줄 친 부분이 어법상 틀린 문장의 개수를 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료(have + 과거분사) + 분명한 과거 시점(yesterday, ago) ✗",
+    "시간·조건의 부사절(when, after, if, unless) → 미래의 일도 현재시제",
+    "상태동사(belong, know, own 등) → 진행형 ✗ · have(먹다)는 동작이라 진행형 ○",
+    "had + 과거분사 = 과거의 어느 때보다 먼저 · will have + 과거분사 = 미래의 어느 때까지",
+    "예) When she comes, I will tell her. (그녀가 오면 내가 말해 줄게요.)"
+   ],
+   "narration": "현재완료는 yesterday처럼 분명한 과거 시점과 쓰지 않아요. 시간과 조건의 부사절은 미래의 일도 현재시제로 써요. When she comes, I will tell her. 그녀가 오면 내가 말해 줄게요. belong 같은 상태동사는 진행형으로 쓰지 않아요. 과거완료는 과거의 어느 때보다 앞선 일을, 미래완료는 미래의 어느 때까지 끝나거나 이어질 일을 나타내요."
+  },
+  "steps": [
+   {
+    "note": "a) twice = 경험 → has seen ✓ / e) 정류장에 닿기 전에 버스가 떠남 → had gone ✓ / f) By 2030 + 미래완료 ✓",
+    "highlight": [
+     "twice",
+     "had gone",
+     "By 2030"
+    ],
+    "strike": [],
+    "narration": "첫째, 에이 문장은 twice와 함께 두 번 본 경험을 현재완료로, 이 문장 We realized의 had gone은 정류장에 닿기 전에 버스가 떠난 일을 과거완료로, 에프 문장은 2030년까지 이어질 일을 미래완료로 바르게 썼어요."
+   },
+   {
+    "note": "b) 때의 when절 → will get ✗ → gets",
+    "highlight": [
+     "When Mina"
+    ],
+    "strike": [
+     "will get"
+    ],
+    "narration": "둘째, 비 문장은 때를 나타내는 when절이라 미래의 일도 will get이 아니라 gets로 써요."
+   },
+   {
+    "note": "c) now + 지금 하는 동작 → are studying ✓ / d) belong = ~의 것이다(상태) → is belonging ✗ → belongs / 틀린 문장 b), d) → 2개",
+    "highlight": [
+     "are studying",
+     "② 2개"
+    ],
+    "strike": [
+     "is belonging"
+    ],
+    "narration": "셋째, 씨 문장의 are studying은 now와 함께 지금 하는 동작이라 옳지만, 디 문장의 belong은 누구의 것이다라는 상태라서 is belonging이 아니라 belongs를 써요. 따라서 틀린 문장은 비와 디, 두 개예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 1개  ✗  b) will get, d) is belonging 둘 다 틀려요",
+    "② 2개  ✓  틀린 문장은 b), d) 두 개",
+    "③ 3개  ✗  e) had gone은 옳아요 (realized보다 먼저 떠남)",
+    "④ 4개  ✗  c) are studying도 옳아요 (now + 지금 하는 동작)",
+    "⑤ 5개  ✗  a) has seen도 옳아요 (twice + 경험)"
+   ],
+   "narration": "정답은 2번, 2개예요. 비 문장의 will get을 놓치면 1번을 고르게 되는데, when이 이끄는 때의 부사절에서는 미래의 일도 현재시제로 써요. 이 문장 We realized의 had gone까지 틀렸다고 세면 3번을 고르게 돼요. 버스가 떠난 일이 알아차린 것보다 먼저라서 과거완료가 맞아요."
+  },
+  "summary": {
+   "card": "시간·조건 부사절 → 미래의 일도 현재시제 · 상태동사 → 진행형 ✗",
+   "narration": "정답은 2번이에요. 기억할 것, 시간과 조건의 부사절은 미래의 일도 현재시제로 쓰고, 상태동사는 진행형으로 쓰지 않아요."
+  },
+  "captions": [
+   "틀린 문장 개수 고르기",
+   "먼저 풀어 보세요",
+   "시간 표현에 맞는 시제",
+   "완료 → 부사절 → 진행형",
+   "정답 ② 2개",
+   "부사절은 현재시제, 상태동사는 진행형 ✗"
+  ],
+  "sec": [
+   10,
+   17,
+   29,
+   42,
+   25,
+   12
+  ]
+ },
+ "E": {
+  "title": "완료시제·진행형·부사절의 시제",
+  "intro": "이 문제는 여러 시제의 쓰임을 따져 틀린 문장의 개수를 고르는 문제예요.",
+  "problem_narration": "밑줄 친 부분이 어법상 틀린 문장의 개수를 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료(have + 과거분사) + 분명한 과거 시점(yesterday, ago) ✗",
+    "시간·조건의 부사절(when, after, if, unless) → 미래의 일도 현재시제",
+    "상태동사(own, know, belong 등) → 진행형 ✗ · have(먹다)는 동작이라 진행형 ○",
+    "had + 과거분사 = 과거의 어느 때보다 먼저 · will have + 과거분사 = 미래의 어느 때까지",
+    "예) Jim knows the way, so he is driving. (짐은 길을 알아서 운전하고 있어요.)"
+   ],
+   "narration": "현재완료는 yesterday처럼 분명한 과거 시점과 쓰지 않아요. 시간과 조건의 부사절은 미래의 일도 현재시제로 써요. own 같은 상태동사는 진행형으로 쓰지 않아요. Jim knows the way, so he is driving. 짐은 길을 알아서 운전하고 있어요. 과거완료는 과거의 어느 때보다 앞선 일을, 미래완료는 미래의 어느 때까지 끝나거나 이어질 일을 나타내요."
+  },
+  "steps": [
+   {
+    "note": "a) since + 현재완료 ✓ / e) discovered보다 먼저 잊음 → had forgotten ✓ / f) By noon tomorrow + 미래완료 ✓",
+    "highlight": [
+     "since we were",
+     "had forgotten",
+     "By noon tomorrow"
+    ],
+    "strike": [],
+    "narration": "첫째, 에이 문장은 since와 함께 그때부터 지금까지 알고 지낸 일을 현재완료로, 이 문장 I discovered의 had forgotten은 알게 된 것보다 먼저 잊은 일을 과거완료로, 에프 문장은 내일 정오까지 끝낼 일을 미래완료로 바르게 썼어요."
+   },
+   {
+    "note": "b) 조건의 if절 → 현재시제 rains ✓",
+    "highlight": [
+     "If it",
+     "rains"
+    ],
+    "strike": [],
+    "narration": "둘째, 비 문장은 조건을 나타내는 if절이라 내일 일이라도 현재시제 rains를 쓴 것이 옳아요."
+   },
+   {
+    "note": "c) now + 지금 하는 동작 → is working ✓ / d) own = 가지고 있다(상태) → is owning ✗ → owns / 틀린 문장 d) → 1개",
+    "highlight": [
+     "is working",
+     "① 1개"
+    ],
+    "strike": [
+     "is owning"
+    ],
+    "narration": "셋째, 씨 문장의 is working은 now와 함께 지금 하는 동작이라 옳지만, 디 문장의 own은 가지고 있다라는 상태라서 is owning이 아니라 owns를 써요. 따라서 틀린 문장은 디 하나예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 1개  ✓  틀린 문장은 d) 하나",
+    "② 2개  ✗  b) rains는 옳아요 (조건의 if절 → 현재시제)",
+    "③ 3개  ✗  c) is working도 옳아요 (now + 지금 하는 동작)",
+    "④ 4개  ✗  e) had forgotten도 옳아요 (discovered보다 먼저)",
+    "⑤ 5개  ✗  a) have known도 옳아요 (since + 현재완료)"
+   ],
+   "narration": "정답은 1번, 1개예요. 비 문장의 rains를 틀렸다고 보면 2번을 고르게 되는데, 조건의 if절에서는 내일 일이라도 현재시제를 써서 옳아요. 에이 문장의 know는 상태동사지만, have known은 진행형이 아니라 현재완료라서 옳아요."
+  },
+  "summary": {
+   "card": "상태동사 → 진행형 ✗ · 시간·조건 부사절 → 미래의 일도 현재시제",
+   "narration": "정답은 1번이에요. 기억할 것, 상태동사는 진행형으로 쓰지 않고, 시간과 조건의 부사절에서는 미래의 일도 현재시제로 써요."
+  },
+  "captions": [
+   "틀린 문장 개수 고르기",
+   "먼저 풀어 보세요",
+   "시간 표현에 맞는 시제",
+   "완료 → 부사절 → 진행형",
+   "정답 ① 1개",
+   "상태동사는 진행형 ✗"
+  ],
+  "sec": [
+   10,
+   17,
+   30,
+   42,
+   21,
+   12
+  ]
+ },
+ "F": {
+  "title": "완료시제·진행형·부사절의 시제",
+  "intro": "이 문제는 여러 시제의 쓰임을 따져 틀린 문장의 개수를 고르는 문제예요.",
+  "problem_narration": "밑줄 친 부분이 어법상 틀린 문장의 개수를 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재완료(have + 과거분사) + 분명한 과거 시점(yesterday, ago) ✗",
+    "시간·조건의 부사절(when, after, if, unless) → 미래의 일도 현재시제",
+    "상태동사(prefer, know, own 등) → 진행형 ✗ · have(먹다)는 동작이라 진행형 ○",
+    "had + 과거분사 = 과거의 어느 때보다 먼저 · will have + 과거분사 = 미래의 어느 때까지",
+    "예) After he leaves, we will clean up. (그가 떠난 뒤에 우리는 청소할 거예요.)"
+   ],
+   "narration": "현재완료는 yesterday처럼 분명한 과거 시점과 쓰지 않아요. 시간과 조건의 부사절은 미래의 일도 현재시제로 써요. After he leaves, we will clean up. 그가 떠난 뒤에 우리는 청소할 거예요. prefer 같은 상태동사는 진행형으로 쓰지 않아요. 과거완료는 과거의 어느 때보다 앞선 일을, 미래완료는 미래의 어느 때까지 끝나거나 이어질 일을 나타내요."
+  },
+  "steps": [
+   {
+    "note": "a) just + 현재완료 ✓ / e) 도착하기 전에 가게가 닫음 → had closed ✓ / f) By Friday + 미래완료 ✓",
+    "highlight": [
+     "just",
+     "had closed",
+     "By Friday"
+    ],
+    "strike": [],
+    "narration": "첫째, 에이 문장은 just와 함께 방금 도착한 일을 현재완료로, 이 문장 We found의 had closed는 우리가 도착하기 전에 가게가 닫은 일을 과거완료로, 에프 문장은 금요일까지 끝낼 일을 미래완료로 바르게 썼어요."
+   },
+   {
+    "note": "b) 때의 after절 → will finish ✗ → finishes",
+    "highlight": [
+     "After Tom"
+    ],
+    "strike": [
+     "will finish"
+    ],
+    "narration": "둘째, 비 문장은 때를 나타내는 after절이라 미래의 일도 will finish가 아니라 finishes로 써요."
+   },
+   {
+    "note": "c) right now + 지금 하는 동작 → is talking ✓ / d) prefer = 더 좋아하다(상태) → is preferring ✗ → prefers / 틀린 문장 b), d) → 2개",
+    "highlight": [
+     "is talking",
+     "② 2개"
+    ],
+    "strike": [
+     "is preferring"
+    ],
+    "narration": "셋째, 씨 문장의 is talking은 right now와 함께 지금 하는 동작이라 옳지만, 디 문장의 prefer는 더 좋아한다라는 상태라서 is preferring이 아니라 prefers를 써요. 따라서 틀린 문장은 비와 디, 두 개예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 1개  ✗  b) will finish, d) is preferring 둘 다 틀려요",
+    "② 2개  ✓  틀린 문장은 b), d) 두 개",
+    "③ 3개  ✗  c) is talking은 옳아요 (right now + 지금 하는 동작)",
+    "④ 4개  ✗  e) had closed도 옳아요 (got there보다 먼저)",
+    "⑤ 5개  ✗  a) has just arrived도 옳아요 (just + 현재완료)"
+   ],
+   "narration": "정답은 2번, 2개예요. 디 문장의 is preferring을 놓치면 1번을 고르게 되는데, these days가 있어도 prefer는 좋아하는 상태라서 진행형으로 쓰지 않아요. 이 문장 We found의 had closed까지 틀렸다고 세면 3번을 고르게 돼요. 가게가 닫은 일이 우리가 도착한 것보다 먼저라서 과거완료가 맞아요."
+  },
+  "summary": {
+   "card": "시간·조건 부사절 → 미래의 일도 현재시제 · 상태동사 → 진행형 ✗",
+   "narration": "정답은 2번이에요. 기억할 것, 시간과 조건의 부사절은 미래의 일도 현재시제로 쓰고, 상태동사는 진행형으로 쓰지 않아요."
+  },
+  "captions": [
+   "틀린 문장 개수 고르기",
+   "먼저 풀어 보세요",
+   "시간 표현에 맞는 시제",
+   "완료 → 부사절 → 진행형",
+   "정답 ② 2개",
+   "부사절은 현재시제, 상태동사는 진행형 ✗"
+  ],
+  "sec": [
+   10,
+   17,
+   30,
+   42,
+   26,
+   12
+  ]
+ }
+}

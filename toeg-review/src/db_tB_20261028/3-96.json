@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:11:13.328Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "soft",
+      "1": "softness",
+      "2": "soften",
+      "3": "more softer",
+      "4": "to soft"
+    },
+    "expl": "핵심 규칙: become, look, smell, seem, feel 뒤에서 주어의 상태를 설명하는 보어 자리에는 부사가 아니라 형용사를 쓴다.\n풀이 순서: ① 밑줄 앞의 동사를 본다: feels. 뒤에 주어의 상태를 설명하는 보어가 온다. → ② 보어 자리에는 부사(softly)가 아니라 형용사를 쓴다. → ③ 정답은 soft.\n문장별 판정:\n정답 판단: feel 뒤 보어 자리에는 형용사를 쓰므로 softly를 soft로 고친다. 정답은 ①이다.\n선택지 분석:\n① [정답] feel 뒤 보어 자리에 형용사를 바르게 썼으므로 정답이다.\n② [오답] 명사로는 주어의 상태를 설명하지 못해 뜻이 맞지 않으므로 오답이다.\n③ [오답] soften은 ‘부드럽게 하다’라는 동사라 보어 자리에 쓸 수 없으므로 오답이다.\n④ [오답] more와 -er을 겹쳐 쓸 수 없고 비교할 대상도 없으므로 오답이다.\n⑤ [오답] to 뒤에는 동사원형을 쓰므로 오답이다.",
+    "passage": "This new pillow on my bed feels <u>softly</u>.",
+    "stem": "다음 문장에서 밑줄 친 부분을 바르게 고친 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:06:50.332Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:23:01.072Z",
+      "text": "softly를 고쳐야 하는데, 선택지에 softly가 있으니 어색함."
+    }
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T03:11:13.328Z",
+  "verdict": "부적합",
+  "verdictAt": "2026-10-27T05:22:51.383Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:11:13.328Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+ "key": "5-68",
+ "grade": 5,
+ "chapter": "CH 7 숫자 표현과 비인칭주어 it",
+ "items": {
+  "A": {
+   "stem": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.",
+   "passage": "A: What ________ is it today?\nB: It's Friday.\nA: Then, what ________ is it today?\nB: It's December 24th.",
+   "c": [
+    "date — day",
+    "time — date",
+    "day — time",
+    "day — date",
+    "date — time"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 요일은 What day is it?, 날짜는 What date is it?(What's the date?), 시각은 What time is it?으로 묻는다.\n풀이 순서: ① 빈칸은 질문에 있으므로 대답을 먼저 본다. → ② 첫 대답은 Friday(요일) → day, 둘째 대답은 December 24th(날짜) → date. → ③ 정답은 day — date.\n문장별 판정:\n정답 판단: 요일은 day, 날짜는 date로 물으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 요일로 답한 첫 질문에 date를 쓸 수 없으므로 오답이다.\n② [오답] 요일로 답한 첫 질문에 time을 쓸 수 없으므로 오답이다.\n③ [오답] 날짜로 답한 둘째 질문에 time을 쓸 수 없으므로 오답이다.\n④ [정답] 요일은 day, 날짜는 date로 물으므로 정답이다.\n⑤ [오답] 첫 질문과 둘째 질문 모두 대답과 맞지 않으므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.",
+   "passage": "A: ________ is it?\nB: It is a quarter past five.\nA: ________ is the weather today?\nB: It is windy.",
+   "c": [
+    "What day — What",
+    "How long — Where",
+    "What date — When",
+    "What time — How",
+    "How far — Who"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 요일은 What day is it?, 날짜는 What date is it?(What's the date?), 시각은 What time is it?으로 묻는다.\n풀이 순서: ① 빈칸은 질문에 있으므로 대답을 먼저 본다. → ② 첫 대답은 a quarter past five(시각) → What time, 둘째 대답은 windy(날씨) → How. → ③ 정답은 What time — How.\n문장별 판정:\n정답 판단: (첫째 빈칸) a quarter past five는 시각 정보이므로 What time is it?으로 묻는다. What time이 알맞다. (둘째 빈칸) windy는 날씨 정보이므로 How is the weather today?로 묻는다. How가 알맞다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] (첫째 빈칸) a quarter past five는 시각 정보이므로 What time is it?으로 묻는다. 이 질문을 완성할 표현은 What time이다. (둘째 빈칸) windy는 날씨 정보이므로 How is the weather today?로 묻는다. 이 질문을 완성할 표현은 How이다.\n② [오답] (첫째 빈칸) a quarter past five는 시각 정보이므로 What time is it?으로 묻는다. 이 질문을 완성할 표현은 What time이다. (둘째 빈칸) windy는 날씨 정보이므로 How is the weather today?로 묻는다. 이 질문을 완성할 표현은 How이다.\n③ [오답] (첫째 빈칸) a quarter past five는 시각 정보이므로 What time is it?으로 묻는다. 이 질문을 완성할 표현은 What time이다. (둘째 빈칸) windy는 날씨 정보이므로 How is the weather today?로 묻는다. 이 질문을 완성할 표현은 How이다.\n④ [정답] (첫째 빈칸) a quarter past five는 시각 정보이므로 What time is it?으로 묻는다. What time이 알맞다. (둘째 빈칸) windy는 날씨 정보이므로 How is the weather today?로 묻는다. How가 알맞다.\n⑤ [오답] (첫째 빈칸) a quarter past five는 시각 정보이므로 What time is it?으로 묻는다. 이 질문을 완성할 표현은 What time이다. (둘째 빈칸) windy는 날씨 정보이므로 How is the weather today?로 묻는다. 이 질문을 완성할 표현은 How이다."
+  },
+  "C": {
+   "stem": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.",
+   "passage": "A: What ________ is it?\nB: It's 8:30.\nA: What ________ is it today?\nB: It's Monday.",
+   "c": [
+    "long — day",
+    "time — day",
+    "time — date",
+    "date — day",
+    "day — time"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 요일은 What day is it?, 날짜는 What date is it?(What's the date?), 시각은 What time is it?으로 묻는다.\n풀이 순서: ① 빈칸은 질문에 있으므로 대답을 먼저 본다. → ② 첫 대답은 8:30(시각) → time, 둘째 대답은 Monday(요일) → day. → ③ 정답은 time — day.\n문장별 판정:\n정답 판단: (첫째 빈칸) 8:30은 시각 정보이므로 What time is it?으로 묻는다. time이 알맞다. (둘째 빈칸) Monday는 요일 정보이므로 What day is it today?로 묻는다. day가 알맞다. 따라서 정답은 ②이다.\n선택지 분석:\n① [오답] (첫째 빈칸) 8:30은 시각 정보이므로 What time is it?으로 묻는다. 이 질문을 완성할 표현은 time이다. (둘째 빈칸) Monday는 요일 정보이므로 What day is it today?로 묻는다. day가 알맞다.\n② [정답] (첫째 빈칸) 8:30은 시각 정보이므로 What time is it?으로 묻는다. time이 알맞다. (둘째 빈칸) Monday는 요일 정보이므로 What day is it today?로 묻는다. day가 알맞다.\n③ [오답] (첫째 빈칸) 8:30은 시각 정보이므로 What time is it?으로 묻는다. time이 알맞다. (둘째 빈칸) Monday는 요일 정보이므로 What day is it today?로 묻는다. 이 질문을 완성할 표현은 day이다.\n④ [오답] (첫째 빈칸) 8:30은 시각 정보이므로 What time is it?으로 묻는다. 이 질문을 완성할 표현은 time이다. (둘째 빈칸) Monday는 요일 정보이므로 What day is it today?로 묻는다. day가 알맞다.\n⑤ [오답] (첫째 빈칸) 8:30은 시각 정보이므로 What time is it?으로 묻는다. 이 질문을 완성할 표현은 time이다. (둘째 빈칸) Monday는 요일 정보이므로 What day is it today?로 묻는다. 이 질문을 완성할 표현은 day이다."
+  },
+  "D": {
+   "stem": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.",
+   "passage": "A: What ________ is it today?\nB: It's June 3rd.\nA: What ________ is it?\nB: It's Tuesday.",
+   "c": [
+    "long - day",
+    "weather - time",
+    "time - date",
+    "date - day",
+    "day - time"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 요일은 What day is it?, 날짜는 What date is it?(What's the date?), 시각은 What time is it?으로 묻는다.\n풀이 순서: ① 빈칸은 질문에 있으므로 대답을 먼저 본다. → ② 첫 대답은 June 3rd(날짜) → date, 둘째 대답은 Tuesday(요일) → day. → ③ 정답은 date - day.\n문장별 판정:\n정답 판단: (첫째 빈칸) June 3rd는 날짜 정보이므로 What date is it today?로 묻는다. date가 알맞다. (둘째 빈칸) Tuesday는 요일 정보이므로 What day is it?으로 묻는다. day가 알맞다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] (첫째 빈칸) June 3rd는 날짜 정보이므로 What date is it today?로 묻는다. 이 질문을 완성할 표현은 date이다. (둘째 빈칸) Tuesday는 요일 정보이므로 What day is it?으로 묻는다. day가 알맞다.\n② [오답] (첫째 빈칸) June 3rd는 날짜 정보이므로 What date is it today?로 묻는다. 이 질문을 완성할 표현은 date이다. (둘째 빈칸) Tuesday는 요일 정보이므로 What day is it?으로 묻는다. 이 질문을 완성할 표현은 day이다.\n③ [오답] (첫째 빈칸) June 3rd는 날짜 정보이므로 What date is it today?로 묻는다. 이 질문을 완성할 표현은 date이다. (둘째 빈칸) Tuesday는 요일 정보이므로 What day is it?으로 묻는다. 이 질문을 완성할 표현은 day이다.\n④ [정답] (첫째 빈칸) June 3rd는 날짜 정보이므로 What date is it today?로 묻는다. date가 알맞다. (둘째 빈칸) Tuesday는 요일 정보이므로 What day is it?으로 묻는다. day가 알맞다.\n⑤ [오답] (첫째 빈칸) day는 문맥에 따라 특정 날짜를 뜻할 수도 있다. 다만 날짜를 명확히 묻는 표현은 What date is it today?이다. (둘째 빈칸) Tuesday는 요일 정보이므로 What day is it?으로 묻는다. 이 질문을 완성할 표현은 day이다."
+  },
+  "E": {
+   "stem": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.",
+   "passage": "A: How ________ is it?\nB: It's 10 dollars.\nA: How ________ does it take?\nB: Ten minutes.",
+   "c": [
+    "time - date",
+    "long - day",
+    "much - long",
+    "far - day",
+    "day - time"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 요일은 What day is it?, 날짜는 What date is it?(What's the date?), 시각은 What time is it?으로 묻는다.\n풀이 순서: ① 빈칸은 질문에 있으므로 대답을 먼저 본다. → ② 첫 대답은 10 dollars(값) → much, 둘째 대답은 Ten minutes(걸리는 시간) → long. → ③ 정답은 much - long.\n문장별 판정:\n정답 판단: (첫째 빈칸) 10 dollars는 가격 정보이므로 How much is it?으로 묻는다. much가 알맞다. (둘째 빈칸) Ten minutes는 소요 시간 정보이므로 How long does it take?로 묻는다. long이 알맞다. 따라서 정답은 ③이다.\n선택지 분석:\n① [오답] (첫째 빈칸) 10 dollars는 가격 정보이므로 How much is it?으로 묻는다. 이 질문을 완성할 표현은 much이다. (둘째 빈칸) Ten minutes는 소요 시간 정보이므로 How long does it take?로 묻는다. 이 질문을 완성할 표현은 long이다.\n② [오답] (첫째 빈칸) 10 dollars는 가격 정보이므로 How much is it?으로 묻는다. 이 질문을 완성할 표현은 much이다. (둘째 빈칸) Ten minutes는 소요 시간 정보이므로 How long does it take?로 묻는다. 이 질문을 완성할 표현은 long이다.\n③ [정답] (첫째 빈칸) 10 dollars는 가격 정보이므로 How much is it?으로 묻는다. much가 알맞다. (둘째 빈칸) Ten minutes는 소요 시간 정보이므로 How long does it take?로 묻는다. long이 알맞다.\n④ [오답] (첫째 빈칸) 10 dollars는 가격 정보이므로 How much is it?으로 묻는다. 이 질문을 완성할 표현은 much이다. (둘째 빈칸) Ten minutes는 소요 시간 정보이므로 How long does it take?로 묻는다. 이 질문을 완성할 표현은 long이다.\n⑤ [오답] (첫째 빈칸) 10 dollars는 가격 정보이므로 How much is it?으로 묻는다. 이 질문을 완성할 표현은 much이다. (둘째 빈칸) Ten minutes는 소요 시간 정보이므로 How long does it take?로 묻는다. 이 질문을 완성할 표현은 long이다."
+  },
+  "F": {
+   "stem": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.",
+   "passage": "A: How is the ________ today?\nB: It's sunny.\nA: What ________ is it today?\nB: It's Sunday.",
+   "c": [
+    "time - date",
+    "day - time",
+    "long - day",
+    "date - day",
+    "weather - day"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 요일은 What day is it?, 날짜는 What date is it?(What's the date?), 시각은 What time is it?으로 묻는다.\n풀이 순서: ① 빈칸은 질문에 있으므로 대답을 먼저 본다. → ② 첫 대답은 sunny(날씨) → weather, 둘째 대답은 Sunday(요일) → day. → ③ 정답은 weather - day.\n문장별 판정:\n정답 판단: (첫째 빈칸) sunny는 날씨 정보이므로 How is the weather today?로 묻는다. weather가 알맞다. (둘째 빈칸) Sunday는 요일 정보이므로 What day is it today?로 묻는다. day가 알맞다. 따라서 정답은 ⑤이다.\n선택지 분석:\n① [오답] (첫째 빈칸) sunny는 날씨 정보이므로 How is the weather today?로 묻는다. 이 질문을 완성할 표현은 weather이다. (둘째 빈칸) Sunday는 요일 정보이므로 What day is it today?로 묻는다. 이 질문을 완성할 표현은 day이다.\n② [오답] (첫째 빈칸) sunny는 날씨 정보이므로 How is the weather today?로 묻는다. 이 질문을 완성할 표현은 weather이다. (둘째 빈칸) Sunday는 요일 정보이므로 What day is it today?로 묻는다. 이 질문을 완성할 표현은 day이다.\n③ [오답] (첫째 빈칸) sunny는 날씨 정보이므로 How is the weather today?로 묻는다. 이 질문을 완성할 표현은 weather이다. (둘째 빈칸) Sunday는 요일 정보이므로 What day is it today?로 묻는다. day가 알맞다.\n④ [오답] (첫째 빈칸) sunny는 날씨 정보이므로 How is the weather today?로 묻는다. 이 질문을 완성할 표현은 weather이다. (둘째 빈칸) Sunday는 요일 정보이므로 What day is it today?로 묻는다. day가 알맞다.\n⑤ [정답] (첫째 빈칸) sunny는 날씨 정보이므로 How is the weather today?로 묻는다. weather가 알맞다. (둘째 빈칸) Sunday는 요일 정보이므로 What day is it today?로 묻는다. day가 알맞다."
+  }
+ },
+ "prior_review": {}
+}

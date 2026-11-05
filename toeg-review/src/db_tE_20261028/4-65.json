@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T08:17:48.141Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "ⓐ, ⓑ",
+      "1": "ⓐ, ⓒ",
+      "2": "ⓑ, ⓒ",
+      "3": "ⓑ, ⓓ",
+      "4": "ⓒ, ⓓ"
+    },
+    "expl": "핵심 규칙: many·(a) few는 셀 수 있는 명사, much·(a) little은 셀 수 없는 명사와 쓴다. 빈도부사는 일반동사 앞, be동사 뒤에 두고, 3인칭 단수 주어의 동사에는 -s/-es를 붙인다.\n풀이 순서: ① 밑줄이 수량 표현이면 뒤의 명사가 셀 수 있는지, 동사이면 주어와 맞는지 본다. → ② ⓒ much pencils(many pencils), ⓓ goes always(always goes)가 틀렸다. ⓐ, ⓑ는 옳다. → ③ 옳은 문장만 고른 ⓐ, ⓑ가 정답이다.\n문장별 판정:\nⓐ O. 빈도부사가 일반동사 앞에 왔다.\nⓑ O. 셀 수 없는 명사 homework에 a little을 썼다.\nⓒ X. 셀 수 있는 명사 pencils에는 many를 쓴다.\nⓓ X. 빈도부사는 일반동사 앞에 와서 always goes로 쓴다.\n정답 판단: 밑줄 친 부분이 옳은 문장은 ⓐ, ⓑ이다.\n선택지 분석:\n① [정답] 옳은 문장 ⓐ, ⓑ를 빠짐없이 골랐으므로 정답이다.\n② [오답] ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓑ를 빠뜨렸다. 따라서 오답이다.\n③ [오답] ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓐ를 빠뜨렸다. 따라서 오답이다.\n④ [오답] ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓐ를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] ⓒ, ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓐ, ⓑ를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "ⓐ Tom <u>rarely eats</u> fast food for lunch.\nⓑ We have <u>a little homework</u> this weekend.\nⓒ Jane has <u>much pencils</u> in her bag.\nⓓ He <u>goes always</u> to bed early.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T08:16:23.805Z"
+  },
+  "tab": "x2buc7cy",
+  "updatedAt": "2026-10-27T08:17:48.141Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T08:17:48.141Z",
+      "what": "확인 완료"
+    }
+  }
+}

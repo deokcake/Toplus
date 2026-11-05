@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:38:51.817Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "cold - colder",
+      "1": "colder - coldest",
+      "2": "coldest - colder",
+      "3": "more cold - most cold",
+      "4": "colder - most cold"
+    },
+    "expl": "핵심 규칙: than 앞에는 비교급, the + ~ 자리에는 최상급을 쓴다. 짧은 단어 cold는 colder - coldest로 바뀐다.\n풀이 순서: ① 첫 빈칸은 than 앞이므로 비교급, 둘째 빈칸은 the 뒤이므로 최상급이다. → ② 철자 규칙을 확인한다: cold는 짧은 낱말이라 -er, -est를 붙여 colder, coldest. → ③ 정답은 colder - coldest.\n문장별 판정:\n정답 판단: 비교급 colder와 최상급 coldest를 바르게 골랐으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 첫 빈칸은 than 앞이라 비교급 colder, 둘째 빈칸은 the 뒤라 최상급 coldest를 쓰므로 오답이다.\n② [정답] 비교급 colder와 최상급 coldest를 바르게 골랐으므로 정답이다.\n③ [오답] 비교급과 최상급의 자리가 바뀌었으므로 오답이다.\n④ [오답] 짧은 단어 cold에는 more, most가 아니라 -er, -est를 붙이므로 오답이다.\n⑤ [오답] cold의 최상급은 coldest이므로 오답이다.",
+    "passage": "Winter is ________(더 추운) than fall.\nJanuary is the ________(가장 추운) month.",
+    "stem": null
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:38:50.597Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:38:51.817Z",
+      "what": "확인 완료"
+    }
+  }
+}

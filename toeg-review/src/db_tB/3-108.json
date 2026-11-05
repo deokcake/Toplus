@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-21 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-23T01:47:39.549Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "This is one of the oldest building in our town.",
+      "1": "This is one of the older buildings in our town.",
+      "2": "This is the one of oldest buildings in our town.",
+      "3": "This is one of the oldest buildings in our town.",
+      "4": "This is one of oldest the buildings in our town."
+    },
+    "expl": "핵심 규칙: ‘가장 ~한 것 중 하나’는 one of the + 최상급 + 복수명사로 쓴다.\n풀이 순서: ① ‘가장 ~한 … 중 하나’의 틀을 세운다: one of the + 최상급 + 복수명사. → ② 형태를 바꿀 낱말은 둘이다: old → oldest, building → buildings. → ③ the가 최상급 바로 앞에 있는지도 확인한다. 정답은 ④.\n문장별 판정:\n정답 판단: one of the + 최상급(oldest) + 복수명사(buildings)로 바르게 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 최상급 뒤에 단수 building를 썼고, 복수형 buildings이 되어야 하므로 오답이다.\n② [오답] ‘가장 ~한 것 중 하나’는 비교급 older가 아니라 최상급 oldest을 쓰므로 오답이다.\n③ [오답] the가 one 앞에 와서 one of the + 최상급 어순이 깨졌으므로 오답이다.\n④ [정답] one of the + 최상급(oldest) + 복수명사(buildings)로 바르게 썼으므로 정답이다.\n⑤ [오답] the가 최상급 oldest 뒤로 가서 one of the + 최상급 어순이 깨졌으므로 오답이다.",
+    "passage": "이것은 우리 동네에서 가장 오래된 건물 중 하나이다.\n( one / this / old / of / in / is / building / the / our / town / . )",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오. (필요하면 단어의 형태를 바꿀 것)"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-20T07:50:59.457Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T07:51:36.555Z",
+      "text": "제시된 단어 순서대로 정답이 배열된다. 제시되는 단어의 순서를 바꿀 필요가 있음."
+    }
+  },
+  "tab": "765wette",
+  "updatedAt": "2026-10-23T01:47:41.230Z",
+  "verdict": null,
+  "verdictAt": "2026-10-23T01:47:41.230Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T01:47:41.230Z",
+      "what": "판정을 Claude 판정으로 되돌림"
+    }
+  }
+}

@@ -1,0 +1,181 @@
+{
+ "key": "1-17",
+ "type": "B",
+ "grade": 1,
+ "chapter": "CH 2 시제",
+ "title": "현재완료와 끝난 과거 시점",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "1급 · CH 2 시제 · 17번 · B 유형\n\n이 문제는 현재완료와 과거형의 쓰임을 따져 어법상 어색한 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 2 시제 · 17번 · B 유형",
+     "이 문제는 현재완료와 과거형의 쓰임을 따져 어법상 어색한 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 2, 17번 B 유형. 이 문제는 현재완료와 과거형의 쓰임을 따져 어법상 어색한 문장을 고르는 문제예요.",
+   "caption": "현재완료와 끝난 과거 시점"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 어법상 어색한 문장을 고르시오.\n\n① Mina finished the report yesterday.\n② They have visited Busan last summer.\n③ We have already moved the boxes.\n④ Tom has known her for years.\n⑤ Jane has just called me.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 어법상 어색한 문장을 고르시오.",
+     "① Mina finished the report yesterday.",
+     "② They have visited Busan last summer.",
+     "③ We have already moved the boxes.",
+     "④ Tom has known her for years.",
+     "⑤ Jane has just called me."
+    ]
+   },
+   "narration": "다음 중 어법상 어색한 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\n현재완료 = have/has + 과거분사\n과거의 일이 지금과 이어질 때 (경험·완료·계속·결과)\nsince, for, ever, already, just 등과 자주 함께 써요\n끝난 과거 시점 (yesterday, last ~, ~ ago, in 2020) → 현재완료 ✗, 과거형 ○\n예) He has played the piano for five years. (그는 5년 동안 피아노를 쳐 왔어요.)  He played it yesterday. (그는 어제 그것을 쳤어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재완료 = have/has + 과거분사",
+     "과거의 일이 지금과 이어질 때 (경험·완료·계속·결과)",
+     "since, for, ever, already, just 등과 자주 함께 써요",
+     "끝난 과거 시점 (yesterday, last ~, ~ ago, in 2020) → 현재완료 ✗, 과거형 ○",
+     "예) He has played the piano for five years. (그는 5년 동안 피아노를 쳐 왔어요.)  He played it yesterday. (그는 어제 그것을 쳤어요.)"
+    ]
+   },
+   "narration": "현재완료는 have나 has 뒤에 과거분사를 쓰고, 과거의 일이 지금과 이어질 때 써요. since, for, ever, already, just와 자주 함께 써요. 하지만 yesterday나 two days ago처럼 끝난 과거의 때를 밝히면 현재완료가 아니라 과거형을 써요. He has played the piano for five years. 그는 5년 동안 피아노를 쳐 왔어요. He played it yesterday. 그는 어제 그것을 쳤어요.",
+   "caption": "끝난 과거 시점엔 과거형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 중 어법상 어색한 문장을 고르시오.\n\n① Mina finished the report yesterday.\n② They have visited Busan last summer.\n③ We have already moved the boxes.\n④ Tom has known her for years.\n⑤ Jane has just called me.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "yesterday",
+       "last summer",
+       "already",
+       "for years",
+       "just"
+      ],
+      "strike": [],
+      "note": "문장마다 때를 나타내는 말 찾기 → 동사의 시제와 짝짓기"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① Mina finished the report yesterday.",
+       "③ We have already moved the boxes.",
+       "④ Tom has known her for years.",
+       "⑤ Jane has just called me."
+      ],
+      "note": "① yesterday + 과거형 finished ○ / ③④⑤ already·for years·just + 현재완료 ○"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "last summer"
+      ],
+      "strike": [
+       "have visited"
+      ],
+      "note": "② last summer = 끝난 과거 시점 + have visited ✗ → They visited Busan last summer."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 때를 나타내는 말을 찾아 동사의 시제와 짝지어요. 둘째, 1번은 끝난 과거 시점 yesterday에 과거형 finished를 썼고, 3번부터 5번은 already, for years, just와 함께 현재완료를 써서 모두 바른 문장이에요. 셋째, 2번은 끝난 과거 시점 last summer와 현재완료 have visited를 함께 써서 어색하니, 과거형 visited로 고쳐요. They visited Busan last summer. 그들은 지난여름에 부산을 방문했어요.",
+   "caption": "때 표현 찾기 → 시제 짝짓기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① Mina finished the report yesterday.  ✗  yesterday + 과거형 finished (바른 문장)\n② They have visited Busan last summer.  ✓  last summer는 끝난 과거 시점 → visited로\n③ We have already moved the boxes.  ✗  already + 현재완료: 완료 (바른 문장)\n④ Tom has known her for years.  ✗  for years + 현재완료: 계속 (바른 문장)\n⑤ Jane has just called me.  ✗  just + 현재완료: 방금 끝난 일 (바른 문장)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Mina finished the report yesterday.  ✗  yesterday + 과거형 finished (바른 문장)",
+     "② They have visited Busan last summer.  ✓  last summer는 끝난 과거 시점 → visited로",
+     "③ We have already moved the boxes.  ✗  already + 현재완료: 완료 (바른 문장)",
+     "④ Tom has known her for years.  ✗  for years + 현재완료: 계속 (바른 문장)",
+     "⑤ Jane has just called me.  ✗  just + 현재완료: 방금 끝난 일 (바른 문장)"
+    ]
+   },
+   "narration": "정답은 last summer와 현재완료를 함께 쓴 2번이에요. 4번은 for years와 함께 여러 해 전부터 지금까지 그녀를 알아 온 일을 현재완료로 써서 맞아요. 5번은 just와 함께 방금 끝난 일을 현재완료로 써서 맞아요.",
+   "caption": "정답 ② → visited"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ② They have visited Busan last summer.\n\n끝난 과거 시점(yesterday, last ~, ~ ago, in 2020) → 과거형 (현재완료 ✗)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② They have visited Busan last summer.",
+     "끝난 과거 시점(yesterday, last ~, ~ ago, in 2020) → 과거형 (현재완료 ✗)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, last summer처럼 끝난 과거 시점을 밝히면 현재완료가 아니라 과거형을 써요.",
+   "caption": "끝난 과거 시점 → 과거형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 어법상 어색한 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Mina finished the report yesterday.",
+   "They have visited Busan last summer.",
+   "We have already moved the boxes.",
+   "Tom has known her for years.",
+   "Jane has just called me."
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 현재완료(have/has + p.p.)는 현재와 연결된 경험·결과·계속을 나타내며, yesterday, last Monday, in 2021처럼 끝난 특정 과거 시점과 직접 함께 쓰지 않는다.\n풀이 순서: ① 문장마다 시간 표현을 찾아 동사 시제와 짝짓는다. → ② since·for·ever·already·just는 현재완료와, 끝난 과거 시점은 과거형과 어울린다. → ③ 선택지 ②는 현재완료를 끝난 과거 시점(last summer)과 함께 썼으므로 과거형(visited)으로 고쳐야 한다.\n문장별 판정:\n정답 판단: ‘They have visited Busan last summer.’는 현재완료와 끝난 과거 시점 ‘last summer’를 함께 써서 어색하다. 해당 사건은 단순과거로 나타내야 한다.\n선택지 분석:\n① [오답] ‘Mina finished the report yesterday.’는 시제와 시간 표현의 결합이 자연스럽다.\n② [정답] ‘They have visited Busan last summer.’는 현재완료와 끝난 과거 시점 ‘last summer’를 함께 써서 어색하다. 해당 사건은 단순과거로 나타내야 한다.\n③ [오답] ‘We have already moved the boxes.’는 시제와 시간 표현의 결합이 자연스럽다.\n④ [오답] ‘Tom has known her for years.’는 시제와 시간 표현의 결합이 자연스럽다.\n⑤ [오답] ‘Jane has just called me.’는 시제와 시간 표현의 결합이 자연스럽다."
+ }
+}

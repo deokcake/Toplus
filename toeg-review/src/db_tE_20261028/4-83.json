@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T08:22:48.595Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "midnight, 7 p.m., bedtime",
+      "1": "the morning, November, autumn",
+      "2": "2008, winter, February",
+      "3": "Wednesday, Christmas Day, July 4th",
+      "4": "night, noon, 4:30"
+    },
+    "expl": "핵심 규칙: 요일·날짜·특정한 날(생일, 공휴일)에는 on, 월·계절·연도·아침·오후·저녁에는 in, 시각·정오·자정·밤·식사 시간에는 at을 쓴다.\n풀이 순서: ① 묶음마다 낱말이 무엇인지 가른다: 시각·한 시점(at), 요일·날짜·특정한 날(on), 달·계절·연도·하루의 한때(in). → ② 세 낱말이 모두 요일·날짜·특정한 날인 묶음을 찾는다: Wednesday(요일), Christmas Day(특정한 날), July 4th(날짜). → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 요일·날짜·특정한 날이라 모두 on과 함께 쓰므로 정답은 ④이다.\n선택지 분석:\n① [오답] 자정·시각·잘 시간은 at과 함께 쓰므로 오답이다.\n② [오답] 아침·월·계절은 in과 함께 쓰므로 오답이다.\n③ [오답] 연도·계절·월은 in과 함께 쓰므로 오답이다.\n④ [정답] 요일·날짜·특정한 날이라 모두 on과 함께 쓰므로 정답이다.\n⑤ [오답] 밤·정오·시각은 at과 함께 쓰므로 오답이다.",
+    "passage": null,
+    "stem": "다음 명사들 중 전치사 ‘on’과 함께 쓰일 수 있는 것으로만 묶인 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T08:22:45.389Z"
+  },
+  "tab": "x2buc7cy",
+  "updatedAt": "2026-10-27T08:22:48.595Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T08:22:48.595Z",
+      "what": "확인 완료"
+    }
+  }
+}

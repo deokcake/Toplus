@@ -1,0 +1,45 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-28T04:36:26.847Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "사용할 수 있다",
+      "1": "사용할지도 모른다",
+      "2": "사용해서는 안 된다",
+      "3": "사용해야 한다",
+      "4": "사용할 필요가 없다"
+    },
+    "expl": "핵심 규칙: must not은 ‘~해서는 안 된다’는 금지를 나타낸다. can(~할 수 있다), may(~해도 된다, ~할지도 모른다), must(~해야 한다), don't have to(~할 필요가 없다)와 구별한다.\n풀이 순서: ① must(~해야 한다)에 not이 붙으면 ‘~해서는 안 된다’는 금지가 된다. → ② 문장에 넣어 본다: ‘시험 중에 휴대전화를 사용해서는 안 된다’. ‘~할 필요가 없다’(don't have to)와 헷갈리지 않는다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: must not은 ‘~해서는 안 된다’는 금지를 나타내므로 정답은 ③이다.\n선택지 분석:\n① [오답] ‘~할 수 있다’는 can의 뜻이므로 오답이다.\n② [오답] ‘~할지도 모른다’는 추측의 may의 뜻이므로 오답이다.\n③ [정답] must not은 ‘~해서는 안 된다’는 금지를 나타내므로 정답이다.\n④ [오답] ‘~해야 한다’는 must의 뜻이므로 오답이다.\n⑤ [오답] ‘~할 필요가 없다’는 don't have to의 뜻이므로 오답이다.",
+    "passage": "Students <u>must not use</u> phones during the test.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-28T04:36:23.182Z"
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:23:31.305Z",
+      "text": "use까지 밑줄을 그어야합니다."
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": null
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:36:26.847Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T04:36:26.281Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:23:51.035Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:36:26.847Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-20T07:43:29.769Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "expl": "핵심 규칙: 수량어 뒤에 해당 명사의 올바른 복수형이 온다.\n풀이 순서: ① 빈칸 앞의 many를 본다. 둘 이상이므로 복수형이 필요하다. → ② 단수형과 a가 붙은 것을 지우고, 복수형 철자를 확인한다: leaf → leaves(f를 v로 바꾸고 -es). → ③ 정답은 leaves.\n문장별 판정:\n정답 판단: 정답은 ①입니다. leaf는 끝의 f를 ves로 바꾸어 leaves로 씁니다. 빈칸 앞의 two 또는 many에 맞는 복수형입니다.\n선택지 분석:\n① [정답] leaf는 끝의 f를 ves로 바꾸어 leaves로 씁니다. 빈칸 앞의 two 또는 many에 맞는 복수형입니다.\n② [오답] leaf는 끝의 f를 ves로 바꾸어 leaves로 씁니다. ‘leafs’는 이 자리에 필요한 복수형 ‘leaves’와 맞지 않습니다. 바르게 고치면: leaves\n③ [오답] leaf는 끝의 f를 ves로 바꾸어 leaves로 씁니다. ‘leavs’는 이 자리에 필요한 복수형 ‘leaves’와 맞지 않습니다. 바르게 고치면: leaves\n④ [오답] leaf는 끝의 f를 ves로 바꾸어 leaves로 씁니다. ‘leaf’는 이 자리에 필요한 복수형 ‘leaves’와 맞지 않습니다. 바르게 고치면: leaves\n⑤ [오답] leaf는 끝의 f를 ves로 바꾸어 leaves로 씁니다. ‘a leaf’는 이 자리에 필요한 복수형 ‘leaves’와 맞지 않습니다. a는 단수명사 앞에 쓰므로 two 또는 many와 이 형태로 함께 쓰지 않습니다. 바르게 고치면: leaves"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-20T07:43:28.354Z"
+  },
+  "tab": "n2uhrol0",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-20T07:43:29.769Z",
+      "what": "확인 완료"
+    }
+  }
+}

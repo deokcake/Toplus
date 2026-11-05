@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T12:23:54.045Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "The teacher gave they a lot of math homework.",
+      "1": "The teacher them gave a lot of math homework.",
+      "2": "The teacher gave them a lot of math homework.",
+      "3": "The teacher gave a lot of math homework them.",
+      "4": "Gave the teacher them a lot of math homework."
+    },
+    "expl": "핵심 규칙: 대명사는 문장 속 기능에 따라 주격·목적격·소유격·소유대명사를 구별하고 가리키는 대상의 인칭·수와 일치시킨다.\n풀이 순서: ① 주어(The teacher)와 동사(gave)를 먼저 놓는다. → ② 동사 뒤에는 ‘~에게’(사람)를 먼저, ‘~을’(사물)을 나중에 둔다: them + a lot of math homework. → ③ 이 순서인 ③이 정답이다. 사람 자리에 주격을 쓰거나 사람을 맨 뒤에 둔 것은 틀린다.\n문장별 판정:\n정답 판단: 동사 + 사람(them) + 사물(a lot of math homework) 순서로 바르게 배열했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 사람 자리에 주격 they를 썼으므로 오답이다.\n② [오답] 동사 gave가 사람(them) 뒤에 놓였으므로 오답이다.\n③ [정답] 동사 + 사람(them) + 사물(a lot of math homework) 순서로 바르게 배열했으므로 정답이다.\n④ [오답] 사람(them)이 사물 뒤에 놓였는데 전치사가 없으므로 오답이다.\n⑤ [오답] 주어보다 동사가 먼저 나와 평서문 어순이 아니므로 오답이다.",
+    "passage": "선생님이 그들에게 많은 수학 숙제를 주셨다.\n(teacher / gave / them / homework / the / a lot of / math / .)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오."
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T12:23:54.045Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T12:23:54.045Z",
+      "what": "확인 완료"
+    }
+  }
+}

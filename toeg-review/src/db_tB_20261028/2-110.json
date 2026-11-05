@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:24:56.811Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "1개",
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: by는 완료 기한, until은 상태의 지속 끝, for는 수량 기간, during은 사건·특정 기간 명사, while은 절을 이끈다. over는 장애물을 넘어가는 경로를 나타낸다.\n풀이 순서: ① ‘~까지’가 기한(그때까지 끝냄)이면 by, 계속(그때까지 이어짐)이면 until이다. 동사가 finish, submit, send이면 by, stay, wait, be open이면 until이다. → ② 숫자로 된 기간은 for, 특정 기간(명사)은 during, 절 앞은 while, 시각은 at이다. → ③ 첫째만 틀렸다. finish는 기한이므로 by Friday다. 올바른 문장은 4개이다.\n문장별 판정:\n첫째 X: 보고서 완료 기한에는 by를 쓴다. I will finish the report by Friday.\n둘째 O: by noon은 정오까지의 제출 기한이다.\n셋째 O: for three hours는 세 시간 동안의 지속 기간이다.\n넷째 O: during the movie는 영화 상영 중이다.\n다섯째 O: at 8 sharp는 정확히 8시에라는 뜻이다.\n정답 판단: 옳은 문장의 수는 4개이다.\n선택지 분석:\n① [오답] 옳은 문장이 4개이므로 1개는 맞지 않는다.\n② [오답] 옳은 문장이 4개이므로 2개는 맞지 않는다.\n③ [오답] 옳은 문장이 4개이므로 3개는 맞지 않는다.\n④ [정답] 옳은 문장이 4개이므로 일치한다.\n⑤ [오답] 옳은 문장이 4개이므로 5개는 맞지 않는다.",
+    "passage": "<보기>\n- I will finish the report <u>until Friday</u>.\n- We must submit the form <u>by noon</u>.\n- Jane studied <u>for three hours</u>.\n- Tom slept <u>during the movie</u>.\n- We arrived <u>at 8 sharp</u>.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T07:24:55.919Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T07:24:56.811Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T07:24:56.811Z",
+      "what": "확인 완료"
+    }
+  }
+}

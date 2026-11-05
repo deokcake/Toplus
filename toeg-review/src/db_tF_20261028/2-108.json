@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T11:50:02.356Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "(A) out - (B) out",
+      "1": "(A) off - (B) for",
+      "2": "(A) out - (B) into",
+      "3": "(A) down - (B) at",
+      "4": "(A) up - (B) after"
+    },
+    "expl": "핵심 규칙: fill out은 양식을 작성하다, run out of는 ~가 다 떨어지다라는 뜻이다.\n풀이 순서: ① (A) 문장의 뜻을 본다. 신청서를 ‘작성한다’: fill out. → ② (B) 문장의 뜻을 본다. 시간이 ‘다 떨어졌다’: run out of. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: 두 문장의 실제 뜻에 맞는 공통 어휘 결합을 확인한다.\n선택지 분석:\n① [정답] (A) fill out은 양식을 작성하다라는 뜻이므로 out이 필요하다 (이 요소는 맞다) / (B) run out of는 ~가 다 떨어지다라는 뜻이므로 out이 필요하다 (이 요소는 맞다). 바른 연결은 (A) out - (B) out이다.\n② [오답] (A) fill out은 양식을 작성하다라는 뜻이므로 out이 필요하다 (제시된 off는 주어진 뜻과 다르거나 표현을 완성하지 못한다) / (B) run out of는 ~가 다 떨어지다라는 뜻이므로 out이 필요하다 (제시된 for는 주어진 뜻과 다르거나 표현을 완성하지 못한다). 바른 연결은 (A) out - (B) out이다.\n③ [오답] (A) fill out은 양식을 작성하다라는 뜻이므로 out이 필요하다 (이 요소는 맞다) / (B) run out of는 ~가 다 떨어지다라는 뜻이므로 out이 필요하다 (제시된 into는 주어진 뜻과 다르거나 표현을 완성하지 못한다). 바른 연결은 (A) out - (B) out이다.\n④ [오답] (A) fill out은 양식을 작성하다라는 뜻이므로 out이 필요하다 (제시된 down은 주어진 뜻과 다르거나 표현을 완성하지 못한다) / (B) run out of는 ~가 다 떨어지다라는 뜻이므로 out이 필요하다 (제시된 at은 주어진 뜻과 다르거나 표현을 완성하지 못한다). 바른 연결은 (A) out - (B) out이다.\n⑤ [오답] (A) fill up도 일부 영어 변종에서 양식을 작성하다라는 뜻으로 쓰이므로 이 부분만으로 배제할 수 없다. (B) ran after of time은 시간이 다 떨어졌다는 표현이 아니다. run out of time의 과거형 ran out of time을 써야 하므로 두 빈칸이 모두 맞는 조합은 out - out이다.",
+    "passage": "- Please fill (<u>     A     </u>) this application form with a black pen.\n- Tom ran (<u>     B     </u>) of time and couldn't finish the math test.",
+    "stem": "다음 문장의 빈칸 (A), (B)에 들어갈 전치사가 바르게 짝지어진 것은?"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T11:50:02.356Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T11:50:02.356Z",
+      "what": "확인 완료"
+    }
+  }
+}

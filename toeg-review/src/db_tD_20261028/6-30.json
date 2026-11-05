@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T04:18:30.868Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "1개 - (나)만 맞음. 'Mina and you'는 한 사람처럼 보아 'was'를 써야 함.",
+      "1": "2개 - (가), (나)가 맞음. 'you'는 한 사람일 때 'was', 여러 사람일 때 'were'를 씀.",
+      "2": "2개 - (나), (다)가 맞음. 'you'는 한 사람이어도 'were'를 쓰고, 'Mina and you'처럼 둘 이상인 주어에도 'were'를 씀.",
+      "3": "3개 - 모두 맞음. 'you'가 들어간 주어에는 'was'와 'were'를 모두 쓸 수 있음.",
+      "4": "1개 - (가)만 맞음. 'you'는 2인칭 단수이므로 'was'를 씀."
+    },
+    "expl": "핵심 규칙: (가)~(다)의 주어를 각각 찾아 was/were를 판정한 뒤, 옳은 문장의 개수·문장·이유가 모두 맞는 설명을 고른다. 한 명·한 개(I 포함)는 was, you와 둘 이상(A and B, 복수 명사, 복수 대명사)은 were이다.\n풀이 순서: ① <보기>의 문장마다 주어의 수와 was/were가 맞는지 판정한다: (가) X(You was), (나) O, (다) O. → ② 옳은 문장의 개수와 기호가 맞는 보기를 고른다. → ③ 그 보기의 이유까지 맞는지 확인한다. 정답은 ③.\n문장별 판정:\n(가) X. you에는 한 사람이어도 were를 쓴다.\n(나) O. you에 were를 썼다.\n(다) O. 둘 이상인 주어에 were를 썼다.\n정답 판단: 2개 - (나), (다)가 맞음이다.\n선택지 분석:\n① [오답] Mina and you는 둘 이상이라 were가 맞으므로 오답이다.\n② [오답] you에는 한 사람이어도 were를 쓰므로 오답이다.\n③ [정답] 개수·문장·이유가 모두 맞으므로 정답이다.\n④ [오답] you에는 was를 쓰지 않으므로 오답이다.\n⑤ [오답] you에는 한 사람이어도 were를 쓰므로 오답이다.",
+    "passage": "<보기>\n(가) You was late.\n(나) You were late.\n(다) Mina and you were late.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T04:18:29.112Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T04:18:30.868Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T04:18:30.868Z",
+      "what": "확인 완료"
+    }
+  }
+}

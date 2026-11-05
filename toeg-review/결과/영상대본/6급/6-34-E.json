@@ -1,0 +1,177 @@
+{
+ "key": "6-34",
+ "type": "E",
+ "grade": 6,
+ "chapter": "CH 4 일반동사",
+ "title": "Tom studies 문장을 의문문으로",
+ "total_sec": 127,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "6급 · CH 4 일반동사 · 34번 · E 유형\n\n이 문제는 일반동사 studies가 있는 현재형 문장을 의문문으로 올바르게 바꾼 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 4 일반동사 · 34번 · E 유형",
+     "이 문제는 일반동사 studies가 있는 현재형 문장을 의문문으로 올바르게 바꾼 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 4, 34번 E 유형. 이 문제는 일반동사 studies가 있는 현재형 문장을 의문문으로 올바르게 바꾼 문장을 고르는 문제예요.",
+   "caption": "Tom studies 문장을 의문문으로"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.\n\nTom studies English.\n\n① Does Tom studying English?\n② Tom studies English?\n③ Does Tom study English?\n④ Do Tom study English?\n⑤ Does Tom studies English?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.",
+     "Tom studies English.",
+     "① Does Tom studying English?",
+     "② Tom studies English?",
+     "③ Does Tom study English?",
+     "④ Do Tom study English?",
+     "⑤ Does Tom studies English?"
+    ]
+   },
+   "narration": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르세요. Tom studies English는 톰은 영어를 공부한다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 26,
+   "screen": {
+    "text": "핵심 규칙\n일반동사 현재형 의문문 → Do, Does + 주어 + 동사원형 ~?\nhe, she, it, Tom 같은 3인칭 단수 주어 → Does  ·  I, you, we, they, 복수 → Do\n주어 뒤의 동사는 동사원형 (flies → fly, watches → watch)\n예) Ben flies a kite. → Does Ben fly a kite? (벤은 연을 날리니?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "일반동사 현재형 의문문 → Do, Does + 주어 + 동사원형 ~?",
+     "he, she, it, Tom 같은 3인칭 단수 주어 → Does  ·  I, you, we, they, 복수 → Do",
+     "주어 뒤의 동사는 동사원형 (flies → fly, watches → watch)",
+     "예) Ben flies a kite. → Does Ben fly a kite? (벤은 연을 날리니?)"
+    ]
+   },
+   "narration": "일반동사 현재형 문장의 의문문은 Do나 Does를 주어 앞에 쓰고, 동사는 동사원형으로 바꿔 끝에 물음표를 붙여요. he, she, it이나 Tom 같은 3인칭 단수 주어에는 Does를, 그 밖의 주어에는 Do를 써요. Ben flies a kite의 의문문은 Does Ben fly a kite? 벤은 연을 날리니?",
+   "caption": "Do, Does + 주어 + 동사원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.\n\nTom studies English.\n\n① Does Tom studying English?\n② Tom studies English?\n③ Does Tom study English?\n④ Do Tom study English?\n⑤ Does Tom studies English?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Tom studies English."
+      ],
+      "strike": [
+       "② Tom studies English?"
+      ],
+      "note": "주어 Tom, 동사 studies = 일반동사 현재형 → Do, Does로 시작. 물음표만 붙인 ② 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "④ Do Tom study English?"
+      ],
+      "note": "Tom = 3인칭 단수 → Does. Do로 시작한 ④ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ Does Tom study English?"
+      ],
+      "strike": [
+       "① Does Tom studying English?",
+       "⑤ Does Tom studies English?"
+      ],
+      "note": "Does 뒤에는 동사원형 study → studying ①, studies ⑤ 지움 → ③"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 주어진 문장은 주어가 Tom, 동사가 일반동사 studies인 현재형 문장이라서 Do나 Does로 시작해야 해요. 그래서 물음표만 붙인 2번은 지워요. 둘째, Tom은 3인칭 단수라서 Do가 아니라 Does를 써야 하니까 4번도 지워요. 셋째, Does 뒤에는 동사원형 study를 써야 하니까 studying을 쓴 1번과 studies를 쓴 5번을 지우면, 남은 3번이 답이에요. Does Tom study English? 톰은 영어를 공부하니?",
+   "caption": "현재형 → Does → 동사원형 study"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 22,
+   "screen": {
+    "text": "① Does Tom studying English?  ✗  studying이 아니라 동사원형 study\n② Tom studies English?  ✗  Does 없이 물음표만 붙였어요\n③ Does Tom study English?  ✓  Does + Tom + 동사원형 study\n④ Do Tom study English?  ✗  3인칭 단수 Tom에는 Does\n⑤ Does Tom studies English?  ✗  studies가 아니라 동사원형 study",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Does Tom studying English?  ✗  studying이 아니라 동사원형 study",
+     "② Tom studies English?  ✗  Does 없이 물음표만 붙였어요",
+     "③ Does Tom study English?  ✓  Does + Tom + 동사원형 study",
+     "④ Do Tom study English?  ✗  3인칭 단수 Tom에는 Does",
+     "⑤ Does Tom studies English?  ✗  studies가 아니라 동사원형 study"
+    ]
+   },
+   "narration": "정답은 Does와 동사원형 study를 바르게 쓴 3번이에요. 5번은 Does는 맞지만 studies를 그대로 두었는데, Does 뒤에는 동사원형을 써야 해요. 1번은 Does 뒤에 동사원형 대신 ing형 studying을 썼어요. 4번은 3인칭 단수 Tom에 Does가 아니라 Do를 썼어요.",
+   "caption": "정답 ③ Does Tom study English?"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 13,
+   "screen": {
+    "text": "정답 ③ Does Tom study English?\n\nDo, Does + 주어 + 동사원형 ~?  (3인칭 단수 주어 → Does)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ Does Tom study English?",
+     "Do, Does + 주어 + 동사원형 ~?  (3인칭 단수 주어 → Does)"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 일반동사 현재형 의문문은 Do나 Does 뒤에 주어와 동사원형을 쓰고, 3인칭 단수 주어면 Does를 써요.",
+   "caption": "3인칭 단수 → Does + 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.",
+  "passage": "Tom studies English.",
+  "c": [
+   "Does Tom studying English?",
+   "Tom studies English?",
+   "Does Tom study English?",
+   "Do Tom study English?",
+   "Does Tom studies English?"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 현재형 일반동사 의문문은 Do/Does+주어+동사원형?이다. 원문의 현재 시제를 유지한다.\n풀이 순서: ① 주어와 동사를 본다: Tom / studies. → ② 주어에 맞는 조동사는 Does, 그 뒤의 동사는 원형 study. → ③ Does + 주어 + study ~?인 것을 고른다. 정답은 ③.\n문장별 판정:\n정답 판단: Does는 주어 Tom에 맞고, 뒤의 본동사 study도 원형이다. 어순은 Does+Tom+study이다. 따라서 정답은 ③이다.\n선택지 분석:\n① [오답] Does가 시제·인칭 정보를 나타내므로 본동사는 studying이 아니라 원형 study를 쓴다.\n② [오답] 일반동사 문장을 의문문으로 바꿀 때는 Do/Does로 시작해야 한다. 평서문 어순에 물음표만 붙인 것은 올바르게 바꾼 의문문이 아니다.\n③ [정답] Does는 주어 Tom에 맞고, 뒤의 본동사 study도 원형이다. 어순은 Does+Tom+study이다.\n④ [오답] Tom의 현재 일반동사 의문문은 Does로 시작한다. Do를 Does로 고친다.\n⑤ [오답] Does가 시제·인칭 정보를 나타내므로 본동사는 studies가 아니라 원형 study를 쓴다."
+ }
+}

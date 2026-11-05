@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-06T09:01:50.175Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "(A), (B), (C)",
+      "1": "(C), (D), (E)",
+      "2": "(A), (B), (E)",
+      "3": "(B), (C), (E)",
+      "4": "(A), (D), (E)"
+    },
+    "expl": "핵심 규칙: 감탄문은 What + (a/an) + 형용사 + 명사 + 주어 + 동사!, How + 형용사/부사 + 주어 + 동사!이다. 복수명사 앞에는 a/an을 쓰지 않고, 주어와 동사의 수를 일치시킨다.\n풀이 순서: ① 문장마다 세 가지를 본다: What/How 뒤의 덩어리, ‘주어 + 동사’ 어순, 주어와 동사의 수. → ② (C) What cute(How cute), (D) How a nice car(What a nice car)가 틀렸다. → ③ 틀린 문장만 묶은 (C), (D), (E)가 정답이다.\n문장별 판정:\n(A) O. What + an + 형용사 + 명사 + 주어 + 동사이다.\n(B) O. How + 형용사 + 주어 + 동사이다.\n(C) X. 명사 없이 형용사만 오면 How를 쓴다.\n(D) X. 명사구가 있으면 What을 쓴다.\n(E) X. 복수 주어 they에는 sing을 쓴다.\n정답 판단: 어법상 틀린 문장은 (C), (D), (E)이다.\n선택지 분석:\n① [오답] (A), (B)는 틀린 문장이 아니고, 틀린 문장 (D), (E)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 틀린 문장 (C), (D), (E)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (A), (B)는 틀린 문장이 아니고, 틀린 문장 (C), (D)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (B)는 틀린 문장이 아니고, 틀린 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (A)는 틀린 문장이 아니고, 틀린 문장 (C)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "<보기>\n(A) What an amazing story it is!\n(B) How interesting the book is!\n(C) What cute the cat is!\n(D) How a nice car it is!\n(E) How well they sings!",
+    "stem": "다음 <보기> 중 어법상 틀린 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T08:58:57.210Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-06T09:01:50.175Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T09:01:50.175Z",
+      "what": "확인 완료"
+    }
+  }
+}

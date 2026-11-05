@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T03:14:37.125Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "Tom did call me last night.",
+      "1": "Tom had call me last night.",
+      "2": "Tom was call me last night.",
+      "3": "Tom did called me last night.",
+      "4": "Tom does call me last night."
+    },
+    "expl": "핵심 규칙: 동사를 강조할 때는 do/does/did + 동사원형을 쓴다. 시제와 인칭은 do/does/did가 나타내고 뒤의 동사는 원형으로 쓴다.\n풀이 순서: ① 원래 문장의 동사(called)에서 시제와 주어를 확인한다. 과거형이므로 did를 쓴다. → ② do/does/did를 동사 앞에 두고 동사는 원형(call)으로 바꾼다. → ③ 시제가 달라졌거나 동사가 원형이 아닌 보기를 지운다. 정답은 ①.\n문장별 판정:\n정답 판단: did + 동사원형 call로 과거의 동작을 바르게 강조했으므로 정답은 ①이다.\n선택지 분석:\n① [정답] did + 동사원형 call로 과거의 동작을 바르게 강조했으므로 정답이다.\n② [오답] had는 동사를 강조하는 조동사가 아니고 뒤에 동사원형도 올 수 없으므로 오답이다.\n③ [오답] was는 동사를 강조하지 못하고 뒤에 동사원형도 올 수 없으므로 오답이다.\n④ [오답] did 뒤에 과거형 called를 쓸 수 없으므로 오답이다.\n⑤ [오답] last night이 있는 과거 문장에 does를 쓸 수 없으므로 오답이다.",
+    "passage": "Tom called me last night.",
+    "stem": "다음 문장을 동사 강조 문장으로 바르게 바꾼 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T02:55:48.713Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T02:56:56.423Z",
+      "text": "기준문항에서 actually가 사용됨으로 이미 어느 정도 강조가 되는 느낌이다. 여타 강조 어구가 없는 문장을 제시하는 것이 좋다."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:35:47.229Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:35:47.229Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:35:47.229Z",
+      "what": "판정을 Claude 판정으로 되돌림"
+    }
+  }
+}

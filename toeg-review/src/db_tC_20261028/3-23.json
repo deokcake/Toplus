@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T04:35:29.348Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "goose - gooses",
+      "2": "dish - dishs",
+      "3": "lady - ladys",
+      "4": "wife - wifes"
+    },
+    "expl": "핵심 규칙: 복수형은 대부분 -s, -s·-x·-ch·-sh·자음+o로 끝나면 -es, 자음+y는 -ies, -f(e)는 -ves로 만든다. child-children, man-men, woman-women, foot-feet, tooth-teeth, mouse-mice, goose-geese는 불규칙하게 바뀐다.\n풀이 순서: ① 낱말 끝을 보고 규칙을 고른다. -s·-x·-ch·-sh는 -es, 자음 + y는 -ies, -f(e)는 -ves다. → ② 불규칙하게 바뀌는 명사(child - children, mouse - mice, foot - feet, tooth - teeth, man - men)와 형태가 같은 명사(sheep)는 따로 외운다. → ③ 선택지 ①만 옳다(box는 -x로 끝나 boxes).\n문장별 판정:\n정답 판단: box - boxes: 바르게 만든 복수형이므로 정답은 ①이다.\n선택지 분석:\n① [정답] box - boxes: 바르게 만든 복수형이므로 정답이다.\n② [오답] goose - gooses: 바른 복수형은 geese이므로 오답이다.\n③ [오답] dish - dishs: 바른 복수형은 dishes이므로 오답이다.\n④ [오답] lady - ladys: 바른 복수형은 ladies이므로 오답이다.\n⑤ [오답] wife - wifes: 바른 복수형은 wives이므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:35:24.558Z"
+  },
+  "tab": "cm2nvsk5",
+  "updatedAt": "2026-10-23T04:35:29.349Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:35:29.349Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-21T04:57:42.313Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A) must - (B) should",
+      "1": "(A) should - (B) might",
+      "2": "(A) may - (B) could",
+      "3": "(A) must - (B) might",
+      "4": "(A) cannot - (B) must"
+    },
+    "expl": "핵심 규칙: should have + 과거분사는 하지 않은 과거 행동에 대한 후회·비판을, might have + 과거분사는 과거 일에 대한 불확실한 추측을 나타낸다.\n풀이 순서: ① (A) 앞의 상황(파일을 확인하지 않고 보낸 것)은 이미 벌어진 실수이므로 (A)는 ‘~했어야 했는데’라는 should have + 과거분사다. → ② (B)는 ‘혼란을 일으켰을지도 모른다’는 확실하지 않은 추측이므로 might가 알맞다. must, cannot, must not은 확신을 나타내 맞지 않다. → ③ 정답은 (A) should - (B) might.\n문장별 판정:\n정답 판단: (A)는 파일을 확인하지 않은 일에 대한 후회, (B)는 잘못된 파일이 혼란을 일으켰을지도 모른다는 추측이므로 should - might가 알맞다.\n선택지 분석:\n① [오답] (A) must have + 과거분사는 틀림없이 그랬을 것이라는 강한 확신을 나타내므로 파일을 확인하지 않은 일을 아쉬워하는 흐름에 맞지 않는다. (B) should have + 과거분사는 했어야 했다는 후회·비판을 나타내므로 혼란이 생겼을지도 모른다고 추측하는 흐름에 맞지 않는다. 따라서 오답이다.\n② [정답] (A)는 파일을 확인하지 않은 일에 대한 후회, (B)는 혼란이 생겼을지도 모른다는 추측이므로 should - might가 알맞다. (A) should는 파일을 확인하지 않은 일을 아쉬워하는 흐름에 맞는다. (B) might는 혼란이 생겼을지도 모른다고 추측하는 흐름에 맞는다. 따라서 정답이다.\n③ [오답] (A) may have + 과거분사는 그랬을지도 모른다는 추측을 나타내므로 파일을 확인하지 않은 일을 아쉬워하는 흐름에 맞지 않는다. (B) could have + 과거분사는 그럴 수도 있었다는 가능성을 나타내므로 혼란이 생겼을지도 모른다고 추측하는 흐름에 맞지 않는다. 따라서 오답이다.\n④ [오답] (A) must have + 과거분사는 틀림없이 그랬을 것이라는 강한 확신을 나타내므로 파일을 확인하지 않은 일을 아쉬워하는 흐름에 맞지 않는다. 따라서 오답이다.\n⑤ [오답] (A) cannot have + 과거분사는 그랬을 리 없다는 강한 부정 추측을 나타내므로 파일을 확인하지 않은 일을 아쉬워하는 흐름에 맞지 않는다. (B) must have + 과거분사는 틀림없이 그랬을 것이라는 강한 확신을 나타내므로 혼란이 생겼을지도 모른다고 추측하는 흐름에 맞지 않는다. 따라서 오답이다.",
+    "passage": "A: I sent the file without checking it.\nB: You (<u>    A    </u>) have reviewed it first. The wrong version (<u>    B    </u>) have caused confusion.",
+    "stem": "다음 대화의 흐름상 빈칸 (A)와 (B)에 들어갈 조동사가 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T04:56:25.671Z"
+  },
+  "tab": "fi3f83jb",
+  "updatedAt": "2026-10-21T04:57:42.313Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T04:57:42.313Z",
+      "what": "확인 완료"
+    }
+  }
+}

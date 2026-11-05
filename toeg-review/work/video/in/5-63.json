@@ -1,0 +1,86 @@
+{
+ "key": "5-63",
+ "grade": 5,
+ "chapter": "CH 7 숫자 표현과 비인칭주어 it",
+ "items": {
+  "A": {
+   "stem": "연도를 영어로 바르게 읽지 못한 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "1300 - thirteen hundred",
+    "1550 - fifty fifteen",
+    "1999 - nineteen ninety-nine",
+    "2025 - twenty twenty-five",
+    "2300 - twenty three hundred"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 연도는 두 자리씩 끊어 읽는다(1550 fifteen fifty). 뒤 두 자리가 00이면 hundred, 2000년대는 two thousand ~로도 읽는다.\n풀이 순서: ① 연도를 앞 두 자리와 뒤 두 자리로 끊는다. → ② 각 부분을 수로 읽어 보기와 견준다. 뒤가 05처럼 0으로 시작하면 oh five로 읽는다. → ③ 1550은 fifteen / fifty인데 fifty fifteen으로 거꾸로 읽었다. 정답은 ②.\n문장별 판정:\n정답 판단: 15 / 50이므로 fifteen fifty로 읽어야 하는데 순서가 바뀌었으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 13 / 00으로 끊어 thirteen hundred로 바르게 읽었으므로 오답이다.\n② [정답] 15 / 50이므로 fifteen fifty로 읽어야 하는데 순서가 바뀌었으므로 정답이다.\n③ [오답] 19 / 99로 끊어 바르게 읽었으므로 오답이다.\n④ [오답] 20 / 25로 끊어 바르게 읽었으므로 오답이다.\n⑤ [오답] 23 / 00으로 끊어 twenty-three hundred로 바르게 읽었으므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 중 연도를 영어로 바르게 읽지 못한 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "1876 - eighteen seventy-six",
+    "1907 - nineteen oh seven",
+    "2040 - twenty forty",
+    "1705 - seventeen fifty",
+    "2011 - twenty eleven"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 연도는 두 자리씩 끊어 읽는다(1550 fifteen fifty). 뒤 두 자리가 00이면 hundred, 2000년대는 two thousand ~로도 읽는다.\n풀이 순서: ① 연도를 앞 두 자리와 뒤 두 자리로 끊는다. → ② 각 부분을 수로 읽어 보기와 견준다. 뒤가 05처럼 0으로 시작하면 oh five로 읽는다. → ③ 1705는 seventeen oh five인데 fifty(50)로 읽었다. 정답은 ④.\n문장별 판정:\n정답 판단: seventeen fifty는 1750년이다. 1705년은 seventeen oh five라고 읽는다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] 1876 - eighteen seventy-six — 제시된 숫자를 연도로 읽는 일반적인 방식과 일치하므로 잘못 읽은 것이 아니다.\n② [오답] 1907 - nineteen oh seven — 제시된 숫자를 연도로 읽는 일반적인 방식과 일치하므로 잘못 읽은 것이 아니다.\n③ [오답] 2040 - twenty forty — 제시된 숫자를 연도로 읽는 일반적인 방식과 일치하므로 잘못 읽은 것이 아니다.\n④ [정답] seventeen fifty는 1750년이다. 1705년은 seventeen oh five라고 읽는다.\n⑤ [오답] 2011 - twenty eleven — 제시된 숫자를 연도로 읽는 일반적인 방식과 일치하므로 잘못 읽은 것이 아니다."
+  },
+  "C": {
+   "stem": "연도를 영어로 바르게 읽지 못한 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "1620 - sixteen twenty",
+    "2010 - two thousand ten",
+    "1905 - nineteen fifty",
+    "2005 - two thousand five",
+    "1988 - nineteen eighty-eight"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 연도는 보통 두 자리씩 끊어 읽는다(1980 nineteen eighty, 2021 twenty twenty-one). 2000~2009년은 two thousand + 나머지로 읽고, 1608처럼 가운데가 0이면 sixteen oh eight로 읽는다.\n풀이 순서: ① 연도를 앞 두 자리와 뒤 두 자리로 끊는다. → ② 각 부분을 수로 읽어 보기와 견준다. 뒤가 05처럼 0으로 시작하면 oh five로 읽는다. → ③ 1905는 nineteen oh five인데 fifty(50)로 읽었다. 정답은 ③.\n문장별 판정:\n정답 판단: 가운데가 0이면 oh를 넣어 nineteen oh five로 읽어야 하는데 fifty(50)로 읽었으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 두 자리씩 끊어 바르게 읽었으므로 오답이다.\n② [오답] two thousand + 나머지로 바르게 읽었으므로 오답이다.\n③ [정답] 가운데가 0이면 oh를 넣어 nineteen oh five로 읽어야 하는데 fifty(50)로 읽었으므로 정답이다.\n④ [오답] two thousand + 나머지로 바르게 읽었으므로 오답이다.\n⑤ [오답] 두 자리씩 끊어 바르게 읽었으므로 오답이다."
+  },
+  "D": {
+   "stem": "연도를 영어로 바르게 읽지 못한 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "2008 - twenty eighty",
+    "2021 - twenty twenty-one",
+    "1980 - nineteen eighty",
+    "2016 - two thousand sixteen",
+    "2003 - two thousand three"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 연도는 보통 두 자리씩 끊어 읽는다(1980 nineteen eighty, 2021 twenty twenty-one). 2000~2009년은 two thousand + 나머지로 읽고, 1608처럼 가운데가 0이면 sixteen oh eight로 읽는다.\n풀이 순서: ① 연도를 앞 두 자리와 뒤 두 자리로 끊는다. → ② 각 부분을 수로 읽어 보기와 견준다. 뒤가 05처럼 0으로 시작하면 oh five로 읽는다. → ③ 2008은 two thousand eight인데 eighty(80)로 읽었다. 정답은 ①.\n문장별 판정:\n정답 판단: 2008은 two thousand eight(또는 twenty oh eight)로 읽어야 하는데 eighty(80)로 읽었으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 2008은 two thousand eight(또는 twenty oh eight)로 읽어야 하는데 eighty(80)로 읽었으므로 정답이다.\n② [오답] 두 자리씩 끊어 바르게 읽었으므로 오답이다.\n③ [오답] 두 자리씩 끊어 바르게 읽었으므로 오답이다.\n④ [오답] two thousand + 나머지로 바르게 읽었으므로 오답이다.\n⑤ [오답] two thousand + 나머지로 바르게 읽었으므로 오답이다."
+  },
+  "E": {
+   "stem": "연도를 영어로 바르게 읽지 못한 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "2012 - two thousand twelve",
+    "1977 - nineteen seventy-seventh",
+    "1840 - eighteen forty",
+    "1987 - nineteen eighty-seven",
+    "2000 - two thousand"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 연도는 보통 두 자리씩 끊어 읽는다(1980 nineteen eighty, 2021 twenty twenty-one). 2000~2009년은 two thousand + 나머지로 읽고, 1608처럼 가운데가 0이면 sixteen oh eight로 읽는다.\n풀이 순서: ① 연도를 앞 두 자리와 뒤 두 자리로 끊는다. → ② 각 부분을 수로 읽어 보기와 견준다. 뒤가 05처럼 0으로 시작하면 oh five로 읽는다. → ③ 1977은 nineteen seventy-seven이다. 연도는 서수(seventy-seventh)로 읽지 않는다. 정답은 ②.\n문장별 판정:\n정답 판단: 연도는 서수가 아니라 기수로 읽어 seventy-seven이라고 해야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] two thousand + 나머지로 바르게 읽었으므로 오답이다.\n② [정답] 연도는 서수가 아니라 기수로 읽어 seventy-seven이라고 해야 하므로 정답이다.\n③ [오답] 두 자리씩 끊어 바르게 읽었으므로 오답이다.\n④ [오답] 두 자리씩 끊어 바르게 읽었으므로 오답이다.\n⑤ [오답] 2000년을 two thousand로 바르게 읽었으므로 오답이다."
+  },
+  "F": {
+   "stem": "연도를 영어로 바르게 읽지 못한 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "2020 - twenty twenty",
+    "1995 - nineteen ninety-five",
+    "2015 - two thousand fifteen",
+    "1608 - sixteen eighty",
+    "2007 - two thousand seven"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 연도는 보통 두 자리씩 끊어 읽는다(1980 nineteen eighty, 2021 twenty twenty-one). 2000~2009년은 two thousand + 나머지로 읽고, 1608처럼 가운데가 0이면 sixteen oh eight로 읽는다.\n풀이 순서: ① 연도를 앞 두 자리와 뒤 두 자리로 끊는다. → ② 각 부분을 수로 읽어 보기와 견준다. 뒤가 05처럼 0으로 시작하면 oh five로 읽는다. → ③ 1608은 sixteen oh eight인데 eighty(80)로 읽었다. 정답은 ④.\n문장별 판정:\n정답 판단: 가운데가 0이면 oh를 넣어 sixteen oh eight로 읽어야 하는데 eighty(80)로 읽었으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 두 자리씩 끊어 바르게 읽었으므로 오답이다.\n② [오답] 두 자리씩 끊어 바르게 읽었으므로 오답이다.\n③ [오답] two thousand + 나머지로 바르게 읽었으므로 오답이다.\n④ [정답] 가운데가 0이면 oh를 넣어 sixteen oh eight로 읽어야 하는데 eighty(80)로 읽었으므로 정답이다.\n⑤ [오답] two thousand + 나머지로 바르게 읽었으므로 오답이다."
+  }
+ },
+ "prior_review": {}
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T19:39:50.513Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Bottle D holds more than Bottle C.",
+      "1": "Bottle A holds more than Bottle C.",
+      "2": "Bottle C holds more than Bottle B.",
+      "3": "Bottle B holds less than Bottle C.",
+      "4": "Bottle B holds more than Bottle C."
+    },
+    "expl": "핵심 규칙: 지문의 수치와 배수 표현(twice as ~ as)을 실제 값으로 바꾸고, 질문이 묻는 비교 방향(more/heavier/slower/larger)에 맞는 대상을 찾는다.\n풀이 순서: ① 글의 수치와 비교 표현을 숫자로 정리한다: A 500mL, B는 그 두 배인 1,000mL, C 750mL, D는 500mL와 750mL 사이. → ② 질문이 묻는 것(C보다 많이 담는 병)에 맞는 대상을 찾는다. → ③ 750mL보다 많이 담는 것은 B뿐이다. 정답은 ⑤.\n문장별 판정:\n정답 판단: B는 A의 두 배인 1,000 mL로 C(750 mL)보다 많이 담는다. 질문에 맞는 대답이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] D는 C보다 적게 담는다. 오답이다.\n② [오답] A(500 mL)는 C(750 mL)보다 적게 담는다. 오답이다.\n③ [오답] C(750 mL)는 B(1,000 mL)보다 적게 담는다. 오답이다.\n④ [오답] B(1,000 mL)는 C보다 많이 담는다. 방향이 반대이다. 오답이다.\n⑤ [정답] B는 A의 두 배인 1,000 mL로 C(750 mL)보다 많이 담는다. 질문에 맞는 대답이므로 정답이다.",
+    "passage": "Four water bottles are being compared in the shop. Bottle A holds 500 mL and is the smallest of the four. Bottle B holds twice as much water as Bottle A. Bottle C holds 750 mL, which is more than Bottle A but less than Bottle B. Bottle D holds less than Bottle C but more than Bottle A.\n질문: Which bottle holds more than Bottle C?",
+    "stem": "다음 글을 읽고 질문에 알맞은 대답을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:39:36.942Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:39:50.513Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:39:50.513Z",
+      "what": "확인 완료"
+    }
+  }
+}

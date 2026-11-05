@@ -1,0 +1,37 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:21:29.215Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "resembling",
+      "1": "is resemble",
+      "2": "is resembled",
+      "3": "resembles",
+      "4": "resemble"
+    },
+    "expl": "핵심 규칙: 상태를 나타내는 동사(know, believe, own, need, resemble 등)는 보통 진행형으로 쓰지 않고 단순현재로 쓴다. 단순현재형은 주어와 수를 일치시킨다.\n풀이 순서: ① 밑줄의 동사(resemble)가 동작인지 상태인지 본다. ‘닮다’는 상태를 나타내므로 진행형으로 쓰지 않는다. → ② 진행형을 단순현재로 고친다. be동사 + 동사원형, 수동태, -ing만 남긴 보기는 지운다. → ③ 주어(Tom)에 수를 맞추면 resembles이다.\n문장별 판정:\n정답 판단: ‘닮다(resemble)’는 상태를 나타내는 동사라 진행형으로 쓰지 않는다. 3인칭 단수 주어에 맞춰 resembles로 고친다. 완성문: Tom resembles his father in many ways.\n선택지 분석:\n① [오답] resembling: -ing 형태만으로는 문장의 동사가 될 수 없다. 완성문: Tom resembles his father. 오답이다.\n② [오답] is resemble: be동사와 동사원형을 직접 이어 쓸 수 없다. 완성문: Tom resembles his father. 오답이다.\n③ [오답] is resembled: 수동형이다. ‘닮다’라는 뜻의 상태동사는 수동태로 쓰지 않는다. 완성문: Tom resembles his father. 오답이다.\n④ [정답] resembles: 상태동사를 단순현재로 쓰고 3인칭 단수 주어(Tom)에 맞춰 -s를 붙였다. 완성문: Tom resembles his father. 정답이다.\n⑤ [오답] resemble: 주어가 3인칭 단수(Tom)이므로 -s가 붙어야 한다. 완성문: Tom resembles his father. 오답이다.",
+    "passage": "Tom <u>is resembling</u> his father in many ways.",
+    "stem": "다음 밑줄 친 부분을 바르게 고친 것으로 알맞은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T00:26:11.148Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T00:26:19.139Z",
+      "text": "기준 문항에 비해 지문이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:21:29.215Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:21:29.215Z",
+      "what": "확인 완료"
+    }
+  }
+}

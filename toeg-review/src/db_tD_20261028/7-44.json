@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T03:42:29.173Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Is that your book?",
+      "1": "Are these your books?",
+      "2": "Are those your books?",
+      "3": "Is those your books?",
+      "4": "Are that your books?"
+    },
+    "expl": "핵심 규칙: ‘이것들은 ~이니?’는 Are these ~?, ‘저것들은 ~이니?’는 Are those ~?로 옮긴다. these/those 뒤에는 are와 복수 명사를 쓴다.\n풀이 순서: ① 우리말의 ‘저것들’에 맞는 지시대명사는 those. → ② 여러 개이므로 be동사는 Are, 명사는 복수형(books)이다. → ③ 셋을 다 갖춘 것은 Are those your books?\n문장별 판정:\n정답 판단: ‘저것들’을 those, 복수 주어에 Are로 바르게 옮겼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] ‘저것들’은 여러 개라 that과 book으로 옮길 수 없으므로 오답이다.\n② [오답] ‘저것들’은 these가 아니라 those이므로 오답이다.\n③ [정답] ‘저것들’을 those, 복수 주어에 Are로 바르게 옮겼으므로 정답이다.\n④ [오답] 복수 주어 those에는 Are를 쓰므로 오답이다.\n⑤ [오답] ‘저것들’은 that이 아니라 those이므로 오답이다.",
+    "passage": null,
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T03:42:27.222Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T03:42:29.173Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:42:29.173Z",
+      "what": "확인 완료"
+    }
+  }
+}

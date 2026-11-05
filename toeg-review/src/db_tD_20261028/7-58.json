@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T03:47:32.894Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "I <u>reads</u> every day.",
+      "1": "My friends <u>plays</u> chess.",
+      "2": "They <u>walks</u> home.",
+      "3": "The baby <u>cries</u> at night.",
+      "4": "You <u>likes</u> music."
+    },
+    "expl": "핵심 규칙: 일반동사 현재형은 3인칭 단수 주어(he, she, it, 사람·동물 한 명)에 -s/-es(자음 + y는 -ies, have는 has)를 붙이고, I·you·we·they와 복수 주어에는 동사원형을 쓴다. 부정문은 don't/doesn't + 동사원형으로 쓴다.\n풀이 순서: ① 문장마다 주어가 3인칭 단수(한 사람·한 개)인지 가른다. → ② 3인칭 단수면 밑줄 친 동사에 -s/-es가 있어야 하고, 아니면 없어야 한다. → ③ 선택지 ④만 맞다: The baby(한 명) + cries. 정답은 ④.\n문장별 판정:\n정답 판단: 3인칭 단수 주어에 cries를 바르게 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 주어 I에는 동사원형 read를 써야 하므로 오답이다.\n② [오답] 복수 주어 My friends에는 동사원형 play를 써야 하므로 오답이다.\n③ [오답] 주어 They에는 동사원형 walk를 써야 하므로 오답이다.\n④ [정답] 3인칭 단수 주어에 cries를 바르게 썼으므로 정답이다.\n⑤ [오답] 주어 You에는 동사원형 like를 써야 하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 부분의 쓰임이 올바른 문장을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T03:47:31.494Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T03:47:32.894Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:47:32.894Z",
+      "what": "확인 완료"
+    }
+  }
+}

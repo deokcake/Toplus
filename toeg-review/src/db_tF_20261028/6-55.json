@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:19:24.259Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "A: What <u>time</u> is the meeting? B: It's at noon.",
+      "1": "A: What <u>year</u> did you start school? B: In March.",
+      "2": "A: What <u>date</u> is Halloween? B: It's October 31st.",
+      "3": "A: What <u>day</u> do you go swimming? B: On Saturdays.",
+      "4": "A: What <u>month</u> do leaves turn red? B: In October."
+    },
+    "expl": "핵심 규칙: What day는 요일, What date는 날짜, What time은 시각, What month는 달, What year는 연도, What season은 계절을 묻는다.\n풀이 순서: ① 밑줄 친 낱말이 무엇을 묻는지 적는다(day 요일, date 날짜, time 시각, month 달, year 연도, season 계절). → ② 대답이 같은 종류인지 견준다. → ③ 선택지 ②는 연도를 묻는데 달(In March)로 답했다. 정답은 ②.\n문장별 판정:\n정답 판단: What year는 연도를 묻는데 달로 답했으므로 정답은 ②이다.\n선택지 분석:\n① [오답] What time으로 시각을 묻고 알맞게 답했으므로 오답이다.\n② [정답] What year는 연도를 묻는데 달로 답했으므로 정답이다.\n③ [오답] What date로 날짜를 묻고 알맞게 답했으므로 오답이다.\n④ [오답] What day로 요일을 묻고 알맞게 답했으므로 오답이다.\n⑤ [오답] What month로 달을 묻고 알맞게 답했으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 대화 중 밑줄 친 부분의 쓰임이 어색한 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:19:19.975Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:19:24.259Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:19:24.259Z",
+      "what": "확인 완료"
+    }
+  }
+}

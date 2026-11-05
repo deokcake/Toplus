@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T03:26:00.241Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "one - them",
+      "1": "one - it",
+      "2": "ones - them",
+      "3": "ones - it",
+      "4": "it - ones"
+    },
+    "expl": "핵심 규칙: one/ones는 앞에서 언급한 같은 종류의 명사를 대신하고, it/them은 특정한 앞의 대상을 다시 가리킨다.\n풀이 순서: ① 첫째 빈칸은 앞 명사(bag, 단수)와 ‘같은 종류의 것’을 대신한다. 단수이면 one, 복수이면 ones다. → ② 둘째 빈칸은 앞에 나온 ‘바로 그것’(My books, 복수)을 가리킨다. 단수이면 it, 복수이면 them이다. → ③ 정답은 one - them.\n문장별 판정:\n정답 판단: 첫 빈칸의 'one'은 앞의 같은 종류 명사를 단수/복수에 맞게 대신한다. 둘째 빈칸의 'them'은 이미 특정된 앞의 대상의 단복수와 맞는다. 두 빈칸이 모두 맞아 정답은 ①이다.\n선택지 분석:\n① [정답] 첫 빈칸의 'one'은 앞의 같은 종류 명사를 단수/복수에 맞게 대신한다. 둘째 빈칸의 'them'은 이미 특정된 앞의 대상의 단복수와 맞는다. 두 빈칸이 모두 맞아 정답이다.\n② [오답] 첫 빈칸의 'one'은 앞의 같은 종류 명사를 단수/복수에 맞게 대신한다. 둘째 빈칸에는 이미 특정된 앞의 대상을 받는 'them'이 필요한데 'it'을 사용했다. 따라서 오답이다.\n③ [오답] 첫 빈칸에는 앞의 같은 종류 명사를 대신하는 'one'이 필요한데 'ones'를 사용했다. 둘째 빈칸의 'them'은 이미 특정된 앞의 대상의 단복수와 맞는다. 따라서 오답이다.\n④ [오답] 첫 빈칸에는 앞의 같은 종류 명사를 대신하는 'one'이 필요한데 'ones'를 사용했다. 둘째 빈칸에는 이미 특정된 앞의 대상을 받는 'them'이 필요한데 'it'을 사용했다. 따라서 오답이다.\n⑤ [오답] 첫 빈칸에는 앞의 같은 종류 명사를 대신하는 'one'이 필요한데 'it'을 사용했다. 둘째 빈칸에는 이미 특정된 앞의 대상을 받는 'them'이 필요한데 'ones'를 사용했다. 따라서 오답이다.",
+    "passage": "I really like this red bag, but it is too expensive for me. The blue _____ next to it is much cheaper.\nMy books are on the desk in my room. Can you bring _____ to the living room for me?",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:42:19.814Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:42:27.937Z",
+      "text": "기준 문항에 비해 지문이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:26:00.241Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:25:54.381Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:26:00.241Z",
+      "what": "확인 완료"
+    }
+  }
+}

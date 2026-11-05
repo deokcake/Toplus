@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:10:09.474Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "much - a few - little",
+      "1": "many - a little - a few",
+      "2": "much - few - a little",
+      "3": "many - a few - a little",
+      "4": "many - few - much"
+    },
+    "expl": "핵심 규칙: many·a few·few는 셀 수 있는 명사의 복수형, much·a little·little은 셀 수 없는 명사에 쓰고 a lot of는 둘 다에 쓴다. a few·a little은 ‘조금 있는’, few·little은 ‘거의 없는’이다.\n풀이 순서: ① 빈칸 뒤 명사가 셀 수 있는지 하나씩 본다: (A) students 셀 수 있음, (B) students 셀 수 있음, (C) information 셀 수 없음. → ② 셀 수 있으면 many·a few·few, 셀 수 없으면 much·a little·little, a lot of는 둘 다 된다. → ③ 세 자리가 모두 맞는 many - a few - a little가 정답이다.\n문장별 판정:\n정답 판단: (A)~(C) 모두 명사의 종류(셀 수 있는지)와 대화의 뜻에 맞으므로 정답은 ④이다.\n선택지 분석:\n① [오답] (A) much: 셀 수 없는 명사에 쓰는 말이라 students에 맞지 않는다, (C) little: ‘많지는 않지만 조금’이라는 뜻이라 a little이 알맞다. 따라서 오답이다.\n② [오답] (B) a little: 셀 수 없는 명사에 쓰는 말이라 students에 맞지 않는다, (C) a few: 셀 수 있는 명사에 쓰는 말이라 information에 맞지 않는다. 따라서 오답이다.\n③ [오답] (A) much: 셀 수 없는 명사에 쓰는 말이라 students에 맞지 않는다, (B) few: Only 뒤에서 ‘몇 명’의 뜻은 a few로 나타낸다. 따라서 오답이다.\n④ [정답] (A)~(C) 모두 명사의 종류(셀 수 있는지)와 대화의 뜻에 맞으므로 정답이다.\n⑤ [오답] (B) few: Only 뒤에서 ‘몇 명’의 뜻은 a few로 나타낸다, (C) much: ‘많지는 않지만 조금’이라는 뜻이라 a little이 알맞다. 따라서 오답이다.",
+    "passage": "Jina: How (A)________ students came to the meeting?\nTom: Only (B)________ students came. Most of them were sick.\nJina: That's too bad. Did you get any useful information?\nTom: I got (C)________ information, but not much.",
+    "stem": "다음 대화의 빈칸 (A)~(C)에 들어갈 말로 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:09:46.075Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:10:09.474Z",
+      "what": "확인 완료"
+    }
+  }
+}

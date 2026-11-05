@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T11:48:37.172Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "behind",
+      "1": "in front of",
+      "2": "under",
+      "3": "between",
+      "4": "above"
+    },
+    "expl": "핵심 규칙: 위치 전치사는 두 대상의 관계를 나타낸다. A가 B 앞(in front of)이면 B는 A 뒤(behind), A가 B 위(above)면 B는 A 아래(under/below), 맞은편(across from)과 옆(next to, beside)은 서로 같은 관계이다.\n풀이 순서: ① 둘째 문장에서 두 대상의 위치 관계를 읽는다. 우체국이 버스 정류장 ‘앞에’ 있다. → ② 첫째 문장은 주어와 대상이 바뀌어 있다. 그 관계를 뒤집어 본다. 버스 정류장은 우체국 ‘뒤에’ 있다. → ③ 정답은 behind.\n문장별 판정:\n정답 판단: behind: 우체국이 정류장 앞에 있으면 정류장은 우체국 뒤에 있으므로 정답은 ①이다.\n선택지 분석:\n① [정답] behind: 우체국이 정류장 앞에 있으면 정류장은 우체국 뒤에 있으므로 정답이다.\n② [오답] in front of: 정류장이 우체국 앞에 있다는 반대 뜻이 되므로 오답이다.\n③ [오답] under: 아래의 관계라 앞뒤 관계와 맞지 않으므로 오답이다.\n④ [오답] between: 두 대상 사이를 나타내며 뒤에 대상이 둘 필요하므로 오답이다.\n⑤ [오답] above: 위의 관계라 앞뒤 관계와 맞지 않으므로 오답이다.",
+    "passage": "The bus stop is _____ the post office.\n= The post office is in front of the bus stop.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T11:48:28.456Z"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T11:48:37.173Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T11:48:37.173Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-28T04:34:40.233Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": "skip - skiped",
+      "3": "try - tried",
+      "4": null
+    },
+    "expl": "핵심 규칙: 규칙 과거형은 -ed를 붙인다. 자음 + y는 y를 i로 바꾸고 -ed(cried, tried), 강세 있는 단모음 + 단자음으로 끝나면 자음을 겹쳐 -ed(stopped, planned)를 붙인다.\n풀이 순서: ① 동사의 끝을 본다: 자음 + y인지, 단모음 + 단자음인지, 모음 + y인지. → ② 그 끝에 맞는 규칙(-ied, 자음 겹치기, 그대로 -ed)대로 되었는지 본다. → ③ skip은 단모음 + 단자음이므로 skipped다. 정답은 skip - skiped.\n문장별 판정:\n정답 판단: 단모음 + 단자음이라 p를 겹쳐 skipped로 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] -ed를 붙인 옳은 형태이므로 오답이다.\n② [오답] 단모음 + 단자음이라 p를 겹쳐 쓴 옳은 형태이므로 오답이다.\n③ [정답] 단모음 + 단자음이라 p를 겹쳐 skipped로 써야 하므로 정답이다.\n④ [오답] 자음 + y라 y를 i로 바꾸고 -ed를 붙인 옳은 형태이므로 오답이다.\n⑤ [오답] 강세가 앞에 있어 n을 겹쳐 쓰지 않은 옳은 형태이므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:17:06.236Z"
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:34:40.233Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:17:06.236Z",
+      "what": "Claude 수정 예시 적용"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:34:40.233Z",
+      "what": "확인 완료"
+    }
+  }
+}

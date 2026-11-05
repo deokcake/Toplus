@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T07:18:34.977Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "This is the small town that Jane grew up with her grandparents as a child.",
+      "1": "This is the small town when Jane grew up with her grandparents as a child.",
+      "2": "This is the small town what Jane grew up with her grandparents as a child.",
+      "3": "This is the small town where Jane grew up with her grandparents as a child.",
+      "4": "This is the small town which Jane grew up with her grandparents as a child."
+    },
+    "expl": "핵심 규칙: 시간의 선행사 day/summer에는 when, 장소 office/town에는 where, 이유 reason에는 why를 써서 전치사+관계대명사 표현을 관계부사로 바꿀 수 있다. 문법적으로 가능한 that이 있더라도 발문이 “관계부사를 사용하여”라고 요구하면 정답 조건을 충족하지 않는다.\n풀이 순서: ① 바꿀 부분은 ‘전치사 + which’(in which)이다. → ② 선행사(the town)가 장소를 나타내므로 관계부사 where로 바꾼다. which만 쓰면 전치사 in이 빠져 틀린다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 장소의 선행사 the town 뒤에 관계부사 where를 써서 in which를 바르게 바꿨으므로 정답은 ④이다.\n선택지 분석:\n① [오답] that만 쓰면 원래 문장의 전치사 in이 빠지고 관계부사도 아니므로 오답이다.\n② [오답] when은 때를 나타내고, 장소의 선행사와 맞지 않으므로 오답이다.\n③ [오답] what은 선행사를 포함하고, 선행사 뒤에 쓸 수 없으므로 오답이다.\n④ [정답] 장소의 선행사 the town 뒤에 관계부사 where를 써서 in which를 바르게 바꿨으므로 정답이다.\n⑤ [오답] which만 쓰면 원래 문장의 전치사가 빠져 맞지 않으므로 오답이다.",
+    "passage": "This is the small town in which Jane grew up with her grandparents as a child.",
+    "stem": "다음 문장을 관계부사를 사용하여 어법상 가장 올바르게 변경한 문장은 무엇인가?"
+  },
+  "tab": "mtbqujsm",
+  "updatedAt": "2026-10-26T07:18:34.977Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T07:18:34.977Z",
+      "what": "확인 완료"
+    }
+  }
+}

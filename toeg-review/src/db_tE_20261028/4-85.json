@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T08:23:27.183Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "ⓐ, ⓑ",
+      "1": "ⓐ, ⓓ",
+      "2": "ⓑ, ⓒ",
+      "3": "ⓑ, ⓓ",
+      "4": "ⓒ, ⓓ"
+    },
+    "expl": "핵심 규칙: 장소는 on(표면·벽), in(공간 안·도시·강·하늘·물속), at(한 지점·at home·at school·at the gate), under(아래), between(둘 사이)으로 나타낸다.\n풀이 순서: ① 문장마다 전치사 뒤의 장소가 표면인지, 공간의 안인지, 한 지점인지 가른다. → ② c on Seoul(in Seoul)만 틀렸다. → ③ 옳은 문장만 고른 ⓑ, ⓓ가 정답이다.\n문장별 판정:\nⓐ X. ‘~ 옆에’는 next to로 쓴다.\nⓑ O. 책상 표면에는 on을 쓴다.\nⓒ X. 도시에는 in을 쓴다.\nⓓ O. 침대 아래에는 under를 쓴다.\n정답 판단: 장소 전치사가 옳은 문장은 ⓑ, ⓓ이다.\n선택지 분석:\n① [오답] ⓐ는 옳은 문장이 아니고, 옳은 문장 ⓓ를 빠뜨렸다. 따라서 오답이다.\n② [오답] ⓐ는 옳은 문장이 아니고, 옳은 문장 ⓑ를 빠뜨렸다. 따라서 오답이다.\n③ [오답] ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓓ를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 ⓑ, ⓓ를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓑ를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "ⓐ The dog is next of the door.\nⓑ The book is on the desk.\nⓒ Tom lives at Seoul.\nⓓ The shoes are under the bed.",
+    "stem": "다음 중 장소 전치사의 쓰임이 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T08:22:56.627Z"
+  },
+  "tab": "x2buc7cy",
+  "updatedAt": "2026-10-27T08:23:27.183Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T08:23:27.183Z",
+      "what": "확인 완료"
+    }
+  }
+}

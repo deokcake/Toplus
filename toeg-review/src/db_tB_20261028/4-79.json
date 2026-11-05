@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-06T08:47:37.589Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "'easier'는 'easy'에 단순히 '-er'만 붙여 만든 형태이다.",
+      "1": "'easier'는 '가장 쉬운'이라는 뜻의 최상급이다.",
+      "2": "'than' 대신 'then'을 써도 뜻이 같다.",
+      "3": "'easier'는 'easy'의 y를 i로 바꾸고 '-er'을 붙인 비교급이며, 'than'은 비교 대상을 연결한다.",
+      "4": "'than' 뒤에는 반드시 사람이 와야 한다."
+    },
+    "expl": "핵심 규칙: 비교급은 짧은 단어에 -er을 붙이고(late → later, tall → taller), 자음 + y는 y를 i로 바꾼다(easy → easier). than은 ‘~보다’라는 뜻으로 비교의 대상을 연결하며 then(그때)과 다르다.\n풀이 순서: ① 밑줄을 둘로 나눈다: 비교급(easier) + than. → ② 비교급은 ‘더 ~한(하게)’, than은 ‘~보다’로 뒤에 비교 대상(the last one)이 온다. → ③ 이를 바르게 말한 것은 ④.\n문장별 판정:\n정답 판단: 비교급의 형태와 than의 쓰임을 바르게 설명했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 자음 + y라 y를 i로 바꾸고 -er을 붙였으므로 오답이다.\n② [오답] easier는 ‘더 쉬운’이라는 비교급이므로 오답이다.\n③ [오답] then은 ‘그때’라는 뜻이라 than과 다르므로 오답이다.\n④ [정답] 비교급의 형태와 than의 쓰임을 바르게 설명했으므로 정답이다.\n⑤ [오답] than 뒤에는 사물(the last one)도 올 수 있으므로 오답이다.",
+    "passage": "This test is <u>easier than</u> the last one.",
+    "stem": "다음 문장에서 'easier'와 'than'의 쓰임에 대한 설명으로 가장 올바른 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T08:47:09.933Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-06T08:47:37.589Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T08:47:37.589Z",
+      "what": "확인 완료"
+    }
+  }
+}

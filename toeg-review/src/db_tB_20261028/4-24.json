@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-06T07:12:57.071Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": "Does your neighbor have a dog?",
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: Do/Does 의문문에는 do/does로, be동사 의문문에는 am/is/are로, 과거 의문문에는 did로, 조동사 의문문에는 그 조동사로 답한다. 대답의 대명사는 질문의 주어에 맞춘다.\n풀이 순서: ① 대답에서 두 가지를 읽는다: 주어(they), 조동사(don't). → ② 질문은 같은 조동사로 시작하고, 주어는 대답의 대명사로 받을 수 있는 말이어야 한다. → ③ Do + 복수 주어(your neighbors)로 시작하는 질문만 맞다. 정답은 ④.\n문장별 판정:\n정답 판단: 복수 주어 + Do 의문문이라 No, they don't로 답하므로 정답은 ④이다.\n선택지 분석:\n① [오답] be동사 질문이라 No, they aren't로 답하므로 오답이다.\n② [오답] be동사 질문이라 No, they aren't로 답하므로 오답이다.\n③ [오답] 단수 주어라 No, he(she) doesn't로 답하므로 오답이다.\n④ [정답] 복수 주어 + Do 의문문이라 No, they don't로 답하므로 정답이다.\n⑤ [오답] be동사 질문이고 주어가 단수라 No, it isn't로 답하므로 오답이다.",
+    "passage": "A: _____________________\nB: No, they don't have a dog. They have a cat.",
+    "stem": "다음 빈칸에 들어갈 말을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T07:12:26.020Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-06T07:12:57.071Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T07:12:57.071Z",
+      "what": "확인 완료"
+    }
+  }
+}

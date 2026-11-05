@@ -1,0 +1,181 @@
+{
+ "key": "1-17",
+ "type": "A",
+ "grade": 1,
+ "chapter": "CH 2 시제",
+ "title": "현재완료와 끝난 과거 시점",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "1급 · CH 2 시제 · 17번\n\n이 문제는 현재완료와 과거형의 쓰임을 따져 어법상 어색한 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 2 시제 · 17번",
+     "이 문제는 현재완료와 과거형의 쓰임을 따져 어법상 어색한 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 2, 17번. 이 문제는 현재완료와 과거형의 쓰임을 따져 어법상 어색한 문장을 고르는 문제예요.",
+   "caption": "현재완료와 끝난 과거 시점"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 어법상 어색한 문장을 고르시오.\n\n① I have lived in Seoul since I was born.\n② Have you ever been to Jeju Island?\n③ He has already lost his umbrella again.\n④ We saw the movie together last night.\n⑤ She has graduated from college in 2022.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 어법상 어색한 문장을 고르시오.",
+     "① I have lived in Seoul since I was born.",
+     "② Have you ever been to Jeju Island?",
+     "③ He has already lost his umbrella again.",
+     "④ We saw the movie together last night.",
+     "⑤ She has graduated from college in 2022."
+    ]
+   },
+   "narration": "다음 중 어법상 어색한 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\n현재완료 = have/has + 과거분사\n과거의 일이 지금과 이어질 때 (경험·완료·계속·결과)\nsince, for, ever, already, just 등과 자주 함께 써요\n끝난 과거 시점 (yesterday, last ~, ~ ago, in 2020) → 현재완료 ✗, 과거형 ○\n예) He has played the piano for five years. (그는 5년 동안 피아노를 쳐 왔어요.)  He played it yesterday. (그는 어제 그것을 쳤어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재완료 = have/has + 과거분사",
+     "과거의 일이 지금과 이어질 때 (경험·완료·계속·결과)",
+     "since, for, ever, already, just 등과 자주 함께 써요",
+     "끝난 과거 시점 (yesterday, last ~, ~ ago, in 2020) → 현재완료 ✗, 과거형 ○",
+     "예) He has played the piano for five years. (그는 5년 동안 피아노를 쳐 왔어요.)  He played it yesterday. (그는 어제 그것을 쳤어요.)"
+    ]
+   },
+   "narration": "현재완료는 have나 has 뒤에 과거분사를 쓰고, 과거의 일이 지금과 이어질 때 써요. since, for, ever, already, just와 자주 함께 써요. 하지만 yesterday나 two days ago처럼 끝난 과거의 때를 밝히면 현재완료가 아니라 과거형을 써요. He has played the piano for five years. 그는 5년 동안 피아노를 쳐 왔어요. He played it yesterday. 그는 어제 그것을 쳤어요.",
+   "caption": "끝난 과거 시점엔 과거형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 중 어법상 어색한 문장을 고르시오.\n\n① I have lived in Seoul since I was born.\n② Have you ever been to Jeju Island?\n③ He has already lost his umbrella again.\n④ We saw the movie together last night.\n⑤ She has graduated from college in 2022.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "since I was born",
+       "ever",
+       "already",
+       "last night",
+       "in 2022"
+      ],
+      "strike": [],
+      "note": "문장마다 때를 나타내는 말 찾기 → 동사의 시제와 짝짓기"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① I have lived in Seoul since I was born.",
+       "② Have you ever been to Jeju Island?",
+       "③ He has already lost his umbrella again.",
+       "④ We saw the movie together last night."
+      ],
+      "note": "①②③ since·ever·already + 현재완료 ○ / ④ last night + 과거형 saw ○"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "in 2022"
+      ],
+      "strike": [
+       "has graduated"
+      ],
+      "note": "⑤ in 2022 = 끝난 과거 시점 + has graduated ✗ → She graduated from college in 2022."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 때를 나타내는 말을 찾아 동사의 시제와 짝지어요. 둘째, 1번부터 3번은 since, ever, already와 함께 현재완료를 썼고, 4번은 끝난 과거 시점 last night에 과거형 saw를 써서 모두 바른 문장이에요. 셋째, 5번은 끝난 과거 시점 in 2022와 현재완료 has graduated를 함께 써서 어색하니, 과거형 graduated로 고쳐요. She graduated from college in 2022. 그녀는 2022년에 대학을 졸업했어요.",
+   "caption": "때 표현 찾기 → 시제 짝짓기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① I have lived in Seoul since I was born.  ✗  since + 현재완료: 태어난 뒤로 지금까지 계속 (바른 문장)\n② Have you ever been to Jeju Island?  ✗  ever + 현재완료: 경험을 물어요 (바른 문장)\n③ He has already lost his umbrella again.  ✗  already + 현재완료: 완료 (바른 문장)\n④ We saw the movie together last night.  ✗  last night + 과거형 saw (바른 문장)\n⑤ She has graduated from college in 2022.  ✓  in 2022는 끝난 과거 시점 → graduated로",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① I have lived in Seoul since I was born.  ✗  since + 현재완료: 태어난 뒤로 지금까지 계속 (바른 문장)",
+     "② Have you ever been to Jeju Island?  ✗  ever + 현재완료: 경험을 물어요 (바른 문장)",
+     "③ He has already lost his umbrella again.  ✗  already + 현재완료: 완료 (바른 문장)",
+     "④ We saw the movie together last night.  ✗  last night + 과거형 saw (바른 문장)",
+     "⑤ She has graduated from college in 2022.  ✓  in 2022는 끝난 과거 시점 → graduated로"
+    ]
+   },
+   "narration": "정답은 in 2022와 현재완료를 함께 쓴 5번이에요. 1번은 과거형 was born이 있어 헷갈릴 수 있지만, 태어난 뒤로 지금까지 계속 산 일을 since와 현재완료로 써서 맞아요. 3번은 already와 함께 벌써 또 우산을 잃어버린 일을 현재완료로 써서 맞아요.",
+   "caption": "정답 ⑤ → graduated"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ⑤ She has graduated from college in 2022.\n\n끝난 과거 시점(yesterday, last ~, ~ ago, in 2020) → 과거형 (현재완료 ✗)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ She has graduated from college in 2022.",
+     "끝난 과거 시점(yesterday, last ~, ~ ago, in 2020) → 과거형 (현재완료 ✗)"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, in 2022처럼 끝난 과거 시점을 밝히면 현재완료가 아니라 과거형을 써요.",
+   "caption": "끝난 과거 시점 → 과거형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 어법상 어색한 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "I have lived in Seoul since I was born.",
+   "Have you ever been to Jeju Island?",
+   "He has already lost his umbrella again.",
+   "We saw the movie together last night.",
+   "She has graduated from college in 2022."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 현재완료는 since, ever, already, just와는 함께 쓰지만 in 2022, last night, ~ ago처럼 끝난 과거 시점을 나타내는 말과는 함께 쓰지 않는다.\n풀이 순서: ① 문장마다 시간 표현을 찾아 동사 시제와 짝짓는다. → ② since·for·ever·already·just는 현재완료와, 끝난 과거 시점은 과거형과 어울린다. → ③ 선택지 ⑤는 현재완료를 끝난 과거 시점(in 2022)과 함께 썼으므로 과거형(graduated)으로 고쳐야 한다.\n문장별 판정:\n정답 판단: in 2022라는 끝난 과거 시점과 현재완료를 함께 쓸 수 없다. graduated로 고쳐야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] since와 함께 지금까지 계속된 일을 현재완료로 썼으므로 오답이다.\n② [오답] ever와 함께 경험을 묻는 현재완료이므로 오답이다.\n③ [오답] already와 함께 완료를 나타내는 현재완료이므로 오답이다.\n④ [오답] last night이 있어 과거형 saw를 바르게 썼으므로 오답이다.\n⑤ [정답] in 2022라는 끝난 과거 시점과 현재완료를 함께 쓸 수 없다. graduated로 고쳐야 하므로 정답이다."
+ }
+}

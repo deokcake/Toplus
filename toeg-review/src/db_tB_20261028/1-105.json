@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T05:12:16.781Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "A, B, C, E",
+      "1": "B, C, D, E",
+      "2": "A, C, F, G",
+      "3": "A, B, E, G",
+      "4": "B, D, E, F"
+    },
+    "expl": "핵심 규칙: because of·despite·in spite of 뒤에는 명사(구), because·although 뒤에는 절이 온다. so ~ that은 결과, lest ~ (should)는 ‘~하지 않도록’을 나타내고, 간접의문문은 ‘의문사 + 주어 + 동사’ 어순이다. however(no matter how) 뒤에는 형용사·부사가 바로 온다.\n풀이 순서: ① 문장마다 접속사·전치사 뒤에 온 것이 명사(구)인지 절인지, 간접의문문의 어순이 바른지 확인한다. → ② D는 Despite 뒤에 절이 왔고, F는 간접의문문이 의문문 어순이며, G는 Because 뒤에 명사만 왔다. 나머지 넷은 옳다. → ③ 옳은 문장만 모은 A, B, C, E를 고른다.\n문장별 판정:\nA) 옳음: in spite of + 명사.\nB) 옳음: so + 부사 + that(결과).\nC) 옳음: lest + 주어 + (should) + 동사원형.\nD) 틀림: despite 뒤에는 절이 올 수 없다. Although he was tired.\nE) 옳음: however + 형용사 + 주어 + 동사.\nF) 틀림: 간접의문문 어순은 where the station is.\nG) 틀림: 명사 앞에는 because of를 쓴다.\n정답 판단: 어법상 옳은 문장은 A, B, C, E이다.\n선택지 분석:\n① [정답] 옳은 문장 A, B, C, E를 빠짐없이 골랐으므로 정답이다.\n② [오답] D는 옳은 문장이 아니고, 옳은 문장 A를 빠뜨렸다. 따라서 오답이다.\n③ [오답] F, G는 옳은 문장이 아니고, 옳은 문장 B, E를 빠뜨렸다. 따라서 오답이다.\n④ [오답] G는 옳은 문장이 아니고, 옳은 문장 C를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] D, F는 옳은 문장이 아니고, 옳은 문장 A, C를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "A) In spite of the snow, the road was open.\nB) Tom ran so fast that nobody caught him.\nC) Lest Mina forget the key, she put it by the door.\nD) Despite he was tired, Leo kept walking.\nE) However expensive it is, I need it.\nF) Tell me where is the station.\nG) Because the noise, I couldn't sleep.",
+    "stem": "다음 중 어법상 옳은 것을 모두 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T05:11:29.854Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T05:12:16.781Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T05:12:16.781Z",
+      "what": "확인 완료"
+    }
+  }
+}

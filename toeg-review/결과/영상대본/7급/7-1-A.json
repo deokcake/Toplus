@@ -1,0 +1,174 @@
+{
+ "key": "7-1",
+ "type": "A",
+ "grade": 7,
+ "chapter": "CH 1 명사",
+ "title": "셀 수 있는 명사와 셀 수 없는 명사",
+ "total_sec": 119,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "7급 · CH 1 명사 · 1번\n\n이 문제는 다섯 개의 명사 가운데 셀 수 없는 명사를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 1 명사 · 1번",
+     "이 문제는 다섯 개의 명사 가운데 셀 수 없는 명사를 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 1, 1번. 이 문제는 다섯 개의 명사 가운데 셀 수 없는 명사를 고르는 문제예요.",
+   "caption": "셀 수 없는 명사 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 13,
+   "screen": {
+    "text": "다음 중 셀 수 없는 명사를 고르시오.\n\n① cat\n② desk\n③ love\n④ orange\n⑤ book",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 셀 수 없는 명사를 고르시오.",
+     "① cat",
+     "② desk",
+     "③ love",
+     "④ orange",
+     "⑤ book"
+    ]
+   },
+   "narration": "다음 중 셀 수 없는 명사를 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n하나, 둘 셀 수 있는 명사 → a/an을 붙이거나 복수형으로 (a ball, two balls)\n셀 수 없는 명사 → a/an을 붙이지 않고 복수형도 쓰지 않아요\n물질(water, milk, bread, rice), 감정(love), money는 보통 셀 수 없어요\n예) I have two balls. I drink juice. (나는 공이 두 개 있어요. 나는 주스를 마셔요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "하나, 둘 셀 수 있는 명사 → a/an을 붙이거나 복수형으로 (a ball, two balls)",
+     "셀 수 없는 명사 → a/an을 붙이지 않고 복수형도 쓰지 않아요",
+     "물질(water, milk, bread, rice), 감정(love), money는 보통 셀 수 없어요",
+     "예) I have two balls. I drink juice. (나는 공이 두 개 있어요. 나는 주스를 마셔요.)"
+    ]
+   },
+   "narration": "하나, 둘 셀 수 있는 명사는 하나일 때 a나 an을 붙일 수 있고, 여럿일 때는 복수형으로 써요. water 물, milk 우유, bread 빵, rice 쌀 같은 물질이나 love 사랑 같은 감정, 그리고 money 돈은 보통 셀 수 없는 명사예요. 셀 수 없는 명사에는 a나 an을 붙이지 않고, 복수형으로도 쓰지 않아요. 예를 들어 I have two balls, 나는 공이 두 개 있어요. I drink juice, 나는 주스를 마셔요.",
+   "caption": "셀 수 있는 명사, 셀 수 없는 명사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 중 셀 수 없는 명사를 고르시오.\n\n① cat\n② desk\n③ love\n④ orange\n⑤ book",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "셀 수 없는 명사"
+      ],
+      "strike": [],
+      "note": "발문: 셀 수 없는 명사를 고른다 → 보기마다 하나, 둘 셀 수 있는지 따져 본다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① cat",
+       "② desk",
+       "④ orange",
+       "⑤ book"
+      ],
+      "note": "cat, desk, orange, book → a cat, a desk, an orange, a book / two cats … 셀 수 있다 → 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ love"
+      ],
+      "strike": [],
+      "note": "남는 것은 love(사랑) = 감정 → 하나, 둘 셀 수 없다."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 셀 수 없는 명사를 고르는 문제니까, 보기마다 하나, 둘 셀 수 있는지 따져 봐요. 둘째, cat은 a cat, two cats처럼 셀 수 있어요. desk, orange, book도 a desk, an orange, a book처럼 하나, 둘 셀 수 있으니 지워요. 셋째, 남은 love는 사랑이라는 감정이라 하나, 둘 셀 수 없어요. 그래서 셀 수 없는 명사는 love예요.",
+   "caption": "셀 수 있는 것 지우기 → love"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① cat  ✗  a cat, two cats처럼 셀 수 있어요\n② desk  ✗  a desk, two desks처럼 셀 수 있어요\n③ love  ✓  사랑이라는 감정, 셀 수 없는 명사\n④ orange  ✗  an orange, two oranges처럼 셀 수 있어요\n⑤ book  ✗  a book, two books처럼 셀 수 있어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① cat  ✗  a cat, two cats처럼 셀 수 있어요",
+     "② desk  ✗  a desk, two desks처럼 셀 수 있어요",
+     "③ love  ✓  사랑이라는 감정, 셀 수 없는 명사",
+     "④ orange  ✗  an orange, two oranges처럼 셀 수 있어요",
+     "⑤ book  ✗  a book, two books처럼 셀 수 있어요"
+    ]
+   },
+   "narration": "정답은 3번 love예요. love는 사랑이라는 감정이라 하나, 둘 셀 수 없어요. 4번 orange는 과일 오렌지라서 an orange, two oranges처럼 셀 수 있어요. 5번 book은 a book, two books처럼 한 권, 두 권 셀 수 있고, 1번 cat도 a cat, two cats처럼 셀 수 있어요.",
+   "caption": "정답 ③ love"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ love\n\n감정(love)·물질(water)·money → 보통 셀 수 없는 명사",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ love",
+     "감정(love)·물질(water)·money → 보통 셀 수 없는 명사"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, love 같은 감정이나 water 같은 물질, 그리고 money는 보통 셀 수 없는 명사예요.",
+   "caption": "감정·물질·money는 보통 셀 수 없어요"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 셀 수 없는 명사를 고르시오.",
+  "passage": "",
+  "c": [
+   "cat",
+   "desk",
+   "love",
+   "orange",
+   "book"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 하나, 둘 셀 수 있는 것은 셀 수 있는 명사다. 물질(water, bread, milk, rice, money)이나 눈에 보이지 않는 것(love)은 셀 수 없는 명사다.\n풀이 순서: ① 보기마다 앞에 ‘한 개, 두 개’를 붙여 본다. → ② 붙일 수 없는 것을 찾는다. love(사랑)는 형태가 없어 셀 수 없다. → ③ 정답은 love.\n문장별 판정:\n정답 판단: 눈에 보이지 않는 감정이라 셀 수 없으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 한 마리, 두 마리 셀 수 있으므로 오답이다.\n② [오답] 한 개, 두 개 셀 수 있으므로 오답이다.\n③ [정답] 눈에 보이지 않는 감정이라 셀 수 없으므로 정답이다.\n④ [오답] 한 개, 두 개 셀 수 있으므로 오답이다.\n⑤ [오답] 한 권, 두 권 셀 수 있으므로 오답이다."
+ }
+}

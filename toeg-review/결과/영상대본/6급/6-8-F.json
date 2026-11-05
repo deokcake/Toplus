@@ -1,0 +1,179 @@
+{
+ "key": "6-8",
+ "type": "F",
+ "grade": 6,
+ "chapter": "CH 1 명사와 관사",
+ "title": "two 뒤 tooth의 복수형",
+ "total_sec": 126,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "6급 · CH 1 명사와 관사 · 8번 · F 유형\n\n이 문제는 수를 나타내는 말 two 뒤에 오는 명사의 알맞은 형태를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 1 명사와 관사 · 8번 · F 유형",
+     "이 문제는 수를 나타내는 말 two 뒤에 오는 명사의 알맞은 형태를 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 1, 8번 F 유형. 이 문제는 수를 나타내는 말 two 뒤에 오는 명사의 알맞은 형태를 고르는 문제예요.",
+   "caption": "two 뒤 명사의 형태"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 단어의 형태가 알맞은 것을 고르세요.\n\nThe child lost two _______ last year.\n\n① a tooth\n② teeth\n③ tooth\n④ toothes\n⑤ tooths",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 단어의 형태가 알맞은 것을 고르세요.",
+     "The child lost two _______ last year.",
+     "① a tooth",
+     "② teeth",
+     "③ tooth",
+     "④ toothes",
+     "⑤ tooths"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 단어의 형태가 알맞은 것을 고르세요. The child lost two, 빈칸, last year. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 27,
+   "screen": {
+    "text": "핵심 규칙\n셀 수 있는 명사: 하나 → 단수형 (a cat), 둘 이상 → 복수형 (two cats)\n복수형은 대부분 끝에 s나 es를 붙여요 (cats, boxes)\n불규칙 복수형: tooth → teeth, foot → feet, mouse → mice\n이런 명사는 s나 es를 붙여 복수형을 만들지 않아요\n예) I see two dogs and three mice. (나는 개 두 마리와 쥐 세 마리를 봐요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "셀 수 있는 명사: 하나 → 단수형 (a cat), 둘 이상 → 복수형 (two cats)",
+     "복수형은 대부분 끝에 s나 es를 붙여요 (cats, boxes)",
+     "불규칙 복수형: tooth → teeth, foot → feet, mouse → mice",
+     "이런 명사는 s나 es를 붙여 복수형을 만들지 않아요",
+     "예) I see two dogs and three mice. (나는 개 두 마리와 쥐 세 마리를 봐요.)"
+    ]
+   },
+   "narration": "셀 수 있는 명사가 하나이면 단수형을 쓰고, two나 three처럼 둘 이상이면 복수형을 써요. 복수형은 대부분 cats, boxes처럼 끝에 s나 es를 붙여서 만들어요. 그런데 tooth는 teeth, foot은 feet, mouse는 mice처럼 모양이 바뀌는 명사도 있어요. 이것을 불규칙 복수형이라고 하는데, s나 es를 붙여서 만들지 않아요. I see two dogs and three mice. 나는 개 두 마리와 쥐 세 마리를 봐요.",
+   "caption": "둘 이상이면 복수형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 단어의 형태가 알맞은 것을 고르세요.\n\nThe child lost two _______ last year.\n\n① a tooth\n② teeth\n③ tooth\n④ toothes\n⑤ tooths",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "two _______"
+      ],
+      "strike": [
+       "① a tooth",
+       "③ tooth"
+      ],
+      "note": "주어 The child(한 명)가 아니라 빈칸 바로 앞 two(둘)를 본다 → 복수형이 필요. 단수형 a tooth, tooth는 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "② teeth"
+      ],
+      "strike": [
+       "⑤ tooths",
+       "④ toothes"
+      ],
+      "note": "tooth의 복수형 = teeth(모양이 바뀜) → s, es를 붙인 tooths, toothes는 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② teeth"
+      ],
+      "strike": [],
+      "note": "남는 것은 teeth → The child lost two teeth last year."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 주어 The child가 아니라 빈칸 바로 앞의 two를 봐야 해요. two는 둘이라는 뜻이라 복수형이 필요하니까, 하나를 나타내는 a tooth와 tooth는 지워요. 둘째, tooth의 복수형은 s나 es를 붙이지 않고 모양이 바뀐 teeth라서, tooths와 toothes도 지워요. 셋째, 남는 것은 teeth예요. The child lost two teeth last year. 그 아이는 작년에 이가 두 개 빠졌어요.",
+   "caption": "two → 단수형 지우기 → teeth"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① a tooth  ✗  a는 '하나'라는 뜻이라 two와 함께 쓸 수 없어요\n② teeth  ✓  tooth의 복수형은 모양이 바뀐 teeth\n③ tooth  ✗  하나를 나타내는 단수형이에요 (빈칸은 주어 The child가 아니라 two 뒤예요)\n④ toothes  ✗  tooth는 es를 붙여 복수형을 만들지 않아요\n⑤ tooths  ✗  tooth는 s를 붙여 복수형을 만들지 않아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① a tooth  ✗  a는 '하나'라는 뜻이라 two와 함께 쓸 수 없어요",
+     "② teeth  ✓  tooth의 복수형은 모양이 바뀐 teeth",
+     "③ tooth  ✗  하나를 나타내는 단수형이에요 (빈칸은 주어 The child가 아니라 two 뒤예요)",
+     "④ toothes  ✗  tooth는 es를 붙여 복수형을 만들지 않아요",
+     "⑤ tooths  ✗  tooth는 s를 붙여 복수형을 만들지 않아요"
+    ]
+   },
+   "narration": "정답은 2번 teeth예요. 5번 tooths를 고르기 쉽지만, tooth는 s를 붙이지 않고 teeth로 모양이 바뀌어요. 4번 toothes도 es를 붙인 꼴이라 tooth의 복수형이 아니에요. 3번 tooth는 주어 The child가 한 명이라서 고르기 쉽지만, 빈칸은 two 뒤라서 복수형이 와야 해요.",
+   "caption": "정답 ② teeth"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② teeth\n\n둘 이상 → 복수형, tooth → teeth (s를 붙이지 않아요)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② teeth",
+     "둘 이상 → 복수형, tooth → teeth (s를 붙이지 않아요)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 둘 이상이면 명사는 복수형을 쓰고, tooth의 복수형은 s를 붙이지 않고 teeth예요.",
+   "caption": "tooth의 복수형은 teeth"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 단어의 형태가 알맞은 것을 고르세요.",
+  "passage": "The child lost two _______ last year.",
+  "c": [
+   "a tooth",
+   "teeth",
+   "tooth",
+   "toothes",
+   "tooths"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: ten, three, two, several 뒤에서는 명사의 알맞은 복수형을 쓴다.\n풀이 순서: ① 빈칸 앞뒤에서 수를 나타내는 말을 찾는다: two. 복수형이 필요하다. → ② 단수형과 a가 붙은 것을 지운다. → ③ tooth의 복수형은 teeth다. 정답은 teeth.\n문장별 판정:\n정답 판단: tooth의 불규칙 복수형은 teeth이다. 지문의 수량 표현은 둘 이상을 요구하므로 이 복수형이 알맞다. 따라서 정답은 ②이다.\n선택지 분석:\n① [오답] tooth의 불규칙 복수형은 teeth이다. 수량 표현 뒤에는 a tooth가 아니라 teeth가 필요하다.\n② [정답] tooth의 불규칙 복수형은 teeth이다. 지문의 수량 표현은 둘 이상을 요구하므로 이 복수형이 알맞다.\n③ [오답] tooth의 불규칙 복수형은 teeth이다. 수량 표현 뒤에는 tooth가 아니라 teeth가 필요하다.\n④ [오답] tooth의 불규칙 복수형은 teeth이다. 수량 표현 뒤에는 toothes가 아니라 teeth가 필요하다.\n⑤ [오답] tooth의 불규칙 복수형은 teeth이다. 수량 표현 뒤에는 tooths가 아니라 teeth가 필요하다."
+ }
+}

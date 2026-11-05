@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-04T12:00:23.090Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A), (B), (C)",
+      "1": "(B), (C), (E)",
+      "2": "(A), (C), (D)",
+      "3": "(B), (D), (E)",
+      "4": "(C), (D), (E)"
+    },
+    "expl": "핵심 규칙: Can + 주어 + 동사원형 ~? 형태인지 본다. can에는 -s를 붙이지 않고(Cans ×), can 뒤의 동사는 -s나 to 없이 원형으로 쓴다.\n풀이 순서: ① 문장마다 밑줄 친 말이 Can인지, can 뒤의 동사인지 본다. → ② Can에는 -s를 붙이지 않고, can 뒤의 동사는 원형이어야 한다. (A) reads(X), (B) O, (C) O, (D) Cans(X), (E) O. → ③ 옳은 것만 모으면 (B), (C), (E)\n문장별 판정:\n(A) X. can 뒤에는 동사원형 read를 써야 한다.\n(B) O. can 뒤에 동사원형 play를 썼다.\n(C) O. can 뒤에 동사원형 cook을 썼다.\n(D) X. can에는 -s를 붙이지 않는다.\n(E) O. can 뒤에 be동사의 원형 be를 썼다.\n정답 판단: 밑줄 친 부분이 옳은 문장은 (B), (C), (E)이다.\n선택지 분석:\n① [오답] (A)는 옳은 문장이 아니고, 옳은 문장 (E)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 옳은 문장 (B), (C), (E)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (A), (D)는 옳은 문장이 아니고, 옳은 문장 (B), (E)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (B)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(A) Can Tom <u>reads</u> the letter?\n(B) Can Jane <u>play</u> the piano?\n(C) Can we <u>cook</u> dinner together?\n(D) <u>Cans</u> he sing a song?\n(E) Can they <u>be</u> quiet in class?",
+    "stem": "다음 중 밑줄 친 부분이 문법적으로 옳은 문장으로 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-04T12:00:22.220Z"
+  },
+  "tab": "qwrdqw2v",
+  "updatedAt": "2026-10-04T12:00:23.090Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-04T12:00:23.090Z",
+      "what": "확인 완료"
+    }
+  }
+}

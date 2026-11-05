@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:17:02.314Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "What time do you will arrive at the station?",
+      "1": "What time will you arrive at the station?",
+      "2": "What time you will arrive at the station?",
+      "3": "What time will arrive you at the station?",
+      "4": "What time will you arrives at the station?"
+    },
+    "expl": "핵심 규칙: will이 있는 의문사 의문문은 의문사 + will + 주어 + 동사원형 순서로 만든다. do나 be를 따로 덧붙이지 않고, will 뒤에는 동사원형을 쓴다.\n풀이 순서: ① 조동사 will이 있는 의문문의 어순은 ‘의문사 + will + 주어 + 동사원형’이다. → ② 주어진 문장은 주어(you)가 will 앞에 있다. will을 주어 앞으로 옮긴다. → ③ do/does를 덧붙이거나 will be를 쓰거나 어순이 그대로인 것은 틀린다. 정답은 ②.\n문장별 판정:\n정답 판단: 의문사 + will + 주어 + 동사원형 어순으로 바르게 고쳤으므로 정답은 ②이다.\n선택지 분석:\n① [오답] will이 있는 의문문에 do를 덧붙일 수 없으므로 오답이다.\n② [정답] 의문사 + will + 주어 + 동사원형 어순으로 바르게 고쳤으므로 정답이다.\n③ [오답] 틀린 어순(의문사 + 주어 + will)을 그대로 두었으므로 오답이다.\n④ [오답] 주어 you가 동사 뒤로 가서 어순이 틀렸으므로 오답이다.\n⑤ [오답] will 뒤에는 동사원형(arrive)을 쓰므로 오답이다.",
+    "passage": "What time you will arrive at the station?",
+    "stem": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고친 문장을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T08:17:01.948Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T08:17:02.314Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T08:17:02.314Z",
+      "what": "확인 완료"
+    }
+  }
+}

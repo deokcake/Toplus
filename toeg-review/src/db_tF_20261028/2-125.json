@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T11:56:54.800Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 현재의 가정은 과거형(be동사는 were), 과거의 가정은 had + 과거분사로 나타내며, 그 결과는 각각 would + 동사원형, would have + 과거분사이다. wish와 as if 뒤에도 가리키는 때에 맞는 가정법 형태를 쓰고 will·can·현재형을 쓰지 않는다.\n풀이 순서: ① 문장마다 if절과 주절의 짝을 본다. 가정법 과거는 ‘과거형 - would + 동사원형’, 가정법 과거완료는 ‘had + 과거분사 - would have + 과거분사’다. → ② I wish, as if 뒤에는 과거형이나 had + 과거분사를 쓴다. 현재형, will, can은 틀린다. → ③ ⓑ는 I would call, ⓒ는 I wish I were, ⓓ는 they would have arrived, ⓔ는 she could fly, ⓕ는 we would have made로 써야 한다. ⓐ만 옳다. 틀린 문장은 5개이다.\n문장별 판정:\nⓐ O. as if + had + 과거분사로 과거 사실의 반대를 나타냈다.\nⓑ X. 가정법 과거의 주절에는 would를 쓴다(I would call).\nⓒ X. I wish 뒤 현재 사실 반대에는 were를 쓴다(I wish I were at home now).\nⓓ X. 어제의 가상 결과는 would have + 과거분사로 쓴다(would have arrived).\nⓔ X. wish 뒤에는 could를 쓴다(she could fly).\nⓕ X. 가정법 과거완료의 주절은 would have + 과거분사이다(would have made).\n정답 판단: 어법상 틀린 문장은 ⓑ, ⓒ, ⓓ, ⓔ, ⓕ로 5개이다.\n선택지 분석:\n① [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓓ, ⓔ, ⓕ로 5개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓓ, ⓔ, ⓕ로 5개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓓ, ⓔ, ⓕ로 5개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓓ, ⓔ, ⓕ로 5개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [정답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓓ, ⓔ, ⓕ로 5개이다. 이 보기의 5개는 실제 개수와 일치한다.",
+    "passage": "ⓐ She acts as if she had seen the movie before.\nⓑ If I knew his phone number, I will call him now.\nⓒ I wish I am at home now with my family.\nⓓ If they had left earlier, they would arrive on time yesterday.\nⓔ Mina wishes she can fly like a bird.\nⓕ If it had snowed last night, we will make a snowman.",
+    "stem": "다음 중 어법상 틀린 문장의 개수를 고르시오."
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T11:56:54.800Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T11:56:54.800Z",
+      "what": "확인 완료"
+    }
+  }
+}

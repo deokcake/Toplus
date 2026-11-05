@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:49:27.675Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "wolf - wolfs",
+      "1": "foot - foots",
+      "2": "bus - buss",
+      "3": "party - partys",
+      "4": "tooth - teeth"
+    },
+    "expl": "핵심 규칙: 복수형은 대부분 -s, -s·-x·-ch·-sh·자음+o로 끝나면 -es, 자음+y는 -ies, -f(e)는 -ves로 만든다. child-children, man-men, woman-women, foot-feet, tooth-teeth, mouse-mice, goose-geese는 불규칙하게 바뀐다.\n풀이 순서: ① 낱말 끝을 보고 규칙을 고른다. -s·-x·-ch·-sh는 -es, 자음 + y는 -ies, -f(e)는 -ves다. → ② 불규칙하게 바뀌는 명사(child - children, mouse - mice, foot - feet, tooth - teeth, man - men)와 형태가 같은 명사(sheep)는 따로 외운다. → ③ 선택지 ⑤만 옳다(tooth는 불규칙으로 teeth).\n문장별 판정:\n정답 판단: tooth - teeth: 바르게 만든 복수형이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] wolf - wolfs: 바른 복수형은 wolves이므로 오답이다.\n② [오답] foot - foots: 바른 복수형은 feet이므로 오답이다.\n③ [오답] bus - buss: 바른 복수형은 buses이므로 오답이다.\n④ [오답] party - partys: 바른 복수형은 parties이므로 오답이다.\n⑤ [정답] tooth - teeth: 바르게 만든 복수형이므로 정답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T07:49:27.217Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T07:49:27.675Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T07:49:27.675Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,446 @@
+{
+ "A": {
+  "title": "ing형 철자: 끝 자음 겹쳐 쓰기",
+  "intro": "이 문제는 ing형을 만드는 철자 규칙에 맞지 않게 짝지어진 것을 고르는 문제예요.",
+  "problem_narration": "동사와 동사원형에 ing을 붙인 형태가 잘못 짝지어진 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지금 하고 있는 일(~하고 있다) → be동사(am, is, are) + ing형",
+    "ing형: 대부분 동사원형 + ing (go → going), y로 끝나도 그대로 (study → studying)",
+    "끝이 소리 나지 않는 e → e를 빼고 + ing (make → making) · 끝이 ie → ie를 y로 바꾸고 + ing (lie → lying)",
+    "강세 있는 단모음 + 단자음으로 끝나면 → 끝 자음을 한 번 더(겹쳐) 쓰고 + ing (stop → stopping), w·x·y는 제외",
+    "예) She is dancing. (그녀는 춤추고 있어요.)"
+   ],
+   "narration": "지금 하는 일은 be동사와 ing형으로 말해요. ing형은 대부분 동사원형에 ing을 붙이고, y로 끝나도 그대로예요. make처럼 소리 나지 않는 e는 빼고, lie처럼 끝의 ie는 y로 바꿔요. stop처럼 세게 읽는 모음 하나와 자음 하나로 끝나면 w, x, y만 빼고 끝 자음을 겹쳐 써요. She is dancing. 그녀는 춤추고 있어요."
+  },
+  "steps": [
+   {
+    "note": "끝 글자 보기: tie → ie를 y로 (tying), cry → y는 그대로 (crying) → 맞음",
+    "highlight": [],
+    "strike": [
+     "① tie - tying",
+     "④ cry - crying"
+    ],
+    "narration": "첫째, 동사의 끝 글자를 봐요. tie는 ie를 y로 바꾼 tying, cry는 y로 끝나서 그대로 붙인 crying이라 둘 다 맞아요."
+   },
+   {
+    "note": "swim, set, sit → 모음 하나 + 자음 하나, 그 모음에 강세 → 끝 자음 한 번 더. swimming, setting 맞음",
+    "highlight": [
+     "② sit - siting"
+    ],
+    "strike": [
+     "③ swim - swimming",
+     "⑤ set - setting"
+    ],
+    "narration": "둘째, swim, set, sit은 모두 세게 읽는 모음 하나와 자음 하나로 끝나서, 끝 자음을 한 번 더 쓴 swimming과 setting은 맞아요."
+   },
+   {
+    "note": "sit → t를 한 번 더 → sitting이어야 하는데 siting → 잘못된 짝",
+    "highlight": [
+     "② sit - siting"
+    ],
+    "strike": [],
+    "narration": "셋째, sit도 t를 한 번 더 쓴 sitting이 되어야 하는데 siting으로 썼어요. 그래서 잘못 짝지어진 것은 2번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① tie - tying  ✗  ie로 끝나 ie를 y로 바꾸고 + ing, 맞아요",
+    "② sit - siting  ✓  단모음 + 단자음 → t를 한 번 더, sitting으로 써야 해요",
+    "③ swim - swimming  ✗  단모음 + 단자음 → m을 한 번 더, 맞아요",
+    "④ cry - crying  ✗  y로 끝나면 y를 바꾸지 않고 + ing, 맞아요",
+    "⑤ set - setting  ✗  단모음 + 단자음 → t를 한 번 더, 맞아요"
+   ],
+   "narration": "정답은 2번이에요. sit은 끝 자음 t를 한 번 더 써서 sitting으로 써야 하는데 t를 하나만 썼어요. 4번 crying은 cries처럼 y를 i로 바꿔야 할 것 같지만, ing을 붙일 때는 y를 그대로 둬요. 1번 tying은 낯설어 보여도 tie의 ie를 y로 바꾼 바른 모양이에요."
+  },
+  "summary": {
+   "card": "강세 있는 단모음 + 단자음(w·x·y 제외)으로 끝나면 → 끝 자음을 한 번 더 + ing (sit → sitting)",
+   "narration": "정답은 2번이에요. 기억할 것, 세게 읽는 단모음과 단자음으로 끝나면 w, x, y만 빼고 자음을 겹쳐 ing을 붙여요."
+  },
+  "captions": [
+   "ing형 만드는 철자 규칙",
+   "먼저 풀어 보세요",
+   "ing형을 만드는 규칙",
+   "끝 글자 → 자음 겹쳐 쓰기 → sitting",
+   "정답 ② sit - siting",
+   "강세 있는 단모음 + 단자음 → 겹쳐 쓰기"
+  ],
+  "sec": [
+   10,
+   16,
+   30,
+   34,
+   28,
+   12
+  ]
+ },
+ "B": {
+  "title": "ing형 철자: ie로 끝나는 동사",
+  "intro": "이 문제는 ing형을 만드는 철자 규칙에 맞지 않게 짝지어진 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사원형과 ing형이 잘못 짝지어진 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지금 하고 있는 일(~하고 있다) → be동사(am, is, are) + ing형",
+    "ing형: 대부분 동사원형 + ing (go → going), y로 끝나도 그대로 (play → playing)",
+    "끝이 소리 나지 않는 e → e를 빼고 + ing (make → making) · 끝이 ie → ie를 y로 바꾸고 + ing (tie → tying)",
+    "강세 있는 단모음 + 단자음으로 끝나면 → 끝 자음을 한 번 더(겹쳐) 쓰고 + ing (stop → stopping), w·x·y는 제외",
+    "예) We are jogging. (우리는 조깅하고 있어요.)"
+   ],
+   "narration": "지금 하는 일은 be동사와 ing형으로 말해요. ing형은 대부분 동사원형에 ing을 붙이고, y로 끝나도 그대로예요. make처럼 소리 나지 않는 e는 빼고, tie처럼 끝의 ie는 y로 바꿔요. stop처럼 세게 읽는 모음 하나와 자음 하나로 끝나면 w, x, y만 빼고 끝 자음을 겹쳐 써요. We are jogging. 우리는 조깅하고 있어요."
+  },
+  "steps": [
+   {
+    "note": "끝 글자 보기: write → 소리 나지 않는 e를 빼고 (writing), study → y는 그대로 (studying) → 맞음",
+    "highlight": [],
+    "strike": [
+     "③ write - writing",
+     "④ study - studying"
+    ],
+    "narration": "첫째, 동사의 끝 글자를 봐요. write는 소리 나지 않는 e를 뺀 writing, study는 y로 끝나서 그대로 붙인 studying이라 둘 다 맞아요."
+   },
+   {
+    "note": "swim, begin(뒤쪽 gin에 강세) → 강세 있는 모음 하나 + 자음 하나 → 끝 자음 한 번 더 (swimming, beginning) → 맞음",
+    "highlight": [],
+    "strike": [
+     "① begin - beginning",
+     "② swim - swimming"
+    ],
+    "narration": "둘째, swim과, 뒷부분을 세게 읽는 begin은 모음 하나와 자음 하나로 끝나서, 끝 자음을 한 번 더 쓴 swimming과 beginning이 맞아요."
+   },
+   {
+    "note": "lie → ie를 y로 바꾸고 + ing → lying이어야 하는데 lieing → 잘못된 짝",
+    "highlight": [
+     "⑤ lie - lieing"
+    ],
+    "strike": [],
+    "narration": "셋째, lie는 ie를 y로 바꾼 lying이 되어야 하는데 lieing으로 썼어요. 그래서 잘못 짝지어진 것은 5번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① begin - beginning  ✗  뒤쪽 gin에 강세, 단모음 + 단자음 → n을 한 번 더, 맞아요",
+    "② swim - swimming  ✗  단모음 + 단자음 → m을 한 번 더, 맞아요",
+    "③ write - writing  ✗  소리 나지 않는 e → e를 빼고 + ing, 맞아요",
+    "④ study - studying  ✗  y로 끝나면 y를 바꾸지 않고 + ing, 맞아요",
+    "⑤ lie - lieing  ✓  ie → y로 바꾸고 + ing, lying으로 써야 해요"
+   ],
+   "narration": "정답은 5번이에요. lie는 ie를 y로 바꾸고 ing을 붙여 lying으로 써야 하는데, 그대로 ing만 붙였어요. 1번 beginning은 n이 두 개라 이상해 보이지만, begin은 뒷부분을 세게 읽어서 n을 한 번 더 쓴 바른 모양이에요. 4번 studying은 y를 i로 바꿔야 할 것 같지만, ing을 붙일 때는 y를 그대로 둬요."
+  },
+  "summary": {
+   "card": "ie로 끝나는 동사 → ie를 y로 바꾸고 + ing (lie → lying)",
+   "narration": "정답은 5번이에요. 기억할 것, lie처럼 ie로 끝나는 동사는 ie를 y로 바꾸고 ing을 붙여요."
+  },
+  "captions": [
+   "ing형 만드는 철자 규칙",
+   "먼저 풀어 보세요",
+   "ing형을 만드는 규칙",
+   "끝 글자 → ie를 y로 → lying",
+   "정답 ⑤ lie - lieing",
+   "ie로 끝나면 → ie를 y로 바꾸고 + ing"
+  ],
+  "sec": [
+   11,
+   16,
+   30,
+   36,
+   30,
+   10
+  ]
+ },
+ "C": {
+  "title": "ing형 철자: 끝 자음 겹쳐 쓰기",
+  "intro": "이 문제는 ing형을 만드는 철자 규칙에 맞지 않게 짝지어진 것을 고르는 문제예요.",
+  "problem_narration": "동사의 원형과 ing형이 잘못 짝지어진 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지금 하고 있는 일(~하고 있다) → be동사(am, is, are) + ing형",
+    "ing형: 대부분 동사원형 + ing (go → going), y로 끝나도 그대로 (study → studying)",
+    "끝이 소리 나지 않는 e → e를 빼고 + ing (make → making) · 끝이 ie → ie를 y로 바꾸고 + ing (lie → lying)",
+    "강세 있는 단모음 + 단자음으로 끝나면 → 끝 자음을 한 번 더(겹쳐) 쓰고 + ing (sit → sitting), w·x·y는 제외",
+    "예) The kids are playing. (아이들이 놀고 있어요.)"
+   ],
+   "narration": "지금 하는 일은 be동사와 ing형으로 말해요. ing형은 대부분 동사원형에 ing을 붙이고, y로 끝나도 그대로예요. make처럼 소리 나지 않는 e는 빼고, lie처럼 끝의 ie는 y로 바꿔요. sit처럼 세게 읽는 모음 하나와 자음 하나로 끝나면 w, x, y만 빼고 끝 자음을 겹쳐 써요. The kids are playing. 아이들이 놀고 있어요."
+  },
+  "steps": [
+   {
+    "note": "끝 글자 보기: die → ie를 y로 (dying), come → e를 빼고 (coming), enjoy → y는 그대로 (enjoying) → 맞음",
+    "highlight": [],
+    "strike": [
+     "① die - dying",
+     "③ come - coming",
+     "④ enjoy - enjoying"
+    ],
+    "narration": "첫째, 동사의 끝 글자를 봐요. die는 ie를 y로 바꾼 dying, come은 소리 나지 않는 e를 뺀 coming, enjoy는 y로 끝나서 그대로 붙인 enjoying이라 모두 맞아요."
+   },
+   {
+    "note": "stop, run → 모음 하나 + 자음 하나, 그 모음에 강세 → 끝 자음 한 번 더. stopping 맞음",
+    "highlight": [
+     "⑤ run - runing"
+    ],
+    "strike": [
+     "② stop - stopping"
+    ],
+    "narration": "둘째, stop과 run은 세게 읽는 모음 하나와 자음 하나로 끝나서, 끝 자음을 한 번 더 쓴 stopping은 맞아요."
+   },
+   {
+    "note": "run → n을 한 번 더 → running이어야 하는데 runing → 잘못된 짝",
+    "highlight": [
+     "⑤ run - runing"
+    ],
+    "strike": [],
+    "narration": "셋째, run도 n을 한 번 더 쓴 running이 되어야 하는데 runing으로 썼어요. 그래서 잘못 짝지어진 것은 5번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① die - dying  ✗  ie로 끝나 ie를 y로 바꾸고 + ing, 맞아요",
+    "② stop - stopping  ✗  단모음 + 단자음 → p를 한 번 더, 맞아요",
+    "③ come - coming  ✗  소리 나지 않는 e → e를 빼고 + ing, 맞아요",
+    "④ enjoy - enjoying  ✗  y로 끝나면 y를 바꾸지 않고 + ing, 맞아요",
+    "⑤ run - runing  ✓  단모음 + 단자음 → n을 한 번 더, running으로 써야 해요"
+   ],
+   "narration": "정답은 5번이에요. run은 끝 자음 n을 한 번 더 써서 running으로 써야 하는데 n을 하나만 썼어요. 1번 dying은 die와 모양이 많이 달라 보이지만, ie를 y로 바꾸고 ing을 붙인 바른 모양이에요. 4번 enjoying은 y로 끝나서 y를 바꾸거나 겹쳐 쓰지 않고 그대로 ing을 붙였어요."
+  },
+  "summary": {
+   "card": "강세 있는 단모음 + 단자음(w·x·y 제외)으로 끝나면 → 끝 자음을 한 번 더 + ing (run → running)",
+   "narration": "정답은 5번이에요. 기억할 것, 세게 읽는 단모음과 단자음으로 끝나면 w, x, y만 빼고 자음을 겹쳐 ing을 붙여요."
+  },
+  "captions": [
+   "ing형 만드는 철자 규칙",
+   "먼저 풀어 보세요",
+   "ing형을 만드는 규칙",
+   "끝 글자 → 자음 겹쳐 쓰기 → running",
+   "정답 ⑤ run - runing",
+   "강세 있는 단모음 + 단자음 → 겹쳐 쓰기"
+  ],
+  "sec": [
+   11,
+   15,
+   30,
+   36,
+   28,
+   12
+  ]
+ },
+ "D": {
+  "title": "ing형 철자: e로 끝나는 동사",
+  "intro": "이 문제는 ing형을 만드는 철자 규칙에 맞지 않게 짝지어진 것을 고르는 문제예요.",
+  "problem_narration": "동사의 원형과 ing형이 잘못 짝지어진 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지금 하고 있는 일(~하고 있다) → be동사(am, is, are) + ing형",
+    "ing형: 대부분 동사원형 + ing (go → going), y로 끝나도 그대로 (study → studying)",
+    "끝이 소리 나지 않는 e → e를 빼고 + ing (write → writing) · 끝이 ie → ie를 y로 바꾸고 + ing (lie → lying)",
+    "강세 있는 단모음 + 단자음으로 끝나면 → 끝 자음을 한 번 더(겹쳐) 쓰고 + ing (stop → stopping), w·x·y는 제외",
+    "예) She is writing. (그녀는 글을 쓰고 있어요.)"
+   ],
+   "narration": "지금 하는 일은 be동사와 ing형으로 말해요. ing형은 대부분 동사원형에 ing을 붙이고, y로 끝나도 그대로예요. write처럼 소리 나지 않는 e는 빼고, lie처럼 끝의 ie는 y로 바꿔요. stop처럼 세게 읽는 모음 하나와 자음 하나로 끝나면 w, x, y만 빼고 끝 자음을 겹쳐 써요. She is writing. 그녀는 글을 쓰고 있어요."
+  },
+  "steps": [
+   {
+    "note": "끝 글자 보기: get, plan → 모음 하나 + 자음 하나, 그 모음에 강세 → 끝 자음 한 번 더 (getting, planning) → 맞음",
+    "highlight": [],
+    "strike": [
+     "① get - getting",
+     "⑤ plan - planning"
+    ],
+    "narration": "첫째, 동사의 끝 글자를 봐요. get과 plan은 세게 읽는 모음 하나와 자음 하나로 끝나서, 끝 자음을 한 번 더 쓴 getting과 planning이 맞아요."
+   },
+   {
+    "note": "carry → y는 그대로 (carrying), ride → 소리 나지 않는 e를 빼고 (riding) → 맞음",
+    "highlight": [],
+    "strike": [
+     "④ carry - carrying",
+     "② ride - riding"
+    ],
+    "narration": "둘째, carry는 y로 끝나서 그대로 붙인 carrying, ride는 소리 나지 않는 e를 뺀 riding이라 둘 다 맞아요."
+   },
+   {
+    "note": "make → 소리 나지 않는 e를 빼고 + ing → making이어야 하는데 makeing → 잘못된 짝",
+    "highlight": [
+     "③ make - makeing"
+    ],
+    "strike": [],
+    "narration": "셋째, make도 소리 나지 않는 e를 뺀 making이 되어야 하는데 makeing으로 썼어요. 그래서 잘못 짝지어진 것은 3번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① get - getting  ✗  단모음 + 단자음 → t를 한 번 더, 맞아요",
+    "② ride - riding  ✗  소리 나지 않는 e → e를 빼고 + ing, 맞아요",
+    "③ make - makeing  ✓  소리 나지 않는 e → e를 빼고 + ing, making으로 써야 해요",
+    "④ carry - carrying  ✗  y로 끝나면 y를 바꾸지 않고 + ing, 맞아요",
+    "⑤ plan - planning  ✗  단모음 + 단자음 → n을 한 번 더, 맞아요"
+   ],
+   "narration": "정답은 3번이에요. make는 소리 나지 않는 e로 끝나서 e를 빼고 making으로 써야 하는데, e를 그대로 두었어요. 4번 carrying은 carries처럼 y를 i로 바꿔야 할 것 같지만, ing을 붙일 때는 y를 그대로 둬요. 5번 planning은 n이 두 개라 어색해 보여도, 끝 자음을 한 번 더 쓴 바른 모양이에요."
+  },
+  "summary": {
+   "card": "소리 나지 않는 e로 끝나는 동사 → e를 빼고 + ing (make → making)",
+   "narration": "정답은 3번이에요. 기억할 것, make처럼 소리 나지 않는 e로 끝나는 동사는 e를 빼고 ing을 붙여요."
+  },
+  "captions": [
+   "ing형 만드는 철자 규칙",
+   "먼저 풀어 보세요",
+   "ing형을 만드는 규칙",
+   "끝 글자 → e를 빼고 → making",
+   "정답 ③ make - makeing",
+   "소리 나지 않는 e → 빼고 + ing"
+  ],
+  "sec": [
+   11,
+   15,
+   30,
+   36,
+   28,
+   11
+  ]
+ },
+ "E": {
+  "title": "ing형 철자: e로 끝나는 동사",
+  "intro": "이 문제는 ing형을 만드는 철자 규칙에 맞지 않게 짝지어진 것을 고르는 문제예요.",
+  "problem_narration": "동사의 원형과 ing형이 잘못 짝지어진 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지금 하고 있는 일(~하고 있다) → be동사(am, is, are) + ing형",
+    "ing형: 대부분 동사원형 + ing (go → going) · 끝이 ie → ie를 y로 바꾸고 + ing (lie → lying)",
+    "끝이 소리 나지 않는 e → e를 빼고 + ing (make → making) · 소리 나는 ee는 그대로 (see → seeing)",
+    "강세 있는 단모음 + 단자음으로 끝나면 → 끝 자음을 한 번 더(겹쳐) 쓰고 + ing (stop → stopping), w·x·y는 제외",
+    "예) The baby is smiling. (아기가 웃고 있어요.)"
+   ],
+   "narration": "지금 하는 일은 be동사와 ing형으로 말해요. ing형은 대부분 동사원형에 ing을 붙여요. make처럼 소리 나지 않는 e는 빼지만 see의 ee는 그대로 두고, lie처럼 끝의 ie는 y로 바꿔요. stop처럼 세게 읽는 모음 하나와 자음 하나로 끝나면 w, x, y만 빼고 끝 자음을 겹쳐 써요. The baby is smiling. 아기가 웃고 있어요."
+  },
+  "steps": [
+   {
+    "note": "끝 글자 보기: take → 소리 나지 않는 e를 빼고 (taking), see → ee는 소리가 나서 그대로 (seeing) → 맞음",
+    "highlight": [],
+    "strike": [
+     "① take - taking",
+     "④ see - seeing"
+    ],
+    "narration": "첫째, 동사의 끝 글자를 봐요. take는 소리 나지 않는 e를 뺀 taking, see는 ee가 소리 나서 e를 빼지 않은 seeing이라 둘 다 맞아요."
+   },
+   {
+    "note": "put, shop → 모음 하나 + 자음 하나, 그 모음에 강세 → 끝 자음 한 번 더 (putting, shopping) → 맞음",
+    "highlight": [],
+    "strike": [
+     "③ put - putting",
+     "⑤ shop - shopping"
+    ],
+    "narration": "둘째, put과 shop은 세게 읽는 모음 하나와 자음 하나로 끝나서, 끝 자음을 한 번 더 쓴 putting과 shopping이 맞아요."
+   },
+   {
+    "note": "come → 글자는 소리 나지 않는 e로 끝남 → e만 빼고 coming. m을 겹쳐 쓴 comming → 잘못된 짝",
+    "highlight": [
+     "② come - comming"
+    ],
+    "strike": [],
+    "narration": "셋째, come은 m 소리로 끝나지만 글자는 소리 나지 않는 e로 끝나서, e만 빼고 coming으로 써야 해요. 그래서 m을 겹쳐 쓴 2번이 잘못 짝지어진 것이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① take - taking  ✗  소리 나지 않는 e → e를 빼고 + ing, 맞아요",
+    "② come - comming  ✓  소리 나지 않는 e → e만 빼요, coming으로 써야 해요",
+    "③ put - putting  ✗  단모음 + 단자음 → t를 한 번 더, 맞아요",
+    "④ see - seeing  ✗  ee는 소리가 나서 빼지 않고 + ing, 맞아요",
+    "⑤ shop - shopping  ✗  단모음 + 단자음 → p를 한 번 더, 맞아요"
+   ],
+   "narration": "정답은 2번이에요. come은 소리 나지 않는 e로 끝나서 e만 빼고 coming으로 써요. m을 겹쳐 쓰지 않아요. 4번 seeing은 e를 빼야 할 것 같지만, see의 ee는 소리가 나서 그대로 두고 ing을 붙여요. 3번 putting은 t가 두 개라 낯설어도, 끝 자음을 한 번 더 쓴 바른 모양이에요."
+  },
+  "summary": {
+   "card": "소리 나지 않는 e로 끝나는 동사 → e만 빼고 + ing (come → coming)",
+   "narration": "정답은 2번이에요. 기억할 것, come처럼 소리 나지 않는 e로 끝나는 동사는 e만 빼고 ing을 붙여요."
+  },
+  "captions": [
+   "ing형 만드는 철자 규칙",
+   "먼저 풀어 보세요",
+   "ing형을 만드는 규칙",
+   "끝 글자 → e만 빼고 → coming",
+   "정답 ② come - comming",
+   "소리 나지 않는 e → e만 빼고 + ing"
+  ],
+  "sec": [
+   11,
+   15,
+   30,
+   38,
+   28,
+   11
+  ]
+ },
+ "F": {
+  "title": "ing형 철자: 끝 자음 겹쳐 쓰기",
+  "intro": "이 문제는 ing형을 만드는 철자 규칙에 맞지 않게 짝지어진 것을 고르는 문제예요.",
+  "problem_narration": "동사의 원형과 ing형이 잘못 짝지어진 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지금 하고 있는 일(~하고 있다) → be동사(am, is, are) + ing형",
+    "ing형: 대부분 동사원형 + ing (go → going), y로 끝나도 그대로 (study → studying)",
+    "끝이 소리 나지 않는 e → e를 빼고 + ing (make → making) · 끝이 ie → ie를 y로 바꾸고 + ing (lie → lying)",
+    "강세 있는 단모음 + 단자음으로 끝나면 → 끝 자음을 한 번 더(겹쳐) 쓰고 + ing (stop → stopping), w·x·y는 제외",
+    "예) The dog is digging. (개가 땅을 파고 있어요.)"
+   ],
+   "narration": "지금 하는 일은 be동사와 ing형으로 말해요. ing형은 대부분 동사원형에 ing을 붙이고, y로 끝나도 그대로예요. make처럼 소리 나지 않는 e는 빼고, lie처럼 끝의 ie는 y로 바꿔요. stop처럼 세게 읽는 모음 하나와 자음 하나로 끝나면 w, x, y만 빼고 끝 자음을 겹쳐 써요. The dog is digging. 개가 땅을 파고 있어요."
+  },
+  "steps": [
+   {
+    "note": "끝 글자 보기: have, give → 소리 나지 않는 e를 빼고 (having, giving), fly → y는 그대로 (flying) → 맞음",
+    "highlight": [],
+    "strike": [
+     "① have - having",
+     "⑤ give - giving",
+     "③ fly - flying"
+    ],
+    "narration": "첫째, 동사의 끝 글자를 봐요. have와 give는 소리 나지 않는 e를 뺀 having과 giving, fly는 y로 끝나서 그대로 붙인 flying이라 모두 맞아요."
+   },
+   {
+    "note": "drop, swim → 모음 하나 + 자음 하나, 그 모음에 강세 → 끝 자음 한 번 더. dropping 맞음",
+    "highlight": [
+     "④ swim - swiming"
+    ],
+    "strike": [
+     "② drop - dropping"
+    ],
+    "narration": "둘째, drop과 swim은 세게 읽는 모음 하나와 자음 하나로 끝나서, 끝 자음을 한 번 더 쓴 dropping은 맞아요."
+   },
+   {
+    "note": "swim → m을 한 번 더 → swimming이어야 하는데 swiming → 잘못된 짝",
+    "highlight": [
+     "④ swim - swiming"
+    ],
+    "strike": [],
+    "narration": "셋째, swim도 m을 한 번 더 쓴 swimming이 되어야 하는데 swiming으로 썼어요. 그래서 잘못 짝지어진 것은 4번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① have - having  ✗  소리 나지 않는 e → e를 빼고 + ing, 맞아요",
+    "② drop - dropping  ✗  단모음 + 단자음 → p를 한 번 더, 맞아요",
+    "③ fly - flying  ✗  y로 끝나면 y를 바꾸지 않고 + ing, 맞아요",
+    "④ swim - swiming  ✓  단모음 + 단자음 → m을 한 번 더, swimming으로 써야 해요",
+    "⑤ give - giving  ✗  소리 나지 않는 e → e를 빼고 + ing, 맞아요"
+   ],
+   "narration": "정답은 4번이에요. swim은 끝 자음 m을 한 번 더 써서 swimming으로 써야 하는데 m을 하나만 썼어요. 3번 flying은 flies처럼 y를 i로 바꿔야 할 것 같지만, ing을 붙일 때는 y를 그대로 둬요. 1번 having은 have의 e가 소리 나지 않아서 e를 빼고 ing을 붙인 바른 모양이에요."
+  },
+  "summary": {
+   "card": "강세 있는 단모음 + 단자음(w·x·y 제외)으로 끝나면 → 끝 자음을 한 번 더 + ing (swim → swimming)",
+   "narration": "정답은 4번이에요. 기억할 것, 세게 읽는 단모음과 단자음으로 끝나면 w, x, y만 빼고 자음을 겹쳐 ing을 붙여요."
+  },
+  "captions": [
+   "ing형 만드는 철자 규칙",
+   "먼저 풀어 보세요",
+   "ing형을 만드는 규칙",
+   "끝 글자 → 자음 겹쳐 쓰기 → swimming",
+   "정답 ④ swim - swiming",
+   "강세 있는 단모음 + 단자음 → 겹쳐 쓰기"
+  ],
+  "sec": [
+   11,
+   15,
+   30,
+   36,
+   28,
+   12
+  ]
+ }
+}

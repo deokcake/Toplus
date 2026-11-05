@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:41:51.222Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "9:30 a.m., sunset, dawn",
+      "1": "Sunday, New Year's Day, April 1st",
+      "2": "October, 2010, the evening",
+      "3": "the 1990s, March, winter",
+      "4": "lunchtime, 6 p.m., midnight"
+    },
+    "expl": "핵심 규칙: 요일·날짜·특정한 날(생일, 공휴일)에는 on, 월·계절·연도·아침·오후·저녁에는 in, 시각·정오·자정·밤·식사 시간에는 at을 쓴다.\n풀이 순서: ① 묶음마다 낱말이 무엇인지 가른다: 시각·한 시점(at), 요일·날짜·특정한 날(on), 달·계절·연도·하루의 한때(in). → ② 세 낱말이 모두 요일·날짜·특정한 날인 묶음을 찾는다: Sunday(요일), New Year's Day(특정한 날), April 1st(날짜). → ③ 정답은 ②.\n문장별 판정:\n정답 판단: 요일·날짜·특정한 날이라 모두 on과 함께 쓰므로 정답은 ②이다.\n선택지 분석:\n① [오답] 시각·해 질 녘·새벽은 at과 함께 쓰므로 오답이다.\n② [정답] 요일·날짜·특정한 날이라 모두 on과 함께 쓰므로 정답이다.\n③ [오답] 월·연도·저녁은 in과 함께 쓰므로 오답이다.\n④ [오답] 연대·월·계절은 in과 함께 쓰므로 오답이다.\n⑤ [오답] 식사 시간·시각·자정은 at과 함께 쓰므로 오답이다.",
+    "passage": null,
+    "stem": "다음 명사들 중 전치사 ‘on’과 함께 쓰일 수 있는 것으로만 묶인 것은?"
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:41:50.222Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:41:51.222Z",
+      "what": "확인 완료"
+    }
+  }
+}

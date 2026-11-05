@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:00:40.714Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Jane, Ben",
+      "1": "Sora, Tom, Amy",
+      "2": "Jane, Sora, Tom",
+      "3": "Ben, Tom",
+      "4": "Jane, Ben, Amy"
+    },
+    "expl": "핵심 규칙: 명사를 꾸미는 to부정사에서 명사가 전치사의 목적어이면 전치사를 남긴다(a chair to sit on). -thing/-one은 형용사가 뒤에서 꾸민다. 성품 평가 형용사 뒤 의미상 주어는 of, 판단 형용사 뒤는 for + 목적격이다. enough는 형용사 뒤에 오고, too ~ to는 so ~ that … can't로 바꿀 수 있다.\n풀이 순서: ① 학생마다 예문과 설명을 따로 따진다. → ② 기준: 명사가 전치사의 목적어이면 to부정사 뒤에 전치사를 남긴다. -one·-thing은 형용사가 뒤에 온다. 성품 형용사 뒤 의미상 주어는 of다. enough는 형용사 뒤에 온다. → ③ Ben은 talk 뒤에 전치사가 없어도 된다고 했고(talk with), Amy는 for I를 옳다고 했다(for me). 둘 다 틀렸다. 옳게 설명한 학생만 모으면 Jane, Sora, Tom이다.\n문장별 판정:\nJane 옳음: write on paper의 on을 남긴다.\nBen 틀림: talk to(with) a friend의 전치사를 남겨 to talk to(with)로 써야 한다.\nSora 옳음: 사람의 성격을 나타내는 형용사 careless 뒤에는 of + 목적격을 쓴다.\nTom 옳음: for children이 읽는 주체인 의미상 주어이다.\nAmy 틀림: 의미상 주어는 for + 목적격이므로 for me가 맞다.\n정답 판단: 올바르게 설명한 학생은 Jane, Sora, Tom이다.\n선택지 분석:\n① [오답] Ben는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Sora, Tom를 빠뜨렸다. 따라서 오답이다.\n② [오답] Amy는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Jane를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 올바르게 설명한 학생 Jane, Sora, Tom를 빠짐없이 골랐으므로 정답이다.\n④ [오답] Ben는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Jane, Sora를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] Ben, Amy는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Sora, Tom를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "Jane: I need some paper to write on for the letter. 은 종이 위에 쓰는 것이라 on이 필요해요.\nBen: She has no friend to talk at school. 는 전치사 없이도 옳은 문장이에요.\nSora: It was careless of him to forget the key. 는 careless가 사람의 성격을 나타내는 형용사라서 of를 썼어요.\nTom: This book is easy enough for children to read alone. 에서 for children은 to read의 의미상 주어예요.\nAmy: The bag is too heavy for I to carry upstairs. 는 의미상 주어를 주격으로 써서 옳아요.",
+    "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T16:38:53.018Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:40:18.526Z",
+      "text": "Sora의 발언 중 평가 라는 단어가 적절한가? 사람의 성격을 나타내기 때문에 라는 표현이 적절하지 않을까?"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:00:40.714Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:00:25.975Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:00:40.714Z",
+      "what": "확인 완료"
+    }
+  }
+}

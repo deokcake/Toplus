@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T02:43:47.738Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "There are <u>many</u> stars in the sky.",
+      "2": "How <u>much</u> milk do you need?",
+      "3": "I have <u>many</u> friends.",
+      "4": "We don't have <u>much</u> time."
+    },
+    "expl": "핵심 규칙: many는 셀 수 있는 명사의 복수형 앞에, much는 셀 수 없는 명사 앞에 쓴다. much는 주로 부정문과 의문문에 쓴다.\n풀이 순서: ① 밑줄 뒤의 명사가 셀 수 있는 복수 명사인지 셀 수 없는 명사인지 가른다. → ② many + 복수 명사, much + 셀 수 없는 명사인지 맞춰 본다. → ③ 선택지 ①의 water는 셀 수 없는데 many를 썼다. 정답은 ①.\n문장별 판정:\n정답 판단: water는 셀 수 없는 명사라 much를 써야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] water는 셀 수 없는 명사라 much를 써야 하므로 정답이다.\n② [오답] 셀 수 있는 복수 명사 stars 앞에 many를 바르게 썼으므로 오답이다.\n③ [오답] 셀 수 없는 명사 milk 앞에 much를 바르게 썼으므로 오답이다.\n④ [오답] 셀 수 있는 복수 명사 friends 앞에 many를 바르게 썼으므로 오답이다.\n⑤ [오답] 셀 수 없는 명사 time 앞에 much를 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:43:44.926Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-22T02:43:47.738Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:43:47.738Z",
+      "what": "확인 완료"
+    }
+  }
+}

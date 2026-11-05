@@ -1,0 +1,181 @@
+{
+ "key": "6-23",
+ "type": "E",
+ "grade": 6,
+ "chapter": "CH 3 be동사 과거",
+ "title": "주어에 맞는 wasn't와 weren't",
+ "total_sec": 135,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "6급 · CH 3 be동사 과거 · 23번 · E 유형\n\n이 문제는 wasn't와 weren't가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 3 be동사 과거 · 23번 · E 유형",
+     "이 문제는 wasn't와 weren't가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 3, 23번 E 유형. 이 문제는 wasn't와 weren't가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+   "caption": "wasn't와 weren't, 틀린 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① The kids weren't noisy.\n② Jane weren't a student.\n③ My dad wasn't angry.\n④ The stores weren't open.\n⑤ I wasn't hungry.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 틀린 문장을 고르시오.",
+     "① The kids weren't noisy.",
+     "② Jane weren't a student.",
+     "③ My dad wasn't angry.",
+     "④ The stores weren't open.",
+     "⑤ I wasn't hungry."
+    ]
+   },
+   "narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 과거형 was, were = 무엇이었다, 어떠했다, 어디에 있었다\nI · he, she, it(나도 너도 아닌 하나) · 셀 수 없는 것 → was\nyou(한 명이어도) · we, they · 여럿 → were\n부정문: be동사 뒤에 not → wasn't(was not), weren't(were not)\n예) Ben wasn't sad. (벤은 슬프지 않았어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 과거형 was, were = 무엇이었다, 어떠했다, 어디에 있었다",
+     "I · he, she, it(나도 너도 아닌 하나) · 셀 수 없는 것 → was",
+     "you(한 명이어도) · we, they · 여럿 → were",
+     "부정문: be동사 뒤에 not → wasn't(was not), weren't(were not)",
+     "예) Ben wasn't sad. (벤은 슬프지 않았어요.)"
+    ]
+   },
+   "narration": "be동사 과거형 was와 were는 무엇이었다, 어떠했다, 어디에 있었다는 뜻이에요. I와 he, she, it 같은 하나, 셀 수 없는 것에는 was를 써요. you는 한 사람이어도 were를 쓰고, we, they와 여럿에도 were예요. 부정은 was not, were not, 줄이면 wasn't, weren't예요. Ben wasn't sad. 벤은 슬프지 않았어요.",
+   "caption": "I·하나는 was, you·여럿은 were"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 35,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① The kids weren't noisy.\n② Jane weren't a student.\n③ My dad wasn't angry.\n④ The stores weren't open.\n⑤ I wasn't hungry.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "① The kids",
+       "② Jane",
+       "③ My dad",
+       "④ The stores",
+       "⑤ I"
+      ],
+      "strike": [],
+      "note": "주어 찾기: The kids, Jane, My dad, The stores, I"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① The kids weren't noisy.",
+       "③ My dad wasn't angry.",
+       "④ The stores weren't open.",
+       "⑤ I wasn't hungry."
+      ],
+      "note": "The kids, The stores(여럿) → weren't ✓ / My dad(한 사람), I → wasn't ✓"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② Jane weren't a student."
+      ],
+      "strike": [
+       "Jane weren't"
+      ],
+      "note": "Jane(한 사람)인데 weren't ✗ → Jane wasn't → 틀린 문장은 ②"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 맨 앞에 있는 주어를 찾아요. 둘째, 아이들인 The kids와 가게들인 The stores에는 weren't, 아빠 한 사람인 My dad와 주어 I에는 wasn't를 바르게 썼어요. 그래서 1번, 3번, 4번, 5번은 맞는 문장이에요. 셋째, 2번의 주어 Jane은 나도 너도 아닌 한 사람이니 weren't가 아니라 wasn't를 써야 해요. Jane wasn't a student. 제인은 학생이 아니었어요.",
+   "caption": "주어 찾기 → 맞는 문장 지우기 → ②"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① The kids weren't noisy.  ✗  kids는 아이들, 여럿 → weren't가 맞아요\n② Jane weren't a student.  ✓  Jane은 한 사람(나도 너도 아님) → wasn't로 고쳐야 해요 (틀린 문장)\n③ My dad wasn't angry.  ✗  My dad는 아빠 한 사람 → wasn't가 맞아요\n④ The stores weren't open.  ✗  stores는 가게 여러 곳 → weren't가 맞아요\n⑤ I wasn't hungry.  ✗  주어 I에는 was → wasn't가 맞아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① The kids weren't noisy.  ✗  kids는 아이들, 여럿 → weren't가 맞아요",
+     "② Jane weren't a student.  ✓  Jane은 한 사람(나도 너도 아님) → wasn't로 고쳐야 해요 (틀린 문장)",
+     "③ My dad wasn't angry.  ✗  My dad는 아빠 한 사람 → wasn't가 맞아요",
+     "④ The stores weren't open.  ✗  stores는 가게 여러 곳 → weren't가 맞아요",
+     "⑤ I wasn't hungry.  ✗  주어 I에는 was → wasn't가 맞아요"
+    ]
+   },
+   "narration": "정답은 2번이에요. Jane은 나도 너도 아닌 한 사람이니 weren't가 아니라 wasn't를 써야 해요. 4번 The stores는 store에 s가 붙어 가게 여러 곳을 뜻하니 weren't가 맞아요. 3번 My dad는 아빠 한 사람이라 wasn't가 맞아요. 5번 주어 I에는 was를 쓰니 wasn't가 맞아요.",
+   "caption": "정답 ② Jane weren't → Jane wasn't"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ② Jane weren't a student.\n\nI · 나도 너도 아닌 하나 · 셀 수 없는 것 → wasn't  ·  you · we · they · 여럿 → weren't",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② Jane weren't a student.",
+     "I · 나도 너도 아닌 하나 · 셀 수 없는 것 → wasn't  ·  you · we · they · 여럿 → weren't"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, I와 나도 너도 아닌 하나, 셀 수 없는 것에는 wasn't, you와 여럿에는 weren't를 써요.",
+   "caption": "I·하나 wasn't, you·여럿 weren't"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "The kids weren't noisy.",
+   "Jane weren't a student.",
+   "My dad wasn't angry.",
+   "The stores weren't open.",
+   "I wasn't hungry."
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: be동사 과거형은 주어가 I·3인칭 단수면 was, you·we·they·복수 주어(A and B 포함)면 were를 쓴다. 부정은 wasn't/weren't, 의문문은 Was/Were + 주어 ~?로 쓴다.\n풀이 순서: ① 문장마다 주어가 단수(I, he, she, it, 단수 명사)인지 복수(we, you, they, 복수 명사)인지 가른다. → ② 단수면 wasn't, 복수면 weren't인지 본다. → ③ 선택지 ②의 Jane은 단수인데 weren't를 썼다. 정답은 ②.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 Jane에는 wasn't를 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 주어에 맞는 wasn't/weren't를 바르게 썼으므로 오답이다.\n② [정답] 3인칭 단수 주어 Jane에는 wasn't를 써야 하므로 정답이다.\n③ [오답] 주어에 맞는 wasn't/weren't를 바르게 썼으므로 오답이다.\n④ [오답] 주어에 맞는 wasn't/weren't를 바르게 썼으므로 오답이다.\n⑤ [오답] 주어에 맞는 wasn't/weren't를 바르게 썼으므로 오답이다."
+ }
+}

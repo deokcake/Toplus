@@ -1,0 +1,174 @@
+{
+ "key": "7-4",
+ "type": "E",
+ "grade": 7,
+ "chapter": "CH 1 명사",
+ "title": "끝 글자에 따른 명사의 복수형",
+ "total_sec": 136,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "7급 · CH 1 명사 · 4번 · E 유형\n\n이 문제는 명사의 끝 글자를 보고 복수형이 잘못 만들어진 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 1 명사 · 4번 · E 유형",
+     "이 문제는 명사의 끝 글자를 보고 복수형이 잘못 만들어진 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 1, 4번 E 유형. 이 문제는 명사의 끝 글자를 보고 복수형이 잘못 만들어진 것을 고르는 문제예요.",
+   "caption": "명사의 복수형 만들기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 명사의 복수형이 잘못된 것을 고르시오.\n\n① city - citys\n② toy - toys\n③ baby - babies\n④ knife - knives\n⑤ bus - buses",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 명사의 복수형이 잘못된 것을 고르시오.",
+     "① city - citys",
+     "② toy - toys",
+     "③ baby - babies",
+     "④ knife - knives",
+     "⑤ bus - buses"
+    ]
+   },
+   "narration": "다음 중 명사의 복수형이 잘못된 것을 고르세요. 보기마다 명사와 그 복수형이 짝지어 있어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n복수형: 사람, 동물, 물건이 둘 이상일 때 쓰는 명사의 모양, 대부분 + s (cat → cats)\ns, sh, ch, x로 끝나면 보통 + es (lunch → lunches, wish → wishes)\ny로 끝나면: 자음 + y → y를 i로 바꾸고 + es (story → stories), 모음 + y → + s (key → keys)\nf, fe로 끝나는 몇몇 명사 → f, fe를 v로 바꾸고 + es (wolf → wolves)\n예) The tree has many leaves. (그 나무에는 잎이 많아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "복수형: 사람, 동물, 물건이 둘 이상일 때 쓰는 명사의 모양, 대부분 + s (cat → cats)",
+     "s, sh, ch, x로 끝나면 보통 + es (lunch → lunches, wish → wishes)",
+     "y로 끝나면: 자음 + y → y를 i로 바꾸고 + es (story → stories), 모음 + y → + s (key → keys)",
+     "f, fe로 끝나는 몇몇 명사 → f, fe를 v로 바꾸고 + es (wolf → wolves)",
+     "예) The tree has many leaves. (그 나무에는 잎이 많아요.)"
+    ]
+   },
+   "narration": "복수형은 사람이나 동물, 물건이 둘 이상일 때 쓰는 명사의 모양이고, 대부분은 끝에 s를 붙여요. s, sh, ch, x로 끝나는 명사는 보통 es를 붙여서 lunch는 lunches가 돼요. y로 끝나면 y 바로 앞 글자를 보는데, 자음이면 y를 i로 바꾸고 es를 붙여 story는 stories가 되고, a, e, i, o, u 중 하나인 모음이면 s만 붙여 key는 keys가 돼요. 그리고 leaf나 wolf처럼 f나 fe로 끝나는 몇몇 명사는 f나 fe를 v로 바꾸고 es를 붙여요. The tree has many leaves. 그 나무에는 잎이 많아요.",
+   "caption": "s, es, ies, ves 복수형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 40,
+   "screen": {
+    "text": "다음 중 명사의 복수형이 잘못된 것을 고르시오.\n\n① city - citys\n② toy - toys\n③ baby - babies\n④ knife - knives\n⑤ bus - buses",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [],
+      "strike": [
+       "③ baby - babies",
+       "⑤ bus - buses"
+      ],
+      "note": "bus는 s로 끝남 → buses, baby는 자음 b + y → babies: 둘 다 바르다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "② toy - toys",
+       "④ knife - knives"
+      ],
+      "note": "toy는 모음 o + y → + s만: toys. knife는 fe → v + es: knives. 둘 다 바르다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "① city - citys"
+      ],
+      "strike": [],
+      "note": "city는 자음 t + y → cities가 맞는데 citys로 썼다 → 잘못된 것."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, bus는 s로 끝나서 es를 붙인 buses가 맞고, baby는 y 앞이 자음 b라서 y를 i로 바꾸고 es를 붙인 babies가 맞아요. 둘째, toy는 y 앞이 모음 o라서 s만 붙인 toys가 맞아요. knife는 fe를 v로 바꾸고 es를 붙이는 명사라서 knives가 맞아요. 셋째, city는 y 앞이 자음 t라서 cities라고 써야 하는데, 1번은 s만 붙인 citys라서 잘못됐어요.",
+   "caption": "city는 자음 + y → cities"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 32,
+   "screen": {
+    "text": "① city - citys  ✓  자음 t + y이므로 cities로 써야 해요\n② toy - toys  ✗  모음 o + y는 + s만, 바른 복수형\n③ baby - babies  ✗  자음 b + y → y를 i로 바꾸고 + es, 바른 복수형\n④ knife - knives  ✗  fe를 v로 바꾸고 + es, 바른 복수형\n⑤ bus - buses  ✗  s로 끝나 + es를 붙인 바른 복수형",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✓",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① city - citys  ✓  자음 t + y이므로 cities로 써야 해요",
+     "② toy - toys  ✗  모음 o + y는 + s만, 바른 복수형",
+     "③ baby - babies  ✗  자음 b + y → y를 i로 바꾸고 + es, 바른 복수형",
+     "④ knife - knives  ✗  fe를 v로 바꾸고 + es, 바른 복수형",
+     "⑤ bus - buses  ✗  s로 끝나 + es를 붙인 바른 복수형"
+    ]
+   },
+   "narration": "정답은 1번이에요. city는 y 앞이 자음 t라서 cities가 맞는데, s만 붙인 citys로 잘못 썼어요. 4번 knives는 모양이 많이 바뀌어 틀려 보이지만, knife는 fe를 v로 바꾸고 es를 붙이는 명사라 맞아요. 2번 toys는 y 앞이 모음 o라서 y를 바꾸지 않고 s만 붙이니 맞아요. 3번 babies는 자음 다음의 y를 i로 바꾸고 es를 붙인 바른 복수형이에요.",
+   "caption": "정답 ① city - citys"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ① city - citys\n\n자음 + y → y를 i로 바꾸고 + es (city → cities), 모음 + y → + s",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ① city - citys",
+     "자음 + y → y를 i로 바꾸고 + es (city → cities), 모음 + y → + s"
+    ]
+   },
+   "narration": "정답은 1번이에요. 기억할 것, y 바로 앞이 자음이면 y를 i로 바꾸고 es를 붙이고, 모음이면 s만 붙여요.",
+   "caption": "자음 + y → ies, 모음 + y → s"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 명사의 복수형이 잘못된 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "city - citys",
+   "toy - toys",
+   "baby - babies",
+   "knife - knives",
+   "bus - buses"
+  ],
+  "ans": 1,
+  "expl": "핵심 규칙: 명사의 단수형과 복수형이 정확히 대응한다.\n풀이 순서: ① 명사의 끝 글자를 본다: s, sh, ch, x인지, 자음 + y인지. → ② 그 끝에 맞게 -es나 -ies가 붙었는지 본다. → ③ city는 자음 + y이므로 cities다. 정답은 city - citys.\n문장별 판정:\n정답 판단: 정답은 ①입니다. city는 자음+y로 끝나므로 y를 i로 바꾸고 es를 붙여 cities로 씁니다. ‘citys’는 이 명사의 올바른 복수형이 아닙니다. 바르게 고치면: city - cities\n선택지 분석:\n① [정답] city는 자음+y로 끝나므로 y를 i로 바꾸고 es를 붙여 cities로 씁니다. ‘citys’는 이 명사의 올바른 복수형이 아닙니다. 바르게 고치면: city - cities\n② [오답] toy의 복수형은 s를 붙인 toys입니다. 제시된 ‘toys’가 맞습니다.\n③ [오답] baby는 자음+y로 끝나므로 y를 i로 바꾸고 es를 붙여 babies로 씁니다. 제시된 ‘babies’가 맞습니다.\n④ [오답] knife는 끝의 fe를 ves로 바꾸어 knives로 씁니다. 제시된 ‘knives’가 맞습니다.\n⑤ [오답] bus의 복수형은 es를 붙인 buses입니다. 제시된 ‘buses’가 맞습니다."
+ }
+}

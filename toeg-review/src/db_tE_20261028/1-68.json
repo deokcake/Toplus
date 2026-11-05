@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T19:36:35.641Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "(A) checked - (B) inspect",
+      "1": "(A) check - (B) inspected",
+      "2": "(A) checking - (B) to inspect",
+      "3": "(A) to check - (B) inspecting",
+      "4": "(A) checked - (B) inspected"
+    },
+    "expl": "핵심 규칙: get + 사물 목적어 + 과거분사는 그 사물이 어떤 처리를 받게 한다는 뜻이고, have + 사람 목적어 + 동사원형은 그 사람에게 어떤 일을 하게 한다는 뜻이다.\n풀이 순서: ① (A) 앞의 목적어(the brakes)는 동작을 당하는 사물이므로 get + 목적어 뒤에 과거분사를 쓴다. → ② (B) 앞의 목적어(the mechanic)는 동작을 직접 하는 사람이고 앞의 동사가 사역동사 have이므로 동사원형을 쓴다. → ③ ‘과거분사 - 동사원형’ 순서인 (A) checked - (B) inspect를 고른다.\n문장별 판정:\n정답 판단: 모든 자리가 알맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 모든 자리가 알맞으므로 정답이다.\n② [오답] (A) check: 동사원형이어서 맞지 않는다. (A)는 사물이 처리를 받는 것이므로 get + 목적어 + 과거분사를 쓴다. (B) inspected: 단순과거이어서 맞지 않는다. (B)는 사람에게 일을 시키는 것이므로 have + 사람 + 동사원형을 쓴다. 따라서 오답이다.\n③ [오답] (A) checking: -ing형이어서 맞지 않는다. (A)는 사물이 처리를 받는 것이므로 get + 목적어 + 과거분사를 쓴다. (B) to inspect: to부정사이어서 맞지 않는다. (B)는 사람에게 일을 시키는 것이므로 have + 사람 + 동사원형을 쓴다. 따라서 오답이다.\n④ [오답] (A) to check: to부정사이어서 맞지 않는다. (A)는 사물이 처리를 받는 것이므로 get + 목적어 + 과거분사를 쓴다. (B) inspecting: -ing형이어서 맞지 않는다. (B)는 사람에게 일을 시키는 것이므로 have + 사람 + 동사원형을 쓴다. 따라서 오답이다.\n⑤ [오답] (B) inspected: 단순과거이어서 맞지 않는다. (B)는 사람에게 일을 시키는 것이므로 have + 사람 + 동사원형을 쓴다. 따라서 오답이다.",
+    "passage": "A: Why are you at the garage?\nB: I need to get the brakes (<u>      A      </u>). I will have the mechanic (<u>      B      </u>) the tires too.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:36:01.761Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:36:35.641Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:36:35.641Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-07T02:48:49.130Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "The mask prevents dust enters from the nose.",
+      "1": "The mask prevents from entering dust the nose.",
+      "2": "The mask prevents dust from enters the nose.",
+      "3": "The mask prevents dust from entering the nose.",
+      "4": "The mask prevents the nose from entering dust."
+    },
+    "expl": "핵심 규칙: prevent + 목적어 + from + 동명사는 ‘(목적어)가 ~하지 못하게 하다’라는 뜻이다. from 바로 뒤에 동명사를 둔다.\n풀이 순서: ① 낱말에 prevent와 from이 있으므로 ‘prevent + 목적어 + from + -ing’ 틀을 떠올린다. → ② 우리말에서 하지 못하게 되는 대상(dust)을 목적어로, 하지 못하게 되는 행동(enter the nose)을 from 뒤에 둔다. from 뒤이므로 동사를 -ing형(entering)으로 바꾼다. → ③ 완성하면 The mask prevents dust from entering the nose.\n문장별 판정:\n정답 판단: prevent + dust + from + entering의 어순과 형태가 바르므로 정답은 ④이다.\n선택지 분석:\n① [오답] from이 동사 뒤에 왔고 enter를 enters로 바꿔 동명사도 아니므로 오답이다.\n② [오답] 목적어 dust가 from entering 뒤로 가서 어순이 틀렸으므로 오답이다.\n③ [오답] from 뒤에는 동명사 entering을 써야 하는데 3인칭 단수형 enters를 썼으므로 오답이다.\n④ [정답] prevent + dust + from + entering의 어순과 형태가 바르므로 정답이다.\n⑤ [오답] the nose와 dust의 자리가 바뀌어 ‘코가 먼지에 들어간다’는 뜻이 되므로 오답이다.",
+    "passage": "마스크는 먼지가 코로 들어오는 것을 막는다.\n(prevents / from / dust / enter / the nose / the mask)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성할 때, 가장 알맞은 것을 고르시오. (단, 주어진 단어 중 한 단어의 형태를 알맞게 바꾸어 사용할 것.)"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-07T02:48:10.830Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-04T11:32:44.846Z",
+      "text": "1, 3번 선택지는 주어진 단어에서 변형된 단어가 없음."
+    }
+  },
+  "tab": "a0bclcbk",
+  "updatedAt": "2026-10-07T02:48:49.130Z",
+  "verdict": null,
+  "verdictAt": "2026-10-07T02:48:46.592Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-07T02:48:49.130Z",
+      "what": "확인 완료"
+    }
+  }
+}

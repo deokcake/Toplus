@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-20T11:58:15.044Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(B), (C), (D)",
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": "(A), (C), (E)"
+    },
+    "expl": "핵심 규칙: Can + 주어 + 동사원형 ~? 형태인지 본다. can에는 -s를 붙이지 않고(Cans ×), can 뒤의 동사는 -s나 to 없이 원형으로 쓴다.\n풀이 순서: ① 문장마다 밑줄 친 말이 Can인지, can 뒤의 동사인지 본다. → ② Can에는 -s를 붙이지 않고, can 뒤의 동사는 원형이어야 한다. (A) O, (B) O, (C) runs(X), (D) Cans(X), (E) O. → ③ 옳은 것만 모으면 (A), (B), (E)\n문장별 판정:\n(A) O. can 뒤에 동사원형 dance를 썼다.\n(B) O. can 뒤에 be동사의 원형 be를 썼다.\n(C) X. can 뒤에는 동사원형 run을 써야 한다.\n(D) X. can에는 -s를 붙이지 않는다.\n(E) O. can 뒤에 동사원형 study를 썼다.\n정답 판단: 밑줄 친 부분이 옳은 문장은 (A), (B), (E)이다.\n선택지 분석:\n① [오답] (C), (D)는 옳은 문장이 아니고, 옳은 문장 (A), (E)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (B)를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 옳은 문장 (A), (B), (E)를 빠짐없이 골랐으므로 정답이다.\n④ [오답] (C), (D)는 옳은 문장이 아니고, 옳은 문장 (B), (E)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (C)는 옳은 문장이 아니고, 옳은 문장 (B)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(A) Can she <u>dance</u> on the stage?\n(B) Can he <u>be</u> a good singer?\n(C) Can they <u>runs</u> to the park?\n(D) <u>Cans</u> I help you?\n(E) Can we <u>study</u> in the library?",
+    "stem": "다음 중 밑줄 친 부분이 문법적으로 옳은 문장으로 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-20T11:58:19.196Z"
+  },
+  "tab": "n2uhrol0",
+  "updatedAt": "2026-10-20T11:58:19.196Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-20T11:58:19.196Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

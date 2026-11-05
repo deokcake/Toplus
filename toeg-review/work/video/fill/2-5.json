@@ -1,0 +1,476 @@
+{
+ "A": {
+  "title": "문장의 형식, 바르게 설명한 학생 고르기",
+  "intro": "이 문제는 문장의 형식을 올바르게 설명한 학생을 모두 고르는 문제예요.",
+  "problem_narration": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "4형식(동사 + ~에게 + ~을) → 3형식: give, send, tell, show, teach는 to, buy, make는 for",
+    "사역동사 make, have + 목적어 + 동사원형 (목적어가 하는 일)",
+    "목적어와 목적격 보어가 수동 관계 → 과거분사 (목적어가 당하는 일)",
+    "감각동사(look, smell, taste) 뒤 보어 → 형용사 (부사 ✗)",
+    "예) This cake tastes sweet. (이 케이크는 맛이 달아요.)"
+   ],
+   "narration": "4형식을 3형식으로 바꾸면 받는 사람 앞에 give와 send는 to를, buy와 make는 for를 써요. 사역동사 make와 have 뒤에는 목적어가 하는 일을 동사원형으로 쓰고, 목적어가 당하는 수동 관계면 과거분사로 써요. 감각동사 뒤 보어로는 부사가 아닌 형용사를 써요. 예를 들어 This cake tastes sweet. 이 케이크는 맛이 달아요."
+  },
+  "steps": [
+   {
+    "note": "학생마다 예문 O·X와 설명 O·X를 따로 본다. Tom: 원형부정사라면서 studying으로 고침 → 설명 X (원형부정사는 study)",
+    "highlight": [
+     "올바르게 설명한 학생들",
+     "원형부정사를 써야 하므로"
+    ],
+    "strike": [
+     "'to study'가 아니라 'studying'를 써야 해요."
+    ],
+    "narration": "첫째, 학생마다 예문과 설명이 둘 다 맞는지 따져요. Tom은 원형부정사를 써야 한다면서 studying으로 고쳤는데, 원형부정사는 study라서 Tom의 설명은 틀렸어요."
+   },
+   {
+    "note": "Bruce: send는 받는 사람 앞에 to → 예문 O, 설명 X",
+    "highlight": [
+     "They sent a letter to their parents."
+    ],
+    "strike": [
+     "전치사 'for'를 사용해야 하기 때문에 틀린 문장이에요."
+    ],
+    "narration": "둘째, Bruce는 send에 for를 써야 한다고 했지만, send는 받는 사람 앞에 to를 쓰므로 예문이 맞고 설명이 틀렸어요."
+   },
+   {
+    "note": "Mary(4형식) O, Cathy(컴퓨터가 고쳐짐 → fixed) O, Dave(tastes + 형용사 delicious) O → Mary, Cathy, Dave",
+    "highlight": [
+     "She gave him a book.",
+     "'fixing'을 'fixed'로 고쳐야 해요.",
+     "'delicious'로 고쳐야 해요.",
+     "⑤ Mary, Cathy, Dave"
+    ],
+    "strike": [],
+    "narration": "셋째, 4형식을 바르게 설명한 Mary, 컴퓨터가 고쳐지는 수동 관계라 fixed로 고친 Cathy, tastes 뒤 보어를 형용사 delicious로 고친 Dave는 모두 맞아요. 그래서 올바르게 설명한 학생은 Mary, Cathy, Dave예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Mary, Tom  ✗  Tom의 설명이 틀림(studying은 원형부정사가 아님), Cathy와 Dave가 빠짐",
+    "② Mary, Cathy  ✗  바르게 설명한 Dave가 빠짐",
+    "③ Bruce, Cathy  ✗  Bruce의 설명이 틀림(send는 to), Mary와 Dave가 빠짐",
+    "④ Mary, Tom, Dave  ✗  Tom의 설명이 틀림, Cathy가 빠짐",
+    "⑤ Mary, Cathy, Dave  ✓  바르게 설명한 세 학생을 모두 고름"
+   ],
+   "narration": "정답은 5번 Mary, Cathy, Dave예요. 원형부정사라고 하면서 studying을 쓴 Tom의 말을 믿으면 1번이나 4번을 고르게 돼요. send에 for를 쓴다는 Bruce의 말을 믿으면 3번을 고르게 돼요. 2번은 바르게 설명한 Dave를 빠뜨렸어요."
+  },
+  "summary": {
+   "card": "send·give는 to, buy·make는 for / 사역동사 + 목적어 + 동사원형(목적어가 하는 일) / 감각동사 + 형용사",
+   "narration": "정답은 5번이에요. 기억할 것, send는 3형식에서 to를 쓰고, 사역동사 have 뒤 목적어가 하는 일은 동사원형으로 써요."
+  },
+  "captions": [
+   "문장의 형식 설명 판단",
+   "먼저 풀어 보세요",
+   "to·for, 목적격 보어, 감각동사",
+   "Tom·Bruce 설명 틀림 → ⑤",
+   "정답 ⑤ Mary, Cathy, Dave",
+   "예문과 설명을 따로 확인"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   43,
+   22,
+   12
+  ]
+ },
+ "B": {
+  "title": "문장의 형식, 바르게 설명한 학생 고르기",
+  "intro": "이 문제는 문장의 형식을 올바르게 설명한 학생을 모두 고르는 문제예요.",
+  "problem_narration": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "4형식(동사 + ~에게 + ~을) → 3형식: give, send, tell, show, teach는 to, buy, make는 for",
+    "사역동사 make, have + 목적어 + 동사원형 (to부정사 ✗)",
+    "목적어와 목적격 보어가 수동 관계 → 과거분사 (목적어가 당하는 일)",
+    "감각동사(look, smell, taste) 뒤 보어 → 형용사 (부사 ✗)",
+    "예) The news made her cry. (그 소식은 그녀를 울게 했어요.)"
+   ],
+   "narration": "4형식을 3형식으로 바꾸면 받는 사람 앞에 give와 send는 to를, buy와 make는 for를 써요. 사역동사 make와 have 뒤에는 목적어가 하는 일을 to부정사가 아닌 동사원형으로 쓰고, 목적어가 당하는 수동 관계면 과거분사로 써요. 감각동사 뒤 보어로는 부사가 아닌 형용사를 써요. 예를 들어 The news made her cry. 그 소식은 그녀를 울게 했어요."
+  },
+  "steps": [
+   {
+    "note": "학생마다 예문 O·X와 설명 O·X를 따로 본다. Minho: 사역동사 made 뒤에는 동사원형 wash → to wash가 맞다는 설명 X",
+    "highlight": [
+     "올바르게 설명한 학생들",
+     "Dad made me to wash the car."
+    ],
+    "strike": [
+     "사역동사 'make' 뒤 목적격 보어 자리에는 to부정사를 쓰므로 'to wash'가 맞아요."
+    ],
+    "narration": "첫째, 학생마다 예문과 설명이 둘 다 맞는지 따져요. Minho는 made 뒤에 to wash가 맞다고 했지만, 사역동사 made me 뒤에는 동사원형 wash를 써야 하니 틀렸어요."
+   },
+   {
+    "note": "Hana: 감각동사 tastes 뒤 보어는 형용사 delicious → 부사가 맞다는 설명 X",
+    "highlight": [
+     "The soup tastes deliciously."
+    ],
+    "strike": [
+     "감각동사 'taste' 뒤에는 부사가 와야 하므로 'deliciously'가 맞아요."
+    ],
+    "narration": "둘째, Hana는 tastes 뒤에 부사 deliciously가 맞다고 했지만, 감각동사 뒤 보어 자리에는 형용사를 써야 하니 틀렸어요."
+   },
+   {
+    "note": "Yuna(4형식) O, Sora(buy는 for) O, Jin(문이 잠김 → locked) O → Yuna, Sora, Jin",
+    "highlight": [
+     "I sent my cousin a postcard.",
+     "I bought a scarf for Mom.",
+     "We found the door locked.",
+     "① Yuna, Sora, Jin"
+    ],
+    "strike": [],
+    "narration": "셋째, 4형식을 바르게 설명한 Yuna, buy에 for를 쓴다고 한 Sora, 문이 잠긴 수동 관계를 locked로 나타낸 Jin은 모두 맞아요. 그래서 올바르게 설명한 학생은 Yuna, Sora, Jin이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Yuna, Sora, Jin  ✓  바르게 설명한 세 학생을 모두 고름",
+    "② Sora, Jin, Hana  ✗  Hana의 설명이 틀림(tastes 뒤 보어는 형용사), Yuna가 빠짐",
+    "③ Yuna, Minho, Hana  ✗  Minho와 Hana의 설명이 틀림, Sora와 Jin이 빠짐",
+    "④ Minho, Jin  ✗  Minho의 설명이 틀림(made 뒤에는 동사원형), Yuna와 Sora가 빠짐",
+    "⑤ Yuna, Sora  ✗  바르게 설명한 Jin이 빠짐"
+   ],
+   "narration": "정답은 1번 Yuna, Sora, Jin이에요. 감각동사 뒤에 부사가 온다는 Hana의 말을 믿으면 2번이나 3번을 고르게 돼요. made 뒤에 to wash를 쓴다는 Minho의 말을 믿으면 4번이나 3번을 고르게 돼요. 5번은 바르게 설명한 Jin을 빠뜨렸어요."
+  },
+  "summary": {
+   "card": "사역동사 + 목적어 + 동사원형(목적어가 하는 일) / 감각동사 + 형용사 / buy·make는 for",
+   "narration": "정답은 1번이에요. 기억할 것, 사역동사 make 뒤 목적어가 하는 일은 동사원형으로, 감각동사 뒤 보어는 형용사로 써요."
+  },
+  "captions": [
+   "문장의 형식 설명 판단",
+   "먼저 풀어 보세요",
+   "to·for, 목적격 보어, 감각동사",
+   "Minho·Hana 설명 틀림 → ①",
+   "정답 ① Yuna, Sora, Jin",
+   "예문과 설명을 따로 확인"
+  ],
+  "sec": [
+   10,
+   18,
+   30,
+   41,
+   22,
+   12
+  ]
+ },
+ "C": {
+  "title": "문장의 형식, 바르게 설명한 학생 고르기",
+  "intro": "이 문제는 문장의 형식을 올바르게 설명한 학생을 모두 고르는 문제예요.",
+  "problem_narration": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "4형식(동사 + ~에게 + ~을) → 3형식: give, send, tell, show, teach는 to, buy, make는 for",
+    "사역동사 make, have + 목적어 + 동사원형 (목적어가 하는 일)",
+    "목적어와 목적격 보어가 수동 관계 → 과거분사 (목적어가 당하는 일)",
+    "감각동사(look, smell, taste) 뒤 보어 → 형용사 (부사 ✗)",
+    "예) He showed a map to us. (그는 우리에게 지도를 보여 주었어요.)"
+   ],
+   "narration": "4형식을 3형식으로 바꾸면 받는 사람 앞에 give와 send는 to를, buy와 make는 for를 써요. 사역동사 make와 have 뒤에는 목적어가 하는 일을 동사원형으로 쓰고, 목적어가 당하는 수동 관계면 과거분사로 써요. 감각동사 뒤 보어로는 부사가 아닌 형용사를 써요. 예를 들어 He showed a map to us. 그는 우리에게 지도를 보여 주었어요."
+  },
+  "steps": [
+   {
+    "note": "학생마다 예문 O·X와 설명 O·X를 따로 본다. Jane: send는 받는 사람 앞에 to → sent a gift to Amy, for가 맞다는 설명 X",
+    "highlight": [
+     "올바르게 설명한 학생들",
+     "Tom sent a gift for Amy."
+    ],
+    "strike": [
+     "받는 사람 앞에 'for'를 쓰므로 옳은 문장이에요."
+    ],
+    "narration": "첫째, 학생마다 예문과 설명이 둘 다 맞는지 따져요. Jane은 send에 for를 쓴다고 했지만, send는 받는 사람 앞에 to를 써서 sent a gift to Amy가 맞으니 틀렸어요."
+   },
+   {
+    "note": "Sally: 감각동사 smell 뒤 보어는 형용사 sweet → 부사 sweetly라는 설명 X",
+    "highlight": [
+     "The flowers smell sweetly."
+    ],
+    "strike": [
+     "감각동사 'smell' 뒤 보어 자리에는 부사 'sweetly'를 써야 해요."
+    ],
+    "narration": "둘째, Sally는 smell 뒤에 부사 sweetly를 써야 한다고 했지만, 감각동사 뒤 보어 자리에는 형용사를 써야 하니 틀렸어요."
+   },
+   {
+    "note": "Mina(4형식) O, Leo(had + us + run) O, Ben(휴대폰이 수리됨 → repaired) O → Mina, Leo, Ben",
+    "highlight": [
+     "She gave me advice.",
+     "The coach had us run.",
+     "I got my phone repaired.",
+     "④ Mina, Leo, Ben"
+    ],
+    "strike": [],
+    "narration": "셋째, 4형식을 바르게 설명한 Mina, had 뒤에 동사원형 run을 쓴 Leo, 휴대폰이 수리되는 수동 관계를 repaired로 나타낸 Ben은 모두 맞아요. 그래서 올바르게 설명한 학생은 Mina, Leo, Ben이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Mina, Jane  ✗  Jane의 설명이 틀림(send는 to), Leo와 Ben이 빠짐",
+    "② Jane, Ben, Sally  ✗  Jane과 Sally의 설명이 틀림, Mina와 Leo가 빠짐",
+    "③ Leo, Ben  ✗  바르게 설명한 Mina가 빠짐",
+    "④ Mina, Leo, Ben  ✓  바르게 설명한 세 학생을 모두 고름",
+    "⑤ Mina, Leo, Sally  ✗  Sally의 설명이 틀림(smell 뒤 보어는 형용사 sweet), Ben이 빠짐"
+   ],
+   "narration": "정답은 4번 Mina, Leo, Ben이에요. send에 for를 쓴다는 Jane의 말을 믿으면 1번이나 2번을 고르게 돼요. smell 뒤에 부사를 쓴다는 Sally의 말을 믿으면 5번이나 2번을 고르게 돼요. 3번은 바르게 설명한 Mina를 빠뜨렸어요."
+  },
+  "summary": {
+   "card": "send·give는 to, buy·make는 for / 감각동사 + 형용사 보어",
+   "narration": "정답은 4번이에요. 기억할 것, send는 3형식에서 to를 쓰고, 감각동사 뒤 보어에는 형용사를 써요."
+  },
+  "captions": [
+   "문장의 형식 설명 판단",
+   "먼저 풀어 보세요",
+   "to·for, 목적격 보어, 감각동사",
+   "Jane·Sally 설명 틀림 → ④",
+   "정답 ④ Mina, Leo, Ben",
+   "예문과 설명을 따로 확인"
+  ],
+  "sec": [
+   10,
+   18,
+   30,
+   44,
+   22,
+   11
+  ]
+ },
+ "D": {
+  "title": "문장의 형식, 바르게 설명한 학생 고르기",
+  "intro": "이 문제는 문장의 형식을 올바르게 설명한 학생을 모두 고르는 문제예요.",
+  "problem_narration": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "4형식(동사 + ~에게 + ~을) → 3형식: give, send, tell, show, teach는 to, buy, make는 for",
+    "사역동사 make, have + 목적어 + 동사원형 (목적어가 하는 일)",
+    "목적격 보어 자리에 형용사도 와요 (목적어의 상태)",
+    "감각동사(look, smell, taste) 뒤 보어 → 형용사 (부사 ✗)",
+    "예) She made a cake for me. (그녀가 내게 케이크를 만들어 줬어요.)"
+   ],
+   "narration": "4형식을 3형식으로 바꾸면 받는 사람 앞에 give와 send는 to를, buy와 make는 for를 써요. 사역동사 make와 have 뒤에는 목적어가 하는 일을 동사원형으로 쓰고, 목적어의 상태를 말하면 목적격 보어로 형용사도 써요. 감각동사 뒤 보어로는 부사가 아닌 형용사를 써요. 예를 들어 She made a cake for me. 그녀가 내게 케이크를 만들어 줬어요."
+  },
+  "steps": [
+   {
+    "note": "학생마다 예문 O·X와 설명 O·X를 따로 본다. Joon: buy는 받는 사람 앞에 for → bought a ticket for me, to가 맞다는 설명 X",
+    "highlight": [
+     "올바르게 설명한 학생들",
+     "Dad bought a ticket to me."
+    ],
+    "strike": [
+     "'buy'를 3형식으로 바꿀 때는 'to'를 쓰므로 옳은 문장이에요."
+    ],
+    "narration": "첫째, 학생마다 예문과 설명이 둘 다 맞는지 따져요. Joon은 buy에 to를 쓴다고 했지만, buy는 받는 사람 앞에 for를 써서 bought a ticket for me가 맞으니 틀렸어요."
+   },
+   {
+    "note": "Leo: 감각동사 tastes 뒤 보어는 형용사 → 맛이 좋다 = tastes good, 부사 well이라는 설명 X",
+    "highlight": [
+     "The soup tastes well."
+    ],
+    "strike": [
+     "감각동사 'taste' 뒤에는 부사 'well'을 써야 하므로 옳은 문장이에요."
+    ],
+    "narration": "둘째, Leo는 tastes 뒤에 부사 well을 써야 한다고 했지만, 감각동사 뒤 보어는 형용사라서 맛이 좋다는 tastes good이 맞으니 틀렸어요."
+   },
+   {
+    "note": "Tom(4형식) O, Amy(made + me + clean) O, Mina(open = 형용사 목적격 보어) O → Tom, Amy, Mina",
+    "highlight": [
+     "We told him the truth.",
+     "Mom made me clean my room.",
+     "She kept the door open.",
+     "④ Tom, Amy, Mina"
+    ],
+    "strike": [],
+    "narration": "셋째, 4형식을 바르게 설명한 Tom, made 뒤에 동사원형 clean을 쓴 Amy, open을 형용사 목적격 보어라고 한 Mina는 모두 맞아요. 그래서 올바르게 설명한 학생은 Tom, Amy, Mina예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Tom, Joon  ✗  Joon의 설명이 틀림(buy는 for), Amy와 Mina가 빠짐",
+    "② Amy, Mina  ✗  바르게 설명한 Tom이 빠짐",
+    "③ Joon, Mina, Leo  ✗  Joon과 Leo의 설명이 틀림, Tom과 Amy가 빠짐",
+    "④ Tom, Amy, Mina  ✓  바르게 설명한 세 학생을 모두 고름",
+    "⑤ Tom, Amy, Leo  ✗  Leo의 설명이 틀림(맛이 좋다는 tastes good), Mina가 빠짐"
+   ],
+   "narration": "정답은 4번 Tom, Amy, Mina예요. tastes 뒤에 부사 well을 쓴다는 Leo의 말을 믿으면 5번이나 3번을 고르게 돼요. buy에 to를 쓴다는 Joon의 말을 믿으면 1번이나 3번을 고르게 돼요. 2번은 바르게 설명한 Tom을 빠뜨렸어요."
+  },
+  "summary": {
+   "card": "buy·make는 for, give·send·tell은 to / 감각동사 + 형용사 보어 (tastes good)",
+   "narration": "정답은 4번이에요. 기억할 것, buy는 3형식에서 for를 쓰고, 감각동사 뒤 보어에는 형용사를 써요."
+  },
+  "captions": [
+   "문장의 형식 설명 판단",
+   "먼저 풀어 보세요",
+   "to·for, 목적격 보어, 감각동사",
+   "Joon·Leo 설명 틀림 → ④",
+   "정답 ④ Tom, Amy, Mina",
+   "예문과 설명을 따로 확인"
+  ],
+  "sec": [
+   10,
+   18,
+   30,
+   44,
+   22,
+   11
+  ]
+ },
+ "E": {
+  "title": "문장의 형식, 바르게 설명한 학생 고르기",
+  "intro": "이 문제는 문장의 형식을 올바르게 설명한 학생을 모두 고르는 문제예요.",
+  "problem_narration": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "4형식(동사 + ~에게 + ~을) → 3형식: give, send, tell, show, teach는 to, buy, make는 for",
+    "사역동사 make, have, 지각동사 hear, see + 목적어 + 동사원형",
+    "목적격 보어 자리에 명사도 와요 (목적어 = 보어)",
+    "감각동사(look, smell, taste) 뒤 보어 → 형용사 (부사 ✗)",
+    "예) I saw him cross the street. (나는 그가 길을 건너는 것을 보았어요.)"
+   ],
+   "narration": "4형식을 3형식으로 바꾸면 받는 사람 앞에 give와 send는 to를, buy와 make는 for를 써요. 사역동사 make와 have, 지각동사 hear와 see는 목적어 뒤에 동사원형을 쓸 수 있고, 목적격 보어 자리에는 명사도 와요. 감각동사 뒤 보어로는 부사가 아닌 형용사를 써요. 예를 들어 I saw him cross the street. 나는 그가 길을 건너는 것을 보았어요."
+  },
+  "steps": [
+   {
+    "note": "학생마다 예문 O·X와 설명 O·X를 따로 본다. Sora: make는 받는 사람 앞에 for → made lunch for the children, to가 맞다는 설명 X",
+    "highlight": [
+     "올바르게 설명한 학생들",
+     "We made lunch to the children at home."
+    ],
+    "strike": [
+     "'make'를 3형식으로 바꿀 때는 'to'를 쓰므로 옳은 문장이에요."
+    ],
+    "narration": "첫째, 학생마다 예문과 설명이 둘 다 맞는지 따져요. Sora는 make에 to를 쓴다고 했지만, make는 받는 사람 앞에 for를 써서 made lunch for the children이 맞으니 틀렸어요."
+   },
+   {
+    "note": "Hana: 감각동사 smells 뒤 보어는 형용사 sour → 부사 sourly라는 설명 X",
+    "highlight": [
+     "The milk in the fridge smells sourly."
+    ],
+    "strike": [
+     "보어 자리에는 부사 'sourly'를 쓰는 것이 맞아요."
+    ],
+    "narration": "둘째, Hana는 smells 뒤에 부사 sourly를 쓴다고 했지만, 감각동사 뒤 보어 자리에는 형용사를 써야 하니 틀렸어요."
+   },
+   {
+    "note": "Jane(4형식) O, Ben(heard + her + sing) O, Min(president = 명사 목적격 보어) O → Jane, Ben, Min",
+    "highlight": [
+     "He showed me the photo of his family.",
+     "I heard her sing a song in the hall.",
+     "They elected Tom president of the class.",
+     "⑤ Jane, Ben, Min"
+    ],
+    "strike": [],
+    "narration": "셋째, 4형식을 바르게 설명한 Jane, 지각동사 heard 뒤에 동사원형 sing을 쓴 Ben, president를 명사 목적격 보어라고 한 Min은 모두 맞아요. 그래서 올바르게 설명한 학생은 Jane, Ben, Min이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Ben, Min  ✗  바르게 설명한 Jane이 빠짐",
+    "② Jane, Ben, Hana  ✗  Hana의 설명이 틀림(smells 뒤 보어는 형용사 sour), Min이 빠짐",
+    "③ Sora, Min, Hana  ✗  Sora와 Hana의 설명이 틀림, Jane과 Ben이 빠짐",
+    "④ Jane, Sora  ✗  Sora의 설명이 틀림(make는 for), Ben과 Min이 빠짐",
+    "⑤ Jane, Ben, Min  ✓  바르게 설명한 세 학생을 모두 고름"
+   ],
+   "narration": "정답은 5번 Jane, Ben, Min이에요. smells 뒤에 부사를 쓴다는 Hana의 말을 믿으면 2번이나 3번을 고르게 돼요. make에 to를 쓴다는 Sora의 말을 믿으면 4번이나 3번을 고르게 돼요. 1번은 바르게 설명한 Jane을 빠뜨렸어요."
+  },
+  "summary": {
+   "card": "buy·make는 for / 지각동사 + 목적어 + 동사원형 / 감각동사 + 형용사 보어",
+   "narration": "정답은 5번이에요. 기억할 것, make는 3형식에서 for를 쓰고, 감각동사 뒤 보어에는 형용사를 써요."
+  },
+  "captions": [
+   "문장의 형식 설명 판단",
+   "먼저 풀어 보세요",
+   "to·for, 목적격 보어, 감각동사",
+   "Sora·Hana 설명 틀림 → ⑤",
+   "정답 ⑤ Jane, Ben, Min",
+   "예문과 설명을 따로 확인"
+  ],
+  "sec": [
+   10,
+   18,
+   30,
+   43,
+   22,
+   11
+  ]
+ },
+ "F": {
+  "title": "문장의 형식, 바르게 설명한 학생 고르기",
+  "intro": "이 문제는 문장의 형식을 올바르게 설명한 학생을 모두 고르는 문제예요.",
+  "problem_narration": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "4형식(동사 + ~에게 + ~을) → 3형식: give, send, tell, show, teach는 to, buy, make는 for",
+    "사역동사 make, have + 목적어 + 동사원형 (목적어가 하는 일)",
+    "목적어와 목적격 보어가 수동 관계 → 과거분사 (목적어가 당하는 일)",
+    "감각동사(look, smell, taste) 뒤 보어 → 형용사 (부사 ✗)",
+    "예) I had my bike fixed. (나는 자전거를 수리 맡겼어요.)"
+   ],
+   "narration": "4형식을 3형식으로 바꾸면 받는 사람 앞에 give와 send는 to를, buy와 make는 for를 써요. 사역동사 make와 have 뒤에는 목적어가 하는 일을 동사원형으로 쓰고, 목적어가 당하는 수동 관계면 과거분사로 써요. 감각동사 뒤 보어로는 부사가 아닌 형용사를 써요. 예를 들어 I had my bike fixed. 나는 자전거를 수리 맡겼어요."
+  },
+  "steps": [
+   {
+    "note": "학생마다 예문 O·X와 설명 O·X를 따로 본다. Jane: buy는 받는 사람 앞에 for → bought flowers for my teacher, to가 맞다는 설명 X",
+    "highlight": [
+     "올바르게 설명한 학생들",
+     "I bought flowers to my teacher on her birthday."
+    ],
+    "strike": [
+     "받는 사람 앞에 'to'를 쓰므로 옳은 문장이에요."
+    ],
+    "narration": "첫째, 학생마다 예문과 설명이 둘 다 맞는지 따져요. Jane은 buy에 to를 쓴다고 했지만, buy는 받는 사람 앞에 for를 써서 bought flowers for my teacher가 맞으니 틀렸어요."
+   },
+   {
+    "note": "Amy: 감각동사 looks 뒤 보어는 형용사 quiet → 부사 quietly라는 설명 X",
+    "highlight": [
+     "The room looks quietly at night."
+    ],
+    "strike": [
+     "감각동사 'look' 뒤에는 부사 'quietly'를 써야 하므로 옳은 문장이에요."
+    ],
+    "narration": "둘째, Amy는 looks 뒤에 부사 quietly를 써야 한다고 했지만, 감각동사 뒤 보어 자리에는 형용사를 써야 하니 틀렸어요."
+   },
+   {
+    "note": "Mina(4형식) O, Leo(made + me + laugh) O, Tom(창문이 깨짐 → broken) O → Mina, Leo, Tom",
+    "highlight": [
+     "She taught us English at the summer camp.",
+     "The funny joke made me laugh.",
+     "We found the window broken this morning.",
+     "② Mina, Leo, Tom"
+    ],
+    "strike": [],
+    "narration": "셋째, 4형식을 바르게 설명한 Mina, made 뒤에 동사원형 laugh를 쓴 Leo, 창문이 깨진 수동 관계를 broken으로 나타낸 Tom은 모두 맞아요. 그래서 올바르게 설명한 학생은 Mina, Leo, Tom이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Mina, Leo, Amy  ✗  Amy의 설명이 틀림(looks 뒤 보어는 형용사 quiet), Tom이 빠짐",
+    "② Mina, Leo, Tom  ✓  바르게 설명한 세 학생을 모두 고름",
+    "③ Jane, Tom, Amy  ✗  Jane과 Amy의 설명이 틀림, Mina와 Leo가 빠짐",
+    "④ Leo, Tom  ✗  바르게 설명한 Mina가 빠짐",
+    "⑤ Mina, Jane  ✗  Jane의 설명이 틀림(buy는 for), Leo와 Tom이 빠짐"
+   ],
+   "narration": "정답은 2번 Mina, Leo, Tom이에요. looks 뒤에 부사를 쓴다는 Amy의 말을 믿으면 1번이나 3번을 고르게 돼요. buy에 to를 쓴다는 Jane의 말을 믿으면 5번이나 3번을 고르게 돼요. 4번은 바르게 설명한 Mina를 빠뜨렸어요."
+  },
+  "summary": {
+   "card": "buy·make는 for, give·teach는 to / 감각동사 + 형용사 보어",
+   "narration": "정답은 2번이에요. 기억할 것, buy는 3형식에서 for를 쓰고, 감각동사 뒤 보어에는 형용사를 써요."
+  },
+  "captions": [
+   "문장의 형식 설명 판단",
+   "먼저 풀어 보세요",
+   "to·for, 목적격 보어, 감각동사",
+   "Jane·Amy 설명 틀림 → ②",
+   "정답 ② Mina, Leo, Tom",
+   "예문과 설명을 따로 확인"
+  ],
+  "sec": [
+   10,
+   18,
+   29,
+   43,
+   22,
+   11
+  ]
+ }
+}

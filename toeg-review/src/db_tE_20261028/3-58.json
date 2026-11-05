@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-26T04:02:44.232Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "I love <u>swimming</u> in the sea with my cousins.",
+      "1": "How about <u>going</u> out for a walk after dinner?",
+      "2": "Her dream is <u>becoming</u> a famous pianist someday.",
+      "3": "The boy <u>sitting</u> on the bench is my classmate.",
+      "4": "Tom was <u>sleeping</u> on the sofa at ten last night."
+    },
+    "expl": "핵심 규칙: be동사 뒤에서 ‘~하고 있다’는 진행형을 만드는 -ing는 현재분사다. be동사 뒤에 있어도 ‘~하는 것’으로 풀리면 보어로 쓰인 동명사이고, 주어·목적어·전치사의 목적어로 쓰인 -ing도 동명사다. 명사를 꾸미는 -ing는 현재분사지만 진행형은 아니다.\n풀이 순서: ① <보기>의 밑줄은 be동사(is) 뒤에서 ‘~하고 있다’는 진행형을 이룬다. → ② 보기에서 be동사 바로 뒤에 놓여 ‘~하고 있다(있었다)’로 풀리는 -ing를 찾는다. 주어·목적어, 전치사 뒤, ‘~하는 것’으로 풀리는 것은 동명사다. → ③ 정답은 ⑤(was sleeping).\n문장별 판정:\n정답 판단: was + sleeping로 ‘자고 있었다’는 진행형을 만드는 현재분사라 <보기>와 쓰임이 같으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] love의 목적어로 쓰인 동명사라 <보기>와 쓰임이 다르므로 오답이다.\n② [오답] 전치사 about의 목적어로 쓰인 동명사라 <보기>와 쓰임이 다르므로 오답이다.\n③ [오답] be동사 뒤에 있지만 ‘되는 것’이라는 뜻의 보어(동명사)라 진행형이 아니므로 오답이다.\n④ [오답] 명사 The boy을 꾸미는 현재분사지만 진행형은 아니므로 오답이다.\n⑤ [정답] was + sleeping로 ‘자고 있었다’는 진행형을 만드는 현재분사라 <보기>와 쓰임이 같으므로 정답이다.",
+    "passage": "<보기>\nMom is <u>making</u> lunch for us in the kitchen right now.",
+    "stem": "다음 중 밑줄 친 부분의 쓰임이 보기와 같은 것은?"
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T04:02:44.232Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:02:44.232Z",
+      "what": "확인 완료"
+    }
+  }
+}

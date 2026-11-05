@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T05:02:13.797Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "What did you eat last weekend?",
+      "1": "Where did you go last weekend?",
+      "2": "Who did you call last weekend?",
+      "3": "How long did you sleep last weekend?",
+      "4": "Why did you stay home last weekend?"
+    },
+    "expl": "핵심 규칙: 의문사는 묻는 정보에 맞게 고른다: who(사람), what(사물·일), where(장소), when(때), why(이유), how(방법), how much(값·양), how long(기간). 일반동사 과거 의문문은 의문사 + did + 주어 + 동사원형이다.\n풀이 순서: ① B의 대답이 알려 주는 정보가 무엇인지 본다: 간 곳(Busan). → ② 그 정보를 묻는 의문사는 Where(어디)다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: Where는 장소를 묻고 B가 간 곳(Busan)을 말하므로 정답은 ②이다.\n선택지 분석:\n① [오답] What은 먹은 것을 묻는데 B는 간 곳을 말하므로 오답이다.\n② [정답] Where는 장소를 묻고 B가 간 곳(Busan)을 말하므로 정답이다.\n③ [오답] Who는 전화한 사람을 묻는데 B는 간 곳을 말하므로 오답이다.\n④ [오답] How long은 기간을 묻는데 B는 간 곳을 말하므로 오답이다.\n⑤ [오답] Why는 이유를 묻는데 B는 간 곳을 말하므로 오답이다.",
+    "passage": "A: ________________________\nB: I went to Busan.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:02:00.395Z"
+  },
+  "tab": "fhh9u0lo",
+  "updatedAt": "2026-10-23T05:02:13.797Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:02:13.797Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+ "key": "5-7",
+ "type": "D",
+ "grade": 5,
+ "chapter": "CH 1 대명사",
+ "title": "that과 소유대명사 his",
+ "total_sec": 123,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "5급 · CH 1 대명사 · 7번 · D 유형\n\n이 문제는 ‘저 자전거’를 가리키는 말, 알맞은 be동사, ‘그의 것’을 나타내는 소유대명사를 따져 우리말을 바르게 옮긴 영어 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 1 대명사 · 7번 · D 유형",
+     "이 문제는 ‘저 자전거’를 가리키는 말, 알맞은 be동사, ‘그의 것’을 나타내는 소유대명사를 따져 우리말을 바르게 옮긴 영어 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 1, 7번 D 유형. 이 문제는 ‘저 자전거’를 가리키는 말, 알맞은 be동사, ‘그의 것’을 나타내는 소유대명사를 따져 우리말을 바르게 옮긴 영어 문장을 고르는 문제예요.",
+   "caption": "저 자전거는 그의 것"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.\n\n저 자전거는 그의 것이다.\n\n① That bike is he.\n② That bike are his.\n③ That bike is his.\n④ That bike is him.\n⑤ This bike is his.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+     "저 자전거는 그의 것이다.",
+     "① That bike is he.",
+     "② That bike are his.",
+     "③ That bike is his.",
+     "④ That bike is him.",
+     "⑤ This bike is his."
+    ]
+   },
+   "narration": "다음 우리말을 영어로 바르게 옮긴 것을 고르세요. 저 자전거는 그의 것이다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n가까운 것: this + 단수 명사 (이 ~),  these + 복수 명사 (이 ~들)\n먼 것: that + 단수 명사 (저 ~),  those + 복수 명사 (저 ~들)\nthis·that + 단수 명사 → is,  these·those + 복수 명사 → are\nhe(그는) · him(그를) · his(그의, 그의 것) → ‘그의 것’은 his\n예) This is his cap. This cap is his. (이것은 그의 모자이고, 이 모자는 그의 것이에요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "가까운 것: this + 단수 명사 (이 ~),  these + 복수 명사 (이 ~들)",
+     "먼 것: that + 단수 명사 (저 ~),  those + 복수 명사 (저 ~들)",
+     "this·that + 단수 명사 → is,  these·those + 복수 명사 → are",
+     "he(그는) · him(그를) · his(그의, 그의 것) → ‘그의 것’은 his",
+     "예) This is his cap. This cap is his. (이것은 그의 모자이고, 이 모자는 그의 것이에요.)"
+    ]
+   },
+   "narration": "가까이 있는 하나는 this, 멀리 있는 하나는 that으로 가리키고, 여럿이면 these와 those로 가리켜요. this나 that이 붙은 주어에는 be동사 현재형 is, these나 those가 붙은 주어에는 are를 써요. he는 ‘그는’, him은 ‘그를’이라는 뜻이고, his는 ‘그의’와 ‘그의 것’을 모두 나타내요. This is his cap. This cap is his. 이것은 그의 모자이고, 이 모자는 그의 것이에요. 앞의 his 뒤에는 명사 cap이 오고, 뒤의 his는 명사 없이 혼자 쓰였어요.",
+   "caption": "that + 단수 명사, 소유대명사 his"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.\n\n저 자전거는 그의 것이다.\n\n① That bike is he.\n② That bike are his.\n③ That bike is his.\n④ That bike is him.\n⑤ This bike is his.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "저 자전거는"
+      ],
+      "strike": [
+       "⑤ This bike is his."
+      ],
+      "note": "‘저 자전거’ = 멀리 있는 하나 → That bike. This를 쓴 ⑤는 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "② That bike are his."
+      ],
+      "note": "That bike는 단수 주어 → is. are를 쓴 ②는 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ That bike is his."
+      ],
+      "strike": [
+       "① That bike is he.",
+       "④ That bike is him."
+      ],
+      "note": "‘그의 것’ = his. 주격 he(①), 목적격 him(④)은 지운다 → 정답 ③"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 저 자전거는 멀리 있는 하나라서, ‘이 자전거’라는 뜻의 5번 This bike는 맞지 않아요. 둘째, That bike는 하나라서 동사는 is예요. 그래서 are를 쓴 2번은 틀렸어요. 셋째, 그의 것은 he나 him이 아니라 소유대명사 his로 써요. That bike is his. 저 자전거는 그의 것이에요.",
+   "caption": "That bike → is → his"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① That bike is he.  ✗  he는 ‘그는’(주격) → ‘그의 것’은 his\n② That bike are his.  ✗  That bike는 하나 → are가 아니라 is\n③ That bike is his.  ✓  멀리 있는 하나 That bike + is + his\n④ That bike is him.  ✗  him은 ‘그를’(목적격) → ‘그의 것’은 his\n⑤ This bike is his.  ✗  문장은 맞지만 ‘이 자전거’ → ‘저’는 That",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① That bike is he.  ✗  he는 ‘그는’(주격) → ‘그의 것’은 his",
+     "② That bike are his.  ✗  That bike는 하나 → are가 아니라 is",
+     "③ That bike is his.  ✓  멀리 있는 하나 That bike + is + his",
+     "④ That bike is him.  ✗  him은 ‘그를’(목적격) → ‘그의 것’은 his",
+     "⑤ This bike is his.  ✗  문장은 맞지만 ‘이 자전거’ → ‘저’는 That"
+    ]
+   },
+   "narration": "정답은 3번이에요. 5번은 문장 자체는 맞지만 This bike라서 ‘이 자전거’라는 뜻이 돼요. 4번 him은 ‘그를’이라는 뜻이라서 그의 것을 나타내지 못해요. 2번은 하나인 That bike 뒤에 are를 써서 틀렸어요.",
+   "caption": "정답 ③ That bike is his."
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ That bike is his.\n\n‘저 ~’ → that + 단수 명사 + is,  ‘그의 것’ → his",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ That bike is his.",
+     "‘저 ~’ → that + 단수 명사 + is,  ‘그의 것’ → his"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 멀리 있는 하나는 that으로 가리키고, 그의 것은 소유대명사 his로 써요.",
+   "caption": "‘그의 것’은 his"
+  }
+ ],
+ "source": {
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "저 자전거는 그의 것이다.",
+  "c": [
+   "That bike is he.",
+   "That bike are his.",
+   "That bike is his.",
+   "That bike is him.",
+   "This bike is his."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 가까운 것은 this(단수)/these(복수), 먼 것은 that(단수)/those(복수)로 가리킨다. ‘~의 것’은 소유대명사(mine, ours, his, hers, theirs)다.\n풀이 순서: ① 우리말의 지시어와 명사의 수를 본다: ‘저 자전거’는 멀리 있는 하나이므로 That bike. → ② 동사는 주어의 수에 맞추고 ‘~의 것’은 소유대명사로 쓴다: is his. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 먼 단수 대상은 That bike, 단수 be동사는 is, ‘그의 것’은 his이므로 That bike is his.가 알맞다. 따라서 정답은 ③이다.\n선택지 분석:\n① [오답] ‘그의 것’이라는 소유 의미를 나타내려면 주격 he 대신 소유대명사 his를 쓴다.\n② [오답] That bike는 단수 주어이므로 are를 is로 고친다.\n③ [정답] 먼 단수 대상은 That bike, 단수 be동사는 is, ‘그의 것’은 his이므로 That bike is his.가 알맞다.\n④ [오답] ‘그의 것’이라는 소유 의미를 나타내려면 목적격 him 대신 소유대명사 his를 쓴다.\n⑤ [오답] This bike is his.는 문법적으로 맞지만 ‘이 자전거’라는 뜻이다. ‘저 자전거’는 That bike로 표현한다."
+ }
+}

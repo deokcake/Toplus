@@ -1,0 +1,180 @@
+{
+ "key": "6-39",
+ "type": "C",
+ "grade": 6,
+ "chapter": "CH 4 일반동사",
+ "title": "일반동사 의문문의 Do와 Does",
+ "total_sec": 129,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "6급 · CH 4 일반동사 · 39번 · C 유형\n\n이 문제는 주어 your parents와 Tom에 맞게 의문문 맨 앞에 들어갈 말을 짝지어 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 4 일반동사 · 39번 · C 유형",
+     "이 문제는 주어 your parents와 Tom에 맞게 의문문 맨 앞에 들어갈 말을 짝지어 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 4, 39번 C 유형. 이 문제는 주어 your parents와 Tom에 맞게 의문문 맨 앞에 들어갈 말을 짝지어 고르는 문제예요.",
+   "caption": "주어에 맞는 Do와 Does"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 21,
+   "screen": {
+    "text": "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르시오.\n\n(A) ________ your parents work?\n(B) ________ Tom work?\n\n① Does - Does\n② Do - Do\n③ Do - Are\n④ Do - Does\n⑤ Does - Do",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르시오.",
+     "(A) ________ your parents work?",
+     "(B) ________ Tom work?",
+     "① Does - Does",
+     "② Do - Do",
+     "③ Do - Are",
+     "④ Do - Does",
+     "⑤ Does - Do"
+    ]
+   },
+   "narration": "빈칸 에이와 비에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. 에이는 빈칸 your parents work, 비는 빈칸 Tom work예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 27,
+   "screen": {
+    "text": "핵심 규칙\n예, 아니요로 묻는 일반동사 현재형 의문문 → be동사가 아니라 Do / Does로 시작\nDo / Does + 주어 + 동사원형 …? (~하니?)\n주어가 3인칭 단수 (he, she, it, 단수 명사) → Does\n주어가 I, you, we, they, 복수 → Do\n예) Does Mina swim? (미나는 수영을 하니?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "예, 아니요로 묻는 일반동사 현재형 의문문 → be동사가 아니라 Do / Does로 시작",
+     "Do / Does + 주어 + 동사원형 …? (~하니?)",
+     "주어가 3인칭 단수 (he, she, it, 단수 명사) → Does",
+     "주어가 I, you, we, they, 복수 → Do",
+     "예) Does Mina swim? (미나는 수영을 하니?)"
+    ]
+   },
+   "narration": "예, 아니요로 묻는 일반동사 현재형 의문문은 be동사가 아니라 Do나 Does로 시작하고, 주어 뒤의 동사는 원형으로 써요. 주어가 he, she, it이나 단수 명사처럼 3인칭 단수이면 Does, I, you, we, they나 복수이면 Do를 써요. 예를 들어 Does Mina swim? 미나는 수영을 하니?",
+   "caption": "3인칭 단수 → Does, 그 밖 → Do"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 33,
+   "screen": {
+    "text": "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르시오.\n\n(A) ________ your parents work?\n(B) ________ Tom work?\n\n① Does - Does\n② Do - Do\n③ Do - Are\n④ Do - Does\n⑤ Does - Do",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "your parents work?"
+      ],
+      "strike": [
+       "① Does - Does",
+       "⑤ Does - Do"
+      ],
+      "note": "(A) 주어 your parents → 부모님 두 분, 복수 → Do. (A)가 Does인 ①, ⑤ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "Tom work?"
+      ],
+      "strike": [],
+      "note": "(B) 주어 Tom → 한 사람, 3인칭 단수. 주어 뒤에 동사원형 work → be동사 ✗, Does"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ Do - Does"
+      ],
+      "strike": [
+       "② Do - Do",
+       "③ Do - Are"
+      ],
+      "note": "(B)가 Do, Are인 ②, ③ 지움 → ④ Do - Does"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 에이 빈칸의 주어 your parents는 부모님 두 분이라 복수이니, Do를 쓰고 1번과 5번을 지워요. 둘째, 비 빈칸의 주어 Tom은 한 사람이라 3인칭 단수이고, 주어 뒤에 동사원형 work가 있으니 Does로 물어야 해요. 셋째, 그래서 비 빈칸이 Do나 Are인 2번과 3번을 지우면 4번이 남아요. Do your parents work? 너의 부모님은 일을 하시니? Does Tom work? 톰은 일을 하니?",
+   "caption": "복수 Do → 단수 Does → ④"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 25,
+   "screen": {
+    "text": "① Does - Does  ✗  (A) 복수 주어 your parents에는 Do\n② Do - Do  ✗  (B) 3인칭 단수 주어 Tom에는 Does\n③ Do - Are  ✗  (B) 동사원형 work가 있으니 be동사 Are 말고 Does\n④ Do - Does  ✓  복수 your parents에 Do, 단수 Tom에 Does\n⑤ Does - Do  ✗  Do와 Does가 서로 바뀌었어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Does - Does  ✗  (A) 복수 주어 your parents에는 Do",
+     "② Do - Do  ✗  (B) 3인칭 단수 주어 Tom에는 Does",
+     "③ Do - Are  ✗  (B) 동사원형 work가 있으니 be동사 Are 말고 Does",
+     "④ Do - Does  ✓  복수 your parents에 Do, 단수 Tom에 Does",
+     "⑤ Does - Do  ✗  Do와 Does가 서로 바뀌었어요"
+    ]
+   },
+   "narration": "정답은 4번, Do와 Does예요. 5번은 Do와 Does를 서로 바꿔 썼어요. your parents는 부모님 두 분이라 복수이고, Tom은 한 사람이라 3인칭 단수예요. 2번은 Tom에도 Do를 써서 틀렸어요. 3번 Are는 be동사인데, 주어 뒤에 동사원형 work가 있으니 Does로 물어야 해요.",
+   "caption": "정답 ④ Do - Does"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ④ Do - Does\n\n복수 주어 → Do, 3인칭 단수 주어 → Does",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ Do - Does",
+     "복수 주어 → Do, 3인칭 단수 주어 → Does"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 일반동사 현재형 의문문은 복수 주어에는 Do, 3인칭 단수 주어에는 Does를 써요.",
+   "caption": "복수 Do, 3인칭 단수 Does"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르시오.",
+  "passage": "(A) ________ your parents work?\n(B) ________ Tom work?",
+  "c": [
+   "Does - Does",
+   "Do - Do",
+   "Do - Are",
+   "Do - Does",
+   "Does - Do"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 각 문장의 주어를 따로 확인하여 Do/Does를 고른다.\n풀이 순서: ① (A)의 주어: your parents(복수) → Do. → ② (B)의 주어: Tom(단수) → Does. → ③ 정답은 Do - Does.\n문장별 판정:\n정답 판단: (A) Do: 주어 your parents에는 Do를 쓰고 뒤의 일반동사는 원형으로 둔다. (B) Does: 주어 Tom에는 Does를 쓰고 뒤의 일반동사는 원형으로 둔다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] (A) Does → Do. 주어 your parents에는 Do를 쓰고 뒤의 일반동사는 원형으로 둔다. (B) Does: 주어 Tom에는 Does를 쓰고 뒤의 일반동사는 원형으로 둔다.\n② [오답] (A) Do: 주어 your parents에는 Do를 쓰고 뒤의 일반동사는 원형으로 둔다. (B) Do → Does. 주어 Tom에는 Does를 쓰고 뒤의 일반동사는 원형으로 둔다.\n③ [오답] (A) Do: 주어 your parents에는 Do를 쓰고 뒤의 일반동사는 원형으로 둔다. (B) Are → Does. 주어 Tom에는 Does를 쓰고 뒤의 일반동사는 원형으로 둔다.\n④ [정답] (A) Do: 주어 your parents에는 Do를 쓰고 뒤의 일반동사는 원형으로 둔다. (B) Does: 주어 Tom에는 Does를 쓰고 뒤의 일반동사는 원형으로 둔다.\n⑤ [오답] (A) Does → Do. 주어 your parents에는 Do를 쓰고 뒤의 일반동사는 원형으로 둔다. (B) Do → Does. 주어 Tom에는 Does를 쓰고 뒤의 일반동사는 원형으로 둔다."
+ }
+}

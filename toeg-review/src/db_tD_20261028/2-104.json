@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T16:59:41.119Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Let's meet <u>on noon</u>.",
+      "1": "The festival is held <u>at October</u>.",
+      "2": "We watched fireworks <u>in New Year's Eve</u>.",
+      "3": "He fell asleep <u>while the movie</u>.",
+      "4": "The shop is closed <u>on Sundays</u>."
+    },
+    "expl": "핵심 규칙: 시각·정오·새벽 같은 한 시점은 at, 요일·날짜·특정한 날은 on, 월·계절·연도·아침/저녁은 in을 쓴다. during 뒤에는 명사(구)가, while 뒤에는 주어 + 동사가 온다.\n풀이 순서: ① 밑줄마다 전치사 뒤의 시간 표현이 시각, 요일·날짜, 월·계절·연도, 기간 가운데 무엇인지 가른다. → ② 시각은 at, 요일·날짜는 on, 월·계절·연도는 in, 특정 기간(명사)은 during이다. 절(주어 + 동사) 앞에는 while을 쓴다. → ③ 선택지 ⑤만 맞다(요일인 Sundays 앞에 on).\n문장별 판정:\n정답 판단: 요일 앞에 on을 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 정오(noon)에는 at을 써야 하므로 오답이다.\n② [오답] 월에는 in을 써야 하므로 오답이다.\n③ [오답] 특정한 날에는 on을 써야 하므로 오답이다.\n④ [오답] 명사(the movie) 앞에는 while이 아니라 during을 써야 하므로 오답이다.\n⑤ [정답] 요일 앞에 on을 바르게 썼으므로 정답이다.",
+    "passage": null,
+    "stem": "다음 밑줄 친 부분이 어법상 옳은 문장을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T16:59:27.539Z"
+  },
+  "tab": "8s1sfi09",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:59:41.119Z",
+      "what": "확인 완료"
+    }
+  }
+}

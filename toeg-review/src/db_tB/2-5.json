@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T07:42:45.440Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": 1,
+    "c": {
+      "0": "Yuna, Sora, Jin",
+      "1": "Sora, Jin, Hana",
+      "2": "Yuna, Minho, Hana",
+      "3": "Minho, Jin",
+      "4": "Yuna, Sora"
+    },
+    "expl": "핵심 규칙: give·send·tell·show·teach는 3형식에서 to를, buy·make는 for를 쓴다. 사역동사 make·have + 목적어 + 동사원형이고, 목적어와 목적격 보어가 수동 관계이면 과거분사를 쓴다. 감각동사 뒤 보어는 형용사다.\n풀이 순서: ① 학생마다 ‘예문이 맞는 문장인가’와 ‘설명이 맞는가’를 따로 따진다. → ② Minho는 사역동사 made 뒤의 to wash가 맞다고 했고, Hana는 tastes 뒤의 부사 deliciously가 맞다고 했다. 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Yuna, Sora, Jin이다.\n문장별 판정:\nYuna O(send의 4형식).\nMinho X(사역동사 made 뒤에는 원형부정사 wash를 쓴다).\nSora O(buy는 for를 쓴다).\nJin O(문이 잠기는 수동 관계라 locked).\nHana X(tastes 뒤에는 형용사 delicious).\n정답 판단: 올바르게 설명한 학생은 Yuna, Sora, Jin이다.\n선택지 분석:\n① [정답] 올바르게 설명한 학생 Yuna, Sora, Jin를 빠짐없이 골랐으므로 정답이다.\n② [오답] Hana는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Yuna를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Minho, Hana는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Sora, Jin를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Minho는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Yuna, Sora를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] 올바르게 설명한 학생 Jin를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "Yuna: I sent my cousin a postcard. 'send'가 간접목적어와 직접목적어를 차례로 취한 4형식 문장이에요.\nMinho: Dad made me to wash the car. 사역동사 'make' 뒤 목적격 보어 자리에는 to부정사를 쓰므로 'to wash'가 맞아요.\nSora: I bought a scarf for Mom. 'buy'를 3형식으로 쓸 때는 간접목적어 앞에 전치사 'for'를 쓰므로 옳은 문장이에요.\nJin: We found the door locked. 문이 잠긴 수동의 관계이므로 목적격 보어로 과거분사 'locked'를 쓴 것이 맞아요.\nHana: The soup tastes deliciously. 감각동사 'taste' 뒤에는 부사가 와야 하므로 'deliciously'가 맞아요.",
+    "stem": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T05:45:21.808Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T05:46:02.146Z",
+      "text": "기준 문항에 비해 지문이 짧고, 설명이 무성의함."
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T07:42:47.312Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T07:42:47.312Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T07:42:47.312Z",
+      "what": "판정을 Claude 판정으로 되돌림"
+    }
+  }
+}

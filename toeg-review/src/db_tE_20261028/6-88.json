@@ -1,0 +1,28 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-23T08:56:05.713Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "is",
+      "1": "wearing",
+      "2": "a",
+      "3": "new",
+      "4": "jacket"
+    },
+    "expl": "핵심 규칙: 현재진행형은 주어 + am/is/are + 동사원형-ing로 쓴다. I에는 am, 3인칭 단수에는 is, you와 복수 주어에는 are를 쓴다.\n풀이 순서: ① 주어를 본다: You. → ② be동사와 그 뒤의 동사 형태를 차례로 확인한다. You에 is를 썼다. are여야 한다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: 주어 You에는 is가 아니라 are를 써야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] 주어 You에는 is가 아니라 are를 써야 하므로 정답이다.\n② [오답] be동사 뒤에 -ing형 wearing을 바르게 썼으므로 오답이다.\n③ [오답] 셀 수 있는 단수명사 jacket 앞에 a를 바르게 썼으므로 오답이다.\n④ [오답] 명사 jacket을 꾸미는 형용사 new를 바르게 썼으므로 오답이다.\n⑤ [오답] a new 뒤에 단수명사 jacket을 바르게 썼으므로 오답이다.",
+    "passage": "You ①<u>is</u> ②<u>wearing</u> ③<u>a</u> ④<u>new</u> ⑤<u>jacket</u>.",
+    "stem": "다음 문장에서 밑줄 친 부분 중 어법상 틀린 것은?"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T08:56:05.713Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:56:05.713Z",
+      "what": "확인 완료"
+    }
+  }
+}

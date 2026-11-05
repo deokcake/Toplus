@@ -1,0 +1,179 @@
+{
+ "key": "4-3",
+ "type": "F",
+ "grade": 4,
+ "chapter": "CH 1 명사와 관사",
+ "title": "a, an이 들어갈 수 없는 자리",
+ "total_sec": 129,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "4급 · CH 1 명사와 관사 · 3번 · F 유형\n\n이 문제는 a와 an의 쓰임을 알고, a나 an이 들어갈 수 없는 빈칸을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 1 명사와 관사 · 3번 · F 유형",
+     "이 문제는 a와 an의 쓰임을 알고, a나 an이 들어갈 수 없는 빈칸을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 1, 3번 F 유형. 이 문제는 a와 an의 쓰임을 알고, a나 an이 들어갈 수 없는 빈칸을 고르는 문제예요.",
+   "caption": "a, an이 들어갈 수 없는 자리"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 빈칸에 a/an이 들어갈 수 없는 것을 고르시오.\n\n① I saw _____ elephant.\n② She has _____ desk.\n③ We need _____ box.\n④ Tom plays _____ soccer after school.\n⑤ He bought _____ apple.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 a/an이 들어갈 수 없는 것을 고르시오.",
+     "① I saw _____ elephant.",
+     "② She has _____ desk.",
+     "③ We need _____ box.",
+     "④ Tom plays _____ soccer after school.",
+     "⑤ He bought _____ apple."
+    ]
+   },
+   "narration": "다음 빈칸에 a나 an이 들어갈 수 없는 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\na, an → 셀 수 있는 명사가 하나일 때 그 앞에 써요 (a book 책 한 권)\n바로 뒤 낱말이 자음 소리 → a, 모음 소리 → an (a cat, an egg)\n운동 경기를 한다고 말할 때 → play + 운동 이름, 관사 없이 (play baseball)\n예) We play basketball on Sundays. (우리는 일요일마다 농구를 해요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "a, an → 셀 수 있는 명사가 하나일 때 그 앞에 써요 (a book 책 한 권)",
+     "바로 뒤 낱말이 자음 소리 → a, 모음 소리 → an (a cat, an egg)",
+     "운동 경기를 한다고 말할 때 → play + 운동 이름, 관사 없이 (play baseball)",
+     "예) We play basketball on Sundays. (우리는 일요일마다 농구를 해요.)"
+    ]
+   },
+   "narration": "a와 an은 셀 수 있는 명사 하나 앞에 써요. 바로 뒤 낱말이 자음 소리로 시작하면 a cat처럼 a를, 모음 소리로 시작하면 an egg처럼 an을 써요. 그런데 야구나 농구 같은 운동 경기를 한다고 말할 때는 play 뒤의 운동 이름 앞에 관사를 쓰지 않아요. 그래서 play baseball처럼 말해요. 예를 들어 We play basketball on Sundays, 우리는 일요일마다 농구를 해요.",
+   "caption": "셀 수 있는 명사 하나 앞에 a, an"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 빈칸에 a/an이 들어갈 수 없는 것을 고르시오.\n\n① I saw _____ elephant.\n② She has _____ desk.\n③ We need _____ box.\n④ Tom plays _____ soccer after school.\n⑤ He bought _____ apple.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "elephant",
+       "apple"
+      ],
+      "strike": [
+       "① I saw _____ elephant.",
+       "⑤ He bought _____ apple."
+      ],
+      "note": "①·⑤ elephant, apple → 모음 소리 → an"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "desk",
+       "box"
+      ],
+      "strike": [
+       "② She has _____ desk.",
+       "③ We need _____ box."
+      ],
+      "note": "②·③ desk, box → 자음 소리 → a"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "soccer"
+      ],
+      "strike": [],
+      "note": "④ soccer = 운동 이름, 경기를 할 때 → play soccer (관사 ✗)"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 모음 소리로 시작하는 1번 elephant, 5번 apple 앞에는 an이 들어가요. 둘째, 자음 소리로 시작하는 2번 desk, 3번 box 앞에는 a가 들어가요. 셋째, 4번 soccer는 축구라는 운동 이름이에요. 운동 경기를 한다고 말할 때는 관사 없이 play soccer라고 하니, 답은 4번이에요.",
+   "caption": "an → a → play soccer"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① I saw _____ elephant.  ✗  모음 소리 elephant 앞 → an elephant\n② She has _____ desk.  ✗  자음 소리 desk 하나 앞 → a desk\n③ We need _____ box.  ✗  자음 소리 box(상자 하나) 앞 → a box\n④ Tom plays _____ soccer after school.  ✓  운동 경기를 할 때는 관사 없이 play soccer\n⑤ He bought _____ apple.  ✗  모음 소리 apple 앞 → an apple",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① I saw _____ elephant.  ✗  모음 소리 elephant 앞 → an elephant",
+     "② She has _____ desk.  ✗  자음 소리 desk 하나 앞 → a desk",
+     "③ We need _____ box.  ✗  자음 소리 box(상자 하나) 앞 → a box",
+     "④ Tom plays _____ soccer after school.  ✓  운동 경기를 할 때는 관사 없이 play soccer",
+     "⑤ He bought _____ apple.  ✗  모음 소리 apple 앞 → an apple"
+    ]
+   },
+   "narration": "정답은 4번이에요. 축구 같은 운동 경기를 한다고 말할 때는 관사 없이 play soccer라고 해요. 1번과 5번은 a를 넣으면 어색해서 답으로 고르기 쉬워요. 하지만 elephant, apple 모두 모음 소리로 시작해서 an이 들어가요. a나 an 중 하나라도 들어가면 답이 아니에요.",
+   "caption": "정답 ④ play soccer"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ④ Tom plays _____ soccer after school.\n\n운동 경기를 할 때는 관사 없이: play soccer",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ Tom plays _____ soccer after school.",
+     "운동 경기를 할 때는 관사 없이: play soccer"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 운동 경기를 한다고 말할 때는 play soccer처럼 운동 이름 앞에 관사를 쓰지 않아요.",
+   "caption": "운동 경기는 관사 없이"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 a/an이 들어갈 수 없는 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "I saw _____ elephant.",
+   "She has _____ desk.",
+   "We need _____ box.",
+   "Tom plays _____ soccer after school.",
+   "He bought _____ apple."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: a/an은 셀 수 있는 단수명사 앞에 쓰며, 악기·식사·운동·학교의 본래 목적 등에서는 다른 관사 규칙을 적용한다.\n풀이 순서: ① 빈칸 뒤의 명사가 ‘셀 수 있는 명사의 단수형’인지 본다. 그런 명사 앞에만 a/an을 쓴다. → ② 선택지 ④의 soccer는 운동 이름이라 관사 없이 play soccer로 쓴다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 운동 종목 이름 앞에는 일반적으로 관사를 쓰지 않는다.\n선택지 분석:\n① I saw _____ elephant. - 오답. 빈칸 뒤가 셀 수 있는 단수명사이므로 문맥과 첫소리에 따라 a/an을 넣을 수 있다.\n② She has _____ desk. - 오답. 빈칸 뒤가 셀 수 있는 단수명사이므로 문맥과 첫소리에 따라 a/an을 넣을 수 있다.\n③ We need _____ box. - 오답. 빈칸 뒤가 셀 수 있는 단수명사이므로 문맥과 첫소리에 따라 a/an을 넣을 수 있다.\n④ Tom plays _____ soccer after school. - 정답. 운동 종목 이름 앞에는 일반적으로 관사를 쓰지 않는다.\n⑤ He bought _____ apple. - 오답. 빈칸 뒤가 셀 수 있는 단수명사이므로 문맥과 첫소리에 따라 a/an을 넣을 수 있다."
+ }
+}

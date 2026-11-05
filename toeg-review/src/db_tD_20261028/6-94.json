@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T06:33:56.556Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 각 문장의 실제 주어에 맞는 was/were와 -ing형을 각각 확인한다.\n풀이 순서: ① 첫 문장의 주어: Tom(단수) → Was. → ② 둘째 문장의 주어: Jane(단수) → was writing. → ③ 정답은 Was - was writing.\n문장별 판정:\n정답 판단: (첫째 빈칸) Was: 과거진행형 의문문의 주어 Tom에는 was가 필요하다. (둘째 빈칸) was writing: 주어 Jane에 맞는 was와 write의 -ing형 writing을 함께 쓴다. 따라서 정답은 ③이다.\n선택지 분석:\n① [오답] (첫째 빈칸) Were → Was. 과거진행형 의문문의 주어 Tom에는 was가 필요하다. (둘째 빈칸) is writing → was writing. 주어 Jane에 맞는 was와 write의 -ing형 writing을 함께 쓴다.\n② [오답] (첫째 빈칸) Were → Was. 과거진행형 의문문의 주어 Tom에는 was가 필요하다. (둘째 빈칸) were writing → was writing. 주어 Jane에 맞는 was와 write의 -ing형 writing을 함께 쓴다.\n③ [정답] (첫째 빈칸) Was: 과거진행형 의문문의 주어 Tom에는 was가 필요하다. (둘째 빈칸) was writing: 주어 Jane에 맞는 was와 write의 -ing형 writing을 함께 쓴다.\n④ [오답] (첫째 빈칸) Do → Was. 과거진행형 의문문의 주어 Tom에는 was가 필요하다. (둘째 빈칸) was writing: 주어 Jane에 맞는 was와 write의 -ing형 writing을 함께 쓴다.\n⑤ [오답] (첫째 빈칸) Was: 과거진행형 의문문의 주어 Tom에는 was가 필요하다. (둘째 빈칸) were writing → was writing. 주어 Jane에 맞는 was와 write의 -ing형 writing을 함께 쓴다.",
+    "passage": "- _______ Tom cooking at six yesterday?\n- Jane ________ a letter then.",
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T06:33:54.588Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T06:33:56.556Z",
+      "what": "확인 완료"
+    }
+  }
+}

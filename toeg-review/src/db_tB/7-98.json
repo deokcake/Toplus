@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T05:14:50.131Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 시각은 It is + 시각으로 말한다. ‘~시 …분 지났다’는 분 + past + 시, ‘~시 …분 전’은 분 + to + 시로 쓰고, 30분은 half, 15분은 a quarter로 말한다.\n풀이 순서: ① 시각을 ‘분 + past/to + 시’로 바꾼다: 6시 45분 → a quarter to seven(7시 15분 전). → ② It is 뒤에 이 순서 그대로 쓴다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: 6시 45분(7시 15분 전)을 a quarter to seven으로 바르게 나타냈으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 6시 45분(7시 15분 전)을 a quarter to seven으로 바르게 나타냈으므로 정답이다.\n② [오답] 6시 30분을 나타내므로 오답이다.\n③ [오답] 분·past/to·시의 어순이 아니므로 오답이다.\n④ [오답] 7시 15분을 나타내므로 오답이다.\n⑤ [오답] It is + 시각의 어순이 아니므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 <보기>의 우리말 문장을 올바르게 영작한 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T05:14:49.001Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T05:14:50.131Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T05:14:50.131Z",
+      "what": "확인 완료"
+    }
+  }
+}

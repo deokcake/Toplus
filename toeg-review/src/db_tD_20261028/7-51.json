@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T03:44:14.002Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "Tom reads a book.",
+      "1": "Tom buys a book.",
+      "2": "Tom writes a book.",
+      "3": "Tom reads a letter.",
+      "4": "Tom sells a book."
+    },
+    "expl": "핵심 규칙: 우리말의 주어와 동작, 목적어가 모두 맞는 문장을 고른다.\n풀이 순서: ① 우리말의 동작을 영어 동사로 바꾼다: ‘읽는다’ → read(주어가 Tom이라 reads). → ② 대상을 찾는다: ‘책’ → a book. → ③ 둘이 다 들어 있는 문장은 ①.\n문장별 판정:\n정답 판단: 우리말의 주어·동작·목적어와 모두 맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 우리말의 주어·동작·목적어와 모두 맞으므로 정답이다.\n② [오답] ‘Tom은 책을 산다’라는 뜻이라 우리말과 맞지 않으므로 오답이다.\n③ [오답] ‘Tom은 책을 쓴다’라는 뜻이라 우리말과 맞지 않으므로 오답이다.\n④ [오답] ‘Tom은 편지를 읽는다’라는 뜻이라 우리말과 맞지 않으므로 오답이다.\n⑤ [오답] ‘Tom은 책을 판다’라는 뜻이라 우리말과 맞지 않으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T03:44:11.882Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T03:44:14.002Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:44:14.002Z",
+      "what": "확인 완료"
+    }
+  }
+}

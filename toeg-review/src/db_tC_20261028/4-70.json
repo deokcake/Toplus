@@ -1,0 +1,30 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "done": true,
+  "doneAt": "2026-10-25T14:35:57.054Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "(a), (b), (c)",
+      "1": "(a), (d), (e)",
+      "2": "(b), (c), (d)",
+      "3": "(a), (c), (e)",
+      "4": "(b), (d), (e)"
+    },
+    "expl": "핵심 규칙: few·a few·many는 셀 수 있는 명사의 복수형, little·a little·much는 셀 수 없는 명사와 함께 쓴다.\n풀이 순서: ① 밑줄 뒤의 명사가 셀 수 있는지 하나씩 본다. cups of water처럼 단위가 있으면 단위(cups)를 센다. → ② (b) a few bread(a little), (d) much friends(many)가 틀렸다. → ③ 옳은 것만 묶은 (a), (c), (e)가 정답이다.\n문장별 판정:\n(a) O. 셀 수 있는 명사 oranges에 a few를 썼다.\n(b) X. 셀 수 없는 명사 bread에는 a little을 쓴다.\n(c) O. 셀 수 없는 명사 time에 a little을 썼다.\n(d) X. 셀 수 있는 명사 friends에는 many를 쓴다.\n(e) O. 셀 수 있는 명사 books에 many를 썼다.\n정답 판단: 밑줄 친 부분의 쓰임이 옳은 문장은 (a), (c), (e)이다.\n선택지 분석:\n① [오답] (b)는 옳은 문장이 아니고, 옳은 문장 (e)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (d)는 옳은 문장이 아니고, 옳은 문장 (c)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (b), (d)는 옳은 문장이 아니고, 옳은 문장 (a), (e)를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 (a), (c), (e)를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] (b), (d)는 옳은 문장이 아니고, 옳은 문장 (a), (c)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(a) She bought <u>a few</u> oranges at the market.\n(b) He ate <u>a few</u> bread for breakfast.\n(c) We have <u>a little</u> time before the bus comes.\n(d) He has <u>much</u> friends in his class.\n(e) There are <u>many</u> books on the shelf.",
+    "stem": "다음 중 밑줄 친 부분의 쓰임이 어법상 옳은 것만 묶인 것은?"
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:35:56.194Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-25T14:35:57.054Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:35:57.054Z",
+      "what": "확인 완료"
+    }
+  }
+}

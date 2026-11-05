@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:48:43.765Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "a loaf of",
+      "1": "a bowl of",
+      "2": "a sheet of",
+      "3": "a slice of",
+      "4": "a pair of"
+    },
+    "expl": "핵심 규칙: 셀 수 없는 명사는 a/an이나 숫자를 바로 붙이지 않고 a bowl of, a glass of, a loaf of 같은 단위 표현으로 수량을 나타낸다.\n풀이 순서: ① 우리말에서 세는 단위를 찾는다: ‘한 그릇’. → ② 빈칸 뒤 명사(soup)는 셀 수 없으므로 단위 표현으로 센다. 그 단위에 맞는 표현은 a bowl of다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: a bowl of: 수프 한 그릇을 나타내므로 정답은 ②이다.\n선택지 분석:\n① [오답] a loaf of: 빵 덩어리를 세는 말이라 수프와 맞지 않으므로 오답이다.\n② [정답] a bowl of: 수프 한 그릇을 나타내므로 정답이다.\n③ [오답] a sheet of: 종이처럼 얇은 것을 세는 말이라 맞지 않으므로 오답이다.\n④ [오답] a slice of: 얇게 썬 조각을 세는 말이라 수프와 맞지 않으므로 오답이다.\n⑤ [오답] a pair of: 짝을 이루는 물건을 세는 말이라 맞지 않으므로 오답이다.",
+    "passage": "수프 한 그릇을 원해요.\nI'd like _____ soup, please.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T07:48:43.204Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T07:48:43.765Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T07:48:43.765Z",
+      "what": "확인 완료"
+    }
+  }
+}

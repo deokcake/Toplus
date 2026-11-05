@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T07:33:50.784Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "ⓐ, ⓑ",
+      "1": "ⓐ, ⓓ",
+      "2": "ⓑ, ⓒ",
+      "3": "ⓑ, ⓓ",
+      "4": "ⓒ, ⓓ"
+    },
+    "expl": "핵심 규칙: 장소는 on(표면·벽), in(공간 안·도시·강·하늘·물속), at(한 지점·at home·at school·at the gate), under(아래), between(둘 사이)으로 나타낸다.\n풀이 순서: ① 문장마다 전치사 뒤의 장소가 표면인지, 공간의 안인지, 한 지점인지 가른다. → ② ⓐ on home(at home), ⓓ on the door(at the door)가 틀렸다. → ③ 옳은 문장만 고른 ⓑ, ⓒ가 정답이다.\n문장별 판정:\nⓐ X. ‘집에’는 at home으로 쓴다.\nⓑ O. 둘 사이에는 between을 쓴다.\nⓒ O. 강물 속에는 in을 쓴다.\nⓓ X. 문 앞 한 지점은 at the door로 쓴다.\n정답 판단: 장소 전치사가 옳은 문장은 ⓑ, ⓒ이다.\n선택지 분석:\n① [오답] ⓐ는 옳은 문장이 아니고, 옳은 문장 ⓒ를 빠뜨렸다. 따라서 오답이다.\n② [오답] ⓐ, ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓑ, ⓒ를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 옳은 문장 ⓑ, ⓒ를 빠짐없이 골랐으므로 정답이다.\n④ [오답] ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓒ를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓑ를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "ⓐ Jane is on home.\nⓑ The bag is between the two desks.\nⓒ The fish are in the river.\nⓓ He is waiting on the door.",
+    "stem": "다음 중 장소 전치사의 쓰임이 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:33:33.186Z"
+  },
+  "tab": "el3qe2ii",
+  "updatedAt": "2026-10-27T07:33:50.785Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:33:50.785Z",
+      "what": "확인 완료"
+    }
+  }
+}

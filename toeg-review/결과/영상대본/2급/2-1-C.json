@@ -1,0 +1,181 @@
+{
+ "key": "2-1",
+ "type": "C",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "title": "became dark와 같은 2형식",
+ "total_sec": 118,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 9,
+   "screen": {
+    "text": "2급 · CH 1 문장의 형식 · 1번 · C 유형\n\n이 문제는 주어진 문장과 형식이 같은 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 1 문장의 형식 · 1번 · C 유형",
+     "이 문제는 주어진 문장과 형식이 같은 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 1, 1번 C 유형. 이 문제는 주어진 문장과 형식이 같은 문장을 고르는 문제예요.",
+   "caption": "became dark와 같은 2형식"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 19,
+   "screen": {
+    "text": "다음 주어진 문장의 형식과 같은 것을 고르시오.\n\nThe sky became dark.\n\n① Leo sent his friend a message.\n② We found the room empty.\n③ The train arrived late.\n④ The water turned cold.\n⑤ The dog chased the ball.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+     "The sky became dark.",
+     "① Leo sent his friend a message.",
+     "② We found the room empty.",
+     "③ The train arrived late.",
+     "④ The water turned cold.",
+     "⑤ The dog chased the ball."
+    ]
+   },
+   "narration": "다음 주어진 문장의 형식과 같은 것을 고르시오. The sky became dark. 하늘이 어두워졌어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 27,
+   "screen": {
+    "text": "핵심 규칙\n2형식 = 주어 + 동사 + 주격 보어\n주격 보어: 주어의 상태나 성질을 설명하는 말\nbecome, turn, grow, seem, look, sound, smell, stay 뒤에서 주어를 설명하는 형용사 = 주격 보어\n동사 뒤에 목적어 → 3·4·5형식 / 부사(구)만 → 1형식\n예) The weather became warm. (날씨가 따뜻해졌어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "2형식 = 주어 + 동사 + 주격 보어",
+     "주격 보어: 주어의 상태나 성질을 설명하는 말",
+     "become, turn, grow, seem, look, sound, smell, stay 뒤에서 주어를 설명하는 형용사 = 주격 보어",
+     "동사 뒤에 목적어 → 3·4·5형식 / 부사(구)만 → 1형식",
+     "예) The weather became warm. (날씨가 따뜻해졌어요.)"
+    ]
+   },
+   "narration": "2형식은 주어, 동사, 그리고 주어를 설명하는 주격 보어로 된 문장이에요. become, turn, look 같은 동사 뒤에 형용사가 와서 주어의 상태를 설명하면 2형식이에요. The weather became warm. 날씨가 따뜻해졌어요. 동사 뒤에 목적어가 오면 3, 4, 5형식이고, 부사나 부사구만 오면 1형식이에요.",
+   "caption": "2형식 = 주어 + 동사 + 주격 보어"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 30,
+   "screen": {
+    "text": "다음 주어진 문장의 형식과 같은 것을 고르시오.\n\nThe sky became dark.\n\n① Leo sent his friend a message.\n② We found the room empty.\n③ The train arrived late.\n④ The water turned cold.\n⑤ The dog chased the ball.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "became dark"
+      ],
+      "strike": [],
+      "note": "주어진 문장: became 뒤 형용사 dark가 주어 The sky를 설명 → 2형식"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "his friend a message",
+       "the room empty",
+       "arrived late",
+       "the ball"
+      ],
+      "strike": [
+       "① Leo sent his friend a message.",
+       "② We found the room empty.",
+       "③ The train arrived late.",
+       "⑤ The dog chased the ball."
+      ],
+      "note": "①②⑤ 동사 뒤 목적어(4·5·3형식), ③ late = ‘늦게’, arrived를 꾸미는 부사(1형식) → 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "turned cold"
+      ],
+      "strike": [],
+      "note": "남는 것은 ④ turned 뒤 형용사 cold가 주어를 설명 → 2형식"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 주어진 문장에서 became 뒤의 형용사 dark가 주어 The sky를 설명하니까 2형식이에요. 둘째, 1번, 2번, 5번은 동사 뒤에 목적어가 있고, 3번의 late는 arrived를 꾸미는 부사라서 2형식이 아니에요. 셋째, 남은 4번은 turned 뒤의 형용사 cold가 주어를 설명하는 2형식이에요. The water turned cold. 물이 차가워졌어요.",
+   "caption": "목적어·부사 걸러 내기 → turned cold"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 23,
+   "screen": {
+    "text": "① Leo sent his friend a message.  ✗  목적어 두 개(his friend, a message) → 4형식\n② We found the room empty.  ✗  empty는 목적어 the room을 설명 → 5형식\n③ The train arrived late.  ✗  late는 arrived를 꾸미는 부사(늦게) → 1형식\n④ The water turned cold.  ✓  turned 뒤 형용사 cold가 주어를 설명 → 2형식\n⑤ The dog chased the ball.  ✗  chased 뒤에 목적어 the ball → 3형식",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Leo sent his friend a message.  ✗  목적어 두 개(his friend, a message) → 4형식",
+     "② We found the room empty.  ✗  empty는 목적어 the room을 설명 → 5형식",
+     "③ The train arrived late.  ✗  late는 arrived를 꾸미는 부사(늦게) → 1형식",
+     "④ The water turned cold.  ✓  turned 뒤 형용사 cold가 주어를 설명 → 2형식",
+     "⑤ The dog chased the ball.  ✗  chased 뒤에 목적어 the ball → 3형식"
+    ]
+   },
+   "narration": "정답은 4번이에요. 3번을 고르기 쉬운데, The train arrived late는 기차가 늦게 도착했다는 뜻이에요. 여기서 late는 형용사가 아니라 arrived를 꾸미는 부사라서 1형식이에요. 2번의 empty는 주어가 아니라 목적어 the room을 설명하는 목적격 보어라서 5형식이에요.",
+   "caption": "정답 ④ turned cold"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ④ The water turned cold.\n\n동사 뒤의 형용사가 주어를 설명하면 → 2형식 (주어 + 동사 + 주격 보어)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ The water turned cold.",
+     "동사 뒤의 형용사가 주어를 설명하면 → 2형식 (주어 + 동사 + 주격 보어)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, become, turn 같은 동사 뒤의 형용사가 주어를 설명하면 2형식이에요.",
+   "caption": "형용사가 주어 설명 → 2형식"
+  }
+ ],
+ "source": {
+  "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+  "passage": "The sky became dark.",
+  "c": [
+   "Leo sent his friend a message.",
+   "We found the room empty.",
+   "The train arrived late.",
+   "The water turned cold.",
+   "The dog chased the ball."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 제시문과 각 선택지를 명사구 단위로 S·V·O·C로 나누어 1~5형식을 판정한다. 연결동사 뒤의 형용사는 주격보어이며, 장소·시간·방법 표현은 보통 부사어이다.\n풀이 순서: ① 주어진 문장의 동사(became) 뒤에 오는 형용사(dark)가 주어의 상태를 설명한다. 2형식이다. → ② 보기에서 동사 뒤의 말을 본다. 목적어(명사)가 오면 3·4·5형식이고, 부사(구)만 오면 1형식이다. → ③ 선택지 ④만 ‘동사 + 형용사 보어’(turned cold) 구조다.\n문장별 판정:\n정답 판단: ‘The water turned cold’는 The water(S) + turned(V) + cold(C)의 2형식이다. 연결동사 뒤의 보어가 주어의 상태·성질을 설명한다. 제시문의 형식은 2형식이다. 정답 선택지만 제시문과 같은 2형식이므로 정답이다.\n선택지 분석:\n① [오답] ‘Leo sent his friend a message’는 Leo(S) + sent(V) + his friend(IO) + a message(DO)의 4형식이다. 간접목적어와 직접목적어가 차례로 온다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n② [오답] ‘We found the room empty’는 We(S) + found(V) + the room(O) + empty(OC)의 5형식이다. 목적격보어가 목적어의 상태·신분·행동을 설명한다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n③ [오답] ‘The train arrived late’는 The train(S) + arrived(V) + 부사어의 1형식이다. 뒤의 표현이 있다면 부사어로 핵심 형식에 포함되지 않는다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n④ [정답] ‘The water turned cold’는 The water(S) + turned(V) + cold(C)의 2형식이다. 연결동사 뒤의 보어가 주어의 상태·성질을 설명한다. 제시문의 형식은 2형식이다. 같은 형식이므로 정답이다.\n⑤ [오답] ‘The dog chased the ball’은 The dog(S) + chased(V) + the ball(O)의 3형식이다. 동사 뒤의 명사구가 목적어이다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다."
+ }
+}

@@ -1,0 +1,177 @@
+{
+ "key": "3-11",
+ "type": "A",
+ "grade": 3,
+ "chapter": "CH 2 일반동사",
+ "title": "They went 문장의 과거 부정문",
+ "total_sec": 135,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "3급 · CH 2 일반동사 · 11번\n\n이 문제는 일반동사 과거형 went가 쓰인 문장을 과거 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 2 일반동사 · 11번",
+     "이 문제는 일반동사 과거형 went가 쓰인 문장을 과거 부정문으로 바르게 바꾼 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 2, 11번. 이 문제는 일반동사 과거형 went가 쓰인 문장을 과거 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+   "caption": "They went 문장의 과거 부정문"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 문장을 과거 부정문으로 올바르게 바꾼 것을 고르시오.\n\nThey went to the park.\n\n① They didn't went to the park.\n② They didn't go to the park.\n③ They don't went to the park.\n④ They not went to the park.\n⑤ They didn't going to the park.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장을 과거 부정문으로 올바르게 바꾼 것을 고르시오.",
+     "They went to the park.",
+     "① They didn't went to the park.",
+     "② They didn't go to the park.",
+     "③ They don't went to the park.",
+     "④ They not went to the park.",
+     "⑤ They didn't going to the park."
+    ]
+   },
+   "narration": "다음 문장을 과거 부정문으로 올바르게 바꾼 것을 고르세요. They went to the park. 그들은 공원에 갔어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n일반동사 과거 문장의 부정문 → did not(didn't) + 동사원형\n주어가 누구든 didn't (I, he, they 모두 같아요)\ndidn't가 과거를 나타내니 동사는 원형으로 (made → make)\ndon't·doesn't(현재 부정), wasn't(be동사 was의 부정)는 쓰지 않아요\n예) He made a cake. → He didn't make a cake. (그는 케이크를 만들지 않았어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "일반동사 과거 문장의 부정문 → did not(didn't) + 동사원형",
+     "주어가 누구든 didn't (I, he, they 모두 같아요)",
+     "didn't가 과거를 나타내니 동사는 원형으로 (made → make)",
+     "don't·doesn't(현재 부정), wasn't(be동사 was의 부정)는 쓰지 않아요",
+     "예) He made a cake. → He didn't make a cake. (그는 케이크를 만들지 않았어요.)"
+    ]
+   },
+   "narration": "일반동사 과거 문장의 부정문은 주어와 관계없이 did not, 줄여서 didn't를 동사 앞에 써요. didn't가 과거를 나타내니 뒤의 동사는 원형으로 되돌려요. 현재 부정 don't, doesn't나 be동사 부정 wasn't는 쓰지 않아요. 예를 들어 He made a cake의 부정문은 He didn't make a cake예요. 그는 케이크를 만들지 않았어요.",
+   "caption": "과거 부정문은 didn't + 동사원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 문장을 과거 부정문으로 올바르게 바꾼 것을 고르시오.\n\nThey went to the park.\n\n① They didn't went to the park.\n② They didn't go to the park.\n③ They don't went to the park.\n④ They not went to the park.\n⑤ They didn't going to the park.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "They went to the park."
+      ],
+      "strike": [
+       "④ They not went to the park.",
+       "③ They don't went to the park."
+      ],
+      "note": "went는 일반동사 go의 과거형 → 부정은 didn't. not만 쓴 ④, 현재 부정 don't를 쓴 ③을 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① They didn't went to the park.",
+       "⑤ They didn't going to the park."
+      ],
+      "note": "didn't 뒤에는 동사원형 → 과거형 went를 쓴 ①, ing형 going을 쓴 ⑤를 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② They didn't go to the park."
+      ],
+      "strike": [],
+      "note": "남는 것은 ② didn't + 동사원형 go → They didn't go to the park."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, went는 일반동사 go의 과거형이라 부정문에는 didn't가 필요해요. didn't 없이 not만 넣은 4번과, 현재 부정 don't를 쓴 3번을 지워요. 둘째, didn't 뒤에는 동사원형이 와야 하니, 과거형 went를 쓴 1번과 ing형 going을 쓴 5번을 지워요. 셋째, 남은 2번은 didn't 뒤에 동사원형 go를 썼어요. They didn't go to the park. 그들은 공원에 가지 않았어요.",
+   "caption": "didn't 필요 → 동사원형 → go"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 25,
+   "screen": {
+    "text": "① They didn't went to the park.  ✗  didn't 뒤에 과거형 went를 썼어요\n② They didn't go to the park.  ✓  didn't + 동사원형 go\n③ They don't went to the park.  ✗  don't는 현재 부정이에요 (went도 틀려요)\n④ They not went to the park.  ✗  didn't 없이 not만 넣었어요\n⑤ They didn't going to the park.  ✗  didn't 뒤에 ing형 going을 썼어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① They didn't went to the park.  ✗  didn't 뒤에 과거형 went를 썼어요",
+     "② They didn't go to the park.  ✓  didn't + 동사원형 go",
+     "③ They don't went to the park.  ✗  don't는 현재 부정이에요 (went도 틀려요)",
+     "④ They not went to the park.  ✗  didn't 없이 not만 넣었어요",
+     "⑤ They didn't going to the park.  ✗  didn't 뒤에 ing형 going을 썼어요"
+    ]
+   },
+   "narration": "정답은 2번이에요. 1번은 didn't 뒤에 과거형 went를 그대로 써서 틀렸어요. 동사는 원형 go로 되돌려야 해요. 4번은 didn't 없이 not만 넣었는데, 일반동사의 과거 문장은 not만으로는 부정문이 되지 않아요. 3번 don't는 현재 부정이라 과거 문장과 맞지 않아요.",
+   "caption": "정답 ② didn't go"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ② They didn't go to the park.\n\n일반동사 과거 부정문 → 주어와 관계없이 didn't + 동사원형",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② They didn't go to the park.",
+     "일반동사 과거 부정문 → 주어와 관계없이 didn't + 동사원형"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 일반동사의 과거 문장을 부정문으로 바꿀 때는 주어와 관계없이 didn't 뒤에 동사원형을 써요.",
+   "caption": "didn't + 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장을 과거 부정문으로 올바르게 바꾼 것을 고르시오.",
+  "passage": "They went to the park.",
+  "c": [
+   "They didn't went to the park.",
+   "They didn't go to the park.",
+   "They don't went to the park.",
+   "They not went to the park.",
+   "They didn't going to the park."
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 일반동사의 과거 부정문은 주어와 관계없이 ‘didn't + 동사원형’이다.\n풀이 순서: ① 과거 부정문은 ‘didn't + 동사원형’이다. 주어와 관계없이 didn't를 쓴다. → ② 과거형 동사(went)를 원형(go)으로 되돌린다. → ③ didn't 뒤에 과거형을 그대로 둔 것, don't·wasn't를 쓴 것은 지운다. 정답은 ②.\n문장별 판정:\n정답 판단: didn't + 동사원형 go로 바르게 바꿨으므로 정답은 ②이다.\n선택지 분석:\n① [오답] didn't 뒤에 과거형 went를 쓸 수 없으므로 오답이다.\n② [정답] didn't + 동사원형 go로 바르게 바꿨으므로 정답이다.\n③ [오답] 과거 부정문에 don't를 쓸 수 없고 went도 틀렸으므로 오답이다.\n④ [오답] not만으로는 일반동사를 부정할 수 없으므로 오답이다.\n⑤ [오답] didn't 뒤에 -ing를 쓸 수 없으므로 오답이다."
+ }
+}

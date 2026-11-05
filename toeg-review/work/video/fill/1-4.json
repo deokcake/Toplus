@@ -1,0 +1,470 @@
+{
+ "A": {
+  "title": "전치사 없이 목적어를 받는 동사",
+  "intro": "이 문제는 목적어를 바로 받는 동사 뒤에 전치사가 잘못 붙지 않은 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사가 올바르게 사용된 문장을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "목적어를 바로 받는 동사: 동사 바로 뒤에 전치사 없이 목적어",
+    "discuss(논의하다), resemble(닮다), marry(결혼하다)",
+    "reach(도착하다), attend(참석하다)",
+    "우리말 ‘~에 대해, ~와, ~에’로 옮겨져도 about, to, with를 넣지 않아요",
+    "예) Many people attended the concert. (많은 사람이 그 콘서트에 참석했어요.)"
+   ],
+   "narration": "discuss, resemble, marry, 그리고 도착하다라는 뜻의 reach와 참석하다라는 뜻의 attend는 목적어를 전치사 없이 바로 뒤에 써요. 우리말로는 문제에 대해 논의하다, 엄마와 닮다처럼 말하지만, 영어에서는 about, to, with를 넣지 않아요. 예를 들어 Many people attended the concert. 많은 사람이 그 콘서트에 참석했어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 동사 바로 뒤를 본다: 전치사가 끼어 있나?",
+    "highlight": [
+     "marry with",
+     "discussed about",
+     "resembles to",
+     "reached to",
+     "discuss the proposal"
+    ],
+    "strike": [],
+    "narration": "첫째, 동사 바로 뒤를 보면 1번 marry with, 2번 discussed about, 3번 resembles to, 4번 reached to처럼 전치사가 끼어 있어요."
+   },
+   {
+    "note": "marry·discuss·resemble·reach(도착하다)는 목적어를 바로 받음 → ①~④ 지움",
+    "highlight": [],
+    "strike": [
+     "① My cousin will marry with a pilot next month.",
+     "② They discussed about the new project yesterday.",
+     "③ She resembles to her mother in many ways.",
+     "④ The hikers finally reached to the mountain top."
+    ],
+    "narration": "둘째, 이 네 동사는 목적어를 바로 받으니 1번부터 4번까지는 모두 틀렸어요."
+   },
+   {
+    "note": "⑤ discuss + the proposal: 전치사 없이 목적어 → 정답",
+    "highlight": [
+     "⑤ The committee will discuss the proposal tomorrow."
+    ],
+    "strike": [],
+    "narration": "셋째, 5번은 discuss 바로 뒤에 목적어 the proposal이 와요. The committee will discuss the proposal tomorrow. 위원회는 내일 그 제안에 대해 논의할 거예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① My cousin will marry with a pilot next month.  ✗  결혼 상대 앞 with 불필요: marry a pilot",
+    "② They discussed about the new project yesterday.  ✗  논의할 대상 앞 about 불필요: discussed the new project",
+    "③ She resembles to her mother in many ways.  ✗  닮은 사람 앞 to 불필요: resembles her mother",
+    "④ The hikers finally reached to the mountain top.  ✗  도착한 곳 앞 to 불필요: reached the mountain top",
+    "⑤ The committee will discuss the proposal tomorrow.  ✓  discuss 바로 뒤에 목적어 the proposal"
+   ],
+   "narration": "정답은 5번이에요. 2번은 새 프로젝트에 대해 논의했다는 우리말 때문에 about을 넣기 쉽지만, discussed the new project가 맞아요. 1번은 조종사와 결혼한다는 뜻 때문에 with를 넣었지만, marry a pilot이 맞아요. 3번도 to를 빼고 resembles her mother라고 써요."
+  },
+  "summary": {
+   "card": "discuss, resemble, marry, reach(도착하다) → 전치사 없이 바로 목적어",
+   "narration": "정답은 5번이에요. 기억할 것, discuss, resemble, marry, 그리고 도착하다라는 뜻의 reach는 전치사 없이 목적어를 써요."
+  },
+  "captions": [
+   "목적어를 바로 받는 동사",
+   "먼저 풀어 보세요",
+   "전치사 없이 바로 목적어",
+   "전치사 찾기 → ①~④ 지우기 → ⑤",
+   "정답 ⑤",
+   "discuss·resemble·marry·reach + 목적어"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   24,
+   10
+  ]
+ },
+ "B": {
+  "title": "전치사 없이 목적어를 받는 동사",
+  "intro": "이 문제는 목적어를 바로 받는 동사가 전치사 없이 바르게 쓰인 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사가 올바르게 사용된 문장을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "목적어를 바로 받는 동사: 동사 바로 뒤에 전치사 없이 목적어",
+    "reach(도착하다), enter(들어가다), approach(다가가다)",
+    "discuss(논의하다), resemble(닮다), attend(참석하다)",
+    "우리말 ‘~에, ~에 대해, ~와’로 옮겨져도 at, to, with를 넣지 않아요",
+    "예) We attended the meeting. (우리는 그 회의에 참석했어요.)"
+   ],
+   "narration": "reach가 도착하다, enter가 들어가다, approach가 다가가다라는 뜻일 때는 목적어를 전치사 없이 바로 뒤에 써요. discuss, resemble, 그리고 참석하다라는 뜻의 attend도 마찬가지예요. 우리말로는 집에 도착하다, 아빠와 닮다처럼 말해도 at, to, with를 넣지 않아요. 예를 들어 We attended the meeting. 우리는 그 회의에 참석했어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 동사 바로 뒤를 본다: 전치사가 끼어 있나?",
+    "highlight": [
+     "reached at",
+     "entered to",
+     "resembles with",
+     "approached to",
+     "discussed the article"
+    ],
+    "strike": [],
+    "narration": "첫째, 동사 바로 뒤를 보면 1번 reached at, 3번 entered to, 4번 resembles with, 5번 approached to처럼 전치사가 끼어 있어요."
+   },
+   {
+    "note": "reach(도착하다)·enter(들어가다)·resemble·approach(다가가다)는 목적어를 바로 받음 → ①③④⑤ 지움",
+    "highlight": [],
+    "strike": [
+     "① Tom reached at home.",
+     "③ The students entered to the classroom quietly.",
+     "④ He resembles with his father.",
+     "⑤ They approached to the gate."
+    ],
+    "narration": "둘째, 이 네 동사는 목적어를 바로 받으니 1번, 3번, 4번, 5번은 모두 틀렸어요."
+   },
+   {
+    "note": "② discuss + the article: 전치사 없이 목적어 → 정답",
+    "highlight": [
+     "② The class discussed the article in detail."
+    ],
+    "strike": [],
+    "narration": "셋째, 2번은 discuss 바로 뒤에 목적어 the article이 와요. The class discussed the article in detail. 반 학생들은 그 기사에 대해 자세히 논의했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Tom reached at home.  ✗  도착한 곳 앞 at 불필요: reached home",
+    "② The class discussed the article in detail.  ✓  discuss 바로 뒤에 목적어 the article",
+    "③ The students entered to the classroom quietly.  ✗  들어가는 곳 앞 to 불필요: entered the classroom",
+    "④ He resembles with his father.  ✗  닮은 사람 앞 with 불필요: resembles his father",
+    "⑤ They approached to the gate.  ✗  다가가는 대상 앞 to 불필요: approached the gate"
+   ],
+   "narration": "정답은 2번이에요. 3번은 교실로 들어갔다는 우리말 때문에 to를 넣기 쉽지만, entered the classroom이 맞아요. 5번도 to를 빼고 approached the gate라고 써요. 4번 역시 with를 빼고 resembles his father가 맞아요."
+  },
+  "summary": {
+   "card": "reach(도착하다), enter(들어가다), approach(다가가다), discuss, resemble → 바로 목적어",
+   "narration": "정답은 2번이에요. 기억할 것, discuss와 resemble, 도착하다의 reach, 들어가다의 enter, 다가가다의 approach는 전치사 없이 써요."
+  },
+  "captions": [
+   "목적어를 바로 받는 동사",
+   "먼저 풀어 보세요",
+   "전치사 없이 바로 목적어",
+   "전치사 찾기 → 넷 지우기 → ②",
+   "정답 ②",
+   "reach·enter·approach + 목적어"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   24,
+   10
+  ]
+ },
+ "C": {
+  "title": "전치사 없이 목적어를 받는 동사",
+  "intro": "이 문제는 목적어를 바로 받는 동사 뒤에 전치사가 잘못 붙지 않은 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사가 올바르게 사용된 문장을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "목적어를 바로 받는 동사: 동사 바로 뒤에 전치사 없이 목적어",
+    "consider(고려하다, 검토하다), resemble(닮다)",
+    "reach(도착하다), approach(다가가다), attend(참석하다)",
+    "우리말 ‘~에 대해, ~와, ~에’로 옮겨져도 about, to를 넣지 않아요",
+    "예) Many students attended the festival. (많은 학생이 그 축제에 참석했어요.)"
+   ],
+   "narration": "consider와 resemble은 목적어를 전치사 없이 바로 뒤에 써요. 도착하다라는 뜻의 reach, 다가가다라는 뜻의 approach, 참석하다라는 뜻의 attend도 마찬가지예요. 우리말로는 제안에 대해 검토하다, 엄마와 닮다처럼 말하지만, 영어에서는 about이나 to를 넣지 않아요. 예를 들어 Many students attended the festival. 많은 학생이 그 축제에 참석했어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 동사 바로 뒤를 본다: 전치사가 끼어 있나?",
+    "highlight": [
+     "approached to",
+     "reached to",
+     "resembles to",
+     "considered about"
+    ],
+    "strike": [],
+    "narration": "첫째, 동사 바로 뒤를 보면 2번 approached to, 3번 reached to, 4번 resembles to, 5번 considered about처럼 전치사가 끼어 있어요."
+   },
+   {
+    "note": "approach(다가가다)·reach(도착하다)·resemble은 목적어를 바로 받음 → ②③④ 지움",
+    "highlight": [],
+    "strike": [
+     "② We approached to the entrance.",
+     "③ The hikers reached to the shelter.",
+     "④ She resembles to her aunt."
+    ],
+    "narration": "둘째, approach, reach, resemble은 목적어를 바로 받으니 2번, 3번, 4번은 틀렸어요."
+   },
+   {
+    "note": "①과 ⑤: consider 뒤 about이 있나 → consider는 검토할 대상을 바로 목적어로 → ⑤ 지움, ① 정답",
+    "highlight": [
+     "considered the proposal"
+    ],
+    "strike": [
+     "⑤ The panel considered about the proposal."
+    ],
+    "narration": "셋째, 1번과 5번은 consider 뒤에 about이 있느냐가 달라요. consider도 목적어를 바로 받으니 5번은 틀리고 1번이 맞아요. The panel considered the proposal yesterday. 위원단은 어제 그 제안을 검토했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The panel considered the proposal yesterday.  ✓  consider 바로 뒤에 목적어 the proposal",
+    "② We approached to the entrance.  ✗  다가가는 대상 앞 to 불필요: approached the entrance",
+    "③ The hikers reached to the shelter.  ✗  도착한 곳 앞 to 불필요: reached the shelter",
+    "④ She resembles to her aunt.  ✗  닮은 사람 앞 to 불필요: resembles her aunt",
+    "⑤ The panel considered about the proposal.  ✗  검토할 대상 앞 about 불필요: considered the proposal"
+   ],
+   "narration": "정답은 1번이에요. 5번은 제안에 대해 검토했다는 우리말 때문에 about을 넣기 쉽지만, consider는 목적어를 바로 받아요. 4번은 to를 빼고 resembles her aunt라고 써요. 2번도 to를 빼고 approached the entrance가 맞아요."
+  },
+  "summary": {
+   "card": "consider, resemble, reach(도착하다), approach(다가가다) → 바로 목적어",
+   "narration": "정답은 1번이에요. 기억할 것, consider, resemble, 도착하다의 reach, 다가가다의 approach는 전치사 없이 목적어를 써요."
+  },
+  "captions": [
+   "목적어를 바로 받는 동사",
+   "먼저 풀어 보세요",
+   "전치사 없이 바로 목적어",
+   "전치사 찾기 → ①과 ⑤ 비교 → ①",
+   "정답 ①",
+   "consider·resemble·reach·approach + 목적어"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   24,
+   10
+  ]
+ },
+ "D": {
+  "title": "전치사 없이 목적어를 받는 동사",
+  "intro": "이 문제는 목적어를 바로 받는 동사가 전치사 없이 바르게 쓰인 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사가 올바르게 사용된 문장을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "목적어를 바로 받는 동사: 동사 바로 뒤에 전치사 없이 목적어",
+    "discuss(논의하다), marry(결혼하다)",
+    "reach(도착하다), approach(다가가다), enter(들어가다)",
+    "우리말 ‘~에 대해, ~와, ~에’로 옮겨져도 about, with, at, into를 넣지 않아요",
+    "예) Jane married a teacher. (제인은 교사와 결혼했어요.)"
+   ],
+   "narration": "discuss와 marry는 목적어를 전치사 없이 바로 뒤에 써요. 도착하다라는 뜻의 reach, 다가가다라는 뜻의 approach, 들어가다라는 뜻의 enter도 마찬가지예요. 우리말로는 문제에 대해 논의하다, 의사와 결혼하다처럼 말하지만, 영어에서는 about이나 with를 넣지 않아요. 예를 들어 Jane married a teacher. 제인은 교사와 결혼했어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 동사 바로 뒤를 본다: 전치사가 끼어 있나?",
+    "highlight": [
+     "discussed about",
+     "reached at",
+     "married with",
+     "entered into",
+     "approached the entrance"
+    ],
+    "strike": [],
+    "narration": "첫째, 동사 바로 뒤를 보면 1번 discussed about, 2번 reached at, 3번 married with, 5번 entered into처럼 전치사가 끼어 있어요."
+   },
+   {
+    "note": "discuss·reach(도착하다)·marry·enter(들어가다)는 목적어를 바로 받음 → ①②③⑤ 지움",
+    "highlight": [],
+    "strike": [
+     "① We discussed about the problem with our teacher yesterday.",
+     "② He finally reached at the station after a long walk.",
+     "③ She married with a doctor from her hometown last year.",
+     "⑤ They entered into the hall before the concert started."
+    ],
+    "narration": "둘째, 이 네 동사는 목적어를 바로 받으니 1번, 2번, 3번, 5번은 모두 틀렸어요."
+   },
+   {
+    "note": "④ approach + the entrance: 전치사 없이 목적어 → 정답",
+    "highlight": [
+     "④ We approached the entrance of the old museum quietly."
+    ],
+    "strike": [],
+    "narration": "셋째, 4번은 approach 바로 뒤에 목적어 the entrance가 와요. We approached the entrance of the old museum quietly. 우리는 오래된 박물관 입구로 조용히 다가갔어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① We discussed about the problem with our teacher yesterday.  ✗  논의할 대상 앞 about 불필요: discussed the problem",
+    "② He finally reached at the station after a long walk.  ✗  도착한 곳 앞 at 불필요: reached the station",
+    "③ She married with a doctor from her hometown last year.  ✗  결혼 상대 앞 with 불필요: married a doctor",
+    "④ We approached the entrance of the old museum quietly.  ✓  approach 바로 뒤에 목적어 the entrance",
+    "⑤ They entered into the hall before the concert started.  ✗  들어가는 곳 앞 into 불필요: entered the hall"
+   ],
+   "narration": "정답은 4번이에요. 5번은 홀 안으로 들어갔다는 뜻 때문에 into를 넣기 쉽지만, entered the hall이 맞아요. 3번은 의사와 결혼했다는 우리말 때문에 with를 넣었지만, married a doctor가 맞아요. 1번도 about을 빼고 discussed the problem이라고 써요."
+  },
+  "summary": {
+   "card": "discuss, marry, reach(도착하다), approach(다가가다), enter(들어가다) → 바로 목적어",
+   "narration": "정답은 4번이에요. 기억할 것, discuss와 marry, 도착하다의 reach, 다가가다의 approach, 들어가다의 enter는 전치사 없이 써요."
+  },
+  "captions": [
+   "목적어를 바로 받는 동사",
+   "먼저 풀어 보세요",
+   "전치사 없이 바로 목적어",
+   "전치사 찾기 → 넷 지우기 → ④",
+   "정답 ④",
+   "discuss·marry·reach·approach·enter + 목적어"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   24,
+   10
+  ]
+ },
+ "E": {
+  "title": "전치사 없이 목적어를 받는 동사",
+  "intro": "이 문제는 목적어를 바로 받는 동사 뒤에 전치사가 잘못 붙지 않은 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사가 올바르게 사용된 문장을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "목적어를 바로 받는 동사: 동사 바로 뒤에 전치사 없이 목적어",
+    "resemble(닮다), discuss(논의하다)",
+    "reach(도착하다), approach(다가가다), attend(참석하다)",
+    "우리말 ‘~와, ~에 대해, ~에’로 옮겨져도 to, about, at을 넣지 않아요",
+    "예) Many people attended the wedding. (많은 사람이 그 결혼식에 참석했어요.)"
+   ],
+   "narration": "resemble과 discuss는 목적어를 전치사 없이 바로 뒤에 써요. 도착하다라는 뜻의 reach, 다가가다라는 뜻의 approach, 참석하다라는 뜻의 attend도 마찬가지예요. 우리말로는 아빠와 닮다, 공항에 도착하다처럼 말하지만, 영어에서는 to나 at을 넣지 않아요. 예를 들어 Many people attended the wedding. 많은 사람이 그 결혼식에 참석했어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 동사 바로 뒤를 본다: 전치사가 끼어 있나?",
+    "highlight": [
+     "approached to",
+     "resembles to",
+     "discussed about",
+     "reached at",
+     "resembles her aunt"
+    ],
+    "strike": [],
+    "narration": "첫째, 동사 바로 뒤를 보면 1번 approached to, 2번 resembles to, 3번 discussed about, 4번 reached at처럼 전치사가 끼어 있어요."
+   },
+   {
+    "note": "approach(다가가다)·resemble·discuss·reach(도착하다)는 목적어를 바로 받음 → ①~④ 지움",
+    "highlight": [],
+    "strike": [
+     "① They approached to the desk.",
+     "② She resembles to her father.",
+     "③ We discussed about the issue.",
+     "④ We reached at the airport on time."
+    ],
+    "narration": "둘째, 이 네 동사는 목적어를 바로 받으니 1번부터 4번까지는 모두 틀렸어요."
+   },
+   {
+    "note": "⑤ resemble + her aunt: 전치사 없이 목적어 → 정답",
+    "highlight": [
+     "⑤ She resembles her aunt in many ways."
+    ],
+    "strike": [],
+    "narration": "셋째, 5번은 resemble 바로 뒤에 목적어 her aunt가 와요. She resembles her aunt in many ways. 그녀는 여러 면에서 이모를 닮았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① They approached to the desk.  ✗  다가가는 대상 앞 to 불필요: approached the desk",
+    "② She resembles to her father.  ✗  닮은 사람 앞 to 불필요: resembles her father",
+    "③ We discussed about the issue.  ✗  논의할 대상 앞 about 불필요: discussed the issue",
+    "④ We reached at the airport on time.  ✗  도착한 곳 앞 at 불필요: reached the airport",
+    "⑤ She resembles her aunt in many ways.  ✓  resemble 바로 뒤에 목적어 her aunt"
+   ],
+   "narration": "정답은 5번이에요. 2번은 아빠와 닮았다는 우리말 때문에 to를 넣기 쉽지만, resembles her father가 맞아요. 4번은 공항에 도착했다는 뜻 때문에 at을 넣었지만, reached the airport가 맞아요. 3번도 about을 빼고 discussed the issue라고 써요."
+  },
+  "summary": {
+   "card": "resemble, discuss, reach(도착하다), approach(다가가다) → 바로 목적어",
+   "narration": "정답은 5번이에요. 기억할 것, resemble, discuss, 도착하다의 reach, 다가가다의 approach는 전치사 없이 목적어를 써요."
+  },
+  "captions": [
+   "목적어를 바로 받는 동사",
+   "먼저 풀어 보세요",
+   "전치사 없이 바로 목적어",
+   "전치사 찾기 → ①~④ 지우기 → ⑤",
+   "정답 ⑤",
+   "resemble·discuss·reach·approach + 목적어"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   24,
+   10
+  ]
+ },
+ "F": {
+  "title": "전치사 없이 목적어를 받는 동사",
+  "intro": "이 문제는 목적어를 바로 받는 동사가 전치사 없이 바르게 쓰인 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 동사가 올바르게 사용된 문장을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "목적어를 바로 받는 동사: 동사 바로 뒤에 전치사 없이 목적어",
+    "marry(결혼하다), discuss(논의하다), resemble(닮다)",
+    "reach(도착하다), enter(들어가다)",
+    "우리말 ‘~와, ~에 대해, ~에’로 옮겨져도 with, about, into를 넣지 않아요",
+    "예) Tom resembles his grandfather. (톰은 할아버지와 닮았어요.)"
+   ],
+   "narration": "marry, discuss, resemble은 목적어를 전치사 없이 바로 뒤에 써요. 도착하다라는 뜻의 reach, 들어가다라는 뜻의 enter도 마찬가지예요. 우리말로는 피아니스트와 결혼하다, 방 안으로 들어가다처럼 말하지만, 영어에서는 with나 into를 넣지 않아요. 예를 들어 Tom resembles his grandfather. 톰은 할아버지와 닮았어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 동사 바로 뒤를 본다: 전치사가 끼어 있나?",
+    "highlight": [
+     "married with",
+     "discussed about",
+     "resembles with",
+     "entered into",
+     "reached the shelter"
+    ],
+    "strike": [],
+    "narration": "첫째, 동사 바로 뒤를 보면 1번 married with, 2번 discussed about, 4번 resembles with, 5번 entered into처럼 전치사가 끼어 있어요."
+   },
+   {
+    "note": "marry·discuss·resemble·enter(들어가다)는 목적어를 바로 받음 → ①②④⑤ 지움",
+    "highlight": [],
+    "strike": [
+     "① My aunt married with a famous pianist last spring.",
+     "② Mina discussed about the plan with her classmates.",
+     "④ She resembles with her older sister in many ways.",
+     "⑤ He entered into the room without knocking on the door."
+    ],
+    "narration": "둘째, 이 네 동사는 목적어를 바로 받으니 1번, 2번, 4번, 5번은 모두 틀렸어요."
+   },
+   {
+    "note": "③ reach + the shelter: 전치사 없이 목적어 → 정답",
+    "highlight": [
+     "③ The hikers reached the shelter on the mountain before dark."
+    ],
+    "strike": [],
+    "narration": "셋째, 3번은 reach 바로 뒤에 목적어 the shelter가 와요. The hikers reached the shelter on the mountain before dark. 등산객들은 어두워지기 전에 산속 대피소에 도착했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① My aunt married with a famous pianist last spring.  ✗  결혼 상대 앞 with 불필요: married a famous pianist",
+    "② Mina discussed about the plan with her classmates.  ✗  논의할 대상 앞 about 불필요: discussed the plan",
+    "③ The hikers reached the shelter on the mountain before dark.  ✓  reach 바로 뒤에 목적어 the shelter",
+    "④ She resembles with her older sister in many ways.  ✗  닮은 사람 앞 with 불필요: resembles her older sister",
+    "⑤ He entered into the room without knocking on the door.  ✗  들어가는 곳 앞 into 불필요: entered the room"
+   ],
+   "narration": "정답은 3번이에요. 5번은 방 안으로 들어갔다는 뜻 때문에 into를 넣기 쉽지만, entered the room이 맞아요. 1번은 피아니스트와 결혼했다는 우리말 때문에 with를 넣었지만, married a famous pianist가 맞아요. 4번도 with를 빼고 resembles her older sister라고 써요."
+  },
+  "summary": {
+   "card": "marry, discuss, resemble, reach(도착하다), enter(들어가다) → 바로 목적어",
+   "narration": "정답은 3번이에요. 기억할 것, marry, discuss, resemble, 도착하다의 reach, 들어가다의 enter는 전치사 없이 목적어를 써요."
+  },
+  "captions": [
+   "목적어를 바로 받는 동사",
+   "먼저 풀어 보세요",
+   "전치사 없이 바로 목적어",
+   "전치사 찾기 → 넷 지우기 → ③",
+   "정답 ③",
+   "marry·discuss·resemble·reach·enter + 목적어"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   24,
+   10
+  ]
+ }
+}

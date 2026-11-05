@@ -1,0 +1,40 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-21 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-04T10:55:09.721Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "your - 너의",
+      "1": "she - 그녀는",
+      "2": "his - 그의",
+      "3": "my - 나는",
+      "4": "they - 그들은"
+    },
+    "expl": "핵심 규칙: 대명사의 뜻: 주격(I, you, he, she, it, we, they)은 ‘~은/는’, 소유격(my, your, his, her, its, our, their)은 ‘~의’로 옮긴다.\n풀이 순서: ① 대명사마다 주격인지 소유격인지 가른다. → ② 우리말의 끝(‘~는’, ‘~의’)이 그 격과 맞는지 본다. → ③ my는 소유격인데 ‘나는’(주격)으로 옮겼다. 정답은 my - 나는.\n문장별 판정:\n정답 판단: my는 소유격이라 ‘나의’로 옮겨야 하므로 정답이다.\n선택지 분석:\n① [오답] your: ‘너의’로 바르게 옮겼으므로 오답이다.\n② [오답] she: ‘그녀는’으로 바르게 옮겼으므로 오답이다.\n③ [오답] his: ‘그의’로 바르게 옮겼으므로 오답이다.\n④ [정답] my는 소유격이라 ‘나의’로 옮겨야 하므로 정답이다.\n⑤ [오답] they: ‘그들은’으로 바르게 옮겼으므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 대명사와 우리말 뜻이 잘못 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-04T10:55:07.244Z"
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-20T08:59:56.198Z",
+      "text": "목적격은 7급에서 배우지 않습니다. 주격과 소유격 으로 바꿔요"
+    }
+  },
+  "tab": "n2uhrol0",
+  "updatedAt": "2026-10-21T04:33:01.000Z",
+  "verdict": "부적합",
+  "verdictAt": "2026-10-20T08:59:26.472Z",
+  "verdictBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-20T08:59:56.198Z",
+      "what": "메모 작성"
+    }
+  }
+}

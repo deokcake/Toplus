@@ -1,0 +1,86 @@
+{
+ "key": "6-34",
+ "grade": 6,
+ "chapter": "CH 4 일반동사",
+ "items": {
+  "A": {
+   "stem": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.",
+   "passage": "He walks to school.",
+   "c": [
+    "He walks to school?",
+    "Do he walks to school?",
+    "Does he walks to school?",
+    "Does he walk to school?",
+    "Did he walks to school?"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 일반동사 현재 의문문: Do/Does + 주어 + 동사원형 ~? 주어가 3인칭 단수면 Does를 쓰고 동사의 -s를 뗀다.\n풀이 순서: ① 주어와 동사를 본다: he / walks. → ② 주어에 맞는 조동사는 Does, 그 뒤의 동사는 원형 walk. → ③ Does + 주어 + walk ~?인 것을 고른다. 정답은 ④.\n문장별 판정:\n정답 판단: Does + he + 동사원형 walk로 바르게 바꿨으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 평서문 어순에 물음표만 붙였으므로 오답이다.\n② [오답] 3인칭 단수 주어 he에는 Does를 쓰고 동사원형을 써야 하므로 오답이다.\n③ [오답] Does 뒤에는 동사원형 walk를 써야 하므로 오답이다.\n④ [정답] Does + he + 동사원형 walk로 바르게 바꿨으므로 정답이다.\n⑤ [오답] 현재의 문장을 과거 Did로 바꿀 수 없고 동사원형도 아니므로 오답이다."
+  },
+  "B": {
+   "stem": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.",
+   "passage": "She likes apples.",
+   "c": [
+    "Does she like apples?",
+    "She likes apples?",
+    "Do she like apples?",
+    "Does she to like apples?",
+    "Does she likes apples?"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 현재형 일반동사 의문문은 Do/Does+주어+동사원형?이다. 원문의 현재 시제를 유지한다.\n풀이 순서: ① 주어와 동사를 본다: she / likes. → ② 주어에 맞는 조동사는 Does, 그 뒤의 동사는 원형 like. → ③ Does + 주어 + like ~?인 것을 고른다. 정답은 ①.\n문장별 판정:\n정답 판단: Does는 주어 she에 맞고, 뒤의 본동사 like도 원형이다. 어순은 Does+she+like이다. 따라서 정답은 ①이다.\n선택지 분석:\n① [정답] Does는 주어 she에 맞고, 뒤의 본동사 like도 원형이다. 어순은 Does+she+like이다.\n② [오답] 일반동사 문장을 의문문으로 바꿀 때는 Do/Does로 시작해야 한다. 평서문 어순에 물음표만 붙인 것은 올바르게 바꾼 의문문이 아니다.\n③ [오답] she의 현재 일반동사 의문문은 Does로 시작한다. Do를 Does로 고친다.\n④ [오답] Does 뒤에는 to부정사가 아니라 동사원형 like가 필요하다. Does she like apples?로 고친다.\n⑤ [오답] Does가 시제·인칭 정보를 나타내므로 본동사는 likes가 아니라 원형 like를 쓴다."
+  },
+  "C": {
+   "stem": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.",
+   "passage": "They play soccer.",
+   "c": [
+    "Do they plays soccer?",
+    "Do they play soccer?",
+    "Does they play soccer?",
+    "Are they play soccer?",
+    "They play soccer?"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 현재형 일반동사 문장을 의문문으로 바꿀 때는 Do/Does + 주어 + 동사원형 ~?으로 쓰고, 원래 문장의 현재 시제를 유지한다.\n풀이 순서: ① 주어와 동사를 본다: they / play. → ② 주어에 맞는 조동사는 Do, 그 뒤의 동사는 원형 play. → ③ Do + 주어 + play ~?인 것을 고른다. 정답은 ②.\n문장별 판정:\n정답 판단: 복수 주어 they에 Do + 동사원형 play로 바르게 바꿨으므로 정답은 ②이다.\n선택지 분석:\n① [오답] Do 뒤에는 동사원형 play를 써야 하므로 오답이다.\n② [정답] 복수 주어 they에 Do + 동사원형 play로 바르게 바꿨으므로 정답이다.\n③ [오답] 복수 주어 they에는 Does가 아니라 Do를 써야 하므로 오답이다.\n④ [오답] 일반동사 의문문에는 be동사 Are를 쓰지 않으므로 오답이다.\n⑤ [오답] 평서문 어순에 물음표만 붙였으므로 오답이다."
+  },
+  "D": {
+   "stem": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.",
+   "passage": "She drinks milk every morning.",
+   "c": [
+    "She drinks milk every morning?",
+    "Do she drink milk every morning?",
+    "Does she drinks milk every morning?",
+    "Does she drink milk every morning?",
+    "Did she drinks milk every morning?"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 현재형 일반동사 문장을 의문문으로 바꿀 때는 Do/Does + 주어 + 동사원형 ~?으로 쓰고, 원래 문장의 현재 시제를 유지한다.\n풀이 순서: ① 주어와 동사를 본다: she / drinks. → ② 주어에 맞는 조동사는 Does, 그 뒤의 동사는 원형 drink. → ③ Does + 주어 + drink ~?인 것을 고른다. 정답은 ④.\n문장별 판정:\n정답 판단: Does + 주어 + 동사원형 drink로 바르게 바꿨으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 평서문 어순에 물음표만 붙였으므로 오답이다.\n② [오답] 3인칭 단수 주어 she에는 Do가 아니라 Does를 써야 하므로 오답이다.\n③ [오답] Does 뒤에는 동사원형 drink를 써야 하므로 오답이다.\n④ [정답] Does + 주어 + 동사원형 drink로 바르게 바꿨으므로 정답이다.\n⑤ [오답] 현재 시제를 과거 Did로 바꿨고 Did 뒤에도 동사원형을 써야 하므로 오답이다."
+  },
+  "E": {
+   "stem": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.",
+   "passage": "Tom studies English.",
+   "c": [
+    "Does Tom studying English?",
+    "Tom studies English?",
+    "Does Tom study English?",
+    "Do Tom study English?",
+    "Does Tom studies English?"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 현재형 일반동사 의문문은 Do/Does+주어+동사원형?이다. 원문의 현재 시제를 유지한다.\n풀이 순서: ① 주어와 동사를 본다: Tom / studies. → ② 주어에 맞는 조동사는 Does, 그 뒤의 동사는 원형 study. → ③ Does + 주어 + study ~?인 것을 고른다. 정답은 ③.\n문장별 판정:\n정답 판단: Does는 주어 Tom에 맞고, 뒤의 본동사 study도 원형이다. 어순은 Does+Tom+study이다. 따라서 정답은 ③이다.\n선택지 분석:\n① [오답] Does가 시제·인칭 정보를 나타내므로 본동사는 studying이 아니라 원형 study를 쓴다.\n② [오답] 일반동사 문장을 의문문으로 바꿀 때는 Do/Does로 시작해야 한다. 평서문 어순에 물음표만 붙인 것은 올바르게 바꾼 의문문이 아니다.\n③ [정답] Does는 주어 Tom에 맞고, 뒤의 본동사 study도 원형이다. 어순은 Does+Tom+study이다.\n④ [오답] Tom의 현재 일반동사 의문문은 Does로 시작한다. Do를 Does로 고친다.\n⑤ [오답] Does가 시제·인칭 정보를 나타내므로 본동사는 studies가 아니라 원형 study를 쓴다."
+  },
+  "F": {
+   "stem": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.",
+   "passage": "You read books.",
+   "c": [
+    "Do you reads books?",
+    "Are you read books?",
+    "Does you read books?",
+    "You read books?",
+    "Do you read books?"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 현재형 일반동사 의문문은 Do/Does+주어+동사원형?이다. 원문의 현재 시제를 유지한다.\n풀이 순서: ① 주어와 동사를 본다: you / read. → ② 주어에 맞는 조동사는 Do, 그 뒤의 동사는 원형 read. → ③ Do + 주어 + read ~?인 것을 고른다. 정답은 ⑤.\n문장별 판정:\n정답 판단: Do는 주어 you에 맞고, 뒤의 본동사 read도 원형이다. 어순은 Do+you+read이다. 따라서 정답은 ⑤이다.\n선택지 분석:\n① [오답] Do가 시제·인칭 정보를 나타내므로 본동사는 reads가 아니라 원형 read를 쓴다.\n② [오답] you의 현재 일반동사 의문문은 Do로 시작한다. Are를 Do로 고친다.\n③ [오답] you의 현재 일반동사 의문문은 Do로 시작한다. Does를 Do로 고친다.\n④ [오답] 일반동사 문장을 의문문으로 바꿀 때는 Do/Does로 시작해야 한다. 평서문 어순에 물음표만 붙인 것은 올바르게 바꾼 의문문이 아니다.\n⑤ [정답] Do는 주어 you에 맞고, 뒤의 본동사 read도 원형이다. 어순은 Do+you+read이다."
+  }
+ },
+ "prior_review": {}
+}

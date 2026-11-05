@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T08:04:52.604Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": 3,
+    "c": {
+      "0": "ticket",
+      "1": "coin",
+      "2": "butter",
+      "3": "key",
+      "4": "map"
+    },
+    "expl": "핵심 규칙: a/an은 셀 수 있는 명사의 단수형 앞에만 쓴다. butter, water처럼 셀 수 없는 명사 앞에는 쓰지 않는다.\n풀이 순서: ① 빈칸 앞에 a가 있으므로 빈칸에는 셀 수 있는 명사의 단수형만 들어간다. → ② 보기 가운데 하나, 둘 셀 수 없는 것(물질·추상 명사)을 찾는다. → ③ butter는 물질이라 셀 수 없다(a piece of butter). 정답은 ③.\n문장별 판정:\n정답 판단: butter는 일정한 모양이 없는 물질이라 셀 수 없어 a 뒤에 쓸 수 없으므로 정답은 ③이다.\n선택지 분석:\n① [오답] ticket은 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다.\n② [오답] coin은 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다.\n③ [정답] butter는 일정한 모양이 없는 물질이라 셀 수 없어 a 뒤에 쓸 수 없으므로 정답이다.\n④ [오답] key는 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다.\n⑤ [오답] map은 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다.",
+    "passage": "She gave me a _______.",
+    "stem": "다음 빈칸에 들어갈 수 없는 것을 고르시오."
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T05:21:31.335Z",
+      "text": "3번 정답이 되는 advice는 해당레벨에서 등장하지 않는 단어이다. 해당문항 정답을 셀수없는 물질명사로 바꿔서 출제해줘"
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T08:04:52.604Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T08:04:50.663Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T05:23:53.468Z",
+      "what": "판정 ‘부적합’"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T08:04:52.604Z",
+      "what": "확인 완료"
+    }
+  }
+}

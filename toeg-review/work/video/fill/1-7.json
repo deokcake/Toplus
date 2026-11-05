@@ -1,0 +1,475 @@
+{
+ "A": {
+  "title": "전치사 없이 목적어를 받는 동사",
+  "intro": "이 문제는 동사 뒤에 전치사가 필요한지 판단해, 어법상 어색한 밑줄을 고르는 문제예요.",
+  "problem_narration": "다음 문장의 밑줄 친 부분 중 어법상 어색한 것은? 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "attend 참석하다 · discuss 논의하다 · reach 도착하다, 이르다",
+    "enter 들어가다 · approach 다가가다 · resemble 닮다",
+    "이 뜻으로 쓸 때는 우리말에 ‘~에, ~에 대해, ~와’가 붙어도 전치사 없이 바로 목적어",
+    "ask about(~에 대해 묻다)은 about이 꼭 필요해요",
+    "예) He entered the classroom. (그는 교실에 들어갔어요.)"
+   ],
+   "narration": "attend는 참석하다, discuss는 논의하다, reach는 도착하다, enter는 들어가다, approach는 다가가다, resemble은 닮다라는 뜻이에요. 이런 뜻으로 쓸 때는 우리말에 조사가 붙어도 전치사 없이 목적어를 바로 써요. 하지만 ask about은 무엇에 대해 묻는다는 뜻이라 about이 꼭 필요해요. 예를 들어 He entered the classroom. 그는 교실에 들어갔어요."
+  },
+  "steps": [
+   {
+    "note": "전치사가 붙은 밑줄: ④ entered into, ⑤ asked about. ①②③은 전치사 없이 바로 씀 → 바름",
+    "highlight": [
+     "④ entered into",
+     "⑤ asked about"
+    ],
+    "strike": [
+     "① attended",
+     "② discussed",
+     "③ reached"
+    ],
+    "narration": "첫째, 밑줄 친 동사 중 전치사가 붙은 것은 4번 entered into와 5번 asked about이에요. 나머지 attended, discussed, reached는 전치사 없이 바르게 썼어요."
+   },
+   {
+    "note": "ask about = ~에 대해 묻다 → about이 꼭 필요 → asked about my day는 바름",
+    "highlight": [
+     "my day"
+    ],
+    "strike": [
+     "⑤ asked about"
+    ],
+    "narration": "둘째, ask about은 무엇에 대해 묻는다는 뜻이라 about이 꼭 필요해서, asked about my day는 맞아요."
+   },
+   {
+    "note": "들어가다 enter + 들어가는 곳을 바로 → into를 빼고 entered my room",
+    "highlight": [
+     "④ entered into",
+     "my room"
+    ],
+    "strike": [],
+    "narration": "셋째, 들어가다라는 뜻의 enter는 들어가는 곳을 바로 목적어로 받으니, into를 빼고 entered my room으로 써야 해요. My mother entered my room. 엄마가 내 방에 들어오셨어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① attended  ✗  참석한 회의 the meeting을 바로 받아요",
+    "② discussed  ✗  논의한 것 the new rules를 about 없이 받아요",
+    "③ reached  ✗  도착한 곳 home 앞에 전치사가 없어 맞아요",
+    "④ entered into  ✓  들어가다 enter는 into 없이 → entered my room",
+    "⑤ asked about  ✗  ‘~에 대해 묻다’ ask about은 about이 필요해요"
+   ],
+   "narration": "정답은 4번 entered into예요. 5번 asked about도 전치사가 붙어 있지만, 무엇에 대해 묻는다는 뜻이라 about이 있어야 맞아요. 2번 discussed는 우리말로 규칙에 대해 논의했다로 옮겨져도, about 없이 the new rules를 바로 받아 맞아요. 3번 reached도 도착하다라는 뜻이라, 전치사 없이 home을 써서 맞아요."
+  },
+  "summary": {
+   "card": "attend(참석하다) · discuss(논의하다) · enter(들어가다) + 목적어, 전치사 없이",
+   "narration": "정답은 4번이에요. 기억할 것, 참석하다, 논의하다, 들어가다라는 뜻의 attend, discuss, enter는 전치사 없이 목적어를 바로 써요."
+  },
+  "captions": [
+   "동사 뒤 전치사, 필요할까?",
+   "먼저 풀어 보세요",
+   "전치사 없이 바로 목적어",
+   "전치사 찾기 → ask about → enter",
+   "정답 ④ entered into",
+   "enter + 장소, into 없이"
+  ],
+  "sec": [
+   11,
+   16,
+   28,
+   36,
+   24,
+   12
+  ]
+ },
+ "B": {
+  "title": "전치사 없이 목적어를 받는 동사",
+  "intro": "이 문제는 동사 뒤에 전치사가 필요한지 판단해, 어법상 어색한 밑줄을 고르는 문제예요.",
+  "problem_narration": "다음 문장의 밑줄 친 부분 중 어법상 어색한 것은? 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "attend 참석하다 · discuss 논의하다 · reach 도착하다, 이르다",
+    "enter 들어가다 · approach 다가가다 · resemble 닮다",
+    "이 뜻으로 쓸 때는 우리말에 ‘~에, ~에 대해, ~와’가 붙어도 전치사 없이 바로 목적어",
+    "ask about(~에 대해 묻다)은 about이 꼭 필요해요",
+    "예) She entered the library. (그녀는 도서관에 들어갔어요.)"
+   ],
+   "narration": "attend는 참석하다, discuss는 논의하다, reach는 도착하다, enter는 들어가다, approach는 다가가다, resemble은 닮다라는 뜻이에요. 이런 뜻으로 쓸 때는 우리말에 조사가 붙어도 전치사 없이 목적어를 바로 써요. 하지만 ask about은 무엇에 대해 묻는다는 뜻이라 about이 꼭 필요해요. 예를 들어 She entered the library. 그녀는 도서관에 들어갔어요."
+  },
+  "steps": [
+   {
+    "note": "전치사가 붙은 밑줄: ④ entered into, ⑤ asked about. ①②③은 목적어를 바로 받음 → 바름",
+    "highlight": [
+     "④ entered into",
+     "⑤ asked about"
+    ],
+    "strike": [
+     "① attended",
+     "② discussed",
+     "③ approached"
+    ],
+    "narration": "첫째, 밑줄 친 동사 중 전치사가 붙은 것은 4번 entered into와 5번 asked about이에요. 나머지 attended, discussed, approached는 목적어를 바로 받아 바르게 썼어요."
+   },
+   {
+    "note": "ask about = ~에 대해 묻다 → about이 꼭 필요 → asked about her research는 바름",
+    "highlight": [
+     "her research"
+    ],
+    "strike": [
+     "⑤ asked about"
+    ],
+    "narration": "둘째, ask about은 무엇에 대해 묻는다는 뜻이라 about이 꼭 필요해서, asked about her research는 맞아요."
+   },
+   {
+    "note": "들어가다 enter + 들어가는 곳을 바로 → into를 빼고 entered a quiet office",
+    "highlight": [
+     "④ entered into",
+     "a quiet office"
+    ],
+    "strike": [],
+    "narration": "셋째, 들어가다라는 뜻의 enter는 들어가는 곳을 바로 목적어로 받으니, into를 빼고 entered a quiet office로 써야 해요. I entered a quiet office. 나는 조용한 사무실에 들어갔어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① attended  ✗  참석한 것 two sessions를 바로 받아요",
+    "② discussed  ✗  논의한 것 several ideas를 about 없이 받아요",
+    "③ approached  ✗  다가간 사람 the keynote speaker를 to 없이 받아요",
+    "④ entered into  ✓  들어가다 enter는 into 없이 → entered a quiet office",
+    "⑤ asked about  ✗  ‘~에 대해 묻다’ ask about은 about이 필요해요"
+   ],
+   "narration": "정답은 4번 entered into예요. 5번 asked about도 전치사가 붙어 있지만, 무엇에 대해 묻는다는 뜻이라 about이 있어야 맞아요. 3번 approached는 우리말로 연사에게 다가갔다로 옮겨져도, to 없이 the keynote speaker를 바로 받아 맞아요. 2번 discussed도 about 없이 several ideas를 바로 받아 맞아요."
+  },
+  "summary": {
+   "card": "enter(들어가다) · approach(다가가다) · discuss(논의하다) + 목적어, 전치사 없이",
+   "narration": "정답은 4번이에요. 기억할 것, 들어가다, 다가가다, 논의하다라는 뜻의 enter, approach, discuss는 전치사 없이 목적어를 바로 써요."
+  },
+  "captions": [
+   "동사 뒤 전치사, 필요할까?",
+   "먼저 풀어 보세요",
+   "전치사 없이 바로 목적어",
+   "전치사 찾기 → ask about → enter",
+   "정답 ④ entered into",
+   "enter + 장소, into 없이"
+  ],
+  "sec": [
+   11,
+   16,
+   28,
+   36,
+   24,
+   12
+  ]
+ },
+ "C": {
+  "title": "전치사 없이 목적어를 받는 동사",
+  "intro": "이 문제는 동사 뒤에 전치사가 필요한지 판단해, 어법상 어색한 밑줄을 고르는 문제예요.",
+  "problem_narration": "다음 문장의 밑줄 친 부분 중 어법상 어색한 것은? 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "attend 참석하다 · discuss 논의하다 · reach 도착하다, 이르다",
+    "enter 들어가다 · approach 다가가다 · resemble 닮다",
+    "이 뜻으로 쓸 때는 우리말에 ‘~에, ~에 대해, ~와’가 붙어도 전치사 없이 바로 목적어",
+    "ask about(~에 대해 묻다)은 about이 꼭 필요해요",
+    "예) A boy approached the dog. (한 소년이 그 개에게 다가갔어요.)"
+   ],
+   "narration": "attend는 참석하다, discuss는 논의하다, reach는 도착하다, enter는 들어가다, approach는 다가가다, resemble은 닮다라는 뜻이에요. 이런 뜻으로 쓸 때는 우리말에 조사가 붙어도 전치사 없이 목적어를 바로 써요. 하지만 ask about은 무엇에 대해 묻는다는 뜻이라 about이 꼭 필요해요. 예를 들어 A boy approached the dog. 한 소년이 그 개에게 다가갔어요."
+  },
+  "steps": [
+   {
+    "note": "전치사가 붙은 밑줄: ④ approached to, ⑤ asked about. ①②③은 목적어를 바로 받음 → 바름",
+    "highlight": [
+     "④ approached to",
+     "⑤ asked about"
+    ],
+    "strike": [
+     "① reached",
+     "② attended",
+     "③ discussed"
+    ],
+    "narration": "첫째, 밑줄 친 동사 중 전치사가 붙은 것은 4번 approached to와 5번 asked about이에요. 나머지 reached, attended, discussed는 목적어를 바로 받아 바르게 썼어요."
+   },
+   {
+    "note": "ask about = ~에 대해 묻다 → about이 꼭 필요 → asked about the delay는 바름",
+    "highlight": [
+     "the delay"
+    ],
+    "strike": [
+     "⑤ asked about"
+    ],
+    "narration": "둘째, ask about은 무엇에 대해 묻는다는 뜻이라 about이 꼭 필요해서, asked about the delay는 맞아요."
+   },
+   {
+    "note": "다가가다 approach + 다가가는 대상을 바로 → to를 빼고 approached the manager",
+    "highlight": [
+     "④ approached to",
+     "the manager"
+    ],
+    "strike": [],
+    "narration": "셋째, 다가가다라는 뜻의 approach는 다가가는 대상을 바로 목적어로 받으니, to를 빼고 approached the manager로 써야 해요. She approached the manager. 그녀는 매니저에게 다가갔어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① reached  ✗  도착한 곳 the station을 바로 받아요",
+    "② attended  ✗  참석한 회의 the meeting을 바로 받아요",
+    "③ discussed  ✗  논의한 것 the schedule을 about 없이 받아요",
+    "④ approached to  ✓  다가가다 approach는 to 없이 → approached the manager",
+    "⑤ asked about  ✗  ‘~에 대해 묻다’ ask about은 about이 필요해요"
+   ],
+   "narration": "정답은 4번 approached to예요. 5번 asked about도 전치사가 붙어 있지만, 무엇에 대해 묻는다는 뜻이라 about이 있어야 맞아요. 1번 reached는 우리말로 역에 도착했다로 옮겨져도, 전치사 없이 the station을 바로 받아 맞아요. 3번 discussed도 about 없이 the schedule을 바로 받아 맞아요."
+  },
+  "summary": {
+   "card": "approach(다가가다) · reach(도착하다) · discuss(논의하다) + 목적어, 전치사 없이",
+   "narration": "정답은 4번이에요. 기억할 것, 다가가다, 도착하다, 논의하다라는 뜻의 approach, reach, discuss는 전치사 없이 목적어를 바로 써요."
+  },
+  "captions": [
+   "동사 뒤 전치사, 필요할까?",
+   "먼저 풀어 보세요",
+   "전치사 없이 바로 목적어",
+   "전치사 찾기 → ask about → approach",
+   "정답 ④ approached to",
+   "approach + 대상, to 없이"
+  ],
+  "sec": [
+   11,
+   16,
+   28,
+   36,
+   24,
+   12
+  ]
+ },
+ "D": {
+  "title": "전치사 없이 목적어를 받는 동사",
+  "intro": "이 문제는 동사 뒤에 전치사가 필요한지 판단해, 어법상 어색한 밑줄을 고르는 문제예요.",
+  "problem_narration": "다음 문장의 밑줄 친 부분 중 어법상 어색한 것은? 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "attend 참석하다 · discuss 논의하다 · reach 도착하다, 이르다",
+    "enter 들어가다 · approach 다가가다 · resemble 닮다",
+    "이 뜻으로 쓸 때는 우리말에 ‘~에, ~에 대해, ~와’가 붙어도 전치사 없이 바로 목적어",
+    "ask about(~에 대해 묻다)은 about이 꼭 필요해요",
+    "예) We discussed the movie. (우리는 그 영화에 대해 논의했어요.)"
+   ],
+   "narration": "attend는 참석하다, discuss는 논의하다, reach는 도착하다, enter는 들어가다, approach는 다가가다, resemble은 닮다라는 뜻이에요. 이런 뜻으로 쓸 때는 우리말에 조사가 붙어도 전치사 없이 목적어를 바로 써요. 하지만 ask about은 무엇에 대해 묻는다는 뜻이라 about이 꼭 필요해요. 예를 들어 We discussed the movie. 우리는 그 영화에 대해 논의했어요."
+  },
+  "steps": [
+   {
+    "note": "전치사가 붙은 밑줄: ③ discussed about, ⑤ asked about. ①②④는 목적어를 바로 받음 → 바름",
+    "highlight": [
+     "③ discussed about",
+     "⑤ asked about"
+    ],
+    "strike": [
+     "① entered",
+     "② attended",
+     "④ approached"
+    ],
+    "narration": "첫째, 밑줄 친 동사 중 전치사가 붙은 것은 3번 discussed about과 5번 asked about이에요. 나머지 entered, attended, approached는 목적어를 바로 받아 바르게 썼어요."
+   },
+   {
+    "note": "ask about = ~에 대해 묻다 → about이 꼭 필요 → asked about the artist's life는 바름",
+    "highlight": [
+     "the artist's life"
+    ],
+    "strike": [
+     "⑤ asked about"
+    ],
+    "narration": "둘째, ask about은 무엇에 대해 묻는다는 뜻이라 about이 꼭 필요해서, asked about the artist's life는 맞아요."
+   },
+   {
+    "note": "discuss는 ‘~에 대해 논의하다’로 옮겨져도 대상을 바로 → about을 빼고 discussed the exhibit",
+    "highlight": [
+     "③ discussed about",
+     "the exhibit"
+    ],
+    "strike": [],
+    "narration": "셋째, discuss는 우리말로 무엇에 대해 논의하다로 옮겨져도 논의하는 대상을 바로 목적어로 받으니, about을 빼고 discussed the exhibit으로 써야 해요. The class discussed the exhibit. 반 학생들은 그 전시에 대해 논의했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① entered  ✗  들어간 곳 the city museum을 into 없이 받아요",
+    "② attended  ✗  참석한 강연 a lecture를 바로 받아요",
+    "③ discussed about  ✓  논의하다 discuss는 about 없이 → discussed the exhibit",
+    "④ approached  ✗  다가간 사람 the guide를 to 없이 받아요",
+    "⑤ asked about  ✗  ‘~에 대해 묻다’ ask about은 about이 필요해요"
+   ],
+   "narration": "정답은 3번 discussed about이에요. 5번 asked about도 about이 붙어 있지만, 무엇에 대해 묻는다는 뜻이라 about이 있어야 맞아요. 4번 approached는 우리말로 가이드에게 다가갔다로 옮겨져도, to 없이 the guide를 바로 받아 맞아요. 1번 entered도 into 없이 the city museum을 바로 받아 맞아요."
+  },
+  "summary": {
+   "card": "discuss(논의하다) · enter(들어가다) · approach(다가가다) + 목적어, 전치사 없이",
+   "narration": "정답은 3번이에요. 기억할 것, 논의하다, 들어가다, 다가가다라는 뜻의 discuss, enter, approach는 전치사 없이 목적어를 바로 써요."
+  },
+  "captions": [
+   "동사 뒤 전치사, 필요할까?",
+   "먼저 풀어 보세요",
+   "전치사 없이 바로 목적어",
+   "전치사 찾기 → ask about → discuss",
+   "정답 ③ discussed about",
+   "discuss + 대상, about 없이"
+  ],
+  "sec": [
+   11,
+   16,
+   28,
+   36,
+   24,
+   12
+  ]
+ },
+ "E": {
+  "title": "전치사 없이 목적어를 받는 동사",
+  "intro": "이 문제는 동사 뒤에 전치사가 필요한지 판단해, 어법상 어색한 밑줄을 고르는 문제예요.",
+  "problem_narration": "다음 문장의 밑줄 친 부분 중 어법상 어색한 것은? 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "attend 참석하다 · discuss 논의하다 · reach 도착하다, 이르다",
+    "enter 들어가다 · approach 다가가다 · resemble 닮다",
+    "이 뜻으로 쓸 때는 우리말에 ‘~에, ~에 대해, ~와’가 붙어도 전치사 없이 바로 목적어",
+    "ask about(~에 대해 묻다)은 about이 꼭 필요해요",
+    "예) Mina resembles her mother. (미나는 엄마와 닮았어요.)"
+   ],
+   "narration": "attend는 참석하다, discuss는 논의하다, reach는 도착하다, enter는 들어가다, approach는 다가가다, resemble은 닮다라는 뜻이에요. 이런 뜻으로 쓸 때는 우리말에 조사가 붙어도 전치사 없이 목적어를 바로 써요. 하지만 ask about은 무엇에 대해 묻는다는 뜻이라 about이 꼭 필요해요. 예를 들어 Mina resembles her mother. 미나는 엄마와 닮았어요."
+  },
+  "steps": [
+   {
+    "note": "전치사가 붙은 밑줄: ④ resembles to, ⑤ asked about. ①②③은 전치사 없이 바로 씀 → 바름",
+    "highlight": [
+     "④ resembles to",
+     "⑤ asked about"
+    ],
+    "strike": [
+     "① reached",
+     "② entered",
+     "③ discussed"
+    ],
+    "narration": "첫째, 밑줄 친 동사 중 전치사가 붙은 것은 4번 resembles to와 5번 asked about이에요. 나머지 reached, entered, discussed는 전치사 없이 바르게 썼어요."
+   },
+   {
+    "note": "ask about = ~에 대해 묻다 → about이 꼭 필요 → asked about his day는 바름",
+    "highlight": [
+     "his day"
+    ],
+    "strike": [
+     "⑤ asked about"
+    ],
+    "narration": "둘째, ask about은 무엇에 대해 묻는다는 뜻이라 about이 꼭 필요해서, asked about his day는 맞아요."
+   },
+   {
+    "note": "닮다 resemble은 ‘~와 닮다’로 옮겨져도 대상을 바로 → to를 빼고 resembles him",
+    "highlight": [
+     "④ resembles to",
+     "him a lot"
+    ],
+    "strike": [],
+    "narration": "셋째, 닮다라는 뜻의 resemble은 우리말로 누구와 닮다로 옮겨져도 닮은 대상을 바로 목적어로 받으니, to를 빼고 resembles him으로 써야 해요. His little sister resembles him a lot. 그의 여동생은 그와 많이 닮았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① reached  ✗  도착한 곳 home 앞에 전치사가 없어 맞아요",
+    "② entered  ✗  들어간 곳 the kitchen을 into 없이 받아요",
+    "③ discussed  ✗  논의한 것 the problem을 about 없이 받아요",
+    "④ resembles to  ✓  닮다 resemble은 to 없이 → resembles him",
+    "⑤ asked about  ✗  ‘~에 대해 묻다’ ask about은 about이 필요해요"
+   ],
+   "narration": "정답은 4번 resembles to예요. 5번 asked about도 전치사가 붙어 있지만, 무엇에 대해 묻는다는 뜻이라 about이 있어야 맞아요. 2번 entered는 우리말로 부엌에 들어갔다로 옮겨져도, into 없이 the kitchen을 바로 받아 맞아요. 3번 discussed도 about 없이 the problem을 바로 받아 맞아요."
+  },
+  "summary": {
+   "card": "resemble(닮다) · enter(들어가다) · discuss(논의하다) + 목적어, 전치사 없이",
+   "narration": "정답은 4번이에요. 기억할 것, 닮다, 들어가다, 논의하다라는 뜻의 resemble, enter, discuss는 전치사 없이 목적어를 바로 써요."
+  },
+  "captions": [
+   "동사 뒤 전치사, 필요할까?",
+   "먼저 풀어 보세요",
+   "전치사 없이 바로 목적어",
+   "전치사 찾기 → ask about → resemble",
+   "정답 ④ resembles to",
+   "resemble + 대상, to 없이"
+  ],
+  "sec": [
+   11,
+   16,
+   28,
+   36,
+   24,
+   12
+  ]
+ },
+ "F": {
+  "title": "전치사 없이 목적어를 받는 동사",
+  "intro": "이 문제는 동사 뒤에 전치사가 필요한지 판단해, 어법상 어색한 밑줄을 고르는 문제예요.",
+  "problem_narration": "다음 문장의 밑줄 친 부분 중 어법상 어색한 것은? 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "attend 참석하다 · discuss 논의하다 · reach 도착하다, 이르다",
+    "enter 들어가다 · approach 다가가다 · resemble 닮다",
+    "이 뜻으로 쓸 때는 우리말에 ‘~에, ~에 대해, ~와’가 붙어도 전치사 없이 바로 목적어",
+    "discuss about ✗ · resemble to ✗ (전치사를 덧붙이지 않아요)",
+    "예) We reached the top of the hill. (우리는 언덕 꼭대기에 도착했어요.)"
+   ],
+   "narration": "attend는 참석하다, discuss는 논의하다, reach는 도착하다 또는 이르다, enter는 들어가다, approach는 다가가다, resemble은 닮다라는 뜻이에요. 이런 뜻으로 쓸 때는 우리말에 조사가 붙어도 전치사 없이 목적어를 바로 써요. 그래서 discuss about이나 resemble to처럼 쓰지 않아요. 예를 들어 We reached the top of the hill. 우리는 언덕 꼭대기에 도착했어요."
+  },
+  "steps": [
+   {
+    "note": "전치사가 붙은 밑줄은 ⑤ reached to 하나뿐. ①②④는 목적어를 바로 받음 → 바름",
+    "highlight": [
+     "⑤ reached to"
+    ],
+    "strike": [
+     "① approached",
+     "② entered",
+     "④ discussed"
+    ],
+    "narration": "첫째, 밑줄 친 동사 중 전치사가 붙은 것은 5번 reached to 하나뿐이에요. approached, entered, discussed는 목적어를 바로 받아 바르게 썼어요."
+   },
+   {
+    "note": "같은 동사 ③ reached her seat → reach는 목적어를 바로 받음",
+    "highlight": [
+     "her seat"
+    ],
+    "strike": [
+     "③ reached"
+    ],
+    "narration": "둘째, 같은 동사를 쓴 3번을 보면, reached her seat처럼 reach는 목적어를 바로 받아요."
+   },
+   {
+    "note": "결정에 이르다 reach + a decision → to를 빼고 reached a decision",
+    "highlight": [
+     "⑤ reached to",
+     "a decision"
+    ],
+    "strike": [],
+    "narration": "셋째, 결정에 이르다라는 뜻의 reach도 a decision을 바로 받으니, to를 빼고 reached a decision으로 써야 해요. She reached a decision. 그녀는 결정에 이르렀어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① approached  ✗  다가간 곳 the front desk를 to 없이 받아요",
+    "② entered  ✗  들어간 곳 the meeting room을 into 없이 받아요",
+    "③ reached  ✗  도착한 곳 her seat를 바로 받아요",
+    "④ discussed  ✗  논의한 것 the plan을 about 없이 받아요",
+    "⑤ reached to  ✓  이르다 reach는 to 없이 → reached a decision"
+   ],
+   "narration": "정답은 5번 reached to예요. 결정에 이르다라는 뜻의 reach는 a decision을 바로 받아야 해요. 4번 discussed는 우리말로 계획에 대해 논의했다로 옮겨져도, about 없이 the plan을 바로 받아 맞아요. 1번 approached도 우리말로 프런트에 다가갔다로 옮겨져도, to 없이 the front desk를 바로 받아 맞아요."
+  },
+  "summary": {
+   "card": "reach(도착하다, 이르다) · discuss(논의하다) · approach(다가가다) + 목적어, 전치사 없이",
+   "narration": "정답은 5번이에요. 기억할 것, 도착하다, 이르다라는 뜻의 reach와 논의하다라는 뜻의 discuss는 전치사 없이 목적어를 바로 써요."
+  },
+  "captions": [
+   "동사 뒤 전치사, 필요할까?",
+   "먼저 풀어 보세요",
+   "전치사 없이 바로 목적어",
+   "전치사 찾기 → ③과 비교 → reach",
+   "정답 ⑤ reached to",
+   "reach + 목적어, to 없이"
+  ],
+  "sec": [
+   11,
+   16,
+   28,
+   36,
+   24,
+   12
+  ]
+ }
+}

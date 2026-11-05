@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T03:28:09.526Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "He <u>is preferring</u> tea to coffee in the morning.",
+      "1": "She <u>is watching</u> a movie with her friends now.",
+      "2": "I <u>am needing</u> some help with this problem.",
+      "3": "This bag <u>is belonging</u> to my older sister.",
+      "4": "We <u>are understanding</u> the rule of the game now."
+    },
+    "expl": "핵심 규칙: know, want, need, believe, own, belong, prefer, hate, have(가지고 있다) 같은 상태동사는 보통 진행형으로 쓰지 않는다. 동작동사는 be동사 + -ing로 진행형을 만든다.\n풀이 순서: ① 밑줄은 모두 진행형(be + -ing)이다. 동사가 동작인지 상태인지 가른다. → ② 감정·인식·소유를 나타내는 상태 동사는 진행형으로 쓰지 않는다. → ③ 선택지 ②의 watch만 동작 동사라 진행형이 옳다.\n문장별 판정:\n정답 판단: 동작동사를 be동사 + -ing의 진행형으로 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 상태동사(prefer)는 진행형으로 쓰지 않으므로 오답이다.\n② [정답] 동작동사를 be동사 + -ing의 진행형으로 바르게 썼으므로 정답이다.\n③ [오답] 상태동사(need)는 진행형으로 쓰지 않으므로 오답이다.\n④ [오답] 상태동사(belong)는 진행형으로 쓰지 않으므로 오답이다.\n⑤ [오답] 상태동사(understand)는 진행형으로 쓰지 않으므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 밑줄 친 부분의 쓰임이 어법상 옳은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:00:55.691Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:01:06.834Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:36:45.695Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T03:36:45.695Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:36:45.695Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

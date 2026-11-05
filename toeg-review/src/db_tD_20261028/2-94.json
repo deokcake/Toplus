@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-23T16:50:13.650Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "(a)-ㄷ, (b)-ㄱ",
+      "1": "(a)-ㄴ, (b)-ㄱ",
+      "2": "(a)-ㄴ, (b)-ㄹ",
+      "3": "(a)-ㄷ, (b)-ㄴ",
+      "4": "(a)-ㄹ, (b)-ㄷ"
+    },
+    "expl": "핵심 규칙: that은 지시대명사(저것), 관계대명사(선행사 뒤, 뒤에 불완전한 절), 접속사(뒤에 완전한 절: 명사절)로 쓰인다.\n풀이 순서: ① (a)는 문장의 주어로 ‘저것’을 가리키는 지시대명사다. (b)는 선행사(the expensive bag) 뒤에서 불완전한 절을 이끄는 관계대명사다. → ② <보기>의 that을 가른다. 뒤에 완전한 절이 오면 접속사, 명사 뒤에서 불완전한 절을 이끌면 관계대명사, 혼자 주어이면 지시대명사다. → ③ 지시대명사는 ㄷ, 관계대명사는 ㄴ이다. 정답은 ④.\n문장별 판정: ㄱ 명사절 접속사(목적어 자리), ㄴ 관계대명사(선행사 The bag을 꾸밈), ㄷ 지시대명사(‘저것’), ㄹ 명사절 접속사(주어 자리).\n정답 판단: (a)는 ㄷ과 같은 지시대명사, (b)는 ㄴ과 같은 관계대명사이므로 정답은 ④이다.\n선택지 분석:\n① [오답] (b)는 관계대명사인데 접속사 ㄱ을 골랐으므로 오답이다.\n② [오답] (a)는 지시대명사인데 관계대명사 ㄴ을 골랐으므로 오답이다.\n③ [오답] (a)는 관계대명사 ㄴ이 아니고 (b)도 접속사 ㄹ이 아니므로 오답이다.\n④ [정답] (a)는 ㄷ과 같은 지시대명사, (b)는 ㄴ과 같은 관계대명사이므로 정답이다.\n⑤ [오답] (a)는 접속사 ㄹ이 아니고 (b)도 지시대명사 ㄷ이 아니므로 오답이다.",
+    "passage": "(a)<u>That</u> is the expensive bag (b)<u>that</u> Mina chose at the mall yesterday.\n<보기>\nㄱ. I think that he is right about the new plan.\nㄴ. The bag that Jane bought last week is dark blue.\nㄷ. That is a new camera for my trip.\nㄹ. That he left early worried all of us.",
+    "stem": "다음 문장에서 (a)와 (b)의 that의 쓰임과 같은 것을 보기에서 각각 하나씩 고르시오."
+  },
+  "tab": "8s1sfi09",
+  "updatedAt": "2026-10-23T16:50:13.650Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:50:13.650Z",
+      "what": "확인 완료"
+    }
+  }
+}

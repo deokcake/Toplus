@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T02:45:45.698Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "I was born in April.",
+      "1": "I was born at night.",
+      "2": "I was born on Monday.",
+      "3": "I was born in spring.",
+      "4": "I was born in Seoul."
+    },
+    "expl": "핵심 규칙: 질문의 의문사가 묻는 정보에 맞춰 답한다. What year는 연도, What month는 달, What season은 계절, What day는 요일, What time은 시각, Where는 장소를 묻는다.\n풀이 순서: ① 질문이 묻는 정보를 본다: What season(계절). → ② 보기는 문장의 앞부분이 같고 뒤의 정보만 다르다. 그 정보의 종류를 하나씩 가른다. → ③ 계절은 spring뿐이다. 정답은 ④.\n문장별 판정:\n정답 판단: 계절을 묻는 질문에 계절로 알맞게 답했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 달을 답해 계절을 묻는 질문에 맞지 않으므로 오답이다.\n② [오답] 하루 중 때를 답해 계절을 묻는 질문에 맞지 않으므로 오답이다.\n③ [오답] 요일을 답해 계절을 묻는 질문에 맞지 않으므로 오답이다.\n④ [정답] 계절을 묻는 질문에 계절로 알맞게 답했으므로 정답이다.\n⑤ [오답] 장소를 답해 계절을 묻는 질문에 맞지 않으므로 오답이다.",
+    "passage": "A: What season were you born in?\nB: _______________________",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:45:43.246Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-22T02:45:45.698Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:45:45.698Z",
+      "what": "확인 완료"
+    }
+  }
+}

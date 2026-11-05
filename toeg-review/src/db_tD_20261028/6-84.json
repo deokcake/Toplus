@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T06:28:28.480Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Are your parents cooking?",
+      "1": "Is your brother taking a shower?",
+      "2": "Was he sleeping then?",
+      "3": "Is the computer working?",
+      "4": "Are you drawing a picture?"
+    },
+    "expl": "핵심 규칙: 짧은 대답의 주어와 be동사를 보고 질문을 찾는다. you에 대한 질문에는 I/we, 한 남자는 he, 한 여자는 she, 사물·날씨는 it, 여럿은 they로 답하고, 과거 질문(Was/Were)에는 wasn't/weren't로 답한다.\n풀이 순서: ① 대답의 주어와 be동사를 본다: he is. → ② 이 주어로 답하게 되는 질문의 주어를 거꾸로 찾는다: 남자 한 명인 your brother. 시제도 현재여야 한다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: your brother를 he로 받아 Yes, he is로 답할 수 있으므로 정답은 ②이다.\n선택지 분석:\n① [오답] your parents에 대한 질문에는 they로 답하므로 오답이다.\n② [정답] your brother를 he로 받아 Yes, he is로 답할 수 있으므로 정답이다.\n③ [오답] 과거 질문에는 was로 답하므로 오답이다.\n④ [오답] 사물 the computer에 대한 질문에는 it으로 답하므로 오답이다.\n⑤ [오답] you에 대한 질문에는 I로 답하므로 오답이다.",
+    "passage": "A: _______________________\nB: Yes, he is.",
+    "stem": "다음 빈칸에 들어갈 말을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T06:28:26.660Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T06:28:28.480Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T06:28:28.480Z",
+      "what": "확인 완료"
+    }
+  }
+}

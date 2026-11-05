@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-21T11:21:47.011Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "2개 - (가), (다)가 맞음. 대명사 주어 뒤에는 'was'를 써도 됨.",
+      "1": "2개 - (가), (나)가 맞음. 동물 주어에는 단수·복수 모두 'were'를 씀.",
+      "2": "1개 - (나)만 맞음. 'dog'처럼 한 마리일 때 'were'를 씀.",
+      "3": "1개 - (가)만 맞음. 복수 주어 The dogs와 They에는 'were', 단수 The dog에는 'was'를 써야 함.",
+      "4": "0개 - 모두 틀림. 동물 주어에는 be동사 과거형을 쓰지 않음."
+    },
+    "expl": "핵심 규칙: (가)~(다)의 주어를 각각 찾아 was/were를 판정한 뒤, 옳은 문장의 개수·문장·이유가 모두 맞는 설명을 고른다. 한 명·한 개(I 포함)는 was, you와 둘 이상(A and B, 복수 명사, 복수 대명사)은 were이다.\n풀이 순서: ① <보기>의 문장마다 주어의 수와 was/were가 맞는지 판정한다: (가) O, (나) X(The dog were), (다) X(They was). → ② 옳은 문장의 개수와 기호가 맞는 보기를 고른다. → ③ 그 보기의 이유까지 맞는지 확인한다. 정답은 ④.\n문장별 판정:\n(가) O. 복수 주어에 were를 썼다.\n(나) X. 단수 주어 The dog에는 was를 써야 한다.\n(다) X. 복수 대명사 They에는 were를 써야 한다.\n정답 판단: 1개 - (가)만 맞음이다.\n선택지 분석:\n① [오답] 복수 대명사 They에는 were를 써야 하므로 오답이다.\n② [오답] 한 마리인 The dog에는 was를 써야 하므로 오답이다.\n③ [오답] 한 마리에는 was를 쓰고 (가)도 옳은 문장이므로 오답이다.\n④ [정답] 개수·문장·이유가 모두 맞으므로 정답이다.\n⑤ [오답] 동물 주어에도 be동사 과거형을 쓰고 (가)는 옳은 문장이므로 오답이다.",
+    "passage": "<보기>\n(가) The dogs were hungry.\n(나) The dog were hungry.\n(다) They was hungry.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-21T11:21:46.050Z"
+  },
+  "tab": "ojjpxrut",
+  "updatedAt": "2026-10-21T11:21:47.011Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T11:21:47.011Z",
+      "what": "확인 완료"
+    }
+  }
+}

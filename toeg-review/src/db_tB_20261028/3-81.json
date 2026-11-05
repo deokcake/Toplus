@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:00:25.743Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "cut - cutting",
+      "1": "come - comeing",
+      "2": "die - dying",
+      "3": "stop - stopping",
+      "4": "study - studying"
+    },
+    "expl": "핵심 규칙: 동사-ing형은 보통 -ing을 붙인다. -e로 끝나면 e를 빼고(make → making), -ie로 끝나면 ie를 y로 바꾸며(lie → lying), 단모음 + 단자음으로 끝나면 자음을 한 번 더 쓴다(run → running).\n풀이 순서: ① 동사의 끝 철자를 본다: -e로 끝나는가, -ie로 끝나는가, ‘단모음 + 단자음’으로 끝나는가. → ② come은 -e로 끝나므로 e를 빼고 coming으로 써야 하는데 comeing으로 썼다. → ③ 정답은 come - comeing.\n문장별 판정:\n정답 판단: -e로 끝나는 come은 e를 빼고 coming으로 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 단모음 + 단자음으로 끝나 자음을 한 번 더 쓰고 -ing을 붙인 옳은 형태이므로 오답이다.\n② [정답] -e로 끝나는 come은 e를 빼고 coming으로 써야 하므로 정답이다.\n③ [오답] ie를 y로 바꾸고 -ing을 붙인 옳은 형태이므로 오답이다.\n④ [오답] 단모음 + 단자음으로 끝나 자음을 한 번 더 쓰고 -ing을 붙인 옳은 형태이므로 오답이다.\n⑤ [오답] -ing을 그대로 붙인 옳은 형태이므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:00:24.934Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:00:25.743Z",
+      "what": "확인 완료"
+    }
+  }
+}

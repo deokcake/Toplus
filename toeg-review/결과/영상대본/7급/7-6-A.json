@@ -1,0 +1,178 @@
+{
+ "key": "7-6",
+ "type": "A",
+ "grade": 7,
+ "chapter": "CH 1 명사",
+ "title": "two 뒤 명사의 복수형",
+ "total_sec": 120,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "7급 · CH 1 명사 · 6번\n\n이 문제는 two 뒤에 오는 명사 cat의 알맞은 형태를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 1 명사 · 6번",
+     "이 문제는 two 뒤에 오는 명사 cat의 알맞은 형태를 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 1, 6번. 이 문제는 two 뒤에 오는 명사 cat의 알맞은 형태를 고르는 문제예요.",
+   "caption": "two 뒤 명사의 형태"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "빈칸에 들어갈 알맞은 단어를 고르세요.\n\nI have two _______.\n\n① cat\n② cats\n③ cates\n④ a cat\n⑤ cattes",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "빈칸에 들어갈 알맞은 단어를 고르세요.",
+     "I have two _______.",
+     "① cat",
+     "② cats",
+     "③ cates",
+     "④ a cat",
+     "⑤ cattes"
+    ]
+   },
+   "narration": "빈칸에 들어갈 알맞은 단어를 고르세요. I have two, 빈칸. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 26,
+   "screen": {
+    "text": "핵심 규칙\ntwo, three, many처럼 둘 이상을 나타내는 말 뒤 → 명사의 복수형\n대부분 + s (dog → dogs, pen → pens)\ns, sh, ch, x로 끝나면 보통 + es (bus → buses)\n자음 + y로 끝나면 y를 i로 바꾸고 + es (city → cities)\n예) She has two pens. (그녀는 펜이 두 개 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "two, three, many처럼 둘 이상을 나타내는 말 뒤 → 명사의 복수형",
+     "대부분 + s (dog → dogs, pen → pens)",
+     "s, sh, ch, x로 끝나면 보통 + es (bus → buses)",
+     "자음 + y로 끝나면 y를 i로 바꾸고 + es (city → cities)",
+     "예) She has two pens. (그녀는 펜이 두 개 있어요.)"
+    ]
+   },
+   "narration": "two, three, many처럼 둘 이상을 나타내는 말 뒤에는 명사의 복수형을 써요. 복수형은 대부분 명사 끝에 s를 붙여요. 하지만 s, sh, ch, x로 끝나는 명사에는 보통 es를 붙이고, 자음 다음에 y로 끝나는 명사는 y를 i로 바꾸고 es를 붙여요. 예를 들어 She has two pens. 그녀는 펜이 두 개 있어요.",
+   "caption": "둘 이상이면 명사는 복수형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "빈칸에 들어갈 알맞은 단어를 고르세요.\n\nI have two _______.\n\n① cat\n② cats\n③ cates\n④ a cat\n⑤ cattes",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "two",
+       "_______"
+      ],
+      "strike": [
+       "① cat",
+       "④ a cat"
+      ],
+      "note": "빈칸 앞 two = 둘 → 복수형 자리. 단수형 cat, 하나를 뜻하는 a cat은 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "③ cates",
+       "⑤ cattes"
+      ],
+      "note": "cat은 s, sh, ch, x로 끝나지 않음 → s만 붙인다. cates, cattes는 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② cats"
+      ],
+      "strike": [],
+      "note": "남는 것은 cat + s = cats → I have two cats."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 빈칸 앞의 two는 둘을 나타내니까 빈칸에는 복수형이 와야 해요. 단수형 cat과, 하나를 뜻하는 a가 붙은 a cat은 지워요. 둘째, cat은 s, sh, ch, x로 끝나지 않아서 s만 붙여요. es를 붙인 cates와, t를 겹쳐 쓰고 es를 붙인 cattes도 지워요. 셋째, 남는 복수형 cats를 넣으면 I have two cats, 나는 고양이가 두 마리 있어요.",
+   "caption": "two → 복수형 → s만 → cats"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① cat  ✗  two 뒤에 단수형은 쓰지 않아요\n② cats  ✓  cat + s, two 뒤에 알맞은 복수형\n③ cates  ✗  cat은 s, sh, ch, x로 끝나지 않아 es가 아니라 s\n④ a cat  ✗  a cat은 고양이 한 마리, two와 함께 못 써요\n⑤ cattes  ✗  t를 겹쳐 쓰지 않고 es도 붙이지 않아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① cat  ✗  two 뒤에 단수형은 쓰지 않아요",
+     "② cats  ✓  cat + s, two 뒤에 알맞은 복수형",
+     "③ cates  ✗  cat은 s, sh, ch, x로 끝나지 않아 es가 아니라 s",
+     "④ a cat  ✗  a cat은 고양이 한 마리, two와 함께 못 써요",
+     "⑤ cattes  ✗  t를 겹쳐 쓰지 않고 es도 붙이지 않아요"
+    ]
+   },
+   "narration": "정답은 2번 cats예요. 3번 cates는 es를 붙였는데, cat은 s, sh, ch, x로 끝나지 않으니 s만 붙여요. 5번 cattes는 t를 겹쳐 쓰고 es까지 붙여서 틀렸어요. 4번 a cat은 고양이 한 마리라는 뜻이라 two와 함께 쓸 수 없어요.",
+   "caption": "정답 ② cats"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② cats\n\n둘 이상(two, three, many) 뒤 명사 → 복수형 (대부분 + s)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② cats",
+     "둘 이상(two, three, many) 뒤 명사 → 복수형 (대부분 + s)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, two처럼 둘 이상을 나타내는 말 뒤에는 명사의 복수형을 쓰고, 대부분 끝에 s를 붙여요.",
+   "caption": "둘 이상 + 복수형(대부분 + s)"
+  }
+ ],
+ "source": {
+  "stem": "빈칸에 들어갈 알맞은 단어를 고르세요.",
+  "passage": "I have two _______.",
+  "c": [
+   "cat",
+   "cats",
+   "cates",
+   "a cat",
+   "cattes"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: two, many처럼 둘 이상을 나타내는 말 뒤에는 복수형을 쓴다. 대부분 -s를 붙인다(cat → cats).\n풀이 순서: ① 빈칸 앞의 two를 본다. 둘 이상이므로 복수형이 필요하다. → ② 단수형과 a가 붙은 것을 지우고, 복수형 철자를 확인한다: cat + s. → ③ 정답은 cats.\n문장별 판정:\n정답 판단: two 뒤에 복수형 cats를 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] two 뒤에 단수형을 쓸 수 없으므로 오답이다.\n② [정답] two 뒤에 복수형 cats를 바르게 썼으므로 정답이다.\n③ [오답] cat에는 -s만 붙이므로 오답이다.\n④ [오답] two 뒤에 a를 쓸 수 없으므로 오답이다.\n⑤ [오답] cattes라는 형태는 없으므로 오답이다."
+ }
+}

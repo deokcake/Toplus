@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T04:09:53.361Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "They do not going to play soccer after school.",
+      "1": "They are not going to play soccer after school.",
+      "2": "They will are not going to play soccer after school.",
+      "3": "They are not go to play soccer after school.",
+      "4": "They not are going to play soccer after school."
+    },
+    "expl": "핵심 규칙: be going to의 부정문은 be동사 바로 뒤에 not을 넣어 be not going to + 동사원형으로 쓴다. do/does로 부정하거나 to를 빼면 틀린다.\n풀이 순서: ① be going to 문장의 부정은 be동사(are) 바로 뒤에 not을 넣는다. → ② 나머지(going to + 동사원형)는 그대로 둔다: are not going to play. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: be동사(are) 뒤에 not을 바르게 넣었으므로 정답은 ②이다.\n선택지 분석:\n① [오답] be going to는 do나 does로 부정하지 않으므로 오답이다.\n② [정답] be동사(are) 뒤에 not을 바르게 넣었으므로 정답이다.\n③ [오답] will과 be going to를 겹쳐 쓸 수 없으므로 오답이다.\n④ [오답] going을 go로 바꿔 틀렸으므로 오답이다.\n⑤ [오답] not은 be동사 뒤에 와야 하므로 오답이다.",
+    "passage": "They are going to play soccer after school.",
+    "stem": "다음 문장을 부정문으로 바르게 바꾼 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:17:10.438Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:17:18.289Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:09:53.361Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:09:47.652Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:09:53.361Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T08:50:35.922Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "She payed for the tickets.",
+      "1": "We planed a trip.",
+      "2": "He rubed his eyes.",
+      "3": "They stoped the car.",
+      "4": "The dog chased the ball."
+    },
+    "expl": "핵심 규칙: 규칙 과거형은 -ed를 붙이고, -e로 끝나면 -d만(hoped, danced), 자음 + y는 y를 i로 바꾸고 -ed(cried, worried), 강세 있는 단모음 + 단자음은 자음을 겹쳐 -ed(planned, shopped)를 붙인다. w·x로 끝나거나 모음 두 개 뒤의 자음, 강세가 앞에 있는 visit·open·listen은 겹쳐 쓰지 않으며, pay의 과거형은 paid이다.\n풀이 순서: ① 문장마다 과거형의 원형을 떠올리고 끝(자음 + y, 단모음 + 단자음, -e, 모음 두 개 + 자음)을 본다. → ② 규칙에 맞게 바뀌었는지 본다. → ③ 선택지 ⑤의 chased만 바르다(chase + d). 정답은 ⑤.\n문장별 판정:\n정답 판단: chase는 -e로 끝나 -d만 붙여 chased로 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] pay의 과거형은 불규칙형 paid이므로 오답이다.\n② [오답] plan은 단모음 + 단자음이라 n을 겹쳐 planned로 써야 하므로 오답이다.\n③ [오답] rub은 단모음 + 단자음이라 b를 겹쳐 rubbed로 써야 하므로 오답이다.\n④ [오답] stop은 단모음 + 단자음이라 p를 겹쳐 stopped로 써야 하므로 오답이다.\n⑤ [정답] chase는 -e로 끝나 -d만 붙여 chased로 바르게 썼으므로 정답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T08:50:33.970Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T08:50:35.922Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:50:35.922Z",
+      "what": "확인 완료"
+    }
+  }
+}

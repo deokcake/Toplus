@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T02:47:39.174Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A) on - (B) at",
+      "1": "(A) at - (B) on",
+      "2": "(A) at - (B) in",
+      "3": null,
+      "4": "(A) in - (B) at"
+    },
+    "expl": "핵심 규칙: 시각·정오·밤 앞에는 at, 요일·날짜 앞에는 on, 월·계절·연도·오전/오후/저녁 앞에는 in을 쓴다. 장소는 특정 지점에 at, 표면 위에 on, 안쪽이나 도시·나라에 in을 쓴다.\n풀이 순서: ① (A) 뒤의 말: 3 p.m.(시각) → at. → ② (B) 뒤의 말: Monday(요일) → on. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: 시각 앞에 at, 요일 앞에 on을 바르게 짝지었으므로 정답은 ②이다.\n선택지 분석:\n① [오답] (A): 시각 앞에는 at을, (B): 요일 앞에는 on을 쓰므로 오답이다.\n② [정답] 시각 앞에 at, 요일 앞에 on을 바르게 짝지었으므로 정답이다.\n③ [오답] (B): 요일 앞에는 on을 쓰므로 오답이다.\n④ [오답] (A): 시각 앞에는 at을 쓰므로 오답이다.\n⑤ [오답] (A): 시각 앞에는 at을, (B): 요일 앞에는 on을 쓰므로 오답이다.",
+    "passage": "We meet (A)_______ 3 p.m. (B)_______ Monday.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:47:36.294Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-22T02:47:39.174Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:47:39.174Z",
+      "what": "확인 완료"
+    }
+  }
+}

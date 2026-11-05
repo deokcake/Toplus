@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T03:54:00.456Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "Walked",
+      "1": "made",
+      "2": "standing",
+      "3": "Surprised",
+      "4": "Holding"
+    },
+    "expl": "핵심 규칙: 분사구문과 명사를 꾸미는 분사는 의미상 주어(꾸밈을 받는 명사)와의 관계가 능동이면 현재분사, 수동이면 과거분사를 쓴다. 앞선 일이 끝난 뒤를 나타내면 Having + 과거분사를 쓴다.\n풀이 순서: ① 밑줄 친 분사마다 의미상 주어(분사구문은 주절의 주어, 명사 수식은 그 명사)를 찾는다. → ② 주어가 그 동작을 하면 -ing, 당하면 과거분사다. 분사 뒤에 목적어가 있으면 능동, by ~가 있으면 수동일 가능성이 크다. → ③ 선택지 ①이 틀렸다: Tom이 가판대를 ‘돌아다닌’ 것이므로 Walked가 아니라 Walking.\n문장별 판정:\n정답 판단: Walked: 주어(he)가 직접 걷는 능동 관계이므로 Walking으로 고쳐야 한다.\n선택지 분석:\n① [정답] Walked: 주어(he)가 직접 걷는 능동 관계이므로 Walking으로 고쳐야 한다. 어법상 틀린 부분이므로 정답이다.\n② [오답] made: 카메라가 독일에서 만들어진 수동 관계라 알맞으므로 오답이다.\n③ [오답] standing: 판매자가 직접 서 있는 능동 관계라 알맞으므로 오답이다.\n④ [오답] Surprised: 주어(Tom)가 싼 가격에 놀라게 된 수동 관계라 알맞으므로 오답이다.\n⑤ [오답] Holding: 주어(he)가 직접 카메라를 드는 능동 관계라 알맞으므로 오답이다.",
+    "passage": "Last Saturday, Tom visited a flea market in the old part of the city. ①<u>Walked</u> around the crowded stalls for an hour, he found an old film camera on a dusty table. The camera, ②<u>made</u> in Germany more than fifty years ago, still looked great. The seller ③<u>standing</u> behind the table smiled at him and told him its story. ④<u>Surprised</u> at the low price, Tom bought it right away without thinking twice. ⑤<u>Holding</u> the camera carefully in his hands, he took pictures all the way home.",
+    "stem": "다음 글의 밑줄 친 부분 중 어법상 틀린 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T03:53:54.066Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T03:54:00.456Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T03:54:00.456Z",
+      "what": "확인 완료"
+    }
+  }
+}

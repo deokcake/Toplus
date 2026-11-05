@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:16:12.407Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "'stronger'는 'strong'에 '-er'을 붙인 비교급이다.",
+      "1": "'even'은 ‘훨씬’이라는 뜻으로 비교급 'stronger'를 강조한다.",
+      "2": "'than' 뒤에는 비교하는 대상인 'my father'가 온다.",
+      "3": "'stronger' 대신 'more strong'을 써도 같은 뜻의 옳은 문장이다.",
+      "4": "'even' 자리에 'a lot'을 써도 비교급을 강조할 수 있다."
+    },
+    "expl": "핵심 규칙: 비교급은 much·even·far·still·a lot·a little로 강조하거나 정도를 나타내고, very·so로는 비교급을 꾸미지 않는다. 짧은 단어는 -er, 긴 단어는 more를 붙이며 둘을 겹쳐 쓰지 않는다.\n풀이 순서: ① 밑줄 부분을 나눈다: 강조어 even + 비교급 stronger + than. → ② 보기마다 강조어·비교급 형태·than의 설명이 맞는지 본다. 비교급을 강조하는 말은 much, even, far, a lot이고 very는 안 된다. → ③ 선택지 ④는 stronger 대신 more strong을 써도 된다고 해서 틀렸다. strong은 짧은 단어라 stronger만 쓴다. 정답은 ④.\n문장별 판정:\n정답 판단: strong의 비교급은 stronger이고 more strong으로 쓰지 않으므로 옳지 않은 설명이다.\n선택지 분석:\n① [오답] 짧은 단어 strong에 -er을 붙인 비교급이라 옳은 설명이므로 오답이다.\n② [오답] even은 비교급을 강조하므로 옳은 설명이다. 따라서 오답이다.\n③ [오답] than 뒤에 비교 대상이 오므로 옳은 설명이다. 따라서 오답이다.\n④ [정답] strong의 비교급은 stronger이고 more strong으로 쓰지 않으므로 옳지 않은 설명이다. 따라서 정답이다.\n⑤ [오답] a lot도 비교급을 강조하므로 옳은 설명이다. 따라서 오답이다.",
+    "passage": "My brother is <u>even stronger than</u> my father.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:16:11.414Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:16:12.407Z",
+      "what": "확인 완료"
+    }
+  }
+}

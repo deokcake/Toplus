@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T02:39:29.569Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "at",
+      "1": "past",
+      "2": "to",
+      "3": null,
+      "4": "o'clock"
+    },
+    "expl": "핵심 규칙: 30분은 half past + 그 시각, 15분은 a quarter after(past) + 그 시각, 45분·50분처럼 다음 시각이 가까우면 a quarter/ten to + 다음 시각으로 나타낸다.\n풀이 순서: ① 우리말 시각을 본다: 4시 30분. → ② 주어진 틀에 맞춰 본다: 4시에서 30분 지남 → half past four. → ③ 정답은 past.\n문장별 판정:\n정답 판단: half past four는 4시 30분이므로 정답은 ②이다.\n선택지 분석:\n① [오답] at은 시각 앞에 쓰는 전치사라 half 뒤에 올 수 없으므로 오답이다.\n② [정답] half past four는 4시 30분이므로 정답이다.\n③ [오답] half to four라는 표현은 쓰지 않으므로 오답이다.\n④ [오답] half 뒤에 quarter를 쓸 수 없으므로 오답이다.\n⑤ [오답] o'clock은 정각에만 쓰므로 오답이다.",
+    "passage": "It's half ________ four.",
+    "stem": "다음 빈칸에 '4시 30분'이라는 의미가 되도록 알맞은 단어를 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:39:26.666Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-22T02:39:29.570Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:39:29.570Z",
+      "what": "확인 완료"
+    }
+  }
+}

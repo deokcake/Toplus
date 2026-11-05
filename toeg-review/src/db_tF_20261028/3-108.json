@@ -1,0 +1,37 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:33:50.980Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "The Han River is one of the longest river in Korea.",
+      "1": "The Han River is one of the longest rivers in Korea.",
+      "2": "The Han River is one of the longer rivers in Korea.",
+      "3": "The Han River is the one of longest rivers in Korea.",
+      "4": "The Han River is one of longest the rivers in Korea."
+    },
+    "expl": "핵심 규칙: ‘가장 ~한 것 중 하나’는 one of the + 최상급 + 복수명사로 쓴다.\n풀이 순서: ① ‘가장 ~한 … 중 하나’의 틀을 세운다: one of the + 최상급 + 복수명사. → ② 형태를 바꿀 낱말은 둘이다: long → longest, river → rivers. → ③ the가 최상급 바로 앞에 있는지도 확인한다. 정답은 ②.\n문장별 판정:\n정답 판단: one of the + 최상급(longest) + 복수명사(rivers)로 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 최상급 뒤에 단수 river를 썼고, 복수형 rivers이 되어야 하므로 오답이다.\n② [정답] one of the + 최상급(longest) + 복수명사(rivers)로 바르게 썼으므로 정답이다.\n③ [오답] ‘가장 ~한 것 중 하나’는 비교급 longer가 아니라 최상급 longest을 쓰므로 오답이다.\n④ [오답] the가 one 앞에 와서 one of the + 최상급 어순이 깨졌으므로 오답이다.\n⑤ [오답] the가 최상급 longest 뒤로 가서 one of the + 최상급 어순이 깨졌으므로 오답이다.",
+    "passage": "한강은 한국에서 가장 긴 강 중 하나이다.\n( river / one / Han / is / of / the / long / River / in / the / Korea / . )",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오. (필요하면 단어의 형태를 바꿀 것)"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:28:09.341Z",
+      "text": "the Han River 도 각각 하나씩 끊어서 제시하는 것이 좋음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:33:50.980Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:33:47.461Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:33:50.980Z",
+      "what": "확인 완료"
+    }
+  }
+}

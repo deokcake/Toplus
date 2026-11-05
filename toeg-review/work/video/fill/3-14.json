@@ -1,0 +1,477 @@
+{
+ "A": {
+  "title": "불규칙동사의 과거형",
+  "intro": "이 문제는 불규칙동사의 과거형을 세 개 모두 바르게 쓴 묶음을 고르는 문제예요.",
+  "problem_narration": "다음 동사의 과거형이 모두 올바른 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+    "규칙동사 → 보통 동사원형 + ed (play → played)",
+    "불규칙동사 → 정해진 과거형을 따로 외워요 (go → went, see → saw)",
+    "불규칙동사에 ed를 붙이면 틀려요 (goed ✗)",
+    "예) We played soccer and went home. (우리는 축구를 하고 집에 갔어요.)"
+   ],
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙동사는 보통 동사원형 끝에 ed를 붙여서, play는 played가 돼요. 불규칙동사는 go는 went, see는 saw처럼 정해진 과거형을 따로 외우고, goed처럼 ed를 붙이면 틀려요. 예를 들어 We played soccer and went home. 우리는 축구를 하고 집에 갔어요."
+  },
+  "steps": [
+   {
+    "note": "묶음마다 세 과거형 확인. give → gave, fly → flew인데 ed를 붙임 → ②, ③ 지움",
+    "highlight": [
+     "give - gived",
+     "fly - flied"
+    ],
+    "strike": [
+     "② give - gived / break - broke / grow - grew",
+     "③ fly - flied / build - built / teach - taught"
+    ],
+    "narration": "첫째, 묶음마다 세 동사의 과거형을 하나씩 확인해요. give의 과거형은 gave, fly의 과거형은 flew라서 gived가 있는 2번과 flied가 있는 3번을 지워요."
+   },
+   {
+    "note": "catch → caught, leave → left인데 ed를 붙임 → ④, ⑤ 지움",
+    "highlight": [
+     "catch - catched",
+     "leave - leaved"
+    ],
+    "strike": [
+     "④ swim - swam / catch - catched / fall - fell",
+     "⑤ begin - began / forget - forgot / leave - leaved"
+    ],
+    "narration": "둘째, catch의 과거형은 caught, leave의 과거형은 left라서 catched가 있는 4번과 leaved가 있는 5번도 지워요."
+   },
+   {
+    "note": "남는 ① → ran, spoke, took 모두 바른 과거형",
+    "highlight": [
+     "① run - ran / speak - spoke / take - took"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 1번은 ran, spoke, took이 모두 맞는 과거형이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① run - ran / speak - spoke / take - took  ✓  ran, spoke, took 모두 바른 과거형",
+    "② give - gived / break - broke / grow - grew  ✗  give의 과거형은 gave",
+    "③ fly - flied / build - built / teach - taught  ✗  fly의 과거형은 flew",
+    "④ swim - swam / catch - catched / fall - fell  ✗  catch의 과거형은 caught",
+    "⑤ begin - began / forget - forgot / leave - leaved  ✗  leave의 과거형은 left"
+   ],
+   "narration": "정답은 1번이에요. 3번은 built와 taught는 맞지만, fly의 과거형은 flied가 아니라 flew예요. 4번은 swam과 fell은 맞지만, catch의 과거형은 caught예요. 5번은 began과 forgot은 맞지만, leave의 과거형은 left예요."
+  },
+  "summary": {
+   "card": "불규칙동사의 과거형은 ed 없이 따로 외워요 (catch → caught)",
+   "narration": "정답은 1번이에요. 기억할 것, 불규칙동사는 ed를 붙이지 않고 정해진 과거형을 외워서 써요."
+  },
+  "captions": [
+   "불규칙동사의 과거형",
+   "먼저 풀어 보세요",
+   "규칙동사는 ed, 불규칙동사는 외우기",
+   "ed 붙인 불규칙동사 지우기",
+   "정답 ① ran, spoke, took",
+   "불규칙동사는 ed 없이"
+  ],
+  "sec": [
+   11,
+   15,
+   27,
+   35,
+   25,
+   10
+  ]
+ },
+ "B": {
+  "title": "불규칙동사의 과거형",
+  "intro": "이 문제는 ed를 붙이지 않는 불규칙동사의 과거형을 바르게 쓴 묶음을 고르는 문제예요.",
+  "problem_narration": "다음 동사의 과거형이 모두 올바른 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+    "규칙동사 → 보통 동사원형 + ed (watch → watched)",
+    "불규칙동사 → 정해진 과거형을 따로 외워요 (buy → bought, write → wrote)",
+    "불규칙동사에 ed를 붙이면 틀려요 (buyed ✗)",
+    "예) I watched a movie and bought popcorn. (나는 영화를 보고 팝콘을 샀어요.)"
+   ],
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙동사는 보통 동사원형 끝에 ed를 붙여서, watch는 watched가 돼요. 불규칙동사는 buy는 bought, write는 wrote처럼 정해진 과거형을 따로 외우고, buyed처럼 ed를 붙이면 틀려요. 예를 들어 I watched a movie and bought popcorn. 나는 영화를 보고 팝콘을 샀어요."
+  },
+  "steps": [
+   {
+    "note": "묶음마다 세 과거형 확인. keep → kept, drive → drove인데 ed를 붙임 → ①, ③ 지움",
+    "highlight": [
+     "keep - keeped",
+     "drive - drived"
+    ],
+    "strike": [
+     "① hold - held / keep - keeped / feel - felt",
+     "③ sing - sang / drive - drived / ride - rode"
+    ],
+    "narration": "첫째, 묶음마다 세 동사의 과거형을 하나씩 확인해요. keep의 과거형은 kept, drive의 과거형은 drove라서 keeped가 있는 1번과 drived가 있는 3번을 지워요."
+   },
+   {
+    "note": "lose → lost, hear → heard인데 ed를 붙임 → ④, ⑤ 지움",
+    "highlight": [
+     "lose - losed",
+     "hear - heared"
+    ],
+    "strike": [
+     "④ lose - losed / send - sent / spend - spent",
+     "⑤ wear - wore / tell - told / hear - heared"
+    ],
+    "narration": "둘째, lose의 과거형은 lost, hear의 과거형은 heard라서 losed가 있는 4번과 heared가 있는 5번도 지워요."
+   },
+   {
+    "note": "남는 ② → sat, won, sold 모두 바른 과거형",
+    "highlight": [
+     "② sit - sat / win - won / sell - sold"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 2번은 sat, won, sold가 모두 맞는 과거형이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① hold - held / keep - keeped / feel - felt  ✗  keep의 과거형은 kept",
+    "② sit - sat / win - won / sell - sold  ✓  sat, won, sold 모두 바른 과거형",
+    "③ sing - sang / drive - drived / ride - rode  ✗  drive의 과거형은 drove",
+    "④ lose - losed / send - sent / spend - spent  ✗  lose의 과거형은 lost",
+    "⑤ wear - wore / tell - told / hear - heared  ✗  hear의 과거형은 heard"
+   ],
+   "narration": "정답은 2번이에요. 1번은 held와 felt는 맞지만, keep의 과거형은 keeped가 아니라 kept예요. 5번은 wore와 told는 맞지만, hear의 과거형은 heard예요. 4번은 sent와 spent는 맞지만, lose의 과거형은 lost예요."
+  },
+  "summary": {
+   "card": "불규칙동사의 과거형은 ed 없이 따로 외워요 (keep → kept)",
+   "narration": "정답은 2번이에요. 기억할 것, 불규칙동사는 ed를 붙이지 않고 정해진 과거형을 외워서 써요."
+  },
+  "captions": [
+   "불규칙동사의 과거형",
+   "먼저 풀어 보세요",
+   "규칙동사는 ed, 불규칙동사는 외우기",
+   "ed 붙인 불규칙동사 지우기",
+   "정답 ② sat, won, sold",
+   "불규칙동사는 ed 없이"
+  ],
+  "sec": [
+   12,
+   15,
+   28,
+   35,
+   25,
+   10
+  ]
+ },
+ "C": {
+  "title": "불규칙동사의 과거형과 원형이 같은 동사",
+  "intro": "이 문제는 원형과 같은 꼴을 포함해 불규칙동사의 과거형을 바르게 쓴 묶음을 고르는 문제예요.",
+  "problem_narration": "다음 동사의 과거형이 모두 올바른 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+    "규칙동사 → 보통 동사원형 + ed (clean → cleaned)",
+    "불규칙동사 → ed 없이 정해진 과거형 (do → did, write → wrote)",
+    "원형과 과거형이 같은 동사도 있어요 (hit → hit)",
+    "예) She cleaned her room and did her homework. (그녀는 방을 청소하고 숙제를 했어요.)"
+   ],
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙동사는 보통 동사원형 끝에 ed를 붙여서, clean은 cleaned가 돼요. 불규칙동사는 ed를 붙이지 않고 do는 did처럼 정해진 과거형을 외워야 하고, hit처럼 원형과 과거형이 같은 동사도 있어요. 예를 들어 She cleaned her room and did her homework. 그녀는 방을 청소하고 숙제를 했어요."
+  },
+  "steps": [
+   {
+    "note": "묶음마다 세 과거형 확인. draw → drew, feed → fed인데 ed를 붙임 → ①, ② 지움",
+    "highlight": [
+     "draw - drawed",
+     "feed - feeded"
+    ],
+    "strike": [
+     "① draw - drawed / know - knew / throw - threw",
+     "② meet - met / feed - feeded / lead - led"
+    ],
+    "narration": "첫째, 묶음마다 세 동사의 과거형을 하나씩 확인해요. draw의 과거형은 drew, feed의 과거형은 fed라서 drawed가 있는 1번과 feeded가 있는 2번을 지워요."
+   },
+   {
+    "note": "teach → taught, shut → shut(원형과 같음)인데 ed를 붙임 → ③, ⑤ 지움",
+    "highlight": [
+     "teach - teached",
+     "shut - shutted"
+    ],
+    "strike": [
+     "③ think - thought / fight - fought / teach - teached",
+     "⑤ shut - shutted / cut - cut / put - put"
+    ],
+    "narration": "둘째, teach의 과거형은 taught라서 teached가 있는 3번을 지워요. shut은 cut, put처럼 원형과 과거형이 같아서 shutted가 있는 5번도 지워요."
+   },
+   {
+    "note": "남는 ④ → chose, froze, stole 모두 바른 과거형",
+    "highlight": [
+     "④ choose - chose / freeze - froze / steal - stole"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 4번은 chose, froze, stole이 모두 맞는 과거형이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① draw - drawed / know - knew / throw - threw  ✗  draw의 과거형은 drew",
+    "② meet - met / feed - feeded / lead - led  ✗  feed의 과거형은 fed",
+    "③ think - thought / fight - fought / teach - teached  ✗  teach의 과거형은 taught",
+    "④ choose - chose / freeze - froze / steal - stole  ✓  chose, froze, stole 모두 바른 과거형",
+    "⑤ shut - shutted / cut - cut / put - put  ✗  shut은 원형과 과거형이 같아 shut"
+   ],
+   "narration": "정답은 4번이에요. 5번은 cut과 put은 맞지만, shut도 과거형이 shut이라서 shutted는 틀려요. 1번은 knew와 threw는 맞지만, draw의 과거형은 drew예요. 3번은 thought와 fought는 맞지만, teach의 과거형은 taught예요."
+  },
+  "summary": {
+   "card": "불규칙동사는 ed 없이 정해진 과거형, 원형과 같은 것도 있어요 (shut → shut)",
+   "narration": "정답은 4번이에요. 기억할 것, 불규칙동사는 ed를 붙이지 않고, shut처럼 원형과 과거형이 같은 동사도 있어요."
+  },
+  "captions": [
+   "불규칙동사의 과거형",
+   "먼저 풀어 보세요",
+   "규칙동사 ed, 불규칙동사, 원형과 같은 꼴",
+   "틀린 과거형 지우기",
+   "정답 ④ chose, froze, stole",
+   "shut의 과거형은 shut"
+  ],
+  "sec": [
+   12,
+   15,
+   30,
+   36,
+   25,
+   11
+  ]
+ },
+ "D": {
+  "title": "불규칙동사의 과거형",
+  "intro": "이 문제는 불규칙동사의 과거형을 세 개 모두 바르게 쓴 묶음을 고르는 문제예요.",
+  "problem_narration": "다음 동사의 과거형이 모두 올바른 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+    "규칙동사 → 보통 동사원형 + ed (walk → walked)",
+    "불규칙동사 → 정해진 과거형을 따로 외워요 (see → saw, have → had)",
+    "불규칙동사에 ed를 붙이면 틀려요 (haved ✗)",
+    "예) He walked to the park and saw his friend. (그는 공원까지 걸어가서 친구를 봤어요.)"
+   ],
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙동사는 보통 동사원형 끝에 ed를 붙여서, walk는 walked가 돼요. 불규칙동사는 see는 saw, have는 had처럼 정해진 과거형을 따로 외우고, haved처럼 ed를 붙이면 틀려요. 예를 들어 He walked to the park and saw his friend. 그는 공원까지 걸어가서 친구를 봤어요."
+  },
+  "steps": [
+   {
+    "note": "묶음마다 세 과거형 확인. sell → sold, forget → forgot인데 ed를 붙임 → ①, ④ 지움",
+    "highlight": [
+     "sell - selled",
+     "forget - forgetted"
+    ],
+    "strike": [
+     "① stand - stood / understand - understood / sell - selled",
+     "④ get - got / forget - forgetted / shoot - shot"
+    ],
+    "narration": "첫째, 묶음마다 세 동사의 과거형을 하나씩 확인해요. sell의 과거형은 sold, forget의 과거형은 forgot이라서 selled가 있는 1번과 forgetted가 있는 4번을 지워요."
+   },
+   {
+    "note": "pay → paid, sink → sank인데 ed를 붙임 → ②, ⑤ 지움",
+    "highlight": [
+     "pay - payed",
+     "sink - sinked"
+    ],
+    "strike": [
+     "② pay - payed / say - said / lay - laid",
+     "⑤ drink - drank / sink - sinked / ring - rang"
+    ],
+    "narration": "둘째, pay의 과거형은 paid, sink의 과거형은 sank라서 payed가 있는 2번과 sinked가 있는 5번도 지워요."
+   },
+   {
+    "note": "남는 ③ → blew, grew, knew 모두 바른 과거형",
+    "highlight": [
+     "③ blow - blew / grow - grew / know - knew"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 3번은 blew, grew, knew가 모두 맞는 과거형이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① stand - stood / understand - understood / sell - selled  ✗  sell의 과거형은 sold",
+    "② pay - payed / say - said / lay - laid  ✗  pay의 과거형은 paid",
+    "③ blow - blew / grow - grew / know - knew  ✓  blew, grew, knew 모두 바른 과거형",
+    "④ get - got / forget - forgetted / shoot - shot  ✗  forget의 과거형은 forgot",
+    "⑤ drink - drank / sink - sinked / ring - rang  ✗  sink의 과거형은 sank"
+   ],
+   "narration": "정답은 3번이에요. 2번은 play의 과거형 played처럼 payed라고 쓰기 쉽지만, pay는 불규칙동사라서 과거형이 paid예요. 5번은 drank와 rang은 맞지만, sink의 과거형은 sank예요. 4번은 got과 shot은 맞지만, forget의 과거형은 forgot이에요."
+  },
+  "summary": {
+   "card": "불규칙동사의 과거형은 ed 없이 따로 외워요 (pay → paid)",
+   "narration": "정답은 3번이에요. 기억할 것, 불규칙동사는 ed를 붙이지 않고 정해진 과거형을 외워서 써요."
+  },
+  "captions": [
+   "불규칙동사의 과거형",
+   "먼저 풀어 보세요",
+   "규칙동사는 ed, 불규칙동사는 외우기",
+   "ed 붙인 불규칙동사 지우기",
+   "정답 ③ blew, grew, knew",
+   "불규칙동사는 ed 없이"
+  ],
+  "sec": [
+   11,
+   15,
+   29,
+   36,
+   26,
+   10
+  ]
+ },
+ "E": {
+  "title": "규칙동사와 불규칙동사의 과거형",
+  "intro": "이 문제는 규칙동사와 불규칙동사의 과거형을 구별해 세 개 모두 바르게 쓴 묶음을 고르는 문제예요.",
+  "problem_narration": "다음 동사의 과거형이 모두 올바른 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+    "규칙동사 → 보통 동사원형 + ed (help → helped)",
+    "불규칙동사 → ed 없이 정해진 과거형 (go → went)",
+    "원형과 과거형이 같은 동사도 있어요 (cut → cut, put → put)",
+    "예) I helped my mom and put the cups away. (나는 엄마를 돕고 컵을 치웠어요.)"
+   ],
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙동사는 보통 동사원형에 ed를 붙여서, help는 helped가 돼요. 불규칙동사는 ed 없이 go는 went처럼 정해진 과거형을 외우고, cut, put처럼 원형과 과거형이 같은 동사도 있어요. 예를 들어 I helped my mom and put the cups away. 나는 엄마를 돕고 컵을 치웠어요."
+  },
+  "steps": [
+   {
+    "note": "묶음마다 세 과거형 확인. hurt → hurt(원형과 같음), lend → lent인데 ed를 붙임 → ①, ② 지움",
+    "highlight": [
+     "hurt - hurted",
+     "lend - lended"
+    ],
+    "strike": [
+     "① hit - hit / hurt - hurted / cost - cost",
+     "② lend - lended / bend - bent / spend - spent"
+    ],
+    "narration": "첫째, 묶음마다 세 동사의 과거형을 하나씩 확인해요. hurt는 과거형도 hurt이고 lend의 과거형은 lent라서, hurted가 있는 1번과 lended가 있는 2번을 지워요."
+   },
+   {
+    "note": "sleep → slept, slide → slid인데 ed를 붙임 → ③, ④ 지움",
+    "highlight": [
+     "sleep - sleeped",
+     "slide - slided"
+    ],
+    "strike": [
+     "③ feel - felt / smell - smelled / sleep - sleeped",
+     "④ bite - bit / hide - hid / slide - slided"
+    ],
+    "narration": "둘째, sleep의 과거형은 slept, slide의 과거형은 slid라서 sleeped가 있는 3번과 slided가 있는 4번도 지워요."
+   },
+   {
+    "note": "남는 ⑤ → meant, dealt는 불규칙 과거형, dream은 ed를 붙여 dreamed",
+    "highlight": [
+     "⑤ mean - meant / deal - dealt / dream - dreamed"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 5번에서 meant와 dealt는 불규칙동사의 바른 과거형이고, dream은 ed를 붙인 dreamed가 맞아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① hit - hit / hurt - hurted / cost - cost  ✗  hurt는 원형과 과거형이 같아 hurt",
+    "② lend - lended / bend - bent / spend - spent  ✗  lend의 과거형은 lent",
+    "③ feel - felt / smell - smelled / sleep - sleeped  ✗  sleep의 과거형은 slept",
+    "④ bite - bit / hide - hid / slide - slided  ✗  slide의 과거형은 slid",
+    "⑤ mean - meant / deal - dealt / dream - dreamed  ✓  meant, dealt, dreamed 모두 바른 과거형"
+   ],
+   "narration": "정답은 5번이에요. dreamed는 ed가 붙어 있어 틀려 보이지만, dream은 ed를 붙여 과거형을 만들어요. 3번은 felt와 smelled는 맞지만, sleep의 과거형은 slept예요. 1번은 hit과 cost는 맞지만, hurt도 과거형이 hurt라서 hurted는 틀려요."
+  },
+  "summary": {
+   "card": "규칙동사는 ed, 불규칙동사는 정해진 과거형 (dream → dreamed, sleep → slept)",
+   "narration": "정답은 5번이에요. 기억할 것, 규칙동사는 ed를 붙이고, 불규칙동사는 정해진 과거형을 외워서 써요."
+  },
+  "captions": [
+   "규칙·불규칙동사의 과거형",
+   "먼저 풀어 보세요",
+   "규칙동사 ed, 불규칙동사, 원형과 같은 꼴",
+   "틀린 과거형 지우기",
+   "정답 ⑤ meant, dealt, dreamed",
+   "규칙동사 ed, 불규칙동사 외우기"
+  ],
+  "sec": [
+   12,
+   15,
+   29,
+   36,
+   26,
+   11
+  ]
+ },
+ "F": {
+  "title": "모양이 비슷한 동사의 과거형",
+  "intro": "이 문제는 모양이 비슷한 동사까지 구별해 과거형을 세 개 모두 바르게 쓴 묶음을 고르는 문제예요.",
+  "problem_narration": "다음 동사의 과거형이 모두 올바른 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "과거형: 지나간 일을 말할 때 쓰는 동사의 꼴",
+    "규칙동사 → 보통 동사원형 + ed (visit → visited)",
+    "불규칙동사 → ed 없이 정해진 과거형 (have → had, go → went)",
+    "동사마다 규칙동사인지 불규칙동사인지 따로 확인해요",
+    "예) We visited Jeju and had a great time. (우리는 제주를 방문해서 즐거운 시간을 보냈어요.)"
+   ],
+   "narration": "과거형은 지나간 일을 말할 때 쓰는 동사의 꼴이에요. 규칙동사는 보통 동사원형 끝에 ed를 붙여서, visit은 visited가 돼요. 불규칙동사는 ed를 붙이지 않고 have는 had처럼 정해진 과거형을 쓰니까, 동사마다 어느 쪽인지 따로 확인해야 해요. 예를 들어 We visited Jeju and had a great time. 우리는 제주를 방문해서 즐거운 시간을 보냈어요."
+  },
+  "steps": [
+   {
+    "note": "불규칙동사에 ed: make → made, eat → ate, understand → understood → ②, ④, ⑤ 지움",
+    "highlight": [
+     "make - maked",
+     "eat - eated",
+     "understand - understanded"
+    ],
+    "strike": [
+     "② make - maked / shake - shook / take - took",
+     "④ beat - beat / eat - eated / seat - seated",
+     "⑤ mistake - mistook / forgive - forgave / understand - understanded"
+    ],
+    "narration": "첫째, 불규칙동사에 ed를 붙인 것부터 찾아요. make는 made, eat은 ate, understand는 understood라서 maked, eated, understanded가 있는 2번, 4번, 5번을 지워요."
+   },
+   {
+    "note": "rose는 rise(오르다)의 과거형. raise(올리다)는 규칙동사 → raised → ③ 지움",
+    "highlight": [
+     "rise - rose",
+     "raise - rose"
+    ],
+    "strike": [
+     "③ rise - rose / arise - arose / raise - rose"
+    ],
+    "narration": "둘째, rose는 오르다라는 뜻의 rise의 과거형이에요. 올리다라는 뜻의 raise는 ed를 붙이는 규칙동사라서 과거형이 raised이니, 3번도 지워요."
+   },
+   {
+    "note": "남는 ① → became, came, overcame 모두 바른 과거형",
+    "highlight": [
+     "① become - became / come - came / overcome - overcame"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 1번은 became, came, overcame이 모두 맞는 과거형이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① become - became / come - came / overcome - overcame  ✓  became, came, overcame 모두 바른 과거형",
+    "② make - maked / shake - shook / take - took  ✗  make의 과거형은 made",
+    "③ rise - rose / arise - arose / raise - rose  ✗  rose는 rise의 과거형, raise는 raised",
+    "④ beat - beat / eat - eated / seat - seated  ✗  eat의 과거형은 ate",
+    "⑤ mistake - mistook / forgive - forgave / understand - understanded  ✗  understand의 과거형은 understood"
+   ],
+   "narration": "정답은 1번이에요. 3번은 rise와 raise의 모양이 비슷해서 헷갈리기 쉽지만, raise의 과거형은 raised예요. 4번은 beat와 seated는 맞지만, eat의 과거형은 ate예요. 5번은 mistook과 forgave는 맞지만, understand의 과거형은 understood예요."
+  },
+  "summary": {
+   "card": "동사마다 과거형을 따로 확인해요 (rise → rose, raise → raised)",
+   "narration": "정답은 1번이에요. 기억할 것, 모양이 비슷해도 rise는 rose, raise는 raised처럼 동사마다 과거형을 따로 확인해요."
+  },
+  "captions": [
+   "모양이 비슷한 동사의 과거형",
+   "먼저 풀어 보세요",
+   "규칙동사 ed, 불규칙동사는 외우기",
+   "ed 붙인 것 → rise와 raise",
+   "정답 ① became, came, overcame",
+   "rise는 rose, raise는 raised"
+  ],
+  "sec": [
+   12,
+   15,
+   30,
+   38,
+   26,
+   12
+  ]
+ }
+}

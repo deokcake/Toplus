@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T19:54:06.135Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Leo asked me how Tom solves the problem.",
+      "1": null,
+      "2": "Leo asked to me how had Tom solved the problem.",
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 의문문을 간접화법으로 바꿀 때는 asked (+ 사람) + 의문사 + 주어 + 동사 어순으로 쓰고, 전달동사가 과거이면 시제를 한 단계 뒤로 옮긴다(과거 → 과거완료, will → would, now → then).\n풀이 순서: ① 전달동사는 asked를 쓰고 사람을 to 없이 바로 쓴다. said me, asked to me 꼴을 지운다. → ② 의문사 뒤는 ‘주어 + 동사’의 평서문 어순이다. did·will이 주어 앞에 남은 보기를 지운다. → ③ 전달동사가 과거이므로 시제 등을 바꾼다(did solve → had solved). 정답은 ④.\n문장별 판정:\n정답 판단: asked + 의문사 + 주어 + 동사 어순으로 시제를 한 단계 뒤로 옮겼다. 정답은 ④이다.\n선택지 분석:\n① [오답] 지난 일을 물은 질문인데 현재형을 썼다. 오답이다.\n② [오답] said 뒤에는 사람을 바로 쓰지 않고, 질문을 전할 때는 asked를 쓴다. 오답이다.\n③ [오답] asked 뒤에는 to 없이 사람을 쓰고, 간접의문문은 주어 + 동사 어순이어야 한다. 오답이다.\n④ [정답] asked + 의문사 + 주어 + 동사 어순으로 시제를 한 단계 뒤로 옮겼다. 정답이다.\n⑤ [오답] 간접의문문에 did를 남겨 의문문 어순이 되었다. 오답이다.",
+    "passage": null,
+    "stem": "다음 중 간접화법으로 바르게 전환된 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:53:55.109Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:54:06.135Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:54:06.135Z",
+      "what": "확인 완료"
+    }
+  }
+}

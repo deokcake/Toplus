@@ -1,0 +1,31 @@
+{
+  "by": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-24T03:10:03.951Z",
+  "doneBy": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "My brother likes pizza.",
+      "1": "Birds fly south in winter.",
+      "2": "Mina bought a new bag.",
+      "3": "I am thirsty now.",
+      "4": "The store opens at nine."
+    },
+    "expl": "핵심 규칙: 현재 시제는 현재의 상태·습관·일반적 사실을 나타내며 동사원형이나 -s/-es형, am/is/are를 쓴다. 과거형(bought, studied, played, visited)은 이미 끝난 일을 나타낸다.\n풀이 순서: ① 문장마다 동사만 본다. → ② 현재형(am/are/is, 동사원형, -(e)s)인 문장을 지운다. → ③ bought는 buy의 과거형이다. 정답은 ③.\n문장별 판정:\n정답 판단: 과거형(bought)을 쓴 과거 시제 문장이라 현재 시제가 아니므로 정답은 ③이다.\n선택지 분석:\n① [오답] 현재형(likes)으로 현재의 상태·습관을 나타내므로 오답이다.\n② [오답] 현재형(fly)으로 현재의 상태·습관을 나타내므로 오답이다.\n③ [정답] 과거형(bought)을 쓴 과거 시제 문장이라 현재 시제가 아니므로 정답이다.\n④ [오답] 현재형(am)으로 현재의 상태·습관을 나타내므로 오답이다.\n⑤ [오답] 현재형(opens)으로 현재의 상태·습관을 나타내므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": "2026-10-24T03:10:01.941Z"
+  },
+  "tab": "ai7fx4gw",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": {
+      "at": "2026-10-24T03:10:03.951Z",
+      "what": "확인 완료"
+    }
+  }
+}

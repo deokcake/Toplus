@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T10:35:00.694Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Us are hungry.",
+      "1": "I know his's name.",
+      "2": "Their's house is big.",
+      "3": "Please help my.",
+      "4": "These shoes are yours."
+    },
+    "expl": "핵심 규칙: 명사 앞에는 소유격(my, our, his, its, their), 명사 없이 ‘~의 것’은 소유대명사(mine, ours, hers, yours, theirs), 주어 자리에는 주격, 목적어 자리에는 목적격을 쓴다. 소유격·소유대명사에는 '(아포스트로피)를 붙이지 않고, it's는 it is의 줄임말이다.\n풀이 순서: ① 대명사마다 자리를 본다: 주어 자리, 명사 앞, 명사 없이 ‘~의 것’. → ② 주어 자리는 주격, 명사 앞은 소유격, 명사가 없으면 소유대명사다. → ③ 선택지 ⑤만 명사 없이 yours를 써서 맞다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 명사 없이 ‘너의 것’을 소유대명사 yours로 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 주어 자리에는 주격 We를 쓰므로 오답이다.\n② [오답] 소유격 his에는 's를 붙이지 않으므로 오답이다.\n③ [오답] 소유격 Their에는 's를 붙이지 않으므로 오답이다.\n④ [오답] 목적어 자리에는 목적격 me를 쓰므로 오답이다.\n⑤ [정답] 명사 없이 ‘너의 것’을 소유대명사 yours로 바르게 썼으므로 정답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:34:57.534Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:35:00.694Z",
+      "what": "확인 완료"
+    }
+  }
+}

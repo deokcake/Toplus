@@ -1,0 +1,173 @@
+{
+ "key": "5-33",
+ "type": "B",
+ "grade": 5,
+ "chapter": "CH 4 현재진행형",
+ "title": "현재진행형 틀린 문장 찾기",
+ "total_sec": 133,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "5급 · CH 4 현재진행형 · 33번 · B 유형\n\n이 문제는 현재진행형 문장 다섯 개 가운데 형태가 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 4 현재진행형 · 33번 · B 유형",
+     "이 문제는 현재진행형 문장 다섯 개 가운데 형태가 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 4, 33번 B 유형. 이 문제는 현재진행형 문장 다섯 개 가운데 형태가 틀린 문장을 고르는 문제예요.",
+   "caption": "현재진행형 틀린 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "틀린 문장을 고르시오.\n\n① The students are taking a test.\n② The dog isn't sleeping under the chair.\n③ Is Tom waiting outside?\n④ Are Mina cooking dinner now?\n⑤ I'm not listening to music.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "틀린 문장을 고르시오.",
+     "① The students are taking a test.",
+     "② The dog isn't sleeping under the chair.",
+     "③ Is Tom waiting outside?",
+     "④ Are Mina cooking dinner now?",
+     "⑤ I'm not listening to music."
+    ]
+   },
+   "narration": "틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n현재진행형(…하고 있다) = am/is/are + 동사의 -ing형\nI → am · 3인칭 단수(he, she, it, Tom) → is · you, 복수 → are\n부정문: be동사 뒤에 not · 예, 아니요 의문문: be동사를 주어 앞에\n예) Is the cat sleeping? (그 고양이는 자고 있나요?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재진행형(…하고 있다) = am/is/are + 동사의 -ing형",
+     "I → am · 3인칭 단수(he, she, it, Tom) → is · you, 복수 → are",
+     "부정문: be동사 뒤에 not · 예, 아니요 의문문: be동사를 주어 앞에",
+     "예) Is the cat sleeping? (그 고양이는 자고 있나요?)"
+    ]
+   },
+   "narration": "현재진행형은 be동사 뒤에 동사의 ing형을 써서 주로 지금 하고 있는 일을 나타내요. be동사는 주어에 맞춰 I에는 am, he 같은 3인칭 단수에는 is, you와 복수에는 are를 써요. 진행형의 부정문은 be동사 뒤에 not을 쓰고, 예, 아니요로 묻는 의문문은 be동사를 주어 앞에 써요. Is the cat sleeping? 그 고양이는 자고 있나요?",
+   "caption": "be동사 + 동사의 ing형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "틀린 문장을 고르시오.\n\n① The students are taking a test.\n② The dog isn't sleeping under the chair.\n③ Is Tom waiting outside?\n④ Are Mina cooking dinner now?\n⑤ I'm not listening to music.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "① The students are",
+       "② The dog isn't",
+       "⑤ I'm not"
+      ],
+      "strike": [],
+      "note": "평서문·부정문 ①②⑤: The students → are, The dog → isn't, I → I'm not → 맞다"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "③ Is Tom"
+      ],
+      "strike": [],
+      "note": "의문문은 be동사 뒤가 주어: ③ Is Tom → 맞다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "Are Mina"
+      ],
+      "strike": [],
+      "note": "④ 주어 Mina = 3인칭 단수인데 Are ✗ → Is. 틀린 문장은 ④"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 주어와 be동사를 맞춰 보면, 1번 여럿인 The students에는 are, 2번 The dog에는 isn't, 5번 I에는 I am을 줄인 I'm을 써서 맞아요. 둘째, 의문문인 3번은 be동사 Is 뒤에 한 사람인 주어 Tom이 와서 맞아요. 셋째, 4번은 주어 Mina가 한 사람, 곧 3인칭 단수인데 Are를 썼으니 Is로 고쳐야 해요. Is Mina cooking dinner now? 미나는 지금 저녁을 요리하고 있나요? 따라서 틀린 문장은 4번이에요.",
+   "caption": "주어와 be동사 → 의문문 → ④"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① The students are taking a test.  ✗  여럿인 The students → are → 맞는 문장\n② The dog isn't sleeping under the chair.  ✗  한 마리 The dog → isn't(is not) → 맞는 문장\n③ Is Tom waiting outside?  ✗  한 사람 Tom → Is, 의문문이라 be동사가 주어 앞 → 맞는 문장\n④ Are Mina cooking dinner now?  ✓  3인칭 단수 Mina → Are를 Is로 (틀린 문장)\n⑤ I'm not listening to music.  ✗  I'm not = I am not, not은 be동사 뒤 → 맞는 문장",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① The students are taking a test.  ✗  여럿인 The students → are → 맞는 문장",
+     "② The dog isn't sleeping under the chair.  ✗  한 마리 The dog → isn't(is not) → 맞는 문장",
+     "③ Is Tom waiting outside?  ✗  한 사람 Tom → Is, 의문문이라 be동사가 주어 앞 → 맞는 문장",
+     "④ Are Mina cooking dinner now?  ✓  3인칭 단수 Mina → Are를 Is로 (틀린 문장)",
+     "⑤ I'm not listening to music.  ✗  I'm not = I am not, not은 be동사 뒤 → 맞는 문장"
+    ]
+   },
+   "narration": "정답은 4번이에요. 4번 의문문에서는 be동사 뒤에 있는 Mina가 주어인데, 한 사람인 3인칭 단수라서 Are가 아니라 Is를 써야 해요. 5번 I'm not은 I am not을 줄인 말이라 맞아요. 3번은 한 사람인 Tom 앞에 Is를 써서 맞아요.",
+   "caption": "정답 ④ Are → Is"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ④ Are Mina cooking dinner now?\n\nbe동사로 시작하는 의문문도 뒤의 주어에 맞춰 · 3인칭 단수 → Is",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ Are Mina cooking dinner now?",
+     "be동사로 시작하는 의문문도 뒤의 주어에 맞춰 · 3인칭 단수 → Is"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, be동사로 시작하는 의문문도 뒤에 오는 주어를 보고, 3인칭 단수 주어에는 Is를 써요.",
+   "caption": "3인칭 단수 주어 → is"
+  }
+ ],
+ "source": {
+  "stem": "틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "The students are taking a test.",
+   "The dog isn't sleeping under the chair.",
+   "Is Tom waiting outside?",
+   "Are Mina cooking dinner now?",
+   "I'm not listening to music."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 현재진행형은 am/is/are + 동사원형-ing로 쓰고, 부정문은 be동사 뒤에 not을, 의문문은 be동사를 주어 앞에 둔다. be동사는 주어에 맞춰 am/is/are를 쓴다.\n풀이 순서: ① 문장마다 주어를 찾아 be동사(am/is/are)가 맞는지 본다. 의문문의 주어는 be동사 뒤에 있다. → ② not의 자리, -ing형, be동사 대신 do/does를 쓰지 않았는지도 본다. → ③ 선택지 ④의 주어 Mina는 단수인데 Are를 썼다. 정답은 ④.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 Mina에는 Is를 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 주어에 맞는 be동사와 -ing형으로 진행형을 바르게 만들었으므로 오답이다.\n② [오답] 주어에 맞는 be동사와 -ing형으로 진행형을 바르게 만들었으므로 오답이다.\n③ [오답] 주어에 맞는 be동사와 -ing형으로 진행형을 바르게 만들었으므로 오답이다.\n④ [정답] 3인칭 단수 주어 Mina에는 Is를 써야 하므로 정답이다.\n⑤ [오답] 주어에 맞는 be동사와 -ing형으로 진행형을 바르게 만들었으므로 오답이다."
+ }
+}

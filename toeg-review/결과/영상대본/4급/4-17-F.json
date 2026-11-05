@@ -1,0 +1,179 @@
+{
+ "key": "4-17",
+ "type": "F",
+ "grade": 4,
+ "chapter": "CH 2 대명사",
+ "title": "대화 속 me를 받는 목적격 you",
+ "total_sec": 139,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 13,
+   "screen": {
+    "text": "4급 · CH 2 대명사 · 17번 · F 유형\n\n이 문제는 A가 자신을 가리킨 me를, 대답하는 B가 어떤 대명사로 받는지 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 2 대명사 · 17번 · F 유형",
+     "이 문제는 A가 자신을 가리킨 me를, 대답하는 B가 어떤 대명사로 받는지 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 2, 17번 F 유형. 이 문제는 A가 자신을 가리킨 me를, 대답하는 B가 어떤 대명사로 받는지 고르는 문제예요.",
+   "caption": "대화 속 me를 받는 대명사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 22,
+   "screen": {
+    "text": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은?\n\nA: Can you help me with my math homework after school?\nB: Sure, I can help ________ in the library.\n\n① him\n② her\n③ me\n④ you\n⑤ them",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은?",
+     "A: Can you help me with my math homework after school?",
+     "B: Sure, I can help ________ in the library.",
+     "① him",
+     "② her",
+     "③ me",
+     "④ you",
+     "⑤ them"
+    ]
+   },
+   "narration": "다음 대화의 빈칸에 알맞은 말을 고르세요. Can you help me with my math homework after school? Sure, I can help 빈칸 in the library. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n앞에 나온 사람을 다시 가리킬 때 → 대명사\n동사 뒤 목적어 자리 → 목적격 (me, you, him, her, it, us, them)\n대화에서 상대가 자신을 가리킨 me → 그 상대에게 대답할 때는 you\n예) A: Can you see me?  B: Yes, I can see you. (나 보여? 응, 너 보여.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "앞에 나온 사람을 다시 가리킬 때 → 대명사",
+     "동사 뒤 목적어 자리 → 목적격 (me, you, him, her, it, us, them)",
+     "대화에서 상대가 자신을 가리킨 me → 그 상대에게 대답할 때는 you",
+     "예) A: Can you see me?  B: Yes, I can see you. (나 보여? 응, 너 보여.)"
+    ]
+   },
+   "narration": "앞에 나온 사람을 다시 가리킬 때는 대명사를 쓰고, 동사 뒤 목적어 자리에는 me, you, him, her, it, us, them 같은 목적격을 써요. 대화에서는 말하는 사람이 바뀌어서, 상대가 자신을 가리켜 말한 me는 그 상대에게 대답할 때 you가 돼요. 예를 들어 Can you see me? 나 보여? Yes, I can see you. 응, 너 보여.",
+   "caption": "상대가 말한 me → you"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은?\n\nA: Can you help me with my math homework after school?\nB: Sure, I can help ________ in the library.\n\n① him\n② her\n③ me\n④ you\n⑤ them",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Can you help me"
+      ],
+      "strike": [],
+      "note": "A가 말한 me = 말하는 A 자신"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "I can help ________"
+      ],
+      "strike": [
+       "③ me"
+      ],
+      "note": "대답하는 B에게 A는 대화 상대 → you. me를 쓰면 B 자신이 된다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ you"
+      ],
+      "strike": [
+       "① him",
+       "② her",
+       "⑤ them"
+      ],
+      "note": "him, her, them = 대화하는 두 사람이 아닌 다른 사람 → help 뒤 목적어 자리에 you"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, A가 Can you help me, 나를 도와줄 수 있니, 하고 물을 때 me는 말하는 A 자신이에요. 둘째, 대답하는 B에게 A는 대화 상대라서 you로 가리켜요. me를 쓰면 B가 자기 자신을 돕는다는 뜻이 돼요. 셋째, him, her, them은 대화하는 두 사람이 아닌 다른 사람이니, help 뒤 목적어 자리에는 you가 알맞아요. I can help you in the library. 도서관에서 너를 도와줄 수 있어.",
+   "caption": "A의 me → B에게는 you"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① him  ✗  다른 남자 한 명을 가리켜요\n② her  ✗  다른 여자 한 명을 가리켜요\n③ me  ✗  B가 말하면 B 자신 → 자기를 돕는 뜻\n④ you  ✓  B에게 상대방인 A → 목적격도 you\n⑤ them  ✗  여러 사람을 가리켜요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① him  ✗  다른 남자 한 명을 가리켜요",
+     "② her  ✗  다른 여자 한 명을 가리켜요",
+     "③ me  ✗  B가 말하면 B 자신 → 자기를 돕는 뜻",
+     "④ you  ✓  B에게 상대방인 A → 목적격도 you",
+     "⑤ them  ✗  여러 사람을 가리켜요"
+    ]
+   },
+   "narration": "정답은 4번 you예요. 3번 me는 A의 말에 나온 낱말이라 고르기 쉽지만, B가 말하면 B 자신이 돼요. 1번 him과 2번 her는 대화하는 두 사람이 아닌 다른 사람을 가리켜요. 5번 them은 여러 사람을 가리켜서 A 한 사람을 받을 수 없어요.",
+   "caption": "정답 ④ you"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ④ you\n\n상대가 말한 me → 그 상대에게 대답할 때는 you",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ you",
+     "상대가 말한 me → 그 상대에게 대답할 때는 you"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 상대가 자신을 가리켜 말한 me는, 그 상대에게 대답할 때 you가 돼요.",
+   "caption": "상대의 me → 대답은 you"
+  }
+ ],
+ "source": {
+  "stem": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은?",
+  "passage": "A: Can you help me with my math homework after school?\nB: Sure, I can help ________ in the library.",
+  "c": [
+   "him",
+   "her",
+   "me",
+   "you",
+   "them"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 앞에 나온 사람·사물을 대명사로 받을 때는 수(단수·복수)와 성(남·여)을 맞추고, 동사 뒤 목적어 자리에는 목적격(me, you, him, her, it, us, them)을 쓴다.\n풀이 순서: ① 빈칸이 가리키는 말을 앞에서 찾는다: A가 말한 me. B의 처지에서는 상대방이다. → ② 빈칸은 동사 뒤 목적어 자리이므로 목적격을 쓴다: you. → ③ 정답은 you.\n문장별 판정:\n정답 판단: A가 자신을 가리킨 me는 대답하는 B의 처지에서 상대방이므로, 동사 help 뒤 목적어 자리에 you를 쓴다. 정답은 ④이다.\n선택지 분석:\n① [오답] him은 다른 남자를 가리켜 A를 받을 수 없으므로 오답이다.\n② [오답] her는 다른 여자를 가리켜 A를 받을 수 없으므로 오답이다.\n③ [오답] me는 대답하는 B 자신을 가리켜, B가 A를 도와준다는 뜻이 되지 않으므로 오답이다.\n④ [정답] A가 말한 me는 B의 처지에서 상대방이므로 목적격 you가 들어가 정답이다.\n⑤ [오답] them은 여러 사람을 가리켜 A 한 사람을 받을 수 없으므로 오답이다."
+ }
+}

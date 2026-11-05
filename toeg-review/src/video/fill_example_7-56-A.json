@@ -1,0 +1,79 @@
+{
+ "A": {
+  "title": "주어 We 뒤 일반동사의 형태",
+  "intro": "이 문제는 주어 We 뒤에 오는 일반동사의 알맞은 형태를 고르는 문제예요.",
+  "rule": {
+   "card": [
+    "일반동사 현재형은 주어에 따라 모양이 달라져요.",
+    "주어가 I, you, we, they이거나 복수 → 동사원형 (play, run)",
+    "주어가 he, she, it처럼 3인칭 단수 → 동사 + s/es (plays, runs)",
+    "be동사(am, is, are)와 동사원형을 나란히 쓰지 않아요.",
+    "예) I like apples. (나는 사과를 좋아해요.)  She likes apples. (그녀는 사과를 좋아해요.)"
+   ],
+   "narration": "일반동사 현재형은 주어에 따라 모양이 달라져요. 주어가 I, you, we, they이거나 여러 명이면 동사원형을 그대로 쓰고, he, she, it처럼 3인칭 단수이면 동사에 s나 es를 붙여요. 그리고 be동사와 동사원형은 나란히 쓰지 않아요. 예를 들어 I like apples. 나는 사과를 좋아해요. She likes apples. 그녀는 사과를 좋아해요."
+  },
+  "steps": [
+   {
+    "note": "빈칸은 주어 We 바로 뒤 = 동사 자리. ing형, to + 동사, be동사가 붙은 꼴은 지운다.",
+    "highlight": [
+     "We",
+     "_______"
+    ],
+    "strike": [
+     "② running",
+     "③ to run",
+     "④ is run"
+    ],
+    "narration": "첫째, 빈칸은 주어 We 바로 뒤에 있으니 동사가 들어갈 자리예요. ing형인 running, to가 붙은 to run, be동사가 붙은 is run은 혼자서 이 자리를 채울 수 없어요."
+   },
+   {
+    "note": "We는 3인칭 단수가 아니다 → s가 붙은 runs도 지운다.",
+    "highlight": [
+     "We"
+    ],
+    "strike": [
+     "① runs"
+    ],
+    "narration": "둘째, We는 3인칭 단수가 아니에요. 그래서 s가 붙은 runs도 맞지 않아요."
+   },
+   {
+    "note": "남는 것은 동사원형 run → We run to the bus.",
+    "highlight": [
+     "⑤ run"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 동사원형 run이에요. We run to the bus. 우리는 버스로 달려가요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① runs  ✗  s가 붙은 꼴은 3인칭 단수 주어에 써요",
+    "② running  ✗  ing형만으로는 동사 자리를 채울 수 없어요",
+    "③ to run  ✗  to + 동사원형만으로는 동사 자리를 채울 수 없어요",
+    "④ is run  ✗  be동사와 동사원형을 나란히 쓰지 않아요 (We에는 is도 쓰지 않아요)",
+    "⑤ run  ✓  주어 We에 맞는 동사원형"
+   ],
+   "narration": "정답은 5번 run이에요. 1번 runs는 he나 she 같은 3인칭 단수 주어에 쓰는 꼴이라 We와 맞지 않아요. 4번 is run은 be동사와 동사원형을 나란히 써서 틀렸어요. We에는 is도 쓰지 않아요. 2번 running은 ing형만으로는 동사 자리를 채울 수 없어요."
+  },
+  "summary": {
+   "card": "주어 I, you, we, they, 복수 → 일반동사는 동사원형",
+   "narration": "정답은 5번이에요. 기억할 것, 주어가 I, you, we, they이거나 여러 명이면 일반동사는 동사원형을 써요."
+  },
+  "captions": [
+   "We 뒤 일반동사의 형태",
+   "먼저 풀어 보세요",
+   "주어에 따라 동사 모양이 달라져요",
+   "동사 자리 → 3인칭 단수 아님 → run",
+   "정답 ⑤ run",
+   "I·you·we·they·복수 + 동사원형"
+  ],
+  "sec": [
+   10,
+   14,
+   26,
+   34,
+   28,
+   10
+  ]
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "script": "/Users/coincidence/.claude/projects/-Users-coincidence-Library-Application-Support-Claude-scratch-workspaces-f2a47691-e6b7-4bff-b006-34a1a30fb9f8-333c1821-239a-449f-901c-29f8833fc952-scratch-2026-09-28-c17aa5/c53ec3bc-c9d5-4867-92cc-1fffd9091efd/workflows/scripts/toeg-scripts-wf_ecf89c64-61c.js",
+ "pilot": {
+  "run": "wf_ecf89c64-61c",
+  "keys": [
+   "7-56",
+   "4-45",
+   "2-67",
+   "1-81"
+  ]
+ },
+ "7": {
+  "run": "wf_1940b3e9-63b",
+  "args": {
+   "grade": 7,
+   "n": 100,
+   "exclude": [
+    "7-56"
+   ]
+  }
+ },
+ "6": {
+  "run": "wf_a0b225e3-119",
+  "args": {
+   "grade": 6,
+   "n": 110,
+   "exclude": []
+  }
+ },
+ "5": {
+  "run": "wf_73dba5ce-61e",
+  "args": {
+   "grade": 5,
+   "n": 100,
+   "exclude": []
+  }
+ },
+ "4": {
+  "run": "wf_835c4928-734",
+  "args": {
+   "grade": 4,
+   "n": 110,
+   "exclude": [
+    "4-45"
+   ]
+  }
+ },
+ "3": {
+  "run": "wf_c6ad76e2-c13",
+  "args": {
+   "grade": 3,
+   "n": 140,
+   "exclude": []
+  }
+ },
+ "2": {
+  "run": "wf_899b2c39-4cd",
+  "args": {
+   "grade": 2,
+   "n": 130,
+   "exclude": [
+    "2-67"
+   ]
+  }
+ },
+ "1": {
+  "run": "wf_cedec70a-f33",
+  "args": {
+   "grade": 1,
+   "n": 130,
+   "exclude": [
+    "1-81"
+   ]
+  }
+ }
+}

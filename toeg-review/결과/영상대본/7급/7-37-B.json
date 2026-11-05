@@ -1,0 +1,184 @@
+{
+ "key": "7-37",
+ "type": "B",
+ "grade": 7,
+ "chapter": "CH 4 be동사 부정문과 의문문",
+ "title": "대답의 주어와 be동사 맞추기",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "7급 · CH 4 be동사 부정문과 의문문 · 37번 · B 유형\n\n이 문제는 질문에 알맞은 주어와 be동사로 대답한 대화를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 4 be동사 부정문과 의문문 · 37번 · B 유형",
+     "이 문제는 질문에 알맞은 주어와 be동사로 대답한 대화를 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 4, 37번 B 유형. 이 문제는 질문에 알맞은 주어와 be동사로 대답한 대화를 고르는 문제예요.",
+   "caption": "대답의 주어와 be동사 맞추기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 질문과 대답이 바르게 연결된 것을 고르세요.\n\n① Is he a student? - Yes, he are.\n② Is Tom home? - No, he aren't.\n③ Are they friends? - No, they isn't.\n④ Am I late? - No, you isn't.\n⑤ Are you at home? - Yes, I am.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 질문과 대답이 바르게 연결된 것을 고르세요.",
+     "① Is he a student? - Yes, he are.",
+     "② Is Tom home? - No, he aren't.",
+     "③ Are they friends? - No, they isn't.",
+     "④ Am I late? - No, you isn't.",
+     "⑤ Are you at home? - Yes, I am."
+    ]
+   },
+   "narration": "다음 중 질문과 대답이 바르게 연결된 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 + 주어 ~? → Yes, 주어 + be동사. / No, 주어 + be동사 + not.\n대답의 주어는 대명사로: you(너) → I, I → you, Tom → he\nbe동사: I → am · you, 둘 이상 → are · he, she, it 같은 3인칭 단수 → is\nis not = isn't, are not = aren't\n예) Is your mom at home? — Yes, she is. (너희 엄마는 집에 계시니? 응, 계셔.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 + 주어 ~? → Yes, 주어 + be동사. / No, 주어 + be동사 + not.",
+     "대답의 주어는 대명사로: you(너) → I, I → you, Tom → he",
+     "be동사: I → am · you, 둘 이상 → are · he, she, it 같은 3인칭 단수 → is",
+     "is not = isn't, are not = aren't",
+     "예) Is your mom at home? — Yes, she is. (너희 엄마는 집에 계시니? 응, 계셔.)"
+    ]
+   },
+   "narration": "be동사로 물으면 Yes나 No 뒤에 주어와 be동사로 답하고, No면 not을 붙여요. 주어는 대명사로 바꾸는데, 너를 뜻하는 you는 I로, I는 you로 받아요. be동사는 그 주어에 맞춰 I는 am, you와 둘 이상은 are, 3인칭 단수는 is예요. Is your mom at home? 너희 엄마는 집에 계시니? Yes, she is. 응, 계셔.",
+   "caption": "대답: 대명사 주어 + be동사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 중 질문과 대답이 바르게 연결된 것을 고르세요.\n\n① Is he a student? - Yes, he are.\n② Is Tom home? - No, he aren't.\n③ Are they friends? - No, they isn't.\n④ Am I late? - No, you isn't.\n⑤ Are you at home? - Yes, I am.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Is he",
+       "Is Tom",
+       "Are they",
+       "Am I",
+       "Are you"
+      ],
+      "strike": [],
+      "note": "질문 다섯 개는 모두 주어에 맞는 be동사로 시작 → 대답의 주어와 be동사를 본다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "he are.",
+       "he aren't.",
+       "they isn't.",
+       "you isn't."
+      ],
+      "strike": [
+       "① Is he a student? - Yes, he are.",
+       "② Is Tom home? - No, he aren't.",
+       "③ Are they friends? - No, they isn't.",
+       "④ Am I late? - No, you isn't."
+      ],
+      "note": "he → is, they·you → are. he are(①), he aren't(②), they isn't(③), you isn't(④)를 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ Are you at home? - Yes, I am."
+      ],
+      "strike": [],
+      "note": "남는 것 ⑤: you(너)로 물으면 I로 답하고, I에는 am → Yes, I am."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 질문 다섯 개는 모두 주어에 맞는 be동사로 시작하니까, 대답의 주어와 be동사를 봐요. 둘째, he에는 is, they와 you에는 are를 쓰니까, he are, he aren't, they isn't, you isn't를 쓴 1번부터 4번은 모두 틀렸어요. 셋째, 남는 5번은 너에게 묻는 you를 I로 받고 am을 썼어요. Are you at home? 너는 집에 있니? Yes, I am. 응, 집에 있어.",
+   "caption": "he → is, they·you → are"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① Is he a student? - Yes, he are.  ✗  he에는 are가 아니라 is\n② Is Tom home? - No, he aren't.  ✗  Tom → he는 맞지만 he에는 isn't\n③ Are they friends? - No, they isn't.  ✗  they에는 isn't가 아니라 aren't\n④ Am I late? - No, you isn't.  ✗  I → you는 맞지만 you에는 aren't\n⑤ Are you at home? - Yes, I am.  ✓  you(너)로 물으면 I로, I에는 am",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① Is he a student? - Yes, he are.  ✗  he에는 are가 아니라 is",
+     "② Is Tom home? - No, he aren't.  ✗  Tom → he는 맞지만 he에는 isn't",
+     "③ Are they friends? - No, they isn't.  ✗  they에는 isn't가 아니라 aren't",
+     "④ Am I late? - No, you isn't.  ✗  I → you는 맞지만 you에는 aren't",
+     "⑤ Are you at home? - Yes, I am.  ✓  you(너)로 물으면 I로, I에는 am"
+    ]
+   },
+   "narration": "정답은 5번이에요. 2번은 Tom을 he로 바꾼 것은 맞지만, he에는 aren't가 아니라 isn't를 써요. 4번은 질문의 I를 you로 바꾼 것은 맞지만, you에는 isn't가 아니라 aren't를 써요. 3번은 they에 isn't를 써서 틀렸어요.",
+   "caption": "정답 ⑤ Yes, I am."
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ⑤ Are you at home? - Yes, I am.\n\n대답의 주어는 대명사로 바꾸고 (you → I, I → you), be동사는 그 주어에 맞춰요",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ Are you at home? - Yes, I am.",
+     "대답의 주어는 대명사로 바꾸고 (you → I, I → you), be동사는 그 주어에 맞춰요"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 대답의 주어는 대명사로 바꾸고, be동사는 바뀐 주어에 맞춰요.",
+   "caption": "be동사는 대답의 주어에 맞게"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 질문과 대답이 바르게 연결된 것을 고르세요.",
+  "passage": "",
+  "c": [
+   "Is he a student? - Yes, he are.",
+   "Is Tom home? - No, he aren't.",
+   "Are they friends? - No, they isn't.",
+   "Am I late? - No, you isn't.",
+   "Are you at home? - Yes, I am."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: be동사 의문문에는 Yes, 주어 + be동사. / No, 주어 + be동사 + not.으로 답한다. 대답의 주어는 질문의 주어를 대명사로 받고(you → I, I → you, Tom → he, the door → it), be동사도 그 주어에 맞춘다.\n풀이 순서: ① 질문이 주어에 맞는 be동사로 시작하는지 본다. → ② 대답의 주어(대명사)와 be동사가 맞는지 본다. → ③ 선택지 ①·②는 he에 are/aren't를, ③은 they에 isn't를, ④는 you에 isn't를 써서 틀렸다. 정답은 ⑤.\n문장별 판정:\n정답 판단: you에 대한 질문에 I am으로 바르게 답했으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 대답의 주어 he에는 is를 써야 하므로 오답이다.\n② [오답] 대답의 주어 he에는 isn't를 써야 하므로 오답이다.\n③ [오답] 대답의 주어 they에는 aren't를 써야 하므로 오답이다.\n④ [오답] 대답의 주어 you에는 aren't를 써야 하므로 오답이다.\n⑤ [정답] you에 대한 질문에 I am으로 바르게 답했으므로 정답이다."
+ }
+}

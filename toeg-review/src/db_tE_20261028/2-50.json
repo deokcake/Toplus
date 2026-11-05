@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:23:19.313Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "(A), (B)",
+      "1": "(B), (C)",
+      "2": "(C), (D)",
+      "3": "(A), (C), (E)",
+      "4": "(B), (D), (E)"
+    },
+    "expl": "핵심 규칙: all of / most of / some of + 명사 뒤의 동사는 of 뒤 명사에 수를 맞춘다(불가산명사 → 단수, 복수명사 → 복수). each of + 복수명사, one of + 복수명사, every + 단수명사는 단수 동사를 쓴다.\n풀이 순서: ① 밑줄 동사의 수는 of 뒤 명사가 정한다. all/most/some of + 셀 수 없는 명사는 단수, + 복수 명사는 복수다. → ② each of ~, one of ~, every ~는 뒤에 복수 명사가 와도 항상 단수다. → ③ 틀린 문장을 지운다: (A) homework는 셀 수 없으므로 is, (D) cake는 단수이므로 was, (E) students는 복수이므로 were. 옳은 문장만 묶은 (B), (C)가 정답이다.\n문장별 판정:\n(A) X. homework는 불가산명사라 단수 동사를 쓴다. 교정: is\n(B) O. each of + 복수 대명사도 단수 동사(is)를 쓴다.\n(C) O. of 뒤 books가 복수라 복수 동사(are)를 쓴다.\n(D) X. of 뒤 cake가 한 덩어리(단수)라 단수 동사를 쓴다. 교정: was\n(E) X. of 뒤 students가 복수라 복수 동사를 쓴다. 교정: were\n정답 판단: 옳은 문장은 (B), (C)이고, 이 문장들로만 묶인 보기가 정답이다.\n선택지 분석:\n① [오답] (A)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 옳은 문장 (B), (C)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (B)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (A), (E)는 옳은 문장이 아니고, 옳은 문장 (B)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (D), (E)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(A) All of the homework for today <u>are</u> done.\n(B) Each of us in the class <u>is</u> ready for the test.\n(C) Some of the books on the shelf <u>are</u> missing.\n(D) Most of the birthday cake <u>were</u> eaten by the children.\n(E) All of the students in my class <u>was</u> tired after the trip.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장으로만 묶인 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T00:40:59.870Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T00:41:09.652Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:23:19.313Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:22:58.815Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:23:19.313Z",
+      "what": "확인 완료"
+    }
+  }
+}

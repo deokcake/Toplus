@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T07:45:10.786Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 진행형 의문문(Be동사 + 주어 + -ing ~?)에는 be동사로 답한다: Yes, 주어 + be동사. / No, 주어 + be동사 + not. 대답의 주어는 질문의 주어를 대명사로 받는다.\n풀이 순서: ① 질문의 be동사와 주어를 본다: Is Tom ~? → ② 대답의 주어는 he, 동사는 질문과 같은 현재형 be동사다. do/does나 was/were로 답한 것을 지운다. → ③ 정답은 No, he isn't.\n문장별 판정:\n정답 판단: No, he isn't. — 질문의 주어와 시제에 맞는 be동사 및 짧은 대답/진행형을 사용했다. No, he isn't.이 문맥을 정확히 완성한다. 따라서 정답은 ⑤이다.\n선택지 분석:\n① [오답] No, he aren't. — No, he aren't.는 질문의 주어와 be동사, 긍정·부정 또는 시제 가운데 하나가 맞지 않는다.\n② [오답] Yes, Tom are. — Yes, Tom are.는 질문의 주어와 be동사, 긍정·부정 또는 시제 가운데 하나가 맞지 않는다.\n③ [오답] Yes, he does. — Yes, he does.는 질문의 주어와 be동사, 긍정·부정 또는 시제 가운데 하나가 맞지 않는다.\n④ [오답] No, it isn't. — No, it isn't.는 질문의 주어와 be동사, 긍정·부정 또는 시제 가운데 하나가 맞지 않는다.\n⑤ [정답] No, he isn't. — 질문의 주어와 시제에 맞는 be동사 및 짧은 대답/진행형을 사용했다. No, he isn't.이 문맥을 정확히 완성한다.",
+    "passage": null,
+    "stem": "다음 빈칸에 들어갈 말을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T07:45:09.489Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:45:10.786Z",
+      "what": "확인 완료"
+    }
+  }
+}

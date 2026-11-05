@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T08:43:44.362Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "2개 - (가), (나)가 맞음. 'We'에는 'was'를 써야 함.",
+      "1": "3개 - 모두 맞음. 단수 주어 Tom에는 'was', 복수 주어 Tom and Jerry와 We에는 'were'를 썼음.",
+      "2": "1개 - (가)만 맞음. 사람 이름이 들어간 주어에는 항상 'was'를 씀.",
+      "3": "2개 - (나), (다)가 맞음. 'Tom'은 3인칭이므로 'were'를 써야 함.",
+      "4": "1개 - (다)만 맞음. 1인칭 주어에만 'were'를 쓸 수 있음."
+    },
+    "expl": "핵심 규칙: (가)~(다)의 주어를 각각 찾아 was/were를 판정한 뒤, 옳은 문장의 개수·문장·이유가 모두 맞는 설명을 고른다. 한 명·한 개(I 포함)는 was, you와 둘 이상(A and B, 복수 명사, 복수 대명사)은 were이다.\n풀이 순서: ① <보기>의 문장마다 주어의 수와 was/were가 맞는지 판정한다: (가) O, (나) O, (다) O. → ② 옳은 문장의 개수와 기호가 맞는 보기를 고른다. → ③ 그 보기의 이유까지 맞는지 확인한다. 정답은 ②.\n문장별 판정:\n(가) O. 한 사람인 주어에 was를 썼다.\n(나) O. 둘 이상인 주어에 were를 썼다.\n(다) O. 주어 We에 were를 썼다.\n정답 판단: 3개 - 모두 맞음이다.\n선택지 분석:\n① [오답] 주어 We에는 were가 맞으므로 오답이다.\n② [정답] 개수·문장·이유가 모두 맞으므로 정답이다.\n③ [오답] Tom and Jerry는 둘이라 were가 맞으므로 오답이다.\n④ [오답] 3인칭 단수 Tom에는 was가 맞으므로 오답이다.\n⑤ [오답] 복수 주어에는 인칭과 관계없이 were를 쓰므로 오답이다.",
+    "passage": "<보기>\n(가) Tom was tired.\n(나) Tom and Jerry were tired.\n(다) We were tired.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T08:43:42.679Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T08:43:44.362Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:43:44.362Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T12:04:04.893Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "your - Jane",
+      "1": "you - Jane's",
+      "2": "your - Jane's",
+      "3": "yours - Jane's",
+      "4": "yours - Jane"
+    },
+    "expl": "핵심 규칙: 명사 앞에서는 소유격(your)을 쓰고, 뒤에 명사 없이 ‘~의 것’을 나타낼 때는 소유대명사(yours)나 명사의 소유격(Mina's)을 쓴다.\n풀이 순서: ① 첫째 빈칸 뒤에 명사(pencils)가 있다. 명사 앞에는 소유격 your를 쓴다. yours(너의 것)는 뒤에 명사가 올 수 없다. → ② 둘째 빈칸은 ‘~의 것’이라는 뜻이다. 사람 이름에 's를 붙인다(Jane's). → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 명사(pencils) 앞이므로 소유격 your, 뒤에 명사 없이 ‘Jane의 것’이므로 Jane's이다.\n선택지 분석:\n① [오답] 둘째 빈칸 Jane: 뒤에 명사 없이 ‘Jane의 것’을 나타내려면 소유격 Jane's를 쓴다. 따라서 오답이다.\n② [오답] 첫째 빈칸 you: you는 명사(pencils) 앞에서 소유를 나타내지 못한다. 따라서 오답이다.\n③ [정답] your - Jane's: 모든 자리가 알맞으므로 정답이다.\n④ [오답] 첫째 빈칸 yours: 명사(pencils) 앞에는 소유대명사가 아니라 소유격 your를 쓴다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 yours: 명사(pencils) 앞에는 소유대명사가 아니라 소유격 your를 쓴다. 둘째 빈칸 Jane: 뒤에 명사 없이 ‘Jane의 것’을 나타내려면 소유격 Jane's를 쓴다. 따라서 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T12:03:57.078Z"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T12:04:04.893Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T12:04:04.893Z",
+      "what": "확인 완료"
+    }
+  }
+}

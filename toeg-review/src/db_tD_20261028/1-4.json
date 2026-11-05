@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:44:14.083Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "We discussed about the problem with our teacher yesterday.",
+      "1": "He finally reached at the station after a long walk.",
+      "2": "She married with a doctor from her hometown last year.",
+      "3": "We approached the entrance of the old museum quietly.",
+      "4": "They entered into the hall before the concert started."
+    },
+    "expl": "핵심 규칙: discuss, reach, marry, approach, enter는 이 문장들의 뜻에서 목적어를 전치사 없이 바로 취하는 타동사이다.\n풀이 순서: ① 문장마다 동사 바로 뒤에 전치사가 끼어 있는지 본다. → ② 오답 네 문장은 전치사 없이 목적어를 받는 타동사 뒤에 전치사를 붙였다(discussed about, reached at, married with, entered into). → ③ 선택지 ④만 동사 뒤에 목적어가 바로 온다(approached the entrance).\n문장별 판정:\n정답 판단: ‘We approached the entrance of the old museum quietly.’만 approach가 목적어를 바로 취해 올바르다.\n선택지 분석:\n① [오답] discuss는 전치사 없이 목적어를 바로 취하고, about을 빼야 하므로 오답이다.\n② [오답] reach는 전치사 없이 목적어를 바로 취하고, at을 빼야 하므로 오답이다.\n③ [오답] marry는 전치사 없이 목적어를 바로 취하고, with를 빼야 하므로 오답이다.\n④ [정답] approach가 전치사 없이 목적어 the entrance를 바로 취해 올바르므로 정답이다.\n⑤ [오답] enter(들어가다)는 전치사 없이 목적어를 바로 취하고, into를 빼야 하므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 동사가 올바르게 사용된 문장을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T06:36:13.267Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T06:37:05.603Z",
+      "text": "기준 문항에 비해 문장이 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:44:14.083Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:39:50.032Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:44:14.083Z",
+      "what": "확인 완료"
+    }
+  }
+}

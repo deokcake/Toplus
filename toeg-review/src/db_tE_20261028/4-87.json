@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T08:24:33.914Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: for는 기간의 길이(an hour, two hours), during은 특정한 때(the lesson, the movie, the test) 앞에 쓰고, while은 뒤에 주어 + 동사가 오는 절을 이끈다.\n풀이 순서: ① 빈칸 뒤의 말을 본다. 숫자가 든 기간의 길이면 for, 특정한 때를 나타내는 명사면 during, 주어 + 동사면 while이다. → ② I was eating dinner는 주어 + 동사이므로 while, thirty minutes는 기간의 길이이므로 for다. → ③ 정답은 while - for.\n문장별 판정:\n정답 판단: 첫째 빈칸 뒤 I was eating dinner는 주어 + 동사라 while, 둘째 빈칸 뒤 thirty minutes는 기간의 길이라 for가 알맞다. 정답은 ②이다.\n선택지 분석:\n① [오답] 첫째 빈칸 for: while은 주어 + 동사가 있는 절 앞에 쓴다(→ while), 둘째 빈칸 during: for는 기간의 길이 앞에 쓴다(→ for). 따라서 오답이다.\n② [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n③ [오답] 첫째 빈칸 for: while은 주어 + 동사가 있는 절 앞에 쓴다(→ while), 둘째 빈칸 while: for는 기간의 길이 앞에 쓴다(→ for). 따라서 오답이다.\n④ [오답] 첫째 빈칸 during: while은 주어 + 동사가 있는 절 앞에 쓴다(→ while). 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 during: while은 주어 + 동사가 있는 절 앞에 쓴다(→ while), 둘째 빈칸 during: for는 기간의 길이 앞에 쓴다(→ for). 따라서 오답이다.",
+    "passage": "- Jane called me ________ I was eating dinner.\n- We waited at the bus stop ________ thirty minutes.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T08:23:40.663Z"
+  },
+  "tab": "x2buc7cy",
+  "updatedAt": "2026-10-27T08:24:33.914Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T08:24:33.914Z",
+      "what": "확인 완료"
+    }
+  }
+}

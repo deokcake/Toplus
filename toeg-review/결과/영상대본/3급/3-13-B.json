@@ -1,0 +1,178 @@
+{
+ "key": "3-13",
+ "type": "B",
+ "grade": 3,
+ "chapter": "CH 2 일반동사",
+ "title": "불규칙동사의 과거형",
+ "total_sec": 123,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "3급 · CH 2 일반동사 · 13번 · B 유형\n\n이 문제는 밑줄 친 일반동사의 과거형 가운데 어법상 틀린 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 2 일반동사 · 13번 · B 유형",
+     "이 문제는 밑줄 친 일반동사의 과거형 가운데 어법상 틀린 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 2, 13번 B 유형. 이 문제는 밑줄 친 일반동사의 과거형 가운데 어법상 틀린 것을 고르는 문제예요.",
+   "caption": "불규칙동사의 과거형"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분이 어법상 틀린 것을 고르시오.\n\n① We <u>swam</u> in the river.\n② She <u>brought</u> her lunch.\n③ He <u>catched</u> the ball.\n④ They <u>sang</u> together.\n⑤ I <u>found</u> my keys.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 밑줄 친 부분이 어법상 틀린 것을 고르시오.",
+     "① We <u>swam</u> in the river.",
+     "② She <u>brought</u> her lunch.",
+     "③ He <u>catched</u> the ball.",
+     "④ They <u>sang</u> together.",
+     "⑤ I <u>found</u> my keys."
+    ]
+   },
+   "narration": "다음 중 밑줄 친 부분이 어법상 틀린 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 27,
+   "screen": {
+    "text": "핵심 규칙\n일반동사의 과거형: 이미 지난 일을 말할 때 써요\n규칙동사 → 보통 동사원형 끝에 ed (play → played)\n불규칙동사 → ed를 붙이지 않고 정해진 과거형 (give → gave, sit → sat)\n예) She gave me a pen yesterday. (그녀는 어제 나에게 펜을 주었어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "일반동사의 과거형: 이미 지난 일을 말할 때 써요",
+     "규칙동사 → 보통 동사원형 끝에 ed (play → played)",
+     "불규칙동사 → ed를 붙이지 않고 정해진 과거형 (give → gave, sit → sat)",
+     "예) She gave me a pen yesterday. (그녀는 어제 나에게 펜을 주었어요.)"
+    ]
+   },
+   "narration": "일반동사의 과거형은 이미 지난 일을 말할 때 써요. 규칙동사는 보통 동사원형 끝에 ed를 붙여서, play는 played가 돼요. 불규칙동사는 ed를 붙이지 않고, give는 gave, sit은 sat처럼 정해진 과거형을 써서 하나씩 외워야 해요. 예를 들어 She gave me a pen yesterday. 그녀는 어제 나에게 펜을 주었어요.",
+   "caption": "불규칙동사는 ed 없이 정해진 꼴"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 33,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분이 어법상 틀린 것을 고르시오.\n\n① We <u>swam</u> in the river.\n② She <u>brought</u> her lunch.\n③ He <u>catched</u> the ball.\n④ They <u>sang</u> together.\n⑤ I <u>found</u> my keys.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "<u>swam</u>",
+       "<u>brought</u>",
+       "<u>catched</u>",
+       "<u>sang</u>",
+       "<u>found</u>"
+      ],
+      "strike": [],
+      "note": "밑줄 친 낱말의 원래 동사: swim, bring, catch, sing, find → 모두 불규칙동사"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① We <u>swam</u> in the river.",
+       "② She <u>brought</u> her lunch.",
+       "④ They <u>sang</u> together.",
+       "⑤ I <u>found</u> my keys."
+      ],
+      "note": "swim → swam, bring → brought, sing → sang, find → found : 바른 과거형"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ He <u>catched</u> the ball."
+      ],
+      "strike": [],
+      "note": "catch → caught. catched는 불규칙동사를 규칙동사처럼 바꾼 틀린 꼴 → He caught the ball."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 밑줄 친 낱말마다 원래 동사를 떠올리면 차례로 swim, bring, catch, sing, find이고, 모두 불규칙동사예요. 둘째, swam, brought, sang, found는 각각 swim, bring, sing, find의 바른 과거형이에요. 셋째, catch도 불규칙동사라서 ed를 붙이지 않고, 과거형은 caught예요. catched를 caught로 고치면 He caught the ball. 그는 공을 잡았어요.",
+   "caption": "원래 동사 → 바른 꼴 지우기 → catched"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① We <u>swam</u> in the river.  ✗  swim의 과거형 swam (swimmed ✗)\n② She <u>brought</u> her lunch.  ✗  bring의 과거형 brought (bringed ✗)\n③ He <u>catched</u> the ball.  ✓  catch의 과거형은 caught (catched ✗)\n④ They <u>sang</u> together.  ✗  sing의 과거형 sang, i가 a로 바뀐 꼴\n⑤ I <u>found</u> my keys.  ✗  find의 과거형 found (finded ✗)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① We <u>swam</u> in the river.  ✗  swim의 과거형 swam (swimmed ✗)",
+     "② She <u>brought</u> her lunch.  ✗  bring의 과거형 brought (bringed ✗)",
+     "③ He <u>catched</u> the ball.  ✓  catch의 과거형은 caught (catched ✗)",
+     "④ They <u>sang</u> together.  ✗  sing의 과거형 sang, i가 a로 바뀐 꼴",
+     "⑤ I <u>found</u> my keys.  ✗  find의 과거형 found (finded ✗)"
+    ]
+   },
+   "narration": "정답은 3번이에요. catch의 과거형은 caught인데, 규칙동사처럼 ed를 붙인 catched는 틀린 꼴이에요. 2번 brought는 bring과 모양이 많이 달라 틀려 보이지만, bring의 바른 과거형이에요. 1번 swam도 swim의 i가 a로 바뀐 바른 과거형이에요.",
+   "caption": "정답 ③ catched → caught"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ③ He <u>catched</u> the ball.\n\n불규칙동사 → ed 없이 정해진 과거형 (catch → caught)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ He <u>catched</u> the ball.",
+     "불규칙동사 → ed 없이 정해진 과거형 (catch → caught)"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 불규칙동사는 ed를 붙이지 않고, catch의 과거형 caught처럼 정해진 과거형을 써요.",
+   "caption": "불규칙동사: catch → caught"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 밑줄 친 부분이 어법상 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "We <u>swam</u> in the river.",
+   "She <u>brought</u> her lunch.",
+   "He <u>catched</u> the ball.",
+   "They <u>sang</u> together.",
+   "I <u>found</u> my keys."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 불규칙동사는 -ed를 붙이지 않고 정해진 과거형을 쓴다(go-went, see-saw, write-wrote, buy-bought, catch-caught).\n풀이 순서: ① 밑줄 친 동사의 원형을 떠올려 과거형이 규칙(-ed)인지 불규칙인지 가른다. → ② 불규칙동사에 -ed를 붙인 것이 틀린 형태다. → ③ 선택지 ③의 catched는 틀렸다. catch의 과거형은 caught다.\n문장별 판정:\n정답 판단: catched: catch의 과거형은 caught이다. 어법상 틀린 부분이므로 정답은 ③이다.\n선택지 분석:\n① [오답] swam: swim의 과거형을 바르게 썼으므로 오답이다.\n② [오답] brought: bring의 과거형을 바르게 썼으므로 오답이다.\n③ [정답] catched: catch의 과거형은 caught이다. 어법상 틀린 부분이므로 정답이다.\n④ [오답] sang: sing의 과거형을 바르게 썼으므로 오답이다.\n⑤ [오답] found: find의 과거형을 바르게 썼으므로 오답이다."
+ }
+}

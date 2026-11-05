@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T07:28:48.300Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "A: Do you like pizza? B: Yes, I am.",
+      "1": "A: Is Tom your brother? B: No, he doesn't.",
+      "2": "A: Are the cookies fresh? B: Yes, they are.",
+      "3": "A: Does she swim well? B: Yes, she do.",
+      "4": "A: Are you tired? B: Yes, you are."
+    },
+    "expl": "핵심 규칙: be동사 의문문에는 be동사로, Do/Does 의문문에는 do/does로 답하며, 대답의 주어는 질문의 주어에 맞춘다(you → I, this → it).\n풀이 순서: ① 질문의 첫 낱말을 본다. be동사로 물으면 be동사로, Do/Does로 물으면 do/does로 답한다. → ② 대답의 주어와 동사가 서로 맞는지 본다. → ③ 선택지 ③만 Are the cookies ~? - they are로 맞는다. 정답은 ③.\n문장별 판정:\n정답 판단: 질문의 동사와 주어에 맞게 바르게 대답했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] Do 의문문에는 do로 답하므로 오답이다.\n② [오답] be동사 의문문에는 isn't로 답하므로 오답이다.\n③ [정답] 질문의 동사와 주어에 맞게 바르게 대답했으므로 정답이다.\n④ [오답] 주어 she에는 does로 답하므로 오답이다.\n⑤ [오답] you에 대한 질문에는 I로 답하므로 오답이다.",
+    "passage": null,
+    "stem": "질문과 대답이 올바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T07:28:47.501Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:28:48.300Z",
+      "what": "확인 완료"
+    }
+  }
+}

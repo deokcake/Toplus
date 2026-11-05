@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T05:35:08.514Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "He is good at only not swimming but also running.",
+      "1": "He not is good at only swimming but also running.",
+      "2": "He is good at not swimming only but also running.",
+      "3": "He is good at not only swimming but also running.",
+      "4": "He is good at not only swimming also but running."
+    },
+    "expl": "핵심 규칙: not only A but also B는 ‘A뿐 아니라 B도’라는 뜻이며, not only와 but also를 떼지 않고 A와 B 바로 앞에 각각 둔다.\n풀이 순서: ① ‘A뿐만 아니라 B도’는 not only A but also B다. A와 B를 정한다: A는 swimming, B는 running. → ② He is good at 뒤에 not only A but also B를 통째로 놓는다. not only와 but also는 떼거나 순서를 바꾸지 않는다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: not only A but also B 어순으로 바르게 배열했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] only not이 아니라 not only로 써야 하므로 오답이다.\n② [오답] not이 be동사 앞에 와서 어순이 틀렸으므로 오답이다.\n③ [오답] not과 only를 떼어 쓸 수 없으므로 오답이다.\n④ [정답] not only A but also B 어순으로 바르게 배열했으므로 정답이다.\n⑤ [오답] also but이 아니라 but also로 써야 하므로 오답이다.",
+    "passage": "그는 수영뿐만 아니라 달리기도 잘한다.\n(not / running / swimming / he / is / good at / but / also / only)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T05:34:57.710Z"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:35:08.514Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:35:08.514Z",
+      "what": "확인 완료"
+    }
+  }
+}

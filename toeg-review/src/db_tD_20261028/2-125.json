@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:03:49.806Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 현재의 가정은 과거형(be동사는 were), 과거의 가정은 had + 과거분사로 나타내며, 그 결과는 각각 would + 동사원형, would have + 과거분사이다. wish와 as if 뒤에도 가리키는 때에 맞는 가정법 형태를 쓰고 will·can·현재형을 쓰지 않는다.\n풀이 순서: ① 문장마다 if절과 주절의 짝을 본다. 가정법 과거는 ‘과거형 - would + 동사원형’, 가정법 과거완료는 ‘had + 과거분사 - would have + 과거분사’다. → ② I wish, as if 뒤에는 과거형이나 had + 과거분사를 쓴다. 현재형, will, can은 틀린다. → ③ ⓑ는 I would wait, ⓒ는 I wish I had seen, ⓔ는 she were, ⓕ는 I would have helped로 써야 한다. 틀린 문장은 4개이다.\n문장별 판정:\nⓐ O. as if + were로 현재 사실의 반대를 나타냈다.\nⓑ X. 가정법 과거의 주절에는 would를 쓴다(I would wait).\nⓒ X. 지난 일에 대한 아쉬움은 I wish + had + 과거분사로 쓴다(I wish I had seen).\nⓓ O. 가정법 과거완료이다.\nⓔ X. wish 뒤 현재 사실 반대에는 were를 쓴다.\nⓕ X. 가정법 과거완료의 주절은 would have + 과거분사이다(I would have helped).\n정답 판단: 어법상 틀린 문장은 ⓑ, ⓒ, ⓔ, ⓕ로 4개이다.\n선택지 분석:\n① [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓔ, ⓕ로 4개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓔ, ⓕ로 4개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓔ, ⓕ로 4개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [정답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓔ, ⓕ로 4개이다. 이 보기의 4개는 실제 개수와 일치한다.\n⑤ [오답] 어법상 틀린 문장은 ⓑ, ⓒ, ⓔ, ⓕ로 4개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "ⓐ Jane talks as if she were an expert on everything.\nⓑ If I were you, I will wait for a better chance.\nⓒ I wish I have seen the famous show last night.\nⓓ If Tom had called me, I would have answered the phone.\nⓔ Mina wishes she is a little taller than now.\nⓕ If he had asked me for help, I will help him.",
+    "stem": "다음 중 어법상 틀린 문장의 개수를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T17:09:04.595Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T17:09:09.530Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:03:49.806Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:03:33.384Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:03:49.806Z",
+      "what": "확인 완료"
+    }
+  }
+}

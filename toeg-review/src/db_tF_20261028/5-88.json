@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:57:14.160Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "a",
+      "1": "is",
+      "2": "pencil",
+      "3": "in",
+      "4": "box"
+    },
+    "expl": "핵심 규칙: 우리말 뜻에 맞게 주어 + 동사 + (목적어) + 전치사 + 명사의 어순으로 배열한다. There is/are 문장은 There + be동사 + 주어로 시작하고, 명령문은 동사원형으로 시작한다.\n풀이 순서: ① 우리말에 맞게 문장을 완성한다: There is a pencil in the box. → ② 앞에서부터 센다. → ③ 세 번째 낱말은 a. 정답은 ①.\n문장별 판정:\n정답 판단: 완성 문장은 There is a pencil in the box.이고, 세 번째 단어는 a이다.\n선택지 분석:\n① [정답] There is 뒤에 오는 a가 세 번째에 오므로 정답이다.\n② [오답] is는 두 번째에 오므로 오답이다.\n③ [오답] pencil은 네 번째에 오므로 오답이다.\n④ [오답] in은 다섯 번째에 오므로 오답이다.\n⑤ [오답] box는 일곱 번째에 오므로 오답이다.",
+    "passage": "상자 안에 연필이 한 자루 있다.\n(a / is / in / There / box / pencil / the)",
+    "stem": "주어진 단어들을 바르게 배열할 때, 세 번째에 오는 단어는 무엇입니까?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:57:12.084Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:57:14.160Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:57:14.160Z",
+      "what": "확인 완료"
+    }
+  }
+}

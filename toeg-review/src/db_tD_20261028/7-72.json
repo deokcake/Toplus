@@ -1,0 +1,21 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T03:52:45.814Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "expl": "핵심 규칙: 우리말의 의문사·주어·동작과 현재형 의문문 구조가 맞다.\n풀이 순서: ① 우리말의 주어를 본다: ‘그는’ → he(3인칭 단수 → does). → ② 동작을 본다: ‘먹니’ → eat. → ③ What + does + 주어 + 동사원형의 순서로 쓴 것은 ④.\n문장별 판정:\n정답 판단: 정답은 ④입니다. What은 무엇을 묻고, he를 주어로 does와 동사원형 eat을 바르게 사용했습니다. 주어진 우리말의 주어와 동작을 정확히 옮겼습니다.\n선택지 분석:\n① [오답] 주어 he는 3인칭 단수 주어 he이므로 does를 쓰고, 뒤에는 동사원형 eat을 씁니다. do를 does로 바꿔야 합니다. 바르게 고치면: What does he eat?\n② [오답] 주어 he는 3인칭 단수 주어 he이므로 does를 쓰고, 뒤에는 동사원형 eat을 씁니다. eats도 원형 eat으로 바꿔야 합니다. 바르게 고치면: What does he eat?\n③ [오답] Where는 ‘어디’를 묻습니다. 우리말은 무엇을 하는지 또는 어떤 대상을 말하는지 묻기 때문에 What이 필요합니다. 바르게 고치면: What does he eat?\n④ [정답] What은 무엇을 묻고, he를 주어로 does와 동사원형 eat을 바르게 사용했습니다. 주어진 우리말의 주어와 동작을 정확히 옮겼습니다.\n⑤ [오답] Who는 ‘누구’를 묻습니다. 우리말은 무엇을 하는지 또는 어떤 대상을 말하는지 묻기 때문에 What이 필요합니다. 바르게 고치면: What does he eat?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T03:52:43.814Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:52:45.814Z",
+      "what": "확인 완료"
+    }
+  }
+}

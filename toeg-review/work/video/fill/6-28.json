@@ -1,0 +1,446 @@
+{
+ "A": {
+  "title": "be동사 과거 의문문의 어순 (주어 you)",
+  "intro": "이 문제는 주어 you와 were로 be동사 과거 의문문을 만들 때 알맞은 어순을 고르는 문제예요.",
+  "problem_narration": "다음 단어들을 의문문으로 바르게 배열한 것을 고르세요. 주어진 말은 busy, you, this morning, were, 그리고 물음표예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Yes, No로 대답하는 be동사 과거 의문문",
+    "→ 지난 일을 물을 때 (바빴나요? 있었나요?)",
+    "어순: Was/Were + 주어 + 나머지 ~?",
+    "예) He was sick yesterday. → Was he sick yesterday? (그는 어제 아팠나요?)"
+   ],
+   "narration": "Yes나 No로 대답하는 be동사 과거 의문문은 바빴나요, 있었나요처럼 지난 일을 물을 때 써요. Was나 Were를 맨 앞에 두고, 바로 뒤에 주어, 그 뒤에 나머지 말을 써요. 예를 들어 He was sick yesterday, 그는 어제 아팠어요. 여기서 was를 주어 he 앞으로 옮기면 Was he sick yesterday? 그는 어제 아팠나요?"
+  },
+  "steps": [
+   {
+    "note": "Yes, No로 대답하는 be동사 의문문 → Were가 맨 앞. Were로 시작하지 않은 ②③⑤ 지움",
+    "highlight": [
+     "( busy / you / this morning / were / ? )"
+    ],
+    "strike": [
+     "② You were busy this morning?",
+     "③ Busy were you this morning?",
+     "⑤ This morning you were busy?"
+    ],
+    "narration": "첫째, Yes나 No로 대답하는 be동사 의문문이니까 맨 앞에 Were가 와야 해요. 따라서 Were로 시작하지 않은 2번, 3번, 5번을 지워요."
+   },
+   {
+    "note": "Were 바로 뒤에는 주어 you. busy가 먼저 온 ④ 지움",
+    "highlight": [],
+    "strike": [
+     "④ Were busy you this morning?"
+    ],
+    "narration": "둘째, Were 바로 뒤에는 주어 you가 와야 하니까 busy가 먼저 온 4번도 지워요."
+   },
+   {
+    "note": "남은 ①: Were + 주어 you + 나머지 (busy, this morning)",
+    "highlight": [
+     "① Were you busy this morning?"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 1번은 Were, 주어 you, 나머지 busy와 this morning 순서예요. Were you busy this morning? 너는 오전에 바빴니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Were you busy this morning?  ✓  Were + 주어 you + busy + this morning",
+    "② You were busy this morning?  ✗  주어 You로 시작한 평서문 어순",
+    "③ Busy were you this morning?  ✗  형용사 Busy가 맨 앞",
+    "④ Were busy you this morning?  ✗  Were와 주어 you 사이에 busy",
+    "⑤ This morning you were busy?  ✗  This morning 뒤가 평서문 어순"
+   ],
+   "narration": "정답은 1번이에요. 2번은 주어 You로 시작한 평서문 어순이에요. 물음표만 붙여서는 의문문 어순이 되지 않아요. 5번도 This morning 뒤에 you were가 이어진 평서문 어순이에요. 4번은 Were로 시작했지만 주어 you보다 busy가 먼저 왔어요."
+  },
+  "summary": {
+   "card": "be동사 과거 의문문(Yes, No 대답): Was/Were + 주어 + 나머지 ~?",
+   "narration": "정답은 1번이에요. 기억할 것, Yes나 No로 대답하는 be동사 과거 의문문은 Was나 Were를 맨 앞에 두고, 바로 뒤에 주어를 써요."
+  },
+  "captions": [
+   "be동사 과거 의문문의 어순",
+   "먼저 풀어 보세요",
+   "Was/Were + 주어 + 나머지",
+   "Were 맨 앞 → 바로 뒤 주어 you",
+   "정답 ① Were you busy …?",
+   "Was/Were + 주어 ~?"
+  ],
+  "sec": [
+   10,
+   16,
+   26,
+   34,
+   24,
+   10
+  ]
+ },
+ "B": {
+  "title": "be동사 과거 의문문의 어순 (주어 Tom)",
+  "intro": "이 문제는 주어 Tom과 was로 be동사 과거 의문문을 만들 때 알맞은 어순을 고르는 문제예요.",
+  "problem_narration": "다음 단어들을 의문문으로 바르게 배열한 것을 고르세요. 주어진 말은 Tom, at school, was, 그리고 물음표예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Yes, No로 대답하는 be동사 과거 의문문",
+    "→ 지난 일을 물을 때 (바빴나요? 있었나요?)",
+    "어순: Was/Were + 주어 + 나머지 ~?",
+    "예) Mina was at the park. → Was Mina at the park? (미나는 공원에 있었나요?)"
+   ],
+   "narration": "Yes나 No로 대답하는 be동사 과거 의문문은 바빴나요, 있었나요처럼 지난 일을 물을 때 써요. Was나 Were를 맨 앞에 두고, 바로 뒤에 주어, 그 뒤에 나머지 말을 써요. 예를 들어 Mina was at the park, 미나는 공원에 있었어요. 여기서 was를 주어 Mina 앞으로 옮기면 Was Mina at the park? 미나는 공원에 있었나요?"
+  },
+  "steps": [
+   {
+    "note": "Yes, No로 대답하는 be동사 의문문 → Was가 맨 앞. Was로 시작하지 않은 ①④⑤ 지움",
+    "highlight": [
+     "( Tom / at school / was / ? )"
+    ],
+    "strike": [
+     "① Tom was at school?",
+     "④ At school was Tom?",
+     "⑤ At school Tom was?"
+    ],
+    "narration": "첫째, Yes나 No로 대답하는 be동사 의문문이니까 맨 앞에 Was가 와야 해요. 따라서 Was로 시작하지 않은 1번, 4번, 5번을 지워요."
+   },
+   {
+    "note": "Was 바로 뒤에는 주어 Tom. at school이 먼저 온 ③ 지움",
+    "highlight": [],
+    "strike": [
+     "③ Was at school Tom?"
+    ],
+    "narration": "둘째, Was 바로 뒤에는 주어 Tom이 와야 하니까 at school이 먼저 온 3번도 지워요."
+   },
+   {
+    "note": "남은 ②: Was + 주어 Tom + 나머지 (at school)",
+    "highlight": [
+     "② Was Tom at school?"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 2번은 Was, 주어 Tom, 나머지 at school 순서예요. Was Tom at school? 톰은 학교에 있었나요?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Tom was at school?  ✗  주어 Tom으로 시작한 평서문 어순",
+    "② Was Tom at school?  ✓  Was + 주어 Tom + at school",
+    "③ Was at school Tom?  ✗  Was와 주어 Tom 사이에 at school",
+    "④ At school was Tom?  ✗  장소 At school이 맨 앞",
+    "⑤ At school Tom was?  ✗  At school로 시작, was가 맨 끝"
+   ],
+   "narration": "정답은 2번이에요. 1번은 주어 Tom으로 시작한 평서문 어순이에요. 물음표만 붙여서는 의문문 어순이 되지 않아요. 3번은 Was로 시작했지만 주어 Tom보다 at school이 먼저 왔어요. 4번은 Was보다 장소를 나타내는 At school이 먼저 와서 틀렸어요."
+  },
+  "summary": {
+   "card": "be동사 과거 의문문(Yes, No 대답): Was/Were + 주어 + 나머지 ~?",
+   "narration": "정답은 2번이에요. 기억할 것, Yes나 No로 대답하는 be동사 과거 의문문은 Was나 Were를 맨 앞에 두고, 바로 뒤에 주어를 써요."
+  },
+  "captions": [
+   "be동사 과거 의문문의 어순",
+   "먼저 풀어 보세요",
+   "Was/Were + 주어 + 나머지",
+   "Was 맨 앞 → 바로 뒤 주어 Tom",
+   "정답 ② Was Tom at school?",
+   "Was/Were + 주어 ~?"
+  ],
+  "sec": [
+   10,
+   16,
+   26,
+   32,
+   24,
+   10
+  ]
+ },
+ "C": {
+  "title": "be동사 과거 의문문의 어순 (주어 Jane)",
+  "intro": "이 문제는 주어 Jane과 was로 be동사 과거 의문문을 만들 때 알맞은 어순을 고르는 문제예요.",
+  "problem_narration": "다음 단어들을 의문문으로 바르게 배열한 것을 고르세요. 주어진 말은 at the museum, Jane, yesterday, was, 그리고 물음표예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Yes, No로 대답하는 be동사 과거 의문문",
+    "→ 지난 일을 물을 때 (바빴나요? 있었나요?)",
+    "어순: Was/Were + 주어 + 나머지 ~?",
+    "예) Ben was at the zoo. → Was Ben at the zoo? (벤은 동물원에 있었나요?)"
+   ],
+   "narration": "Yes나 No로 대답하는 be동사 과거 의문문은 바빴나요, 있었나요처럼 지난 일을 물을 때 써요. Was나 Were를 맨 앞에 두고, 바로 뒤에 주어, 그 뒤에 나머지 말을 써요. 예를 들어 Ben was at the zoo, 벤은 동물원에 있었어요. 여기서 was를 주어 Ben 앞으로 옮기면 Was Ben at the zoo? 벤은 동물원에 있었나요?"
+  },
+  "steps": [
+   {
+    "note": "Yes, No로 대답하는 be동사 의문문 → Was가 맨 앞. Was로 시작하지 않은 ①④⑤ 지움",
+    "highlight": [
+     "( at the museum / Jane / yesterday / was / ? )"
+    ],
+    "strike": [
+     "① Jane was at the museum yesterday?",
+     "④ Yesterday Jane was at the museum?",
+     "⑤ At the museum was Jane yesterday?"
+    ],
+    "narration": "첫째, Yes나 No로 대답하는 be동사 의문문이니까 맨 앞에 Was가 와야 해요. 따라서 Was로 시작하지 않은 1번, 4번, 5번을 지워요."
+   },
+   {
+    "note": "Was 바로 뒤에는 주어 Jane. at the museum이 먼저 온 ② 지움",
+    "highlight": [],
+    "strike": [
+     "② Was at the museum Jane yesterday?"
+    ],
+    "narration": "둘째, Was 바로 뒤에는 주어 Jane이 와야 하니까 at the museum이 먼저 온 2번도 지워요."
+   },
+   {
+    "note": "남은 ③: Was + 주어 Jane + 나머지 (at the museum, yesterday)",
+    "highlight": [
+     "③ Was Jane at the museum yesterday?"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 3번은 Was, 주어 Jane, 나머지 at the museum과 yesterday 순서예요. Was Jane at the museum yesterday? 제인은 어제 박물관에 있었나요?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Jane was at the museum yesterday?  ✗  주어 Jane으로 시작한 평서문 어순",
+    "② Was at the museum Jane yesterday?  ✗  Was와 주어 Jane 사이에 at the museum",
+    "③ Was Jane at the museum yesterday?  ✓  Was + 주어 Jane + 장소 + 때",
+    "④ Yesterday Jane was at the museum?  ✗  Yesterday 뒤가 평서문 어순",
+    "⑤ At the museum was Jane yesterday?  ✗  장소 At the museum이 맨 앞"
+   ],
+   "narration": "정답은 3번이에요. 1번은 주어 Jane으로 시작한 평서문 어순이에요. 물음표만 붙여서는 의문문 어순이 되지 않아요. 4번도 Yesterday 뒤에 Jane was가 이어진 평서문 어순이에요. 2번은 Was로 시작했지만 주어 Jane보다 at the museum이 먼저 왔어요."
+  },
+  "summary": {
+   "card": "be동사 과거 의문문(Yes, No 대답): Was/Were + 주어 + 나머지 ~?",
+   "narration": "정답은 3번이에요. 기억할 것, Yes나 No로 대답하는 be동사 과거 의문문은 Was나 Were를 맨 앞에 두고, 바로 뒤에 주어를 써요."
+  },
+  "captions": [
+   "be동사 과거 의문문의 어순",
+   "먼저 풀어 보세요",
+   "Was/Were + 주어 + 나머지",
+   "Was 맨 앞 → 바로 뒤 주어 Jane",
+   "정답 ③ Was Jane …?",
+   "Was/Were + 주어 ~?"
+  ],
+  "sec": [
+   10,
+   16,
+   26,
+   34,
+   24,
+   10
+  ]
+ },
+ "D": {
+  "title": "be동사 과거 의문문의 어순 (주어 the boys)",
+  "intro": "이 문제는 주어 the boys와 were로 be동사 과거 의문문을 만들 때 알맞은 어순을 고르는 문제예요.",
+  "problem_narration": "다음 단어들을 의문문으로 바르게 배열한 것을 고르세요. 주어진 말은 the boys, tired, were, 그리고 물음표예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Yes, No로 대답하는 be동사 과거 의문문",
+    "→ 지난 일을 물을 때 (바빴나요? 있었나요?)",
+    "어순: Was/Were + 주어 + 나머지 ~?",
+    "예) The girls were happy. → Were the girls happy? (그 소녀들은 행복했나요?)"
+   ],
+   "narration": "Yes나 No로 대답하는 be동사 과거 의문문은 바빴나요, 있었나요처럼 지난 일을 물을 때 써요. Was나 Were를 맨 앞에 두고, 바로 뒤에 주어, 그 뒤에 나머지 말을 써요. 예를 들어 The girls were happy, 그 소녀들은 행복했어요. 여기서 were를 주어 the girls 앞으로 옮기면 Were the girls happy? 그 소녀들은 행복했나요?"
+  },
+  "steps": [
+   {
+    "note": "Yes, No로 대답하는 be동사 의문문 → Were가 맨 앞. Were로 시작하지 않은 ②③⑤ 지움",
+    "highlight": [
+     "( the boys / tired / were / ? )"
+    ],
+    "strike": [
+     "② The boys were tired?",
+     "③ Tired were the boys?",
+     "⑤ Tired the boys were?"
+    ],
+    "narration": "첫째, Yes나 No로 대답하는 be동사 의문문이니까 맨 앞에 Were가 와야 해요. 따라서 Were로 시작하지 않은 2번, 3번, 5번을 지워요."
+   },
+   {
+    "note": "Were 바로 뒤에는 주어 the boys. tired가 먼저 온 ① 지움",
+    "highlight": [],
+    "strike": [
+     "① Were tired the boys?"
+    ],
+    "narration": "둘째, Were 바로 뒤에는 주어 the boys가 와야 하니까 tired가 먼저 온 1번도 지워요."
+   },
+   {
+    "note": "남은 ④: Were + 주어 the boys + 나머지 (tired)",
+    "highlight": [
+     "④ Were the boys tired?"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 4번은 Were, 주어 the boys, 나머지 tired 순서예요. Were the boys tired? 그 소년들은 피곤했나요?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Were tired the boys?  ✗  Were와 주어 the boys 사이에 tired",
+    "② The boys were tired?  ✗  주어 The boys로 시작한 평서문 어순",
+    "③ Tired were the boys?  ✗  형용사 Tired가 맨 앞",
+    "④ Were the boys tired?  ✓  Were + 주어 the boys + tired",
+    "⑤ Tired the boys were?  ✗  Tired로 시작, were가 맨 끝"
+   ],
+   "narration": "정답은 4번이에요. 2번은 주어 The boys로 시작한 평서문 어순이에요. 물음표만 붙여서는 의문문 어순이 되지 않아요. 1번은 Were로 시작했지만 주어 the boys보다 tired가 먼저 왔어요. 3번은 Were보다 형용사 Tired가 먼저 와서 틀렸어요."
+  },
+  "summary": {
+   "card": "be동사 과거 의문문(Yes, No 대답): Was/Were + 주어 + 나머지 ~?",
+   "narration": "정답은 4번이에요. 기억할 것, Yes나 No로 대답하는 be동사 과거 의문문은 Was나 Were를 맨 앞에 두고, 바로 뒤에 주어를 써요."
+  },
+  "captions": [
+   "be동사 과거 의문문의 어순",
+   "먼저 풀어 보세요",
+   "Was/Were + 주어 + 나머지",
+   "Were 맨 앞 → 바로 뒤 주어",
+   "정답 ④ Were the boys tired?",
+   "Was/Were + 주어 ~?"
+  ],
+  "sec": [
+   10,
+   16,
+   26,
+   32,
+   24,
+   10
+  ]
+ },
+ "E": {
+  "title": "be동사 과거 의문문의 어순 (주어 she)",
+  "intro": "이 문제는 주어 she와 was로 be동사 과거 의문문을 만들 때 알맞은 어순을 고르는 문제예요.",
+  "problem_narration": "다음 단어들을 의문문으로 바르게 배열한 것을 고르세요. 주어진 말은 at home, she, yesterday, was, 그리고 물음표예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Yes, No로 대답하는 be동사 과거 의문문",
+    "→ 지난 일을 물을 때 (바빴나요? 있었나요?)",
+    "어순: Was/Were + 주어 + 나머지 ~?",
+    "예) He was at the park. → Was he at the park? (그는 공원에 있었나요?)"
+   ],
+   "narration": "Yes나 No로 대답하는 be동사 과거 의문문은 바빴나요, 있었나요처럼 지난 일을 물을 때 써요. Was나 Were를 맨 앞에 두고, 바로 뒤에 주어, 그 뒤에 나머지 말을 써요. 예를 들어 He was at the park, 그는 공원에 있었어요. 여기서 was를 주어 he 앞으로 옮기면 Was he at the park? 그는 공원에 있었나요?"
+  },
+  "steps": [
+   {
+    "note": "Yes, No로 대답하는 be동사 의문문 → Was가 맨 앞. Was로 시작하지 않은 ①③④ 지움",
+    "highlight": [
+     "( at home / she / yesterday / was / ? )"
+    ],
+    "strike": [
+     "① She was at home yesterday?",
+     "③ Yesterday she was at home?",
+     "④ At home was she yesterday?"
+    ],
+    "narration": "첫째, Yes나 No로 대답하는 be동사 의문문이니까 맨 앞에 Was가 와야 해요. 따라서 Was로 시작하지 않은 1번, 3번, 4번을 지워요."
+   },
+   {
+    "note": "Was 바로 뒤에는 주어 she. at home이 먼저 온 ② 지움",
+    "highlight": [],
+    "strike": [
+     "② Was at home she yesterday?"
+    ],
+    "narration": "둘째, Was 바로 뒤에는 주어 she가 와야 하니까 at home이 먼저 온 2번도 지워요."
+   },
+   {
+    "note": "남은 ⑤: Was + 주어 she + 나머지 (at home, yesterday)",
+    "highlight": [
+     "⑤ Was she at home yesterday?"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 5번은 Was, 주어 she, 나머지 at home과 yesterday 순서예요. Was she at home yesterday? 그녀는 어제 집에 있었나요?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① She was at home yesterday?  ✗  주어 She로 시작한 평서문 어순",
+    "② Was at home she yesterday?  ✗  Was와 주어 she 사이에 at home",
+    "③ Yesterday she was at home?  ✗  Yesterday 뒤가 평서문 어순",
+    "④ At home was she yesterday?  ✗  장소 At home이 맨 앞",
+    "⑤ Was she at home yesterday?  ✓  Was + 주어 she + 장소 + 때"
+   ],
+   "narration": "정답은 5번이에요. 1번은 주어 She로 시작한 평서문 어순이에요. 물음표만 붙여서는 의문문 어순이 되지 않아요. 3번도 Yesterday 뒤에 she was가 이어진 평서문 어순이에요. 2번은 Was로 시작했지만 주어 she보다 at home이 먼저 왔어요."
+  },
+  "summary": {
+   "card": "be동사 과거 의문문(Yes, No 대답): Was/Were + 주어 + 나머지 ~?",
+   "narration": "정답은 5번이에요. 기억할 것, Yes나 No로 대답하는 be동사 과거 의문문은 Was나 Were를 맨 앞에 두고, 바로 뒤에 주어를 써요."
+  },
+  "captions": [
+   "be동사 과거 의문문의 어순",
+   "먼저 풀어 보세요",
+   "Was/Were + 주어 + 나머지",
+   "Was 맨 앞 → 바로 뒤 주어 she",
+   "정답 ⑤ Was she …?",
+   "Was/Were + 주어 ~?"
+  ],
+  "sec": [
+   10,
+   16,
+   26,
+   34,
+   24,
+   10
+  ]
+ },
+ "F": {
+  "title": "be동사 과거 의문문의 어순 (주어 the students)",
+  "intro": "이 문제는 주어 the students와 were로 be동사 과거 의문문을 만들 때 알맞은 어순을 고르는 문제예요.",
+  "problem_narration": "다음 단어들을 의문문으로 바르게 배열한 것을 고르세요. 주어진 말은 the students, in the library, yesterday, were, 그리고 물음표예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Yes, No로 대답하는 be동사 과거 의문문",
+    "→ 지난 일을 물을 때 (바빴나요? 있었나요?)",
+    "어순: Was/Were + 주어 + 나머지 ~?",
+    "예) The kids were at the zoo. → Were the kids at the zoo? (그 아이들은 동물원에 있었나요?)"
+   ],
+   "narration": "Yes나 No로 대답하는 be동사 과거 의문문은 바빴나요, 있었나요처럼 지난 일을 물을 때 써요. Was나 Were를 맨 앞에 두고, 바로 뒤에 주어, 그 뒤에 나머지 말을 써요. 예를 들어 The kids were at the zoo, 그 아이들은 동물원에 있었어요. 여기서 were를 주어 the kids 앞으로 옮기면 Were the kids at the zoo? 그 아이들은 동물원에 있었나요?"
+  },
+  "steps": [
+   {
+    "note": "Yes, No로 대답하는 be동사 의문문 → Were가 맨 앞. Were로 시작하지 않은 ③④⑤ 지움",
+    "highlight": [
+     "( the students / in the library / yesterday / were / ? )"
+    ],
+    "strike": [
+     "③ The students were in the library yesterday?",
+     "④ In the library were the students yesterday?",
+     "⑤ Yesterday the students were in the library?"
+    ],
+    "narration": "첫째, Yes나 No로 대답하는 be동사 의문문이니까 맨 앞에 Were가 와야 해요. 따라서 Were로 시작하지 않은 3번, 4번, 5번을 지워요."
+   },
+   {
+    "note": "Were 바로 뒤에는 주어 the students. in the library가 먼저 온 ② 지움",
+    "highlight": [],
+    "strike": [
+     "② Were in the library the students yesterday?"
+    ],
+    "narration": "둘째, Were 바로 뒤에는 주어 the students가 와야 하니까 in the library가 먼저 온 2번도 지워요."
+   },
+   {
+    "note": "남은 ①: Were + 주어 the students + 나머지 (in the library, yesterday)",
+    "highlight": [
+     "① Were the students in the library yesterday?"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 1번은 Were, 주어 the students, 나머지 in the library와 yesterday 순서예요. Were the students in the library yesterday? 그 학생들은 어제 도서관에 있었나요?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Were the students in the library yesterday?  ✓  Were + 주어 the students + 장소 + 때",
+    "② Were in the library the students yesterday?  ✗  Were와 주어 사이에 in the library",
+    "③ The students were in the library yesterday?  ✗  주어 The students로 시작한 평서문 어순",
+    "④ In the library were the students yesterday?  ✗  장소 In the library가 맨 앞",
+    "⑤ Yesterday the students were in the library?  ✗  Yesterday 뒤가 평서문 어순"
+   ],
+   "narration": "정답은 1번이에요. 3번은 주어 The students로 시작한 평서문 어순이에요. 물음표만 붙여서는 의문문 어순이 되지 않아요. 5번도 Yesterday 뒤에 the students were가 이어진 평서문 어순이에요. 2번은 Were로 시작했지만 주어 the students보다 in the library가 먼저 왔어요."
+  },
+  "summary": {
+   "card": "be동사 과거 의문문(Yes, No 대답): Was/Were + 주어 + 나머지 ~?",
+   "narration": "정답은 1번이에요. 기억할 것, Yes나 No로 대답하는 be동사 과거 의문문은 Was나 Were를 맨 앞에 두고, 바로 뒤에 주어를 써요."
+  },
+  "captions": [
+   "be동사 과거 의문문의 어순",
+   "먼저 풀어 보세요",
+   "Was/Were + 주어 + 나머지",
+   "Were 맨 앞 → 바로 뒤 주어",
+   "정답 ① Were the students …?",
+   "Was/Were + 주어 ~?"
+  ],
+  "sec": [
+   10,
+   16,
+   26,
+   36,
+   24,
+   10
+  ]
+ }
+}

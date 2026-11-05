@@ -1,0 +1,174 @@
+{
+ "key": "4-19",
+ "type": "B",
+ "grade": 4,
+ "chapter": "CH 2 대명사",
+ "title": "짝을 이루는 물건을 받는 대명사",
+ "total_sec": 129,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "4급 · CH 2 대명사 · 19번 · B 유형\n\n이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 2 대명사 · 19번 · B 유형",
+     "이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 2, 19번 B 유형. 이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요.",
+   "caption": "짝을 이루는 물건과 대명사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?\n\nJane bought ①<u>some</u> new ②<u>shoes</u>. ③<u>It</u> ④<u>are</u> very ⑤<u>comfortable</u>.\n\n① some\n② shoes\n③ It\n④ are\n⑤ comfortable",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?",
+     "Jane bought ①<u>some</u> new ②<u>shoes</u>. ③<u>It</u> ④<u>are</u> very ⑤<u>comfortable</u>.",
+     "① some",
+     "② shoes",
+     "③ It",
+     "④ are",
+     "⑤ comfortable"
+    ]
+   },
+   "narration": "다음 문장의 밑줄 친 부분 중 어법상 틀린 것을 고르세요. Jane bought some new shoes. It are very comfortable. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n대명사는 가리키는 명사의 수에 맞춰요.\n단수인 물건 → it   복수 → they(주어), them(목적어)\nshoes, gloves: 두 짝이 한 켤레인 물건 → 보통 복수형, 복수 취급\n예) My gloves are warm. They are red. (내 장갑은 따뜻해요. 그 장갑은 빨간색이에요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "대명사는 가리키는 명사의 수에 맞춰요.",
+     "단수인 물건 → it   복수 → they(주어), them(목적어)",
+     "shoes, gloves: 두 짝이 한 켤레인 물건 → 보통 복수형, 복수 취급",
+     "예) My gloves are warm. They are red. (내 장갑은 따뜻해요. 그 장갑은 빨간색이에요.)"
+    ]
+   },
+   "narration": "대명사는 가리키는 명사의 수에 맞춰, 단수인 물건은 it, 복수는 they나 them으로 받아요. 신발 shoes, 장갑 gloves처럼 두 짝이 한 켤레인 물건은 보통 복수형으로 써요. 복수형은 복수 취급해서 they로 받고, be동사도 is가 아니라 are를 써요. 예를 들어 My gloves are warm, 내 장갑은 따뜻해요. They are red, 그 장갑은 빨간색이에요.",
+   "caption": "두 짝이 한 켤레 → 복수형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 30,
+   "screen": {
+    "text": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?\n\nJane bought ①<u>some</u> new ②<u>shoes</u>. ③<u>It</u> ④<u>are</u> very ⑤<u>comfortable</u>.\n\n① some\n② shoes\n③ It\n④ are\n⑤ comfortable",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "③<u>It</u> ④<u>are</u>"
+      ],
+      "strike": [],
+      "note": "뒤 문장의 주어 It과 동사 are → 수가 맞지 않는다"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "②<u>shoes</u>"
+      ],
+      "strike": [],
+      "note": "It이 가리키는 것 = 앞 문장의 shoes(신발) → 복수형 → They로 받아야 한다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ It"
+      ],
+      "strike": [
+       "④ are"
+      ],
+      "note": "They로 고치면 are는 그대로 맞다 → 틀린 것은 It: They are very comfortable."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 뒤 문장의 주어 It과 동사 are를 맞춰 보면, It에는 is를 쓰니 수가 맞지 않아요. 둘째, 앞 문장에서 가리키는 명사를 찾으면 Jane이 산 신발, shoes예요. shoes는 복수형이니 They로 받아야 해요. 셋째, They로 고치면 are는 그대로 맞으니, 틀린 것은 3번 It이에요. They are very comfortable, 그 신발은 아주 편해요.",
+   "caption": "It are → shoes → They"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① some  ✗  복수형 shoes 앞에 some을 쓸 수 있어요\n② shoes  ✗  신발은 두 짝이 한 켤레라 보통 복수형 shoes\n③ It  ✓  복수형 shoes → They로 고쳐요\n④ are  ✗  They로 고치면 복수에 맞는 are\n⑤ comfortable  ✗  be동사 뒤 형용사 comfortable(편한)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① some  ✗  복수형 shoes 앞에 some을 쓸 수 있어요",
+     "② shoes  ✗  신발은 두 짝이 한 켤레라 보통 복수형 shoes",
+     "③ It  ✓  복수형 shoes → They로 고쳐요",
+     "④ are  ✗  They로 고치면 복수에 맞는 are",
+     "⑤ comfortable  ✗  be동사 뒤 형용사 comfortable(편한)"
+    ]
+   },
+   "narration": "정답은 3번 It이에요. 4번 are를 is로 고치고 싶을 수 있어요. 하지만 It is라고 하면 복수형 shoes를 가리킬 수 없으니, It을 They로 고쳐야 해요. 2번 shoes는 신발을 말할 때 보통 쓰는 복수형이라 맞아요.",
+   "caption": "정답 ③ It → They"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ It\n\n복수형 shoes, gloves → it이 아니라 they, them으로 받기",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ It",
+     "복수형 shoes, gloves → it이 아니라 they, them으로 받기"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 복수형 shoes처럼 복수인 명사는 it이 아니라 they나 them으로 받아요.",
+   "caption": "복수형 shoes → they, them"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?",
+  "passage": "Jane bought ①<u>some</u> new ②<u>shoes</u>. ③<u>It</u> ④<u>are</u> very ⑤<u>comfortable</u>.",
+  "c": [
+   "some",
+   "shoes",
+   "It",
+   "are",
+   "comfortable"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: shoes·pants·glasses처럼 짝을 이루는 물건은 복수 취급해 They로 받고 복수 동사를 쓴다.\n풀이 순서: ① 뒤 문장의 주어와 동사를 맞춰 본다: They is는 수가 맞지 않는다. → ② 앞 문장에서 가리키는 명사를 찾아 어느 쪽이 틀렸는지 정한다: shoes는 복수이므로 They are가 되어야 한다. 틀린 것은 is다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 복수명사 shoes는 They로 받아야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 복수명사 shoes 앞에 some을 쓸 수 있으므로 오답이다.\n② [오답] 신발은 짝을 이루는 물건이라 복수형 shoes가 맞으므로 오답이다.\n③ [정답] 복수명사 shoes는 They로 받아야 하므로 정답이다.\n④ [오답] They로 받으면 복수 동사 are가 맞으므로 오답이다.\n⑤ [오답] be동사 뒤 보어 자리에 형용사가 맞으므로 오답이다."
+ }
+}

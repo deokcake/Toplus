@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:18:14.108Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "The cake which baked by Mina and the cookies on the plate look delicious.",
+      "1": "The cake baked by Mina and the cookies which on the plate look delicious.",
+      "2": "The cake baked by Mina and the cookies on the plate look delicious.",
+      "3": "The cake was baked by Mina and the cookies are on the plate look delicious.",
+      "4": "The cake baked by Mina and the cookies on the plate looking delicious."
+    },
+    "expl": "핵심 규칙: 주격 관계대명사 + be동사는 함께 생략할 수 있고, 남은 분사(-ing, 과거분사)나 전치사구가 앞의 명사를 꾸민다. 관계대명사나 be동사 하나만 생략하지 않으며, 문장의 동사는 그대로 둔다.\n풀이 순서: ① 생략할 수 있는 것은 ‘주격 관계대명사 + be동사’ 묶음이다. 두 곳(which was, which are)을 찾는다. → ② 둘을 함께 지우면 분사구·전치사구(baked by Mina, on the plate)가 명사를 바로 꾸민다. → ③ 문장의 동사(look)는 그대로 둔다. 정답은 ③.\n문장별 판정:\n정답 판단: 관계대명사 + be동사를 두 곳 모두 함께 생략하고 문장의 동사를 그대로 두었으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 관계대명사를 남기고 be동사만 생략해 관계절에 동사가 없으므로 오답이다.\n② [오답] 둘째 관계절에서 관계대명사만 남기고 be동사를 생략했으므로 오답이다.\n③ [정답] 관계대명사 + be동사를 두 곳 모두 함께 생략하고 문장의 동사를 그대로 두었으므로 정답이다.\n④ [오답] 관계대명사만 생략하고 be동사를 남겨 동사가 여러 개 겹치므로 오답이다.\n⑤ [오답] 문장의 동사까지 -ing로 바꿔 문장에 동사가 없으므로 오답이다.",
+    "passage": "The cake which was baked by Mina and the cookies which are on the plate look delicious.",
+    "stem": "다음 문장에서 생략 가능한 부분을 생략하여 다시 쓴 문장으로 옳은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T07:18:13.514Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T07:18:14.108Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T07:18:14.108Z",
+      "what": "확인 완료"
+    }
+  }
+}

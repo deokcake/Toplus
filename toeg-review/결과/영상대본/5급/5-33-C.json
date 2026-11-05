@@ -1,0 +1,173 @@
+{
+ "key": "5-33",
+ "type": "C",
+ "grade": 5,
+ "chapter": "CH 4 현재진행형",
+ "title": "현재진행형 틀린 문장 찾기",
+ "total_sec": 132,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "5급 · CH 4 현재진행형 · 33번 · C 유형\n\n이 문제는 현재진행형 문장 다섯 개 가운데 형태가 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 4 현재진행형 · 33번 · C 유형",
+     "이 문제는 현재진행형 문장 다섯 개 가운데 형태가 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 4, 33번 C 유형. 이 문제는 현재진행형 문장 다섯 개 가운데 형태가 틀린 문장을 고르는 문제예요.",
+   "caption": "현재진행형 틀린 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "틀린 문장을 고르시오.\n\n① Jane is reading a comic book.\n② Are the kids swimming in the river?\n③ Tom isn't watching TV now.\n④ We are not playing games.\n⑤ My brother are taking a shower.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "틀린 문장을 고르시오.",
+     "① Jane is reading a comic book.",
+     "② Are the kids swimming in the river?",
+     "③ Tom isn't watching TV now.",
+     "④ We are not playing games.",
+     "⑤ My brother are taking a shower."
+    ]
+   },
+   "narration": "틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n현재진행형(…하고 있다) = am/is/are + 동사의 -ing형\nI → am · 3인칭 단수(he, she, it, Tom) → is · you, 복수 → are\n부정문: be동사 뒤에 not · 예, 아니요 의문문: be동사를 주어 앞에\n예) My dad is cooking. (우리 아빠는 요리하고 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재진행형(…하고 있다) = am/is/are + 동사의 -ing형",
+     "I → am · 3인칭 단수(he, she, it, Tom) → is · you, 복수 → are",
+     "부정문: be동사 뒤에 not · 예, 아니요 의문문: be동사를 주어 앞에",
+     "예) My dad is cooking. (우리 아빠는 요리하고 있어요.)"
+    ]
+   },
+   "narration": "현재진행형은 be동사 뒤에 동사의 ing형을 써서 주로 지금 하고 있는 일을 나타내요. be동사는 주어에 맞춰 I에는 am, he 같은 3인칭 단수에는 is, you와 복수에는 are를 써요. 진행형의 부정문은 be동사 뒤에 not을 쓰고, 예, 아니요로 묻는 의문문은 be동사를 주어 앞에 써요. My dad is cooking. 우리 아빠는 요리하고 있어요.",
+   "caption": "be동사 + 동사의 ing형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "틀린 문장을 고르시오.\n\n① Jane is reading a comic book.\n② Are the kids swimming in the river?\n③ Tom isn't watching TV now.\n④ We are not playing games.\n⑤ My brother are taking a shower.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "① Jane is",
+       "③ Tom isn't",
+       "④ We are not"
+      ],
+      "strike": [],
+      "note": "평서문·부정문 ①③④: Jane → is, Tom → isn't, We → are not → 맞다"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "② Are the kids"
+      ],
+      "strike": [],
+      "note": "의문문은 be동사 뒤가 주어: ② Are the kids → 맞다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "My brother are"
+      ],
+      "strike": [],
+      "note": "⑤ 주어 My brother = 한 사람(3인칭 단수)인데 are ✗ → is. 틀린 문장은 ⑤"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 주어와 be동사를 맞춰 보면, 1번 Jane에는 is, 3번 Tom에는 isn't, 4번 We에는 are not을 써서 맞고, not도 be동사 뒤에 있어요. 둘째, 의문문인 2번은 be동사 Are 뒤에 여럿인 주어 the kids가 와서 맞아요. 셋째, 5번은 주어 My brother가 한 사람, 곧 3인칭 단수인데 are를 썼으니 is로 고쳐야 해요. My brother is taking a shower. 내 남동생은 샤워를 하고 있어요. 따라서 틀린 문장은 5번이에요.",
+   "caption": "주어와 be동사 → 의문문 → ⑤"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① Jane is reading a comic book.  ✗  한 사람 Jane → is → 맞는 문장\n② Are the kids swimming in the river?  ✗  여럿인 the kids → Are, 의문문이라 be동사가 주어 앞 → 맞는 문장\n③ Tom isn't watching TV now.  ✗  한 사람 Tom → isn't(is not) → 맞는 문장\n④ We are not playing games.  ✗  We → are, not은 be동사 뒤 → 맞는 문장\n⑤ My brother are taking a shower.  ✓  3인칭 단수 My brother → are를 is로 (틀린 문장)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① Jane is reading a comic book.  ✗  한 사람 Jane → is → 맞는 문장",
+     "② Are the kids swimming in the river?  ✗  여럿인 the kids → Are, 의문문이라 be동사가 주어 앞 → 맞는 문장",
+     "③ Tom isn't watching TV now.  ✗  한 사람 Tom → isn't(is not) → 맞는 문장",
+     "④ We are not playing games.  ✗  We → are, not은 be동사 뒤 → 맞는 문장",
+     "⑤ My brother are taking a shower.  ✓  3인칭 단수 My brother → are를 is로 (틀린 문장)"
+    ]
+   },
+   "narration": "정답은 5번이에요. 앞에 My가 붙어 있어도 주어는 brother 한 사람이라서, are가 아니라 is를 써야 해요. 2번은 아이가 여럿인 the kids라서 Are가 맞고, 의문문이라 주어 앞에 왔어요. 4번은 We에 are를 쓰고 not을 be동사 뒤에 두어 맞아요.",
+   "caption": "정답 ⑤ are → is"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ⑤ My brother are taking a shower.\n\n진행형의 be동사는 주어에 맞춰 · 3인칭 단수 주어 → is",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ My brother are taking a shower.",
+     "진행형의 be동사는 주어에 맞춰 · 3인칭 단수 주어 → is"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, My brother처럼 한 사람인 3인칭 단수 주어에는 be동사 is를 써요.",
+   "caption": "3인칭 단수 주어 → is"
+  }
+ ],
+ "source": {
+  "stem": "틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Jane is reading a comic book.",
+   "Are the kids swimming in the river?",
+   "Tom isn't watching TV now.",
+   "We are not playing games.",
+   "My brother are taking a shower."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 현재진행형은 am/is/are + 동사원형-ing로 쓰고, 부정문은 be동사 뒤에 not을, 의문문은 be동사를 주어 앞에 둔다. be동사는 주어에 맞춰 am/is/are를 쓴다.\n풀이 순서: ① 문장마다 주어를 찾아 be동사(am/is/are)가 맞는지 본다. 의문문의 주어는 be동사 뒤에 있다. → ② not의 자리, -ing형, be동사 대신 do/does를 쓰지 않았는지도 본다. → ③ 선택지 ⑤의 주어 My brother는 단수인데 are를 썼다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 My brother에는 is를 써야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 주어에 맞는 be동사와 -ing형으로 진행형을 바르게 만들었으므로 오답이다.\n② [오답] 주어에 맞는 be동사와 -ing형으로 진행형을 바르게 만들었으므로 오답이다.\n③ [오답] 주어에 맞는 be동사와 -ing형으로 진행형을 바르게 만들었으므로 오답이다.\n④ [오답] 주어에 맞는 be동사와 -ing형으로 진행형을 바르게 만들었으므로 오답이다.\n⑤ [정답] 3인칭 단수 주어 My brother에는 is를 써야 하므로 정답이다."
+ }
+}

@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T03:29:17.820Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "What does she will buy at the mall tomorrow?",
+      "1": "What will be she buy at the mall tomorrow?",
+      "2": "Will what she buy at the mall tomorrow?",
+      "3": "What will she buy at the mall tomorrow?",
+      "4": "What she will buy at the mall tomorrow?"
+    },
+    "expl": "핵심 규칙: will이 있는 의문사 의문문은 의문사 + will + 주어 + 동사원형 순서로 만든다. do나 be를 따로 덧붙이지 않고, will 뒤에는 동사원형을 쓴다.\n풀이 순서: ① 조동사 will이 있는 의문문의 어순은 ‘의문사 + will + 주어 + 동사원형’이다. → ② 주어진 문장은 주어(she)가 will 앞에 있다. will을 주어 앞으로 옮긴다. → ③ do/does를 덧붙이거나 will be를 쓰거나 어순이 그대로인 것은 틀린다. 정답은 ④.\n문장별 판정:\n정답 판단: 의문사 + will + 주어 + 동사원형 어순으로 바르게 고쳤으므로 정답은 ④이다.\n선택지 분석:\n① [오답] will이 있는 의문문에 do를 덧붙일 수 없으므로 오답이다.\n② [오답] will 뒤에 be를 덧붙여 틀렸으므로 오답이다.\n③ [오답] will이 의문사 앞에 와서 어순이 틀렸으므로 오답이다.\n④ [정답] 의문사 + will + 주어 + 동사원형 어순으로 바르게 고쳤으므로 정답이다.\n⑤ [오답] 틀린 어순(의문사 + 주어 + will)을 그대로 두었으므로 오답이다.",
+    "passage": "What she will buy at the mall tomorrow?",
+    "stem": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고친 문장을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:03:15.577Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:03:18.829Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:29:17.820Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:28:54.031Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:29:17.820Z",
+      "what": "확인 완료"
+    }
+  }
+}

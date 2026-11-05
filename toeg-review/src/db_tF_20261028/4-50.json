@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-28T02:58:14.204Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "(A), (B), (C)",
+      "1": "(B), (C), (D)",
+      "2": "(A), (D), (E)",
+      "3": "(B), (D), (E)",
+      "4": "(C), (D), (E)"
+    },
+    "expl": "핵심 규칙: will + 동사원형(부정 won't), be going to + 동사원형(부정 be not going to, 의문 Be동사 + 주어 + going to)으로 쓴다. be동사를 빼거나 -ing·-s형을 쓰면 틀린다.\n풀이 순서: ① be going to 문장은 be동사가 있는지, not이 be동사 바로 뒤에 있는지, to 뒤가 동사원형인지 본다. will 문장은 will + 동사원형인지 본다. → ② (D) wills(will)만 틀렸다. → ③ 옳은 문장만 묶은 (A), (B), (C)가 정답이다.\n문장별 판정:\n(A) O. be going to + 동사원형이다.\n(B) O. Will + 주어 + 동사원형 의문문이다.\n(C) O. be going to 부정문이다.\n(D) X. will에는 -s를 붙이지 않는다.\n(E) X. going to 뒤에는 동사원형 eat을 쓴다.\n정답 판단: 어법상 옳은 문장은 (A), (B), (C)이다.\n선택지 분석:\n① [정답] 옳은 문장 (A), (B), (C)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (D), (E)는 옳은 문장이 아니고, 옳은 문장 (B), (C)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (D), (E)는 옳은 문장이 아니고, 옳은 문장 (A), (C)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (D), (E)는 옳은 문장이 아니고, 옳은 문장 (A), (B)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "<보기>\n(A) Jane is going to read a book tonight.\n(B) Will he go to the concert with us?\n(C) They are not going to leave early.\n(D) Tom wills study for the test.\n(E) Are we going to eating out tonight?",
+    "stem": "다음 <보기>의 문장 중 어법상 옳은 것만 묶은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-28T02:58:04.902Z"
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T02:58:14.204Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T02:58:14.204Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+ "key": "7-4",
+ "type": "C",
+ "grade": 7,
+ "chapter": "CH 1 명사",
+ "title": "끝 글자에 따른 명사의 복수형",
+ "total_sec": 126,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "7급 · CH 1 명사 · 4번 · C 유형\n\n이 문제는 명사의 끝 글자를 보고 복수형이 잘못 만들어진 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 1 명사 · 4번 · C 유형",
+     "이 문제는 명사의 끝 글자를 보고 복수형이 잘못 만들어진 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 1, 4번 C 유형. 이 문제는 명사의 끝 글자를 보고 복수형이 잘못 만들어진 것을 고르는 문제예요.",
+   "caption": "명사의 복수형 만들기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 명사의 복수형이 잘못된 것을 고르시오.\n\n① city - cities\n② lady - ladies\n③ chair - chairs\n④ dog - dogs\n⑤ baby - babys",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 명사의 복수형이 잘못된 것을 고르시오.",
+     "① city - cities",
+     "② lady - ladies",
+     "③ chair - chairs",
+     "④ dog - dogs",
+     "⑤ baby - babys"
+    ]
+   },
+   "narration": "다음 중 명사의 복수형이 잘못된 것을 고르세요. 보기마다 명사와 그 복수형이 짝지어 있어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n복수형: 사람, 동물, 물건이 둘 이상일 때 쓰는 명사의 모양\n대부분의 명사 + s (cat → cats)\ns, sh, ch, x로 끝나면 보통 + es (lunch → lunches, wish → wishes)\n자음 + y로 끝나면 y를 i로 바꾸고 + es (cherry → cherries)\n예) She reads many stories. (그녀는 이야기를 많이 읽어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "복수형: 사람, 동물, 물건이 둘 이상일 때 쓰는 명사의 모양",
+     "대부분의 명사 + s (cat → cats)",
+     "s, sh, ch, x로 끝나면 보통 + es (lunch → lunches, wish → wishes)",
+     "자음 + y로 끝나면 y를 i로 바꾸고 + es (cherry → cherries)",
+     "예) She reads many stories. (그녀는 이야기를 많이 읽어요.)"
+    ]
+   },
+   "narration": "복수형은 사람이나 동물, 물건이 둘 이상일 때 쓰는 명사의 모양이에요. 대부분의 명사는 끝에 s를 붙여서 cat은 cats가 돼요. s, sh, ch, x로 끝나는 명사는 보통 es를 붙여서 lunch는 lunches, wish는 wishes가 돼요. y 바로 앞이 a, e, i, o, u가 아닌 자음이면 y를 i로 바꾸고 es를 붙여서 cherry는 cherries가 돼요. She reads many stories. 그녀는 이야기를 많이 읽어요.",
+   "caption": "끝 글자에 따라 s, es, ies"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 중 명사의 복수형이 잘못된 것을 고르시오.\n\n① city - cities\n② lady - ladies\n③ chair - chairs\n④ dog - dogs\n⑤ baby - babys",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [],
+      "strike": [
+       "③ chair - chairs",
+       "④ dog - dogs"
+      ],
+      "note": "chair, dog은 대부분의 명사처럼 + s만 → chairs, dogs는 바르다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① city - cities",
+       "② lady - ladies"
+      ],
+      "note": "city(t + y), lady(d + y) → y를 i로 바꾸고 + es: cities, ladies는 바르다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ baby - babys"
+      ],
+      "strike": [],
+      "note": "baby(b + y) → babies가 맞는데 babys로 썼다 → 잘못된 것."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, chair와 dog 둘 다 대부분의 명사처럼 끝에 s만 붙이면 되니까 chairs와 dogs가 맞아요. 둘째, city와 lady는 y 바로 앞이 자음인 t와 d예요. 그래서 y를 i로 바꾸고 es를 붙인 cities와 ladies가 맞아요. 셋째, baby도 y 앞이 자음 b라서 babies라고 써야 하는데, 5번은 s만 붙인 babys라서 잘못됐어요.",
+   "caption": "baby는 자음 + y → babies"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① city - cities  ✗  자음 t + y → y를 i로 바꾸고 + es, 바른 복수형\n② lady - ladies  ✗  자음 d + y → y를 i로 바꾸고 + es, 바른 복수형\n③ chair - chairs  ✗  chair 끝에 + s만 붙인 바른 복수형\n④ dog - dogs  ✗  dog 끝에 + s만 붙인 바른 복수형\n⑤ baby - babys  ✓  자음 b + y이므로 babies로 써야 해요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① city - cities  ✗  자음 t + y → y를 i로 바꾸고 + es, 바른 복수형",
+     "② lady - ladies  ✗  자음 d + y → y를 i로 바꾸고 + es, 바른 복수형",
+     "③ chair - chairs  ✗  chair 끝에 + s만 붙인 바른 복수형",
+     "④ dog - dogs  ✗  dog 끝에 + s만 붙인 바른 복수형",
+     "⑤ baby - babys  ✓  자음 b + y이므로 babies로 써야 해요"
+    ]
+   },
+   "narration": "정답은 5번이에요. baby는 y 앞이 자음 b라서 babies가 맞는데, s만 붙인 babys로 잘못 썼어요. 1번 cities와 2번 ladies는 모양이 많이 바뀌어 낯설어 보여도, 자음 다음의 y를 i로 바꾸고 es를 붙인 바른 복수형이에요. 4번 dogs는 끝에 s만 붙이면 되는 명사라 맞아요.",
+   "caption": "정답 ⑤ baby - babys"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ⑤ baby - babys\n\n자음 + y로 끝나는 명사 → y를 i로 바꾸고 + es (baby → babies)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ baby - babys",
+     "자음 + y로 끝나는 명사 → y를 i로 바꾸고 + es (baby → babies)"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, y 바로 앞이 자음이면 y를 i로 바꾸고 es를 붙여 복수형을 만들어요.",
+   "caption": "자음 + y → y를 i로 + es"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 명사의 복수형이 잘못된 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "city - cities",
+   "lady - ladies",
+   "chair - chairs",
+   "dog - dogs",
+   "baby - babys"
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 복수형은 대부분 -s를 붙이고, s·sh·ch·x로 끝나면 -es(buses, foxes), 자음 + y는 y를 i로 바꾸고 -es(ladies, babies)를 붙인다.\n풀이 순서: ① 명사의 끝 글자를 본다: s, sh, ch, x인지, 자음 + y인지. → ② 그 끝에 맞게 -es나 -ies가 붙었는지 본다. → ③ baby는 자음 + y이므로 babies다. 정답은 baby - babys.\n문장별 판정:\n정답 판단: baby는 자음 + y라 y를 i로 바꾸고 -es를 붙여 babies로 써야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] cities: 자음 + y라 y를 i로 바꾸고 -es를 붙여 바르게 썼으므로 오답이다.\n② [오답] ladies: 자음 + y라 y를 i로 바꾸고 -es를 붙여 바르게 썼으므로 오답이다.\n③ [오답] chairs: -s를 붙여 바르게 썼으므로 오답이다.\n④ [오답] dogs: -s를 붙여 바르게 썼으므로 오답이다.\n⑤ [정답] baby는 자음 + y라 y를 i로 바꾸고 -es를 붙여 babies로 써야 하므로 정답이다."
+ }
+}

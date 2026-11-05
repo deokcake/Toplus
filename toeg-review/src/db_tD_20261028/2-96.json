@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T16:50:59.847Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "The cookies that is in the jar are ours.",
+      "1": "The cookies that are in the jar are ours.",
+      "2": "The cookies that are in the jar is ours.",
+      "3": "The cookies that are in the jar are our.",
+      "4": "The cookies that is in the jar is our."
+    },
+    "expl": "핵심 규칙: 주격 관계대명사 뒤 동사는 선행사에, 주절의 동사는 문장의 주어에 수를 맞춘다. be동사 뒤 ‘~의 것’은 소유대명사(mine, ours, hers)로 쓰고, 명사 앞에는 소유격(my, our, her)을 쓴다.\n풀이 순서: ① 관계절의 동사는 선행사(The cookies, 복수)에 수를 맞춘다. → ② 문장 전체의 동사도 같은 주어에 수를 맞춘다. → ③ 문장 끝의 소유 표현을 확인한다. be동사 뒤에는 our가 아니라 ours를 쓴다. 세 군데가 모두 맞는 것은 ②이다.\n문장별 판정:\n정답 판단: 관계절 동사(are)와 주절 동사(are)가 복수 선행사·주어에 맞고, 소유대명사(ours)도 바르므로 정답은 ②이다.\n선택지 분석:\n① [오답] 관계절 동사는 복수 선행사(The cookies)에 맞춰 are로 써야 하므로 오답이다.\n② [정답] 관계절 동사(are)와 주절 동사(are)가 복수 선행사·주어에 맞고, 소유대명사(ours)도 바르므로 정답이다.\n③ [오답] 주절 동사는 복수 주어(The cookies)에 맞춰 are로 써야 하므로 오답이다.\n④ [오답] be동사 뒤에는 소유격(our)이 아니라 소유대명사(ours)를 써야 하므로 오답이다.\n⑤ [오답] 두 동사가 모두 단수이고, be동사 뒤에는 소유대명사(ours)를 써야 하므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T16:50:48.033Z"
+  },
+  "tab": "8s1sfi09",
+  "updatedAt": "2026-10-23T16:50:59.847Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:50:59.847Z",
+      "what": "확인 완료"
+    }
+  }
+}

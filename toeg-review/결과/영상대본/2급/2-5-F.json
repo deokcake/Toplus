@@ -1,0 +1,185 @@
+{
+ "key": "2-5",
+ "type": "F",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "title": "문장의 형식, 바르게 설명한 학생 고르기",
+ "total_sec": 133,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "2급 · CH 1 문장의 형식 · 5번 · F 유형\n\n이 문제는 문장의 형식을 올바르게 설명한 학생을 모두 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 1 문장의 형식 · 5번 · F 유형",
+     "이 문제는 문장의 형식을 올바르게 설명한 학생을 모두 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 1, 5번 F 유형. 이 문제는 문장의 형식을 올바르게 설명한 학생을 모두 고르는 문제예요.",
+   "caption": "문장의 형식 설명 판단"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 18,
+   "screen": {
+    "text": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오.\n\nMina: She taught us English at the summer camp. 'teach'가 간접목적어 'us'와 직접목적어 'English'를 취한 4형식 문장이에요.\nLeo: The funny joke made me laugh. 사역동사 'make' 뒤 목적격 보어로 원형부정사 'laugh'를 쓴 옳은 문장이에요.\nJane: I bought flowers to my teacher on her birthday. 'buy'를 3형식으로 바꿀 때는 받는 사람 앞에 'to'를 쓰므로 옳은 문장이에요.\nTom: We found the window broken this morning. 창문이 깨진 수동의 관계이므로 목적격 보어로 과거분사 'broken'을 쓴 것이 맞아요.\nAmy: The room looks quietly at night. 감각동사 'look' 뒤에는 부사 'quietly'를 써야 하므로 옳은 문장이에요.\n\n① Mina, Leo, Amy\n② Mina, Leo, Tom\n③ Jane, Tom, Amy\n④ Leo, Tom\n⑤ Mina, Jane",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+     "Mina: She taught us English at the summer camp. 'teach'가 간접목적어 'us'와 직접목적어 'English'를 취한 4형식 문장이에요.",
+     "Leo: The funny joke made me laugh. 사역동사 'make' 뒤 목적격 보어로 원형부정사 'laugh'를 쓴 옳은 문장이에요.",
+     "Jane: I bought flowers to my teacher on her birthday. 'buy'를 3형식으로 바꿀 때는 받는 사람 앞에 'to'를 쓰므로 옳은 문장이에요.",
+     "Tom: We found the window broken this morning. 창문이 깨진 수동의 관계이므로 목적격 보어로 과거분사 'broken'을 쓴 것이 맞아요.",
+     "Amy: The room looks quietly at night. 감각동사 'look' 뒤에는 부사 'quietly'를 써야 하므로 옳은 문장이에요.",
+     "① Mina, Leo, Amy",
+     "② Mina, Leo, Tom",
+     "③ Jane, Tom, Amy",
+     "④ Leo, Tom",
+     "⑤ Mina, Jane"
+    ]
+   },
+   "narration": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\n4형식(동사 + ~에게 + ~을) → 3형식: give, send, tell, show, teach는 to, buy, make는 for\n사역동사 make, have + 목적어 + 동사원형 (목적어가 하는 일)\n목적어와 목적격 보어가 수동 관계 → 과거분사 (목적어가 당하는 일)\n감각동사(look, smell, taste) 뒤 보어 → 형용사 (부사 ✗)\n예) I had my bike fixed. (나는 자전거를 수리 맡겼어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "4형식(동사 + ~에게 + ~을) → 3형식: give, send, tell, show, teach는 to, buy, make는 for",
+     "사역동사 make, have + 목적어 + 동사원형 (목적어가 하는 일)",
+     "목적어와 목적격 보어가 수동 관계 → 과거분사 (목적어가 당하는 일)",
+     "감각동사(look, smell, taste) 뒤 보어 → 형용사 (부사 ✗)",
+     "예) I had my bike fixed. (나는 자전거를 수리 맡겼어요.)"
+    ]
+   },
+   "narration": "4형식을 3형식으로 바꾸면 받는 사람 앞에 give와 send는 to를, buy와 make는 for를 써요. 사역동사 make와 have 뒤에는 목적어가 하는 일을 동사원형으로 쓰고, 목적어가 당하는 수동 관계면 과거분사로 써요. 감각동사 뒤 보어로는 부사가 아닌 형용사를 써요. 예를 들어 I had my bike fixed. 나는 자전거를 수리 맡겼어요.",
+   "caption": "to·for, 목적격 보어, 감각동사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 43,
+   "screen": {
+    "text": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오.\n\nMina: She taught us English at the summer camp. 'teach'가 간접목적어 'us'와 직접목적어 'English'를 취한 4형식 문장이에요.\nLeo: The funny joke made me laugh. 사역동사 'make' 뒤 목적격 보어로 원형부정사 'laugh'를 쓴 옳은 문장이에요.\nJane: I bought flowers to my teacher on her birthday. 'buy'를 3형식으로 바꿀 때는 받는 사람 앞에 'to'를 쓰므로 옳은 문장이에요.\nTom: We found the window broken this morning. 창문이 깨진 수동의 관계이므로 목적격 보어로 과거분사 'broken'을 쓴 것이 맞아요.\nAmy: The room looks quietly at night. 감각동사 'look' 뒤에는 부사 'quietly'를 써야 하므로 옳은 문장이에요.\n\n① Mina, Leo, Amy\n② Mina, Leo, Tom\n③ Jane, Tom, Amy\n④ Leo, Tom\n⑤ Mina, Jane",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "올바르게 설명한 학생들",
+       "I bought flowers to my teacher on her birthday."
+      ],
+      "strike": [
+       "받는 사람 앞에 'to'를 쓰므로 옳은 문장이에요."
+      ],
+      "note": "학생마다 예문 O·X와 설명 O·X를 따로 본다. Jane: buy는 받는 사람 앞에 for → bought flowers for my teacher, to가 맞다는 설명 X"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "The room looks quietly at night."
+      ],
+      "strike": [
+       "감각동사 'look' 뒤에는 부사 'quietly'를 써야 하므로 옳은 문장이에요."
+      ],
+      "note": "Amy: 감각동사 looks 뒤 보어는 형용사 quiet → 부사 quietly라는 설명 X"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "She taught us English at the summer camp.",
+       "The funny joke made me laugh.",
+       "We found the window broken this morning.",
+       "② Mina, Leo, Tom"
+      ],
+      "strike": [],
+      "note": "Mina(4형식) O, Leo(made + me + laugh) O, Tom(창문이 깨짐 → broken) O → Mina, Leo, Tom"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 학생마다 예문과 설명이 둘 다 맞는지 따져요. Jane은 buy에 to를 쓴다고 했지만, buy는 받는 사람 앞에 for를 써서 bought flowers for my teacher가 맞으니 틀렸어요. 둘째, Amy는 looks 뒤에 부사 quietly를 써야 한다고 했지만, 감각동사 뒤 보어 자리에는 형용사를 써야 하니 틀렸어요. 셋째, 4형식을 바르게 설명한 Mina, made 뒤에 동사원형 laugh를 쓴 Leo, 창문이 깨진 수동 관계를 broken으로 나타낸 Tom은 모두 맞아요. 그래서 올바르게 설명한 학생은 Mina, Leo, Tom이에요.",
+   "caption": "Jane·Amy 설명 틀림 → ②"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 22,
+   "screen": {
+    "text": "① Mina, Leo, Amy  ✗  Amy의 설명이 틀림(looks 뒤 보어는 형용사 quiet), Tom이 빠짐\n② Mina, Leo, Tom  ✓  바르게 설명한 세 학생을 모두 고름\n③ Jane, Tom, Amy  ✗  Jane과 Amy의 설명이 틀림, Mina와 Leo가 빠짐\n④ Leo, Tom  ✗  바르게 설명한 Mina가 빠짐\n⑤ Mina, Jane  ✗  Jane의 설명이 틀림(buy는 for), Leo와 Tom이 빠짐",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Mina, Leo, Amy  ✗  Amy의 설명이 틀림(looks 뒤 보어는 형용사 quiet), Tom이 빠짐",
+     "② Mina, Leo, Tom  ✓  바르게 설명한 세 학생을 모두 고름",
+     "③ Jane, Tom, Amy  ✗  Jane과 Amy의 설명이 틀림, Mina와 Leo가 빠짐",
+     "④ Leo, Tom  ✗  바르게 설명한 Mina가 빠짐",
+     "⑤ Mina, Jane  ✗  Jane의 설명이 틀림(buy는 for), Leo와 Tom이 빠짐"
+    ]
+   },
+   "narration": "정답은 2번 Mina, Leo, Tom이에요. looks 뒤에 부사를 쓴다는 Amy의 말을 믿으면 1번이나 3번을 고르게 돼요. buy에 to를 쓴다는 Jane의 말을 믿으면 5번이나 3번을 고르게 돼요. 4번은 바르게 설명한 Mina를 빠뜨렸어요.",
+   "caption": "정답 ② Mina, Leo, Tom"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ② Mina, Leo, Tom\n\nbuy·make는 for, give·teach는 to / 감각동사 + 형용사 보어",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② Mina, Leo, Tom",
+     "buy·make는 for, give·teach는 to / 감각동사 + 형용사 보어"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, buy는 3형식에서 for를 쓰고, 감각동사 뒤 보어에는 형용사를 써요.",
+   "caption": "예문과 설명을 따로 확인"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+  "passage": "Mina: She taught us English at the summer camp. 'teach'가 간접목적어 'us'와 직접목적어 'English'를 취한 4형식 문장이에요.\nLeo: The funny joke made me laugh. 사역동사 'make' 뒤 목적격 보어로 원형부정사 'laugh'를 쓴 옳은 문장이에요.\nJane: I bought flowers to my teacher on her birthday. 'buy'를 3형식으로 바꿀 때는 받는 사람 앞에 'to'를 쓰므로 옳은 문장이에요.\nTom: We found the window broken this morning. 창문이 깨진 수동의 관계이므로 목적격 보어로 과거분사 'broken'을 쓴 것이 맞아요.\nAmy: The room looks quietly at night. 감각동사 'look' 뒤에는 부사 'quietly'를 써야 하므로 옳은 문장이에요.",
+  "c": [
+   "Mina, Leo, Amy",
+   "Mina, Leo, Tom",
+   "Jane, Tom, Amy",
+   "Leo, Tom",
+   "Mina, Jane"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: give·send·tell·show·teach는 3형식에서 to를, buy·make는 for를 쓴다. 사역동사 make·have + 목적어 + 동사원형이고, 목적어와 목적격 보어가 수동 관계이면 과거분사를 쓴다. 감각동사 뒤 보어는 형용사다.\n풀이 순서: ① 학생마다 ‘예문이 맞는 문장인가’와 ‘설명이 맞는가’를 따로 따진다. → ② Jane은 buy에 to가 맞다고 했고(for가 맞다), Amy는 looks 뒤의 부사 quietly가 맞다고 했다. 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Mina, Leo, Tom이다.\n문장별 판정:\nMina O(teach의 4형식).\nLeo O(사역동사 made 뒤 원형부정사 laugh).\nJane X(buy는 for를 쓴다. bought flowers for my teacher on her birthday).\nTom O(창문이 깨진 수동 관계라 broken).\nAmy X(looks 뒤에는 형용사 quiet).\n정답 판단: 올바르게 설명한 학생은 Mina, Leo, Tom이다.\n선택지 분석:\n① [오답] Amy는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Tom를 빠뜨렸다. 따라서 오답이다.\n② [정답] 올바르게 설명한 학생 Mina, Leo, Tom를 빠짐없이 골랐으므로 정답이다.\n③ [오답] Jane, Amy는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina, Leo를 빠뜨렸다. 따라서 오답이다.\n④ [오답] 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Leo, Tom를 빠뜨렸다. 따라서 오답이다."
+ }
+}

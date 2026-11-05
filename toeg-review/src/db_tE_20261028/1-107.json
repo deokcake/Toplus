@@ -1,0 +1,33 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T19:52:33.455Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Mina wrote down it so that she would not forget.",
+      "1": "Mina wrote it down that so she would not forget.",
+      "2": "Mina so wrote it down that she would not forget.",
+      "3": "Mina wrote it down so that would she not forget.",
+      "4": "Mina wrote it down so that she would not forget."
+    },
+    "expl": "핵심 규칙: so that + 주어 + 조동사 + 동사원형은 ‘~하기 위해서, ~하도록’이라는 목적을 나타낸다. so that은 붙여 쓰고 주절 뒤에 둔다.\n풀이 순서: ① 낱말에 so와 that이 함께 있고 would/could가 있으므로 목적을 나타내는 so that 구문이다. → ② 주절(Mina wrote it down)을 먼저 완성하고 바로 뒤에 so that을 붙인다. → ③ so that 뒤에 ‘주어 + 조동사 + 동사원형’(she would not forget)을 이으면 Mina wrote it down so that she would not forget.\n문장별 판정:\n정답 판단: 주절 + so that + 주어 + 조동사 + 동사원형 어순이 바르다. 정답은 ⑤이다.\n선택지 분석:\n① [오답] 대명사 it은 wrote와 down 사이에 두어야 한다. 오답이다.\n② [오답] so와 that이 떨어져 so that 구문이 깨졌다. 오답이다.\n③ [오답] so와 that이 떨어져 so that 구문이 깨졌다. 오답이다.\n④ [오답] so that 절 안의 주어와 조동사 순서가 틀렸다. 오답이다.\n⑤ [정답] 주절 + so that + 주어 + 조동사 + 동사원형 어순이 바르다. 정답이다.",
+    "passage": "(that / forget / Mina / down / so / not / it / would / wrote / she / .)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것으로 가장 알맞은 것은 무엇인가?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:52:18.905Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:52:33.455Z",
+  "verdict": null,
+  "verdictAt": "2026-10-23T19:52:31.231Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:52:33.455Z",
+      "what": "확인 완료"
+    }
+  }
+}

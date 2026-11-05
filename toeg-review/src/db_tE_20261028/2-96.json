@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-24T01:16:27.590Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "The man who have two dogs lives near my house.",
+      "1": "The man who has two dogs live near my house.",
+      "2": "The man who have two dogs live near my house.",
+      "3": "The man who has two dogs lives near my house.",
+      "4": "The man who has two dogs lives near mine house."
+    },
+    "expl": "핵심 규칙: 주격 관계대명사 뒤 동사는 선행사에, 주절의 동사는 문장의 주어에 수를 맞춘다. be동사 뒤 ‘~의 것’은 소유대명사(mine, ours, hers)로 쓰고, 명사 앞에는 소유격(my, our, her)을 쓴다.\n풀이 순서: ① 관계절의 동사는 선행사(The man, 단수)에 수를 맞춘다. → ② 문장 전체의 동사도 같은 주어에 수를 맞춘다. → ③ 문장 끝의 소유 표현을 확인한다. 명사 house 앞에는 mine이 아니라 my를 쓴다. 세 군데가 모두 맞는 것은 ④이다.\n문장별 판정:\n정답 판단: 관계절 동사(has)와 주절 동사(lives)가 단수 선행사·주어에 맞고, 명사 앞 소유격(my)도 바르므로 정답은 ④이다.\n선택지 분석:\n① [오답] 관계절 동사는 단수 선행사(The man)에 맞춰 has로 써야 하므로 오답이다.\n② [오답] 주절 동사는 단수 주어(The man)에 맞춰 lives로 써야 하므로 오답이다.\n③ [오답] 두 동사가 모두 단수 주어(The man)와 맞지 않으므로 오답이다.\n④ [정답] 관계절 동사(has)와 주절 동사(lives)가 단수 선행사·주어에 맞고, 명사 앞 소유격(my)도 바르므로 정답이다.\n⑤ [오답] 명사(house) 앞에는 소유대명사가 아니라 소유격(my)을 써야 하므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T01:16:09.690Z"
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-24T01:16:27.590Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:16:27.590Z",
+      "what": "확인 완료"
+    }
+  }
+}

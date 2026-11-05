@@ -1,0 +1,477 @@
+{
+ "A": {
+  "title": "do·did 문장의 동사원형과 was·were",
+  "intro": "이 문제는 다섯 문장의 동사 형태를 따져 어법상 틀린 문장끼리 짝지은 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 틀린 문장으로만 짝지어진 것을 고르세요. 다섯 문장을 하나씩 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Do, Does, Did로 묻는 문장, don't, doesn't, didn't 부정문 → 일반동사는 동사원형",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "일반동사 과거형: 대부분 + ed (play → played) · 불규칙 동사 (go → went)",
+    "예) My friends were busy, so they didn't come. (내 친구들은 바빠서 오지 않았어요.)"
+   ],
+   "narration": "Do, Does, Did로 묻거나 부정하는 문장에서는 일반동사를 동사원형으로 써요. 지난 일을 말할 때 be동사는 주어가 I나 3인칭 단수이면 was, you나 복수이면 were를 써요. 일반동사 과거형은 대부분 ed를 붙이고, go와 went 같은 불규칙 동사는 모양이 따로 있어요. My friends were busy, so they didn't come. 내 친구들은 바빠서 오지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "묻거나 부정하는 문장: (다) Does, (마) Did 뒤 read ✓ / (나) didn't readed ✗ → read",
+    "highlight": [
+     "didn't readed",
+     "Does she read",
+     "Did you read"
+    ],
+    "strike": [],
+    "narration": "첫째, Does로 묻는 다 문장과 Did로 묻는 마 문장은 동사원형 read를 써서 맞지만, 나 문장은 didn't 뒤에 readed를 써서 틀렸고 read를 써야 해요."
+   },
+   {
+    "note": "(라) They = 복수인데 was ✗ (책을 읽었다 → They read a book yesterday.)",
+    "highlight": [
+     "They was read"
+    ],
+    "strike": [],
+    "narration": "둘째, 라 문장은 복수 주어 They에 was를 써서 틀렸어요. 책을 읽은 일을 말하려면 be동사 없이 They read a book yesterday라고 써요. 그들은 어제 책을 읽었어요."
+   },
+   {
+    "note": "(가) read의 과거형은 read ✓ → 틀린 문장 (나), (라) = ②",
+    "highlight": [
+     "He read a book",
+     "② (나), (라)"
+    ],
+    "strike": [
+     "① (가), (나)",
+     "③ (다), (라)",
+     "④ (라), (마)",
+     "⑤ (가), (다)"
+    ],
+    "narration": "셋째, 가 문장은 어젯밤의 일이고 read는 과거형도 read라서 맞으니, 틀린 문장끼리 짝지은 것은 2번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (가), (나)  ✗  (가) He read는 과거형 read로 맞는 문장",
+    "② (나), (라)  ✓  didn't readed, They was 둘 다 틀린 문장",
+    "③ (다), (라)  ✗  (다) Does로 묻는 문장에 동사원형 read, 맞는 문장",
+    "④ (라), (마)  ✗  (마) Did로 묻는 문장에 동사원형 read, 맞는 문장",
+    "⑤ (가), (다)  ✗  (가) He read, (다) Does … read 모두 맞는 문장"
+   ],
+   "narration": "정답은 2번이에요. 1번과 5번에 든 가 문장은 주어가 He라서 reads를 떠올리기 쉬워요. 하지만 지난 일을 말하니 과거형 read를 쓴 맞는 문장이에요. 3번의 다 문장도 Does로 묻는 문장에 동사원형 read를 써서 맞아요."
+  },
+  "summary": {
+   "card": "Do, Does, Did로 묻거나 부정 → 동사원형 · be동사 과거형은 주어에 맞춰 was, were",
+   "narration": "정답은 2번이에요. 기억할 것, do, does, did로 묻거나 부정하면 동사원형, be동사 과거형은 주어에 맞춰 was와 were예요."
+  },
+  "captions": [
+   "틀린 문장끼리 짝짓기",
+   "먼저 풀어 보세요",
+   "동사원형 · was와 were · 과거형",
+   "readed, They was → ②",
+   "정답 ② (나), (라)",
+   "did 뒤 동사원형, was·were"
+  ],
+  "sec": [
+   11,
+   16,
+   29,
+   36,
+   24,
+   11
+  ]
+ },
+ "B": {
+  "title": "do·did 문장의 동사원형과 was·were",
+  "intro": "이 문제는 다섯 문장의 동사 형태를 따져 어법상 틀린 문장끼리 짝지은 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 틀린 문장으로만 짝지어진 것을 고르세요. 다섯 문장을 하나씩 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Do, Does, Did로 묻는 문장, don't, doesn't, didn't 부정문 → 일반동사는 동사원형",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "일반동사 과거형: 대부분 + ed (play → played) · 불규칙 동사 (go → went)",
+    "예) My friends were busy, so they didn't come. (내 친구들은 바빠서 오지 않았어요.)"
+   ],
+   "narration": "Do, Does, Did로 묻거나 부정하는 문장에서는 일반동사를 동사원형으로 써요. 지난 일을 말할 때 be동사는 주어가 I나 3인칭 단수이면 was, you나 복수이면 were를 써요. 일반동사 과거형은 대부분 ed를 붙이고, go와 went 같은 불규칙 동사는 모양이 따로 있어요. My friends were busy, so they didn't come. 내 친구들은 바빠서 오지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "(가) Did 뒤 bring ✓ / (나) did not ate ✗ → eat",
+    "highlight": [
+     "Did Mina bring",
+     "did not ate"
+    ],
+    "strike": [],
+    "narration": "첫째, Did와 did not이 있는 문장을 봐요. 가 문장은 동사원형 bring을 써서 맞지만, 나 문장은 did not 뒤에 과거형 ate를 써서 틀렸고 동사원형 eat을 써야 해요."
+   },
+   {
+    "note": "(다) The boys = 복수 → was ✗ → were",
+    "highlight": [
+     "The boys was late"
+    ],
+    "strike": [],
+    "narration": "둘째, 다 문장의 주어 The boys는 복수라서 was가 아니라 were를 써야 해요."
+   },
+   {
+    "note": "(라) wrote, (마) visited ✓ → 틀린 문장 (나), (다) = ④",
+    "highlight": [
+     "Jane wrote",
+     "We visited",
+     "④ (나), (다)"
+    ],
+    "strike": [
+     "① (가), (다)",
+     "② (다), (라)",
+     "③ (가), (나)",
+     "⑤ (나), (라)"
+    ],
+    "narration": "셋째, 라 문장의 wrote는 write의 불규칙 과거형이고, 마 문장의 visited는 visit의 과거형이라 둘 다 맞아요. 따라서 틀린 문장끼리 짝지은 것은 4번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (가), (다)  ✗  (가) Did로 묻는 문장에 동사원형 bring, 맞는 문장",
+    "② (다), (라)  ✗  (라) write의 과거형 wrote로 맞는 문장",
+    "③ (가), (나)  ✗  (가)는 맞는 문장, 틀린 (다) The boys was를 빠뜨림",
+    "④ (나), (다)  ✓  did not ate, The boys was 둘 다 틀린 문장",
+    "⑤ (나), (라)  ✗  (라)는 맞는 문장, 틀린 (다) The boys was를 빠뜨림"
+   ],
+   "narration": "정답은 4번이에요. 가 문장은 지난 일을 묻는 문장이라 brought를 써야 한다고 생각하기 쉬워요. 하지만 Did가 이미 과거를 나타내니 동사원형 bring이 맞고, 그래서 1번과 3번은 답이 아니에요. 라 문장의 wrote도 write의 바른 과거형이라 2번과 5번도 답이 아니에요."
+  },
+  "summary": {
+   "card": "Do, Does, Did로 묻거나 부정 → 동사원형 · be동사 과거형은 주어에 맞춰 was, were",
+   "narration": "정답은 4번이에요. 기억할 것, do, does, did로 묻거나 부정하면 동사원형, be동사 과거형은 주어에 맞춰 was와 were예요."
+  },
+  "captions": [
+   "틀린 문장끼리 짝짓기",
+   "먼저 풀어 보세요",
+   "동사원형 · was와 were · 과거형",
+   "did not ate, The boys was → ④",
+   "정답 ④ (나), (다)",
+   "did 뒤 동사원형, was·were"
+  ],
+  "sec": [
+   11,
+   16,
+   29,
+   36,
+   24,
+   11
+  ]
+ },
+ "C": {
+  "title": "do·did 문장의 동사원형과 was·were",
+  "intro": "이 문제는 다섯 문장의 동사 형태를 따져 어법상 틀린 문장끼리 짝지은 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 틀린 문장으로만 짝지어진 것을 고르세요. 다섯 문장을 하나씩 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Do, Does, Did로 묻는 문장, don't, doesn't, didn't 부정문 → 일반동사는 동사원형",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "일반동사 과거형: 대부분 + ed (play → played) · 불규칙 동사 (go → went)",
+    "예) My friends were busy, so they didn't come. (내 친구들은 바빠서 오지 않았어요.)"
+   ],
+   "narration": "Do, Does, Did로 묻거나 부정하는 문장에서는 일반동사를 동사원형으로 써요. 지난 일을 말할 때 be동사는 주어가 I나 3인칭 단수이면 was, you나 복수이면 were를 써요. 일반동사 과거형은 대부분 ed를 붙이고, go와 went 같은 불규칙 동사는 모양이 따로 있어요. My friends were busy, so they didn't come. 내 친구들은 바빠서 오지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "(나) doesn't like, (마) Did … find ✓ / (가) Did … called ✗ → call",
+    "highlight": [
+     "Did she called",
+     "doesn't like",
+     "Did they find"
+    ],
+    "strike": [],
+    "narration": "첫째, Did와 doesn't가 있는 문장을 봐요. 나 문장과 마 문장은 동사원형 like와 find를 써서 맞지만, 가 문장은 Did로 묻는데 called를 써서 틀렸고 동사원형 call을 써야 해요."
+   },
+   {
+    "note": "(라) Jane = 3인칭 단수 → were ✗ → was",
+    "highlight": [
+     "Jane were"
+    ],
+    "strike": [],
+    "narration": "둘째, 라 문장의 주어 Jane은 한 사람, 곧 3인칭 단수라서 were가 아니라 was를 써야 해요."
+   },
+   {
+    "note": "(다) played ✓ → 틀린 문장 (가), (라) = ①",
+    "highlight": [
+     "We played",
+     "① (가), (라)"
+    ],
+    "strike": [
+     "② (나), (다)",
+     "③ (가), (마)",
+     "④ (다), (라)",
+     "⑤ (나), (마)"
+    ],
+    "narration": "셋째, 다 문장의 played는 play의 과거형이라 맞아요. 따라서 틀린 문장끼리 짝지은 것은 1번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (가), (라)  ✓  Did she called, Jane were 둘 다 틀린 문장",
+    "② (나), (다)  ✗  (나) doesn't like, (다) played 모두 맞는 문장",
+    "③ (가), (마)  ✗  (마) Did로 묻는 문장에 동사원형 find, 맞는 문장",
+    "④ (다), (라)  ✗  (다) play의 과거형 played로 맞는 문장",
+    "⑤ (나), (마)  ✗  (나) doesn't like, (마) Did they find 모두 맞는 문장"
+   ],
+   "narration": "정답은 1번이에요. 3번의 마 문장은 지난 일을 묻는 문장이라 found를 써야 한다고 생각하기 쉬워요. 하지만 Did가 이미 과거를 나타내니 동사원형 find가 맞아요. 2번과 5번에 든 나 문장도 Tom이 한 사람이라 likes를 떠올릴 수 있지만, doesn't 뒤에는 동사원형 like를 써서 맞아요."
+  },
+  "summary": {
+   "card": "Do, Does, Did로 묻거나 부정 → 동사원형 · be동사 과거형은 주어에 맞춰 was, were",
+   "narration": "정답은 1번이에요. 기억할 것, do, does, did로 묻거나 부정하면 동사원형, be동사 과거형은 주어에 맞춰 was와 were예요."
+  },
+  "captions": [
+   "틀린 문장끼리 짝짓기",
+   "먼저 풀어 보세요",
+   "동사원형 · was와 were · 과거형",
+   "Did she called, Jane were → ①",
+   "정답 ① (가), (라)",
+   "did 뒤 동사원형, was·were"
+  ],
+  "sec": [
+   11,
+   16,
+   29,
+   36,
+   24,
+   11
+  ]
+ },
+ "D": {
+  "title": "do·did 문장의 동사원형과 was·were",
+  "intro": "이 문제는 다섯 문장의 동사 형태를 따져 어법상 틀린 문장끼리 짝지은 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 틀린 문장으로만 짝지어진 것을 고르세요. 다섯 문장을 하나씩 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Do, Does, Did로 묻는 문장, don't, doesn't, didn't 부정문 → 일반동사는 동사원형",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "일반동사 과거형: 대부분 + ed (play → played) · 불규칙 동사 (go → went)",
+    "예) My friends were busy, so they didn't come. (내 친구들은 바빠서 오지 않았어요.)"
+   ],
+   "narration": "Do, Does, Did로 묻거나 부정하는 문장에서는 일반동사를 동사원형으로 써요. 지난 일을 말할 때 be동사는 주어가 I나 3인칭 단수이면 was, you나 복수이면 were를 써요. 일반동사 과거형은 대부분 ed를 붙이고, go와 went 같은 불규칙 동사는 모양이 따로 있어요. My friends were busy, so they didn't come. 내 친구들은 바빠서 오지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "(다) Do 뒤 walk ✓ / (나) didn't went ✗ → go",
+    "highlight": [
+     "didn't went",
+     "Do you walk"
+    ],
+    "strike": [],
+    "narration": "첫째, didn't와 Do가 있는 문장을 봐요. 다 문장은 동사원형 walk를 써서 맞지만, 나 문장은 didn't 뒤에 과거형 went를 써서 틀렸고 동사원형 go를 써야 해요."
+   },
+   {
+    "note": "(라) The movie(단수) was ✓ / (마) The boys(복수) was ✗ → were",
+    "highlight": [
+     "The movie was",
+     "The boys was"
+    ],
+    "strike": [],
+    "narration": "둘째, 라 문장은 3인칭 단수 The movie에 was를 써서 맞지만, 마 문장은 복수 주어 The boys에 was를 써서 틀렸고 were를 써야 해요."
+   },
+   {
+    "note": "(가) baked ✓ → 틀린 문장 (나), (마) = ⑤",
+    "highlight": [
+     "My mom baked",
+     "⑤ (나), (마)"
+    ],
+    "strike": [
+     "① (가), (나)",
+     "② (나), (다)",
+     "③ (라), (마)",
+     "④ (가), (라)"
+    ],
+    "narration": "셋째, 가 문장의 baked는 bake의 과거형이라 맞아요. 따라서 틀린 문장끼리 짝지은 것은 5번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (가), (나)  ✗  (가) bake의 과거형 baked로 맞는 문장",
+    "② (나), (다)  ✗  (다) Do로 묻는 문장에 동사원형 walk, 맞는 문장",
+    "③ (라), (마)  ✗  (라) 3인칭 단수 The movie에 was로 맞는 문장",
+    "④ (가), (라)  ✗  (가) baked, (라) The movie was 모두 맞는 문장",
+    "⑤ (나), (마)  ✓  didn't went, The boys was 둘 다 틀린 문장"
+   ],
+   "narration": "정답은 5번이에요. 3번의 라 문장은 마 문장처럼 was가 있어서 틀렸다고 생각하기 쉬워요. 하지만 The movie는 하나라서 was가 맞아요. 2번의 다 문장도 Do로 묻는 문장에 동사원형 walk를 쓴 맞는 문장이에요. 1번과 4번에 든 가 문장의 baked도 bake의 바른 과거형이에요."
+  },
+  "summary": {
+   "card": "Do, Does, Did로 묻거나 부정 → 동사원형 · be동사 과거형은 주어에 맞춰 was, were",
+   "narration": "정답은 5번이에요. 기억할 것, do, does, did로 묻거나 부정하면 동사원형, be동사 과거형은 주어에 맞춰 was와 were예요."
+  },
+  "captions": [
+   "틀린 문장끼리 짝짓기",
+   "먼저 풀어 보세요",
+   "동사원형 · was와 were · 과거형",
+   "didn't went, The boys was → ⑤",
+   "정답 ⑤ (나), (마)",
+   "did 뒤 동사원형, was·were"
+  ],
+  "sec": [
+   11,
+   16,
+   29,
+   36,
+   24,
+   11
+  ]
+ },
+ "E": {
+  "title": "do·did 문장의 동사원형과 불규칙 과거형",
+  "intro": "이 문제는 다섯 문장의 동사 형태를 따져 어법상 틀린 문장끼리 짝지은 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 틀린 문장으로만 짝지어진 것을 고르세요. 다섯 문장을 하나씩 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Do, Does, Did로 묻는 문장, don't, doesn't, didn't 부정문 → 일반동사는 동사원형",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "일반동사 과거형: 대부분 + ed (play → played) · 불규칙 동사 (go → went)",
+    "예) My friends were busy, so they didn't come. (내 친구들은 바빠서 오지 않았어요.)"
+   ],
+   "narration": "Do, Does, Did로 묻거나 부정하는 문장에서는 일반동사를 동사원형으로 써요. 지난 일을 말할 때 be동사는 주어가 I나 3인칭 단수이면 was, you나 복수이면 were를 써요. 일반동사 과거형은 대부분 ed를 붙이고, go와 went 같은 불규칙 동사는 모양이 따로 있어요. My friends were busy, so they didn't come. 내 친구들은 바빠서 오지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "(라) doesn't eat ✓ / (마) Did … fixed ✗ → fix",
+    "highlight": [
+     "doesn't eat",
+     "Did Tom fixed"
+    ],
+    "strike": [],
+    "narration": "첫째, doesn't와 Did가 있는 문장을 봐요. 라 문장은 동사원형 eat을 써서 맞지만, 마 문장은 Did로 묻는데 fixed를 써서 틀렸고 동사원형 fix를 써야 해요."
+   },
+   {
+    "note": "(나) 주어 you → Were ✓",
+    "highlight": [
+     "Were you tired"
+    ],
+    "strike": [],
+    "narration": "둘째, 나 문장은 주어 you에 Were를 써서 맞아요."
+   },
+   {
+    "note": "(가) stayed ✓ / (다) losed ✗ → lose의 과거형은 불규칙 lost",
+    "highlight": [
+     "We stayed",
+     "I losed"
+    ],
+    "strike": [],
+    "narration": "셋째, 가 문장의 stayed는 맞지만, 다 문장은 불규칙 동사 lose의 과거형 lost 대신 losed를 써서 틀렸어요."
+   },
+   {
+    "note": "틀린 문장 (다), (마) = ②",
+    "highlight": [
+     "② (다), (마)"
+    ],
+    "strike": [
+     "① (가), (다)",
+     "③ (나), (라)",
+     "④ (가), (마)",
+     "⑤ (라), (마)"
+    ],
+    "narration": "넷째, 틀린 문장인 다 문장과 마 문장을 짝지은 것은 2번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (가), (다)  ✗  (가) stay의 과거형 stayed로 맞는 문장",
+    "② (다), (마)  ✓  I losed, Did Tom fixed 둘 다 틀린 문장",
+    "③ (나), (라)  ✗  (나) you에 Were, (라) doesn't eat 모두 맞는 문장",
+    "④ (가), (마)  ✗  (가)는 맞는 문장, 틀린 (다) I losed를 빠뜨림",
+    "⑤ (라), (마)  ✗  (라) doesn't 뒤 동사원형 eat으로 맞는 문장"
+   ],
+   "narration": "정답은 2번이에요. 5번의 라 문장은 주어가 She라서 eats를 떠올리기 쉬워요. 하지만 doesn't 뒤에는 동사원형 eat을 써서 맞아요. 3번의 나 문장도 you는 한 사람에게 말할 때도 were를 쓰니까 맞는 문장이에요. 1번과 4번에 든 가 문장의 stayed도 stay의 바른 과거형이에요."
+  },
+  "summary": {
+   "card": "Do, Does, Did로 묻거나 부정 → 동사원형 · 불규칙 동사는 정해진 과거형 (lose → lost)",
+   "narration": "정답은 2번이에요. 기억할 것, do, does, did로 묻거나 부정할 때는 동사원형을 쓰고, 불규칙 동사는 정해진 과거형을 써요."
+  },
+  "captions": [
+   "틀린 문장끼리 짝짓기",
+   "먼저 풀어 보세요",
+   "동사원형 · was와 were · 과거형",
+   "Did Tom fixed, I losed → ②",
+   "정답 ② (다), (마)",
+   "did 뒤 동사원형, 불규칙 과거형"
+  ],
+  "sec": [
+   11,
+   16,
+   29,
+   36,
+   24,
+   11
+  ]
+ },
+ "F": {
+  "title": "do·did 문장의 동사원형과 was·were",
+  "intro": "이 문제는 다섯 문장의 동사 형태를 따져 어법상 틀린 문장끼리 짝지은 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 어법상 틀린 문장으로만 짝지어진 것을 고르세요. 다섯 문장을 하나씩 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Do, Does, Did로 묻는 문장, don't, doesn't, didn't 부정문 → 일반동사는 동사원형",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "일반동사 과거형: 대부분 + ed (play → played) · 불규칙 동사 (go → went)",
+    "예) My friends were busy, so they didn't come. (내 친구들은 바빠서 오지 않았어요.)"
+   ],
+   "narration": "Do, Does, Did로 묻거나 부정하는 문장에서는 일반동사를 동사원형으로 써요. 지난 일을 말할 때 be동사는 주어가 I나 3인칭 단수이면 was, you나 복수이면 were를 써요. 일반동사 과거형은 대부분 ed를 붙이고, go와 went 같은 불규칙 동사는 모양이 따로 있어요. My friends were busy, so they didn't come. 내 친구들은 바빠서 오지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "(라) Does 뒤 cook ✓ / (다) didn't cleaned ✗ → clean",
+    "highlight": [
+     "didn't cleaned",
+     "Does your dad cook"
+    ],
+    "strike": [],
+    "narration": "첫째, didn't와 Does가 있는 문장을 봐요. 라 문장은 동사원형 cook을 써서 맞지만, 다 문장은 didn't 뒤에 cleaned를 써서 틀렸고 동사원형 clean을 써야 해요."
+   },
+   {
+    "note": "(마) I wasn't ✓ / (가) Mina and I = 복수 → was ✗ → were",
+    "highlight": [
+     "Mina and I was",
+     "I wasn't"
+    ],
+    "strike": [],
+    "narration": "둘째, 마 문장은 주어 I에 wasn't를 써서 맞지만, 가 문장의 주어 Mina and I는 두 사람, 곧 복수라서 was가 아니라 were를 써야 해요."
+   },
+   {
+    "note": "(나) cried ✓ → 틀린 문장 (가), (다) = ③",
+    "highlight": [
+     "The baby cried",
+     "③ (가), (다)"
+    ],
+    "strike": [
+     "① (나), (라)",
+     "② (가), (나)",
+     "④ (다), (마)",
+     "⑤ (라), (마)"
+    ],
+    "narration": "셋째, 나 문장의 cried는 cry의 과거형이라 맞아요. 따라서 틀린 문장끼리 짝지은 것은 3번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (나), (라)  ✗  (나) cried, (라) Does … cook 모두 맞는 문장",
+    "② (가), (나)  ✗  (나) cry의 과거형 cried로 맞는 문장",
+    "③ (가), (다)  ✓  Mina and I was, didn't cleaned 둘 다 틀린 문장",
+    "④ (다), (마)  ✗  (마) 주어 I에 wasn't로 맞는 문장",
+    "⑤ (라), (마)  ✗  (라) Does … cook, (마) I wasn't 모두 맞는 문장"
+   ],
+   "narration": "정답은 3번이에요. 가 문장은 was 바로 앞에 I가 있어서 맞다고 생각하기 쉬워요. 하지만 주어는 Mina and I 두 사람이라 were를 써야 하니, 가 문장이 빠진 4번은 답이 아니에요. 4번의 마 문장은 주어 I에 wasn't를 쓴 맞는 문장이에요. 2번의 나 문장 cried도 cry의 바른 과거형이에요."
+  },
+  "summary": {
+   "card": "Do, Does, Did로 묻거나 부정 → 동사원형 · be동사 과거형은 주어에 맞춰 was, were",
+   "narration": "정답은 3번이에요. 기억할 것, do, does, did로 묻거나 부정하면 동사원형, be동사 과거형은 주어에 맞춰 was와 were예요."
+  },
+  "captions": [
+   "틀린 문장끼리 짝짓기",
+   "먼저 풀어 보세요",
+   "동사원형 · was와 were · 과거형",
+   "didn't cleaned, Mina and I was → ③",
+   "정답 ③ (가), (다)",
+   "did 뒤 동사원형, was·were"
+  ],
+  "sec": [
+   11,
+   16,
+   29,
+   36,
+   24,
+   11
+  ]
+ }
+}

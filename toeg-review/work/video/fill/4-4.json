@@ -1,0 +1,476 @@
+{
+ "A": {
+  "title": "the를 반드시 쓰는 자리",
+  "intro": "이 문제는 다섯 문장 가운데 빈칸에 관사 the를 반드시 써야 하는 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 the를 반드시 써야 하는 문장은 무엇일까요? 다섯 문장의 빈칸을 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "세상에 하나뿐인 것 → the (the sun, the moon, the sky)",
+    "강·바다 이름 → the (the Nile) · 최상급 → 보통 the (the biggest)",
+    "식사·운동 이름, go to school, go to bed → 보통 관사 없이",
+    "정해지지 않은 셀 수 있는 것 하나 → a, an도 쓸 수 있어요",
+    "예) The moon is round. (달은 둥글어요.)"
+   ],
+   "narration": "the는 해, 달, 하늘처럼 세상에 하나뿐인 것과 강, 바다 이름 앞에 쓰고, biggest 같은 최상급 앞에도 보통 써요. 식사와 운동 이름 앞, go to school과 go to bed에는 보통 관사를 쓰지 않아요. 정해지지 않은 셀 수 있는 것 하나에는 a나 an을 쓸 수 있으니, the가 꼭 필요하지 않아요. 예를 들어 The moon is round, 달은 둥글어요."
+  },
+  "steps": [
+   {
+    "note": "관사를 쓰지 않는 자리 먼저 지우기: 식사 breakfast, 운동 soccer, 학교에 다니다 go to school → ②③④",
+    "highlight": [
+     "breakfast",
+     "go to ________ school",
+     "play ________ soccer"
+    ],
+    "strike": [
+     "② I eat ________ breakfast every morning.",
+     "③ We go to ________ school by bus.",
+     "④ They play ________ soccer after school."
+    ],
+    "narration": "첫째, 식사 이름 breakfast와 운동 이름 soccer 앞, 그리고 학교에 다닌다는 뜻의 go to school에는 보통 관사를 쓰지 않으니 2번, 3번, 4번을 지워요."
+   },
+   {
+    "note": "a를 써도 되는 자리 지우기: He is a tall boy. (키가 큰 소년 한 명) → ⑤",
+    "highlight": [
+     "tall boy"
+    ],
+    "strike": [
+     "⑤ He is ________ tall boy."
+    ],
+    "narration": "둘째, 5번은 a를 넣어 He is a tall boy라고 쓸 수 있어요. 그는 키가 큰 소년이라는 뜻이니, the가 꼭 필요하지 않아요."
+   },
+   {
+    "note": "남는 ①: Sun(해)은 세상에 하나뿐 → The Sun",
+    "highlight": [
+     "① ________ Sun is very bright today."
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 1번의 Sun, 곧 해는 세상에 하나뿐이라서 the만 쓸 수 있어요. 그래서 The Sun이라고 써요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① ________ Sun is very bright today.  ✓  해(Sun)는 세상에 하나뿐 → The Sun",
+    "② I eat ________ breakfast every morning.  ✗  식사 이름 앞 → 관사 없이 eat breakfast",
+    "③ We go to ________ school by bus.  ✗  학교에 다니다 → 관사 없이 go to school",
+    "④ They play ________ soccer after school.  ✗  운동 이름 앞 → 관사 없이 play soccer",
+    "⑤ He is ________ tall boy.  ✗  키 큰 소년 한 명 → a tall boy도 돼요"
+   ],
+   "narration": "정답은 1번이에요. 해는 세상에 하나뿐이라서 The Sun이라고 써요. 5번은 tall boy 앞에 a를 넣어 키가 큰 소년 한 명이라고 말할 수 있으니, the를 반드시 써야 하는 문장이 아니에요. 4번 soccer는 운동 이름이라서 관사 없이 play soccer라고 해요. 2번 breakfast는 아침 식사를 뜻하는 식사 이름이라서 보통 관사를 쓰지 않아요."
+  },
+  "summary": {
+   "card": "세상에 하나뿐인 것 → the (the sun, the moon, the sky)",
+   "narration": "정답은 1번이에요. 기억할 것, 해, 달, 하늘처럼 세상에 하나뿐인 것 앞에는 the를 써요."
+  },
+  "captions": [
+   "the를 반드시 쓰는 문장",
+   "먼저 풀어 보세요",
+   "the를 쓰는 자리, 안 쓰는 자리",
+   "관사 없음 → a 가능 → the만",
+   "정답 ① The Sun",
+   "하나뿐인 것 → the"
+  ],
+  "sec": [
+   11,
+   18,
+   28,
+   36,
+   28,
+   10
+  ]
+ },
+ "B": {
+  "title": "the를 반드시 쓰는 자리",
+  "intro": "이 문제는 다섯 문장 가운데 빈칸에 관사 the를 반드시 써야 하는 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 the를 반드시 써야 하는 문장은 무엇일까요? 다섯 문장의 빈칸을 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "세상에 하나뿐인 것 → the (the sun, the moon, the sky)",
+    "강·바다 이름 → the (the Nile) · 최상급 → 보통 the (the biggest)",
+    "식사·운동 이름, go to school, go to bed → 보통 관사 없이",
+    "정해지지 않은 셀 수 있는 것 하나 → a, an도 쓸 수 있어요",
+    "예) The sun is hot. (해는 뜨거워요.)"
+   ],
+   "narration": "the는 해, 달, 하늘처럼 세상에 하나뿐인 것과 강, 바다 이름 앞에 쓰고, biggest 같은 최상급 앞에도 보통 써요. 식사와 운동 이름 앞, go to school과 go to bed에는 보통 관사를 쓰지 않아요. 정해지지 않은 셀 수 있는 것 하나에는 a나 an을 쓸 수 있으니, the가 꼭 필요하지 않아요. 예를 들어 The sun is hot, 해는 뜨거워요."
+  },
+  "steps": [
+   {
+    "note": "관사를 쓰지 않는 자리 먼저 지우기: 운동 soccer, 식사 breakfast → ②③",
+    "highlight": [
+     "play ________ soccer",
+     "eat ________ breakfast"
+    ],
+    "strike": [
+     "② They play ________ soccer after school.",
+     "③ I eat ________ breakfast at seven."
+    ],
+    "narration": "첫째, 운동 이름 soccer와 식사 이름 breakfast 앞에는 보통 관사를 쓰지 않으니 2번과 3번을 지워요."
+   },
+   {
+    "note": "a, an을 써도 되는 자리 지우기: A dog(자음 소리), An apple(모음 소리) → ④⑤",
+    "highlight": [
+     "dog",
+     "apple"
+    ],
+    "strike": [
+     "④ ________ dog is sleeping in the yard.",
+     "⑤ ________ apple is on the table."
+    ],
+    "narration": "둘째, 4번 dog 앞에는 a를, 모음 소리로 시작하는 5번 apple 앞에는 an을 쓸 수 있어요. 그래서 4번과 5번은 the가 꼭 필요하지 않아요."
+   },
+   {
+    "note": "남는 ①: sky(하늘)는 세상에 하나뿐 → The sky",
+    "highlight": [
+     "① ________ sky is clear today."
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 1번의 sky, 곧 하늘은 세상에 하나뿐이라서 the만 쓸 수 있어요. 그래서 The sky라고 써요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① ________ sky is clear today.  ✓  하늘(sky)은 세상에 하나뿐 → The sky",
+    "② They play ________ soccer after school.  ✗  운동 이름 앞 → 관사 없이 play soccer",
+    "③ I eat ________ breakfast at seven.  ✗  식사 이름 앞 → 관사 없이 eat breakfast",
+    "④ ________ dog is sleeping in the yard.  ✗  개 한 마리 → A dog도 돼요",
+    "⑤ ________ apple is on the table.  ✗  모음 소리 apple → An apple도 돼요"
+   ],
+   "narration": "정답은 1번이에요. 하늘은 세상에 하나뿐이라서 The sky라고 써요. 4번은 서로 아는 그 개라면 The dog도 쓸 수 있지만, 개 한 마리를 말할 때는 a를 쓰니 the가 반드시 필요하지는 않아요. 5번 apple은 모음 소리로 시작해서 an을 쓸 수 있어요. 2번 soccer는 운동 이름이라서 관사 없이 play soccer라고 해요."
+  },
+  "summary": {
+   "card": "세상에 하나뿐인 것 → the (the sun, the moon, the sky)",
+   "narration": "정답은 1번이에요. 기억할 것, 해, 달, 하늘처럼 세상에 하나뿐인 것 앞에는 the를 써요."
+  },
+  "captions": [
+   "the를 반드시 쓰는 문장",
+   "먼저 풀어 보세요",
+   "the를 쓰는 자리, 안 쓰는 자리",
+   "관사 없음 → a, an 가능 → the만",
+   "정답 ① The sky",
+   "하나뿐인 것 → the"
+  ],
+  "sec": [
+   11,
+   18,
+   28,
+   36,
+   28,
+   10
+  ]
+ },
+ "C": {
+  "title": "the를 반드시 쓰는 자리",
+  "intro": "이 문제는 다섯 문장 가운데 빈칸에 관사 the를 반드시 써야 하는 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 the를 반드시 써야 하는 문장은 무엇일까요? 다섯 문장의 빈칸을 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "세상에 하나뿐인 것 → the (the sun, the moon, the sky)",
+    "강·바다 이름 → the (the Nile) · 최상급 → 보통 the (the biggest)",
+    "식사·운동 이름, go to school, go to bed → 보통 관사 없이",
+    "정해지지 않은 셀 수 있는 것 하나 → a, an도 쓸 수 있어요",
+    "예) The Nile is very long. (나일강은 아주 길어요.)"
+   ],
+   "narration": "the는 해, 달, 하늘처럼 세상에 하나뿐인 것과 강, 바다 이름 앞에 쓰고, biggest 같은 최상급 앞에도 보통 써요. 식사와 운동 이름 앞, go to school과 go to bed에는 보통 관사를 쓰지 않아요. 정해지지 않은 셀 수 있는 것 하나에는 a나 an을 쓸 수 있으니, the가 꼭 필요하지 않아요. 예를 들어 The Nile is very long, 나일강은 아주 길어요."
+  },
+  "steps": [
+   {
+    "note": "관사를 쓰지 않는 자리 먼저 지우기: 학교에 다니다 go to school → ②",
+    "highlight": [
+     "go to ________ school"
+    ],
+    "strike": [
+     "② We go to ________ school at eight."
+    ],
+    "narration": "첫째, 학교에 다닌다는 뜻의 go to school에는 관사를 쓰지 않으니 2번을 지워요."
+   },
+   {
+    "note": "a를 써도 되는 자리 지우기: A banana, A bird, a tall boy → ①④⑤",
+    "highlight": [
+     "banana",
+     "bird",
+     "tall boy"
+    ],
+    "strike": [
+     "① ________ banana is in the basket.",
+     "④ ________ bird is singing in the tree.",
+     "⑤ He is ________ tall boy."
+    ],
+    "narration": "둘째, 1번 banana, 4번 bird, 5번 tall boy 앞에는 하나를 뜻하는 a를 쓸 수 있어요. 그래서 이 세 문장은 the가 꼭 필요하지 않아요."
+   },
+   {
+    "note": "남는 ③: 강 이름 Han River → The Han River",
+    "highlight": [
+     "③ ________ Han River flows through Seoul."
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 3번의 Han River는 강 이름이라서 the를 꼭 써야 해요. The Han River flows through Seoul. 한강은 서울을 지나 흘러요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① ________ banana is in the basket.  ✗  바나나 하나 → A banana도 돼요",
+    "② We go to ________ school at eight.  ✗  학교에 다니다 → 관사 없이 go to school",
+    "③ ________ Han River flows through Seoul.  ✓  강 이름 → The Han River",
+    "④ ________ bird is singing in the tree.  ✗  새 한 마리 → A bird도 돼요",
+    "⑤ He is ________ tall boy.  ✗  키 큰 소년 한 명 → a tall boy도 돼요"
+   ],
+   "narration": "정답은 3번이에요. 한강처럼 강 이름 앞에는 the를 써요. 1번과 4번은 서로 아는 그 바나나, 그 새라면 the도 쓸 수 있지만, 하나를 말할 때는 a를 쓰니 the가 반드시 필요하지는 않아요. 5번도 키가 큰 소년 한 명이라는 뜻으로 a를 쓸 수 있어요. 2번 go to school은 학교에 다닌다는 뜻이라서 관사를 쓰지 않아요."
+  },
+  "summary": {
+   "card": "강·바다 이름 → the (the Han River)",
+   "narration": "정답은 3번이에요. 기억할 것, 한강 같은 강 이름과 바다 이름 앞에는 the를 써요."
+  },
+  "captions": [
+   "the를 반드시 쓰는 문장",
+   "먼저 풀어 보세요",
+   "the를 쓰는 자리, 안 쓰는 자리",
+   "관사 없음 → a 가능 → the만",
+   "정답 ③ The Han River",
+   "강·바다 이름 → the"
+  ],
+  "sec": [
+   11,
+   18,
+   28,
+   36,
+   28,
+   10
+  ]
+ },
+ "D": {
+  "title": "the를 반드시 쓰는 자리",
+  "intro": "이 문제는 다섯 문장 가운데 빈칸에 관사 the를 반드시 써야 하는 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 the를 반드시 써야 하는 문장은 무엇일까요? 다섯 문장의 빈칸을 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "세상에 하나뿐인 것 → the (the sun, the moon, the sky)",
+    "강·바다 이름 → the (the Nile) · 최상급 → 보통 the (the biggest)",
+    "식사·운동 이름, go to school, go to bed → 보통 관사 없이",
+    "정해지지 않은 셀 수 있는 것 하나 → a, an도 쓸 수 있어요",
+    "예) Look at the sky. (하늘을 보세요.)"
+   ],
+   "narration": "the는 해, 달, 하늘처럼 세상에 하나뿐인 것과 강, 바다 이름 앞에 쓰고, biggest 같은 최상급 앞에도 보통 써요. 식사와 운동 이름 앞, go to school과 go to bed에는 보통 관사를 쓰지 않아요. 정해지지 않은 셀 수 있는 것 하나에는 a나 an을 쓸 수 있으니, the가 꼭 필요하지 않아요. 예를 들어 Look at the sky, 하늘을 보세요."
+  },
+  "steps": [
+   {
+    "note": "관사를 쓰지 않는 자리 먼저 지우기: 식사 lunch → ③",
+    "highlight": [
+     "eat ________ lunch"
+    ],
+    "strike": [
+     "③ We eat ________ lunch at noon."
+    ],
+    "narration": "첫째, 식사 이름 lunch 앞에는 보통 관사를 쓰지 않으니 3번을 지워요."
+   },
+   {
+    "note": "a, an을 써도 되는 자리 지우기: A dog, a kind student, An orange(모음 소리) → ②④⑤",
+    "highlight": [
+     "dog",
+     "kind student",
+     "orange"
+    ],
+    "strike": [
+     "② ________ dog is barking outside.",
+     "④ She is ________ kind student.",
+     "⑤ ________ orange is on the plate."
+    ],
+    "narration": "둘째, 2번 dog, 4번 kind student 앞에는 a를, 모음 소리로 시작하는 5번 orange 앞에는 an을 쓸 수 있어요. 그래서 이 세 문장은 the가 꼭 필요하지 않아요."
+   },
+   {
+    "note": "남는 ①: Moon(달)은 세상에 하나뿐 → The Moon",
+    "highlight": [
+     "① ________ Moon looks beautiful tonight."
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 1번의 Moon, 곧 달은 세상에 하나뿐이라서 the만 쓸 수 있어요. 그래서 The Moon이라고 써요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① ________ Moon looks beautiful tonight.  ✓  달(Moon)은 세상에 하나뿐 → The Moon",
+    "② ________ dog is barking outside.  ✗  개 한 마리 → A dog도 돼요",
+    "③ We eat ________ lunch at noon.  ✗  식사 이름 앞 → 관사 없이 eat lunch",
+    "④ She is ________ kind student.  ✗  친절한 학생 한 명 → a kind student도 돼요",
+    "⑤ ________ orange is on the plate.  ✗  모음 소리 orange → An orange도 돼요"
+   ],
+   "narration": "정답은 1번이에요. 달은 세상에 하나뿐이라서 The Moon이라고 써요. 2번은 서로 아는 그 개라면 The dog도 쓸 수 있지만, 개 한 마리를 말할 때는 a를 쓰니 the가 반드시 필요하지는 않아요. 5번 orange는 모음 소리로 시작해서 an을 쓸 수 있어요. 3번 lunch는 점심 식사를 뜻하는 식사 이름이라서 보통 관사를 쓰지 않아요."
+  },
+  "summary": {
+   "card": "세상에 하나뿐인 것 → the (the sun, the moon, the sky)",
+   "narration": "정답은 1번이에요. 기억할 것, 해, 달, 하늘처럼 세상에 하나뿐인 것 앞에는 the를 써요."
+  },
+  "captions": [
+   "the를 반드시 쓰는 문장",
+   "먼저 풀어 보세요",
+   "the를 쓰는 자리, 안 쓰는 자리",
+   "관사 없음 → a, an 가능 → the만",
+   "정답 ① The Moon",
+   "하나뿐인 것 → the"
+  ],
+  "sec": [
+   11,
+   18,
+   28,
+   36,
+   28,
+   10
+  ]
+ },
+ "E": {
+  "title": "the를 반드시 쓰는 자리",
+  "intro": "이 문제는 다섯 문장 가운데 빈칸에 관사 the를 반드시 써야 하는 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 the를 반드시 써야 하는 문장은 무엇일까요? 다섯 문장의 빈칸을 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "세상에 하나뿐인 것 → the (the sun, the moon, the sky)",
+    "강·바다 이름 → the (the Nile) · 최상급 → 보통 the (the biggest)",
+    "식사·운동 이름, go to school, go to bed → 보통 관사 없이",
+    "정해지지 않은 셀 수 있는 것 하나 → a, an도 쓸 수 있어요",
+    "예) This is the biggest box. (이것이 가장 큰 상자예요.)"
+   ],
+   "narration": "the는 해, 달, 하늘처럼 세상에 하나뿐인 것과 강, 바다 이름 앞에 쓰고, biggest 같은 최상급 앞에도 보통 써요. 식사와 운동 이름 앞, go to school과 go to bed에는 보통 관사를 쓰지 않아요. 정해지지 않은 셀 수 있는 것 하나에는 a나 an을 쓸 수 있으니, the가 꼭 필요하지 않아요. 예를 들어 This is the biggest box, 이것이 가장 큰 상자예요."
+  },
+  "steps": [
+   {
+    "note": "관사를 쓰지 않는 자리 먼저 지우기: 운동 basketball, 자러 가다 go to bed → ②③",
+    "highlight": [
+     "play ________ basketball",
+     "go to ________ bed"
+    ],
+    "strike": [
+     "② They play ________ basketball after school.",
+     "③ We go to ________ bed at ten."
+    ],
+    "narration": "첫째, 운동 이름 basketball 앞, 그리고 자러 간다는 뜻의 go to bed에는 관사를 쓰지 않으니 2번과 3번을 지워요."
+   },
+   {
+    "note": "a, an을 써도 되는 자리 지우기: A book, an umbrella(모음 소리) → ①④",
+    "highlight": [
+     "book",
+     "umbrella"
+    ],
+    "strike": [
+     "① ________ book is on my desk.",
+     "④ He has ________ umbrella."
+    ],
+    "narration": "둘째, 1번 book 앞에는 a를, 모음 소리로 시작하는 4번 umbrella 앞에는 an을 쓸 수 있어요. 그래서 1번과 4번은 the가 꼭 필요하지 않아요."
+   },
+   {
+    "note": "남는 ⑤: 최상급 tallest가 boy를 꾸민다 → the tallest boy",
+    "highlight": [
+     "⑤ He is ________ tallest boy in his class."
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 5번의 tallest는 가장 키가 크다는 뜻의 최상급이고 boy를 꾸미고 있어서 the를 써요. He is the tallest boy in his class. 그는 반에서 가장 키가 큰 소년이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① ________ book is on my desk.  ✗  책 한 권 → A book도 돼요",
+    "② They play ________ basketball after school.  ✗  운동 이름 앞 → 관사 없이 play basketball",
+    "③ We go to ________ bed at ten.  ✗  자러 가다 → 관사 없이 go to bed",
+    "④ He has ________ umbrella.  ✗  모음 소리 umbrella → an umbrella도 돼요",
+    "⑤ He is ________ tallest boy in his class.  ✓  최상급 tallest가 boy를 꾸밈 → the tallest boy"
+   ],
+   "narration": "정답은 5번이에요. 최상급 tallest가 boy를 꾸미니 the를 써서 the tallest boy라고 해요. 1번은 서로 아는 그 책이라면 The book도 쓸 수 있지만, 책 한 권을 말할 때는 a를 쓰니 the가 반드시 필요하지는 않아요. 4번 umbrella는 모음 소리로 시작해서 an을 쓸 수 있어요. 3번 go to bed는 자러 간다는 뜻이라서 관사를 쓰지 않아요."
+  },
+  "summary": {
+   "card": "최상급이 명사를 꾸밀 때 → 보통 the (the tallest boy)",
+   "narration": "정답은 5번이에요. 기억할 것, tallest 같은 최상급이 명사를 꾸밀 때는 보통 the를 써서 the tallest boy처럼 말해요."
+  },
+  "captions": [
+   "the를 반드시 쓰는 문장",
+   "먼저 풀어 보세요",
+   "the를 쓰는 자리, 안 쓰는 자리",
+   "관사 없음 → a, an 가능 → the만",
+   "정답 ⑤ the tallest boy",
+   "최상급 → the"
+  ],
+  "sec": [
+   11,
+   18,
+   28,
+   36,
+   28,
+   10
+  ]
+ },
+ "F": {
+  "title": "the를 반드시 쓰는 자리",
+  "intro": "이 문제는 다섯 문장 가운데 빈칸에 관사 the를 반드시 써야 하는 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 the를 반드시 써야 하는 문장은 무엇일까요? 다섯 문장의 빈칸을 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "세상에 하나뿐인 것 → the (the sun, the moon, the sky)",
+    "강·바다 이름 → the (the Nile) · 최상급 → 보통 the (the biggest)",
+    "식사·운동 이름, go to school, go to bed → 보통 관사 없이",
+    "정해지지 않은 셀 수 있는 것 하나 → a, an도 쓸 수 있어요",
+    "예) Whales live in the Atlantic Ocean. (고래들은 대서양에 살아요.)"
+   ],
+   "narration": "the는 해, 달, 하늘처럼 세상에 하나뿐인 것과 강, 바다 이름 앞에 쓰고, biggest 같은 최상급 앞에도 보통 써요. 식사와 운동 이름 앞, go to school과 go to bed에는 보통 관사를 쓰지 않아요. 정해지지 않은 셀 수 있는 것 하나에는 a나 an을 쓸 수 있으니, the가 꼭 필요하지 않아요. 예를 들어 Whales live in the Atlantic Ocean, 고래들은 대서양에 살아요."
+  },
+  "steps": [
+   {
+    "note": "관사를 쓰지 않는 자리 먼저 지우기: 식사 dinner → ⑤",
+    "highlight": [
+     "eat ________ dinner"
+    ],
+    "strike": [
+     "⑤ I eat ________ dinner with my family."
+    ],
+    "narration": "첫째, 식사 이름 dinner 앞에는 보통 관사를 쓰지 않으니 5번을 지워요."
+   },
+   {
+    "note": "a, an을 써도 되는 자리 지우기: a new bag, A cat, an eraser(모음 소리) → ①②④",
+    "highlight": [
+     "new bag",
+     "cat",
+     "eraser"
+    ],
+    "strike": [
+     "① She bought ________ new bag.",
+     "② ________ cat is under the chair.",
+     "④ He needs ________ eraser."
+    ],
+    "narration": "둘째, 1번 new bag, 2번 cat 앞에는 a를, 모음 소리로 시작하는 4번 eraser 앞에는 an을 쓸 수 있어요. 그래서 이 세 문장은 the가 꼭 필요하지 않아요."
+   },
+   {
+    "note": "남는 ③: 바다 이름 Pacific Ocean → The Pacific Ocean",
+    "highlight": [
+     "③ ________ Pacific Ocean is very large."
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 3번의 Pacific Ocean, 곧 태평양은 바다 이름이라서 the를 꼭 써야 해요. The Pacific Ocean is very large. 태평양은 아주 넓어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① She bought ________ new bag.  ✗  새 가방 하나 → a new bag도 돼요",
+    "② ________ cat is under the chair.  ✗  고양이 한 마리 → A cat도 돼요",
+    "③ ________ Pacific Ocean is very large.  ✓  바다 이름 → The Pacific Ocean",
+    "④ He needs ________ eraser.  ✗  모음 소리 eraser → an eraser도 돼요",
+    "⑤ I eat ________ dinner with my family.  ✗  식사 이름 앞 → 관사 없이 eat dinner"
+   ],
+   "narration": "정답은 3번이에요. 태평양처럼 바다 이름 앞에는 the를 써요. 2번은 서로 아는 그 고양이라면 The cat도 쓸 수 있지만, 고양이 한 마리를 말할 때는 a를 쓰니 the가 반드시 필요하지는 않아요. 4번 eraser는 모음 소리로 시작해서 an을 쓸 수 있어요. 5번 dinner는 저녁 식사를 뜻하는 식사 이름이라서 보통 관사를 쓰지 않아요."
+  },
+  "summary": {
+   "card": "강·바다 이름 → the (the Pacific Ocean)",
+   "narration": "정답은 3번이에요. 기억할 것, 태평양 같은 바다 이름과 강 이름 앞에는 the를 써요."
+  },
+  "captions": [
+   "the를 반드시 쓰는 문장",
+   "먼저 풀어 보세요",
+   "the를 쓰는 자리, 안 쓰는 자리",
+   "관사 없음 → a, an 가능 → the만",
+   "정답 ③ The Pacific Ocean",
+   "강·바다 이름 → the"
+  ],
+  "sec": [
+   11,
+   18,
+   28,
+   36,
+   28,
+   10
+  ]
+ }
+}

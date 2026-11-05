@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T18:18:34.360Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "a few - a little",
+      "1": "few - a little",
+      "2": "little - few",
+      "3": "a few - little",
+      "4": "few - little"
+    },
+    "expl": "핵심 규칙: a few·few는 셀 수 있는 명사의 복수형, a little·little은 셀 수 없는 명사에 쓴다. a few·a little은 ‘조금 있는’(긍정), few·little은 ‘거의 없는’(부정)이다.\n풀이 순서: ① 명사가 셀 수 있는지 본다: books는 셀 수 있고 water는 셀 수 없다. 셀 수 있으면 (a) few, 셀 수 없으면 (a) little. → ② 우리말 뜻을 본다: ‘조금 있다’이면 a를 붙이고, ‘거의 없다’이면 a를 뺀다. → ③ ‘책이 거의 없다’ few, ‘물이 거의 없다’ little. 정답은 few - little.\n문장별 판정:\n정답 판단: 두 빈칸 모두 명사의 종류(셀 수 있는지)와 우리말 뜻(조금 있다/거의 없다)에 맞으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 첫째 빈칸 a few: ‘조금 있는’의 뜻이라 우리말과 맞지 않는다, 둘째 빈칸 a little: ‘조금 있는’의 뜻이라 우리말과 맞지 않는다. 따라서 오답이다.\n② [오답] 둘째 빈칸 a little: ‘조금 있는’의 뜻이라 우리말과 맞지 않는다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 little: 셀 수 없는 명사에 쓰는 말이라 books에 맞지 않는다, 둘째 빈칸 few: 셀 수 있는 명사에 쓰는 말이라 water에 맞지 않는다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 a few: ‘조금 있는’의 뜻이라 우리말과 맞지 않는다. 따라서 오답이다.\n⑤ [정답] 두 빈칸 모두 명사의 종류(셀 수 있는지)와 우리말 뜻(조금 있다/거의 없다)에 맞으므로 정답이다.",
+    "passage": "There are _____ books on the shelf. (선반에 책이 거의 없다.)\nI have _____ water. (나는 물이 거의 없다.)",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:18:28.284Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:18:34.360Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:18:34.360Z",
+      "what": "확인 완료"
+    }
+  }
+}

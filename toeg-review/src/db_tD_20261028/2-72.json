@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:02:15.333Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "bored — bored",
+      "1": "boring — bored",
+      "2": "boring — boring",
+      "3": "bore — boring",
+      "4": "bored — boring"
+    },
+    "expl": "핵심 규칙: 감정을 느끼는 상태에는 -ed형을, 감정을 일으키는 원인의 성질에는 -ing형을 쓴다. 사람도 감정의 원인이 될 수 있으므로 무조건 사람=-ed라고 판단하지 않고 문장 속 역할을 따진다.\n풀이 순서: ① 빈칸마다 분사가 설명하는 대상을 찾는다. 첫째는 Mina(감정을 느끼는 사람), 둘째는 The lecture(감정을 일으키는 것)이다. → ② 감정을 느끼는 쪽(주로 사람)에는 -ed, 감정을 일으키는 쪽(주로 사물·일)에는 -ing를 쓴다. → ③ 정답은 bored — boring.\n문장별 판정:\n정답 판단: 첫째는 감정을 느끼는 상태이므로 bored, 둘째는 감정을 일으키는 원인이므로 boring이다. 올바른 짝: bored - boring.\n선택지 분석:\n① [오답] 첫째는 감정을 느끼는 상태이므로 bored, 둘째는 감정을 일으키는 원인이므로 boring이다. bored는 둘째 빈칸의 원인의 성질을 나타내지 않는다. 올바른 짝: bored - boring.\n② [오답] 첫째는 감정을 느끼는 상태이므로 bored, 둘째는 감정을 일으키는 원인이므로 boring이다. boring은 첫째 빈칸의 감정 상태형이 아니다. bored는 둘째 빈칸의 원인의 성질을 나타내지 않는다. 올바른 짝: bored - boring.\n③ [오답] 첫째는 감정을 느끼는 상태이므로 bored, 둘째는 감정을 일으키는 원인이므로 boring이다. boring은 첫째 빈칸의 감정 상태형이 아니다. 올바른 짝: bored - boring.\n④ [오답] 첫째는 감정을 느끼는 상태이므로 bored, 둘째는 감정을 일으키는 원인이므로 boring이다. bore는 첫째 빈칸의 감정 상태형이 아니다. 올바른 짝: bored - boring.\n⑤ [정답] 첫째는 감정을 느끼는 상태이므로 bored, 둘째는 감정을 일으키는 원인이므로 boring이다. 올바른 짝: bored - boring.",
+    "passage": "• Mina looked ____ during the long history lecture this morning.\n• The lecture about old kings was really ____.",
+    "stem": "다음 각 빈칸에 알맞은 bore의 형태를 바르게 짝지은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T16:44:26.701Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:44:31.386Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:02:15.333Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:02:09.012Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:02:15.333Z",
+      "what": "확인 완료"
+    }
+  }
+}

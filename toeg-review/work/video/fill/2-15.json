@@ -1,0 +1,491 @@
+{
+ "A": {
+  "title": "진행형·will·완료형의 형태와 쓰임",
+  "intro": "이 문제는 진행형, will, 완료형이 바르게 쓰인 문장의 개수를 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 어법상 옳은 문장의 개수를 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재진행형(am, is, are + ing형) → 정해 둔 가까운 미래 계획도 나타내요",
+    "will + 동사원형 (will play ○, will plays ✗)",
+    "현재완료(have, has + 과거분사)는 when I was …, yesterday 같은 끝난 과거 시점과 함께 쓰지 않아요",
+    "과거완료(had + 과거분사) → 과거의 어느 때보다 먼저 일어난 일",
+    "예) I lost my umbrella yesterday. (어제 우산을 잃어버렸어요.)"
+   ],
+   "narration": "현재진행형 be동사와 ing형은 가까운 미래의 계획도 나타내고, will 뒤에는 늘 동사원형을 써요. 현재완료 have, has와 과거분사는 과거의 일이 지금과 이어질 때 써서, yesterday 같은 끝난 과거 시점과는 쓰지 않아요. 과거완료 had와 과거분사는 과거의 어느 때보다 먼저 일어난 일에 써요. 예를 들어 I lost my umbrella yesterday, 어제 우산을 잃어버렸어요."
+  },
+  "steps": [
+   {
+    "note": "a) Are you go ✗ → Are you going (현재진행형 의문문) · d) will attends ✗ → will attend",
+    "highlight": [],
+    "strike": [
+     "<u>Are</u> you <u>go</u>",
+     "<u>will attends</u>"
+    ],
+    "narration": "첫째, 에이 문장은 Are you 바로 뒤에 동사원형 go를 쓸 수 없으니 현재진행형 going으로 써야 하고, 디 문장은 will 뒤라서 attends가 아니라 attend를 써야 해요."
+   },
+   {
+    "note": "f) when I was in high school = 끝난 과거 → met · e) since they were children = 그때부터 지금까지 → 현재완료 ○",
+    "highlight": [
+     "when I was in high school",
+     "since they were children"
+    ],
+    "strike": [
+     "<u>have met</u>"
+    ],
+    "narration": "둘째, 에프 문장은 when I was in high school이라는 끝난 과거 시점이 있으니 have met이 아니라 met을 써요. 이 문장 He has known her는 since 뒤에 과거가 와도, 그때부터 지금까지 이어진 일이라 옳아요."
+   },
+   {
+    "note": "b) 세 번 가 본 경험 · c) 우리가 도착하기 전에 이미 떠남 → 과거완료 · 옳은 문장 b), c), e) → 3개",
+    "highlight": [
+     "<u>has been</u> to Paris three times",
+     "<u>had already left</u> when we arrived",
+     "② 3개"
+    ],
+    "strike": [
+     "① 2개",
+     "③ 4개",
+     "④ 5개",
+     "⑤ 6개"
+    ],
+    "narration": "셋째, 비 문장은 세 번 가 본 경험, 씨 문장은 우리가 도착하기 전에 이미 떠난 일이라 둘 다 옳아요. 그래서 옳은 문장은 모두 3개예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 2개  ✗  e) since + 과거 시점은 현재완료와 함께 써요 (옳은 문장)",
+    "② 3개  ✓  옳은 문장은 b), c), e) 세 개",
+    "③ 4개  ✗  f) when I was …는 끝난 과거 → met (have met ✗)",
+    "④ 5개  ✗  d) will 뒤에는 attend (attends ✗)",
+    "⑤ 6개  ✗  a) 현재진행형 의문문 Are you going (go ✗)"
+   ],
+   "narration": "정답은 2번, 3개예요. 에프 문장은 have met만 보고 맞다고 하기 쉽지만, when I was in high school이 끝난 과거라서 met을 써요. 이것을 옳다고 세면 3번이에요. 거꾸로 이 문장 He has known her를 since 뒤의 과거 때문에 틀렸다고 보면 1번이에요."
+  },
+  "summary": {
+   "card": "will 뒤는 동사원형 · 끝난 과거 시점에는 현재완료 대신 과거형",
+   "narration": "정답은 2번이에요. 기억할 것, will 뒤에는 동사원형을 쓰고, 끝난 과거 시점에는 현재완료 대신 과거형을 써요."
+  },
+  "captions": [
+   "진행형·will·완료형",
+   "먼저 풀어 보세요",
+   "시제마다 형태와 쓰임",
+   "틀린 문장 찾고 옳은 문장 세기",
+   "정답 ② 3개",
+   "끝난 과거 시점엔 과거형"
+  ],
+  "sec": [
+   10,
+   17,
+   30,
+   38,
+   22,
+   10
+  ]
+ },
+ "B": {
+  "title": "진행형·will·완료형의 형태와 쓰임",
+  "intro": "이 문제는 진행형, will, 완료형이 바르게 쓰인 문장의 개수를 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 어법상 옳은 문장의 개수를 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재진행형(am, is, are + ing형) → 정해 둔 가까운 미래 계획도 나타내요",
+    "will + 동사원형 (will play ○, will plays ✗)",
+    "현재완료(have, has + 과거분사)는 yesterday 같은 끝난 과거 시점과 함께 쓰지 않아요",
+    "과거완료(had + 과거분사) → 과거의 어느 때보다 먼저 일어난 일",
+    "예) I lost my umbrella yesterday. (어제 우산을 잃어버렸어요.)"
+   ],
+   "narration": "현재진행형 be동사와 ing형은 가까운 미래의 계획도 나타내고, will 뒤에는 늘 동사원형을 써요. 현재완료 have, has와 과거분사는 과거의 일이 지금과 이어질 때 써서, yesterday 같은 끝난 과거 시점과는 쓰지 않아요. 과거완료 had와 과거분사는 과거의 어느 때보다 먼저 일어난 일에 써요. 예를 들어 I lost my umbrella yesterday, 어제 우산을 잃어버렸어요."
+  },
+  "steps": [
+   {
+    "note": "d) will goes ✗ → will go · a) is meeting + tomorrow = 잡혀 있는 약속 → ○",
+    "highlight": [
+     "<u>is meeting</u> the dentist tomorrow"
+    ],
+    "strike": [
+     "<u>will goes</u>"
+    ],
+    "narration": "첫째, 디 문장은 will 뒤라서 goes가 아니라 go를 써야 해요. 에이 문장의 is meeting은 tomorrow와 함께 써도, 잡혀 있는 약속을 나타내는 현재진행형이라 옳아요."
+   },
+   {
+    "note": "f) yesterday = 끝난 과거 → arrived · b) twice 경험, e) for years 계속 → ○",
+    "highlight": [
+     "<u>has visited</u> Canada twice",
+     "<u>have known</u> him for years"
+    ],
+    "strike": [
+     "<u>have arrived</u> yesterday"
+    ],
+    "narration": "둘째, 에프 문장은 yesterday가 끝난 과거 시점이라 have arrived가 아니라 arrived를 써요. 비 문장의 twice는 경험, 이 문장 I have known him의 for years는 계속을 나타내서 둘 다 옳아요."
+   },
+   {
+    "note": "c) 비가 오기 시작하기 전에 이미 떠남 → 과거완료 ○ · 옳은 문장 a), b), c), e) → 4개",
+    "highlight": [
+     "<u>had left</u> before the rain started",
+     "③ 4개"
+    ],
+    "strike": [
+     "① 2개",
+     "② 3개",
+     "④ 5개",
+     "⑤ 6개"
+    ],
+    "narration": "셋째, 씨 문장은 비가 오기 시작한 때보다 먼저 떠났으니 had left가 맞고, 그래서 옳은 문장은 4개예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 2개  ✗  a) is meeting, c) had left도 옳아요",
+    "② 3개  ✗  a) is meeting은 tomorrow의 잡혀 있는 약속 (옳은 문장)",
+    "③ 4개  ✓  옳은 문장은 a), b), c), e) 네 개",
+    "④ 5개  ✗  f) yesterday는 끝난 과거 → arrived (have arrived ✗)",
+    "⑤ 6개  ✗  d) will 뒤에는 go (goes ✗)"
+   ],
+   "narration": "정답은 3번, 4개예요. 에이 문장은 tomorrow가 있어서 틀렸다고 보기 쉽지만, 현재진행형은 정해 둔 미래 계획도 나타내요. 이것을 틀렸다고 보면 2번이에요. 에프 문장의 yesterday를 놓치고 have arrived를 옳다고 세면 4번이에요."
+  },
+  "summary": {
+   "card": "will 뒤는 동사원형 · yesterday 같은 끝난 과거 시점에는 과거형",
+   "narration": "정답은 3번이에요. 기억할 것, will 뒤에는 동사원형을 쓰고, yesterday 같은 끝난 과거 시점에는 현재완료 대신 과거형을 써요."
+  },
+  "captions": [
+   "진행형·will·완료형",
+   "먼저 풀어 보세요",
+   "시제마다 형태와 쓰임",
+   "틀린 문장 찾고 옳은 문장 세기",
+   "정답 ③ 4개",
+   "끝난 과거 시점엔 과거형"
+  ],
+  "sec": [
+   10,
+   17,
+   30,
+   38,
+   22,
+   10
+  ]
+ },
+ "C": {
+  "title": "진행형·will·완료형의 형태와 쓰임",
+  "intro": "이 문제는 진행형, will, 완료형이 바르게 쓰인 문장의 개수를 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 어법상 옳은 문장의 개수를 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재진행형(am, is, are + ing형) → 정해 둔 가까운 미래 계획도 나타내요",
+    "will + 동사원형 (will play ○, will plays ✗)",
+    "현재완료(have, has + 과거분사)는 yesterday 같은 끝난 과거 시점과 함께 쓰지 않아요",
+    "과거완료(had + 과거분사) → 과거의 어느 때보다 먼저 일어난 일",
+    "예) I lost my umbrella yesterday. (어제 우산을 잃어버렸어요.)"
+   ],
+   "narration": "현재진행형 be동사와 ing형은 가까운 미래의 계획도 나타내고, will 뒤에는 늘 동사원형을 써요. 현재완료 have, has와 과거분사는 과거의 일이 지금과 이어질 때 써서, yesterday 같은 끝난 과거 시점과는 쓰지 않아요. 과거완료 had와 과거분사는 과거의 어느 때보다 먼저 일어난 일에 써요. 예를 들어 I lost my umbrella yesterday, 어제 우산을 잃어버렸어요."
+  },
+  "steps": [
+   {
+    "note": "d) will studies ✗ → will study · a) are leaving + tonight = 정해 둔 계획 → ○",
+    "highlight": [
+     "<u>are leaving</u> for the airport early tonight"
+    ],
+    "strike": [
+     "<u>will studies</u>"
+    ],
+    "narration": "첫째, 디 문장은 will 뒤라서 studies가 아니라 study를 써야 해요. 에이 문장의 are leaving은 tonight의 정해 둔 계획을 나타내는 현재진행형이라 옳아요."
+   },
+   {
+    "note": "f) last night = 끝난 과거 → called · b) three times 경험, e) since 2021 계속 → ○",
+    "highlight": [
+     "last night",
+     "three times",
+     "since 2021"
+    ],
+    "strike": [
+     "<u>has called</u>"
+    ],
+    "narration": "둘째, 에프 문장은 last night이 끝난 과거 시점이라 has called가 아니라 called를 써요. 비 문장의 three times는 경험, 이 문장 They have lived의 since 2021은 계속을 나타내서 둘 다 옳아요."
+   },
+   {
+    "note": "c) 수업이 시작되기 전에 이미 먹음 → 과거완료 ○ · 옳은 문장 a), b), c), e) → 4개",
+    "highlight": [
+     "<u>had eaten</u>",
+     "③ 4개"
+    ],
+    "strike": [
+     "① 2개",
+     "② 3개",
+     "④ 5개",
+     "⑤ 6개"
+    ],
+    "narration": "셋째, 씨 문장은 수업이 시작되기 전에 이미 먹은 일이라 had eaten이 맞고, 그래서 옳은 문장은 4개예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 2개  ✗  a) are leaving, e) have lived도 옳아요",
+    "② 3개  ✗  e) since 2021 = 그때부터 지금까지 → have lived (옳은 문장)",
+    "③ 4개  ✓  옳은 문장은 a), b), c), e) 네 개",
+    "④ 5개  ✗  f) last night은 끝난 과거 → called (has called ✗)",
+    "⑤ 6개  ✗  d) will 뒤에는 study (studies ✗)"
+   ],
+   "narration": "정답은 3번, 4개예요. 에프 문장의 last night을 놓치고 has called를 옳다고 세면 4번이에요. 이 문장 They have lived는 2021년이 과거라서 틀렸다고 보기 쉽지만, since 2021은 그때부터 지금까지라는 뜻이라 현재완료가 맞아요. 이것을 틀렸다고 보면 2번이에요."
+  },
+  "summary": {
+   "card": "will 뒤는 동사원형 · last night 같은 끝난 과거 시점에는 과거형",
+   "narration": "정답은 3번이에요. 기억할 것, will 뒤에는 동사원형을 쓰고, last night 같은 끝난 과거 시점에는 현재완료 대신 과거형을 써요."
+  },
+  "captions": [
+   "진행형·will·완료형",
+   "먼저 풀어 보세요",
+   "시제마다 형태와 쓰임",
+   "틀린 문장 찾고 옳은 문장 세기",
+   "정답 ③ 4개",
+   "끝난 과거 시점엔 과거형"
+  ],
+  "sec": [
+   10,
+   17,
+   30,
+   38,
+   22,
+   10
+  ]
+ },
+ "D": {
+  "title": "진행형·will·완료형의 형태와 쓰임",
+  "intro": "이 문제는 진행형, will, 완료형이 바르게 쓰인 문장의 개수를 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 어법상 옳은 문장의 개수를 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재진행형(am, is, are + ing형) → 정해 둔 가까운 미래 계획도 나타내요",
+    "will + 동사원형 (will be, will play)",
+    "현재완료(have, has + 과거분사): 3인칭 단수 주어 → has, 그 밖의 주어 → have",
+    "과거완료(had + 과거분사) → 과거의 어느 때보다 먼저 일어난 일",
+    "예) She has finished her homework. (그녀는 숙제를 다 끝냈어요.)"
+   ],
+   "narration": "현재진행형 be동사와 ing형은 가까운 미래의 계획도 나타내고, will 뒤에는 늘 동사원형을 써요. 현재완료 have, has와 과거분사는 과거의 일이 지금과 이어질 때 쓰는데, 주어가 3인칭 단수면 has, 그 밖에는 have예요. 과거완료 had와 과거분사는 과거의 어느 때보다 먼저 일어난 일에 써요. 예를 들어 She has finished her homework, 그녀는 숙제를 다 끝냈어요."
+  },
+  "steps": [
+   {
+    "note": "e) 주어 They = 복수 → have (has ✗)",
+    "highlight": [],
+    "strike": [
+     "They <u>has lived</u>"
+    ],
+    "narration": "첫째, 이 문장 They has lived는 주어 They가 복수라서 has가 아니라 have를 써야 해요."
+   },
+   {
+    "note": "a) is flying + tomorrow = 정해 둔 계획 → ○ · d) will 뒤 동사원형 be → ○",
+    "highlight": [
+     "<u>is flying</u>",
+     "<u>will be</u>"
+    ],
+    "strike": [],
+    "narration": "둘째, 에이 문장의 is flying은 tomorrow의 정해 둔 계획을 나타내는 현재진행형이고, 디 문장은 will 뒤에 동사원형 be를 써서 둘 다 옳아요."
+   },
+   {
+    "note": "b) 끝낸 결과 → 현재완료 · c) 전화하기 전에 이미 집에 감 → 과거완료 · f) yesterday morning → 과거형 met · 옳은 문장 5개",
+    "highlight": [
+     "<u>have finished</u>",
+     "<u>had gone</u> home before I called her last night",
+     "<u>met</u> him at the bus stop yesterday morning",
+     "④ 5개"
+    ],
+    "strike": [
+     "① 2개",
+     "② 3개",
+     "③ 4개",
+     "⑤ 6개"
+    ],
+    "narration": "셋째, 비 문장은 끝낸 결과를 나타내는 현재완료, 씨 문장은 전화한 것보다 먼저 집에 간 과거완료, 에프 문장은 yesterday morning에 맞춘 과거형이라 모두 옳아요. 그래서 옳은 문장은 5개예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 2개  ✗  a) is flying, c) had gone, f) met도 모두 옳아요",
+    "② 3개  ✗  a) is flying, c) had gone도 옳아요",
+    "③ 4개  ✗  c) had gone은 전화하기 전에 이미 간 일 (옳은 문장)",
+    "④ 5개  ✓  틀린 문장은 e) 하나 → 옳은 문장 다섯 개",
+    "⑤ 6개  ✗  e) 주어 They에는 have (has ✗)"
+   ],
+   "narration": "정답은 4번, 5개예요. 이 문장 They has lived를 놓치고 모두 옳다고 세면 5번이에요. 씨 문장은 last night이 있어도, 전화한 것보다 먼저 집에 간 일이라 과거완료 had gone이 맞아요. 이것을 틀렸다고 보면 3번이에요."
+  },
+  "summary": {
+   "card": "현재완료는 주어에 맞춰요: 3인칭 단수 → has, 그 밖의 주어 → have",
+   "narration": "정답은 4번이에요. 기억할 것, 현재완료는 주어가 3인칭 단수일 때 has를 쓰고, 그 밖의 주어에는 have를 써요."
+  },
+  "captions": [
+   "진행형·will·완료형",
+   "먼저 풀어 보세요",
+   "시제마다 형태와 쓰임",
+   "틀린 문장 찾고 옳은 문장 세기",
+   "정답 ④ 5개",
+   "3인칭 단수 has, 그 밖엔 have"
+  ],
+  "sec": [
+   10,
+   17,
+   30,
+   38,
+   22,
+   10
+  ]
+ },
+ "E": {
+  "title": "진행형·will·완료형의 형태와 쓰임",
+  "intro": "이 문제는 진행형, will, 완료형이 바르게 쓰인 문장의 개수를 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 어법상 옳은 문장의 개수를 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재진행형(am, is, are + ing형) → 정해 둔 가까운 미래 계획도 나타내요",
+    "will + 동사원형: 주어가 he, she여도 will play (will plays ✗)",
+    "현재완료(have, has + 과거분사)는 yesterday 같은 끝난 과거 시점과 함께 쓰지 않아요",
+    "과거완료(had + 과거분사) → 과거의 어느 때보다 먼저 일어난 일",
+    "예) She will visit her aunt. (그녀는 이모를 찾아갈 거예요.)"
+   ],
+   "narration": "현재진행형 be동사와 ing형은 가까운 미래의 계획도 나타내고, will 뒤에는 주어가 he, she여도 동사원형을 써요. 현재완료 have, has와 과거분사는 과거의 일이 지금과 이어질 때 쓰고, 끝난 과거 시점과는 쓰지 않아요. 과거완료 had와 과거분사는 과거의 어느 때보다 먼저 일어난 일에 써요. 예를 들어 She will visit her aunt, 그녀는 이모를 찾아갈 거예요."
+  },
+  "steps": [
+   {
+    "note": "d) 주어 Tom이 3인칭 단수여도 will 뒤는 동사원형 → will come (comes ✗)",
+    "highlight": [],
+    "strike": [
+     "<u>will comes</u>"
+    ],
+    "narration": "첫째, 디 문장은 주어 Tom이 3인칭 단수여도 will 뒤에는 동사원형을 쓰니, comes가 아니라 come이에요."
+   },
+   {
+    "note": "a) am having + tomorrow = 잡혀 있는 약속 → ○ · e) since last May = 그때부터 지금까지 → 현재완료 ○",
+    "highlight": [
+     "<u>am having</u>",
+     "since last May"
+    ],
+    "strike": [],
+    "narration": "둘째, 에이 문장의 am having은 tomorrow의 잡혀 있는 약속을 나타내는 현재진행형이에요. 이 문장 Jane has worked는 since last May, 지난 5월부터 지금까지 이어진 일이라 현재완료가 맞아요."
+   },
+   {
+    "note": "b) 경험 · c) 그가 도착하기 전에 먼저 시작 → 과거완료 · f) last week → 과거형 saw · 옳은 문장 5개",
+    "highlight": [
+     "<u>has been</u> to Rome once",
+     "<u>had started</u>",
+     "<u>saw</u>",
+     "④ 5개"
+    ],
+    "strike": [
+     "① 2개",
+     "② 3개",
+     "③ 4개",
+     "⑤ 6개"
+    ],
+    "narration": "셋째, 비 문장은 경험, 씨 문장은 그가 도착하기 전에 먼저 시작한 과거완료, 에프 문장은 last week에 맞춘 과거형이라 모두 옳아요. 그래서 옳은 문장은 5개예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 2개  ✗  a) am having, e) has worked, f) saw도 모두 옳아요",
+    "② 3개  ✗  a) am having, e) has worked도 옳아요",
+    "③ 4개  ✗  e) since last May = 그때부터 지금까지 → has worked (옳은 문장)",
+    "④ 5개  ✓  틀린 문장은 d) 하나 → 옳은 문장 다섯 개",
+    "⑤ 6개  ✗  d) will 뒤에는 come (comes ✗)"
+   ],
+   "narration": "정답은 4번, 5개예요. 디 문장은 Tom이 3인칭 단수라서 comes가 맞다고 보기 쉽지만, will 뒤에는 늘 동사원형이에요. 이것을 옳다고 세면 5번이에요. 이 문장 Jane has worked는 last May가 과거라서 틀렸다고 보기 쉽지만, since가 있어서 지금까지 이어진 일이에요. 이것을 틀렸다고 보면 3번이에요."
+  },
+  "summary": {
+   "card": "will 뒤에는 주어와 상관없이 동사원형 (will come)",
+   "narration": "정답은 4번이에요. 기억할 것, will 뒤에는 주어가 무엇이든 동사원형을 써요."
+  },
+  "captions": [
+   "진행형·will·완료형",
+   "먼저 풀어 보세요",
+   "시제마다 형태와 쓰임",
+   "틀린 문장 찾고 옳은 문장 세기",
+   "정답 ④ 5개",
+   "will 뒤는 늘 동사원형"
+  ],
+  "sec": [
+   10,
+   17,
+   30,
+   38,
+   22,
+   10
+  ]
+ },
+ "F": {
+  "title": "진행형·will·완료형의 형태와 쓰임",
+  "intro": "이 문제는 진행형, will, 완료형이 바르게 쓰인 문장의 개수를 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 어법상 옳은 문장의 개수를 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재진행형(am, is, are + ing형) → 정해 둔 가까운 미래 계획도 나타내요",
+    "will + 동사원형 (will play ○, will plays ✗)",
+    "현재완료(have, has + 과거분사)는 yesterday 같은 끝난 과거 시점과 함께 쓰지 않아요",
+    "과거완료(had + 과거분사) → 과거의 어느 때보다 먼저 일어난 일",
+    "예) We watched a movie last night. (어젯밤에 영화를 봤어요.)"
+   ],
+   "narration": "현재진행형 be동사와 ing형은 가까운 미래의 계획도 나타내고, will 뒤에는 늘 동사원형을 써요. 현재완료 have, has와 과거분사는 과거의 일이 지금과 이어질 때 써서, yesterday 같은 끝난 과거 시점과는 쓰지 않아요. 과거완료 had와 과거분사는 과거의 어느 때보다 먼저 일어난 일에 써요. 예를 들어 We watched a movie last night, 어젯밤에 영화를 봤어요."
+  },
+  "steps": [
+   {
+    "note": "f) yesterday = 끝난 과거 → met (has met ✗)",
+    "highlight": [
+     "yesterday"
+    ],
+    "strike": [
+     "<u>has met</u>"
+    ],
+    "narration": "첫째, 에프 문장에는 yesterday라는 끝난 과거 시점이 있으니, has met이 아니라 과거형 met을 써야 해요."
+   },
+   {
+    "note": "a) are visiting + this weekend = 정해 둔 계획 → ○ · d) will 뒤 동사원형 call → ○",
+    "highlight": [
+     "<u>are visiting</u>",
+     "<u>will call</u>"
+    ],
+    "strike": [],
+    "narration": "둘째, 에이 문장의 are visiting은 this weekend의 정해 둔 계획을 나타내는 현재진행형이고, 디 문장은 will 뒤에 동사원형 call을 써서 둘 다 옳아요."
+   },
+   {
+    "note": "b) 잃어버려 지금도 없음(결과) · c) 정오보다 먼저 끝냄 → 과거완료 · e) for ten years 계속 · 옳은 문장 5개",
+    "highlight": [
+     "<u>have lost</u>",
+     "<u>had finished</u>",
+     "<u>have lived</u>",
+     "④ 5개"
+    ],
+    "strike": [
+     "① 2개",
+     "② 3개",
+     "③ 4개",
+     "⑤ 6개"
+    ],
+    "narration": "셋째, 비 문장은 잃어버려서 지금도 없는 결과, 씨 문장은 정오보다 먼저 끝낸 과거완료, 이 문장 We have lived는 for ten years와 함께 쓴 계속이라 모두 옳아요. 그래서 옳은 문장은 5개예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 2개  ✗  a) are visiting, b) have lost, c) had finished도 모두 옳아요",
+    "② 3개  ✗  a) are visiting, c) had finished도 옳아요",
+    "③ 4개  ✗  a) are visiting은 this weekend의 정해 둔 계획 (옳은 문장)",
+    "④ 5개  ✓  틀린 문장은 f) 하나 → 옳은 문장 다섯 개",
+    "⑤ 6개  ✗  f) yesterday에는 met (has met ✗)"
+   ],
+   "narration": "정답은 4번, 5개예요. 에프 문장의 yesterday를 놓치고 has met을 옳다고 세면 5번이에요. 에이 문장은 this weekend가 미래라서 틀렸다고 보기 쉽지만, 현재진행형은 정해 둔 가까운 미래 계획도 나타내요. 이것을 틀렸다고 보면 3번이에요."
+  },
+  "summary": {
+   "card": "yesterday 같은 끝난 과거 시점에는 현재완료 대신 과거형",
+   "narration": "정답은 4번이에요. 기억할 것, yesterday 같은 끝난 과거 시점에는 현재완료가 아니라 과거형을 써요."
+  },
+  "captions": [
+   "진행형·will·완료형",
+   "먼저 풀어 보세요",
+   "시제마다 형태와 쓰임",
+   "틀린 문장 찾고 옳은 문장 세기",
+   "정답 ④ 5개",
+   "끝난 과거 시점엔 과거형"
+  ],
+  "sec": [
+   10,
+   17,
+   30,
+   38,
+   22,
+   10
+  ]
+ }
+}

@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T02:21:30.316Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "A: Does your dad cook? B: Yes, he does.",
+      "1": "A: Are you hungry? B: No, I don't.",
+      "2": "A: Is it your bag? B: Yes, it does.",
+      "3": "A: Do they play tennis? B: Yes, they are.",
+      "4": "A: Is Jane at home? B: No, she aren't."
+    },
+    "expl": "핵심 규칙: be동사 의문문에는 be동사로, Do/Does 의문문에는 do/does로 답하며, 대답의 주어는 질문의 주어에 맞춘다(you → I, this → it).\n풀이 순서: ① 질문의 첫 낱말을 본다. be동사로 물으면 be동사로, Do/Does로 물으면 do/does로 답한다. → ② 대답의 주어와 동사가 서로 맞는지 본다. → ③ 선택지 ①만 Does your dad ~? - he does로 맞는다. 정답은 ①.\n문장별 판정:\n정답 판단: 질문의 동사와 주어에 맞게 바르게 대답했으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 질문의 동사와 주어에 맞게 바르게 대답했으므로 정답이다.\n② [오답] be동사 의문문에는 I'm not으로 답하므로 오답이다.\n③ [오답] be동사 의문문에는 is로 답하므로 오답이다.\n④ [오답] Do 의문문에는 do로 답하므로 오답이다.\n⑤ [오답] 주어 she에는 isn't로 답하므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:21:29.605Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:21:30.316Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차: 길이)",
+  "done": true,
+  "doneAt": "2026-10-26T04:56:26.578Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "Question 1 was the easiest question of all twenty questions on the paper.",
+      "1": "Question 1 was the easier question of all twenty questions on the paper.",
+      "2": "Question 1 was the very easy question of all twenty questions on the paper.",
+      "3": "Question 1 was the most easy question of all twenty questions on the paper.",
+      "4": "Question 1 was easier question of all twenty questions on the paper."
+    },
+    "expl": "핵심 규칙: than 앞에는 비교급, the ~ of 구문에는 최상급을 쓴다. 짧은 단어는 -er·-est를 붙이고 more·most를 겹쳐 쓰지 않으며, very는 비교급을 꾸미지 않는다.\n풀이 순서: ① 밑줄 친 문장에서 틀린 곳을 찾는다: the most easiest. → ② most와 -est를 겹쳐 쓸 수 없으므로 the easiest만 쓴다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: easy의 최상급 easiest로 바르게 고쳤으므로 정답은 ①이다.\n선택지 분석:\n① [정답] easy의 최상급 easiest로 바르게 고쳤으므로 정답이다.\n② [오답] of all(모든 것 중)에는 비교급이 아니라 최상급을 쓰므로 오답이다.\n③ [오답] very easy는 최상급이 아니므로 오답이다.\n④ [오답] easy의 최상급은 most easy가 아니라 easiest이므로 오답이다.\n⑤ [오답] of all에는 the + 최상급을 쓰므로 오답이다.",
+    "passage": "We took a math test in the second period this morning. There were twenty questions on the test paper. <u>Question 1 was the most easiest question of all twenty questions on the paper</u>. But the last question was very hard for everyone. Only two students in our class got it right.",
+    "stem": "다음 글에서 밑줄 친 문장을 어법상 올바르게 고친 것은?"
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T04:56:26.578Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:56:26.578Z",
+      "what": "확인 완료"
+    }
+  }
+}

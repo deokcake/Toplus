@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T02:44:26.082Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "1개",
+      "1": null,
+      "2": "3개",
+      "3": null,
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 현재완료는 현재와 연결된 기간·결과·완료를 나타낸다. yesterday·last night·ago처럼 끝난 과거 시점이나 때를 묻는 when 의문문에는 단순과거를 쓴다. do/does/did 뒤 본동사는 원형이다.\n풀이 순서: ① 문장마다 시간 표현과 시제를 견준다. yesterday, ago, last night 같은 끝난 과거 시점이나 When 의문문에는 현재완료를 쓰지 않는다. → ② Do/Does 의문문은 주어 뒤 동사가 원형인지 본다. → ③ (가)는 last Monday, (마)는 When과 yesterday 때문에 현재완료를 쓸 수 없고, (나)는 Does 뒤에 walks를 썼다. (다), (라)만 옳다. 옳은 문장은 2개이다.\n문장별 판정:\n(가) X. 끝난 과거 시점(last Monday)에는 단순과거를 쓴다. 교정문: She saw him last Monday.\n(나) X. 조동사(Does) 뒤의 본동사는 원형이어야 한다. 교정문: Does he always walk to school?\n(다) O. 5월부터 지금까지(since May) 일해 온 기간이므로 현재완료(has worked)가 맞다.\n(라) O. 이미 먹었다는 완료를 현재완료(have already eaten)로 나타냈다.\n(마) X. 과거 시점(yesterday)의 때를 묻는 의문문에는 현재완료를 쓰지 않는다. 교정문: When did you call her yesterday?\n정답 판단: 옳은 문장은 (다), (라)로 2개이다.\n선택지 분석:\n① [오답] 옳은 문장은 (다), (라)로 2개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [정답] 옳은 문장은 (다), (라)로 2개이다. 이 보기의 2개는 실제 개수와 일치한다.\n③ [오답] 옳은 문장은 (다), (라)로 2개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 옳은 문장은 (다), (라)로 2개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 옳은 문장은 (다), (라)로 2개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "(가) She has seen him last Monday.\n(나) Does he always walks to school?\n(다) Tom has worked here since May.\n(라) I have already eaten.\n(마) When have you called her yesterday?",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T02:43:57.974Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T02:44:26.082Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T02:44:26.082Z",
+      "what": "확인 완료"
+    }
+  }
+}

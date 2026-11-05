@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T09:51:04.738Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "A: Have you seen this movie before?\nB: Yes, I have seen it twice.",
+      "1": "A: How long have you studied English?\nB: I have studied it for six years.",
+      "2": "A: Will Jane come to the meeting?\nB: Yes, she will come after lunch.",
+      "3": null,
+      "4": "A: When did your cousins leave?\nB: They left on Tuesday morning."
+    },
+    "expl": "핵심 규칙: 현재완료는 ago, yesterday, last night, at noon처럼 끝난 과거 시점을 나타내는 말이나 When did ~?에 대한 대답에 쓸 수 없다. 이때는 과거형을 쓴다.\n풀이 순서: ① 대화마다 A가 묻는 시제와 B가 답하는 시제가 맞는지, 대답 속 시간 표현과 어울리는지 본다. → ② 대답에 ago, yesterday, last night 같은 끝난 과거 시점이 있으면 과거형이어야 한다. → ③ 선택지 ④의 B는 과거 시점 표현(on Monday)이 있는데 현재완료(have arrived)를 썼다. 과거형(arrived)이 맞다.\n문장별 판정:\n정답 판단: on Monday라는 과거 시점과 현재완료를 함께 쓸 수 없다. They arrived on Monday.로 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 경험을 현재완료로 묻고 답해 올바르므로 오답이다.\n② [오답] 지금까지의 기간을 현재완료로 묻고 답해 올바르므로 오답이다.\n③ [오답] 앞으로의 일을 will로 묻고 답해 올바르므로 오답이다.\n④ [정답] on Monday라는 과거 시점과 현재완료를 함께 쓸 수 없다. They arrived on Monday.로 써야 하므로 정답이다.\n⑤ [오답] 과거의 일을 과거형으로 묻고 답해 올바르므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T09:49:00.753Z"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T09:51:04.738Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T09:51:04.738Z",
+      "what": "확인 완료"
+    }
+  }
+}

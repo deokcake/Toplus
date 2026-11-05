@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:16:28.994Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: How many+가산 복수명사는 개수를, How much+불가산명사는 양을 묻는다. How long/far/often은 각각 기간·길이/거리/빈도를 묻는다.\n풀이 순서: ① 빈칸 뒤 명사가 셀 수 있는지 본다(milk, 셀 수 없음). → ② 셀 수 없는 명사의 양은 How much, 셀 수 있는 복수 명사의 수는 How many로 묻는다. → ③ 정답은 much.\n문장별 판정:\n정답 판단: milk는 이 문맥에서 불가산명사이므로 How much milk가 맞다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] many는 가산 복수명사의 수량에 쓰므로 이 문장의 milk와 맞지 않는다. much가 필요하다.\n② [오답] How long은 기간·길이를 묻는다. 이 자리에서는 milk의 수량을 물으므로 How much를 쓴다.\n③ [오답] How far은 거리를 묻는다. 이 자리에서는 milk의 수량을 물으므로 How much를 쓴다.\n④ [정답] milk는 이 문맥에서 불가산명사이므로 How much milk가 맞다.\n⑤ [오답] How often은 빈도를 묻는다. 이 자리에서는 milk의 수량을 물으므로 How much를 쓴다.",
+    "passage": "How ______ milk do you drink every day?",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T08:16:27.352Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T08:16:28.994Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T08:16:28.994Z",
+      "what": "확인 완료"
+    }
+  }
+}

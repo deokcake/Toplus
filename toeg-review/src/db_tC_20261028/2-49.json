@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T03:24:58.901Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A) ourselves - (B) yourself",
+      "1": "(A) themselves - (B) myself",
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 재귀대명사는 주어와 같은 대상을 가리키며 주어의 인칭·수에 맞춘다. by oneself는 ‘혼자서, 스스로’라는 뜻이다.\n풀이 순서: ① 재귀대명사는 그 문장의 주어와 같은 대상을 가리킨다. 두 문장의 주어를 찾는다. → ② (A)의 주어(All children)는 3인칭 복수이므로 themselves다. (B)의 주어(you = Mina 한 사람)에 맞는 것은 yourself다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: (A)는 복수 주어(All children)와 같은 사람들을 가리키므로 themselves이다. (B)는 한 사람(Mina)에게 말하는 you이므로 yourself이다.\n선택지 분석:\n① [오답] (A) ourselves: 1인칭 복수라 3인칭 주어와 맞지 않는다. 따라서 오답이다.\n② [오답] (B) myself: 1인칭이라 주어(you)와 맞지 않는다. 따라서 오답이다.\n③ [오답] (B) yourselves: 여러 사람에게 말할 때 쓰므로 한 사람(Mina)에게는 맞지 않는다. 따라서 오답이다.\n④ [정답] (A)는 복수 주어(All children)와 같은 사람들을 가리키므로 themselves이다. (B)는 한 사람(Mina)에게 말하는 you이므로 yourself이다. 두 자리가 모두 알맞으므로 정답이다.\n⑤ [오답] (A) himself: 한 사람을 가리키는 말이라 복수 주어와 맞지 않는다. (B) ourselves: 1인칭 복수라 주어(you)와 맞지 않는다. 따라서 오답이다.",
+    "passage": "All children should be proud of (<u>     A     </u>).\nMina, you should believe in (<u>     B     </u>).",
+    "stem": "다음 문장의 빈칸 (A), (B)에 들어갈 재귀대명사가 바르게 연결된 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T03:24:47.603Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T03:24:58.901Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T03:24:58.901Z",
+      "what": "확인 완료"
+    }
+  }
+}

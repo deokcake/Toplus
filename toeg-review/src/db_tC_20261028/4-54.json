@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:26:35.905Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "She will <u>visit</u> us soon.",
+      "1": "I have to <u>wear</u> glasses.",
+      "2": "May I <u>open</u> the window?",
+      "3": "Tom should <u>goes</u> to bed early.",
+      "4": "You must <u>stop</u> here."
+    },
+    "expl": "핵심 규칙: 조동사(can, may, must, might, will, should)와 have to 뒤에는 to나 -s·-ing·과거형 없이 동사원형을 쓴다. be동사도 원형 be를 쓴다.\n풀이 순서: ① 밑줄 친 동사 바로 앞의 조동사를 찾는다. → ② 조동사 뒤는 주어가 무엇이든 동사원형이다. -s, -ing, to, 과거형이 붙은 것을 찾는다. → ③ 선택지 ④는 should 뒤에 goes를 썼다. go로 고친다. 정답은 ④.\n문장별 판정:\n정답 판단: should 뒤에는 동사원형 go를 쓰므로 정답은 ④이다.\n선택지 분석:\n① [오답] 조동사 뒤에 동사원형을 바르게 썼으므로 오답이다.\n② [오답] 조동사 뒤에 동사원형을 바르게 썼으므로 오답이다.\n③ [오답] 조동사 뒤에 동사원형을 바르게 썼으므로 오답이다.\n④ [정답] should 뒤에는 동사원형 go를 쓰므로 정답이다.\n⑤ [오답] 조동사 뒤에 동사원형을 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:26:33.255Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:26:35.905Z",
+      "what": "확인 완료"
+    }
+  }
+}

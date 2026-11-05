@@ -1,0 +1,452 @@
+{
+ "A": {
+  "title": "be동사와 일반동사의 현재 부정문",
+  "intro": "이 문제는 be동사와 일반동사의 현재 부정문 가운데 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 부정문: am, are, is 뒤에 not (is not → isn't, are not → aren't)",
+    "일반동사 현재 부정문: 동사 앞에 don't 또는 doesn't",
+    "3인칭 단수 주어(he, she, it, Tom 등) → doesn't · 그 밖의 주어 → don't",
+    "don't, doesn't 뒤에는 늘 동사원형",
+    "예) My cat doesn't eat fish. (우리 고양이는 생선을 먹지 않아요.)"
+   ],
+   "narration": "be동사 am, are, is 뒤에 not을 붙이면 ‘아니다’, ‘있지 않다’ 같은 뜻의 부정문이 되고, is not은 isn't, are not은 aren't로 줄여 쓸 수 있어요. 일반동사 현재형은 동사 앞에 don't나 doesn't를 써서 ‘하지 않는다’라는 뜻의 부정문을 만들어요. 주어가 3인칭 단수, 곧 he, she, it이나 Tom처럼 나도 너도 아닌 한 사람이나 한 개이면 doesn't를 쓰고, 그 밖의 주어에는 don't를 써요. 그리고 don't와 doesn't 뒤에는 늘 동사원형을 써요. My cat doesn't eat fish. 우리 고양이는 생선을 먹지 않아요."
+  },
+  "steps": [
+   {
+    "note": "be동사 부정문 ①④: 여럿인 They → aren't, 한 사람인 Betty → isn't → 맞다",
+    "highlight": [
+     "① They aren't",
+     "④ Betty isn't"
+    ],
+    "strike": [],
+    "narration": "첫째, be동사 부정문인 1번과 4번을 보면, 여럿인 They에는 aren't, 한 사람인 Betty에는 isn't를 써서 둘 다 맞아요."
+   },
+   {
+    "note": "일반동사 부정문 ②⑤: I → don’t + want, 3인칭 단수 Sam → doesn’t + like → 주어와 맞고 뒤는 동사원형 → 맞다",
+    "highlight": [
+     "② I don’t want",
+     "⑤ Sam doesn’t like"
+    ],
+    "strike": [],
+    "narration": "둘째, 일반동사 부정문인 2번과 5번은 주어 I에 don't, 3인칭 단수 Sam에 doesn't를 쓰고, 뒤에 동사원형 want와 like를 써서 맞아요."
+   },
+   {
+    "note": "③ 3인칭 단수 Billy → doesn't는 맞지만 뒤에 washes ✗ → wash. 틀린 문장은 ③",
+    "highlight": [
+     "③ Billy doesn't"
+    ],
+    "strike": [
+     "washes"
+    ],
+    "narration": "셋째, 3번은 3인칭 단수 Billy에 doesn't를 쓴 것은 맞지만, 뒤에 동사원형이 아닌 washes를 썼으니 wash로 고쳐야 해요. Billy doesn't wash his hands. 빌리는 손을 씻지 않아요. 따라서 틀린 문장은 3번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① They aren't at home.  ✗  여럿인 They에 aren't → 맞는 문장",
+    "② I don’t want to study math.  ✗  I에 don't + 동사원형 want → 맞는 문장",
+    "③ Billy doesn't washes his hands.  ✓  doesn't 뒤는 동사원형 → washes를 wash로 (틀린 문장)",
+    "④ Betty isn't a teacher.  ✗  한 사람인 Betty에 isn't → 맞는 문장",
+    "⑤ Sam doesn’t like her anymore.  ✗  3인칭 단수 Sam에 doesn't + 동사원형 like → 맞는 문장"
+   ],
+   "narration": "정답은 3번이에요. Billy는 3인칭 단수라 doesn't는 맞지만, doesn't 뒤에는 washes가 아니라 동사원형 wash를 써야 해요. 5번 Sam도 3인칭 단수라 likes를 써야 한다고 생각하기 쉽지만, doesn't 뒤라서 동사원형 like가 맞아요. 2번은 주어 I에 don't를 쓰고 뒤에 동사원형 want를 써서 맞아요. 1번은 여럿인 They에 aren't를 써서 맞아요."
+  },
+  "summary": {
+   "card": "be동사 뒤에 not · 3인칭 단수는 doesn't, 그 밖은 don't · 그 뒤에는 늘 동사원형",
+   "narration": "정답은 3번이에요. 기억할 것, 주어가 3인칭 단수여도 doesn't 뒤에는 s나 es가 붙지 않은 동사원형을 써요."
+  },
+  "captions": [
+   "부정문 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "be동사·일반동사의 부정문",
+   "be동사 → 일반동사 → ③",
+   "정답 ③ washes → wash",
+   "doesn't 뒤에는 동사원형"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   34,
+   26,
+   10
+  ]
+ },
+ "B": {
+  "title": "be동사와 일반동사의 현재 부정문",
+  "intro": "이 문제는 be동사와 일반동사의 현재 부정문 가운데 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 부정문: am, are, is 뒤에 not (is not → isn't, are not → aren't)",
+    "일반동사 현재 부정문: 동사 앞에 don't 또는 doesn't",
+    "3인칭 단수 주어(he, she, it, Tom 등) → doesn't · 그 밖의 주어 → don't",
+    "don't, doesn't 뒤에는 늘 동사원형",
+    "예) My brother doesn't ride a bike. (내 남동생은 자전거를 타지 않아요.)"
+   ],
+   "narration": "be동사 am, are, is 뒤에 not을 붙이면 ‘아니다’, ‘있지 않다’ 같은 뜻의 부정문이 되고, is not은 isn't, are not은 aren't로 줄여 쓸 수 있어요. 일반동사 현재형은 동사 앞에 don't나 doesn't를 써서 ‘하지 않는다’라는 뜻의 부정문을 만들어요. 주어가 3인칭 단수, 곧 he, she, it이나 Tom처럼 나도 너도 아닌 한 사람이나 한 개이면 doesn't를 쓰고, 그 밖의 주어에는 don't를 써요. 그리고 don't와 doesn't 뒤에는 늘 동사원형을 써요. My brother doesn't ride a bike. 내 남동생은 자전거를 타지 않아요."
+  },
+  "steps": [
+   {
+    "note": "be동사 부정문 ①③: 여럿인 They → aren't, I → am not(줄여서 I'm not) → 맞다",
+    "highlight": [
+     "① They aren't",
+     "③ I'm not"
+    ],
+    "strike": [],
+    "narration": "첫째, be동사 부정문인 1번과 3번을 보면, 여럿인 They에는 aren't, 주어 I에는 I am not을 줄인 I'm not을 써서 둘 다 맞아요."
+   },
+   {
+    "note": "일반동사 부정문 ②④: 3인칭 단수 Tom, The dog → doesn't + drink, bark → 맞다",
+    "highlight": [
+     "② Tom doesn't drink",
+     "④ The dog doesn't bark"
+    ],
+    "strike": [],
+    "narration": "둘째, 일반동사 부정문인 2번과 4번은 3인칭 단수 Tom과 The dog에 doesn't를 쓰고, 뒤에 동사원형 drink와 bark를 써서 맞아요."
+   },
+   {
+    "note": "⑤ 3인칭 단수 Mina → doesn't는 맞지만 뒤에 studies ✗ → study. 틀린 문장은 ⑤",
+    "highlight": [
+     "⑤ Mina doesn't"
+    ],
+    "strike": [
+     "studies"
+    ],
+    "narration": "셋째, 5번은 3인칭 단수 Mina에 doesn't를 쓴 것은 맞지만, 뒤에 동사원형이 아닌 studies를 썼으니 study로 고쳐야 해요. Mina doesn't study after dinner. 미나는 저녁을 먹은 뒤에 공부하지 않아요. 따라서 틀린 문장은 5번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① They aren't hungry.  ✗  여럿인 They에 aren't → 맞는 문장",
+    "② Tom doesn't drink coffee.  ✗  3인칭 단수 Tom에 doesn't + 동사원형 drink → 맞는 문장",
+    "③ I'm not a student.  ✗  I'm not은 I am not의 줄임말 → 맞는 문장",
+    "④ The dog doesn't bark at night.  ✗  한 마리인 The dog에 doesn't + 동사원형 bark → 맞는 문장",
+    "⑤ Mina doesn't studies after dinner.  ✓  doesn't 뒤는 동사원형 → studies를 study로 (틀린 문장)"
+   ],
+   "narration": "정답은 5번이에요. Mina는 3인칭 단수라 doesn't는 맞지만, doesn't 뒤에는 studies가 아니라 동사원형 study를 써야 해요. 3번 I'm not은 I am not을 줄인 말이라 맞아요. 4번 The dog는 한 마리라 doesn't를 쓰고, 뒤에 동사원형 bark를 써서 맞아요. 2번도 3인칭 단수 Tom에 doesn't와 동사원형 drink를 써서 맞아요."
+  },
+  "summary": {
+   "card": "be동사 뒤에 not · 3인칭 단수는 doesn't, 그 밖은 don't · 그 뒤에는 늘 동사원형",
+   "narration": "정답은 5번이에요. 기억할 것, 주어가 3인칭 단수여도 doesn't 뒤에는 s나 es가 붙지 않은 동사원형을 써요."
+  },
+  "captions": [
+   "부정문 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "be동사·일반동사의 부정문",
+   "be동사 → 일반동사 → ⑤",
+   "정답 ⑤ studies → study",
+   "doesn't 뒤에는 동사원형"
+  ],
+  "sec": [
+   10,
+   15,
+   29,
+   36,
+   26,
+   10
+  ]
+ },
+ "C": {
+  "title": "be동사와 일반동사의 현재 부정문",
+  "intro": "이 문제는 be동사와 일반동사의 현재 부정문 가운데 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 부정문: am, are, is 뒤에 not (is not → isn't, are not → aren't)",
+    "일반동사 현재 부정문: 동사 앞에 don't 또는 doesn't",
+    "3인칭 단수 주어(he, she, it, Tom 등) → doesn't · 그 밖의 주어 → don't",
+    "don't, doesn't 뒤에는 늘 동사원형",
+    "예) She doesn't like carrots. (그녀는 당근을 좋아하지 않아요.)"
+   ],
+   "narration": "be동사 am, are, is 뒤에 not을 붙이면 ‘아니다’, ‘있지 않다’ 같은 뜻의 부정문이 되고, is not은 isn't, are not은 aren't로 줄여 쓸 수 있어요. 일반동사 현재형은 동사 앞에 don't나 doesn't를 써서 ‘하지 않는다’라는 뜻의 부정문을 만들어요. 주어가 3인칭 단수, 곧 he, she, it이나 Tom처럼 나도 너도 아닌 한 사람이나 한 개이면 doesn't를 쓰고, 그 밖의 주어에는 don't를 써요. 그리고 don't와 doesn't 뒤에는 늘 동사원형을 써요. She doesn't like carrots. 그녀는 당근을 좋아하지 않아요."
+  },
+  "steps": [
+   {
+    "note": "be동사 부정문 ①③: 여럿인 We → aren't, 한 개인 The shop → isn't → 맞다",
+    "highlight": [
+     "① We aren't",
+     "③ The shop isn't"
+    ],
+    "strike": [],
+    "narration": "첫째, be동사 부정문인 1번과 3번을 보면, 여럿인 We에는 aren't, 한 개인 The shop에는 isn't를 써서 둘 다 맞아요."
+   },
+   {
+    "note": "일반동사 부정문 ②⑤: 3인칭 단수 My sister → doesn't + like, I → don't + need → 맞다",
+    "highlight": [
+     "② My sister doesn't like",
+     "⑤ I don't need"
+    ],
+    "strike": [],
+    "narration": "둘째, 일반동사 부정문인 2번과 5번은 3인칭 단수 My sister에 doesn't, 주어 I에 don't를 쓰고, 뒤에 동사원형 like와 need를 써서 맞아요."
+   },
+   {
+    "note": "④ He는 3인칭 단수 → don't ✗ → doesn't. 틀린 문장은 ④",
+    "highlight": [
+     "④ He don't play games."
+    ],
+    "strike": [
+     "He don't"
+    ],
+    "narration": "셋째, 4번은 주어 He가 3인칭 단수인데 don't를 썼으니 doesn't로 고쳐야 해요. He doesn't play games. 그는 게임을 하지 않아요. 따라서 틀린 문장은 4번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① We aren't late.  ✗  여럿인 We에 aren't → 맞는 문장",
+    "② My sister doesn't like milk.  ✗  3인칭 단수 My sister에 doesn't + 동사원형 like → 맞는 문장",
+    "③ The shop isn't open today.  ✗  The shop에 isn't, open은 ‘열려 있는’이라는 뜻 → 맞는 문장",
+    "④ He don't play games.  ✓  3인칭 단수 He → don't를 doesn't로 (틀린 문장)",
+    "⑤ I don't need a new bag.  ✗  I에 don't + 동사원형 need → 맞는 문장"
+   ],
+   "narration": "정답은 4번이에요. 주어 He는 3인칭 단수라 don't가 아니라 doesn't를 써야 해요. 3번 isn't open은 be동사 뒤에 동사원형을 쓴 것처럼 보이지만, 여기서 open은 ‘열려 있는’이라는 뜻이라 맞는 문장이에요. 2번 My sister도 3인칭 단수라 doesn't를 쓰고, 뒤에 동사원형 like를 써서 맞아요. 5번은 주어 I에 don't를 써서 맞아요."
+  },
+  "summary": {
+   "card": "be동사 뒤에 not · 3인칭 단수는 doesn't, 그 밖은 don't · 그 뒤에는 늘 동사원형",
+   "narration": "정답은 4번이에요. 기억할 것, 일반동사 현재 부정문은 3인칭 단수 주어에 doesn't, 그 밖의 주어에 don't를 쓰고, 그 뒤에는 늘 동사원형을 써요."
+  },
+  "captions": [
+   "부정문 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "be동사·일반동사의 부정문",
+   "be동사 → 일반동사 → ④",
+   "정답 ④ don't → doesn't",
+   "3인칭 단수 doesn't, 그 밖 don't"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   34,
+   26,
+   10
+  ]
+ },
+ "D": {
+  "title": "be동사와 일반동사의 현재 부정문",
+  "intro": "이 문제는 be동사와 일반동사의 현재 부정문 가운데 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 부정문: am, are, is 뒤에 not (is not → isn't, are not → aren't)",
+    "일반동사 현재 부정문: 동사 앞에 don't 또는 doesn't",
+    "3인칭 단수 주어(he, she, it, Tom 등) → doesn't · 그 밖의 주어 → don't",
+    "don't, doesn't 뒤에는 늘 동사원형",
+    "예) My dad doesn't drink milk. (우리 아빠는 우유를 마시지 않아요.)"
+   ],
+   "narration": "be동사 am, are, is 뒤에 not을 붙이면 ‘아니다’, ‘있지 않다’ 같은 뜻의 부정문이 되고, is not은 isn't, are not은 aren't로 줄여 쓸 수 있어요. 일반동사 현재형은 동사 앞에 don't나 doesn't를 써서 ‘하지 않는다’라는 뜻의 부정문을 만들어요. 주어가 3인칭 단수, 곧 he, she, it이나 Tom처럼 나도 너도 아닌 한 사람이나 한 개이면 doesn't를 쓰고, 그 밖의 주어에는 don't를 써요. 그리고 don't와 doesn't 뒤에는 늘 동사원형을 써요. My dad doesn't drink milk. 우리 아빠는 우유를 마시지 않아요."
+  },
+  "steps": [
+   {
+    "note": "be동사 부정문 ①③④: You → aren't, 한 사람인 Jane → isn't, 여럿인 The kids → aren't → 맞다",
+    "highlight": [
+     "① You aren't",
+     "③ Jane isn't",
+     "④ The kids aren't"
+    ],
+    "strike": [],
+    "narration": "첫째, be동사 부정문인 1번, 3번, 4번을 보면, You에는 aren't, 한 사람인 Jane에는 isn't, 여럿인 The kids에는 aren't를 써서 모두 맞아요."
+   },
+   {
+    "note": "일반동사 부정문 ②: 여럿인 They → don't + live → 맞다",
+    "highlight": [
+     "② They don't live"
+    ],
+    "strike": [],
+    "narration": "둘째, 일반동사 부정문인 2번은 여럿인 They에 don't를 쓰고, 뒤에 동사원형 live를 써서 맞아요."
+   },
+   {
+    "note": "⑤ 3인칭 단수 Tom → doesn't는 맞지만 뒤에 eats ✗ → eat. 틀린 문장은 ⑤",
+    "highlight": [
+     "⑤ Tom doesn't"
+    ],
+    "strike": [
+     "eats"
+    ],
+    "narration": "셋째, 5번은 3인칭 단수 Tom에 doesn't를 쓴 것은 맞지만, 뒤에 동사원형이 아닌 eats를 썼으니 eat으로 고쳐야 해요. Tom doesn't eat meat. 톰은 고기를 먹지 않아요. 따라서 틀린 문장은 5번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① You aren't alone.  ✗  You에는 한 사람이어도 are → aren't, 맞는 문장",
+    "② They don't live here.  ✗  여럿인 They에 don't + 동사원형 live → 맞는 문장",
+    "③ Jane isn't a nurse.  ✗  한 사람인 Jane에 isn't → 맞는 문장",
+    "④ The kids aren't at school.  ✗  여럿인 The kids에 aren't → 맞는 문장",
+    "⑤ Tom doesn't eats meat.  ✓  doesn't 뒤는 동사원형 → eats를 eat으로 (틀린 문장)"
+   ],
+   "narration": "정답은 5번이에요. Tom은 3인칭 단수라 doesn't는 맞지만, doesn't 뒤에는 eats가 아니라 동사원형 eat을 써야 해요. 1번 You는 한 사람을 가리킬 때도 are를 쓰므로 aren't가 맞아요. 4번 The kids는 아이가 여럿이라 aren't가 맞아요. 2번도 여럿인 They에 don't와 동사원형 live를 써서 맞아요."
+  },
+  "summary": {
+   "card": "be동사 뒤에 not · 3인칭 단수는 doesn't, 그 밖은 don't · 그 뒤에는 늘 동사원형",
+   "narration": "정답은 5번이에요. 기억할 것, 주어가 3인칭 단수여도 doesn't 뒤에는 s나 es가 붙지 않은 동사원형을 써요."
+  },
+  "captions": [
+   "부정문 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "be동사·일반동사의 부정문",
+   "be동사 → 일반동사 → ⑤",
+   "정답 ⑤ eats → eat",
+   "doesn't 뒤에는 동사원형"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   34,
+   26,
+   10
+  ]
+ },
+ "E": {
+  "title": "be동사와 일반동사의 현재 부정문",
+  "intro": "이 문제는 be동사와 일반동사의 현재 부정문 가운데 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 부정문: am, are, is 뒤에 not (is not → isn't, are not → aren't)",
+    "일반동사 현재 부정문: 동사 앞에 don't 또는 doesn't",
+    "3인칭 단수 주어(he, she, it, Tom 등) → doesn't · 그 밖의 주어 → don't",
+    "don't, doesn't 뒤에는 늘 동사원형",
+    "예) Kevin doesn't swim in the sea. (케빈은 바다에서 수영하지 않아요.)"
+   ],
+   "narration": "be동사 am, are, is 뒤에 not을 붙이면 ‘아니다’, ‘있지 않다’ 같은 뜻의 부정문이 되고, is not은 isn't, are not은 aren't로 줄여 쓸 수 있어요. 일반동사 현재형은 동사 앞에 don't나 doesn't를 써서 ‘하지 않는다’라는 뜻의 부정문을 만들어요. 주어가 3인칭 단수, 곧 he, she, it이나 Tom처럼 나도 너도 아닌 한 사람이나 한 개이면 doesn't를 쓰고, 그 밖의 주어에는 don't를 써요. 그리고 don't와 doesn't 뒤에는 늘 동사원형을 써요. Kevin doesn't swim in the sea. 케빈은 바다에서 수영하지 않아요."
+  },
+  "steps": [
+   {
+    "note": "be동사 부정문 ③④: I → am not, 3인칭 단수 It → isn't → 맞다",
+    "highlight": [
+     "③ I am not",
+     "④ It isn't"
+    ],
+    "strike": [],
+    "narration": "첫째, be동사 부정문인 3번과 4번을 보면, 주어 I에는 am not, 3인칭 단수 It에는 isn't를 써서 둘 다 맞아요."
+   },
+   {
+    "note": "일반동사 부정문 ①⑤: 3인칭 단수 She → doesn't + watch, 여럿인 We → don't + have → 맞다",
+    "highlight": [
+     "① She doesn't watch",
+     "⑤ We don't have"
+    ],
+    "strike": [],
+    "narration": "둘째, 일반동사 부정문인 1번과 5번은 3인칭 단수 She에 doesn't, 여럿인 We에 don't를 쓰고, 뒤에 동사원형 watch와 have를 써서 맞아요."
+   },
+   {
+    "note": "② 3인칭 단수 Jane → doesn't는 맞지만 뒤에 plays ✗ → play. 틀린 문장은 ②",
+    "highlight": [
+     "② Jane doesn't"
+    ],
+    "strike": [
+     "plays"
+    ],
+    "narration": "셋째, 2번은 3인칭 단수 Jane에 doesn't를 쓴 것은 맞지만, 뒤에 동사원형이 아닌 plays를 썼으니 play로 고쳐야 해요. Jane doesn't play the piano. 제인은 피아노를 치지 않아요. 따라서 틀린 문장은 2번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① She doesn't watch TV.  ✗  3인칭 단수 She에 doesn't + 동사원형 watch → 맞는 문장",
+    "② Jane doesn't plays the piano.  ✓  doesn't 뒤는 동사원형 → plays를 play로 (틀린 문장)",
+    "③ I am not tired.  ✗  주어 I에 am not → 맞는 문장",
+    "④ It isn't cold today.  ✗  3인칭 단수 It에 isn't → 맞는 문장",
+    "⑤ We don't have class today.  ✗  여럿인 We에 don't + 동사원형 have → 맞는 문장"
+   ],
+   "narration": "정답은 2번이에요. Jane은 3인칭 단수라 doesn't는 맞지만, doesn't 뒤에는 plays가 아니라 동사원형 play를 써야 해요. 1번 She도 3인칭 단수라 watches를 써야 한다고 생각하기 쉽지만, doesn't 뒤라서 동사원형 watch가 맞아요. 5번은 여럿인 We에 don't를 쓰고 뒤에 동사원형 have를 써서 맞아요. 3번은 주어 I에 am not을 써서 맞아요."
+  },
+  "summary": {
+   "card": "be동사 뒤에 not · 3인칭 단수는 doesn't, 그 밖은 don't · 그 뒤에는 늘 동사원형",
+   "narration": "정답은 2번이에요. 기억할 것, 주어가 3인칭 단수여도 doesn't 뒤에는 s나 es가 붙지 않은 동사원형을 써요."
+  },
+  "captions": [
+   "부정문 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "be동사·일반동사의 부정문",
+   "be동사 → 일반동사 → ②",
+   "정답 ② plays → play",
+   "doesn't 뒤에는 동사원형"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   34,
+   26,
+   10
+  ]
+ },
+ "F": {
+  "title": "be동사와 일반동사의 현재 부정문",
+  "intro": "이 문제는 be동사와 일반동사의 현재 부정문 가운데 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 부정문: am, are, is 뒤에 not (is not → isn't, are not → aren't)",
+    "일반동사 현재 부정문: 동사 앞에 don't 또는 doesn't",
+    "3인칭 단수 주어(he, she, it, Tom 등) → doesn't · 그 밖의 주어 → don't",
+    "don't, doesn't 뒤에는 늘 동사원형",
+    "예) She doesn't read comics. (그녀는 만화책을 읽지 않아요.)"
+   ],
+   "narration": "be동사 am, are, is 뒤에 not을 붙이면 ‘아니다’, ‘있지 않다’ 같은 뜻의 부정문이 되고, is not은 isn't, are not은 aren't로 줄여 쓸 수 있어요. 일반동사 현재형은 동사 앞에 don't나 doesn't를 써서 ‘하지 않는다’라는 뜻의 부정문을 만들어요. 주어가 3인칭 단수, 곧 he, she, it이나 Tom처럼 나도 너도 아닌 한 사람이나 한 개이면 doesn't를 쓰고, 그 밖의 주어에는 don't를 써요. 그리고 don't와 doesn't 뒤에는 늘 동사원형을 써요. She doesn't read comics. 그녀는 만화책을 읽지 않아요."
+  },
+  "steps": [
+   {
+    "note": "be동사 부정문 ②③: 한 사람인 Tom → isn't, 여럿인 They → aren't → 맞다",
+    "highlight": [
+     "② Tom isn't",
+     "③ They aren't"
+    ],
+    "strike": [],
+    "narration": "첫째, be동사 부정문인 2번과 3번을 보면, 한 사람인 Tom에는 isn't, 여럿인 They에는 aren't를 써서 둘 다 맞아요."
+   },
+   {
+    "note": "일반동사 부정문 ④⑤: I → don't + know, 3인칭 단수 Jane → doesn't + speak → 맞다",
+    "highlight": [
+     "④ I don't know",
+     "⑤ Jane doesn't speak"
+    ],
+    "strike": [],
+    "narration": "둘째, 일반동사 부정문인 4번과 5번은 주어 I에 don't, 3인칭 단수 Jane에 doesn't를 쓰고, 뒤에 동사원형 know와 speak를 써서 맞아요."
+   },
+   {
+    "note": "① 3인칭 단수 He → doesn't는 맞지만 뒤에 goes ✗ → go. 틀린 문장은 ①",
+    "highlight": [
+     "① He doesn't"
+    ],
+    "strike": [
+     "goes"
+    ],
+    "narration": "셋째, 1번은 3인칭 단수 He에 doesn't를 쓴 것은 맞지만, 뒤에 동사원형이 아닌 goes를 썼으니 go로 고쳐야 해요. He doesn't go to the gym. 그는 체육관에 가지 않아요. 따라서 틀린 문장은 1번이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① He doesn't goes to the gym.  ✓  doesn't 뒤는 동사원형 → goes를 go로 (틀린 문장)",
+    "② Tom isn't hungry now.  ✗  한 사람인 Tom에 isn't → 맞는 문장",
+    "③ They aren't at home.  ✗  여럿인 They에 aren't → 맞는 문장",
+    "④ I don't know his name.  ✗  I에 don't + 동사원형 know → 맞는 문장",
+    "⑤ Jane doesn't speak Chinese.  ✗  3인칭 단수 Jane에 doesn't + 동사원형 speak → 맞는 문장"
+   ],
+   "narration": "정답은 1번이에요. He는 3인칭 단수라 doesn't는 맞지만, doesn't 뒤에는 goes가 아니라 동사원형 go를 써야 해요. 5번 Jane도 3인칭 단수라 speaks를 써야 한다고 생각하기 쉽지만, doesn't 뒤라서 동사원형 speak가 맞아요. 2번은 한 사람인 Tom에 isn't를 써서 맞아요. 4번은 주어 I에 don't와 동사원형 know를 써서 맞아요."
+  },
+  "summary": {
+   "card": "be동사 뒤에 not · 3인칭 단수는 doesn't, 그 밖은 don't · 그 뒤에는 늘 동사원형",
+   "narration": "정답은 1번이에요. 기억할 것, 주어가 3인칭 단수여도 doesn't 뒤에는 s나 es가 붙지 않은 동사원형을 써요."
+  },
+  "captions": [
+   "부정문 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "be동사·일반동사의 부정문",
+   "be동사 → 일반동사 → ①",
+   "정답 ① goes → go",
+   "doesn't 뒤에는 동사원형"
+  ],
+  "sec": [
+   10,
+   15,
+   28,
+   34,
+   26,
+   10
+  ]
+ }
+}

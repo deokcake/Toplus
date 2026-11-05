@@ -1,0 +1,189 @@
+{
+ "key": "1-5",
+ "type": "F",
+ "grade": 1,
+ "chapter": "CH 1 문장의 구조",
+ "title": "형용사 보어와 전치사 없이 쓰는 타동사",
+ "total_sec": 123,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "1급 · CH 1 문장의 구조 · 5번 · F 유형\n\n이 문제는 형용사 보어와 타동사의 쓰임을 따져 어법상 틀린 문장의 개수를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 1 문장의 구조 · 5번 · F 유형",
+     "이 문제는 형용사 보어와 타동사의 쓰임을 따져 어법상 틀린 문장의 개수를 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 1, 5번 F 유형. 이 문제는 형용사 보어와 타동사의 쓰임을 따져 어법상 틀린 문장의 개수를 고르는 문제예요.",
+   "caption": "틀린 문장 개수 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 중 어법상 틀린 문장의 개수를 고르시오.\n\na) The sky looks beautifully after the summer rain.\nb) I found the book useful for my science report.\nc) The news made us anxious about the trip.\nd) The child slept quietly in the back seat.\ne) Jane informed Tom of the decision this morning.\nf) We reached home safely before the storm.\n\n① 1개\n② 2개\n③ 3개\n④ 4개\n⑤ 5개",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 어법상 틀린 문장의 개수를 고르시오.",
+     "a) The sky looks beautifully after the summer rain.",
+     "b) I found the book useful for my science report.",
+     "c) The news made us anxious about the trip.",
+     "d) The child slept quietly in the back seat.",
+     "e) Jane informed Tom of the decision this morning.",
+     "f) We reached home safely before the storm.",
+     "① 1개",
+     "② 2개",
+     "③ 3개",
+     "④ 4개",
+     "⑤ 5개"
+    ]
+   },
+   "narration": "다음 중 어법상 틀린 문장의 개수를 고르세요. 지문을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 27,
+   "screen": {
+    "text": "핵심 규칙\n주어의 상태: 감각동사(look, smell, taste, feel, sound) + 형용사\n목적어의 상태: find, keep, make, consider + 목적어 + 형용사(분사)\nsoftly 같은 부사는 동작을 꾸며요 (speak softly) · 상태 자리 ✗\nreach(도착하다), discuss, enter(들어가다), approach + 바로 목적어 (전치사 ✗)\n예) The town looked quiet when we reached it. (우리가 도착했을 때 그 마을은 조용해 보였어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "주어의 상태: 감각동사(look, smell, taste, feel, sound) + 형용사",
+     "목적어의 상태: find, keep, make, consider + 목적어 + 형용사(분사)",
+     "softly 같은 부사는 동작을 꾸며요 (speak softly) · 상태 자리 ✗",
+     "reach(도착하다), discuss, enter(들어가다), approach + 바로 목적어 (전치사 ✗)",
+     "예) The town looked quiet when we reached it. (우리가 도착했을 때 그 마을은 조용해 보였어요.)"
+    ]
+   },
+   "narration": "look 같은 감각동사 뒤에서 주어의 상태를, find나 make 뒤에서 목적어의 상태를 말할 때는 부사가 아니라 형용사를 써요. 동작을 꾸밀 때는 부사를 써요. 또 도착하다라는 뜻의 reach는 전치사 없이 바로 목적어를 써요. 예를 들어 The town looked quiet when we reached it. 우리가 도착했을 때 그 마을은 조용해 보였어요.",
+   "caption": "상태는 형용사, 타동사는 바로 목적어"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 어법상 틀린 문장의 개수를 고르시오.\n\na) The sky looks beautifully after the summer rain.\nb) I found the book useful for my science report.\nc) The news made us anxious about the trip.\nd) The child slept quietly in the back seat.\ne) Jane informed Tom of the decision this morning.\nf) We reached home safely before the storm.\n\n① 1개\n② 2개\n③ 3개\n④ 4개\n⑤ 5개",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "looks beautifully",
+       "found the book useful",
+       "made us anxious"
+      ],
+      "strike": [
+       "beautifully"
+      ],
+      "note": "a) looks 뒤 = 하늘의 상태 → beautifully ✗ → beautiful / b) useful, c) anxious = 목적어의 상태 ✓"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "slept quietly",
+       "reached home safely",
+       "informed Tom of"
+      ],
+      "strike": [],
+      "note": "d) slept quietly, f) safely = 동작을 꾸미는 부사 ✓ / f) reached home: 전치사 없음 ✓ / e) inform 사람 of 내용 ✓"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "① 1개"
+      ],
+      "strike": [
+       "② 2개",
+       "③ 3개",
+       "④ 4개",
+       "⑤ 5개"
+      ],
+      "note": "틀린 문장 a) → 1개"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 상태를 말하는 자리에서 에이 문장은 하늘이 어때 보이는지 말하니까 beautifully가 아니라 beautiful을 써야 해요. 비 문장의 useful과 씨 문장의 anxious는 목적어의 상태를 말해서 옳아요. 둘째, 디 문장의 quietly와 에프 문장의 safely는 동작을 꾸미는 부사이고, 에프 문장은 reached 뒤에 전치사 없이 home을 썼어요. 이 문장 Jane informed Tom of the decision도 옳아요. 셋째, 틀린 문장은 에이 문장 하나뿐이에요.",
+   "caption": "상태 자리 → 동작·목적어 → 개수"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 23,
+   "screen": {
+    "text": "① 1개  ✓  틀린 문장은 a) looks beautifully 하나\n② 2개  ✗  f) reached home safely는 옳아요 (safely는 동작을 꾸미는 부사)\n③ 3개  ✗  d) slept quietly도 옳아요 (자는 동작을 꾸미는 부사)\n④ 4개  ✗  c) made us anxious도 옳아요 (목적어의 상태)\n⑤ 5개  ✗  e) informed Tom of도 옳아요 (inform 사람 of 내용)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✓",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① 1개  ✓  틀린 문장은 a) looks beautifully 하나",
+     "② 2개  ✗  f) reached home safely는 옳아요 (safely는 동작을 꾸미는 부사)",
+     "③ 3개  ✗  d) slept quietly도 옳아요 (자는 동작을 꾸미는 부사)",
+     "④ 4개  ✗  c) made us anxious도 옳아요 (목적어의 상태)",
+     "⑤ 5개  ✗  e) informed Tom of도 옳아요 (inform 사람 of 내용)"
+    ]
+   },
+   "narration": "정답은 1번, 1개예요. 에이 문장은 하늘이 아름답게 보인다고 옮기면 beautifully가 맞아 보이지만, 하늘의 상태를 말하니까 형용사 beautiful을 써요. 에프 문장의 safely까지 틀렸다고 세면 2번을 고르게 돼요. 하지만 safely는 무사히 도착한 동작을 꾸미는 부사라서 옳아요.",
+   "caption": "정답 ① 1개"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ① 1개\n\n상태를 말하는 보어 자리 → 형용사 · 동작은 부사가 꾸며요",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ① 1개",
+     "상태를 말하는 보어 자리 → 형용사 · 동작은 부사가 꾸며요"
+    ]
+   },
+   "narration": "정답은 1번이에요. 기억할 것, 상태를 말하는 보어 자리에는 형용사를 쓰고, 동작을 꾸밀 때는 부사를 써요.",
+   "caption": "보어는 형용사, 전치사 없이 목적어"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 어법상 틀린 문장의 개수를 고르시오.",
+  "passage": "a) The sky looks beautifully after the summer rain.\nb) I found the book useful for my science report.\nc) The news made us anxious about the trip.\nd) The child slept quietly in the back seat.\ne) Jane informed Tom of the decision this morning.\nf) We reached home safely before the storm.",
+  "c": [
+   "1개",
+   "2개",
+   "3개",
+   "4개",
+   "5개"
+  ],
+  "ans": 1,
+  "expl": "핵심 규칙: 보어는 주어·목적어의 상태를 설명하고 부사어는 동작을 꾸민다. 각 동사의 목적어·전치사 결합을 실제 문장에 적용한다.\n풀이 순서: ① 문장마다 동사의 종류부터 가른다. 감각동사 뒤와 find·keep·make·consider의 목적어 뒤는 형용사 자리이고, reach·discuss·enter·approach 뒤는 전치사 없는 목적어 자리다. → ② 형용사 자리에 부사가 왔거나 타동사 뒤에 전치사가 붙은 문장을 표시한다: a) looks beautifully. → ③ 표시한 문장을 세면 1개이다.\n문장별 판정:\na) 틀림: sky의 모습을 설명하는 형용사 beautiful이 필요하다. beautifully → beautiful.\nb) 옳음: useful은 목적어 the book의 성질을 나타낸다.\nc) 옳음: anxious는 목적어 us의 상태를 설명한다.\nd) 옳음: quietly는 slept를 꾸미는 부사이다.\ne) 옳음: inform A of B 구조이다.\nf) 옳음: reach home에서 home을 직접 취하고 safely는 도착 방식을 꾸민다.\n정답 판단: 어법상 틀린 문장은 a의 1개이다.\n선택지 분석:\n① [정답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 1개는 실제 개수와 일치한다.\n② [오답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다."
+ }
+}

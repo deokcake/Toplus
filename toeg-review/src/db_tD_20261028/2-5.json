@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:06:50.865Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: give·send·tell·show·teach는 3형식에서 to를, buy·make는 for를 쓴다. 사역동사 make·have + 목적어 + 동사원형이고, 목적어와 목적격 보어가 수동 관계이면 과거분사를 쓴다. 감각동사 뒤 보어는 형용사다.\n풀이 순서: ① 학생마다 ‘예문이 맞는 문장인가’와 ‘설명이 맞는가’를 따로 따진다. → ② Joon은 buy에 to가 맞다고 했고(for가 맞다), Leo는 tastes 뒤에 well이 맞다고 했다. 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Tom, Amy, Mina이다.\n문장별 판정:\nTom O(tell의 4형식).\nAmy O(사역동사 made 뒤 원형부정사 clean).\nJoon X(buy는 for를 쓴다. bought a ticket for me).\nMina O(open은 형용사 목적격 보어).\nLeo X(tastes 뒤에는 형용사 good).\n정답 판단: 올바르게 설명한 학생은 Tom, Amy, Mina이다.\n선택지 분석:\n① [오답] Joon는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Amy, Mina를 빠뜨렸다. 따라서 오답이다.\n② [오답] 올바르게 설명한 학생 Tom를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Joon, Leo는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Tom, Amy를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 올바르게 설명한 학생 Tom, Amy, Mina를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] Leo는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "Tom: We told him the truth. 'tell'이 간접목적어 'him'과 직접목적어 'the truth'를 취한 4형식 문장이에요.\nAmy: Mom made me clean my room. 사역동사 'make' 뒤 목적격 보어로 원형부정사 'clean'을 쓴 옳은 문장이에요.\nJoon: Dad bought a ticket to me. 'buy'를 3형식으로 바꿀 때는 'to'를 쓰므로 옳은 문장이에요.\nMina: She kept the door open. 'open'은 목적어 'the door'의 상태를 설명하는 목적격 보어로 쓰인 형용사예요.\nLeo: The soup tastes well. 감각동사 'taste' 뒤에는 부사 'well'을 써야 하므로 옳은 문장이에요.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T10:06:29.167Z"
+  },
+  "tab": "5dbz9ufh",
+  "updatedAt": "2026-10-23T10:06:50.865Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T10:06:50.865Z",
+      "what": "확인 완료"
+    }
+  }
+}

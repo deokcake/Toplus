@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T08:05:26.031Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "What do they play in the park after school?",
+      "1": "Do they play soccer in the park after school?",
+      "2": "Does they play soccer in the park after school?",
+      "3": "Are they playing soccer in the park now?",
+      "4": "Did they play soccer in the park yesterday?"
+    },
+    "expl": "핵심 규칙: Yes/No로 답하는 일반동사 현재 의문문은 Do/Does + 주어 + 동사원형이다. 의문사 의문문은 Yes/No로 답하지 않고, 진행형·과거 의문문에는 is/did로 답한다.\n풀이 순서: ① 대답이 Yes로 시작하므로 의문사 없는 의문문이어야 한다. → ② 대답의 동사(play)가 일반동사 현재형이므로 Do/Does로 묻는다. 주어가 they(복수)이므로 Do. → ③ Do/Does 뒤는 동사원형이다. 정답은 ②.\n문장별 판정:\n정답 판단: 복수 주어 + Do + 동사원형의 현재 의문문이므로 정답은 ②이다.\n선택지 분석:\n① [오답] 의문사 의문문은 Yes/No로 답하지 않으므로 오답이다.\n② [정답] 복수 주어 + Do + 동사원형의 현재 의문문이므로 정답이다.\n③ [오답] 주어 they에는 Do를 쓰므로 오답이다.\n④ [오답] 진행형 질문에는 Yes, they are로 답하므로 오답이다.\n⑤ [오답] 과거 질문에는 Yes, they did로 답하므로 오답이다.",
+    "passage": "A: __________________________________\nB: Yes, they play soccer in the park after school.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T08:05:18.996Z"
+  },
+  "tab": "x2buc7cy",
+  "updatedAt": "2026-10-27T08:05:26.031Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T08:05:26.031Z",
+      "what": "확인 완료"
+    }
+  }
+}

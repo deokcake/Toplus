@@ -1,0 +1,516 @@
+{
+ "A": {
+  "title": "3인칭 단수 현재형과 do·does·did 뒤 동사원형",
+  "intro": "이 문제는 밑줄 친 일반동사가 주어와 시제에 맞게 쓰인 문장의 개수를 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 어법상 옳은 문장의 개수를 고르세요. 다섯 문장을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재형: 3인칭 단수 주어(he, she, it, Tom) → 동사원형 + s, es (have → has)",
+    "I, you, we, they, 복수 주어 → 동사원형",
+    "부정문·의문문: 3인칭 단수 현재 → doesn't, Does · 다른 주어 현재 → don't, Do · 과거 → didn't, Did",
+    "부정문·의문문의 do, does, did 뒤 → 동사원형",
+    "예) She doesn't eat fish. (그녀는 생선을 먹지 않아요.)"
+   ],
+   "narration": "일반동사 현재형은 3인칭 단수 주어면 동사원형에 s나 es를 붙이고 have는 has로 바꾸며, 그 밖의 주어에는 동사원형을 써요. 부정문과 의문문은 현재일 때 3인칭 단수 주어면 doesn't와 Does, 다른 주어면 don't와 Do를 쓰고, 과거면 didn't와 Did를 써요. 그 뒤에는 동사원형을 써요. 예를 들어 She doesn't eat fish, 그녀는 생선을 먹지 않아요."
+  },
+  "steps": [
+   {
+    "note": "ⓐ My sister, ⓓ The cat = 3인칭 단수 → plays, sleeps ✓",
+    "highlight": [
+     "My sister <u>plays</u>",
+     "The cat <u>sleeps</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 에이 문장 My sister와 디 문장 The cat은 3인칭 단수라서 plays와 sleeps가 맞아요."
+   },
+   {
+    "note": "ⓑ He → doesn't + 동사원형 like ✓",
+    "highlight": [
+     "He <u>doesn't like</u>"
+    ],
+    "strike": [],
+    "narration": "둘째, 비 문장은 He에 doesn't를 쓰고 뒤에 동사원형 like를 써서 맞아요."
+   },
+   {
+    "note": "ⓒ Did 뒤 → see (saw ✗) · ⓔ We → don't (doesn't ✗)",
+    "highlight": [],
+    "strike": [
+     "<u>Did</u> you <u>saw</u>",
+     "We <u>doesn't go</u>"
+    ],
+    "narration": "셋째, 씨 문장은 Did 뒤라서 saw가 아니라 see를 쓰고, 이 문장 We doesn't go는 We가 3인칭 단수가 아니라서 don't를 써야 해요."
+   },
+   {
+    "note": "옳은 문장 ⓐ, ⓑ, ⓓ → 3개",
+    "highlight": [
+     "③ 3개"
+    ],
+    "strike": [
+     "① 1개",
+     "② 2개",
+     "④ 4개",
+     "⑤ 5개"
+    ],
+    "narration": "넷째, 옳은 문장은 에이, 비, 디로 3개예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 1개  ✗  ⓐ plays, ⓓ sleeps도 3인칭 단수 주어에 맞는 꼴이에요",
+    "② 2개  ✗  ⓑ doesn't 뒤의 동사원형 like는 옳아요",
+    "③ 3개  ✓  옳은 문장은 ⓐ, ⓑ, ⓓ 세 개",
+    "④ 4개  ✗  ⓒ yesterday가 있어도 Did 뒤에는 see (saw ✗)",
+    "⑤ 5개  ✗  ⓒ Did 뒤 saw, ⓔ We 뒤 doesn't 두 문장이 틀려요"
+   ],
+   "narration": "정답은 3번, 3개예요. 씨 문장은 yesterday가 있어서 saw가 맞아 보이지만, Did가 이미 과거를 나타내니까 동사원형 see를 써요. 이것을 옳다고 세면 4번이에요. 비 문장은 He가 3인칭 단수여도 doesn't 뒤라서 like가 맞아요. 이것을 틀렸다고 보면 2번이에요."
+  },
+  "summary": {
+   "card": "부정문·의문문의 do, does, did 뒤 → 동사원형 · doesn't, Does는 3인칭 단수 현재",
+   "narration": "정답은 3번이에요. 기억할 것, 부정문과 의문문의 do, does, did 뒤에는 동사원형을 쓰고, doesn't와 Does는 3인칭 단수 현재에만 써요."
+  },
+  "captions": [
+   "일반동사의 주어·시제 맞추기",
+   "먼저 풀어 보세요",
+   "3인칭 단수 현재와 동사원형",
+   "주어 확인 → do, did 뒤 → 개수",
+   "정답 ③ 3개",
+   "do, does, did 뒤 → 동사원형"
+  ],
+  "sec": [
+   11,
+   18,
+   32,
+   32,
+   24,
+   14
+  ]
+ },
+ "B": {
+  "title": "3인칭 단수 현재형과 do·does·did 뒤 동사원형",
+  "intro": "이 문제는 밑줄 친 일반동사가 주어와 시제에 맞게 쓰인 문장의 개수를 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 어법상 옳은 문장의 개수를 고르세요. 다섯 문장을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재형: 3인칭 단수 주어 → 동사원형 + s, es (have → has)",
+    "자음 + y로 끝나는 동사 → y를 i로 바꾸고 es (fly → flies)",
+    "I, you, we, they, 복수 주어 → 동사원형 · 현재 부정은 don't",
+    "부정문·의문문의 do, does, did 뒤 → 동사원형",
+    "예) The bird flies high. (그 새는 높이 날아요.)"
+   ],
+   "narration": "일반동사 현재형은 3인칭 단수 주어면 동사원형에 s나 es를 붙이고, have는 has로 바꿔요. fly처럼 자음 다음 y로 끝나면 y를 i로 바꾸고 es를 붙여요. 그 밖의 주어에는 동사원형을 쓰고, 현재 부정문은 don't를 써요. 부정문과 의문문의 do, does, did 뒤에는 동사원형을 써요. 예를 들어 The bird flies high, 그 새는 높이 날아요."
+  },
+  "steps": [
+   {
+    "note": "ⓐ My dad = 3인칭 단수 → washes ✓ · ⓒ Did + 동사원형 call ✓",
+    "highlight": [
+     "My dad <u>washes</u>",
+     "<u>Did</u> she <u>call</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 에이 문장 My dad는 3인칭 단수라서 washes가 맞고, 씨 문장은 Did 뒤에 동사원형 call을 써서 맞아요."
+   },
+   {
+    "note": "ⓑ They → don't (doesn't ✗) · ⓓ The baby = 3인칭 단수 → cries (cry ✗)",
+    "highlight": [],
+    "strike": [
+     "They <u>doesn't</u>",
+     "The baby <u>cry</u>"
+    ],
+    "narration": "둘째, 비 문장 They에는 doesn't가 아니라 don't를 쓰고, 디 문장 The baby는 3인칭 단수라서 cry가 아니라 cries를 써요."
+   },
+   {
+    "note": "ⓔ didn't 뒤 → 동사원형 go (went ✗)",
+    "highlight": [],
+    "strike": [
+     "Tom <u>didn't went</u>"
+    ],
+    "narration": "셋째, 이 문장 Tom didn't went는 didn't 뒤에 과거형 went를 써서 틀렸어요. 동사원형 go를 써야 해요."
+   },
+   {
+    "note": "옳은 문장 ⓐ, ⓒ → 2개",
+    "highlight": [
+     "② 2개"
+    ],
+    "strike": [
+     "① 1개",
+     "③ 3개",
+     "④ 4개",
+     "⑤ 5개"
+    ],
+    "narration": "넷째, 옳은 문장은 에이와 씨로 2개예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 1개  ✗  ⓒ last night이 있어도 Did 뒤 동사원형 call은 옳아요",
+    "② 2개  ✓  옳은 문장은 ⓐ, ⓒ 두 개",
+    "③ 3개  ✗  ⓔ didn't 뒤에는 go (went ✗)",
+    "④ 4개  ✗  ⓓ The baby는 3인칭 단수 → cries (cry ✗)",
+    "⑤ 5개  ✗  ⓑ They에는 don't (doesn't ✗)"
+   ],
+   "narration": "정답은 2번, 2개예요. 이 문장 Tom didn't went는 went가 과거형이라 맞아 보이지만, didn't 뒤에는 동사원형 go를 써요. 이것을 옳다고 세면 3번이에요. 씨 문장은 last night이 있어도 Did 뒤라서 동사원형 call이 맞아요. 이것을 틀렸다고 보면 1번이에요."
+  },
+  "summary": {
+   "card": "doesn't는 3인칭 단수 주어에만 · don't, doesn't, didn't 뒤 → 동사원형",
+   "narration": "정답은 2번이에요. 기억할 것, 주어가 3인칭 단수일 때만 doesn't를 쓰고, don't, doesn't, didn't 뒤에는 동사원형을 써요."
+  },
+  "captions": [
+   "일반동사의 주어·시제 맞추기",
+   "먼저 풀어 보세요",
+   "3인칭 단수 현재와 동사원형",
+   "옳은 문장 → 틀린 문장 → 개수",
+   "정답 ② 2개",
+   "don't, doesn't, didn't + 동사원형"
+  ],
+  "sec": [
+   11,
+   18,
+   32,
+   34,
+   25,
+   14
+  ]
+ },
+ "C": {
+  "title": "3인칭 단수 현재형과 does·doesn't 뒤 동사원형",
+  "intro": "이 문제는 밑줄 친 일반동사가 주어와 시제에 맞게 쓰인 문장의 개수를 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 어법상 옳은 문장의 개수를 고르세요. 다섯 문장을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재형: 3인칭 단수 주어 → 동사원형 + s, es (have → has)",
+    "I, you, we, they, 복수 주어 → 동사원형",
+    "현재 부정문·의문문: 3인칭 단수 → doesn't, Does · 그 밖의 주어 → don't, Do",
+    "doesn't, Does, don't, Do 뒤 → 동사원형",
+    "예) Does he play the guitar? (그는 기타를 치니?)"
+   ],
+   "narration": "일반동사 현재형은 3인칭 단수 주어면 동사원형에 s나 es를 붙이고, have는 has로 바꿔요. 그 밖의 주어에는 동사원형을 써요. 현재 부정문과 의문문은 3인칭 단수 주어면 doesn't와 Does, 그 밖의 주어면 don't와 Do를 쓰고, 뒤에는 동사원형을 써요. 예를 들어 Does he play the guitar, 그는 기타를 치니?"
+  },
+  "steps": [
+   {
+    "note": "ⓐ Jane = 3인칭 단수 → studies ✓ · ⓓ We → 동사원형 watch ✓",
+    "highlight": [
+     "Jane <u>studies</u>",
+     "We <u>watch</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 에이 문장 Jane은 3인칭 단수라서 studies가 맞고, 디 문장 We에는 동사원형 watch가 맞아요."
+   },
+   {
+    "note": "ⓑ They → don't (doesn't ✗) · ⓔ He → doesn't (don't ✗)",
+    "highlight": [],
+    "strike": [
+     "They <u>doesn't play</u>",
+     "He <u>don't read</u>"
+    ],
+    "narration": "둘째, 비 문장 They에는 don't를 써야 하고, 이 문장 He don't read의 He에는 doesn't를 써야 해서 둘 다 틀렸어요."
+   },
+   {
+    "note": "ⓒ Does 뒤 → 동사원형 like (likes ✗)",
+    "highlight": [],
+    "strike": [
+     "<u>Does</u> Tom <u>likes</u>"
+    ],
+    "narration": "셋째, 씨 문장은 Does 뒤라서 likes가 아니라 동사원형 like를 써야 해요."
+   },
+   {
+    "note": "옳은 문장 ⓐ, ⓓ → 2개",
+    "highlight": [
+     "② 2개"
+    ],
+    "strike": [
+     "① 1개",
+     "③ 3개",
+     "④ 4개",
+     "⑤ 5개"
+    ],
+    "narration": "넷째, 옳은 문장은 에이와 디로 2개예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 1개  ✗  ⓐ studies도 3인칭 단수 Jane에 맞는 꼴이에요 (study → studies)",
+    "② 2개  ✓  옳은 문장은 ⓐ, ⓓ 두 개",
+    "③ 3개  ✗  ⓒ Does 뒤에는 like (likes ✗)",
+    "④ 4개  ✗  ⓔ He에는 doesn't (don't ✗)",
+    "⑤ 5개  ✗  ⓑ They에는 don't (doesn't ✗)"
+   ],
+   "narration": "정답은 2번, 2개예요. 씨 문장은 Tom이 3인칭 단수라서 likes가 맞아 보이지만, Does에 이미 es가 붙어 있으니까 뒤에는 동사원형 like를 써요. 이것을 옳다고 세면 3번이에요. 에이 문장 studies는 study의 y를 i로 바꾸고 es를 붙인 꼴이라 맞아요. 이것을 틀렸다고 보면 1번이에요."
+  },
+  "summary": {
+   "card": "3인칭 단수 현재 부정·의문 → doesn't, Does + 동사원형",
+   "narration": "정답은 2번이에요. 기억할 것, 3인칭 단수 주어의 현재 부정문과 의문문은 doesn't와 Does를 쓰고, 그 뒤의 동사는 동사원형이에요."
+  },
+  "captions": [
+   "일반동사의 주어·시제 맞추기",
+   "먼저 풀어 보세요",
+   "3인칭 단수 현재와 does",
+   "옳은 문장 → 틀린 문장 → 개수",
+   "정답 ② 2개",
+   "doesn't, Does 뒤 → 동사원형"
+  ],
+  "sec": [
+   11,
+   18,
+   29,
+   30,
+   26,
+   13
+  ]
+ },
+ "D": {
+  "title": "일반동사 과거형과 did 뒤 동사원형",
+  "intro": "이 문제는 일반동사의 과거형과 did 뒤의 동사 형태가 바르게 쓰인 문장의 개수를 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 어법상 옳은 문장의 개수를 고르세요. 다섯 문장을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 과거형: 규칙동사는 ed로 끝나요 (play → played)",
+    "불규칙동사는 따로 외워요 (come → came, take → took)",
+    "과거 부정문·의문문: 주어와 상관없이 didn't, Did + 동사원형",
+    "예) He didn't come to school yesterday. (그는 어제 학교에 오지 않았어요.)"
+   ],
+   "narration": "일반동사 과거형은 규칙동사면 played처럼 ed로 끝나고, come, take 같은 불규칙동사는 came, took처럼 따로 외운 모양을 써요. 과거의 부정문과 의문문은 주어와 상관없이 didn't와 Did를 써요. 이때 그 뒤의 동사는 과거형이 아니라 동사원형이에요. 예를 들어 He didn't come to school yesterday, 그는 어제 학교에 오지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "ⓐ went = go의 과거형 ✓ · ⓓ saw = see의 과거형 ✓",
+    "highlight": [
+     "Tom <u>went</u>",
+     "We <u>saw</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 에이 문장 went는 go의 과거형, 디 문장 saw는 see의 과거형이라 둘 다 맞아요."
+   },
+   {
+    "note": "ⓑ didn't + buy ✓ · ⓒ Did + go ✓",
+    "highlight": [
+     "She <u>didn't buy</u>",
+     "<u>Did</u> they <u>go</u>"
+    ],
+    "strike": [],
+    "narration": "둘째, 비 문장은 didn't 뒤에 buy, 씨 문장은 Did 뒤에 go로 동사원형을 써서 맞아요."
+   },
+   {
+    "note": "ⓔ didn't 뒤 → 동사원형 eat (ate ✗)",
+    "highlight": [],
+    "strike": [
+     "Jane <u>didn't ate</u>"
+    ],
+    "narration": "셋째, 이 문장 Jane didn't ate는 didn't 뒤에 과거형 ate를 써서 틀렸어요. 동사원형 eat을 써야 해요."
+   },
+   {
+    "note": "옳은 문장 ⓐ, ⓑ, ⓒ, ⓓ → 4개",
+    "highlight": [
+     "④ 4개"
+    ],
+    "strike": [
+     "① 1개",
+     "② 2개",
+     "③ 3개",
+     "⑤ 5개"
+    ],
+    "narration": "넷째, 옳은 문장은 4개예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 1개  ✗  ⓐ went, ⓓ saw도 바른 과거형이에요",
+    "② 2개  ✗  ⓑ didn't buy, ⓒ Did they go는 동사원형이라 옳아요",
+    "③ 3개  ✗  ⓒ last night이 있어도 Did 뒤에는 go가 맞아요",
+    "④ 4개  ✓  틀린 문장은 ⓔ 하나뿐",
+    "⑤ 5개  ✗  ⓔ didn't 뒤에는 eat (ate ✗)"
+   ],
+   "narration": "정답은 4번, 4개예요. 이 문장 Jane didn't ate는 ate가 과거형이라 맞아 보이지만, didn't가 이미 과거를 나타내니까 동사원형 eat을 써요. 이것을 옳다고 세면 5번이에요. 씨 문장은 last night이 있어도 Did 뒤라서 동사원형 go가 맞아요. 이것을 틀렸다고 보면 3번이에요."
+  },
+  "summary": {
+   "card": "과거 부정·의문: 주어와 상관없이 didn't, Did + 동사원형",
+   "narration": "정답은 4번이에요. 기억할 것, 과거의 부정문과 의문문은 주어와 상관없이 didn't와 Did를 쓰고, 그 뒤의 동사는 동사원형이에요."
+  },
+  "captions": [
+   "과거형과 did 뒤 동사",
+   "먼저 풀어 보세요",
+   "과거형과 didn't, Did",
+   "과거형 → did 뒤 → 개수",
+   "정답 ④ 4개",
+   "didn't, Did 뒤 → 동사원형"
+  ],
+  "sec": [
+   12,
+   18,
+   29,
+   29,
+   26,
+   13
+  ]
+ },
+ "E": {
+  "title": "3인칭 단수 현재형과 Do·Does 의문문",
+  "intro": "이 문제는 밑줄 친 일반동사가 주어와 시제에 맞게 쓰인 문장의 개수를 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 어법상 옳은 문장의 개수를 고르세요. 다섯 문장을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재형: 3인칭 단수 주어 → 동사원형 + s, es (have → has)",
+    "I, you, we, they, 복수 주어 → 동사원형",
+    "현재 의문문: Does + 3인칭 단수 주어 + 동사원형 · Do + 그 밖의 주어 + 동사원형",
+    "현재 부정문: doesn't, don't + 동사원형",
+    "예) Does your dog like bones? (네 개는 뼈를 좋아하니?)"
+   ],
+   "narration": "일반동사 현재형은 3인칭 단수 주어면 동사원형에 s나 es를 붙이고, have는 has로 바꿔요. 그 밖의 주어에는 동사원형을 써요. 현재 의문문은 3인칭 단수 주어 앞에 Does를, 그 밖의 주어 앞에 Do를 쓰고, 부정문은 doesn't와 don't를 써요. 이때 뒤의 동사는 동사원형이에요. 예를 들어 Does your dog like bones, 네 개는 뼈를 좋아하니?"
+  },
+  "steps": [
+   {
+    "note": "ⓐ I, ⓓ They → 동사원형 read, work ✓ · ⓔ Tom = 3인칭 단수 → goes ✓",
+    "highlight": [
+     "I <u>read</u>",
+     "They <u>work</u>",
+     "Tom <u>goes</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 에이 문장 I와 디 문장 They에는 동사원형 read와 work가 맞고, 이 문장 Tom goes는 3인칭 단수 Tom에 goes를 써서 맞아요."
+   },
+   {
+    "note": "ⓑ He → doesn't + 동사원형 study ✓",
+    "highlight": [
+     "He <u>doesn't study</u>"
+    ],
+    "strike": [],
+    "narration": "둘째, 비 문장은 He에 doesn't를 쓰고 뒤에 동사원형 study를 써서 맞아요."
+   },
+   {
+    "note": "ⓒ she = 3인칭 단수 → Does she play (Do ✗)",
+    "highlight": [],
+    "strike": [
+     "<u>Do</u> she <u>play</u>"
+    ],
+    "narration": "셋째, 씨 문장은 주어 she가 3인칭 단수인데 Do를 써서 틀렸어요. Does she play로 써야 해요."
+   },
+   {
+    "note": "옳은 문장 ⓐ, ⓑ, ⓓ, ⓔ → 4개",
+    "highlight": [
+     "④ 4개"
+    ],
+    "strike": [
+     "① 1개",
+     "② 2개",
+     "③ 3개",
+     "⑤ 5개"
+    ],
+    "narration": "넷째, 옳은 문장은 4개예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 1개  ✗  ⓐ read, ⓓ work도 주어에 맞는 동사원형이에요",
+    "② 2개  ✗  ⓑ doesn't study, ⓔ Tom goes도 옳아요",
+    "③ 3개  ✗  ⓑ He라도 doesn't 뒤에는 study가 맞아요",
+    "④ 4개  ✓  틀린 문장은 ⓒ 하나뿐",
+    "⑤ 5개  ✗  ⓒ she에는 Does (Do ✗)"
+   ],
+   "narration": "정답은 4번, 4개예요. 씨 문장은 play가 동사원형이라 맞아 보이지만, 주어 she가 3인칭 단수라서 Do가 아니라 Does를 써야 해요. 이것을 옳다고 세면 5번이에요. 비 문장은 He가 3인칭 단수여도 doesn't 뒤라서 동사원형 study가 맞아요. 이것을 틀렸다고 보면 3번이에요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어의 현재 의문문 → Does + 주어 + 동사원형",
+   "narration": "정답은 4번이에요. 기억할 것, 주어가 3인칭 단수인 현재 의문문은 Do가 아니라 Does로 시작하고, 뒤의 동사는 동사원형이에요."
+  },
+  "captions": [
+   "일반동사의 주어·시제 맞추기",
+   "먼저 풀어 보세요",
+   "3인칭 단수 현재와 Does",
+   "주어 확인 → Do, Does → 개수",
+   "정답 ④ 4개",
+   "3인칭 단수 의문문 → Does"
+  ],
+  "sec": [
+   11,
+   18,
+   31,
+   30,
+   25,
+   13
+  ]
+ },
+ "F": {
+  "title": "불규칙동사 과거형과 did 뒤 동사원형",
+  "intro": "이 문제는 일반동사의 과거형과 did 뒤의 동사 형태가 바르게 쓰인 문장의 개수를 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 어법상 옳은 문장의 개수를 고르세요. 다섯 문장을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 과거형: 규칙동사는 ed로 끝나요 (play → played)",
+    "불규칙동사는 ed를 붙이지 않고 따로 외워요 (come → came, take → took)",
+    "과거 부정문·의문문: 주어와 상관없이 didn't, Did + 동사원형",
+    "예) She came home late last night. (그녀는 어젯밤 늦게 집에 왔어요.)"
+   ],
+   "narration": "일반동사 과거형은 규칙동사면 played처럼 ed로 끝나요. 하지만 come, take 같은 불규칙동사는 ed를 붙이지 않고 came, took처럼 따로 외운 모양을 써요. 과거의 부정문과 의문문은 주어와 상관없이 didn't와 Did를 쓰고, 그 뒤에는 동사원형을 써요. 예를 들어 She came home late last night, 그녀는 어젯밤 늦게 집에 왔어요."
+  },
+  "steps": [
+   {
+    "note": "ⓐ ate = eat의 과거형 ✓ · ⓔ made = make의 과거형 ✓",
+    "highlight": [
+     "We <u>ate</u>",
+     "I <u>made</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 에이 문장 ate는 eat의 과거형이고, 이 문장 I made의 made는 make의 과거형이라 둘 다 맞아요."
+   },
+   {
+    "note": "ⓑ didn't + see ✓ · ⓒ Did + write ✓",
+    "highlight": [
+     "She <u>didn't see</u>",
+     "<u>Did</u> Tom <u>write</u>"
+    ],
+    "strike": [],
+    "narration": "둘째, 비 문장은 didn't 뒤에 see, 씨 문장은 Did 뒤에 write로 동사원형을 써서 맞아요."
+   },
+   {
+    "note": "ⓓ go는 불규칙동사 → went (goed ✗)",
+    "highlight": [],
+    "strike": [
+     "They <u>goed</u>"
+    ],
+    "narration": "셋째, 디 문장의 go는 불규칙동사라서 goed가 아니라 went를 써야 해요."
+   },
+   {
+    "note": "옳은 문장 ⓐ, ⓑ, ⓒ, ⓔ → 4개",
+    "highlight": [
+     "④ 4개"
+    ],
+    "strike": [
+     "① 1개",
+     "② 2개",
+     "③ 3개",
+     "⑤ 5개"
+    ],
+    "narration": "넷째, 옳은 문장은 4개예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 1개  ✗  ⓐ ate, ⓔ made도 바른 과거형이에요",
+    "② 2개  ✗  ⓑ didn't see, ⓒ Did Tom write도 옳아요",
+    "③ 3개  ✗  ⓑ yesterday가 있어도 didn't 뒤에는 see가 맞아요",
+    "④ 4개  ✓  틀린 문장은 ⓓ 하나뿐",
+    "⑤ 5개  ✗  ⓓ go의 과거형은 went (goed ✗)"
+   ],
+   "narration": "정답은 4번, 4개예요. 디 문장 goed는 ed를 붙여서 과거형처럼 보이지만, go는 불규칙동사라서 과거형이 went예요. 이것을 옳다고 세면 5번이에요. 비 문장은 yesterday가 있어도 didn't 뒤라서 동사원형 see가 맞아요. 이것을 틀렸다고 보면 3번이에요."
+  },
+  "summary": {
+   "card": "불규칙동사 과거형은 따로 외워요 (go → went) · didn't, Did 뒤 → 동사원형",
+   "narration": "정답은 4번이에요. 기억할 것, go 같은 불규칙동사는 went처럼 따로 외운 과거형을 쓰고, didn't와 Did 뒤에 오는 동사는 동사원형이에요."
+  },
+  "captions": [
+   "불규칙 과거형과 did 뒤 동사",
+   "먼저 풀어 보세요",
+   "과거형과 didn't, Did",
+   "과거형 → did 뒤 → 개수",
+   "정답 ④ 4개",
+   "go의 과거형은 went"
+  ],
+  "sec": [
+   12,
+   18,
+   29,
+   27,
+   23,
+   14
+  ]
+ }
+}

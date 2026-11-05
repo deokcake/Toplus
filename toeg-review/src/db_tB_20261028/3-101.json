@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:11:16.238Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "happy - happier - happiest",
+      "1": "big - biger - bigest",
+      "2": null,
+      "3": "beautiful - more beautiful - most beautiful",
+      "4": "little - less - least"
+    },
+    "expl": "핵심 규칙: 비교급·최상급은 보통 -er·-est를 붙이고(단모음 + 단자음은 자음을 겹쳐 쓰고, 자음 + y는 y를 i로 바꾼다), 긴 단어는 more·most를 앞에 쓴다. good·well - better - best, bad - worse - worst, many·much - more - most, little - less - least는 불규칙 변화이다.\n풀이 순서: ① 불규칙으로 변하는 낱말(good, little)을 먼저 골라 외운 형태와 견준다. → ② 나머지는 규칙(-er/-est, 긴 단어는 more/most)대로인지 본다. → ③ 단모음 + 단자음으로 끝나는 big은 g를 겹쳐 bigger, biggest인데 ②는 biger, bigest로 썼다. 정답은 ②.\n문장별 판정:\n정답 판단: 단모음 + 단자음으로 끝나는 big은 g를 겹쳐 bigger - biggest로 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 자음 + y로 끝나 y를 i로 바꾸고 -er, -est를 붙인 형태로 바르게 연결했으므로 오답이다.\n② [정답] 단모음 + 단자음으로 끝나는 big은 g를 겹쳐 bigger - biggest로 써야 하므로 정답이다.\n③ [오답] 불규칙 변화를 바르게 연결했으므로 오답이다.\n④ [오답] 긴 단어라 more, most를 앞에 쓴 형태로 바르게 연결했으므로 오답이다.\n⑤ [오답] 불규칙 변화를 바르게 연결했으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 단어의 원급, 비교급, 최상급이 잘못 연결된 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:11:15.698Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:11:16.238Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+ "key": "6-1",
+ "type": "B",
+ "grade": 6,
+ "chapter": "CH 1 명사와 관사",
+ "title": "명사의 복수형 만들기",
+ "total_sec": 129,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "6급 · CH 1 명사와 관사 · 1번 · B 유형\n\n이 문제는 명사의 단수형과 복수형 짝 가운데 복수형을 잘못 만든 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 1 명사와 관사 · 1번 · B 유형",
+     "이 문제는 명사의 단수형과 복수형 짝 가운데 복수형을 잘못 만든 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 1, 1번 B 유형. 이 문제는 명사의 단수형과 복수형 짝 가운데 복수형을 잘못 만든 것을 고르는 문제예요.",
+   "caption": "명사의 복수형 짝 확인"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.\n\n① woman - women\n② box - boxes\n③ foot - feet\n④ child - childs\n⑤ book - books",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+     "① woman - women",
+     "② box - boxes",
+     "③ foot - feet",
+     "④ child - childs",
+     "⑤ book - books"
+    ]
+   },
+   "narration": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\n셀 수 있는 명사로 둘 이상을 말할 때 → 복수형, 대부분 + s (cat → cats)\ns, x, sh, ch로 끝나면 + es (bus → buses)\n자음 + y → y를 i로 바꾸고 + es (story → stories)\n불규칙: man → men, tooth → teeth, mouse → mice\n예) I have two pens and three brushes. (나는 펜 두 자루와 붓 세 자루가 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "셀 수 있는 명사로 둘 이상을 말할 때 → 복수형, 대부분 + s (cat → cats)",
+     "s, x, sh, ch로 끝나면 + es (bus → buses)",
+     "자음 + y → y를 i로 바꾸고 + es (story → stories)",
+     "불규칙: man → men, tooth → teeth, mouse → mice",
+     "예) I have two pens and three brushes. (나는 펜 두 자루와 붓 세 자루가 있어요.)"
+    ]
+   },
+   "narration": "셀 수 있는 명사로 둘 이상을 말할 때는 복수형을 써요. 대부분 cat을 cats로 쓰듯이 s를 붙이고, s, x, sh, ch로 끝나면 보통 es를 붙여요. y 앞이 자음이면 y를 i로 바꾸고 es를 붙여요. man은 men, tooth는 teeth, mouse는 mice처럼 불규칙하게 바뀌는 명사는 따로 외워요. 예를 들어 I have two pens and three brushes, 나는 펜 두 자루와 붓 세 자루가 있어요.",
+   "caption": "s, es, ies와 불규칙 복수형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 37,
+   "screen": {
+    "text": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.\n\n① woman - women\n② box - boxes\n③ foot - feet\n④ child - childs\n⑤ book - books",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "잘못 짝지어진 것"
+      ],
+      "strike": [
+       "② box - boxes",
+       "⑤ book - books"
+      ],
+      "note": "‘잘못 짝지어진 것’ 찾기 → 규칙 짝부터: boxes(x로 끝남), books(+ s) 바름"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① woman - women",
+       "③ foot - feet"
+      ],
+      "note": "불규칙 명사: woman → women, foot → feet 바름"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ child - childs"
+      ],
+      "strike": [],
+      "note": "child의 복수형은 children → childs는 틀림"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 잘못 짝지어진 것을 찾으니까 끝 글자 규칙대로 바뀌는 짝부터 확인해요. box는 x로 끝나서 es를 붙인 boxes, book은 s만 붙인 books로 모두 맞아요. 둘째, 남은 짝은 불규칙하게 바뀌는 명사예요. woman은 women, foot은 feet로 바르게 짝지어졌어요. 셋째, child의 복수형은 children이라서 s를 붙인 childs는 틀린 모양이에요.",
+   "caption": "규칙 짝 → 불규칙 짝 → child"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① woman - women  ✗  woman의 불규칙 복수형 women, 바른 짝\n② box - boxes  ✗  x로 끝나서 + es, 바른 짝\n③ foot - feet  ✗  foot의 불규칙 복수형 feet, 바른 짝\n④ child - childs  ✓  child의 복수형은 children, childs는 틀린 모양\n⑤ book - books  ✗  s만 붙이는 명사, 바른 짝",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① woman - women  ✗  woman의 불규칙 복수형 women, 바른 짝",
+     "② box - boxes  ✗  x로 끝나서 + es, 바른 짝",
+     "③ foot - feet  ✗  foot의 불규칙 복수형 feet, 바른 짝",
+     "④ child - childs  ✓  child의 복수형은 children, childs는 틀린 모양",
+     "⑤ book - books  ✗  s만 붙이는 명사, 바른 짝"
+    ]
+   },
+   "narration": "정답은 4번 child와 childs의 짝이에요. child의 복수형은 children이라서 s를 붙인 childs는 틀렸어요. 1번 women과 3번 feet는 s를 붙이지 않아서 틀려 보이지만, 불규칙하게 바뀌는 명사의 바른 복수형이에요. 2번 box는 x로 끝나서 es를 붙인 boxes가 바른 모양이에요.",
+   "caption": "정답 ④ child - childs"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ④ child - childs\n\n불규칙 명사는 s 대신 정해진 복수형: child → children",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ child - childs",
+     "불규칙 명사는 s 대신 정해진 복수형: child → children"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, child처럼 불규칙하게 바뀌는 명사는 s를 붙이지 않고 children처럼 정해진 복수형을 써요.",
+   "caption": "child → children"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "woman - women",
+   "box - boxes",
+   "foot - feet",
+   "child - childs",
+   "book - books"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 명사의 복수형은 규칙 변화와 불규칙 변화를 구별하여 확인한다.\n풀이 순서: ① 규칙대로 변하는 짝(-s, -es, -ies, -ves)을 먼저 확인한다. → ② 남은 짝은 불규칙 명사다. 불규칙 명사에 -s를 붙인 것을 찾는다. → ③ child의 복수형은 children이다. 정답은 ④.\n문장별 판정:\n정답 판단: child의 불규칙 복수형은 children이다. childs를 children으로 고쳐야 한다. 따라서 발문에서 찾는 잘못된 표현·설명에 해당한다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] woman의 불규칙 복수형은 women이다. 제시된 짝이 올바르다. 따라서 발문에서 찾는 잘못된 표현·설명은 아니다.\n② [오답] box의 복수형은 es를 붙인 boxes이다. 제시된 짝이 올바르다. 따라서 발문에서 찾는 잘못된 표현·설명은 아니다.\n③ [오답] foot의 불규칙 복수형은 feet이다. 제시된 짝이 올바르다. 따라서 발문에서 찾는 잘못된 표현·설명은 아니다.\n④ [정답] child의 불규칙 복수형은 children이다. childs를 children으로 고쳐야 한다. 따라서 발문에서 찾는 잘못된 표현·설명에 해당한다.\n⑤ [오답] book에 s를 붙이면 복수형 books가 된다. 제시된 짝이 올바르다. 따라서 발문에서 찾는 잘못된 표현·설명은 아니다."
+ }
+}

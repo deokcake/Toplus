@@ -1,0 +1,41 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-21T10:52:03.977Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Let's wait for an hour.",
+      "1": "I saw an owl last night.",
+      "2": "Jane is a honest student.",
+      "3": "It is a big house.",
+      "4": "He has an old bike."
+    },
+    "expl": "핵심 규칙: a/an은 철자가 아니라 첫소리로 정한다. hour, honest처럼 h를 발음하지 않는 낱말은 모음 소리로 시작하므로 an을 쓴다.\n풀이 순서: ① a/an 뒤 낱말의 첫 ‘소리’를 본다. 철자와 소리가 다른 낱말(h를 발음하지 않는 낱말, ‘유’로 소리 나는 u·eu)을 살핀다. → ② honest는 h를 발음하지 않아 an honest student다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: honest의 h는 발음하지 않아 모음 소리로 시작하고, an honest로 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] hour의 h는 발음하지 않아 모음 소리로 시작하고, an을 바르게 썼으므로 오답이다.\n② [오답] owl은 모음 소리로 시작하고, an을 바르게 썼으므로 오답이다.\n③ [정답] honest의 h는 발음하지 않아 모음 소리로 시작하고, an honest로 써야 하므로 정답이다.\n④ [오답] big은 자음 소리로 시작하고, a를 바르게 썼으므로 오답이다.\n⑤ [오답] old는 모음 소리로 시작하고, an을 바르게 썼으므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 틀린 문장을 고르시오."
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T10:52:00.361Z",
+      "text": "보기 3번의 내용은 6급에서 배우지 않은것이야  보기1번도 마찬가지야 h 가 묵음으로 되는 honest가 정답이되는 문제로 바꿔"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:37:44.645Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T03:37:44.645Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T10:52:03.977Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:37:44.645Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

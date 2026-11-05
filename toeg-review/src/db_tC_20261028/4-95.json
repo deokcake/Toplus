@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:54:58.836Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "It is a very old tree. → How an old tree it is!",
+      "1": "You are very tall. → How tall you are!",
+      "2": "They are very nice people. → What nice people they are!",
+      "3": "He speaks very slowly. → How slowly he speaks!",
+      "4": "It was a very long day. → What a long day it was!"
+    },
+    "expl": "핵심 규칙: 명사가 있으면 What + (a/an) + 형용사 + 명사 + 주어 + 동사!, 명사 없이 형용사·부사를 강조하면 How + 형용사/부사 + 주어 + 동사!로 바꾼다. 모음 소리 앞에는 an을 쓰고 복수명사 앞에는 a/an을 쓰지 않는다.\n풀이 순서: ① 원래 문장에서 very가 꾸미는 말을 본다. 명사가 딸려 있으면 What, 형용사·부사뿐이면 How로 시작한다. → ② 감탄문의 끝이 ‘주어 + 동사’ 순서인지, a/an이 제자리에 있는지 본다. → ③ 선택지 ①은 an old tree라는 명사구가 있으므로 What an old tree it is!가 되어야 한다. 정답은 ①.\n문장별 판정:\n정답 판단: 명사구(an old tree)가 있으면 How가 아니라 What을 써야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] 명사구(an old tree)가 있으면 How가 아니라 What을 써야 하므로 정답이다.\n② [오답] 감탄문으로 바르게 바꿨으므로 오답이다.\n③ [오답] 감탄문으로 바르게 바꿨으므로 오답이다.\n④ [오답] 감탄문으로 바르게 바꿨으므로 오답이다.\n⑤ [오답] 감탄문으로 바르게 바꿨으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 문장들을 감탄문으로 바꾼 것 중 어법상 어색한 것은?"
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:54:58.219Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:54:58.836Z",
+      "what": "확인 완료"
+    }
+  }
+}

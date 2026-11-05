@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-21T05:16:44.755Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "was offered to Mina",
+      "1": "has offered Mina",
+      "2": "was offering Mina",
+      "3": "is offered Mina",
+      "4": "had offered Mina"
+    },
+    "expl": "핵심 규칙: 4형식 문장의 사물 목적어를 주어로 수동태를 만들면 be + 과거분사 뒤 사람 앞에 전치사(to)를 쓴다. 과거 문장이면 was/were를 쓴다.\n풀이 순서: ① 능동문의 구조를 나눈다: offered(동사) + Mina(사람) + a scholarship(사물). → ② 사물 목적어(a scholarship)가 주어가 되면 동사는 과거의 수동태(was + 과거분사)가 되고, 남은 사람 목적어 앞에는 to를 붙인다. → ③ 능동형(have/had + 과거분사, was + -ing)과 현재형을 지운다. 정답은 was offered to Mina.\n문장별 판정:\n정답 판단: 과거 능동문이므로 was offered, 사람 앞에는 to를 붙인 was offered to Mina가 알맞다. 정답은 ①이다.\n선택지 분석:\n① [정답] 과거 능동문이므로 was offered, 사람 앞에는 to를 붙인 was offered to Mina가 알맞다. 정답이다.\n② [오답] has offered Mina: 현재완료 능동형이라 주어(The scholarship)가 받은 것이 되는 수동 관계를 나타내지 못한다.\n③ [오답] was offering Mina: 과거진행 능동형이라 수동 관계를 나타내지 못한다.\n④ [오답] is offered Mina: 현재 수동이라 과거 문장의 시제와 맞지 않는다.\n⑤ [오답] had offered Mina: 과거완료 능동형이라 수동 관계를 나타내지 못한다.",
+    "passage": "The university offered Mina a scholarship for academic excellence.\n→ The scholarship (<u>        </u>) for academic excellence by the university.",
+    "stem": "다음 문장을 ‘The scholarship’을 주어로 하는 수동태 문장으로 바꿀 때, 빈칸에 들어갈 말로 가장 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T05:16:31.219Z"
+  },
+  "tab": "fi3f83jb",
+  "updatedAt": "2026-10-21T05:16:44.755Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T05:16:44.755Z",
+      "what": "확인 완료"
+    }
+  }
+}

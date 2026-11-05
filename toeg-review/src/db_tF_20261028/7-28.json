@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:41:45.942Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: Where + be동사 + 주어?에서 be동사는 주어에 맞추고, 대답의 be동사도 대답의 주어에 맞춘다.\n풀이 순서: ① 질문의 주어: I → am. → ② 대답의 주어: You → are. → ③ 정답은 am - are.\n문장별 판정:\n정답 판단: 질문과 대답의 주어에 맞는 be동사를 바르게 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 첫째 빈칸 are: 주어 I에는 am을 쓴다. 따라서 오답이다.\n② [오답] 첫째 빈칸 is: 주어 I에는 am을 쓴다. 둘째 빈칸 am: 주어 You에는 are를 쓴다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 is: 주어 I에는 am을 쓴다. 둘째 빈칸 is: 주어 You에는 are를 쓴다. 따라서 오답이다.\n④ [정답] 질문과 대답의 주어에 맞는 be동사를 바르게 썼으므로 정답이다.\n⑤ [오답] 첫째 빈칸 are: 주어 I에는 am을 쓴다. 둘째 빈칸 am: 주어 You에는 are를 쓴다. 따라서 오답이다.",
+    "passage": "A: Where ________ I?\nB: You ________ in the school library.",
+    "stem": "다음 대화의 빈칸에 알맞은 be동사가 순서대로 짝지어진 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:41:43.714Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:41:45.942Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:41:45.942Z",
+      "what": "확인 완료"
+    }
+  }
+}

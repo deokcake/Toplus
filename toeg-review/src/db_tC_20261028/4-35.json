@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T12:40:21.734Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "ⓐ, ⓑ",
+      "1": "ⓐ, ⓒ",
+      "2": "ⓑ, ⓒ",
+      "3": "ⓑ, ⓓ",
+      "4": "ⓒ, ⓓ"
+    },
+    "expl": "핵심 규칙: 규칙 과거형은 -ed를 붙이되, 자음 + y는 y를 i로 바꾸고(cry → cried), 단모음 + 단자음은 자음을 겹쳐 쓴다(stop → stopped, plan → planned). 불규칙 과거형(go → went, buy → bought)을 따로 익히고, Did 의문문에는 동사원형을 쓴다.\n풀이 순서: ① 밑줄 친 동사가 규칙 동사인지 불규칙 동사인지 가른다. 규칙 동사는 철자 규칙(자음 겹치기, y → i)을, 불규칙 동사는 외운 형태를 확인한다. → ② Did가 있으면 뒤가 동사원형인지 본다. → ③ ⓐ Did ~ went(go), ⓒ hurryed(hurried)가 틀렸다. 옳은 문장만 고른 ⓑ, ⓓ가 정답이다.\n문장별 판정:\nⓐ X. Did 뒤에는 동사원형 go를 쓴다.\nⓑ O. plan은 n을 겹쳐 쓰고 -ed를 붙인다.\nⓒ X. 자음 + y는 y를 i로 바꿔 hurried로 쓴다.\nⓓ O. 모음 + y는 그대로 -ed를 붙인다.\n정답 판단: 밑줄 친 부분이 옳은 문장은 ⓑ, ⓓ이다.\n선택지 분석:\n① [오답] ⓐ는 옳은 문장이 아니고, 옳은 문장 ⓓ를 빠뜨렸다. 따라서 오답이다.\n② [오답] ⓐ, ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓑ, ⓓ를 빠뜨렸다. 따라서 오답이다.\n③ [오답] ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓓ를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 ⓑ, ⓓ를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓑ를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "ⓐ Did you <u>went</u> to the zoo last weekend?\nⓑ I <u>planned</u> a trip with my family.\nⓒ Tom <u>hurryed</u> to school this morning.\nⓓ We <u>played</u> soccer in the park yesterday.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T12:40:20.804Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T12:40:21.734Z",
+      "what": "확인 완료"
+    }
+  }
+}

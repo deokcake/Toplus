@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T04:09:50.443Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "I found <u>a</u> coin on the street.",
+      "1": "We looked up at <u>a</u> sky.",
+      "2": "<u>The</u> sun rises in the east.",
+      "3": "Tom ate <u>an</u> apple.",
+      "4": "<u>The</u> cat on the sofa is mine."
+    },
+    "expl": "핵심 규칙: 세상에 하나뿐인 대상(the sun, the moon, the sky, the world, the Earth)과 서로 알고 있는 특정 대상 앞에는 the를 쓴다. 처음 말하는 셀 수 있는 단수명사 앞에는 첫소리에 따라 a/an을 쓴다.\n풀이 순서: ① 밑줄 뒤의 명사를 본다. 세상에 하나뿐인 것이면 the여야 한다. → ② 그 밖에는 a/an이 첫소리와 맞는지 본다. → ③ 선택지 ②의 sky는 하나뿐인데 a를 썼다. 정답은 ②.\n문장별 판정:\n정답 판단: 세상에 하나뿐인 하늘(sky) 앞에는 the를 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 처음 말하는 셀 수 있는 단수명사 앞에 첫소리에 맞는 a/an을 바르게 썼으므로 오답이다.\n② [정답] 세상에 하나뿐인 하늘(sky) 앞에는 the를 써야 하므로 정답이다.\n③ [오답] 세상에 하나뿐인 태양 앞에 the를 바르게 썼으므로 오답이다.\n④ [오답] 처음 말하는 셀 수 있는 단수명사 앞에 첫소리에 맞는 a/an을 바르게 썼으므로 오답이다.\n⑤ [오답] 서로 알고 있는 특정 대상 앞에 the를 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 밑줄 친 부분이 잘못된 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T04:09:48.219Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T04:09:50.443Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T04:09:50.443Z",
+      "what": "확인 완료"
+    }
+  }
+}

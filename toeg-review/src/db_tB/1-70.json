@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-07T02:51:03.307Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": 5,
+    "c": {
+      "0": "Having finish the work, we left.",
+      "1": "The meeting having over, we went home.",
+      "2": "It being cold, so we stayed inside.",
+      "3": "There having no seats, we stood.",
+      "4": "All the guests having arrived, dinner began."
+    },
+    "expl": "핵심 규칙: 주절과 주어가 다른 분사구문(독립분사구문)은 의미상 주어를 분사 앞에 밝혀 쓴다. 완료형은 having + 과거분사, 완료 수동은 having been + 과거분사이며, 분사구문 뒤에 so 같은 접속사를 붙이지 않는다.\n풀이 순서: ① 분사구문의 형태를 본다: 분사(-ing·과거분사)가 있어야 하고, 주절과 다른 주어는 분사 바로 앞에 밝힌다(‘주어 + 분사 ~, 주절’). → ② 분사의 모양이 틀렸거나, 분사구문 뒤에 접속사(so, and, but)를 붙였거나, 주어의 자리가 틀린 보기를 지운다. → ③ 남는 ⑤는 주어 All the guests 뒤에 완료의 분사 having arrived를 바르게 썼다.\n문장별 판정:\n정답 판단: 주절의 주어 dinner와 다른 All the guests를 밝히고 완료의 분사 having arrived를 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] Having 뒤에는 과거분사 finished를 써야 하는데 finish를 썼으므로 오답이다.\n② [오답] be over(끝나다)이고, The meeting being over가 되어야 하는데 having over라고 썼으므로 오답이다.\n③ [오답] 분사구문 뒤에 접속사 so를 붙였으므로 오답이다.\n④ [오답] There being no seats가 되어야 하는데 having을 썼으므로 오답이다.\n⑤ [정답] 주절의 주어 dinner와 다른 All the guests를 밝히고 완료의 분사 having arrived를 바르게 썼으므로 정답이다.",
+    "passage": "",
+    "stem": "다음 중 분사구문의 쓰임이 어법상 옳은 문장을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-04T11:43:50.615Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-04T11:47:07.135Z",
+      "text": "기준문항과 변형문항 모두 조건이 너무 단순함. 선택지의 예문은 충분히 활용 가치가 있음. 선택지를 유지하는 방향에서 유형을 적절히 수정하는 것을 추천."
+    }
+  },
+  "tab": "a0bclcbk",
+  "updatedAt": "2026-10-07T02:51:07.682Z",
+  "verdict": null,
+  "verdictAt": "2026-10-07T02:51:07.682Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-07T02:51:07.682Z",
+      "what": "판정을 Claude 판정으로 되돌림"
+    }
+  }
+}

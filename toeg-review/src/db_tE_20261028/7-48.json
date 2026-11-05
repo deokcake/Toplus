@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T07:49:31.630Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "that",
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: ‘이것(들)은/저것(들)은 ~의 … 이다’는 지시대명사 + be동사 + 소유격 + 형용사 + 명사의 순서로 배열한다. this/that에는 is, these/those에는 are를 쓴다.\n풀이 순서: ① 우리말의 주어(‘저것은’)에 맞는 지시대명사와 be동사를 먼저 놓는다: That is. → ② 그 뒤에 소유격 + 형용사 + 명사를 잇는다: her small bag. → ③ 완성 문장 That is her small bag.의 셋째 낱말은 her.\n문장별 판정:\n정답 판단: 완성 문장은 That is her small bag.이고 세 번째 단어는 her이다.\n선택지 분석:\n① [정답] 완성 문장 That is her small bag.에서 단어(her)는 3번째에 오므로 정답이다.\n② [오답] 완성 문장 That is her small bag.에서 단어(that)는 1번째에 오므로 오답이다.\n③ [오답] 완성 문장 That is her small bag.에서 단어(is)는 2번째에 오므로 오답이다.\n④ [오답] 완성 문장 That is her small bag.에서 단어(bag)는 5번째에 오므로 오답이다.\n⑤ [오답] 완성 문장 That is her small bag.에서 단어(small)는 4번째에 오므로 오답이다.",
+    "passage": "저것은 그녀의 작은 가방이다.\n( her / that / is / bag / small / . )",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 만들 때, 세 번째에 올 단어를 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T07:49:29.875Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T07:49:31.630Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T07:49:31.630Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-22T03:39:03.794Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "_______ the kids at the park?",
+      "1": "_______ you and Tom brothers?",
+      "2": "_______ these shoes new?",
+      "3": "_______ your bag heavy?",
+      "4": "_______ they in the library?"
+    },
+    "expl": "핵심 규칙: be동사 부정문은 be동사 뒤에 not을 붙인다(am not, is not/isn't, are not/aren't). 의문문은 be동사를 주어 앞에 두고, 대답의 be동사도 주어에 맞춘다. be동사는 I에 am, 3인칭 단수에 is, you·복수에 are를 쓴다.\n풀이 순서: ① 빈칸 뒤의 주어를 하나씩 본다. → ② you나 여럿이면 Are, 한 사람·한 개(셀 수 없는 것 포함)면 Is, I면 Am이다. → ③ your bag은 한 개라 Is가 들어간다. 정답은 ④.\n문장별 판정:\n정답 판단: 주어(your bag)에는 Are가 아니라 be동사(Is)가 들어가므로 정답은 ④이다.\n선택지 분석:\n① [오답] 주어(the kids)에는 Are가 들어가므로 오답이다.\n② [오답] 주어(you and Tom)에는 Are가 들어가므로 오답이다.\n③ [오답] 주어(these shoes)에는 Are가 들어가므로 오답이다.\n④ [정답] 주어(your bag)에는 Are가 아니라 be동사(Is)가 들어가므로 정답이다.\n⑤ [오답] 주어(they)에는 Are가 들어가므로 오답이다.",
+    "passage": "",
+    "stem": "다음 빈칸에 들어갈 말이 ‘Are’이 아닌 것을 고르시오."
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:38:57.192Z",
+      "text": "children을 규칙변화 복수형으로 바꾸고 7급에서는 되도록 불규칙 명사복수형을 내지마"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:14:12.703Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T04:14:12.703Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:39:03.794Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:14:12.703Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

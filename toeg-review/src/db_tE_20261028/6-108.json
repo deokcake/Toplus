@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T08:58:39.165Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "(A) Let's - (B) Shall",
+      "1": "(A) How about - (B) Let's",
+      "2": "(A) Shall - (B) How about",
+      "3": "(A) Are - (B) Let's",
+      "4": "(A) Shall - (B) Let's"
+    },
+    "expl": "핵심 규칙: Let's와 Why don't we 뒤에는 동사원형, Shall we 뒤에도 동사원형을 쓰고, How about/What about 뒤에는 -ing형을 쓴다. Shall은 we와 함께 Shall we ~?로 쓴다.\n풀이 순서: ① (A) 뒤를 본다: we turn ~? → Shall. → ② (B) 뒤를 본다: open(동사원형), 마침표 → Let's. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: Shall we와 Let's + 동사원형을 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] (A): Let's 뒤에는 we를 쓰지 않고, (B): Shall은 we와 함께 써야 하므로 오답이다.\n② [오답] (A): How about 뒤에는 we + 동사원형을 쓰지 않으므로 오답이다.\n③ [오답] (B): How about 뒤에는 -ing형 opening을 써야 하므로 오답이다.\n④ [오답] (A): be동사 Are와 동사원형 turn을 함께 쓸 수 없으므로 오답이다.\n⑤ [정답] Shall we와 Let's + 동사원형을 바르게 썼으므로 정답이다.",
+    "passage": "A: The room is dark. (<u>   A   </u>) we turn on the light?\nB: Good idea. (<u>   B   </u>) open the curtains too.",
+    "stem": "다음 대화의 빈칸에 들어갈 말이 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T08:58:37.813Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T08:58:39.165Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:58:39.165Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-06T08:56:39.730Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Let's play outside.",
+      "1": "Please be quiet.",
+      "2": "How an interesting book it is!",
+      "3": "Don't worry about it.",
+      "4": "What a cute puppy it is!"
+    },
+    "expl": "핵심 규칙: 명령문은 동사원형으로, Let's 뒤에는 동사원형을 쓴다. 감탄문은 What + (a/an) + 형용사 + 명사 + 주어 + 동사!, How + 형용사/부사 + 주어 + 동사!이다.\n풀이 순서: ① 감탄문은 What/How 바로 뒤를 본다. a/an + 형용사 + 명사가 오면 What, 형용사·부사만 오면 How다. → ② 명령문·제안문은 동사원형으로 시작하는지 본다. → ③ 선택지 ③은 an interesting book 앞에 How를 썼다. What으로 고친다. 정답은 ③.\n문장별 판정:\n정답 판단: 명사구가 있으면 How가 아니라 What을 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 문장 종류에 맞게 바르게 썼으므로 오답이다.\n② [오답] 문장 종류에 맞게 바르게 썼으므로 오답이다.\n③ [정답] 명사구가 있으면 How가 아니라 What을 써야 하므로 정답이다.\n④ [오답] 문장 종류에 맞게 바르게 썼으므로 오답이다.\n⑤ [오답] 문장 종류에 맞게 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T08:56:27.277Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T08:56:39.730Z",
+      "what": "확인 완료"
+    }
+  }
+}

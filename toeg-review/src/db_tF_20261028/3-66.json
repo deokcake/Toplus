@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-27T05:13:19.699Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "far",
+      "1": "often",
+      "2": "long",
+      "3": "many",
+      "4": "much"
+    },
+    "expl": "핵심 규칙: How many+가산 복수명사는 개수를, How much+불가산명사는 양을 묻는다. How long/far/often은 각각 기간·길이/거리/빈도를 묻는다.\n풀이 순서: ① 빈칸 뒤 명사가 셀 수 있는지 본다(time, 셀 수 없음). → ② 셀 수 없는 명사의 양은 How much, 셀 수 있는 복수 명사의 수는 How many로 묻는다. → ③ 정답은 much.\n문장별 판정:\n정답 판단: time은 이 문맥에서 불가산명사이므로 How much time이 맞다. 따라서 정답은 ⑤이다.\n선택지 분석:\n① [오답] How far는 거리를 묻는다. 이 자리에서는 time의 수량을 물으므로 How much를 쓴다.\n② [오답] How often은 빈도를 묻는다. 이 자리에서는 time의 수량을 물으므로 How much를 쓴다.\n③ [오답] How long do you have?도 시간의 양을 물을 수 있지만, 주어진 명사 time을 long 뒤에 바로 붙여 How long time으로 쓰지는 않는다. time을 유지하면 How much time do you have?로 써야 한다.\n④ [오답] many는 가산 복수명사의 수량에 쓰므로 이 문장의 time과 맞지 않는다. much가 필요하다.\n⑤ [정답] time은 이 문맥에서 불가산명사이므로 How much time이 맞다.",
+    "passage": "How ______ time do you have before the next class?",
+    "stem": "다음 빈칸에 들어갈 알맞은 말을 고르시오."
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:13:19.699Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:13:19.699Z",
+      "what": "확인 완료"
+    }
+  }
+}

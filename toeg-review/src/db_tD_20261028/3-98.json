@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-23T18:19:41.634Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "many - little - a few",
+      "1": "a lot of - little - a few",
+      "2": "a lot of - few - a little",
+      "3": "much - a little - a few",
+      "4": "a lot of - a little - much"
+    },
+    "expl": "핵심 규칙: many·a few·few는 셀 수 있는 명사의 복수형, much·a little·little은 셀 수 없는 명사에 쓰고 a lot of는 둘 다에 쓴다. a few·a little은 ‘조금 있는’, few·little은 ‘거의 없는’이다.\n풀이 순서: ① 빈칸 뒤 명사가 셀 수 있는지 하나씩 본다: (A) snow 셀 수 없음, (B) snow 셀 수 없음, (C) buttons 셀 수 있음. → ② 셀 수 있으면 many·a few·few, 셀 수 없으면 much·a little·little, a lot of는 둘 다 된다. → ③ 세 자리가 모두 맞는 a lot of - little - a few가 정답이다.\n문장별 판정:\n정답 판단: (A)~(C) 모두 명사의 종류(셀 수 있는지)와 대화의 뜻에 맞으므로 정답은 ②이다.\n선택지 분석:\n① [오답] (A) many: 셀 수 있는 명사에 쓰는 말이라 snow에 맞지 않는다. 따라서 오답이다.\n② [정답] (A)~(C) 모두 명사의 종류(셀 수 있는지)와 대화의 뜻에 맞으므로 정답이다.\n③ [오답] (B) few: 셀 수 있는 명사에 쓰는 말이라 snow에 맞지 않는다, (C) a little: 셀 수 없는 명사에 쓰는 말이라 buttons에 맞지 않는다. 따라서 오답이다.\n④ [오답] (A) much: 밤새 눈이 와 많이 쌓였다는 뜻이라 a lot of가 알맞다, (B) a little: ‘거의 없었다’는 뜻이라 very little이 알맞다(very a little은 쓰지 않는다). 따라서 오답이다.\n⑤ [오답] (B) a little: ‘거의 없었다’는 뜻이라 very little이 알맞다(very a little은 쓰지 않는다), (C) much: 셀 수 없는 명사에 쓰는 말이라 buttons에 맞지 않는다. 따라서 오답이다.",
+    "passage": "Minji: There is (A)________ snow outside! The whole street is white.\nSuho: Yes, it snowed all night. But there was very (B)________ snow last year, right?\nMinji: Right. Let's make a snowman before it melts. Can you bring (C)________ buttons for its eyes?\nSuho: Sure. I have two black ones in my room.",
+    "stem": "다음 대화의 빈칸 (A)~(C)에 들어갈 말로 알맞은 것을 고르시오."
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:19:41.634Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:19:41.634Z",
+      "what": "확인 완료"
+    }
+  }
+}

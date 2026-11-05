@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-06T06:50:13.592Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "in, the",
+      "1": "at, a",
+      "2": "on, the",
+      "3": "at, the",
+      "4": "in, a"
+    },
+    "expl": "핵심 규칙: at the moment(지금), for an hour(한 시간 동안), at the end of(~의 끝에), on the first of(~일에), in a minute(곧)처럼 전치사와 관사가 짝을 이루는 표현을 익힌다.\n풀이 순서: ① 전치사: ‘지금, 이 순간’은 한 시점이므로 at을 쓴다. → ② 관사: at the moment처럼 the를 함께 쓴다. → ③ 정답은 at, the.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 첫째 빈칸 in: ‘지금’은 at the moment로 at을 쓴다. 따라서 오답이다.\n② [오답] 둘째 빈칸 a: at the moment로 the를 쓴다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 on: ‘지금’은 at the moment로 at을 쓴다. 따라서 오답이다.\n④ [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n⑤ [오답] 첫째 빈칸 in: ‘지금’은 at the moment로 at을 쓴다, 둘째 빈칸 a: at the moment로 the를 쓴다. 따라서 오답이다.",
+    "passage": "She is busy ______ ______ moment.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T06:49:58.275Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T06:50:13.592Z",
+      "what": "확인 완료"
+    }
+  }
+}

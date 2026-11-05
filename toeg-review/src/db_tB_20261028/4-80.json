@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T08:25:28.028Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "(가), (나), (다)",
+      "1": "(가), (다), (라)",
+      "2": "(나), (라), (마)",
+      "3": "(가), (다), (마)",
+      "4": "(다), (라), (마)"
+    },
+    "expl": "핵심 규칙: 비교급·최상급에는 -er·-est와 more·most를 겹쳐 쓰지 않고, good - better - best, bad - worse - worst 같은 불규칙 변화를 바르게 쓴다.\n풀이 순서: ① 문장마다 비교급·최상급의 형태만 본다. → ② more/most와 -er/-est를 겹쳐 쓴 문장, 불규칙 변화를 규칙형으로 쓴 문장을 지운다. → ③ (나) more taller, (마) the most smallest가 틀렸다. 옳은 문장만 묶은 (가), (다), (라)가 정답이다.\n문장별 판정:\n(가) O. 긴 단어 expensive에 most를 썼다.\n(나) X. taller에 more를 겹쳐 쓸 수 없다.\n(다) O. happy의 비교급 happier이다.\n(라) O. bad의 최상급 worst이다.\n(마) X. smallest에 most를 겹쳐 쓸 수 없다.\n정답 판단: 어법상 옳은 문장은 (가), (다), (라)이다.\n선택지 분석:\n① [오답] (나)는 옳은 문장이 아니고, 옳은 문장 (라)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 옳은 문장 (가), (다), (라)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (나), (마)는 옳은 문장이 아니고, 옳은 문장 (가), (다)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (마)는 옳은 문장이 아니고, 옳은 문장 (라)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (마)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "<보기>\n(가) This is the most expensive bag in the shop.\n(나) Tom is more taller than his brother Ben.\n(다) Jane is happier than Amy about the trip.\n(라) It is the worst movie of the year.\n(마) The cat is the most smallest animal in the house.",
+    "stem": "다음 <보기> 중 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-20T08:00:14.972Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T08:48:40.570Z",
+      "text": "기준 문항에 비해 변형 문항의 문장이 짧고 단조로움. 적절한 수정 필요."
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T08:25:28.028Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T08:00:31.894Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T08:25:28.028Z",
+      "what": "확인 완료"
+    }
+  }
+}

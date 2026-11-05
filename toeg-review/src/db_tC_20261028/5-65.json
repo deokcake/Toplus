@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T02:39:14.613Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "A: How old is your sister? B: She is ten years old.",
+      "1": "A: What's the date today? B: It's July 7th.",
+      "2": "A: How tall is he? B: He is about 170 centimeters tall.",
+      "3": "A: What time does the movie start? B: It's rainy today.",
+      "4": "A: How many pencils do you have? B: I have three."
+    },
+    "expl": "핵심 규칙: How much는 값, How long은 걸리는 시간이나 길이, How far는 거리, How heavy는 무게, What time은 시각, What day는 요일, What's the date는 날짜를 묻는다.\n풀이 순서: ① 질문마다 의문사구가 무엇을 묻는지 적는다(값, 시간, 거리, 날짜, 요일 …). → ② 대답이 같은 종류의 정보인지 견준다. → ③ 선택지 ④는 What time(시각)에 날씨로 답했다. 정답은 ④.\n문장별 판정:\n정답 판단: 영화 시작 시각을 묻는데 날씨로 답했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 나이를 묻는 질문에 나이로 알맞게 답했으므로 오답이다.\n② [오답] 날짜를 묻는 질문에 날짜로 알맞게 답했으므로 오답이다.\n③ [오답] 키를 묻는 질문에 키로 알맞게 답했으므로 오답이다.\n④ [정답] 영화 시작 시각을 묻는데 날씨로 답했으므로 정답이다.\n⑤ [오답] 개수를 묻는 질문에 개수로 알맞게 답했으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 대화가 어색한 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:39:13.398Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-22T02:39:14.613Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:39:14.613Z",
+      "what": "확인 완료"
+    }
+  }
+}

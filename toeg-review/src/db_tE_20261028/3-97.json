@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:28:52.136Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "Open your mouth wide so the dentist can check your teeth.",
+      "1": "Open your mouth widely so the dentist can check your teeth.",
+      "2": "Open your mouth very widely so the dentist can check your teeth.",
+      "3": "Open your mouth widelier so the dentist can check your teeth.",
+      "4": "Open your mouth too widing so the dentist can check your teeth."
+    },
+    "expl": "핵심 규칙: high(높이)/highly(매우), late(늦게)/lately(최근에), hard(열심히)/hardly(거의 ~않다), wide(활짝)/widely(널리)처럼 -ly가 붙으면 뜻이 달라지는 부사가 있고, fast·early는 -ly 없이 부사로 쓴다.\n풀이 순서: ① 밑줄 친 부사의 뜻을 확인한다: widely는 ‘널리’라는 뜻이다. → ② 우리말 ‘활짝’에 맞는 부사는 형용사와 형태가 같은 wide다. → ③ 부사만 바르게 고치고 나머지는 그대로 둔 문장을 고른다. 정답은 ①.\n문장별 판정:\n정답 판단: ‘활짝’은 wide로 쓰므로 정답은 ①이다.\n선택지 분석:\n① [정답] ‘활짝’은 wide로 쓰므로 정답이다.\n② [오답] 틀린 부분(widely, 널리)을 그대로 두었으므로 오답이다.\n③ [오답] widely는 ‘널리’라는 뜻이라 very를 붙여도 ‘활짝’이 되지 않으므로 오답이다.\n④ [오답] widelier라는 형태는 없으므로 오답이다.\n⑤ [오답] widing이라는 형태는 없으므로 오답이다.",
+    "passage": "Open your mouth <u>widely</u> so the dentist can check your teeth.\n(치과 의사가 이를 볼 수 있도록 입을 활짝 벌려라.)",
+    "stem": "다음 문장에서 밑줄 친 부분을 바르게 고친 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T04:51:18.929Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:51:24.685Z",
+      "text": "기준 문항에 비해 문장이 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:28:52.136Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:28:45.043Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:28:52.136Z",
+      "what": "확인 완료"
+    }
+  }
+}

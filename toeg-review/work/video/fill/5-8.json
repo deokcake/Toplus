@@ -1,0 +1,350 @@
+{
+ "A": {
+  "title": "단수 명사 Mom의 소유격",
+  "intro": "이 문제는 belongs to Mom과 같은 뜻이 되도록 빈칸에 알맞은 Mom의 소유격을 고르는 문제예요.",
+  "problem_narration": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르세요. This umbrella belongs to Mom. This is 빈칸 umbrella. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "A belongs to B. = A is B's ~.  (물건 A는 주인 B의 것)",
+    "단수 명사 → 's   Dad → Dad's (아빠의)",
+    "s로 끝나는 복수 명사 → '만   the girls → the girls' (소녀들의)",
+    "s로 끝나지 않는 복수 명사 → 's   the men → the men's (남자들의)",
+    "예) This cap belongs to Dad. = This is Dad's cap. (이것은 아빠의 모자예요.)"
+   ],
+   "narration": "물건 뒤에 belong to와 주인이 오면 그 물건이 주인의 것이라는 뜻이고, 주인을 소유격으로 바꿔 물건 앞에 써도 같은 뜻이에요. 명사의 소유격은 단수 명사와 men처럼 s로 끝나지 않는 복수 명사에는 아포스트로피 에스를, s로 끝나는 복수 명사에는 아포스트로피만 붙여요. This cap belongs to Dad, 이 모자는 아빠의 것이에요. Dad는 단수 명사라 아포스트로피 에스를 붙여요. This is Dad's cap, 이것은 아빠의 모자예요."
+  },
+  "steps": [
+   {
+    "note": "belongs to 뒤 = 주인 → Mom (엄마 한 사람 = 단수 명사)",
+    "highlight": ["belongs to Mom."],
+    "strike": [],
+    "narration": "첫째, belongs to 뒤의 주인은 Mom, 엄마 한 사람이에요."
+   },
+   {
+    "note": "빈칸 = 명사 umbrella 앞 → ‘엄마의’ 소유격 자리. 's가 없는 Mom·Moms, 주어 + be동사 Mom is 지움",
+    "highlight": ["________ umbrella."],
+    "strike": ["① Mom", "② Moms", "④ Mom is"],
+    "narration": "둘째, 빈칸은 명사 umbrella 앞이라 엄마의라는 뜻의 소유격이 와야 해요. 그래서 아포스트로피가 없는 1번 Mom과 2번 Moms, 주어와 be동사인 4번 Mom is는 지워요."
+   },
+   {
+    "note": "Mom = 단수 명사 → 's. 복수의 소유격 Moms'(엄마들의) 지움 → Mom's",
+    "highlight": ["③ Mom's"],
+    "strike": ["⑤ Moms'"],
+    "narration": "셋째, Mom은 단수 명사라 아포스트로피 에스를 붙이니, 엄마들의라는 뜻인 5번은 지우고 3번 Mom's가 남아요. This is Mom's umbrella, 이것은 엄마의 우산이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Mom  ✗  's가 없어 ‘엄마의’라는 뜻이 되지 않아요",
+    "② Moms  ✗  복수형(엄마들)일 뿐 소유격이 아니에요",
+    "③ Mom's  ✓  단수 명사 Mom + 's → 엄마의",
+    "④ Mom is  ✗  주어와 be동사 · ‘엄마의’라는 뜻이 아니에요",
+    "⑤ Moms'  ✗  복수의 소유격(엄마들의) · 주인은 엄마 한 사람이에요"
+   ],
+   "narration": "정답은 3번 Mom's예요. 5번은 Moms 뒤에 아포스트로피만 붙인 꼴이라 엄마들의라는 뜻인데, 주인은 엄마 한 사람이라 틀려요. 4번 Mom is는 주어 Mom과 be동사 is를 쓴 말이라, 명사 umbrella 앞에서 엄마의라는 뜻이 되지 않아요. 2번 Moms는 엄마들이라는 복수형일 뿐 소유격이 아니에요."
+  },
+  "summary": {
+   "card": "A belongs to B. = A is B's ~.  주인 B가 단수 명사이면 's",
+   "narration": "정답은 3번이에요. 기억할 것, 주인이 한 사람인 단수 명사이면 아포스트로피 에스를 붙여 소유격을 만들어요."
+  },
+  "captions": [
+   "Mom의 소유격 고르기",
+   "먼저 풀어 보세요",
+   "belong to와 명사의 소유격",
+   "주인 Mom → 단수 → 's",
+   "정답 ③ Mom's",
+   "단수 명사 + 's"
+  ],
+  "sec": [10, 14, 28, 36, 28, 10]
+ },
+ "B": {
+  "title": "복수 명사 children의 소유격",
+  "intro": "이 문제는 belong to the children과 같은 뜻이 되도록 빈칸에 알맞은 the children의 소유격을 고르는 문제예요.",
+  "problem_narration": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르세요. These pencils belong to the children. These are 빈칸 pencils. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "A belongs to B. = A is B's ~.  (물건 A는 주인 B의 것)",
+    "단수 명사 → 's   Dad → Dad's (아빠의)",
+    "s로 끝나는 복수 명사 → '만   the girls → the girls' (소녀들의)",
+    "s로 끝나지 않는 복수 명사 → 's   the men → the men's (남자들의)",
+    "예) These hats belong to the women. = These are the women's hats. (이것들은 그 여자들의 모자예요.)"
+   ],
+   "narration": "물건 뒤에 belong to와 주인이 오면 그 물건이 주인의 것이라는 뜻이고, 주인을 소유격으로 바꿔 물건 앞에 써도 같은 뜻이에요. 명사의 소유격은 단수 명사와 men처럼 s로 끝나지 않는 복수 명사에는 아포스트로피 에스를, s로 끝나는 복수 명사에는 아포스트로피만 붙여요. These hats belong to the women, 이 모자들은 그 여자들의 것이에요. women은 s로 끝나지 않는 복수 명사라 아포스트로피 에스를 붙여요. These are the women's hats, 이것들은 그 여자들의 모자예요."
+  },
+  "steps": [
+   {
+    "note": "belong to 뒤 = 주인 → the children (아이들 = s로 끝나지 않는 복수 명사)",
+    "highlight": ["belong to the children."],
+    "strike": [],
+    "narration": "첫째, belong to 뒤의 주인은 the children, 아이들이에요."
+   },
+   {
+    "note": "빈칸 = 명사 pencils 앞 → ‘아이들의’ 소유격 자리. 's가 없는 the children, ‘그들의 아이들’이 되는 their children 지움",
+    "highlight": ["________ pencils."],
+    "strike": ["① the children", "③ their children"],
+    "narration": "둘째, 빈칸은 명사 pencils 앞의 소유격 자리라 아포스트로피가 없는 1번을 지우고, 그들의 아이들이라는 뜻이 되는 3번 their children도 지워요."
+   },
+   {
+    "note": "children = 이미 복수, s로 끝나지 않음 → 's. childrens'·the child's(한 아이의) 지움 → the children's",
+    "highlight": ["② the children's"],
+    "strike": ["④ the childrens'", "⑤ the child's"],
+    "narration": "셋째, children은 이미 복수라 s를 더 붙이지 않고, s로 끝나지 않으니 아포스트로피 에스를 붙여요. 그래서 4번과 한 아이의라는 뜻인 5번을 지우면 2번 the children's가 남아요. These are the children's pencils, 이것들은 그 아이들의 연필이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① the children  ✗  's가 없어 ‘아이들의’라는 뜻이 되지 않아요",
+    "② the children's  ✓  s로 끝나지 않는 복수 명사 children + 's → 아이들의",
+    "③ their children  ✗  ‘그들의 아이들’ · 주인이 달라져요",
+    "④ the childrens'  ✗  children은 이미 복수라 s를 더 붙이지 않아요",
+    "⑤ the child's  ✗  단수의 소유격(한 아이의) · 주인은 여러 아이예요"
+   ],
+   "narration": "정답은 2번 the children's예요. 4번은 복수니까 s 뒤에 아포스트로피를 붙인다고 생각하기 쉬워요. 하지만 children은 이미 복수라 s를 더 붙이지 않고, 아포스트로피 에스를 붙여요. 5번 the child's는 한 아이의라는 뜻이라 여러 아이인 the children과 맞지 않아요. 3번 their children은 그들의 아이들이라는 뜻이라 주인이 달라져요."
+  },
+  "summary": {
+   "card": "s로 끝나지 않는 복수 명사(children, men)의 소유격 → 's",
+   "narration": "정답은 2번이에요. 기억할 것, children처럼 s로 끝나지 않는 복수 명사는 아포스트로피 에스를 붙여 소유격을 만들어요."
+  },
+  "captions": [
+   "children의 소유격 고르기",
+   "먼저 풀어 보세요",
+   "belong to와 명사의 소유격",
+   "주인 children → 's",
+   "정답 ② the children's",
+   "s로 안 끝나는 복수 + 's"
+  ],
+  "sec": [10, 14, 28, 38, 30, 10]
+ },
+ "C": {
+  "title": "단수 명사 Tom의 소유격",
+  "intro": "이 문제는 belongs to Tom과 같은 뜻이 되도록 빈칸에 알맞은 Tom의 소유격을 고르는 문제예요.",
+  "problem_narration": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르세요. This bike belongs to Tom. This is 빈칸 bike. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "A belongs to B. = A is B's ~.  (물건 A는 주인 B의 것)",
+    "단수 명사 → 's   Dad → Dad's (아빠의)",
+    "s로 끝나는 복수 명사 → '만   the girls → the girls' (소녀들의)",
+    "s로 끝나지 않는 복수 명사 → 's   the men → the men's (남자들의)",
+    "예) This desk belongs to Amy. = This is Amy's desk. (이것은 에이미의 책상이에요.)"
+   ],
+   "narration": "물건 뒤에 belong to와 주인이 오면 그 물건이 주인의 것이라는 뜻이고, 주인을 소유격으로 바꿔 물건 앞에 써도 같은 뜻이에요. 명사의 소유격은 단수 명사와 men처럼 s로 끝나지 않는 복수 명사에는 아포스트로피 에스를, s로 끝나는 복수 명사에는 아포스트로피만 붙여요. This desk belongs to Amy, 이 책상은 에이미의 것이에요. Amy는 단수 명사라 아포스트로피 에스를 붙여요. This is Amy's desk, 이것은 에이미의 책상이에요."
+  },
+  "steps": [
+   {
+    "note": "belongs to 뒤 = 주인 → Tom (한 사람 = 단수 명사)",
+    "highlight": ["belongs to Tom."],
+    "strike": [],
+    "narration": "첫째, belongs to 뒤의 주인은 Tom, 한 사람이에요."
+   },
+   {
+    "note": "빈칸 = 명사 bike 앞 → ‘Tom의’ 소유격 자리. 's가 없는 Tom·Toms, 주어 + be동사 Tom is 지움",
+    "highlight": ["________ bike."],
+    "strike": ["⑤ Tom", "② Toms", "④ Tom is"],
+    "narration": "둘째, 빈칸은 명사 bike 앞이라 Tom의라는 뜻의 소유격이 와야 해요. 그래서 아포스트로피가 없는 5번 Tom과 2번 Toms, 주어와 be동사인 4번 Tom is는 지워요."
+   },
+   {
+    "note": "Tom = 단수 명사 → 's. 복수의 소유격 Toms' 지움 → Tom's",
+    "highlight": ["③ Tom's"],
+    "strike": ["① Toms'"],
+    "narration": "셋째, Tom은 단수 명사라 아포스트로피 에스를 붙이니, 복수의 소유격인 1번은 지우고 3번 Tom's가 남아요. This is Tom's bike, 이것은 톰의 자전거예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Toms'  ✗  복수의 소유격 · 주인 Tom은 한 사람이에요",
+    "② Toms  ✗  복수형일 뿐 소유격이 아니에요",
+    "③ Tom's  ✓  단수 명사 Tom + 's → Tom의",
+    "④ Tom is  ✗  주어와 be동사 · ‘Tom의’라는 뜻이 아니에요",
+    "⑤ Tom  ✗  's가 없어 ‘Tom의’라는 뜻이 되지 않아요"
+   ],
+   "narration": "정답은 3번 Tom's예요. 1번은 Toms 뒤에 아포스트로피만 붙인 꼴인데, 이것은 s로 끝나는 복수 명사의 소유격이에요. 주인 Tom은 한 사람이라 맞지 않아요. 4번 Tom is는 주어 Tom과 be동사 is를 쓴 말이라, 명사 bike 앞에서 Tom의라는 뜻이 되지 않아요. 5번 Tom은 아포스트로피 에스가 없어서 소유격이 아니에요."
+  },
+  "summary": {
+   "card": "A belongs to B. = A is B's ~.  주인 B가 단수 명사이면 's",
+   "narration": "정답은 3번이에요. 기억할 것, 주인이 한 사람인 단수 명사이면 아포스트로피 에스를 붙여 소유격을 만들어요."
+  },
+  "captions": [
+   "Tom의 소유격 고르기",
+   "먼저 풀어 보세요",
+   "belong to와 명사의 소유격",
+   "주인 Tom → 단수 → 's",
+   "정답 ③ Tom's",
+   "단수 명사 + 's"
+  ],
+  "sec": [10, 14, 28, 36, 30, 10]
+ },
+ "D": {
+  "title": "물건이 여럿일 때 단수 주인 Jane의 소유격",
+  "intro": "이 문제는 belong to Jane과 같은 뜻이 되도록 빈칸에 알맞은 Jane의 소유격을 고르는 문제예요.",
+  "problem_narration": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르세요. These books belong to Jane. These are 빈칸 books. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "A belongs to B. = A is B's ~.  (물건 A는 주인 B의 것)",
+    "단수 명사 → 's   Amy → Amy's (에이미의)",
+    "s로 끝나는 복수 명사 → '만   the girls → the girls' (소녀들의)",
+    "s로 끝나지 않는 복수 명사 → 's   the men → the men's (남자들의)",
+    "예) These cups belong to Dad. = These are Dad's cups. (이것들은 아빠의 컵들이에요.)"
+   ],
+   "narration": "물건 뒤에 belong to와 주인이 오면 그 물건이 주인의 것이라는 뜻이고, 주인을 소유격으로 바꿔 물건 앞에 써도 같은 뜻이에요. 명사의 소유격은 단수 명사와 men처럼 s로 끝나지 않는 복수 명사에는 아포스트로피 에스를, s로 끝나는 복수 명사에는 아포스트로피만 붙여요. These cups belong to Dad, 이 컵들은 아빠의 것이에요. 컵은 여러 개여도 주인 Dad는 단수 명사라 아포스트로피 에스를 붙여요. These are Dad's cups, 이것들은 아빠의 컵들이에요."
+  },
+  "steps": [
+   {
+    "note": "belong to 뒤 = 주인 → Jane (한 사람 = 단수 명사)",
+    "highlight": ["belong to Jane."],
+    "strike": [],
+    "narration": "첫째, belong to 뒤의 주인은 Jane, 한 사람이에요."
+   },
+   {
+    "note": "빈칸 = 명사 books 앞 → ‘Jane의’ 소유격 자리. 's가 없는 Jane·Janes, 주어 + be동사 Jane is 지움",
+    "highlight": ["________ books."],
+    "strike": ["③ Jane", "⑤ Janes", "① Jane is"],
+    "narration": "둘째, 빈칸은 명사 books 앞이라 Jane의라는 뜻의 소유격이 와야 해요. 그래서 아포스트로피가 없는 3번 Jane과 5번 Janes, 주어와 be동사인 1번 Jane is는 지워요."
+   },
+   {
+    "note": "책은 여러 권이어도 주인 Jane은 한 사람 → 's. 복수의 소유격 Janes' 지움 → Jane's",
+    "highlight": ["These books", "④ Jane's"],
+    "strike": ["② Janes'"],
+    "narration": "셋째, 책은 여러 권이어도 주인 Jane은 한 사람이라 아포스트로피 에스를 붙이니, 복수의 소유격인 2번은 지우고 4번 Jane's가 남아요. These are Jane's books, 이것들은 제인의 책들이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Jane is  ✗  주어와 be동사 · ‘Jane의’라는 뜻이 아니에요",
+    "② Janes'  ✗  복수의 소유격 · 책은 여럿이어도 주인 Jane은 한 사람이에요",
+    "③ Jane  ✗  's가 없어 ‘Jane의’라는 뜻이 되지 않아요",
+    "④ Jane's  ✓  단수 명사 Jane + 's → Jane의",
+    "⑤ Janes  ✗  복수형일 뿐 소유격이 아니에요"
+   ],
+   "narration": "정답은 4번 Jane's예요. 2번은 These books처럼 물건이 여럿이라 복수의 소유격을 쓴다고 생각하기 쉬워요. 하지만 소유격의 모양은 물건이 아니라 주인을 보고 정해요. 주인 Jane은 한 사람이라 아포스트로피 에스를 붙여요. 1번 Jane is는 주어와 be동사라서, 명사 books 앞에서 Jane의라는 뜻이 되지 않아요."
+  },
+  "summary": {
+   "card": "소유격 모양은 주인을 보고 정해요 · 주인이 단수 명사이면 's",
+   "narration": "정답은 4번이에요. 기억할 것, 물건이 여럿이어도 주인이 한 사람인 단수 명사이면 아포스트로피 에스를 붙여요."
+  },
+  "captions": [
+   "Jane의 소유격 고르기",
+   "먼저 풀어 보세요",
+   "belong to와 명사의 소유격",
+   "물건 여럿, 주인 Jane 한 명",
+   "정답 ④ Jane's",
+   "주인을 보고 's 또는 '"
+  ],
+  "sec": [10, 14, 28, 38, 30, 10]
+ },
+ "E": {
+  "title": "단수 명사 my sister의 소유격",
+  "intro": "이 문제는 belongs to my sister와 같은 뜻이 되도록 빈칸에 알맞은 my sister의 소유격을 고르는 문제예요.",
+  "problem_narration": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르세요. That bag belongs to my sister. That is 빈칸 bag. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "A belongs to B. = A is B's ~.  (물건 A는 주인 B의 것)",
+    "단수 명사 → 's   Dad → Dad's (아빠의)",
+    "s로 끝나는 복수 명사 → '만   the girls → the girls' (소녀들의)",
+    "s로 끝나지 않는 복수 명사 → 's   the men → the men's (남자들의)",
+    "예) This cap belongs to my brother. = This is my brother's cap. (이것은 내 남동생의 모자예요.)"
+   ],
+   "narration": "물건 뒤에 belong to와 주인이 오면 그 물건이 주인의 것이라는 뜻이고, 주인을 소유격으로 바꿔 물건 앞에 써도 같은 뜻이에요. 명사의 소유격은 단수 명사와 men처럼 s로 끝나지 않는 복수 명사에는 아포스트로피 에스를, s로 끝나는 복수 명사에는 아포스트로피만 붙여요. This cap belongs to my brother, 이 모자는 내 남동생의 것이에요. brother는 단수 명사라 my는 그대로 두고 brother에 아포스트로피 에스를 붙여요. This is my brother's cap, 이것은 내 남동생의 모자예요."
+  },
+  "steps": [
+   {
+    "note": "belongs to 뒤 = 주인 → my sister (언니 한 사람 = 단수 명사)",
+    "highlight": ["belongs to my sister."],
+    "strike": [],
+    "narration": "첫째, belongs to 뒤의 주인은 my sister, 내 언니 한 사람이에요."
+   },
+   {
+    "note": "빈칸 = 명사 bag 앞 → ‘언니의’ 소유격 자리. 's가 없는 my sister·my sisters, 주어 + be동사 my sister is 지움",
+    "highlight": ["________ bag."],
+    "strike": ["⑤ my sister", "④ my sisters", "③ my sister is"],
+    "narration": "둘째, 빈칸은 명사 bag 앞이라 언니의라는 뜻의 소유격이 와야 해요. 그래서 아포스트로피가 없는 5번 my sister와 4번 my sisters, 주어와 be동사인 3번 my sister is는 지워요."
+   },
+   {
+    "note": "sister = 단수 명사 → 's. 복수의 소유격 my sisters'(언니들의) 지움 → my sister's",
+    "highlight": ["① my sister's"],
+    "strike": ["② my sisters'"],
+    "narration": "셋째, sister는 단수 명사라 아포스트로피 에스를 붙이니, 언니들의라는 뜻인 2번은 지우고 1번 my sister's가 남아요. That is my sister's bag, 저것은 내 언니의 가방이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① my sister's  ✓  단수 명사 sister + 's → 언니의",
+    "② my sisters'  ✗  복수의 소유격(언니들의) · 주인은 언니 한 사람이에요",
+    "③ my sister is  ✗  주어와 be동사 · ‘언니의’라는 뜻이 아니에요",
+    "④ my sisters  ✗  복수형일 뿐 소유격이 아니에요",
+    "⑤ my sister  ✗  's가 없어 ‘언니의’라는 뜻이 되지 않아요"
+   ],
+   "narration": "정답은 1번 my sister's예요. 2번은 sisters 뒤에 아포스트로피만 붙인 꼴이라 언니들의라는 뜻인데, 주인은 언니 한 사람이라 틀려요. 3번 my sister is는 주어와 be동사 is를 쓴 말이라, 명사 bag 앞에서 언니의라는 뜻이 되지 않아요. 5번 my sister는 아포스트로피 에스가 없어서 소유격이 아니에요."
+  },
+  "summary": {
+   "card": "A belongs to B. = A is B's ~.  주인 B가 단수 명사이면 's",
+   "narration": "정답은 1번이에요. 기억할 것, 주인이 한 사람인 단수 명사이면 아포스트로피 에스를 붙여 소유격을 만들어요."
+  },
+  "captions": [
+   "my sister의 소유격 고르기",
+   "먼저 풀어 보세요",
+   "belong to와 명사의 소유격",
+   "주인 my sister → 단수 → 's",
+   "정답 ① my sister's",
+   "단수 명사 + 's"
+  ],
+  "sec": [10, 14, 28, 36, 28, 10]
+ },
+ "F": {
+  "title": "s로 끝나는 복수 명사 boys의 소유격",
+  "intro": "이 문제는 belong to the boys와 같은 뜻이 되도록 빈칸에 알맞은 the boys의 소유격을 고르는 문제예요.",
+  "problem_narration": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르세요. Those shoes belong to the boys. Those are 빈칸 shoes. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "A belongs to B. = A is B's ~.  (물건 A는 주인 B의 것)",
+    "단수 명사 → 's   Dad → Dad's (아빠의)",
+    "s로 끝나는 복수 명사 → '만   the cats → the cats' (고양이들의)",
+    "s로 끝나지 않는 복수 명사 → 's   the men → the men's (남자들의)",
+    "예) These balls belong to the girls. = These are the girls' balls. (이것들은 그 소녀들의 공이에요.)"
+   ],
+   "narration": "물건 뒤에 belong to와 주인이 오면 그 물건이 주인의 것이라는 뜻이고, 주인을 소유격으로 바꿔 물건 앞에 써도 같은 뜻이에요. 명사의 소유격은 단수 명사와 men처럼 s로 끝나지 않는 복수 명사에는 아포스트로피 에스를, s로 끝나는 복수 명사에는 아포스트로피만 붙여요. These balls belong to the girls, 이 공들은 그 소녀들의 것이에요. girls는 s로 끝나는 복수 명사라 아포스트로피만 붙여요. These are the girls' balls, 이것들은 그 소녀들의 공이에요."
+  },
+  "steps": [
+   {
+    "note": "belong to 뒤 = 주인 → the boys (여러 소년 = s로 끝나는 복수 명사)",
+    "highlight": ["belong to the boys."],
+    "strike": [],
+    "narration": "첫째, belong to 뒤의 주인은 the boys, 여러 소년이에요."
+   },
+   {
+    "note": "빈칸 = 명사 shoes 앞 → ‘소년들의’ 소유격 자리. 아포스트로피가 없는 the boys·the boy, be동사 is를 붙인 the boys is 지움",
+    "highlight": ["________ shoes."],
+    "strike": ["② the boys", "③ the boy", "① the boys is"],
+    "narration": "둘째, 빈칸은 명사 shoes 앞이라 소년들의라는 뜻의 소유격이 와야 해요. 그래서 아포스트로피가 없는 2번 the boys와 3번 the boy, be동사 is를 붙인 1번은 지워요."
+   },
+   {
+    "note": "boys = s로 끝나는 복수 명사 → '만. 단수의 소유격 the boy's(한 소년의) 지움 → the boys'",
+    "highlight": ["④ the boys'"],
+    "strike": ["⑤ the boy's"],
+    "narration": "셋째, boys는 s로 끝나는 복수 명사라 아포스트로피만 붙이니, 한 소년의라는 뜻인 5번은 지우고 4번 the boys'가 남아요. Those are the boys' shoes, 저것들은 그 소년들의 신발이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① the boys is  ✗  소유격이 아니에요 (복수 주어 the boys에는 is를 쓰지 않아요)",
+    "② the boys  ✗  '가 없어 ‘소년들의’라는 뜻이 되지 않아요",
+    "③ the boy  ✗  한 소년이고 소유격도 아니에요",
+    "④ the boys'  ✓  s로 끝나는 복수 명사 boys + '만 → 소년들의",
+    "⑤ the boy's  ✗  단수의 소유격(한 소년의) · 주인은 여러 소년이에요"
+   ],
+   "narration": "정답은 4번 the boys'예요. 5번 the boy's는 아포스트로피 에스를 붙였지만, boy가 단수라 한 소년의라는 뜻이에요. 주인은 여러 소년인 the boys라서 맞지 않아요. 1번 the boys is는 소유격이 아니고, 복수 주어 the boys에는 is가 아니라 are를 써요. 2번 the boys는 아포스트로피가 없어서 소유격이 아니에요."
+  },
+  "summary": {
+   "card": "s로 끝나는 복수 명사(boys, girls)의 소유격 → '만",
+   "narration": "정답은 4번이에요. 기억할 것, s로 끝나는 복수 명사는 아포스트로피만 붙여 소유격을 만들어요."
+  },
+  "captions": [
+   "the boys의 소유격 고르기",
+   "먼저 풀어 보세요",
+   "belong to와 명사의 소유격",
+   "주인 the boys → '만",
+   "정답 ④ the boys'",
+   "s로 끝나는 복수 + '"
+  ],
+  "sec": [10, 14, 28, 38, 30, 10]
+ }
+}

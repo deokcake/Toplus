@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T04:17:32.624Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 과거형 의문문과 부정 대답을 연결하고 질문한 내용에 직접 답하도록 한다.\n풀이 순서: ① 첫 빈칸: 질문의 주어가 you이므로 Were. → ② 둘째 빈칸: 대답이 No, I ~이므로 wasn't. → ③ 정답은 Were - wasn't.\n문장별 판정:\n정답 판단: (첫째 빈칸) Were: 주어 you에 맞는 과거형 were를 의문문 앞에 놓는다. (둘째 빈칸) wasn't: No라고 답하므로 I에 맞는 부정형 wasn't를 쓴다. 따라서 정답은 ②이다.\n선택지 분석:\n① [오답] (첫째 빈칸) Were: 주어 you에 맞는 과거형 were를 의문문 앞에 놓는다. (둘째 빈칸) was → wasn't. No라고 답하므로 I에 맞는 부정형 wasn't를 쓴다.\n② [정답] (첫째 빈칸) Were: 주어 you에 맞는 과거형 were를 의문문 앞에 놓는다. (둘째 빈칸) wasn't: No라고 답하므로 I에 맞는 부정형 wasn't를 쓴다.\n③ [오답] (첫째 빈칸) Were: 주어 you에 맞는 과거형 were를 의문문 앞에 놓는다. (둘째 빈칸) were → wasn't. No라고 답하므로 I에 맞는 부정형 wasn't를 쓴다.\n④ [오답] (첫째 빈칸) Was → Were. 주어 you에 맞는 과거형 were를 의문문 앞에 놓는다. (둘째 빈칸) was → wasn't. No라고 답하므로 I에 맞는 부정형 wasn't를 쓴다.\n⑤ [오답] (첫째 빈칸) Was → Were. 주어 you에 맞는 과거형 were를 의문문 앞에 놓는다. (둘째 빈칸) weren't → wasn't. No라고 답하므로 I에 맞는 부정형 wasn't를 쓴다.",
+    "passage": null,
+    "stem": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T04:17:30.832Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T04:17:32.624Z",
+      "what": "확인 완료"
+    }
+  }
+}

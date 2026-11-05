@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T18:32:16.820Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "and - take",
+      "1": "or - take",
+      "2": "and - don't take",
+      "3": "or - don't take",
+      "4": "so - take"
+    },
+    "expl": "핵심 규칙: 명령문 + and는 ‘~해라, 그러면’(If you ~), 명령문 + or는 ‘~해라, 그렇지 않으면’(If you don't ~)의 뜻이다.\n풀이 순서: ① 명령문 뒤 절의 내용이 좋은 결과인지 나쁜 결과인지 본다: feel better(좋은 결과). → ② 나쁜 결과면 ‘명령문 + or’(그렇지 않으면), 좋은 결과면 ‘명령문 + and’(그러면)다. → ③ or 문장은 If you + 부정(don't), and 문장은 If you + 긍정으로 바꾼다. 정답은 and - take.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n② [오답] 첫째 빈칸 or: ‘약을 먹으면’ 나아진다는 뜻이라 명령문 + and를 쓴다. 따라서 오답이다.\n③ [오답] 둘째 빈칸 don't take: If절도 ‘약을 먹으면’이라 긍정의 take를 쓴다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 or: ‘약을 먹으면’ 나아진다는 뜻이라 명령문 + and를 쓴다, 둘째 빈칸 don't take: If절도 ‘약을 먹으면’이라 긍정의 take를 쓴다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 so: ‘약을 먹으면’ 나아진다는 뜻이라 명령문 + and를 쓴다. 따라서 오답이다.",
+    "passage": "Take this medicine, _____ you will feel better.\nIf you _____ this medicine, you will feel better.",
+    "stem": "다음 두 문장을 같은 뜻이 되도록 하는 단어를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:32:02.888Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:32:16.821Z",
+      "what": "확인 완료"
+    }
+  }
+}

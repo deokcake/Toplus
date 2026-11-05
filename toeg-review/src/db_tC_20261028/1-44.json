@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-21T05:26:39.650Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "b, d, e",
+      "1": null,
+      "2": "a, c, e",
+      "3": null,
+      "4": "a, d, e"
+    },
+    "expl": "핵심 규칙: 부정사가 명사를 꾸밀 때 뒤에 필요한 전치사를 빠뜨리지 않고, -thing으로 끝나는 말은 형용사가 뒤에서 꾸민다. enough는 형용사 뒤에 오며, 성품 형용사 뒤에는 of + 목적격을 쓴다.\n풀이 순서: ① 밑줄마다 볼 것을 정한다. 명사를 꾸미는 to부정사 뒤에 전치사가 필요한지, -thing과 형용사의 순서가 맞는지, to부정사의 모양이 바른지. → ② b는 something cold의 순서가 뒤바뀌었고, d는 kind 뒤에 for가 아니라 of를 써야 한다. a(to sit on), c(enough for ~ to), e(too ~ for ~ to)는 옳다. → ③ 옳은 것만 모은 a, c, e를 고른다.\n문장별 판정:\na) 옳음: ‘의자에 앉다’는 sit on a chair이므로 전치사 on을 썼다.\nb) 틀림: -thing으로 끝나는 말은 형용사가 뒤에서 꾸민다. cold something → something cold.\nc) 옳음: 형용사 + enough + for 의미상 주어 + to부정사 어순이다.\nd) 틀림: 성품 형용사 kind 뒤에는 of + 목적격을 쓴다. kind for Tom → kind of Tom.\ne) 옳음: too + 형용사 + for 의미상 주어 + to부정사 구문이다.\n정답 판단: 어법상 옳은 문장은 a, c, e이다.\n선택지 분석:\n① [오답] b, d는 옳은 문장이 아니고, 옳은 문장 a, c를 빠뜨렸다. 따라서 오답이다.\n② [오답] d는 옳은 문장이 아니고, 옳은 문장 a를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 옳은 문장 a, c, e를 빠짐없이 골랐으므로 정답이다.\n④ [오답] b는 옳은 문장이 아니고, 옳은 문장 e를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] d는 옳은 문장이 아니고, 옳은 문장 c를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "a) Mina needs a chair <u>to sit on</u>.\nb) I want <u>cold something</u> to drink.\nc) The box is <u>light enough for me to carry</u>.\nd) It was <u>kind for Tom to help</u> me.\ne) The water is <u>too hot for the child to drink</u>.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 것을 모두 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T05:26:18.785Z"
+  },
+  "tab": "fi3f83jb",
+  "updatedAt": "2026-10-21T05:26:39.650Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T05:26:39.650Z",
+      "what": "확인 완료"
+    }
+  }
+}

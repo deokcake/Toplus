@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:52:30.553Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "riding",
+      "1": "rides",
+      "2": "to ride",
+      "3": "is ride",
+      "4": "ride"
+    },
+    "expl": "핵심 규칙: 조동사 can은 주어가 무엇이든 모양이 바뀌지 않고(cans ×), 뒤에는 to나 -s, -ing 없이 동사원형을 쓴다. 부정은 can't(cannot), 의문문은 Can + 주어 + 동사원형 ~?이다.\n풀이 순서: ① 문장이 Can + 주어(Mina)로 시작하므로 빈칸에는 동사원형이 온다. → ② -s, -ing, to가 붙은 꼴과 be동사가 붙은 꼴을 지운다. → ③ 남는 것은 ride.\n문장별 판정:\n정답 판단: Can + 주어(Mina) 뒤에 동사원형을 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] can 뒤에는 -ing형이 아니라 동사원형을 써야 하므로 오답이다.\n② [오답] can 뒤에는 3인칭 단수형이 아니라 동사원형을 써야 하므로 오답이다.\n③ [오답] can 뒤에는 to 없이 동사원형을 써야 하므로 오답이다.\n④ [오답] can 뒤에 be동사와 동사원형을 겹쳐 쓸 수 없으므로 오답이다.\n⑤ [정답] Can + 주어(Mina) 뒤에 동사원형을 바르게 썼으므로 정답이다.",
+    "passage": "Can Mina _______ her bike to school?",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:52:28.837Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:52:30.553Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:52:30.553Z",
+      "what": "확인 완료"
+    }
+  }
+}

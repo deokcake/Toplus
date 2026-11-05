@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T11:52:49.902Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Zoe, Adam, Bella",
+      "1": "Chris, Dora, Eli",
+      "2": "Adam, Chris, Dora",
+      "3": "Zoe, Chris, Dora",
+      "4": "Zoe, Bella, Eli"
+    },
+    "expl": "핵심 규칙: either A or B·neither A nor B·not only A but also B는 B에, both A and B는 복수 동사에 맞춘다. 목적어 명사절의 that은 생략할 수 있지만 동격의 that은 생략하지 않는다. so that은 목적, so ~ that은 결과를 나타내고, although·because 뒤에는 절, despite·because of 뒤에는 명사가 온다. too ~ to는 so ~ that … can't로 바꿀 수 있다.\n풀이 순서: ① 학생마다 예문이 옳은지와 설명이 옳은지를 따로 본다. → ② 기준: 상관접속사는 B에 수 일치(both A and B는 복수), 목적어절 that은 생략 가능, despite·because of 뒤는 명사, although·because 뒤는 절, so that은 목적이다. → ③ Adam은 that man의 that(지시형용사)을 접속사라고 했고, Bella는 because 뒤에 명사가 와도 된다고 했으며, Eli는 both A and B를 단수 취급한다고 했다. 셋 다 틀렸다. 옳게 설명한 학생만 모으면 Zoe, Chris, Dora이다.\n문장별 판정:\nZoe 옳음: B(his sisters)에 맞춰 like를 썼다.\nAdam 틀림: that은 명사(man)를 꾸미는 지시형용사(저)이다.\nBella 틀림: because 뒤에는 절이 오므로 because of the traffic jam으로 써야 한다.\nChris 옳음: enough to는 so ~ that + 주어 + can으로 바꿀 수 있다.\nDora 옳음: so that은 ‘~하기 위해’라는 목적을 나타낸다.\nEli 틀림: both A and B는 복수 동사(like)를 쓴다.\n정답 판단: 올바르게 설명한 학생은 Zoe, Chris, Dora이다.\n선택지 분석:\n① [오답] Adam, Bella는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Chris, Dora를 빠뜨렸다. 따라서 오답이다.\n② [오답] Eli는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Zoe를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Adam는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Zoe를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 올바르게 설명한 학생 Zoe, Chris, Dora를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] Bella, Eli는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Chris, Dora를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "Zoe: Not only Tom but also his sisters like music. B(sisters)에 수일치해서 like를 쓴 옳은 문장이야.\nAdam: I know that man who is standing there. 에서 that은 명사절 접속사야.\nBella: I was late because the traffic jam. because 뒤에 명사가 와도 돼.\nChris: The water is warm enough to swim in. 은 The water is so warm that we can swim in it.으로 바꿀 수 있어.\nDora: He runs every morning so that he can stay healthy. so that은 '목적'을 나타내.\nEli: Both Jane and Mina likes cats. both A and B는 단수 취급하므로 맞아.",
+    "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T11:51:45.772Z"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T11:52:49.902Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T11:52:49.902Z",
+      "what": "확인 완료"
+    }
+  }
+}

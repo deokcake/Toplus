@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T10:42:10.329Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "She <u>isnt</u> here.",
+      "1": "They<u>'re</u> brothers.",
+      "2": "I<u>'m</u> sleepy.",
+      "3": "He <u>isn't</u> busy.",
+      "4": "We <u>aren't</u> late."
+    },
+    "expl": "핵심 규칙: be동사 축약형은 I'm, you're, he's, she's, it's, we're, they're와 isn't, aren't로 쓴다. 아포스트로피(')는 빠진 글자 자리에 찍으며, I'am, She'is, is'nt 같은 형태는 없다.\n풀이 순서: ① 밑줄 친 줄임말이 실제로 쓰는 꼴인지, 주어와 맞는지 본다. → ② is not의 줄임말은 isn't다. 아포스트로피(')가 빠졌다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: is not의 축약형에는 아포스트로피를 찍어 isn't로 쓰므로 정답은 ①이다.\n선택지 분석:\n① [정답] is not의 축약형에는 아포스트로피를 찍어 isn't로 쓰므로 정답이다.\n② [오답] 축약형을 바르게 만들어 썼으므로 오답이다.\n③ [오답] 축약형을 바르게 만들어 썼으므로 오답이다.\n④ [오답] 축약형을 바르게 만들어 썼으므로 오답이다.\n⑤ [오답] 축약형을 바르게 만들어 썼으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:42:08.105Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:42:10.329Z",
+      "what": "확인 완료"
+    }
+  }
+}

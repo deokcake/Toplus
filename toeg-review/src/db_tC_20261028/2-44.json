@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T03:23:37.209Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Help <u>yourself</u> to the cookies.",
+      "1": "He taught <u>himself</u> to play the guitar.",
+      "2": null,
+      "3": "The cat is washing <u>itself</u>.",
+      "4": "We should take care of <u>ourselves</u>."
+    },
+    "expl": "핵심 규칙: 재귀대명사가 동사·전치사의 목적어로 주어와 같은 대상을 가리키면 재귀 용법이라 뺄 수 없다. 주어를 강조해 ‘직접’의 뜻을 더하면 강조 용법이며 빼도 문장이 성립한다.\n풀이 순서: ① <보기>의 재귀대명사(herself)를 빼 본다. ‘The author answered every question.’만으로도 문장이 완전하다. 주어를 강조하는 강조 용법이다. → ② 보기마다 재귀대명사를 빼 본다. 동사나 전치사의 목적어가 사라져 문장이 깨지면 재귀 용법이다. → ③ 선택지 ③만 빼도 문장이 성립한다(Jane repaired the bicycle.).\n문장별 판정:\n정답 판단: 강조 용법: 주어를 강조해 ‘직접’의 뜻을 더하며 빼도 문장이 성립해 〈보기〉와 쓰임이 같으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 재귀 용법: 동사 help의 목적어로 주어 자신을 가리켜 뺄 수 없으므로 오답이다.\n② [오답] 재귀 용법: 동사 taught의 목적어로 주어 자신을 가리켜 뺄 수 없으므로 오답이다.\n③ [정답] 강조 용법: 주어를 강조해 ‘직접’의 뜻을 더하며 빼도 문장이 성립해 〈보기〉와 쓰임이 같으므로 정답이다.\n④ [오답] 재귀 용법: 동사 washing의 목적어로 주어 자신을 가리켜 뺄 수 없으므로 오답이다.\n⑤ [오답] 재귀 용법: 전치사 of의 목적어로 주어 자신을 가리켜 뺄 수 없으므로 오답이다.",
+    "passage": "<보기>\nThe author <u>herself</u> answered every question.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T03:23:21.583Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T03:23:37.209Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T03:23:37.209Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-24T00:40:57.371Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "(A) themselves - (B) ourselves",
+      "1": "(A) ourselves - (B) themselves",
+      "2": "(A) himself - (B) themselves",
+      "3": "(A) themselves - (B) myself",
+      "4": "(A) yourselves - (B) ourselves"
+    },
+    "expl": "핵심 규칙: 재귀대명사는 주어와 같은 대상을 가리키며 주어의 인칭·수에 맞춘다. by oneself는 ‘혼자서, 스스로’라는 뜻이다.\n풀이 순서: ① 재귀대명사는 그 문장의 주어와 같은 대상을 가리킨다. 두 문장의 주어를 찾는다. → ② (A)의 주어(All students)는 3인칭 복수이므로 themselves다. (B)의 주어(My sister and I)에 맞는 것은 ourselves다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: (A)는 복수 주어(All students)와 같은 사람들을 가리키므로 themselves이다. (B)는 주어 My sister and I(우리)와 같은 사람들이므로 ourselves이다.\n선택지 분석:\n① [정답] (A)는 복수 주어(All students)와 같은 사람들을 가리키므로 themselves이다. (B)는 주어 My sister and I(우리)와 같은 사람들이므로 ourselves이다. 두 자리가 모두 알맞으므로 정답이다.\n② [오답] (A) ourselves: 1인칭 복수라 3인칭 주어와 맞지 않는다. (B) themselves: 3인칭 복수라 나를 포함한 주어(My sister and I)와 맞지 않는다. 따라서 오답이다.\n③ [오답] (A) himself: 한 사람을 가리키는 말이라 복수 주어와 맞지 않는다. (B) themselves: 3인칭 복수라 나를 포함한 주어(My sister and I)와 맞지 않는다. 따라서 오답이다.\n④ [오답] (B) myself: 한 사람이라 두 사람인 주어(My sister and I)와 맞지 않는다. 따라서 오답이다.\n⑤ [오답] (A) yourselves: 2인칭이라 3인칭 주어와 맞지 않는다. 따라서 오답이다.",
+    "passage": "All students need to challenge (<u>     A     </u>).\nMy sister and I cooked dinner by (<u>     B     </u>).",
+    "stem": "다음 문장의 빈칸 (A), (B)에 들어갈 재귀대명사가 바르게 연결된 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T00:40:17.304Z"
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-24T00:40:57.371Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T00:40:57.371Z",
+      "what": "확인 완료"
+    }
+  }
+}

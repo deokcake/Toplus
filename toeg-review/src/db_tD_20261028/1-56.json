@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-21 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-23T07:02:13.108Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "I remember to lock the door.",
+      "1": "I remembered locking the door.",
+      "2": "I remember I will lock the door.",
+      "3": "I remember locking the door.",
+      "4": "I remember lock the door."
+    },
+    "expl": "핵심 규칙: remember + 동명사는 ‘(과거에) ~한 것을 기억하다’, remember + to부정사는 ‘(앞으로) ~할 것을 기억하다’라는 뜻이다. 주절의 시제도 우리말(기억한다/기억했다)에 맞춘다.\n풀이 순서: ① 우리말 ‘잠갔던 것을 기억한다’은 이미 한 일을 지금 기억한다는 뜻이다. → ② 이미 한 일을 기억할 때는 remember + 동명사(locking)를 쓴다. remember + to부정사는 ‘앞으로 할 일을 기억하다’라 뜻이 다르다. → ③ remember의 시제가 우리말과 다르거나 뒤에 동사원형·will을 쓴 보기를 지운다. 정답은 I remember locking the door.\n문장별 판정:\n정답 판단: remember + 동명사로 과거에 한 일을 지금 기억한다는 우리말 뜻에 맞는다. 정답은 ④이다.\n선택지 분석:\n① [오답] remember + to부정사는 앞으로 할 일을 기억한다는 뜻이라 우리말과 다르다.\n② [오답] remembered는 과거에 기억했다는 뜻이라 우리말 ‘기억한다’와 시제가 다르다.\n③ [오답] I will …은 앞으로 할 일을 나타내 우리말 ‘~했던 것’과 맞지 않는다.\n④ [정답] remember + 동명사로 과거에 한 일을 지금 기억한다는 우리말 뜻에 맞는다. 정답이다.\n⑤ [오답] remember 뒤에 동사원형을 바로 쓸 수 없다. 과거에 한 일을 기억한다는 뜻이면 동명사를 써야 한다.",
+    "passage": "나는 문을 잠갔던 것을 기억한다.",
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오."
+  },
+  "tab": "sj53vmnt",
+  "updatedAt": "2026-10-23T07:02:13.108Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T07:02:13.108Z",
+      "what": "확인 완료"
+    }
+  }
+}

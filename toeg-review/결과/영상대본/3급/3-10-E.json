@@ -1,0 +1,186 @@
+{
+ "key": "3-10",
+ "type": "E",
+ "grade": 3,
+ "chapter": "CH 1 be동사",
+ "title": "셀 수 없는 명사와 was, were",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "3급 · CH 1 be동사 · 10번 · E 유형\n\n이 문제는 was와 were가 주어에 맞게 쓰였는지 따져 틀린 문장의 개수를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 1 be동사 · 10번 · E 유형",
+     "이 문제는 was와 were가 주어에 맞게 쓰였는지 따져 틀린 문장의 개수를 고르는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 1, 10번 E 유형. 이 문제는 was와 were가 주어에 맞게 쓰였는지 따져 틀린 문장의 개수를 고르는 문제예요.",
+   "caption": "a lot of와 셀 수 없는 명사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 17,
+   "screen": {
+    "text": "다음 <보기> 중 어법상 틀린 문장의 개수는?\n\n<보기>\n- There were a lot of snow on the roads this morning.\n- The roads was slippery and dangerous for cars.\n- My brother were late for school because of the snow.\n- I were worried about him until he called me.\n\n① 1개\n② 2개\n③ 3개\n④ 4개\n⑤ 없음",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 <보기> 중 어법상 틀린 문장의 개수는?",
+     "<보기>",
+     "- There were a lot of snow on the roads this morning.",
+     "- The roads was slippery and dangerous for cars.",
+     "- My brother were late for school because of the snow.",
+     "- I were worried about him until he called me.",
+     "① 1개",
+     "② 2개",
+     "③ 3개",
+     "④ 4개",
+     "⑤ 없음"
+    ]
+   },
+   "narration": "다음 보기 중 어법상 틀린 문장의 개수를 고르세요. 네 문장을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 과거형: 주어가 I, 3인칭 단수(he, she, it, 단수 명사) → was\n주어가 you, 복수(we, they, 복수 명사) → were\nThere was, There were (…이 있었다) → 뒤에 오는 명사에 맞춰요\na lot of + 복수 명사 → were · a lot of + 셀 수 없는 명사 → was\n예) There was a lot of water on the floor. (바닥에 물이 많이 있었어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 과거형: 주어가 I, 3인칭 단수(he, she, it, 단수 명사) → was",
+     "주어가 you, 복수(we, they, 복수 명사) → were",
+     "There was, There were (…이 있었다) → 뒤에 오는 명사에 맞춰요",
+     "a lot of + 복수 명사 → were · a lot of + 셀 수 없는 명사 → was",
+     "예) There was a lot of water on the floor. (바닥에 물이 많이 있었어요.)"
+    ]
+   },
+   "narration": "be동사 과거형 was와 were는 '이었다', '있었다'라는 뜻이에요. 주어가 I나 3인칭 단수이면 was를, you나 복수이면 were를 써요. There was, There were는 뒤에 오는 명사에 맞추는데, a lot of 뒤에 복수 명사가 오면 were, 셀 수 없는 명사면 was예요. 예를 들어 There was a lot of water on the floor, 바닥에 물이 많이 있었어요.",
+   "caption": "There 문장은 뒤 명사에 맞춰요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 33,
+   "screen": {
+    "text": "다음 <보기> 중 어법상 틀린 문장의 개수는?\n\n<보기>\n- There were a lot of snow on the roads this morning.\n- The roads was slippery and dangerous for cars.\n- My brother were late for school because of the snow.\n- I were worried about him until he called me.\n\n① 1개\n② 2개\n③ 3개\n④ 4개\n⑤ 없음",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "a lot of snow"
+      ],
+      "strike": [
+       "There were a lot of snow"
+      ],
+      "note": "There 문장: a lot of snow = 셀 수 없는 명사 → There was (were ✗)"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "The roads was",
+       "My brother were",
+       "I were"
+      ],
+      "note": "나머지는 주어: The roads = 복수 → were · My brother = 한 명 → was · I → was"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ 4개"
+      ],
+      "strike": [
+       "① 1개",
+       "② 2개",
+       "③ 3개",
+       "⑤ 없음"
+      ],
+      "note": "네 문장 모두 틀림 → 4개"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 첫 번째 문장처럼 there 뒤에 be동사가 오면 be동사 뒤의 명사 a lot of snow에 맞춰요. snow는 셀 수 없는 명사라서 a lot of가 붙어도 There was를 써야 하니 틀렸어요. 둘째, 나머지 문장은 주어를 봐요. 복수인 The roads에는 were를, 한 명인 My brother와 I에는 was를 써야 하니 세 문장도 모두 틀렸어요. 셋째, 네 문장이 모두 틀려서 틀린 문장은 4개예요.",
+   "caption": "There 문장 → 주어 → 개수"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 21,
+   "screen": {
+    "text": "① 1개  ✗  The roads was, My brother were, I were도 틀려요\n② 2개  ✗  넷째 I were도 틀려요 (I → was)\n③ 3개  ✗  첫째도 틀려요: snow는 셀 수 없는 명사 → There was\n④ 4개  ✓  네 문장 모두 틀렸어요\n⑤ 없음  ✗  둘째 The roads는 복수 → were를 써야 해요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① 1개  ✗  The roads was, My brother were, I were도 틀려요",
+     "② 2개  ✗  넷째 I were도 틀려요 (I → was)",
+     "③ 3개  ✗  첫째도 틀려요: snow는 셀 수 없는 명사 → There was",
+     "④ 4개  ✓  네 문장 모두 틀렸어요",
+     "⑤ 없음  ✗  둘째 The roads는 복수 → were를 써야 해요"
+    ]
+   },
+   "narration": "정답은 4번, 4개예요. 첫 번째 문장은 a lot of를 보고 were가 맞다고 생각하기 쉬운데, 이 문장을 놓치면 3번을 고르게 돼요. 네 번째 문장의 I에도 were가 아니라 was를 써요. 이 문장까지 놓치면 2번을 고르게 돼요.",
+   "caption": "정답 ④ 4개"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 14,
+   "screen": {
+    "text": "정답 ④ 4개\n\nThere 문장은 뒤 명사에 맞춰요 · a lot of + 셀 수 없는 명사 → was",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ 4개",
+     "There 문장은 뒤 명사에 맞춰요 · a lot of + 셀 수 없는 명사 → was"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, There was, There were는 be동사 뒤의 명사에 맞추고, 셀 수 없는 명사는 a lot of가 붙어도 was를 써요.",
+   "caption": "셀 수 없는 명사 → was"
+  }
+ ],
+ "source": {
+  "stem": "다음 <보기> 중 어법상 틀린 문장의 개수는?",
+  "passage": "<보기>\n- There were a lot of snow on the roads this morning.\n- The roads was slippery and dangerous for cars.\n- My brother were late for school because of the snow.\n- I were worried about him until he called me.",
+  "c": [
+   "1개",
+   "2개",
+   "3개",
+   "4개",
+   "없음"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: there 구문은 뒤의 실제 명사의 수와 문장의 시제에 맞춰 there is/are/was/were를 고른다. 주어가 있는 문장은 주어의 수·시제에 맞춰 was/were를 쓴다(a lot of + 셀 수 없는 명사는 단수, 복수명사는 복수).\n풀이 순서: ① 문장마다 주어를 찾는다. there was/were는 뒤의 명사가 주어다. → ② 단수 주어(셀 수 없는 명사 포함)에는 was, 복수 주어에는 were인지 확인한다. → ③ 첫째는 snow가 셀 수 없는 명사라 was, 둘째는 The roads가 복수라 were, 셋째는 My brother가 단수라 was, 넷째는 I라서 was여야 한다. 네 문장 모두 틀렸다. 틀린 문장은 4개이다.\n문장별 판정:\n첫째 X. a lot of + 셀 수 없는 명사(snow)는 단수이므로 there was이다.\n둘째 X. 복수 주어(The roads)의 과거는 were이다.\n셋째 X. 단수 주어(My brother)의 과거는 was이다.\n넷째 X. 주어 I의 과거는 was이다.\n정답 판단: 어법상 틀린 문장은 첫째, 둘째, 셋째, 넷째로 4개이다.\n선택지 분석:\n① [오답] 어법상 틀린 문장은 첫째, 둘째, 셋째, 넷째로 4개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 어법상 틀린 문장은 첫째, 둘째, 셋째, 넷째로 4개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 어법상 틀린 문장은 첫째, 둘째, 셋째, 넷째로 4개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [정답] 어법상 틀린 문장은 첫째, 둘째, 셋째, 넷째로 4개이다. 이 보기의 4개는 실제 개수와 일치한다.\n⑤ [오답] 어법상 틀린 문장은 첫째, 둘째, 셋째, 넷째로 4개이다. 이 보기의 없음은 실제 개수와 일치하지 않는다."
+ }
+}

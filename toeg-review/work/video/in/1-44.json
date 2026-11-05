@@ -1,0 +1,86 @@
+{
+ "key": "1-44",
+ "grade": 1,
+ "chapter": "CH 5 부정사",
+ "items": {
+  "A": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 옳은 것을 모두 고르시오.",
+   "passage": "a) Alice is looking for a roommate <u>to live</u>.\nb) There's <u>interesting nothing</u> to read here.\nc) Her daughter grew up <u>to be</u> a famous actress.\nd) You need to decide <u>what to do</u> first.\ne) We were upset <u>to hear</u> about the accident.",
+   "c": [
+    "a, b",
+    "b, c",
+    "b, c, d",
+    "a, c, e",
+    "c, d, e"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: to부정사가 꾸미는 명사가 전치사의 목적어이면 전치사를 남긴다(a roommate to live with). -thing으로 끝나는 말은 형용사가 뒤에서 꾸민다(nothing interesting). to부정사는 결과·감정의 원인을 나타내거나 ‘의문사 + to부정사’로도 쓴다.\n풀이 순서: ① 밑줄마다 볼 것을 정한다. 명사를 꾸미는 to부정사 뒤에 전치사가 필요한지, -thing과 형용사의 순서가 맞는지, to부정사의 모양이 바른지. → ② a는 live with의 with가 빠졌고, b는 nothing interesting의 순서가 뒤바뀌었다. c(결과), d(what to do), e(감정의 원인)는 옳다. → ③ 옳은 것만 모은 c, d, e를 고른다.\n문장별 판정: a) X. live with a roommate이므로 to live with로 써야 한다. b) X. nothing interesting의 순서여야 한다. c) O. ‘자라서 ~이 되었다’는 결과의 to부정사. d) O. what to do(무엇을 할지). e) O. 감정의 원인을 나타내는 to부정사.\n정답 판단: 옳은 것은 c, d, e이다.\n선택지 분석:\n① [오답] a, b 모두 틀렸으므로 오답이다.\n② [오답] b가 틀렸으므로 오답이다.\n③ [오답] b가 틀렸으므로 오답이다.\n④ [오답] a가 틀렸으므로 오답이다.\n⑤ [정답] 옳은 c, d, e만 모았으므로 정답이다."
+  },
+  "B": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 옳은 것을 모두 고르시오.",
+   "passage": "a) Jane has a friend <u>to talk</u>.\nb) I found <u>something useful</u> to buy.\nc) The room is <u>large enough for us to use</u>.\nd) It was <u>generous of Mina to donate</u>.\ne) The bag is <u>too heavy for Leo to lift it</u>.",
+   "c": [
+    "a, b",
+    "b, c, d",
+    "a, c, e",
+    "c, d, e",
+    "a, b, c, d"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 부정사가 명사를 꾸밀 때 뒤에 필요한 전치사를 빠뜨리지 않고, -thing으로 끝나는 말은 형용사가 뒤에서 꾸민다. enough는 형용사 뒤에 오며, 성품 형용사 뒤에는 of + 목적격을 쓴다.\n풀이 순서: ① 밑줄마다 볼 것을 정한다. 명사를 꾸미는 to부정사 뒤에 전치사가 필요한지, -thing과 형용사의 순서가 맞는지, to부정사의 모양이 바른지. → ② a는 talk to의 to가 빠졌고, e는 주어 The bag이 lift의 목적어인데 it을 또 썼다. b(something useful), c(enough for ~ to), d(generous of)는 옳다. → ③ 옳은 것만 모은 b, c, d를 고른다.\n문장별 판정:\na) 틀림: ‘친구와 이야기하다’는 talk to a friend이므로 to talk to로 써야 한다.\nb) 옳음: -thing 뒤에서 형용사 useful이 꾸민다.\nc) 옳음: 형용사 + enough + for 의미상 주어 + to부정사 어순이다.\nd) 옳음: 성품 형용사 generous 뒤에 of + 목적격을 썼다.\ne) 틀림: to lift의 목적어가 문장의 주어 The bag이므로 it을 다시 쓰지 않는다.\n정답 판단: 어법상 옳은 문장은 b, c, d이다.\n선택지 분석:\n① [오답] a는 옳은 문장이 아니고, 옳은 문장 c, d를 빠뜨렸다. 따라서 오답이다.\n② [정답] 옳은 문장 b, c, d를 빠짐없이 골랐으므로 정답이다.\n③ [오답] a, e는 옳은 문장이 아니고, 옳은 문장 b, d를 빠뜨렸다. 따라서 오답이다.\n④ [오답] e는 옳은 문장이 아니고, 옳은 문장 b를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] a는 옳은 문장이 아니다. 따라서 오답이다."
+  },
+  "C": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 옳은 것을 모두 고르시오.",
+   "passage": "a) Mina needs a chair <u>to sit on</u>.\nb) I want <u>cold something</u> to drink.\nc) The box is <u>light enough for me to carry</u>.\nd) It was <u>kind for Tom to help</u> me.\ne) The water is <u>too hot for the child to drink</u>.",
+   "c": [
+    "b, d, e",
+    "c, d, e",
+    "a, c, e",
+    "a, b, c",
+    "a, d, e"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 부정사가 명사를 꾸밀 때 뒤에 필요한 전치사를 빠뜨리지 않고, -thing으로 끝나는 말은 형용사가 뒤에서 꾸민다. enough는 형용사 뒤에 오며, 성품 형용사 뒤에는 of + 목적격을 쓴다.\n풀이 순서: ① 밑줄마다 볼 것을 정한다. 명사를 꾸미는 to부정사 뒤에 전치사가 필요한지, -thing과 형용사의 순서가 맞는지, to부정사의 모양이 바른지. → ② b는 something cold의 순서가 뒤바뀌었고, d는 kind 뒤에 for가 아니라 of를 써야 한다. a(to sit on), c(enough for ~ to), e(too ~ for ~ to)는 옳다. → ③ 옳은 것만 모은 a, c, e를 고른다.\n문장별 판정:\na) 옳음: ‘의자에 앉다’는 sit on a chair이므로 전치사 on을 썼다.\nb) 틀림: -thing으로 끝나는 말은 형용사가 뒤에서 꾸민다. cold something → something cold.\nc) 옳음: 형용사 + enough + for 의미상 주어 + to부정사 어순이다.\nd) 틀림: 성품 형용사 kind 뒤에는 of + 목적격을 쓴다. kind for Tom → kind of Tom.\ne) 옳음: too + 형용사 + for 의미상 주어 + to부정사 구문이다.\n정답 판단: 어법상 옳은 문장은 a, c, e이다.\n선택지 분석:\n① [오답] b, d는 옳은 문장이 아니고, 옳은 문장 a, c를 빠뜨렸다. 따라서 오답이다.\n② [오답] d는 옳은 문장이 아니고, 옳은 문장 a를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 옳은 문장 a, c, e를 빠짐없이 골랐으므로 정답이다.\n④ [오답] b는 옳은 문장이 아니고, 옳은 문장 e를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] d는 옳은 문장이 아니고, 옳은 문장 c를 빠뜨렸다. 따라서 오답이다."
+  },
+  "D": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 옳은 것을 모두 고르시오.",
+   "passage": "a) We are looking for a quiet house <u>to live</u>.\nb) There is <u>nothing strange</u> to report today.\nc) The road is <u>wide enough</u> for two cars to pass.\nd) It was <u>careless of him</u> to forget his passport.\ne) The coffee is <u>too bitter</u> for me to drink.",
+   "c": [
+    "b, c, d, e",
+    "a, c, e",
+    "b, c, d",
+    "a, b, c",
+    "c, d, e"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 부정사의 명사 수식·결과·감정 원인 용법, 의문사 + 부정사, enough/too 구문 및 사람의 성품을 평가하는 of 구문을 실제 문장별로 확인한다.\n풀이 순서: ① 밑줄마다 볼 것을 정한다. 명사를 꾸미는 to부정사 뒤에 전치사가 필요한지, -thing과 형용사의 순서가 맞는지, to부정사의 모양이 바른지. → ② a만 live in의 in이 빠져 틀렸다. b(nothing strange), c(wide enough), d(careless of), e(too bitter)는 옳다. → ③ 옳은 것만 모은 b, c, d, e를 고른다.\n문장별 판정:\na) 틀림: ‘집에서 살다’는 live in a house이므로 to live in으로 써야 한다.\nb) 옳음: -thing으로 끝나는 말은 형용사가 뒤에서 꾸민다.\nc) 옳음: 형용사 + enough 어순이다.\nd) 옳음: 성품 형용사 careless 뒤에 of + 목적격을 썼다.\ne) 옳음: too + 형용사 + to부정사(너무 ~해서 …할 수 없다) 구문이다.\n정답 판단: 어법상 옳은 문장은 b, c, d, e이다.\n선택지 분석:\n① [정답] 옳은 문장 b, c, d, e를 빠짐없이 골랐으므로 정답이다.\n② [오답] a는 옳은 문장이 아니고, 옳은 문장 b, d를 빠뜨렸다. 따라서 오답이다.\n③ [오답] 옳은 문장 e를 빠뜨렸다. 따라서 오답이다.\n④ [오답] a는 옳은 문장이 아니고, 옳은 문장 d, e를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] 옳은 문장 b를 빠뜨렸다. 따라서 오답이다."
+  },
+  "E": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 옳은 것을 모두 고르시오.",
+   "passage": "a) Tom needs a pen <u>to write</u>.\nb) I have <u>something important</u> to tell you.\nc) The test is <u>enough easy</u> for children to solve.\nd) It was <u>nice of Jane to call</u> me.\ne) She was surprised <u>to hear</u> the news.",
+   "c": [
+    "a, c, d",
+    "c, d, e",
+    "a, b",
+    "a, b, e",
+    "b, d, e"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 부정사가 명사를 꾸밀 때 뒤에 필요한 전치사를 빠뜨리지 않고, -thing으로 끝나는 말은 형용사가 뒤에서 꾸민다. enough는 형용사 뒤에 오며, 성품 형용사 뒤에는 of + 목적격을 쓴다.\n풀이 순서: ① 밑줄마다 볼 것을 정한다. 명사를 꾸미는 to부정사 뒤에 전치사가 필요한지, -thing과 형용사의 순서가 맞는지, to부정사의 모양이 바른지. → ② a는 write with의 with가 빠졌고, c는 easy enough의 순서가 뒤바뀌었다. b(something important), d(nice of), e(감정의 원인)는 옳다. → ③ 옳은 것만 모은 b, d, e를 고른다.\n문장별 판정:\na) 틀림: ‘펜으로 쓰다’는 write with a pen이므로 to write with로 써야 한다.\nb) 옳음: -thing 뒤에서 형용사 important가 꾸민다.\nc) 틀림: enough는 형용사 뒤에 온다. enough easy → easy enough.\nd) 옳음: 성품 형용사 nice 뒤에 of + 목적격을 썼다.\ne) 옳음: 감정의 원인을 나타내는 부사적 용법이다.\n정답 판단: 어법상 옳은 문장은 b, d, e이다.\n선택지 분석:\n① [오답] a, c는 옳은 문장이 아니고, 옳은 문장 b, e를 빠뜨렸다. 따라서 오답이다.\n② [오답] c는 옳은 문장이 아니고, 옳은 문장 b를 빠뜨렸다. 따라서 오답이다.\n③ [오답] a는 옳은 문장이 아니고, 옳은 문장 d, e를 빠뜨렸다. 따라서 오답이다.\n④ [오답] a는 옳은 문장이 아니고, 옳은 문장 d를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 옳은 문장 b, d, e를 빠짐없이 골랐으므로 정답이다."
+  },
+  "F": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 옳은 것을 모두 고르시오.",
+   "passage": "a) Mina wants a quiet room <u>to study in</u> after school every day.\nb) There is <u>exciting nothing</u> to watch on TV tonight.\nc) The old bridge is <u>strong enough</u> for heavy trucks to cross.\nd) It was <u>brave of Leo</u> to act so quickly in the fire.\ne) Please tell me <u>what to doing</u> next in this situation.",
+   "c": [
+    "a, c, d",
+    "b, c, e",
+    "a, b, d",
+    "c, d, e",
+    "a, d, e"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 부정사가 명사를 꾸밀 때 뒤에 필요한 전치사를 빠뜨리지 않고, -thing으로 끝나는 말은 형용사가 뒤에서 꾸민다. enough는 형용사 뒤에 오며, 성품 형용사 뒤에는 of + 목적격을 쓴다.\n풀이 순서: ① 밑줄마다 볼 것을 정한다. 명사를 꾸미는 to부정사 뒤에 전치사가 필요한지, -thing과 형용사의 순서가 맞는지, to부정사의 모양이 바른지. → ② b는 nothing exciting의 순서가 뒤바뀌었고, e는 what to do여야 하는데 doing을 썼다. a(to study in), c(strong enough), d(brave of)는 옳다. → ③ 옳은 것만 모은 a, c, d를 고른다.\n문장별 판정:\na) 옳음: ‘방에서 공부하다’는 study in a room이므로 전치사 in을 썼다.\nb) 틀림: -thing으로 끝나는 말은 형용사가 뒤에서 꾸민다. exciting nothing → nothing exciting.\nc) 옳음: 형용사 + enough 어순이다.\nd) 옳음: 성품 형용사 brave 뒤에 of + 목적격을 썼다.\ne) 틀림: 의문사 + to부정사이므로 what to do로 써야 한다.\n정답 판단: 어법상 옳은 문장은 a, c, d이다.\n선택지 분석:\n① [정답] 옳은 문장 a, c, d를 빠짐없이 골랐으므로 정답이다.\n② [오답] b, e는 옳은 문장이 아니고, 옳은 문장 a, d를 빠뜨렸다. 따라서 오답이다.\n③ [오답] b는 옳은 문장이 아니고, 옳은 문장 c를 빠뜨렸다. 따라서 오답이다.\n④ [오답] e는 옳은 문장이 아니고, 옳은 문장 a를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] e는 옳은 문장이 아니고, 옳은 문장 c를 빠뜨렸다. 따라서 오답이다."
+  }
+ },
+ "prior_review": {}
+}

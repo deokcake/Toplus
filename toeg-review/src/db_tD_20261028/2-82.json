@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:02:32.702Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "far",
+      "1": "a lot",
+      "2": "too",
+      "3": "much",
+      "4": "even"
+    },
+    "expl": "핵심 규칙: much, far, a lot, considerably, a great deal은 비교 차이의 정도를 강조한다. even은 예상이나 이전 기준을 넘어선 비교를 강조한다. very는 비교급을 직접 수식하지 않는다.\n풀이 순서: ① 빈칸 뒤가 비교급(heavier)이다. ‘훨씬’이라는 뜻으로 비교급을 강조하는 말은 much, even, far, still, a lot 등이다. → ② very, too, so, most는 원급을 꾸미는 말이라 비교급 앞에 쓸 수 없다. → ③ 들어갈 수 없는 것은 ③(too)이다.\n문장별 판정:\n정답 판단: 빈칸에 단독으로 들어갈 수 없는 수식어를 고른다.\n선택지 분석:\n① [오답] far는 비교 차이가 크다는 뜻으로 이 비교급을 수식할 수 있다.\n② [오답] a lot은 비교 차이가 크다는 뜻으로 이 비교급을 수식할 수 있다.\n③ [정답] too는 이 비교급을 직접 수식하지 못한다. much를 넣으면 문법적으로 맞는다. too much heavier처럼 much를 덧붙인 형태는 가능하다.\n④ [오답] much는 비교 차이가 크다는 뜻으로 이 비교급을 수식할 수 있다.\n⑤ [오답] even은 예상이나 앞선 기준을 넘어 더욱 그러하다는 뜻으로 비교급을 수식한다. 차이가 훨씬 크다는 정도를 반드시 뜻하지는 않는다.",
+    "passage": "이 가죽 가방은 내 배낭보다 훨씬 더 무겁다.\nThis leather bag is _____ heavier than my backpack.",
+    "stem": "주어진 우리말과 같도록 할 때 빈칸에 들어갈 수 없는 말을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T16:47:00.586Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:47:04.866Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:02:32.702Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:02:28.774Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:02:32.702Z",
+      "what": "확인 완료"
+    }
+  }
+}

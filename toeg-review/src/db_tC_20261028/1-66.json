@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-21T06:29:03.629Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Being felt exhausted, Mina went to bed early.",
+      "1": "Felt exhausted, Mina went to bed early.",
+      "2": "Feeling exhaustion, Mina went to bed early.",
+      "3": null,
+      "4": "Because feeling exhausted, Mina went to bed early."
+    },
+    "expl": "핵심 규칙: 부사절을 분사구문으로 바꿀 때는 접속사와 같은 주어를 빼고 동사를 분사로 바꾼다. 능동이면 -ing, 수동이면 과거분사, 먼저 일어난 일이면 Having + 과거분사를 쓰고, 뒤에 and를 붙이지 않는다.\n풀이 순서: ① 부사절에서 접속사(Because)와 주절과 같은 주어를 지운다. → ② 남은 동사(felt)를 분사로 바꾼다. 능동이므로 Feeling이 된다. → ③ 주절은 그대로 둔다. 접속사가 남았거나 분사의 모양이 다른 보기를 지우면 정답은 ④.\n문장별 판정:\n정답 판단: 능동 현재분사 Feeling으로 이유를 나타낸 분사구문이 바르다. 정답은 ④이다.\n선택지 분석:\n① [오답] Mina가 스스로 느낀 것이므로 수동 Being felt는 맞지 않는다. 오답이다.\n② [오답] 과거형 felt만 쓰면 분사구문이 아니다. 능동이므로 Feeling을 쓴다. 오답이다.\n③ [오답] feel 뒤에는 상태를 나타내는 형용사(exhausted)가 온다. 명사 exhaustion은 뜻이 달라진다. 오답이다.\n④ [정답] 능동 현재분사 Feeling으로 이유를 나타낸 분사구문이 바르다. 정답이다.\n⑤ [오답] 분사구문에서는 접속사 because를 남기지 않는다. 오답이다.",
+    "passage": null,
+    "stem": "다음 문장을 분사구문을 사용하여 바르게 바꾼 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T06:25:33.828Z"
+  },
+  "tab": "fi3f83jb",
+  "updatedAt": "2026-10-21T06:29:03.629Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T06:29:03.629Z",
+      "what": "확인 완료"
+    }
+  }
+}

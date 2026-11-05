@@ -1,0 +1,180 @@
+{
+ "key": "5-8",
+ "type": "C",
+ "grade": 5,
+ "chapter": "CH 1 대명사",
+ "title": "단수 명사 Tom의 소유격",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 1 대명사 · 8번 · C 유형\n\n이 문제는 belongs to Tom과 같은 뜻이 되도록 빈칸에 알맞은 Tom의 소유격을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 1 대명사 · 8번 · C 유형",
+     "이 문제는 belongs to Tom과 같은 뜻이 되도록 빈칸에 알맞은 Tom의 소유격을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 1, 8번 C 유형. 이 문제는 belongs to Tom과 같은 뜻이 되도록 빈칸에 알맞은 Tom의 소유격을 고르는 문제예요.",
+   "caption": "Tom의 소유격 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르세요.\n\nThis bike belongs to Tom.\n= This is ________ bike.\n\n① Toms'\n② Toms\n③ Tom's\n④ Tom is\n⑤ Tom",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르세요.",
+     "This bike belongs to Tom.",
+     "= This is ________ bike.",
+     "① Toms'",
+     "② Toms",
+     "③ Tom's",
+     "④ Tom is",
+     "⑤ Tom"
+    ]
+   },
+   "narration": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르세요. This bike belongs to Tom. This is 빈칸 bike. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\nA belongs to B. = A is B's ~.  (물건 A는 주인 B의 것)\n단수 명사 → 's   Dad → Dad's (아빠의)\ns로 끝나는 복수 명사 → '만   the girls → the girls' (소녀들의)\ns로 끝나지 않는 복수 명사 → 's   the men → the men's (남자들의)\n예) This desk belongs to Amy. = This is Amy's desk. (이것은 에이미의 책상이에요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "A belongs to B. = A is B's ~.  (물건 A는 주인 B의 것)",
+     "단수 명사 → 's   Dad → Dad's (아빠의)",
+     "s로 끝나는 복수 명사 → '만   the girls → the girls' (소녀들의)",
+     "s로 끝나지 않는 복수 명사 → 's   the men → the men's (남자들의)",
+     "예) This desk belongs to Amy. = This is Amy's desk. (이것은 에이미의 책상이에요.)"
+    ]
+   },
+   "narration": "물건 뒤에 belong to와 주인이 오면 그 물건이 주인의 것이라는 뜻이고, 주인을 소유격으로 바꿔 물건 앞에 써도 같은 뜻이에요. 명사의 소유격은 단수 명사와 men처럼 s로 끝나지 않는 복수 명사에는 아포스트로피 에스를, s로 끝나는 복수 명사에는 아포스트로피만 붙여요. This desk belongs to Amy, 이 책상은 에이미의 것이에요. Amy는 단수 명사라 아포스트로피 에스를 붙여요. This is Amy's desk, 이것은 에이미의 책상이에요.",
+   "caption": "belong to와 명사의 소유격"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르세요.\n\nThis bike belongs to Tom.\n= This is ________ bike.\n\n① Toms'\n② Toms\n③ Tom's\n④ Tom is\n⑤ Tom",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "belongs to Tom."
+      ],
+      "strike": [],
+      "note": "belongs to 뒤 = 주인 → Tom (한 사람 = 단수 명사)"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "________ bike."
+      ],
+      "strike": [
+       "⑤ Tom",
+       "② Toms",
+       "④ Tom is"
+      ],
+      "note": "빈칸 = 명사 bike 앞 → ‘Tom의’ 소유격 자리. 's가 없는 Tom·Toms, 주어 + be동사 Tom is 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ Tom's"
+      ],
+      "strike": [
+       "① Toms'"
+      ],
+      "note": "Tom = 단수 명사 → 's. 복수의 소유격 Toms' 지움 → Tom's"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, belongs to 뒤의 주인은 Tom, 한 사람이에요. 둘째, 빈칸은 명사 bike 앞이라 Tom의라는 뜻의 소유격이 와야 해요. 그래서 아포스트로피가 없는 5번 Tom과 2번 Toms, 주어와 be동사인 4번 Tom is는 지워요. 셋째, Tom은 단수 명사라 아포스트로피 에스를 붙이니, 복수의 소유격인 1번은 지우고 3번 Tom's가 남아요. This is Tom's bike, 이것은 톰의 자전거예요.",
+   "caption": "주인 Tom → 단수 → 's"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 30,
+   "screen": {
+    "text": "① Toms'  ✗  복수의 소유격 · 주인 Tom은 한 사람이에요\n② Toms  ✗  복수형일 뿐 소유격이 아니에요\n③ Tom's  ✓  단수 명사 Tom + 's → Tom의\n④ Tom is  ✗  주어와 be동사 · ‘Tom의’라는 뜻이 아니에요\n⑤ Tom  ✗  's가 없어 ‘Tom의’라는 뜻이 되지 않아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Toms'  ✗  복수의 소유격 · 주인 Tom은 한 사람이에요",
+     "② Toms  ✗  복수형일 뿐 소유격이 아니에요",
+     "③ Tom's  ✓  단수 명사 Tom + 's → Tom의",
+     "④ Tom is  ✗  주어와 be동사 · ‘Tom의’라는 뜻이 아니에요",
+     "⑤ Tom  ✗  's가 없어 ‘Tom의’라는 뜻이 되지 않아요"
+    ]
+   },
+   "narration": "정답은 3번 Tom's예요. 1번은 Toms 뒤에 아포스트로피만 붙인 꼴인데, 이것은 s로 끝나는 복수 명사의 소유격이에요. 주인 Tom은 한 사람이라 맞지 않아요. 4번 Tom is는 주어 Tom과 be동사 is를 쓴 말이라, 명사 bike 앞에서 Tom의라는 뜻이 되지 않아요. 5번 Tom은 아포스트로피 에스가 없어서 소유격이 아니에요.",
+   "caption": "정답 ③ Tom's"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ Tom's\n\nA belongs to B. = A is B's ~.  주인 B가 단수 명사이면 's",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ Tom's",
+     "A belongs to B. = A is B's ~.  주인 B가 단수 명사이면 's"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 주인이 한 사람인 단수 명사이면 아포스트로피 에스를 붙여 소유격을 만들어요.",
+   "caption": "단수 명사 + 's"
+  }
+ ],
+ "source": {
+  "stem": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르세요.",
+  "passage": "This bike belongs to Tom.\n= This is ________ bike.",
+  "c": [
+   "Toms'",
+   "Toms",
+   "Tom's",
+   "Tom is",
+   "Tom"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: A belongs to B = A is B's ~. 명사의 소유격: 단수는 's, -s로 끝나는 복수는 '만, -s로 끝나지 않는 복수(children)는 's를 붙인다.\n풀이 순서: ① belong to 뒤에서 주인을 찾는다: Tom(한 사람). → ② 주인을 명사 앞으로 옮기고 소유격으로 만든다: 단수 명사이므로 's를 붙인다. → ③ 정답은 Tom's.\n문장별 판정:\n정답 판단: 소유자 Tom은 단수이므로 's를 붙인 Tom's로 소유를 나타낸다. 따라서 정답은 ③이다.\n선택지 분석:\n① [오답] Toms'는 복수 소유자의 소유를 나타내는 형태이다. 원문은 한 사람의 소유이므로 Tom's가 필요하다.\n② [오답] Toms는 소유격 표지가 없는 복수형이다. 한 사람의 소유를 나타내는 Tom's가 필요하다.\n③ [정답] 소유자 Tom은 단수이므로 's를 붙인 Tom's로 소유를 나타낸다.\n④ [오답] Tom is는 주어와 be동사를 풀어 쓴 형태이며 뒤 명사 앞의 소유격이 아니다. Tom's로 고친다.\n⑤ [오답] 명사 Tom에는 소유격 표지가 없다. Tom's로 고친다."
+ }
+}

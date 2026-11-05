@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T05:32:43.236Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "after - in - during",
+      "1": "before - on - while",
+      "2": "before - under - for",
+      "3": "after - on - during",
+      "4": "before - in - during"
+    },
+    "expl": "핵심 규칙: before는 ‘~ 전에’, after는 ‘~ 후에’, on은 표면 위, under는 아래, in은 안을 나타낸다. during은 ‘~ 동안’으로 뒤에 명사가 오고, while은 뒤에 주어 + 동사가 온다.\n풀이 순서: ① 발문의 우리말 뜻에서 전치사에 해당하는 말을 찾는다: ‘후에’, ‘안에’, ‘폭풍이 치는 동안’. → ② 차례로 옮긴다: after, in, during. → ③ 정답은 before - in - during.\n문장별 판정:\n정답 판단: 세 빈칸 모두 우리말 해석에 맞는 전치사를 골랐으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 첫째 빈칸 after: ‘저녁 식사 전에’의 뜻에 맞지 않는다(→ before). 따라서 오답이다.\n② [오답] 둘째 빈칸 on: ‘상자 안에’의 뜻에 맞지 않는다(→ in), 셋째 빈칸 while: while은 뒤에 주어 + 동사가 와야 해 명사 앞에 쓸 수 없다. 따라서 오답이다.\n③ [오답] 둘째 빈칸 under: ‘상자 안에’의 뜻에 맞지 않는다(→ in), 셋째 빈칸 for: ‘폭풍우 동안’의 뜻에 맞지 않는다(→ during). 따라서 오답이다.\n④ [오답] 첫째 빈칸 after: ‘저녁 식사 전에’의 뜻에 맞지 않는다(→ before), 둘째 빈칸 on: ‘상자 안에’의 뜻에 맞지 않는다(→ in). 따라서 오답이다.\n⑤ [정답] 세 빈칸 모두 우리말 해석에 맞는 전치사를 골랐으므로 정답이다.",
+    "passage": "I studied _____ dinner.(나는 저녁 식사 전에 공부했다.)\nThe book is _____ the box.(그 책은 상자 안에 있다.)\nWe stayed inside _____ the storm.(우리는 폭풍우 동안 안에 머물렀다.)",
+    "stem": "다음 빈칸에 들어갈 단어를 바르게 짝지은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T05:29:58.701Z"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:32:43.236Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:32:43.236Z",
+      "what": "확인 완료"
+    }
+  }
+}

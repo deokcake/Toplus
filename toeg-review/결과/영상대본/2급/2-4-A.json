@@ -1,0 +1,180 @@
+{
+ "key": "2-4",
+ "type": "A",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "title": "동사에 따른 목적격 보어의 형태",
+ "total_sec": 133,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "2급 · CH 1 문장의 형식 · 4번\n\n이 문제는 동사에 맞지 않는 목적격 보어가 쓰인 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 1 문장의 형식 · 4번",
+     "이 문제는 동사에 맞지 않는 목적격 보어가 쓰인 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 1, 4번. 이 문제는 동사에 맞지 않는 목적격 보어가 쓰인 문장을 고르는 문제예요.",
+   "caption": "목적격 보어가 틀린 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 목적격 보어가 잘못 사용된 것을 고르시오.\n\n① I saw him running in the park.\n② She made her children to clean their rooms.\n③ They found the movie very entertaining.\n④ We want you to succeed in your career.\n⑤ The teacher kept the students busy.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 목적격 보어가 잘못 사용된 것을 고르시오.",
+     "① I saw him running in the park.",
+     "② She made her children to clean their rooms.",
+     "③ They found the movie very entertaining.",
+     "④ We want you to succeed in your career.",
+     "⑤ The teacher kept the students busy."
+    ]
+   },
+   "narration": "다음 중 목적격 보어가 잘못 사용된 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\n목적격 보어 = 목적어가 하는 행동이나 목적어의 상태를 설명하는 말\n행동: make·have·let + 목적어 + 동사원형 (to 없이)\n행동: see·watch·hear + 목적어 + 동사원형/ing형,  want·expect + 목적어 + to부정사\n상태: keep·find·make + 목적어 + 형용사\n예) Mom made me wash the dishes. (엄마는 나에게 설거지를 하게 하셨어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "목적격 보어 = 목적어가 하는 행동이나 목적어의 상태를 설명하는 말",
+     "행동: make·have·let + 목적어 + 동사원형 (to 없이)",
+     "행동: see·watch·hear + 목적어 + 동사원형/ing형,  want·expect + 목적어 + to부정사",
+     "상태: keep·find·make + 목적어 + 형용사",
+     "예) Mom made me wash the dishes. (엄마는 나에게 설거지를 하게 하셨어요.)"
+    ]
+   },
+   "narration": "목적격 보어는 목적어가 하는 행동이나 상태를 설명하고, 형태는 동사가 정해요. 행동은 사역동사 make, have, let 뒤에서 to 없이 동사원형, 지각동사 see, hear 뒤에서 동사원형이나 ing형, want 뒤에서 to부정사로 써요. 상태는 keep, find 뒤에 형용사로 써요. 예를 들어 Mom made me wash the dishes. 엄마는 나에게 설거지를 하게 하셨어요.",
+   "caption": "동사가 보어의 형태를 정해요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 중 목적격 보어가 잘못 사용된 것을 고르시오.\n\n① I saw him running in the park.\n② She made her children to clean their rooms.\n③ They found the movie very entertaining.\n④ We want you to succeed in your career.\n⑤ The teacher kept the students busy.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "saw",
+       "want"
+      ],
+      "strike": [
+       "① I saw him running in the park.",
+       "④ We want you to succeed in your career."
+      ],
+      "note": "동사 확인 → 행동: ① 지각동사 saw + him + running, ④ want + you + to succeed → 맞다"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "found",
+       "kept"
+      ],
+      "strike": [
+       "③ They found the movie very entertaining.",
+       "⑤ The teacher kept the students busy."
+      ],
+      "note": "상태: ③ found + 형용사 very entertaining, ⑤ kept + 형용사 busy → 맞다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "made her children to clean"
+      ],
+      "strike": [],
+      "note": "② 사역동사 made + her children + to clean ✗ → clean"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 동사를 보고 목적어 뒤의 말을 확인해요. 1번은 지각동사 saw 뒤에 ing형 running을, 4번은 want 뒤에 to부정사 to succeed를 써서 맞아요. 둘째, 3번 found와 5번 kept 뒤에는 상태를 나타내는 형용사 entertaining과 busy가 와서 맞아요. 셋째, 2번은 사역동사 made 뒤에 to clean을 썼으니 to를 빼고 동사원형 clean으로 고쳐야 해요. She made her children clean their rooms. 그녀는 아이들이 자기 방을 청소하게 했어요.",
+   "caption": "행동 → 상태 → made 뒤 to clean"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① I saw him running in the park.  ✗  지각동사 saw 뒤 ing형 running은 맞아요\n② She made her children to clean their rooms.  ✓  사역동사 made 뒤에는 동사원형: to clean → clean\n③ They found the movie very entertaining.  ✗  found 뒤 형용사 very entertaining(재미있는)은 맞아요\n④ We want you to succeed in your career.  ✗  want 뒤 to부정사 to succeed는 맞아요\n⑤ The teacher kept the students busy.  ✗  kept 뒤 형용사 busy는 맞아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① I saw him running in the park.  ✗  지각동사 saw 뒤 ing형 running은 맞아요",
+     "② She made her children to clean their rooms.  ✓  사역동사 made 뒤에는 동사원형: to clean → clean",
+     "③ They found the movie very entertaining.  ✗  found 뒤 형용사 very entertaining(재미있는)은 맞아요",
+     "④ We want you to succeed in your career.  ✗  want 뒤 to부정사 to succeed는 맞아요",
+     "⑤ The teacher kept the students busy.  ✗  kept 뒤 형용사 busy는 맞아요"
+    ]
+   },
+   "narration": "정답은 2번이에요. 사역동사 made 뒤에서 목적어가 하는 행동은 to 없이 동사원형 clean으로 써야 해요. 1번 running을 의심하기 쉬운데, 지각동사 saw 뒤에는 동사원형도 ing형도 쓸 수 있어요. 3번 entertaining은 ing로 끝나지만 재미있다는 뜻의 형용사라서 found 뒤에 맞아요.",
+   "caption": "정답 ② to clean → clean"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ② She made her children to clean their rooms.\n\n목적어의 행동: make·have·let + 목적어 + 동사원형 (to부정사 ✗)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② She made her children to clean their rooms.",
+     "목적어의 행동: make·have·let + 목적어 + 동사원형 (to부정사 ✗)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 사역동사 make, have, let 뒤에서 목적어가 하는 행동은 to 없이 동사원형으로 써요.",
+   "caption": "행동은 make·have·let + 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 목적격 보어가 잘못 사용된 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "I saw him running in the park.",
+   "She made her children to clean their rooms.",
+   "They found the movie very entertaining.",
+   "We want you to succeed in your career.",
+   "The teacher kept the students busy."
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 목적격 보어의 형태는 동사가 정한다. 사역동사(make, have, let)는 동사원형, 지각동사는 동사원형·-ing, want·expect는 to부정사, keep·find는 형용사를 쓴다. 부사는 목적격 보어가 될 수 없다.\n풀이 순서: ① 문장마다 동사를 보고 목적격 보어의 형태를 정한다. 사역동사(make, have, let)는 동사원형, 지각동사는 동사원형·-ing, want·expect는 to부정사, keep·find는 형용사다. → ② 목적어 뒤의 말이 그 형태인지 견준다. → ③ 선택지 ②는 사역동사 made 뒤에 to clean을 썼다. clean이 맞다.\n문장별 판정:\n정답 판단: 사역동사 made 뒤에는 to clean이 아니라 동사원형 clean을 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 지각동사 saw + 목적어 + 현재분사로 올바르므로 오답이다.\n② [정답] 사역동사 made 뒤에는 to clean이 아니라 동사원형 clean을 써야 하므로 정답이다.\n③ [오답] found + 목적어 + 형용사로 올바르므로 오답이다.\n④ [오답] want + 목적어 + to부정사로 올바르므로 오답이다.\n⑤ [오답] kept + 목적어 + 형용사로 올바르므로 오답이다."
+ }
+}

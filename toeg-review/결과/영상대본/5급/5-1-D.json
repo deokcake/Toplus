@@ -1,0 +1,186 @@
+{
+ "key": "5-1",
+ "type": "D",
+ "grade": 5,
+ "chapter": "CH 1 대명사",
+ "title": "남자 한 명을 받는 주격 He",
+ "total_sec": 126,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 1 대명사 · 1번 · D 유형\n\n이 문제는 My father를 대신해 주어로 쓸 알맞은 대명사를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 1 대명사 · 1번 · D 유형",
+     "이 문제는 My father를 대신해 주어로 쓸 알맞은 대명사를 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 1, 1번 D 유형. 이 문제는 My father를 대신해 주어로 쓸 알맞은 대명사를 고르는 문제예요.",
+   "caption": "My father를 받는 대명사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.\n\nMy father is tall. _______ is tall.\n\n① His\n② Him\n③ Himself\n④ He's\n⑤ He",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.",
+     "My father is tall. _______ is tall.",
+     "① His",
+     "② Him",
+     "③ Himself",
+     "④ He's",
+     "⑤ He"
+    ]
+   },
+   "narration": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르세요. My father is tall. 빈칸, is tall. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 26,
+   "screen": {
+    "text": "핵심 규칙\n주격 I, you, he, she, it, we, they = ‘~는, ~가’ → 주어로 써요\n한 명·하나를 받을 때: 남자 → he · 여자 → she · 사물·동물 → 보통 it\nhe의 다른 꼴: his(그의, 그의 것) · him(그를) · himself(그 자신)\n예) My brother is a doctor. → He is a doctor. (그는 의사예요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "주격 I, you, he, she, it, we, they = ‘~는, ~가’ → 주어로 써요",
+     "한 명·하나를 받을 때: 남자 → he · 여자 → she · 사물·동물 → 보통 it",
+     "he의 다른 꼴: his(그의, 그의 것) · him(그를) · himself(그 자신)",
+     "예) My brother is a doctor. → He is a doctor. (그는 의사예요.)"
+    ]
+   },
+   "narration": "주격 I, you, he, she, it, we, they는 ‘나는’, ‘그는’처럼 주어로 쓰는 꼴이에요. 한 사람을 받을 때 남자는 he, 여자는 she를 쓰고, 사물이나 동물 하나는 보통 it으로 받아요. he의 다른 꼴인 his는 그의 또는 그의 것, him은 그를, himself는 그 자신이라는 뜻이에요. 예를 들어 My brother는 남자 한 명이라 He로 받아요. He is a doctor, 그는 의사예요.",
+   "caption": "주격은 주어로 써요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.\n\nMy father is tall. _______ is tall.\n\n① His\n② Him\n③ Himself\n④ He's\n⑤ He",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "My father"
+      ],
+      "strike": [],
+      "note": "My father = 아빠, 남자 한 명 → he"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "_______ is tall."
+      ],
+      "strike": [
+       "① His",
+       "② Him",
+       "③ Himself"
+      ],
+      "note": "빈칸 = 동사 is 앞 주어 자리 → ‘그는’ = 주격. His(그의, 그의 것)·Him(그를)·Himself(그 자신) 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "_______ is tall."
+      ],
+      "strike": [
+       "④ He's"
+      ],
+      "note": "He's = He is → 넣으면 He's is tall (is가 두 번)"
+     },
+     {
+      "step": 4,
+      "highlight": [
+       "⑤ He"
+      ],
+      "strike": [],
+      "note": "남는 것 = 주격 He → He is tall."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 앞 문장의 주어 My father는 우리 아빠, 곧 남자 한 명이라 he로 받아요. 둘째, 빈칸은 동사 is 앞 주어 자리라 그는이라는 뜻의 주격이 와야 하니, 그의 또는 그의 것인 His, 그를인 Him, 그 자신인 Himself는 지워요. 셋째, He's는 He is를 줄인 말이라, 빈칸에 넣으면 He's is tall처럼 is가 두 번 나와요. 넷째, 남는 것은 주격 He예요. He is tall, 그는 키가 커요.",
+   "caption": "남자 한 명 → 주격 He"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① His  ✗  ‘그의’ 또는 ‘그의 것’ · ‘그는’이 아니에요\n② Him  ✗  ‘그를’이라는 목적격 · 주어로 쓰지 않아요\n③ Himself  ✗  ‘그 자신’ · 주어 자리에는 쓰지 않아요\n④ He's  ✗  He is의 줄임말 · 뒤의 is와 겹쳐요\n⑤ He  ✓  남자 한 명을 받는 주격 (그는)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① His  ✗  ‘그의’ 또는 ‘그의 것’ · ‘그는’이 아니에요",
+     "② Him  ✗  ‘그를’이라는 목적격 · 주어로 쓰지 않아요",
+     "③ Himself  ✗  ‘그 자신’ · 주어 자리에는 쓰지 않아요",
+     "④ He's  ✗  He is의 줄임말 · 뒤의 is와 겹쳐요",
+     "⑤ He  ✓  남자 한 명을 받는 주격 (그는)"
+    ]
+   },
+   "narration": "정답은 5번 He예요. 4번 He's는 He is를 줄인 말이라, 넣으면 is가 두 번 나와서 틀려요. 1번 His는 그의 또는 그의 것이라는 뜻이라, 그는이라는 뜻의 주어가 될 수 없어요. 2번 Him은 그를이라는 뜻의 목적격이라 주어로 쓰지 않아요.",
+   "caption": "정답 ⑤ He"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ⑤ He\n\n남자 한 명 → he · 주어로 쓸 때는 주격 he",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ He",
+     "남자 한 명 → he · 주어로 쓸 때는 주격 he"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 남자 한 명은 he로 받고, 주어로 쓸 때는 주격 he를 써요.",
+   "caption": "남자 한 명 → 주격 he"
+  }
+ ],
+ "source": {
+  "stem": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.",
+  "passage": "My father is tall. _______ is tall.",
+  "c": [
+   "His",
+   "Him",
+   "Himself",
+   "He's",
+   "He"
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 인칭대명사는 자리에 따라 주격(I, you, he, she, it, we, they), 소유격(my, your, his, her, its, our, their), 목적격(me, you, him, her, it, us, them), 소유대명사(mine, yours, his, hers, ours, theirs)로 쓴다.\n풀이 순서: ① 앞 문장의 주어를 대명사로 바꾼다: My father(남자 한 명)는 ‘그’. → ② 빈칸은 동사 앞 주어 자리이므로 주격을 쓴다. → ③ 정답은 He.\n문장별 판정:\n정답 판단: My father를 받는 주격 He이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] His: 소유격이라 주어 자리에 쓸 수 없으므로 오답이다.\n② [오답] Him: 목적격이라 주어 자리에 쓸 수 없으므로 오답이다.\n③ [오답] Himself: 재귀대명사이라 주어 자리에 쓸 수 없으므로 오답이다.\n④ [오답] He's: He is의 줄임말이라 뒤의 is와 겹치므로 오답이다.\n⑤ [정답] My father를 받는 주격 He이므로 정답이다."
+ }
+}

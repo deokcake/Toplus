@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:25:20.093Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "on",
+      "1": "above",
+      "2": "beside",
+      "3": "in front of",
+      "4": "under"
+    },
+    "expl": "핵심 규칙: 위치 전치사는 두 대상의 관계를 나타낸다. A가 B 앞(in front of)이면 B는 A 뒤(behind), A가 B 위(above)면 B는 A 아래(under/below), 맞은편(across from)과 옆(next to, beside)은 서로 같은 관계이다.\n풀이 순서: ① 둘째 문장에서 두 대상의 위치 관계를 읽는다. 침대가 고양이 ‘위에’ 있다. → ② 첫째 문장은 주어와 대상이 바뀌어 있다. 그 관계를 뒤집어 본다. 고양이는 침대 ‘아래에’ 있다. → ③ 정답은 under.\n문장별 판정:\n정답 판단: under: 침대가 고양이 위에 있으면 고양이는 침대 아래에 있으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] on: 고양이가 침대 위에 있다는 반대 뜻이 되므로 오답이다.\n② [오답] above: 고양이가 침대보다 위에 있다는 반대 뜻이 되므로 오답이다.\n③ [오답] beside: 옆의 관계라 위아래 관계와 맞지 않으므로 오답이다.\n④ [오답] in front of: 앞의 관계라 위아래 관계와 맞지 않으므로 오답이다.\n⑤ [정답] under: 침대가 고양이 위에 있으면 고양이는 침대 아래에 있으므로 정답이다.",
+    "passage": "The little cat is sleeping _____ the bed.\n= The bed is above the little sleeping cat.",
+    "stem": "두 문장의 의미가 같도록 할 때, 빈칸에 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T01:18:15.207Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:18:22.256Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:25:20.093Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:25:17.674Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:25:20.093Z",
+      "what": "확인 완료"
+    }
+  }
+}

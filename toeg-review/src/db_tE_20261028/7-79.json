@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T08:04:08.721Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "What does your dog eat",
+      "1": "It eats meat",
+      "2": "What do your cat eat",
+      "3": "It eats fish",
+      "4": "What do your birds eat"
+    },
+    "expl": "핵심 규칙: What 의문문은 What + do/does + 주어 + 동사원형 ~?으로, 대답은 주어에 맞는 현재형으로 쓴다. 3인칭 단수 주어에는 does와 -s형, 그 밖의 주어에는 do와 동사원형을 쓴다.\n풀이 순서: ① 밑줄마다 주어를 찾는다. 묻는 문장은 do/does가, 대답은 동사의 꼴이 주어와 맞아야 한다. → ② 3인칭 단수 주어(he, she, it, 한 사람·한 마리)면 does와 -s형, 아니면 do와 원형이다. → ③ 선택지 ③의 주어 your cat은 한 마리라 do가 아니라 does를 쓴다. 정답은 ③.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 your cat에는 do가 아니라 does를 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 3인칭 단수 주어 your dog에 does와 동사원형 eat을 바르게 썼으므로 오답이다.\n② [오답] 주어 It에 eats를 바르게 썼으므로 오답이다.\n③ [정답] 3인칭 단수 주어 your cat에는 do가 아니라 does를 써야 하므로 정답이다.\n④ [오답] 주어 It에 eats를 바르게 썼으므로 오답이다.\n⑤ [오답] 복수 주어 your birds에 do와 동사원형 eat을 바르게 썼으므로 오답이다.",
+    "passage": "Hello, Leo! ①<u>What does your dog eat</u>? ②<u>It eats meat</u>. ③<u>What do your cat eat</u>? ④<u>It eats fish</u>. ⑤<u>What do your birds eat</u>? They eat seeds.",
+    "stem": "다음 지문을 읽고 밑줄 친 ①~⑤ 중 문법적으로 틀린 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T08:04:06.921Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T08:04:08.721Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:04:08.721Z",
+      "what": "확인 완료"
+    }
+  }
+}

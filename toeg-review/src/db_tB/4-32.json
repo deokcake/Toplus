@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-06T07:28:44.604Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "eats",
+      "1": "eat",
+      "2": null,
+      "3": "eating",
+      "4": "will eat"
+    },
+    "expl": "핵심 규칙: 과거를 나타내는 말(yesterday, last ~, ~ ago)이 있으면 동사의 과거형을 쓴다. eat - ate, go - went, buy - bought, see - saw, write - wrote는 불규칙 과거형이다.\n풀이 순서: ① 문장에서 때를 나타내는 말을 찾는다: 없음. 발문이 과거형을 고르라고 했다. → ② 과거의 일이므로 동사의 과거형을 쓴다: eat의 과거형은 ate. → ③ 정답은 ate.\n문장별 판정:\n정답 판단: ate: 과거를 나타내는 말과 어울리는 불규칙 과거형이므로 정답은 ③이다.\n선택지 분석:\n① [오답] eats: 3인칭 단수 현재형이라 과거의 일과 맞지 않으므로 오답이다.\n② [오답] eat: 동사원형(현재형)이라 과거의 일과 맞지 않으므로 오답이다.\n③ [정답] ate: 과거를 나타내는 말과 어울리는 불규칙 과거형이므로 정답이다.\n④ [오답] eating: -ing형만으로는 동사 자리에 쓸 수 없으므로 오답이다.\n⑤ [오답] will eat: will + 동사원형은 미래라 과거의 일과 맞지 않으므로 오답이다.",
+    "passage": "They _____ lunch at noon yesterday.",
+    "stem": "빈칸에 들어갈 동사 ‘eat’의 알맞은 형태를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T07:27:55.360Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-06T07:28:44.604Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T07:28:44.604Z",
+      "what": "확인 완료"
+    }
+  }
+}

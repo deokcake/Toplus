@@ -1,0 +1,181 @@
+{
+ "key": "2-1",
+ "type": "A",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "title": "turn red와 같은 2형식 문장",
+ "total_sec": 120,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 9,
+   "screen": {
+    "text": "2급 · CH 1 문장의 형식 · 1번\n\n이 문제는 주어진 문장과 형식이 같은 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 1 문장의 형식 · 1번",
+     "이 문제는 주어진 문장과 형식이 같은 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 1, 1번. 이 문제는 주어진 문장과 형식이 같은 문장을 고르는 문제예요.",
+   "caption": "turn red와 같은 2형식"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 주어진 문장의 형식과 같은 것을 고르시오.\n\nThe leaves turn red in fall.\n\n① My sister bought a new book.\n② The movie seems interesting.\n③ They arrived at the airport.\n④ The teacher made us happy.\n⑤ She gave me a present.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+     "The leaves turn red in fall.",
+     "① My sister bought a new book.",
+     "② The movie seems interesting.",
+     "③ They arrived at the airport.",
+     "④ The teacher made us happy.",
+     "⑤ She gave me a present."
+    ]
+   },
+   "narration": "다음 주어진 문장의 형식과 같은 것을 고르시오. The leaves turn red in fall. 나뭇잎은 가을에 빨갛게 변해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 27,
+   "screen": {
+    "text": "핵심 규칙\n2형식 = 주어 + 동사 + 주격 보어\n주격 보어: 주어의 상태나 성질을 설명하는 말\nbecome, turn, grow, seem, look, sound, smell, stay 뒤에서 주어를 설명하는 형용사 = 주격 보어\n동사 뒤에 목적어 → 3·4·5형식 / 부사(구)만 → 1형식\n예) She looks happy. (그녀는 행복해 보여요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "2형식 = 주어 + 동사 + 주격 보어",
+     "주격 보어: 주어의 상태나 성질을 설명하는 말",
+     "become, turn, grow, seem, look, sound, smell, stay 뒤에서 주어를 설명하는 형용사 = 주격 보어",
+     "동사 뒤에 목적어 → 3·4·5형식 / 부사(구)만 → 1형식",
+     "예) She looks happy. (그녀는 행복해 보여요.)"
+    ]
+   },
+   "narration": "2형식은 주어, 동사, 그리고 주어를 설명하는 주격 보어로 된 문장이에요. turn, seem, look 같은 동사 뒤에 형용사가 와서 주어의 상태를 설명하면 2형식이에요. She looks happy. 그녀는 행복해 보여요. 동사 뒤에 목적어가 오면 3, 4, 5형식이고, 부사나 부사구만 오면 1형식이에요.",
+   "caption": "2형식 = 주어 + 동사 + 주격 보어"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 30,
+   "screen": {
+    "text": "다음 주어진 문장의 형식과 같은 것을 고르시오.\n\nThe leaves turn red in fall.\n\n① My sister bought a new book.\n② The movie seems interesting.\n③ They arrived at the airport.\n④ The teacher made us happy.\n⑤ She gave me a present.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "turn red"
+      ],
+      "strike": [],
+      "note": "주어진 문장: turn 뒤 형용사 red가 주어 The leaves를 설명 → 2형식 (in fall은 부사구)"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "a new book",
+       "us happy",
+       "me a present",
+       "at the airport"
+      ],
+      "strike": [
+       "① My sister bought a new book.",
+       "③ They arrived at the airport.",
+       "④ The teacher made us happy.",
+       "⑤ She gave me a present."
+      ],
+      "note": "①⑤ 동사 뒤 목적어(3·4형식), ④ 목적어 + 목적격 보어(5형식), ③ 부사구만(1형식) → 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "seems interesting"
+      ],
+      "strike": [],
+      "note": "남는 것은 ② seems 뒤 형용사 interesting이 주어를 설명 → 2형식"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 주어진 문장에서 turn 뒤의 형용사 red가 주어 The leaves를 설명하니까 2형식이에요. 둘째, 1번, 4번, 5번은 동사 뒤에 목적어가 있고, 3번은 부사구만 있어서 2형식이 아니에요. 셋째, 남은 2번은 seems 뒤의 형용사 interesting이 주어를 설명하는 2형식이에요. The movie seems interesting. 그 영화는 재미있는 것 같아요.",
+   "caption": "주어진 문장 2형식 → 목적어·부사구 걸러 내기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① My sister bought a new book.  ✗  bought 뒤에 목적어 a new book → 3형식\n② The movie seems interesting.  ✓  seems 뒤 형용사 interesting이 주어를 설명 → 2형식\n③ They arrived at the airport.  ✗  arrived 뒤에 부사구만 → 1형식\n④ The teacher made us happy.  ✗  happy는 목적어 us를 설명 → 5형식\n⑤ She gave me a present.  ✗  목적어 두 개(me, a present) → 4형식",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① My sister bought a new book.  ✗  bought 뒤에 목적어 a new book → 3형식",
+     "② The movie seems interesting.  ✓  seems 뒤 형용사 interesting이 주어를 설명 → 2형식",
+     "③ They arrived at the airport.  ✗  arrived 뒤에 부사구만 → 1형식",
+     "④ The teacher made us happy.  ✗  happy는 목적어 us를 설명 → 5형식",
+     "⑤ She gave me a present.  ✗  목적어 두 개(me, a present) → 4형식"
+    ]
+   },
+   "narration": "정답은 2번이에요. 4번에도 형용사 happy가 있지만, happy는 주어가 아니라 목적어 us를 설명하는 목적격 보어라서 5형식이에요. The teacher made us happy. 선생님은 우리를 행복하게 해 주셨어요. 3번은 arrived 뒤에 at the airport라는 부사구만 있어서 1형식이에요.",
+   "caption": "정답 ② seems interesting"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② The movie seems interesting.\n\n동사 뒤의 형용사가 주어를 설명하면 → 2형식 (주어 + 동사 + 주격 보어)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② The movie seems interesting.",
+     "동사 뒤의 형용사가 주어를 설명하면 → 2형식 (주어 + 동사 + 주격 보어)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, turn, seem 같은 동사 뒤의 형용사가 주어를 설명하면 2형식이에요.",
+   "caption": "형용사가 주어 설명 → 2형식"
+  }
+ ],
+ "source": {
+  "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+  "passage": "The leaves turn red in fall.",
+  "c": [
+   "My sister bought a new book.",
+   "The movie seems interesting.",
+   "They arrived at the airport.",
+   "The teacher made us happy.",
+   "She gave me a present."
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 2형식은 ‘주어 + 동사 + 주격 보어’다. become, turn, grow, seem, look, sound, smell, stay 같은 동사 뒤의 형용사가 주어의 상태를 설명한다.\n풀이 순서: ① 주어진 문장의 동사(turn) 뒤에 오는 형용사(red)가 주어의 상태를 설명한다. 2형식이다. → ② 보기에서 동사 뒤의 말을 본다. 목적어(명사)가 오면 3·4·5형식이고, 부사(구)만 오면 1형식이다. → ③ 선택지 ②만 ‘동사 + 형용사 보어’(seems interesting) 구조다.\n문장별 판정:\n정답 판단: seems 뒤의 형용사 interesting이 주어를 설명하는 2형식이므로 정답은 ②이다.\n선택지 분석:\n① [오답] bought 뒤에 목적어(a new book)가 오는 3형식이므로 오답이다.\n② [정답] seems 뒤의 형용사 interesting이 주어를 설명하는 2형식이므로 정답이다.\n③ [오답] arrived 뒤에 부사구만 오는 1형식이므로 오답이다.\n④ [오답] 목적어(us)와 목적격 보어(happy)가 있는 5형식이므로 오답이다.\n⑤ [오답] 간접목적어(me)와 직접목적어(a present)가 있는 4형식이므로 오답이다."
+ }
+}

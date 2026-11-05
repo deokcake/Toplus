@@ -1,0 +1,177 @@
+{
+ "key": "6-31",
+ "type": "A",
+ "grade": 6,
+ "chapter": "CH 4 일반동사",
+ "title": "동사원형과 3인칭 단수형의 짝",
+ "total_sec": 119,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "6급 · CH 4 일반동사 · 31번\n\n이 문제는 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 4 일반동사 · 31번",
+     "이 문제는 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 4, 31번. 이 문제는 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르는 문제예요.",
+   "caption": "동사원형과 3인칭 단수형의 짝"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 중 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르시오.\n\n① like - likes\n② push - pushes\n③ fix - fixs\n④ do - does\n⑤ have - has",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르시오.",
+     "① like - likes",
+     "② push - pushes",
+     "③ fix - fixs",
+     "④ do - does",
+     "⑤ have - has"
+    ]
+   },
+   "narration": "다음 중 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n주어가 3인칭 단수(he, she, it) → 일반동사 현재형은 3인칭 단수형\n대부분 + s (eat → eats) / have → has\ns, x, sh, ch로 끝나는 동사와 go, do → + es (touch → touches)\n자음 + y → y를 i로 바꾸고 + es (try → tries) / 모음 + y → + s (buy → buys)\n예) Mina brushes her teeth. (미나는 이를 닦아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "주어가 3인칭 단수(he, she, it) → 일반동사 현재형은 3인칭 단수형",
+     "대부분 + s (eat → eats) / have → has",
+     "s, x, sh, ch로 끝나는 동사와 go, do → + es (touch → touches)",
+     "자음 + y → y를 i로 바꾸고 + es (try → tries) / 모음 + y → + s (buy → buys)",
+     "예) Mina brushes her teeth. (미나는 이를 닦아요.)"
+    ]
+   },
+   "narration": "일반동사 현재형은 주어가 he, she, it처럼 3인칭 단수이면 3인칭 단수형으로 써요. 대부분 s를 붙이고 have는 has가 돼요. s, x, sh, ch로 끝나는 동사와 go, do는 es를 붙여요. y 앞이 자음이면 y를 i로 바꾸고 es를, 모음이면 s만 붙여요. Mina brushes her teeth. 미나는 이를 닦아요.",
+   "caption": "3인칭 단수형 만드는 법"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 31,
+   "screen": {
+    "text": "다음 중 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르시오.\n\n① like - likes\n② push - pushes\n③ fix - fixs\n④ do - does\n⑤ have - has",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "② push - pushes",
+       "③ fix - fixs"
+      ],
+      "strike": [],
+      "note": "끝 글자 보기: push → sh, fix → x로 끝남 → es를 붙이는 동사"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① like - likes",
+       "④ do - does",
+       "⑤ have - has"
+      ],
+      "note": "like → likes(+ s), do → does(+ es), have → has → 옳은 짝, 지우기"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ fix - fixs"
+      ],
+      "strike": [
+       "② push - pushes"
+      ],
+      "note": "push → pushes ○ / fix → fixes인데 fixs → 잘못된 짝"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 동사원형의 끝 글자를 보면, push는 sh, fix는 x로 끝나서 es를 붙이는 동사예요. 둘째, like는 s만 붙여 likes, do는 es를 붙여 does, have는 has로 바뀌니까 1번, 4번, 5번은 맞는 짝이에요. 셋째, push는 pushes로 맞지만, fix는 es를 붙여 fixes가 돼야 해요. 3번 fixs는 s만 붙여서 잘못 짝지어졌어요.",
+   "caption": "끝 글자 보기 → 규칙 확인 → ③"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 21,
+   "screen": {
+    "text": "① like - likes  ✗  s만 붙이는 동사, 옳은 짝\n② push - pushes  ✗  sh로 끝나 + es, 옳은 짝\n③ fix - fixs  ✓  x로 끝나면 + es → fixes\n④ do - does  ✗  do는 + es, 옳은 짝\n⑤ have - has  ✗  have는 has로 바뀌어요, 옳은 짝",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① like - likes  ✗  s만 붙이는 동사, 옳은 짝",
+     "② push - pushes  ✗  sh로 끝나 + es, 옳은 짝",
+     "③ fix - fixs  ✓  x로 끝나면 + es → fixes",
+     "④ do - does  ✗  do는 + es, 옳은 짝",
+     "⑤ have - has  ✗  have는 has로 바뀌어요, 옳은 짝"
+    ]
+   },
+   "narration": "정답은 3번이에요. fix는 x로 끝나서 fixes로 써야 해요. 4번 does가 낯설어 보여도 do는 es를 붙인 does가 맞아요. 5번 have도 haves가 아니라 has로 바뀌니까 맞는 짝이에요. 2번 push는 sh로 끝나서 pushes가 맞아요.",
+   "caption": "정답 ③ fixs → fixes"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ③ fix - fixs\n\ns, x, sh, ch로 끝나는 동사와 go, do → + es",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ fix - fixs",
+     "s, x, sh, ch로 끝나는 동사와 go, do → + es"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, s, x, sh, ch로 끝나는 동사와 go, do는 es를 붙여요.",
+   "caption": "s, x, sh, ch, go, do → + es"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "like - likes",
+   "push - pushes",
+   "fix - fixs",
+   "do - does",
+   "have - has"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 3인칭 단수 현재형: 대부분 -s, s·x·sh·ch·o로 끝나면 -es(pushes, fixes, does), 자음 + y는 -ies(studies), have는 has.\n풀이 순서: ① 동사원형의 끝을 본다: s·x·sh·ch·o인지, 자음 + y인지, have인지. → ② 그 끝에 맞는 규칙(-es, -ies, has)대로 되었는지 본다. → ③ fix는 x로 끝나므로 fixes다. 정답은 fix - fixs.\n문장별 판정:\n정답 판단: x로 끝나면 -es를 붙여 fixes로 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] -s를 붙인 옳은 형태이므로 오답이다.\n② [오답] sh로 끝나 -es를 붙인 옳은 형태이므로 오답이다.\n③ [정답] x로 끝나면 -es를 붙여 fixes로 써야 하므로 정답이다.\n④ [오답] o로 끝나 -es를 붙인 옳은 형태이므로 오답이다.\n⑤ [오답] have의 3인칭 단수형 has로 옳으므로 오답이다."
+ }
+}

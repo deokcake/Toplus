@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:01:05.497Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "지호: (A)는 기차가 9시에 떠날 예정이라는 뜻이야.",
+      "1": "유나: (B)는 여기서 헬멧을 써야 한다는 의무를 나타내.",
+      "2": "건우: (C)의 is to improve는 ‘향상되어야 한다’는 의무의 뜻이야.",
+      "3": "소연: (D)는 건물 안에서 아무도 찾을 수 없었다는 가능의 뜻이야.",
+      "4": "현우: (E)는 다시는 만나지 못할 운명이었다는 뜻이야."
+    },
+    "expl": "핵심 규칙: be to는 문맥에 따라 예정(~할 예정이다), 의무(~해야 한다), 의도·조건(if절에서 ~하려면), 가능(주로 부정문의 be to be + 과거분사: ~할 수 있다), 운명(was/were (never) to: ~할 운명이었다)을 나타낸다.\n풀이 순서: ① be to의 다섯 뜻을 단서와 함께 떠올린다. 미래 시점 표현 → 예정, You are to → 의무, if절 → 의도, 부정어 + to be 과거분사 → 가능, was(were) (never) to → 운명. → ② (A)~(E)에 하나씩 대어 본다. → ③ 선택지 ③은 (C)를 ‘의무’라고 했다. if절의 be to는 ‘~하려면’이라는 의도다.\n문장별 판정:\n정답 판단: 설명이 틀린 학생은 건우이다. (C)는 if절에 쓰여 ‘향상되려면’이라는 의도·조건을 나타낸다.\n선택지 분석:\n① [오답] (A)는 예정의 be to이다. 옳은 설명이므로 오답이다.\n② [오답] (B)는 의무의 be to이다. 옳은 설명이므로 오답이다.\n③ [정답] (C)는 if절에 쓰여 ‘향상되려면’이라는 의도·조건을 나타낸다. 틀린 설명이므로 정답이다.\n④ [오답] (D)는 부정 주어와 함께 쓰인 가능의 be to이다. 옳은 설명이므로 오답이다.\n⑤ [오답] (E)는 운명의 be to이다. 옳은 설명이므로 오답이다.",
+    "passage": "<보기>\n(A) The train is to leave the station at nine tomorrow morning.\n(B) You are to wear a helmet in this area at all times.\n(C) If she is to improve her skills, she must practice more.\n(D) No one was to be found in the building after midnight.\n(E) They were never to meet each other again.",
+    "stem": "다음은 'be to' 용법에 대한 학생들의 대화이다. 설명이 틀린 학생을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T16:41:06.767Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:41:14.331Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:01:05.497Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:00:54.716Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:01:05.497Z",
+      "what": "확인 완료"
+    }
+  }
+}

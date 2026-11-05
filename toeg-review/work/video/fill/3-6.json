@@ -1,0 +1,459 @@
+{
+ "A": {
+  "title": "There + be동사의 시제와 수",
+  "intro": "이 문제는 There 뒤 빈칸에 시제와 수에 맞는 be동사를 고르는 문제예요.",
+  "problem_narration": "다음 문장의 빈칸에 알맞은 be동사를 고르세요. There 빈칸 a beautiful garden behind our school last year. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "There + be동사 + 명사 → ‘~이 있다, ~이 있었다’",
+    "be동사는 뒤에 오는 명사의 수에 맞춰요: 단수 → is, was / 복수 → are, were",
+    "시간 표현으로 시제를 정해요: now → 현재(is, are) / yesterday, last year → 과거(was, were)",
+    "예) There were three cats on the roof yesterday. (어제 지붕 위에 고양이 세 마리가 있었어요.)"
+   ],
+   "narration": "There 뒤에 be동사와 명사가 오면 무엇이 있다는 뜻이에요. be동사는 뒤의 명사에 수를 맞춰서, 단수이면 is나 was, 복수이면 are나 were를 써요. 시제는 시간 표현으로 정하는데, now는 현재, yesterday나 last year는 과거예요. 예를 들어 There were three cats on the roof yesterday, 어제 지붕 위에 고양이 세 마리가 있었어요."
+  },
+  "steps": [
+   {
+    "note": "시간 표현 last year → 과거. 현재형 is, are와 시제를 나타내지 못하는 원형 be를 지운다.",
+    "highlight": [
+     "last year"
+    ],
+    "strike": [
+     "① is",
+     "② are",
+     "⑤ be"
+    ],
+    "narration": "첫째, 문장 끝의 last year는 작년이라 과거예요. 그래서 현재형 is와 are, 시제를 나타내지 못하는 동사원형 be를 지워요."
+   },
+   {
+    "note": "뒤의 명사 a beautiful garden → 정원 하나, 단수. 복수에 쓰는 were를 지운다.",
+    "highlight": [
+     "a beautiful garden"
+    ],
+    "strike": [
+     "④ were"
+    ],
+    "narration": "둘째, be동사는 뒤의 명사 a beautiful garden에 수를 맞춰요. 정원 하나라서 단수이니, 복수에 쓰는 were도 지워요."
+   },
+   {
+    "note": "남는 것은 과거 단수형 was → There was a beautiful garden behind our school last year.",
+    "highlight": [
+     "③ was"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 was를 넣으면 There was a beautiful garden behind our school last year, 작년에 우리 학교 뒤에는 아름다운 정원이 있었어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① is  ✗  단수에 맞지만 현재형이라 last year와 안 맞아요",
+    "② are  ✗  현재형이고 복수에 써요",
+    "③ was  ✓  과거 + 단수 a beautiful garden",
+    "④ were  ✗  과거형이지만 복수에 써요",
+    "⑤ be  ✗  동사원형이라 시제와 수를 나타내지 못해요"
+   ],
+   "narration": "정답은 3번 was예요. 4번 were는 과거형이라 맞아 보이지만, 복수에 쓰는 꼴이라 정원 하나와 맞지 않아요. 1번 is는 단수에 쓰지만 현재형이라 last year와 맞지 않아요. 5번 be는 동사원형이라 시제와 수를 나타내지 못해서, There 뒤 동사 자리에 혼자 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "There + be동사: 시제는 시간 표현으로, 수는 뒤의 명사로 정해요",
+   "narration": "정답은 3번이에요. 기억할 것, There 뒤의 be동사는 시간 표현으로 시제를, 뒤의 명사로 수를 정해요."
+  },
+  "captions": [
+   "There 뒤 be동사 고르기",
+   "먼저 풀어 보세요",
+   "시제는 시간 표현, 수는 명사",
+   "과거 → 단수 → was",
+   "정답 ③ was",
+   "시제와 뒤의 명사 수"
+  ],
+  "sec": [
+   11,
+   18,
+   29,
+   34,
+   25,
+   11
+  ]
+ },
+ "B": {
+  "title": "There + be동사의 시제와 수",
+  "intro": "이 문제는 There 뒤 빈칸에 시제와 수에 맞는 be동사를 고르는 문제예요.",
+  "problem_narration": "다음 문장의 빈칸에 알맞은 be동사를 고르세요. There 빈칸 two umbrellas by the door last night. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "There + be동사 + 명사 → ‘~이 있다, ~이 있었다’",
+    "be동사는 뒤에 오는 명사의 수에 맞춰요: 단수 → is, was / 복수 → are, were",
+    "시간 표현으로 시제를 정해요: now → 현재(is, are) / yesterday, last year → 과거(was, were)",
+    "예) There is a cat on the sofa now. (지금 소파 위에 고양이가 한 마리 있어요.)"
+   ],
+   "narration": "There 뒤에 be동사와 명사가 오면 무엇이 있다는 뜻이에요. be동사는 뒤의 명사에 수를 맞춰서, 단수이면 is나 was, 복수이면 are나 were를 써요. 시제는 시간 표현으로 정하는데, now는 현재, yesterday나 last year는 과거예요. 예를 들어 There is a cat on the sofa now, 지금 소파 위에 고양이가 한 마리 있어요."
+  },
+  "steps": [
+   {
+    "note": "시간 표현 last night → 과거. 현재형 are, is와 혼자 동사 자리에 못 오는 being을 지운다.",
+    "highlight": [
+     "last night"
+    ],
+    "strike": [
+     "② are",
+     "④ is",
+     "① being"
+    ],
+    "narration": "첫째, 문장 끝의 last night는 어젯밤이라 과거예요. 그래서 현재형 are와 is, 혼자서는 동사 자리에 쓸 수 없는 ing형 being을 지워요."
+   },
+   {
+    "note": "뒤의 명사 two umbrellas → 우산 두 개, 복수. 단수에 쓰는 was를 지운다.",
+    "highlight": [
+     "two umbrellas"
+    ],
+    "strike": [
+     "⑤ was"
+    ],
+    "narration": "둘째, be동사는 뒤의 명사 two umbrellas에 수를 맞춰요. 우산 두 개라서 복수이니, 단수에 쓰는 was도 지워요."
+   },
+   {
+    "note": "남는 것은 과거 복수형 were → There were two umbrellas by the door last night.",
+    "highlight": [
+     "③ were"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 were를 넣으면 There were two umbrellas by the door last night, 어젯밤 문 옆에 우산 두 개가 있었어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① being  ✗  ing형은 혼자 동사 자리에 못 와요",
+    "② are  ✗  복수에 맞지만 현재형이라 last night와 안 맞아요",
+    "③ were  ✓  과거 + 복수 two umbrellas",
+    "④ is  ✗  현재형이고 단수에 써요",
+    "⑤ was  ✗  과거형이지만 단수에 써요"
+   ],
+   "narration": "정답은 3번 were예요. 5번 was는 과거형이라 맞아 보이지만, 단수에 쓰는 꼴이라 우산 두 개와 맞지 않아요. 2번 are는 복수에 쓰지만 현재형이라 last night와 맞지 않아요. 1번 being은 ing형이라 혼자서는 문장의 동사 자리에 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "There + be동사: 시제는 시간 표현으로, 수는 뒤의 명사로 정해요",
+   "narration": "정답은 3번이에요. 기억할 것, There 뒤의 be동사는 시간 표현으로 시제를, 뒤의 명사로 수를 정해요."
+  },
+  "captions": [
+   "There 뒤 be동사 고르기",
+   "먼저 풀어 보세요",
+   "시제는 시간 표현, 수는 명사",
+   "과거 → 복수 → were",
+   "정답 ③ were",
+   "시제와 뒤의 명사 수"
+  ],
+  "sec": [
+   11,
+   18,
+   29,
+   34,
+   25,
+   11
+  ]
+ },
+ "C": {
+  "title": "There + be동사의 시제와 수",
+  "intro": "이 문제는 There 뒤 빈칸에 시제와 수에 맞는 be동사를 고르는 문제예요.",
+  "problem_narration": "다음 문장의 빈칸에 알맞은 be동사를 고르세요. There 빈칸 many students here yesterday. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "There + be동사 + 명사 → ‘~이 있다, ~이 있었다’",
+    "be동사는 뒤에 오는 명사의 수에 맞춰요: 단수 → is, was / 복수 → are, were",
+    "시간 표현으로 시제를 정해요: now → 현재(is, are) / yesterday, last year → 과거(was, were)",
+    "예) There is a cat on the sofa now. (지금 소파 위에 고양이가 한 마리 있어요.)"
+   ],
+   "narration": "There 뒤에 be동사와 명사가 오면 무엇이 있다는 뜻이에요. be동사는 뒤의 명사에 수를 맞춰서, 단수이면 is나 was, 복수이면 are나 were를 써요. 시제는 시간 표현으로 정하는데, now는 현재, yesterday나 last year는 과거예요. 예를 들어 There is a cat on the sofa now, 지금 소파 위에 고양이가 한 마리 있어요."
+  },
+  "steps": [
+   {
+    "note": "시간 표현 yesterday → 과거. 현재형 is, are와 혼자 동사 자리에 못 오는 been을 지운다.",
+    "highlight": [
+     "yesterday"
+    ],
+    "strike": [
+     "② is",
+     "④ are",
+     "⑤ been"
+    ],
+    "narration": "첫째, 문장 끝의 yesterday는 어제라 과거예요. 그래서 현재형 is와 are, 혼자서는 동사 자리에 쓸 수 없는 과거분사 been을 지워요."
+   },
+   {
+    "note": "뒤의 명사 many students → 학생 여러 명, 복수. 단수에 쓰는 was를 지운다.",
+    "highlight": [
+     "many students"
+    ],
+    "strike": [
+     "① was"
+    ],
+    "narration": "둘째, be동사는 뒤의 명사 many students에 수를 맞춰요. 학생이 여러 명이라 복수이니, 단수에 쓰는 was도 지워요."
+   },
+   {
+    "note": "남는 것은 과거 복수형 were → There were many students here yesterday.",
+    "highlight": [
+     "③ were"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 were를 넣으면 There were many students here yesterday, 어제 여기에 학생들이 많이 있었어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① was  ✗  과거형이지만 단수에 써요",
+    "② is  ✗  현재형이고 단수에 써요",
+    "③ were  ✓  과거 + 복수 many students",
+    "④ are  ✗  복수에 맞지만 현재형이라 yesterday와 안 맞아요",
+    "⑤ been  ✗  과거분사라 혼자 동사 자리에 못 와요"
+   ],
+   "narration": "정답은 3번 were예요. 1번 was는 과거형이라 맞아 보이지만, 단수에 쓰는 꼴이라 많은 학생들과 맞지 않아요. 5번 been은 과거형이 아니라 과거분사라서, 혼자서는 문장의 동사 자리에 쓸 수 없어요. 4번 are는 복수에 쓰지만 현재형이라 yesterday와 맞지 않아요."
+  },
+  "summary": {
+   "card": "There + be동사: 시제는 시간 표현으로, 수는 뒤의 명사로 정해요",
+   "narration": "정답은 3번이에요. 기억할 것, There 뒤의 be동사는 시간 표현으로 시제를, 뒤의 명사로 수를 정해요."
+  },
+  "captions": [
+   "There 뒤 be동사 고르기",
+   "먼저 풀어 보세요",
+   "시제는 시간 표현, 수는 명사",
+   "과거 → 복수 → were",
+   "정답 ③ were",
+   "시제와 뒤의 명사 수"
+  ],
+  "sec": [
+   11,
+   17,
+   29,
+   34,
+   25,
+   11
+  ]
+ },
+ "D": {
+  "title": "There + be동사의 시제와 수",
+  "intro": "이 문제는 There 뒤 빈칸에 시제와 수에 맞는 be동사를 고르는 문제예요.",
+  "problem_narration": "다음 문장의 빈칸에 알맞은 be동사를 고르세요. There 빈칸 a new store near my house now. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "There + be동사 + 명사 → ‘~이 있다, ~이 있었다’",
+    "be동사는 뒤에 오는 명사의 수에 맞춰요: 단수 → is, was / 복수 → are, were",
+    "시간 표현으로 시제를 정해요: now → 현재(is, are) / yesterday, last year → 과거(was, were)",
+    "예) There were three cats on the roof yesterday. (어제 지붕 위에 고양이 세 마리가 있었어요.)"
+   ],
+   "narration": "There 뒤에 be동사와 명사가 오면 무엇이 있다는 뜻이에요. be동사는 뒤의 명사에 수를 맞춰서, 단수이면 is나 was, 복수이면 are나 were를 써요. 시제는 시간 표현으로 정하는데, now는 현재, yesterday나 last year는 과거예요. 예를 들어 There were three cats on the roof yesterday, 어제 지붕 위에 고양이 세 마리가 있었어요."
+  },
+  "steps": [
+   {
+    "note": "시간 표현 now → 현재. 과거형 were, was와 혼자 동사 자리에 못 오는 being을 지운다.",
+    "highlight": [
+     "now"
+    ],
+    "strike": [
+     "① were",
+     "③ was",
+     "④ being"
+    ],
+    "narration": "첫째, 문장 끝의 now는 지금이라 현재예요. 그래서 과거형 were와 was, 혼자서는 동사 자리에 쓸 수 없는 ing형 being을 지워요."
+   },
+   {
+    "note": "뒤의 명사 a new store → 가게 하나, 단수. 복수에 쓰는 are를 지운다.",
+    "highlight": [
+     "a new store"
+    ],
+    "strike": [
+     "⑤ are"
+    ],
+    "narration": "둘째, be동사는 뒤의 명사 a new store에 수를 맞춰요. 가게 하나라서 단수이니, 복수에 쓰는 are도 지워요."
+   },
+   {
+    "note": "남는 것은 현재 단수형 is → There is a new store near my house now.",
+    "highlight": [
+     "② is"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 is를 넣으면 There is a new store near my house now, 지금 우리 집 근처에 새 가게가 하나 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① were  ✗  과거형이고 복수에 써요",
+    "② is  ✓  현재 + 단수 a new store",
+    "③ was  ✗  단수에 맞지만 과거형이라 now와 안 맞아요",
+    "④ being  ✗  ing형은 혼자 동사 자리에 못 와요",
+    "⑤ are  ✗  현재형이지만 복수에 써요"
+   ],
+   "narration": "정답은 2번 is예요. 5번 are는 현재형이라 맞아 보이지만, 복수에 쓰는 꼴이라 가게 하나와 맞지 않아요. 3번 was는 단수에 쓰지만 과거형이라 now와 맞지 않아요. 4번 being은 ing형이라 혼자서는 문장의 동사 자리에 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "There + be동사: 시제는 시간 표현으로, 수는 뒤의 명사로 정해요",
+   "narration": "정답은 2번이에요. 기억할 것, There 뒤의 be동사는 시간 표현으로 시제를, 뒤의 명사로 수를 정해요."
+  },
+  "captions": [
+   "There 뒤 be동사 고르기",
+   "먼저 풀어 보세요",
+   "시제는 시간 표현, 수는 명사",
+   "현재 → 단수 → is",
+   "정답 ② is",
+   "시제와 뒤의 명사 수"
+  ],
+  "sec": [
+   11,
+   18,
+   29,
+   34,
+   25,
+   11
+  ]
+ },
+ "E": {
+  "title": "There + be동사의 시제와 수",
+  "intro": "이 문제는 There 뒤 빈칸에 시제와 수에 맞는 be동사를 고르는 문제예요.",
+  "problem_narration": "다음 문장의 빈칸에 알맞은 be동사를 고르세요. There 빈칸 two big dogs playing in the park near my house now. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "There + be동사 + 명사 → ‘~이 있다, ~이 있었다’",
+    "be동사는 뒤에 오는 명사의 수에 맞춰요: 단수 → is, was / 복수 → are, were",
+    "시간 표현으로 시제를 정해요: now → 현재(is, are) / yesterday, last year → 과거(was, were)",
+    "예) There was a big tree in the yard last year. (작년에 마당에 큰 나무가 한 그루 있었어요.)"
+   ],
+   "narration": "There 뒤에 be동사와 명사가 오면 무엇이 있다는 뜻이에요. be동사는 뒤의 명사에 수를 맞춰서, 단수이면 is나 was, 복수이면 are나 were를 써요. 시제는 시간 표현으로 정하는데, now는 현재, yesterday나 last year는 과거예요. 예를 들어 There was a big tree in the yard last year, 작년에 마당에 큰 나무가 한 그루 있었어요."
+  },
+  "steps": [
+   {
+    "note": "시간 표현 now → 현재. 과거형 were, was와 혼자 동사 자리에 못 오는 been을 지운다.",
+    "highlight": [
+     "now"
+    ],
+    "strike": [
+     "① were",
+     "④ was",
+     "② been"
+    ],
+    "narration": "첫째, 문장 끝의 now는 지금이라 현재예요. 그래서 과거형 were와 was, 혼자서는 동사 자리에 쓸 수 없는 과거분사 been을 지워요."
+   },
+   {
+    "note": "빈칸 바로 뒤의 명사 two big dogs → 개 두 마리, 복수. 단수에 쓰는 is를 지운다.",
+    "highlight": [
+     "two big dogs"
+    ],
+    "strike": [
+     "⑤ is"
+    ],
+    "narration": "둘째, be동사는 빈칸 바로 뒤의 명사 two big dogs에 수를 맞춰요. 개 두 마리라서 복수이니, 단수에 쓰는 is도 지워요."
+   },
+   {
+    "note": "남는 것은 현재 복수형 are → There are two big dogs playing in the park near my house now.",
+    "highlight": [
+     "③ are"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 are를 넣으면 There are two big dogs playing in the park near my house now, 지금 우리 집 근처 공원에서 큰 개 두 마리가 놀고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① were  ✗  복수에 맞지만 과거형이라 now와 안 맞아요",
+    "② been  ✗  과거분사라 혼자 동사 자리에 못 와요",
+    "③ are  ✓  현재 + 복수 two big dogs",
+    "④ was  ✗  과거형이고 단수에 써요",
+    "⑤ is  ✗  현재형이지만 단수에 써요"
+   ],
+   "narration": "정답은 3번 are예요. 5번 is는 현재형이라 맞아 보이지만, 단수에 쓰는 꼴이라 큰 개 두 마리와 맞지 않아요. 1번 were는 복수에 쓰지만 과거형이라 now와 맞지 않아요. 2번 been은 과거분사라서 혼자서는 문장의 동사 자리에 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "There + be동사: 시제는 시간 표현으로, 수는 뒤의 명사로 정해요",
+   "narration": "정답은 3번이에요. 기억할 것, There 뒤의 be동사는 시간 표현으로 시제를, 뒤의 명사로 수를 정해요."
+  },
+  "captions": [
+   "There 뒤 be동사 고르기",
+   "먼저 풀어 보세요",
+   "시제는 시간 표현, 수는 명사",
+   "현재 → 복수 → are",
+   "정답 ③ are",
+   "시제와 뒤의 명사 수"
+  ],
+  "sec": [
+   11,
+   19,
+   29,
+   36,
+   25,
+   11
+  ]
+ },
+ "F": {
+  "title": "There + be동사와 셀 수 없는 명사",
+  "intro": "이 문제는 There 뒤 빈칸에 시제와 수에 맞는 be동사를 고르는 문제예요.",
+  "problem_narration": "다음 문장의 빈칸에 알맞은 be동사를 고르세요. There 빈칸 a lot of snow on the mountains near our town last winter. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "There + be동사 + 명사 → ‘~이 있다, ~이 있었다’",
+    "be동사는 뒤에 오는 명사의 수에 맞춰요: 단수 → is, was / 복수 → are, were",
+    "셀 수 없는 명사(milk, money, water)는 단수로 봐요 → is, was",
+    "시간 표현으로 시제를 정해요: now → 현재 / yesterday, last year → 과거",
+    "예) There is some milk in the cup now. (지금 컵에 우유가 조금 있어요.)"
+   ],
+   "narration": "There 뒤에 be동사와 명사가 오면 무엇이 있다는 뜻이에요. be동사는 뒤의 명사에 수를 맞춰서, 단수이면 is나 was, 복수이면 are나 were를 써요. milk처럼 셀 수 없는 명사는 단수로 봐요. 시제는 now나 yesterday 같은 시간 표현으로 정해요. 예를 들어 There is some milk in the cup now, 지금 컵에 우유가 조금 있어요."
+  },
+  "steps": [
+   {
+    "note": "시간 표현 last winter → 과거. 현재형 is, are와 혼자 동사 자리에 못 오는 being을 지운다.",
+    "highlight": [
+     "last winter"
+    ],
+    "strike": [
+     "④ is",
+     "⑤ are",
+     "③ being"
+    ],
+    "narration": "첫째, 문장 끝의 last winter는 지난겨울이라 과거예요. 그래서 현재형 is와 are, 혼자서는 동사 자리에 쓸 수 없는 ing형 being을 지워요."
+   },
+   {
+    "note": "a lot of 뒤의 snow는 셀 수 없는 명사 → 단수. on the mountains는 장소를 나타내는 말이라 수와 상관없음 → were를 지운다.",
+    "highlight": [
+     "a lot of snow"
+    ],
+    "strike": [
+     "① were"
+    ],
+    "narration": "둘째, be동사는 a lot of 뒤의 snow에 수를 맞추는데, snow는 셀 수 없는 명사라 단수예요. mountains는 장소를 나타내는 말 속에 있어 수와 상관없으니, 복수에 쓰는 were도 지워요."
+   },
+   {
+    "note": "남는 것은 과거 단수형 was → There was a lot of snow on the mountains near our town last winter.",
+    "highlight": [
+     "② was"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 was를 넣으면 There was a lot of snow on the mountains near our town last winter, 지난겨울 우리 마을 근처 산에는 눈이 많았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① were  ✗  과거형이지만 복수에 써요 (snow는 셀 수 없는 명사)",
+    "② was  ✓  과거 + 셀 수 없는 명사 snow는 단수",
+    "③ being  ✗  ing형은 혼자 동사 자리에 못 와요",
+    "④ is  ✗  snow에 맞지만 현재형이라 last winter와 안 맞아요",
+    "⑤ are  ✗  현재형이고 복수에 써요"
+   ],
+   "narration": "정답은 2번 was예요. 1번 were는 a lot of나 mountains 때문에 복수로 착각하기 쉽지만, snow는 셀 수 없는 명사라 단수예요. 4번 is는 단수에 맞지만 현재형이라 last winter와 맞지 않아요. 3번 being은 ing형이라 혼자서는 동사 자리에 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "셀 수 없는 명사는 단수 → There is, There was",
+   "narration": "정답은 2번이에요. 기억할 것, There 뒤의 be동사는 뒤의 명사에 수를 맞추고, 셀 수 없는 명사는 단수예요."
+  },
+  "captions": [
+   "There 뒤 be동사 고르기",
+   "먼저 풀어 보세요",
+   "셀 수 없는 명사는 단수",
+   "과거 → snow는 단수 → was",
+   "정답 ② was",
+   "셀 수 없는 명사 → is, was"
+  ],
+  "sec": [
+   11,
+   20,
+   29,
+   38,
+   25,
+   11
+  ]
+ }
+}

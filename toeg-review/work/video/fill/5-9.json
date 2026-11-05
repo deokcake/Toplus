@@ -1,0 +1,416 @@
+{
+ "A": {
+  "title": "It's와 Its 구별하기",
+  "intro": "이 문제는 두 빈칸에 줄임말 It's와 소유격 Its 중 알맞은 말을 골라 넣는 문제예요.",
+  "problem_narration": "다음 지문의 빈칸 에이와 비에 들어갈 말이 바르게 연결된 것을 고르세요. I have a small dog. 에이 빈칸 very cute, 비 빈칸 fur is white like snow. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "It is를 줄이면 → It's (뜻은 It is와 같아요)",
+    "‘그것의’라는 뜻의 소유격 → Its (아포스트로피 없음, 뒤의 명사를 꾸며요)",
+    "둘 중 고를 때: 문장에 동사가 없으면 It's, 명사 앞에서 ‘그것의’면 Its",
+    "예) It's my cat. Its eyes are green. (그것은 내 고양이예요. 그것의 눈은 초록색이에요.)"
+   ],
+   "narration": "It is를 줄여서 아포스트로피를 넣은 It's라고 쓰고, 뜻은 It is와 같아요. 그것의라는 뜻의 소유격은 아포스트로피가 없는 Its로, 뒤에 오는 명사를 꾸며요. 두 말 중에서 고를 때는, 문장에 동사가 없으면 be동사가 들어 있는 줄임말 It's를, 명사 앞에서 그것의라는 뜻을 나타낼 때는 소유격 Its를 써요. It's my cat. 그것은 내 고양이예요. Its eyes are green. 그것의 눈은 초록색이에요."
+  },
+  "steps": [
+   {
+    "note": "(A) 문장 ‘___ very cute.’에는 동사가 없다 → be동사가 든 It's(= It is). 소유격 Its를 넣은 ②, ④는 지운다. ⑤의 It is는 It's를 풀어 쓴 말이라 남긴다.",
+    "highlight": [
+     "(A)________ very cute."
+    ],
+    "strike": [
+     "② (A) Its — (B) It's",
+     "④ (A) Its — (B) Its"
+    ],
+    "narration": "첫째, 에이 빈칸 뒤 very cute에는 동사가 없으니, be동사가 들어 있는 줄임말 It's가 와야 해요. 소유격 Its를 넣은 2번과 4번은 지우고, It's를 풀어 쓴 It is도 맞으니 5번은 남겨요."
+   },
+   {
+    "note": "(B) 문장에는 동사 is가 이미 있다. 빈칸은 fur를 꾸며 ‘그것의 털’ → 소유격 Its. 줄임말 It's를 넣은 ③, ⑤는 지운다.",
+    "highlight": [
+     "(B)________ fur is white like snow."
+    ],
+    "strike": [
+     "③ (A) It's — (B) It's",
+     "⑤ (A) It is — (B) It's"
+    ],
+    "narration": "둘째, 비 빈칸 문장에는 이미 동사 is가 있고 빈칸은 fur를 꾸며 그것의 털이라는 뜻이 되어야 하니, 소유격 Its가 맞고 줄임말 It's를 넣은 3번과 5번은 지워요."
+   },
+   {
+    "note": "남는 것은 ① → It's very cute. Its fur is white like snow.",
+    "highlight": [
+     "① (A) It's — (B) Its"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 1번이에요. It's very cute. Its fur is white like snow. 그것은 아주 귀엽고, 그것의 털은 눈처럼 하얘요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) It's — (B) Its  ✓  동사 없는 (A)에 It's, fur를 꾸미는 (B)에 Its",
+    "② (A) Its — (B) It's  ✗  두 말이 뒤바뀜: (A)에 동사가 없고, (B)는 be동사가 두 번",
+    "③ (A) It's — (B) It's  ✗  (A)는 맞지만, ‘그것의 털’은 It's가 아니라 Its",
+    "④ (A) Its — (B) Its  ✗  (B)는 맞지만, Its very cute에는 동사가 없음",
+    "⑤ (A) It is — (B) It's  ✗  It is는 맞지만, (B)에 It's를 쓰면 is가 겹침"
+   ],
+   "narration": "정답은 1번이에요. 5번은 에이 빈칸의 It is가 줄임말 It's를 풀어 쓴 말이라 맞지만, 비 빈칸에 줄임말 It's를 넣으면 It is가 되어 fur 뒤의 is까지 be동사가 두 번 나와요. 3번도 에이 빈칸은 맞지만, 비 빈칸에 그것의라는 뜻의 소유격 Its 대신 줄임말 It's를 넣어서 틀렸어요. 2번은 두 말을 거꾸로 넣었어요. 에이 빈칸에 소유격 Its를 넣으면 문장에 동사가 없어요."
+  },
+  "summary": {
+   "card": "‘그것은 ~이다’ → It's (= It is) · ‘그것의’ → Its",
+   "narration": "정답은 1번이에요. 기억할 것, It is를 줄인 말은 아포스트로피가 있는 It's이고, 그것의라는 뜻의 소유격은 아포스트로피가 없는 Its예요."
+  },
+  "captions": [
+   "It's와 Its 구별하기",
+   "먼저 풀어 보세요",
+   "It's는 It is, Its는 그것의",
+   "동사 없음 → It's, 명사 꾸밈 → Its",
+   "정답 ① It's — Its",
+   "It is → It's, 그것의 → Its"
+  ],
+  "sec": [10, 18, 30, 38, 30, 11]
+ },
+ "B": {
+  "title": "He's와 His 구별하기",
+  "intro": "이 문제는 두 빈칸에 줄임말 He's와 소유격 His 중 알맞은 말을 골라 넣는 문제예요.",
+  "problem_narration": "다음 지문의 빈칸 에이, 비에 들어갈 말이 바르게 짝지어진 것을 고르세요. Tom is my uncle. 에이 빈칸 very funny, 비 빈칸 car is old but clean. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "He is를 줄이면 → He's (뜻은 He is와 같아요)",
+    "‘그의’라는 뜻의 소유격 → His (뒤의 명사를 꾸며요)",
+    "둘 중 고를 때: 문장에 동사가 없으면 He's, 명사 앞에서 ‘그의’면 His",
+    "예) He's my brother. His name is Minho. (그는 내 남동생이에요. 그의 이름은 민호예요.)"
+   ],
+   "narration": "He is를 줄여서 아포스트로피를 넣은 He's라고 쓰고, 뜻은 He is와 같아요. 그의라는 뜻의 소유격은 His로, 뒤에 오는 명사를 꾸며요. 두 말 중에서 고를 때는, 문장에 동사가 없으면 be동사가 들어 있는 줄임말 He's를, 명사 앞에서 그의라는 뜻을 나타낼 때는 소유격 His를 써요. He's my brother. 그는 내 남동생이에요. His name is Minho. 그의 이름은 민호예요."
+  },
+  "steps": [
+   {
+    "note": "(A) 문장 ‘___ very funny.’에는 동사가 없다 → be동사가 든 He's(= He is). His, He, Him을 넣은 ①, ②, ⑤는 지운다.",
+    "highlight": [
+     "(A)________ very funny."
+    ],
+    "strike": [
+     "① (A) His — (B) He's",
+     "② (A) He — (B) Him",
+     "⑤ (A) Him — (B) His"
+    ],
+    "narration": "첫째, 에이 빈칸 뒤 very funny에는 동사가 없으니, be동사가 들어 있는 줄임말 He's가 와야 해요. 소유격 His, be동사가 없는 He, 목적격 Him을 넣은 1번, 2번, 5번은 지워요."
+   },
+   {
+    "note": "(B) 문장에는 동사 is가 이미 있다. 빈칸은 car를 꾸며 ‘그의 차’ → 소유격 His. 목적격 Him을 넣은 ③은 지운다.",
+    "highlight": [
+     "(B)________ car is old but clean."
+    ],
+    "strike": [
+     "③ (A) He's — (B) Him"
+    ],
+    "narration": "둘째, 비 빈칸 문장에는 이미 동사 is가 있고 빈칸은 car를 꾸며 그의 차라는 뜻이 되어야 하니, 소유격 His가 맞고 그를이라는 뜻의 목적격 Him을 넣은 3번은 지워요."
+   },
+   {
+    "note": "남는 것은 ④ → He's very funny. His car is old but clean.",
+    "highlight": [
+     "④ (A) He's — (B) His"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 4번이에요. He's very funny. His car is old but clean. 그는 아주 재미있고, 그의 차는 낡았지만 깨끗해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) His — (B) He's  ✗  두 말이 뒤바뀜: (A)에 동사가 없고, (B)는 be동사가 두 번",
+    "② (A) He — (B) Him  ✗  He 뒤에 be동사가 없고, ‘그의 차’는 Him이 아니라 His",
+    "③ (A) He's — (B) Him  ✗  (A)는 맞지만, Him은 ‘그를’이라는 목적격",
+    "④ (A) He's — (B) His  ✓  동사 없는 (A)에 He's, car를 꾸미는 (B)에 His",
+    "⑤ (A) Him — (B) His  ✗  (B)는 맞지만, 주어 자리에 목적격 Him을 쓸 수 없고 동사도 없음"
+   ],
+   "narration": "정답은 4번이에요. 3번은 에이 빈칸의 He's는 맞지만, 비 빈칸의 Him은 그를이라는 뜻의 목적격이라 car를 꾸며 그의 차라는 뜻을 만들 수 없어요. 2번의 He는 주어로 쓸 수 있지만, 뒤에 be동사가 없어서 문장에 동사가 없어요. 1번은 두 말을 거꾸로 넣었어요. 에이 빈칸에 소유격 His를 넣으면 동사가 없고, 비 빈칸에 줄임말 He's를 넣으면 be동사가 두 번 나와요."
+  },
+  "summary": {
+   "card": "‘그는 ~이다’ → He's (= He is) · ‘그의’ → His",
+   "narration": "정답은 4번이에요. 기억할 것, He is를 줄인 말은 아포스트로피가 있는 He's이고, 그의라는 뜻의 소유격은 His예요."
+  },
+  "captions": [
+   "He's와 His 구별하기",
+   "먼저 풀어 보세요",
+   "He's는 He is, His는 그의",
+   "동사 없음 → He's, 명사 꾸밈 → His",
+   "정답 ④ He's — His",
+   "He is → He's, 그의 → His"
+  ],
+  "sec": [10, 18, 30, 38, 28, 10]
+ },
+ "C": {
+  "title": "You're와 Your 구별하기",
+  "intro": "이 문제는 두 빈칸에 줄임말 You're와 소유격 Your 중 알맞은 말을 골라 넣는 문제예요.",
+  "problem_narration": "다음 지문의 빈칸 에이와 비에 들어갈 말이 바르게 연결된 것을 고르세요. You are my best friend. 에이 빈칸 always kind to me, 비 빈칸 smile makes me happy. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "You are를 줄이면 → You're (뜻은 You are와 같아요)",
+    "‘너의’라는 뜻의 소유격 → Your (뒤의 명사를 꾸며요)",
+    "둘 중 고를 때: 문장에 동사가 없으면 You're, 명사 앞에서 ‘너의’면 Your",
+    "예) You're a good singer. Your voice is beautiful. (너는 좋은 가수예요. 너의 목소리는 아름다워요.)"
+   ],
+   "narration": "You are를 줄여서 아포스트로피를 넣은 You're라고 쓰고, 뜻은 You are와 같아요. 너의라는 뜻의 소유격은 Your로, 뒤에 오는 명사를 꾸며요. 두 말 중에서 고를 때는, 문장에 동사가 없으면 be동사가 들어 있는 줄임말 You're를, 명사 앞에서 너의라는 뜻을 나타낼 때는 소유격 Your를 써요. You're a good singer. 너는 좋은 가수예요. Your voice is beautiful. 너의 목소리는 아름다워요."
+  },
+  "steps": [
+   {
+    "note": "(A) 문장 ‘___ always kind to me.’에는 동사가 없다 → be동사가 든 You're(= You are). Your, You를 넣은 ①, ②, ⑤는 지운다.",
+    "highlight": [
+     "(A)________ always kind to me."
+    ],
+    "strike": [
+     "① (A) Your — (B) You're",
+     "② (A) You — (B) Your",
+     "⑤ (A) Your — (B) Your"
+    ],
+    "narration": "첫째, 에이 빈칸 뒤 always kind to me에는 동사가 없으니, be동사가 들어 있는 줄임말 You're가 와야 해요. 소유격 Your나 be동사가 없는 You를 넣은 1번, 2번, 5번은 지워요."
+   },
+   {
+    "note": "(B) 문장에는 동사 makes가 이미 있다. 빈칸은 smile을 꾸며 ‘너의 미소’ → 소유격 Your. 줄임말 You're를 넣은 ④는 지운다.",
+    "highlight": [
+     "(B)________ smile makes me happy."
+    ],
+    "strike": [
+     "④ (A) You're — (B) You're"
+    ],
+    "narration": "둘째, 비 빈칸 문장에는 이미 동사 makes가 있고 빈칸은 smile을 꾸며 너의 미소라는 뜻이 되어야 하니, 소유격 Your가 맞고 줄임말 You're를 넣은 4번은 지워요."
+   },
+   {
+    "note": "남는 것은 ③ → You're always kind to me. Your smile makes me happy.",
+    "highlight": [
+     "③ (A) You're — (B) Your"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 3번이에요. You're always kind to me. Your smile makes me happy. 너는 늘 나에게 친절하고, 너의 미소는 나를 행복하게 해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) Your — (B) You're  ✗  두 말이 뒤바뀜: (A)에 동사가 없고, (B)는 동사가 겹침",
+    "② (A) You — (B) Your  ✗  (B)는 맞지만, You 뒤에 be동사 are가 없음",
+    "③ (A) You're — (B) Your  ✓  동사 없는 (A)에 You're, smile을 꾸미는 (B)에 Your",
+    "④ (A) You're — (B) You're  ✗  (A)는 맞지만, makes가 있는 (B)에 You're를 쓰면 동사가 겹침",
+    "⑤ (A) Your — (B) Your  ✗  (B)는 맞지만, Your always kind to me에는 동사가 없음"
+   ],
+   "narration": "정답은 3번이에요. 2번은 비 빈칸의 Your는 맞지만, 에이 빈칸의 You 뒤에 be동사 are가 없어서 문장에 동사가 없어요. 4번은 에이 빈칸은 맞지만, 비 빈칸에 줄임말 You're를 넣으면 You are가 되어 뒤의 동사 makes와 동사가 두 번 나와요. 5번은 비 빈칸은 맞지만, 에이 빈칸에 소유격 Your를 넣어서 문장에 동사가 없어요."
+  },
+  "summary": {
+   "card": "‘너는 ~이다’ → You're (= You are) · ‘너의’ → Your",
+   "narration": "정답은 3번이에요. 기억할 것, You are를 줄인 말은 아포스트로피가 있는 You're이고, 너의라는 뜻의 소유격은 Your예요."
+  },
+  "captions": [
+   "You're와 Your 구별하기",
+   "먼저 풀어 보세요",
+   "You're는 You are, Your는 너의",
+   "동사 없음 → You're, 명사 꾸밈 → Your",
+   "정답 ③ You're — Your",
+   "You are → You're, 너의 → Your"
+  ],
+  "sec": [10, 18, 30, 38, 26, 10]
+ },
+ "D": {
+  "title": "She's와 Her 구별하기",
+  "intro": "이 문제는 두 빈칸에 줄임말 She's와 소유격 Her 중 알맞은 말을 골라 넣는 문제예요.",
+  "problem_narration": "다음 지문의 빈칸 에이와 비에 들어갈 말이 바르게 연결된 것을 고르세요. Jane is my sister. 에이 빈칸 tall, 비 빈칸 bag is blue. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "She is를 줄이면 → She's (뜻은 She is와 같아요)",
+    "‘그녀의’라는 뜻의 소유격 → Her (뒤의 명사를 꾸며요)",
+    "둘 중 고를 때: 문장에 동사가 없으면 She's, 명사 앞에서 ‘그녀의’면 Her",
+    "예) She's my teacher. Her class is fun. (그녀는 우리 선생님이에요. 그녀의 수업은 재미있어요.)"
+   ],
+   "narration": "She is를 줄여서 아포스트로피를 넣은 She's라고 쓰고, 뜻은 She is와 같아요. 그녀의라는 뜻의 소유격은 Her로, 뒤에 오는 명사를 꾸며요. 두 말 중에서 고를 때는, 문장에 동사가 없으면 be동사가 들어 있는 줄임말 She's를, 명사 앞에서 그녀의라는 뜻을 나타낼 때는 소유격 Her를 써요. She's my teacher. 그녀는 우리 선생님이에요. Her class is fun. 그녀의 수업은 재미있어요."
+  },
+  "steps": [
+   {
+    "note": "(A) 문장 ‘___ tall.’에는 동사가 없다 → be동사가 든 She's(= She is). Her, She를 넣은 ①, ③, ⑤는 지운다.",
+    "highlight": [
+     "(A)________ tall."
+    ],
+    "strike": [
+     "① (A) Her — (B) She's",
+     "③ (A) She — (B) Her",
+     "⑤ (A) Her — (B) Her"
+    ],
+    "narration": "첫째, 에이 빈칸 뒤 tall에는 동사가 없으니, be동사가 들어 있는 줄임말 She's가 와야 해요. 소유격 Her나 be동사가 없는 She를 넣은 1번, 3번, 5번은 지워요."
+   },
+   {
+    "note": "(B) 문장에는 동사 is가 이미 있다. 빈칸은 bag을 꾸며 ‘그녀의 가방’ → 소유격 Her. 줄임말 She's를 넣은 ④는 지운다.",
+    "highlight": [
+     "(B)________ bag is blue."
+    ],
+    "strike": [
+     "④ (A) She's — (B) She's"
+    ],
+    "narration": "둘째, 비 빈칸 문장에는 이미 동사 is가 있고 빈칸은 bag을 꾸며 그녀의 가방이라는 뜻이 되어야 하니, 소유격 Her가 맞고 줄임말 She's를 넣은 4번은 지워요."
+   },
+   {
+    "note": "남는 것은 ② → She's tall. Her bag is blue.",
+    "highlight": [
+     "② (A) She's — (B) Her"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 2번이에요. She's tall. Her bag is blue. 그녀는 키가 크고, 그녀의 가방은 파란색이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) Her — (B) She's  ✗  두 말이 뒤바뀜: (A)에 동사가 없고, (B)는 be동사가 두 번",
+    "② (A) She's — (B) Her  ✓  동사 없는 (A)에 She's, bag을 꾸미는 (B)에 Her",
+    "③ (A) She — (B) Her  ✗  (B)는 맞지만, She 뒤에 be동사 is가 없음",
+    "④ (A) She's — (B) She's  ✗  (A)는 맞지만, ‘그녀의 가방’은 She's가 아니라 Her",
+    "⑤ (A) Her — (B) Her  ✗  (B)는 맞지만, (A)에는 주어 She와 동사 is가 모두 필요"
+   ],
+   "narration": "정답은 2번이에요. 3번은 비 빈칸의 Her는 맞지만, 에이 빈칸의 She 뒤에 be동사 is가 없어서 문장에 동사가 없어요. 4번은 에이 빈칸은 맞지만, 비 빈칸에 줄임말 She's를 넣으면 She is가 되어 bag 뒤의 is까지 be동사가 두 번 나와요. 5번은 에이 빈칸에 Her를 넣어서, 주어 She도 동사 is도 없어요."
+  },
+  "summary": {
+   "card": "‘그녀는 ~이다’ → She's (= She is) · ‘그녀의’ → Her",
+   "narration": "정답은 2번이에요. 기억할 것, She is를 줄인 말은 She's이고, 명사 앞에서 그녀의라는 뜻을 나타내는 소유격은 Her예요."
+  },
+  "captions": [
+   "She's와 Her 구별하기",
+   "먼저 풀어 보세요",
+   "She's는 She is, Her는 그녀의",
+   "동사 없음 → She's, 명사 꾸밈 → Her",
+   "정답 ② She's — Her",
+   "She is → She's, 그녀의 → Her"
+  ],
+  "sec": [10, 16, 30, 36, 26, 10]
+ },
+ "E": {
+  "title": "They're와 Their 구별하기",
+  "intro": "이 문제는 두 빈칸에 줄임말 They're와 소유격 Their 중 알맞은 말을 골라 넣는 문제예요.",
+  "problem_narration": "다음 지문의 빈칸 에이와 비에 들어갈 말이 바르게 연결된 것을 고르세요. Tom and Ben are my friends. 에이 빈칸 funny, 비 빈칸 room is big. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "They are를 줄이면 → They're (뜻은 They are와 같아요)",
+    "‘그들의’라는 뜻의 소유격 → Their (뒤의 명사를 꾸며요)",
+    "둘 중 고를 때: 문장에 동사가 없으면 They're, 명사 앞에서 ‘그들의’면 Their",
+    "예) They're my cousins. Their house is near the park. (그들은 내 사촌들이에요. 그들의 집은 공원 근처에 있어요.)"
+   ],
+   "narration": "They are를 줄여서 아포스트로피를 넣은 They're라고 쓰고, 뜻은 They are와 같아요. 그들의라는 뜻의 소유격은 Their로, 뒤에 오는 명사를 꾸며요. 두 말 중에서 고를 때는, 문장에 동사가 없으면 be동사가 들어 있는 줄임말 They're를, 명사 앞에서 그들의라는 뜻을 나타낼 때는 소유격 Their를 써요. They're my cousins. 그들은 내 사촌들이에요. Their house is near the park. 그들의 집은 공원 근처에 있어요."
+  },
+  "steps": [
+   {
+    "note": "(A) 문장 ‘___ funny.’에는 동사가 없다 → be동사가 든 They're(= They are). Their, They를 넣은 ①, ②, ④는 지운다.",
+    "highlight": [
+     "(A)________ funny."
+    ],
+    "strike": [
+     "① (A) Their — (B) They're",
+     "② (A) They — (B) Their",
+     "④ (A) Their — (B) Their"
+    ],
+    "narration": "첫째, 에이 빈칸 뒤 funny에는 동사가 없으니, be동사가 들어 있는 줄임말 They're가 와야 해요. 소유격 Their나 be동사가 없는 They를 넣은 1번, 2번, 4번은 지워요."
+   },
+   {
+    "note": "(B) 문장에는 동사 is가 이미 있다. 빈칸은 room을 꾸며 ‘그들의 방’ → 소유격 Their. 줄임말 They're를 넣은 ③은 지운다.",
+    "highlight": [
+     "(B)________ room is big."
+    ],
+    "strike": [
+     "③ (A) They're — (B) They're"
+    ],
+    "narration": "둘째, 비 빈칸 문장에는 이미 동사 is가 있고 빈칸은 room을 꾸며 그들의 방이라는 뜻이 되어야 하니, 소유격 Their가 맞고 줄임말 They're를 넣은 3번은 지워요."
+   },
+   {
+    "note": "남는 것은 ⑤ → They're funny. Their room is big.",
+    "highlight": [
+     "⑤ (A) They're — (B) Their"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 5번이에요. They're funny. Their room is big. 그들은 재미있고, 그들의 방은 커요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) Their — (B) They're  ✗  두 말이 뒤바뀜: (A)에 동사가 없고, (B)는 be동사가 두 번",
+    "② (A) They — (B) Their  ✗  (B)는 맞지만, They 뒤에 be동사 are가 없음",
+    "③ (A) They're — (B) They're  ✗  (A)는 맞지만, ‘그들의 방’은 They're가 아니라 Their",
+    "④ (A) Their — (B) Their  ✗  (B)는 맞지만, Their funny에는 동사가 없음",
+    "⑤ (A) They're — (B) Their  ✓  동사 없는 (A)에 They're, room을 꾸미는 (B)에 Their"
+   ],
+   "narration": "정답은 5번이에요. 2번은 비 빈칸의 Their는 맞지만, 에이 빈칸의 They 뒤에 be동사 are가 없어서 문장에 동사가 없어요. 3번은 에이 빈칸은 맞지만, 비 빈칸에 줄임말 They're를 넣으면 They are가 되어 room 뒤의 is까지 be동사가 두 번 나와요. 4번은 비 빈칸은 맞지만, 에이 빈칸에 소유격 Their를 넣어서 문장에 동사가 없어요."
+  },
+  "summary": {
+   "card": "‘그들은 ~이다’ → They're (= They are) · ‘그들의’ → Their",
+   "narration": "정답은 5번이에요. 기억할 것, They are를 줄인 말은 아포스트로피가 있는 They're이고, 그들의라는 뜻의 소유격은 Their예요."
+  },
+  "captions": [
+   "They're와 Their 구별하기",
+   "먼저 풀어 보세요",
+   "They're는 They are, Their는 그들의",
+   "동사 없음 → They're, 명사 꾸밈 → Their",
+   "정답 ⑤ They're — Their",
+   "They are → They're, 그들의 → Their"
+  ],
+  "sec": [10, 17, 30, 36, 27, 11]
+ },
+ "F": {
+  "title": "We're와 Our 구별하기",
+  "intro": "이 문제는 두 빈칸에 줄임말 We're와 소유격 Our 중 알맞은 말을 골라 넣는 문제예요.",
+  "problem_narration": "다음 지문의 빈칸 에이와 비에 들어갈 말이 바르게 연결된 것을 고르세요. My sister and I love music. 에이 빈칸 in the school band, 비 빈칸 band plays every Friday. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "We are를 줄이면 → We're (뜻은 We are와 같아요)",
+    "‘우리의’라는 뜻의 소유격 → Our (뒤의 명사를 꾸며요)",
+    "둘 중 고를 때: 문장에 동사가 없으면 We're, 명사 앞에서 ‘우리의’면 Our",
+    "예) We're hungry. Our lunch is ready. (우리는 배가 고파요. 우리의 점심이 준비됐어요.)"
+   ],
+   "narration": "We are를 줄여서 아포스트로피를 넣은 We're라고 쓰고, 뜻은 We are와 같아요. 우리의라는 뜻의 소유격은 Our로, 뒤에 오는 명사를 꾸며요. 두 말 중에서 고를 때는, 문장에 동사가 없으면 be동사가 들어 있는 줄임말 We're를, 명사 앞에서 우리의라는 뜻을 나타낼 때는 소유격 Our를 써요. We're hungry. 우리는 배가 고파요. Our lunch is ready. 우리의 점심이 준비됐어요."
+  },
+  "steps": [
+   {
+    "note": "(A) 문장 ‘___ in the school band.’에는 동사가 없다 → be동사가 든 We're(= We are). Our, We를 넣은 ①, ②, ⑤는 지운다.",
+    "highlight": [
+     "(A)________ in the school band."
+    ],
+    "strike": [
+     "① (A) Our — (B) We're",
+     "② (A) We — (B) Our",
+     "⑤ (A) Our — (B) Our"
+    ],
+    "narration": "첫째, 에이 빈칸 뒤 in the school band에는 동사가 없으니, be동사가 들어 있는 줄임말 We're가 와야 해요. 소유격 Our나 be동사가 없는 We를 넣은 1번, 2번, 5번은 지워요."
+   },
+   {
+    "note": "(B) 문장에는 동사 plays가 이미 있다. 빈칸은 band를 꾸며 ‘우리의 밴드’ → 소유격 Our. 줄임말 We're를 넣은 ③은 지운다.",
+    "highlight": [
+     "(B)________ band plays every Friday."
+    ],
+    "strike": [
+     "③ (A) We're — (B) We're"
+    ],
+    "narration": "둘째, 비 빈칸 문장에는 이미 동사 plays가 있고 빈칸은 band를 꾸며 우리의 밴드라는 뜻이 되어야 하니, 소유격 Our가 맞고 줄임말 We're를 넣은 3번은 지워요."
+   },
+   {
+    "note": "남는 것은 ④ → We're in the school band. Our band plays every Friday.",
+    "highlight": [
+     "④ (A) We're — (B) Our"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 4번이에요. We're in the school band. Our band plays every Friday. 우리는 학교 밴드 단원이고, 우리의 밴드는 금요일마다 연주해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) Our — (B) We're  ✗  두 말이 뒤바뀜: (A)에 동사가 없고, (B)는 동사가 겹침",
+    "② (A) We — (B) Our  ✗  (B)는 맞지만, We 뒤에 be동사 are가 없음",
+    "③ (A) We're — (B) We're  ✗  (A)는 맞지만, plays가 있는 (B)에 We're를 쓰면 동사가 겹침",
+    "④ (A) We're — (B) Our  ✓  동사 없는 (A)에 We're, band를 꾸미는 (B)에 Our",
+    "⑤ (A) Our — (B) Our  ✗  (B)는 맞지만, Our in the school band에는 동사가 없음"
+   ],
+   "narration": "정답은 4번이에요. 2번은 비 빈칸의 Our는 맞지만, 에이 빈칸의 We 뒤에 be동사 are가 없어서 문장에 동사가 없어요. 3번은 에이 빈칸은 맞지만, 비 빈칸에 줄임말 We're를 넣으면 We are가 되어 뒤의 동사 plays와 동사가 두 번 나와요. 5번은 비 빈칸은 맞지만, 에이 빈칸에 소유격 Our를 넣어서 문장에 동사가 없어요."
+  },
+  "summary": {
+   "card": "‘우리는 ~이다’ → We're (= We are) · ‘우리의’ → Our",
+   "narration": "정답은 4번이에요. 기억할 것, We are를 줄인 말은 아포스트로피가 있는 We're이고, 우리의라는 뜻의 소유격은 Our예요."
+  },
+  "captions": [
+   "We're와 Our 구별하기",
+   "먼저 풀어 보세요",
+   "We're는 We are, Our는 우리의",
+   "동사 없음 → We're, 명사 꾸밈 → Our",
+   "정답 ④ We're — Our",
+   "We are → We're, 우리의 → Our"
+  ],
+  "sec": [10, 18, 30, 38, 26, 10]
+ }
+}

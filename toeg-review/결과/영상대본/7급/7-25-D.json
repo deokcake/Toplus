@@ -1,0 +1,179 @@
+{
+ "key": "7-25",
+ "type": "D",
+ "grade": 7,
+ "chapter": "CH 3 be동사",
+ "title": "주어와 be동사 am, is, are의 짝",
+ "total_sec": 129,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "7급 · CH 3 be동사 · 25번 · D 유형\n\n이 문제는 다섯 문장에서 주어와 be동사의 짝이 맞지 않는 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 3 be동사 · 25번 · D 유형",
+     "이 문제는 다섯 문장에서 주어와 be동사의 짝이 맞지 않는 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 3, 25번 D 유형. 이 문제는 다섯 문장에서 주어와 be동사의 짝이 맞지 않는 틀린 문장을 고르는 문제예요.",
+   "caption": "주어와 be동사의 짝"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 13,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① My parents are at work.\n② The puppy is hungry.\n③ These books are heavy.\n④ Jane is in the art room.\n⑤ The scissors is on the desk.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 틀린 문장을 고르시오.",
+     "① My parents are at work.",
+     "② The puppy is hungry.",
+     "③ These books are heavy.",
+     "④ Jane is in the art room.",
+     "⑤ The scissors is on the desk."
+    ]
+   },
+   "narration": "다음 중 틀린 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 현재형 am, is, are: 주로 '이다', '있다'\nI → am, you → are\nhe, she, it(한 명·한 개) → is\nwe, they(여럿), scissors(가위, 하나여도) → are\n예) My scissors are sharp. (내 가위는 날카로워요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 현재형 am, is, are: 주로 '이다', '있다'",
+     "I → am, you → are",
+     "he, she, it(한 명·한 개) → is",
+     "we, they(여럿), scissors(가위, 하나여도) → are",
+     "예) My scissors are sharp. (내 가위는 날카로워요.)"
+    ]
+   },
+   "narration": "be동사의 현재형 am, is, are는 주로 '이다'나 '있다'라는 뜻이고, 주어에 맞춰 골라요. 주어가 I이면 am, you이면 are를 써요. he, she, it처럼 한 명이나 한 개이면 is, we, they처럼 여럿이면 are를 써요. scissors, 가위는 하나여도 늘 여럿으로 다뤄서 are를 써요. 예를 들어 My scissors are sharp, 내 가위는 날카로워요.",
+   "caption": "주어에 맞춰 am·is·are"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① My parents are at work.\n② The puppy is hungry.\n③ These books are heavy.\n④ Jane is in the art room.\n⑤ The scissors is on the desk.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "My parents",
+       "The puppy",
+       "These books",
+       "Jane",
+       "The scissors"
+      ],
+      "strike": [],
+      "note": "문장마다 주어 찾기: The puppy = 한 마리, Jane = 한 사람, My parents·These books = 여럿, The scissors = 가위."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① My parents are at work.",
+       "② The puppy is hungry.",
+       "③ These books are heavy.",
+       "④ Jane is in the art room."
+      ],
+      "note": "짝이 맞는 문장은 지운다: The puppy·Jane → is, My parents·These books → are."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ The scissors is on the desk."
+      ],
+      "strike": [],
+      "note": "늘 여럿으로 다루는 The scissors에 is → 틀림. The scissors are on the desk."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 주어를 찾아요. The puppy는 한 마리, Jane은 한 사람, My parents와 These books는 여럿이에요. 둘째, The puppy와 Jane에는 is, My parents와 These books에는 are를 바르게 썼으니 지워요. 셋째, 5번의 The scissors는 늘 여럿으로 다루니 are를 써야 하는데 is를 썼어요. 바르게 고치면 The scissors are on the desk, 가위가 책상 위에 있어요.",
+   "caption": "주어 찾기 → 짝 맞추기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① My parents are at work.  ✗  여럿(부모님) My parents → are, 바른 문장\n② The puppy is hungry.  ✗  한 마리 The puppy → is, 바른 문장\n③ These books are heavy.  ✗  여럿 These books → are, 바른 문장\n④ Jane is in the art room.  ✗  한 사람 Jane → is, 바른 문장\n⑤ The scissors is on the desk.  ✓  scissors는 늘 여럿 → are로 고쳐야 해요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① My parents are at work.  ✗  여럿(부모님) My parents → are, 바른 문장",
+     "② The puppy is hungry.  ✗  한 마리 The puppy → is, 바른 문장",
+     "③ These books are heavy.  ✗  여럿 These books → are, 바른 문장",
+     "④ Jane is in the art room.  ✗  한 사람 Jane → is, 바른 문장",
+     "⑤ The scissors is on the desk.  ✓  scissors는 늘 여럿 → are로 고쳐야 해요"
+    ]
+   },
+   "narration": "정답은 5번이에요. scissors는 가위가 하나여도 늘 여럿으로 다뤄서 are를 써요. 1번 My parents는 부모님 두 분이라 are가 맞아요. 3번 These books는 책이 여러 권이라 are가 맞고, 2번 The puppy는 한 마리라 is가 맞아요.",
+   "caption": "정답 ⑤ scissors에는 are"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ⑤ The scissors is on the desk.\n\nscissors(가위)는 하나여도 → are",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ The scissors is on the desk.",
+     "scissors(가위)는 하나여도 → are"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, scissors, 가위는 하나여도 늘 여럿으로 다뤄서 be동사 are를 써요.",
+   "caption": "scissors + are"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "My parents are at work.",
+   "The puppy is hungry.",
+   "These books are heavy.",
+   "Jane is in the art room.",
+   "The scissors is on the desk."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 주어와 be동사의 인칭·수가 일치한다.\n풀이 순서: ① 문장마다 주어가 I인지, 한 사람·한 개인지, 여럿인지 가른다. → ② be동사가 그에 맞는지 본다. → ③ 선택지 ⑤의 The scissors(가위)는 늘 복수형으로 쓰는 낱말이라 are다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 정답은 ⑤입니다. ‘The scissors’에 맞는 be동사는 are입니다. ‘is’를 ‘are’로 고쳐야 합니다. scissors는 복수형으로 취급합니다. 가위 한 개를 a pair of scissors로 표현할 때는 중심어 pair에 맞춰 is를 씁니다. 바르게 고치면: The scissors are on the desk.\n선택지 분석:\n① [오답] ‘My parents’에 맞는 be동사는 are입니다. ‘are’의 형태가 주어와 일치합니다.\n② [오답] ‘The puppy’에 맞는 be동사는 is입니다. ‘is’의 형태가 주어와 일치합니다.\n③ [오답] ‘These books’에 맞는 be동사는 are입니다. ‘are’의 형태가 주어와 일치합니다.\n④ [오답] ‘Jane’에 맞는 be동사는 is입니다. ‘is’의 형태가 주어와 일치합니다.\n⑤ [정답] ‘The scissors’에 맞는 be동사는 are입니다. ‘is’를 ‘are’로 고쳐야 합니다. scissors는 복수형으로 취급합니다. 가위 한 개를 a pair of scissors로 표현할 때는 중심어 pair에 맞춰 is를 씁니다. 바르게 고치면: The scissors are on the desk."
+ }
+}

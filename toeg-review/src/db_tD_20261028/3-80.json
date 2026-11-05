@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차: 길이)",
+  "done": true,
+  "doneAt": "2026-10-23T18:14:24.058Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "(가), (라)",
+      "1": "(가), (나), (다)",
+      "2": "(가), (나), (마)",
+      "3": "(라), (마)",
+      "4": "(나), (다), (마)"
+    },
+    "expl": "핵심 규칙: to부정사는 to + 동사원형이다. 사람의 성격을 나타내는 형용사(kind, careless, wise, nice) 뒤에는 of + 목적격을, 그 밖의 형용사 뒤에는 for + 목적격을 의미상 주어로 쓴다. decide·want는 to부정사를 목적어로 쓴다.\n풀이 순서: ① 문장마다 to 뒤가 동사원형인지 본다. to + -ing, to + 과거형은 틀린다. → ② 의미상 주어(성품 형용사 뒤 of, 그 밖에는 for), 동사 뒤 목적어 형태(decide + to부정사), enough의 위치도 확인한다. → ③ 틀린 문장을 지운다: (다) to studying, (라) decided going. 옳은 문장만 묶은 (가), (나), (마)가 정답이다.\n문장별 판정:\n(가) O. hard 뒤에 for + 목적격을 썼다.\n(나) O. 성격 형용사 nice 뒤에 of + 목적격을 썼다.\n(다) X. to 뒤에는 동사원형(study)을 쓴다.\n(라) X. decide는 to부정사(to go)를 목적어로 쓴다.\n(마) O. too ~ to 구문이다.\n정답 판단: 어법상 옳은 문장은 (가), (나), (마)이다.\n선택지 분석:\n① [오답] (라)는 옳은 문장이 아니고, 옳은 문장 (나), (마)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (마)를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 옳은 문장 (가), (나), (마)를 빠짐없이 골랐으므로 정답이다.\n④ [오답] (라)는 옳은 문장이 아니고, 옳은 문장 (가), (나)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(가) It is hard for him to understand the long story.\n(나) It was nice of you to come to my birthday party.\n(다) We have a quiet room to studying in after school.\n(라) She decided going home early because of the rain.\n(마) Tom is too tired to work on the project tonight.",
+    "stem": "다음 중 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:14:24.058Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:14:24.058Z",
+      "what": "확인 완료"
+    }
+  }
+}

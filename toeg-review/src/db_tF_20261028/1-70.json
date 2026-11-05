@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T06:50:48.196Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "Being Mina absent, Tom led the meeting.",
+      "2": "Mina absent being, Tom led the meeting.",
+      "3": "Mina being absent, so Tom led the meeting.",
+      "4": "Because Mina being absent, Tom led the meeting."
+    },
+    "expl": "핵심 규칙: 주절과 주어가 다른 분사구문(독립분사구문)은 의미상 주어를 분사 앞에 밝혀 쓴다. 완료형은 having + 과거분사, 완료 수동은 having been + 과거분사이며, 분사구문 뒤에 so 같은 접속사를 붙이지 않는다.\n풀이 순서: ① 분사구문의 형태를 본다: 분사(-ing·과거분사)가 있어야 하고, 주절과 다른 주어는 분사 바로 앞에 밝힌다(‘주어 + 분사 ~, 주절’). → ② 분사의 모양이 틀렸거나, 분사구문 뒤에 접속사(so, and, but)를 붙였거나, 주어의 자리가 틀린 보기를 지운다. → ③ 남는 ①은 주어 Mina 뒤에 분사 being을 바르게 썼다.\n문장별 판정:\n정답 판단: 주절과 다른 주어 Mina를 분사 being 앞에 밝혔다. 분사구문의 쓰임이 바르므로 정답은 ①이다.\n선택지 분석:\n① [정답] 주절과 다른 주어 Mina를 분사 being 앞에 밝혔다. 분사구문의 쓰임이 바르므로 정답이다.\n② [오답] 의미상 주어는 분사 앞에 와야 한다. 오답이다.\n③ [오답] 분사 being이 문장 끝으로 가 어순이 틀렸다. 오답이다.\n④ [오답] 분사구문 뒤에 접속사 so를 붙였다. 오답이다.\n⑤ [오답] 분사구문에 접속사 because를 남겼다. 오답이다.",
+    "passage": "",
+    "stem": "다음 중 분사구문의 쓰임이 어법상 옳은 문장을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T06:50:43.436Z"
+  },
+  "tab": "ij7ic6nx",
+  "updatedAt": "2026-10-26T06:50:48.196Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:50:48.196Z",
+      "what": "확인 완료"
+    }
+  }
+}

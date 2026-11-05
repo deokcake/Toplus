@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:54:19.937Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "past",
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 30분은 half past + 그 시각, 15분은 a quarter after(past) + 그 시각, 45분·50분처럼 다음 시각이 가까우면 a quarter/ten to + 다음 시각으로 나타낸다.\n풀이 순서: ① 우리말 시각을 본다: 2시 50분. → ② 주어진 틀에 맞춰 본다: 3시 10분 전 → ten to three. → ③ 정답은 to.\n문장별 판정:\n정답 판단: ten to three는 3시 10분 전인 2시 50분이므로 정답은 ③이다.\n선택지 분석:\n① [오답] ten past three는 3시 10분이므로 오답이다.\n② [오답] ten after three는 3시 10분이므로 오답이다.\n③ [정답] ten to three는 3시 10분 전인 2시 50분이므로 정답이다.\n④ [오답] ten 뒤에 half를 쓸 수 없으므로 오답이다.\n⑤ [오답] ten 뒤에 quarter를 쓸 수 없으므로 오답이다.",
+    "passage": "It's ten ________ three.",
+    "stem": "다음 빈칸에 '2시 50분'이라는 의미가 되도록 알맞은 단어를 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:54:17.461Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:54:19.937Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:54:19.937Z",
+      "what": "확인 완료"
+    }
+  }
+}

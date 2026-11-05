@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T02:47:17.974Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "is",
+      "1": "the",
+      "2": "It",
+      "3": "under",
+      "4": "chair"
+    },
+    "expl": "핵심 규칙: 우리말 뜻에 맞게 주어 + 동사 + (목적어) + 전치사 + 명사의 어순으로 배열한다. There is/are 문장은 There + be동사 + 주어로 시작하고, 명령문은 동사원형으로 시작한다.\n풀이 순서: ① 우리말에 맞게 문장을 완성한다: It is under the chair. → ② 앞에서부터 센다. → ③ 세 번째 낱말은 under. 정답은 ④.\n문장별 판정:\n정답 판단: 완성 문장은 It is under the chair.이고, 세 번째 단어는 under이다.\n선택지 분석:\n① [오답] is는 두 번째에 오므로 오답이다.\n② [오답] the는 네 번째에 오므로 오답이다.\n③ [오답] It은 첫 번째에 오므로 오답이다.\n④ [정답] under는 세 번째에 오므로 정답이다.\n⑤ [오답] chair는 다섯 번째에 오므로 오답이다.",
+    "passage": "그것은 의자 아래에 있다.\n(is / the / under / It / chair)",
+    "stem": "주어진 단어들을 바르게 배열할 때, 세 번째에 오는 단어는 무엇입니까?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:47:15.923Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-22T02:47:17.974Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:47:17.974Z",
+      "what": "확인 완료"
+    }
+  }
+}

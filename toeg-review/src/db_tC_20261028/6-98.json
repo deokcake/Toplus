@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-21T11:52:25.749Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "soccer",
+      "1": null,
+      "2": "were",
+      "3": null,
+      "4": "outside"
+    },
+    "expl": "핵심 규칙: 과거진행형 의문문은 Was/Were + 주어 + 동사원형-ing + 목적어·부사의 순서로 배열한다.\n풀이 순서: ① 의문문으로 배열한다: Were they playing soccer outside? → ② 앞에서부터 센다. → ③ 네 번째 낱말은 soccer. 정답은 ①.\n문장별 판정:\n정답 판단: 완성 문장은 Were they playing soccer outside?이고 네 번째 단어는 soccer이다.\n선택지 분석:\n① [정답] 완성 문장 Were they playing soccer outside?에서 단어(soccer)가 네 번째에 오므로 정답이다.\n② [오답] 완성 문장 Were they playing soccer outside?에서 단어(they)는 2번째에 오므로 오답이다.\n③ [오답] 완성 문장 Were they playing soccer outside?에서 단어(were)는 1번째에 오므로 오답이다.\n④ [오답] 완성 문장 Were they playing soccer outside?에서 단어(playing)는 3번째에 오므로 오답이다.\n⑤ [오답] 완성 문장 Were they playing soccer outside?에서 단어(outside)는 5번째에 오므로 오답이다.",
+    "passage": "( soccer / they / playing / were / outside / ? )",
+    "stem": "다음 단어들을 바르게 나열하여 의문문을 만들 때, 네 번째에 오는 단어는?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-21T11:52:23.513Z"
+  },
+  "tab": "ojjpxrut",
+  "updatedAt": "2026-10-21T11:52:25.749Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T11:52:25.749Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+ "A": {
+  "title": "Did·didn't·Does 뒤의 동사원형",
+  "intro": "이 문제는 Did, didn't, Does 뒤의 동사 형태를 보고 옳은 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 옳은 문장을 고르세요. 다섯 문장 가운데 문법에 맞는 문장 하나를 찾아야 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Did로 묻는 문장 → Did + 주어 + 동사원형 ~?",
+    "didn't로 부정하는 문장 → didn't + 동사원형",
+    "Does로 묻는 문장(현재)도 → Does + 주어 + 동사원형 ~?",
+    "did, didn't가 없는 과거 긍정문 → 동사의 과거형",
+    "예) I swam yesterday. (나는 어제 수영했어요.)  I didn't swim yesterday. (나는 어제 수영하지 않았어요.)"
+   ],
+   "narration": "Did나 Does로 묻는 문장은 주어 뒤에 동사원형을 쓰고, didn't 뒤에도 동사원형을 써요. did가 이미 과거를 나타내니까 동사의 모양은 바꾸지 않아요. did나 didn't가 없는 과거 긍정문에서는 동사를 과거형으로 써요. I swam yesterday. 나는 어제 수영했어요. I didn't swim yesterday. 나는 어제 수영하지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "Did·didn't·Does가 있는 문장 → 뒤의 동사가 원형이어야 한다. had·felt·rode·wrote는 과거형 → ①③④⑤ 지움",
+    "highlight": [
+     "had",
+     "felt",
+     "rode",
+     "wrote"
+    ],
+    "strike": [
+     "① Did you had a fight?",
+     "③ I didn't felt sad.",
+     "④ Did you rode a horse?",
+     "⑤ Does he wrote the letter?"
+    ],
+    "narration": "첫째, Did, didn't, Does가 있는 문장은 뒤의 동사가 동사원형이어야 해요. 그런데 1번 had, 3번 felt, 4번 rode, 5번 wrote는 모두 과거형이라 틀렸어요."
+   },
+   {
+    "note": "② did·didn't가 없는 과거 긍정문 → see의 과거형 saw ✓",
+    "highlight": [
+     "② I saw it coming."
+    ],
+    "strike": [],
+    "narration": "둘째, 남은 2번에는 did나 didn't가 없어요. 과거의 일을 말하는 긍정문이니 see의 과거형 saw를 쓴 것이 맞아요. I saw it coming. 나는 그것이 다가오는 것을 봤어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Did you had a fight?  ✗  Did 뒤에는 had가 아닌 동사원형 have",
+    "② I saw it coming.  ✓  did가 없는 과거 긍정문, see의 과거형 saw",
+    "③ I didn't felt sad.  ✗  didn't 뒤에는 felt가 아닌 동사원형 feel",
+    "④ Did you rode a horse?  ✗  Did 뒤에는 rode가 아닌 동사원형 ride",
+    "⑤ Does he wrote the letter?  ✗  Does 뒤에는 wrote가 아닌 동사원형 write"
+   ],
+   "narration": "정답은 2번이에요. 3번은 지난 일이라 felt를 쓰고 싶지만, didn't가 이미 과거를 나타내니 feel을 써요. I didn't feel sad. 나는 슬프지 않았어요. 1번도 Did가 있으니 had가 아니라 have를 써야 해요. 5번은 Does 뒤라서 wrote가 아니라 write를 써요."
+  },
+  "summary": {
+   "card": "Did·Does + 주어 + 동사원형 · didn't + 동사원형 · did 없는 과거 긍정문 → 과거형",
+   "narration": "정답은 2번이에요. 기억할 것, Did, Does, didn't 뒤에는 동사원형, did가 없는 과거 긍정문에는 과거형을 써요."
+  },
+  "captions": [
+   "Did·didn't·Does 뒤 동사 형태",
+   "먼저 풀어 보세요",
+   "did와 함께 쓰는 동사는 원형",
+   "과거형 지우기 → saw 남기기",
+   "정답 ② I saw it coming.",
+   "Did·didn't·Does + 동사원형"
+  ],
+  "sec": [
+   11,
+   14,
+   28,
+   32,
+   26,
+   11
+  ]
+ },
+ "B": {
+  "title": "일반동사와 be동사의 과거형",
+  "intro": "이 문제는 일반동사와 be동사의 과거형을 바르게 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 옳은 문장을 고르세요. 다섯 문장 가운데 문법에 맞는 문장 하나를 찾아야 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "did not(didn't) 뒤 → 동사원형",
+    "did가 없는 과거 긍정문 → 동사의 과거형 (대부분 + ed)",
+    "불규칙 동사는 정해진 과거형 (go → went, run → ran)",
+    "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+    "예) We were late, so we ran. (우리는 늦어서 달렸어요.)"
+   ],
+   "narration": "did not이나 didn't 뒤에는 동사원형을 써요. did가 없는 과거 긍정문에서는 동사를 과거형으로 써요. 대부분 ed를 붙이지만, go와 went처럼 과거형이 정해진 불규칙 동사도 있어요. be동사의 과거형은 I나 3인칭 단수 주어에는 was, you나 복수 주어에는 were예요. We were late, so we ran. 우리는 늦어서 달렸어요."
+  },
+  "steps": [
+   {
+    "note": "① did not 뒤에 과거형 went → 동사원형 go여야 함. 지움",
+    "highlight": [
+     "did not went"
+    ],
+    "strike": [
+     "① Tom did not went to practice."
+    ],
+    "narration": "첫째, 1번은 did not 뒤라서 went가 아니라 동사원형 go를 써야 해요."
+   },
+   {
+    "note": "② buyed, ③ writed → 불규칙 동사의 과거형은 bought, wrote. 지움",
+    "highlight": [
+     "buyed",
+     "writed"
+    ],
+    "strike": [
+     "② Jane buyed a red scarf yesterday.",
+     "③ I writed an email last night."
+    ],
+    "narration": "둘째, 2번과 3번은 ed를 붙였지만, buy와 write는 불규칙 동사라 과거형이 bought와 wrote예요."
+   },
+   {
+    "note": "⑤ The children = 복수 주어 → was가 아니라 were. 지움",
+    "highlight": [
+     "The children was"
+    ],
+    "strike": [
+     "⑤ The children was excited about the trip."
+    ],
+    "narration": "셋째, 5번 children은 child의 복수형이라 was가 아니라 were를 써요."
+   },
+   {
+    "note": "④ took = take의 과거형 ✓",
+    "highlight": [
+     "④ We took the wrong bus after school."
+    ],
+    "strike": [],
+    "narration": "넷째, 남은 4번은 take의 과거형 took을 바르게 썼어요. We took the wrong bus after school. 우리는 방과 후에 버스를 잘못 탔어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Tom did not went to practice.  ✗  did not 뒤에는 went가 아닌 동사원형 go",
+    "② Jane buyed a red scarf yesterday.  ✗  buy의 과거형은 bought",
+    "③ I writed an email last night.  ✗  write의 과거형은 wrote",
+    "④ We took the wrong bus after school.  ✓  take의 과거형 took",
+    "⑤ The children was excited about the trip.  ✗  복수 주어 The children에는 were"
+   ],
+   "narration": "정답은 4번이에요. 2번은 ed를 붙이는 규칙만 떠올리면 맞아 보이지만, buy의 과거형은 bought예요. 1번은 지난 일이라 went가 맞아 보여도, did not 뒤에는 go를 써요. 5번 The children은 여러 명이니 were를 써야 해요."
+  },
+  "summary": {
+   "card": "did not + 동사원형 · 불규칙 동사는 정해진 과거형 · be동사 과거형: 복수 주어 → were",
+   "narration": "정답은 4번이에요. 기억할 것, did not 뒤는 동사원형, 불규칙 동사는 정해진 과거형, 복수 주어면 was 대신 were예요."
+  },
+  "captions": [
+   "일반동사·be동사의 과거형",
+   "먼저 풀어 보세요",
+   "과거형과 was, were",
+   "did not · 불규칙 · were 확인",
+   "정답 ④ We took the wrong bus …",
+   "did not + 원형 · 복수 주어엔 were"
+  ],
+  "sec": [
+   11,
+   14,
+   30,
+   36,
+   22,
+   12
+  ]
+ },
+ "C": {
+  "title": "Did·didn't·Does 뒤의 동사원형",
+  "intro": "이 문제는 Did, didn't, Does 뒤의 동사 형태를 보고 옳은 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 옳은 문장을 고르세요. 다섯 문장 가운데 문법에 맞는 문장 하나를 찾아야 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Did로 묻는 문장 → Did + 주어 + 동사원형 ~?",
+    "didn't로 부정하는 문장 → didn't + 동사원형",
+    "Does로 묻는 문장(현재)도 → Does + 주어 + 동사원형 ~?",
+    "did, didn't가 없는 과거 긍정문 → 동사의 과거형",
+    "예) I swam yesterday. (나는 어제 수영했어요.)  I didn't swim yesterday. (나는 어제 수영하지 않았어요.)"
+   ],
+   "narration": "Did나 Does로 묻는 문장은 주어 뒤에 동사원형을 쓰고, didn't 뒤에도 동사원형을 써요. did가 이미 과거를 나타내니까 동사의 모양은 바꾸지 않아요. did나 didn't가 없는 과거 긍정문에서는 동사를 과거형으로 써요. I swam yesterday. 나는 어제 수영했어요. I didn't swim yesterday. 나는 어제 수영하지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "Did·didn't·Does가 있는 문장 → 뒤의 동사가 원형이어야 한다. went·bought·watched·came은 과거형 → ①②④⑤ 지움",
+    "highlight": [
+     "went",
+     "bought",
+     "watched",
+     "came"
+    ],
+    "strike": [
+     "① Did you went to the library?",
+     "② She didn't bought the ticket.",
+     "④ Does he watched TV every night?",
+     "⑤ Did they came home late?"
+    ],
+    "narration": "첫째, Did, didn't, Does가 있는 문장은 뒤의 동사가 동사원형이어야 해요. 그런데 1번 went, 2번 bought, 4번 watched, 5번 came은 모두 과거형이라 틀렸어요."
+   },
+   {
+    "note": "③ did·didn't가 없는 과거 긍정문 → eat의 과거형 ate ✓",
+    "highlight": [
+     "③ We ate pizza for lunch."
+    ],
+    "strike": [],
+    "narration": "둘째, 남은 3번에는 did나 didn't가 없어요. 과거의 일을 말하는 긍정문이니 eat의 과거형 ate를 쓴 것이 맞아요. We ate pizza for lunch. 우리는 점심으로 피자를 먹었어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Did you went to the library?  ✗  Did 뒤에는 went가 아닌 동사원형 go",
+    "② She didn't bought the ticket.  ✗  didn't 뒤에는 bought가 아닌 동사원형 buy",
+    "③ We ate pizza for lunch.  ✓  did가 없는 과거 긍정문, eat의 과거형 ate",
+    "④ Does he watched TV every night?  ✗  Does 뒤에는 watched가 아닌 동사원형 watch",
+    "⑤ Did they came home late?  ✗  Did 뒤에는 came이 아닌 동사원형 come"
+   ],
+   "narration": "정답은 3번이에요. 2번은 지난 일이라 bought를 쓰고 싶지만, didn't가 이미 과거를 나타내니 buy를 써요. She didn't buy the ticket. 그녀는 표를 사지 않았어요. 4번은 Does 뒤라서 watched가 아니라 watch를 써야 해요. 5번도 Did가 있으니 came이 아니라 come이에요."
+  },
+  "summary": {
+   "card": "Did·Does + 주어 + 동사원형 · didn't + 동사원형 · did 없는 과거 긍정문 → 과거형",
+   "narration": "정답은 3번이에요. 기억할 것, Did, Does, didn't 뒤에는 동사원형, did가 없는 과거 긍정문에는 과거형을 써요."
+  },
+  "captions": [
+   "Did·didn't·Does 뒤 동사 형태",
+   "먼저 풀어 보세요",
+   "did와 함께 쓰는 동사는 원형",
+   "과거형 지우기 → ate 남기기",
+   "정답 ③ We ate pizza for lunch.",
+   "Did·didn't·Does + 동사원형"
+  ],
+  "sec": [
+   11,
+   14,
+   28,
+   32,
+   26,
+   11
+  ]
+ },
+ "D": {
+  "title": "Did·didn't·Does 뒤의 동사원형",
+  "intro": "이 문제는 Did, didn't, Does 뒤에 동사원형을 바르게 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 옳은 문장을 고르세요. 다섯 문장 가운데 문법에 맞는 문장 하나를 찾아야 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Did로 묻는 문장 → Did + 주어 + 동사원형 ~?",
+    "didn't로 부정하는 문장 → didn't + 동사원형",
+    "Does로 묻는 문장(현재)도 → Does + 주어 + 동사원형 ~?",
+    "did, didn't가 없는 과거 긍정문 → 동사의 과거형",
+    "예) I swam yesterday. (나는 어제 수영했어요.)  I didn't swim yesterday. (나는 어제 수영하지 않았어요.)"
+   ],
+   "narration": "Did나 Does로 묻는 문장은 주어 뒤에 동사원형을 쓰고, didn't 뒤에도 동사원형을 써요. did가 이미 과거를 나타내니까 동사의 모양은 바꾸지 않아요. did나 didn't가 없는 과거 긍정문에서는 동사를 과거형으로 써요. I swam yesterday. 나는 어제 수영했어요. I didn't swim yesterday. 나는 어제 수영하지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "다섯 문장 모두 Did·didn't·Does가 있다 → 뒤의 동사가 원형인지만 본다",
+    "highlight": [
+     "didn't",
+     "Did",
+     "Does"
+    ],
+    "strike": [],
+    "narration": "첫째, 다섯 문장에 모두 Did, didn't, Does 가운데 하나가 있어요. 그러니 그 뒤의 동사가 동사원형인지만 보면 돼요."
+   },
+   {
+    "note": "knew·made·took·played는 과거형 → ①③④⑤ 지움",
+    "highlight": [
+     "knew",
+     "made",
+     "took",
+     "played"
+    ],
+    "strike": [
+     "① I didn't knew the answer.",
+     "③ Did she made the cake?",
+     "④ They didn't took the bus.",
+     "⑤ Does Tom played the guitar?"
+    ],
+    "narration": "둘째, 1번 knew, 3번 made, 4번 took, 5번 played는 모두 과거형이라 틀렸어요."
+   },
+   {
+    "note": "② Did 뒤에 동사원형 hear ✓",
+    "highlight": [
+     "② Did you hear the news?"
+    ],
+    "strike": [],
+    "narration": "셋째, 2번만 Did 뒤에 동사원형 hear를 바르게 썼어요. Did you hear the news? 너 그 소식 들었니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I didn't knew the answer.  ✗  didn't 뒤에는 knew가 아닌 동사원형 know",
+    "② Did you hear the news?  ✓  Did 뒤에 동사원형 hear",
+    "③ Did she made the cake?  ✗  Did 뒤에는 made가 아닌 동사원형 make",
+    "④ They didn't took the bus.  ✗  didn't 뒤에는 took이 아닌 동사원형 take",
+    "⑤ Does Tom played the guitar?  ✗  Does 뒤에는 played가 아닌 동사원형 play"
+   ],
+   "narration": "정답은 2번이에요. 4번은 지난 일이라 took을 쓰고 싶지만, didn't가 이미 과거를 나타내니 take를 써요. They didn't take the bus. 그들은 버스를 타지 않았어요. 3번도 Did가 있으니 made가 아니라 make를 써야 해요. 5번은 Does 뒤라서 played가 아니라 play예요."
+  },
+  "summary": {
+   "card": "Did·Does + 주어 + 동사원형 · didn't + 동사원형",
+   "narration": "정답은 2번이에요. 기억할 것, Did나 Does로 묻는 문장과 didn't 뒤에는 과거형이 아니라 동사원형을 써요."
+  },
+  "captions": [
+   "Did·didn't·Does 뒤 동사 형태",
+   "먼저 풀어 보세요",
+   "did와 함께 쓰는 동사는 원형",
+   "과거형 지우기 → hear 남기기",
+   "정답 ② Did you hear the news?",
+   "Did·didn't·Does + 동사원형"
+  ],
+  "sec": [
+   11,
+   14,
+   28,
+   32,
+   26,
+   11
+  ]
+ },
+ "E": {
+  "title": "Did·didn't·Does 뒤의 동사원형",
+  "intro": "이 문제는 Did, didn't, Does 뒤에 동사원형을 바르게 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 옳은 문장을 고르세요. 다섯 문장 가운데 문법에 맞는 문장 하나를 찾아야 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Did로 묻는 문장 → Did + 주어 + 동사원형 ~?",
+    "didn't로 부정하는 문장 → didn't + 동사원형",
+    "Does로 묻는 문장(현재)도 → Does + 주어 + 동사원형 ~?",
+    "did, didn't가 없는 과거 긍정문 → 동사의 과거형",
+    "예) I swam yesterday. (나는 어제 수영했어요.)  I didn't swim yesterday. (나는 어제 수영하지 않았어요.)"
+   ],
+   "narration": "Did나 Does로 묻는 문장은 주어 뒤에 동사원형을 쓰고, didn't 뒤에도 동사원형을 써요. did가 이미 과거를 나타내니까 동사의 모양은 바꾸지 않아요. did나 didn't가 없는 과거 긍정문에서는 동사를 과거형으로 써요. I swam yesterday. 나는 어제 수영했어요. I didn't swim yesterday. 나는 어제 수영하지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "다섯 문장 모두 Did·didn't·Does가 있다 → 뒤의 동사가 원형인지만 본다",
+    "highlight": [
+     "Did",
+     "didn't",
+     "Does"
+    ],
+    "strike": [],
+    "narration": "첫째, 다섯 문장에 모두 Did, didn't, Does 가운데 하나가 있어요. 그러니 그 뒤의 동사가 동사원형인지만 보면 돼요."
+   },
+   {
+    "note": "said·saw·went·cooked는 과거형 → ②③④⑤ 지움",
+    "highlight": [
+     "said",
+     "saw",
+     "went",
+     "cooked"
+    ],
+    "strike": [
+     "② He didn't said a word.",
+     "③ Did you saw the rainbow?",
+     "④ We didn't went out yesterday.",
+     "⑤ Does she cooked dinner?"
+    ],
+    "narration": "둘째, 2번 said, 3번 saw, 4번 went, 5번 cooked는 모두 과거형이라 틀렸어요."
+   },
+   {
+    "note": "① Did 뒤에 동사원형 lose ✓",
+    "highlight": [
+     "① Did Jane lose her bag?"
+    ],
+    "strike": [],
+    "narration": "셋째, 1번만 Did 뒤에 동사원형 lose를 바르게 썼어요. Did Jane lose her bag? 제인이 가방을 잃어버렸니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Did Jane lose her bag?  ✓  Did 뒤에 동사원형 lose",
+    "② He didn't said a word.  ✗  didn't 뒤에는 said가 아닌 동사원형 say",
+    "③ Did you saw the rainbow?  ✗  Did 뒤에는 saw가 아닌 동사원형 see",
+    "④ We didn't went out yesterday.  ✗  yesterday가 있어도 didn't 뒤에는 동사원형 go",
+    "⑤ Does she cooked dinner?  ✗  Does 뒤에는 cooked가 아닌 동사원형 cook"
+   ],
+   "narration": "정답은 1번이에요. 4번은 yesterday가 있어서 went가 맞아 보이지만, didn't가 이미 과거를 나타내니 go를 써요. We didn't go out yesterday. 우리는 어제 밖에 나가지 않았어요. 3번도 Did가 있으니 saw가 아니라 see를 써야 해요. 5번은 Does 뒤라서 cooked가 아니라 cook이에요."
+  },
+  "summary": {
+   "card": "Did·Does + 주어 + 동사원형 · didn't + 동사원형",
+   "narration": "정답은 1번이에요. 기억할 것, Did나 Does로 묻는 문장과 didn't 뒤에는 과거형이 아니라 동사원형을 써요."
+  },
+  "captions": [
+   "Did·didn't·Does 뒤 동사 형태",
+   "먼저 풀어 보세요",
+   "did와 함께 쓰는 동사는 원형",
+   "과거형 지우기 → lose 남기기",
+   "정답 ① Did Jane lose her bag?",
+   "Did·didn't·Does + 동사원형"
+  ],
+  "sec": [
+   11,
+   14,
+   28,
+   32,
+   26,
+   11
+  ]
+ },
+ "F": {
+  "title": "Did·didn't·Does 뒤의 동사원형",
+  "intro": "이 문제는 Did, didn't, Does 뒤에 동사원형을 바르게 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 옳은 문장을 고르세요. 다섯 문장 가운데 문법에 맞는 문장 하나를 찾아야 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Did로 묻는 문장 → Did + 주어 + 동사원형 ~?",
+    "didn't로 부정하는 문장 → didn't + 동사원형",
+    "Does로 묻는 문장(현재)도 → Does + 주어 + 동사원형 ~?",
+    "did, didn't가 없는 과거 긍정문 → 동사의 과거형",
+    "예) I swam yesterday. (나는 어제 수영했어요.)  I didn't swim yesterday. (나는 어제 수영하지 않았어요.)"
+   ],
+   "narration": "Did나 Does로 묻는 문장은 주어 뒤에 동사원형을 쓰고, didn't 뒤에도 동사원형을 써요. did가 이미 과거를 나타내니까 동사의 모양은 바꾸지 않아요. did나 didn't가 없는 과거 긍정문에서는 동사를 과거형으로 써요. I swam yesterday. 나는 어제 수영했어요. I didn't swim yesterday. 나는 어제 수영하지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "다섯 문장 모두 Did·didn't·Does가 있다 → 뒤의 동사가 원형인지만 본다",
+    "highlight": [
+     "didn't",
+     "Did",
+     "Does"
+    ],
+    "strike": [],
+    "narration": "첫째, 다섯 문장에 모두 Did, didn't, Does 가운데 하나가 있어요. 그러니 그 뒤의 동사가 동사원형인지만 보면 돼요."
+   },
+   {
+    "note": "drank·slept·worked·gave는 과거형 → ①②③④ 지움",
+    "highlight": [
+     "drank",
+     "slept",
+     "worked",
+     "gave"
+    ],
+    "strike": [
+     "① Tom didn't drank the juice.",
+     "② Did the kids slept well?",
+     "③ Does your mom worked here?",
+     "④ Did he gave you a present?"
+    ],
+    "narration": "둘째, 1번 drank, 2번 slept, 3번 worked, 4번 gave는 모두 과거형이라 틀렸어요."
+   },
+   {
+    "note": "⑤ yesterday가 있어도 didn't 뒤에 동사원형 feel ✓",
+    "highlight": [
+     "⑤ I didn't feel well yesterday."
+    ],
+    "strike": [],
+    "narration": "셋째, 5번은 yesterday가 있어도 didn't 뒤에 동사원형 feel을 바르게 썼어요. I didn't feel well yesterday. 나는 어제 몸이 좋지 않았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Tom didn't drank the juice.  ✗  didn't 뒤에는 drank가 아닌 동사원형 drink",
+    "② Did the kids slept well?  ✗  Did 뒤에는 slept가 아닌 동사원형 sleep",
+    "③ Does your mom worked here?  ✗  Does 뒤에는 worked가 아닌 동사원형 work",
+    "④ Did he gave you a present?  ✗  Did 뒤에는 gave가 아닌 동사원형 give",
+    "⑤ I didn't feel well yesterday.  ✓  didn't 뒤에 동사원형 feel"
+   ],
+   "narration": "정답은 5번이에요. 5번은 yesterday가 있는데 feel을 써서 틀려 보이지만, didn't가 이미 과거를 나타내니 동사원형이 맞아요. 1번은 지난 일이라도 didn't 뒤라서 drank가 아니라 drink를 써요. 4번도 Did가 있으니 gave가 아니라 give를 써야 해요."
+  },
+  "summary": {
+   "card": "Did·Does + 주어 + 동사원형 · didn't + 동사원형",
+   "narration": "정답은 5번이에요. 기억할 것, Did나 Does로 묻는 문장과 didn't 뒤에는 과거형이 아니라 동사원형을 써요."
+  },
+  "captions": [
+   "Did·didn't·Does 뒤 동사 형태",
+   "먼저 풀어 보세요",
+   "did와 함께 쓰는 동사는 원형",
+   "과거형 지우기 → feel 남기기",
+   "정답 ⑤ I didn't feel well …",
+   "Did·didn't·Does + 동사원형"
+  ],
+  "sec": [
+   11,
+   14,
+   28,
+   32,
+   26,
+   11
+  ]
+ }
+}

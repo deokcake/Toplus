@@ -1,0 +1,179 @@
+{
+ "key": "3-7",
+ "type": "E",
+ "grade": 3,
+ "chapter": "CH 1 be동사",
+ "title": "Tom is 문장의 의문문",
+ "total_sec": 136,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "3급 · CH 1 be동사 · 7번 · E 유형\n\n이 문제는 주어 Tom과 be동사 is가 쓰인 문장을 바른 의문문으로 바꾼 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 1 be동사 · 7번 · E 유형",
+     "이 문제는 주어 Tom과 be동사 is가 쓰인 문장을 바른 의문문으로 바꾼 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 1, 7번 E 유형. 이 문제는 주어 Tom과 be동사 is가 쓰인 문장을 바른 의문문으로 바꾼 것을 고르는 문제예요.",
+   "caption": "Tom is 문장의 의문문"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 18,
+   "screen": {
+    "text": "다음 문장을 의문문으로 바꾼 것을 고르시오.\n\nTom is a student.\n\n① Does Tom a student?\n② Is Tom a student?\n③ Are Tom a student?\n④ Is Tom student?\n⑤ Is Tom is a student?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장을 의문문으로 바꾼 것을 고르시오.",
+     "Tom is a student.",
+     "① Does Tom a student?",
+     "② Is Tom a student?",
+     "③ Are Tom a student?",
+     "④ Is Tom student?",
+     "⑤ Is Tom is a student?"
+    ]
+   },
+   "narration": "다음 문장을 의문문으로 바꾼 것을 고르세요. Tom is a student. 톰은 학생이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n문장의 동사가 be동사(am, is, are, was, were) → be동사를 주어 앞으로 옮기고 끝에 ?\nbe동사는 주어·시제에 맞게: I → am, was / he, she, it 등 3인칭 단수 → is, was / you, 복수 → are, were\n나머지 말은 그대로. do, does, did는 쓰지 않고, 옮긴 be동사를 제자리에 또 쓰지 않아요.\n예) She is a nurse. → Is she a nurse? (그녀는 간호사니?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "문장의 동사가 be동사(am, is, are, was, were) → be동사를 주어 앞으로 옮기고 끝에 ?",
+     "be동사는 주어·시제에 맞게: I → am, was / he, she, it 등 3인칭 단수 → is, was / you, 복수 → are, were",
+     "나머지 말은 그대로. do, does, did는 쓰지 않고, 옮긴 be동사를 제자리에 또 쓰지 않아요.",
+     "예) She is a nurse. → Is she a nurse? (그녀는 간호사니?)"
+    ]
+   },
+   "narration": "문장의 동사가 be동사 am, is, are, was, were이면, 주어와 시제에 맞는 그 be동사를 주어 앞으로 옮기고 나머지 말은 그대로 두어 의문문을 만들어요. do, does, did는 쓰지 않고, 옮긴 be동사를 제자리에 또 쓰지 않아요. 예를 들어 She is a nurse, 그녀는 간호사예요. 의문문은 Is she a nurse? 그녀는 간호사니?",
+   "caption": "be동사를 주어 앞으로"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 문장을 의문문으로 바꾼 것을 고르시오.\n\nTom is a student.\n\n① Does Tom a student?\n② Is Tom a student?\n③ Are Tom a student?\n④ Is Tom student?\n⑤ Is Tom is a student?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Tom is a student."
+      ],
+      "strike": [
+       "① Does Tom a student?"
+      ],
+      "note": "동사는 be동사 is → does를 쓰지 않는다. Does로 시작한 ①을 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "Tom is a student."
+      ],
+      "strike": [
+       "③ Are Tom a student?"
+      ],
+      "note": "주어 Tom → 3인칭 단수, 현재 → is. you와 복수에 쓰는 Are로 시작한 ③을 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② Is Tom a student?"
+      ],
+      "strike": [
+       "④ Is Tom student?",
+       "⑤ Is Tom is a student?"
+      ],
+      "note": "is만 주어 앞으로, 나머지 a student는 그대로. a를 뺀 ④, is를 또 쓴 ⑤를 지운다 → Is Tom a student?"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장의 동사가 be동사 is이니, does를 쓴 1번은 지워요. 둘째, 주어 Tom은 한 사람이고 지금의 일이라 is를 그대로 써야 해요. you와 복수 주어에 쓰는 Are로 시작한 3번은 지워요. 셋째, is만 주어 앞으로 옮기고 a student는 그대로 둬야 하니, a를 뺀 4번과 is를 또 쓴 5번을 지우면 2번이 남아요. Is Tom a student? 톰은 학생이니?",
+   "caption": "does 없이 → 단수 → 나머지 그대로"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① Does Tom a student?  ✗  be동사 의문문에는 Does를 쓰지 않아요\n② Is Tom a student?  ✓  is만 주어 앞으로, 나머지는 그대로\n③ Are Tom a student?  ✗  Are는 you와 복수 주어에 써요 (Tom → Is)\n④ Is Tom student?  ✗  나머지 말 a student에서 a가 빠졌어요\n⑤ Is Tom is a student?  ✗  옮긴 is를 제자리에 또 썼어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Does Tom a student?  ✗  be동사 의문문에는 Does를 쓰지 않아요",
+     "② Is Tom a student?  ✓  is만 주어 앞으로, 나머지는 그대로",
+     "③ Are Tom a student?  ✗  Are는 you와 복수 주어에 써요 (Tom → Is)",
+     "④ Is Tom student?  ✗  나머지 말 a student에서 a가 빠졌어요",
+     "⑤ Is Tom is a student?  ✗  옮긴 is를 제자리에 또 썼어요"
+    ]
+   },
+   "narration": "정답은 2번이에요. 4번은 Is를 잘 옮겼지만, 그대로 두어야 할 a student에서 a를 빼 버렸어요. 5번은 옮긴 is를 원래 자리에 또 써서 틀렸어요. 1번은 be동사 문장인데 Does를 썼고, 동사 is까지 빠져 있어요.",
+   "caption": "정답 ② Is Tom"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ② Is Tom a student?\n\nbe동사 문장의 의문문 → 주어·시제에 맞는 be동사를 주어 앞으로",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② Is Tom a student?",
+     "be동사 문장의 의문문 → 주어·시제에 맞는 be동사를 주어 앞으로"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, be동사 문장의 의문문은 be동사만 주어 앞으로 옮기고 나머지 말은 그대로 둬요.",
+   "caption": "be동사를 주어 앞으로"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장을 의문문으로 바꾼 것을 고르시오.",
+  "passage": "Tom is a student.",
+  "c": [
+   "Does Tom a student?",
+   "Is Tom a student?",
+   "Are Tom a student?",
+   "Is Tom student?",
+   "Is Tom is a student?"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: be동사 문장의 의문문은 be동사를 주어 앞으로 보내고 나머지는 그대로 둔다. 주어의 인칭·수와 시제에 맞는 be동사를 쓰고, do/did를 쓰거나 be동사를 두 번 쓰지 않는다.\n풀이 순서: ① 문장의 동사가 be동사(is)다. be동사 의문문은 do/does/did 없이 be동사를 주어 앞으로 옮긴다. → ② 시제와 주어(Tom)에 맞는 형태는 그대로 둔다. → ③ ‘Is Tom’로 시작하고 be동사가 한 번만 나오는 ②를 고른다.\n문장별 판정:\n정답 판단: be동사를 주어 앞으로 보내고 시제·수를 그대로 둔 바른 의문문이므로 정답은 ②이다.\n선택지 분석:\n① [오답] be동사 문장에는 does를 쓰지 않으므로 오답이다.\n② [정답] be동사를 주어 앞으로 보내고 시제·수를 그대로 둔 바른 의문문이므로 정답이다.\n③ [오답] 3인칭 단수 주어(Tom)에는 Is를 써야 하므로 오답이다.\n④ [오답] 셀 수 있는 명사(student) 앞의 관사 a가 빠졌으므로 오답이다.\n⑤ [오답] be동사를 두 번 썼으므로 오답이다."
+ }
+}

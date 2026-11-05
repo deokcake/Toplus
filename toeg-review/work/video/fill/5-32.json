@@ -1,0 +1,464 @@
+{
+ "A": {
+  "title": "‘이기고 있다’를 현재진행형으로",
+  "intro": "이 문제는 ‘이기고 있다’를 현재진행형으로 바르게 옮긴 영어 문장을 고르는 문제예요.",
+  "problem_narration": "우리말을 영어로 바르게 옮긴 것을 고르세요. 그의 팀이 시합을 이기고 있다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지금 하고 있는 동작(~하고 있다) → 현재진행형 am / is / are + 동사ing",
+    "be동사는 주어에 맞춰요: I → am, 3인칭 단수 → is, 복수·you → are",
+    "run, swim, win은 끝 자음을 한 번 더 쓰고 ing (swimming, winning)",
+    "예) He is swimming now. (그는 지금 수영하고 있어요.)"
+   ],
+   "narration": "현재진행형은 지금 하고 있는 동작을 나타내요. be동사 am, is, are 뒤에 동사의 ing형을 써요. be동사는 주어에 맞춰 I에는 am, 3인칭 단수에는 is, 복수와 you에는 are를 써요. run, swim, win은 끝 자음을 한 번 더 쓰고 ing를 붙여요. He is swimming now. 그는 지금 수영하고 있어요."
+  },
+  "steps": [
+   {
+    "note": "‘이기고 있다’ = 지금 진행 중 → be동사 + ing형 둘 다 필요. be동사가 없는 ④, ⑤ 지움",
+    "highlight": [
+     "이기고 있다"
+    ],
+    "strike": [
+     "④ His team winning the match.",
+     "⑤ His team win the match."
+    ],
+    "narration": "첫째, ‘이기고 있다’는 지금 진행 중인 일이라 be동사와 ing형이 둘 다 필요하니, be동사가 없는 4번과 5번을 지워요."
+   },
+   {
+    "note": "His team = 3인칭 단수 → is. is 뒤에 동사원형 win을 쓴 ② 지움",
+    "highlight": [
+     "그의 팀이"
+    ],
+    "strike": [
+     "② His team is win the match."
+    ],
+    "narration": "둘째, 주어 His team은 3인칭 단수라 be동사는 is인데, is 뒤에 ing형이 아닌 동사원형 win을 쓴 2번도 지워요."
+   },
+   {
+    "note": "win → n을 한 번 더 → winning. n이 하나인 ③ 지움 → 남는 ①",
+    "highlight": [
+     "① His team is winning the match."
+    ],
+    "strike": [
+     "③ His team is wining the match."
+    ],
+    "narration": "셋째, win의 ing형은 n을 한 번 더 쓴 winning이라 3번도 지우면 1번이 남아요. His team is winning the match. 그의 팀이 시합을 이기고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① His team is winning the match.  ✓  is + winning으로 ‘이기고 있다’",
+    "② His team is win the match.  ✗  is 뒤에 동사원형 win이 아니라 ing형 winning",
+    "③ His team is wining the match.  ✗  win의 ing형은 n을 한 번 더 쓴 winning",
+    "④ His team winning the match.  ✗  be동사 is가 빠졌어요",
+    "⑤ His team win the match.  ✗  be동사도 ing형도 없어 ‘이기고 있다’가 아니에요"
+   ],
+   "narration": "정답은 1번이에요. is와 winning으로 ‘이기고 있다’를 바르게 나타냈어요. 3번 wining은 n이 하나뿐이라 철자가 틀렸어요. 2번은 is 뒤에 ing형이 아닌 동사원형 win을 썼어요. 5번은 be동사도 ing형도 없어서 ‘이기고 있다’는 뜻이 되지 않아요."
+  },
+  "summary": {
+   "card": "지금 하고 있는 동작 = 주어에 맞는 am / is / are + 동사ing (win → winning)",
+   "narration": "정답은 1번이에요. 기억할 것, 지금 하고 있는 동작은 주어에 맞는 am, is, are 뒤에 동사의 ing형을 써요."
+  },
+  "captions": [
+   "‘이기고 있다’를 현재진행형으로",
+   "먼저 풀어 보세요",
+   "am / is / are + 동사ing",
+   "진행 중 → is → winning",
+   "정답 ① is winning",
+   "주어에 맞는 be동사 + 동사ing"
+  ],
+  "sec": [
+   11,
+   17,
+   27,
+   36,
+   26,
+   10
+  ]
+ },
+ "B": {
+  "title": "‘달리고 있다’를 현재진행형으로",
+  "intro": "이 문제는 ‘달리고 있다’를 현재진행형으로 바르게 옮긴 영어 문장을 고르는 문제예요.",
+  "problem_narration": "우리말을 영어로 바르게 옮긴 것을 고르세요. 아이들이 운동장에서 달리고 있다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지금 하고 있는 동작(~하고 있다) → 현재진행형 am / is / are + 동사ing",
+    "be동사는 주어에 맞춰요: I → am, 3인칭 단수 → is, 복수·you → are",
+    "be동사와 ing형 중 하나라도 빠지면 현재진행형이 아니에요",
+    "예) The birds are singing. (새들이 노래하고 있어요.)"
+   ],
+   "narration": "현재진행형은 지금 하고 있는 동작을 나타내요. be동사 am, is, are 뒤에 동사의 ing형을 써요. be동사는 주어에 맞춰 I에는 am, 3인칭 단수에는 is, 복수와 you에는 are를 써요. be동사와 ing형 중 하나라도 빠지면 현재진행형이 아니에요. The birds are singing. 새들이 노래하고 있어요."
+  },
+  "steps": [
+   {
+    "note": "‘달리고 있다’ = 지금 진행 중 → be동사 + ing형 둘 다 필요. 둘 다 없는 ④ 지움",
+    "highlight": [
+     "달리고 있다"
+    ],
+    "strike": [
+     "④ The children run on the playground now."
+    ],
+    "narration": "첫째, ‘달리고 있다’는 지금 진행 중인 일이라 be동사와 ing형이 둘 다 필요하니, 둘 다 없는 4번은 지워요."
+   },
+   {
+    "note": "children = child의 복수, 지금 일 → are. is를 쓴 ③, 과거형 were를 쓴 ⑤ 지움",
+    "highlight": [
+     "아이들이"
+    ],
+    "strike": [
+     "③ The children is running on the playground.",
+     "⑤ The children were running on the playground."
+    ],
+    "narration": "둘째, children은 child의 복수형이고 지금 일이니 be동사는 are예요. is를 쓴 3번과 과거형 were를 쓴 5번을 지워요."
+   },
+   {
+    "note": "are 뒤에는 ing형 running. run을 쓴 ② 지움 → 남는 ①",
+    "highlight": [
+     "① The children are running on the playground."
+    ],
+    "strike": [
+     "② The children are run on the playground."
+    ],
+    "narration": "셋째, 진행형에서는 are 뒤에 ing형이 와야 하니 run을 쓴 2번도 지우면 1번이 남아요. The children are running on the playground. 아이들이 운동장에서 달리고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The children are running on the playground.  ✓  복수 주어에 맞는 are + running",
+    "② The children are run on the playground.  ✗  are 뒤에 run이 아니라 ing형 running",
+    "③ The children is running on the playground.  ✗  children은 복수라 is가 아니라 are",
+    "④ The children run on the playground now.  ✗  now가 있어도 be동사와 ing형이 없어요",
+    "⑤ The children were running on the playground.  ✗  were는 과거라 ‘달리고 있었다’"
+   ],
+   "narration": "정답은 1번이에요. 복수 주어 The children에 맞는 are와 running을 썼어요. 3번은 children이 복수인데 is를 써서 틀렸어요. 5번 were running은 ‘달리고 있었다’는 지난 일이라 우리말과 맞지 않아요. 4번은 now가 있어도 be동사와 ing형이 없어서 현재진행형이 아니에요."
+  },
+  "summary": {
+   "card": "지금 하고 있는 동작 = 주어에 맞는 am / is / are + 동사ing",
+   "narration": "정답은 1번이에요. 기억할 것, 지금 하고 있는 동작은 주어에 맞는 am, is, are 뒤에 동사의 ing형을 써요."
+  },
+  "captions": [
+   "‘달리고 있다’를 현재진행형으로",
+   "먼저 풀어 보세요",
+   "am / is / are + 동사ing",
+   "진행 중 → are → running",
+   "정답 ① are running",
+   "주어에 맞는 be동사 + 동사ing"
+  ],
+  "sec": [
+   11,
+   17,
+   26,
+   36,
+   28,
+   10
+  ]
+ },
+ "C": {
+  "title": "‘쓰고 있다’를 현재진행형으로",
+  "intro": "이 문제는 ‘쓰고 있다’를 현재진행형으로 바르게 옮긴 영어 문장을 고르는 문제예요.",
+  "problem_narration": "우리말을 영어로 바르게 옮긴 것을 고르세요. Jane이 편지를 쓰고 있다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지금 하고 있는 동작(~하고 있다) → 현재진행형 am / is / are + 동사ing",
+    "be동사는 주어에 맞춰요: I → am, 3인칭 단수 → is, 복수·you → are",
+    "write, make처럼 e로 끝나는 동사는 대부분 e를 빼고 ing (making)",
+    "예) Mom is making a cake. (엄마가 케이크를 만들고 있어요.)"
+   ],
+   "narration": "현재진행형은 지금 하고 있는 동작을 나타내요. be동사 am, is, are 뒤에 동사의 ing형을 써요. be동사는 주어에 맞춰 I에는 am, 3인칭 단수에는 is, 복수와 you에는 are를 써요. write, make처럼 e로 끝나는 동사는 대부분 e를 빼고 ing를 붙여요. Mom is making a cake. 엄마가 케이크를 만들고 있어요."
+  },
+  "steps": [
+   {
+    "note": "‘쓰고 있다’ = 지금 진행 중 → be동사 + ing형 둘 다 필요. be동사가 없는 ①, does를 쓴 ② 지움",
+    "highlight": [
+     "쓰고 있다"
+    ],
+    "strike": [
+     "① Jane writing a letter.",
+     "② Jane does writing a letter."
+    ],
+    "narration": "첫째, ‘쓰고 있다’는 지금 진행 중인 일이라 be동사와 ing형이 둘 다 필요하니, be동사가 없는 1번과 be동사 대신 does를 쓴 2번은 지워요."
+   },
+   {
+    "note": "Jane = 3인칭 단수 → is. is 뒤에 과거형 wrote를 쓴 ⑤ 지움",
+    "highlight": [
+     "Jane이"
+    ],
+    "strike": [
+     "⑤ Jane is wrote a letter."
+    ],
+    "narration": "둘째, Jane은 3인칭 단수라 be동사는 is예요. 진행형에서는 is 뒤에 ing형이 와야 하니 과거형 wrote를 쓴 5번도 지워요."
+   },
+   {
+    "note": "write → e를 빼고 writing. writeing ④ 지움 → 남는 ③",
+    "highlight": [
+     "③ Jane is writing a letter."
+    ],
+    "strike": [
+     "④ Jane is writeing a letter."
+    ],
+    "narration": "셋째, write는 e를 빼고 ing를 붙여 writing이 되니 4번도 지우면 3번이 남아요. Jane is writing a letter. 제인이 편지를 쓰고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Jane writing a letter.  ✗  be동사 is가 빠졌어요",
+    "② Jane does writing a letter.  ✗  진행형은 does가 아니라 be동사 is와 함께",
+    "③ Jane is writing a letter.  ✓  is + writing으로 ‘쓰고 있다’",
+    "④ Jane is writeing a letter.  ✗  write는 e를 빼고 writing",
+    "⑤ Jane is wrote a letter.  ✗  is 뒤에 과거형 wrote가 아니라 ing형 writing"
+   ],
+   "narration": "정답은 3번이에요. Jane에 맞는 is와 writing을 썼어요. 4번 writeing은 e를 빼지 않아서 철자가 틀렸어요. 2번은 be동사 대신 does를 썼는데, 현재진행형은 be동사와 ing형으로 만들어요. 1번은 be동사 is가 빠져서 문장이 되지 않아요."
+  },
+  "summary": {
+   "card": "지금 하고 있는 동작 = 주어에 맞는 am / is / are + 동사ing (write → writing)",
+   "narration": "정답은 3번이에요. 기억할 것, 지금 하고 있는 동작은 주어에 맞는 am, is, are 뒤에 동사의 ing형을 써요."
+  },
+  "captions": [
+   "‘쓰고 있다’를 현재진행형으로",
+   "먼저 풀어 보세요",
+   "am / is / are + 동사ing",
+   "진행 중 → is → writing",
+   "정답 ③ is writing",
+   "주어에 맞는 be동사 + 동사ing"
+  ],
+  "sec": [
+   11,
+   17,
+   28,
+   36,
+   28,
+   10
+  ]
+ },
+ "D": {
+  "title": "‘축구를 하고 있다’를 현재진행형으로",
+  "intro": "이 문제는 ‘축구를 하고 있다’를 현재진행형으로 바르게 옮긴 영어 문장을 고르는 문제예요.",
+  "problem_narration": "우리말을 영어로 바르게 옮긴 것을 고르세요. 그들은 축구를 하고 있다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지금 하고 있는 동작(~하고 있다) → 현재진행형 am / is / are + 동사ing",
+    "be동사는 주어에 맞춰요: I → am, 3인칭 단수 → is, 복수·you → are",
+    "be동사와 ing형 중 하나라도 빠지면 현재진행형이 아니에요",
+    "예) My friends are singing. (내 친구들이 노래하고 있어요.)"
+   ],
+   "narration": "현재진행형은 지금 하고 있는 동작을 나타내요. be동사 am, is, are 뒤에 동사의 ing형을 써요. be동사는 주어에 맞춰 I에는 am, 3인칭 단수에는 is, 복수와 you에는 are를 써요. be동사와 ing형 중 하나라도 빠지면 현재진행형이 아니에요. My friends are singing. 내 친구들이 노래하고 있어요."
+  },
+  "steps": [
+   {
+    "note": "‘축구를 하고 있다’ = 지금 진행 중 → be동사 + ing형 둘 다 필요. be동사 대신 do를 쓴 ① 지움",
+    "highlight": [
+     "축구를 하고 있다"
+    ],
+    "strike": [
+     "① They do playing soccer."
+    ],
+    "narration": "첫째, ‘축구를 하고 있다’는 지금 진행 중인 일이라 be동사와 ing형이 둘 다 필요하니, be동사 대신 do를 쓴 1번은 지워요."
+   },
+   {
+    "note": "They, 지금 일 → are. is를 쓴 ④, 과거형 were를 쓴 ⑤ 지움",
+    "highlight": [
+     "그들은"
+    ],
+    "strike": [
+     "④ They is playing soccer.",
+     "⑤ They were playing soccer."
+    ],
+    "narration": "둘째, 지금 일이니 주어 They에 맞는 be동사는 are예요. is를 쓴 4번과 과거형 were를 쓴 5번을 지워요."
+   },
+   {
+    "note": "are 뒤에는 ing형 playing. play를 쓴 ③ 지움 → 남는 ②",
+    "highlight": [
+     "② They are playing soccer."
+    ],
+    "strike": [
+     "③ They are play soccer."
+    ],
+    "narration": "셋째, 진행형에서는 are 뒤에 ing형이 와야 하니 play를 쓴 3번도 지우면 2번이 남아요. They are playing soccer. 그들은 축구를 하고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① They do playing soccer.  ✗  진행형은 do가 아니라 be동사 are와 함께",
+    "② They are playing soccer.  ✓  They에 맞는 are + playing",
+    "③ They are play soccer.  ✗  are 뒤에 play가 아니라 ing형 playing",
+    "④ They is playing soccer.  ✗  주어 They에는 is가 아니라 are",
+    "⑤ They were playing soccer.  ✗  were는 과거라 ‘하고 있었다’"
+   ],
+   "narration": "정답은 2번이에요. 주어 They에 맞는 are와 playing을 썼어요. 3번은 are 뒤에 ing형이 아닌 play를 써서 틀렸어요. 5번 were playing은 ‘축구를 하고 있었다’는 지난 일이라 우리말과 맞지 않아요. 1번은 be동사 대신 do를 썼어요."
+  },
+  "summary": {
+   "card": "지금 하고 있는 동작 = 주어에 맞는 am / is / are + 동사ing",
+   "narration": "정답은 2번이에요. 기억할 것, 지금 하고 있는 동작은 주어에 맞는 am, is, are 뒤에 동사의 ing형을 써요."
+  },
+  "captions": [
+   "‘축구를 하고 있다’를 현재진행형으로",
+   "먼저 풀어 보세요",
+   "am / is / are + 동사ing",
+   "진행 중 → are → playing",
+   "정답 ② are playing",
+   "주어에 맞는 be동사 + 동사ing"
+  ],
+  "sec": [
+   11,
+   16,
+   26,
+   34,
+   26,
+   10
+  ]
+ },
+ "E": {
+  "title": "‘읽고 있다’를 현재진행형으로",
+  "intro": "이 문제는 ‘읽고 있다’를 현재진행형으로 바르게 옮긴 영어 문장을 고르는 문제예요.",
+  "problem_narration": "우리말을 영어로 바르게 옮긴 것을 고르세요. 나는 책을 읽고 있다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지금 하고 있는 동작(~하고 있다) → 현재진행형 am / is / are + 동사ing",
+    "be동사는 주어에 맞춰요: I → am, 3인칭 단수 → is, 복수·you → are",
+    "be동사와 ing형 중 하나라도 빠지면 현재진행형이 아니에요",
+    "예) I am eating lunch. (나는 점심을 먹고 있어요.)"
+   ],
+   "narration": "현재진행형은 지금 하고 있는 동작을 나타내요. be동사 am, is, are 뒤에 동사의 ing형을 써요. be동사는 주어에 맞춰 I에는 am, 3인칭 단수에는 is, 복수와 you에는 are를 써요. be동사와 ing형 중 하나라도 빠지면 현재진행형이 아니에요. I am eating lunch. 나는 점심을 먹고 있어요."
+  },
+  "steps": [
+   {
+    "note": "‘읽고 있다’ = 지금 진행 중 → be동사 + ing형 둘 다 필요. be동사가 없는 ② 지움",
+    "highlight": [
+     "읽고 있다"
+    ],
+    "strike": [
+     "② I reading a book."
+    ],
+    "narration": "첫째, ‘읽고 있다’는 지금 진행 중인 일이라 be동사와 ing형이 둘 다 필요하니, be동사가 없는 2번은 지워요."
+   },
+   {
+    "note": "주어 I, 지금 일 → am. is를 쓴 ④, 과거형 was를 쓴 ① 지움",
+    "highlight": [
+     "나는"
+    ],
+    "strike": [
+     "④ I is reading a book.",
+     "① I was reading a book."
+    ],
+    "narration": "둘째, 지금 일이니 주어 I에 맞는 be동사는 am이에요. is를 쓴 4번과 과거형 was를 쓴 1번을 지워요."
+   },
+   {
+    "note": "am 뒤에는 ing형 reading. read를 쓴 ③ 지움 → 남는 ⑤",
+    "highlight": [
+     "⑤ I am reading a book."
+    ],
+    "strike": [
+     "③ I am read a book."
+    ],
+    "narration": "셋째, 진행형에서는 am 뒤에 ing형이 와야 하니 read를 쓴 3번도 지우면 5번이 남아요. I am reading a book. 나는 책을 읽고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I was reading a book.  ✗  was는 과거라 ‘읽고 있었다’",
+    "② I reading a book.  ✗  be동사 am이 빠졌어요",
+    "③ I am read a book.  ✗  am 뒤에 read가 아니라 ing형 reading",
+    "④ I is reading a book.  ✗  주어 I에는 is가 아니라 am",
+    "⑤ I am reading a book.  ✓  I에 맞는 am + reading"
+   ],
+   "narration": "정답은 5번이에요. 주어 I에 맞는 am과 reading을 썼어요. 1번 was reading은 ‘읽고 있었다’는 지난 일이라 우리말과 맞지 않아요. 4번은 주어 I에 is를 써서 틀렸어요. 3번은 am 뒤에 ing형 reading이 아니라 read를 써서 ‘읽고 있다’는 뜻이 되지 않아요."
+  },
+  "summary": {
+   "card": "지금 하고 있는 동작 = 주어에 맞는 am / is / are + 동사ing",
+   "narration": "정답은 5번이에요. 기억할 것, 지금 하고 있는 동작은 주어에 맞는 am, is, are 뒤에 동사의 ing형을 써요."
+  },
+  "captions": [
+   "‘읽고 있다’를 현재진행형으로",
+   "먼저 풀어 보세요",
+   "am / is / are + 동사ing",
+   "진행 중 → am → reading",
+   "정답 ⑤ am reading",
+   "주어에 맞는 be동사 + 동사ing"
+  ],
+  "sec": [
+   11,
+   16,
+   26,
+   34,
+   28,
+   10
+  ]
+ },
+ "F": {
+  "title": "‘청소하고 있다’를 현재진행형으로",
+  "intro": "이 문제는 ‘청소하고 있다’를 현재진행형으로 바르게 옮긴 영어 문장을 고르는 문제예요.",
+  "problem_narration": "우리말을 영어로 바르게 옮긴 것을 고르세요. 우리는 방을 청소하고 있다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "지금 하고 있는 동작(~하고 있다) → 현재진행형 am / is / are + 동사ing",
+    "be동사는 주어에 맞춰요: I → am, 3인칭 단수 → is, 복수·you → are",
+    "be동사와 ing형 중 하나라도 빠지면 현재진행형이 아니에요",
+    "예) We are watching TV. (우리는 텔레비전을 보고 있어요.)"
+   ],
+   "narration": "현재진행형은 지금 하고 있는 동작을 나타내요. be동사 am, is, are 뒤에 동사의 ing형을 써요. be동사는 주어에 맞춰 I에는 am, 3인칭 단수에는 is, 복수와 you에는 are를 써요. be동사와 ing형 중 하나라도 빠지면 현재진행형이 아니에요. We are watching TV. 우리는 텔레비전을 보고 있어요."
+  },
+  "steps": [
+   {
+    "note": "‘청소하고 있다’ = 지금 진행 중 → be동사 + ing형 둘 다 필요. be동사가 없는 ⑤, do를 쓴 ③ 지움",
+    "highlight": [
+     "청소하고 있다"
+    ],
+    "strike": [
+     "⑤ We cleaning the room.",
+     "③ We do cleaning the room."
+    ],
+    "narration": "첫째, ‘청소하고 있다’는 지금 진행 중인 일이라 be동사와 ing형이 둘 다 필요하니, be동사가 없는 5번과 be동사 대신 do를 쓴 3번은 지워요."
+   },
+   {
+    "note": "주어 We → are. is를 쓴 ② 지움",
+    "highlight": [
+     "우리는"
+    ],
+    "strike": [
+     "② We is cleaning the room."
+    ],
+    "narration": "둘째, 주어 We에 맞는 be동사는 are라서 is를 쓴 2번도 지워요."
+   },
+   {
+    "note": "are 뒤에는 ing형 cleaning. clean을 쓴 ① 지움 → 남는 ④",
+    "highlight": [
+     "④ We are cleaning the room."
+    ],
+    "strike": [
+     "① We are clean the room."
+    ],
+    "narration": "셋째, 진행형에서는 are 뒤에 ing형이 와야 하니 clean을 쓴 1번도 지우면 4번이 남아요. We are cleaning the room. 우리는 방을 청소하고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① We are clean the room.  ✗  are 뒤에 clean이 아니라 ing형 cleaning",
+    "② We is cleaning the room.  ✗  주어 We에는 is가 아니라 are",
+    "③ We do cleaning the room.  ✗  진행형은 do가 아니라 be동사 are와 함께",
+    "④ We are cleaning the room.  ✓  We에 맞는 are + cleaning",
+    "⑤ We cleaning the room.  ✗  be동사 are가 빠졌어요"
+   ],
+   "narration": "정답은 4번이에요. 주어 We에 맞는 are와 cleaning을 썼어요. 1번은 are 뒤에 ing형이 아닌 clean을 써서 ‘청소하고 있다’는 뜻이 되지 않아요. 2번은 주어 We에 is를 써서 틀렸어요. 3번은 be동사 대신 do를 썼어요."
+  },
+  "summary": {
+   "card": "지금 하고 있는 동작 = 주어에 맞는 am / is / are + 동사ing",
+   "narration": "정답은 4번이에요. 기억할 것, 지금 하고 있는 동작은 주어에 맞는 am, is, are 뒤에 동사의 ing형을 써요."
+  },
+  "captions": [
+   "‘청소하고 있다’를 현재진행형으로",
+   "먼저 풀어 보세요",
+   "am / is / are + 동사ing",
+   "진행 중 → are → cleaning",
+   "정답 ④ are cleaning",
+   "주어에 맞는 be동사 + 동사ing"
+  ],
+  "sec": [
+   11,
+   17,
+   26,
+   34,
+   26,
+   10
+  ]
+ }
+}

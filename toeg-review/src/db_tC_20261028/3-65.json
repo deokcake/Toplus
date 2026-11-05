@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T05:03:02.586Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 과거 be동사는 주어가 I·3인칭 단수면 was, you·복수면 were를 쓴다. 의문문을 만드는 조동사 did 뒤에는 동사원형을 쓴다.\n풀이 순서: ① 문장 ⓐ의 주어(they)에 맞는 be동사 과거형을 정한다. 복수이므로 were를 쓴다. → ② 문장 ⓑ는 did로 만든 의문문이다. did 뒤의 동사는 과거형이 아니라 동사원형이다(bought → buy). → ③ 정답은 ①.\n문장별 판정:\n정답 판단: (A) were는 주어 they에 맞는 과거 be동사이고, (B) did 뒤에는 동사원형을 쓰므로 정답은 ①이다.\n선택지 분석:\n① [정답] (A) were는 주어 they에 맞는 과거 be동사이고, (B) did 뒤에는 동사원형을 쓰므로 정답이다.\n② [오답] (A) is: 현재형이라 과거 문장에 맞지 않는다. 따라서 오답이다.\n③ [오답] (A) was: 주어 they에는 were를 쓴다, (B) 과거형: did 뒤에는 동사원형을 쓴다. 따라서 오답이다.\n④ [오답] (B) 과거형: did 뒤에는 동사원형을 쓴다. 따라서 오답이다.\n⑤ [오답] (A) are: 현재형이라 과거 문장에 맞지 않는다, (B) 현재형: did 뒤에는 동사원형을 쓴다. 따라서 오답이다.",
+    "passage": "ⓐ Where was they yesterday?\nⓑ What did she bought?\n문장 ⓐ에서 주어인 'they'는 3인칭 복수이므로 be동사의 과거형 (<u>    A    </u>)를 써야 한다. 문장 ⓑ에서 의문문을 만들기 위해 사용된 조동사 'did' 뒤에는 (<u>    B    </u>)를 써야 하므로 'bought'를 'buy'로 고쳐야 한다.",
+    "stem": "빈칸 (A)와 (B)에 들어갈 말을 바르게 짝지은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:02:43.433Z"
+  },
+  "tab": "fhh9u0lo",
+  "updatedAt": "2026-10-23T05:03:02.586Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:03:02.586Z",
+      "what": "확인 완료"
+    }
+  }
+}

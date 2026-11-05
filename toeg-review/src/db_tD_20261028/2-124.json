@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-23T17:09:03.624Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "it had not rained",
+      "1": "the weather were",
+      "2": "I were you",
+      "3": "I had checked it",
+      "4": "we will go hiking"
+    },
+    "expl": "핵심 규칙: 현재 사실과 반대되는 조건·소망은 과거형(be동사는 were), 과거 사실과 반대되는 조건·후회는 had + 과거분사로 나타낸다. I wish, If only 뒤에는 will·can 같은 현재형 조동사를 쓰지 않는다.\n풀이 순서: ① 밑줄마다 I wish, If only, If 뒤의 동사 형태를 본다. 현재 사실의 반대는 과거형(were, could), 과거 사실의 반대는 had + 과거분사다. → ② 이 자리에 현재형이나 will, can이 있으면 틀린 것이다. if절은 주절의 형태와도 짝이 맞아야 한다. → ③ 선택지 ⑤가 틀렸다: I wish 뒤에 will go를 썼다. could go가 맞다.\n문장별 판정:\n정답 판단: I wish 뒤에는 will을 쓰지 않는다(I hope we go 또는 I wish we could go).\n선택지 분석:\n① [오답] 어제 일과 반대되는 조건이라 had + 과거분사를 바르게 썼으므로 오답이다.\n② [오답] 오늘의 사실과 반대되는 소망에 were를 바르게 썼으므로 오답이다.\n③ [오답] 현재 사실과 반대되는 조건에 were를 바르게 썼으므로 오답이다.\n④ [오답] If only + had + 과거분사로 지난 일의 아쉬움을 바르게 나타냈으므로 오답이다.\n⑤ [정답] I wish 뒤에는 will을 쓸 수 없다. could go로 써야 하므로 정답이다.",
+    "passage": "Jane: If ①<u>it had not rained</u> yesterday, we would have gone hiking in the mountains. I was really looking forward to it all week.\nBen: I know. I wish ②<u>the weather were</u> better today, too. Look at those dark clouds over there.\nJane: If ③<u>I were you</u>, I would check the forecast first before making any plans.\nBen: Good idea. If only ④<u>I had checked it</u> yesterday! We wouldn't have wasted the whole day waiting.\nJane: Don't worry about it. I wish ⑤<u>we will go hiking</u> together next weekend.",
+    "stem": "다음 대화에서 사용된 가정법 표현 중 어법상 옳지 않은 것을 고르시오."
+  },
+  "tab": "8s1sfi09",
+  "updatedAt": "2026-10-23T17:09:03.624Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T17:09:03.624Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A), (B)",
+      "1": "(B), (D)",
+      "2": "(A), (C)",
+      "3": "(C), (E)",
+      "4": "(D), (E)"
+    },
+    "expl": "[선택지별 구체 해설]\n핵심 규칙: as ~ as 안에서 동사를 꾸미면 부사를, be동사·연결동사(look, feel, seem, sound, become)의 보어이면 형용사를 쓴다.\n밑줄별 판정:\n(A) 옳음: hard는 trained를 꾸미는 부사이다.\n(B) 틀림: run을 꾸미므로 부사 quickly를 써야 한다.\n(C) 옳음: seemed의 보어이므로 형용사 pleased이다.\n(D) 틀림: felt의 보어이므로 형용사 confident를 써야 한다.\n(E) 옳음: became의 보어이므로 형용사 strong이다.\n정답 판단: 어법상 틀린 것은 (B), (D)이다.\n① [오답] (A)는 틀린 것이 아니고, 틀린 것 (D)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 틀린 것 (B), (D)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (A), (C)는 틀린 것이 아니고, 틀린 것 (B), (D)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (C), (E)는 틀린 것이 아니고, 틀린 것 (B), (D)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (E)는 틀린 것이 아니고, 틀린 것 (B)를 빠뜨렸다. 따라서 오답이다.\n풀이 순서: ① 발문이 옳은 것·틀린 것·다른 것·개수·조합·배열 중 무엇을 요구하는지 확인한다. → ② 지문과 선택지에서 as ... as의 형용사·부사를 판단하는 실제 단어·문장 성분·시제 단서를 표시한다. → ③ 각 선택지에서 맞는 부분과 틀린 부분을 분리하고, 틀린 표현은 올바른 형태로 고친다. → ④ 모든 선택지를 같은 기준으로 다시 확인해 정답 또는 원문 검토 대상을 확정한다.",
+    "passage": "Before the city marathon, Tom trained (A)<u>as hard as</u> he could every morning. During the race, he tried to run (B)<u>as quick as</u> the experienced runners in front of him. His coach, waiting at the finish line, seemed (C)<u>as pleased as</u> ever with his effort. After the race, Tom felt (D)<u>as confidently as</u> a real champion. Thanks to all that training, he finally became (E)<u>as strong as</u> his older brother.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-01T05:18:57.000Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-01T05:15:21.092Z",
+      "text": "원형 문항에 비해 지문이 너무 짧음."
+    }
+  },
+  "tab": "claude",
+  "updatedAt": "2026-10-01T05:18:57.000Z",
+  "verdict": "부적합",
+  "verdictAt": "2026-10-01T05:15:07.928Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-01T05:18:57.000Z",
+      "what": "Claude 수정 예시 적용(검토 의견 반영)"
+    }
+  }
+}

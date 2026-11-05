@@ -1,0 +1,176 @@
+{
+ "key": "6-2",
+ "type": "A",
+ "grade": 6,
+ "chapter": "CH 1 명사와 관사",
+ "title": "a와 셀 수 있는 명사, 셀 수 없는 명사",
+ "total_sec": 121,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "6급 · CH 1 명사와 관사 · 2번\n\n이 문제는 a 뒤에 올 수 있는 명사인지 따져서, 빈칸에 들어갈 수 없는 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 1 명사와 관사 · 2번",
+     "이 문제는 a 뒤에 올 수 있는 명사인지 따져서, 빈칸에 들어갈 수 없는 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 1, 2번. 이 문제는 a 뒤에 올 수 있는 명사인지 따져서, 빈칸에 들어갈 수 없는 것을 고르는 문제예요.",
+   "caption": "a 뒤에 올 수 없는 명사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 13,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 수 없는 것을 고르시오.\n\nI need a _______.\n\n① box\n② hat\n③ towel\n④ water\n⑤ pen",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 수 없는 것을 고르시오.",
+     "I need a _______.",
+     "① box",
+     "② hat",
+     "③ towel",
+     "④ water",
+     "⑤ pen"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 수 없는 것을 고르세요. I need a 빈칸. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 26,
+   "screen": {
+    "text": "핵심 규칙\na와 an은 ‘하나의’라는 뜻이에요.\n하나, 둘 셀 수 있는 명사가 하나일 때 그 앞에 써요.  (a dog, a ball)\n셀 수 없는 명사 앞에는 쓰지 않아요.  (juice, milk, bread, rice …)\n예) I have a ball. (나는 공이 하나 있어요.)  I drink juice. (나는 주스를 마셔요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "a와 an은 ‘하나의’라는 뜻이에요.",
+     "하나, 둘 셀 수 있는 명사가 하나일 때 그 앞에 써요.  (a dog, a ball)",
+     "셀 수 없는 명사 앞에는 쓰지 않아요.  (juice, milk, bread, rice …)",
+     "예) I have a ball. (나는 공이 하나 있어요.)  I drink juice. (나는 주스를 마셔요.)"
+    ]
+   },
+   "narration": "a와 an은 '하나의'라는 뜻이라서, 하나, 둘 셀 수 있는 명사가 하나일 때 그 앞에 써요. 그래서 juice, milk, bread, rice처럼 셀 수 없는 명사 앞에는 a나 an을 쓰지 않아요. 예를 들어 I have a ball. 나는 공이 하나 있어요. I drink juice. 나는 주스를 마셔요.",
+   "caption": "a, an + 셀 수 있는 명사 하나"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 수 없는 것을 고르시오.\n\nI need a _______.\n\n① box\n② hat\n③ towel\n④ water\n⑤ pen",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "a _______"
+      ],
+      "strike": [],
+      "note": "빈칸 바로 앞에 a → 빈칸에는 하나, 둘 셀 수 있는 명사가 온다"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① box",
+       "② hat",
+       "③ towel",
+       "⑤ pen"
+      ],
+      "note": "box 상자, hat 모자, towel 수건, pen 펜 → 모두 하나, 둘 셀 수 있다 (a box, a hat …)"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ water",
+       "들어갈 수 없는 것"
+      ],
+      "strike": [],
+      "note": "water 물 → 일정한 모양이 없어 셀 수 없다 → a 뒤에 ✗"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 빈칸 바로 앞에 a가 있으니, 빈칸에는 하나, 둘 셀 수 있는 명사가 와야 해요. 둘째, box는 상자, hat은 모자, towel은 수건, pen은 펜이에요. 모두 하나, 둘 셀 수 있으니 a 뒤에 쓸 수 있어요. 셋째, water는 물이라서 일정한 모양이 없고, 하나, 둘 세지 않아요. 따라서 빈칸에 들어갈 수 없는 것은 water예요.",
+   "caption": "a 확인 → 셀 수 있는 것 지우기 → water"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① box  ✗  상자는 하나, 둘 셀 수 있어요 (a box)\n② hat  ✗  모자는 하나, 둘 셀 수 있어요 (a hat)\n③ towel  ✗  수건은 한 장, 두 장 셀 수 있어요 (a towel)\n④ water  ✓  물은 셀 수 없어서 a를 붙이지 않아요\n⑤ pen  ✗  펜은 한 자루, 두 자루 셀 수 있어요 (a pen)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① box  ✗  상자는 하나, 둘 셀 수 있어요 (a box)",
+     "② hat  ✗  모자는 하나, 둘 셀 수 있어요 (a hat)",
+     "③ towel  ✗  수건은 한 장, 두 장 셀 수 있어요 (a towel)",
+     "④ water  ✓  물은 셀 수 없어서 a를 붙이지 않아요",
+     "⑤ pen  ✗  펜은 한 자루, 두 자루 셀 수 있어요 (a pen)"
+    ]
+   },
+   "narration": "정답은 4번 water예요. 물은 하나, 둘 세지 않아서 a를 붙이지 않고, 물 한 잔은 a glass of water라고 해요. 3번 towel은 낯선 낱말일 수 있지만, 수건이라서 한 장, 두 장 셀 수 있어요. 그래서 a towel이라고 써요. 2번 hat도 모자 하나, 모자 둘로 셀 수 있어서 a hat이라고 써요.",
+   "caption": "정답 ④ water"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ④ water\n\na, an은 셀 수 있는 명사 하나 앞에 쓰고, 셀 수 없는 명사 앞에는 쓰지 않아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ water",
+     "a, an은 셀 수 있는 명사 하나 앞에 쓰고, 셀 수 없는 명사 앞에는 쓰지 않아요"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, a와 an은 셀 수 있는 명사가 하나일 때 그 앞에 쓰고, 셀 수 없는 명사 앞에는 쓰지 않아요.",
+   "caption": "셀 수 없는 명사 앞에는 a ✗"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 수 없는 것을 고르시오.",
+  "passage": "I need a _______.",
+  "c": [
+   "box",
+   "hat",
+   "towel",
+   "water",
+   "pen"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: a/an은 셀 수 있는 명사의 단수형 앞에만 쓴다. water처럼 셀 수 없는 명사 앞에는 쓰지 않는다.\n풀이 순서: ① 빈칸 앞에 a가 있으므로 빈칸에는 셀 수 있는 명사의 단수형만 들어간다. → ② 보기 가운데 하나, 둘 셀 수 없는 것(물질·추상 명사)을 찾는다. → ③ water는 일정한 모양이 없는 물질이라 셀 수 없다. 정답은 ④.\n문장별 판정:\n정답 판단: 셀 수 없는 명사라 a 뒤에 쓸 수 없으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다.\n② [오답] 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다.\n③ [오답] 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다.\n④ [정답] 셀 수 없는 명사라 a 뒤에 쓸 수 없으므로 정답이다.\n⑤ [오답] 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다."
+ }
+}

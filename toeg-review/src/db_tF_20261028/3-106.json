@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T05:27:17.234Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "far",
+      "1": "farthest",
+      "2": "farther",
+      "3": "more far",
+      "4": "the farthest"
+    },
+    "expl": "핵심 규칙: than 앞에는 비교급을 쓴다. good - better, bad - worse, many·much - more, little - less, far - farther는 불규칙 변화이고, easy처럼 자음 + y로 끝나면 y를 i로 바꿔 -er을 붙인다.\n풀이 순서: ① 빈칸 뒤의 than을 본다. than 앞에는 비교급이 온다. → ② 괄호 안 낱말 far의 비교급을 떠올린다: 불규칙 변화 far - farther - farthest. → ③ 정답은 farther.\n문장별 판정:\n정답 판단: than 앞에 far의 비교급 farther를 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] than 앞에는 원급을 쓸 수 없으므로 오답이다.\n② [오답] than과 함께 최상급을 쓸 수 없으므로 오답이다.\n③ [정답] than 앞에 far의 비교급 farther를 바르게 썼으므로 정답이다.\n④ [오답] far는 불규칙 변화라 비교급이 farther이므로 오답이다.\n⑤ [오답] than과 함께 최상급을 쓸 수 없으므로 오답이다.",
+    "passage": "A: How far is the new school?\nB: It is ______(far) than the old one.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T05:27:01.280Z"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:27:17.234Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:27:17.234Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-26T12:28:44.808Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "㉠, ㉡",
+      "1": "㉠, ㉢",
+      "2": "㉡, ㉢",
+      "3": "㉡, ㉣",
+      "4": "㉢, ㉣"
+    },
+    "expl": "핵심 규칙: 진행형은 be동사 + 동사-ing로 만들며 be동사는 주어에 맞춘다. 단모음 + 단자음으로 끝나는 동사는 자음을 한 번 더 쓰고(swim → swimming, nap → napping, sit → sitting), -e로 끝나면 e를 뺀다(have → having, write → writing).\n풀이 순서: ① 문장마다 be동사가 주어에 맞는지 본다. → ② be동사 뒤가 -ing인지, 철자가 맞는지 본다(끝 자음을 겹치는 동사, e를 빼는 동사). → ③ 틀린 문장을 지운다: ㉡ is want(wants), ㉣ Tom are(is). 남은 두 문장을 묶은 ㉠, ㉢가 정답이다.\n문장별 판정:\n㉠ O. are + leaving이다.\n㉡ X. want는 상태 동사라 진행형으로 쓰지 않고, is 뒤에 동사원형도 올 수 없다(She wants a bag).\n㉢ O. is + barking이다.\n㉣ X. 단수 주어(Tom)에는 is를 쓴다.\n정답 판단: 옳은 문장은 ㉠, ㉢이다.\n선택지 분석:\n① [오답] ㉡는 옳은 문장이 아니고, 옳은 문장 ㉢를 빠뜨렸다. 따라서 오답이다.\n② [정답] 옳은 문장 ㉠, ㉢를 빠짐없이 골랐으므로 정답이다.\n③ [오답] ㉡는 옳은 문장이 아니고, 옳은 문장 ㉠를 빠뜨렸다. 따라서 오답이다.\n④ [오답] ㉡, ㉣는 옳은 문장이 아니고, 옳은 문장 ㉠, ㉢를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] ㉣는 옳은 문장이 아니고, 옳은 문장 ㉠를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "㉠ We are leaving for the airport in an hour.\n㉡ She is want a new bag for the trip.\n㉢ The dog is barking at the cat next door.\n㉣ Tom are working at his uncle's store today.",
+    "stem": "다음 중 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T12:28:44.808Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T12:28:44.808Z",
+      "what": "확인 완료"
+    }
+  }
+}

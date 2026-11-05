@@ -1,0 +1,178 @@
+{
+ "key": "5-26",
+ "type": "D",
+ "grade": 5,
+ "chapter": "CH 3 be동사와 일반동사 과거",
+ "title": "지난 일과 eat의 과거형",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 3 be동사와 일반동사 과거 · 26번 · D 유형\n\n이 문제는 지난 일에 맞는 eat의 알맞은 형태를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 3 be동사와 일반동사 과거 · 26번 · D 유형",
+     "이 문제는 지난 일에 맞는 eat의 알맞은 형태를 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 3, 26번 D 유형. 이 문제는 지난 일에 맞는 eat의 알맞은 형태를 고르는 문제예요.",
+   "caption": "지난 일에 맞는 eat의 형태"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 빈칸에 '우리는 정오에 점심을 먹었다'라는 의미가 되도록 알맞은 단어를 고르세요.\n\nWe ________ lunch at noon.\n\n① eat\n② ate\n③ eaten\n④ eating\n⑤ eats",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 '우리는 정오에 점심을 먹었다'라는 의미가 되도록 알맞은 단어를 고르세요.",
+     "We ________ lunch at noon.",
+     "① eat",
+     "② ate",
+     "③ eaten",
+     "④ eating",
+     "⑤ eats"
+    ]
+   },
+   "narration": "다음 빈칸에 ‘우리는 정오에 점심을 먹었다’라는 의미가 되도록 알맞은 단어를 고르세요. We 빈칸 lunch at noon. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\n지난 때에 한 일 (yesterday, last week …) → 동사의 과거형\n과거형: 보통 끝에 ed (play → played) · 불규칙 동사는 따로 외워요 (come → came)\ning형(eating), 과거분사(eaten)는 혼자서 동사 자리에 못 써요\n예) They drank milk last night. (그들은 어젯밤에 우유를 마셨어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "지난 때에 한 일 (yesterday, last week …) → 동사의 과거형",
+     "과거형: 보통 끝에 ed (play → played) · 불규칙 동사는 따로 외워요 (come → came)",
+     "ing형(eating), 과거분사(eaten)는 혼자서 동사 자리에 못 써요",
+     "예) They drank milk last night. (그들은 어젯밤에 우유를 마셨어요.)"
+    ]
+   },
+   "narration": "yesterday나 last week처럼 지난 때에 한 일은 동사의 과거형으로 써요. 과거형은 보통 동사 끝에 ed를 붙여 play를 played로 쓰지만, come과 came처럼 모양이 따로 있는 불규칙 동사도 있어요. eating 같은 ing형이나 eaten 같은 과거분사는 혼자서 동사 자리에 쓸 수 없어요. 예를 들어 They drank milk last night. 그들은 어젯밤에 우유를 마셨어요.",
+   "caption": "지난 일은 과거형으로"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 빈칸에 '우리는 정오에 점심을 먹었다'라는 의미가 되도록 알맞은 단어를 고르세요.\n\nWe ________ lunch at noon.\n\n① eat\n② ate\n③ eaten\n④ eating\n⑤ eats",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "먹었다"
+      ],
+      "strike": [
+       "① eat",
+       "⑤ eats"
+      ],
+      "note": "때를 나타내는 말은 없음 → 우리말 ‘먹었다’로 지난 일임을 안다 → 과거형. 현재형 eat, eats 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "We ________"
+      ],
+      "strike": [
+       "③ eaten",
+       "④ eating"
+      ],
+      "note": "빈칸 = 주어 We 바로 뒤 동사 자리. eating, eaten은 혼자서 못 씀 → 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② ate"
+      ],
+      "strike": [],
+      "note": "eat의 과거형 ate → We ate lunch at noon."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장에 yesterday 같은 말은 없지만, 우리말 먹었다를 보면 지난 일이라서 현재형 eat과 eats는 지워요. 둘째, 빈칸은 주어 We 바로 뒤의 동사 자리라서, 혼자서 이 자리를 채울 수 없는 ing형 eating과 과거분사 eaten도 지워요. 셋째, 남는 것은 eat의 과거형 ate예요. We ate lunch at noon. 우리는 정오에 점심을 먹었어요.",
+   "caption": "‘먹었다’ → 동사 자리 → ate"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① eat  ✗  현재형이라 ‘먹는다’가 돼요\n② ate  ✓  eat의 과거형 → ‘먹었다’\n③ eaten  ✗  과거분사라 혼자서 동사 자리에 못 써요\n④ eating  ✗  ing형만으로는 동사 자리를 못 채워요\n⑤ eats  ✗  현재형이고 주어 We와도 맞지 않아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① eat  ✗  현재형이라 ‘먹는다’가 돼요",
+     "② ate  ✓  eat의 과거형 → ‘먹었다’",
+     "③ eaten  ✗  과거분사라 혼자서 동사 자리에 못 써요",
+     "④ eating  ✗  ing형만으로는 동사 자리를 못 채워요",
+     "⑤ eats  ✗  현재형이고 주어 We와도 맞지 않아요"
+    ]
+   },
+   "narration": "정답은 2번 ate예요. 1번 eat을 넣으면 We eat lunch at noon. 우리는 정오에 점심을 먹는다라는 뜻이 되어 ‘먹었다’와 맞지 않아요. 3번 eaten은 과거분사라서 혼자서는 동사 자리에 쓸 수 없어요. 5번 eats는 현재형이고 주어 We와도 맞지 않아요.",
+   "caption": "정답 ② ate"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ② ate\n\n지난 때에 한 일 → 동사의 과거형 (eat → ate)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② ate",
+     "지난 때에 한 일 → 동사의 과거형 (eat → ate)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 지난 때에 한 일은 동사의 과거형으로 쓰고, eat의 과거형은 ate예요.",
+   "caption": "지난 일 → 동사의 과거형"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 '우리는 정오에 점심을 먹었다'라는 의미가 되도록 알맞은 단어를 고르세요.",
+  "passage": "We ________ lunch at noon.",
+  "c": [
+   "eat",
+   "ate",
+   "eaten",
+   "eating",
+   "eats"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: ‘~했다’는 과거의 일이므로 동사의 과거형을 쓴다. 현재형은 지금의 습관·사실을, -ing형과 과거분사는 혼자서 동사 자리에 쓰지 못한다.\n풀이 순서: ① 우리말과 때를 나타내는 말을 본다: ‘과거형’을 넣으라는 발문. 과거의 일이다. → ② 동사의 과거형을 쓴다: eat - ate. → ③ 정답은 ate.\n문장별 판정:\n정답 판단: eat의 과거형으로 ‘먹었다’는 뜻이 되므로 정답은 ②이다.\n선택지 분석:\n① [오답] 현재형이라 ‘먹었다’는 과거의 뜻이 되지 않으므로 오답이다.\n② [정답] eat의 과거형으로 ‘먹었다’는 뜻이 되므로 정답이다.\n③ [오답] 과거분사만으로는 동사 자리에 쓸 수 없으므로 오답이다.\n④ [오답] -ing형만으로는 동사 자리에 쓸 수 없으므로 오답이다.\n⑤ [오답] 3인칭 단수 현재형이라 주어 We와 맞지 않고 과거의 뜻도 아니므로 오답이다."
+ }
+}

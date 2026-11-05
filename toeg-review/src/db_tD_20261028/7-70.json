@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T03:52:24.610Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": "ⓒ, ⓓ, ⓔ",
+      "4": null
+    },
+    "expl": "핵심 규칙: 주어가 3인칭 단수면 doesn't, I·you·we·they와 복수 주어면 don't를 쓰고, 그 뒤에는 동사원형을 쓴다.\n풀이 순서: ① 문장마다 주어와 don't/doesn't가 맞는지 본다(3인칭 단수 → doesn't). → ② 그 뒤의 동사가 원형인지 본다. ⓐ We + doesn't(X), ⓑ Jane + don't(X), ⓒ O, ⓓ O, ⓔ O. → ③ 올바른 것만 모으면 ⓒ, ⓓ, ⓔ이다.\n문장별 판정:\nⓐ X. 주어 We에는 don't를 써야 한다.\nⓑ X. 3인칭 단수 주어 Jane에는 doesn't를 써야 한다.\nⓒ O. 3인칭 단수 주어 He에 doesn't를 썼다.\nⓓ O. 주어 They에 don't를 썼다.\nⓔ O. 주어 I에 don't를 썼다.\n정답 판단: 옳은 문장은 ⓒ, ⓓ, ⓔ이다.\n선택지 분석:\n① [오답] ⓑ는 옳은 문장이 아니고, 옳은 문장 ⓓ를 빠뜨렸다. 따라서 오답이다.\n② [오답] ⓐ는 옳은 문장이 아니고, 옳은 문장 ⓒ, ⓔ를 빠뜨렸다. 따라서 오답이다.\n③ [오답] ⓐ, ⓑ는 옳은 문장이 아니고, 옳은 문장 ⓓ, ⓔ를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 ⓒ, ⓓ, ⓔ를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] ⓑ는 옳은 문장이 아니고, 옳은 문장 ⓒ, ⓔ를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "ⓐ We doesn't play soccer.\nⓑ Jane don't study.\nⓒ He doesn't like milk.\nⓓ They don't read books.\nⓔ I don't need help.",
+    "stem": "다음 중 어법상 올바른 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T03:52:22.990Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:52:24.610Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:33:32.718Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "darken",
+      "1": "darkness",
+      "2": "dark",
+      "3": "the darker",
+      "4": "most dark than"
+    },
+    "expl": "핵심 규칙: become, look, smell, seem, feel 뒤에서 주어의 상태를 설명하는 보어 자리에는 부사가 아니라 형용사를 쓴다.\n풀이 순서: ① 밑줄 앞의 동사를 본다: became. 뒤에 주어의 상태를 설명하는 보어가 온다. → ② 보어 자리에는 부사(darkly)가 아니라 형용사를 쓴다. → ③ 정답은 dark.\n문장별 판정:\n정답 판단: become 뒤 보어 자리에는 형용사를 쓰므로 darkly를 dark로 고친다. 정답은 ③이다.\n선택지 분석:\n① [오답] darken은 ‘어두워지다’라는 동사라 became 뒤 보어 자리에 쓸 수 없으므로 오답이다.\n② [오답] 명사 darkness로는 하늘의 상태를 설명하지 못해 뜻이 맞지 않으므로 오답이다.\n③ [정답] become 뒤 보어 자리에 형용사 dark를 바르게 썼으므로 정답이다.\n④ [오답] 비교할 대상이 없는데 the + 비교급을 썼으므로 오답이다.\n⑤ [오답] 최상급과 than을 섞어 쓸 수 없으므로 오답이다.",
+    "passage": "The sky became <u>darkly</u> before the storm.",
+    "stem": "다음 문장에서 밑줄 친 부분을 바르게 고친 것을 고르시오."
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:21:40.783Z",
+      "text": "darkly를 고쳐야 하는데, 선택지에 darkly가 있으니 어색함."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:33:32.718Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:33:30.885Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:33:32.718Z",
+      "what": "확인 완료"
+    }
+  }
+}

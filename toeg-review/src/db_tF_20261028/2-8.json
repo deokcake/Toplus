@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:32:12.066Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "The room remained <u>quiet</u> during the test.",
+      "1": "She spoke <u>calmly</u> to the angry customer.",
+      "2": "They agreed <u>to help</u> their new neighbor.",
+      "3": "My uncle seems <u>busy</u> with his work these days.",
+      "4": "I considered the plan <u>risky</u> for our small team."
+    },
+    "expl": "핵심 규칙: 목적격 보어는 목적어의 상태를 설명하는 말이다(make/keep/find/leave/paint/consider + 목적어 + 형용사). 주어를 설명하는 주격 보어, 동사를 꾸미는 부사, 동사의 목적어인 to부정사와 구별한다.\n풀이 순서: ① <보기>의 밑줄(open)은 목적어(the classroom door) 뒤에서 그 상태를 설명하는 목적격 보어다. → ② 보기마다 밑줄이 무엇을 설명하는지 본다. 주어를 설명하면 주격 보어, 동사를 꾸미면 부사, 동사 뒤 to부정사는 목적어다. → ③ 선택지 ⑤의 밑줄(risky)만 목적어(the plan)를 설명한다.\n문장별 판정:\n정답 판단: <보기>의 open과 ⑤의 risky는 모두 목적어(the classroom door, the plan)의 상태를 설명하는 목적격 보어이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] remained 뒤에서 주어 The room의 상태를 설명하는 주격 보어라 <보기>와 다르므로 오답이다.\n② [오답] 동사 spoke를 꾸미는 부사라 <보기>와 다르므로 오답이다.\n③ [오답] 동사 agreed의 목적어인 to부정사라 <보기>와 다르므로 오답이다.\n④ [오답] seems 뒤에서 주어 My uncle의 상태를 설명하는 주격 보어라 <보기>와 다르므로 오답이다.\n⑤ [정답] 목적어 the plan의 상태를 설명하는 목적격 보어라 <보기>와 같으므로 정답이다.",
+    "passage": "<보기>\nThey left the classroom door <u>open</u> all night.",
+    "stem": "다음 중 밑줄 친 부분의 쓰임이 <보기>와 같은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T09:05:38.474Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T09:06:01.507Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:32:12.066Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:32:10.491Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:32:12.066Z",
+      "what": "확인 완료"
+    }
+  }
+}

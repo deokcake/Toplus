@@ -1,0 +1,177 @@
+{
+ "key": "4-24",
+ "type": "A",
+ "grade": 4,
+ "chapter": "CH 3 be동사와 일반동사",
+ "title": "대답 No, they don't에 맞는 질문",
+ "total_sec": 134,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "4급 · CH 3 be동사와 일반동사 · 24번\n\n이 문제는 대답 No, they don't와 짝이 맞는 질문을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 3 be동사와 일반동사 · 24번",
+     "이 문제는 대답 No, they don't와 짝이 맞는 질문을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 3, 24번. 이 문제는 대답 No, they don't와 짝이 맞는 질문을 고르는 문제예요.",
+   "caption": "No, they don't에 맞는 질문"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 17,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말을 고르시오.\n\nA: _____________________\nB: No, they don't.\n\n① Are these at home?\n② Do your cousins live in New Zealand?\n③ Does Jane do her homework?\n④ Is he a teacher?\n⑤ Are you busy?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 말을 고르시오.",
+     "A: _____________________",
+     "B: No, they don't.",
+     "① Are these at home?",
+     "② Do your cousins live in New Zealand?",
+     "③ Does Jane do her homework?",
+     "④ Is he a teacher?",
+     "⑤ Are you busy?"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 말을 고르세요. 대답은 No, they don't예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 35,
+   "screen": {
+    "text": "핵심 규칙\nYes, No로 짧게 답할 때는 질문을 시작한 말에 맞춰요.\nDo → do, don't      Does → does, doesn't\nbe동사 → be동사      Did → did      Can → can\n대답의 주어는 질문의 주어를 가리키는 대명사 (you → I, your friends → they)\n예) Do your friends like pizza? — Yes, they do. (네 친구들은 피자를 좋아하니? 응, 좋아해.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "Yes, No로 짧게 답할 때는 질문을 시작한 말에 맞춰요.",
+     "Do → do, don't      Does → does, doesn't",
+     "be동사 → be동사      Did → did      Can → can",
+     "대답의 주어는 질문의 주어를 가리키는 대명사 (you → I, your friends → they)",
+     "예) Do your friends like pizza? — Yes, they do. (네 친구들은 피자를 좋아하니? 응, 좋아해.)"
+    ]
+   },
+   "narration": "Yes나 No로 짧게 답할 때는 질문을 시작한 말에 맞춰요. Do로 물으면 do나 don't, Does로 물으면 does나 doesn't로 답해요. be동사로 물으면 be동사, Did는 did, Can은 can으로 답해요. 대답의 주어는 질문의 주어를 가리키는 대명사로 써요. 예를 들어 Do your friends like pizza? 네 친구들은 피자를 좋아하니, 하고 물으면 Yes, they do, 응, 좋아해, 하고 답해요.",
+   "caption": "질문을 시작한 말에 맞춰 답해요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말을 고르시오.\n\nA: _____________________\nB: No, they don't.\n\n① Are these at home?\n② Do your cousins live in New Zealand?\n③ Does Jane do her homework?\n④ Is he a teacher?\n⑤ Are you busy?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "B: No, they don't."
+      ],
+      "strike": [],
+      "note": "대답의 주어 they, don't = do + not"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① Are these at home?",
+       "③ Does Jane do her homework?",
+       "④ Is he a teacher?",
+       "⑤ Are you busy?"
+      ],
+      "note": "질문은 Do로 시작, 주어는 they로 받을 여러 명 → be동사 질문 ①④⑤, Does 질문 ③은 지운다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② Do your cousins live in New Zealand?"
+      ],
+      "strike": [],
+      "note": "Do + your cousins(→ they) → No, they don't."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 대답에서 주어 they와, do에 not이 붙은 don't를 찾아요. 둘째, 따라서 질문은 Do로 시작하고 주어는 they로 받을 수 있는 여러 명이어야 하니, be동사로 묻는 1번, 4번, 5번과 Does로 묻는 3번을 지워요. 셋째, 남는 2번은 Do로 묻고 your cousins를 they로 받아요. Do your cousins live in New Zealand? 네 사촌들은 뉴질랜드에 사니? No, they don't, 아니, 안 살아.",
+   "caption": "don't → Do, they → 여러 명"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① Are these at home?  ✗  be동사 Are로 물었으니 No, they aren't.\n② Do your cousins live in New Zealand?  ✓  Do + your cousins(→ they) → No, they don't.\n③ Does Jane do her homework?  ✗  Does + Jane(→ she) → No, she doesn't.\n④ Is he a teacher?  ✗  be동사 Is로 물었으니 No, he isn't.\n⑤ Are you busy?  ✗  be동사 Are + you → No, I'm not.",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Are these at home?  ✗  be동사 Are로 물었으니 No, they aren't.",
+     "② Do your cousins live in New Zealand?  ✓  Do + your cousins(→ they) → No, they don't.",
+     "③ Does Jane do her homework?  ✗  Does + Jane(→ she) → No, she doesn't.",
+     "④ Is he a teacher?  ✗  be동사 Is로 물었으니 No, he isn't.",
+     "⑤ Are you busy?  ✗  be동사 Are + you → No, I'm not."
+    ]
+   },
+   "narration": "정답은 2번이에요. 1번은 주어를 they로 받지만, be동사 Are로 물었으니 No, they aren't로 답해요. 3번은 Does로 물었고 Jane은 she로 받으니, No, she doesn't로 답해요.",
+   "caption": "정답 ② Do your cousins"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ② Do your cousins live in New Zealand?\n\nDo로 물으면 do, don't로 · 주어는 질문의 주어를 가리키는 대명사로",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② Do your cousins live in New Zealand?",
+     "Do로 물으면 do, don't로 · 주어는 질문의 주어를 가리키는 대명사로"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, Do로 물으면 do나 don't로 답하고, 주어는 질문의 주어를 가리키는 대명사로 써요.",
+   "caption": "Do → do, don't"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 말을 고르시오.",
+  "passage": "A: _____________________\nB: No, they don't.",
+  "c": [
+   "Are these at home?",
+   "Do your cousins live in New Zealand?",
+   "Does Jane do her homework?",
+   "Is he a teacher?",
+   "Are you busy?"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 대답의 주어와 조동사가 질문과 맞아야 한다. No, they don't.는 Do + 복수 주어 + 일반동사 ~?에 대한 대답이다.\n풀이 순서: ① 대답에서 두 가지를 읽는다: 주어(they), 조동사(don't). → ② 질문은 같은 조동사로 시작하고, 주어는 대답의 대명사로 받을 수 있는 말이어야 한다. → ③ Do + 복수 주어(your cousins)로 시작하는 질문만 맞다. 정답은 ②.\n문장별 판정:\n정답 판단: 복수 주어 your cousins를 they로 받고 Do로 물어 don't로 답하므로 정답은 ②이다.\n선택지 분석:\n① [오답] Are로 물으면 they aren't로 답하므로 오답이다.\n② [정답] 복수 주어 your cousins를 they로 받고 Do로 물어 don't로 답하므로 정답이다.\n③ [오답] Jane은 she로 받고 doesn't로 답하므로 오답이다.\n④ [오답] Is로 물으면 he isn't로 답하므로 오답이다.\n⑤ [오답] Are you로 물으면 I'm not으로 답하므로 오답이다."
+ }
+}

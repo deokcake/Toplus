@@ -1,0 +1,41 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-22T06:32:04.564Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "is",
+      "1": "cooking",
+      "2": "dinner",
+      "3": "in",
+      "4": "the kitchen"
+    },
+    "expl": "핵심 규칙: 현재진행형은 주어 + am/is/are + 동사원형-ing로 쓴다. I에는 am, 3인칭 단수에는 is, you와 복수 주어에는 are를 쓴다.\n풀이 순서: ① 주어를 본다: My parents(복수). → ② be동사와 그 뒤의 동사 형태를 차례로 확인한다. 복수 주어에 is를 썼다. are여야 한다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: 복수 주어 My parents에는 is가 아니라 are를 써야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] 복수 주어 My parents에는 is가 아니라 are를 써야 하므로 정답이다.\n② [오답] be동사 뒤에 -ing형 cooking을 바르게 썼으므로 오답이다.\n③ [오답] cooking의 목적어 dinner를 바르게 썼으므로 오답이다.\n④ [오답] 부엌 안을 나타내는 전치사 in을 바르게 썼으므로 오답이다.\n⑤ [오답] 서로 아는 특정한 부엌이라 the kitchen을 바르게 썼으므로 오답이다.",
+    "passage": "My parents ①<u>is</u> ②<u>cooking</u> ③<u>dinner</u> ④<u>in</u> ⑤<u>the kitchen</u>.",
+    "stem": "다음 문장에서 밑줄 친 부분 중 어법상 틀린 것은?"
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T06:32:00.729Z",
+      "text": "보기1번 동사 단수,복수형을 묻는 문제로 바꿔 기준문항과 같은 개념을 묻는 변형문제를 만들어야하는거 명심해줘"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:13:18.277Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T04:13:18.277Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T06:32:04.564Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:13:18.277Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

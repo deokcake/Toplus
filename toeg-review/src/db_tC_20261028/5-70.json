@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T02:41:02.210Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "'four dollar'만 'four dollars'로 고치면 된다.",
+      "1": "'thirty cent'만 'thirty cents'로 고치면 된다.",
+      "2": "'four dollar and thirty cent'는 'four dollars and thirty cents'로 둘 다 고쳐야 한다.",
+      "3": "'thirty'는 큰 수이므로 'thirties'로 고치고 cent는 그대로 둔다.",
+      "4": "'pen'은 셀 수 있는 명사이므로 'a pen'을 'pens'로 고쳐야 한다."
+    },
+    "expl": "핵심 규칙: 금액은 1이면 단수(one dollar, one cent), 2 이상이면 복수(two dollars, fifty cents)로 쓴다. 달러와 센트 사이에는 and를 쓸 수 있다.\n풀이 순서: ① 밑줄 친 부분을 수와 단위로 나눈다: four + dollar / thirty + cent. → ② 수가 1이면 단수, 2 이상이면 복수인지 하나씩 본다. four dollar → four dollars, thirty cent → thirty cents. → ③ 발문이 ‘모두’ 찾으라고 했으므로 틀린 곳을 빠짐없이 고친 것을 고른다. 정답은 ③.\n문장별 판정:\n정답 판단: 4달러와 30센트는 모두 복수라 두 군데를 모두 바르게 고쳤으므로 정답은 ③이다.\n선택지 분석:\n① [오답] thirty cent도 30센트라 thirty cents로 고쳐야 하므로 오답이다.\n② [오답] four dollar도 4달러라 four dollars로 고쳐야 하므로 오답이다.\n③ [정답] 4달러와 30센트는 모두 복수라 두 군데를 모두 바르게 고쳤으므로 정답이다.\n④ [오답] 수를 나타내는 thirty에는 -s를 붙이지 않고, 복수형이 되어야 할 것은 cent이므로 오답이다.\n⑤ [오답] 펜 한 자루를 사는 것이라 a pen이 맞고, 밑줄 친 부분과도 관계없으므로 오답이다.",
+    "passage": "Minho goes to the shop. He buys a pen. The pen is <u>four dollar and thirty cent</u>. He puts it in his bag.",
+    "stem": "다음 지문에서 밑줄 친 부분의 어법상 틀린 점을 모두 찾아 바르게 고쳐 설명한 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:40:59.774Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-22T02:41:02.210Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:41:02.210Z",
+      "what": "확인 완료"
+    }
+  }
+}

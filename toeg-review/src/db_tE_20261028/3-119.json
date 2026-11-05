@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-26T04:58:59.752Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "It's right on the old kitchen chair.",
+      "1": "It's right next to the old kitchen chair.",
+      "2": "It's right under the old kitchen chair.",
+      "3": "It's right under of the old kitchen chair.",
+      "4": "It's right behind the old kitchen chair."
+    },
+    "expl": "핵심 규칙: 장소는 It is + 장소 표현으로 나타낸다. behind는 뒤, next to는 옆, across from은 맞은편, under는 아래, in front of는 앞이다.\n풀이 순서: ① 우리말에서 위치를 나타내는 말을 찾는다: ‘의자 아래에’. → ② 영어 표현을 떠올린다: under the chair(관사를 빠뜨리지 않는다). → ③ 정답은 ③.\n문장별 판정:\n정답 판단: ‘아래에’를 under로 바르게 옮겼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] on은 ‘위’라 뜻이 맞지 않으므로 오답이다.\n② [오답] next to는 ‘옆’이라 뜻이 맞지 않으므로 오답이다.\n③ [정답] ‘아래에’를 under로 바르게 옮겼으므로 정답이다.\n④ [오답] under 뒤에는 of를 쓰지 않으므로 오답이다.\n⑤ [오답] behind는 ‘뒤’라 뜻이 맞지 않으므로 오답이다.",
+    "passage": "A: Mom, where is my school bag?\nB: <u>그것은 낡은 부엌 의자 바로 아래에 있어</u>.\nA: Oh, I see it. Thank you.",
+    "stem": "다음 밑줄 친 우리말 문장을 올바르게 영작한 것을 고르시오."
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T04:58:59.752Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:58:59.752Z",
+      "what": "확인 완료"
+    }
+  }
+}

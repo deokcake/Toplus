@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T09:44:02.130Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Is this your eraser?",
+      "1": null,
+      "2": "Is she your sister?",
+      "3": "Are you ready?",
+      "4": "Is that a cloud?"
+    },
+    "expl": "핵심 규칙: 대답의 주어가 they이면 질문은 여러 개(these/those/복수 명사)를 물은 것이다. this/that/it(한 개)은 it으로, you는 I/we로, she는 she로 받는다.\n풀이 순서: ① 대답을 본다: No, they're not. 주어가 they다. → ② they로 받을 수 있는 것은 these/those로 물은 여러 개뿐이다. this/that/it이나 you, she로 물은 질문을 지운다. → ③ 남는 것은 Are these my pencils?\n문장별 판정:\n정답 판단: these를 they로 받아 대답할 수 있으므로 정답은 ②이다.\n선택지 분석:\n① [오답] this·that으로 한 개를 물으면 대답에서 it으로 받으므로 오답이다.\n② [정답] these를 they로 받아 대답할 수 있으므로 정답이다.\n③ [오답] she에 대한 질문에는 she로 답하므로 오답이다.\n④ [오답] you에 대한 질문에는 I나 we로 답하므로 오답이다.\n⑤ [오답] this·that으로 한 개를 물으면 대답에서 it으로 받으므로 오답이다.",
+    "passage": "A: _______________________\nB: No, they're not.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:43:59.786Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:44:02.130Z",
+      "what": "확인 완료"
+    }
+  }
+}

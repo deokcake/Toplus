@@ -1,0 +1,188 @@
+{
+ "key": "5-25",
+ "type": "B",
+ "grade": 5,
+ "chapter": "CH 3 be동사와 일반동사 과거",
+ "title": "일반동사와 be동사의 과거형",
+ "total_sec": 129,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "5급 · CH 3 be동사와 일반동사 과거 · 25번 · B 유형\n\n이 문제는 일반동사와 be동사의 과거형을 바르게 쓴 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 3 be동사와 일반동사 과거 · 25번 · B 유형",
+     "이 문제는 일반동사와 be동사의 과거형을 바르게 쓴 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 3, 25번 B 유형. 이 문제는 일반동사와 be동사의 과거형을 바르게 쓴 문장을 고르는 문제예요.",
+   "caption": "일반동사·be동사의 과거형"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 18,
+   "screen": {
+    "text": "다음 중 옳은 문장을 고르시오.\n\n① Tom did not went to practice.\n② Jane buyed a red scarf yesterday.\n③ I writed an email last night.\n④ We took the wrong bus after school.\n⑤ The children was excited about the trip.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 옳은 문장을 고르시오.",
+     "① Tom did not went to practice.",
+     "② Jane buyed a red scarf yesterday.",
+     "③ I writed an email last night.",
+     "④ We took the wrong bus after school.",
+     "⑤ The children was excited about the trip."
+    ]
+   },
+   "narration": "다음 중 옳은 문장을 고르세요. 다섯 문장 가운데 문법에 맞는 문장 하나를 찾아야 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\ndid not(didn't) 뒤 → 동사원형\ndid가 없는 과거 긍정문 → 동사의 과거형 (대부분 + ed)\n불규칙 동사는 정해진 과거형 (go → went, run → ran)\nbe동사 과거형: I, 3인칭 단수 → was · you, 복수 → were\n예) We were late, so we ran. (우리는 늦어서 달렸어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "did not(didn't) 뒤 → 동사원형",
+     "did가 없는 과거 긍정문 → 동사의 과거형 (대부분 + ed)",
+     "불규칙 동사는 정해진 과거형 (go → went, run → ran)",
+     "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+     "예) We were late, so we ran. (우리는 늦어서 달렸어요.)"
+    ]
+   },
+   "narration": "did not이나 didn't 뒤에는 동사원형을 써요. did가 없는 과거 긍정문에서는 동사를 과거형으로 써요. 대부분 ed를 붙이지만, go와 went처럼 과거형이 정해진 불규칙 동사도 있어요. be동사의 과거형은 I나 3인칭 단수 주어에는 was, you나 복수 주어에는 were예요. We were late, so we ran. 우리는 늦어서 달렸어요.",
+   "caption": "과거형과 was, were"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 중 옳은 문장을 고르시오.\n\n① Tom did not went to practice.\n② Jane buyed a red scarf yesterday.\n③ I writed an email last night.\n④ We took the wrong bus after school.\n⑤ The children was excited about the trip.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "did not went"
+      ],
+      "strike": [
+       "① Tom did not went to practice."
+      ],
+      "note": "① did not 뒤에 과거형 went → 동사원형 go여야 함. 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "buyed",
+       "writed"
+      ],
+      "strike": [
+       "② Jane buyed a red scarf yesterday.",
+       "③ I writed an email last night."
+      ],
+      "note": "② buyed, ③ writed → 불규칙 동사의 과거형은 bought, wrote. 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "The children was"
+      ],
+      "strike": [
+       "⑤ The children was excited about the trip."
+      ],
+      "note": "⑤ The children = 복수 주어 → was가 아니라 were. 지움"
+     },
+     {
+      "step": 4,
+      "highlight": [
+       "④ We took the wrong bus after school."
+      ],
+      "strike": [],
+      "note": "④ took = take의 과거형 ✓"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 1번은 did not 뒤라서 went가 아니라 동사원형 go를 써야 해요. 둘째, 2번과 3번은 ed를 붙였지만, buy와 write는 불규칙 동사라 과거형이 bought와 wrote예요. 셋째, 5번 children은 child의 복수형이라 was가 아니라 were를 써요. 넷째, 남은 4번은 take의 과거형 took을 바르게 썼어요. We took the wrong bus after school. 우리는 방과 후에 버스를 잘못 탔어요.",
+   "caption": "did not · 불규칙 · were 확인"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 22,
+   "screen": {
+    "text": "① Tom did not went to practice.  ✗  did not 뒤에는 went가 아닌 동사원형 go\n② Jane buyed a red scarf yesterday.  ✗  buy의 과거형은 bought\n③ I writed an email last night.  ✗  write의 과거형은 wrote\n④ We took the wrong bus after school.  ✓  take의 과거형 took\n⑤ The children was excited about the trip.  ✗  복수 주어 The children에는 were",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Tom did not went to practice.  ✗  did not 뒤에는 went가 아닌 동사원형 go",
+     "② Jane buyed a red scarf yesterday.  ✗  buy의 과거형은 bought",
+     "③ I writed an email last night.  ✗  write의 과거형은 wrote",
+     "④ We took the wrong bus after school.  ✓  take의 과거형 took",
+     "⑤ The children was excited about the trip.  ✗  복수 주어 The children에는 were"
+    ]
+   },
+   "narration": "정답은 4번이에요. 2번은 ed를 붙이는 규칙만 떠올리면 맞아 보이지만, buy의 과거형은 bought예요. 1번은 지난 일이라 went가 맞아 보여도, did not 뒤에는 go를 써요. 5번 The children은 여러 명이니 were를 써야 해요.",
+   "caption": "정답 ④ We took the wrong bus …"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ④ We took the wrong bus after school.\n\ndid not + 동사원형 · 불규칙 동사는 정해진 과거형 · be동사 과거형: 복수 주어 → were",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ We took the wrong bus after school.",
+     "did not + 동사원형 · 불규칙 동사는 정해진 과거형 · be동사 과거형: 복수 주어 → were"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, did not 뒤는 동사원형, 불규칙 동사는 정해진 과거형, 복수 주어면 was 대신 were예요.",
+   "caption": "did not + 원형 · 복수 주어엔 were"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Tom did not went to practice.",
+   "Jane buyed a red scarf yesterday.",
+   "I writed an email last night.",
+   "We took the wrong bus after school.",
+   "The children was excited about the trip."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: Did, didn't, Does 뒤에는 동사원형을 쓴다. 과거의 일은 긍정문에서만 동사의 과거형으로 나타낸다.\n풀이 순서: ① Did, didn't, Does가 있는 문장은 뒤의 동사가 원형인지 본다. → ② 조동사가 없는 문장은 과거형이 바른지 본다. → ③ 선택지 ④만 take의 과거형 took을 바르게 썼다. 정답은 ④.\n문장별 판정:\n정답 판단: We took the wrong bus after school. — 과거형 또는 과거 구문이 문법적으로 올바르게 쓰였다. 특히 조동사 did가 없는 긍정문에서는 알맞은 과거형을 그대로 사용할 수 있다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] Tom did not went to practice. — did/didn't 뒤에는 과거형이 아니라 동사원형을 써야 한다. 따라서 옳은 문장이 아니다.\n② [오답] Jane buyed a red scarf yesterday. — 불규칙 동사의 과거형을 -ed로 잘못 만들었다. 따라서 옳은 문장이 아니다.\n③ [오답] I writed an email last night. — 불규칙 동사의 과거형을 -ed로 잘못 만들었다. 따라서 옳은 문장이 아니다.\n④ [정답] We took the wrong bus after school. — 과거형 또는 과거 구문이 문법적으로 올바르게 쓰였다. 특히 조동사 did가 없는 긍정문에서는 알맞은 과거형을 그대로 사용할 수 있다. 따라서 정답이다.\n⑤ [오답] The children was excited about the trip. — 복수 주어에는 과거 be동사 were가 필요하다. 따라서 옳은 문장이 아니다."
+ }
+}

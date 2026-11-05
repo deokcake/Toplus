@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-24T01:06:05.440Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "The man <u>fixing</u> the roof is my uncle.",
+      "1": "I like the song <u>played</u> on the radio.",
+      "2": "There are <u>fallen</u> leaves on the ground.",
+      "3": "The boy <u>running</u> fast is my brother.",
+      "4": "The window <u>breaking</u> in the storm was replaced."
+    },
+    "expl": "핵심 규칙: 명사가 직접 하는 동작은 현재분사로, 동작을 받거나 그 결과 상태에 있는 명사는 과거분사로 꾸민다.\n풀이 순서: ① 밑줄 친 분사가 꾸미는 명사를 찾아 ‘명사가 ~하다’(능동)인지 ‘명사가 ~되다’(수동)인지 본다. → ② 능동이면 -ing, 수동이면 과거분사다. by ~, 과거 시점 표현은 수동의 단서다. → ③ 선택지 ⑤가 어색하다: 창문은 깨‘진’ 것이므로 broken이 맞다.\n문장별 판정:\n정답 판단: 창문은 깨진 대상이라 수동의 과거분사 broken을 써야 한다. 어색한 부분이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 현재분사: 명사(The man)가 직접 지붕을 고치는 능동 관계라 알맞으므로 오답이다.\n② [오답] 과거분사: 명사(the song)가 틀어진 수동 관계라 알맞으므로 오답이다.\n③ [오답] 과거분사: 이미 떨어진(완료) 상태의 잎을 꾸며 알맞으므로 오답이다.\n④ [오답] 현재분사: 명사(The boy)가 직접 달리는 능동 관계라 알맞으므로 오답이다.\n⑤ [정답] 창문은 깨진 대상이라 수동의 과거분사 broken을 써야 한다. 어색한 부분이므로 정답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T01:05:50.224Z"
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-24T01:06:05.440Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:06:05.440Z",
+      "what": "확인 완료"
+    }
+  }
+}

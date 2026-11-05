@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-20T07:44:22.637Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "We need salts.",
+      "1": "We need two salts.",
+      "2": "We need salt.",
+      "3": "We need a salts.",
+      "4": "We need an salt."
+    },
+    "expl": "핵심 규칙: 셀 수 없는 명사는 a/an을 붙이지 않고 복수형으로도 쓰지 않는다. 일반적으로 말할 때는 명사만 쓴다(I like milk.).\n풀이 순서: ① 목적어(salt)는 셀 수 없는 명사다. → ② a/an이 붙은 문장과 -s가 붙은 문장을 모두 지운다. → ③ 명사만 쓴 문장은 ③.\n문장별 판정:\n정답 판단: 셀 수 없는 명사 salt를 a/an이나 복수형 없이 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 셀 수 없는 명사 salt는 복수형으로 쓰지 않으므로 오답이다.\n② [오답] 셀 수 없는 명사 salt는 복수형으로 쓰지 않으므로 오답이다.\n③ [정답] 셀 수 없는 명사 salt를 a/an이나 복수형 없이 바르게 썼으므로 정답이다.\n④ [오답] 셀 수 없는 명사 앞에 a를 쓰지 않고 복수형으로도 쓰지 않으므로 오답이다.\n⑤ [오답] 셀 수 없는 명사 salt 앞에는 an을 쓰지 않으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 문법적으로 가장 자연스러운 문장을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-20T07:44:21.497Z"
+  },
+  "tab": "n2uhrol0",
+  "updatedAt": "2026-10-20T07:44:22.637Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-20T07:44:22.637Z",
+      "what": "확인 완료"
+    }
+  }
+}

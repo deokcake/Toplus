@@ -1,0 +1,245 @@
+{
+ "key": "1-100",
+ "grade": 1,
+ "chapter": "CH 10 가정법",
+ "items": {
+  "A": {
+   "stem": "다음 <조건>을 모두 만족하는 문장으로 가장 적절한 것은?",
+   "passage": "<조건>\n\"그의 용기가 없었더라면, 그는 그 아이를 구하지 못했을 것이다.\"라는 의미일 것.\n접속사 'If'를 생략한 도치 구문일 것.\n축약형을 사용하지 않을 것.",
+   "c": [
+    "Were it not for his courage, he could not save the child.",
+    "Had he not have courage, he would not have saved the child.",
+    "Had it not been for his courage, he could not have saved the child.",
+    "If it had not been for his courage, he could not have saved the child.",
+    "Had it not been for his courage, he could not save the child."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: If it had not been for ~(~이 없었더라면)에서 if를 생략하면 Had it not been for ~로 도치한다. 과거 사실의 반대이므로 주절은 would/could have + 과거분사이다.\n풀이 순서: ① 조건을 형태로 바꾼다. ‘~이 없었더라면’은 If it had not been for ~이고, If를 생략하면 Had it not been for ~가 된다. → ② 우리말의 주절(‘구하지 못했을 것이다’)은 과거 사실의 반대이므로 would/could have + 과거분사(could not have saved)여야 한다. → ③ If나 Without으로 시작하는 보기, 도치 어순이나 주절의 형태가 틀린 보기를 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: Had it not been for로 도치하고 주절에 could not have saved를 써서 세 조건을 모두 만족하므로 정답은 ③이다.\n선택지 분석:\n① [오답] Were it not for ~, could not save는 현재 사실의 반대라 ‘구하지 못했을 것이다’와 시제가 맞지 않으므로 오답이다.\n② [오답] Had he not have courage는 틀린 형태이므로 오답이다.\n③ [정답] Had it not been for로 도치하고 주절에 could not have saved를 써서 세 조건을 모두 만족하므로 정답이다.\n④ [오답] If를 생략하지 않았으므로 오답이다.\n⑤ [오답] 주절이 could not save라 과거 사실의 반대를 나타내지 못하므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 <조건>을 모두 만족하는 문장으로 가장 적절한 것은?",
+   "passage": "<조건>\n\"Tom의 경고가 없었더라면 우리는 위험을 몰랐을 것이다.\"라는 의미일 것.\n접속사 'If'를 생략한 도치 구문일 것.\n축약형을 사용하지 않을 것.",
+   "c": [
+    "If it had not been for Tom's warning, we would not have known the danger.",
+    "Without Tom's warning we would not have known the danger.",
+    "Had it not been for Tom's warning, we would not have known the danger.",
+    "Had it not been for Tom's warning, we would not known the danger.",
+    "Had not it been for Tom's warning, we would not have known the danger."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: If it had not been for ...에서 if를 생략하면 Had it not been for ...로 도치한다. 과거의 반대 결과는 would/could have + p.p.로 나타낸다.\n풀이 순서: ① 조건을 형태로 바꾼다. ‘~이 없었더라면’은 If it had not been for ~이고, If를 생략하면 Had it not been for ~가 된다. → ② 우리말의 주절(‘몰랐을 것이다’)은 과거 사실의 반대이므로 would/could have + 과거분사(would not have known)여야 한다. → ③ If나 Without으로 시작하는 보기, 도치 어순이나 주절의 형태가 틀린 보기를 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: ‘Had it not been for Tom's warning, we would not have known the danger.’이 If 생략 도치와 과거 결과 형태를 모두 만족한다.\n선택지 분석:\n① [오답] ‘If it had not been for Tom's warning, we would not have known the danger.’은 의미는 비슷할 수 있지만 발문이 요구한 if 생략 도치 조건을 충족하지 않는다.\n② [오답] ‘Without Tom's warning we would not have known the danger.’은 의미는 가능하지만 if 생략 도치형이 아니어서 조건을 충족하지 않는다.\n③ [정답] ‘Had it not been for Tom's warning, we would not have known the danger.’은 if 생략 도치 Had it not been for와 과거 가상 결과절을 모두 정확히 갖춘다.\n④ [오답] ‘Had it not been for Tom's warning, we would not known the danger.’은 결과절의 have/시제 형태가 과거 가정 결과에 맞지 않는다.\n⑤ [오답] ‘Had not it been for Tom's warning, we would not have known the danger.’은 도치 어순이 잘못되었다. Had it not been for가 맞다."
+  },
+  "C": {
+   "stem": "다음 <조건>을 모두 만족하는 문장으로 가장 적절한 것은?",
+   "passage": "<조건>\n\"Mina의 도움이 없었더라면 나는 마감일을 지키지 못했을 것이다.\"라는 의미일 것.\n접속사 'If'를 생략한 도치 구문일 것.\n축약형을 사용하지 않을 것.",
+   "c": [
+    "Had not it been for Mina's help, I could not have met the deadline.",
+    "Without Mina's help I could not have met the deadline.",
+    "If it had not been for Mina's help, I could not have met the deadline.",
+    "Had it not been for Mina's help, I could not have met the deadline.",
+    "Had it not been for Mina's help, I cannot have met the deadline."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: If it had not been for ...에서 if를 생략하면 Had it not been for ...로 도치한다. 과거의 반대 결과는 would/could have + p.p.로 나타낸다.\n풀이 순서: ① 조건을 형태로 바꾼다. ‘~이 없었더라면’은 If it had not been for ~이고, If를 생략하면 Had it not been for ~가 된다. → ② 우리말의 주절(‘지키지 못했을 것이다’)은 과거 사실의 반대이므로 would/could have + 과거분사(could not have met)여야 한다. → ③ If나 Without으로 시작하는 보기, 도치 어순이나 주절의 형태가 틀린 보기를 지운다. 정답은 ④.\n문장별 판정:\n정답 판단: ‘Had it not been for Mina's help, I could not have met the deadline.’이 If 생략 도치와 과거 결과 형태를 모두 만족한다.\n선택지 분석:\n① [오답] ‘Had not it been for Mina's help, I could not have met the deadline.’은 도치 어순이 잘못되었다. Had it not been for가 맞다.\n② [오답] ‘Without Mina's help I could not have met the deadline.’은 의미는 가능하지만 if 생략 도치형이 아니어서 조건을 충족하지 않는다.\n③ [오답] ‘If it had not been for Mina's help, I could not have met the deadline.’은 의미는 비슷할 수 있지만 발문이 요구한 if 생략 도치 조건을 충족하지 않는다.\n④ [정답] ‘Had it not been for Mina's help, I could not have met the deadline.’은 if 생략 도치 Had it not been for와 과거 가상 결과절을 모두 정확히 갖춘다.\n⑤ [오답] ‘Had it not been for Mina's help, I cannot have met the deadline.’은 결과절의 have/시제 형태가 과거 가정 결과에 맞지 않는다."
+  },
+  "D": {
+   "stem": "다음 <조건>을 모두 만족하는 문장으로 가장 적절한 것은?",
+   "passage": "<조건>\n\"그 지도가 없었더라면 우리는 길을 잃었을 것이다.\"라는 의미일 것.\n접속사 'If'를 생략한 도치 구문일 것.\n축약형을 사용하지 않을 것.",
+   "c": [
+    "Had it not been for the map, we would have gotten lost.",
+    "Had not it been for the map, we would have gotten lost.",
+    "If it was not for the map, we would have gotten lost.",
+    "Without the map we would have gotten lost.",
+    "Had it not been for the map, we will have gotten lost."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: If it had not been for ...에서 if를 생략하면 Had it not been for ...로 도치한다. 과거의 반대 결과는 would/could have + p.p.로 나타낸다.\n풀이 순서: ① 조건을 형태로 바꾼다. ‘~이 없었더라면’은 If it had not been for ~이고, If를 생략하면 Had it not been for ~가 된다. → ② 우리말의 주절(‘길을 잃었을 것이다’)은 과거 사실의 반대이므로 would/could have + 과거분사(would have gotten lost)여야 한다. → ③ If나 Without으로 시작하는 보기, 도치 어순이나 주절의 형태가 틀린 보기를 지운다. 정답은 ①.\n문장별 판정:\n정답 판단: ‘Had it not been for the map, we would have gotten lost.’이 If 생략 도치와 과거 결과 형태를 모두 만족한다.\n선택지 분석:\n① [정답] ‘Had it not been for the map, we would have gotten lost.’은 if 생략 도치 Had it not been for와 과거 가상 결과절을 모두 정확히 갖춘다.\n② [오답] ‘Had not it been for the map, we would have gotten lost.’은 도치 어순이 잘못되었다. Had it not been for가 맞다.\n③ [오답] ‘If it was not for the map, we would have gotten lost.’은 의미는 비슷할 수 있지만 발문이 요구한 if 생략 도치 조건을 충족하지 않는다.\n④ [오답] ‘Without the map we would have gotten lost.’은 의미는 가능하지만 if 생략 도치형이 아니어서 조건을 충족하지 않는다.\n⑤ [오답] ‘Had it not been for the map, we will have gotten lost.’은 결과절의 have/시제 형태가 과거 가정 결과에 맞지 않는다."
+  },
+  "E": {
+   "stem": "다음 <조건>을 모두 만족하는 문장으로 가장 적절한 것은?",
+   "passage": "<조건>\n\"Jane의 조언이 없었더라면 나는 잘못된 선택을 했을 것이다.\"라는 의미일 것.\n접속사 'If'를 생략한 도치 구문일 것.\n축약형을 사용하지 않을 것.",
+   "c": [
+    "Had it not been for Jane's advice, I will have made the wrong choice.",
+    "Had it not been for Jane's advice, I would have made the wrong choice.",
+    "Had not it been for Jane's advice, I would have made the wrong choice.",
+    "If it was not for Jane's advice, I would have made the wrong choice.",
+    "Without Jane's advice I would have made the wrong choice."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: If it had not been for ...에서 if를 생략하면 Had it not been for ...로 도치한다. 과거의 반대 결과는 would/could have + p.p.로 나타낸다.\n풀이 순서: ① 조건을 형태로 바꾼다. ‘~이 없었더라면’은 If it had not been for ~이고, If를 생략하면 Had it not been for ~가 된다. → ② 우리말의 주절(‘잘못된 선택을 했을 것이다’)은 과거 사실의 반대이므로 would/could have + 과거분사(would have made)여야 한다. → ③ If나 Without으로 시작하는 보기, 도치 어순이나 주절의 형태가 틀린 보기를 지운다. 정답은 ②.\n문장별 판정:\n정답 판단: ‘Had it not been for Jane's advice, I would have made the wrong choice.’이 If 생략 도치와 과거 결과 형태를 모두 만족한다.\n선택지 분석:\n① [오답] ‘Had it not been for Jane's advice, I will have made the wrong choice.’은 결과절의 have/시제 형태가 과거 가정 결과에 맞지 않는다.\n② [정답] ‘Had it not been for Jane's advice, I would have made the wrong choice.’은 if 생략 도치 Had it not been for와 과거 가상 결과절을 모두 정확히 갖춘다.\n③ [오답] ‘Had not it been for Jane's advice, I would have made the wrong choice.’은 도치 어순이 잘못되었다. Had it not been for가 맞다.\n④ [오답] ‘If it was not for Jane's advice, I would have made the wrong choice.’은 의미는 비슷할 수 있지만 발문이 요구한 if 생략 도치 조건을 충족하지 않는다.\n⑤ [오답] ‘Without Jane's advice I would have made the wrong choice.’은 의미는 가능하지만 if 생략 도치형이 아니어서 조건을 충족하지 않는다."
+  },
+  "F": {
+   "stem": "다음 <조건>을 모두 만족하는 문장으로 가장 적절한 것은?",
+   "passage": "<조건>\n\"그 백업 파일이 없었더라면 우리는 데이터를 복구하지 못했을 것이다.\"라는 의미일 것.\n접속사 'If'를 생략한 도치 구문일 것.\n축약형을 사용하지 않을 것.",
+   "c": [
+    "Had it not been for the backup file, we could not have recovered the data.",
+    "Had not it been for the backup file, we could not have recovered the data.",
+    "Had it not been for the backup file, we cannot have recovered the data.",
+    "If it had not been for the backup file, we could not have recovered the data.",
+    "Without the backup file we could not have recovered the data."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: If it had not been for ...에서 if를 생략하면 Had it not been for ...로 도치한다. 과거의 반대 결과는 would/could have + p.p.로 나타낸다.\n풀이 순서: ① 조건을 형태로 바꾼다. ‘~이 없었더라면’은 If it had not been for ~이고, If를 생략하면 Had it not been for ~가 된다. → ② 우리말의 주절(‘복구하지 못했을 것이다’)은 과거 사실의 반대이므로 would/could have + 과거분사(could not have recovered)여야 한다. → ③ If나 Without으로 시작하는 보기, 도치 어순이나 주절의 형태가 틀린 보기를 지운다. 정답은 ①.\n문장별 판정:\n정답 판단: ‘Had it not been for the backup file, we could not have recovered the data.’이 If 생략 도치와 과거 결과 형태를 모두 만족한다.\n선택지 분석:\n① [정답] ‘Had it not been for the backup file, we could not have recovered the data.’은 if 생략 도치 Had it not been for와 과거 가상 결과절을 모두 정확히 갖춘다.\n② [오답] ‘Had not it been for the backup file, we could not have recovered the data.’은 도치 어순이 잘못되었다. Had it not been for가 맞다.\n③ [오답] ‘Had it not been for the backup file, we cannot have recovered the data.’은 결과절의 have/시제 형태가 과거 가정 결과에 맞지 않는다.\n④ [오답] ‘If it had not been for the backup file, we could not have recovered the data.’은 의미는 비슷할 수 있지만 발문이 요구한 if 생략 도치 조건을 충족하지 않는다.\n⑤ [오답] ‘Without the backup file we could not have recovered the data.’은 의미는 가능하지만 if 생략 도치형이 아니어서 조건을 충족하지 않는다."
+  }
+ },
+ "prior_review": {
+  "A": {
+   "verdict": "수정 필요",
+   "issues": [
+    {
+     "kind": "정확성",
+     "where": "풀이 순서 ③",
+     "detail": "‘If나 Without으로 시작하는 보기 … 를 지운다’라고 했지만 이 문항의 보기에는 Without으로 시작하는 보기가 없다(B~F의 틀이 남은 것). 또 ② Had he not have courage는 ‘도치 어순’이 아니라 Had 뒤의 형태(have→had)가 틀린 것이므로 ‘도치한 부분의 형태가 틀린 보기’로 고친다."
+    },
+    {
+     "kind": "구체성",
+     "where": "선택지 분석 ②",
+     "detail": "‘Had he not have courage는 틀린 형태이므로’만으로는 어디가 틀렸는지 알 수 없다. Had 뒤에는 과거분사 had가 와야 하는데 동사원형 have를 썼다고 짚는다."
+    }
+   ],
+   "proposed": "핵심 규칙: If it had not been for ~(~이 없었더라면)에서 if를 생략하면 Had it not been for ~로 도치한다. 과거 사실의 반대이므로 주절은 would/could have + 과거분사이다.\n풀이 순서: ① 조건을 형태로 바꾼다. ‘~이 없었더라면’은 If it had not been for ~이고, If를 생략하면 Had it not been for ~가 된다. → ② 우리말의 주절(‘구하지 못했을 것이다’)은 과거 사실의 반대이므로 would/could have + 과거분사(could not have saved)여야 한다. → ③ If로 시작하는 보기, 도치한 부분이나 주절의 형태가 틀린 보기를 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: Had it not been for로 도치하고 주절에 could not have saved를 써서 세 조건을 모두 만족하므로 정답은 ③이다.\n선택지 분석:\n① [오답] Were it not for ~, could not save는 현재 사실의 반대라 ‘구하지 못했을 것이다’와 시제가 맞지 않으므로 오답이다.\n② [오답] Had he not 뒤에는 과거분사 had가 와야 하는데 동사원형 have를 써서 Had he not have courage가 되었으므로 오답이다.\n③ [정답] Had it not been for로 도치하고 주절에 could not have saved를 써서 세 조건을 모두 만족하므로 정답이다.\n④ [오답] If를 생략하지 않았으므로 오답이다.\n⑤ [오답] 주절이 could not save라 과거 사실의 반대를 나타내지 못하므로 오답이다.",
+   "note": "",
+   "verified": false
+  },
+  "B": {
+   "verdict": "보완 권장",
+   "issues": [
+    {
+     "kind": "표기",
+     "where": "핵심 규칙·정답 판단·선택지 분석",
+     "detail": "A는 ‘과거분사’인데 여기서는 ‘p.p.’를 쓰고, 정답 판단이 ‘정답은 ③이다.’로 끝나지 않으며, 선택지가 ‘오답이다/정답이다’로 끝나지 않는다."
+    },
+    {
+     "kind": "구체성",
+     "where": "선택지 분석 ④",
+     "detail": "‘결과절의 have/시제 형태가 과거 가정 결과에 맞지 않는다’는 어디가 틀렸는지 짚지 않는다. would not 뒤에 have가 빠져 would not known이 되었다고 말한다."
+    },
+    {
+     "kind": "일관성",
+     "where": "선택지 분석 ①·④",
+     "detail": "A는 ‘주절’인데 여기서는 ‘결과절’을 쓴다. 또 ①을 ‘의미는 비슷할 수 있지만’이라고 했는데 뜻은 같고 If 생략 도치 조건만 어긴 것이다."
+    },
+    {
+     "kind": "대본",
+     "where": "선택지 분석",
+     "detail": "보기마다 영어 문장 전체를 다시 읽어 길다. A처럼 핵심 어구만 짚어 말하기 쉽게 줄인다."
+    }
+   ],
+   "proposed": "핵심 규칙: If it had not been for ~에서 if를 생략하면 Had it not been for ~로 도치한다. 과거의 반대 결과는 would/could have + 과거분사로 나타낸다.\n풀이 순서: ① 조건을 형태로 바꾼다. ‘~이 없었더라면’은 If it had not been for ~이고, If를 생략하면 Had it not been for ~가 된다. → ② 우리말의 주절(‘몰랐을 것이다’)은 과거 사실의 반대이므로 would/could have + 과거분사(would not have known)여야 한다. → ③ If나 Without으로 시작하는 보기, 도치 어순이나 주절의 형태가 틀린 보기를 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: Had it not been for Tom's warning으로 도치하고 주절에 would not have known을 써서 세 조건을 모두 만족하므로 정답은 ③이다.\n선택지 분석:\n① [오답] If it had not been for ~로 시작해 If를 생략한 도치 구문이 아니므로 오답이다.\n② [오답] Without Tom's warning은 뜻은 통하지만 If를 생략한 도치 구문이 아니므로 오답이다.\n③ [정답] Had it not been for Tom's warning으로 도치하고 주절에 would not have known을 써서 세 조건을 모두 만족하므로 정답이다.\n④ [오답] 주절에서 would not 뒤에 have가 빠져 would not known이 되었으므로 오답이다.\n⑤ [오답] 도치 어순이 Had not it으로 틀렸다. Had it not been for가 맞으므로 오답이다.",
+   "note": "",
+   "verified": false
+  },
+  "C": {
+   "verdict": "보완 권장",
+   "issues": [
+    {
+     "kind": "표기",
+     "where": "핵심 규칙·정답 판단·선택지 분석",
+     "detail": "A는 ‘과거분사’인데 여기서는 ‘p.p.’를 쓰고, 정답 판단이 ‘정답은 ④이다.’로 끝나지 않으며, 선택지가 ‘오답이다/정답이다’로 끝나지 않는다."
+    },
+    {
+     "kind": "구체성",
+     "where": "선택지 분석 ⑤",
+     "detail": "‘결과절의 have/시제 형태가 과거 가정 결과에 맞지 않는다’는 어디가 틀렸는지 짚지 않는다. could not 대신 cannot을 써서 cannot have met이 되었다고 말한다."
+    },
+    {
+     "kind": "일관성",
+     "where": "선택지 분석 ③·⑤",
+     "detail": "A는 ‘주절’인데 여기서는 ‘결과절’을 쓴다. 또 ③을 ‘의미는 비슷할 수 있지만’이라고 했는데 뜻은 같고 If 생략 도치 조건만 어긴 것이다."
+    },
+    {
+     "kind": "대본",
+     "where": "선택지 분석",
+     "detail": "보기마다 영어 문장 전체를 다시 읽어 길다. A처럼 핵심 어구만 짚어 말하기 쉽게 줄인다."
+    }
+   ],
+   "proposed": "핵심 규칙: If it had not been for ~에서 if를 생략하면 Had it not been for ~로 도치한다. 과거의 반대 결과는 would/could have + 과거분사로 나타낸다.\n풀이 순서: ① 조건을 형태로 바꾼다. ‘~이 없었더라면’은 If it had not been for ~이고, If를 생략하면 Had it not been for ~가 된다. → ② 우리말의 주절(‘지키지 못했을 것이다’)은 과거 사실의 반대이므로 would/could have + 과거분사(could not have met)여야 한다. → ③ If나 Without으로 시작하는 보기, 도치 어순이나 주절의 형태가 틀린 보기를 지운다. 정답은 ④.\n문장별 판정:\n정답 판단: Had it not been for Mina's help로 도치하고 주절에 could not have met을 써서 세 조건을 모두 만족하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 도치 어순이 Had not it으로 틀렸다. Had it not been for가 맞으므로 오답이다.\n② [오답] Without Mina's help는 뜻은 통하지만 If를 생략한 도치 구문이 아니므로 오답이다.\n③ [오답] If it had not been for ~로 시작해 If를 생략한 도치 구문이 아니므로 오답이다.\n④ [정답] Had it not been for Mina's help로 도치하고 주절에 could not have met을 써서 세 조건을 모두 만족하므로 정답이다.\n⑤ [오답] 주절에 could not 대신 cannot을 써서 cannot have met이 되었다. 과거 사실의 반대는 could not have met이어야 하므로 오답이다.",
+   "note": "",
+   "verified": false
+  },
+  "D": {
+   "verdict": "보완 권장",
+   "issues": [
+    {
+     "kind": "표기",
+     "where": "핵심 규칙·정답 판단·선택지 분석",
+     "detail": "A는 ‘과거분사’인데 여기서는 ‘p.p.’를 쓰고, 정답 판단이 ‘정답은 ①이다.’로 끝나지 않으며, 선택지가 ‘오답이다/정답이다’로 끝나지 않는다."
+    },
+    {
+     "kind": "구체성",
+     "where": "선택지 분석 ③·⑤",
+     "detail": "⑤ ‘결과절의 have/시제 형태가 과거 가정 결과에 맞지 않는다’는 어디가 틀렸는지 짚지 않는다. would 대신 will을 썼다고 말한다. ③ If it was not for는 If를 생략하지 않은 것에 더해 was not도 had not been이 아니므로 함께 짚는다."
+    },
+    {
+     "kind": "일관성",
+     "where": "선택지 분석 ③·⑤",
+     "detail": "A는 ‘주절’인데 여기서는 ‘결과절’을 쓴다. 또 ③을 ‘의미는 비슷할 수 있지만’이라고 했는데 뜻은 같고 If 생략 도치 조건만 어긴 것이다."
+    },
+    {
+     "kind": "대본",
+     "where": "선택지 분석",
+     "detail": "보기마다 영어 문장 전체를 다시 읽어 길다. A처럼 핵심 어구만 짚어 말하기 쉽게 줄인다."
+    }
+   ],
+   "proposed": "핵심 규칙: If it had not been for ~에서 if를 생략하면 Had it not been for ~로 도치한다. 과거의 반대 결과는 would/could have + 과거분사로 나타낸다.\n풀이 순서: ① 조건을 형태로 바꾼다. ‘~이 없었더라면’은 If it had not been for ~이고, If를 생략하면 Had it not been for ~가 된다. → ② 우리말의 주절(‘길을 잃었을 것이다’)은 과거 사실의 반대이므로 would/could have + 과거분사(would have gotten lost)여야 한다. → ③ If나 Without으로 시작하는 보기, 도치 어순이나 주절의 형태가 틀린 보기를 지운다. 정답은 ①.\n문장별 판정:\n정답 판단: Had it not been for the map으로 도치하고 주절에 would have gotten lost를 써서 세 조건을 모두 만족하므로 정답은 ①이다.\n선택지 분석:\n① [정답] Had it not been for the map으로 도치하고 주절에 would have gotten lost를 써서 세 조건을 모두 만족하므로 정답이다.\n② [오답] 도치 어순이 Had not it으로 틀렸다. Had it not been for가 맞으므로 오답이다.\n③ [오답] If it was not for ~로 시작해 If를 생략한 도치 구문이 아니고, was not도 과거 사실의 반대인 had not been이 아니므로 오답이다.\n④ [오답] Without the map은 뜻은 통하지만 If를 생략한 도치 구문이 아니므로 오답이다.\n⑤ [오답] 주절에 would 대신 will을 써서 will have gotten lost가 되었다. 과거 사실의 반대는 would have gotten lost여야 하므로 오답이다.",
+   "note": "",
+   "verified": false
+  },
+  "E": {
+   "verdict": "보완 권장",
+   "issues": [
+    {
+     "kind": "표기",
+     "where": "핵심 규칙·정답 판단·선택지 분석",
+     "detail": "A는 ‘과거분사’인데 여기서는 ‘p.p.’를 쓰고, 정답 판단이 ‘정답은 ②이다.’로 끝나지 않으며, 선택지가 ‘오답이다/정답이다’로 끝나지 않는다."
+    },
+    {
+     "kind": "구체성",
+     "where": "선택지 분석 ①·④",
+     "detail": "① ‘결과절의 have/시제 형태가 과거 가정 결과에 맞지 않는다’는 어디가 틀렸는지 짚지 않는다. would 대신 will을 썼다고 말한다. ④ If it was not for는 If를 생략하지 않은 것에 더해 was not도 had not been이 아니므로 함께 짚는다."
+    },
+    {
+     "kind": "일관성",
+     "where": "선택지 분석 ①·④",
+     "detail": "A는 ‘주절’인데 여기서는 ‘결과절’을 쓴다. 또 ④를 ‘의미는 비슷할 수 있지만’이라고 했는데 뜻은 같고 If 생략 도치 조건만 어긴 것이다."
+    },
+    {
+     "kind": "대본",
+     "where": "선택지 분석",
+     "detail": "보기마다 영어 문장 전체를 다시 읽어 길다. A처럼 핵심 어구만 짚어 말하기 쉽게 줄인다."
+    }
+   ],
+   "proposed": "핵심 규칙: If it had not been for ~에서 if를 생략하면 Had it not been for ~로 도치한다. 과거의 반대 결과는 would/could have + 과거분사로 나타낸다.\n풀이 순서: ① 조건을 형태로 바꾼다. ‘~이 없었더라면’은 If it had not been for ~이고, If를 생략하면 Had it not been for ~가 된다. → ② 우리말의 주절(‘잘못된 선택을 했을 것이다’)은 과거 사실의 반대이므로 would/could have + 과거분사(would have made)여야 한다. → ③ If나 Without으로 시작하는 보기, 도치 어순이나 주절의 형태가 틀린 보기를 지운다. 정답은 ②.\n문장별 판정:\n정답 판단: Had it not been for Jane's advice로 도치하고 주절에 would have made를 써서 세 조건을 모두 만족하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 주절에 would 대신 will을 써서 will have made가 되었다. 과거 사실의 반대는 would have made여야 하므로 오답이다.\n② [정답] Had it not been for Jane's advice로 도치하고 주절에 would have made를 써서 세 조건을 모두 만족하므로 정답이다.\n③ [오답] 도치 어순이 Had not it으로 틀렸다. Had it not been for가 맞으므로 오답이다.\n④ [오답] If it was not for ~로 시작해 If를 생략한 도치 구문이 아니고, was not도 과거 사실의 반대인 had not been이 아니므로 오답이다.\n⑤ [오답] Without Jane's advice는 뜻은 통하지만 If를 생략한 도치 구문이 아니므로 오답이다.",
+   "note": "",
+   "verified": false
+  },
+  "F": {
+   "verdict": "보완 권장",
+   "issues": [
+    {
+     "kind": "표기",
+     "where": "핵심 규칙·정답 판단·선택지 분석",
+     "detail": "A는 ‘과거분사’인데 여기서는 ‘p.p.’를 쓰고, 정답 판단이 ‘정답은 ①이다.’로 끝나지 않으며, 선택지가 ‘오답이다/정답이다’로 끝나지 않는다."
+    },
+    {
+     "kind": "구체성",
+     "where": "선택지 분석 ③",
+     "detail": "‘결과절의 have/시제 형태가 과거 가정 결과에 맞지 않는다’는 어디가 틀렸는지 짚지 않는다. could not 대신 cannot을 써서 cannot have recovered가 되었다고 말한다."
+    },
+    {
+     "kind": "일관성",
+     "where": "선택지 분석 ③·④",
+     "detail": "A는 ‘주절’인데 여기서는 ‘결과절’을 쓴다. 또 ④를 ‘의미는 비슷할 수 있지만’이라고 했는데 뜻은 같고 If 생략 도치 조건만 어긴 것이다."
+    },
+    {
+     "kind": "대본",
+     "where": "선택지 분석",
+     "detail": "보기마다 영어 문장 전체를 다시 읽어 길다. A처럼 핵심 어구만 짚어 말하기 쉽게 줄인다."
+    }
+   ],
+   "proposed": "핵심 규칙: If it had not been for ~에서 if를 생략하면 Had it not been for ~로 도치한다. 과거의 반대 결과는 would/could have + 과거분사로 나타낸다.\n풀이 순서: ① 조건을 형태로 바꾼다. ‘~이 없었더라면’은 If it had not been for ~이고, If를 생략하면 Had it not been for ~가 된다. → ② 우리말의 주절(‘복구하지 못했을 것이다’)은 과거 사실의 반대이므로 would/could have + 과거분사(could not have recovered)여야 한다. → ③ If나 Without으로 시작하는 보기, 도치 어순이나 주절의 형태가 틀린 보기를 지운다. 정답은 ①.\n문장별 판정:\n정답 판단: Had it not been for the backup file로 도치하고 주절에 could not have recovered를 써서 세 조건을 모두 만족하므로 정답은 ①이다.\n선택지 분석:\n① [정답] Had it not been for the backup file로 도치하고 주절에 could not have recovered를 써서 세 조건을 모두 만족하므로 정답이다.\n② [오답] 도치 어순이 Had not it으로 틀렸다. Had it not been for가 맞으므로 오답이다.\n③ [오답] 주절에 could not 대신 cannot을 써서 cannot have recovered가 되었다. 과거 사실의 반대는 could not have recovered여야 하므로 오답이다.\n④ [오답] If it had not been for ~로 시작해 If를 생략한 도치 구문이 아니므로 오답이다.\n⑤ [오답] Without the backup file은 뜻은 통하지만 If를 생략한 도치 구문이 아니므로 오답이다.",
+   "note": "",
+   "verified": false
+  }
+ }
+}

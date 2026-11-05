@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T09:21:01.205Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "A: Do you know him? B: No, I am not.",
+      "1": "A: Is the cat sleeping? B: Yes, it does.",
+      "2": "A: Does Mina like cats? B: No, she don't.",
+      "3": "A: Are we late? B: No, we don't.",
+      "4": "A: Are your friends here? B: Yes, they are."
+    },
+    "expl": "핵심 규칙: be동사 의문문에는 be동사로, Do/Does 의문문에는 do/does로 답하며, 대답의 주어는 질문의 주어에 맞춘다(you → I, this → it).\n풀이 순서: ① 질문의 첫 낱말을 본다. be동사로 물으면 be동사로, Do/Does로 물으면 do/does로 답한다. → ② 대답의 주어와 동사가 서로 맞는지 본다. → ③ 선택지 ⑤만 Are your friends ~? - they are로 맞는다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 질문의 동사와 주어에 맞게 바르게 대답했으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] Do 의문문에는 don't로 답하므로 오답이다.\n② [오답] be동사 의문문에는 is로 답하므로 오답이다.\n③ [오답] 주어 she에는 doesn't로 답하므로 오답이다.\n④ [오답] be동사 의문문에는 aren't로 답하므로 오답이다.\n⑤ [정답] 질문의 동사와 주어에 맞게 바르게 대답했으므로 정답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T09:20:59.703Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T09:21:01.205Z",
+      "what": "확인 완료"
+    }
+  }
+}

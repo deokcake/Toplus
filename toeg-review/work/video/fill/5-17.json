@@ -1,0 +1,478 @@
+{
+ "A": {
+  "title": "My mom·my dad 뒤 일반동사 형태",
+  "intro": "이 문제는 주어 My mom과 my dad 뒤에 오는 일반동사의 알맞은 형태를 순서대로 짝지어 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. My mom 빈칸 TV, and my dad 빈칸 a book, 엄마는 TV를 보고 아빠는 책을 읽는다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재(늘 하는 일·사실), 주어가 3인칭 단수(he, she, it, Tom) → 일반동사 + s/es",
+    "대부분 + s (like → likes) · ch, sh, s, x로 끝나면 + es (teach → teaches)",
+    "have → has · 주어가 I, you, we, they, 복수 → 동사원형 (I teach)",
+    "예) My brother teaches math. (형은 수학을 가르쳐요.)"
+   ],
+   "narration": "일반동사 현재형은 늘 하는 일이나 사실을 말할 때 써요. 주어가 he, she, it이나 Tom처럼 나도 너도 아닌 한 사람이나 한 개, 곧 3인칭 단수이면 동사에 보통 s를 붙여요. teach처럼 ch, sh, s, x로 끝나면 es를 붙이고, have는 has로 써요. 주어가 I, you, we, they이거나 여럿이면 동사원형을 그대로 써요. My brother teaches math. 형은 수학을 가르쳐요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 두 개 = 주어 My mom, my dad 뒤 동사 자리 → ing형만 있는 ④ 지움",
+    "highlight": [
+     "My mom",
+     "my dad"
+    ],
+    "strike": [
+     "④ watching — reading"
+    ],
+    "narration": "첫째, 두 빈칸은 주어 My mom과 my dad 바로 뒤라서 동사 자리예요. ing형만으로는 동사 자리를 채울 수 없으니 4번을 지워요."
+   },
+   {
+    "note": "My mom = 3인칭 단수, watch는 ch로 끝남 → watches → 첫 칸이 watch인 ①③ 지움",
+    "highlight": [
+     "My mom"
+    ],
+    "strike": [
+     "① watch — read",
+     "③ watch — reads"
+    ],
+    "narration": "둘째, My mom은 3인칭 단수이고 watch는 ch로 끝나서 es를 붙인 watches를 쓰니, 첫 칸이 watch인 1번과 3번을 지워요."
+   },
+   {
+    "note": "my dad = 3인칭 단수 → reads → ② 지움 → 남는 것 ⑤",
+    "highlight": [
+     "my dad",
+     "⑤ watches — reads"
+    ],
+    "strike": [
+     "② watches — read"
+    ],
+    "narration": "셋째, my dad도 3인칭 단수라 read에 s를 붙인 reads를 써야 하니 2번도 지우면 5번이 남아요. My mom watches TV, and my dad reads a book. 엄마는 TV를 보고, 아빠는 책을 읽어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① watch — read  ✗  두 주어 모두 3인칭 단수인데 원형을 썼어요",
+    "② watches — read  ✗  my dad에는 read가 아니라 reads",
+    "③ watch — reads  ✗  My mom에는 watch가 아니라 watches",
+    "④ watching — reading  ✗  ing형만으로는 동사 자리를 못 채워요",
+    "⑤ watches — reads  ✓  두 주어 모두 3인칭 단수 → watches, reads"
+   ],
+   "narration": "정답은 5번 watches와 reads예요. 2번은 앞의 watches는 맞지만, my dad도 3인칭 단수라 read가 아니라 reads를 써야 해요. 3번은 reads는 맞지만, My mom에는 watch가 아니라 es를 붙인 watches를 써요. 1번은 두 주어 모두 3인칭 단수인데 동사원형을 그대로 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "주어가 3인칭 단수 → 일반동사 + s/es (watch → watches, have → has)",
+   "narration": "정답은 5번이에요. 기억할 것, 주어가 3인칭 단수이면 일반동사 현재형에 s나 es를 붙이고, have는 has로 써요. watch처럼 ch로 끝나는 동사에는 es를 붙여요."
+  },
+  "captions": [
+   "My mom·my dad 뒤 동사",
+   "먼저 풀어 보세요",
+   "3인칭 단수 → 동사 + s/es",
+   "동사 자리 → 둘 다 3인칭 단수",
+   "정답 ⑤ watches — reads",
+   "3인칭 단수 + s/es, have → has"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   38,
+   28,
+   12
+  ]
+ },
+ "B": {
+  "title": "The city bus·the last train 뒤 동사 형태",
+  "intro": "이 문제는 주어 The city bus와 the last train 뒤에 오는 일반동사의 알맞은 형태를 순서대로 짝지어 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. The city bus 빈칸 at seven, and the last train 빈칸 at eleven, 시내버스는 일곱 시에 도착하고 마지막 기차는 열한 시에 떠난다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재(늘 하는 일·사실), 주어가 3인칭 단수(he, she, it, Tom) → 일반동사 + s/es",
+    "대부분 + s (open → opens) · ch, sh, s, x로 끝나면 + es (teach → teaches)",
+    "have → has · 주어가 I, you, we, they, 복수 → 동사원형 (I open)",
+    "예) The store opens at nine. (그 가게는 아홉 시에 문을 열어요.)"
+   ],
+   "narration": "일반동사 현재형은 늘 하는 일이나 사실을 말할 때 써요. 주어가 he, she, it이나 Tom처럼 나도 너도 아닌 한 사람이나 한 개, 곧 3인칭 단수이면 동사에 보통 s를 붙여요. teach처럼 ch, sh, s, x로 끝나면 es를 붙이고, have는 has로 써요. 주어가 I, you, we, they이거나 여럿이면 동사원형을 그대로 써요. The store opens at nine. 그 가게는 아홉 시에 문을 열어요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 두 개 = 주어 The city bus, the last train 뒤 동사 자리 → ing형만 있는 ④ 지움",
+    "highlight": [
+     "The city bus",
+     "the last train"
+    ],
+    "strike": [
+     "④ arriving — leaving"
+    ],
+    "narration": "첫째, 두 빈칸은 주어 The city bus와 the last train 바로 뒤라서 동사 자리예요. ing형만으로는 동사 자리를 채울 수 없으니 4번을 지워요."
+   },
+   {
+    "note": "The city bus = 버스 한 대 = 3인칭 단수 → arrives → 첫 칸이 arrive인 ①⑤ 지움",
+    "highlight": [
+     "The city bus"
+    ],
+    "strike": [
+     "① arrive — leave",
+     "⑤ arrive — leaves"
+    ],
+    "narration": "둘째, The city bus는 버스 한 대, 곧 3인칭 단수라 arrive에 s를 붙인 arrives를 쓰니, 첫 칸이 arrive인 1번과 5번을 지워요."
+   },
+   {
+    "note": "the last train = 3인칭 단수 → leaves → ③ 지움 → 남는 것 ②",
+    "highlight": [
+     "the last train",
+     "② arrives — leaves"
+    ],
+    "strike": [
+     "③ arrives — leave"
+    ],
+    "narration": "셋째, the last train도 3인칭 단수라 leave에 s를 붙인 leaves를 써야 하니 3번도 지우면 2번이 남아요. The city bus arrives at seven, and the last train leaves at eleven. 시내버스는 일곱 시에 도착하고, 마지막 기차는 열한 시에 떠나요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① arrive — leave  ✗  두 주어 모두 3인칭 단수인데 원형을 썼어요",
+    "② arrives — leaves  ✓  두 주어 모두 3인칭 단수 → arrives, leaves",
+    "③ arrives — leave  ✗  the last train에는 leave가 아니라 leaves",
+    "④ arriving — leaving  ✗  ing형만으로는 동사 자리를 못 채워요",
+    "⑤ arrive — leaves  ✗  The city bus에는 arrive가 아니라 arrives"
+   ],
+   "narration": "정답은 2번 arrives와 leaves예요. 3번은 앞의 arrives는 맞지만, the last train도 3인칭 단수라 leave가 아니라 leaves를 써야 해요. 5번은 leaves는 맞지만, The city bus에는 arrive가 아니라 arrives를 써요. 4번 arriving과 leaving은 ing형이라 그것만으로는 동사 자리를 채울 수 없어요."
+  },
+  "summary": {
+   "card": "주어가 3인칭 단수 → 일반동사 + s/es (arrive → arrives, have → has)",
+   "narration": "정답은 2번이에요. 기억할 것, 주어가 3인칭 단수이면 일반동사 현재형에 s나 es를 붙이고, have는 has로 써요. arrive와 leave처럼 대부분의 동사는 s만 붙여요."
+  },
+  "captions": [
+   "버스·기차 주어 뒤 동사",
+   "먼저 풀어 보세요",
+   "3인칭 단수 → 동사 + s/es",
+   "동사 자리 → 둘 다 3인칭 단수",
+   "정답 ② arrives — leaves",
+   "3인칭 단수 + s/es, have → has"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   40,
+   28,
+   12
+  ]
+ },
+ "C": {
+  "title": "Jane·Tom 뒤 일반동사 형태",
+  "intro": "이 문제는 주어 Jane과 Tom 뒤에 오는 일반동사의 알맞은 형태를 순서대로 짝지어 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. Jane 빈칸 English, and Tom 빈칸 soccer, Jane은 영어를 공부하고 Tom은 축구를 한다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재(늘 하는 일·사실), 주어가 3인칭 단수(he, she, it, Tom) → 일반동사 + s/es",
+    "ch, sh, s, x로 끝나면 + es (teach → teaches) · have → has",
+    "y 앞이 자음 → y를 i로 바꾸고 + es (try → tries) · y 앞이 모음 → + s (enjoy → enjoys)",
+    "주어가 I, you, we, they, 복수 → 동사원형 (I try)",
+    "예) Amy tries hard every day. (Amy는 매일 열심히 노력해요.)"
+   ],
+   "narration": "일반동사 현재형은 늘 하는 일이나 사실을 말할 때 써요. 주어가 he, she, it이나 Tom처럼 나도 너도 아닌 한 사람이나 한 개, 곧 3인칭 단수이면 동사에 보통 s를 붙이고, teach처럼 ch, sh, s, x로 끝나면 es를 붙이며, have는 has로 써요. y로 끝나는 동사는 try처럼 y 앞이 자음이면 y를 i로 바꾸고 es를 붙이고, enjoy처럼 y 앞이 모음이면 s만 붙여요. 주어가 I, you, we, they이거나 여럿이면 동사원형을 그대로 써요. Amy tries hard every day. Amy는 매일 열심히 노력해요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 두 개 = 주어 Jane, Tom 뒤 동사 자리 → ing형만 있는 ② 지움",
+    "highlight": [
+     "Jane",
+     "Tom"
+    ],
+    "strike": [
+     "② studying — playing"
+    ],
+    "narration": "첫째, 두 빈칸은 주어 Jane과 Tom 바로 뒤라서 동사 자리예요. ing형만으로는 동사 자리를 채울 수 없으니 2번을 지워요."
+   },
+   {
+    "note": "Jane = 3인칭 단수, study는 y 앞 d가 자음 → studies → 첫 칸이 study인 ③④ 지움",
+    "highlight": [
+     "Jane"
+    ],
+    "strike": [
+     "③ study — plays",
+     "④ study — play"
+    ],
+    "narration": "둘째, Jane은 3인칭 단수이고 study는 y 앞의 d가 자음이라 y를 i로 바꾸고 es를 붙인 studies를 쓰니, 첫 칸이 study인 3번과 4번을 지워요."
+   },
+   {
+    "note": "Tom = 3인칭 단수, play는 y 앞 a가 모음 → plays → ⑤ 지움 → 남는 것 ①",
+    "highlight": [
+     "Tom",
+     "① studies — plays"
+    ],
+    "strike": [
+     "⑤ studies — play"
+    ],
+    "narration": "셋째, Tom도 3인칭 단수인데 play는 y 앞의 a가 모음이라 s만 붙인 plays를 쓰니 5번도 지우면 1번이 남아요. Jane studies English, and Tom plays soccer. Jane은 영어를 공부하고, Tom은 축구를 해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① studies — plays  ✓  Jane, Tom 모두 3인칭 단수 → studies, plays",
+    "② studying — playing  ✗  ing형만으로는 동사 자리를 못 채워요",
+    "③ study — plays  ✗  Jane에는 study가 아니라 studies",
+    "④ study — play  ✗  두 주어 모두 3인칭 단수인데 원형을 썼어요",
+    "⑤ studies — play  ✗  Tom에는 play가 아니라 plays"
+   ],
+   "narration": "정답은 1번 studies와 plays예요. 5번은 studies는 맞지만, Tom도 3인칭 단수라 play가 아니라 plays를 써야 해요. 3번은 plays는 맞지만, Jane에는 study가 아니라 studies를 써요. 2번 studying과 playing은 ing형이라 그것만으로는 동사 자리를 채울 수 없어요."
+  },
+  "summary": {
+   "card": "주어가 3인칭 단수 → 일반동사 + s/es (자음 + y → ies: study → studies, have → has)",
+   "narration": "정답은 1번이에요. 기억할 것, 주어가 3인칭 단수이면 일반동사 현재형에 s나 es를 붙이고, have는 has로 써요. study처럼 y 앞이 자음이면 y를 i로 바꾸고 es를 붙여요."
+  },
+  "captions": [
+   "Jane·Tom 뒤 동사",
+   "먼저 풀어 보세요",
+   "3인칭 단수 → 동사 + s/es",
+   "자음 + y → ies, 모음 + y → s",
+   "정답 ① studies — plays",
+   "3인칭 단수 + s/es, 자음 + y → ies"
+  ],
+  "sec": [
+   10,
+   16,
+   30,
+   40,
+   28,
+   12
+  ]
+ },
+ "D": {
+  "title": "My sister·my brother 뒤 동사 형태",
+  "intro": "이 문제는 주어 My sister와 my brother 뒤에 오는 일반동사의 알맞은 형태를 순서대로 짝지어 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. My sister 빈칸 a bag, and my brother 빈칸 home, 누나는 가방을 들고 다니고 형은 집에 간다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재(늘 하는 일·사실), 주어가 3인칭 단수(he, she, it, Tom) → 일반동사 + s/es",
+    "ch, sh, s, x로 끝나는 동사, do, go → + es (do → does)",
+    "y 앞이 자음 → y를 i로 바꾸고 + es (try → tries) · have → has",
+    "주어가 I, you, we, they, 복수 → 동사원형 (I do)",
+    "예) Mina does her homework. (미나는 숙제를 해요.)"
+   ],
+   "narration": "일반동사 현재형은 늘 하는 일이나 사실을 말할 때 써요. 주어가 he, she, it이나 Tom처럼 나도 너도 아닌 한 사람이나 한 개, 곧 3인칭 단수이면 동사에 보통 s를 붙여요. teach처럼 ch, sh, s, x로 끝나는 동사와 do, go에는 es를 붙이고, try처럼 y 앞이 자음이면 y를 i로 바꾸고 es를 붙여요. have는 has로 쓰고, 주어가 I, you, we, they이거나 여럿이면 동사원형을 그대로 써요. Mina does her homework. 미나는 숙제를 해요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 두 개 = 주어 My sister, my brother 뒤 동사 자리 → ing형만 있는 ① 지움",
+    "highlight": [
+     "My sister",
+     "my brother"
+    ],
+    "strike": [
+     "① carrying — going"
+    ],
+    "narration": "첫째, 두 빈칸은 주어 My sister와 my brother 바로 뒤라서 동사 자리예요. ing형만으로는 동사 자리를 채울 수 없으니 1번을 지워요."
+   },
+   {
+    "note": "My sister = 3인칭 단수, carry는 y 앞 r이 자음 → carries → 첫 칸이 carry인 ④⑤ 지움",
+    "highlight": [
+     "My sister"
+    ],
+    "strike": [
+     "④ carry — goes",
+     "⑤ carry — go"
+    ],
+    "narration": "둘째, My sister는 3인칭 단수이고 carry는 y 앞의 r이 자음이라 y를 i로 바꾸고 es를 붙인 carries를 쓰니, 첫 칸이 carry인 4번과 5번을 지워요."
+   },
+   {
+    "note": "my brother = 3인칭 단수, go + es → goes → ② 지움 → 남는 것 ③",
+    "highlight": [
+     "my brother",
+     "③ carries — goes"
+    ],
+    "strike": [
+     "② carries — go"
+    ],
+    "narration": "셋째, my brother도 3인칭 단수라 go에 es를 붙인 goes를 써야 하니 2번도 지우면 3번이 남아요. My sister carries a bag, and my brother goes home. 누나는 가방을 들고 다니고, 형은 집에 가요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① carrying — going  ✗  ing형만으로는 동사 자리를 못 채워요",
+    "② carries — go  ✗  my brother에는 go가 아니라 goes",
+    "③ carries — goes  ✓  두 주어 모두 3인칭 단수 → carries, goes",
+    "④ carry — goes  ✗  My sister에는 carry가 아니라 carries",
+    "⑤ carry — go  ✗  두 주어 모두 3인칭 단수인데 원형을 썼어요"
+   ],
+   "narration": "정답은 3번 carries와 goes예요. 2번은 carries는 맞지만, my brother도 3인칭 단수라 go가 아니라 es를 붙인 goes를 써야 해요. 4번은 goes는 맞지만, My sister에는 carry가 아니라 carries를 써요. 1번 carrying과 going은 ing형이라 그것만으로는 동사 자리를 채울 수 없어요."
+  },
+  "summary": {
+   "card": "주어가 3인칭 단수 → 일반동사 + s/es (carry → carries, go → goes, have → has)",
+   "narration": "정답은 3번이에요. 기억할 것, 주어가 3인칭 단수이면 일반동사 현재형에 s나 es를 붙이고, have는 has로 써요. carry처럼 y 앞이 자음이면 y를 i로 바꾸고 es를 붙이고, go는 goes로 써요."
+  },
+  "captions": [
+   "My sister·my brother 뒤 동사",
+   "먼저 풀어 보세요",
+   "3인칭 단수 → 동사 + s/es",
+   "carry → carries, go → goes",
+   "정답 ③ carries — goes",
+   "3인칭 단수 + s/es, have → has"
+  ],
+  "sec": [
+   10,
+   16,
+   30,
+   40,
+   28,
+   12
+  ]
+ },
+ "E": {
+  "title": "The dog·the cat 뒤 일반동사 형태",
+  "intro": "이 문제는 주어 The dog와 the cat 뒤에 오는 일반동사의 알맞은 형태를 순서대로 짝지어 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. The dog 빈칸 fast, and the cat 빈칸 on the bed, 그 개는 빨리 달리고 그 고양이는 침대 위에서 잔다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재(늘 하는 일·사실), 주어가 3인칭 단수(he, she, it, Tom) → 일반동사 + s/es",
+    "대부분 + s (sing → sings) · ch, sh, s, x로 끝나면 + es (teach → teaches)",
+    "have → has · 주어가 I, you, we, they, 복수 → 동사원형 (I sing)",
+    "예) The bird sings every morning. (그 새는 매일 아침 노래해요.)"
+   ],
+   "narration": "일반동사 현재형은 늘 하는 일이나 사실을 말할 때 써요. 주어가 he, she, it이나 Tom처럼 나도 너도 아닌 한 사람이나 한 개, 곧 3인칭 단수이면 동사에 보통 s를 붙여요. teach처럼 ch, sh, s, x로 끝나면 es를 붙이고, have는 has로 써요. 주어가 I, you, we, they이거나 여럿이면 동사원형을 그대로 써요. The bird sings every morning. 그 새는 매일 아침 노래해요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 두 개 = 주어 The dog, the cat 뒤 동사 자리 → ing형만 있는 ④ 지움",
+    "highlight": [
+     "The dog",
+     "the cat"
+    ],
+    "strike": [
+     "④ running — sleeping"
+    ],
+    "narration": "첫째, 두 빈칸은 주어 The dog와 the cat 바로 뒤라서 동사 자리예요. ing형만으로는 동사 자리를 채울 수 없으니 4번을 지워요."
+   },
+   {
+    "note": "The dog = 개 한 마리 = 3인칭 단수 → runs → 첫 칸이 run인 ①② 지움",
+    "highlight": [
+     "The dog"
+    ],
+    "strike": [
+     "① run — sleeps",
+     "② run — sleep"
+    ],
+    "narration": "둘째, The dog는 개 한 마리, 곧 3인칭 단수라 run에 s를 붙인 runs를 쓰니, 첫 칸이 run인 1번과 2번을 지워요."
+   },
+   {
+    "note": "the cat = 3인칭 단수 → sleeps → ⑤ 지움 → 남는 것 ③",
+    "highlight": [
+     "the cat",
+     "③ runs — sleeps"
+    ],
+    "strike": [
+     "⑤ runs — sleep"
+    ],
+    "narration": "셋째, the cat도 3인칭 단수라 sleep에 s를 붙인 sleeps를 써야 하니 5번도 지우면 3번이 남아요. The dog runs fast, and the cat sleeps on the bed. 그 개는 빨리 달리고, 그 고양이는 침대 위에서 자요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① run — sleeps  ✗  The dog에는 run이 아니라 runs",
+    "② run — sleep  ✗  두 주어 모두 3인칭 단수인데 원형을 썼어요",
+    "③ runs — sleeps  ✓  두 주어 모두 3인칭 단수 → runs, sleeps",
+    "④ running — sleeping  ✗  ing형만으로는 동사 자리를 못 채워요",
+    "⑤ runs — sleep  ✗  the cat에는 sleep이 아니라 sleeps"
+   ],
+   "narration": "정답은 3번 runs와 sleeps예요. 5번은 runs는 맞지만, the cat도 3인칭 단수라 sleep이 아니라 sleeps를 써야 해요. 1번은 sleeps는 맞지만, The dog에는 run이 아니라 runs를 써요. 4번 running과 sleeping은 ing형이라 그것만으로는 동사 자리를 채울 수 없어요."
+  },
+  "summary": {
+   "card": "주어가 3인칭 단수 → 일반동사 + s/es (run → runs, have → has)",
+   "narration": "정답은 3번이에요. 기억할 것, 주어가 3인칭 단수이면 일반동사 현재형에 s나 es를 붙이고, have는 has로 써요. run과 sleep처럼 대부분의 동사는 s만 붙여요."
+  },
+  "captions": [
+   "The dog·the cat 뒤 동사",
+   "먼저 풀어 보세요",
+   "3인칭 단수 → 동사 + s/es",
+   "동사 자리 → 둘 다 3인칭 단수",
+   "정답 ③ runs — sleeps",
+   "3인칭 단수 + s/es, have → has"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   38,
+   28,
+   12
+  ]
+ },
+ "F": {
+  "title": "Dad·Mom 뒤 일반동사 형태",
+  "intro": "이 문제는 주어 Dad와 Mom 뒤에 오는 일반동사의 알맞은 형태를 순서대로 짝지어 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. Dad 빈칸 dishes, and Mom 빈칸 dinner, 아빠는 설거지를 하고 엄마는 저녁을 요리한다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재(늘 하는 일·사실), 주어가 3인칭 단수(he, she, it, Tom) → 일반동사 + s/es",
+    "대부분 + s (like → likes) · ch, sh, s, x로 끝나면 + es (brush → brushes)",
+    "have → has · 주어가 I, you, we, they, 복수 → 동사원형 (I brush)",
+    "예) She brushes her teeth every night. (그녀는 매일 밤 이를 닦아요.)"
+   ],
+   "narration": "일반동사 현재형은 늘 하는 일이나 사실을 말할 때 써요. 주어가 he, she, it이나 Tom처럼 나도 너도 아닌 한 사람이나 한 개, 곧 3인칭 단수이면 동사에 보통 s를 붙여요. brush처럼 ch, sh, s, x로 끝나면 es를 붙이고, have는 has로 써요. 주어가 I, you, we, they이거나 여럿이면 동사원형을 그대로 써요. She brushes her teeth every night. 그녀는 매일 밤 이를 닦아요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 두 개 = 주어 Dad, Mom 뒤 동사 자리 → ing형만 있는 ② 지움",
+    "highlight": [
+     "Dad",
+     "Mom"
+    ],
+    "strike": [
+     "② washing — cooking"
+    ],
+    "narration": "첫째, 두 빈칸은 주어 Dad와 Mom 바로 뒤라서 동사 자리예요. ing형만으로는 동사 자리를 채울 수 없으니 2번을 지워요."
+   },
+   {
+    "note": "Dad = 3인칭 단수, wash는 sh로 끝남 → washes → 첫 칸이 wash인 ①④ 지움",
+    "highlight": [
+     "Dad"
+    ],
+    "strike": [
+     "① wash — cooks",
+     "④ wash — cook"
+    ],
+    "narration": "둘째, Dad는 3인칭 단수이고 wash는 sh로 끝나서 es를 붙인 washes를 쓰니, 첫 칸이 wash인 1번과 4번을 지워요."
+   },
+   {
+    "note": "Mom = 3인칭 단수 → cooks → ⑤ 지움 → 남는 것 ③",
+    "highlight": [
+     "Mom",
+     "③ washes — cooks"
+    ],
+    "strike": [
+     "⑤ washes — cook"
+    ],
+    "narration": "셋째, Mom도 3인칭 단수라 cook에 s를 붙인 cooks를 써야 하니 5번도 지우면 3번이 남아요. Dad washes dishes, and Mom cooks dinner. 아빠는 설거지를 하고, 엄마는 저녁을 요리해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① wash — cooks  ✗  Dad에는 wash가 아니라 washes",
+    "② washing — cooking  ✗  ing형만으로는 동사 자리를 못 채워요",
+    "③ washes — cooks  ✓  두 주어 모두 3인칭 단수 → washes, cooks",
+    "④ wash — cook  ✗  두 주어 모두 3인칭 단수인데 원형을 썼어요",
+    "⑤ washes — cook  ✗  Mom에는 cook이 아니라 cooks"
+   ],
+   "narration": "정답은 3번 washes와 cooks예요. 1번은 cooks는 맞지만, Dad에는 wash가 아니라 sh로 끝나서 es를 붙인 washes를 써요. 5번은 washes는 맞지만, Mom도 3인칭 단수라 cook이 아니라 cooks를 써야 해요. 4번은 두 주어 모두 3인칭 단수인데 동사원형을 그대로 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "주어가 3인칭 단수 → 일반동사 + s/es (wash → washes, have → has)",
+   "narration": "정답은 3번이에요. 기억할 것, 주어가 3인칭 단수이면 일반동사 현재형에 s나 es를 붙이고, have는 has로 써요. wash처럼 sh로 끝나는 동사에는 es를 붙여요."
+  },
+  "captions": [
+   "Dad·Mom 뒤 동사",
+   "먼저 풀어 보세요",
+   "3인칭 단수 → 동사 + s/es",
+   "동사 자리 → 둘 다 3인칭 단수",
+   "정답 ③ washes — cooks",
+   "3인칭 단수 + s/es, have → has"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   38,
+   28,
+   12
+  ]
+ }
+}

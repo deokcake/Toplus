@@ -1,0 +1,181 @@
+{
+ "key": "5-13",
+ "type": "E",
+ "grade": 5,
+ "chapter": "CH 2 be동사와 일반동사",
+ "title": "주어에 맞는 현재형 동사의 형태",
+ "total_sec": 127,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 2 be동사와 일반동사 · 13번 · E 유형\n\n이 문제는 일반동사와 be동사가 주어에 맞는 형태인지 살펴, 동사의 형태가 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 2 be동사와 일반동사 · 13번 · E 유형",
+     "이 문제는 일반동사와 be동사가 주어에 맞는 형태인지 살펴, 동사의 형태가 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 2, 13번 E 유형. 이 문제는 일반동사와 be동사가 주어에 맞는 형태인지 살펴, 동사의 형태가 틀린 문장을 고르는 문제예요.",
+   "caption": "동사의 형태가 틀린 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 동사의 형태가 틀린 문장을 고르시오.\n\n① The sun rises in the east.\n② You are very kind.\n③ My uncle has a car.\n④ The girls dances well.\n⑤ Dad washes the dishes.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 동사의 형태가 틀린 문장을 고르시오.",
+     "① The sun rises in the east.",
+     "② You are very kind.",
+     "③ My uncle has a car.",
+     "④ The girls dances well.",
+     "⑤ Dad washes the dishes."
+    ]
+   },
+   "narration": "다음 중 동사의 형태가 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n현재형: 주어가 3인칭 단수(he, she, it, Tom) → 일반동사 + s/es\n자음 + y로 끝나면 y를 i로 바꾸고 es (cry → cries) · have → has\n주어가 I, you, we, they, 복수 → 일반동사는 동사원형\nbe동사: I → am · 3인칭 단수 → is · you, 복수 → are\n예) The baby sleeps. (아기가 자요.)  The babies sleep. (아기들이 자요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재형: 주어가 3인칭 단수(he, she, it, Tom) → 일반동사 + s/es",
+     "자음 + y로 끝나면 y를 i로 바꾸고 es (cry → cries) · have → has",
+     "주어가 I, you, we, they, 복수 → 일반동사는 동사원형",
+     "be동사: I → am · 3인칭 단수 → is · you, 복수 → are",
+     "예) The baby sleeps. (아기가 자요.)  The babies sleep. (아기들이 자요.)"
+    ]
+   },
+   "narration": "현재형은 주로 평소에 하는 일이나 사실을 말하고, 일반동사와 be동사의 모양은 주어에 맞춰 골라요. 주어가 he, she, it이나 Tom처럼 3인칭 단수이면 일반동사에 s나 es를 붙이는데, 자음 다음 y로 끝나면 y를 i로 바꿔 es를 붙이고, have는 has로 써요. 주어가 I, you, we, they이거나 여럿이면 일반동사는 동사원형을 쓰고, be동사는 I에 am, 3인칭 단수에 is, you와 여럿에 are를 써요. 예를 들어 The baby sleeps, 아기가 자요. The babies sleep. 아기들이 자요.",
+   "caption": "주어에 맞는 동사 모양"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 동사의 형태가 틀린 문장을 고르시오.\n\n① The sun rises in the east.\n② You are very kind.\n③ My uncle has a car.\n④ The girls dances well.\n⑤ Dad washes the dishes.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "The sun",
+       "My uncle",
+       "Dad",
+       "You",
+       "The girls"
+      ],
+      "strike": [],
+      "note": "주어 찾기: The sun, My uncle, Dad → 3인칭 단수 / You, The girls → 3인칭 단수 아님"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "rises",
+       "has",
+       "washes",
+       "are"
+      ],
+      "strike": [],
+      "note": "3인칭 단수 → rises, has(have), washes(sh + es) 맞다 / You → be동사 are 맞다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "The girls"
+      ],
+      "strike": [
+       "dances"
+      ],
+      "note": "The girls는 여럿인데 dances ✗ → dance. 틀린 문장은 ④"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 주어를 찾아 보면 The sun, My uncle, Dad는 3인칭 단수이고, You와 The girls는 3인칭 단수가 아니에요. 둘째, 3인칭 단수 주어에 쓴 rises, wash에 es를 붙인 washes, have를 바꾼 has는 모두 맞아요. You에는 be동사 are가 맞아요. 셋째, The girls는 여럿이라 s를 붙이지 않은 동사원형 dance를 써야 하니 4번이 틀린 문장이에요. The girls dance well, 그 여자아이들은 춤을 잘 춰요.",
+   "caption": "주어 찾기 → 동사 확인 → The girls dances"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① The sun rises in the east.  ✗  3인칭 단수 The sun → rise + s, rises가 맞아요\n② You are very kind.  ✗  주어 You → be동사 are가 맞아요\n③ My uncle has a car.  ✗  3인칭 단수 My uncle → have가 아니라 has가 맞아요\n④ The girls dances well.  ✓  복수 The girls → dances가 아니라 dance (틀린 문장)\n⑤ Dad washes the dishes.  ✗  3인칭 단수 Dad → sh로 끝나는 wash + es, washes가 맞아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① The sun rises in the east.  ✗  3인칭 단수 The sun → rise + s, rises가 맞아요",
+     "② You are very kind.  ✗  주어 You → be동사 are가 맞아요",
+     "③ My uncle has a car.  ✗  3인칭 단수 My uncle → have가 아니라 has가 맞아요",
+     "④ The girls dances well.  ✓  복수 The girls → dances가 아니라 dance (틀린 문장)",
+     "⑤ Dad washes the dishes.  ✗  3인칭 단수 Dad → sh로 끝나는 wash + es, washes가 맞아요"
+    ]
+   },
+   "narration": "정답은 4번이에요. The girls는 여자아이 여러 명이라 s를 붙이지 않은 동사원형 dance를 써야 해요. 3번 has를 have로 고쳐야 한다고 생각하기 쉽지만, 3인칭 단수 My uncle에는 has가 맞아요. 2번 You는 한 사람이어도 be동사 are를 써요. 5번 Dad에는 wash에 es를 붙인 washes가 맞아요.",
+   "caption": "정답 ④ dances → dance"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ④ The girls dances well.\n\n여럿인 주어 → 현재형 일반동사는 동사원형 (dance)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ The girls dances well.",
+     "여럿인 주어 → 현재형 일반동사는 동사원형 (dance)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 주어가 여럿이면 현재형 일반동사는 s를 붙이지 않고 동사원형을 써요.",
+   "caption": "여럿인 주어 + 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 동사의 형태가 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "The sun rises in the east.",
+   "You are very kind.",
+   "My uncle has a car.",
+   "The girls dances well.",
+   "Dad washes the dishes."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 현재 시제에서 3인칭 단수 주어의 일반동사에는 -s/-es를 붙이고(자음 + y는 y를 i로 바꾸고 -es), 그 밖의 주어에는 동사원형을 쓴다. be동사는 I에 am, 3인칭 단수에 is, you·복수에 are를 쓴다.\n풀이 순서: ① 문장마다 주어가 3인칭 단수인지 본다. → ② 3인칭 단수면 동사에 -(e)s(have는 has), 아니면 동사원형이다. → ③ 선택지 ④의 The girls는 복수이므로 dance를 써야 한다. 정답은 ④.\n문장별 판정:\n정답 판단: 복수 주어 The girls에는 dance를 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n② [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n③ [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n④ [정답] 복수 주어 The girls에는 dance를 써야 하므로 정답이다.\n⑤ [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다."
+ }
+}

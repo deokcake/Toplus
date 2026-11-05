@@ -1,0 +1,179 @@
+{
+ "key": "6-32",
+ "type": "B",
+ "grade": 6,
+ "chapter": "CH 4 일반동사",
+ "title": "3인칭 단수 주어와 일반동사의 s",
+ "total_sec": 130,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "6급 · CH 4 일반동사 · 32번 · B 유형\n\n이 문제는 주어를 보고, 일반동사 현재형에 s가 붙지 않는 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 4 일반동사 · 32번 · B 유형",
+     "이 문제는 주어를 보고, 일반동사 현재형에 s가 붙지 않는 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 4, 32번 B 유형. 이 문제는 주어를 보고, 일반동사 현재형에 s가 붙지 않는 문장을 고르는 문제예요.",
+   "caption": "3인칭 단수 주어와 일반동사의 s"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 19,
+   "screen": {
+    "text": "다음 중 밑줄 친 동사에 s가 붙지 않는 것은?\n\n① Tom <u>read</u> books every night.\n② My dad <u>drink</u> coffee.\n③ We <u>play</u> soccer after school.\n④ The boy <u>run</u> fast.\n⑤ He <u>sing</u> well.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 밑줄 친 동사에 s가 붙지 않는 것은?",
+     "① Tom <u>read</u> books every night.",
+     "② My dad <u>drink</u> coffee.",
+     "③ We <u>play</u> soccer after school.",
+     "④ The boy <u>run</u> fast.",
+     "⑤ He <u>sing</u> well."
+    ]
+   },
+   "narration": "다음 중 밑줄 친 동사에 s가 붙지 않는 것은 무엇일까요? 밑줄 친 동사는 모두 동사원형으로 쓰여 있어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n일반동사 현재형: 평소에 하는 일이나 사실을 말해요\n주어가 3인칭 단수(he, she, it, Tom처럼 나도 너도 아닌 하나) → 동사 + s/es\nlikes, goes, watches · have → has\n주어가 I, you, we, they, 복수(여럿) → 동사원형 그대로\n예) We like pizza. (우리는 피자를 좋아해요.)  She likes pizza. (그녀는 피자를 좋아해요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "일반동사 현재형: 평소에 하는 일이나 사실을 말해요",
+     "주어가 3인칭 단수(he, she, it, Tom처럼 나도 너도 아닌 하나) → 동사 + s/es",
+     "likes, goes, watches · have → has",
+     "주어가 I, you, we, they, 복수(여럿) → 동사원형 그대로",
+     "예) We like pizza. (우리는 피자를 좋아해요.)  She likes pizza. (그녀는 피자를 좋아해요.)"
+    ]
+   },
+   "narration": "일반동사 현재형은 평소에 하는 일이나 사실을 말할 때 써요. 주어가 he, she, it처럼 나도 너도 아닌 하나, 곧 3인칭 단수이면 동사에 s나 es를 붙이고, have는 has로 써요. 주어가 I, you, we, they이거나 여럿이면 동사원형을 써요. We like pizza, 우리는 피자를 좋아해요. She likes pizza, 그녀는 피자를 좋아해요.",
+   "caption": "3인칭 단수일 때만 s·es"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 밑줄 친 동사에 s가 붙지 않는 것은?\n\n① Tom <u>read</u> books every night.\n② My dad <u>drink</u> coffee.\n③ We <u>play</u> soccer after school.\n④ The boy <u>run</u> fast.\n⑤ He <u>sing</u> well.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "① Tom",
+       "② My dad",
+       "③ We",
+       "④ The boy",
+       "⑤ He"
+      ],
+      "strike": [],
+      "note": "밑줄 친 동사 앞의 주어 찾기: Tom / My dad / We / The boy / He"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① Tom <u>read</u> books every night.",
+       "② My dad <u>drink</u> coffee.",
+       "④ The boy <u>run</u> fast.",
+       "⑤ He <u>sing</u> well."
+      ],
+      "note": "Tom, My dad, The boy, He = 한 사람 → 3인칭 단수 → reads, drinks, runs, sings"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ We <u>play</u> soccer after school."
+      ],
+      "strike": [],
+      "note": "We = 나를 포함한 여러 사람 → 3인칭 단수 아님 → play 그대로 → We play soccer after school."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 밑줄 친 동사 앞의 주어를 찾아요. 둘째, Tom, My dad, The boy, He는 모두 나도 너도 아닌 한 사람이라서 3인칭 단수예요. 그래서 reads, drinks, runs, sings처럼 s가 붙어요. 셋째, We는 나를 포함한 여러 사람이라 3인칭 단수가 아니어서 play를 그대로 써요. We play soccer after school, 우리는 방과 후에 축구를 해요.",
+   "caption": "주어 찾기 → 3인칭 단수? → ③"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① Tom <u>read</u> books every night.  ✗  Tom은 한 사람(3인칭 단수) → reads\n② My dad <u>drink</u> coffee.  ✗  My dad는 아빠 한 사람(3인칭 단수) → drinks\n③ We <u>play</u> soccer after school.  ✓  We는 여러 사람(복수) → play 그대로\n④ The boy <u>run</u> fast.  ✗  The boy는 한 명(3인칭 단수) → runs\n⑤ He <u>sing</u> well.  ✗  He는 3인칭 단수 → sings",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Tom <u>read</u> books every night.  ✗  Tom은 한 사람(3인칭 단수) → reads",
+     "② My dad <u>drink</u> coffee.  ✗  My dad는 아빠 한 사람(3인칭 단수) → drinks",
+     "③ We <u>play</u> soccer after school.  ✓  We는 여러 사람(복수) → play 그대로",
+     "④ The boy <u>run</u> fast.  ✗  The boy는 한 명(3인칭 단수) → runs",
+     "⑤ He <u>sing</u> well.  ✗  He는 3인칭 단수 → sings"
+    ]
+   },
+   "narration": "정답은 3번이에요. We는 여러 사람이라 play를 그대로 써요. 2번 My dad는 My를 보고 I처럼 생각하기 쉽지만, 주어는 아빠 한 사람이라 drinks가 돼요. 1번 Tom도 한 사람이라 reads예요. 4번 The boy도 소년 한 명이라 runs예요.",
+   "caption": "정답 ③ We play"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ We <u>play</u> soccer after school.\n\n3인칭 단수 주어 → 동사 + s/es · I, you, we, they, 복수 → 동사원형",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ We <u>play</u> soccer after school.",
+     "3인칭 단수 주어 → 동사 + s/es · I, you, we, they, 복수 → 동사원형"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 일반동사 현재형은 주어가 3인칭 단수일 때만 s나 es를 붙여요.",
+   "caption": "3인칭 단수만 s·es, 나머지는 원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 밑줄 친 동사에 s가 붙지 않는 것은?",
+  "passage": "",
+  "c": [
+   "Tom <u>read</u> books every night.",
+   "My dad <u>drink</u> coffee.",
+   "We <u>play</u> soccer after school.",
+   "The boy <u>run</u> fast.",
+   "He <u>sing</u> well."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 3인칭 단수 주어(he, she, it, 사람·동물 한 명/한 마리)의 현재형 일반동사에는 s를 붙이고, I·you·복수 주어(A and B 포함)에는 동사원형을 쓴다.\n풀이 순서: ① 문장마다 주어만 본다. he/she/it이나 한 사람·한 개를 가리키는 명사면 s가 붙는다. → ② I, you, we, they나 둘 이상(A and B, 복수 명사)이면 붙지 않는다. → ③ 선택지 ③의 주어 We만 3인칭 단수가 아니다. 정답은 ③.\n문장별 판정:\n정답 판단: 주어(We)가 3인칭 단수가 아니어서 동사원형을 써 s가 붙지 않으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 3인칭 단수 주어(Tom)라 s가 붙으므로 오답이다.\n② [오답] 3인칭 단수 주어(My dad)라 s가 붙으므로 오답이다.\n③ [정답] 주어(We)가 3인칭 단수가 아니어서 동사원형을 써 s가 붙지 않으므로 정답이다.\n④ [오답] 3인칭 단수 주어(The boy)라 s가 붙으므로 오답이다.\n⑤ [오답] 3인칭 단수 주어(He)라 s가 붙으므로 오답이다."
+ }
+}

@@ -1,0 +1,180 @@
+{
+ "key": "4-17",
+ "type": "E",
+ "grade": 4,
+ "chapter": "CH 2 대명사",
+ "title": "my parents를 받는 목적격 them",
+ "total_sec": 132,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "4급 · CH 2 대명사 · 17번 · E 유형\n\n이 문제는 앞에 나온 my parents를 다시 가리키는 알맞은 대명사를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 2 대명사 · 17번 · E 유형",
+     "이 문제는 앞에 나온 my parents를 다시 가리키는 알맞은 대명사를 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 2, 17번 E 유형. 이 문제는 앞에 나온 my parents를 다시 가리키는 알맞은 대명사를 고르는 문제예요.",
+   "caption": "my parents를 받는 대명사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 22,
+   "screen": {
+    "text": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은?\n\nA: Do you remember my parents from the school festival?\nB: Of course, I remember ________ very well.\n\n① me\n② her\n③ him\n④ you\n⑤ them",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은?",
+     "A: Do you remember my parents from the school festival?",
+     "B: Of course, I remember ________ very well.",
+     "① me",
+     "② her",
+     "③ him",
+     "④ you",
+     "⑤ them"
+    ]
+   },
+   "narration": "다음 대화의 빈칸에 알맞은 말을 고르세요. Do you remember my parents from the school festival? Of course, I remember 빈칸 very well. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n앞에 나온 사람을 다시 가리킬 때 → 대명사\n동사 뒤 목적어 자리 → 목적격 (me, you, him, her, it, us, them)\n남자 한 명 → him,  여자 한 명 → her,  여럿 → them\n예) I miss my grandparents, so I call them every week. (나는 할머니 할아버지가 보고 싶어서 매주 그분들께 전화해요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "앞에 나온 사람을 다시 가리킬 때 → 대명사",
+     "동사 뒤 목적어 자리 → 목적격 (me, you, him, her, it, us, them)",
+     "남자 한 명 → him,  여자 한 명 → her,  여럿 → them",
+     "예) I miss my grandparents, so I call them every week. (나는 할머니 할아버지가 보고 싶어서 매주 그분들께 전화해요.)"
+    ]
+   },
+   "narration": "앞에 나온 사람을 다시 가리킬 때는 대명사를 써요. 동사 뒤 목적어 자리에는 me, you, him, her, it, us, them 같은 목적격을 써요. 남자 한 명이면 him, 여자 한 명이면 her, 여럿이면 them이에요. 예를 들어 I miss my grandparents, so I call them every week. 나는 할머니 할아버지가 보고 싶어서, 매주 그분들께 전화해요.",
+   "caption": "목적격: him, her, them"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은?\n\nA: Do you remember my parents from the school festival?\nB: Of course, I remember ________ very well.\n\n① me\n② her\n③ him\n④ you\n⑤ them",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "my parents",
+       "________"
+      ],
+      "strike": [],
+      "note": "빈칸이 가리키는 사람 = my parents (부모님 두 분 → 복수)"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "I remember ________"
+      ],
+      "strike": [
+       "① me",
+       "④ you"
+      ],
+      "note": "remember 뒤 목적어 자리. 대화하는 두 사람 me·you ✗"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ them"
+      ],
+      "strike": [
+       "② her",
+       "③ him"
+      ],
+      "note": "한 사람만 받는 her·him ✗ → 여럿의 목적격 them"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 빈칸이 가리키는 사람은 A가 말한 my parents, 부모님인데, 두 분이니 복수예요. 둘째, 빈칸은 동사 remember 뒤 목적어 자리예요. me는 말하는 B 자신, you는 대화 상대 A를 가리켜서 부모님이 아니에요. 셋째, her와 him은 한 사람만 받으니, 여럿을 받는 목적격 them을 써요. I remember them very well. 그분들을 아주 잘 기억해.",
+   "caption": "my parents → remember 뒤 → them"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① me  ✗  말하는 B 자신을 가리켜요\n② her  ✗  여자 한 명을 받는 목적격\n③ him  ✗  남자 한 명을 받는 목적격\n④ you  ✗  대화 상대 A를 가리켜요\n⑤ them  ✓  복수 my parents를 받는 목적격",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① me  ✗  말하는 B 자신을 가리켜요",
+     "② her  ✗  여자 한 명을 받는 목적격",
+     "③ him  ✗  남자 한 명을 받는 목적격",
+     "④ you  ✗  대화 상대 A를 가리켜요",
+     "⑤ them  ✓  복수 my parents를 받는 목적격"
+    ]
+   },
+   "narration": "정답은 5번 them이에요. 2번 her는 여자 한 명을 받는 말이라, 부모님 두 분을 받을 수 없어요. 3번 him도 남자 한 명만 받아요. 4번 you는 A에게 하는 말이라 고르기 쉽지만, 부모님이 아니라 A 자신을 가리켜요.",
+   "caption": "정답 ⑤ them"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ⑤ them\n\n여럿(복수)을 목적어 자리에서 받을 때 → them",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ them",
+     "여럿(복수)을 목적어 자리에서 받을 때 → them"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 여러 사람을 동사 뒤 목적어 자리에서 받을 때는 them을 써요.",
+   "caption": "여럿 목적어 → them"
+  }
+ ],
+ "source": {
+  "stem": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은?",
+  "passage": "A: Do you remember my parents from the school festival?\nB: Of course, I remember ________ very well.",
+  "c": [
+   "me",
+   "her",
+   "him",
+   "you",
+   "them"
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 앞에 나온 사람·사물을 대명사로 받을 때는 수(단수·복수)와 성(남·여)을 맞추고, 동사 뒤 목적어 자리에는 목적격(me, you, him, her, it, us, them)을 쓴다.\n풀이 순서: ① 빈칸이 가리키는 말을 앞에서 찾는다: my parents(복수). → ② 빈칸은 동사 뒤 목적어 자리이므로 목적격을 쓴다: them. → ③ 정답은 them.\n문장별 판정:\n정답 판단: 빈칸은 동사 remember 뒤 목적어 자리이고 my parents(복수)를 받으므로 목적격 them이 들어간다. 정답은 ⑤이다.\n선택지 분석:\n① [오답] me는 B 자신을 가리켜 my parents를 받을 수 없으므로 오답이다.\n② [오답] her는 여자 한 명을 받는 목적격이라 복수인 my parents를 받을 수 없으므로 오답이다.\n③ [오답] him은 남자 한 명을 받는 목적격이라 복수인 my parents를 받을 수 없으므로 오답이다.\n④ [오답] you는 상대방 A를 가리켜 my parents를 받을 수 없으므로 오답이다.\n⑤ [정답] my parents(복수)를 받는 목적격이므로 정답이다."
+ }
+}

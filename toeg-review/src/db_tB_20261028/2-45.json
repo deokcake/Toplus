@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T06:25:44.822Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Mina, Jane",
+      "1": "Mina, Leo",
+      "2": "Leo, Ben",
+      "3": "Mina, Leo, Sora",
+      "4": "Jane, Ben, Sora"
+    },
+    "expl": "핵심 규칙: 가목적어 it은 목적어 자리에 먼저 오고 진목적어(to부정사·that절)는 뒤에 온다. some은 긍정문·권유·부탁, any는 부정문·의문문에 주로 쓴다. each/every + 단수명사, each of + 복수명사는 단수 동사를 쓴다. 재귀 용법은 뺄 수 없고 강조 용법은 뺄 수 있다. others는 막연한 다른 몇몇, the others는 정해진 나머지 전부이다.\n풀이 순서: ① 학생마다 예문과 설명을 따로 따진다. 틀린 예문을 맞다고 하거나 용법을 잘못 말하면 틀린 설명이다. → ② Jane은 Each of the boys have를 맞다고 했고(has), Ben은 hurt의 목적어인 herself를 생략할 수 있다고 했으며, Sora는 others를 ‘나머지 전부’로 풀었다. 셋 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Mina, Leo이다.\n문장별 판정:\nMina 옳음: it이 목적어 자리에 먼저 오고 진목적어 to finish in one day가 뒤에 왔다.\nLeo 옳음: 권유하는 의문문에는 some을 쓸 수 있다.\nJane 틀림: each of + 복수명사는 단수 동사를 쓰므로 has가 맞다.\nBen 틀림: hurt의 목적어인 재귀 용법이라 빼면 문장이 성립하지 않는다.\nSora 틀림: others는 막연한 다른 몇몇이고, 나머지 전부는 the others이다.\n정답 판단: 올바르게 설명한 학생은 Mina, Leo이다.\n선택지 분석:\n① [오답] Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Leo를 빠뜨렸다. 따라서 오답이다.\n② [정답] 올바르게 설명한 학생 Mina, Leo를 빠짐없이 골랐으므로 정답이다.\n③ [오답] Ben는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Sora는 올바르게 설명한 학생이 아니다. 따라서 오답이다.\n⑤ [오답] Jane, Ben, Sora는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina, Leo를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "Mina: We found it impossible to finish in one day. 에서 it은 가목적어야.\nLeo: Would you like some tea? 에서 권유하는 의문문이라 some을 쓸 수 있어.\nJane: Each of the boys have a locker. 는 맞는 문장이야.\nBen: She hurt herself. 에서 herself는 생략해도 문장이 온전해.\nSora: Some people like summer, and others like winter. 에서 others는 나머지 모든 사람을 뜻해.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T06:25:44.147Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T06:25:44.822Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T06:25:44.822Z",
+      "what": "확인 완료"
+    }
+  }
+}

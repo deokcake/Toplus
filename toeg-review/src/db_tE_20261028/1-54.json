@@ -1,0 +1,37 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:16:36.740Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "The boy denied eating the chocolate cake in the fridge.",
+      "1": "Jane postponed to make the decision until next week.",
+      "2": "I promised to help my mom with the cooking tonight.",
+      "3": "She gave up learning the violin after two years.",
+      "4": "They agreed to meet at the library at noon."
+    },
+    "expl": "핵심 규칙: avoid, postpone, consider, deny, finish, enjoy, mind, give up, quit, practice, admit, recommend, imagine 등은 동명사만 목적어로 쓰고, want, hope, decide, plan, promise, agree, need, learn 등은 to부정사를 목적어로 쓴다. continue, try는 둘 다 쓸 수 있다.\n풀이 순서: ① 문장마다 동사와 그 뒤 목적어의 형태(to부정사인지 -ing인지)를 짝짓는다. → ② deny, give up 뒤의 동명사와 promise, agree 뒤의 to부정사는 모두 옳다. → ③ 선택지 ②는 postpone 뒤에 to부정사를 썼으므로 동명사(making)로 고쳐야 한다.\n문장별 판정:\n정답 판단: 동사(postpone)는 동명사만 목적어로 쓰므로 to부정사를 쓸 수 없다. postponed making로 고쳐야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 동사(deny)는 동명사를 목적어로 쓰므로 -ing형을 바르게 썼다. 오답이다.\n② [정답] 동사(postpone)는 동명사만 목적어로 쓰므로 to부정사를 쓸 수 없다. postponed making로 고쳐야 하므로 정답이다.\n③ [오답] 동사(promise)는 to부정사를 목적어로 쓰므로 to부정사를 바르게 썼다. 오답이다.\n④ [오답] 동사(give up)는 동명사를 목적어로 쓰므로 -ing형을 바르게 썼다. 오답이다.\n⑤ [오답] 동사(agree)는 to부정사를 목적어로 쓰므로 to부정사를 바르게 썼다. 오답이다.",
+    "passage": "",
+    "stem": "다음 중 어법상 어색한 것을 고르시오."
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:29:37.455Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:16:36.740Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:16:31.818Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:16:36.740Z",
+      "what": "확인 완료"
+    }
+  }
+}

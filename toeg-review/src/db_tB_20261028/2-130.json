@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:35:25.142Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 현재 반대 사실의 소망과 비교에는 과거형, 이미 끝난 과거의 후회에는 had + 과거분사를 쓴다. 과거 조건의 결과는 would have + 과거분사로 나타낸다.\n풀이 순서: ① I wish, as if, If 뒤의 동사 형태를 본다. 지금 일의 반대는 과거형(were, could), 지난 일의 반대는 had + 과거분사다. → ② 문장 속 시간 표현(now, yesterday, last year 등)과 견주고, 과거분사의 형태도 확인한다. → ③ 다섯째만 틀렸다. I wish 뒤에는 can이 아니라 could를 쓴다. 옳은 문장은 4개이다.\n문장별 판정:\n첫째 O: 여행에서 사진을 더 찍지 못한 과거 후회는 had taken이다.\n둘째 O: 현재 자신감에 대한 반대 사실의 소망은 were로 나타낸다.\n셋째 O: 현재 답을 아는 듯 말하는 가정적 비교는 knew이다.\n넷째 O: 과거 전화와 응답의 가정은 had called / would have answered이다.\n다섯째 X: 현재 능력의 소망은 could이다. I wish I could speak French.\n정답 판단: 옳은 문장 수는 4개이다.\n선택지 분석:\n① [오답] 옳은 문장 수는 4개이므로 1개는 맞지 않는다.\n② [오답] 옳은 문장 수는 4개이므로 2개는 맞지 않는다.\n③ [오답] 옳은 문장 수는 4개이므로 3개는 맞지 않는다.\n④ [정답] 옳은 문장 수는 4개이므로 일치한다.\n⑤ [오답] 옳은 문장 수는 4개이므로 5개는 맞지 않는다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T07:34:47.568Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T07:35:25.142Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T07:35:25.142Z",
+      "what": "확인 완료"
+    }
+  }
+}

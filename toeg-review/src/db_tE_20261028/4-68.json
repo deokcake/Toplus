@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T08:18:48.486Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "(A) often - (B) quiet",
+      "1": "(A) rarely - (B) quiet",
+      "2": "(A) often - (B) quietly",
+      "3": "(A) rarely - (B) quietly",
+      "4": "(A) always - (B) quietly"
+    },
+    "expl": "핵심 규칙: hard는 ‘열심히’, hardly는 ‘거의 ~않다’로 뜻이 다르다. fast는 -ly 없이 부사로 쓰고(fastly는 없다), quiet는 형용사, quietly는 부사이다. 빈도는 always, often, sometimes, seldom, rarely로 나타낸다.\n풀이 순서: ① (A) 앞뒤 문맥을 본다: No라고 했으므로 ‘좀처럼 ~않다’ rarely. → ② (B) 앞뒤 문맥을 본다: 큰 소리의 반대인 ‘조용히’이므로 부사 quietly. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ④이다.\n선택지 분석:\n① [오답] (A) 빈칸 often: No라는 대답에 맞게 ‘거의 ~않다’의 rarely를 쓴다, (B) 빈칸 quiet: 동사 speaks를 꾸미는 부사 quietly를 쓴다. 따라서 오답이다.\n② [오답] (B) 빈칸 quiet: 동사 speaks를 꾸미는 부사 quietly를 쓴다. 따라서 오답이다.\n③ [오답] (A) 빈칸 often: No라는 대답에 맞게 ‘거의 ~않다’의 rarely를 쓴다. 따라서 오답이다.\n④ [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n⑤ [오답] (A) 빈칸 always: No라는 대답에 맞게 ‘거의 ~않다’의 rarely를 쓴다. 따라서 오답이다.",
+    "passage": "A: Does your brother speak loudly?\nB: No, he (<u>    A    </u>) speaks loudly.\nA: How does he usually speak?\nB: He speaks very (<u>    B    </u>).",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T08:18:28.472Z"
+  },
+  "tab": "x2buc7cy",
+  "updatedAt": "2026-10-27T08:18:48.486Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T08:18:48.486Z",
+      "what": "확인 완료"
+    }
+  }
+}

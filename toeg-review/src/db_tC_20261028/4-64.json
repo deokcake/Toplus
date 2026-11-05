@@ -1,0 +1,44 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:33:57.381Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "There is a little juice in the glass on the table.",
+      "1": "I have a few coins in my pocket.",
+      "2": "He has little patience with noisy children.",
+      "3": "We saw a lot of birds in the park.",
+      "4": "She made few mistake on the math test."
+    },
+    "expl": "핵심 규칙: few·a few·many는 셀 수 있는 명사의 복수형, little·a little·much는 셀 수 없는 명사와 쓴다. a lot of·lots of는 둘 다에 쓴다.\n풀이 순서: ① 문장마다 수량 표현 뒤의 명사가 셀 수 있는지 본다. → ② 셀 수 있으면 (a) few·many, 셀 수 없으면 (a) little·much가 맞다. → ③ 선택지 ⑤의 few 뒤에는 셀 수 있는 명사의 복수형이 와야 한다. few mistake가 아니라 few mistakes다. 정답은 ⑤.\n문장별 판정:\n정답 판단: few 뒤에는 셀 수 있는 명사의 복수형이 와야 하는데 단수 mistake를 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 셀 수 없는 juice에 a little을 바르게 썼으므로 오답이다.\n② [오답] 셀 수 있는 coins(복수)에 a few를 바르게 썼으므로 오답이다.\n③ [오답] 셀 수 없는 patience에 little을 바르게 썼으므로 오답이다.\n④ [오답] a lot of는 셀 수 있는 명사와 셀 수 없는 명사 모두에 쓰므로 오답이다.\n⑤ [정답] few 뒤에는 셀 수 있는 명사의 복수형이 와야 하는데 단수 mistake를 썼으므로 정답이다.",
+    "passage": "",
+    "stem": "다음 중 틀린 문장을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T06:17:05.654Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T06:17:09.391Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:33:57.381Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:33:51.382Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:32:07.385Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:33:57.381Z",
+      "what": "확인 완료"
+    }
+  }
+}

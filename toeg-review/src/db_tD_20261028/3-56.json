@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-23T18:07:25.911Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Tom won't is busy with his homework tomorrow.",
+      "1": "Tom will not to be busy with his homework tomorrow.",
+      "2": "Tom isn't be busy with his homework tomorrow.",
+      "3": "Tom don't be busy with his homework tomorrow.",
+      "4": "Tom won't be busy with his homework tomorrow."
+    },
+    "expl": "핵심 규칙: will의 부정은 will not(won't) + 동사원형이다. do/does나 be동사로 부정하지 않고, won't 뒤의 동사에 -s를 붙이거나 to를 넣지 않는다.\n풀이 순서: ① 문장의 조동사는 will이다. 부정은 will 뒤에 not을 붙인다(will not = won't). → ② won't 뒤의 동사는 원형(be) 그대로다. → ③ do/does나 be동사로 부정한 것, 동사에 -s를 붙인 것, not 뒤에 to를 넣은 것은 지운다. 정답은 ⑤.\n문장별 판정:\n정답 판단: won't + 동사원형 be로 바르게 바꿨으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] won't 뒤에는 동사원형 be를 써야 하므로 오답이다.\n② [오답] will not 뒤에 to를 넣을 수 없으므로 오답이다.\n③ [오답] will이 사라지고 be동사 뒤에 동사원형이 왔으므로 오답이다.\n④ [오답] 조동사 will의 부정에 don't를 쓰지 않으므로 오답이다.\n⑤ [정답] won't + 동사원형 be로 바르게 바꿨으므로 정답이다.",
+    "passage": "Tom will be busy with his homework tomorrow.",
+    "stem": "다음 문장을 부정문으로 올바르게 바꾼 것을 고르시오."
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:07:25.911Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:07:25.911Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+ "key": "4-12",
+ "type": "B",
+ "grade": 4,
+ "chapter": "CH 2 대명사",
+ "title": "his가 들어갈 수 없는 자리",
+ "total_sec": 134,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "4급 · CH 2 대명사 · 12번 · B 유형\n\n이 문제는 his가 쓰이는 자리를 알고, his가 들어갈 수 없는 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 2 대명사 · 12번 · B 유형",
+     "이 문제는 his가 쓰이는 자리를 알고, his가 들어갈 수 없는 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 2, 12번 B 유형. 이 문제는 his가 쓰이는 자리를 알고, his가 들어갈 수 없는 문장을 고르는 문제예요.",
+   "caption": "his가 들어갈 수 없는 자리"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 18,
+   "screen": {
+    "text": "다음 빈칸에 his[His]가 들어갈 수 없는 것을 고르시오.\n\n① This is _____ desk.\n② _____ is very happy today.\n③ I know _____ teacher.\n④ That book is _____.\n⑤ _____ hat is blue.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 his[His]가 들어갈 수 없는 것을 고르시오.",
+     "① This is _____ desk.",
+     "② _____ is very happy today.",
+     "③ I know _____ teacher.",
+     "④ That book is _____.",
+     "⑤ _____ hat is blue."
+    ]
+   },
+   "narration": "다음 빈칸에 his가 들어갈 수 없는 것을 고르세요. 문장 맨 앞에서는 대문자 His로 써요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n명사 앞의 his = ‘그의’ (소유격)\n명사 없이 혼자 쓰는 his = ‘그의 것’ (소유대명사)\n‘그는’이라는 뜻의 주어 → He,  ‘그를’이라는 뜻의 목적어 → him\n예) His bag is red. (그의 가방은 빨간색이에요.)  This pen is his. (이 펜은 그의 것이에요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "명사 앞의 his = ‘그의’ (소유격)",
+     "명사 없이 혼자 쓰는 his = ‘그의 것’ (소유대명사)",
+     "‘그는’이라는 뜻의 주어 → He,  ‘그를’이라는 뜻의 목적어 → him",
+     "예) His bag is red. (그의 가방은 빨간색이에요.)  This pen is his. (이 펜은 그의 것이에요.)"
+    ]
+   },
+   "narration": "his가 명사 앞에 오면 소유격이고, 뜻은 그의예요. 명사 없이 혼자 오면 소유대명사이고, 뜻은 그의 것이에요. 그는이라는 뜻의 주어 자리에는 He를 쓰고, 그를이라는 뜻의 목적어 자리에는 him을 써요. 예를 들어 His bag is red, 그의 가방은 빨간색이에요. This pen is his, 이 펜은 그의 것이에요.",
+   "caption": "his = 그의, 그의 것"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 빈칸에 his[His]가 들어갈 수 없는 것을 고르시오.\n\n① This is _____ desk.\n② _____ is very happy today.\n③ I know _____ teacher.\n④ That book is _____.\n⑤ _____ hat is blue.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "_____ desk",
+       "_____ teacher",
+       "_____ hat"
+      ],
+      "strike": [
+       "① This is _____ desk.",
+       "③ I know _____ teacher.",
+       "⑤ _____ hat is blue."
+      ],
+      "note": "빈칸 뒤에 명사가 이어진다 → 소유격 his(그의)가 들어간다 → 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "④ That book is _____."
+      ],
+      "note": "빈칸 뒤에 명사가 없지만 ‘그의 것’으로 뜻이 통한다 → 소유대명사 his → 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② _____ is very happy today."
+      ],
+      "strike": [],
+      "note": "빈칸 바로 뒤가 동사 is → 주어 자리, ‘그는 오늘 매우 행복하다’ → He. his는 들어갈 수 없다."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 1번 desk, 3번 teacher, 5번 hat처럼 빈칸 뒤에 명사가 이어지면 소유격 his가 들어갈 수 있어요. 둘째, 4번은 빈칸 뒤에 명사가 없지만, That book is his, 저 책은 그의 것이에요, 라는 뜻이 되니 소유대명사 his가 들어갈 수 있어요. 셋째, 2번은 빈칸 바로 뒤에 동사 is가 오는 주어 자리예요. 그는 매우 행복해요, 라는 뜻이니 his가 아니라 He가 들어가야 해요.",
+   "caption": "명사 앞 → 그의 것 → 주어 자리"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 30,
+   "screen": {
+    "text": "① This is _____ desk.  ✗  명사 desk 앞 → 소유격 his\n② _____ is very happy today.  ✓  ‘그는’이라는 주어 자리 → He\n③ I know _____ teacher.  ✗  명사 teacher 앞 → 소유격 his\n④ That book is _____.  ✗  ‘저 책은 그의 것’ → 소유대명사 his\n⑤ _____ hat is blue.  ✗  명사 hat 앞 → 소유격 His",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① This is _____ desk.  ✗  명사 desk 앞 → 소유격 his",
+     "② _____ is very happy today.  ✓  ‘그는’이라는 주어 자리 → He",
+     "③ I know _____ teacher.  ✗  명사 teacher 앞 → 소유격 his",
+     "④ That book is _____.  ✗  ‘저 책은 그의 것’ → 소유대명사 his",
+     "⑤ _____ hat is blue.  ✗  명사 hat 앞 → 소유격 His"
+    ]
+   },
+   "narration": "정답은 2번이에요. 2번 빈칸은 그는이라는 뜻의 주어 자리라 He가 들어가요. 4번은 빈칸 뒤에 명사가 없어서 헷갈릴 수 있지만, 그의 것이라는 소유대명사 his가 들어가요. 5번은 문장 맨 앞이라 He를 떠올리기 쉽지만, 뒤에 명사 hat이 있으니 소유격 His가 맞아요. His hat is blue, 그의 모자는 파란색이에요.",
+   "caption": "정답 ② He 자리"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② _____ is very happy today.\n\n명사 앞 his(그의) · 혼자 쓰는 his(그의 것) · ‘그는’ 주어는 He",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② _____ is very happy today.",
+     "명사 앞 his(그의) · 혼자 쓰는 his(그의 것) · ‘그는’ 주어는 He"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 그는이라는 뜻의 주어 자리에는 his가 아니라 He를 써요.",
+   "caption": "‘그는’ 주어 → He"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 his[His]가 들어갈 수 없는 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "This is _____ desk.",
+   "_____ is very happy today.",
+   "I know _____ teacher.",
+   "That book is _____.",
+   "_____ hat is blue."
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: his는 명사 앞의 소유격(his friend)이나 ‘그의 것’이라는 소유대명사(The book is his)로 쓴다. 주어 자리에는 He, 목적어 자리에는 him을 쓴다.\n풀이 순서: ① his가 들어가는 자리는 둘이다: 명사 앞(소유격), 명사 없이 ‘그의 것’(소유대명사). → ② 빈칸 뒤에 명사가 있거나 ‘~의 것’으로 풀리는 문장을 지운다. → ③ 선택지 ②는 빈칸 뒤가 am이라 주어 I만 들어갈 수 있다. 정답은 ②.\n문장별 판정:\n정답 판단: 주어 자리라 His가 아니라 He가 들어가야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 명사 앞에 소유격 his가 들어가므로 오답이다.\n② [정답] 주어 자리라 His가 아니라 He가 들어가야 하므로 정답이다.\n③ [오답] 명사 앞에 소유격 his가 들어가므로 오답이다.\n④ [오답] ‘그의 것’이라는 소유대명사 his가 들어가므로 오답이다.\n⑤ [오답] 명사 앞에 소유격 his가 들어가므로 오답이다."
+ }
+}

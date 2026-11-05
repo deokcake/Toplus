@@ -1,0 +1,36 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-21T05:40:17.388Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "0개",
+      "1": "1개",
+      "2": "2개",
+      "3": "3개",
+      "4": "4개"
+    },
+    "expl": "핵심 규칙: 동사마다 목적어로 동명사를 쓰는지 to부정사를 쓰는지 확인한다. deny, avoid, suggest, consider, finish, enjoy, postpone, admit, give up 등은 동명사를, decide, promise, want, agree, expect, plan, refuse 등은 to부정사를 목적어로 쓴다.\n풀이 순서: ① 밑줄 앞의 동사를 to부정사를 쓰는 동사와 동명사를 쓰는 동사로 나눈다. → ② agree, promise는 to부정사를, avoid, consider, enjoy는 동명사를 쓴다. 따라서 B(agreed signing)만 틀렸다. → ③ 틀린 문장을 세면 1개이다.\n문장별 판정:\nA. 옳음: avoid는 동명사를 목적어로 쓴다(avoided answering).\nB. 틀림: agree는 to부정사를 목적어로 쓴다. agreed signing → agreed to sign.\nC. 옳음: consider는 동명사를 목적어로 쓴다(considered moving).\nD. 옳음: promise는 to부정사를 목적어로 쓴다(promised to call).\nE. 옳음: enjoy는 동명사를 목적어로 쓰고, 포함되는 쪽이므로 수동동명사 being included가 알맞다.\n정답 판단: 어법상 틀린 문장은 B의 1개이다.\n선택지 분석:\n① [오답] 어법상 틀린 문장은 B의 1개이다. 이 보기의 0개는 실제 개수와 일치하지 않으므로 오답이다.\n② [정답] 어법상 틀린 문장은 B의 1개이다. 이 보기의 1개는 실제 개수와 일치하므로 정답이다.\n③ [오답] 어법상 틀린 문장은 B의 1개이다. 이 보기의 2개는 실제 개수와 일치하지 않으므로 오답이다.\n④ [오답] 어법상 틀린 문장은 B의 1개이다. 이 보기의 3개는 실제 개수와 일치하지 않으므로 오답이다.\n⑤ [오답] 어법상 틀린 문장은 B의 1개이다. 이 보기의 4개는 실제 개수와 일치하지 않으므로 오답이다.",
+    "passage": "A. Mina avoided <u>answering</u> the question about her weekend plans.\nB. Tom agreed <u>signing</u> the new rental agreement without any questions.\nC. We considered <u>moving</u> the meeting to next Friday afternoon.\nD. Jane promised <u>to call</u> her grandmother later in the evening.\nE. Leo enjoys <u>being included</u> in the school's leadership program.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장의 개수를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T05:39:29.264Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": null
+  },
+  "tab": "fi3f83jb",
+  "updatedAt": "2026-10-21T05:40:17.388Z",
+  "verdict": null,
+  "verdictAt": "2026-10-21T05:40:16.402Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T05:40:17.388Z",
+      "what": "확인 완료"
+    }
+  }
+}

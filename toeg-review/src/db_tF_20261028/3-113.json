@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 순서 정정",
+  "done": true,
+  "doneAt": "2026-10-27T05:29:56.802Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "for - by",
+      "1": "by - until",
+      "2": "until - in",
+      "3": "on - by",
+      "4": "until - by"
+    },
+    "expl": "핵심 규칙: by는 ‘~까지’ 한 번 끝내야 하는 완료 기한(submit, return, finish, be back)을, until은 ‘~까지’ 계속되는 상태·동작의 끝(stay, wait, be open, last)을 나타낸다.\n풀이 순서: ① 동사가 한 번에 끝나는 동작인지, 계속되는 동작·상태인지 본다. → ② is closed(닫혀 있다)는 다음 주 월요일까지 이어지는 상태라 until, pay(내다)는 한 번에 끝나는 동작이라 기한의 by를 쓴다. → ③ 정답은 until - by.\n문장별 판정:\n정답 판단: 첫째 문장은 박물관이 다음 주 월요일까지 계속 닫혀 있고, until, 둘째 문장은 이달 말까지 요금을 내야 하는 기한이고, by이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 첫째 빈칸 for: 박물관이 다음 주 월요일까지 계속 닫혀 있으므로 until이다. 따라서 오답이다.\n② [오답] 첫째 빈칸 by: 박물관이 다음 주 월요일까지 계속 닫혀 있으므로 until이다, 둘째 빈칸 until: 이달 말까지 요금을 내야 하는 기한이므로 by이다. 따라서 오답이다.\n③ [오답] 둘째 빈칸 in: 이달 말까지 요금을 내야 하는 기한이므로 by이다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 on: 박물관이 다음 주 월요일까지 계속 닫혀 있으므로 until이다. 따라서 오답이다.\n⑤ [정답] 첫째 문장은 박물관이 다음 주 월요일까지 계속 닫혀 있고, until, 둘째 문장은 이달 말까지 요금을 내야 하는 기한이고, by이므로 정답이다.",
+    "passage": "- The museum is closed _____ next Monday.\n- Please pay the fee _____ the end of this month.",
+    "stem": "다음 빈칸에 들어갈 가장 적절한 전치사를 고르시오."
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:29:56.802Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:29:56.802Z",
+      "what": "확인 완료"
+    }
+  }
+}

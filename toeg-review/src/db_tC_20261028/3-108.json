@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-21 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-23T05:21:27.813Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Tom is one of the tallest student in our class.",
+      "1": "Tom is one of the taller students in our class.",
+      "2": "Tom is one of the tallest students in our class.",
+      "3": "Tom is one of tallest the students in our class.",
+      "4": "Tom is the one of tallest students in our class."
+    },
+    "expl": "핵심 규칙: ‘가장 ~한 것 중 하나’는 one of the + 최상급 + 복수명사로 쓴다.\n풀이 순서: ① ‘가장 ~한 … 중 하나’의 틀을 세운다: one of the + 최상급 + 복수명사. → ② 형태를 바꿀 낱말은 둘이다: tall → tallest, student → students. → ③ the가 최상급 바로 앞에 있는지도 확인한다. 정답은 ③.\n문장별 판정:\n정답 판단: one of the + 최상급(tallest) + 복수명사(students)로 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 최상급 뒤에 단수 student를 썼고, 복수형 students이 되어야 하므로 오답이다.\n② [오답] ‘가장 ~한 것 중 하나’는 비교급 taller가 아니라 최상급 tallest을 쓰므로 오답이다.\n③ [정답] one of the + 최상급(tallest) + 복수명사(students)로 바르게 썼으므로 정답이다.\n④ [오답] the가 최상급 tallest 뒤로 가서 one of the + 최상급 어순이 깨졌으므로 오답이다.\n⑤ [오답] the가 one 앞에 와서 one of the + 최상급 어순이 깨졌으므로 오답이다.",
+    "passage": "Tom은 우리 반에서 가장 키 큰 학생 중 하나이다.\n( Tom / one / of / tall / student / is / class / in / our / the / . )",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오. (필요하면 단어의 형태를 바꿀 것)"
+  },
+  "tab": "fhh9u0lo",
+  "updatedAt": "2026-10-23T05:21:27.813Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:21:27.813Z",
+      "what": "확인 완료"
+    }
+  }
+}

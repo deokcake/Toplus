@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T07:40:32.819Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "<u>My father</u> is tall. → <u>She</u> is tall.",
+      "1": "<u>My puppy</u> is small. → <u>It</u> is small.",
+      "2": "<u>Jane's</u> book is new. → <u>Her</u> book is new.",
+      "3": "<u>Ben and Sam</u> are brothers. → <u>They</u> are brothers.",
+      "4": "<u>Tom and I</u> are students. → <u>We</u> are students."
+    },
+    "expl": "핵심 규칙: 나를 포함한 여럿은 we, 나를 포함하지 않은 여럿은 they, 남자 한 명은 he, 여자 한 명은 she로 바꾸고, 소유를 나타내는 Tom's는 his, Kelly's는 her로 바꾼다.\n풀이 순서: ① 밑줄 친 말에 I(나)나 You(너)가 들어 있는지, 몇 명인지, 남자인지 여자인지 본다. → ② 화살표 뒤의 대명사와 맞는지 견준다. → ③ 선택지 ①의 My father는 남자라 He다. 정답은 ①.\n문장별 판정:\n정답 판단: 아버지는 남자라 She가 아니라 He로 바꿔야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] 아버지는 남자라 She가 아니라 He로 바꿔야 하므로 정답이다.\n② [오답] 동물 한 마리를 It으로 바르게 바꿨으므로 오답이다.\n③ [오답] 여자 Jane의 소유를 Her로 바르게 바꿨으므로 오답이다.\n④ [오답] 나를 포함하지 않은 여럿을 They로 바르게 바꿨으므로 오답이다.\n⑤ [오답] 나를 포함한 여럿을 We로 바르게 바꿨으므로 오답이다.",
+    "passage": "",
+    "stem": "밑줄 친 부분을 대명사를 사용해 바꿔 쓴 문장이 옳지 않은 것을 고르시오. (단, Ben·Sam·Tom은 남자, Jane은 여자)"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T07:40:31.427Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T07:40:32.819Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T07:40:32.819Z",
+      "what": "확인 완료"
+    }
+  }
+}

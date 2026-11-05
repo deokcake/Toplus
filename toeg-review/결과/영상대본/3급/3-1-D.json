@@ -1,0 +1,180 @@
+{
+ "key": "3-1",
+ "type": "D",
+ "grade": 3,
+ "chapter": "CH 1 be동사",
+ "title": "주어 We·Tom에 맞는 be동사",
+ "total_sec": 134,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "3급 · CH 1 be동사 · 1번 · D 유형\n\n이 문제는 두 문장의 주어 We와 Tom에 맞는 be동사를 차례로 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 1 be동사 · 1번 · D 유형",
+     "이 문제는 두 문장의 주어 We와 Tom에 맞는 be동사를 차례로 고르는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 1, 1번 D 유형. 이 문제는 두 문장의 주어 We와 Tom에 맞는 be동사를 차례로 고르는 문제예요.",
+   "caption": "We·Tom에 맞는 be동사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 19,
+   "screen": {
+    "text": "다음 빈칸에 알맞은 be동사를 고르시오.\n\nWe _____ ready.\nTom _____ busy.\n\n① are - are\n② am - is\n③ is - are\n④ are - is\n⑤ is - is",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 알맞은 be동사를 고르시오.",
+     "We _____ ready.",
+     "Tom _____ busy.",
+     "① are - are",
+     "② am - is",
+     "③ is - are",
+     "④ are - is",
+     "⑤ is - is"
+    ]
+   },
+   "narration": "다음 빈칸에 알맞은 be동사를 고르세요. 첫 문장은 We 빈칸 ready, 둘째 문장은 Tom 빈칸 busy. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 am, are, is: 주로 ‘이다’, ‘있다’ · 주어에 맞춰 골라요\nI → am (주어가 I일 때만)\nyou, 복수 주어(we, they, 여러 명) → are · 나를 포함해도 여럿이면 are\nhe, she, it, 사람 이름 하나 같은 3인칭 단수 주어 → is\n예) Ann and I are classmates. (앤과 나는 반 친구예요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 am, are, is: 주로 ‘이다’, ‘있다’ · 주어에 맞춰 골라요",
+     "I → am (주어가 I일 때만)",
+     "you, 복수 주어(we, they, 여러 명) → are · 나를 포함해도 여럿이면 are",
+     "he, she, it, 사람 이름 하나 같은 3인칭 단수 주어 → is",
+     "예) Ann and I are classmates. (앤과 나는 반 친구예요.)"
+    ]
+   },
+   "narration": "be동사 am, are, is는 주로 ‘이다’나 ‘있다’라는 뜻이고, 주어가 I이면 am을 써요. you나 we, they 같은 복수 주어에는 are를 쓰는데, 나를 포함해도 여럿이면 are예요. he, she, it이나 사람 이름 하나 같은 3인칭 단수 주어에는 is를 써요. 예를 들어 Ann and I are classmates, 앤과 나는 반 친구예요.",
+   "caption": "be동사는 주어에 맞춰요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 빈칸에 알맞은 be동사를 고르시오.\n\nWe _____ ready.\nTom _____ busy.\n\n① are - are\n② am - is\n③ is - are\n④ are - is\n⑤ is - is",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "We _____ ready."
+      ],
+      "strike": [
+       "② am - is",
+       "③ is - are",
+       "⑤ is - is"
+      ],
+      "note": "첫 문장 주어 We = 나를 포함한 여럿 → are. are로 시작하지 않는 ②③⑤ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "Tom _____ busy."
+      ],
+      "strike": [
+       "① are - are"
+      ],
+      "note": "둘째 문장 주어 Tom = 사람 이름 하나(3인칭 단수) → is. are로 끝나는 ① 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ are - is"
+      ],
+      "strike": [],
+      "note": "남는 것 ④ are - is → We are ready. / Tom is busy."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 첫 문장의 주어 We는 나를 포함한 여럿이라 are를 쓰니, are로 시작하지 않는 2번, 3번, 5번은 지워요. 둘째, 둘째 문장의 주어 Tom은 사람 이름 하나, 곧 3인칭 단수라 is를 쓰니, are로 끝나는 1번도 지워요. 셋째, 남는 것은 4번 are와 is예요. We are ready, 우리는 준비가 됐어요. Tom is busy, 톰은 바빠요.",
+   "caption": "We → are, Tom → is"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① are - are  ✗  are는 맞지만 Tom은 3인칭 단수라 is\n② am - is  ✗  We에 나(I)가 들어 있어도 am이 아니라 are\n③ is - are  ✗  We에 is, Tom에 are · 두 칸이 서로 바뀌었어요\n④ are - is  ✓  We에는 are, Tom에는 is\n⑤ is - is  ✗  is는 Tom에만 맞아요 · We는 여럿이라 are",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① are - are  ✗  are는 맞지만 Tom은 3인칭 단수라 is",
+     "② am - is  ✗  We에 나(I)가 들어 있어도 am이 아니라 are",
+     "③ is - are  ✗  We에 is, Tom에 are · 두 칸이 서로 바뀌었어요",
+     "④ are - is  ✓  We에는 are, Tom에는 is",
+     "⑤ is - is  ✗  is는 Tom에만 맞아요 · We는 여럿이라 are"
+    ]
+   },
+   "narration": "정답은 4번 are와 is예요. 2번은 We 안에 나도 들어 있으니 am을 쓴다고 생각하면 고르기 쉬워요. 하지만 am은 주어가 I일 때만 쓰고, We는 여럿이라 are를 써요. 1번은 첫 칸 are는 맞지만, Tom은 3인칭 단수라 is를 써야 해요. 5번은 둘째 칸 is는 맞지만, We에 is를 써서 틀렸어요.",
+   "caption": "정답 ④ are - is"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 14,
+   "screen": {
+    "text": "정답 ④ are - is\n\nI → am · you, 복수 주어(We 포함) → are · 3인칭 단수 주어 → is",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ are - is",
+     "I → am · you, 복수 주어(We 포함) → are · 3인칭 단수 주어 → is"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, We 같은 복수 주어에는 are, Tom 같은 3인칭 단수 주어에는 is를 쓰고, am은 주어가 I일 때만 써요.",
+   "caption": "We are · Tom is"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 알맞은 be동사를 고르시오.",
+  "passage": "We _____ ready.\nTom _____ busy.",
+  "c": [
+   "are - are",
+   "am - is",
+   "is - are",
+   "are - is",
+   "is - is"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: be동사의 현재형은 주어에 따라 달라진다. I는 am, you와 복수 주어는 are, 3인칭 단수 주어는 is를 쓴다.\n풀이 순서: ① 빈칸 앞의 주어를 확인한다. 첫째는 We(복수), 둘째는 Tom(3인칭 단수)이다. → ② 복수에는 are, 3인칭 단수에는 is를 쓴다. → ③ 정답은 are - is.\n문장별 판정:\n정답 판단: 주어 We에는 are, 주어 Tom에는 is를 쓰므로 정답은 ④이다.\n선택지 분석:\n① [오답] 주어 Tom에 are를 쓸 수 없으므로 오답이다.\n② [오답] 주어 We에 am를 쓸 수 없으므로 오답이다.\n③ [오답] 두 빈칸 모두 주어와 맞지 않으므로 오답이다.\n④ [정답] 주어 We에는 are, 주어 Tom에는 is를 쓰므로 정답이다.\n⑤ [오답] 주어 We에 is를 쓸 수 없으므로 오답이다."
+ }
+}

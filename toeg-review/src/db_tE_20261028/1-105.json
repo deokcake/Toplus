@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:18:36.020Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "A, B, C, D",
+      "1": "B, D, E, F",
+      "2": "A, C, E, G",
+      "3": "B, C, D, G",
+      "4": "C, D, F, G"
+    },
+    "expl": "핵심 규칙: because of·despite·in spite of 뒤에는 명사(구), because·although 뒤에는 절이 온다. so ~ that은 결과, lest ~ (should)는 ‘~하지 않도록’을 나타내고, 간접의문문은 ‘의문사 + 주어 + 동사’ 어순이다. however(no matter how) 뒤에는 형용사·부사가 바로 온다.\n풀이 순서: ① 문장마다 접속사·전치사 뒤에 온 것이 명사(구)인지 절인지, 간접의문문의 어순이 바른지 확인한다. → ② A는 Because 뒤에 명사만 왔고, E는 No matter how 뒤에 형용사가 바로 오지 않았으며, F는 간접의문문이 의문문 어순이다. 나머지 넷은 옳다. → ③ 옳은 문장만 모은 B, C, D, G를 고른다.\n문장별 판정:\nA) 틀림: 명사 앞에는 because of를 쓴다.\nB) 옳음: so + 부사 + that(결과).\nC) 옳음: lest + 주어 + (should) + 동사원형.\nD) 옳음: unless + 현재시제.\nE) 틀림: no matter how 바로 뒤에 형용사가 와야 한다. No matter how busy Jane is.\nF) 틀림: 간접의문문 어순은 why he left the meeting so early.\nG) 옳음: whatever가 양보절을 이끈다.\n정답 판단: 어법상 옳은 문장은 B, C, D, G이다.\n선택지 분석:\n① [오답] A는 옳은 문장이 아니고, 옳은 문장 G를 빠뜨렸다. 따라서 오답이다.\n② [오답] E, F는 옳은 문장이 아니고, 옳은 문장 C, G를 빠뜨렸다. 따라서 오답이다.\n③ [오답] A, E는 옳은 문장이 아니고, 옳은 문장 B, D를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 B, C, D, G를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] F는 옳은 문장이 아니고, 옳은 문장 B를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "A) Because the heavy rain, the soccer match was canceled.\nB) Mina spoke so quietly that I could hardly hear her voice.\nC) Lest we be late for the train, we left home early.\nD) Unless Tom studies harder, he will not pass the exam.\nE) No matter how Jane is busy, she exercises every day.\nF) I wonder why did he leave the meeting so early.\nG) Whatever happens tomorrow, please call me first.",
+    "stem": "다음 중 어법상 옳은 것을 모두 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:51:59.936Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:52:04.125Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:18:36.020Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:18:33.935Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:18:36.020Z",
+      "what": "확인 완료"
+    }
+  }
+}

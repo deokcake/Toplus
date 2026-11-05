@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-23T18:29:06.161Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "It's right next to the main city library.",
+      "1": "It's right across of the main city library.",
+      "2": "It's right behind the main city library.",
+      "3": "It's right in front of the main city library.",
+      "4": "It's right across from the main city library."
+    },
+    "expl": "핵심 규칙: 장소는 It is + 장소 표현으로 나타낸다. behind는 뒤, next to는 옆, across from은 맞은편, under는 아래, in front of는 앞이다.\n풀이 순서: ① 우리말에서 위치를 나타내는 말을 찾는다: ‘도서관 맞은편에’. → ② 영어 표현을 떠올린다: across from + 명사(from이 빠지면 ‘가로질러’가 된다). → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: ‘맞은편에’를 across from으로 바르게 옮겼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] next to는 ‘옆’이라 뜻이 맞지 않으므로 오답이다.\n② [오답] ‘맞은편에’는 across of가 아니라 across from으로 쓰므로 오답이다.\n③ [오답] behind는 ‘뒤’라 뜻이 맞지 않으므로 오답이다.\n④ [오답] in front of는 ‘앞’이라 뜻이 맞지 않으므로 오답이다.\n⑤ [정답] ‘맞은편에’를 across from으로 바르게 옮겼으므로 정답이다.",
+    "passage": "A: Excuse me. Where is the city park?\nB: <u>그것은 시립 중앙 도서관 바로 맞은편에 있어</u>.\nA: Thanks a lot. Have a nice day.",
+    "stem": "다음 밑줄 친 우리말 문장을 올바르게 영작한 것을 고르시오."
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:29:06.161Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:29:06.161Z",
+      "what": "확인 완료"
+    }
+  }
+}

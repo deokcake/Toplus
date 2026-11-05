@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:24:15.446Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "moving",
+      "1": "to move",
+      "2": "move",
+      "3": "moved",
+      "4": "is moving"
+    },
+    "expl": "핵심 규칙: Do/Would you mind+-ing?은 상대가 어떤 행동을 해 줄 수 있는지 정중히 묻는다. mind 뒤에는 이 문항에서 동작을 나타내는 동명사를 쓴다.\n풀이 순서: ① 빈칸은 동사 mind의 목적어 자리다. → ② mind는 동명사만 목적어로 쓴다. to부정사나 동사원형, 시제가 있는 동사는 올 수 없다. → ③ 괄호 속 동사(move)를 -ing로 바꾼 moving가 정답이다.\n문장별 판정:\n정답 판단: mind는 이 문장에서 동명사 moving을 목적어로 취한다. 알맞은 형태: moving.\n선택지 분석:\n① [정답] mind는 이 문장에서 동명사 moving을 목적어로 취한다. 알맞은 형태: moving.\n② [오답] to부정사는 mind의 이 목적어 자리에 맞지 않는다. moving으로 고친다. 알맞은 형태: moving.\n③ [오답] mind 뒤에 동사원형 move를 그대로 목적어로 두지 않는다. 동명사 moving이 필요하다. 알맞은 형태: moving.\n④ [오답] 과거형·과거분사 moved만으로 mind의 동작 목적어를 만들지 않는다. 동명사 moving이 필요하다. 알맞은 형태: moving.\n⑤ [오답] 주어도 없이 정형동사 is로 시작한 부분은 mind의 목적어가 되는 동명사구가 아니다. 알맞은 형태: moving.",
+    "passage": "Do you mind ______ (move) your bag? I want to sit here.",
+    "stem": "다음 빈칸에 들어갈 말로 가장 알맞은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T01:03:24.908Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:03:32.258Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:30:30.980Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T04:30:30.980Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:30:30.980Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

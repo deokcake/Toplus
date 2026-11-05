@@ -1,0 +1,43 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T04:33:41.347Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "①",
+      "1": "②",
+      "2": "③",
+      "3": "④",
+      "4": "⑤"
+    },
+    "expl": "핵심 규칙: 평서문에서 can은 주어 바로 뒤, 동사원형 바로 앞에 둔다.\n풀이 순서: ① 주어가 어디까지인지 찾는다: They. → ② 그다음에 오는 동사를 찾는다: play. → ③ can은 주어와 동사 사이에 들어가므로 동사 앞 번호인 ②.\n문장별 판정:\n정답 판단: 완성 문장: They can play soccer today. 주어(They) 바로 뒤, 동사원형(play) 바로 앞이라 can이 들어갈 자리이므로 정답은 ②이다.\n선택지 분석:\n① [오답] can이 주어(They)보다 앞에 오므로 오답이다.\n② [정답] 주어(They) 바로 뒤, 동사원형(play) 바로 앞이라 can이 들어갈 자리이므로 정답이다.\n③ [오답] 본동사(play)보다 뒤라 can이 동사 앞에 오지 않으므로 오답이다.\n④ [오답] 본동사(play)보다 뒤라 can이 동사 앞에 오지 않으므로 오답이다.\n⑤ [오답] 본동사(play)보다 뒤라 can이 동사 앞에 오지 않으므로 오답이다.",
+    "passage": "① They ② play ③ soccer ④ today ⑤.",
+    "stem": "다음 문장에서 ‘can’이 들어갈 위치를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-20T04:33:36.997Z"
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-04T11:54:27.817Z",
+      "text": "다음문장이라는 주어진 문장을 보여주지 않았음"
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T08:22:56.925Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T08:22:56.925Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-04T11:54:27.817Z",
+      "what": "메모 작성"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T08:22:56.925Z",
+      "what": "판정을 Claude 판정으로 되돌림"
+    }
+  }
+}

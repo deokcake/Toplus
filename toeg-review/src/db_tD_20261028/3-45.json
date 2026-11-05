@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-23T18:03:48.843Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Leo, Sam",
+      "1": "Mina, Kai",
+      "2": "Sam, Amy, Kai",
+      "3": "Leo, Mina, Amy",
+      "4": "Sam, Amy"
+    },
+    "expl": "핵심 규칙: 재귀 용법(목적어)의 재귀대명사는 뺄 수 없고, 강조 용법은 빼도 된다. this/that은 단수, these/those는 복수와 쓰며, news는 단수 취급한다. 날씨·시간·거리를 나타내는 it은 비인칭 주어이고, hers·mine 같은 ‘~의 것’은 소유대명사이다.\n풀이 순서: ① 학생마다 설명이 옳은지 따진다. 이 문항은 ‘잘못’ 설명한 학생을 고른다. → ② 기준: 목적어인 재귀대명사는 생략할 수 없다. 날씨·시간·요일·거리의 It은 뜻이 없는 비인칭 주어다. news, scissors 같은 명사의 수에 주의한다. → ③ Sam은 Help yourselves를 한 사람에게 쓴다고 했고, Amy는 목적어인 himself를 소유격이라고 했다. 잘못 설명한 학생을 모으면 Sam, Amy이다.\n문장별 판정:\nLeo 옳음: 강조 용법이라 빼도 된다.\nMina 옳음: 관용 표현이다.\nSam 틀림: yourselves는 여러 사람에게 쓴다.\nAmy 틀림: himself는 재귀대명사이다.\nKai 옳음: one은 같은 종류의 물건(bag)을 대신한다.\n정답 판단: 잘못 설명한 학생은 Sam, Amy이다.\n선택지 분석:\n① [오답] Leo는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Amy를 빠뜨렸다. 따라서 오답이다.\n② [오답] Mina, Kai는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Sam, Amy를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Kai는 잘못 설명한 학생이 아니다. 따라서 오답이다.\n④ [오답] Leo, Mina는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Sam를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 잘못 설명한 학생 Sam, Amy를 빠짐없이 골랐으므로 정답이다.",
+    "passage": "Leo: She herself did all the homework last night.의 herself는 생략해도 옳아.\nMina: Make yourself at home while I get some tea.는 ‘편하게 있어’라는 관용 표현이야.\nSam: Help yourselves to the cookies on the table.은 한 사람에게만 쓰는 표현이야.\nAmy: He looked at himself in the mirror for a long time.의 himself는 소유격이야.\nKai: That is a nice bag, and I want one, too.의 one은 bag을 대신해.",
+    "stem": "다음 중 잘못 설명한 학생들을 모두 고르시오."
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:03:48.843Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:03:48.843Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+ "key": "6-2",
+ "type": "C",
+ "grade": 6,
+ "chapter": "CH 1 명사와 관사",
+ "title": "a와 셀 수 있는 명사, 셀 수 없는 명사",
+ "total_sec": 121,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "6급 · CH 1 명사와 관사 · 2번 · C 유형\n\n이 문제는 a 뒤에 올 수 있는 명사인지 따져서, 빈칸에 들어갈 수 없는 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 1 명사와 관사 · 2번 · C 유형",
+     "이 문제는 a 뒤에 올 수 있는 명사인지 따져서, 빈칸에 들어갈 수 없는 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 1, 2번 C 유형. 이 문제는 a 뒤에 올 수 있는 명사인지 따져서, 빈칸에 들어갈 수 없는 것을 고르는 문제예요.",
+   "caption": "a 뒤에 올 수 없는 명사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 13,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 수 없는 것을 고르시오.\n\nThere is a _______ on the table.\n\n① bread\n② cup\n③ bag\n④ lamp\n⑤ pencil",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 수 없는 것을 고르시오.",
+     "There is a _______ on the table.",
+     "① bread",
+     "② cup",
+     "③ bag",
+     "④ lamp",
+     "⑤ pencil"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 수 없는 것을 고르세요. There is a 빈칸 on the table. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 26,
+   "screen": {
+    "text": "핵심 규칙\na와 an은 ‘하나의’라는 뜻이에요.\n하나, 둘 셀 수 있는 명사가 하나일 때 그 앞에 써요.  (a dog, a ball)\n셀 수 없는 명사 앞에는 쓰지 않아요.  (water, milk, rice, money …)\n예) I have a ball. (나는 공이 하나 있어요.)  I drink juice. (나는 주스를 마셔요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "a와 an은 ‘하나의’라는 뜻이에요.",
+     "하나, 둘 셀 수 있는 명사가 하나일 때 그 앞에 써요.  (a dog, a ball)",
+     "셀 수 없는 명사 앞에는 쓰지 않아요.  (water, milk, rice, money …)",
+     "예) I have a ball. (나는 공이 하나 있어요.)  I drink juice. (나는 주스를 마셔요.)"
+    ]
+   },
+   "narration": "a와 an은 '하나의'라는 뜻이라서, 하나, 둘 셀 수 있는 명사가 하나일 때 그 앞에 써요. 그래서 water, milk, rice, money처럼 셀 수 없는 명사 앞에는 a나 an을 쓰지 않아요. 예를 들어 I have a ball. 나는 공이 하나 있어요. I drink juice. 나는 주스를 마셔요.",
+   "caption": "a, an + 셀 수 있는 명사 하나"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 수 없는 것을 고르시오.\n\nThere is a _______ on the table.\n\n① bread\n② cup\n③ bag\n④ lamp\n⑤ pencil",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "a _______"
+      ],
+      "strike": [],
+      "note": "빈칸 바로 앞에 a → 빈칸에는 하나, 둘 셀 수 있는 명사가 온다"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "② cup",
+       "③ bag",
+       "④ lamp",
+       "⑤ pencil"
+      ],
+      "note": "cup 컵, bag 가방, lamp 램프, pencil 연필 → 모두 하나, 둘 셀 수 있다 (a cup, a bag …)"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "① bread",
+       "들어갈 수 없는 것"
+      ],
+      "strike": [],
+      "note": "bread 빵 → 영어에서는 물질로 보아 셀 수 없다 → a 뒤에 ✗"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 빈칸 바로 앞에 a가 있으니, 빈칸에는 하나, 둘 셀 수 있는 명사가 와야 해요. 둘째, cup은 컵, bag은 가방, lamp는 램프, pencil은 연필이에요. 모두 하나, 둘 셀 수 있으니 a 뒤에 쓸 수 있어요. 셋째, bread는 빵이라는 물질을 가리켜서, 영어에서는 하나, 둘 세지 않아요. 따라서 빈칸에 들어갈 수 없는 것은 bread예요.",
+   "caption": "a 확인 → 셀 수 있는 것 지우기 → bread"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① bread  ✓  빵은 영어에서 셀 수 없어서 a를 붙이지 않아요\n② cup  ✗  컵은 하나, 둘 셀 수 있어요 (a cup)\n③ bag  ✗  가방은 하나, 둘 셀 수 있어요 (a bag)\n④ lamp  ✗  램프는 하나, 둘 셀 수 있어요 (a lamp)\n⑤ pencil  ✗  연필은 한 자루, 두 자루 셀 수 있어요 (a pencil)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✓",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① bread  ✓  빵은 영어에서 셀 수 없어서 a를 붙이지 않아요",
+     "② cup  ✗  컵은 하나, 둘 셀 수 있어요 (a cup)",
+     "③ bag  ✗  가방은 하나, 둘 셀 수 있어요 (a bag)",
+     "④ lamp  ✗  램프는 하나, 둘 셀 수 있어요 (a lamp)",
+     "⑤ pencil  ✗  연필은 한 자루, 두 자루 셀 수 있어요 (a pencil)"
+    ]
+   },
+   "narration": "정답은 1번 bread예요. 우리말로는 빵 하나, 빵 둘이라고 세지만, 영어에서 bread는 셀 수 없는 명사예요. 빵 한 조각은 a piece of bread라고 해요. 4번 lamp는 램프라서 하나, 둘 셀 수 있으니 a lamp라고 써요. 2번 cup도 컵 하나, 컵 둘로 셀 수 있어서 a cup이라고 써요.",
+   "caption": "정답 ① bread"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ① bread\n\na, an은 셀 수 있는 명사 하나 앞에 쓰고, 셀 수 없는 명사 앞에는 쓰지 않아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ① bread",
+     "a, an은 셀 수 있는 명사 하나 앞에 쓰고, 셀 수 없는 명사 앞에는 쓰지 않아요"
+    ]
+   },
+   "narration": "정답은 1번이에요. 기억할 것, a와 an은 셀 수 있는 명사가 하나일 때 그 앞에 쓰고, 셀 수 없는 명사 앞에는 쓰지 않아요.",
+   "caption": "셀 수 없는 명사 앞에는 a ✗"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 수 없는 것을 고르시오.",
+  "passage": "There is a _______ on the table.",
+  "c": [
+   "bread",
+   "cup",
+   "bag",
+   "lamp",
+   "pencil"
+  ],
+  "ans": 1,
+  "expl": "핵심 규칙: a/an은 셀 수 있는 명사의 단수형 앞에만 쓴다. water, bread, money, rice, milk처럼 셀 수 없는 명사 앞에는 a/an을 쓰지 않는다.\n풀이 순서: ① 빈칸 앞에 a가 있으므로 빈칸에는 셀 수 있는 명사의 단수형만 들어간다. → ② 보기 가운데 하나, 둘 셀 수 없는 것(물질·추상 명사)을 찾는다. → ③ bread는 물질이라 셀 수 없다(a piece of bread). 정답은 ①.\n문장별 판정:\n정답 판단: 셀 수 없는 명사(bread)라 a 뒤에 쓸 수 없으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 셀 수 없는 명사(bread)라 a 뒤에 쓸 수 없으므로 정답이다.\n② [오답] 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다.\n③ [오답] 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다.\n④ [오답] 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다.\n⑤ [오답] 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다."
+ }
+}

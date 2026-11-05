@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:32:15.750Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "watch",
+      "1": null,
+      "2": null,
+      "3": "TV",
+      "4": "now"
+    },
+    "expl": "핵심 규칙: 제안문은 Let's (not) + 동사원형 + 목적어, 명령문은 (Please) + 동사원형 + 보어·목적어의 순서로 배열한다.\n풀이 순서: ① 문장을 완성한다: Let's not watch TV now. → ② 앞에서부터 센다. → ③ 세 번째 낱말은 watch. 정답은 ①.\n문장별 판정:\n정답 판단: 완성 문장은 Let's not watch TV now.이고 세 번째 단어는 watch이다.\n선택지 분석:\n① [정답] 완성 문장 Let's not watch TV now.에서 단어(watch)는 3번째에 오므로 정답이다.\n② [오답] 완성 문장 Let's not watch TV now.에서 단어(Let's)는 1번째에 오므로 오답이다.\n③ [오답] 완성 문장 Let's not watch TV now.에서 단어(not)는 2번째에 오므로 오답이다.\n④ [오답] 완성 문장 Let's not watch TV now.에서 단어(TV)는 4번째에 오므로 오답이다.\n⑤ [오답] 완성 문장 Let's not watch TV now.에서 단어(now)는 5번째에 오므로 오답이다.",
+    "passage": null,
+    "stem": "다음 단어들을 바르게 나열하여 문장을 완성할 때, 세 번째에 오는 단어를 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:32:14.310Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:32:15.750Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:32:15.750Z",
+      "what": "확인 완료"
+    }
+  }
+}

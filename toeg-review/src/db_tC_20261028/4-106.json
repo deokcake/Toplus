@@ -1,0 +1,35 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T15:04:44.016Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "My mom",
+      "1": "pancakes",
+      "2": "makes",
+      "3": "every Sunday",
+      "4": "Sunday"
+    },
+    "expl": "핵심 규칙: 목적어는 동사의 동작 대상(~을/를)이 되는 명사구이다. 주어, 동사, 시간·장소 부사어와 구별한다.\n풀이 순서: ① 동사를 찾는다: makes. → ② 동사에 ‘무엇을?’이라고 물어 본다: 만드는 것은 pancakes. 낱말 하나가 아니라 꾸미는 말까지 묶어 답한다. → ③ 정답은 pancakes.\n문장별 판정:\n정답 판단: 동사 makes의 대상(~을)이 되는 목적어이므로 정답은 ②이다.\n선택지 분석:\n① [오답] 문장의 주어이므로 오답이다.\n② [정답] 동사 makes의 대상(~을)이 되는 목적어이므로 정답이다.\n③ [오답] 문장의 동사이므로 오답이다.\n④ [오답] 시간을 나타내는 부사어이므로 오답이다.\n⑤ [오답] 부사어 every Sunday의 일부이므로 오답이다.",
+    "passage": "My mom makes pancakes every Sunday.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T06:41:17.560Z"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T06:41:17.560Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T15:04:44.016Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T06:41:17.560Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

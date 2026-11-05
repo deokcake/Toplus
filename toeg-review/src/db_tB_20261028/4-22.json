@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T07:54:31.717Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": 5,
+    "c": {
+      "0": "are - is",
+      "1": "is - is",
+      "2": "is - am",
+      "3": "am - are",
+      "4": "am - is"
+    },
+    "expl": "핵심 규칙: 현재 be동사는 I와 am, 3인칭 단수와 is, you 및 복수 주어와 are가 일치한다.\n풀이 순서: ① 첫 문장의 주어를 본다: I에는 am. → ② 둘째 문장의 주어를 본다: Tom은 단수이므로 is. → ③ 정답은 am - is.\n문장별 판정:\n정답 판단: I에는 am이 필요하다. am이 맞다. Tom에는 is가 필요하다. is가 맞다. 따라서 정답은 ⑤이다.\n선택지 분석:\n① [오답] I에는 am이 필요하다. are를 am으로 고친다. Tom에는 is가 필요하다. is가 맞다.\n② [오답] I에는 am이 필요하다. is를 am으로 고친다. Tom에는 is가 필요하다. is가 맞다.\n③ [오답] I에는 am이 필요하다. is를 am으로 고친다. Tom에는 is가 필요하다. am을 is로 고친다.\n④ [오답] I에는 am이 필요하다. am이 맞다. Tom에는 is가 필요하다. are를 is로 고친다.\n⑤ [정답] I에는 am이 필요하다. am이 맞다. Tom에는 is가 필요하다. is가 맞다.",
+    "passage": "- I _____ very hungry after the long soccer practice.\n- Tom _____ at home with his little brother now.",
+    "stem": "빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T07:11:50.480Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T07:12:02.907Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T07:54:31.717Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T07:54:31.199Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T07:54:31.717Z",
+      "what": "확인 완료"
+    }
+  }
+}

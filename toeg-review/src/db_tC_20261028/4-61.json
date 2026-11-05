@@ -1,0 +1,35 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:29:52.560Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "그녀는 아침을 전혀 먹지 않는다.",
+      "1": "그녀는 아침을 거의 먹지 않는다.",
+      "2": "그녀는 가끔 아침을 먹는다.",
+      "3": "그녀는 항상 아침을 먹는다.",
+      "4": "그녀는 자주 아침을 먹는다."
+    },
+    "expl": "핵심 규칙: 빈도부사는 always(항상), usually(보통), often(자주), sometimes(가끔), rarely·seldom(거의 ~않다), never(전혀 ~않다)의 뜻을 구별한다.\n풀이 순서: ① 문장에서 빈도부사를 찾는다: rarely. → ② 뜻을 떠올린다: ‘거의 ~하지 않는다’. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: rarely(거의 ~않다)의 뜻을 바르게 옮겼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] ‘전혀 ~않다’는 never이므로 오답이다.\n② [정답] rarely(거의 ~않다)의 뜻을 바르게 옮겼으므로 정답이다.\n③ [오답] ‘가끔’은 sometimes이므로 오답이다.\n④ [오답] ‘항상’은 always이므로 오답이다.\n⑤ [오답] ‘자주’는 often이므로 오답이다.",
+    "passage": "She rarely eats breakfast.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T06:16:26.873Z"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T06:16:26.873Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:29:52.560Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T06:16:26.873Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-24T03:04:06.748Z",
+  "doneBy": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A) Our - (B) our",
+      "1": "(A) We're - (B) we're",
+      "2": "(A) We - (B) our",
+      "3": "(A) Our - (B) we're",
+      "4": "(A) We're - (B) our"
+    },
+    "expl": "핵심 규칙: It's·They're·He's·She's·We're·You're는 ‘주어 + be동사’의 줄임말이고, its·their·his·her·our·your는 명사 앞에 쓰는 소유격이다.\n풀이 순서: ① (A) 뒤에 동사가 없다. ‘주어 + be동사’의 줄임말이 들어가야 문장이 된다: It's(= It is). → ② (B) 뒤에는 명사가 있다. 소유격이 들어간다: its. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] (A) 빈칸 Our: 뒤에 명사만 있어 ‘우리는 ~이다’의 We're(We are)를 쓴다. 따라서 오답이다.\n② [오답] (B) 빈칸 we're: 명사 teacher 앞이라 소유격 our를 쓴다. 따라서 오답이다.\n③ [오답] (A) 빈칸 We: 뒤에 명사만 있어 ‘우리는 ~이다’의 We're(We are)를 쓴다. 따라서 오답이다.\n④ [오답] (A) 빈칸 Our: 뒤에 명사만 있어 ‘우리는 ~이다’의 We're(We are)를 쓴다, (B) 빈칸 we're: 명사 teacher 앞이라 소유격 our를 쓴다. 따라서 오답이다.\n⑤ [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.",
+    "passage": "- (<u>    A    </u>) good friends.\n- They know (<u>    B    </u>) teacher.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T05:54:19.623Z"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:54:19.623Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:54:19.623Z",
+      "what": "Claude 수정 예시 적용"
+    },
+    "u_p7DX7y1beMZ8et5ArgcmKw": {
+      "at": "2026-10-24T03:04:06.748Z",
+      "what": "확인 완료"
+    }
+  }
+}

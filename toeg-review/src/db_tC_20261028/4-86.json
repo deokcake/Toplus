@@ -1,0 +1,30 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "done": true,
+  "doneAt": "2026-10-25T14:43:15.195Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "on",
+      "1": "behind",
+      "2": "between",
+      "3": "in",
+      "4": "across"
+    },
+    "expl": "핵심 규칙: 위치는 on(위), in(안), under(아래), behind(뒤), in front of(앞), between(둘 사이), next to(옆)로 나타낸다.\n풀이 순서: ① 우리말에서 위치를 나타내는 말을 찾는다: ‘안에’. → ② 그 뜻의 전치사를 떠올린다: in. → ③ 정답은 behind.\n문장별 판정:\n정답 판단: ‘~ 뒤에’는 behind로 나타내므로 정답은 ②이다.\n선택지 분석:\n① [오답] on은 ‘~ 위에’라 뜻이 맞지 않으므로 오답이다.\n② [정답] ‘~ 뒤에’는 behind로 나타내므로 정답이다.\n③ [오답] between은 ‘둘 사이에’라 뜻이 맞지 않으므로 오답이다.\n④ [오답] in은 ‘~ 안에’라 뜻이 맞지 않으므로 오답이다.\n⑤ [오답] across는 ‘가로질러’라 뜻이 맞지 않으므로 오답이다.",
+    "passage": "고양이가 소파 뒤에 있다.\n→ The cat is ________ the sofa.",
+    "stem": "다음 우리말과 같도록 빈칸에 알맞은 단어는?"
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:43:14.194Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-25T14:43:15.195Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:43:15.195Z",
+      "what": "확인 완료"
+    }
+  }
+}

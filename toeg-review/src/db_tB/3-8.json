@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:40:26.617Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": null,
+      "1": "(A) was - (B) was",
+      "2": null,
+      "3": "(A) were - (B) were",
+      "4": "(A) is - (B) was"
+    },
+    "expl": "핵심 규칙: be동사의 과거형은 단수 주어(I, he, she, it, 단수명사)에 was, 복수 주어와 you에 were를 쓴다.\n풀이 순서: ① 두 빈칸 앞의 주어를 본다. (A)는 My sister(단수), (B)는 my parents(복수)이다. → ② yesterday가 있으므로 과거형이다. 단수에는 was, 복수에는 were를 쓴다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: (A)의 주어(My sister)에는 was, (B)의 주어(my parents)에는 were를 쓴다.\n선택지 분석:\n① [오답] (A) were: 주어(My sister)에 맞지 않는 형태이다. (B) was: 주어(my parents)에 맞지 않는 형태이다. 따라서 오답이다.\n② [오답] (B) was: 주어(my parents)에 맞지 않는 형태이다. 따라서 오답이다.\n③ [정답] (A) was - (B) were: 모든 자리가 알맞으므로 정답이다.\n④ [오답] (A) were: 주어(My sister)에 맞지 않는 형태이다. 따라서 오답이다.\n⑤ [오답] (A) is: 주어(My sister)와 수가 맞더라도 was/were와 짝이 맞지 않는 현재형이다. (B) was: 주어(my parents)에 맞지 않는 형태이다. 따라서 오답이다.",
+    "passage": "My sister (<u>    A    </u>) at the library yesterday, but my parents (<u>    B    </u>) at the museum.",
+    "stem": "다음 문장의 빈칸 (A), (B)에 들어갈 말이 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T07:40:26.008Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T07:40:26.617Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T07:40:26.617Z",
+      "what": "확인 완료"
+    }
+  }
+}

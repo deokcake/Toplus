@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T02:21:12.640Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "We aren't late.",
+      "1": "My sister doesn't like milk.",
+      "2": "The shop isn't open today.",
+      "3": "He don't play games.",
+      "4": "I don't need a new bag."
+    },
+    "expl": "핵심 규칙: be동사 부정은 am not, isn't, aren't로, 일반동사 현재 부정은 3인칭 단수 주어에 doesn't + 동사원형, 그 밖에는 don't + 동사원형으로 쓴다.\n풀이 순서: ① be동사 부정문은 주어와 be동사가 맞는지 본다. → ② 일반동사 부정문은 don't/doesn't가 주어와 맞는지, 뒤가 동사원형인지 본다. → ③ 선택지 ④는 주어 He에 don't를 썼다. doesn't로 고친다. 정답은 ④.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 He에는 doesn't를 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.\n② [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.\n③ [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.\n④ [정답] 3인칭 단수 주어 He에는 doesn't를 써야 하므로 정답이다.\n⑤ [오답] 주어에 맞는 부정 형태를 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:21:11.652Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:21:12.640Z",
+      "what": "확인 완료"
+    }
+  }
+}

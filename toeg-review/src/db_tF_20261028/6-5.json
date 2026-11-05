@@ -1,0 +1,28 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-23T10:04:06.752Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Tom has an uncle in Busan.",
+      "1": "There is an ant on the desk.",
+      "2": "We have an English test today.",
+      "3": "I read an interesting book.",
+      "4": "Mr. Kim is a honest teacher."
+    },
+    "expl": "핵심 규칙: a/an은 철자가 아니라 첫소리로 정한다. hour, honest처럼 h를 발음하지 않는 낱말은 모음 소리로 시작하므로 an을 쓴다.\n풀이 순서: ① a/an 뒤 낱말의 첫 ‘소리’를 본다. 철자와 소리가 다른 낱말(h를 발음하지 않는 낱말, ‘유’로 소리 나는 u·eu)을 살핀다. → ② honest는 h를 발음하지 않아 an honest teacher다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: honest의 h는 발음하지 않아 모음 소리로 시작하고, an honest로 써야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] uncle은 모음 소리로 시작하고, an을 바르게 썼으므로 오답이다.\n② [오답] ant는 모음 소리로 시작하고, an을 바르게 썼으므로 오답이다.\n③ [오답] English는 모음 소리로 시작하고, an을 바르게 썼으므로 오답이다.\n④ [오답] interesting은 모음 소리로 시작하고, an을 바르게 썼으므로 오답이다.\n⑤ [정답] honest의 h는 발음하지 않아 모음 소리로 시작하고, an honest로 써야 하므로 정답이다.",
+    "passage": "",
+    "stem": "다음 중 틀린 문장을 고르시오."
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:04:06.752Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:04:06.752Z",
+      "what": "확인 완료"
+    }
+  }
+}

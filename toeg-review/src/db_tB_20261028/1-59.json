@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-09-30T05:52:02.526Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "(A), (B), (D)",
+      "1": "(A), (C), (E)",
+      "2": "(B), (C), (D)",
+      "3": "(A), (D), (E)",
+      "4": "(B), (D), (E)"
+    },
+    "expl": "핵심 규칙: look forward to, object to, be used to, be accustomed to, be devoted to, contribute to, in addition to, the key to의 to는 전치사라 뒤에 명사·동명사를 쓴다. be busy, spend + 시간, feel like, insist on, succeed in 뒤에도 동명사를 쓴다.\n풀이 순서: ① 문장마다 관용 표현 뒤의 동사 형태를 본다. 전치사 to·in·on·from과 be busy, spend + 시간, feel like 뒤에는 동명사가 와야 한다. → ② (C) is busy to prepare, (E) from enter가 틀렸다. (A) objected to waiting, (B) are accustomed to working, (D) spent three hours practicing은 옳다. → ③ 옳은 세 문장만 모은 (A), (B), (D)를 고른다.\n문장별 판정:\n(A) 옳음: object to 뒤에 동명사를 썼다.\n(B) 옳음: be accustomed to 뒤에 동명사를 썼다.\n(C) 틀림: be busy 뒤에는 동명사를 쓴다. to prepare → preparing.\n(D) 옳음: spend + 시간 뒤에 동명사를 썼다.\n(E) 틀림: from 뒤에는 동명사를 쓴다. enter → entering.\n정답 판단: 어법상 옳은 문장은 (A), (B), (D)뿐이고, 이 세 문장으로만 짝지어진 것은 하나다.\n선택지 분석:\n① [정답] 옳은 문장 (A), (B), (D)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (C), (E)는 옳은 문장이 아니고, 옳은 문장 (B), (D)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (C)는 옳은 문장이 아니고, 옳은 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (E)는 옳은 문장이 아니고, 옳은 문장 (B)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (E)는 옳은 문장이 아니고, 옳은 문장 (A)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(A) Jane objected to waiting any longer for the late bus.\n(B) We are accustomed to working together on group projects.\n(C) Tom is busy to prepare dinner for his family tonight.\n(D) Mina spent three hours practicing for the piano contest.\n(E) They prevented us from enter the building after six.",
+    "stem": "다음 중 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-04T11:33:29.913Z"
+  },
+  "tab": "7cl4h520",
+  "updatedAt": "2026-10-04T11:33:29.913Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-04T11:33:29.913Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

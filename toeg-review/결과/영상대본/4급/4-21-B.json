@@ -1,0 +1,179 @@
+{
+ "key": "4-21",
+ "type": "B",
+ "grade": 4,
+ "chapter": "CH 3 be동사와 일반동사",
+ "title": "현재 시제가 아닌 문장 찾기",
+ "total_sec": 120,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "4급 · CH 3 be동사와 일반동사 · 21번 · B 유형\n\n이 문제는 다섯 문장의 동사를 보고 현재 시제가 아닌 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 3 be동사와 일반동사 · 21번 · B 유형",
+     "이 문제는 다섯 문장의 동사를 보고 현재 시제가 아닌 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 3, 21번 B 유형. 이 문제는 다섯 문장의 동사를 보고 현재 시제가 아닌 문장을 고르는 문제예요.",
+   "caption": "현재 시제가 아닌 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 현재 시제 문장이 아닌 것을 고르시오.\n\n① They play soccer on Sundays.\n② He goes to school.\n③ She studies every day.\n④ We visit grandma often.\n⑤ Tom was at home.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 현재 시제 문장이 아닌 것을 고르시오.",
+     "① They play soccer on Sundays.",
+     "② He goes to school.",
+     "③ She studies every day.",
+     "④ We visit grandma often.",
+     "⑤ Tom was at home."
+    ]
+   },
+   "narration": "다음 중 현재 시제 문장이 아닌 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n현재 시제: 지금의 상태, 습관, 늘 그런 사실\nbe동사 현재형: am, are, is\n일반동사 현재형: 동사원형 (I, you, we, they, 복수) · 동사 + s/es (3인칭 단수, have → has)\n과거형 (지난 일): was, were · walked처럼 ed형 · come → came처럼 바뀐 꼴\n예) He walks. (그는 걸어요.)  He walked. (그는 걸었어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재 시제: 지금의 상태, 습관, 늘 그런 사실",
+     "be동사 현재형: am, are, is",
+     "일반동사 현재형: 동사원형 (I, you, we, they, 복수) · 동사 + s/es (3인칭 단수, have → has)",
+     "과거형 (지난 일): was, were · walked처럼 ed형 · come → came처럼 바뀐 꼴",
+     "예) He walks. (그는 걸어요.)  He walked. (그는 걸었어요.)"
+    ]
+   },
+   "narration": "현재 시제는 지금의 상태나 습관, 늘 그런 사실을 나타내요. be동사는 am, are, is이고, 일반동사는 동사원형을 쓰되 3인칭 단수 주어이면 s나 es를 붙이고, have는 has예요. 지난 일은 was, were나 ed형, came처럼 바뀐 꼴 같은 과거형으로 써요. He walks. 그는 걸어요. He walked. 그는 걸었어요.",
+   "caption": "현재형과 과거형의 모양"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 31,
+   "screen": {
+    "text": "다음 중 현재 시제 문장이 아닌 것을 고르시오.\n\n① They play soccer on Sundays.\n② He goes to school.\n③ She studies every day.\n④ We visit grandma often.\n⑤ Tom was at home.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "They play",
+       "He goes",
+       "She studies",
+       "We visit",
+       "Tom was"
+      ],
+      "strike": [],
+      "note": "문장마다 동사 찾기: play, goes, studies, visit, was"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① They play soccer on Sundays.",
+       "② He goes to school.",
+       "③ She studies every day.",
+       "④ We visit grandma often."
+      ],
+      "note": "현재형 지우기: play(They), visit(We)는 동사원형 · goes(He), studies(She)는 3인칭 단수 현재형"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ Tom was at home."
+      ],
+      "strike": [],
+      "note": "남은 was = be동사의 과거형 → 과거 시제"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 동사를 찾으면 play, goes, studies, visit, was예요. 둘째, 현재형인 문장을 지워요. play와 visit은 주어 They와 We에 쓰는 동사원형이고, goes와 studies는 3인칭 단수 주어 He와 She에 쓰는 현재형이에요. 셋째, 남은 was는 be동사의 과거형이라, 5번이 과거 시제예요. Tom was at home. 톰은 집에 있었어요.",
+   "caption": "동사 찾기 → 현재형 지우기 → was"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① They play soccer on Sundays.  ✗  주어 They에 쓰는 현재형 play, 일요일마다 하는 일\n② He goes to school.  ✗  3인칭 단수 He에 맞춘 현재형 goes\n③ She studies every day.  ✗  study의 3인칭 단수 현재형 studies (과거형은 studied)\n④ We visit grandma often.  ✗  주어 We에 쓰는 현재형 visit (동사원형)\n⑤ Tom was at home.  ✓  was는 be동사의 과거형 → 과거 시제",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① They play soccer on Sundays.  ✗  주어 They에 쓰는 현재형 play, 일요일마다 하는 일",
+     "② He goes to school.  ✗  3인칭 단수 He에 맞춘 현재형 goes",
+     "③ She studies every day.  ✗  study의 3인칭 단수 현재형 studies (과거형은 studied)",
+     "④ We visit grandma often.  ✗  주어 We에 쓰는 현재형 visit (동사원형)",
+     "⑤ Tom was at home.  ✓  was는 be동사의 과거형 → 과거 시제"
+    ]
+   },
+   "narration": "정답은 5번이에요. was는 be동사의 과거형이라 이미 지난 일을 나타내요. 3번 studies는 과거형 studied와 비슷해 보이지만, ed가 아니라 es로 끝나는 현재형이에요. 1번 play와 4번 visit은 s가 없지만, 주어가 They와 We일 때는 동사원형이 현재형이에요.",
+   "caption": "정답 ⑤ Tom was at home."
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ⑤ Tom was at home.\n\n동사가 과거형(was, were · ed형 · came처럼 바뀐 꼴)이면 현재 시제가 아니에요",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ Tom was at home.",
+     "동사가 과거형(was, were · ed형 · came처럼 바뀐 꼴)이면 현재 시제가 아니에요"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 동사가 was, were나 ed형 같은 과거형이면 현재 시제가 아니에요.",
+   "caption": "과거형이면 현재 시제가 아님"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 현재 시제 문장이 아닌 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "They play soccer on Sundays.",
+   "He goes to school.",
+   "She studies every day.",
+   "We visit grandma often.",
+   "Tom was at home."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 현재 시제는 반복·현재 상태를, 과거 시제는 이미 끝난 일을 나타낸다.\n풀이 순서: ① 문장마다 동사만 본다. → ② 현재형(am/are/is, 동사원형, -(e)s)인 문장을 지운다. → ③ was는 be동사의 과거형이다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 'Tom was at home.'는 과거형 또는 과거 시간 표현을 사용해 과거 시제이다.\n선택지 분석:\n① They play soccer on Sundays. - 오답. 'They play soccer on Sundays.'는 현재 반복/현재 상태를 나타내는 현재시제 문장이다.\n② He goes to school. - 오답. 'He goes to school.'는 현재 반복/현재 상태를 나타내는 현재시제 문장이다.\n③ She studies every day. - 오답. 'She studies every day.'는 현재 반복/현재 상태를 나타내는 현재시제 문장이다.\n④ We visit grandma often. - 오답. 'We visit grandma often.'는 현재 반복/현재 상태를 나타내는 현재시제 문장이다.\n⑤ Tom was at home. - 정답. 'Tom was at home.'는 과거형 또는 과거 시간 표현을 사용해 과거 시제이다."
+ }
+}

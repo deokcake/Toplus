@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-09-30T03:31:36.832Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "The old pier was destroyed by a storm last night.",
+      "2": null,
+      "3": null,
+      "4": "The old pier was destroyed by someone last night."
+    },
+    "expl": "핵심 규칙: 단순과거 능동문을 수동태로 바꿀 때 목적어를 주어로 옮기고 was/were + 과거분사를 쓴다. 능동문에 드러난 행위자는 by + 행위자로 남기고, 없던 행위자를 새로 넣지 않는다.\n풀이 순서: ① 능동문의 동사(destroyed)가 과거이므로 수동태도 과거의 was/were + 과거분사여야 한다. → ② be동사가 없거나 -ing형·have + 과거분사처럼 능동인 보기, 현재형 보기를 지운다. → ③ 능동문의 주어 A storm은 by a storm으로 남겨야 뜻이 같다. by someone은 뜻이 달라진다. 정답은 ②.\n문장별 판정:\n정답 판단: was destroyed로 과거 수동을 만들고 행위자 by a storm도 살려 원래 문장과 뜻이 같다. 정답은 ②이다.\n선택지 분석:\n① [오답] be동사가 없어 부두가 스스로 파괴한 능동문이 되었다. 오답이다.\n② [정답] was destroyed로 과거 수동을 만들고 행위자 by a storm도 살려 원래 문장과 뜻이 같다. 정답이다.\n③ [오답] was destroying은 과거진행 능동형이라 부두가 파괴를 당한 뜻이 아니다. 오답이다.\n④ [오답] is destroyed는 현재형이라 last night와 맞지 않는다. 오답이다.\n⑤ [오답] 행위자가 폭풍(a storm)인데 by someone으로 바꿔 뜻이 달라졌다. 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-09-30T03:31:34.244Z"
+  },
+  "tab": "x6vo8hoh",
+  "updatedAt": "2026-09-30T03:31:36.832Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-09-30T03:31:36.832Z",
+      "what": "확인 완료"
+    }
+  }
+}

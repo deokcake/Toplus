@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T09:59:20.769Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "are being turn off by",
+      "1": "are turned being off by",
+      "2": "are being turned by off",
+      "3": "were being turned off by",
+      "4": "are being turned off by"
+    },
+    "expl": "핵심 규칙: 전치사·부사가 포함된 동사 표현(talk about, look after 등)을 수동태로 바꿀 때 그 전치사·부사를 동사 바로 뒤에 그대로 둔다. 현재진행 수동태는 am/is/are being + 과거분사이며, 행위자는 by + 목적격으로 나타낸다.\n풀이 순서: ① 능동태가 현재진행형(is turning)이므로 수동태는 ‘are + being + 과거분사’다. → ② 구동사(turn off)는 한 덩어리다. 과거분사 바로 뒤에 전치사를 그대로 두고, 그 다음에 by를 쓴다. → ③ 정답은 are being turned off by. 시제를 바꾼 것, 동사원형을 쓴 것, 전치사와 by의 순서를 바꾼 것은 지운다.\n문장별 판정:\n정답 판단: 현재진행 수동태(are being + 과거분사)에 off를 동사 바로 뒤에 두고 by를 이어 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] being 뒤에는 동사원형이 아니라 과거분사를 써야 하므로 오답이다.\n② [오답] being은 be동사 바로 뒤, 과거분사 앞에 와야 하므로 오답이다.\n③ [오답] 부사 off는 과거분사 바로 뒤에 두어야 하는데 by 뒤로 옮겼으므로 오답이다.\n④ [오답] 능동문이 현재진행(is turning)이고, are를 써야 하는데 과거진행으로 바꿨으므로 오답이다.\n⑤ [정답] 현재진행 수동태(are being + 과거분사)에 off를 동사 바로 뒤에 두고 by를 이어 썼으므로 정답이다.",
+    "passage": "\"Someone is turning off the lights.\"\n→ The lights ________ ________ ________ ________ ________ someone.",
+    "stem": "다음 문장을 수동태로 바꿀 때 빈칸에 들어갈 말이 순서대로 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T09:58:52.104Z"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T09:59:20.769Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T09:59:20.769Z",
+      "what": "확인 완료"
+    }
+  }
+}

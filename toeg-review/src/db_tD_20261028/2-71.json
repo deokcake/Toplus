@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T16:44:25.735Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "wearing — arrested",
+      "1": "wearing — arresting",
+      "2": "worn — arrested",
+      "3": "worn — arresting",
+      "4": "wears — arrested"
+    },
+    "expl": "핵심 규칙: 명사가 직접 하는 동작은 현재분사(-ing)로, 동작을 받는 명사는 과거분사로 꾸민다. 문장의 동사 자리는 주어와의 관계에 따라 진행형(be + -ing)이나 수동태(be + 과거분사)로 쓴다.\n풀이 순서: ① 첫째 밑줄은 앞의 명사(The man)를 꾸미는 분사 자리다. 남자가 안경을 쓰고 있으므로 능동의 wearing이다. → ② 둘째 밑줄은 be동사 뒤다. 뒤에 by the police가 있으므로 수동태의 arrested다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: 남자가 안경을 쓴 능동 관계라 wearing이 명사를 꾸미고, 남자가 체포되었으므로 was arrested의 수동태가 된다.\n선택지 분석:\n① [정답] wearing — arrested: 두 자리가 모두 알맞으므로 정답이다.\n② [오답] 둘째 자리 arresting: 남자가 경찰에게 체포된 수동 관계이므로 was 뒤에 과거분사를 쓴다. 따라서 오답이다.\n③ [오답] 첫째 자리 worn: 남자가 직접 안경을 쓴 능동 관계라 과거분사는 맞지 않는다. 따라서 오답이다.\n④ [오답] 첫째 자리 worn: 남자가 직접 안경을 쓴 능동 관계라 과거분사는 맞지 않는다. 둘째 자리 arresting: 남자가 경찰에게 체포된 수동 관계이므로 was 뒤에 과거분사를 쓴다. 따라서 오답이다.\n⑤ [오답] 첫째 자리 wears: 문장의 동사(was)가 따로 있어 명사를 꾸미는 자리에 동사 형태를 쓸 수 없다. 따라서 오답이다.",
+    "passage": "The man <u>wear</u> glasses was <u>arrest</u> by the police.",
+    "stem": "다음 밑줄 친 동사의 알맞은 형태를 바르게 짝지은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T16:44:19.095Z"
+  },
+  "tab": "8s1sfi09",
+  "updatedAt": "2026-10-23T16:44:25.735Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:44:25.735Z",
+      "what": "확인 완료"
+    }
+  }
+}

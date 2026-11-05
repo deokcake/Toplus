@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T18:09:07.342Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "A: Where did you put my keys?\nB: Yesterday morning.",
+      "1": "A: What are you reading?\nB: A book about space.",
+      "2": "A: How tall is your brother?\nB: He's about 180 cm.",
+      "3": "A: When is your birthday?\nB: It's May 5th.",
+      "4": "A: Which color do you like, red or blue?\nB: I like blue."
+    },
+    "expl": "핵심 규칙: 의문사가 묻는 정보(what 사물·일, who 사람, where 장소, when·what time 때, why 이유, how 방법·상태, how long 기간, how old 나이, how much 값)에 맞게 답해야 자연스러운 대화가 된다.\n풀이 순서: ① 대화마다 A의 의문사와 B가 답한 정보의 종류를 짝지어 본다. When - 때, Where - 장소, How long - 걸린 시간, How old - 나이, Why - 이유다. → ② 짝이 어긋난 대화를 찾는다. → ③ 선택지 ①: Where(어디)로 물었는데 때(Yesterday morning)를 답했다.\n문장별 판정:\n정답 판단: Where는 장소를 묻는데 때를 답해 어색하므로 정답은 ①이다.\n선택지 분석:\n① [정답] Where는 장소를 묻는데 때를 답해 어색하므로 정답이다.\n② [오답] 묻는 정보에 맞게 답한 자연스러운 대화이므로 오답이다.\n③ [오답] 묻는 정보에 맞게 답한 자연스러운 대화이므로 오답이다.\n④ [오답] 묻는 정보에 맞게 답한 자연스러운 대화이므로 오답이다.\n⑤ [오답] 묻는 정보에 맞게 답한 자연스러운 대화이므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:08:56.173Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:09:07.342Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:09:07.342Z",
+      "what": "확인 완료"
+    }
+  }
+}

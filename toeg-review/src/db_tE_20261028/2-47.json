@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-24T00:39:53.254Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: one을 먼저 말한 뒤 또 다른 하나는 another로 나타낸다. 마지막에 정해진 하나만 남으면 the other, 정해진 나머지가 여럿이면 the others를 쓴다.\n풀이 순서: ① 전체가 몇인지 본다(three routes). One 다음에도 둘 이상이 남았으므로 첫째 빈칸은 ‘또 다른 하나’인 another다. → ② 둘째 빈칸은 마지막으로 남은 것이다. 뒤의 동사(is)를 보면 하나이므로 the other다. → ③ 정답은 another - the other.\n문장별 판정:\n정답 판단: 전체 3개(명) 중 처음 하나는 one, 또 다른 하나는 another이고, 정해진 나머지 1개(명)는 the other로 나타낸다.\n선택지 분석:\n① [오답] 첫째 빈칸 other: 관사 없이 단수 대명사로 쓸 수 없다. 둘째 빈칸 the others: 남은 것이 하나뿐이고 동사도 단수이므로 맞지 않는다. 따라서 오답이다.\n② [정답] 첫째 빈칸 another, 둘째 빈칸 the other로 모든 자리가 알맞으므로 정답이다.\n③ [오답] 둘째 빈칸 others: 복수여서 단수 동사와 맞지 않고, 정해진 나머지도 나타내지 못한다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 the other: 아직 남은 것이 둘 이상인데 ‘정해진 마지막 하나’를 뜻하는 말을 써서 맞지 않는다. 둘째 빈칸 another: 마지막으로 남은 정해진 하나는 the other로 나타내므로 맞지 않는다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 the others: 복수여서 단수 동사와 맞지 않는다. 둘째 빈칸 another: 마지막으로 남은 정해진 하나는 the other로 나타내므로 맞지 않는다. 따라서 오답이다.",
+    "passage": null,
+    "stem": "다음 문장의 빈칸에 들어갈 말이 순서대로 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T00:39:41.304Z"
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-24T00:39:53.254Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T00:39:53.254Z",
+      "what": "확인 완료"
+    }
+  }
+}

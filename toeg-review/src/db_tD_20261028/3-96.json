@@ -1,0 +1,37 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:07:38.020Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "niceness",
+      "1": "to nice",
+      "2": "more nicer",
+      "3": "nice",
+      "4": "most nice than"
+    },
+    "expl": "핵심 규칙: become, look, smell, seem, feel 뒤에서 주어의 상태를 설명하는 보어 자리에는 부사가 아니라 형용사를 쓴다.\n풀이 순서: ① 밑줄 앞의 동사를 본다: smells. 뒤에 주어의 상태를 설명하는 보어가 온다. → ② 보어 자리에는 부사(nicely)가 아니라 형용사를 쓴다. → ③ 정답은 nice.\n문장별 판정:\n정답 판단: smell 뒤 보어 자리에는 형용사를 쓰므로 nicely를 nice로 고친다. 정답은 ④이다.\n선택지 분석:\n① [오답] 명사로는 냄새의 상태를 설명하지 못하므로 오답이다.\n② [오답] to 뒤에는 동사원형을 쓰는데 nice는 형용사라 오답이다.\n③ [오답] more와 -er을 겹쳐 쓸 수 없고 비교할 대상도 없으므로 오답이다.\n④ [정답] smell 뒤 보어 자리에 형용사 nice를 바르게 썼으므로 정답이다.\n⑤ [오답] 최상급과 than을 섞어 쓸 수 없으므로 오답이다.",
+    "passage": "The soup smells <u>nicely</u> with fresh herbs.",
+    "stem": "다음 문장에서 밑줄 친 부분을 바르게 고친 것을 고르시오."
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:22:20.537Z",
+      "text": "nicely를 고쳐야 하는데, 선택지에 nicely가 있으니 어색함."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:07:38.020Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:07:34.028Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:07:38.020Z",
+      "what": "확인 완료"
+    }
+  }
+}

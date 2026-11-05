@@ -1,0 +1,715 @@
+[
+ {
+  "key": "3-78",
+  "grade": 3,
+  "no": 78,
+  "chapter": "CH 8",
+  "chapter_name": "부정사",
+  "ref": {
+   "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+   "passage": "Matt: I'm tired. Can I rest for a while?\nMrs. Kim: Of course. Do you need a chair <u>to sit</u>?\nMatt: Yes, please.",
+   "c": [
+    "sitting on",
+    "sit",
+    "to sitting",
+    "to sit on",
+    "sit on"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: to부정사가 꾸미는 명사가 전치사의 목적어이면 전치사를 남긴다: a chair to sit on, a house to live in, a pen to write with.\n풀이 순서: ① 밑줄 친 to부정사는 앞의 명사(a chair)를 꾸민다. 명사를 동사 뒤로 옮겨 본다: sit on a chair. → ② 전치사가 있어야 말이 되므로 to부정사 뒤에 전치사를 남긴다. → ③ 정답은 to sit on.\n문장별 판정:\n정답 판단: sit on a chair이므로 to sit on이 알맞으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 명사를 꾸미려면 to부정사가 필요하므로 오답이다.\n② [오답] 동사원형만으로는 명사를 꾸밀 수 없으므로 오답이다.\n③ [오답] to 뒤에 -ing를 쓸 수 없으므로 오답이다.\n④ [정답] sit on a chair이므로 to sit on이 알맞으므로 정답이다.\n⑤ [오답] to가 빠졌으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+    "passage": "Minsu: My family is moving to Seoul next month.\nJane: Really? Did you find a house <u>to live</u>?\nMinsu: Yes, we found a nice one.",
+    "c": [
+     "living in",
+     "to live in",
+     "live",
+     "to living",
+     "live in"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+    "passage": "Tom: I have to fill out this form.\nMs. Lee: Do you have a pen <u>to write</u>?\nTom: No. Can I borrow one?",
+    "c": [
+     "writing with",
+     "write",
+     "to write with",
+     "write with",
+     "to writing"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+    "passage": "Mina: I feel lonely at my new school.\nMom: Don't worry. You'll soon find a friend <u>to talk</u>.\nMina: I hope so.",
+    "c": [
+     "talk to",
+     "to talking",
+     "talking to",
+     "talk",
+     "to talk to"
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+    "passage": "Jisu: It's too noisy at home.\nDad: You need a quiet room <u>to study</u>.\nJisu: Then I'll go to the library.",
+    "c": [
+     "to study in",
+     "studying in",
+     "study",
+     "to studying",
+     "study in"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+    "passage": "Kevin: This soup looks delicious!\nWaiter: Oh, you don't have a spoon <u>to eat</u>.\nKevin: Can you bring me one, please?",
+    "c": [
+     "eat",
+     "eating with",
+     "eat with",
+     "to eat with",
+     "to eating"
+    ],
+    "ans": 4
+   }
+  },
+  "target_answer_position": 3,
+  "v1_pretest": {
+   "stem": "다음 <보기>의 문장 중 어법상 옳은 것끼리 짝지은 것을 고르시오.",
+   "passage": "<보기>\nⓐ Don't be afraid. There is nothing to worry.\nⓑ Grandma has many old pictures to show us.\nⓒ Jenny is looking for a partner to work with.\nⓓ Our club needs an interesting topic to talk.\nⓔ Please give me a basket to put these eggs.",
+   "c": [
+    "ⓐ, ⓑ",
+    "ⓐ, ⓓ",
+    "ⓑ, ⓒ",
+    "ⓒ, ⓔ",
+    "ⓓ, ⓔ"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: to부정사가 앞의 명사를 꾸밀 때, 그 명사가 전치사의 목적어이면 to부정사 뒤에 전치사를 남긴다(a partner to work with). 명사가 동사의 목적어이면 전치사를 쓰지 않는다(pictures to show us).\n풀이 순서: ① 문장마다 to부정사가 꾸미는 명사를 찾는다. → ② 그 명사를 동사 뒤로 옮겨 본다: worry about nothing, show us pictures, work with a partner, talk about a topic, put these eggs in a basket. → ③ 전치사가 필요한데 빠진 ⓐ, ⓓ, ⓔ는 틀리고 ⓑ, ⓒ는 옳다. 정답은 ③.\n문장별 판정:\nⓐ X. worry about nothing이므로 전치사를 남겨 nothing to worry about으로 고친다.\nⓑ O. show us pictures처럼 pictures가 show의 목적어이므로 전치사가 필요 없다.\nⓒ O. work with a partner이므로 a partner to work with가 알맞다.\nⓓ X. talk about a topic이므로 an interesting topic to talk about으로 고친다.\nⓔ X. put these eggs in a basket이므로 a basket to put these eggs in으로 고친다.\n정답 판단: ⓑ는 전치사가 필요 없고 ⓒ는 전치사 with를 바르게 남겼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] ⓐ는 worry about nothing이므로 nothing to worry about처럼 about을 남겨야 해서 오답이다.\n② [오답] ⓐ와 ⓓ는 둘 다 전치사 about이 빠진 틀린 문장이므로 오답이다.\n③ [정답] ⓑ는 전치사가 필요 없고 ⓒ는 전치사 with를 바르게 남겼으므로 정답이다.\n④ [오답] ⓔ는 put these eggs in a basket이므로 to부정사 뒤에 in을 남겨야 해서 오답이다.\n⑤ [오답] ⓓ에는 about이, ⓔ에는 in이 빠져 있어 둘 다 틀린 문장이므로 오답이다.",
+   "new_format": "<보기> 다섯 문장 중 어법상 옳은 문장끼리 짝지은 조합 고르기",
+   "design": "to부정사가 꾸미는 명사가 전치사의 목적어이면 to부정사 뒤에 전치사를 남긴다는 규칙을 그대로 평가한다. 대화 속 밑줄 고치기를 <보기> 다섯 문장의 어법 판단 조합으로 바꾸고, 전치사가 필요 없는 문장(pictures to show us)을 옳은 문장으로 넣어 ‘늘 전치사를 붙인다’는 오해를 걸러 내게 했다. 틀린 문장은 about·in이 빠진 형태로 만들었고, 특히 ⓔ는 to부정사 뒤에 목적어가 있어 완전한 문장처럼 보이도록 설계했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 42/33 글자 171/112 정답 3",
+   "ERR  원문항이 조합형이 아닌데 조합 고르기 형식 — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "3-89",
+  "grade": 3,
+  "no": 89,
+  "chapter": "CH 9",
+  "chapter_name": "동명사",
+  "ref": {
+   "stem": "다음 지문을 읽고 밑줄 친 ⓐ에 대한 설명으로 가장 적절한 것을 고르시오.",
+   "passage": "When I was young, I was very shy. I ⓐ<u>used to keep hiding</u> behind my mother whenever I met new people. But now, I am very outgoing.",
+   "c": [
+    "ⓐ의 'used to'는 '익숙하다'라는 뜻으로, 과거의 반복적 습관을 나타내기엔 부적절하다.",
+    "ⓐ의 'keep' 뒤에 'hiding'이 온 이유는 'keep'이 동명사를 목적어로 취하는 동사이기 때문이다.",
+    "ⓐ는 현재까지도 계속해서 숨어 있는 상태가 지속되고 있음을 설명하고 있다.",
+    "ⓐ의 'hiding'은 앞의 'mother'를 꾸며주는 현재분사(형용사 역할)로 쓰였다.",
+    "ⓐ는 'used to'가 조동사이므로 뒤에 'keep' 대신 'keeping'을 써야 문법적으로 옳다."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: keep은 동명사를 목적어로 쓴다(keep -ing: 계속 ~하다). used to + 동사원형은 ‘(예전에) ~하곤 했다’는 과거의 습관이다.\n풀이 순서: ① ⓐ를 둘로 나눈다: used to + 동사원형(keep), keep + 동명사(hiding). → ② used to는 ‘~하곤 했다’(지금은 아님)이고, hiding은 keep의 목적어인 동명사다. 이와 맞지 않는 설명을 지운다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: keep이 동명사를 목적어로 쓰는 동사라 hiding이 왔으므로 정답은 ②이다.\n선택지 분석:\n① [오답] used to + 동사원형은 과거의 습관을 나타내는 알맞은 표현이므로 오답이다.\n② [정답] keep이 동명사를 목적어로 쓰는 동사라 hiding이 왔으므로 정답이다.\n③ [오답] used to는 지금은 그렇지 않다는 뜻이고 뒤 문장도 지금은 외향적이라고 하므로 오답이다.\n④ [오답] hiding은 mother를 꾸미는 말이 아니라 keep의 목적어이므로 오답이다.\n⑤ [오답] used to 뒤에는 동사원형 keep을 쓰므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 지문을 읽고 밑줄 친 ⓐ에 대한 설명으로 가장 적절한 것을 고르시오.",
+    "passage": "My sister loves music. She ⓐ<u>practices playing</u> the violin every evening. Someday she wants to be a violinist.",
+    "c": [
+     "ⓐ의 'playing'은 진행형의 일부로, 지금 바이올린을 연주하는 중이라는 뜻이다.",
+     "ⓐ의 'practice'는 동명사를 목적어로 취하는 동사이므로 뒤에 'playing'이 왔다.",
+     "ⓐ의 'playing'은 뒤의 'the violin'을 꾸며 주는 현재분사(형용사 역할)이다.",
+     "ⓐ는 'practices to play'로 바꿔도 같은 뜻의 옳은 문장이다.",
+     "ⓐ는 주어가 3인칭 단수이므로 'playing' 대신 'plays'를 써야 옳다."
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 지문을 읽고 밑줄 친 ⓐ에 대한 설명으로 가장 적절한 것을 고르시오.",
+    "passage": "Tom wanted to be healthy. So he ⓐ<u>gave up eating</u> fast food last year. Now he feels much better.",
+    "c": [
+     "ⓐ의 'eating'은 과거진행형의 일부로, 과거에 먹고 있던 중이었다는 뜻이다.",
+     "ⓐ의 'gave up'은 ‘포기했다’는 뜻이므로 지금도 패스트푸드를 계속 먹고 있다는 뜻이다.",
+     "ⓐ는 'gave up to eat'으로 바꿔도 같은 뜻의 옳은 문장이다.",
+     "ⓐ의 'give up'은 동명사를 목적어로 취하므로 뒤에 'eating'이 왔다.",
+     "ⓐ의 'eating'은 뒤의 'fast food'를 꾸며 주는 현재분사이다."
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 지문을 읽고 밑줄 친 ⓐ에 대한 설명으로 가장 적절한 것을 고르시오.",
+    "passage": "Jane is very shy. She ⓐ<u>avoids speaking</u> in front of many people. But she is trying to change.",
+    "c": [
+     "ⓐ의 'avoid'는 동명사를 목적어로 취하는 동사이므로 뒤에 'speaking'이 왔다.",
+     "ⓐ는 'avoids to speak'로 바꿔도 옳은 문장이다.",
+     "ⓐ의 'speaking'은 지금 말하고 있는 중이라는 진행의 뜻이다.",
+     "ⓐ의 'speaking'은 앞의 'She'를 꾸며 주는 현재분사이다.",
+     "ⓐ는 'avoid'가 ‘즐기다’라는 뜻이므로 사람들 앞에서 말하기를 좋아한다는 뜻이다."
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 지문을 읽고 밑줄 친 ⓐ에 대한 설명으로 가장 적절한 것을 고르시오.",
+    "passage": "Our class had a big test yesterday. After the test, we ⓐ<u>finished cleaning</u> the classroom together. Then we went home.",
+    "c": [
+     "ⓐ의 'cleaning'은 뒤의 'the classroom'을 꾸며 주는 현재분사이다.",
+     "ⓐ는 교실 청소를 아직 시작하지 않았다는 뜻이다.",
+     "ⓐ는 'finished to clean'으로 바꿔도 같은 뜻의 옳은 문장이다.",
+     "ⓐ의 'finished'가 과거형이므로 뒤의 'cleaning'도 'cleaned'로 써야 옳다.",
+     "ⓐ의 'finish'는 동명사를 목적어로 취하는 동사이므로 뒤에 'cleaning'이 왔다."
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 지문을 읽고 밑줄 친 ⓐ에 대한 설명으로 가장 적절한 것을 고르시오.",
+    "passage": "My brother and I love sports very much. Every day after school, we ⓐ<u>enjoy playing</u> soccer in the park near our house. We play almost every day, even in winter.",
+    "c": [
+     "ⓐ는 'enjoy to play'로 바꿔도 같은 뜻의 옳은 문장이다.",
+     "ⓐ의 'playing'은 지금 축구를 하고 있는 중이라는 진행의 뜻이다.",
+     "ⓐ의 'enjoy'는 동명사를 목적어로 취하는 동사이므로 뒤에 'playing'이 왔다.",
+     "ⓐ의 'playing'은 뒤의 'soccer'를 꾸며 주는 현재분사이다.",
+     "ⓐ는 'enjoy'가 조동사처럼 쓰였으므로 뒤에 동사원형 'play'를 써야 옳다."
+    ],
+    "ans": 3
+   }
+  },
+  "target_answer_position": 5,
+  "v1_pretest": {
+   "stem": "다음 글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것을 고르시오.",
+   "passage": "When I was little, I was afraid of water. I used to ⓐ<u>cry</u> every time my parents took me to the swimming pool. One day, my dad held my hand and said, \"Don't give up. Keep ⓑ<u>trying</u>.\" So I decided ⓒ<u>to take</u> swimming lessons at a sports center near my house. At first, I practiced ⓓ<u>kicking</u> my legs in the water for an hour every day. Now I am not afraid of water at all. I really enjoy ⓔ<u>to swim</u> in the sea with my friends every summer.",
+   "c": [
+    "ⓐ",
+    "ⓑ",
+    "ⓒ",
+    "ⓓ",
+    "ⓔ"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: keep, practice, enjoy는 동명사(-ing)를 목적어로 쓰고, decide는 to부정사를 목적어로 쓴다. used to 뒤에는 동사원형이 와서 ‘(예전에) ~하곤 했다’는 과거의 습관을 나타낸다.\n풀이 순서: ① 밑줄 친 말 바로 앞의 동사를 찾는다: used to, Keep, decided, practiced, enjoy. → ② 그 동사 뒤에 동사원형·동명사·to부정사 중 무엇이 오는지 확인한다. → ③ enjoy는 동명사를 목적어로 쓰므로 ⓔ to swim은 swimming이어야 한다. 정답은 ⑤.\n문장별 판정:\nⓐ O. used to + 동사원형으로 ‘(예전에) 울곤 했다’는 과거의 습관을 나타낸다.\nⓑ O. keep은 동명사를 목적어로 쓰므로 Keep trying(계속 노력해)이 알맞다.\nⓒ O. decide는 to부정사를 목적어로 쓰므로 decided to take가 알맞다.\nⓓ O. practice는 동명사를 목적어로 쓰므로 practiced kicking이 알맞다.\nⓔ X. enjoy는 동명사를 목적어로 쓰므로 to swim을 swimming으로 고친다.\n정답 판단: enjoy 뒤에는 to부정사가 아니라 동명사가 와야 하므로 ⓔ가 틀렸고 정답은 ⑤이다.\n선택지 분석:\n① [오답] ⓐ: used to 뒤에는 동사원형이 오므로 cry는 옳은 표현이어서 오답이다.\n② [오답] ⓑ: keep은 동명사를 목적어로 쓰므로 trying은 옳은 표현이어서 오답이다.\n③ [오답] ⓒ: decide는 to부정사를 목적어로 쓰므로 to take는 옳은 표현이어서 오답이다.\n④ [오답] ⓓ: practice는 동명사를 목적어로 쓰므로 kicking은 옳은 표현이어서 오답이다.\n⑤ [정답] ⓔ: enjoy는 동명사를 목적어로 쓰므로 to swim을 swimming으로 고쳐야 해서 정답이다.",
+   "new_format": "지문 속 밑줄 친 ⓐ~ⓔ(동사 뒤의 동사원형·동명사·to부정사) 중 어법상 틀린 것 고르기",
+   "design": "동명사를 목적어로 쓰는 동사(keep·practice·enjoy)와 used to + 동사원형을 그대로 평가한다. 밑줄 하나에 대한 문법 설명 고르기를 지문 속 다섯 밑줄 가운데 어법상 틀린 것 고르기로 바꿔, 설명을 읽는 대신 규칙을 직접 적용하게 했다. 옳은 밑줄에 to부정사를 쓰는 decide와 동사원형을 쓰는 used to를 섞어 ‘-ing만 맞다’나 ‘to만 틀리다’ 같은 단순한 판단으로는 풀리지 않게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 88/40 글자 324/300 정답 5",
+   "ERR  원문항보다 너무 김: 낱말 88 > 상한 60 (원문항 40) — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "3-100",
+  "grade": 3,
+  "no": 100,
+  "chapter": "CH 10",
+  "chapter_name": "형용사와 부사",
+  "ref": {
+   "stem": "다음 문장 중 어법상 틀린 문장은 몇 개인가?",
+   "passage": "ⓐ There isn't many time left for the project.\nⓑ Would you like some coffee with your cake?\nⓒ He got up very lately this morning and missed the bus.\nⓓ She never complains about her difficulty job.\nⓔ My sister speaks French fluent after living in Paris.",
+   "c": [
+    "1개",
+    "2개",
+    "3개",
+    "4개",
+    "5개"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: much는 셀 수 없는 명사에 쓴다. late(늦게)/lately(최근에)는 뜻이 다르다. 명사는 형용사로, 동사는 부사로 꾸민다.\n풀이 순서: ① 문장마다 확인할 곳을 정한다: 수량 표현 뒤 명사가 셀 수 있는지, 꾸밈을 받는 말이 명사인지 동사인지, -ly가 붙어 뜻이 달라진 부사가 있는지. → ② ⓐ many time(much), ⓒ lately(late), ⓓ difficulty job(difficult), ⓔ fluent(fluently)가 틀렸다. ⓑ만 옳다. → ③ 틀린 문장은 4개이다.\n문장별 판정: ⓐ X. time은 셀 수 없으므로 much. ⓑ O. 권유하는 의문문의 some. ⓒ X. ‘늦게’는 late. ⓓ X. 명사 job은 형용사 difficult로 꾸민다. ⓔ X. 동사 speaks는 부사 fluently로 꾸민다.\n정답 판단: 틀린 문장은 ⓐ, ⓒ, ⓓ, ⓔ 네 개다.\n선택지 분석:\n① [오답] 틀린 문장은 ⓐ, ⓒ, ⓓ, ⓔ 네 개이므로 오답이다.\n② [오답] 틀린 문장은 ⓐ, ⓒ, ⓓ, ⓔ 네 개이므로 오답이다.\n③ [오답] 틀린 문장은 ⓐ, ⓒ, ⓓ, ⓔ 네 개이므로 오답이다.\n④ [정답] 틀린 문장은 ⓐ, ⓒ, ⓓ, ⓔ 네 개이므로 정답이다.\n⑤ [오답] 틀린 문장은 ⓐ, ⓒ, ⓓ, ⓔ 네 개이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 문장 중 어법상 틀린 문장은 몇 개인가?",
+    "passage": "ⓐ There are few cookies left in the jar on the table.\nⓑ She looked at me angry when I broke her cup.\nⓒ I always am tired after school on Mondays.\nⓓ Can I have a little water before the game starts?\nⓔ We need much eggs for the cake this afternoon.",
+    "c": [
+     "1개",
+     "2개",
+     "3개",
+     "4개",
+     "5개"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 문장 중 어법상 틀린 문장은 몇 개인가?",
+    "passage": "ⓐ There isn't much time left before the test.\nⓑ Tom runs fast and never gets tired.\nⓒ She looks happy with her new bike.\nⓓ We have many homework to do this weekend.\nⓔ Jane studies hard for the math exam.",
+    "c": [
+     "1개",
+     "2개",
+     "3개",
+     "4개",
+     "5개"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 문장 중 어법상 틀린 문장은 몇 개인가?",
+    "passage": "ⓐ I have a little money in my pocket for the bus.\nⓑ She sings beautifully on the stage at the school festival.\nⓒ Tom seems tired after the long trip to Jeju Island.\nⓓ They have much books about animals in their library.\nⓔ My uncle drove careful on the icy road last night.",
+    "c": [
+     "1개",
+     "2개",
+     "3개",
+     "4개",
+     "5개"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 문장 중 어법상 틀린 문장은 몇 개인가?",
+    "passage": "ⓐ We have a little chairs in the classroom.\nⓑ Jane speaks English fluent like a native speaker.\nⓒ The soup tastes nicely with some salt.\nⓓ Tom has little time for his hobbies.\nⓔ My parents are rarely angry with me.",
+    "c": [
+     "1개",
+     "2개",
+     "3개",
+     "4개",
+     "5개"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 문장 중 어법상 틀린 문장은 몇 개인가?",
+    "passage": "ⓐ I have many friends in my new school in Seoul.\nⓑ She looks happily in the picture with her dog.\nⓒ Tom runs fastly every morning to catch the bus.\nⓓ We have few money for the family trip this summer.\nⓔ I want to drink cold something after the soccer game.",
+    "c": [
+     "1개",
+     "2개",
+     "3개",
+     "4개",
+     "5개"
+    ],
+    "ans": 4
+   }
+  },
+  "target_answer_position": 4,
+  "v1_pretest": {
+   "stem": "다음 중 어법상 옳은 문장을 고르시오.",
+   "passage": "",
+   "c": [
+    "There were much people at the beach last Sunday afternoon.",
+    "Our bus arrived lately, so we missed the first class.",
+    "Jake played the guitar very good at the school festival.",
+    "Mina finished the hard puzzle very quickly last night.",
+    "We drove slowly on a very danger road in the mountains."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: many는 셀 수 있는 명사의 복수형 앞에, much는 셀 수 없는 명사 앞에 쓴다. 명사는 형용사가, 동사는 부사가 꾸민다. late(늦게)와 lately(최근에)처럼 -ly가 붙으면 뜻이 달라지는 부사에 주의한다.\n풀이 순서: ① 문장마다 확인할 곳을 찾는다: 수량 표현 뒤의 명사가 셀 수 있는지, 꾸밈을 받는 말이 명사인지 동사인지, 부사의 뜻이 알맞은지. → ② 선택지 ①의 much(many), ②의 lately(late), ③의 good(well), ⑤의 danger(dangerous)가 틀렸다. → ③ 선택지 ④는 형용사 hard가 명사 puzzle을, 부사 quickly가 동사 finished를 바르게 꾸몄다. 정답은 ④.\n문장별 판정:\n정답 판단: 형용사 hard가 명사 puzzle을, 부사 quickly가 동사 finished를 바르게 꾸미므로 정답은 ④이다.\n선택지 분석:\n① [오답] people은 셀 수 있는 명사의 복수형이므로 much가 아니라 many를 써야 해서 오답이다.\n② [오답] ‘늦게’는 late이고 lately는 ‘최근에’라는 뜻이므로 arrived late로 고쳐야 해서 오답이다.\n③ [오답] 동사 played를 꾸미는 말은 부사여야 하므로 good을 well로 고쳐야 해서 오답이다.\n④ [정답] 형용사 hard가 명사 puzzle을, 부사 quickly가 동사 finished를 바르게 꾸미므로 정답이다.\n⑤ [오답] 명사 road를 꾸미는 말은 형용사여야 하므로 danger를 dangerous로 고쳐야 해서 오답이다.",
+   "new_format": "다섯 문장 중 어법상 옳은 문장 하나 고르기",
+   "design": "many/much의 구별, late(늦게)/lately(최근에)의 뜻, 명사는 형용사로·동사는 부사로 꾸민다는 규칙을 그대로 평가한다. 틀린 문장 개수 세기를 어법상 옳은 문장 하나 고르기로 바꾸고, 원문항처럼 네 문장에 각각 한 가지 오류(much people, lately, very good, very danger)를 넣었다. 정답 문장에는 hardly와 헷갈리기 쉬운 형용사 hard를 넣어 겉모양만 보고 고를 수 없게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 50/43 글자 225/204 정답 4  OK"
+  ]
+ },
+ {
+  "key": "3-102",
+  "grade": 3,
+  "no": 102,
+  "chapter": "CH 11",
+  "chapter_name": "비교",
+  "ref": {
+   "stem": "다음 표의 내용과 일치하지 않는 것을 고르시오.",
+   "passage": "Name\tTom\tJerry\nAge\t16\t14\nWeight\t65kg\t47kg\nHeight\t175cm\t157cm",
+   "c": [
+    "Tom is older than Jerry.",
+    "Tom is taller than Jerry.",
+    "Jerry is lighter than Tom.",
+    "Jerry is as heavy as Tom.",
+    "Tom is heavier than Jerry."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 비교급 + than은 ‘~보다 더 …한’, as + 원급 + as는 ‘~만큼 …한’(둘이 같음)이다.\n풀이 순서: ① 보기의 형용사가 표의 어느 줄인지 찾는다(old·young은 Age, heavy·light는 Weight, tall·short는 Height). → ② 비교급 + than이면 두 수의 크기를, as ~ as이면 두 수가 같은지를 확인한다. → ③ 선택지 ④는 몸무게가 같다고 했는데 47kg과 65kg이다. 정답은 ④.\n문장별 판정:\n정답 판단: as heavy as는 몸무게가 같다는 뜻인데 47kg과 65kg으로 다르므로 정답은 ④이다.\n선택지 분석:\n① [오답] Tom(16)이 Jerry(14)보다 나이가 많으므로 오답이다.\n② [오답] Tom(175cm)이 Jerry(157cm)보다 크므로 오답이다.\n③ [오답] Jerry(47kg)가 Tom(65kg)보다 가벼우므로 오답이다.\n④ [정답] as heavy as는 몸무게가 같다는 뜻인데 47kg과 65kg으로 다르므로 정답이다.\n⑤ [오답] Tom(65kg)이 Jerry(47kg)보다 무거우므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 표의 내용과 일치하지 않는 것을 고르시오.",
+    "passage": "Name\tMinsu\tJiho\nAge\t15\t15\nWeight\t58kg\t52kg\nHeight\t168cm\t172cm",
+    "c": [
+     "Minsu is as old as Jiho.",
+     "Jiho is taller than Minsu.",
+     "Minsu is heavier than Jiho.",
+     "Jiho is lighter than Minsu.",
+     "Minsu is taller than Jiho."
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "다음 표의 내용과 일치하지 않는 것을 고르시오.",
+    "passage": "Name\tJane\tAmy\nAge\t15\t15\nWeight\t50kg\t50kg\nHeight\t160cm\t165cm",
+    "c": [
+     "Amy is taller than Jane.",
+     "Jane is shorter than Amy.",
+     "Jane is as old as Amy.",
+     "Jane is as tall as Amy.",
+     "Jane is as heavy as Amy."
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 표의 내용과 일치하지 않는 것을 고르시오.",
+    "passage": "Name\tBen\tLeo\nAge\t13\t15\nWeight\t45kg\t55kg\nHeight\t150cm\t170cm",
+    "c": [
+     "Leo is older than Ben.",
+     "Ben is shorter than Leo.",
+     "Ben is lighter than Leo.",
+     "Leo is taller than Ben.",
+     "Ben is older than Leo."
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "다음 표의 내용과 일치하지 않는 것을 고르시오.",
+    "passage": "Name\tMina\tSora\nAge\t14\t14\nWeight\t48kg\t52kg\nHeight\t158cm\t158cm",
+    "c": [
+     "Mina is heavier than Sora.",
+     "Sora is heavier than Mina.",
+     "Mina is lighter than Sora.",
+     "Mina is as tall as Sora.",
+     "Mina is as old as Sora."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 표의 내용과 일치하지 않는 것을 고르시오.",
+    "passage": "Name\tTom\tBen\nAge\t16\t14\nWeight\t60kg\t60kg\nHeight\t175cm\t165cm",
+    "c": [
+     "Tom is lighter than Ben.",
+     "Tom is taller than Ben.",
+     "Ben is younger than Tom.",
+     "Tom is as heavy as Ben.",
+     "Tom is older than Ben."
+    ],
+    "ans": 1
+   }
+  },
+  "target_answer_position": 4,
+  "v1_pretest": {
+   "stem": "다음 표의 내용과 일치하도록 빈칸 (A), (B)에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+   "passage": "Name\tMinho\tJisung\tDaniel\nAge\t15\t13\t15\nHeight\t170cm\t158cm\t165cm\nWeight\t60kg\t48kg\t55kg\nMinho is (A)_______ Daniel.\nJisung is (B)_______ Minho.",
+   "c": [
+    "(A) older than - (B) taller than",
+    "(A) as old as - (B) taller than",
+    "(A) as tall as - (B) heavier than",
+    "(A) as old as - (B) lighter than",
+    "(A) older than - (B) lighter than"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 비교급 + than은 ‘~보다 더 …한’(두 값이 다름), as + 원급 + as는 ‘~만큼 …한’(두 값이 같음)이다.\n풀이 순서: ① (A)는 Minho와 Daniel을, (B)는 Jisung과 Minho를 비교한다. → ② 보기의 형용사가 표의 어느 줄인지 찾아 두 값을 견준다: (A) 나이는 둘 다 15살로 같고 키는 170cm와 165cm로 다르다. (B) 키는 158cm와 170cm, 몸무게는 48kg과 60kg이다. → ③ (A)는 as old as, (B)는 lighter than이다. 정답은 ④.\n문장별 판정:\n정답 판단: Minho와 Daniel은 나이가 15살로 같고, Jisung(48kg)은 Minho(60kg)보다 가벼우므로 정답은 ④이다.\n선택지 분석:\n① [오답] (A): Minho와 Daniel은 둘 다 15살이므로 older than이 틀리고, (B): Jisung(158cm)은 Minho(170cm)보다 키가 작으므로 taller than도 틀려 오답이다.\n② [오답] (A)는 맞지만 (B): Jisung(158cm)은 Minho(170cm)보다 키가 작으므로 taller than이 틀려 오답이다.\n③ [오답] (A): Minho(170cm)와 Daniel(165cm)은 키가 다르므로 as tall as가 틀리고, (B): Jisung(48kg)은 Minho(60kg)보다 가벼우므로 heavier than도 틀려 오답이다.\n④ [정답] Minho와 Daniel은 나이가 15살로 같고, Jisung(48kg)은 Minho(60kg)보다 가벼우므로 정답이다.\n⑤ [오답] (B)는 맞지만 (A): 두 사람은 나이가 같으므로 older than이 아니라 as old as를 써야 해서 오답이다.",
+   "new_format": "세 사람의 표를 보고 두 비교 문장의 빈칸 (A)·(B)에 들어갈 말을 바르게 짝지은 것 고르기",
+   "design": "비교급 + than(두 값이 다름)과 as + 원급 + as(두 값이 같음)를 표의 수치로 판단하는 능력을 그대로 평가한다. 두 사람 표에서 불일치 문장 고르기를 세 사람 표를 보고 두 빈칸 (A)·(B)를 짝짓는 형식으로 바꿔, 읽어야 할 정보량과 판단 횟수를 원문항과 비슷하게 맞췄다. 오답은 나이가 같은데 older than을 쓰거나, 키·몸무게를 반대로 읽은 비교급으로 만들었다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 42/36 글자 193/149 정답 4",
+   "WARN 원문항은 한 곳만 판단하는데 두 빈칸 짝 — 판단 개수가 늘지 않았는지"
+  ]
+ },
+ {
+  "key": "3-114",
+  "grade": 3,
+  "no": 114,
+  "chapter": "CH 12",
+  "chapter_name": "전치사",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 단어를 바르게 짝지은 것을 고르시오.",
+   "passage": "I finished my homework _____ class.(나는 수업 전에 숙제를 끝냈다.)\nThe box is _____ the desk.(그 상자는 책상 위에 있다.)\nWe traveled _____ the summer vacation.(우리는 여름 휴가 기간 동안 여행했다.)",
+   "c": [
+    "before - on - during",
+    "after - over - for",
+    "before - over - for",
+    "after - on - during",
+    "before - on - for"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: before(~ 전에), after(~ 후에), on(표면에 닿은 위), under(아래), in(안), during + 특정한 때를 나타내는 명사(~ 동안). for 뒤에는 기간의 길이, while 뒤에는 주어 + 동사가 온다.\n풀이 순서: ① 괄호 속 우리말에서 전치사에 해당하는 말을 찾는다: ‘전에’, ‘위에’, ‘동안’. → ② 차례로 옮긴다: ‘전에’ before, 책상에 닿은 ‘위에’ on, the summer vacation처럼 특정한 때를 나타내는 명사 앞의 ‘동안’ during. → ③ 정답은 before - on - during.\n문장별 판정:\n정답 판단: ‘전에’ before, ‘위에’ on, ‘휴가 기간 동안’ during이 모두 알맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] ‘전에’ before, ‘위에’ on, ‘휴가 기간 동안’ during이 모두 알맞으므로 정답이다.\n② [오답] after는 ‘후에’이고 over는 떨어진 위이며 for 뒤에는 기간의 길이가 오므로 오답이다.\n③ [오답] over와 for가 알맞지 않으므로 오답이다.\n④ [오답] after는 ‘수업 전에’와 맞지 않으므로 오답이다.\n⑤ [오답] the summer vacation은 기간의 길이가 아니라 for를 쓸 수 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 단어를 바르게 짝지은 것을 고르시오.",
+    "passage": "I brush my teeth _____ breakfast.(나는 아침 식사 후에 이를 닦는다.)\nThe lamp is _____ the table.(그 램프는 탁자 위에 있다.)\nI visited my aunt _____ the holidays.(나는 휴일 동안 이모를 방문했다.)",
+    "c": [
+     "before - on - during",
+     "after - on - during",
+     "after - under - while",
+     "before - in - for",
+     "after - on - while"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 단어를 바르게 짝지은 것을 고르시오.",
+    "passage": "Wash your hands _____ dinner.(저녁 식사 전에 손을 씻어라.)\nThe dog is sleeping _____ the bed.(개가 침대 밑에서 자고 있다.)\nNobody talked _____ the movie.(영화 상영 중에 아무도 말하지 않았다.)",
+    "c": [
+     "before - under - during",
+     "after - under - while",
+     "before - on - for",
+     "after - in - during",
+     "before - under - while"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 단어를 바르게 짝지은 것을 고르시오.",
+    "passage": "Jane called me _____ lunch.(Jane은 점심 식사 후에 나에게 전화했다.)\nThe keys are _____ the drawer.(열쇠는 서랍 안에 있다.)\nI fell asleep _____ the class.(나는 수업 중에 잠이 들었다.)",
+    "c": [
+     "before - in - while",
+     "after - on - during",
+     "after - in - during",
+     "before - under - during",
+     "after - in - while"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 단어를 바르게 짝지은 것을 고르시오.",
+    "passage": "We met _____ class.(우리는 수업 후에 만났다.)\nThe cat is _____ the table.(고양이가 탁자 아래에 있다.)\nIt snowed a lot _____ the winter.(겨울 동안 눈이 많이 왔다.)",
+    "c": [
+     "after - on - while",
+     "before - under - during",
+     "after - in - for",
+     "after - under - during",
+     "before - on - during"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 단어를 바르게 짝지은 것을 고르시오.",
+    "passage": "I studied _____ dinner.(나는 저녁 식사 전에 공부했다.)\nThe book is _____ the box.(그 책은 상자 안에 있다.)\nWe stayed inside _____ the storm.(우리는 폭풍우 동안 안에 머물렀다.)",
+    "c": [
+     "after - in - during",
+     "before - on - while",
+     "before - under - for",
+     "after - on - during",
+     "before - in - during"
+    ],
+    "ans": 5
+   }
+  },
+  "target_answer_position": 1,
+  "v1_pretest": {
+   "stem": "다음 중 우리말을 영어로 바르게 옮기지 않은 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "My friends and I played soccer while the lunch break.(친구들과 나는 점심시간 동안 축구를 했다.)",
+    "We stayed at my uncle's farm for five days.(우리는 삼촌의 농장에서 5일 동안 머물렀다.)",
+    "A paper bird is hanging over my little sister's bed.(내 여동생의 침대 위에 종이 새 한 마리가 매달려 있다.)",
+    "I washed the dishes while Mom was cooking dinner.(엄마가 저녁을 만드시는 동안 나는 설거지를 했다.)",
+    "We left our paintings on the desks after art class.(미술 수업이 끝난 후에 우리는 그림을 책상 위에 놓아두었다.)"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: before는 ‘~ 전에’, after는 ‘~ 후에’이고, on은 표면에 닿은 ‘~ 위에’, over는 닿지 않고 떨어진 ‘~ 위에’이다. ‘~ 동안’은 특정한 때를 나타내는 명사 앞에 during, 기간의 길이 앞에 for, 주어 + 동사 앞에 while을 쓴다.\n풀이 순서: ① 우리말에서 ‘동안’, ‘위에’, ‘후에’에 해당하는 말을 찾는다. → ② ‘동안’ 뒤의 말을 확인한다: the lunch break는 특정한 때를 나타내는 명사이므로 during, five days는 기간의 길이이므로 for, Mom was cooking dinner는 주어 + 동사이므로 while. ‘위에’는 닿아 있으면 on(책상 위에 놓아둔 그림), 떨어져 있으면 over(침대 위에 매달린 종이 새)이다. → ③ 선택지 ①은 명사 앞에 while을 썼으므로 틀렸다. 정답은 ①.\n문장별 판정:\n정답 판단: the lunch break는 특정한 때를 나타내는 명사이므로 while이 아니라 during을 써야 하는데 while을 썼으므로 정답은 ①이다.\n선택지 분석:\n① [정답] the lunch break는 명사이므로 while을 쓸 수 없고 during the lunch break로 고쳐야 하므로 정답이다.\n② [오답] five days는 특정한 때가 아니라 기간의 길이이므로 ‘5일 동안’을 for five days로 바르게 옮긴 문장이어서 오답이다.\n③ [오답] 종이 새는 침대에 닿지 않고 떨어져서 그 위에 매달려 있으므로 on이 아니라 over를 바르게 쓴 문장이어서 오답이다.\n④ [오답] Mom was cooking dinner는 주어 + 동사이므로 그 앞에 while을 바르게 쓴 문장이어서 오답이다.\n⑤ [오답] 그림이 책상 표면에 닿아 있으므로 on the desks, ‘미술 수업이 끝난 후에’는 after art class로 바르게 옮긴 문장이어서 오답이다.",
+   "new_format": "우리말 뜻이 붙은 다섯 영어 문장 중 바르게 옮기지 않은 것 고르기",
+   "design": "원문항처럼 ‘~ 전에/후에’(before·after), 표면에 닿은 위 on과 떨어진 위 over, ‘~ 동안’의 during(특정한 때를 나타내는 명사)·for(기간의 길이)·while(주어 + 동사)의 구별을 함께 평가한다. 세 빈칸 짝짓기를 우리말 뜻이 붙은 다섯 문장 중 바르게 옮기지 않은 것 고르기로 바꾸었다. ‘동안’이 들어간 세 문장(명사 앞의 while, 기간 앞의 for, 주어 + 동사 앞의 while)과 ‘위에’가 들어간 두 문장(매달린 종이 새의 over, 놓아둔 그림의 on)을 함께 넣어, ‘동안 = during’, ‘위에 = on’으로만 아는 학생은 옳은 ②·③을 고르게 하고 while이라는 낱말만 보고는 찍을 수 없게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 48/30 글자 310/182 정답 1",
+   "ERR  원문항보다 너무 김: 낱말 48 > 상한 45 (원문항 30) — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "3-127",
+  "grade": 3,
+  "no": 127,
+  "chapter": "CH 13",
+  "chapter_name": "접속사",
+  "ref": {
+   "stem": "다음 중 우리말 문장을 올바르게 영작한 문장을 고르시오.",
+   "passage": "그는 읽을 수도 쓸 수도 없다.",
+   "c": [
+    "He can neither reads and writes.",
+    "He can either read or write.",
+    "He can neither read so write.",
+    "He can either read nor write.",
+    "He can neither read nor write."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: neither A nor B는 ‘A도 B도 아닌’이다. neither는 nor와, either는 or와 짝을 이룬다. 조동사 뒤의 A, B는 동사원형이다.\n풀이 순서: ① 우리말이 둘 다 부정임을 확인한다: ‘읽을 수도 쓸 수도 없다’. neither A nor B를 쓴다. → ② 짝을 확인한다: neither는 nor와, either는 or와 짝을 이룬다. can 뒤의 동사는 원형이다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: neither A nor B + 동사원형으로 바르게 옮겼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] neither는 and와 짝을 이루지 않고 can 뒤에 reads, writes를 쓸 수 없으므로 오답이다.\n② [오답] either A or B는 ‘읽거나 쓸 수 있다’는 뜻이므로 오답이다.\n③ [오답] neither는 so와 짝을 이루지 않으므로 오답이다.\n④ [오답] either는 nor와 짝을 이루지 않으므로 오답이다.\n⑤ [정답] neither A nor B + 동사원형으로 바르게 옮겼으므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 우리말 문장을 올바르게 영작한 문장을 고르시오.",
+    "passage": "나는 요리도 청소도 할 수 없다.",
+    "c": [
+     "I can either cook or clean.",
+     "I can not only cook but also clean.",
+     "I can neither cook nor clean.",
+     "I can both cook and clean.",
+     "I can no cook and clean."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 중 우리말 문장을 올바르게 영작한 문장을 고르시오.",
+    "passage": "그녀는 피아노도 기타도 칠 수 없다.",
+    "c": [
+     "She can play neither the piano and the guitar.",
+     "She can play neither the piano nor the guitar.",
+     "She can play either the piano or the guitar.",
+     "She can play either the piano nor the guitar.",
+     "She can play neither the piano so the guitar."
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 중 우리말 문장을 올바르게 영작한 문장을 고르시오.",
+    "passage": "Tom은 수영도 달리기도 할 수 없다.",
+    "c": [
+     "Tom can either swim or run.",
+     "Tom can neither swim nor run.",
+     "Tom can no swim and run.",
+     "Tom can not only swim but also run.",
+     "Tom can both swim and run."
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 중 우리말 문장을 올바르게 영작한 문장을 고르시오.",
+    "passage": "우리는 버스도 기차도 탈 수 없다.",
+    "c": [
+     "We can take either a bus or a train.",
+     "We can take not only a bus but also a train.",
+     "We can take both a bus and a train.",
+     "We can take no a bus and a train.",
+     "We can take neither a bus nor a train."
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 중 우리말 문장을 올바르게 영작한 문장을 고르시오.",
+    "passage": "Jane은 영어도 프랑스어도 말할 수 없다.",
+    "c": [
+     "Jane can speak both English and French.",
+     "Jane can speak either English or French.",
+     "Jane can speaks neither English nor French.",
+     "Jane can speak not only English but also French.",
+     "Jane can speak neither English nor French."
+    ],
+    "ans": 5
+   }
+  },
+  "target_answer_position": 4,
+  "v1_pretest": {
+   "stem": "다음 대화의 빈칸에 들어갈 말로 가장 알맞은 것을 고르시오.",
+   "passage": "A: I took a nice picture of us. I want to send it to your grandma. Can she use a smartphone or a computer?\nB: No, she can't. _______ So let's print the picture and send it to her by mail.",
+   "c": [
+    "She can use either a smartphone or a computer.",
+    "She can use neither a smartphone or a computer.",
+    "She can use both a smartphone and a computer.",
+    "She can use neither a smartphone nor a computer.",
+    "She can use either a smartphone nor a computer."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: neither A nor B는 ‘A도 B도 아닌’으로 둘 다 부정한다. neither는 nor와, either는 or와, both는 and와 짝을 이룬다. either A or B는 ‘A나 B 중 하나’, both A and B는 ‘A와 B 둘 다’라는 뜻이다.\n풀이 순서: ① B가 No, she can't라고 답하고 사진을 우편으로 보내자고 하므로, 할머니는 스마트폰도 컴퓨터도 쓸 수 없다(둘 다 부정). → ② 둘 다 부정하는 neither A nor B를 고르고 짝을 확인한다: neither는 nor와 짝을 이룬다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 스마트폰도 컴퓨터도 쓸 수 없다는 뜻을 neither A nor B로 바르게 나타냈으므로 정답은 ④이다.\n선택지 분석:\n① [오답] either A or B는 ‘둘 중 하나는 쓸 수 있다’는 뜻이라 No, she can't와 맞지 않으므로 오답이다.\n② [오답] neither는 or가 아니라 nor와 짝을 이루므로 오답이다.\n③ [오답] both A and B는 ‘둘 다 쓸 수 있다’는 뜻이라 대화 내용과 반대이므로 오답이다.\n④ [정답] 스마트폰도 컴퓨터도 쓸 수 없다는 뜻을 neither A nor B로 바르게 나타냈으므로 정답이다.\n⑤ [오답] either는 nor가 아니라 or와 짝을 이루므로 오답이다.",
+   "new_format": "대화의 빈칸에 들어갈 대답으로 알맞은 문장 고르기(대화 맥락에서 뜻 파악)",
+   "design": "neither A nor B(둘 다 부정)의 뜻과 neither–nor, either–or, both–and의 짝을 그대로 평가한다. 우리말 영작 고르기를 대화의 빈칸에 들어갈 대답 고르기로 바꿔, 우리말 대신 대화 맥락에서 ‘둘 다 못 한다’는 뜻을 읽어 내게 했다. 오답은 뜻이 다른 either–or·both–and와 짝이 어긋난 neither–or·either–nor로 설계하고, 다섯 보기의 길이와 짜임을 똑같이 맞췄다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 85/30 글자 322/129 정답 4",
+   "ERR  원문항보다 너무 김: 낱말 85 > 상한 45 (원문항 30) — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "3-139",
+  "grade": 3,
+  "no": 139,
+  "chapter": "CH 14",
+  "chapter_name": "문장의 종류",
+  "ref": {
+   "stem": "다음 지문의 밑줄 친 ⓐ에 대한 한국어 문법 설명으로 가장 적절한 것은?",
+   "passage": "Today is the school festival. My teacher said, \"ⓐ<u>Enjoy the festival, and you will make great memories</u>.\" I'm so excited to be here with my friends.",
+   "c": [
+    "ⓐ는 '~해라, 그렇지 않으면 ~할 것이다'라는 경고의 의미를 담고 있다.",
+    "ⓐ의 'and'는 '그리고'라는 단순 연결의 의미로만 쓰였으므로 생략이 가능하다.",
+    "ⓐ를 'If'를 사용한 문장으로 바꾸면 'If you don't enjoy the festival, you will make great memories.'가 된다.",
+    "ⓐ는 명령문 뒤에 'and'가 와서 '만약 네가 축제를 즐긴다면, 너는 좋은 추억을 만들 것이다'라는 조건의 의미를 나타낸다.",
+    "ⓐ의 'Enjoy'는 주어 'You'가 생략된 현재 진행형 형태이므로 'Enjoying'으로 고쳐야 한다."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 명령문 + and는 ‘~해라, 그러면 …할 것이다’(= If you ~), 명령문 + or는 ‘~해라, 그렇지 않으면 …할 것이다’(= If you don't ~)이다.\n풀이 순서: ① ⓐ의 틀을 본다: 명령문 + and. → ② ‘~해라, 그러면 …할 것이다’라는 뜻이다. ‘그렇지 않으면’은 or일 때다. → ③ If 문장으로 바꿔 확인한다: If you enjoy the festival, you will make great memories. 정답은 ④.\n문장별 판정:\n정답 판단: 명령문 + and가 ‘~하면 …할 것이다’라는 조건의 뜻을 나타내므로 정답은 ④이다.\n선택지 분석:\n① [오답] ‘그렇지 않으면’은 명령문 + or의 뜻이므로 오답이다.\n② [오답] 이 and는 ‘그러면’이라는 조건·결과의 뜻이라 생략할 수 없으므로 오답이다.\n③ [오답] 명령문 + and는 If you enjoy ~(긍정)로 바꾸므로 오답이다.\n④ [정답] 명령문 + and가 ‘~하면 …할 것이다’라는 조건의 뜻을 나타내므로 정답이다.\n⑤ [오답] Enjoy는 주어 You가 생략된 명령문의 동사원형이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 지문의 밑줄 친 ⓐ에 대한 한국어 문법 설명으로 가장 적절한 것은?",
+    "passage": "Tomorrow is our math test. My mom said, \"ⓐ<u>Go to bed early, or you will be tired during the test</u>.\" So I turned off my phone and went to bed.",
+    "c": [
+     "ⓐ는 '~해라, 그러면 ~할 것이다'라는 뜻으로, 일찍 자면 피곤해질 것이라는 의미이다.",
+     "ⓐ는 명령문 뒤에 'or'가 와서 '일찍 자지 않으면 시험 중에 피곤할 것이다'라는 뜻을 나타낸다.",
+     "ⓐ를 'If'를 사용한 문장으로 바꾸면 'If you go to bed early, you will be tired during the test.'가 된다.",
+     "ⓐ의 'or'는 '또는'이라는 뜻으로 두 가지 중 하나를 고르라는 의미이다.",
+     "ⓐ의 'Go'는 주어가 없으므로 'Going'으로 고쳐야 한다."
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 지문의 밑줄 친 ⓐ에 대한 한국어 문법 설명으로 가장 적절한 것은?",
+    "passage": "Our class will have a soccer game next week. Our coach told us, \"ⓐ<u>Practice every day, and you will win the game</u>.\" We are practicing hard now.",
+    "c": [
+     "ⓐ의 'and'는 단순히 두 문장을 이어 주므로 생략해도 뜻이 같다.",
+     "ⓐ를 'If'를 사용한 문장으로 바꾸면 'If you don't practice every day, you will win the game.'이 된다.",
+     "ⓐ는 '연습해라, 그렇지 않으면 질 것이다'라는 경고의 뜻이다.",
+     "ⓐ의 'Practice'는 명사로 쓰여 '연습'이라는 뜻의 주어이다.",
+     "ⓐ는 명령문 뒤에 'and'가 와서 '매일 연습하면 경기에서 이길 것이다'라는 뜻을 나타낸다."
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 지문의 밑줄 친 ⓐ에 대한 한국어 문법 설명으로 가장 적절한 것은?",
+    "passage": "It was raining hard this morning. Before I left home, Dad said, \"ⓐ<u>Take your umbrella, or you will get wet</u>.\" I took it with me.",
+    "c": [
+     "ⓐ를 'If'를 사용한 문장으로 바꾸면 'If you don't take your umbrella, you will get wet.'이 된다.",
+     "ⓐ의 'or'는 '그러면'이라는 뜻이므로 우산을 가져가면 젖을 것이라는 의미이다.",
+     "ⓐ의 'Take'는 주어 'You'가 생략되었으므로 'Takes'로 고쳐야 한다.",
+     "ⓐ의 'or'를 'and'로 바꿔도 문장의 뜻이 같다.",
+     "ⓐ는 과거의 일을 말하므로 'will get'을 'got'으로 고쳐야 한다."
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 지문의 밑줄 친 ⓐ에 대한 한국어 문법 설명으로 가장 적절한 것은?",
+    "passage": "My sister wants to be healthy. The doctor told her, \"ⓐ<u>Eat more vegetables, and you will feel better</u>.\" Now she eats salad every day.",
+    "c": [
+     "ⓐ는 '채소를 먹어라, 그렇지 않으면 몸이 나빠질 것이다'라는 경고의 뜻이다.",
+     "ⓐ의 'and' 대신 'or'를 써도 같은 뜻이다.",
+     "ⓐ를 'If'를 사용한 문장으로 바꾸면 'If you eat more vegetables, you will feel better.'가 된다.",
+     "ⓐ의 'Eat'은 동명사 'Eating'으로 고쳐야 주어가 된다.",
+     "ⓐ의 'you will feel better'는 명령문이므로 'feel better'로 고쳐야 한다."
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 지문의 밑줄 친 ⓐ에 대한 한국어 문법 설명으로 가장 적절한 것은?",
+    "passage": "We planned a trip to the beach. On the morning of the trip, my friend called me and said, \"ⓐ<u>Hurry up, or we will miss the train</u>.\" I ran to the station.",
+    "c": [
+     "ⓐ의 'or'는 '또는'이라는 뜻으로 서두르거나 기차를 놓치거나 둘 중 하나라는 의미이다.",
+     "ⓐ를 'If'를 사용한 문장으로 바꾸면 'If we hurry up, we will miss the train.'이 된다.",
+     "ⓐ의 'or'를 'and'로 바꾸면 '서두르면 기차를 놓칠 것이다'가 되어 같은 뜻이다.",
+     "ⓐ는 명령문 뒤에 'or'가 와서 '서두르지 않으면 기차를 놓칠 것이다'라는 뜻을 나타낸다.",
+     "ⓐ의 'Hurry up'은 과거의 일이므로 'Hurried up'으로 고쳐야 한다."
+    ],
+    "ans": 4
+   }
+  },
+  "target_answer_position": 3,
+  "v1_pretest": {
+   "stem": "다음 중 두 문장의 뜻이 같지 않은 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "Wear a warm coat, or you will catch a cold. = If you don't wear a warm coat, you will catch a cold.",
+    "Smile at people, and they will smile back at you. = If you smile at people, they will smile back at you.",
+    "Turn left at the corner, and you will see the post office. = If you don't turn left at the corner, you will see the post office.",
+    "Leave home now, or you will miss the school bus. = If you don't leave home now, you will miss the school bus.",
+    "Be quiet in the library, or the librarian will get angry. = If you aren't quiet in the library, the librarian will get angry."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 명령문 + and는 ‘~해라, 그러면 …할 것이다’라는 뜻으로 If you ~로 바꾼다. 명령문 + or는 ‘~해라, 그렇지 않으면 …할 것이다’라는 뜻으로 If you don't ~로 바꾼다.\n풀이 순서: ① 각 보기의 앞 문장이 명령문 + and인지 명령문 + or인지 확인한다. → ② and이면 If you ~(긍정), or이면 If you don't ~(부정)로 바뀌었는지 본다. → ③ 선택지 ③은 명령문 + and인데 If you don't ~로 바꿔 뜻이 달라졌다. 정답은 ③.\n문장별 판정:\n정답 판단: Turn left at the corner, and ~는 If you turn left at the corner, ~와 같은 뜻인데 If you don't ~로 바꿔 뜻이 달라졌으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 명령문 + or를 If you don't ~로 바르게 바꿔 ‘따뜻한 코트를 입지 않으면 감기에 걸릴 것이다’로 뜻이 같으므로 오답이다.\n② [오답] 명령문 + and를 If you ~로 바르게 바꿔 ‘사람들에게 웃으면 그들도 너에게 웃어 줄 것이다’로 뜻이 같으므로 오답이다.\n③ [정답] 명령문 + and는 If you ~로 바꿔야 하는데 If you don't ~로 바꿔 ‘모퉁이에서 왼쪽으로 돌지 않으면 우체국이 보일 것이다’라는 다른 뜻이 되었으므로 정답이다.\n④ [오답] 명령문 + or를 If you don't ~로 바르게 바꿔 ‘지금 집을 나서지 않으면 스쿨버스를 놓칠 것이다’로 뜻이 같으므로 오답이다.\n⑤ [오답] be동사 명령문 + or를 If you aren't ~로 바르게 바꿔 ‘도서관에서 조용히 하지 않으면 사서가 화를 낼 것이다’로 뜻이 같으므로 오답이다.",
+   "new_format": "명령문 + and/or 문장과 If 문장의 짝 다섯 개 중 두 문장의 뜻이 같지 않은 것 고르기",
+   "design": "명령문 + and(그러면) = If you ~, 명령문 + or(그렇지 않으면) = If you don't ~라는 뜻을 그대로 평가한다. 밑줄 친 문장에 대한 문법 설명 고르기를 다섯 쌍의 문장 전환 가운데 뜻이 같지 않은 것 고르기로 바꿨다. and 문장과 or 문장을 고르게 섞고, 정답은 원문항처럼 명령문 + and의 조건 뜻을 알아야 가려지도록 and 문장을 If you don't ~로 잘못 바꾼 것으로 만들었으며, 바뀐 문장이 상식만으로 우스워 보이지 않는 길 안내 문장을 골라 규칙을 적용해야 풀리게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 114/50 글자 431/348 정답 3",
+   "ERR  원문항보다 너무 김: 낱말 114 > 상한 75 (원문항 50) — 난이도가 올라감"
+  ]
+ }
+]

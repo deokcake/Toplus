@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T09:09:09.308Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "have finished — have loved",
+      "1": "finished — loved",
+      "2": "finished — love",
+      "3": "finished — have loved",
+      "4": "have finished — loved"
+    },
+    "expl": "핵심 규칙: yesterday, last ~처럼 끝난 과거 시점에는 과거형을 쓰고, since ~, for ~ now처럼 과거부터 지금까지 이어지는 기간에는 현재완료(have/has + 과거분사)를 쓴다.\n풀이 순서: ① 첫째 빈칸 문장의 시간 표현(during the last vacation)은 끝난 과거 시점이다. 과거형(finished)을 쓰고 현재완료는 쓸 수 없다. → ② 둘째 빈칸 문장의 시간 표현(since I was in middle school)은 과거부터 지금까지 이어지는 기간이다. 현재완료(have loved)를 쓴다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: during the last vacation에는 과거형(finished), since I was in middle school에는 현재완료(have loved)를 쓰므로 정답은 ④이다.\n선택지 분석:\n① [오답] 끝난 과거 시점(during the last vacation)과 현재완료(have finished)를 함께 쓸 수 없으므로 오답이다.\n② [오답] 지금까지 이어지는 기간(since I was in middle school)에는 loved가 아니라 현재완료를 써야 하므로 오답이다.\n③ [오답] 지금까지 이어지는 기간(since I was in middle school)에는 love가 아니라 현재완료를 써야 하므로 오답이다.\n④ [정답] during the last vacation에는 과거형(finished), since I was in middle school에는 현재완료(have loved)를 쓰므로 정답이다.\n⑤ [오답] 두 빈칸 모두 시제가 맞지 않으므로 오답이다.",
+    "passage": "A: I _____ this novel during the last vacation.\nB: Oh, I _____ that novel since I was in middle school.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T09:06:37.376Z"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T09:09:09.308Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T09:09:09.308Z",
+      "what": "확인 완료"
+    }
+  }
+}

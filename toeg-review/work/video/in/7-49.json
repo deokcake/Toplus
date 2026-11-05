@@ -1,0 +1,86 @@
+{
+ "key": "7-49",
+ "grade": 7,
+ "chapter": "CH 5 지시 대명사",
+ "items": {
+  "A": {
+   "stem": "다음 중 <보기>의 문장을 바르게 고쳐 쓴 것을 고르세요.",
+   "passage": "<보기>\nIs this an penciles?",
+   "c": [
+    "Is this a pencils?",
+    "Is these a pencil?",
+    "Is this a pencil?",
+    "Are this a pencil?",
+    "Are this an pencil?"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 지시대명사와 be동사, 명사의 수를 함께 맞춘다. this/that + is + a/an + 단수 명사, these/those + are + 복수 명사. a/an은 뒤 낱말의 첫소리로 정한다.\n풀이 순서: ① <보기>에서 서로 맞지 않는 곳을 찾는다: Is this는 한 개인데 penciles는 복수 꼴이고, 자음 소리로 시작하는 pencil 앞에 an을 썼다. → ② 지시대명사·be동사·관사·명사의 수를 하나로 맞추면 Is this a pencil? → ③ 정답은 ③.\n문장별 판정:\n정답 판단: an을 a로, penciles를 pencil로 바르게 고쳤으므로 정답은 ③이다.\n선택지 분석:\n① [오답] a 뒤에는 단수 명사 pencil을 써야 하므로 오답이다.\n② [오답] 한 개를 가리키므로 these가 아니라 this를 써야 하므로 오답이다.\n③ [정답] an을 a로, penciles를 pencil로 바르게 고쳤으므로 정답이다.\n④ [오답] 단수 주어 this에는 Are가 아니라 Is를 쓰므로 오답이다.\n⑤ [오답] this에는 Is를 쓰고 pencil 앞에는 a를 쓰므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 중 <보기>의 문장을 바르게 고쳐 쓴 것을 고르세요.",
+   "passage": "<보기>\nIs this two bags?",
+   "c": [
+    "Is these two bags?",
+    "Are these two bags?",
+    "Are this two bags?",
+    "Is this two bag?",
+    "Are these two bag?"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 지시어와 be동사, 명사의 수를 함께 맞춘다. this/that + is + a/an + 단수 명사, these/those + are + 복수 명사로 쓰고, a/an은 첫소리로 정한다.\n풀이 순서: ① <보기>에서 서로 맞지 않는 곳을 찾는다: Is this는 한 개인데 two bags는 두 개다. → ② 지시대명사·be동사·관사·명사의 수를 하나로 맞추면 Are these two bags? → ③ 정답은 ②.\n문장별 판정:\n정답 판단: 여러 개를 가리키는 these, are, 복수 명사를 바르게 맞췄으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 복수 주어 these에는 Is가 아니라 Are를 쓰므로 오답이다.\n② [정답] 여러 개를 가리키는 these, are, 복수 명사를 바르게 맞췄으므로 정답이다.\n③ [오답] 두 개를 가리키고, this가 아니라 these를 써야 하므로 오답이다.\n④ [오답] two 뒤에는 복수 명사 bags를 쓰고, 여러 개는 these와 are로 나타내므로 오답이다.\n⑤ [오답] two 뒤에는 복수 명사 bags를 써야 하므로 오답이다."
+  },
+  "C": {
+   "stem": "다음 중 <보기>의 문장을 바르게 고쳐 쓴 것을 고르세요.",
+   "passage": "<보기>\nAre those a car?",
+   "c": [
+    "Are those cars?",
+    "Is those cars?",
+    "Are that a car?",
+    "Are those a cars?",
+    "Is that cars?"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 지시어와 be동사, 명사의 수를 함께 맞춘다. this/that + is + a/an + 단수 명사, these/those + are + 복수 명사로 쓰고, a/an은 첫소리로 정한다.\n풀이 순서: ① <보기>에서 서로 맞지 않는 곳을 찾는다: Are those는 여러 개인데 a car는 한 대다. → ② 지시대명사·be동사·관사·명사의 수를 하나로 맞추면 Are those cars? → ③ 정답은 ①.\n문장별 판정:\n정답 판단: those, are, 복수 명사 cars를 바르게 맞췄으므로 정답은 ①이다.\n선택지 분석:\n① [정답] those, are, 복수 명사 cars를 바르게 맞췄으므로 정답이다.\n② [오답] 복수 주어 those에는 Is가 아니라 Are를 쓰므로 오답이다.\n③ [오답] that과 a car로 바꾸면 한 대를 가리키는데 Are를 썼으므로 오답이다.\n④ [오답] 복수 명사 cars 앞에는 a를 쓰지 않으므로 오답이다.\n⑤ [오답] that은 한 개를 가리켜 복수 명사 cars와 쓸 수 없으므로 오답이다."
+  },
+  "D": {
+   "stem": "다음 중 <보기>의 문장을 바르게 고쳐 쓴 것을 고르세요.",
+   "passage": "<보기>\nIs that an car?",
+   "c": [
+    "Is that an cars?",
+    "Are that cars?",
+    "Is those a car?",
+    "Is that a car?",
+    "Is that a cars?"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 지시어와 be동사, 명사의 수를 함께 맞춘다. this/that + is + a/an + 단수 명사, these/those + are + 복수 명사로 쓰고, a/an은 첫소리로 정한다.\n풀이 순서: ① <보기>에서 서로 맞지 않는 곳을 찾는다: 자음 소리로 시작하는 car 앞에 an을 썼다. → ② 지시대명사·be동사·관사·명사의 수를 하나로 맞추면 Is that a car? → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 자음 소리로 시작하는 car 앞에 a를 바르게 고쳤으므로 정답은 ④이다.\n선택지 분석:\n① [오답] car는 자음 소리로 시작해 a를 쓰고 한 대라 단수 car를 쓰므로 오답이다.\n② [오답] that은 한 개를 가리켜 Are, 복수 명사와 함께 쓸 수 없으므로 오답이다.\n③ [오답] 한 대를 가리키고, those가 아니라 that을 쓰므로 오답이다.\n④ [정답] 자음 소리로 시작하는 car 앞에 a를 바르게 고쳤으므로 정답이다.\n⑤ [오답] a 뒤에는 단수 명사 car를 써야 하므로 오답이다."
+  },
+  "E": {
+   "stem": "다음 중 <보기>의 문장을 바르게 고쳐 쓴 것을 고르세요.",
+   "passage": "<보기>\nIs these a orange?",
+   "c": [
+    "Is these an orange?",
+    "Are this an orange?",
+    "Is this a orange?",
+    "Are these an orange?",
+    "Is this an orange?"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 지시어와 be동사, 명사의 수를 함께 맞춘다. this/that + is + a/an + 단수 명사, these/those + are + 복수 명사로 쓰고, a/an은 첫소리로 정한다.\n풀이 순서: ① <보기>에서 서로 맞지 않는 곳을 찾는다: Is와 a orange는 한 개인데 these는 여러 개를 가리키고, 모음 소리로 시작하는 orange 앞에 a를 썼다. → ② 지시대명사·be동사·관사·명사의 수를 하나로 맞추면 Is this an orange? → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: 한 개를 가리키는 this, is, an orange를 바르게 맞췄으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 한 개(an orange)를 가리키고, these가 아니라 this를 써야 하므로 오답이다.\n② [오답] 단수 주어 this에는 Are가 아니라 Is를 쓰므로 오답이다.\n③ [오답] orange는 모음 소리로 시작해 a가 아니라 an을 쓰므로 오답이다.\n④ [오답] these와 Are는 여러 개에 쓰는데 an orange는 한 개이므로 오답이다.\n⑤ [정답] 한 개를 가리키는 this, is, an orange를 바르게 맞췄으므로 정답이다."
+  },
+  "F": {
+   "stem": "다음 중 <보기>의 문장을 바르게 고쳐 쓴 것을 고르세요.",
+   "passage": "<보기>\nAre these a books?",
+   "c": [
+    "Are these a book?",
+    "Is these books?",
+    "Are these books?",
+    "Are this books?",
+    "Is this a books?"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 지시어와 be동사, 명사의 수를 함께 맞춘다. this/that + is + a/an + 단수 명사, these/those + are + 복수 명사로 쓰고, a/an은 첫소리로 정한다.\n풀이 순서: ① <보기>에서 서로 맞지 않는 곳을 찾는다: Are these는 여러 개인데 books 앞에 a를 썼다. → ② 지시대명사·be동사·관사·명사의 수를 하나로 맞추면 Are these books? → ③ 정답은 ③.\n문장별 판정:\n정답 판단: these, are, 복수 명사 books를 바르게 맞췄으므로 정답은 ③이다.\n선택지 분석:\n① [오답] these는 여러 개라 a book(한 권)과 쓸 수 없으므로 오답이다.\n② [오답] 복수 주어 these에는 Is가 아니라 Are를 쓰므로 오답이다.\n③ [정답] these, are, 복수 명사 books를 바르게 맞췄으므로 정답이다.\n④ [오답] 여러 권을 가리키고, this가 아니라 these를 쓰므로 오답이다.\n⑤ [오답] a 뒤에는 단수 명사를 쓰고, 여러 권은 these와 are로 나타내므로 오답이다."
+  }
+ },
+ "prior_review": {}
+}

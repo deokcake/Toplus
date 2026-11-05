@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-04T11:58:52.910Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "The dog (<u>that</u>) barked all night is tired.",
+      "1": "The man (<u>who</u>) called me is my uncle.",
+      "2": "The student (<u>who</u>) is waiting is Mina.",
+      "3": "The movie (<u>that</u>) we watched was excellent.",
+      "4": "The book (<u>which</u>) is on the desk is mine."
+    },
+    "expl": "핵심 규칙: 관계대명사가 관계절의 목적어일 때만 생략할 수 있고, 주격·소유격은 생략할 수 없다.\n풀이 순서: ① 괄호 속 관계대명사 바로 뒤를 본다. 뒤에 ‘주어 + 동사’가 이어지면 목적격, 동사가 바로 오면 주격이다. → ② 목적격만 생략할 수 있다. 단, 쉼표 뒤(계속적 용법)에서는 목적격도 생략할 수 없다. → ③ 쉼표가 없고 뒤에 we watched가 이어지는 것은 ④뿐이다. 정답은 ④.\n문장별 판정:\n정답 판단: ‘The movie (that) we watched was excellent.’의 관계대명사는 관계절 안에서 목적어 역할을 하므로 생략할 수 있다.\n선택지 분석:\n① [오답] ‘The dog (that) barked all night is tired.’의 관계대명사는 주격·소유격이거나 쉼표 뒤 계속적 용법이므로 생략할 수 없다.\n② [오답] ‘The man (who) called me is my uncle.’의 관계대명사는 주격·소유격이거나 쉼표 뒤 계속적 용법이므로 생략할 수 없다.\n③ [오답] ‘The student (who) is waiting is Mina.’의 관계대명사는 주격·소유격이거나 쉼표 뒤 계속적 용법이므로 생략할 수 없다.\n④ [정답] ‘The movie (that) we watched was excellent.’의 관계대명사는 관계절 안에서 목적어 역할을 하므로 생략할 수 있다.\n⑤ [오답] ‘The book (which) is on the desk is mine.’의 관계대명사는 주격·소유격이거나 쉼표 뒤 계속적 용법이므로 생략할 수 없다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-04T11:58:53.996Z"
+  },
+  "tab": "7cl4h520",
+  "updatedAt": "2026-10-04T11:58:53.996Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-04T11:58:53.996Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

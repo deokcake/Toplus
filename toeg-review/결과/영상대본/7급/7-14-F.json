@@ -1,0 +1,176 @@
+{
+ "key": "7-14",
+ "type": "F",
+ "grade": 7,
+ "chapter": "CH 2 대명사",
+ "title": "my sister's를 대신하는 소유격 대명사",
+ "total_sec": 131,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "7급 · CH 2 대명사 · 14번 · F 유형\n\n이 문제는 밑줄 친 my sister's를 대신할 알맞은 소유격 대명사를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 2 대명사 · 14번 · F 유형",
+     "이 문제는 밑줄 친 my sister's를 대신할 알맞은 소유격 대명사를 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 2, 14번 F 유형. 이 문제는 밑줄 친 my sister's를 대신할 알맞은 소유격 대명사를 고르는 문제예요.",
+   "caption": "my sister's를 대신할 말"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 밑줄 친 부분을 대신할 말로 알맞은 것을 고르시오.\n\nThat is <u>my sister's</u> bag.\n\n① his\n② my\n③ our\n④ their\n⑤ her",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 밑줄 친 부분을 대신할 말로 알맞은 것을 고르시오.",
+     "That is <u>my sister's</u> bag.",
+     "① his",
+     "② my",
+     "③ our",
+     "④ their",
+     "⑤ her"
+    ]
+   },
+   "narration": "다음 밑줄 친 부분을 대신할 말로 알맞은 것을 고르세요. That is my sister's bag. 밑줄 친 부분은 my sister's예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n명사 앞의 the cat's(그 고양이의) 같은 말 → 소유격 대명사로 바꿔 쓸 수 있어요.\n남자 한 명 → his, 여자 한 명 → her\n사물·동물 하나 → its, 여럿 → their\n예) The cat's tail → Its tail is long. (그것의 꼬리는 길어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "명사 앞의 the cat's(그 고양이의) 같은 말 → 소유격 대명사로 바꿔 쓸 수 있어요.",
+     "남자 한 명 → his, 여자 한 명 → her",
+     "사물·동물 하나 → its, 여럿 → their",
+     "예) The cat's tail → Its tail is long. (그것의 꼬리는 길어요.)"
+    ]
+   },
+   "narration": "명사 앞에 오는 the cat's는 그 고양이의라는 뜻으로, 뒤에 오는 명사가 누구의 것인지 나타내요. 이런 말은 소유격 대명사로 바꿔 쓸 수 있어요. 남자 한 명의 것은 his, 여자 한 명의 것은 her, 사물이나 동물 하나의 것은 보통 its, 여럿의 것은 their를 써요. 예를 들어 The cat's tail은 앞의 The까지 함께 Its tail로 바꿔요. Its tail is long. 그것의 꼬리는 길어요.",
+   "caption": "누구의 것? his, her, its, their"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 밑줄 친 부분을 대신할 말로 알맞은 것을 고르시오.\n\nThat is <u>my sister's</u> bag.\n\n① his\n② my\n③ our\n④ their\n⑤ her",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "my sister's",
+       "bag"
+      ],
+      "strike": [],
+      "note": "my sister's → 가방의 주인은 my sister(여자 한 명)."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "② my",
+       "③ our",
+       "① his",
+       "④ their"
+      ],
+      "note": "주인은 내가 아니라 sister → my, our 지움. his(남자 한 명), their(여럿)도 지움."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ her"
+      ],
+      "strike": [],
+      "note": "여자 한 명의 것 → her. my sister's 전체를 her로: That is her bag."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 밑줄 친 my sister's에서 가방의 주인은 my sister, 곧 여자 한 명이에요. 둘째, 주인은 내가 아니라 sister라서 my와 our는 맞지 않아요. 남자 한 명에 쓰는 his와 여럿에 쓰는 their도 지워요. 셋째, 여자 한 명의 것은 her라서 my sister's 전체를 her로 바꿔요. That is her bag. 저것은 그녀의 가방이에요.",
+   "caption": "sister = 여자 한 명 → her"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① his  ✗  남자 한 명의 것에 써요\n② my  ✗  ‘나의’ 것 — 가방의 주인은 내가 아니라 sister\n③ our  ✗  나를 포함한 여럿, 곧 ‘우리의’ 것에 써요\n④ their  ✗  여럿의 것에 써요 (sister는 한 명)\n⑤ her  ✓  여자 한 명인 my sister의 것 → her",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① his  ✗  남자 한 명의 것에 써요",
+     "② my  ✗  ‘나의’ 것 — 가방의 주인은 내가 아니라 sister",
+     "③ our  ✗  나를 포함한 여럿, 곧 ‘우리의’ 것에 써요",
+     "④ their  ✗  여럿의 것에 써요 (sister는 한 명)",
+     "⑤ her  ✓  여자 한 명인 my sister의 것 → her"
+    ]
+   },
+   "narration": "정답은 5번 her예요. 2번 my는 밑줄 친 말에 my가 들어 있어서 고르기 쉽지만, 가방의 주인은 내가 아니라 my sister예요. 1번 his는 남자 한 명의 것에 써요. 4번 their는 여럿의 것에 쓰는데, sister는 한 명이에요.",
+   "caption": "정답 ⑤ her"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ⑤ her\n\n주인을 보고: 남자 한 명 his, 여자 한 명 her, 사물·동물 하나 its, 여럿 their",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ her",
+     "주인을 보고: 남자 한 명 his, 여자 한 명 her, 사물·동물 하나 its, 여럿 their"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, my sister's처럼 명사 앞에서 누구의 것인지 나타내는 말은 주인에 맞는 소유격 대명사로 바꿔요. 여자 한 명은 her, 남자 한 명은 his, 사물이나 동물 하나는 보통 its, 여럿은 their예요.",
+   "caption": "주인에 맞는 소유격 대명사"
+  }
+ ],
+ "source": {
+  "stem": "다음 밑줄 친 부분을 대신할 말로 알맞은 것을 고르시오.",
+  "passage": "That is <u>my sister's</u> bag.",
+  "c": [
+   "his",
+   "my",
+   "our",
+   "their",
+   "her"
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 명사 + ’s는 소유격 대명사로 바꾼다. 남자 한 명은 his, 여자 한 명은 her, 여럿은 their, 나를 포함한 여럿은 our이다.\n풀이 순서: ① 밑줄 친 말이 누구(무엇)의 것을 말하는지 본다: my sister(여자 한 명). → ② 그에 맞는 소유격은 her. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: 여자 한 명인 my sister의 소유는 her로 바꾸므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] his는 남자 한 명의 소유이므로 오답이다.\n② [오답] my는 나의 소유라 누나(언니)의 소유를 나타내지 못하므로 오답이다.\n③ [오답] our는 나를 포함한 여럿의 소유이므로 오답이다.\n④ [오답] their는 여럿의 소유이므로 오답이다.\n⑤ [정답] 여자 한 명인 my sister의 소유는 her로 바꾸므로 정답이다."
+ }
+}

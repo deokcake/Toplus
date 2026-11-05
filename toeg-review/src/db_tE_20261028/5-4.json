@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T09:08:57.696Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "Tom is very funny. Everyone likes _______.",
+      "1": "This is _______ favorite cap.",
+      "2": "I like _______ blue jacket.",
+      "3": "Those are _______ old shoes.",
+      "4": "She sees _______ brother every morning."
+    },
+    "expl": "핵심 규칙: 주어 자리에는 주격(he, she), 동사·전치사 뒤 목적어 자리에는 목적격(him, her), 명사 앞에는 소유격(his, her)을 쓴다.\n풀이 순서: ① 빈칸의 자리를 본다: 주어 자리(주격), 동사·전치사 뒤(목적격), 명사 앞(소유격). → ② 선택지 ①만 동사 likes 뒤 목적어 자리라 목적격 him이 들어간다. 나머지는 소유격 his다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: 동사나 전치사 뒤 목적어 자리라 목적격(him)이 들어가 나머지와 다르므로 정답은 ①이다.\n선택지 분석:\n① [정답] 동사나 전치사 뒤 목적어 자리라 목적격(him)이 들어가 나머지와 다르므로 정답이다.\n② [오답] 명사 앞이라 소유격(his)이 들어가므로 오답이다.\n③ [오답] 명사 앞이라 소유격(his)이 들어가므로 오답이다.\n④ [오답] 명사 앞이라 소유격(his)이 들어가므로 오답이다.\n⑤ [오답] 명사 앞이라 소유격(his)이 들어가므로 오답이다.",
+    "passage": null,
+    "stem": "다음 빈칸에 '그'와 관련된 대명사가 들어갈 때, 성격이 다른 하나를 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:08:55.580Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:08:57.696Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:48:03.025Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "We didn't make a cake yesterday.",
+      "1": null,
+      "2": "We didn't made a cake yesterday.",
+      "3": null,
+      "4": "We not made a cake yesterday."
+    },
+    "expl": "핵심 규칙: 일반동사 과거 부정문은 주어 + didn't(did not) + 동사원형이다.\n풀이 순서: ① 동사를 본다: made. 일반동사의 과거형이다. → ② 과거 부정은 didn't를 쓰고 뒤의 동사는 원형으로 돌린다: didn't make. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: didn't + 동사원형으로 바르게 고쳤으므로 정답은 ①이다.\n선택지 분석:\n① [정답] didn't + 동사원형으로 바르게 고쳤으므로 정답이다.\n② [오답] 과거의 일에 현재형 doesn't를 쓸 수 없으므로 오답이다.\n③ [오답] didn't 뒤에는 과거형이 아니라 동사원형을 쓰므로 오답이다.\n④ [오답] 일반동사의 부정에 be동사를 쓸 수 없으므로 오답이다.\n⑤ [오답] not만으로는 일반동사를 부정할 수 없고 did가 필요하므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:47:59.157Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:48:03.025Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:48:03.025Z",
+      "what": "확인 완료"
+    }
+  }
+}

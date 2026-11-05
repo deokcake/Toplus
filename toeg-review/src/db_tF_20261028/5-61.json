@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:53:39.201Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "second - thirteenth - eighth",
+      "1": "two - thirteen - eighth",
+      "2": "two - thirteenth - eighth",
+      "3": "two - thirteenth - eight",
+      "4": "second - thirteen - eight"
+    },
+    "expl": "핵심 규칙: 개수는 기수(one, two, three …)로, 순서·몇 번째·층·생일은 서수(first, second, third, fourth … twelfth)로 나타낸다.\n풀이 순서: ① 첫 문장은 개수를 말한다 → 기수 two. → ② 둘째 문장은 몇 번째 생일인지 말한다 → 서수 thirteenth. → ③ 셋째 문장은 몇 층인지 말한다 → 서수 eighth. 정답은 ③.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 첫째 빈칸 second: 바퀴의 개수는 기수 two로 나타낸다. 따라서 오답이다.\n② [오답] 둘째 빈칸 thirteen: 몇 번째 생일은 서수 thirteenth로 나타낸다. 따라서 오답이다.\n③ [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n④ [오답] 셋째 빈칸 eight: 층은 서수 eighth로 나타낸다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 second: 바퀴의 개수는 기수 two로 나타낸다. 둘째 빈칸 thirteen: 몇 번째 생일은 서수 thirteenth로 나타낸다. 셋째 빈칸 eight: 층은 서수 eighth로 나타낸다. 따라서 오답이다.",
+    "passage": "· A bicycle has _______ wheels.\n· Today is Jane's _______ birthday.\n· They live on the _______ floor.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:53:35.769Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:53:39.201Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:53:39.201Z",
+      "what": "확인 완료"
+    }
+  }
+}

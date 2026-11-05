@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-21T06:57:27.527Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "No other laptop in the store is cheaper than this one. → This laptop is cheaper than any other laptop in the store.",
+      "1": "Nothing is more exciting than traveling. → Traveling is more exciting than anything else.",
+      "2": "No other river in Korea is as long as this river. → This river is the longest in Korea.",
+      "3": "No other city in the country is larger than this city. → This city is the largest in the country.",
+      "4": "Nothing is more difficult than this puzzle. → This puzzle is easier than anything else."
+    },
+    "expl": "핵심 규칙: ‘No other + 단수명사 ~ 비교급 than A’, ‘No other ~ as + 원급 + as A’, ‘Nothing ~ 비교급 than A’는 모두 ‘A가 가장 ~하다’는 최상급의 뜻이다. 전환한 문장도 A가 가장 ~하다는 뜻이어야 한다.\n풀이 순서: ① 화살표 앞 문장(No other ~, Nothing ~)을 ‘A가 가장 ~하다’로 옮긴다. → ② 화살표 뒤 문장도 같은 뜻인지 본다. 최상급이거나 ‘비교급 + than any other(anything else)’이면 같은 뜻이다. → ③ 선택지 ⑤는 뒤 문장의 표현(easier) 때문에 뜻이 반대가 된다.\n문장별 판정:\n정답 판단: 앞 문장은 ‘이 퍼즐이 가장 어렵다’는 뜻인데 뒤 문장은 그 반대의 뜻이 되어 전환이 바르지 않다. 정답은 ⑤이다.\n선택지 분석:\n① [오답] 앞뒤 문장이 모두 ‘이 노트북이 가게에서 가장 싸다’는 뜻이라 바른 전환이다. 오답이다.\n② [오답] 앞뒤 문장이 모두 ‘여행이 가장 신난다’는 뜻이라 바른 전환이다. 오답이다.\n③ [오답] 앞뒤 문장이 모두 ‘이 강이 한국에서 가장 길다’는 뜻이라 바른 전환이다. 오답이다.\n④ [오답] 앞뒤 문장이 모두 ‘이 도시가 그 나라에서 가장 크다’는 뜻이라 바른 전환이다. 오답이다.\n⑤ [정답] 앞 문장은 ‘이 퍼즐이 가장 어렵다’는 뜻인데 뒤 문장은 그 반대의 뜻이 되어 전환이 바르지 않다. 정답이다.",
+    "passage": null,
+    "stem": "다음 중 문장의 전환이 바르지 않은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T06:57:16.918Z"
+  },
+  "tab": "fi3f83jb",
+  "updatedAt": "2026-10-21T06:57:27.527Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T06:57:27.527Z",
+      "what": "확인 완료"
+    }
+  }
+}

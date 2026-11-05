@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T08:55:48.394Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "The dog is chasing a ball.",
+      "1": "Mom is watering the plants.",
+      "2": "We are having a picnic.",
+      "3": "Tom is washing his hands.",
+      "4": "I am liking this song."
+    },
+    "expl": "핵심 규칙: have(가지다), know, like, own, belong처럼 상태를 나타내는 동사는 보통 진행형으로 쓰지 않는다. 다만 have가 ‘먹다, 보내다’처럼 동작을 나타내면 진행형으로 쓸 수 있다(have lunch, have fun).\n풀이 순서: ① 문장마다 동사가 동작인지 상태인지 가른다. → ② 상태 동사(소유의 have, know, like, own, belong)를 be + -ing로 쓴 문장을 찾는다. → ③ 선택지 ⑤의 like는 상태다. ③의 have는 동작이다. 정답은 ⑤.\n문장별 판정:\n정답 판단: like는 좋아하는 상태를 나타내 진행형으로 쓰지 않고 I like로 써야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 동작을 나타내는 동사를 진행형으로 바르게 썼으므로 오답이다.\n② [오답] 동작을 나타내는 동사를 진행형으로 바르게 썼으므로 오답이다.\n③ [오답] have가 ‘먹다·보내다’라는 동작의 뜻이라 진행형으로 쓸 수 있으므로 오답이다.\n④ [오답] 동작을 나타내는 동사를 진행형으로 바르게 썼으므로 오답이다.\n⑤ [정답] like는 좋아하는 상태를 나타내 진행형으로 쓰지 않고 I like로 써야 하므로 정답이다.",
+    "passage": null,
+    "stem": "다음 중 어법상 틀린 문장을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T08:55:46.622Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T08:55:48.394Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:55:48.394Z",
+      "what": "확인 완료"
+    }
+  }
+}

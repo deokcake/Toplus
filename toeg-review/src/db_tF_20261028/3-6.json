@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T12:05:21.675Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "were",
+      "1": "was",
+      "2": "being",
+      "3": "is",
+      "4": "are"
+    },
+    "expl": "핵심 규칙: be동사는 주어의 인칭·수와 시제에 맞춰 am/is/are 또는 was/were를 쓴다. 시간 표현이 있으면 시제도 함께 확인한다.\n풀이 순서: ① 문장 끝의 시간 표현으로 시제를 정한다(last winter → 과거). → ② There 뒤 be동사는 뒤의 명사에 수를 맞춘다(a lot of snow, 셀 수 없는 명사라 단수). → ③ 정답은 was.\n문장별 판정:\n정답 판단: snow는 불가산명사로 단수 취급하고, last winter는 과거 시점을 나타낸다. 따라서 과거 단수형 was가 맞다. 따라서 정답은 ②이다.\n선택지 분석:\n① [오답] 1번째 빈칸에는 과거 단수 'was'가 필요한데, 'were'는 과거 복수·2인칭이므로 주어·시제와 맞지 않는다.\n② [정답] snow는 불가산명사로 단수 취급하고, last winter는 과거 시점을 나타낸다. 따라서 과거 단수형 was가 맞다.\n③ [오답] being은 be의 현재분사로 혼자 이 독립절의 시제를 나타내는 서술어가 될 수 없다. 명사구의 수와 시간 표현에 맞는 유한 be동사를 써야 한다.\n④ [오답] 1번째 빈칸에는 과거 단수 'was'가 필요한데, 'is'는 현재 3인칭 단수이므로 주어·시제와 맞지 않는다.\n⑤ [오답] 1번째 빈칸에는 과거 단수 'was'가 필요한데, 'are'는 현재 복수·2인칭이므로 주어·시제와 맞지 않는다.",
+    "passage": "There ______ a lot of snow on the mountains near our town last winter.",
+    "stem": "다음 문장의 빈칸에 알맞은 be동사를 고르시오."
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T12:05:21.675Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T12:05:21.675Z",
+      "what": "확인 완료"
+    }
+  }
+}

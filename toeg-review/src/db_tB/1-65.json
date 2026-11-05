@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-07T02:50:40.380Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "2개",
+      "1": "3개",
+      "2": "4개",
+      "3": "5개",
+      "4": "6개"
+    },
+    "expl": "핵심 규칙: 분사구문의 의미상 주어가 주절의 주어와 같은지, 능동·수동 관계와 먼저 일어난 일(having + 과거분사)을 확인한다. with + 목적어 뒤에는 목적어가 한 동작이면 현재분사, 받은 상태면 과거분사를 쓴다.\n풀이 순서: ① 문장마다 분사와 그 의미상 주어의 관계(능동·수동)를 확인하고, 분사구문의 숨은 주어가 주절의 주어와 같은지 본다. → ② b)는 Mina가 선발된 것이므로 Having been selected여야 하고, f)는 Driving의 주어가 the traffic jam이 되어 틀렸다. 나머지 네 문장은 옳다. → ③ 옳은 문장을 세면 4개이다.\n문장별 판정:\na) 옳음: 부정 분사구문 Not having이 주어 Leo와 맞다.\nb) 틀림: Mina가 뽑힌 것이므로 Having been selected가 되어야 한다.\nc) 옳음: 지각동사 heard + 목적어 + 현재분사이다.\nd) 옳음: 문이 잠긴 것이므로 with + 명사 + 과거분사이다.\ne) 옳음: All things considered는 관용 표현이다.\nf) 틀림: Driving의 주어가 the traffic jam이 되어 맞지 않는다.\n정답 판단: 문법적으로 옳은 문장은 4개이다.\n선택지 분석:\n① [오답] 문법적으로 옳은 문장은 4개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n② [오답] 문법적으로 옳은 문장은 4개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n③ [정답] 문법적으로 옳은 문장은 4개이다. 이 보기의 4개는 실제 개수와 일치한다.\n④ [오답] 문법적으로 옳은 문장은 4개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 문법적으로 옳은 문장은 4개이다. 이 보기의 6개는 실제 개수와 일치하지 않는다.",
+    "passage": "a) Not having enough money for the concert ticket, Leo stayed home that night.\nb) Having selected for the national team, Mina celebrated with her family.\nc) I heard the baby crying loudly in the next room.\nd) With the front door locked, we felt safe in the old house.\ne) All things considered, the new plan is reasonable and realistic.\nf) Driving to work in the morning, the traffic jam annoyed me.",
+    "stem": "다음 중 문법적으로 옳은 문장의 개수를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T14:56:45.910Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-04T11:39:58.604Z",
+      "text": "기준 문항에 비해 문장의 길이가 짧음"
+    }
+  },
+  "tab": "a0bclcbk",
+  "updatedAt": "2026-10-07T02:50:40.380Z",
+  "verdict": null,
+  "verdictAt": "2026-10-07T02:50:38.711Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-07T02:50:40.380Z",
+      "what": "확인 완료"
+    }
+  }
+}

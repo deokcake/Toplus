@@ -1,0 +1,180 @@
+{
+ "key": "6-35",
+ "type": "B",
+ "grade": 6,
+ "chapter": "CH 4 일반동사",
+ "title": "일반동사 현재형과 Do, Does 의문문",
+ "total_sec": 131,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "6급 · CH 4 일반동사 · 35번 · B 유형\n\n이 문제는 일반동사 현재형과 Do, Does 의문문을 바르게 쓴 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 4 일반동사 · 35번 · B 유형",
+     "이 문제는 일반동사 현재형과 Do, Does 의문문을 바르게 쓴 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 4, 35번 B 유형. 이 문제는 일반동사 현재형과 Do, Does 의문문을 바르게 쓴 문장을 고르는 문제예요.",
+   "caption": "일반동사 현재형과 Do, Does"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 18,
+   "screen": {
+    "text": "다음 중 옳은 문장을 고르시오.\n\n① My brother watchs TV.\n② Do she like music?\n③ Do you like milk?\n④ They plays soccer.\n⑤ Does Mr. Kim teaches science?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 옳은 문장을 고르시오.",
+     "① My brother watchs TV.",
+     "② Do she like music?",
+     "③ Do you like milk?",
+     "④ They plays soccer.",
+     "⑤ Does Mr. Kim teaches science?"
+    ]
+   },
+   "narration": "다음 중 옳은 문장을 고르세요. 다섯 문장 가운데 문법에 맞는 문장 하나를 찾아야 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\n3인칭 단수 주어(he, she, it, Tom) → 일반동사 + s/es, have → has\ns, sh, ch, x, o로 끝나면 + es (go → goes, fix → fixes)\nDo, Does 의문문: 3인칭 단수 주어 → Does / I, you, 복수 주어 → Do\nDo, Does + 주어 + 동사원형\n예) He reads books. (그는 책을 읽어요.)  Does he read books? (그는 책을 읽니?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "3인칭 단수 주어(he, she, it, Tom) → 일반동사 + s/es, have → has",
+     "s, sh, ch, x, o로 끝나면 + es (go → goes, fix → fixes)",
+     "Do, Does 의문문: 3인칭 단수 주어 → Does / I, you, 복수 주어 → Do",
+     "Do, Does + 주어 + 동사원형",
+     "예) He reads books. (그는 책을 읽어요.)  Does he read books? (그는 책을 읽니?)"
+    ]
+   },
+   "narration": "일반동사 현재형은 평소 하는 일이나 사실을 말하고, he, she, it 같은 3인칭 단수 주어에만 s나 es를 붙여요. have는 has가 되고, ch나 sh로 끝나면 es를 붙여요. Do나 Does로 물을 때는 3인칭 단수 주어면 Does, 아니면 Do를 쓰고, 동사는 원형이에요. He reads books, 그는 책을 읽어요. Does he read books? 그는 책을 읽니?",
+   "caption": "주어에 맞는 동사 모양과 Do, Does"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 33,
+   "screen": {
+    "text": "다음 중 옳은 문장을 고르시오.\n\n① My brother watchs TV.\n② Do she like music?\n③ Do you like milk?\n④ They plays soccer.\n⑤ Does Mr. Kim teaches science?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "watchs",
+       "They plays"
+      ],
+      "strike": [
+       "① My brother watchs TV.",
+       "④ They plays soccer."
+      ],
+      "note": "평서문: My brother(3인칭 단수) + watch(ch) → watches / They(복수) → play"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "Do she",
+       "Does Mr. Kim teaches"
+      ],
+      "strike": [
+       "② Do she like music?",
+       "⑤ Does Mr. Kim teaches science?"
+      ],
+      "note": "의문문: she → Does / Does를 쓰면 동사는 원형 teach"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ Do you like milk?"
+      ],
+      "strike": [],
+      "note": "you + Do + 동사원형 like ✓"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 평서문 1번 My brother는 3인칭 단수인데 watch는 ch로 끝나서 watches로, 4번 They는 복수라 동사원형 play로 써야 해요. 둘째, 의문문 2번 she는 3인칭 단수라 Does를 써야 해요. 5번은 Does를 썼으니 teaches가 아니라 동사원형 teach를 써요. 셋째, 3번은 주어 you에 Do와 동사원형 like를 바르게 썼어요. Do you like milk? 너는 우유를 좋아하니?",
+   "caption": "평서문 → 의문문 → ③"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 25,
+   "screen": {
+    "text": "① My brother watchs TV.  ✗  ch로 끝나는 watch → watches\n② Do she like music?  ✗  3인칭 단수 she에는 Does\n③ Do you like milk?  ✓  주어 you + Do + 동사원형 like\n④ They plays soccer.  ✗  복수 They에는 동사원형 play\n⑤ Does Mr. Kim teaches science?  ✗  Does를 쓰면 동사는 원형 teach",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① My brother watchs TV.  ✗  ch로 끝나는 watch → watches",
+     "② Do she like music?  ✗  3인칭 단수 she에는 Does",
+     "③ Do you like milk?  ✓  주어 you + Do + 동사원형 like",
+     "④ They plays soccer.  ✗  복수 They에는 동사원형 play",
+     "⑤ Does Mr. Kim teaches science?  ✗  Does를 쓰면 동사는 원형 teach"
+    ]
+   },
+   "narration": "정답은 3번이에요. 5번은 Mr. Kim이 3인칭 단수라 teaches가 맞아 보이지만, Does를 쓰면 동사는 원형 teach로 써요. 1번은 s를 붙였지만, watch는 ch로 끝나서 es를 붙인 watches가 맞아요. 4번 They는 여러 명이라 s를 붙이지 않은 play를 써요.",
+   "caption": "정답 ③ Do you like milk?"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ③ Do you like milk?\n\n3인칭 단수 주어 → Does, 그 밖의 주어 → Do · 주어 뒤 동사는 원형",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ Do you like milk?",
+     "3인칭 단수 주어 → Does, 그 밖의 주어 → Do · 주어 뒤 동사는 원형"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, Do나 Does는 주어에 맞춰 고르고, 주어 뒤의 동사는 원형으로 써요.",
+   "caption": "Do, Does는 주어에 맞게, 뒤는 원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "My brother watchs TV.",
+   "Do she like music?",
+   "Do you like milk?",
+   "They plays soccer.",
+   "Does Mr. Kim teaches science?"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 일반동사 현재형은 3인칭 단수 주어에 -s/-es(자음 + y는 -ies)를 붙이고, Do/Does 뒤에는 동사원형을 쓴다. 3인칭 단수 주어의 의문문·부정문에는 Does/doesn't를 쓴다.\n풀이 순서: ① 평서문은 주어와 동사의 -s가 맞는지(철자 포함) 본다. → ② 의문문은 Do/Does가 주어와 맞는지, 뒤의 동사가 원형인지 본다. → ③ 선택지 ③만 Do + you + 동사원형으로 바르다. 정답은 ③.\n문장별 판정:\n정답 판단: 주어 you에 Do + 동사원형 like를 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] watch는 ch로 끝나 -es를 붙여 watches로 써야 하므로 오답이다.\n② [오답] 3인칭 단수 주어 she에는 Does를 써야 하므로 오답이다.\n③ [정답] 주어 you에 Do + 동사원형 like를 바르게 썼으므로 정답이다.\n④ [오답] 복수 주어 They에는 동사원형 play를 써야 하므로 오답이다.\n⑤ [오답] Does 뒤에는 동사원형 teach를 써야 하므로 오답이다."
+ }
+}

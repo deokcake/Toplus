@@ -1,0 +1,184 @@
+{
+ "key": "4-10",
+ "type": "A",
+ "grade": 4,
+ "chapter": "CH 1 명사와 관사",
+ "title": "명사의 복수형과 관사 없이 쓰는 자리",
+ "total_sec": 127,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "4급 · CH 1 명사와 관사 · 10번\n\n이 문제는 명사의 복수형과 관사 쓰임을 보고 틀린 문장을 모두 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 1 명사와 관사 · 10번",
+     "이 문제는 명사의 복수형과 관사 쓰임을 보고 틀린 문장을 모두 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 1, 10번. 이 문제는 명사의 복수형과 관사 쓰임을 보고 틀린 문장을 모두 고르는 문제예요.",
+   "caption": "틀린 문장 모두 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 19,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?\n\n(A) I need <u>some water</u>.\n(B) There are <u>two childs</u> in the room.\n(C) He goes there <u>by a taxi</u>.\n(D) I play <u>the tennis</u> in the afternoon.\n\n① (A), (B)\n② (B), (C)\n③ (A), (C), (D)\n④ (B), (C), (D)\n⑤ (A), (B), (C), (D)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?",
+     "(A) I need <u>some water</u>.",
+     "(B) There are <u>two childs</u> in the room.",
+     "(C) He goes there <u>by a taxi</u>.",
+     "(D) I play <u>the tennis</u> in the afternoon.",
+     "① (A), (B)",
+     "② (B), (C)",
+     "③ (A), (C), (D)",
+     "④ (B), (C), (D)",
+     "⑤ (A), (B), (C), (D)"
+    ]
+   },
+   "narration": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은 무엇일까요? 네 문장의 밑줄 친 부분을 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n셀 수 없는 명사(water, milk) → some 뒤에서도 s를 붙이지 않아요 (some milk)\n불규칙 복수형: child → children, man → men\nby + 교통수단 이름(타는 방법) → 관사 없이 (by bus)\nplay + 운동 이름 → 관사 없이 (play soccer)\n예) The children play baseball after school. (아이들은 방과 후에 야구를 해요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "셀 수 없는 명사(water, milk) → some 뒤에서도 s를 붙이지 않아요 (some milk)",
+     "불규칙 복수형: child → children, man → men",
+     "by + 교통수단 이름(타는 방법) → 관사 없이 (by bus)",
+     "play + 운동 이름 → 관사 없이 (play soccer)",
+     "예) The children play baseball after school. (아이들은 방과 후에 야구를 해요.)"
+    ]
+   },
+   "narration": "water, milk처럼 셀 수 없는 명사는 some 뒤에서도 s를 붙이지 않고, child의 복수형은 children처럼 모양이 바뀌어요. by bus처럼 by 뒤에 교통수단 이름만 써서 타는 방법을 말할 때는 a나 the 같은 관사를 쓰지 않아요. play 뒤에 운동 이름을 쓸 때도 관사를 쓰지 않아요. 예를 들어 The children play baseball after school. 아이들은 방과 후에 야구를 해요.",
+   "caption": "명사의 수와 관사 없는 자리"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 31,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?\n\n(A) I need <u>some water</u>.\n(B) There are <u>two childs</u> in the room.\n(C) He goes there <u>by a taxi</u>.\n(D) I play <u>the tennis</u> in the afternoon.\n\n① (A), (B)\n② (B), (C)\n③ (A), (C), (D)\n④ (B), (C), (D)\n⑤ (A), (B), (C), (D)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "some water"
+      ],
+      "strike": [
+       "two childs"
+      ],
+      "note": "(A) some water: water는 셀 수 없는 명사 → 옳다. (B) two childs → two children"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "by a taxi",
+       "the tennis"
+      ],
+      "note": "(C) by a taxi → by taxi, (D) the tennis → play tennis (관사 없이)"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ (B), (C), (D)"
+      ],
+      "strike": [
+       "① (A), (B)",
+       "② (B), (C)",
+       "③ (A), (C), (D)",
+       "⑤ (A), (B), (C), (D)"
+      ],
+      "note": "틀린 문장 (B), (C), (D) → ④"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 에이 문장의 water는 셀 수 없는 명사라서 some water가 맞아요. 비 문장은 child의 복수형을 childs로 써서 틀렸고, children이 맞아요. 둘째, 씨 문장은 by 뒤의 교통수단이라 관사 없이 by taxi로 써야 해요. 디 문장도 play 뒤의 운동 이름이라 관사 없이 play tennis로 써야 해요. 셋째, 틀린 비, 씨, 디를 빠짐없이 고른 것은 4번이에요.",
+   "caption": "(A) 옳음 → (B)(C)(D) 틀림 → ④"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① (A), (B)  ✗  (A) some water는 옳고, 틀린 (C), (D)가 빠졌어요\n② (B), (C)  ✗  틀린 (D) the tennis가 빠졌어요\n③ (A), (C), (D)  ✗  (A)는 옳고, 틀린 (B) two childs가 빠졌어요\n④ (B), (C), (D)  ✓  틀린 문장 (B), (C), (D)를 모두 골랐어요\n⑤ (A), (B), (C), (D)  ✗  (A) some water는 옳은 문장이에요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① (A), (B)  ✗  (A) some water는 옳고, 틀린 (C), (D)가 빠졌어요",
+     "② (B), (C)  ✗  틀린 (D) the tennis가 빠졌어요",
+     "③ (A), (C), (D)  ✗  (A)는 옳고, 틀린 (B) two childs가 빠졌어요",
+     "④ (B), (C), (D)  ✓  틀린 문장 (B), (C), (D)를 모두 골랐어요",
+     "⑤ (A), (B), (C), (D)  ✗  (A) some water는 옳은 문장이에요"
+    ]
+   },
+   "narration": "정답은 4번, 비, 씨, 디예요. 에이 문장 some water는 옳으니, 에이가 들어간 1번, 3번, 5번은 답이 될 수 없어요. 2번은 틀린 디 문장 the tennis를 빠뜨렸어요. some 뒤에는 늘 복수형이 온다고 생각하면 5번을 고르기 쉬우니 조심해요.",
+   "caption": "정답 ④ (B), (C), (D)"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 13,
+   "screen": {
+    "text": "정답 ④ (B), (C), (D)\n\n셀 수 없는 명사 s ✗ · child → children · by + 교통수단, play + 운동 이름 → 관사 ✗",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ (B), (C), (D)",
+     "셀 수 없는 명사 s ✗ · child → children · by + 교통수단, play + 운동 이름 → 관사 ✗"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 셀 수 없는 명사는 복수형으로 쓰지 않고, by 뒤 교통수단과 play 뒤 운동 이름에는 관사를 쓰지 않아요.",
+   "caption": "셀 수 없는 명사 s ✗, 관사 ✗ 자리"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?",
+  "passage": "(A) I need <u>some water</u>.\n(B) There are <u>two childs</u> in the room.\n(C) He goes there <u>by a taxi</u>.\n(D) I play <u>the tennis</u> in the afternoon.",
+  "c": [
+   "(A), (B)",
+   "(B), (C)",
+   "(A), (C), (D)",
+   "(B), (C), (D)",
+   "(A), (B), (C), (D)"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: some + 셀 수 없는 명사, child의 복수형은 children, by + 교통수단은 무관사, play + 운동 이름은 무관사(play tennis).\n풀이 순서: ① 밑줄마다 확인할 점을 정한다: 수량 표현 + 명사, 복수형, by + 교통수단, play + 운동·악기, a/an. → ② (B) childs(children), (C) by a taxi(by taxi), (D) the tennis(tennis)가 틀렸다. (A)만 옳다. → ③ 틀린 것을 빠짐없이 고른 (B), (C), (D)가 정답이다.\n문장별 판정: (A) O. 셀 수 없는 명사 water 앞의 some. (B) X. child의 복수형은 children. (C) X. by taxi로 관사 없이 쓴다. (D) X. 운동 이름 앞에는 the를 쓰지 않는다(play tennis).\n정답 판단: 틀린 문장 (B), (C), (D)를 모두 골랐으므로 정답은 ④이다.\n선택지 분석:\n① [오답] (A)는 옳은 문장이고 (C), (D)가 빠졌으므로 오답이다.\n② [오답] (D)가 빠졌으므로 오답이다.\n③ [오답] (A)는 옳은 문장이고 (B)가 빠졌으므로 오답이다.\n④ [정답] 틀린 문장 (B), (C), (D)를 모두 골랐으므로 정답이다.\n⑤ [오답] (A)는 옳은 문장이므로 오답이다."
+ }
+}

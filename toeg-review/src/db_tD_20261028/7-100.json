@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T04:00:02.111Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "가, 나",
+      "1": "다, 라",
+      "2": "가, 다, 라",
+      "3": "가, 라",
+      "4": null
+    },
+    "expl": "핵심 규칙: What date는 날짜, What day는 요일을 묻는다. 날짜의 일은 서수로 말하고, 날짜·요일을 말할 때는 비인칭 주어 It을 쓴다.\n풀이 순서: ① 설명을 하나씩 실제로 묻고 답하는 말에 대어 본다. → ② 가 O, 나 X(2nd는 second로 읽는다), 다 X(What time은 시각을 묻는다), 라 O. → ③ 옳은 것을 모두 모으면 가, 라이다.\n문장별 판정:\n가 O. What date는 날짜를 묻고 날짜로 대답한다.\n나 X. 2nd는 서수 second로 읽는다.\n다 X. What time은 시각을 묻고, 요일은 What day로 묻는다.\n라 O. 요일은 It is + 요일로 대답한다.\n정답 판단: 옳은 설명은 가, 라이다.\n선택지 분석:\n① [오답] 나는 옳은 설명이 아니고, 옳은 설명 라를 빠뜨렸다. 따라서 오답이다.\n② [오답] 다는 옳은 설명이 아니고, 옳은 설명 가를 빠뜨렸다. 따라서 오답이다.\n③ [오답] 다는 옳은 설명이 아니다. 따라서 오답이다.\n④ [정답] 옳은 설명 가, 라를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] 나, 다는 옳은 설명이 아니고, 옳은 설명 가를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "[ 보기 ]\n가. 'What date is it today?'라고 물으면 'It is June 2nd.'처럼 대답한다.\n나. 날짜의 '2nd'는 two로 읽는다.\n다. 요일을 물을 때는 'What time is it?'이라고 한다.\n라. 'It is Friday.'는 요일을 묻는 말에 알맞은 대답이다.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T04:00:00.007Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T04:00:02.111Z",
+      "what": "확인 완료"
+    }
+  }
+}

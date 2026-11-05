@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-28T03:01:48.353Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "I have <u>a little</u> cousins in Seoul.",
+      "1": "Tom has <u>few</u> friends in his class.",
+      "2": "She drinks <u>many</u> coffee every morning.",
+      "3": "There is <u>a few</u> rice in the bowl.",
+      "4": "We have <u>much</u> chairs in the classroom."
+    },
+    "expl": "핵심 규칙: many·(a) few는 셀 수 있는 명사의 복수형, much·(a) little은 셀 수 없는 명사와 함께 쓴다.\n풀이 순서: ① 밑줄 뒤의 명사가 셀 수 있는지 하나씩 본다. → ② 셀 수 있는 명사에는 (a) few·many, 셀 수 없는 명사에는 (a) little·much다. → ③ 선택지 ②만 friends(셀 수 있음) 앞에 few를 써서 맞다. 정답은 ②.\n문장별 판정:\n정답 판단: 셀 수 있는 명사 friends에 few를 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 셀 수 있는 명사 cousins에는 a few를 쓰므로 오답이다.\n② [정답] 셀 수 있는 명사 friends에 few를 바르게 썼으므로 정답이다.\n③ [오답] 셀 수 없는 명사 coffee에는 much를 쓰므로 오답이다.\n④ [오답] 셀 수 없는 명사 rice에는 a little을 쓰므로 오답이다.\n⑤ [오답] 셀 수 있는 명사 chairs에는 many를 쓰므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 부분의 쓰임이 어법상 옳은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-28T03:01:35.002Z"
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T03:01:48.353Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:01:48.353Z",
+      "what": "확인 완료"
+    }
+  }
+}

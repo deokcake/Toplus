@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차: 길이)",
+  "done": true,
+  "doneAt": "2026-10-23T18:16:23.835Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Tom finished clean to the room before his mother came home.",
+      "1": "Tom finished to cleaning the room before his mother came home.",
+      "2": "Tom finished clean the room before his mother came home.",
+      "3": "Tom finished to clean the room before his mother came home.",
+      "4": "Tom finished cleaning the room before his mother came home."
+    },
+    "expl": "핵심 규칙: avoid, finish, keep, mind, enjoy, consider는 동명사를 목적어로 쓴다. to부정사나 동사원형을 목적어로 쓸 수 없다.\n풀이 순서: ① 틀린 부분을 찾는다: finish는 동명사를 목적어로 쓰는데 to부정사(to clean)가 왔다. → ② cleaning로 고친다. → ③ 다른 부분까지 바꾼 보기(동사에 -s·-ing를 붙이거나 to를 남긴 것)는 지운다. 정답은 ⑤.\n문장별 판정:\n정답 판단: finish + 동명사(cleaning)로 바르게 고쳤으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] finish 뒤에 동사원형을 쓸 수 없고 to의 자리도 틀렸으므로 오답이다.\n② [오답] to를 그대로 두고 -ing만 붙였으므로 오답이다.\n③ [오답] finish 뒤에 동사원형을 쓸 수 없으므로 오답이다.\n④ [오답] 틀린 부분(to clean)을 그대로 두었으므로 오답이다.\n⑤ [정답] finish + 동명사(cleaning)로 바르게 고쳤으므로 정답이다.",
+    "passage": "Tom finished to clean the room before his mother came home.",
+    "stem": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고친 문장을 고르시오."
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:16:23.835Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:16:23.835Z",
+      "what": "확인 완료"
+    }
+  }
+}

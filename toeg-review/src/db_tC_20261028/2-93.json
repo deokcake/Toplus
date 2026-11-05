@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T03:59:29.951Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "in - with - in",
+      "1": "at - by - on",
+      "2": "on - for - in",
+      "3": "in - by - at",
+      "4": "for - with - on"
+    },
+    "expl": "핵심 규칙: 전치사 + which의 전치사는 관계절을 원래 문장으로 풀었을 때 선행사 앞에 오는 전치사이다(I was born in the house → the house in which I was born).\n풀이 순서: ① 선행사를 관계절 끝으로 옮겨 전치사를 찾는다. → ② moved in the year, signed with the pen, solved it in the way → ③ 순서대로 in - with - in이다.\n문장별 판정:\n정답 판단: 관계절을 원래 문장으로 풀면 ‘we moved here in the year’, ‘I signed the contract with the pen’, ‘you solved it in the way’이므로 in - with - in이다.\n선택지 분석:\n① [정답] in - with - in: 세 빈칸이 모두 알맞으므로 정답이다.\n② [오답] A 빈칸 at: 관계절을 풀면 ‘we moved here in the year’이므로 in가 알맞다. B 빈칸 by: 관계절을 풀면 ‘I signed the contract with the pen’이므로 with가 알맞다. C 빈칸 on: 관계절을 풀면 ‘you solved it in the way’이므로 in가 알맞다. 따라서 오답이다.\n③ [오답] A 빈칸 on: 관계절을 풀면 ‘we moved here in the year’이므로 in가 알맞다. B 빈칸 for: 관계절을 풀면 ‘I signed the contract with the pen’이므로 with가 알맞다. 따라서 오답이다.\n④ [오답] B 빈칸 by: 관계절을 풀면 ‘I signed the contract with the pen’이므로 with가 알맞다. C 빈칸 at: 관계절을 풀면 ‘you solved it in the way’이므로 in가 알맞다. 따라서 오답이다.\n⑤ [오답] A 빈칸 for: 관계절을 풀면 ‘we moved here in the year’이므로 in가 알맞다. C 빈칸 on: 관계절을 풀면 ‘you solved it in the way’이므로 in가 알맞다. 따라서 오답이다.",
+    "passage": "A. 2020 was the year _____ which we moved here.\nB. This is the pen _____ which I signed the contract.\nC. Tell me the way _____ which you solved it.",
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T03:59:13.533Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T03:59:29.951Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T03:59:29.951Z",
+      "what": "확인 완료"
+    }
+  }
+}

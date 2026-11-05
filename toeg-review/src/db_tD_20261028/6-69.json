@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T06:24:19.020Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A): Do\t(B): have to",
+      "1": "(A): Do\t(B): has to",
+      "2": "(A): Are\t(B): have to",
+      "3": "(A): Is\t(B): have to",
+      "4": "(A): Does\t(B): has to"
+    },
+    "expl": "핵심 규칙: have to의 현재 의문문은 Do/Does + 주어 + have to + 동사원형?으로 쓰고, 3인칭 단수 주어의 긍정문에는 has to를 쓴다. Does 뒤에는 has가 아니라 have를 쓴다.\n풀이 순서: ① 대답을 본다: Yes, they do. 질문도 같은 조동사로 시작한다. → ② (A) Do, (B) have to다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: 복수 주어 they에 Do, 그 뒤에 have to를 바르게 썼으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 복수 주어 they에 Do, 그 뒤에 have to를 바르게 썼으므로 정답이다.\n② [오답] Do 뒤에는 has to가 아니라 have to를 쓰므로 오답이다.\n③ [오답] have to의 의문문에는 be동사 Are를 쓰지 않으므로 오답이다.\n④ [오답] have to의 의문문에는 be동사 Is를 쓰지 않으므로 오답이다.\n⑤ [오답] 복수 주어 they에는 Do를 쓰고 그 뒤에는 have to를 쓰므로 오답이다.",
+    "passage": "A: (<u>    A    </u>) they (<u>    B    </u>) go now?\nB: Yes, they do.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T06:24:16.608Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T06:24:19.020Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T06:24:19.020Z",
+      "what": "확인 완료"
+    }
+  }
+}

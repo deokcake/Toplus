@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:40:32.811Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "'later'는 'late'의 최상급으로 '가장 늦게'라는 뜻이다.",
+      "1": "'later'는 'late'에 '-r'을 붙인 비교급으로 '더 늦게'라는 뜻이다.",
+      "2": "'than'은 '그러고 나서'라는 뜻으로 일의 순서를 나타낸다.",
+      "3": "'than' 대신 'that'을 써도 뜻이 같다.",
+      "4": "'later'는 원급 부사로 '늦게'라는 뜻이다."
+    },
+    "expl": "핵심 규칙: 비교급은 짧은 단어에 -er을 붙이고(late → later, tall → taller), 자음 + y는 y를 i로 바꾼다(easy → easier). than은 ‘~보다’라는 뜻으로 비교의 대상을 연결하며 then(그때)과 다르다.\n풀이 순서: ① 밑줄을 둘로 나눈다: 비교급(later) + than. → ② 비교급은 ‘더 ~한(하게)’, than은 ‘~보다’로 뒤에 비교 대상(me)이 온다. → ③ 이를 바르게 말한 것은 ②.\n문장별 판정:\n정답 판단: -e로 끝나는 late에 -r을 붙인 비교급이 맞으므로 정답은 ②이다.\n선택지 분석:\n① [오답] later는 ‘더 늦게’라는 비교급이므로 오답이다.\n② [정답] -e로 끝나는 late에 -r을 붙인 비교급이 맞으므로 정답이다.\n③ [오답] than은 ‘~보다’라는 뜻이고 ‘그러고 나서’는 then이므로 오답이다.\n④ [오답] that은 비교의 대상을 연결하지 못하므로 오답이다.\n⑤ [오답] later는 late의 비교급이므로 오답이다.",
+    "passage": "My brother woke up <u>later than</u> me.",
+    "stem": "다음 문장에서 'later'와 'than'의 쓰임에 대한 설명으로 가장 올바른 것은?"
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:40:30.651Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:40:32.811Z",
+      "what": "확인 완료"
+    }
+  }
+}

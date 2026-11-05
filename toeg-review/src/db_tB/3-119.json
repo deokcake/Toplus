@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:20:36.979Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "It's in front of the flower shop.",
+      "1": "It's next to the flower shop.",
+      "2": "It's behind of the flower shop.",
+      "3": "It's behind the flower shop.",
+      "4": "It's across from the flower shop."
+    },
+    "expl": "핵심 규칙: 장소는 It is + 장소 표현으로 나타낸다. behind는 뒤, next to는 옆, across from은 맞은편, under는 아래, in front of는 앞이다.\n풀이 순서: ① 우리말에서 위치를 나타내는 말을 찾는다: ‘꽃집 뒤에’. → ② 영어 표현을 떠올린다: behind + 명사(of를 붙이지 않는다). → ③ 정답은 ④.\n문장별 판정:\n정답 판단: ‘뒤에’를 behind로 바르게 옮겼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] in front of는 ‘앞’이라 뜻이 맞지 않으므로 오답이다.\n② [오답] next to는 ‘옆’이라 뜻이 맞지 않으므로 오답이다.\n③ [오답] behind 뒤에는 of를 쓰지 않으므로 오답이다.\n④ [정답] ‘뒤에’를 behind로 바르게 옮겼으므로 정답이다.\n⑤ [오답] across from은 ‘맞은편’이라 뜻이 맞지 않으므로 오답이다.",
+    "passage": "A: Where is the bank?\nB: <u>그것은 꽃집 뒤에 있어요</u>.\nA: Oh, I see. Thanks.",
+    "stem": "다음 밑줄 친 우리말 문장을 올바르게 영작한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:20:33.281Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:20:36.979Z",
+      "what": "확인 완료"
+    }
+  }
+}

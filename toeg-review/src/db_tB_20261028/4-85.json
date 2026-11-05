@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-06T08:51:26.168Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "ⓐ, ⓑ",
+      "1": "ⓐ, ⓓ",
+      "2": "ⓑ, ⓒ",
+      "3": "ⓑ, ⓓ",
+      "4": "ⓒ, ⓓ"
+    },
+    "expl": "핵심 규칙: 장소는 on(표면·벽), in(공간 안·도시·강·하늘·물속), at(한 지점·at home·at school·at the gate), under(아래), between(둘 사이)으로 나타낸다.\n풀이 순서: ① 문장마다 전치사 뒤의 장소가 표면인지, 공간의 안인지, 한 지점인지 가른다. → ② ⓒ on the sky(in the sky), ⓓ on Seoul(in Seoul)이 틀렸다. → ③ 옳은 문장만 고른 ⓐ, ⓑ가 정답이다.\n문장별 판정:\nⓐ O. 소파 위에는 on을 쓴다.\nⓑ O. 상자 안에는 in을 쓴다.\nⓒ X. 하늘에는 in the sky로 쓴다.\nⓓ X. 도시에는 in을 쓴다.\n정답 판단: 장소 전치사가 옳은 문장은 ⓐ, ⓑ이다.\n선택지 분석:\n① [정답] 옳은 문장 ⓐ, ⓑ를 빠짐없이 골랐으므로 정답이다.\n② [오답] ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓑ를 빠뜨렸다. 따라서 오답이다.\n③ [오답] ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓐ를 빠뜨렸다. 따라서 오답이다.\n④ [오답] ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓐ를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] ⓒ, ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓐ, ⓑ를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "ⓐ The cat is sleeping on the sofa.\nⓑ The book is in the box.\nⓒ There are many stars on the sky.\nⓓ Tom lives on Seoul.",
+    "stem": "다음 중 장소 전치사의 쓰임이 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T08:50:52.647Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T08:51:26.168Z",
+      "what": "확인 완료"
+    }
+  }
+}

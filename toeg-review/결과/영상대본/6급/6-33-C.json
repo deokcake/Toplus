@@ -1,0 +1,178 @@
+{
+ "key": "6-33",
+ "type": "C",
+ "grade": 6,
+ "chapter": "CH 4 일반동사",
+ "title": "주어에 맞는 don't와 doesn't",
+ "total_sec": 127,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "6급 · CH 4 일반동사 · 33번 · C 유형\n\n이 문제는 주어에 맞는 don't와 doesn't를 가려서 나머지와 다른 하나를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 4 일반동사 · 33번 · C 유형",
+     "이 문제는 주어에 맞는 don't와 doesn't를 가려서 나머지와 다른 하나를 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 4, 33번 C 유형. 이 문제는 주어에 맞는 don't와 doesn't를 가려서 나머지와 다른 하나를 고르는 문제예요.",
+   "caption": "don't와 doesn't 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 17,
+   "screen": {
+    "text": "다음 빈칸에 don't 또는 doesn't가 들어갈 때, 나머지와 다른 것을 고르시오.\n\n① She ________ work Sundays.\n② The student ________ study hard.\n③ I ________ watch TV.\n④ Bill ________ have an umbrella.\n⑤ He ________ wash his hands.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 don't 또는 doesn't가 들어갈 때, 나머지와 다른 것을 고르시오.",
+     "① She ________ work Sundays.",
+     "② The student ________ study hard.",
+     "③ I ________ watch TV.",
+     "④ Bill ________ have an umbrella.",
+     "⑤ He ________ wash his hands."
+    ]
+   },
+   "narration": "다음 빈칸에 don't 또는 doesn't가 들어갈 때, 나머지와 다른 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n일반동사 현재 부정문: 주어 + don't/doesn't + 동사원형 (~하지 않아요)\nI, you, we, they, 여럿(복수) → don't (= do not)\nhe, she, it처럼 나도 너도 아닌 한 사람·하나(3인칭 단수) → doesn't (= does not)\n예) I don't eat fish. (나는 생선을 먹지 않아요.)  She doesn't eat fish. (그녀는 생선을 먹지 않아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "일반동사 현재 부정문: 주어 + don't/doesn't + 동사원형 (~하지 않아요)",
+     "I, you, we, they, 여럿(복수) → don't (= do not)",
+     "he, she, it처럼 나도 너도 아닌 한 사람·하나(3인칭 단수) → doesn't (= does not)",
+     "예) I don't eat fish. (나는 생선을 먹지 않아요.)  She doesn't eat fish. (그녀는 생선을 먹지 않아요.)"
+    ]
+   },
+   "narration": "일반동사 현재형으로 하지 않는다고 말할 때는 동사 앞에 don't나 doesn't를 쓰고 동사는 동사원형으로 둬요. 주어가 I, you, we, they나 여럿이면 don't, he, she, it처럼 3인칭 단수면 doesn't를 써요. I don't eat fish. 나는 생선을 먹지 않아요. She doesn't eat fish. 그녀는 생선을 먹지 않아요.",
+   "caption": "3인칭 단수는 doesn't"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 빈칸에 don't 또는 doesn't가 들어갈 때, 나머지와 다른 것을 고르시오.\n\n① She ________ work Sundays.\n② The student ________ study hard.\n③ I ________ watch TV.\n④ Bill ________ have an umbrella.\n⑤ He ________ wash his hands.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "① She",
+       "② The student",
+       "③ I",
+       "④ Bill",
+       "⑤ He"
+      ],
+      "strike": [],
+      "note": "빈칸 바로 앞의 주어 찾기"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① She ________ work Sundays.",
+       "② The student ________ study hard.",
+       "④ Bill ________ have an umbrella.",
+       "⑤ He ________ wash his hands."
+      ],
+      "note": "She, He = 3인칭 단수, The student, Bill = 한 사람 → 모두 doesn't"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ I ________ watch TV."
+      ],
+      "strike": [],
+      "note": "I = 나 자신(한 명이지만 3인칭 아님) → don't → 혼자 다르다"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 빈칸 앞의 주어 She, The student, I, Bill, He를 찾아요. 둘째, She와 He, 그리고 한 사람인 The student와 Bill은 모두 3인칭 단수라서 doesn't를 써요. 셋째, I는 한 사람이지만 나 자신이라 3인칭이 아니에요. 그래서 don't를 쓰는 3번만 나머지와 달라요. I don't watch TV. 나는 텔레비전을 보지 않아요.",
+   "caption": "주어 찾기 → 넷은 doesn't → I만 don't"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① She ________ work Sundays.  ✗  She(그녀)는 3인칭 단수 → doesn't\n② The student ________ study hard.  ✗  학생 한 명(3인칭 단수) → doesn't\n③ I ________ watch TV.  ✓  I(나)는 3인칭이 아님 → don't, 혼자 달라요\n④ Bill ________ have an umbrella.  ✗  Bill 한 사람(3인칭 단수) → doesn't\n⑤ He ________ wash his hands.  ✗  He(그)는 3인칭 단수 → doesn't",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① She ________ work Sundays.  ✗  She(그녀)는 3인칭 단수 → doesn't",
+     "② The student ________ study hard.  ✗  학생 한 명(3인칭 단수) → doesn't",
+     "③ I ________ watch TV.  ✓  I(나)는 3인칭이 아님 → don't, 혼자 달라요",
+     "④ Bill ________ have an umbrella.  ✗  Bill 한 사람(3인칭 단수) → doesn't",
+     "⑤ He ________ wash his hands.  ✗  He(그)는 3인칭 단수 → doesn't"
+    ]
+   },
+   "narration": "정답은 3번이에요. I만 don't를 쓰고, 나머지 네 문장에는 모두 doesn't를 써요. 2번 The student는 학생 한 명이라 he나 she처럼 3인칭 단수예요. 4번 Bill도 한 사람의 이름이라 doesn't를 써요.",
+   "caption": "정답 ③ I don't"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ I ________ watch TV.\n\n3인칭 단수 주어 → doesn't, I·you·we·they·여럿 → don't (뒤에는 동사원형)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ I ________ watch TV.",
+     "3인칭 단수 주어 → doesn't, I·you·we·they·여럿 → don't (뒤에는 동사원형)"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 3인칭 단수 주어에는 doesn't, 그 밖의 주어에는 don't를 써요.",
+   "caption": "3인칭 단수 doesn't, 나머지 don't"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 don't 또는 doesn't가 들어갈 때, 나머지와 다른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "She ________ work Sundays.",
+   "The student ________ study hard.",
+   "I ________ watch TV.",
+   "Bill ________ have an umbrella.",
+   "He ________ wash his hands."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 3인칭 단수는 doesn’t, I/you/복수는 don’t를 쓴다. 각 주어를 따로 확인해 다른 형태 하나를 고른다.\n풀이 순서: ① 문장마다 주어가 3인칭 단수인지 가른다. → ② 3인칭 단수면 doesn't, 아니면 don't를 넣는다. → ③ 선택지 ③만 don't이고 나머지는 doesn't다. 정답은 ③.\n문장별 판정:\n정답 판단: 주어 I에는 don't를 쓰고 뒤의 본동사는 원형으로 둔다. 이 보기만 필요한 형태가 달라 정답은 ③이다.\n선택지 분석:\n① [오답] 주어 She에는 doesn't를 쓰고 뒤의 본동사는 원형으로 둔다. 다른 세 보기와 필요한 형태가 같으므로 정답이 아니다.\n② [오답] 주어 The student에는 doesn't를 쓰고 뒤의 본동사는 원형으로 둔다. 다른 세 보기와 필요한 형태가 같으므로 정답이 아니다.\n③ [정답] 주어 I에는 don't를 쓰고 뒤의 본동사는 원형으로 둔다. 이 보기만 필요한 형태가 달라 정답이다.\n④ [오답] 주어 Bill에는 doesn't를 쓰고 뒤의 본동사는 원형으로 둔다. 다른 세 보기와 필요한 형태가 같으므로 정답이 아니다.\n⑤ [오답] 주어 He에는 doesn't를 쓰고 뒤의 본동사는 원형으로 둔다. 다른 세 보기와 필요한 형태가 같으므로 정답이 아니다."
+ }
+}

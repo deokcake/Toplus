@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차: 길이)",
+  "done": true,
+  "doneAt": "2026-10-27T05:18:42.605Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Would you mind turn off the light in the hallway?",
+      "1": "Would you mind turning off the light in the hallway?",
+      "2": "Would you mind to turning off the light in the hallway?",
+      "3": "Would you minding turning off the light in the hallway?",
+      "4": "Would you mind to turn off the light in the hallway?"
+    },
+    "expl": "핵심 규칙: avoid, finish, keep, mind, enjoy, consider는 동명사를 목적어로 쓴다. to부정사나 동사원형을 목적어로 쓸 수 없다.\n풀이 순서: ① 틀린 부분을 찾는다: mind는 동명사를 목적어로 쓰는데 to부정사(to turn)가 왔다. → ② turning로 고친다. → ③ 다른 부분까지 바꾼 보기(동사에 -s·-ing를 붙이거나 to를 남긴 것)는 지운다. 정답은 ②.\n문장별 판정:\n정답 판단: mind + 동명사(turning)로 바르게 고쳤으므로 정답은 ②이다.\n선택지 분석:\n① [오답] mind 뒤에 동사원형을 쓸 수 없으므로 오답이다.\n② [정답] mind + 동명사(turning)로 바르게 고쳤으므로 정답이다.\n③ [오답] to를 그대로 두고 -ing만 붙였으므로 오답이다.\n④ [오답] would 뒤에는 동사원형 mind를 써야 하므로 오답이다.\n⑤ [오답] 틀린 부분(to turn)을 그대로 두었으므로 오답이다.",
+    "passage": "Would you mind to turn off the light in the hallway?",
+    "stem": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고친 문장을 고르시오."
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:18:42.605Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:18:42.605Z",
+      "what": "확인 완료"
+    }
+  }
+}

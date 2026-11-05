@@ -1,0 +1,178 @@
+{
+ "key": "4-6",
+ "type": "C",
+ "grade": 4,
+ "chapter": "CH 1 명사와 관사",
+ "title": "How many 뒤 goose의 복수형",
+ "total_sec": 133,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "4급 · CH 1 명사와 관사 · 6번 · C 유형\n\n이 문제는 How many 뒤에 오는 명사 goose의 알맞은 형태를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 1 명사와 관사 · 6번 · C 유형",
+     "이 문제는 How many 뒤에 오는 명사 goose의 알맞은 형태를 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 1, 6번 C 유형. 이 문제는 How many 뒤에 오는 명사 goose의 알맞은 형태를 고르는 문제예요.",
+   "caption": "How many 뒤 goose의 형태"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 21,
+   "screen": {
+    "text": "다음 대화의 빈칸에 들어갈 알맞은 단어를 고르세요.\n\nA: How many ________ are there on the farm?\nB: There are twenty.\n\n① gooses\n② geese\n③ a goose\n④ geeses\n⑤ goose",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 대화의 빈칸에 들어갈 알맞은 단어를 고르세요.",
+     "A: How many ________ are there on the farm?",
+     "B: There are twenty.",
+     "① gooses",
+     "② geese",
+     "③ a goose",
+     "④ geeses",
+     "⑤ goose"
+    ]
+   },
+   "narration": "다음 대화의 빈칸에 들어갈 알맞은 단어를 고르세요. How many, 빈칸, are there on the farm? There are twenty. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\nHow many(몇 개, 몇 마리) 뒤 → 셀 수 있는 명사의 복수형\n대부분의 명사는 s나 es를 붙여요. (cat → cats, box → boxes)\n모양이 불규칙하게 바뀌는 명사도 있어요. (goose → geese, mouse → mice)\n예) Two geese are swimming in the lake. (거위 두 마리가 호수에서 헤엄치고 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "How many(몇 개, 몇 마리) 뒤 → 셀 수 있는 명사의 복수형",
+     "대부분의 명사는 s나 es를 붙여요. (cat → cats, box → boxes)",
+     "모양이 불규칙하게 바뀌는 명사도 있어요. (goose → geese, mouse → mice)",
+     "예) Two geese are swimming in the lake. (거위 두 마리가 호수에서 헤엄치고 있어요.)"
+    ]
+   },
+   "narration": "How many는 몇 개, 몇 마리인지 묻는 말이에요. 그래서 How many 뒤에는 셀 수 있는 명사의 복수형이 와요. 대부분의 명사는 cats, boxes처럼 s나 es를 붙여 복수형을 만들어요. 그런데 goose는 geese, mouse는 mice처럼 s를 붙이지 않고 모양이 불규칙하게 바뀌는 명사도 있어요. 예를 들어 Two geese are swimming in the lake, 거위 두 마리가 호수에서 헤엄치고 있어요.",
+   "caption": "모양이 바뀌는 복수형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 37,
+   "screen": {
+    "text": "다음 대화의 빈칸에 들어갈 알맞은 단어를 고르세요.\n\nA: How many ________ are there on the farm?\nB: There are twenty.\n\n① gooses\n② geese\n③ a goose\n④ geeses\n⑤ goose",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "How many ________",
+       "There are twenty."
+      ],
+      "strike": [
+       "③ a goose",
+       "⑤ goose"
+      ],
+      "note": "How many 뒤 = 복수형 자리. 한 마리를 나타내는 a goose, goose는 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① gooses",
+       "④ geeses"
+      ],
+      "note": "goose의 복수형은 geese(s를 붙이지 않음) → gooses, geeses도 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② geese"
+      ],
+      "strike": [],
+      "note": "남는 것은 geese → How many geese are there on the farm?"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, How many 뒤에는 복수형이 와야 해요. 3번 a goose와 5번 goose는 거위 한 마리를 나타내는 단수형이라 지워요. 둘째, goose는 s를 붙이지 않고 모양이 바뀌어 geese가 돼요. 그래서 s를 붙인 1번 gooses와, geese에 s를 또 붙인 4번 geeses도 지워요. 셋째, 남는 2번 geese를 넣으면 How many geese are there on the farm, 농장에 거위가 몇 마리 있니, There are twenty, 스무 마리 있어, 라는 대화가 돼요.",
+   "caption": "복수형 자리 → geese"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 23,
+   "screen": {
+    "text": "① gooses  ✗  goose는 s를 붙이지 않고 geese로 바뀌어요\n② geese  ✓  goose의 불규칙 복수형\n③ a goose  ✗  a goose는 거위 한 마리예요\n④ geeses  ✗  geese가 이미 복수형이라 s를 또 붙이지 않아요\n⑤ goose  ✗  goose는 한 마리를 나타내는 단수형이에요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① gooses  ✗  goose는 s를 붙이지 않고 geese로 바뀌어요",
+     "② geese  ✓  goose의 불규칙 복수형",
+     "③ a goose  ✗  a goose는 거위 한 마리예요",
+     "④ geeses  ✗  geese가 이미 복수형이라 s를 또 붙이지 않아요",
+     "⑤ goose  ✗  goose는 한 마리를 나타내는 단수형이에요"
+    ]
+   },
+   "narration": "정답은 2번 geese예요. 1번 gooses는 다른 명사처럼 s를 붙인 꼴인데, goose는 s를 붙이지 않고 geese로 모양이 바뀌어요. 4번 geeses는 이미 복수형인 geese에 s를 또 붙여서 틀렸어요. 5번 goose는 거위 한 마리를 나타내는 단수형이라 How many 뒤에 올 수 없어요.",
+   "caption": "정답 ② geese"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② geese\n\nHow many + 복수형, goose → geese",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② geese",
+     "How many + 복수형, goose → geese"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, How many 뒤에는 복수형을 쓰고, goose의 복수형은 geese예요.",
+   "caption": "goose → geese"
+  }
+ ],
+ "source": {
+  "stem": "다음 대화의 빈칸에 들어갈 알맞은 단어를 고르세요.",
+  "passage": "A: How many ________ are there on the farm?\nB: There are twenty.",
+  "c": [
+   "gooses",
+   "geese",
+   "a goose",
+   "geeses",
+   "goose"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 명사에 따라 단수와 복수가 같은 형태(sheep, deer, fish)이거나 불규칙하게 바뀐다(goose - geese, mouse - mice, wolf - wolves). How many 뒤와 수량 표현 뒤에는 복수형을 쓴다.\n풀이 순서: ① How many 뒤에는 셀 수 있는 명사의 복수형이 온다. → ② goose는 복수형이 불규칙하게 바뀌어 geese가 된다. -s나 -es를 붙이지 않는다. → ③ 정답은 geese.\n문장별 판정:\n정답 판단: goose의 불규칙 복수형이므로 정답은 ②이다.\n선택지 분석:\n① [오답] goose의 복수형은 불규칙 geese이므로 오답이다.\n② [정답] goose의 불규칙 복수형이므로 정답이다.\n③ [오답] How many 뒤에 a + 단수명사를 쓸 수 없으므로 오답이다.\n④ [오답] geese에 -s를 또 붙이지 않으므로 오답이다.\n⑤ [오답] How many 뒤에는 복수형을 쓰므로 오답이다."
+ }
+}

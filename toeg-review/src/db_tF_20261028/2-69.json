@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-26T11:36:52.457Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "(A) coming - (B) turning off the lights",
+      "1": "(A) came - (B) turn off the lights",
+      "2": "(A) to come - (B) turning off the lights",
+      "3": "(A) coming - (B) to turn off the lights",
+      "4": "(A) to come - (B) to turn off the lights"
+    },
+    "expl": "핵심 규칙: remember(forget) + 동명사는 ‘이미 한 일을 기억하다(잊다)’, remember(forget) + to부정사는 ‘앞으로 할 일을 기억하다(잊다)’는 뜻이다.\n풀이 순서: ① remember(forget) 뒤의 형태는 그 일이 이미 한 일인지 앞으로 할 일인지로 정한다. → ② (A)는 before가 있어 이미 한 일이다. 동명사를 쓴다. (B)는 when you leave가 있어 앞으로 할 일이다. to부정사를 쓴다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: (A)는 before가 있어 이미 한 일, (B)는 when you leave가 있어 앞으로 할 일이다.\n선택지 분석:\n① [오답] (B) turning off the lights: 앞으로 할 일(when you leave)이라 to부정사를 써야 하므로 오답이다.\n② [오답] (A) came, (B) turn off the lights: remember 뒤에 과거형이나 동사원형을 쓸 수 없으므로 오답이다.\n③ [오답] (A) to come: 이미 한 일(before)이라 동명사 coming을, (B) turning off the lights: 앞으로 할 일이라 to부정사를 써야 하므로 오답이다.\n④ [정답] (A)는 이미 한 일이라 동명사 coming, (B)는 앞으로 할 일이라 to부정사 to turn off the lights가 알맞으므로 정답이다.\n⑤ [오답] (A) to come: 이미 한 일이라 동명사 coming을 써야 하므로 오답이다.",
+    "passage": "We clearly remember (A)________ here with our parents before, so we know the way.\nRemember (B)________ and lock the door when you leave the room tonight.",
+    "stem": "다음 문장의 빈칸 (A)와 (B)에 들어갈 말이 바르게 연결된 것은?"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T11:36:52.457Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T11:36:52.457Z",
+      "what": "확인 완료"
+    }
+  }
+}

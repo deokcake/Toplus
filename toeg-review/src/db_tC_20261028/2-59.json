@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T03:40:53.769Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "The room was quiet enough for she to study in.",
+      "1": "The room was quiet enough for Mina to study in.",
+      "2": "The room was enough quiet for Mina to study in.",
+      "3": "The room was so enough quiet for Mina to study in.",
+      "4": "The room was quiet enough that Mina to study in."
+    },
+    "expl": "핵심 규칙: ‘매우 ~해서 …할 수 있다’는 형용사 + enough + for + 목적격 + to부정사로 나타낸다. enough는 형용사 뒤에 오고, 의미상 주어는 for + 목적격이며, 문장의 주어가 to부정사의 목적어이면 그 목적어(it, them)는 다시 쓰지 않는다.\n풀이 순서: ① 첫 문장의 형용사(quiet)와 둘째 문장의 주어·동사(Mina could study → for Mina to study)를 뽑는다. → ② ‘형용사 + enough + for + 목적격 + to부정사’ 순서로 잇는다. → ③ enough가 형용사 앞에 온 것, of나 주격을 쓴 것, too로 뜻이 반대가 된 것을 지운다. 정답은 ②.\n문장별 판정:\n정답 판단: 형용사 + enough + for + 목적격 + to부정사로 두 문장의 뜻을 바르게 연결했으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 의미상 주어는 for + 목적격이어야 하는데 주격(소유격)을 썼으므로 오답이다.\n② [정답] 형용사 + enough + for + 목적격 + to부정사로 두 문장의 뜻을 바르게 연결했으므로 정답이다.\n③ [오답] enough는 형용사 뒤에 와야 하는데 앞에 두었으므로 오답이다.\n④ [오답] so와 enough를 함께 쓸 수 없고 enough는 형용사 뒤에 와야 하므로 오답이다.\n⑤ [오답] enough 뒤에 that과 to부정사를 섞어 쓸 수 없으므로 오답이다.",
+    "passage": "<보기>\nThe room was very quiet.\nMina could study in it.\n(‘be ~ enough to ~’구문을 활용할 것)",
+    "stem": "다음 <보기>의 두 문장을 한 문장으로 바르게 연결한 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T03:28:17.217Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T03:40:53.769Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T03:40:53.769Z",
+      "what": "확인 완료"
+    }
+  }
+}

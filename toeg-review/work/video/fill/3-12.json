@@ -1,0 +1,470 @@
+{
+ "A": {
+  "title": "He plays 문장의 의문문",
+  "intro": "이 문제는 일반동사 plays가 쓰인 문장을 바른 현재 의문문으로 바꾼 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장을 현재 의문문으로 올바르게 바꾼 것을 고르세요. He plays soccer. 그는 축구를 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재형 문장의 의문문(예, 아니요로 답하는 것) → be동사가 아니라 Do/Does로 시작",
+    "Do/Does + 주어 + 동사원형 ~? (~하니?)",
+    "3인칭 단수 주어(he, she, it, 단수 명사) → Does",
+    "I, you, we, they, 복수 주어 → Do",
+    "예) She reads books. → Does she read books? (그녀는 책을 읽니?)"
+   ],
+   "narration": "일반동사 현재형 문장을 예, 아니요로 답하는 의문문으로 바꿀 때는 be동사가 아니라 Do나 Does를 주어 앞에 쓰고, 뒤의 동사는 동사원형으로 써요. 주어가 he, she, it 같은 3인칭 단수이면 Does, I, you, we, they나 복수이면 Do를 써요. 예를 들어 She reads books, 그녀는 책을 읽어요. 의문문은 Does she read books? 그녀는 책을 읽니?"
+  },
+  "steps": [
+   {
+    "note": "동사 plays는 일반동사 → be동사로 묻지 않는다. Is로 시작한 ④ 지움",
+    "highlight": [
+     "He plays soccer."
+    ],
+    "strike": [
+     "④ Is he play soccer?"
+    ],
+    "narration": "첫째, 이 문장의 동사 plays는 일반동사라서 be동사로 묻지 않으니, Is로 시작한 4번을 지워요."
+   },
+   {
+    "note": "주어 He는 3인칭 단수 → Does. Do로 시작한 ② 지움",
+    "highlight": [
+     "He"
+    ],
+    "strike": [
+     "② Do he play soccer?"
+    ],
+    "narration": "둘째, 주어 He는 3인칭 단수라 Does를 쓰니, Do로 시작한 2번을 지워요."
+   },
+   {
+    "note": "Does 뒤는 동사원형 play → plays를 쓴 ①, playing을 쓴 ⑤ 지움 → ③",
+    "highlight": [
+     "③ Does he play soccer?"
+    ],
+    "strike": [
+     "① Does he plays soccer?",
+     "⑤ Does he playing soccer?"
+    ],
+    "narration": "셋째, Does 뒤에는 동사원형 play를 쓰니, s형 plays를 쓴 1번과 ing형 playing을 쓴 5번을 지우면 3번이 남아요. Does he play soccer? 그는 축구를 하니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Does he plays soccer?  ✗  Does 뒤에 s형 plays를 썼어요 (원형 play)",
+    "② Do he play soccer?  ✗  3인칭 단수 He에는 Do가 아니라 Does",
+    "③ Does he play soccer?  ✓  Does + 주어 + 동사원형 play",
+    "④ Is he play soccer?  ✗  plays는 일반동사라 be동사 Is로 묻지 않아요",
+    "⑤ Does he playing soccer?  ✗  Does 뒤에 ing형 playing은 쓸 수 없어요"
+   ],
+   "narration": "정답은 3번이에요. 1번을 고르기 쉬운데, 3인칭 단수라는 표시는 Does가 맡으니 뒤의 동사는 plays가 아니라 원형 play로 써요. 2번은 주어 he가 3인칭 단수인데 Do를 써서 틀렸어요. 4번은 plays가 일반동사인데 be동사 Is로 물어서 틀렸어요."
+  },
+  "summary": {
+   "card": "일반동사 현재 의문문: Do/Does + 주어 + 동사원형 ~?  (3인칭 단수 주어 → Does)",
+   "narration": "정답은 3번이에요. 기억할 것, 일반동사 현재 의문문은 Do나 Does 뒤에 동사원형을 쓰고, 3인칭 단수 주어에는 Does를 써요."
+  },
+  "captions": [
+   "He plays 문장의 의문문",
+   "먼저 풀어 보세요",
+   "Do/Does + 주어 + 동사원형",
+   "일반동사 → Does → 원형 play",
+   "정답 ③ Does he play",
+   "3인칭 단수 → Does + 동사원형"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   32,
+   26,
+   11
+  ]
+ },
+ "B": {
+  "title": "She walks 문장의 의문문",
+  "intro": "이 문제는 일반동사 walks가 쓰인 문장을 바른 현재 의문문으로 바꾼 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장을 현재 의문문으로 올바르게 바꾼 것을 고르세요. She walks to school. 그녀는 학교에 걸어가요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재형 문장의 의문문(예, 아니요로 답하는 것) → be동사가 아니라 Do/Does로 시작",
+    "Do/Does + 주어 + 동사원형 ~? (~하니?)",
+    "3인칭 단수 주어(he, she, it, 단수 명사) → Does",
+    "I, you, we, they, 복수 주어 → Do",
+    "예) She reads books. → Does she read books? (그녀는 책을 읽니?)"
+   ],
+   "narration": "일반동사 현재형 문장을 예, 아니요로 답하는 의문문으로 바꿀 때는 be동사가 아니라 Do나 Does를 주어 앞에 쓰고, 뒤의 동사는 동사원형으로 써요. 주어가 he, she, it 같은 3인칭 단수이면 Does, I, you, we, they나 복수이면 Do를 써요. 예를 들어 She reads books, 그녀는 책을 읽어요. 의문문은 Does she read books? 그녀는 책을 읽니?"
+  },
+  "steps": [
+   {
+    "note": "동사 walks는 일반동사 → be동사로 묻지 않는다. Is로 시작한 ① 지움",
+    "highlight": [
+     "She walks to school."
+    ],
+    "strike": [
+     "① Is she walk to school?"
+    ],
+    "narration": "첫째, 이 문장의 동사 walks는 일반동사라서 be동사로 묻지 않으니, Is로 시작한 1번을 지워요."
+   },
+   {
+    "note": "주어 She는 3인칭 단수 → Does. Do로 시작한 ③ 지움",
+    "highlight": [
+     "She"
+    ],
+    "strike": [
+     "③ Do she walk to school?"
+    ],
+    "narration": "둘째, 주어 She는 3인칭 단수라 Does를 쓰니, Do로 시작한 3번을 지워요."
+   },
+   {
+    "note": "Does 뒤는 동사원형 walk → walking을 쓴 ②, walks를 쓴 ④ 지움 → ⑤",
+    "highlight": [
+     "⑤ Does she walk to school?"
+    ],
+    "strike": [
+     "② Does she walking to school?",
+     "④ Does she walks to school?"
+    ],
+    "narration": "셋째, Does 뒤에는 동사원형 walk를 쓰니, ing형 walking을 쓴 2번과 s형 walks를 쓴 4번을 지우면 5번이 남아요. Does she walk to school? 그녀는 학교에 걸어가니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Is she walk to school?  ✗  walks는 일반동사라 be동사 Is로 묻지 않아요",
+    "② Does she walking to school?  ✗  Does 뒤에 ing형 walking은 쓸 수 없어요",
+    "③ Do she walk to school?  ✗  3인칭 단수 She에는 Do가 아니라 Does",
+    "④ Does she walks to school?  ✗  Does 뒤에 s형 walks를 썼어요 (원형 walk)",
+    "⑤ Does she walk to school?  ✓  Does + 주어 + 동사원형 walk"
+   ],
+   "narration": "정답은 5번이에요. 4번을 고르기 쉬운데, 3인칭 단수라는 표시는 Does가 맡으니 뒤의 동사는 walks가 아니라 원형 walk로 써요. 3번은 주어 she가 3인칭 단수인데 Do를 써서 틀렸어요. 1번은 walks가 일반동사인데 be동사 Is로 물어서 틀렸어요."
+  },
+  "summary": {
+   "card": "일반동사 현재 의문문: Do/Does + 주어 + 동사원형 ~?  (3인칭 단수 주어 → Does)",
+   "narration": "정답은 5번이에요. 기억할 것, 일반동사 현재 의문문은 Do나 Does 뒤에 동사원형을 쓰고, 3인칭 단수 주어에는 Does를 써요."
+  },
+  "captions": [
+   "She walks 문장의 의문문",
+   "먼저 풀어 보세요",
+   "Do/Does + 주어 + 동사원형",
+   "일반동사 → Does → 원형 walk",
+   "정답 ⑤ Does she walk",
+   "3인칭 단수 → Does + 동사원형"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   32,
+   26,
+   11
+  ]
+ },
+ "C": {
+  "title": "Jane studies 문장의 의문문",
+  "intro": "이 문제는 일반동사 studies가 쓰인 문장을 바른 현재 의문문으로 바꾼 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장을 현재 의문문으로 올바르게 바꾼 것을 고르세요. Jane studies English. 제인은 영어를 공부해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재형 문장의 의문문(예, 아니요로 답하는 것) → be동사가 아니라 Do/Does로 시작",
+    "Do/Does + 주어 + 동사원형 ~? (~하니?)",
+    "3인칭 단수 주어(he, she, it, 단수 명사) → Does",
+    "I, you, we, they, 복수 주어 → Do",
+    "예) She reads books. → Does she read books? (그녀는 책을 읽니?)"
+   ],
+   "narration": "일반동사 현재형 문장을 예, 아니요로 답하는 의문문으로 바꿀 때는 be동사가 아니라 Do나 Does를 주어 앞에 쓰고, 뒤의 동사는 동사원형으로 써요. 주어가 he, she, it 같은 3인칭 단수이면 Does, I, you, we, they나 복수이면 Do를 써요. 예를 들어 She reads books, 그녀는 책을 읽어요. 의문문은 Does she read books? 그녀는 책을 읽니?"
+  },
+  "steps": [
+   {
+    "note": "동사 studies는 일반동사 → be동사로 묻지 않는다. Is로 시작한 ④ 지움",
+    "highlight": [
+     "Jane studies English."
+    ],
+    "strike": [
+     "④ Is Jane study English?"
+    ],
+    "narration": "첫째, 이 문장의 동사 studies는 일반동사라서 be동사로 묻지 않으니, Is로 시작한 4번을 지워요."
+   },
+   {
+    "note": "주어 Jane은 한 사람 → 3인칭 단수 → Does. Do로 시작한 ③ 지움",
+    "highlight": [
+     "Jane studies English."
+    ],
+    "strike": [
+     "③ Do Jane study English?"
+    ],
+    "narration": "둘째, 주어 Jane은 한 사람을 가리키는 3인칭 단수라 Does를 쓰니, Do로 시작한 3번을 지워요."
+   },
+   {
+    "note": "Does 뒤는 동사원형 study → studies를 쓴 ②, studying을 쓴 ⑤ 지움 → ①",
+    "highlight": [
+     "① Does Jane study English?"
+    ],
+    "strike": [
+     "② Does Jane studies English?",
+     "⑤ Does Jane studying English?"
+    ],
+    "narration": "셋째, Does 뒤에는 동사원형 study를 써요. studies를 그대로 쓴 2번과 ing형 studying을 쓴 5번을 지우면 1번이 남아요. Does Jane study English? 제인은 영어를 공부하니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Does Jane study English?  ✓  Does + 주어 + 동사원형 study",
+    "② Does Jane studies English?  ✗  Does 뒤에 studies를 그대로 썼어요 (원형 study)",
+    "③ Do Jane study English?  ✗  한 사람인 Jane은 3인칭 단수 → Does",
+    "④ Is Jane study English?  ✗  studies는 일반동사라 be동사 Is로 묻지 않아요",
+    "⑤ Does Jane studying English?  ✗  Does 뒤에 ing형 studying은 쓸 수 없어요"
+   ],
+   "narration": "정답은 1번이에요. 2번을 고르기 쉬운데, 3인칭 단수라는 표시는 Does가 맡으니 뒤의 동사는 studies가 아니라 원형 study로 써요. 3번은 Jane이 한 사람이라 3인칭 단수인데 Do를 써서 틀렸어요. 4번은 studies가 일반동사인데 be동사 Is로 물어서 틀렸어요."
+  },
+  "summary": {
+   "card": "일반동사 현재 의문문: Do/Does + 주어 + 동사원형 ~?  (3인칭 단수 주어 → Does)",
+   "narration": "정답은 1번이에요. 기억할 것, 일반동사 현재 의문문은 Do나 Does 뒤에 동사원형을 쓰고, 3인칭 단수 주어에는 Does를 써요."
+  },
+  "captions": [
+   "Jane studies 문장의 의문문",
+   "먼저 풀어 보세요",
+   "Do/Does + 주어 + 동사원형",
+   "일반동사 → Does → 원형 study",
+   "정답 ① Does Jane study",
+   "3인칭 단수 → Does + 동사원형"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   33,
+   26,
+   11
+  ]
+ },
+ "D": {
+  "title": "They watch 문장의 의문문",
+  "intro": "이 문제는 일반동사 watch가 쓰인 문장을 바른 현재 의문문으로 바꾼 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장을 현재 의문문으로 올바르게 바꾼 것을 고르세요. They watch TV. 그들은 TV를 봐요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재형 문장의 의문문(예, 아니요로 답하는 것) → be동사가 아니라 Do/Does로 시작",
+    "Do/Does + 주어 + 동사원형 ~? (~하니?)",
+    "3인칭 단수 주어(he, she, it, 단수 명사) → Does",
+    "I, you, we, they, 복수 주어 → Do",
+    "예) She reads books. → Does she read books? (그녀는 책을 읽니?)"
+   ],
+   "narration": "일반동사 현재형 문장을 예, 아니요로 답하는 의문문으로 바꿀 때는 be동사가 아니라 Do나 Does를 주어 앞에 쓰고, 뒤의 동사는 동사원형으로 써요. 주어가 he, she, it 같은 3인칭 단수이면 Does, I, you, we, they나 복수이면 Do를 써요. 예를 들어 She reads books, 그녀는 책을 읽어요. 의문문은 Does she read books? 그녀는 책을 읽니?"
+  },
+  "steps": [
+   {
+    "note": "동사 watch는 일반동사 → be동사로 묻지 않는다. Are로 시작한 ④ 지움",
+    "highlight": [
+     "They watch TV."
+    ],
+    "strike": [
+     "④ Are they watch TV?"
+    ],
+    "narration": "첫째, 이 문장의 동사 watch는 일반동사라서 be동사로 묻지 않으니, Are로 시작한 4번을 지워요."
+   },
+   {
+    "note": "주어 They는 여럿, 복수 → Do. Does로 시작한 ② 지움",
+    "highlight": [
+     "They"
+    ],
+    "strike": [
+     "② Does they watch TV?"
+    ],
+    "narration": "둘째, 주어 They는 여럿을 가리키는 복수라 Do를 쓰니, Does로 시작한 2번을 지워요."
+   },
+   {
+    "note": "Do 뒤는 동사원형 watch → watching을 쓴 ①, watches를 쓴 ⑤ 지움 → ③",
+    "highlight": [
+     "③ Do they watch TV?"
+    ],
+    "strike": [
+     "① Do they watching TV?",
+     "⑤ Do they watches TV?"
+    ],
+    "narration": "셋째, Do 뒤에는 동사원형 watch를 쓰니, ing형 watching을 쓴 1번과 watches를 쓴 5번을 지우면 3번이 남아요. Do they watch TV? 그들은 TV를 보니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Do they watching TV?  ✗  Do 뒤에 ing형 watching은 쓸 수 없어요",
+    "② Does they watch TV?  ✗  복수 They에는 Does가 아니라 Do",
+    "③ Do they watch TV?  ✓  Do + 주어 + 동사원형 watch",
+    "④ Are they watch TV?  ✗  watch는 일반동사라 be동사 Are로 묻지 않아요",
+    "⑤ Do they watches TV?  ✗  Do 뒤에 es를 붙인 watches를 썼어요 (원형 watch)"
+   ],
+   "narration": "정답은 3번이에요. 2번의 Does는 he, she, it 같은 3인칭 단수 주어에 써요. They는 여럿이라 Do를 써야 해요. 4번은 watch가 일반동사인데 be동사 Are로 물어서 틀렸어요. 5번은 Do 뒤에 watches를 썼는데, 이 자리에는 원형 watch를 써요."
+  },
+  "summary": {
+   "card": "일반동사 현재 의문문: Do/Does + 주어 + 동사원형 ~?  (I, you, we, they, 복수 주어 → Do)",
+   "narration": "정답은 3번이에요. 기억할 것, 일반동사 현재 의문문은 Do나 Does 뒤에 동사원형을 쓰고, I, you나 복수 주어에는 Do를 써요."
+  },
+  "captions": [
+   "They watch 문장의 의문문",
+   "먼저 풀어 보세요",
+   "Do/Does + 주어 + 동사원형",
+   "일반동사 → Do → 원형 watch",
+   "정답 ③ Do they watch",
+   "복수 주어 → Do + 동사원형"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   32,
+   26,
+   11
+  ]
+ },
+ "E": {
+  "title": "You like 문장의 의문문",
+  "intro": "이 문제는 일반동사 like가 쓰인 문장을 바른 현재 의문문으로 바꾼 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장을 현재 의문문으로 올바르게 바꾼 것을 고르세요. You like music. 너는 음악을 좋아해. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재형 문장의 의문문(예, 아니요로 답하는 것) → be동사가 아니라 Do/Does로 시작",
+    "Do/Does + 주어 + 동사원형 ~? (~하니?)",
+    "3인칭 단수 주어(he, she, it, 단수 명사) → Does",
+    "I, you, we, they, 복수 주어 → Do",
+    "예) She reads books. → Does she read books? (그녀는 책을 읽니?)"
+   ],
+   "narration": "일반동사 현재형 문장을 예, 아니요로 답하는 의문문으로 바꿀 때는 be동사가 아니라 Do나 Does를 주어 앞에 쓰고, 뒤의 동사는 동사원형으로 써요. 주어가 he, she, it 같은 3인칭 단수이면 Does, I, you, we, they나 복수이면 Do를 써요. 예를 들어 She reads books, 그녀는 책을 읽어요. 의문문은 Does she read books? 그녀는 책을 읽니?"
+  },
+  "steps": [
+   {
+    "note": "동사 like(좋아하다)는 일반동사 → be동사로 묻지 않는다. Are로 시작한 ⑤ 지움",
+    "highlight": [
+     "You like music."
+    ],
+    "strike": [
+     "⑤ Are you like music?"
+    ],
+    "narration": "첫째, 이 문장의 like는 좋아하다라는 뜻의 일반동사라서 be동사로 묻지 않으니, Are로 시작한 5번을 지워요."
+   },
+   {
+    "note": "주어 You는 3인칭 단수가 아니다 → Do. Does로 시작한 ③ 지움",
+    "highlight": [
+     "You"
+    ],
+    "strike": [
+     "③ Does you like music?"
+    ],
+    "narration": "둘째, 주어 You는 한 사람을 가리켜도 3인칭 단수가 아니라서 Do를 쓰니, Does로 시작한 3번을 지워요."
+   },
+   {
+    "note": "Do 뒤는 동사원형 like → likes를 쓴 ①, liking을 쓴 ② 지움 → ④",
+    "highlight": [
+     "④ Do you like music?"
+    ],
+    "strike": [
+     "① Do you likes music?",
+     "② Do you liking music?"
+    ],
+    "narration": "셋째, Do 뒤에는 동사원형 like를 쓰니, s형 likes를 쓴 1번과 ing형 liking을 쓴 2번을 지우면 4번이 남아요. Do you like music? 너는 음악을 좋아하니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Do you likes music?  ✗  Do 뒤에 s형 likes를 썼어요 (원형 like)",
+    "② Do you liking music?  ✗  Do 뒤에 ing형 liking은 쓸 수 없어요",
+    "③ Does you like music?  ✗  you는 3인칭 단수가 아니라서 Does 대신 Do",
+    "④ Do you like music?  ✓  Do + 주어 + 동사원형 like",
+    "⑤ Are you like music?  ✗  좋아하다라는 뜻의 like는 일반동사라 be동사 Are로 묻지 않아요"
+   ],
+   "narration": "정답은 4번이에요. 3번은 you를 한 사람이라고 보고 Does를 썼는데, you는 한 사람을 가리켜도 3인칭 단수가 아니라서 Do를 써요. 5번은 좋아하다라는 뜻의 일반동사 like를 be동사 Are로 물어서 틀렸어요. 1번은 Do 뒤에 likes를 썼는데, 이 자리에는 원형 like를 써요."
+  },
+  "summary": {
+   "card": "일반동사 현재 의문문: Do/Does + 주어 + 동사원형 ~?  (I, you, we, they, 복수 주어 → Do)",
+   "narration": "정답은 4번이에요. 기억할 것, 일반동사 현재 의문문은 Do나 Does 뒤에 동사원형을 쓰고, I, you나 복수 주어에는 Do를 써요."
+  },
+  "captions": [
+   "You like 문장의 의문문",
+   "먼저 풀어 보세요",
+   "Do/Does + 주어 + 동사원형",
+   "일반동사 → Do → 원형 like",
+   "정답 ④ Do you like",
+   "you, 복수 주어 → Do + 동사원형"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   33,
+   27,
+   11
+  ]
+ },
+ "F": {
+  "title": "Tom goes 문장의 의문문",
+  "intro": "이 문제는 일반동사 goes가 쓰인 문장을 바른 현재 의문문으로 바꾼 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장을 현재 의문문으로 올바르게 바꾼 것을 고르세요. Tom goes to school. 톰은 학교에 가요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재형 문장의 의문문(예, 아니요로 답하는 것) → be동사가 아니라 Do/Does로 시작",
+    "Do/Does + 주어 + 동사원형 ~? (~하니?)",
+    "3인칭 단수 주어(he, she, it, 단수 명사) → Does",
+    "I, you, we, they, 복수 주어 → Do",
+    "예) She reads books. → Does she read books? (그녀는 책을 읽니?)"
+   ],
+   "narration": "일반동사 현재형 문장을 예, 아니요로 답하는 의문문으로 바꿀 때는 be동사가 아니라 Do나 Does를 주어 앞에 쓰고, 뒤의 동사는 동사원형으로 써요. 주어가 he, she, it 같은 3인칭 단수이면 Does, I, you, we, they나 복수이면 Do를 써요. 예를 들어 She reads books, 그녀는 책을 읽어요. 의문문은 Does she read books? 그녀는 책을 읽니?"
+  },
+  "steps": [
+   {
+    "note": "동사 goes는 일반동사 → be동사로 묻지 않는다. Is로 시작한 ③ 지움",
+    "highlight": [
+     "Tom goes to school."
+    ],
+    "strike": [
+     "③ Is Tom go to school?"
+    ],
+    "narration": "첫째, 이 문장의 동사 goes는 일반동사라서 be동사로 묻지 않으니, Is로 시작한 3번을 지워요."
+   },
+   {
+    "note": "주어 Tom은 한 사람 → 3인칭 단수 → Does. Do로 시작한 ④ 지움",
+    "highlight": [
+     "Tom goes to school."
+    ],
+    "strike": [
+     "④ Do Tom go to school?"
+    ],
+    "narration": "둘째, 주어 Tom은 한 사람을 가리키는 3인칭 단수라 Does를 쓰니, Do로 시작한 4번을 지워요."
+   },
+   {
+    "note": "Does 뒤는 동사원형 go → going을 쓴 ①, goes를 쓴 ⑤ 지움 → ②",
+    "highlight": [
+     "② Does Tom go to school?"
+    ],
+    "strike": [
+     "① Does Tom going to school?",
+     "⑤ Does Tom goes to school?"
+    ],
+    "narration": "셋째, Does 뒤에는 동사원형 go를 써요. ing형 going을 쓴 1번과 goes를 그대로 쓴 5번을 지우면 2번이 남아요. Does Tom go to school? 톰은 학교에 가니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Does Tom going to school?  ✗  Does 뒤에 ing형 going은 쓸 수 없어요",
+    "② Does Tom go to school?  ✓  Does + 주어 + 동사원형 go",
+    "③ Is Tom go to school?  ✗  goes는 일반동사라 be동사 Is로 묻지 않아요",
+    "④ Do Tom go to school?  ✗  한 사람인 Tom은 3인칭 단수 → Does",
+    "⑤ Does Tom goes to school?  ✗  Does 뒤에 goes를 그대로 썼어요 (원형 go)"
+   ],
+   "narration": "정답은 2번이에요. 5번을 고르기 쉬운데, 3인칭 단수라는 표시는 Does가 맡으니 뒤의 동사는 goes가 아니라 원형 go로 써요. 4번은 Tom이 한 사람이라 3인칭 단수인데 Do를 써서 틀렸어요. 3번은 goes가 일반동사인데 be동사 Is로 물어서 틀렸어요."
+  },
+  "summary": {
+   "card": "일반동사 현재 의문문: Do/Does + 주어 + 동사원형 ~?  (3인칭 단수 주어 → Does)",
+   "narration": "정답은 2번이에요. 기억할 것, 일반동사 현재 의문문은 Do나 Does 뒤에 동사원형을 쓰고, 3인칭 단수 주어에는 Does를 써요."
+  },
+  "captions": [
+   "Tom goes 문장의 의문문",
+   "먼저 풀어 보세요",
+   "Do/Does + 주어 + 동사원형",
+   "일반동사 → Does → 원형 go",
+   "정답 ② Does Tom go",
+   "3인칭 단수 → Does + 동사원형"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   33,
+   26,
+   11
+  ]
+ }
+}

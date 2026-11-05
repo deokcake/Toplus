@@ -1,0 +1,44 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:34:13.614Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "<u>When</u> did you get home last night?",
+      "1": "<u>When</u> is the school concert this year?",
+      "2": "<u>When</u> my dog was sick, I felt very sad.",
+      "3": "<u>When</u> will the next bus come here?",
+      "4": "<u>When</u> do you usually play soccer with your friends?"
+    },
+    "expl": "핵심 규칙: 접속사 when은 ‘~할 때’라는 시간의 부사절(주어 + 동사)을 이끌고, 의문사 when은 ‘언제’라고 묻는 의문문을 이끈다.\n풀이 순서: ① 문장 끝에 물음표가 있고 when 뒤가 의문문 어순(do/does/did·be동사 + 주어)이면 ‘언제’를 묻는 의문사다. → ② 그렇지 않고 두 절을 이으면 ‘~할 때’라는 접속사다. → ③ 선택지 ③만 ‘(개가) 아팠을 때’라는 접속사다. 나머지는 ‘언제’를 묻는 의문사다. 정답은 ③.\n문장별 판정:\n정답 판단: 접속사 when: ‘~할 때’라는 시간의 부사절을 이끌므로 나머지와 달라 정답은 ③이다.\n선택지 분석:\n① [오답] 의문사 when: ‘언제’라고 묻는 의문문을 이끌므로 오답이다.\n② [오답] 의문사 when: ‘언제’라고 묻는 의문문을 이끌므로 오답이다.\n③ [정답] 접속사 when: ‘~할 때’라는 시간의 부사절을 이끌므로 나머지와 달라 정답이다.\n④ [오답] 의문사 when: ‘언제’라고 묻는 의문문을 이끌므로 오답이다.\n⑤ [오답] 의문사 when: ‘언제’라고 묻는 의문문을 이끌므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 밑줄 친 'when'의 쓰임이 나머지 넷과 다른 하나는?"
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:48:49.090Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T06:29:46.031Z",
+      "text": "선택지 문항이 전체적으로 기준문항에 비해 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:34:13.614Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:34:06.613Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:48:56.670Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:34:13.614Z",
+      "what": "확인 완료"
+    }
+  }
+}

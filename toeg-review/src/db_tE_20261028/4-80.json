@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T08:22:23.871Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(나), (다), (마)",
+      "1": null,
+      "2": "(나), (라), (마)",
+      "3": "(가), (다), (마)",
+      "4": "(다), (라), (마)"
+    },
+    "expl": "핵심 규칙: 비교급·최상급에는 -er·-est와 more·most를 겹쳐 쓰지 않고, good - better - best, bad - worse - worst 같은 불규칙 변화를 바르게 쓴다.\n풀이 순서: ① 문장마다 비교급·최상급의 형태만 본다. → ② more/most와 -er/-est를 겹쳐 쓴 문장, 불규칙 변화를 규칙형으로 쓴 문장을 지운다. → ③ (가) more heavier, (다) gooder가 틀렸다. 옳은 문장만 묶은 (나), (라), (마)가 정답이다.\n문장별 판정:\n(가) X. heavier에 more를 겹쳐 쓸 수 없다.\n(나) O. 긴 단어 beautiful에 most를 썼다.\n(다) X. good의 비교급은 better이다.\n(라) O. bad의 최상급 worst이다.\n(마) O. big의 비교급 bigger이다.\n정답 판단: 어법상 옳은 문장은 (나), (라), (마)이다.\n선택지 분석:\n① [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (라)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (가), (다)는 옳은 문장이 아니고, 옳은 문장 (라), (마)를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 옳은 문장 (나), (라), (마)를 빠짐없이 골랐으므로 정답이다.\n④ [오답] (가), (다)는 옳은 문장이 아니고, 옳은 문장 (나), (라)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (나)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "<보기>\n(가) This blue bag is more heavier than that red one.\n(나) Jane is the most beautiful girl in the class picture.\n(다) Tom is gooder than his friend Ben at soccer.\n(라) This is the worst day of the whole week for me.\n(마) The dog is bigger than the cat in the yard.",
+    "stem": "다음 <보기> 중 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T08:22:11.681Z"
+  },
+  "tab": "x2buc7cy",
+  "updatedAt": "2026-10-27T08:22:23.871Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T08:22:23.871Z",
+      "what": "확인 완료"
+    }
+  }
+}

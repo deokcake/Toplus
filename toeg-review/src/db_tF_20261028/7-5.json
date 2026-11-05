@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:38:21.528Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 불규칙 복수형: foot - feet, tooth - teeth, goose - geese, man - men, woman - women, child - children, mouse - mice, person - people. sheep, fish, deer는 단수와 복수가 같다.\n풀이 순서: ① two, three 뒤이므로 두 빈칸 모두 복수형이 필요하다. → ② (A): mouse → mice. (B): deer는 복수도 deer. → ③ 정답은 mice - deer.\n문장별 판정:\n정답 판단: (A)와 (B)에 알맞은 복수형을 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] (A): mouse의 복수형은 mice이므로, (B): deer는 단수와 복수가 같으므로 오답이다.\n② [오답] (A): mouse의 복수형은 mice이므로 오답이다.\n③ [정답] (A)와 (B)에 알맞은 복수형을 바르게 썼으므로 정답이다.\n④ [오답] (A): mouse의 복수형은 mice이므로 오답이다.\n⑤ [오답] (B): deer는 단수와 복수가 같으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 문장의 빈칸 (A)와 (B)에 들어갈 말이 바르게 짝지어진 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:38:20.330Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:38:21.528Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:38:21.528Z",
+      "what": "확인 완료"
+    }
+  }
+}

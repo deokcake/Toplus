@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-26T06:35:40.207Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "a, b, d",
+      "1": "a, c, e",
+      "2": "b, c, d",
+      "3": "b, d, e",
+      "4": "a, b, c"
+    },
+    "expl": "핵심 규칙: ask·tell·advise·order·allow + 목적어 + to부정사를 수동태로 바꾸면 be + 과거분사 뒤에 to부정사를 그대로 둔다. call off, look into, take care of 같은 구동사는 수동태에서도 전치사·부사를 빠뜨리지 않는다.\n풀이 순서: ① 화살표 앞뒤를 견주며 두 가지만 본다. 능동문의 to부정사가 수동문에서도 to부정사로 남았는지, 구동사의 전치사·부사가 수동문에 남았는지. → ② a는 to returning으로 to부정사가 깨졌고, b는 carry out의 out이, d는 deal with의 with가 빠졌다. c의 were invited to have와 e의 was ordered to stop은 옳다. → ③ 틀린 세 문장을 모은 a, b, d를 고른다.\n문장별 판정:\na) 틀림: were advised 뒤에는 to + 동사원형이 온다. to returning → to return.\nb) 틀림: carry out의 out을 빠뜨렸다. was carried → was carried out.\nc) 옳음: were invited 뒤에 to have를 그대로 두었다.\nd) 틀림: deal with의 with를 빠뜨렸다. was dealt → was dealt with.\ne) 옳음: was ordered 뒤에 to stop을 그대로 두었다.\n정답 판단: 어법상 틀린 문장은 a, b, d이다.\n선택지 분석:\n① [정답] 틀린 문장 a, b, d를 빠짐없이 골랐으므로 정답이다.\n② [오답] c, e는 틀린 문장이 아니고, 틀린 문장 b, d를 빠뜨렸다. 따라서 오답이다.\n③ [오답] c는 틀린 문장이 아니고, 틀린 문장 a를 빠뜨렸다. 따라서 오답이다.\n④ [오답] e는 틀린 문장이 아니고, 틀린 문장 a를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] c는 틀린 문장이 아니고, 틀린 문장 d를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "a) The librarian advised the kids to return the books on time.\n→ The kids were advised to returning the books on time by the librarian.\nb) The city carried out the plan for a new park.\n→ The plan for a new park was carried by the city.\nc) Our neighbors invited us to have dinner at their house.\n→ We were invited to have dinner at their house by our neighbors.\nd) The staff dealt with the complaint quickly and politely.\n→ The complaint was dealt quickly and politely by the staff.\ne) The police ordered the driver to stop at the corner.\n→ The driver was ordered to stop at the corner by the police.",
+    "stem": "다음 중 어법상 틀린 문장을 모두 고르시오."
+  },
+  "tab": "ij7ic6nx",
+  "updatedAt": "2026-10-26T06:35:40.207Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:35:40.207Z",
+      "what": "확인 완료"
+    }
+  }
+}

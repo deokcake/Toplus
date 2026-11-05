@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:14:43.454Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": null,
+      "1": "(A) at - (B) in",
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 시각·정오·밤 앞에는 at, 요일·날짜 앞에는 on, 월·계절·연도·오전/오후/저녁 앞에는 in을 쓴다. 장소는 특정 지점에 at, 표면 위에 on, 안쪽이나 도시·나라에 in을 쓴다.\n풀이 순서: ① (A) 뒤의 말: Saturday morning(특정 요일의 아침) → on. → ② (B) 뒤의 말: the afternoon → in. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 특정 요일의 아침 앞에 on, the afternoon 앞에 in을 바르게 짝지었으므로 정답은 ③이다.\n선택지 분석:\n① [오답] (B): ‘오후에’는 in the afternoon으로 쓰므로 오답이다.\n② [오답] (A): 특정 요일의 아침(Saturday morning) 앞에는 on을 쓰므로 오답이다.\n③ [정답] 특정 요일의 아침 앞에 on, the afternoon 앞에 in을 바르게 짝지었으므로 정답이다.\n④ [오답] (B): ‘오후에’는 in the afternoon으로 쓰므로 오답이다.\n⑤ [오답] (A): 특정 요일의 아침 앞에는 on을, (B): the afternoon 앞에는 in을 쓰므로 오답이다.",
+    "passage": "The school fair starts (A)_______ Saturday morning and ends (B)_______ the afternoon.",
+    "stem": "다음 빈칸 (A)와 (B)에 들어갈 전치사가 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T08:14:42.831Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T08:14:43.454Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T08:14:43.454Z",
+      "what": "확인 완료"
+    }
+  }
+}

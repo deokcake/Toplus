@@ -1,0 +1,483 @@
+{
+ "A": {
+  "title": "주어 she에 맞는 be동사로 묻고 답하기",
+  "intro": "이 문제는 주어 she에 맞는 be동사로 묻고 답한 대화를 고르는 문제예요.",
+  "problem_narration": "다음 중 질문과 대답이 바르게 연결된 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "묻기: be동사(Am, Are, Is) + 주어 ~?",
+    "대답: Yes, 주어 + be동사. / No, 주어 + be동사 + not.",
+    "be동사: I → am · you, 둘 이상 → are · he, she, it 같은 3인칭 단수 → is",
+    "예) Is he a doctor? — No, he is not. (그는 의사니? 아니, 의사가 아니야.)"
+   ],
+   "narration": "be동사는 주어에 맞춰 써요. I는 am, you와 둘 이상은 are, he, she, it 같은 3인칭 단수는 is예요. 물을 때는 be동사를 주어 앞에 쓰고, 대답은 Yes나 No 뒤에 대명사 주어와 be동사를 쓰는데, No면 not을 붙여요. Is he a doctor? 그는 의사니? No, he is not. 아니, 의사가 아니야."
+  },
+  "steps": [
+   {
+    "note": "질문: 주어 she → Is로 묻는다. Are she(②), Am she(⑤)를 지운다.",
+    "highlight": [
+     "Are she",
+     "Am she"
+    ],
+    "strike": [
+     "② Are she a cook? - Yes, she is.",
+     "⑤ Am she a cook? - No, she is not."
+    ],
+    "narration": "첫째, 질문의 주어 she에는 is를 쓰니까, Are she로 물은 2번과 Am she로 물은 5번을 지워요."
+   },
+   {
+    "note": "대답: 주어 she → she is / she is not. she are(③), she are not(④)을 지운다.",
+    "highlight": [
+     "she are.",
+     "she are not."
+    ],
+    "strike": [
+     "③ Is she a cook? - Yes, she are.",
+     "④ Is she a cook? - No, she are not."
+    ],
+    "narration": "둘째, 대답의 주어도 she라서 is를 써야 하니까, she are를 쓴 3번과 she are not을 쓴 4번도 지워요."
+   },
+   {
+    "note": "남는 것 ① → Is she a cook? - Yes, she is.",
+    "highlight": [
+     "① Is she a cook? - Yes, she is."
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 1번이에요. Is she a cook? 그녀는 요리사니? Yes, she is. 응, 요리사야."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Is she a cook? - Yes, she is.  ✓  she에 Is로 묻고 is로 답했어요",
+    "② Are she a cook? - Yes, she is.  ✗  she에는 Are가 아니라 Is로 물어요",
+    "③ Is she a cook? - Yes, she are.  ✗  대답의 she에는 are가 아니라 is",
+    "④ Is she a cook? - No, she are not.  ✗  she에는 are not이 아니라 is not",
+    "⑤ Am she a cook? - No, she is not.  ✗  Am은 주어 I에만 써요"
+   ],
+   "narration": "정답은 1번이에요. 3번은 질문은 맞지만, 대답에서 she에 are를 써서 틀렸어요. 4번도 she에 are not을 썼는데, she에는 is not을 써야 해요. 5번의 Am은 주어가 I일 때만 써요."
+  },
+  "summary": {
+   "card": "질문도 대답도 주어에 맞는 be동사 (she → Is ~? / she is)",
+   "narration": "정답은 1번이에요. 기억할 것, 질문과 대답 모두 주어에 맞는 be동사를 써요. she에는 is예요."
+  },
+  "captions": [
+   "she에 맞는 be동사로 묻고 답하기",
+   "먼저 풀어 보세요",
+   "be동사는 주어에 맞춰요",
+   "질문 Is she → 대답 she is",
+   "정답 ① Yes, she is.",
+   "질문·대답 모두 주어에 맞게"
+  ],
+  "sec": [
+   10,
+   15,
+   30,
+   32,
+   22,
+   10
+  ]
+ },
+ "B": {
+  "title": "대답의 주어와 be동사 맞추기",
+  "intro": "이 문제는 질문에 알맞은 주어와 be동사로 대답한 대화를 고르는 문제예요.",
+  "problem_narration": "다음 중 질문과 대답이 바르게 연결된 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 + 주어 ~? → Yes, 주어 + be동사. / No, 주어 + be동사 + not.",
+    "대답의 주어는 대명사로: you(너) → I, I → you, Tom → he",
+    "be동사: I → am · you, 둘 이상 → are · he, she, it 같은 3인칭 단수 → is",
+    "is not = isn't, are not = aren't",
+    "예) Is your mom at home? — Yes, she is. (너희 엄마는 집에 계시니? 응, 계셔.)"
+   ],
+   "narration": "be동사로 물으면 Yes나 No 뒤에 주어와 be동사로 답하고, No면 not을 붙여요. 주어는 대명사로 바꾸는데, 너를 뜻하는 you는 I로, I는 you로 받아요. be동사는 그 주어에 맞춰 I는 am, you와 둘 이상은 are, 3인칭 단수는 is예요. Is your mom at home? 너희 엄마는 집에 계시니? Yes, she is. 응, 계셔."
+  },
+  "steps": [
+   {
+    "note": "질문 다섯 개는 모두 주어에 맞는 be동사로 시작 → 대답의 주어와 be동사를 본다.",
+    "highlight": [
+     "Is he",
+     "Is Tom",
+     "Are they",
+     "Am I",
+     "Are you"
+    ],
+    "strike": [],
+    "narration": "첫째, 질문 다섯 개는 모두 주어에 맞는 be동사로 시작하니까, 대답의 주어와 be동사를 봐요."
+   },
+   {
+    "note": "he → is, they·you → are. he are(①), he aren't(②), they isn't(③), you isn't(④)를 지운다.",
+    "highlight": [
+     "he are.",
+     "he aren't.",
+     "they isn't.",
+     "you isn't."
+    ],
+    "strike": [
+     "① Is he a student? - Yes, he are.",
+     "② Is Tom home? - No, he aren't.",
+     "③ Are they friends? - No, they isn't.",
+     "④ Am I late? - No, you isn't."
+    ],
+    "narration": "둘째, he에는 is, they와 you에는 are를 쓰니까, he are, he aren't, they isn't, you isn't를 쓴 1번부터 4번은 모두 틀렸어요."
+   },
+   {
+    "note": "남는 것 ⑤: you(너)로 물으면 I로 답하고, I에는 am → Yes, I am.",
+    "highlight": [
+     "⑤ Are you at home? - Yes, I am."
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 5번은 너에게 묻는 you를 I로 받고 am을 썼어요. Are you at home? 너는 집에 있니? Yes, I am. 응, 집에 있어."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Is he a student? - Yes, he are.  ✗  he에는 are가 아니라 is",
+    "② Is Tom home? - No, he aren't.  ✗  Tom → he는 맞지만 he에는 isn't",
+    "③ Are they friends? - No, they isn't.  ✗  they에는 isn't가 아니라 aren't",
+    "④ Am I late? - No, you isn't.  ✗  I → you는 맞지만 you에는 aren't",
+    "⑤ Are you at home? - Yes, I am.  ✓  you(너)로 물으면 I로, I에는 am"
+   ],
+   "narration": "정답은 5번이에요. 2번은 Tom을 he로 바꾼 것은 맞지만, he에는 aren't가 아니라 isn't를 써요. 4번은 질문의 I를 you로 바꾼 것은 맞지만, you에는 isn't가 아니라 aren't를 써요. 3번은 they에 isn't를 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "대답의 주어는 대명사로 바꾸고 (you → I, I → you), be동사는 그 주어에 맞춰요",
+   "narration": "정답은 5번이에요. 기억할 것, 대답의 주어는 대명사로 바꾸고, be동사는 바뀐 주어에 맞춰요."
+  },
+  "captions": [
+   "대답의 주어와 be동사 맞추기",
+   "먼저 풀어 보세요",
+   "대답: 대명사 주어 + be동사",
+   "he → is, they·you → are",
+   "정답 ⑤ Yes, I am.",
+   "be동사는 대답의 주어에 맞게"
+  ],
+  "sec": [
+   11,
+   15,
+   32,
+   36,
+   24,
+   10
+  ]
+ },
+ "C": {
+  "title": "대답의 대명사와 be동사",
+  "intro": "이 문제는 알맞은 대명사와 be동사로 대답한 대화를 고르는 문제예요.",
+  "problem_narration": "다음 중 질문과 대답이 바르게 연결된 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 + 주어 ~? → Yes, 주어 + be동사. / No, 주어 + be동사 + not.",
+    "대답의 주어는 대명사로: you(너) → I, I → you, Tom → he, 여럿을 가리키는 명사 → they",
+    "be동사: I → am · you, 둘 이상 → are · he, she, it 같은 3인칭 단수 → is",
+    "is not = isn't, are not = aren't",
+    "예) Are the dogs big? — Yes, they are. (그 개들은 크니? 응, 커.)"
+   ],
+   "narration": "be동사로 물으면 Yes나 No 뒤에 주어와 be동사로 답하고, No면 not을 붙여요. 주어는 대명사로 바꾸는데, 질문의 I는 you로, 여럿을 가리키는 명사는 they로 받아요. be동사는 그 주어에 맞춰 I는 am, you와 둘 이상은 are, 3인칭 단수는 is예요. Are the dogs big? 그 개들은 크니? Yes, they are. 응, 커."
+  },
+  "steps": [
+   {
+    "note": "대답의 주어: the kids(여럿) → they, 질문의 I → you. Yes, it is(②), Yes, I am(④)을 지운다.",
+    "highlight": [
+     "the kids",
+     "Yes, it is.",
+     "Am I right?",
+     "Yes, I am."
+    ],
+    "strike": [
+     "② Are the kids at school? - Yes, it is.",
+     "④ Am I right? - Yes, I am."
+    ],
+    "narration": "첫째, 여러 아이인 the kids는 it이 아니라 they로, 질문의 I는 대답에서 you로 받아야 하니까, 2번과 4번을 지워요."
+   },
+   {
+    "note": "be동사: it → is, she → isn't. it are(①), she aren't(⑤)를 지운다.",
+    "highlight": [
+     "it are.",
+     "she aren't."
+    ],
+    "strike": [
+     "① Is it your bag? - Yes, it are.",
+     "⑤ Is she your aunt? - No, she aren't."
+    ],
+    "narration": "둘째, it에는 are가 아니라 is, she에는 aren't가 아니라 isn't를 쓰니까, 1번과 5번도 지워요."
+   },
+   {
+    "note": "남는 것 ③: Tom → he, he → isn't.",
+    "highlight": [
+     "③ Is Tom at school? - No, he isn't."
+    ],
+    "strike": [],
+    "narration": "셋째, Tom을 he로 받고 isn't를 쓴 3번이 남아요. Is Tom at school? 톰은 학교에 있니? No, he isn't. 아니, 없어."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Is it your bag? - Yes, it are.  ✗  it에는 are가 아니라 is",
+    "② Are the kids at school? - Yes, it is.  ✗  the kids는 they로 받아 Yes, they are",
+    "③ Is Tom at school? - No, he isn't.  ✓  Tom을 he로 받고 isn't",
+    "④ Am I right? - Yes, I am.  ✗  I로 물으면 you로 받아 Yes, you are",
+    "⑤ Is she your aunt? - No, she aren't.  ✗  she에는 aren't가 아니라 isn't"
+   ],
+   "narration": "정답은 3번이에요. 4번을 고른 학생은 질문의 I를 대답에도 그대로 썼을 거예요. 하지만 묻는 사람이 자기를 I라고 하면, 대답하는 사람은 you로 받고 are를 써요. 2번은 여러 아이를 it으로 받아서 틀렸어요. they로 받고 are를 써야 해요."
+  },
+  "summary": {
+   "card": "대답의 주어는 알맞은 대명사로 (I → you, the kids → they), be동사는 그 주어에 맞춰요",
+   "narration": "정답은 3번이에요. 기억할 것, 대답의 주어는 알맞은 대명사로 바꾸고, be동사는 그 주어에 맞춰요."
+  },
+  "captions": [
+   "대답의 대명사와 be동사",
+   "먼저 풀어 보세요",
+   "대답: 대명사 주어 + be동사",
+   "the kids → they, I → you",
+   "정답 ③ No, he isn't.",
+   "대명사로 바꾸고 be동사 맞추기"
+  ],
+  "sec": [
+   11,
+   15,
+   31,
+   36,
+   24,
+   11
+  ]
+ },
+ "D": {
+  "title": "질문의 주어를 받는 대명사와 be동사",
+  "intro": "이 문제는 질문의 주어를 알맞은 대명사로 받고 be동사를 맞게 쓴 대화를 고르는 문제예요.",
+  "problem_narration": "다음 중 질문과 대답이 바르게 연결된 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 + 주어 ~? → Yes, 주어 + be동사. / No, 주어 + be동사 + not.",
+    "대답의 주어는 대명사로: you(너) → I, I → you, 여자 한 명 → she, 물건 하나 → it",
+    "be동사: I → am · you, 둘 이상 → are · he, she, it 같은 3인칭 단수 → is",
+    "is not = isn't, are not = aren't",
+    "예) Is the box heavy? — No, it isn't. (그 상자는 무겁니? 아니, 무겁지 않아.)"
+   ],
+   "narration": "be동사로 물으면 Yes나 No 뒤에 주어와 be동사로 답하고, No면 not을 붙여요. 주어는 대명사로 바꿔서, 너를 뜻하는 you는 I, 물건 하나는 it으로 받아요. be동사는 그 주어에 맞춰 I는 am, you와 둘 이상은 are, 3인칭 단수는 is예요. Is the box heavy? 그 상자는 무겁니? No, it isn't. 아니, 무겁지 않아."
+  },
+  "steps": [
+   {
+    "note": "대답의 주어: you(너) → I, the door → it, Mina → she. ①, ③, ④를 지운다.",
+    "highlight": [
+     "Yes, you are.",
+     "No, they isn't.",
+     "Yes, he is."
+    ],
+    "strike": [
+     "① Are you hungry? - Yes, you are.",
+     "③ Is the door open? - No, they isn't.",
+     "④ Is Mina tall? - Yes, he is."
+    ],
+    "narration": "첫째, 너에게 묻는 you는 대답에서 I로, 문 하나인 the door는 it으로, 여자 이름 Mina는 she로 받아야 하니까, 1번, 3번, 4번을 지워요."
+   },
+   {
+    "note": "be동사: we → are. we is(⑤)를 지운다.",
+    "highlight": [
+     "we is."
+    ],
+    "strike": [
+     "⑤ Are we late? - Yes, we is."
+    ],
+    "narration": "둘째, we에는 is가 아니라 are를 쓰니까, we is를 쓴 5번도 지워요."
+   },
+   {
+    "note": "남는 것 ②: they → aren't.",
+    "highlight": [
+     "② Are they friends? - No, they aren't."
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 2번이에요. Are they friends? 그들은 친구니? No, they aren't. 아니, 친구가 아니야."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Are you hungry? - Yes, you are.  ✗  you(너)로 물으면 I로 받아 Yes, I am",
+    "② Are they friends? - No, they aren't.  ✓  they로 받고 aren't",
+    "③ Is the door open? - No, they isn't.  ✗  the door는 it으로 받아 No, it isn't",
+    "④ Is Mina tall? - Yes, he is.  ✗  Mina는 he가 아니라 she로 받아요",
+    "⑤ Are we late? - Yes, we is.  ✗  we에는 is가 아니라 are"
+   ],
+   "narration": "정답은 2번이에요. 1번을 고른 학생은 질문의 you를 대답에 그대로 썼을 거예요. 하지만 너에게 물으면 대답하는 사람은 자기를 I로 받고 am을 써요. 3번은 문 하나를 they로 받아서 틀렸어요. it으로 받고 isn't를 써야 해요."
+  },
+  "summary": {
+   "card": "대답의 주어는 알맞은 대명사로 (you → I, 물건 하나 → it), be동사는 그 주어에 맞춰요",
+   "narration": "정답은 2번이에요. 기억할 것, 대답의 주어는 알맞은 대명사로 바꾸고, be동사는 그 주어에 맞춰요."
+  },
+  "captions": [
+   "주어를 받는 대명사와 be동사",
+   "먼저 풀어 보세요",
+   "대답: 대명사 주어 + be동사",
+   "you → I, the door → it",
+   "정답 ② No, they aren't.",
+   "대명사로 바꾸고 be동사 맞추기"
+  ],
+  "sec": [
+   12,
+   15,
+   32,
+   34,
+   24,
+   11
+  ]
+ },
+ "E": {
+  "title": "하나와 여럿에 맞는 be동사와 대명사",
+  "intro": "이 문제는 하나와 여럿에 맞는 be동사와 대명사로 묻고 답한 대화를 고르는 문제예요.",
+  "problem_narration": "다음 중 질문과 대답이 바르게 연결된 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 + 주어 ~? → Yes, 주어 + be동사. / No, 주어 + be동사 + not.",
+    "be동사: I → am · you, 둘 이상 → are · he, she, it 같은 3인칭 단수 → is",
+    "대답의 주어는 대명사로: 물건 하나 → it, 물건 여럿 → they",
+    "is not = isn't, are not = aren't",
+    "예) Are the boxes heavy? — Yes, they are. (그 상자들은 무겁니? 응, 무거워.)"
+   ],
+   "narration": "be동사를 주어 앞에 써서 물으면, Yes나 No 뒤에 주어와 be동사로 답하고, No면 not을 붙여요. be동사는 주어에 맞춰 I는 am, you와 둘 이상은 are, 3인칭 단수는 is예요. 대답의 주어는 대명사로 바꾸는데, 물건이 하나면 it, 여럿이면 they로 받아요. Are the boxes heavy? 그 상자들은 무겁니? Yes, they are. 응, 무거워."
+  },
+  "steps": [
+   {
+    "note": "질문: the windows(여러 개) → Are로 묻는다. Is the windows(④)를 지운다.",
+    "highlight": [
+     "Is the windows"
+    ],
+    "strike": [
+     "④ Is the windows open? - No, they aren't."
+    ],
+    "narration": "첫째, 창문 여러 개인 the windows는 Are로 물어야 하니까, Is the windows로 물은 4번을 지워요."
+   },
+   {
+    "note": "대명사: the windows → they, the window → it. it isn't(②), they are(③)를 지운다.",
+    "highlight": [
+     "No, it isn't.",
+     "Is the window open?",
+     "Yes, they are."
+    ],
+    "strike": [
+     "② Are the windows open? - No, it isn't.",
+     "③ Is the window open? - Yes, they are."
+    ],
+    "narration": "둘째, 여러 개인 the windows는 they로, 하나인 the window는 it으로 받아야 하니까, it으로 받은 2번과 they로 받은 3번도 지워요."
+   },
+   {
+    "note": "be동사: they → are. they is(⑤)를 지운다. 남는 것 ①.",
+    "highlight": [
+     "they is.",
+     "① Are the windows open? - No, they aren't."
+    ],
+    "strike": [
+     "⑤ Are the windows open? - Yes, they is."
+    ],
+    "narration": "셋째, they에는 is가 아니라 are를 쓰니까 5번도 지우면, 1번이 남아요. Are the windows open? 창문들이 열려 있니? No, they aren't. 아니, 열려 있지 않아."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Are the windows open? - No, they aren't.  ✓  여러 개라서 Are로 묻고 they aren't",
+    "② Are the windows open? - No, it isn't.  ✗  the windows는 they로 받아 No, they aren't",
+    "③ Is the window open? - Yes, they are.  ✗  창문 하나는 it으로 받아 Yes, it is",
+    "④ Is the windows open? - No, they aren't.  ✗  the windows는 Is가 아니라 Are로 물어요",
+    "⑤ Are the windows open? - Yes, they is.  ✗  they에는 is가 아니라 are"
+   ],
+   "narration": "정답은 1번이에요. 4번을 고른 학생은 대답만 보고 질문의 Is를 놓쳤을 거예요. the windows는 여러 개라서 Are로 물어야 해요. 3번은 창문 하나를 they로 받아서 틀렸어요. it으로 받고 is를 써야 해요."
+  },
+  "summary": {
+   "card": "물건 하나 → Is ~? / it is · 물건 여럿 → Are ~? / they are",
+   "narration": "정답은 1번이에요. 기억할 것, 주어가 물건 하나면 is와 it, 여럿이면 are와 they로 묻고 답해요."
+  },
+  "captions": [
+   "하나·여럿에 맞는 be동사와 대명사",
+   "먼저 풀어 보세요",
+   "대답: 대명사 주어 + be동사",
+   "the windows → Are, they",
+   "정답 ① No, they aren't.",
+   "물건 하나 is·it, 여럿 are·they"
+  ],
+  "sec": [
+   12,
+   15,
+   32,
+   38,
+   22,
+   11
+  ]
+ },
+ "F": {
+  "title": "대답의 주어와 be동사 고르기",
+  "intro": "이 문제는 질문의 주어에 맞는 대명사와 be동사로 대답한 대화를 고르는 문제예요.",
+  "problem_narration": "다음 중 질문과 대답이 바르게 연결된 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 + 주어 ~? → Yes, 주어 + be동사. / No, 주어 + be동사 + not.",
+    "대답의 주어는 대명사로: you(너) → I, I → you, 남자 한 명 → he, 여자 한 명 → she",
+    "be동사: I → am · you, 둘 이상 → are · he, she, it 같은 3인칭 단수 → is",
+    "is not = isn't, are not = aren't",
+    "예) Is your sister busy? — Yes, she is. (네 여동생은 바쁘니? 응, 바빠.)"
+   ],
+   "narration": "be동사로 물으면 Yes나 No 뒤에 주어와 be동사로 답하고, No면 not을 붙여요. 주어는 대명사로 바꿔서, 질문의 I는 you, 남자 한 명은 he, 여자 한 명은 she로 받아요. be동사는 그 주어에 맞춰 I는 am, you와 둘 이상은 are, 3인칭 단수는 is예요. Is your sister busy? 네 여동생은 바쁘니? Yes, she is. 응, 바빠."
+  },
+  "steps": [
+   {
+    "note": "대답의 주어: your dad → he, 질문의 I → you. Yes, she is(①), Yes, I are(⑤)를 지운다.",
+    "highlight": [
+     "Yes, she is.",
+     "Yes, I are."
+    ],
+    "strike": [
+     "① Is your dad a cook? - Yes, she is.",
+     "⑤ Am I tall? - Yes, I are."
+    ],
+    "narration": "첫째, 아빠인 your dad는 she가 아니라 he로, 질문의 I는 대답에서 you로 받아야 하니까, 1번과 5번을 지워요."
+   },
+   {
+    "note": "be동사: they → aren't, it → is. they isn't(②), it are(④)를 지운다.",
+    "highlight": [
+     "they isn't.",
+     "it are."
+    ],
+    "strike": [
+     "② Are the cats hungry? - No, they isn't.",
+     "④ Is it cold? - Yes, it are."
+    ],
+    "narration": "둘째, they에는 isn't가 아니라 aren't, it에는 are가 아니라 is를 쓰니까, 2번과 4번도 지워요."
+   },
+   {
+    "note": "남는 것 ③: 묻는 사람과 대답하는 사람이 함께 we → 대답도 we, we → aren't.",
+    "highlight": [
+     "③ Are we late? - No, we aren't."
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 3번은 우리가 늦었는지 묻는 말이라, 대답하는 사람도 we에 들어 있어서 we로 답해요. Are we late? 우리 늦었니? No, we aren't. 아니, 안 늦었어."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Is your dad a cook? - Yes, she is.  ✗  your dad는 she가 아니라 he로 받아요",
+    "② Are the cats hungry? - No, they isn't.  ✗  they에는 isn't가 아니라 aren't",
+    "③ Are we late? - No, we aren't.  ✓  we로 받고 aren't",
+    "④ Is it cold? - Yes, it are.  ✗  it에는 are가 아니라 is",
+    "⑤ Am I tall? - Yes, I are.  ✗  I로 물으면 you로 받아 Yes, you are"
+   ],
+   "narration": "정답은 3번이에요. 5번은 질문의 I를 대답에 그대로 쓰고, I에 are까지 써서 틀렸어요. 묻는 사람이 자기를 I라고 하면, 대답하는 사람은 you로 받고 are를 써요. 1번은 아빠를 she로 받아서 틀렸어요. he로 받아야 해요."
+  },
+  "summary": {
+   "card": "대답의 주어는 알맞은 대명사로 (your dad → he, I → you), be동사는 그 주어에 맞춰요",
+   "narration": "정답은 3번이에요. 기억할 것, 대답의 주어는 알맞은 대명사로 바꾸고, be동사는 그 주어에 맞춰요."
+  },
+  "captions": [
+   "대답의 주어와 be동사 고르기",
+   "먼저 풀어 보세요",
+   "대답: 대명사 주어 + be동사",
+   "your dad → he, I → you",
+   "정답 ③ No, we aren't.",
+   "대명사로 바꾸고 be동사 맞추기"
+  ],
+  "sec": [
+   11,
+   15,
+   32,
+   38,
+   24,
+   11
+  ]
+ }
+}

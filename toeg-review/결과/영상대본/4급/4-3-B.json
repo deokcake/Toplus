@@ -1,0 +1,179 @@
+{
+ "key": "4-3",
+ "type": "B",
+ "grade": 4,
+ "chapter": "CH 1 명사와 관사",
+ "title": "a, an이 들어갈 수 없는 자리",
+ "total_sec": 130,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "4급 · CH 1 명사와 관사 · 3번 · B 유형\n\n이 문제는 a와 an의 쓰임을 알고, a나 an이 들어갈 수 없는 빈칸을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 1 명사와 관사 · 3번 · B 유형",
+     "이 문제는 a와 an의 쓰임을 알고, a나 an이 들어갈 수 없는 빈칸을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 1, 3번 B 유형. 이 문제는 a와 an의 쓰임을 알고, a나 an이 들어갈 수 없는 빈칸을 고르는 문제예요.",
+   "caption": "a, an이 들어갈 수 없는 자리"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 빈칸에 a/an이 들어갈 수 없는 것을 고르시오.\n\n① She has _____ idea.\n② They go _____ home at six.\n③ I need _____ umbrella.\n④ He sees _____ dog.\n⑤ Tom bought _____ car.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 a/an이 들어갈 수 없는 것을 고르시오.",
+     "① She has _____ idea.",
+     "② They go _____ home at six.",
+     "③ I need _____ umbrella.",
+     "④ He sees _____ dog.",
+     "⑤ Tom bought _____ car."
+    ]
+   },
+   "narration": "다음 빈칸에 a나 an이 들어갈 수 없는 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\na, an → 셀 수 있는 명사가 하나일 때 그 앞에 써요 (a book 책 한 권)\n바로 뒤 낱말이 자음 소리 → a, 모음 소리 → an (a cat, an egg)\ngo home의 home은 ‘집으로’라는 뜻(부사) → 앞에 관사를 쓰지 않아요\n예) Let's go home together. (같이 집에 가요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "a, an → 셀 수 있는 명사가 하나일 때 그 앞에 써요 (a book 책 한 권)",
+     "바로 뒤 낱말이 자음 소리 → a, 모음 소리 → an (a cat, an egg)",
+     "go home의 home은 ‘집으로’라는 뜻(부사) → 앞에 관사를 쓰지 않아요",
+     "예) Let's go home together. (같이 집에 가요.)"
+    ]
+   },
+   "narration": "a와 an은 셀 수 있는 명사 하나 앞에 써요. 바로 뒤 낱말이 자음 소리로 시작하면 a cat처럼 a를, 모음 소리로 시작하면 an egg처럼 an을 써요. 그런데 go home의 home은 ‘집으로’라는 뜻으로, 가는 곳을 나타내는 부사예요. 이렇게 쓰는 home 앞에는 a나 the 같은 관사를 쓰지 않아요. 예를 들어 Let's go home together, 같이 집에 가요.",
+   "caption": "셀 수 있는 명사 하나 앞에 a, an"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 빈칸에 a/an이 들어갈 수 없는 것을 고르시오.\n\n① She has _____ idea.\n② They go _____ home at six.\n③ I need _____ umbrella.\n④ He sees _____ dog.\n⑤ Tom bought _____ car.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "idea",
+       "umbrella"
+      ],
+      "strike": [
+       "① She has _____ idea.",
+       "③ I need _____ umbrella."
+      ],
+      "note": "①·③ idea, umbrella → 모음 소리 → an"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "dog",
+       "car"
+      ],
+      "strike": [
+       "④ He sees _____ dog.",
+       "⑤ Tom bought _____ car."
+      ],
+      "note": "④·⑤ dog, car → 자음 소리 → a"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "go _____ home"
+      ],
+      "strike": [],
+      "note": "② go home의 home = ‘집으로’(부사) → 관사 ✗"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 1번 idea와 3번 umbrella는 셀 수 있는 명사 하나이고 모음 소리로 시작해서 an이 들어가요. 둘째, 4번 dog, 5번 car도 셀 수 있는 명사 하나이고 자음 소리로 시작해서 a가 들어가요. 셋째, 2번 go home의 home은 ‘집으로’라는 뜻이라 앞에 관사를 쓰지 않아요. 따라서 답은 2번이에요.",
+   "caption": "an → a → go home"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① She has _____ idea.  ✗  모음 소리 idea(생각) 앞 → an idea\n② They go _____ home at six.  ✓  go home의 home은 ‘집으로’ → 관사 없이\n③ I need _____ umbrella.  ✗  모음 소리 umbrella 앞 → an umbrella\n④ He sees _____ dog.  ✗  자음 소리 dog 한 마리 앞 → a dog\n⑤ Tom bought _____ car.  ✗  자음 소리 car 한 대 앞 → a car",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① She has _____ idea.  ✗  모음 소리 idea(생각) 앞 → an idea",
+     "② They go _____ home at six.  ✓  go home의 home은 ‘집으로’ → 관사 없이",
+     "③ I need _____ umbrella.  ✗  모음 소리 umbrella 앞 → an umbrella",
+     "④ He sees _____ dog.  ✗  자음 소리 dog 한 마리 앞 → a dog",
+     "⑤ Tom bought _____ car.  ✗  자음 소리 car 한 대 앞 → a car"
+    ]
+   },
+   "narration": "정답은 2번이에요. go home의 home은 ‘집으로’라는 뜻이라서 앞에 관사를 쓰지 않아요. 1번 idea는 눈에 보이지 않는 생각이지만 셀 수 있는 명사라서 an idea라고 해요. 3번은 a umbrella는 어색하지만 an umbrella는 맞아요. an이 들어가니까 3번도 답이 아니에요.",
+   "caption": "정답 ② go home"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② They go _____ home at six.\n\ngo home의 home(집으로) 앞에는 관사를 쓰지 않아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② They go _____ home at six.",
+     "go home의 home(집으로) 앞에는 관사를 쓰지 않아요"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, ‘집으로’라는 뜻의 home은 관사 없이 go home이라고 써요.",
+   "caption": "go home은 관사 없이"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 a/an이 들어갈 수 없는 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "She has _____ idea.",
+   "They go _____ home at six.",
+   "I need _____ umbrella.",
+   "He sees _____ dog.",
+   "Tom bought _____ car."
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: a/an은 셀 수 있는 단수명사 앞에 쓰며, 악기·식사·운동·학교의 본래 목적 등에서는 다른 관사 규칙을 적용한다.\n풀이 순서: ① 빈칸 뒤의 명사가 ‘셀 수 있는 명사의 단수형’인지 본다. 그런 명사 앞에만 a/an을 쓴다. → ② 선택지 ②의 go home에서 home은 ‘집으로’라는 부사라 관사를 쓰지 않는다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: go home은 home을 부사처럼 쓰는 관용 표현이라 관사를 넣지 않는다.\n선택지 분석:\n① She has _____ idea. - 오답. 빈칸 뒤가 셀 수 있는 단수명사이므로 문맥과 첫소리에 따라 a/an을 넣을 수 있다.\n② They go _____ home at six. - 정답. go home은 home을 부사처럼 쓰는 관용 표현이라 관사를 넣지 않는다.\n③ I need _____ umbrella. - 오답. 빈칸 뒤가 셀 수 있는 단수명사이므로 문맥과 첫소리에 따라 a/an을 넣을 수 있다.\n④ He sees _____ dog. - 오답. 빈칸 뒤가 셀 수 있는 단수명사이므로 문맥과 첫소리에 따라 a/an을 넣을 수 있다.\n⑤ Tom bought _____ car. - 오답. 빈칸 뒤가 셀 수 있는 단수명사이므로 문맥과 첫소리에 따라 a/an을 넣을 수 있다."
+ }
+}

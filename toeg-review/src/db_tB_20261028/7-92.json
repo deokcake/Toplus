@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T05:09:53.355Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "What year was it?",
+      "1": "How was the weather?",
+      "2": "What month was it?",
+      "3": "What month is it now?",
+      "4": "What date was it then?"
+    },
+    "expl": "핵심 규칙: 대답이 알려 주는 정보(시각, 요일, 날짜, 월)와 시제(is/was)를 보고 질문을 고른다. What time은 시각, What day는 요일, What date는 날짜를 묻는다.\n풀이 순서: ① 대답이 알려 주는 정보를 본다: February → 달(What month). → ② 대답의 시제를 본다: was → 과거. → ③ 둘 다 맞는 질문은 What month was it?\n문장별 판정:\n정답 판단: 과거의 월을 묻는 질문이라 대답(It was February.)과 정보·시제가 모두 맞으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 월이 아니라 연도를 묻는 질문이므로 오답이다.\n② [오답] 월이 아니라 날씨를 묻는 질문이므로 오답이다.\n③ [정답] 과거의 월을 묻는 질문이라 대답(It was February.)과 정보·시제가 모두 맞으므로 정답이다.\n④ [오답] 현재를 묻는 질문이라 과거형 대답(It was ~.)과 맞지 않으므로 오답이다.\n⑤ [오답] 월이 아니라 며칠인지 날짜를 묻는 질문이므로 오답이다.",
+    "passage": "A: _______________________\nB: It was February.",
+    "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T05:09:52.250Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T05:09:53.355Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T05:09:53.355Z",
+      "what": "확인 완료"
+    }
+  }
+}

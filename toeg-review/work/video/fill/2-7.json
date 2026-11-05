@@ -1,0 +1,475 @@
+{
+ "A": {
+  "title": "1형식 문장으로만 된 짝 고르기",
+  "intro": "이 문제는 동사 뒤에 오는 말을 살펴, 두 문장이 모두 1형식인 짝을 고르는 문제예요.",
+  "problem_narration": "다음 중 1형식 문장으로만 짝지어진 것은? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "1형식 = 주어 + 동사 (이것만으로 뜻이 완성돼요)",
+    "동사 뒤의 부사·부사구(어떻게, 언제, 어디서)는 형식에 세지 않아요",
+    "동사 뒤에 주어의 상태·신분을 설명하는 보어 → 2형식, 목적어 → 3·4·5형식",
+    "예) My brother sleeps on the sofa. (내 남동생은 소파에서 자요.)"
+   ],
+   "narration": "1형식은 주어와 동사만으로 뜻이 완성되는 문장으로, 뒤에 부사나 부사구가 붙어도 1형식이에요. 하지만 동사 뒤에 주어의 상태나 신분을 설명하는 보어가 오면 2형식, 목적어가 오면 3, 4, 5형식이에요. 예를 들어 My brother sleeps on the sofa. 내 남동생은 소파에서 자요. on the sofa는 장소를 나타내는 부사구라서 1형식이에요."
+  },
+  "steps": [
+   {
+    "note": "목적어가 있는 문장 → ③ have a dog (3형식). 지운다.",
+    "highlight": [
+     "have a dog"
+    ],
+    "strike": [
+     "③ I have a dog. / He works hard."
+    ],
+    "narration": "첫째, 3번 have 뒤의 a dog은 have의 대상인 목적어라서, 3번에는 3형식 문장이 있어요."
+   },
+   {
+    "note": "주어를 설명하는 형용사 보어 → ① seems tired, ④ smells good, ⑤ look great (2형식). 지운다.",
+    "highlight": [
+     "seems tired",
+     "smells good",
+     "look great"
+    ],
+    "strike": [
+     "① I sleep well. / She seems tired.",
+     "④ They go to school. / It smells good.",
+     "⑤ We stay at home. / You look great."
+    ],
+    "narration": "둘째, 1번 tired, 4번 good, 5번 great는 모두 주어의 상태를 설명하는 형용사 보어라서, 이 낱말이 있는 문장은 2형식이에요."
+   },
+   {
+    "note": "남는 것은 ② → 두 문장 모두 주어 + 동사뿐 → 1형식",
+    "highlight": [
+     "② The sun shines. / Many people gathered."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 2번은 두 문장 모두 주어와 동사뿐인 1형식이에요. The sun shines. 해가 빛나요. Many people gathered. 많은 사람들이 모였어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I sleep well. / She seems tired.  ✗  tired는 주어 She를 설명하는 보어 → 2형식",
+    "② The sun shines. / Many people gathered.  ✓  두 문장 모두 주어 + 동사 → 1형식",
+    "③ I have a dog. / He works hard.  ✗  a dog은 have의 목적어 → 3형식",
+    "④ They go to school. / It smells good.  ✗  good은 부사가 아니라 주어를 설명하는 보어 → 2형식",
+    "⑤ We stay at home. / You look great.  ✗  great는 주어 You를 설명하는 보어 → 2형식"
+   ],
+   "narration": "정답은 2번이에요. 4번을 고르기 쉬운데, to school은 장소를 나타내는 부사구라서 앞 문장은 1형식이 맞아요. 하지만 It smells good. 좋은 냄새가 난다는 뜻인데, 여기서 good은 좋게라는 부사가 아니라 주어 It을 설명하는 형용사 보어라서 2형식이에요. 5번 look great의 great도 주어를 설명하는 보어라서, 5번도 답이 아니에요."
+  },
+  "summary": {
+   "card": "보어·목적어 없이 주어 + 동사 (+ 부사·부사구) → 1형식",
+   "narration": "정답은 2번이에요. 기억할 것, 보어나 목적어 없이 주어와 동사만 있으면, 부사나 부사구가 붙어도 1형식이에요."
+  },
+  "captions": [
+   "1형식 문장으로만 된 짝",
+   "먼저 풀어 보세요",
+   "1형식 = 주어 + 동사",
+   "목적어·보어 있는 짝 지우기",
+   "정답 ② The sun shines.",
+   "부사·부사구만 → 1형식"
+  ],
+  "sec": [
+   10,
+   14,
+   30,
+   38,
+   30,
+   10
+  ]
+ },
+ "B": {
+  "title": "1형식 문장으로만 된 짝 고르기",
+  "intro": "이 문제는 동사 뒤에 오는 말을 살펴, 두 문장이 모두 1형식인 짝을 고르는 문제예요.",
+  "problem_narration": "다음 중 1형식 문장으로만 짝지어진 것은? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "1형식 = 주어 + 동사 (이것만으로 뜻이 완성돼요)",
+    "동사 뒤의 부사·부사구(어떻게, 언제, 어디서)는 형식에 세지 않아요",
+    "동사 뒤에 주어의 상태·신분을 설명하는 보어 → 2형식, 목적어 → 3·4·5형식",
+    "예) We walked to the park. (우리는 공원까지 걸어갔어요.)"
+   ],
+   "narration": "1형식은 주어와 동사만으로 뜻이 완성되는 문장으로, 뒤에 부사나 부사구가 붙어도 1형식이에요. 하지만 동사 뒤에 주어의 상태나 신분을 설명하는 보어가 오면 2형식, 목적어가 오면 3, 4, 5형식이에요. 예를 들어 We walked to the park. 우리는 공원까지 걸어갔어요. to the park는 장소를 나타내는 부사구라서 1형식이에요."
+  },
+  "steps": [
+   {
+    "note": "목적어가 있는 문장 → ① gave him a pen (4형식), ③ bought a bag (3형식). 지운다.",
+    "highlight": [
+     "gave him a pen",
+     "bought a bag"
+    ],
+    "strike": [
+     "① I gave him a pen. / The sun rose.",
+     "③ Mina bought a bag. / The dog barked."
+    ],
+    "narration": "첫째, 1번 gave 뒤의 him과 a pen은 목적어 두 개라서 4형식이고, 3번 bought 뒤의 a bag은 목적어라서 3형식이에요."
+   },
+   {
+    "note": "주어를 설명하는 형용사 보어 → ② became angry, ⑤ tastes good (2형식). 지운다.",
+    "highlight": [
+     "became angry",
+     "tastes good"
+    ],
+    "strike": [
+     "② She became angry. / We went home.",
+     "⑤ The soup tastes good. / Tom arrived late."
+    ],
+    "narration": "둘째, 2번 angry와 5번 good은 주어의 상태를 설명하는 형용사 보어라서, became angry와 tastes good이 있는 문장은 2형식이에요."
+   },
+   {
+    "note": "남는 것은 ④ → late(늦게), loudly(크게)는 동사를 꾸미는 부사 → 둘 다 1형식",
+    "highlight": [
+     "The guests arrived late.",
+     "Everyone laughed loudly."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 4번의 late는 늦게, loudly는 크게라는 뜻으로 동사를 꾸미는 부사라서 두 문장 모두 1형식이에요. The guests arrived late. 손님들이 늦게 도착했어요. Everyone laughed loudly. 모두가 크게 웃었어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I gave him a pen. / The sun rose.  ✗  him, a pen 목적어 두 개 → 4형식",
+    "② She became angry. / We went home.  ✗  angry는 주어 She를 설명하는 보어 → 2형식",
+    "③ Mina bought a bag. / The dog barked.  ✗  a bag은 bought의 목적어 → 3형식",
+    "④ The guests arrived late. / Everyone laughed loudly.  ✓  late, loudly는 부사 → 둘 다 1형식",
+    "⑤ The soup tastes good. / Tom arrived late.  ✗  good은 부사가 아니라 주어를 설명하는 보어 → 2형식"
+   ],
+   "narration": "정답은 4번이에요. 5번을 고르기 쉬운데, 뒤 문장의 late는 부사라서 그 문장은 1형식이 맞아요. 하지만 The soup tastes good. 수프 맛이 좋다는 뜻인데, 여기서 good은 맛있게라는 부사가 아니라 주어를 설명하는 형용사 보어라서 2형식이에요. 2번의 home은 집으로라는 부사라서 went home은 1형식이지만, became angry가 있는 문장이 2형식이라 2번도 답이 아니에요."
+  },
+  "summary": {
+   "card": "보어·목적어 없이 주어 + 동사 (+ 부사·부사구) → 1형식",
+   "narration": "정답은 4번이에요. 기억할 것, 보어나 목적어 없이 주어와 동사만 있으면, 부사나 부사구가 붙어도 1형식이에요."
+  },
+  "captions": [
+   "1형식 문장으로만 된 짝",
+   "먼저 풀어 보세요",
+   "1형식 = 주어 + 동사",
+   "목적어·보어 있는 짝 지우기",
+   "정답 ④ arrived late, laughed loudly",
+   "부사·부사구만 → 1형식"
+  ],
+  "sec": [
+   10,
+   14,
+   30,
+   38,
+   30,
+   10
+  ]
+ },
+ "C": {
+  "title": "1형식 문장으로만 된 짝 고르기",
+  "intro": "이 문제는 동사 뒤에 오는 말을 살펴, 두 문장이 모두 1형식인 짝을 고르는 문제예요.",
+  "problem_narration": "다음 중 1형식 문장으로만 짝지어진 것은? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "1형식 = 주어 + 동사 (이것만으로 뜻이 완성돼요)",
+    "동사 뒤의 부사·부사구(어떻게, 언제, 어디서)는 형식에 세지 않아요",
+    "동사 뒤에 주어의 상태·신분을 설명하는 보어 → 2형식, 목적어 → 3·4·5형식",
+    "예) The plane landed safely. (비행기가 안전하게 착륙했어요.)"
+   ],
+   "narration": "1형식은 주어와 동사만으로 뜻이 완성되는 문장으로, 뒤에 부사나 부사구가 붙어도 1형식이에요. 하지만 동사 뒤에 주어의 상태나 신분을 설명하는 보어가 오면 2형식, 목적어가 오면 3, 4, 5형식이에요. 예를 들어 The plane landed safely. 비행기가 안전하게 착륙했어요. safely는 방법을 나타내는 부사라서 1형식이에요."
+  },
+  "steps": [
+   {
+    "note": "목적어가 있는 문장 → ① has a bike (3형식), ⑤ kept the door open (목적어 + 목적격 보어, 5형식). 지운다.",
+    "highlight": [
+     "has a bike",
+     "kept the door open"
+    ],
+    "strike": [
+     "① Tom has a bike. / The bus came.",
+     "⑤ We kept the door open. / He slept."
+    ],
+    "narration": "첫째, 1번 has 뒤의 a bike는 목적어라서 3형식이고, 5번은 목적어 the door 뒤에 그 상태를 설명하는 목적격 보어 open이 있어서 5형식이에요."
+   },
+   {
+    "note": "주어를 설명하는 형용사 보어 → ② looks tired, ④ smells nice (2형식). 지운다.",
+    "highlight": [
+     "looks tired",
+     "smells nice"
+    ],
+    "strike": [
+     "② Jane looks tired. / They ran fast.",
+     "④ The food smells nice. / Birds flew."
+    ],
+    "narration": "둘째, 2번 tired와 4번 nice는 주어의 상태를 설명하는 형용사 보어라서, looks tired와 smells nice가 있는 문장은 2형식이에요."
+   },
+   {
+    "note": "남는 것은 ③ → outside(밖으로), suddenly(갑자기)는 부사 → 둘 다 1형식",
+    "highlight": [
+     "The children ran outside.",
+     "The bell rang suddenly."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 3번의 outside는 밖으로, suddenly는 갑자기라는 뜻의 부사라서 두 문장 모두 1형식이에요. The children ran outside. 아이들이 밖으로 뛰어나갔어요. The bell rang suddenly. 종이 갑자기 울렸어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Tom has a bike. / The bus came.  ✗  a bike는 has의 목적어 → 3형식",
+    "② Jane looks tired. / They ran fast.  ✗  tired는 주어 Jane을 설명하는 보어 → 2형식",
+    "③ The children ran outside. / The bell rang suddenly.  ✓  outside, suddenly는 부사 → 둘 다 1형식",
+    "④ The food smells nice. / Birds flew.  ✗  nice는 주어를 설명하는 보어 → 2형식",
+    "⑤ We kept the door open. / He slept.  ✗  목적어 the door + 목적격 보어 open → 5형식"
+   ],
+   "narration": "정답은 3번이에요. 2번을 고르기 쉬운데, ran fast의 fast는 빨리라는 부사라서 뒤 문장은 1형식이 맞아요. 하지만 Jane looks tired. 제인이 피곤해 보인다는 뜻인데, tired는 주어 Jane의 상태를 설명하는 보어라서 2형식이에요. 4번도 smells nice의 nice가 주어를 설명하는 보어라서, 1형식으로만 된 짝이 아니에요."
+  },
+  "summary": {
+   "card": "보어·목적어 없이 주어 + 동사 (+ 부사·부사구) → 1형식",
+   "narration": "정답은 3번이에요. 기억할 것, 보어나 목적어 없이 주어와 동사만 있으면, 부사나 부사구가 붙어도 1형식이에요."
+  },
+  "captions": [
+   "1형식 문장으로만 된 짝",
+   "먼저 풀어 보세요",
+   "1형식 = 주어 + 동사",
+   "목적어·보어 있는 짝 지우기",
+   "정답 ③ ran outside, rang suddenly",
+   "부사·부사구만 → 1형식"
+  ],
+  "sec": [
+   10,
+   14,
+   30,
+   38,
+   30,
+   10
+  ]
+ },
+ "D": {
+  "title": "1형식 문장으로만 된 짝 고르기",
+  "intro": "이 문제는 동사 뒤에 오는 말을 살펴, 두 문장이 모두 1형식인 짝을 고르는 문제예요.",
+  "problem_narration": "다음 중 1형식 문장으로만 짝지어진 것은? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "1형식 = 주어 + 동사 (이것만으로 뜻이 완성돼요)",
+    "동사 뒤의 부사·부사구(어떻게, 언제, 어디서)는 형식에 세지 않아요",
+    "동사 뒤에 주어의 상태·신분을 설명하는 보어 → 2형식, 목적어 → 3·4·5형식",
+    "예) My cat sleeps all day. (우리 고양이는 하루 종일 자요.)"
+   ],
+   "narration": "1형식은 주어와 동사만으로 뜻이 완성되는 문장으로, 뒤에 부사나 부사구가 붙어도 1형식이에요. 하지만 동사 뒤에 주어의 상태나 신분을 설명하는 보어가 오면 2형식, 목적어가 오면 3, 4, 5형식이에요. 예를 들어 My cat sleeps all day. 우리 고양이는 하루 종일 자요. all day는 때를 나타내는 부사구라서 1형식이에요."
+  },
+  "steps": [
+   {
+    "note": "목적어가 있는 문장 → ④ made him happy (목적어 + 목적격 보어, 5형식), ⑤ bought lunch (3형식). 지운다.",
+    "highlight": [
+     "made him happy",
+     "bought lunch"
+    ],
+    "strike": [
+     "④ She made him happy. / Tom laughed.",
+     "⑤ I bought lunch. / The dog ran."
+    ],
+    "narration": "첫째, 4번은 목적어 him 뒤에 그 상태를 설명하는 목적격 보어 happy가 있어서 5형식이고, 5번 bought 뒤의 lunch는 목적어라서 3형식이에요."
+   },
+   {
+    "note": "주어를 설명하는 형용사 보어 → ② became dark, ③ stayed quiet (2형식). 지운다.",
+    "highlight": [
+     "became dark",
+     "stayed quiet"
+    ],
+    "strike": [
+     "② The sky became dark. / The crowd gathered.",
+     "③ The room stayed quiet. / We arrived."
+    ],
+    "narration": "둘째, 2번 dark와 3번 quiet는 주어의 상태를 설명하는 형용사 보어라서, became dark와 stayed quiet가 있는 문장은 2형식이에요."
+   },
+   {
+    "note": "남는 것은 ① → near the lake(장소 부사구), early(일찍, 부사) → 둘 다 1형식",
+    "highlight": [
+     "Birds gathered near the lake.",
+     "The train departed early."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 1번의 near the lake는 장소를 나타내는 부사구, early는 일찍이라는 부사라서 두 문장 모두 1형식이에요. Birds gathered near the lake. 새들이 호수 근처에 모였어요. The train departed early. 기차가 일찍 출발했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Birds gathered near the lake. / The train departed early.  ✓  near the lake, early는 부사(구) → 둘 다 1형식",
+    "② The sky became dark. / The crowd gathered.  ✗  dark는 주어 The sky를 설명하는 보어 → 2형식",
+    "③ The room stayed quiet. / We arrived.  ✗  quiet는 주어를 설명하는 보어 → 2형식",
+    "④ She made him happy. / Tom laughed.  ✗  목적어 him + 목적격 보어 happy → 5형식",
+    "⑤ I bought lunch. / The dog ran.  ✗  lunch는 bought의 목적어 → 3형식"
+   ],
+   "narration": "정답은 1번이에요. 3번을 고르기 쉬운데, The room stayed quiet. 방이 계속 조용했다는 뜻으로, 여기서 stayed는 어떤 상태로 계속 있다는 뜻이고 quiet가 주어를 설명하는 보어라서 2형식이에요. 1번의 near the lake에는 명사 lake가 있지만, near와 함께 장소를 나타내는 부사구라서 목적어가 아니에요."
+  },
+  "summary": {
+   "card": "보어·목적어 없이 주어 + 동사 (+ 부사·부사구) → 1형식",
+   "narration": "정답은 1번이에요. 기억할 것, 보어나 목적어 없이 주어와 동사만 있으면, 부사나 부사구가 붙어도 1형식이에요."
+  },
+  "captions": [
+   "1형식 문장으로만 된 짝",
+   "먼저 풀어 보세요",
+   "1형식 = 주어 + 동사",
+   "목적어·보어 있는 짝 지우기",
+   "정답 ① gathered, departed",
+   "부사·부사구만 → 1형식"
+  ],
+  "sec": [
+   10,
+   14,
+   30,
+   38,
+   30,
+   10
+  ]
+ },
+ "E": {
+  "title": "1형식 문장으로만 된 짝 고르기",
+  "intro": "이 문제는 동사 뒤에 오는 말을 살펴, 두 문장이 모두 1형식인 짝을 고르는 문제예요.",
+  "problem_narration": "다음 중 1형식 문장으로만 짝지어진 것은? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "1형식 = 주어 + 동사 (이것만으로 뜻이 완성돼요)",
+    "동사 뒤의 부사·부사구(어떻게, 언제, 어디서)는 형식에 세지 않아요",
+    "동사 뒤에 주어의 상태·신분을 설명하는 보어 → 2형식, 목적어 → 3·4·5형식",
+    "예) The kids played in the garden. (아이들이 정원에서 놀았어요.)"
+   ],
+   "narration": "1형식은 주어와 동사만으로 뜻이 완성되는 문장으로, 뒤에 부사나 부사구가 붙어도 1형식이에요. 하지만 동사 뒤에 주어의 상태나 신분을 설명하는 보어가 오면 2형식, 목적어가 오면 3, 4, 5형식이에요. 예를 들어 The kids played in the garden. 아이들이 정원에서 놀았어요. in the garden은 장소를 나타내는 부사구라서 1형식이에요."
+  },
+  "steps": [
+   {
+    "note": "목적어가 있는 문장 → ② need help (3형식), ③ gave her flowers (4형식). 지운다.",
+    "highlight": [
+     "need help",
+     "gave her flowers"
+    ],
+    "strike": [
+     "② I need help. / The sun rose.",
+     "③ We gave her flowers. / The bus arrived."
+    ],
+    "narration": "첫째, 2번 need 뒤의 help는 목적어라서 3형식이고, 3번 gave 뒤의 her와 flowers는 목적어 두 개라서 4형식이에요."
+   },
+   {
+    "note": "주어를 설명하는 보어 → ① became a teacher (명사 보어, 신분), ⑤ looks happy (형용사 보어) → 2형식. 지운다.",
+    "highlight": [
+     "became a teacher",
+     "looks happy"
+    ],
+    "strike": [
+     "① She became a teacher. / Birds sang.",
+     "⑤ Tom looks happy. / The baby slept."
+    ],
+    "narration": "둘째, 1번 a teacher는 주어 She의 신분을, 5번 happy는 주어 Tom의 상태를 설명하는 보어라서, became a teacher와 looks happy가 있는 문장은 2형식이에요."
+   },
+   {
+    "note": "남는 것은 ④ → peacefully(평화롭게)는 부사 → 둘 다 1형식",
+    "highlight": [
+     "The baby slept peacefully.",
+     "The crowd cheered."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 4번의 peacefully는 평화롭게라는 뜻의 부사라서 두 문장 모두 1형식이에요. The baby slept peacefully. 아기가 평화롭게 잤어요. The crowd cheered. 사람들이 환호했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① She became a teacher. / Birds sang.  ✗  a teacher는 주어 She의 신분을 설명하는 보어 → 2형식",
+    "② I need help. / The sun rose.  ✗  help는 need의 목적어 → 3형식",
+    "③ We gave her flowers. / The bus arrived.  ✗  her, flowers 목적어 두 개 → 4형식",
+    "④ The baby slept peacefully. / The crowd cheered.  ✓  peacefully는 부사 → 둘 다 1형식",
+    "⑤ Tom looks happy. / The baby slept.  ✗  happy는 주어 Tom을 설명하는 보어 → 2형식"
+   ],
+   "narration": "정답은 4번이에요. 5번을 고르기 쉬운데, 뒤 문장은 1형식이 맞아요. 하지만 Tom looks happy. 톰이 행복해 보인다는 뜻인데, happy는 주어 Tom의 상태를 설명하는 보어라서 2형식이에요. 1번의 a teacher는 목적어처럼 보이지만, She와 a teacher는 같은 사람이라 주어를 설명하는 보어이고, 그래서 2형식이에요."
+  },
+  "summary": {
+   "card": "보어·목적어 없이 주어 + 동사 (+ 부사·부사구) → 1형식",
+   "narration": "정답은 4번이에요. 기억할 것, 보어나 목적어 없이 주어와 동사만 있으면, 부사나 부사구가 붙어도 1형식이에요."
+  },
+  "captions": [
+   "1형식 문장으로만 된 짝",
+   "먼저 풀어 보세요",
+   "1형식 = 주어 + 동사",
+   "목적어·보어 있는 짝 지우기",
+   "정답 ④ slept peacefully, cheered",
+   "부사·부사구만 → 1형식"
+  ],
+  "sec": [
+   10,
+   14,
+   30,
+   38,
+   30,
+   10
+  ]
+ },
+ "F": {
+  "title": "1형식 문장으로만 된 짝 고르기",
+  "intro": "이 문제는 동사 뒤에 오는 말을 살펴, 두 문장이 모두 1형식인 짝을 고르는 문제예요.",
+  "problem_narration": "다음 중 1형식 문장으로만 짝지어진 것은? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "1형식 = 주어 + 동사 (이것만으로 뜻이 완성돼요)",
+    "동사 뒤의 부사·부사구(어떻게, 언제, 어디서)는 형식에 세지 않아요",
+    "동사 뒤에 주어의 상태·신분을 설명하는 보어 → 2형식, 목적어 → 3·4·5형식",
+    "예) We swim in the river every summer. (우리는 여름마다 강에서 수영해요.)"
+   ],
+   "narration": "1형식은 주어와 동사만으로 뜻이 완성되는 문장으로, 뒤에 부사나 부사구가 붙어도 1형식이에요. 하지만 동사 뒤에 주어의 상태나 신분을 설명하는 보어가 오면 2형식, 목적어가 오면 3, 4, 5형식이에요. 예를 들어 We swim in the river every summer. 우리는 여름마다 강에서 수영해요. in the river와 every summer는 모두 부사구라서 1형식이에요."
+  },
+  "steps": [
+   {
+    "note": "목적어가 있는 문장 → ③ found it easy (목적어 + 목적격 보어, 5형식), ⑤ bought a book (3형식). 지운다.",
+    "highlight": [
+     "found it easy",
+     "bought a book"
+    ],
+    "strike": [
+     "③ We found it easy. / The train came.",
+     "⑤ Jane bought a book. / Students gathered."
+    ],
+    "narration": "첫째, 3번은 목적어 it 뒤에 그 상태를 설명하는 목적격 보어 easy가 있어서 5형식이고, 5번 bought 뒤의 a book은 목적어라서 3형식이에요."
+   },
+   {
+    "note": "주어를 설명하는 형용사 보어 → ② smells good, ④ became tired (2형식). 지운다.",
+    "highlight": [
+     "smells good",
+     "became tired"
+    ],
+    "strike": [
+     "② The soup smells good. / The leaves fell.",
+     "④ Tom became tired. / Birds flew."
+    ],
+    "narration": "둘째, 2번 good과 4번 tired는 주어의 상태를 설명하는 형용사 보어라서, smells good과 became tired가 있는 문장은 2형식이에요."
+   },
+   {
+    "note": "남는 것은 ① → slowly(천천히)는 부사 → 둘 다 1형식",
+    "highlight": [
+     "The leaves fell slowly.",
+     "The students gathered."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 1번의 slowly는 천천히라는 뜻의 부사라서 두 문장 모두 1형식이에요. The leaves fell slowly. 나뭇잎이 천천히 떨어졌어요. The students gathered. 학생들이 모였어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The leaves fell slowly. / The students gathered.  ✓  slowly는 부사 → 둘 다 1형식",
+    "② The soup smells good. / The leaves fell.  ✗  good은 부사가 아니라 주어를 설명하는 보어 → 2형식",
+    "③ We found it easy. / The train came.  ✗  목적어 it + 목적격 보어 easy → 5형식",
+    "④ Tom became tired. / Birds flew.  ✗  tired는 주어 Tom을 설명하는 보어 → 2형식",
+    "⑤ Jane bought a book. / Students gathered.  ✗  a book은 bought의 목적어 → 3형식"
+   ],
+   "narration": "정답은 1번이에요. 2번을 고르기 쉬운데, 뒤 문장은 1형식이 맞아요. 하지만 The soup smells good. 수프에서 좋은 냄새가 난다는 뜻인데, good은 좋게라는 부사가 아니라 주어를 설명하는 형용사 보어라서 2형식이에요. 3번은 found 뒤에 it과 easy가 이어져 헷갈리지만, easy는 목적어 it의 상태를 설명하는 목적격 보어라서 5형식이에요."
+  },
+  "summary": {
+   "card": "보어·목적어 없이 주어 + 동사 (+ 부사·부사구) → 1형식",
+   "narration": "정답은 1번이에요. 기억할 것, 보어나 목적어 없이 주어와 동사만 있으면, 부사나 부사구가 붙어도 1형식이에요."
+  },
+  "captions": [
+   "1형식 문장으로만 된 짝",
+   "먼저 풀어 보세요",
+   "1형식 = 주어 + 동사",
+   "목적어·보어 있는 짝 지우기",
+   "정답 ① fell slowly, gathered",
+   "부사·부사구만 → 1형식"
+  ],
+  "sec": [
+   10,
+   14,
+   30,
+   38,
+   30,
+   10
+  ]
+ }
+}

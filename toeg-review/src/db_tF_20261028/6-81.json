@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:24:57.099Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": "jog - joging",
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: -ing형은 대부분 그대로 -ing를 붙이고, -e로 끝나면 e를 빼고(make → making), 단모음 + 단자음으로 끝나면 자음을 겹쳐 쓰며(cut → cutting), -ie는 y로 바꾼다(lie → lying).\n풀이 순서: ① 동사의 끝을 본다: -e인지, 단모음 + 단자음인지, -ie인지. → ② 규칙대로 되었는지 본다. jog는 단모음 + 단자음이므로 jogging이다. → ③ 정답은 jog - joging.\n문장별 판정:\n정답 판단: 단모음 + 단자음이라 g를 겹쳐 jogging으로 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] -e로 끝나 e를 빼고 -ing를 붙인 옳은 형태이므로 오답이다.\n② [오답] y로 끝나도 그대로 -ing를 붙인 옳은 형태이므로 오답이다.\n③ [정답] 단모음 + 단자음이라 g를 겹쳐 jogging으로 써야 하므로 정답이다.\n④ [오답] -e로 끝나 e를 빼고 -ing를 붙인 옳은 형태이므로 오답이다.\n⑤ [오답] 단모음 + 단자음이라 t를 겹쳐 쓴 옳은 형태이므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:24:54.059Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:24:57.099Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:24:57.099Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T07:14:34.093Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Tom ran slower than Jane.",
+      "1": "Mina ran slower than Jane.",
+      "2": "Jane ran slower than Leo.",
+      "3": "Leo ran slower than Jane.",
+      "4": "Leo ran faster than Jane."
+    },
+    "expl": "핵심 규칙: 지문의 수치와 배수 표현(twice as ~ as)을 실제 값으로 바꾸고, 질문이 묻는 비교 방향(more/heavier/slower/larger)에 맞는 대상을 찾는다.\n풀이 순서: ① 글의 수치와 비교 표현을 숫자로 정리한다: Mina 12초, Jane 13초, Leo 15초, Tom은 12초와 13초 사이. → ② 질문이 묻는 것(Jane보다 느리게 달린 사람)에 맞는 대상을 찾는다. → ③ 13초보다 오래 걸린 사람은 Leo뿐이다. 정답은 ④.\n문장별 판정:\n정답 판단: Leo는 15초로 Jane(13초)보다 느렸다. 질문에 맞는 대답이므로 정답은 ④이다.\n선택지 분석:\n① [오답] Tom은 Jane보다 빨랐다. 오답이다.\n② [오답] Mina(12초)는 Jane(13초)보다 빨랐다. 오답이다.\n③ [오답] Jane(13초)은 Leo(15초)보다 빨랐다. 오답이다.\n④ [정답] Leo는 15초로 Jane(13초)보다 느렸다. 질문에 맞는 대답이므로 정답이다.\n⑤ [오답] Leo(15초)는 Jane보다 느렸다. 방향이 반대이다. 오답이다.",
+    "passage": "Four runners finished the same 100-meter race yesterday. Mina finished in 12 seconds and won the race. Jane finished in 13 seconds, and Leo finished in 15 seconds. Tom ran faster than Jane but slower than Mina, so he came in second.\n질문: Who ran slower than Jane?",
+    "stem": "다음 글을 읽고 질문에 알맞은 대답을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T07:14:13.233Z"
+  },
+  "tab": "n8ajqfrj",
+  "updatedAt": "2026-10-23T07:14:34.093Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T07:14:34.093Z",
+      "what": "확인 완료"
+    }
+  }
+}

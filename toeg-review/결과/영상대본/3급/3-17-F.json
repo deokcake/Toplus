@@ -1,0 +1,180 @@
+{
+ "key": "3-17",
+ "type": "F",
+ "grade": 3,
+ "chapter": "CH 2 일반동사",
+ "title": "We need 문장의 의문문",
+ "total_sec": 131,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "3급 · CH 2 일반동사 · 17번 · F 유형\n\n이 문제는 일반동사 need가 쓰인 현재 문장을 바른 의문문으로 바꾼 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 2 일반동사 · 17번 · F 유형",
+     "이 문제는 일반동사 need가 쓰인 현재 문장을 바른 의문문으로 바꾼 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 2, 17번 F 유형. 이 문제는 일반동사 need가 쓰인 현재 문장을 바른 의문문으로 바꾼 것을 고르는 문제예요.",
+   "caption": "We need 문장의 의문문"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 21,
+   "screen": {
+    "text": "다음 문장을 의문문으로 바꾼 것을 고르시오.\n\nWe need more time for the project.\n\n① Does we need more time for the project?\n② Do we need more time for the project?\n③ Do we needing more time for the project?\n④ Are we need more time for the project?\n⑤ Do we needs more time for the project?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장을 의문문으로 바꾼 것을 고르시오.",
+     "We need more time for the project.",
+     "① Does we need more time for the project?",
+     "② Do we need more time for the project?",
+     "③ Do we needing more time for the project?",
+     "④ Are we need more time for the project?",
+     "⑤ Do we needs more time for the project?"
+    ]
+   },
+   "narration": "다음 문장을 의문문으로 바꾼 것을 고르세요. We need more time for the project. 우리는 그 프로젝트를 위해 시간이 더 필요해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n일반동사 현재형 문장의 의문문: Do/Does + 주어 + 동사원형 ~? (~하니?)\nI, you, we, they, 복수 주어 → Do\n3인칭 단수 주어(he, she, it, 단수 명사) → Does\n일반동사라 be동사로, 현재라 Did로 묻지 않아요\n예) They live in Seoul. → Do they live in Seoul? (그들은 서울에 사니?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "일반동사 현재형 문장의 의문문: Do/Does + 주어 + 동사원형 ~? (~하니?)",
+     "I, you, we, they, 복수 주어 → Do",
+     "3인칭 단수 주어(he, she, it, 단수 명사) → Does",
+     "일반동사라 be동사로, 현재라 Did로 묻지 않아요",
+     "예) They live in Seoul. → Do they live in Seoul? (그들은 서울에 사니?)"
+    ]
+   },
+   "narration": "일반동사 현재형 문장을 의문문으로 바꿀 때는 be동사나 Did가 아니라 Do나 Does를 주어 앞에 쓰고, 동사는 원형으로 써요. 주어가 I, you, we, they나 복수이면 Do, he, she, it 같은 3인칭 단수이면 Does예요. 예를 들어 They live in Seoul, 그들은 서울에 살아요. 의문문은 Do they live in Seoul? 그들은 서울에 사니?",
+   "caption": "Do/Does + 주어 + 동사원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 33,
+   "screen": {
+    "text": "다음 문장을 의문문으로 바꾼 것을 고르시오.\n\nWe need more time for the project.\n\n① Does we need more time for the project?\n② Do we need more time for the project?\n③ Do we needing more time for the project?\n④ Are we need more time for the project?\n⑤ Do we needs more time for the project?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "We need more time for the project."
+      ],
+      "strike": [
+       "④ Are we need more time for the project?"
+      ],
+      "note": "동사 need는 일반동사 현재형 → be동사 Are로 시작한 ④ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "We"
+      ],
+      "strike": [
+       "① Does we need more time for the project?"
+      ],
+      "note": "주어 We는 복수 → Do. Does로 시작한 ① 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② Do we need more time for the project?"
+      ],
+      "strike": [
+       "③ Do we needing more time for the project?",
+       "⑤ Do we needs more time for the project?"
+      ],
+      "note": "Do 뒤는 동사원형 need → needing을 쓴 ③, needs를 쓴 ⑤ 지움 → ②"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 동사 need는 일반동사 현재형이니, be동사 Are로 시작한 4번을 지워요. 둘째, 주어 We는 복수라 Does가 아니라 Do를 쓰니, Does로 시작한 1번을 지워요. 셋째, Do 뒤의 동사는 원형 need로 쓰니, ing형 needing을 쓴 3번과 s형 needs를 쓴 5번을 지우면 2번이 남아요. Do we need more time for the project? 우리는 그 프로젝트를 위해 시간이 더 필요하니?",
+   "caption": "일반동사 → Do → 원형 need"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 21,
+   "screen": {
+    "text": "① Does we need more time for the project?  ✗  복수 주어 we에는 Does가 아니라 Do\n② Do we need more time for the project?  ✓  복수 주어 we → Do + 동사원형 need\n③ Do we needing more time for the project?  ✗  Do 뒤에 ing형 needing을 썼어요 (원형 need)\n④ Are we need more time for the project?  ✗  일반동사 need 문장은 be동사로 묻지 않아요\n⑤ Do we needs more time for the project?  ✗  Do 뒤에 s형 needs를 썼어요 (원형 need)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Does we need more time for the project?  ✗  복수 주어 we에는 Does가 아니라 Do",
+     "② Do we need more time for the project?  ✓  복수 주어 we → Do + 동사원형 need",
+     "③ Do we needing more time for the project?  ✗  Do 뒤에 ing형 needing을 썼어요 (원형 need)",
+     "④ Are we need more time for the project?  ✗  일반동사 need 문장은 be동사로 묻지 않아요",
+     "⑤ Do we needs more time for the project?  ✗  Do 뒤에 s형 needs를 썼어요 (원형 need)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 4번을 고르기 쉬운데, need는 일반동사라서 be동사 Are로 묻지 않아요. 1번은 복수 주어 we에 Does를 써서 틀렸어요. 3번과 5번은 Do 뒤에 needing과 needs를 써서 틀렸어요. 동사는 원형 need로 써요.",
+   "caption": "정답 ② Do we need"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 13,
+   "screen": {
+    "text": "정답 ② Do we need more time for the project?\n\n일반동사 현재 의문문: Do/Does + 주어 + 동사원형 ~?  (복수 주어, I, you → Do)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② Do we need more time for the project?",
+     "일반동사 현재 의문문: Do/Does + 주어 + 동사원형 ~?  (복수 주어, I, you → Do)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 일반동사 현재 의문문은 Do나 Does 뒤에 동사원형을 쓰고, 복수 주어와 I, you에는 Do를 써요.",
+   "caption": "복수 주어 → Do + 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장을 의문문으로 바꾼 것을 고르시오.",
+  "passage": "We need more time for the project.",
+  "c": [
+   "Does we need more time for the project?",
+   "Do we need more time for the project?",
+   "Do we needing more time for the project?",
+   "Are we need more time for the project?",
+   "Do we needs more time for the project?"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 현재 일반동사 의문문은 Do/Does + 주어 + 동사원형으로 만든다. 3인칭 단수 주어에는 Does를 쓰고, be동사나 did·과거형을 섞지 않는다.\n풀이 순서: ① 동사(need)가 일반동사의 현재형이다. 의문문은 Do/Does + 주어 + 동사원형이다. → ② 주어(We, 복수)에 맞춰 Do를 쓴다. 본동사는 원형으로 쓴다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: Do/Does + 주어 + 동사원형으로 바르게 바꿨으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 주어 we에는 Do를 쓰므로 오답이다.\n② [정답] Do/Does + 주어 + 동사원형으로 바르게 바꿨으므로 정답이다.\n③ [오답] Do 뒤에는 -ing가 아니라 동사원형(need)을 쓰므로 오답이다.\n④ [오답] 일반동사 문장에는 be동사로 의문문을 만들지 않으므로 오답이다.\n⑤ [오답] Do 뒤에는 동사원형(need)을 쓰므로 오답이다."
+ }
+}

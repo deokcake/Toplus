@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T07:29:36.956Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "(a), (b), (e)",
+      "1": "(a), (c), (d)",
+      "2": "(b), (c), (d)",
+      "3": "(a), (d), (e)",
+      "4": "(b), (d), (e)"
+    },
+    "expl": "핵심 규칙: few·a few·many는 셀 수 있는 명사의 복수형, little·a little·much는 셀 수 없는 명사와 함께 쓴다.\n풀이 순서: ① 밑줄 뒤의 명사가 셀 수 있는지 하나씩 본다. cups of water처럼 단위가 있으면 단위(cups)를 센다. → ② (c) a little books(a few), (d) few money(little)가 틀렸다. → ③ 옳은 것만 묶은 (a), (b), (e)가 정답이다.\n문장별 판정:\n(a) O. 셀 수 있는 명사 cars에 a few를 썼다.\n(b) O. 셀 수 없는 명사 water에 much를 썼다.\n(c) X. 셀 수 있는 명사 books에는 a few를 쓴다.\n(d) X. 셀 수 없는 명사 money에는 little을 쓴다.\n(e) O. 셀 수 없는 명사 rice에 a little을 썼다.\n정답 판단: 밑줄 친 부분의 쓰임이 옳은 문장은 (a), (b), (e)이다.\n선택지 분석:\n① [정답] 옳은 문장 (a), (b), (e)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (c), (d)는 옳은 문장이 아니고, 옳은 문장 (b), (e)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (c), (d)는 옳은 문장이 아니고, 옳은 문장 (a), (e)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (d)는 옳은 문장이 아니고, 옳은 문장 (b)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (d)는 옳은 문장이 아니고, 옳은 문장 (a)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(a) There are <u>a few</u> cars in the parking lot.\n(b) We need <u>much</u> water for the plants.\n(c) Jane has <u>a little</u> books about animals.\n(d) I have <u>few</u> money in my pocket.\n(e) Tom eats <u>a little</u> rice for dinner.",
+    "stem": "다음 중 밑줄 친 부분의 쓰임이 어법상 옳은 것만 묶인 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:29:23.430Z"
+  },
+  "tab": "el3qe2ii",
+  "updatedAt": "2026-10-27T07:29:36.956Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:29:36.956Z",
+      "what": "확인 완료"
+    }
+  }
+}

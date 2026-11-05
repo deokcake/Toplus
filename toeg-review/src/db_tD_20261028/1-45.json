@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T06:57:57.629Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: seem/appear 뒤에서 판단 시점보다 앞선 일은 to have + 과거분사로, 판단과 같은 때의 일은 단순 to부정사로 나타낸다. 이 문항에서는 to가 두 빈칸 앞에 이미 주어져 있다.\n풀이 순서: ① 문장 쌍마다 주절과 that절의 시제를 견준다. → ② 첫째 쌍(seemed / had departed)은 that절이 한 시제 앞서므로 (A)는 완료부정사 have + 과거분사다. 둘째 쌍(seems / knows)은 시제가 같으므로 (B)는 동사원형이다. → ③ 빈칸 앞에 이미 to가 있으므로 to를 또 쓴 보기는 지운다. 정답은 have departed - know.\n문장별 판정:\n정답 판단: A의 have departed는 앞에 주어진 to와 완료부정사를 이루어 과거의 판단보다 앞선 사건·상태를 나타내므로 맞다. B의 know는 현재의 판단과 같은 때의 상태를 나타내는 단순부정사이므로 맞다.\n선택지 분석:\n① [정답] A의 have departed는 앞에 주어진 to와 완료부정사를 이루어 과거의 판단보다 앞선 사건·상태를 나타내므로 맞다. B의 know는 현재의 판단과 같은 때의 상태를 나타내는 단순부정사이므로 맞다.\n② [오답] A 앞에 to가 이미 있으므로 to have departed를 넣으면 to가 중복된다. have departed로 고친다. B 앞에도 to가 이미 있으므로 to know는 to를 빼고 know로 고친다.\n③ [오답] A의 have departed는 앞에 주어진 to와 완료부정사를 이루어 과거의 판단보다 앞선 사건·상태를 나타내므로 맞다. B의 have known은 현재 판단보다 앞선 완료 의미를 더하므로 원문의 현재 상태를 유지하려면 know로 고친다.\n④ [오답] A 앞의 to 뒤에는 원형 have가 필요하므로 departed는 have departed로 고친다. B의 know는 현재의 판단과 같은 때의 상태를 나타내는 단순부정사이므로 맞다.\n⑤ [오답] A의 depart는 단순부정사를 만들어 판단과 같은 때의 일로 읽히므로 원문의 앞선 시점을 보존하지 못한다. have departed로 고친다. B의 know는 현재의 판단과 같은 때의 상태를 나타내는 단순부정사이므로 맞다.",
+    "passage": "It seemed that the train had departed.\n= The train seemed to (A)_____.\nIt seems that Jane knows the answer.\n= Jane seems to (B)_____ the answer.",
+    "stem": "다음 빈칸에 들어갈 말로 알맞게 연결된 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T06:57:36.675Z"
+  },
+  "tab": "sj53vmnt",
+  "updatedAt": "2026-10-23T06:57:57.629Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T06:57:57.629Z",
+      "what": "확인 완료"
+    }
+  }
+}

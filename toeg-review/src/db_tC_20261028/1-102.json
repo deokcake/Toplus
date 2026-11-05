@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-21T07:11:48.779Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Neither my cousins nor my brother were at home.",
+      "1": "Both Minji and her twin sister likes spicy food.",
+      "2": null,
+      "3": "Not only the coach but also the players was tired.",
+      "4": "The teacher as well as the students are excited."
+    },
+    "expl": "핵심 규칙: both A and B는 복수 동사, either A or B·neither A nor B·not only A but also B는 B에, A as well as B는 A에 동사의 수를 맞춘다.\n풀이 순서: ① 문장마다 상관접속사를 찾고 동사가 어느 말에 수를 맞춰야 하는지 정한다. both ~ and는 복수, either·neither·not only는 동사에 가까운 쪽, as well as는 앞쪽이다. → ② 그 말이 단수인지 복수인지 보고 동사와 견준다. → ③ 선택지 ③만 수가 맞는다: or 뒤의 her parents(복수) - are.\n문장별 판정:\n정답 판단: either A or B는 B(her parents)에 맞춰 복수 are를 써서 옳다. 정답은 ③이다.\n선택지 분석:\n① [오답] neither A nor B는 B(my brother)에 맞춰 was를 써야 해 틀렸다. 오답이다.\n② [오답] both A and B는 복수이므로 like를 써야 해 틀렸다. 오답이다.\n③ [정답] either A or B는 B(her parents)에 맞춰 복수 are를 써서 옳다. 정답이다.\n④ [오답] not only A but also B는 B(the players)에 맞춰 were를 써야 해 틀렸다. 오답이다.\n⑤ [오답] A as well as B는 A(The teacher)에 맞춰 is를 써야 해 틀렸다. 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T07:11:11.775Z"
+  },
+  "tab": "fi3f83jb",
+  "updatedAt": "2026-10-21T07:11:48.779Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T07:11:48.779Z",
+      "what": "확인 완료"
+    }
+  }
+}

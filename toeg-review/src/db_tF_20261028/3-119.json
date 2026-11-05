@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-27T05:33:21.209Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "It's right in front the big bank.",
+      "1": "It's right in front of the big bank.",
+      "2": "It's right behind the big bank.",
+      "3": "It's right across from the big bank.",
+      "4": "It's right in the front of the big bank."
+    },
+    "expl": "핵심 규칙: 장소는 It is + 장소 표현으로 나타낸다. behind는 뒤, next to는 옆, across from은 맞은편, under는 아래, in front of는 앞이다.\n풀이 순서: ① 우리말에서 위치를 나타내는 말을 찾는다: ‘은행 앞에’. → ② 영어 표현을 떠올린다: in front of + 명사(of를 빠뜨리지 않는다). → ③ 정답은 ②.\n문장별 판정:\n정답 판단: ‘앞에’를 in front of로 바르게 옮겼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] ‘앞에’는 in front of로 써야 해 of가 빠졌으므로 오답이다.\n② [정답] ‘앞에’를 in front of로 바르게 옮겼으므로 정답이다.\n③ [오답] behind는 ‘뒤’라 뜻이 맞지 않으므로 오답이다.\n④ [오답] across from은 ‘맞은편’이라 뜻이 맞지 않으므로 오답이다.\n⑤ [오답] in the front of는 ‘(건물) 안의 앞쪽’이라 뜻이 맞지 않으므로 오답이다.",
+    "passage": "A: Excuse me. Where is the flower store?\nB: <u>그것은 큰 은행 바로 앞에 있어</u>.\nA: Thank you very much for your help.",
+    "stem": "다음 밑줄 친 우리말 문장을 올바르게 영작한 것을 고르시오."
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:33:21.209Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:33:21.209Z",
+      "what": "확인 완료"
+    }
+  }
+}

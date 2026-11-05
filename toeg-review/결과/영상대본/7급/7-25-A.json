@@ -1,0 +1,179 @@
+{
+ "key": "7-25",
+ "type": "A",
+ "grade": 7,
+ "chapter": "CH 3 be동사",
+ "title": "주어와 be동사 am, is, are의 짝",
+ "total_sec": 123,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "7급 · CH 3 be동사 · 25번\n\n이 문제는 다섯 문장에서 주어와 be동사의 짝이 맞지 않는 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 3 be동사 · 25번",
+     "이 문제는 다섯 문장에서 주어와 be동사의 짝이 맞지 않는 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 3, 25번. 이 문제는 다섯 문장에서 주어와 be동사의 짝이 맞지 않는 틀린 문장을 고르는 문제예요.",
+   "caption": "주어와 be동사의 짝"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 13,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① It is a monkey.\n② We are police officers.\n③ The water are cold.\n④ James is at home.\n⑤ My boss is angry.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 틀린 문장을 고르시오.",
+     "① It is a monkey.",
+     "② We are police officers.",
+     "③ The water are cold.",
+     "④ James is at home.",
+     "⑤ My boss is angry."
+    ]
+   },
+   "narration": "다음 중 틀린 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 현재형 am, is, are: 주로 '이다', '있다'\nI → am, you → are\nhe, she, it(한 명·한 개), 셀 수 없는 것(milk) → is\nwe, they(여럿) → are\n예) The milk is hot. (우유가 뜨거워요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 현재형 am, is, are: 주로 '이다', '있다'",
+     "I → am, you → are",
+     "he, she, it(한 명·한 개), 셀 수 없는 것(milk) → is",
+     "we, they(여럿) → are",
+     "예) The milk is hot. (우유가 뜨거워요.)"
+    ]
+   },
+   "narration": "be동사의 현재형 am, is, are는 주로 '이다'나 '있다'라는 뜻이고, 주어에 맞춰 골라요. 주어가 I이면 am, you이면 are를 써요. he, she, it처럼 한 명이나 한 개이면 is, we, they처럼 여럿이면 are를 써요. milk처럼 셀 수 없는 것도 한 개처럼 다뤄서 is를 써요. 예를 들어 The milk is hot, 우유가 뜨거워요.",
+   "caption": "주어에 맞춰 am·is·are"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① It is a monkey.\n② We are police officers.\n③ The water are cold.\n④ James is at home.\n⑤ My boss is angry.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "It",
+       "We",
+       "The water",
+       "James",
+       "My boss"
+      ],
+      "strike": [],
+      "note": "문장마다 주어 찾기: It = 한 마리, James·My boss = 한 사람, We = 여럿, The water = 셀 수 없는 것."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① It is a monkey.",
+       "② We are police officers.",
+       "④ James is at home.",
+       "⑤ My boss is angry."
+      ],
+      "note": "짝이 맞는 문장은 지운다: It·James·My boss → is, We → are."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ The water are cold."
+      ],
+      "strike": [],
+      "note": "셀 수 없는 The water에 are → 틀림. The water is cold."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 주어를 찾아요. It은 원숭이 한 마리, James와 My boss는 한 사람, We는 여럿, The water는 셀 수 없는 것이에요. 둘째, It, James, My boss에는 is, We에는 are를 바르게 썼으니 지워요. 셋째, 3번의 The water는 셀 수 없는 것이라 is를 써야 하는데 are를 썼어요. 바르게 고치면 The water is cold, 물이 차가워요.",
+   "caption": "주어 찾기 → 짝 맞추기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① It is a monkey.  ✗  한 마리 It → is, 바른 문장\n② We are police officers.  ✗  여럿 We → are, 바른 문장\n③ The water are cold.  ✓  셀 수 없는 water → is로 고쳐야 해요\n④ James is at home.  ✗  s로 끝나도 한 사람 James → is, 바른 문장\n⑤ My boss is angry.  ✗  s로 끝나도 한 사람 My boss → is, 바른 문장",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① It is a monkey.  ✗  한 마리 It → is, 바른 문장",
+     "② We are police officers.  ✗  여럿 We → are, 바른 문장",
+     "③ The water are cold.  ✓  셀 수 없는 water → is로 고쳐야 해요",
+     "④ James is at home.  ✗  s로 끝나도 한 사람 James → is, 바른 문장",
+     "⑤ My boss is angry.  ✗  s로 끝나도 한 사람 My boss → is, 바른 문장"
+    ]
+   },
+   "narration": "정답은 3번이에요. 셀 수 없는 water에는 is를 써요. 4번 James와 5번 My boss는 s로 끝나지만 둘 다 한 사람이라 is가 맞아요. 2번 We는 여럿이라 are가 맞아요.",
+   "caption": "정답 ③ water에는 is"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ The water are cold.\n\n셀 수 없는 것(water, milk)이 주어 → is",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ The water are cold.",
+     "셀 수 없는 것(water, milk)이 주어 → is"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, water처럼 셀 수 없는 것이 주어이면 be동사는 is를 써요.",
+   "caption": "셀 수 없는 것 + is"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "It is a monkey.",
+   "We are police officers.",
+   "The water are cold.",
+   "James is at home.",
+   "My boss is angry."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: be동사는 주어에 맞춘다: I am / 한 사람·한 개·셀 수 없는 명사 is / you·여럿 are.\n풀이 순서: ① 문장마다 주어가 I인지, 한 사람·한 개인지, 여럿인지 가른다. → ② be동사가 그에 맞는지 본다. → ③ 선택지 ③의 The water는 셀 수 없어 단수로 다룬다(is). 정답은 ③.\n문장별 판정:\n정답 판단: water는 셀 수 없는 명사라 is를 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] It에 is를 바르게 썼으므로 오답이다.\n② [오답] We에 are를 바르게 썼으므로 오답이다.\n③ [정답] water는 셀 수 없는 명사라 is를 써야 하므로 정답이다.\n④ [오답] James에 is를 바르게 썼으므로 오답이다.\n⑤ [오답] My boss에 is를 바르게 썼으므로 오답이다."
+ }
+}

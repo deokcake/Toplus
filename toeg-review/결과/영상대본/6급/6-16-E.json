@@ -1,0 +1,184 @@
+{
+ "key": "6-16",
+ "type": "E",
+ "grade": 6,
+ "chapter": "CH 2 대명사와 be동사",
+ "title": "주어 We 뒤 현재형 be동사",
+ "total_sec": 126,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "6급 · CH 2 대명사와 be동사 · 16번 · E 유형\n\n이 문제는 주어 We 뒤에 오는 현재형 be동사의 알맞은 형태를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 2 대명사와 be동사 · 16번 · E 유형",
+     "이 문제는 주어 We 뒤에 오는 현재형 be동사의 알맞은 형태를 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 2, 16번 E 유형. 이 문제는 주어 We 뒤에 오는 현재형 be동사의 알맞은 형태를 고르는 문제예요.",
+   "caption": "We 뒤 현재형 be동사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.\n\nWe _______ on the playground now.\n\n① isn't\n② are\n③ is\n④ be\n⑤ am",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 알맞은 단어를 고르세요.",
+     "We _______ on the playground now.",
+     "① isn't",
+     "② are",
+     "③ is",
+     "④ be",
+     "⑤ am"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 알맞은 단어를 고르세요. We 빈칸 on the playground now. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 현재형(이다·어떠하다·있다)은 주어에 맞춰 써요.\nI → am  /  he, she, it처럼 나도 너도 아닌 하나 → is\nyou(한 명이어도), we, they, 여럿 → are\n현재형 문장에서 주어 바로 뒤에 원형 be를 그대로 쓰지 않아요.\n예) He is in the library. (그는 도서관에 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 현재형(이다·어떠하다·있다)은 주어에 맞춰 써요.",
+     "I → am  /  he, she, it처럼 나도 너도 아닌 하나 → is",
+     "you(한 명이어도), we, they, 여럿 → are",
+     "현재형 문장에서 주어 바로 뒤에 원형 be를 그대로 쓰지 않아요.",
+     "예) He is in the library. (그는 도서관에 있어요.)"
+    ]
+   },
+   "narration": "be동사는 주로 무엇이다, 어떠하다, 어디에 있다는 뜻이고, 현재형은 주어에 맞춰 am, is, are 중 하나를 골라 써요. 주어가 I이면 am, he, she, it처럼 나도 너도 아닌 한 사람이나 물건 하나이면 is를 써요. you는 한 사람이어도 are를 쓰고, we, they나 여러 사람, 여러 개에도 are를 써요. 현재형 문장에서는 주어 바로 뒤에 원형 be를 그대로 쓰지 않고, am, is, are로 바꿔 써요. He is in the library. 그는 도서관에 있어요.",
+   "caption": "I는 am, 하나는 is, you·여럿은 are"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.\n\nWe _______ on the playground now.\n\n① isn't\n② are\n③ is\n④ be\n⑤ am",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "We",
+       "_______"
+      ],
+      "strike": [],
+      "note": "빈칸 바로 앞 주어 = We"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① isn't",
+       "③ is",
+       "⑤ am"
+      ],
+      "note": "We = 나를 포함한 여러 명 → am(I에만), is·isn't(나도 너도 아닌 하나) 지우기"
+     },
+     {
+      "step": 3,
+      "highlight": [],
+      "strike": [
+       "④ be"
+      ],
+      "note": "주어 바로 뒤 원형 be ✗"
+     },
+     {
+      "step": 4,
+      "highlight": [
+       "② are"
+      ],
+      "strike": [],
+      "note": "남는 것 are → We are on the playground now."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 빈칸 바로 앞의 주어는 We예요. 둘째, We는 나를 포함한 여러 명이라, I에만 쓰는 am과 나도 너도 아닌 하나에 쓰는 is, isn't는 맞지 않아요. 셋째, 주어 바로 뒤에는 원형 be를 그대로 쓰지 않으니 be도 지워요. 넷째, 남는 것은 are예요. We are on the playground now. 우리는 지금 운동장에 있어요.",
+   "caption": "주어 We → are"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① isn't  ✗  is not을 줄인 말이라 여러 명인 We와 맞지 않아요\n② are  ✓  We는 나를 포함한 여러 명 → are\n③ is  ✗  is는 나도 너도 아닌 하나에 써요\n④ be  ✗  주어 바로 뒤에 원형 be를 그대로 쓰지 않아요\n⑤ am  ✗  We에 내가 들어 있어도 am은 I에만 써요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① isn't  ✗  is not을 줄인 말이라 여러 명인 We와 맞지 않아요",
+     "② are  ✓  We는 나를 포함한 여러 명 → are",
+     "③ is  ✗  is는 나도 너도 아닌 하나에 써요",
+     "④ be  ✗  주어 바로 뒤에 원형 be를 그대로 쓰지 않아요",
+     "⑤ am  ✗  We에 내가 들어 있어도 am은 I에만 써요"
+    ]
+   },
+   "narration": "정답은 2번 are예요. 5번 am은 We에 나도 들어 있어서 고르기 쉽지만, am은 주어가 I일 때만 써요. 3번 is는 나도 너도 아닌 하나에 쓰는 말이라 여러 명인 We와 맞지 않아요. 4번 be는 원형이라 주어 바로 뒤에 그대로 쓰지 않아요.",
+   "caption": "정답 ② are"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ② are\n\nI → am, 나도 너도 아닌 하나 → is, you·we·they·여럿 → are",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② are",
+     "I → am, 나도 너도 아닌 하나 → is, you·we·they·여럿 → are"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 현재형 be동사는 주어가 I이면 am, 나도 너도 아닌 하나이면 is, you나 we, they, 여럿이면 are를 써요. We에 나도 들어 있지만 여러 명이라 are예요.",
+   "caption": "we는 여러 명 → are"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.",
+  "passage": "We _______ on the playground now.",
+  "c": [
+   "isn't",
+   "are",
+   "is",
+   "be",
+   "am"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 현재형 be동사: I am / you, we, they are / he, she, it is. be는 원형이라 그대로 쓸 수 없다.\n풀이 순서: ① 주어를 본다: We. → ② 그 주어에 맞는 현재형 be동사는 are. → ③ 원형 be와 주어에 맞지 않는 형태(부정형 포함)를 지운다. 정답은 ②.\n문장별 판정:\n정답 판단: 주어 We에 맞는 be동사이므로 정답은 ②이다.\n선택지 분석:\n① [오답] isn't는 is의 부정형이라 주어 We에 맞지 않으므로 오답이다.\n② [정답] 주어 We에 맞는 be동사이므로 정답이다.\n③ [오답] is는 3인칭 단수 주어에 쓰므로 오답이다.\n④ [오답] be는 동사원형이라 주어 뒤에 그대로 쓸 수 없으므로 오답이다.\n⑤ [오답] am은 주어 I에만 쓰므로 오답이다."
+ }
+}

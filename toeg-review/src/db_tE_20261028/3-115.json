@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-26T04:57:14.519Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "ⓐ, ⓑ",
+      "1": "ⓐ, ⓓ",
+      "2": "ⓑ, ⓒ",
+      "3": "ⓑ, ⓓ",
+      "4": "ⓒ, ⓓ"
+    },
+    "expl": "핵심 규칙: 시간은 at + 시각, on + 요일·날짜, in + 월·연도·계절로, 장소는 at + 한 지점, on + 표면, in + 공간·도시·나라로 나타낸다. between은 둘 사이, among은 셋 이상 사이이다.\n풀이 순서: ① 문장마다 전치사와 그 뒤의 말을 짝지어 본다(때: at 시각, on 요일·날짜, in 달·연도 / 곳: on 표면, at 지점, in 안). → ② ⓐ on nine(at nine), ⓒ at 2011(in 2011)이 틀렸다. ⓑ, ⓓ는 옳다. → ③ 옳은 문장만 고른 ⓑ, ⓓ가 정답이다.\n문장별 판정:\nⓐ X. 시각에는 at을 쓴다(at nine).\nⓑ O. 계절에는 in을 쓴다.\nⓒ X. 연도에는 in을 쓴다(in 2011).\nⓓ O. 날짜에는 on을 쓴다.\n정답 판단: 어법상 옳은 문장은 ⓑ, ⓓ이다.\n선택지 분석:\n① [오답] ⓐ는 옳은 문장이 아니고, 옳은 문장 ⓓ를 빠뜨렸다. 따라서 오답이다.\n② [오답] ⓐ는 옳은 문장이 아니고, 옳은 문장 ⓑ를 빠뜨렸다. 따라서 오답이다.\n③ [오답] ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓓ를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 ⓑ, ⓓ를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓑ를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "ⓐ School starts on nine every weekday morning.\nⓑ We travel in summer with our grandparents.\nⓒ I was born at 2011 in Busan.\nⓓ We meet on May 5th at the park.",
+    "stem": "다음 중 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T04:57:14.519Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:57:14.519Z",
+      "what": "확인 완료"
+    }
+  }
+}

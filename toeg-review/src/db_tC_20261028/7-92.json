@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-20T11:58:42.616Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "What is the date today?",
+      "1": "What date was it last week?",
+      "2": "What time is it now?",
+      "3": "What season is it?",
+      "4": "How old are you?"
+    },
+    "expl": "핵심 규칙: 대답이 알려 주는 정보(시각, 요일, 날짜, 월)와 시제(is/was)를 보고 질문을 고른다. What time은 시각, What day는 요일, What date는 날짜를 묻는다.\n풀이 순서: ① 대답이 알려 주는 정보를 본다: May 5th → 날짜(date). → ② 대답의 시제를 본다: is → 현재. → ③ 둘 다 맞는 질문은 What is the date today?\n문장별 판정:\n정답 판단: 오늘 날짜를 묻는 질문이라 대답(It is May 5th.)과 정보·시제가 모두 맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 오늘 날짜를 묻는 질문이라 대답(It is May 5th.)과 정보·시제가 모두 맞으므로 정답이다.\n② [오답] 과거를 묻는 질문이라 현재형 대답(It is ~.)과 맞지 않으므로 오답이다.\n③ [오답] 날짜가 아니라 시각을 묻는 질문이므로 오답이다.\n④ [오답] 날짜가 아니라 계절을 묻는 질문이므로 오답이다.\n⑤ [오답] 날짜가 아니라 나이를 묻는 질문이므로 오답이다.",
+    "passage": null,
+    "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-20T11:58:41.712Z"
+  },
+  "tab": "n2uhrol0",
+  "updatedAt": "2026-10-20T11:58:42.616Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-20T11:58:42.616Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:27:12.679Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "begin - beginning",
+      "1": "carry - carrying",
+      "2": "come - coming",
+      "3": "shop - shoping",
+      "4": "see - seeing"
+    },
+    "expl": "핵심 규칙: -ing형 만들기: 대부분 그대로 -ing, -e로 끝나면 e를 빼고, 단모음 + 단자음이면 자음을 겹쳐 쓴다(cut → cutting, sit → sitting). -ie는 y로 바꾼다.\n풀이 순서: ① 동사의 끝을 본다: -e, -ie, 단모음 + 단자음 가운데 어느 것인지 가른다. → ② 규칙대로 되었는지 본다. shop은 단모음 + 단자음이라 shopping이다. → ③ 정답은 shop - shoping.\n문장별 판정:\n정답 판단: 단모음 + 단자음이라 p를 겹쳐 shopping으로 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 단모음 + 단자음이라 n을 겹쳐 쓴 옳은 형태이므로 오답이다.\n② [오답] 그대로 -ing를 붙인 옳은 형태이므로 오답이다.\n③ [오답] -e를 빼고 -ing를 붙인 옳은 형태이므로 오답이다.\n④ [정답] 단모음 + 단자음이라 p를 겹쳐 shopping으로 써야 하므로 정답이다.\n⑤ [오답] 그대로 -ing를 붙인 옳은 형태이므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:27:09.719Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:27:12.679Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:27:12.679Z",
+      "what": "확인 완료"
+    }
+  }
+}

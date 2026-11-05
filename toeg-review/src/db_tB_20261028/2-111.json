@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:25:08.990Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": null,
+      "1": "Whether - or",
+      "2": "Both - and",
+      "3": "Not only - but also",
+      "4": null
+    },
+    "expl": "핵심 규칙: both A and B(둘 다), either A or B(둘 중 하나), neither A nor B(둘 다 아님), not only A but also B(A뿐 아니라 B도), not A but B(A가 아니라 B), whether A or B(A이든 B이든)는 짝과 뜻이 모두 맞아야 한다.\n풀이 순서: ① 우리말에서 두 대상의 관계를 읽는다: ‘Tom이 오든 Mina가 오든(어느 쪽이든)’. → ② 그 뜻의 상관접속사는 Whether A or B다. → ③ 짝이 맞지 않는 것(Both - but, Neither - and 등)과 뜻이 다른 것을 지운다. 정답은 ②.\n문장별 판정:\n정답 판단: Whether - or: ‘~이든 ~이든’라는 뜻이라 우리말과 같으므로 정답은 ②이다.\n선택지 분석:\n① [오답] Either - or: ‘둘 중 하나’라는 뜻이라 우리말과 다르므로 오답이다.\n② [정답] Whether - or: ‘~이든 ~이든’라는 뜻이라 우리말과 같으므로 정답이다.\n③ [오답] Both - and: ‘둘 다’라는 뜻이라 우리말과 다르므로 오답이다.\n④ [오답] Not only - but also: ‘~뿐 아니라 ~도’라는 뜻이라 우리말과 다르므로 오답이다.\n⑤ [오답] Neither - nor: ‘둘 다 아님’라는 뜻이라 우리말과 다르므로 오답이다.",
+    "passage": "Tom이 오든 Mina가 오든 나는 상관없다.\n= _____ Tom _____ Mina comes, I don't care.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T07:25:08.154Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T07:25:08.990Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T07:25:08.990Z",
+      "what": "확인 완료"
+    }
+  }
+}

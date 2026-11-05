@@ -1,0 +1,181 @@
+{
+ "key": "6-36",
+ "type": "D",
+ "grade": 6,
+ "chapter": "CH 4 일반동사",
+ "title": "주어에 맞는 be동사 과거형 was, were",
+ "total_sec": 129,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "6급 · CH 4 일반동사 · 36번 · D 유형\n\n이 문제는 주어를 보고 be동사 과거형 were가 들어갈 수 없는 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 4 일반동사 · 36번 · D 유형",
+     "이 문제는 주어를 보고 be동사 과거형 were가 들어갈 수 없는 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 4, 36번 D 유형. 이 문제는 주어를 보고 be동사 과거형 were가 들어갈 수 없는 문장을 고르는 문제예요.",
+   "caption": "were가 들어갈 수 없는 문장"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 빈칸에 'were'가 들어갈 수 없는 문장은?\n\n① The flowers ________ pretty.\n② Your parents ________ worried.\n③ The cat ________ sleepy.\n④ We all ________ tired.\n⑤ Those shoes ________ cheap.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 빈칸에 'were'가 들어갈 수 없는 문장은?",
+     "① The flowers ________ pretty.",
+     "② Your parents ________ worried.",
+     "③ The cat ________ sleepy.",
+     "④ We all ________ tired.",
+     "⑤ Those shoes ________ cheap."
+    ]
+   },
+   "narration": "다음 중 빈칸에 were가 들어갈 수 없는 문장은 무엇일까요? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 과거형 was, were: 무엇이었다 · 어땠다 · 어디에 있었다 (지나간 일)\n주어 I, 3인칭 단수(he, she, it, 한 사람·한 개) → was\n주어 you(한 명이어도), we, they, 복수(둘 이상) → were\n복수 명사 주어(the birds, these books) → were\n예) The birds were small. (그 새들은 작았어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 과거형 was, were: 무엇이었다 · 어땠다 · 어디에 있었다 (지나간 일)",
+     "주어 I, 3인칭 단수(he, she, it, 한 사람·한 개) → was",
+     "주어 you(한 명이어도), we, they, 복수(둘 이상) → were",
+     "복수 명사 주어(the birds, these books) → were",
+     "예) The birds were small. (그 새들은 작았어요.)"
+    ]
+   },
+   "narration": "was와 were는 be동사의 과거형으로, 지나간 일에 써요. 주어가 I이거나, he, she, it 같은 3인칭 단수이면 was를 써요. you, we, they나 복수 주어에는 were를 쓰고, you는 한 명이어도 were예요. 둘 이상을 나타내는 복수 명사가 주어일 때도 were를 써요. 예를 들어 The birds were small, 그 새들은 작았어요.",
+   "caption": "I·3인칭 단수 was, you·복수 were"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 빈칸에 'were'가 들어갈 수 없는 문장은?\n\n① The flowers ________ pretty.\n② Your parents ________ worried.\n③ The cat ________ sleepy.\n④ We all ________ tired.\n⑤ Those shoes ________ cheap.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "'were'",
+       "들어갈 수 없는"
+      ],
+      "strike": [],
+      "note": "were가 들어갈 수 ‘없는’ 문장 찾기 → 빈칸 앞 주어를 하나씩 본다"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "① The flowers",
+       "② Your parents",
+       "④ We all",
+       "⑤ Those shoes"
+      ],
+      "strike": [
+       "① The flowers ________ pretty.",
+       "② Your parents ________ worried.",
+       "④ We all ________ tired.",
+       "⑤ Those shoes ________ cheap."
+      ],
+      "note": "The flowers, Your parents, Those shoes(여럿) · We all(우리 모두) → were ○"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ The cat"
+      ],
+      "strike": [],
+      "note": "The cat = 고양이 한 마리, 3인칭 단수 → was → were ✗ → 정답 ③"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, were가 들어갈 수 없는 문장을 찾아야 하니까, 빈칸 앞의 주어를 하나씩 살펴봐요. 둘째, The flowers, Your parents, Those shoes는 모두 여럿을 가리키는 복수 주어이고, We all은 우리 모두라는 뜻이에요. 그래서 모두 were를 써요. 셋째, The cat은 고양이 한 마리인 3인칭 단수라서 were가 아니라 was를 써요. 따라서 정답은 3번이에요.",
+   "caption": "주어 살피기 → were 쓰는 주어 지우기 → The cat"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① The flowers ________ pretty.  ✗  꽃 여러 송이, 복수 주어 → were\n② Your parents ________ worried.  ✗  부모님 두 분, 복수 주어 → were\n③ The cat ________ sleepy.  ✓  고양이 한 마리(3인칭 단수) → was\n④ We all ________ tired.  ✗  우리 모두(we) → were\n⑤ Those shoes ________ cheap.  ✗  저 신발들, 복수 주어 → were",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① The flowers ________ pretty.  ✗  꽃 여러 송이, 복수 주어 → were",
+     "② Your parents ________ worried.  ✗  부모님 두 분, 복수 주어 → were",
+     "③ The cat ________ sleepy.  ✓  고양이 한 마리(3인칭 단수) → was",
+     "④ We all ________ tired.  ✗  우리 모두(we) → were",
+     "⑤ Those shoes ________ cheap.  ✗  저 신발들, 복수 주어 → were"
+    ]
+   },
+   "narration": "정답은 3번이에요. The cat was sleepy, 그 고양이는 졸렸어요. 5번 Those shoes는 저 신발들이라는 뜻의 복수 주어라서 were를 써요. 4번 We all은 all이 붙어 낯설지만, 우리 모두라는 뜻이라서 were를 써요.",
+   "caption": "정답 ③ The cat은 was"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ③ The cat ________ sleepy.\n\n지나간 일: I, 3인칭 단수 → was · you, we, they, 복수 → were",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ The cat ________ sleepy.",
+     "지나간 일: I, 3인칭 단수 → was · you, we, they, 복수 → were"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, be동사 과거형은 I와 3인칭 단수 주어에 was, you와 복수 주어에 were예요.",
+   "caption": "I·3인칭 단수 was · you·복수 were"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 빈칸에 'were'가 들어갈 수 없는 문장은?",
+  "passage": "",
+  "c": [
+   "The flowers ________ pretty.",
+   "Your parents ________ worried.",
+   "The cat ________ sleepy.",
+   "We all ________ tired.",
+   "Those shoes ________ cheap."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: be동사 과거형 were는 you·we·they와 복수 주어(A and B, 복수 명사)에 쓰고, I·3인칭 단수 주어에는 was를 쓴다.\n풀이 순서: ① 문장마다 주어가 한 사람·한 개인지, you이거나 둘 이상인지 가른다. → ② 한 사람·한 개(you 제외)면 were가 아니라 was다. → ③ 선택지 ③의 The cat만 3인칭 단수다. 정답은 ③.\n문장별 판정:\n정답 판단: The cat: 3인칭 단수 주어라 were가 아니라 was를 쓰므로 정답은 ③이다.\n선택지 분석:\n① [오답] The flowers: you·복수 주어라 were가 들어갈 수 있으므로 오답이다.\n② [오답] Your parents: you·복수 주어라 were가 들어갈 수 있으므로 오답이다.\n③ [정답] The cat: 3인칭 단수 주어라 were가 아니라 was를 쓰므로 정답이다.\n④ [오답] We all: you·복수 주어라 were가 들어갈 수 있으므로 오답이다.\n⑤ [오답] Those shoes: you·복수 주어라 were가 들어갈 수 있으므로 오답이다."
+ }
+}

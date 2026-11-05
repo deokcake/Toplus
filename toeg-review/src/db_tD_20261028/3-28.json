@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:06:30.405Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "dinner",
+      "1": "the dinner",
+      "2": "some dinners",
+      "3": "dinners",
+      "4": "any dinners"
+    },
+    "expl": "핵심 규칙: breakfast, lunch, dinner 같은 식사 이름은 보통 관사 없이 쓰고 복수형으로 쓰지 않는다.\n풀이 순서: ① 밑줄(a dinner)의 명사는 식사 이름이다. → ② 식사 이름(breakfast, lunch, dinner)은 관사 없이, 복수형으로 만들지 않고 쓴다. → ③ 관사도 -s도 없는 dinner가 정답이다.\n문장별 판정:\n정답 판단: dinner: 일상적인 식사 이름은 관사 없이 단수로 쓰므로 정답은 ①이다.\n선택지 분석:\n① [정답] dinner: 일상적인 식사 이름은 관사 없이 단수로 쓰므로 정답이다.\n② [오답] the dinner: 식사 이름 앞에는 the도 쓰지 않으므로 오답이다.\n③ [오답] some dinners: 식사 이름은 복수형으로 쓰지 않으므로 오답이다.\n④ [오답] dinners: 식사 이름은 복수형으로 쓰지 않으므로 오답이다.\n⑤ [오답] any dinners: 식사 이름은 복수형으로 쓰지 않으므로 오답이다.",
+    "passage": "Amy: What did you have for <u>a dinner</u> last night?\nBen: I had spaghetti with my family.",
+    "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T17:53:29.293Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T17:53:45.693Z",
+      "text": "기준 문항과 유형이 다르다.\n"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:06:30.405Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:06:24.839Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:06:30.405Z",
+      "what": "확인 완료"
+    }
+  }
+}

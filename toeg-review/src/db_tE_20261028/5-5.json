@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T09:09:18.737Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "The teacher gave they homework.",
+      "1": "Your's bag is here.",
+      "2": "The bike is hers.",
+      "3": "Mine dog is small.",
+      "4": "He is ours new friend."
+    },
+    "expl": "핵심 규칙: 명사 앞에는 소유격(my, our, his, its, their), 명사 없이 ‘~의 것’은 소유대명사(mine, ours, hers, yours, theirs), 주어 자리에는 주격, 목적어 자리에는 목적격을 쓴다. 소유격·소유대명사에는 '(아포스트로피)를 붙이지 않고, it's는 it is의 줄임말이다.\n풀이 순서: ① 대명사마다 자리를 본다: 주어 자리, 명사 앞, 명사 없이 ‘~의 것’. → ② 주어 자리는 주격, 명사 앞은 소유격, 명사가 없으면 소유대명사다. → ③ 선택지 ③만 명사 없이 hers를 써서 맞다. 정답은 ③.\n문장별 판정:\n정답 판단: 명사 없이 ‘그녀의 것’을 소유대명사 hers로 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 목적어 자리에는 목적격 them을 쓰므로 오답이다.\n② [오답] 소유격 Your에는 's를 붙이지 않으므로 오답이다.\n③ [정답] 명사 없이 ‘그녀의 것’을 소유대명사 hers로 바르게 썼으므로 정답이다.\n④ [오답] 명사 dog 앞에는 소유격 My를 쓰므로 오답이다.\n⑤ [오답] 명사 friend 앞에는 소유격 our를 쓰므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:09:17.472Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:09:18.737Z",
+      "what": "확인 완료"
+    }
+  }
+}

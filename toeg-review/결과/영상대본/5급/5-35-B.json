@@ -1,0 +1,180 @@
+{
+ "key": "5-35",
+ "type": "B",
+ "grade": 5,
+ "chapter": "CH 4 현재진행형",
+ "title": "현재진행형 바른 문장 고르기",
+ "total_sec": 127,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 4 현재진행형 · 35번 · B 유형\n\n이 문제는 현재진행형의 형태를 바르게 쓴 문장 하나를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 4 현재진행형 · 35번 · B 유형",
+     "이 문제는 현재진행형의 형태를 바르게 쓴 문장 하나를 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 4, 35번 B 유형. 이 문제는 현재진행형의 형태를 바르게 쓴 문장 하나를 고르는 문제예요.",
+   "caption": "현재진행형 바른 문장 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 중 올바른 문장을 고르시오.\n\n① I am not study now.\n② We aren't waiting for the bus.\n③ My brother doesn't doing his homework.\n④ Mina aren't washing the dishes.\n⑤ The boys is playing outside.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 올바른 문장을 고르시오.",
+     "① I am not study now.",
+     "② We aren't waiting for the bus.",
+     "③ My brother doesn't doing his homework.",
+     "④ Mina aren't washing the dishes.",
+     "⑤ The boys is playing outside."
+    ]
+   },
+   "narration": "다음 중 올바른 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n현재진행형(…하고 있다) = am/is/are + 동사의 ing형\nI → am · 3인칭 단수(he, she, it) → is · you, 복수 → are\n부정문: be동사 뒤에 not (am not, isn't, aren't)\n의문문: be동사를 주어 앞에\n예) They aren't watching TV. (그들은 TV를 보고 있지 않아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재진행형(…하고 있다) = am/is/are + 동사의 ing형",
+     "I → am · 3인칭 단수(he, she, it) → is · you, 복수 → are",
+     "부정문: be동사 뒤에 not (am not, isn't, aren't)",
+     "의문문: be동사를 주어 앞에",
+     "예) They aren't watching TV. (그들은 TV를 보고 있지 않아요.)"
+    ]
+   },
+   "narration": "현재진행형은 be동사 뒤에 동사의 ing형을 써서, 주로 지금 하고 있는 일을 나타내요. be동사는 주어에 맞춰 I에는 am, 3인칭 단수에는 is, you와 복수에는 are를 써요. 부정문은 be동사 뒤에 not을 쓰고, 의문문은 be동사를 주어 앞에 써요. 예를 들어 They aren't watching TV. 그들은 TV를 보고 있지 않아요.",
+   "caption": "am/is/are + 동사의 ing형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 중 올바른 문장을 고르시오.\n\n① I am not study now.\n② We aren't waiting for the bus.\n③ My brother doesn't doing his homework.\n④ Mina aren't washing the dishes.\n⑤ The boys is playing outside.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Mina aren't",
+       "The boys is"
+      ],
+      "strike": [
+       "④ Mina aren't washing the dishes.",
+       "⑤ The boys is playing outside."
+      ],
+      "note": "주어와 be동사의 짝: ④ Mina(3인칭 단수) → isn't, ⑤ The boys(복수) → are"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "am not study",
+       "doesn't doing"
+      ],
+      "strike": [
+       "① I am not study now.",
+       "③ My brother doesn't doing his homework."
+      ],
+      "note": "동사가 ing형인지: ① am not study ✗ → studying, ③ doesn't doing ✗ → isn't doing"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② We aren't waiting for the bus."
+      ],
+      "strike": [],
+      "note": "남은 ②: We(복수) → aren't + waiting ✓"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 주어와 be동사의 짝을 보면, 4번 Mina는 3인칭 단수라 isn't를 쓰고, 5번 The boys는 복수라 are를 써야 해요. 둘째, 동사가 ing형인지 봐요. 1번은 am not 뒤에 study가 아니라 studying을 쓰고, 3번은 진행형 부정문이라 doesn't가 아니라 isn't doing으로 써야 해요. 셋째, 남은 2번은 복수 주어 We에 aren't를 쓰고 waiting을 써서 맞아요. We aren't waiting for the bus. 우리는 버스를 기다리고 있지 않아요.",
+   "caption": "주어와 be동사 → ing형 → ②"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 22,
+   "screen": {
+    "text": "① I am not study now.  ✗  am not 뒤에는 studying\n② We aren't waiting for the bus.  ✓  We → aren't + waiting\n③ My brother doesn't doing his homework.  ✗  진행형 부정은 isn't doing\n④ Mina aren't washing the dishes.  ✗  3인칭 단수 Mina → isn't\n⑤ The boys is playing outside.  ✗  복수 The boys → are",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① I am not study now.  ✗  am not 뒤에는 studying",
+     "② We aren't waiting for the bus.  ✓  We → aren't + waiting",
+     "③ My brother doesn't doing his homework.  ✗  진행형 부정은 isn't doing",
+     "④ Mina aren't washing the dishes.  ✗  3인칭 단수 Mina → isn't",
+     "⑤ The boys is playing outside.  ✗  복수 The boys → are"
+    ]
+   },
+   "narration": "정답은 2번이에요. 3번은 not이 들어 있어 맞아 보이지만, doesn't 뒤에는 동사원형이 와요. 진행형으로 쓰면 My brother isn't doing his homework. 내 남동생은 숙제를 하고 있지 않아요. 5번은 playing은 맞지만 The boys에 맞는 are를 써야 해요.",
+   "caption": "정답 ② We aren't waiting"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ② We aren't waiting for the bus.\n\n진행형 부정문 = 주어에 맞는 be동사 + not + 동사의 ing형",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② We aren't waiting for the bus.",
+     "진행형 부정문 = 주어에 맞는 be동사 + not + 동사의 ing형"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 진행형 부정문은 주어에 맞는 be동사 뒤에 not을 쓰고, 동사는 ing형으로 써요.",
+   "caption": "be동사 + not + 동사의 ing형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 올바른 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "I am not study now.",
+   "We aren't waiting for the bus.",
+   "My brother doesn't doing his homework.",
+   "Mina aren't washing the dishes.",
+   "The boys is playing outside."
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 현재진행형은 am/is/are + 동사원형-ing로 쓰고, 부정문은 be동사 뒤에 not을, 의문문은 be동사를 주어 앞에 둔다. be동사는 주어에 맞춰 am/is/are를 쓴다.\n풀이 순서: ① 문장마다 세 가지를 본다: 주어와 be동사의 짝, be동사 뒤가 -ing형인지(철자 포함), not의 자리. → ② 하나라도 어긋난 문장을 지운다. → ③ 선택지 ②만 aren't + waiting으로 바르다. 정답은 ②.\n문장별 판정:\n정답 판단: 주어 We에 aren't + -ing로 부정문을 바르게 만들었으므로 정답은 ②이다.\n선택지 분석:\n① [오답] be동사 뒤에는 동사원형이 아니라 -ing형 studying을 써야 하므로 오답이다.\n② [정답] 주어 We에 aren't + -ing로 부정문을 바르게 만들었으므로 정답이다.\n③ [오답] 진행형 부정문은 doesn't가 아니라 isn't + -ing로 써야 하므로 오답이다.\n④ [오답] 3인칭 단수 주어 Mina에는 isn't를 써야 하므로 오답이다.\n⑤ [오답] 복수 주어 The boys에는 are를 써야 하므로 오답이다."
+ }
+}

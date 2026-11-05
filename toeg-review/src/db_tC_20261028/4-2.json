@@ -1,0 +1,31 @@
+{
+  "by": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-24T02:41:46.499Z",
+  "doneBy": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "juice",
+      "1": "sugar",
+      "2": "cookie",
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 사람·동물·물건처럼 하나씩 셀 수 있는 명사는 a/an과 복수형을 쓰고, 물질(water, sugar)·추상 개념·돈(money) 등은 셀 수 없는 명사로 쓴다.\n풀이 순서: ① 낱말마다 a/an을 붙이거나 복수형(-s)으로 쓸 수 있는지 따져 본다. → ② 하나, 둘로 세지 않고 양으로 다루는 명사를 지운다: juice, sugar, money, water. → ③ 하나씩 셀 수 있는 것은 cookie뿐이다.\n문장별 판정:\n정답 판단: 하나씩 셀 수 있는 명사이므로(a cookie, two cookies) 정답은 ③이다.\n선택지 분석:\n① [오답] 음료인 juice는 셀 수 없는 명사이므로 오답이다.\n② [오답] 물질인 sugar는 셀 수 없는 명사이므로 오답이다.\n③ [정답] 하나씩 셀 수 있는 명사이므로(a cookie, two cookies) 정답이다.\n④ [오답] money는 셀 수 없는 명사이므로 오답이다.\n⑤ [오답] 물질인 water는 셀 수 없는 명사이므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 셀 수 있는 명사를 고르시오."
+  },
+  "editors": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": "2026-10-24T02:41:16.607Z"
+  },
+  "tab": "ai7fx4gw",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": {
+      "at": "2026-10-24T02:41:46.499Z",
+      "what": "확인 완료"
+    }
+  }
+}

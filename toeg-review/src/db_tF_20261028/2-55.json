@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T10:05:39.453Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Tom, Amy",
+      "1": "Amy, Jin, Leo",
+      "2": "Mina, Leo",
+      "3": "Tom, Jin",
+      "4": "Amy, Mina"
+    },
+    "expl": "핵심 규칙: 명사를 꾸미는 to부정사에서 명사가 전치사의 목적어이면 전치사를 남긴다(a chair to sit on). -thing/-one은 형용사가 뒤에서 꾸민다. 성품 평가 형용사 뒤 의미상 주어는 of, 판단 형용사 뒤는 for + 목적격이다. enough는 형용사 뒤에 오고, too ~ to는 so ~ that … can't로 바꿀 수 있다.\n풀이 순서: ① 학생마다 예문과 설명을 따로 따진다. → ② 기준: 명사가 전치사의 목적어이면 to부정사 뒤에 전치사를 남긴다. -one·-thing은 형용사가 뒤에 온다. 성품 형용사 뒤 의미상 주어는 of다. enough는 형용사 뒤에 온다. → ③ Tom은 eat 뒤에 with가 필요 없다고 했고, Jin은 foolish for me를 옳다고 했으며(of me), Leo는 enough large를 옳다고 했다(large enough). 셋 다 틀렸다. 옳게 설명한 학생만 모으면 Amy, Mina이다.\n문장별 판정:\nTom 틀림: eat with a spoon의 with를 남겨 a spoon to eat with로 써야 한다.\nAmy 옳음: -one은 형용사가 뒤에서 꾸미고 그 뒤에 to부정사가 온다.\nJin 틀림: foolish는 사람의 성격을 나타내는 형용사라 of me로 써야 한다.\nMina 옳음: enough to는 so ~ that … can으로 바꿀 수 있다.\nLeo 틀림: enough는 형용사 뒤에 오므로 large enough가 맞다.\n정답 판단: 올바르게 설명한 학생은 Amy, Mina이다.\n선택지 분석:\n① [오답] Tom는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다.\n② [오답] Jin, Leo는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Leo는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Amy를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Tom, Jin는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Amy, Mina를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 올바르게 설명한 학생 Amy, Mina를 빠짐없이 골랐으므로 정답이다.",
+    "passage": "Tom: I need a spoon to eat. 은 숟가락으로 먹는 것이라 전치사가 필요 없어요.\nAmy: I'm looking for someone kind to help me. 는 <-one + 형용사 + to부정사> 어순이라 옳아요.\nJin: It was foolish for me to ignore the warning. 은 행동 자체를 판단해서 for를 썼어요.\nMina: The coffee is cool enough to drink. 는 The coffee is so cool that I can drink it. 으로 바꿀 수 있어요.\nLeo: The room is enough large for us to use. 는 enough의 위치가 옳아요.",
+    "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오."
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T10:05:39.453Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T10:05:39.453Z",
+      "what": "확인 완료"
+    }
+  }
+}

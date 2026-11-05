@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T08:01:30.457Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Mom made a cake for <u>we</u>. → Mom made a cake for <u>us</u>.",
+      "1": "This room is <u>my</u>. → This room is <u>mine</u>.",
+      "2": "Jane waited for <u>I</u>. → Jane waited for <u>mine</u>.",
+      "3": "<u>Who's</u> phone is ringing? → <u>Whose</u> phone is ringing?",
+      "4": "The blue pen is <u>his'</u>. → The blue pen is <u>his</u>."
+    },
+    "expl": "핵심 규칙: 동사·전치사의 목적어 자리에는 목적격(me, him, her, us, them)을 쓴다. 명사 없이 ‘~의 것’은 소유대명사(mine, yours, hers, ours, theirs)로 쓰며 아포스트로피(')를 붙이지 않고, ‘누구의’는 Whose로 쓴다.\n풀이 순서: ① 고친 말이 그 자리에 맞는지 본다: 명사 앞이면 소유격, 명사가 없으면 소유대명사, 동사·전치사 뒤면 목적격. → ② 선택지 ③은 전치사 for 뒤라 목적격 me가 와야 하는데 소유대명사 mine으로 고쳤다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 전치사 for의 목적어는 목적격 me여야 하는데 소유대명사 mine으로 고쳐 바르게 고치지 못했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 전치사 뒤에는 목적격 us를 쓰고, 바르게 고쳤으므로 오답이다.\n② [오답] 명사 없이 ‘내 것’은 mine이고, 바르게 고쳤으므로 오답이다.\n③ [정답] 전치사 for의 목적어는 목적격 me여야 하는데 소유대명사 mine으로 고쳐 바르게 고치지 못했으므로 정답이다.\n④ [오답] ‘누구의’는 Whose이고, 바르게 고쳤으므로 오답이다.\n⑤ [오답] his는 소유격과 소유대명사의 형태가 같아 '를 붙이지 않으고, 바르게 고쳤으므로 오답이다.",
+    "passage": null,
+    "stem": "밑줄 친 부분을 바르게 고치지 못한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T08:01:22.711Z"
+  },
+  "tab": "x2buc7cy",
+  "updatedAt": "2026-10-27T08:01:30.457Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T08:01:30.457Z",
+      "what": "확인 완료"
+    }
+  }
+}

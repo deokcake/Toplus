@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 순서 정정",
+  "done": true,
+  "doneAt": "2026-10-27T05:28:16.996Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "'easier'는 'easy'의 비교급으로, 'more easy'로 쓰지 않는다.",
+      "1": "'even' 대신 'so'를 써도 비교급을 강조할 수 있다.",
+      "2": "'even'은 비교급 앞에서 ‘훨씬’이라는 뜻으로 쓰였다.",
+      "3": "이 문장은 지난번 시험보다 이번 시험이 훨씬 더 쉬웠다는 뜻이다.",
+      "4": "'than' 뒤의 'the last one'은 지난번 시험을 가리킨다."
+    },
+    "expl": "핵심 규칙: 비교급은 much·even·far·still·a lot·a little로 강조하거나 정도를 나타내고, very·so로는 비교급을 꾸미지 않는다. 짧은 단어는 -er, 긴 단어는 more를 붙이며 둘을 겹쳐 쓰지 않는다.\n풀이 순서: ① 밑줄 부분을 나눈다: 강조어 even + 비교급 easier + than. → ② 보기마다 강조어·비교급 형태·than의 설명이 맞는지 본다. 비교급을 강조하는 말은 much, even, far, a lot이고 very는 안 된다. → ③ 선택지 ②는 even 대신 so를 써도 된다고 했지만 so도 비교급을 강조하지 못한다. 정답은 ②.\n문장별 판정:\n정답 판단: so는 비교급을 꾸미지 않으므로 옳지 않은 설명이다.\n선택지 분석:\n① [오답] easy의 비교급은 easier이므로 옳은 설명이다. 따라서 오답이다.\n② [정답] so는 비교급을 꾸미지 않으므로 옳지 않은 설명이다. 따라서 정답이다.\n③ [오답] even은 비교급을 강조하므로 옳은 설명이다. 따라서 오답이다.\n④ [오답] even easier는 ‘훨씬 더 쉬운’이라는 뜻이므로 옳은 설명이다. 따라서 오답이다.\n⑤ [오답] one은 앞의 test를 대신하므로 옳은 설명이다. 따라서 오답이다.",
+    "passage": "The test was <u>even easier than</u> the last one.",
+    "stem": "다음 문장에 대한 설명으로 옳지 않은 것은?"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:28:16.996Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:28:16.996Z",
+      "what": "확인 완료"
+    }
+  }
+}

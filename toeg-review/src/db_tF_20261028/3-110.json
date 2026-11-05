@@ -1,0 +1,37 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:33:59.027Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "My bag was heaviest than his bag on the school bus.",
+      "1": "My bag was very heavy than his bag on the school bus.",
+      "2": "My bag was heavy than his bag on the school bus.",
+      "3": "My bag was more heavy than his bag on the school bus.",
+      "4": "My bag was heavier than his bag on the school bus."
+    },
+    "expl": "핵심 규칙: than 앞에는 비교급, the ~ of 구문에는 최상급을 쓴다. 짧은 단어는 -er·-est를 붙이고 more·most를 겹쳐 쓰지 않으며, very는 비교급을 꾸미지 않는다.\n풀이 순서: ① 밑줄 친 문장에서 틀린 곳을 찾는다: more heavier. → ② more와 -er을 겹쳐 쓸 수 없으므로 heavier만 쓴다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: heavy의 비교급 heavier로 바르게 고쳤으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] than 앞에는 최상급이 아니라 비교급을 쓰므로 오답이다.\n② [오답] than 앞에는 very + 원급이 아니라 비교급을 쓰므로 오답이다.\n③ [오답] than 앞에는 원급이 아니라 비교급을 쓰므로 오답이다.\n④ [오답] heavy의 비교급은 more heavy가 아니라 heavier이므로 오답이다.\n⑤ [정답] heavy의 비교급 heavier로 바르게 고쳤으므로 정답이다.",
+    "passage": "Last Friday, our class went on a two-day school trip to Gyeongju. I packed my bag for the trip the night before, and my friend Minsu packed his bag, too. <u>My bag was more heavier than his bag on the school bus</u>. I had too many clothes and snacks in it. Minsu laughed at me when he saw my bag, but he helped me carry it.",
+    "stem": "다음 글에서 밑줄 친 문장을 어법상 올바르게 고친 것은?"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:28:34.666Z",
+      "text": "기준 문항에 비해 지문이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:33:59.027Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:33:53.169Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:33:59.027Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:36:48.639Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "more",
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 비교급 앞에는 much·far·even·a lot·a little을 쓸 수 있다. very는 쓰지 않으며, -er 비교급 앞에 more를 겹쳐 쓰지도 않는다.\n풀이 순서: ① 빈칸 뒤가 비교급(older)이다. → ② 비교급 앞에 쓸 수 있는 말(much, even, far, a lot, a little)을 지운다. → ③ 남는 more는 비교급 앞에 쓸 수 없다.\n문장별 판정:\n정답 판단: older가 이미 비교급이라 more를 겹쳐 쓸 수 없으므로 정답은 ②이다.\n선택지 분석:\n① [오답] far는 비교급을 강조할 수 있으므로 오답이다.\n② [정답] older가 이미 비교급이라 more를 겹쳐 쓸 수 없으므로 정답이다.\n③ [오답] much는 비교급을 강조할 수 있으므로 오답이다.\n④ [오답] even은 비교급을 강조할 수 있으므로 오답이다.\n⑤ [오답] a little은 비교급 앞에서 ‘조금 더’를 나타낼 수 있으므로 오답이다.",
+    "passage": "My brother is _______ older than me.",
+    "stem": null
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:36:47.216Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:36:48.639Z",
+      "what": "확인 완료"
+    }
+  }
+}

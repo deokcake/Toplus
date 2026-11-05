@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T03:31:52.117Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "are",
+      "1": "were",
+      "2": "is",
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 현재형 be동사는 주어가 I면 am, 3인칭 단수(he, she, 사람 한 명)면 is, you·we·they면 are를 쓴다. 뒤 문장이 현재형이면 과거형 was는 쓰지 않는다.\n풀이 순서: ① 주어를 본다: Mina(한 사람) → is. → ② 둘째 문장(She has ~ now)이 현재의 일이므로 현재형을 쓴다. → ③ 정답은 is.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 Mina에 맞는 현재형이므로 정답은 ③이다.\n선택지 분석:\n① [오답] are는 you·복수 주어에 쓰므로 오답이다.\n② [오답] were는 과거형이고 복수 주어에 쓰므로 오답이다.\n③ [정답] 3인칭 단수 주어 Mina에 맞는 현재형이므로 정답이다.\n④ [오답] be는 원형이라 주어 뒤에 그대로 쓸 수 없으므로 오답이다.\n⑤ [오답] am은 주어 I에만 쓰므로 오답이다.",
+    "passage": "Mina _______ ready for the science class. She has her book now.",
+    "stem": "빈칸에 들어갈 알맞은 단어를 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T03:31:50.369Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T03:31:52.117Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:31:52.117Z",
+      "what": "확인 완료"
+    }
+  }
+}

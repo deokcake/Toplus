@@ -1,0 +1,180 @@
+{
+ "key": "3-18",
+ "type": "C",
+ "grade": 3,
+ "chapter": "CH 2 일반동사",
+ "title": "일반동사 현재 부정문 does not",
+ "total_sec": 136,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 13,
+   "screen": {
+    "text": "3급 · CH 2 일반동사 · 18번 · C 유형\n\n이 문제는 주어 Jane과 일반동사 studies가 쓰인 현재 문장을 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 2 일반동사 · 18번 · C 유형",
+     "이 문제는 주어 Jane과 일반동사 studies가 쓰인 현재 문장을 부정문으로 바르게 바꾼 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 2, 18번 C 유형. 이 문제는 주어 Jane과 일반동사 studies가 쓰인 현재 문장을 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+   "caption": "일반동사 현재 부정문"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 문장을 부정문으로 바꾼 것을 고르시오.\n\nJane studies English every night.\n\n① Jane does not studies English every night.\n② Jane not studies English every night.\n③ Jane do not study English every night.\n④ Jane does not study English every night.\n⑤ Jane is not study English every night.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장을 부정문으로 바꾼 것을 고르시오.",
+     "Jane studies English every night.",
+     "① Jane does not studies English every night.",
+     "② Jane not studies English every night.",
+     "③ Jane do not study English every night.",
+     "④ Jane does not study English every night.",
+     "⑤ Jane is not study English every night."
+    ]
+   },
+   "narration": "다음 문장을 부정문으로 바꾼 것을 고르세요. Jane studies English every night. 제인은 매일 밤 영어를 공부해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n일반동사 현재 문장의 부정문(~하지 않아요) → do/does + not + 동사원형\n3인칭 단수 주어(he, she, it, Mina 등) → does not (줄여서 doesn't)\nI, you, 복수 주어(we, they 등) → do not (줄여서 don't)\ndo not, does not 뒤의 동사는 원형 (cries → cry)\n예) My baby cries at night. → My baby does not cry at night. (우리 아기는 밤에 울지 않아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "일반동사 현재 문장의 부정문(~하지 않아요) → do/does + not + 동사원형",
+     "3인칭 단수 주어(he, she, it, Mina 등) → does not (줄여서 doesn't)",
+     "I, you, 복수 주어(we, they 등) → do not (줄여서 don't)",
+     "do not, does not 뒤의 동사는 원형 (cries → cry)",
+     "예) My baby cries at night. → My baby does not cry at night. (우리 아기는 밤에 울지 않아요.)"
+    ]
+   },
+   "narration": "일반동사 현재 문장을 하지 않는다는 뜻의 부정문으로 바꿀 때는 동사 앞에 do not이나 does not을 써요. 주어가 he, she, it 같은 3인칭 단수이면 does not, I, you나 복수이면 do not을 써요. 뒤의 동사는 꼭 동사원형으로 써요. 예를 들어 My baby cries at night는 My baby does not cry at night가 돼요. 우리 아기는 밤에 울지 않아요.",
+   "caption": "do/does not + 동사원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 35,
+   "screen": {
+    "text": "다음 문장을 부정문으로 바꾼 것을 고르시오.\n\nJane studies English every night.\n\n① Jane does not studies English every night.\n② Jane not studies English every night.\n③ Jane do not study English every night.\n④ Jane does not study English every night.\n⑤ Jane is not study English every night.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Jane studies English every night."
+      ],
+      "strike": [
+       "② Jane not studies English every night.",
+       "⑤ Jane is not study English every night."
+      ],
+      "note": "studies = 일반동사 study의 현재형 → do/does가 필요. not만 넣은 ②, be동사 is not을 쓴 ⑤ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "Jane studies English every night."
+      ],
+      "strike": [
+       "③ Jane do not study English every night."
+      ],
+      "note": "Jane = 3인칭 단수 → does not. do not을 쓴 ③ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ Jane does not study English every night."
+      ],
+      "strike": [
+       "① Jane does not studies English every night."
+      ],
+      "note": "does not 뒤는 동사원형 study → ① 지움, ④ 남음"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, studies는 일반동사 study의 현재형이니 do나 does가 필요해서, not만 넣은 2번과 be동사 is not을 쓴 5번은 지워요. 둘째, 주어 Jane은 3인칭 단수라서 does not을 쓰니, do not을 쓴 3번도 지워요. 셋째, does not 뒤에는 동사원형 study를 쓰니 studies를 쓴 1번도 틀렸어요. 남는 것은 4번이에요. Jane does not study English every night. 제인은 매일 밤 영어를 공부하지 않아요.",
+   "caption": "일반동사 → Jane → does not study"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 27,
+   "screen": {
+    "text": "① Jane does not studies English every night.  ✗  does not 뒤에 studies (→ study)\n② Jane not studies English every night.  ✗  does 없이 not만 넣었어요\n③ Jane do not study English every night.  ✗  Jane에는 do not이 아니라 does not\n④ Jane does not study English every night.  ✓  Jane → does not + 동사원형 study\n⑤ Jane is not study English every night.  ✗  be동사 is not과 동사원형 study를 나란히 썼어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Jane does not studies English every night.  ✗  does not 뒤에 studies (→ study)",
+     "② Jane not studies English every night.  ✗  does 없이 not만 넣었어요",
+     "③ Jane do not study English every night.  ✗  Jane에는 do not이 아니라 does not",
+     "④ Jane does not study English every night.  ✓  Jane → does not + 동사원형 study",
+     "⑤ Jane is not study English every night.  ✗  be동사 is not과 동사원형 study를 나란히 썼어요"
+    ]
+   },
+   "narration": "정답은 4번이에요. 1번은 does not 뒤에 studies를 그대로 두어서 틀렸어요. does가 이미 주어에 맞춘 모양이니 동사는 원형 study로 써요. 3번은 동사원형은 맞지만, Jane에 does not이 아니라 do not을 써서 틀렸어요. 5번은 be동사 is not 뒤에 동사원형 study를 나란히 써서 틀렸어요.",
+   "caption": "정답 ④"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ④ Jane does not study English every night.\n\n3인칭 단수 주어 → does not + 동사원형 (I, you, 복수 → do not)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ Jane does not study English every night.",
+     "3인칭 단수 주어 → does not + 동사원형 (I, you, 복수 → do not)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 3인칭 단수 주어에는 does not을 쓰고, 그 뒤에는 동사원형을 써요.",
+   "caption": "3인칭 단수 → does not + 원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장을 부정문으로 바꾼 것을 고르시오.",
+  "passage": "Jane studies English every night.",
+  "c": [
+   "Jane does not studies English every night.",
+   "Jane not studies English every night.",
+   "Jane do not study English every night.",
+   "Jane does not study English every night.",
+   "Jane is not study English every night."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 현재시제의 3인칭 단수 주어는 일반동사에 -(e)s를 붙이지만, does 뒤에서는 동사원형을 쓴다.\n풀이 순서: ① 동사(studies)가 일반동사의 현재형이다. 부정문은 do/does + not + 동사원형이다. → ② 주어(Jane, 3인칭 단수)에 맞춰 does not을 쓴다. 본동사는 원형(study)으로 되돌린다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 현재 일반동사 부정문은 주어에 맞는 does not + 동사원형으로 만든다. 'Jane does not study English every night.'는 본동사 원형 'study'까지 정확해 정답은 ④이다.\n선택지 분석:\n① [오답] do/does가 이미 주어 정보를 표시하므로 뒤에는 동사원형 'study'를 써야 한다. 'studies'를 사용해 오답이다.\n② [오답] 일반동사의 현재 부정문은 not만 본동사 앞에 두지 않고 do/does not을 사용한다. 'Jane does not study English every night.'가 올바른 형태이다.\n③ [오답] 주어에 맞는 부정 조동사는 'does not'인데 'do not'을 사용했다. 따라서 오답이다.\n④ [정답] 현재 일반동사 부정문은 주어에 맞는 does not + 동사원형으로 만든다. 'Jane does not study English every night.'는 본동사 원형 'study'까지 정확해 정답이다.\n⑤ [오답] 'study'는 일반동사이므로 be동사 부정형을 바로 붙이지 않는다. 주어에 맞는 'does not + study'가 필요하다."
+ }
+}

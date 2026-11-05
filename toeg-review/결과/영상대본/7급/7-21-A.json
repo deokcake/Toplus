@@ -1,0 +1,177 @@
+{
+ "key": "7-21",
+ "type": "A",
+ "grade": 7,
+ "chapter": "CH 3 be동사",
+ "title": "문장에서 be동사 찾기",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "7급 · CH 3 be동사 · 21번\n\n이 문제는 주어가 The man인 문장에서 be동사를 찾아 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 3 be동사 · 21번",
+     "이 문제는 주어가 The man인 문장에서 be동사를 찾아 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 3, 21번. 이 문제는 주어가 The man인 문장에서 be동사를 찾아 고르는 문제예요.",
+   "caption": "문장에서 be동사 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 문장에서 be동사에 해당하는 것을 고르시오.\n\nThe man is my father.\n\n① The\n② man\n③ is\n④ my\n⑤ father",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장에서 be동사에 해당하는 것을 고르시오.",
+     "The man is my father.",
+     "① The",
+     "② man",
+     "③ is",
+     "④ my",
+     "⑤ father"
+    ]
+   },
+   "narration": "다음 문장에서 be동사에 해당하는 것을 고르세요. The man is my father. 그 남자는 나의 아버지예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 현재형: am, is, are\n뜻: ~이다, ~하다, ~에 있다\n자리: 보통 주어 바로 뒤\n예) She is a nurse. (그녀는 간호사예요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 현재형: am, is, are",
+     "뜻: ~이다, ~하다, ~에 있다",
+     "자리: 보통 주어 바로 뒤",
+     "예) She is a nurse. (그녀는 간호사예요.)"
+    ]
+   },
+   "narration": "be동사의 현재형은 am, is, are 세 가지예요. be동사는 주어가 누구인지, 무엇인지, 어떤 상태인지, 어디에 있는지 말할 때 써요. 우리말로는 무엇이다, 어떠하다, 어디에 있다처럼 옮기고, 보통 주어 바로 뒤에 와요. She is a nurse. 그녀는 간호사예요. 주어 She 바로 뒤의 is가 be동사예요.",
+   "caption": "be동사 현재형 am, is, are"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 문장에서 be동사에 해당하는 것을 고르시오.\n\nThe man is my father.\n\n① The\n② man\n③ is\n④ my\n⑤ father",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "is"
+      ],
+      "strike": [],
+      "note": "am, is, are 가운데 하나를 찾는다 → is"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "The man is"
+      ],
+      "strike": [],
+      "note": "is는 주어 The man 바로 뒤 → 그 남자가 누구인지 말해 준다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ is"
+      ],
+      "strike": [
+       "① The",
+       "② man",
+       "④ my",
+       "⑤ father"
+      ],
+      "note": "The, man, my, father는 be동사가 아니다 → 정답 ③ is"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장에서 am, is, are 가운데 하나를 찾아요. 이 문장에는 is가 있어요. 둘째, is는 주어 The man 바로 뒤에서 그 남자가 누구인지 말해 줘요. 셋째, The, man, my, father는 be동사가 아니니까 지워요. 남는 것은 3번 is예요.",
+   "caption": "is 찾기 → 주어 The man 바로 뒤"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① The  ✗  명사 man 앞에 붙는 말이에요\n② man  ✗  주어로 쓰인 명사예요\n③ is  ✓  주어 The man 바로 뒤의 be동사예요\n④ my  ✗  ‘나의’라는 뜻의 소유격이에요\n⑤ father  ✗  ‘아버지’라는 뜻의 명사예요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① The  ✗  명사 man 앞에 붙는 말이에요",
+     "② man  ✗  주어로 쓰인 명사예요",
+     "③ is  ✓  주어 The man 바로 뒤의 be동사예요",
+     "④ my  ✗  ‘나의’라는 뜻의 소유격이에요",
+     "⑤ father  ✗  ‘아버지’라는 뜻의 명사예요"
+    ]
+   },
+   "narration": "정답은 3번 is예요. 우리말로 나의 아버지이다라고 옮기니까 5번 father를 고르기 쉬워요. 하지만 father는 아버지라는 명사이고, 이 문장에서 이다의 뜻은 is가 맡아요. 2번 man은 주어로 쓰인 명사이고, 4번 my는 나의라는 뜻의 소유격이에요.",
+   "caption": "정답 ③ is"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ③ is\n\nbe동사 현재형 am, is, are는 보통 주어 바로 뒤에 와요",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ is",
+     "be동사 현재형 am, is, are는 보통 주어 바로 뒤에 와요"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, be동사의 현재형은 am, is, are이고, 보통 주어 바로 뒤에 와요.",
+   "caption": "am, is, are는 보통 주어 바로 뒤"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장에서 be동사에 해당하는 것을 고르시오.",
+  "passage": "The man is my father.",
+  "c": [
+   "The",
+   "man",
+   "is",
+   "my",
+   "father"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: be동사는 am, is, are 세 가지다. ‘~이다, ~에 있다’라는 뜻으로 주어 뒤에 온다.\n풀이 순서: ① 문장에서 am, is, are 가운데 하나를 찾는다. → ② 주어(The man) 바로 뒤에 있는 is가 be동사다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: is가 be동사이므로 정답은 ③이다.\n선택지 분석:\n① [오답] The는 명사 앞에 붙는 말이므로 오답이다.\n② [오답] man은 명사(주어)이므로 오답이다.\n③ [정답] is가 be동사이므로 정답이다.\n④ [오답] my는 ‘나의’라는 소유격이므로 오답이다.\n⑤ [오답] father는 명사이므로 오답이다."
+ }
+}

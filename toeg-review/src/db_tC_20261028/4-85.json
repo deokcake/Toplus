@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:43:06.254Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "ⓐ, ⓑ",
+      "1": "ⓐ, ⓒ",
+      "2": "ⓑ, ⓒ",
+      "3": "ⓑ, ⓓ",
+      "4": "ⓒ, ⓓ"
+    },
+    "expl": "핵심 규칙: 장소는 on(표면·벽), in(공간 안·도시·강·하늘·물속), at(한 지점·at home·at school·at the gate), under(아래), between(둘 사이)으로 나타낸다.\n풀이 순서: ① 문장마다 전치사 뒤의 장소가 표면인지, 공간의 안인지, 한 지점인지 가른다. → ② ⓑ on the restaurant(at the restaurant), ⓓ on the pool(in the pool)이 틀렸다. → ③ 옳은 문장만 고른 ⓐ, ⓒ가 정답이다.\n문장별 판정:\nⓐ O. 부엌 안에는 in을 쓴다.\nⓑ X. 식당 안이나 식당에서는 in(at) the restaurant로 쓴다.\nⓒ O. 탁자 아래에는 under를 쓴다.\nⓓ X. 수영장 물속은 in the pool로 쓴다.\n정답 판단: 장소 전치사가 옳은 문장은 ⓐ, ⓒ이다.\n선택지 분석:\n① [오답] ⓑ는 옳은 문장이 아니고, 옳은 문장 ⓒ를 빠뜨렸다. 따라서 오답이다.\n② [정답] 옳은 문장 ⓐ, ⓒ를 빠짐없이 골랐으므로 정답이다.\n③ [오답] ⓑ는 옳은 문장이 아니고, 옳은 문장 ⓐ를 빠뜨렸다. 따라서 오답이다.\n④ [오답] ⓑ, ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓐ, ⓒ를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] ⓓ는 옳은 문장이 아니고, 옳은 문장 ⓐ를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "ⓐ My mom is in the kitchen.\nⓑ We had lunch on the restaurant.\nⓒ The cat is under the table.\nⓓ The kids are swimming on the pool.",
+    "stem": "다음 중 장소 전치사의 쓰임이 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:43:04.995Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:43:06.254Z",
+      "what": "확인 완료"
+    }
+  }
+}

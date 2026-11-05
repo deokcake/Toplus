@@ -1,0 +1,482 @@
+{
+ "A": {
+  "title": "주어에 맞는 wasn't와 weren't",
+  "intro": "이 문제는 wasn't와 weren't가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 과거형 was, were = 무엇이었다, 어떠했다, 어디에 있었다",
+    "I · he, she, it(나도 너도 아닌 하나) · 셀 수 없는 것 → was",
+    "you(한 명이어도) · we, they · 여럿 → were",
+    "부정문: be동사 뒤에 not → wasn't(was not), weren't(were not)",
+    "예) Ben wasn't sad. (벤은 슬프지 않았어요.)"
+   ],
+   "narration": "be동사 과거형 was와 were는 무엇이었다, 어떠했다, 어디에 있었다는 뜻이에요. I와 he, she, it 같은 하나, 셀 수 없는 것에는 was를 써요. you는 한 사람이어도 were를 쓰고, we, they와 여럿에도 were예요. 부정은 was not, were not, 줄이면 wasn't, weren't예요. Ben wasn't sad. 벤은 슬프지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "주어 찾기: I, They, It, The movie, She",
+    "highlight": [
+     "① I",
+     "② They",
+     "③ It",
+     "④ The movie",
+     "⑤ She"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 맨 앞에 있는 주어를 찾아요."
+   },
+   {
+    "note": "I → was not ✓ / They(여럿) → weren't ✓ / The movie, She(하나) → wasn't ✓",
+    "highlight": [],
+    "strike": [
+     "① I was not brave.",
+     "② They weren't my friends.",
+     "④ The movie wasn't interesting.",
+     "⑤ She wasn’t clever."
+    ],
+    "narration": "둘째, I에는 was not, 여럿인 They에는 weren't, 영화 한 편인 The movie와 한 사람인 She에는 wasn't를 바르게 썼어요. 그래서 1번, 2번, 4번, 5번은 맞는 문장이에요."
+   },
+   {
+    "note": "It(하나)인데 weren't ✗ → It wasn't → 틀린 문장은 ③",
+    "highlight": [
+     "③ It weren't heavy."
+    ],
+    "strike": [
+     "It weren't"
+    ],
+    "narration": "셋째, 3번의 주어 It은 나도 너도 아닌 하나이니 weren't가 아니라 wasn't를 써야 해요. It wasn't heavy. 그것은 무겁지 않았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I was not brave.  ✗  주어 I에는 was → was not이 맞아요",
+    "② They weren't my friends.  ✗  They는 여럿 → weren't가 맞아요",
+    "③ It weren't heavy.  ✓  It은 하나 → wasn't로 고쳐야 해요 (틀린 문장)",
+    "④ The movie wasn't interesting.  ✗  The movie는 영화 한 편 → wasn't가 맞아요",
+    "⑤ She wasn’t clever.  ✗  She는 한 사람(나도 너도 아님) → wasn't가 맞아요"
+   ],
+   "narration": "정답은 3번이에요. 주어 It은 나도 너도 아닌 하나이니 weren't가 아니라 wasn't를 써야 해요. 1번은 not을 줄이지 않고 was not으로 썼지만, I에는 was를 쓰니 맞는 문장이에요. 4번 The movie는 영화 한 편이라 wasn't가 맞아요. 2번 They는 여럿이라 weren't가 맞아요."
+  },
+  "summary": {
+   "card": "I · 나도 너도 아닌 하나 · 셀 수 없는 것 → wasn't  ·  you · we · they · 여럿 → weren't",
+   "narration": "정답은 3번이에요. 기억할 것, I와 나도 너도 아닌 하나, 셀 수 없는 것에는 wasn't, you와 여럿에는 weren't를 써요."
+  },
+  "captions": [
+   "wasn't와 weren't, 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "I·하나는 was, you·여럿은 were",
+   "주어 찾기 → 맞는 문장 지우기 → ③",
+   "정답 ③ It weren't → It wasn't",
+   "I·하나 wasn't, you·여럿 weren't"
+  ],
+  "sec": [
+   11,
+   13,
+   30,
+   34,
+   28,
+   12
+  ]
+ },
+ "B": {
+  "title": "주어에 맞는 wasn't와 weren't",
+  "intro": "이 문제는 wasn't와 weren't가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 과거형 was, were = 무엇이었다, 어떠했다, 어디에 있었다",
+    "I · he, she, it(나도 너도 아닌 하나) · 셀 수 없는 것 → was",
+    "you(한 명이어도) · we, they · 여럿 → were",
+    "부정문: be동사 뒤에 not → wasn't(was not), weren't(were not)",
+    "예) Ben wasn't sad. (벤은 슬프지 않았어요.)"
+   ],
+   "narration": "be동사 과거형 was와 were는 무엇이었다, 어떠했다, 어디에 있었다는 뜻이에요. I와 he, she, it 같은 하나, 셀 수 없는 것에는 was를 써요. you는 한 사람이어도 were를 쓰고, we, they와 여럿에도 were예요. 부정은 was not, were not, 줄이면 wasn't, weren't예요. Ben wasn't sad. 벤은 슬프지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "주어 찾기: You, The soup, I, They, The door",
+    "highlight": [
+     "① You",
+     "② The soup",
+     "③ I",
+     "④ They",
+     "⑤ The door"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 맨 앞에 있는 주어를 찾아요."
+   },
+   {
+    "note": "You(한 명이어도) → weren't ✓ / The soup(셀 수 없음), I, The door(하나) → wasn't ✓",
+    "highlight": [],
+    "strike": [
+     "① You weren't at the library.",
+     "② The soup wasn't hot.",
+     "③ I wasn't tired.",
+     "⑤ The door wasn't open."
+    ],
+    "narration": "둘째, You는 한 사람을 가리켜도 were를 쓰니 1번 weren't는 맞아요. 셀 수 없는 The soup, 주어 I, 문 하나인 The door에는 wasn't를 바르게 썼어요."
+   },
+   {
+    "note": "They(여럿)인데 wasn't ✗ → They weren't → 틀린 문장은 ④",
+    "highlight": [
+     "④ They wasn't busy."
+    ],
+    "strike": [
+     "They wasn't"
+    ],
+    "narration": "셋째, 4번의 주어 They는 여럿이니 wasn't가 아니라 weren't를 써야 해요. They weren't busy. 그들은 바쁘지 않았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① You weren't at the library.  ✗  you는 한 명이어도 were → weren't가 맞아요",
+    "② The soup wasn't hot.  ✗  soup(수프)는 셀 수 없는 것 → wasn't가 맞아요",
+    "③ I wasn't tired.  ✗  주어 I에는 was → wasn't가 맞아요",
+    "④ They wasn't busy.  ✓  They는 여럿 → weren't로 고쳐야 해요 (틀린 문장)",
+    "⑤ The door wasn't open.  ✗  The door는 문 하나 → wasn't가 맞아요"
+   ],
+   "narration": "정답은 4번이에요. They는 여럿을 가리키니 wasn't가 아니라 weren't를 써야 해요. 1번 You는 한 사람일 수도 있지만, you에는 한 사람이어도 were를 쓰니 weren't가 맞아요. 2번 The soup는 셀 수 없는 것이라 wasn't가 맞아요. 5번 The door는 문 하나라 wasn't가 맞아요."
+  },
+  "summary": {
+   "card": "you · we · they · 여럿 → weren't  ·  I · 나도 너도 아닌 하나 · 셀 수 없는 것 → wasn't",
+   "narration": "정답은 4번이에요. 기억할 것, you와 여럿에는 weren't, I와 나도 너도 아닌 하나, 셀 수 없는 것에는 wasn't를 써요."
+  },
+  "captions": [
+   "wasn't와 weren't, 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "I·하나는 was, you·여럿은 were",
+   "주어 찾기 → 맞는 문장 지우기 → ④",
+   "정답 ④ They wasn't → They weren't",
+   "you·여럿 weren't, I·하나 wasn't"
+  ],
+  "sec": [
+   11,
+   13,
+   30,
+   34,
+   28,
+   12
+  ]
+ },
+ "C": {
+  "title": "주어에 맞는 wasn't와 weren't",
+  "intro": "이 문제는 wasn't와 weren't가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 과거형 was, were = 무엇이었다, 어떠했다, 어디에 있었다",
+    "I · he, she, it(나도 너도 아닌 하나) · 셀 수 없는 것 → was",
+    "you(한 명이어도) · we, they · 여럿 → were",
+    "부정문: be동사 뒤에 not → wasn't(was not), weren't(were not)",
+    "예) Ben wasn't sad. (벤은 슬프지 않았어요.)"
+   ],
+   "narration": "be동사 과거형 was와 were는 무엇이었다, 어떠했다, 어디에 있었다는 뜻이에요. I와 he, she, it 같은 하나, 셀 수 없는 것에는 was를 써요. you는 한 사람이어도 were를 쓰고, we, they와 여럿에도 were예요. 부정은 was not, were not, 줄이면 wasn't, weren't예요. Ben wasn't sad. 벤은 슬프지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "주어 찾기: They, Mina, The rooms, We, I",
+    "highlight": [
+     "① They",
+     "② Mina",
+     "③ The rooms",
+     "④ We",
+     "⑤ I"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 맨 앞에 있는 주어를 찾아요."
+   },
+   {
+    "note": "They, The rooms(방 여러 개) → weren't ✓ / Mina(한 사람), I → wasn't ✓",
+    "highlight": [],
+    "strike": [
+     "① They weren't late.",
+     "② Mina wasn't at school.",
+     "③ The rooms weren't empty.",
+     "⑤ I wasn't nervous."
+    ],
+    "narration": "둘째, 여럿인 They와 방 여러 개인 The rooms에는 weren't, 한 사람인 Mina와 주어 I에는 wasn't를 바르게 썼어요. 그래서 1번, 2번, 3번, 5번은 맞는 문장이에요."
+   },
+   {
+    "note": "We(여럿)인데 wasn't ✗ → We weren't → 틀린 문장은 ④",
+    "highlight": [
+     "④ We wasn't ready for the game."
+    ],
+    "strike": [
+     "We wasn't"
+    ],
+    "narration": "셋째, 4번의 주어 We는 우리라는 뜻으로 여럿이니 wasn't가 아니라 weren't를 써야 해요. We weren't ready for the game. 우리는 경기 준비가 되어 있지 않았어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① They weren't late.  ✗  They는 여럿 → weren't가 맞아요",
+    "② Mina wasn't at school.  ✗  Mina는 한 사람(나도 너도 아님) → wasn't가 맞아요",
+    "③ The rooms weren't empty.  ✗  rooms는 방 여러 개 → weren't가 맞아요",
+    "④ We wasn't ready for the game.  ✓  We는 여럿 → weren't로 고쳐야 해요 (틀린 문장)",
+    "⑤ I wasn't nervous.  ✗  주어 I에는 was → wasn't가 맞아요"
+   ],
+   "narration": "정답은 4번이에요. We는 우리라는 뜻으로 여럿을 가리키니 wasn't가 아니라 weren't를 써야 해요. 3번 The rooms는 room에 s가 붙어 방 여러 개를 뜻하니 weren't가 맞아요. 5번 주어 I에는 was를 쓰니 wasn't가 맞아요. 2번 Mina는 나도 너도 아닌 한 사람이라 wasn't가 맞아요."
+  },
+  "summary": {
+   "card": "you · we · they · 여럿 → weren't  ·  I · 나도 너도 아닌 하나 · 셀 수 없는 것 → wasn't",
+   "narration": "정답은 4번이에요. 기억할 것, you와 여럿에는 weren't, I와 나도 너도 아닌 하나, 셀 수 없는 것에는 wasn't를 써요."
+  },
+  "captions": [
+   "wasn't와 weren't, 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "I·하나는 was, you·여럿은 were",
+   "주어 찾기 → 맞는 문장 지우기 → ④",
+   "정답 ④ We wasn't → We weren't",
+   "you·여럿 weren't, I·하나 wasn't"
+  ],
+  "sec": [
+   11,
+   13,
+   30,
+   34,
+   28,
+   12
+  ]
+ },
+ "D": {
+  "title": "주어에 맞는 wasn't와 weren't",
+  "intro": "이 문제는 wasn't와 weren't가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 과거형 was, were = 무엇이었다, 어떠했다, 어디에 있었다",
+    "I · he, she, it(나도 너도 아닌 하나) · 셀 수 없는 것 → was",
+    "you(한 명이어도) · we, they · 여럿 → were",
+    "부정문: be동사 뒤에 not → wasn't(was not), weren't(were not)",
+    "예) Ben wasn't sad. (벤은 슬프지 않았어요.)"
+   ],
+   "narration": "be동사 과거형 was와 were는 무엇이었다, 어떠했다, 어디에 있었다는 뜻이에요. I와 he, she, it 같은 하나, 셀 수 없는 것에는 was를 써요. you는 한 사람이어도 were를 쓰고, we, they와 여럿에도 were예요. 부정은 was not, were not, 줄이면 wasn't, weren't예요. Ben wasn't sad. 벤은 슬프지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "주어 찾기: My shoes, He, We, The test, You",
+    "highlight": [
+     "① My shoes",
+     "② He",
+     "③ We",
+     "④ The test",
+     "⑤ You"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 맨 앞에 있는 주어를 찾아요."
+   },
+   {
+    "note": "My shoes(여럿), You(한 명이어도) → weren't ✓ / He, The test(하나) → wasn't ✓",
+    "highlight": [],
+    "strike": [
+     "① My shoes weren't dirty.",
+     "② He wasn't at the party.",
+     "④ The test wasn't easy.",
+     "⑤ You weren't late."
+    ],
+    "narration": "둘째, s가 붙어 여럿인 My shoes에는 weren't, 나도 너도 아닌 하나인 He와 The test에는 wasn't를 바르게 썼어요. You는 한 사람이어도 were를 쓰니 5번 weren't도 맞아요."
+   },
+   {
+    "note": "We(여럿)인데 wasn't ✗ → We weren't → 틀린 문장은 ③",
+    "highlight": [
+     "③ We wasn't at home."
+    ],
+    "strike": [
+     "We wasn't"
+    ],
+    "narration": "셋째, 3번의 주어 We는 우리라는 뜻으로 여럿이니 wasn't가 아니라 weren't를 써야 해요. We weren't at home. 우리는 집에 없었어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① My shoes weren't dirty.  ✗  shoes는 shoe에 s가 붙은 여럿 → weren't가 맞아요",
+    "② He wasn't at the party.  ✗  He는 한 사람(나도 너도 아님) → wasn't가 맞아요",
+    "③ We wasn't at home.  ✓  We는 여럿 → weren't로 고쳐야 해요 (틀린 문장)",
+    "④ The test wasn't easy.  ✗  The test는 시험 하나 → wasn't가 맞아요",
+    "⑤ You weren't late.  ✗  you는 한 명이어도 were → weren't가 맞아요"
+   ],
+   "narration": "정답은 3번이에요. We는 우리라는 뜻으로 여럿을 가리키니 wasn't가 아니라 weren't를 써야 해요. 5번 You는 한 사람일 수도 있지만, you에는 한 사람이어도 were를 쓰니 weren't가 맞아요. 1번 My shoes는 앞에 My가 있어도 shoe에 s가 붙은 여럿이라 weren't가 맞아요. 4번 The test는 시험 하나라 wasn't가 맞아요."
+  },
+  "summary": {
+   "card": "you · we · they · 여럿 → weren't  ·  I · 나도 너도 아닌 하나 · 셀 수 없는 것 → wasn't",
+   "narration": "정답은 3번이에요. 기억할 것, you와 여럿에는 weren't, I와 나도 너도 아닌 하나, 셀 수 없는 것에는 wasn't를 써요."
+  },
+  "captions": [
+   "wasn't와 weren't, 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "I·하나는 was, you·여럿은 were",
+   "주어 찾기 → 맞는 문장 지우기 → ③",
+   "정답 ③ We wasn't → We weren't",
+   "you·여럿 weren't, I·하나 wasn't"
+  ],
+  "sec": [
+   11,
+   13,
+   30,
+   34,
+   28,
+   12
+  ]
+ },
+ "E": {
+  "title": "주어에 맞는 wasn't와 weren't",
+  "intro": "이 문제는 wasn't와 weren't가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 과거형 was, were = 무엇이었다, 어떠했다, 어디에 있었다",
+    "I · he, she, it(나도 너도 아닌 하나) · 셀 수 없는 것 → was",
+    "you(한 명이어도) · we, they · 여럿 → were",
+    "부정문: be동사 뒤에 not → wasn't(was not), weren't(were not)",
+    "예) Ben wasn't sad. (벤은 슬프지 않았어요.)"
+   ],
+   "narration": "be동사 과거형 was와 were는 무엇이었다, 어떠했다, 어디에 있었다는 뜻이에요. I와 he, she, it 같은 하나, 셀 수 없는 것에는 was를 써요. you는 한 사람이어도 were를 쓰고, we, they와 여럿에도 were예요. 부정은 was not, were not, 줄이면 wasn't, weren't예요. Ben wasn't sad. 벤은 슬프지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "주어 찾기: The kids, Jane, My dad, The stores, I",
+    "highlight": [
+     "① The kids",
+     "② Jane",
+     "③ My dad",
+     "④ The stores",
+     "⑤ I"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 맨 앞에 있는 주어를 찾아요."
+   },
+   {
+    "note": "The kids, The stores(여럿) → weren't ✓ / My dad(한 사람), I → wasn't ✓",
+    "highlight": [],
+    "strike": [
+     "① The kids weren't noisy.",
+     "③ My dad wasn't angry.",
+     "④ The stores weren't open.",
+     "⑤ I wasn't hungry."
+    ],
+    "narration": "둘째, 아이들인 The kids와 가게들인 The stores에는 weren't, 아빠 한 사람인 My dad와 주어 I에는 wasn't를 바르게 썼어요. 그래서 1번, 3번, 4번, 5번은 맞는 문장이에요."
+   },
+   {
+    "note": "Jane(한 사람)인데 weren't ✗ → Jane wasn't → 틀린 문장은 ②",
+    "highlight": [
+     "② Jane weren't a student."
+    ],
+    "strike": [
+     "Jane weren't"
+    ],
+    "narration": "셋째, 2번의 주어 Jane은 나도 너도 아닌 한 사람이니 weren't가 아니라 wasn't를 써야 해요. Jane wasn't a student. 제인은 학생이 아니었어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The kids weren't noisy.  ✗  kids는 아이들, 여럿 → weren't가 맞아요",
+    "② Jane weren't a student.  ✓  Jane은 한 사람(나도 너도 아님) → wasn't로 고쳐야 해요 (틀린 문장)",
+    "③ My dad wasn't angry.  ✗  My dad는 아빠 한 사람 → wasn't가 맞아요",
+    "④ The stores weren't open.  ✗  stores는 가게 여러 곳 → weren't가 맞아요",
+    "⑤ I wasn't hungry.  ✗  주어 I에는 was → wasn't가 맞아요"
+   ],
+   "narration": "정답은 2번이에요. Jane은 나도 너도 아닌 한 사람이니 weren't가 아니라 wasn't를 써야 해요. 4번 The stores는 store에 s가 붙어 가게 여러 곳을 뜻하니 weren't가 맞아요. 3번 My dad는 아빠 한 사람이라 wasn't가 맞아요. 5번 주어 I에는 was를 쓰니 wasn't가 맞아요."
+  },
+  "summary": {
+   "card": "I · 나도 너도 아닌 하나 · 셀 수 없는 것 → wasn't  ·  you · we · they · 여럿 → weren't",
+   "narration": "정답은 2번이에요. 기억할 것, I와 나도 너도 아닌 하나, 셀 수 없는 것에는 wasn't, you와 여럿에는 weren't를 써요."
+  },
+  "captions": [
+   "wasn't와 weren't, 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "I·하나는 was, you·여럿은 were",
+   "주어 찾기 → 맞는 문장 지우기 → ②",
+   "정답 ② Jane weren't → Jane wasn't",
+   "I·하나 wasn't, you·여럿 weren't"
+  ],
+  "sec": [
+   11,
+   13,
+   30,
+   34,
+   28,
+   12
+  ]
+ },
+ "F": {
+  "title": "주어에 맞는 wasn't와 weren't",
+  "intro": "이 문제는 wasn't와 weren't가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 과거형 was, were = 무엇이었다, 어떠했다, 어디에 있었다",
+    "I · he, she, it(나도 너도 아닌 하나) · 셀 수 없는 것 → was",
+    "you(한 명이어도) · we, they · 여럿 → were",
+    "부정문: be동사 뒤에 not → wasn't(was not), weren't(were not)",
+    "예) Ben wasn't sad. (벤은 슬프지 않았어요.)"
+   ],
+   "narration": "be동사 과거형 was와 were는 무엇이었다, 어떠했다, 어디에 있었다는 뜻이에요. I와 he, she, it 같은 하나, 셀 수 없는 것에는 was를 써요. you는 한 사람이어도 were를 쓰고, we, they와 여럿에도 were예요. 부정은 was not, were not, 줄이면 wasn't, weren't예요. Ben wasn't sad. 벤은 슬프지 않았어요."
+  },
+  "steps": [
+   {
+    "note": "주어 찾기: The birds, The milk, You, Her friends, I",
+    "highlight": [
+     "① The birds",
+     "② The milk",
+     "③ You",
+     "④ Her friends",
+     "⑤ I"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 맨 앞에 있는 주어를 찾아요."
+   },
+   {
+    "note": "The birds, Her friends(여럿), You(한 명이어도) → weren't ✓ / The milk(셀 수 없음) → wasn't ✓",
+    "highlight": [],
+    "strike": [
+     "① The birds weren't in the cage.",
+     "② The milk wasn't cold.",
+     "③ You weren't alone.",
+     "④ Her friends weren't there."
+    ],
+    "narration": "둘째, 새들인 The birds와 친구들인 Her friends에는 weren't, 셀 수 없는 The milk에는 wasn't를 바르게 썼어요. You는 한 사람을 가리켜도 were를 쓰니 3번 weren't도 맞아요."
+   },
+   {
+    "note": "주어 I인데 weren't ✗ → I wasn't → 틀린 문장은 ⑤",
+    "highlight": [
+     "⑤ I weren't at the bus stop."
+    ],
+    "strike": [
+     "I weren't"
+    ],
+    "narration": "셋째, 5번의 주어 I에는 was를 쓰니 weren't가 아니라 wasn't를 써야 해요. I wasn't at the bus stop. 나는 버스 정류장에 없었어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The birds weren't in the cage.  ✗  birds는 새 여러 마리 → weren't가 맞아요",
+    "② The milk wasn't cold.  ✗  milk(우유)는 셀 수 없는 것 → wasn't가 맞아요",
+    "③ You weren't alone.  ✗  you는 한 명이어도 were → weren't가 맞아요",
+    "④ Her friends weren't there.  ✗  friends는 친구 여러 명 → weren't가 맞아요",
+    "⑤ I weren't at the bus stop.  ✓  주어 I에는 was → wasn't로 고쳐야 해요 (틀린 문장)"
+   ],
+   "narration": "정답은 5번이에요. 주어 I에는 was를 쓰니 weren't가 아니라 wasn't를 써야 해요. 3번 You는 한 사람을 가리킬 수 있지만, you에는 한 사람이어도 were를 쓰니 weren't가 맞아요. 4번 Her friends는 앞에 Her가 있어도 friend에 s가 붙은 여럿이라 weren't가 맞아요. 2번 The milk는 셀 수 없는 것이라 wasn't가 맞아요."
+  },
+  "summary": {
+   "card": "I · 나도 너도 아닌 하나 · 셀 수 없는 것 → wasn't  ·  you · we · they · 여럿 → weren't",
+   "narration": "정답은 5번이에요. 기억할 것, I와 나도 너도 아닌 하나, 셀 수 없는 것에는 wasn't, you와 여럿에는 weren't를 써요."
+  },
+  "captions": [
+   "wasn't와 weren't, 틀린 문장 찾기",
+   "먼저 풀어 보세요",
+   "I·하나는 was, you·여럿은 were",
+   "주어 찾기 → 맞는 문장 지우기 → ⑤",
+   "정답 ⑤ I weren't → I wasn't",
+   "I·하나 wasn't, you·여럿 weren't"
+  ],
+  "sec": [
+   11,
+   13,
+   30,
+   34,
+   28,
+   12
+  ]
+ }
+}

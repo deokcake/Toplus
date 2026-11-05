@@ -1,0 +1,470 @@
+{
+ "A": {
+  "title": "명사 앞에 쓰는 소유격",
+  "intro": "이 문제는 명사 앞에 쓰는 소유격을 보고, 밑줄 친 부분이 잘못된 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 잘못된 것을 고르세요. 다섯 문장마다 밑줄 친 말이 하나씩 있어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "명사 앞에서 ‘~의’를 나타내는 말 = 소유격",
+    "I → my, you → your, he → his, she → her, it → its, we → our, they → their",
+    "명사 뒤에 ’s를 붙여도 ‘~의’ (Tom's bag = Tom의 가방)",
+    "‘~의’ 뜻으로 명사 앞에 주격(I, he, she, we, they)을 쓰지 않아요",
+    "예) He cleans his room. (그는 그의 방을 청소해요.)"
+   ],
+   "narration": "명사 앞에서 우리말 의처럼 누구의 것인지 나타내는 말을 소유격이라고 해요. I는 my, you는 your, he는 his, she는 her, it은 its, we는 our, they는 their가 소유격이에요. Tom's bag, 곧 Tom의 가방처럼 명사 뒤에 아포스트로피 에스를 붙여서 나타낼 수도 있어요. 의라는 뜻으로 명사 앞에 쓸 때는 he 같은 주격이 아니라 his 같은 소유격을 써요. He cleans his room. 그는 그의 방을 청소해요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 뒤에 모두 명사(car, books, diary, shoes, girlfriend)가 온다 → 밑줄은 그 명사가 누구의 것인지 나타내는 자리: 소유격이나 명사 + ’s",
+    "highlight": [
+     "<u>he</u> car",
+     "<u>Julia's</u> books",
+     "<u>my mom's</u> old diary",
+     "<u>her</u> shoes",
+     "<u>my</u> girlfriend"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 말 뒤를 보면 car, books, diary, shoes, girlfriend처럼 모두 명사가 와요. 밑줄 자리는 모두 그 명사가 누구의 것인지 나타내는 자리예요."
+   },
+   {
+    "note": "Julia's, my mom's = 명사 + ’s / her, my = 소유격 → 바르게 썼다. 지운다.",
+    "highlight": [],
+    "strike": [
+     "② Those are <u>Julia's</u> books.",
+     "③ That is <u>my mom's</u> old diary.",
+     "④ These are <u>her</u> shoes.",
+     "⑤ This is <u>my</u> girlfriend."
+    ],
+    "narration": "둘째, Julia's와 my mom's는 명사 뒤에 아포스트로피 에스를 붙인 꼴이고, her와 my는 소유격이라 모두 바르게 썼어요."
+   },
+   {
+    "note": "he는 주격(그는) → car 앞에는 소유격 his: This is not his car.",
+    "highlight": [
+     "① This is not <u>he</u> car."
+    ],
+    "strike": [],
+    "narration": "셋째, 1번 he는 그는이라는 뜻의 주격이라, car 앞에서는 소유격 his로 고쳐야 해요. This is not his car. 이것은 그의 차가 아니에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① This is not <u>he</u> car.  ✓  주격 he → car 앞에는 소유격 his",
+    "② Those are <u>Julia's</u> books.  ✗  이름 뒤 ’s로 ‘Julia의’를 바르게 나타냈어요",
+    "③ That is <u>my mom's</u> old diary.  ✗  my는 mom을, mom's는 diary를 꾸며요",
+    "④ These are <u>her</u> shoes.  ✗  she의 소유격 her를 shoes 앞에 썼어요",
+    "⑤ This is <u>my</u> girlfriend.  ✗  I의 소유격 my를 girlfriend 앞에 썼어요"
+   ],
+   "narration": "정답은 1번이에요. he는 그는이라는 뜻이라, car 앞에서 그의라는 뜻을 나타내려면 소유격 his를 써야 해요. 3번 my mom's는 의가 두 번 들어가서 틀려 보일 수 있어요. 하지만 my가 mom을 꾸미고 mom's가 diary를 꾸며서, 나의 엄마의 오래된 일기장이라는 바른 말이에요. 4번 her는 she의 소유격이라 shoes 앞에 바르게 썼어요."
+  },
+  "summary": {
+   "card": "명사 앞 ‘~의’ → 소유격 (그의 차 = his car)",
+   "narration": "정답은 1번이에요. 기억할 것, 명사 앞에서 누구의 것인지 나타낼 때는 he 같은 주격이 아니라 his 같은 소유격을 써요."
+  },
+  "captions": [
+   "명사 앞에 쓰는 소유격",
+   "먼저 풀어 보세요",
+   "명사 앞 ‘~의’는 소유격",
+   "뒤에 명사 → 바른 것 지우기 → he",
+   "정답 ① he → his",
+   "그의 차 = his car"
+  ],
+  "sec": [
+   12,
+   16,
+   30,
+   40,
+   34,
+   12
+  ]
+ },
+ "B": {
+  "title": "명사 앞에 쓰는 소유격",
+  "intro": "이 문제는 명사 앞에 쓰는 소유격을 보고, 밑줄 친 부분이 잘못된 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 잘못된 것을 고르세요. 다섯 문장마다 밑줄 친 말이 하나씩 있어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "명사 앞에서 ‘~의’를 나타내는 말 = 소유격",
+    "I → my, you → your, he → his, she → her, it → its, we → our, they → their",
+    "명사 뒤에 ’s를 붙여도 ‘~의’ (Tom's bag = Tom의 가방)",
+    "‘~의’ 뜻으로 명사 앞에 주격(I, she…)이나 목적격(me, him…)을 쓰지 않아요",
+    "예) She loves her dog. (그녀는 그녀의 개를 사랑해요.)"
+   ],
+   "narration": "명사 앞에서 우리말 의처럼 누구의 것인지 나타내는 말을 소유격이라고 해요. I는 my, you는 your, he는 his, she는 her, it은 its, we는 our, they는 their가 소유격이에요. Tom's bag, 곧 Tom의 가방처럼 명사 뒤에 아포스트로피 에스를 붙여서 나타낼 수도 있어요. 의라는 뜻으로 명사 앞에 쓸 때는 she 같은 주격이나 him 같은 목적격이 아니라 소유격을 써요. She loves her dog. 그녀는 그녀의 개를 사랑해요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 뒤에 모두 명사(umbrella, school, color, bike, pencils)가 온다 → 밑줄은 그 명사가 누구의 것인지 나타내는 자리: 소유격이나 명사 + ’s",
+    "highlight": [
+     "<u>your</u> umbrella",
+     "<u>Our</u> school",
+     "<u>its</u> color",
+     "<u>she</u> bike",
+     "<u>Tom's</u> pencils"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 말 뒤를 보면 umbrella, school, color, bike, pencils처럼 모두 명사가 와요. 밑줄 자리는 모두 그 명사가 누구의 것인지 나타내는 자리예요."
+   },
+   {
+    "note": "your, Our, its = 소유격 / Tom's = 명사 + ’s → 바르게 썼다. 지운다.",
+    "highlight": [],
+    "strike": [
+     "① Is this <u>your</u> umbrella?",
+     "② <u>Our</u> school is big.",
+     "③ I like <u>its</u> color.",
+     "⑤ These are <u>Tom's</u> pencils."
+    ],
+    "narration": "둘째, your, Our, its는 소유격이고, Tom's는 이름 뒤에 아포스트로피 에스를 붙인 꼴이라 모두 바르게 썼어요."
+   },
+   {
+    "note": "she는 주격(그녀는) → bike 앞에는 소유격 her: That is her bike.",
+    "highlight": [
+     "④ That is <u>she</u> bike."
+    ],
+    "strike": [],
+    "narration": "셋째, 4번 she는 그녀는이라는 뜻의 주격이라, bike 앞에서는 소유격 her로 고쳐야 해요. That is her bike. 저것은 그녀의 자전거예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Is this <u>your</u> umbrella?  ✗  you의 소유격 your를 umbrella 앞에 썼어요",
+    "② <u>Our</u> school is big.  ✗  문장 맨 앞이어도 school을 꾸미는 소유격 Our",
+    "③ I like <u>its</u> color.  ✗  its는 it의 소유격 ‘그것의’",
+    "④ That is <u>she</u> bike.  ✓  주격 she → bike 앞에는 소유격 her",
+    "⑤ These are <u>Tom's</u> pencils.  ✗  이름 뒤 ’s로 ‘Tom의’를 바르게 나타냈어요"
+   ],
+   "narration": "정답은 4번이에요. she는 그녀는이라는 뜻이라, bike 앞에서 그녀의라는 뜻을 나타내려면 소유격 her를 써야 해요. 2번은 문장 맨 앞이라 주어 We를 떠올리기 쉬워요. 하지만 school이 누구의 학교인지 나타내는 자리라서, 우리의라는 뜻의 소유격 Our가 맞아요. 3번 its는 it의 소유격으로 그것의라는 뜻이라, color 앞에 바르게 썼어요."
+  },
+  "summary": {
+   "card": "명사 앞 ‘~의’ → 소유격 (그녀의 자전거 = her bike)",
+   "narration": "정답은 4번이에요. 기억할 것, 명사 앞에서 누구의 것인지 나타낼 때는 she 같은 주격이 아니라 her 같은 소유격을 써요."
+  },
+  "captions": [
+   "명사 앞에 쓰는 소유격",
+   "먼저 풀어 보세요",
+   "명사 앞 ‘~의’는 소유격",
+   "뒤에 명사 → 바른 것 지우기 → she",
+   "정답 ④ she → her",
+   "그녀의 자전거 = her bike"
+  ],
+  "sec": [
+   12,
+   16,
+   30,
+   40,
+   34,
+   12
+  ]
+ },
+ "C": {
+  "title": "명사 앞에 쓰는 소유격",
+  "intro": "이 문제는 명사 앞에 쓰는 소유격을 보고, 밑줄 친 부분이 잘못된 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 잘못된 것을 고르세요. 다섯 문장마다 밑줄 친 말이 하나씩 있어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "명사 앞에서 ‘~의’를 나타내는 말 = 소유격",
+    "I → my, you → your, he → his, she → her, it → its, we → our, they → their",
+    "명사 뒤에 ’s를 붙여도 ‘~의’ (Tom's bag = Tom의 가방)",
+    "‘~의’ 뜻으로 명사 앞에 주격(I, he…)이나 목적격(me, him…)을 쓰지 않아요",
+    "예) I like him and his dog. (나는 그와 그의 개를 좋아해요.)"
+   ],
+   "narration": "명사 앞에서 우리말 의처럼 누구의 것인지 나타내는 말을 소유격이라고 해요. I는 my, you는 your, he는 his, she는 her, it은 its, we는 our, they는 their가 소유격이에요. Tom's bag, 곧 Tom의 가방처럼 명사 뒤에 아포스트로피 에스를 붙여서 나타낼 수도 있어요. 그를이라는 뜻의 목적격 him이나 그는이라는 뜻의 주격 he는, 의라는 뜻으로 명사 앞에 쓰지 않아요. I like him and his dog. 나는 그와 그의 개를 좋아해요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 뒤에 모두 명사(house, jacket, room, cap, tail)가 온다 → 밑줄은 그 명사가 누구의 것인지 나타내는 자리: 소유격이나 명사 + ’s",
+    "highlight": [
+     "<u>Their</u> house",
+     "<u>him</u> jacket",
+     "<u>My brother's</u> room",
+     "<u>your</u> cap",
+     "<u>its</u> tail"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 말 뒤를 보면 house, jacket, room, cap, tail처럼 모두 명사가 와요. 밑줄 자리는 모두 그 명사가 누구의 것인지 나타내는 자리예요."
+   },
+   {
+    "note": "Their, your, its = 소유격 / My brother's = 명사 + ’s → 바르게 썼다. 지운다.",
+    "highlight": [],
+    "strike": [
+     "① <u>Their</u> house is near the park.",
+     "③ <u>My brother's</u> room is small.",
+     "④ Where is <u>your</u> cap?",
+     "⑤ The dog wags <u>its</u> tail."
+    ],
+    "narration": "둘째, Their, your, its는 소유격이고, My brother's는 명사 뒤에 아포스트로피 에스를 붙인 꼴이라 모두 바르게 썼어요."
+   },
+   {
+    "note": "him은 목적격(그를) → jacket 앞에는 소유격 his: This is his jacket.",
+    "highlight": [
+     "② This is <u>him</u> jacket."
+    ],
+    "strike": [],
+    "narration": "셋째, 2번 him은 그를이라는 뜻의 목적격이라, jacket 앞에서는 소유격 his로 고쳐야 해요. This is his jacket. 이것은 그의 재킷이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① <u>Their</u> house is near the park.  ✗  문장 맨 앞이어도 house를 꾸미는 소유격 Their",
+    "② This is <u>him</u> jacket.  ✓  목적격 him → jacket 앞에는 소유격 his",
+    "③ <u>My brother's</u> room is small.  ✗  My는 brother를, brother's는 room을 꾸며요",
+    "④ Where is <u>your</u> cap?  ✗  you의 소유격 your를 cap 앞에 썼어요",
+    "⑤ The dog wags <u>its</u> tail.  ✗  its는 it의 소유격 ‘그것의’"
+   ],
+   "narration": "정답은 2번이에요. him은 그를이라는 뜻이라, jacket 앞에서 그의라는 뜻을 나타내려면 소유격 his를 써야 해요. 3번 My brother's는 의가 두 번 들어가서 틀려 보일 수 있어요. 하지만 My가 brother를 꾸미고 brother's가 room을 꾸며서 바른 말이에요. 5번 its는 it의 소유격으로 그것의라는 뜻이라, tail 앞에 바르게 썼어요."
+  },
+  "summary": {
+   "card": "명사 앞 ‘~의’ → 소유격 (그의 재킷 = his jacket)",
+   "narration": "정답은 2번이에요. 기억할 것, 명사 앞에서 누구의 것인지 나타낼 때는 him 같은 목적격이 아니라 his 같은 소유격을 써요."
+  },
+  "captions": [
+   "명사 앞에 쓰는 소유격",
+   "먼저 풀어 보세요",
+   "명사 앞 ‘~의’는 소유격",
+   "뒤에 명사 → 바른 것 지우기 → him",
+   "정답 ② him → his",
+   "그의 재킷 = his jacket"
+  ],
+  "sec": [
+   12,
+   16,
+   30,
+   40,
+   34,
+   12
+  ]
+ },
+ "D": {
+  "title": "명사 앞에 쓰는 소유격",
+  "intro": "이 문제는 명사 앞에 쓰는 소유격을 보고, 밑줄 친 부분이 잘못된 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 잘못된 것을 고르세요. 다섯 문장마다 밑줄 친 말이 하나씩 있어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "명사 앞에서 ‘~의’를 나타내는 말 = 소유격",
+    "I → my, you → your, he → his, she → her, it → its, we → our, they → their",
+    "명사 뒤에 ’s를 붙여도 ‘~의’ (Tom's bag = Tom의 가방)",
+    "‘~의’ 뜻으로 명사 앞에 주격(I, we…)이나 목적격(me, him…)을 쓰지 않아요",
+    "예) We like our teacher. (우리는 우리의 선생님을 좋아해요.)"
+   ],
+   "narration": "명사 앞에서 우리말 의처럼 누구의 것인지 나타내는 말을 소유격이라고 해요. I는 my, you는 your, he는 his, she는 her, it은 its, we는 our, they는 their가 소유격이에요. Tom's bag, 곧 Tom의 가방처럼 명사 뒤에 아포스트로피 에스를 붙여서 나타낼 수도 있어요. 의라는 뜻으로 명사 앞에 쓸 때는 we 같은 주격이나 him 같은 목적격이 아니라 소유격을 써요. We like our teacher. 우리는 우리의 선생님을 좋아해요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 뒤에 모두 명사(classroom, cat, grandma, sister, bags)가 온다 → 밑줄은 그 명사가 누구의 것인지 나타내는 자리: 소유격이나 명사 + ’s",
+    "highlight": [
+     "<u>We</u> classroom",
+     "<u>her</u> cat",
+     "<u>my</u> grandma",
+     "<u>Mina's</u> sister",
+     "<u>their</u> bags"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 말 뒤를 보면 classroom, cat, grandma, sister, bags처럼 모두 명사가 와요. 밑줄 자리는 모두 그 명사가 누구의 것인지 나타내는 자리예요."
+   },
+   {
+    "note": "her, my, their = 소유격 / Mina's = 명사 + ’s → 바르게 썼다. 지운다.",
+    "highlight": [],
+    "strike": [
+     "② Is that <u>her</u> cat?",
+     "③ I love <u>my</u> grandma.",
+     "④ <u>Mina's</u> sister is tall.",
+     "⑤ Those are <u>their</u> bags."
+    ],
+    "narration": "둘째, her, my, their는 소유격이고, Mina's는 이름 뒤에 아포스트로피 에스를 붙인 꼴이라 모두 바르게 썼어요."
+   },
+   {
+    "note": "We는 주격(우리는) → 문장 맨 앞이라도 classroom 앞에는 소유격 Our: Our classroom is on the second floor.",
+    "highlight": [
+     "① <u>We</u> classroom is on the second floor."
+    ],
+    "strike": [],
+    "narration": "셋째, 1번 We는 우리는이라는 뜻의 주격이라, classroom 앞에서는 소유격 Our로 고쳐야 해요. Our classroom is on the second floor. 우리의 교실은 2층에 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① <u>We</u> classroom is on the second floor.  ✓  주격 We → classroom 앞에는 소유격 Our",
+    "② Is that <u>her</u> cat?  ✗  she의 소유격 her를 cat 앞에 썼어요",
+    "③ I love <u>my</u> grandma.  ✗  I의 소유격 my를 grandma 앞에 썼어요",
+    "④ <u>Mina's</u> sister is tall.  ✗  이름 뒤 ’s로 ‘Mina의’를 바르게 나타냈어요",
+    "⑤ Those are <u>their</u> bags.  ✗  they의 소유격 their를 bags 앞에 썼어요"
+   ],
+   "narration": "정답은 1번이에요. 문장 맨 앞이라 주어 We를 쓰기 쉽지만, 여기는 classroom이 누구의 교실인지 나타내는 자리라서 우리의라는 뜻의 소유격 Our를 써야 해요. 4번 Mina's도 문장 맨 앞에 있지만, 이름 뒤에 아포스트로피 에스를 붙여 Mina의라는 뜻을 바르게 나타냈어요. 2번 her는 she의 소유격이라 cat 앞에 바르게 썼어요. 5번 their도 they의 소유격이라 bags 앞에 맞아요."
+  },
+  "summary": {
+   "card": "명사 앞 ‘~의’ → 소유격 (우리의 교실 = Our classroom)",
+   "narration": "정답은 1번이에요. 기억할 것, 문장 맨 앞이라도 명사 앞에서 누구의 것인지 나타낼 때는 We 같은 주격이 아니라 Our 같은 소유격을 써요."
+  },
+  "captions": [
+   "명사 앞에 쓰는 소유격",
+   "먼저 풀어 보세요",
+   "명사 앞 ‘~의’는 소유격",
+   "뒤에 명사 → 바른 것 지우기 → We",
+   "정답 ① We → Our",
+   "우리의 교실 = Our classroom"
+  ],
+  "sec": [
+   12,
+   16,
+   30,
+   40,
+   34,
+   12
+  ]
+ },
+ "E": {
+  "title": "명사 앞에 쓰는 소유격",
+  "intro": "이 문제는 명사 앞에 쓰는 소유격을 보고, 밑줄 친 부분이 잘못된 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 잘못된 것을 고르세요. 다섯 문장마다 밑줄 친 말이 하나씩 있어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "명사 앞에서 ‘~의’를 나타내는 말 = 소유격",
+    "I → my, you → your, he → his, she → her, it → its, we → our, they → their",
+    "명사 뒤에 ’s를 붙여도 ‘~의’ (Tom's bag = Tom의 가방)",
+    "‘~의’ 뜻으로 명사 앞에 주격(I, they…)이나 목적격(me, him…)을 쓰지 않아요",
+    "예) They ride their bikes. (그들은 그들의 자전거를 타요.)"
+   ],
+   "narration": "명사 앞에서 우리말 의처럼 누구의 것인지 나타내는 말을 소유격이라고 해요. I는 my, you는 your, he는 his, she는 her, it은 its, we는 our, they는 their가 소유격이에요. Tom's bag, 곧 Tom의 가방처럼 명사 뒤에 아포스트로피 에스를 붙여서 나타낼 수도 있어요. 의라는 뜻으로 명사 앞에 쓸 때는 they 같은 주격이나 him 같은 목적격이 아니라 소유격을 써요. They ride their bikes. 그들은 그들의 자전거를 타요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 뒤에 모두 명사(desk, dad, car, name, table)가 온다 → 밑줄은 그 명사가 누구의 것인지 나타내는 자리: 소유격이나 명사 + ’s",
+    "highlight": [
+     "<u>Jiho's</u> desk",
+     "<u>His</u> dad",
+     "<u>They</u> car",
+     "<u>her</u> name",
+     "<u>our</u> table"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 말 뒤를 보면 desk, dad, car, name, table처럼 모두 명사가 와요. 밑줄 자리는 모두 그 명사가 누구의 것인지 나타내는 자리예요."
+   },
+   {
+    "note": "His, her, our = 소유격 / Jiho's = 명사 + ’s → 바르게 썼다. 지운다.",
+    "highlight": [],
+    "strike": [
+     "① This is <u>Jiho's</u> desk.",
+     "② <u>His</u> dad is a pilot.",
+     "④ I know <u>her</u> name.",
+     "⑤ Is this <u>our</u> table?"
+    ],
+    "narration": "둘째, His, her, our는 소유격이고, Jiho's는 이름 뒤에 아포스트로피 에스를 붙인 꼴이라 모두 바르게 썼어요."
+   },
+   {
+    "note": "They는 주격(그들은) → car 앞에는 소유격 Their: Their car is red.",
+    "highlight": [
+     "③ <u>They</u> car is red."
+    ],
+    "strike": [],
+    "narration": "셋째, 3번 They는 그들은이라는 뜻의 주격이라, car 앞에서는 소유격 Their로 고쳐야 해요. Their car is red. 그들의 차는 빨간색이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① This is <u>Jiho's</u> desk.  ✗  이름 뒤 ’s로 ‘Jiho의’를 바르게 나타냈어요",
+    "② <u>His</u> dad is a pilot.  ✗  문장 맨 앞이어도 dad를 꾸미는 소유격 His",
+    "③ <u>They</u> car is red.  ✓  주격 They → car 앞에는 소유격 Their",
+    "④ I know <u>her</u> name.  ✗  name 앞의 her는 ‘그녀의’라는 소유격",
+    "⑤ Is this <u>our</u> table?  ✗  we의 소유격 our를 table 앞에 썼어요"
+   ],
+   "narration": "정답은 3번이에요. They는 그들은이라는 뜻이라, car 앞에서 그들의라는 뜻을 나타내려면 소유격 Their를 써야 해요. 2번 His는 문장 맨 앞에 있어서 주어 He를 떠올리기 쉬워요. 하지만 dad가 누구의 아빠인지 나타내는 자리라서, 그의라는 뜻의 소유격 His가 맞아요. 4번 her는 그녀를이라는 뜻으로도 쓰지만, 여기서는 name 앞에서 그녀의라는 뜻의 소유격이에요."
+  },
+  "summary": {
+   "card": "명사 앞 ‘~의’ → 소유격 (그들의 차 = Their car)",
+   "narration": "정답은 3번이에요. 기억할 것, 명사 앞에서 누구의 것인지 나타낼 때는 They 같은 주격이 아니라 Their 같은 소유격을 써요."
+  },
+  "captions": [
+   "명사 앞에 쓰는 소유격",
+   "먼저 풀어 보세요",
+   "명사 앞 ‘~의’는 소유격",
+   "뒤에 명사 → 바른 것 지우기 → They",
+   "정답 ③ They → Their",
+   "그들의 차 = Their car"
+  ],
+  "sec": [
+   12,
+   16,
+   30,
+   40,
+   34,
+   12
+  ]
+ },
+ "F": {
+  "title": "명사 앞에 쓰는 소유격",
+  "intro": "이 문제는 명사 앞에 쓰는 소유격을 보고, 밑줄 친 부분이 잘못된 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 잘못된 것을 고르세요. 다섯 문장마다 밑줄 친 말이 하나씩 있어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "명사 앞에서 ‘~의’를 나타내는 말 = 소유격",
+    "I → my, you → your, he → his, she → her, it → its, we → our, they → their",
+    "명사 뒤에 ’s를 붙여도 ‘~의’ (Tom's bag = Tom의 가방)",
+    "‘~의’ 뜻으로 명사 앞에 주격(I, he…)이나 목적격(me, him…)을 쓰지 않아요",
+    "예) I like my bag. (나는 나의 가방을 좋아해요.)"
+   ],
+   "narration": "명사 앞에서 우리말 의처럼 누구의 것인지 나타내는 말을 소유격이라고 해요. I는 my, you는 your, he는 his, she는 her, it은 its, we는 our, they는 their가 소유격이에요. Tom's bag, 곧 Tom의 가방처럼 명사 뒤에 아포스트로피 에스를 붙여서 나타낼 수도 있어요. 의라는 뜻으로 명사 앞에 쓸 때는 I 같은 주격이나 me 같은 목적격이 아니라 소유격을 써요. I like my bag. 나는 나의 가방을 좋아해요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 뒤에 모두 명사(sister, key, nest, dog, notebook)가 온다 → 밑줄은 그 명사가 누구의 것인지 나타내는 자리: 소유격이나 명사 + ’s",
+    "highlight": [
+     "<u>Your</u> sister",
+     "<u>his</u> key",
+     "<u>its</u> nest",
+     "<u>My friend's</u> dog",
+     "<u>I</u> notebook"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 말 뒤를 보면 sister, key, nest, dog, notebook처럼 모두 명사가 와요. 밑줄 자리는 모두 그 명사가 누구의 것인지 나타내는 자리예요."
+   },
+   {
+    "note": "Your, his, its = 소유격 / My friend's = 명사 + ’s → 바르게 썼다. 지운다.",
+    "highlight": [],
+    "strike": [
+     "① <u>Your</u> sister is kind.",
+     "② Tom lost <u>his</u> key.",
+     "③ The bird is in <u>its</u> nest.",
+     "④ <u>My friend's</u> dog is cute."
+    ],
+    "narration": "둘째, Your, his, its는 소유격이고, My friend's는 명사 뒤에 아포스트로피 에스를 붙인 꼴이라 모두 바르게 썼어요."
+   },
+   {
+    "note": "I는 주격(나는) → notebook 앞에는 소유격 my: This is my notebook.",
+    "highlight": [
+     "⑤ This is <u>I</u> notebook."
+    ],
+    "strike": [],
+    "narration": "셋째, 5번 I는 나는이라는 뜻의 주격이라, notebook 앞에서는 소유격 my로 고쳐야 해요. This is my notebook. 이것은 나의 공책이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① <u>Your</u> sister is kind.  ✗  문장 맨 앞이어도 sister를 꾸미는 소유격 Your",
+    "② Tom lost <u>his</u> key.  ✗  he의 소유격 his를 key 앞에 썼어요",
+    "③ The bird is in <u>its</u> nest.  ✗  its는 it의 소유격 ‘그것의’",
+    "④ <u>My friend's</u> dog is cute.  ✗  My는 friend를, friend's는 dog을 꾸며요",
+    "⑤ This is <u>I</u> notebook.  ✓  주격 I → notebook 앞에는 소유격 my"
+   ],
+   "narration": "정답은 5번이에요. I는 나는이라는 뜻이라, notebook 앞에서 나의라는 뜻을 나타내려면 소유격 my를 써야 해요. 4번 My friend's는 의가 두 번 들어가서 틀려 보일 수 있어요. 하지만 My가 friend를 꾸미고 friend's가 dog을 꾸며서, 나의 친구의 개라는 바른 말이에요. 3번 its는 it의 소유격으로 그것의라는 뜻이라, nest 앞에 바르게 썼어요."
+  },
+  "summary": {
+   "card": "명사 앞 ‘~의’ → 소유격 (나의 공책 = my notebook)",
+   "narration": "정답은 5번이에요. 기억할 것, 명사 앞에서 누구의 것인지 나타낼 때는 I 같은 주격이 아니라 my 같은 소유격을 써요."
+  },
+  "captions": [
+   "명사 앞에 쓰는 소유격",
+   "먼저 풀어 보세요",
+   "명사 앞 ‘~의’는 소유격",
+   "뒤에 명사 → 바른 것 지우기 → I",
+   "정답 ⑤ I → my",
+   "나의 공책 = my notebook"
+  ],
+  "sec": [
+   12,
+   16,
+   30,
+   40,
+   34,
+   12
+  ]
+ }
+}

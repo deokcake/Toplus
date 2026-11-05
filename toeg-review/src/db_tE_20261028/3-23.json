@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T03:30:36.545Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "toy - toies",
+      "1": "person - people",
+      "2": "half - halfs",
+      "3": "glass - glasss",
+      "4": "woman - womans"
+    },
+    "expl": "핵심 규칙: 복수형은 대부분 -s, -s·-x·-ch·-sh·자음+o로 끝나면 -es, 자음+y는 -ies, -f(e)는 -ves로 만든다. child-children, man-men, woman-women, foot-feet, tooth-teeth, mouse-mice, goose-geese는 불규칙하게 바뀐다.\n풀이 순서: ① 낱말 끝을 보고 규칙을 고른다. -s·-x·-ch·-sh는 -es, 자음 + y는 -ies, -f(e)는 -ves다. → ② 불규칙하게 바뀌는 명사(child - children, mouse - mice, foot - feet, tooth - teeth, man - men)와 형태가 같은 명사(sheep)는 따로 외운다. → ③ 선택지 ②만 옳다(person의 복수는 people).\n문장별 판정:\n정답 판단: person - people: 바르게 만든 복수형이므로 정답은 ②이다.\n선택지 분석:\n① [오답] toy - toies: 바른 복수형은 toys(모음+y는 -s만 붙임)이므로 오답이다.\n② [정답] person - people: 바르게 만든 복수형이므로 정답이다.\n③ [오답] half - halfs: 바른 복수형은 halves이므로 오답이다.\n④ [오답] glass - glasss: 바른 복수형은 glasses이므로 오답이다.\n⑤ [오답] woman - womans: 바른 복수형은 women이므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T03:30:35.627Z"
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T03:30:36.545Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T03:30:36.545Z",
+      "what": "확인 완료"
+    }
+  }
+}

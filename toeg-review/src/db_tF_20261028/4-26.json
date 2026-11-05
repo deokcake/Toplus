@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-28T02:37:09.977Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Is that your pen? - No, that isn't.",
+      "1": "Are we in the same class? - Yes, you is.",
+      "2": "Am I wrong? - No, you aren't.",
+      "3": "Are you busy? - Yes, you are.",
+      "4": "Is Tom tired? - No, he aren't."
+    },
+    "expl": "핵심 규칙: be동사 짧은 대답은 주어에 맞춰 I am, you/we/they are, he/she/it is로 쓰고, 질문의 I는 대답에서 you로, you는 I(또는 we)로 바뀐다. this/that은 대답에서 it으로 받는다.\n풀이 순서: ① 대답의 주어가 질문의 주어를 바르게 받았는지 본다(I → you, you → I, 그 밖은 같은 대명사). → ② 대답의 be동사가 주어와 맞는지, Yes/No와 긍정·부정이 맞는지 본다. → ③ 선택지 ③만 I를 you로 받고 aren't로 답해 맞다. 정답은 ③.\n문장별 판정:\n정답 판단: I에 대한 질문에 you로 받아 바르게 답했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 대답에서 that은 it으로 받아 No, it isn't이므로 오답이다.\n② [오답] you에는 are를 쓰므로 오답이다.\n③ [정답] I에 대한 질문에 you로 받아 바르게 답했으므로 정답이다.\n④ [오답] you에 대한 질문에는 I로 답해 Yes, I am이므로 오답이다.\n⑤ [오답] he에는 isn't를 쓰므로 오답이다.",
+    "passage": null,
+    "stem": "다음 질문과 응답이 문법적으로 가장 적절하게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-28T02:37:04.341Z"
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T02:37:09.977Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T02:37:09.977Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T08:02:00.768Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "(가), (나)",
+      "1": "(나), (다)",
+      "2": "(다), (라)",
+      "3": "(가), (다)",
+      "4": "(나), (라)"
+    },
+    "expl": "핵심 규칙: 1형식은 주어 + 자동사(+ 부사어)이다. There is/are 문장도 1형식이다. 보어가 있으면 2형식, 목적어가 있으면 3형식이다.\n풀이 순서: ① 문장마다 부사·전치사구를 지우고 뼈대만 남긴다. → ② 동사 뒤에 보어나 목적어가 남지 않으면 1형식이다. There is/are 문장도 1형식이다. → ③ (가) Tom laughed, (다) We went가 1형식이다. 정답은 (가), (다).\n문장별 판정:\n(가) 1형식. 주어 + 자동사이다.\n(나) 2형식. good이 주어를 설명하는 보어이다.\n(다) 1형식. home은 부사어이다.\n(라) 3형식. books가 목적어이다.\n정답 판단: 1형식 문장은 (가), (다)이다.\n선택지 분석:\n① [오답] (나)는 1형식 문장이 아니고, 1형식 문장 (다)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (나)는 1형식 문장이 아니고, 1형식 문장 (가)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (라)는 1형식 문장이 아니고, 1형식 문장 (가)를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 1형식 문장 (가), (다)를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] (나), (라)는 1형식 문장이 아니고, 1형식 문장 (가), (다)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "<보기>\n(가) Tom laughed loudly at the funny joke.\n(나) The soup on the table tastes really good.\n(다) We went home after the soccer game.\n(라) Jane reads comic books in her room.",
+    "stem": "다음 <보기>의 문장 중 1형식 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-20T08:01:38.224Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T09:07:30.306Z",
+      "text": "기준 문항에 비해 변형 문항의 문장이 너무 짧고 단조로움. 적절한 수정 필요."
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T08:02:00.768Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T08:01:59.261Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T08:02:00.768Z",
+      "what": "확인 완료"
+    }
+  }
+}

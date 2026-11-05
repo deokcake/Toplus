@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:44:20.929Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "entered",
+      "1": "attended",
+      "2": "discussed about",
+      "3": "approached",
+      "4": "asked about"
+    },
+    "expl": "핵심 규칙: 참석·논의·접근·도달의 뜻으로 쓰인 동사의 목적어 구조를 확인한다. ask about은 물어보는 주제를 about 뒤에 연결한다.\n풀이 순서: ① 밑줄 친 동사 가운데 전치사가 붙은 것부터 찾는다: ③ discussed about, ⑤ asked about. → ② ask about은 about이 꼭 필요하지만, discuss는 논의 대상을 바로 목적어로 받는다. → ③ 따라서 ③에서 전치사를 뺀 형태(discussed the exhibit)가 바르다.\n문장별 판정:\n정답 판단: “discussed about”는 이 문항에서 요구한 직접 목적어 구조에 맞지 않는다. “discussed”로 고쳐 뒤의 목적어를 바로 연결한다.\n선택지 분석:\n① [오답] “entered”는 들어간 장소를 직접 목적어로 받는다. 이 부분은 올바르므로 오류를 찾는 답이 아니다.\n② [오답] “attended”는 참석한 행사·강의를 직접 목적어로 받는다. 이 부분은 올바르므로 오류를 찾는 답이 아니다.\n③ [정답] “discussed about”는 이 문항에서 요구한 직접 목적어 구조에 맞지 않는다. “discussed”로 고쳐 뒤의 목적어를 바로 연결한다.\n④ [오답] “approached”는 접근한 사람·장소를 직접 목적어로 받는다. 이 부분은 올바르므로 오류를 찾는 답이 아니다.\n⑤ [오답] “asked about”는 about 뒤에 물어본 주제가 온다. 이 부분은 올바르므로 오류를 찾는 답이 아니다.",
+    "passage": "Last Saturday, we ①<u>entered</u> the city museum and ②<u>attended</u> a lecture about old paintings. After the lecture, the class ③<u>discussed about</u> the exhibit for an hour. Then we ④<u>approached</u> the guide and ⑤<u>asked about</u> the artist's life.",
+    "stem": "다음 문장의 밑줄 친 부분 중 어법상 어색한 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T06:39:42.263Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T06:40:05.969Z",
+      "text": "기준 문항에 비해 지문이 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:44:20.929Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:44:16.634Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:44:20.929Z",
+      "what": "확인 완료"
+    }
+  }
+}

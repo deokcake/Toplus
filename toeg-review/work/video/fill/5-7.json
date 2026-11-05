@@ -1,0 +1,456 @@
+{
+ "A": {
+  "title": "멀리 있는 여럿을 가리키는 those",
+  "intro": "이 문제는 ‘저 신발들’처럼 멀리 있는 여럿을 가리키는 말을 알맞게 써서 우리말을 바르게 옮긴 영어 문장을 고르는 문제예요.",
+  "problem_narration": "다음 우리말을 영어로 바르게 옮긴 것을 고르세요. 저 신발들은 나의 것이 아니다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "가까운 것: this + 단수 명사 (이 ~),  these + 복수 명사 (이 ~들)",
+    "먼 것: that + 단수 명사 (저 ~),  those + 복수 명사 (저 ~들)",
+    "명사 없이 ‘나의 것, 너의 것’ → 소유대명사 mine, yours, his, hers, ours, theirs",
+    "예) This pen is mine, and those pens are yours. (이 펜은 나의 것이고, 저 펜들은 너의 것이에요.)"
+   ],
+   "narration": "명사 앞에서 가까이 있는 것을 가리킬 때는 ‘이’라는 뜻의 this와 these를 써요. 멀리 있는 것은 ‘저’라는 뜻의 that과 those로 가리켜요. 하나일 때는 this와 that, 여럿일 때는 these와 those 뒤에 복수 명사를 써요. 그리고 명사 없이 나의 것, 너의 것이라고 할 때는 mine, yours 같은 소유대명사를 써요. This pen is mine, and those pens are yours. 이 펜은 나의 것이고, 저 펜들은 너의 것이에요."
+  },
+  "steps": [
+   {
+    "note": "‘저’ = 멀리 있는 것 → that, those. ‘이’를 뜻하는 This, These는 지운다.",
+    "highlight": [
+     "저 신발들은"
+    ],
+    "strike": [
+     "① This shoes are not mine.",
+     "③ These shoes are not mine."
+    ],
+    "narration": "첫째, ‘저 신발들’의 ‘저’는 멀리 있는 것을 가리키니까, ‘이’라는 뜻의 1번 This와 3번 These는 맞지 않아요."
+   },
+   {
+    "note": "‘신발들’ = 여럿 → 하나를 가리키는 That은 복수 shoes 앞에 못 쓴다.",
+    "highlight": [],
+    "strike": [
+     "② That shoes are not mine."
+    ],
+    "narration": "둘째, 신발들은 여럿이라서, 하나를 가리키는 2번 That도 복수 shoes 앞에 쓸 수 없어요."
+   },
+   {
+    "note": "They(그들은)는 명사 앞에 붙여 쓰지 않는다 → 지운다. 남는 것 ④, ‘나의 것’ = mine",
+    "highlight": [
+     "④ Those shoes are not mine."
+    ],
+    "strike": [
+     "⑤ They shoes are not mine."
+    ],
+    "narration": "셋째, 5번 They는 ‘그들은’이라는 뜻의 주격 대명사라서 명사 앞에 붙여 쓰지 않아요. 남는 4번은 나의 것도 소유대명사 mine으로 바르게 썼어요. Those shoes are not mine. 저 신발들은 나의 것이 아니에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① This shoes are not mine.  ✗  This는 ‘이’, 하나 → ‘저 신발들’과 맞지 않아요",
+    "② That shoes are not mine.  ✗  That은 하나를 가리켜요 → 복수 shoes 앞에 못 써요",
+    "③ These shoes are not mine.  ✗  These는 ‘이 ~들’ → ‘저’와 달라요",
+    "④ Those shoes are not mine.  ✓  멀리 있는 여럿 → Those shoes, ‘나의 것’ → mine",
+    "⑤ They shoes are not mine.  ✗  They(그들은)는 명사 앞에 붙여 쓰지 않아요"
+   ],
+   "narration": "정답은 4번이에요. 3번 These는 여럿을 가리키지만 ‘이 신발들’이라는 뜻이라서 저 신발들과 달라요. 2번 That은 ‘저’라는 뜻은 맞지만 하나를 가리켜서 복수 shoes 앞에 쓸 수 없어요. 5번 They는 ‘그들은’이라는 뜻이라서 명사 앞에 붙여 쓰지 않아요."
+  },
+  "summary": {
+   "card": "‘저 ~들’ → those + 복수 명사,  ‘이 ~들’ → these + 복수 명사",
+   "narration": "정답은 4번이에요. 기억할 것, 멀리 있는 여럿은 those, 가까이 있는 여럿은 these로 가리켜요."
+  },
+  "captions": [
+   "‘저 신발들’을 가리키는 말",
+   "먼저 풀어 보세요",
+   "this·these는 ‘이’, that·those는 ‘저’",
+   "‘저’ → 여럿 → Those",
+   "정답 ④ Those shoes",
+   "‘저 ~들’은 those"
+  ],
+  "sec": [
+   10,
+   14,
+   28,
+   34,
+   26,
+   10
+  ]
+ },
+ "B": {
+  "title": "these와 소유대명사 ours",
+  "intro": "이 문제는 ‘이 책들’을 가리키는 말, 알맞은 be동사, ‘우리의 것’을 나타내는 소유대명사를 따져 우리말을 바르게 옮긴 영어 문장을 고르는 문제예요.",
+  "problem_narration": "다음 우리말을 영어로 가장 바르게 옮긴 것을 고르세요. 이 책들은 우리의 것이다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "가까운 것: this + 단수 명사 (이 ~),  these + 복수 명사 (이 ~들)",
+    "먼 것: that + 단수 명사 (저 ~),  those + 복수 명사 (저 ~들)",
+    "this·that + 단수 명사 → is,  these·those + 복수 명사 → are",
+    "‘우리의 것’ → 소유대명사 ours (소유격 our는 뒤에 명사가 와야 해요)",
+    "예) Those cups are yours. (저 컵들은 너의 것이에요.)"
+   ],
+   "narration": "가까이 있는 것은 ‘이’라는 뜻의 this와 these, 멀리 있는 것은 ‘저’라는 뜻의 that과 those로 가리켜요. 하나일 때는 this와 that, 여럿일 때는 these와 those 뒤에 복수 명사를 써요. 이런 주어 뒤에서 be동사 현재형은 하나면 is, 여럿이면 are예요. 명사 없이 우리의 것이라고 할 때는 소유대명사 ours를 쓰고, ‘우리의’라는 뜻의 our는 뒤에 명사가 와야 해요. Those cups are yours. 저 컵들은 너의 것이에요."
+  },
+  "steps": [
+   {
+    "note": "‘이 책들’ = 가까이 있는 여럿 → These books. This(①), Those(③)는 지운다.",
+    "highlight": [
+     "이 책들은"
+    ],
+    "strike": [
+     "① This books are our.",
+     "③ Those book is ours."
+    ],
+    "narration": "첫째, 이 책들은 가까이 있는 여럿이라서, 하나를 가리키는 1번 This와 ‘저’라는 뜻의 3번 Those는 맞지 않아요."
+   },
+   {
+    "note": "These books는 복수 주어 → 뒤에 are. These와 books 사이에 is가 낀 ②는 지운다.",
+    "highlight": [],
+    "strike": [
+     "② These is books ours."
+    ],
+    "narration": "둘째, These books 뒤에는 are가 와야 하는데, 2번은 These와 books 사이에 is가 끼어 있어서 틀렸어요."
+   },
+   {
+    "note": "‘우리의 것’ = ours. our 뒤에는 명사가 와야 한다 → ④ 지운다. 정답 ⑤",
+    "highlight": [
+     "⑤ These books are ours."
+    ],
+    "strike": [
+     "④ These books are our."
+    ],
+    "narration": "셋째, 우리의 것은 소유대명사 ours로 써요. 4번 our는 뒤에 명사가 와야 해서 틀렸어요. These books are ours. 이 책들은 우리의 것이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① This books are our.  ✗  복수 books 앞은 These, ‘우리의 것’은 ours",
+    "② These is books ours.  ✗  These와 books 사이에 is가 끼었어요 → These books are",
+    "③ Those book is ours.  ✗  Those는 ‘저’, 단수 book과도 맞지 않아요",
+    "④ These books are our.  ✗  our 뒤에는 명사가 와야 해요 → ours",
+    "⑤ These books are ours.  ✓  가까운 여럿 These books + are + ours"
+   ],
+   "narration": "정답은 5번이에요. 4번은 앞부분이 맞아서 고르기 쉽지만, ‘우리의’라는 뜻의 our는 뒤에 명사가 와야 해요. 명사 없이 우리의 것이라고 하려면 ours를 써야 해요. 1번도 our를 썼고, 여럿인 books 앞에 This를 써서 틀렸어요. 3번 Those는 ‘저’라는 뜻이고, 하나인 book과 함께 써서 수도 맞지 않아요."
+  },
+  "summary": {
+   "card": "‘이 ~들’ → these + 복수 명사 + are,  ‘우리의 것’ → ours",
+   "narration": "정답은 5번이에요. 기억할 것, 가까이 있는 여럿은 these로 가리키고, 명사 없이 우리의 것이라고 할 때는 our가 아니라 ours를 써요."
+  },
+  "captions": [
+   "이 책들은 우리의 것",
+   "먼저 풀어 보세요",
+   "this·these, that·those와 ours",
+   "These books → are → ours",
+   "정답 ⑤ These books are ours.",
+   "‘우리의 것’은 ours"
+  ],
+  "sec": [
+   11,
+   14,
+   30,
+   34,
+   30,
+   10
+  ]
+ },
+ "C": {
+  "title": "those와 소유대명사 hers",
+  "intro": "이 문제는 ‘저 모자들’을 가리키는 말과 ‘그녀의 것’을 나타내는 소유대명사를 따져 우리말을 바르게 옮긴 영어 문장을 고르는 문제예요.",
+  "problem_narration": "다음 우리말을 영어로 바르게 옮긴 것을 고르세요. 저 모자들은 그녀의 것이다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "가까운 것: this + 단수 명사 (이 ~),  these + 복수 명사 (이 ~들)",
+    "먼 것: that + 단수 명사 (저 ~),  those + 복수 명사 (저 ~들)",
+    "명사 없이 ‘그녀의 것, 그의 것’ → 소유대명사 hers, his (mine, yours, ours, theirs)",
+    "her는 ‘그녀의’(뒤에 명사)나 ‘그녀를’ → ‘그녀의 것’은 hers",
+    "예) These pens are his. (이 펜들은 그의 것이에요.)"
+   ],
+   "narration": "가까이 있는 것은 ‘이’라는 뜻의 this와 these, 멀리 있는 것은 ‘저’라는 뜻의 that과 those로 가리켜요. 하나일 때는 this와 that, 여럿일 때는 these와 those 뒤에 복수 명사를 써요. 명사 없이 그녀의 것, 그의 것이라고 할 때는 hers, his 같은 소유대명사를 써요. her는 ‘그녀의’ 또는 ‘그녀를’이라는 뜻이라서 혼자서는 그녀의 것을 나타내지 못해요. These pens are his. 이 펜들은 그의 것이에요."
+  },
+  "steps": [
+   {
+    "note": "‘저 모자들’ = 멀리 있는 여럿 → Those caps. ‘이’ These(④), 하나 That(②)는 지운다.",
+    "highlight": [
+     "저 모자들은"
+    ],
+    "strike": [
+     "② That caps are hers.",
+     "④ These caps are hers."
+    ],
+    "narration": "첫째, 저 모자들은 멀리 있는 여럿이라서, ‘이’라는 뜻의 4번 These와 하나를 가리키는 2번 That은 맞지 않아요."
+   },
+   {
+    "note": "Those 뒤에는 복수 명사 caps와 are → 단수 cap, is를 쓴 ⑤는 지운다.",
+    "highlight": [],
+    "strike": [
+     "⑤ Those cap is hers."
+    ],
+    "narration": "둘째, 5번은 Those 뒤에 하나를 뜻하는 cap과 is를 써서 틀렸어요."
+   },
+   {
+    "note": "‘그녀의 것’ = hers. her만 쓴 ①은 지운다 → 정답 ③",
+    "highlight": [
+     "③ Those caps are hers."
+    ],
+    "strike": [
+     "① Those caps are her."
+    ],
+    "narration": "셋째, 그녀의 것은 소유대명사 hers예요. 1번처럼 her만 쓰면 그녀의 것이 되지 않으니, 정답은 3번이에요. Those caps are hers. 저 모자들은 그녀의 것이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Those caps are her.  ✗  her는 ‘그녀의’·‘그녀를’ → ‘그녀의 것’은 hers",
+    "② That caps are hers.  ✗  That은 하나 → 복수 caps 앞에 못 써요",
+    "③ Those caps are hers.  ✓  멀리 있는 여럿 Those caps + are + hers",
+    "④ These caps are hers.  ✗  These는 ‘이 ~들’ → ‘저’와 달라요",
+    "⑤ Those cap is hers.  ✗  Those 뒤에는 복수 caps와 are"
+   ],
+   "narration": "정답은 3번이에요. 1번은 나머지가 다 맞아서 고르기 쉽지만, her만으로는 그녀의 것이라는 뜻이 되지 않아요. 4번 These는 ‘이 모자들’이라는 뜻이라서 저 모자들과 달라요. 5번은 Those 뒤에 하나를 뜻하는 cap과 is를 써서 수가 맞지 않아요."
+  },
+  "summary": {
+   "card": "‘저 ~들’ → those + 복수 명사,  ‘그녀의 것’ → hers",
+   "narration": "정답은 3번이에요. 기억할 것, 멀리 있는 여럿은 those로 가리키고, 그녀의 것은 her가 아니라 hers를 써요."
+  },
+  "captions": [
+   "저 모자들은 그녀의 것",
+   "먼저 풀어 보세요",
+   "those + 복수 명사, 소유대명사 hers",
+   "Those caps → are → hers",
+   "정답 ③ Those caps are hers.",
+   "‘그녀의 것’은 hers"
+  ],
+  "sec": [
+   10,
+   14,
+   30,
+   34,
+   28,
+   10
+  ]
+ },
+ "D": {
+  "title": "that과 소유대명사 his",
+  "intro": "이 문제는 ‘저 자전거’를 가리키는 말, 알맞은 be동사, ‘그의 것’을 나타내는 소유대명사를 따져 우리말을 바르게 옮긴 영어 문장을 고르는 문제예요.",
+  "problem_narration": "다음 우리말을 영어로 바르게 옮긴 것을 고르세요. 저 자전거는 그의 것이다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "가까운 것: this + 단수 명사 (이 ~),  these + 복수 명사 (이 ~들)",
+    "먼 것: that + 단수 명사 (저 ~),  those + 복수 명사 (저 ~들)",
+    "this·that + 단수 명사 → is,  these·those + 복수 명사 → are",
+    "he(그는) · him(그를) · his(그의, 그의 것) → ‘그의 것’은 his",
+    "예) This is his cap. This cap is his. (이것은 그의 모자이고, 이 모자는 그의 것이에요.)"
+   ],
+   "narration": "가까이 있는 하나는 this, 멀리 있는 하나는 that으로 가리키고, 여럿이면 these와 those로 가리켜요. this나 that이 붙은 주어에는 be동사 현재형 is, these나 those가 붙은 주어에는 are를 써요. he는 ‘그는’, him은 ‘그를’이라는 뜻이고, his는 ‘그의’와 ‘그의 것’을 모두 나타내요. This is his cap. This cap is his. 이것은 그의 모자이고, 이 모자는 그의 것이에요. 앞의 his 뒤에는 명사 cap이 오고, 뒤의 his는 명사 없이 혼자 쓰였어요."
+  },
+  "steps": [
+   {
+    "note": "‘저 자전거’ = 멀리 있는 하나 → That bike. This를 쓴 ⑤는 지운다.",
+    "highlight": [
+     "저 자전거는"
+    ],
+    "strike": [
+     "⑤ This bike is his."
+    ],
+    "narration": "첫째, 저 자전거는 멀리 있는 하나라서, ‘이 자전거’라는 뜻의 5번 This bike는 맞지 않아요."
+   },
+   {
+    "note": "That bike는 단수 주어 → is. are를 쓴 ②는 지운다.",
+    "highlight": [],
+    "strike": [
+     "② That bike are his."
+    ],
+    "narration": "둘째, That bike는 하나라서 동사는 is예요. 그래서 are를 쓴 2번은 틀렸어요."
+   },
+   {
+    "note": "‘그의 것’ = his. 주격 he(①), 목적격 him(④)은 지운다 → 정답 ③",
+    "highlight": [
+     "③ That bike is his."
+    ],
+    "strike": [
+     "① That bike is he.",
+     "④ That bike is him."
+    ],
+    "narration": "셋째, 그의 것은 he나 him이 아니라 소유대명사 his로 써요. That bike is his. 저 자전거는 그의 것이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① That bike is he.  ✗  he는 ‘그는’(주격) → ‘그의 것’은 his",
+    "② That bike are his.  ✗  That bike는 하나 → are가 아니라 is",
+    "③ That bike is his.  ✓  멀리 있는 하나 That bike + is + his",
+    "④ That bike is him.  ✗  him은 ‘그를’(목적격) → ‘그의 것’은 his",
+    "⑤ This bike is his.  ✗  문장은 맞지만 ‘이 자전거’ → ‘저’는 That"
+   ],
+   "narration": "정답은 3번이에요. 5번은 문장 자체는 맞지만 This bike라서 ‘이 자전거’라는 뜻이 돼요. 4번 him은 ‘그를’이라는 뜻이라서 그의 것을 나타내지 못해요. 2번은 하나인 That bike 뒤에 are를 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "‘저 ~’ → that + 단수 명사 + is,  ‘그의 것’ → his",
+   "narration": "정답은 3번이에요. 기억할 것, 멀리 있는 하나는 that으로 가리키고, 그의 것은 소유대명사 his로 써요."
+  },
+  "captions": [
+   "저 자전거는 그의 것",
+   "먼저 풀어 보세요",
+   "that + 단수 명사, 소유대명사 his",
+   "That bike → is → his",
+   "정답 ③ That bike is his.",
+   "‘그의 것’은 his"
+  ],
+  "sec": [
+   11,
+   14,
+   30,
+   32,
+   26,
+   10
+  ]
+ },
+ "E": {
+  "title": "this와 소유대명사 hers",
+  "intro": "이 문제는 ‘이 가방’을 가리키는 말, 알맞은 be동사, ‘그녀의 것’을 나타내는 소유대명사를 따져 우리말을 바르게 옮긴 영어 문장을 고르는 문제예요.",
+  "problem_narration": "다음 우리말을 영어로 바르게 옮긴 것을 고르세요. 이 가방은 그녀의 것이 아니다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "가까운 것: this + 단수 명사 (이 ~),  these + 복수 명사 (이 ~들)",
+    "먼 것: that + 단수 명사 (저 ~),  those + 복수 명사 (저 ~들)",
+    "this·that + 단수 명사 → is,  these·those + 복수 명사 → are",
+    "명사 없이 ‘나의 것, 그녀의 것’ → 소유대명사 mine, yours, his, hers, ours, theirs",
+    "예) That cup is not mine. (저 컵은 나의 것이 아니에요.)"
+   ],
+   "narration": "가까이 있는 하나는 this, 여럿은 these로 가리켜서 ‘이’라는 뜻을 나타내요. 멀리 있는 하나는 that, 여럿은 those로 가리켜서 ‘저’라는 뜻을 나타내요. this나 that이 붙은 주어에는 be동사 현재형 is, these나 those가 붙은 주어에는 are를 써요. 명사 없이 나의 것, 그녀의 것이라고 할 때는 mine, hers 같은 소유대명사를 써요. That cup is not mine. 저 컵은 나의 것이 아니에요."
+  },
+  "steps": [
+   {
+    "note": "‘이 가방’ = 가까이 있는 하나 → This bag. That(④), The(③)는 지운다.",
+    "highlight": [
+     "이 가방은"
+    ],
+    "strike": [
+     "③ The bag is not her.",
+     "④ That bag is not hers."
+    ],
+    "narration": "첫째, 이 가방은 가까이 있는 하나라서 This bag으로 써요. ‘저’라는 뜻의 4번 That과, ‘이’라는 뜻이 없는 3번 The는 맞지 않아요."
+   },
+   {
+    "note": "This 뒤에는 단수 bag, 동사는 is → bags(①), are(②)는 지운다.",
+    "highlight": [],
+    "strike": [
+     "① This bags are not hers.",
+     "② This bag are not hers."
+    ],
+    "narration": "둘째, This 뒤에는 단수 bag과 is가 와야 하니, bags를 쓴 1번과 are를 쓴 2번도 틀렸어요."
+   },
+   {
+    "note": "‘그녀의 것’ = hers → 정답 ⑤",
+    "highlight": [
+     "⑤ This bag is not hers."
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 5번은 그녀의 것도 소유대명사 hers로 바르게 썼어요. This bag is not hers. 이 가방은 그녀의 것이 아니에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① This bags are not hers.  ✗  This는 하나 → 복수 bags와 못 써요",
+    "② This bag are not hers.  ✗  This bag은 하나 → are가 아니라 is",
+    "③ The bag is not her.  ✗  The bag은 ‘그 가방’, her는 ‘그녀의’·‘그녀를’ → hers",
+    "④ That bag is not hers.  ✗  문장은 맞지만 ‘저 가방’ → ‘이’는 This",
+    "⑤ This bag is not hers.  ✓  가까운 하나 This bag + is not + hers"
+   ],
+   "narration": "정답은 5번이에요. 4번은 문장 자체는 맞지만 That bag이라서 ‘저 가방’이라는 뜻이 돼요. 2번은 하나인 This bag 뒤에 are를 써서 틀렸어요. 3번은 The bag이라서 ‘이 가방’이라는 뜻이 없고, her만으로는 그녀의 것이 되지 않아요."
+  },
+  "summary": {
+   "card": "‘이 ~’ → this + 단수 명사 + is,  ‘그녀의 것’ → hers",
+   "narration": "정답은 5번이에요. 기억할 것, 가까이 있는 하나는 this로 가리키고, 그녀의 것은 소유대명사 hers로 써요."
+  },
+  "captions": [
+   "이 가방은 그녀의 것이 아니다",
+   "먼저 풀어 보세요",
+   "this + 단수 명사, 소유대명사 hers",
+   "This bag → is → hers",
+   "정답 ⑤ This bag is not hers.",
+   "‘이 ~’는 this, ‘그녀의 것’은 hers"
+  ],
+  "sec": [
+   11,
+   14,
+   30,
+   34,
+   28,
+   10
+  ]
+ },
+ "F": {
+  "title": "those와 소유대명사 theirs",
+  "intro": "이 문제는 ‘저 연필들’을 가리키는 말, 알맞은 be동사, ‘그들의 것’을 나타내는 소유대명사를 따져 우리말을 바르게 옮긴 영어 문장을 고르는 문제예요.",
+  "problem_narration": "다음 우리말을 영어로 바르게 옮긴 것을 고르세요. 저 연필들은 그들의 것이다. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "가까운 것: this + 단수 명사 (이 ~),  these + 복수 명사 (이 ~들)",
+    "먼 것: that + 단수 명사 (저 ~),  those + 복수 명사 (저 ~들)",
+    "this·that + 단수 명사 → is,  these·those + 복수 명사 → are",
+    "‘그들의 것’ → 소유대명사 theirs (소유격 their는 뒤에 명사가 와야 해요)",
+    "예) These balls are ours. (이 공들은 우리의 것이에요.)"
+   ],
+   "narration": "가까이 있는 것은 ‘이’라는 뜻의 this와 these, 멀리 있는 것은 ‘저’라는 뜻의 that과 those로 가리켜요. 하나일 때는 this와 that, 여럿일 때는 these와 those 뒤에 복수 명사를 써요. 이런 주어 뒤에서 be동사 현재형은 하나면 is, 여럿이면 are예요. 명사 없이 그들의 것이라고 할 때는 소유대명사 theirs를 쓰고, ‘그들의’라는 뜻의 their는 뒤에 명사가 와야 해요. These balls are ours. 이 공들은 우리의 것이에요."
+  },
+  "steps": [
+   {
+    "note": "‘저 연필들’ = 멀리 있는 여럿 → Those pencils. These를 쓴 ②는 지운다.",
+    "highlight": [
+     "저 연필들은"
+    ],
+    "strike": [
+     "② These pencils are theirs."
+    ],
+    "narration": "첫째, 저 연필들은 멀리 있는 여럿이라서, ‘이’라는 뜻의 These를 쓴 2번은 맞지 않아요."
+   },
+   {
+    "note": "Those 뒤 → 복수 pencils + are. is(①), 단수 pencil(⑤)은 지운다.",
+    "highlight": [],
+    "strike": [
+     "① Those pencils is theirs.",
+     "⑤ Those pencil are theirs."
+    ],
+    "narration": "둘째, Those 뒤에는 복수 pencils와 are가 와야 하니, is를 쓴 1번과 단수 pencil을 쓴 5번은 틀렸어요."
+   },
+   {
+    "note": "‘그들의 것’ = theirs. their 뒤에는 명사가 와야 한다 → ③ 지운다. 정답 ④",
+    "highlight": [
+     "④ Those pencils are theirs."
+    ],
+    "strike": [
+     "③ Those pencils are their."
+    ],
+    "narration": "셋째, 그들의 것은 소유대명사 theirs로 써요. 3번 their는 뒤에 명사가 와야 해서 틀렸어요. Those pencils are theirs. 저 연필들은 그들의 것이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Those pencils is theirs.  ✗  Those pencils는 여럿 → is가 아니라 are",
+    "② These pencils are theirs.  ✗  문장은 맞지만 ‘이 연필들’ → ‘저’는 Those",
+    "③ Those pencils are their.  ✗  their 뒤에는 명사가 와야 해요 → theirs",
+    "④ Those pencils are theirs.  ✓  멀리 있는 여럿 Those pencils + are + theirs",
+    "⑤ Those pencil are theirs.  ✗  Those 뒤에는 복수 pencils"
+   ],
+   "narration": "정답은 4번이에요. 3번은 앞부분이 맞아서 고르기 쉽지만, ‘그들의’라는 뜻의 their는 뒤에 명사가 와야 해요. 2번은 문장 자체는 맞지만 These라서 ‘이 연필들’이라는 뜻이 돼요. 1번은 여럿인 Those pencils 뒤에 is를 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "‘저 ~들’ → those + 복수 명사 + are,  ‘그들의 것’ → theirs",
+   "narration": "정답은 4번이에요. 기억할 것, 멀리 있는 여럿은 those로 가리키고, 그들의 것은 their가 아니라 theirs를 써요."
+  },
+  "captions": [
+   "저 연필들은 그들의 것",
+   "먼저 풀어 보세요",
+   "those + 복수 명사, 소유대명사 theirs",
+   "Those pencils → are → theirs",
+   "정답 ④ Those pencils are theirs.",
+   "‘그들의 것’은 theirs"
+  ],
+  "sec": [
+   11,
+   14,
+   30,
+   34,
+   28,
+   10
+  ]
+ }
+}

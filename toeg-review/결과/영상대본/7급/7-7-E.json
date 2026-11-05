@@ -1,0 +1,174 @@
+{
+ "key": "7-7",
+ "type": "E",
+ "grade": 7,
+ "chapter": "CH 1 명사",
+ "title": "셀 수 없는 명사 milk의 쓰임",
+ "total_sec": 125,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "7급 · CH 1 명사 · 7번 · E 유형\n\n이 문제는 셀 수 없는 명사 milk를 알맞게 쓴 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 1 명사 · 7번 · E 유형",
+     "이 문제는 셀 수 없는 명사 milk를 알맞게 쓴 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 1, 7번 E 유형. 이 문제는 셀 수 없는 명사 milk를 알맞게 쓴 문장을 고르는 문제예요.",
+   "caption": "셀 수 없는 명사 milk"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 13,
+   "screen": {
+    "text": "다음 중 문법적으로 가장 자연스러운 문장을 고르세요.\n\n① I like an milk.\n② I like milks.\n③ I like milk.\n④ I like a milk.\n⑤ I like two milks.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 문법적으로 가장 자연스러운 문장을 고르세요.",
+     "① I like an milk.",
+     "② I like milks.",
+     "③ I like milk.",
+     "④ I like a milk.",
+     "⑤ I like two milks."
+    ]
+   },
+   "narration": "다음 중 문법적으로 가장 자연스러운 문장을 고르세요. 보기마다 I like 뒤에 오는 말을 잘 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n셀 수 없는 명사: 하나, 둘 세지 않는 것 (milk, water, bread)\n앞에 ‘하나’를 뜻하는 a, an을 붙이지 않아요\ntwo 같은 수를 붙이거나 s를 붙인 복수형으로 쓰지 않아요\n일반적으로 말할 때는 명사만 그대로 써요\n예) I drink juice every day. (나는 매일 주스를 마셔요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "셀 수 없는 명사: 하나, 둘 세지 않는 것 (milk, water, bread)",
+     "앞에 ‘하나’를 뜻하는 a, an을 붙이지 않아요",
+     "two 같은 수를 붙이거나 s를 붙인 복수형으로 쓰지 않아요",
+     "일반적으로 말할 때는 명사만 그대로 써요",
+     "예) I drink juice every day. (나는 매일 주스를 마셔요.)"
+    ]
+   },
+   "narration": "milk 우유, water 물, bread 빵처럼 하나, 둘 세지 않는 것을 셀 수 없는 명사라고 해요. 셀 수 없는 명사 앞에는 하나라는 뜻의 a나 an을 붙이지 않아요. 또 two 같은 수를 붙이거나 s를 붙인 복수형으로도 쓰지 않아요. 일반적으로 말할 때는 명사만 그대로 써요. 예를 들어 I drink juice every day, 나는 매일 주스를 마셔요.",
+   "caption": "셀 수 없는 명사: a, an ✗ 복수형 ✗"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 문법적으로 가장 자연스러운 문장을 고르세요.\n\n① I like an milk.\n② I like milks.\n③ I like milk.\n④ I like a milk.\n⑤ I like two milks.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [],
+      "strike": [
+       "① I like an milk.",
+       "④ I like a milk."
+      ],
+      "note": "like 뒤 milk(우유) = 셀 수 없는 명사 → a, an이 붙은 문장을 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "② I like milks.",
+       "⑤ I like two milks."
+      ],
+      "note": "milk는 수를 붙이거나 복수형으로 쓰지 않는다 → milks, two milks도 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ I like milk."
+      ],
+      "strike": [],
+      "note": "남는 것은 명사만 그대로 쓴 ③ → I like milk."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 보기마다 like 뒤에 오는 milk는 우유라는 뜻의 셀 수 없는 명사예요. 그래서 an을 붙인 an milk와 a를 붙인 a milk는 지워요. 둘째, milk는 two 같은 수를 붙이거나 복수형으로 쓰지 않으니 milks와 two milks도 지워요. 셋째, 남는 것은 milk만 그대로 쓴 3번이에요. I like milk, 나는 우유를 좋아해요.",
+   "caption": "a, an 지우기 → s 지우기 → milk"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 30,
+   "screen": {
+    "text": "① I like an milk.  ✗  셀 수 없는 milk 앞에는 an을 쓰지 않아요\n② I like milks.  ✗  milk는 s를 붙인 복수형으로 쓰지 않아요\n③ I like milk.  ✓  셀 수 없는 milk를 명사만 그대로 썼어요\n④ I like a milk.  ✗  ‘하나’를 뜻하는 a도 milk 앞에는 쓰지 않아요\n⑤ I like two milks.  ✗  milk는 two로 셀 수 없고 복수형도 쓰지 않아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① I like an milk.  ✗  셀 수 없는 milk 앞에는 an을 쓰지 않아요",
+     "② I like milks.  ✗  milk는 s를 붙인 복수형으로 쓰지 않아요",
+     "③ I like milk.  ✓  셀 수 없는 milk를 명사만 그대로 썼어요",
+     "④ I like a milk.  ✗  ‘하나’를 뜻하는 a도 milk 앞에는 쓰지 않아요",
+     "⑤ I like two milks.  ✗  milk는 two로 셀 수 없고 복수형도 쓰지 않아요"
+    ]
+   },
+   "narration": "정답은 3번이에요. milk는 셀 수 없는 명사라서 a나 an도, s도 붙이지 않고 그대로 써요. 4번 a milk는 하나를 뜻하는 a를 셀 수 없는 milk 앞에 붙여서 틀렸어요. 2번 milks는 s를 붙인 복수형이라 틀렸어요. 5번 two milks도 셀 수 없는 milk에 two를 붙이고 s까지 붙여서 틀렸어요.",
+   "caption": "정답 ③ I like milk."
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ I like milk.\n\n셀 수 없는 명사(milk) → a, an도 s도 붙이지 않고 그대로 써요",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ I like milk.",
+     "셀 수 없는 명사(milk) → a, an도 s도 붙이지 않고 그대로 써요"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, milk 같은 셀 수 없는 명사에는 a나 an을 붙이지 않고, 복수형으로도 쓰지 않아요.",
+   "caption": "셀 수 없는 명사는 그대로"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 문법적으로 가장 자연스러운 문장을 고르세요.",
+  "passage": "",
+  "c": [
+   "I like an milk.",
+   "I like milks.",
+   "I like milk.",
+   "I like a milk.",
+   "I like two milks."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 셀 수 없는 명사는 a/an을 붙이지 않고 복수형으로도 쓰지 않는다. 일반적으로 말할 때는 명사만 쓴다(I like milk.).\n풀이 순서: ① 목적어(milk)는 셀 수 없는 명사다. → ② a/an이 붙은 문장과 -s가 붙은 문장을 모두 지운다. → ③ 명사만 쓴 문장은 ③.\n문장별 판정:\n정답 판단: 셀 수 없는 명사(milk)를 a/an이나 복수형 없이 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 셀 수 없는 명사(milk) 앞에는 a/an을 쓰지 않으므로 오답이다.\n② [오답] 셀 수 없는 명사(milk)는 복수형으로 쓰지 않으므로 오답이다.\n③ [정답] 셀 수 없는 명사(milk)를 a/an이나 복수형 없이 바르게 썼으므로 정답이다.\n④ [오답] 셀 수 없는 명사(milk) 앞에는 a/an을 쓰지 않으므로 오답이다.\n⑤ [오답] 셀 수 없는 명사(milk)는 복수형으로 쓰지 않으므로 오답이다."
+ }
+}

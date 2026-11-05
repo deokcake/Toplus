@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:44:08.258Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Is these her shoes?",
+      "1": "Are these her shoes?",
+      "2": "Is this her shoe?",
+      "3": "Are those her shoes?",
+      "4": "Are this her shoes?"
+    },
+    "expl": "핵심 규칙: ‘이것들은 ~이니?’는 Are these ~?, ‘저것들은 ~이니?’는 Are those ~?로 옮긴다. these/those 뒤에는 are와 복수 명사를 쓴다.\n풀이 순서: ① 우리말의 ‘이것들’에 맞는 지시대명사는 these. → ② 여러 개이므로 be동사는 Are, 명사는 복수형(shoes)이다. → ③ 셋을 다 갖춘 것은 Are these her shoes?\n문장별 판정:\n정답 판단: ‘이것들’을 these, 복수 주어에 Are로 바르게 옮겼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 복수 주어 these에는 Are를 쓰므로 오답이다.\n② [정답] ‘이것들’을 these, 복수 주어에 Are로 바르게 옮겼으므로 정답이다.\n③ [오답] ‘이것들’은 여러 개라 this와 shoe로 옮길 수 없으므로 오답이다.\n④ [오답] ‘이것들’은 those가 아니라 these이므로 오답이다.\n⑤ [오답] ‘이것들’은 this가 아니라 these이므로 오답이다.",
+    "passage": null,
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:44:06.358Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:44:08.258Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:44:08.258Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-24T01:05:15.974Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "(A) sending - (B) including the file",
+      "1": "(A) to send - (B) to include the file",
+      "2": "(A) sending - (B) to include the file",
+      "3": "(A) to send - (B) including the file",
+      "4": "(A) sent - (B) include the file"
+    },
+    "expl": "핵심 규칙: remember(forget) + 동명사는 ‘이미 한 일을 기억하다(잊다)’, remember(forget) + to부정사는 ‘앞으로 할 일을 기억하다(잊다)’는 뜻이다.\n풀이 순서: ① remember(forget) 뒤의 형태는 그 일이 이미 한 일인지 앞으로 할 일인지로 정한다. → ② (A)는 yesterday afternoon이 있어 이미 한 일이다. 동명사를 쓴다. (B)는 next time이 있어 앞으로 할 일이다. to부정사를 쓴다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: (A)는 yesterday afternoon이 있어 이미 한 일, (B)는 next time이 있어 앞으로 할 일이다.\n선택지 분석:\n① [오답] (B) including the file: 앞으로 할 일(next time)이라 to부정사 to include the file을 써야 하므로 오답이다.\n② [오답] (A) to send: 이미 한 일(yesterday afternoon)이라 동명사 sending을 써야 하므로 오답이다.\n③ [정답] (A)는 이미 한 일이라 동명사 sending, (B)는 앞으로 할 일이라 to부정사 to include the file이 알맞으므로 정답이다.\n④ [오답] (A) to send: 이미 한 일이라 동명사 sending을, (B) including the file: 앞으로 할 일이라 to부정사를 써야 하므로 오답이다.\n⑤ [오답] (A) sent, (B) include the file: remember 뒤에 과거형이나 동사원형을 쓸 수 없으므로 오답이다.",
+    "passage": "Tom clearly remembers (A)________ the email to his teacher yesterday afternoon, but he forgot the attachment.\nHe must remember (B)________ next time, or his teacher will not get the file.",
+    "stem": "다음 문장의 빈칸 (A)와 (B)에 들어갈 말이 바르게 연결된 것은?"
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-24T01:05:15.974Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:05:15.974Z",
+      "what": "확인 완료"
+    }
+  }
+}

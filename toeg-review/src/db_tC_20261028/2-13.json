@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T03:14:15.096Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "I have <u>broken</u> the school rule only once this year.",
+      "1": "They have <u>spoken</u> to the new teacher about the problem.",
+      "2": "Tom has <u>driven</u> this old car since he was twenty.",
+      "3": "I have <u>wrote</u> to her several times since last spring.",
+      "4": "We have <u>thrown</u> away all the old boxes in the garage."
+    },
+    "expl": "핵심 규칙: 현재완료·과거완료는 have/has/had + 과거분사(p.p.)로 만든다. 불규칙동사는 과거형과 과거분사형이 다를 수 있으므로 각각 확인한다.\n풀이 순서: ① 밑줄은 모두 have/has/had 뒤, 곧 과거분사 자리다. → ② 밑줄 친 동사의 ‘원형 - 과거형 - 과거분사’를 떠올려 과거분사가 맞는지 본다. 과거형과 과거분사가 다른 불규칙동사가 함정이다. → ③ 선택지 ④의 wrote는 과거형이다. write - wrote - written이므로 written이 맞다.\n문장별 판정:\n정답 판단: have wrote: 과거분사 자리에 과거형을 썼다(write-wrote-written). have written(으)로 고쳐야 하는 어색한 곳이므로 정답은 ④이다.\n선택지 분석:\n① [오답] have broken: 과거분사를 바르게 썼다(break-broke-broken). 어색하지 않으므로 오답이다.\n② [오답] have spoken: 과거분사를 바르게 썼다(speak-spoke-spoken). 어색하지 않으므로 오답이다.\n③ [오답] has driven: 과거분사를 바르게 썼다(drive-drove-driven). 어색하지 않으므로 오답이다.\n④ [정답] have wrote: 과거분사 자리에 과거형을 썼다(write-wrote-written). have written(으)로 고쳐야 하는 어색한 곳이므로 정답이다.\n⑤ [오답] have thrown: 과거분사를 바르게 썼다(throw-threw-thrown). 어색하지 않으므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 밑줄 친 곳이 어법상 어색한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T02:38:38.273Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T02:38:35.300Z",
+      "text": "기준 문항에 비해 각 선택지의 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:35:34.010Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:35:34.010Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:35:34.010Z",
+      "what": "판정을 Claude 판정으로 되돌림"
+    }
+  }
+}

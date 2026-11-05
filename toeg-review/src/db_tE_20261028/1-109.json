@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T19:53:21.403Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "(A), (B), (C)",
+      "1": "(C), (D), (E)",
+      "2": "(A), (D), (E)",
+      "3": "(B), (C), (D)",
+      "4": "(B), (D), (E)"
+    },
+    "expl": "핵심 규칙: unless는 ‘~하지 않으면(= if ~ not)’이라는 뜻이라 뒤에 not을 겹쳐 쓰지 않는다. 조건절에는 미래 일이라도 현재형을 쓰고, 문맥상 뜻이 맞는지도 확인한다.\n풀이 순서: ① unless를 ‘~하지 않으면’으로 옮겨 문장마다 뜻이 통하는지 본다. → ② unless 뒤에 not·will이 있거나 동사 형태가 틀린 문장, 뜻이 거꾸로 되는 문장을 표시한다. (A)는 unless 뒤에 부정을 겹쳐 뜻이 거꾸로 되고, (E)는 ‘날씨가 따뜻하고 맑지 않으면 밖에서 먹는다’는 뜻이 되어 문맥이 맞지 않는다. → ③ 남은 세 문장을 모은 (B), (C), (D)를 고른다.\n문장별 판정:\n(A) 틀림: unless 뒤에 don't를 겹쳐 썼다. Unless you save your file.\n(B) 옳음: 길이 막히지 않으면 이 길로 간다.\n(C) 옳음: 아빠가 허락하지 않으면 차를 빌릴 수 없다.\n(D) 옳음: 바쁘지 않으면 함께한다.\n(E) 틀림: ‘따뜻하고 맑지 않으면 밖에서 먹는다’는 문맥이 맞지 않는다.\n정답 판단: 문맥과 어법이 모두 올바른 문장은 (B), (C), (D)이다.\n선택지 분석:\n① [오답] (A)는 올바른 문장이 아니고, 올바른 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (E)는 올바른 문장이 아니고, 올바른 문장 (B)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (A), (E)는 올바른 문장이 아니고, 올바른 문장 (B), (C)를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 올바른 문장 (B), (C), (D)를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] (E)는 올바른 문장이 아니고, 올바른 문장 (C)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(A) Unless you don't save your file, you may lose your work.\n(B) Unless the road is blocked, we will take this route.\n(C) You cannot borrow the car unless Dad agrees.\n(D) Unless Mina is busy, she will join us.\n(E) We will eat outside unless it is warm and sunny.",
+    "stem": "다음 중 문맥과 어법이 모두 올바른 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:52:48.165Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:53:21.403Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:53:21.403Z",
+      "what": "확인 완료"
+    }
+  }
+}

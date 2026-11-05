@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T09:44:25.608Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Before I read a book, I sleep.",
+      "1": "I sleep before I read a book.",
+      "2": "Before I sleep, I read a book.",
+      "3": "I read a book but I sleep.",
+      "4": "I read a book and before I sleep."
+    },
+    "expl": "핵심 규칙: A before B는 ‘B하기 전에 A한다’, 즉 A가 먼저 일어난다. Before B, A.처럼 before절을 앞에 둘 수도 있다. and before, but으로는 두 사건의 순서를 나타내지 못한다.\n풀이 순서: ① 우리말에서 먼저 하는 일과 나중에 하는 일을 가른다: 먼저 책 읽기(I read a book), 나중에 잠자기(I sleep). → ② before 바로 뒤에는 나중에 하는 일이 와야 한다. → ③ 보기마다 before 뒤를 확인한다. 정답은 ③.\n문장별 판정:\n정답 판단: Before절을 앞에 두어 책 읽기가 먼저임을 바르게 나타냈으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 순서가 뒤집혀 나중 일이 먼저 일어난 것이 되므로 오답이다.\n② [오답] 순서가 뒤집혀 나중 일이 먼저 일어난 것이 되므로 오답이다.\n③ [정답] Before절을 앞에 두어 책 읽기가 먼저임을 바르게 나타냈으므로 정답이다.\n④ [오답] but은 대조를 나타내 순서를 알려 주지 못하므로 오답이다.\n⑤ [오답] and before로는 두 문장을 바르게 연결할 수 없으므로 오답이다.",
+    "passage": "책을 읽고 나서 잔다.\n(1) I read a book.\n(2) I sleep.",
+    "stem": "주어진 두 문장을 'before'를 사용하여 한 문장으로 바르게 연결한 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T09:44:24.237Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T09:44:25.608Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T09:44:25.608Z",
+      "what": "확인 완료"
+    }
+  }
+}

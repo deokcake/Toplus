@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T18:09:17.818Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "How _____ coffee do you drink a day?",
+      "1": "How _____ paper do we need?",
+      "2": "How _____ advice did he give you?",
+      "3": "How _____ soup is in the pot?",
+      "4": "How _____ classes do you have today?"
+    },
+    "expl": "핵심 규칙: How many + 셀 수 있는 명사의 복수형은 개수를, How much + 셀 수 없는 명사는 양을 묻는다. bread, salt, information, furniture, advice, paper, snow, luggage 등은 셀 수 없는 명사이다.\n풀이 순서: ① 빈칸 뒤 명사가 셀 수 있는지 본다. 셀 수 있는 복수 명사 앞은 How many, 셀 수 없는 명사 앞은 How much다. → ② 명사 끝의 복수형 -s가 단서다. classes만 복수 명사라 many이고, coffee, paper, advice, soup은 셀 수 없어 much다. → ③ 나머지와 다른 것은 ⑤이다.\n문장별 판정:\n정답 판단: classes: 셀 수 있는 명사의 복수형이라 many가 들어가고, 나머지(much)와 달라 정답은 ⑤이다.\n선택지 분석:\n① [오답] coffee: 셀 수 없는 명사라 much가 들어가므로 오답이다.\n② [오답] paper: 셀 수 없는 명사라 much가 들어가므로 오답이다.\n③ [오답] advice: 셀 수 없는 명사라 much가 들어가므로 오답이다.\n④ [오답] soup: 셀 수 없는 명사라 much가 들어가므로 오답이다.\n⑤ [정답] classes: 셀 수 있는 명사의 복수형이라 many가 들어가고, 나머지(much)와 달라 정답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:09:08.540Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:09:17.818Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:09:17.818Z",
+      "what": "확인 완료"
+    }
+  }
+}

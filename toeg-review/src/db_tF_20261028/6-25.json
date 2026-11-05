@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:10:38.400Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Yes, she were.",
+      "1": "No, she isn't.",
+      "2": "Yes, she did.",
+      "3": "No, she wasn't.",
+      "4": "Yes, he was."
+    },
+    "expl": "핵심 규칙: Was/Were 의문문에는 Yes, 주어 + was/were. / No, 주어 + wasn't/weren't.로 답한다. 대답의 주어는 질문의 주어를 대명사로 받고(the cookies → they, Jane → she), 시제도 과거로 맞춘다.\n풀이 순서: ① 질문의 주어를 대명사로 바꾼다: Jane → she. → ② 질문이 과거(Was/Were)이므로 대답도 was/were로 하고, 대명사에 맞춘다: she wasn't. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: Jane을 she로 받아 wasn't로 바르게 답했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 단수 주어 she에는 was를 써야 하므로 오답이다.\n② [오답] 과거 질문에 현재형 isn't로 답했으므로 오답이다.\n③ [오답] be동사 질문에 did로 답했으므로 오답이다.\n④ [정답] Jane을 she로 받아 wasn't로 바르게 답했으므로 정답이다.\n⑤ [오답] Jane은 he가 아니라 she로 받아야 하므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:10:36.616Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:10:38.400Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:10:38.400Z",
+      "what": "확인 완료"
+    }
+  }
+}

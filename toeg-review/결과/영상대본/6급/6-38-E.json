@@ -1,0 +1,175 @@
+{
+ "key": "6-38",
+ "type": "E",
+ "grade": 6,
+ "chapter": "CH 4 일반동사",
+ "title": "일반동사 현재형 의문문 Do, Does",
+ "total_sec": 131,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "6급 · CH 4 일반동사 · 38번 · E 유형\n\n이 문제는 일반동사 현재형 의문문을 바르게 쓴 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 4 일반동사 · 38번 · E 유형",
+     "이 문제는 일반동사 현재형 의문문을 바르게 쓴 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 4, 38번 E 유형. 이 문제는 일반동사 현재형 의문문을 바르게 쓴 문장을 고르는 문제예요.",
+   "caption": "Do, Does 의문문 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장을 고르시오.\n\n① Does the baby cries often?\n② Does you want some cake?\n③ Do your friends live nearby?\n④ Is Jane like dogs?\n⑤ Do it rain a lot in July?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 어법상 옳은 문장을 고르시오.",
+     "① Does the baby cries often?",
+     "② Does you want some cake?",
+     "③ Do your friends live nearby?",
+     "④ Is Jane like dogs?",
+     "⑤ Do it rain a lot in July?"
+    ]
+   },
+   "narration": "다음 중 어법상 옳은 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n일반동사 현재형 의문문 → Do, Does + 주어 + 동사원형 ~?\nhe, she, it 같은 3인칭 단수 주어 → Does  ·  I, you, we, they, 복수 → Do\n주어 다음 동사는 Does일 때도 동사원형 (swims → swim)\n일반동사 현재형 문장은 be동사(Is, Are)로 묻지 않아요\n예) Does Mina swim? (미나는 수영을 하니?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "일반동사 현재형 의문문 → Do, Does + 주어 + 동사원형 ~?",
+     "he, she, it 같은 3인칭 단수 주어 → Does  ·  I, you, we, they, 복수 → Do",
+     "주어 다음 동사는 Does일 때도 동사원형 (swims → swim)",
+     "일반동사 현재형 문장은 be동사(Is, Are)로 묻지 않아요",
+     "예) Does Mina swim? (미나는 수영을 하니?)"
+    ]
+   },
+   "narration": "일반동사 현재형 문장을 물을 때는 be동사 Is나 Are가 아니라 Do나 Does를 주어 앞에 써요. he, she, it 같은 3인칭 단수 주어에는 Does를, I, you, we, they나 복수 주어에는 Do를 써요. 주어 다음 동사는 Does일 때도 동사원형이에요. 예를 들어 Does Mina swim? 미나는 수영을 하니?",
+   "caption": "Do, Does + 주어 + 동사원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장을 고르시오.\n\n① Does the baby cries often?\n② Does you want some cake?\n③ Do your friends live nearby?\n④ Is Jane like dogs?\n⑤ Do it rain a lot in July?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [],
+      "strike": [
+       "④ Is Jane like dogs?"
+      ],
+      "note": "일반동사 like 문장은 be동사로 묻지 않음 → Is로 시작한 ④ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "② Does you want some cake?",
+       "⑤ Do it rain a lot in July?"
+      ],
+      "note": "Do, Does가 주어와 맞나? you → Do, it → Does. ②, ⑤ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ Do your friends live nearby?"
+      ],
+      "strike": [
+       "① Does the baby cries often?"
+      ],
+      "note": "Does 뒤 cries는 원형 아님 → ① 지움 → ③"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 일반동사 현재형 문장은 be동사로 묻지 않으니까, 일반동사 like가 있는데 Is로 시작한 4번을 지워요. 둘째, Do와 Does가 주어와 맞는지 봐요. 주어 you에 Does를 쓴 2번과, 3인칭 단수 it에 Do를 쓴 5번을 지워요. 셋째, 1번은 Does 뒤에 동사원형 cry가 아니라 cries를 써서 지우면, 3번이 남아요. Do your friends live nearby? 너의 친구들은 근처에 사니?",
+   "caption": "be동사 → 주어 → 동사원형"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① Does the baby cries often?  ✗  Does 뒤에는 동사원형 cry\n② Does you want some cake?  ✗  주어 you에는 Do\n③ Do your friends live nearby?  ✓  복수 주어 + Do + 동사원형 live\n④ Is Jane like dogs?  ✗  일반동사 like 문장은 Is가 아니라 Does로 물어요\n⑤ Do it rain a lot in July?  ✗  3인칭 단수 it에는 Does",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Does the baby cries often?  ✗  Does 뒤에는 동사원형 cry",
+     "② Does you want some cake?  ✗  주어 you에는 Do",
+     "③ Do your friends live nearby?  ✓  복수 주어 + Do + 동사원형 live",
+     "④ Is Jane like dogs?  ✗  일반동사 like 문장은 Is가 아니라 Does로 물어요",
+     "⑤ Do it rain a lot in July?  ✗  3인칭 단수 it에는 Does"
+    ]
+   },
+   "narration": "정답은 복수 주어 your friends에 Do와 동사원형 live를 쓴 3번이에요. 1번은 the baby에 Does는 맞게 썼지만, 동사원형 cry가 아니라 cries를 썼어요. 5번은 3인칭 단수 it에 Does가 아니라 Do를 썼어요. 4번은 일반동사 like가 있는 문장인데 Does가 아니라 be동사 Is로 물었어요.",
+   "caption": "정답 ③ Do your friends live nearby?"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ③ Do your friends live nearby?\n\nDo, Does + 주어 + 동사원형 ~?  (3인칭 단수 주어 → Does)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ Do your friends live nearby?",
+     "Do, Does + 주어 + 동사원형 ~?  (3인칭 단수 주어 → Does)"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, Do나 Does 다음에는 주어와 동사원형을 쓰고, 3인칭 단수 주어에는 Does를 써요.",
+   "caption": "3인칭 단수 → Does + 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 어법상 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Does the baby cries often?",
+   "Does you want some cake?",
+   "Do your friends live nearby?",
+   "Is Jane like dogs?",
+   "Do it rain a lot in July?"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 일반동사 현재형은 3인칭 단수 주어에 -s/-es를 붙이고, 그 밖의 주어에는 동사원형을 쓴다. 의문문은 Do/Does + 주어 + 동사원형 ~?, 부정문은 don't/doesn't + 동사원형으로 쓴다.\n풀이 순서: ① 맨 앞의 Do/Does가 주어와 맞는지 본다(3인칭 단수 → Does). → ② 뒤의 동사가 원형인지 본다. Is/Are로 시작한 문장은 일반동사 의문문이 될 수 없다. → ③ 선택지 ③만 Do + your friends + live로 두 가지가 모두 맞는다. 정답은 ③.\n문장별 판정:\n정답 판단: 복수 주어에 Do + 동사원형 live를 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] Does 뒤에는 동사원형 cry를 써야 하므로 오답이다.\n② [오답] 주어 you에는 Do를 써야 하므로 오답이다.\n③ [정답] 복수 주어에 Do + 동사원형 live를 바르게 썼으므로 정답이다.\n④ [오답] 일반동사 like의 의문문에는 be동사 Is가 아니라 Does를 써야 하므로 오답이다.\n⑤ [오답] 주어 it에는 Does를 써야 하므로 오답이다."
+ }
+}

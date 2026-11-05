@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:56:17.929Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "(A), (C)",
+      "1": "(B), (C)",
+      "2": "(A), (B), (D)",
+      "3": "(A), (C), (D)",
+      "4": "(C), (D)"
+    },
+    "expl": "핵심 규칙: 형용사는 명사 앞에서 명사를 꾸미거나, be동사·연결동사(look, seem, smell, taste, sound, feel, become) 뒤에서 주어를 보충 설명한다. 부사는 동사·형용사·다른 부사를 꾸민다.\n풀이 순서: ① 밑줄마다 동사의 종류를 가른다. 연결동사(look, sound, feel, smell, taste, seem) 뒤는 형용사, 동작을 나타내는 동사 뒤는 부사다. → ② (C) speaks polite → politely, (D) works diligent → diligently. (A), (B)는 옳다. → ③ 틀린 것을 모두 모으면 (C), (D)\n문장별 판정:\n(A) O. 동사 sings를 부사 beautifully가 꾸민다.\n(B) O. be동사 뒤에 형용사 kind를 썼다.\n(C) X. 동사 speaks를 꾸미므로 부사 politely를 써야 한다.\n(D) X. 동사 works를 꾸미므로 부사 diligently를 써야 한다.\n정답 판단: 어법상 틀린 부분은 (C), (D)이다.\n선택지 분석:\n① [오답] (A)는 틀린 부분이 아니고, 틀린 부분 (D)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (B)는 틀린 부분이 아니고, 틀린 부분 (D)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (A), (B)는 틀린 부분이 아니고, 틀린 부분 (C)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (A)는 틀린 부분이 아니다. 따라서 오답이다.\n⑤ [정답] 틀린 부분 (C), (D)를 빠짐없이 골랐으므로 정답이다.",
+    "passage": "Yuna: She sings (A)<u>beautifully</u>.\nMinsu: Yes, and she is (B)<u>kind</u>.\nYuna: She speaks (C)<u>polite</u>.\nMinsu: And she works (D)<u>diligent</u>.",
+    "stem": "다음 대화에서 어법상 틀린 부분을 모두 고른 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:56:13.944Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:56:17.929Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:56:17.929Z",
+      "what": "확인 완료"
+    }
+  }
+}

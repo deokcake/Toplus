@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T04:11:52.707Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": "The <u>geese</u> are swimming in the pond."
+    },
+    "expl": "핵심 규칙: 복수형은 대부분 -s, s·sh·ch·x·자음 + o로 끝나면 -es(heroes, tomatoes), 자음 + y는 y를 i로 바꾸고 -es, f/fe는 v로 바꾸고 -es(knives, calves)를 붙인다. child → children, mouse → mice처럼 불규칙형과 deer·sheep처럼 단복수가 같은 명사도 있다.\n풀이 순서: ① 밑줄 친 복수형마다 단수형의 끝(f/fe, 자음 + y, s·x·sh·ch, 자음 + o)을 떠올린다. → ② 그 끝에 맞는 규칙대로 바뀌었는지 본다. → ③ child → children(불규칙). 정답은 ③.\n문장별 판정:\n정답 판단: child의 복수형은 불규칙형 children이므로 정답은 ③이다.\n선택지 분석:\n① [오답] watches: ch로 끝나 -es를 붙여 바르게 썼으므로 오답이다.\n② [오답] mice: mouse의 불규칙 복수형으로 바르게 썼으므로 오답이다.\n③ [정답] child의 복수형은 불규칙형 children이므로 정답이다.\n④ [오답] cities: 자음 + y라 y를 i로 바꾸고 -es를 붙여 바르게 썼으므로 오답이다.\n⑤ [오답] geese: goose의 불규칙 복수형으로 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T04:11:51.183Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T04:11:52.707Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T04:11:52.707Z",
+      "what": "확인 완료"
+    }
+  }
+}

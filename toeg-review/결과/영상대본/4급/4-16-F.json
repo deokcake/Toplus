@@ -1,0 +1,179 @@
+{
+ "key": "4-16",
+ "type": "F",
+ "grade": 4,
+ "chapter": "CH 2 대명사",
+ "title": "소유격과 소유대명사 구별",
+ "total_sec": 126,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "4급 · CH 2 대명사 · 16번 · F 유형\n\n이 문제는 소유격과 소유대명사를 구별해, 쓰임이 옳지 않은 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 2 대명사 · 16번 · F 유형",
+     "이 문제는 소유격과 소유대명사를 구별해, 쓰임이 옳지 않은 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 2, 16번 F 유형. 이 문제는 소유격과 소유대명사를 구별해, 쓰임이 옳지 않은 문장을 고르는 문제예요.",
+   "caption": "소유격과 소유대명사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 밑줄 친 부분의 쓰임이 옳지 않은 것을 고르시오.\n\n① This desk is <u>ours</u>.\n② The dog is <u>theirs</u>.\n③ Those bags are <u>your</u>.\n④ That coat is <u>his</u>.\n⑤ The white shoes are <u>mine</u>.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 밑줄 친 부분의 쓰임이 옳지 않은 것을 고르시오.",
+     "① This desk is <u>ours</u>.",
+     "② The dog is <u>theirs</u>.",
+     "③ Those bags are <u>your</u>.",
+     "④ That coat is <u>his</u>.",
+     "⑤ The white shoes are <u>mine</u>."
+    ]
+   },
+   "narration": "다음 밑줄 친 부분의 쓰임이 옳지 않은 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n소유격 + 명사 → ‘~의’  your ball (너의 공)\n명사 없이 ‘~의 것’ → 소유대명사  yours (너의 것)\nmy–mine, your–yours, her–hers, our–ours, their–theirs\nhis는 ‘그의’도 ‘그의 것’도 his\n예) This is your ball. (이것은 너의 공이에요.)  This ball is yours. (이 공은 너의 것이에요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "소유격 + 명사 → ‘~의’  your ball (너의 공)",
+     "명사 없이 ‘~의 것’ → 소유대명사  yours (너의 것)",
+     "my–mine, your–yours, her–hers, our–ours, their–theirs",
+     "his는 ‘그의’도 ‘그의 것’도 his",
+     "예) This is your ball. (이것은 너의 공이에요.)  This ball is yours. (이 공은 너의 것이에요.)"
+    ]
+   },
+   "narration": "소유격은 my, your처럼 나의, 너의라는 뜻이고, 뒤에 꾸며 줄 명사가 꼭 와요. 명사 없이 내 것, 너의 것이라고 할 때는 mine, yours 같은 소유대명사를 써요. his는 그의, 그의 것 모두 his로 모양이 같아요. This is your ball. 이것은 너의 공이에요. This ball is yours. 이 공은 너의 것이에요.",
+   "caption": "‘~의’ 소유격, ‘~의 것’ 소유대명사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 33,
+   "screen": {
+    "text": "다음 밑줄 친 부분의 쓰임이 옳지 않은 것을 고르시오.\n\n① This desk is <u>ours</u>.\n② The dog is <u>theirs</u>.\n③ Those bags are <u>your</u>.\n④ That coat is <u>his</u>.\n⑤ The white shoes are <u>mine</u>.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "<u>ours</u>",
+       "<u>theirs</u>",
+       "<u>your</u>",
+       "<u>his</u>",
+       "<u>mine</u>"
+      ],
+      "strike": [],
+      "note": "다섯 문장 모두 밑줄 뒤에 명사가 없다 → 주어가 누구의 것인지 말하는 ‘~의 것’ 자리 = 소유대명사"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① This desk is <u>ours</u>.",
+       "② The dog is <u>theirs</u>.",
+       "④ That coat is <u>his</u>.",
+       "⑤ The white shoes are <u>mine</u>."
+      ],
+      "note": "ours, theirs, mine → 소유대명사, his → ‘그의 것’(소유격과 모양이 같다) → 바르게 쓴 문장은 지운다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ Those bags are <u>your</u>."
+      ],
+      "strike": [],
+      "note": "your는 소유격(‘너의’) → 뒤에 명사가 없으니 yours(‘너의 것’)로 → Those bags are yours."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 다섯 문장 모두 밑줄 친 말 뒤에 명사가 없어요. 주어가 누구의 것인지 말하는 자리라서 소유대명사가 와야 해요. 둘째, ours, theirs, mine은 소유대명사이고, his도 그의 것이라는 뜻으로 바르게 쓰였어요. 셋째, 3번 your는 너의라는 소유격이라 뒤에 명사가 있어야 하니, yours로 고쳐야 해요. Those bags are yours. 저 가방들은 너의 것이에요.",
+   "caption": "밑줄 뒤 명사 없음 → 소유대명사"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① This desk is <u>ours</u>.  ✗  ‘우리의 것’ 소유대명사 ours\n② The dog is <u>theirs</u>.  ✗  ‘그들의 것’ 소유대명사 theirs\n③ Those bags are <u>your</u>.  ✓  소유격 your 뒤에 명사가 없어요 → yours\n④ That coat is <u>his</u>.  ✗  his는 ‘그의 것’으로도 써요\n⑤ The white shoes are <u>mine</u>.  ✗  ‘내 것’ 소유대명사 mine",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① This desk is <u>ours</u>.  ✗  ‘우리의 것’ 소유대명사 ours",
+     "② The dog is <u>theirs</u>.  ✗  ‘그들의 것’ 소유대명사 theirs",
+     "③ Those bags are <u>your</u>.  ✓  소유격 your 뒤에 명사가 없어요 → yours",
+     "④ That coat is <u>his</u>.  ✗  his는 ‘그의 것’으로도 써요",
+     "⑤ The white shoes are <u>mine</u>.  ✗  ‘내 것’ 소유대명사 mine"
+    ]
+   },
+   "narration": "정답은 3번이에요. your 뒤에 명사가 없으니 너의 것이라는 뜻의 yours를 써야 해요. 4번 his를 소유격으로만 알면 틀렸다고 생각하기 쉬워요. 하지만 his는 그의 것이라는 소유대명사로도 쓰여서 바른 문장이에요. 2번 theirs도 그들의라는 their와 달리 그들의 것이라는 소유대명사라 바르게 쓰였어요.",
+   "caption": "정답 ③ your → yours"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ③ Those bags are <u>your</u>.\n\n명사 없이 ‘~의 것’ → 소유대명사 (mine, yours, his, hers, ours, theirs)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ Those bags are <u>your</u>.",
+     "명사 없이 ‘~의 것’ → 소유대명사 (mine, yours, his, hers, ours, theirs)"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 명사 없이 누구의 것이라고 말할 때는 your 같은 소유격이 아니라 yours 같은 소유대명사를 써요.",
+   "caption": "명사 없이 ‘~의 것’ → 소유대명사"
+  }
+ ],
+ "source": {
+  "stem": "다음 밑줄 친 부분의 쓰임이 옳지 않은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "This desk is <u>ours</u>.",
+   "The dog is <u>theirs</u>.",
+   "Those bags are <u>your</u>.",
+   "That coat is <u>his</u>.",
+   "The white shoes are <u>mine</u>."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 명사 없이 ‘~의 것’을 나타낼 때는 소유대명사(mine, yours, his, hers, ours, theirs)를 쓰고, 소유격(my, your, her, our, their)은 뒤에 명사가 있어야 한다.\n풀이 순서: ① 밑줄 뒤에 명사가 없다. ‘~의 것’이라는 소유대명사 자리다. → ② 소유격(my, your, her, our, their)은 뒤에 명사가 있어야 하므로 이 자리에 올 수 없다. ③의 your는 yours로 써야 한다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 소유격 your 뒤에 명사가 없고, yours로 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 명사 없이 ‘~의 것’을 나타내는 소유대명사를 바르게 썼으므로 오답이다.\n② [오답] 명사 없이 ‘~의 것’을 나타내는 소유대명사를 바르게 썼으므로 오답이다.\n③ [정답] 소유격 your 뒤에 명사가 없고, yours로 써야 하므로 정답이다.\n④ [오답] 명사 없이 ‘~의 것’을 나타내는 소유대명사를 바르게 썼으므로 오답이다.\n⑤ [오답] 명사 없이 ‘~의 것’을 나타내는 소유대명사를 바르게 썼으므로 오답이다."
+ }
+}

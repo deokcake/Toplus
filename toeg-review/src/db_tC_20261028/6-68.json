@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-21T11:36:45.565Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "is can ride",
+      "1": "able to ride",
+      "2": "can rides",
+      "3": "can ride",
+      "4": "can riding"
+    },
+    "expl": "핵심 규칙: 현재의 능력을 나타낼 때 can + 동사원형과 be able to + 동사원형을 바꾸어 쓸 수 있다.\n풀이 순서: ① is able to를 can으로 바꾼다. be동사는 사라진다. → ② can 뒤에는 동사원형이 온다: can ride. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: can + 동사원형 ride로 is able to ride와 같은 뜻을 나타냈으므로 정답은 ④이다.\n선택지 분석:\n① [오답] can 앞에 be동사를 함께 쓸 수 없으므로 오답이다.\n② [오답] be동사 없이 able to만으로는 동사 자리를 채울 수 없으므로 오답이다.\n③ [오답] can 뒤에는 동사원형 ride를 써야 하므로 오답이다.\n④ [정답] can + 동사원형 ride로 is able to ride와 같은 뜻을 나타냈으므로 정답이다.\n⑤ [오답] can 뒤에는 -ing형을 쓸 수 없으므로 오답이다.",
+    "passage": "My brother is able to ride a horse.\n= My brother ( __________ ) a horse.",
+    "stem": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-21T11:36:43.144Z"
+  },
+  "tab": "ojjpxrut",
+  "updatedAt": "2026-10-21T11:36:45.565Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T11:36:45.565Z",
+      "what": "확인 완료"
+    }
+  }
+}

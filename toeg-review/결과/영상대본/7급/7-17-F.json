@@ -1,0 +1,180 @@
+{
+ "key": "7-17",
+ "type": "F",
+ "grade": 7,
+ "chapter": "CH 2 대명사",
+ "title": "‘그것’에 맞는 영어 대명사",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "7급 · CH 2 대명사 · 17번 · F 유형\n\n이 문제는 우리말 ‘그것’에 맞는 영어 대명사를 골라 빈칸을 채우는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 2 대명사 · 17번 · F 유형",
+     "이 문제는 우리말 ‘그것’에 맞는 영어 대명사를 골라 빈칸을 채우는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 2, 17번 F 유형. 이 문제는 우리말 ‘그것’에 맞는 영어 대명사를 골라 빈칸을 채우는 문제예요.",
+   "caption": "‘그것’에 맞는 영어 대명사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 우리말 뜻이 되도록 빈칸에 알맞은 말을 고르세요.\n\n그것은 내 가방이 아니야.\n→ _______ isn't my bag.\n\n① That\n② It\n③ These\n④ This\n⑤ They",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 우리말 뜻이 되도록 빈칸에 알맞은 말을 고르세요.",
+     "그것은 내 가방이 아니야.",
+     "→ _______ isn't my bag.",
+     "① That",
+     "② It",
+     "③ These",
+     "④ This",
+     "⑤ They"
+    ]
+   },
+   "narration": "다음 우리말 뜻이 되도록 빈칸에 알맞은 말을 고르세요. 그것은 내 가방이 아니야, 빈칸 isn't my bag. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n가까운 것: this 이것 (하나), these 이것들 (여럿)\n먼 것: that 저것 (하나), those 저것들 (여럿)\n앞에서 말한 것: it 그것 (하나), they 그것들 (여럿)\nbe동사: 주어가 this, that, it → is / these, those, they → are\n예) I have a cap. It is red. (나는 모자가 하나 있는데, 그것은 빨간색이에요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "가까운 것: this 이것 (하나), these 이것들 (여럿)",
+     "먼 것: that 저것 (하나), those 저것들 (여럿)",
+     "앞에서 말한 것: it 그것 (하나), they 그것들 (여럿)",
+     "be동사: 주어가 this, that, it → is / these, those, they → are",
+     "예) I have a cap. It is red. (나는 모자가 하나 있는데, 그것은 빨간색이에요.)"
+    ]
+   },
+   "narration": "가까운 것은 this와 these로, this는 이것, these는 이것들이에요. 먼 것은 that과 those로, that은 저것, those는 저것들이에요. 앞에서 말한 것은 it과 they로, it은 그것, they는 그것들이에요. be동사는 주어가 this, that, it이면 is를, these, those, they이면 are를 써요. I have a cap. It is red. 나는 모자가 하나 있는데, 그것은 빨간색이에요.",
+   "caption": "가까운 것·먼 것·앞에서 말한 것"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 우리말 뜻이 되도록 빈칸에 알맞은 말을 고르세요.\n\n그것은 내 가방이 아니야.\n→ _______ isn't my bag.\n\n① That\n② It\n③ These\n④ This\n⑤ They",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "그것은"
+      ],
+      "strike": [],
+      "note": "‘그것은’ → 앞에서 말한 것, 하나"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "isn't"
+      ],
+      "strike": [
+       "③ These",
+       "⑤ They"
+      ],
+      "note": "빈칸 뒤 isn't → 여럿을 가리키는 These, They는 지운다(주어 → aren't)"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② It"
+      ],
+      "strike": [
+       "① That",
+       "④ This"
+      ],
+      "note": "That 저것, This 이것 → 지운다. 앞에서 말한 하나 = It"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 우리말 첫 낱말이 그것은이니까, 앞에서 말한 것 하나를 가리키는 말이 필요해요. 둘째, 빈칸 뒤에 isn't가 있어요. 주어가 These나 They이면 aren't를 쓰니까, 3번 These와 5번 They는 맞지 않아요. 셋째, That은 저것, This는 이것이니까, 앞에서 말한 것 하나, 그것은 It이에요. It isn't my bag. 그것은 내 가방이 아니야.",
+   "caption": "그것은 → 앞에서 말한 하나 → It"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① That  ✗  저것(먼 하나)이에요\n② It  ✓  그것(앞에서 말한 하나)\n③ These  ✗  이것들(가까운 여럿), isn't와 맞지 않아요\n④ This  ✗  이것(가까운 하나)이에요\n⑤ They  ✗  그것들(앞에서 말한 여럿), isn't와 맞지 않아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① That  ✗  저것(먼 하나)이에요",
+     "② It  ✓  그것(앞에서 말한 하나)",
+     "③ These  ✗  이것들(가까운 여럿), isn't와 맞지 않아요",
+     "④ This  ✗  이것(가까운 하나)이에요",
+     "⑤ They  ✗  그것들(앞에서 말한 여럿), isn't와 맞지 않아요"
+    ]
+   },
+   "narration": "정답은 2번 It이에요. 5번 They도 앞에서 말한 것을 가리키지만, 그것들이라서 여럿에 써요. 그래서 뒤에 isn't를 쓸 수 없어요. 1번 That은 저것, 4번 This는 이것이에요. 둘 다 isn't와는 맞지만 우리말 그것과 뜻이 달라요.",
+   "caption": "정답 ② It"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② It\n\n이것 this, 이것들 these / 저것 that, 저것들 those / 그것 it, 그것들 they",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② It",
+     "이것 this, 이것들 these / 저것 that, 저것들 those / 그것 it, 그것들 they"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 앞에서 말한 것 하나, 그것은 it이에요. 여럿인 그것들은 they예요.",
+   "caption": "그것 it, 그것들 they"
+  }
+ ],
+ "source": {
+  "stem": "다음 우리말 뜻이 되도록 빈칸에 알맞은 말을 고르세요.",
+  "passage": "그것은 내 가방이 아니야.\n→ _______ isn't my bag.",
+  "c": [
+   "That",
+   "It",
+   "These",
+   "This",
+   "They"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: ‘이것들(가까운 여럿)’은 these, ‘저것들(먼 여럿)’은 those, ‘그것들(앞에서 말한 여럿)’은 they, ‘이것(가까운 하나)’은 this, ‘저것(먼 하나)’은 that으로 쓴다.\n풀이 순서: ① 우리말의 첫 낱말을 본다: ‘그것은’. → ② 가까운지 먼지, 하나인지 여럿인지 가른다: 앞에서 말한 하나. 동사(isn't)도 수와 맞는지 확인한다. → ③ 정답은 It.\n문장별 판정:\n정답 판단: ‘그것(앞에서 말한 하나)’을 가리키고, 우리말과 맞으므로 정답은 ②이다.\n선택지 분석:\n① [오답] ‘저것(먼 하나)’을 가리키고, 우리말과 맞지 않으므로 오답이다.\n② [정답] ‘그것(앞에서 말한 하나)’을 가리키고, 우리말과 맞으므로 정답이다.\n③ [오답] ‘이것들(가까운 여럿)’을 가리키고, 우리말과 맞지 않으므로 오답이다.\n④ [오답] ‘이것(가까운 하나)’을 가리키고, 우리말과 맞지 않으므로 오답이다.\n⑤ [오답] ‘그것들’을 가리키고, 우리말과 맞지 않으므로 오답이다."
+ }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T06:19:48.826Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "It was Mina <u>who</u> called me.",
+      "1": "It was the key <u>which</u> I lost at school.",
+      "2": "It was in the library <u>where</u> we studied together.",
+      "3": "It was on Monday <u>when</u> the store opened.",
+      "4": "It was because of the rain <u>who</u> the match was canceled."
+    },
+    "expl": "핵심 규칙: It is/was + 강조 대상 + that 강조구문에서 that 대신 강조 대상에 맞춰 사람은 who(whom), 사물은 which, 장소는 where, 시간은 when을 쓸 수 있다.\n풀이 순서: ① It was와 밑줄 사이에 놓인 강조하는 말이 사람·사물·장소·때 가운데 무엇인지 가른다. → ② 사람 - who(m), 사물 - which, 장소 - where, 때 - when이 맞는 짝이다. → ③ 선택지 ⑤는 짝이 맞지 않는다: because of the rain(이유) 뒤에 who를 썼다.\n문장별 판정:\n정답 판단: 강조 대상이 이유(because of the rain)인데 사람에게 쓰는 who를 써서 잘못 연결되었다. that(또는 that)를 써야 한다. 정답은 ⑤이다.\n선택지 분석:\n① [오답] 사람을 강조하므로 who(whom)를 바르게 썼다. 오답이다.\n② [오답] 사물을 강조하므로 which를 바르게 썼다. 오답이다.\n③ [오답] 장소를 강조하므로 where를 바르게 썼다. 오답이다.\n④ [오답] 시간을 강조하므로 when을 바르게 썼다. 오답이다.\n⑤ [정답] 강조 대상이 이유(because of the rain)인데 사람에게 쓰는 who를 써서 잘못 연결되었다. that(또는 that)를 써야 한다. 정답이다.",
+    "passage": null,
+    "stem": "다음 중 강조 대상에 따라 'that' 대신 사용할 수 있는 말이 잘못 연결된 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-20T08:23:21.248Z"
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T08:23:21.248Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T08:23:21.248Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

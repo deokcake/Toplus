@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-09-30T12:44:17.179Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "2개",
+      "1": "3개",
+      "2": "4개",
+      "3": "5개",
+      "4": "6개"
+    },
+    "expl": "[선택지별 구체 해설]\n핵심 규칙: 분사구문의 의미상 주어가 주절의 주어와 같은지, 능동·수동 관계와 먼저 일어난 일(having + 과거분사)을 확인한다. with + 목적어 뒤에는 목적어가 한 동작이면 현재분사, 받은 상태면 과거분사를 쓴다.\n문장별 판정:\na) 옳음: 부정 분사구문 Not having이 주어 Leo와 맞다.\nb) 틀림: Mina가 뽑힌 것이므로 Having been selected가 되어야 한다.\nc) 옳음: 지각동사 heard + 목적어 + 현재분사이다.\nd) 옳음: 문이 잠긴 상태이므로 with + 목적어 + 과거분사이다.\ne) 옳음: All things considered는 관용 독립분사구문이다.\nf) 틀림: 운전한 사람은 ‘나’인데 주절 주어가 the traffic jam이다. I was annoyed by the traffic jam으로 고쳐야 한다.\n정답 판단: 문법적으로 옳은 문장은 4개이다.\n① [오답] 문법적으로 옳은 문장은 4개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n② [오답] 문법적으로 옳은 문장은 4개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n③ [정답] 문법적으로 옳은 문장은 4개이다. 이 보기의 4개는 실제 개수와 일치한다.\n④ [오답] 문법적으로 옳은 문장은 4개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 문법적으로 옳은 문장은 4개이다. 이 보기의 6개는 실제 개수와 일치하지 않는다.\n풀이 순서: 발문의 의미·형태 조건을 확인하고 각 보기의 실제 표현을 대조한다. 오류가 있는 부분은 그 이유와 교정형을 확인한 뒤 정답이 하나인지 점검한다.",
+    "passage": "a) Not having enough money, Leo stayed home.\nb) Having selected for the team, Mina celebrated.\nc) I heard the baby crying.\nd) With the door locked, we felt safe.\ne) All things considered, the plan is reasonable.\nf) Driving to work, the traffic jam annoyed me.",
+    "stem": "다음 중 문법적으로 옳은 문장의 개수를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-09-30T12:44:21.371Z"
+  },
+  "tab": "bijqceul",
+  "updatedAt": "2026-09-30T12:44:21.371Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-09-30T12:44:21.371Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

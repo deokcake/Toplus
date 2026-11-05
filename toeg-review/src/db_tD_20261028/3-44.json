@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-23T18:03:14.386Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "it - ones",
+      "1": "ones - them",
+      "2": "ones - it",
+      "3": "one - them",
+      "4": "one - it"
+    },
+    "expl": "핵심 규칙: one/ones는 앞에서 언급한 같은 종류의 명사를 대신하고, it/them은 특정한 앞의 대상을 다시 가리킨다.\n풀이 순서: ① 첫째 빈칸은 앞 명사(apples, 복수)와 ‘같은 종류의 것’을 대신한다. 단수이면 one, 복수이면 ones다. → ② 둘째 빈칸은 앞에 나온 ‘바로 그것’(My keys, 복수)을 가리킨다. 단수이면 it, 복수이면 them이다. → ③ 정답은 ones - them.\n문장별 판정:\n정답 판단: two가 두 개를 요구하므로 첫 빈칸은 복수 대용어 ones이다. 둘째 빈칸은 이미 특정한 복수 명사구 My keys를 받는 them이다. 따라서 정답은 ②이다.\n선택지 분석:\n① [오답] two big 뒤에는 복수 대용어 ones가 필요하여 it은 쓸 수 없다. 둘째 빈칸은 이미 특정한 My keys를 다시 가리키므로 them이 필요하다.\n② [정답] two가 두 개를 요구하므로 첫 빈칸은 복수 대용어 ones이다. 둘째 빈칸은 이미 특정한 복수 명사구 My keys를 받는 them이다.\n③ [오답] two big ones는 맞다. 그러나 둘째 빈칸의 it은 단수 대명사이므로 복수 My keys를 받을 수 없어 them으로 바꾼다.\n④ [오답] 둘째 빈칸의 them은 맞다. 첫 빈칸은 two가 복수를 요구하므로 단수 one이 아니라 ones를 써야 한다.\n⑤ [오답] 첫 빈칸은 two 뒤의 복수형 ones, 둘째 빈칸은 특정한 복수 My keys를 받는 them이 필요하다. one과 it은 모두 단수형이라 이 문맥에 맞지 않는다.",
+    "passage": "Those apples on the table look really sweet and fresh. Give me two big _____, please.\nMy keys are here on the counter. Please take _____ with you when you go out.",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오."
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:03:14.386Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:03:14.386Z",
+      "what": "확인 완료"
+    }
+  }
+}

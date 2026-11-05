@@ -1,0 +1,30 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "done": true,
+  "doneAt": "2026-10-25T14:26:54.675Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 조동사 뒤에는 동사원형을 쓰고 조동사에 -s를 붙이지 않는다. must 뒤에 to를 쓰지 않으며, 조동사 의문문도 조동사 + 주어 + 동사원형이다.\n풀이 순서: ① 밑줄마다 두 가지를 본다: 조동사에 -s가 붙지 않았는지, 조동사 뒤가 동사원형인지. → ② ⓐ cans(can), ⓑ must to wait(must wait), ⓒ coming(come), ⓔ studies(study)가 틀렸다. ⓓ만 옳다. → ③ 옳은 문장은 1개이다.\n문장별 판정:\nⓐ X. 조동사 can에는 -s를 붙이지 않는다.\nⓑ X. must 뒤에는 to 없이 동사원형을 쓴다.\nⓒ X. May I 뒤에는 동사원형 come을 쓴다.\nⓓ O. might not + 동사원형 be이다.\nⓔ X. should 뒤에는 동사원형 study를 쓴다.\n정답 판단: 밑줄 친 부분이 옳은 문장은 ⓓ로 1개이다.\n선택지 분석:\n① [정답] 밑줄 친 부분이 옳은 문장은 ⓓ로 1개이다. 이 보기의 1개는 실제 개수와 일치한다.\n② [오답] 밑줄 친 부분이 옳은 문장은 ⓓ로 1개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 밑줄 친 부분이 옳은 문장은 ⓓ로 1개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 밑줄 친 부분이 옳은 문장은 ⓓ로 1개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 밑줄 친 부분이 옳은 문장은 ⓓ로 1개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "ⓐ He <u>cans swim</u> well.\nⓑ You <u>must to wait</u> here.\nⓒ <u>May</u> I <u>coming</u> in?\nⓓ She <u>might not be</u> busy.\nⓔ They <u>should studies</u> more.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 옳은 문장의 개수를 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:26:53.807Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-25T14:26:54.675Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:26:54.675Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-06T07:10:35.205Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "some",
+      "1": "shoes",
+      "2": "It",
+      "3": "are",
+      "4": "comfortable"
+    },
+    "expl": "핵심 규칙: shoes·pants·glasses처럼 짝을 이루는 물건은 복수 취급해 They로 받고 복수 동사를 쓴다.\n풀이 순서: ① 뒤 문장의 주어와 동사를 맞춰 본다: They is는 수가 맞지 않는다. → ② 앞 문장에서 가리키는 명사를 찾아 어느 쪽이 틀렸는지 정한다: shoes는 복수이므로 They are가 되어야 한다. 틀린 것은 is다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 복수명사 shoes는 They로 받아야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 복수명사 shoes 앞에 some을 쓸 수 있으므로 오답이다.\n② [오답] 신발은 짝을 이루는 물건이라 복수형 shoes가 맞으므로 오답이다.\n③ [정답] 복수명사 shoes는 They로 받아야 하므로 정답이다.\n④ [오답] They로 받으면 복수 동사 are가 맞으므로 오답이다.\n⑤ [오답] be동사 뒤 보어 자리에 형용사가 맞으므로 오답이다.",
+    "passage": "Jane bought ①<u>some</u> new ②<u>shoes</u>. ③<u>It</u> ④<u>are</u> very ⑤<u>comfortable</u>.",
+    "stem": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T07:10:30.170Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-06T07:10:35.205Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T07:10:35.205Z",
+      "what": "확인 완료"
+    }
+  }
+}

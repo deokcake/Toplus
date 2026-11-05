@@ -1,0 +1,172 @@
+{
+ "key": "5-25",
+ "type": "C",
+ "grade": 5,
+ "chapter": "CH 3 be동사와 일반동사 과거",
+ "title": "Did·didn't·Does 뒤의 동사원형",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "5급 · CH 3 be동사와 일반동사 과거 · 25번 · C 유형\n\n이 문제는 Did, didn't, Does 뒤의 동사 형태를 보고 옳은 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 3 be동사와 일반동사 과거 · 25번 · C 유형",
+     "이 문제는 Did, didn't, Does 뒤의 동사 형태를 보고 옳은 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 3, 25번 C 유형. 이 문제는 Did, didn't, Does 뒤의 동사 형태를 보고 옳은 문장을 고르는 문제예요.",
+   "caption": "Did·didn't·Does 뒤 동사 형태"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 18,
+   "screen": {
+    "text": "다음 중 옳은 문장을 고르시오.\n\n① Did you went to the library?\n② She didn't bought the ticket.\n③ We ate pizza for lunch.\n④ Does he watched TV every night?\n⑤ Did they came home late?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 옳은 문장을 고르시오.",
+     "① Did you went to the library?",
+     "② She didn't bought the ticket.",
+     "③ We ate pizza for lunch.",
+     "④ Does he watched TV every night?",
+     "⑤ Did they came home late?"
+    ]
+   },
+   "narration": "다음 중 옳은 문장을 고르세요. 다섯 문장 가운데 문법에 맞는 문장 하나를 찾아야 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\nDid로 묻는 문장 → Did + 주어 + 동사원형 ~?\ndidn't로 부정하는 문장 → didn't + 동사원형\nDoes로 묻는 문장(현재)도 → Does + 주어 + 동사원형 ~?\ndid, didn't가 없는 과거 긍정문 → 동사의 과거형\n예) I swam yesterday. (나는 어제 수영했어요.)  I didn't swim yesterday. (나는 어제 수영하지 않았어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "Did로 묻는 문장 → Did + 주어 + 동사원형 ~?",
+     "didn't로 부정하는 문장 → didn't + 동사원형",
+     "Does로 묻는 문장(현재)도 → Does + 주어 + 동사원형 ~?",
+     "did, didn't가 없는 과거 긍정문 → 동사의 과거형",
+     "예) I swam yesterday. (나는 어제 수영했어요.)  I didn't swim yesterday. (나는 어제 수영하지 않았어요.)"
+    ]
+   },
+   "narration": "Did나 Does로 묻는 문장은 주어 뒤에 동사원형을 쓰고, didn't 뒤에도 동사원형을 써요. did가 이미 과거를 나타내니까 동사의 모양은 바꾸지 않아요. did나 didn't가 없는 과거 긍정문에서는 동사를 과거형으로 써요. I swam yesterday. 나는 어제 수영했어요. I didn't swim yesterday. 나는 어제 수영하지 않았어요.",
+   "caption": "did와 함께 쓰는 동사는 원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 중 옳은 문장을 고르시오.\n\n① Did you went to the library?\n② She didn't bought the ticket.\n③ We ate pizza for lunch.\n④ Does he watched TV every night?\n⑤ Did they came home late?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "went",
+       "bought",
+       "watched",
+       "came"
+      ],
+      "strike": [
+       "① Did you went to the library?",
+       "② She didn't bought the ticket.",
+       "④ Does he watched TV every night?",
+       "⑤ Did they came home late?"
+      ],
+      "note": "Did·didn't·Does가 있는 문장 → 뒤의 동사가 원형이어야 한다. went·bought·watched·came은 과거형 → ①②④⑤ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "③ We ate pizza for lunch."
+      ],
+      "strike": [],
+      "note": "③ did·didn't가 없는 과거 긍정문 → eat의 과거형 ate ✓"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, Did, didn't, Does가 있는 문장은 뒤의 동사가 동사원형이어야 해요. 그런데 1번 went, 2번 bought, 4번 watched, 5번 came은 모두 과거형이라 틀렸어요. 둘째, 남은 3번에는 did나 didn't가 없어요. 과거의 일을 말하는 긍정문이니 eat의 과거형 ate를 쓴 것이 맞아요. We ate pizza for lunch. 우리는 점심으로 피자를 먹었어요.",
+   "caption": "과거형 지우기 → ate 남기기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① Did you went to the library?  ✗  Did 뒤에는 went가 아닌 동사원형 go\n② She didn't bought the ticket.  ✗  didn't 뒤에는 bought가 아닌 동사원형 buy\n③ We ate pizza for lunch.  ✓  did가 없는 과거 긍정문, eat의 과거형 ate\n④ Does he watched TV every night?  ✗  Does 뒤에는 watched가 아닌 동사원형 watch\n⑤ Did they came home late?  ✗  Did 뒤에는 came이 아닌 동사원형 come",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Did you went to the library?  ✗  Did 뒤에는 went가 아닌 동사원형 go",
+     "② She didn't bought the ticket.  ✗  didn't 뒤에는 bought가 아닌 동사원형 buy",
+     "③ We ate pizza for lunch.  ✓  did가 없는 과거 긍정문, eat의 과거형 ate",
+     "④ Does he watched TV every night?  ✗  Does 뒤에는 watched가 아닌 동사원형 watch",
+     "⑤ Did they came home late?  ✗  Did 뒤에는 came이 아닌 동사원형 come"
+    ]
+   },
+   "narration": "정답은 3번이에요. 2번은 지난 일이라 bought를 쓰고 싶지만, didn't가 이미 과거를 나타내니 buy를 써요. She didn't buy the ticket. 그녀는 표를 사지 않았어요. 4번은 Does 뒤라서 watched가 아니라 watch를 써야 해요. 5번도 Did가 있으니 came이 아니라 come이에요.",
+   "caption": "정답 ③ We ate pizza for lunch."
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ③ We ate pizza for lunch.\n\nDid·Does + 주어 + 동사원형 · didn't + 동사원형 · did 없는 과거 긍정문 → 과거형",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ We ate pizza for lunch.",
+     "Did·Does + 주어 + 동사원형 · didn't + 동사원형 · did 없는 과거 긍정문 → 과거형"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, Did, Does, didn't 뒤에는 동사원형, did가 없는 과거 긍정문에는 과거형을 써요.",
+   "caption": "Did·didn't·Does + 동사원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Did you went to the library?",
+   "She didn't bought the ticket.",
+   "We ate pizza for lunch.",
+   "Does he watched TV every night?",
+   "Did they came home late?"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: Did/didn't와 Does/doesn't 뒤에는 동사원형을 쓴다. 과거의 일을 긍정문으로 말할 때만 동사의 과거형을 쓴다.\n풀이 순서: ① Did, didn't, Does가 있는 문장은 뒤의 동사가 원형인지 본다. → ② 조동사가 없는 문장은 과거형이 바른지 본다. → ③ 선택지 ③만 eat의 과거형 ate를 바르게 썼다. 정답은 ③.\n문장별 판정:\n정답 판단: 과거의 일을 긍정문으로 말하며 과거형 ate를 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] Did 뒤에는 동사원형 go를 써야 하므로 오답이다.\n② [오답] didn't 뒤에는 동사원형 buy를 써야 하므로 오답이다.\n③ [정답] 과거의 일을 긍정문으로 말하며 과거형 ate를 썼으므로 정답이다.\n④ [오답] Does 뒤에는 동사원형 watch를 써야 하므로 오답이다.\n⑤ [오답] Did 뒤에는 동사원형 come을 써야 하므로 오답이다."
+ }
+}

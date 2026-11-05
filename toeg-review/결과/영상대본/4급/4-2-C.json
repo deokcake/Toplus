@@ -1,0 +1,181 @@
+{
+ "key": "4-2",
+ "type": "C",
+ "grade": 4,
+ "chapter": "CH 1 명사와 관사",
+ "title": "셀 수 있는 명사와 셀 수 없는 명사",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "4급 · CH 1 명사와 관사 · 2번 · C 유형\n\n이 문제는 다섯 개의 명사 가운데 셀 수 있는 명사를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 1 명사와 관사 · 2번 · C 유형",
+     "이 문제는 다섯 개의 명사 가운데 셀 수 있는 명사를 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 1, 2번 C 유형. 이 문제는 다섯 개의 명사 가운데 셀 수 있는 명사를 고르는 문제예요.",
+   "caption": "셀 수 있는 명사 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 셀 수 있는 명사를 고르시오.\n\n① juice\n② sugar\n③ cookie\n④ money\n⑤ water",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 셀 수 있는 명사를 고르시오.",
+     "① juice",
+     "② sugar",
+     "③ cookie",
+     "④ money",
+     "⑤ water"
+    ]
+   },
+   "narration": "다음 중 셀 수 있는 명사를 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 31,
+   "screen": {
+    "text": "핵심 규칙\n사람·동물·물건처럼 하나씩 셀 수 있는 명사 → 하나일 때 a/an, 둘 이상이면 복수형 (a bird, two birds)\n셀 수 없는 명사 → a/an을 붙이지 않고, 복수형도 쓰지 않아요\n물질(butter)이나 추상적인 것(peace)처럼 덩어리나 전체로 말하는 명사 → 보통 셀 수 없어요\n예) I see two birds. I like butter. (나는 새 두 마리를 봐요. 나는 버터를 좋아해요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "사람·동물·물건처럼 하나씩 셀 수 있는 명사 → 하나일 때 a/an, 둘 이상이면 복수형 (a bird, two birds)",
+     "셀 수 없는 명사 → a/an을 붙이지 않고, 복수형도 쓰지 않아요",
+     "물질(butter)이나 추상적인 것(peace)처럼 덩어리나 전체로 말하는 명사 → 보통 셀 수 없어요",
+     "예) I see two birds. I like butter. (나는 새 두 마리를 봐요. 나는 버터를 좋아해요.)"
+    ]
+   },
+   "narration": "사람, 동물, 물건처럼 하나씩 셀 수 있는 명사는 하나일 때 a나 an을 붙일 수 있고, 둘 이상이면 복수형을 써요. butter 버터 같은 물질이나 peace 평화 같은 추상적인 것처럼 덩어리나 전체로 말하는 명사는 보통 셀 수 없어서 a나 an도 복수형도 쓰지 않아요. 예를 들어 I see two birds, 나는 새 두 마리를 봐요. I like butter, 나는 버터를 좋아해요.",
+   "caption": "셀 수 있는 명사, 셀 수 없는 명사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 셀 수 있는 명사를 고르시오.\n\n① juice\n② sugar\n③ cookie\n④ money\n⑤ water",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "셀 수 있는 명사"
+      ],
+      "strike": [],
+      "note": "‘셀 수 있는 명사’를 고른다 → 보기마다 a/an을 붙이거나 복수형으로 쓸 수 있는지 본다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① juice",
+       "② sugar",
+       "⑤ water"
+      ],
+      "note": "juice(주스), sugar(설탕), water(물) = 물질 → 양으로 말하고 하나, 둘 세지 않는다 → 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [],
+      "strike": [
+       "④ money"
+      ],
+      "note": "money = 돈 전체 → 셀 수 없다 → 지운다. (동전 coin은 셀 수 있음)"
+     },
+     {
+      "step": 4,
+      "highlight": [
+       "③ cookie"
+      ],
+      "strike": [],
+      "note": "남은 cookie(쿠키) → a cookie, two cookies → 셀 수 있다."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 셀 수 있는 명사를 고르는 문제니까, 보기마다 a나 an을 붙이거나 복수형으로 쓸 수 있는지 따져 봐요. 둘째, juice 주스, sugar 설탕, water 물은 모두 물질이라 양으로 말하고, 하나, 둘 세지 않아요. 셋째, money는 돈 전체를 말하는 명사라서 셀 수 없어요. 넷째, 남은 cookie는 쿠키라서 a cookie, two cookies처럼 하나, 둘 셀 수 있어요.",
+   "caption": "물질·money 지우기 → cookie"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① juice  ✗  주스라는 마실 것, 물질이라 셀 수 없어요\n② sugar  ✗  설탕이라는 물질, 셀 수 없어요\n③ cookie  ✓  a cookie, two cookies처럼 셀 수 있어요\n④ money  ✗  돈 전체를 말해요 (동전 coin은 셀 수 있어요)\n⑤ water  ✗  물이라는 물질, 셀 수 없어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① juice  ✗  주스라는 마실 것, 물질이라 셀 수 없어요",
+     "② sugar  ✗  설탕이라는 물질, 셀 수 없어요",
+     "③ cookie  ✓  a cookie, two cookies처럼 셀 수 있어요",
+     "④ money  ✗  돈 전체를 말해요 (동전 coin은 셀 수 있어요)",
+     "⑤ water  ✗  물이라는 물질, 셀 수 없어요"
+    ]
+   },
+   "narration": "정답은 3번 cookie예요. cookie는 먹는 것이지만, a cookie, two cookies처럼 하나, 둘 셀 수 있어요. 4번 money는 동전을 뜻하는 coin과 달리, 돈 전체를 말하는 명사라 셀 수 없어요. 1번 juice는 주스라는 물질이라 보통 하나, 둘 세지 않아요. 5번 water도 물이라는 물질이라 셀 수 없어요.",
+   "caption": "정답 ③ cookie"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ③ cookie\n\n하나씩 셀 수 있는 명사 → a/an, 복수형을 써요 (a cookie, two cookies)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ cookie",
+     "하나씩 셀 수 있는 명사 → a/an, 복수형을 써요 (a cookie, two cookies)"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 하나씩 셀 수 있는 명사는 a나 an을 붙이거나 복수형으로 쓸 수 있어요.",
+   "caption": "하나씩 셀 수 있으면 a/an·복수형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+  "passage": "",
+  "c": [
+   "juice",
+   "sugar",
+   "cookie",
+   "money",
+   "water"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 사람·동물·물건처럼 하나씩 셀 수 있는 명사는 a/an과 복수형을 쓰고, 물질(water, sugar)·추상 개념·돈(money) 등은 셀 수 없는 명사로 쓴다.\n풀이 순서: ① 낱말마다 a/an을 붙이거나 복수형(-s)으로 쓸 수 있는지 따져 본다. → ② 하나, 둘로 세지 않고 양으로 다루는 명사를 지운다: juice, sugar, money, water. → ③ 하나씩 셀 수 있는 것은 cookie뿐이다.\n문장별 판정:\n정답 판단: 하나씩 셀 수 있는 명사이므로(a cookie, two cookies) 정답은 ③이다.\n선택지 분석:\n① [오답] 음료인 juice는 셀 수 없는 명사이므로 오답이다.\n② [오답] 물질인 sugar는 셀 수 없는 명사이므로 오답이다.\n③ [정답] 하나씩 셀 수 있는 명사이므로(a cookie, two cookies) 정답이다.\n④ [오답] money는 셀 수 없는 명사이므로 오답이다.\n⑤ [오답] 물질인 water는 셀 수 없는 명사이므로 오답이다."
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "key": "7-65",
+ "grade": 7,
+ "chapter": "CH 7 일반동사 부정문과 의문문",
+ "items": {
+  "A": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것은?",
+   "passage": "너의 부모님은 너를 사랑하시니?",
+   "c": [
+    "Does your parents love you?",
+    "Do your parents loves you?",
+    "Do your parents love you?",
+    "Are your parents love you?",
+    "Do your parents loved you?"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: ‘~하니?’라고 일반동사로 물을 때는 Do/Does + 주어 + 동사원형 ~?으로 쓴다. 주어가 you나 복수면 Do를 쓴다.\n풀이 순서: ① 우리말의 주어를 본다: ‘너의 부모님은’ → your parents(여럿). 3인칭 단수가 아니므로 Do로 시작한다. → ② Do + 주어 뒤에는 동사원형(love)을 쓴다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: Do + 복수 주어 + 동사원형으로 바르게 옮겼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] your parents는 두 분(복수)이라 Does가 아니라 Do를 쓰므로 오답이다.\n② [오답] Do 뒤에는 loves가 아니라 원형 love를 쓰므로 오답이다.\n③ [정답] Do + 복수 주어 + 동사원형으로 바르게 옮겼으므로 정답이다.\n④ [오답] 일반동사 의문문에 be동사 Are를 쓰지 않으므로 오답이다.\n⑤ [오답] 지금의 일을 묻는데 과거형 loved를 썼으므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것은?",
+   "passage": "우리는 영어를 공부하니?",
+   "c": [
+    "Do we studies English?",
+    "Do we studied English?",
+    "Are we study English?",
+    "Do we study English?",
+    "Does we study English?"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 일반동사 현재형의 부정문은 don't/doesn't + 동사원형, 의문문은 Do/Does + 주어 + 동사원형 ~?으로 쓴다. 3인칭 단수 주어에는 doesn't/Does, I·you·we·they와 복수 주어에는 don't/Do를 쓴다.\n풀이 순서: ① 우리말의 주어를 본다: ‘우리는’ → we. 3인칭 단수가 아니므로 Do로 시작한다. → ② Do + 주어 뒤에는 동사원형(study)을 쓴다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 우리말에 맞게 Do + 주어 + 동사원형으로 바르게 옮겼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] Do 뒤에는 -s를 뗀 동사원형을 써야 하므로 오답이다.\n② [오답] 현재의 일을 묻는데 과거형을 썼고, Do 뒤에는 동사원형을 쓰므로 오답이다.\n③ [오답] 일반동사 의문문에는 be동사를 쓰지 않으므로 오답이다.\n④ [정답] 우리말에 맞게 Do + 주어 + 동사원형으로 바르게 옮겼으므로 정답이다.\n⑤ [오답] 주어(we)에는 Does가 아니라 Do를 쓰므로 오답이다."
+  },
+  "C": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것은?",
+   "passage": "너는 음악을 좋아하니?",
+   "c": [
+    "Do you like music?",
+    "Do you likes music?",
+    "Does you like music?",
+    "Do you liked music?",
+    "Are you like music?"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 일반동사 현재형의 부정문은 don't/doesn't + 동사원형, 의문문은 Do/Does + 주어 + 동사원형 ~?으로 쓴다. 3인칭 단수 주어에는 doesn't/Does, I·you·we·they와 복수 주어에는 don't/Do를 쓴다.\n풀이 순서: ① 우리말의 주어를 본다: ‘너는’ → you. 3인칭 단수가 아니므로 Do로 시작한다. → ② Do + 주어 뒤에는 동사원형(like)을 쓴다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: 우리말에 맞게 Do + 주어 + 동사원형으로 바르게 옮겼으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 우리말에 맞게 Do + 주어 + 동사원형으로 바르게 옮겼으므로 정답이다.\n② [오답] Do 뒤에는 -s를 뗀 동사원형을 써야 하므로 오답이다.\n③ [오답] 주어(you)에는 Does가 아니라 Do를 쓰므로 오답이다.\n④ [오답] 현재의 일을 묻는데 과거형을 썼고, Do 뒤에는 동사원형을 쓰므로 오답이다.\n⑤ [오답] 일반동사 의문문에는 be동사를 쓰지 않으므로 오답이다."
+  },
+  "D": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것은?",
+   "passage": "그 학생들은 걸어서 학교에 가니?",
+   "c": [
+    "Are the students walk to school?",
+    "Do the students walk to school?",
+    "Does the students walk to school?",
+    "Do the students walked to school?",
+    "Do the students walks to school?"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 일반동사 현재형의 부정문은 don't/doesn't + 동사원형, 의문문은 Do/Does + 주어 + 동사원형 ~?으로 쓴다. 3인칭 단수 주어에는 doesn't/Does, I·you·we·they와 복수 주어에는 don't/Do를 쓴다.\n풀이 순서: ① 우리말의 주어를 본다: ‘그 학생들은’ → the students(여럿). 3인칭 단수가 아니므로 Do로 시작한다. → ② Do + 주어 뒤에는 동사원형(walk)을 쓴다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: 우리말에 맞게 Do + 주어 + 동사원형으로 바르게 옮겼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 일반동사 의문문에는 be동사를 쓰지 않으므로 오답이다.\n② [정답] 우리말에 맞게 Do + 주어 + 동사원형으로 바르게 옮겼으므로 정답이다.\n③ [오답] 주어(the students)에는 Does가 아니라 Do를 쓰므로 오답이다.\n④ [오답] 현재의 일을 묻는데 과거형을 썼고, Do 뒤에는 동사원형을 쓰므로 오답이다.\n⑤ [오답] Do 뒤에는 -s를 뗀 동사원형을 써야 하므로 오답이다."
+  },
+  "E": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것은?",
+   "passage": "그 소년들은 축구를 하니?",
+   "c": [
+    "Are the boys play soccer?",
+    "Does the boys play soccer?",
+    "Do the boys played soccer?",
+    "Do the boys plays soccer?",
+    "Do the boys play soccer?"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 일반동사 현재형의 부정문은 don't/doesn't + 동사원형, 의문문은 Do/Does + 주어 + 동사원형 ~?으로 쓴다. 3인칭 단수 주어에는 doesn't/Does, I·you·we·they와 복수 주어에는 don't/Do를 쓴다.\n풀이 순서: ① 우리말의 주어를 본다: ‘그 소년들은’ → the boys(여럿). 3인칭 단수가 아니므로 Do로 시작한다. → ② Do + 주어 뒤에는 동사원형(play)을 쓴다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: 우리말에 맞게 Do + 주어 + 동사원형으로 바르게 옮겼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 일반동사 의문문에는 be동사를 쓰지 않으므로 오답이다.\n② [오답] 주어(the boys)에는 Does가 아니라 Do를 쓰므로 오답이다.\n③ [오답] 현재의 일을 묻는데 과거형을 썼고, Do 뒤에는 동사원형을 쓰므로 오답이다.\n④ [오답] Do 뒤에는 -s를 뗀 동사원형을 써야 하므로 오답이다.\n⑤ [정답] 우리말에 맞게 Do + 주어 + 동사원형으로 바르게 옮겼으므로 정답이다."
+  },
+  "F": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것은?",
+   "passage": "그들은 책을 읽니?",
+   "c": [
+    "Do they read books?",
+    "Are they read books?",
+    "Do they reads books?",
+    "Does they read books?",
+    "Do they reading books?"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 일반동사 현재형의 부정문은 don't/doesn't + 동사원형, 의문문은 Do/Does + 주어 + 동사원형 ~?으로 쓴다. 3인칭 단수 주어에는 doesn't/Does, I·you·we·they와 복수 주어에는 don't/Do를 쓴다.\n풀이 순서: ① 우리말의 주어를 본다: ‘그들은’ → they. 3인칭 단수가 아니므로 Do로 시작한다. → ② Do + 주어 뒤에는 동사원형(read)을 쓴다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: 우리말에 맞게 Do + 주어 + 동사원형으로 바르게 옮겼으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 우리말에 맞게 Do + 주어 + 동사원형으로 바르게 옮겼으므로 정답이다.\n② [오답] 일반동사 의문문에는 be동사를 쓰지 않으므로 오답이다.\n③ [오답] Do 뒤에는 -s를 뗀 동사원형을 써야 하므로 오답이다.\n④ [오답] 주어(they)에는 Does가 아니라 Do를 쓰므로 오답이다.\n⑤ [오답] Do 뒤에는 -ing형이 아니라 동사원형을 쓰므로 오답이다."
+  }
+ },
+ "prior_review": {}
+}

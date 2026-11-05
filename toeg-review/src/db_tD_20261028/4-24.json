@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T07:13:27.847Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "Does Tom play soccer?",
+      "1": "Is Tom a soccer player?",
+      "2": "Do they play soccer?",
+      "3": "Does Jane play soccer?",
+      "4": "Did Tom play soccer?"
+    },
+    "expl": "핵심 규칙: Do/Does 의문문에는 do/does로, be동사 의문문에는 am/is/are로, 과거 의문문에는 did로, 조동사 의문문에는 그 조동사로 답한다. 대답의 대명사는 질문의 주어에 맞춘다.\n풀이 순서: ① 대답에서 두 가지를 읽는다: 주어(he), 조동사(doesn't). → ② 질문은 같은 조동사로 시작하고, 주어는 대답의 대명사로 받을 수 있는 말이어야 한다. → ③ Does + 남자 한 명(Tom) + 동사원형인 질문만 맞다. 정답은 ①.\n문장별 판정:\n정답 판단: 3인칭 단수 남성 주어 + Does 의문문이라 No, he doesn't로 답하므로 정답은 ①이다.\n선택지 분석:\n① [정답] 3인칭 단수 남성 주어 + Does 의문문이라 No, he doesn't로 답하므로 정답이다.\n② [오답] be동사 질문이라 No, he isn't로 답하므로 오답이다.\n③ [오답] 복수 주어라 No, they don't로 답하므로 오답이다.\n④ [오답] 주어 Jane은 she로 받으므로 오답이다.\n⑤ [오답] 과거 질문이라 No, he didn't로 답하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 빈칸에 들어갈 말을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:13:13.835Z"
+  },
+  "tab": "el3qe2ii",
+  "updatedAt": "2026-10-27T07:13:27.847Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:13:27.847Z",
+      "what": "확인 완료"
+    }
+  }
+}

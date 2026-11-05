@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-09-30T04:43:20.717Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A) should - (B) might",
+      "1": "(A) must - (B) might",
+      "2": "(A) cannot - (B) must",
+      "3": "(A) may - (B) could",
+      "4": "(A) must - (B) should"
+    },
+    "expl": "핵심 규칙: should have + 과거분사는 하지 않은 과거 행동에 대한 후회·비판을 나타낼 수 있다. may/might/could는 불확실한 가능성을 나타내며, have + 과거분사와 결합하면 과거를, 단순 원형과 결합하면 현재·미래를 가리킨다. may/might/could의 강도 차이만으로 정답을 하나로 정하지 않는다.\n풀이 순서: ① (A) 앞의 상황(마감일을 하루 넘긴 것)은 이미 벌어진 실수이므로 (A)는 ‘~했어야 했는데’라는 should have + 과거분사다. → ② (B)는 ‘부탁하면 받아 줄지도 모른다’는 확실하지 않은 추측이므로 might가 알맞다. must, cannot, must not은 확신을 나타내 맞지 않다. → ③ 정답은 (A) should - (B) might.\n문장별 판정:\n정답 판단: (A) should have + 과거분사는 이 문항의 행동에 대해 ~했어야 했다는 후회·비판 또는 기대를 나타낼 수 있다. (A)에 지정한 후회·비판의 뜻에 맞는다. (B) might는 동사원형과 결합하여 현재·미래의 가능성을 나타낸다. (B)의 불확실한 긍정 가능성에 맞는다.\n선택지 분석:\n① [정답] (A) should have + 과거분사는 이 문항의 행동에 대해 ~했어야 했다는 후회·비판 또는 기대를 나타낼 수 있다. (A)에 지정한 후회·비판의 뜻에 맞는다. (B) might는 동사원형과 결합하여 현재·미래의 가능성을 나타낸다. (B)의 불확실한 긍정 가능성에 맞는다.\n② [오답] (A) must have + 과거분사는 과거에 대한 강한 확신을 나타낸다. (A)에 지정한 뜻과 다르다. (B) might는 동사원형과 결합하여 현재·미래의 가능성을 나타낸다. (B)의 불확실한 긍정 가능성에 맞는다.\n③ [오답] (A) cannot have + 과거분사는 과거 가능성을 강하게 부정한다. (A)에 지정한 뜻과 다르다. (B) must는 강한 확신 또는 의무를 나타내므로 (B)의 불확실한 긍정 가능성과 다르다.\n④ [오답] (A) may have + 과거분사는 과거에 그랬을지 모른다는 가능성을 나타낸다. (A)에 지정한 뜻과 다르다. (B) could는 동사원형과 결합하여 현재·미래의 가능성을 나타낸다. (B)의 불확실한 긍정 가능성에 맞는다.\n⑤ [오답] (A) must have + 과거분사는 과거에 대한 강한 확신을 나타낸다. (A)에 지정한 뜻과 다르다. (B) should는 의무·기대의 뜻을 더하므로 (B)에 지정한 단순한 불확실한 가능성과 다르다.",
+    "passage": "A: I missed the deadline by one day.\nB: You (<u>    A    </u>) have checked the date. The office (<u>    B    </u>) accept a late submission if you ask.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-04T11:00:05.304Z"
+  },
+  "tab": "7cl4h520",
+  "updatedAt": "2026-10-04T11:00:05.304Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-04T11:00:05.304Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

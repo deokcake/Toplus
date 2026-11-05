@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:37:36.502Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "brush - brushs",
+      "1": null,
+      "2": "dress - dresses",
+      "3": null,
+      "4": "sandwich - sandwiches"
+    },
+    "expl": "핵심 규칙: 복수형은 대부분 -s를 붙이고, s·sh·ch·x로 끝나면 -es(buses, foxes), 자음 + y는 y를 i로 바꾸고 -es(ladies, babies)를 붙인다.\n풀이 순서: ① 명사의 끝 글자를 본다: s, sh, ch, x인지, 자음 + y인지. → ② 그 끝에 맞게 -es나 -ies가 붙었는지 본다. → ③ brush는 sh로 끝나므로 brushes다. 정답은 brush - brushs.\n문장별 판정:\n정답 판단: brush는 sh로 끝나 -es를 붙여 brushes로 써야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] brush는 sh로 끝나 -es를 붙여 brushes로 써야 하므로 정답이다.\n② [오답] toys: 모음 + y라 -s만 붙여 바르게 썼으므로 오답이다.\n③ [오답] dresses: s로 끝나 -es를 붙여 바르게 썼으므로 오답이다.\n④ [오답] pens: -s를 붙여 바르게 썼으므로 오답이다.\n⑤ [오답] sandwiches: ch로 끝나 -es를 붙여 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:37:35.170Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:37:36.502Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:37:36.502Z",
+      "what": "확인 완료"
+    }
+  }
+}

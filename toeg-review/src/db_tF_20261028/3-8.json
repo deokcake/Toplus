@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-26T12:05:49.041Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "(A) were - (B) was",
+      "1": "(A) are - (B) were",
+      "2": "(A) were - (B) were",
+      "3": "(A) was - (B) were",
+      "4": "(A) was - (B) was"
+    },
+    "expl": "핵심 규칙: be동사의 과거형은 단수 주어(I, he, she, it, 단수명사)에 was, 복수 주어와 you에 were를 쓴다.\n풀이 순서: ① 두 빈칸 앞의 주어를 본다. (A)는 Jane and Amy(복수), (B)는 Tom(단수)이다. → ② 두 빈칸의 시제가 같아야 한다. 단수에는 was, 복수에는 were를 쓴다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: (A)의 주어(Jane and Amy)에는 were, (B)의 주어(Tom)에는 was를 쓴다.\n선택지 분석:\n① [정답] (A) were - (B) was: 모든 자리가 알맞으므로 정답이다.\n② [오답] (A) are: 주어(Jane and Amy)와 짝이 맞지 않는 현재형이다. (B) were: 주어(Tom)에 맞지 않는 형태이다. 따라서 오답이다.\n③ [오답] (B) were: 주어(Tom)에 맞지 않는 형태이다. 따라서 오답이다.\n④ [오답] (A) was: 주어(Jane and Amy)에 맞지 않는 형태이다. (B) were: 주어(Tom)에 맞지 않는 형태이다. 따라서 오답이다.\n⑤ [오답] (A) was: 주어(Jane and Amy)에 맞지 않는 형태이다. 따라서 오답이다.",
+    "passage": "Jane and Amy (<u>    A    </u>) busy with the school play, but Tom (<u>    B    </u>) free all weekend.",
+    "stem": "다음 문장의 빈칸 (A), (B)에 들어갈 말이 바르게 짝지어진 것은?"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T12:05:49.041Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T12:05:49.041Z",
+      "what": "확인 완료"
+    }
+  }
+}

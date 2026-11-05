@@ -1,0 +1,36 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-07T03:04:23.257Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": 4,
+    "c": {
+      "0": "We whispered that so the baby would not wake up.",
+      "1": "We so whispered that the baby would not wake up.",
+      "2": "We whispered so that would the baby not wake up.",
+      "3": "We whispered so that the baby would not wake up.",
+      "4": "So that we whispered the baby would not wake up."
+    },
+    "expl": "핵심 규칙: so that + 주어 + 조동사 + 동사원형은 ‘~하기 위해서, ~하도록’이라는 목적을 나타낸다. so that은 붙여 쓰고 주절 뒤에 둔다.\n풀이 순서: ① 낱말에 so와 that이 함께 있고 would/could가 있으므로 목적을 나타내는 so that 구문이다. → ② 주절(We whispered)을 먼저 완성하고 바로 뒤에 so that을 붙인다. → ③ so that 뒤에 ‘주어 + 조동사 + 동사원형’(the baby would not wake up)을 이으면 We whispered so that the baby would not wake up.\n문장별 판정:\n정답 판단: 주절 + so that + 주어 + 조동사 + 동사원형 어순이 바르다. 정답은 ④이다.\n선택지 분석:\n① [오답] so와 that이 떨어져 so that 구문이 깨졌다. 오답이다.\n② [오답] so와 that이 떨어져 so that 구문이 깨졌다. 오답이다.\n③ [오답] so that 절 안의 주어와 조동사 순서가 틀렸다. 오답이다.\n④ [정답] 주절 + so that + 주어 + 조동사 + 동사원형 어순이 바르다. 정답이다.\n⑤ [오답] 주절이나 that절의 어순이 뒤섞였다. 오답이다.",
+    "passage": "(not / the / so / whispered / baby / up / that / we / would / wake / .)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것으로 가장 알맞은 것은 무엇인가?"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T05:14:38.023Z",
+      "text": "주어진 단어를 주어진 그대로 배열하면 정답이 된다. 문항 취지에 맞춰 주어진 단어 순서를 무작위로 제시할 필요가 있다."
+    }
+  },
+  "tab": "a0bclcbk",
+  "updatedAt": "2026-10-07T03:04:23.257Z",
+  "verdict": null,
+  "verdictAt": "2026-10-07T03:04:18.727Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-07T03:04:23.257Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:58:36.446Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Mina is smart very to solve the puzzle.",
+      "1": "Mina is enough smart to solve the puzzle.",
+      "2": "Mina is smart enough to solve the puzzle.",
+      "3": "Mina is smart enough solve the puzzle.",
+      "4": "Mina is smart enough for solve the puzzle."
+    },
+    "expl": "핵심 규칙: so + 형용사 + that + 주어 + can ~은 형용사 + enough + to + 동사원형(~할 만큼 충분히 …하다)으로 바꿀 수 있다. enough는 형용사 뒤에 쓴다.\n풀이 순서: ① ‘so + 형용사 + that + 주어 + can’은 ‘형용사 + enough + to + 동사원형’으로 바꾼다. → ② enough는 형용사(smart) 뒤에 온다. 그 뒤에 to + 동사원형(to solve)이 이어진다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 형용사 + enough + to + 동사원형으로 바르게 바꿨으므로 정답은 ③이다.\n선택지 분석:\n① [오답] very로는 ‘~할 만큼 충분히’를 나타낼 수 없으므로 오답이다.\n② [오답] enough는 형용사 뒤에 쓰므로 오답이다.\n③ [정답] 형용사 + enough + to + 동사원형으로 바르게 바꿨으므로 정답이다.\n④ [오답] enough 뒤에 to가 빠졌으므로 오답이다.\n⑤ [오답] enough 뒤에는 for가 아니라 to + 동사원형을 쓰므로 오답이다.",
+    "passage": "Mina is so smart that she can solve the puzzle.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T08:58:35.850Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T08:58:36.446Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T08:58:36.446Z",
+      "what": "확인 완료"
+    }
+  }
+}

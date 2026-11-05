@@ -1,0 +1,174 @@
+{
+ "key": "4-1",
+ "type": "C",
+ "grade": 4,
+ "chapter": "CH 1 명사와 관사",
+ "title": "명사의 복수형 만들기",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "4급 · CH 1 명사와 관사 · 1번 · C 유형\n\n이 문제는 명사의 단수형과 복수형 짝 가운데 복수형을 잘못 만든 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 1 명사와 관사 · 1번 · C 유형",
+     "이 문제는 명사의 단수형과 복수형 짝 가운데 복수형을 잘못 만든 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 1, 1번 C 유형. 이 문제는 명사의 단수형과 복수형 짝 가운데 복수형을 잘못 만든 것을 고르는 문제예요.",
+   "caption": "명사의 복수형 짝 확인"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.\n\n① box - boxes\n② knife - knifes\n③ woman - women\n④ book - books\n⑤ baby - babies",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+     "① box - boxes",
+     "② knife - knifes",
+     "③ woman - women",
+     "④ book - books",
+     "⑤ baby - babies"
+    ]
+   },
+   "narration": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n셀 수 있는 명사가 둘 이상 → 복수형, 대부분 + s (cat → cats)\ns, x, sh, ch로 끝나면 보통 + es (bus → buses) / 자음 + y → y를 i로 바꾸고 + es (story → stories)\nf, fe로 끝나는 많은 명사 → f, fe를 v로 바꾸고 + es (wolf → wolves)\n불규칙: man → men, child → children\n예) Two wolves ran. (늑대 두 마리가 달렸어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "셀 수 있는 명사가 둘 이상 → 복수형, 대부분 + s (cat → cats)",
+     "s, x, sh, ch로 끝나면 보통 + es (bus → buses) / 자음 + y → y를 i로 바꾸고 + es (story → stories)",
+     "f, fe로 끝나는 많은 명사 → f, fe를 v로 바꾸고 + es (wolf → wolves)",
+     "불규칙: man → men, child → children",
+     "예) Two wolves ran. (늑대 두 마리가 달렸어요.)"
+    ]
+   },
+   "narration": "셀 수 있는 명사가 둘 이상이면 복수형을 쓰고, 대부분 s를 붙여요. s, x, sh, ch로 끝나면 보통 es를 붙여요. y 앞이 자음이면 y를 i로, f나 fe로 끝나는 많은 명사는 f나 fe를 v로 바꾸고 es를 붙여요. man은 men처럼 불규칙한 명사도 있어요. 예를 들어 Two wolves ran, 늑대 두 마리가 달렸어요.",
+   "caption": "s, es, ies, ves와 불규칙 복수형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.\n\n① box - boxes\n② knife - knifes\n③ woman - women\n④ book - books\n⑤ baby - babies",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [],
+      "strike": [
+       "③ woman - women"
+      ],
+      "note": "불규칙 명사부터: woman → women 바름"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① box - boxes",
+       "④ book - books",
+       "⑤ baby - babies"
+      ],
+      "note": "나머지는 규칙대로: boxes(x로 끝남 + es), books(+ s), babies(자음 + y) 바름"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② knife - knifes"
+      ],
+      "strike": [],
+      "note": "knife는 fe를 v로 바꾸고 + es → knives, knifes는 틀림"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 불규칙하게 바뀌는 명사부터 확인해요. woman은 women으로 바르게 짝지어졌어요. 둘째, 나머지는 규칙대로인지 봐요. box는 x로 끝나서 boxes, book은 s만 붙인 books, baby는 y 앞이 자음이라 babies로 모두 맞아요. 셋째, knife는 fe를 v로 바꾸고 es를 붙인 knives가 맞는데, s만 붙인 knifes로 썼어요.",
+   "caption": "불규칙 짝 → 규칙 짝 → knife"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 27,
+   "screen": {
+    "text": "① box - boxes  ✗  x로 끝나서 + es, 바른 짝\n② knife - knifes  ✓  knife의 복수형은 knives, knifes는 틀린 모양\n③ woman - women  ✗  woman의 불규칙 복수형 women, 바른 짝\n④ book - books  ✗  s만 붙이는 명사, 바른 짝\n⑤ baby - babies  ✗  y 앞이 자음 → y를 i로 바꾸고 + es, 바른 짝",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① box - boxes  ✗  x로 끝나서 + es, 바른 짝",
+     "② knife - knifes  ✓  knife의 복수형은 knives, knifes는 틀린 모양",
+     "③ woman - women  ✗  woman의 불규칙 복수형 women, 바른 짝",
+     "④ book - books  ✗  s만 붙이는 명사, 바른 짝",
+     "⑤ baby - babies  ✗  y 앞이 자음 → y를 i로 바꾸고 + es, 바른 짝"
+    ]
+   },
+   "narration": "정답은 2번 knife와 knifes의 짝이에요. knife는 fe를 v로 바꾸고 es를 붙여 knives라고 써야 해서 knifes는 틀렸어요. 3번 women은 s가 없어 틀려 보이지만, woman의 바른 불규칙 복수형이에요. 5번 babies는 y가 i로 바뀌어 어색해 보여도, y 앞이 자음이라 바른 모양이에요.",
+   "caption": "정답 ② knife - knifes"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ② knife - knifes\n\nf, fe로 끝나는 많은 명사 → f, fe를 v로 바꾸고 + es: knife → knives",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② knife - knifes",
+     "f, fe로 끝나는 많은 명사 → f, fe를 v로 바꾸고 + es: knife → knives"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, knife처럼 f나 fe로 끝나는 많은 명사는 f나 fe를 v로 바꾸고 es를 붙여요.",
+   "caption": "knife → knives"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "box - boxes",
+   "knife - knifes",
+   "woman - women",
+   "book - books",
+   "baby - babies"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 명사의 복수형은 보통 -s를 붙이고, -s·-x·-ch·-sh로 끝나면 -es, 자음 + y는 y를 i로 바꾸고 -es, -f(e)는 f를 v로 바꾸고 -es를 붙인다. man - men, child - children 같은 불규칙 변화도 있다.\n풀이 순서: ① 불규칙으로 변하는 명사부터 확인한다: woman - women. → ② 나머지는 규칙(-s, -es, y → ies, f → ves)대로인지 본다. → ③ knife처럼 f(e)로 끝나는 명사는 ves로 바꿔 knives인데 knifes로 썼다. 정답은 ②.\n문장별 판정:\n정답 판단: -fe로 끝나는 knife는 f를 v로 바꿔 knives로 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] -x로 끝나 -es를 붙인 옳은 복수형이므로 오답이다.\n② [정답] -fe로 끝나는 knife는 f를 v로 바꿔 knives로 써야 하므로 정답이다.\n③ [오답] 불규칙 복수형을 바르게 짝지었으므로 오답이다.\n④ [오답] -s를 붙인 옳은 복수형이므로 오답이다.\n⑤ [오답] 자음 + y로 끝나 y를 i로 바꾸고 -es를 붙인 옳은 복수형이므로 오답이다."
+ }
+}

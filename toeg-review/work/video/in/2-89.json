@@ -1,0 +1,86 @@
+{
+ "key": "2-89",
+ "grade": 2,
+ "chapter": "CH 9 비교",
+ "items": {
+  "A": {
+   "stem": "<보기>의 문장 중 밑줄 친 부분이 어법상 옳은 것만으로 묶인 것을 고르시오.",
+   "passage": "<보기>\n(A) One of my favorite <u>hobby</u> is collecting coins.\n(B) He is one of the smartest <u>student</u> in his class.\n(C) This is one of the most expensive <u>cars</u> in the shop.\n(D) One of the <u>box</u> in the room is empty.\n(E) She is one of the kindest <u>people</u> I have ever met.",
+   "c": [
+    "(A), (C)",
+    "(C), (E)",
+    "(B), (D)",
+    "(A), (E)",
+    "(C), (D)"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: one of + (the + 최상급 / 소유격) 뒤에는 복수명사를 쓴다(‘~들 중 하나’). people, men, women, children 같은 불규칙 복수형도 복수다.\n풀이 순서: ① 밑줄은 모두 one of 뒤의 명사다. ‘~ 중 하나’이므로 복수명사가 와야 한다. → ② 단수형으로 쓴 문장을 지운다: (A) hobby, (B) student, (D) box. people, men, women, children처럼 -s가 없는 복수형은 옳다. → ③ 남은 두 문장을 묶은 (C), (E)가 정답이다.\n문장별 판정: (A) X. hobbies로 써야 한다. (B) X. students로 써야 한다. (C) O. one of + 복수명사 cars. (D) X. boxes로 써야 한다. (E) O. people은 복수명사다.\n정답 판단: (C)와 (E) 모두 one of 뒤에 복수명사를 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] (A)가 틀렸으므로 오답이다.\n② [정답] (C)와 (E) 모두 one of 뒤에 복수명사를 썼으므로 정답이다.\n③ [오답] (B)와 (D) 모두 틀렸으므로 오답이다.\n④ [오답] (A)가 틀렸으므로 오답이다.\n⑤ [오답] (D)가 틀렸으므로 오답이다."
+  },
+  "B": {
+   "stem": "<보기>의 문장 중 밑줄 친 부분이 어법상 옳은 것만으로 묶인 것을 고르시오.",
+   "passage": "<보기>\n(A) One of my favorite <u>hobbies</u> is hiking.\n(B) Mina is one of the smartest <u>student</u> in class.\n(C) This is one of the oldest <u>building</u> in Seoul.\n(D) One of the <u>windows</u> in my room is broken.\n(E) He is one of the best <u>player</u> on the team.",
+   "c": [
+    "(A), (B)",
+    "(A), (D)",
+    "(C), (D)",
+    "(A), (E)",
+    "(B), (E)"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: one of + (the + 최상급 / 소유격) + 복수명사로 ‘~ 중 하나’를 나타낸다. people·men·women·children 같은 불규칙 복수형도 확인한다.\n풀이 순서: ① 밑줄은 모두 one of 뒤의 명사다. ‘~ 중 하나’이므로 복수명사가 와야 한다. → ② 단수형으로 쓴 문장을 지운다: (B) student, (C) building, (E) player. people, men, women, children처럼 -s가 없는 복수형은 옳다. → ③ 남은 두 문장을 묶은 (A), (D)가 정답이다.\n문장별 판정:\n(A) O. one of + 복수명사(hobbies)이다.\n(B) X. one of 뒤에는 복수명사(students)를 쓴다.\n(C) X. one of 뒤에는 복수명사(buildings)를 쓴다.\n(D) O. one of + 복수명사(windows)이다.\n(E) X. one of 뒤에는 복수명사(players)를 쓴다.\n정답 판단: 옳은 문장은 (A), (D)이고, 이 문장들로만 묶인 보기가 정답이다.\n선택지 분석:\n① [오답] (B)는 옳은 문장이 아니고, 옳은 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 옳은 문장 (A), (D)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (C)는 옳은 문장이 아니고, 옳은 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (E)는 옳은 문장이 아니고, 옳은 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (B), (E)는 옳은 문장이 아니고, 옳은 문장 (A), (D)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "C": {
+   "stem": "<보기>의 문장 중 밑줄 친 부분이 어법상 옳은 것만으로 묶인 것을 고르시오.",
+   "passage": "<보기>\n(A) One of the tallest <u>building</u> is downtown.\n(B) She is one of the most famous <u>singer</u> in Korea.\n(C) One of my <u>friend</u> lives in Canada.\n(D) This is one of the most useful <u>apps</u> I know.\n(E) One of the <u>students</u> was late today.",
+   "c": [
+    "(A), (B)",
+    "(C), (D)",
+    "(A), (E)",
+    "(B), (D)",
+    "(D), (E)"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: one of + (the + 최상급 / 소유격) + 복수명사로 ‘~ 중 하나’를 나타낸다. people·men·women·children 같은 불규칙 복수형도 확인한다.\n풀이 순서: ① 밑줄은 모두 one of 뒤의 명사다. ‘~ 중 하나’이므로 복수명사가 와야 한다. → ② 단수형으로 쓴 문장을 지운다: (A) building, (B) singer, (C) friend. people, men, women, children처럼 -s가 없는 복수형은 옳다. → ③ 남은 두 문장을 묶은 (D), (E)가 정답이다.\n문장별 판정:\n(A) X. one of 뒤에는 복수명사(buildings)를 쓴다.\n(B) X. one of 뒤에는 복수명사(singers)를 쓴다.\n(C) X. one of 뒤에는 복수명사(friends)를 쓴다.\n(D) O. one of + 복수명사(apps)이다.\n(E) O. one of + 복수명사(students)이다.\n정답 판단: 옳은 문장은 (D), (E)이고, 이 문장들로만 묶인 보기가 정답이다.\n선택지 분석:\n① [오답] (A), (B)는 옳은 문장이 아니고, 옳은 문장 (D), (E)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (C)는 옳은 문장이 아니고, 옳은 문장 (E)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (A)는 옳은 문장이 아니고, 옳은 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (B)는 옳은 문장이 아니고, 옳은 문장 (E)를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 옳은 문장 (D), (E)를 빠짐없이 골랐으므로 정답이다."
+  },
+  "D": {
+   "stem": "<보기>의 문장 중 밑줄 친 부분이 어법상 옳은 것만으로 묶인 것을 고르시오.",
+   "passage": "<보기>\n(A) One of my favorite <u>book</u> is missing.\n(B) Leo is one of the fastest <u>runners</u> in our school.\n(C) One of the <u>cars</u> in the parking lot is red.\n(D) It is one of the most beautiful <u>place</u> in the world.\n(E) One of the <u>teacher</u> is from Canada.",
+   "c": [
+    "(A), (B)",
+    "(C), (D)",
+    "(A), (E)",
+    "(B), (C)",
+    "(B), (E)"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: one of + (the + 최상급 / 소유격) + 복수명사로 ‘~ 중 하나’를 나타낸다. people·men·women·children 같은 불규칙 복수형도 확인한다.\n풀이 순서: ① 밑줄은 모두 one of 뒤의 명사다. ‘~ 중 하나’이므로 복수명사가 와야 한다. → ② 단수형으로 쓴 문장을 지운다: (A) book, (D) place, (E) teacher. people, men, women, children처럼 -s가 없는 복수형은 옳다. → ③ 남은 두 문장을 묶은 (B), (C)가 정답이다.\n문장별 판정:\n(A) X. one of 뒤에는 복수명사(books)를 쓴다.\n(B) O. one of + 복수명사(runners)이다.\n(C) O. one of + 복수명사(cars)이다.\n(D) X. one of 뒤에는 복수명사(places)를 쓴다.\n(E) X. one of 뒤에는 복수명사(teachers)를 쓴다.\n정답 판단: 옳은 문장은 (B), (C)이고, 이 문장들로만 묶인 보기가 정답이다.\n선택지 분석:\n① [오답] (A)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (B)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (A), (E)는 옳은 문장이 아니고, 옳은 문장 (B), (C)를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 (B), (C)를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] (E)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다."
+  },
+  "E": {
+   "stem": "<보기>의 문장 중 밑줄 친 부분이 어법상 옳은 것만으로 묶인 것을 고르시오.",
+   "passage": "<보기>\n(A) One of the best <u>restaurants</u> in our city is near the station.\n(B) He is one of the richest <u>man</u> in our small town.\n(C) One of my <u>cousins</u> is a pilot for a big airline.\n(D) This is one of the easiest <u>question</u> on the math test.\n(E) She is one of the kindest <u>woman</u> I have ever met in my life.",
+   "c": [
+    "(A), (B)",
+    "(B), (D)",
+    "(C), (D)",
+    "(A), (E)",
+    "(A), (C)"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: one of + (the + 최상급 / 소유격) + 복수명사로 ‘~ 중 하나’를 나타낸다. people·men·women·children 같은 불규칙 복수형도 확인한다.\n풀이 순서: ① 밑줄은 모두 one of 뒤의 명사다. ‘~ 중 하나’이므로 복수명사가 와야 한다. → ② 단수형으로 쓴 문장을 지운다: (B) man, (D) question, (E) woman. people, men, women, children처럼 -s가 없는 복수형은 옳다. → ③ 남은 두 문장을 묶은 (A), (C)가 정답이다.\n문장별 판정:\n(A) O. one of + 복수명사(restaurants)이다.\n(B) X. one of 뒤에는 복수명사(men)를 쓴다.\n(C) O. one of + 복수명사(cousins)이다.\n(D) X. one of 뒤에는 복수명사(questions)를 쓴다.\n(E) X. one of 뒤에는 복수명사(women)를 쓴다.\n정답 판단: 옳은 문장은 (A), (C)이고, 이 문장들로만 묶인 보기가 정답이다.\n선택지 분석:\n① [오답] (B)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (B), (D)는 옳은 문장이 아니고, 옳은 문장 (A), (C)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (E)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 옳은 문장 (A), (C)를 빠짐없이 골랐으므로 정답이다."
+  },
+  "F": {
+   "stem": "<보기>의 문장 중 밑줄 친 부분이 어법상 옳은 것만으로 묶인 것을 고르시오.",
+   "passage": "<보기>\n(A) One of the most interesting <u>story</u> in this book is about space.\n(B) Tom is one of the tallest <u>boys</u> in our class this year.\n(C) One of the <u>child</u> in the playground is crying loudly now.\n(D) Jeju is one of the most popular <u>island</u> in Korea for tourists.\n(E) One of my favorite <u>songs</u> is playing on the radio now.",
+   "c": [
+    "(B), (E)",
+    "(A), (B)",
+    "(C), (D)",
+    "(A), (E)",
+    "(B), (D)"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: one of + (the + 최상급 / 소유격) + 복수명사로 ‘~ 중 하나’를 나타낸다. people·men·women·children 같은 불규칙 복수형도 확인한다.\n풀이 순서: ① 밑줄은 모두 one of 뒤의 명사다. ‘~ 중 하나’이므로 복수명사가 와야 한다. → ② 단수형으로 쓴 문장을 지운다: (A) story, (C) child, (D) island. people, men, women, children처럼 -s가 없는 복수형은 옳다. → ③ 남은 두 문장을 묶은 (B), (E)가 정답이다.\n문장별 판정:\n(A) X. one of 뒤에는 복수명사(stories)를 쓴다.\n(B) O. one of + 복수명사(boys)이다.\n(C) X. one of 뒤에는 복수명사(children)를 쓴다.\n(D) X. one of 뒤에는 복수명사(islands)를 쓴다.\n(E) O. one of + 복수명사(songs)이다.\n정답 판단: 옳은 문장은 (B), (E)이고, 이 문장들로만 묶인 보기가 정답이다.\n선택지 분석:\n① [정답] 옳은 문장 (B), (E)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (A)는 옳은 문장이 아니고, 옳은 문장 (E)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (C), (D)는 옳은 문장이 아니고, 옳은 문장 (B), (E)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (A)는 옳은 문장이 아니고, 옳은 문장 (B)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (E)를 빠뜨렸다. 따라서 오답이다."
+  }
+ },
+ "prior_review": {}
+}

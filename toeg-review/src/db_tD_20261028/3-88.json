@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T18:16:33.726Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Do mind you sitting next to me?",
+      "1": "You do mind to sit next to me?",
+      "2": "Do you mind sit next to me?",
+      "3": "Do you mind sitting next to me?",
+      "4": "Do you mind to sit next to me?"
+    },
+    "expl": "핵심 규칙: mind, enjoy는 동명사를 목적어로 쓴다. 일반동사 의문문은 Do(Does) + 주어 + 동사원형 순서다.\n풀이 순서: ① 의문문의 뼈대를 세운다: Do + 주어 + mind. → ② mind 뒤의 동사(sit)는 동명사(sitting)로 바꾼다. 발문이 형태를 바꿔도 된다고 한 까닭이다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: Do + 주어 + mind + 동명사로 바르게 배열했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] Do + 주어 + 동사 순서가 아니므로 오답이다.\n② [오답] 의문문 어순(Do/Does + 주어)이 아니고 to부정사를 썼으므로 오답이다.\n③ [오답] 동사원형(sit)을 동명사(sitting)로 바꿔야 하므로 오답이다.\n④ [정답] Do + 주어 + mind + 동명사로 바르게 배열했으므로 정답이다.\n⑤ [오답] mind는 to부정사가 아니라 동명사를 목적어로 쓰므로 오답이다.",
+    "passage": "너는 내 옆에 앉는 것을 꺼리니?\n(you / mind / sit / next to me / do / ?)",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:16:24.890Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T18:16:33.726Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:16:33.726Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-28T03:15:45.478Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "when – where",
+      "1": "which – that",
+      "2": "where – when",
+      "3": "why – when",
+      "4": "where – why"
+    },
+    "expl": "핵심 규칙: 관계절 안에서 장소를 나타내면 where, 시간을 나타내면 when, 이유를 나타내면 why를 쓴다. 선행사의 뜻뿐 아니라 관계절에서 빠진 성분도 확인한다.\n풀이 순서: ① 빈칸 앞의 선행사가 때·장소·이유 가운데 무엇인지 본다. → ② 첫째 빈칸 앞은 the town(장소)이므로 where, 둘째 빈칸 앞은 the day(때)이므로 when. 빈칸 뒤가 완전한 절이므로 관계대명사(which, that)가 아니라 관계부사 자리다. → ③ 정답은 where – when.\n문장별 판정:\n정답 판단: 첫 빈칸은 장소 town, 둘째 빈칸은 시간 day를 나타내므로 where - when이다.\n선택지 분석:\n① [오답] (첫째 빈칸) 장소 town을 나타낼 부사적 연결이 필요하므로 when 대신 where를 쓴다 / (둘째 빈칸) 시간 day를 나타낼 부사적 연결이 필요하므로 where 대신 when을 쓴다. 바른 연결은 where - when이다.\n② [오답] (첫째 빈칸) 장소 town을 나타낼 부사적 연결이 필요하므로 which 대신 where를 쓴다 / (둘째 빈칸) that은 시간 day 뒤에서 가능하다 (이 that은 시간·이유 관계절에서 when 대신 쓸 수 있다). 바른 연결은 where - when이다.\n③ [정답] (첫째 빈칸) where는 장소 town 뒤에서 가능하다 / (둘째 빈칸) when은 시간 day 뒤에서 가능하다. 두 빈칸이 모두 맞다.\n④ [오답] (첫째 빈칸) 장소 town을 나타낼 부사적 연결이 필요하므로 why 대신 where를 쓴다 / (둘째 빈칸) when은 시간 day 뒤에서 가능하다. 바른 연결은 where - when이다.\n⑤ [오답] (첫째 빈칸) where는 장소 town 뒤에서 가능하다 / (둘째 빈칸) 시간 day를 나타낼 부사적 연결이 필요하므로 why 대신 when을 쓴다. 바른 연결은 where - when이다.",
+    "passage": "• This is the small town _____ my father grew up as a child.\n• I still remember the day _____ we first met at school.",
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T03:58:25.184Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T03:58:53.539Z",
+      "text": "기준 문항과 같이 문장 앞에 표시가 있어야 함.\n문장의 길이가 기준 문항에 비해 짧음."
+    }
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T03:15:45.478Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:15:45.478Z",
+      "what": "확인 완료"
+    }
+  }
+}

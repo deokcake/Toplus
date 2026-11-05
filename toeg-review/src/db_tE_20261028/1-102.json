@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T19:51:36.103Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Either the manager or the workers is responsible.",
+      "1": "Both my mom and my aunt works at the hospital.",
+      "2": "The captain as well as the sailors were brave.",
+      "3": "Neither the dog nor the cats was hungry.",
+      "4": null
+    },
+    "expl": "핵심 규칙: both A and B는 복수 동사, either A or B·neither A nor B·not only A but also B는 B에, A as well as B는 A에 동사의 수를 맞춘다.\n풀이 순서: ① 문장마다 상관접속사를 찾고 동사가 어느 말에 수를 맞춰야 하는지 정한다. both ~ and는 복수, either·neither·not only는 동사에 가까운 쪽, as well as는 앞쪽이다. → ② 그 말이 단수인지 복수인지 보고 동사와 견준다. → ③ 선택지 ⑤만 수가 맞는다: but also 뒤의 her friends(복수) - are.\n문장별 판정:\n정답 판단: not only A but also B는 B(her friends)에 맞춰 복수 are를 써서 옳다. 정답은 ⑤이다.\n선택지 분석:\n① [오답] either A or B는 B(the workers)에 맞춰 are를 써야 해 틀렸다. 오답이다.\n② [오답] both A and B는 복수이므로 work를 써야 해 틀렸다. 오답이다.\n③ [오답] A as well as B는 A(The captain)에 맞춰 was를 써야 해 틀렸다. 오답이다.\n④ [오답] neither A nor B는 B(the cats)에 맞춰 were를 써야 해 틀렸다. 오답이다.\n⑤ [정답] not only A but also B는 B(her friends)에 맞춰 복수 are를 써서 옳다. 정답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T19:51:25.759Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T19:51:36.103Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T19:51:36.103Z",
+      "what": "확인 완료"
+    }
+  }
+}

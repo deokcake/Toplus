@@ -1,0 +1,86 @@
+{
+ "key": "5-69",
+ "grade": 5,
+ "chapter": "CH 7 숫자 표현과 비인칭주어 it",
+ "items": {
+  "A": {
+   "stem": "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.",
+   "passage": "34,200은 (   A   )-four (   B   ) two hundred라고 읽습니다.",
+   "c": [
+    "thirty — thousand",
+    "thirteen — hundred",
+    "thirty — hundreds",
+    "thirteen — thousand",
+    "three — thousand"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 큰 수는 쉼표에서 끊어 읽는다. 쉼표 앞은 thousand(천) 단위이고, 30은 thirty, 13은 thirteen이다. thousand, hundred에는 -s를 붙이지 않는다.\n풀이 순서: ① 쉼표에서 끊는다: 34 / 200. → ② 쉼표 앞의 수를 읽는다: 34는 thirty-four. → ③ 쉼표 자리는 천 단위이므로 thousand다. 정답은 thirty — thousand.\n문장별 판정:\n정답 판단: 34는 thirty-four, 쉼표 자리는 thousand이므로 정답은 ①이다.\n선택지 분석:\n① [정답] 34는 thirty-four, 쉼표 자리는 thousand이므로 정답이다.\n② [오답] thirteen은 13이고 쉼표 자리는 hundred가 아니므로 오답이다.\n③ [오답] 쉼표 자리는 thousand이고 hundreds처럼 -s도 붙이지 않으므로 오답이다.\n④ [오답] thirteen은 13이므로 오답이다.\n⑤ [오답] three-four라고 읽지 않으므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.",
+   "passage": "52,600은 (   A   )-two (   B   ) six hundred라고 읽습니다.",
+   "c": [
+    "fifty — hundred",
+    "five — thousand",
+    "fifteen — hundred",
+    "fifty — thousand",
+    "fifty — million"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 큰 수는 세 자리씩 끊어 읽는다. 34,200은 thirty-four thousand two hundred처럼 앞의 두 자리를 십 단위(twenty, forty, sixty …)로 읽고 thousand를 붙인다. hundred·thousand에는 -s를 붙이지 않는다.\n풀이 순서: ① 쉼표에서 끊는다: 52 / 600. → ② 쉼표 앞의 수를 읽는다: 52는 fifty-two. → ③ 쉼표 자리는 천 단위이므로 thousand다. 정답은 fifty — thousand.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ④이다.\n선택지 분석:\n① [오답] (B) hundred: 천 단위는 thousand로 읽는다. 따라서 오답이다.\n② [오답] (A) five: 52의 앞자리는 십 단위 fifty로 읽는다. 따라서 오답이다.\n③ [오답] (A) fifteen: 52의 앞자리는 십 단위 fifty로 읽는다. (B) hundred: 천 단위는 thousand로 읽는다. 따라서 오답이다.\n④ [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n⑤ [오답] (B) million: 천 단위는 thousand로 읽는다. 따라서 오답이다."
+  },
+  "C": {
+   "stem": "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.",
+   "passage": "21,500은 (   A   )-one (   B   ) five hundred라고 읽습니다.",
+   "c": [
+    "twelve — thousand",
+    "twenty — hundred",
+    "twenty — thousand",
+    "two — thousand",
+    "twenty — million"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 큰 수는 세 자리씩 끊어 읽는다. 34,200은 thirty-four thousand two hundred처럼 앞의 두 자리를 십 단위(twenty, forty, sixty …)로 읽고 thousand를 붙인다. hundred·thousand에는 -s를 붙이지 않는다.\n풀이 순서: ① 쉼표에서 끊는다: 21 / 500. → ② 쉼표 앞의 수를 읽는다: 21은 twenty-one. → ③ 쉼표 자리는 천 단위이므로 thousand다. 정답은 twenty — thousand.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ③이다.\n선택지 분석:\n① [오답] (A) twelve: 21의 앞자리는 십 단위 twenty로 읽는다. 따라서 오답이다.\n② [오답] (B) hundred: 천 단위는 thousand로 읽는다. 따라서 오답이다.\n③ [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n④ [오답] (A) two: 21의 앞자리는 십 단위 twenty로 읽는다. 따라서 오답이다.\n⑤ [오답] (B) million: 천 단위는 thousand로 읽는다. 따라서 오답이다."
+  },
+  "D": {
+   "stem": "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.",
+   "passage": "48,300은 (   A   )-eight (   B   ) three hundred라고 읽습니다.",
+   "c": [
+    "fourteen — thousand",
+    "forty — thousand",
+    "four — thousand",
+    "forty — hundred",
+    "forty — million"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 큰 수는 세 자리씩 끊어 읽는다. 34,200은 thirty-four thousand two hundred처럼 앞의 두 자리를 십 단위(twenty, forty, sixty …)로 읽고 thousand를 붙인다. hundred·thousand에는 -s를 붙이지 않는다.\n풀이 순서: ① 쉼표에서 끊는다: 48 / 300. → ② 쉼표 앞의 수를 읽는다: 48은 forty-eight. → ③ 쉼표 자리는 천 단위이므로 thousand다. 정답은 forty — thousand.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ②이다.\n선택지 분석:\n① [오답] (A) fourteen: 48의 앞자리는 십 단위 forty로 읽는다. 따라서 오답이다.\n② [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n③ [오답] (A) four: 48의 앞자리는 십 단위 forty로 읽는다. 따라서 오답이다.\n④ [오답] (B) hundred: 천 단위는 thousand로 읽는다. 따라서 오답이다.\n⑤ [오답] (B) million: 천 단위는 thousand로 읽는다. 따라서 오답이다."
+  },
+  "E": {
+   "stem": "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.",
+   "passage": "62,100은 (   A   )-two (   B   ) one hundred라고 읽습니다.",
+   "c": [
+    "sixty — thousand",
+    "six — thousand",
+    "sixteen — thousand",
+    "sixty — hundred",
+    "sixty — million"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 큰 수는 세 자리씩 끊어 읽는다. 34,200은 thirty-four thousand two hundred처럼 앞의 두 자리를 십 단위(twenty, forty, sixty …)로 읽고 thousand를 붙인다. hundred·thousand에는 -s를 붙이지 않는다.\n풀이 순서: ① 쉼표에서 끊는다: 62 / 100. → ② 쉼표 앞의 수를 읽는다: 62는 sixty-two. → ③ 쉼표 자리는 천 단위이므로 thousand다. 정답은 sixty — thousand.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n② [오답] (A) six: 62의 앞자리는 십 단위 sixty로 읽는다. 따라서 오답이다.\n③ [오답] (A) sixteen: 62의 앞자리는 십 단위 sixty로 읽는다. 따라서 오답이다.\n④ [오답] (B) hundred: 천 단위는 thousand로 읽는다. 따라서 오답이다.\n⑤ [오답] (B) million: 천 단위는 thousand로 읽는다. 따라서 오답이다."
+  },
+  "F": {
+   "stem": "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.",
+   "passage": "15,400은 (   A   ) (   B   ) four hundred라고 읽습니다.",
+   "c": [
+    "fifty — thousand",
+    "fifteen — hundred",
+    "five — thousand",
+    "fifteen — million",
+    "fifteen — thousand"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 큰 수는 세 자리씩 끊어 읽는다. 34,200은 thirty-four thousand two hundred처럼 앞의 두 자리를 십 단위(twenty, forty, sixty …)로 읽고 thousand를 붙인다. hundred·thousand에는 -s를 붙이지 않는다.\n풀이 순서: ① 쉼표에서 끊는다: 15 / 400. → ② 쉼표 앞의 수를 읽는다: 15는 fifteen. → ③ 쉼표 자리는 천 단위이므로 thousand다. 정답은 fifteen — thousand.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] (A) fifty: 15는 fifteen으로 읽는다. 따라서 오답이다.\n② [오답] (B) hundred: 천 단위는 thousand로 읽는다. 따라서 오답이다.\n③ [오답] (A) five: 15는 fifteen으로 읽는다. 따라서 오답이다.\n④ [오답] (B) million: 천 단위는 thousand로 읽는다. 따라서 오답이다.\n⑤ [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다."
+  }
+ },
+ "prior_review": {}
+}

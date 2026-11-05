@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T02:39:47.085Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "He is solving the two question.",
+      "1": "He is solving the twoth question.",
+      "2": "He is solving the two's question.",
+      "3": "He is solving the second question.",
+      "4": "He is solving the twond question."
+    },
+    "expl": "핵심 규칙: ‘~ 번째’는 서수로 나타낸다(first, second, third, fourth, fifth, ninth). 기수를 쓰거나 ’s·-th·-d를 잘못 붙이지 않도록 한다.\n풀이 순서: ① 우리말에서 ‘~ 번째’를 찾는다: 두 번째. 서수가 필요하다. → ② 그 서수의 바른 철자는 second. → ③ 기수를 그대로 쓴 것과 철자를 잘못 만든 것을 지운다. 정답은 ④.\n문장별 판정:\n정답 판단: ‘두 번째’를 서수 second로 바르게 나타냈으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 기수(two)로는 ‘~ 번째’를 나타낼 수 없으므로 오답이다.\n② [오답] two의 서수는 second이고 twoth라는 말은 없으므로 오답이다.\n③ [오답] ’s를 붙여도 서수가 되지 않으므로 오답이다.\n④ [정답] ‘두 번째’를 서수 second로 바르게 나타냈으므로 정답이다.\n⑤ [오답] twond라는 말은 없고 서수는 second이므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 우리말 '그는 두 번째 문제를 풀고 있다'를 영어로 바르게 옮긴 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:39:44.714Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-22T02:39:47.085Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:39:47.085Z",
+      "what": "확인 완료"
+    }
+  }
+}

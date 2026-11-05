@@ -1,0 +1,427 @@
+{
+ "A": {
+  "title": "일반동사 현재 부정문 does not",
+  "intro": "이 문제는 주어 He와 일반동사 watches가 쓰인 현재 문장을 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장을 부정문으로 바꾼 것을 고르세요. He watches TV every evening. 그는 매일 저녁 텔레비전을 봐요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재 문장의 부정문(~하지 않아요) → do/does + not + 동사원형",
+    "3인칭 단수 주어(he, she, it, Mina 등) → does not (줄여서 doesn't)",
+    "I, you, 복수 주어(we, they 등) → do not (줄여서 don't)",
+    "do not, does not 뒤의 동사는 원형 (reads → read)",
+    "예) Mina reads comics. → Mina doesn't read comics. (미나는 만화책을 읽지 않아요.)"
+   ],
+   "narration": "일반동사 현재 문장을 하지 않는다는 뜻의 부정문으로 바꿀 때는 동사 앞에 do not이나 does not을 써요. 주어가 he, she, it 같은 3인칭 단수이면 does not, I, you나 복수이면 do not을 쓰고, 줄이면 doesn't, don't예요. 뒤에는 동사원형을 써요. 예를 들어 Mina reads comics는 Mina doesn't read comics가 돼요. 미나는 만화책을 읽지 않아요."
+  },
+  "steps": [
+   {
+    "note": "watches = 일반동사 현재형 → do/does가 필요. not만 넣은 ①, be동사 isn't를 쓴 ⑤ 지움",
+    "highlight": [
+     "He watches TV every evening."
+    ],
+    "strike": [
+     "① He not watches TV every evening.",
+     "⑤ He isn’t watch TV every evening."
+    ],
+    "narration": "첫째, watches는 일반동사의 현재형이니 do나 does가 필요해서, not만 넣은 1번과 be동사 isn't를 쓴 5번은 지워요."
+   },
+   {
+    "note": "He = 3인칭 단수 → does not + 동사원형. watches(②), watching(③) 지움",
+    "highlight": [
+     "He watches TV every evening."
+    ],
+    "strike": [
+     "② He does not watches TV every evening.",
+     "③ He doesn’t watching TV every evening."
+    ],
+    "narration": "둘째, 주어 He는 3인칭 단수라서 does not을 쓰고, 뒤에는 동사원형이 와요. 그래서 watches를 쓴 2번과 ing형 watching을 쓴 3번도 지워요."
+   },
+   {
+    "note": "남는 것: ④ does not + watch",
+    "highlight": [
+     "④ He does not watch TV every evening."
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 4번이에요. He does not watch TV every evening. 그는 매일 저녁 텔레비전을 보지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① He not watches TV every evening.  ✗  does 없이 not만 넣었어요",
+    "② He does not watches TV every evening.  ✗  does not 뒤에 watches (→ watch)",
+    "③ He doesn’t watching TV every evening.  ✗  doesn’t 뒤에 ing형 (→ watch)",
+    "④ He does not watch TV every evening.  ✓  He → does not + 동사원형 watch",
+    "⑤ He isn’t watch TV every evening.  ✗  be동사 isn’t와 동사원형 watch를 나란히 썼어요"
+   ],
+   "narration": "정답은 4번이에요. 2번은 does not 뒤에 watches를 그대로 두어서 틀렸어요. does가 이미 주어에 맞춘 모양이니 동사는 원형 watch로 써요. 3번은 doesn't 뒤에 ing형 watching을 써서 틀렸어요. 5번은 be동사 isn't 뒤에 동사원형 watch를 나란히 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → does not + 동사원형 (I, you, 복수 → do not)",
+   "narration": "정답은 4번이에요. 기억할 것, 3인칭 단수 주어에는 does not을 쓰고, 그 뒤에는 동사원형을 써요."
+  },
+  "captions": [
+   "일반동사 현재 부정문",
+   "먼저 풀어 보세요",
+   "do/does not + 동사원형",
+   "일반동사 → He → does not watch",
+   "정답 ④",
+   "3인칭 단수 → does not + 원형"
+  ],
+  "sec": [12, 19, 30, 33, 26, 10]
+ },
+ "B": {
+  "title": "일반동사 현재 부정문 does not",
+  "intro": "이 문제는 주어 She와 일반동사 drinks가 쓰인 현재 문장을 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장을 부정문으로 바꾼 것을 고르세요. She drinks milk every morning. 그녀는 매일 아침 우유를 마셔요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재 문장의 부정문(~하지 않아요) → do/does + not + 동사원형",
+    "3인칭 단수 주어(he, she, it, Mina 등) → does not (줄여서 doesn't)",
+    "I, you, 복수 주어(we, they 등) → do not (줄여서 don't)",
+    "do not, does not 뒤의 동사는 원형 (cooks → cook)",
+    "예) My dad cooks dinner. → My dad does not cook dinner. (우리 아빠는 저녁을 요리하지 않아요.)"
+   ],
+   "narration": "일반동사 현재 문장을 하지 않는다는 뜻의 부정문으로 바꿀 때는 동사 앞에 do not이나 does not을 써요. 주어가 he, she, it 같은 3인칭 단수이면 does not, I, you나 복수이면 do not을 써요. 뒤의 동사는 꼭 동사원형으로 써요. 예를 들어 My dad cooks dinner는 My dad does not cook dinner가 돼요. 우리 아빠는 저녁을 요리하지 않아요."
+  },
+  "steps": [
+   {
+    "note": "drinks = 일반동사 현재형 → do/does가 필요. be동사 is not을 쓴 ③, not만 넣은 ④ 지움",
+    "highlight": [
+     "She drinks milk every morning."
+    ],
+    "strike": [
+     "③ She is not drink milk every morning.",
+     "④ She not drinks milk every morning."
+    ],
+    "narration": "첫째, drinks는 일반동사의 현재형이니 do나 does가 필요해서, be동사 is not을 쓴 3번과 not만 넣은 4번은 지워요."
+   },
+   {
+    "note": "She = 3인칭 단수 → does not. do not을 쓴 ① 지움",
+    "highlight": [
+     "She drinks milk every morning."
+    ],
+    "strike": [
+     "① She do not drink milk every morning."
+    ],
+    "narration": "둘째, 주어 She는 3인칭 단수라서 does not을 쓰니, do not을 쓴 1번도 지워요."
+   },
+   {
+    "note": "does not 뒤는 동사원형 drink → ② 지움, ⑤ 남음",
+    "highlight": [
+     "⑤ She does not drink milk every morning."
+    ],
+    "strike": [
+     "② She does not drinks milk every morning."
+    ],
+    "narration": "셋째, does not 뒤에는 동사원형 drink를 쓰니 drinks를 쓴 2번도 틀렸어요. 남는 것은 5번이에요. She does not drink milk every morning. 그녀는 매일 아침 우유를 마시지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① She do not drink milk every morning.  ✗  She에는 do not이 아니라 does not",
+    "② She does not drinks milk every morning.  ✗  does not 뒤에 drinks (→ drink)",
+    "③ She is not drink milk every morning.  ✗  be동사 is not과 동사원형 drink를 나란히 썼어요",
+    "④ She not drinks milk every morning.  ✗  does 없이 not만 넣었어요",
+    "⑤ She does not drink milk every morning.  ✓  She → does not + 동사원형 drink"
+   ],
+   "narration": "정답은 5번이에요. 2번은 does not 뒤에 drinks를 그대로 두어서 틀렸어요. does가 이미 주어에 맞춘 모양이니 동사는 원형 drink로 써요. 1번은 동사원형은 맞지만, She에 does not이 아니라 do not을 써서 틀렸어요. 3번은 be동사 is not 뒤에 동사원형 drink를 나란히 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → does not + 동사원형 (I, you, 복수 → do not)",
+   "narration": "정답은 5번이에요. 기억할 것, 3인칭 단수 주어에는 does not을 쓰고, 그 뒤에는 동사원형을 써요."
+  },
+  "captions": [
+   "일반동사 현재 부정문",
+   "먼저 풀어 보세요",
+   "do/does not + 동사원형",
+   "일반동사 → She → does not drink",
+   "정답 ⑤",
+   "3인칭 단수 → does not + 원형"
+  ],
+  "sec": [12, 19, 30, 34, 27, 10]
+ },
+ "C": {
+  "title": "일반동사 현재 부정문 does not",
+  "intro": "이 문제는 주어 Jane과 일반동사 studies가 쓰인 현재 문장을 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장을 부정문으로 바꾼 것을 고르세요. Jane studies English every night. 제인은 매일 밤 영어를 공부해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재 문장의 부정문(~하지 않아요) → do/does + not + 동사원형",
+    "3인칭 단수 주어(he, she, it, Mina 등) → does not (줄여서 doesn't)",
+    "I, you, 복수 주어(we, they 등) → do not (줄여서 don't)",
+    "do not, does not 뒤의 동사는 원형 (cries → cry)",
+    "예) My baby cries at night. → My baby does not cry at night. (우리 아기는 밤에 울지 않아요.)"
+   ],
+   "narration": "일반동사 현재 문장을 하지 않는다는 뜻의 부정문으로 바꿀 때는 동사 앞에 do not이나 does not을 써요. 주어가 he, she, it 같은 3인칭 단수이면 does not, I, you나 복수이면 do not을 써요. 뒤의 동사는 꼭 동사원형으로 써요. 예를 들어 My baby cries at night는 My baby does not cry at night가 돼요. 우리 아기는 밤에 울지 않아요."
+  },
+  "steps": [
+   {
+    "note": "studies = 일반동사 study의 현재형 → do/does가 필요. not만 넣은 ②, be동사 is not을 쓴 ⑤ 지움",
+    "highlight": [
+     "Jane studies English every night."
+    ],
+    "strike": [
+     "② Jane not studies English every night.",
+     "⑤ Jane is not study English every night."
+    ],
+    "narration": "첫째, studies는 일반동사 study의 현재형이니 do나 does가 필요해서, not만 넣은 2번과 be동사 is not을 쓴 5번은 지워요."
+   },
+   {
+    "note": "Jane = 3인칭 단수 → does not. do not을 쓴 ③ 지움",
+    "highlight": [
+     "Jane studies English every night."
+    ],
+    "strike": [
+     "③ Jane do not study English every night."
+    ],
+    "narration": "둘째, 주어 Jane은 3인칭 단수라서 does not을 쓰니, do not을 쓴 3번도 지워요."
+   },
+   {
+    "note": "does not 뒤는 동사원형 study → ① 지움, ④ 남음",
+    "highlight": [
+     "④ Jane does not study English every night."
+    ],
+    "strike": [
+     "① Jane does not studies English every night."
+    ],
+    "narration": "셋째, does not 뒤에는 동사원형 study를 쓰니 studies를 쓴 1번도 틀렸어요. 남는 것은 4번이에요. Jane does not study English every night. 제인은 매일 밤 영어를 공부하지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Jane does not studies English every night.  ✗  does not 뒤에 studies (→ study)",
+    "② Jane not studies English every night.  ✗  does 없이 not만 넣었어요",
+    "③ Jane do not study English every night.  ✗  Jane에는 do not이 아니라 does not",
+    "④ Jane does not study English every night.  ✓  Jane → does not + 동사원형 study",
+    "⑤ Jane is not study English every night.  ✗  be동사 is not과 동사원형 study를 나란히 썼어요"
+   ],
+   "narration": "정답은 4번이에요. 1번은 does not 뒤에 studies를 그대로 두어서 틀렸어요. does가 이미 주어에 맞춘 모양이니 동사는 원형 study로 써요. 3번은 동사원형은 맞지만, Jane에 does not이 아니라 do not을 써서 틀렸어요. 5번은 be동사 is not 뒤에 동사원형 study를 나란히 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → does not + 동사원형 (I, you, 복수 → do not)",
+   "narration": "정답은 4번이에요. 기억할 것, 3인칭 단수 주어에는 does not을 쓰고, 그 뒤에는 동사원형을 써요."
+  },
+  "captions": [
+   "일반동사 현재 부정문",
+   "먼저 풀어 보세요",
+   "do/does not + 동사원형",
+   "일반동사 → Jane → does not study",
+   "정답 ④",
+   "3인칭 단수 → does not + 원형"
+  ],
+  "sec": [12, 19, 30, 34, 27, 10]
+ },
+ "D": {
+  "title": "일반동사 현재 부정문 do not",
+  "intro": "이 문제는 주어 They와 일반동사 play가 쓰인 현재 문장을 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장을 부정문으로 바꾼 것을 고르세요. They play soccer after school. 그들은 방과 후에 축구를 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재 문장의 부정문(~하지 않아요) → do/does + not + 동사원형",
+    "I, you, 복수 주어(we, they 등) → do not (줄여서 don't)",
+    "3인칭 단수 주어(he, she, it, Mina 등) → does not (줄여서 doesn't)",
+    "do not, does not 뒤의 동사는 원형 (do not walks ✗ → do not walk)",
+    "예) We walk to school. → We do not walk to school. (우리는 걸어서 학교에 가지 않아요.)"
+   ],
+   "narration": "일반동사 현재 문장을 하지 않는다는 뜻의 부정문으로 바꿀 때는 동사 앞에 do not이나 does not을 써요. 주어가 I, you나 복수이면 do not, he, she, it 같은 3인칭 단수이면 does not을 써요. 뒤의 동사는 꼭 동사원형으로 써요. 예를 들어 We walk to school은 We do not walk to school이 돼요. 우리는 걸어서 학교에 가지 않아요."
+  },
+  "steps": [
+   {
+    "note": "play = 일반동사 현재형 → do/does가 필요. not만 넣은 ①, be동사 are not을 쓴 ④ 지움",
+    "highlight": [
+     "They play soccer after school."
+    ],
+    "strike": [
+     "① They not play soccer after school.",
+     "④ They are not play soccer after school."
+    ],
+    "narration": "첫째, play는 일반동사의 현재형이니 do나 does가 필요해서, not만 넣은 1번과 be동사 are not을 쓴 4번은 지워요."
+   },
+   {
+    "note": "They = 복수 → do not. does not을 쓴 ② 지움",
+    "highlight": [
+     "They play soccer after school."
+    ],
+    "strike": [
+     "② They does not play soccer after school."
+    ],
+    "narration": "둘째, 주어 They는 복수라서 do not을 쓰니, does not을 쓴 2번도 지워요."
+   },
+   {
+    "note": "do not 뒤는 동사원형 play → ③ 지움, ⑤ 남음",
+    "highlight": [
+     "⑤ They do not play soccer after school."
+    ],
+    "strike": [
+     "③ They do not plays soccer after school."
+    ],
+    "narration": "셋째, do not 뒤에는 동사원형 play를 쓰니 plays를 쓴 3번도 틀렸어요. 남는 것은 5번이에요. They do not play soccer after school. 그들은 방과 후에 축구를 하지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① They not play soccer after school.  ✗  do 없이 not만 넣었어요",
+    "② They does not play soccer after school.  ✗  복수 They에는 does not이 아니라 do not",
+    "③ They do not plays soccer after school.  ✗  do not 뒤에 plays (→ play)",
+    "④ They are not play soccer after school.  ✗  be동사 are not과 동사원형 play를 나란히 썼어요",
+    "⑤ They do not play soccer after school.  ✓  They → do not + 동사원형 play"
+   ],
+   "narration": "정답은 5번이에요. 2번은 동사원형 play는 맞지만, 복수 주어 They에 do not이 아니라 does not을 써서 틀렸어요. 3번은 do not 뒤에 plays를 써서 틀렸어요. do not 뒤에는 늘 동사원형을 써요. 4번은 be동사 are not 뒤에 동사원형 play를 나란히 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "I, you, 복수 주어 → do not + 동사원형 (3인칭 단수 → does not)",
+   "narration": "정답은 5번이에요. 기억할 것, I, you, 복수 주어에는 do not을 쓰고, 그 뒤에는 동사원형을 써요."
+  },
+  "captions": [
+   "일반동사 현재 부정문",
+   "먼저 풀어 보세요",
+   "do/does not + 동사원형",
+   "일반동사 → They → do not play",
+   "정답 ⑤",
+   "I·you·복수 → do not + 원형"
+  ],
+  "sec": [12, 19, 30, 34, 27, 10]
+ },
+ "E": {
+  "title": "일반동사 현재 부정문 do not",
+  "intro": "이 문제는 주어 I와 일반동사 like가 쓰인 현재 문장을 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장을 부정문으로 바꾼 것을 고르세요. I like coffee with milk in the morning. 나는 아침에 우유를 넣은 커피를 좋아해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재 문장의 부정문(~하지 않아요) → do/does + not + 동사원형",
+    "I, you, 복수 주어(we, they 등) → do not (줄여서 don't)",
+    "3인칭 단수 주어(he, she, it, Mina 등) → does not (줄여서 doesn't)",
+    "do not, does not 뒤의 동사는 원형 (do not eats ✗ → do not eat)",
+    "예) I eat fish. → I do not eat fish. (나는 생선을 먹지 않아요.)"
+   ],
+   "narration": "일반동사 현재 문장을 하지 않는다는 뜻의 부정문으로 바꿀 때는 동사 앞에 do not이나 does not을 써요. 주어가 I, you나 복수이면 do not, he, she, it 같은 3인칭 단수이면 does not을 써요. 뒤의 동사는 꼭 동사원형으로 써요. 예를 들어 I eat fish는 I do not eat fish가 돼요. 나는 생선을 먹지 않아요."
+  },
+  "steps": [
+   {
+    "note": "like = 일반동사 현재형 → do/does가 필요. not만 넣은 ②, be동사 am not을 쓴 ③ 지움",
+    "highlight": [
+     "I like coffee with milk in the morning."
+    ],
+    "strike": [
+     "② I not like coffee with milk in the morning.",
+     "③ I am not like coffee with milk in the morning."
+    ],
+    "narration": "첫째, like는 일반동사의 현재형이니 do나 does가 필요해서, not만 넣은 2번과 be동사 am not을 쓴 3번은 지워요."
+   },
+   {
+    "note": "주어 I → do not. does not을 쓴 ⑤ 지움",
+    "highlight": [
+     "I like coffee with milk in the morning."
+    ],
+    "strike": [
+     "⑤ I does not like coffee with milk in the morning."
+    ],
+    "narration": "둘째, 주어 I에는 do not을 쓰니, does not을 쓴 5번도 지워요."
+   },
+   {
+    "note": "do not 뒤는 동사원형 like → ① 지움, ④ 남음",
+    "highlight": [
+     "④ I do not like coffee with milk in the morning."
+    ],
+    "strike": [
+     "① I do not likes coffee with milk in the morning."
+    ],
+    "narration": "셋째, do not 뒤에는 동사원형 like를 쓰니 likes를 쓴 1번도 틀렸어요. 남는 것은 4번이에요. I do not like coffee with milk in the morning. 나는 아침에 우유를 넣은 커피를 좋아하지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I do not likes coffee with milk in the morning.  ✗  do not 뒤에 likes (→ like)",
+    "② I not like coffee with milk in the morning.  ✗  do 없이 not만 넣었어요",
+    "③ I am not like coffee with milk in the morning.  ✗  be동사 am not과 동사원형 like를 나란히 썼어요",
+    "④ I do not like coffee with milk in the morning.  ✓  I → do not + 동사원형 like",
+    "⑤ I does not like coffee with milk in the morning.  ✗  I에는 does not이 아니라 do not"
+   ],
+   "narration": "정답은 4번이에요. 1번은 do not 뒤에 likes를 써서 틀렸어요. do not 뒤에는 늘 동사원형을 써요. 3번은 be동사 am not 뒤에 동사원형 like를 나란히 써서 틀렸어요. 5번 does not은 3인칭 단수 주어에 쓰고, I에는 do not을 써요."
+  },
+  "summary": {
+   "card": "I, you, 복수 주어 → do not + 동사원형 (3인칭 단수 → does not)",
+   "narration": "정답은 4번이에요. 기억할 것, I, you, 복수 주어에는 do not을 쓰고, 그 뒤에는 동사원형을 써요."
+  },
+  "captions": [
+   "일반동사 현재 부정문",
+   "먼저 풀어 보세요",
+   "do/does not + 동사원형",
+   "일반동사 → I → do not like",
+   "정답 ④",
+   "I·you·복수 → do not + 원형"
+  ],
+  "sec": [12, 20, 28, 36, 25, 10]
+ },
+ "F": {
+  "title": "일반동사 현재 부정문 does not",
+  "intro": "이 문제는 주어 Tom과 일반동사 goes가 쓰인 현재 문장을 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+  "problem_narration": "다음 문장을 부정문으로 바꾼 것을 고르세요. Tom goes to school by bus. 톰은 버스를 타고 학교에 가요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재 문장의 부정문(~하지 않아요) → do/does + not + 동사원형",
+    "3인칭 단수 주어(he, she, it, Mina 등) → does not (줄여서 doesn't)",
+    "I, you, 복수 주어(we, they 등) → do not (줄여서 don't)",
+    "do not, does not 뒤의 동사는 원형 (runs → run)",
+    "예) My dog runs fast. → My dog does not run fast. (우리 개는 빨리 달리지 않아요.)"
+   ],
+   "narration": "일반동사 현재 문장을 하지 않는다는 뜻의 부정문으로 바꿀 때는 동사 앞에 do not이나 does not을 써요. 주어가 he, she, it 같은 3인칭 단수이면 does not, I, you나 복수이면 do not을 써요. 뒤의 동사는 꼭 동사원형으로 써요. 예를 들어 My dog runs fast는 My dog does not run fast가 돼요. 우리 개는 빨리 달리지 않아요."
+  },
+  "steps": [
+   {
+    "note": "goes = 일반동사 go의 현재형 → do/does가 필요. not만 넣은 ②, be동사 is not을 쓴 ③ 지움",
+    "highlight": [
+     "Tom goes to school by bus."
+    ],
+    "strike": [
+     "② Tom not goes to school by bus.",
+     "③ Tom is not go to school by bus."
+    ],
+    "narration": "첫째, goes는 일반동사 go의 현재형이니 do나 does가 필요해서, not만 넣은 2번과 be동사 is not을 쓴 3번은 지워요."
+   },
+   {
+    "note": "Tom = 3인칭 단수 → does not. do not을 쓴 ① 지움",
+    "highlight": [
+     "Tom goes to school by bus."
+    ],
+    "strike": [
+     "① Tom do not go to school by bus."
+    ],
+    "narration": "둘째, 주어 Tom은 3인칭 단수라서 does not을 쓰니, do not을 쓴 1번도 지워요."
+   },
+   {
+    "note": "does not 뒤는 동사원형 go → ④ 지움, ⑤ 남음",
+    "highlight": [
+     "⑤ Tom does not go to school by bus."
+    ],
+    "strike": [
+     "④ Tom does not goes to school by bus."
+    ],
+    "narration": "셋째, does not 뒤에는 동사원형 go를 쓰니 goes를 쓴 4번도 틀렸어요. 남는 것은 5번이에요. Tom does not go to school by bus. 톰은 버스를 타고 학교에 가지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Tom do not go to school by bus.  ✗  Tom에는 do not이 아니라 does not",
+    "② Tom not goes to school by bus.  ✗  does 없이 not만 넣었어요",
+    "③ Tom is not go to school by bus.  ✗  be동사 is not과 동사원형 go를 나란히 썼어요",
+    "④ Tom does not goes to school by bus.  ✗  does not 뒤에 goes (→ go)",
+    "⑤ Tom does not go to school by bus.  ✓  Tom → does not + 동사원형 go"
+   ],
+   "narration": "정답은 5번이에요. 4번은 does not 뒤에 goes를 그대로 두어서 틀렸어요. does가 이미 주어에 맞춘 모양이니 동사는 원형 go로 써요. 1번은 동사원형은 맞지만, Tom에 does not이 아니라 do not을 써서 틀렸어요. 3번은 be동사 is not 뒤에 동사원형 go를 나란히 써서 틀렸어요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → does not + 동사원형 (I, you, 복수 → do not)",
+   "narration": "정답은 5번이에요. 기억할 것, 3인칭 단수 주어에는 does not을 쓰고, 그 뒤에는 동사원형을 써요."
+  },
+  "captions": [
+   "일반동사 현재 부정문",
+   "먼저 풀어 보세요",
+   "do/does not + 동사원형",
+   "일반동사 → Tom → does not go",
+   "정답 ⑤",
+   "3인칭 단수 → does not + 원형"
+  ],
+  "sec": [12, 19, 30, 34, 27, 10]
+ }
+}

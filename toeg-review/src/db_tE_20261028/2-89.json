@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:25:03.291Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "(A), (B)",
+      "1": "(B), (D)",
+      "2": "(C), (D)",
+      "3": "(A), (E)",
+      "4": "(A), (C)"
+    },
+    "expl": "핵심 규칙: one of + (the + 최상급 / 소유격) + 복수명사로 ‘~ 중 하나’를 나타낸다. people·men·women·children 같은 불규칙 복수형도 확인한다.\n풀이 순서: ① 밑줄은 모두 one of 뒤의 명사다. ‘~ 중 하나’이므로 복수명사가 와야 한다. → ② 단수형으로 쓴 문장을 지운다: (B) man, (D) question, (E) woman. people, men, women, children처럼 -s가 없는 복수형은 옳다. → ③ 남은 두 문장을 묶은 (A), (C)가 정답이다.\n문장별 판정:\n(A) O. one of + 복수명사(restaurants)이다.\n(B) X. one of 뒤에는 복수명사(men)를 쓴다.\n(C) O. one of + 복수명사(cousins)이다.\n(D) X. one of 뒤에는 복수명사(questions)를 쓴다.\n(E) X. one of 뒤에는 복수명사(women)를 쓴다.\n정답 판단: 옳은 문장은 (A), (C)이고, 이 문장들로만 묶인 보기가 정답이다.\n선택지 분석:\n① [오답] (B)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (B), (D)는 옳은 문장이 아니고, 옳은 문장 (A), (C)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (D)는 옳은 문장이 아니고, 옳은 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (E)는 옳은 문장이 아니고, 옳은 문장 (C)를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 옳은 문장 (A), (C)를 빠짐없이 골랐으므로 정답이다.",
+    "passage": "<보기>\n(A) One of the best <u>restaurants</u> in our city is near the station.\n(B) He is one of the richest <u>man</u> in our small town.\n(C) One of my <u>cousins</u> is a pilot for a big airline.\n(D) This is one of the easiest <u>question</u> on the math test.\n(E) She is one of the kindest <u>woman</u> I have ever met in my life.",
+    "stem": "<보기>의 문장 중 밑줄 친 부분이 어법상 옳은 것만으로 묶인 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T01:12:24.023Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:12:37.340Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:25:03.291Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:24:53.232Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:25:03.291Z",
+      "what": "확인 완료"
+    }
+  }
+}

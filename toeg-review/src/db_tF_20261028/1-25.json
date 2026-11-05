@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-26T06:33:52.016Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "B, D, F",
+      "1": "A, B, C",
+      "2": "C, D, E",
+      "3": "A, E, F",
+      "4": "B, C, D"
+    },
+    "expl": "핵심 규칙: 조동사 뒤 원형, would rather A than B의 원형 병렬, used to + 원형과 be used to + 동명사를 구별한다. 옳고 틀린 문장을 먼저 판정한 뒤 틀린 문장을 빠짐없이 선택한다.\n풀이 순서: ① 문장마다 조동사 표현 뒤의 동사 형태를 확인한다. → ② B는 might have 뒤에 과거형 took을, D는 used to 뒤에 getting을, F는 has to 뒤에 studies를 썼다. A의 would rather read than watch, C의 cannot have known, E의 used to be는 옳다. → ③ 틀린 세 문장만 모은 B, D, F를 고른다.\n문장별 판정:\nA) 옳음: would rather read than watch에서 read와 watch가 모두 동사원형이다.\nB) 틀림: might have 뒤에는 과거분사를 쓴다. might have took → might have taken.\nC) 옳음: cannot have known은 과거에 모든 것을 알았을 가능성을 강하게 부정한다.\nD) 틀림: 과거의 습관을 나타내는 used to 뒤에는 동사원형을 쓴다. used to getting up → used to get up(익숙함이라면 am used to getting up).\nE) 옳음: used to be가 과거에 공장이 있었다는 상태를 나타낸다.\nF) 틀림: has to 뒤에는 동사원형을 쓴다. has to studies → has to study.\n정답 판단: 어법상 틀린 문장은 B, D, F이다.\n선택지 분석:\n① [정답] 틀린 문장 B, D, F를 빠짐없이 골랐으므로 정답이다.\n② [오답] A, C는 틀린 문장이 아니고, 틀린 문장 D, F를 빠뜨렸다. 따라서 오답이다.\n③ [오답] C, E는 틀린 문장이 아니고, 틀린 문장 B, F를 빠뜨렸다. 따라서 오답이다.\n④ [오답] A, E는 틀린 문장이 아니고, 틀린 문장 B, D를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] C는 틀린 문장이 아니고, 틀린 문장 F를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "A) Jane would rather read a novel than watch TV at night.\nB) Tom might have took the wrong bus to the stadium.\nC) He cannot have known everything about the plan.\nD) I used to getting up early when I was a child.\nE) There used to be a big factory near the river.\nF) Mina has to studies more for the final exam.",
+    "stem": "다음 중 어법상 틀린 문장들로만 구성된 것을 고르시오."
+  },
+  "tab": "ij7ic6nx",
+  "updatedAt": "2026-10-26T06:33:52.016Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:33:52.016Z",
+      "what": "확인 완료"
+    }
+  }
+}

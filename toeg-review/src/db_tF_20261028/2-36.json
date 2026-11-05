@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T09:57:59.937Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "was designed",
+      "1": "is designing",
+      "2": "designed",
+      "3": "was designing",
+      "4": "has being designed"
+    },
+    "expl": "핵심 규칙: 앞 질문에서 묻는 과거 행위에 대해 B의 주어는 작업을 받는 대상이다. 단수 주어 It의 과거 수동태는 was+과거분사이고 by 뒤에는 행위자가 온다.\n풀이 순서: ① B의 주어 It(건물)은 동작을 받는 대상이고 빈칸 뒤에 by ~가 있다. 수동태다. → ② A가 과거형(designed)으로 물었으므로 과거의 일이다. → ③ 과거 수동태 was designed가 정답이다. 능동형과 진행형 보기는 지운다.\n문장별 판정:\n정답 판단: It은 앞 문장의 건물을 가리키며 작업을 받는 대상이다. Who designed가 묻는 과거 사건의 수동태는 was designed이다. 완성 표현: was designed.\n선택지 분석:\n① [정답] It은 앞 문장의 건물을 가리키며 작업을 받는 대상이다. Who designed가 묻는 과거 사건의 수동태는 was designed이다. 완성 표현: was designed.\n② [오답] is designing은 능동 현재진행형이다. 대상이 과거에 작업을 받았다는 뜻의 수동태가 아니다. 완성 표현: was designed.\n③ [오답] 동사 과거형만으로는 by 뒤 행위자에 의해 작업을 받는 수동 관계를 나타내지 못한다. was designed가 필요하다. 완성 표현: was designed.\n④ [오답] was designing은 능동 과거진행형이다. 주어가 작업을 하는 것이 아니라 받는 대상이므로 was designed로 고친다. 완성 표현: was designed.\n⑤ [오답] 완료 조동사 has 뒤에 being을 바로 둘 수 없다. 이 문항이 묻는 과거 수동형은 was designed이다. 완성 표현: was designed.",
+    "passage": "A: Who designed this beautiful building near the river?\nB: It _____ by a young architect from Seoul in 2010.",
+    "stem": "다음 빈칸에 들어갈 말로 가장 알맞은 것은?"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T09:57:59.937Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T09:57:59.937Z",
+      "what": "확인 완료"
+    }
+  }
+}

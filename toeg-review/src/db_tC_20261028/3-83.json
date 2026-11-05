@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-28T03:30:19.952Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "I stopped <u>eating</u> sweets after my visit to the dentist.",
+      "1": "Look at the <u>running</u> dog over there by the fence.",
+      "2": "<u>Keeping</u> a pet is not easy for a busy student.",
+      "3": "She is afraid of <u>flying</u> in a small plane.",
+      "4": "His favorite hobby is <u>fishing</u> at the lake on weekends."
+    },
+    "expl": "핵심 규칙: 동명사와 현재분사는 모두 -ing형이다. 동명사는 명사 역할(주어, 목적어, 보어, 전치사의 목적어)을 하고, 현재분사는 be동사와 진행형을 만들거나 명사를 꾸미는 형용사 역할을 한다.\n풀이 순서: ① 밑줄 친 -ing형 바로 앞을 본다. be동사가 있으면 진행형(현재분사)일 수 있다. → ② ‘~하는 것’으로 풀리면 동명사, ‘~하고 있다’로 풀리면 현재분사다. → ③ 선택지 ②만 명사 dog를 꾸미는 현재분사(달리고 있는)다. 나머지는 주어·목적어·보어·전치사 뒤의 동명사다. 정답은 ②.\n문장별 판정:\n정답 판단: 현재분사: 명사 dog를 꾸미는 형용사 역할을 해 나머지와 쓰임이 달라 정답은 ②이다.\n선택지 분석:\n① [오답] 동명사: stop의 목적어로 쓰였으므로 오답이다.\n② [정답] 현재분사: 명사 dog를 꾸미는 형용사 역할을 해 나머지와 쓰임이 달라 정답이다.\n③ [오답] 동명사: 문장의 주어로 쓰였으므로 오답이다.\n④ [오답] 동명사: 전치사 of의 목적어로 쓰였으므로 오답이다.\n⑤ [오답] 동명사: 주어를 설명하는 보어로 쓰였으므로 오답이다.",
+    "passage": "",
+    "stem": "다음 밑줄 친 부분의 쓰임이 다른 하나를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:13:09.057Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:13:29.769Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:30:19.952Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:29:55.382Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:30:19.952Z",
+      "what": "확인 완료"
+    }
+  }
+}

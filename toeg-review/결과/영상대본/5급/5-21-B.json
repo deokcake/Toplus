@@ -1,0 +1,182 @@
+{
+ "key": "5-21",
+ "type": "B",
+ "grade": 5,
+ "chapter": "CH 3 be동사와 일반동사 과거",
+ "title": "동사의 과거형과 현재형 구별",
+ "total_sec": 134,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "5급 · CH 3 be동사와 일반동사 과거 · 21번 · B 유형\n\n이 문제는 동사의 모양을 보고 과거를 나타내지 않는 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 3 be동사와 일반동사 과거 · 21번 · B 유형",
+     "이 문제는 동사의 모양을 보고 과거를 나타내지 않는 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 3, 21번 B 유형. 이 문제는 동사의 모양을 보고 과거를 나타내지 않는 문장을 고르는 문제예요.",
+   "caption": "과거가 아닌 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 19,
+   "screen": {
+    "text": "다음 중 과거를 나타내는 문장이 아닌 것을 고르시오.\n\n① We were tired after the trip.\n② Mina called me last night.\n③ Tom bought a new backpack yesterday.\n④ They visited the museum last Saturday.\n⑤ The train leaves at six every morning.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 과거를 나타내는 문장이 아닌 것을 고르시오.",
+     "① We were tired after the trip.",
+     "② Mina called me last night.",
+     "③ Tom bought a new backpack yesterday.",
+     "④ They visited the museum last Saturday.",
+     "⑤ The train leaves at six every morning."
+    ]
+   },
+   "narration": "다음 중 과거를 나타내는 문장이 아닌 것을 고르세요. 다섯 문장 가운데 과거가 아닌 문장 하나를 찾아야 해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n과거의 일은 동사의 과거형으로 나타내요.\n과거형: cleaned처럼 ed로 끝나는 것이 많고, went(go)처럼 모양이 바뀌기도 해요.\nbe동사의 과거형 was, were · did, didn't로 묻거나 부정하는 문장도 과거\n현재형은 주로 지금의 습관이나 사실을 나타내요.\n예) I walked to school yesterday. (나는 어제 학교에 걸어갔어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "과거의 일은 동사의 과거형으로 나타내요.",
+     "과거형: cleaned처럼 ed로 끝나는 것이 많고, went(go)처럼 모양이 바뀌기도 해요.",
+     "be동사의 과거형 was, were · did, didn't로 묻거나 부정하는 문장도 과거",
+     "현재형은 주로 지금의 습관이나 사실을 나타내요.",
+     "예) I walked to school yesterday. (나는 어제 학교에 걸어갔어요.)"
+    ]
+   },
+   "narration": "과거의 일은 동사의 과거형으로 나타내요. 과거형은 cleaned처럼 ed로 끝나는 것이 많고, go가 went로 바뀌듯 모양이 달라지기도 해요. be동사의 과거형은 was와 were이고, did나 didn't로 묻거나 부정하는 문장도 과거예요. 현재형은 주로 지금의 습관이나 사실을 나타내요. I walked to school yesterday. 나는 어제 학교에 걸어갔어요.",
+   "caption": "과거의 일은 과거형으로"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 중 과거를 나타내는 문장이 아닌 것을 고르시오.\n\n① We were tired after the trip.\n② Mina called me last night.\n③ Tom bought a new backpack yesterday.\n④ They visited the museum last Saturday.\n⑤ The train leaves at six every morning.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "were",
+       "called",
+       "visited"
+      ],
+      "strike": [
+       "① We were tired after the trip.",
+       "② Mina called me last night.",
+       "④ They visited the museum last Saturday."
+      ],
+      "note": "동사의 모양을 본다: were(are의 과거형), called·visited(ed) → 과거. ①②④ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "bought",
+       "yesterday"
+      ],
+      "strike": [
+       "③ Tom bought a new backpack yesterday."
+      ],
+      "note": "bought = buy의 과거형(모양이 바뀜) + yesterday(어제) → 과거. ③ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "leaves",
+       "every morning"
+      ],
+      "strike": [],
+      "note": "남는 ⑤ leaves = 현재형 + every morning(매일 아침) → 되풀이되는 일, 과거가 아님"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 동사의 모양을 봐요. 1번 were는 are의 과거형이고, 2번 called와 4번 visited는 ed로 끝나는 과거형이에요. 둘째, 3번 bought는 buy의 모양이 바뀐 과거형이고, 어제라는 뜻의 yesterday도 있어 과거예요. 셋째, 남은 5번 leaves는 현재형이고, 매일 아침이라는 뜻의 every morning과 함께 되풀이되는 일을 나타내요. The train leaves at six every morning. 그 기차는 매일 아침 여섯 시에 떠나요.",
+   "caption": "동사 모양 보기 → 현재형 찾기"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① We were tired after the trip.  ✗  were는 are의 과거형\n② Mina called me last night.  ✗  called는 ed로 끝나는 과거형 + last night(어젯밤)\n③ Tom bought a new backpack yesterday.  ✗  bought는 buy의 과거형 + yesterday(어제)\n④ They visited the museum last Saturday.  ✗  visited는 ed로 끝나는 과거형 + last Saturday(지난 토요일)\n⑤ The train leaves at six every morning.  ✓  leaves는 현재형, 매일 되풀이되는 일",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① We were tired after the trip.  ✗  were는 are의 과거형",
+     "② Mina called me last night.  ✗  called는 ed로 끝나는 과거형 + last night(어젯밤)",
+     "③ Tom bought a new backpack yesterday.  ✗  bought는 buy의 과거형 + yesterday(어제)",
+     "④ They visited the museum last Saturday.  ✗  visited는 ed로 끝나는 과거형 + last Saturday(지난 토요일)",
+     "⑤ The train leaves at six every morning.  ✓  leaves는 현재형, 매일 되풀이되는 일"
+    ]
+   },
+   "narration": "정답은 5번이에요. 1번은 때를 나타내는 말이 없지만, were가 are의 과거형이라 과거예요. 3번 bought는 ed로 끝나지 않아도 buy의 과거형이에요. 5번은 현재형 leaves를 써서 매일 아침 되풀이되는 일을 말하니 과거가 아니에요.",
+   "caption": "정답 ⑤ The train leaves …"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ⑤ The train leaves at six every morning.\n\n과거의 일 → 동사의 과거형  ·  현재형 → 주로 지금의 습관·사실",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ The train leaves at six every morning.",
+     "과거의 일 → 동사의 과거형  ·  현재형 → 주로 지금의 습관·사실"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 과거의 일은 동사의 과거형으로 나타내고, 현재형은 주로 지금의 습관이나 사실을 나타내요.",
+   "caption": "과거형은 과거, 현재형은 지금"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 과거를 나타내는 문장이 아닌 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "We were tired after the trip.",
+   "Mina called me last night.",
+   "Tom bought a new backpack yesterday.",
+   "They visited the museum last Saturday.",
+   "The train leaves at six every morning."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 과거의 문장은 동사의 과거형(-ed, 불규칙 과거형, was/were, did)을 쓴다. 현재형(-s, 동사원형)은 지금의 습관·사실을 나타낸다.\n풀이 순서: ① 문장마다 동사의 형태를 본다. hit처럼 현재형과 과거형이 같은 동사는 last night 같은 때를 나타내는 말로 가른다. → ② 과거형(-ed, 불규칙, was/were, did)인 문장을 지운다. → ③ 선택지 ⑤의 leaves는 현재형이고 every morning도 지금의 습관을 나타낸다. 정답은 ⑤.\n문장별 판정:\n정답 판단: The train leaves at six every morning. — 현재형 동사 또는 현재·반복을 나타내는 시간 표현이 쓰여 과거시제 문장이 아니다. 따라서 정답은 ⑤이다.\n선택지 분석:\n① [오답] We were tired after the trip. — 과거형 동사, was/were, did/didn't 또는 yesterday/last/ago 같은 과거 단서가 있어 과거를 나타낸다. 따라서 '과거가 아닌 문장'이 아니다.\n② [오답] Mina called me last night. — 과거형 동사, was/were, did/didn't 또는 yesterday/last/ago 같은 과거 단서가 있어 과거를 나타낸다. 따라서 '과거가 아닌 문장'이 아니다.\n③ [오답] Tom bought a new backpack yesterday. — 과거형 동사, was/were, did/didn't 또는 yesterday/last/ago 같은 과거 단서가 있어 과거를 나타낸다. 따라서 '과거가 아닌 문장'이 아니다.\n④ [오답] They visited the museum last Saturday. — 과거형 동사, was/were, did/didn't 또는 yesterday/last/ago 같은 과거 단서가 있어 과거를 나타낸다. 따라서 '과거가 아닌 문장'이 아니다.\n⑤ [정답] The train leaves at six every morning. — 현재형 동사 또는 현재·반복을 나타내는 시간 표현이 쓰여 과거시제 문장이 아니다. 따라서 정답이다."
+ }
+}

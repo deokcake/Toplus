@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T07:52:01.923Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "(A) shall - (B) Why - (C) What",
+      "1": "(A) shall - (B) How - (C) How",
+      "2": "(A) will - (B) How - (C) What",
+      "3": "(A) shall - (B) Why - (C) Why",
+      "4": "(A) don't - (B) Why - (C) How"
+    },
+    "expl": "핵심 규칙: Let's ~의 부가의문문은 shall we?, 명령문의 부가의문문은 will you?이다. 제안은 Why don't we + 동사원형 / How(What) about + -ing로 하고, 감탄문은 a/an + 명사 앞에 What, 형용사 앞에 How를 쓴다.\n풀이 순서: ① (A): Let's ~ 뒤의 부가의문문은 shall we다. → ② (B): 뒤에 about + -ing가 있으므로 How about ~?(~하는 게 어때?)이다. → ③ (C): 형용사 exciting만 있고 명사가 없으므로 How다. 정답은 (A) shall - (B) How - (C) How.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ②이다.\n선택지 분석:\n① [오답] (B) 빈칸 Why: about + -ing로 제안하므로 How가 알맞다, (C) 빈칸 What: 형용사 exciting 앞의 감탄문은 How이다. 따라서 오답이다.\n② [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n③ [오답] (A) 빈칸 will: Let's ~의 부가의문문은 shall we이다, (C) 빈칸 What: 형용사 exciting 앞의 감탄문은 How이다. 따라서 오답이다.\n④ [오답] (B) 빈칸 Why: about + -ing로 제안하므로 How가 알맞다, (C) 빈칸 Why: 형용사 exciting 앞의 감탄문은 How이다. 따라서 오답이다.\n⑤ [오답] (A) 빈칸 don't: Let's ~의 부가의문문은 shall we이다, (B) 빈칸 Why: about + -ing로 제안하므로 How가 알맞다. 따라서 오답이다.",
+    "passage": "A: Let's go camping this weekend, (A)_____ we?\nB: Great! (B)_____ about bringing a tent?\nA: Good idea. (C)_____ exciting it will be!",
+    "stem": "다음 대화의 빈칸 (A)~(C)에 들어갈 표현으로 알맞게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-20T07:51:47.515Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:29:13.456Z",
+      "text": "기준 문항과 변형 문항 모두 지문 마지막에 (A), (B), (C)가 불필요하게 나온다. 선택지 각각에 ABC 등 구분을 주는 것이 더 적절함."
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T07:52:01.923Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T07:52:00.486Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T07:52:01.923Z",
+      "what": "확인 완료"
+    }
+  }
+}

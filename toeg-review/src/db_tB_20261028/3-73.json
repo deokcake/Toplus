@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:55:40.390Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "The shoes were very small for him to wear.",
+      "1": "The shoes were too small for him to wear them.",
+      "2": "The shoes were too small for him to wear.",
+      "3": "The shoes were too small for him for wear.",
+      "4": "The shoes were enough small for him to wear."
+    },
+    "expl": "핵심 규칙: too + 형용사 + for + 목적격 + to + 동사원형은 ‘너무 ~해서 …가 ~할 수 없다’는 뜻이다. 주어가 to부정사 동사의 목적어이면 목적어를 다시 쓰지 않는다.\n풀이 순서: ① ‘very + 형용사 … couldn't’를 ‘too + 형용사 + to + 동사원형’(너무 ~해서 …할 수 없다)으로 바꾼다. → ② too는 형용사(small) 앞에 둔다. 문장의 주어(The shoes)가 to부정사의 목적어이므로 뒤에 it(them)을 다시 쓰지 않는다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: too + 형용사 + for + 목적격 + to + 동사원형으로 바르게 바꿨으므로 정답은 ③이다.\n선택지 분석:\n① [오답] ‘너무 ~해서 ~할 수 없다’는 very가 아니라 too로 나타내므로 오답이다.\n② [오답] 주어 The shoes가 wear의 목적어이고, them을 다시 쓰지 않으므로 오답이다.\n③ [정답] too + 형용사 + for + 목적격 + to + 동사원형으로 바르게 바꿨으므로 정답이다.\n④ [오답] for 뒤가 아니라 to 뒤에 동사원형을 쓰므로 오답이다.\n⑤ [오답] enough는 뜻(충분히)도 맞지 않고 형용사 뒤에 쓰므로 오답이다.",
+    "passage": "The shoes were very small. He couldn't wear them.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T08:55:31.123Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T08:55:40.390Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T08:55:40.390Z",
+      "what": "확인 완료"
+    }
+  }
+}

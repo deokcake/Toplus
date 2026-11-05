@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T06:39:45.563Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "(A)의 hide는 자동사라 원형을 쓰고, (B)의 come out은 구동사라 to부정사를 쓴다.",
+      "1": "(A)는 개가 스스로 한 행동이라 원형을, (B)는 억지로 한 행동이라 to부정사를 쓴다.",
+      "2": "(B)의 to come out은 ‘나오기 위해’라는 목적을 나타내는 부사적 용법이다.",
+      "3": "(A)는 make + 목적어 + 원형부정사의 능동태이고, (B)는 수동태 be made 뒤에서 목적격 보어 앞에 to가 다시 나타난 것이다.",
+      "4": "(A)는 밤의 일, (B)는 다음 날 아침의 일이라 시제 차이 때문에 보어 형태가 달라졌다."
+    },
+    "expl": "핵심 규칙: 사역동사 make + 목적어 + 원형부정사를 수동태로 바꾸면 be made + to부정사가 된다. to의 유무는 시제·목적어의 종류·동사의 자타가 아니라 능동과 수동 구조의 차이에서 생긴다.\n풀이 순서: ① (A)와 (B)의 동사 모양을 견준다. (A)는 능동태(made the dog hide), (B)는 be동사가 붙은 수동태(was made to come out)다. → ② 사역동사 make의 목적격 보어는 능동태에서는 원형부정사, 수동태에서는 to부정사다. 차이의 원인은 태(능동/수동)뿐이다. → ③ 시제, 목적어의 종류, 부사적 용법, 자동사·타동사를 이유로 든 보기를 지운다. 정답은 ④.\n문장별 판정:\n정답 판단: 능동의 make + 목적어 + 원형부정사가 수동태 be made가 되면서 to가 다시 나타난다는 설명이 정확하다. 정답은 ④이다.\n선택지 분석:\n① [오답] 구동사인지 아닌지는 to의 유무와 관계없다. to는 수동 구조 때문에 나타난다.\n② [오답] (A)도 천둥 때문에 억지로 숨은 것이다. 행동의 성격이 아니라 능동·수동 차이다.\n③ [오답] to come out은 목적이 아니라 be made의 보어이다. ‘나오게 되었다’는 뜻이다.\n④ [정답] 능동의 make + 목적어 + 원형부정사가 수동태 be made가 되면서 to가 다시 나타난다는 설명이 정확하다. 정답이다.\n⑤ [오답] 두 문장 모두 과거 시제이다. 시제 차이가 아니다.",
+    "passage": "The loud thunder (A)<u>made the dog hide</u> under the bed. The next morning, the dog (B)<u>was made to come out</u> by the smell of food.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T06:39:38.913Z"
+  },
+  "tab": "ij7ic6nx",
+  "updatedAt": "2026-10-26T06:39:45.563Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:39:45.563Z",
+      "what": "확인 완료"
+    }
+  }
+}

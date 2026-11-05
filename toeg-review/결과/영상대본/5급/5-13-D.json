@@ -1,0 +1,181 @@
+{
+ "key": "5-13",
+ "type": "D",
+ "grade": 5,
+ "chapter": "CH 2 be동사와 일반동사",
+ "title": "주어에 맞는 현재형 동사의 형태",
+ "total_sec": 127,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 2 be동사와 일반동사 · 13번 · D 유형\n\n이 문제는 일반동사와 be동사가 주어에 맞는 형태인지 살펴, 동사의 형태가 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 2 be동사와 일반동사 · 13번 · D 유형",
+     "이 문제는 일반동사와 be동사가 주어에 맞는 형태인지 살펴, 동사의 형태가 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 2, 13번 D 유형. 이 문제는 일반동사와 be동사가 주어에 맞는 형태인지 살펴, 동사의 형태가 틀린 문장을 고르는 문제예요.",
+   "caption": "동사의 형태가 틀린 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 동사의 형태가 틀린 문장을 고르시오.\n\n① Mina fixes her bike.\n② We are good friends.\n③ My brother play soccer.\n④ The birds sing in the morning.\n⑤ She tries her best.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 동사의 형태가 틀린 문장을 고르시오.",
+     "① Mina fixes her bike.",
+     "② We are good friends.",
+     "③ My brother play soccer.",
+     "④ The birds sing in the morning.",
+     "⑤ She tries her best."
+    ]
+   },
+   "narration": "다음 중 동사의 형태가 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n현재형: 주어가 3인칭 단수(he, she, it, Tom) → 일반동사 + s/es\n자음 + y로 끝나면 y를 i로 바꾸고 es (cry → cries) · have → has\n주어가 I, you, we, they, 복수 → 일반동사는 동사원형\nbe동사: I → am · 3인칭 단수 → is · you, 복수 → are\n예) He reads comic books. (그는 만화책을 읽어요.)  His friends read comic books, too. (그의 친구들도 만화책을 읽어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재형: 주어가 3인칭 단수(he, she, it, Tom) → 일반동사 + s/es",
+     "자음 + y로 끝나면 y를 i로 바꾸고 es (cry → cries) · have → has",
+     "주어가 I, you, we, they, 복수 → 일반동사는 동사원형",
+     "be동사: I → am · 3인칭 단수 → is · you, 복수 → are",
+     "예) He reads comic books. (그는 만화책을 읽어요.)  His friends read comic books, too. (그의 친구들도 만화책을 읽어요.)"
+    ]
+   },
+   "narration": "현재형은 주로 평소에 하는 일이나 사실을 말하고, 일반동사와 be동사의 모양은 주어에 맞춰 골라요. 주어가 he, she, it이나 Tom처럼 3인칭 단수이면 일반동사에 s나 es를 붙이는데, 자음 다음 y로 끝나면 y를 i로 바꿔 es를 붙이고, have는 has로 써요. 주어가 I, you, we, they이거나 여럿이면 일반동사는 동사원형을 쓰고, be동사는 I에 am, 3인칭 단수에 is, you와 여럿에 are를 써요. 예를 들어 He reads comic books, 그는 만화책을 읽어요. His friends read comic books, too. 그의 친구들도 만화책을 읽어요.",
+   "caption": "주어에 맞는 동사 모양"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 동사의 형태가 틀린 문장을 고르시오.\n\n① Mina fixes her bike.\n② We are good friends.\n③ My brother play soccer.\n④ The birds sing in the morning.\n⑤ She tries her best.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Mina",
+       "My brother",
+       "She",
+       "We",
+       "The birds"
+      ],
+      "strike": [],
+      "note": "주어 찾기: Mina, My brother, She → 3인칭 단수 / We, The birds → 여럿"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "are",
+       "sing",
+       "fixes",
+       "tries"
+      ],
+      "strike": [],
+      "note": "We are(be동사), The birds sing(동사원형), fixes(x + es), tries(자음 + y → ies) → 맞다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "My brother"
+      ],
+      "strike": [
+       "play"
+      ],
+      "note": "My brother는 3인칭 단수인데 play ✗ → plays (모음 + y는 s만). 틀린 문장은 ③"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 주어를 찾아 보면 Mina, My brother, She는 3인칭 단수이고, We와 The birds는 여럿이에요. 둘째, We에는 be동사 are, The birds에는 동사원형 sing이 맞아요. Mina에는 fix에 es를 붙인 fixes, She에는 try의 y를 i로 바꾸고 es를 붙인 tries가 맞아요. 셋째, My brother도 3인칭 단수인데 play를 그대로 썼으니 plays로 고쳐야 해서 3번이 틀린 문장이에요. My brother plays soccer, 내 남동생은 축구를 해요.",
+   "caption": "주어 찾기 → 동사 확인 → My brother play"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① Mina fixes her bike.  ✗  3인칭 단수 Mina → x로 끝나는 fix + es, fixes가 맞아요\n② We are good friends.  ✗  주어 We → be동사 are가 맞아요\n③ My brother play soccer.  ✓  3인칭 단수 My brother → play가 아니라 plays (틀린 문장)\n④ The birds sing in the morning.  ✗  복수 The birds → 동사원형 sing이 맞아요\n⑤ She tries her best.  ✗  3인칭 단수 She → try의 y를 i로 바꾼 tries가 맞아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Mina fixes her bike.  ✗  3인칭 단수 Mina → x로 끝나는 fix + es, fixes가 맞아요",
+     "② We are good friends.  ✗  주어 We → be동사 are가 맞아요",
+     "③ My brother play soccer.  ✓  3인칭 단수 My brother → play가 아니라 plays (틀린 문장)",
+     "④ The birds sing in the morning.  ✗  복수 The birds → 동사원형 sing이 맞아요",
+     "⑤ She tries her best.  ✗  3인칭 단수 She → try의 y를 i로 바꾼 tries가 맞아요"
+    ]
+   },
+   "narration": "정답은 3번이에요. My brother는 한 사람이라 3인칭 단수이니 plays를 써야 해요. play는 y 앞에 모음 a가 있어서 y를 그대로 두고 s만 붙여요. 5번 tries는 try가 자음 다음 y로 끝나서 y를 i로 바꾸고 es를 붙인 맞는 형태예요. 4번 The birds는 여럿이라 동사원형 sing이 맞아요.",
+   "caption": "정답 ③ play → plays"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ My brother play soccer.\n\n3인칭 단수 주어 → 일반동사 + s/es (play → plays)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ My brother play soccer.",
+     "3인칭 단수 주어 → 일반동사 + s/es (play → plays)"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 주어가 3인칭 단수이면 현재형 일반동사에 s나 es를 붙여요. play처럼 모음 다음 y로 끝나면 s만 붙여 plays로 써요.",
+   "caption": "3인칭 단수 + s/es (plays)"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 동사의 형태가 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Mina fixes her bike.",
+   "We are good friends.",
+   "My brother play soccer.",
+   "The birds sing in the morning.",
+   "She tries her best."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 현재 시제에서 3인칭 단수 주어의 일반동사에는 -s/-es를 붙이고(자음 + y는 y를 i로 바꾸고 -es), 그 밖의 주어에는 동사원형을 쓴다. be동사는 I에 am, 3인칭 단수에 is, you·복수에 are를 쓴다.\n풀이 순서: ① 문장마다 주어가 3인칭 단수인지 본다. → ② 3인칭 단수면 동사에 -(e)s(have는 has), 아니면 동사원형이다. → ③ 선택지 ③의 My brother는 3인칭 단수이므로 plays를 써야 한다. 정답은 ③.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 My brother에는 plays를 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n② [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n③ [정답] 3인칭 단수 주어 My brother에는 plays를 써야 하므로 정답이다.\n④ [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n⑤ [오답] 주어에 맞는 동사 형태를 바르게 썼으므로 오답이다."
+ }
+}

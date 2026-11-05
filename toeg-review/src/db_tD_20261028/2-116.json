@@ -1,0 +1,33 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T17:06:38.524Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "are",
+      "1": "am",
+      "2": "being",
+      "3": "be",
+      "4": "is"
+    },
+    "expl": "핵심 규칙: either A or B, neither A nor B, not only A but also B가 주어이면 동사는 B에 수를 맞추고, both A and B는 복수 동사를 쓴다.\n풀이 순서: ① 주어의 상관접속사를 확인한다: Not only A but also B. → ② 동사는 B(the teacher)에 맞춘다. 단수다. → ③ 정답은 is. be, being은 문장의 동사가 될 수 없다.\n문장별 판정:\n정답 판단: is: Not only A but also B는 B(the teacher, 단수)에 수를 맞추므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] are: 동사는 B(the teacher, 단수)에 맞추고, 맞지 않으므로 오답이다.\n② [오답] am: 주어가 I가 아니므로 오답이다.\n③ [오답] being: -ing만으로는 문장의 동사가 될 수 없으므로 오답이다.\n④ [오답] be: 주어 뒤 동사 자리에 원형을 쓸 수 없으므로 오답이다.\n⑤ [정답] is: Not only A but also B는 B(the teacher, 단수)에 수를 맞추므로 정답이다.",
+    "passage": "- Not only the students but also the teacher ________ excited about the trip.",
+    "stem": "다음 빈칸에 들어갈 가장 적절한 단어는?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T17:06:29.380Z"
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:12:16.821Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T04:12:16.821Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:12:16.821Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

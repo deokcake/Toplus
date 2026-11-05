@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T16:36:34.389Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Ben, Tom",
+      "1": "Jane, Ben, Sora",
+      "2": "Jane, Tom, Amy",
+      "3": "Ben, Tom, Amy",
+      "4": "Sora, Amy"
+    },
+    "expl": "핵심 규칙: 가목적어 it은 목적어 자리에 먼저 오고 진목적어(to부정사·that절)는 뒤에 온다. some은 긍정문·권유·부탁, any는 부정문·의문문에 주로 쓴다. each/every + 단수명사, each of + 복수명사는 단수 동사를 쓴다. 재귀 용법은 뺄 수 없고 강조 용법은 뺄 수 있다. others는 막연한 다른 몇몇, the others는 정해진 나머지 전부이다.\n풀이 순서: ① 학생마다 예문과 설명을 따로 따진다. 틀린 예문을 맞다고 하거나 용법을 잘못 말하면 틀린 설명이다. → ② Jane은 시간을 나타내는 비인칭 It을 가목적어라고 했고, Sora는 Each of the players wear를 맞다고 했다(wears). 둘 다 틀렸다. → ③ 옳게 설명한 학생만 모으면 Ben, Tom, Amy이다.\n문장별 판정:\nJane 틀림: 문장 맨 앞의 it은 가주어(진주어 to get there)이며 가목적어가 아니다.\nBen 옳음: 부정문에는 any를 주로 쓴다.\nSora 틀림: each of + 복수명사는 단수 동사를 쓰므로 wears가 맞다.\nTom 옳음: 주어를 강조하는 강조 용법이라 빼도 문장이 성립한다.\nAmy 옳음: 둘 중 하나를 뺀 정해진 나머지 하나이므로 the other이다.\n정답 판단: 올바르게 설명한 학생은 Ben, Tom, Amy이다.\n선택지 분석:\n① [오답] 올바르게 설명한 학생 Amy를 빠뜨렸다. 따라서 오답이다.\n② [오답] Jane, Sora는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Tom, Amy를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Ben를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 올바르게 설명한 학생 Ben, Tom, Amy를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] Sora는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Ben, Tom를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "Jane: It takes an hour to get there. 에서 it은 가목적어야.\nBen: I don't have some money. 는 부정문이라 some을 any로 고쳐야 해.\nSora: Each of the players wear a helmet. 은 맞는 문장이야.\nTom: He himself fixed the roof. 에서 himself는 생략해도 문장이 온전해.\nAmy: I have two sisters. One is a nurse, and the other is a teacher. 에서 the other는 나머지 한 명을 뜻해.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T16:35:58.840Z"
+  },
+  "tab": "8s1sfi09",
+  "updatedAt": "2026-10-23T16:36:34.389Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:36:34.389Z",
+      "what": "확인 완료"
+    }
+  }
+}

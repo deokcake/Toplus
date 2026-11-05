@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:21:58.119Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "1977 - nineteen seventy-seventh",
+      "2": "1840 - eighteen forty",
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 연도는 보통 두 자리씩 끊어 읽는다(1980 nineteen eighty, 2021 twenty twenty-one). 2000~2009년은 two thousand + 나머지로 읽고, 1608처럼 가운데가 0이면 sixteen oh eight로 읽는다.\n풀이 순서: ① 연도를 앞 두 자리와 뒤 두 자리로 끊는다. → ② 각 부분을 수로 읽어 보기와 견준다. 뒤가 05처럼 0으로 시작하면 oh five로 읽는다. → ③ 1977은 nineteen seventy-seven이다. 연도는 서수(seventy-seventh)로 읽지 않는다. 정답은 ②.\n문장별 판정:\n정답 판단: 연도는 서수가 아니라 기수로 읽어 seventy-seven이라고 해야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] two thousand + 나머지로 바르게 읽었으므로 오답이다.\n② [정답] 연도는 서수가 아니라 기수로 읽어 seventy-seven이라고 해야 하므로 정답이다.\n③ [오답] 두 자리씩 끊어 바르게 읽었으므로 오답이다.\n④ [오답] 두 자리씩 끊어 바르게 읽었으므로 오답이다.\n⑤ [오답] 2000년을 two thousand로 바르게 읽었으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:21:56.031Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:21:58.119Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:21:58.119Z",
+      "what": "확인 완료"
+    }
+  }
+}

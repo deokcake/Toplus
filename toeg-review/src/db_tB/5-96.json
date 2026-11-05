@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:16:48.356Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: and는 나열(~와, 그리고), but은 대조(~지만), or는 선택(~ 또는, 아니면)을 나타낸다. when은 ‘~할 때’, before는 ‘~하기 전에’, after는 ‘~한 후에’라는 시간의 접속사로 뒤에 주어 + 동사를 이끈다.\n풀이 순서: ① 빈칸 앞뒤가 무엇을 잇는지 본다: 명사 science와 math. → ② 두 내용의 관계를 판단한다: 뒤 문장에서 둘 다 좋아하는 과목이라고 했으므로 나열 → and. → ③ 정답은 and.\n문장별 판정:\n정답 판단: 두 과목을 모두 좋아한다고 나열하므로 정답은 ①이다.\n선택지 분석:\n① [정답] 두 과목을 모두 좋아한다고 나열하므로 정답이다.\n② [오답] 뒤에 주어 + 동사가 없어 when을 쓸 수 없으므로 오답이다.\n③ [오답] 두 과목이 서로 대조되는 내용이 아니므로 오답이다.\n④ [오답] ‘수학 후에 과학을 좋아한다’는 뜻이 되어 어색하므로 오답이다.\n⑤ [오답] 뒤 문장에서 둘 다 좋아하는 과목이라고 했으므로 오답이다.",
+    "passage": "Tom likes science ________ math. They are his favorite subjects.",
+    "stem": "다음 빈칸에 들어갈 가장 알맞은 단어를 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T08:16:47.484Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T08:16:48.356Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T08:16:48.356Z",
+      "what": "확인 완료"
+    }
+  }
+}

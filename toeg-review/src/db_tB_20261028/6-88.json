@@ -1,0 +1,43 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T08:19:15.951Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "are",
+      "1": "studying",
+      "2": "in",
+      "3": "her",
+      "4": "room"
+    },
+    "expl": "핵심 규칙: 현재진행형은 주어 + am/is/are + 동사원형-ing로 쓴다. I에는 am, 3인칭 단수에는 is, you와 복수 주어에는 are를 쓴다.\n풀이 순서: ① 주어를 본다: She(3인칭 단수). → ② be동사와 그 뒤의 동사 형태를 차례로 확인한다. She에 are를 썼다. is여야 한다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 She에는 are가 아니라 is를 써야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] 3인칭 단수 주어 She에는 are가 아니라 is를 써야 하므로 정답이다.\n② [오답] be동사 뒤에 -ing형 studying을 바르게 썼으므로 오답이다.\n③ [오답] 방 안을 나타내는 전치사 in을 바르게 썼으므로 오답이다.\n④ [오답] She를 받는 소유격 her를 바르게 썼으므로 오답이다.\n⑤ [오답] 명사 room을 바르게 썼으므로 오답이다.",
+    "passage": "She ①<u>are</u> ②<u>studying</u> ③<u>in</u> ④<u>her</u> ⑤<u>room</u>.",
+    "stem": "다음 문장에서 밑줄 친 부분 중 어법상 틀린 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-20T08:19:16.838Z"
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:06:15.310Z",
+      "text": "변형문제 보기처럼 기준문항 보기를 5개 보여줘"
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T08:19:16.838Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T08:19:13.557Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:06:15.310Z",
+      "what": "메모 작성"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T08:19:16.838Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

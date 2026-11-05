@@ -1,0 +1,470 @@
+{
+ "A": {
+  "title": "소유격과 소유대명사 구별",
+  "intro": "이 문제는 소유격과 소유대명사를 구별해, 쓰임이 옳지 않은 문장을 고르는 문제예요.",
+  "problem_narration": "다음 밑줄 친 부분의 쓰임이 옳지 않은 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "소유격 + 명사 → ‘~의’  my ball (나의 공)",
+    "명사 없이 ‘~의 것’ → 소유대명사  mine (내 것)",
+    "my–mine, your–yours, her–hers, our–ours, their–theirs",
+    "his는 ‘그의’도 ‘그의 것’도 his",
+    "예) This is my ball. (이것은 나의 공이에요.)  This ball is mine. (이 공은 내 것이에요.)"
+   ],
+   "narration": "소유격은 my, your처럼 나의, 너의라는 뜻이고, 뒤에 꾸며 줄 명사가 꼭 와요. 명사 없이 내 것, 너의 것이라고 할 때는 mine, yours 같은 소유대명사를 써요. his는 그의, 그의 것 모두 his로 모양이 같아요. This is my ball. 이것은 나의 공이에요. This ball is mine. 이 공은 내 것이에요."
+  },
+  "steps": [
+   {
+    "note": "다섯 문장 모두 밑줄 뒤에 명사가 없다 → 주어가 누구의 것인지 말하는 ‘~의 것’ 자리 = 소유대명사",
+    "highlight": [
+     "<u>hers</u>",
+     "<u>theirs</u>",
+     "<u>yours</u>",
+     "<u>his</u>",
+     "<u>my</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 다섯 문장 모두 밑줄 친 말 뒤에 명사가 없어요. 주어가 누구의 것인지 말하는 자리라서 소유대명사가 와야 해요."
+   },
+   {
+    "note": "hers, theirs, yours → 소유대명사, his → ‘그의 것’(소유격과 모양이 같다) → 바르게 쓴 문장은 지운다",
+    "highlight": [],
+    "strike": [
+     "① This umbrella is <u>hers</u>.",
+     "② That house is <u>theirs</u>.",
+     "③ These cookies are <u>yours</u>.",
+     "④ This seat is <u>his</u>."
+    ],
+    "narration": "둘째, hers, theirs, yours는 소유대명사이고, his도 그의 것이라는 뜻으로 바르게 쓰였어요."
+   },
+   {
+    "note": "my는 소유격(‘나의’) → 뒤에 명사가 없으니 mine(‘내 것’)로 → Those pens are mine.",
+    "highlight": [
+     "⑤ Those pens are <u>my</u>."
+    ],
+    "strike": [],
+    "narration": "셋째, 5번 my는 나의라는 소유격이라 뒤에 명사가 있어야 하니, mine으로 고쳐야 해요. Those pens are mine. 저 펜들은 내 것이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① This umbrella is <u>hers</u>.  ✗  ‘그녀의 것’ 소유대명사 hers",
+    "② That house is <u>theirs</u>.  ✗  ‘그들의 것’ 소유대명사 theirs",
+    "③ These cookies are <u>yours</u>.  ✗  ‘너의 것’ 소유대명사 yours",
+    "④ This seat is <u>his</u>.  ✗  his는 ‘그의 것’으로도 써요",
+    "⑤ Those pens are <u>my</u>.  ✓  소유격 my 뒤에 명사가 없어요 → mine"
+   ],
+   "narration": "정답은 5번이에요. my 뒤에 명사가 없으니 내 것이라는 뜻의 mine을 써야 해요. 4번 his를 소유격으로만 알면 틀렸다고 생각하기 쉬워요. 하지만 his는 그의 것이라는 소유대명사로도 쓰여서 바른 문장이에요. 3번 yours도 너의라는 your와 달리 너의 것이라는 소유대명사라 바르게 쓰였어요."
+  },
+  "summary": {
+   "card": "명사 없이 ‘~의 것’ → 소유대명사 (mine, yours, his, hers, ours, theirs)",
+   "narration": "정답은 5번이에요. 기억할 것, 명사 없이 누구의 것이라고 말할 때는 my 같은 소유격이 아니라 mine 같은 소유대명사를 써요."
+  },
+  "captions": [
+   "소유격과 소유대명사",
+   "먼저 풀어 보세요",
+   "‘~의’ 소유격, ‘~의 것’ 소유대명사",
+   "밑줄 뒤 명사 없음 → 소유대명사",
+   "정답 ⑤ my → mine",
+   "명사 없이 ‘~의 것’ → 소유대명사"
+  ],
+  "sec": [
+   10,
+   12,
+   27,
+   33,
+   26,
+   10
+  ]
+ },
+ "B": {
+  "title": "소유격과 소유대명사 구별",
+  "intro": "이 문제는 소유격과 소유대명사를 구별해, 쓰임이 옳지 않은 문장을 고르는 문제예요.",
+  "problem_narration": "다음 밑줄 친 부분의 쓰임이 옳지 않은 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "소유격 + 명사 → ‘~의’  our ball (우리의 공)",
+    "명사 없이 ‘~의 것’ → 소유대명사  ours (우리의 것)",
+    "my–mine, your–yours, her–hers, our–ours, their–theirs",
+    "his는 ‘그의’도 ‘그의 것’도 his",
+    "예) This is our ball. (이것은 우리의 공이에요.)  This ball is ours. (이 공은 우리의 것이에요.)"
+   ],
+   "narration": "소유격은 my, our처럼 나의, 우리의라는 뜻이고, 뒤에 꾸며 줄 명사가 꼭 와요. 명사 없이 내 것, 우리의 것이라고 할 때는 mine, ours 같은 소유대명사를 써요. his는 그의, 그의 것 모두 his로 모양이 같아요. This is our ball. 이것은 우리의 공이에요. This ball is ours. 이 공은 우리의 것이에요."
+  },
+  "steps": [
+   {
+    "note": "다섯 문장 모두 밑줄 뒤에 명사가 없다 → 주어가 누구의 것인지 말하는 ‘~의 것’ 자리 = 소유대명사",
+    "highlight": [
+     "<u>mine</u>",
+     "<u>our</u>",
+     "<u>theirs</u>",
+     "<u>his</u>",
+     "<u>yours</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 다섯 문장 모두 밑줄 친 말 뒤에 명사가 없어요. 주어가 누구의 것인지 말하는 자리라서 소유대명사가 와야 해요."
+   },
+   {
+    "note": "mine, theirs, yours → 소유대명사, his → ‘그의 것’(소유격과 모양이 같다) → 바르게 쓴 문장은 지운다",
+    "highlight": [],
+    "strike": [
+     "① The small umbrella is <u>mine</u>.",
+     "③ The blue bike is <u>theirs</u>.",
+     "④ The red cup is <u>his</u>.",
+     "⑤ This seat is <u>yours</u>."
+    ],
+    "narration": "둘째, mine, theirs, yours는 소유대명사이고, his도 그의 것이라는 뜻으로 바르게 쓰였어요."
+   },
+   {
+    "note": "our는 소유격(‘우리의’) → 뒤에 명사가 없으니 ours(‘우리의 것’)로 → These shoes are ours.",
+    "highlight": [
+     "② These shoes are <u>our</u>."
+    ],
+    "strike": [],
+    "narration": "셋째, 2번 our는 우리의라는 소유격이라 뒤에 명사가 있어야 하니, ours로 고쳐야 해요. These shoes are ours. 이 신발은 우리의 것이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The small umbrella is <u>mine</u>.  ✗  ‘내 것’ 소유대명사 mine",
+    "② These shoes are <u>our</u>.  ✓  소유격 our 뒤에 명사가 없어요 → ours",
+    "③ The blue bike is <u>theirs</u>.  ✗  ‘그들의 것’ 소유대명사 theirs",
+    "④ The red cup is <u>his</u>.  ✗  his는 ‘그의 것’으로도 써요",
+    "⑤ This seat is <u>yours</u>.  ✗  ‘너의 것’ 소유대명사 yours"
+   ],
+   "narration": "정답은 2번이에요. our 뒤에 명사가 없으니 우리의 것이라는 뜻의 ours를 써야 해요. 4번 his를 소유격으로만 알면 틀렸다고 생각하기 쉬워요. 하지만 his는 그의 것이라는 소유대명사로도 쓰여서 바른 문장이에요. 1번 mine도 나의라는 my와 달리 내 것이라는 소유대명사라 바르게 쓰였어요."
+  },
+  "summary": {
+   "card": "명사 없이 ‘~의 것’ → 소유대명사 (mine, yours, his, hers, ours, theirs)",
+   "narration": "정답은 2번이에요. 기억할 것, 명사 없이 누구의 것이라고 말할 때는 our 같은 소유격이 아니라 ours 같은 소유대명사를 써요."
+  },
+  "captions": [
+   "소유격과 소유대명사",
+   "먼저 풀어 보세요",
+   "‘~의’ 소유격, ‘~의 것’ 소유대명사",
+   "밑줄 뒤 명사 없음 → 소유대명사",
+   "정답 ② our → ours",
+   "명사 없이 ‘~의 것’ → 소유대명사"
+  ],
+  "sec": [
+   10,
+   12,
+   27,
+   33,
+   26,
+   10
+  ]
+ },
+ "C": {
+  "title": "소유격과 소유대명사 구별",
+  "intro": "이 문제는 소유격과 소유대명사를 구별해, 쓰임이 옳지 않은 문장을 고르는 문제예요.",
+  "problem_narration": "다음 밑줄 친 부분의 쓰임이 옳지 않은 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "소유격 + 명사 → ‘~의’  your ball (너의 공)",
+    "명사 없이 ‘~의 것’ → 소유대명사  yours (너의 것)",
+    "my–mine, your–yours, her–hers, our–ours, their–theirs",
+    "his는 ‘그의’도 ‘그의 것’도 his",
+    "예) This is your ball. (이것은 너의 공이에요.)  This ball is yours. (이 공은 너의 것이에요.)"
+   ],
+   "narration": "소유격은 my, your처럼 나의, 너의라는 뜻이고, 뒤에 꾸며 줄 명사가 꼭 와요. 명사 없이 내 것, 너의 것이라고 할 때는 mine, yours 같은 소유대명사를 써요. his는 그의, 그의 것 모두 his로 모양이 같아요. This is your ball. 이것은 너의 공이에요. This ball is yours. 이 공은 너의 것이에요."
+  },
+  "steps": [
+   {
+    "note": "다섯 문장 모두 밑줄 뒤에 명사가 없다 → 주어가 누구의 것인지 말하거나 묻는 ‘~의 것’ 자리 = 소유대명사",
+    "highlight": [
+     "<u>his</u>",
+     "<u>hers</u>",
+     "<u>theirs</u>",
+     "<u>your</u>",
+     "<u>ours</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 다섯 문장 모두 밑줄 친 말 뒤에 명사가 없어요. 주어가 누구의 것인지 말하거나 묻는 자리라서 소유대명사가 와야 해요."
+   },
+   {
+    "note": "hers, theirs, ours → 소유대명사, his → ‘그의 것’(소유격과 모양이 같다) → 바르게 쓴 문장은 지운다",
+    "highlight": [],
+    "strike": [
+     "① Those pens are <u>his</u>.",
+     "② This notebook is <u>hers</u>.",
+     "③ The blue car is <u>theirs</u>.",
+     "⑤ These books are <u>ours</u>."
+    ],
+    "narration": "둘째, hers, theirs, ours는 소유대명사이고, his도 그의 것이라는 뜻으로 바르게 쓰였어요."
+   },
+   {
+    "note": "your는 소유격(‘너의’) → 뒤에 명사가 없으니 yours(‘너의 것’)로 → Is this bag yours?",
+    "highlight": [
+     "④ Is this bag <u>your</u>?"
+    ],
+    "strike": [],
+    "narration": "셋째, 4번 your는 너의라는 소유격이라 뒤에 명사가 있어야 하니, yours로 고쳐야 해요. Is this bag yours? 이 가방은 너의 것이니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Those pens are <u>his</u>.  ✗  his는 ‘그의 것’으로도 써요",
+    "② This notebook is <u>hers</u>.  ✗  ‘그녀의 것’ 소유대명사 hers",
+    "③ The blue car is <u>theirs</u>.  ✗  ‘그들의 것’ 소유대명사 theirs",
+    "④ Is this bag <u>your</u>?  ✓  소유격 your 뒤에 명사가 없어요 → yours",
+    "⑤ These books are <u>ours</u>.  ✗  ‘우리의 것’ 소유대명사 ours"
+   ],
+   "narration": "정답은 4번이에요. 묻는 문장이어도 your 뒤에 명사가 없으니 너의 것이라는 뜻의 yours를 써야 해요. 1번 his를 소유격으로만 알면 틀렸다고 생각하기 쉬워요. 하지만 his는 그의 것이라는 소유대명사로도 쓰여서 바른 문장이에요. 펜이 여러 자루여도 주인이 남자 한 사람이면 his를 써요."
+  },
+  "summary": {
+   "card": "명사 없이 ‘~의 것’ → 소유대명사 (mine, yours, his, hers, ours, theirs)",
+   "narration": "정답은 4번이에요. 기억할 것, 명사 없이 누구의 것이라고 말할 때는 your 같은 소유격이 아니라 yours 같은 소유대명사를 써요."
+  },
+  "captions": [
+   "소유격과 소유대명사",
+   "먼저 풀어 보세요",
+   "‘~의’ 소유격, ‘~의 것’ 소유대명사",
+   "밑줄 뒤 명사 없음 → 소유대명사",
+   "정답 ④ your → yours",
+   "명사 없이 ‘~의 것’ → 소유대명사"
+  ],
+  "sec": [
+   10,
+   12,
+   27,
+   33,
+   26,
+   10
+  ]
+ },
+ "D": {
+  "title": "소유격과 소유대명사 구별",
+  "intro": "이 문제는 소유격과 소유대명사를 구별해, 쓰임이 옳지 않은 문장을 고르는 문제예요.",
+  "problem_narration": "다음 밑줄 친 부분의 쓰임이 옳지 않은 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "소유격 + 명사 → ‘~의’  her ball (그녀의 공)",
+    "명사 없이 ‘~의 것’ → 소유대명사  hers (그녀의 것)",
+    "my–mine, your–yours, her–hers, our–ours, their–theirs",
+    "his는 ‘그의’도 ‘그의 것’도 his",
+    "예) This is her ball. (이것은 그녀의 공이에요.)  This ball is hers. (이 공은 그녀의 것이에요.)"
+   ],
+   "narration": "소유격은 my, her처럼 나의, 그녀의라는 뜻이고, 뒤에 꾸며 줄 명사가 꼭 와요. 명사 없이 내 것, 그녀의 것이라고 할 때는 mine, hers 같은 소유대명사를 써요. his는 그의, 그의 것 모두 his로 모양이 같아요. This is her ball. 이것은 그녀의 공이에요. This ball is hers. 이 공은 그녀의 것이에요."
+  },
+  "steps": [
+   {
+    "note": "다섯 문장 모두 밑줄 뒤에 명사가 없다 → 주어가 누구의 것인지 말하는 ‘~의 것’ 자리 = 소유대명사",
+    "highlight": [
+     "<u>mine</u>",
+     "<u>yours</u>",
+     "<u>ours</u>",
+     "<u>theirs</u>",
+     "<u>her</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 다섯 문장 모두 밑줄 친 말 뒤에 명사가 없어요. 주어가 누구의 것인지 말하는 자리라서 소유대명사가 와야 해요."
+   },
+   {
+    "note": "mine, yours, ours, theirs → 모두 소유대명사 → 바르게 쓴 문장은 지운다",
+    "highlight": [],
+    "strike": [
+     "① That jacket is <u>mine</u>.",
+     "② These gloves are <u>yours</u>.",
+     "③ The house on the hill is <u>ours</u>.",
+     "④ The toys are <u>theirs</u>."
+    ],
+    "narration": "둘째, mine, yours, ours, theirs는 모두 내 것, 너의 것, 우리의 것, 그들의 것이라는 소유대명사로 바르게 쓰였어요."
+   },
+   {
+    "note": "her는 소유격(‘그녀의’) → 뒤에 명사가 없으니 hers(‘그녀의 것’)로 → This book is hers.",
+    "highlight": [
+     "⑤ This book is <u>her</u>."
+    ],
+    "strike": [],
+    "narration": "셋째, 5번 her는 그녀의라는 소유격으로 쓸 때 뒤에 명사가 와야 하니, 그녀의 것이라는 hers로 고쳐야 해요. This book is hers. 이 책은 그녀의 것이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① That jacket is <u>mine</u>.  ✗  ‘내 것’ 소유대명사 mine",
+    "② These gloves are <u>yours</u>.  ✗  ‘너의 것’ 소유대명사 yours",
+    "③ The house on the hill is <u>ours</u>.  ✗  ‘우리의 것’ 소유대명사 ours",
+    "④ The toys are <u>theirs</u>.  ✗  ‘그들의 것’ 소유대명사 theirs",
+    "⑤ This book is <u>her</u>.  ✓  소유격 her 뒤에 명사가 없어요 → hers"
+   ],
+   "narration": "정답은 5번이에요. her 뒤에 명사가 없으니 그녀의 것이라는 뜻의 hers를 써야 해요. 3번은 문장이 길지만, 언덕 위의 집이 우리의 것이라는 뜻이라 ours가 맞아요. 2번 yours와 4번 theirs도 장갑과 장난감이 누구의 것인지 말하는 소유대명사로 바르게 쓰였어요."
+  },
+  "summary": {
+   "card": "명사 없이 ‘~의 것’ → 소유대명사 (mine, yours, his, hers, ours, theirs)",
+   "narration": "정답은 5번이에요. 기억할 것, 명사 없이 누구의 것이라고 말할 때는 her 같은 소유격이 아니라 hers 같은 소유대명사를 써요."
+  },
+  "captions": [
+   "소유격과 소유대명사",
+   "먼저 풀어 보세요",
+   "‘~의’ 소유격, ‘~의 것’ 소유대명사",
+   "밑줄 뒤 명사 없음 → 소유대명사",
+   "정답 ⑤ her → hers",
+   "명사 없이 ‘~의 것’ → 소유대명사"
+  ],
+  "sec": [
+   10,
+   12,
+   27,
+   33,
+   26,
+   10
+  ]
+ },
+ "E": {
+  "title": "소유격과 소유대명사 구별",
+  "intro": "이 문제는 소유격과 소유대명사를 구별해, 쓰임이 옳지 않은 문장을 고르는 문제예요.",
+  "problem_narration": "다음 밑줄 친 부분의 쓰임이 옳지 않은 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "소유격 + 명사 → ‘~의’  their ball (그들의 공)",
+    "명사 없이 ‘~의 것’ → 소유대명사  theirs (그들의 것)",
+    "my–mine, your–yours, her–hers, our–ours, their–theirs",
+    "his는 ‘그의’도 ‘그의 것’도 his",
+    "예) This is their ball. (이것은 그들의 공이에요.)  This ball is theirs. (이 공은 그들의 것이에요.)"
+   ],
+   "narration": "소유격은 my, their처럼 나의, 그들의라는 뜻이고, 뒤에 꾸며 줄 명사가 꼭 와요. 명사 없이 내 것, 그들의 것이라고 할 때는 mine, theirs 같은 소유대명사를 써요. his는 그의, 그의 것 모두 his로 모양이 같아요. This is their ball. 이것은 그들의 공이에요. This ball is theirs. 이 공은 그들의 것이에요."
+  },
+  "steps": [
+   {
+    "note": "다섯 문장 모두 밑줄 뒤에 명사가 없다 → 주어가 누구의 것인지 말하는 ‘~의 것’ 자리 = 소유대명사",
+    "highlight": [
+     "<u>their</u>",
+     "<u>mine</u>",
+     "<u>hers</u>",
+     "<u>yours</u>",
+     "<u>his</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 다섯 문장 모두 밑줄 친 말 뒤에 명사가 없어요. 주어가 누구의 것인지 말하는 자리라서 소유대명사가 와야 해요."
+   },
+   {
+    "note": "mine, hers, yours → 소유대명사, his → ‘그의 것’(소유격과 모양이 같다) → 바르게 쓴 문장은 지운다",
+    "highlight": [],
+    "strike": [
+     "② This pencil case is <u>mine</u>.",
+     "③ Those cookies are <u>hers</u>.",
+     "④ The green bag is <u>yours</u>.",
+     "⑤ This cap is <u>his</u>."
+    ],
+    "narration": "둘째, mine, hers, yours는 소유대명사이고, his도 그의 것이라는 뜻으로 바르게 쓰였어요."
+   },
+   {
+    "note": "their는 소유격(‘그들의’) → 뒤에 명사가 없으니 theirs(‘그들의 것’)로 → That bike is theirs.",
+    "highlight": [
+     "① That bike is <u>their</u>."
+    ],
+    "strike": [],
+    "narration": "셋째, 1번 their는 그들의라는 소유격이라 뒤에 명사가 있어야 하니, theirs로 고쳐야 해요. That bike is theirs. 저 자전거는 그들의 것이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① That bike is <u>their</u>.  ✓  소유격 their 뒤에 명사가 없어요 → theirs",
+    "② This pencil case is <u>mine</u>.  ✗  ‘내 것’ 소유대명사 mine",
+    "③ Those cookies are <u>hers</u>.  ✗  ‘그녀의 것’ 소유대명사 hers",
+    "④ The green bag is <u>yours</u>.  ✗  ‘너의 것’ 소유대명사 yours",
+    "⑤ This cap is <u>his</u>.  ✗  his는 ‘그의 것’으로도 써요"
+   ],
+   "narration": "정답은 1번이에요. their 뒤에 명사가 없으니 그들의 것이라는 뜻의 theirs를 써야 해요. 5번 his를 소유격으로만 알면 틀렸다고 생각하기 쉬워요. 하지만 his는 그의 것이라는 소유대명사로도 쓰여서 바른 문장이에요. 3번 hers도 그녀의라는 her와 달리 그녀의 것이라는 소유대명사라 바르게 쓰였어요."
+  },
+  "summary": {
+   "card": "명사 없이 ‘~의 것’ → 소유대명사 (mine, yours, his, hers, ours, theirs)",
+   "narration": "정답은 1번이에요. 기억할 것, 명사 없이 누구의 것이라고 말할 때는 their 같은 소유격이 아니라 theirs 같은 소유대명사를 써요."
+  },
+  "captions": [
+   "소유격과 소유대명사",
+   "먼저 풀어 보세요",
+   "‘~의’ 소유격, ‘~의 것’ 소유대명사",
+   "밑줄 뒤 명사 없음 → 소유대명사",
+   "정답 ① their → theirs",
+   "명사 없이 ‘~의 것’ → 소유대명사"
+  ],
+  "sec": [
+   10,
+   12,
+   27,
+   33,
+   26,
+   10
+  ]
+ },
+ "F": {
+  "title": "소유격과 소유대명사 구별",
+  "intro": "이 문제는 소유격과 소유대명사를 구별해, 쓰임이 옳지 않은 문장을 고르는 문제예요.",
+  "problem_narration": "다음 밑줄 친 부분의 쓰임이 옳지 않은 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "소유격 + 명사 → ‘~의’  your ball (너의 공)",
+    "명사 없이 ‘~의 것’ → 소유대명사  yours (너의 것)",
+    "my–mine, your–yours, her–hers, our–ours, their–theirs",
+    "his는 ‘그의’도 ‘그의 것’도 his",
+    "예) This is your ball. (이것은 너의 공이에요.)  This ball is yours. (이 공은 너의 것이에요.)"
+   ],
+   "narration": "소유격은 my, your처럼 나의, 너의라는 뜻이고, 뒤에 꾸며 줄 명사가 꼭 와요. 명사 없이 내 것, 너의 것이라고 할 때는 mine, yours 같은 소유대명사를 써요. his는 그의, 그의 것 모두 his로 모양이 같아요. This is your ball. 이것은 너의 공이에요. This ball is yours. 이 공은 너의 것이에요."
+  },
+  "steps": [
+   {
+    "note": "다섯 문장 모두 밑줄 뒤에 명사가 없다 → 주어가 누구의 것인지 말하는 ‘~의 것’ 자리 = 소유대명사",
+    "highlight": [
+     "<u>ours</u>",
+     "<u>theirs</u>",
+     "<u>your</u>",
+     "<u>his</u>",
+     "<u>mine</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 다섯 문장 모두 밑줄 친 말 뒤에 명사가 없어요. 주어가 누구의 것인지 말하는 자리라서 소유대명사가 와야 해요."
+   },
+   {
+    "note": "ours, theirs, mine → 소유대명사, his → ‘그의 것’(소유격과 모양이 같다) → 바르게 쓴 문장은 지운다",
+    "highlight": [],
+    "strike": [
+     "① This desk is <u>ours</u>.",
+     "② The dog is <u>theirs</u>.",
+     "④ That coat is <u>his</u>.",
+     "⑤ The white shoes are <u>mine</u>."
+    ],
+    "narration": "둘째, ours, theirs, mine은 소유대명사이고, his도 그의 것이라는 뜻으로 바르게 쓰였어요."
+   },
+   {
+    "note": "your는 소유격(‘너의’) → 뒤에 명사가 없으니 yours(‘너의 것’)로 → Those bags are yours.",
+    "highlight": [
+     "③ Those bags are <u>your</u>."
+    ],
+    "strike": [],
+    "narration": "셋째, 3번 your는 너의라는 소유격이라 뒤에 명사가 있어야 하니, yours로 고쳐야 해요. Those bags are yours. 저 가방들은 너의 것이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① This desk is <u>ours</u>.  ✗  ‘우리의 것’ 소유대명사 ours",
+    "② The dog is <u>theirs</u>.  ✗  ‘그들의 것’ 소유대명사 theirs",
+    "③ Those bags are <u>your</u>.  ✓  소유격 your 뒤에 명사가 없어요 → yours",
+    "④ That coat is <u>his</u>.  ✗  his는 ‘그의 것’으로도 써요",
+    "⑤ The white shoes are <u>mine</u>.  ✗  ‘내 것’ 소유대명사 mine"
+   ],
+   "narration": "정답은 3번이에요. your 뒤에 명사가 없으니 너의 것이라는 뜻의 yours를 써야 해요. 4번 his를 소유격으로만 알면 틀렸다고 생각하기 쉬워요. 하지만 his는 그의 것이라는 소유대명사로도 쓰여서 바른 문장이에요. 2번 theirs도 그들의라는 their와 달리 그들의 것이라는 소유대명사라 바르게 쓰였어요."
+  },
+  "summary": {
+   "card": "명사 없이 ‘~의 것’ → 소유대명사 (mine, yours, his, hers, ours, theirs)",
+   "narration": "정답은 3번이에요. 기억할 것, 명사 없이 누구의 것이라고 말할 때는 your 같은 소유격이 아니라 yours 같은 소유대명사를 써요."
+  },
+  "captions": [
+   "소유격과 소유대명사",
+   "먼저 풀어 보세요",
+   "‘~의’ 소유격, ‘~의 것’ 소유대명사",
+   "밑줄 뒤 명사 없음 → 소유대명사",
+   "정답 ③ your → yours",
+   "명사 없이 ‘~의 것’ → 소유대명사"
+  ],
+  "sec": [
+   10,
+   12,
+   27,
+   33,
+   26,
+   10
+  ]
+ }
+}

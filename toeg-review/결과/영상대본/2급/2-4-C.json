@@ -1,0 +1,180 @@
+{
+ "key": "2-4",
+ "type": "C",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "title": "동사에 따른 목적격 보어의 형태",
+ "total_sec": 139,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "2급 · CH 1 문장의 형식 · 4번 · C 유형\n\n이 문제는 동사에 맞지 않는 목적격 보어가 쓰인 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "2급 · CH 1 문장의 형식 · 4번 · C 유형",
+     "이 문제는 동사에 맞지 않는 목적격 보어가 쓰인 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "2급 챕터 1, 4번 C 유형. 이 문제는 동사에 맞지 않는 목적격 보어가 쓰인 문장을 고르는 문제예요.",
+   "caption": "목적격 보어가 틀린 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 목적격 보어가 잘못 사용된 것을 고르시오.\n\n① The coach made us run five laps.\n② I heard the singer to perform the song.\n③ They kept the door locked.\n④ I saw Mina crossing the road.\n⑤ We expected him to arrive soon.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 목적격 보어가 잘못 사용된 것을 고르시오.",
+     "① The coach made us run five laps.",
+     "② I heard the singer to perform the song.",
+     "③ They kept the door locked.",
+     "④ I saw Mina crossing the road.",
+     "⑤ We expected him to arrive soon."
+    ]
+   },
+   "narration": "다음 중 목적격 보어가 잘못 사용된 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\n목적격 보어 = 목적어가 하는 행동이나 목적어의 상태를 설명하는 말\n행동: see·watch·hear + 목적어 + 동사원형/ing형 (to부정사 ✗)\n행동: make·have·let + 목적어 + 동사원형,  want·expect + 목적어 + to부정사\n상태: keep·find·make + 목적어 + 형용사\n예) I heard Tom play the piano. (나는 Tom이 피아노를 치는 것을 들었어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "목적격 보어 = 목적어가 하는 행동이나 목적어의 상태를 설명하는 말",
+     "행동: see·watch·hear + 목적어 + 동사원형/ing형 (to부정사 ✗)",
+     "행동: make·have·let + 목적어 + 동사원형,  want·expect + 목적어 + to부정사",
+     "상태: keep·find·make + 목적어 + 형용사",
+     "예) I heard Tom play the piano. (나는 Tom이 피아노를 치는 것을 들었어요.)"
+    ]
+   },
+   "narration": "목적격 보어는 목적어가 하는 행동이나 상태를 설명하고, 형태는 동사가 정해요. 지각동사 see, hear 뒤의 행동은 동사원형이나 ing형으로 쓰고, to부정사는 쓰지 않아요. 사역동사 make 뒤의 행동은 동사원형, expect 뒤의 행동은 to부정사, keep 뒤의 상태는 형용사로 써요. 예를 들어 I heard Tom play the piano. 나는 Tom이 피아노를 치는 것을 들었어요.",
+   "caption": "지각동사 뒤 행동은 동사원형·ing형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 40,
+   "screen": {
+    "text": "다음 중 목적격 보어가 잘못 사용된 것을 고르시오.\n\n① The coach made us run five laps.\n② I heard the singer to perform the song.\n③ They kept the door locked.\n④ I saw Mina crossing the road.\n⑤ We expected him to arrive soon.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "made",
+       "expected"
+      ],
+      "strike": [
+       "① The coach made us run five laps.",
+       "⑤ We expected him to arrive soon."
+      ],
+      "note": "동사 확인 → ① 사역동사 made + us + run, ⑤ expected + him + to arrive → 맞다"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "saw",
+       "kept"
+      ],
+      "strike": [
+       "④ I saw Mina crossing the road.",
+       "③ They kept the door locked."
+      ],
+      "note": "④ 지각동사 saw + Mina + crossing, ③ kept + the door + locked(잠긴 상태) → 맞다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "heard the singer to perform"
+      ],
+      "strike": [],
+      "note": "② 지각동사 heard + the singer + to perform ✗ → perform 또는 performing"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 동사를 보고 목적어 뒤의 말을 확인해요. 1번은 사역동사 made 뒤에 동사원형 run을, 5번은 expected 뒤에 to부정사 to arrive를 써서 맞아요. 둘째, 4번은 지각동사 saw 뒤에 ing형 crossing을, 3번은 kept 뒤에 문이 잠긴 상태를 나타내는 locked를 써서 맞아요. 셋째, 2번은 지각동사 heard 뒤에 to perform을 썼으니 to를 빼고 perform이나 performing으로 고쳐야 해요. I heard the singer perform the song. 나는 그 가수가 그 노래를 부르는 것을 들었어요.",
+   "caption": "동사 확인 → heard 뒤 to perform"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 30,
+   "screen": {
+    "text": "① The coach made us run five laps.  ✗  사역동사 made 뒤 동사원형 run은 맞아요\n② I heard the singer to perform the song.  ✓  지각동사 heard 뒤에는 to 없이: to perform → perform/performing\n③ They kept the door locked.  ✗  kept 뒤 locked(잠긴)는 문의 상태를 나타내서 맞아요\n④ I saw Mina crossing the road.  ✗  지각동사 saw 뒤 ing형 crossing은 맞아요\n⑤ We expected him to arrive soon.  ✗  expect 뒤 to부정사 to arrive는 맞아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① The coach made us run five laps.  ✗  사역동사 made 뒤 동사원형 run은 맞아요",
+     "② I heard the singer to perform the song.  ✓  지각동사 heard 뒤에는 to 없이: to perform → perform/performing",
+     "③ They kept the door locked.  ✗  kept 뒤 locked(잠긴)는 문의 상태를 나타내서 맞아요",
+     "④ I saw Mina crossing the road.  ✗  지각동사 saw 뒤 ing형 crossing은 맞아요",
+     "⑤ We expected him to arrive soon.  ✗  expect 뒤 to부정사 to arrive는 맞아요"
+    ]
+   },
+   "narration": "정답은 2번이에요. 지각동사 heard 뒤에서는 to 없이 perform이나 performing을 써요. perform은 노래를 부른 일 전체를, performing은 한창 부르고 있는 모습을 나타내요. 3번 locked를 의심하기 쉬운데, 문을 잠긴 상태로 두었다는 뜻이라 맞아요. 5번 expected 뒤에서 목적어가 할 행동은 to부정사로 쓰니까 to arrive가 맞아요.",
+   "caption": "정답 ② to perform → perform"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ② I heard the singer to perform the song.\n\n목적어의 행동: see·watch·hear + 목적어 + 동사원형/ing형 (to부정사 ✗)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② I heard the singer to perform the song.",
+     "목적어의 행동: see·watch·hear + 목적어 + 동사원형/ing형 (to부정사 ✗)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 지각동사 see, hear 뒤에서 목적어가 하는 행동은 동사원형이나 ing형으로 써요.",
+   "caption": "행동은 지각동사 + 동사원형·ing형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 목적격 보어가 잘못 사용된 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "The coach made us run five laps.",
+   "I heard the singer to perform the song.",
+   "They kept the door locked.",
+   "I saw Mina crossing the road.",
+   "We expected him to arrive soon."
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 5형식은 S+V+O+OC이며 목적격보어는 목적어의 신분·상태·행동을 설명한다. 사역동사 make/have/let 뒤에서 목적어가 행동하면 원형부정사를 쓴다.\n풀이 순서: ① 문장마다 동사를 보고 목적격 보어의 형태를 정한다. 사역동사(make, have, let)는 동사원형, 지각동사는 동사원형·-ing, want·expect는 to부정사, keep·find는 형용사다. → ② 목적어 뒤의 말이 그 형태인지 견준다. → ③ 선택지 ②는 지각동사 heard 뒤에 to perform을 썼다. perform이나 performing이 맞다.\n문장별 판정:\n정답 판단: 지각동사 hear 뒤의 목적격보어에는 동사원형 perform 또는 현재분사 performing을 쓸 수 있으나 to perform은 쓰지 않는다. perform은 들은 사건 전체를, performing은 진행 중인 동작을 나타낸다. 교정문: I heard the singer perform the song. / I heard the singer performing the song.\n선택지 분석:\n① [오답] ‘The coach made us run five laps.’는 사역동사 뒤에 목적어와 동사원형을 썼다. 목적격보어가 올바르게 쓰였으므로 오답이다.\n② [정답] 지각동사 hear 뒤에서 to perform을 perform 또는 performing으로 고친다. 동사원형은 사건 전체를, 현재분사는 진행 중인 동작을 나타낸다. 두 교정형이 모두 가능하다.\n③ [오답] ‘They kept the door locked.’는 keep/find 뒤에 목적어의 상태를 설명하는 형용사 또는 분사를 썼다. 목적격보어가 올바르게 쓰였으므로 오답이다.\n④ [오답] ‘I saw Mina crossing the road.’는 지각동사 뒤에 목적어와 진행 중인 동작을 나타내는 -ing형을 썼다. 목적격보어가 올바르게 쓰였으므로 오답이다.\n⑤ [오답] ‘We expected him to arrive soon.’은 want/expect 뒤 목적격보어로 to부정사를 썼다. 목적격보어가 올바르게 쓰였으므로 오답이다."
+ }
+}

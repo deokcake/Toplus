@@ -1,0 +1,86 @@
+{
+ "key": "5-67",
+ "grade": 5,
+ "chapter": "CH 7 숫자 표현과 비인칭주어 it",
+ "items": {
+  "A": {
+   "stem": "다음 중 우리말 '그녀는 세 번째 줄에 앉아 있다'를 영어로 바르게 옮긴 것은?",
+   "passage": "",
+   "c": [
+    "She is sitting in the three row.",
+    "She is sitting in the thirth row.",
+    "She is sitting in the third row.",
+    "She is sitting in the three's row.",
+    "She is sitting in the threed row."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: ‘~ 번째’는 서수로 나타낸다. 서수는 대개 기수 + th이지만 first, second, third는 따로 외운다.\n풀이 순서: ① 우리말에서 ‘~ 번째’를 찾는다: 세 번째. 서수가 필요하다. → ② 그 서수의 바른 철자는 third. → ③ 기수를 그대로 쓴 것과 철자를 잘못 만든 것을 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: ‘세 번째’를 서수 third로 바르게 나타냈으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 기수 three로는 ‘세 번째’를 나타낼 수 없으므로 오답이다.\n② [오답] thirth라는 말은 없으므로 오답이다.\n③ [정답] ‘세 번째’를 서수 third로 바르게 나타냈으므로 정답이다.\n④ [오답] ’s를 붙여도 서수가 되지 않으므로 오답이다.\n⑤ [오답] threed라는 말은 없으므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 중 우리말 '그는 네 번째 의자에 앉아 있다'를 영어로 바르게 옮긴 것은?",
+   "passage": "",
+   "c": [
+    "He is sitting on the four chair.",
+    "He is sitting on the fourth chair.",
+    "He is sitting on the forth chair.",
+    "He is sitting on the four's chair.",
+    "He is sitting on the fourd chair."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: ‘~ 번째’는 서수로 나타낸다(first, second, third, fourth, fifth, ninth). 기수를 쓰거나 ’s·-th·-d를 잘못 붙이지 않도록 한다.\n풀이 순서: ① 우리말에서 ‘~ 번째’를 찾는다: 네 번째. 서수가 필요하다. → ② 그 서수의 바른 철자는 fourth(u가 들어간다). → ③ 기수를 그대로 쓴 것과 철자를 잘못 만든 것을 지운다. 정답은 ②.\n문장별 판정:\n정답 판단: ‘네 번째’를 서수 fourth로 바르게 나타냈으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 기수(four)로는 ‘~ 번째’를 나타낼 수 없으므로 오답이다.\n② [정답] ‘네 번째’를 서수 fourth로 바르게 나타냈으므로 정답이다.\n③ [오답] four의 서수는 u가 있는 fourth이고 forth는 ‘앞으로’라는 다른 말이므로 오답이다.\n④ [오답] ’s를 붙여도 서수가 되지 않으므로 오답이다.\n⑤ [오답] fourd라는 말은 없고 서수는 fourth이므로 오답이다."
+  },
+  "C": {
+   "stem": "다음 중 우리말 '그는 두 번째 문제를 풀고 있다'를 영어로 바르게 옮긴 것은?",
+   "passage": "",
+   "c": [
+    "He is solving the two question.",
+    "He is solving the twoth question.",
+    "He is solving the two's question.",
+    "He is solving the second question.",
+    "He is solving the twond question."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: ‘~ 번째’는 서수로 나타낸다(first, second, third, fourth, fifth, ninth). 기수를 쓰거나 ’s·-th·-d를 잘못 붙이지 않도록 한다.\n풀이 순서: ① 우리말에서 ‘~ 번째’를 찾는다: 두 번째. 서수가 필요하다. → ② 그 서수의 바른 철자는 second. → ③ 기수를 그대로 쓴 것과 철자를 잘못 만든 것을 지운다. 정답은 ④.\n문장별 판정:\n정답 판단: ‘두 번째’를 서수 second로 바르게 나타냈으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 기수(two)로는 ‘~ 번째’를 나타낼 수 없으므로 오답이다.\n② [오답] two의 서수는 second이고 twoth라는 말은 없으므로 오답이다.\n③ [오답] ’s를 붙여도 서수가 되지 않으므로 오답이다.\n④ [정답] ‘두 번째’를 서수 second로 바르게 나타냈으므로 정답이다.\n⑤ [오답] twond라는 말은 없고 서수는 second이므로 오답이다."
+  },
+  "D": {
+   "stem": "다음 중 우리말 '나는 첫 번째 줄에 서 있다'를 영어로 바르게 옮긴 것은?",
+   "passage": "",
+   "c": [
+    "I am standing in the first row.",
+    "I am standing in the one row.",
+    "I am standing in the oneth row.",
+    "I am standing in the fist row.",
+    "I am standing in the one's row."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: ‘~ 번째’는 서수로 나타낸다(first, second, third, fourth, fifth, ninth). 기수를 쓰거나 ’s·-th·-d를 잘못 붙이지 않도록 한다.\n풀이 순서: ① 우리말에서 ‘~ 번째’를 찾는다: 첫 번째. 서수가 필요하다. → ② 그 서수의 바른 철자는 first. → ③ 기수를 그대로 쓴 것과 철자를 잘못 만든 것을 지운다. 정답은 ①.\n문장별 판정:\n정답 판단: ‘첫 번째’를 서수 first로 바르게 나타냈으므로 정답은 ①이다.\n선택지 분석:\n① [정답] ‘첫 번째’를 서수 first로 바르게 나타냈으므로 정답이다.\n② [오답] 기수(one)로는 ‘~ 번째’를 나타낼 수 없으므로 오답이다.\n③ [오답] one의 서수는 first이고 oneth라는 말은 없으므로 오답이다.\n④ [오답] fist는 ‘주먹’이라는 다른 말이고 서수는 first이므로 오답이다.\n⑤ [오답] ’s를 붙여도 서수가 되지 않으므로 오답이다."
+  },
+  "E": {
+   "stem": "다음 중 우리말 'Tom은 다섯 번째 학생이다'를 영어로 바르게 옮긴 것은?",
+   "passage": "",
+   "c": [
+    "Tom is the five student.",
+    "Tom is the fiveth student.",
+    "Tom is the five's student.",
+    "Tom is the fivth student.",
+    "Tom is the fifth student."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: ‘~ 번째’는 서수로 나타낸다(first, second, third, fourth, fifth, ninth). 기수를 쓰거나 ’s·-th·-d를 잘못 붙이지 않도록 한다.\n풀이 순서: ① 우리말에서 ‘~ 번째’를 찾는다: 다섯 번째. 서수가 필요하다. → ② 그 서수의 바른 철자는 fifth(ve를 f로 바꾼다). → ③ 기수를 그대로 쓴 것과 철자를 잘못 만든 것을 지운다. 정답은 ⑤.\n문장별 판정:\n정답 판단: ‘다섯 번째’를 서수 fifth로 바르게 나타냈으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 기수(five)로는 ‘~ 번째’를 나타낼 수 없으므로 오답이다.\n② [오답] five의 서수는 ve를 f로 바꾼 fifth이므로 오답이다.\n③ [오답] ’s를 붙여도 서수가 되지 않으므로 오답이다.\n④ [오답] fivth라는 말은 없고 서수는 fifth이므로 오답이다.\n⑤ [정답] ‘다섯 번째’를 서수 fifth로 바르게 나타냈으므로 정답이다."
+  },
+  "F": {
+   "stem": "다음 중 우리말 'Jane은 아홉 번째 주자이다'를 영어로 바르게 옮긴 것은?",
+   "passage": "",
+   "c": [
+    "Jane is the nine runner.",
+    "Jane is the nineth runner.",
+    "Jane is the ninth runner.",
+    "Jane is the nine's runner.",
+    "Jane is the nineteenth runner."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: ‘~ 번째’는 서수로 나타낸다(first, second, third, fourth, fifth, ninth). 기수를 쓰거나 ’s·-th·-d를 잘못 붙이지 않도록 한다.\n풀이 순서: ① 우리말에서 ‘~ 번째’를 찾는다: 아홉 번째. 서수가 필요하다. → ② 그 서수의 바른 철자는 ninth(e를 뺀다). → ③ 기수를 그대로 쓴 것과 철자를 잘못 만든 것을 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: ‘아홉 번째’를 서수 ninth로 바르게 나타냈으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 기수(nine)로는 ‘~ 번째’를 나타낼 수 없으므로 오답이다.\n② [오답] nine의 서수는 e를 뺀 ninth이므로 오답이다.\n③ [정답] ‘아홉 번째’를 서수 ninth로 바르게 나타냈으므로 정답이다.\n④ [오답] ’s를 붙여도 서수가 되지 않으므로 오답이다.\n⑤ [오답] nineteenth는 ‘열아홉 번째’이므로 오답이다."
+  }
+ },
+ "prior_review": {}
+}

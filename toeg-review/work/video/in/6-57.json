@@ -1,0 +1,86 @@
+{
+ "key": "6-57",
+ "grade": 6,
+ "chapter": "CH 6 의문사 의문문",
+ "items": {
+  "A": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것은?",
+   "passage": "그는 무엇을 좋아하니?",
+   "c": [
+    "What does he like?",
+    "What is he like?",
+    "What he likes?",
+    "What do he like?",
+    "What does he likes?"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 일반동사가 있는 의문사 의문문은 의문사 + do/does + 주어 + 동사원형 ~?이다.\n풀이 순서: ① 우리말에서 의문사를 정한다: ‘무엇을’ → What. → ② 주어(he)에 맞는 do/does와 동사원형을 정한다: does he like. → ③ 의문사 + does he like의 순서인 것을 고른다. 정답은 ①.\n문장별 판정:\n정답 판단: What + does + he + 동사원형 like로 바르게 옮겼으므로 정답은 ①이다.\n선택지 분석:\n① [정답] What + does + he + 동사원형 like로 바르게 옮겼으므로 정답이다.\n② [오답] What is he like?는 ‘그는 어떤 사람이니?’라는 다른 뜻이므로 오답이다.\n③ [오답] does 없이 평서문 어순으로 썼으므로 오답이다.\n④ [오답] 3인칭 단수 주어 he에는 does를 써야 하므로 오답이다.\n⑤ [오답] does 뒤에는 동사원형 like를 써야 하므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것은?",
+   "passage": "Tom은 무엇을 원하니?",
+   "c": [
+    "How does Tom want?",
+    "What does Tom want?",
+    "What does Tom wants?",
+    "What is Tom want?",
+    "What do Tom want?"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 의문사의 뜻을 먼저 맞춘 뒤 do/does+주어+동사원형인지 확인한다.\n풀이 순서: ① 우리말에서 의문사를 정한다: ‘무엇을’ → What. → ② 주어(Tom)에 맞는 do/does와 동사원형을 정한다: does Tom want. → ③ 의문사 + does Tom want의 순서인 것을 고른다. 정답은 ②.\n문장별 판정:\n정답 판단: Does는 주어 Tom에 맞고, 뒤의 본동사 want도 원형이다. 어순은 Does+Tom+want이다. 따라서 정답은 ②이다.\n선택지 분석:\n① [오답] How는 어떻게·어느 정도를 묻지만 우리말은 무엇·어떤 것을 묻는다. Does는 주어 Tom에 맞고, 뒤의 본동사 want도 원형이다. 어순은 Does+Tom+want이다.\n② [정답] Does는 주어 Tom에 맞고, 뒤의 본동사 want도 원형이다. 어순은 Does+Tom+want이다.\n③ [오답] Does가 시제·인칭 정보를 나타내므로 본동사는 wants가 아니라 원형 want를 쓴다.\n④ [오답] Tom의 현재 일반동사 의문문에서는 의문사 뒤에 Does를 둔다. Is를 Does로 고친다.\n⑤ [오답] Tom의 현재 일반동사 의문문에서는 의문사 뒤에 Does를 둔다. Do를 Does로 고친다."
+  },
+  "C": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것은?",
+   "passage": "그녀는 어디에 사니?",
+   "c": [
+    "Where do she live?",
+    "Where is she live?",
+    "Where does she lives?",
+    "Where she lives?",
+    "Where does she live?"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 의문사의 뜻을 먼저 맞춘 뒤 do/does+주어+동사원형인지 확인한다.\n풀이 순서: ① 우리말에서 의문사를 정한다: ‘어디에’ → Where. → ② 주어(she)에 맞는 do/does와 동사원형을 정한다: does she live. → ③ 의문사 + does she live의 순서인 것을 고른다. 정답은 ⑤.\n문장별 판정:\n정답 판단: Does는 주어 she에 맞고, 뒤의 본동사 live도 원형이다. 어순은 Does+she+live이다. 따라서 정답은 ⑤이다.\n선택지 분석:\n① [오답] she의 현재 일반동사 의문문에서는 의문사 뒤에 Does를 둔다. Do를 Does로 고친다.\n② [오답] she의 현재 일반동사 의문문에서는 의문사 뒤에 Does를 둔다. Is를 Does로 고친다.\n③ [오답] Does가 시제·인칭 정보를 나타내므로 본동사는 lives가 아니라 원형 live를 쓴다.\n④ [오답] 일반동사의 기본형 직접 의문문은 의문사+do/does+주어+동사원형의 순서이다. 의문사 뒤에 주어를 먼저 놓지 않는다.\n⑤ [정답] Does는 주어 she에 맞고, 뒤의 본동사 live도 원형이다. 어순은 Does+she+live이다."
+  },
+  "D": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것은?",
+   "passage": "너는 왜 뛰니?",
+   "c": [
+    "Why do you run?",
+    "When do you run?",
+    "Why does you run?",
+    "Why do you runs?",
+    "How do you run?"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 의문사의 뜻을 먼저 맞춘 뒤 do/does+주어+동사원형인지 확인한다.\n풀이 순서: ① 우리말에서 의문사를 정한다: ‘왜’ → Why. → ② 주어(you)에 맞는 do/does와 동사원형을 정한다: do you run. → ③ 의문사 + do you run의 순서인 것을 고른다. 정답은 ①.\n문장별 판정:\n정답 판단: Do는 주어 you에 맞고, 뒤의 본동사 run도 원형이다. 의문사 뒤의 어순은 Do+you+run이다. 따라서 정답은 ①이다.\n선택지 분석:\n① [정답] Do는 주어 you에 맞고, 뒤의 본동사 run도 원형이다. 의문사 뒤의 어순은 Do+you+run이다.\n② [오답] When은 언제(시간)를 묻지만 우리말은 왜(이유)를 묻는다. Do는 주어 you에 맞고, 뒤의 본동사 run도 원형이다. 의문사 뒤의 어순은 Do+you+run이다.\n③ [오답] you의 현재 일반동사 의문문에서는 의문사 뒤에 Do를 둔다. Does를 Do로 고친다.\n④ [오답] Do가 시제·인칭 정보를 나타내므로 본동사는 runs가 아니라 원형 run을 쓴다.\n⑤ [오답] How는 어떻게·어느 정도를 묻지만 우리말은 왜(이유)를 묻는다. Do는 주어 you에 맞고, 뒤의 본동사 run도 원형이다. 의문사 뒤의 어순은 Do+you+run이다."
+  },
+  "E": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것은?",
+   "passage": "그들은 언제 공부하니?",
+   "c": [
+    "When do they study?",
+    "When do they studies?",
+    "How do they study?",
+    "What do they study?",
+    "When does they study?"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 의문사의 뜻을 먼저 맞춘 뒤 do/does+주어+동사원형인지 확인한다.\n풀이 순서: ① 우리말에서 의문사를 정한다: ‘언제’ → When. → ② 주어(they)에 맞는 do/does와 동사원형을 정한다: do they study. → ③ 의문사 + do they study의 순서인 것을 고른다. 정답은 ①.\n문장별 판정:\n정답 판단: Do는 주어 they에 맞고, 뒤의 본동사 study도 원형이다. 어순은 Do+they+study이다. 따라서 정답은 ①이다.\n선택지 분석:\n① [정답] Do는 주어 they에 맞고, 뒤의 본동사 study도 원형이다. 어순은 Do+they+study이다.\n② [오답] Do가 시제·인칭 정보를 나타내므로 본동사는 studies가 아니라 원형 study를 쓴다.\n③ [오답] How는 어떻게·어느 정도를 묻지만 우리말은 언제(시간)를 묻는다. Do는 주어 they에 맞고, 뒤의 본동사 study도 원형이다. 어순은 Do+they+study이다.\n④ [오답] What은 무엇·어떤 것을 묻지만 우리말은 언제(시간)를 묻는다. Do는 주어 they에 맞고, 뒤의 본동사 study도 원형이다. 어순은 Do+they+study이다.\n⑤ [오답] they의 현재 일반동사 의문문에서는 의문사 뒤에 Do를 둔다. Does를 Do로 고친다."
+  },
+  "F": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것은?",
+   "passage": "그녀는 어떻게 회사에 가니?",
+   "c": [
+    "How do she get to work?",
+    "How does she gets to work?",
+    "What does she get to work?",
+    "How does she get to work?",
+    "How is she get to work?"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 의문사 의문문은 의문사 + do/does + 주어 + 동사원형 ~?(일반동사) 또는 의문사 + be동사 + 주어 ~?로 쓴다. 3인칭 단수 주어에는 does를, 그 밖의 주어에는 do를 쓴다.\n풀이 순서: ① 우리말에서 의문사를 정한다: ‘어떻게’ → How. → ② 주어(she)에 맞는 do/does와 동사원형을 정한다: does she get to work. → ③ 의문사 + does she get to work의 순서인 것을 고른다. 정답은 ④.\n문장별 판정:\n정답 판단: How + does + 주어 + 동사원형으로 바르게 옮겼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 3인칭 단수 주어 she에는 does를 써야 하므로 오답이다.\n② [오답] does 뒤에는 동사원형 get을 써야 하므로 오답이다.\n③ [오답] ‘어떻게’는 What이 아니라 How로 물으므로 오답이다.\n④ [정답] How + does + 주어 + 동사원형으로 바르게 옮겼으므로 정답이다.\n⑤ [오답] 일반동사 get의 의문문에 be동사 is를 쓸 수 없으므로 오답이다."
+  }
+ },
+ "prior_review": {}
+}

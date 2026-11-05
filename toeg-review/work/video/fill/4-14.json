@@ -1,0 +1,494 @@
+{
+ "A": {
+  "title": "단수·복수 취급 명사와 동사",
+  "intro": "이 문제는 주어가 단수 취급인지 복수 취급인지 보고, 동사가 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 틀린 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "news → s로 끝나도 단수 취급",
+    "셀 수 없는 명사(information, advice) → 단수 취급",
+    "pants, jeans, scissors(두 부분이 짝인 물건) → 하나여도 복수 취급",
+    "이런 명사가 주어일 때: 단수 취급 → is, was, looks   복수 취급 → are, were, look",
+    "예) The news is good. (그 소식은 좋아요.)  These jeans are old. (이 청바지는 낡았어요.)"
+   ],
+   "narration": "news는 s로 끝나도 단수 취급하고, information, advice 같은 셀 수 없는 명사도 단수 취급해요. pants, scissors처럼 두 부분이 짝을 이루는 물건은 하나여도 복수 취급해요. 이런 주어가 단수 취급이면 is나 looks, 복수 취급이면 are나 look처럼 써요. 예를 들어 The news is good, 그 소식은 좋아요. These jeans are old, 이 청바지는 낡았어요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 친 동사의 주어 찾기: information, news, pants, advice, scissors",
+    "highlight": [
+     "information",
+     "news",
+     "pants",
+     "advice",
+     "scissors"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 동사의 주어 information, news, pants, advice, scissors를 찾아요."
+   },
+   {
+    "note": "pants, scissors = 두 부분이 짝인 물건 → 복수 취급 → look, are 맞음",
+    "highlight": [],
+    "strike": [
+     "③ These pants <u>look</u> good on you.",
+     "⑤ Those scissors <u>are</u> very sharp."
+    ],
+    "narration": "둘째, pants와 scissors는 두 부분이 짝을 이루는 물건이라 복수 취급하니, look과 are가 맞아요."
+   },
+   {
+    "note": "information, advice = 셀 수 없는 명사 → is 맞음. news는 s로 끝나도 단수 취급 → are ✗ → is",
+    "highlight": [
+     "② The news <u>are</u> interesting."
+    ],
+    "strike": [
+     "① This information <u>is</u> useful.",
+     "④ That advice <u>is</u> helpful."
+    ],
+    "narration": "셋째, information과 advice는 셀 수 없는 명사라 is가 맞아요. 그런데 news는 s로 끝나도 단수 취급하니, are가 아니라 is를 써야 해요. The news is interesting, 그 소식은 흥미로워요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① This information <u>is</u> useful.  ✗  information은 셀 수 없는 명사 → 단수 is",
+    "② The news <u>are</u> interesting.  ✓  news는 s로 끝나도 단수 취급 → is로 고쳐요",
+    "③ These pants <u>look</u> good on you.  ✗  pants는 두 부분이 짝인 물건 → 복수 look",
+    "④ That advice <u>is</u> helpful.  ✗  advice는 셀 수 없는 명사 → 단수 is",
+    "⑤ Those scissors <u>are</u> very sharp.  ✗  scissors는 두 부분이 짝인 물건 → 복수 are"
+   ],
+   "narration": "정답은 2번이에요. news는 s로 끝나서 복수처럼 보이지만, 단수 취급해서 is를 써야 해요. 3번 pants는 바지 한 벌이어도 복수 취급하니 look이 맞아요. 5번 scissors 역시 가위 하나여도 복수 취급해서 are가 맞아요."
+  },
+  "summary": {
+   "card": "news·셀 수 없는 명사 → 단수 취급   두 부분이 짝인 물건 → 복수 취급",
+   "narration": "정답은 2번이에요. 기억할 것, news는 s로 끝나도 단수 취급하고, pants처럼 짝을 이루는 물건은 복수 취급해요."
+  },
+  "captions": [
+   "단수·복수 취급 명사와 동사",
+   "먼저 풀어 보세요",
+   "단수 취급과 복수 취급",
+   "주어 찾기 → 복수 → 단수 확인",
+   "정답 ② The news are",
+   "news는 단수 취급"
+  ],
+  "sec": [
+   10,
+   14,
+   32,
+   36,
+   21,
+   10
+  ]
+ },
+ "B": {
+  "title": "단수·복수 취급 명사와 동사",
+  "intro": "이 문제는 주어가 단수 취급인지 복수 취급인지 보고, 동사가 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 틀린 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "학문 이름(mathematics, physics) → s로 끝나도 단수 취급",
+    "셀 수 없는 명사(advice, information) → 단수 취급",
+    "glasses, shorts, jeans(두 부분이 짝인 물건) → 하나여도 복수 취급",
+    "이런 명사가 주어일 때: 단수 취급 → is, was, looks   복수 취급 → are, were, look",
+    "예) Physics is difficult. (물리학은 어려워요.)  These jeans are old. (이 청바지는 낡았어요.)"
+   ],
+   "narration": "mathematics 같은 학문 이름은 s로 끝나도 단수 취급하고, advice 같은 셀 수 없는 명사도 단수 취급해요. 안경 glasses와 반바지 shorts처럼 두 부분이 짝을 이루는 물건은 하나여도 복수 취급해요. 이런 주어가 단수 취급이면 is나 looks, 복수 취급이면 are나 look처럼 써요. 예를 들어 Physics is difficult, 물리학은 어려워요. These jeans are old, 이 청바지는 낡았어요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 친 동사의 주어 찾기: glasses, Mathematics, shorts, advice, jeans",
+    "highlight": [
+     "glasses",
+     "Mathematics",
+     "shorts",
+     "advice",
+     "jeans"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 동사의 주어 glasses, Mathematics, shorts, advice, jeans를 찾아요."
+   },
+   {
+    "note": "glasses, shorts, jeans = 두 부분이 짝인 물건 → 복수 취급 → are, look, are 맞음",
+    "highlight": [],
+    "strike": [
+     "① My glasses <u>are</u> on the table.",
+     "③ The shorts <u>look</u> too big.",
+     "⑤ The jeans <u>are</u> blue."
+    ],
+    "narration": "둘째, glasses, shorts, jeans는 두 부분이 짝을 이루는 물건이라 복수 취급하니, are, look, are가 맞아요."
+   },
+   {
+    "note": "advice = 셀 수 없는 명사 → was 맞음. Mathematics = 학문 이름 → 단수 취급 → are ✗ → is",
+    "highlight": [
+     "② Mathematics <u>are</u> my favorite subject."
+    ],
+    "strike": [
+     "④ His advice <u>was</u> very helpful."
+    ],
+    "narration": "셋째, advice는 셀 수 없는 명사라 was가 맞아요. 그런데 Mathematics는 s로 끝나도 학문 이름이라 단수 취급하니, are가 아니라 is를 써야 해요. Mathematics is my favorite subject, 수학은 내가 가장 좋아하는 과목이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① My glasses <u>are</u> on the table.  ✗  glasses(안경)는 두 부분이 짝인 물건 → 복수 are",
+    "② Mathematics <u>are</u> my favorite subject.  ✓  학문 이름은 s로 끝나도 단수 취급 → is로 고쳐요",
+    "③ The shorts <u>look</u> too big.  ✗  shorts(반바지)는 두 부분이 짝인 물건 → 복수 look",
+    "④ His advice <u>was</u> very helpful.  ✗  advice는 셀 수 없는 명사 → 단수 was",
+    "⑤ The jeans <u>are</u> blue.  ✗  jeans는 두 부분이 짝인 물건 → 복수 are"
+   ],
+   "narration": "정답은 2번이에요. Mathematics는 s로 끝나서 복수처럼 보이지만, 학문 이름이라 is를 써야 해요. 3번 shorts는 반바지 한 벌이어도 복수 취급하니 look이 맞아요. 1번 glasses 역시 안경 하나여도 복수 취급해서 are가 맞아요."
+  },
+  "summary": {
+   "card": "학문 이름·셀 수 없는 명사 → 단수 취급   두 부분이 짝인 물건 → 복수 취급",
+   "narration": "정답은 2번이에요. 기억할 것, mathematics 같은 학문 이름은 s로 끝나도 단수 취급해요."
+  },
+  "captions": [
+   "단수·복수 취급 명사와 동사",
+   "먼저 풀어 보세요",
+   "단수 취급과 복수 취급",
+   "주어 찾기 → 복수 → 단수 확인",
+   "정답 ② Mathematics are",
+   "학문 이름은 단수 취급"
+  ],
+  "sec": [
+   10,
+   14,
+   32,
+   38,
+   21,
+   10
+  ]
+ },
+ "C": {
+  "title": "단수·복수 취급 명사와 동사",
+  "intro": "이 문제는 주어가 단수 취급인지 복수 취급인지 보고, 동사가 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 틀린 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "학문 이름(physics, mathematics) → s로 끝나도 단수 취급",
+    "셀 수 없는 명사(bread, advice) → 단수 취급",
+    "pants, jeans, scissors(두 부분이 짝인 물건) → 하나여도 복수 취급",
+    "이런 명사가 주어일 때: 단수 취급 → is, was, looks   복수 취급 → are, were, look",
+    "예) Economics is difficult. (경제학은 어려워요.)  These jeans are old. (이 청바지는 낡았어요.)"
+   ],
+   "narration": "physics 같은 학문 이름은 s로 끝나도 단수 취급하고, bread 같은 셀 수 없는 명사도 단수 취급해요. pants, scissors처럼 두 부분이 짝을 이루는 물건은 하나여도 복수 취급해요. 이런 주어가 단수 취급이면 is나 looks, 복수 취급이면 are나 look처럼 써요. 예를 들어 Economics is difficult, 경제학은 어려워요. These jeans are old, 이 청바지는 낡았어요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 친 동사의 주어 찾기: scissors, bread, Physics, pants, children",
+    "highlight": [
+     "scissors",
+     "bread",
+     "Physics",
+     "pants",
+     "children"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 동사의 주어 scissors, bread, Physics, pants, children을 찾아요."
+   },
+   {
+    "note": "bread = 셀 수 없는 명사, Physics = 학문 이름 → 단수 취급 → is 맞음",
+    "highlight": [],
+    "strike": [
+     "② This bread <u>is</u> fresh.",
+     "③ Physics <u>is</u> hard for me."
+    ],
+    "narration": "둘째, bread는 셀 수 없는 명사이고 Physics는 학문 이름이라 둘 다 단수 취급하니, is가 맞아요."
+   },
+   {
+    "note": "scissors = 두 부분이 짝인 물건, children = child의 복수형 → are 맞음",
+    "highlight": [],
+    "strike": [
+     "① The scissors <u>are</u> on the desk.",
+     "⑤ The children <u>are</u> playing."
+    ],
+    "narration": "셋째, scissors는 두 부분이 짝을 이루는 물건이고 children은 child의 복수형이라, are가 맞아요."
+   },
+   {
+    "note": "pants = 두 부분이 짝인 물건 → 하나여도 복수 취급 → is ✗ → are",
+    "highlight": [
+     "④ My pants <u>is</u> too long."
+    ],
+    "strike": [],
+    "narration": "넷째, pants도 두 부분이 짝을 이루는 물건이라 하나여도 복수 취급하니, is가 아니라 are를 써야 해요. My pants are too long, 내 바지는 너무 길어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The scissors <u>are</u> on the desk.  ✗  scissors는 두 부분이 짝인 물건 → 복수 are",
+    "② This bread <u>is</u> fresh.  ✗  bread는 셀 수 없는 명사 → 단수 is",
+    "③ Physics <u>is</u> hard for me.  ✗  학문 이름은 s로 끝나도 단수 취급 → is",
+    "④ My pants <u>is</u> too long.  ✓  pants는 두 부분이 짝인 물건 → are로 고쳐요",
+    "⑤ The children <u>are</u> playing.  ✗  children은 child의 복수형 → are"
+   ],
+   "narration": "정답은 4번이에요. pants는 바지 한 벌이어도 복수 취급해서 are를 써야 해요. 3번 Physics는 s로 끝나서 복수처럼 보이지만, 학문 이름이라 is가 맞아요. 1번 scissors 역시 가위 하나여도 복수 취급해서 are가 맞아요."
+  },
+  "summary": {
+   "card": "학문 이름·셀 수 없는 명사 → 단수 취급   두 부분이 짝인 물건 → 복수 취급",
+   "narration": "정답은 4번이에요. 기억할 것, pants나 scissors처럼 두 부분이 짝을 이루는 물건은 하나여도 복수 취급해요."
+  },
+  "captions": [
+   "단수·복수 취급 명사와 동사",
+   "먼저 풀어 보세요",
+   "단수 취급과 복수 취급",
+   "주어 찾기 → 단수 → 복수 확인",
+   "정답 ④ My pants is",
+   "짝인 물건은 복수 취급"
+  ],
+  "sec": [
+   10,
+   14,
+   32,
+   40,
+   21,
+   10
+  ]
+ },
+ "D": {
+  "title": "단수·복수 취급 명사와 동사",
+  "intro": "이 문제는 주어가 단수 취급인지 복수 취급인지 보고, 동사가 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 틀린 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "news와 학문 이름(economics, physics) → s로 끝나도 단수 취급",
+    "셀 수 없는 명사(furniture, advice) → 단수 취급",
+    "pants, jeans, scissors(두 부분이 짝인 물건) → 하나여도 복수 취급",
+    "이런 명사가 주어일 때: 단수 취급 → is, was, looks   복수 취급 → are, were, look",
+    "예) Physics is difficult. (물리학은 어려워요.)  These jeans are old. (이 청바지는 낡았어요.)"
+   ],
+   "narration": "news와 economics 같은 학문 이름은 s로 끝나도 단수 취급하고, furniture 같은 셀 수 없는 명사도 단수 취급해요. jeans, scissors처럼 두 부분이 짝을 이루는 물건은 하나여도 복수 취급해요. 이런 주어가 단수 취급이면 is나 looks, 복수 취급이면 are나 look처럼 써요. 예를 들어 Physics is difficult, 물리학은 어려워요. These jeans are old, 이 청바지는 낡았어요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 친 동사의 주어 찾기: Economics, scissors, furniture, jeans, news",
+    "highlight": [
+     "Economics",
+     "scissors",
+     "furniture",
+     "jeans",
+     "news"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 동사의 주어 Economics, scissors, furniture, jeans, news를 찾아요."
+   },
+   {
+    "note": "Economics = 학문 이름, furniture = 셀 수 없는 명사, news → 단수 취급 → is, looks, is 맞음",
+    "highlight": [],
+    "strike": [
+     "① Economics <u>is</u> interesting.",
+     "③ The furniture <u>looks</u> old.",
+     "⑤ The good news <u>is</u> that we won."
+    ],
+    "narration": "둘째, 학문 이름 Economics, 셀 수 없는 명사 furniture, 그리고 news는 단수 취급하니, is, looks, is가 맞아요."
+   },
+   {
+    "note": "jeans, scissors = 두 부분이 짝인 물건 → 복수 취급. jeans are 맞음, scissors is ✗ → are",
+    "highlight": [
+     "② These scissors <u>is</u> sharp."
+    ],
+    "strike": [
+     "④ Her jeans <u>are</u> new."
+    ],
+    "narration": "셋째, jeans와 scissors는 두 부분이 짝을 이루는 물건이라 복수 취급해요. jeans 뒤의 are는 맞지만, scissors 뒤에는 is가 아니라 are를 써야 해요. These scissors are sharp, 이 가위는 날카로워요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Economics <u>is</u> interesting.  ✗  학문 이름은 s로 끝나도 단수 취급 → is",
+    "② These scissors <u>is</u> sharp.  ✓  scissors는 두 부분이 짝인 물건 → are로 고쳐요",
+    "③ The furniture <u>looks</u> old.  ✗  furniture는 셀 수 없는 명사 → 단수 looks",
+    "④ Her jeans <u>are</u> new.  ✗  jeans는 두 부분이 짝인 물건 → 복수 are",
+    "⑤ The good news <u>is</u> that we won.  ✗  news는 s로 끝나도 단수 취급 → is"
+   ],
+   "narration": "정답은 2번이에요. scissors는 가위 하나여도 복수 취급해서 are를 써야 해요. 1번 Economics는 s로 끝나지만 학문 이름이라 is가 맞아요. 5번 news도 s로 끝나지만 단수 취급해서 is가 맞아요. 3번 furniture는 셀 수 없는 명사라 looks가 맞아요."
+  },
+  "summary": {
+   "card": "news·학문 이름·셀 수 없는 명사 → 단수 취급   두 부분이 짝인 물건 → 복수 취급",
+   "narration": "정답은 2번이에요. 기억할 것, scissors나 jeans처럼 두 부분이 짝을 이루는 물건은 하나여도 복수 취급해요."
+  },
+  "captions": [
+   "단수·복수 취급 명사와 동사",
+   "먼저 풀어 보세요",
+   "단수 취급과 복수 취급",
+   "주어 찾기 → 단수 → 복수 확인",
+   "정답 ② These scissors is",
+   "짝인 물건은 복수 취급"
+  ],
+  "sec": [
+   10,
+   14,
+   32,
+   38,
+   24,
+   10
+  ]
+ },
+ "E": {
+  "title": "단수·복수 취급 명사와 동사",
+  "intro": "이 문제는 주어가 단수 취급인지 복수 취급인지 보고, 동사가 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 틀린 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "news → s로 끝나도 단수 취급",
+    "셀 수 없는 명사(advice, information) → 단수 취급",
+    "police, 두 부분이 짝인 물건(glasses, sunglasses) → 복수 취급",
+    "이런 명사가 주어일 때: 단수 취급 → is, was, looks   복수 취급 → are, were, look",
+    "예) The news is good. (그 소식은 좋아요.)  These jeans are old. (이 청바지는 낡았어요.)"
+   ],
+   "narration": "news는 s로 끝나도 단수 취급하고, advice 같은 셀 수 없는 명사도 단수 취급해요. police는 s가 없어도 복수 취급하고, sunglasses처럼 두 부분이 짝을 이루는 물건은 하나여도 복수 취급해요. 이런 주어가 단수 취급이면 is나 looks, 복수 취급이면 are나 look처럼 써요. 예를 들어 The news is good, 그 소식은 좋아요. These jeans are old, 이 청바지는 낡았어요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 친 동사의 주어 찾기: police, advice, sunglasses, news, socks",
+    "highlight": [
+     "police",
+     "advice",
+     "sunglasses",
+     "news",
+     "socks"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 동사의 주어 police, advice, sunglasses, news, socks를 찾아요."
+   },
+   {
+    "note": "advice = 셀 수 없는 명사, news = s로 끝나도 단수 → is, was 맞음",
+    "highlight": [],
+    "strike": [
+     "② Your advice <u>is</u> always useful.",
+     "④ The news <u>was</u> surprising."
+    ],
+    "narration": "둘째, advice는 셀 수 없는 명사이고 news는 s로 끝나도 단수 취급하니, is와 was가 맞아요."
+   },
+   {
+    "note": "police = 복수 취급, socks = sock의 복수형 → are 맞음",
+    "highlight": [],
+    "strike": [
+     "① The police <u>are</u> looking for him.",
+     "⑤ Those socks <u>are</u> dirty."
+    ],
+    "narration": "셋째, police는 복수 취급하고 socks는 sock의 복수형이라, are가 맞아요."
+   },
+   {
+    "note": "sunglasses = 두 부분이 짝인 물건 → 하나여도 복수 취급 → is ✗ → are",
+    "highlight": [
+     "③ My sunglasses <u>is</u> in the car."
+    ],
+    "strike": [],
+    "narration": "넷째, sunglasses는 두 부분이 짝을 이루는 물건이라 하나여도 복수 취급하니, is가 아니라 are를 써야 해요. My sunglasses are in the car, 내 선글라스는 차 안에 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The police <u>are</u> looking for him.  ✗  police는 복수 취급 → are",
+    "② Your advice <u>is</u> always useful.  ✗  advice는 셀 수 없는 명사 → 단수 is",
+    "③ My sunglasses <u>is</u> in the car.  ✓  sunglasses는 두 부분이 짝인 물건 → are로 고쳐요",
+    "④ The news <u>was</u> surprising.  ✗  news는 s로 끝나도 단수 취급 → was",
+    "⑤ Those socks <u>are</u> dirty.  ✗  socks는 sock의 복수형 → are"
+   ],
+   "narration": "정답은 3번이에요. sunglasses는 선글라스 하나여도 복수 취급해서 are를 써야 해요. 1번 police는 s가 없어서 단수처럼 보이지만, 복수 취급하니 are가 맞아요. 4번 news는 s로 끝나지만 단수 취급해서 was가 맞아요."
+  },
+  "summary": {
+   "card": "news·셀 수 없는 명사 → 단수 취급   police·두 부분이 짝인 물건 → 복수 취급",
+   "narration": "정답은 3번이에요. 기억할 것, glasses나 sunglasses처럼 두 부분이 짝을 이루는 물건은 하나여도 복수 취급해요."
+  },
+  "captions": [
+   "단수·복수 취급 명사와 동사",
+   "먼저 풀어 보세요",
+   "단수 취급과 복수 취급",
+   "주어 찾기 → 단수 → 복수 확인",
+   "정답 ③ My sunglasses is",
+   "짝인 물건은 복수 취급"
+  ],
+  "sec": [
+   10,
+   14,
+   32,
+   40,
+   21,
+   10
+  ]
+ },
+ "F": {
+  "title": "단수·복수 취급 명사와 동사",
+  "intro": "이 문제는 주어가 단수 취급인지 복수 취급인지 보고, 동사가 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분이 틀린 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "학문 이름(mathematics, physics) → s로 끝나도 단수 취급",
+    "셀 수 없는 명사(information, advice) → 단수 취급",
+    "police, 두 부분이 짝인 물건(glasses, trousers) → 복수 취급",
+    "이런 명사가 주어일 때: 단수 취급 → is, was, looks   복수 취급 → are, were, look",
+    "예) Physics is difficult. (물리학은 어려워요.)  These jeans are old. (이 청바지는 낡았어요.)"
+   ],
+   "narration": "학문 이름 mathematics는 s로 끝나도 단수 취급하고, 셀 수 없는 명사 information도 단수 취급해요. police는 s가 없어도 복수 취급하고, trousers처럼 두 부분이 짝을 이루는 물건은 하나여도 복수 취급해요. 이런 주어가 단수 취급이면 is나 looks, 복수 취급이면 are나 look처럼 써요. 예를 들어 Physics is difficult, 물리학은 어려워요. These jeans are old, 이 청바지는 낡았어요."
+  },
+  "steps": [
+   {
+    "note": "밑줄 친 동사의 주어 찾기: Mathematics, police, information, glasses, trousers",
+    "highlight": [
+     "Mathematics",
+     "police",
+     "information",
+     "glasses",
+     "trousers"
+    ],
+    "strike": [],
+    "narration": "첫째, 밑줄 친 동사의 주어 Mathematics, police, information, glasses, trousers를 찾아요."
+   },
+   {
+    "note": "Mathematics = 학문 이름, information = 셀 수 없는 명사 → 단수 취급 → is, was 맞음",
+    "highlight": [],
+    "strike": [
+     "① Mathematics <u>is</u> easy for Tom.",
+     "③ The information <u>was</u> wrong."
+    ],
+    "narration": "둘째, 학문 이름 Mathematics와 셀 수 없는 명사 information은 단수 취급하니, is와 was가 맞아요."
+   },
+   {
+    "note": "glasses, trousers = 두 부분이 짝인 물건 → 복수 취급 → are, look 맞음",
+    "highlight": [],
+    "strike": [
+     "④ These glasses <u>are</u> new.",
+     "⑤ The trousers <u>look</u> nice."
+    ],
+    "narration": "셋째, glasses와 trousers는 두 부분이 짝을 이루는 물건이라 복수 취급하니, are와 look이 맞아요."
+   },
+   {
+    "note": "police = s가 없어도 복수 취급 → is ✗ → are",
+    "highlight": [
+     "② The police <u>is</u> here."
+    ],
+    "strike": [],
+    "narration": "넷째, police는 s가 없어도 복수 취급하니, is가 아니라 are를 써야 해요. The police are here, 경찰이 여기에 와 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Mathematics <u>is</u> easy for Tom.  ✗  학문 이름은 s로 끝나도 단수 취급 → is",
+    "② The police <u>is</u> here.  ✓  police는 복수 취급 → are로 고쳐요",
+    "③ The information <u>was</u> wrong.  ✗  information은 셀 수 없는 명사 → 단수 was",
+    "④ These glasses <u>are</u> new.  ✗  glasses(안경)는 두 부분이 짝인 물건 → 복수 are",
+    "⑤ The trousers <u>look</u> nice.  ✗  trousers(바지)는 두 부분이 짝인 물건 → 복수 look"
+   ],
+   "narration": "정답은 2번이에요. police는 s가 없어서 단수처럼 보이지만, 복수 취급해서 are를 써야 해요. 1번 Mathematics는 s로 끝나지만 학문 이름이라 is가 맞아요. 5번 trousers는 바지 한 벌이어도 복수 취급하니 look이 맞아요."
+  },
+  "summary": {
+   "card": "학문 이름·셀 수 없는 명사 → 단수 취급   police·두 부분이 짝인 물건 → 복수 취급",
+   "narration": "정답은 2번이에요. 기억할 것, police는 s가 없어도 복수 취급하고, 학문 이름은 s로 끝나도 단수 취급해요."
+  },
+  "captions": [
+   "단수·복수 취급 명사와 동사",
+   "먼저 풀어 보세요",
+   "단수 취급과 복수 취급",
+   "주어 찾기 → 단수 → 복수 확인",
+   "정답 ② The police is",
+   "police는 복수 취급"
+  ],
+  "sec": [
+   10,
+   14,
+   32,
+   40,
+   21,
+   10
+  ]
+ }
+}

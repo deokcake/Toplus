@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영(3차)",
+  "done": true,
+  "doneAt": "2026-10-28T04:30:05.070Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "is go",
+      "1": "go",
+      "2": "to go",
+      "3": "going",
+      "4": "goes"
+    },
+    "expl": "핵심 규칙: Let's 뒤에는 동사원형을 쓴다. be동사의 원형은 be다.\n풀이 순서: ① Let's 뒤에는 동사원형이 온다. → ② ‘집에 가다’는 go home이고, 원형은 go다. → ③ 정답은 go.\n문장별 판정:\n정답 판단: Let's + 동사원형 go이므로 정답은 ②이다.\n선택지 분석:\n① [오답] be동사와 일반동사를 함께 쓸 수 없으므로 오답이다.\n② [정답] Let's + 동사원형 go이므로 정답이다.\n③ [오답] Let's 뒤에 to부정사를 쓸 수 없으므로 오답이다.\n④ [오답] Let's 뒤에 -ing형을 쓸 수 없으므로 오답이다.\n⑤ [오답] Let's 뒤에 -es가 붙은 형태를 쓸 수 없으므로 오답이다.",
+    "passage": "오늘은 일찍 집에 가자.\n→ Let's ________ home early today.",
+    "stem": "우리말 뜻에 맞게 빈칸에 들어갈 알맞은 단어를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T08:27:12.764Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T08:27:36.541Z",
+      "text": "기준 문한에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:30:05.070Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:30:02.842Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:30:05.070Z",
+      "what": "확인 완료"
+    }
+  }
+}

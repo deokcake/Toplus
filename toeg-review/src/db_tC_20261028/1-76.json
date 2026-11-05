@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:13:52.249Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "This bridge is stronger much than it was ten years ago.",
+      "1": "This bridge much is stronger than it was ten years ago.",
+      "2": "This bridge is much stronger than it was ten years ago.",
+      "3": "This bridge is much stronger it than was ten years ago.",
+      "4": "This bridge is much stronger than was it ten years ago."
+    },
+    "expl": "핵심 규칙: much/far/even/a little은 비교급 바로 앞에서 정도를 나타낸다. 주어 + be동사 + 강조어 + 비교급 + than + 비교 대상(절) 어순으로 쓴다.\n풀이 순서: ① 주어(this bridge)와 동사(is)를 먼저 세운다. → ② 비교급(stronger) 바로 앞에 강조어(much)를 놓고, 그 뒤에 than을 붙인다. → ③ than 뒤에 비교 대상(it was ten years ago)을 이으면 This bridge is much stronger than it was ten years ago.\n문장별 판정:\n정답 판단: 주어 + be동사 + 강조어 + 비교급 + than 어순이 바르다. 정답은 ③이다.\n선택지 분석:\n① [오답] 강조어가 비교급 뒤로 갔다. 강조어는 비교급 바로 앞에 둔다. 오답이다.\n② [오답] 강조어가 be동사 앞으로 가 주어 + be동사 어순이 깨졌다. 오답이다.\n③ [정답] 주어 + be동사 + 강조어 + 비교급 + than 어순이 바르다. 정답이다.\n④ [오답] than과 뒤의 말 순서가 뒤바뀌었다. than 뒤에 비교 대상(절)을 바른 어순으로 둔다. 오답이다.\n⑤ [오답] than과 뒤의 말 순서가 뒤바뀌었다. than 뒤에 비교 대상(절)을 바른 어순으로 둔다. 오답이다.",
+    "passage": "(stronger / it / this / than / much / years / was / bridge / ago / is / ten)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것으로 가장 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-21T06:56:37.649Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-21T06:56:52.803Z",
+      "text": "주어진 단어를 그대로 배열하면 정답이 된다.\n"
+    }
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T03:13:52.249Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:13:25.724Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:13:52.249Z",
+      "what": "확인 완료"
+    }
+  }
+}

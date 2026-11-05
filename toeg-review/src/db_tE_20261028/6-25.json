@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T08:42:47.439Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Yes, it is.",
+      "1": "Yes, it were.",
+      "2": "Yes, it was.",
+      "3": "Yes, it does.",
+      "4": "Yes, they were."
+    },
+    "expl": "핵심 규칙: Was/Were 의문문에는 Yes, 주어 + was/were. / No, 주어 + wasn't/weren't.로 답한다. 대답의 주어는 질문의 주어를 대명사로 받고(the cookies → they, Jane → she), 시제도 과거로 맞춘다.\n풀이 순서: ① 질문의 주어를 대명사로 바꾼다: the cake → it. → ② 질문이 과거(Was/Were)이므로 대답도 was/were로 하고, 대명사에 맞춘다: it was. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: the cake를 it으로 받아 was로 바르게 답했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 과거 질문에 현재형 is로 답했으므로 오답이다.\n② [오답] 단수 주어 it에는 was를 써야 하므로 오답이다.\n③ [정답] the cake를 it으로 받아 was로 바르게 답했으므로 정답이다.\n④ [오답] be동사 과거 질문에 does로 답했으므로 오답이다.\n⑤ [오답] the cake는 they가 아니라 it으로 받아야 하므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T08:42:46.190Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T08:42:47.439Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:42:47.439Z",
+      "what": "확인 완료"
+    }
+  }
+}

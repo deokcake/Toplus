@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 순서 정정",
+  "done": true,
+  "doneAt": "2026-10-27T05:34:41.851Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "nor",
+      "1": "and",
+      "2": "but also",
+      "3": "or",
+      "4": "as well as"
+    },
+    "expl": "핵심 규칙: both A and B = not only A but also B(A뿐 아니라 B도) = B as well as A이다. neither A nor B(A도 B도 아닌)는 not ~ A or B로, either A or B는 ‘A나 B 중 하나’로 나타낸다.\n풀이 순서: ① 첫 문장의 표현을 확인한다: A, or B(A나 B 가운데 하나). → ② 둘째 문장의 틀에 맞는 같은 뜻의 표현을 찾는다: either가 있으므로 either A or B. → ③ 정답은 or.\n문장별 판정:\n정답 판단: either A or B(A나 B 중 하나)로 바르게 바꿨으므로 정답은 ④이다.\n선택지 분석:\n① [오답] nor는 neither와 짝을 이루므로 오답이다.\n② [오답] either는 and가 아니라 or와 짝을 이루므로 오답이다.\n③ [오답] but also는 not only와 짝을 이루므로 오답이다.\n④ [정답] either A or B(A나 B 중 하나)로 바르게 바꿨으므로 정답이다.\n⑤ [오답] as well as는 ‘둘 다’의 뜻이라 ‘둘 중 하나’와 맞지 않으므로 오답이다.",
+    "passage": "Jane will go to the library, or she will go to the park.\n= Jane will go to either the library (<u>           </u>) the park.",
+    "stem": "두 문장의 의미가 같도록 빈칸에 알맞은 연결 표현을 고르시오."
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:34:41.851Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:34:41.851Z",
+      "what": "확인 완료"
+    }
+  }
+}

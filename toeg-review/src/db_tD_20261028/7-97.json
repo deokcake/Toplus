@@ -1,0 +1,28 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-21 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-22T03:59:27.415Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "are",
+      "1": "does",
+      "2": "am",
+      "3": "is",
+      "4": "do"
+    },
+    "expl": "핵심 규칙: be동사는 주어에 맞춘다: I → am, 한 사람·한 개(he, she, it, Today, Jane 등) → is, you·we·they·여럿 → are. ‘~이다’, ‘~하다(상태)’를 나타낼 때는 do/does가 아니라 be동사를 쓴다.\n풀이 순서: ① 빈칸 뒤에 hot처럼 ‘~이다/~하다(상태)’를 나타내는 말이 오므로 be동사 자리다. do/does는 일반동사와 쓰는 말이라 지운다. → ② 주어를 본다: It → is. → ③ 정답은 is.\n문장별 판정:\n정답 판단: 주어 It(한 개)에 맞는 be동사는 is이므로 정답이다.\n선택지 분석:\n① [오답] are는 you·we·they와 여럿인 주어에 쓰므로 오답이다.\n② [오답] does는 일반동사의 부정문·의문문에 쓰는 말이라 be동사 자리에 올 수 없으므로 오답이다.\n③ [오답] am은 주어 I에만 쓰므로 오답이다.\n④ [정답] 주어 It(한 개)에 맞는 be동사이므로 정답이다.\n⑤ [오답] do는 일반동사의 부정문·의문문에 쓰는 말이라 be동사 자리에 올 수 없으므로 오답이다.",
+    "passage": "Today is sunny. It ______ hot.",
+    "stem": "다음 빈칸에 들어갈 알맞은 단어를 고르세요."
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T03:59:27.415Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:59:27.415Z",
+      "what": "확인 완료"
+    }
+  }
+}

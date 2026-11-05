@@ -1,0 +1,86 @@
+{
+ "key": "5-1",
+ "grade": 5,
+ "chapter": "CH 1 대명사",
+ "items": {
+  "A": {
+   "stem": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.",
+   "passage": "Kelly and I are friends. _______ are friends.",
+   "c": [
+    "Ours",
+    "We",
+    "Us",
+    "Our",
+    "Their"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 주어 자리에는 주격 대명사를 쓴다. 나를 포함한 여럿(A and I)은 We, 나를 뺀 여럿은 They로 받는다.\n풀이 순서: ① 앞 문장의 주어를 대명사로 바꾼다: Kelly and I(나를 포함한 여럿)는 ‘우리’. → ② 빈칸은 동사 앞 주어 자리이므로 주격을 쓴다. → ③ 정답은 We.\n문장별 판정:\n정답 판단: Kelly and I를 받는 주격 We이므로 정답은 ②이다.\n선택지 분석:\n① [오답] Ours는 ‘우리의 것’이라는 소유대명사이므로 오답이다.\n② [정답] Kelly and I를 받는 주격 We이므로 정답이다.\n③ [오답] Us는 목적격이라 주어 자리에 쓸 수 없으므로 오답이다.\n④ [오답] Our는 소유격이라 뒤에 명사가 있어야 하므로 오답이다.\n⑤ [오답] Their는 ‘그들의’라는 소유격이므로 오답이다."
+  },
+  "B": {
+   "stem": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.",
+   "passage": "Tom and his sister are in the science club. _______ are in the science club.",
+   "c": [
+    "Their",
+    "Them",
+    "They",
+    "Theirs",
+    "Its"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 인칭대명사는 자리에 따라 주격(I, you, he, she, it, we, they), 소유격(my, your, his, her, its, our, their), 목적격(me, you, him, her, it, us, them), 소유대명사(mine, yours, his, hers, ours, theirs)로 쓴다.\n풀이 순서: ① 앞 문장의 주어를 대명사로 바꾼다: Tom and his sister(나를 뺀 여럿)는 ‘그들’. → ② 빈칸은 동사 앞 주어 자리이므로 주격을 쓴다. → ③ 정답은 They.\n문장별 판정:\n정답 판단: Tom and his sister를 받는 주격 They이므로 정답은 ③이다.\n선택지 분석:\n① [오답] Their: 소유격이라 주어 자리에 쓸 수 없으므로 오답이다.\n② [오답] Them: 목적격이라 주어 자리에 쓸 수 없으므로 오답이다.\n③ [정답] Tom and his sister를 받는 주격 They이므로 정답이다.\n④ [오답] Theirs: 소유대명사이라 주어 자리에 쓸 수 없으므로 오답이다.\n⑤ [오답] Its: 단수 사물의 소유격이라 맞지 않으므로 오답이다."
+  },
+  "C": {
+   "stem": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.",
+   "passage": "Jane is my cousin. _______ is my cousin.",
+   "c": [
+    "Her",
+    "She",
+    "Hers",
+    "Herself",
+    "Its"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 인칭대명사는 자리에 따라 주격(I, you, he, she, it, we, they), 소유격(my, your, his, her, its, our, their), 목적격(me, you, him, her, it, us, them), 소유대명사(mine, yours, his, hers, ours, theirs)로 쓴다.\n풀이 순서: ① 앞 문장의 주어를 대명사로 바꾼다: Jane(여자 한 명)은 ‘그녀’. → ② 빈칸은 동사 앞 주어 자리이므로 주격을 쓴다. → ③ 정답은 She.\n문장별 판정:\n정답 판단: Jane을 받는 주격 She이므로 정답은 ②이다.\n선택지 분석:\n① [오답] Her: 소유격·목적격이라 주어 자리에 쓸 수 없으므로 오답이다.\n② [정답] Jane을 받는 주격 She이므로 정답이다.\n③ [오답] Hers: 소유대명사이라 주어 자리에 쓸 수 없으므로 오답이다.\n④ [오답] Herself: 재귀대명사이라 주어 자리에 쓸 수 없으므로 오답이다.\n⑤ [오답] Its: 사물의 소유격이라 맞지 않으므로 오답이다."
+  },
+  "D": {
+   "stem": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.",
+   "passage": "My father is tall. _______ is tall.",
+   "c": [
+    "His",
+    "Him",
+    "Himself",
+    "He's",
+    "He"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 인칭대명사는 자리에 따라 주격(I, you, he, she, it, we, they), 소유격(my, your, his, her, its, our, their), 목적격(me, you, him, her, it, us, them), 소유대명사(mine, yours, his, hers, ours, theirs)로 쓴다.\n풀이 순서: ① 앞 문장의 주어를 대명사로 바꾼다: My father(남자 한 명)는 ‘그’. → ② 빈칸은 동사 앞 주어 자리이므로 주격을 쓴다. → ③ 정답은 He.\n문장별 판정:\n정답 판단: My father를 받는 주격 He이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] His: 소유격이라 주어 자리에 쓸 수 없으므로 오답이다.\n② [오답] Him: 목적격이라 주어 자리에 쓸 수 없으므로 오답이다.\n③ [오답] Himself: 재귀대명사이라 주어 자리에 쓸 수 없으므로 오답이다.\n④ [오답] He's: He is의 줄임말이라 뒤의 is와 겹치므로 오답이다.\n⑤ [정답] My father를 받는 주격 He이므로 정답이다."
+  },
+  "E": {
+   "stem": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.",
+   "passage": "You and Tom are late. _______ are late.",
+   "c": [
+    "You",
+    "Your",
+    "Yours",
+    "Yourself",
+    "Them"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 인칭대명사는 자리에 따라 주격(I, you, he, she, it, we, they), 소유격(my, your, his, her, its, our, their), 목적격(me, you, him, her, it, us, them), 소유대명사(mine, yours, his, hers, ours, theirs)로 쓴다.\n풀이 순서: ① 앞 문장의 주어를 대명사로 바꾼다: You and Tom(너를 포함한 여럿)은 ‘너희’. → ② 빈칸은 동사 앞 주어 자리이므로 주격을 쓴다. → ③ 정답은 You.\n문장별 판정:\n정답 판단: You and Tom을 받는 주격 You이므로 정답은 ①이다.\n선택지 분석:\n① [정답] You and Tom을 받는 주격 You이므로 정답이다.\n② [오답] Your: 소유격이라 주어 자리에 쓸 수 없으므로 오답이다.\n③ [오답] Yours: 소유대명사이라 주어 자리에 쓸 수 없으므로 오답이다.\n④ [오답] Yourself: 재귀대명사이라 주어 자리에 쓸 수 없으므로 오답이다.\n⑤ [오답] Them: 목적격이고 인칭도 맞지 않으므로 오답이다."
+  },
+  "F": {
+   "stem": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.",
+   "passage": "The dog is cute. _______ is cute.",
+   "c": [
+    "Its",
+    "It's",
+    "Itself",
+    "It",
+    "Them"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 인칭대명사는 자리에 따라 주격(I, you, he, she, it, we, they), 소유격(my, your, his, her, its, our, their), 목적격(me, you, him, her, it, us, them), 소유대명사(mine, yours, his, hers, ours, theirs)로 쓴다.\n풀이 순서: ① 앞 문장의 주어를 대명사로 바꾼다: The dog(동물 하나)은 ‘그것’. → ② 빈칸은 동사 앞 주어 자리이므로 주격을 쓴다. → ③ 정답은 It.\n문장별 판정:\n정답 판단: The dog를 받는 주격 It이므로 정답은 ④이다.\n선택지 분석:\n① [오답] Its: 소유격이라 주어 자리에 쓸 수 없으므로 오답이다.\n② [오답] It's: It is의 줄임말이라 뒤의 is와 겹치므로 오답이다.\n③ [오답] Itself: 재귀대명사이라 주어 자리에 쓸 수 없으므로 오답이다.\n④ [정답] The dog를 받는 주격 It이므로 정답이다.\n⑤ [오답] Them: 복수 목적격이라 맞지 않으므로 오답이다."
+  }
+ },
+ "prior_review": {}
+}

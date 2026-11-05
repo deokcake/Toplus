@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T06:41:09.983Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "to have been sick - to be ready",
+      "1": "have been sick - have been ready",
+      "2": "be sick - be ready",
+      "3": "have been sick - be ready",
+      "4": "been sick - be ready"
+    },
+    "expl": "핵심 규칙: seem/appear 뒤에서 판단 시점보다 앞선 일은 to have + 과거분사로, 판단과 같은 때의 일은 단순 to부정사로 나타낸다. 이 문항에서는 to가 두 빈칸 앞에 이미 주어져 있다.\n풀이 순서: ① 문장 쌍마다 주절과 that절의 시제를 견준다. → ② 첫째 쌍(appeared / had been)은 that절이 한 시제 앞서므로 (A)는 완료부정사 have + 과거분사다. 둘째 쌍(appears / is)은 시제가 같으므로 (B)는 동사원형이다. → ③ 빈칸 앞에 이미 to가 있으므로 to를 또 쓴 보기는 지운다. 정답은 have been sick - be ready.\n문장별 판정:\n정답 판단: A의 have been sick는 앞에 주어진 to와 완료부정사를 이루어 과거의 판단보다 앞선 사건·상태를 나타내므로 맞다. B의 be ready는 현재의 판단과 같은 때의 상태를 나타내는 단순부정사이므로 맞다.\n선택지 분석:\n① [오답] A 앞에 to가 이미 있으므로 to have been sick를 넣으면 to가 중복된다. have been sick로 고친다. B 앞에도 to가 이미 있으므로 to be ready는 to를 빼고 be ready로 고친다.\n② [오답] A의 have been sick는 앞에 주어진 to와 완료부정사를 이루어 과거의 판단보다 앞선 사건·상태를 나타내므로 맞다. B의 have been ready는 현재 판단보다 앞선 완료 의미를 더하므로 원문의 현재 상태를 유지하려면 be ready로 고친다.\n③ [오답] A의 be sick는 단순부정사를 만들어 판단과 같은 때의 일로 읽히므로 원문의 앞선 시점을 보존하지 못한다. have been sick로 고친다. B의 be ready는 현재의 판단과 같은 때의 상태를 나타내는 단순부정사이므로 맞다.\n④ [정답] A의 have been sick는 앞에 주어진 to와 완료부정사를 이루어 과거의 판단보다 앞선 사건·상태를 나타내므로 맞다. B의 be ready는 현재의 판단과 같은 때의 상태를 나타내는 단순부정사이므로 맞다.\n⑤ [오답] A 앞의 to 뒤에는 원형 have가 필요하므로 been sick는 have been sick로 고친다. B의 be ready는 현재의 판단과 같은 때의 상태를 나타내는 단순부정사이므로 맞다.",
+    "passage": "It appeared that Tom had been sick for a few days.\n= Tom appeared to (A)_____ for a few days.\nIt appears that Jane is ready for the big race.\n= Jane appears to (B)_____ for the big race.",
+    "stem": "다음 빈칸에 들어갈 말로 알맞게 연결된 것을 고르시오."
+  },
+  "tab": "ij7ic6nx",
+  "updatedAt": "2026-10-26T06:41:09.983Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:41:09.983Z",
+      "what": "확인 완료"
+    }
+  }
+}

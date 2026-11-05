@@ -1,0 +1,180 @@
+{
+ "key": "7-18",
+ "type": "C",
+ "grade": 7,
+ "chapter": "CH 2 대명사",
+ "title": "you로 묻고 I로 답하는 be동사",
+ "total_sec": 123,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "7급 · CH 2 대명사 · 18번 · C 유형\n\n이 문제는 be동사 의문문과 대답에서 주어 you와 I에 알맞은 be동사를 순서대로 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 2 대명사 · 18번 · C 유형",
+     "이 문제는 be동사 의문문과 대답에서 주어 you와 I에 알맞은 be동사를 순서대로 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 2, 18번 C 유형. 이 문제는 be동사 의문문과 대답에서 주어 you와 I에 알맞은 be동사를 순서대로 고르는 문제예요.",
+   "caption": "you와 I의 be동사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것은?\n\nA: _______ you ready?\nB: Yes, I _______.\n\n① Are - are\n② Are - aren't\n③ Is - is\n④ Is - isn't\n⑤ Are - am",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것은?",
+     "A: _______ you ready?",
+     "B: Yes, I _______.",
+     "① Are - are",
+     "② Are - aren't",
+     "③ Is - is",
+     "④ Is - isn't",
+     "⑤ Are - am"
+    ]
+   },
+   "narration": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. A가 빈칸 you ready, 너 준비됐니, 하고 묻자, B가 Yes, I 빈칸, 하고 그렇다고 답해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 의문문: be동사를 주어 앞으로 → Is he ~? / Are you ~?\nI → Am, 3인칭 단수(he, she, it, Tom) → Is, you·we·they·복수 → Are\n대답의 be동사는 대답의 주어에 맞춰요: 너(you)로 물으면 I, I로 물으면 you\nYes, 주어 + be동사. / No, 주어 + be동사 + not (isn't, aren't)\n예) Are you hungry? (너는 배고프니?) → No, I'm not. (아니, 배고프지 않아.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 의문문: be동사를 주어 앞으로 → Is he ~? / Are you ~?",
+     "I → Am, 3인칭 단수(he, she, it, Tom) → Is, you·we·they·복수 → Are",
+     "대답의 be동사는 대답의 주어에 맞춰요: 너(you)로 물으면 I, I로 물으면 you",
+     "Yes, 주어 + be동사. / No, 주어 + be동사 + not (isn't, aren't)",
+     "예) Are you hungry? (너는 배고프니?) → No, I'm not. (아니, 배고프지 않아.)"
+    ]
+   },
+   "narration": "be동사 의문문은 be동사를 주어 앞에 써서 만들어요. 주어가 I일 때는 Am, he, she, it처럼 3인칭 단수일 때는 Is, you나 여럿일 때는 Are로 시작해요. 대답의 be동사도 대답의 주어에 맞추는데, 너라는 뜻의 you로 물으면 I로, I로 물으면 you로 답해요. Yes로 답하면 be동사를 그대로 쓰고, No로 답하면 be동사 뒤에 not을 붙여요. 예를 들어 Are you hungry, 너는 배고프니, 하고 물으면 I로 바꿔서 No, I'm not, 아니, 배고프지 않아, 하고 답해요.",
+   "caption": "be동사 의문문과 대답"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것은?\n\nA: _______ you ready?\nB: Yes, I _______.\n\n① Are - are\n② Are - aren't\n③ Is - is\n④ Is - isn't\n⑤ Are - am",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "you ready"
+      ],
+      "strike": [
+       "③ Is - is",
+       "④ Is - isn't"
+      ],
+      "note": "질문의 주어 you → Are. Is로 시작하는 ③, ④ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "Yes, I"
+      ],
+      "strike": [
+       "① Are - are",
+       "② Are - aren't"
+      ],
+      "note": "you(너)로 물었으니 대답의 주어는 I → am, Yes라서 not 없음. are의 ①, aren't의 ② 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ Are - am"
+      ],
+      "strike": [],
+      "note": "남는 ⑤ → Are you ready? / Yes, I am."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 질문의 주어는 you예요. you에는 Are를 쓰니까, Is로 시작하는 3번과 4번은 지워요. 둘째, 너라는 뜻의 you로 물었으니 대답의 주어는 I예요. I에는 am을 쓰고 Yes이니 not도 붙이지 않으므로, are를 쓴 1번과 aren't를 쓴 2번도 지워요. 셋째, 남은 5번을 넣으면 Are you ready, 너 준비됐니, Yes, I am, 응, 준비됐어, 라는 대화가 돼요.",
+   "caption": "you → Are, Yes, I → am"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 25,
+   "screen": {
+    "text": "① Are - are  ✗  대답의 주어는 I라서 are가 아니라 am\n② Are - aren't  ✗  I에는 am, 그리고 Yes로 답했으니 not을 붙이지 않아요\n③ Is - is  ✗  you에는 Is를 쓰지 않고, I에는 am을 써요\n④ Is - isn't  ✗  you에는 Are, Yes 대답의 I에는 not 없는 am\n⑤ Are - am  ✓  you → Are, Yes 대답의 I → am",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① Are - are  ✗  대답의 주어는 I라서 are가 아니라 am",
+     "② Are - aren't  ✗  I에는 am, 그리고 Yes로 답했으니 not을 붙이지 않아요",
+     "③ Is - is  ✗  you에는 Is를 쓰지 않고, I에는 am을 써요",
+     "④ Is - isn't  ✗  you에는 Are, Yes 대답의 I에는 not 없는 am",
+     "⑤ Are - am  ✓  you → Are, Yes 대답의 I → am"
+    ]
+   },
+   "narration": "정답은 5번 Are와 am이에요. 1번 Are와 are를 고르기 쉬운데, 대답의 주어는 I라서 질문의 Are를 따라 쓰면 안 되고 am을 써야 해요. 2번 aren't는 I와도 맞지 않고, Yes로 답했으니 not도 붙이지 않아요. 3번 Is와 is는 질문의 주어 you에 Is를 써서 틀렸어요.",
+   "caption": "정답 ⑤ Are - am"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ⑤ Are - am\n\n너(you)로 물으면 I로 답하고, I에는 am (Yes이면 not 없이)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ Are - am",
+     "너(you)로 물으면 I로 답하고, I에는 am (Yes이면 not 없이)"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 너라는 뜻의 you로 물으면 I로 답하고, I에는 am을 써요.",
+   "caption": "you로 물으면 I am으로"
+  }
+ ],
+ "source": {
+  "stem": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것은?",
+  "passage": "A: _______ you ready?\nB: Yes, I _______.",
+  "c": [
+   "Are - are",
+   "Are - aren't",
+   "Is - is",
+   "Is - isn't",
+   "Are - am"
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: be동사 의문문은 Am/Is/Are + 주어 ~?로 묻고, 대답의 be동사도 대답의 주어에 맞춘다(you → I am, I → you are).\n풀이 순서: ① 질문의 주어: you → Are. → ② 대답: Yes, I → am. → ③ 정답은 Are - am.\n문장별 판정:\n정답 판단: 질문과 대답의 주어에 맞는 be동사를 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 둘째 빈칸 are: Yes 대답의 I에는 am을 쓴다. 따라서 오답이다.\n② [오답] 둘째 빈칸 aren't: Yes 대답의 I에는 am을 쓴다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 Is: 주어 you에는 Are를 쓴다. 둘째 빈칸 is: Yes 대답의 I에는 am을 쓴다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 Is: 주어 you에는 Are를 쓴다. 둘째 빈칸 isn't: Yes 대답의 I에는 am을 쓴다. 따라서 오답이다.\n⑤ [정답] 질문과 대답의 주어에 맞는 be동사를 바르게 썼으므로 정답이다."
+ }
+}

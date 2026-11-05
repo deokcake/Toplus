@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T11:46:16.608Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "by - at - in",
+      "1": "with - in - on",
+      "2": "for - of - at",
+      "3": "with - on - in",
+      "4": "in - in - on"
+    },
+    "expl": "핵심 규칙: 전치사 + which의 전치사는 관계절을 원래 문장으로 풀었을 때 선행사 앞에 오는 전치사이다(I was born in the house → the house in which I was born).\n풀이 순서: ① 선행사를 관계절 끝으로 옮겨 전치사를 찾는다. → ② cut the bread with the knife, grew up in the town, go to church on the day → ③ 순서대로 with - in - on이다.\n문장별 판정:\n정답 판단: 관계절을 원래 문장으로 풀면 ‘she cut the bread with the knife’, ‘my father grew up in the town’, ‘we go to church on the day’이므로 with - in - on이다.\n선택지 분석:\n① [오답] A 빈칸 by: 관계절을 풀면 ‘she cut the bread with the knife’이므로 with가 알맞다. B 빈칸 at: 관계절을 풀면 ‘my father grew up in the town’이므로 in가 알맞다. C 빈칸 in: 관계절을 풀면 ‘we go to church on the day’이므로 on가 알맞다. 따라서 오답이다.\n② [정답] with - in - on: 세 빈칸이 모두 알맞으므로 정답이다.\n③ [오답] A 빈칸 for: 관계절을 풀면 ‘she cut the bread with the knife’이므로 with가 알맞다. B 빈칸 of: 관계절을 풀면 ‘my father grew up in the town’이므로 in가 알맞다. C 빈칸 at: 관계절을 풀면 ‘we go to church on the day’이므로 on가 알맞다. 따라서 오답이다.\n④ [오답] B 빈칸 on: 관계절을 풀면 ‘my father grew up in the town’이므로 in가 알맞다. C 빈칸 in: 관계절을 풀면 ‘we go to church on the day’이므로 on가 알맞다. 따라서 오답이다.\n⑤ [오답] A 빈칸 in: 관계절을 풀면 ‘she cut the bread with the knife’이므로 with가 알맞다. 따라서 오답이다.",
+    "passage": "A. The knife _____ which she cut the bread was sharp.\nB. This is the town _____ which my father grew up.\nC. Sunday is the day _____ which we go to church.",
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T11:46:01.275Z"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T11:46:16.608Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T11:46:16.608Z",
+      "what": "확인 완료"
+    }
+  }
+}

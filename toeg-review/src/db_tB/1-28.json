@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-09-30T04:44:29.535Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: had better + 동사원형은 ‘~하는 게 좋겠다’라는 뜻이며, 부정형은 had better not + 동사원형이다. 이 표현에서 You'd는 You had의 축약형이다. 목적어 the decision은 동사 postpone 뒤에 놓는다.\n풀이 순서: ① 낱말 가운데 주어와 had의 줄임말(you'd)과 better를 묶어 문장 앞에 세운다. → ② not은 better 바로 뒤, 동사원형(postpone) 앞에 둔다. → ③ 동사원형 뒤에 남은 말(the decision)을 붙이면 You'd better not postpone the decision.\n문장별 판정:\n정답 판단: You'd → better → not → postpone → the → decision의 순서로 배열하면 ‘너는 그 결정을 미루지 않는 게 좋겠다’라는 뜻이 된다.\n선택지 분석:\n① [오답] You'd better not the decision postpone.\n목적어 the decision이 동사 postpone 앞에 잘못 놓였다. had better not 뒤에 동사원형을 쓰고 그 뒤에 목적어를 놓아야 하므로, not postpone the decision의 순서가 알맞다.\n② [오답] You'd postpone better not the decision.\n‘~하는 게 좋겠다’라는 충고 표현을 만들려면 You'd better로 이어져야 한다. postpone이 그 사이에 들어가 있으므로, You'd better not postpone의 순서로 고쳐야 한다.\n③ [오답] You'd better the decision not postpone.\nbetter 뒤에 목적어 the decision이 잘못 끼어 있다. had better not + 동사원형 + 목적어의 구조에 따라 the decision을 postpone 뒤로 옮겨야 한다.\n④ [정답] You'd better not postpone the decision.\nhad better not + 동사원형 + 목적어의 올바른 어순이다. 모든 제시어를 한 번씩 사용했으며, 우리말의 뜻과도 일치한다.\n⑤ [오답] You'd better not postpone decision the.\n관사 the는 자신이 한정하는 명사 앞에 놓아야 한다. 따라서 decision the → the decision으로 고쳐야 한다.",
+    "passage": "(not / decision / you'd / the / better / postpone / .)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것으로 가장 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-04T11:01:39.813Z"
+  },
+  "tab": "7cl4h520",
+  "updatedAt": "2026-10-04T11:01:39.813Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-04T11:01:39.813Z",
+      "what": "Claude 수정 예시 적용"
+    }
+  }
+}

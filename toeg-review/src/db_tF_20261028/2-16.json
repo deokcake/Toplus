@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T09:51:36.653Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "need",
+      "1": "are needed",
+      "2": "needing",
+      "3": "needs",
+      "4": "are need"
+    },
+    "expl": "핵심 규칙: 상태를 나타내는 동사(know, believe, own, need, resemble 등)는 보통 진행형으로 쓰지 않고 단순현재로 쓴다. 상태동사도 특정 의미·문맥에서는 진행형으로 쓰일 수 있으므로 진행형을 언제나 비문이라고 단정하지 않는다. 단순현재형은 주어와 수를 일치시킨다.\n풀이 순서: ① 밑줄의 동사(need)가 동작인지 상태인지 본다. ‘필요하다’는 상태를 나타내므로 진행형으로 쓰지 않는다. → ② 진행형을 단순현재로 고친다. be동사 + 동사원형, 수동태, -ing만 남긴 보기는 지운다. → ③ 주어(They)에 수를 맞추면 need이다.\n문장별 판정:\n정답 판단: 주어 They에 맞는 need의 단순현재형은 need이다. 완성문: They need more time.\n선택지 분석:\n① [정답] 주어 They에 맞는 need의 단순현재형은 need이다. 완성문: They need more time.\n② [오답] are needed는 수동형이다. 주어가 직접 느끼거나 알고 소유하는 원문의 능동 상태를 나타내지 않는다. 완성문: They need more time.\n③ [오답] needing만으로는 문장의 정형동사가 되지 않는다. 단순현재 동사가 필요하다. 완성문: They need more time.\n④ [오답] 단순현재 동사의 수를 주어 They에 맞추면 need이다. needs는 주어와 일치하지 않는다. 완성문: They need more time.\n⑤ [오답] be동사 are와 동사원형 need를 이렇게 직접 연결할 수 없다. 완성문: They need more time.",
+    "passage": "They <u>are needing</u> more time to finish the project.",
+    "stem": "다음 밑줄 친 부분을 바르게 고친 것으로 알맞은 것은?"
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T09:51:36.653Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T09:51:36.653Z",
+      "what": "확인 완료"
+    }
+  }
+}

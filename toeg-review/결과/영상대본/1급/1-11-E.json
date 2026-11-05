@@ -1,0 +1,181 @@
+{
+ "key": "1-11",
+ "type": "E",
+ "grade": 1,
+ "chapter": "CH 2 시제",
+ "title": "주어 My dad의 습관과 미래 의문문",
+ "total_sec": 133,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "1급 · CH 2 시제 · 11번 · E 유형\n\n이 문제는 아빠의 습관을 말하는 동사의 형태와 미래를 묻는 의문문의 첫 낱말을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 2 시제 · 11번 · E 유형",
+     "이 문제는 아빠의 습관을 말하는 동사의 형태와 미래를 묻는 의문문의 첫 낱말을 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 2, 11번 E 유형. 이 문제는 아빠의 습관을 말하는 동사의 형태와 미래를 묻는 의문문의 첫 낱말을 고르는 문제예요.",
+   "caption": "My dad의 습관과 미래 의문문"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 21,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.\n\n- My dad _____ coffee every morning.\n- _____ he stop drinking it next month?\n\n① drinks — Are\n② drank — Did\n③ drinks — Will\n④ drink — Will\n⑤ drink — Do",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+     "- My dad _____ coffee every morning.",
+     "- _____ he stop drinking it next month?",
+     "① drinks — Are",
+     "② drank — Did",
+     "③ drinks — Will",
+     "④ drink — Will",
+     "⑤ drink — Do"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오. My dad 빈칸 coffee every morning, 빈칸 he stop drinking it next month? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 26,
+   "screen": {
+    "text": "핵심 규칙\n지금 되풀이하는 습관·일정 → 현재형 (every day, on Mondays)\n현재형, 주어가 3인칭 단수 → 동사 + s/es (have → has)\n앞으로의 일 묻기 → Will + 주어 + 동사원형 ~?\n예) Amy walks every day. Will she walk tomorrow? (에이미는 매일 걸어요. 내일 걸을까요?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "지금 되풀이하는 습관·일정 → 현재형 (every day, on Mondays)",
+     "현재형, 주어가 3인칭 단수 → 동사 + s/es (have → has)",
+     "앞으로의 일 묻기 → Will + 주어 + 동사원형 ~?",
+     "예) Amy walks every day. Will she walk tomorrow? (에이미는 매일 걸어요. 내일 걸을까요?)"
+    ]
+   },
+   "narration": "지금 되풀이하는 습관이나 일정은 현재형으로 쓰고, 주어가 3인칭 단수이면 동사에 s나 es를 붙이는데, have는 has로 써요. 앞으로의 일은 Will을 주어 앞에, 동사원형을 주어 뒤에 써서 물을 수 있어요. Amy walks every day. 에이미는 매일 걸어요. Will she walk tomorrow? 내일 걸을까요?",
+   "caption": "습관은 현재형, 미래 질문은 Will"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 42,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.\n\n- My dad _____ coffee every morning.\n- _____ he stop drinking it next month?\n\n① drinks — Are\n② drank — Did\n③ drinks — Will\n④ drink — Will\n⑤ drink — Do",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "My dad",
+       "every morning"
+      ],
+      "strike": [
+       "④ drink — Will",
+       "⑤ drink — Do"
+      ],
+      "note": "every morning = 지금 매일 아침 하는 습관 → 현재형, My dad = 3인칭 단수 → drinks. drink를 쓴 ④⑤ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "stop",
+       "next month"
+      ],
+      "strike": [
+       "① drinks — Are",
+       "② drank — Did"
+      ],
+      "note": "주어 he 뒤 동사원형 stop → be동사 Are ✗(①), next month = 앞으로의 일 → 과거를 묻는 Did ✗(②)"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ drinks — Will"
+      ],
+      "strike": [],
+      "note": "남는 ③ drinks — Will"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 첫 문장은 every morning, 곧 지금 매일 아침 하는 습관이라 현재형을 쓰고, 주어 My dad는 3인칭 단수라 drinks를 써요. drink를 쓴 4번과 5번을 지워요. 둘째, 의문문은 주어 he 뒤에 동사원형 stop이 있어 be동사 Are는 쓸 수 없고, next month는 앞으로의 일이라 과거를 묻는 Did도 맞지 않으니 1번과 2번을 지워요. 셋째, 남는 3번을 넣으면 My dad drinks coffee every morning, 우리 아빠는 매일 아침 커피를 마셔요. Will he stop drinking it next month? 다음 달에는 커피를 끊을까요?",
+   "caption": "My dad → drinks, 동사원형 앞 → Will"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 20,
+   "screen": {
+    "text": "① drinks — Are  ✗  Are로 시작한 의문문에 동사원형 stop은 못 써요\n② drank — Did  ✗  Did는 과거를 묻는 말이라 next month와 안 맞아요\n③ drinks — Will  ✓  지금의 습관은 drinks, 다음 달의 일을 묻는 Will\n④ drink — Will  ✗  Will은 맞지만 My dad에는 drinks를 써요\n⑤ drink — Do  ✗  My dad에는 drinks, he에는 Do가 아니라 Does",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① drinks — Are  ✗  Are로 시작한 의문문에 동사원형 stop은 못 써요",
+     "② drank — Did  ✗  Did는 과거를 묻는 말이라 next month와 안 맞아요",
+     "③ drinks — Will  ✓  지금의 습관은 drinks, 다음 달의 일을 묻는 Will",
+     "④ drink — Will  ✗  Will은 맞지만 My dad에는 drinks를 써요",
+     "⑤ drink — Do  ✗  My dad에는 drinks, he에는 Do가 아니라 Does"
+    ]
+   },
+   "narration": "정답은 3번 drinks와 Will이에요. 4번은 Will은 맞지만, 주어 My dad가 3인칭 단수라 drinks를 써야 해요. 1번은 drinks는 맞지만, Are로 시작한 의문문에는 주어 뒤에 동사원형 stop을 쓸 수 없어요.",
+   "caption": "정답 ③ drinks — Will"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ③ drinks — Will\n\n지금의 습관 → 현재형 · 앞으로의 일 묻기 → Will + 주어 + 동사원형 ~?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ drinks — Will",
+     "지금의 습관 → 현재형 · 앞으로의 일 묻기 → Will + 주어 + 동사원형 ~?"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 지금의 습관은 현재형으로 쓰고, 앞으로의 일은 Will과 동사원형으로 물을 수 있어요.",
+   "caption": "지금 습관은 현재형, 미래는 Will"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+  "passage": "- My dad _____ coffee every morning.\n- _____ he stop drinking it next month?",
+  "c": [
+   "drinks — Are",
+   "drank — Did",
+   "drinks — Will",
+   "drink — Will",
+   "drink — Do"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 현재의 반복 습관·일정에는 현재형을 쓰고 3인칭 단수 주어에는 -s/-es를 붙인다. 미래 여부를 묻는 의문문은 Will + 주어 + 동사원형으로 만든다.\n풀이 순서: ① 첫 문장의 시간 표현(every morning)은 반복되는 습관을 나타낸다. 주어(My dad)가 3인칭 단수이므로 -s가 붙은 현재형을 쓴다. → ② 둘째 문장은 미래 표현(next month)이 있고 주어 뒤에 동사원형이 오므로 Will로 묻는다. → ③ 두 조건을 모두 채운 drinks — Will를 고른다.\n문장별 판정:\n정답 판단: 반복 습관은 drinks, 미래를 묻는 말은 Will이 알맞다.\n선택지 분석:\n① [오답] 둘째 빈칸 Are: be동사 현재 Are이어서 맞지 않는다. 다음 주·내년의 일을 묻는 말은 Will + 주어 + 동사원형으로 쓴다. 따라서 오답이다.\n② [오답] 첫째 빈칸 drank: 단순과거이어서 맞지 않는다. 매일·요일마다 반복되는 습관은 3인칭 단수 현재형으로 쓴다. 둘째 빈칸 Did: 과거 의문문의 Did이어서 맞지 않는다. 다음 주·내년의 일을 묻는 말은 Will + 주어 + 동사원형으로 쓴다. 따라서 오답이다.\n③ [정답] 반복 습관은 drinks, 미래를 묻는 말은 Will이 알맞다. 모든 자리가 알맞으므로 정답이다.\n④ [오답] 첫째 빈칸 drink: 동사원형이어서 맞지 않는다. 매일·요일마다 반복되는 습관은 3인칭 단수 현재형으로 쓴다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 drink: 동사원형이어서 맞지 않는다. 매일·요일마다 반복되는 습관은 3인칭 단수 현재형으로 쓴다. 둘째 빈칸 Do: 현재 의문문의 Do이어서 맞지 않는다. 다음 주·내년의 일을 묻는 말은 Will + 주어 + 동사원형으로 쓴다. 따라서 오답이다."
+ }
+}

@@ -1,0 +1,468 @@
+{
+ "A": {
+  "title": "the cookies로 묻는 Were 의문문의 대답",
+  "intro": "이 문제는 주어가 the cookies인 Were 의문문에 어법상 알맞은 대답을 고르는 문제예요.",
+  "problem_narration": "다음 질문에 대한 대답으로 어법상 가장 알맞은 것을 고르세요. Were the cookies delicious? 그 쿠키들은 맛있었니? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Was/Were로 묻는 be동사 과거 의문문 → be동사 과거형으로 답해요.",
+    "Yes, 주어 + was/were. / No, 주어 + wasn't(was not)/weren't(were not).",
+    "명사 주어는 대명사로: 남자 한 명 he, 여자 한 명 she, 물건 하나 it, 둘 이상 they",
+    "I, he, she, it → was / you, we, they → were",
+    "예) Was the box heavy? No, it wasn't. (그 상자는 무거웠니? 아니, 안 무거웠어.)"
+   ],
+   "narration": "Was나 Were로 물으면 be동사 과거형으로, Yes면 was나 were, No면 wasn't나 weren't로 답해요. 명사 주어는 대명사로 바꿔 물건 하나는 it, 둘 이상은 they로 받고, I, he, she, it에는 was, you, we, they에는 were를 써요. Was the box heavy? 그 상자는 무거웠니? No, it wasn't. 아니, 안 무거웠어."
+  },
+  "steps": [
+   {
+    "note": "the cookies = 쿠키 여러 개 → they. it으로 답한 ①, ⑤는 지운다.",
+    "highlight": [
+     "the cookies"
+    ],
+    "strike": [
+     "① Yes, it was.",
+     "⑤ No, it were not."
+    ],
+    "narration": "첫째, 질문의 주어 the cookies는 쿠키 여러 개라서 they로 받아야 해요. 그래서 it으로 답한 1번과 5번은 지워요."
+   },
+   {
+    "note": "Were로 묻는 과거 의문문 → 대답도 과거형. 현재형 are로 답한 ④는 지운다.",
+    "highlight": [
+     "Were"
+    ],
+    "strike": [
+     "④ Yes, they are."
+    ],
+    "narration": "둘째, Were로 묻는 과거 의문문이니, 현재형 are로 답한 4번도 지워요."
+   },
+   {
+    "note": "they에는 was not이 아니라 were not → ③도 지운다. 남는 것은 ② → Yes, they were.",
+    "highlight": [
+     "② Yes, they were."
+    ],
+    "strike": [
+     "③ No, they was not."
+    ],
+    "narration": "셋째, they에는 was가 아니라 were를 쓰니 3번도 지우면, 남는 것은 2번이에요. Yes, they were. 응, 맛있었어."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Yes, it was.  ✗  쿠키 여러 개인 the cookies는 it이 아니라 they",
+    "② Yes, they were.  ✓  the cookies → they, they에는 were",
+    "③ No, they was not.  ✗  they에는 was not이 아니라 were not",
+    "④ Yes, they are.  ✗  과거로 물었는데 현재형 are로 답했어요",
+    "⑤ No, it were not.  ✗  the cookies는 it이 아니고, it에는 were not도 안 써요"
+   ],
+   "narration": "정답은 2번이에요. 4번 Yes, they are는 주어 they는 맞지만, 과거로 물었는데 현재형 are로 답해서 틀렸어요. 3번은 they에 was not을 써서 틀렸어요. 줄이지 않은 꼴이 문제가 아니라, they에는 were not을 써야 해요. 1번은 쿠키 여러 개를 it으로 받아서 틀렸어요."
+  },
+  "summary": {
+   "card": "Was/Were 의문문 → 대명사 주어 + 그 주어에 맞는 was/were (the cookies → they were)",
+   "narration": "정답은 2번이에요. 기억할 것, Was나 Were로 물으면 질문의 주어를 대명사로 바꾸고, 그 대명사에 맞는 was나 were로 답해요."
+  },
+  "captions": [
+   "the cookies로 묻는 Were 의문문",
+   "먼저 풀어 보세요",
+   "Was/Were 의문문의 대답",
+   "they → 과거형 → were",
+   "정답 ② Yes, they were.",
+   "대명사 주어 + was/were"
+  ],
+  "sec": [
+   10,
+   16,
+   24,
+   28,
+   22,
+   10
+  ]
+ },
+ "B": {
+  "title": "Tom and Ben으로 묻는 Were 의문문의 대답",
+  "intro": "이 문제는 주어가 Tom and Ben인 Were 의문문에 어법상 알맞은 대답을 고르는 문제예요.",
+  "problem_narration": "다음 질문에 대한 대답으로 어법상 가장 알맞은 것을 고르세요. Were Tom and Ben busy? 톰과 벤은 바빴니? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Was/Were로 묻는 be동사 과거 의문문 → be동사 과거형으로 답해요.",
+    "Yes, 주어 + was/were. / No, 주어 + wasn't/weren't.",
+    "명사 주어는 대명사로: 남자 한 명 he, 여자 한 명 she, 물건 하나 it, 둘 이상 they",
+    "I, he, she, it → was / you, we, they → were",
+    "예) Was Amy sad? Yes, she was. (에이미는 슬펐니? 응, 슬펐어.)"
+   ],
+   "narration": "Was나 Were로 물으면 be동사 과거형으로, Yes면 was나 were, No면 wasn't나 weren't로 답해요. 명사 주어는 대명사로 바꿔 남자 한 명은 he, 여자 한 명은 she, 둘 이상은 they로 받고, I, he, she, it에는 was, you, we, they에는 were를 써요. Was Amy sad? 에이미는 슬펐니? Yes, she was. 응, 슬펐어."
+  },
+  "steps": [
+   {
+    "note": "Tom and Ben = 두 사람 → they. we로 답한 ④는 지운다.",
+    "highlight": [
+     "Tom and Ben"
+    ],
+    "strike": [
+     "④ Yes, we were."
+    ],
+    "narration": "첫째, 질문의 주어 Tom and Ben은 두 사람이라 they로 받아요. 그래서 we로 답한 4번은 지워요."
+   },
+   {
+    "note": "Were로 묻는 과거 의문문 → 현재형 aren't로 답한 ③은 지운다.",
+    "highlight": [
+     "Were"
+    ],
+    "strike": [
+     "③ No, they aren't."
+    ],
+    "narration": "둘째, Were로 묻는 과거 의문문이니, 현재형 aren't로 답한 3번도 지워요."
+   },
+   {
+    "note": "they에는 were/weren't → was(②), wasn't(⑤)는 지운다. 남는 것은 ① → No, they weren't.",
+    "highlight": [
+     "① No, they weren't."
+    ],
+    "strike": [
+     "② Yes, they was.",
+     "⑤ No, they wasn't."
+    ],
+    "narration": "셋째, they에는 were나 weren't를 쓰니, was를 쓴 2번과 wasn't를 쓴 5번도 지우면 남는 것은 1번이에요. No, they weren't. 아니, 바쁘지 않았어."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① No, they weren't.  ✓  Tom and Ben → they, they에는 weren't",
+    "② Yes, they was.  ✗  they에는 was가 아니라 were",
+    "③ No, they aren't.  ✗  과거로 물었는데 현재형 aren't로 답했어요",
+    "④ Yes, we were.  ✗  Tom and Ben은 we가 아니라 they",
+    "⑤ No, they wasn't.  ✗  they에는 wasn't가 아니라 weren't"
+   ],
+   "narration": "정답은 1번이에요. 5번 No, they wasn't는 주어 they는 맞지만, they에는 wasn't가 아니라 weren't를 써요. 3번은 과거로 물었는데 현재형 aren't로 답해서 틀렸어요. 4번은 Tom and Ben을 we로 받아서 틀렸어요. we는 나를 포함한 여럿을 가리킬 때 써요."
+  },
+  "summary": {
+   "card": "Was/Were 의문문 → 대명사 주어 + 그 주어에 맞는 was/were (Tom and Ben → they weren't)",
+   "narration": "정답은 1번이에요. 기억할 것, Was나 Were로 물으면 질문의 주어를 대명사로 바꾸고, 그 대명사에 맞는 was나 were로 답해요."
+  },
+  "captions": [
+   "Tom and Ben으로 묻는 Were 의문문",
+   "먼저 풀어 보세요",
+   "Was/Were 의문문의 대답",
+   "they → 과거형 → weren't",
+   "정답 ① No, they weren't.",
+   "대명사 주어 + was/were"
+  ],
+  "sec": [
+   10,
+   16,
+   24,
+   28,
+   22,
+   10
+  ]
+ },
+ "C": {
+  "title": "you로 묻는 Were 의문문의 대답",
+  "intro": "이 문제는 주어가 you인 Were 의문문에 어법상 알맞은 대답을 고르는 문제예요.",
+  "problem_narration": "다음 질문에 대한 대답으로 어법상 가장 알맞은 것을 고르세요. Were you tired? 너는 피곤했니? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Was/Were로 묻는 be동사 과거 의문문 → be동사 과거형으로 답해요. (do, does, did로 답하지 않아요)",
+    "Yes, 주어 + was/were. / No, 주어 + wasn't/weren't.",
+    "I로 물으면 you로, 너를 뜻하는 you로 물으면 I로 답해요.",
+    "be동사는 대답의 주어에 맞춰요: I, he, she, it → was / you, we, they → were",
+    "예) Was I late? No, you weren't. (내가 늦었니? 아니, 안 늦었어.)"
+   ],
+   "narration": "Was나 Were로 물으면 be동사 과거형으로, Yes면 was나 were, No면 wasn't나 weren't로 답해요. I로 물으면 you로, 너를 뜻하는 you로 물으면 I로 답하고, I, he, she, it에는 was, you, we, they에는 were를 써요. Was I late? 내가 늦었니? No, you weren't. 아니, 안 늦었어."
+  },
+  "steps": [
+   {
+    "note": "너를 뜻하는 you로 물었다 → 대답의 주어는 I → I에는 was. 질문의 Were를 그대로 쓴 ①은 지운다.",
+    "highlight": [
+     "Were you tired?"
+    ],
+    "strike": [
+     "① Yes, I were."
+    ],
+    "narration": "첫째, 너를 뜻하는 you로 물었으니 대답의 주어는 I예요. I에는 were가 아니라 was를 쓰니, 질문의 Were를 그대로 쓴 1번은 지워요."
+   },
+   {
+    "note": "Were로 묻는 과거 의문문 → 현재형 am(②), I'm not(⑤)은 지운다.",
+    "highlight": [],
+    "strike": [
+     "② Yes, I am.",
+     "⑤ No, I'm not."
+    ],
+    "narration": "둘째, Were로 묻는 과거 의문문이니, 현재형으로 답한 2번 I am과 5번 I'm not도 지워요."
+   },
+   {
+    "note": "be동사로 물었다 → did로 답한 ③은 지운다. 남는 것은 ④ → Yes, I was.",
+    "highlight": [
+     "④ Yes, I was."
+    ],
+    "strike": [
+     "③ Yes, I did."
+    ],
+    "narration": "셋째, be동사로 물었으니 did로 답한 3번도 지우면, 남는 것은 4번이에요. Yes, I was. 응, 피곤했어."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Yes, I were.  ✗  대답의 주어 I에는 were가 아니라 was",
+    "② Yes, I am.  ✗  과거로 물었는데 현재형 am으로 답했어요",
+    "③ Yes, I did.  ✗  be동사 Were로 물었는데 did로 답했어요",
+    "④ Yes, I was.  ✓  you(너) → I, I에는 was",
+    "⑤ No, I'm not.  ✗  과거로 물었는데 현재형 I'm not으로 답했어요"
+   ],
+   "narration": "정답은 4번이에요. 1번 Yes, I were는 질문의 Were를 그대로 따라 썼지만, 대답의 주어 I에는 was를 써요. 3번은 be동사 Were로 물었는데 did로 답해서 틀렸어요. 2번은 과거로 물었는데 현재형 am으로 답해서 틀렸어요."
+  },
+  "summary": {
+   "card": "너를 뜻하는 you로 물으면 → I로 답하고, I에는 was/wasn't",
+   "narration": "정답은 4번이에요. 기억할 것, 너를 뜻하는 you로 물으면 I로 답하고, I에는 was나 wasn't를 써요."
+  },
+  "captions": [
+   "you로 묻는 Were 의문문",
+   "먼저 풀어 보세요",
+   "Was/Were 의문문의 대답",
+   "you → I → was",
+   "정답 ④ Yes, I was.",
+   "you로 물으면 I로, I에는 was"
+  ],
+  "sec": [
+   10,
+   16,
+   24,
+   28,
+   22,
+   10
+  ]
+ },
+ "D": {
+  "title": "the soup로 묻는 Was 의문문의 대답",
+  "intro": "이 문제는 주어가 the soup인 Was 의문문에 어법상 알맞은 대답을 고르는 문제예요.",
+  "problem_narration": "다음 질문에 대한 대답으로 어법상 가장 알맞은 것을 고르세요. Was the soup hot? 그 수프는 뜨거웠니? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Was/Were로 묻는 be동사 과거 의문문 → be동사 과거형으로 답해요. (do, does, did로 답하지 않아요)",
+    "Yes, 주어 + was/were. / No, 주어 + wasn't/weren't.",
+    "명사 주어는 대명사로: 남자 한 명 he, 여자 한 명 she, 물건 하나 it, 둘 이상 they",
+    "I, he, she, it → was / you, we, they → were",
+    "예) Was Tom hungry? Yes, he was. (톰은 배고팠니? 응, 배고팠어.)"
+   ],
+   "narration": "Was나 Were로 물으면 be동사 과거형으로, Yes면 was나 were, No면 wasn't나 weren't로 답해요. 명사 주어는 대명사로 바꿔 남자 한 명은 he, 물건 하나는 it으로 받고, I, he, she, it에는 was, you, we, they에는 were를 써요. Was Tom hungry? 톰은 배고팠니? Yes, he was. 응, 배고팠어."
+  },
+  "steps": [
+   {
+    "note": "the soup = 물건 하나 → it. we로 답한 ④는 지운다.",
+    "highlight": [
+     "the soup"
+    ],
+    "strike": [
+     "④ No, we weren't."
+    ],
+    "narration": "첫째, 질문의 주어 the soup는 물건 하나라서 it으로 받아요. 그래서 we로 답한 4번은 지워요."
+   },
+   {
+    "note": "be동사 과거형 Was로 물었다 → doesn't(②), 현재형 isn't(③)는 지운다.",
+    "highlight": [
+     "Was"
+    ],
+    "strike": [
+     "② No, it doesn't.",
+     "③ No, it isn't."
+    ],
+    "narration": "둘째, be동사 과거형 Was로 물었으니, doesn't로 답한 2번과 현재형 isn't로 답한 3번도 지워요."
+   },
+   {
+    "note": "it에는 weren't가 아니라 wasn't → ⑤도 지운다. 남는 것은 ① → No, it wasn't.",
+    "highlight": [
+     "① No, it wasn't."
+    ],
+    "strike": [
+     "⑤ No, it weren't."
+    ],
+    "narration": "셋째, it에는 weren't가 아니라 wasn't를 쓰니 5번도 지우면, 남는 것은 1번이에요. No, it wasn't. 아니, 뜨겁지 않았어."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① No, it wasn't.  ✓  the soup → it, it에는 wasn't",
+    "② No, it doesn't.  ✗  be동사 Was로 물었는데 doesn't로 답했어요",
+    "③ No, it isn't.  ✗  과거로 물었는데 현재형 isn't로 답했어요",
+    "④ No, we weren't.  ✗  물건 하나인 the soup는 we가 아니라 it",
+    "⑤ No, it weren't.  ✗  it에는 weren't가 아니라 wasn't"
+   ],
+   "narration": "정답은 1번이에요. 3번 No, it isn't는 주어 it은 맞지만, 과거로 물었는데 현재형 isn't로 답해서 틀렸어요. 5번은 it에 weren't를 써서 틀렸어요. it에는 wasn't를 써요. 2번은 be동사 Was로 물었는데 doesn't로 답해서 틀렸어요."
+  },
+  "summary": {
+   "card": "Was/Were 의문문 → 대명사 주어 + 그 주어에 맞는 was/were (the soup → it wasn't)",
+   "narration": "정답은 1번이에요. 기억할 것, Was나 Were로 물으면 질문의 주어를 대명사로 바꾸고, 그 대명사에 맞는 was나 were로 답해요."
+  },
+  "captions": [
+   "the soup로 묻는 Was 의문문",
+   "먼저 풀어 보세요",
+   "Was/Were 의문문의 대답",
+   "it → 과거형 → wasn't",
+   "정답 ① No, it wasn't.",
+   "대명사 주어 + was/were"
+  ],
+  "sec": [
+   10,
+   16,
+   24,
+   28,
+   22,
+   10
+  ]
+ },
+ "E": {
+  "title": "the cake로 묻는 Was 의문문의 대답",
+  "intro": "이 문제는 주어가 the cake인 Was 의문문에 어법상 알맞은 대답을 고르는 문제예요.",
+  "problem_narration": "다음 질문에 대한 대답으로 어법상 가장 알맞은 것을 고르세요. Was the cake good? 그 케이크는 맛있었니? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Was/Were로 묻는 be동사 과거 의문문 → be동사 과거형으로 답해요. (do, does, did로 답하지 않아요)",
+    "Yes, 주어 + was/were. / No, 주어 + wasn't/weren't.",
+    "명사 주어는 대명사로: 남자 한 명 he, 여자 한 명 she, 물건 하나 it, 둘 이상 they",
+    "I, he, she, it → was / you, we, they → were",
+    "예) Were the boxes heavy? No, they weren't. (그 상자들은 무거웠니? 아니, 안 무거웠어.)"
+   ],
+   "narration": "Was나 Were로 물으면 be동사 과거형으로, Yes면 was나 were, No면 wasn't나 weren't로 답해요. 명사 주어는 대명사로 바꿔 물건 하나는 it, 둘 이상은 they로 받고, I, he, she, it에는 was, you, we, they에는 were를 써요. Were the boxes heavy? 그 상자들은 무거웠니? No, they weren't. 아니, 안 무거웠어."
+  },
+  "steps": [
+   {
+    "note": "the cake = 물건 하나 → it. they로 답한 ⑤는 지운다.",
+    "highlight": [
+     "the cake"
+    ],
+    "strike": [
+     "⑤ Yes, they were."
+    ],
+    "narration": "첫째, 질문의 주어 the cake는 물건 하나라서 it으로 받아요. 그래서 they로 답한 5번은 지워요."
+   },
+   {
+    "note": "be동사 과거형 Was로 물었다 → 현재형 is(①), does(④)는 지운다.",
+    "highlight": [
+     "Was"
+    ],
+    "strike": [
+     "① Yes, it is.",
+     "④ Yes, it does."
+    ],
+    "narration": "둘째, be동사 과거형 Was로 물었으니, 현재형 is로 답한 1번과 does로 답한 4번도 지워요."
+   },
+   {
+    "note": "it에는 were가 아니라 was → ②도 지운다. 남는 것은 ③ → Yes, it was.",
+    "highlight": [
+     "③ Yes, it was."
+    ],
+    "strike": [
+     "② Yes, it were."
+    ],
+    "narration": "셋째, it에는 were가 아니라 was를 쓰니 2번도 지우면, 남는 것은 3번이에요. Yes, it was. 응, 맛있었어."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Yes, it is.  ✗  과거로 물었는데 현재형 is로 답했어요",
+    "② Yes, it were.  ✗  it에는 were가 아니라 was",
+    "③ Yes, it was.  ✓  the cake → it, it에는 was",
+    "④ Yes, it does.  ✗  be동사 Was로 물었는데 does로 답했어요",
+    "⑤ Yes, they were.  ✗  물건 하나인 the cake는 they가 아니라 it"
+   ],
+   "narration": "정답은 3번이에요. 1번 Yes, it is는 주어 it은 맞지만, 과거로 물었는데 현재형 is로 답해서 틀렸어요. 2번은 it에 were를 써서 틀렸어요. it에는 was를 써요. 4번은 be동사 Was로 물었는데 does로 답해서 틀렸어요."
+  },
+  "summary": {
+   "card": "Was/Were 의문문 → 대명사 주어 + 그 주어에 맞는 was/were (the cake → it was)",
+   "narration": "정답은 3번이에요. 기억할 것, Was나 Were로 물으면 질문의 주어를 대명사로 바꾸고, 그 대명사에 맞는 was나 were로 답해요."
+  },
+  "captions": [
+   "the cake로 묻는 Was 의문문",
+   "먼저 풀어 보세요",
+   "Was/Were 의문문의 대답",
+   "it → 과거형 → was",
+   "정답 ③ Yes, it was.",
+   "대명사 주어 + was/were"
+  ],
+  "sec": [
+   10,
+   16,
+   24,
+   28,
+   22,
+   10
+  ]
+ },
+ "F": {
+  "title": "Jane으로 묻는 Was 의문문의 대답",
+  "intro": "이 문제는 주어가 Jane인 Was 의문문에 어법상 알맞은 대답을 고르는 문제예요.",
+  "problem_narration": "다음 질문에 대한 대답으로 어법상 가장 알맞은 것을 고르세요. Was Jane at home? 제인은 집에 있었니? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "Was/Were로 묻는 be동사 과거 의문문 → be동사 과거형으로 답해요. (do, does, did로 답하지 않아요)",
+    "Yes, 주어 + was/were. / No, 주어 + wasn't/weren't.",
+    "명사 주어는 대명사로: 남자 한 명 he, 여자 한 명 she, 물건 하나 it, 둘 이상 they",
+    "I, he, she, it → was / you, we, they → were",
+    "예) Was Tom sick? No, he wasn't. (톰은 아팠니? 아니, 안 아팠어.)"
+   ],
+   "narration": "Was나 Were로 물으면 be동사 과거형으로, Yes면 was나 were, No면 wasn't나 weren't로 답해요. 명사 주어는 대명사로 바꿔 남자 한 명은 he, 여자 한 명은 she로 받고, I, he, she, it에는 was, you, we, they에는 were를 써요. Was Tom sick? 톰은 아팠니? No, he wasn't. 아니, 안 아팠어."
+  },
+  "steps": [
+   {
+    "note": "Jane = 여자 한 명 → she. he로 답한 ⑤는 지운다.",
+    "highlight": [
+     "Jane"
+    ],
+    "strike": [
+     "⑤ Yes, he was."
+    ],
+    "narration": "첫째, 질문의 주어 Jane은 여자 한 명이라 she로 받아요. 그래서 he로 답한 5번은 지워요."
+   },
+   {
+    "note": "be동사 과거형 Was로 물었다 → 현재형 isn't(②), did(③)는 지운다.",
+    "highlight": [
+     "Was"
+    ],
+    "strike": [
+     "② No, she isn't.",
+     "③ Yes, she did."
+    ],
+    "narration": "둘째, be동사 과거형 Was로 물었으니, 현재형 isn't로 답한 2번과 did로 답한 3번도 지워요."
+   },
+   {
+    "note": "she에는 were가 아니라 was → ①도 지운다. 남는 것은 ④ → No, she wasn't.",
+    "highlight": [
+     "④ No, she wasn't."
+    ],
+    "strike": [
+     "① Yes, she were."
+    ],
+    "narration": "셋째, she에는 were가 아니라 was를 쓰니 1번도 지우면, 남는 것은 4번이에요. No, she wasn't. 아니, 집에 없었어."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Yes, she were.  ✗  she에는 were가 아니라 was",
+    "② No, she isn't.  ✗  과거로 물었는데 현재형 isn't로 답했어요",
+    "③ Yes, she did.  ✗  be동사 Was로 물었는데 did로 답했어요",
+    "④ No, she wasn't.  ✓  Jane → she, she에는 wasn't",
+    "⑤ Yes, he was.  ✗  여자 한 명인 Jane은 he가 아니라 she"
+   ],
+   "narration": "정답은 4번이에요. 2번 No, she isn't는 주어 she는 맞지만, 과거로 물었는데 현재형 isn't로 답해서 틀렸어요. 3번은 be동사 Was로 물었는데 did로 답해서 틀렸어요. 5번은 was는 맞지만, 여자인 Jane을 he로 받아서 틀렸어요."
+  },
+  "summary": {
+   "card": "Was/Were 의문문 → 대명사 주어 + 그 주어에 맞는 was/were (Jane → she wasn't)",
+   "narration": "정답은 4번이에요. 기억할 것, Was나 Were로 물으면 질문의 주어를 대명사로 바꾸고, 그 대명사에 맞는 was나 were로 답해요."
+  },
+  "captions": [
+   "Jane으로 묻는 Was 의문문",
+   "먼저 풀어 보세요",
+   "Was/Were 의문문의 대답",
+   "she → 과거형 → wasn't",
+   "정답 ④ No, she wasn't.",
+   "대명사 주어 + was/were"
+  ],
+  "sec": [
+   10,
+   16,
+   24,
+   28,
+   22,
+   10
+  ]
+ }
+}

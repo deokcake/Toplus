@@ -1,0 +1,13 @@
+
+# 2026-10-27 감수 반영(fx/z9f_memo1027.py)에 맞춰 풀이 순서 칸을 고친다. (g9f 뒤에 읽힌다)
+def U(g_, n_, **kw): EX[(g_, n_)].update(kw)
+U(1, 4, F=("married with, discussed about, resembles with, entered into", "reached the shelter"))
+U(1, 99, F="어제 집에 오는 길에 비에 흠뻑 젖었다")
+U(2, 8, F=("open", "the classroom door", "risky", "the plan"))
+U(2, 84, F="① 밑줄은 모두 명사를 꾸미는 형용사의 최상급이다. → ② 형용사의 최상급 앞에는 the나 소유격(my, our 등)을 쓴다(one of the + 최상급도 같다). → ③ {n}만 the도 소유격도 없다. 바른 형태는 the biggest.")
+U(3, 10, F="첫째는 many dark clouds가 복수라 there were, 둘째는 The sky가 단수라 was, 넷째는 The children이 복수라 were여야 한다. 셋째만 옳다.")
+U(3, 51, F=("~하는 것이 좋겠다", "had better"))
+U(3, 100, F="ⓑ looks happily(happy), ⓒ fastly(fast), ⓓ few money(little), ⓔ cold something(something cold)이 틀렸다. ⓐ만 옳다.")
+U(4, 12, C="⑤는 빈칸 뒤가 동사 is라 주어 자리다. He가 들어간다.", E="①은 동사 helped 뒤 목적어 자리라 목적격 him이 들어간다.")
+U(4, 52, C=("‘올지도 모른다’", "약한 추측을 나타내는 조동사는 might다."), E=("‘반드시 출발해야 한다’", "의무를 나타내는 조동사는 must다."))
+U(4, 89, D="②만 ‘생일 파티가 언제니?’라고 묻는 의문사다.")

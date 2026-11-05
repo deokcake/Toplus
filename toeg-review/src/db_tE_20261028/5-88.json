@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:25:59.687Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": null,
+      "1": "sitting",
+      "2": "is",
+      "3": "tree",
+      "4": "Jane"
+    },
+    "expl": "핵심 규칙: 우리말 뜻에 맞게 주어 + 동사 + (목적어) + 전치사 + 명사의 어순으로 배열한다. There is/are 문장은 There + be동사 + 주어로 시작하고, 명령문은 동사원형으로 시작한다.\n풀이 순서: ① 우리말에 맞게 문장을 완성한다: Jane is sitting under the tree. → ② 앞에서부터 센다. → ③ 세 번째 낱말은 sitting. 정답은 ②.\n문장별 판정:\n정답 판단: 완성 문장은 Jane is sitting under the tree.이고, 세 번째 단어는 sitting이다.\n선택지 분석:\n① [오답] under는 네 번째에 오므로 오답이다.\n② [정답] sitting은 세 번째에 오므로 정답이다.\n③ [오답] is는 두 번째에 오므로 오답이다.\n④ [오답] tree는 여섯 번째에 오므로 오답이다.\n⑤ [오답] Jane은 첫 번째에 오므로 오답이다.",
+    "passage": "Jane은 나무 아래에 앉아 있다.\n(sitting / under / Jane / the / is / tree)",
+    "stem": "주어진 단어들을 바르게 배열할 때, 세 번째에 오는 단어는 무엇입니까?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:25:57.599Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:25:59.687Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:25:59.687Z",
+      "what": "확인 완료"
+    }
+  }
+}

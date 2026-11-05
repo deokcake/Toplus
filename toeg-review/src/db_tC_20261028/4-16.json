@@ -1,0 +1,31 @@
+{
+  "by": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-24T03:02:22.160Z",
+  "doneBy": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Those pens are <u>his</u>.",
+      "1": "This notebook is <u>hers</u>.",
+      "2": "The blue car is <u>theirs</u>.",
+      "3": "Is this bag <u>your</u>?",
+      "4": "These books are <u>ours</u>."
+    },
+    "expl": "핵심 규칙: 명사 없이 ‘~의 것’을 나타낼 때는 소유대명사(mine, yours, his, hers, ours, theirs)를 쓰고, 소유격(my, your, her, our, their)은 뒤에 명사가 있어야 한다.\n풀이 순서: ① 밑줄 뒤에 명사가 없다. ‘~의 것’이라는 소유대명사 자리다. → ② 소유격(my, your, her, our, their)은 뒤에 명사가 있어야 하므로 이 자리에 올 수 없다. ④의 your는 yours로 써야 한다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 소유격 your 뒤에 명사가 없고, yours로 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 명사 없이 ‘~의 것’을 나타내는 소유대명사를 바르게 썼으므로 오답이다.\n② [오답] 명사 없이 ‘~의 것’을 나타내는 소유대명사를 바르게 썼으므로 오답이다.\n③ [오답] 명사 없이 ‘~의 것’을 나타내는 소유대명사를 바르게 썼으므로 오답이다.\n④ [정답] 소유격 your 뒤에 명사가 없고, yours로 써야 하므로 정답이다.\n⑤ [오답] 명사 없이 ‘~의 것’을 나타내는 소유대명사를 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 밑줄 친 부분의 쓰임이 옳지 않은 것을 고르시오."
+  },
+  "editors": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": "2026-10-24T03:02:21.675Z"
+  },
+  "tab": "ai7fx4gw",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": {
+      "at": "2026-10-24T03:02:22.160Z",
+      "what": "확인 완료"
+    }
+  }
+}

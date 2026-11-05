@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T10:48:52.841Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "No, we don't.",
+      "1": "Yes, they are.",
+      "2": "No, we aren't.",
+      "3": "Yes, we do.",
+      "4": "No, we weren't."
+    },
+    "expl": "핵심 규칙: be동사 진행형 의문문에는 Yes, 주어 + be동사. / No, 주어 + be동사 + not.으로 답한다. 대답의 주어는 질문의 주어에 맞추고(you → I, Jane → she), 시제도 질문과 같게 현재형 be동사를 쓴다.\n풀이 순서: ① 질문의 be동사와 주어를 본다: Are we ~? → ② 대답의 주어는 we, 동사는 질문과 같은 현재형 be동사다. do/does나 was/were로 답한 것을 지운다. → ③ 정답은 No, we aren't.\n문장별 판정:\n정답 판단: Are we 질문에 we aren't로 바르게 답했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] be동사 의문문에는 don't로 답하지 않으므로 오답이다.\n② [오답] we에 대한 질문에 they로 답했으므로 오답이다.\n③ [정답] Are we 질문에 we aren't로 바르게 답했으므로 정답이다.\n④ [오답] be동사 의문문에는 do로 답하지 않으므로 오답이다.\n⑤ [오답] 현재진행형 질문에 과거형 weren't로 답했으므로 오답이다.",
+    "passage": "A: Are we walking too fast?\nB: _________________",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:48:50.089Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:48:52.841Z",
+      "what": "확인 완료"
+    }
+  }
+}

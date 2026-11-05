@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T12:49:26.269Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "(A), (C)",
+      "1": "(B), (D)",
+      "2": "(A), (C), (D)",
+      "3": "(B), (C), (D)",
+      "4": "(A), (B), (D)"
+    },
+    "expl": "핵심 규칙: 복수 주어에는 복수 동사, 단수 주어에는 단수 동사를 쓴다. 소유대명사에는 '를 붙이지 않고, 명사 없이 ‘~의 것’은 소유대명사로 쓰며, ‘누구의’는 Whose이다.\n풀이 순서: ① 밑줄이 동사이면 주어의 수와 맞는지, 대명사이면 자리에 맞는지(명사 앞: 소유격, 명사 없음: 소유대명사) 본다. → ② (A) The children is(are), (C) her's(hers), (D) my(mine)가 틀렸다. (B)는 옳다. → ③ 틀린 것을 빠짐없이 고른 (A), (C), (D)가 정답이다.\n문장별 판정:\n(A) X. 복수 주어 The children에는 are를 쓴다.\n(B) O. 단수 주어 Their room에 is를 썼다.\n(C) X. 소유대명사 hers에는 '를 붙이지 않는다.\n(D) X. 명사 없이 ‘내 것’은 mine으로 쓴다.\n정답 판단: 밑줄 친 부분이 틀린 문장은 (A), (C), (D)이다.\n선택지 분석:\n① [오답] 틀린 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (B)는 틀린 문장이 아니고, 틀린 문장 (A), (C)를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 틀린 문장 (A), (C), (D)를 빠짐없이 골랐으므로 정답이다.\n④ [오답] (B)는 틀린 문장이 아니고, 틀린 문장 (A)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (B)는 틀린 문장이 아니고, 틀린 문장 (C)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(A) The children <u>is</u> in the playground after lunch.\n(B) Their room on the second floor <u>is</u> big.\n(C) This bike with the basket is <u>her's</u>.\n(D) Those books on the table are <u>my</u>.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T12:48:56.986Z"
+  },
+  "tab": "ocdtwd0p",
+  "updatedAt": "2026-10-27T12:49:26.269Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T12:49:26.269Z",
+      "what": "확인 완료"
+    }
+  }
+}

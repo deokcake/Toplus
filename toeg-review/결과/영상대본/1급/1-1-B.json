@@ -1,0 +1,179 @@
+{
+ "key": "1-1",
+ "type": "B",
+ "grade": 1,
+ "chapter": "CH 1 문장의 구조",
+ "title": "2형식 동사 뒤 보어 자리의 형용사",
+ "total_sec": 133,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "1급 · CH 1 문장의 구조 · 1번 · B 유형\n\n이 문제는 2형식 동사 뒤 보어 자리의 형태를 보고 어법상 어색한 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 1 문장의 구조 · 1번 · B 유형",
+     "이 문제는 2형식 동사 뒤 보어 자리의 형태를 보고 어법상 어색한 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 1, 1번 B 유형. 이 문제는 2형식 동사 뒤 보어 자리의 형태를 보고 어법상 어색한 것을 고르는 문제예요.",
+   "caption": "2형식 동사 뒤 보어의 형태"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.\n\n① The cloth <u>feels rough</u> on my hands.\n② The proposal <u>sounds sensible</u> to us.\n③ The student <u>looks nervous</u> before the test.\n④ The milk <u>smells badly</u> this morning.\n⑤ The bread <u>tastes wonderful</u> with butter.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+     "① The cloth <u>feels rough</u> on my hands.",
+     "② The proposal <u>sounds sensible</u> to us.",
+     "③ The student <u>looks nervous</u> before the test.",
+     "④ The milk <u>smells badly</u> this morning.",
+     "⑤ The bread <u>tastes wonderful</u> with butter."
+    ]
+   },
+   "narration": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\nlook, smell, taste, sound, feel, seem + 보어 → 주어의 상태를 설명해요\nlook ~해 보이다 · smell ~한 냄새가 나다 · taste ~한 맛이 나다\nsound ~하게 들리다 · feel ~하게 느껴지다 · seem ~인 것 같다\n보어 자리에는 부사가 아니라 형용사 (happy ✓  happily ✗)\n예) She looks happy. (그녀는 행복해 보여요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "look, smell, taste, sound, feel, seem + 보어 → 주어의 상태를 설명해요",
+     "look ~해 보이다 · smell ~한 냄새가 나다 · taste ~한 맛이 나다",
+     "sound ~하게 들리다 · feel ~하게 느껴지다 · seem ~인 것 같다",
+     "보어 자리에는 부사가 아니라 형용사 (happy ✓  happily ✗)",
+     "예) She looks happy. (그녀는 행복해 보여요.)"
+    ]
+   },
+   "narration": "look, smell, taste, sound, feel, seem이 2형식 동사로 쓰이면, 뒤의 보어가 주어의 상태를 설명해요. 각각 어떻게 보이는지, 어떤 냄새나 맛이 나는지, 어떻게 들리고 느껴지는지, 어떠한 것 같은지를 말해요. 이때 보어 자리에는 happily 같은 부사가 아니라 happy 같은 형용사를 써요. 예를 들어 She looks happy. 그녀는 행복해 보여요.",
+   "caption": "보어 자리에는 형용사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.\n\n① The cloth <u>feels rough</u> on my hands.\n② The proposal <u>sounds sensible</u> to us.\n③ The student <u>looks nervous</u> before the test.\n④ The milk <u>smells badly</u> this morning.\n⑤ The bread <u>tastes wonderful</u> with butter.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "feels rough",
+       "sounds sensible",
+       "looks nervous",
+       "smells badly",
+       "tastes wonderful"
+      ],
+      "strike": [],
+      "note": "밑줄마다 동사 확인: feels, sounds, looks, smells, tastes = 주어의 상태를 설명하는 2형식 동사 → 뒤는 보어 자리"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "feels rough",
+       "sounds sensible",
+       "looks nervous",
+       "tastes wonderful"
+      ],
+      "note": "보어가 형용사인지 확인: rough, sensible, nervous, wonderful = 형용사 → 바르게 씀"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "smells badly"
+      ],
+      "strike": [],
+      "note": "badly = bad + ly 부사 → 보어 자리에 못 씀 → bad로 고친다"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 밑줄마다 동사를 보면 feels, sounds, looks, smells, tastes가 모두 주어의 상태를 설명하는 2형식 동사로 쓰여, 뒤에 보어가 와요. 둘째, 보어가 형용사인지 부사인지 가려 보면, rough, sensible, nervous, wonderful 모두 형용사라 바르게 썼어요. 셋째, badly는 형용사 bad에 ly를 붙인 부사라서 보어 자리에 쓸 수 없어요. smells bad로 고쳐야 해요. 나쁜 냄새가 난다는 뜻이에요.",
+   "caption": "동사 확인 → 형용사? 부사? → badly"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 31,
+   "screen": {
+    "text": "① The cloth <u>feels rough</u> on my hands.  ✗  feels 뒤 보어 자리에 형용사 rough (거칠게 느껴지다)\n② The proposal <u>sounds sensible</u> to us.  ✗  sounds 뒤에 형용사 sensible (합리적으로 들리다)\n③ The student <u>looks nervous</u> before the test.  ✗  looks 뒤에 형용사 nervous (긴장해 보이다)\n④ The milk <u>smells badly</u> this morning.  ✓  부사 badly를 썼어요 → 형용사 bad로\n⑤ The bread <u>tastes wonderful</u> with butter.  ✗  tastes 뒤에 형용사 wonderful (아주 맛있다)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① The cloth <u>feels rough</u> on my hands.  ✗  feels 뒤 보어 자리에 형용사 rough (거칠게 느껴지다)",
+     "② The proposal <u>sounds sensible</u> to us.  ✗  sounds 뒤에 형용사 sensible (합리적으로 들리다)",
+     "③ The student <u>looks nervous</u> before the test.  ✗  looks 뒤에 형용사 nervous (긴장해 보이다)",
+     "④ The milk <u>smells badly</u> this morning.  ✓  부사 badly를 썼어요 → 형용사 bad로",
+     "⑤ The bread <u>tastes wonderful</u> with butter.  ✗  tastes 뒤에 형용사 wonderful (아주 맛있다)"
+    ]
+   },
+   "narration": "정답은 4번이에요. smells 뒤 보어 자리에 부사 badly를 써서, 형용사 bad로 고쳐야 해요. 1번 feels rough는 거칠게 느껴진다로 옮겨져 roughly가 맞다고 착각하기 쉽지만, feels 뒤 보어 자리라 형용사 rough가 맞아요. 3번 looks nervous도 긴장해 보인다는 뜻으로, 형용사 nervous가 바르게 쓰였어요. 5번 tastes wonderful도 tastes 뒤에 형용사 wonderful이 와서 바른 문장이에요.",
+   "caption": "정답 ④ smells badly"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ④ The milk <u>smells badly</u> this morning.\n\nlook, smell, taste, sound, feel, seem 뒤 보어 → 부사 ✗  형용사 ✓",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ The milk <u>smells badly</u> this morning.",
+     "look, smell, taste, sound, feel, seem 뒤 보어 → 부사 ✗  형용사 ✓"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, look, smell, taste 같은 2형식 동사 뒤 보어 자리에는 부사가 아니라 형용사를 써요.",
+   "caption": "2형식 동사 + 형용사 보어"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "The cloth <u>feels rough</u> on my hands.",
+   "The proposal <u>sounds sensible</u> to us.",
+   "The student <u>looks nervous</u> before the test.",
+   "The milk <u>smells badly</u> this morning.",
+   "The bread <u>tastes wonderful</u> with butter."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: smell, taste, sound, feel, look, seem처럼 주어의 상태를 설명하는 2형식 동사 뒤 보어 자리에는 부사가 아니라 형용사를 쓴다.\n풀이 순서: ① 밑줄마다 동사가 smell·taste·sound·feel·look·seem 같은 2형식 동사임을 확인한다. → ② 그 뒤에 온 말이 형용사인지 -ly로 끝나는 부사인지 가른다. → ③ 선택지 ④만 부사(badly)가 왔으므로 형용사(bad)로 고쳐야 한다.\n문장별 판정:\n정답 판단: smells 뒤 보어 자리에 부사(badly)를 썼다. 형용사(bad)로 고쳐야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] feels 뒤에 형용사(rough)가 보어로 와서 올바르므로 오답이다.\n② [오답] sounds 뒤에 형용사(sensible)가 보어로 와서 올바르므로 오답이다.\n③ [오답] looks 뒤에 형용사(nervous)가 보어로 와서 올바르므로 오답이다.\n④ [정답] smells 뒤 보어 자리에 부사(badly)를 썼다. 형용사(bad)로 고쳐야 하므로 정답이다.\n⑤ [오답] tastes 뒤에 형용사(wonderful)가 보어로 와서 올바르므로 오답이다."
+ }
+}

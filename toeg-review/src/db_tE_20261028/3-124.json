@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T04:59:57.398Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "so - because",
+      "1": "because - so",
+      "2": "because - because",
+      "3": "so - so",
+      "4": "so - although"
+    },
+    "expl": "핵심 규칙: because는 뒤에 이유를, so는 뒤에 결과를 이끈다. although는 ‘비록 ~이지만’의 양보를 나타낸다.\n풀이 순서: ① 발문이 알려 준 관계를 확인한다: 첫 빈칸은 대조, 둘째 빈칸은 시간. → ② 대조는 but, ‘~할 때’는 when으로 잇는다. → ③ 정답은 so - because.\n문장별 판정:\n정답 판단: 첫째 빈칸은 뒤 절(Tom이 소식을 앎)이 전화한 결과라 so, 둘째 빈칸은 뒤 절(좋은 소식을 들음)이 웃은 이유라 because이므로 정답은 ①이다.\n선택지 분석:\n① [정답] 첫째 빈칸은 뒤 절(Tom이 소식을 앎)이 전화한 결과라 so, 둘째 빈칸은 뒤 절(좋은 소식을 들음)이 웃은 이유라 because이므로 정답이다.\n② [오답] 첫째 빈칸 because: 뒤 절(Tom이 소식을 앎)이 전화한 결과라 so이다, 둘째 빈칸 so: 뒤 절(좋은 소식을 들음)이 웃은 이유라 because이다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 because: 뒤 절(Tom이 소식을 앎)이 전화한 결과라 so이다. 따라서 오답이다.\n④ [오답] 둘째 빈칸 so: 뒤 절(좋은 소식을 들음)이 웃은 이유라 because이다. 따라서 오답이다.\n⑤ [오답] 둘째 빈칸 although: 뒤 절(좋은 소식을 들음)이 웃은 이유라 because이다. 따라서 오답이다.",
+    "passage": "- I called Tom, _____ he knows the news now.\n- Tom smiled _____ he heard the good news.",
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T04:59:51.350Z"
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T04:59:57.398Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:59:57.398Z",
+      "what": "확인 완료"
+    }
+  }
+}

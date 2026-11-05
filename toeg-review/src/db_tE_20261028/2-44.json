@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:22:56.714Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "In the empty classroom, she was talking to <u>herself</u>.",
+      "1": "I told <u>myself</u> not to give up on my dream.",
+      "2": "After swimming, the kids quickly dried <u>themselves</u>.",
+      "3": "Be careful not to burn <u>yourself</u> on the stove.",
+      "4": "Tom wrote the whole graduation speech <u>himself</u>."
+    },
+    "expl": "핵심 규칙: 재귀대명사가 동사·전치사의 목적어로 주어와 같은 대상을 가리키면 재귀 용법이라 뺄 수 없다. 주어를 강조해 ‘직접’의 뜻을 더하면 강조 용법이며 빼도 문장이 성립한다.\n풀이 순서: ① <보기>의 재귀대명사(myself)를 빼 본다. ‘I checked the final numbers.’만으로도 문장이 완전하다. 주어를 강조하는 강조 용법이다. → ② 보기마다 재귀대명사를 빼 본다. 동사나 전치사의 목적어가 사라져 문장이 깨지면 재귀 용법이다. → ③ 선택지 ⑤만 빼도 문장이 성립한다(Tom wrote the whole graduation speech.).\n문장별 판정:\n정답 판단: 완전한 문장 뒤에 붙어 ‘직접, 스스로’라는 뜻을 더하는 강조 용법이라 <보기>와 같으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 재귀대명사가 전치사 to의 목적어로 쓰인 재귀 용법이라 <보기>(강조 용법)와 다르므로 오답이다.\n② [오답] 재귀대명사가 동사 told의 목적어로 쓰인 재귀 용법이라 <보기>와 다르므로 오답이다.\n③ [오답] 재귀대명사가 동사 dried의 목적어로 쓰인 재귀 용법이라 <보기>와 다르므로 오답이다.\n④ [오답] 재귀대명사가 동사 burn의 목적어로 쓰인 재귀 용법이라 <보기>와 다르므로 오답이다.\n⑤ [정답] 완전한 문장 뒤에 붙어 ‘직접, 스스로’라는 뜻을 더하는 강조 용법이라 <보기>와 같으므로 정답이다.",
+    "passage": "<보기>\nI <u>myself</u> checked the final numbers.",
+    "stem": "다음 중 밑줄 친 부분의 쓰임이 (보기)와 같은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T00:37:22.272Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T00:38:07.668Z",
+      "text": "정답 선택지만 주어 바로 뒤에 재귀대명사가 위치함으로써 정답을 쉽게 유추할 수 있다"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:22:56.714Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:22:50.139Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:22:56.714Z",
+      "what": "확인 완료"
+    }
+  }
+}

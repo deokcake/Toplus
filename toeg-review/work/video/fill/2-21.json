@@ -1,0 +1,350 @@
+{
+ "A": {
+  "title": "조동사 may의 뜻 구별하기",
+  "intro": "이 문제는 주어진 문장의 may와 같은 뜻으로 쓰인 may를 고르는 문제예요.",
+  "problem_narration": "다음 주어진 문장의 밑줄 친 부분과 같은 의미로 쓰인 것을 고르시오. I may be able to attend the party. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "may + 동사원형, 뜻은 문맥으로 구별해요.",
+    "추측: ~일지도 모른다",
+    "허락: ~해도 된다 (May I …? → ~해도 될까요?)",
+    "금지: ~해서는 안 된다 → may not",
+    "예) He may be hungry. (그는 배고플지도 몰라요.)"
+   ],
+   "narration": "may 뒤에는 동사원형이 오고, 뜻은 문맥으로 가려요. 무엇을 짐작해서 말하면 일지도 모른다는 추측이에요. 해도 된다고 허락할 때도 쓰고, May I로 물으면 해도 될까요 하고 허락을 구하는 말이에요. 해서는 안 된다는 금지는 may not으로 나타내요. 예를 들어 He may be hungry는 그는 배고플지도 모른다는 뜻이에요."
+  },
+  "steps": [
+   {
+    "note": "주어진 문장: 파티에 참석할 수 있을지도 모른다 → 추측",
+    "highlight": ["I <u>may</u> be able to attend the party."],
+    "strike": [],
+    "narration": "첫째, 주어진 문장은 나는 파티에 참석할 수 있을지도 모른다는 뜻이에요. 확실하지 않은 일을 짐작하니 추측이에요."
+   },
+   {
+    "note": "① 허락 요청, ②·③ 금지(may not), ④ 허락 → 지운다",
+    "highlight": [],
+    "strike": ["① <u>May</u> I open the window?", "② I'm sorry, but you <u>may</u> not enter this area.", "③ You <u>may</u> not use your phone during class.", "④ You <u>may</u> take an extra cookie if you like."],
+    "narration": "둘째, 1번 May I는 허락 요청, 2번과 3번 may not은 금지, 4번은 허락이에요. 모두 짐작하는 말이 아니에요."
+   },
+   {
+    "note": "⑤ 내일 비가 올지도 모른다 → 추측",
+    "highlight": ["⑤ The weather forecast says it <u>may</u> rain tomorrow."],
+    "strike": [],
+    "narration": "셋째, 남은 5번 it may rain tomorrow는 내일 비가 올지도 모른다는 뜻이라 추측이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① <u>May</u> I open the window?  ✗  허락 요청 (창문을 열어도 될까요?)",
+    "② I'm sorry, but you <u>may</u> not enter this area.  ✗  금지 (이 구역에 들어가면 안 돼요)",
+    "③ You <u>may</u> not use your phone during class.  ✗  금지 (수업 중에 휴대폰을 쓰면 안 돼요)",
+    "④ You <u>may</u> take an extra cookie if you like.  ✗  허락 (쿠키를 하나 더 가져가도 돼요)",
+    "⑤ The weather forecast says it <u>may</u> rain tomorrow.  ✓  추측 (내일 비가 올지도 몰라요)"
+   ],
+   "narration": "정답은 5번이에요. 일기 예보를 듣고 내일 날씨를 짐작하니 주어진 문장과 같은 추측이에요. 4번은 You may 뒤에 동사원형이 와서 헷갈리지만, 쿠키를 하나 더 가져가도 된다는 허락이에요. 2번과 3번은 이 구역에 들어가면 안 된다, 수업 중에 휴대폰을 쓰면 안 된다는 금지예요."
+  },
+  "summary": {
+   "card": "may: 추측(~일지도 모른다) · 허락(~해도 된다) · 금지(may not) → 문맥으로 구별",
+   "narration": "정답은 5번이에요. 기억할 것, may는 일지도 모른다는 추측도 되고 해도 된다는 허락도 되니, 문장의 뜻으로 구별해요."
+  },
+  "captions": [
+   "may의 뜻 구별하기",
+   "먼저 풀어 보세요",
+   "may: 추측·허락·금지",
+   "추측 → 허락·금지 지우기 → ⑤",
+   "정답 ⑤ 추측의 may",
+   "may의 뜻은 문맥으로"
+  ],
+  "sec": [10, 16, 26, 30, 28, 11]
+ },
+ "B": {
+  "title": "조동사 may의 뜻 구별하기",
+  "intro": "이 문제는 주어진 문장의 may와 같은 뜻으로 쓰인 may를 고르는 문제예요.",
+  "problem_narration": "다음 주어진 문장의 밑줄 친 부분과 같은 의미로 쓰인 것을 고르시오. The lights are off. They may be asleep. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "may + 동사원형, 뜻은 문맥으로 구별해요.",
+    "추측: ~일지도 모른다 / 허락: ~해도 된다",
+    "May I …? → 허락 요청 / ~해서는 안 된다(금지) → may not",
+    "기원: May + 주어 + 동사원형 …! (~하기를!)",
+    "예) She may be tired. (그녀는 피곤할지도 몰라요.)"
+   ],
+   "narration": "may 뒤에는 동사원형이 오고, 뜻은 문맥으로 가려요. 짐작해서 말하면 일지도 모른다는 추측, 해도 된다고 하면 허락이에요. May I로 물으면 허락을 구하는 말이고, 해서는 안 된다는 금지는 may not으로 나타내요. 물음표 없이 May 뒤에 주어와 동사원형이 오면 하기를 빈다는 기원이에요. 예를 들어 She may be tired는 그녀는 피곤할지도 모른다는 뜻이에요."
+  },
+  "steps": [
+   {
+    "note": "주어진 문장: 불이 꺼져 있다 → 자고 있을지도 모른다 = 추측",
+    "highlight": ["The lights are off. They <u>may</u> be asleep."],
+    "strike": [],
+    "narration": "첫째, 주어진 문장은 불이 꺼져 있어요, 그들은 자고 있을지도 몰라요라는 뜻이에요. 불이 꺼진 것을 보고 짐작하니 추측이에요."
+   },
+   {
+    "note": "① 허락 요청, ② 금지, ③ 허락, ⑤ 기원 → 지운다",
+    "highlight": [],
+    "strike": ["① <u>May</u> I borrow your pen?", "② You <u>may</u> not park your car here.", "③ Visitors <u>may</u> take photos in the lobby.", "⑤ <u>May</u> you have a wonderful trip!"],
+    "narration": "둘째, 1번 May I는 허락 요청, 2번 may not은 금지, 3번은 허락, 5번은 기원이에요. 모두 짐작하는 말이 아니에요."
+   },
+   {
+    "note": "④ 차가 막혀 늦을지도 모른다 → 추측",
+    "highlight": ["④ Jane <u>may</u> be late because of the traffic."],
+    "strike": [],
+    "narration": "셋째, 남은 4번 Jane may be late because of the traffic은 제인이 차가 막혀 늦을지도 모른다는 뜻이라 추측이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① <u>May</u> I borrow your pen?  ✗  허락 요청 (펜을 빌려도 될까요?)",
+    "② You <u>may</u> not park your car here.  ✗  금지 (여기에 주차하면 안 돼요)",
+    "③ Visitors <u>may</u> take photos in the lobby.  ✗  허락 (로비에서 사진을 찍어도 돼요)",
+    "④ Jane <u>may</u> be late because of the traffic.  ✓  추측 (차가 막혀 늦을지도 몰라요)",
+    "⑤ <u>May</u> you have a wonderful trip!  ✗  기원 (멋진 여행이 되기를!)"
+   ],
+   "narration": "정답은 4번이에요. 길이 막히는 것을 보고 늦을지도 모른다고 짐작하니 주어진 문장과 같은 추측이에요. 3번은 may 뒤에 동사원형이 와서 모양이 비슷하지만, 방문객이 로비에서 사진을 찍어도 된다는 허락이에요. 5번은 May로 시작해서 헷갈리지만, 묻는 말이 아니라 멋진 여행을 비는 기원이에요."
+  },
+  "summary": {
+   "card": "may: 추측(~일지도 모른다) · 허락(~해도 된다) · 금지(may not) · 기원(May + 주어 …!) → 문맥으로 구별",
+   "narration": "정답은 4번이에요. 기억할 것, may는 추측, 허락, 금지, 기원으로 두루 쓰이니 문장의 뜻으로 구별해요."
+  },
+  "captions": [
+   "may의 뜻 구별하기",
+   "먼저 풀어 보세요",
+   "may: 추측·허락·금지·기원",
+   "추측 → 나머지 지우기 → ④",
+   "정답 ④ 추측의 may",
+   "may의 뜻은 문맥으로"
+  ],
+  "sec": [10, 17, 29, 32, 29, 10]
+ },
+ "C": {
+  "title": "조동사 may의 뜻 구별하기",
+  "intro": "이 문제는 주어진 문장의 may와 같은 뜻으로 쓰인 may를 고르는 문제예요.",
+  "problem_narration": "다음 주어진 문장의 밑줄 친 부분과 같은 의미로 쓰인 것을 고르시오. You may use my computer after you finish your homework. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "may + 동사원형, 뜻은 문맥으로 구별해요.",
+    "허락: ~해도 된다 / 추측: ~일지도 모른다",
+    "may not: 금지(~해서는 안 된다) 또는 추측(~하지 않을지도 모른다)",
+    "기원: May + 주어 + 동사원형 …! (~하기를!)",
+    "예) You may go home now. (이제 집에 가도 돼요.)"
+   ],
+   "narration": "may 뒤에는 동사원형이 오고, 뜻은 문맥으로 가려요. 해도 된다고 허락할 때도 쓰고, 일지도 모른다고 짐작하는 추측에도 써요. may not은 해서는 안 된다는 금지일 때도 있지만, 하지 않을지도 모른다는 추측일 때도 있어요. 물음표 없이 May 뒤에 주어와 동사원형이 오면 하기를 빈다는 기원이에요. 예를 들어 You may go home now는 이제 집에 가도 된다는 뜻이에요."
+  },
+  "steps": [
+   {
+    "note": "주어진 문장: 숙제를 끝낸 뒤 컴퓨터를 써도 된다 → 허락",
+    "highlight": ["You <u>may</u> use my computer after you finish your homework."],
+    "strike": [],
+    "narration": "첫째, 주어진 문장은 숙제를 끝낸 뒤에 내 컴퓨터를 써도 된다는 뜻이에요. 해도 된다고 허락하는 말이에요."
+   },
+   {
+    "note": "①·②·⑤ 추측(②·⑤는 may not이어도 추측), ④ 기원 → 지운다",
+    "highlight": [],
+    "strike": ["① It <u>may</u> snow a lot this weekend.", "② He <u>may</u> not know my phone number.", "④ <u>May</u> all your dreams come true!", "⑤ The rumor <u>may</u> not be true."],
+    "narration": "둘째, 보기마다 may를 해도 된다로 바꿔 읽어 봐요. 1번, 2번, 5번은 일지도 모른다로 읽어야 자연스러운 추측이고, 4번은 꿈이 이루어지기를 비는 기원이에요."
+   },
+   {
+    "note": "③ 일찍 끝낸 사람은 나가도 된다 → 허락",
+    "highlight": ["③ Anyone who finishes early <u>may</u> leave the room."],
+    "strike": [],
+    "narration": "셋째, 남은 3번 Anyone who finishes early may leave the room은 일찍 끝낸 사람은 누구든 방에서 나가도 된다는 뜻이에요. 해도 된다는 허락이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① It <u>may</u> snow a lot this weekend.  ✗  추측 (주말에 눈이 많이 올지도 몰라요)",
+    "② He <u>may</u> not know my phone number.  ✗  추측 (내 번호를 모를지도 몰라요)",
+    "③ Anyone who finishes early <u>may</u> leave the room.  ✓  허락 (일찍 끝낸 사람은 나가도 돼요)",
+    "④ <u>May</u> all your dreams come true!  ✗  기원 (꿈이 모두 이루어지기를!)",
+    "⑤ The rumor <u>may</u> not be true.  ✗  추측 (그 소문은 사실이 아닐지도 몰라요)"
+   ],
+   "narration": "정답은 3번이에요. 일찍 끝낸 사람에게 나가도 된다고 허락하니 주어진 문장과 같아요. 2번과 5번은 may not을 보고 금지라고 생각하기 쉬워요. 하지만 그가 내 번호를 모를지도 모른다, 그 소문이 사실이 아닐지도 모른다는 추측이에요. 4번은 May로 시작하지만 꿈이 이루어지기를 비는 기원이에요."
+  },
+  "summary": {
+   "card": "may: 허락(~해도 된다) · 추측(~일지도 모른다) → 문맥으로 구별, may not도 추측일 수 있다",
+   "narration": "정답은 3번이에요. 기억할 것, may는 해도 된다는 허락도 되고 일지도 모른다는 추측도 되니, may not이 보여도 문장의 뜻으로 구별해요."
+  },
+  "captions": [
+   "may의 뜻 구별하기",
+   "먼저 풀어 보세요",
+   "may: 허락·추측·기원",
+   "허락 → 추측·기원 지우기 → ③",
+   "정답 ③ 허락의 may",
+   "may not도 추측일 수 있어요"
+  ],
+  "sec": [10, 18, 30, 34, 30, 12]
+ },
+ "D": {
+  "title": "조동사 could의 뜻 구별하기",
+  "intro": "이 문제는 주어진 문장의 could와 같은 뜻으로 쓰인 could를 고르는 문제예요.",
+  "problem_narration": "다음 주어진 문장의 밑줄 친 부분과 같은 의미로 쓰인 것을 고르시오. Mina isn't answering. She could be busy. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "could + 동사원형, 뜻은 문맥으로 구별해요.",
+    "과거의 능력: ~할 수 있었다",
+    "공손한 요청 Could you …? (~해 주시겠어요?) / 허락 요청 Could I …? (~해도 될까요?)",
+    "추측: ~일 수도 있다 (지금이나 앞으로의 일)",
+    "예) It could be a mistake. (그건 실수일 수도 있어요.)"
+   ],
+   "narration": "could 뒤에는 동사원형이 오고, 뜻은 문맥으로 가려요. 할 수 있었다는 뜻이면 과거의 능력이에요. Could you로 무엇을 해 달라고 부탁하면 공손한 요청, Could I로 해도 되는지 물으면 허락 요청이에요. 지금이나 앞으로의 일을 짐작해서 일 수도 있다고 말하면 추측이에요. 예를 들어 It could be a mistake는 그건 실수일 수도 있다는 뜻이에요."
+  },
+  "steps": [
+   {
+    "note": "주어진 문장: 전화를 안 받는다 → 바쁠 수도 있다 = 추측",
+    "highlight": ["Mina isn't answering. She <u>could</u> be busy."],
+    "strike": [],
+    "narration": "첫째, 주어진 문장은 미나가 전화를 받지 않아요, 그녀는 바쁠 수도 있어요라는 뜻이에요. 전화를 안 받는 것을 보고 지금 상황을 짐작하니 추측이에요."
+   },
+   {
+    "note": "②·⑤ 과거의 능력, ③ 공손한 요청, ④ 허락 요청 → 지운다",
+    "highlight": [],
+    "strike": ["② I <u>could</u> read when I was four.", "③ <u>Could</u> you pass me the salt?", "④ <u>Could</u> I use your bathroom?", "⑤ My grandma <u>could</u> speak three languages."],
+    "narration": "둘째, 2번과 5번은 할 수 있었다는 과거의 능력이에요. 3번 Could you는 공손한 요청, 4번 Could I는 허락 요청이에요."
+   },
+   {
+    "note": "① 바람 소리일 수도 있다 → 추측",
+    "highlight": ["① That noise <u>could</u> be the wind."],
+    "strike": [],
+    "narration": "셋째, 남은 1번 That noise could be the wind는 그 소리는 바람 소리일 수도 있다는 뜻이에요. 소리를 듣고 짐작하니 추측이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① That noise <u>could</u> be the wind.  ✓  추측 (바람 소리일 수도 있어요)",
+    "② I <u>could</u> read when I was four.  ✗  과거의 능력 (네 살 때 읽을 수 있었어요)",
+    "③ <u>Could</u> you pass me the salt?  ✗  공손한 요청 (소금 좀 건네주시겠어요?)",
+    "④ <u>Could</u> I use your bathroom?  ✗  허락 요청 (화장실을 써도 될까요?)",
+    "⑤ My grandma <u>could</u> speak three languages.  ✗  과거의 능력 (세 언어를 말할 수 있었어요)"
+   ],
+   "narration": "정답은 1번이에요. 소리를 듣고 바람일 수도 있다고 짐작하니 주어진 문장과 같은 추측이에요. 5번은 could 뒤에 동사원형이 와서 모양이 같지만, 할머니가 세 언어를 말할 수 있었다는 과거의 능력이에요. 2번도 when I was four, 네 살 때라는 과거의 때가 있어서 읽을 수 있었다는 과거의 능력이에요."
+  },
+  "summary": {
+   "card": "could: 과거의 능력 · 공손한 요청 · 허락 요청 · 추측(~일 수도 있다) → 문맥으로 구별",
+   "narration": "정답은 1번이에요. 기억할 것, could는 할 수 있었다는 과거의 능력뿐 아니라 일 수도 있다는 추측에도 쓰니, 문장의 뜻으로 구별해요."
+  },
+  "captions": [
+   "could의 뜻 구별하기",
+   "먼저 풀어 보세요",
+   "could: 능력·요청·추측",
+   "추측 → 능력·요청 지우기 → ①",
+   "정답 ① 추측의 could",
+   "could의 뜻은 문맥으로"
+  ],
+  "sec": [10, 17, 30, 33, 30, 12]
+ },
+ "E": {
+  "title": "조동사 may의 뜻 구별하기",
+  "intro": "이 문제는 주어진 문장의 may와 같은 뜻으로 쓰인 may를 고르는 문제예요.",
+  "problem_narration": "다음 주어진 문장의 밑줄 친 부분과 같은 의미로 쓰인 것을 고르시오. Tom left early. He may be at home. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "may + 동사원형, 뜻은 문맥으로 구별해요.",
+    "추측: ~일지도 모른다 / 허락: ~해도 된다",
+    "May I …? → 허락 요청 / ~해서는 안 된다(금지) → may not",
+    "기원: May + 주어 + 동사원형 …! (~하기를!)",
+    "예) The store may be closed now. (그 가게는 지금 문을 닫았을지도 몰라요.)"
+   ],
+   "narration": "may 뒤에는 동사원형이 오고, 뜻은 문맥으로 가려요. 짐작해서 말하면 일지도 모른다는 추측, 해도 된다고 하면 허락이에요. May I로 물으면 허락을 구하는 말이고, 해서는 안 된다는 금지는 may not으로 나타내요. 물음표 없이 May 뒤에 주어와 동사원형이 오면 하기를 빈다는 기원이에요. 예를 들어 The store may be closed now는 그 가게는 지금 문을 닫았을지도 모른다는 뜻이에요."
+  },
+  "steps": [
+   {
+    "note": "주어진 문장: 일찍 떠났다 → 집에 있을지도 모른다 = 추측",
+    "highlight": ["Tom left early. He <u>may</u> be at home."],
+    "strike": [],
+    "narration": "첫째, 주어진 문장은 톰은 일찍 떠났어요, 그는 집에 있을지도 몰라요라는 뜻이에요. 일찍 떠난 것을 보고 짐작하니 추측이에요."
+   },
+   {
+    "note": "① 허락, ② 허락 요청, ③ 금지, ④ 기원 → 지운다",
+    "highlight": [],
+    "strike": ["① You <u>may</u> sit anywhere you like.", "② <u>May</u> I see your ticket, please?", "③ Swimmers <u>may</u> not dive into the shallow pool.", "④ <u>May</u> you both be very happy together!"],
+    "narration": "둘째, 1번은 허락, 2번 May I는 허락 요청, 3번 may not은 금지, 4번은 기원이에요. 모두 짐작하는 말이 아니에요."
+   },
+   {
+    "note": "⑤ 답이 틀렸을지도 모른다 → 추측",
+    "highlight": ["⑤ This answer <u>may</u> be wrong, so check it again."],
+    "strike": [],
+    "narration": "셋째, 남은 5번 This answer may be wrong은 이 답이 틀렸을지도 모른다는 뜻이라 추측이에요. 그래서 다시 확인하라고 말하는 거예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① You <u>may</u> sit anywhere you like.  ✗  허락 (원하는 곳에 앉아도 돼요)",
+    "② <u>May</u> I see your ticket, please?  ✗  허락 요청 (표를 봐도 될까요?)",
+    "③ Swimmers <u>may</u> not dive into the shallow pool.  ✗  금지 (얕은 수영장에 뛰어들면 안 돼요)",
+    "④ <u>May</u> you both be very happy together!  ✗  기원 (두 사람이 함께 행복하기를!)",
+    "⑤ This answer <u>may</u> be wrong, so check it again.  ✓  추측 (이 답이 틀렸을지도 몰라요)"
+   ],
+   "narration": "정답은 5번이에요. 답이 틀렸을지도 모른다고 짐작하니 주어진 문장과 같은 추측이에요. 1번은 You may 뒤에 동사원형이 와서 모양이 같지만, 원하는 곳 어디든 앉아도 된다는 허락이에요. 4번은 May로 시작하지만 묻는 말이 아니라, 두 사람이 행복하기를 비는 기원이에요."
+  },
+  "summary": {
+   "card": "may: 추측(~일지도 모른다) · 허락(~해도 된다) · 금지(may not) · 기원(May + 주어 …!) → 문맥으로 구별",
+   "narration": "정답은 5번이에요. 기억할 것, may는 추측, 허락, 금지, 기원으로 두루 쓰이니 문장의 뜻으로 구별해요."
+  },
+  "captions": [
+   "may의 뜻 구별하기",
+   "먼저 풀어 보세요",
+   "may: 추측·허락·금지·기원",
+   "추측 → 나머지 지우기 → ⑤",
+   "정답 ⑤ 추측의 may",
+   "may의 뜻은 문맥으로"
+  ],
+  "sec": [10, 16, 30, 32, 28, 10]
+ },
+ "F": {
+  "title": "조동사 may의 뜻 구별하기",
+  "intro": "이 문제는 주어진 문장의 may와 같은 뜻으로 쓰인 may를 고르는 문제예요.",
+  "problem_narration": "다음 주어진 문장의 밑줄 친 부분과 같은 의미로 쓰인 것을 고르시오. The road is wet. It may have rained last night. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "추측: may + 동사원형 (~일지도 모른다), may have + 과거분사 (~했을지도 모른다)",
+    "허락: ~해도 된다 (May I …? → 허락 요청)",
+    "금지: ~해서는 안 된다 → may not",
+    "기원: May + 주어 + 동사원형 …! (~하기를!)",
+    "예) Sam may have forgotten my birthday. (샘은 내 생일을 잊었을지도 몰라요.)"
+   ],
+   "narration": "may의 뜻은 문맥으로 가려요. 짐작해서 말하면 추측인데, may 뒤에 동사원형이 오면 일지도 모른다, may have와 과거분사가 오면 했을지도 모른다는 뜻이에요. 해도 된다는 허락, May I로 묻는 허락 요청, may not으로 나타내는 금지에도 써요. 물음표 없이 May 뒤에 주어와 동사원형이 오면 하기를 빈다는 기원이에요. 예를 들어 Sam may have forgotten my birthday는 샘이 내 생일을 잊었을지도 모른다는 뜻이에요."
+  },
+  "steps": [
+   {
+    "note": "주어진 문장: 길이 젖었다 → 어젯밤에 비가 왔을지도 모른다 = 지난 일의 추측",
+    "highlight": ["The road is wet. It <u>may</u> have rained last night."],
+    "strike": [],
+    "narration": "첫째, 주어진 문장은 길이 젖어 있어요, 어젯밤에 비가 왔을지도 몰라요라는 뜻이에요. 젖은 길을 보고 지난 일을 짐작하니 추측이에요."
+   },
+   {
+    "note": "① 허락 요청, ③ 금지, ④ 허락, ⑤ 기원 → 지운다",
+    "highlight": [],
+    "strike": ["① <u>May</u> I leave a message for her?", "③ Children under 12 <u>may</u> not enter without an adult.", "④ You <u>may</u> borrow up to five books at a time.", "⑤ <u>May</u> peace be with you."],
+    "narration": "둘째, 1번 May I는 허락 요청, 3번 may not은 금지, 4번은 허락, 5번은 기원이에요. 모두 짐작하는 말이 아니에요."
+   },
+   {
+    "note": "② 열쇠가 주머니에 있을지도 모른다 → 지금 일의 추측",
+    "highlight": ["② The keys <u>may</u> be in your coat pocket."],
+    "strike": [],
+    "narration": "셋째, 남은 2번 The keys may be in your coat pocket은 열쇠가 네 코트 주머니에 있을지도 모른다는 뜻이에요. 지금 일을 짐작하니, 때는 달라도 똑같이 추측이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① <u>May</u> I leave a message for her?  ✗  허락 요청 (메시지를 남겨도 될까요?)",
+    "② The keys <u>may</u> be in your coat pocket.  ✓  추측 (열쇠가 주머니에 있을지도 몰라요)",
+    "③ Children under 12 <u>may</u> not enter without an adult.  ✗  금지 (어른 없이 들어가면 안 돼요)",
+    "④ You <u>may</u> borrow up to five books at a time.  ✗  허락 (한 번에 다섯 권까지 빌려도 돼요)",
+    "⑤ <u>May</u> peace be with you.  ✗  기원 (평화가 함께하기를)"
+   ],
+   "narration": "정답은 2번이에요. may have가 없다고 지우면 안 돼요. 지난 일이든 지금 일이든 짐작하는 말이면 추측의 may예요. 4번은 You may 뒤에 동사원형이 와서 모양이 같지만, 책을 빌려도 된다는 허락이에요. 5번은 May로 시작하지만 묻는 말이 아니라 평화를 비는 기원이에요."
+  },
+  "summary": {
+   "card": "may 추측: may + 동사원형(~일지도 모른다), may have + 과거분사(~했을지도 모른다)",
+   "narration": "정답은 2번이에요. 기억할 것, 일지도 모른다와 했을지도 모른다는 때만 다를 뿐 둘 다 추측의 may예요."
+  },
+  "captions": [
+   "may의 뜻 구별하기",
+   "먼저 풀어 보세요",
+   "추측·허락·금지·기원",
+   "추측 → 나머지 지우기 → ②",
+   "정답 ② 추측의 may",
+   "지난 일도 지금 일도 추측"
+  ],
+  "sec": [10, 17, 30, 34, 28, 11]
+ }
+}

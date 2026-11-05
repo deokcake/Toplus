@@ -1,0 +1,180 @@
+{
+ "key": "7-33",
+ "type": "D",
+ "grade": 7,
+ "chapter": "CH 4 be동사 부정문과 의문문",
+ "title": "주어에 맞는 be동사 부정형 (The soup, The plate)",
+ "total_sec": 140,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 13,
+   "screen": {
+    "text": "7급 · CH 4 be동사 부정문과 의문문 · 33번 · D 유형\n\n이 문제는 주어 The soup와 The plate에 맞는 be동사 부정형을 골라 바르게 짝지은 것을 찾는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 4 be동사 부정문과 의문문 · 33번 · D 유형",
+     "이 문제는 주어 The soup와 The plate에 맞는 be동사 부정형을 골라 바르게 짝지은 것을 찾는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 4, 33번 D 유형. 이 문제는 주어 The soup와 The plate에 맞는 be동사 부정형을 골라 바르게 짝지은 것을 찾는 문제예요.",
+   "caption": "The soup, The plate의 be동사 부정형"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.\n\n- The soup _______ hot.\n- The plate _______ clean.\n\n① isn't - aren't\n② am not - aren't\n③ aren't - isn't\n④ is not - is not\n⑤ not - are not",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.",
+     "- The soup _______ hot.",
+     "- The plate _______ clean.",
+     "① isn't - aren't",
+     "② am not - aren't",
+     "③ aren't - isn't",
+     "④ is not - is not",
+     "⑤ not - are not"
+    ]
+   },
+   "narration": "다음 빈칸에 알맞은 말이 바르게 짝지어진 것을 고르세요. The soup 빈칸 hot, The plate 빈칸 clean. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 부정문: am, is, are 뒤에 not → '아니다', '않다'\nI → am not\nhe, she, it처럼 I, you가 아닌 하나 → is not (isn't)\nyou, 그리고 we, they처럼 여럿 → are not (aren't)\n예) The milk isn't cold. (그 우유는 차갑지 않아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 부정문: am, is, are 뒤에 not → '아니다', '않다'",
+     "I → am not",
+     "he, she, it처럼 I, you가 아닌 하나 → is not (isn't)",
+     "you, 그리고 we, they처럼 여럿 → are not (aren't)",
+     "예) The milk isn't cold. (그 우유는 차갑지 않아요.)"
+    ]
+   },
+   "narration": "be동사 am, is, are 뒤에 not을 붙이면 '아니에요', '않아요'라는 뜻이 돼요. 주어가 I면 am not, I도 you도 아닌 하나면 is not, you이거나 여럿이면 are not이에요. is not은 isn't, are not은 aren't로 줄여 쓸 수 있어요. 예를 들어 The milk isn't cold, 그 우유는 차갑지 않아요.",
+   "caption": "be동사 뒤에 not, 주어에 맞춰"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.\n\n- The soup _______ hot.\n- The plate _______ clean.\n\n① isn't - aren't\n② am not - aren't\n③ aren't - isn't\n④ is not - is not\n⑤ not - are not",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "The soup _______ hot."
+      ],
+      "strike": [
+       "② am not - aren't",
+       "③ aren't - isn't",
+       "⑤ not - are not"
+      ],
+      "note": "첫 문장 주어 The soup = 셀 수 없는 것 → 하나로 보아 is not. 첫 칸이 am not, aren't, not인 ②, ③, ⑤를 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "The plate _______ clean."
+      ],
+      "strike": [
+       "① isn't - aren't"
+      ],
+      "note": "둘째 문장 주어 The plate = 접시 한 개 → is not. 둘째 칸이 aren't인 ①을 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ is not - is not"
+      ],
+      "strike": [],
+      "note": "남는 ④ → The soup is not hot. / The plate is not clean."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 첫 문장의 주어 The soup는 셀 수 없는 것이라 it처럼 하나로 보고 is not을 써요. 첫 칸이 am not, aren't, not인 2번, 3번, 5번을 지워요. 둘째, 둘째 문장의 주어 The plate도 접시 한 개라서 is not을 쓰니까, 둘째 칸이 aren't인 1번도 지워요. 셋째, 남는 4번을 넣으면 The soup is not hot, 수프가 뜨겁지 않아요. The plate is not clean, 접시가 깨끗하지 않아요.",
+   "caption": "The soup → is not, The plate → is not"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 27,
+   "screen": {
+    "text": "① isn't - aren't  ✗  첫째 칸은 맞지만, 접시 한 개인 The plate에 aren't는 틀려요\n② am not - aren't  ✗  첫째 칸: am not은 주어 I에만 써요\n③ aren't - isn't  ✗  첫째 칸: 하나로 보는 The soup에 aren't는 틀려요\n④ is not - is not  ✓  The soup에도 The plate에도 is not\n⑤ not - are not  ✗  not만으로는 동사 자리를 못 채워요, The plate에 are not도 틀려요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① isn't - aren't  ✗  첫째 칸은 맞지만, 접시 한 개인 The plate에 aren't는 틀려요",
+     "② am not - aren't  ✗  첫째 칸: am not은 주어 I에만 써요",
+     "③ aren't - isn't  ✗  첫째 칸: 하나로 보는 The soup에 aren't는 틀려요",
+     "④ is not - is not  ✓  The soup에도 The plate에도 is not",
+     "⑤ not - are not  ✗  not만으로는 동사 자리를 못 채워요, The plate에 are not도 틀려요"
+    ]
+   },
+   "narration": "정답은 4번이에요. 1번은 첫 칸 isn't는 맞지만, 접시 한 개인 The plate에 aren't를 써서 틀렸어요. 5번은 첫 칸에 not만 썼어요. not 혼자서는 동사 자리를 채우지 못해서, 이 문장에는 is not처럼 be동사가 있어야 해요. 3번은 The soup에 aren't를 써서 틀렸어요.",
+   "caption": "정답 ④ is not - is not"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ④ is not - is not\n\nI → am not · I, you가 아닌 하나 → is not · you, 여럿 → are not",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ is not - is not",
+     "I → am not · I, you가 아닌 하나 → is not · you, 여럿 → are not"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, I는 am not, I도 you도 아닌 하나는 is not, you나 여럿은 are not이에요.",
+   "caption": "I am not · 하나 is not · 여럿 are not"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.",
+  "passage": "- The soup _______ hot.\n- The plate _______ clean.",
+  "c": [
+   "isn't - aren't",
+   "am not - aren't",
+   "aren't - isn't",
+   "is not - is not",
+   "not - are not"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: be동사 부정문은 be동사 뒤에 not을 붙인다(am not, is not/isn't, are not/aren't). 의문문은 be동사를 주어 앞에 두고, 대답의 be동사도 주어에 맞춘다. be동사는 I에 am, 3인칭 단수에 is, you·복수에 are를 쓴다.\n풀이 순서: ① 첫 문장의 주어: The soup(셀 수 없어 단수) → is not. → ② 둘째 문장의 주어: The plate(한 개) → is not. → ③ 둘을 바르게 짝지은 것은 is not - is not.\n문장별 판정:\n정답 판단: 두 문장의 주어에 맞는 부정형을 바르게 짝지었으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 둘째 빈칸 aren't: 단수 주어 The plate에는 is not(isn't)을 쓴다. 따라서 오답이다.\n② [오답] 첫째 빈칸 am not: 단수 주어 The soup에는 is not(isn't)을 쓴다. 둘째 빈칸 aren't: 단수 주어 The plate에는 is not(isn't)을 쓴다. 따라서 오답이다.\n③ [오답] 첫째 빈칸 aren't: 단수 주어 The soup에는 is not(isn't)을 쓴다. 따라서 오답이다.\n④ [정답] 두 문장의 주어에 맞는 부정형을 바르게 짝지었으므로 정답이다.\n⑤ [오답] 첫째 빈칸 not: 단수 주어 The soup에는 is not(isn't)을 쓴다. 둘째 빈칸 are not: 단수 주어 The plate에는 is not(isn't)을 쓴다. 따라서 오답이다."
+ }
+}

@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-07T03:06:23.573Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": 5,
+    "c": {
+      "0": "Ben, Sora",
+      "1": "Mina, Leo",
+      "2": "Mina, Jane",
+      "3": "Leo, Jane, Sora",
+      "4": "Mina, Ben, Sora"
+    },
+    "expl": "핵심 규칙: to부정사가 꾸미는 명사가 전치사의 목적어이면 전치사를 남긴다(a pen to write with). 성품 형용사(kind) 뒤 의미상 주어는 of다. too ~ for + 목적격 + to부정사, 형용사 + enough + to부정사의 어순을 지킨다.\n풀이 순서: ① 학생마다 예문과 설명을 따로 따진다. → ② 기준: 명사가 전치사의 목적어이면 to부정사 뒤에 전치사를 남긴다. -one·-thing은 형용사가 뒤에 온다. 성품 형용사 뒤 의미상 주어는 of다. enough는 형용사 뒤에 온다. → ③ Leo는 talk to의 to를 빼야 한다고 했고, Jane은 kind for you를 맞다고 했다(kind of you). 둘 다 틀렸다. 옳게 설명한 학생만 모으면 Mina, Ben, Sora이다.\n문장별 판정:\nMina O(write with a pen이므로 with를 남긴다).\nLeo X(talk to somebody이므로 to를 남겨야 한다).\nJane X(성품 형용사 kind 뒤 의미상 주어는 of you).\nBen O(too ~ for + 목적격 + to부정사).\nSora O(enough는 형용사 뒤에 온다).\n정답 판단: 올바르게 설명한 학생은 Mina, Ben, Sora다.\n선택지 분석:\n① [오답] 올바르게 설명한 학생 Mina를 빠뜨렸다. 따라서 오답이다.\n② [오답] Leo는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Ben, Sora를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Ben, Sora를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Leo, Jane는 올바르게 설명한 학생이 아니고, 올바르게 설명한 학생 Mina, Ben를 빠뜨렸다. 따라서 오답이다.\n⑤ [정답] 올바르게 설명한 학생 Mina, Ben, Sora를 빠짐없이 골랐으므로 정답이다.",
+    "passage": "Mina: I need a pen to write with. 는 pen이 전치사 with의 목적어이므로 to부정사 뒤에 with를 남긴 옳은 문장이에요.\nLeo: I have nobody to talk to. 에서 talk 뒤의 to는 필요 없으므로 반드시 빼야 해요.\nJane: It was kind for you to help me. 는 사람의 성품을 평가하는 kind 뒤에 의미상 주어 for you를 쓴 옳은 표현이에요.\nBen: This box is too heavy for me to lift. 는 too + 형용사 + for + 목적격 + to부정사로 ‘너무 ~해서 …할 수 없다’를 나타낸 옳은 문장이에요.\nSora: She is old enough to travel alone. 는 enough가 형용사 old 뒤에 온 옳은 문장이에요.",
+    "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T06:29:48.103Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T06:30:51.402Z",
+      "text": "기준 문항에 비해 제시문이 너무 단조로움."
+    }
+  },
+  "tab": "a0bclcbk",
+  "updatedAt": "2026-10-07T03:06:23.573Z",
+  "verdict": null,
+  "verdictAt": "2026-10-07T03:06:20.842Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-07T03:06:23.573Z",
+      "what": "확인 완료"
+    }
+  }
+}

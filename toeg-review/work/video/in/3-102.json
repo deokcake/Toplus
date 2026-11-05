@@ -1,0 +1,86 @@
+{
+ "key": "3-102",
+ "grade": 3,
+ "chapter": "CH 11 비교",
+ "items": {
+  "A": {
+   "stem": "다음 표의 내용과 일치하지 않는 것을 고르시오.",
+   "passage": "Name\tTom\tJerry\nAge\t16\t14\nWeight\t65kg\t47kg\nHeight\t175cm\t157cm",
+   "c": [
+    "Tom is older than Jerry.",
+    "Tom is taller than Jerry.",
+    "Jerry is lighter than Tom.",
+    "Jerry is as heavy as Tom.",
+    "Tom is heavier than Jerry."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 비교급 + than은 ‘~보다 더 …한’, as + 원급 + as는 ‘~만큼 …한’(둘이 같음)이다.\n풀이 순서: ① 보기의 형용사가 표의 어느 줄인지 찾는다(old·young은 Age, heavy·light는 Weight, tall·short는 Height). → ② 비교급 + than이면 두 수의 크기를, as ~ as이면 두 수가 같은지를 확인한다. → ③ 선택지 ④는 몸무게가 같다고 했는데 47kg과 65kg이다. 정답은 ④.\n문장별 판정:\n정답 판단: as heavy as는 몸무게가 같다는 뜻인데 47kg과 65kg으로 다르므로 정답은 ④이다.\n선택지 분석:\n① [오답] Tom(16)이 Jerry(14)보다 나이가 많으므로 오답이다.\n② [오답] Tom(175cm)이 Jerry(157cm)보다 크므로 오답이다.\n③ [오답] Jerry(47kg)가 Tom(65kg)보다 가벼우므로 오답이다.\n④ [정답] as heavy as는 몸무게가 같다는 뜻인데 47kg과 65kg으로 다르므로 정답이다.\n⑤ [오답] Tom(65kg)이 Jerry(47kg)보다 무거우므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 표의 내용과 일치하지 않는 것을 고르시오.",
+   "passage": "Name\tMinsu\tJiho\nAge\t15\t15\nWeight\t58kg\t52kg\nHeight\t168cm\t172cm",
+   "c": [
+    "Minsu is as old as Jiho.",
+    "Jiho is taller than Minsu.",
+    "Minsu is heavier than Jiho.",
+    "Jiho is lighter than Minsu.",
+    "Minsu is taller than Jiho."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 비교급 + than은 두 대상의 차이를, as + 원급 + as는 두 대상이 같음을 나타낸다.\n풀이 순서: ① 보기의 형용사가 표의 어느 줄인지 찾는다(old·young은 Age, heavy·light는 Weight, tall·short는 Height). → ② 비교급 + than이면 두 수의 크기를, as ~ as이면 두 수가 같은지를 확인한다. → ③ 선택지 ⑤는 Minsu가 더 크다고 했는데 Minsu는 168cm, Jiho는 172cm다. 정답은 ⑤.\n문장별 판정:\n정답 판단: Minsu(168cm)는 Jiho(172cm)보다 작아 표와 일치하지 않으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 두 사람 모두 15살이라 표와 일치하므로 오답이다.\n② [오답] Jiho(172cm)가 Minsu(168cm)보다 커서 표와 일치하므로 오답이다.\n③ [오답] Minsu(58kg)가 Jiho(52kg)보다 무거워 표와 일치하므로 오답이다.\n④ [오답] Jiho(52kg)가 Minsu(58kg)보다 가벼워 표와 일치하므로 오답이다.\n⑤ [정답] Minsu(168cm)는 Jiho(172cm)보다 작아 표와 일치하지 않으므로 정답이다."
+  },
+  "C": {
+   "stem": "다음 표의 내용과 일치하지 않는 것을 고르시오.",
+   "passage": "Name\tJane\tAmy\nAge\t15\t15\nWeight\t50kg\t50kg\nHeight\t160cm\t165cm",
+   "c": [
+    "Amy is taller than Jane.",
+    "Jane is shorter than Amy.",
+    "Jane is as old as Amy.",
+    "Jane is as tall as Amy.",
+    "Jane is as heavy as Amy."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 비교급·최상급은 규칙 변화와 불규칙 변화(good-better-best 등)를 구별하고 than, the 등 비교 표지를 함께 확인한다.\n풀이 순서: ① 보기의 형용사가 표의 어느 줄인지 찾는다(old·young은 Age, heavy·light는 Weight, tall·short는 Height). → ② 비교급 + than이면 두 수의 크기를, as ~ as이면 두 수가 같은지를 확인한다. → ③ 선택지 ④는 키가 같다고 했는데 160cm와 165cm다. 정답은 ④.\n문장별 판정:\n정답 판단: Jane의 height 값 160과 Amy의 값 165가 다르다. 발문은 표와 일치하지 않는 문장을 묻고 있으며 이 문장은 표의 수치와 일치하지 않으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 표에서 Amy의 height 값은 165, Jane은 160이므로 이 비교는 성립한다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다.\n② [오답] 표에서 Jane의 height 값은 160, Amy는 165이므로 이 비교는 성립한다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다.\n③ [오답] Jane의 age 값 15와 Amy의 값 15가 같다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다.\n④ [정답] Jane의 height 값 160과 Amy의 값 165가 다르다. 발문은 표와 일치하지 않는 문장을 묻고 있으며 이 문장은 표의 수치와 일치하지 않으므로 정답이다.\n⑤ [오답] Jane의 weight 값 50과 Amy의 값 50이 같다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다."
+  },
+  "D": {
+   "stem": "다음 표의 내용과 일치하지 않는 것을 고르시오.",
+   "passage": "Name\tBen\tLeo\nAge\t13\t15\nWeight\t45kg\t55kg\nHeight\t150cm\t170cm",
+   "c": [
+    "Leo is older than Ben.",
+    "Ben is shorter than Leo.",
+    "Ben is lighter than Leo.",
+    "Leo is taller than Ben.",
+    "Ben is older than Leo."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 비교급·최상급은 규칙 변화와 불규칙 변화(good-better-best 등)를 구별하고 than, the 등 비교 표지를 함께 확인한다.\n풀이 순서: ① 보기의 형용사가 표의 어느 줄인지 찾는다(old·young은 Age, heavy·light는 Weight, tall·short는 Height). → ② 비교급 + than이면 두 수의 크기를, as ~ as이면 두 수가 같은지를 확인한다. → ③ 선택지 ⑤는 Ben이 나이가 더 많다고 했는데 Ben은 13살, Leo는 15살이다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 표에서 Ben의 age 값은 13, Leo는 15이므로 이 비교는 성립하지 않는다. 발문은 표와 일치하지 않는 문장을 묻고 있으며 이 문장은 표의 수치와 일치하지 않으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 표에서 Leo의 age 값은 15, Ben은 13이므로 이 비교는 성립한다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다.\n② [오답] 표에서 Ben의 height 값은 150, Leo는 170이므로 이 비교는 성립한다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다.\n③ [오답] 표에서 Ben의 weight 값은 45, Leo는 55이므로 이 비교는 성립한다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다.\n④ [오답] 표에서 Leo의 height 값은 170, Ben은 150이므로 이 비교는 성립한다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다.\n⑤ [정답] 표에서 Ben의 age 값은 13, Leo는 15이므로 이 비교는 성립하지 않는다. 발문은 표와 일치하지 않는 문장을 묻고 있으며 이 문장은 표의 수치와 일치하지 않으므로 정답이다."
+  },
+  "E": {
+   "stem": "다음 표의 내용과 일치하지 않는 것을 고르시오.",
+   "passage": "Name\tMina\tSora\nAge\t14\t14\nWeight\t48kg\t52kg\nHeight\t158cm\t158cm",
+   "c": [
+    "Mina is heavier than Sora.",
+    "Sora is heavier than Mina.",
+    "Mina is lighter than Sora.",
+    "Mina is as tall as Sora.",
+    "Mina is as old as Sora."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 비교급·최상급은 규칙 변화와 불규칙 변화(good-better-best 등)를 구별하고 than, the 등 비교 표지를 함께 확인한다.\n풀이 순서: ① 보기의 형용사가 표의 어느 줄인지 찾는다(old·young은 Age, heavy·light는 Weight, tall·short는 Height). → ② 비교급 + than이면 두 수의 크기를, as ~ as이면 두 수가 같은지를 확인한다. → ③ 선택지 ①은 Mina가 더 무겁다고 했는데 Mina는 48kg, Sora는 52kg이다. 정답은 ①.\n문장별 판정:\n정답 판단: 표에서 Mina의 weight 값은 48, Sora는 52이므로 이 비교는 성립하지 않는다. 발문은 표와 일치하지 않는 문장을 묻고 있으며 이 문장은 표의 수치와 일치하지 않으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 표에서 Mina의 weight 값은 48, Sora는 52이므로 이 비교는 성립하지 않는다. 발문은 표와 일치하지 않는 문장을 묻고 있으며 이 문장은 표의 수치와 일치하지 않으므로 정답이다.\n② [오답] 표에서 Sora의 weight 값은 52, Mina는 48이므로 이 비교는 성립한다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다.\n③ [오답] 표에서 Mina의 weight 값은 48, Sora는 52이므로 이 비교는 성립한다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다.\n④ [오답] Mina의 height 값 158과 Sora의 값 158이 같다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다.\n⑤ [오답] Mina의 age 값 14와 Sora의 값 14가 같다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다."
+  },
+  "F": {
+   "stem": "다음 표의 내용과 일치하지 않는 것을 고르시오.",
+   "passage": "Name\tTom\tBen\nAge\t16\t14\nWeight\t60kg\t60kg\nHeight\t175cm\t165cm",
+   "c": [
+    "Tom is lighter than Ben.",
+    "Tom is taller than Ben.",
+    "Ben is younger than Tom.",
+    "Tom is as heavy as Ben.",
+    "Tom is older than Ben."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 비교급·최상급은 규칙 변화와 불규칙 변화(good-better-best 등)를 구별하고 than, the 등 비교 표지를 함께 확인한다.\n풀이 순서: ① 보기의 형용사가 표의 어느 줄인지 찾는다(old·young은 Age, heavy·light는 Weight, tall·short는 Height). → ② 비교급 + than이면 두 수의 크기를, as ~ as이면 두 수가 같은지를 확인한다. → ③ 선택지 ①은 Tom이 더 가볍다고 했는데 두 사람 모두 60kg이다. 정답은 ①.\n문장별 판정:\n정답 판단: 표에서 Tom의 weight 값은 60, Ben은 60이므로 이 비교는 성립하지 않는다. 발문은 표와 일치하지 않는 문장을 묻고 있으며 이 문장은 표의 수치와 일치하지 않으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 표에서 Tom의 weight 값은 60, Ben은 60이므로 이 비교는 성립하지 않는다. 발문은 표와 일치하지 않는 문장을 묻고 있으며 이 문장은 표의 수치와 일치하지 않으므로 정답이다.\n② [오답] 표에서 Tom의 height 값은 175, Ben은 165이므로 이 비교는 성립한다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다.\n③ [오답] 표에서 Ben의 age 값은 14, Tom은 16이므로 이 비교는 성립한다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다.\n④ [오답] Tom의 weight 값 60과 Ben의 값 60이 같다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다.\n⑤ [오답] 표에서 Tom의 age 값은 16, Ben은 14이므로 이 비교는 성립한다. 이 문장은 표의 수치와 일치하므로 '일치하지 않는 것'의 정답이 아니다."
+  }
+ },
+ "prior_review": {}
+}

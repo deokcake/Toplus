@@ -1,0 +1,180 @@
+{
+ "key": "4-9",
+ "type": "B",
+ "grade": 4,
+ "chapter": "CH 1 명사와 관사",
+ "title": "by + 교통수단과 관사: by bus",
+ "total_sec": 137,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "4급 · CH 1 명사와 관사 · 9번 · B 유형\n\n이 문제는 by 뒤에 교통수단을 쓸 때 관사를 붙이는지 판단해서 어법상 옳은 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 1 명사와 관사 · 9번 · B 유형",
+     "이 문제는 by 뒤에 교통수단을 쓸 때 관사를 붙이는지 판단해서 어법상 옳은 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 1, 9번 B 유형. 이 문제는 by 뒤에 교통수단을 쓸 때 관사를 붙이는지 판단해서 어법상 옳은 문장을 고르는 문제예요.",
+   "caption": "by + 교통수단과 관사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 17,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장을 고르시오.\n\n① He goes to the office by a taxi.\n② Tom goes to work by a train.\n③ She goes to school by bus.\n④ She goes to school by the bus.\n⑤ We go to home on foot.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 어법상 옳은 문장을 고르시오.",
+     "① He goes to the office by a taxi.",
+     "② Tom goes to work by a train.",
+     "③ She goes to school by bus.",
+     "④ She goes to school by the bus.",
+     "⑤ We go to home on foot."
+    ]
+   },
+   "narration": "다음 중 어법상 옳은 문장을 고르세요. 다섯 문장을 하나씩 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\nby + 교통수단 = ~을 타고 (이동 방법)\n이동 방법을 말할 때는 교통수단 앞에 a, an, the를 쓰지 않아요.\nby car, by train, by subway\n예) We went to the farm by car. (우리는 차를 타고 농장에 갔어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "by + 교통수단 = ~을 타고 (이동 방법)",
+     "이동 방법을 말할 때는 교통수단 앞에 a, an, the를 쓰지 않아요.",
+     "by car, by train, by subway",
+     "예) We went to the farm by car. (우리는 차를 타고 농장에 갔어요.)"
+    ]
+   },
+   "narration": "by 뒤에 car나 train 같은 교통수단을 쓰면, 그것을 타고 간다는 이동 방법을 말할 수 있어요. 이렇게 이동 방법을 말할 때는 교통수단 앞에 a, an, the 같은 관사를 쓰지 않아요. 그래서 by car, by train, by subway처럼 by 바로 뒤에 교통수단을 써요. 예를 들어 We went to the farm by car. 우리는 차를 타고 농장에 갔어요.",
+   "caption": "by + 교통수단 = ~을 타고"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 중 어법상 옳은 문장을 고르시오.\n\n① He goes to the office by a taxi.\n② Tom goes to work by a train.\n③ She goes to school by bus.\n④ She goes to school by the bus.\n⑤ We go to home on foot.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "by a taxi.",
+       "by a train.",
+       "by bus.",
+       "by the bus."
+      ],
+      "strike": [
+       "① He goes to the office by a taxi.",
+       "② Tom goes to work by a train.",
+       "④ She goes to school by the bus."
+      ],
+      "note": "①~④는 by + 교통수단 = 이동 방법. 관사가 붙은 by a taxi, by a train, by the bus → 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "go to home"
+      ],
+      "strike": [
+       "⑤ We go to home on foot."
+      ],
+      "note": "on foot(걸어서)은 맞지만 ‘집에 가다’는 go home → go to home인 ⑤ 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ She goes to school by bus."
+      ],
+      "strike": [],
+      "note": "남는 것은 관사 없는 by bus → ③"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 1번부터 4번까지는 by 뒤에 교통수단이 와서 이동 방법을 말해요. 그중 1번 by a taxi, 2번 by a train, 4번 by the bus는 교통수단 앞에 관사가 있어서 틀렸어요. 둘째, 5번의 on foot은 걸어서라는 뜻으로 맞지만, 집에 가다는 to 없이 go home이라고 해서 5번도 틀렸어요. 셋째, 남은 3번은 by bus로 관사 없이 바르게 썼어요. She goes to school by bus. 그녀는 버스를 타고 학교에 가요.",
+   "caption": "관사 지움 → go home → by bus"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① He goes to the office by a taxi.  ✗  a를 빼고 by taxi\n② Tom goes to work by a train.  ✗  a를 빼고 by train\n③ She goes to school by bus.  ✓  관사 없이 by bus\n④ She goes to school by the bus.  ✗  the를 빼고 by bus\n⑤ We go to home on foot.  ✗  ‘집에 가다’는 to 없이 go home",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① He goes to the office by a taxi.  ✗  a를 빼고 by taxi",
+     "② Tom goes to work by a train.  ✗  a를 빼고 by train",
+     "③ She goes to school by bus.  ✓  관사 없이 by bus",
+     "④ She goes to school by the bus.  ✗  the를 빼고 by bus",
+     "⑤ We go to home on foot.  ✗  ‘집에 가다’는 to 없이 go home"
+    ]
+   },
+   "narration": "정답은 3번이에요. 버스를 타고 간다는 이동 방법이라 by bus로 관사 없이 썼어요. 4번은 3번과 비슷해 보이지만, by the bus에 the가 있어서 틀렸어요. 5번에서 on foot은 맞지만, 집에 가다는 go home이라서 to를 빼야 해요. 2번 by a train도 a를 빼고 by train이라고 써야 해요.",
+   "caption": "정답 ③ by bus"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ③ She goes to school by bus.\n\n이동 방법: by + 교통수단 (a, an, the 없이)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ She goes to school by bus.",
+     "이동 방법: by + 교통수단 (a, an, the 없이)"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, by 뒤에 교통수단을 써서 이동 방법을 말할 때는 a, an, the를 쓰지 않아요.",
+   "caption": "by + 교통수단, 관사 없이"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 어법상 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "He goes to the office by a taxi.",
+   "Tom goes to work by a train.",
+   "She goes to school by bus.",
+   "She goes to school by the bus.",
+   "We go to home on foot."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: by + 교통수단에는 관사를 쓰지 않는다.\n풀이 순서: ① 문장마다 by 뒤를 본다. 교통수단을 나타내는 by 뒤에는 a/an/the를 쓰지 않는다. → ② by a taxi, by a train, by the bus는 관사가 있어 틀렸고, go to home은 to가 필요 없다. by bus만 옳다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 'She goes to school by bus.'는 'by + 교통수단' 또는 'on foot'의 관용적인 이동 표현을 정확히 사용했다.\n선택지 분석:\n① He goes to the office by a taxi. - 오답. 교통수단을 방법으로 나타내는 'by + 교통수단'에서는 관사를 쓰지 않는다. 따라서 'He goes to the office by a taxi.'의 관사가 불필요하다. 바르게 고치면: He goes to the office by taxi.\n② Tom goes to work by a train. - 오답. 교통수단을 방법으로 나타내는 'by + 교통수단'에서는 관사를 쓰지 않는다. 따라서 'Tom goes to work by a train.'의 관사가 불필요하다. 바르게 고치면: Tom goes to work by train.\n③ She goes to school by bus. - 정답. 'She goes to school by bus.'는 'by + 교통수단' 또는 'on foot'의 관용적인 이동 표현을 정확히 사용했다.\n④ She goes to school by the bus. - 오답. 교통수단을 방법으로 나타내는 'by + 교통수단'에서는 관사를 쓰지 않는다. 따라서 'She goes to school by the bus.'의 관사가 불필요하다. 바르게 고치면: She goes to school by bus.\n⑤ We go to home on foot. - 오답. home은 go와 함께 방향 부사처럼 쓰여 'go home'이라고 하므로 to를 붙인 'We go to home on foot.'는 틀렸다. 바르게 고치면: We go home on foot."
+ }
+}

@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T18:33:37.664Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "ⓐ를 'If'를 사용한 문장으로 바꾸면 'If you don't take your umbrella, you will get wet.'이 된다.",
+      "1": "ⓐ의 'or'는 '그러면'이라는 뜻이므로 우산을 가져가면 젖을 것이라는 의미이다.",
+      "2": "ⓐ의 'Take'는 주어 'You'가 생략되었으므로 'Takes'로 고쳐야 한다.",
+      "3": "ⓐ의 'or'를 'and'로 바꿔도 문장의 뜻이 같다.",
+      "4": "ⓐ는 과거의 일을 말하므로 'will get'을 'got'으로 고쳐야 한다."
+    },
+    "expl": "핵심 규칙: 명령문 + and는 ‘~해라, 그러면 …할 것이다’(If you ~), 명령문 + or는 ‘~해라, 그렇지 않으면 …할 것이다’(If you don't ~)의 뜻이다. 명령문은 주어 You를 생략하고 동사원형으로 시작한다.\n풀이 순서: ① ⓐ의 틀을 본다: 명령문 + or. → ② ‘~해라, 그렇지 않으면 …할 것이다’라는 뜻이다. ‘그러면’은 and일 때다. → ③ If 문장으로 바꿔 확인한다: If you don't take your umbrella, you will get wet. 정답은 ①.\n문장별 판정:\n정답 판단: 명령문 + or를 If you don't ~로 바르게 바꿨으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 명령문 + or를 If you don't ~로 바르게 바꿨으므로 정답이다.\n② [오답] or는 ‘그렇지 않으면’이라는 뜻이므로 오답이다.\n③ [오답] 명령문은 동사원형으로 시작하므로 오답이다.\n④ [오답] and로 바꾸면 ‘가져가면 젖을 것이다’가 되어 뜻이 반대가 되므로 오답이다.\n⑤ [오답] 따옴표 안의 말은 그때 한 말 그대로라 will get이 옳으므로 오답이다.",
+    "passage": "It was raining hard this morning. Before I left home, Dad said, \"ⓐ<u>Take your umbrella, or you will get wet</u>.\" I took it with me.",
+    "stem": "다음 지문의 밑줄 친 ⓐ에 대한 한국어 문법 설명으로 가장 적절한 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T18:33:22.388Z"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T18:33:37.664Z",
+      "what": "확인 완료"
+    }
+  }
+}

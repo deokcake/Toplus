@@ -1,0 +1,186 @@
+{
+ "key": "4-14",
+ "type": "E",
+ "grade": 4,
+ "chapter": "CH 2 대명사",
+ "title": "단수·복수 취급 명사와 동사",
+ "total_sec": 129,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "4급 · CH 2 대명사 · 14번 · E 유형\n\n이 문제는 주어가 단수 취급인지 복수 취급인지 보고, 동사가 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 2 대명사 · 14번 · E 유형",
+     "이 문제는 주어가 단수 취급인지 복수 취급인지 보고, 동사가 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 2, 14번 E 유형. 이 문제는 주어가 단수 취급인지 복수 취급인지 보고, 동사가 틀린 문장을 고르는 문제예요.",
+   "caption": "단수·복수 취급 명사와 동사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분이 틀린 문장을 고르시오.\n\n① The police <u>are</u> looking for him.\n② Your advice <u>is</u> always useful.\n③ My sunglasses <u>is</u> in the car.\n④ The news <u>was</u> surprising.\n⑤ Those socks <u>are</u> dirty.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 밑줄 친 부분이 틀린 문장을 고르시오.",
+     "① The police <u>are</u> looking for him.",
+     "② Your advice <u>is</u> always useful.",
+     "③ My sunglasses <u>is</u> in the car.",
+     "④ The news <u>was</u> surprising.",
+     "⑤ Those socks <u>are</u> dirty."
+    ]
+   },
+   "narration": "다음 중 밑줄 친 부분이 틀린 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\nnews → s로 끝나도 단수 취급\n셀 수 없는 명사(advice, information) → 단수 취급\npolice, 두 부분이 짝인 물건(glasses, sunglasses) → 복수 취급\n이런 명사가 주어일 때: 단수 취급 → is, was, looks   복수 취급 → are, were, look\n예) The news is good. (그 소식은 좋아요.)  These jeans are old. (이 청바지는 낡았어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "news → s로 끝나도 단수 취급",
+     "셀 수 없는 명사(advice, information) → 단수 취급",
+     "police, 두 부분이 짝인 물건(glasses, sunglasses) → 복수 취급",
+     "이런 명사가 주어일 때: 단수 취급 → is, was, looks   복수 취급 → are, were, look",
+     "예) The news is good. (그 소식은 좋아요.)  These jeans are old. (이 청바지는 낡았어요.)"
+    ]
+   },
+   "narration": "news는 s로 끝나도 단수 취급하고, advice 같은 셀 수 없는 명사도 단수 취급해요. police는 s가 없어도 복수 취급하고, sunglasses처럼 두 부분이 짝을 이루는 물건은 하나여도 복수 취급해요. 이런 주어가 단수 취급이면 is나 looks, 복수 취급이면 are나 look처럼 써요. 예를 들어 The news is good, 그 소식은 좋아요. These jeans are old, 이 청바지는 낡았어요.",
+   "caption": "단수 취급과 복수 취급"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 40,
+   "screen": {
+    "text": "다음 중 밑줄 친 부분이 틀린 문장을 고르시오.\n\n① The police <u>are</u> looking for him.\n② Your advice <u>is</u> always useful.\n③ My sunglasses <u>is</u> in the car.\n④ The news <u>was</u> surprising.\n⑤ Those socks <u>are</u> dirty.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "police",
+       "advice",
+       "sunglasses",
+       "news",
+       "socks"
+      ],
+      "strike": [],
+      "note": "밑줄 친 동사의 주어 찾기: police, advice, sunglasses, news, socks"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "② Your advice <u>is</u> always useful.",
+       "④ The news <u>was</u> surprising."
+      ],
+      "note": "advice = 셀 수 없는 명사, news = s로 끝나도 단수 → is, was 맞음"
+     },
+     {
+      "step": 3,
+      "highlight": [],
+      "strike": [
+       "① The police <u>are</u> looking for him.",
+       "⑤ Those socks <u>are</u> dirty."
+      ],
+      "note": "police = 복수 취급, socks = sock의 복수형 → are 맞음"
+     },
+     {
+      "step": 4,
+      "highlight": [
+       "③ My sunglasses <u>is</u> in the car."
+      ],
+      "strike": [],
+      "note": "sunglasses = 두 부분이 짝인 물건 → 하나여도 복수 취급 → is ✗ → are"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 밑줄 친 동사의 주어 police, advice, sunglasses, news, socks를 찾아요. 둘째, advice는 셀 수 없는 명사이고 news는 s로 끝나도 단수 취급하니, is와 was가 맞아요. 셋째, police는 복수 취급하고 socks는 sock의 복수형이라, are가 맞아요. 넷째, sunglasses는 두 부분이 짝을 이루는 물건이라 하나여도 복수 취급하니, is가 아니라 are를 써야 해요. My sunglasses are in the car, 내 선글라스는 차 안에 있어요.",
+   "caption": "주어 찾기 → 단수 → 복수 확인"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 21,
+   "screen": {
+    "text": "① The police <u>are</u> looking for him.  ✗  police는 복수 취급 → are\n② Your advice <u>is</u> always useful.  ✗  advice는 셀 수 없는 명사 → 단수 is\n③ My sunglasses <u>is</u> in the car.  ✓  sunglasses는 두 부분이 짝인 물건 → are로 고쳐요\n④ The news <u>was</u> surprising.  ✗  news는 s로 끝나도 단수 취급 → was\n⑤ Those socks <u>are</u> dirty.  ✗  socks는 sock의 복수형 → are",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① The police <u>are</u> looking for him.  ✗  police는 복수 취급 → are",
+     "② Your advice <u>is</u> always useful.  ✗  advice는 셀 수 없는 명사 → 단수 is",
+     "③ My sunglasses <u>is</u> in the car.  ✓  sunglasses는 두 부분이 짝인 물건 → are로 고쳐요",
+     "④ The news <u>was</u> surprising.  ✗  news는 s로 끝나도 단수 취급 → was",
+     "⑤ Those socks <u>are</u> dirty.  ✗  socks는 sock의 복수형 → are"
+    ]
+   },
+   "narration": "정답은 3번이에요. sunglasses는 선글라스 하나여도 복수 취급해서 are를 써야 해요. 1번 police는 s가 없어서 단수처럼 보이지만, 복수 취급하니 are가 맞아요. 4번 news는 s로 끝나지만 단수 취급해서 was가 맞아요.",
+   "caption": "정답 ③ My sunglasses is"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ③ My sunglasses <u>is</u> in the car.\n\nnews·셀 수 없는 명사 → 단수 취급   police·두 부분이 짝인 물건 → 복수 취급",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ My sunglasses <u>is</u> in the car.",
+     "news·셀 수 없는 명사 → 단수 취급   police·두 부분이 짝인 물건 → 복수 취급"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, glasses나 sunglasses처럼 두 부분이 짝을 이루는 물건은 하나여도 복수 취급해요.",
+   "caption": "짝인 물건은 복수 취급"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 밑줄 친 부분이 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "The police <u>are</u> looking for him.",
+   "Your advice <u>is</u> always useful.",
+   "My sunglasses <u>is</u> in the car.",
+   "The news <u>was</u> surprising.",
+   "Those socks <u>are</u> dirty."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: news·information·advice·furniture와 학문 이름(mathematics, physics, economics)은 단수 취급하고, pants·jeans·scissors·glasses·socks처럼 짝을 이루는 물건과 police는 복수 취급한다.\n풀이 순서: ① 주어 명사를 둘로 가른다: 단수 취급(news, information, advice, 학문 이름), 복수 취급(짝을 이루는 물건, police). → ② 밑줄 친 동사가 그에 맞는지 본다. pants는 복수 취급한다. ③의 is가 틀렸다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: sunglasses는 복수 취급해 are를 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 복수 취급하는 명사라 복수 동사가 맞으므로 오답이다.\n② [오답] 단수 취급하는 명사라 단수 동사가 맞으므로 오답이다.\n③ [정답] sunglasses는 복수 취급해 are를 써야 하므로 정답이다.\n④ [오답] 단수 취급하는 명사라 단수 동사가 맞으므로 오답이다.\n⑤ [오답] 복수 취급하는 명사라 복수 동사가 맞으므로 오답이다."
+ }
+}

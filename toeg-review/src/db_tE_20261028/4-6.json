@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영(3차)",
+  "done": true,
+  "doneAt": "2026-10-28T04:29:27.462Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "mouses",
+      "1": "a mouse",
+      "2": "mices",
+      "3": "mice",
+      "4": "mouse"
+    },
+    "expl": "핵심 규칙: 명사에 따라 단수와 복수가 같은 형태(sheep, deer, fish)이거나 불규칙하게 바뀐다(goose - geese, mouse - mice, wolf - wolves). How many 뒤와 수량 표현 뒤에는 복수형을 쓴다.\n풀이 순서: ① How many 뒤에는 셀 수 있는 명사의 복수형이 온다. → ② mouse는 복수형이 불규칙하게 바뀌어 mice가 된다. -s나 -es를 붙이지 않는다. → ③ 정답은 mice.\n문장별 판정:\n정답 판단: mouse의 불규칙 복수형이므로 정답은 ④이다.\n선택지 분석:\n① [오답] mouse의 복수형은 불규칙 mice이므로 오답이다.\n② [오답] How many 뒤에 a + 단수명사를 쓸 수 없으므로 오답이다.\n③ [오답] mice에 -s를 또 붙이지 않으므로 오답이다.\n④ [정답] mouse의 불규칙 복수형이므로 정답이다.\n⑤ [오답] How many 뒤에는 복수형을 쓰므로 오답이다.",
+    "passage": "A: How many ________ did your cat catch last night?\nB: It caught two in the kitchen.",
+    "stem": "다음 대화의 빈칸에 들어갈 알맞은 단어를 고르세요."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:51:45.095Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:52:07.475Z",
+      "text": "대답 Tow. 는 너무 성의 없다."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:29:27.462Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:29:14.095Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:29:27.462Z",
+      "what": "확인 완료"
+    }
+  }
+}

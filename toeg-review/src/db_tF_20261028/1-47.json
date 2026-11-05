@@ -1,0 +1,37 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:31:50.406Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "to begin with",
+      "1": "strange to say",
+      "2": "sad to say",
+      "3": "so to speak",
+      "4": "to make matters worse"
+    },
+    "expl": "핵심 규칙: 독립부정사는 문장 전체를 꾸미는 관용 표현이다. To begin with(우선), Needless to say(말할 필요도 없이), Strange to say(이상한 말이지만), Sad to say(유감스럽게도), So to speak(말하자면), To make matters worse(설상가상으로)를 흐름에 맞게 고른다.\n풀이 순서: ① 빈칸 앞뒤의 두 내용이 어떤 관계인지 본다: 삼촌을 실제 사전이 아니라 ‘걸어 다니는 사전’에 빗대어 말한다. → ② 이 관계를 나타내는 표현을 고른다: so to speak(말하자면). → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 삼촌을 실제 사전이 아니라 ‘걸어 다니는 사전’에 빗대어 말하므로 ‘말하자면’의 so to speak가 알맞다. 정답은 ④이다.\n선택지 분석:\n① [오답] ‘우선’은 여러 가지를 차례로 말할 때 쓰므로 오답이다.\n② [오답] ‘이상한 말이지만’은 뜻밖의 일을 말할 때 쓰므로 오답이다.\n③ [오답] ‘유감스럽게도’는 안타까운 일을 말할 때 쓰는데, 삼촌을 칭찬하는 흐름과 맞지 않으므로 오답이다.\n④ [정답] 삼촌을 실제 사전이 아니라 ‘걸어 다니는 사전’에 빗대어 말하므로 ‘말하자면’이 알맞아 정답이다.\n⑤ [오답] ‘설상가상으로’는 나쁜 일이 겹칠 때 쓰므로 오답이다.",
+    "passage": "A: Your uncle knows everything about computers and the internet.\nB: Yes, he can fix any problem in minutes. He's a walking dictionary, (<u>         </u>).",
+    "stem": "다음 대화의 흐름상 빈칸에 들어갈 가장 적절한 표현은?"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T06:41:55.376Z",
+      "text": "3, 4번 복수정답 가능. 확실한 정답 한 개가 되도록 선택지 수정 필요."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:31:50.406Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:31:45.924Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:31:50.406Z",
+      "what": "확인 완료"
+    }
+  }
+}

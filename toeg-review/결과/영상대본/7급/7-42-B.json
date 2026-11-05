@@ -1,0 +1,173 @@
+{
+ "key": "7-42",
+ "type": "B",
+ "grade": 7,
+ "chapter": "CH 5 지시 대명사",
+ "title": "This·That과 These·Those의 구별",
+ "total_sec": 132,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "7급 · CH 5 지시 대명사 · 42번 · B 유형\n\n이 문제는 빈칸 뒤의 be동사를 보고, This나 That을 넣을 수 없는 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 5 지시 대명사 · 42번 · B 유형",
+     "이 문제는 빈칸 뒤의 be동사를 보고, This나 That을 넣을 수 없는 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 5, 42번 B 유형. 이 문제는 빈칸 뒤의 be동사를 보고, This나 That을 넣을 수 없는 문장을 고르는 문제예요.",
+   "caption": "This·That과 These·Those"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 빈칸에 This 또는 That이 들어갈 수 없는 것을 고르시오.\n\n① _______ is my aunt.\n② _______ is a big tree.\n③ _______ is an egg.\n④ _______ is the school bus.\n⑤ _______ are our bags.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 This 또는 That이 들어갈 수 없는 것을 고르시오.",
+     "① _______ is my aunt.",
+     "② _______ is a big tree.",
+     "③ _______ is an egg.",
+     "④ _______ is the school bus.",
+     "⑤ _______ are our bags."
+    ]
+   },
+   "narration": "다음 빈칸에 This 또는 That이 들어갈 수 없는 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n하나를 가리킬 때: this(이것, 이 사람), that(저것, 저 사람) + is\n여럿을 가리킬 때: these(이것들, 이 사람들), those(저것들, 저 사람들) + are\n예) This is my cap. These are my socks. (이것은 내 모자예요. 이것들은 내 양말이에요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "하나를 가리킬 때: this(이것, 이 사람), that(저것, 저 사람) + is",
+     "여럿을 가리킬 때: these(이것들, 이 사람들), those(저것들, 저 사람들) + are",
+     "예) This is my cap. These are my socks. (이것은 내 모자예요. 이것들은 내 양말이에요.)"
+    ]
+   },
+   "narration": "this는 이것이나 이 사람, that은 저것이나 저 사람처럼 하나를 가리켜요. 여럿을 가리킬 때는 this 대신 these, that 대신 those를 써요. 주어가 this나 that이면 현재형 be동사는 is, these나 those이면 are를 써요. 예를 들어 This is my cap, 이것은 내 모자예요. These are my socks, 이것들은 내 양말이에요.",
+   "caption": "하나는 this·that, 여럿은 these·those"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 빈칸에 This 또는 That이 들어갈 수 없는 것을 고르시오.\n\n① _______ is my aunt.\n② _______ is a big tree.\n③ _______ is an egg.\n④ _______ is the school bus.\n⑤ _______ are our bags.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "This 또는 That이 들어갈 수 없는 것"
+      ],
+      "strike": [],
+      "note": "‘들어갈 수 없는 것’ → 빈칸(주어 자리) 바로 뒤의 be동사를 본다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① _______ is my aunt.",
+       "② _______ is a big tree.",
+       "③ _______ is an egg.",
+       "④ _______ is the school bus."
+      ],
+      "note": "①~④: is + 하나(이모 한 명, 나무 한 그루, 달걀 한 개, 버스 한 대) → This, That 가능"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ _______ are our bags."
+      ],
+      "strike": [],
+      "note": "⑤만 are + our bags(가방 여러 개) → These, Those"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, This나 That이 들어갈 수 없는 것을 찾으려면 빈칸 바로 뒤의 be동사를 봐요. 둘째, 1번부터 4번까지는 빈칸 뒤가 is이고, 이모, 큰 나무, 달걀, 학교 버스가 모두 하나라서 This나 That이 들어갈 수 있어요. 셋째, 5번만 빈칸 뒤가 are이고 our bags는 가방 여러 개라서 These나 Those를 써야 해요. These are our bags, 이것들은 우리 가방들이에요.",
+   "caption": "빈칸 뒤 be동사 → is 지우기 → are"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 32,
+   "screen": {
+    "text": "① _______ is my aunt.  ✗  사람 한 명에도 This, That을 써요\n② _______ is a big tree.  ✗  is + 나무 한 그루 → This, That 가능\n③ _______ is an egg.  ✗  is + 달걀 한 개 → This, That 가능\n④ _______ is the school bus.  ✗  the가 있어도 버스 한 대 → This, That 가능\n⑤ _______ are our bags.  ✓  are + 가방 여러 개 → These, Those",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① _______ is my aunt.  ✗  사람 한 명에도 This, That을 써요",
+     "② _______ is a big tree.  ✗  is + 나무 한 그루 → This, That 가능",
+     "③ _______ is an egg.  ✗  is + 달걀 한 개 → This, That 가능",
+     "④ _______ is the school bus.  ✗  the가 있어도 버스 한 대 → This, That 가능",
+     "⑤ _______ are our bags.  ✓  are + 가방 여러 개 → These, Those"
+    ]
+   },
+   "narration": "정답은 5번이에요. 빈칸 뒤가 are이고 our bags는 여럿이라, This나 That이 아니라 These나 Those를 써야 해요. 1번 my aunt는 사람이라 This를 못 쓴다고 생각하기 쉬워요. 하지만 This is my aunt, 이분은 우리 이모예요, 처럼 사람을 가리킬 때도 This를 써요. 4번도 That is the school bus, 저것은 그 학교 버스예요, 처럼 That이 들어갈 수 있어요.",
+   "caption": "정답 ⑤ are our bags"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ⑤ _______ are our bags.\n\n하나 → this, that + is   ·   여럿 → these, those + are",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ _______ are our bags.",
+     "하나 → this, that + is   ·   여럿 → these, those + are"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 현재형 be동사는 하나인 this와 that에는 is, 여럿인 these와 those에는 are를 써요.",
+   "caption": "this·that + is, these·those + are"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 This 또는 That이 들어갈 수 없는 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "_______ is my aunt.",
+   "_______ is a big tree.",
+   "_______ is an egg.",
+   "_______ is the school bus.",
+   "_______ are our bags."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: this(이것)·that(저것)은 한 개를 가리켜 is와 쓰고, these(이것들)·those(저것들)는 여러 개를 가리켜 are와 쓴다. 대답에서는 this/that을 it으로, these/those를 they로 받는다.\n풀이 순서: ① 빈칸 뒤의 be동사를 본다. is가 오면 This/That이 들어갈 수 있다. → ② are가 온 문장을 찾는다: ⑤ ___ are our bags. → ③ are 앞에는 These/Those를 써야 하므로 정답은 ⑤.\n문장별 판정:\n정답 판단: are와 복수 명사가 오고, This/That이 아니라 These/Those가 들어가야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] is와 함께 한 사람·한 물건을 가리키고, This/That이 들어갈 수 있으므로 오답이다.\n② [오답] is와 함께 한 사람·한 물건을 가리키고, This/That이 들어갈 수 있으므로 오답이다.\n③ [오답] is와 함께 한 사람·한 물건을 가리키고, This/That이 들어갈 수 있으므로 오답이다.\n④ [오답] is와 함께 한 사람·한 물건을 가리키고, This/That이 들어갈 수 있으므로 오답이다.\n⑤ [정답] are와 복수 명사가 오고, This/That이 아니라 These/Those가 들어가야 하므로 정답이다."
+ }
+}

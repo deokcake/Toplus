@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-26T12:22:48.712Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "it - ones",
+      "1": "ones - it",
+      "2": "one - it",
+      "3": "ones - them",
+      "4": "one - them"
+    },
+    "expl": "핵심 규칙: one/ones는 앞에서 언급한 같은 종류의 명사를 대신하고, it/them은 특정한 앞의 대상을 다시 가리킨다.\n풀이 순서: ① 첫째 빈칸은 앞 명사(chairs, 복수)와 ‘같은 종류의 것’을 대신한다. 단수이면 one, 복수이면 ones다. → ② 둘째 빈칸은 앞에 나온 ‘바로 그것’(My coat and bag, 복수)을 가리킨다. 단수이면 it, 복수이면 them이다. → ③ 정답은 ones - them.\n문장별 판정:\n정답 판단: 첫 빈칸의 'ones'는 앞의 같은 종류 명사를 단수/복수에 맞게 대신한다. 둘째 빈칸의 'them'은 이미 특정된 앞의 대상의 단복수와 맞는다. 두 빈칸이 모두 맞아 정답은 ④이다.\n선택지 분석:\n① [오답] 첫 빈칸에는 앞의 같은 종류 명사를 대신하는 'ones'가 필요한데 'it'을 사용했다. 둘째 빈칸에는 이미 특정된 앞의 대상을 받는 'them'이 필요한데 'ones'를 사용했다. 따라서 오답이다.\n② [오답] 첫 빈칸의 'ones'는 앞의 같은 종류 명사를 단수/복수에 맞게 대신한다. 둘째 빈칸에는 이미 특정된 앞의 대상을 받는 'them'이 필요한데 'it'을 사용했다. 따라서 오답이다.\n③ [오답] 첫 빈칸에는 앞의 같은 종류 명사를 대신하는 'ones'가 필요한데 'one'을 사용했다. 둘째 빈칸에는 이미 특정된 앞의 대상을 받는 'them'이 필요한데 'it'을 사용했다. 따라서 오답이다.\n④ [정답] 첫 빈칸의 'ones'는 앞의 같은 종류 명사를 단수/복수에 맞게 대신한다. 둘째 빈칸의 'them'은 이미 특정된 앞의 대상의 단복수와 맞는다. 두 빈칸이 모두 맞아 정답이다.\n⑤ [오답] 첫 빈칸에는 앞의 같은 종류 명사를 대신하는 'ones'가 필요한데 'one'을 사용했다. 둘째 빈칸의 'them'은 이미 특정된 앞의 대상의 단복수와 맞는다. 따라서 오답이다.",
+    "passage": "These wooden chairs are too hard to sit on for long. The soft _____ in the corner are much better.\nMy coat and bag are over there by the door. Bring _____ to me, please.",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오."
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T12:22:48.712Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T12:22:48.712Z",
+      "what": "확인 완료"
+    }
+  }
+}

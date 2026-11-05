@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:02:46.619Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "up",
+      "1": "over",
+      "2": "out",
+      "3": "down",
+      "4": "off"
+    },
+    "expl": "핵심 규칙: pick up a package는 소포를 집어 들거나 찾아오다, business picks up은 사업이 나아지다라는 뜻이다.\n풀이 순서: ① 두 문장에 같은 말이 들어가야 한다. 한 문장씩 가능한 말을 떠올린다. → ② pick up은 ‘찾아오다’, turn up은 ‘(소리를) 키우다’다. → ③ 두 문장에 모두 맞는 up가 정답이다.\n문장별 판정:\n정답 판단: pick up(찾아오다)과 turn up(소리를 키우다) 모두 up이 알맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] pick up(찾아오다)과 turn up(소리를 키우다) 모두 up이 알맞으므로 정답이다.\n② [오답] pick over·turn over는 ‘골라내다·뒤집다’라 문맥과 맞지 않으므로 오답이다.\n③ [오답] pick out·turn out은 ‘고르다·판명되다’라 문맥과 맞지 않으므로 오답이다.\n④ [오답] turn down은 소리를 줄이는 것이라 들리지 않는다는 말과 맞지 않으므로 오답이다.\n⑤ [오답] pick off·turn off는 소포를 찾거나 소리를 키우는 뜻이 아니므로 오답이다.",
+    "passage": "Mina picked _____ the package at the post office.\nPlease turn _____ the volume a little; I can't hear it.",
+    "stem": "다음 빈칸에 공통으로 들어갈 말로 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T16:58:10.012Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T16:58:57.503Z",
+      "text": "전치사 up을 활용한 숙어 표현인데 동사가 다르면 더 다채로운 문항이 될 수 있다."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:02:46.619Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:02:42.206Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:02:46.619Z",
+      "what": "확인 완료"
+    }
+  }
+}

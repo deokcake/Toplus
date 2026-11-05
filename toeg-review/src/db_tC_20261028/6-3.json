@@ -1,0 +1,41 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-21T10:46:38.135Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "He opened <u>the</u> window.",
+      "1": "She has <u>an</u> uncle in Canada.",
+      "2": "She plays <u>a</u> piano after school.",
+      "3": "I want <u>a</u> glass of water.",
+      "4": "<u>The</u> boys are playing soccer."
+    },
+    "expl": "핵심 규칙: 세상에 하나뿐인 대상(the sun, the moon, the sky, the world, the Earth)과 서로 알고 있는 특정 대상 앞에는 the를 쓴다. 처음 말하는 셀 수 있는 단수명사 앞에는 첫소리에 따라 a/an을 쓴다. 악기 이름 앞에도 the를 쓴다(play the piano).\n풀이 순서: ① 밑줄 뒤의 명사를 본다. 세상에 하나뿐인 것과 악기 이름 앞에는 the여야 한다. → ② 그 밖에는 a/an이 첫소리와 맞는지 본다. → ③ 선택지 ③의 piano는 악기 이름인데 a를 썼다. 정답은 ③.\n문장별 판정:\n정답 판단: 악기 이름 앞에는 the를 써야 하므로(play the piano) 정답은 ③이다.\n선택지 분석:\n① [오답] 서로 알고 있는 특정 대상 앞에 the를 바르게 썼으므로 오답이다.\n② [오답] 처음 말하는 셀 수 있는 단수명사 앞에 첫소리에 맞는 a/an을 바르게 썼으므로 오답이다.\n③ [정답] 악기 이름 앞에는 the를 써야 하므로(play the piano) 정답이다.\n④ [오답] 처음 말하는 셀 수 있는 단수명사 앞에 첫소리에 맞는 a/an을 바르게 썼으므로 오답이다.\n⑤ [오답] 서로 알고 있는 특정 대상 앞에 the를 바르게 썼으므로 오답이다.",
+    "passage": "",
+    "stem": "다음 밑줄 친 부분이 잘못된 것을 고르시오."
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T10:46:34.014Z",
+      "text": "보기3번을 악기이름 앞에 a  를 써서 틀린것으로 해줘"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:37:26.567Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:37:26.567Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T10:46:38.135Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:37:26.567Z",
+      "what": "판정을 Claude 판정으로 되돌림"
+    }
+  }
+}

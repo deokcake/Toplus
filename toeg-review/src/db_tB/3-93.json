@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:06:08.507Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "happily - softly",
+      "1": "happy - soft",
+      "2": "happy - softly",
+      "3": "happily - soft",
+      "4": "happiness - softly"
+    },
+    "expl": "핵심 규칙: look, smell, taste, feel, sound, become 뒤의 주격보어와 find, make 뒤의 목적격보어는 주어나 목적어의 상태를 설명하므로 부사가 아니라 형용사를 쓴다.\n풀이 순서: ① 첫 문장의 동사는 made. 빈칸은 목적어 me를 설명하는 목적격보어 자리다. → ② 둘째 문장의 동사는 feels. 빈칸은 주어를 설명하는 보어 자리다. 우리말로는 ‘~하게’로 풀려도 보어 자리에는 형용사를 쓴다. → ③ 둘 다 형용사인 happy - soft가 정답이다.\n문장별 판정:\n정답 판단: 목적격보어 happy와 주격보어 soft로 형용사를 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 보어 자리에 부사 happily, softly를 쓸 수 없으므로 오답이다.\n② [정답] 목적격보어 happy와 주격보어 soft로 형용사를 바르게 썼으므로 정답이다.\n③ [오답] feel 뒤 보어 자리에 부사 softly를 쓸 수 없으므로 오답이다.\n④ [오답] make의 목적격보어 자리에 부사 happily를 쓸 수 없으므로 오답이다.\n⑤ [오답] ‘나를 행복하게’는 명사가 아니라 형용사로 나타내고, 보어 자리에 부사 softly를 쓸 수 없으므로 오답이다.",
+    "passage": "The news made me _____.\nThis blanket feels _____.",
+    "stem": "다음 빈칸에 들어갈 단어들을 알맞게 짝지은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:06:08.019Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:06:08.507Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+ "key": "6-87",
+ "grade": 6,
+ "chapter": "CH 9 현재진행형",
+ "items": {
+  "A": {
+   "stem": "다음 문장을 의문문으로 바르게 바꾼 것은?",
+   "passage": "We are drawing a map.",
+   "c": [
+    "Are we drawing a map?",
+    "Do we drawing a map?",
+    "We are drawing a map?",
+    "Am we drawing a map?",
+    "Is we drawing a map?"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 현재진행형 의문문은 be동사를 주어 앞으로 옮긴다: Am/Is/Are + 주어 + -ing ~? Do/Does는 쓰지 않는다.\n풀이 순서: ① 문장의 be동사(Are)를 주어(we) 앞으로 옮긴다. → ② 나머지(-ing형부터)는 그대로 둔다. → ③ Are we ~?의 꼴은 ①.\n문장별 판정:\n정답 판단: Are + we + drawing으로 바르게 바꿨으므로 정답은 ①이다.\n선택지 분석:\n① [정답] Are + we + drawing으로 바르게 바꿨으므로 정답이다.\n② [오답] 진행형 의문문에 Do를 쓰지 않으므로 오답이다.\n③ [오답] 평서문 어순에 물음표만 붙였으므로 오답이다.\n④ [오답] 주어 we에 Am을 쓸 수 없으므로 오답이다.\n⑤ [오답] 주어 we에 Is를 쓸 수 없으므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 문장을 의문문으로 바르게 바꾼 것은?",
+   "passage": "I am studying English.",
+   "c": [
+    "Am I study English?",
+    "Am I studying English?",
+    "Is I studying English?",
+    "I am studying English?",
+    "Do I studying English?"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 현재진행형 의문문은 be동사를 주어 앞으로 옮기고 -ing형을 그대로 두어 Am/Is/Are + 주어 + -ing ~?로 쓴다. Do/Does는 쓰지 않는다.\n풀이 순서: ① 문장의 be동사(Am)를 주어(I) 앞으로 옮긴다. → ② 나머지(-ing형부터)는 그대로 둔다. → ③ Am I ~?의 꼴은 ②.\n문장별 판정:\n정답 판단: Am을 주어 앞으로 옮기고 studying을 그대로 두었으므로 정답은 ②이다.\n선택지 분석:\n① [오답] Am 뒤에는 -ing형 studying을 그대로 써야 하므로 오답이다.\n② [정답] Am을 주어 앞으로 옮기고 studying을 그대로 두었으므로 정답이다.\n③ [오답] 주어 I에는 Am을 써야 하므로 오답이다.\n④ [오답] 평서문 어순에 물음표만 붙였으므로 오답이다.\n⑤ [오답] 진행형 의문문은 Do가 아니라 be동사로 시작하므로 오답이다."
+  },
+  "C": {
+   "stem": "다음 문장을 의문문으로 바르게 바꾼 것은?",
+   "passage": "She is reading a book.",
+   "c": [
+    "Are she reading a book?",
+    "She is reading a book?",
+    "Is she reading a book?",
+    "Do she reading a book?",
+    "Is she read a book?"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 현재진행형 의문문은 be동사를 주어 앞으로 옮기고 -ing형을 그대로 두어 Am/Is/Are + 주어 + -ing ~?로 쓴다. Do/Does는 쓰지 않는다.\n풀이 순서: ① 문장의 be동사(Is)를 주어(she) 앞으로 옮긴다. → ② 나머지(-ing형부터)는 그대로 둔다. → ③ Is she ~?의 꼴은 ③.\n문장별 판정:\n정답 판단: Is를 주어 앞으로 옮기고 reading을 그대로 두었으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 3인칭 단수 주어 she에는 Is를 써야 하므로 오답이다.\n② [오답] 평서문 어순에 물음표만 붙였으므로 오답이다.\n③ [정답] Is를 주어 앞으로 옮기고 reading을 그대로 두었으므로 정답이다.\n④ [오답] 진행형 의문문은 Do가 아니라 be동사로 시작하므로 오답이다.\n⑤ [오답] Is 뒤에는 -ing형 reading을 그대로 써야 하므로 오답이다."
+  },
+  "D": {
+   "stem": "다음 문장을 의문문으로 바르게 바꾼 것은?",
+   "passage": "Mina is making a cake.",
+   "c": [
+    "Is Mina make a cake?",
+    "Does Mina making a cake?",
+    "Mina is making a cake?",
+    "Are Mina making a cake?",
+    "Is Mina making a cake?"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: be동사를 주어 앞으로 옮기고 동사-ing을 유지하며 물음표로 끝낸다.\n풀이 순서: ① 문장의 be동사(Is)를 주어(Mina) 앞으로 옮긴다. → ② 나머지(-ing형부터)는 그대로 둔다. → ③ Is Mina ~?의 꼴은 ⑤.\n문장별 판정:\n정답 판단: 주어 Mina에 맞는 is와 making을 사용하여 현재진행형을 만들었다. 따라서 정답은 ⑤이다.\n선택지 분석:\n① [오답] 진행형의 본동사는 make가 아니라 making이다. make는 끝의 e를 빼고 ing을 붙여 making으로 쓴다.\n② [오답] 주어 Mina의 현재진행형에는 be동사 is가 필요하다. does를 is로 고친다.\n③ [오답] 평서문 어순에 물음표만 붙인 것은 의문문으로 바르게 바꾼 것이 아니다.\n④ [오답] 주어 Mina의 현재진행형에는 be동사 is가 필요하다. are를 is로 고친다.\n⑤ [정답] 주어 Mina에 맞는 is와 making을 사용하여 현재진행형을 만들었다."
+  },
+  "E": {
+   "stem": "다음 문장을 의문문으로 바르게 바꾼 것은?",
+   "passage": "They are playing soccer.",
+   "c": [
+    "Do they playing soccer?",
+    "They are playing soccer?",
+    "Is they playing soccer?",
+    "Are they playing soccer?",
+    "Are they play soccer?"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 현재진행형 의문문은 be동사를 주어 앞으로 옮기고 -ing형을 그대로 두어 Am/Is/Are + 주어 + -ing ~?로 쓴다. Do/Does는 쓰지 않는다.\n풀이 순서: ① 문장의 be동사(Are)를 주어(they) 앞으로 옮긴다. → ② 나머지(-ing형부터)는 그대로 둔다. → ③ Are they ~?의 꼴은 ④.\n문장별 판정:\n정답 판단: Are를 주어 앞으로 옮기고 playing을 그대로 두었으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 진행형 의문문은 Do가 아니라 be동사로 시작하므로 오답이다.\n② [오답] 평서문 어순에 물음표만 붙였으므로 오답이다.\n③ [오답] 복수 주어 they에는 Are를 써야 하므로 오답이다.\n④ [정답] Are를 주어 앞으로 옮기고 playing을 그대로 두었으므로 정답이다.\n⑤ [오답] Are 뒤에는 -ing형 playing을 그대로 써야 하므로 오답이다."
+  },
+  "F": {
+   "stem": "다음 문장을 의문문으로 바르게 바꾼 것은?",
+   "passage": "Tom is watching TV.",
+   "c": [
+    "Is Tom watching TV?",
+    "Is Tom watch TV?",
+    "Are Tom watching TV?",
+    "Do Tom watching TV?",
+    "Tom is watching TV?"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 현재진행형 의문문은 be동사를 주어 앞으로 옮기고 -ing형을 그대로 두어 Am/Is/Are + 주어 + -ing ~?로 쓴다. Do/Does는 쓰지 않는다.\n풀이 순서: ① 문장의 be동사(Is)를 주어(Tom) 앞으로 옮긴다. → ② 나머지(-ing형부터)는 그대로 둔다. → ③ Is Tom ~?의 꼴은 ①.\n문장별 판정:\n정답 판단: Is를 주어 앞으로 옮기고 watching을 그대로 두었으므로 정답은 ①이다.\n선택지 분석:\n① [정답] Is를 주어 앞으로 옮기고 watching을 그대로 두었으므로 정답이다.\n② [오답] Is 뒤에는 -ing형 watching을 그대로 써야 하므로 오답이다.\n③ [오답] 3인칭 단수 주어 Tom에는 Is를 써야 하므로 오답이다.\n④ [오답] 진행형 의문문은 Do가 아니라 be동사로 시작하므로 오답이다.\n⑤ [오답] 평서문 어순에 물음표만 붙였으므로 오답이다."
+  }
+ },
+ "prior_review": {}
+}

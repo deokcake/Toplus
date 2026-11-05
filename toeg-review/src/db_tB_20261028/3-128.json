@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:24:07.573Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "This book not is only interesting but also useful.",
+      "1": "This book is not only interesting but also useful.",
+      "2": "This book is only not interesting but also useful.",
+      "3": "This book is not interesting only but also useful.",
+      "4": "This book is not only interesting also but useful."
+    },
+    "expl": "핵심 규칙: not only A but also B는 ‘A뿐 아니라 B도’라는 뜻이며, not only와 but also를 떼지 않고 A와 B 바로 앞에 각각 둔다.\n풀이 순서: ① ‘A뿐만 아니라 B도’는 not only A but also B다. A와 B를 정한다: A는 interesting, B는 useful. → ② This book is 뒤에 not only A but also B를 통째로 놓는다. not only와 but also는 떼거나 순서를 바꾸지 않는다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: not only A but also B 어순으로 바르게 배열했으므로 정답은 ②이다.\n선택지 분석:\n① [오답] not이 be동사 앞에 와서 어순이 틀렸으므로 오답이다.\n② [정답] not only A but also B 어순으로 바르게 배열했으므로 정답이다.\n③ [오답] only not이 아니라 not only로 써야 하므로 오답이다.\n④ [오답] not과 only를 떼어 쓸 수 없으므로 오답이다.\n⑤ [오답] also but이 아니라 but also로 써야 하므로 오답이다.",
+    "passage": "이 책은 재미있을 뿐만 아니라 유용하다.\n(not / useful / interesting / this book / is / but / also / only)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:24:06.895Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:24:07.573Z",
+      "what": "확인 완료"
+    }
+  }
+}

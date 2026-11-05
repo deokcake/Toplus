@@ -1,0 +1,174 @@
+{
+ "key": "7-1",
+ "type": "E",
+ "grade": 7,
+ "chapter": "CH 1 명사",
+ "title": "셀 수 있는 명사와 셀 수 없는 명사",
+ "total_sec": 121,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "7급 · CH 1 명사 · 1번 · E 유형\n\n이 문제는 다섯 개의 명사 가운데 셀 수 없는 명사를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 1 명사 · 1번 · E 유형",
+     "이 문제는 다섯 개의 명사 가운데 셀 수 없는 명사를 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 1, 1번 E 유형. 이 문제는 다섯 개의 명사 가운데 셀 수 없는 명사를 고르는 문제예요.",
+   "caption": "셀 수 없는 명사 고르기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 13,
+   "screen": {
+    "text": "다음 중 셀 수 없는 명사를 고르시오.\n\n① watch\n② money\n③ teacher\n④ apple\n⑤ car",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 셀 수 없는 명사를 고르시오.",
+     "① watch",
+     "② money",
+     "③ teacher",
+     "④ apple",
+     "⑤ car"
+    ]
+   },
+   "narration": "다음 중 셀 수 없는 명사를 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n하나, 둘 셀 수 있는 명사 → a/an을 붙이거나 복수형으로 (a ball, two balls)\n셀 수 없는 명사 → a/an을 붙이지 않고 복수형도 쓰지 않아요\n물질(water, milk, bread, rice), 감정(love), money는 보통 셀 수 없어요\n예) I have two balls. I drink juice. (나는 공이 두 개 있어요. 나는 주스를 마셔요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "하나, 둘 셀 수 있는 명사 → a/an을 붙이거나 복수형으로 (a ball, two balls)",
+     "셀 수 없는 명사 → a/an을 붙이지 않고 복수형도 쓰지 않아요",
+     "물질(water, milk, bread, rice), 감정(love), money는 보통 셀 수 없어요",
+     "예) I have two balls. I drink juice. (나는 공이 두 개 있어요. 나는 주스를 마셔요.)"
+    ]
+   },
+   "narration": "하나, 둘 셀 수 있는 명사는 하나일 때 a나 an을 붙일 수 있고, 여럿일 때는 복수형으로 써요. water 물, milk 우유, bread 빵, rice 쌀 같은 물질이나 love 사랑 같은 감정, 그리고 money 돈은 보통 셀 수 없는 명사예요. 셀 수 없는 명사에는 a나 an을 붙이지 않고, 복수형으로도 쓰지 않아요. 예를 들어 I have two balls, 나는 공이 두 개 있어요. I drink juice, 나는 주스를 마셔요.",
+   "caption": "셀 수 있는 명사, 셀 수 없는 명사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 중 셀 수 없는 명사를 고르시오.\n\n① watch\n② money\n③ teacher\n④ apple\n⑤ car",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "셀 수 없는 명사"
+      ],
+      "strike": [],
+      "note": "발문: 셀 수 없는 명사를 고른다 → 보기마다 하나, 둘 셀 수 있는지 따져 본다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① watch",
+       "③ teacher",
+       "④ apple",
+       "⑤ car"
+      ],
+      "note": "watch, teacher, apple, car → a watch, a teacher, an apple, a car … 셀 수 있다 → 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② money"
+      ],
+      "strike": [],
+      "note": "남는 것은 money(돈). 돈은 ‘몇 개’가 아니라 ‘얼마’로 말한다 → 셀 수 없다."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 셀 수 없는 명사를 고르는 문제니까, 보기마다 하나, 둘 셀 수 있는지 따져 봐요. 둘째, watch, teacher, apple, car는 a watch, a teacher, an apple, a car처럼 하나, 둘 셀 수 있으니 지워요. 셋째, 남은 money는 돈이에요. 돈은 몇 개인지 세지 않고 얼마인지 말해요. 그래서 money는 셀 수 없는 명사예요.",
+   "caption": "셀 수 있는 것 지우기 → money"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① watch  ✗  a watch, two watches처럼 셀 수 있어요\n② money  ✓  몇 개가 아니라 얼마로 말하는 셀 수 없는 명사\n③ teacher  ✗  a teacher, two teachers처럼 셀 수 있어요\n④ apple  ✗  an apple, two apples처럼 셀 수 있어요\n⑤ car  ✗  a car, two cars처럼 셀 수 있어요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① watch  ✗  a watch, two watches처럼 셀 수 있어요",
+     "② money  ✓  몇 개가 아니라 얼마로 말하는 셀 수 없는 명사",
+     "③ teacher  ✗  a teacher, two teachers처럼 셀 수 있어요",
+     "④ apple  ✗  an apple, two apples처럼 셀 수 있어요",
+     "⑤ car  ✗  a car, two cars처럼 셀 수 있어요"
+    ]
+   },
+   "narration": "정답은 2번 money예요. 동전이나 지폐는 하나, 둘 셀 수 있지만, money는 셀 수 없는 명사예요. 1번 watch는 보다라는 동사로도 쓰지만, 손목시계라는 뜻일 때는 a watch, two watches처럼 셀 수 있어요. 4번 apple도 an apple, two apples처럼 셀 수 있어요.",
+   "caption": "정답 ② money"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ② money\n\nmoney는 셀 수 없는 명사 (물질·감정도 보통 셀 수 없어요)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② money",
+     "money는 셀 수 없는 명사 (물질·감정도 보통 셀 수 없어요)"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, money는 셀 수 없는 명사예요. 물질이나 감정을 나타내는 명사도 보통 셀 수 없어요.",
+   "caption": "money는 셀 수 없는 명사"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 셀 수 없는 명사를 고르시오.",
+  "passage": "",
+  "c": [
+   "watch",
+   "money",
+   "teacher",
+   "apple",
+   "car"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: 셀 수 있는 명사는 a/an을 붙이거나 복수형으로 쓸 수 있다. 물질(bread, rice, milk, water, money)이나 추상적인 것(love)을 나타내는 명사는 셀 수 없어 a/an을 붙이지 않고 복수형도 쓰지 않는다.\n풀이 순서: ① 보기마다 앞에 ‘한 개, 두 개’를 붙여 본다. → ② 붙일 수 없는 것을 찾는다. money(돈)는 셀 수 없는 명사다(동전·지폐를 센다). → ③ 정답은 money.\n문장별 판정:\n정답 판단: money: 물질을 나타내는 셀 수 없는 명사이므로 정답은 ②이다.\n선택지 분석:\n① [오답] watch: 하나, 둘로 셀 수 있는 명사이므로 오답이다.\n② [정답] money: 물질을 나타내는 셀 수 없는 명사이므로 정답이다.\n③ [오답] teacher: 하나, 둘로 셀 수 있는 명사이므로 오답이다.\n④ [오답] apple: 하나, 둘로 셀 수 있는 명사이므로 오답이다.\n⑤ [오답] car: 하나, 둘로 셀 수 있는 명사이므로 오답이다."
+ }
+}

@@ -1,0 +1,464 @@
+{
+ "A": {
+  "title": "주어에 맞는 don't와 doesn't",
+  "intro": "이 문제는 주어에 맞는 don't와 doesn't를 가려서 나머지와 다른 하나를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 don't 또는 doesn't가 들어갈 때, 나머지와 다른 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재 부정문: 주어 + don't/doesn't + 동사원형 (~하지 않아요)",
+    "I, you, we, they, 여럿(복수) → don't (= do not)",
+    "he, she, it처럼 나도 너도 아닌 한 사람·하나(3인칭 단수) → doesn't (= does not)",
+    "예) I don't eat fish. (나는 생선을 먹지 않아요.)  She doesn't eat fish. (그녀는 생선을 먹지 않아요.)"
+   ],
+   "narration": "일반동사 현재형으로 하지 않는다고 말할 때는 동사 앞에 don't나 doesn't를 쓰고 동사는 동사원형으로 둬요. 주어가 I, you, we, they나 여럿이면 don't, he, she, it처럼 3인칭 단수면 doesn't를 써요. I don't eat fish. 나는 생선을 먹지 않아요. She doesn't eat fish. 그녀는 생선을 먹지 않아요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 바로 앞의 주어 찾기",
+    "highlight": [
+     "① I",
+     "② You",
+     "③ A cat",
+     "④ We",
+     "⑤ Birds"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 빈칸 앞의 주어 I, You, A cat, We, Birds를 찾아요."
+   },
+   {
+    "note": "I, You, We = 3인칭 단수 아님, Birds = 새 여러 마리(복수) → 넷 다 don't",
+    "highlight": [],
+    "strike": [
+     "① I ________ want an ice cream.",
+     "② You ________ need a jacket today.",
+     "④ We ________ live in Busan.",
+     "⑤ Birds ________ have teeth."
+    ],
+    "narration": "둘째, I, You, We는 3인칭 단수가 아니고, Birds는 새 여러 마리라서 모두 don't를 써요."
+   },
+   {
+    "note": "A cat = 고양이 한 마리(3인칭 단수) → doesn't → 혼자 다르다",
+    "highlight": [
+     "③ A cat ________ like water."
+    ],
+    "strike": [],
+    "narration": "셋째, A cat은 고양이 한 마리, 곧 3인칭 단수라서 doesn't를 써요. 그래서 3번만 나머지와 달라요. A cat doesn't like water. 고양이는 물을 좋아하지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I ________ want an ice cream.  ✗  I(나)는 3인칭이 아님 → don't",
+    "② You ________ need a jacket today.  ✗  You(너)는 한 명이어도 → don't",
+    "③ A cat ________ like water.  ✓  고양이 한 마리(3인칭 단수) → doesn't, 혼자 달라요",
+    "④ We ________ live in Busan.  ✗  We(우리)는 여럿 → don't",
+    "⑤ Birds ________ have teeth.  ✗  Birds는 새 여러 마리(복수) → don't"
+   ],
+   "narration": "정답은 3번이에요. A cat만 doesn't를 쓰고, 나머지 네 문장에는 모두 don't를 써요. 5번 Birds는 새 여러 마리라서 3인칭 단수가 아니에요. 2번 You는 한 사람에게 말할 때도 don't를 써요. 1번 I도 한 사람이지만 나 자신이라 don't예요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → doesn't, I·you·we·they·여럿 → don't (뒤에는 동사원형)",
+   "narration": "정답은 3번이에요. 기억할 것, 3인칭 단수 주어에는 doesn't, 그 밖의 주어에는 don't를 써요."
+  },
+  "captions": [
+   "don't와 doesn't 고르기",
+   "먼저 풀어 보세요",
+   "3인칭 단수는 doesn't",
+   "주어 찾기 → 넷은 don't → A cat만 doesn't",
+   "정답 ③ A cat doesn't",
+   "3인칭 단수 doesn't, 나머지 don't"
+  ],
+  "sec": [
+   11,
+   17,
+   30,
+   34,
+   26,
+   10
+  ]
+ },
+ "B": {
+  "title": "주어에 맞는 don't와 doesn't",
+  "intro": "이 문제는 주어에 맞는 don't와 doesn't를 가려서 나머지와 다른 하나를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 don't 또는 doesn't가 들어갈 때, 나머지와 다른 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재 부정문: 주어 + don't/doesn't + 동사원형 (~하지 않아요)",
+    "I, you, we, they, 여럿(복수) → don't (= do not)",
+    "he, she, it처럼 나도 너도 아닌 한 사람·하나(3인칭 단수) → doesn't (= does not)",
+    "예) I don't eat fish. (나는 생선을 먹지 않아요.)  She doesn't eat fish. (그녀는 생선을 먹지 않아요.)"
+   ],
+   "narration": "일반동사 현재형으로 하지 않는다고 말할 때는 동사 앞에 don't나 doesn't를 쓰고 동사는 동사원형으로 둬요. 주어가 I, you, we, they나 여럿이면 don't, he, she, it처럼 3인칭 단수면 doesn't를 써요. I don't eat fish. 나는 생선을 먹지 않아요. She doesn't eat fish. 그녀는 생선을 먹지 않아요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 바로 앞의 주어 찾기",
+    "highlight": [
+     "① Jane",
+     "② We",
+     "③ The dog",
+     "④ Tom",
+     "⑤ My dad"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 빈칸 앞의 주어 Jane, We, The dog, Tom, My dad를 찾아요."
+   },
+   {
+    "note": "Jane, Tom, My dad = 한 사람, The dog = 개 한 마리 → 모두 3인칭 단수 → doesn't",
+    "highlight": [],
+    "strike": [
+     "① Jane ________ like apples.",
+     "③ The dog ________ sleep here.",
+     "④ Tom ________ ride a bike.",
+     "⑤ My dad ________ cook."
+    ],
+    "narration": "둘째, Jane, Tom, My dad는 한 사람, The dog는 개 한 마리라서 모두 3인칭 단수이니 doesn't를 써요."
+   },
+   {
+    "note": "We = 나를 포함한 여러 사람 → don't → 혼자 다르다",
+    "highlight": [
+     "② We ________ need help."
+    ],
+    "strike": [],
+    "narration": "셋째, We는 나를 포함한 여러 사람이라 3인칭 단수가 아니에요. 그래서 don't를 쓰는 2번만 나머지와 달라요. We don't need help. 우리는 도움이 필요하지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Jane ________ like apples.  ✗  Jane 한 사람(3인칭 단수) → doesn't",
+    "② We ________ need help.  ✓  We(우리)는 여럿 → don't, 혼자 달라요",
+    "③ The dog ________ sleep here.  ✗  개 한 마리(3인칭 단수) → doesn't",
+    "④ Tom ________ ride a bike.  ✗  Tom 한 사람(3인칭 단수) → doesn't",
+    "⑤ My dad ________ cook.  ✗  my가 있어도 아빠 한 사람 → doesn't"
+   ],
+   "narration": "정답은 2번이에요. We만 don't를 쓰고, 나머지 네 문장에는 모두 doesn't를 써요. 5번 My dad는 my가 붙어 있어도 아빠 한 사람이라 3인칭 단수예요. 3번 The dog는 사람이 아니어도 개 한 마리라서 3인칭 단수예요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → doesn't, I·you·we·they·여럿 → don't (뒤에는 동사원형)",
+   "narration": "정답은 2번이에요. 기억할 것, 3인칭 단수 주어에는 doesn't, 그 밖의 주어에는 don't를 써요."
+  },
+  "captions": [
+   "don't와 doesn't 고르기",
+   "먼저 풀어 보세요",
+   "3인칭 단수는 doesn't",
+   "주어 찾기 → 넷은 doesn't → We만 don't",
+   "정답 ② We don't",
+   "3인칭 단수 doesn't, 나머지 don't"
+  ],
+  "sec": [
+   12,
+   17,
+   30,
+   34,
+   24,
+   10
+  ]
+ },
+ "C": {
+  "title": "주어에 맞는 don't와 doesn't",
+  "intro": "이 문제는 주어에 맞는 don't와 doesn't를 가려서 나머지와 다른 하나를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 don't 또는 doesn't가 들어갈 때, 나머지와 다른 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재 부정문: 주어 + don't/doesn't + 동사원형 (~하지 않아요)",
+    "I, you, we, they, 여럿(복수) → don't (= do not)",
+    "he, she, it처럼 나도 너도 아닌 한 사람·하나(3인칭 단수) → doesn't (= does not)",
+    "예) I don't eat fish. (나는 생선을 먹지 않아요.)  She doesn't eat fish. (그녀는 생선을 먹지 않아요.)"
+   ],
+   "narration": "일반동사 현재형으로 하지 않는다고 말할 때는 동사 앞에 don't나 doesn't를 쓰고 동사는 동사원형으로 둬요. 주어가 I, you, we, they나 여럿이면 don't, he, she, it처럼 3인칭 단수면 doesn't를 써요. I don't eat fish. 나는 생선을 먹지 않아요. She doesn't eat fish. 그녀는 생선을 먹지 않아요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 바로 앞의 주어 찾기",
+    "highlight": [
+     "① She",
+     "② The student",
+     "③ I",
+     "④ Bill",
+     "⑤ He"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 빈칸 앞의 주어 She, The student, I, Bill, He를 찾아요."
+   },
+   {
+    "note": "She, He = 3인칭 단수, The student, Bill = 한 사람 → 모두 doesn't",
+    "highlight": [],
+    "strike": [
+     "① She ________ work Sundays.",
+     "② The student ________ study hard.",
+     "④ Bill ________ have an umbrella.",
+     "⑤ He ________ wash his hands."
+    ],
+    "narration": "둘째, She와 He, 그리고 한 사람인 The student와 Bill은 모두 3인칭 단수라서 doesn't를 써요."
+   },
+   {
+    "note": "I = 나 자신(한 명이지만 3인칭 아님) → don't → 혼자 다르다",
+    "highlight": [
+     "③ I ________ watch TV."
+    ],
+    "strike": [],
+    "narration": "셋째, I는 한 사람이지만 나 자신이라 3인칭이 아니에요. 그래서 don't를 쓰는 3번만 나머지와 달라요. I don't watch TV. 나는 텔레비전을 보지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① She ________ work Sundays.  ✗  She(그녀)는 3인칭 단수 → doesn't",
+    "② The student ________ study hard.  ✗  학생 한 명(3인칭 단수) → doesn't",
+    "③ I ________ watch TV.  ✓  I(나)는 3인칭이 아님 → don't, 혼자 달라요",
+    "④ Bill ________ have an umbrella.  ✗  Bill 한 사람(3인칭 단수) → doesn't",
+    "⑤ He ________ wash his hands.  ✗  He(그)는 3인칭 단수 → doesn't"
+   ],
+   "narration": "정답은 3번이에요. I만 don't를 쓰고, 나머지 네 문장에는 모두 doesn't를 써요. 2번 The student는 학생 한 명이라 he나 she처럼 3인칭 단수예요. 4번 Bill도 한 사람의 이름이라 doesn't를 써요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → doesn't, I·you·we·they·여럿 → don't (뒤에는 동사원형)",
+   "narration": "정답은 3번이에요. 기억할 것, 3인칭 단수 주어에는 doesn't, 그 밖의 주어에는 don't를 써요."
+  },
+  "captions": [
+   "don't와 doesn't 고르기",
+   "먼저 풀어 보세요",
+   "3인칭 단수는 doesn't",
+   "주어 찾기 → 넷은 doesn't → I만 don't",
+   "정답 ③ I don't",
+   "3인칭 단수 doesn't, 나머지 don't"
+  ],
+  "sec": [
+   12,
+   17,
+   30,
+   34,
+   24,
+   10
+  ]
+ },
+ "D": {
+  "title": "주어에 맞는 don't와 doesn't",
+  "intro": "이 문제는 주어에 맞는 don't와 doesn't를 가려서 나머지와 다른 하나를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 don't 또는 doesn't가 들어갈 때, 나머지와 다른 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재 부정문: 주어 + don't/doesn't + 동사원형 (~하지 않아요)",
+    "I, you, we, they, 여럿(복수) → don't (= do not)",
+    "he, she, it처럼 나도 너도 아닌 한 사람·하나(3인칭 단수) → doesn't (= does not)",
+    "예) I don't eat fish. (나는 생선을 먹지 않아요.)  She doesn't eat fish. (그녀는 생선을 먹지 않아요.)"
+   ],
+   "narration": "일반동사 현재형으로 하지 않는다고 말할 때는 동사 앞에 don't나 doesn't를 쓰고 동사는 동사원형으로 둬요. 주어가 I, you, we, they나 여럿이면 don't, he, she, it처럼 3인칭 단수면 doesn't를 써요. I don't eat fish. 나는 생선을 먹지 않아요. She doesn't eat fish. 그녀는 생선을 먹지 않아요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 바로 앞의 주어 찾기",
+    "highlight": [
+     "① The dog",
+     "② Tom",
+     "③ My sister",
+     "④ Jane",
+     "⑤ The boys"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 빈칸 앞의 주어 The dog, Tom, My sister, Jane, The boys를 찾아요."
+   },
+   {
+    "note": "The dog = 개 한 마리, Tom, My sister, Jane = 한 사람 → 모두 3인칭 단수 → doesn't",
+    "highlight": [],
+    "strike": [
+     "① The dog ________ eat rice.",
+     "② Tom ________ wear glasses.",
+     "③ My sister ________ read books.",
+     "④ Jane ________ like music."
+    ],
+    "narration": "둘째, The dog는 개 한 마리, Tom과 My sister와 Jane은 한 사람이라서 모두 3인칭 단수이니 doesn't를 써요."
+   },
+   {
+    "note": "The boys = boy + s, 남자아이 여러 명(복수) → don't → 혼자 다르다",
+    "highlight": [
+     "⑤ The boys ________ play soccer."
+    ],
+    "strike": [],
+    "narration": "셋째, The boys는 boy에 s가 붙은 복수형이라 남자아이 여러 명이에요. 그래서 don't를 쓰는 5번만 나머지와 달라요. The boys don't play soccer. 그 남자아이들은 축구를 하지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The dog ________ eat rice.  ✗  개 한 마리(3인칭 단수) → doesn't",
+    "② Tom ________ wear glasses.  ✗  Tom 한 사람(3인칭 단수) → doesn't",
+    "③ My sister ________ read books.  ✗  my가 있어도 한 사람 → doesn't",
+    "④ Jane ________ like music.  ✗  Jane 한 사람(3인칭 단수) → doesn't",
+    "⑤ The boys ________ play soccer.  ✓  남자아이 여러 명(복수) → don't, 혼자 달라요"
+   ],
+   "narration": "정답은 5번이에요. The boys만 don't를 쓰고, 나머지 네 문장에는 모두 doesn't를 써요. boys의 s는 남자아이가 여럿이라는 표시라서 doesn't가 아니라 don't를 써요. 3번 My sister는 my가 붙어 있어도 한 사람이라 3인칭 단수예요. 1번 The dog도 사람은 아니지만 개 한 마리라서 doesn't를 써요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → doesn't, I·you·we·they·여럿 → don't (뒤에는 동사원형)",
+   "narration": "정답은 5번이에요. 기억할 것, 3인칭 단수 주어에는 doesn't, 그 밖의 주어에는 don't를 써요."
+  },
+  "captions": [
+   "don't와 doesn't 고르기",
+   "먼저 풀어 보세요",
+   "3인칭 단수는 doesn't",
+   "주어 찾기 → 넷은 doesn't → The boys만 don't",
+   "정답 ⑤ The boys don't",
+   "3인칭 단수 doesn't, 나머지 don't"
+  ],
+  "sec": [
+   12,
+   17,
+   30,
+   36,
+   28,
+   10
+  ]
+ },
+ "E": {
+  "title": "주어에 맞는 don't와 doesn't",
+  "intro": "이 문제는 주어에 맞는 don't와 doesn't를 가려서 나머지와 다른 하나를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 don't 또는 doesn't가 들어갈 때, 나머지와 다른 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재 부정문: 주어 + don't/doesn't + 동사원형 (~하지 않아요)",
+    "I, you, we, they, 여럿(복수) → don't (= do not)",
+    "he, she, it처럼 나도 너도 아닌 한 사람·하나(3인칭 단수) → doesn't (= does not)",
+    "예) I don't eat fish. (나는 생선을 먹지 않아요.)  She doesn't eat fish. (그녀는 생선을 먹지 않아요.)"
+   ],
+   "narration": "일반동사 현재형으로 하지 않는다고 말할 때는 동사 앞에 don't나 doesn't를 쓰고 동사는 동사원형으로 둬요. 주어가 I, you, we, they나 여럿이면 don't, he, she, it처럼 3인칭 단수면 doesn't를 써요. I don't eat fish. 나는 생선을 먹지 않아요. She doesn't eat fish. 그녀는 생선을 먹지 않아요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 바로 앞의 주어 찾기",
+    "highlight": [
+     "① I",
+     "② You",
+     "③ They",
+     "④ Jane",
+     "⑤ We"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 빈칸 앞의 주어 I, You, They, Jane, We를 찾아요."
+   },
+   {
+    "note": "I, You, They, We = 3인칭 단수 아님 → 넷 다 don't",
+    "highlight": [],
+    "strike": [
+     "① I ________ need help.",
+     "② You ________ like milk.",
+     "③ They ________ play baseball.",
+     "⑤ We ________ study English."
+    ],
+    "narration": "둘째, I, You, They, We는 3인칭 단수가 아니라서 모두 don't를 써요."
+   },
+   {
+    "note": "Jane = 나도 너도 아닌 한 사람(3인칭 단수) → doesn't → 혼자 다르다",
+    "highlight": [
+     "④ Jane ________ read comics."
+    ],
+    "strike": [],
+    "narration": "셋째, Jane은 나도 너도 아닌 한 사람, 곧 3인칭 단수라서 doesn't를 써요. 그래서 4번만 나머지와 달라요. Jane doesn't read comics. Jane은 만화책을 읽지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I ________ need help.  ✗  I(나)는 3인칭이 아님 → don't",
+    "② You ________ like milk.  ✗  You(너)는 한 명이어도 → don't",
+    "③ They ________ play baseball.  ✗  They(그들)는 여럿 → don't",
+    "④ Jane ________ read comics.  ✓  Jane 한 사람(3인칭 단수) → doesn't, 혼자 달라요",
+    "⑤ We ________ study English.  ✗  We(우리)는 여럿 → don't"
+   ],
+   "narration": "정답은 4번이에요. Jane만 doesn't를 쓰고, 나머지 네 문장에는 모두 don't를 써요. 2번 You는 한 사람에게 말할 때도 don't를 써요. 1번 I도 한 사람이지만 나 자신이라 don't예요. 3번 They는 그들, 곧 여러 사람이라 don't예요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → doesn't, I·you·we·they·여럿 → don't (뒤에는 동사원형)",
+   "narration": "정답은 4번이에요. 기억할 것, 3인칭 단수 주어에는 doesn't, 그 밖의 주어에는 don't를 써요."
+  },
+  "captions": [
+   "don't와 doesn't 고르기",
+   "먼저 풀어 보세요",
+   "3인칭 단수는 doesn't",
+   "주어 찾기 → 넷은 don't → Jane만 doesn't",
+   "정답 ④ Jane doesn't",
+   "3인칭 단수 doesn't, 나머지 don't"
+  ],
+  "sec": [
+   12,
+   17,
+   30,
+   32,
+   26,
+   10
+  ]
+ },
+ "F": {
+  "title": "주어에 맞는 don't와 doesn't",
+  "intro": "이 문제는 주어에 맞는 don't와 doesn't를 가려서 나머지와 다른 하나를 고르는 문제예요.",
+  "problem_narration": "다음 빈칸에 don't 또는 doesn't가 들어갈 때, 나머지와 다른 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재 부정문: 주어 + don't/doesn't + 동사원형 (~하지 않아요)",
+    "I, you, we, they, 여럿(복수) → don't (= do not)",
+    "he, she, it처럼 나도 너도 아닌 한 사람·하나(3인칭 단수) → doesn't (= does not)",
+    "예) I don't eat fish. (나는 생선을 먹지 않아요.)  She doesn't eat fish. (그녀는 생선을 먹지 않아요.)"
+   ],
+   "narration": "일반동사 현재형으로 하지 않는다고 말할 때는 동사 앞에 don't나 doesn't를 쓰고 동사는 동사원형으로 둬요. 주어가 I, you, we, they나 여럿이면 don't, he, she, it처럼 3인칭 단수면 doesn't를 써요. I don't eat fish. 나는 생선을 먹지 않아요. She doesn't eat fish. 그녀는 생선을 먹지 않아요."
+  },
+  "steps": [
+   {
+    "note": "빈칸 바로 앞의 주어 찾기",
+    "highlight": [
+     "① I",
+     "② My brother",
+     "③ The children",
+     "④ You",
+     "⑤ We"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 빈칸 앞의 주어 I, My brother, The children, You, We를 찾아요."
+   },
+   {
+    "note": "I, You, We = 3인칭 단수 아님, The children = child의 복수형(여러 아이) → 넷 다 don't",
+    "highlight": [],
+    "strike": [
+     "① I ________ drink coffee.",
+     "③ The children ________ walk to school.",
+     "④ You ________ look tired.",
+     "⑤ We ________ need more chairs."
+    ],
+    "narration": "둘째, I, You, We는 3인칭 단수가 아니고, The children은 child의 복수형인 여러 아이라서 모두 don't를 써요."
+   },
+   {
+    "note": "My brother = my가 있어도 한 사람(3인칭 단수) → doesn't → 혼자 다르다",
+    "highlight": [
+     "② My brother ________ eat carrots."
+    ],
+    "strike": [],
+    "narration": "셋째, My brother는 my가 붙어 있어도 한 사람, 곧 3인칭 단수라서 doesn't를 써요. 그래서 2번만 나머지와 달라요. My brother doesn't eat carrots. 내 남동생은 당근을 먹지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I ________ drink coffee.  ✗  I(나)는 3인칭이 아님 → don't",
+    "② My brother ________ eat carrots.  ✓  my가 있어도 한 사람(3인칭 단수) → doesn't, 혼자 달라요",
+    "③ The children ________ walk to school.  ✗  children은 child의 복수형 → don't",
+    "④ You ________ look tired.  ✗  You(너)는 한 명이어도 → don't",
+    "⑤ We ________ need more chairs.  ✗  We(우리)는 여럿 → don't"
+   ],
+   "narration": "정답은 2번이에요. My brother만 doesn't를 쓰고, 나머지 네 문장에는 모두 don't를 써요. 3번 The children은 끝에 s가 없어서 하나처럼 보이지만, child의 복수형이라 여러 아이예요. 그래서 don't를 써요. 4번 You는 한 사람에게 말할 때도 don't를 써요."
+  },
+  "summary": {
+   "card": "3인칭 단수 주어 → doesn't, I·you·we·they·여럿 → don't (뒤에는 동사원형)",
+   "narration": "정답은 2번이에요. 기억할 것, 3인칭 단수 주어에는 doesn't, 그 밖의 주어에는 don't를 써요."
+  },
+  "captions": [
+   "don't와 doesn't 고르기",
+   "먼저 풀어 보세요",
+   "3인칭 단수는 doesn't",
+   "주어 찾기 → 넷은 don't → My brother만 doesn't",
+   "정답 ② My brother doesn't",
+   "3인칭 단수 doesn't, 나머지 don't"
+  ],
+  "sec": [
+   12,
+   17,
+   30,
+   36,
+   26,
+   10
+  ]
+ }
+}

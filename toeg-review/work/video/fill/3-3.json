@@ -1,0 +1,464 @@
+{
+ "A": {
+  "title": "you 의문문과 No 대답의 be동사",
+  "intro": "이 문제는 you로 묻는 be동사 의문문과 No 대답의 빈칸을 짝지어 채우는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 들어갈 단어를 바르게 짝지은 것을 고르세요. 에이 빈칸 you busy tomorrow, No, 비 빈칸 not. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 의문문: be동사 + 주어 ~?  (I → Am, he·she·it 등 3인칭 단수 → Is, you·we·they·복수 → Are)",
+    "대답: Yes, 주어 + be동사.  /  No, 주어 + be동사 + not.",
+    "대답의 주어는 질문의 주어를 대명사로 받아요: 한 사람에게 묻는 you → I, I → you",
+    "줄여 쓰기: I am → I'm, you are → you're, he is → he's, she is → she's, they are → they're",
+    "예) Is your bag heavy? (네 가방은 무겁니?) – No, it's not. (아니, 무겁지 않아.)"
+   ],
+   "narration": "be동사 의문문은 be동사를 주어 앞에 쓰고, I에는 Am, 3인칭 단수에는 Is, you나 복수에는 Are를 써요. No로 답할 때는 질문의 주어를 대명사로 받아 주어, be동사, not 순서로 써요. 한 사람에게 you로 물으면 I로 답해요. 예를 들어 Is your bag heavy, 네 가방은 무겁니, No, it's not, 아니, 무겁지 않아."
+  },
+  "steps": [
+   {
+    "note": "(A)는 주어 you 앞의 be동사 자리 → Are. Is의 ②·④, Am의 ⑤ 지움",
+    "highlight": [
+     "(A) _____ you"
+    ],
+    "strike": [
+     "② (A) Is - (B) I'm",
+     "④ (A) Is - (B) I",
+     "⑤ (A) Am - (B) I'm"
+    ],
+    "narration": "첫째, 에이 빈칸은 주어 you 앞의 be동사 자리이고, you에는 Are를 써요. Is를 쓴 2번과 4번, Am을 쓴 5번을 지워요."
+   },
+   {
+    "note": "(B) you로 물었으니 대답의 주어는 I, not 앞에 be동사 → I'm not. be동사 없는 ③ 지움",
+    "highlight": [
+     "No, (B) _____ not."
+    ],
+    "strike": [
+     "③ (A) Are - (B) I"
+    ],
+    "narration": "둘째, you로 물었으니 Lisa는 I로 답하고, not 앞에 be동사가 있어야 하니 I am을 줄인 I'm이 와요. be동사가 없는 3번을 지워요."
+   },
+   {
+    "note": "남는 ① → Are you busy tomorrow? / No, I'm not.",
+    "highlight": [
+     "① (A) Are - (B) I'm"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 1번을 넣으면 Are you busy tomorrow, 너 내일 바쁘니, No, I'm not, 아니, 안 바빠, 라는 대화가 돼요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) Are - (B) I'm  ✓  you → Are, 대답은 I로 받아 I'm not",
+    "② (A) Is - (B) I'm  ✗  Is는 3인칭 단수 주어에 써요 (you에는 Are)",
+    "③ (A) Are - (B) I  ✗  No, I not에는 be동사가 없어요",
+    "④ (A) Is - (B) I  ✗  you에 Is를 썼고, No, I not에는 be동사도 없어요",
+    "⑤ (A) Am - (B) I'm  ✗  Am은 주어 I에만 써요 (you에는 Are)"
+   ],
+   "narration": "정답은 1번이에요. 3번은 Are는 맞지만, No, I not에는 be동사가 없어서 틀렸어요. 5번은 대답은 맞지만, Am은 주어가 I일 때만 써요. 2번의 Is는 3인칭 단수 주어에 쓰는 말이라 you와 맞지 않아요."
+  },
+  "summary": {
+   "card": "be동사 의문문의 No 대답 = 대명사 주어 + be동사 + not (한 사람에게 묻는 you → I)",
+   "narration": "정답은 1번이에요. 기억할 것, 한 사람에게 you로 물으면 No, I'm not처럼 I로 답해요."
+  },
+  "captions": [
+   "you 의문문과 No 대답",
+   "먼저 풀어 보세요",
+   "be동사 의문문과 No 대답",
+   "you → Are, 대답은 I'm not",
+   "정답 ① Are - I'm",
+   "you로 물으면 I로 답해요"
+  ],
+  "sec": [
+   11,
+   20,
+   31,
+   37,
+   21,
+   11
+  ]
+ },
+ "B": {
+  "title": "Tom and Ben 의문문과 No 대답",
+  "intro": "이 문제는 Tom and Ben으로 묻는 be동사 의문문과 No 대답의 빈칸을 짝지어 채우는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 들어갈 단어를 바르게 짝지은 것을 고르세요. 에이 빈칸 Tom and Ben at home, No, 비 빈칸 not. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 의문문: be동사 + 주어 ~?  (I → Am, he·she·it 등 3인칭 단수 → Is, you·we·they·복수 → Are)",
+    "대답: Yes, 주어 + be동사.  /  No, 주어 + be동사 + not.",
+    "대답의 주어는 질문의 주어를 대명사로 받아요: 이름으로 말한 여러 사람 → they",
+    "줄여 쓰기: I am → I'm, you are → you're, he is → he's, she is → she's, they are → they're",
+    "예) Is the room big? (그 방은 크니?) – No, it's not. (아니, 크지 않아.)"
+   ],
+   "narration": "be동사 의문문은 be동사를 주어 앞에 쓰고, I에는 Am, 3인칭 단수에는 Is, you나 복수에는 Are를 써요. No로 답할 때는 질문의 주어를 대명사로 받아 주어, be동사, not 순서로 써요. Tom and Ben처럼 이름으로 말한 여러 사람은 they로 받아요. 예를 들어 Is the room big, 그 방은 크니, No, it's not, 아니, 크지 않아."
+  },
+  "steps": [
+   {
+    "note": "(A) 뒤 주어 Tom and Ben = 두 사람(복수) → Are. Is의 ①, Am의 ④ 지움",
+    "highlight": [
+     "(A) _____ Tom and Ben"
+    ],
+    "strike": [
+     "① (A) Is - (B) he's",
+     "④ (A) Am - (B) I'm"
+    ],
+    "narration": "첫째, 두 사람인 Tom and Ben은 복수라서 Are로 물어요. Is를 쓴 1번과 Am을 쓴 4번을 지워요."
+   },
+   {
+    "note": "(B) Tom and Ben → they, not 앞에 be동사 → they're not. we're의 ③, be동사 없는 ② 지움",
+    "highlight": [
+     "No, (B) _____ not."
+    ],
+    "strike": [
+     "③ (A) Are - (B) we're",
+     "② (A) Were - (B) they"
+    ],
+    "narration": "둘째, 대답의 주어는 Tom and Ben을 받은 they이고, not 앞에 be동사가 있어야 하니 they are를 줄인 they're가 와요. Leo는 Tom and Ben이 아니니 we're를 쓴 3번과, be동사가 없는 2번을 지워요."
+   },
+   {
+    "note": "남는 ⑤ → Are Tom and Ben at home? / No, they're not.",
+    "highlight": [
+     "⑤ (A) Are - (B) they're"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 5번을 넣으면 Are Tom and Ben at home, 톰과 벤은 집에 있니, No, they're not, 아니, 없어, 라는 대화가 돼요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) Is - (B) he's  ✗  두 사람인 Tom and Ben에는 Is도 he도 쓰지 않아요",
+    "② (A) Were - (B) they  ✗  No, they not에는 be동사가 없어요",
+    "③ (A) Are - (B) we're  ✗  Tom and Ben은 we가 아니라 they로 받아요",
+    "④ (A) Am - (B) I'm  ✗  Am은 주어 I에만 쓰고, 대답의 주어도 they",
+    "⑤ (A) Are - (B) they're  ✓  복수 주어 → Are, Tom and Ben → they're not"
+   ],
+   "narration": "정답은 5번이에요. 3번은 Are는 맞지만, Leo는 Tom and Ben이 아니니 we가 아니라 they로 받아요. 2번의 Were는 과거를 물을 때 쓸 수 있지만, No, they not에는 be동사가 없어요. 1번의 Is와 he는 두 사람인 Tom and Ben과 맞지 않아요."
+  },
+  "summary": {
+   "card": "be동사 의문문의 No 대답 = 대명사 주어 + be동사 + not (Tom and Ben → they)",
+   "narration": "정답은 5번이에요. 기억할 것, 이름으로 말한 여러 사람은 No, they're not처럼 they로 받아요."
+  },
+  "captions": [
+   "Tom and Ben 의문문과 No 대답",
+   "먼저 풀어 보세요",
+   "be동사 의문문과 No 대답",
+   "복수 → Are, 대답은 they're not",
+   "정답 ⑤ Are - they're",
+   "Tom and Ben은 they로 받아요"
+  ],
+  "sec": [
+   12,
+   21,
+   32,
+   41,
+   23,
+   11
+  ]
+ },
+ "C": {
+  "title": "she 의문문과 No 대답의 be동사",
+  "intro": "이 문제는 she로 묻는 be동사 의문문과 No 대답의 빈칸을 짝지어 채우는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 들어갈 단어를 바르게 짝지은 것을 고르세요. 에이 빈칸 she at home now, No, 비 빈칸 not. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 의문문: be동사 + 주어 ~?  (I → Am, he·she·it 등 3인칭 단수 → Is, you·we·they·복수 → Are)",
+    "대답: Yes, 주어 + be동사.  /  No, 주어 + be동사 + not.",
+    "대답의 주어는 질문의 주어를 대명사로 받아요: she로 물으면 대답도 she",
+    "줄여 쓰기: I am → I'm, you are → you're, he is → he's, she is → she's, they are → they're",
+    "예) Is the window open? (그 창문은 열려 있니?) – No, it's not. (아니, 안 열려 있어.)"
+   ],
+   "narration": "be동사 의문문은 be동사를 주어 앞에 쓰고, I에는 Am, 3인칭 단수에는 Is, you나 복수에는 Are를 써요. No로 답할 때는 질문의 주어를 대명사로 받아 주어, be동사, not 순서로 써요. she로 물으면 대답도 she로 받아요. 예를 들어 Is the window open, 그 창문은 열려 있니, No, it's not, 아니, 안 열려 있어."
+  },
+  "steps": [
+   {
+    "note": "(A) 뒤 주어 she = 3인칭 단수 → Is. Am의 ①, Are의 ⑤ 지움",
+    "highlight": [
+     "(A) _____ she"
+    ],
+    "strike": [
+     "① (A) Am - (B) I'm",
+     "⑤ (A) Are - (B) I"
+    ],
+    "narration": "첫째, 주어 she는 3인칭 단수라서 Is로 물어요. Am을 쓴 1번과 Are를 쓴 5번을 지워요."
+   },
+   {
+    "note": "(B) she에 대해 물었으니 대답도 she → she's not. Jane 자신인 I'm의 ④, be동사 없는 ② 지움",
+    "highlight": [
+     "No, (B) _____ not."
+    ],
+    "strike": [
+     "④ (A) Is - (B) I'm",
+     "② (A) Is - (B) I"
+    ],
+    "narration": "둘째, Tom은 Jane이 아니라 she에 대해 물었으니 대답의 주어도 she이고, not 앞에는 she is를 줄인 she's가 와요. Jane 자신을 말하는 I'm의 4번과 be동사가 없는 2번을 지워요."
+   },
+   {
+    "note": "남는 ③ → Is she at home now? / No, she's not.",
+    "highlight": [
+     "③ (A) Is - (B) she's"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 3번을 넣으면 Is she at home now, 그녀는 지금 집에 있니, No, she's not, 아니, 없어, 라는 대화가 돼요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) Am - (B) I'm  ✗  Am은 주어 I에만 쓰고, 대답의 주어도 she",
+    "② (A) Is - (B) I  ✗  대답의 주어는 she, No, I not에는 be동사도 없어요",
+    "③ (A) Is - (B) she's  ✓  she → Is, 대답도 she로 받아 she's not",
+    "④ (A) Is - (B) I'm  ✗  she에 대해 물었으니 I'm이 아니라 she's",
+    "⑤ (A) Are - (B) I  ✗  she에는 Are를 쓰지 않고, I 뒤에 be동사도 없어요"
+   ],
+   "narration": "정답은 3번이에요. 4번을 고르기 쉬운데, I'm not이라고 하면 Jane 자신이 집에 없다는 말이 돼요. Tom은 she에 대해 물었으니 대답도 she로 받아요. 2번은 주어가 she가 아니고, be동사도 없어요."
+  },
+  "summary": {
+   "card": "be동사 의문문의 No 대답 = 대명사 주어 + be동사 + not (she로 물으면 she)",
+   "narration": "정답은 3번이에요. 기억할 것, she로 물으면 No, she's not처럼 she로 답해요."
+  },
+  "captions": [
+   "she 의문문과 No 대답",
+   "먼저 풀어 보세요",
+   "be동사 의문문과 No 대답",
+   "she → Is, 대답은 she's not",
+   "정답 ③ Is - she's",
+   "she로 물으면 she로 답해요"
+  ],
+  "sec": [
+   11,
+   21,
+   31,
+   38,
+   20,
+   10
+  ]
+ },
+ "D": {
+  "title": "they 의문문과 No 대답의 be동사",
+  "intro": "이 문제는 they로 묻는 be동사 의문문과 No 대답의 빈칸을 짝지어 채우는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 들어갈 단어를 바르게 짝지은 것을 고르세요. 에이 빈칸 they ready for the school trip tomorrow, No, 비 빈칸 not. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 의문문: be동사 + 주어 ~?  (I → Am, he·she·it 등 3인칭 단수 → Is, you·we·they·복수 → Are)",
+    "대답: Yes, 주어 + be동사.  /  No, 주어 + be동사 + not.",
+    "대답의 주어는 질문의 주어를 대명사로 받아요: they로 물으면 대답도 they",
+    "줄여 쓰기: I am → I'm, you are → you're, he is → he's, she is → she's, they are → they're",
+    "예) Is the soup hot? (그 수프는 뜨겁니?) – No, it's not. (아니, 뜨겁지 않아.)"
+   ],
+   "narration": "be동사 의문문은 be동사를 주어 앞에 쓰고, I에는 Am, 3인칭 단수에는 Is, you나 복수에는 Are를 써요. No로 답할 때는 질문의 주어를 대명사로 받아 주어, be동사, not 순서로 써요. they로 물으면 대답도 they로 받아요. 예를 들어 Is the soup hot, 그 수프는 뜨겁니, No, it's not, 아니, 뜨겁지 않아."
+  },
+  "steps": [
+   {
+    "note": "(A) 뒤 주어 they = 복수 → Are. Is의 ①·②, Am의 ③ 지움",
+    "highlight": [
+     "(A) _____ they"
+    ],
+    "strike": [
+     "① (A) Is - (B) I'm",
+     "② (A) Is - (B) I",
+     "③ (A) Am - (B) I'm"
+    ],
+    "narration": "첫째, 주어 they는 복수라서 Are로 물어요. Is를 쓴 1번과 2번, Am을 쓴 3번을 지워요."
+   },
+   {
+    "note": "(B) they에 대해 물었으니 대답도 they → they're not. 주어가 I이고 be동사도 없는 ⑤ 지움",
+    "highlight": [
+     "No, (B) _____ not."
+    ],
+    "strike": [
+     "⑤ (A) Are - (B) I"
+    ],
+    "narration": "둘째, they에 대해 물었으니 대답의 주어도 they이고, not 앞에는 they are를 줄인 they're가 와요. they 대신 I를 쓰고 be동사도 없는 5번을 지워요."
+   },
+   {
+    "note": "남는 ④ → Are they ready for the school trip tomorrow? / No, they're not.",
+    "highlight": [
+     "④ (A) Are - (B) they're"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 4번을 넣으면 Are they ready for the school trip tomorrow, 그들은 내일 수학여행 갈 준비가 됐니, No, they're not, 아니, 안 됐어, 라는 대화가 돼요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) Is - (B) I'm  ✗  they에는 Is를 쓰지 않고, 대답의 주어도 they",
+    "② (A) Is - (B) I  ✗  they에 Is를 썼고, No, I not에는 be동사도 없어요",
+    "③ (A) Am - (B) I'm  ✗  Am은 주어 I에만 쓰고, 대답의 주어도 they",
+    "④ (A) Are - (B) they're  ✓  they → Are, 대답도 they로 받아 they're not",
+    "⑤ (A) Are - (B) I  ✗  대답의 주어는 they, I 뒤에 be동사도 없어요"
+   ],
+   "narration": "정답은 4번이에요. 5번은 Are는 맞지만, 대답의 주어가 they가 아니고 No, I not에는 be동사도 없어요. 1번은 복수인 they에 3인칭 단수에 쓰는 Is를 써서 틀렸어요. 3번의 Am은 주어가 I일 때만 써요."
+  },
+  "summary": {
+   "card": "be동사 의문문의 No 대답 = 대명사 주어 + be동사 + not (they로 물으면 they)",
+   "narration": "정답은 4번이에요. 기억할 것, they로 물으면 No, they're not처럼 they로 답해요."
+  },
+  "captions": [
+   "they 의문문과 No 대답",
+   "먼저 풀어 보세요",
+   "be동사 의문문과 No 대답",
+   "they → Are, 대답은 they're not",
+   "정답 ④ Are - they're",
+   "they로 물으면 they로 답해요"
+  ],
+  "sec": [
+   11,
+   22,
+   31,
+   38,
+   21,
+   10
+  ]
+ },
+ "E": {
+  "title": "I 의문문과 No 대답의 be동사",
+  "intro": "이 문제는 I로 묻는 be동사 의문문과 No 대답의 빈칸을 짝지어 채우는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 들어갈 단어를 바르게 짝지은 것을 고르세요. 에이 빈칸 I late for the meeting again, No, 비 빈칸 not. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 의문문: be동사 + 주어 ~?  (I → Am, he·she·it 등 3인칭 단수 → Is, you·we·they·복수 → Are)",
+    "대답: Yes, 주어 + be동사.  /  No, 주어 + be동사 + not.",
+    "대답의 주어는 질문의 주어를 대명사로 받아요: I로 물으면 대답은 you",
+    "줄여 쓰기: I am → I'm, you are → you're, he is → he's, she is → she's, they are → they're",
+    "예) Is the water cold? (그 물은 차갑니?) – No, it's not. (아니, 차갑지 않아.)"
+   ],
+   "narration": "be동사 의문문은 be동사를 주어 앞에 쓰고, I에는 Am, 3인칭 단수에는 Is, you나 복수에는 Are를 써요. No로 답할 때는 질문의 주어를 대명사로 받아 주어, be동사, not 순서로 써요. 상대가 I로 물으면 그 사람을 you로 받아 답해요. 예를 들어 Is the water cold, 그 물은 차갑니, No, it's not, 아니, 차갑지 않아."
+  },
+  "steps": [
+   {
+    "note": "(A) 뒤 주어 I → Am. Are의 ③, Is의 ④·⑤ 지움",
+    "highlight": [
+     "(A) _____ I late"
+    ],
+    "strike": [
+     "③ (A) Are - (B) I",
+     "④ (A) Is - (B) I'm",
+     "⑤ (A) Is - (B) I"
+    ],
+    "narration": "첫째, 주어가 I이니 Am으로 물어요. Are를 쓴 3번, Is를 쓴 4번과 5번을 지워요."
+   },
+   {
+    "note": "(B) Leo가 자기(I)를 물었으니 Mina는 Leo를 you로 받음 → you're not. Mina 자신인 I'm의 ② 지움",
+    "highlight": [
+     "No, (B) _____ not."
+    ],
+    "strike": [
+     "② (A) Am - (B) I'm"
+    ],
+    "narration": "둘째, Leo가 자기 자신을 I로 물었으니 Mina는 Leo를 you로 받아, you are를 줄인 you're 뒤에 not을 써요. Mina 자신을 말하는 I'm의 2번을 지워요."
+   },
+   {
+    "note": "남는 ① → Am I late for the meeting again? / No, you're not.",
+    "highlight": [
+     "① (A) Am - (B) you're"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 1번을 넣으면 Am I late for the meeting again, 나 또 회의에 늦었니, No, you're not, 아니, 안 늦었어, 라는 대화가 돼요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) Am - (B) you're  ✓  I → Am, I로 물었으니 대답은 you're not",
+    "② (A) Am - (B) I'm  ✗  I로 물으면 you로 답해요 (I'm은 Mina 자신)",
+    "③ (A) Are - (B) I  ✗  I에는 Am, No, I not에는 be동사도 없어요",
+    "④ (A) Is - (B) I'm  ✗  I에는 Is를 쓰지 않고, 대답의 주어는 you",
+    "⑤ (A) Is - (B) I  ✗  I에 Is를 썼고, I 뒤에 be동사도 없어요"
+   ],
+   "narration": "정답은 1번이에요. 2번을 고르기 쉬운데, I'm not이라고 하면 Mina 자신이 늦지 않았다는 말이 돼요. 질문의 I는 Leo 자신이라 Mina는 you로 받아요. 4번은 주어 I에 Is를 썼고, 대답도 I'm이라서 틀렸어요."
+  },
+  "summary": {
+   "card": "be동사 의문문의 No 대답 = 대명사 주어 + be동사 + not (I로 물으면 you)",
+   "narration": "정답은 1번이에요. 기억할 것, 상대가 I로 물으면 No, you're not처럼 you로 답해요."
+  },
+  "captions": [
+   "I 의문문과 No 대답",
+   "먼저 풀어 보세요",
+   "be동사 의문문과 No 대답",
+   "I → Am, 대답은 you're not",
+   "정답 ① Am - you're",
+   "I로 물으면 you로 답해요"
+  ],
+  "sec": [
+   11,
+   21,
+   32,
+   37,
+   21,
+   10
+  ]
+ },
+ "F": {
+  "title": "Tom 의문문과 No 대답의 be동사",
+  "intro": "이 문제는 Tom으로 묻는 be동사 의문문과 No 대답의 빈칸을 짝지어 채우는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 들어갈 단어를 바르게 짝지은 것을 고르세요. 에이 빈칸 Tom at school today, No, 비 빈칸 not. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 의문문: be동사 + 주어 ~?  (I → Am, he·she·it 등 3인칭 단수 → Is, you·we·they·복수 → Are)",
+    "대답: Yes, 주어 + be동사.  /  No, 주어 + be동사 + not.",
+    "대답의 주어는 질문의 주어를 대명사로 받아요: 이름으로 말한 남자 한 사람 → he",
+    "줄여 쓰기: I am → I'm, you are → you're, he is → he's, she is → she's, they are → they're",
+    "예) Is the box big? (그 상자는 크니?) – No, it's not. (아니, 크지 않아.)"
+   ],
+   "narration": "be동사 의문문은 be동사를 주어 앞에 쓰고, I에는 Am, 3인칭 단수에는 Is, you나 복수에는 Are를 써요. No로 답할 때는 질문의 주어를 대명사로 받아 주어, be동사, not 순서로 써요. Tom처럼 이름으로 말한 남자 한 사람은 he로 받아요. 예를 들어 Is the box big, 그 상자는 크니, No, it's not, 아니, 크지 않아."
+  },
+  "steps": [
+   {
+    "note": "(A) 뒤 주어 Tom = 한 사람(3인칭 단수) → Is. Am의 ④, Are의 ⑤ 지움",
+    "highlight": [
+     "(A) _____ Tom"
+    ],
+    "strike": [
+     "④ (A) Am - (B) I'm",
+     "⑤ (A) Are - (B) I"
+    ],
+    "narration": "첫째, 주어 Tom은 한 사람, 곧 3인칭 단수라서 Is로 물어요. Am을 쓴 4번과 Are를 쓴 5번을 지워요."
+   },
+   {
+    "note": "(B) Tom → he, not 앞에 be동사 → he's not. be동사 없는 ①, Amy 자신인 I'm의 ② 지움",
+    "highlight": [
+     "No, (B) _____ not."
+    ],
+    "strike": [
+     "① (A) Is - (B) I",
+     "② (A) Is - (B) I'm"
+    ],
+    "narration": "둘째, 대답의 주어는 Tom을 받은 he이고, not 앞에는 he is를 줄인 he's가 와요. be동사가 없는 1번과 Amy 자신을 말하는 I'm의 2번을 지워요."
+   },
+   {
+    "note": "남는 ③ → Is Tom at school today? / No, he's not.",
+    "highlight": [
+     "③ (A) Is - (B) he's"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 3번을 넣으면 Is Tom at school today, 톰은 학교에 왔니, No, he's not, 아니, 안 왔어, 라는 대화가 돼요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① (A) Is - (B) I  ✗  대답의 주어는 he, No, I not에는 be동사도 없어요",
+    "② (A) Is - (B) I'm  ✗  Tom에 대해 물었으니 I'm이 아니라 he's",
+    "③ (A) Is - (B) he's  ✓  Tom → Is, 대답은 he로 받아 he's not",
+    "④ (A) Am - (B) I'm  ✗  Am은 주어 I에만 쓰고, 대답의 주어도 he",
+    "⑤ (A) Are - (B) I  ✗  Tom 한 사람에는 Are를 쓰지 않고, I 뒤에 be동사도 없어요"
+   ],
+   "narration": "정답은 3번이에요. 2번을 고르기 쉬운데, I'm not이라고 하면 Amy 자신이 학교에 없다는 말이 돼요. Jane은 Tom에 대해 물었으니 대답은 he로 받아요. 1번은 주어가 he가 아니고, be동사도 없어요."
+  },
+  "summary": {
+   "card": "be동사 의문문의 No 대답 = 대명사 주어 + be동사 + not (Tom → he)",
+   "narration": "정답은 3번이에요. 기억할 것, Tom처럼 이름으로 말한 남자 한 사람은 No, he's not처럼 he로 받아요."
+  },
+  "captions": [
+   "Tom 의문문과 No 대답",
+   "먼저 풀어 보세요",
+   "be동사 의문문과 No 대답",
+   "Tom → Is, 대답은 he's not",
+   "정답 ③ Is - he's",
+   "Tom은 he로 받아요"
+  ],
+  "sec": [
+   11,
+   21,
+   32,
+   37,
+   20,
+   11
+  ]
+ }
+}

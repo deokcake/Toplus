@@ -1,0 +1,31 @@
+{
+  "by": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-24T03:03:21.662Z",
+  "doneBy": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "it",
+      "1": "them",
+      "2": "its",
+      "3": "it's",
+      "4": "this"
+    },
+    "expl": "핵심 규칙: 앞에 나온 명사를 대명사로 받을 때는 수(단수·복수)와 자리(주어·목적어)에 맞춘다. 복수명사는 목적어 자리에서 them으로 받는다.\n풀이 순서: ① 빈칸이 가리키는 말을 앞에서 찾는다: your keys(복수). → ② 빈칸은 동사 뒤 목적어 자리이므로 목적격을 쓴다: 복수를 받는 목적격은 them. → ③ 정답은 them.\n문장별 판정:\n정답 판단: 복수명사 keys를 목적격 복수대명사 them으로 받으므로 정답은 ②이다.\n선택지 분석:\n① [오답] keys는 복수라 it으로 받지 않으므로 오답이다.\n② [정답] 복수명사 keys를 목적격 복수대명사 them으로 받으므로 정답이다.\n③ [오답] its는 소유격이라 목적어 자리에 쓸 수 없으므로 오답이다.\n④ [오답] it's는 it is의 줄임말이라 목적어 자리에 쓸 수 없으므로 오답이다.\n⑤ [오답] this는 단수라 복수 keys를 받지 않으므로 오답이다.",
+    "passage": "A: Where are your keys?\nB: I left ________ on the table.",
+    "stem": null
+  },
+  "editors": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": "2026-10-24T03:03:19.540Z"
+  },
+  "tab": "ai7fx4gw",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": {
+      "at": "2026-10-24T03:03:21.662Z",
+      "what": "확인 완료"
+    }
+  }
+}

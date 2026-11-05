@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-28T03:03:43.107Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "farther",
+      "1": "far",
+      "2": "farthest",
+      "3": "farer",
+      "4": "more far"
+    },
+    "expl": "핵심 규칙: than 앞에는 비교급을 쓴다. little - less, good - better, much - more, far - farther는 불규칙 변화이고, 긴 단어 delicious는 more delicious로 쓴다.\n풀이 순서: ① 괄호 속 우리말이 ‘더 ~한’이고 뒤에 than이 있으므로 비교급 자리다. → ② ‘먼’은 far, 비교급은 불규칙 변화 farther다. → ③ 정답은 farther.\n문장별 판정:\n정답 판단: far의 불규칙 비교급이므로 정답은 ①이다.\n선택지 분석:\n① [정답] far의 불규칙 비교급이므로 정답이다.\n② [오답] 원급이라 than과 함께 쓸 수 없으므로 오답이다.\n③ [오답] 최상급이라 than과 함께 쓸 수 없으므로 오답이다.\n④ [오답] far는 불규칙 변화라 farer로 쓰지 않으므로 오답이다.\n⑤ [오답] far의 비교급은 more far가 아니라 farther이므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-28T03:03:35.480Z"
+  },
+  "tab": "39fzoqra",
+  "updatedAt": "2026-10-28T03:03:43.107Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:03:43.107Z",
+      "what": "확인 완료"
+    }
+  }
+}

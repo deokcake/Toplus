@@ -1,0 +1,476 @@
+{
+ "A": {
+  "title": "현재진행형 바른 문장 고르기",
+  "intro": "이 문제는 현재진행형과 be동사를 바르게 쓴 문장 하나를 고르는 문제예요.",
+  "problem_narration": "다음 중 올바른 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재진행형(…하고 있다) = am/is/are + 동사의 ing형",
+    "I → am · 3인칭 단수(he, she, it) → is · you, 복수 → are",
+    "부정문: be동사 뒤에 not (am not, isn't, aren't)",
+    "의문문: be동사를 주어 앞에",
+    "예) She isn't reading a book. (그녀는 책을 읽고 있지 않아요.)"
+   ],
+   "narration": "현재진행형은 be동사 뒤에 동사의 ing형을 써서, 주로 지금 하고 있는 일을 나타내요. be동사는 주어에 맞춰 I에는 am, 3인칭 단수에는 is, you와 복수에는 are를 써요. 부정문은 be동사 뒤에 not을 쓰고, 의문문은 be동사를 주어 앞에 써요. 예를 들어 She isn't reading a book. 그녀는 책을 읽고 있지 않아요."
+  },
+  "steps": [
+   {
+    "note": "be동사가 주어와 맞는지, not이 be동사 뒤인지: ⑤ We am ✗ → We are, ④ I not am ✗ → I am not",
+    "highlight": [
+     "We am",
+     "I not am"
+    ],
+    "strike": [
+     "⑤ We am a good partner.",
+     "④ I not am watching a quiz show."
+    ],
+    "narration": "첫째, be동사가 주어에 맞는지, not이 be동사 뒤에 있는지 봐요. 5번 We에는 am이 아니라 are를 쓰고, 4번은 not을 be동사 뒤에 써서 I am not으로 고쳐야 해요."
+   },
+   {
+    "note": "동사가 ing형인지, 철자까지: ③ Is he play ✗ → playing, ① danceing ✗ → dancing",
+    "highlight": [
+     "Is he play",
+     "danceing"
+    ],
+    "strike": [
+     "③ Is he play tennis?",
+     "① Are you danceing?"
+    ],
+    "narration": "둘째, 동사의 ing형과 철자를 보면, 3번은 Is he 뒤에 play가 아니라 playing을 써야 하고, 1번 dance는 e를 빼고 dancing으로 써요."
+   },
+   {
+    "note": "남은 ②: He(3인칭 단수) → isn't + walking ✓",
+    "highlight": [
+     "② He isn't walking in the park."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 2번은 3인칭 단수 He에 isn't를 쓰고 walking을 써서 맞아요. He isn't walking in the park. 그는 공원에서 걷고 있지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Are you danceing?  ✗  dance는 e를 빼고 dancing",
+    "② He isn't walking in the park.  ✓  He → isn't + walking",
+    "③ Is he play tennis?  ✗  Is he 뒤에는 playing",
+    "④ I not am watching a quiz show.  ✗  not은 be동사 뒤 → I am not",
+    "⑤ We am a good partner.  ✗  We → are, a good partner → good partners"
+   ],
+   "narration": "정답은 2번이에요. 1번은 짜임은 맞고 철자만 틀려서 고르기 쉬우니, 철자까지 꼭 확인해요. 5번은 진행형 문장은 아니지만, be동사는 주어에 맞춰야 해요. We에는 are를 쓰고, 여럿이니 짝도 good partners로 써요. We are good partners. 우리는 좋은 짝이에요."
+  },
+  "summary": {
+   "card": "현재진행형 = 주어에 맞는 am/is/are + 동사의 ing형, not은 be동사 뒤",
+   "narration": "정답은 2번이에요. 기억할 것, 현재진행형은 주어에 맞는 be동사 뒤에 동사의 ing형을 쓰고, not은 be동사 뒤에 써요."
+  },
+  "captions": [
+   "현재진행형 바른 문장 고르기",
+   "먼저 풀어 보세요",
+   "am/is/are + 동사의 ing형",
+   "be동사·not 자리 → ing형 → ②",
+   "정답 ② He isn't walking",
+   "주어에 맞는 be동사 + ing형"
+  ],
+  "sec": [
+   10,
+   16,
+   30,
+   38,
+   22,
+   11
+  ]
+ },
+ "B": {
+  "title": "현재진행형 바른 문장 고르기",
+  "intro": "이 문제는 현재진행형의 형태를 바르게 쓴 문장 하나를 고르는 문제예요.",
+  "problem_narration": "다음 중 올바른 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재진행형(…하고 있다) = am/is/are + 동사의 ing형",
+    "I → am · 3인칭 단수(he, she, it) → is · you, 복수 → are",
+    "부정문: be동사 뒤에 not (am not, isn't, aren't)",
+    "의문문: be동사를 주어 앞에",
+    "예) They aren't watching TV. (그들은 TV를 보고 있지 않아요.)"
+   ],
+   "narration": "현재진행형은 be동사 뒤에 동사의 ing형을 써서, 주로 지금 하고 있는 일을 나타내요. be동사는 주어에 맞춰 I에는 am, 3인칭 단수에는 is, you와 복수에는 are를 써요. 부정문은 be동사 뒤에 not을 쓰고, 의문문은 be동사를 주어 앞에 써요. 예를 들어 They aren't watching TV. 그들은 TV를 보고 있지 않아요."
+  },
+  "steps": [
+   {
+    "note": "주어와 be동사의 짝: ④ Mina(3인칭 단수) → isn't, ⑤ The boys(복수) → are",
+    "highlight": [
+     "Mina aren't",
+     "The boys is"
+    ],
+    "strike": [
+     "④ Mina aren't washing the dishes.",
+     "⑤ The boys is playing outside."
+    ],
+    "narration": "첫째, 주어와 be동사의 짝을 보면, 4번 Mina는 3인칭 단수라 isn't를 쓰고, 5번 The boys는 복수라 are를 써야 해요."
+   },
+   {
+    "note": "동사가 ing형인지: ① am not study ✗ → studying, ③ doesn't doing ✗ → isn't doing",
+    "highlight": [
+     "am not study",
+     "doesn't doing"
+    ],
+    "strike": [
+     "① I am not study now.",
+     "③ My brother doesn't doing his homework."
+    ],
+    "narration": "둘째, 동사가 ing형인지 봐요. 1번은 am not 뒤에 study가 아니라 studying을 쓰고, 3번은 진행형 부정문이라 doesn't가 아니라 isn't doing으로 써야 해요."
+   },
+   {
+    "note": "남은 ②: We(복수) → aren't + waiting ✓",
+    "highlight": [
+     "② We aren't waiting for the bus."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 2번은 복수 주어 We에 aren't를 쓰고 waiting을 써서 맞아요. We aren't waiting for the bus. 우리는 버스를 기다리고 있지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I am not study now.  ✗  am not 뒤에는 studying",
+    "② We aren't waiting for the bus.  ✓  We → aren't + waiting",
+    "③ My brother doesn't doing his homework.  ✗  진행형 부정은 isn't doing",
+    "④ Mina aren't washing the dishes.  ✗  3인칭 단수 Mina → isn't",
+    "⑤ The boys is playing outside.  ✗  복수 The boys → are"
+   ],
+   "narration": "정답은 2번이에요. 3번은 not이 들어 있어 맞아 보이지만, doesn't 뒤에는 동사원형이 와요. 진행형으로 쓰면 My brother isn't doing his homework. 내 남동생은 숙제를 하고 있지 않아요. 5번은 playing은 맞지만 The boys에 맞는 are를 써야 해요."
+  },
+  "summary": {
+   "card": "진행형 부정문 = 주어에 맞는 be동사 + not + 동사의 ing형",
+   "narration": "정답은 2번이에요. 기억할 것, 진행형 부정문은 주어에 맞는 be동사 뒤에 not을 쓰고, 동사는 ing형으로 써요."
+  },
+  "captions": [
+   "현재진행형 바른 문장 고르기",
+   "먼저 풀어 보세요",
+   "am/is/are + 동사의 ing형",
+   "주어와 be동사 → ing형 → ②",
+   "정답 ② We aren't waiting",
+   "be동사 + not + 동사의 ing형"
+  ],
+  "sec": [
+   10,
+   16,
+   30,
+   38,
+   22,
+   11
+  ]
+ },
+ "C": {
+  "title": "현재진행형 바른 문장 고르기",
+  "intro": "이 문제는 현재진행형의 형태를 바르게 쓴 문장 하나를 고르는 문제예요.",
+  "problem_narration": "다음 중 올바른 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재진행형(…하고 있다) = am/is/are + 동사의 ing형",
+    "I → am · 3인칭 단수(he, she, it) → is · you, 복수 → are",
+    "부정문: be동사 뒤에 not (am not, isn't, aren't)",
+    "의문문: be동사를 주어 앞에",
+    "예) She isn't drinking milk. (그녀는 우유를 마시고 있지 않아요.)"
+   ],
+   "narration": "현재진행형은 be동사 뒤에 동사의 ing형을 써서, 주로 지금 하고 있는 일을 나타내요. be동사는 주어에 맞춰 I에는 am, 3인칭 단수에는 is, you와 복수에는 are를 써요. 부정문은 be동사 뒤에 not을 쓰고, 의문문은 be동사를 주어 앞에 써요. 예를 들어 She isn't drinking milk. 그녀는 우유를 마시고 있지 않아요."
+  },
+  "steps": [
+   {
+    "note": "주어와 be동사의 짝: ② I → am, ③ My sister(3인칭 단수) → is",
+    "highlight": [
+     "I is",
+     "My sister are"
+    ],
+    "strike": [
+     "② I is not sleeping now.",
+     "③ My sister are doing her homework."
+    ],
+    "narration": "첫째, 주어와 be동사의 짝을 보면, 2번 I에는 is가 아니라 am을 쓰고, 3번 My sister는 3인칭 단수라 are가 아니라 is를 써야 해요."
+   },
+   {
+    "note": "부정문의 모양: ④ We not are ✗ → We are not, ① doesn't walking ✗ → isn't walking",
+    "highlight": [
+     "We not are",
+     "doesn't walking"
+    ],
+    "strike": [
+     "④ We not are having lunch.",
+     "① He doesn't walking to school."
+    ],
+    "narration": "둘째, 부정문의 모양을 봐요. 4번은 not을 be동사 뒤에 써서 We are not으로 고치고, 1번은 진행형 부정문이라 doesn't가 아니라 isn't walking으로 써야 해요."
+   },
+   {
+    "note": "남은 ⑤: They(복수) → aren't + playing ✓",
+    "highlight": [
+     "⑤ They aren't playing soccer."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 5번은 복수 주어 They에 aren't를 쓰고 playing을 써서 맞아요. They aren't playing soccer. 그들은 축구를 하고 있지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① He doesn't walking to school.  ✗  진행형 부정은 isn't walking",
+    "② I is not sleeping now.  ✗  주어 I → am",
+    "③ My sister are doing her homework.  ✗  3인칭 단수 My sister → is",
+    "④ We not are having lunch.  ✗  not은 be동사 뒤 → We are not",
+    "⑤ They aren't playing soccer.  ✓  They → aren't + playing"
+   ],
+   "narration": "정답은 5번이에요. 1번은 not과 ing형이 다 있어서 맞아 보여요. 하지만 doesn't 뒤에는 동사원형이 오고, 진행형 부정문은 isn't walking으로 써요. 4번은 We에 맞는 are를 썼지만 not의 자리가 틀렸어요. We are not having lunch. 우리는 점심을 먹고 있지 않아요."
+  },
+  "summary": {
+   "card": "진행형 부정문 = 주어에 맞는 be동사 + not + 동사의 ing형",
+   "narration": "정답은 5번이에요. 기억할 것, 진행형 부정문은 주어에 맞는 be동사 뒤에 not을 쓰고, 동사는 ing형으로 써요."
+  },
+  "captions": [
+   "현재진행형 바른 문장 고르기",
+   "먼저 풀어 보세요",
+   "am/is/are + 동사의 ing형",
+   "주어와 be동사 → 부정문 → ⑤",
+   "정답 ⑤ They aren't playing",
+   "be동사 + not + 동사의 ing형"
+  ],
+  "sec": [
+   10,
+   16,
+   30,
+   38,
+   22,
+   11
+  ]
+ },
+ "D": {
+  "title": "현재진행형 바른 문장 고르기",
+  "intro": "이 문제는 현재진행형의 형태를 바르게 쓴 문장 하나를 고르는 문제예요.",
+  "problem_narration": "다음 중 올바른 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재진행형(…하고 있다) = am/is/are + 동사의 ing형",
+    "I → am · 3인칭 단수(he, she, it) → is · you, 복수 → are",
+    "부정문: be동사 뒤에 not (am not, isn't, aren't)",
+    "의문문: be동사를 주어 앞에",
+    "예) He is reading a book. (그는 책을 읽고 있어요.)"
+   ],
+   "narration": "현재진행형은 be동사 뒤에 동사의 ing형을 써서, 주로 지금 하고 있는 일을 나타내요. be동사는 주어에 맞춰 I에는 am, 3인칭 단수에는 is, you와 복수에는 are를 써요. 부정문은 be동사 뒤에 not을 쓰고, 의문문은 be동사를 주어 앞에 써요. 예를 들어 He is reading a book. 그는 책을 읽고 있어요."
+  },
+  "steps": [
+   {
+    "note": "be동사가 주어와 맞는지, not이 be동사 뒤인지: ⑤ The kids is ✗ → are, ② They not are ✗ → They are not",
+    "highlight": [
+     "The kids is",
+     "They not are"
+    ],
+    "strike": [
+     "⑤ The kids is laughing loudly.",
+     "② They not are sleeping."
+    ],
+    "narration": "첫째, be동사가 주어에 맞는지, not이 be동사 뒤에 있는지 봐요. 5번 The kids는 복수라 are를 쓰고, 2번은 not을 be동사 뒤에 써서 They are not으로 고쳐야 해요."
+   },
+   {
+    "note": "동사가 ing형인지, 철자까지: ④ Are you listen ✗ → listening, ① makeing ✗ → making",
+    "highlight": [
+     "Are you listen",
+     "makeing"
+    ],
+    "strike": [
+     "④ Are you listen to me?",
+     "① Is she makeing a cake?"
+    ],
+    "narration": "둘째, 동사의 ing형과 철자를 보면, 4번은 Are you 뒤에 listen이 아니라 listening을 써야 하고, 1번 make는 e를 빼고 making으로 써요."
+   },
+   {
+    "note": "남은 ③: Mom(3인칭 단수) → is + washing ✓",
+    "highlight": [
+     "③ Mom is washing the dishes."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 3번은 3인칭 단수 주어 Mom에 is를 쓰고 washing을 써서 맞아요. Mom is washing the dishes. 엄마는 설거지를 하고 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Is she makeing a cake?  ✗  make는 e를 빼고 making",
+    "② They not are sleeping.  ✗  not은 be동사 뒤 → They are not",
+    "③ Mom is washing the dishes.  ✓  Mom → is + washing",
+    "④ Are you listen to me?  ✗  Are you 뒤에는 listening",
+    "⑤ The kids is laughing loudly.  ✗  복수 The kids → are"
+   ],
+   "narration": "정답은 3번이에요. 1번은 짜임은 맞고 철자만 틀려서 고르기 쉬우니, 철자까지 꼭 확인해요. 4번은 Are you 뒤에 동사원형 listen을 쓸 수 없어요. 5번은 laughing은 맞지만 The kids에 맞는 are를 써야 해요."
+  },
+  "summary": {
+   "card": "현재진행형 = 주어에 맞는 am/is/are + 동사의 ing형",
+   "narration": "정답은 3번이에요. 기억할 것, 현재진행형은 주어에 맞는 be동사 뒤에 동사의 ing형을 써요."
+  },
+  "captions": [
+   "현재진행형 바른 문장 고르기",
+   "먼저 풀어 보세요",
+   "am/is/are + 동사의 ing형",
+   "be동사·not 자리 → ing형 → ③",
+   "정답 ③ Mom is washing",
+   "주어에 맞는 be동사 + ing형"
+  ],
+  "sec": [
+   10,
+   16,
+   30,
+   38,
+   22,
+   11
+  ]
+ },
+ "E": {
+  "title": "현재진행형 바른 문장 고르기",
+  "intro": "이 문제는 현재진행형의 형태를 바르게 쓴 문장 하나를 고르는 문제예요.",
+  "problem_narration": "다음 중 올바른 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재진행형(…하고 있다) = am/is/are + 동사의 ing형",
+    "I → am · 3인칭 단수(he, she, it) → is · you, 복수 → are",
+    "부정문: be동사 뒤에 not (am not, isn't, aren't)",
+    "의문문: be동사를 주어 앞에",
+    "예) Are they reading books? (그들은 책을 읽고 있나요?)"
+   ],
+   "narration": "현재진행형은 be동사 뒤에 동사의 ing형을 써서, 주로 지금 하고 있는 일을 나타내요. be동사는 주어에 맞춰 I에는 am, 3인칭 단수에는 is, you와 복수에는 are를 써요. 부정문은 be동사 뒤에 not을 쓰고, 의문문은 be동사를 주어 앞에 써요. 예를 들어 Are they reading books? 그들은 책을 읽고 있나요?"
+  },
+  "steps": [
+   {
+    "note": "be동사와 부정문의 모양: ① Tom(3인칭 단수) are ✗ → is, ⑤ doesn't singing ✗ → isn't singing",
+    "highlight": [
+     "Tom are",
+     "doesn't singing"
+    ],
+    "strike": [
+     "① Tom are riding a bike.",
+     "⑤ She doesn't singing."
+    ],
+    "narration": "첫째, be동사와 부정문의 모양을 보면, 1번 Tom은 3인칭 단수라 is를 쓰고, 5번은 진행형 부정문이라 doesn't가 아니라 isn't를 써야 해요."
+   },
+   {
+    "note": "동사가 ing형인지, 철자까지: ③ are eat ✗ → eating, ② runing ✗ → running",
+    "highlight": [
+     "are eat",
+     "runing"
+    ],
+    "strike": [
+     "③ We are eat dinner.",
+     "② He isn't runing now."
+    ],
+    "narration": "둘째, 동사가 ing형인지 철자까지 봐요. 3번은 are 뒤에 eat이 아니라 eating을 써야 하고, 2번 run은 n을 한 번 더 써서 running으로 써요."
+   },
+   {
+    "note": "남은 ④: Is + 주어 the baby + sleeping ✓ (의문문은 주어 뒤에 ing형)",
+    "highlight": [
+     "④ Is the baby sleeping now?"
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 4번은 Is를 주어 the baby 앞에 쓰고, 주어 뒤에 sleeping을 써서 맞아요. Is the baby sleeping now? 아기가 지금 자고 있나요?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Tom are riding a bike.  ✗  3인칭 단수 Tom → is",
+    "② He isn't runing now.  ✗  run은 n을 한 번 더 → running",
+    "③ We are eat dinner.  ✗  are 뒤에는 eating",
+    "④ Is the baby sleeping now?  ✓  Is + 주어 the baby + sleeping",
+    "⑤ She doesn't singing.  ✗  진행형 부정은 isn't singing"
+   ],
+   "narration": "정답은 4번이에요. 의문문에서는 be동사 뒤의 the baby가 주어인데, 3인칭 단수라 Is가 맞아요. 2번은 짜임은 맞고 철자만 틀려서 고르기 쉬우니, 철자까지 꼭 확인해요. 5번은 doesn't 뒤에 동사원형이 와야 해서 singing을 쓸 수 없어요."
+  },
+  "summary": {
+   "card": "진행형 의문문 = 주어에 맞는 be동사 + 주어 + 동사의 ing형 …?",
+   "narration": "정답은 4번이에요. 기억할 것, 진행형 의문문은 주어에 맞는 be동사를 주어 앞에 쓰고, 주어 뒤에 동사의 ing형을 써요."
+  },
+  "captions": [
+   "현재진행형 바른 문장 고르기",
+   "먼저 풀어 보세요",
+   "am/is/are + 동사의 ing형",
+   "be동사·부정문 → ing형 → ④",
+   "정답 ④ Is the baby sleeping",
+   "be동사 + 주어 + ing형 …?"
+  ],
+  "sec": [
+   10,
+   16,
+   30,
+   38,
+   22,
+   11
+  ]
+ },
+ "F": {
+  "title": "현재진행형 바른 문장 고르기",
+  "intro": "이 문제는 현재진행형의 형태를 바르게 쓴 문장 하나를 고르는 문제예요.",
+  "problem_narration": "다음 중 올바른 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재진행형(…하고 있다) = am/is/are + 동사의 ing형",
+    "I → am · 3인칭 단수(he, she, it) → is · you, 복수 → are",
+    "부정문: be동사 뒤에 not (am not, isn't, aren't)",
+    "의문문: be동사를 주어 앞에",
+    "예) Is he reading a book? (그는 책을 읽고 있나요?)"
+   ],
+   "narration": "현재진행형은 be동사 뒤에 동사의 ing형을 써서, 주로 지금 하고 있는 일을 나타내요. be동사는 주어에 맞춰 I에는 am, 3인칭 단수에는 is, you와 복수에는 are를 써요. 부정문은 be동사 뒤에 not을 쓰고, 의문문은 be동사를 주어 앞에 써요. 예를 들어 Is he reading a book? 그는 책을 읽고 있나요?"
+  },
+  "steps": [
+   {
+    "note": "be동사가 주어와 맞는지, not이 be동사 뒤인지: ⑤ You is ✗ → are, ③ My dad not is ✗ → My dad is not",
+    "highlight": [
+     "You is",
+     "My dad not is"
+    ],
+    "strike": [
+     "⑤ You is drawing well.",
+     "③ My dad not is cooking."
+    ],
+    "narration": "첫째, be동사가 주어에 맞는지, not이 be동사 뒤에 있는지 봐요. 5번 You에는 is가 아니라 are를 쓰고, 3번은 not을 be동사 뒤에 써서 My dad is not으로 고쳐야 해요."
+   },
+   {
+    "note": "동사가 ing형인지, 철자까지: ④ Is Jane write ✗ → writing, ② swiming ✗ → swimming",
+    "highlight": [
+     "Is Jane write",
+     "swiming"
+    ],
+    "strike": [
+     "④ Is Jane write a letter?",
+     "② Are they swiming?"
+    ],
+    "narration": "둘째, 동사의 ing형과 철자를 보면, 4번은 Is Jane 뒤에 write가 아니라 writing을 써야 하고, 2번 swim은 m을 한 번 더 써서 swimming으로 써요."
+   },
+   {
+    "note": "남은 ①: I'm = I am → I'm not + wearing ✓",
+    "highlight": [
+     "① I'm not wearing a hat."
+    ],
+    "strike": [],
+    "narration": "셋째, 남은 1번의 I'm은 I am을 줄인 말이라, be동사 뒤에 not을 쓰고 wearing을 써서 맞아요. I'm not wearing a hat. 나는 모자를 쓰고 있지 않아요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I'm not wearing a hat.  ✓  I'm(I am) + not + wearing",
+    "② Are they swiming?  ✗  swim은 m을 한 번 더 → swimming",
+    "③ My dad not is cooking.  ✗  not은 be동사 뒤 → My dad is not",
+    "④ Is Jane write a letter?  ✗  Is Jane 뒤에는 writing",
+    "⑤ You is drawing well.  ✗  주어 You → are"
+   ],
+   "narration": "정답은 1번이에요. 2번은 짜임은 맞고 철자만 틀려서 고르기 쉬우니, 철자까지 꼭 확인해요. 3번은 주어에 맞는 is를 썼지만 not을 is 앞에 두어서 틀렸어요. 4번은 Is Jane 뒤에 동사원형을 쓸 수 없고, write는 e를 빼고 writing으로 써요."
+  },
+  "summary": {
+   "card": "진행형 부정문 = 주어에 맞는 be동사 + not + 동사의 ing형",
+   "narration": "정답은 1번이에요. 기억할 것, 진행형 부정문은 주어에 맞는 be동사 뒤에 not을 쓰고, 동사는 ing형으로 써요."
+  },
+  "captions": [
+   "현재진행형 바른 문장 고르기",
+   "먼저 풀어 보세요",
+   "am/is/are + 동사의 ing형",
+   "be동사·not 자리 → ing형 → ①",
+   "정답 ① I'm not wearing",
+   "be동사 + not + 동사의 ing형"
+  ],
+  "sec": [
+   10,
+   16,
+   30,
+   38,
+   22,
+   11
+  ]
+ }
+}

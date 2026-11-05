@@ -1,0 +1,180 @@
+{
+ "key": "4-23",
+ "type": "B",
+ "grade": 4,
+ "chapter": "CH 3 be동사와 일반동사",
+ "title": "주어와 동사의 수일치 (be동사·일반동사)",
+ "total_sec": 159,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 13,
+   "screen": {
+    "text": "4급 · CH 3 be동사와 일반동사 · 23번 · B 유형\n\n이 문제는 주어가 3인칭 단수인지 복수인지에 맞게 be동사나 일반동사를 쓴 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 3 be동사와 일반동사 · 23번 · B 유형",
+     "이 문제는 주어가 3인칭 단수인지 복수인지에 맞게 be동사나 일반동사를 쓴 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 3, 23번 B 유형. 이 문제는 주어가 3인칭 단수인지 복수인지에 맞게 be동사나 일반동사를 쓴 문장을 고르는 문제예요.",
+   "caption": "주어와 동사의 수일치"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 20,
+   "screen": {
+    "text": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르시오.\n\n① My dog run very fast.\n② The children plays in the park.\n③ The news is interesting.\n④ She don't eat meat.\n⑤ My parents works hard.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르시오.",
+     "① My dog run very fast.",
+     "② The children plays in the park.",
+     "③ The news is interesting.",
+     "④ She don't eat meat.",
+     "⑤ My parents works hard."
+    ]
+   },
+   "narration": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르세요. 다섯 문장의 주어와 동사를 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 45,
+   "screen": {
+    "text": "핵심 규칙\n현재 시제에서는 주어에 맞춰 동사 모양을 정해요.\n3인칭 단수 주어 → be동사 is, 일반동사 + s/es (have → has)\n복수 주어 → be동사 are, 일반동사는 동사원형\n일반동사 부정 → 3인칭 단수 doesn't, 복수 don't + 동사원형\n예) My bag is heavy, but the boxes are light. (내 가방은 무겁지만, 그 상자들은 가벼워요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재 시제에서는 주어에 맞춰 동사 모양을 정해요.",
+     "3인칭 단수 주어 → be동사 is, 일반동사 + s/es (have → has)",
+     "복수 주어 → be동사 are, 일반동사는 동사원형",
+     "일반동사 부정 → 3인칭 단수 doesn't, 복수 don't + 동사원형",
+     "예) My bag is heavy, but the boxes are light. (내 가방은 무겁지만, 그 상자들은 가벼워요.)"
+    ]
+   },
+   "narration": "현재 시제에서는 주어에 맞춰 동사 모양을 정하는데, 이것을 수일치라고 해요. 주어가 he, she, it처럼 I와 you가 아닌 한 사람이나 한 개이면 3인칭 단수라서, be동사는 is를 쓰고, 일반동사에는 s나 es를 붙이며 have는 has로 써요. 주어가 여럿인 복수이면 be동사는 are, 일반동사는 동사원형을 쓰고, 일반동사의 부정은 3인칭 단수면 doesn't, 복수면 don't 뒤에 동사원형을 써요. 예를 들어 My bag is heavy, but the boxes are light. 내 가방은 무겁지만, 그 상자들은 가벼워요.",
+   "caption": "3인칭 단수 is·s/es, 복수 are·원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르시오.\n\n① My dog run very fast.\n② The children plays in the park.\n③ The news is interesting.\n④ She don't eat meat.\n⑤ My parents works hard.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "My dog run",
+       "She don't"
+      ],
+      "strike": [
+       "① My dog run very fast.",
+       "④ She don't eat meat."
+      ],
+      "note": "My dog, She는 3인칭 단수 → runs, doesn't. ①, ④ 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "The children plays",
+       "My parents works"
+      ],
+      "strike": [
+       "② The children plays in the park.",
+       "⑤ My parents works hard."
+      ],
+      "note": "The children(child의 복수형), My parents는 복수 → play, work. ②, ⑤ 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ The news is interesting."
+      ],
+      "strike": [],
+      "note": "news는 s로 끝나도 단수 취급 → is ✓"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 1번 My dog과 4번 She는 3인칭 단수라서, run은 runs로, don't는 doesn't로 써야 해요. 둘째, 2번 The children은 child의 복수형이고 5번 My parents도 복수라서, 동사원형 play와 work를 써야 해요. 셋째, 3번 news는 s로 끝나지만 단수로 보는 명사라서, be동사 is를 바르게 썼어요. The news is interesting. 그 소식은 흥미로워요.",
+   "caption": "주어의 수 → 동사 확인 → news is"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 30,
+   "screen": {
+    "text": "① My dog run very fast.  ✗  My dog은 3인칭 단수 → runs\n② The children plays in the park.  ✗  children은 child의 복수형 → play\n③ The news is interesting.  ✓  news는 단수 취급 → is\n④ She don't eat meat.  ✗  She의 부정 → doesn't eat\n⑤ My parents works hard.  ✗  My parents는 복수 → work",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① My dog run very fast.  ✗  My dog은 3인칭 단수 → runs",
+     "② The children plays in the park.  ✗  children은 child의 복수형 → play",
+     "③ The news is interesting.  ✓  news는 단수 취급 → is",
+     "④ She don't eat meat.  ✗  She의 부정 → doesn't eat",
+     "⑤ My parents works hard.  ✗  My parents는 복수 → work"
+    ]
+   },
+   "narration": "정답은 3번이에요. news는 s로 끝나서 복수처럼 보이지만 단수로 보기 때문에 is가 맞아요. 2번은 children에 s가 없어서 단수처럼 보이지만, 여러 아이를 뜻하는 복수라서 plays가 아니라 play를 써야 해요. 4번은 She 뒤에 don't를 써서 틀렸어요. 3인칭 단수 주어의 부정은 doesn't eat처럼 써요.",
+   "caption": "정답 ③ The news is"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 17,
+   "screen": {
+    "text": "정답 ③ The news is interesting.\n\n3인칭 단수 → is, 일반동사 + s/es (have → has), 복수 → are, 동사원형",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ The news is interesting.",
+     "3인칭 단수 → is, 일반동사 + s/es (have → has), 복수 → are, 동사원형"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 3인칭 단수 주어에는 is를 쓰고 일반동사에 s나 es를 붙이며 have는 has로 써요. 복수 주어에는 be동사 are, 일반동사는 동사원형을 써요.",
+   "caption": "단수 is·s/es, 복수 are·원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "My dog run very fast.",
+   "The children plays in the park.",
+   "The news is interesting.",
+   "She don't eat meat.",
+   "My parents works hard."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 현재 시제에서 3인칭 단수 주어의 일반동사에는 -s/-es를 붙이고(have → has), 복수 주어에는 동사원형을 쓴다. 3인칭 단수 주어의 부정은 doesn't + 동사원형이다.\n풀이 순서: ① 문장마다 주어가 단수인지 복수인지 가른다. → ② 단수 주어면 동사에 -(e)s(부정은 doesn't), 복수 주어면 동사원형(부정은 don't)인지 본다. → ③ 선택지 ③만 단수 취급하는 news에 is를 써서 맞다. 정답은 ③.\n문장별 판정:\n정답 판단: 단수 취급하는 news에 is를 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 3인칭 단수 주어 My dog에는 runs를 쓰므로 오답이다.\n② [오답] 복수 주어 The children에는 play를 쓰므로 오답이다.\n③ [정답] 단수 취급하는 news에 is를 바르게 썼으므로 정답이다.\n④ [오답] 3인칭 단수 주어 She의 부정은 doesn't이므로 오답이다.\n⑤ [오답] 복수 주어 My parents에는 work를 쓰므로 오답이다."
+ }
+}

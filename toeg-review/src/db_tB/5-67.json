@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:04:23.429Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "He is sitting on the four chair.",
+      "1": "He is sitting on the fourth chair.",
+      "2": "He is sitting on the forth chair.",
+      "3": "He is sitting on the four's chair.",
+      "4": "He is sitting on the fourd chair."
+    },
+    "expl": "핵심 규칙: ‘~ 번째’는 서수로 나타낸다(first, second, third, fourth, fifth, ninth). 기수를 쓰거나 ’s·-th·-d를 잘못 붙이지 않도록 한다.\n풀이 순서: ① 우리말에서 ‘~ 번째’를 찾는다: 네 번째. 서수가 필요하다. → ② 그 서수의 바른 철자는 fourth(u가 들어간다). → ③ 기수를 그대로 쓴 것과 철자를 잘못 만든 것을 지운다. 정답은 ②.\n문장별 판정:\n정답 판단: ‘네 번째’를 서수 fourth로 바르게 나타냈으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 기수(four)로는 ‘~ 번째’를 나타낼 수 없으므로 오답이다.\n② [정답] ‘네 번째’를 서수 fourth로 바르게 나타냈으므로 정답이다.\n③ [오답] four의 서수는 u가 있는 fourth이고 forth는 ‘앞으로’라는 다른 말이므로 오답이다.\n④ [오답] ’s를 붙여도 서수가 되지 않으므로 오답이다.\n⑤ [오답] fourd라는 말은 없고 서수는 fourth이므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 우리말 '그는 네 번째 의자에 앉아 있다'를 영어로 바르게 옮긴 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T08:04:22.527Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T08:04:23.429Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T08:04:23.429Z",
+      "what": "확인 완료"
+    }
+  }
+}

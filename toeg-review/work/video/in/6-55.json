@@ -1,0 +1,86 @@
+{
+ "key": "6-55",
+ "grade": 6,
+ "chapter": "CH 6 의문사 의문문",
+ "items": {
+  "A": {
+   "stem": "다음 대화 중 밑줄 친 부분의 쓰임이 어색한 것은?",
+   "passage": "",
+   "c": [
+    "A: What <u>day</u> is it? B: It's Sunday.",
+    "A: What <u>date</u> is it? B: It's June 15th.",
+    "A: What <u>time</u> is it? B: It's 12:00.",
+    "A: What <u>day</u> is it? B: It's December 25th.",
+    "A: What <u>date</u> is it? B: It's August 3rd."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: What day는 요일, What date는 날짜, What time은 시각을 묻는다. month는 달, year는 연도, season은 계절이다.\n풀이 순서: ① 밑줄 친 낱말이 무엇을 묻는지 적는다(day 요일, date 날짜, time 시각, month 달, year 연도, season 계절). → ② 대답이 같은 종류인지 견준다. → ③ 선택지 ④는 요일을 묻는데 날짜로 답했다. 정답은 ④.\n문장별 판정:\n정답 판단: day는 요일을 묻는데 날짜(December 25th)로 답했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 요일을 묻고 요일로 답했으므로 오답이다.\n② [오답] 날짜를 묻고 날짜로 답했으므로 오답이다.\n③ [오답] 시각을 묻고 시각으로 답했으므로 오답이다.\n④ [정답] day는 요일을 묻는데 날짜(December 25th)로 답했으므로 정답이다.\n⑤ [오답] 날짜를 묻고 날짜로 답했으므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 대화 중 밑줄 친 부분의 쓰임이 어색한 것은?",
+   "passage": "",
+   "c": [
+    "A: What <u>time</u> does the movie start? B: At seven.",
+    "A: What <u>day</u> is your piano lesson? B: It's on Monday.",
+    "A: What <u>date</u> is your birthday? B: It's May 5th.",
+    "A: What <u>month</u> is it now? B: It's Tuesday.",
+    "A: What <u>year</u> did you move here? B: In 2020."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: What day는 요일, What date는 날짜, What time은 시각, What month는 달, What year는 연도, What season은 계절을 묻는다.\n풀이 순서: ① 밑줄 친 낱말이 무엇을 묻는지 적는다(day 요일, date 날짜, time 시각, month 달, year 연도, season 계절). → ② 대답이 같은 종류인지 견준다. → ③ 선택지 ④는 달을 묻는데 요일(Tuesday)로 답했다. 정답은 ④.\n문장별 판정:\n정답 판단: What month는 달을 묻는데 요일로 답했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] What time으로 시각을 묻고 알맞게 답했으므로 오답이다.\n② [오답] What day로 요일을 묻고 알맞게 답했으므로 오답이다.\n③ [오답] What date로 날짜를 묻고 알맞게 답했으므로 오답이다.\n④ [정답] What month는 달을 묻는데 요일로 답했으므로 정답이다.\n⑤ [오답] What year로 연도를 묻고 알맞게 답했으므로 오답이다."
+  },
+  "C": {
+   "stem": "다음 대화 중 밑줄 친 부분의 쓰임이 어색한 것은?",
+   "passage": "",
+   "c": [
+    "A: What <u>date</u> is the school festival? B: It's Friday.",
+    "A: What <u>time</u> do you get up? B: At half past six.",
+    "A: What <u>day</u> do you play soccer? B: On Wednesdays.",
+    "A: What <u>season</u> do you like? B: I like summer.",
+    "A: What <u>month</u> does school start? B: In March."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: What day는 요일, What date는 날짜, What time은 시각, What month는 달, What year는 연도, What season은 계절을 묻는다.\n풀이 순서: ① 밑줄 친 낱말이 무엇을 묻는지 적는다(day 요일, date 날짜, time 시각, month 달, year 연도, season 계절). → ② 대답이 같은 종류인지 견준다. → ③ 선택지 ①은 날짜를 묻는데 요일(Friday)로 답했다. 정답은 ①.\n문장별 판정:\n정답 판단: What date는 날짜를 묻는데 요일로 답했으므로 정답은 ①이다.\n선택지 분석:\n① [정답] What date는 날짜를 묻는데 요일로 답했으므로 정답이다.\n② [오답] What time으로 시각을 묻고 알맞게 답했으므로 오답이다.\n③ [오답] What day로 요일을 묻고 알맞게 답했으므로 오답이다.\n④ [오답] What season으로 계절을 묻고 알맞게 답했으므로 오답이다.\n⑤ [오답] What month로 달을 묻고 알맞게 답했으므로 오답이다."
+  },
+  "D": {
+   "stem": "다음 대화 중 밑줄 친 부분의 쓰임이 어색한 것은?",
+   "passage": "",
+   "c": [
+    "A: What <u>day</u> comes after Sunday? B: Monday comes after Sunday.",
+    "A: What <u>year</u> was your sister born in? B: In 2012.",
+    "A: What <u>time</u> does the store close? B: It closes on Monday.",
+    "A: What <u>date</u> is Christmas? B: It's December 25th.",
+    "A: What <u>season</u> is it in Korea now? B: It's winter."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: What day는 요일, What date는 날짜, What time은 시각, What month는 달, What year는 연도, What season은 계절을 묻는다.\n풀이 순서: ① 밑줄 친 낱말이 무엇을 묻는지 적는다(day 요일, date 날짜, time 시각, month 달, year 연도, season 계절). → ② 대답이 같은 종류인지 견준다. → ③ 선택지 ③은 시각을 묻는데 요일(on Monday)로 답했다. 정답은 ③.\n문장별 판정:\n정답 판단: What time은 시각을 묻는데 요일로 답했으므로 정답은 ③이다.\n선택지 분석:\n① [오답] What day로 요일을 묻고 알맞게 답했으므로 오답이다.\n② [오답] What year로 연도를 묻고 알맞게 답했으므로 오답이다.\n③ [정답] What time은 시각을 묻는데 요일로 답했으므로 정답이다.\n④ [오답] What date로 날짜를 묻고 알맞게 답했으므로 오답이다.\n⑤ [오답] What season으로 계절을 묻고 알맞게 답했으므로 오답이다."
+  },
+  "E": {
+   "stem": "다음 대화 중 밑줄 친 부분의 쓰임이 어색한 것은?",
+   "passage": "",
+   "c": [
+    "A: What <u>month</u> is your birthday in? B: It's in October.",
+    "A: What <u>date</u> is the concert? B: It's June 1st.",
+    "A: What <u>time</u> is lunch? B: It's at 12:30.",
+    "A: What <u>day</u> is it today? B: It's Sunday.",
+    "A: What <u>season</u> comes after spring? B: It's 10 o'clock."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: What day는 요일, What date는 날짜, What time은 시각, What month는 달, What year는 연도, What season은 계절을 묻는다.\n풀이 순서: ① 밑줄 친 낱말이 무엇을 묻는지 적는다(day 요일, date 날짜, time 시각, month 달, year 연도, season 계절). → ② 대답이 같은 종류인지 견준다. → ③ 선택지 ⑤는 계절을 묻는데 시각(10 o'clock)으로 답했다. 정답은 ⑤.\n문장별 판정:\n정답 판단: What season은 계절을 묻는데 시각으로 답했으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] What month로 달을 묻고 알맞게 답했으므로 오답이다.\n② [오답] What date로 날짜를 묻고 알맞게 답했으므로 오답이다.\n③ [오답] What time으로 시각을 묻고 알맞게 답했으므로 오답이다.\n④ [오답] What day로 요일을 묻고 알맞게 답했으므로 오답이다.\n⑤ [정답] What season은 계절을 묻는데 시각으로 답했으므로 정답이다."
+  },
+  "F": {
+   "stem": "다음 대화 중 밑줄 친 부분의 쓰임이 어색한 것은?",
+   "passage": "",
+   "c": [
+    "A: What <u>time</u> is the meeting? B: It's at noon.",
+    "A: What <u>year</u> did you start school? B: In March.",
+    "A: What <u>date</u> is Halloween? B: It's October 31st.",
+    "A: What <u>day</u> do you go swimming? B: On Saturdays.",
+    "A: What <u>month</u> do leaves turn red? B: In October."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: What day는 요일, What date는 날짜, What time은 시각, What month는 달, What year는 연도, What season은 계절을 묻는다.\n풀이 순서: ① 밑줄 친 낱말이 무엇을 묻는지 적는다(day 요일, date 날짜, time 시각, month 달, year 연도, season 계절). → ② 대답이 같은 종류인지 견준다. → ③ 선택지 ②는 연도를 묻는데 달(In March)로 답했다. 정답은 ②.\n문장별 판정:\n정답 판단: What year는 연도를 묻는데 달로 답했으므로 정답은 ②이다.\n선택지 분석:\n① [오답] What time으로 시각을 묻고 알맞게 답했으므로 오답이다.\n② [정답] What year는 연도를 묻는데 달로 답했으므로 정답이다.\n③ [오답] What date로 날짜를 묻고 알맞게 답했으므로 오답이다.\n④ [오답] What day로 요일을 묻고 알맞게 답했으므로 오답이다.\n⑤ [오답] What month로 달을 묻고 알맞게 답했으므로 오답이다."
+  }
+ },
+ "prior_review": {}
+}

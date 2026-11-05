@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T04:12:36.471Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "the cats - they",
+      "1": "Ms. Lee - she",
+      "2": "my friend and I - we",
+      "3": null,
+      "4": "the boy - he"
+    },
+    "expl": "핵심 규칙: 사람·사물을 대신할 때 나를 포함한 여럿은 we, 너를 포함한 여럿(나 제외)은 you, 그 밖의 여럿은 they, 남자 한 명은 he, 여자 한 명은 she, 사물·동물 하나는 it으로 받는다.\n풀이 순서: ① 짝마다 왼쪽 말에 I(나)가 들어 있는지 먼저 본다. 있으면 we다. → ② I가 없고 you가 있으면 you, 둘 다 없으면 수와 성별로 he/she/it/they를 정한다. → ③ my parents는 두 사람이라 they다. 정답은 ④.\n문장별 판정:\n정답 판단: my parents: 두 사람이라 they로 받아야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] the cats: 여럿이라 they로 바르게 받았으므로 오답이다.\n② [오답] Ms. Lee: 여자 한 명이라 she로 바르게 받았으므로 오답이다.\n③ [오답] my friend and I: 나를 포함한 여럿이라 we로 바르게 받았으므로 오답이다.\n④ [정답] my parents: 두 사람이라 they로 받아야 하므로 정답이다.\n⑤ [오답] the boy: 남자 한 명이라 he로 바르게 받았으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T04:12:34.335Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T04:12:36.471Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T04:12:36.471Z",
+      "what": "확인 완료"
+    }
+  }
+}

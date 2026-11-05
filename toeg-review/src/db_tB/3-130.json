@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T09:25:09.569Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "㉠, ㉡",
+      "1": "㉡, ㉢",
+      "2": "㉡, ㉣",
+      "3": "㉠, ㉣",
+      "4": "㉢, ㉣"
+    },
+    "expl": "핵심 규칙: that절이 문장의 주어로 쓰이면 단수 동사를 쓴다. that절 안은 주어 + 동사의 평서문 어순이며, 가주어 It을 두고 that절을 뒤로 보낼 수 있다.\n풀이 순서: ① that절이 주어인 문장은 문장의 동사가 단수인지 본다. → ② that절 안이 ‘주어 + 동사’ 어순인지, 그 안의 동사가 주어와 맞는지 본다. → ③ ㄱ은 are(is), ㄹ은 he are(he is)가 틀렸다. 옳은 문장만 고른 ㉠, ㉣가 정답이다.\n문장별 판정:\n㉠ O. 가주어 It + 진주어 that절이다.\n㉡ X. that절 주어는 단수 취급하므로 makes를 쓴다.\n㉢ X. that절 안은 주어 + 동사 어순이라 that she is right로 쓴다.\n㉣ O. that절 주어 + 단수 동사 is이다.\n정답 판단: 어법상 옳은 문장은 ㉠, ㉣이다.\n선택지 분석:\n① [오답] ㉡는 옳은 문장이 아니고, 옳은 문장 ㉣를 빠뜨렸다. 따라서 오답이다.\n② [오답] ㉡, ㉢는 옳은 문장이 아니고, 옳은 문장 ㉠, ㉣를 빠뜨렸다. 따라서 오답이다.\n③ [오답] ㉡는 옳은 문장이 아니고, 옳은 문장 ㉠를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 ㉠, ㉣를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] ㉢는 옳은 문장이 아니고, 옳은 문장 ㉠를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "㉠ It is certain that she will win.\n㉡ That the students are late make the teacher angry.\n㉢ I think that is she right.\n㉣ That he told the truth is clear.",
+    "stem": "다음 중 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:25:09.014Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T09:25:09.569Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:25:09.569Z",
+      "what": "확인 완료"
+    }
+  }
+}

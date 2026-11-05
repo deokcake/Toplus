@@ -1,0 +1,180 @@
+{
+ "key": "6-18",
+ "type": "B",
+ "grade": 6,
+ "chapter": "CH 2 대명사와 be동사",
+ "title": "주어에 맞는 be동사 의문문",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "6급 · CH 2 대명사와 be동사 · 18번 · B 유형\n\n이 문제는 be동사 의문문 다섯 개 가운데 be동사가 주어와 맞지 않는 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 2 대명사와 be동사 · 18번 · B 유형",
+     "이 문제는 be동사 의문문 다섯 개 가운데 be동사가 주어와 맞지 않는 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 2, 18번 B 유형. 이 문제는 be동사 의문문 다섯 개 가운데 be동사가 주어와 맞지 않는 문장을 고르는 문제예요.",
+   "caption": "be동사 의문문의 형태"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 의문문의 형태가 문법상 올바르지 않은 것을 고르세요.\n\n① Are those windows open?\n② Is your cousin at home?\n③ Are the students ready?\n④ Are the puppy hungry?\n⑤ Am I in the right room?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 의문문의 형태가 문법상 올바르지 않은 것을 고르세요.",
+     "① Are those windows open?",
+     "② Is your cousin at home?",
+     "③ Are the students ready?",
+     "④ Are the puppy hungry?",
+     "⑤ Am I in the right room?"
+    ]
+   },
+   "narration": "다음 중 의문문의 형태가 문법상 올바르지 않은 것을 고르세요. 다섯 개의 의문문을 하나씩 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 의문문: be동사 + 주어 ~? (무엇이니? 어떠하니? 어디에 있니?)\nbe동사는 바로 뒤의 주어에 맞춰요\nI → Am · you(한 명이어도), we, they, 여럿 → Are\nhe, she, it처럼 나도 너도 아닌 하나 → Is\n예) Is the bird small? (그 새는 작니?)  Are the birds small? (그 새들은 작니?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 의문문: be동사 + 주어 ~? (무엇이니? 어떠하니? 어디에 있니?)",
+     "be동사는 바로 뒤의 주어에 맞춰요",
+     "I → Am · you(한 명이어도), we, they, 여럿 → Are",
+     "he, she, it처럼 나도 너도 아닌 하나 → Is",
+     "예) Is the bird small? (그 새는 작니?)  Are the birds small? (그 새들은 작니?)"
+    ]
+   },
+   "narration": "be동사 의문문은 be동사를 주어 앞에 쓰고 끝에 물음표를 붙여서, 무엇이니, 어떠하니, 어디에 있니 하고 묻는 말이에요. 이때 be동사는 바로 뒤에 오는 주어에 맞춰 골라요. Am은 주어가 I일 때만 쓰고, you, we, they나 여럿이면 Are, he, she, it처럼 나도 너도 아닌 하나이면 Is를 써요. Is the bird small? 그 새는 작니? Are the birds small? 그 새들은 작니?",
+   "caption": "be동사는 뒤 주어에 맞춰요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 중 의문문의 형태가 문법상 올바르지 않은 것을 고르세요.\n\n① Are those windows open?\n② Is your cousin at home?\n③ Are the students ready?\n④ Are the puppy hungry?\n⑤ Am I in the right room?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "① Are those windows",
+       "② Is your cousin",
+       "③ Are the students",
+       "④ Are the puppy",
+       "⑤ Am I"
+      ],
+      "strike": [],
+      "note": "be동사 바로 뒤 주어 찾기: those windows, your cousin, the students, the puppy, I"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① Are those windows open?",
+       "③ Are the students ready?",
+       "⑤ Am I in the right room?"
+      ],
+      "note": "I → Am, those windows·the students = 여럿 → Are → ①③⑤ 바름"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ Are the puppy hungry?"
+      ],
+      "strike": [
+       "② Is your cousin at home?"
+      ],
+      "note": "your cousin = 한 사람 → Is ✓ / the puppy = 강아지 한 마리 → Are ✗ → Is"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 맨 앞의 be동사와 바로 뒤의 주어를 찾아요. 주어는 those windows, your cousin, the students, the puppy, I예요. 둘째, I에는 Am, 여럿인 those windows와 the students에는 Are를 쓰니 1번, 3번, 5번은 바르게 썼어요. 셋째, your cousin은 사촌 한 사람이라 Is가 맞지만, the puppy는 강아지 한 마리라 Are가 아니라 Is를 써야 해요. Is the puppy hungry? 그 강아지는 배고프니?",
+   "caption": "주어 찾기 → I·여럿 → 하나"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① Are those windows open?  ✗  those windows는 여럿 → Are 맞아요\n② Is your cousin at home?  ✗  your cousin은 한 사람 → Is 맞아요\n③ Are the students ready?  ✗  the students는 여럿 → Are 맞아요\n④ Are the puppy hungry?  ✓  the puppy는 한 마리 → Is로 고쳐야 해요\n⑤ Am I in the right room?  ✗  I에는 Am 맞아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Are those windows open?  ✗  those windows는 여럿 → Are 맞아요",
+     "② Is your cousin at home?  ✗  your cousin은 한 사람 → Is 맞아요",
+     "③ Are the students ready?  ✗  the students는 여럿 → Are 맞아요",
+     "④ Are the puppy hungry?  ✓  the puppy는 한 마리 → Is로 고쳐야 해요",
+     "⑤ Am I in the right room?  ✗  I에는 Am 맞아요"
+    ]
+   },
+   "narration": "정답은 4번이에요. the puppy는 강아지 한 마리라 Are를 Is로 고쳐야 해요. 5번 Am은 낯설어 보여도, 주어가 I이면 Am을 쓰니까 바른 문장이에요. 2번은 your가 있어서 Are를 떠올리기 쉽지만, 주어 your cousin은 사촌 한 사람이라 Is가 맞아요. 1번 those windows는 저 창문들, 여럿이라 Are가 맞아요.",
+   "caption": "정답 ④ Are → Is"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ④ Are the puppy hungry?\n\nbe동사 의문문: I → Am · you, we, they, 여럿 → Are · he, she, it, 하나 → Is",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ Are the puppy hungry?",
+     "be동사 의문문: I → Am · you, we, they, 여럿 → Are · he, she, it, 하나 → Is"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, be동사 의문문에서 be동사는 바로 뒤의 주어에 맞춰요. I에는 Am, you, we, they나 여럿에는 Are, he, she, it처럼 나도 너도 아닌 하나에는 Is를 써요.",
+   "caption": "I는 Am · 여럿은 Are · 하나는 Is"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 의문문의 형태가 문법상 올바르지 않은 것을 고르세요.",
+  "passage": "",
+  "c": [
+   "Are those windows open?",
+   "Is your cousin at home?",
+   "Are the students ready?",
+   "Are the puppy hungry?",
+   "Am I in the right room?"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: be동사는 주어에 맞춰 고른다. 의문문에서는 주어 앞, 부정문의 not은 be동사 뒤에 놓는다.\n풀이 순서: ① be동사 바로 뒤의 주어를 본다. -s가 붙은 복수 명사인지, 한 사람·한 개인지 가른다. → ② 맨 앞의 be동사가 그 주어와 맞는지 본다. → ③ 선택지 ④의 the puppy는 단수라 Is다. 정답은 ④.\n문장별 판정:\n정답 판단: 주어 the puppy에 맞는 현재형 be동사는 is이다 (3인칭 단수). Are를 Is로 고쳐야 한다. 따라서 발문에서 찾는 잘못된 표현·설명에 해당한다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] 주어 those windows에 맞는 현재형 be동사는 are이다 (3인칭 복수). be동사를 주어 앞에 둔 의문문 어순도 맞다. 따라서 발문에서 찾는 잘못된 표현·설명은 아니다.\n② [오답] 주어 your cousin에 맞는 현재형 be동사는 is이다 (3인칭 단수). be동사를 주어 앞에 둔 의문문 어순도 맞다. 따라서 발문에서 찾는 잘못된 표현·설명은 아니다.\n③ [오답] 주어 the students에 맞는 현재형 be동사는 are이다 (3인칭 복수). be동사를 주어 앞에 둔 의문문 어순도 맞다. 따라서 발문에서 찾는 잘못된 표현·설명은 아니다.\n④ [정답] 주어 the puppy에 맞는 현재형 be동사는 is이다 (3인칭 단수). Are를 Is로 고쳐야 한다. 따라서 발문에서 찾는 잘못된 표현·설명에 해당한다.\n⑤ [오답] 주어 I에 맞는 현재형 be동사는 am이다 (1인칭 단수). be동사를 주어 앞에 둔 의문문 어순도 맞다. 따라서 발문에서 찾는 잘못된 표현·설명은 아니다."
+ }
+}

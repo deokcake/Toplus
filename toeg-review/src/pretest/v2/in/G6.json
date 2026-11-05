@@ -1,0 +1,1024 @@
+[
+ {
+  "key": "6-1",
+  "grade": 6,
+  "no": 1,
+  "chapter": "CH 1",
+  "chapter_name": "명사와 관사",
+  "ref": {
+   "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "baby - babies",
+    "dish - dishes",
+    "wolf - wolves",
+    "foot - foots",
+    "sheep - sheep"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 복수형 규칙: 자음 + y → -ies(babies), s·x·sh·ch → -es(dishes), f/fe → -ves(wolves). foot - feet, child - children처럼 불규칙형과 sheep처럼 단수·복수가 같은 명사도 있다.\n풀이 순서: ① 규칙대로 변하는 짝(-s, -es, -ies, -ves)을 먼저 확인한다. → ② 남은 짝은 불규칙 명사다. 불규칙 명사에 -s를 붙인 것을 찾는다. → ③ foot의 복수형은 feet이다. 정답은 ④.\n문장별 판정:\n정답 판단: foot의 복수형은 불규칙형 feet이므로 정답은 ④이다.\n선택지 분석:\n① [오답] 자음 + y라 y를 i로 바꾸고 -es를 붙인 옳은 형태이므로 오답이다.\n② [오답] sh로 끝나 -es를 붙인 옳은 형태이므로 오답이다.\n③ [오답] f를 v로 바꾸고 -es를 붙인 옳은 형태이므로 오답이다.\n④ [정답] foot의 복수형은 불규칙형 feet이므로 정답이다.\n⑤ [오답] sheep은 단수와 복수가 같으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "woman - women",
+     "box - boxes",
+     "foot - feet",
+     "child - childs",
+     "book - books"
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "woman - women",
+     "class - classes",
+     "man - men",
+     "tooth - tooths",
+     "watch - watches"
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "woman - womans",
+     "potato - potatoes",
+     "knife - knives",
+     "deer - deer",
+     "hero - heroes"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "child - children",
+     "mouse - mice",
+     "bus - buses",
+     "lady - ladies",
+     "man - mans"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "city - cities",
+     "box - boxes",
+     "tooth - teeth",
+     "goose - geese",
+     "mouse - mouses"
+    ],
+    "ans": 5
+   }
+  },
+  "target_answer_position": 5,
+  "v1_pretest": {
+   "stem": "다음 <보기>에서 명사의 단수형과 복수형이 잘못 짝지어진 것을 모두 고른 것은?",
+   "passage": "<보기>\nⓐ leaf - leaves\nⓑ person - people\nⓒ snowman - snowmans\nⓓ tomato - tomatoes\nⓔ deer - deers",
+   "c": [
+    "ⓐ, ⓒ",
+    "ⓐ, ⓔ",
+    "ⓑ, ⓓ",
+    "ⓑ, ⓔ",
+    "ⓒ, ⓔ"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 복수형은 대부분 -s를 붙이지만, f로 끝나면 f를 v로 바꾸고 -es를(leaves), 자음 + o로 끝나면 -es를(tomatoes) 붙인다. man - men, person - people처럼 모양이 바뀌는 명사(man으로 끝나는 snowman도 snowmen)와 deer처럼 단수·복수가 같은 명사에는 -s를 붙이지 않는다.\n풀이 순서: ① 규칙대로 변하는 짝(-ves, -es)을 먼저 확인한다: ⓐ, ⓓ는 옳다. → ② 남은 짝은 불규칙 명사다. 모양이 바뀌는 명사나 단수·복수가 같은 명사에 -s를 붙인 것을 찾는다. → ③ man으로 끝나는 snowman에 -s를 붙인 ⓒ와 deer에 -s를 붙인 ⓔ가 틀렸다. 정답은 ⑤.\n문장별 판정:\nⓐ O. leaf는 f로 끝나 f를 v로 바꾸고 -es를 붙이므로 leaves가 옳다.\nⓑ O. person의 복수형은 불규칙형 people이다.\nⓒ X. snowman은 man으로 끝나므로 man - men처럼 snowmen으로 써야 한다. -s를 붙인 snowmans는 틀렸다.\nⓓ O. tomato는 자음 + o로 끝나 -es를 붙이므로 tomatoes가 옳다.\nⓔ X. deer는 단수와 복수가 같으므로 deers가 아니라 deer로 써야 한다.\n정답 판단: 잘못 짝지어진 것은 snowmans를 쓴 ⓒ와 deers를 쓴 ⓔ이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] ⓐ의 leaves는 f를 v로 바꾸고 -es를 붙인 옳은 형태이고, 틀린 ⓔ가 빠졌으므로 오답이다.\n② [오답] ⓐ의 leaves는 옳은 형태이고, snowman에 -s를 붙인 틀린 ⓒ가 빠졌으므로 오답이다.\n③ [오답] ⓑ의 people은 person의 옳은 복수형이고, ⓓ의 tomatoes도 자음 + o에 -es를 붙인 옳은 형태이므로 오답이다.\n④ [오답] ⓑ의 people은 person의 옳은 불규칙 복수형이고, 틀린 ⓒ가 빠졌으므로 오답이다.\n⑤ [정답] ⓒ의 snowmans(→ snowmen)와 ⓔ의 deers(→ deer)는 모두 잘못된 복수형이므로 정답이다.",
+   "new_format": "<보기>의 단수형-복수형 짝 ⓐ~ⓔ 중 잘못 짝지어진 것을 모두 고른 조합 고르기",
+   "design": "원문항처럼 모양이 바뀌는 불규칙 명사와 단수·복수가 같은 명사에 -s를 붙이는 오류를 평가한다: man으로 끝나는 snowman에 -s를 붙인 snowmans와 deer에 -s를 붙인 deers가 틀린 짝이고, 규칙 변화(-ves, 자음 + o의 -es)와 불규칙형 person - people은 옳은 짝으로 섞었다. 하나 고르기를 <보기> 조합형으로 바꾸어 다섯 짝을 모두 판단하게 했고, 틀린 짝 하나는 B~F에 없는 초등 4학년 낱말 snowman으로 만들어 man - men 규칙을 새 낱말에 적용하게 했다. 오답 조합은 leaves·people·tomatoes처럼 낯설어 보이는 옳은 형태를 틀렸다고 보는 실수로 설계했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 10/10 글자 65/54 정답 5",
+   "ERR  원문항이 조합형이 아닌데 조합 고르기 형식 — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "6-12",
+  "grade": 6,
+  "no": 12,
+  "chapter": "CH 2",
+  "chapter_name": "대명사와 be동사",
+  "ref": {
+   "stem": "다음 빈칸에 현재형 be동사가 들어갈 때, 나머지와 다른 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "You _______ very kind.",
+    "They _______ my books.",
+    "It _______ on the desk.",
+    "We _______ busy.",
+    "I and my mother _____ cooking."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 현재형 be동사: I am / he, she, it, 단수 주어 is / you, we, they, 복수 주어(A and B) are.\n풀이 순서: ① 문장마다 주어의 인칭과 수를 가른다. A and B는 복수다. → ② 빈칸에 am/is/are를 넣어 본다. → ③ 선택지 ③만 is이고 나머지는 are다. 정답은 ③.\n문장별 판정:\n정답 판단: It에는 is가 들어가 나머지(are)와 다르므로 정답은 ③이다.\n선택지 분석:\n① [오답] You에는 are가 들어가므로 오답이다.\n② [오답] They에는 are가 들어가므로 오답이다.\n③ [정답] It에는 is가 들어가 나머지(are)와 다르므로 정답이다.\n④ [오답] We에는 are가 들어가므로 오답이다.\n⑤ [오답] I and my mother는 두 사람이라 are가 들어가므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 현재형 be동사가 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The children _______ in the garden.",
+     "My shoes _______ too small.",
+     "Mr. Brown _______ our new teacher.",
+     "Jiho and his dog _______ good friends.",
+     "You and Tom _______ late again."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 빈칸에 현재형 be동사가 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The water _______ very cold.",
+     "Your idea _______ great.",
+     "This bag _______ heavy.",
+     "Mina and Sumi _______ twins.",
+     "My room _______ clean."
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 빈칸에 현재형 be동사가 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "I _______ hungry now.",
+     "Tom and I _______ classmates.",
+     "The cookies _______ sweet.",
+     "Those boys _______ tall.",
+     "You _______ my best friend."
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 빈칸에 현재형 be동사가 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The weather _______ nice today.",
+     "He _______ at the library.",
+     "My phone _______ in my bag.",
+     "The movie _______ really funny.",
+     "Your glasses _______ on the table."
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 빈칸에 현재형 be동사가 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "We _______ in the same class.",
+     "The baby _______ asleep.",
+     "The pens _______ in the box.",
+     "My father and mother _______ doctors.",
+     "They _______ from Canada."
+    ],
+    "ans": 2
+   }
+  },
+  "target_answer_position": 5,
+  "v1_pretest": {
+   "stem": "다음 대화의 빈칸 (A), (B), (C)에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+   "passage": "Sora: Hello! You (A)_______ in my class, right?\nBen: Yes. My sister and I (B)_______ new at this school. We come from Canada.\nSora: Welcome! Our teacher (C)_______ very kind and funny.",
+   "c": [
+    "(A) is - (B) am - (C) are",
+    "(A) are - (B) am - (C) is",
+    "(A) is - (B) are - (C) are",
+    "(A) are - (B) are - (C) are",
+    "(A) are - (B) are - (C) is"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 현재형 be동사는 주어에 맞춘다: I는 am, he·she·it·단수 주어는 is, you·we·they·복수 주어는 are. 한 사람에게 말하는 you에도 are를 쓰고, ‘A and I’처럼 and로 묶은 주어는 복수이므로 are를 쓴다.\n풀이 순서: ① 빈칸마다 주어를 찾는다: (A) You, (B) My sister and I, (C) Our teacher. → ② 주어의 인칭과 수를 가른다: You는 늘 are, My sister and I는 두 사람이라 복수, Our teacher는 선생님 한 명이라 3인칭 단수다. → ③ (A) are, (B) are, (C) is를 고른다. 정답은 ⑤.\n문장별 판정:\n정답 판단: (A) You에 are, (B) 복수 주어 My sister and I에 are, (C) 3인칭 단수 주어 Our teacher에 is를 바르게 짝지었으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] (A): You에는 is가 아니라 are를, (B): My sister and I에는 am이 아니라 are를, (C): Our teacher에는 are가 아니라 is를 써야 하므로 오답이다.\n② [오답] (B): 주어는 I 혼자가 아니라 두 사람을 묶은 My sister and I라 am이 아니라 are를 써야 하므로 오답이다.\n③ [오답] (A): 한 사람에게 말해도 You에는 are를 쓰고, (C): Our teacher는 한 명이라 is를 써야 하므로 오답이다.\n④ [오답] (C): Our가 붙어도 주어는 선생님 한 명(3인칭 단수)이라 are가 아니라 is를 써야 하므로 오답이다.\n⑤ [정답] (A) You에 are, (B) 복수 주어 My sister and I에 are, (C) 3인칭 단수 주어 Our teacher에 is를 바르게 짝지었으므로 정답이다.",
+   "new_format": "대화의 세 빈칸 (A)·(B)·(C)에 들어갈 현재형 be동사의 짝 고르기",
+   "design": "원문항처럼 주어의 인칭과 수에 따른 현재형 be동사(am/is/are) 선택을 평가하며, and로 묶은 주어(My sister and I)와 you를 핵심 함정으로 두었다. 나머지와 다른 것 고르기를 대화 속 세 빈칸의 짝 고르기로 바꾸었고, 칸마다 보기에 가장 많이 나온 말을 고르면 오답 ④(are - are - are)가 되도록 짝을 배치해 찍기 단서를 줄였다. 오답은 I만 보고 am을, 한 사람인 you에 is를, Our를 보고 복수로 착각해 are를 쓰는 실수로 만들었다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 44/17 글자 164/58 정답 5",
+   "ERR  원문항보다 너무 김: 낱말 44 > 상한 25 (원문항 17) — 난이도가 올라감",
+   "ERR  빈칸 3개 짝 고르기 — 원문항보다 판단할 곳이 많음"
+  ]
+ },
+ {
+  "key": "6-23",
+  "grade": 6,
+  "no": 23,
+  "chapter": "CH 3",
+  "chapter_name": "be동사 과거",
+  "ref": {
+   "stem": "다음 중 틀린 문장을 고르시오.",
+   "passage": "",
+   "c": [
+    "I was not brave.",
+    "They weren't my friends.",
+    "It weren't heavy.",
+    "The movie wasn't interesting.",
+    "She wasn’t clever."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: be동사 과거 부정: I·3인칭 단수 주어는 wasn't(was not), you·we·they·복수 주어는 weren't(were not).\n풀이 순서: ① 문장마다 주어가 단수(I, he, she, it, 단수 명사)인지 복수(we, you, they, 복수 명사)인지 가른다. → ② 단수면 wasn't, 복수면 weren't인지 본다. → ③ 선택지 ③의 It은 단수인데 weren't를 썼다. 정답은 ③.\n문장별 판정:\n정답 판단: It은 3인칭 단수라 wasn't를 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] I에 was not을 바르게 썼으므로 오답이다.\n② [오답] They에 weren't를 바르게 썼으므로 오답이다.\n③ [정답] It은 3인칭 단수라 wasn't를 써야 하므로 정답이다.\n④ [오답] The movie에 wasn't를 바르게 썼으므로 오답이다.\n⑤ [오답] She에 wasn't를 바르게 썼으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 틀린 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "You weren't at the library.",
+     "The soup wasn't hot.",
+     "I wasn't tired.",
+     "They wasn't busy.",
+     "The door wasn't open."
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 중 틀린 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "They weren't late.",
+     "Mina wasn't at school.",
+     "The rooms weren't empty.",
+     "We wasn't ready for the game.",
+     "I wasn't nervous."
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 중 틀린 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "My shoes weren't dirty.",
+     "He wasn't at the party.",
+     "We wasn't at home.",
+     "The test wasn't easy.",
+     "You weren't late."
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 중 틀린 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "The kids weren't noisy.",
+     "Jane weren't a student.",
+     "My dad wasn't angry.",
+     "The stores weren't open.",
+     "I wasn't hungry."
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 중 틀린 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "The birds weren't in the cage.",
+     "The milk wasn't cold.",
+     "You weren't alone.",
+     "Her friends weren't there.",
+     "I weren't at the bus stop."
+    ],
+    "ans": 5
+   }
+  },
+  "target_answer_position": 2,
+  "v1_pretest": {
+   "stem": "다음 문장 중 어법상 틀린 것은 모두 몇 개인지 고르시오.",
+   "passage": "ⓐ Junho and his sister weren't at home last night.\nⓑ My puppy weren't hungry this morning.\nⓒ My math homework wasn't hard yesterday.\nⓓ You wasn't at the park yesterday.\nⓔ The children weren't sleepy after lunch.",
+   "c": [
+    "1개",
+    "2개",
+    "3개",
+    "4개",
+    "5개"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: be동사 과거 부정은 I·he·she·it·단수 주어에 wasn't(was not), you·we·they·복수 주어에 weren't(were not)를 쓴다. 한 사람에게 말하는 you에도 weren't를 쓴다.\n풀이 순서: ① 문장마다 주어가 단수인지 복수인지, 주어가 you인지 가른다. → ② 단수면 wasn't, 복수나 you면 weren't를 썼는지 본다. → ③ 틀린 문장은 ⓑ, ⓓ로 2개다. 정답은 ②.\n문장별 판정:\nⓐ O. Junho and his sister는 두 사람(복수)이라 weren't를 바르게 썼다.\nⓑ X. My puppy는 단수라 weren't가 아니라 wasn't를 써야 한다.\nⓒ O. homework는 셀 수 없는 명사라 단수로 보므로 wasn't를 바르게 썼다.\nⓓ X. 주어 You에는 wasn't가 아니라 weren't를 써야 한다.\nⓔ O. children은 child의 복수형이라 weren't를 바르게 썼다.\n정답 판단: 어법상 틀린 문장은 ⓑ, ⓓ로 2개이므로 정답은 ②이다.\n선택지 분석:\n① [오답] 어법상 틀린 문장은 ⓑ, ⓓ로 2개이다. 한 사람에게 말하는 You에도 weren't를 쓰므로 ⓓ도 틀린 문장이며, 이 보기의 1개는 실제 개수와 일치하지 않으므로 오답이다.\n② [정답] 어법상 틀린 문장은 ⓑ(My puppy weren't → wasn't), ⓓ(You wasn't → weren't)로 2개이므로 정답이다.\n③ [오답] 어법상 틀린 문장은 ⓑ, ⓓ로 2개이다. 셀 수 없는 명사 homework에 쓴 ⓒ의 wasn't는 옳으므로, 이 보기의 3개는 실제 개수와 일치하지 않아 오답이다.\n④ [오답] 어법상 틀린 문장은 ⓑ, ⓓ로 2개이다. 복수 주어에 weren't를 쓴 ⓐ, ⓔ는 옳으므로, 이 보기의 4개는 실제 개수와 일치하지 않아 오답이다.\n⑤ [오답] 어법상 틀린 문장은 ⓑ, ⓓ로 2개이다. ⓐ, ⓒ, ⓔ는 주어에 맞는 형태를 썼으므로, 이 보기의 5개는 실제 개수와 일치하지 않아 오답이다.",
+   "new_format": "be동사 과거 부정문 ⓐ~ⓔ 중 어법상 틀린 문장의 개수 고르기",
+   "design": "원문항처럼 주어의 수에 따른 wasn't/weren't 선택을 평가한다. 틀린 문장 하나 고르기를 개수형으로 바꾸어 다섯 문장을 모두 확실히 판단하게 했고, 틀린 두 문장은 단수 명사 주어에 weren't, you에 wasn't를 쓴 실수로 만들었다. 옳은 문장에는 and로 묶은 주어, 셀 수 없는 명사 homework, 불규칙 복수 children을 넣어 겉모양만으로 판단하지 못하게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 33/19 글자 174/86 정답 2",
+   "ERR  원문항보다 너무 김: 낱말 33 > 상한 28 (원문항 19) — 난이도가 올라감",
+   "ERR  원문항이 개수형이 아닌데 개수 세기 형식 — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "6-34",
+  "grade": 6,
+  "no": 34,
+  "chapter": "CH 4",
+  "chapter_name": "일반동사",
+  "ref": {
+   "stem": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.",
+   "passage": "He walks to school.",
+   "c": [
+    "He walks to school?",
+    "Do he walks to school?",
+    "Does he walks to school?",
+    "Does he walk to school?",
+    "Did he walks to school?"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 일반동사 현재 의문문: Do/Does + 주어 + 동사원형 ~? 주어가 3인칭 단수면 Does를 쓰고 동사의 -s를 뗀다.\n풀이 순서: ① 주어와 동사를 본다: he / walks. → ② 주어에 맞는 조동사는 Does, 그 뒤의 동사는 원형 walk. → ③ Does + 주어 + walk ~?인 것을 고른다. 정답은 ④.\n문장별 판정:\n정답 판단: Does + he + 동사원형 walk로 바르게 바꿨으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 평서문 어순에 물음표만 붙였으므로 오답이다.\n② [오답] 3인칭 단수 주어 he에는 Does를 쓰고 동사원형을 써야 하므로 오답이다.\n③ [오답] Does 뒤에는 동사원형 walk를 써야 하므로 오답이다.\n④ [정답] Does + he + 동사원형 walk로 바르게 바꿨으므로 정답이다.\n⑤ [오답] 현재의 문장을 과거 Did로 바꿀 수 없고 동사원형도 아니므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.",
+    "passage": "She likes apples.",
+    "c": [
+     "Does she like apples?",
+     "She likes apples?",
+     "Do she like apples?",
+     "Does she to like apples?",
+     "Does she likes apples?"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.",
+    "passage": "They play soccer.",
+    "c": [
+     "Do they plays soccer?",
+     "Do they play soccer?",
+     "Does they play soccer?",
+     "Are they play soccer?",
+     "They play soccer?"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.",
+    "passage": "She drinks milk every morning.",
+    "c": [
+     "She drinks milk every morning?",
+     "Do she drink milk every morning?",
+     "Does she drinks milk every morning?",
+     "Does she drink milk every morning?",
+     "Did she drinks milk every morning?"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.",
+    "passage": "Tom studies English.",
+    "c": [
+     "Does Tom studying English?",
+     "Tom studies English?",
+     "Does Tom study English?",
+     "Do Tom study English?",
+     "Does Tom studies English?"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르시오.",
+    "passage": "You read books.",
+    "c": [
+     "Do you reads books?",
+     "Are you read books?",
+     "Does you read books?",
+     "You read books?",
+     "Do you read books?"
+    ],
+    "ans": 5
+   }
+  },
+  "target_answer_position": 3,
+  "v1_pretest": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+   "passage": "네 남동생은 저녁 식사 후에 TV를 보니?",
+   "c": [
+    "Do your little brother watch TV after dinner?",
+    "Does your little brother watches TV after dinner?",
+    "Does your little brother watch TV after dinner?",
+    "Is your little brother watch TV after dinner?",
+    "Your little brother watches TV after dinner?"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 일반동사 현재 의문문은 Do/Does + 주어 + 동사원형 ~? 꼴이다. 주어가 3인칭 단수면 Does를 쓰고, 동사에 붙은 -s/-es를 떼어 원형으로 쓴다.\n풀이 순서: ① 우리말의 주어를 확인한다: 네 남동생(your little brother)은 3인칭 단수다. → ② 일반동사 watch의 의문문이므로 문장 앞에 Does를 쓰고, 그 뒤에는 동사원형 watch를 쓴다. → ③ Does + your little brother + watch ~?인 것을 고른다. 정답은 ③.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 your little brother에 맞춰 Does를 쓰고 동사원형 watch를 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 주어 your little brother는 3인칭 단수라 Do가 아니라 Does를 써야 하므로 오답이다.\n② [오답] Does 뒤에는 동사원형 watch를 써야 하는데 watches를 썼으므로 오답이다.\n③ [정답] 3인칭 단수 주어 your little brother에 맞춰 Does를 쓰고 동사원형 watch를 썼으므로 정답이다.\n④ [오답] 일반동사 watch가 있는 문장의 의문문에는 be동사 Is가 아니라 Does를 써야 하므로 오답이다.\n⑤ [오답] Does를 쓰지 않고 평서문 어순에 물음표만 붙였으므로 오답이다.",
+   "new_format": "우리말 의문문을 영어로 바르게 옮긴 것 고르기",
+   "design": "원문항처럼 3인칭 단수 주어 일반동사 현재 의문문(Does + 주어 + 동사원형)을 평가한다. 평서문 전환을 우리말 영작으로 바꾸어 학생이 주어 your little brother의 인칭과 수를 스스로 판단하게 했고, 동사는 -es가 붙는 watch를 써서 원형으로 되돌리는 과정을 거치게 했다. 오답은 your를 보고 Do를 쓰거나, Does 뒤에 watches를 남기거나, be동사 Is를 쓰거나, 평서문에 물음표만 붙이는 실수로 만들었다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 40/28 글자 207/102 정답 3",
+   "WARN 원문항의 1.4배 — 1.3배 안팎으로 줄일 수 있는지"
+  ]
+ },
+ {
+  "key": "6-45",
+  "grade": 6,
+  "no": 45,
+  "chapter": "CH 5",
+  "chapter_name": "일반동사 과거",
+  "ref": {
+   "stem": "다음 문장을 과거를 나타내는 문장으로 바르게 고친 것을 고르시오.",
+   "passage": "He studies English.",
+   "c": [
+    "He studyed English yesterday.",
+    "He did studied English yesterday.",
+    "He studied English yesterday.",
+    "He studies English yesterday.",
+    "He study English yesterday."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 현재의 문장을 과거로 바꿀 때는 동사를 과거형으로 바꾼다. 규칙 동사는 -ed를 붙이되 자음 + y는 y를 i로 바꾸고(study - studied), 단모음 + 단자음은 자음을 겹친다(stop - stopped).\n풀이 순서: ① 원래 문장의 동사를 찾는다: studies. → ② 그 과거형은 studied(y를 i로 바꾸고 -ed). → ③ 과거형을 바르게 쓰고 때를 나타내는 말도 과거인 문장을 고른다. 정답은 ③.\n문장별 판정:\n정답 판단: study의 과거형 studied를 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] study는 자음 + y라 y를 i로 바꿔 studied로 써야 하므로 오답이다.\n② [오답] did와 과거형을 함께 쓰지 않으므로 오답이다.\n③ [정답] study의 과거형 studied를 바르게 썼으므로 정답이다.\n④ [오답] yesterday가 있는데 현재형 studies를 썼으므로 오답이다.\n⑤ [오답] 과거형이 아니고 주어 He와도 맞지 않으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 문장을 과거를 나타내는 문장으로 바르게 고친 것을 고르시오.",
+    "passage": "I play the piano.",
+    "c": [
+     "I play the piano.",
+     "I play the piano yesterday.",
+     "I plaied the piano this morning.",
+     "I plays the piano this morning.",
+     "I played the piano this morning."
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "다음 문장을 과거를 나타내는 문장으로 바르게 고친 것을 고르시오.",
+    "passage": "Tom wants a bike.",
+    "c": [
+     "Tom wanted a bike last year.",
+     "Tom wantted a bike last year.",
+     "Tom wants a bike last year.",
+     "Tom wants a bike yesterday.",
+     "Tom wants a bike."
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 문장을 과거를 나타내는 문장으로 바르게 고친 것을 고르시오.",
+    "passage": "They watch a movie.",
+    "c": [
+     "They watches a movie.",
+     "They watched a movie yesterday.",
+     "They watched a movie tomorrow.",
+     "They watch a movie yesterday.",
+     "They watch a movie."
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 문장을 과거를 나타내는 문장으로 바르게 고친 것을 고르시오.",
+    "passage": "She walks to school.",
+    "c": [
+     "She walked to school yesterday.",
+     "She walks to school yesterday.",
+     "She walkked to school yesterday.",
+     "She walks to school.",
+     "She walked to school tomorrow."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 문장을 과거를 나타내는 문장으로 바르게 고친 것을 고르시오.",
+    "passage": "She stops at the bakery.",
+    "c": [
+     "She stops at the bakery yesterday.",
+     "She did stopped at the bakery yesterday.",
+     "She stoped at the bakery yesterday.",
+     "She stop at the bakery yesterday.",
+     "She stopped at the bakery yesterday."
+    ],
+    "ans": 5
+   }
+  },
+  "target_answer_position": 2,
+  "v1_pretest": {
+   "stem": "다음 대화의 빈칸에 들어갈 말로 가장 알맞은 것을 고르시오.",
+   "passage": "A: Did Dohyun help Ms. Park after school yesterday?\nB: Yes, he did. _______ They were very heavy.",
+   "c": [
+    "He carryed the boxes to her classroom.",
+    "He carried the boxes to her classroom.",
+    "He did carried the boxes to her classroom.",
+    "He carries the boxes to her classroom.",
+    "He carry the boxes to her classroom."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 지난 일은 동사의 과거형으로 쓴다. 규칙 동사는 -ed를 붙이되 carry처럼 자음 + y로 끝나면 y를 i로 바꾸고 -ed를 붙인다(carried). 평서문에서는 did와 과거형을 함께 쓰지 않는다.\n풀이 순서: ① A의 질문(Did ~ yesterday?)과 B의 대답(Yes, he did.)을 보고 어제 일, 곧 과거를 말해야 함을 안다. → ② carry는 자음 + y로 끝나므로 과거형은 carried다. → ③ He carried ~로 쓴 문장을 고른다. 정답은 ②.\n문장별 판정:\n정답 판단: 어제 한 일을 carry의 과거형 carried로 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] carry는 자음 + y로 끝나 y를 i로 바꾼 carried로 써야 하므로 오답이다.\n② [정답] 어제 한 일을 carry의 과거형 carried로 바르게 썼으므로 정답이다.\n③ [오답] 평서문에서 did와 과거형 carried를 함께 쓰지 않으므로 오답이다.\n④ [오답] 어제 한 일을 말하는데 현재형 carries를 썼으므로 오답이다.\n⑤ [오답] 동사원형 carry는 과거를 나타내지 못하고 주어 He와도 맞지 않으므로 오답이다.",
+   "new_format": "지난 일을 묻는 대화의 빈칸에 들어갈 대답 문장 고르기",
+   "design": "원문항처럼 자음 + y로 끝나는 규칙 동사의 과거형(carry → carried)과 과거 시제 사용을 평가한다. 문장 전환을 대화의 대답 고르기로 바꾸어, 학생이 Did ~ yesterday?와 Yes, he did.를 보고 과거로 말해야 함을 스스로 판단하게 했다. 오답은 원문항과 같은 계열의 실수(-yed 철자, did + 과거형, 현재형, 동사원형)로 만들고 보기 길이를 고르게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 53/24 글자 224/142 정답 2",
+   "ERR  원문항보다 너무 김: 낱말 53 > 상한 36 (원문항 24) — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "6-56",
+  "grade": 6,
+  "no": 56,
+  "chapter": "CH 6",
+  "chapter_name": "의문사 의문문",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 가장 알맞은 의문사를 고르시오.",
+   "passage": "________ old are you?",
+   "c": [
+    "What",
+    "Who",
+    "How",
+    "Where",
+    "Why"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 형용사·부사 앞에서 ‘얼마나 ~’를 묻는 의문사는 How다(How old, How tall, How long, How often, How far, How heavy).\n풀이 순서: ① 빈칸 바로 뒤의 낱말을 본다: old. 형용사(부사)다. → ② 형용사·부사 앞에서 ‘얼마나’를 묻는 말은 How뿐이다: How old(몇 살). → ③ 정답은 ③.\n문장별 판정:\n정답 판단: How old로 나이를 물으므로 정답은 ③이다.\n선택지 분석:\n① [오답] What은 형용사 old 앞에서 정도를 묻지 못하므로 오답이다.\n② [오답] Who는 ‘누구’를 묻는 말이므로 오답이다.\n③ [정답] How old로 나이를 물으므로 정답이다.\n④ [오답] Where는 ‘어디’를 묻는 말이므로 오답이다.\n⑤ [오답] Why는 ‘왜’를 묻는 말이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 가장 알맞은 의문사를 고르시오.",
+    "passage": "________ tall is your brother?",
+    "c": [
+     "What",
+     "How",
+     "Who",
+     "Where",
+     "Why"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 가장 알맞은 의문사를 고르시오.",
+    "passage": "________ long is the river?",
+    "c": [
+     "Which",
+     "When",
+     "Who",
+     "How",
+     "What"
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 가장 알맞은 의문사를 고르시오.",
+    "passage": "________ often do you visit your grandma?",
+    "c": [
+     "How",
+     "Where",
+     "Who",
+     "What",
+     "Why"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 가장 알맞은 의문사를 고르시오.",
+    "passage": "________ far is the nearest station?",
+    "c": [
+     "Who",
+     "Why",
+     "What",
+     "Where",
+     "How"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 가장 알맞은 의문사를 고르시오.",
+    "passage": "________ heavy is your bag?",
+    "c": [
+     "Why",
+     "What",
+     "How",
+     "Who",
+     "When"
+    ],
+    "ans": 3
+   }
+  },
+  "target_answer_position": 4,
+  "v1_pretest": {
+   "stem": "다음 빈칸에 들어갈 의문사가 나머지 넷과 다른 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "_______ tall is the giraffe at the zoo?",
+    "_______ big is your new classroom?",
+    "_______ long is your summer vacation?",
+    "_______ color is your new umbrella?",
+    "_______ far is the bus stop from here?"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 형용사·부사 앞에서 ‘얼마나 ~’를 묻는 의문사는 How다(How tall, How big, How long, How far). color처럼 명사 앞에서 ‘무슨 ~’를 물을 때는 What을 쓴다(What color).\n풀이 순서: ① 빈칸 바로 뒤의 낱말을 본다: tall, big, long, far는 형용사(부사)이고 color는 명사다. → ② 형용사·부사 앞에는 How가, 명사 color 앞에는 What이 들어간다. → ③ 선택지 ④에만 What이 들어간다. 정답은 ④.\n문장별 판정:\n정답 판단: color는 명사라 What color(무슨 색)로 물어야 하고 나머지에는 모두 How가 들어가므로 정답은 ④이다.\n선택지 분석:\n① [오답] 형용사 tall 앞에 How를 써서 How tall(얼마나 키가 큰)로 물으므로 오답이다.\n② [오답] 형용사 big 앞에 How를 써서 How big(얼마나 큰)으로 물으므로 오답이다.\n③ [오답] 형용사 long 앞에 How를 써서 How long(얼마나 긴)으로 물으므로 오답이다.\n④ [정답] 명사 color 앞에는 What을 써서 What color(무슨 색)로 물으므로 How가 들어가는 나머지와 달라 정답이다.\n⑤ [오답] 형용사 far 앞에 How를 써서 How far(얼마나 먼)로 물으므로 오답이다.",
+   "new_format": "다섯 의문문의 빈칸 중 들어갈 의문사가 나머지 넷과 다른 것 고르기",
+   "design": "원문항처럼 형용사·부사 앞에서 ‘얼마나 ~’를 묻는 How의 쓰임을 평가한다. 빈칸 하나 고르기를 다섯 문장 중 들어갈 말이 다른 것 고르기로 바꾸었고, 다른 하나는 명사 color 앞에 What을 쓰는 문장으로 만들어 빈칸 뒤 낱말이 형용사인지 명사인지를 보고 판단하게 했다. 형용사는 tall·big·long·far처럼 초등 4학년이 아는 말로 골랐고, 다섯 문장의 길이와 짜임을 비슷하게 맞췄다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 29/8 글자 114/27 정답 4",
+   "ERR  원문항보다 너무 김: 낱말 29 > 상한 16 (원문항 8) — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "6-67",
+  "grade": 6,
+  "no": 67,
+  "chapter": "CH 7",
+  "chapter_name": "조동사 can, may, must",
+  "ref": {
+   "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것은?",
+   "passage": "A: Is he a doctor?\nB: No, but he must ________ a teacher. He knows a lot!",
+   "c": [
+    "is",
+    "are",
+    "be",
+    "am",
+    "being"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: must 뒤에는 동사원형을 쓴다. be동사의 원형은 be다. must be ~는 ‘~임이 틀림없다’는 강한 추측이다.\n풀이 순서: ① B의 말에서 추측의 근거를 찾는다: He knows a lot! → ② 그래서 ‘~임이 틀림없다’는 must be가 된다. must 뒤는 주어와 관계없이 원형 be다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: must 뒤에 be동사의 원형 be를 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] must 뒤에 is를 쓸 수 없으므로 오답이다.\n② [오답] must 뒤에 are를 쓸 수 없으므로 오답이다.\n③ [정답] must 뒤에 be동사의 원형 be를 썼으므로 정답이다.\n④ [오답] must 뒤에 am을 쓸 수 없으므로 오답이다.\n⑤ [오답] must 뒤에 -ing형을 쓸 수 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것은?",
+    "passage": "A: Is Mina at school?\nB: Her bag is here. She must ________ nearby.",
+    "c": [
+     "is",
+     "are",
+     "being",
+     "be",
+     "to be"
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것은?",
+    "passage": "A: Are they new students?\nB: They know everyone. They must ________ club members.",
+    "c": [
+     "to be",
+     "being",
+     "are",
+     "is",
+     "be"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것은?",
+    "passage": "A: Who is that man?\nB: He is carrying a guitar, so he must ________ a musician.",
+    "c": [
+     "is",
+     "being",
+     "to be",
+     "be",
+     "are"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것은?",
+    "passage": "A: Is the light on?\nB: Yes. Someone must ________ in the room.",
+    "c": [
+     "is",
+     "be",
+     "being",
+     "to be",
+     "are"
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것은?",
+    "passage": "A: Is Tom home?\nB: His shoes are here. He must ________ home.",
+    "c": [
+     "am",
+     "is",
+     "be",
+     "are",
+     "to be"
+    ],
+    "ans": 3
+   }
+  },
+  "target_answer_position": 3,
+  "v1_pretest": {
+   "stem": "다음 대화의 빈칸에 공통으로 들어갈 말로 알맞은 것을 고르시오.",
+   "passage": "A: Yerin always gets 100 on her math tests.\nB: Wow! She _______ very smart.\nA: And whose pencil case is this? It has little cats on it.\nB: It _______ Hana's. She really likes cats.",
+   "c": [
+    "must is",
+    "musts be",
+    "must be",
+    "must to be",
+    "must being"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 조동사 must 뒤에는 주어와 관계없이 동사원형을 쓰고, must에는 -s를 붙이지 않는다. be동사의 원형은 be이며, must be ~는 ‘~임이 틀림없다’는 강한 추측이다.\n풀이 순서: ① 추측의 근거를 찾는다: 늘 100점을 받는다, 필통에 고양이 그림이 있다. 그래서 ‘~임이 틀림없다’는 must be가 된다. → ② 두 빈칸의 주어 She, It은 3인칭 단수지만 must 뒤에는 is가 아니라 원형 be를 쓰고, must에도 -s를 붙이지 않는다. → ③ 두 빈칸에 모두 must be가 들어간다. 정답은 ③.\n문장별 판정:\n정답 판단: must에 -s를 붙이지 않고 그 뒤에 be동사의 원형 be를 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] must 뒤에는 동사원형을 써야 하므로 주어가 3인칭 단수여도 is를 쓸 수 없어 오답이다.\n② [오답] 조동사 must는 주어가 3인칭 단수여도 -s를 붙이지 않으므로 오답이다.\n③ [정답] must에 -s를 붙이지 않고 그 뒤에 be동사의 원형 be를 썼으므로 정답이다.\n④ [오답] must 뒤에는 to 없이 동사원형을 바로 쓰므로 오답이다.\n⑤ [오답] must 뒤에 -ing형 being을 쓸 수 없으므로 오답이다.",
+   "new_format": "대화의 두 빈칸에 공통으로 들어갈 must + 동사 형태 고르기",
+   "design": "원문항처럼 강한 추측의 must 뒤에 동사원형 be를 쓰는 규칙을 평가한다. 빈칸 하나를 두 빈칸 공통으로 바꾸되 두 주어를 모두 3인칭 단수(She, It)로 두어, 수 일치만 생각하는 학생에게 is가 끝까지 매력적인 오답이 되게 했다. 오답은 must is, musts be, must to be, must being처럼 학생이 실제로 하는 실수로 만들었다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 44/21 글자 160/59 정답 3",
+   "ERR  원문항보다 너무 김: 낱말 44 > 상한 31 (원문항 21) — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "6-78",
+  "grade": 6,
+  "no": 78,
+  "chapter": "CH 8",
+  "chapter_name": "조동사 부정문, 의문문",
+  "ref": {
+   "stem": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르시오.",
+   "passage": "He can't run fast.\n= He ________ ________ able to run fast.",
+   "c": [
+    "am not",
+    "is not",
+    "are not",
+    "does not",
+    "do not"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: can't = be동사 + not + able to. be동사는 주어에 맞춘다(I am / 단수 is / 복수·you are).\n풀이 순서: ① can't를 be not able to로 바꾼다. 빈칸 두 개는 be동사 + not이다. do not/does not을 지운다. → ② 주어를 본다: He(3인칭 단수) → is. → ③ 정답은 is not.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 He에 맞는 is not이므로 정답은 ②이다.\n선택지 분석:\n① [오답] am not은 주어 I에만 쓰므로 오답이다.\n② [정답] 3인칭 단수 주어 He에 맞는 is not이므로 정답이다.\n③ [오답] are not은 you·복수 주어에 쓰므로 오답이다.\n④ [오답] able to 앞에는 do/does가 아니라 be동사를 쓰므로 오답이다.\n⑤ [오답] able to 앞에는 do/does가 아니라 be동사를 쓰므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르시오.",
+    "passage": "The boys can't swim.\n= The boys ________ ________ able to swim.",
+    "c": [
+     "am not",
+     "is not",
+     "are not",
+     "do not",
+     "does not"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르시오.",
+    "passage": "I can't go.\n= I ________ ________ able to go.",
+    "c": [
+     "are not",
+     "is not",
+     "do not",
+     "am not",
+     "does not"
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르시오.",
+    "passage": "They can't lift the heavy table.\n= They ________ ________ able to lift the heavy table.",
+    "c": [
+     "does not",
+     "are not",
+     "is not",
+     "do not",
+     "am not"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르시오.",
+    "passage": "Jane can't cook.\n= Jane ________ ________ able to cook.",
+    "c": [
+     "do not",
+     "am not",
+     "are not",
+     "does not",
+     "is not"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르시오.",
+    "passage": "We can't help.\n= We ________ ________ able to help.",
+    "c": [
+     "are not",
+     "is not",
+     "am not",
+     "does not",
+     "do not"
+    ],
+    "ans": 1
+   }
+  },
+  "target_answer_position": 4,
+  "v1_pretest": {
+   "stem": "다음 중 두 문장의 의미가 같도록 바르게 바꿔 쓴 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "My little sister can't ride a bike. = My little sister are not able to ride a bike.",
+    "My cousins can't speak Korean. = My cousins is not able to speak Korean.",
+    "Eric and Ben can't come to the party. = Eric and Ben do not able to come to the party.",
+    "The baby can't walk yet. = The baby is not able to walk yet.",
+    "He can't find his key. = He does not able to find his key."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: can't(~할 수 없다)는 be동사 + not + able to로 바꿔 쓸 수 있다. be동사는 주어에 맞추고(I am / 단수 is / 복수·you are), able to 앞에 do/does는 쓰지 않는다.\n풀이 순서: ① 뒤 문장이 be동사 + not + able to 꼴인지 본다: do not, does not을 쓴 쌍을 지운다. → ② 남은 쌍에서 be동사가 주어와 맞는지 본다. → ③ 3인칭 단수 주어 The baby에 is not을 쓴 쌍만 옳다. 정답은 ④.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 The baby에 맞는 is not able to로 바르게 바꿨으므로 정답은 ④이다.\n선택지 분석:\n① [오답] My little sister는 3인칭 단수라 are not이 아니라 is not을 써야 하므로 오답이다.\n② [오답] My cousins는 복수라 is not이 아니라 are not을 써야 하므로 오답이다.\n③ [오답] able to 앞에는 do not이 아니라 be동사를 써서 Eric and Ben are not able to로 써야 하므로 오답이다.\n④ [정답] 3인칭 단수 주어 The baby에 맞는 is not able to로 바르게 바꿨으므로 정답이다.\n⑤ [오답] able to 앞에는 does not이 아니라 be동사를 써서 He is not able to로 써야 하므로 오답이다.",
+   "new_format": "can't 문장을 be not able to로 바꿔 쓴 다섯 쌍 중 바른 것 고르기",
+   "design": "원문항처럼 can't를 be동사 + not + able to로 바꿀 때 be동사를 주어에 맞추고 do/does를 쓰지 않는 규칙을 평가한다. 빈칸 하나 고르기를 다섯 쌍 중 바르게 바꾼 것 고르기로 바꾸어 단수·복수·and로 묶은 주어마다 판단하게 했다. 오답은 수 일치 실수(are/is) 둘과 do not/does not을 쓰는 실수 둘로 나누어, 쌍마다 한 군데만 틀리게 만들었다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 75/19 글자 274/58 정답 4",
+   "ERR  원문항보다 너무 김: 낱말 75 > 상한 28 (원문항 19) — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "6-89",
+  "grade": 6,
+  "no": 89,
+  "chapter": "CH 9",
+  "chapter_name": "현재진행형",
+  "ref": {
+   "stem": "다음 대화의 빈칸 (A)와 (B)에 들어갈 말이 바르게 짝지어진 것은?",
+   "passage": "Jane: What is she doing in the classroom?\nKevin: She (<u>    A    </u>) (<u>    B    </u>) a desk for the party.",
+   "c": [
+    "(A) is - (B) moving",
+    "(A) are - (B) moving",
+    "(A) is - (B) moveing",
+    "(A) am - (B) move",
+    "(A) is - (B) moves"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: What ~ doing?에는 현재진행형(be동사 + -ing)으로 답한다. be동사는 주어에 맞추고, -e로 끝나는 동사는 e를 빼고 -ing를 붙인다(move → moving).\n풀이 순서: ① 질문이 진행형(What ~ doing?)이므로 대답도 be동사 + -ing다. → ② (A): 주어 She에 맞는 is. (B): move → moving. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: She에 is, move의 -ing형 moving이 알맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] She에 is, move의 -ing형 moving이 알맞으므로 정답이다.\n② [오답] 주어 She에 are를 쓸 수 없으므로 오답이다.\n③ [오답] move의 -ing형은 e를 뺀 moving이므로 오답이다.\n④ [오답] She에 am을 쓸 수 없고 be동사 뒤에 move도 쓸 수 없으므로 오답이다.\n⑤ [오답] is 뒤에 moves를 쓸 수 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 대화의 빈칸 (A)와 (B)에 들어갈 말이 바르게 짝지어진 것은?",
+    "passage": "Tom: What are we doing?\nJane: We (<u>    A    </u>) (<u>    B    </u>) the room.",
+    "c": [
+     "(A) am - (B) cleaning",
+     "(A) are - (B) clean",
+     "(A) is - (B) cleaning",
+     "(A) does - (B) clean",
+     "(A) are - (B) cleaning"
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "다음 대화의 빈칸 (A)와 (B)에 들어갈 말이 바르게 짝지어진 것은?",
+    "passage": "Sora: What is Tom doing outside?\nKevin: He (<u>    A    </u>) (<u>    B    </u>) his bike.",
+    "c": [
+     "(A) is - (B) fixing",
+     "(A) is - (B) fixes",
+     "(A) does - (B) fixing",
+     "(A) are - (B) fixing",
+     "(A) am - (B) fix"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 대화의 빈칸 (A)와 (B)에 들어갈 말이 바르게 짝지어진 것은?",
+    "passage": "Mina: What are they doing for the school festival?\nLeo: They (<u>    A    </u>) (<u>    B    </u>) the hall with balloons.",
+    "c": [
+     "(A) are - (B) decorate",
+     "(A) are - (B) decorating",
+     "(A) is - (B) decorating",
+     "(A) were - (B) decorated",
+     "(A) do - (B) decorating"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 대화의 빈칸 (A)와 (B)에 들어갈 말이 바르게 짝지어진 것은?",
+    "passage": "Kelly: What are the boys doing in the gym?\nKevin: They (<u>    A    </u>) (<u>    B    </u>) basketball.",
+    "c": [
+     "(A) were - (B) played",
+     "(A) are - (B) playing",
+     "(A) is - (B) playing",
+     "(A) are - (B) plays",
+     "(A) do - (B) playing"
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 대화의 빈칸 (A)와 (B)에 들어갈 말이 바르게 짝지어진 것은?",
+    "passage": "Jane: What am I doing?\nTom: You (<u>    A    </u>) (<u>    B    </u>) a book.",
+    "c": [
+     "(A) are - (B) reading",
+     "(A) am - (B) reading",
+     "(A) does - (B) read",
+     "(A) are - (B) read",
+     "(A) is - (B) reading"
+    ],
+    "ans": 1
+   }
+  },
+  "target_answer_position": 1,
+  "v1_pretest": {
+   "stem": "다음 중 어법상 틀린 문장을 고르시오.",
+   "passage": "",
+   "c": [
+    "My grandpa is driveing his truck to the market.",
+    "Mom and I are baking cookies in the kitchen.",
+    "The kids are swimming in the pool now.",
+    "Mr. Han is washing his car in the yard.",
+    "My cat is sleeping on the sofa now."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 현재진행형은 be동사(am/is/are) + 동사원형-ing다. be동사는 주어에 맞추고, -e로 끝나는 동사는 e를 빼고 -ing를 붙이며(drive → driving), 단모음 + 단자음으로 끝나는 동사는 자음을 한 번 더 쓴다(swim → swimming).\n풀이 순서: ① 문장마다 be동사가 주어와 맞는지 본다: and로 묶은 주어와 복수 주어에는 are, 단수 주어에는 is. → ② -ing형의 철자가 바른지 본다: e로 끝나는 동사와 자음을 겹치는 동사에 주의한다. → ③ 선택지 ①의 driveing은 e를 빼고 driving으로 써야 한다. 정답은 ①.\n문장별 판정:\n정답 판단: drive는 e로 끝나므로 e를 빼고 -ing를 붙여 driving으로 써야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] drive는 e로 끝나므로 e를 빼고 -ing를 붙여 driving으로 써야 하므로 정답이다.\n② [오답] Mom and I는 두 사람(복수)이라 are를 바르게 썼고, bake도 e를 빼고 baking으로 바르게 썼으므로 오답이다.\n③ [오답] 복수 주어 The kids에 are를 썼고, swim은 m을 한 번 더 써서 swimming으로 바르게 썼으므로 오답이다.\n④ [오답] 단수 주어 Mr. Han에 is를 썼고, wash는 -ing만 붙여 washing으로 바르게 썼으므로 오답이다.\n⑤ [오답] 단수 주어 My cat에 is를 썼고, sleep은 -ing만 붙여 sleeping으로 바르게 썼으므로 오답이다.",
+   "new_format": "현재진행형 문장 5개 중 어법상 틀린 문장 고르기",
+   "design": "원문항처럼 현재진행형(be동사 + -ing)에서 주어에 맞는 be동사와 -ing형 철자를 평가한다. 짝 고르기를 틀린 문장 고르기로 바꾸었고, 옳은 문장에 and로 묶은 주어, e를 뺀 baking, 자음을 겹친 swimming을 넣어 수 일치와 철자 규칙을 함께 따지게 했다. 틀린 문장은 원문항의 moveing과 같은 계열인 driveing 하나로만 틀리게 만들었다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 43/27 글자 159/108 정답 1",
+   "ERR  원문항보다 너무 김: 낱말 43 > 상한 40 (원문항 27) — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "6-100",
+  "grade": 6,
+  "no": 100,
+  "chapter": "CH 10",
+  "chapter_name": "과거진행형",
+  "ref": {
+   "stem": "다음 글을 읽고 어법상 틀린 부분을 찾아 그 번호를 고르시오.",
+   "passage": "Yesterday was our school concert. I went to the music room. ①<u>Was he playing</u> the piano? No, he was tuning it. ②<u>Were the girls</u> playing the flute? Yes, they were. ③<u>Was Minho playing</u> the drum? No, he wasn't. Then, ④<u>was you playing</u> the violin? No, I was just watching. We ⑤<u>were preparing</u> for the show.",
+   "c": [
+    "Was he playing",
+    "Were the girls",
+    "Was Minho playing",
+    "was you playing",
+    "were preparing"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 과거진행형의 be동사는 주어에 맞춘다: I·3인칭 단수 주어 was, you·복수 주어 were. 의문문에서는 be동사 바로 뒤의 주어를 본다.\n풀이 순서: ① 밑줄마다 주어를 찾는다. 의문문은 be동사 뒤, 평서문은 밑줄 앞에 있다. → ② was/were가 주어와 맞는지 본다. → ③ 선택지 ④의 주어 you에는 were를 쓴다. 정답은 ④.\n문장별 판정:\n정답 판단: 주어 you에는 was가 아니라 were를 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 단수 주어 he에 Was를 바르게 썼으므로 오답이다.\n② [오답] 복수 주어 the girls에 Were를 바르게 썼으므로 오답이다.\n③ [오답] 단수 주어 Minho에 Was를 바르게 썼으므로 오답이다.\n④ [정답] 주어 you에는 was가 아니라 were를 써야 하므로 정답이다.\n⑤ [오답] 주어 We에 were를 바르게 썼으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 글을 읽고 어법상 틀린 부분을 찾아 그 번호를 고르시오.",
+    "passage": "Last night, our family was in the kitchen. ①<u>Was Dad cooking</u> dinner? Yes, he was. ②<u>Were the twins setting</u> the table? Yes, they were. ③<u>Was Mina washing</u> the dishes? No, she wasn't. ④<u>Were I carrying</u> the plates? Yes, I was. Everyone ⑤<u>was working</u> together.",
+    "c": [
+     "Was Dad cooking",
+     "Were the twins setting",
+     "Was Mina washing",
+     "Were I carrying",
+     "was working"
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 글을 읽고 어법상 틀린 부분을 찾아 그 번호를 고르시오.",
+    "passage": "Yesterday, the students were at the gym. ①<u>Were the boys playing</u> basketball? Yes, they were. ②<u>Was Mina running</u> near the door? Yes, she was. ③<u>Were Tom practicing</u> alone? No, he wasn't. ④<u>Was the coach watching</u> them? Yes, he was. Everyone ⑤<u>was moving</u> quickly.",
+    "c": [
+     "Were the boys playing",
+     "Was Mina running",
+     "Were Tom practicing",
+     "Was the coach watching",
+     "was moving"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 글을 읽고 어법상 틀린 부분을 찾아 그 번호를 고르시오.",
+    "passage": "At eight last night, our club was preparing a show. ①<u>Was Jane drawing</u> a poster? Yes, she was. ②<u>Were the students practicing</u> a song? Yes, they were. ③<u>Was the teacher helping</u> them? Yes, she was. ④<u>Were the lights shining</u> brightly? Yes, they were. The music ⑤<u>were playing</u> softly.",
+    "c": [
+     "Was Jane drawing",
+     "Were the students practicing",
+     "Was the teacher helping",
+     "Were the lights shining",
+     "were playing"
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "다음 글을 읽고 어법상 틀린 부분을 찾아 그 번호를 고르시오.",
+    "passage": "Yesterday afternoon, I visited the library. ①<u>Were the students reading</u> quietly? Yes, they were. ②<u>Was the librarian arranging</u> books? Yes, she was. ③<u>Was two boys using</u> a computer? No, they weren't. ④<u>Was Mina writing</u> notes? Yes, she was. Everyone ⑤<u>was studying</u> hard.",
+    "c": [
+     "Were the students reading",
+     "Was the librarian arranging",
+     "Was two boys using",
+     "Was Mina writing",
+     "was studying"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 글을 읽고 어법상 틀린 부분을 찾아 그 번호를 고르시오.",
+    "passage": "Last Saturday, we went to the beach. ①<u>Was the sun shining</u> brightly? Yes, it was. ②<u>Was the kids building</u> a sandcastle? Yes, they were. ③<u>Was your dad swimming</u> in the sea? No, he was sleeping under an umbrella. ④<u>Was Mom reading</u> a book? Yes, she was. We ⑤<u>were having</u> a great time.",
+    "c": [
+     "Was the sun shining",
+     "Was the kids building",
+     "Was your dad swimming",
+     "Was Mom reading",
+     "were having"
+    ],
+    "ans": 2
+   }
+  },
+  "target_answer_position": 1,
+  "v1_pretest": {
+   "stem": "다음 글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것을 찾아 바르게 고친 것을 고르시오.",
+   "passage": "It rained all day last Sunday, so my family stayed at home. At three o'clock, I looked around the house. ⓐ<u>Was Grandma and Grandpa watching</u> TV in the living room? No, Grandpa was reading a newspaper, and Grandma was taking a nap. ⓑ<u>Were my little brothers building</u> a robot with blocks? Yes, they were. ⓒ<u>Was Mom talking</u> on the phone? No, she wasn't. She was making pizza in the kitchen, so I helped her. Our cat ⓓ<u>was watching</u> us from a chair. Later, my friend Jisu called me. She asked, \"ⓔ<u>Were you sleeping</u>? I called you an hour ago.\" I answered, \"No, I was making pizza with my mom. My phone was in my room.\"",
+   "c": [
+    "ⓐ Was → Were",
+    "ⓑ Were → Was",
+    "ⓒ talking → talked",
+    "ⓓ was → were",
+    "ⓔ Were → Was"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 과거진행형은 ‘was/were + 동사-ing’로 쓰고, be동사는 주어에 맞춘다: I·3인칭 단수 주어는 was, you·복수 주어는 were. 의문문에서는 be동사 바로 뒤의 주어를 보고, A and B처럼 두 사람을 묶은 주어는 복수로 본다.\n풀이 순서: ① 밑줄마다 주어를 찾는다. 의문문은 be동사 바로 뒤, 평서문은 밑줄 앞에 주어가 있다. → ② was/were가 주어의 수와 맞는지, 뒤에 동사-ing가 오는지 본다. → ③ ⓐ의 주어 Grandma and Grandpa는 두 사람이라 Was를 Were로 고쳐야 한다. 정답은 ①.\n문장별 판정:\nⓐ X. 주어 Grandma and Grandpa는 두 사람(복수)이므로 Was가 아니라 Were를 써야 한다.\nⓑ O. 복수 주어 my little brothers에 Were를 바르게 썼다.\nⓒ O. 3인칭 단수 주어 Mom에 Was를 쓰고 뒤에 talking을 써서 과거진행형을 바르게 만들었다.\nⓓ O. 주어 Our cat은 단수이므로 was를 바르게 썼다. 뒤의 us는 주어가 아니다.\nⓔ O. 주어 you에는 한 사람에게 물을 때도 were를 쓰므로 Were를 바르게 썼다.\n정답 판단: ⓐ의 주어 Grandma and Grandpa는 두 사람(복수)이라 Was를 Were로 고쳐야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] ⓐ의 주어 Grandma and Grandpa는 복수라 Was를 Were로 바르게 고쳤으므로 정답이다.\n② [오답] ⓑ의 주어 my little brothers는 복수라 Were가 옳으므로, Was로 고치면 오히려 틀리게 되어 오답이다.\n③ [오답] ⓒ의 Was Mom talking은 was + 동사-ing로 바르게 쓴 과거진행형이다. 그때 하고 있던 일을 묻는 말이므로 was 뒤에는 동사-ing를 써야 하고, talking을 talked로 고치면 틀리게 되므로 오답이다.\n④ [오답] ⓓ의 주어는 단수인 Our cat이라 was가 옳다. 뒤에 있는 us를 보고 were로 고치면 틀리게 되므로 오답이다.\n⑤ [오답] ⓔ의 주어 you에는 한 사람에게 물을 때도 were를 쓰므로, Was로 고치면 틀리게 되어 오답이다.",
+   "new_format": "과거진행형 글의 밑줄 친 ⓐ~ⓔ 중 틀린 것을 찾아 바르게 고친 것 고르기(was/were를 바꾸는 보기와 -ing형을 바꾸는 보기를 섞음)",
+   "design": "원문항처럼 과거진행형 의문문·평서문에서 주어에 맞는 was/were 선택을 평가하며, 틀린 곳은 and로 묶은 두 사람 주어에 Was를 쓴 것이고 옳은 부분에는 복수 명사 + Were, 단수 주어 + Was, 단수 명사 주어 + was, 친구가 전화로 묻는 말의 you + Were를 두어 수 일치를 모두 따지게 했다. 틀린 곳 찾기를 ‘찾아 바르게 고친 것’ 고르기로 바꾸고, 오답 보기는 옳은 부분을 오히려 틀리게 고치는 제안으로 만들되 그중 하나(ⓒ)는 -ing를 과거형 -ed로 바꾸는 제안으로 두어 was/were + -ing 꼴까지 확인하게 했다. 오답은 복수 주어를 Was로, 지난 일이라 talked를, 뒤의 us에 끌려 단수 주어를 were로, 한 사람에게 묻는 you를 Was로 바꾸는 실수로 설계했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 125/69 글자 507/286 정답 1",
+   "ERR  원문항보다 너무 김: 낱말 125 > 상한 103 (원문항 69) — 난이도가 올라감"
+  ]
+ }
+]

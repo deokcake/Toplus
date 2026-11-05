@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T08:21:47.360Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "He is <u>the most fastest</u> runner in our school.",
+      "1": "That was <u>the most boring</u> class of the day.",
+      "2": "This is <u>the goodest</u> cake in this bakery.",
+      "3": "She is <u>the carefulest</u> driver in my family.",
+      "4": "It is <u>the most biggest</u> room in the house."
+    },
+    "expl": "핵심 규칙: 최상급은 짧은 단어에 -est, 긴 단어에 most를 붙이며 둘을 겹쳐 쓰지 않는다. good - best, bad - worst처럼 불규칙 변화도 있다.\n풀이 순서: ① 밑줄마다 형용사가 짧은 낱말인지 긴 낱말인지 가른다. → ② 짧으면 -er/-est만, 길면 more/most만 쓴다. 둘을 겹치거나 긴 낱말에 -est를 붙인 것을 지운다. → ③ 선택지 ②만 긴 낱말 boring에 the most를 써서 맞다. 정답은 ②.\n문장별 판정:\n정답 판단: 긴 단어 boring에 most를 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] -est와 most를 겹쳐 쓸 수 없으므로 오답이다.\n② [정답] 긴 단어 boring에 most를 바르게 썼으므로 정답이다.\n③ [오답] good의 최상급은 불규칙 best이므로 오답이다.\n④ [오답] 긴 단어 careful은 the most careful로 써야 하므로 오답이다.\n⑤ [오답] -est와 most를 겹쳐 쓸 수 없으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 부분의 형태가 어법상 옳은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T08:21:21.690Z"
+  },
+  "tab": "x2buc7cy",
+  "updatedAt": "2026-10-27T08:21:47.360Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T08:21:47.360Z",
+      "what": "확인 완료"
+    }
+  }
+}

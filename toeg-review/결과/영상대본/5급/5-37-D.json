@@ -1,0 +1,182 @@
+{
+ "key": "5-37",
+ "type": "D",
+ "grade": 5,
+ "chapter": "CH 4 현재진행형",
+ "title": "Jane으로 묻고 No로 답하는 진행형",
+ "total_sec": 139,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "5급 · CH 4 현재진행형 · 37번 · D 유형\n\n이 문제는 Jane으로 묻는 진행형 의문문과 No로 하는 대답에 알맞은 말을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 4 현재진행형 · 37번 · D 유형",
+     "이 문제는 Jane으로 묻는 진행형 의문문과 No로 하는 대답에 알맞은 말을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 4, 37번 D 유형. 이 문제는 Jane으로 묻는 진행형 의문문과 No로 하는 대답에 알맞은 말을 고르는 문제예요.",
+   "caption": "Jane 진행형 의문문과 No 대답"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 21,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.\n\nA: ________ Jane reading?\nB: No, she ________.\n\n① Is - are\n② Are - is\n③ Are - am\n④ Is - isn't\n⑤ Does - doesn't",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.",
+     "A: ________ Jane reading?",
+     "B: No, she ________.",
+     "① Is - are",
+     "② Are - is",
+     "③ Are - am",
+     "④ Is - isn't",
+     "⑤ Does - doesn't"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. 묻는 말은 빈칸 Jane reading, 대답은 No, she 빈칸이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\n현재진행형 의문문(지금 ~하고 있니?): be동사 + 주어 + 동사ing ~?\n현재형 be동사는 주어에 맞춰요: I → am, 3인칭 단수 → is, you·복수 → are\n대답도 be동사로: Yes, 주어 + be동사.  /  No, 주어 + be동사 + not.\n대답의 주어는 보통 대명사(it, they, she …)\n예) Are they swimming? — No, they aren't. (그들은 수영하고 있니? 아니, 하고 있지 않아.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "현재진행형 의문문(지금 ~하고 있니?): be동사 + 주어 + 동사ing ~?",
+     "현재형 be동사는 주어에 맞춰요: I → am, 3인칭 단수 → is, you·복수 → are",
+     "대답도 be동사로: Yes, 주어 + be동사.  /  No, 주어 + be동사 + not.",
+     "대답의 주어는 보통 대명사(it, they, she …)",
+     "예) Are they swimming? — No, they aren't. (그들은 수영하고 있니? 아니, 하고 있지 않아.)"
+    ]
+   },
+   "narration": "지금 하고 있는지 물을 때는 be동사를 주어 앞에, 동사의 ing형을 주어 뒤에 써요. 이때 be동사는 I에는 am, 3인칭 단수에는 is, you와 복수에는 are를 써요. 대답도 보통 대명사 주어와 be동사로 하고, No일 때는 be동사 뒤에 not을 붙여요. Are they swimming? 그들은 수영하고 있니? No, they aren't. 아니, 하고 있지 않아.",
+   "caption": "be동사 + 주어 + 동사ing ~?"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 37,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.\n\nA: ________ Jane reading?\nB: No, she ________.\n\n① Is - are\n② Are - is\n③ Are - am\n④ Is - isn't\n⑤ Does - doesn't",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "reading"
+      ],
+      "strike": [
+       "⑤ Does - doesn't"
+      ],
+      "note": "첫 빈칸 뒤 reading = ing형 → be동사가 필요. Does로 시작하는 ⑤ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "Jane"
+      ],
+      "strike": [
+       "② Are - is",
+       "③ Are - am"
+      ],
+      "note": "주어 Jane = 한 사람(3인칭 단수) → Is. Are로 시작하는 ②, ③ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "No, she ________.",
+       "④ Is - isn't"
+      ],
+      "strike": [
+       "① Is - are"
+      ],
+      "note": "No + 주어 she → is + not = isn't. are를 쓴 ① 지움 → ④"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 첫 빈칸 뒤에 ing형 reading이 있으니 be동사가 와야 해서, Does로 시작하는 5번을 지워요. 둘째, 주어 Jane은 한 사람이라 3인칭 단수이니 Is를 쓰고, Are로 시작하는 2번과 3번을 지워요. 셋째, No로 답했고 주어가 she이니 is 뒤에 not을 붙인 isn't를 써서, are를 쓴 1번을 지우면 4번이 남아요. Is Jane reading? Jane은 독서하고 있니? No, she isn't. 아니, 하고 있지 않아.",
+   "caption": "be동사 → Is → she isn't"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① Is - are  ✗  she에는 are를 쓸 수 없고, No 대답에는 not이 필요\n② Are - is  ✗  단수 Jane에 Are는 안 되고, No 대답에 not이 없어요\n③ Are - am  ✗  단수 Jane에 Are는 안 되고, am은 I에만 써요\n④ Is - isn't  ✓  단수 Jane → Is, No, she → isn't\n⑤ Does - doesn't  ✗  ing형 reading 앞에는 Does가 아니라 be동사",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Is - are  ✗  she에는 are를 쓸 수 없고, No 대답에는 not이 필요",
+     "② Are - is  ✗  단수 Jane에 Are는 안 되고, No 대답에 not이 없어요",
+     "③ Are - am  ✗  단수 Jane에 Are는 안 되고, am은 I에만 써요",
+     "④ Is - isn't  ✓  단수 Jane → Is, No, she → isn't",
+     "⑤ Does - doesn't  ✗  ing형 reading 앞에는 Does가 아니라 be동사"
+    ]
+   },
+   "narration": "정답은 4번 Is, isn't예요. 5번은 뒤에 ing형 reading이 있으니 Does가 아니라 be동사로 묻고 답해야 해요. 1번은 Is는 맞지만, 대답의 주어 she에는 are를 쓸 수 없고 No로 답하니 not도 있어야 해요. 2번은 한 사람인 Jane에 Are를 썼고, No로 답하면서 not이 없어서 틀렸어요.",
+   "caption": "정답 ④ Is - isn't"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ④ Is - isn't\n\nNo로 답할 때: No, 주어 + 주어에 맞는 be동사 + not (she → isn't)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ Is - isn't",
+     "No로 답할 때: No, 주어 + 주어에 맞는 be동사 + not (she → isn't)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 진행형 의문문에 No로 답할 때는 대답의 주어에 맞는 be동사 뒤에 not을 붙여요.",
+   "caption": "No 대답 = be동사 + not"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.",
+  "passage": "A: ________ Jane reading?\nB: No, she ________.",
+  "c": [
+   "Is - are",
+   "Are - is",
+   "Are - am",
+   "Is - isn't",
+   "Does - doesn't"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 진행형 의문문은 be동사 + 주어 + -ing ~?이고, 대답도 be동사로 한다. be동사는 각 문장의 주어에 맞춘다.\n풀이 순서: ① 첫 빈칸: 뒤에 -ing형이 있으므로 be동사가 필요하다. 주어가 Jane(단수)이므로 Is. → ② 둘째 빈칸: 대답의 주어가 she이고 No로 답했으므로 isn't. → ③ 정답은 Is - isn't.\n문장별 판정:\n정답 판단: Is - isn't — 의문문에는 주어에 맞는 be동사를 앞에 두고, 짧은 대답에도 같은 주어와 be동사를 사용하므로 'Is - isn't'이 맞다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] Is - are — 'Is - are'는 의문문의 주어-be동사 일치 또는 짧은 대답의 대명사·be동사 중 하나가 맞지 않는다.\n② [오답] Are - is — 'Are - is'는 의문문의 주어-be동사 일치 또는 짧은 대답의 대명사·be동사 중 하나가 맞지 않는다.\n③ [오답] Are - am — 'Are - am'은 의문문의 주어-be동사 일치 또는 짧은 대답의 대명사·be동사 중 하나가 맞지 않는다.\n④ [정답] Is - isn't — 의문문에는 주어에 맞는 be동사를 앞에 두고, 짧은 대답에도 같은 주어와 be동사를 사용하므로 'Is - isn't'이 맞다.\n⑤ [오답] Does - doesn't — 'Does - doesn't'는 의문문의 주어-be동사 일치 또는 짧은 대답의 대명사·be동사 중 하나가 맞지 않는다."
+ }
+}

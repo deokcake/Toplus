@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T07:12:40.105Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Tom has two cats.",
+      "1": "The sun rises in the east.",
+      "2": "We are in the same class.",
+      "3": "She studied yesterday.",
+      "4": "My mom works at a bank."
+    },
+    "expl": "핵심 규칙: 현재 시제는 현재의 상태·습관·일반적 사실을 나타내며 동사원형이나 -s/-es형, am/is/are를 쓴다. 과거형(bought, studied, played, visited)은 이미 끝난 일을 나타낸다.\n풀이 순서: ① 문장마다 동사만 본다. → ② 현재형(am/are/is, 동사원형, -(e)s)인 문장을 지운다. → ③ studied는 study의 과거형이고 yesterday도 과거를 나타낸다. 정답은 ④.\n문장별 판정:\n정답 판단: 과거형(studied)을 쓴 과거 시제 문장이라 현재 시제가 아니므로 정답은 ④이다.\n선택지 분석:\n① [오답] 현재형(has)으로 현재의 상태·습관을 나타내므로 오답이다.\n② [오답] 현재형(rises)으로 현재의 상태·습관을 나타내므로 오답이다.\n③ [오답] 현재형(are)으로 현재의 상태·습관을 나타내므로 오답이다.\n④ [정답] 과거형(studied)을 쓴 과거 시제 문장이라 현재 시제가 아니므로 정답이다.\n⑤ [오답] 현재형(works)으로 현재의 상태·습관을 나타내므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:11:54.472Z"
+  },
+  "tab": "el3qe2ii",
+  "updatedAt": "2026-10-27T07:12:40.105Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:12:40.105Z",
+      "what": "확인 완료"
+    }
+  }
+}

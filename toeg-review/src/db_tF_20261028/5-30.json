@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T10:48:27.589Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "(나), (라)",
+      "1": "(가), (나)",
+      "2": "(가), (다)",
+      "3": "(다), (마)",
+      "4": "(라), (마)"
+    },
+    "expl": "핵심 규칙: Did/didn't/Does 뒤에는 동사원형을 쓰고, be동사는 주어에 맞춰 was/were를 쓰며 일반동사와 함께 쓰지 않는다. 불규칙 동사는 정해진 과거형을 쓴다.\n풀이 순서: ① did/didn't/Does가 있는 문장은 뒤가 동사원형인지 본다. → ② be동사 문장은 주어와 수가 맞는지, 일반동사와 겹쳐 쓰지 않았는지 본다. → ③ (가) Mina and I was(were), (다) didn't cleaned(clean)가 틀렸다. 정답은 (가), (다).\n문장별 판정:\n(가) X. 복수 주어 Mina and I에는 were를 써야 한다.\n(나) O. cry의 과거형 cried를 썼다.\n(다) X. didn't 뒤에는 동사원형 clean을 써야 한다.\n(라) O. Does 뒤에 동사원형 cook을 썼다.\n(마) O. 주어 I에 wasn't를 썼다.\n정답 판단: 어법상 틀린 문장은 (가), (다)이다.\n선택지 분석:\n① [오답] (나), (라)는 틀린 문장이 아니고, 틀린 문장 (가), (다)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (나)는 틀린 문장이 아니고, 틀린 문장 (다)를 빠뜨렸다. 따라서 오답이다.\n③ [정답] 틀린 문장 (가), (다)를 빠짐없이 골랐으므로 정답이다.\n④ [오답] (마)는 틀린 문장이 아니고, 틀린 문장 (가)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (라), (마)는 틀린 문장이 아니고, 틀린 문장 (가), (다)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(가) Mina and I was in the same class last year.\n(나) The baby cried all night.\n(다) They didn't cleaned the room.\n(라) Does your dad cook dinner?\n(마) I wasn't at school yesterday.",
+    "stem": "다음 중 어법상 틀린 문장으로만 짝지어진 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:48:21.649Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:48:27.589Z",
+      "what": "확인 완료"
+    }
+  }
+}

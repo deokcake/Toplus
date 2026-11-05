@@ -1,0 +1,178 @@
+{
+ "key": "1-81",
+ "type": "E",
+ "grade": 1,
+ "chapter": "CH 9 관계사",
+ "title": "선행사 the reason 뒤의 관계사",
+ "total_sec": 141,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "1급 · CH 9 관계사 · 81번 · E 유형\n\n이 문제는 선행사 the reason과 뒤 절에 맞는 관계사를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 9 관계사 · 81번 · E 유형",
+     "이 문제는 선행사 the reason과 뒤 절에 맞는 관계사를 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 9, 81번 E 유형. 이 문제는 선행사 the reason과 뒤 절에 맞는 관계사를 고르는 문제예요.",
+   "caption": "the reason 뒤 알맞은 관계사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 19,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말로 가장 알맞은 것을 고르시오.\n\nI understand the reason _____ Mina refused the offer.\n\n① when\n② which\n③ whom\n④ why\n⑤ where",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 말로 가장 알맞은 것을 고르시오.",
+     "I understand the reason _____ Mina refused the offer.",
+     "① when",
+     "② which",
+     "③ whom",
+     "④ why",
+     "⑤ where"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 말로 가장 알맞은 것을 고르시오. I understand the reason 빈칸 Mina refused the offer. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\n선행사 + 관계부사 + 완전한 절 (주어·목적어가 빠지지 않은 절)\n장소(place) → where, 때(day, season) → when, 이유(reason) → why\n관계대명사 which는 뒤 절의 주어·목적어 자리, whom은 목적어 자리를 맡아요\n예) Tell me the reason why you were late. (네가 늦은 이유를 말해 줘.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "선행사 + 관계부사 + 완전한 절 (주어·목적어가 빠지지 않은 절)",
+     "장소(place) → where, 때(day, season) → when, 이유(reason) → why",
+     "관계대명사 which는 뒤 절의 주어·목적어 자리, whom은 목적어 자리를 맡아요",
+     "예) Tell me the reason why you were late. (네가 늦은 이유를 말해 줘.)"
+    ]
+   },
+   "narration": "관계부사는 선행사를 꾸미는 절을 이끌고, 선행사가 장소면 where, 때면 when, 이유면 why를 써요. 관계부사 뒤에는 주어나 목적어가 빠지지 않은 완전한 절이 와요. 반면 관계대명사 which는 뒤 절의 주어나 목적어 자리를, whom은 목적어 자리를 맡아요. 예를 들어 Tell me the reason why you were late. 네가 늦은 이유를 말해 줘.",
+   "caption": "장소 where, 때 when, 이유 why"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말로 가장 알맞은 것을 고르시오.\n\nI understand the reason _____ Mina refused the offer.\n\n① when\n② which\n③ whom\n④ why\n⑤ where",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "the reason"
+      ],
+      "strike": [],
+      "note": "선행사 the reason = 이유"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "Mina refused the offer"
+      ],
+      "strike": [
+       "② which",
+       "③ whom"
+      ],
+      "note": "Mina(주어) + refused(동사) + the offer(목적어) = 완전한 절 → 관계대명사 which, whom 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ why"
+      ],
+      "strike": [
+       "① when",
+       "⑤ where"
+      ],
+      "note": "남은 관계부사 when, why, where 중 이유 선행사에 맞는 것 → why (때의 when, 장소의 where 지움)"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 빈칸 앞의 선행사 the reason은 이유를 나타내요. 둘째, 빈칸 뒤를 보면 Mina가 주어, refused가 동사, the offer가 목적어예요. 빠진 성분이 없는 완전한 절이니 관계대명사 which와 whom은 들어갈 수 없어요. 셋째, 남은 관계부사 when, why, where 가운데 이유를 나타내는 선행사에 맞는 것은 why예요. I understand the reason why Mina refused the offer. 나는 Mina가 그 제안을 거절한 이유를 이해해요.",
+   "caption": "이유 → 완전한 절 → why"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 32,
+   "screen": {
+    "text": "① when  ✗  때를 나타내는 선행사(the day, the season) 뒤에 써요\n② which  ✗  Mina refused the offer에 주어·목적어 빈자리가 없어요 (for which = why)\n③ whom  ✗  사람 선행사 뒤 목적어 자리, the reason은 사람이 아님\n④ why  ✓  이유를 나타내는 선행사 the reason + 완전한 절\n⑤ where  ✗  장소를 나타내는 선행사(the place) 뒤에 써요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① when  ✗  때를 나타내는 선행사(the day, the season) 뒤에 써요",
+     "② which  ✗  Mina refused the offer에 주어·목적어 빈자리가 없어요 (for which = why)",
+     "③ whom  ✗  사람 선행사 뒤 목적어 자리, the reason은 사람이 아님",
+     "④ why  ✓  이유를 나타내는 선행사 the reason + 완전한 절",
+     "⑤ where  ✗  장소를 나타내는 선행사(the place) 뒤에 써요"
+    ]
+   },
+   "narration": "정답은 4번 why예요. 2번 which는 관계대명사라 뒤 절의 주어나 목적어 자리를 맡아야 해요. Mina refused the offer는 목적어 the offer까지 갖춰서 빈자리가 없어요. which를 쓰려면 for which처럼 전치사를 붙여야 why와 같은 뜻이 돼요. 3번 whom은 사람 선행사 뒤에서 목적어 자리를 맡는 말이라 the reason과 맞지 않아요.",
+   "caption": "정답 ④ why"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 13,
+   "screen": {
+    "text": "정답 ④ why\n\n관계부사 뒤에는 완전한 절: 장소 → where, 때 → when, 이유 → why",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ why",
+     "관계부사 뒤에는 완전한 절: 장소 → where, 때 → when, 이유 → why"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 관계부사는 선행사가 장소면 where, 때면 when, 이유면 why를 쓰고, 그 뒤에는 완전한 절이 와요.",
+   "caption": "관계부사 뒤에는 완전한 절"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 말로 가장 알맞은 것을 고르시오.",
+  "passage": "I understand the reason _____ Mina refused the offer.",
+  "c": [
+   "when",
+   "which",
+   "whom",
+   "why",
+   "where"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 이유 관계부사 why는 선행사와 뒤의 완전한 절 사이에서 부사어 관계를 나타낸다. 뒤 절의 필수 성분이 갖추어졌는지 함께 확인한다.\n풀이 순서: ① 빈칸 앞의 선행사(the reason)가 무엇을 나타내는지 본다. → ② 빈칸 뒤의 절(Mina refused the offer)에 주어·목적어 등 빠진 성분이 없으므로 관계대명사(which, whom)가 아니라 관계부사 자리다. → ③ 선행사가 이유이므로 why를 쓴다. 정답은 why.\n문장별 판정:\n정답 판단: Mina가 주어, refused가 동사, the offer가 목적어이다. 선행사의 이유 관계를 잇는 why가 맞다.\n선택지 분석:\n① [오답] when은 이 문항의 이유 선행사 관계를 나타내지 못한다. why로 고친다.\n② [오답] 관계대명사 which가 절 안에서 맡을 주어·목적어 자리가 없으므로 이 형태로는 맞지 않는다. 적절한 전치사와 which를 함께 쓰는 구조와 구별한다.\n③ [오답] whom은 사람을 가리키는 관계대명사로 이 선행사와 맞지 않으며, 뒤의 절에도 그에 해당하는 주어·목적어 빈자리가 없다.\n④ [정답] Mina가 주어, refused가 동사, the offer가 목적어이다. 선행사의 이유 관계를 잇는 why가 맞다.\n⑤ [오답] where는 이 문항의 이유 선행사 관계를 나타내지 못한다. why로 고친다."
+ }
+}

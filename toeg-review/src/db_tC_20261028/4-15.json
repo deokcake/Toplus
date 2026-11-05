@@ -1,0 +1,31 @@
+{
+  "by": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-24T02:56:51.170Z",
+  "doneBy": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "ⓐ, ⓑ",
+      "1": "ⓐ, ⓒ",
+      "2": "ⓑ, ⓒ",
+      "3": "ⓑ, ⓓ",
+      "4": "ⓒ, ⓓ"
+    },
+    "expl": "핵심 규칙: 지시어(this/that ↔ these/those)·명사·동사의 수를 맞춘다. 사람·동물의 소유는 's(복수 -s로 끝나면 '만), 사물의 소유는 of로 나타낸다.\n풀이 순서: ① 주어와 동사의 수가 맞는지 본다(pants·shoes는 복수, news는 단수, this/that + 단수, these/those + 복수). → ② 소유 표현을 본다(사람은 's, -s로 끝나는 복수명사는 ', 사물은 of). → ③ ⓐ These jeans is(are), ⓒ my brother bike(my brother's bike)가 틀렸다. 옳은 문장만 고른 ⓑ, ⓓ가 정답이다.\n문장별 판정:\nⓐ X. jeans는 복수 취급해 are를 쓴다.\nⓑ O. 사물(집)의 소유를 of로 나타냈다.\nⓒ X. ‘형의 자전거’는 my brother's bike로 쓴다.\nⓓ O. -s로 끝나는 복수명사의 소유격은 '만 붙인다.\n정답 판단: 어법상 옳은 문장은 ⓑ, ⓓ이다.\n선택지 분석:\n① [오답] ⓐ는 옳은 문장이 아니고, 옳은 문장 ⓓ를 빠뜨렸다. 따라서 오답이다.\n② [오답] ⓐ, ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓑ, ⓓ를 빠뜨렸다. 따라서 오답이다.\n③ [오답] ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓓ를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 ⓑ, ⓓ를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] ⓒ는 옳은 문장이 아니고, 옳은 문장 ⓑ를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "ⓐ These jeans is too small for me.\nⓑ The roof of the house is red.\nⓒ I borrowed my brother bike.\nⓓ My parents' car is white.",
+    "stem": "다음 중 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": "2026-10-24T02:56:48.654Z"
+  },
+  "tab": "ai7fx4gw",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": {
+      "at": "2026-10-24T02:56:51.171Z",
+      "what": "확인 완료"
+    }
+  }
+}

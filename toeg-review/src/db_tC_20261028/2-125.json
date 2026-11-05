@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T04:14:28.205Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 현재의 가정은 과거형(be동사는 were), 과거의 가정은 had + 과거분사로 나타내며, 그 결과는 각각 would + 동사원형, would have + 과거분사이다. wish와 as if 뒤에도 가리키는 때에 맞는 가정법 형태를 쓰고 will·can·현재형을 쓰지 않는다.\n풀이 순서: ① 문장마다 if절과 주절의 짝을 본다. 가정법 과거는 ‘과거형 - would + 동사원형’, 가정법 과거완료는 ‘had + 과거분사 - would have + 과거분사’다. → ② I wish, as if 뒤에는 과거형이나 had + 과거분사를 쓴다. 현재형, will, can은 틀린다. → ③ ⓒ는 I wish I had, ⓓ는 she would have caught, ⓕ는 If I were you로 써야 한다. 틀린 문장은 3개이다.\n문장별 판정:\nⓐ O. as if + 과거형으로 현재 사실의 반대를 나타냈다.\nⓑ O. 가정법 과거이다.\nⓒ X. I wish 뒤 현재 사실 반대에는 과거형을 쓴다(I wish I had).\nⓓ X. 가정법 과거완료의 주절은 would have + 과거분사이다(would have caught).\nⓔ O. wish 뒤에 could + 동사원형을 썼다.\nⓕ X. 주절이 would apologize인 가정법 과거이므로 If I were you로 쓴다.\n정답 판단: 어법상 틀린 문장은 ⓒ, ⓓ, ⓕ로 3개이다.\n선택지 분석:\n① [오답] 어법상 틀린 문장은 ⓒ, ⓓ, ⓕ로 3개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 어법상 틀린 문장은 ⓒ, ⓓ, ⓕ로 3개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [정답] 어법상 틀린 문장은 ⓒ, ⓓ, ⓕ로 3개이다. 이 보기의 3개는 실제 개수와 일치한다.\n④ [오답] 어법상 틀린 문장은 ⓒ, ⓓ, ⓕ로 3개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 틀린 문장은 ⓒ, ⓓ, ⓕ로 3개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "ⓐ He acts as if he knew everything.\nⓑ If we lived closer, we would visit often.\nⓒ I wish I have more time.\nⓓ If Mina had left earlier, she will have caught the bus.\nⓔ Tom wishes he could swim.\nⓕ If I am you, I would apologize.",
+    "stem": "다음 중 어법상 틀린 문장의 개수를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:13:53.504Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T04:14:28.205Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:14:28.205Z",
+      "what": "확인 완료"
+    }
+  }
+}

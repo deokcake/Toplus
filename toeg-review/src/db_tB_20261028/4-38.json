@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-06T07:32:34.269Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "The kids ran to the playground.",
+      "2": "We eat pizza last night.",
+      "3": "Tom went home early.",
+      "4": null
+    },
+    "expl": "핵심 규칙: 과거를 나타내는 말(yesterday, last ~, ago)이 있으면 동사의 과거형을 쓴다. 과거형은 주어와 관계없이 같은 형태이며 -s를 붙이지 않는다.\n풀이 순서: ① 문장마다 동사가 과거형인지 본다. → ② 과거의 때를 나타내는 말이 있는데 동사가 현재형·원형인 문장을 찾는다. → ③ 선택지 ③은 last night이 있는데 eat을 썼다. ate로 고친다. 정답은 ③.\n문장별 판정:\n정답 판단: last night(과거)에는 과거형 ate를 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 과거형 bought를 바르게 썼으므로 오답이다.\n② [오답] 과거형 ran을 바르게 썼으므로 오답이다.\n③ [정답] last night(과거)에는 과거형 ate를 써야 하므로 정답이다.\n④ [오답] 과거형 went를 바르게 썼으므로 오답이다.\n⑤ [오답] 과거형 saw를 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T07:32:27.947Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T07:32:34.269Z",
+      "what": "확인 완료"
+    }
+  }
+}

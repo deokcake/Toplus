@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:44:45.390Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Are these a book?",
+      "1": "Is these books?",
+      "2": "Are these books?",
+      "3": "Are this books?",
+      "4": "Is this a books?"
+    },
+    "expl": "핵심 규칙: 지시어와 be동사, 명사의 수를 함께 맞춘다. this/that + is + a/an + 단수 명사, these/those + are + 복수 명사로 쓰고, a/an은 첫소리로 정한다.\n풀이 순서: ① <보기>에서 서로 맞지 않는 곳을 찾는다: Are these는 여러 개인데 books 앞에 a를 썼다. → ② 지시대명사·be동사·관사·명사의 수를 하나로 맞추면 Are these books? → ③ 정답은 ③.\n문장별 판정:\n정답 판단: these, are, 복수 명사 books를 바르게 맞췄으므로 정답은 ③이다.\n선택지 분석:\n① [오답] these는 여러 개라 a book(한 권)과 쓸 수 없으므로 오답이다.\n② [오답] 복수 주어 these에는 Is가 아니라 Are를 쓰므로 오답이다.\n③ [정답] these, are, 복수 명사 books를 바르게 맞췄으므로 정답이다.\n④ [오답] 여러 권을 가리키고, this가 아니라 these를 쓰므로 오답이다.\n⑤ [오답] a 뒤에는 단수 명사를 쓰고, 여러 권은 these와 are로 나타내므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 <보기>의 문장을 바르게 고쳐 쓴 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:44:43.298Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:44:45.390Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:44:45.390Z",
+      "what": "확인 완료"
+    }
+  }
+}

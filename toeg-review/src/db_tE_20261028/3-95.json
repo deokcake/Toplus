@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-26T04:49:30.073Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Bella, Coco",
+      "1": "Alice, Diana",
+      "2": "Coco, Ella",
+      "3": "Bella, Diana, Ella",
+      "4": "Bella, Diana"
+    },
+    "expl": "핵심 규칙: 형용사는 명사 앞이나 보어 자리, -thing 대명사 뒤에 쓴다. 부사는 동사를 꾸미며 fast·hard는 -ly 없이 부사로 쓴다(hardly는 ‘거의 ~않다’, lately는 ‘최근에’). 빈도부사는 일반동사 앞, be동사 뒤에 둔다. few·a few는 셀 수 있는 명사, little·a little은 셀 수 없는 명사에 쓴다.\n풀이 순서: ① 학생마다 예문이 옳은 문장인지 먼저 판단하고 설명과 견준다. → ② Bella의 friendly는 -ly로 끝나지만 형용사라 옳은 문장인데 틀렸다고 했고, Diana의 highly는 ‘매우’라 ‘높이’는 high다. Alice, Coco, Ella의 설명은 옳다. → ③ 잘못 설명한 학생은 Bella, Diana.\n문장별 판정:\nAlice O. -thing 대명사는 형용사가 뒤에서 꾸민다.\nBella X. friendly는 -ly로 끝나지만 형용사라 옳은 문장이다.\nCoco O. 빈도부사는 be동사 뒤에 온다.\nDiana X. ‘높이’는 high로 쓰고, highly는 ‘매우’라는 뜻이다.\nElla O. 셀 수 없는 명사 time에 much를 쓴다.\n정답 판단: 잘못 설명한 학생은 Bella, Diana이다.\n선택지 분석:\n① [오답] Coco는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Diana를 빠뜨렸다. 따라서 오답이다.\n② [오답] Alice는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Bella를 빠뜨렸다. 따라서 오답이다.\n③ [오답] Coco, Ella는 잘못 설명한 학생이 아니고, 잘못 설명한 학생 Bella, Diana를 빠뜨렸다. 따라서 오답이다.\n④ [오답] Ella는 잘못 설명한 학생이 아니다. 따라서 오답이다.\n⑤ [정답] 잘못 설명한 학생 Bella, Diana를 빠짐없이 골랐으므로 정답이다.",
+    "passage": "Alice: 'Would you like something hot?'에서 형용사가 something 뒤에 와서 옳은 문장이야.\nBella: 'She is a friendly girl.'에서 friendly는 부사라서 틀린 문장이야.\nCoco: 'Tom is rarely late.'에서 rarely가 be동사 뒤에 와서 옳은 문장이야.\nDiana: 'He can jump highly.'는 그가 높이 뛸 수 있다는 옳은 문장이야.\nElla: 'We don't have much time.'에서 time은 셀 수 없는 명사라 much를 써서 옳은 문장이야.",
+    "stem": "다음 중 잘못 설명한 학생들을 모두 고르시오."
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T04:49:30.073Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:49:30.073Z",
+      "what": "확인 완료"
+    }
+  }
+}

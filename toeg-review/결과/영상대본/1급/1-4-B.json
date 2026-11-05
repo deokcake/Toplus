@@ -1,0 +1,179 @@
+{
+ "key": "1-4",
+ "type": "B",
+ "grade": 1,
+ "chapter": "CH 1 문장의 구조",
+ "title": "전치사 없이 목적어를 받는 동사",
+ "total_sec": 125,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "1급 · CH 1 문장의 구조 · 4번 · B 유형\n\n이 문제는 목적어를 바로 받는 동사가 전치사 없이 바르게 쓰인 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 1 문장의 구조 · 4번 · B 유형",
+     "이 문제는 목적어를 바로 받는 동사가 전치사 없이 바르게 쓰인 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 1, 4번 B 유형. 이 문제는 목적어를 바로 받는 동사가 전치사 없이 바르게 쓰인 문장을 고르는 문제예요.",
+   "caption": "목적어를 바로 받는 동사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 15,
+   "screen": {
+    "text": "다음 중 동사가 올바르게 사용된 문장을 고르시오.\n\n① Tom reached at home.\n② The class discussed the article in detail.\n③ The students entered to the classroom quietly.\n④ He resembles with his father.\n⑤ They approached to the gate.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 동사가 올바르게 사용된 문장을 고르시오.",
+     "① Tom reached at home.",
+     "② The class discussed the article in detail.",
+     "③ The students entered to the classroom quietly.",
+     "④ He resembles with his father.",
+     "⑤ They approached to the gate."
+    ]
+   },
+   "narration": "다음 중 동사가 올바르게 사용된 문장을 고르시오. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\n목적어를 바로 받는 동사: 동사 바로 뒤에 전치사 없이 목적어\nreach(도착하다), enter(들어가다), approach(다가가다)\ndiscuss(논의하다), resemble(닮다), attend(참석하다)\n우리말 ‘~에, ~에 대해, ~와’로 옮겨져도 at, to, with를 넣지 않아요\n예) We attended the meeting. (우리는 그 회의에 참석했어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "목적어를 바로 받는 동사: 동사 바로 뒤에 전치사 없이 목적어",
+     "reach(도착하다), enter(들어가다), approach(다가가다)",
+     "discuss(논의하다), resemble(닮다), attend(참석하다)",
+     "우리말 ‘~에, ~에 대해, ~와’로 옮겨져도 at, to, with를 넣지 않아요",
+     "예) We attended the meeting. (우리는 그 회의에 참석했어요.)"
+    ]
+   },
+   "narration": "reach가 도착하다, enter가 들어가다, approach가 다가가다라는 뜻일 때는 목적어를 전치사 없이 바로 뒤에 써요. discuss, resemble, 그리고 참석하다라는 뜻의 attend도 마찬가지예요. 우리말로는 집에 도착하다, 아빠와 닮다처럼 말해도 at, to, with를 넣지 않아요. 예를 들어 We attended the meeting. 우리는 그 회의에 참석했어요.",
+   "caption": "전치사 없이 바로 목적어"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 동사가 올바르게 사용된 문장을 고르시오.\n\n① Tom reached at home.\n② The class discussed the article in detail.\n③ The students entered to the classroom quietly.\n④ He resembles with his father.\n⑤ They approached to the gate.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "reached at",
+       "entered to",
+       "resembles with",
+       "approached to",
+       "discussed the article"
+      ],
+      "strike": [],
+      "note": "문장마다 동사 바로 뒤를 본다: 전치사가 끼어 있나?"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① Tom reached at home.",
+       "③ The students entered to the classroom quietly.",
+       "④ He resembles with his father.",
+       "⑤ They approached to the gate."
+      ],
+      "note": "reach(도착하다)·enter(들어가다)·resemble·approach(다가가다)는 목적어를 바로 받음 → ①③④⑤ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② The class discussed the article in detail."
+      ],
+      "strike": [],
+      "note": "② discuss + the article: 전치사 없이 목적어 → 정답"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 동사 바로 뒤를 보면 1번 reached at, 3번 entered to, 4번 resembles with, 5번 approached to처럼 전치사가 끼어 있어요. 둘째, 이 네 동사는 목적어를 바로 받으니 1번, 3번, 4번, 5번은 모두 틀렸어요. 셋째, 2번은 discuss 바로 뒤에 목적어 the article이 와요. The class discussed the article in detail. 반 학생들은 그 기사에 대해 자세히 논의했어요.",
+   "caption": "전치사 찾기 → 넷 지우기 → ②"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① Tom reached at home.  ✗  도착한 곳 앞 at 불필요: reached home\n② The class discussed the article in detail.  ✓  discuss 바로 뒤에 목적어 the article\n③ The students entered to the classroom quietly.  ✗  들어가는 곳 앞 to 불필요: entered the classroom\n④ He resembles with his father.  ✗  닮은 사람 앞 with 불필요: resembles his father\n⑤ They approached to the gate.  ✗  다가가는 대상 앞 to 불필요: approached the gate",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Tom reached at home.  ✗  도착한 곳 앞 at 불필요: reached home",
+     "② The class discussed the article in detail.  ✓  discuss 바로 뒤에 목적어 the article",
+     "③ The students entered to the classroom quietly.  ✗  들어가는 곳 앞 to 불필요: entered the classroom",
+     "④ He resembles with his father.  ✗  닮은 사람 앞 with 불필요: resembles his father",
+     "⑤ They approached to the gate.  ✗  다가가는 대상 앞 to 불필요: approached the gate"
+    ]
+   },
+   "narration": "정답은 2번이에요. 3번은 교실로 들어갔다는 우리말 때문에 to를 넣기 쉽지만, entered the classroom이 맞아요. 5번도 to를 빼고 approached the gate라고 써요. 4번 역시 with를 빼고 resembles his father가 맞아요.",
+   "caption": "정답 ②"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ② The class discussed the article in detail.\n\nreach(도착하다), enter(들어가다), approach(다가가다), discuss, resemble → 바로 목적어",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② The class discussed the article in detail.",
+     "reach(도착하다), enter(들어가다), approach(다가가다), discuss, resemble → 바로 목적어"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, discuss와 resemble, 도착하다의 reach, 들어가다의 enter, 다가가다의 approach는 전치사 없이 써요.",
+   "caption": "reach·enter·approach + 목적어"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 동사가 올바르게 사용된 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Tom reached at home.",
+   "The class discussed the article in detail.",
+   "The students entered to the classroom quietly.",
+   "He resembles with his father.",
+   "They approached to the gate."
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: attend, discuss, resemble, reach, approach, enter는 우리말로 ‘~에, ~에 대해, ~와’로 옮겨져도 전치사 없이 목적어를 바로 취하는 타동사이다.\n풀이 순서: ① 문장마다 동사 바로 뒤에 전치사가 끼어 있는지 본다. → ② 오답 네 문장은 전치사 없이 목적어를 받는 타동사 뒤에 전치사를 붙였다(reached at, entered to, resembles with, approached to). → ③ 선택지 ②만 동사 뒤에 목적어가 바로 온다(discussed the article).\n문장별 판정:\n정답 판단: ‘The class discussed the article in detail.’만 discuss가 목적어를 전치사 없이 바로 취해 올바르다.\n선택지 분석:\n① [오답] reach 뒤에는 전치사 없이 도착하는 곳을 쓴다(reached home). at이 필요 없으므로 오답이다.\n② [정답] discuss가 목적어 the article을 전치사 없이 바로 취해 올바르므로 정답이다.\n③ [오답] 장소에 들어간다는 뜻의 enter는 장소를 바로 목적어로 취한다. to가 필요 없으므로 오답이다.\n④ [오답] resemble은 닮은 대상을 바로 목적어로 취한다. with가 필요 없으므로 오답이다.\n⑤ [오답] approach는 다가가는 대상을 바로 목적어로 취한다. to가 필요 없으므로 오답이다."
+ }
+}

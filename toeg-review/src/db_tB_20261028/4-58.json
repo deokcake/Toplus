@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-06T08:35:01.192Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": null,
+      "1": "Do - have",
+      "2": null,
+      "3": "Are - have",
+      "4": "Do - has"
+    },
+    "expl": "핵심 규칙: Must ~?는 Do/Does + 주어 + have to + 동사원형 ~?으로 바꿀 수 있다. 3인칭 단수 주어에는 Does, 그 밖의 주어에는 Do를 쓰고, 뒤의 have는 원형이다.\n풀이 순서: ① must와 같은 뜻은 have to다. have to의 의문문은 일반동사처럼 Do/Does로 만든다. → ② 주어를 본다: your parents는 복수이므로 Do. → ③ Do/Does 뒤이므로 둘째 빈칸은 동사원형 have다. 정답은 Do - have.\n문장별 판정:\n정답 판단: 3인칭 단수가 아닌 주어에 Do를 쓰고 뒤에 원형 have를 바르게 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] Does 뒤에는 원형 have를 쓰고 주어도 3인칭 단수가 아니므로 오답이다.\n② [정답] 3인칭 단수가 아닌 주어에 Do를 쓰고 뒤에 원형 have를 바르게 썼으므로 정답이다.\n③ [오답] 주어가 3인칭 단수가 아니라 Does를 쓸 수 없으므로 오답이다.\n④ [오답] have to 의문문은 be동사로 만들지 않으므로 오답이다.\n⑤ [오답] Do 뒤에는 원형 have를 쓰므로 오답이다.",
+    "passage": "Must your parents work on Sundays?\n= ________ your parents ________ to work on Sundays?",
+    "stem": "다음 두 문장의 의미가 같도록 빈칸에 알맞은 말을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-06T08:34:51.500Z"
+  },
+  "tab": "ou0j0srb",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-06T08:35:01.192Z",
+      "what": "확인 완료"
+    }
+  }
+}

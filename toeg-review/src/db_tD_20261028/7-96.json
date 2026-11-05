@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T03:59:20.042Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": "six",
+      "2": "sixty",
+      "3": "sixteenth",
+      "4": "sixteen"
+    },
+    "expl": "핵심 규칙: 순서를 차례로 늘어놓은 서수 배열이므로 빈칸에도 서수가 들어간다. 기수(nine)나 철자가 비슷한 다른 단어와 헷갈리지 않도록 한다.\n풀이 순서: ① 앞뒤 낱말이 모두 서수이므로 빈칸에도 서수가 온다. → ② 빈칸은 fifth(다섯째)와 seventh(일곱째) 사이, 곧 여섯째 자리다. → ③ 기수와 철자가 비슷한 낱말을 지우면 sixth.\n문장별 판정:\n정답 판단: fifth와 seventh 사이의 서수(여섯 번째)이므로 정답은 ①이다.\n선택지 분석:\n① [정답] fifth와 seventh 사이의 서수(여섯 번째)이므로 정답이다.\n② [오답] 기수(6)라 서수 배열에 들어갈 수 없으므로 오답이다.\n③ [오답] 기수 60이라 서수 배열에 들어갈 수 없으므로 오답이다.\n④ [오답] 열여섯 번째라는 서수라 fifth와 seventh 사이에 올 수 없으므로 오답이다.\n⑤ [오답] 기수 16이라 서수 배열에 들어갈 수 없으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 빈칸에 들어갈 알맞은 단어는?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T03:59:17.939Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T03:59:20.042Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T03:59:20.042Z",
+      "what": "확인 완료"
+    }
+  }
+}

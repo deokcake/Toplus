@@ -1,0 +1,470 @@
+{
+ "A": {
+  "title": "주어와 be동사 am, is, are의 짝",
+  "intro": "이 문제는 다섯 문장에서 주어와 be동사의 짝이 맞지 않는 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형 am, is, are: 주로 '이다', '있다'",
+    "I → am, you → are",
+    "he, she, it(한 명·한 개), 셀 수 없는 것(milk) → is",
+    "we, they(여럿) → are",
+    "예) The milk is hot. (우유가 뜨거워요.)"
+   ],
+   "narration": "be동사의 현재형 am, is, are는 주로 '이다'나 '있다'라는 뜻이고, 주어에 맞춰 골라요. 주어가 I이면 am, you이면 are를 써요. he, she, it처럼 한 명이나 한 개이면 is, we, they처럼 여럿이면 are를 써요. milk처럼 셀 수 없는 것도 한 개처럼 다뤄서 is를 써요. 예를 들어 The milk is hot, 우유가 뜨거워요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 주어 찾기: It = 한 마리, James·My boss = 한 사람, We = 여럿, The water = 셀 수 없는 것.",
+    "highlight": [
+     "It",
+     "We",
+     "The water",
+     "James",
+     "My boss"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 주어를 찾아요. It은 원숭이 한 마리, James와 My boss는 한 사람, We는 여럿, The water는 셀 수 없는 것이에요."
+   },
+   {
+    "note": "짝이 맞는 문장은 지운다: It·James·My boss → is, We → are.",
+    "highlight": [],
+    "strike": [
+     "① It is a monkey.",
+     "② We are police officers.",
+     "④ James is at home.",
+     "⑤ My boss is angry."
+    ],
+    "narration": "둘째, It, James, My boss에는 is, We에는 are를 바르게 썼으니 지워요."
+   },
+   {
+    "note": "셀 수 없는 The water에 are → 틀림. The water is cold.",
+    "highlight": [
+     "③ The water are cold."
+    ],
+    "strike": [],
+    "narration": "셋째, 3번의 The water는 셀 수 없는 것이라 is를 써야 하는데 are를 썼어요. 바르게 고치면 The water is cold, 물이 차가워요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① It is a monkey.  ✗  한 마리 It → is, 바른 문장",
+    "② We are police officers.  ✗  여럿 We → are, 바른 문장",
+    "③ The water are cold.  ✓  셀 수 없는 water → is로 고쳐야 해요",
+    "④ James is at home.  ✗  s로 끝나도 한 사람 James → is, 바른 문장",
+    "⑤ My boss is angry.  ✗  s로 끝나도 한 사람 My boss → is, 바른 문장"
+   ],
+   "narration": "정답은 3번이에요. 셀 수 없는 water에는 is를 써요. 4번 James와 5번 My boss는 s로 끝나지만 둘 다 한 사람이라 is가 맞아요. 2번 We는 여럿이라 are가 맞아요."
+  },
+  "summary": {
+   "card": "셀 수 없는 것(water, milk)이 주어 → is",
+   "narration": "정답은 3번이에요. 기억할 것, water처럼 셀 수 없는 것이 주어이면 be동사는 is를 써요."
+  },
+  "captions": [
+   "주어와 be동사의 짝",
+   "먼저 풀어 보세요",
+   "주어에 맞춰 am·is·are",
+   "주어 찾기 → 짝 맞추기",
+   "정답 ③ water에는 is",
+   "셀 수 없는 것 + is"
+  ],
+  "sec": [
+   10,
+   13,
+   28,
+   34,
+   24,
+   10
+  ]
+ },
+ "B": {
+  "title": "주어와 be동사 am, is, are의 짝",
+  "intro": "이 문제는 다섯 문장에서 주어와 be동사의 짝이 맞지 않는 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형 am, is, are: 주로 '이다', '있다'",
+    "I → am, you(한 명이어도) → are",
+    "he, she, it(한 명·한 개) → is",
+    "we, they(여럿) → are",
+    "예) We are in the park. (우리는 공원에 있어요.)"
+   ],
+   "narration": "be동사의 현재형 am, is, are는 주로 '이다'나 '있다'라는 뜻이고, 주어에 맞춰 골라요. 주어가 I이면 am, you이면 한 명을 가리켜도 are를 써요. he, she, it처럼 한 명이나 한 개이면 is, we, they처럼 여럿이면 are를 써요. 예를 들어 We are in the park, 우리는 공원에 있어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 주어 찾기: I = 나, You = 너, The cat = 한 마리, We·They = 여럿.",
+    "highlight": [
+     "I am",
+     "You are",
+     "We is",
+     "The cat is",
+     "They are"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 주어를 찾아요. I는 나, You는 너, The cat은 한 마리, We와 They는 여럿이에요."
+   },
+   {
+    "note": "짝이 맞는 문장은 지운다: I → am, You·They → are, The cat → is.",
+    "highlight": [],
+    "strike": [
+     "① I am hungry.",
+     "② You are nice.",
+     "④ The cat is small.",
+     "⑤ They are at school."
+    ],
+    "narration": "둘째, I에는 am, You와 They에는 are, The cat에는 is를 바르게 썼으니 지워요."
+   },
+   {
+    "note": "여럿인 We에 is → 틀림. We are at home.",
+    "highlight": [
+     "③ We is at home."
+    ],
+    "strike": [],
+    "narration": "셋째, 3번의 We는 여럿이라 are를 써야 하는데 is를 썼어요. 바르게 고치면 We are at home, 우리는 집에 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① I am hungry.  ✗  I → am, 바른 문장",
+    "② You are nice.  ✗  you는 한 명이어도 are, 바른 문장",
+    "③ We is at home.  ✓  여럿 We → are로 고쳐야 해요",
+    "④ The cat is small.  ✗  한 마리 The cat → is, 바른 문장",
+    "⑤ They are at school.  ✗  여럿 They → are, 바른 문장"
+   ],
+   "narration": "정답은 3번이에요. We는 나를 포함한 여럿이라 are를 써요. 2번 You는 한 명을 가리켜도 are를 쓰니 바른 문장이에요. 4번 The cat은 한 마리라 is가 맞고, 1번 I에는 am이 맞아요."
+  },
+  "summary": {
+   "card": "we, they, you, 여럿이 주어 → are",
+   "narration": "정답은 3번이에요. 기억할 것, 주어가 we, they처럼 여럿이거나 you이면 be동사는 are를 써요."
+  },
+  "captions": [
+   "주어와 be동사의 짝",
+   "먼저 풀어 보세요",
+   "주어에 맞춰 am·is·are",
+   "주어 찾기 → 짝 맞추기",
+   "정답 ③ We에는 are",
+   "we·they·you + are"
+  ],
+  "sec": [
+   10,
+   13,
+   28,
+   34,
+   24,
+   10
+  ]
+ },
+ "C": {
+  "title": "주어와 be동사 am, is, are의 짝",
+  "intro": "이 문제는 다섯 문장에서 주어와 be동사의 짝이 맞지 않는 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형 am, is, are: 주로 '이다', '있다'",
+    "I → am, you → are",
+    "he, she, it(한 명·한 개) → is",
+    "we, they, 두 사람을 and로 이은 주어(여럿) → are",
+    "예) Mina and Jun are here. (미나와 준이 여기 있어요.)"
+   ],
+   "narration": "be동사의 현재형 am, is, are는 주로 '이다'나 '있다'라는 뜻이고, 주어에 맞춰 골라요. 주어가 I이면 am, you이면 are를 써요. he, she, it처럼 한 명이나 한 개이면 is, we, they처럼 여럿이면 are를 써요. 두 사람을 and로 이은 주어도 여럿이라 are를 써요. 예를 들어 Mina and Jun are here, 미나와 준이 여기 있어요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 주어 찾기: My father·Tom = 한 사람, The girls·They = 여럿, Jane and Amy = 두 사람.",
+    "highlight": [
+     "Jane and Amy",
+     "The girls",
+     "My father",
+     "They",
+     "Tom"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 주어를 찾아요. My father와 Tom은 한 사람, The girls와 They는 여럿, Jane and Amy는 두 사람이에요."
+   },
+   {
+    "note": "짝이 맞는 문장은 지운다: My father·Tom → is, The girls·They → are.",
+    "highlight": [],
+    "strike": [
+     "② The girls are happy.",
+     "③ My father is home.",
+     "④ They are students.",
+     "⑤ Tom is my friend."
+    ],
+    "narration": "둘째, My father와 Tom에는 is, The girls와 They에는 are를 바르게 썼으니 지워요."
+   },
+   {
+    "note": "두 사람 Jane and Amy에 is → 틀림. Jane and Amy are friends.",
+    "highlight": [
+     "① Jane and Amy is friends."
+    ],
+    "strike": [],
+    "narration": "셋째, 1번의 Jane and Amy는 and로 이은 두 사람이라 are를 써야 하는데 is를 썼어요. 바르게 고치면 Jane and Amy are friends, 제인과 에이미는 친구예요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Jane and Amy is friends.  ✓  두 사람 Jane and Amy → are로 고쳐야 해요",
+    "② The girls are happy.  ✗  여럿 The girls → are, 바른 문장",
+    "③ My father is home.  ✗  한 사람 My father → is, 바른 문장",
+    "④ They are students.  ✗  여럿 They → are, 바른 문장",
+    "⑤ Tom is my friend.  ✗  한 사람 Tom → is, 바른 문장"
+   ],
+   "narration": "정답은 1번이에요. Jane과 Amy, 두 사람을 and로 이었으니 여럿이라 are를 써요. 3번 My father와 5번 Tom은 한 사람이라 is가 맞아요. 2번 The girls는 소녀가 여러 명이라 are가 맞아요."
+  },
+  "summary": {
+   "card": "두 사람을 and로 이은 주어(A and B) → are",
+   "narration": "정답은 1번이에요. 기억할 것, Jane and Amy처럼 두 사람을 and로 이은 주어는 여럿이라 be동사 are를 써요."
+  },
+  "captions": [
+   "주어와 be동사의 짝",
+   "먼저 풀어 보세요",
+   "주어에 맞춰 am·is·are",
+   "주어 찾기 → 짝 맞추기",
+   "정답 ① 두 사람에는 are",
+   "A and B + are"
+  ],
+  "sec": [
+   10,
+   13,
+   28,
+   36,
+   24,
+   10
+  ]
+ },
+ "D": {
+  "title": "주어와 be동사 am, is, are의 짝",
+  "intro": "이 문제는 다섯 문장에서 주어와 be동사의 짝이 맞지 않는 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형 am, is, are: 주로 '이다', '있다'",
+    "I → am, you → are",
+    "he, she, it(한 명·한 개) → is",
+    "we, they(여럿), scissors(가위, 하나여도) → are",
+    "예) My scissors are sharp. (내 가위는 날카로워요.)"
+   ],
+   "narration": "be동사의 현재형 am, is, are는 주로 '이다'나 '있다'라는 뜻이고, 주어에 맞춰 골라요. 주어가 I이면 am, you이면 are를 써요. he, she, it처럼 한 명이나 한 개이면 is, we, they처럼 여럿이면 are를 써요. scissors, 가위는 하나여도 늘 여럿으로 다뤄서 are를 써요. 예를 들어 My scissors are sharp, 내 가위는 날카로워요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 주어 찾기: The puppy = 한 마리, Jane = 한 사람, My parents·These books = 여럿, The scissors = 가위.",
+    "highlight": [
+     "My parents",
+     "The puppy",
+     "These books",
+     "Jane",
+     "The scissors"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 주어를 찾아요. The puppy는 한 마리, Jane은 한 사람, My parents와 These books는 여럿이에요."
+   },
+   {
+    "note": "짝이 맞는 문장은 지운다: The puppy·Jane → is, My parents·These books → are.",
+    "highlight": [],
+    "strike": [
+     "① My parents are at work.",
+     "② The puppy is hungry.",
+     "③ These books are heavy.",
+     "④ Jane is in the art room."
+    ],
+    "narration": "둘째, The puppy와 Jane에는 is, My parents와 These books에는 are를 바르게 썼으니 지워요."
+   },
+   {
+    "note": "늘 여럿으로 다루는 The scissors에 is → 틀림. The scissors are on the desk.",
+    "highlight": [
+     "⑤ The scissors is on the desk."
+    ],
+    "strike": [],
+    "narration": "셋째, 5번의 The scissors는 늘 여럿으로 다루니 are를 써야 하는데 is를 썼어요. 바르게 고치면 The scissors are on the desk, 가위가 책상 위에 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① My parents are at work.  ✗  여럿(부모님) My parents → are, 바른 문장",
+    "② The puppy is hungry.  ✗  한 마리 The puppy → is, 바른 문장",
+    "③ These books are heavy.  ✗  여럿 These books → are, 바른 문장",
+    "④ Jane is in the art room.  ✗  한 사람 Jane → is, 바른 문장",
+    "⑤ The scissors is on the desk.  ✓  scissors는 늘 여럿 → are로 고쳐야 해요"
+   ],
+   "narration": "정답은 5번이에요. scissors는 가위가 하나여도 늘 여럿으로 다뤄서 are를 써요. 1번 My parents는 부모님 두 분이라 are가 맞아요. 3번 These books는 책이 여러 권이라 are가 맞고, 2번 The puppy는 한 마리라 is가 맞아요."
+  },
+  "summary": {
+   "card": "scissors(가위)는 하나여도 → are",
+   "narration": "정답은 5번이에요. 기억할 것, scissors, 가위는 하나여도 늘 여럿으로 다뤄서 be동사 are를 써요."
+  },
+  "captions": [
+   "주어와 be동사의 짝",
+   "먼저 풀어 보세요",
+   "주어에 맞춰 am·is·are",
+   "주어 찾기 → 짝 맞추기",
+   "정답 ⑤ scissors에는 are",
+   "scissors + are"
+  ],
+  "sec": [
+   10,
+   13,
+   28,
+   36,
+   26,
+   10
+  ]
+ },
+ "E": {
+  "title": "주어와 be동사 am, is, are의 짝",
+  "intro": "이 문제는 다섯 문장에서 주어와 be동사의 짝이 맞지 않는 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형 am, is, are: 주로 '이다', '있다'",
+    "I → am, you → are",
+    "he, she, it(한 명·한 개) → is",
+    "we, they, cats처럼 여럿을 뜻하는 말 → are",
+    "예) The cats are cute. (그 고양이들은 귀여워요.)"
+   ],
+   "narration": "be동사의 현재형 am, is, are는 주로 '이다'나 '있다'라는 뜻이고, 주어에 맞춰 골라요. 주어가 I이면 am, you이면 are를 써요. he, she, it처럼 한 명이나 한 개이면 is, we, they처럼 여럿이면 are를 써요. cats처럼 여럿을 뜻하는 말이 주어여도 are를 써요. 예를 들어 The cats are cute, 그 고양이들은 귀여워요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 주어 찾기: Tom·The girl = 한 사람, The dogs·They·The boys = 여럿.",
+    "highlight": [
+     "The dogs",
+     "Tom",
+     "The girl",
+     "They",
+     "The boys"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 주어를 찾아요. Tom과 The girl은 한 사람, The dogs, They, The boys는 여럿이에요."
+   },
+   {
+    "note": "짝이 맞는 문장은 지운다: Tom·The girl → is, The dogs·They → are.",
+    "highlight": [],
+    "strike": [
+     "① The dogs are big.",
+     "② Tom is here.",
+     "③ The girl is my cousin.",
+     "④ They are busy."
+    ],
+    "narration": "둘째, Tom과 The girl에는 is, The dogs와 They에는 are를 바르게 썼으니 지워요."
+   },
+   {
+    "note": "여러 명인 The boys에 is → 틀림. The boys are happy.",
+    "highlight": [
+     "⑤ The boys is happy."
+    ],
+    "strike": [],
+    "narration": "셋째, 5번의 The boys는 소년이 여러 명이라 are를 써야 하는데 is를 썼어요. 바르게 고치면 The boys are happy, 그 소년들은 행복해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The dogs are big.  ✗  여럿 The dogs → are, 바른 문장",
+    "② Tom is here.  ✗  한 사람 Tom → is, 바른 문장",
+    "③ The girl is my cousin.  ✗  한 사람 The girl → is, 바른 문장",
+    "④ They are busy.  ✗  여럿 They → are, 바른 문장",
+    "⑤ The boys is happy.  ✓  여러 명 The boys → are로 고쳐야 해요"
+   ],
+   "narration": "정답은 5번이에요. The boys는 소년이 여러 명이라 are를 써요. 3번 The girl은 소녀 한 명이라 is가 맞아요. 1번 The dogs는 개가 여러 마리라 are가 맞고, 2번 Tom은 한 사람이라 is가 맞아요."
+  },
+  "summary": {
+   "card": "boys처럼 여럿이 주어 → are",
+   "narration": "정답은 5번이에요. 기억할 것, The boys처럼 주어가 여럿이면 be동사는 are를 써요."
+  },
+  "captions": [
+   "주어와 be동사의 짝",
+   "먼저 풀어 보세요",
+   "주어에 맞춰 am·is·are",
+   "주어 찾기 → 짝 맞추기",
+   "정답 ⑤ The boys에는 are",
+   "여럿 + are"
+  ],
+  "sec": [
+   10,
+   13,
+   28,
+   34,
+   24,
+   10
+  ]
+ },
+ "F": {
+  "title": "주어와 be동사 am, is, are의 짝",
+  "intro": "이 문제는 다섯 문장에서 주어와 be동사의 짝이 맞지 않는 틀린 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 틀린 문장을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 현재형 am, is, are: 주로 '이다', '있다'",
+    "I → am, you → are",
+    "he, she, it(한 명·한 개) → is",
+    "we, they, pens처럼 여럿을 뜻하는 말 → are",
+    "예) My pens are blue. (내 펜들은 파란색이에요.)"
+   ],
+   "narration": "be동사의 현재형 am, is, are는 주로 '이다'나 '있다'라는 뜻이고, 주어에 맞춰 골라요. 주어가 I이면 am, you이면 are를 써요. he, she, it처럼 한 명이나 한 개이면 is, we, they처럼 여럿이면 are를 써요. pens처럼 여럿을 뜻하는 말이 주어여도 are를 써요. 예를 들어 My pens are blue, 내 펜들은 파란색이에요."
+  },
+  "steps": [
+   {
+    "note": "문장마다 주어 찾기: The cake = 한 개, Jane = 한 사람, We·My books·The pencils = 여럿.",
+    "highlight": [
+     "We",
+     "My books",
+     "The pencils",
+     "The cake",
+     "Jane"
+    ],
+    "strike": [],
+    "narration": "첫째, 문장마다 주어를 찾아요. The cake는 한 개, Jane은 한 사람, We, My books, The pencils는 여럿이에요."
+   },
+   {
+    "note": "짝이 맞는 문장은 지운다: The cake·Jane → is, We·The pencils → are.",
+    "highlight": [],
+    "strike": [
+     "① We are ready.",
+     "③ The pencils are long.",
+     "④ The cake is sweet.",
+     "⑤ Jane is kind."
+    ],
+    "narration": "둘째, The cake와 Jane에는 is, We와 The pencils에는 are를 바르게 썼으니 지워요."
+   },
+   {
+    "note": "여러 권인 My books에 is → 틀림. My books are new.",
+    "highlight": [
+     "② My books is new."
+    ],
+    "strike": [],
+    "narration": "셋째, 2번의 My books는 내 책 여러 권이라 are를 써야 하는데 is를 썼어요. 바르게 고치면 My books are new, 내 책들은 새것이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① We are ready.  ✗  여럿 We → are, 바른 문장",
+    "② My books is new.  ✓  여러 권 My books → are로 고쳐야 해요",
+    "③ The pencils are long.  ✗  여럿 The pencils → are, 바른 문장",
+    "④ The cake is sweet.  ✗  한 개 The cake → is, 바른 문장",
+    "⑤ Jane is kind.  ✗  한 사람 Jane → is, 바른 문장"
+   ],
+   "narration": "정답은 2번이에요. My books는 책이 여러 권이라 are를 써요. 3번 The pencils도 연필이 여러 자루라 are가 맞아요. 4번 The cake는 한 개라 is가 맞고, 1번 We는 여럿이라 are가 맞아요."
+  },
+  "summary": {
+   "card": "books처럼 여럿이 주어 → are",
+   "narration": "정답은 2번이에요. 기억할 것, My books처럼 주어가 여럿이면 be동사는 are를 써요."
+  },
+  "captions": [
+   "주어와 be동사의 짝",
+   "먼저 풀어 보세요",
+   "주어에 맞춰 am·is·are",
+   "주어 찾기 → 짝 맞추기",
+   "정답 ② My books에는 are",
+   "여럿 + are"
+  ],
+  "sec": [
+   10,
+   13,
+   28,
+   34,
+   24,
+   10
+  ]
+ }
+}

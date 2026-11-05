@@ -1,0 +1,180 @@
+{
+ "key": "5-5",
+ "type": "F",
+ "grade": 5,
+ "chapter": "CH 1 대명사",
+ "title": "자리에 맞는 대명사: 소유대명사 yours",
+ "total_sec": 120,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 1 대명사 · 5번 · F 유형\n\n이 문제는 주격, 목적격, 소유격, 소유대명사가 자리에 맞게 쓰인 옳은 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 1 대명사 · 5번 · F 유형",
+     "이 문제는 주격, 목적격, 소유격, 소유대명사가 자리에 맞게 쓰인 옳은 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 1, 5번 F 유형. 이 문제는 주격, 목적격, 소유격, 소유대명사가 자리에 맞게 쓰인 옳은 문장을 고르는 문제예요.",
+   "caption": "자리에 맞는 대명사 형태"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 옳은 문장을 고르시오.\n\n① Us are hungry.\n② I know his's name.\n③ Their's house is big.\n④ Please help my.\n⑤ These shoes are yours.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 옳은 문장을 고르시오.",
+     "① Us are hungry.",
+     "② I know his's name.",
+     "③ Their's house is big.",
+     "④ Please help my.",
+     "⑤ These shoes are yours."
+    ]
+   },
+   "narration": "다음 중 옳은 문장을 고르세요. 다섯 문장에서 대명사가 어느 자리에 쓰였는지 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n주어 자리 → 주격 (I, he, we, they) · 목적어 자리 → 목적격 (me, him, us, them)\n명사 앞에서 ‘누구의’ → 소유격 (my, your, his, her, its, our, their)\n명사 없이 ‘누구의 것’ → 소유대명사 (mine, yours, his, hers, ours, theirs)\n이 소유격·소유대명사에는 's를 붙이지 않아요 (it's는 it is의 줄임말)\n예) Our room is small, but theirs is big. (우리 방은 작지만, 그들의 것은 커요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "주어 자리 → 주격 (I, he, we, they) · 목적어 자리 → 목적격 (me, him, us, them)",
+     "명사 앞에서 ‘누구의’ → 소유격 (my, your, his, her, its, our, their)",
+     "명사 없이 ‘누구의 것’ → 소유대명사 (mine, yours, his, hers, ours, theirs)",
+     "이 소유격·소유대명사에는 's를 붙이지 않아요 (it's는 it is의 줄임말)",
+     "예) Our room is small, but theirs is big. (우리 방은 작지만, 그들의 것은 커요.)"
+    ]
+   },
+   "narration": "인칭대명사는 자리에 따라 모양이 달라서, 주어 자리에는 I, we 같은 주격을, 목적어 자리에는 me, us 같은 목적격을 써요. 명사 앞에서 누구의 것인지 나타낼 때는 my, our 같은 소유격을, 명사 없이 누구의 것이라고 말할 때는 mine, ours 같은 소유대명사를 써요. 이 소유격과 소유대명사에는 아포스트로피 에스를 붙이지 않고, 아포스트로피가 있는 it's는 it is를 줄인 말이에요. 예를 들어 Our room is small, but theirs is big. 우리 방은 작지만, 그들의 것은 커요.",
+   "caption": "자리에 따라 바뀌는 대명사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 30,
+   "screen": {
+    "text": "다음 중 옳은 문장을 고르시오.\n\n① Us are hungry.\n② I know his's name.\n③ Their's house is big.\n④ Please help my.\n⑤ These shoes are yours.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Us are",
+       "help my"
+      ],
+      "strike": [
+       "① Us are hungry.",
+       "④ Please help my."
+      ],
+      "note": "주어 자리 → 주격: ① Us → We / 목적어 자리 → 목적격: ④ help my → me"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "his's name",
+       "Their's house"
+      ],
+      "strike": [
+       "② I know his's name.",
+       "③ Their's house is big."
+      ],
+      "note": "소유격 his, Their에는 's를 붙이지 않는다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "⑤ These shoes are yours."
+      ],
+      "strike": [],
+      "note": "명사 없이 ‘너의 것’ → 소유대명사 yours → ⑤"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 1번은 주어 자리에 목적격 Us를, 4번은 help 뒤 목적어 자리에 소유격 my를 써서 틀렸어요. 둘째, his나 Their 같은 소유격에는 아포스트로피 에스를 붙이지 않아요. 그래서 2번과 3번도 틀렸어요. 셋째, 5번 yours는 명사 없이 너의 것이라는 뜻의 소유대명사라서 맞아요. These shoes are yours. 이 신발은 네 거예요.",
+   "caption": "주어·목적어 → 's → yours"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① Us are hungry.  ✗  주어 자리에는 목적격 Us가 아니라 주격 We\n② I know his's name.  ✗  소유격 his에는 's를 붙이지 않아요\n③ Their's house is big.  ✗  소유격 Their에는 's를 붙이지 않아요\n④ Please help my.  ✗  help의 목적어 자리에는 소유격 my가 아니라 목적격 me\n⑤ These shoes are yours.  ✓  명사 없이 ‘너의 것’ → 소유대명사 yours",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✓"
+    },
+    "reveal": [
+     "① Us are hungry.  ✗  주어 자리에는 목적격 Us가 아니라 주격 We",
+     "② I know his's name.  ✗  소유격 his에는 's를 붙이지 않아요",
+     "③ Their's house is big.  ✗  소유격 Their에는 's를 붙이지 않아요",
+     "④ Please help my.  ✗  help의 목적어 자리에는 소유격 my가 아니라 목적격 me",
+     "⑤ These shoes are yours.  ✓  명사 없이 ‘너의 것’ → 소유대명사 yours"
+    ]
+   },
+   "narration": "정답은 5번이에요. 명사 없이 너의 것이라는 뜻이라 소유대명사 yours가 맞아요. 4번 my는 나의라는 소유격이라 뒤에 명사가 와야 하는데, help 뒤 목적어 자리에는 목적격 me를 써요. 2번과 3번은 소유격 his와 Their에 아포스트로피 에스를 붙여서 틀렸어요. 1번 Us는 목적격이라서 주어 자리에는 주격 We를 써요.",
+   "caption": "정답 ⑤ yours"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ⑤ These shoes are yours.\n\n명사 앞 ‘누구의’ → 소유격(your) · 명사 없이 ‘누구의 것’ → 소유대명사(yours)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ⑤ These shoes are yours.",
+     "명사 앞 ‘누구의’ → 소유격(your) · 명사 없이 ‘누구의 것’ → 소유대명사(yours)"
+    ]
+   },
+   "narration": "정답은 5번이에요. 기억할 것, 명사 앞에서 누구의 것인지 나타낼 때는 your 같은 소유격을, 명사 없이 누구의 것이라고 말할 때는 yours 같은 소유대명사를 써요.",
+   "caption": "소유격 your · 소유대명사 yours"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Us are hungry.",
+   "I know his's name.",
+   "Their's house is big.",
+   "Please help my.",
+   "These shoes are yours."
+  ],
+  "ans": 5,
+  "expl": "핵심 규칙: 명사 앞에는 소유격(my, our, his, its, their), 명사 없이 ‘~의 것’은 소유대명사(mine, ours, hers, yours, theirs), 주어 자리에는 주격, 목적어 자리에는 목적격을 쓴다. 소유격·소유대명사에는 '(아포스트로피)를 붙이지 않고, it's는 it is의 줄임말이다.\n풀이 순서: ① 대명사마다 자리를 본다: 주어 자리, 명사 앞, 명사 없이 ‘~의 것’. → ② 주어 자리는 주격, 명사 앞은 소유격, 명사가 없으면 소유대명사다. → ③ 선택지 ⑤만 명사 없이 yours를 써서 맞다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 명사 없이 ‘너의 것’을 소유대명사 yours로 바르게 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 주어 자리에는 주격 We를 쓰므로 오답이다.\n② [오답] 소유격 his에는 's를 붙이지 않으므로 오답이다.\n③ [오답] 소유격 Their에는 's를 붙이지 않으므로 오답이다.\n④ [오답] 목적어 자리에는 목적격 me를 쓰므로 오답이다.\n⑤ [정답] 명사 없이 ‘너의 것’을 소유대명사 yours로 바르게 썼으므로 정답이다."
+ }
+}

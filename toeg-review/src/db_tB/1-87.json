@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T07:42:02.803Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": null,
+      "1": "bought",
+      "2": null,
+      "3": "that",
+      "4": null
+    },
+    "expl": "핵심 규칙: 관계절은 수식하는 선행사 바로 뒤에 두고, 주어 + 동사 + 목적어 순서로 문장을 완성한 뒤 단어의 순서를 센다.\n풀이 순서: ① 낱말 가운데 관계사(that)를 찾고, 그 앞에 올 선행사(the book)를 정한다. → ② 주절과 관계절을 나눠 문장을 완성한다: The book / that Mina bought / is interesting. → ③ 앞에서부터 세어 여섯 번째 낱말을 고른다. 정답은 is.\n문장별 판정:\n정답 판단: 완성 문장은 ‘The book that Mina bought is interesting.’이고 여섯 번째 단어는 is이다.\n선택지 분석:\n① [오답] 완성 문장에서 4번째 단어이다. 오답이다.\n② [오답] 완성 문장에서 5번째 단어이다. 오답이다.\n③ [정답] 완성 문장 ‘The book that Mina bought is interesting.’에서 여섯 번째 단어이다. 정답이다.\n④ [오답] 완성 문장에서 3번째 단어이다. 오답이다.\n⑤ [오답] 완성 문장에서 7번째 단어이다. 오답이다.",
+    "passage": "<보기>\ninteresting / Mina / that / the\nis / bought / book\n_____ _____ _____ _____ _____ ___★___ _____ .",
+    "stem": "다음 <보기>의 단어를 사용하여, 문장을 완성할 때 여섯 번째 자리(★)에 들어갈 단어로 가장 적절한 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-20T07:41:57.444Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-04T12:00:38.660Z",
+      "text": "단어가 제시된 순서대로 정답 문장이 올바르게 구성된다. 선택지를 순서를 섞어야 함."
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T07:42:04.931Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T07:42:04.931Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T07:42:04.931Z",
+      "what": "판정을 Claude 판정으로 되돌림"
+    }
+  }
+}

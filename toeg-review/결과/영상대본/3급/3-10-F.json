@@ -1,0 +1,185 @@
+{
+ "key": "3-10",
+ "type": "F",
+ "grade": 3,
+ "chapter": "CH 1 be동사",
+ "title": "복수 주어 children과 was, were",
+ "total_sec": 124,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "3급 · CH 1 be동사 · 10번 · F 유형\n\n이 문제는 was와 were가 주어에 맞게 쓰였는지 따져 틀린 문장의 개수를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 1 be동사 · 10번 · F 유형",
+     "이 문제는 was와 were가 주어에 맞게 쓰였는지 따져 틀린 문장의 개수를 고르는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 1, 10번 F 유형. 이 문제는 was와 were가 주어에 맞게 쓰였는지 따져 틀린 문장의 개수를 고르는 문제예요.",
+   "caption": "복수 children과 was, were"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 17,
+   "screen": {
+    "text": "다음 <보기> 중 어법상 틀린 문장의 개수는?\n\n<보기>\n- There was many dark clouds in the sky yesterday afternoon.\n- The sky were dark all day, so we turned on the lights early.\n- There was a strong wind from the sea in the evening.\n- The children was inside the house with their grandparents.\n\n① 1개\n② 2개\n③ 3개\n④ 4개\n⑤ 없음",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 <보기> 중 어법상 틀린 문장의 개수는?",
+     "<보기>",
+     "- There was many dark clouds in the sky yesterday afternoon.",
+     "- The sky were dark all day, so we turned on the lights early.",
+     "- There was a strong wind from the sea in the evening.",
+     "- The children was inside the house with their grandparents.",
+     "① 1개",
+     "② 2개",
+     "③ 3개",
+     "④ 4개",
+     "⑤ 없음"
+    ]
+   },
+   "narration": "다음 보기 중 어법상 틀린 문장의 개수를 고르세요. 네 문장을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 27,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 과거형 was, were (…이었다, …에 있었다)\n주어가 I, 3인칭 단수(he, she, it, 단수 명사) → was\n주어가 you, 복수(we, they, 복수 명사) → were\nThere was, There were (…이 있었다) → 뒤에 오는 명사에 맞춰요\n예) There were three cats in the yard. (마당에 고양이가 세 마리 있었어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 과거형 was, were (…이었다, …에 있었다)",
+     "주어가 I, 3인칭 단수(he, she, it, 단수 명사) → was",
+     "주어가 you, 복수(we, they, 복수 명사) → were",
+     "There was, There were (…이 있었다) → 뒤에 오는 명사에 맞춰요",
+     "예) There were three cats in the yard. (마당에 고양이가 세 마리 있었어요.)"
+    ]
+   },
+   "narration": "was와 were는 be동사의 과거형으로, '이었다'나 '있었다'라는 뜻이에요. 주어가 I나 3인칭 단수이면 was를, you나 복수이면 were를 써요. '무엇이 있었다'라는 뜻의 There was, There were는 뒤에 오는 명사에 맞춰요. 예를 들어 There were three cats in the yard, 마당에 고양이가 세 마리 있었어요.",
+   "caption": "was, were는 주어에 맞춰요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 <보기> 중 어법상 틀린 문장의 개수는?\n\n<보기>\n- There was many dark clouds in the sky yesterday afternoon.\n- The sky were dark all day, so we turned on the lights early.\n- There was a strong wind from the sea in the evening.\n- The children was inside the house with their grandparents.\n\n① 1개\n② 2개\n③ 3개\n④ 4개\n⑤ 없음",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "There was a strong wind"
+      ],
+      "strike": [
+       "There was many dark clouds"
+      ],
+      "note": "There 문장: many dark clouds(복수) → There were (was ✗) · a strong wind(단수) → There was ✓"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "The sky were",
+       "The children was"
+      ],
+      "note": "The sky = 하나 → was (were ✗) · The children = child의 복수 → were (was ✗)"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ 3개"
+      ],
+      "strike": [
+       "① 1개",
+       "② 2개",
+       "④ 4개",
+       "⑤ 없음"
+      ],
+      "note": "틀린 문장: 첫째, 둘째, 넷째 → 3개"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, there 뒤에 be동사가 오는 문장은 be동사 뒤의 명사에 맞춰요. many dark clouds는 복수라서 첫 번째 문장은 There were를 써야 하니 틀렸고, a strong wind는 단수라서 세 번째 문장은 옳아요. 둘째, The sky는 하나라서 was를, The children은 child의 복수라서 were를 써야 하니 두 번째와 네 번째 문장도 틀렸어요. 셋째, 틀린 문장은 첫 번째, 두 번째, 네 번째, 모두 3개예요.",
+   "caption": "There 문장 → 주어 → 개수"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 22,
+   "screen": {
+    "text": "① 1개  ✗  둘째 The sky were, 넷째 The children was도 틀려요\n② 2개  ✗  넷째도 틀려요: children은 child의 복수 → were\n③ 3개  ✓  틀린 문장은 첫째, 둘째, 넷째 세 개\n④ 4개  ✗  셋째 There was a strong wind는 옳아요\n⑤ 없음  ✗  첫째 There was many dark clouds부터 틀려요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① 1개  ✗  둘째 The sky were, 넷째 The children was도 틀려요",
+     "② 2개  ✗  넷째도 틀려요: children은 child의 복수 → were",
+     "③ 3개  ✓  틀린 문장은 첫째, 둘째, 넷째 세 개",
+     "④ 4개  ✗  셋째 There was a strong wind는 옳아요",
+     "⑤ 없음  ✗  첫째 There was many dark clouds부터 틀려요"
+    ]
+   },
+   "narration": "정답은 3번, 3개예요. 네 번째 문장의 children은 끝에 s가 없어 단수로 보기 쉬운데, 이 문장을 놓치면 2번을 고르게 돼요. 세 번째 문장의 a strong wind는 바람 하나라서 There was가 맞아요. 이 문장까지 틀렸다고 세면 4번을 고르게 돼요.",
+   "caption": "정답 ③ 3개"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ③ 3개\n\nI·3인칭 단수 → was · you·복수 → were · There 문장은 뒤 명사에 맞춰요",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ 3개",
+     "I·3인칭 단수 → was · you·복수 → were · There 문장은 뒤 명사에 맞춰요"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, was와 were는 주어에 맞추고, There was, There were는 be동사 뒤의 명사에 맞춰요.",
+   "caption": "I·단수 was, you·복수 were"
+  }
+ ],
+ "source": {
+  "stem": "다음 <보기> 중 어법상 틀린 문장의 개수는?",
+  "passage": "<보기>\n- There was many dark clouds in the sky yesterday afternoon.\n- The sky were dark all day, so we turned on the lights early.\n- There was a strong wind from the sea in the evening.\n- The children was inside the house with their grandparents.",
+  "c": [
+   "1개",
+   "2개",
+   "3개",
+   "4개",
+   "없음"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: there 구문은 뒤의 실제 명사의 수와 문장의 시제에 맞춰 there is/are/was/were를 고른다. 주어가 있는 문장은 주어의 수·시제에 맞춰 was/were를 쓴다(a lot of + 셀 수 없는 명사는 단수, 복수명사는 복수).\n풀이 순서: ① 문장마다 주어를 찾는다. there was/were는 뒤의 명사가 주어다. → ② 단수 주어(셀 수 없는 명사 포함)에는 was, 복수 주어에는 were인지 확인한다. → ③ 첫째는 many dark clouds가 복수라 there were, 둘째는 The sky가 단수라 was, 넷째는 The children이 복수라 were여야 한다. 셋째만 옳다. 틀린 문장은 3개이다.\n문장별 판정:\n첫째 X. 뒤의 명사 many dark clouds가 복수이므로 there were여야 한다.\n둘째 X. 단수 주어 The sky에는 was를 쓴다.\n셋째 O. 뒤의 명사 a strong wind가 단수이므로 there was가 맞다.\n넷째 X. 복수 주어 The children에는 were를 쓴다.\n정답 판단: 틀린 문장은 첫째, 둘째, 넷째로 3개이다.\n선택지 분석:\n① [오답] 틀린 문장은 첫째, 둘째, 넷째로 3개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [오답] 틀린 문장은 첫째, 둘째, 넷째로 3개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [정답] 틀린 문장은 첫째, 둘째, 넷째로 3개이다. 이 보기의 3개는 실제 개수와 일치한다.\n④ [오답] 틀린 문장은 첫째, 둘째, 넷째로 3개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 틀린 문장은 첫째, 둘째, 넷째로 3개이다. 이 보기의 없음은 실제 개수와 일치하지 않는다."
+ }
+}

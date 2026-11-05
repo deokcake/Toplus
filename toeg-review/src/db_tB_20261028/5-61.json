@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:02:32.562Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 개수는 기수(four)로, 몇 번째 생일·몇 층 같은 순서는 서수(twelfth, third)로 나타낸다.\n풀이 순서: ① 첫 문장은 개수를 말한다 → 기수 seven. → ② 둘째 문장은 몇 번째 생일인지 말한다 → 서수 fifteenth. → ③ 셋째 문장은 몇 층인지 말한다 → 서수 second. 정답은 ②.\n문장별 판정:\n정답 판단: seven - fifteenth - second — 수량을 나타내는 days에는 기수, birthday와 floor의 순서에는 서수를 사용해 세 빈칸을 정확히 채웠다. 따라서 정답은 ②이다.\n선택지 분석:\n① [오답] seven - fifteenth - two — 개수에는 기수, 생일의 차례와 층수에는 서수가 필요하다. 이 선택지는 적어도 한 빈칸에서 기수와 서수를 잘못 사용했다.\n② [정답] seven - fifteenth - second — 수량을 나타내는 days에는 기수, birthday와 floor의 순서에는 서수를 사용해 세 빈칸을 정확히 채웠다. 따라서 정답이다.\n③ [오답] seventh - fifteen - two — 개수에는 기수, 생일의 차례와 층수에는 서수가 필요하다. 이 선택지는 적어도 한 빈칸에서 기수와 서수를 잘못 사용했다.\n④ [오답] seventh - fifteenth - second — 개수에는 기수, 생일의 차례와 층수에는 서수가 필요하다. 이 선택지는 적어도 한 빈칸에서 기수와 서수를 잘못 사용했다.\n⑤ [오답] seven - fifteen - second — 개수에는 기수, 생일의 차례와 층수에는 서수가 필요하다. 이 선택지는 적어도 한 빈칸에서 기수와 서수를 잘못 사용했다.",
+    "passage": "· A week has _______ days.\n· Today is his _______ birthday.\n· Our classroom is on the _______ floor.",
+    "stem": "빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T08:02:31.766Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T08:02:32.562Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T08:02:32.562Z",
+      "what": "확인 완료"
+    }
+  }
+}

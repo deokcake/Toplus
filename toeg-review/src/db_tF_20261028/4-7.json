@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T12:39:35.847Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "They need some money for their new science project at school.",
+      "1": "They need two money for their new science project at school.",
+      "2": "They need a money for their new science project at school.",
+      "3": "They need many money for their new science project at school.",
+      "4": "They need an money for their new science project at school."
+    },
+    "expl": "핵심 규칙: 이 문장에서 돈의 양을 나타내는 money는 불가산으로 취급하며 some money로 약간의 양을 나타낸다. 종류·제공 단위를 세는 다른 문맥의 가산 용법과 구별한다.\n풀이 순서: ① 명사(money)가 셀 수 있는지 본다. 하나, 둘로 세지 않고 양으로 다루는 명사다. → ② 셀 수 없는 명사에는 a/an, 수(two), many, 복수형 -s를 쓰지 않는다. → ③ ‘약간’은 some으로 나타낸다. 정답은 ①.\n문장별 판정:\n정답 판단: ‘약간의 돈’를 some + 셀 수 없는 명사로 바르게 옮겼으므로 정답은 ①이다.\n선택지 분석:\n① [정답] ‘약간의 돈’를 some + 셀 수 없는 명사로 바르게 옮겼으므로 정답이다.\n② [오답] 셀 수 없는 명사 money 앞에 수(two)를 쓸 수 없으므로 오답이다.\n③ [오답] 셀 수 없는 명사 money 앞에 a를 쓸 수 없으므로 오답이다.\n④ [오답] many는 셀 수 있는 명사의 복수형에 쓰므로 셀 수 없는 money에는 쓸 수 없어 오답이다.\n⑤ [오답] 셀 수 없는 명사 money 앞에 an을 쓸 수 없으므로 오답이다.",
+    "passage": "그들은 학교의 새 과학 프로젝트를 위해 돈을 약간 필요로 한다.",
+    "stem": "다음 우리말을 영어로 가장 바르게 옮긴 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T12:38:09.676Z"
+  },
+  "tab": "ocdtwd0p",
+  "updatedAt": "2026-10-27T12:39:35.847Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T12:39:35.847Z",
+      "what": "확인 완료"
+    }
+  }
+}

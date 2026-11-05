@@ -1,0 +1,43 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-20T08:19:48.067Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "hit - hitting",
+      "1": "smile - smiling",
+      "2": "sit - siting",
+      "3": "sleep - sleeping",
+      "4": "drive - driving"
+    },
+    "expl": "핵심 규칙: -ing형 만들기: 대부분 그대로 -ing, -e로 끝나면 e를 빼고, 단모음 + 단자음이면 자음을 겹쳐 쓴다(cut → cutting, sit → sitting). -ie는 y로 바꾼다.\n풀이 순서: ① 동사의 끝을 본다: -e, -ie, 단모음 + 단자음 가운데 어느 것인지 가른다. → ② 규칙대로 되었는지 본다. sit은 단모음 + 단자음이라 sitting이다. → ③ 정답은 sit - siting.\n문장별 판정:\n정답 판단: 단모음 + 단자음이라 t를 겹쳐 sitting으로 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 단모음 + 단자음이라 t를 겹쳐 쓴 옳은 형태이므로 오답이다.\n② [오답] -e를 빼고 -ing를 붙인 옳은 형태이므로 오답이다.\n③ [정답] 단모음 + 단자음이라 t를 겹쳐 sitting으로 써야 하므로 정답이다.\n④ [오답] 그대로 -ing를 붙인 옳은 형태이므로 오답이다.\n⑤ [오답] -e를 빼고 -ing를 붙인 옳은 형태이므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-20T08:19:42.746Z"
+  },
+  "notes": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:10:42.939Z",
+      "text": "기준문항의 정답유형으로 단모음 단자음 유형이 정답이 되게 문제를 바꿔"
+    }
+  },
+  "tab": "hcp99lvr",
+  "updatedAt": "2026-10-20T08:19:48.067Z",
+  "verdict": null,
+  "verdictAt": "2026-10-20T08:19:47.108Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:10:42.939Z",
+      "what": "메모 작성"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-20T08:19:48.067Z",
+      "what": "확인 완료"
+    }
+  }
+}

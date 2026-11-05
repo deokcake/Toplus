@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:05:40.731Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "The teacher told an interesting story us.",
+      "1": "The teacher us told an interesting story.",
+      "2": "Told the teacher us an interesting story.",
+      "3": "The teacher told us an interesting story.",
+      "4": "The teacher told we an interesting story."
+    },
+    "expl": "핵심 규칙: 4형식 문장은 주어 + 동사 + 간접목적어(사람, 목적격) + 직접목적어(사물) 순서이다.\n풀이 순서: ① 주어(The teacher)와 동사(told)를 먼저 놓는다. → ② 동사 뒤에는 ‘~에게’(사람)를 먼저, ‘~을’(사물)을 나중에 둔다: us + an interesting story. → ③ 이 순서인 ④가 정답이다. 사람 자리에 주격을 쓰거나 사람을 맨 뒤에 둔 것은 틀린다.\n문장별 판정:\n정답 판단: 주어 + 동사 + 사람(목적격) + 사물의 바른 4형식 어순이므로 정답은 ④이다.\n선택지 분석:\n① [오답] 4형식은 사람(us)을 사물 앞에 두어야 하므로 오답이다.\n② [오답] 목적어(us)가 동사 앞에 와 어순이 틀렸으므로 오답이다.\n③ [오답] 평서문인데 동사가 주어 앞에 와 어순이 틀렸으므로 오답이다.\n④ [정답] 주어 + 동사 + 사람(목적격) + 사물의 바른 4형식 어순이므로 정답이다.\n⑤ [오답] 동사 뒤 목적어 자리에는 목적격 us를 쓰므로 오답이다.",
+    "passage": "선생님이 우리에게 재미있는 이야기를 해 주셨다.\n(story / told / teacher / an / us / the / interesting / .)",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T08:05:40.387Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T08:05:40.731Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T08:05:40.731Z",
+      "what": "확인 완료"
+    }
+  }
+}

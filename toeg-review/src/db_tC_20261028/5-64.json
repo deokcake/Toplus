@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T02:38:57.858Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": "6:15 - a quarter after six",
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 시각은 숫자대로 읽거나(2:05 two oh five), 30분은 half past, 15분은 a quarter after(past), 45분은 다음 시각을 기준으로 a quarter to로 읽는다. 정각은 o'clock이다.\n풀이 순서: ① past(after)는 ‘지난 시’, to는 ‘다가올 시’를 뒤에 쓴다는 점을 떠올린다. → ② 보기마다 시각과 읽은 말의 ‘시’를 견준다. → ③ 8:15는 8시에서 15분 지난 것이므로 a quarter after eight다. 정답은 ⑤.\n문장별 판정:\n정답 판단: a quarter after 뒤에는 지나간 시각 eight를 써야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 30분을 half past + 그 시각으로 바르게 읽었으므로 오답이다.\n② [오답] 정각을 o'clock으로 바르게 읽었으므로 오답이다.\n③ [오답] 15분을 a quarter after + 그 시각으로 바르게 읽었으므로 오답이다.\n④ [오답] 45분을 a quarter to + 다음 시각으로 바르게 읽었으므로 오답이다.\n⑤ [정답] a quarter after 뒤에는 지나간 시각 eight를 써야 하므로 정답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:38:55.498Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-22T02:38:57.858Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:38:57.858Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 같은 번호 메모에 맞춰 수정",
+  "done": true,
+  "doneAt": "2026-10-26T07:17:34.312Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "'largest'는 최상급이지만 'one of' 뒤에서는 'the'를 생략하고 'one of largest cities'로 써야 한다.",
+      "1": "'one of the + 최상급 + 복수명사'는 '가장 ~한 것들 중 하나'라는 뜻이므로 'cities'를 복수형으로 썼다.",
+      "2": "'that I have ever visited'가 'cities'를 꾸미므로, 앞의 최상급 'largest'는 원급 'large'로 바꿔야 한다.",
+      "3": "'cities'가 복수형이므로 그 앞의 'one'도 복수형 'ones'로 바꿔야 문법적으로 맞다.",
+      "4": "'one of' 뒤에 최상급이 오면 그 뒤의 명사는 반드시 셀 수 없는 명사여야 한다."
+    },
+    "expl": "핵심 규칙: one of the + 최상급 + 복수명사는 ‘가장 ~한 것들 중 하나’라는 뜻이다. 여러 대상 가운데 하나를 가리키므로 명사는 복수형을 쓴다.\n풀이 순서: ① 밑줄을 ‘one + of + the 최상급(largest) + 복수명사(cities)’로 나눈다. → ② ‘가장 ~한 여럿 가운데 하나’라는 뜻이므로 of 뒤의 명사는 복수여야 한다. → ③ 명사를 단수로 써야 한다거나 최상급·the·one을 다르게 설명한 보기를 지운다. 정답은 ②.\n문장별 판정:\n정답 판단: ‘가장 큰 도시들’ 가운데 하나라는 뜻이라 복수 cities를 쓰므로 정답이다.\n선택지 분석:\n① [오답] one of 뒤에는 the + 최상급을 그대로 쓴다. 옳지 않은 설명이므로 오답이다.\n② [정답] ‘가장 큰 도시들’ 가운데 하나라는 뜻이라 복수 cities를 쓴다. 옳은 설명이므로 정답이다.\n③ [오답] have ever + 과거분사의 관계절은 최상급과 함께 자주 쓰이므로 largest가 맞다. 옳지 않은 설명이므로 오답이다.\n④ [오답] ‘~ 중 하나’는 one of로 쓰고 ones로 바꾸지 않는다. 옳지 않은 설명이므로 오답이다.\n⑤ [오답] one of the + 최상급 뒤에는 셀 수 있는 명사의 복수형이 온다. 옳지 않은 설명이므로 오답이다.",
+    "passage": "Seoul is <u>one of the largest cities</u> that I have ever visited in Asia.",
+    "stem": "다음 지문의 밑줄 친 부분에 대한 문법적 설명으로 가장 옳은 것은?"
+  },
+  "tab": "mtbqujsm",
+  "updatedAt": "2026-10-26T07:17:34.312Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T07:17:34.312Z",
+      "what": "확인 완료"
+    }
+  }
+}

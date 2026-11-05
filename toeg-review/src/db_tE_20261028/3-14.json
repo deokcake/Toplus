@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-24T01:45:44.566Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "hit - hit / hurt - hurted / cost - cost",
+      "1": "lend - lended / bend - bent / spend - spent",
+      "2": "feel - felt / smell - smelled / sleep - sleeped",
+      "3": "bite - bit / hide - hid / slide - slided",
+      "4": "mean - meant / deal - dealt / dream - dreamed"
+    },
+    "expl": "핵심 규칙: 불규칙동사는 -ed를 붙이지 않고 정해진 과거형을 쓴다. 규칙동사(help, smell, dream 등)는 -ed를 붙이고, cut·put·hit·cost처럼 원형과 과거형이 같은 동사도 있다.\n풀이 순서: ① 묶음마다 세 동사의 과거형을 하나씩 확인한다. 불규칙동사에 -ed를 붙인 것이 하나라도 있으면 지운다. → ② hurted(hurt), lended(lent), sleeped(slept), slided(slid)가 틀렸다. → ③ 세 개가 모두 옳은 ⑤가 정답이다.\n문장별 판정:\n정답 판단: 세 동사의 과거형이 모두 알맞으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] hurt - hurted이 틀렸다(바른 과거형 hurt). 따라서 오답이다.\n② [오답] lend - lended이 틀렸다(바른 과거형 lent). 따라서 오답이다.\n③ [오답] sleep - sleeped이 틀렸다(바른 과거형 slept). 따라서 오답이다.\n④ [오답] slide - slided이 틀렸다(바른 과거형 slid). 따라서 오답이다.\n⑤ [정답] 세 동사의 과거형이 모두 알맞으므로 정답이다.",
+    "passage": null,
+    "stem": "다음 동사의 과거형이 모두 올바른 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T01:45:33.349Z"
+  },
+  "tab": "eut3ygm8",
+  "updatedAt": "2026-10-24T01:45:44.566Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:45:44.566Z",
+      "what": "확인 완료"
+    }
+  }
+}

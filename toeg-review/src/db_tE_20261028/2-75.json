@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-24T01:08:06.674Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Bored",
+      "1": "written",
+      "2": "Turned",
+      "3": "calling",
+      "4": "Closing"
+    },
+    "expl": "핵심 규칙: 분사구문과 명사를 꾸미는 분사는 의미상 주어(꾸밈을 받는 명사)와의 관계가 능동이면 현재분사, 수동이면 과거분사를 쓴다. 앞선 일이 끝난 뒤를 나타내면 Having + 과거분사를 쓴다.\n풀이 순서: ① 밑줄 친 분사마다 의미상 주어(분사구문은 주절의 주어, 명사 수식은 그 명사)를 찾는다. → ② 주어가 그 동작을 하면 -ing, 당하면 과거분사다. 분사 뒤에 목적어가 있으면 능동, by ~가 있으면 수동일 가능성이 크다. → ③ 선택지 ③이 틀렸다: 그가 책장을 ‘넘긴’ 것이므로(뒤에 목적어 the pages) Turned가 아니라 Turning.\n문장별 판정:\n정답 판단: Turned: 주어(he)가 직접 책장을 넘기는 능동 관계이므로 Turning으로 고쳐야 한다.\n선택지 분석:\n① [오답] Bored: 주어(he)가 TV에 싫증 난 수동 관계라 알맞으므로 오답이다.\n② [오답] written: 이야기가 작가에게 쓰인 수동 관계라 알맞으므로 오답이다.\n③ [정답] Turned: 주어(he)가 직접 책장을 넘기는 능동 관계이므로 Turning으로 고쳐야 한다. 어법상 틀린 부분이므로 정답이다.\n④ [오답] calling: 엄마가 직접 부르는 능동 관계라 알맞으므로 오답이다.\n⑤ [오답] Closing: 주어(he)가 직접 책을 덮는 능동 관계라 알맞으므로 오답이다.",
+    "passage": "On a rainy Sunday, Leo stayed home all day. ①<u>Bored</u> with TV programs, he started reading a novel he had bought last month. The story ②<u>written</u> by a young author was more exciting than he had expected. ③<u>Turned</u> the pages quickly, he completely forgot about the time. Around seven, he heard his mom ④<u>calling</u> him for dinner from the kitchen. ⑤<u>Closing</u> the book with a smile, he went downstairs to join his family.",
+    "stem": "다음 글의 밑줄 친 부분 중 어법상 틀린 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-24T01:07:41.092Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-24T01:08:05.426Z",
+      "text": "기준 문항에 비해 지문이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:30:34.642Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T04:30:34.642Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:30:34.642Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

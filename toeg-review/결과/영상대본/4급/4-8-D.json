@@ -1,0 +1,176 @@
+{
+ "key": "4-8",
+ "type": "D",
+ "grade": 4,
+ "chapter": "CH 1 명사와 관사",
+ "title": "‘~의 끝에’를 뜻하는 at the end of",
+ "total_sec": 126,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "4급 · CH 1 명사와 관사 · 8번 · D 유형\n\n이 문제는 end of the month 앞에 오는 전치사와 관사를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 1 명사와 관사 · 8번 · D 유형",
+     "이 문제는 end of the month 앞에 오는 전치사와 관사를 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 1, 8번 D 유형. 이 문제는 end of the month 앞에 오는 전치사와 관사를 고르는 문제예요.",
+   "caption": "end 앞 전치사와 관사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 21,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 단어가 순서대로 짝지어진 것은?\n\nLet's meet ______ ______ end of the month.\n\n① in, the\n② at, the\n③ on, an\n④ at, an\n⑤ by, a",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 단어가 순서대로 짝지어진 것은?",
+     "Let's meet ______ ______ end of the month.",
+     "① in, the",
+     "② at, the",
+     "③ on, an",
+     "④ at, an",
+     "⑤ by, a"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 단어가 순서대로 짝지어진 것을 고르세요. Let's meet, 빈칸, 빈칸, end of the month. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 24,
+   "screen": {
+    "text": "핵심 규칙\n‘~의 끝에’ → at the end of ~\nof 뒤의 말이 무엇의 끝인지 정해 주므로 관사는 the\nat the end of the year (연말에), at the end of the class (수업 끝에)\n예) We go on a trip at the end of the year. (우리는 연말에 여행을 가요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "‘~의 끝에’ → at the end of ~",
+     "of 뒤의 말이 무엇의 끝인지 정해 주므로 관사는 the",
+     "at the end of the year (연말에), at the end of the class (수업 끝에)",
+     "예) We go on a trip at the end of the year. (우리는 연말에 여행을 가요.)"
+    ]
+   },
+   "narration": "‘무엇의 끝에’라고 말할 때는 at the end of를 써요. of 뒤의 말이 무엇의 끝인지 정해 주니까 관사는 the를 써요. 예를 들어 We go on a trip at the end of the year. 우리는 연말에 여행을 가요.",
+   "caption": "~의 끝에 = at the end of"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 단어가 순서대로 짝지어진 것은?\n\nLet's meet ______ ______ end of the month.\n\n① in, the\n② at, the\n③ on, an\n④ at, an\n⑤ by, a",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "end of the month"
+      ],
+      "strike": [
+       "① in, the",
+       "③ on, an"
+      ],
+      "note": "end of the month = 그 달의 끝 → ‘~의 끝에’는 at. in, on으로 시작하는 ①, ③은 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "④ at, an",
+       "⑤ by, a"
+      ],
+      "note": "of the month가 어느 끝인지 정해 줌 → the. an, a를 쓴 ④, ⑤는 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② at, the"
+      ],
+      "strike": [],
+      "note": "남는 것은 ② at, the → Let's meet at the end of the month."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 빈칸 뒤 end of the month는 그 달의 끝이고, ‘무엇의 끝에’는 at을 쓰니까 in과 on으로 시작하는 1번과 3번을 지워요. 둘째, of the month가 어느 끝인지 정해 주니까 관사는 the를 써요. 그래서 an을 쓴 4번과 a를 쓴 5번도 지워요. 셋째, 남는 것은 2번 at, the예요. Let's meet at the end of the month. 월말에 만나자.",
+   "caption": "끝에 → at → the"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① in, the  ✗  ‘~의 끝에’는 in이 아니라 at을 써요\n② at, the  ✓  at the end of the month = 월말에\n③ on, an  ✗  전치사 on도, 관사 an도 맞지 않아요\n④ at, an  ✗  정해진 그 달의 끝이라 an이 아니라 the\n⑤ by, a  ✗  정해진 그 달의 끝이라 a가 아니라 the",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① in, the  ✗  ‘~의 끝에’는 in이 아니라 at을 써요",
+     "② at, the  ✓  at the end of the month = 월말에",
+     "③ on, an  ✗  전치사 on도, 관사 an도 맞지 않아요",
+     "④ at, an  ✗  정해진 그 달의 끝이라 an이 아니라 the",
+     "⑤ by, a  ✗  정해진 그 달의 끝이라 a가 아니라 the"
+    ]
+   },
+   "narration": "정답은 2번 at, the예요. 4번 at, an은 end가 모음 소리로 시작해서 고르기 쉬워요. 하지만 여기서는 그 달의 끝으로 정해져 있으니 the를 써야 해요. 1번 in, the는 관사는 맞지만, ‘무엇의 끝에’는 in이 아니라 at을 써요.",
+   "caption": "정답 ② at, the"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ② at, the\n\n‘~의 끝에’ → at the end of ~",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② at, the",
+     "‘~의 끝에’ → at the end of ~"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, ‘무엇의 끝에’라고 할 때는 at the end of처럼 at과 the를 함께 써요.",
+   "caption": "at the end of"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 단어가 순서대로 짝지어진 것은?",
+  "passage": "Let's meet ______ ______ end of the month.",
+  "c": [
+   "in, the",
+   "at, the",
+   "on, an",
+   "at, an",
+   "by, a"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: at the moment(지금), for an hour(한 시간 동안), at the end of(~의 끝에), on the first of(~일에), in a minute(곧)처럼 전치사와 관사가 짝을 이루는 표현을 익힌다.\n풀이 순서: ① ‘~의 끝에’는 한 시점이므로 at을 쓴다. → ② 그 달의 정해진 끝을 가리키므로 the를 쓴다(at the end of the month). → ③ 정답은 at, the.\n문장별 판정:\n정답 판단: 모든 빈칸에 알맞은 말을 골랐으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 첫째 빈칸 in: ‘~의 끝에’는 at the end of로 at을 쓴다. 따라서 오답이다.\n② [정답] 모든 빈칸에 알맞은 말을 골랐으므로 정답이다.\n③ [오답] 첫째 빈칸 on: ‘~의 끝에’는 at the end of로 at을 쓴다, 둘째 빈칸 an: end of the month는 정해진 때라 the를 쓴다. 따라서 오답이다.\n④ [오답] 둘째 빈칸 an: end of the month는 정해진 때라 the를 쓴다. 따라서 오답이다.\n⑤ [오답] 첫째 빈칸 by: ‘~의 끝에’는 at the end of로 at을 쓴다, 둘째 빈칸 a: end of the month는 정해진 때라 the를 쓴다. 따라서 오답이다."
+ }
+}

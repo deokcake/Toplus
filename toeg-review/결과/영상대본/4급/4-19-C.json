@@ -1,0 +1,173 @@
+{
+ "key": "4-19",
+ "type": "C",
+ "grade": 4,
+ "chapter": "CH 2 대명사",
+ "title": "복수명사를 받는 목적어 them",
+ "total_sec": 131,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "4급 · CH 2 대명사 · 19번 · C 유형\n\n이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 2 대명사 · 19번 · C 유형",
+     "이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 2, 19번 C 유형. 이 문제는 대명사가 가리키는 명사의 수에 맞는지 살펴, 어법상 틀린 부분을 고르는 문제예요.",
+   "caption": "복수명사를 받는 them"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 22,
+   "screen": {
+    "text": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?\n\nI can't find my ①<u>gloves</u>. Did you see ②<u>it</u>? ③<u>My</u> hands ④<u>are</u> very ⑤<u>cold</u>.\n\n① gloves\n② it\n③ My\n④ are\n⑤ cold",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?",
+     "I can't find my ①<u>gloves</u>. Did you see ②<u>it</u>? ③<u>My</u> hands ④<u>are</u> very ⑤<u>cold</u>.",
+     "① gloves",
+     "② it",
+     "③ My",
+     "④ are",
+     "⑤ cold"
+    ]
+   },
+   "narration": "다음 문장의 밑줄 친 부분 중 어법상 틀린 것을 고르세요. I can't find my gloves. Did you see it? My hands are very cold. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n대명사는 가리키는 명사의 수에 맞춰요.\n단수인 물건 → it   복수 → 주어 자리 they, 목적어 자리 them\ngloves, shoes: 두 짝이 한 켤레인 물건 → 보통 복수형, 복수 취급\n예) I like my new shoes. I wear them every day. (나는 새 신발이 좋아요. 나는 그 신발을 매일 신어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "대명사는 가리키는 명사의 수에 맞춰요.",
+     "단수인 물건 → it   복수 → 주어 자리 they, 목적어 자리 them",
+     "gloves, shoes: 두 짝이 한 켤레인 물건 → 보통 복수형, 복수 취급",
+     "예) I like my new shoes. I wear them every day. (나는 새 신발이 좋아요. 나는 그 신발을 매일 신어요.)"
+    ]
+   },
+   "narration": "대명사는 가리키는 명사의 수에 맞춰요. 단수인 물건은 it으로 받고, 복수는 주어 자리에서 they, 목적어 자리에서 them으로 받아요. 장갑 gloves, 신발 shoes처럼 두 짝이 한 켤레인 물건은 보통 복수형으로 쓰고 복수 취급해요. 예를 들어 I like my new shoes, 나는 새 신발이 좋아요. I wear them every day, 나는 그 신발을 매일 신어요.",
+   "caption": "복수 → they, them"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 30,
+   "screen": {
+    "text": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?\n\nI can't find my ①<u>gloves</u>. Did you see ②<u>it</u>? ③<u>My</u> hands ④<u>are</u> very ⑤<u>cold</u>.\n\n① gloves\n② it\n③ My\n④ are\n⑤ cold",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "①<u>gloves</u>",
+       "②<u>it</u>"
+      ],
+      "strike": [],
+      "note": "밑줄 친 it이 가리키는 것 = 앞 문장의 gloves(장갑)"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "①<u>gloves</u>"
+      ],
+      "strike": [],
+      "note": "gloves는 복수형 → it이 아니라 they, them으로 받는다"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "② it"
+      ],
+      "strike": [],
+      "note": "see 뒤 목적어 자리 → them: Did you see them?"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 밑줄 친 it이 가리키는 것을 앞 문장에서 찾으면, 찾을 수 없다고 한 장갑 gloves예요. 둘째, gloves는 복수형이라 it이 아니라 they나 them으로 받아야 해요. 셋째, see 뒤의 목적어 자리니까 them을 써요. Did you see them? 그 장갑 봤어요?",
+   "caption": "it → gloves → them"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① gloves  ✗  장갑은 보통 복수형, 두 손(My hands)과도 맞아요\n② it  ✓  복수형 gloves → 목적어 them으로 고쳐요\n③ My  ✗  명사 hands 앞의 소유격 My(나의)\n④ are  ✗  복수 주어 My hands에 맞는 are\n⑤ cold  ✗  be동사 뒤 형용사 cold(차가운)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✓",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① gloves  ✗  장갑은 보통 복수형, 두 손(My hands)과도 맞아요",
+     "② it  ✓  복수형 gloves → 목적어 them으로 고쳐요",
+     "③ My  ✗  명사 hands 앞의 소유격 My(나의)",
+     "④ are  ✗  복수 주어 My hands에 맞는 are",
+     "⑤ cold  ✗  be동사 뒤 형용사 cold(차가운)"
+    ]
+   },
+   "narration": "정답은 2번 it이에요. 1번 gloves를 glove로 고쳐야 한다고 생각할 수 있어요. 하지만 두 손이 차갑다고 했으니 장갑 한 켤레를 찾는 말이라, 복수형 gloves가 맞아요. 4번 are는 주어 My hands가 복수라서 맞아요.",
+   "caption": "정답 ② it → them"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ② it\n\n복수 → 주어 자리 they, 목적어 자리 them",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ② it",
+     "복수 → 주어 자리 they, 목적어 자리 them"
+    ]
+   },
+   "narration": "정답은 2번이에요. 기억할 것, 복수형 gloves처럼 복수인 명사는 목적어 자리에서 it이 아니라 them으로 받아요.",
+   "caption": "복수 목적어 → them"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장의 밑줄 친 부분 중 어법상 ‘틀린’ 것은?",
+  "passage": "I can't find my ①<u>gloves</u>. Did you see ②<u>it</u>? ③<u>My</u> hands ④<u>are</u> very ⑤<u>cold</u>.",
+  "c": [
+   "gloves",
+   "it",
+   "My",
+   "are",
+   "cold"
+  ],
+  "ans": 2,
+  "expl": "핵심 규칙: glasses·gloves·pants·shoes처럼 짝을 이루는 물건과 police는 복수 취급해 they/them으로 받는다. news는 단수 취급해 this/it으로 받는다.\n풀이 순서: ① 뒤 문장의 주어와 동사를 맞춰 본다: They is는 수가 맞지 않는다. → ② 앞 문장에서 가리키는 명사를 찾아 어느 쪽이 틀렸는지 정한다: glasses는 복수 취급하므로 They are가 되어야 한다. 틀린 것은 is다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: 복수명사 gloves는 them으로 받아야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 장갑은 짝을 이루는 물건이라 복수형 gloves가 맞으므로 오답이다.\n② [정답] 복수명사 gloves는 them으로 받아야 하므로 정답이다.\n③ [오답] 명사 hands 앞에 소유격 My가 맞으므로 오답이다.\n④ [오답] 복수 주어 My hands에 are가 맞으므로 오답이다.\n⑤ [오답] be동사 뒤 보어 자리에 형용사가 맞으므로 오답이다."
+ }
+}

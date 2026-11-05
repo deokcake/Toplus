@@ -1,0 +1,32 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-21 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-27T05:54:49.965Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "(A), (B)",
+      "1": "(B), (C)",
+      "2": "(A), (C), (D)",
+      "3": "(B), (C), (D)",
+      "4": "(A), (B), (D)"
+    },
+    "expl": "핵심 규칙: 복수 주어에는 복수 동사, 단수 주어에는 단수 동사를 쓴다. 소유대명사에는 '를 붙이지 않고, 명사 없이 ‘~의 것’은 소유대명사로 쓰며, ‘누구의’는 Whose이다.\n풀이 순서: ① 밑줄이 동사이면 주어의 수와 맞는지, 대명사이면 자리에 맞는지(명사 앞: 소유격, 명사 없음: 소유대명사) 본다. → ② (B) are(is), (C) their(theirs), (D) my(mine)가 틀렸다. (A)는 옳다. → ③ 틀린 것을 빠짐없이 고른 (B), (C), (D)가 정답이다.\n문장별 판정:\n(A) O. 복수 주어에 are를 썼다.\n(B) X. 단수 주어 Their house에는 is를 쓴다.\n(C) X. 명사 없이 ‘그들의 것’은 theirs로 쓴다.\n(D) X. 명사 없이 ‘내 것’은 mine으로 쓴다.\n정답 판단: 밑줄 친 부분이 틀린 문장은 (B), (C), (D)이다.\n선택지 분석:\n① [오답] (A)는 틀린 문장이 아니고, 틀린 문장 (C), (D)를 빠뜨렸다. 따라서 오답이다.\n② [오답] 틀린 문장 (D)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (A)는 틀린 문장이 아니고, 틀린 문장 (B)를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 틀린 문장 (B), (C), (D)를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] (A)는 틀린 문장이 아니고, 틀린 문장 (C)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(A) Jane and Mike <u>are</u> my cousins from Busan.\n(B) Their house near the beach <u>are</u> very big.\n(C) Those bags on the chair are <u>their</u>.\n(D) This book about dinosaurs is <u>my</u>.",
+    "stem": "다음 중 밑줄 친 부분이 어법상 틀린 문장을 모두 고른 것은?"
+  },
+  "tab": "elkk5t9r",
+  "updatedAt": "2026-10-27T05:54:49.965Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T05:54:49.965Z",
+      "what": "확인 완료"
+    },
+    "u_p7DX7y1beMZ8et5ArgcmKw": {
+      "at": "2026-10-24T03:08:25.405Z",
+      "what": "확인 완료"
+    }
+  }
+}

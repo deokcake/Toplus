@@ -1,0 +1,176 @@
+{
+ "key": "6-28",
+ "type": "D",
+ "grade": 6,
+ "chapter": "CH 3 be동사 과거",
+ "title": "be동사 과거 의문문의 어순 (주어 the boys)",
+ "total_sec": 131,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 13,
+   "screen": {
+    "text": "6급 · CH 3 be동사 과거 · 28번 · D 유형\n\n이 문제는 주어 the boys와 were로 be동사 과거 의문문을 만들 때 알맞은 어순을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 3 be동사 과거 · 28번 · D 유형",
+     "이 문제는 주어 the boys와 were로 be동사 과거 의문문을 만들 때 알맞은 어순을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 3, 28번 D 유형. 이 문제는 주어 the boys와 were로 be동사 과거 의문문을 만들 때 알맞은 어순을 고르는 문제예요.",
+   "caption": "be동사 과거 의문문의 어순"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 21,
+   "screen": {
+    "text": "다음 단어들을 의문문으로 바르게 배열한 것을 고르시오.\n\n( the boys / tired / were / ? )\n\n① Were tired the boys?\n② The boys were tired?\n③ Tired were the boys?\n④ Were the boys tired?\n⑤ Tired the boys were?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 단어들을 의문문으로 바르게 배열한 것을 고르시오.",
+     "( the boys / tired / were / ? )",
+     "① Were tired the boys?",
+     "② The boys were tired?",
+     "③ Tired were the boys?",
+     "④ Were the boys tired?",
+     "⑤ Tired the boys were?"
+    ]
+   },
+   "narration": "다음 단어들을 의문문으로 바르게 배열한 것을 고르세요. 주어진 말은 the boys, tired, were, 그리고 물음표예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\nYes, No로 대답하는 be동사 과거 의문문\n→ 지난 일을 물을 때 (바빴나요? 있었나요?)\n어순: Was/Were + 주어 + 나머지 ~?\n예) The girls were happy. → Were the girls happy? (그 소녀들은 행복했나요?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "Yes, No로 대답하는 be동사 과거 의문문",
+     "→ 지난 일을 물을 때 (바빴나요? 있었나요?)",
+     "어순: Was/Were + 주어 + 나머지 ~?",
+     "예) The girls were happy. → Were the girls happy? (그 소녀들은 행복했나요?)"
+    ]
+   },
+   "narration": "Yes나 No로 대답하는 be동사 과거 의문문은 바빴나요, 있었나요처럼 지난 일을 물을 때 써요. Was나 Were를 맨 앞에 두고, 바로 뒤에 주어, 그 뒤에 나머지 말을 써요. 예를 들어 The girls were happy, 그 소녀들은 행복했어요. 여기서 were를 주어 the girls 앞으로 옮기면 Were the girls happy? 그 소녀들은 행복했나요?",
+   "caption": "Was/Were + 주어 + 나머지"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 32,
+   "screen": {
+    "text": "다음 단어들을 의문문으로 바르게 배열한 것을 고르시오.\n\n( the boys / tired / were / ? )\n\n① Were tired the boys?\n② The boys were tired?\n③ Tired were the boys?\n④ Were the boys tired?\n⑤ Tired the boys were?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "( the boys / tired / were / ? )"
+      ],
+      "strike": [
+       "② The boys were tired?",
+       "③ Tired were the boys?",
+       "⑤ Tired the boys were?"
+      ],
+      "note": "Yes, No로 대답하는 be동사 의문문 → Were가 맨 앞. Were로 시작하지 않은 ②③⑤ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① Were tired the boys?"
+      ],
+      "note": "Were 바로 뒤에는 주어 the boys. tired가 먼저 온 ① 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ Were the boys tired?"
+      ],
+      "strike": [],
+      "note": "남은 ④: Were + 주어 the boys + 나머지 (tired)"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, Yes나 No로 대답하는 be동사 의문문이니까 맨 앞에 Were가 와야 해요. 따라서 Were로 시작하지 않은 2번, 3번, 5번을 지워요. 둘째, Were 바로 뒤에는 주어 the boys가 와야 하니까 tired가 먼저 온 1번도 지워요. 셋째, 남은 4번은 Were, 주어 the boys, 나머지 tired 순서예요. Were the boys tired? 그 소년들은 피곤했나요?",
+   "caption": "Were 맨 앞 → 바로 뒤 주어"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① Were tired the boys?  ✗  Were와 주어 the boys 사이에 tired\n② The boys were tired?  ✗  주어 The boys로 시작한 평서문 어순\n③ Tired were the boys?  ✗  형용사 Tired가 맨 앞\n④ Were the boys tired?  ✓  Were + 주어 the boys + tired\n⑤ Tired the boys were?  ✗  Tired로 시작, were가 맨 끝",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Were tired the boys?  ✗  Were와 주어 the boys 사이에 tired",
+     "② The boys were tired?  ✗  주어 The boys로 시작한 평서문 어순",
+     "③ Tired were the boys?  ✗  형용사 Tired가 맨 앞",
+     "④ Were the boys tired?  ✓  Were + 주어 the boys + tired",
+     "⑤ Tired the boys were?  ✗  Tired로 시작, were가 맨 끝"
+    ]
+   },
+   "narration": "정답은 4번이에요. 2번은 주어 The boys로 시작한 평서문 어순이에요. 물음표만 붙여서는 의문문 어순이 되지 않아요. 1번은 Were로 시작했지만 주어 the boys보다 tired가 먼저 왔어요. 3번은 Were보다 형용사 Tired가 먼저 와서 틀렸어요.",
+   "caption": "정답 ④ Were the boys tired?"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 13,
+   "screen": {
+    "text": "정답 ④ Were the boys tired?\n\nbe동사 과거 의문문(Yes, No 대답): Was/Were + 주어 + 나머지 ~?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ Were the boys tired?",
+     "be동사 과거 의문문(Yes, No 대답): Was/Were + 주어 + 나머지 ~?"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, Yes나 No로 대답하는 be동사 과거 의문문은 Was나 Were를 맨 앞에 두고, 바로 뒤에 주어를 써요.",
+   "caption": "Was/Were + 주어 ~?"
+  }
+ ],
+ "source": {
+  "stem": "다음 단어들을 의문문으로 바르게 배열한 것을 고르시오.",
+  "passage": "( the boys / tired / were / ? )",
+  "c": [
+   "Were tired the boys?",
+   "The boys were tired?",
+   "Tired were the boys?",
+   "Were the boys tired?",
+   "Tired the boys were?"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: be동사 과거 의문문은 Was/Were + 주어 + 보어·장소 + 시간 표현?의 어순으로 쓴다. 평서문 어순에 물음표만 붙이거나 보어·장소를 주어 앞에 두지 않는다.\n풀이 순서: ① 의문문이므로 be동사(Were)를 맨 앞에 둔다. → ② 바로 뒤에 주어(the boys), 그 뒤에 나머지(tired)를 둔다. → ③ 이 순서인 것은 ④.\n문장별 판정:\n정답 판단: Was/Were + 주어 + 보어·장소의 어순으로 바르게 배열했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 보어·장소 표현이 주어 앞에 와서 어순이 맞지 않으므로 오답이다.\n② [오답] 평서문 어순에 물음표만 붙였으므로 오답이다.\n③ [오답] 보어·장소 표현이 주어 앞에 와서 어순이 맞지 않으므로 오답이다.\n④ [정답] Was/Were + 주어 + 보어·장소의 어순으로 바르게 배열했으므로 정답이다.\n⑤ [오답] 보어로 시작하고 be동사가 문장 끝에 와서 어순이 맞지 않으므로 오답이다."
+ }
+}

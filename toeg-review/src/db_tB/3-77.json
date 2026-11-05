@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:58:09.458Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "There is dangerous to swim in this river.",
+      "1": "It is dangerous for swim in this river.",
+      "2": "It is dangerous to swim in this river.",
+      "3": "To swim in this river is dangerous.",
+      "4": "This is dangerous to swim in this river."
+    },
+    "expl": "핵심 규칙: to부정사 주어는 가주어 It을 앞에 두고 진주어 to부정사를 뒤로 보내 It + be동사 + 형용사 + to부정사로 쓴다.\n풀이 순서: ① 주어가 to부정사구(To swim in this river)다. 이것을 문장 뒤로 보내고 주어 자리에 가주어 It을 둔다. → ② 순서는 ‘It + is + 형용사(dangerous) + to부정사구’다. → ③ There·This로 시작한 것, to 대신 for를 쓴 것, 바꾸지 않은 문장은 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: 가주어 It + is + 형용사 + 진주어 to부정사로 바르게 바꿨으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 가주어로는 There가 아니라 It을 쓰므로 오답이다.\n② [오답] 진주어는 for가 아니라 to + 동사원형으로 쓰므로 오답이다.\n③ [정답] 가주어 It + is + 형용사 + 진주어 to부정사로 바르게 바꿨으므로 정답이다.\n④ [오답] 제시문을 그대로 둔 것이라 가주어·진주어 구문이 아니므로 오답이다.\n⑤ [오답] 가주어로는 This가 아니라 It을 쓰므로 오답이다.",
+    "passage": "To swim in this river is dangerous.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T08:58:09.063Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T08:58:09.458Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T08:58:09.458Z",
+      "what": "확인 완료"
+    }
+  }
+}

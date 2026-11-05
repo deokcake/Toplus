@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T08:54:03.941Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Mina는 매운 음식을 좋아할 필요가 없다.",
+      "1": "Mina는 매운 음식을 좋아해서는 안 된다.",
+      "2": "Mina는 매운 음식을 좋아하지 않을지도 모른다.",
+      "3": "Mina는 매운 음식을 반드시 좋아한다.",
+      "4": "Mina는 매운 음식을 좋아할 수 없다."
+    },
+    "expl": "핵심 규칙: may not은 ‘~하지 않을지도 모른다’는 추측의 부정이나 ‘~해서는 안 된다’는 불허를 나타낸다. be, know, like처럼 상태를 나타내는 말과 함께 쓰이면 주로 추측의 뜻이다.\n풀이 순서: ① may not 뒤의 말을 본다: like spicy food(상태). → ② may not은 ‘~하지 않을지도 모른다’는 추측이다. 다른 뜻(can't 불가능, must not 금지, don't have to 불필요)과 가른다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: may not이 상태를 나타내는 말과 함께 쓰여 ‘~하지 않을지도 모른다’는 추측의 뜻이 되므로 정답은 ③이다.\n선택지 분석:\n① [오답] ‘~할 필요가 없다’는 don't have to의 뜻이므로 오답이다.\n② [오답] 좋아하는 마음을 금지하는 뜻은 어색하고, may not은 여기서 추측을 나타내므로 오답이다.\n③ [정답] may not이 상태를 나타내는 말과 함께 쓰여 ‘~하지 않을지도 모른다’는 추측의 뜻이 되므로 정답이다.\n④ [오답] may not은 부정의 추측이지 ‘반드시 ~한다’는 뜻이 아니므로 오답이다.\n⑤ [오답] ‘~할 수 없다’는 can't의 뜻이므로 오답이다.",
+    "passage": "Mina may not like spicy food.",
+    "stem": "다음 문장의 의미로 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T08:54:01.830Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T08:54:03.941Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:54:03.941Z",
+      "what": "확인 완료"
+    }
+  }
+}

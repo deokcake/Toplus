@@ -1,0 +1,180 @@
+{
+ "key": "5-12",
+ "type": "C",
+ "grade": 5,
+ "chapter": "CH 2 be동사와 일반동사",
+ "title": "I·they에 맞는 be동사 짝",
+ "total_sec": 132,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "5급 · CH 2 be동사와 일반동사 · 12번 · C 유형\n\n이 문제는 주어 I와 의문문의 주어 they에 맞는 be동사를 알맞게 짝지어 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 2 be동사와 일반동사 · 12번 · C 유형",
+     "이 문제는 주어 I와 의문문의 주어 they에 맞는 be동사를 알맞게 짝지어 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 2, 12번 C 유형. 이 문제는 주어 I와 의문문의 주어 they에 맞는 be동사를 알맞게 짝지어 고르는 문제예요.",
+   "caption": "I·they에 맞는 be동사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오.\n\nI _______ hungry. (나는 배가 고프다.)\n_______ they ready? (그들은 준비되었니?)\n\n① am - Is\n② are - Are\n③ am - Are\n④ is - Are\n⑤ are - Am",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오.",
+     "I _______ hungry. (나는 배가 고프다.)",
+     "_______ they ready? (그들은 준비되었니?)",
+     "① am - Is",
+     "② are - Are",
+     "③ am - Are",
+     "④ is - Are",
+     "⑤ are - Am"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르세요. 첫 문장은 I 빈칸 hungry, 둘째 문장은 빈칸 they ready? 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 am, are, is: 주로 ‘이다’, ‘있다’ · 주어에 맞춰 골라요\nI → am · you, we, they, 복수 → are\nhe, she, it, 3인칭 단수 → is\nbe동사 의문문: be동사를 주어 앞으로 · 뒤 주어에 맞춰요\n예) You are tall. (너는 키가 커요.) → Are you tall? (너는 키가 크니?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 am, are, is: 주로 ‘이다’, ‘있다’ · 주어에 맞춰 골라요",
+     "I → am · you, we, they, 복수 → are",
+     "he, she, it, 3인칭 단수 → is",
+     "be동사 의문문: be동사를 주어 앞으로 · 뒤 주어에 맞춰요",
+     "예) You are tall. (너는 키가 커요.) → Are you tall? (너는 키가 크니?)"
+    ]
+   },
+   "narration": "be동사 am, are, is는 주로 ‘이다’나 ‘있다’라는 뜻으로, 주어에 맞춰 골라 써요. 주어가 I이면 am, you, we, they나 여럿이면 are, he, she, it처럼 나도 너도 아닌 한 사람이나 한 개이면 is를 써요. be동사 문장을 의문문으로 만들 때는 be동사를 주어 앞으로 보내고, 이때도 be동사는 바로 뒤의 주어에 맞춰요. You are tall. 너는 키가 커요. Are you tall? 너는 키가 크니?",
+   "caption": "be동사는 주어에 맞춰요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오.\n\nI _______ hungry. (나는 배가 고프다.)\n_______ they ready? (그들은 준비되었니?)\n\n① am - Is\n② are - Are\n③ am - Are\n④ is - Are\n⑤ are - Am",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "I _______ hungry."
+      ],
+      "strike": [
+       "② are - Are",
+       "④ is - Are",
+       "⑤ are - Am"
+      ],
+      "note": "첫 문장 주어 I → am. am으로 시작하지 않는 ②④⑤ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "_______ they ready?"
+      ],
+      "strike": [
+       "① am - Is"
+      ],
+      "note": "둘째 문장 = 의문문(be동사가 주어 앞) → 뒤 주어 they(여럿)에 맞춰 Are. Is로 끝나는 ① 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ am - Are"
+      ],
+      "strike": [],
+      "note": "남는 것 ③ am - Are → I am hungry. / Are they ready?"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 첫 문장의 주어 I에는 am만 쓰니, am으로 시작하지 않는 2번, 4번, 5번은 지워요. 둘째, 둘째 문장은 의문문이라 be동사가 주어 앞에 나왔고, 뒤의 주어 they는 여럿이라 Are를 쓰니 Is로 끝나는 1번도 지워요. 셋째, 남는 것은 3번 am과 Are예요. I am hungry. 나는 배가 고파요. Are they ready? 그들은 준비됐니?",
+   "caption": "I → am, they → Are"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 30,
+   "screen": {
+    "text": "① am - Is  ✗  I에는 am이 맞지만 they는 여럿이라 Are\n② are - Are  ✗  they에는 Are가 맞지만 I에는 am\n③ am - Are  ✓  I에는 am, they에는 Are\n④ is - Are  ✗  is는 3인칭 단수에 써요 · I에는 am\n⑤ are - Am  ✗  두 칸이 서로 바뀌었어요 · Am은 I에만",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① am - Is  ✗  I에는 am이 맞지만 they는 여럿이라 Are",
+     "② are - Are  ✗  they에는 Are가 맞지만 I에는 am",
+     "③ am - Are  ✓  I에는 am, they에는 Are",
+     "④ is - Are  ✗  is는 3인칭 단수에 써요 · I에는 am",
+     "⑤ are - Am  ✗  두 칸이 서로 바뀌었어요 · Am은 I에만"
+    ]
+   },
+   "narration": "정답은 3번 am과 Are예요. 1번은 첫 칸 am은 맞지만, they는 여럿이라 Is가 아니라 Are를 써야 해요. 5번은 am과 are의 자리가 서로 바뀌었어요. Am은 주어가 I일 때만 쓰니 they 앞에 올 수 없어요. 4번 is는 나도 너도 아닌 한 사람이나 한 개에 쓰는 말이라 주어 I와 맞지 않아요.",
+   "caption": "정답 ③ am - Are"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ③ am - Are\n\nI am · you, we, they, 복수 are · he, she, it, 3인칭 단수 is · 의문문도 뒤 주어에 맞춰요",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ am - Are",
+     "I am · you, we, they, 복수 are · he, she, it, 3인칭 단수 is · 의문문도 뒤 주어에 맞춰요"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, be동사는 주어에 맞춰 I에는 am, you, we, they에는 are, he, she, it에는 is를 써요. 의문문에서도 be동사는 바로 뒤의 주어에 맞춰요.",
+   "caption": "주어에 맞춰 am·are·is"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오.",
+  "passage": "I _______ hungry. (나는 배가 고프다.)\n_______ they ready? (그들은 준비되었니?)",
+  "c": [
+   "am - Is",
+   "are - Are",
+   "am - Are",
+   "is - Are",
+   "are - Am"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: be동사: I am, you/we/they are, he/she/it is. 의문문은 be동사를 주어 앞에 둔다.\n풀이 순서: ① 첫 문장의 주어를 본다: I에는 am. → ② 둘째 문장은 의문문이라 be동사가 주어 앞에 왔다. 주어를 본다: they에는 Are. → ③ 정답은 am - Are.\n문장별 판정:\n정답 판단: am - Are — 각 문장의 주어와 인칭·수에 맞는 be동사 조합이 'am - Are'이므로 정답은 ③이다.\n선택지 분석:\n① [오답] am - Is — 'am - Is'는 두 빈칸 중 적어도 하나에서 주어의 인칭·수와 be동사가 일치하지 않는다. [바르게 고치면: am - Are]\n② [오답] are - Are — 'are - Are'는 두 빈칸 중 적어도 하나에서 주어의 인칭·수와 be동사가 일치하지 않는다. [바르게 고치면: am - Are]\n③ [정답] am - Are — 각 문장의 주어와 인칭·수에 맞는 be동사 조합이 'am - Are'이므로 정답이다.\n④ [오답] is - Are — 'is - Are'는 두 빈칸 중 적어도 하나에서 주어의 인칭·수와 be동사가 일치하지 않는다. [바르게 고치면: am - Are]\n⑤ [오답] are - Am — 'are - Am'은 두 빈칸 중 적어도 하나에서 주어의 인칭·수와 be동사가 일치하지 않는다. [바르게 고치면: am - Are]"
+ }
+}

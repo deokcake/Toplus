@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-22T09:36:13.503Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "I am standing in the first row.",
+      "1": "I am standing in the one row.",
+      "2": "I am standing in the oneth row.",
+      "3": "I am standing in the fist row.",
+      "4": "I am standing in the one's row."
+    },
+    "expl": "핵심 규칙: ‘~ 번째’는 서수로 나타낸다(first, second, third, fourth, fifth, ninth). 기수를 쓰거나 ’s·-th·-d를 잘못 붙이지 않도록 한다.\n풀이 순서: ① 우리말에서 ‘~ 번째’를 찾는다: 첫 번째. 서수가 필요하다. → ② 그 서수의 바른 철자는 first. → ③ 기수를 그대로 쓴 것과 철자를 잘못 만든 것을 지운다. 정답은 ①.\n문장별 판정:\n정답 판단: ‘첫 번째’를 서수 first로 바르게 나타냈으므로 정답은 ①이다.\n선택지 분석:\n① [정답] ‘첫 번째’를 서수 first로 바르게 나타냈으므로 정답이다.\n② [오답] 기수(one)로는 ‘~ 번째’를 나타낼 수 없으므로 오답이다.\n③ [오답] one의 서수는 first이고 oneth라는 말은 없으므로 오답이다.\n④ [오답] fist는 ‘주먹’이라는 다른 말이고 서수는 first이므로 오답이다.\n⑤ [오답] ’s를 붙여도 서수가 되지 않으므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 우리말 '나는 첫 번째 줄에 서 있다'를 영어로 바르게 옮긴 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T09:36:10.576Z"
+  },
+  "tab": "n3lqoeq6",
+  "updatedAt": "2026-10-22T09:36:13.503Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T09:36:13.503Z",
+      "what": "확인 완료"
+    }
+  }
+}

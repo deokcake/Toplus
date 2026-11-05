@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:53:08.200Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "foots are",
+      "1": "feet is",
+      "2": "feet are",
+      "3": "foot are",
+      "4": "feets are"
+    },
+    "expl": "핵심 규칙: 불규칙 복수형(foot-feet, child-children, mouse-mice, man-men, woman-women)은 -s를 붙이지 않고 모양이 바뀌며, 복수 주어에는 be동사 are를 쓴다.\n풀이 순서: ① 주어 명사(foot)를 복수형으로 바꾼다. 불규칙 변화다(foot → feet). → ② 주어가 복수가 되었으므로 be동사도 is에서 are로 바꾼다. → ③ 정답은 feet are.\n문장별 판정:\n정답 판단: feet are: 복수형(feet)과 복수 동사(are)가 모두 알맞으므로 정답은 ③이다.\n선택지 분석:\n① [오답] foots: foot의 복수형은 feet이다. 따라서 오답이다.\n② [오답] is: 복수 주어에는 are를 쓴다. 따라서 오답이다.\n③ [정답] feet are: 복수형(feet)과 복수 동사(are)가 모두 알맞으므로 정답이다.\n④ [오답] foot: foot의 복수형은 feet이다. 따라서 오답이다.\n⑤ [오답] feets: foot의 복수형은 feet이다. 따라서 오답이다.",
+    "passage": "The foot is cold.\n→ The ______ _____ cold.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T07:53:02.370Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T07:53:08.200Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T07:53:08.200Z",
+      "what": "확인 완료"
+    }
+  }
+}

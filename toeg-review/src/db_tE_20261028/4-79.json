@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T08:22:07.974Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "'heavier'는 'heavy'의 y를 i로 바꾸고 '-er'을 붙인 비교급이다.",
+      "1": "'heavier'는 'heavy'에 '-ier'만 붙여 만든 최상급 표현이다.",
+      "2": "'than' 뒤의 'that one'은 비교 대상이 아니라 문장의 주어이다.",
+      "3": "'heavier' 대신 'more heavy'를 써도 같은 뜻으로 옳다.",
+      "4": "'than'은 '그러므로'라는 뜻으로 앞뒤 문장을 이어 준다."
+    },
+    "expl": "핵심 규칙: 비교급은 짧은 단어에 -er을 붙이고(late → later, tall → taller), 자음 + y는 y를 i로 바꾼다(easy → easier). than은 ‘~보다’라는 뜻으로 비교의 대상을 연결하며 then(그때)과 다르다.\n풀이 순서: ① 밑줄을 둘로 나눈다: 비교급(heavier) + than. → ② 비교급은 ‘더 ~한(하게)’, than은 ‘~보다’로 뒤에 비교 대상(that one)이 온다. → ③ 이를 바르게 말한 것은 ①.\n문장별 판정:\n정답 판단: 비교급의 형태와 than의 쓰임을 바르게 설명했으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 비교급의 형태와 than의 쓰임을 바르게 설명했으므로 정답이다.\n② [오답] heavier는 비교급이므로 오답이다.\n③ [오답] that one은 비교의 대상이므로 오답이다.\n④ [오답] heavy의 비교급은 heavier이므로 오답이다.\n⑤ [오답] than은 ‘~보다’라는 뜻이므로 오답이다.",
+    "passage": "This school bag is <u>heavier than</u> that one.",
+    "stem": "다음 문장에서 'heavier'와 'than'의 쓰임에 대한 설명으로 가장 올바른 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T08:21:56.620Z"
+  },
+  "tab": "x2buc7cy",
+  "updatedAt": "2026-10-27T08:22:07.974Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T08:22:07.974Z",
+      "what": "확인 완료"
+    }
+  }
+}

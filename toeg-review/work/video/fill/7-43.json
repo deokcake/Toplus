@@ -1,0 +1,481 @@
+{
+ "A": {
+  "title": "they로 답하는 질문 고르기",
+  "intro": "이 문제는 대답의 주어 they를 보고, 그 대답에 알맞은 질문을 고르는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 알맞은 것을 고르세요. A가 빈칸으로 묻고, B가 No, they aren't, 아니, 그렇지 않아, 하고 답해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "대답에서는 질문의 주어를 알맞은 대명사로 받아요.",
+    "these, those, 복수 명사 → they",
+    "this, that(사람이 아닌 것 하나), it → it",
+    "you → I 또는 we",
+    "예) Are these your gloves? — Yes, they are. (이것들은 네 장갑이니? 응, 그래.)"
+   ],
+   "narration": "대답에서는 질문의 주어를 알맞은 대명사로 받아요. 질문의 주어가 these, those이거나 복수 명사이면 they로 답해요. this나 that이 사람이 아닌 것 하나를 가리키거나 주어가 it이면 it으로 답해요. 주어가 you이면 I나 we로 답해요. 예를 들어 Are these your gloves? 이것들은 네 장갑이니? Yes, they are. 응, 그래."
+  },
+  "steps": [
+   {
+    "note": "대답의 주어 they → 질문은 여러 개를 물었다",
+    "highlight": [
+     "No, they aren't."
+    ],
+    "strike": [],
+    "narration": "첫째, 대답의 주어를 봐요. 주어가 they라서, 질문의 주어는 these나 those처럼 여러 개여야 해요."
+   },
+   {
+    "note": "this, that, it으로 하나를 물은 질문 → 대답은 it → 지운다",
+    "highlight": [],
+    "strike": [
+     "① Is this your seat?",
+     "② Is that your T-shirt?",
+     "③ Is this a tiger?",
+     "⑤ Is it your seat?"
+    ],
+    "narration": "둘째, 1번과 3번은 this, 2번은 that으로 사람이 아닌 것 하나를 물었어요. 5번은 it으로 물었어요. 모두 it으로 답하니까 지워요."
+   },
+   {
+    "note": "남는 것 ④ → Are these our balls? / No, they aren't.",
+    "highlight": [
+     "④ Are these our balls?"
+    ],
+    "strike": [],
+    "narration": "셋째, 남는 것은 4번이에요. Are these our balls? 이것들은 우리 공들이니? No, they aren't. 아니, 그렇지 않아."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Is this your seat?  ✗  this(자리 하나) → 대답은 it",
+    "② Is that your T-shirt?  ✗  that(티셔츠 한 장) → 대답은 it",
+    "③ Is this a tiger?  ✗  this(호랑이 한 마리) → 대답은 it",
+    "④ Are these our balls?  ✓  these(공 여러 개) → 대답은 they",
+    "⑤ Is it your seat?  ✗  it으로 물으면 대답도 it"
+   ],
+   "narration": "정답은 4번이에요. these로 공 여러 개를 물었으니 they로 답할 수 있어요. 2번 that은 those와 헷갈리기 쉽지만, 티셔츠 한 장을 가리켜서 it으로 답해요. 3번 tiger는 동물이지만 한 마리라서 역시 it으로 답해요. 5번은 it으로 물었으니 대답도 it이에요."
+  },
+  "summary": {
+   "card": "질문의 주어가 these, those, 복수 명사 → 대답은 they",
+   "narration": "정답은 4번이에요. 기억할 것, 질문의 주어가 these, those이거나 복수 명사이면 대답은 they로 해요."
+  },
+  "captions": [
+   "대답의 they에 맞는 질문",
+   "먼저 풀어 보세요",
+   "질문의 주어를 대명사로 받아요",
+   "they → 여러 개 → these",
+   "정답 ④ Are these our balls?",
+   "these·those·복수 명사 → they"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   34,
+   28,
+   10
+  ]
+ },
+ "B": {
+  "title": "they로 답하는 질문 고르기",
+  "intro": "이 문제는 대답의 주어 they를 보고, 그 대답에 알맞은 질문을 고르는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 알맞은 것을 고르세요. A가 빈칸으로 묻고, B가 No, they aren't, 아니, 그렇지 않아, 하고 답해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "대답에서는 질문의 주어를 알맞은 대명사로 받아요.",
+    "these, those, 복수 명사 → they",
+    "this, that(사람이 아닌 것 하나), it → it",
+    "you → I 또는 we",
+    "예) Are these your gloves? — Yes, they are. (이것들은 네 장갑이니? 응, 그래.)"
+   ],
+   "narration": "대답에서는 질문의 주어를 알맞은 대명사로 받아요. 질문의 주어가 these, those이거나 복수 명사이면 they로 답해요. this나 that이 사람이 아닌 것 하나를 가리키거나 주어가 it이면 it으로 답해요. 주어가 you이면 I나 we로 답해요. 예를 들어 Are these your gloves? 이것들은 네 장갑이니? Yes, they are. 응, 그래."
+  },
+  "steps": [
+   {
+    "note": "대답의 주어 they → 질문은 여러 개를 물었다",
+    "highlight": [
+     "No, they aren't."
+    ],
+    "strike": [],
+    "narration": "첫째, 대답의 주어를 봐요. 주어가 they라서, 질문의 주어는 these나 those처럼 여러 개여야 해요."
+   },
+   {
+    "note": "it, this, that으로 하나를 물은 질문 → 대답은 it → 지운다",
+    "highlight": [],
+    "strike": [
+     "① Is it your scarf?",
+     "③ Is this your scarf?",
+     "④ Is that his jacket?"
+    ],
+    "narration": "둘째, 1번은 it, 3번은 this, 4번은 that으로 물건 하나를 물었어요. 모두 it으로 답하니까 지워요."
+   },
+   {
+    "note": "② 주어 you → 대답은 I 또는 we → 지운다",
+    "highlight": [],
+    "strike": [
+     "② Are you cold?"
+    ],
+    "narration": "셋째, 2번은 Are로 시작하지만 주어가 you라서 I나 we로 답해요. 그래서 지워요."
+   },
+   {
+    "note": "남는 것 ⑤ → Are those your scarves? / No, they aren't.",
+    "highlight": [
+     "⑤ Are those your scarves?"
+    ],
+    "strike": [],
+    "narration": "넷째, 남는 것은 5번이에요. Are those your scarves? 저것들은 네 스카프들이니? No, they aren't. 아니, 그렇지 않아."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Is it your scarf?  ✗  it으로 물으면 대답도 it",
+    "② Are you cold?  ✗  you로 물으면 대답은 I 또는 we",
+    "③ Is this your scarf?  ✗  this(스카프 하나) → 대답은 it",
+    "④ Is that his jacket?  ✗  that(재킷 한 벌) → 대답은 it",
+    "⑤ Are those your scarves?  ✓  those(스카프 여러 개) → 대답은 they"
+   ],
+   "narration": "정답은 5번이에요. those로 스카프 여러 개를 물었으니 they로 답할 수 있어요. 2번은 Are로 시작해서 고르기 쉽지만, 주어가 you라서 대답은 I나 we로 해요. 3번은 같은 scarf를 물었지만 this로 하나만 가리켜서 it으로 답해요."
+  },
+  "summary": {
+   "card": "질문의 주어가 these, those, 복수 명사 → 대답은 they",
+   "narration": "정답은 5번이에요. 기억할 것, 질문의 주어가 these, those이거나 복수 명사이면 대답은 they로 해요."
+  },
+  "captions": [
+   "대답의 they에 맞는 질문",
+   "먼저 풀어 보세요",
+   "질문의 주어를 대명사로 받아요",
+   "they → 여러 개 → those",
+   "정답 ⑤ Are those your scarves?",
+   "these·those·복수 명사 → they"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   40,
+   28,
+   10
+  ]
+ },
+ "C": {
+  "title": "they로 답하는 질문 고르기",
+  "intro": "이 문제는 대답의 주어 they를 보고, 그 대답에 알맞은 질문을 고르는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 알맞은 것을 고르세요. A가 빈칸으로 묻고, B가 Yes, they are, 응, 그래, 하고 답해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "대답에서는 질문의 주어를 알맞은 대명사로 받아요.",
+    "these, those, 복수 명사 → they",
+    "this, that(사람이 아닌 것 하나), it → it",
+    "you → I 또는 we",
+    "예) Are these your gloves? — Yes, they are. (이것들은 네 장갑이니? 응, 그래.)"
+   ],
+   "narration": "대답에서는 질문의 주어를 알맞은 대명사로 받아요. 질문의 주어가 these, those이거나 복수 명사이면 they로 답해요. this나 that이 사람이 아닌 것 하나를 가리키거나 주어가 it이면 it으로 답해요. 주어가 you이면 I나 we로 답해요. 예를 들어 Are these your gloves? 이것들은 네 장갑이니? Yes, they are. 응, 그래."
+  },
+  "steps": [
+   {
+    "note": "대답의 주어 they → 질문은 여러 개를 물었다",
+    "highlight": [
+     "Yes, they are."
+    ],
+    "strike": [],
+    "narration": "첫째, 대답의 주어를 봐요. 주어가 they라서, 질문의 주어는 these나 those처럼 여러 개여야 해요."
+   },
+   {
+    "note": "this, that, it으로 하나를 물은 질문 → 대답은 it → 지운다",
+    "highlight": [],
+    "strike": [
+     "② Is this your umbrella?",
+     "④ Is that his cap?",
+     "⑤ Is it a pencil?"
+    ],
+    "narration": "둘째, 2번은 this, 4번은 that, 5번은 it으로 물건 하나를 물었어요. 모두 it으로 답하니까 지워요."
+   },
+   {
+    "note": "③ students는 여러 명이지만 주어 you → 대답은 we → 지운다",
+    "highlight": [],
+    "strike": [
+     "③ Are you students?"
+    ],
+    "narration": "셋째, 3번은 students가 여러 명이지만 주어가 you예요. 그래서 we로 답하니까 지워요."
+   },
+   {
+    "note": "남는 것 ① → Are these her shoes? / Yes, they are.",
+    "highlight": [
+     "① Are these her shoes?"
+    ],
+    "strike": [],
+    "narration": "넷째, 남는 것은 1번이에요. Are these her shoes? 이것들은 그녀의 신발이니? Yes, they are. 응, 그래."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Are these her shoes?  ✓  these(신발들) → 대답은 they",
+    "② Is this your umbrella?  ✗  this(우산 하나) → 대답은 it",
+    "③ Are you students?  ✗  주어 you(너희) → 대답은 we",
+    "④ Is that his cap?  ✗  that(모자 하나) → 대답은 it",
+    "⑤ Is it a pencil?  ✗  it으로 물으면 대답도 it"
+   ],
+   "narration": "정답은 1번이에요. these로 신발들을 물었으니 they로 답할 수 있어요. 3번은 Are로 묻고 students도 여러 명이라 고르기 쉬워요. 하지만 주어가 you, 곧 너희라서 대답은 we로 해요. 4번 that은 those와 헷갈리기 쉽지만, 모자 하나를 가리켜서 it으로 답해요."
+  },
+  "summary": {
+   "card": "질문의 주어가 these, those, 복수 명사 → 대답은 they",
+   "narration": "정답은 1번이에요. 기억할 것, 질문의 주어가 these, those이거나 복수 명사이면 대답은 they로 해요."
+  },
+  "captions": [
+   "대답의 they에 맞는 질문",
+   "먼저 풀어 보세요",
+   "질문의 주어를 대명사로 받아요",
+   "they → 여러 개 → these",
+   "정답 ① Are these her shoes?",
+   "these·those·복수 명사 → they"
+  ],
+  "sec": [
+   10,
+   16,
+   28,
+   40,
+   30,
+   10
+  ]
+ },
+ "D": {
+  "title": "they로 답하는 질문 고르기",
+  "intro": "이 문제는 대답의 주어 they를 보고, 그 대답에 알맞은 질문을 고르는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 알맞은 것을 고르세요. A가 빈칸으로 묻고, B가 No, they're my sister's, 아니, 그것들은 내 여동생 거야, 하고 답해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "대답에서는 질문의 주어를 알맞은 대명사로 받아요.",
+    "these, those, 복수 명사 → they",
+    "this, that(사람이 아닌 것 하나), it → it",
+    "you → I 또는 we",
+    "예) Are these your gloves? — Yes, they are. (이것들은 네 장갑이니? 응, 그래.)"
+   ],
+   "narration": "대답에서는 질문의 주어를 알맞은 대명사로 받아요. 질문의 주어가 these, those이거나 복수 명사이면 they로 답해요. this나 that이 사람이 아닌 것 하나를 가리키거나 주어가 it이면 it으로 답해요. 주어가 you이면 I나 we로 답해요. 예를 들어 Are these your gloves? 이것들은 네 장갑이니? Yes, they are. 응, 그래."
+  },
+  "steps": [
+   {
+    "note": "대답의 주어 they (they're = they are) → 질문은 여러 개를 물었다",
+    "highlight": [
+     "No, they're my sister's."
+    ],
+    "strike": [],
+    "narration": "첫째, 대답의 they're는 they are를 줄인 말이에요. 주어가 they라서, 질문의 주어는 these나 those처럼 여러 개여야 해요."
+   },
+   {
+    "note": "it, this, that으로 하나를 물은 질문 → 대답은 it → 지운다",
+    "highlight": [],
+    "strike": [
+     "① Is it your notebook?",
+     "④ Is this a lemon?",
+     "⑤ Is that her bike?"
+    ],
+    "narration": "둘째, 1번은 it, 4번은 this, 5번은 that으로 물건 하나를 물었어요. 모두 it으로 답하니까 지워요."
+   },
+   {
+    "note": "② you and Tom(너와 Tom) → 대답은 we → 지운다",
+    "highlight": [],
+    "strike": [
+     "② Are you and Tom friends?"
+    ],
+    "narration": "셋째, 2번은 너와 Tom을 함께 물었어요. 대답하는 사람은 자기와 Tom을 묶어 we로 답하니까 지워요."
+   },
+   {
+    "note": "남는 것 ③ → Are those his cars? / No, they're my sister's.",
+    "highlight": [
+     "③ Are those his cars?"
+    ],
+    "strike": [],
+    "narration": "넷째, 남는 것은 3번이에요. Are those his cars? 저것들은 그의 자동차들이니? 이렇게 물으면 they로 답할 수 있어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Is it your notebook?  ✗  it으로 물으면 대답도 it",
+    "② Are you and Tom friends?  ✗  you and Tom → 대답은 we",
+    "③ Are those his cars?  ✓  those(자동차 여러 대) → 대답은 they",
+    "④ Is this a lemon?  ✗  this(레몬 하나) → 대답은 it",
+    "⑤ Is that her bike?  ✗  that(자전거 한 대) → 대답은 it"
+   ],
+   "narration": "정답은 3번이에요. those로 자동차 여러 대를 물었으니 they로 답할 수 있어요. 2번은 Are로 묻고 두 사람이라 고르기 쉬워요. 하지만 you and Tom에는 we로 답해요. 5번은 her bike가 sister's와 어울려 보이지만, that으로 자전거 한 대를 물었으니 it으로 답해요."
+  },
+  "summary": {
+   "card": "질문의 주어가 these, those, 복수 명사 → 대답은 they",
+   "narration": "정답은 3번이에요. 기억할 것, 질문의 주어가 these, those이거나 복수 명사이면 대답은 they로 해요."
+  },
+  "captions": [
+   "대답의 they에 맞는 질문",
+   "먼저 풀어 보세요",
+   "질문의 주어를 대명사로 받아요",
+   "they → 여러 개 → those",
+   "정답 ③ Are those his cars?",
+   "these·those·복수 명사 → they"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   40,
+   30,
+   10
+  ]
+ },
+ "E": {
+  "title": "they로 답하는 질문 고르기",
+  "intro": "이 문제는 대답의 주어 they를 보고, 그 대답에 알맞은 질문을 고르는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 알맞은 것을 고르세요. A가 빈칸으로 묻고, B가 Yes, they're mine, 응, 그것들은 내 거야, 하고 답해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "대답에서는 질문의 주어를 알맞은 대명사로 받아요.",
+    "these, those, 복수 명사 → they",
+    "this, that(사람이 아닌 것 하나), it → it",
+    "you → I 또는 we",
+    "예) Are these your gloves? — Yes, they are. (이것들은 네 장갑이니? 응, 그래.)"
+   ],
+   "narration": "대답에서는 질문의 주어를 알맞은 대명사로 받아요. 질문의 주어가 these, those이거나 복수 명사이면 they로 답해요. this나 that이 사람이 아닌 것 하나를 가리키거나 주어가 it이면 it으로 답해요. 주어가 you이면 I나 we로 답해요. 예를 들어 Are these your gloves? 이것들은 네 장갑이니? Yes, they are. 응, 그래."
+  },
+  "steps": [
+   {
+    "note": "대답의 주어 they (they're = they are) → 질문은 여러 개를 물었다",
+    "highlight": [
+     "Yes, they're mine."
+    ],
+    "strike": [],
+    "narration": "첫째, 대답의 they're는 they are를 줄인 말이에요. 주어가 they라서, 질문의 주어는 these나 those처럼 여러 개여야 해요."
+   },
+   {
+    "note": "that, this, it으로 물은 질문 → 대답은 it → 지운다",
+    "highlight": [],
+    "strike": [
+     "① Is that a bird?",
+     "③ Is this your desk?",
+     "⑤ Is it hot?"
+    ],
+    "narration": "둘째, 1번은 that, 3번은 this로 사람이 아닌 것 하나를 물었고, 5번은 it으로 물었어요. 모두 it으로 답하니까 지워요."
+   },
+   {
+    "note": "② 주어 you → 대답은 I 또는 we → 지운다",
+    "highlight": [],
+    "strike": [
+     "② Are you tired?"
+    ],
+    "narration": "셋째, 2번은 Are로 시작하지만 주어가 you라서 I나 we로 답해요. 그래서 지워요."
+   },
+   {
+    "note": "남는 것 ④ → Are those your books? / Yes, they're mine.",
+    "highlight": [
+     "④ Are those your books?"
+    ],
+    "strike": [],
+    "narration": "넷째, 남는 것은 4번이에요. Are those your books? 저것들은 네 책들이니? Yes, they're mine. 응, 그것들은 내 거야."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Is that a bird?  ✗  that(새 한 마리) → 대답은 it",
+    "② Are you tired?  ✗  you로 물으면 대답은 I 또는 we",
+    "③ Is this your desk?  ✗  this(책상 하나) → 대답은 it",
+    "④ Are those your books?  ✓  those(책 여러 권) → 대답은 they",
+    "⑤ Is it hot?  ✗  it으로 물으면 대답도 it"
+   ],
+   "narration": "정답은 4번이에요. those로 책 여러 권을 물었으니 they로 답할 수 있어요. 3번은 your desk가 mine과 어울려 보이지만, this로 책상 하나를 물었으니 it으로 답해요. 2번은 Are로 시작하지만 주어가 you라서 I나 we로 답해요."
+  },
+  "summary": {
+   "card": "질문의 주어가 these, those, 복수 명사 → 대답은 they",
+   "narration": "정답은 4번이에요. 기억할 것, 질문의 주어가 these, those이거나 복수 명사이면 대답은 they로 해요."
+  },
+  "captions": [
+   "대답의 they에 맞는 질문",
+   "먼저 풀어 보세요",
+   "질문의 주어를 대명사로 받아요",
+   "they → 여러 개 → those",
+   "정답 ④ Are those your books?",
+   "these·those·복수 명사 → they"
+  ],
+  "sec": [
+   10,
+   18,
+   28,
+   40,
+   28,
+   10
+  ]
+ },
+ "F": {
+  "title": "they로 답하는 질문 고르기",
+  "intro": "이 문제는 대답의 주어 they를 보고, 그 대답에 알맞은 질문을 고르는 문제예요.",
+  "problem_narration": "다음 대화의 빈칸에 알맞은 것을 고르세요. A가 빈칸으로 묻고, B가 No, they're not, 아니, 그렇지 않아, 하고 답해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "대답에서는 질문의 주어를 알맞은 대명사로 받아요.",
+    "these, those, 복수 명사 → they",
+    "this, that(사람이 아닌 것 하나), it → it",
+    "you → I 또는 we,  she → she",
+    "예) Are these your gloves? — Yes, they are. (이것들은 네 장갑이니? 응, 그래.)"
+   ],
+   "narration": "대답에서는 질문의 주어를 알맞은 대명사로 받아요. 질문의 주어가 these, those이거나 복수 명사이면 they로 답해요. this나 that이 사람이 아닌 것 하나를 가리키거나 주어가 it이면 it으로 답해요. 주어가 you이면 I나 we로, she이면 she로 답해요. 예를 들어 Are these your gloves? 이것들은 네 장갑이니? Yes, they are. 응, 그래."
+  },
+  "steps": [
+   {
+    "note": "대답의 주어 they (they're = they are) → 질문은 여러 개를 물었다",
+    "highlight": [
+     "No, they're not."
+    ],
+    "strike": [],
+    "narration": "첫째, 대답의 they're는 they are를 줄인 말이에요. 주어가 they라서, 질문의 주어는 these나 those처럼 여러 개여야 해요."
+   },
+   {
+    "note": "this, that으로 하나를 물은 질문 → 대답은 it → 지운다",
+    "highlight": [],
+    "strike": [
+     "① Is this your eraser?",
+     "⑤ Is that a cloud?"
+    ],
+    "narration": "둘째, 1번은 this, 5번은 that으로 사람이 아닌 것 하나를 물었어요. 그래서 it으로 답하니까 지워요."
+   },
+   {
+    "note": "③ 주어 she → 대답은 she, ④ 주어 you → 대답은 I 또는 we → 지운다",
+    "highlight": [],
+    "strike": [
+     "③ Is she your sister?",
+     "④ Are you ready?"
+    ],
+    "narration": "셋째, 3번은 주어가 she라서 she로 답하고, 4번은 주어가 you라서 I나 we로 답해요. 둘 다 지워요."
+   },
+   {
+    "note": "남는 것 ② → Are these my pencils? / No, they're not.",
+    "highlight": [
+     "② Are these my pencils?"
+    ],
+    "strike": [],
+    "narration": "넷째, 남는 것은 2번이에요. Are these my pencils? 이것들은 내 연필들이니? No, they're not. 아니, 그렇지 않아."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Is this your eraser?  ✗  this(지우개 하나) → 대답은 it",
+    "② Are these my pencils?  ✓  these(연필 여러 자루) → 대답은 they",
+    "③ Is she your sister?  ✗  she로 물으면 대답도 she",
+    "④ Are you ready?  ✗  you로 물으면 대답은 I 또는 we",
+    "⑤ Is that a cloud?  ✗  that(구름 하나) → 대답은 it"
+   ],
+   "narration": "정답은 2번이에요. these로 연필 여러 자루를 물었으니 they로 답할 수 있어요. 4번은 Are로 시작해서 고르기 쉽지만, 주어가 you라서 I나 we로 답해요. 3번은 한 사람인 she를 물었으니 대답도 she로 해요."
+  },
+  "summary": {
+   "card": "질문의 주어가 these, those, 복수 명사 → 대답은 they",
+   "narration": "정답은 2번이에요. 기억할 것, 질문의 주어가 these, those이거나 복수 명사이면 대답은 they로 해요."
+  },
+  "captions": [
+   "대답의 they에 맞는 질문",
+   "먼저 풀어 보세요",
+   "질문의 주어를 대명사로 받아요",
+   "they → 여러 개 → these",
+   "정답 ② Are these my pencils?",
+   "these·those·복수 명사 → they"
+  ],
+  "sec": [
+   10,
+   16,
+   30,
+   40,
+   28,
+   10
+  ]
+ }
+}

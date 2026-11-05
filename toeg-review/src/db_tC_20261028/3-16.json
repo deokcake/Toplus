@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T04:33:10.944Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 현재 일반동사의 의문문·부정문은 do/does + 동사원형으로 만든다. 3인칭 단수 주어에는 does, 그 밖의 주어에는 do를 쓰고, 본동사에는 -s를 붙이지 않는다.\n풀이 순서: ① 문장이 Do/Does로 시작하거나 don't/doesn't가 들어 있다. 그 뒤 본동사는 원형이어야 하고, Do/Does는 주어에 맞아야 한다. → ② doesn't 뒤의 studies가 틀렸다(study). → ③ 틀린 부분은 ②이다.\n문장별 판정:\n정답 판단: studies: doesn't 뒤에는 동사원형(study)을 써야 한다. 틀린 부분이므로 정답은 ②이다.\n선택지 분석:\n① [오답] doesn't: 3인칭 단수 주어의 부정에 알맞으므로 오답이다.\n② [정답] studies: doesn't 뒤에는 동사원형(study)을 써야 한다. 틀린 부분이므로 정답이다.\n③ [오답] English: 동사의 목적어로 알맞으므로 오답이다.\n④ [오답] every: 단수명사 앞의 every로 알맞으므로 오답이다.\n⑤ [오답] day: every 뒤 단수명사로 알맞으므로 오답이다.",
+    "passage": "Jane ①<u>doesn't</u> ②<u>studies</u> ③<u>English</u> ④<u>every</u> ⑤<u>day</u>.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T04:33:06.156Z"
+  },
+  "tab": "3uygybqk",
+  "updatedAt": "2026-10-23T04:33:10.944Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T04:33:10.944Z",
+      "what": "확인 완료"
+    }
+  }
+}

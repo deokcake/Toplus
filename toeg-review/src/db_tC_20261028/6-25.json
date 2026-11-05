@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-21T11:12:46.140Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Yes, I were.",
+      "1": "Yes, I am.",
+      "2": "Yes, I did.",
+      "3": null,
+      "4": "No, I'm not."
+    },
+    "expl": "핵심 규칙: Was/Were 의문문에는 Yes, 주어 + was/were. / No, 주어 + wasn't/weren't.로 답한다. 대답의 주어는 질문의 주어를 대명사로 받고(the cookies → they, Jane → she), 시제도 과거로 맞춘다.\n풀이 순서: ① 질문의 주어를 대명사로 바꾼다: you → I. → ② 질문이 과거(Was/Were)이므로 대답도 was/were로 하고, 대명사에 맞춘다: I was. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: you에 대한 질문에 I와 was로 바르게 답했으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 주어 I에는 was를 써야 하므로 오답이다.\n② [오답] 과거 질문에 현재형 am으로 답했으므로 오답이다.\n③ [오답] be동사 질문에 did로 답했으므로 오답이다.\n④ [정답] you에 대한 질문에 I와 was로 바르게 답했으므로 정답이다.\n⑤ [오답] 과거 질문에 현재형 I'm not으로 답했으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 질문에 대한 대답으로 어법상 가장 알맞은 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-21T11:12:44.668Z"
+  },
+  "tab": "ojjpxrut",
+  "updatedAt": "2026-10-21T11:12:46.140Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T11:12:46.140Z",
+      "what": "확인 완료"
+    }
+  }
+}

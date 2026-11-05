@@ -1,0 +1,181 @@
+{
+ "key": "6-23",
+ "type": "B",
+ "grade": 6,
+ "chapter": "CH 3 be동사 과거",
+ "title": "주어에 맞는 wasn't와 weren't",
+ "total_sec": 134,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "6급 · CH 3 be동사 과거 · 23번 · B 유형\n\n이 문제는 wasn't와 weren't가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 3 be동사 과거 · 23번 · B 유형",
+     "이 문제는 wasn't와 weren't가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 3, 23번 B 유형. 이 문제는 wasn't와 weren't가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+   "caption": "wasn't와 weren't, 틀린 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① You weren't at the library.\n② The soup wasn't hot.\n③ I wasn't tired.\n④ They wasn't busy.\n⑤ The door wasn't open.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 틀린 문장을 고르시오.",
+     "① You weren't at the library.",
+     "② The soup wasn't hot.",
+     "③ I wasn't tired.",
+     "④ They wasn't busy.",
+     "⑤ The door wasn't open."
+    ]
+   },
+   "narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 과거형 was, were = 무엇이었다, 어떠했다, 어디에 있었다\nI · he, she, it(나도 너도 아닌 하나) · 셀 수 없는 것 → was\nyou(한 명이어도) · we, they · 여럿 → were\n부정문: be동사 뒤에 not → wasn't(was not), weren't(were not)\n예) Ben wasn't sad. (벤은 슬프지 않았어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 과거형 was, were = 무엇이었다, 어떠했다, 어디에 있었다",
+     "I · he, she, it(나도 너도 아닌 하나) · 셀 수 없는 것 → was",
+     "you(한 명이어도) · we, they · 여럿 → were",
+     "부정문: be동사 뒤에 not → wasn't(was not), weren't(were not)",
+     "예) Ben wasn't sad. (벤은 슬프지 않았어요.)"
+    ]
+   },
+   "narration": "be동사 과거형 was와 were는 무엇이었다, 어떠했다, 어디에 있었다는 뜻이에요. I와 he, she, it 같은 하나, 셀 수 없는 것에는 was를 써요. you는 한 사람이어도 were를 쓰고, we, they와 여럿에도 were예요. 부정은 was not, were not, 줄이면 wasn't, weren't예요. Ben wasn't sad. 벤은 슬프지 않았어요.",
+   "caption": "I·하나는 was, you·여럿은 were"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① You weren't at the library.\n② The soup wasn't hot.\n③ I wasn't tired.\n④ They wasn't busy.\n⑤ The door wasn't open.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "① You",
+       "② The soup",
+       "③ I",
+       "④ They",
+       "⑤ The door"
+      ],
+      "strike": [],
+      "note": "주어 찾기: You, The soup, I, They, The door"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① You weren't at the library.",
+       "② The soup wasn't hot.",
+       "③ I wasn't tired.",
+       "⑤ The door wasn't open."
+      ],
+      "note": "You(한 명이어도) → weren't ✓ / The soup(셀 수 없음), I, The door(하나) → wasn't ✓"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ They wasn't busy."
+      ],
+      "strike": [
+       "They wasn't"
+      ],
+      "note": "They(여럿)인데 wasn't ✗ → They weren't → 틀린 문장은 ④"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 맨 앞에 있는 주어를 찾아요. 둘째, You는 한 사람을 가리켜도 were를 쓰니 1번 weren't는 맞아요. 셀 수 없는 The soup, 주어 I, 문 하나인 The door에는 wasn't를 바르게 썼어요. 셋째, 4번의 주어 They는 여럿이니 wasn't가 아니라 weren't를 써야 해요. They weren't busy. 그들은 바쁘지 않았어요.",
+   "caption": "주어 찾기 → 맞는 문장 지우기 → ④"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① You weren't at the library.  ✗  you는 한 명이어도 were → weren't가 맞아요\n② The soup wasn't hot.  ✗  soup(수프)는 셀 수 없는 것 → wasn't가 맞아요\n③ I wasn't tired.  ✗  주어 I에는 was → wasn't가 맞아요\n④ They wasn't busy.  ✓  They는 여럿 → weren't로 고쳐야 해요 (틀린 문장)\n⑤ The door wasn't open.  ✗  The door는 문 하나 → wasn't가 맞아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① You weren't at the library.  ✗  you는 한 명이어도 were → weren't가 맞아요",
+     "② The soup wasn't hot.  ✗  soup(수프)는 셀 수 없는 것 → wasn't가 맞아요",
+     "③ I wasn't tired.  ✗  주어 I에는 was → wasn't가 맞아요",
+     "④ They wasn't busy.  ✓  They는 여럿 → weren't로 고쳐야 해요 (틀린 문장)",
+     "⑤ The door wasn't open.  ✗  The door는 문 하나 → wasn't가 맞아요"
+    ]
+   },
+   "narration": "정답은 4번이에요. They는 여럿을 가리키니 wasn't가 아니라 weren't를 써야 해요. 1번 You는 한 사람일 수도 있지만, you에는 한 사람이어도 were를 쓰니 weren't가 맞아요. 2번 The soup는 셀 수 없는 것이라 wasn't가 맞아요. 5번 The door는 문 하나라 wasn't가 맞아요.",
+   "caption": "정답 ④ They wasn't → They weren't"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ④ They wasn't busy.\n\nyou · we · they · 여럿 → weren't  ·  I · 나도 너도 아닌 하나 · 셀 수 없는 것 → wasn't",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ They wasn't busy.",
+     "you · we · they · 여럿 → weren't  ·  I · 나도 너도 아닌 하나 · 셀 수 없는 것 → wasn't"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, you와 여럿에는 weren't, I와 나도 너도 아닌 하나, 셀 수 없는 것에는 wasn't를 써요.",
+   "caption": "you·여럿 weren't, I·하나 wasn't"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "You weren't at the library.",
+   "The soup wasn't hot.",
+   "I wasn't tired.",
+   "They wasn't busy.",
+   "The door wasn't open."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: be동사 과거형은 주어가 I·3인칭 단수면 was, you·we·they·복수 주어(A and B 포함)면 were를 쓴다. 부정은 wasn't/weren't, 의문문은 Was/Were + 주어 ~?로 쓴다.\n풀이 순서: ① 문장마다 주어가 단수(I, he, she, it, 단수 명사)인지 복수(we, you, they, 복수 명사)인지 가른다. → ② 단수면 wasn't, 복수면 weren't인지 본다. → ③ 선택지 ④의 They는 복수인데 wasn't를 썼다. 정답은 ④.\n문장별 판정:\n정답 판단: 복수 주어 They에는 weren't를 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 주어에 맞는 wasn't/weren't를 바르게 썼으므로 오답이다.\n② [오답] 주어에 맞는 wasn't/weren't를 바르게 썼으므로 오답이다.\n③ [오답] 주어에 맞는 wasn't/weren't를 바르게 썼으므로 오답이다.\n④ [정답] 복수 주어 They에는 weren't를 써야 하므로 정답이다.\n⑤ [오답] 주어에 맞는 wasn't/weren't를 바르게 썼으므로 오답이다."
+ }
+}

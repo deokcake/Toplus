@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-23T17:59:42.175Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "(가), (나)",
+      "1": "(가), (다)",
+      "2": "(나), (다)",
+      "3": "(나), (라)",
+      "4": "(다), (라)"
+    },
+    "expl": "핵심 규칙: 현재진행형은 am/is/are + 동사-ing로 만들며 be동사는 주어에 맞춘다. -e로 끝나면 e를 빼고 -ing(write → writing), 단모음 + 단자음이면 자음을 한 번 더 쓴다(sit → sitting). know·want 같은 상태동사는 보통 진행형으로 쓰지 않는다.\n풀이 순서: ① 문장마다 ‘be동사 + -ing’가 갖춰졌는지 본다. be동사가 주어에 맞는지, 뒤가 -ing인지 확인한다. → ② -ing의 철자(e를 빼는 동사, 끝 자음을 겹쳐 쓰는 동사)와 진행형으로 쓰지 않는 상태 동사도 확인한다. → ③ 틀린 문장을 지운다: (다) is know, (라) Tom are. 남은 두 문장을 묶은 (가), (나)가 정답이다.\n문장별 판정:\n(가) O. am + -ing의 현재진행형이다.\n(나) O. are + -ing이며 run은 n을 한 번 더 써 running이다.\n(다) X. is 뒤에 원형을 쓸 수 없고, know는 진행형으로도 쓰지 않는다.\n(라) X. 3인칭 단수 주어(Tom)에는 is를 쓴다.\n정답 판단: 옳은 문장은 (가), (나)이다.\n선택지 분석:\n① [정답] 옳은 문장 (가), (나)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (나)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (라)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (다), (라)는 옳은 문장이 아니고, 옳은 문장 (가), (나)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(가) I am cooking dinner for my family tonight.\n(나) The boys are running around the playground.\n(다) She is know the answer to the question.\n(라) Tom are watching TV in the living room.",
+    "stem": "다음 중 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "tab": "eyvwbz2e",
+  "updatedAt": "2026-10-23T17:59:42.175Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T17:59:42.175Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T08:08:17.393Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "It is ten past four.",
+      "1": "It is ten to five.",
+      "2": "It is five to ten.",
+      "3": "Ten to five is it.",
+      "4": "It is to ten five."
+    },
+    "expl": "핵심 규칙: 시각은 It is + 시각으로 말한다. ‘~시 …분 지났다’는 분 + past + 시, ‘~시 …분 전’은 분 + to + 시로 쓰고, 30분은 half, 15분은 a quarter로 말한다.\n풀이 순서: ① 시각을 ‘분 + past/to + 시’로 바꾼다: 4시 50분 → ten to five(5시 10분 전). → ② It is 뒤에 이 순서 그대로 쓴다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: 4시 50분(5시 10분 전)을 ten to five로 바르게 나타냈으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 4시 10분을 나타내므로 오답이다.\n② [정답] 4시 50분(5시 10분 전)을 ten to five로 바르게 나타냈으므로 정답이다.\n③ [오답] 9시 55분을 나타내므로 오답이다.\n④ [오답] It is + 시각의 어순이 아니므로 오답이다.\n⑤ [오답] 분 + to + 시의 어순이 아니므로 오답이다.",
+    "passage": "<보기>\n지금은 4시 50분이야.",
+    "stem": "다음 중 <보기>의 우리말 문장을 올바르게 영작한 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T08:08:15.549Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T08:08:17.393Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:08:17.393Z",
+      "what": "확인 완료"
+    }
+  }
+}

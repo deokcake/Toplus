@@ -1,0 +1,452 @@
+{
+ "A": {
+  "title": "He walks 문장을 의문문으로",
+  "intro": "이 문제는 일반동사 walks가 있는 현재형 문장을 의문문으로 올바르게 바꾼 문장을 고르는 문제예요.",
+  "problem_narration": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르세요. He walks to school은 그는 걸어서 학교에 간다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재형 의문문 → Do, Does + 주어 + 동사원형 ~?",
+    "he, she, it 같은 3인칭 단수 주어 → Does  ·  I, you, we, they, 복수 → Do",
+    "주어 뒤의 동사는 동사원형 (swims → swim)  ·  현재의 일을 물을 때 Did는 쓰지 않아요",
+    "예) Mina swims. → Does Mina swim? (미나는 수영을 하니?)"
+   ],
+   "narration": "일반동사 현재형 문장의 의문문은 Do나 Does를 주어 앞에 쓰고, 동사는 동사원형으로 바꿔 끝에 물음표를 붙여요. he, she, it 같은 3인칭 단수 주어에는 Does를, 그 밖의 주어에는 Do를 써요. 현재의 일을 물으니까 과거를 묻는 Did는 쓰지 않아요. Mina swims의 의문문은 Does Mina swim? 미나는 수영을 하니?"
+  },
+  "steps": [
+   {
+    "note": "주어 He, 동사 walks = 일반동사 현재형 → Do, Does로 시작. 물음표만 붙인 ①, 과거 Did로 시작한 ⑤ 지움",
+    "highlight": [
+     "He walks to school."
+    ],
+    "strike": [
+     "① He walks to school?",
+     "⑤ Did he walks to school?"
+    ],
+    "narration": "첫째, 주어진 문장은 주어가 He, 동사가 일반동사 walks인 현재형 문장이라서 Do나 Does로 시작해야 해요. 그래서 물음표만 붙인 1번과, 과거를 묻는 Did로 시작한 5번은 지워요."
+   },
+   {
+    "note": "He = 3인칭 단수 → Does. Do로 시작한 ② 지움",
+    "highlight": [],
+    "strike": [
+     "② Do he walks to school?"
+    ],
+    "narration": "둘째, He는 3인칭 단수라서 Do가 아니라 Does를 써야 하니까 2번도 지워요."
+   },
+   {
+    "note": "Does 뒤에는 동사원형 walk → walks를 쓴 ③ 지움 → ④",
+    "highlight": [
+     "④ Does he walk to school?"
+    ],
+    "strike": [
+     "③ Does he walks to school?"
+    ],
+    "narration": "셋째, Does 뒤에는 동사원형 walk를 써야 하니까 walks를 그대로 쓴 3번을 지우면, 남은 4번이 답이에요. Does he walk to school? 그는 걸어서 학교에 가니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① He walks to school?  ✗  Does 없이 물음표만 붙였어요",
+    "② Do he walks to school?  ✗  He에는 Does, 동사는 원형 walk",
+    "③ Does he walks to school?  ✗  Does 뒤에는 동사원형 walk",
+    "④ Does he walk to school?  ✓  Does + he + 동사원형 walk",
+    "⑤ Did he walks to school?  ✗  현재형인데 과거 Did, walks도 원형 아님"
+   ],
+   "narration": "정답은 Does와 동사원형 walk를 바르게 쓴 4번이에요. 3번은 Does는 맞지만 walks를 그대로 두었는데, Does 뒤에는 동사원형을 써야 해요. 2번은 3인칭 단수 He에 Does가 아니라 Do를 썼고, walks도 원형이 아니에요. 5번은 현재형 문장을 과거를 묻는 Did로 바꿨고, Did 뒤의 walks도 원형이 아니에요."
+  },
+  "summary": {
+   "card": "Do, Does + 주어 + 동사원형 ~?  (3인칭 단수 주어 → Does)",
+   "narration": "정답은 4번이에요. 기억할 것, 일반동사 현재형 의문문은 Do나 Does 뒤에 주어와 동사원형을 쓰고, 3인칭 단수 주어면 Does를 써요."
+  },
+  "captions": [
+   "He walks 문장을 의문문으로",
+   "먼저 풀어 보세요",
+   "Do, Does + 주어 + 동사원형",
+   "현재형 → Does → 동사원형 walk",
+   "정답 ④ Does he walk to school?",
+   "3인칭 단수 → Does + 동사원형"
+  ],
+  "sec": [
+   12,
+   20,
+   28,
+   37,
+   27,
+   13
+  ]
+ },
+ "B": {
+  "title": "She likes 문장을 의문문으로",
+  "intro": "이 문제는 일반동사 likes가 있는 현재형 문장을 의문문으로 올바르게 바꾼 문장을 고르는 문제예요.",
+  "problem_narration": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르세요. She likes apples는 그녀는 사과를 좋아한다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재형 의문문 → Do, Does + 주어 + 동사원형 ~?",
+    "he, she, it 같은 3인칭 단수 주어 → Does  ·  I, you, we, they, 복수 → Do",
+    "주어 뒤의 동사는 동사원형 (eats → eat)",
+    "예) He eats bread. → Does he eat bread? (그는 빵을 먹니?)"
+   ],
+   "narration": "일반동사 현재형 문장의 의문문은 Do나 Does를 주어 앞에 쓰고, 동사는 동사원형으로 바꿔 끝에 물음표를 붙여요. he, she, it 같은 3인칭 단수 주어에는 Does를, 그 밖의 주어에는 Do를 써요. He eats bread의 의문문은 Does he eat bread? 그는 빵을 먹니?"
+  },
+  "steps": [
+   {
+    "note": "주어 She, 동사 likes = 일반동사 현재형 → Do, Does로 시작. 물음표만 붙인 ② 지움",
+    "highlight": [
+     "She likes apples."
+    ],
+    "strike": [
+     "② She likes apples?"
+    ],
+    "narration": "첫째, 주어진 문장은 주어가 She, 동사가 일반동사 likes인 현재형 문장이라서 Do나 Does로 시작해야 해요. 그래서 물음표만 붙인 2번은 지워요."
+   },
+   {
+    "note": "She = 3인칭 단수 → Does. Do로 시작한 ③ 지움",
+    "highlight": [],
+    "strike": [
+     "③ Do she like apples?"
+    ],
+    "narration": "둘째, She는 3인칭 단수라서 Do가 아니라 Does를 써야 하니까 3번도 지워요."
+   },
+   {
+    "note": "Does 뒤에는 동사원형 like → to like ④, likes ⑤ 지움 → ①",
+    "highlight": [
+     "① Does she like apples?"
+    ],
+    "strike": [
+     "④ Does she to like apples?",
+     "⑤ Does she likes apples?"
+    ],
+    "narration": "셋째, Does 뒤에는 동사원형 like를 써야 하니까 to like를 쓴 4번과 likes를 쓴 5번을 지우면, 남은 1번이 답이에요. Does she like apples? 그녀는 사과를 좋아하니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Does she like apples?  ✓  Does + she + 동사원형 like",
+    "② She likes apples?  ✗  Does 없이 물음표만 붙였어요",
+    "③ Do she like apples?  ✗  3인칭 단수 she에는 Does",
+    "④ Does she to like apples?  ✗  to like가 아니라 동사원형 like",
+    "⑤ Does she likes apples?  ✗  likes가 아니라 동사원형 like"
+   ],
+   "narration": "정답은 Does와 동사원형 like를 바르게 쓴 1번이에요. 5번은 Does는 맞지만 likes를 그대로 두었는데, Does 뒤에는 동사원형을 써야 해요. 3번은 3인칭 단수 She에 Does가 아니라 Do를 썼어요. 4번은 Does 뒤에 동사원형 like 대신 to like를 썼어요."
+  },
+  "summary": {
+   "card": "Do, Does + 주어 + 동사원형 ~?  (3인칭 단수 주어 → Does)",
+   "narration": "정답은 1번이에요. 기억할 것, 일반동사 현재형 의문문은 Do나 Does 뒤에 주어와 동사원형을 쓰고, 3인칭 단수 주어면 Does를 써요."
+  },
+  "captions": [
+   "She likes 문장을 의문문으로",
+   "먼저 풀어 보세요",
+   "Do, Does + 주어 + 동사원형",
+   "현재형 → Does → 동사원형 like",
+   "정답 ① Does she like apples?",
+   "3인칭 단수 → Does + 동사원형"
+  ],
+  "sec": [
+   12,
+   20,
+   24,
+   35,
+   23,
+   13
+  ]
+ },
+ "C": {
+  "title": "They play 문장을 의문문으로",
+  "intro": "이 문제는 일반동사 play가 있는 현재형 문장을 의문문으로 올바르게 바꾼 문장을 고르는 문제예요.",
+  "problem_narration": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르세요. They play soccer는 그들은 축구를 한다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재형 의문문 → Do, Does + 주어 + 동사원형 ~?",
+    "I, you, we, they, 복수 주어 → Do  ·  he, she, it 같은 3인칭 단수 → Does",
+    "일반동사 현재형 문장은 be동사(Am, Is, Are)로 묻지 않아요",
+    "예) You like cats. → Do you like cats? (너는 고양이를 좋아하니?)"
+   ],
+   "narration": "일반동사 현재형 문장의 의문문은 Do나 Does를 주어 앞에 쓰고, 동사는 동사원형으로 바꿔 끝에 물음표를 붙여요. 복수 주어와 I, you에는 Do를, he, she, it 같은 3인칭 단수 주어에는 Does를 써요. 일반동사 현재형 문장은 be동사로 묻지 않아요. You like cats의 의문문은 Do you like cats? 너는 고양이를 좋아하니?"
+  },
+  "steps": [
+   {
+    "note": "주어 They, 동사 play = 일반동사 현재형 → Do, Does로 시작. 물음표만 붙인 ⑤, be동사 Are로 시작한 ④ 지움",
+    "highlight": [
+     "They play soccer."
+    ],
+    "strike": [
+     "⑤ They play soccer?",
+     "④ Are they play soccer?"
+    ],
+    "narration": "첫째, 주어진 문장은 주어가 They, 동사가 일반동사 play인 현재형 문장이라서 Do나 Does로 시작해야 해요. 그래서 물음표만 붙인 5번과, be동사 Are로 시작한 4번은 지워요."
+   },
+   {
+    "note": "They = 복수 주어 → Do. Does로 시작한 ③ 지움",
+    "highlight": [],
+    "strike": [
+     "③ Does they play soccer?"
+    ],
+    "narration": "둘째, They는 여럿을 가리키는 복수 주어라서 Does가 아니라 Do를 써야 하니까 3번도 지워요."
+   },
+   {
+    "note": "Do 뒤에는 동사원형 play → plays를 쓴 ① 지움 → ②",
+    "highlight": [
+     "② Do they play soccer?"
+    ],
+    "strike": [
+     "① Do they plays soccer?"
+    ],
+    "narration": "셋째, Do 뒤에는 동사원형 play를 써야 하니까 plays를 쓴 1번을 지우면, 남은 2번이 답이에요. Do they play soccer? 그들은 축구를 하니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Do they plays soccer?  ✗  Do 뒤에는 동사원형 play",
+    "② Do they play soccer?  ✓  Do + they + 동사원형 play",
+    "③ Does they play soccer?  ✗  복수 주어 they에는 Do",
+    "④ Are they play soccer?  ✗  일반동사 play 문장은 Are가 아니라 Do로 물어요",
+    "⑤ They play soccer?  ✗  Do 없이 물음표만 붙였어요"
+   ],
+   "narration": "정답은 Do와 동사원형 play를 바르게 쓴 2번이에요. 1번은 Do는 맞지만 동사원형 play가 아니라 plays를 썼어요. 3번은 복수 주어 they에 Do가 아니라 Does를 썼어요. 4번은 일반동사 play가 있는 현재형 문장인데 be동사 Are로 물었어요."
+  },
+  "summary": {
+   "card": "Do, Does + 주어 + 동사원형 ~?  (I, you, we, they, 복수 → Do)",
+   "narration": "정답은 2번이에요. 기억할 것, 일반동사 현재형 의문문은 Do나 Does 뒤에 주어와 동사원형을 쓰고, 3인칭 단수가 아니면 Do를 써요."
+  },
+  "captions": [
+   "They play 문장을 의문문으로",
+   "먼저 풀어 보세요",
+   "Do, Does + 주어 + 동사원형",
+   "현재형 → Do → 동사원형 play",
+   "정답 ② Do they play soccer?",
+   "복수 주어 → Do + 동사원형"
+  ],
+  "sec": [
+   12,
+   20,
+   30,
+   37,
+   22,
+   13
+  ]
+ },
+ "D": {
+  "title": "She drinks 문장을 의문문으로",
+  "intro": "이 문제는 일반동사 drinks가 있는 현재형 문장을 의문문으로 올바르게 바꾼 문장을 고르는 문제예요.",
+  "problem_narration": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르세요. She drinks milk every morning은 그녀는 매일 아침 우유를 마신다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재형 의문문 → Do, Does + 주어 + 동사원형 ~?",
+    "he, she, it 같은 3인칭 단수 주어 → Does  ·  I, you, we, they, 복수 → Do",
+    "주어 뒤의 동사는 동사원형 (watches → watch)  ·  현재의 일을 물을 때 Did는 쓰지 않아요",
+    "예) He watches TV. → Does he watch TV? (그는 텔레비전을 보니?)"
+   ],
+   "narration": "일반동사 현재형 문장의 의문문은 Do나 Does를 주어 앞에 쓰고, 동사는 동사원형으로 바꿔 끝에 물음표를 붙여요. he, she, it 같은 3인칭 단수 주어에는 Does를, 그 밖의 주어에는 Do를 써요. 현재의 일을 물으니까 과거를 묻는 Did는 쓰지 않아요. He watches TV의 의문문은 Does he watch TV? 그는 텔레비전을 보니?"
+  },
+  "steps": [
+   {
+    "note": "주어 She, 동사 drinks = 일반동사 현재형 → Do, Does로 시작. 물음표만 붙인 ①, 과거 Did로 시작한 ⑤ 지움",
+    "highlight": [
+     "She drinks milk every morning."
+    ],
+    "strike": [
+     "① She drinks milk every morning?",
+     "⑤ Did she drinks milk every morning?"
+    ],
+    "narration": "첫째, 주어진 문장은 주어가 She, 동사가 일반동사 drinks인 현재형 문장이라서 Do나 Does로 시작해야 해요. 그래서 물음표만 붙인 1번과, 과거를 묻는 Did로 시작한 5번은 지워요."
+   },
+   {
+    "note": "She = 3인칭 단수 → Does. Do로 시작한 ② 지움",
+    "highlight": [],
+    "strike": [
+     "② Do she drink milk every morning?"
+    ],
+    "narration": "둘째, She는 3인칭 단수라서 Do가 아니라 Does를 써야 하니까 2번도 지워요."
+   },
+   {
+    "note": "Does 뒤에는 동사원형 drink → drinks를 쓴 ③ 지움 → ④",
+    "highlight": [
+     "④ Does she drink milk every morning?"
+    ],
+    "strike": [
+     "③ Does she drinks milk every morning?"
+    ],
+    "narration": "셋째, Does 뒤에는 동사원형 drink를 써야 하니까 drinks를 그대로 쓴 3번을 지우면, 남은 4번이 답이에요. Does she drink milk every morning? 그녀는 매일 아침 우유를 마시니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① She drinks milk every morning?  ✗  Does 없이 물음표만 붙였어요",
+    "② Do she drink milk every morning?  ✗  3인칭 단수 she에는 Does",
+    "③ Does she drinks milk every morning?  ✗  Does 뒤에는 동사원형 drink",
+    "④ Does she drink milk every morning?  ✓  Does + she + 동사원형 drink",
+    "⑤ Did she drinks milk every morning?  ✗  현재형인데 과거 Did, drinks도 원형 아님"
+   ],
+   "narration": "정답은 Does와 동사원형 drink를 바르게 쓴 4번이에요. 3번은 Does는 맞지만 drinks를 그대로 두었는데, Does 뒤에는 동사원형을 써야 해요. 2번은 3인칭 단수 She에 Does가 아니라 Do를 썼어요. 5번은 현재형 문장을 과거를 묻는 Did로 바꿨고, Did 뒤의 drinks도 원형이 아니에요."
+  },
+  "summary": {
+   "card": "Do, Does + 주어 + 동사원형 ~?  (3인칭 단수 주어 → Does)",
+   "narration": "정답은 4번이에요. 기억할 것, 일반동사 현재형 의문문은 Do나 Does 뒤에 주어와 동사원형을 쓰고, 3인칭 단수 주어면 Does를 써요."
+  },
+  "captions": [
+   "She drinks 문장을 의문문으로",
+   "먼저 풀어 보세요",
+   "Do, Does + 주어 + 동사원형",
+   "현재형 → Does → 동사원형 drink",
+   "정답 ④ Does she drink milk ~?",
+   "3인칭 단수 → Does + 동사원형"
+  ],
+  "sec": [
+   12,
+   21,
+   29,
+   38,
+   25,
+   13
+  ]
+ },
+ "E": {
+  "title": "Tom studies 문장을 의문문으로",
+  "intro": "이 문제는 일반동사 studies가 있는 현재형 문장을 의문문으로 올바르게 바꾼 문장을 고르는 문제예요.",
+  "problem_narration": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르세요. Tom studies English는 톰은 영어를 공부한다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재형 의문문 → Do, Does + 주어 + 동사원형 ~?",
+    "he, she, it, Tom 같은 3인칭 단수 주어 → Does  ·  I, you, we, they, 복수 → Do",
+    "주어 뒤의 동사는 동사원형 (flies → fly, watches → watch)",
+    "예) Ben flies a kite. → Does Ben fly a kite? (벤은 연을 날리니?)"
+   ],
+   "narration": "일반동사 현재형 문장의 의문문은 Do나 Does를 주어 앞에 쓰고, 동사는 동사원형으로 바꿔 끝에 물음표를 붙여요. he, she, it이나 Tom 같은 3인칭 단수 주어에는 Does를, 그 밖의 주어에는 Do를 써요. Ben flies a kite의 의문문은 Does Ben fly a kite? 벤은 연을 날리니?"
+  },
+  "steps": [
+   {
+    "note": "주어 Tom, 동사 studies = 일반동사 현재형 → Do, Does로 시작. 물음표만 붙인 ② 지움",
+    "highlight": [
+     "Tom studies English."
+    ],
+    "strike": [
+     "② Tom studies English?"
+    ],
+    "narration": "첫째, 주어진 문장은 주어가 Tom, 동사가 일반동사 studies인 현재형 문장이라서 Do나 Does로 시작해야 해요. 그래서 물음표만 붙인 2번은 지워요."
+   },
+   {
+    "note": "Tom = 3인칭 단수 → Does. Do로 시작한 ④ 지움",
+    "highlight": [],
+    "strike": [
+     "④ Do Tom study English?"
+    ],
+    "narration": "둘째, Tom은 3인칭 단수라서 Do가 아니라 Does를 써야 하니까 4번도 지워요."
+   },
+   {
+    "note": "Does 뒤에는 동사원형 study → studying ①, studies ⑤ 지움 → ③",
+    "highlight": [
+     "③ Does Tom study English?"
+    ],
+    "strike": [
+     "① Does Tom studying English?",
+     "⑤ Does Tom studies English?"
+    ],
+    "narration": "셋째, Does 뒤에는 동사원형 study를 써야 하니까 studying을 쓴 1번과 studies를 쓴 5번을 지우면, 남은 3번이 답이에요. Does Tom study English? 톰은 영어를 공부하니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Does Tom studying English?  ✗  studying이 아니라 동사원형 study",
+    "② Tom studies English?  ✗  Does 없이 물음표만 붙였어요",
+    "③ Does Tom study English?  ✓  Does + Tom + 동사원형 study",
+    "④ Do Tom study English?  ✗  3인칭 단수 Tom에는 Does",
+    "⑤ Does Tom studies English?  ✗  studies가 아니라 동사원형 study"
+   ],
+   "narration": "정답은 Does와 동사원형 study를 바르게 쓴 3번이에요. 5번은 Does는 맞지만 studies를 그대로 두었는데, Does 뒤에는 동사원형을 써야 해요. 1번은 Does 뒤에 동사원형 대신 ing형 studying을 썼어요. 4번은 3인칭 단수 Tom에 Does가 아니라 Do를 썼어요."
+  },
+  "summary": {
+   "card": "Do, Does + 주어 + 동사원형 ~?  (3인칭 단수 주어 → Does)",
+   "narration": "정답은 3번이에요. 기억할 것, 일반동사 현재형 의문문은 Do나 Does 뒤에 주어와 동사원형을 쓰고, 3인칭 단수 주어면 Does를 써요."
+  },
+  "captions": [
+   "Tom studies 문장을 의문문으로",
+   "먼저 풀어 보세요",
+   "Do, Does + 주어 + 동사원형",
+   "현재형 → Does → 동사원형 study",
+   "정답 ③ Does Tom study English?",
+   "3인칭 단수 → Does + 동사원형"
+  ],
+  "sec": [
+   12,
+   20,
+   26,
+   34,
+   22,
+   13
+  ]
+ },
+ "F": {
+  "title": "You read 문장을 의문문으로",
+  "intro": "이 문제는 일반동사 read가 있는 현재형 문장을 의문문으로 올바르게 바꾼 문장을 고르는 문제예요.",
+  "problem_narration": "주어진 문장을 의문문으로 올바르게 바꾼 문장을 고르세요. You read books는 너는 책을 읽는다는 뜻이에요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "일반동사 현재형 의문문 → Do, Does + 주어 + 동사원형 ~?",
+    "I, you, we, they, 복수 주어 → Do  ·  he, she, it 같은 3인칭 단수 → Does",
+    "일반동사 현재형 문장은 be동사(Am, Is, Are)로 묻지 않아요",
+    "예) They sing well. → Do they sing well? (그들은 노래를 잘하니?)"
+   ],
+   "narration": "일반동사 현재형 문장의 의문문은 Do나 Does를 주어 앞에 쓰고, 동사는 동사원형으로 바꿔 끝에 물음표를 붙여요. 복수 주어와 I, you에는 Do를, he, she, it 같은 3인칭 단수 주어에는 Does를 써요. 일반동사 현재형 문장은 be동사로 묻지 않아요. They sing well의 의문문은 Do they sing well? 그들은 노래를 잘하니?"
+  },
+  "steps": [
+   {
+    "note": "주어 You, 동사 read = 일반동사 현재형 → Do, Does로 시작. 물음표만 붙인 ④, be동사 Are로 시작한 ② 지움",
+    "highlight": [
+     "You read books."
+    ],
+    "strike": [
+     "④ You read books?",
+     "② Are you read books?"
+    ],
+    "narration": "첫째, 주어진 문장은 주어가 You, 동사가 일반동사 read인 현재형 문장이라서 Do나 Does로 시작해야 해요. 그래서 물음표만 붙인 4번과, be동사 Are로 시작한 2번은 지워요."
+   },
+   {
+    "note": "You는 3인칭 단수가 아님 → Do. Does로 시작한 ③ 지움",
+    "highlight": [],
+    "strike": [
+     "③ Does you read books?"
+    ],
+    "narration": "둘째, You는 3인칭 단수가 아니라서 Does가 아니라 Do를 써야 하니까 3번도 지워요."
+   },
+   {
+    "note": "Do 뒤에는 동사원형 read → reads를 쓴 ① 지움 → ⑤",
+    "highlight": [
+     "⑤ Do you read books?"
+    ],
+    "strike": [
+     "① Do you reads books?"
+    ],
+    "narration": "셋째, Do 뒤에는 동사원형 read를 써야 하니까 reads를 쓴 1번을 지우면, 남은 5번이 답이에요. Do you read books? 너는 책을 읽니?"
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Do you reads books?  ✗  Do 뒤에는 동사원형 read",
+    "② Are you read books?  ✗  일반동사 read 문장은 Are가 아니라 Do로 물어요",
+    "③ Does you read books?  ✗  you는 3인칭 단수가 아니라서 Do",
+    "④ You read books?  ✗  Do 없이 물음표만 붙였어요",
+    "⑤ Do you read books?  ✓  Do + you + 동사원형 read"
+   ],
+   "narration": "정답은 Do와 동사원형 read를 바르게 쓴 5번이에요. 3번은 3인칭 단수 주어에 쓰는 Does를 you에 썼어요. 1번은 Do는 맞지만 동사원형 read가 아니라 reads를 썼어요. 2번은 일반동사 read가 있는 현재형 문장인데 be동사 Are로 물었어요."
+  },
+  "summary": {
+   "card": "Do, Does + 주어 + 동사원형 ~?  (I, you, we, they, 복수 → Do)",
+   "narration": "정답은 5번이에요. 기억할 것, 일반동사 현재형 의문문은 Do나 Does 뒤에 주어와 동사원형을 쓰고, 3인칭 단수가 아니면 Do를 써요."
+  },
+  "captions": [
+   "You read 문장을 의문문으로",
+   "먼저 풀어 보세요",
+   "Do, Does + 주어 + 동사원형",
+   "현재형 → Do → 동사원형 read",
+   "정답 ⑤ Do you read books?",
+   "you → Do + 동사원형"
+  ],
+  "sec": [
+   12,
+   19,
+   30,
+   36,
+   22,
+   13
+  ]
+ }
+}

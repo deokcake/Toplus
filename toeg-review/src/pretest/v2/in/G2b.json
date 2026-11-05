@@ -1,0 +1,616 @@
+[
+ {
+  "key": "2-78",
+  "grade": 2,
+  "no": 78,
+  "chapter": "CH 8",
+  "chapter_name": "분사",
+  "ref": {
+   "stem": "다음 두 문장의 의미가 같도록 빈칸에 들어갈 말이 적절하게 연결된 것은?",
+   "passage": "She sat there and her legs were crossed.\n= She sat there ________________________________.",
+   "c": [
+    "with her legs crossed",
+    "with crossed her legs",
+    "with her legs crossing",
+    "her legs were with crossed",
+    "with her legs being cross"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: with + 목적어 + 분사는 ‘~가 …한 채로’라는 동시 상황을 나타낸다. 목적어가 동작을 하면 현재분사, 당하면 과거분사를 쓴다.\n풀이 순서: ① ‘and + 주어 + be동사 + ~’를 ‘with + 목적어 + ~’로 바꾼다. 주어(her legs)가 with의 목적어가 된다. → ② be동사를 지우고 뒤의 말(crossed, 다리는 꼬아진 것이므로 과거분사)을 그대로 둔다. with 뒤에는 주어 + 동사가 올 수 없다. → ③ 정답은 with her legs crossed.\n문장별 판정:\n정답 판단: 다리는 꼬아진 대상이라 with + her legs + crossed가 알맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 다리는 꼬아진 대상이라 with + her legs + crossed가 알맞으므로 정답이다.\n② [오답] 목적어 her legs가 분사 앞에 와야 하므로 오답이다.\n③ [오답] 다리는 스스로 꼬는 것이 아니라 꼬아지는 대상이므로 오답이다.\n④ [오답] with 뒤에는 ‘목적어 + 분사’가 와야 하므로 오답이다.\n⑤ [오답] being cross는 알맞은 형태가 아니므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 두 문장의 의미가 같도록 빈칸에 들어갈 말이 적절하게 연결된 것은?",
+    "passage": "Mina sat on the floor and her arms were folded.\n= Mina sat on the floor ____________________.",
+    "c": [
+     "with she arms folded",
+     "with her arms folded",
+     "without her arms folded",
+     "with her arms folding",
+     "with her arms were folded"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 두 문장의 의미가 같도록 빈칸에 들어갈 말이 적절하게 연결된 것은?",
+    "passage": "Tom stood by the door and his hands were in his pockets.\n= Tom stood by the door ____________________.",
+    "c": [
+     "with his hand in their pockets",
+     "without his hands in his pockets",
+     "with his hands were in his pockets",
+     "with he hands in his pockets",
+     "with his hands in his pockets"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 두 문장의 의미가 같도록 빈칸에 들어갈 말이 적절하게 연결된 것은?",
+    "passage": "Jane walked outside and her hair was blowing in the wind.\n= Jane walked outside ____________________.",
+    "c": [
+     "with her hair blowing in the wind",
+     "with she hair blowing in the wind",
+     "her hair with blowing in the wind",
+     "with her hair was blowing in the wind",
+     "without her hair blowing in the wind"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 두 문장의 의미가 같도록 빈칸에 들어갈 말이 적절하게 연결된 것은?",
+    "passage": "The child slept and the light was on.\n= The child slept ____________________.",
+    "c": [
+     "the light with on",
+     "with the light on",
+     "with the light being turn on",
+     "with the light was on",
+     "without the light on"
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 두 문장의 의미가 같도록 빈칸에 들어갈 말이 적절하게 연결된 것은?",
+    "passage": "He entered the room and everyone was watching him.\n= He entered the room ____________________.",
+    "c": [
+     "with everyone watched him",
+     "with everyone was watching him",
+     "without everyone watching him",
+     "with everyone watching him",
+     "everyone with watching him"
+    ],
+    "ans": 4
+   }
+  },
+  "target_answer_position": 3,
+  "v1_pretest": {
+   "stem": "다음 글의 빈칸 (A), (B)에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+   "passage": "Last night, Junho did his homework in his room with the door (A)_______ because his little brother kept bothering him. After he finished, he fell asleep on his bed with his puppy (B)_______ quietly at his feet.",
+   "c": [
+    "(A) locking - (B) sleeping",
+    "(A) locked - (B) slept",
+    "(A) locked - (B) sleeping",
+    "(A) locking - (B) slept",
+    "(A) locked - (B) was sleeping"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: with + 목적어 + 분사는 ‘~가 …한 채로’라는 동시 상황을 나타낸다. 목적어가 동작을 당하면 과거분사, 목적어가 스스로 동작을 하면 현재분사를 쓰며, with 뒤에는 be동사를 쓰지 않는다.\n풀이 순서: ① (A)의 목적어 the door는 누군가가 잠근 대상(수동)이므로 과거분사 locked를 쓴다. → ② (B)의 목적어 his puppy는 스스로 자고 있는 주체(능동)이므로 현재분사 sleeping을 쓴다. with 뒤에는 ‘목적어 + 분사’만 오고 be동사는 들어가지 않는다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 잠긴 문(the door)에는 과거분사 locked, 잠을 자는 강아지(his puppy)에는 현재분사 sleeping이 알맞으므로 정답은 ③이다.\n선택지 분석:\n① [오답] (A): 문은 스스로 잠그는 것이 아니라 잠기는 대상이므로 locking이 아니라 locked를 써야 해서 오답이다.\n② [오답] (B): 강아지는 스스로 자는 것이고, sleep은 목적어를 갖지 않는 동사라 ‘당하는’ 뜻의 과거분사 slept로 쓸 수 없으므로 오답이다.\n③ [정답] 잠긴 문에는 과거분사 locked, 스스로 자는 강아지에는 현재분사 sleeping을 써서 바르게 짝지었으므로 정답이다.\n④ [오답] (A)는 locked, (B)는 sleeping이어야 하는데 능동과 수동을 둘 다 거꾸로 썼으므로 오답이다.\n⑤ [오답] (B): with 뒤에는 ‘목적어 + 분사’가 와야 하므로 be동사를 넣은 was sleeping은 쓸 수 없어 오답이다.",
+   "new_format": "글의 두 빈칸 (A)·(B)에 들어갈 분사(과거분사·현재분사)를 바르게 짝지은 것 고르기",
+   "design": "with + 목적어 + 분사(~가 …한 채로)에서 목적어가 동작을 당하면 과거분사, 스스로 하면 현재분사를 쓰고 with 뒤에 be동사를 쓰지 않는 규칙을 그대로 평가한다. 한 빈칸의 문장 전환을 짧은 글 속 두 빈칸 (A)·(B) 짝 고르기로 바꾸어, (A)에는 원문항처럼 수동 관계(the door - locked)를, (B)에는 능동 관계(his puppy - sleeping)를 두어 두 관계를 모두 판단하게 했다. 오답은 능동·수동을 한쪽 또는 양쪽 모두 뒤바꾼 짝과, 원문항·B~F의 함정처럼 with 뒤에 be동사를 남긴 형태(was sleeping)로 설계했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 46/33 글자 224/142 정답 3",
+   "WARN 원문항의 1.4배 — 1.3배 안팎으로 줄일 수 있는지",
+   "WARN 원문항은 한 곳만 판단하는데 두 빈칸 짝 — 판단 개수가 늘지 않았는지"
+  ]
+ },
+ {
+  "key": "2-89",
+  "grade": 2,
+  "no": 89,
+  "chapter": "CH 9",
+  "chapter_name": "비교",
+  "ref": {
+   "stem": "<보기>의 문장 중 밑줄 친 부분이 어법상 옳은 것만으로 묶인 것을 고르시오.",
+   "passage": "<보기>\n(A) One of my favorite <u>hobby</u> is collecting coins.\n(B) He is one of the smartest <u>student</u> in his class.\n(C) This is one of the most expensive <u>cars</u> in the shop.\n(D) One of the <u>box</u> in the room is empty.\n(E) She is one of the kindest <u>people</u> I have ever met.",
+   "c": [
+    "(A), (C)",
+    "(C), (E)",
+    "(B), (D)",
+    "(A), (E)",
+    "(C), (D)"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: one of + (the + 최상급 / 소유격) 뒤에는 복수명사를 쓴다(‘~들 중 하나’). people, men, women, children 같은 불규칙 복수형도 복수다.\n풀이 순서: ① 밑줄은 모두 one of 뒤의 명사다. ‘~ 중 하나’이므로 복수명사가 와야 한다. → ② 단수형으로 쓴 문장을 지운다: (A) hobby, (B) student, (D) box. people, men, women, children처럼 -s가 없는 복수형은 옳다. → ③ 남은 두 문장을 묶은 (C), (E)가 정답이다.\n문장별 판정: (A) X. hobbies로 써야 한다. (B) X. students로 써야 한다. (C) O. one of + 복수명사 cars. (D) X. boxes로 써야 한다. (E) O. people은 복수명사다.\n정답 판단: (C)와 (E) 모두 one of 뒤에 복수명사를 썼으므로 정답은 ②이다.\n선택지 분석:\n① [오답] (A)가 틀렸으므로 오답이다.\n② [정답] (C)와 (E) 모두 one of 뒤에 복수명사를 썼으므로 정답이다.\n③ [오답] (B)와 (D) 모두 틀렸으므로 오답이다.\n④ [오답] (A)가 틀렸으므로 오답이다.\n⑤ [오답] (D)가 틀렸으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "<보기>의 문장 중 밑줄 친 부분이 어법상 옳은 것만으로 묶인 것을 고르시오.",
+    "passage": "<보기>\n(A) One of my favorite <u>hobbies</u> is hiking.\n(B) Mina is one of the smartest <u>student</u> in class.\n(C) This is one of the oldest <u>building</u> in Seoul.\n(D) One of the <u>windows</u> in my room is broken.\n(E) He is one of the best <u>player</u> on the team.",
+    "c": [
+     "(A), (B)",
+     "(A), (D)",
+     "(C), (D)",
+     "(A), (E)",
+     "(B), (E)"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "<보기>의 문장 중 밑줄 친 부분이 어법상 옳은 것만으로 묶인 것을 고르시오.",
+    "passage": "<보기>\n(A) One of the tallest <u>building</u> is downtown.\n(B) She is one of the most famous <u>singer</u> in Korea.\n(C) One of my <u>friend</u> lives in Canada.\n(D) This is one of the most useful <u>apps</u> I know.\n(E) One of the <u>students</u> was late today.",
+    "c": [
+     "(A), (B)",
+     "(C), (D)",
+     "(A), (E)",
+     "(B), (D)",
+     "(D), (E)"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "<보기>의 문장 중 밑줄 친 부분이 어법상 옳은 것만으로 묶인 것을 고르시오.",
+    "passage": "<보기>\n(A) One of my favorite <u>book</u> is missing.\n(B) Leo is one of the fastest <u>runners</u> in our school.\n(C) One of the <u>cars</u> in the parking lot is red.\n(D) It is one of the most beautiful <u>place</u> in the world.\n(E) One of the <u>teacher</u> is from Canada.",
+    "c": [
+     "(A), (B)",
+     "(C), (D)",
+     "(A), (E)",
+     "(B), (C)",
+     "(B), (E)"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "<보기>의 문장 중 밑줄 친 부분이 어법상 옳은 것만으로 묶인 것을 고르시오.",
+    "passage": "<보기>\n(A) One of the best <u>restaurants</u> in our city is near the station.\n(B) He is one of the richest <u>man</u> in our small town.\n(C) One of my <u>cousins</u> is a pilot for a big airline.\n(D) This is one of the easiest <u>question</u> on the math test.\n(E) She is one of the kindest <u>woman</u> I have ever met in my life.",
+    "c": [
+     "(A), (B)",
+     "(B), (D)",
+     "(C), (D)",
+     "(A), (E)",
+     "(A), (C)"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "<보기>의 문장 중 밑줄 친 부분이 어법상 옳은 것만으로 묶인 것을 고르시오.",
+    "passage": "<보기>\n(A) One of the most interesting <u>story</u> in this book is about space.\n(B) Tom is one of the tallest <u>boys</u> in our class this year.\n(C) One of the <u>child</u> in the playground is crying loudly now.\n(D) Jeju is one of the most popular <u>island</u> in Korea for tourists.\n(E) One of my favorite <u>songs</u> is playing on the radio now.",
+    "c": [
+     "(B), (E)",
+     "(A), (B)",
+     "(C), (D)",
+     "(A), (E)",
+     "(B), (D)"
+    ],
+    "ans": 1
+   }
+  },
+  "target_answer_position": 3,
+  "v1_pretest": {
+   "stem": "다음 글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것의 개수를 고르시오.",
+   "passage": "Welcome to Gyeongju, one of the oldest ⓐ<u>cities</u> in Korea! Bulguksa, one of the most beautiful ⓑ<u>temple</u> in the country, is only twenty minutes away by bus. Many visitors say that our night tour is one of the best ⓒ<u>part</u> of their trip. Our tour guide, Ms. Han, is one of the friendliest ⓓ<u>women</u> you will ever meet. Before you leave, don't miss Hwangnidan-gil. It is one of the most popular ⓔ<u>street</u> for young people these days.",
+   "c": [
+    "1개",
+    "2개",
+    "3개",
+    "4개",
+    "5개"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: ‘one of + the + 최상급 + 명사’는 ‘가장 ~한 것들 중 하나’라는 뜻이므로 명사는 반드시 복수형으로 쓴다. women, men, children처럼 -s가 붙지 않는 불규칙 복수형도 복수명사다.\n풀이 순서: ① 밑줄은 모두 one of the + 최상급 뒤의 명사이므로 복수형이어야 한다. → ② 단수형으로 쓴 것을 찾는다: ⓑ temple, ⓒ part, ⓔ street. y를 i로 바꾼 cities와 불규칙 복수형 women은 옳다. → ③ 틀린 것은 ⓑ, ⓒ, ⓔ로 3개이다. 정답은 ③.\n문장별 판정:\nⓐ O. city의 복수형 cities를 바르게 썼다.\nⓑ X. one of the most beautiful 뒤이므로 temples로 고쳐야 한다.\nⓒ X. one of the best 뒤이므로 parts로 고쳐야 한다.\nⓓ O. women은 woman의 불규칙 복수형이므로 옳다.\nⓔ X. one of the most popular 뒤이므로 streets로 고쳐야 한다.\n정답 판단: 어법상 틀린 것은 ⓑ, ⓒ, ⓔ로 3개이므로 정답은 ③이다.\n선택지 분석:\n① [오답] 어법상 틀린 것은 ⓑ, ⓒ, ⓔ로 3개이다. 이 보기의 1개는 ⓑ temple만 찾고 ⓒ part와 ⓔ street를 놓친 개수이므로 오답이다.\n② [오답] 어법상 틀린 것은 ⓑ, ⓒ, ⓔ로 3개이다. 이 보기의 2개는 실제 개수보다 1개 적으므로 오답이다.\n③ [정답] 어법상 틀린 것은 ⓑ temple, ⓒ part, ⓔ street로 3개이므로 정답이다.\n④ [오답] 어법상 틀린 것은 ⓑ, ⓒ, ⓔ로 3개이다. 이 보기의 4개는 -s가 없는 불규칙 복수형 ⓓ women까지 틀렸다고 본 개수이므로 오답이다.\n⑤ [오답] 어법상 틀린 것은 ⓑ, ⓒ, ⓔ로 3개이다. 이 보기의 5개는 옳게 쓴 ⓐ cities와 ⓓ women까지 모두 틀렸다고 본 개수이므로 오답이다.",
+   "new_format": "여행 안내문의 밑줄 친 명사 ⓐ~ⓔ 중 어법상 틀린 것의 개수 고르기",
+   "design": "one of + the + 최상급 뒤에는 복수명사를 쓴다는 규칙을 그대로 평가한다. <보기> 문장 묶음에서 옳은 것을 조합으로 고르는 형식을 한 편의 여행 안내문 속 밑줄 ⓐ~ⓔ에서 틀린 것의 개수를 세는 형식으로 바꾸었고, 원문항처럼 틀린 것 3개·옳은 것 2개로 맞추었다. y를 i로 바꾼 복수형(cities)과 -s가 없는 불규칙 복수형(women)을 옳은 밑줄로 넣어, 겉모양만 보고 틀렸다고 세는 실수(4개·5개)를 오답으로 설계했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 78/49 글자 336/179 정답 3",
+   "ERR  원문항보다 너무 김: 낱말 78 > 상한 73 (원문항 49) — 난이도가 올라감",
+   "ERR  원문항이 개수형이 아닌데 개수 세기 형식 — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "2-100",
+  "grade": 2,
+  "no": 100,
+  "chapter": "CH 10",
+  "chapter_name": "관계사",
+  "ref": {
+   "stem": "다음 중 어법상 옳은 문장으로만 묶인 것을 고르시오.",
+   "passage": "(가) I'll give you what I promised.\n(나) The movie what we watched was exciting.\n(다) What she needs are some warm clothes.\n(라) This is the very thing what I wanted.\n(마) You should do what is right.",
+   "c": [
+    "(가), (다), (마)",
+    "(가), (나), (라)",
+    "(나), (다), (마)",
+    "(다), (라), (마)",
+    "(가), (나), (마)"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: what은 선행사를 포함한 관계대명사(~하는 것)다. 선행사(the movie, the thing)가 있으면 what이 아니라 that·which를 쓴다.\n풀이 순서: ① what 앞에 선행사(명사)가 있는지 본다. 선행사가 있으면 what을 쓸 수 없다. → ② what 뒤 절에 목적어(it)를 다시 쓰거나 what과 that을 겹쳐 쓴 것, 의문문 어순을 쓴 것도 틀린다. → ③ 틀린 문장을 지운다: (나) The movie what, (라) the very thing what. 남은 세 문장을 묶은 (가), (다), (마)가 정답이다.\n문장별 판정: (가) O. what I promised(내가 약속한 것). (나) X. 선행사 The movie가 있으므로 that/which. (다) O. What she needs가 주어다. (라) X. 선행사 the very thing이 있으므로 that. (마) O. what is right(옳은 것).\n정답 판단: (가), (다), (마) 모두 옳은 문장이므로 정답은 ①이다.\n선택지 분석:\n① [정답] (가), (다), (마) 모두 옳은 문장이므로 정답이다.\n② [오답] (나)와 (라)가 틀렸으므로 오답이다.\n③ [오답] (나)가 틀렸으므로 오답이다.\n④ [오답] (라)가 틀렸으므로 오답이다.\n⑤ [오답] (나)가 틀렸으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 어법상 옳은 문장으로만 묶인 것을 고르시오.",
+    "passage": "(가) What the witness described matched the video.\n(나) The detail what she mentioned was important.\n(다) What we discovered it changed the plan.\n(라) I understood what he meant.\n(마) Everything that the report contained was checked.",
+    "c": [
+     "(가), (나), (다)",
+     "(나), (다), (라)",
+     "(가), (다), (마)",
+     "(가), (라), (마)",
+     "(나), (라), (마)"
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 중 어법상 옳은 문장으로만 묶인 것을 고르시오.",
+    "passage": "(가) I understand what you mean.\n(나) The movie which we saw was boring.\n(다) What Tom needs is rest.\n(라) The thing what she lost was valuable.\n(마) All what I know is this.",
+    "c": [
+     "(가), (나), (다)",
+     "(가), (라), (마)",
+     "(나), (다), (라)",
+     "(가), (다), (마)",
+     "(나), (라), (마)"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 중 어법상 옳은 문장으로만 묶인 것을 고르시오.",
+    "passage": "(가) She gave me what I asked for.\n(나) The car what Tom drives is new.\n(다) What happened surprised everyone.\n(라) The thing that he said was rude.\n(마) Everything what we need is here.",
+    "c": [
+     "(가), (나), (다)",
+     "(가), (다), (라)",
+     "(나), (라), (마)",
+     "(가), (라), (마)",
+     "(나), (다), (마)"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 중 어법상 옳은 문장으로만 묶인 것을 고르시오.",
+    "passage": "(가) I remember what Jane told me yesterday.\n(나) The song that he wrote for his mother is beautiful.\n(다) What Mina bought it at the mall was expensive.\n(라) The thing what I need now is time.\n(마) All that matters in this game is effort.",
+    "c": [
+     "(가), (다), (마)",
+     "(나), (다), (라)",
+     "(가), (나), (라)",
+     "(다), (라), (마)",
+     "(가), (나), (마)"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 중 어법상 옳은 문장으로만 묶인 것을 고르시오.",
+    "passage": "(가) Tell me what did you see at the museum.\n(나) The place where we stayed last summer was crowded.\n(다) What he decided at the meeting was unexpected.\n(라) I know what that she really wants.\n(마) Everything that Tom owns is very old.",
+    "c": [
+     "(가), (나), (다)",
+     "(가), (다), (라)",
+     "(나), (다), (마)",
+     "(나), (라), (마)",
+     "(가), (다), (마)"
+    ],
+    "ans": 3
+   }
+  },
+  "target_answer_position": 4,
+  "v1_pretest": {
+   "stem": "대·소문자를 구분하지 않을 때, 다음 빈칸에 들어갈 말이 나머지 넷과 다른 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "_______ I need most right now is a long, hot shower.",
+    "This is not _______ I ordered. I asked for the tomato soup.",
+    "Dad gave my little brother _______ he wanted for his birthday.",
+    "Is this everything _______ you need for the camping trip?",
+    "Thank you so much for _______ you did for my grandmother."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: what은 선행사를 포함한 관계대명사로 ‘~하는 것’이라는 뜻이며 the thing(s) which로 바꿔 쓸 수 있다. 앞에 꾸밈을 받는 선행사(명사나 everything 같은 대명사)가 있으면 what을 쓸 수 없고 that이나 which를 쓴다.\n풀이 순서: ① 빈칸 앞에 빈칸 뒤 절의 꾸밈을 받는 선행사가 있는지 본다. → ② 선택지 ③의 my little brother는 gave의 간접목적어일 뿐 선행사가 아니고, 선택지 ④의 everything은 you need의 꾸밈을 받는 선행사다. → ③ 선택지 ④에만 that이 들어가고 나머지에는 모두 what이 들어간다. 정답은 ④.\n문장별 판정:\n정답 판단: ④는 선행사 everything이 있으므로 빈칸에 what이 아니라 that이 들어가고 나머지 넷에는 모두 what이 들어가므로 정답은 ④이다.\n선택지 분석:\n① [오답] 문장의 주어 자리에 ‘내가 지금 가장 필요한 것’이 와야 하고 앞에 선행사가 없으므로 What이 들어가 오답이다.\n② [오답] is not 뒤에 선행사가 없고 ordered의 목적어가 빠져 있으므로 ‘내가 주문한 것’이라는 뜻의 what이 들어가 오답이다.\n③ [오답] my little brother는 gave의 간접목적어로 선행사가 아니며, ‘그가 원한 것’이 직접목적어가 되어야 하므로 what이 들어가 오답이다.\n④ [정답] 선행사 everything이 있으므로 what을 쓸 수 없고 that이 들어가 나머지 넷과 다르므로 정답이다.\n⑤ [오답] 전치사 for 뒤에 선행사 없이 ‘네가 해 준 것’이라는 뜻이 와야 하므로 what이 들어가 오답이다.",
+   "new_format": "다섯 문장의 빈칸 중 들어갈 관계대명사가 나머지 넷과 다른 것 고르기(what / that)",
+   "design": "what은 선행사를 포함한 관계대명사(~하는 것)라서 앞에 선행사가 있으면 what 대신 that을 쓴다는 규칙을 그대로 평가한다. 옳은 문장의 조합 고르기를 빈칸에 들어갈 말이 나머지 넷과 다른 것 고르기로 바꾸어 다섯 문장마다 선행사가 있는지 따지게 했고, 원문항의 the very thing처럼 선행사인지 놓치기 쉬운 everything을 정답 문장에 두었다. 빈칸 앞에 명사가 있지만 선행사가 아닌 문장(gave my little brother ___)을 넣어 ‘명사 뒤면 that’이라고 겉모양만 보고 고르지 못하게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 50/34 글자 195/137 정답 4",
+   "WARN 원문항의 1.5배 — 1.3배 안팎으로 줄일 수 있는지"
+  ]
+ },
+ {
+  "key": "2-102",
+  "grade": 2,
+  "no": 102,
+  "chapter": "CH 11",
+  "chapter_name": "전치사",
+  "ref": {
+   "stem": "다음 빈칸에 공통으로 들어갈 말로 알맞은 것을 고르시오.",
+   "passage": "I'm taking a day _____ next Friday.\nThe store is offering 30% _____ on all items.",
+   "c": [
+    "of",
+    "for",
+    "in",
+    "with",
+    "off"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: off는 ‘(일에서) 떨어져, 쉬어’(a day off)와 ‘할인하여’(30% off)의 뜻으로 쓰인다. 구동사에서는 부사(전치사)가 동사와 합쳐 새 뜻을 만든다.\n풀이 순서: ① 두 문장에 같은 말이 들어가야 한다. 한 문장씩 가능한 말을 떠올린다. → ② take a day off는 ‘하루 쉬다’, 30% off는 ‘30% 할인’이다. → ③ 두 문장에 모두 맞는 off가 정답이다.\n문장별 판정:\n정답 판단: a day off(하루 휴가), 30% off(30% 할인)에 공통으로 들어가므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] a day of, 30% of로는 뜻이 통하지 않으므로 오답이다.\n② [오답] a day for, 30% for로는 뜻이 통하지 않으므로 오답이다.\n③ [오답] a day in, 30% in으로는 뜻이 통하지 않으므로 오답이다.\n④ [오답] a day with, 30% with로는 뜻이 통하지 않으므로 오답이다.\n⑤ [정답] a day off(하루 휴가), 30% off(30% 할인)에 공통으로 들어가므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 공통으로 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "Let's think it _____ before we decide.\nCan you look _____ my essay before I hand it in?",
+    "c": [
+     "up",
+     "out",
+     "over",
+     "off",
+     "down"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 빈칸에 공통으로 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "Please fill _____ this form.\nAfter the storm, the lights went _____, leaving the room completely dark.",
+    "c": [
+     "up",
+     "off",
+     "down",
+     "over",
+     "out"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 빈칸에 공통으로 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "Mina picked _____ the package at the post office.\nPlease turn _____ the volume a little; I can't hear it.",
+    "c": [
+     "up",
+     "over",
+     "out",
+     "down",
+     "off"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 빈칸에 공통으로 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "Tom turned _____ the job offer from the big company.\nPlease slow _____ ; you are driving too fast.",
+    "c": [
+     "out",
+     "over",
+     "off",
+     "up",
+     "down"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 빈칸에 공통으로 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "Please turn _____ the light; it's getting dark.\nYou should try _____ this jacket before you buy it.",
+    "c": [
+     "on",
+     "down",
+     "off",
+     "up",
+     "over"
+    ],
+    "ans": 1
+   }
+  },
+  "target_answer_position": 2,
+  "v1_pretest": {
+   "stem": "다음 빈칸에 들어갈 말이 같은 것끼리 짝지어진 것을 고르시오.",
+   "passage": "ⓐ Dad doesn't have to go to work today because it's his day _______.\nⓑ Those sneakers are _______ sale this week, so they're much cheaper than usual.\nⓒ Could you wake me _______ at seven tomorrow morning?\nⓓ If you show this coupon, you can get 20% _______ your meal.\nⓔ Please calm _______ and tell me what happened at school.",
+   "c": [
+    "ⓐ, ⓑ",
+    "ⓐ, ⓓ",
+    "ⓑ, ⓓ",
+    "ⓑ, ⓔ",
+    "ⓒ, ⓔ"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: off는 ‘(일에서) 떨어져, 쉬어’라는 뜻으로 day off(쉬는 날)처럼 쓰이고, 숫자 뒤에서 ‘~만큼 할인하여’라는 뜻으로 20% off처럼 쓰인다. 같은 할인이라도 ‘할인 판매 중’은 on sale로 쓴다.\n풀이 순서: ① 다섯 빈칸에 들어갈 말을 하나씩 정한다: ⓐ day off, ⓑ on sale, ⓒ wake up, ⓓ 20% off, ⓔ calm down. → ② 같은 말이 들어가는 빈칸을 찾는다. ⓑ도 할인과 관련 있지만 on이 들어가므로 off가 들어가는 것은 ⓐ와 ⓓ뿐이다. → ③ 정답은 ②.\n문장별 판정:\nⓐ off. day off는 ‘쉬는 날’이라는 뜻이다.\nⓑ on. on sale은 ‘할인 판매 중’이라는 뜻이다.\nⓒ up. wake up은 ‘(잠에서) 깨우다’라는 뜻이다.\nⓓ off. 20% off는 ‘20% 할인’이라는 뜻이다.\nⓔ down. calm down은 ‘진정하다’라는 뜻이다.\n정답 판단: ⓐ의 day off와 ⓓ의 20% off에 모두 off가 들어가므로 정답은 ②이다.\n선택지 분석:\n① [오답] ⓐ에는 day off의 off가, ⓑ에는 on sale의 on이 들어가 서로 다르므로 오답이다.\n② [정답] ⓐ의 day off(쉬는 날)와 ⓓ의 20% off(20% 할인)에 모두 off가 들어가므로 정답이다.\n③ [오답] ⓑ와 ⓓ는 둘 다 할인과 관련 있지만 ⓑ에는 on sale의 on이, ⓓ에는 off가 들어가므로 오답이다.\n④ [오답] ⓑ에는 on sale의 on이, ⓔ에는 calm down의 down이 들어가 서로 다르므로 오답이다.\n⑤ [오답] ⓒ에는 wake up의 up이, ⓔ에는 calm down의 down이 들어가 서로 다르므로 오답이다.",
+   "new_format": "ⓐ~ⓔ 다섯 문장 중 빈칸에 들어갈 말이 같은 것끼리 짝지은 것 고르기(조합 보기)",
+   "design": "off가 ‘(일을) 쉬어’(day off)와 숫자 뒤에서 ‘~만큼 할인하여’(20% off)라는 뜻으로 쓰이는 것을 그대로 평가한다. 두 문장의 공통어 고르기를 다섯 빈칸을 각각 채운 뒤 같은 말이 들어가는 짝을 찾는 조합형으로 바꾸었고, 나머지 빈칸은 B~F 수준의 구동사·전치사 표현(on sale, wake up, calm down)으로 채웠다. 같은 할인 상황이지만 on이 들어가는 on sale(ⓑ)을 넣어 뜻만 보고 ⓑ, ⓓ를 짝짓는 실수를 대표 오답으로 설계했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 51/18 글자 217/68 정답 2",
+   "ERR  원문항보다 너무 김: 낱말 51 > 상한 27 (원문항 18) — 난이도가 올라감",
+   "ERR  원문항이 조합형이 아닌데 조합 고르기 형식 — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "2-115",
+  "grade": 2,
+  "no": 115,
+  "chapter": "CH 12",
+  "chapter_name": "접속사",
+  "ref": {
+   "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+   "passage": "Leo: Either you or she is responsible for this. Either A or B에서는 B에 수일치를 하기 때문에 맞는 문장이야.\nMaya: I heard he graduated from college. 명사절 접속사 that은 생략할 수 없기 때문에 틀린 문장이야.\nNick: They studied hard so that they could pass the exam. 여기서 so that은 '목적'의 의미로 쓰였어.\nOlivia: He worked as a teacher when he was young. as는 접속사로 쓰인 올바른 문장이야.\nPaul: Although it was raining, we went hiking. Although 자리에 Despite를 넣어 문장을 만들어도 올바른 문장이 돼.\nQuinn: The box is too heavy for him to carry. 이 문장은 The box is so heavy that he can't carry it.으로 바꿀 수 있어.",
+   "c": [
+    "Leo, Maya, Nick",
+    "Maya, Olivia, Paul",
+    "Leo, Nick, Olivia",
+    "Nick, Olivia, Quinn",
+    "Leo, Nick, Quinn"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: either A or B는 B에 수를 맞춘다. 목적어절의 that은 생략할 수 있다. so that은 목적(~하도록)이다. as + 명사는 ‘~로서’라는 전치사다. despite 뒤에는 명사만 온다. too ~ to는 so ~ that … can't로 바꾼다.\n풀이 순서: ① 학생마다 예문이 옳은지와 설명이 옳은지를 따로 본다. → ② 기준: 상관접속사는 B에 수 일치(both A and B는 복수), 목적어절 that은 생략 가능, despite·because of 뒤는 명사, although·because 뒤는 절, so that은 목적이다. → ③ Maya는 생략할 수 있는 that을 생략할 수 없다고 했고, Olivia는 전치사 as를 접속사라고 했으며, Paul은 Despite 뒤에 절을 쓸 수 있다고 했다. 셋 다 틀렸다. 옳게 설명한 학생만 모으면 Leo, Nick, Quinn이다.\n문장별 판정: Leo O(B인 she에 맞춰 is). Maya X(heard 뒤 목적어절의 that은 생략할 수 있어 옳은 문장이다). Nick O(so that은 목적). Olivia X(as a teacher의 as는 전치사다). Paul X(Despite 뒤에는 절이 올 수 없다). Quinn O(too ~ to = so ~ that … can't).\n정답 판단: 올바르게 설명한 학생은 Leo, Nick, Quinn이다.\n선택지 분석:\n① [오답] 올바르게 설명한 학생은 Leo, Nick, Quinn이므로 오답이다.\n② [오답] 올바르게 설명한 학생은 Leo, Nick, Quinn이므로 오답이다.\n③ [오답] 올바르게 설명한 학생은 Leo, Nick, Quinn이므로 오답이다.\n④ [오답] 올바르게 설명한 학생은 Leo, Nick, Quinn이므로 오답이다.\n⑤ [정답] 올바르게 설명한 학생은 Leo, Nick, Quinn이므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+    "passage": "Ann: Either Mina or Tom is responsible. Either A or B는 B에 수일치하므로 맞는 문장이야.\nBen: I think he is right. 명사절 접속사 that이 빠져서 틀린 문장이야.\nCara: She saved money so that she could buy a bike. 여기서 so that은 '목적'의 뜻이야.\nDan: Despite it was cold, we went out. despite 뒤에 절이 와도 되므로 옳은 문장이야.\nEva: Both Jane and Leo is ready. both A and B는 단수 취급해서 맞아.\nFinn: Unless you hurry, you'll be late. Unless는 If ~ not의 뜻이야.",
+    "c": [
+     "Ann, Ben, Cara",
+     "Ann, Cara, Finn",
+     "Ben, Dan, Eva",
+     "Cara, Dan, Finn",
+     "Ann, Eva, Finn"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+    "passage": "Gina: Neither Tom nor his parents are home. B(parents)에 수일치해서 맞는 문장이야.\nHank: She said she was tired. said 뒤에는 접속사 that을 반드시 써야 하므로 틀린 문장이야.\nIvy: He works as a waiter. 여기서 as는 '~로서'라는 뜻의 전치사야.\nJake: Because of it rained, the game was canceled. because of 뒤에 절이 와도 돼.\nKate: The soup is too hot for me to eat. 는 The soup is so hot that I can't eat it.으로 바꿀 수 있어.\nLiam: Not only Mina but also her friends is coming. not only A but also B는 A에 수일치하므로 맞아.",
+    "c": [
+     "Gina, Ivy, Kate",
+     "Gina, Jake, Liam",
+     "Hank, Ivy, Jake",
+     "Gina, Hank, Liam",
+     "Hank, Jake, Kate"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+    "passage": "Mia: Both my sister and I am students. both A and B 뒤에는 가까운 I에 맞춰 am을 써.\nNoah: I hope you will come. hope 뒤 목적어 명사절의 that이 생략된 옳은 문장이야.\nOwen: He spoke loudly so that everyone could hear him. 여기서 so that은 '결과'의 뜻이야.\nPia: Although he was sick, he went to school. Although 대신 Despite를 써도 옳아.\nRay: As it was raining, we stayed home. 여기서 As는 '이유'를 나타내는 접속사야.\nSue: This box is too heavy to lift. 는 This box is so heavy that I can't lift it.으로 바꿀 수 있어.",
+    "c": [
+     "Mia, Noah, Ray",
+     "Noah, Owen, Sue",
+     "Noah, Ray, Sue",
+     "Pia, Ray, Sue",
+     "Mia, Owen, Pia"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+    "passage": "Tina: Either you or I am wrong. Either A or B는 B(I)에 수일치하므로 맞아.\nUma: The fact she lied surprised me. 동격의 that이 생략된 옳은 문장이야.\nVic: Unless you don't study, you will fail. Unless 뒤에 not을 한 번 더 써야 뜻이 통해.\nWill: Since he was a child, he has loved music. 여기서 Since는 '이유'를 나타내.\nXena: I was so tired that I went to bed early. 는 결과를 나타내는 so ~ that 구문이야.\nYuri: Despite the rain, we played soccer. Despite 뒤에 명사가 와서 옳은 문장이야.",
+    "c": [
+     "Tina, Uma, Xena",
+     "Uma, Vic, Will",
+     "Vic, Xena, Yuri",
+     "Tina, Will, Yuri",
+     "Tina, Xena, Yuri"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 중 해당 문장을 올바르게 설명한 학생들을 모두 고르시오.",
+    "passage": "Zoe: Not only Tom but also his sisters like music. B(sisters)에 수일치해서 like를 쓴 옳은 문장이야.\nAdam: I know that man who is standing there. 에서 that은 명사절 접속사야.\nBella: I was late because the traffic jam. because 뒤에 명사가 와도 돼.\nChris: The water is warm enough to swim in. 은 The water is so warm that we can swim in it.으로 바꿀 수 있어.\nDora: He runs every morning so that he can stay healthy. so that은 '목적'을 나타내.\nEli: Both Jane and Mina likes cats. both A and B는 단수 취급하므로 맞아.",
+    "c": [
+     "Zoe, Adam, Bella",
+     "Chris, Dora, Eli",
+     "Adam, Chris, Dora",
+     "Zoe, Chris, Dora",
+     "Zoe, Bella, Eli"
+    ],
+    "ans": 4
+   }
+  },
+  "target_answer_position": 5,
+  "v1_pretest": {
+   "stem": "다음 글의 밑줄 친 ⓐ~ⓔ에 대한 설명으로 옳지 않은 것을 고르시오.",
+   "passage": "Last Friday, I played the piano at our school music festival. ⓐ<u>Either my parents or my uncle was</u> going to record my performance. For a month, I practiced every evening ⓑ<u>so that I could play the song without any mistakes</u>. Before the show, my piano teacher ⓒ<u>said I was ready</u>, but my heart was still beating fast. ⓓ<u>Although I made one small mistake</u>, the audience clapped loudly at the end. After the show, I was ⓔ<u>too excited to eat anything</u> at dinner. It was one of the best nights of my life.",
+   "c": [
+    "ⓐ: either A or B가 주어일 때 동사는 B에 수를 맞추므로 my uncle에 맞춰 was를 썼다.",
+    "ⓑ: so that은 ‘~하도록, ~하기 위해’라는 목적의 뜻을 나타낸다.",
+    "ⓒ: said 뒤에서 목적어 역할을 하는 명사절을 이끄는 접속사 that이 생략되었다.",
+    "ⓓ: Although 대신 Despite를 쓰려면 뒤에 명사(구)가 와야 하므로 Despite my small mistake로 바꿔 쓸 수 있다.",
+    "ⓔ: so ~ that 구문을 써서 so excited that I could eat anything으로 바꿔 쓸 수 있다."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: either A or B가 주어이면 동사는 B에 맞춘다. 목적어 역할을 하는 명사절의 접속사 that은 생략할 수 있다. so that은 ‘~하도록’이라는 목적을 나타낸다. although 뒤에는 절이, despite 뒤에는 명사(구)가 온다. too ~ to는 ‘너무 ~해서 …할 수 없다’는 뜻으로 so ~ that + 주어 + can't(couldn't)로 바꿔 쓴다.\n풀이 순서: ① 밑줄 친 부분이 어떤 접속사 규칙에 해당하는지 확인하고, 설명이 그 규칙과 맞는지 하나씩 따진다. → ② too ~ to는 ‘…할 수 없다’는 부정의 뜻이므로 so ~ that으로 바꿀 때 couldn't를 써야 한다. → ③ 선택지 ⑤는 부정어 없이 could를 써서 뜻이 반대가 되었다. 정답은 ⑤.\n문장별 판정:\nⓐ O. B인 my uncle에 맞춰 단수동사 was를 썼으므로 설명이 옳다.\nⓑ O. 실수 없이 연주하려고 연습했다는 목적을 나타내므로 설명이 옳다.\nⓒ O. said (that) I was ready에서 목적어절의 접속사 that이 생략되었으므로 설명이 옳다.\nⓓ O. 전치사 Despite 뒤에 명사구 my small mistake를 써서 바꿀 수 있으므로 설명이 옳다.\nⓔ X. too excited to eat anything은 so excited that I couldn't eat anything으로 바꿔야 하므로 설명이 틀렸다.\n정답 판단: too ~ to를 so ~ that으로 바꿀 때는 부정의 뜻을 살려 couldn't를 써야 하는데 could를 썼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] either my parents or my uncle은 B인 my uncle에 수를 맞추므로 was를 쓴 것이 맞아 옳은 설명이므로 오답이다.\n② [오답] so that I could play the song without any mistakes는 ‘실수 없이 연주하도록’이라는 목적을 나타내므로 옳은 설명이라 오답이다.\n③ [오답] said 뒤에서 목적어 역할을 하는 명사절의 접속사 that은 생략할 수 있으므로 옳은 설명이라 오답이다.\n④ [오답] despite는 전치사라 뒤에 절이 아닌 명사(구)가 와야 하므로 Despite my small mistake로 바꾼 것은 옳은 설명이라 오답이다.\n⑤ [정답] too excited to eat anything은 ‘너무 신나서 아무것도 먹을 수 없었다’는 뜻이므로 so excited that I couldn't eat anything으로 바꿔야 하는데 could를 썼으므로 정답이다.",
+   "new_format": "일기 글의 밑줄 친 ⓐ~ⓔ(접속사 구문)에 대한 설명 중 옳지 않은 것 하나 고르기",
+   "design": "either A or B의 수 일치, 목적어절 접속사 that의 생략, 목적을 나타내는 so that, although와 despite의 구별, too ~ to와 so ~ that … can't의 전환을 그대로 평가한다. 학생 6명의 설명을 조합으로 고르는 형식을 한 편의 일기 속 밑줄 ⓐ~ⓔ에 대한 설명 중 틀린 것 고르기로 바꾸었고, 원문항처럼 예문은 모두 옳게 두고 설명의 옳고 그름만 판단하게 했다. Despite가 나오지만 옳은 설명(④)을 넣어 ‘Despite가 나오면 틀림’으로 찍지 못하게 하고, 정답은 too ~ to를 so ~ that으로 바꾸면서 부정어를 빠뜨린 설명으로 설계했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 119/93 글자 604/465 정답 5  OK"
+  ]
+ },
+ {
+  "key": "2-128",
+  "grade": 2,
+  "no": 128,
+  "chapter": "CH 13",
+  "chapter_name": "가정법",
+  "ref": {
+   "stem": "다음 대화의 흐름상 빈칸에 들어갈 적절한 말을 순서대로 짝지은 것을 고르시오.",
+   "passage": "A: Why didn't you come to the party last night?\nB: I was sick. If I ________________ healthy, I ________________________.",
+   "c": [
+    "were - would come",
+    "had been - would have come",
+    "was - will come",
+    "am - would come",
+    "had been - would come"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 과거 사실과 반대되는 가정은 가정법 과거완료로 쓴다: If + had + 과거분사, would have + 과거분사.\n풀이 순서: ① A의 질문(Why didn't you come ~ last night?)과 B의 대답으로 때를 확인한다. 이미 지난 과거의 일이다. → ② 과거 사실과 반대되는 가정은 가정법 과거완료다. if절은 had + 과거분사, 주절은 would have + 과거분사다. → ③ 두 자리가 모두 맞는 ②를 고른다. 한쪽만 과거완료인 보기가 함정이다.\n문장별 판정:\n정답 판단: 아파서 못 간 과거 사실의 반대이므로 had been - would have come이 알맞으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 어젯밤의 일이므로 가정법 과거가 아니라 과거완료를 써야 하므로 오답이다.\n② [정답] 아파서 못 간 과거 사실의 반대이므로 had been - would have come이 알맞으므로 정답이다.\n③ [오답] 직설법이라 가정의 뜻을 나타내지 못하므로 오답이다.\n④ [오답] 현재형 am은 과거의 일을 가정하지 못하므로 오답이다.\n⑤ [오답] 주절도 과거의 일이므로 would come이 아니라 would have come이어야 하므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 대화의 흐름상 빈칸에 들어갈 적절한 말을 순서대로 짝지은 것을 고르시오.",
+    "passage": "A: Why didn't you join the hiking trip?\nB: I had a fever then, but I am completely well now. If I ________________ well, I ________________.",
+    "c": [
+     "had felt - would have gone",
+     "were - would go",
+     "were - would have gone",
+     "had felt - will have gone",
+     "had been - would go"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 대화의 흐름상 빈칸에 들어갈 적절한 말을 순서대로 짝지은 것을 고르시오.",
+    "passage": "A: Why did Tom miss the meeting?\nB: He overslept. If he ________________ earlier, he ________________.",
+    "c": [
+     "had woken - would have come",
+     "woke - would have gone",
+     "has woken - would have come",
+     "woke - would come",
+     "had woken - would come"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 대화의 흐름상 빈칸에 들어갈 적절한 말을 순서대로 짝지은 것을 고르시오.",
+    "passage": "A: Why didn't Mina buy the ticket?\nB: She forgot her wallet. If she ________________ it, she ________________ the ticket.",
+    "c": [
+     "has brought - would have bought",
+     "had brought - will have bought",
+     "brought - would buy",
+     "had brought - would have bought",
+     "brought - would have bought"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 대화의 흐름상 빈칸에 들어갈 적절한 말을 순서대로 짝지은 것을 고르시오.",
+    "passage": "A: Why didn't they win the game?\nB: They made too many mistakes. If they ________________ better, they ________________.",
+    "c": [
+     "have played - would have won",
+     "had played - will have won",
+     "had played - would have won",
+     "played - would win",
+     "played - would have won"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 대화의 흐름상 빈칸에 들어갈 적절한 말을 순서대로 짝지은 것을 고르시오.",
+    "passage": "A: Why didn't Jane call you?\nB: Her phone was dead. If it ________________ charged, she ________________ me.",
+    "c": [
+     "had been - would have called",
+     "had been - will have called",
+     "was - would have called",
+     "has been - would have called",
+     "was - would call"
+    ],
+    "ans": 1
+   }
+  },
+  "target_answer_position": 4,
+  "v1_pretest": {
+   "stem": "다음 대화의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것을 고르시오.",
+   "passage": "A: Hayun, why weren't you at the class picnic at Lake Park last Saturday?\nB: Our soccer team ⓐ<u>played</u> in the city final that morning, and I couldn't miss it. If the city ⓑ<u>had held</u> the final on Sunday, I ⓒ<u>would have enjoyed</u> the boat ride with all of you.\nA: That's too bad. After lunch, we had a dance contest, and even our homeroom teacher, Mr. Kang, joined in. You ⓓ<u>would cheer</u> loudly for him if you ⓔ<u>had watched</u> it.",
+   "c": [
+    "ⓐ",
+    "ⓑ",
+    "ⓒ",
+    "ⓓ",
+    "ⓔ"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 과거 사실과 반대되는 일을 가정할 때는 가정법 과거완료를 쓴다: If + 주어 + had + 과거분사, 주어 + would have + 과거분사. if절이 뒤에 와도 두 절의 형태는 같고, 실제로 있었던 과거 사실은 그냥 과거형으로 쓴다.\n풀이 순서: ① 대화가 지난 토요일(last Saturday) 반 소풍에 대한 이야기임을 확인한다. → ② 실제 사실(ⓐ)은 과거형인지, 사실과 반대되는 가정(ⓑ~ⓔ)은 if절이 had + 과거분사, 주절이 would have + 과거분사인지 본다. → ③ 선택지 ④의 ⓓ는 이미 끝난 춤 대회에 대한 가정의 주절인데 would + 동사원형을 썼다. 정답은 ④.\n문장별 판정:\nⓐ O. 축구팀이 그날 아침 결승전을 치른 것은 실제로 있었던 과거 사실이므로 과거형 played가 맞다.\nⓑ O. 결승전이 일요일에 열리지 않은 과거 사실과 반대되는 가정의 if절이므로 had + 과거분사(had held)가 맞다.\nⓒ O. 소풍에 가지 못한 과거 사실과 반대되는 가정의 주절이므로 would have + 과거분사(would have enjoyed)가 맞다.\nⓓ X. 이미 끝난 춤 대회에 대한 가정의 주절이므로 would cheer를 would have cheered로 고쳐야 한다.\nⓔ O. 주절 뒤에 온 if절이지만 춤 대회를 보지 못한 과거 사실과 반대되는 가정이므로 had + 과거분사(had watched)가 맞다.\n정답 판단: if you had watched it과 짝을 이루는 주절도 과거의 일이므로 would have cheered로 써야 하는데 would cheer를 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] ⓐ는 축구팀이 결승전을 치른 실제 과거 사실이라 가정법이 아니라 과거형 played로 쓰는 것이 맞으므로 오답이다.\n② [오답] ⓑ는 결승전이 일요일에 열리지 않은 과거 사실과 반대되는 if절이라 had held가 맞으므로 오답이다.\n③ [오답] ⓒ는 소풍에서 배를 타지 못한 과거 사실과 반대되는 주절이라 would have enjoyed가 맞으므로 오답이다.\n④ [정답] ⓓ는 지난 토요일의 춤 대회를 보지 못한 사실과 반대되는 주절이므로 would have cheered로 고쳐야 해서 정답이다.\n⑤ [오답] ⓔ는 주절 뒤에 온 if절로, 춤 대회를 보지 못한 과거 사실과 반대되는 가정이라 had watched가 맞으므로 오답이다.",
+   "new_format": "대화의 밑줄 친 동사 ⓐ~ⓔ 중 어법상 틀린 것 고르기",
+   "design": "이미 지난 일과 반대되는 가정은 if절에 had + 과거분사, 주절에 would have + 과거분사를 쓰는 가정법 과거완료 규칙을 그대로 평가한다. 두 빈칸 짝 고르기를 대화 속 밑줄 친 동사 다섯 개 중 틀린 것 고르기로 바꾸고, 소재를 반 소풍과 축구 결승전으로 새로 잡아 가정법 과거완료 문장을 if절이 앞에 오는 것과 뒤에 오는 것 두 개로 넣어 절의 순서가 바뀌어도 두 절의 형태를 모두 확인하게 했다. 정답은 원문항의 함정(⑤)처럼 if절은 과거완료인데 주절을 would + 동사원형으로 쓴 것이고, 실제 과거 사실을 나타내는 played를 옳은 밑줄로 섞어 과거완료가 아니면 틀렸다고 찍지 못하게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 81/36 글자 317/134 정답 4",
+   "ERR  원문항보다 너무 김: 낱말 81 > 상한 54 (원문항 36) — 난이도가 올라감"
+  ]
+ }
+]

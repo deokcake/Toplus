@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:45:36.995Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "They'd not better miss the train.",
+      "1": "They'd better the train not miss.",
+      "2": "They'd better not miss the train.",
+      "3": "Not they'd better miss the train.",
+      "4": "They'd better miss not the train."
+    },
+    "expl": "핵심 규칙: had better의 부정은 had better not + 동사원형 어순이다. 주어 + ’d(had)가 먼저 오고, 목적어는 동사 뒤에 둔다.\n풀이 순서: ① 낱말 가운데 주어와 had의 줄임말(they'd)과 better를 묶어 문장 앞에 세운다. → ② not은 better 바로 뒤, 동사원형(miss) 앞에 둔다. → ③ 동사원형 뒤에 남은 말(the train)을 붙이면 They'd better not miss the train.\n문장별 판정:\n정답 판단: 주어 + ’d + better not + 동사원형 + 목적어 어순이 바르다. 정답은 ③이다.\n선택지 분석:\n① [오답] not은 had better 뒤에 와야 한다. had better not + 동사원형 어순이 아니므로 오답이다.\n② [오답] 목적어가 동사 앞에 왔다. 동사 뒤에 목적어를 두어야 하므로 오답이다.\n③ [정답] 주어 + ’d + better not + 동사원형 + 목적어 어순이 바르다. 정답이다.\n④ [오답] 주어 + ’d가 문장 맨 앞에 와야 하는데 어순이 뒤바뀌었으므로 오답이다.\n⑤ [오답] not이 동사 뒤로 갔다. not은 동사원형 앞, had better 바로 뒤에 와야 하므로 오답이다.",
+    "passage": "(train / not / they'd / the / miss / better / .)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것으로 가장 알맞은 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T06:49:20.997Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T06:49:45.515Z",
+      "text": "제시된 단어를 무작위로 배치할 필요가 있음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:45:36.995Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:45:31.023Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:45:36.995Z",
+      "what": "확인 완료"
+    }
+  }
+}

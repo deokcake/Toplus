@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-05T09:01:50.461Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "help",
+      "1": "is helping",
+      "2": "helping",
+      "3": "helpings",
+      "4": "to help"
+    },
+    "expl": "핵심 규칙: 전치사 뒤에는 동명사(-ing)를 쓴다.\n풀이 순서: ① 빈칸 바로 앞의 말(for)을 본다. → ② 전치사 for 뒤에 동사를 쓰려면 동명사(-ing)로 써야 한다. → ③ 정답은 helping.\n문장별 판정:\n정답 판단: 전치사 for 뒤에는 동명사를 쓰므로 정답은 ③이다.\n선택지 분석:\n① [오답] 전치사 for 뒤에 동사원형을 쓸 수 없으므로 오답이다.\n② [오답] 전치사 뒤에 be동사 + -ing를 쓸 수 없으므로 오답이다.\n③ [정답] 전치사 for 뒤에는 동명사를 쓰므로 정답이다.\n④ [오답] 동명사에 -s를 붙이지 않으므로 오답이다.\n⑤ [오답] 전치사 for 뒤에 to부정사를 쓸 수 없으므로 오답이다.",
+    "passage": "Tom: Thank you for ______(help) me.\nJane: You're welcome.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T09:01:49.745Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T09:01:50.461Z",
+      "what": "확인 완료"
+    }
+  }
+}

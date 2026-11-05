@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T05:30:41.201Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "We need five <u>knifes</u> for dinner.",
+      "1": "Two <u>buses</u> stopped at the corner.",
+      "2": "The <u>ladies</u> are singing together.",
+      "3": "Put the <u>potatoes</u> in the basket.",
+      "4": "I saw two <u>deer</u> in the field."
+    },
+    "expl": "핵심 규칙: 복수형은 대부분 -s, s·sh·ch·x·자음 + o로 끝나면 -es(heroes, tomatoes), 자음 + y는 y를 i로 바꾸고 -es, f/fe는 v로 바꾸고 -es(knives, calves)를 붙인다. child → children, mouse → mice처럼 불규칙형과 deer·sheep처럼 단복수가 같은 명사도 있다.\n풀이 순서: ① 밑줄 친 복수형마다 단수형의 끝(f/fe, 자음 + y, s·x·sh·ch, 자음 + o)을 떠올린다. → ② 그 끝에 맞는 규칙대로 바뀌었는지 본다. → ③ knife → knives. 정답은 ①.\n문장별 판정:\n정답 판단: knife는 fe를 v로 바꾸고 -es를 붙여 knives로 써야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] knife는 fe를 v로 바꾸고 -es를 붙여 knives로 써야 하므로 정답이다.\n② [오답] buses: s로 끝나 -es를 붙여 바르게 썼으므로 오답이다.\n③ [오답] ladies: 자음 + y라 y를 i로 바꾸고 -es를 붙여 바르게 썼으므로 오답이다.\n④ [오답] potatoes: 자음 + o라 -es를 붙여 바르게 썼으므로 오답이다.\n⑤ [오답] deer: 단수와 복수가 같은 명사라 그대로 바르게 썼으므로 오답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T05:30:40.244Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T05:30:41.201Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T05:30:41.201Z",
+      "what": "확인 완료"
+    }
+  }
+}

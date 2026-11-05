@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T10:25:48.723Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Are the girls singing?",
+      "1": "Was it raining then?",
+      "2": "Is your dad driving?",
+      "3": "Is the washing machine working?",
+      "4": "Are you eating lunch?"
+    },
+    "expl": "핵심 규칙: 짧은 대답의 주어와 be동사를 보고 질문을 찾는다. you에 대한 질문에는 I/we, 한 남자는 he, 한 여자는 she, 사물·날씨는 it, 여럿은 they로 답하고, 과거 질문(Was/Were)에는 wasn't/weren't로 답한다.\n풀이 순서: ① 대답의 주어와 be동사를 본다: it isn't. → ② 이 주어로 답하게 되는 질문의 주어를 거꾸로 찾는다: 사물인 the washing machine. 시제도 현재여야 한다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 사물 the washing machine을 it으로 받아 isn't로 답할 수 있으므로 정답은 ④이다.\n선택지 분석:\n① [오답] the girls에 대한 질문에는 they로 답하므로 오답이다.\n② [오답] 과거 질문에는 wasn't로 답하므로 오답이다.\n③ [오답] your dad에 대한 질문에는 he로 답하므로 오답이다.\n④ [정답] 사물 the washing machine을 it으로 받아 isn't로 답할 수 있으므로 정답이다.\n⑤ [오답] you에 대한 질문에는 I로 답하므로 오답이다.",
+    "passage": "A: _______________________\nB: No, it isn't.",
+    "stem": "다음 빈칸에 들어갈 말을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T10:25:47.123Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T10:25:48.723Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T10:25:48.723Z",
+      "what": "확인 완료"
+    }
+  }
+}

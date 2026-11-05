@@ -1,0 +1,350 @@
+{
+ "A": {
+  "title": "주어와 동사의 수일치 (일반동사 현재형)",
+  "intro": "이 문제는 주어가 3인칭 단수인지 복수인지에 맞게 일반동사를 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르세요. 다섯 문장의 주어와 동사를 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재 시제에서는 주어에 맞춰 동사 모양을 정해요.",
+    "3인칭 단수 주어(셀 수 없는 명사 포함) → 일반동사 + s/es (have → has)",
+    "복수 주어 → 일반동사는 동사원형",
+    "일반동사 부정 → 3인칭 단수 doesn't, 복수 don't + 동사원형",
+    "예) He plays tennis, and they play baseball. (그는 테니스를 치고, 그들은 야구를 해요.)"
+   ],
+   "narration": "현재 시제에서는 주어에 맞춰 동사 모양을 정하는데, 이것을 수일치라고 해요. 주어가 I와 you가 아닌 한 사람이나 한 개, 또는 water 같은 셀 수 없는 명사이면 3인칭 단수라서, 일반동사에 s나 es를 붙이고 have는 has로 써요. 주어가 여럿인 복수이면 동사원형을 쓰고, 부정은 3인칭 단수면 doesn't, 복수면 don't 뒤에 동사원형을 써요. 예를 들어 He plays tennis, and they play baseball. 그는 테니스를 치고, 그들은 야구를 해요."
+  },
+  "steps": [
+   {
+    "note": "주어가 3인칭 단수인지 복수인지 → 동사 확인. The cat, My sister는 3인칭 단수인데 s가 없다 → ①, ② 지운다.",
+    "highlight": ["The cat sleep", "My sister cook"],
+    "strike": ["① The cat sleep on the sofa.", "② My sister cook dinner."],
+    "narration": "첫째, 문장마다 주어가 3인칭 단수인지 복수인지 보고 동사를 확인해요. 1번 The cat과 2번 My sister는 3인칭 단수인데, sleep과 cook에 s가 없어서 틀렸어요."
+   },
+   {
+    "note": "The students는 복수 → study. He의 부정 → doesn't. ③, ⑤ 지운다.",
+    "highlight": ["The students studies", "He don't"],
+    "strike": ["③ The students studies hard.", "⑤ He don't like coffee."],
+    "narration": "둘째, 3번 The students는 복수라서 study를, 5번 He는 3인칭 단수라서 doesn't를 써야 해요."
+   },
+   {
+    "note": "Water는 셀 수 없는 명사 → 3인칭 단수 → boils ✓",
+    "highlight": ["④ Water boils at 100°C."],
+    "strike": [],
+    "narration": "셋째, 4번 Water는 셀 수 없는 명사라서 3인칭 단수로 보고, boils를 바르게 썼어요. Water boils at 100 degrees Celsius. 물은 섭씨 100도에서 끓어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The cat sleep on the sofa.  ✗  The cat은 3인칭 단수 → sleeps",
+    "② My sister cook dinner.  ✗  My sister는 3인칭 단수 → cooks",
+    "③ The students studies hard.  ✗  The students는 복수 → study",
+    "④ Water boils at 100°C.  ✓  셀 수 없는 Water는 3인칭 단수 → boils",
+    "⑤ He don't like coffee.  ✗  He의 부정 → doesn't like"
+   ],
+   "narration": "정답은 4번이에요. 물은 하나, 둘 셀 수 없지만 3인칭 단수로 보기 때문에 boils가 맞아요. 3번은 studies에 es가 붙어 있어 맞아 보이지만, 주어 The students가 복수라서 동사원형 study를 써야 해요. 5번은 He 뒤에 don't를 써서 틀렸어요. 3인칭 단수 주어의 부정은 doesn't like처럼 써요."
+  },
+  "summary": {
+   "card": "현재 시제 3인칭 단수(셀 수 없는 명사 포함) → 일반동사 + s/es (have → has), 복수 → 동사원형",
+   "narration": "정답은 4번이에요. 기억할 것, 현재 시제에서 3인칭 단수 주어에는 일반동사에 s나 es를 붙이고 have는 has로 쓰며, 복수 주어에는 동사원형을 써요. 셀 수 없는 명사도 3인칭 단수예요."
+  },
+  "captions": [
+   "주어와 동사의 수일치",
+   "먼저 풀어 보세요",
+   "3인칭 단수 → s/es, 복수 → 원형",
+   "3인칭 단수? 복수? → 동사 확인",
+   "정답 ④ Water boils",
+   "3인칭 단수 + s/es, 복수 + 원형"
+  ],
+  "sec": [10, 15, 30, 36, 30, 13]
+ },
+ "B": {
+  "title": "주어와 동사의 수일치 (be동사·일반동사)",
+  "intro": "이 문제는 주어가 3인칭 단수인지 복수인지에 맞게 be동사나 일반동사를 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르세요. 다섯 문장의 주어와 동사를 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재 시제에서는 주어에 맞춰 동사 모양을 정해요.",
+    "3인칭 단수 주어 → be동사 is, 일반동사 + s/es (have → has)",
+    "복수 주어 → be동사 are, 일반동사는 동사원형",
+    "일반동사 부정 → 3인칭 단수 doesn't, 복수 don't + 동사원형",
+    "예) My bag is heavy, but the boxes are light. (내 가방은 무겁지만, 그 상자들은 가벼워요.)"
+   ],
+   "narration": "현재 시제에서는 주어에 맞춰 동사 모양을 정하는데, 이것을 수일치라고 해요. 주어가 he, she, it처럼 I와 you가 아닌 한 사람이나 한 개이면 3인칭 단수라서, be동사는 is를 쓰고, 일반동사에는 s나 es를 붙이며 have는 has로 써요. 주어가 여럿인 복수이면 be동사는 are, 일반동사는 동사원형을 쓰고, 일반동사의 부정은 3인칭 단수면 doesn't, 복수면 don't 뒤에 동사원형을 써요. 예를 들어 My bag is heavy, but the boxes are light. 내 가방은 무겁지만, 그 상자들은 가벼워요."
+  },
+  "steps": [
+   {
+    "note": "My dog, She는 3인칭 단수 → runs, doesn't. ①, ④ 지운다.",
+    "highlight": ["My dog run", "She don't"],
+    "strike": ["① My dog run very fast.", "④ She don't eat meat."],
+    "narration": "첫째, 1번 My dog과 4번 She는 3인칭 단수라서, run은 runs로, don't는 doesn't로 써야 해요."
+   },
+   {
+    "note": "The children(child의 복수형), My parents는 복수 → play, work. ②, ⑤ 지운다.",
+    "highlight": ["The children plays", "My parents works"],
+    "strike": ["② The children plays in the park.", "⑤ My parents works hard."],
+    "narration": "둘째, 2번 The children은 child의 복수형이고 5번 My parents도 복수라서, 동사원형 play와 work를 써야 해요."
+   },
+   {
+    "note": "news는 s로 끝나도 단수 취급 → is ✓",
+    "highlight": ["③ The news is interesting."],
+    "strike": [],
+    "narration": "셋째, 3번 news는 s로 끝나지만 단수로 보는 명사라서, be동사 is를 바르게 썼어요. The news is interesting. 그 소식은 흥미로워요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① My dog run very fast.  ✗  My dog은 3인칭 단수 → runs",
+    "② The children plays in the park.  ✗  children은 child의 복수형 → play",
+    "③ The news is interesting.  ✓  news는 단수 취급 → is",
+    "④ She don't eat meat.  ✗  She의 부정 → doesn't eat",
+    "⑤ My parents works hard.  ✗  My parents는 복수 → work"
+   ],
+   "narration": "정답은 3번이에요. news는 s로 끝나서 복수처럼 보이지만 단수로 보기 때문에 is가 맞아요. 2번은 children에 s가 없어서 단수처럼 보이지만, 여러 아이를 뜻하는 복수라서 plays가 아니라 play를 써야 해요. 4번은 She 뒤에 don't를 써서 틀렸어요. 3인칭 단수 주어의 부정은 doesn't eat처럼 써요."
+  },
+  "summary": {
+   "card": "3인칭 단수 → is, 일반동사 + s/es (have → has), 복수 → are, 동사원형",
+   "narration": "정답은 3번이에요. 기억할 것, 3인칭 단수 주어에는 is를 쓰고 일반동사에 s나 es를 붙이며 have는 has로 써요. 복수 주어에는 be동사 are, 일반동사는 동사원형을 써요."
+  },
+  "captions": [
+   "주어와 동사의 수일치",
+   "먼저 풀어 보세요",
+   "3인칭 단수 is·s/es, 복수 are·원형",
+   "주어의 수 → 동사 확인 → news is",
+   "정답 ③ The news is",
+   "단수 is·s/es, 복수 are·원형"
+  ],
+  "sec": [11, 15, 32, 34, 30, 13]
+ },
+ "C": {
+  "title": "주어와 동사의 수일치 (일반동사 현재형)",
+  "intro": "이 문제는 주어가 3인칭 단수인지 복수인지에 맞게 일반동사를 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르세요. 다섯 문장의 주어와 동사를 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재 시제에서는 주어에 맞춰 동사 모양을 정해요.",
+    "3인칭 단수 주어 → 일반동사 + s/es (have → has)",
+    "복수 주어 → 일반동사는 동사원형",
+    "일반동사 부정 → 3인칭 단수 doesn't, 복수 don't + 동사원형",
+    "예) He plays tennis, and they play baseball. (그는 테니스를 치고, 그들은 야구를 해요.)"
+   ],
+   "narration": "현재 시제에서는 주어에 맞춰 동사 모양을 정하는데, 이것을 수일치라고 해요. 주어가 he, she, it처럼 I와 you가 아닌 한 사람이나 한 개이면 3인칭 단수라서, 일반동사에 s나 es를 붙이고 have는 has로 써요. 주어가 여럿인 복수이면 동사원형을 쓰고, 부정은 3인칭 단수면 doesn't, 복수면 don't 뒤에 동사원형을 써요. 예를 들어 He plays tennis, and they play baseball. 그는 테니스를 치고, 그들은 야구를 해요."
+  },
+  "steps": [
+   {
+    "note": "Tom, It은 3인칭 단수 → watches, rains. ①, ③ 지운다.",
+    "highlight": ["Tom watch", "It rain"],
+    "strike": ["① Tom watch TV every night.", "③ It rain a lot in July."],
+    "narration": "첫째, 1번 Tom과 3번 It은 3인칭 단수라서, watch는 es를 붙인 watches로, rain은 rains로 써야 해요."
+   },
+   {
+    "note": "The girls는 복수 → sing. He의 부정 → doesn't. ②, ④ 지운다.",
+    "highlight": ["The girls sings", "He don't"],
+    "strike": ["② The girls sings well.", "④ He don't know the answer."],
+    "narration": "둘째, 2번 The girls는 복수라서 sing을, 4번 He는 3인칭 단수라서 doesn't를 써야 해요."
+   },
+   {
+    "note": "My uncle은 3인칭 단수 → teaches ✓",
+    "highlight": ["⑤ My uncle teaches math."],
+    "strike": [],
+    "narration": "셋째, 5번 My uncle은 3인칭 단수이고, teach에 es를 붙인 teaches를 바르게 썼어요. My uncle teaches math. 우리 삼촌은 수학을 가르쳐요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① Tom watch TV every night.  ✗  Tom은 3인칭 단수 → watches",
+    "② The girls sings well.  ✗  The girls는 복수 → sing",
+    "③ It rain a lot in July.  ✗  It은 3인칭 단수 → rains",
+    "④ He don't know the answer.  ✗  He의 부정 → doesn't know",
+    "⑤ My uncle teaches math.  ✓  3인칭 단수 My uncle → teaches"
+   ],
+   "narration": "정답은 5번이에요. My uncle은 한 사람이라 3인칭 단수이고, teaches를 바르게 썼어요. 2번은 sings에 s가 붙어 맞아 보이지만, 주어 The girls가 복수라서 sing을 써야 해요. 3번 It은 날씨를 말할 때 쓰는 주어인데, 이것도 3인칭 단수라서 rains를 써요."
+  },
+  "summary": {
+   "card": "현재 시제 3인칭 단수 → 일반동사 + s/es (have → has), 복수 → 동사원형",
+   "narration": "정답은 5번이에요. 기억할 것, 현재 시제에서 3인칭 단수 주어에는 일반동사에 s나 es를 붙이고 have는 has로 쓰며, 복수 주어에는 동사원형을 써요."
+  },
+  "captions": [
+   "주어와 동사의 수일치",
+   "먼저 풀어 보세요",
+   "3인칭 단수 → s/es, 복수 → 원형",
+   "주어의 수 → 동사 확인 → teaches",
+   "정답 ⑤ My uncle teaches",
+   "3인칭 단수 + s/es, 복수 + 원형"
+  ],
+  "sec": [10, 15, 30, 34, 26, 11]
+ },
+ "D": {
+  "title": "주어와 동사의 수일치 (일반동사 현재형)",
+  "intro": "이 문제는 주어가 3인칭 단수인지 복수인지에 맞게 일반동사를 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르세요. 다섯 문장의 주어와 동사를 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재 시제에서는 주어에 맞춰 동사 모양을 정해요.",
+    "3인칭 단수 주어 → 일반동사 + s/es (have → has)",
+    "복수 주어 → 일반동사는 동사원형",
+    "일반동사 부정 → 3인칭 단수 doesn't, 복수 don't + 동사원형",
+    "예) He plays tennis, and they play baseball. (그는 테니스를 치고, 그들은 야구를 해요.)"
+   ],
+   "narration": "현재 시제에서는 주어에 맞춰 동사 모양을 정하는데, 이것을 수일치라고 해요. 주어가 he, she, it처럼 I와 you가 아닌 한 사람이나 한 개이면 3인칭 단수라서, 일반동사에 s나 es를 붙이고 have는 has로 써요. 주어가 여럿인 복수이면 동사원형을 쓰고, 부정은 3인칭 단수면 doesn't, 복수면 don't 뒤에 동사원형을 써요. 예를 들어 He plays tennis, and they play baseball. 그는 테니스를 치고, 그들은 야구를 해요."
+  },
+  "steps": [
+   {
+    "note": "Jane, Our teacher는 3인칭 단수 → cries(자음 + y → ies), has. ②, ③ 지운다.",
+    "highlight": ["Jane cry", "Our teacher have"],
+    "strike": ["② Jane cry easily.", "③ Our teacher have a car."],
+    "narration": "첫째, 2번 Jane과 3번 Our teacher는 3인칭 단수라서, cry는 자음 뒤에 y가 있으니 y를 i로 바꾸고 es를 붙인 cries로, have는 has로 써야 해요."
+   },
+   {
+    "note": "The birds는 복수 → sing. Mina의 부정 → doesn't. ④, ⑤ 지운다.",
+    "highlight": ["The birds sings", "Mina don't"],
+    "strike": ["④ The birds sings in the morning.", "⑤ Mina don't like carrots."],
+    "narration": "둘째, 4번 The birds는 복수라서 sing을, 5번 Mina는 3인칭 단수라서 doesn't를 써야 해요."
+   },
+   {
+    "note": "The boys는 복수 → 동사원형 play ✓",
+    "highlight": ["① The boys play soccer."],
+    "strike": [],
+    "narration": "셋째, 1번 The boys는 복수라서 동사원형 play를 바르게 썼어요. The boys play soccer. 그 소년들은 축구를 해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The boys play soccer.  ✓  복수 The boys → 동사원형 play",
+    "② Jane cry easily.  ✗  Jane은 3인칭 단수 → cries",
+    "③ Our teacher have a car.  ✗  Our teacher는 3인칭 단수 → has",
+    "④ The birds sings in the morning.  ✗  The birds는 복수 → sing",
+    "⑤ Mina don't like carrots.  ✗  Mina의 부정 → doesn't like"
+   ],
+   "narration": "정답은 1번이에요. The boys는 여러 명이라 복수이고, 복수 주어에는 s를 붙이지 않은 동사원형 play를 써요. 3번은 Our teacher가 3인칭 단수라서 have가 아니라 has를 써야 해요. 4번은 sings에 s가 있어 맞아 보이지만, 주어 The birds가 복수라서 sing을 써야 해요."
+  },
+  "summary": {
+   "card": "현재 시제 3인칭 단수 → 일반동사 + s/es (have → has), 복수 → 동사원형",
+   "narration": "정답은 1번이에요. 기억할 것, 현재 시제에서 3인칭 단수 주어에는 일반동사에 s나 es를 붙이고 have는 has로 쓰며, 복수 주어에는 동사원형을 써요."
+  },
+  "captions": [
+   "주어와 동사의 수일치",
+   "먼저 풀어 보세요",
+   "3인칭 단수 → s/es, 복수 → 원형",
+   "주어의 수 → 동사 확인 → play",
+   "정답 ① The boys play",
+   "3인칭 단수 + s/es, 복수 + 원형"
+  ],
+  "sec": [10, 15, 30, 36, 26, 11]
+ },
+ "E": {
+  "title": "주어와 동사의 수일치 (일반동사 현재형)",
+  "intro": "이 문제는 주어가 3인칭 단수인지 복수인지에 맞게 일반동사를 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르세요. 다섯 문장의 주어와 동사를 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재 시제에서는 주어에 맞춰 동사 모양을 정해요.",
+    "3인칭 단수 주어 → 일반동사 + s/es (have → has)",
+    "복수 주어 → 일반동사는 동사원형",
+    "일반동사 부정 → 3인칭 단수 doesn't, 복수 don't + 동사원형",
+    "예) He plays tennis, and they play baseball. (그는 테니스를 치고, 그들은 야구를 해요.)"
+   ],
+   "narration": "현재 시제에서는 주어에 맞춰 동사 모양을 정하는데, 이것을 수일치라고 해요. 주어가 he, she, it처럼 I와 you가 아닌 한 사람이나 한 개이면 3인칭 단수라서, 일반동사에 s나 es를 붙이고 have는 has로 써요. 주어가 여럿인 복수이면 동사원형을 쓰고, 부정은 3인칭 단수면 doesn't, 복수면 don't 뒤에 동사원형을 써요. 예를 들어 He plays tennis, and they play baseball. 그는 테니스를 치고, 그들은 야구를 해요."
+  },
+  "steps": [
+   {
+    "note": "The baby, Tom, She는 3인칭 단수 → cries, goes, has. ①, ④, ⑤ 지운다.",
+    "highlight": ["The baby cry", "Tom go", "She have"],
+    "strike": ["① The baby cry at night.", "④ Tom go to bed at ten.", "⑤ She have long hair."],
+    "narration": "첫째, 1번 The baby, 4번 Tom, 5번 She는 모두 3인칭 단수예요. 그래서 cry는 cries로, go는 goes로, have는 has로 써야 해요."
+   },
+   {
+    "note": "My friends는 복수 → live. ③ 지운다.",
+    "highlight": ["My friends lives"],
+    "strike": ["③ My friends lives near here."],
+    "narration": "둘째, 3번 My friends는 복수라서 lives가 아니라 동사원형 live를 써야 해요."
+   },
+   {
+    "note": "Jane은 3인칭 단수, study → studies(자음 + y → ies) ✓",
+    "highlight": ["② Jane studies English."],
+    "strike": [],
+    "narration": "셋째, 2번 Jane은 3인칭 단수이고, study는 자음 뒤에 y가 있으니 y를 i로 바꾸고 es를 붙인 studies로 바르게 썼어요. Jane studies English. 제인은 영어를 공부해요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The baby cry at night.  ✗  The baby는 3인칭 단수 → cries",
+    "② Jane studies English.  ✓  3인칭 단수 Jane → studies",
+    "③ My friends lives near here.  ✗  My friends는 복수 → live",
+    "④ Tom go to bed at ten.  ✗  Tom은 3인칭 단수 → goes",
+    "⑤ She have long hair.  ✗  She는 3인칭 단수 → has"
+   ],
+   "narration": "정답은 2번이에요. Jane은 한 사람이라 3인칭 단수이고, studies를 바르게 썼어요. 3번은 lives에 s가 있어 맞아 보이지만, 주어 My friends가 복수라서 live를 써야 해요. 5번은 She에 have를 썼는데, 3인칭 단수 주어에는 has를 써요."
+  },
+  "summary": {
+   "card": "현재 시제 3인칭 단수 → 일반동사 + s/es (have → has), 복수 → 동사원형",
+   "narration": "정답은 2번이에요. 기억할 것, 현재 시제에서 3인칭 단수 주어에는 일반동사에 s나 es를 붙이고 have는 has로 쓰며, 복수 주어에는 동사원형을 써요."
+  },
+  "captions": [
+   "주어와 동사의 수일치",
+   "먼저 풀어 보세요",
+   "3인칭 단수 → s/es, 복수 → 원형",
+   "주어의 수 → 동사 확인 → studies",
+   "정답 ② Jane studies",
+   "3인칭 단수 + s/es, 복수 + 원형"
+  ],
+  "sec": [10, 15, 30, 38, 26, 11]
+ },
+ "F": {
+  "title": "주어와 동사의 수일치 (be동사·일반동사)",
+  "intro": "이 문제는 주어가 3인칭 단수인지 복수인지에 맞게 be동사나 일반동사를 쓴 문장을 고르는 문제예요.",
+  "problem_narration": "다음 중 주어와 동사의 수일치가 올바르게 된 문장을 고르세요. 다섯 문장의 주어와 동사를 하나씩 살펴보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "현재 시제에서는 주어에 맞춰 동사 모양을 정해요.",
+    "3인칭 단수 주어 → be동사 is, 일반동사 + s/es (have → has)",
+    "복수 주어 → be동사 are, 일반동사는 동사원형",
+    "일반동사 부정 → 3인칭 단수 doesn't, 복수 don't + 동사원형",
+    "예) My bag is heavy, but the boxes are light. (내 가방은 무겁지만, 그 상자들은 가벼워요.)"
+   ],
+   "narration": "현재 시제에서는 주어에 맞춰 동사 모양을 정하는데, 이것을 수일치라고 해요. 주어가 he, she, it처럼 I와 you가 아닌 한 사람이나 한 개이면 3인칭 단수라서, be동사는 is를 쓰고, 일반동사에는 s나 es를 붙이며 have는 has로 써요. 주어가 여럿인 복수이면 be동사는 are, 일반동사는 동사원형을 쓰고, 일반동사의 부정은 3인칭 단수면 doesn't, 복수면 don't 뒤에 동사원형을 써요. 예를 들어 My bag is heavy, but the boxes are light. 내 가방은 무겁지만, 그 상자들은 가벼워요."
+  },
+  "steps": [
+   {
+    "note": "My cat, He, Dad는 3인칭 단수 → sleeps, fixes, doesn't. ②, ③, ⑤ 지운다.",
+    "highlight": ["My cat sleep", "He fix", "Dad don't"],
+    "strike": ["② My cat sleep all day.", "③ He fix cars.", "⑤ Dad don't drink coffee."],
+    "narration": "첫째, 2번 My cat, 3번 He, 5번 Dad는 모두 3인칭 단수예요. 그래서 sleep은 sleeps로, fix는 es를 붙인 fixes로, don't는 doesn't로 써야 해요."
+   },
+   {
+    "note": "The students는 복수 → be동사 are. ① 지운다.",
+    "highlight": ["The students is"],
+    "strike": ["① The students is in the gym."],
+    "narration": "둘째, 1번 The students는 복수라서 be동사 is가 아니라 are를 써야 해요."
+   },
+   {
+    "note": "pants는 한 벌이라도 늘 복수 취급 → are ✓",
+    "highlight": ["④ These pants are new."],
+    "strike": [],
+    "narration": "셋째, 4번 pants는 다리가 두 개인 옷이라 늘 복수로 보고, These와 be동사 are를 바르게 썼어요. These pants are new. 이 바지는 새것이에요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The students is in the gym.  ✗  The students는 복수 → are",
+    "② My cat sleep all day.  ✗  My cat은 3인칭 단수 → sleeps",
+    "③ He fix cars.  ✗  He는 3인칭 단수 → fixes",
+    "④ These pants are new.  ✓  pants는 복수 취급 → are",
+    "⑤ Dad don't drink coffee.  ✗  Dad의 부정 → doesn't drink"
+   ],
+   "narration": "정답은 4번이에요. pants는 바지 한 벌을 말해도 복수로 보기 때문에 are가 맞아요. 3번 He fix는 fix 끝이 x라서 es를 붙인 fixes로 써야 해요. 5번은 Dad가 3인칭 단수라서 don't가 아니라 doesn't를 써야 해요."
+  },
+  "summary": {
+   "card": "3인칭 단수 → is, 일반동사 + s/es (have → has), 복수 → are, 동사원형",
+   "narration": "정답은 4번이에요. 기억할 것, 3인칭 단수 주어에는 is를 쓰고 일반동사에 s나 es를 붙이며 have는 has로 써요. 복수 주어에는 be동사 are, 일반동사는 동사원형을 써요."
+  },
+  "captions": [
+   "주어와 동사의 수일치",
+   "먼저 풀어 보세요",
+   "3인칭 단수 is·s/es, 복수 are·원형",
+   "주어의 수 → 동사 확인 → pants are",
+   "정답 ④ These pants are",
+   "단수 is·s/es, 복수 are·원형"
+  ],
+  "sec": [11, 15, 32, 36, 26, 13]
+ }
+}

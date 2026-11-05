@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-26T04:02:21.092Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "We isn't leave for the station early tomorrow.",
+      "1": "We won't leave for the station early tomorrow.",
+      "2": "We will not to leave for the station early tomorrow.",
+      "3": "We won't leaves for the station early tomorrow.",
+      "4": "We don't leave for the station early tomorrow."
+    },
+    "expl": "핵심 규칙: will의 부정은 will not(won't) + 동사원형이다. do/does나 be동사로 부정하지 않고, won't 뒤의 동사에 -s를 붙이거나 to를 넣지 않는다.\n풀이 순서: ① 문장의 조동사는 will이다. 부정은 will 뒤에 not을 붙인다(will not = won't). → ② won't 뒤의 동사는 원형(leave) 그대로다. → ③ do/does나 be동사로 부정한 것, 동사에 -s를 붙인 것, not 뒤에 to를 넣은 것은 지운다. 정답은 ②.\n문장별 판정:\n정답 판단: won't + 동사원형으로 바르게 바꿨으므로 정답은 ②이다.\n선택지 분석:\n① [오답] will의 부정에 be동사 isn't를 쓸 수 없으므로 오답이다.\n② [정답] won't + 동사원형으로 바르게 바꿨으므로 정답이다.\n③ [오답] will not 뒤에 to를 넣을 수 없으므로 오답이다.\n④ [오답] won't 뒤에는 동사원형 leave를 써야 하므로 오답이다.\n⑤ [오답] 조동사 will의 부정에 don't를 쓰지 않으므로 오답이다.",
+    "passage": "We will leave for the station early tomorrow.",
+    "stem": "다음 문장을 부정문으로 올바르게 바꾼 것을 고르시오."
+  },
+  "tab": "i0am36oh",
+  "updatedAt": "2026-10-26T04:02:21.092Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T04:02:21.092Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-23T07:09:40.247Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "(A) shortening - (B) adjust",
+      "1": "(A) shortened - (B) adjusted",
+      "2": "(A) to shorten - (B) to adjust",
+      "3": "(A) shortened - (B) adjust",
+      "4": "(A) shorten - (B) adjusting"
+    },
+    "expl": "핵심 규칙: get + 사물 목적어 + 과거분사는 그 사물이 어떤 처리를 받게 한다는 뜻이고, have + 사람 목적어 + 동사원형은 그 사람에게 어떤 일을 하게 한다는 뜻이다.\n풀이 순서: ① (A) 앞의 목적어(this jacket)는 동작을 당하는 사물이므로 get + 목적어 뒤에 과거분사를 쓴다. → ② (B) 앞의 목적어(the tailor)는 동작을 직접 하는 사람이고 앞의 동사가 사역동사 have이므로 동사원형을 쓴다. → ③ ‘과거분사 - 동사원형’ 순서인 (A) shortened - (B) adjust를 고른다.\n문장별 판정:\n정답 판단: 모든 자리가 알맞으므로 정답은 ④이다.\n선택지 분석:\n① [오답] (A) shortening: -ing형이어서 맞지 않는다. (A)는 사물이 처리를 받는 것이므로 get + 목적어 + 과거분사를 쓴다. 따라서 오답이다.\n② [오답] (B) adjusted: 단순과거이어서 맞지 않는다. (B)는 사람에게 일을 시키는 것이므로 have + 사람 + 동사원형을 쓴다. 따라서 오답이다.\n③ [오답] (A) to shorten: to부정사이어서 맞지 않는다. (A)는 사물이 처리를 받는 것이므로 get + 목적어 + 과거분사를 쓴다. (B) to adjust: to부정사이어서 맞지 않는다. (B)는 사람에게 일을 시키는 것이므로 have + 사람 + 동사원형을 쓴다. 따라서 오답이다.\n④ [정답] 모든 자리가 알맞으므로 정답이다.\n⑤ [오답] (A) shorten: 동사원형이어서 맞지 않는다. (A)는 사물이 처리를 받는 것이므로 get + 목적어 + 과거분사를 쓴다. (B) adjusting: -ing형이어서 맞지 않는다. (B)는 사람에게 일을 시키는 것이므로 have + 사람 + 동사원형을 쓴다. 따라서 오답이다.",
+    "passage": "A: Why are you at the tailor?\nB: I need to get this jacket (<u>      A      </u>). I will have the tailor (<u>      B      </u>) the sleeves.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T07:09:33.211Z"
+  },
+  "tab": "sj53vmnt",
+  "updatedAt": "2026-10-23T07:09:40.247Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T07:09:40.247Z",
+      "what": "확인 완료"
+    }
+  }
+}

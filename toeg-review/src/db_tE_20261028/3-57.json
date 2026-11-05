@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-26T04:02:29.332Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "Jane <u>is running</u> in the park with her dog.",
+      "1": "I <u>am knowing</u> his secret about the test.",
+      "2": "He <u>is wanting</u> a new bike for his birthday.",
+      "3": "We <u>are believing</u> in you no matter what.",
+      "4": "This pen <u>is belonging</u> to Tom, not to me."
+    },
+    "expl": "핵심 규칙: know, want, need, believe, own, belong, prefer, hate, have(가지고 있다) 같은 상태동사는 보통 진행형으로 쓰지 않는다. 동작동사는 be동사 + -ing로 진행형을 만든다.\n풀이 순서: ① 밑줄은 모두 진행형(be + -ing)이다. 동사가 동작인지 상태인지 가른다. → ② 감정·인식·소유를 나타내는 상태 동사는 진행형으로 쓰지 않는다. → ③ 선택지 ①의 run만 동작 동사라 진행형이 옳다.\n문장별 판정:\n정답 판단: 동작동사를 be동사 + -ing의 진행형으로 바르게 썼으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 동작동사를 be동사 + -ing의 진행형으로 바르게 썼으므로 정답이다.\n② [오답] 상태동사(know)는 진행형으로 쓰지 않으므로 오답이다.\n③ [오답] 상태동사(want)는 진행형으로 쓰지 않으므로 오답이다.\n④ [오답] 상태동사(believe)는 진행형으로 쓰지 않으므로 오답이다.\n⑤ [오답] 상태동사(belong)는 진행형으로 쓰지 않으므로 오답이다.",
+    "passage": "",
+    "stem": "다음 중 밑줄 친 부분의 쓰임이 어법상 옳은 것은?"
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:30:57.994Z",
+  "verdict": "적합",
+  "verdictAt": "2026-10-28T04:30:57.994Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:30:57.994Z",
+      "what": "판정 ‘적합’"
+    }
+  }
+}

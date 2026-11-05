@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:56:56.549Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "It is five to eleven.",
+      "1": "It is eleven past five.",
+      "2": "Five past eleven is it.",
+      "3": "It is five past eleven.",
+      "4": "It is eleven five past."
+    },
+    "expl": "핵심 규칙: 시각은 It is + 시각으로 말한다. ‘~시 …분 지났다’는 분 + past + 시, ‘~시 …분 전’은 분 + to + 시로 쓰고, 30분은 half, 15분은 a quarter로 말한다.\n풀이 순서: ① 시각을 ‘분 + past/to + 시’로 바꾼다: 11시 5분 → five past eleven(11시에서 5분 지남). → ② It is 뒤에 이 순서 그대로 쓴다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 11시 5분을 five past eleven으로 바르게 나타냈으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 10시 55분(11시 5분 전)을 나타내므로 오답이다.\n② [오답] 5시 11분을 나타내므로 오답이다.\n③ [오답] It is + 시각의 어순이 아니므로 오답이다.\n④ [정답] 11시 5분을 five past eleven으로 바르게 나타냈으므로 정답이다.\n⑤ [오답] 분 + past + 시의 어순이 아니므로 오답이다.",
+    "passage": "<보기>\n지금은 11시 5분이야.",
+    "stem": "다음 중 <보기>의 우리말 문장을 올바르게 영작한 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:56:54.269Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:56:56.549Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:56:56.549Z",
+      "what": "확인 완료"
+    }
+  }
+}

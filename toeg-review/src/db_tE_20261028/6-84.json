@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T08:55:42.045Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Is she writing a letter?",
+      "1": "Are they dancing?",
+      "2": "Were you sleeping?",
+      "3": "Is the baby crying?",
+      "4": "Are you listening to me?"
+    },
+    "expl": "핵심 규칙: 짧은 대답의 주어와 be동사를 보고 질문을 찾는다. you에 대한 질문에는 I/we, 한 남자는 he, 한 여자는 she, 사물·날씨는 it, 여럿은 they로 답하고, 과거 질문(Was/Were)에는 wasn't/weren't로 답한다.\n풀이 순서: ① 대답의 주어와 be동사를 본다: I am not. → ② 이 주어로 답하게 되는 질문의 주어를 거꾸로 찾는다: you. 시제도 현재여야 한다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: you에 대한 질문에 I am not으로 답할 수 있으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] she에 대한 질문에는 she로 답하므로 오답이다.\n② [오답] they에 대한 질문에는 they로 답하므로 오답이다.\n③ [오답] 과거 질문에는 wasn't로 답하므로 오답이다.\n④ [오답] the baby에 대한 질문에는 he나 she로 답하므로 오답이다.\n⑤ [정답] you에 대한 질문에 I am not으로 답할 수 있으므로 정답이다.",
+    "passage": null,
+    "stem": "다음 빈칸에 들어갈 말을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T08:55:40.238Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T08:55:42.045Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:55:42.045Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,583 @@
+[
+ {
+  "key": "1-1",
+  "grade": 1,
+  "no": 1,
+  "chapter": "CH 1",
+  "chapter_name": "문장의 구조",
+  "ref": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "The flowers <u>smell sweet</u> in the garden.",
+    "The soup <u>tastes deliciously</u> today.",
+    "The music <u>sounds beautiful</u> at night.",
+    "The silk <u>feels soft</u> to touch.",
+    "The plan <u>seems reasonable</u> to me."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: smell, taste, sound, feel, look, seem처럼 주어의 상태를 설명하는 2형식 동사 뒤 보어 자리에는 부사가 아니라 형용사를 쓴다.\n풀이 순서: ① 밑줄마다 동사가 smell·taste·sound·feel·look·seem 같은 2형식 동사임을 확인한다. → ② 그 뒤에 온 말이 형용사인지 -ly로 끝나는 부사인지 가른다. → ③ 선택지 ②만 부사(deliciously)가 왔으므로 형용사(delicious)로 고쳐야 한다.\n문장별 판정:\n정답 판단: taste 뒤 보어 자리에 부사 deliciously를 썼다. 형용사 delicious로 고쳐야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] smell 뒤에 형용사 sweet가 보어로 와서 올바르므로 오답이다.\n② [정답] taste 뒤 보어 자리에 부사 deliciously를 썼다. 형용사 delicious로 고쳐야 하므로 정답이다.\n③ [오답] sound 뒤에 형용사 beautiful이 보어로 와서 올바르므로 오답이다.\n④ [오답] feel 뒤에 형용사 soft가 보어로 와서 올바르므로 오답이다.\n⑤ [오답] seem 뒤에 형용사 reasonable이 보어로 와서 올바르므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The cloth <u>feels rough</u> on my hands.",
+     "The proposal <u>sounds sensible</u> to us.",
+     "The student <u>looks nervous</u> before the test.",
+     "The milk <u>smells badly</u> this morning.",
+     "The bread <u>tastes wonderful</u> with butter."
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The coffee <u>tastes bitterly</u> without sugar.",
+     "The pillow <u>feels soft</u> under my head.",
+     "The tea <u>smells fresh</u> in the morning.",
+     "The melody <u>sounds calm</u> in the evening.",
+     "The plan <u>seems practical</u> to everyone."
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The idea <u>sounds reasonable</u> to me.",
+     "The soup <u>smells good</u> in the kitchen.",
+     "The sky <u>looks clear</u> after the rain.",
+     "The blanket <u>feels warmly</u> against my skin.",
+     "The lemonade <u>tastes sour</u> to the kids."
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The idea <u>sounds strangely</u> to everyone.",
+     "The child <u>looks sleepy</u> after lunch.",
+     "The weather <u>seems fine</u> for a picnic.",
+     "The cake <u>tastes sweet</u> with cream.",
+     "The sand <u>feels warm</u> under my feet."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The roses <u>smell fresh</u> in the vase.",
+     "The song <u>sounds beautiful</u> on the radio.",
+     "The room <u>looks comfortably</u> after the renovation.",
+     "The water <u>feels cold</u> in winter.",
+     "The answer <u>seems correct</u> at first glance."
+    ],
+    "ans": 3
+   }
+  },
+  "target_answer_position": 2
+ },
+ {
+  "key": "1-12",
+  "grade": 1,
+  "no": 12,
+  "chapter": "CH 2",
+  "chapter_name": "시제",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+   "passage": "She _____ her keys yesterday morning.\nThe scientists _____ a groundbreaking discovery recently.",
+   "c": [
+    "lost — have made",
+    "loses — make",
+    "lost — make",
+    "loses — have made",
+    "have lost — have made"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: yesterday처럼 끝난 과거 시점을 나타내는 말이 있으면 과거시제를 쓰고, recently·lately처럼 최근부터 지금까지를 나타내는 말과는 현재완료(have/has + 과거분사)를 쓴다.\n풀이 순서: ① 첫 문장에는 끝난 과거 시점(yesterday morning)이 있으므로 과거형 lost를 쓴다. 현재형 loses와 현재완료 have lost를 지운다. → ② 둘째 문장에는 최근부터 지금까지를 나타내는 recently가 있으므로 현재형 make가 아니라 현재완료 have made를 쓴다. → ③ 정답은 lost — have made.\n문장별 판정:\n정답 판단: yesterday morning에는 과거형 lost, recently에는 현재완료 have made가 맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] yesterday morning에는 과거형 lost, recently에는 현재완료 have made가 맞으므로 정답이다.\n② [오답] yesterday morning과 현재형 loses가 맞지 않으므로 오답이다.\n③ [오답] recently와 함께 최근의 성과를 나타내려면 make가 아니라 have made를 써야 하므로 오답이다.\n④ [오답] yesterday morning과 현재형 loses가 맞지 않으므로 오답이다.\n⑤ [오답] 주어 She에 have lost를 쓸 수 없고, yesterday morning과 현재완료도 함께 쓰지 않으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "- Mina _____ her passport yesterday.\n- Researchers _____ important evidence lately.",
+    "c": [
+     "lost - have found",
+     "lost - find",
+     "loses - find",
+     "has lost - have found",
+     "lost - has found"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "The storm _____ several trees last night.\nScientists _____ a new treatment recently.",
+    "c": [
+     "damaged — develop",
+     "damaged — has developed",
+     "has damaged — have developed",
+     "damages — develop",
+     "damaged — have developed"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "We _____ the old bridge last summer.\nEngineers _____ a safer design recently.",
+    "c": [
+     "repaired — create",
+     "repaired — has created",
+     "repaired — have created",
+     "repairs — create",
+     "has repaired — have created"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "Tom _____ his old bike yesterday morning.\nDoctors _____ a new vaccine recently.",
+    "c": [
+     "sold — have tested",
+     "sells — test",
+     "has sold — have tested",
+     "sold — test",
+     "sold — has tested"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "Jane _____ the application last week.\nThe team members _____ several improvements recently.",
+    "c": [
+     "submits — introduce",
+     "has submitted — have introduced",
+     "submitted — introduce",
+     "submitted — have introduced",
+     "submitted — has introduced"
+    ],
+    "ans": 4
+   }
+  },
+  "target_answer_position": 1
+ },
+ {
+  "key": "1-23",
+  "grade": 1,
+  "no": 23,
+  "chapter": "CH 3",
+  "chapter_name": "조동사",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+   "passage": "• I'm not used to _____ in such hot weather.\n• People used to _____ that the sun revolved around the Earth.",
+   "c": [
+    "work – think",
+    "working – thought",
+    "working – think",
+    "work – thinking",
+    "working – thinking"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: be used to + -ing는 ‘~하는 데 익숙하다’, used to + 동사원형은 ‘(예전에) ~하곤 했다’라는 뜻이다. used to 앞에 be동사가 있는지로 가른다.\n풀이 순서: ① used to 앞에 be동사가 있는지 본다. 첫 문장(I'm not used to)은 be동사가 있으므로 ‘~하는 데 익숙하다’이고, 이때 to는 전치사라 -ing형이 온다. → ② 둘째 문장(People used to)은 be동사 없이 used to만 있으므로 ‘예전에 ~하곤 했다’이고 동사원형이 온다. → ③ 정답은 working – think.\n문장별 판정:\n정답 판단: be동사가 있는 am not used to 뒤에 working을, 과거의 습관을 나타내는 used to 뒤에 think를 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] be used to 뒤에는 동사원형 work가 아니라 -ing형을 써야 하므로 오답이다.\n② [오답] used to 뒤에는 과거형 thought가 아니라 동사원형을 써야 하므로 오답이다.\n③ [정답] be동사가 있는 am not used to 뒤에 working을, 과거의 습관을 나타내는 used to 뒤에 think를 바르게 썼으므로 정답이다.\n④ [오답] 두 빈칸의 형태가 서로 바뀌었으므로 오답이다.\n⑤ [오답] used to 뒤에는 thinking이 아니라 동사원형을 써야 하므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "- Tom isn't used to _____ up so early.\n- Families used to _____ together more often.",
+    "c": [
+     "get - eating",
+     "getting - eating",
+     "getting - eat",
+     "get - eat",
+     "getting - ate"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "• I'm not used to _____ in front of large audiences.\n• People used to _____ letters by hand.",
+    "c": [
+     "speaking – write",
+     "speaking – wrote",
+     "speak – writing",
+     "speak – write",
+     "speaking – writing"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "• We are used to _____ long distances to visit our grandparents.\n• People used to _____ paper maps instead of GPS on long trips.",
+    "c": [
+     "driving – used",
+     "drive – use",
+     "driving – use",
+     "driving – using",
+     "drive – using"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "• Jane is used to _____ alone in her quiet office at night.\n• Children used to _____ outside until dark in the old days.",
+    "c": [
+     "work – playing",
+     "working – playing",
+     "working – played",
+     "work – play",
+     "working – play"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "• Mina still isn't used to _____ spicy food like kimchi stew.\n• People used to _____ film cameras before smartphones became popular.",
+    "c": [
+     "eating – using",
+     "eating – used",
+     "eat – use",
+     "eating – use",
+     "eat – using"
+    ],
+    "ans": 4
+   }
+  },
+  "target_answer_position": 5
+ },
+ {
+  "key": "1-34",
+  "grade": 1,
+  "no": 34,
+  "chapter": "CH 4",
+  "chapter_name": "수동태",
+  "ref": {
+   "stem": "다음 두 문장의 뜻이 같도록 할 때 빈칸에 알맞은 말을 고르시오.",
+   "passage": "It is believed that the ancient statue was created by aliens.\n= The ancient statue is believed _____ created by aliens.",
+   "c": [
+    "was",
+    "being",
+    "to have been",
+    "will be",
+    "that was"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: It is believed/said that + 주어 + 동사 ~는 ‘주어 + is believed/said + to부정사’로 바꿀 수 있다. that절의 일이 주절보다 먼저 일어났으면 완료부정사(to have + 과거분사)를 쓰고, 수동이면 to have been + 과거분사가 된다.\n풀이 순서: ① 첫 문장에서 주절과 that절의 시제를 견준다: 주절은 현재(is believed), that절은 과거(was created). → ② that절의 주어를 문장 앞으로 꺼내면 동사는 to부정사가 되는데, that절이 한 시제 앞서므로 to have + 과거분사를 쓴다. → ③ 빈칸 뒤에 과거분사 created가 있으므로 수동의 been까지 넣는다. 정답은 to have been.\n문장별 판정:\n정답 판단: 믿는 것은 현재, 만들어진 것은 과거이므로 완료부정사 to have been (created)로 바르게 나타냈으므로 정답은 ③이다.\n선택지 분석:\n① [오답] is believed 뒤에 동사 was를 바로 이어 쓸 수 없으므로 오답이다.\n② [오답] is believed 뒤에는 being이 아니라 to부정사가 와야 하므로 오답이다.\n③ [정답] 믿는 것은 현재, 만들어진 것은 과거이므로 완료부정사 to have been (created)로 바르게 나타냈으므로 정답이다.\n④ [오답] will be는 미래를 나타내고 is believed 뒤에 올 수 없으므로 오답이다.\n⑤ [오답] 주어를 문장 앞으로 꺼낸 뒤에는 that절을 쓸 수 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 두 문장의 뜻이 같도록 할 때 빈칸에 알맞은 말을 고르시오.",
+    "passage": "Experts say that the species was discovered recently.\n= The species is said _____ discovered recently.",
+    "c": [
+     "was",
+     "having",
+     "to have been",
+     "will be",
+     "that is"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 두 문장의 뜻이 같도록 할 때 빈칸에 알맞은 말을 고르시오.",
+    "passage": "People say that the manuscript was written in the 15th century.\n= The manuscript is said _____ written in the 15th century.",
+    "c": [
+     "to be",
+     "to have been",
+     "being",
+     "had been",
+     "that was"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 두 문장의 뜻이 같도록 할 때 빈칸에 알맞은 말을 고르시오.",
+    "passage": "People believe that the bridge was built by the Romans.\n= The bridge is believed _____ by the Romans.",
+    "c": [
+     "to have built",
+     "to have been built",
+     "having been built",
+     "to be built",
+     "to be building"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 두 문장의 뜻이 같도록 할 때 빈칸에 알맞은 말을 고르시오.",
+    "passage": "They think that the painting was stolen years ago.\n= The painting is thought _____ years ago.",
+    "c": [
+     "to be stealing",
+     "having been stolen",
+     "to have stolen",
+     "to have been stolen",
+     "to be stolen"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 두 문장의 뜻이 같도록 할 때 빈칸에 알맞은 말을 고르시오.",
+    "passage": "People believe that the town was destroyed by fire.\n= The town is believed _____ by fire.",
+    "c": [
+     "having been destroyed",
+     "to have destroyed",
+     "to have been destroyed",
+     "to be destroyed",
+     "to be destroying"
+    ],
+    "ans": 3
+   }
+  },
+  "target_answer_position": 3
+ },
+ {
+  "key": "1-45",
+  "grade": 1,
+  "no": 45,
+  "chapter": "CH 5",
+  "chapter_name": "부정사",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 말로 알맞게 연결된 것을 고르시오.",
+   "passage": "It appeared that he had already left the office.\n= He appeared to (A) ______ the office already.\nIt appears that she understands the problem.\n= She appears to (B) ______ the problem.",
+   "c": [
+    "have left - understand",
+    "had left - understand",
+    "leave - have understood",
+    "have left - have understood",
+    "left - have understood"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: It seems/appears that ~을 ‘주어 + seem/appear + to부정사’로 바꿀 때, that절의 시제가 주절과 같으면 단순부정사(to + 동사원형), 주절보다 앞서면 완료부정사(to have + 과거분사)를 쓴다.\n풀이 순서: ① 문장 쌍마다 주절과 that절의 시제를 견준다. → ② 첫째 쌍(appeared / had left)은 that절이 한 시제 앞서므로 (A)는 완료부정사 have + 과거분사다. 둘째 쌍(appears / understands)은 시제가 같으므로 (B)는 동사원형이다. → ③ 정답은 have left - understand.\n문장별 판정:\n정답 판단: (A)는 appeared보다 앞선 had left이므로 have left, (B)는 appears와 같은 때이므로 understand가 맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] (A)는 appeared보다 앞선 had left이므로 have left, (B)는 appears와 같은 때이므로 understand가 맞으므로 정답이다.\n② [오답] to 뒤에 had를 쓸 수 없으므로 오답이다.\n③ [오답] (A)와 (B)의 형태가 서로 바뀌었으므로 오답이다.\n④ [오답] (B)는 appears와 같은 때의 일이라 완료부정사를 쓰지 않으므로 오답이다.\n⑤ [오답] to 뒤에 과거형 left를 쓸 수 없고 (B)도 완료부정사가 아니므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞게 연결된 것을 고르시오.",
+    "passage": "It seemed that Mina had finished the work.\n= Mina seemed to (A)_____ the work.\nIt seems that the system works well.\n= The system seems to (B)_____.",
+    "c": [
+     "have finished - work well",
+     "finish - work well",
+     "finished - work well",
+     "have finished - have worked well",
+     "to have finished - to work well"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞게 연결된 것을 고르시오.",
+    "passage": "It seemed that the team had lost the game.\n= The team seemed to (A) ______ the game.\nIt seems that Jiho likes spicy food.\n= Jiho seems to (B) ______ spicy food.",
+    "c": [
+     "lose - like",
+     "have lost - have liked",
+     "lost - like",
+     "to have lost - to like",
+     "have lost - like"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞게 연결된 것을 고르시오.",
+    "passage": "It seemed that the train had departed.\n= The train seemed to (A)_____.\nIt seems that Jane knows the answer.\n= Jane seems to (B)_____ the answer.",
+    "c": [
+     "have departed - know",
+     "to have departed - to know",
+     "have departed - have known",
+     "departed - know",
+     "depart - know"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞게 연결된 것을 고르시오.",
+    "passage": "It appeared that they had forgotten the key to the classroom.\n= They appeared to (A)_____ the key to the classroom.\nIt appears that Leo is tired after the long trip.\n= Leo appears to (B)_____ after the long trip.",
+    "c": [
+     "forgotten - be tired",
+     "have forgotten - be tired",
+     "forget - be tired",
+     "to have forgotten - to be tired",
+     "have forgotten - have been tired"
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞게 연결된 것을 고르시오.",
+    "passage": "It appeared that Tom had been sick for a few days.\n= Tom appeared to (A)_____ for a few days.\nIt appears that Jane is ready for the big race.\n= Jane appears to (B)_____ for the big race.",
+    "c": [
+     "to have been sick - to be ready",
+     "have been sick - have been ready",
+     "be sick - be ready",
+     "have been sick - be ready",
+     "been sick - be ready"
+    ],
+    "ans": 4
+   }
+  },
+  "target_answer_position": 1
+ },
+ {
+  "key": "1-56",
+  "grade": 1,
+  "no": 56,
+  "chapter": "CH 6",
+  "chapter_name": "동명사",
+  "ref": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+   "passage": "나는 그 책을 읽은 것을 기억한다.",
+   "c": [
+    "I remember to read that book.",
+    "I remembered reading that book.",
+    "I remember that I will read that book.",
+    "I remember read that book.",
+    "I remember reading that book."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: remember + 동명사는 ‘(전에) ~한 것을 기억하다’, remember + to부정사는 ‘(앞으로) ~할 것을 기억하다’라는 뜻이다.\n풀이 순서: ① 우리말 ‘읽은 것을 기억한다’은 이미 한 일을 지금 기억한다는 뜻이다. → ② 이미 한 일을 기억할 때는 remember + 동명사(reading)를 쓴다. remember + to부정사는 ‘앞으로 할 일을 기억하다’라 뜻이 다르다. → ③ remember의 시제가 우리말과 다르거나 뒤에 동사원형·will을 쓴 보기를 지운다. 정답은 I remember reading that book.\n문장별 판정:\n정답 판단: ‘읽은 것을 기억한다’를 remember + 동명사로 바르게 나타냈으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] remember + to부정사는 ‘앞으로 읽을 것을 기억하다’라는 뜻이라 우리말과 맞지 않으므로 오답이다.\n② [오답] remembered는 ‘기억했다’라 우리말 ‘기억한다’와 시제가 다르므로 오답이다.\n③ [오답] will read는 앞으로 읽을 것이라는 뜻이라 우리말과 맞지 않으므로 오답이다.\n④ [오답] remember 뒤에 동사원형 read를 바로 이어 쓸 수 없으므로 오답이다.\n⑤ [정답] ‘읽은 것을 기억한다’를 remember + 동명사로 바르게 나타냈으므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "나는 그 박물관을 방문했던 것을 기억한다.",
+    "c": [
+     "I remember to visit that museum.",
+     "I remembered visiting that museum.",
+     "I remember visiting that museum.",
+     "I remember I will visit that museum.",
+     "I remember visit that museum."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "나는 Mina를 만났던 것을 기억한다.",
+    "c": [
+     "I remember meeting Mina.",
+     "I remember to meet Mina.",
+     "I remembered meeting Mina.",
+     "I remember I will meet Mina.",
+     "I remember meet Mina."
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "나는 문을 잠갔던 것을 기억한다.",
+    "c": [
+     "I remember to lock the door.",
+     "I remembered locking the door.",
+     "I remember I will lock the door.",
+     "I remember locking the door.",
+     "I remember lock the door."
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "나는 그 비밀을 말했던 것을 기억한다.",
+    "c": [
+     "I remember tell the secret.",
+     "I remember to tell the secret.",
+     "I remembered telling the secret.",
+     "I remember I will tell the secret.",
+     "I remember telling the secret."
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "나는 그 영화를 봤던 것을 기억한다.",
+    "c": [
+     "I remembered seeing that movie.",
+     "I remember seeing that movie.",
+     "I remember to see that movie.",
+     "I remember see that movie.",
+     "I remember I will see that movie."
+    ],
+    "ans": 2
+   }
+  },
+  "target_answer_position": 5
+ },
+ {
+  "key": "1-67",
+  "grade": 1,
+  "no": 67,
+  "chapter": "CH 7",
+  "chapter_name": "분사",
+  "ref": {
+   "stem": "다음 대화의 빈칸에 들어갈 알맞은 표현을 고르시오.",
+   "passage": "A: How was the party last night?\nB: __________(솔직히 말하면), it was quite boring. I left early.",
+   "c": [
+    "Speaking of",
+    "Strictly speaking",
+    "Judging from",
+    "Considering that",
+    "Frankly speaking"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 분사로 된 관용 표현은 뜻과 함께 익힌다: frankly speaking(솔직히 말하면), generally speaking(일반적으로 말하면), strictly speaking(엄밀히 말하면), speaking of(~ 이야기가 나와서 말인데), judging from(~로 판단하건대), considering (that)(~을 고려하면).\n풀이 순서: ① 빈칸 옆의 우리말 뜻(솔직히 말하면)을 확인한다. → ② 그 뜻의 분사 관용 표현을 고른다: Frankly speaking. → ③ 빈칸 뒤와 이어 읽어 확인한다. ‘솔직히 말하면, 꽤 지루했다.’로 자연스럽다.\n문장별 판정:\n정답 판단: Frankly speaking이 ‘솔직히 말하면’이라는 뜻이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] Speaking of는 ‘~ 이야기가 나와서 말인데’라는 뜻이므로 오답이다.\n② [오답] Strictly speaking은 ‘엄밀히 말하면’이라는 뜻이므로 오답이다.\n③ [오답] Judging from은 ‘~로 판단하건대’라는 뜻이므로 오답이다.\n④ [오답] Considering that은 ‘~을 고려하면’이라는 뜻이므로 오답이다.\n⑤ [정답] Frankly speaking이 ‘솔직히 말하면’이라는 뜻이므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 대화의 빈칸에 들어갈 알맞은 표현을 고르시오.",
+    "passage": "A: Is it usually cold here in March?\nB: __________(일반적으로 말하면), it gets warm by the end of March.",
+    "c": [
+     "Frankly speaking",
+     "Generally speaking",
+     "Judging from",
+     "Speaking of",
+     "Strictly speaking"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 대화의 빈칸에 들어갈 알맞은 표현을 고르시오.",
+    "passage": "A: Did you hear that the concert was canceled?\nB: Yes. __________(~ 이야기가 나와서 말인데) concerts, are you going to the festival next week?",
+    "c": [
+     "Frankly speaking",
+     "Strictly speaking",
+     "Speaking of",
+     "Judging from",
+     "Generally speaking"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 대화의 빈칸에 들어갈 알맞은 표현을 고르시오.",
+    "passage": "A: Is that explanation scientifically exact?\nB: __________(엄밀히 말하면), the term is not completely accurate.",
+    "c": [
+     "Generally speaking",
+     "Speaking of",
+     "Strictly speaking",
+     "Needless to say",
+     "To make matters worse"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 대화의 빈칸에 들어갈 알맞은 표현을 고르시오.",
+    "passage": "A: Do you think the project will succeed?\nB: __________(~로 판단하건대) the current results, it looks promising.",
+    "c": [
+     "Needless to say",
+     "Generally speaking",
+     "To make matters worse",
+     "Judging from",
+     "Speaking of"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 대화의 빈칸에 들어갈 알맞은 표현을 고르시오.",
+    "passage": "A: Why did you choose the train?\nB: __________(~을 고려하면) the heavy traffic, it seemed safer.",
+    "c": [
+     "Generally speaking",
+     "Speaking of",
+     "Needless to say",
+     "To make matters worse",
+     "Considering"
+    ],
+    "ans": 5
+   }
+  },
+  "target_answer_position": 3
+ }
+]

@@ -1,0 +1,179 @@
+{
+ "key": "5-28",
+ "type": "A",
+ "grade": 5,
+ "chapter": "CH 3 be동사와 일반동사 과거",
+ "title": "be동사 과거형과 break의 과거형",
+ "total_sec": 132,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "5급 · CH 3 be동사와 일반동사 과거 · 28번\n\n이 문제는 두 빈칸에 알맞은 be동사와 일반동사의 형태를 짝지어 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "5급 · CH 3 be동사와 일반동사 과거 · 28번",
+     "이 문제는 두 빈칸에 알맞은 be동사와 일반동사의 형태를 짝지어 고르는 문제예요."
+    ]
+   },
+   "narration": "5급 챕터 3, 28번. 이 문제는 두 빈칸에 알맞은 be동사와 일반동사의 형태를 짝지어 고르는 문제예요.",
+   "caption": "be동사와 일반동사의 과거형"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 22,
+   "screen": {
+    "text": "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.\n\nThe wind (A)________ very strong. It (B)________ the window.\n\n① was — break\n② is — broke\n③ were — broke\n④ was — broke\n⑤ was — breaked",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.",
+     "The wind (A)________ very strong. It (B)________ the window.",
+     "① was — break",
+     "② is — broke",
+     "③ were — broke",
+     "④ was — broke",
+     "⑤ was — breaked"
+    ]
+   },
+   "narration": "다음 빈칸 에이와 비에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. The wind 에이 빈칸 very strong, it 비 빈칸 the window. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n지난 때의 일 → 동사를 과거형으로 써요.\nbe동사 과거형: I, 3인칭 단수 → was · you, 복수 → were\n일반동사 과거형: ed로 끝나는 것이 많아요 (play → played) · 불규칙 (go → went)\n예) My friends were thirsty, so they drank water. (내 친구들은 목이 말라서 물을 마셨어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "지난 때의 일 → 동사를 과거형으로 써요.",
+     "be동사 과거형: I, 3인칭 단수 → was · you, 복수 → were",
+     "일반동사 과거형: ed로 끝나는 것이 많아요 (play → played) · 불규칙 (go → went)",
+     "예) My friends were thirsty, so they drank water. (내 친구들은 목이 말라서 물을 마셨어요.)"
+    ]
+   },
+   "narration": "지난 때의 일을 말할 때는 동사를 과거형으로 써요. be동사 과거형은 주어가 I나 3인칭 단수이면 was, you나 복수이면 were예요. 일반동사는 played처럼 ed로 끝나는 과거형이 많고, went처럼 모양이 바뀌는 불규칙 동사도 있어요. My friends were thirsty, so they drank water. 내 친구들은 목이 말라서 물을 마셨어요.",
+   "caption": "지난 일 → was, were와 과거형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 39,
+   "screen": {
+    "text": "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.\n\nThe wind (A)________ very strong. It (B)________ the window.\n\n① was — break\n② is — broke\n③ were — broke\n④ was — broke\n⑤ was — breaked",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "The wind (A)________ very strong."
+      ],
+      "strike": [
+       "③ were — broke"
+      ],
+      "note": "(A)의 주어 The wind = 3인칭 단수 → were를 쓴 ③ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "It (B)________ the window."
+      ],
+      "strike": [
+       "① was — break",
+       "⑤ was — breaked"
+      ],
+      "note": "(B): It break처럼 동사원형만 쓸 수 없음, breaked는 없는 말 → ①, ⑤ 지움. break의 과거형 broke"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ was — broke"
+      ],
+      "strike": [
+       "② is — broke"
+      ],
+      "note": "창문을 깬 그때 바람이 셌다 → (A)도 과거형 was. is를 쓴 ② 지움 → ④"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 에이 빈칸의 주어 The wind는 3인칭 단수라서, you나 복수 주어에 쓰는 were를 넣은 3번은 지워요. 둘째, 비 빈칸에 It break처럼 동사원형만 쓸 수는 없고 breaked라는 말도 없으니, 1번과 5번을 지우면 과거형 broke가 남아요. 셋째, 창문을 깬 것은 지난 일이고 바람이 센 것도 그때의 일이니, 에이 빈칸도 현재형 is가 아닌 과거형 was를 써요. The wind was very strong. 바람이 아주 셌어요. It broke the window. 그 바람이 창문을 깼어요.",
+   "caption": "단수 → was · It 뒤 → broke"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 21,
+   "screen": {
+    "text": "① was — break  ✗  It 뒤에 동사원형 break를 그대로 못 써요 (지난 일은 broke)\n② is — broke  ✗  창문을 깬 그때 바람이 셌던 것이라 과거형 was\n③ were — broke  ✗  3인칭 단수 주어 The wind에는 was\n④ was — broke  ✓  3인칭 단수 주어의 과거형 was + break의 과거형 broke\n⑤ was — breaked  ✗  breaked는 없는 말 · break의 과거형은 broke",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① was — break  ✗  It 뒤에 동사원형 break를 그대로 못 써요 (지난 일은 broke)",
+     "② is — broke  ✗  창문을 깬 그때 바람이 셌던 것이라 과거형 was",
+     "③ were — broke  ✗  3인칭 단수 주어 The wind에는 was",
+     "④ was — broke  ✓  3인칭 단수 주어의 과거형 was + break의 과거형 broke",
+     "⑤ was — breaked  ✗  breaked는 없는 말 · break의 과거형은 broke"
+    ]
+   },
+   "narration": "정답은 4번, was와 broke예요. 2번 is는 현재형인데, 바람이 센 것은 창문을 깬 그때의 일이라 was를 써요. 5번 breaked는 없는 말이에요. 1번처럼 It 뒤에 동사원형 break를 그대로 쓸 수는 없고, 지난 일이라면 broke를 써요.",
+   "caption": "정답 ④ was — broke"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ④ was — broke\n\n지난 때의 일 → be동사는 was, were · 일반동사도 과거형 (break → broke)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ was — broke",
+     "지난 때의 일 → be동사는 was, were · 일반동사도 과거형 (break → broke)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 지난 때의 일은 be동사를 was나 were로, 일반동사도 과거형으로 써요.",
+   "caption": "지난 일 → was, were + 과거형"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요.",
+  "passage": "The wind (A)________ very strong. It (B)________ the window.",
+  "c": [
+   "was — break",
+   "is — broke",
+   "were — broke",
+   "was — broke",
+   "was — breaked"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: be동사의 과거형은 단수 주어에 was, 복수 주어에 were를 쓴다. break의 과거형은 broke다.\n풀이 순서: ① (A): 주어가 The wind(단수)이므로 was. → ② (B): 앞 문장과 이어지는 과거의 일이므로 과거형을 쓴다: break - broke. → ③ 정답은 was — broke.\n문장별 판정:\n정답 판단: 단수 주어 The wind에 was, break의 과거형 broke가 알맞으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 과거의 일이므로 break가 아니라 broke를 써야 하므로 오답이다.\n② [오답] 뒤 문장이 과거라 is를 쓸 수 없으므로 오답이다.\n③ [오답] 단수 주어 The wind에 were를 쓸 수 없으므로 오답이다.\n④ [정답] 단수 주어 The wind에 was, break의 과거형 broke가 알맞으므로 정답이다.\n⑤ [오답] breaked라는 형태는 없으므로 오답이다."
+ }
+}

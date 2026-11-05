@@ -1,0 +1,86 @@
+{
+ "key": "3-118",
+ "grade": 3,
+ "chapter": "CH 12 전치사",
+ "items": {
+  "A": {
+   "stem": "다음 주어진 표현을 알맞게 사용하여 우리말을 영어로 옮긴 것을 고르시오.",
+   "passage": "나는 2019년에 태어났다. (be born, 2019)",
+   "c": [
+    "I am born in 2019.",
+    "I was born at 2019.",
+    "I was born in 2019.",
+    "I were born in 2019.",
+    "I was born on 2019."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: be born은 과거형(was/were born)으로 쓴다. 연도·달 앞에는 in, 날짜·요일 앞에는 on, 시각 앞에는 at을 쓴다.\n풀이 순서: ① 동사부터 정한다: ‘태어났다’는 과거이고 주어가 I이므로 was born. → ② 때를 나타내는 말 앞의 전치사를 정한다: 2019는 연도이므로 in. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: was born + in + 연도로 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 태어난 것은 과거의 일이라 am이 아니라 was를 쓰므로 오답이다.\n② [오답] 연도 앞에는 at이 아니라 in을 쓰므로 오답이다.\n③ [정답] was born + in + 연도로 바르게 썼으므로 정답이다.\n④ [오답] 주어 I에는 were가 아니라 was를 쓰므로 오답이다.\n⑤ [오답] 연도 앞에는 on이 아니라 in을 쓰므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 주어진 표현을 알맞게 사용하여 우리말을 영어로 옮긴 것을 고르시오.",
+   "passage": "그 콘서트는 7월에 열렸다. (be held, July)",
+   "c": [
+    "The concert was held on July.",
+    "The concert is held in July.",
+    "The concert was held in July.",
+    "The concert held in July.",
+    "The concert were held in July."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 과거에 열렸다는 뜻은 was/were held로 나타낸다. 연도·월에는 in, 날짜·요일에는 on, 시각에는 at을 쓴다.\n풀이 순서: ① 동사부터 정한다: ‘열렸다’는 과거의 수동이고 주어 The concert가 단수이므로 was held. → ② 때를 나타내는 말 앞의 전치사를 정한다: July는 달이므로 in. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 과거 수동태 was held와 월 앞의 in을 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 월 앞에는 on이 아니라 in을 쓰므로 오답이다.\n② [오답] 과거의 일이고, was held로 써야 하므로 오답이다.\n③ [정답] 과거 수동태 was held와 월 앞의 in을 바르게 썼으므로 정답이다.\n④ [오답] ‘열리다’는 be held로 써야 하므로 오답이다.\n⑤ [오답] 단수 주어 The concert에는 was를 쓰므로 오답이다."
+  },
+  "C": {
+   "stem": "다음 주어진 표현을 알맞게 사용하여 우리말을 영어로 옮긴 것을 고르시오.",
+   "passage": "Jane은 5월에 태어났다. (be born, May)",
+   "c": [
+    "Jane was born in May.",
+    "Jane is born in May.",
+    "Jane was born at May.",
+    "Jane were born in May.",
+    "Jane born in May."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 과거에 태어났다는 뜻은 주어에 맞는 was/were born으로 나타낸다. 연도·월에는 in, 날짜·요일에는 on, 시각에는 at을 쓴다. meet의 과거형은 met이며 단수 School의 현재형은 starts이다.\n풀이 순서: ① 동사부터 정한다: ‘태어났다’는 과거이고 주어가 Jane이므로 was born. → ② 때를 나타내는 말 앞의 전치사를 정한다: May는 달이므로 in. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: 단수 Jane에 was born을 쓰고 월 May에 in을 썼다. 따라서 정답은 ①이다.\n선택지 분석:\n① [정답] 단수 Jane에 was born을 쓰고 월 May에 in을 썼다.\n② [오답] is는 현재형이므로 과거의 출생 뜻에는 was가 필요하다.\n③ [오답] May는 월이므로 at 대신 in을 쓴다.\n④ [오답] 단수 Jane에 were 대신 was를 쓴다.\n⑤ [오답] 과거 출생의 was born에서 was가 빠졌다."
+  },
+  "D": {
+   "stem": "다음 주어진 표현을 알맞게 사용하여 우리말을 영어로 옮긴 것을 고르시오.",
+   "passage": "Tom은 5월 3일에 태어났다. (be born, May 3rd)",
+   "c": [
+    "Tom is born on May 3rd.",
+    "Tom was born on May 3rd.",
+    "Tom was born in May 3rd.",
+    "Tom were born on May 3rd.",
+    "Tom born on May 3rd."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 과거에 태어났다는 뜻은 주어에 맞는 was/were born으로 나타낸다. 연도·월에는 in, 날짜·요일에는 on, 시각에는 at을 쓴다. meet의 과거형은 met이며 단수 School의 현재형은 starts이다.\n풀이 순서: ① 동사부터 정한다: ‘태어났다’는 과거이고 주어가 Tom이므로 was born. → ② 때를 나타내는 말 앞의 전치사를 정한다: May 3rd는 날짜이므로 on. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: 단수 Tom에 was born을 쓰고 날짜 May 3rd에 on을 썼다. 따라서 정답은 ②이다.\n선택지 분석:\n① [오답] is는 현재형이므로 과거의 출생 뜻에는 was가 필요하다.\n② [정답] 단수 Tom에 was born을 쓰고 날짜 May 3rd에 on을 썼다.\n③ [오답] May 3rd는 날짜이므로 in 대신 on을 쓴다.\n④ [오답] 단수 Tom에는 were 대신 was를 쓴다.\n⑤ [오답] 과거 출생의 was born에서 was가 빠졌다."
+  },
+  "E": {
+   "stem": "다음 주어진 표현을 알맞게 사용하여 우리말을 영어로 옮긴 것을 고르시오.",
+   "passage": "우리는 월요일에 만났다. (meet, Monday)",
+   "c": [
+    "We meet on Monday.",
+    "We met in Monday.",
+    "We met on Monday.",
+    "We met at Monday.",
+    "We were met on Monday."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 과거에 태어났다는 뜻은 주어에 맞는 was/were born으로 나타낸다. 연도·월에는 in, 날짜·요일에는 on, 시각에는 at을 쓴다. meet의 과거형은 met이며 단수 School의 현재형은 starts이다.\n풀이 순서: ① 동사부터 정한다: ‘만났다’는 과거이므로 met. → ② 때를 나타내는 말 앞의 전치사를 정한다: Monday는 요일이므로 on. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: meet의 과거형 met를 쓰고 요일 Monday 앞에 on을 썼다. 따라서 정답은 ③이다.\n선택지 분석:\n① [오답] meet은 현재형이다. 만났다는 과거 뜻에는 met를 쓴다.\n② [오답] Monday는 요일이므로 in 대신 on을 쓴다.\n③ [정답] meet의 과거형 met를 쓰고 요일 Monday 앞에 on을 썼다.\n④ [오답] Monday는 요일이므로 at 대신 on을 쓴다.\n⑤ [오답] were met는 누군가가 우리를 만나 주었다는 수동 의미로 달라진다. 우리가 만났다는 뜻은 We met로 쓴다."
+  },
+  "F": {
+   "stem": "다음 주어진 표현을 알맞게 사용하여 우리말을 영어로 옮긴 것을 고르시오.",
+   "passage": "학교는 8시에 시작한다. (start, 8 o'clock)",
+   "c": [
+    "School starts in 8 o'clock.",
+    "School starts on 8 o'clock.",
+    "School is start at 8 o'clock.",
+    "School starts at 8 o'clock.",
+    "School start at 8 o'clock."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 과거에 태어났다는 뜻은 주어에 맞는 was/were born으로 나타낸다. 연도·월에는 in, 날짜·요일에는 on, 시각에는 at을 쓴다. meet의 과거형은 met이며 단수 School의 현재형은 starts이다.\n풀이 순서: ① 동사부터 정한다: ‘시작한다’는 현재이고 주어 School이 3인칭 단수이므로 starts. → ② 때를 나타내는 말 앞의 전치사를 정한다: 8 o'clock은 시각이므로 at. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: 단수 School에 starts를 쓰고 시각 8 o'clock 앞에 at을 썼다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] 8 o'clock이라는 시각에는 in 대신 at을 쓴다.\n② [오답] 8 o'clock이라는 시각에는 on 대신 at을 쓴다.\n③ [오답] is start는 올바른 현재 동사 구조가 아니다. School starts로 쓴다.\n④ [정답] 단수 School에 starts를 쓰고 시각 8 o'clock 앞에 at을 썼다.\n⑤ [오답] 단수 School의 현재형은 start가 아니라 starts이다."
+  }
+ },
+ "prior_review": {}
+}

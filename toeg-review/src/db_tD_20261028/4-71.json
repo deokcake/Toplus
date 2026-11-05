@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T07:29:40.281Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "easy – easier – easiest",
+      "1": "tall – taller – tallest",
+      "2": "thin – thinner – thinnest",
+      "3": "much – more – most",
+      "4": "famous – famouser – famousest"
+    },
+    "expl": "핵심 규칙: 비교급·최상급은 보통 -er·-est(단모음 + 단자음은 자음을 겹쳐 쓰고, 자음 + y는 y를 i로)나 more·most(긴 단어)로 만들며, good·well - better - best, bad - worse - worst, many·much - more - most는 불규칙 변화이다.\n풀이 순서: ① 불규칙으로 변하는 낱말(good, bad, many, little, far)이 있는지 먼저 본다. → ② 나머지는 규칙(-er/-est, y → i, 자음 겹치기, more/most)대로인지 본다. → ③ 긴 낱말 famous는 more - most를 쓰는데 ⑤는 famouser, famousest로 썼다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 긴 단어 famous는 more famous - most famous로 써야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 자음 + y라 y를 i로 바꾼 형태로 바르게 연결했으므로 오답이다.\n② [오답] 규칙 변화를 바르게 연결했으므로 오답이다.\n③ [오답] 단모음 + 단자음이라 자음을 겹쳐 쓴 형태로 바르게 연결했으므로 오답이다.\n④ [오답] 불규칙 변화를 바르게 연결했으므로 오답이다.\n⑤ [정답] 긴 단어 famous는 more famous - most famous로 써야 하므로 정답이다.",
+    "passage": null,
+    "stem": "다음 단어의 비교급과 최상급이 잘못 연결된 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:29:37.679Z"
+  },
+  "tab": "el3qe2ii",
+  "updatedAt": "2026-10-27T07:29:40.281Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:29:40.281Z",
+      "what": "확인 완료"
+    }
+  }
+}

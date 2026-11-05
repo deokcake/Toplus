@@ -1,0 +1,516 @@
+[
+ {
+  "key": "1-1",
+  "grade": 1,
+  "no": 1,
+  "chapter": "CH 1",
+  "chapter_name": "문장의 구조",
+  "ref": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "The flowers <u>smell sweet</u> in the garden.",
+    "The soup <u>tastes deliciously</u> today.",
+    "The music <u>sounds beautiful</u> at night.",
+    "The silk <u>feels soft</u> to touch.",
+    "The plan <u>seems reasonable</u> to me."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: smell, taste, sound, feel, look, seem처럼 주어의 상태를 설명하는 2형식 동사 뒤 보어 자리에는 부사가 아니라 형용사를 쓴다.\n풀이 순서: ① 밑줄마다 동사가 smell·taste·sound·feel·look·seem 같은 2형식 동사임을 확인한다. → ② 그 뒤에 온 말이 형용사인지 -ly로 끝나는 부사인지 가른다. → ③ 선택지 ②만 부사(deliciously)가 왔으므로 형용사(delicious)로 고쳐야 한다.\n문장별 판정:\n정답 판단: taste 뒤 보어 자리에 부사 deliciously를 썼다. 형용사 delicious로 고쳐야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] smell 뒤에 형용사 sweet가 보어로 와서 올바르므로 오답이다.\n② [정답] taste 뒤 보어 자리에 부사 deliciously를 썼다. 형용사 delicious로 고쳐야 하므로 정답이다.\n③ [오답] sound 뒤에 형용사 beautiful이 보어로 와서 올바르므로 오답이다.\n④ [오답] feel 뒤에 형용사 soft가 보어로 와서 올바르므로 오답이다.\n⑤ [오답] seem 뒤에 형용사 reasonable이 보어로 와서 올바르므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The cloth <u>feels rough</u> on my hands.",
+     "The proposal <u>sounds sensible</u> to us.",
+     "The student <u>looks nervous</u> before the test.",
+     "The milk <u>smells badly</u> this morning.",
+     "The bread <u>tastes wonderful</u> with butter."
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The coffee <u>tastes bitterly</u> without sugar.",
+     "The pillow <u>feels soft</u> under my head.",
+     "The tea <u>smells fresh</u> in the morning.",
+     "The melody <u>sounds calm</u> in the evening.",
+     "The plan <u>seems practical</u> to everyone."
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The idea <u>sounds reasonable</u> to me.",
+     "The soup <u>smells good</u> in the kitchen.",
+     "The sky <u>looks clear</u> after the rain.",
+     "The blanket <u>feels warmly</u> against my skin.",
+     "The lemonade <u>tastes sour</u> to the kids."
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The idea <u>sounds strangely</u> to everyone.",
+     "The child <u>looks sleepy</u> after lunch.",
+     "The weather <u>seems fine</u> for a picnic.",
+     "The cake <u>tastes sweet</u> with cream.",
+     "The sand <u>feels warm</u> under my feet."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The roses <u>smell fresh</u> in the vase.",
+     "The song <u>sounds beautiful</u> on the radio.",
+     "The room <u>looks comfortably</u> after the renovation.",
+     "The water <u>feels cold</u> in winter.",
+     "The answer <u>seems correct</u> at first glance."
+    ],
+    "ans": 3
+   }
+  },
+  "target_answer_position": 2,
+  "v1_pretest": {
+   "stem": "다음 <보기>에서 밑줄 친 부분이 어법상 옳은 것을 모두 고른 것은?",
+   "passage": "<보기>\nⓐ The new math teacher <u>looks friendly</u>, so the students like her a lot.\nⓑ The surface of the new desk <u>feels smoothly</u> under my fingers.\nⓒ The burnt toast <u>smells terrible</u>, so let's open the window.\nⓓ Your suggestion for the class trip <u>sounds greatly</u> to all of us.\nⓔ This cough medicine <u>tastes bitter</u>, so I always take it with honey.",
+   "c": [
+    "ⓐ, ⓑ, ⓒ",
+    "ⓐ, ⓒ, ⓔ",
+    "ⓐ, ⓓ, ⓔ",
+    "ⓑ, ⓒ, ⓔ",
+    "ⓒ, ⓓ, ⓔ"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: look, feel, smell, sound, taste처럼 주어의 상태를 설명하는 2형식 감각동사 뒤 보어 자리에는 부사가 아니라 형용사를 쓴다. friendly처럼 -ly로 끝나는 형용사도 있으므로 낱말의 품사를 확인해야 한다.\n풀이 순서: ① 밑줄마다 동사가 looks·feels·smells·sounds·tastes 같은 2형식 감각동사임을 확인한다. → ② 그 뒤에 온 보어가 형용사인지 부사인지 가린다. -ly로 끝나도 friendly는 형용사임에 주의한다. → ③ 형용사 보어를 바르게 쓴 것은 ⓐ, ⓒ, ⓔ이다. 정답은 ②.\n문장별 판정:\nⓐ O. friendly는 -ly로 끝나지만 ‘다정한, 친절한’이라는 뜻의 형용사이므로 looks 뒤 보어로 알맞다.\nⓑ X. feels 뒤 보어 자리에 부사 smoothly를 썼으므로 형용사 smooth로 고쳐야 한다.\nⓒ O. smells 뒤에 형용사 terrible이 보어로 와서 올바르다.\nⓓ X. sounds 뒤 보어 자리에 부사 greatly를 썼으므로 형용사 great로 고쳐야 한다.\nⓔ O. tastes 뒤에 형용사 bitter가 보어로 와서 올바르다.\n정답 판단: 2형식 감각동사 뒤에 형용사 보어를 바르게 쓴 것은 ⓐ, ⓒ, ⓔ이므로 정답은 ②이다.\n선택지 분석:\n① [오답] ⓑ는 feels 뒤에 부사 smoothly를 써서 틀렸고, 올바른 ⓔ가 빠졌으므로 오답이다.\n② [정답] ⓐ의 friendly, ⓒ의 terrible, ⓔ의 bitter는 모두 형용사로 감각동사 뒤 보어 자리에 알맞으므로 정답이다.\n③ [오답] ⓓ는 sounds 뒤에 부사 greatly를 써서 틀렸고, 올바른 ⓒ가 빠졌으므로 오답이다.\n④ [오답] friendly를 부사로 잘못 보아 올바른 ⓐ를 뺐고, 부사 smoothly를 쓴 ⓑ를 넣었으므로 오답이다.\n⑤ [오답] 형용사 friendly를 쓴 올바른 ⓐ가 빠졌고, 부사 greatly를 쓴 ⓓ를 넣었으므로 오답이다.",
+   "new_format": "<보기> 다섯 문장 중 밑줄 친 부분이 어법상 옳은 것을 모두 고른 조합 고르기(세 개씩 묶은 조합)",
+   "design": "look·feel·smell·sound·taste 같은 2형식 감각동사 뒤 보어 자리에 부사가 아니라 형용사를 쓰는 규칙을 그대로 평가한다. 어색한 것 하나 고르기를 <보기>에서 옳은 것을 모두 고르는 조합형으로 바꾸어 다섯 문장을 모두 판정하게 했고, 틀린 문장은 smoothly·greatly처럼 학생이 실제로 쓰는 -ly 부사 보어로 한 군데만 틀리게 했다. -ly로 끝나지만 형용사인 friendly를 옳은 문장에 넣어 ‘-ly로 끝나면 틀림’으로 찍지 못하게 하고, 조합은 모두 세 개씩 묶어 부분집합으로 헷갈리지 않게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 58/30 글자 254/139 정답 2",
+   "ERR  원문항보다 너무 김: 낱말 58 > 상한 45 (원문항 30) — 난이도가 올라감",
+   "ERR  원문항이 조합형이 아닌데 조합 고르기 형식 — 난이도가 올라감"
+  ],
+  "reviewer_memo_on_v1": "문제의 질은 좋지만 다소 어려움. 1번 문항은 난이도 하"
+ },
+ {
+  "key": "1-34",
+  "grade": 1,
+  "no": 34,
+  "chapter": "CH 4",
+  "chapter_name": "수동태",
+  "ref": {
+   "stem": "다음 두 문장의 뜻이 같도록 할 때 빈칸에 알맞은 말을 고르시오.",
+   "passage": "It is believed that the ancient statue was created by aliens.\n= The ancient statue is believed _____ created by aliens.",
+   "c": [
+    "was",
+    "being",
+    "to have been",
+    "will be",
+    "that was"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: It is believed/said that + 주어 + 동사 ~는 ‘주어 + is believed/said + to부정사’로 바꿀 수 있다. that절의 일이 주절보다 먼저 일어났으면 완료부정사(to have + 과거분사)를 쓰고, 수동이면 to have been + 과거분사가 된다.\n풀이 순서: ① 첫 문장에서 주절과 that절의 시제를 견준다: 주절은 현재(is believed), that절은 과거(was created). → ② that절의 주어를 문장 앞으로 꺼내면 동사는 to부정사가 되는데, that절이 한 시제 앞서므로 to have + 과거분사를 쓴다. → ③ 빈칸 뒤에 과거분사 created가 있으므로 수동의 been까지 넣는다. 정답은 to have been.\n문장별 판정:\n정답 판단: 믿는 것은 현재, 만들어진 것은 과거이므로 완료부정사 to have been (created)로 바르게 나타냈으므로 정답은 ③이다.\n선택지 분석:\n① [오답] is believed 뒤에 동사 was를 바로 이어 쓸 수 없으므로 오답이다.\n② [오답] is believed 뒤에는 being이 아니라 to부정사가 와야 하므로 오답이다.\n③ [정답] 믿는 것은 현재, 만들어진 것은 과거이므로 완료부정사 to have been (created)로 바르게 나타냈으므로 정답이다.\n④ [오답] will be는 미래를 나타내고 is believed 뒤에 올 수 없으므로 오답이다.\n⑤ [오답] 주어를 문장 앞으로 꺼낸 뒤에는 that절을 쓸 수 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 두 문장의 뜻이 같도록 할 때 빈칸에 알맞은 말을 고르시오.",
+    "passage": "Experts say that the species was discovered recently.\n= The species is said _____ discovered recently.",
+    "c": [
+     "was",
+     "having",
+     "to have been",
+     "will be",
+     "that is"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 두 문장의 뜻이 같도록 할 때 빈칸에 알맞은 말을 고르시오.",
+    "passage": "People say that the manuscript was written in the 15th century.\n= The manuscript is said _____ written in the 15th century.",
+    "c": [
+     "to be",
+     "to have been",
+     "being",
+     "had been",
+     "that was"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 두 문장의 뜻이 같도록 할 때 빈칸에 알맞은 말을 고르시오.",
+    "passage": "People believe that the bridge was built by the Romans.\n= The bridge is believed _____ by the Romans.",
+    "c": [
+     "to have built",
+     "to have been built",
+     "having been built",
+     "to be built",
+     "to be building"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 두 문장의 뜻이 같도록 할 때 빈칸에 알맞은 말을 고르시오.",
+    "passage": "They think that the painting was stolen years ago.\n= The painting is thought _____ years ago.",
+    "c": [
+     "to be stealing",
+     "having been stolen",
+     "to have stolen",
+     "to have been stolen",
+     "to be stolen"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 두 문장의 뜻이 같도록 할 때 빈칸에 알맞은 말을 고르시오.",
+    "passage": "People believe that the town was destroyed by fire.\n= The town is believed _____ by fire.",
+    "c": [
+     "having been destroyed",
+     "to have destroyed",
+     "to have been destroyed",
+     "to be destroyed",
+     "to be destroying"
+    ],
+    "ans": 3
+   }
+  },
+  "target_answer_position": 3,
+  "v1_pretest": {
+   "stem": "다음 중 두 문장의 뜻이 같도록 바르게 바꾼 것의 개수를 고르시오.",
+   "passage": "ⓐ It is said that the stone tower was built about 800 years ago.\n= The stone tower is said to have been built about 800 years ago.\nⓑ It is thought that the twins are very good at chess.\n= The twins are thought to be very good at chess.\nⓒ It is believed that the museum was designed by a young architect.\n= The museum is believed to have designed by a young architect.\nⓓ It is known that the old fisherman saved three children from the river.\n= The old fisherman is known to have saved three children from the river.\nⓔ It is reported that the lost dog was found by a firefighter yesterday.\n= The lost dog is reported to be found by a firefighter yesterday.",
+   "c": [
+    "1개",
+    "2개",
+    "3개",
+    "4개",
+    "5개"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: It is said/thought/believed that + 주어 + 동사 ~는 ‘주어 + is said/thought/believed + to부정사’로 바꿀 수 있다. that절의 일이 주절과 같은 때이면 to + 동사원형을, 주절보다 먼저 일어났으면 완료부정사 to have + 과거분사를 쓰고, that절이 수동태이면 to be + 과거분사나 to have been + 과거분사로 쓴다.\n풀이 순서: ① 쌍마다 주절(is said 등)과 that절의 시제를 견주어 같은 때인지 that절이 앞선 때인지 확인한다. → ② that절이 수동태(was built 등)인지 능동태인지 보고 been이 필요한지 확인한다. → ③ 바르게 바꾼 것은 ⓐ, ⓑ, ⓓ로 3개이다. 정답은 ③.\n문장별 판정:\nⓐ O. 주절은 현재, that절은 과거의 수동(was built)이므로 to have been built로 바르게 바꿨다.\nⓑ O. 주절과 that절이 모두 현재(is thought / are)이므로 단순부정사 to be로 바르게 바꿨다.\nⓒ X. that절이 과거의 수동(was designed)이므로 to have designed를 to have been designed로 고쳐야 한다.\nⓓ O. 주절은 현재, that절은 과거의 능동(saved)이므로 to have saved로 바르게 바꿨다.\nⓔ X. that절의 일(was found ~ yesterday)이 주절보다 앞서므로 to be found를 to have been found로 고쳐야 한다.\n정답 판단: 바르게 바꾼 것은 ⓐ, ⓑ, ⓓ로 3개이므로 정답은 ③이다.\n선택지 분석:\n① [오답] 바르게 바꾼 것은 ⓐ, ⓑ, ⓓ로 3개이다. 같은 때라 단순부정사를 쓴 ⓑ와 능동의 완료부정사를 쓴 ⓓ도 옳으므로 이 보기의 1개는 실제 개수와 일치하지 않아 오답이다.\n② [오답] 바르게 바꾼 것은 ⓐ, ⓑ, ⓓ로 3개이다. 주절과 같은 때의 일이라 to be를 쓴 ⓑ도 옳으므로 이 보기의 2개는 실제 개수와 일치하지 않아 오답이다.\n③ [정답] ⓐ(to have been built), ⓑ(to be), ⓓ(to have saved)는 바르게 바꿨고 ⓒ, ⓔ는 틀렸으므로 3개가 맞아 정답이다.\n④ [오답] 바르게 바꾼 것은 ⓐ, ⓑ, ⓓ로 3개이다. ⓒ의 to have designed는 수동의 been이 빠져 틀렸으므로 이 보기의 4개는 실제 개수와 일치하지 않아 오답이다.\n⑤ [오답] 바르게 바꾼 것은 ⓐ, ⓑ, ⓓ로 3개이다. ⓒ는 been이 빠졌고 ⓔ는 앞선 때의 일에 완료부정사를 쓰지 않았으므로 이 보기의 5개는 실제 개수와 일치하지 않아 오답이다.",
+   "new_format": "It is said that ~ 문장을 ‘주어 + is said + to부정사’로 바꾼 다섯 쌍 중 바르게 바꾼 것의 개수 고르기",
+   "design": "It is said/believed that ~을 ‘주어 + is said/believed + to부정사’로 바꿀 때 that절이 주절보다 앞선 때이면 완료부정사를, 수동이면 to have been + 과거분사를 쓰는 규칙을 그대로 평가한다. 빈칸 하나 고르기를 다섯 쌍의 전환을 판정하는 개수형으로 바꾸었고, 같은 때라 단순부정사가 맞는 쌍(ⓑ)과 능동의 완료부정사가 맞는 쌍(ⓓ)을 넣어 ‘have been이 있으면 맞음’으로 찍지 못하게 했다. 틀린 쌍은 수동의 been이 빠진 것(ⓒ)과 앞선 때인데 단순부정사를 쓴 것(ⓔ)으로, 원문항 오답과 같은 실수를 한 군데씩만 담았다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 119/28 글자 520/123 정답 3",
+   "ERR  원문항보다 너무 김: 낱말 119 > 상한 42 (원문항 28) — 난이도가 올라감",
+   "ERR  원문항이 개수형이 아닌데 개수 세기 형식 — 난이도가 올라감"
+  ],
+  "reviewer_memo_on_v1": "기준문항에 비해 난이도가 높음"
+ },
+ {
+  "key": "1-45",
+  "grade": 1,
+  "no": 45,
+  "chapter": "CH 5",
+  "chapter_name": "부정사",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 말로 알맞게 연결된 것을 고르시오.",
+   "passage": "It appeared that he had already left the office.\n= He appeared to (A) ______ the office already.\nIt appears that she understands the problem.\n= She appears to (B) ______ the problem.",
+   "c": [
+    "have left - understand",
+    "had left - understand",
+    "leave - have understood",
+    "have left - have understood",
+    "left - have understood"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: It seems/appears that ~을 ‘주어 + seem/appear + to부정사’로 바꿀 때, that절의 시제가 주절과 같으면 단순부정사(to + 동사원형), 주절보다 앞서면 완료부정사(to have + 과거분사)를 쓴다.\n풀이 순서: ① 문장 쌍마다 주절과 that절의 시제를 견준다. → ② 첫째 쌍(appeared / had left)은 that절이 한 시제 앞서므로 (A)는 완료부정사 have + 과거분사다. 둘째 쌍(appears / understands)은 시제가 같으므로 (B)는 동사원형이다. → ③ 정답은 have left - understand.\n문장별 판정:\n정답 판단: (A)는 appeared보다 앞선 had left이므로 have left, (B)는 appears와 같은 때이므로 understand가 맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] (A)는 appeared보다 앞선 had left이므로 have left, (B)는 appears와 같은 때이므로 understand가 맞으므로 정답이다.\n② [오답] to 뒤에 had를 쓸 수 없으므로 오답이다.\n③ [오답] (A)와 (B)의 형태가 서로 바뀌었으므로 오답이다.\n④ [오답] (B)는 appears와 같은 때의 일이라 완료부정사를 쓰지 않으므로 오답이다.\n⑤ [오답] to 뒤에 과거형 left를 쓸 수 없고 (B)도 완료부정사가 아니므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞게 연결된 것을 고르시오.",
+    "passage": "It seemed that Mina had finished the work.\n= Mina seemed to (A)_____ the work.\nIt seems that the system works well.\n= The system seems to (B)_____.",
+    "c": [
+     "have finished - work well",
+     "finish - work well",
+     "finished - work well",
+     "have finished - have worked well",
+     "to have finished - to work well"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞게 연결된 것을 고르시오.",
+    "passage": "It seemed that the team had lost the game.\n= The team seemed to (A) ______ the game.\nIt seems that Jiho likes spicy food.\n= Jiho seems to (B) ______ spicy food.",
+    "c": [
+     "lose - like",
+     "have lost - have liked",
+     "lost - like",
+     "to have lost - to like",
+     "have lost - like"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞게 연결된 것을 고르시오.",
+    "passage": "It seemed that the train had departed.\n= The train seemed to (A)_____.\nIt seems that Jane knows the answer.\n= Jane seems to (B)_____ the answer.",
+    "c": [
+     "have departed - know",
+     "to have departed - to know",
+     "have departed - have known",
+     "departed - know",
+     "depart - know"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞게 연결된 것을 고르시오.",
+    "passage": "It appeared that they had forgotten the key to the classroom.\n= They appeared to (A)_____ the key to the classroom.\nIt appears that Leo is tired after the long trip.\n= Leo appears to (B)_____ after the long trip.",
+    "c": [
+     "forgotten - be tired",
+     "have forgotten - be tired",
+     "forget - be tired",
+     "to have forgotten - to be tired",
+     "have forgotten - have been tired"
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞게 연결된 것을 고르시오.",
+    "passage": "It appeared that Tom had been sick for a few days.\n= Tom appeared to (A)_____ for a few days.\nIt appears that Jane is ready for the big race.\n= Jane appears to (B)_____ for the big race.",
+    "c": [
+     "to have been sick - to be ready",
+     "have been sick - have been ready",
+     "be sick - be ready",
+     "have been sick - be ready",
+     "been sick - be ready"
+    ],
+    "ans": 4
+   }
+  },
+  "target_answer_position": 1,
+  "v1_pretest": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "Daniel looks upset now. He <u>seems to lose</u> his wallet on the bus yesterday.",
+    "The kids are covered in mud. They <u>appear to have played</u> soccer in the rain.",
+    "Ms. Yoon speaks Spanish very well. She <u>seems to have lived</u> in Mexico for years.",
+    "Look at Minho's big smile. He <u>seems to be</u> very happy with his test score.",
+    "Our new neighbor greets everyone by name. She <u>appears to know</u> all the people on our street."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: ‘주어 + seem/appear + to부정사’에서 to부정사의 일이 seem/appear와 같은 때이면 단순부정사(to + 동사원형)를, seem/appear보다 먼저 일어난 일이면 완료부정사(to have + 과거분사)를 쓴다.\n풀이 순서: ① 밑줄마다 seem/appear의 시제(현재)와 to부정사가 나타내는 일의 때(yesterday 등 앞 문장과 시간 표현)를 견준다. → ② 같은 때의 일이면 to + 동사원형, 앞선 때의 일이면 to have + 과거분사를 썼는지 확인한다. → ③ 선택지 ①은 어제 일어난 일인데 단순부정사 to lose를 써서 어색하다. 정답은 ①.\n문장별 판정:\n정답 판단: 지갑을 잃어버린 일(yesterday)은 지금 그렇게 보이는 것(seems)보다 앞선 일이다. seems to lose를 seems to have lost로 고쳐야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] 어제(yesterday) 지갑을 잃어버린 일은 seems보다 앞선 때이므로 완료부정사 to have lost를 써야 하는데 단순부정사 to lose를 써서 어색하므로 정답이다.\n② [오답] 지금 진흙투성이인 것보다 앞서 빗속에서 축구를 한 일이므로 완료부정사 to have played가 알맞아 오답이다.\n③ [오답] 지금 스페인어를 잘하는 것보다 앞서 멕시코에서 여러 해 살았던 일이므로 완료부정사 to have lived가 알맞아 오답이다.\n④ [오답] 지금 크게 웃고 있는 모습과 같은 때에 기분이 좋은 것이므로 단순부정사 to be가 알맞아 오답이다.\n⑤ [오답] 거리의 모든 사람을 아는 것은 appears와 같은 때(지금)의 일이므로 단순부정사 to know가 알맞아 오답이다.",
+   "new_format": "앞 문장으로 상황이 주어진 다섯 보기 중 밑줄 친 seem/appear + to부정사가 어법상 어색한 것 고르기",
+   "design": "seem/appear + to부정사에서 seem/appear보다 앞선 일은 완료부정사(to have + 과거분사), 같은 때의 일은 단순부정사(to + 동사원형)를 쓰는 규칙을 그대로 평가한다. It seems that 전환의 (A)·(B) 짝 고르기를 앞 문장과 yesterday 같은 시간 표현으로 때를 판단해 어색한 것 하나를 고르는 형식으로 바꾸었다. 옳은 보기에 완료부정사 둘과 단순부정사 둘을 고르게 넣어 형태만으로는 고를 수 없게 했고, 어색한 문장은 어제 일에 단순부정사를 쓴 한 군데만 틀리게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 76/43 글자 309/227 정답 1",
+   "ERR  원문항보다 너무 김: 낱말 76 > 상한 64 (원문항 43) — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "1-56",
+  "grade": 1,
+  "no": 56,
+  "chapter": "CH 6",
+  "chapter_name": "동명사",
+  "ref": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+   "passage": "나는 그 책을 읽은 것을 기억한다.",
+   "c": [
+    "I remember to read that book.",
+    "I remembered reading that book.",
+    "I remember that I will read that book.",
+    "I remember read that book.",
+    "I remember reading that book."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: remember + 동명사는 ‘(전에) ~한 것을 기억하다’, remember + to부정사는 ‘(앞으로) ~할 것을 기억하다’라는 뜻이다.\n풀이 순서: ① 우리말 ‘읽은 것을 기억한다’은 이미 한 일을 지금 기억한다는 뜻이다. → ② 이미 한 일을 기억할 때는 remember + 동명사(reading)를 쓴다. remember + to부정사는 ‘앞으로 할 일을 기억하다’라 뜻이 다르다. → ③ remember의 시제가 우리말과 다르거나 뒤에 동사원형·will을 쓴 보기를 지운다. 정답은 I remember reading that book.\n문장별 판정:\n정답 판단: ‘읽은 것을 기억한다’를 remember + 동명사로 바르게 나타냈으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] remember + to부정사는 ‘앞으로 읽을 것을 기억하다’라는 뜻이라 우리말과 맞지 않으므로 오답이다.\n② [오답] remembered는 ‘기억했다’라 우리말 ‘기억한다’와 시제가 다르므로 오답이다.\n③ [오답] will read는 앞으로 읽을 것이라는 뜻이라 우리말과 맞지 않으므로 오답이다.\n④ [오답] remember 뒤에 동사원형 read를 바로 이어 쓸 수 없으므로 오답이다.\n⑤ [정답] ‘읽은 것을 기억한다’를 remember + 동명사로 바르게 나타냈으므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "나는 그 박물관을 방문했던 것을 기억한다.",
+    "c": [
+     "I remember to visit that museum.",
+     "I remembered visiting that museum.",
+     "I remember visiting that museum.",
+     "I remember I will visit that museum.",
+     "I remember visit that museum."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "나는 Mina를 만났던 것을 기억한다.",
+    "c": [
+     "I remember meeting Mina.",
+     "I remember to meet Mina.",
+     "I remembered meeting Mina.",
+     "I remember I will meet Mina.",
+     "I remember meet Mina."
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "나는 문을 잠갔던 것을 기억한다.",
+    "c": [
+     "I remember to lock the door.",
+     "I remembered locking the door.",
+     "I remember I will lock the door.",
+     "I remember locking the door.",
+     "I remember lock the door."
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "나는 그 비밀을 말했던 것을 기억한다.",
+    "c": [
+     "I remember tell the secret.",
+     "I remember to tell the secret.",
+     "I remembered telling the secret.",
+     "I remember I will tell the secret.",
+     "I remember telling the secret."
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "나는 그 영화를 봤던 것을 기억한다.",
+    "c": [
+     "I remembered seeing that movie.",
+     "I remember seeing that movie.",
+     "I remember to see that movie.",
+     "I remember see that movie.",
+     "I remember I will see that movie."
+    ],
+    "ans": 2
+   }
+  },
+  "target_answer_position": 5,
+  "v1_pretest": {
+   "stem": "다음 중 우리말을 영어로 잘못 옮긴 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "나는 어렸을 때 이 강에서 아빠와 낚시했던 것을 기억한다. → I remember fishing in this river with my dad when I was young.",
+    "내일 아침에 체육복을 가져올 것을 기억해라. → Remember to bring your gym clothes tomorrow morning.",
+    "수민이는 그 가수와 함께 사진을 찍었던 것을 기억한다. → Sumin remembers taking a picture with the singer.",
+    "나는 집을 나서기 전에 잊지 않고 불을 껐다. → I remembered to turn off the lights before I left the house.",
+    "나는 작년 여름에 수족관에서 상어를 보았던 것을 기억한다. → I remember to see sharks at the aquarium last summer."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: remember + 동명사(-ing)는 ‘(과거에) ~한 것을 기억하다’, remember + to부정사는 ‘(앞으로) ~할 것을 기억하다, 잊지 않고 ~하다’라는 뜻이다.\n풀이 순서: ① 우리말에서 기억하는 내용이 이미 한 일(~했던 것)인지 앞으로 할 일(~할 것, 잊지 않고 ~하다)인지 확인한다. → ② 이미 한 일이면 remember + -ing를, 앞으로 할 일이면 remember + to부정사를 썼는지 본다. → ③ 선택지 ⑤는 작년 여름에 이미 본 일인데 to see를 썼으므로 잘못 옮겼다. 정답은 ⑤.\n문장별 판정:\n정답 판단: ‘상어를 보았던 것을 기억한다’는 이미 한 일을 기억하는 것이라 remember seeing으로 써야 한다. to see를 써서 잘못 옮겼으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 어렸을 때 이미 한 일(낚시했던 것)을 기억하므로 remember fishing으로 바르게 옮겨 오답이다.\n② [오답] 내일 아침에 할 일을 기억하라는 뜻이므로 Remember to bring으로 바르게 옮겨 오답이다.\n③ [오답] 이미 한 일(사진을 찍었던 것)을 기억하므로 remembers taking으로 바르게 옮겨 오답이다.\n④ [오답] ‘잊지 않고 ~했다’는 할 일을 기억해서 실제로 한 것이므로 과거의 일이어도 remembered to turn off로 바르게 옮겨 오답이다.\n⑤ [정답] 작년 여름에 이미 본 일을 기억하는 것이므로 remember seeing으로 써야 하는데 remember to see로 잘못 옮겼으므로 정답이다.",
+   "new_format": "우리말 - 영어 다섯 쌍 중 우리말을 영어로 잘못 옮긴 것 고르기",
+   "design": "remember + 동명사(이미 한 일을 기억하다)와 remember + to부정사(앞으로 할 일을 기억하다, 잊지 않고 ~하다)의 뜻 차이를 그대로 평가한다. 우리말 하나를 바르게 옮긴 영어 고르기를 우리말 - 영어 다섯 쌍 중 잘못 옮긴 것 고르기로 바꾸어 쌍마다 이미 한 일인지 할 일인지를 판단하게 했다. ‘잊지 않고 불을 껐다(remembered to)’처럼 과거의 일인데 to부정사가 맞는 쌍과 명령문 Remember to를 넣어 ‘과거면 -ing’로 단순하게 찍지 못하게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 51/29 글자 334/137 정답 5",
+   "ERR  원문항보다 너무 김: 낱말 51 > 상한 43 (원문항 29) — 난이도가 올라감"
+  ]
+ },
+ {
+  "key": "1-67",
+  "grade": 1,
+  "no": 67,
+  "chapter": "CH 7",
+  "chapter_name": "분사",
+  "ref": {
+   "stem": "다음 대화의 빈칸에 들어갈 알맞은 표현을 고르시오.",
+   "passage": "A: How was the party last night?\nB: __________(솔직히 말하면), it was quite boring. I left early.",
+   "c": [
+    "Speaking of",
+    "Strictly speaking",
+    "Judging from",
+    "Considering that",
+    "Frankly speaking"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 분사로 된 관용 표현은 뜻과 함께 익힌다: frankly speaking(솔직히 말하면), generally speaking(일반적으로 말하면), strictly speaking(엄밀히 말하면), speaking of(~ 이야기가 나와서 말인데), judging from(~로 판단하건대), considering (that)(~을 고려하면).\n풀이 순서: ① 빈칸 옆의 우리말 뜻(솔직히 말하면)을 확인한다. → ② 그 뜻의 분사 관용 표현을 고른다: Frankly speaking. → ③ 빈칸 뒤와 이어 읽어 확인한다. ‘솔직히 말하면, 꽤 지루했다.’로 자연스럽다.\n문장별 판정:\n정답 판단: Frankly speaking이 ‘솔직히 말하면’이라는 뜻이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] Speaking of는 ‘~ 이야기가 나와서 말인데’라는 뜻이므로 오답이다.\n② [오답] Strictly speaking은 ‘엄밀히 말하면’이라는 뜻이므로 오답이다.\n③ [오답] Judging from은 ‘~로 판단하건대’라는 뜻이므로 오답이다.\n④ [오답] Considering that은 ‘~을 고려하면’이라는 뜻이므로 오답이다.\n⑤ [정답] Frankly speaking이 ‘솔직히 말하면’이라는 뜻이므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 대화의 빈칸에 들어갈 알맞은 표현을 고르시오.",
+    "passage": "A: Is it usually cold here in March?\nB: __________(일반적으로 말하면), it gets warm by the end of March.",
+    "c": [
+     "Frankly speaking",
+     "Generally speaking",
+     "Judging from",
+     "Speaking of",
+     "Strictly speaking"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 대화의 빈칸에 들어갈 알맞은 표현을 고르시오.",
+    "passage": "A: Did you hear that the concert was canceled?\nB: Yes. __________(~ 이야기가 나와서 말인데) concerts, are you going to the festival next week?",
+    "c": [
+     "Frankly speaking",
+     "Strictly speaking",
+     "Speaking of",
+     "Judging from",
+     "Generally speaking"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 대화의 빈칸에 들어갈 알맞은 표현을 고르시오.",
+    "passage": "A: Is that explanation scientifically exact?\nB: __________(엄밀히 말하면), the term is not completely accurate.",
+    "c": [
+     "Generally speaking",
+     "Speaking of",
+     "Strictly speaking",
+     "Needless to say",
+     "To make matters worse"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 대화의 빈칸에 들어갈 알맞은 표현을 고르시오.",
+    "passage": "A: Do you think the project will succeed?\nB: __________(~로 판단하건대) the current results, it looks promising.",
+    "c": [
+     "Needless to say",
+     "Generally speaking",
+     "To make matters worse",
+     "Judging from",
+     "Speaking of"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 대화의 빈칸에 들어갈 알맞은 표현을 고르시오.",
+    "passage": "A: Why did you choose the train?\nB: __________(~을 고려하면) the heavy traffic, it seemed safer.",
+    "c": [
+     "Generally speaking",
+     "Speaking of",
+     "Needless to say",
+     "To make matters worse",
+     "Considering"
+    ],
+    "ans": 5
+   }
+  },
+  "target_answer_position": 3,
+  "v1_pretest": {
+   "stem": "다음 밑줄 친 표현의 우리말 뜻이 알맞지 않은 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "<u>Generally speaking</u>(일반적으로 말하면), it rains a lot in this area in summer.",
+    "<u>Judging from</u>(~로 판단하건대) his accent, Mr. Lee must be from Busan.",
+    "<u>Strictly speaking</u>(솔직히 말하면), a tomato is a fruit, not a vegetable.",
+    "<u>Speaking of</u>(~ 이야기가 나와서 말인데) movies, have you seen the new animated film?",
+    "<u>Considering</u>(~을 고려하면) his age, my grandfather is very healthy and strong."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 분사로 된 관용 표현은 뜻과 함께 익힌다: generally speaking(일반적으로 말하면), strictly speaking(엄밀히 말하면), frankly speaking(솔직히 말하면), speaking of(~ 이야기가 나와서 말인데), judging from(~로 판단하건대), considering(~을 고려하면).\n풀이 순서: ① 밑줄 친 표현마다 알고 있는 뜻을 떠올린다. → ② 괄호 안의 우리말 뜻과 견주고, 문장의 흐름과도 맞는지 확인한다. → ③ 선택지 ③의 Strictly speaking은 ‘엄밀히 말하면’인데 ‘솔직히 말하면’으로 잘못 풀이했다. 정답은 ③.\n문장별 판정:\n정답 판단: Strictly speaking은 ‘엄밀히 말하면’이라는 뜻이고 ‘솔직히 말하면’은 frankly speaking의 뜻이므로 정답은 ③이다.\n선택지 분석:\n① [오답] Generally speaking은 ‘일반적으로 말하면’이라는 뜻이고 이 지역의 여름 날씨를 일반적으로 말하는 흐름에도 맞으므로 오답이다.\n② [오답] Judging from은 ‘~로 판단하건대’라는 뜻이고 말투를 근거로 출신 지역을 판단하는 흐름에도 맞으므로 오답이다.\n③ [정답] Strictly speaking은 ‘엄밀히 말하면’이라는 뜻이다. 토마토가 엄밀히 따지면 채소가 아니라 과일이라는 흐름에도 ‘엄밀히 말하면’이 맞으므로 ‘솔직히 말하면’은 잘못된 풀이라 정답이다.\n④ [오답] Speaking of는 ‘~ 이야기가 나와서 말인데’라는 뜻이고 영화 이야기를 꺼내는 흐름에도 맞으므로 오답이다.\n⑤ [오답] Considering은 ‘~을 고려하면’이라는 뜻이고 나이를 고려하면 매우 건강하다는 흐름에도 맞으므로 오답이다.",
+   "new_format": "다섯 문장 속 밑줄 친 분사 관용 표현 중 괄호 안의 우리말 뜻이 알맞지 않은 것 고르기",
+   "design": "분사로 된 관용 표현(generally speaking, strictly speaking, speaking of, judging from, considering)의 뜻을 아는지 그대로 평가한다. 우리말 뜻에 맞는 표현을 고르는 원문항을 거꾸로 하여, 다섯 문장 속 표현의 우리말 풀이가 틀린 것을 고르게 바꾸었고 문장마다 뜻을 뒷받침하는 문맥(말투로 판단, 토마토는 과일, 나이를 고려)을 넣었다. 틀린 풀이에는 꼴이 비슷한 다른 표현(frankly speaking)의 뜻 ‘솔직히 말하면’을 붙여 표현을 정확히 알아야 가려낼 수 있게 했다."
+  },
+  "v1_difficulty_problems": [
+   "낱말 51/25 글자 275/128 정답 3",
+   "ERR  원문항보다 너무 김: 낱말 51 > 상한 37 (원문항 25) — 난이도가 올라감"
+  ]
+ }
+]

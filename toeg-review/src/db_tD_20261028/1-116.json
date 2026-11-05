@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:50:18.987Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "are",
+      "1": "is",
+      "2": "be",
+      "3": "were",
+      "4": "have"
+    },
+    "expl": "핵심 규칙: the number of + 복수명사는 “~의 수”라는 단수 개념이므로 동사는 the number에 맞춰 단수형을 쓴다. 뒤의 복수명사에 동사를 일치시키지 않는다.\n풀이 순서: ① 주어가 The number of ~로 시작한다. ‘~의 수’라는 뜻이므로 주어의 중심은 The number다. → ② 주어 안의 복수명사(applicants)에 끌리지 않고 단수 동사를 고른다. → ③ 빈칸 뒤에 -ing형(growing)이 있으므로 be동사 is가 들어간다. 정답은 ②.\n문장별 판정:\n정답 판단: The number of applicants의 중심어 The number가 단수이므로 is가 정답이다.\n선택지 분석:\n① [오답] 주어의 중심은 The number이라는 단수 표현이므로 are는 현재 문장의 수·형태와 맞지 않는다.\n② [정답] 주어의 중심은 복수명사 applicants가 아니라 The number이므로 단수동사 is가 맞다.\n③ [오답] 주어의 중심은 The number이라는 단수 표현이므로 be는 현재 문장의 수·형태와 맞지 않는다.\n④ [오답] 주어의 중심은 The number이라는 단수 표현이므로 were는 현재 문장의 수·형태와 맞지 않는다.\n⑤ [오답] 주어의 중심은 The number이라는 단수 표현이므로 have는 현재 문장의 수·형태와 맞지 않는다.",
+    "passage": "The number of applicants for the new job ________ growing rapidly this year.",
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T09:57:15.737Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T09:57:26.291Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:50:18.987Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:50:12.415Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:50:18.987Z",
+      "what": "확인 완료"
+    }
+  }
+}

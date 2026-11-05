@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-26T07:11:00.772Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "This bridge is older than all the other bridges in the city.",
+      "1": "No other bridge in the city is as old as this one.",
+      "2": "This is the oldest bridge in the city.",
+      "3": "This bridge is older than any other bridge in the city.",
+      "4": "This bridge is newer than any other bridge in the city."
+    },
+    "expl": "핵심 규칙: 최상급(the -est), 비교급 + than any other + 단수명사, 비교급 + than all the other + 복수명사, No other + 단수명사 + as ~ as는 모두 ‘가장 ~하다’는 뜻이다.\n풀이 순서: ① 보기 가운데 최상급 문장을 기준으로 뜻을 잡는다: 이 다리가 도시에서 가장 오래되었다. → ② 나머지 문장이 같은 뜻인지 하나씩 옮겨 본다. than any other, than all the other, No other ~ as … as는 모두 같은 뜻이다. → ③ 선택지 ⑤만 뜻이 다르다: ‘이 다리가 다른 어떤 다리보다 새것이다’.\n문장별 판정:\n정답 판단: 가장 새 다리라는 반대의 뜻이라 뜻이 나머지와 다르므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] ‘가장 ~하다’는 최상급의 뜻이라 나머지와 같다. 오답이다.\n② [오답] ‘가장 ~하다’는 최상급의 뜻이라 나머지와 같다. 오답이다.\n③ [오답] ‘가장 ~하다’는 최상급의 뜻이라 나머지와 같다. 오답이다.\n④ [오답] ‘가장 ~하다’는 최상급의 뜻이라 나머지와 같다. 오답이다.\n⑤ [정답] 가장 새 다리라는 반대의 뜻이라 뜻이 나머지와 다르므로 정답이다.",
+    "passage": null,
+    "stem": "다음 중 의미가 나머지와 다른 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T06:50:54.804Z"
+  },
+  "tab": "mtbqujsm",
+  "updatedAt": "2026-10-26T07:11:00.772Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T07:11:00.772Z",
+      "what": "확인 완료"
+    }
+  }
+}

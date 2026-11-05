@@ -1,0 +1,197 @@
+{
+ "key": "1-9",
+ "type": "F",
+ "grade": 1,
+ "chapter": "CH 1 문장의 구조",
+ "title": "목적어의 상태를 말하는 목적격 보어",
+ "total_sec": 129,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "1급 · CH 1 문장의 구조 · 9번 · F 유형\n\n이 문제는 목적격 보어 자리의 형용사와 부사를 가려 어법상 어색한 문장의 개수를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "1급 · CH 1 문장의 구조 · 9번 · F 유형",
+     "이 문제는 목적격 보어 자리의 형용사와 부사를 가려 어법상 어색한 문장의 개수를 고르는 문제예요."
+    ]
+   },
+   "narration": "1급 챕터 1, 9번 F 유형. 이 문제는 목적격 보어 자리의 형용사와 부사를 가려 어법상 어색한 문장의 개수를 고르는 문제예요.",
+   "caption": "목적격 보어 자리의 형용사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 17,
+   "screen": {
+    "text": "다음 중 어법상 어색한 문장의 개수는?\n\n(a) The speech about courage made everyone inspiringly.\n(b) They found the science task difficult at first.\n(c) We kept the front door locked all night.\n(d) The loud noise kept the baby awake for hours.\n(e) I found the movie entertaining from start to finish.\n\n① 1개\n② 2개\n③ 3개\n④ 4개\n⑤ 5개",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 어법상 어색한 문장의 개수는?",
+     "(a) The speech about courage made everyone inspiringly.",
+     "(b) They found the science task difficult at first.",
+     "(c) We kept the front door locked all night.",
+     "(d) The loud noise kept the baby awake for hours.",
+     "(e) I found the movie entertaining from start to finish.",
+     "① 1개",
+     "② 2개",
+     "③ 3개",
+     "④ 4개",
+     "⑤ 5개"
+    ]
+   },
+   "narration": "어법상 어색한 문장은 몇 개인지 고르세요. 지문의 다섯 문장을 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\nmake, keep, find, leave + 목적어 + 목적격 보어\n목적어의 상태를 말할 때 → 주로 형용사나 분사 (happy, tired, running)\n우리말이 ‘행복하게’여도 -ly 부사(happily, slowly) ✗\nfriendly, lovely는 -ly로 끝나도 형용사 → ✓\n예) The long trip made us tired. (긴 여행은 우리를 피곤하게 했어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "make, keep, find, leave + 목적어 + 목적격 보어",
+     "목적어의 상태를 말할 때 → 주로 형용사나 분사 (happy, tired, running)",
+     "우리말이 ‘행복하게’여도 -ly 부사(happily, slowly) ✗",
+     "friendly, lovely는 -ly로 끝나도 형용사 → ✓",
+     "예) The long trip made us tired. (긴 여행은 우리를 피곤하게 했어요.)"
+    ]
+   },
+   "narration": "make, keep, find, leave는 목적어 뒤에 그 목적어의 상태를 말하는 목적격 보어를 쓸 수 있어요. 목적어의 상태를 말할 때는 주로 형용사나 분사를 써요. 우리말로 행복하게처럼 옮겨져도, 형용사에 ly를 붙인 부사는 이 자리에 쓰지 않아요. 예를 들어 The long trip made us tired. 긴 여행은 우리를 피곤하게 했어요.",
+   "caption": "목적어의 상태는 형용사·분사"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 35,
+   "screen": {
+    "text": "다음 중 어법상 어색한 문장의 개수는?\n\n(a) The speech about courage made everyone inspiringly.\n(b) They found the science task difficult at first.\n(c) We kept the front door locked all night.\n(d) The loud noise kept the baby awake for hours.\n(e) I found the movie entertaining from start to finish.\n\n① 1개\n② 2개\n③ 3개\n④ 4개\n⑤ 5개",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "made everyone inspiringly",
+       "found the science task difficult",
+       "kept the front door locked",
+       "kept the baby awake",
+       "found the movie entertaining"
+      ],
+      "strike": [],
+      "note": "make·keep·find·leave + 목적어 뒤의 말(목적격 보어)을 찾는다"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "difficult",
+       "awake",
+       "locked",
+       "entertaining"
+      ],
+      "strike": [],
+      "note": "(b) difficult, (d) awake = 형용사 / (c) locked, (e) entertaining = 분사 → 옳음"
+     },
+     {
+      "step": 3,
+      "highlight": [],
+      "strike": [
+       "inspiringly"
+      ],
+      "note": "(a) 모두가 영감을 받은 상태 → inspiringly ✗ → inspired"
+     },
+     {
+      "step": 4,
+      "highlight": [
+       "① 1개"
+      ],
+      "strike": [
+       "② 2개",
+       "③ 3개",
+       "④ 4개",
+       "⑤ 5개"
+      ],
+      "note": "어색한 문장 (a) → 1개"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 make, keep, find, leave의 목적어 뒤에 온 말을 찾아요. 둘째, 비 문장의 difficult와 디 문장의 awake는 형용사, 씨 문장의 locked와 이 문장 I found the movie entertaining의 entertaining은 분사라서 옳아요. 셋째, 에이 문장은 모두가 영감을 받은 상태를 말하는 자리에 ly를 붙인 부사 inspiringly를 써서 틀렸어요. 과거분사 inspired로 고쳐야 해요. 넷째, 어색한 문장은 inspiringly가 들어간 한 문장뿐이에요.",
+   "caption": "보어 찾기 → 판정 → 개수"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① 1개  ✓  어색한 문장은 (a) 하나\n② 2개  ✗  (e) found the movie entertaining은 옳아요 (영화가 재미를 주는 성질)\n③ 3개  ✗  (d) kept the baby awake도 옳아요 (형용사 awake)\n④ 4개  ✗  (c) kept the front door locked도 옳아요 (분사 locked)\n⑤ 5개  ✗  (b) found the science task difficult도 옳아요 (형용사 difficult)",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✓",
+     "②": "✗",
+     "③": "✗",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① 1개  ✓  어색한 문장은 (a) 하나",
+     "② 2개  ✗  (e) found the movie entertaining은 옳아요 (영화가 재미를 주는 성질)",
+     "③ 3개  ✗  (d) kept the baby awake도 옳아요 (형용사 awake)",
+     "④ 4개  ✗  (c) kept the front door locked도 옳아요 (분사 locked)",
+     "⑤ 5개  ✗  (b) found the science task difficult도 옳아요 (형용사 difficult)"
+    ]
+   },
+   "narration": "정답은 1번, 1개예요. 이 문장 I found the movie entertaining의 entertaining을 entertained로 바꿔야 한다고 보면 2번을 고르게 돼요. 하지만 영화는 재미를 주는 쪽이라서 entertaining이 맞아요. 반대로 에이 문장의 everyone은 영감을 받는 쪽이라서 inspired를 써요.",
+   "caption": "정답 ① 1개"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ① 1개\n\n목적어의 상태를 말하는 목적격 보어 → 형용사·분사 (-ly 부사 ✗)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ① 1개",
+     "목적어의 상태를 말하는 목적격 보어 → 형용사·분사 (-ly 부사 ✗)"
+    ]
+   },
+   "narration": "정답은 1번이에요. 기억할 것, 목적어의 상태를 말하는 자리에는 ly를 붙인 부사가 아니라 형용사나 분사를 써요.",
+   "caption": "상태는 형용사·분사, -ly 부사 ✗"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 어법상 어색한 문장의 개수는?",
+  "passage": "(a) The speech about courage made everyone inspiringly.\n(b) They found the science task difficult at first.\n(c) We kept the front door locked all night.\n(d) The loud noise kept the baby awake for hours.\n(e) I found the movie entertaining from start to finish.",
+  "c": [
+   "1개",
+   "2개",
+   "3개",
+   "4개",
+   "5개"
+  ],
+  "ans": 1,
+  "expl": "핵심 규칙: 목적어의 상태·성질을 서술하는 목적격보어에는 형용사나 분사를 쓴다. -ly라는 철자만으로 품사를 결정하지 않는다.\n풀이 순서: ① 문장마다 make·keep·find·leave + 목적어 뒤에 온 말(목적격 보어)을 찾는다. → ② 그 자리에 -ly 부사가 오면 어색한 문장이다: (a) inspiringly. → ③ 세어 보면 1개이다.\n문장별 판정:\n(a) 틀림: everyone이 감화를 받은 상태를 나타내려면 과거분사 inspired가 필요하다. inspiringly → inspired.\n(b) 옳음: difficult가 task의 성질을 설명한다.\n(c) 옳음: locked가 door가 잠긴 상태를 설명한다.\n(d) 옳음: awake는 baby가 깨어 있는 상태를 유지함을 나타내는 형용사 목적격보어이다.\n(e) 옳음: entertaining은 movie가 주는 흥미로운 성질을 설명한다.\n정답 판단: 어법상 틀린 문장은 a의 1개이다.\n선택지 분석:\n① [정답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 1개는 실제 개수와 일치한다.\n② [오답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 2개는 실제 개수와 일치하지 않는다.\n③ [오답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 틀린 문장은 a의 1개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다."
+ }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "done": true,
+  "doneAt": "2026-10-25T14:40:49.542Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "(나), (다), (마)",
+      "1": "(가), (나), (다)",
+      "2": "(나), (라), (마)",
+      "3": "(가), (다), (마)",
+      "4": "(다), (라), (마)"
+    },
+    "expl": "핵심 규칙: 비교급·최상급에는 -er·-est와 more·most를 겹쳐 쓰지 않고, good - better - best, bad - worse - worst 같은 불규칙 변화를 바르게 쓴다.\n풀이 순서: ① 문장마다 비교급·최상급의 형태만 본다. → ② more/most와 -er/-est를 겹쳐 쓴 문장, 불규칙 변화를 규칙형으로 쓴 문장을 지운다. → ③ (나) the most smallest, (라) more better가 틀렸다. 옳은 문장만 묶은 (가), (다), (마)가 정답이다.\n문장별 판정:\n(가) O. young의 최상급 youngest이다.\n(나) X. smallest에 most를 겹쳐 쓸 수 없다.\n(다) O. tall의 비교급 taller이다.\n(라) X. better에 more를 겹쳐 쓸 수 없다.\n(마) O. 긴 단어 interesting에 most를 썼다.\n정답 판단: 어법상 옳은 문장은 (가), (다), (마)이다.\n선택지 분석:\n① [오답] (나)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (나)는 옳은 문장이 아니고, 옳은 문장 (마)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (나), (라)는 옳은 문장이 아니고, 옳은 문장 (가), (다)를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 (가), (다), (마)를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] (라)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "<보기>\n(가) Mina is the youngest in her family.\n(나) This is the most smallest room in the hotel.\n(다) Jane is taller than Amy by five centimeters.\n(라) Tom is more better at math than I am.\n(마) This is the most interesting book in the library.",
+    "stem": "다음 <보기> 중 어법상 옳은 문장으로만 짝지어진 것은?"
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:40:48.952Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-25T14:40:49.542Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:40:49.542Z",
+      "what": "확인 완료"
+    }
+  }
+}

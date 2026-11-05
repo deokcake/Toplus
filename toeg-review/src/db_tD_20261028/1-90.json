@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:49:16.047Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "where",
+      "1": "whoever",
+      "2": "which",
+      "3": "when",
+      "4": "on that"
+    },
+    "expl": "핵심 규칙: 관계대명사는 절 안의 주어·목적어 역할을, 관계부사는 장소·시간 관계를 나타낸다. 전치사 바로 뒤의 관계대명사는 사물에 which를 쓰며 that을 쓰지 않는다. 복합관계사는 문장 안의 역할을 함께 확인한다.\n풀이 순서: ① 밑줄 친 관계사마다 앞뒤를 확인한다. 선행사가 사물·장소·때 가운데 무엇인지, 관계사 앞에 전치사가 있는지 본다. → ② 선택지 ① 장소 + where, ② whoever(~하는 사람은 누구든), ③ 사물 + which, ④ 때 + when은 모두 바르다. → ③ 선택지 ⑤는 전치사 바로 뒤에 that을 썼다. on which로 고쳐야 한다.\n문장별 판정:\n정답 판단: 전치사 on 바로 뒤에 관계대명사 that을 쓸 수 없다. 사물 선행사를 받도록 on which로 고친다.\n선택지 분석:\n① [오답] where는 장소 a town과 many artists work를 연결한다.\n② [오답] whoever runs the local gallery는 그 화랑을 운영하는 누구든이라는 명사절로 knows의 목적어이다.\n③ [오답] which는 사물 The studio를 받고 rents의 목적어 역할을 한다.\n④ [오답] when은 시간 the year와 he moved there를 연결한다.\n⑤ [정답] 전치사 on 바로 뒤에 관계대명사 that을 쓸 수 없다. 사물 선행사를 받도록 on which로 고친다.",
+    "passage": "Tom lives in a quiet little town ①<u>where</u> many young artists live and work together. He knows ②<u>whoever</u> runs the small local gallery on Main Street. The bright studio ③<u>which</u> he rents above the old bakery is small but very cozy. He often remembers the year ④<u>when</u> he first moved there with his little dog. The wooden table ⑤<u>on that</u> he paints every morning is very old.",
+    "stem": "다음 글의 밑줄 친 ①~⑤ 중 어법상 어색한 표현을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T07:40:38.969Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T07:40:45.057Z",
+      "text": "기준 문항에 비해 지문의 길이가 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:49:16.047Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:49:12.343Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:49:16.047Z",
+      "what": "확인 완료"
+    }
+  }
+}

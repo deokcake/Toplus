@@ -1,0 +1,184 @@
+{
+ "key": "6-16",
+ "type": "B",
+ "grade": 6,
+ "chapter": "CH 2 대명사와 be동사",
+ "title": "주어 Tom 뒤 현재형 be동사",
+ "total_sec": 126,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "6급 · CH 2 대명사와 be동사 · 16번 · B 유형\n\n이 문제는 주어 Tom 뒤에 오는 현재형 be동사의 알맞은 형태를 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 2 대명사와 be동사 · 16번 · B 유형",
+     "이 문제는 주어 Tom 뒤에 오는 현재형 be동사의 알맞은 형태를 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 2, 16번 B 유형. 이 문제는 주어 Tom 뒤에 오는 현재형 be동사의 알맞은 형태를 고르는 문제예요.",
+   "caption": "Tom 뒤 현재형 be동사"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.\n\nTom _______ in his room now.\n\n① be\n② am\n③ is\n④ aren't\n⑤ are",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 알맞은 단어를 고르세요.",
+     "Tom _______ in his room now.",
+     "① be",
+     "② am",
+     "③ is",
+     "④ aren't",
+     "⑤ are"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 알맞은 단어를 고르세요. Tom 빈칸 in his room now. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 현재형(이다·어떠하다·있다)은 주어에 맞춰 써요.\nI → am  /  he, she, it처럼 나도 너도 아닌 하나 → is\nyou(한 명이어도), we, they, 여럿 → are\n현재형 문장에서 주어 바로 뒤에 원형 be를 그대로 쓰지 않아요.\n예) They are my friends. (그들은 내 친구들이에요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 현재형(이다·어떠하다·있다)은 주어에 맞춰 써요.",
+     "I → am  /  he, she, it처럼 나도 너도 아닌 하나 → is",
+     "you(한 명이어도), we, they, 여럿 → are",
+     "현재형 문장에서 주어 바로 뒤에 원형 be를 그대로 쓰지 않아요.",
+     "예) They are my friends. (그들은 내 친구들이에요.)"
+    ]
+   },
+   "narration": "be동사는 주로 무엇이다, 어떠하다, 어디에 있다는 뜻이고, 현재형은 주어에 맞춰 am, is, are 중 하나를 골라 써요. 주어가 I이면 am, he, she, it처럼 나도 너도 아닌 한 사람이나 물건 하나이면 is를 써요. you는 한 사람이어도 are를 쓰고, we, they나 여러 사람, 여러 개에도 are를 써요. 현재형 문장에서는 주어 바로 뒤에 원형 be를 그대로 쓰지 않고, am, is, are로 바꿔 써요. They are my friends. 그들은 내 친구들이에요.",
+   "caption": "I는 am, 하나는 is, you·여럿은 are"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.\n\nTom _______ in his room now.\n\n① be\n② am\n③ is\n④ aren't\n⑤ are",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "Tom",
+       "_______"
+      ],
+      "strike": [],
+      "note": "빈칸 바로 앞 주어 = Tom"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "② am",
+       "④ aren't",
+       "⑤ are"
+      ],
+      "note": "Tom = 나도 너도 아닌 한 사람 → am(I에만), are·aren't(you·여럿) 지우기"
+     },
+     {
+      "step": 3,
+      "highlight": [],
+      "strike": [
+       "① be"
+      ],
+      "note": "주어 바로 뒤 원형 be ✗"
+     },
+     {
+      "step": 4,
+      "highlight": [
+       "③ is"
+      ],
+      "strike": [],
+      "note": "남는 것 is → Tom is in his room now."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 빈칸 바로 앞의 주어는 Tom이에요. 둘째, Tom은 나도 너도 아닌 한 사람이라, I에만 쓰는 am과 you나 여럿에 쓰는 are, aren't는 맞지 않아요. 셋째, 주어 바로 뒤에는 원형 be를 그대로 쓰지 않으니 be도 지워요. 넷째, 남는 것은 is예요. Tom is in his room now. Tom은 지금 자기 방에 있어요.",
+   "caption": "주어 Tom → is"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① be  ✗  주어 바로 뒤에 원형 be를 그대로 쓰지 않아요\n② am  ✗  am은 주어 I에만 써요\n③ is  ✓  Tom은 나도 너도 아닌 한 사람 → is\n④ aren't  ✗  are not을 줄인 말이라 한 사람인 Tom과 맞지 않아요\n⑤ are  ✗  are는 you, we, they나 여럿에 써요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① be  ✗  주어 바로 뒤에 원형 be를 그대로 쓰지 않아요",
+     "② am  ✗  am은 주어 I에만 써요",
+     "③ is  ✓  Tom은 나도 너도 아닌 한 사람 → is",
+     "④ aren't  ✗  are not을 줄인 말이라 한 사람인 Tom과 맞지 않아요",
+     "⑤ are  ✗  are는 you, we, they나 여럿에 써요"
+    ]
+   },
+   "narration": "정답은 3번 is예요. 5번 are는 you나 여럿에 쓰는 말이라, 한 사람인 Tom에는 쓰지 않아요. 4번 aren't는 are not을 줄인 말이라 역시 Tom과 맞지 않아요. 1번 be는 원형이라 주어 바로 뒤에 그대로 쓰지 않아요.",
+   "caption": "정답 ③ is"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ③ is\n\nI → am, 나도 너도 아닌 하나 → is, you·we·they·여럿 → are",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ is",
+     "I → am, 나도 너도 아닌 하나 → is, you·we·they·여럿 → are"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 현재형 be동사는 주어가 I이면 am, 나도 너도 아닌 하나이면 is, you나 we, they, 여럿이면 are를 써요. Tom처럼 한 사람의 이름이 주어이면 is예요.",
+   "caption": "한 사람 이름 주어 → is"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 알맞은 단어를 고르세요.",
+  "passage": "Tom _______ in his room now.",
+  "c": [
+   "be",
+   "am",
+   "is",
+   "aren't",
+   "are"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 현재형 be동사: I am / you, we, they are / he, she, it is. be는 원형이라 그대로 쓸 수 없다.\n풀이 순서: ① 주어를 본다: Tom(3인칭 단수). → ② 그 주어에 맞는 현재형 be동사는 is. → ③ 원형 be와 주어에 맞지 않는 형태(부정형 포함)를 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: 주어 Tom에 맞는 be동사이므로 정답은 ③이다.\n선택지 분석:\n① [오답] be는 동사원형이라 주어 뒤에 그대로 쓸 수 없으므로 오답이다.\n② [오답] am은 주어 I에만 쓰므로 오답이다.\n③ [정답] 주어 Tom에 맞는 be동사이므로 정답이다.\n④ [오답] aren't는 are의 부정형이라 주어 Tom에 맞지 않으므로 오답이다.\n⑤ [오답] are는 you·복수 주어에 쓰므로 오답이다."
+ }
+}

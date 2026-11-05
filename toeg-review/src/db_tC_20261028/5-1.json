@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T02:00:46.192Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Her",
+      "1": "She",
+      "2": "Hers",
+      "3": "Herself",
+      "4": "Its"
+    },
+    "expl": "핵심 규칙: 인칭대명사는 자리에 따라 주격(I, you, he, she, it, we, they), 소유격(my, your, his, her, its, our, their), 목적격(me, you, him, her, it, us, them), 소유대명사(mine, yours, his, hers, ours, theirs)로 쓴다.\n풀이 순서: ① 앞 문장의 주어를 대명사로 바꾼다: Jane(여자 한 명)은 ‘그녀’. → ② 빈칸은 동사 앞 주어 자리이므로 주격을 쓴다. → ③ 정답은 She.\n문장별 판정:\n정답 판단: Jane을 받는 주격 She이므로 정답은 ②이다.\n선택지 분석:\n① [오답] Her: 소유격·목적격이라 주어 자리에 쓸 수 없으므로 오답이다.\n② [정답] Jane을 받는 주격 She이므로 정답이다.\n③ [오답] Hers: 소유대명사이라 주어 자리에 쓸 수 없으므로 오답이다.\n④ [오답] Herself: 재귀대명사이라 주어 자리에 쓸 수 없으므로 오답이다.\n⑤ [오답] Its: 사물의 소유격이라 맞지 않으므로 오답이다.",
+    "passage": "Jane is my cousin. _______ is my cousin.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:00:45.384Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:00:46.192Z",
+      "what": "확인 완료"
+    }
+  }
+}

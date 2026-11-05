@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T14:51:51.998Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": "5",
+    "c": {
+      "0": "Why don't we <u>eat</u> out?",
+      "1": "Never <u>tell</u> a lie.",
+      "2": "What about <u>visiting</u> the museum?",
+      "3": "Be <u>quiet</u>, please.",
+      "4": "Let's <u>going</u> to the park."
+    },
+    "expl": "핵심 규칙: Let's, Shall we, Why don't we, 명령문(Please, Don't, Never)에는 동사원형을 쓰고, How about·What about 뒤에는 동명사(-ing)를 쓴다.\n풀이 순서: ① 밑줄 앞의 표현을 본다. What(How) about 뒤는 -ing, 그 밖의 제안·명령 표현 뒤는 동사원형이다. → ② 선택지 ⑤는 Let's 뒤에 going을 썼다. 동사원형 go로 고친다. → ③ 정답은 ⑤.\n문장별 판정:\n정답 판단: Let's 뒤에는 동사원형 go를 쓰므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 문장 종류에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n② [오답] 문장 종류에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n③ [오답] 문장 종류에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n④ [오답] 문장 종류에 맞는 동사 형태를 바르게 썼으므로 오답이다.\n⑤ [정답] Let's 뒤에는 동사원형 go를 쓰므로 정답이다.",
+    "passage": null,
+    "stem": "다음 중 밑줄 친 부분이 틀린 문장을 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:51:50.886Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:51:51.998Z",
+      "what": "확인 완료"
+    }
+  }
+}

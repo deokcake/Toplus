@@ -1,0 +1,37 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:48:39.420Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Mina is taller a little than her sister Jane now.",
+      "1": "Mina a little is taller than her sister Jane now.",
+      "2": "Mina is a taller little than her sister Jane now.",
+      "3": "Mina is a little taller than her sister Jane now.",
+      "4": "Mina is little a taller than her sister Jane now."
+    },
+    "expl": "핵심 규칙: much/far/even/a little은 비교급 바로 앞에서 정도를 나타낸다. 주어 + be동사 + 강조어 + 비교급 + than + 비교 대상(절) 어순으로 쓴다.\n풀이 순서: ① 주어(Mina)와 동사(is)를 먼저 세운다. → ② 비교급(taller) 바로 앞에 강조어(a little)를 놓고, 그 뒤에 than을 붙인다. → ③ than 뒤에 비교 대상(her sister Jane)을 이으면 Mina is a little taller than her sister Jane now.\n문장별 판정:\n정답 판단: be동사 + a little + 비교급 + than 어순이 바르므로 정답은 ④이다.\n선택지 분석:\n① [오답] a little은 비교급 taller 앞에 와야 하므로 오답이다.\n② [오답] a little taller는 be동사 is 뒤에 와야 하므로 오답이다.\n③ [오답] a little은 한 덩어리로 비교급 앞에 와야 하므로 오답이다.\n④ [정답] be동사 + a little + 비교급 + than 어순이 바르므로 정답이다.\n⑤ [오답] a little의 두 낱말 순서가 뒤바뀌었으므로 오답이다.",
+    "passage": "(taller / than / a / Mina / her / little / sister / Jane / is / now)",
+    "stem": "다음 단어들을 바르게 배열하여 문장을 완성한 것으로 가장 알맞은 것을 고르시오."
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T07:14:07.698Z",
+      "text": "기준 문항에 비해 문장의 길이가 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:48:39.420Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:48:27.121Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:48:39.420Z",
+      "what": "확인 완료"
+    }
+  }
+}

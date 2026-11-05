@@ -1,0 +1,474 @@
+{
+ "A": {
+  "title": "주어의 수에 맞는 was와 were",
+  "intro": "이 문제는 주어의 수에 맞게 was와 were를 쓴 문장을 세고, 그 이유를 고르는 문제예요.",
+  "problem_narration": "다음 보기의 문장 중 어법상 옳은 문장의 개수와 그 이유를 바르게 설명한 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 과거형 was, were: 무엇이었다 · 어떠했다 · 어디에 있었다 (지나간 일)",
+    "주어가 I, 한 명·한 개(he, she, it, the box) → was",
+    "주어가 둘 이상(we, they, the boxes), you(한 명이어도) → were",
+    "예) The cat was small. (그 고양이는 작았어요.)  The cats were small. (그 고양이들은 작았어요.)"
+   ],
+   "narration": "was와 were는 be동사의 과거형으로, 지나간 일을 말할 때 써요. 주어가 I이거나 he, she, it처럼 한 명, 한 개이면 was를 써요. 주어가 we, they처럼 둘 이상이면 were를 쓰고, you는 한 명이어도 were예요. 예를 들어 The cat was small, 그 고양이는 작았어요, The cats were small, 그 고양이들은 작았어요."
+  },
+  "steps": [
+   {
+    "note": "(가) The box = 한 개 → was ✓ · (나) The boxes = 여러 개 → were ✓ · (다) The boxes에 was ✗",
+    "highlight": [
+     "(가) The box was heavy.",
+     "(나) The boxes were heavy."
+    ],
+    "strike": [
+     "(다) The boxes was heavy."
+    ],
+    "narration": "첫째, 가 문장 The box was heavy는 그 상자는 무거웠다는 뜻이고, 한 개인 The box에 was가 맞아요. 나 문장 The boxes were heavy는 그 상자들은 무거웠다는 뜻이고, 여러 개인 The boxes에 were가 맞아요. 다 문장 The boxes was heavy는 여러 개인데 was를 써서 틀렸어요."
+   },
+   {
+    "note": "옳은 문장 (가), (나) → 2개 · 개수와 문장이 맞는 보기는 ③뿐",
+    "highlight": [
+     "③ 2개 - (가), (나)가 맞음."
+    ],
+    "strike": [
+     "① 1개 - (가)만 맞음.",
+     "② 1개 - (나)만 맞음.",
+     "④ 2개 - (나), (다)가 맞음.",
+     "⑤ 3개 - (가), (나), (다) 모두 맞음."
+    ],
+    "narration": "둘째, 옳은 문장은 가, 나 2개이니, 개수와 문장이 맞는 보기는 3번뿐이에요."
+   },
+   {
+    "note": "③의 이유: 단수(한 개) → was, 복수(여러 개) → were ✓",
+    "highlight": [
+     "주어가 단수(한 개)일 때는 'was', 복수(여러 개)일 때는 'were'를 써야 함."
+    ],
+    "strike": [],
+    "narration": "셋째, 3번은 이유도 한 개면 was, 여러 개면 were라고 바르게 말했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 1개 - (가)만 맞음. 주어가 무엇이든 be동사 과거형은 'was'로 통일해야 함.  ✗  복수 주어에는 were → (나)도 옳아요",
+    "② 1개 - (나)만 맞음. 'the box'는 사물이므로 복수형인 'were'만 써야 함.  ✗  사물이어도 한 개인 The box에는 was → (가)도 옳아요",
+    "③ 2개 - (가), (나)가 맞음. 주어가 단수(한 개)일 때는 'was', 복수(여러 개)일 때는 'were'를 써야 함.  ✓  개수·문장·이유가 모두 맞아요",
+    "④ 2개 - (나), (다)가 맞음. 과거 시제에서는 복수 주어 뒤에 'was'와 'were'를 모두 쓸 수 있음.  ✗  복수 주어에는 were만 → (다)는 틀린 문장",
+    "⑤ 3개 - (가), (나), (다) 모두 맞음. be동사 과거형은 주어의 수에 상관없이 자유롭게 사용함.  ✗  주어의 수에 따라 was, were를 구별해요"
+   ],
+   "narration": "정답은 3번이에요. 4번처럼 복수 주어에는 was와 were를 다 쓸 수 있다고 생각하기 쉽지만, The boxes에는 were만 써요. 2번은 사물이면 were라고 했지만, 사물이어도 한 개인 The box에는 was를 써요."
+  },
+  "summary": {
+   "card": "주어가 I, 한 명·한 개 → was · 둘 이상, you → were",
+   "narration": "정답은 3번이에요. 기억할 것, 주어가 I나 한 명, 한 개이면 was, 둘 이상이거나 you이면 were예요."
+  },
+  "captions": [
+   "주어의 수에 맞는 was·were",
+   "먼저 풀어 보세요",
+   "한 개 → was · 여러 개 → were",
+   "문장 판정 → 2개 → 이유 확인",
+   "정답 ③",
+   "I·하나 → was · 둘 이상·you → were"
+  ],
+  "sec": [
+   11,
+   18,
+   30,
+   38,
+   24,
+   11
+  ]
+ },
+ "B": {
+  "title": "한 사람과 두 사람 주어의 was, were",
+  "intro": "이 문제는 한 사람과 두 사람 주어에 맞게 was와 were를 쓴 문장을 세고, 그 이유를 고르는 문제예요.",
+  "problem_narration": "다음 보기의 문장 중 어법상 옳은 문장의 개수와 그 이유를 바르게 설명한 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 과거형 was, were: 무엇이었다 · 어떠했다 · 어디에 있었다 (지나간 일)",
+    "주어가 I, 한 명·한 개(he, she, my sister) → was",
+    "주어가 둘 이상(we, they, my sisters), you(한 명이어도) → were",
+    "두 사람을 and로 이은 주어는 I가 들어 있어도 → were",
+    "예) Jina and I were at the park. (지나와 나는 공원에 있었어요.)"
+   ],
+   "narration": "was와 were는 be동사의 과거형으로, 지나간 일을 말할 때 써요. 주어가 I이거나 he, she처럼 한 명, 한 개이면 was를 써요. 주어가 we, they처럼 둘 이상이면 were를 쓰고, you는 한 명이어도 were예요. 두 사람을 and로 이은 주어는 I가 들어 있어도 were를 써요. 예를 들어 Jina and I were at the park, 지나와 나는 공원에 있었어요."
+  },
+  "steps": [
+   {
+    "note": "(가) My brother = 한 사람 → was ✓ · (나) My brothers = 여러 명인데 was ✗ · (다) My brother and I = 두 사람 → were ✓",
+    "highlight": [
+     "(가) My brother was sick.",
+     "(다) My brother and I were sick."
+    ],
+    "strike": [
+     "(나) My brothers was sick."
+    ],
+    "narration": "첫째, 가 문장 My brother was sick은 내 남동생은 아팠다는 뜻이고, 한 사람이라 was가 맞아요. 나 문장 My brothers was sick은 여러 명인데 was를 써서 틀렸어요. 다 문장 My brother and I were sick은 내 남동생과 나는 아팠다는 뜻이고, 두 사람이라 were가 맞아요."
+   },
+   {
+    "note": "옳은 문장 (가), (다) → 2개 · 개수와 문장이 맞는 보기는 ①뿐",
+    "highlight": [
+     "① 2개 - (가), (다)가 맞음."
+    ],
+    "strike": [
+     "② 1개 - (가)만 맞음.",
+     "③ 2개 - (가), (나)가 맞음.",
+     "④ 1개 - (다)만 맞음.",
+     "⑤ 3개 - 모두 맞음."
+    ],
+    "narration": "둘째, 옳은 문장은 가, 다 2개이니, 개수와 문장이 맞는 보기는 1번뿐이에요."
+   },
+   {
+    "note": "①의 이유: 한 사람 My brother → was, 두 사람 My brother and I → were ✓",
+    "highlight": [
+     "한 사람인 주어에는 'was', 'A and B'처럼 둘 이상인 주어에는 'were'를 써야 함."
+    ],
+    "strike": [],
+    "narration": "셋째, 1번은 이유도 한 사람인 My brother에는 was, 두 사람에는 were라고 바르게 말했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 2개 - (가), (다)가 맞음. 한 사람인 주어에는 'was', 'A and B'처럼 둘 이상인 주어에는 'were'를 써야 함.  ✓  개수·문장·이유가 모두 맞아요",
+    "② 1개 - (가)만 맞음. 'I'가 들어간 주어에는 항상 'was'를 써야 함.  ✗  My brother and I는 두 사람 → were, (다)도 옳아요",
+    "③ 2개 - (가), (나)가 맞음. 주어가 사람이면 수와 관계없이 'was'를 씀.  ✗  사람이어도 여러 명인 My brothers에는 were",
+    "④ 1개 - (다)만 맞음. 가족을 나타내는 주어에는 'were'만 씀.  ✗  가족이어도 한 사람인 My brother에는 was",
+    "⑤ 3개 - 모두 맞음. 과거형은 주어의 수를 따지지 않음.  ✗  주어의 수를 따져요 → (나)는 틀린 문장"
+   ],
+   "narration": "정답은 1번이에요. 2번처럼 I가 보이면 was를 떠올리기 쉽지만, My brother and I는 두 사람이라 were가 맞아요. 3번은 사람이면 늘 was라고 했지만, 여러 명인 My brothers에는 were를 써요."
+  },
+  "summary": {
+   "card": "두 사람을 and로 이은 주어 → I가 들어 있어도 were",
+   "narration": "정답은 1번이에요. 기억할 것, 두 사람을 and로 이은 주어는 I가 들어 있어도 were를 써요."
+  },
+  "captions": [
+   "한 사람·두 사람 주어의 was·were",
+   "먼저 풀어 보세요",
+   "and로 이은 두 사람 → were",
+   "문장 판정 → 2개 → 이유 확인",
+   "정답 ①",
+   "A and I → were"
+  ],
+  "sec": [
+   13,
+   18,
+   32,
+   39,
+   24,
+   10
+  ]
+ },
+ "C": {
+  "title": "동물 주어와 They의 was, were",
+  "intro": "이 문제는 동물 주어와 They에 맞게 was와 were를 쓴 문장을 세고, 그 이유를 고르는 문제예요.",
+  "problem_narration": "다음 보기의 문장 중 어법상 옳은 문장의 개수와 그 이유를 바르게 설명한 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 과거형 was, were: 무엇이었다 · 어떠했다 · 어디에 있었다 (지나간 일)",
+    "주어가 I, 한 명·한 개(he, she, it, the bird) → was",
+    "주어가 둘 이상(we, they, the birds), you(한 명이어도) → were",
+    "동물 주어도 한 마리 → was, 여러 마리 → were",
+    "예) The bird was small. (그 새는 작았어요.)  The birds were small. (그 새들은 작았어요.)"
+   ],
+   "narration": "was와 were는 be동사의 과거형으로, 지나간 일을 말할 때 써요. 주어가 I이거나 he, she, it처럼 한 명, 한 개이면 was를 써요. 주어가 we, they처럼 둘 이상이면 were를 쓰고, you는 한 명이어도 were예요. 동물 주어도 똑같아요. 예를 들어 The bird was small, 그 새는 작았어요, The birds were small, 그 새들은 작았어요."
+  },
+  "steps": [
+   {
+    "note": "(가) The dogs = 여러 마리 → were ✓ · (나) The dog = 한 마리인데 were ✗ · (다) They = 둘 이상인데 was ✗",
+    "highlight": [
+     "(가) The dogs were hungry."
+    ],
+    "strike": [
+     "(나) The dog were hungry.",
+     "(다) They was hungry."
+    ],
+    "narration": "첫째, 가 문장 The dogs were hungry는 그 개들은 배가 고팠다는 뜻이고, 여러 마리라 were가 맞아요. 나 문장 The dog were hungry는 한 마리인데 were를 써서 틀렸고, 다 문장 They was hungry는 둘 이상을 가리키는 They에 was를 써서 틀렸어요."
+   },
+   {
+    "note": "옳은 문장 (가)뿐 → 1개 · 개수와 문장이 맞는 보기는 ④뿐",
+    "highlight": [
+     "④ 1개 - (가)만 맞음."
+    ],
+    "strike": [
+     "① 2개 - (가), (다)가 맞음.",
+     "② 2개 - (가), (나)가 맞음.",
+     "③ 1개 - (나)만 맞음.",
+     "⑤ 0개 - 모두 틀림."
+    ],
+    "narration": "둘째, 옳은 문장은 가 하나뿐이니, 1개, 가만 맞음이라고 한 4번을 골라요."
+   },
+   {
+    "note": "④의 이유: The dogs, They → were · The dog → was ✓",
+    "highlight": [
+     "복수 주어 The dogs와 They에는 'were', 단수 The dog에는 'was'를 써야 함."
+    ],
+    "strike": [],
+    "narration": "셋째, 4번은 이유도 The dogs와 They에는 were, The dog에는 was라고 바르게 말했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 2개 - (가), (다)가 맞음. 대명사 주어 뒤에는 'was'를 써도 됨.  ✗  둘 이상인 They에는 were → (다)는 틀린 문장",
+    "② 2개 - (가), (나)가 맞음. 동물 주어에는 단수·복수 모두 'were'를 씀.  ✗  한 마리인 The dog에는 was → (나)는 틀린 문장",
+    "③ 1개 - (나)만 맞음. 'dog'처럼 한 마리일 때 'were'를 씀.  ✗  한 마리에는 was, 옳은 문장은 (가)",
+    "④ 1개 - (가)만 맞음. 복수 주어 The dogs와 They에는 'were', 단수 The dog에는 'was'를 써야 함.  ✓  개수·문장·이유가 모두 맞아요",
+    "⑤ 0개 - 모두 틀림. 동물 주어에는 be동사 과거형을 쓰지 않음.  ✗  동물 주어에도 was, were를 써요 → (가)는 옳아요"
+   ],
+   "narration": "정답은 4번이에요. 1번처럼 대명사 주어에는 was를 써도 된다고 생각하기 쉽지만, They에는 were를 써야 해요. 2번은 동물이면 늘 were라고 했지만, 한 마리인 The dog에는 was를 써요."
+  },
+  "summary": {
+   "card": "동물도 수로: 한 마리 → was · 여러 마리, they → were",
+   "narration": "정답은 4번이에요. 기억할 것, 동물 주어도 한 마리이면 was, 여러 마리이거나 they이면 were를 써요."
+  },
+  "captions": [
+   "동물 주어·They의 was·were",
+   "먼저 풀어 보세요",
+   "동물도 한 마리 → was",
+   "문장 판정 → 1개 → 이유 확인",
+   "정답 ④",
+   "한 마리 → was · they → were"
+  ],
+  "sec": [
+   12,
+   18,
+   32,
+   36,
+   24,
+   11
+  ]
+ },
+ "D": {
+  "title": "주어 you의 was, were",
+  "intro": "이 문제는 주어 you에 맞게 was와 were를 쓴 문장을 세고, 그 이유를 고르는 문제예요.",
+  "problem_narration": "다음 보기의 문장 중 어법상 옳은 문장의 개수와 그 이유를 바르게 설명한 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 과거형 was, were: 무엇이었다 · 어떠했다 · 어디에 있었다 (지나간 일)",
+    "주어가 I, 한 명·한 개(he, she, it, Tom) → was",
+    "주어가 you → 한 명이어도 were",
+    "주어가 둘 이상(we, they, Tom and you) → were",
+    "예) You were busy yesterday. (너는 어제 바빴어요.)"
+   ],
+   "narration": "was와 were는 be동사의 과거형으로, 지나간 일을 말할 때 써요. 주어가 I이거나 he, she, it처럼 한 명, 한 개이면 was를 써요. 그런데 주어가 you이면 한 명이어도 were를 써요. 주어가 we, they처럼 둘 이상일 때도 were예요. 예를 들어 You were busy yesterday, 너는 어제 바빴어요."
+  },
+  "steps": [
+   {
+    "note": "(가) You에 was ✗ · (나) You → were ✓ · (다) Mina and you = 두 사람 → were ✓",
+    "highlight": [
+     "(나) You were late.",
+     "(다) Mina and you were late."
+    ],
+    "strike": [
+     "(가) You was late."
+    ],
+    "narration": "첫째, 가 문장 You was late는 you에 was를 써서 틀렸어요. 나 문장 You were late는 너는 늦었다는 뜻이고, you에 were를 써서 맞아요. 다 문장 Mina and you were late는 미나와 너는 늦었다는 뜻이고, 두 사람이라 were가 맞아요."
+   },
+   {
+    "note": "옳은 문장 (나), (다) → 2개 · 개수와 문장이 맞는 보기는 ③뿐",
+    "highlight": [
+     "③ 2개 - (나), (다)가 맞음."
+    ],
+    "strike": [
+     "① 1개 - (나)만 맞음.",
+     "② 2개 - (가), (나)가 맞음.",
+     "④ 3개 - 모두 맞음.",
+     "⑤ 1개 - (가)만 맞음."
+    ],
+    "narration": "둘째, 옳은 문장은 나, 다 2개이니, 개수와 문장이 맞는 보기는 3번뿐이에요."
+   },
+   {
+    "note": "③의 이유: you는 한 사람이어도 were · 둘 이상도 were ✓",
+    "highlight": [
+     "'you'는 한 사람이어도 'were'를 쓰고, 'Mina and you'처럼 둘 이상인 주어에도 'were'를 씀."
+    ],
+    "strike": [],
+    "narration": "셋째, 3번은 이유도 you는 한 사람이어도 were, 둘 이상에도 were라고 바르게 말했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 1개 - (나)만 맞음. 'Mina and you'는 한 사람처럼 보아 'was'를 써야 함.  ✗  Mina and you는 두 사람 → were, (다)도 옳아요",
+    "② 2개 - (가), (나)가 맞음. 'you'는 한 사람일 때 'was', 여러 사람일 때 'were'를 씀.  ✗  you는 한 사람이어도 were → (가)는 틀린 문장",
+    "③ 2개 - (나), (다)가 맞음. 'you'는 한 사람이어도 'were'를 쓰고, 'Mina and you'처럼 둘 이상인 주어에도 'were'를 씀.  ✓  개수·문장·이유가 모두 맞아요",
+    "④ 3개 - 모두 맞음. 'you'가 들어간 주어에는 'was'와 'were'를 모두 쓸 수 있음.  ✗  you에는 was를 쓰지 않아요",
+    "⑤ 1개 - (가)만 맞음. 'you'는 2인칭 단수이므로 'was'를 씀.  ✗  한 명을 가리켜도 you에는 were, (나)·(다)가 옳아요"
+   ],
+   "narration": "정답은 3번이에요. 2번과 5번처럼 you가 한 사람이면 was를 쓴다고 생각하기 쉽지만, you는 한 사람이어도 were를 써요. 1번은 Mina and you를 한 사람처럼 보았지만, 두 사람이라 were가 맞아요."
+  },
+  "summary": {
+   "card": "주어 you → 한 명이어도 were · 둘 이상 → were",
+   "narration": "정답은 3번이에요. 기억할 것, 주어가 you이면 한 명이어도 were를 써요."
+  },
+  "captions": [
+   "주어 you의 was·were",
+   "먼저 풀어 보세요",
+   "you는 한 명이어도 were",
+   "문장 판정 → 2개 → 이유 확인",
+   "정답 ③",
+   "you → 언제나 were"
+  ],
+  "sec": [
+   12,
+   18,
+   27,
+   36,
+   24,
+   10
+  ]
+ },
+ "E": {
+  "title": "이름 주어와 We의 was, were",
+  "intro": "이 문제는 사람 이름 주어와 We에 맞게 was와 were를 쓴 문장을 세고, 그 이유를 고르는 문제예요.",
+  "problem_narration": "다음 보기의 문장 중 어법상 옳은 문장의 개수와 그 이유를 바르게 설명한 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 과거형 was, were: 무엇이었다 · 어떠했다 · 어디에 있었다 (지나간 일)",
+    "주어가 I, 한 명·한 개(he, she, it, Mina) → was",
+    "주어가 둘 이상(we, they, Mina and Jiho), you(한 명이어도) → were",
+    "사람 이름이어도 주어의 수로 정해요.",
+    "예) Mina and Jiho were busy. (미나와 지호는 바빴어요.)"
+   ],
+   "narration": "was와 were는 be동사의 과거형으로, 지나간 일을 말할 때 써요. 주어가 I이거나 he, she, Mina처럼 한 명, 한 개이면 was를 써요. 주어가 we, they처럼 둘 이상이거나 두 사람을 and로 이으면 were이고, you는 한 명이어도 were예요. 예를 들어 Mina and Jiho were busy, 미나와 지호는 바빴어요."
+  },
+  "steps": [
+   {
+    "note": "(가) Tom = 한 사람 → was ✓ · (나) Tom and Jerry = 두 사람 → were ✓ · (다) We = 둘 이상 → were ✓",
+    "highlight": [
+     "(가) Tom was tired.",
+     "(나) Tom and Jerry were tired.",
+     "(다) We were tired."
+    ],
+    "strike": [],
+    "narration": "첫째, 가 문장 Tom was tired는 톰은 피곤했다는 뜻이고, 한 사람이라 was가 맞아요. 나 문장 Tom and Jerry were tired는 톰과 제리는 피곤했다는 뜻이고, 두 사람이라 were가 맞아요. 다 문장 We were tired는 우리는 피곤했다는 뜻이고, We에 were를 써서 맞아요."
+   },
+   {
+    "note": "세 문장 모두 옳다 → 3개 · 맞는 보기는 ②뿐",
+    "highlight": [
+     "② 3개 - 모두 맞음."
+    ],
+    "strike": [
+     "① 2개 - (가), (나)가 맞음.",
+     "③ 1개 - (가)만 맞음.",
+     "④ 2개 - (나), (다)가 맞음.",
+     "⑤ 1개 - (다)만 맞음."
+    ],
+    "narration": "둘째, 세 문장이 모두 옳으니, 3개, 모두 맞음이라고 한 2번을 골라요."
+   },
+   {
+    "note": "②의 이유: 단수 Tom → was · 복수 Tom and Jerry, We → were ✓",
+    "highlight": [
+     "단수 주어 Tom에는 'was', 복수 주어 Tom and Jerry와 We에는 'were'를 썼음."
+    ],
+    "strike": [],
+    "narration": "셋째, 2번은 이유도 Tom에는 was, Tom and Jerry와 We에는 were라고 바르게 말했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 2개 - (가), (나)가 맞음. 'We'에는 'was'를 써야 함.  ✗  둘 이상인 We에는 were → (다)도 옳아요",
+    "② 3개 - 모두 맞음. 단수 주어 Tom에는 'was', 복수 주어 Tom and Jerry와 We에는 'were'를 썼음.  ✓  개수·문장·이유가 모두 맞아요",
+    "③ 1개 - (가)만 맞음. 사람 이름이 들어간 주어에는 항상 'was'를 씀.  ✗  이름이어도 Tom and Jerry는 두 사람 → were",
+    "④ 2개 - (나), (다)가 맞음. 'Tom'은 3인칭이므로 'were'를 써야 함.  ✗  3인칭이어도 한 사람인 Tom에는 was → (가)도 옳아요",
+    "⑤ 1개 - (다)만 맞음. 1인칭 주어에만 'were'를 쓸 수 있음.  ✗  1인칭 I에는 was, 복수인 Tom and Jerry에도 were"
+   ],
+   "narration": "정답은 2번이에요. 1번처럼 We에 was를 떠올리기 쉽지만, We는 둘 이상이라 were가 맞아요. 4번은 Tom이 3인칭이라 were라고 했지만, 한 사람인 Tom에는 was를 써요."
+  },
+  "summary": {
+   "card": "Tom(한 사람) → was · Tom and Jerry, we(둘 이상) → were",
+   "narration": "정답은 2번이에요. 기억할 것, 사람 이름이 주어여도 한 사람이면 was, 둘 이상이면 were를 써요."
+  },
+  "captions": [
+   "이름 주어·We의 was·were",
+   "먼저 풀어 보세요",
+   "이름이어도 수로 정해요",
+   "문장 판정 → 3개 → 이유 확인",
+   "정답 ②",
+   "Tom → was · We → were"
+  ],
+  "sec": [
+   13,
+   18,
+   28,
+   38,
+   22,
+   10
+  ]
+ },
+ "F": {
+  "title": "날씨의 It과 children의 was, were",
+  "intro": "이 문제는 날씨의 It과 children에 맞게 was와 were를 쓴 문장을 세고, 그 이유를 고르는 문제예요.",
+  "problem_narration": "다음 보기의 문장 중 어법상 옳은 문장의 개수와 그 이유를 바르게 설명한 것을 고르세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "be동사 과거형 was, were: 무엇이었다 · 어떠했다 · 어디에 있었다 (지나간 일)",
+    "주어가 I, 한 명·한 개(he, she, it, 날씨의 it) → was",
+    "주어가 둘 이상(we, they, 복수 명사), you(한 명이어도) → were",
+    "s가 없는 복수 명사(men, women, children)도 둘 이상 → were",
+    "예) The men were tall. (그 남자들은 키가 컸어요.)"
+   ],
+   "narration": "was와 were는 be동사의 과거형으로, 지나간 일을 말할 때 써요. 주어가 I이거나 he, she, it처럼 한 명, 한 개이면 was를 쓰고, 날씨의 it에도 was를 써요. 주어가 둘 이상이면 were를 쓰고, you는 한 명이어도 were예요. men, children처럼 s가 없는 복수 명사에도 were를 써요. 예를 들어 The men were tall, 그 남자들은 키가 컸어요."
+  },
+  "steps": [
+   {
+    "note": "(가) 날씨의 It → was ✓ · (나) children = child의 복수형인데 was ✗ · (다) children → were ✓",
+    "highlight": [
+     "(가) It was sunny.",
+     "(다) The children were happy."
+    ],
+    "strike": [
+     "(나) The children was happy."
+    ],
+    "narration": "첫째, 가 문장 It was sunny는 날씨가 화창했다는 뜻이고, 날씨의 It에 was가 맞아요. 나 문장 The children was happy는 child의 복수형인 children에 was를 써서 틀렸어요. 다 문장 The children were happy는 그 아이들은 행복했다는 뜻이고, were가 맞아요."
+   },
+   {
+    "note": "옳은 문장 (가), (다) → 2개 · 개수와 문장이 맞는 보기는 ⑤뿐",
+    "highlight": [
+     "⑤ 2개 - (가), (다)가 맞음."
+    ],
+    "strike": [
+     "① 2개 - (가), (나)가 맞음.",
+     "② 1개 - (다)만 맞음.",
+     "③ 3개 - 모두 맞음.",
+     "④ 1개 - (나)만 맞음."
+    ],
+    "narration": "둘째, 옳은 문장은 가, 다 2개이니, 개수와 문장이 맞는 보기는 5번뿐이에요."
+   },
+   {
+    "note": "⑤의 이유: 날씨의 It = 단수 → was · children = 복수형 → were ✓",
+    "highlight": [
+     "날씨의 'It'은 단수라 'was', 'children'은 'child'의 복수형이라 'were'를 씀."
+    ],
+    "strike": [],
+    "narration": "셋째, 5번은 이유도 It은 단수라 was, children은 복수형이라 were라고 바르게 말했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① 2개 - (가), (나)가 맞음. 'children'은 -s가 없으므로 단수로 보아 'was'를 씀.  ✗  s가 없어도 child의 복수형 → were",
+    "② 1개 - (다)만 맞음. 날씨를 나타내는 'It'에는 'were'를 써야 함.  ✗  날씨의 It은 단수 → was, (가)도 옳아요",
+    "③ 3개 - 모두 맞음. 'children'에는 'was'와 'were'를 모두 쓸 수 있음.  ✗  복수 children에는 were만 → (나)는 틀린 문장",
+    "④ 1개 - (나)만 맞음. 'children'은 한 무리를 가리키므로 'was'를 쓰고, 'It'에는 'were'를 씀.  ✗  children에는 were, It에는 was",
+    "⑤ 2개 - (가), (다)가 맞음. 날씨의 'It'은 단수라 'was', 'children'은 'child'의 복수형이라 'were'를 씀.  ✓  개수·문장·이유가 모두 맞아요"
+   ],
+   "narration": "정답은 5번이에요. 1번처럼 children 끝에 s가 없어서 한 명이라고 생각하기 쉽지만, child의 복수형이라 were를 써요. 2번은 날씨의 It에 were를 쓴다고 했지만, It은 단수라 was가 맞아요."
+  },
+  "summary": {
+   "card": "날씨의 it → was · children(child의 복수형) → were",
+   "narration": "정답은 5번이에요. 기억할 것, 날씨의 it에는 was, children처럼 s가 없는 복수 명사에는 were를 써요."
+  },
+  "captions": [
+   "날씨 It·children의 was·were",
+   "먼저 풀어 보세요",
+   "s 없는 복수 명사도 were",
+   "문장 판정 → 2개 → 이유 확인",
+   "정답 ⑤",
+   "날씨 it → was · children → were"
+  ],
+  "sec": [
+   13,
+   18,
+   32,
+   37,
+   24,
+   11
+  ]
+ }
+}

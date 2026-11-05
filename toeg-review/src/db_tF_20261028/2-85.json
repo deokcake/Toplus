@@ -1,0 +1,28 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차)",
+  "done": true,
+  "doneAt": "2026-10-26T11:43:40.927Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "1",
+    "c": {
+      "0": "more long than the Han River",
+      "1": "the longest river in Korea",
+      "2": "longer than any other river in the country",
+      "3": "No other river in Korea is as long as the Nakdong River",
+      "4": "as soon as I can"
+    },
+    "expl": "핵심 규칙: 최상급은 the + -est/most + 원급으로, 비교급은 -er/more + 원급 + than으로 쓰며 more와 -er, most와 -est를 겹쳐 쓰지 않는다. bad-worse-worst 같은 불규칙 변화도 확인한다. No other + 단수명사 + 비교급 than(as + 원급 + as)은 최상급의 뜻을 나타낸다.\n풀이 순서: ① 밑줄마다 비교 표현의 형태를 본다. 원급은 as ~ as, 비교급은 -er/more ~ than, 최상급은 the -est/the most ~다. → ② more와 -er, most와 -est를 겹치거나, 불규칙 변화(bad - worse)를 무시하면 틀린다. → ③ 선택지 ①이 틀렸다: more long이 아니라 longer.\n문장별 판정:\n정답 판단: long의 비교급은 longer이므로 more long은 쓰지 않는다.\n선택지 분석:\n① [정답] long의 비교급은 longer이고, more long은 쓰지 않으므로 정답이다.\n② [오답] the + -est의 바른 최상급이므로 오답이다.\n③ [오답] 비교급 + than any other + 단수명사(최상급의 뜻)의 바른 형태이므로 오답이다.\n④ [오답] No other + 단수명사 + as + 원급 + as(최상급의 뜻)의 바른 형태이므로 오답이다.\n⑤ [오답] as + 원급 + as의 바른 형태이므로 오답이다.",
+    "passage": "A: Is the Nakdong River ①<u>more long than the Han River</u>?\nB: Yes, it is. It's ②<u>the longest river in Korea</u>, as far as I know.\nA: Is it really ③<u>longer than any other river in the country</u>?\nB: Of course. ④<u>No other river in Korea is as long as the Nakdong River</u>.\nA: Interesting. I'd like to visit it ⑤<u>as soon as I can</u> this summer vacation with my family.",
+    "stem": "다음 대화에서 사용된 표현 중 어법상 옳지 않은 것을 고르시오."
+  },
+  "tab": "95njaa9y",
+  "updatedAt": "2026-10-26T11:43:40.927Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T11:43:40.927Z",
+      "what": "확인 완료"
+    }
+  }
+}

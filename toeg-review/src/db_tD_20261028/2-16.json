@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:53:51.956Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "owning",
+      "1": "own",
+      "2": "are owned",
+      "3": "are own",
+      "4": "owns"
+    },
+    "expl": "핵심 규칙: 상태를 나타내는 동사(know, believe, own, need, resemble 등)는 보통 진행형으로 쓰지 않고 단순현재로 쓴다. 상태동사도 특정 의미·문맥에서는 진행형으로 쓰일 수 있으므로 진행형을 언제나 비문이라고 단정하지 않는다. 단순현재형은 주어와 수를 일치시킨다.\n풀이 순서: ① 밑줄의 동사(own)가 동작인지 상태인지 본다. ‘소유하다’는 상태를 나타내므로 진행형으로 쓰지 않는다. → ② 진행형을 단순현재로 고친다. be동사 + 동사원형, 수동태, -ing만 남긴 보기는 지운다. → ③ 주어(We)에 수를 맞추면 own이다.\n문장별 판정:\n정답 판단: 주어 We에 맞는 own의 단순현재형은 own이다. 완성문: We own this apartment.\n선택지 분석:\n① [오답] owning만으로는 문장의 정형동사가 되지 않는다. 단순현재 동사가 필요하다. 완성문: We own this apartment.\n② [정답] 주어 We에 맞는 own의 단순현재형은 own이다. 완성문: We own this apartment.\n③ [오답] are owned는 수동형이다. 주어가 직접 느끼거나 알고 소유하는 원문의 능동 상태를 나타내지 않는다. 완성문: We own this apartment.\n④ [오답] be동사 are와 동사원형 own을 이렇게 직접 연결할 수 없다. 완성문: We own this apartment.\n⑤ [오답] 단순현재 동사의 수를 주어 We에 맞추면 own이다. owns는 주어와 일치하지 않는다. 완성문: We own this apartment.",
+    "passage": "We <u>are owning</u> this apartment near the river.",
+    "stem": "다음 밑줄 친 부분을 바르게 고친 것으로 알맞은 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T10:11:06.413Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T10:11:17.780Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음"
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:53:51.956Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:53:48.653Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:53:51.956Z",
+      "what": "확인 완료"
+    }
+  }
+}

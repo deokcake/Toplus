@@ -1,0 +1,39 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-04T11:56:23.040Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "(A), (B)",
+      "1": "(B), (D)",
+      "2": "(A), (C)",
+      "3": "(C), (E)",
+      "4": "(D), (E)"
+    },
+    "expl": "핵심 규칙: as ~ as 안에서 동사를 꾸미면 부사를, be동사·연결동사(look, feel, seem, sound, become)의 보어이면 형용사를 쓴다.\n풀이 순서: ① 밑줄마다 as ~ as 앞의 동사를 본다. 일반동사를 꾸미면 부사 자리, look·feel·seem·sound·become 뒤면 형용사 자리다. → ② (B) run 뒤는 부사 자리인데 형용사 quick을, (D) felt 뒤는 형용사 자리인데 부사 confidently를 썼다. → ③ 틀린 두 곳을 모은 (B), (D)를 고른다.\n문장별 판정:\n(A) 옳음: hard는 trained를 꾸미는 부사이다.\n(B) 틀림: run을 꾸미므로 부사 quickly를 써야 한다.\n(C) 옳음: seemed의 보어이므로 형용사 pleased이다.\n(D) 틀림: felt의 보어이므로 형용사 confident를 써야 한다.\n(E) 옳음: became의 보어이므로 형용사 strong이다.\n정답 판단: 어법상 틀린 것은 (B), (D)이다.\n선택지 분석:\n① [오답] (A)는 틀린 것이 아니고, 틀린 것 (D)를 빠뜨렸다. 따라서 오답이다.\n② [정답] 틀린 것 (B), (D)를 빠짐없이 골랐으므로 정답이다.\n③ [오답] (A), (C)는 틀린 것이 아니고, 틀린 것 (B), (D)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (C), (E)는 틀린 것이 아니고, 틀린 것 (B), (D)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (E)는 틀린 것이 아니고, 틀린 것 (B)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "Before the city marathon, Tom trained (A)<u>as hard as</u> he could every morning. During the race, he tried to run (B)<u>as quick as</u> the experienced runners in front of him. His coach, waiting at the finish line, seemed (C)<u>as pleased as</u> ever with his effort. After the race, Tom felt (D)<u>as confidently as</u> a real champion. Thanks to all that training, he finally became (E)<u>as strong as</u> his older brother.",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-01T05:18:57.000Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-01T05:15:21.092Z",
+      "text": "원형 문항에 비해 지문이 너무 짧음."
+    }
+  },
+  "tab": "7cl4h520",
+  "updatedAt": "2026-10-04T11:56:23.040Z",
+  "verdict": null,
+  "verdictAt": "2026-10-04T11:56:21.639Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-04T11:56:23.040Z",
+      "what": "확인 완료"
+    }
+  }
+}

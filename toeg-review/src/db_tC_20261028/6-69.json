@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-21T11:37:03.069Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "(A): Do\t(B): has",
+      "1": "(A): Does\t(B): have",
+      "2": "(A): Does\t(B): has",
+      "3": "(A): Is\t(B): has",
+      "4": "(A): Do\t(B): have"
+    },
+    "expl": "핵심 규칙: have to의 현재 의문문은 Do/Does + 주어 + have to + 동사원형?으로 쓰고, 3인칭 단수 주어의 긍정문에는 has to를 쓴다. Does 뒤에는 has가 아니라 have를 쓴다.\n풀이 순서: ① 대답을 본다: Yes, she ( ) to. 질문도 같은 조동사로 시작한다. → ② (A) 주어 Jane은 3인칭 단수라 Does, (B) 대답은 긍정문이라 has to다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 의문문에 Does, 긍정 대답에 she has to를 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] (A): 3인칭 단수 주어 Jane에는 Does를 쓰므로 오답이다.\n② [오답] (B): 긍정 대답의 3인칭 단수 주어 she에는 has to를 쓰므로 오답이다.\n③ [정답] 의문문에 Does, 긍정 대답에 she has to를 바르게 썼으므로 정답이다.\n④ [오답] (A): have to의 의문문에는 be동사 Is를 쓰지 않으므로 오답이다.\n⑤ [오답] (A): Jane에는 Does를, (B): she에는 has를 쓰므로 오답이다.",
+    "passage": "A: (<u>    A    </u>) Jane have to study today?\nB: Yes, she (<u>    B    </u>) to.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-21T11:37:00.468Z"
+  },
+  "tab": "ojjpxrut",
+  "updatedAt": "2026-10-21T11:37:03.069Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T11:37:03.069Z",
+      "what": "확인 완료"
+    }
+  }
+}

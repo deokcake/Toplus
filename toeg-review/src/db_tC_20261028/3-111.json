@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-23T05:22:39.161Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "on",
+      "1": null,
+      "2": "at",
+      "3": "for",
+      "4": "by"
+    },
+    "expl": "핵심 규칙: 장소는 at(한 지점), on(표면에 닿은 곳), in(공간 안·도시·나라)으로, 시간은 at(시각), on(요일·날짜), in(월·연도·계절)으로 나타낸다.\n풀이 순서: ① 두 문장을 따로 본다. 첫 문장: 버스 정류장이라는 한 지점이므로 at. → ② 둘째 문장: 시각(seven o'clock) 앞에도 at. → ③ 두 자리에 모두 맞는 전치사는 at.\n문장별 판정:\n정답 판단: 한 지점(at the bus stop)과 시각(at seven o'clock)에 모두 at을 쓰므로 정답은 ③이다.\n선택지 분석:\n① [오답] on: 두 빈칸 중 적어도 한 곳에 맞지 않으므로 오답이다.\n② [오답] in: 두 빈칸 중 적어도 한 곳에 맞지 않으므로 오답이다.\n③ [정답] 한 지점(at the bus stop)과 시각(at seven o'clock)에 모두 at을 쓰므로 정답이다.\n④ [오답] for: 두 빈칸 중 적어도 한 곳에 맞지 않으므로 오답이다.\n⑤ [오답] by: 두 빈칸 중 적어도 한 곳에 맞지 않으므로 오답이다.",
+    "passage": "- Let's meet _____ the bus stop.\n- The movie starts _____ seven o'clock.",
+    "stem": "다음 빈칸에 공통으로 들어갈 전치사를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:21:56.011Z"
+  },
+  "tab": "fhh9u0lo",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:22:39.161Z",
+      "what": "확인 완료"
+    }
+  }
+}

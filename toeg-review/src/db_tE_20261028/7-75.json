@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T08:03:23.537Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "A: Who is that boy? - B: He is my brother.",
+      "1": "A: What time is it now? - B: It's half past two.",
+      "2": "A: How much is it? - B: It's five dollars.",
+      "3": "A: What do you like? - B: I like cats.",
+      "4": null
+    },
+    "expl": "핵심 규칙: 질문의 의문사가 묻는 정보(나이, 요일, 시각, 날씨, 장소, 직업 등)에 맞게 답했는지 확인한다.\n풀이 순서: ① 질문마다 의문사가 무엇을 묻는지 본다. → ② 대답이 그 정보를 주는지 견준다. → ③ 선택지 ⑤는 장소(Where)를 물었는데 나이로 답했다. 정답은 ⑤.\n문장별 판정:\n정답 판단: 가방의 위치를 묻는데 나이로 답했으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 누구인지 묻는 질문에 알맞게 답했으므로 오답이다.\n② [오답] 시각을 묻는 질문에 시각으로 알맞게 답했으므로 오답이다.\n③ [오답] 값을 묻는 질문에 값으로 알맞게 답했으므로 오답이다.\n④ [오답] 좋아하는 것을 묻는 질문에 알맞게 답했으므로 오답이다.\n⑤ [정답] 가방의 위치를 묻는데 나이로 답했으므로 정답이다.",
+    "passage": null,
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T08:03:21.309Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T08:03:23.537Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T08:03:23.537Z",
+      "what": "확인 완료"
+    }
+  }
+}

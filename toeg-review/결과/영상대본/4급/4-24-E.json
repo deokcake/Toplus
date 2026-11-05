@@ -1,0 +1,180 @@
+{
+ "key": "4-24",
+ "type": "E",
+ "grade": 4,
+ "chapter": "CH 3 be동사와 일반동사",
+ "title": "대답 No, we don't에 맞는 질문",
+ "total_sec": 141,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "4급 · CH 3 be동사와 일반동사 · 24번 · E 유형\n\n이 문제는 대답 No, we don't와 짝이 맞는 질문을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "4급 · CH 3 be동사와 일반동사 · 24번 · E 유형",
+     "이 문제는 대답 No, we don't와 짝이 맞는 질문을 고르는 문제예요."
+    ]
+   },
+   "narration": "4급 챕터 3, 24번 E 유형. 이 문제는 대답 No, we don't와 짝이 맞는 질문을 고르는 문제예요.",
+   "caption": "No, we don't에 맞는 질문"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 17,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말을 고르시오.\n\nA: _____________________\nB: No, we don't.\n\n① Are you and your brother students?\n② Do they study English?\n③ Do you and your brother study English?\n④ Did you study English?\n⑤ Does your brother study English?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 들어갈 말을 고르시오.",
+     "A: _____________________",
+     "B: No, we don't.",
+     "① Are you and your brother students?",
+     "② Do they study English?",
+     "③ Do you and your brother study English?",
+     "④ Did you study English?",
+     "⑤ Does your brother study English?"
+    ]
+   },
+   "narration": "다음 빈칸에 들어갈 말을 고르세요. 대답은 No, we don't예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 39,
+   "screen": {
+    "text": "핵심 규칙\nYes, No로 짧게 답할 때는 질문을 시작한 말에 맞춰요.\nDo → do, don't      Does → does, doesn't\nbe동사 → be동사      Did → did      Can → can\n대답의 주어는 질문의 주어를 가리키는 대명사 (you → I, you and Mina → we)\n예) Do you and Mina walk to school? — Yes, we do. (너와 미나는 학교에 걸어가니? 응, 걸어가.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "Yes, No로 짧게 답할 때는 질문을 시작한 말에 맞춰요.",
+     "Do → do, don't      Does → does, doesn't",
+     "be동사 → be동사      Did → did      Can → can",
+     "대답의 주어는 질문의 주어를 가리키는 대명사 (you → I, you and Mina → we)",
+     "예) Do you and Mina walk to school? — Yes, we do. (너와 미나는 학교에 걸어가니? 응, 걸어가.)"
+    ]
+   },
+   "narration": "Yes나 No로 짧게 답할 때는 질문을 시작한 말에 맞춰요. Do로 물으면 do나 don't, Does로 물으면 does나 doesn't로 답해요. be동사로 물으면 be동사, Did는 did, Can은 can으로 답해요. 주어는 질문의 주어를 가리키는 대명사로 쓰고, 나를 포함한 여러 명에게 물으면 we로 답해요. 예를 들어 Do you and Mina walk to school? 너와 미나는 학교에 걸어가니, 하고 물으면 Yes, we do, 응, 걸어가, 하고 답해요.",
+   "caption": "질문을 시작한 말에 맞춰 답해요"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 38,
+   "screen": {
+    "text": "다음 빈칸에 들어갈 말을 고르시오.\n\nA: _____________________\nB: No, we don't.\n\n① Are you and your brother students?\n② Do they study English?\n③ Do you and your brother study English?\n④ Did you study English?\n⑤ Does your brother study English?",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "B: No, we don't."
+      ],
+      "strike": [
+       "① Are you and your brother students?",
+       "④ Did you study English?",
+       "⑤ Does your brother study English?"
+      ],
+      "note": "don't = do + not → 질문은 Do로 시작 → Are, Did, Does 질문 ①④⑤는 지운다"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "③ Do you and your brother study English?"
+      ],
+      "strike": [
+       "② Do they study English?"
+      ],
+      "note": "주어 we = 나를 포함한 여러 명 → they는 지우고 you and your brother(→ we) → ③"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ Do you and your brother study English?"
+      ],
+      "strike": [],
+      "note": "Do you and your brother study English? — No, we don't."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 대답의 don't는 do에 not이 붙은 말이니, 질문은 Do로 시작해야 해요. Are, Did, Does로 묻는 1번, 4번, 5번을 지워요. 둘째, 대답의 주어 we는 나를 포함한 여러 명이에요. 2번의 they는 그대로 they로 받으니 지우고, 3번의 you and your brother는 we로 받아요. 셋째, Do you and your brother study English? 너와 네 형제는 영어를 공부하니? No, we don't, 아니, 우리는 안 해.",
+   "caption": "don't → Do, we → you and"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① Are you and your brother students?  ✗  be동사 Are로 물었으니 No, we aren't.\n② Do they study English?  ✗  they는 그대로 they → No, they don't.\n③ Do you and your brother study English?  ✓  Do + you and your brother(→ we) → No, we don't.\n④ Did you study English?  ✗  Did로 물었으니 didn't로 답해요.\n⑤ Does your brother study English?  ✗  형제 한 명(→ he) + Does → No, he doesn't.",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Are you and your brother students?  ✗  be동사 Are로 물었으니 No, we aren't.",
+     "② Do they study English?  ✗  they는 그대로 they → No, they don't.",
+     "③ Do you and your brother study English?  ✓  Do + you and your brother(→ we) → No, we don't.",
+     "④ Did you study English?  ✗  Did로 물었으니 didn't로 답해요.",
+     "⑤ Does your brother study English?  ✗  형제 한 명(→ he) + Does → No, he doesn't."
+    ]
+   },
+   "narration": "정답은 3번이에요. 1번은 주어를 we로 받지만, be동사 Are로 물었으니 No, we aren't로 답해요. 5번은 형제 한 명에 대해 Does로 물었으니 No, he doesn't로 답해요.",
+   "caption": "정답 ③ Do you and your brother"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ③ Do you and your brother study English?\n\nDo로 물으면 do, don't로 · 나를 포함한 여러 명에게 물으면 we로",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ Do you and your brother study English?",
+     "Do로 물으면 do, don't로 · 나를 포함한 여러 명에게 물으면 we로"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, Do로 물으면 do나 don't로 답하고, 나를 포함한 여러 명에게 물으면 we로 답해요.",
+   "caption": "Do → do, don't · we"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 들어갈 말을 고르시오.",
+  "passage": "A: _____________________\nB: No, we don't.",
+  "c": [
+   "Are you and your brother students?",
+   "Do they study English?",
+   "Do you and your brother study English?",
+   "Did you study English?",
+   "Does your brother study English?"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: Do/Does 의문문에는 do/does로, be동사 의문문에는 am/is/are로, 과거 의문문에는 did로, 조동사 의문문에는 그 조동사로 답한다. 대답의 대명사는 질문의 주어에 맞춘다.\n풀이 순서: ① 대답에서 두 가지를 읽는다: 주어(we), 조동사(don't). → ② 질문은 같은 조동사로 시작하고, 주어는 대답의 대명사로 받을 수 있는 말이어야 한다. → ③ Do + you and your brother로 시작하는 질문만 맞다. 정답은 ③.\n문장별 판정:\n정답 판단: you and your brother를 we로 받는 Do 의문문이라 No, we don't로 답하므로 정답은 ③이다.\n선택지 분석:\n① [오답] be동사 질문이라 No, we aren't로 답하므로 오답이다.\n② [오답] 주어 they는 they로 받으므로 오답이다.\n③ [정답] you and your brother를 we로 받는 Do 의문문이라 No, we don't로 답하므로 정답이다.\n④ [오답] 과거 질문이라 didn't로 답하므로 오답이다.\n⑤ [오답] 단수 주어라 No, he doesn't로 답하므로 오답이다."
+ }
+}

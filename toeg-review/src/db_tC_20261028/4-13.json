@@ -1,0 +1,30 @@
+{
+  "by": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "done": true,
+  "doneAt": "2026-10-24T02:54:16.772Z",
+  "doneBy": "u_p7DX7y1beMZ8et5ArgcmKw",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "Tom helped <u>I</u>. → Tom helped <u>mine</u>.",
+      "1": "This pencil is <u>your's</u>. → This pencil is <u>yours</u>.",
+      "2": "<u>Who's</u> umbrella is this? → <u>Whose</u> umbrella is this?",
+      "3": "She called <u>he</u>. → She called <u>him</u>.",
+      "4": "These cookies are <u>our</u>. → These cookies are <u>ours</u>."
+    },
+    "expl": "핵심 규칙: 동사·전치사의 목적어 자리에는 목적격(me, him, her, us, them)을 쓴다. 명사 없이 ‘~의 것’은 소유대명사(mine, yours, hers, ours, theirs)로 쓰며 아포스트로피(')를 붙이지 않고, ‘누구의’는 Whose로 쓴다.\n풀이 순서: ① 고친 말이 그 자리에 맞는지 본다: 명사 앞이면 소유격, 명사가 없으면 소유대명사, 동사·전치사 뒤면 목적격. → ② 선택지 ①은 동사 helped 뒤라 목적격 me가 와야 하는데 mine으로 고쳤다. → ③ 정답은 ①.\n문장별 판정:\n정답 판단: 목적어 자리는 목적격 me여야 하는데 소유대명사 mine으로 고쳐 바르게 고치지 못했으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 목적어 자리는 목적격 me여야 하는데 소유대명사 mine으로 고쳐 바르게 고치지 못했으므로 정답이다.\n② [오답] 소유대명사 yours에는 '를 붙이지 않으고, 바르게 고쳤으므로 오답이다.\n③ [오답] ‘누구의’는 Whose이고, 바르게 고쳤으므로 오답이다.\n④ [오답] 목적어 자리에는 목적격 him을 쓰고, 바르게 고쳤으므로 오답이다.\n⑤ [오답] 명사 없이 ‘우리 것’은 ours이고, 바르게 고쳤으므로 오답이다.",
+    "passage": null,
+    "stem": "밑줄 친 부분을 바르게 고치지 못한 것을 고르시오."
+  },
+  "editors": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": "2026-10-24T02:54:14.987Z"
+  },
+  "tab": "ai7fx4gw",
+  "updatedAt": "2026-10-24T02:54:16.772Z",
+  "who": {
+    "u_p7DX7y1beMZ8et5ArgcmKw": {
+      "at": "2026-10-24T02:54:16.772Z",
+      "what": "확인 완료"
+    }
+  }
+}

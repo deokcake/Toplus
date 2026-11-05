@@ -1,0 +1,180 @@
+{
+ "key": "3-18",
+ "type": "E",
+ "grade": 3,
+ "chapter": "CH 2 일반동사",
+ "title": "일반동사 현재 부정문 do not",
+ "total_sec": 135,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 13,
+   "screen": {
+    "text": "3급 · CH 2 일반동사 · 18번 · E 유형\n\n이 문제는 주어 I와 일반동사 like가 쓰인 현재 문장을 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "3급 · CH 2 일반동사 · 18번 · E 유형",
+     "이 문제는 주어 I와 일반동사 like가 쓰인 현재 문장을 부정문으로 바르게 바꾼 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "3급 챕터 2, 18번 E 유형. 이 문제는 주어 I와 일반동사 like가 쓰인 현재 문장을 부정문으로 바르게 바꾼 것을 고르는 문제예요.",
+   "caption": "일반동사 현재 부정문"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 21,
+   "screen": {
+    "text": "다음 문장을 부정문으로 바꾼 것을 고르시오.\n\nI like coffee with milk in the morning.\n\n① I do not likes coffee with milk in the morning.\n② I not like coffee with milk in the morning.\n③ I am not like coffee with milk in the morning.\n④ I do not like coffee with milk in the morning.\n⑤ I does not like coffee with milk in the morning.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 문장을 부정문으로 바꾼 것을 고르시오.",
+     "I like coffee with milk in the morning.",
+     "① I do not likes coffee with milk in the morning.",
+     "② I not like coffee with milk in the morning.",
+     "③ I am not like coffee with milk in the morning.",
+     "④ I do not like coffee with milk in the morning.",
+     "⑤ I does not like coffee with milk in the morning."
+    ]
+   },
+   "narration": "다음 문장을 부정문으로 바꾼 것을 고르세요. I like coffee with milk in the morning. 나는 아침에 우유를 넣은 커피를 좋아해요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 29,
+   "screen": {
+    "text": "핵심 규칙\n일반동사 현재 문장의 부정문(~하지 않아요) → do/does + not + 동사원형\nI, you, 복수 주어(we, they 등) → do not (줄여서 don't)\n3인칭 단수 주어(he, she, it, Mina 등) → does not (줄여서 doesn't)\ndo not, does not 뒤의 동사는 원형 (do not eats ✗ → do not eat)\n예) I eat fish. → I do not eat fish. (나는 생선을 먹지 않아요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "일반동사 현재 문장의 부정문(~하지 않아요) → do/does + not + 동사원형",
+     "I, you, 복수 주어(we, they 등) → do not (줄여서 don't)",
+     "3인칭 단수 주어(he, she, it, Mina 등) → does not (줄여서 doesn't)",
+     "do not, does not 뒤의 동사는 원형 (do not eats ✗ → do not eat)",
+     "예) I eat fish. → I do not eat fish. (나는 생선을 먹지 않아요.)"
+    ]
+   },
+   "narration": "일반동사 현재 문장을 하지 않는다는 뜻의 부정문으로 바꿀 때는 동사 앞에 do not이나 does not을 써요. 주어가 I, you나 복수이면 do not, he, she, it 같은 3인칭 단수이면 does not을 써요. 뒤의 동사는 꼭 동사원형으로 써요. 예를 들어 I eat fish는 I do not eat fish가 돼요. 나는 생선을 먹지 않아요.",
+   "caption": "do/does not + 동사원형"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 문장을 부정문으로 바꾼 것을 고르시오.\n\nI like coffee with milk in the morning.\n\n① I do not likes coffee with milk in the morning.\n② I not like coffee with milk in the morning.\n③ I am not like coffee with milk in the morning.\n④ I do not like coffee with milk in the morning.\n⑤ I does not like coffee with milk in the morning.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "I like coffee with milk in the morning."
+      ],
+      "strike": [
+       "② I not like coffee with milk in the morning.",
+       "③ I am not like coffee with milk in the morning."
+      ],
+      "note": "like = 일반동사 현재형 → do/does가 필요. not만 넣은 ②, be동사 am not을 쓴 ③ 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "I like coffee with milk in the morning."
+      ],
+      "strike": [
+       "⑤ I does not like coffee with milk in the morning."
+      ],
+      "note": "주어 I → do not. does not을 쓴 ⑤ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ I do not like coffee with milk in the morning."
+      ],
+      "strike": [
+       "① I do not likes coffee with milk in the morning."
+      ],
+      "note": "do not 뒤는 동사원형 like → ① 지움, ④ 남음"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, like는 일반동사의 현재형이니 do나 does가 필요해서, not만 넣은 2번과 be동사 am not을 쓴 3번은 지워요. 둘째, 주어 I에는 do not을 쓰니, does not을 쓴 5번도 지워요. 셋째, do not 뒤에는 동사원형 like를 쓰니 likes를 쓴 1번도 틀렸어요. 남는 것은 4번이에요. I do not like coffee with milk in the morning. 나는 아침에 우유를 넣은 커피를 좋아하지 않아요.",
+   "caption": "일반동사 → I → do not like"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 25,
+   "screen": {
+    "text": "① I do not likes coffee with milk in the morning.  ✗  do not 뒤에 likes (→ like)\n② I not like coffee with milk in the morning.  ✗  do 없이 not만 넣었어요\n③ I am not like coffee with milk in the morning.  ✗  be동사 am not과 동사원형 like를 나란히 썼어요\n④ I do not like coffee with milk in the morning.  ✓  I → do not + 동사원형 like\n⑤ I does not like coffee with milk in the morning.  ✗  I에는 does not이 아니라 do not",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① I do not likes coffee with milk in the morning.  ✗  do not 뒤에 likes (→ like)",
+     "② I not like coffee with milk in the morning.  ✗  do 없이 not만 넣었어요",
+     "③ I am not like coffee with milk in the morning.  ✗  be동사 am not과 동사원형 like를 나란히 썼어요",
+     "④ I do not like coffee with milk in the morning.  ✓  I → do not + 동사원형 like",
+     "⑤ I does not like coffee with milk in the morning.  ✗  I에는 does not이 아니라 do not"
+    ]
+   },
+   "narration": "정답은 4번이에요. 1번은 do not 뒤에 likes를 써서 틀렸어요. do not 뒤에는 늘 동사원형을 써요. 3번은 be동사 am not 뒤에 동사원형 like를 나란히 써서 틀렸어요. 5번 does not은 3인칭 단수 주어에 쓰고, I에는 do not을 써요.",
+   "caption": "정답 ④"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ④ I do not like coffee with milk in the morning.\n\nI, you, 복수 주어 → do not + 동사원형 (3인칭 단수 → does not)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ I do not like coffee with milk in the morning.",
+     "I, you, 복수 주어 → do not + 동사원형 (3인칭 단수 → does not)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, I, you, 복수 주어에는 do not을 쓰고, 그 뒤에는 동사원형을 써요.",
+   "caption": "I·you·복수 → do not + 원형"
+  }
+ ],
+ "source": {
+  "stem": "다음 문장을 부정문으로 바꾼 것을 고르시오.",
+  "passage": "I like coffee with milk in the morning.",
+  "c": [
+   "I do not likes coffee with milk in the morning.",
+   "I not like coffee with milk in the morning.",
+   "I am not like coffee with milk in the morning.",
+   "I do not like coffee with milk in the morning.",
+   "I does not like coffee with milk in the morning."
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 현재시제의 3인칭 단수 주어는 일반동사에 -(e)s를 붙이지만, does 뒤에서는 동사원형을 쓴다.\n풀이 순서: ① 동사(like)가 일반동사의 현재형이다. 부정문은 do/does + not + 동사원형이다. → ② 주어(I)에 맞춰 do not을 쓴다. 본동사는 원형(like)으로 되돌린다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: do not + 동사원형으로 바르게 바꿨으므로 정답은 ④이다.\n선택지 분석:\n① [오답] do not 뒤에는 동사원형 like를 써야 하므로 오답이다.\n② [오답] not만으로는 일반동사를 부정할 수 없으므로 오답이다.\n③ [오답] 일반동사의 부정에 be동사를 쓰지 않으므로 오답이다.\n④ [정답] do not + 동사원형으로 바르게 바꿨으므로 정답이다.\n⑤ [오답] 주어 I에는 does가 아니라 do를 쓰므로 오답이다."
+ }
+}

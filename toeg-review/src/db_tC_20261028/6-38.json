@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-21T11:24:14.064Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Does your sister plays the violin?",
+      "1": "Do Mina know the answer?",
+      "2": "Is he want some water?",
+      "3": "Do your cousins live in Seoul?",
+      "4": "Does we need a map?"
+    },
+    "expl": "핵심 규칙: 일반동사 현재형은 3인칭 단수 주어에 -s/-es를 붙이고, 그 밖의 주어에는 동사원형을 쓴다. 의문문은 Do/Does + 주어 + 동사원형 ~?, 부정문은 don't/doesn't + 동사원형으로 쓴다.\n풀이 순서: ① 맨 앞의 Do/Does가 주어와 맞는지 본다(3인칭 단수 → Does). → ② 뒤의 동사가 원형인지 본다. Is/Are로 시작한 문장은 일반동사 의문문이 될 수 없다. → ③ 선택지 ④만 Do + your cousins + live로 두 가지가 모두 맞는다. 정답은 ④.\n문장별 판정:\n정답 판단: 복수 주어에 Do + 동사원형 live를 바르게 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] Does 뒤에는 동사원형 play를 써야 하므로 오답이다.\n② [오답] 3인칭 단수 주어 Mina에는 Does를 써야 하므로 오답이다.\n③ [오답] 일반동사 want의 의문문에는 be동사 Is가 아니라 Does를 써야 하므로 오답이다.\n④ [정답] 복수 주어에 Do + 동사원형 live를 바르게 썼으므로 정답이다.\n⑤ [오답] 주어 we에는 Do를 써야 하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 어법상 옳은 문장을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-21T11:24:12.801Z"
+  },
+  "tab": "ojjpxrut",
+  "updatedAt": "2026-10-21T11:24:14.064Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-21T11:24:14.064Z",
+      "what": "확인 완료"
+    }
+  }
+}

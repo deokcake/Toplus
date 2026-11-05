@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T09:11:12.940Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "buy, pray",
+      "1": "push, finish",
+      "2": "come, write",
+      "3": "carry, marry",
+      "4": "do, go"
+    },
+    "expl": "핵심 규칙: 자음 + y로 끝나는 동사는 y를 i로 바꾸고 -es를 붙인다(study → studies). 모음 + y는 -s만 붙이고(play → plays), -s·-sh·-ch·-x·-o로 끝나면 -es를 붙인다.\n풀이 순서: ① <보기>의 동사 원형을 찾는다: study, carry. 둘 다 ‘자음 + y’로 끝나 y를 i로 바꾸고 -es를 붙였다. → ② 보기에서 두 동사가 모두 ‘자음 + y’로 끝나는 묶음을 찾는다. ‘모음 + y’(play, buy)는 -s만 붙이므로 다르다. → ③ 정답은 carry, marry.\n문장별 판정:\n정답 판단: 자음 + y로 끝나 y를 i로 바꾸고 -es를 붙이는 동사들이라 <보기>와 같으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 모음 + y로 끝나 -s만 붙이므로 오답이다.\n② [오답] -s·-sh·-ch·-x·-o로 끝나 -es만 붙이므로 오답이다.\n③ [오답] -s만 붙이는 동사들이므로 오답이다.\n④ [정답] 자음 + y로 끝나 y를 i로 바꾸고 -es를 붙이는 동사들이라 <보기>와 같으므로 정답이다.\n⑤ [오답] -s·-sh·-ch·-x·-o로 끝나 -es만 붙이므로 오답이다.",
+    "passage": "<보기>\nThe bird <u>flies</u> high.\nMom <u>dries</u> the clothes.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T09:11:10.852Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T09:11:12.940Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T09:11:12.940Z",
+      "what": "확인 완료"
+    }
+  }
+}

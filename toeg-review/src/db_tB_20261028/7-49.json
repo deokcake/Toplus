@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-04T11:24:00.430Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Is these two bags?",
+      "1": "Are these two bags?",
+      "2": "Are this two bags?",
+      "3": "Is this two bag?",
+      "4": "Are these two bag?"
+    },
+    "expl": "핵심 규칙: 지시어와 be동사, 명사의 수를 함께 맞춘다. this/that + is + a/an + 단수 명사, these/those + are + 복수 명사로 쓰고, a/an은 첫소리로 정한다.\n풀이 순서: ① <보기>에서 서로 맞지 않는 곳을 찾는다: Is this는 한 개인데 two bags는 두 개다. → ② 지시대명사·be동사·관사·명사의 수를 하나로 맞추면 Are these two bags? → ③ 정답은 ②.\n문장별 판정:\n정답 판단: 여러 개를 가리키는 these, are, 복수 명사를 바르게 맞췄으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 복수 주어 these에는 Is가 아니라 Are를 쓰므로 오답이다.\n② [정답] 여러 개를 가리키는 these, are, 복수 명사를 바르게 맞췄으므로 정답이다.\n③ [오답] 두 개를 가리키고, this가 아니라 these를 써야 하므로 오답이다.\n④ [오답] two 뒤에는 복수 명사 bags를 쓰고, 여러 개는 these와 are로 나타내므로 오답이다.\n⑤ [오답] two 뒤에는 복수 명사 bags를 써야 하므로 오답이다.",
+    "passage": null,
+    "stem": "다음 중 <보기>의 문장을 바르게 고쳐 쓴 것을 고르세요."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-04T11:23:58.592Z"
+  },
+  "tab": "012jzi2r",
+  "updatedAt": "2026-10-04T11:24:00.430Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-04T11:24:00.430Z",
+      "what": "확인 완료"
+    }
+  }
+}

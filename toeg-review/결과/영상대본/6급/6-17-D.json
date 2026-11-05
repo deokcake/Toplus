@@ -1,0 +1,183 @@
+{
+ "key": "6-17",
+ "type": "D",
+ "grade": 6,
+ "chapter": "CH 2 대명사와 be동사",
+ "title": "this, that, these, those 고르기",
+ "total_sec": 128,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "6급 · CH 2 대명사와 be동사 · 17번 · D 유형\n\n이 문제는 가까이 있는지 멀리 있는지, 하나인지 여럿인지를 따져서 두 빈칸에 공통으로 들어갈 말을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 2 대명사와 be동사 · 17번 · D 유형",
+     "이 문제는 가까이 있는지 멀리 있는지, 하나인지 여럿인지를 따져서 두 빈칸에 공통으로 들어갈 말을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 2, 17번 D 유형. 이 문제는 가까이 있는지 멀리 있는지, 하나인지 여럿인지를 따져서 두 빈칸에 공통으로 들어갈 말을 고르는 문제예요.",
+   "caption": "두 빈칸에 공통으로 들어갈 말"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 빈칸에 공통으로 들어갈 알맞은 단어를 고르세요.\n\nLook at _______ shoes. _______ are his.\n(저 신발들을 봐. 저것들은 그의 것이야.)\n\n① That\n② These\n③ They\n④ Those\n⑤ This",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸에 공통으로 들어갈 알맞은 단어를 고르세요.",
+     "Look at _______ shoes. _______ are his.",
+     "(저 신발들을 봐. 저것들은 그의 것이야.)",
+     "① That",
+     "② These",
+     "③ They",
+     "④ Those",
+     "⑤ This"
+    ]
+   },
+   "narration": "다음 빈칸에 공통으로 들어갈 알맞은 단어를 고르세요. Look at 빈칸 shoes, 빈칸 are his, 저 신발들을 봐, 저것들은 그의 것이야. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 30,
+   "screen": {
+    "text": "핵심 규칙\n가까이 있는 것 → this(하나), these(여럿)\n멀리 있는 것 → that(하나), those(여럿)\n명사 앞(이 꽃, 저 나무)에도, 혼자 주어(이것, 저것들)로도 써요\n주어일 때 현재형: This is, That is / These are, Those are\n예) These flowers are pretty. That is a tree. (이 꽃들은 예뻐요. 저것은 나무예요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "가까이 있는 것 → this(하나), these(여럿)",
+     "멀리 있는 것 → that(하나), those(여럿)",
+     "명사 앞(이 꽃, 저 나무)에도, 혼자 주어(이것, 저것들)로도 써요",
+     "주어일 때 현재형: This is, That is / These are, Those are",
+     "예) These flowers are pretty. That is a tree. (이 꽃들은 예뻐요. 저것은 나무예요.)"
+    ]
+   },
+   "narration": "this와 these는 말하는 사람 가까이에 있는 것을, that과 those는 멀리 있는 것을 가리키는데, this와 that은 하나를, these와 those는 여럿을 가리켜요. 이 말들은 명사 앞에 붙어서 이 꽃, 저 나무처럼 쓰기도 하고, 혼자 주어가 되어 이것, 저것들처럼 쓰기도 해요. 주어로 쓸 때 현재형 be동사는 하나를 가리키면 is, 여럿을 가리키면 are를 써요. These flowers are pretty, 이 꽃들은 예뻐요. That is a tree, 저것은 나무예요.",
+   "caption": "가까이 this·these, 멀리 that·those"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 빈칸에 공통으로 들어갈 알맞은 단어를 고르세요.\n\nLook at _______ shoes. _______ are his.\n(저 신발들을 봐. 저것들은 그의 것이야.)\n\n① That\n② These\n③ They\n④ Those\n⑤ This",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "저 신발들을",
+       "저것들은"
+      ],
+      "strike": [
+       "② These",
+       "⑤ This"
+      ],
+      "note": "우리말 ‘저 신발들’, ‘저것들’ → 멀리 있는 것. 가까운 것에 쓰는 These, This를 지운다."
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "shoes",
+       "are his"
+      ],
+      "strike": [
+       "① That"
+      ],
+      "note": "shoes는 신발 여러 개, 뒤에 are → 여럿. 하나를 가리키는 That을 지운다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ Those"
+      ],
+      "strike": [
+       "③ They"
+      ],
+      "note": "첫 빈칸은 명사 shoes 앞. They는 명사 앞에 못 쓴다 → Those"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 우리말이 저 신발들, 저것들이니 멀리 있는 것이라서, 가까이 있는 것에 쓰는 These와 This는 지워요. 둘째, shoes는 신발이 여러 개라는 뜻이고 두 번째 빈칸 뒤에 are가 있으니 여럿이라서, 하나를 가리키는 That도 지워요. 셋째, 첫 빈칸은 명사 shoes 앞인데, They는 명사 앞에 쓸 수 없으니 Those가 답이에요. Look at those shoes, 저 신발들을 봐. Those are his, 저것들은 그의 것이야.",
+   "caption": "거리 → 수 → 명사 앞 확인"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 26,
+   "screen": {
+    "text": "① That  ✗  멀리는 맞지만 하나 → shoes, are와 안 맞아요\n② These  ✗  여럿은 맞지만 가까운 것 → ‘저’와 안 맞아요\n③ They  ✗  주어는 되지만 명사 shoes 앞에는 못 써요\n④ Those  ✓  멀리 있는 여럿 → 명사 앞에도, 주어로도 써요\n⑤ This  ✗  가까이 있는 하나 → ‘저’, shoes, are와 안 맞아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① That  ✗  멀리는 맞지만 하나 → shoes, are와 안 맞아요",
+     "② These  ✗  여럿은 맞지만 가까운 것 → ‘저’와 안 맞아요",
+     "③ They  ✗  주어는 되지만 명사 shoes 앞에는 못 써요",
+     "④ Those  ✓  멀리 있는 여럿 → 명사 앞에도, 주어로도 써요",
+     "⑤ This  ✗  가까이 있는 하나 → ‘저’, shoes, are와 안 맞아요"
+    ]
+   },
+   "narration": "정답은 4번 Those예요. 3번 They는 둘째 빈칸의 주어로는 쓸 수 있지만, 첫 빈칸의 명사 shoes 앞에는 쓸 수 없어요. 2번 These는 여럿은 맞지만 가까이 있는 것에 쓰는 말이라, 우리말 저 신발들과 맞지 않아요. 1번 That은 멀리 있는 것은 맞지만 하나를 가리켜서, 여럿인 shoes, are와 맞지 않아요.",
+   "caption": "정답 ④ Those"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ④ Those\n\n가까이 this(하나)·these(여럿) / 멀리 that(하나)·those(여럿)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ Those",
+     "가까이 this(하나)·these(여럿) / 멀리 that(하나)·those(여럿)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, 가까이 있으면 this와 these, 멀리 있으면 that과 those를 쓰고, 하나에는 this와 that, 여럿에는 these와 those를 써요.",
+   "caption": "멀리 있는 여럿 → those"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸에 공통으로 들어갈 알맞은 단어를 고르세요.",
+  "passage": "Look at _______ shoes. _______ are his.\n(저 신발들을 봐. 저것들은 그의 것이야.)",
+  "c": [
+   "That",
+   "These",
+   "They",
+   "Those",
+   "This"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: this/that은 단수, these/those는 복수이다. this/these는 가까운 것, that/those는 먼 것을 가리킨다.\n풀이 순서: ① 우리말에서 거리를 본다: ‘저’ → 멀리. → ② 수를 본다: shoes, are → 여러 개. → ③ 두 조건에 맞는 말은 Those. 명사 앞과 주어 자리에 모두 들어가는지 확인한다.\n문장별 판정:\n정답 판단: Those는 먼 복수 대상을 가리킨다. 우리말은 먼 복수 대상을 가리키므로 Those를 고른다. 첫 빈칸에서는 명사를 꾸미고 둘째 빈칸에서는 주어 역할을 한다. 따라서 정답은 ④이다.\n선택지 분석:\n① [오답] That은 먼 단수 대상을 가리킨다. 우리말은 먼 복수 대상을 가리키므로 Those를 고른다. 첫 빈칸에서는 명사를 꾸미고 둘째 빈칸에서는 주어 역할을 한다.\n② [오답] These는 가까운 복수 대상을 가리킨다. 우리말은 먼 복수 대상을 가리키므로 Those를 고른다. 첫 빈칸에서는 명사를 꾸미고 둘째 빈칸에서는 주어 역할을 한다.\n③ [오답] They는 주격대명사이므로 둘째 문장의 주어가 될 수 있다. 그러나 첫 빈칸에서는 뒤의 명사 shoes를 직접 꾸미는 지시어가 필요하므로 두 빈칸에 공통으로 넣을 수 없다.\n④ [정답] Those는 먼 복수 대상을 가리킨다. 우리말은 먼 복수 대상을 가리키므로 Those를 고른다. 첫 빈칸에서는 명사를 꾸미고 둘째 빈칸에서는 주어 역할을 한다.\n⑤ [오답] This는 가까운 단수 대상을 가리킨다. 우리말은 먼 복수 대상을 가리키므로 Those를 고른다. 첫 빈칸에서는 명사를 꾸미고 둘째 빈칸에서는 주어 역할을 한다."
+ }
+}

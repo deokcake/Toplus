@@ -1,0 +1,44 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-27 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T03:33:38.260Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "must",
+      "1": "will",
+      "2": "might",
+      "3": "should",
+      "4": "has to"
+    },
+    "expl": "핵심 규칙: must(~해야 한다), must not(~하면 안 된다), can(~할 수 있다), might(~일지도 모른다), will(~할 것이다)처럼 우리말 뜻에 맞는 조동사를 고른다.\n풀이 순서: ① 우리말에서 조동사에 해당하는 말을 찾는다: ‘올지도 모른다’. → ② 약한 추측을 나타내는 조동사는 might다. → ③ 정답은 might.\n문장별 판정:\n정답 판단: might는 ‘~일지도 모른다’는 뜻이므로 우리말과 맞아 정답은 ③이다.\n선택지 분석:\n① [오답] must는 ‘~해야 한다’는 뜻이므로 우리말과 맞지 않아 오답이다.\n② [오답] will은 ‘~할 것이다’는 뜻이므로 우리말과 맞지 않아 오답이다.\n③ [정답] might는 ‘~일지도 모른다’는 뜻이므로 우리말과 맞아 정답이다.\n④ [오답] should는 ‘~하는 것이 좋다’는 뜻이므로 우리말과 맞지 않아 오답이다.\n⑤ [오답] has to는 ‘~해야 한다’는 뜻이므로 우리말과 맞지 않아 오답이다.",
+    "passage": "내일 오후에는 비가 올지도 모르니 우산을 챙겨라.\nIt _____ rain tomorrow afternoon, so take your umbrella.",
+    "stem": "빈칸에 들어갈 알맞은 말을 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T14:25:42.364Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T06:12:37.770Z",
+      "text": "기준 문항에 비해 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:33:38.261Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T03:33:33.051Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T14:25:43.195Z",
+      "what": "확인 완료"
+    },
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:33:38.261Z",
+      "what": "확인 완료"
+    }
+  }
+}

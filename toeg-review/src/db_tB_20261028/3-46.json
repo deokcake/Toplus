@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:04:59.163Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Tuesday",
+      "1": "Thursday",
+      "2": null,
+      "3": "Saturday",
+      "4": "January"
+    },
+    "expl": "핵심 규칙: 요일은 What day, 월은 What month로 묻고, 요일·월 이름은 대문자로 시작한다.\n풀이 순서: ① 질문이 요일을 묻는지 달을 묻는지 본다(What day → 요일). → ② 괄호 속 우리말(목요일)에 해당하는 영어 낱말을 찾는다. 철자가 비슷한 Tuesday와 Thursday, June과 January를 헷갈리지 않는다. → ③ 정답은 Thursday.\n문장별 판정:\n정답 판단: Thursday: 목요일이므로 정답은 ②이다.\n선택지 분석:\n① [오답] Tuesday: 화요일이므로 오답이다.\n② [정답] Thursday: 목요일이므로 정답이다.\n③ [오답] June: 요일이 아니라 6월이므로 오답이다.\n④ [오답] Saturday: 토요일이므로 오답이다.\n⑤ [오답] January: 요일이 아니라 1월이므로 오답이다.",
+    "passage": "Kelly: What day is your soccer practice?\nTom: We practice on __________. (목요일에 연습해)",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T08:04:58.333Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T08:04:59.163Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T08:04:59.163Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-27T07:18:59.101Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "(가), (나)",
+      "1": "(나), (다)",
+      "2": "(다), (라)",
+      "3": "(나), (라)",
+      "4": "(가), (라)"
+    },
+    "expl": "핵심 규칙: be going to 의문문은 주어에 맞는 be동사(I-Am, 3인칭 단수-Is, you·복수-Are)를 문장 앞에 둔다.\n풀이 순서: ① be going to 의문문은 be동사로 시작한다. 문장마다 맨 앞 be동사와 주어를 짝지어 본다(I - Am, 단수 - Is, you·복수 - Are). → ② (가) Is they(Are they), (다) Are Jane(Is Jane)이 틀렸다. → ③ 옳은 문장만 고른 (나), (라)가 정답이다.\n문장별 판정:\n(가) X. 주어 they에는 Are를 쓴다.\n(나) O. 단수 주어 Tom에 Is를 썼다.\n(다) X. 단수 주어 Jane에는 Is를 쓴다.\n(라) O. 복수 주어 the boys에 Are를 썼다.\n정답 판단: 어법상 옳은 문장은 (나), (라)이다.\n선택지 분석:\n① [오답] (가)는 옳은 문장이 아니고, 옳은 문장 (라)를 빠뜨렸다. 따라서 오답이다.\n② [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (라)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (나)를 빠뜨렸다. 따라서 오답이다.\n④ [정답] 옳은 문장 (나), (라)를 빠짐없이 골랐으므로 정답이다.\n⑤ [오답] (가)는 옳은 문장이 아니고, 옳은 문장 (나)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(가) Is they going to study?\n(나) Is Tom going to come?\n(다) Are Jane going to cook?\n(라) Are the boys going to play?",
+    "stem": null
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-27T07:18:45.256Z"
+  },
+  "tab": "el3qe2ii",
+  "updatedAt": "2026-10-27T07:18:59.101Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-27T07:18:59.101Z",
+      "what": "확인 완료"
+    }
+  }
+}

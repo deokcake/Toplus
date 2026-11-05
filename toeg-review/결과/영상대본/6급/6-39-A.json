@@ -1,0 +1,183 @@
+{
+ "key": "6-39",
+ "type": "A",
+ "grade": 6,
+ "chapter": "CH 4 일반동사",
+ "title": "일반동사 의문문의 Do와 Does",
+ "total_sec": 132,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 12,
+   "screen": {
+    "text": "6급 · CH 4 일반동사 · 39번\n\n이 문제는 주어 your friend와 your friends에 맞게 의문문 맨 앞에 들어갈 말을 짝지어 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 4 일반동사 · 39번",
+     "이 문제는 주어 your friend와 your friends에 맞게 의문문 맨 앞에 들어갈 말을 짝지어 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 4, 39번. 이 문제는 주어 your friend와 your friends에 맞게 의문문 맨 앞에 들어갈 말을 짝지어 고르는 문제예요.",
+   "caption": "주어에 맞는 Do와 Does"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 22,
+   "screen": {
+    "text": "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르시오.\n\n(A) ________ your friend like pizza?\n(B) ________ your friends like pizza?\n\n① Do - Does\n② Does - Does\n③ Does - Do\n④ Do - Do\n⑤ Is - Are",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르시오.",
+     "(A) ________ your friend like pizza?",
+     "(B) ________ your friends like pizza?",
+     "① Do - Does",
+     "② Does - Does",
+     "③ Does - Do",
+     "④ Do - Do",
+     "⑤ Is - Are"
+    ]
+   },
+   "narration": "빈칸 에이와 비에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르세요. 에이는 빈칸 your friend like pizza, 비는 빈칸 your friends like pizza예요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 27,
+   "screen": {
+    "text": "핵심 규칙\n예, 아니요로 묻는 일반동사 현재형 의문문 → be동사가 아니라 Do / Does로 시작\nDo / Does + 주어 + 동사원형 …? (~하니?)\n주어가 3인칭 단수 (he, she, it, 단수 명사) → Does\n주어가 I, you, we, they, 복수 → Do\n예) Does he play soccer? (그는 축구를 하니?)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "예, 아니요로 묻는 일반동사 현재형 의문문 → be동사가 아니라 Do / Does로 시작",
+     "Do / Does + 주어 + 동사원형 …? (~하니?)",
+     "주어가 3인칭 단수 (he, she, it, 단수 명사) → Does",
+     "주어가 I, you, we, they, 복수 → Do",
+     "예) Does he play soccer? (그는 축구를 하니?)"
+    ]
+   },
+   "narration": "예, 아니요로 묻는 일반동사 현재형 의문문은 be동사가 아니라 Do나 Does로 시작하고, 주어 뒤의 동사는 원형으로 써요. 주어가 he, she, it이나 단수 명사처럼 3인칭 단수이면 Does, I, you, we, they나 복수이면 Do를 써요. 예를 들어 Does he play soccer? 그는 축구를 하니?",
+   "caption": "3인칭 단수 → Does, 그 밖 → Do"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르시오.\n\n(A) ________ your friend like pizza?\n(B) ________ your friends like pizza?\n\n① Do - Does\n② Does - Does\n③ Does - Do\n④ Do - Do\n⑤ Is - Are",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "your friend like pizza?",
+       "your friends like pizza?"
+      ],
+      "strike": [
+       "⑤ Is - Are"
+      ],
+      "note": "두 문장 모두 주어 뒤에 동사원형 like → be동사가 아니라 Do / Does로 묻는다. ⑤ Is - Are 지움"
+     },
+     {
+      "step": 2,
+      "highlight": [
+       "your friend like"
+      ],
+      "strike": [
+       "① Do - Does",
+       "④ Do - Do"
+      ],
+      "note": "(A) 주어 your friend → 한 명, 3인칭 단수 → Does. (A)가 Do인 ①, ④ 지움"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "your friends like",
+       "③ Does - Do"
+      ],
+      "strike": [
+       "② Does - Does"
+      ],
+      "note": "(B) 주어 your friends → 여러 명, 복수 → Do. ② 지움 → ③ Does - Do"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 두 문장 모두 주어 뒤에 동사원형 like가 있으니, be동사로 시작한 5번은 지워요. 둘째, 에이 빈칸의 주어 your friend는 한 명이라 3인칭 단수이니, Does를 쓰고 1번과 4번을 지워요. 셋째, 비 빈칸의 주어 your friends는 여러 명이라 복수이니, Do를 쓰고 2번을 지우면 3번이 남아요. Does your friend like pizza? 네 친구는 피자를 좋아하니? Do your friends like pizza? 네 친구들은 피자를 좋아하니?",
+   "caption": "be동사 ✗ → 단수 Does → 복수 Do"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 24,
+   "screen": {
+    "text": "① Do - Does  ✗  Do와 Does가 서로 바뀌었어요\n② Does - Does  ✗  (B) 복수 주어 your friends에는 Do\n③ Does - Do  ✓  단수 your friend에 Does, 복수 your friends에 Do\n④ Do - Do  ✗  (A) 3인칭 단수 주어 your friend에는 Does\n⑤ Is - Are  ✗  주어 뒤 동사원형 like → be동사 말고 Does, Do",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① Do - Does  ✗  Do와 Does가 서로 바뀌었어요",
+     "② Does - Does  ✗  (B) 복수 주어 your friends에는 Do",
+     "③ Does - Do  ✓  단수 your friend에 Does, 복수 your friends에 Do",
+     "④ Do - Do  ✗  (A) 3인칭 단수 주어 your friend에는 Does",
+     "⑤ Is - Are  ✗  주어 뒤 동사원형 like → be동사 말고 Does, Do"
+    ]
+   },
+   "narration": "정답은 3번, Does와 Do예요. 5번 Is와 Are는 주어의 수에는 맞아서 고르기 쉬워요. 하지만 주어 뒤에 동사원형 like가 있으니 be동사가 아니라 Does와 Do로 물어야 해요. 2번은 비 빈칸의 your friends가 여러 명인 것을 놓쳤어요. 1번은 Do와 Does를 서로 바꿔 썼어요.",
+   "caption": "정답 ③ Does - Do"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 11,
+   "screen": {
+    "text": "정답 ③ Does - Do\n\n3인칭 단수 주어 → Does, I·you·we·they·복수 주어 → Do",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ Does - Do",
+     "3인칭 단수 주어 → Does, I·you·we·they·복수 주어 → Do"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, 일반동사 현재형 의문문은 주어가 3인칭 단수이면 Does, 복수이면 Do를 써요.",
+   "caption": "단수 Does, 복수 Do"
+  }
+ ],
+ "source": {
+  "stem": "다음 빈칸 (A)와 (B)에 들어갈 말이 순서대로 바르게 짝지어진 것을 고르시오.",
+  "passage": "(A) ________ your friend like pizza?\n(B) ________ your friends like pizza?",
+  "c": [
+   "Do - Does",
+   "Does - Does",
+   "Does - Do",
+   "Do - Do",
+   "Is - Are"
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: 일반동사 의문문에서 주어가 3인칭 단수면 Does, I·you·we·they·복수면 Do를 쓴다.\n풀이 순서: ① (A)의 주어: your friend(단수) → Does. → ② (B)의 주어: your friends(복수) → Do. → ③ 정답은 Does - Do.\n문장별 판정:\n정답 판단: 단수 주어에 Does, 복수 주어에 Do를 바르게 짝지었으므로 정답은 ③이다.\n선택지 분석:\n① [오답] (A) 단수 your friend에는 Does, (B) 복수 your friends에는 Do를 써야 하므로 오답이다.\n② [오답] (B)의 복수 주어 your friends에는 Do를 써야 하므로 오답이다.\n③ [정답] 단수 주어에 Does, 복수 주어에 Do를 바르게 짝지었으므로 정답이다.\n④ [오답] (A)의 단수 주어 your friend에는 Does를 써야 하므로 오답이다.\n⑤ [오답] 일반동사 like의 의문문에는 be동사를 쓰지 않으므로 오답이다."
+ }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-04T11:29:42.262Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "run – runs",
+      "1": "running – run",
+      "2": "runs – runs",
+      "3": "run – run",
+      "4": "runs – run"
+    },
+    "expl": "핵심 규칙: 일반동사 현재형은 3인칭 단수 주어(he, she, it, 사람·동물 한 명)에 -s/-es(자음 + y는 -ies, have는 has)를 붙이고, I·you·we·they와 복수 주어에는 동사원형을 쓴다. 부정문은 don't/doesn't + 동사원형으로 쓴다.\n풀이 순서: ① 두 문장은 동사가 같고 주어만 다르다. 첫 문장의 주어: My dog(한 마리) → runs. → ② 둘째 문장의 주어: I → run. → ③ 정답은 runs – run.\n문장별 판정:\n정답 판단: 두 문장의 주어에 맞는 현재형을 바르게 짝지었으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 첫째 빈칸 run: 3인칭 단수 주어 My dog에는 runs를 쓴다. 둘째 빈칸 runs: 주어 I에는 동사원형 run을 쓴다. 따라서 오답이다.\n② [오답] 첫째 빈칸 running: 3인칭 단수 주어 My dog에는 runs를 쓴다. 따라서 오답이다.\n③ [오답] 둘째 빈칸 runs: 주어 I에는 동사원형 run을 쓴다. 따라서 오답이다.\n④ [오답] 첫째 빈칸 run: 3인칭 단수 주어 My dog에는 runs를 쓴다. 따라서 오답이다.\n⑤ [정답] 두 문장의 주어에 맞는 현재형을 바르게 짝지었으므로 정답이다.",
+    "passage": "- My dog _______ fast.\n- I _______ fast.",
+    "stem": "다음 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-04T11:29:41.328Z"
+  },
+  "tab": "012jzi2r",
+  "updatedAt": "2026-10-04T11:29:42.262Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-04T11:29:42.262Z",
+      "what": "확인 완료"
+    }
+  }
+}

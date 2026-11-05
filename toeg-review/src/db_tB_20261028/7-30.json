@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-04T11:10:44.506Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 각 문장의 주어를 보고 밑줄 친 be동사를 판단한다. 복수 주어에는 are, 3인칭 단수 주어에는 is, I에는 am을 쓴다.\n풀이 순서: ① 문장마다 주어가 I인지, 한 사람·한 개인지, you·여럿인지 가른다. → ② 밑줄 친 be동사가 그에 맞는지 본다. (가) O, (나) O, (다) You + is(X), (라) Two dogs + is(X). → ③ 옳은 것만 모으면 (가), (나)\n문장별 판정:\n(가) O. 복수 주어 The girls에 are를 썼다.\n(나) O. 3인칭 단수 주어 He에 is를 썼다.\n(다) X. 주어 You에는 are를 써야 한다.\n(라) X. 복수 주어 Two dogs에는 are를 써야 한다.\n정답 판단: 밑줄 친 부분이 옳은 문장은 (가), (나)이다.\n선택지 분석:\n① [정답] 옳은 문장 (가), (나)를 빠짐없이 골랐으므로 정답이다.\n② [오답] (라)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.\n③ [오답] (라)는 옳은 문장이 아니고, 옳은 문장 (나)를 빠뜨렸다. 따라서 오답이다.\n④ [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (나)를 빠뜨렸다. 따라서 오답이다.\n⑤ [오답] (다)는 옳은 문장이 아니고, 옳은 문장 (가)를 빠뜨렸다. 따라서 오답이다.",
+    "passage": "(가) The girls <u>are</u> happy.\n(나) He <u>is</u> tall.\n(다) You <u>is</u> nice.\n(라) Two dogs <u>is</u> outside.",
+    "stem": "다음 중 밑줄 친 부분이 문법적으로 옳은 것을 모두 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-04T11:10:43.876Z"
+  },
+  "tab": "012jzi2r",
+  "updatedAt": "2026-10-04T11:10:44.506Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-04T11:10:44.506Z",
+      "what": "확인 완료"
+    }
+  }
+}

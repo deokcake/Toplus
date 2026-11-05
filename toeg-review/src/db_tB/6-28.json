@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T05:56:31.405Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Tom was at school?",
+      "1": "Was Tom at school?",
+      "2": null,
+      "3": "At school was Tom?",
+      "4": "At school Tom was?"
+    },
+    "expl": "핵심 규칙: be동사 과거 의문문은 Was/Were + 주어 + 보어·장소 + 시간 표현?의 어순으로 쓴다. 평서문 어순에 물음표만 붙이거나 보어·장소를 주어 앞에 두지 않는다.\n풀이 순서: ① 의문문이므로 be동사(Was)를 맨 앞에 둔다. → ② 바로 뒤에 주어(Tom), 그 뒤에 나머지(at school)를 둔다. → ③ 이 순서인 것은 ②.\n문장별 판정:\n정답 판단: Was/Were + 주어 + 보어·장소의 어순으로 바르게 배열했으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 평서문 어순에 물음표만 붙였으므로 오답이다.\n② [정답] Was/Were + 주어 + 보어·장소의 어순으로 바르게 배열했으므로 정답이다.\n③ [오답] 보어·장소 표현이 주어 앞에 와서 어순이 맞지 않으므로 오답이다.\n④ [오답] 보어·장소 표현이 주어 앞에 와서 어순이 맞지 않으므로 오답이다.\n⑤ [오답] 장소 표현으로 시작하고 be동사가 문장 끝에 와서 어순이 맞지 않으므로 오답이다.",
+    "passage": null,
+    "stem": "다음 단어들을 의문문으로 바르게 배열한 것을 고르시오."
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T05:56:30.207Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T05:56:31.405Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T05:56:31.405Z",
+      "what": "확인 완료"
+    }
+  }
+}

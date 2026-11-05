@@ -1,0 +1,37 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-23 C 유형 감수 메모 반영(2차: 길이)",
+  "done": true,
+  "doneAt": "2026-10-28T03:31:34.640Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "Tom was the faster runner of the three boys in the final race.",
+      "1": "Tom was the fastest runner of the three boys in the final race.",
+      "2": "Tom was the most fast runner of the three boys in the final race.",
+      "3": "Tom was the very fast runner of the three boys in the final race.",
+      "4": "Tom was faster runner of the three boys in the final race."
+    },
+    "expl": "핵심 규칙: than 앞에는 비교급, the ~ of 구문에는 최상급을 쓴다. 짧은 단어는 -er·-est를 붙이고 more·most를 겹쳐 쓰지 않으며, very는 비교급을 꾸미지 않는다.\n풀이 순서: ① 밑줄 친 문장에서 틀린 곳을 찾는다: the most fastest. → ② most와 -est를 겹쳐 쓸 수 없으므로 the fastest만 쓴다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: fast의 최상급 fastest로 바르게 고쳤으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 셋 중 가장 빠른 사람은 비교급이 아니라 최상급으로 나타내므로 오답이다.\n② [정답] fast의 최상급 fastest로 바르게 고쳤으므로 정답이다.\n③ [오답] fast는 짧은 단어라 most fast가 아니라 fastest로 쓰므로 오답이다.\n④ [오답] very fast는 최상급이 아니므로 오답이다.\n⑤ [오답] 셋 중 가장 빠른 사람은 the + 최상급으로 나타내므로 오답이다.",
+    "passage": "Our class had a running race on the school playground yesterday. Tom, Ben, and Mike ran very fast. <u>Tom was the most fastest runner of the three boys in the final race</u>. He won a gold medal from our teacher. All of his classmates clapped loudly for him.",
+    "stem": "다음 글에서 밑줄 친 문장을 어법상 올바르게 고친 것은?"
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-23T05:21:39.099Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-23T05:21:45.764Z",
+      "text": "기준 문항에 비해 지문이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T03:31:34.640Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T03:31:34.640Z",
+      "what": "확인 완료"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-23T07:45:35.738Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": null,
+      "1": null,
+      "2": "Am - are",
+      "3": null,
+      "4": "Am - is"
+    },
+    "expl": "핵심 규칙: be동사 부정문은 be동사 뒤에 not을 붙인다(am not, is not/isn't, are not/aren't). 의문문은 be동사를 주어 앞에 두고, 대답의 be동사도 주어에 맞춘다. be동사는 I에 am, 3인칭 단수에 is, you·복수에 are를 쓴다.\n풀이 순서: ① 질문의 주어: I → Am. → ② 대답: Yes, you + are. → ③ 정답은 Am - are.\n문장별 판정:\n정답 판단: 질문과 대답의 주어에 맞는 be동사를 바르게 짝지었으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 첫째 빈칸 Are: 주어 I의 의문문은 Am으로 시작한다. 둘째 빈칸 am: Yes 대답의 you에는 are를 쓴다. 따라서 오답이다.\n② [오답] 첫째 빈칸 Is: 주어 I의 의문문은 Am으로 시작한다. 둘째 빈칸 is: Yes 대답의 you에는 are를 쓴다. 따라서 오답이다.\n③ [정답] 질문과 대답의 주어에 맞는 be동사를 바르게 짝지었으므로 정답이다.\n④ [오답] 첫째 빈칸 Are: 주어 I의 의문문은 Am으로 시작한다. 둘째 빈칸 aren't: Yes 대답의 you에는 are를 쓴다. 따라서 오답이다.\n⑤ [오답] 둘째 빈칸 is: Yes 대답의 you에는 are를 쓴다. 따라서 오답이다.",
+    "passage": "A: _______ I late?\nB: Yes, you _______.",
+    "stem": "다음 대화의 빈칸에 들어갈 말이 순서대로 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-23T07:45:34.295Z"
+  },
+  "tab": "t2zfw736",
+  "updatedAt": "2026-10-23T07:45:35.739Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-23T07:45:35.739Z",
+      "what": "확인 완료"
+    }
+  }
+}

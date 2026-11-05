@@ -1,0 +1,86 @@
+{
+ "key": "2-1",
+ "grade": 2,
+ "chapter": "CH 1 문장의 형식",
+ "items": {
+  "A": {
+   "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+   "passage": "The leaves turn red in fall.",
+   "c": [
+    "My sister bought a new book.",
+    "The movie seems interesting.",
+    "They arrived at the airport.",
+    "The teacher made us happy.",
+    "She gave me a present."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 2형식은 ‘주어 + 동사 + 주격 보어’다. become, turn, grow, seem, look, sound, smell, stay 같은 동사 뒤의 형용사가 주어의 상태를 설명한다.\n풀이 순서: ① 주어진 문장의 동사(turn) 뒤에 오는 형용사(red)가 주어의 상태를 설명한다. 2형식이다. → ② 보기에서 동사 뒤의 말을 본다. 목적어(명사)가 오면 3·4·5형식이고, 부사(구)만 오면 1형식이다. → ③ 선택지 ②만 ‘동사 + 형용사 보어’(seems interesting) 구조다.\n문장별 판정:\n정답 판단: seems 뒤의 형용사 interesting이 주어를 설명하는 2형식이므로 정답은 ②이다.\n선택지 분석:\n① [오답] bought 뒤에 목적어(a new book)가 오는 3형식이므로 오답이다.\n② [정답] seems 뒤의 형용사 interesting이 주어를 설명하는 2형식이므로 정답이다.\n③ [오답] arrived 뒤에 부사구만 오는 1형식이므로 오답이다.\n④ [오답] 목적어(us)와 목적격 보어(happy)가 있는 5형식이므로 오답이다.\n⑤ [오답] 간접목적어(me)와 직접목적어(a present)가 있는 4형식이므로 오답이다."
+  },
+  "B": {
+   "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+   "passage": "The soup smells delicious.",
+   "c": [
+    "The students reached the station.",
+    "Mina bought a new camera.",
+    "Dad gave me a key.",
+    "The joke made us laugh.",
+    "The flowers look beautiful."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 제시문과 각 선택지를 명사구 단위로 S·V·O·C로 나누어 1~5형식을 판정한다. 연결동사 뒤의 형용사는 주격보어이며, 장소·시간·방법 표현은 보통 부사어이다.\n풀이 순서: ① 주어진 문장의 동사(smells) 뒤에 오는 형용사(delicious)가 주어의 상태를 설명한다. 2형식이다. → ② 보기에서 동사 뒤의 말을 본다. 목적어(명사)가 오면 3·4·5형식이고, 부사(구)만 오면 1형식이다. → ③ 선택지 ⑤만 ‘동사 + 형용사 보어’(look beautiful) 구조다.\n문장별 판정:\n정답 판단: ‘The flowers look beautiful’은 The flowers(S) + look(V) + beautiful(C)의 2형식이다. 연결동사 뒤의 보어가 주어의 상태·성질을 설명한다. 제시문의 형식은 2형식이다. 정답 선택지만 제시문과 같은 2형식이므로 정답이다.\n선택지 분석:\n① [오답] ‘The students reached the station’은 The students(S) + reached(V) + the station(O)의 3형식이다. 동사 뒤의 명사구가 목적어이다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n② [오답] ‘Mina bought a new camera’는 Mina(S) + bought(V) + a new camera(O)의 3형식이다. 동사 뒤의 명사구가 목적어이다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n③ [오답] ‘Dad gave me a key’는 Dad(S) + gave(V) + me(IO) + a key(DO)의 4형식이다. 간접목적어와 직접목적어가 차례로 온다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n④ [오답] ‘The joke made us laugh’는 The joke(S) + made(V) + us(O) + laugh(OC)의 5형식이다. 목적격보어가 목적어의 상태·신분·행동을 설명한다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n⑤ [정답] ‘The flowers look beautiful’은 The flowers(S) + look(V) + beautiful(C)의 2형식이다. 연결동사 뒤의 보어가 주어의 상태·성질을 설명한다. 제시문의 형식은 2형식이다. 같은 형식이므로 정답이다."
+  },
+  "C": {
+   "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+   "passage": "The sky became dark.",
+   "c": [
+    "Leo sent his friend a message.",
+    "We found the room empty.",
+    "The train arrived late.",
+    "The water turned cold.",
+    "The dog chased the ball."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 제시문과 각 선택지를 명사구 단위로 S·V·O·C로 나누어 1~5형식을 판정한다. 연결동사 뒤의 형용사는 주격보어이며, 장소·시간·방법 표현은 보통 부사어이다.\n풀이 순서: ① 주어진 문장의 동사(became) 뒤에 오는 형용사(dark)가 주어의 상태를 설명한다. 2형식이다. → ② 보기에서 동사 뒤의 말을 본다. 목적어(명사)가 오면 3·4·5형식이고, 부사(구)만 오면 1형식이다. → ③ 선택지 ④만 ‘동사 + 형용사 보어’(turned cold) 구조다.\n문장별 판정:\n정답 판단: ‘The water turned cold’는 The water(S) + turned(V) + cold(C)의 2형식이다. 연결동사 뒤의 보어가 주어의 상태·성질을 설명한다. 제시문의 형식은 2형식이다. 정답 선택지만 제시문과 같은 2형식이므로 정답이다.\n선택지 분석:\n① [오답] ‘Leo sent his friend a message’는 Leo(S) + sent(V) + his friend(IO) + a message(DO)의 4형식이다. 간접목적어와 직접목적어가 차례로 온다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n② [오답] ‘We found the room empty’는 We(S) + found(V) + the room(O) + empty(OC)의 5형식이다. 목적격보어가 목적어의 상태·신분·행동을 설명한다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n③ [오답] ‘The train arrived late’는 The train(S) + arrived(V) + 부사어의 1형식이다. 뒤의 표현이 있다면 부사어로 핵심 형식에 포함되지 않는다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n④ [정답] ‘The water turned cold’는 The water(S) + turned(V) + cold(C)의 2형식이다. 연결동사 뒤의 보어가 주어의 상태·성질을 설명한다. 제시문의 형식은 2형식이다. 같은 형식이므로 정답이다.\n⑤ [오답] ‘The dog chased the ball’은 The dog(S) + chased(V) + the ball(O)의 3형식이다. 동사 뒤의 명사구가 목적어이다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다."
+  },
+  "D": {
+   "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+   "passage": "Your idea sounds reasonable.",
+   "c": [
+    "They entered the building.",
+    "The plan seems practical.",
+    "The news made him angry.",
+    "I opened the window.",
+    "She gave her sister a gift."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 제시문과 각 선택지를 명사구 단위로 S·V·O·C로 나누어 1~5형식을 판정한다. 연결동사 뒤의 형용사는 주격보어이며, 장소·시간·방법 표현은 보통 부사어이다.\n풀이 순서: ① 주어진 문장의 동사(sounds) 뒤에 오는 형용사(reasonable)가 주어의 상태를 설명한다. 2형식이다. → ② 보기에서 동사 뒤의 말을 본다. 목적어(명사)가 오면 3·4·5형식이고, 부사(구)만 오면 1형식이다. → ③ 선택지 ②만 ‘동사 + 형용사 보어’(seems practical) 구조다.\n문장별 판정:\n정답 판단: ‘The plan seems practical’은 The plan(S) + seems(V) + practical(C)의 2형식이다. 연결동사 뒤의 보어가 주어의 상태·성질을 설명한다. 제시문의 형식은 2형식이다. 정답 선택지만 제시문과 같은 2형식이므로 정답이다.\n선택지 분석:\n① [오답] ‘They entered the building’은 They(S) + entered(V) + the building(O)의 3형식이다. 동사 뒤의 명사구가 목적어이다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n② [정답] ‘The plan seems practical’은 The plan(S) + seems(V) + practical(C)의 2형식이다. 연결동사 뒤의 보어가 주어의 상태·성질을 설명한다. 제시문의 형식은 2형식이다. 같은 형식이므로 정답이다.\n③ [오답] ‘The news made him angry’는 The news(S) + made(V) + him(O) + angry(OC)의 5형식이다. 목적격보어가 목적어의 상태·신분·행동을 설명한다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n④ [오답] ‘I opened the window’는 I(S) + opened(V) + the window(O)의 3형식이다. 동사 뒤의 명사구가 목적어이다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n⑤ [오답] ‘She gave her sister a gift’는 She(S) + gave(V) + her sister(IO) + a gift(DO)의 4형식이다. 간접목적어와 직접목적어가 차례로 온다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다."
+  },
+  "E": {
+   "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+   "passage": "The child grew sleepy.",
+   "c": [
+    "We painted the wall blue.",
+    "The teacher asked me a question.",
+    "The milk smells sour.",
+    "They crossed the bridge.",
+    "Sam wrote a letter."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 제시문과 각 선택지를 명사구 단위로 S·V·O·C로 나누어 1~5형식을 판정한다. 연결동사 뒤의 형용사는 주격보어이며, 장소·시간·방법 표현은 보통 부사어이다.\n풀이 순서: ① 주어진 문장의 동사(grew) 뒤에 오는 형용사(sleepy)가 주어의 상태를 설명한다. 2형식이다. → ② 보기에서 동사 뒤의 말을 본다. 목적어(명사)가 오면 3·4·5형식이고, 부사(구)만 오면 1형식이다. → ③ 선택지 ③만 ‘동사 + 형용사 보어’(smells sour) 구조다.\n문장별 판정:\n정답 판단: ‘The milk smells sour’는 The milk(S) + smells(V) + sour(C)의 2형식이다. 연결동사 뒤의 보어가 주어의 상태·성질을 설명한다. 제시문의 형식은 2형식이다. 정답 선택지만 제시문과 같은 2형식이므로 정답이다.\n선택지 분석:\n① [오답] ‘We painted the wall blue’는 We(S) + painted(V) + the wall(O) + blue(OC)의 5형식이다. 목적격보어가 목적어의 상태·신분·행동을 설명한다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n② [오답] ‘The teacher asked me a question’은 The teacher(S) + asked(V) + me(IO) + a question(DO)의 4형식이다. 간접목적어와 직접목적어가 차례로 온다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n③ [정답] ‘The milk smells sour’는 The milk(S) + smells(V) + sour(C)의 2형식이다. 연결동사 뒤의 보어가 주어의 상태·성질을 설명한다. 제시문의 형식은 2형식이다. 같은 형식이므로 정답이다.\n④ [오답] ‘They crossed the bridge’는 They(S) + crossed(V) + the bridge(O)의 3형식이다. 동사 뒤의 명사구가 목적어이다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n⑤ [오답] ‘Sam wrote a letter’는 Sam(S) + wrote(V) + a letter(O)의 3형식이다. 동사 뒤의 명사구가 목적어이다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다."
+  },
+  "F": {
+   "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+   "passage": "The room stayed quiet.",
+   "c": [
+    "The audience remained silent.",
+    "She kept the door open.",
+    "The bus left early.",
+    "The storm damaged the roof.",
+    "I lent him some money."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 제시문과 각 선택지를 명사구 단위로 S·V·O·C로 나누어 1~5형식을 판정한다. 연결동사 뒤의 형용사는 주격보어이며, 장소·시간·방법 표현은 보통 부사어이다.\n풀이 순서: ① 주어진 문장의 동사(stayed) 뒤에 오는 형용사(quiet)가 주어의 상태를 설명한다. 2형식이다. → ② 보기에서 동사 뒤의 말을 본다. 목적어(명사)가 오면 3·4·5형식이고, 부사(구)만 오면 1형식이다. → ③ 선택지 ①만 ‘동사 + 형용사 보어’(remained silent) 구조다.\n문장별 판정:\n정답 판단: ‘The audience remained silent’는 The audience(S) + remained(V) + silent(C)의 2형식이다. 연결동사 뒤의 보어가 주어의 상태·성질을 설명한다. 제시문의 형식은 2형식이다. 정답 선택지만 제시문과 같은 2형식이므로 정답이다.\n선택지 분석:\n① [정답] ‘The audience remained silent’는 The audience(S) + remained(V) + silent(C)의 2형식이다. 연결동사 뒤의 보어가 주어의 상태·성질을 설명한다. 제시문의 형식은 2형식이다. 같은 형식이므로 정답이다.\n② [오답] ‘She kept the door open’은 She(S) + kept(V) + the door(O) + open(OC)의 5형식이다. 목적격보어가 목적어의 상태·신분·행동을 설명한다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n③ [오답] ‘The bus left early’는 The bus(S) + left(V) + 부사어의 1형식이다. 뒤의 표현이 있다면 부사어로 핵심 형식에 포함되지 않는다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n④ [오답] ‘The storm damaged the roof’는 The storm(S) + damaged(V) + the roof(O)의 3형식이다. 동사 뒤의 명사구가 목적어이다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다.\n⑤ [오답] ‘I lent him some money’는 I(S) + lent(V) + him(IO) + some money(DO)의 4형식이다. 간접목적어와 직접목적어가 차례로 온다. 제시문의 형식은 2형식이다. 제시문과 형식이 다르므로 오답이다."
+  }
+ },
+ "prior_review": {}
+}

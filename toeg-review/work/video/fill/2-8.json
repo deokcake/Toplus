@@ -1,0 +1,488 @@
+{
+ "A": {
+  "title": "목적격 보어의 쓰임 구별",
+  "intro": "이 문제는 밑줄 친 말이 목적격 보어로 쓰였는지 가려, 보기와 쓰임이 같은 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분의 쓰임이 보기와 같은 것은? We found the explanation very clear. 우리는 그 설명이 아주 명확하다고 생각했어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "make, keep, find, leave, paint + 목적어 + 형용사",
+    "형용사가 목적어의 상태를 설명 → 목적격 보어",
+    "taste, feel 같은 동사 뒤에서 주어의 상태를 설명 → 주격 보어",
+    "동사를 꾸미는 말 → 부사 / want 바로 뒤 to부정사 → want의 목적어",
+    "예) Please keep your room clean. (방을 깨끗하게 유지해 주세요.)"
+   ],
+   "narration": "make, keep, find, leave 같은 동사는 목적어 뒤에 형용사를 써서 목적어가 어떤 상태인지 나타낼 수 있어요. 이 형용사를 목적격 보어라고 해요. Please keep your room clean. 방을 깨끗하게 유지해 주세요. 여기서 clean이 목적어 your room의 상태를 설명해요. 이와 달리 taste, feel 같은 동사 뒤에서 주어의 상태를 설명하는 말은 주격 보어예요."
+  },
+  "steps": [
+   {
+    "note": "<보기> clear → 목적어 the explanation의 상태를 설명 = 목적격 보어",
+    "highlight": [
+     "the explanation very <u>clear</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 보기의 밑줄 친 clear는 목적어 the explanation의 상태를 설명하는 목적격 보어예요."
+   },
+   {
+    "note": "① salty, ⑤ sad → 동사 뒤에서 주어의 상태를 설명하는 주격 보어 → 지움",
+    "highlight": [],
+    "strike": [
+     "① This soup tastes <u>salty</u>.",
+     "⑤ She felt <u>sad</u> about the news."
+    ],
+    "narration": "둘째, 1번 salty와 5번 sad는 동사 tastes, felt 뒤에서 주어의 상태를 설명하는 주격 보어라서 지워요."
+   },
+   {
+    "note": "② brightly = shines를 꾸미는 부사, ④ to go = want의 목적어 → 지움",
+    "highlight": [],
+    "strike": [
+     "② The sun shines <u>brightly</u>.",
+     "④ I want <u>to go</u> home now."
+    ],
+    "narration": "셋째, 2번 brightly는 동사 shines를 꾸미는 부사이고, 4번 to go는 want의 목적어라서 지워요."
+   },
+   {
+    "note": "③ proud → 목적어 his parents의 상태를 설명하는 목적격 보어",
+    "highlight": [
+     "③ He made his parents <u>proud</u>."
+    ],
+    "strike": [],
+    "narration": "넷째, 남은 3번 proud는 목적어 his parents의 상태를 설명하는 목적격 보어예요. He made his parents proud. 그는 부모님을 자랑스럽게 했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① This soup tastes <u>salty</u>.  ✗  tastes 뒤에서 주어 This soup의 맛을 설명하는 주격 보어",
+    "② The sun shines <u>brightly</u>.  ✗  동사 shines를 꾸미는 부사",
+    "③ He made his parents <u>proud</u>.  ✓  목적어 his parents의 상태를 설명하는 목적격 보어",
+    "④ I want <u>to go</u> home now.  ✗  want의 목적어로 쓰인 to부정사",
+    "⑤ She felt <u>sad</u> about the news.  ✗  felt 뒤에서 주어 She의 기분을 설명하는 주격 보어"
+   ],
+   "narration": "정답은 3번 proud예요. 1번 salty와 5번 sad도 형용사라서 고르기 쉬워요. 하지만 둘 다 동사 바로 뒤에서 주어의 상태를 설명하는 주격 보어예요. 이 두 문장에는 목적어가 없어서 목적격 보어가 올 수 없어요. 4번 to go는 형용사가 아니라 want의 목적어예요."
+  },
+  "summary": {
+   "card": "목적어 뒤에서 목적어의 상태를 설명하는 형용사 → 목적격 보어",
+   "narration": "정답은 3번이에요. 기억할 것, 목적어 뒤에서 목적어의 상태를 설명하는 형용사가 목적격 보어예요."
+  },
+  "captions": [
+   "목적격 보어의 쓰임 구별",
+   "먼저 풀어 보세요",
+   "목적어의 상태를 설명하는 형용사",
+   "주격 보어·부사·목적어 지우기",
+   "정답 ③ proud",
+   "목적어 + 형용사 = 목적격 보어"
+  ],
+  "sec": [
+   11,
+   20,
+   29,
+   38,
+   24,
+   10
+  ]
+ },
+ "B": {
+  "title": "목적격 보어의 쓰임 구별",
+  "intro": "이 문제는 밑줄 친 말이 목적격 보어로 쓰였는지 가려, 보기와 쓰임이 같은 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분의 쓰임이 보기와 같은 것은? We painted the fence bright yellow. 우리는 울타리를 밝은 노란색으로 칠했어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "make, keep, find, paint, leave + 목적어 + 형용사",
+    "형용사가 목적어의 상태를 설명 → 목적격 보어",
+    "feel, taste 같은 동사 뒤에서 주어의 상태를 설명 → 주격 보어",
+    "동사를 꾸미는 말 → 부사 / want 바로 뒤 to부정사 → want의 목적어",
+    "예) I found the book easy. (나는 그 책이 쉽다는 것을 알게 됐어요.)"
+   ],
+   "narration": "make, keep, find, paint 같은 동사는 목적어 뒤에 형용사를 써서 목적어가 어떤 상태인지 나타낼 수 있어요. 이 형용사를 목적격 보어라고 해요. I found the book easy. 나는 그 책이 쉽다는 것을 알게 됐어요. 여기서 easy가 목적어 the book의 상태를 설명해요. 이와 달리 feel, taste 같은 동사 뒤에서 주어의 상태를 설명하는 말은 주격 보어예요."
+  },
+  "steps": [
+   {
+    "note": "<보기> yellow → 목적어 the fence의 상태(색)를 설명 = 목적격 보어",
+    "highlight": [
+     "the fence bright <u>yellow</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 보기의 밑줄 친 yellow는 목적어 the fence가 어떤 색인지 설명하는 목적격 보어예요."
+   },
+   {
+    "note": "① sad, ③ salty → 동사 뒤에서 주어의 상태를 설명하는 주격 보어 → 지움",
+    "highlight": [],
+    "strike": [
+     "① She felt <u>sad</u> about it.",
+     "③ The soup tastes <u>salty</u>."
+    ],
+    "narration": "둘째, 1번 sad와 3번 salty는 동사 felt, tastes 뒤에서 주어의 상태를 설명하는 주격 보어라서 지워요."
+   },
+   {
+    "note": "② slowly = moved를 꾸미는 부사, ⑤ to leave = want의 목적어 → 지움",
+    "highlight": [],
+    "strike": [
+     "② The train moved <u>slowly</u>.",
+     "⑤ I want <u>to leave</u> now."
+    ],
+    "narration": "셋째, 2번 slowly는 동사 moved를 꾸미는 부사이고, 5번 to leave는 want의 목적어라서 지워요."
+   },
+   {
+    "note": "④ sleepy → 목적어 the baby의 상태를 설명하는 목적격 보어",
+    "highlight": [
+     "④ The music made the baby <u>sleepy</u>."
+    ],
+    "strike": [],
+    "narration": "넷째, 남은 4번 sleepy는 목적어 the baby의 상태를 설명하는 목적격 보어예요. The music made the baby sleepy. 그 음악은 아기를 졸리게 했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① She felt <u>sad</u> about it.  ✗  felt 뒤에서 주어 She의 기분을 설명하는 주격 보어",
+    "② The train moved <u>slowly</u>.  ✗  동사 moved를 꾸미는 부사",
+    "③ The soup tastes <u>salty</u>.  ✗  tastes 뒤에서 주어 The soup의 맛을 설명하는 주격 보어",
+    "④ The music made the baby <u>sleepy</u>.  ✓  목적어 the baby의 상태를 설명하는 목적격 보어",
+    "⑤ I want <u>to leave</u> now.  ✗  want의 목적어로 쓰인 to부정사"
+   ],
+   "narration": "정답은 4번 sleepy예요. 1번 sad와 3번 salty도 형용사라서 고르기 쉬워요. 하지만 둘 다 동사 바로 뒤에서 주어의 상태를 설명하는 주격 보어예요. 이 두 문장에는 목적어가 없어서 목적격 보어가 올 수 없어요. 2번 slowly는 형용사가 아니라 동사 moved를 꾸미는 부사예요."
+  },
+  "summary": {
+   "card": "목적어 뒤에서 목적어의 상태를 설명하는 형용사 → 목적격 보어",
+   "narration": "정답은 4번이에요. 기억할 것, 목적어 뒤에서 목적어의 상태를 설명하는 형용사가 목적격 보어예요."
+  },
+  "captions": [
+   "목적격 보어의 쓰임 구별",
+   "먼저 풀어 보세요",
+   "목적어의 상태를 설명하는 형용사",
+   "주격 보어·부사·목적어 지우기",
+   "정답 ④ sleepy",
+   "목적어 + 형용사 = 목적격 보어"
+  ],
+  "sec": [
+   11,
+   20,
+   29,
+   38,
+   24,
+   10
+  ]
+ },
+ "C": {
+  "title": "목적격 보어의 쓰임 구별",
+  "intro": "이 문제는 밑줄 친 말이 목적격 보어로 쓰였는지 가려, 보기와 쓰임이 같은 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분의 쓰임이 보기와 같은 것은? The joke made everyone nervous. 그 농담은 모두를 긴장하게 했어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "make, keep, find, leave, paint + 목적어 + 형용사",
+    "형용사가 목적어의 상태를 설명 → 목적격 보어",
+    "look, turn 같은 동사 뒤에서 주어의 상태를 설명 → 주격 보어",
+    "동사를 꾸미는 말 → 부사 / hope 바로 뒤 to부정사 → hope의 목적어",
+    "예) The gift made me happy. (그 선물은 나를 행복하게 했어요.)"
+   ],
+   "narration": "make, keep, find, leave 같은 동사는 목적어 뒤에 형용사를 써서 목적어가 어떤 상태인지 나타낼 수 있어요. 이 형용사를 목적격 보어라고 해요. The gift made me happy. 그 선물은 나를 행복하게 했어요. 여기서 happy가 목적어 me의 상태를 설명해요. 이와 달리 look, turn 같은 동사 뒤에서 주어의 상태를 설명하는 말은 주격 보어예요."
+  },
+  "steps": [
+   {
+    "note": "<보기> nervous → 목적어 everyone의 상태를 설명 = 목적격 보어",
+    "highlight": [
+     "everyone <u>nervous</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 보기의 밑줄 친 nervous는 목적어 everyone의 상태를 설명하는 목적격 보어예요."
+   },
+   {
+    "note": "① dark, ⑤ happy → 동사 뒤에서 주어의 상태를 설명하는 주격 보어 → 지움",
+    "highlight": [],
+    "strike": [
+     "① The sky turned <u>dark</u> suddenly.",
+     "⑤ The baby looks <u>happy</u>."
+    ],
+    "narration": "둘째, 1번 dark와 5번 happy는 동사 turned, looks 뒤에서 주어의 상태를 설명하는 주격 보어라서 지워요."
+   },
+   {
+    "note": "③ correctly = 목적어 뒤에 있지만 answered를 꾸미는 부사, ④ to win = hopes의 목적어 → 지움",
+    "highlight": [],
+    "strike": [
+     "③ He answered the question <u>correctly</u>.",
+     "④ She hopes <u>to win</u> the race."
+    ],
+    "narration": "셋째, 3번 correctly는 목적어 뒤에 있지만 동사 answered를 꾸미는 부사이고, 4번 to win은 hopes의 목적어라서 지워요."
+   },
+   {
+    "note": "② empty → 목적어 the classroom의 상태를 설명하는 목적격 보어",
+    "highlight": [
+     "② We found the classroom <u>empty</u>."
+    ],
+    "strike": [],
+    "narration": "넷째, 남은 2번 empty는 목적어 the classroom의 상태를 설명하는 목적격 보어예요. We found the classroom empty. 우리는 교실이 비어 있다는 것을 알게 됐어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The sky turned <u>dark</u> suddenly.  ✗  turned 뒤에서 주어 The sky의 상태를 설명하는 주격 보어",
+    "② We found the classroom <u>empty</u>.  ✓  목적어 the classroom의 상태를 설명하는 목적격 보어",
+    "③ He answered the question <u>correctly</u>.  ✗  목적어 뒤에 있지만 동사 answered를 꾸미는 부사",
+    "④ She hopes <u>to win</u> the race.  ✗  hopes의 목적어로 쓰인 to부정사",
+    "⑤ The baby looks <u>happy</u>.  ✗  looks 뒤에서 주어 The baby의 상태를 설명하는 주격 보어"
+   ],
+   "narration": "정답은 2번 empty예요. 3번 correctly는 목적어 the question 뒤에 있어서 헷갈리기 쉬워요. 하지만 질문이 어떤 상태인지가 아니라 어떻게 대답했는지를 말하는 부사예요. 1번 dark와 5번 happy는 형용사지만, 목적어가 없는 문장에서 주어의 상태를 설명하는 주격 보어예요."
+  },
+  "summary": {
+   "card": "목적어 뒤에서 목적어의 상태를 설명하는 형용사 → 목적격 보어",
+   "narration": "정답은 2번이에요. 기억할 것, 목적어 뒤에서 목적어의 상태를 설명하는 형용사가 목적격 보어예요."
+  },
+  "captions": [
+   "목적격 보어의 쓰임 구별",
+   "먼저 풀어 보세요",
+   "목적어의 상태를 설명하는 형용사",
+   "주격 보어·부사·목적어 지우기",
+   "정답 ② empty",
+   "목적어 + 형용사 = 목적격 보어"
+  ],
+  "sec": [
+   11,
+   19,
+   29,
+   40,
+   25,
+   10
+  ]
+ },
+ "D": {
+  "title": "목적격 보어의 쓰임 구별",
+  "intro": "이 문제는 밑줄 친 말이 목적격 보어로 쓰였는지 가려, 보기와 쓰임이 같은 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분의 쓰임이 보기와 같은 것은? I found the instructions confusing. 나는 그 설명서가 헷갈린다고 느꼈어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "make, keep, find, leave, paint + 목적어 + 형용사",
+    "형용사가 목적어의 상태를 설명 → 목적격 보어",
+    "sound, get 같은 동사 뒤에서 주어의 상태를 설명 → 주격 보어",
+    "동사를 꾸미는 말 → 부사 / need 바로 뒤 to부정사 → need의 목적어",
+    "예) The gift made me happy. (그 선물은 나를 행복하게 했어요.)"
+   ],
+   "narration": "make, keep, find, leave 같은 동사는 목적어 뒤에 형용사를 써서 목적어가 어떤 상태인지 나타낼 수 있어요. 이 형용사를 목적격 보어라고 해요. The gift made me happy. 그 선물은 나를 행복하게 했어요. 여기서 happy가 목적어 me의 상태를 설명해요. 이와 달리 sound, get 같은 동사 뒤에서 주어의 상태를 설명하는 말은 주격 보어예요."
+  },
+  "steps": [
+   {
+    "note": "<보기> confusing(헷갈리는) → 목적어 the instructions의 상태를 설명 = 목적격 보어",
+    "highlight": [
+     "the instructions <u>confusing</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 보기의 밑줄 친 confusing은 헷갈린다는 뜻의 형용사로, 목적어 the instructions의 상태를 설명하는 목적격 보어예요."
+   },
+   {
+    "note": "① cold, ④ soft → 동사 뒤에서 주어의 상태를 설명하는 주격 보어 → 지움",
+    "highlight": [],
+    "strike": [
+     "① The water got <u>cold</u> quickly.",
+     "④ Her voice sounds <u>soft</u>."
+    ],
+    "narration": "둘째, 1번 cold와 4번 soft는 동사 got, sounds 뒤에서 주어의 상태를 설명하는 주격 보어라서 지워요."
+   },
+   {
+    "note": "② to hurry = need의 목적어, ③ happily = played를 꾸미는 부사 → 지움",
+    "highlight": [],
+    "strike": [
+     "② We need <u>to hurry</u>.",
+     "③ The kids played <u>happily</u>."
+    ],
+    "narration": "셋째, 2번 to hurry는 need의 목적어이고, 3번 happily는 동사 played를 꾸미는 부사라서 지워요."
+   },
+   {
+    "note": "⑤ focused(집중한) → 목적어 the players의 상태를 설명하는 목적격 보어",
+    "highlight": [
+     "⑤ The coach kept the players <u>focused</u>."
+    ],
+    "strike": [],
+    "narration": "넷째, 남은 5번 focused는 집중한 상태라는 뜻으로, 목적어 the players의 상태를 설명하는 목적격 보어예요. The coach kept the players focused. 코치는 선수들이 계속 집중하게 했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The water got <u>cold</u> quickly.  ✗  got 뒤에서 주어 The water의 상태를 설명하는 주격 보어",
+    "② We need <u>to hurry</u>.  ✗  need의 목적어로 쓰인 to부정사",
+    "③ The kids played <u>happily</u>.  ✗  동사 played를 꾸미는 부사",
+    "④ Her voice sounds <u>soft</u>.  ✗  sounds 뒤에서 주어 Her voice의 상태를 설명하는 주격 보어",
+    "⑤ The coach kept the players <u>focused</u>.  ✓  목적어 the players의 상태를 설명하는 목적격 보어"
+   ],
+   "narration": "정답은 5번 focused예요. 1번 cold와 4번 soft도 형용사라서 고르기 쉬워요. 하지만 둘 다 동사 바로 뒤에서 주어의 상태를 설명하는 주격 보어예요. 이 두 문장에는 목적어가 없어서 목적격 보어가 올 수 없어요. 3번 happily는 형용사가 아니라 동사 played를 꾸미는 부사예요."
+  },
+  "summary": {
+   "card": "목적어 뒤에서 목적어의 상태를 설명하는 형용사 → 목적격 보어",
+   "narration": "정답은 5번이에요. 기억할 것, 목적어 뒤에서 목적어의 상태를 설명하는 형용사가 목적격 보어예요."
+  },
+  "captions": [
+   "목적격 보어의 쓰임 구별",
+   "먼저 풀어 보세요",
+   "목적어의 상태를 설명하는 형용사",
+   "주격 보어·부사·목적어 지우기",
+   "정답 ⑤ focused",
+   "목적어 + 형용사 = 목적격 보어"
+  ],
+  "sec": [
+   11,
+   19,
+   29,
+   40,
+   25,
+   10
+  ]
+ },
+ "E": {
+  "title": "목적격 보어의 쓰임 구별",
+  "intro": "이 문제는 밑줄 친 말이 목적격 보어로 쓰였는지 가려, 보기와 쓰임이 같은 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분의 쓰임이 보기와 같은 것은? The news kept us awake. 그 소식은 우리를 계속 깨어 있게 했어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "make, keep, find, paint, leave + 목적어 + 형용사",
+    "형용사가 목적어의 상태를 설명 → 목적격 보어",
+    "become, smell 같은 동사 뒤에서 주어의 상태를 설명 → 주격 보어",
+    "동사를 꾸미는 말 → 부사 / decide 바로 뒤 to부정사 → decide의 목적어",
+    "예) I found the book easy. (나는 그 책이 쉽다는 것을 알게 됐어요.)"
+   ],
+   "narration": "make, keep, find, paint 같은 동사는 목적어 뒤에 형용사를 써서 목적어가 어떤 상태인지 나타낼 수 있어요. 이 형용사를 목적격 보어라고 해요. I found the book easy. 나는 그 책이 쉽다는 것을 알게 됐어요. 여기서 easy가 목적어 the book의 상태를 설명해요. 이와 달리 become, smell 같은 동사 뒤에서 주어의 상태를 설명하는 말은 주격 보어예요."
+  },
+  "steps": [
+   {
+    "note": "<보기> awake(깨어 있는) → 목적어 us의 상태를 설명 = 목적격 보어",
+    "highlight": [
+     "kept us <u>awake</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 보기의 밑줄 친 awake는 깨어 있다는 뜻의 형용사로, 목적어 us의 상태를 설명하는 목적격 보어예요."
+   },
+   {
+    "note": "③ yellow, ⑤ fresh → 동사 뒤에서 주어의 상태를 설명하는 주격 보어 → 지움",
+    "highlight": [],
+    "strike": [
+     "③ The leaves became <u>yellow</u>.",
+     "⑤ This bread smells <u>fresh</u>."
+    ],
+    "narration": "둘째, 3번 yellow와 5번 fresh는 동사 became, smells 뒤에서 주어의 상태를 설명하는 주격 보어라서 지워요."
+   },
+   {
+    "note": "② loudly = barked를 꾸미는 부사, ④ to stay = decided의 목적어 → 지움",
+    "highlight": [],
+    "strike": [
+     "② The dog barked <u>loudly</u>.",
+     "④ He decided <u>to stay</u>."
+    ],
+    "narration": "셋째, 2번 loudly는 동사 barked를 꾸미는 부사이고, 4번 to stay는 decided의 목적어라서 지워요."
+   },
+   {
+    "note": "① white → 목적어 her room의 상태(색)를 설명하는 목적격 보어",
+    "highlight": [
+     "① She painted her room <u>white</u>."
+    ],
+    "strike": [],
+    "narration": "넷째, 남은 1번 white는 목적어 her room이 어떤 색인지 설명하는 목적격 보어예요. She painted her room white. 그녀는 자기 방을 흰색으로 칠했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① She painted her room <u>white</u>.  ✓  목적어 her room의 상태(색)를 설명하는 목적격 보어",
+    "② The dog barked <u>loudly</u>.  ✗  동사 barked를 꾸미는 부사",
+    "③ The leaves became <u>yellow</u>.  ✗  became 뒤에서 주어 The leaves의 상태를 설명하는 주격 보어",
+    "④ He decided <u>to stay</u>.  ✗  decided의 목적어로 쓰인 to부정사",
+    "⑤ This bread smells <u>fresh</u>.  ✗  smells 뒤에서 주어 This bread의 상태를 설명하는 주격 보어"
+   ],
+   "narration": "정답은 1번 white예요. 3번 yellow와 5번 fresh도 형용사라서 고르기 쉬워요. 하지만 둘 다 동사 바로 뒤에서 주어의 상태를 설명하는 주격 보어예요. 이 두 문장에는 목적어가 없어서 목적격 보어가 올 수 없어요. 2번 loudly는 형용사가 아니라 동사 barked를 꾸미는 부사예요."
+  },
+  "summary": {
+   "card": "목적어 뒤에서 목적어의 상태를 설명하는 형용사 → 목적격 보어",
+   "narration": "정답은 1번이에요. 기억할 것, 목적어 뒤에서 목적어의 상태를 설명하는 형용사가 목적격 보어예요."
+  },
+  "captions": [
+   "목적격 보어의 쓰임 구별",
+   "먼저 풀어 보세요",
+   "목적어의 상태를 설명하는 형용사",
+   "주격 보어·부사·목적어 지우기",
+   "정답 ① white",
+   "목적어 + 형용사 = 목적격 보어"
+  ],
+  "sec": [
+   11,
+   19,
+   29,
+   40,
+   25,
+   10
+  ]
+ },
+ "F": {
+  "title": "목적격 보어의 쓰임 구별",
+  "intro": "이 문제는 밑줄 친 말이 목적격 보어로 쓰였는지 가려, 보기와 쓰임이 같은 것을 고르는 문제예요.",
+  "problem_narration": "다음 중 밑줄 친 부분의 쓰임이 보기와 같은 것은? They left the classroom door open all night. 그들은 밤새 교실 문을 열어 두었어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+  "rule": {
+   "card": [
+    "make, keep, leave, consider, find + 목적어 + 형용사",
+    "형용사가 목적어의 상태를 설명 → 목적격 보어",
+    "seem, remain 같은 동사 뒤에서 주어의 상태를 설명 → 주격 보어",
+    "동사를 꾸미는 말 → 부사 / agree 바로 뒤 to부정사 → agree의 목적어",
+    "예) Please keep your room clean. (방을 깨끗하게 유지해 주세요.)"
+   ],
+   "narration": "make, keep, leave, consider 같은 동사는 목적어 뒤에 형용사를 써서 목적어가 어떤 상태인지 나타낼 수 있어요. 이 형용사를 목적격 보어라고 해요. Please keep your room clean. 방을 깨끗하게 유지해 주세요. 여기서 clean이 목적어 your room의 상태를 설명해요. 이와 달리 seem, remain 같은 동사 뒤에서 주어의 상태를 설명하는 말은 주격 보어예요."
+  },
+  "steps": [
+   {
+    "note": "<보기> open(열려 있는) → 목적어 the classroom door의 상태를 설명 = 목적격 보어",
+    "highlight": [
+     "the classroom door <u>open</u>"
+    ],
+    "strike": [],
+    "narration": "첫째, 보기의 밑줄 친 open은 열려 있다는 뜻의 형용사로, 목적어 the classroom door의 상태를 설명하는 목적격 보어예요."
+   },
+   {
+    "note": "① quiet, ④ busy → 동사 뒤에서 주어의 상태를 설명하는 주격 보어 → 지움",
+    "highlight": [],
+    "strike": [
+     "① The room remained <u>quiet</u> during the test.",
+     "④ My uncle seems <u>busy</u> with his work these days."
+    ],
+    "narration": "둘째, 1번 quiet도, 4번 busy도 동사 remained, seems 뒤에서 주어의 상태를 설명하는 주격 보어라서 지워요."
+   },
+   {
+    "note": "② calmly = spoke를 꾸미는 부사, ③ to help = agreed의 목적어 → 지움",
+    "highlight": [],
+    "strike": [
+     "② She spoke <u>calmly</u> to the angry customer.",
+     "③ They agreed <u>to help</u> their new neighbor."
+    ],
+    "narration": "셋째, 2번 calmly는 동사 spoke를 꾸미는 부사이고, 3번 to help는 agreed의 목적어라서 지워요."
+   },
+   {
+    "note": "⑤ risky → 목적어 the plan의 상태를 설명하는 목적격 보어",
+    "highlight": [
+     "⑤ I considered the plan <u>risky</u> for our small team."
+    ],
+    "strike": [],
+    "narration": "넷째, 남은 5번 risky는 목적어 the plan의 상태를 설명하는 목적격 보어예요. I considered the plan risky for our small team. 나는 그 계획이 우리 작은 팀에게는 위험하다고 생각했어요."
+   }
+  ],
+  "check": {
+   "lines": [
+    "① The room remained <u>quiet</u> during the test.  ✗  remained 뒤에서 주어 The room의 상태를 설명하는 주격 보어",
+    "② She spoke <u>calmly</u> to the angry customer.  ✗  동사 spoke를 꾸미는 부사",
+    "③ They agreed <u>to help</u> their new neighbor.  ✗  agreed의 목적어로 쓰인 to부정사",
+    "④ My uncle seems <u>busy</u> with his work these days.  ✗  seems 뒤에서 주어 My uncle의 상태를 설명하는 주격 보어",
+    "⑤ I considered the plan <u>risky</u> for our small team.  ✓  목적어 the plan의 상태를 설명하는 목적격 보어"
+   ],
+   "narration": "정답은 5번 risky예요. 1번 quiet도, 4번 busy도 형용사라서 고르기 쉬워요. 하지만 둘 다 동사 바로 뒤에서 주어의 상태를 설명하는 주격 보어예요. 이 두 문장에는 목적어가 없어서 목적격 보어가 올 수 없어요. 3번 to help는 형용사가 아니라 agreed의 목적어예요."
+  },
+  "summary": {
+   "card": "목적어 뒤에서 목적어의 상태를 설명하는 형용사 → 목적격 보어",
+   "narration": "정답은 5번이에요. 기억할 것, 목적어 뒤에서 목적어의 상태를 설명하는 형용사가 목적격 보어예요."
+  },
+  "captions": [
+   "목적격 보어의 쓰임 구별",
+   "먼저 풀어 보세요",
+   "목적어의 상태를 설명하는 형용사",
+   "주격 보어·부사·목적어 지우기",
+   "정답 ⑤ risky",
+   "목적어 + 형용사 = 목적격 보어"
+  ],
+  "sec": [
+   11,
+   20,
+   29,
+   42,
+   23,
+   10
+  ]
+ }
+}

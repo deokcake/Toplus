@@ -1,0 +1,181 @@
+{
+ "key": "6-23",
+ "type": "A",
+ "grade": 6,
+ "chapter": "CH 3 be동사 과거",
+ "title": "주어에 맞는 wasn't와 weren't",
+ "total_sec": 133,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 11,
+   "screen": {
+    "text": "6급 · CH 3 be동사 과거 · 23번\n\n이 문제는 wasn't와 weren't가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "6급 · CH 3 be동사 과거 · 23번",
+     "이 문제는 wasn't와 weren't가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요."
+    ]
+   },
+   "narration": "6급 챕터 3, 23번. 이 문제는 wasn't와 weren't가 주어에 맞게 쓰였는지 살펴 틀린 문장을 고르는 문제예요.",
+   "caption": "wasn't와 weren't, 틀린 문장 찾기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 16,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① I was not brave.\n② They weren't my friends.\n③ It weren't heavy.\n④ The movie wasn't interesting.\n⑤ She wasn’t clever.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 틀린 문장을 고르시오.",
+     "① I was not brave.",
+     "② They weren't my friends.",
+     "③ It weren't heavy.",
+     "④ The movie wasn't interesting.",
+     "⑤ She wasn’t clever."
+    ]
+   },
+   "narration": "다음 중 틀린 문장을 고르세요. 다섯 문장을 하나씩 잘 읽어 보세요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 32,
+   "screen": {
+    "text": "핵심 규칙\nbe동사 과거형 was, were = 무엇이었다, 어떠했다, 어디에 있었다\nI · he, she, it(나도 너도 아닌 하나) · 셀 수 없는 것 → was\nyou(한 명이어도) · we, they · 여럿 → were\n부정문: be동사 뒤에 not → wasn't(was not), weren't(were not)\n예) Ben wasn't sad. (벤은 슬프지 않았어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "be동사 과거형 was, were = 무엇이었다, 어떠했다, 어디에 있었다",
+     "I · he, she, it(나도 너도 아닌 하나) · 셀 수 없는 것 → was",
+     "you(한 명이어도) · we, they · 여럿 → were",
+     "부정문: be동사 뒤에 not → wasn't(was not), weren't(were not)",
+     "예) Ben wasn't sad. (벤은 슬프지 않았어요.)"
+    ]
+   },
+   "narration": "be동사 과거형 was와 were는 무엇이었다, 어떠했다, 어디에 있었다는 뜻이에요. I와 he, she, it 같은 하나, 셀 수 없는 것에는 was를 써요. you는 한 사람이어도 were를 쓰고, we, they와 여럿에도 were예요. 부정은 was not, were not, 줄이면 wasn't, weren't예요. Ben wasn't sad. 벤은 슬프지 않았어요.",
+   "caption": "I·하나는 was, you·여럿은 were"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 34,
+   "screen": {
+    "text": "다음 중 틀린 문장을 고르시오.\n\n① I was not brave.\n② They weren't my friends.\n③ It weren't heavy.\n④ The movie wasn't interesting.\n⑤ She wasn’t clever.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [
+       "① I",
+       "② They",
+       "③ It",
+       "④ The movie",
+       "⑤ She"
+      ],
+      "strike": [],
+      "note": "주어 찾기: I, They, It, The movie, She"
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① I was not brave.",
+       "② They weren't my friends.",
+       "④ The movie wasn't interesting.",
+       "⑤ She wasn’t clever."
+      ],
+      "note": "I → was not ✓ / They(여럿) → weren't ✓ / The movie, She(하나) → wasn't ✓"
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "③ It weren't heavy."
+      ],
+      "strike": [
+       "It weren't"
+      ],
+      "note": "It(하나)인데 weren't ✗ → It wasn't → 틀린 문장은 ③"
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 문장마다 맨 앞에 있는 주어를 찾아요. 둘째, I에는 was not, 여럿인 They에는 weren't, 영화 한 편인 The movie와 한 사람인 She에는 wasn't를 바르게 썼어요. 그래서 1번, 2번, 4번, 5번은 맞는 문장이에요. 셋째, 3번의 주어 It은 나도 너도 아닌 하나이니 weren't가 아니라 wasn't를 써야 해요. It wasn't heavy. 그것은 무겁지 않았어요.",
+   "caption": "주어 찾기 → 맞는 문장 지우기 → ③"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① I was not brave.  ✗  주어 I에는 was → was not이 맞아요\n② They weren't my friends.  ✗  They는 여럿 → weren't가 맞아요\n③ It weren't heavy.  ✓  It은 하나 → wasn't로 고쳐야 해요 (틀린 문장)\n④ The movie wasn't interesting.  ✗  The movie는 영화 한 편 → wasn't가 맞아요\n⑤ She wasn’t clever.  ✗  She는 한 사람(나도 너도 아님) → wasn't가 맞아요",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✓",
+     "④": "✗",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① I was not brave.  ✗  주어 I에는 was → was not이 맞아요",
+     "② They weren't my friends.  ✗  They는 여럿 → weren't가 맞아요",
+     "③ It weren't heavy.  ✓  It은 하나 → wasn't로 고쳐야 해요 (틀린 문장)",
+     "④ The movie wasn't interesting.  ✗  The movie는 영화 한 편 → wasn't가 맞아요",
+     "⑤ She wasn’t clever.  ✗  She는 한 사람(나도 너도 아님) → wasn't가 맞아요"
+    ]
+   },
+   "narration": "정답은 3번이에요. 주어 It은 나도 너도 아닌 하나이니 weren't가 아니라 wasn't를 써야 해요. 1번은 not을 줄이지 않고 was not으로 썼지만, I에는 was를 쓰니 맞는 문장이에요. 4번 The movie는 영화 한 편이라 wasn't가 맞아요. 2번 They는 여럿이라 weren't가 맞아요.",
+   "caption": "정답 ③ It weren't → It wasn't"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 12,
+   "screen": {
+    "text": "정답 ③ It weren't heavy.\n\nI · 나도 너도 아닌 하나 · 셀 수 없는 것 → wasn't  ·  you · we · they · 여럿 → weren't",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ③ It weren't heavy.",
+     "I · 나도 너도 아닌 하나 · 셀 수 없는 것 → wasn't  ·  you · we · they · 여럿 → weren't"
+    ]
+   },
+   "narration": "정답은 3번이에요. 기억할 것, I와 나도 너도 아닌 하나, 셀 수 없는 것에는 wasn't, you와 여럿에는 weren't를 써요.",
+   "caption": "I·하나 wasn't, you·여럿 weren't"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "I was not brave.",
+   "They weren't my friends.",
+   "It weren't heavy.",
+   "The movie wasn't interesting.",
+   "She wasn’t clever."
+  ],
+  "ans": 3,
+  "expl": "핵심 규칙: be동사 과거 부정: I·3인칭 단수 주어는 wasn't(was not), you·we·they·복수 주어는 weren't(were not).\n풀이 순서: ① 문장마다 주어가 단수(I, he, she, it, 단수 명사)인지 복수(we, you, they, 복수 명사)인지 가른다. → ② 단수면 wasn't, 복수면 weren't인지 본다. → ③ 선택지 ③의 It은 단수인데 weren't를 썼다. 정답은 ③.\n문장별 판정:\n정답 판단: It은 3인칭 단수라 wasn't를 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] I에 was not을 바르게 썼으므로 오답이다.\n② [오답] They에 weren't를 바르게 썼으므로 오답이다.\n③ [정답] It은 3인칭 단수라 wasn't를 써야 하므로 정답이다.\n④ [오답] The movie에 wasn't를 바르게 썼으므로 오답이다.\n⑤ [오답] She에 wasn't를 바르게 썼으므로 오답이다."
+ }
+}

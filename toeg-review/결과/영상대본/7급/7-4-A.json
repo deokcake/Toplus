@@ -1,0 +1,174 @@
+{
+ "key": "7-4",
+ "type": "A",
+ "grade": 7,
+ "chapter": "CH 1 명사",
+ "title": "끝 글자에 따른 명사의 복수형",
+ "total_sec": 126,
+ "style": {
+  "board": "chalkboard",
+  "writing": "handwritten-reveal",
+  "chalk": "white",
+  "accent": "yellow",
+  "note": "짙은 녹색 칠판에 분필 글씨. 내레이션 문장에 맞춰 screen.reveal 순서대로 판서하듯 써 내려간다. 강조는 노란 분필 밑줄, 지움은 분필 줄 긋기, ✓/✗는 분필 표시."
+ },
+ "scenes": [
+  {
+   "no": 1,
+   "name": "도입",
+   "sec": 10,
+   "screen": {
+    "text": "7급 · CH 1 명사 · 4번\n\n이 문제는 명사의 끝 글자를 보고 복수형이 잘못 만들어진 것을 고르는 문제예요.",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "7급 · CH 1 명사 · 4번",
+     "이 문제는 명사의 끝 글자를 보고 복수형이 잘못 만들어진 것을 고르는 문제예요."
+    ]
+   },
+   "narration": "7급 챕터 1, 4번. 이 문제는 명사의 끝 글자를 보고 복수형이 잘못 만들어진 것을 고르는 문제예요.",
+   "caption": "명사의 복수형 만들기"
+  },
+  {
+   "no": 2,
+   "name": "문제",
+   "sec": 14,
+   "screen": {
+    "text": "다음 중 명사의 복수형이 잘못된 것을 고르시오.\n\n① watch - watches\n② box - boxes\n③ brother - brothers\n④ dish - dishs\n⑤ snack - snacks",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "다음 중 명사의 복수형이 잘못된 것을 고르시오.",
+     "① watch - watches",
+     "② box - boxes",
+     "③ brother - brothers",
+     "④ dish - dishs",
+     "⑤ snack - snacks"
+    ]
+   },
+   "narration": "다음 중 명사의 복수형이 잘못된 것을 고르세요. 보기마다 명사와 그 복수형이 짝지어 있어요. 먼저 풀어 보세요. 영상을 잠시 멈춰도 좋아요.",
+   "caption": "먼저 풀어 보세요"
+  },
+  {
+   "no": 3,
+   "name": "핵심 규칙",
+   "sec": 28,
+   "screen": {
+    "text": "핵심 규칙\n복수형: 사람, 동물, 물건이 둘 이상일 때 쓰는 명사의 모양\n대부분의 명사 + s (cat → cats)\ns, sh, ch, x로 끝나면 보통 + es (lunch → lunches, wish → wishes)\n자음 + y로 끝나면 y를 i로 바꾸고 + es (story → stories)\n예) I have three wishes. (나는 소원이 세 개 있어요.)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "핵심 규칙",
+     "복수형: 사람, 동물, 물건이 둘 이상일 때 쓰는 명사의 모양",
+     "대부분의 명사 + s (cat → cats)",
+     "s, sh, ch, x로 끝나면 보통 + es (lunch → lunches, wish → wishes)",
+     "자음 + y로 끝나면 y를 i로 바꾸고 + es (story → stories)",
+     "예) I have three wishes. (나는 소원이 세 개 있어요.)"
+    ]
+   },
+   "narration": "복수형은 사람이나 동물, 물건이 둘 이상일 때 쓰는 명사의 모양이에요. 대부분의 명사는 끝에 s를 붙여서 cat은 cats가 돼요. s, sh, ch, x로 끝나는 명사는 보통 es를 붙여서 lunch는 lunches, wish는 wishes가 돼요. y 바로 앞이 a, e, i, o, u가 아닌 자음이면 y를 i로 바꾸고 es를 붙여서 story는 stories가 돼요. I have three wishes. 나는 소원이 세 개 있어요.",
+   "caption": "끝 글자에 따라 s, es, ies"
+  },
+  {
+   "no": 4,
+   "name": "풀이 순서",
+   "sec": 36,
+   "screen": {
+    "text": "다음 중 명사의 복수형이 잘못된 것을 고르시오.\n\n① watch - watches\n② box - boxes\n③ brother - brothers\n④ dish - dishs\n⑤ snack - snacks",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "steps": [
+     {
+      "step": 1,
+      "highlight": [],
+      "strike": [
+       "③ brother - brothers",
+       "⑤ snack - snacks"
+      ],
+      "note": "brother, snack은 대부분의 명사처럼 + s만 → brothers, snacks는 바르다."
+     },
+     {
+      "step": 2,
+      "highlight": [],
+      "strike": [
+       "① watch - watches",
+       "② box - boxes"
+      ],
+      "note": "watch는 ch, box는 x로 끝남 → + es를 붙인 watches, boxes도 바르다."
+     },
+     {
+      "step": 3,
+      "highlight": [
+       "④ dish - dishs"
+      ],
+      "strike": [],
+      "note": "dish는 sh로 끝남 → dishes가 맞는데 dishs로 썼다 → 잘못된 것."
+     }
+    ],
+    "reveal": []
+   },
+   "narration": "첫째, 보기마다 명사의 끝 글자를 봐요. brother와 snack은 대부분의 명사처럼 끝에 s만 붙이면 되니까 brothers와 snacks가 맞아요. 둘째, watch는 ch로, box는 x로 끝나서 es를 붙인 watches와 boxes도 맞아요. 셋째, dish는 sh로 끝나니까 es를 붙여 dishes라고 써야 해요. 그런데 4번은 s만 붙인 dishs라서 잘못됐어요.",
+   "caption": "dish는 sh로 끝나요 → dishes"
+  },
+  {
+   "no": 5,
+   "name": "선택지 확인",
+   "sec": 28,
+   "screen": {
+    "text": "① watch - watches  ✗  ch로 끝나 + es를 붙인 바른 복수형\n② box - boxes  ✗  x로 끝나 + es를 붙인 바른 복수형\n③ brother - brothers  ✗  brother 끝에 + s만 붙인 바른 복수형\n④ dish - dishs  ✓  sh로 끝나므로 dishes로 써야 해요\n⑤ snack - snacks  ✗  snack 끝에 + s만 붙인 바른 복수형",
+    "highlight": [],
+    "strike": [],
+    "marks": {
+     "①": "✗",
+     "②": "✗",
+     "③": "✗",
+     "④": "✓",
+     "⑤": "✗"
+    },
+    "reveal": [
+     "① watch - watches  ✗  ch로 끝나 + es를 붙인 바른 복수형",
+     "② box - boxes  ✗  x로 끝나 + es를 붙인 바른 복수형",
+     "③ brother - brothers  ✗  brother 끝에 + s만 붙인 바른 복수형",
+     "④ dish - dishs  ✓  sh로 끝나므로 dishes로 써야 해요",
+     "⑤ snack - snacks  ✗  snack 끝에 + s만 붙인 바른 복수형"
+    ]
+   },
+   "narration": "정답은 4번이에요. dish는 sh로 끝나서 dishes가 맞는데, s만 붙인 dishs로 잘못 썼어요. 1번 watches는 watch가 ch로 끝나서 es를 붙인 바른 복수형이에요. 2번 boxes도 box가 x로 끝나서 es를 붙였으니 맞아요. 3번 brothers는 끝에 s만 붙이면 되는 명사라 맞아요.",
+   "caption": "정답 ④ dish - dishs"
+  },
+  {
+   "no": 6,
+   "name": "정리",
+   "sec": 10,
+   "screen": {
+    "text": "정답 ④ dish - dishs\n\ns, sh, ch, x로 끝나는 명사 → 보통 + es (dish → dishes)",
+    "highlight": [],
+    "strike": [],
+    "marks": {},
+    "reveal": [
+     "정답 ④ dish - dishs",
+     "s, sh, ch, x로 끝나는 명사 → 보통 + es (dish → dishes)"
+    ]
+   },
+   "narration": "정답은 4번이에요. 기억할 것, s, sh, ch, x로 끝나는 명사는 보통 es를 붙여 복수형을 만들어요.",
+   "caption": "s·sh·ch·x 끝 → + es"
+  }
+ ],
+ "source": {
+  "stem": "다음 중 명사의 복수형이 잘못된 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "watch - watches",
+   "box - boxes",
+   "brother - brothers",
+   "dish - dishs",
+   "snack - snacks"
+  ],
+  "ans": 4,
+  "expl": "핵심 규칙: 복수형: 대부분 -s, s·sh·ch·x로 끝나면 -es(watches, boxes, dishes), 자음 + y는 y를 i로 바꾸고 -es(babies).\n풀이 순서: ① 명사의 끝 글자를 본다: s, sh, ch, x인지, 자음 + y인지. → ② 그 끝에 맞게 -es나 -ies가 붙었는지 본다. → ③ dish는 sh로 끝나므로 dishes다. 정답은 dish - dishs.\n문장별 판정:\n정답 판단: sh로 끝나 -es를 붙여 dishes로 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] ch로 끝나 -es를 붙인 옳은 형태이므로 오답이다.\n② [오답] x로 끝나 -es를 붙인 옳은 형태이므로 오답이다.\n③ [오답] -s를 붙인 옳은 형태이므로 오답이다.\n④ [정답] sh로 끝나 -es를 붙여 dishes로 써야 하므로 정답이다.\n⑤ [오답] -s를 붙인 옳은 형태이므로 오답이다."
+ }
+}

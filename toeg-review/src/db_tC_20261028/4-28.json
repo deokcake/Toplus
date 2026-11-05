@@ -1,0 +1,31 @@
+{
+  "by": "u_D28ogAC9yGOkTFQbiPz19A",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-25T12:34:49.029Z",
+  "doneBy": "u_D28ogAC9yGOkTFQbiPz19A",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": "수아: 주어 your sister가 3인칭 단수라서 Does를 썼어.",
+      "1": "은우: 동생이 지금 걷고 있는지 묻는 진행형 문장이야.",
+      "2": "준호: Does가 있으니 walk에는 -s를 붙이지 않아.",
+      "3": "하린: 대답은 No, she doesn't.라고 할 수 있어.",
+      "4": "시윤: 주어가 your sister라서 대답할 때 she로 받아."
+    },
+    "expl": "핵심 규칙: 일반동사 현재 의문문: Do/Does + 주어 + 동사원형 ~? Does가 이미 3인칭 단수를 나타내므로 뒤의 동사에는 -s를 붙이지 않는다.\n풀이 순서: ① 문장의 틀을 확인한다: Does + your sister(3인칭 단수) + walk(동사원형) ~? → ② 설명마다 이 틀과 맞는지 본다. → ③ 은우만 진행형 문장이라고 해서 틀렸다. Does + 동사원형은 현재의 습관을 묻는다. 정답은 ②.\n문장별 판정:\n정답 판단: Does + 동사원형은 진행형이 아니라 현재의 습관을 묻는 의문문이다.\n선택지 분석:\n① [오답] 3인칭 단수 주어라 Does를 쓴 것이 맞으므로 오답이다.\n② [정답] Does + 동사원형은 현재의 습관을 묻는 일반동사 의문문이고 진행형이 아니므로 정답이다.\n③ [오답] Does가 있으면 동사원형 walk를 쓰는 것이 맞으므로 오답이다.\n④ [오답] Does로 물으면 No, she doesn't.로 답할 수 있으므로 오답이다.\n⑤ [오답] your sister를 she로 받는 것이 맞으므로 오답이다.",
+    "passage": "Does your sister walk to school with her friends every morning?",
+    "stem": "다음 문장을 읽고 문법적으로 잘못된 설명을 한 학생을 고르시오."
+  },
+  "editors": {
+    "u_D28ogAC9yGOkTFQbiPz19A": "2026-10-25T12:34:45.893Z"
+  },
+  "tab": "ukhm6ccm",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_D28ogAC9yGOkTFQbiPz19A": {
+      "at": "2026-10-25T12:34:49.029Z",
+      "what": "확인 완료"
+    }
+  }
+}

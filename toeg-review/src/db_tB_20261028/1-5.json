@@ -1,0 +1,31 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-21 부적합 메모 반영",
+  "done": true,
+  "doneAt": "2026-09-29T07:50:31.148Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "1개",
+      "1": "2개",
+      "2": "3개",
+      "3": "4개",
+      "4": "5개"
+    },
+    "expl": "핵심 규칙: 보어는 주어·목적어의 상태를 설명하고 부사어는 동작을 꾸민다. 각 동사의 목적어·전치사 결합을 실제 문장에 적용한다.\n풀이 순서: ① 문장마다 동사의 종류부터 가른다. 감각동사 뒤와 find·keep·make·consider의 목적어 뒤는 형용사 자리이고, reach·discuss·enter·approach 뒤는 전치사 없는 목적어 자리다. → ② 형용사 자리에 부사가 왔거나 타동사 뒤에 전치사가 붙은 문장을 표시한다: b) found the hotel room comfortably, f) entered into. → ③ 표시한 문장을 세면 2개이다.\n문장별 판정:\na) 옳음: bitter는 coffee의 맛을 나타내는 형용사 보어이다.\nb) 틀림: room의 상태를 설명하는 목적격보어는 형용사여야 한다. comfortably → comfortable.\nc) 옳음: busy는 목적어 us의 상태를 나타낸다.\nd) 옳음: arrived는 목적어 없이 쓰이며 late는 도착 시점을 꾸민다.\ne) 옳음: discuss는 the proposal을 직접 목적어로 받는다.\nf) 틀림: 이 문항에서는 enter가 office를 직접 목적어로 받는 구조를 요구한다. entered into the office → entered the office.\n정답 판단: 어법상 틀린 문장은 b, f의 2개이다.\n선택지 분석:\n① [오답] 어법상 틀린 문장은 b, f의 2개이다. 이 보기의 1개는 실제 개수와 일치하지 않는다.\n② [정답] 어법상 틀린 문장은 b, f의 2개이다. 이 보기의 2개는 실제 개수와 일치한다.\n③ [오답] 어법상 틀린 문장은 b, f의 2개이다. 이 보기의 3개는 실제 개수와 일치하지 않는다.\n④ [오답] 어법상 틀린 문장은 b, f의 2개이다. 이 보기의 4개는 실제 개수와 일치하지 않는다.\n⑤ [오답] 어법상 틀린 문장은 b, f의 2개이다. 이 보기의 5개는 실제 개수와 일치하지 않는다.",
+    "passage": "a) The coffee tastes bitter without any sugar.\nb) They found the hotel room comfortably after the trip.\nc) The teacher kept us busy with extra homework.\nd) The train arrived late because of the heavy snow.\ne) We discussed the proposal for a long time.\nf) Tom entered into the office without knocking.",
+    "stem": "다음 중 어법상 틀린 문장의 개수를 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-04T10:10:53.028Z"
+  },
+  "tab": "490f725g",
+  "updatedAt": "2026-10-21T04:33:01.000Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-04T10:10:53.028Z",
+      "what": "Claude 해설 예시 적용"
+    }
+  }
+}

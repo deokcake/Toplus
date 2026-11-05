@@ -1,0 +1,40 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "claudeFix": "2026-10-26 감수 메모 반영",
+  "done": true,
+  "doneAt": "2026-10-28T04:27:44.010Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "4",
+    "c": {
+      "0": "Did he watching",
+      "1": "Does he watch",
+      "2": "Was he watch",
+      "3": "Was he watching",
+      "4": "Is he watching"
+    },
+    "expl": "핵심 규칙: 과거진행형 의문문은 Was/Were + 주어 + 동사-ing로 만들며, 대답(Yes, he was.)의 주어와 be동사에 맞춘다.\n풀이 순서: ① 대답(Yes, he was.)의 동사가 질문의 첫 낱말을 정한다. 질문도 Was로 시작한다. → ② be동사로 시작하는 진행형 의문문이므로 주어 뒤에는 -ing가 온다. → ③ 정답은 Was he watching.\n문장별 판정:\n정답 판단: Was he watching: 대답(Yes, he was.)에 맞춘 과거진행형 의문문이므로 정답은 ④이다.\n선택지 분석:\n① [오답] Did he watching: do/does/did 의문문이라 대답의 be동사와 맞지 않으므로 오답이다.\n② [오답] Does he watch: do/does/did 의문문이라 대답의 be동사와 맞지 않으므로 오답이다.\n③ [오답] Was he watch: be동사 뒤에는 -ing 형태를 써야 하므로 오답이다.\n④ [정답] Was he watching: 대답(Yes, he was.)에 맞춘 과거진행형 의문문이므로 정답이다.\n⑤ [오답] Is he watching: 현재진행형이라 대답의 과거(was/were)와 맞지 않으므로 오답이다.",
+    "passage": "Mina: ______ ______ ______ TV in the living room after dinner?\nLeo: Yes, he was.",
+    "stem": "다음 대화에서 빈칸에 알맞은 표현을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-26T03:54:55.036Z"
+  },
+  "notes": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-26T03:55:03.178Z",
+      "text": "기준문항에 비하여 문장이 너무 짧음."
+    }
+  },
+  "tab": "slb1xuyk",
+  "updatedAt": "2026-10-28T04:27:44.010Z",
+  "verdict": null,
+  "verdictAt": "2026-10-28T04:27:41.098Z",
+  "verdictBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-28T04:27:44.010Z",
+      "what": "확인 완료"
+    }
+  }
+}

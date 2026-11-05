@@ -1,0 +1,30 @@
+{
+  "by": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "done": true,
+  "doneAt": "2026-10-05T08:08:30.723Z",
+  "doneBy": "u_LeSP5ZqQQL4igq0__amnQQ",
+  "edit": {
+    "ans": "2",
+    "c": {
+      "0": "must",
+      "1": "might",
+      "2": "can't",
+      "3": null,
+      "4": "won't"
+    },
+    "expl": "핵심 규칙: may/might는 확실하지 않은 가능성(~일지도 모른다)을, must는 강한 확신, can't는 강한 부정 추측을 나타낸다.\n풀이 순서: ① B의 말에서 확신의 정도를 알려 주는 단서를 찾는다: I'm not sure, but it's possible. → ② 확실하지 않은 추측은 might(may)다. must는 확신, can't는 강한 부정, will은 단정이라 이 단서와 맞지 않는다. → ③ 정답은 might.\n문장별 판정:\n정답 판단: might: ‘~일지도 모른다’는 가능성을 나타내 ‘잘 모르지만 그럴 수 있다’와 맞으므로 정답은 ②이다.\n선택지 분석:\n① [오답] must: ‘틀림없다’는 강한 확신이라 ‘잘 모르겠다’와 맞지 않으므로 오답이다.\n② [정답] might: ‘~일지도 모른다’는 가능성을 나타내 ‘잘 모르지만 그럴 수 있다’와 맞으므로 정답이다.\n③ [오답] can't: ‘~일 리 없다’는 강한 부정이라 ‘그럴 수 있다’와 맞지 않으므로 오답이다.\n④ [오답] should: ‘~해야 한다’는 의무·충고라 추측과 맞지 않으므로 오답이다.\n⑤ [오답] won't: ‘~하지 않을 것이다’라 가능성의 뜻과 맞지 않으므로 오답이다.",
+    "passage": "A: Why isn't Tom answering his phone?\nB: He _____ be in the shower. I'm not sure, but it's possible.",
+    "stem": "빈칸에 들어갈 조동사로 가장 적절한 것을 고르시오."
+  },
+  "editors": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": "2026-10-05T08:08:17.823Z"
+  },
+  "tab": "3s93tj0r",
+  "updatedAt": "2026-10-05T08:08:30.723Z",
+  "who": {
+    "u_LeSP5ZqQQL4igq0__amnQQ": {
+      "at": "2026-10-05T08:08:30.723Z",
+      "what": "확인 완료"
+    }
+  }
+}

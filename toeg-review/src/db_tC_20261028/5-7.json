@@ -1,0 +1,31 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "claudeFix": "2026-10-26 풀이 정정",
+  "done": true,
+  "doneAt": "2026-10-22T02:16:35.680Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": "3",
+    "c": {
+      "0": "Those caps are her.",
+      "1": "That caps are hers.",
+      "2": "Those caps are hers.",
+      "3": "These caps are hers.",
+      "4": "Those cap is hers."
+    },
+    "expl": "핵심 규칙: this/that은 단수, these/those는 복수 명사와 쓰고, 명사 없이 ‘~의 것’은 소유대명사(mine, hers, ours, theirs)로 나타낸다.\n풀이 순서: ① 우리말의 지시어와 명사의 수를 본다: ‘저 모자들’은 멀리 있는 여럿이므로 Those caps. → ② 동사는 주어의 수에 맞추고 ‘~의 것’은 소유대명사로 쓴다: are hers. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: ‘저 ~들’ Those + 복수명사와 소유대명사 hers를 바르게 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 명사 없이 ‘그녀의 것’은 소유대명사 hers로 쓰므로 오답이다.\n② [오답] 복수 caps 앞에는 Those를 쓰므로 오답이다.\n③ [정답] ‘저 ~들’ Those + 복수명사와 소유대명사 hers를 바르게 썼으므로 정답이다.\n④ [오답] ‘저’는 These가 아니라 Those이므로 오답이다.\n⑤ [오답] Those 뒤에는 복수명사 caps와 are를 쓰므로 오답이다.",
+    "passage": "저 모자들은 그녀의 것이다.",
+    "stem": null
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-22T02:16:34.861Z"
+  },
+  "tab": "yen8taat",
+  "updatedAt": "2026-10-26T13:00:00.000Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-22T02:16:35.680Z",
+      "what": "확인 완료"
+    }
+  }
+}

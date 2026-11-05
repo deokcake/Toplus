@@ -1,0 +1,30 @@
+{
+  "by": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "done": true,
+  "doneAt": "2026-10-05T07:13:38.923Z",
+  "doneBy": "u_Cyuc6vWgStodBIdsKkS6YQ",
+  "edit": {
+    "ans": null,
+    "c": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null
+    },
+    "expl": "핵심 규칙: 질문과 대답의 인칭 전환·수·과거 시제·긍정/부정을 따로 확인한다.\n풀이 순서: ① (A): 질문의 주어가 Mina(단수)이므로 Was. → ② (B): 대답이 Yes, she ~이므로 was. → ③ 정답은 Was - was.\n문장별 판정:\n정답 판단: (A) Was: 주어 Mina의 과거진행형 질문이므로 was를 앞에 놓는다. (B) was: 대답의 she에 맞는 was를 쓰고 Yes의 긍정이므로 not을 붙이지 않는다. 따라서 정답은 ⑤이다.\n선택지 분석:\n① [오답] (A) Were → Was. 주어 Mina의 과거진행형 질문이므로 was를 앞에 놓는다. (B) was: 대답의 she에 맞는 was를 쓰고 Yes의 긍정이므로 not을 붙이지 않는다.\n② [오답] (A) Is → Was. 주어 Mina의 과거진행형 질문이므로 was를 앞에 놓는다. (B) was: 대답의 she에 맞는 was를 쓰고 Yes의 긍정이므로 not을 붙이지 않는다.\n③ [오답] (A) Was: 주어 Mina의 과거진행형 질문이므로 was를 앞에 놓는다. (B) is → was. 대답의 she에 맞는 was를 쓰고 Yes의 긍정이므로 not을 붙이지 않는다.\n④ [오답] (A) Was: 주어 Mina의 과거진행형 질문이므로 was를 앞에 놓는다. (B) were → was. 대답의 she에 맞는 was를 쓰고 Yes의 긍정이므로 not을 붙이지 않는다.\n⑤ [정답] (A) Was: 주어 Mina의 과거진행형 질문이므로 was를 앞에 놓는다. (B) was: 대답의 she에 맞는 was를 쓰고 Yes의 긍정이므로 not을 붙이지 않는다.",
+    "passage": "A: (<u>     A     </u>) Mina reading at eight?\nB: Yes, she (<u>     B     </u>).",
+    "stem": "다음 대화의 빈칸에 들어갈 말이 바르게 짝지어진 것은?"
+  },
+  "editors": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": "2026-10-05T07:13:38.121Z"
+  },
+  "tab": "j0rcmx3m",
+  "updatedAt": "2026-10-05T07:13:38.923Z",
+  "who": {
+    "u_Cyuc6vWgStodBIdsKkS6YQ": {
+      "at": "2026-10-05T07:13:38.923Z",
+      "what": "확인 완료"
+    }
+  }
+}
