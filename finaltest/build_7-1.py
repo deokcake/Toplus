@@ -243,7 +243,7 @@ doc = {
     "*70점 이상(28문항 이상 정답)이면 합격*입니다.",
     "각 문항에서 가장 알맞은 답을 하나만 고르세요.",
   ],
-  "layout": {"columns": 1, "font_size": 10, "show_points": True, "choice_columns": 1},
+  "layout": {"columns": 1, "font_size": 9.5, "show_points": True, "choice_columns": 0, "section_pagebreak": True},
   "sections": sections,
 }
 out = Path(sys.argv[1] if len(sys.argv) > 1 else "TheReading_7-1_FinalTest.json")

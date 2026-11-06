@@ -18,9 +18,10 @@
  ],
  "layout": {
   "columns": 1,
-  "font_size": 10,
+  "font_size": 9.5,
   "show_points": true,
-  "choice_columns": 1
+  "choice_columns": 0,
+  "section_pagebreak": true
  },
  "sections": [
   {
