@@ -93,7 +93,7 @@
   // 지문·설명 블록: 번호를 매기지 않는다
   if type == "passage" {
     block(width: 100%, breakable: true, above: 0.9em, below: 0.7em,
-      block(width: 100%, stroke: (left: 2pt + ACCENT), inset: (x: 10pt, y: 8pt),
+      block(width: 100%, stroke: (left: 2pt + ACCENT), inset: (x: 10pt, y: 6pt),
         fill: luma(250), {
           if "title" in it { text(weight: "bold", size: 10pt)[#mk(it.title)]; v(0.3em) }
           mk(it.at("text", default: ""))
@@ -102,7 +102,7 @@
   }
 
   qc.step()
-  block(width: 100%, breakable: false, above: 0.9em, below: 0.2em, {
+  block(width: 100%, breakable: false, above: 0.75em, below: 0.2em, {
     grid(
       columns: (auto, 1fr, auto),
       column-gutter: 0.45em,
@@ -113,6 +113,17 @@
         text(size: 8.5pt, fill: MUTED)[[#it.points 점]]
       } else { [] },
     )
+
+    if "box" in it {
+      pad(left: 1.1em, top: 0.4em, block(width: 100%, stroke: 0.5pt + luma(150),
+        inset: (x: 8pt, y: 5pt), radius: 3pt, mk(it.box)))
+    }
+    if "table" in it {
+      let rows = it.table
+      pad(left: 1.1em, top: 0.45em, table(
+        columns: rows.at(0).len(), stroke: 0.5pt + luma(150), inset: 5pt,
+        ..rows.flatten().map(c => mk(c))))
+    }
 
     if type == "multiple_choice" {
       render-choices(it.at("choices", default: ()), opts.choice_columns)
@@ -165,6 +176,31 @@
   })
 }
 
+// ── 정답지 상단 채점표 ───────────────────────
+#let answer-grid(data) = {
+  let all = ()
+  for sec in data.at("sections", default: ()) {
+    for it in sec.at("items", default: ()) {
+      if it.at("type", default: "") != "passage" { all.push(it) }
+    }
+  }
+  let per = 10
+  let n = all.len()
+  block(width: 100%, above: 0.6em, below: 0.3em, {
+    for r in range(calc.ceil(n / per)) {
+      let cells = ()
+      let acells = ()
+      for i in range(r * per, calc.min(n, (r + 1) * per)) {
+        cells.push(text(size: 8pt, fill: MUTED)[#(i + 1)])
+        let a = all.at(i).at("answer", default: none)
+        acells.push(text(weight: "bold", fill: KEYRED)[#if type(a) == int { circled.at(a - 1) } else { str(a) }])
+      }
+      table(columns: per, align: center, inset: 3.5pt, stroke: 0.4pt + luma(170), ..cells, ..acells)
+      v(0.25em)
+    }
+  })
+}
+
 // ── 섹션 ─────────────────────────────────────
 #let render-section(sec, mode, opts, first: false) = {
   if opts.section_pagebreak and mode == "student" and not first { pagebreak() }
@@ -191,7 +227,7 @@
   )
 
   set text(font: CJK, size: layout.at("font_size", default: 10.5) * 1pt, lang: "ko")
-  set par(justify: false, leading: 0.8em)
+  set par(justify: false, leading: 0.72em)
   set page(
     paper: layout.at("paper", default: "a4"),
     margin: (x: 16mm, y: 13mm),
@@ -203,6 +239,7 @@
   place(top, scope: "parent", float: true, {
     doc-header(data, mode)
     if mode == "student" { notice(data.at("instructions", default: ())) }
+    if mode == "key" { answer-grid(data) }
     v(0.2em)
   })
 

@@ -21,7 +21,7 @@ from pathlib import Path
 # 본문으로 취급해 Typst 마크업으로 해석할 필드
 TEXT_KEYS = {
     "title", "description", "prompt", "explanation", "text",
-    "instructions", "choices", "left", "right", "note",
+    "instructions", "choices", "left", "right", "note", "box", "table",
 }
 # 마크업 충돌을 일으키는 문자만 막고, $수식$ / *굵게* 는 살려 둔다
 ESCAPES = {"#": r"\#", "@": r"\@", "<": r"\<", ">": r"\>", "~": r"\~"}
@@ -34,6 +34,7 @@ def prep(s):
         return s
     out = "".join(ESCAPES.get(c, c) for c in s)
     out = re.sub(r"_{2,}", BLANK, out)  # ___ → 빈칸 밑줄
+    out = re.sub(r"⟪(.+?)⟫", r"#underline[\1]", out)  # ⟪word⟫ → 밑줄 친 단어
     return out
 
 
