@@ -61,15 +61,18 @@
 }
 
 // ── 보기(선택지) ─────────────────────────────
+// 표시 폭 추정: 한글·한자 등 전각 문자는 2, 그 외는 1
+#let vis-width(s) = s.codepoints().map(ch => if str.to-unicode(ch) > 0x2E80 { 2 } else { 1 }).sum(default: 0)
+
 #let render-choices(choices, cols) = {
   let n = if cols == 0 {
-    let m = choices.map(c => c.len()).fold(0, calc.max)
-    if m <= 14 { 5 } else if m <= 40 { 2 } else { 1 }
+    let m = choices.map(vis-width).fold(0, calc.max)
+    if m <= 14 { 5 } else if m <= 30 { 2 } else { 1 }
   } else { cols }
   pad(left: 1.1em, top: 0.45em, grid(
     columns: n,
     column-gutter: 1.2em,
-    row-gutter: 0.55em,
+    row-gutter: 0.5em,
     ..choices.enumerate().map(p => [#circled.at(p.at(0)) #mk(p.at(1))]),
   ))
 }
@@ -97,6 +100,7 @@
         fill: luma(250), {
           if "title" in it { text(weight: "bold", size: 10pt)[#mk(it.title)]; v(0.3em) }
           mk(it.at("text", default: ""))
+          if "note" in it { v(0.25em); text(size: 8pt, fill: MUTED)[#mk(it.note)] }
         }))
     return
   }
@@ -203,9 +207,10 @@
 
 // ── 섹션 ─────────────────────────────────────
 #let render-section(sec, mode, opts, first: false) = {
-  if opts.section_pagebreak and mode == "student" and not first { pagebreak() }
+  let broke = opts.section_pagebreak and mode == "student" and not first
+  if broke { pagebreak() }
   if "title" in sec {
-    block(width: 100%, above: if first { 0.6em } else { 0em }, below: 0.5em,
+    block(width: 100%, above: if broke or first { 0.6em } else { 1.3em }, below: 0.5em,
       block(width: 100%, fill: SOFT, inset: (x: 8pt, y: 6pt), radius: 3pt,
         text(weight: "bold", size: 11.5pt, fill: ACCENT)[#mk(sec.title)]))
   }
