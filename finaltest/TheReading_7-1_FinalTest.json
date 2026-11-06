@@ -75,7 +75,7 @@
     },
     {
      "type": "multiple_choice",
-     "prompt": "다음 (A)~(C)를 윗글에서 일어난 순서대로 바르게 배열한 것은?",
+     "prompt": "다음 (A)~(C)를 일이 일어난 순서대로 바르게 배열한 것은?",
      "choices": [
       "(A) – (B) – (C)",
       "(A) – (C) – (B)",
@@ -94,13 +94,13 @@
      "choices": [
       "Warhol은 유명해진 뒤 그림 그리기를 그만두었다.",
       "Warhol의 작품에 대한 사람들의 의견은 모두 같았다.",
-      "Warhol이 실크스크린 인쇄를 발명했다.",
+      "Warhol은 실크스크린 인쇄를 발명했다.",
       "Warhol은 광고 그림을 그리다가 화가로 유명해졌다.",
-      "광고 속 미술은 요즘 점점 인기가 줄고 있다."
+      "광고 속 미술은 ‘팝 아트’라고 불린다."
      ],
      "answer": 4,
      "points": 2.5,
-     "explanation": "[난이도 5·어려움 / 추론] 광고용으로 그린 신발 그림이 유명해져 사람들이 그의 작품을 더 보고 싶어 했고, ‘그래서(Thus)’ 미술관에서 전시를 시작했다고 했다. 유명해진 뒤 그만두었다는 내용은 없고(1960년대에도 많은 작품을 만듦), 사람들의 의견은 갈렸으며(Some critics … Others …), 실크스크린은 ‘처음 사용한 화가 중 한 명(one of the first)’일 뿐이고, 광고 속 미술은 점점 인기를 얻고 있다(increasingly popular)."
+     "explanation": "[난이도 5·어려움 / 추론] 광고용으로 그린 신발 그림이 유명해져 사람들이 그의 작품을 더 보고 싶어 했고, ‘그래서(Thus)’ 미술관에서 전시를 시작했다고 했다. 유명해진 뒤 그만두었다는 내용은 없고(1960년대에도 많은 작품을 만듦), 사람들의 의견은 갈렸으며(Some critics … Others …), 실크스크린은 ‘처음 사용한 화가 중 한 명(one of the first)’일 뿐이고, 광고 속 미술은 ‘상업 미술(commercial art)’이라고 불린다(팝 아트는 일상 사물을 그린 작품을 가리킨다)."
     }
    ]
   },
@@ -248,7 +248,7 @@
      ],
      "answer": 1,
      "points": 2.5,
-     "explanation": "[난이도 4·다소 어려움 / 내용 일치] Slow Cities do not have many fast-food restaurants or big supermarkets. Instead, they have locally owned restaurants and small markets. 슬로푸드 운동은 1980년대에 시작했고, 슬로푸드가 슬로시티에 영감을 준 것이며(This inspired …), cittaslow는 마을 개발 ‘계획’의 이름이고, 1999년 이후 ‘수십 개(dozens of)’ 도시가 지정되었다."
+     "explanation": "[난이도 4·다소 어려움 / 내용 일치] Slow Cities do not have many fast-food restaurants or big supermarkets. Instead, they have locally owned restaurants and small markets. 슬로푸드 운동은 1980년대에 시작되었고, 슬로푸드가 슬로시티에 영감을 준 것이며(This inspired …), cittaslow는 마을 개발 ‘계획’의 이름이고, 1999년 이후 ‘수십 개(dozens of)’ 도시가 지정되었다."
     },
     {
      "type": "multiple_choice",
@@ -277,7 +277,7 @@
     },
     {
      "type": "multiple_choice",
-     "prompt": "윗글에서 Empedocles가 말한 네 가지 원소에 해당하지 *않는* 것은?",
+     "prompt": "윗글에서 Empedocles가 말한 원소에 해당하지 *않는* 것은?",
      "choices": [
       "물",
       "불",
@@ -422,7 +422,7 @@
     },
     {
      "type": "multiple_choice",
-     "prompt": "다음 (A)~(C)를 윗글에서 일어난 순서대로 바르게 배열한 것은?",
+     "prompt": "다음 (A)~(C)를 일이 일어난 순서대로 바르게 배열한 것은?",
      "choices": [
       "(A) – (B) – (C)",
       "(B) – (C) – (A)",
@@ -480,13 +480,13 @@
      "choices": [
       "물, 설탕, 기름",
       "소금, 식초, 설탕",
-      "물, 소금, 설탕",
+      "소금, 양념, 기름",
       "물, 소금, 양념",
       "물, 식초, 후추"
      ],
      "answer": 4,
      "points": 2.5,
-     "explanation": "[난이도 2·쉬움 / 세부 사실] a brine—a mixture of water, salt, and seasonings. 물, 소금, 양념(seasonings)을 섞은 것이다. 설탕·식초·기름·후추는 지문에 없다."
+     "explanation": "[난이도 2·쉬움 / 세부 사실] a brine—a mixture of water, salt, and seasonings. 물, 소금, 양념(seasonings)을 섞은 것이다. ③은 물이 빠져 있고, 설탕·식초·기름·후추는 지문에 없다."
     },
     {
      "type": "multiple_choice",
@@ -510,25 +510,25 @@
       "채소의 껍질은 반투막 역할을 한다.",
       "피클을 만들 때 물이 채소 밖으로 빠져나온다.",
       "피클은 소금물 속에서 물렁물렁해진다.",
-      "역삼투는 압력을 이용하여 바닷물을 마실 수 있게 만든다."
+      "역삼투를 거친 바닷물은 마실 수 있다."
      ],
      "answer": 4,
      "points": 2.5,
-     "explanation": "[난이도 4·다소 어려움 / 내용 불일치] it is why pickled vegetables stay crunchy — 피클은 ‘아삭함을 유지’한다. 나머지는 Molecules are always moving / The skin acts as a semi-permeable membrane / Water molecules move out of the vegetables … into the brine / uses pressure … Afterward, we can drink the water 와 일치한다."
+     "explanation": "[난이도 4·다소 어려움 / 내용 불일치] it is why pickled vegetables stay crunchy — 피클은 ‘아삭함을 유지’한다. 나머지는 Molecules are always moving / The skin acts as a semi-permeable membrane / Water molecules move out of the vegetables … into the brine / Afterward, we can drink the water 와 일치한다."
     },
     {
      "type": "multiple_choice",
-     "prompt": "다음은 윗글을 요약한 것이다. 빈칸 (A), (B)에 들어갈 말로 가장 알맞은 것은?\n\nOsmosis makes the concentration on both sides of a membrane (A) ______. Reverse osmosis works in the (B) ______ direction, and it makes seawater drinkable.",
+     "prompt": "다음은 윗글을 요약한 것이다. 빈칸 (A), (B)에 들어갈 말로 가장 알맞은 것은?\n\nOsmosis makes the concentration on both sides of a membrane (A) ______. Reverse osmosis uses (B) ______ to force molecules through the membrane, and it makes seawater drinkable.",
      "choices": [
-      "(A) higher …… (B) opposite",
-      "(A) the same …… (B) same",
-      "(A) the same …… (B) opposite",
-      "(A) lower …… (B) same",
-      "(A) higher …… (B) usual"
+      "(A) higher …… (B) heat",
+      "(A) the same …… (B) salt",
+      "(A) the same …… (B) pressure",
+      "(A) lower …… (B) heat",
+      "(A) higher …… (B) pressure"
      ],
      "answer": 3,
      "points": 2.5,
-     "explanation": "[난이도 5·어려움 / 요약문 완성] (A) This equalizes the concentration … on either side of the membrane — 막 양쪽의 농도를 ‘같게(the same)’ 만든다. 분자가 농도가 높은 쪽으로 이동할 뿐, 양쪽 농도가 높아지거나 낮아지는 것이 아니다. (B) 3문단의 Reverse osmosis는 이름 그대로 삼투를 ‘거꾸로(reverse)’ 한 과정이며, 저절로 일어나는 삼투와 달리 uses pressure to force(압력으로 분자를 억지로 밀어 넣는다)라고 했으므로 ‘반대(opposite)’ 방향으로 작용한다. 같은(same) 방향이나 평소(usual) 방향이라면 ‘reverse’라고 부를 이유가 없다."
+     "explanation": "[난이도 5·어려움 / 요약문 완성] (A) This equalizes the concentration … on either side of the membrane — 막 양쪽의 농도를 ‘같게(the same)’ 만든다. 분자가 농도가 높은 쪽으로 이동할 뿐, 양쪽 농도가 높아지거나 낮아지는 것이 아니다. (B) Reverse osmosis is a process that uses pressure to force molecules … — 역삼투는 ‘압력(pressure)’을 이용한다. heat(열)는 지문에 없고, salt(소금)는 역삼투로 없애는 대상이지 이용하는 수단이 아니다."
     }
    ]
   },
@@ -602,7 +602,7 @@
      "prompt": "윗글의 글쓴이가 가장 동의할 만한 것은?",
      "choices": [
       "투표하는 사람이 많다고 해서 다수결이 더 공정해지는 것은 아니다.",
-      "가장 많은 표를 얻은 결정이라도 모두에게 공정하지는 않을 수 있다.",
+      "다수결로 정한 결정이라도 모두에게 공정하지는 않을 수 있다.",
       "선거에서 이긴 정당은 자기를 뽑지 않은 사람들의 의견을 들을 필요가 없다.",
       "지도자의 표는 보통 시민의 표보다 더 무겁게 반영되어야 한다.",
       "투표는 누구를 뽑았는지 모두가 볼 수 있는 곳에서 해야 한다."

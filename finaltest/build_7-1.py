@@ -28,7 +28,7 @@ LEVEL = {1: "매우 쉬움", 2: "쉬움", 3: "보통", 4: "다소 어려움", 5:
 EXPECTED_P = {1: 0.97, 2: 0.92, 3: 0.85, 4: 0.77, 5: 0.65}  # 초6 평균 학생 기준 예상 정답률
 
 SUMQ = "다음은 윗글을 요약한 것이다. 빈칸 (A), (B)에 들어갈 말로 가장 알맞은 것은?"
-ORDQ = "다음 (A)~(C)를 윗글에서 일어난 순서대로 바르게 배열한 것은?"
+ORDQ = "다음 (A)~(C)를 일이 일어난 순서대로 바르게 배열한 것은?"
 TBLQ = "다음은 윗글의 내용을 정리한 표이다. 빈칸 (A), (B)에 들어갈 말로 가장 알맞은 것은?"
 ORD3 = ["(A) – (B) – (C)", "(A) – (C) – (B)", "(B) – (A) – (C)", "(B) – (C) – (A)", "(C) – (A) – (B)", "(C) – (B) – (A)"]
 
@@ -74,8 +74,8 @@ items=[
       box="(A) 미술관에서 자신의 작품을 전시하기 시작했다. \\\n(B) 대학을 졸업한 뒤 일을 시작했다. \\\n(C) ‘팝 아트’라고 불리는 작품들을 만들었다."),
  item(5, "추론", "윗글을 통해 알 수 있는 것으로 가장 알맞은 것은?",
       "Warhol은 광고 그림을 그리다가 화가로 유명해졌다.",
-      ["Warhol은 유명해진 뒤 그림 그리기를 그만두었다.", "Warhol의 작품에 대한 사람들의 의견은 모두 같았다.", "Warhol이 실크스크린 인쇄를 발명했다.", "광고 속 미술은 요즘 점점 인기가 줄고 있다."], 4,
-      "광고용으로 그린 신발 그림이 유명해져 사람들이 그의 작품을 더 보고 싶어 했고, ‘그래서(Thus)’ 미술관에서 전시를 시작했다고 했다. 유명해진 뒤 그만두었다는 내용은 없고(1960년대에도 많은 작품을 만듦), 사람들의 의견은 갈렸으며(Some critics … Others …), 실크스크린은 ‘처음 사용한 화가 중 한 명(one of the first)’일 뿐이고, 광고 속 미술은 점점 인기를 얻고 있다(increasingly popular)."),
+      ["Warhol은 유명해진 뒤 그림 그리기를 그만두었다.", "Warhol의 작품에 대한 사람들의 의견은 모두 같았다.", "Warhol은 실크스크린 인쇄를 발명했다.", "광고 속 미술은 ‘팝 아트’라고 불린다."], 4,
+      "광고용으로 그린 신발 그림이 유명해져 사람들이 그의 작품을 더 보고 싶어 했고, ‘그래서(Thus)’ 미술관에서 전시를 시작했다고 했다. 유명해진 뒤 그만두었다는 내용은 없고(1960년대에도 많은 작품을 만듦), 사람들의 의견은 갈렸으며(Some critics … Others …), 실크스크린은 ‘처음 사용한 화가 중 한 명(one of the first)’일 뿐이고, 광고 속 미술은 ‘상업 미술(commercial art)’이라고 불린다(팝 아트는 일상 사물을 그린 작품을 가리킨다)."),
 ]),
 # ───────────────────────────── Unit 2 (Set B) ─────────────────────────────
 dict(key="u2", set="B", title="Unit 2 · Nature — The Water Cycle Keeps Earth Balanced",
@@ -127,7 +127,7 @@ items=[
  item(4, "내용 일치", "윗글의 내용과 일치하는 것은?",
       "슬로시티에는 대형 마트 대신 작은 시장과 지역 식당이 있다.",
       ["슬로푸드 운동은 1990년대에 시작되었다.", "슬로시티 운동이 슬로푸드 운동에 영감을 주었다.", "cittaslow는 이탈리아의 오래된 건물 이름이다.", "1999년 이후 두 도시만 슬로시티로 지정되었다."], 1,
-      "Slow Cities do not have many fast-food restaurants or big supermarkets. Instead, they have locally owned restaurants and small markets. 슬로푸드 운동은 1980년대에 시작했고, 슬로푸드가 슬로시티에 영감을 준 것이며(This inspired …), cittaslow는 마을 개발 ‘계획’의 이름이고, 1999년 이후 ‘수십 개(dozens of)’ 도시가 지정되었다."),
+      "Slow Cities do not have many fast-food restaurants or big supermarkets. Instead, they have locally owned restaurants and small markets. 슬로푸드 운동은 1980년대에 시작되었고, 슬로푸드가 슬로시티에 영감을 준 것이며(This inspired …), cittaslow는 마을 개발 ‘계획’의 이름이고, 1999년 이후 ‘수십 개(dozens of)’ 도시가 지정되었다."),
  item(5, "글쓴이의 주장", "윗글의 글쓴이가 가장 동의할 만한 것은?",
       "마을은 자연과 사람의 건강을 해치지 않고도 발전할 수 있다.",
       ["바쁜 도시 사람들에게는 패스트푸드가 알맞은 먹거리다.", "대형 마트가 많을수록 이웃 사이가 더 가까워진다.", "슬로시티는 마을을 새로 개발하는 일을 하지 말아야 한다.", "슬로시티가 되려면 마을이 이탈리아에 있어야 한다."], 4,
@@ -140,7 +140,7 @@ passage="""Before modern chemistry, ancient people tried to understand the makeu
 What observations did Empedocles make about these elements? First, he noted that pots were made with earth and water. After being mixed and shaped, they were burned with fire and cooled with air. All four elements were necessary to make one pot. The same pot was used for cooking plants from the earth, often mixed with water, over a flame. The air cooled down the food so it could be eaten. Thus, all four elements were necessary to ______. Empedocles also believed that these elements were ⟪indestructible⟫ and unchangeable. His theories inspired later scientists to study more about the elements that make up our world.""",
 gloss="※ chemistry 화학 · makeup 구성 · philosopher 철학자 · theorize 이론을 세우다 · element 원소 · substance 물질 · observation 관찰 · flame 불꽃",
 items=[
- item(1, "세부 사실", "윗글에서 Empedocles가 말한 네 가지 원소에 해당하지 *않는* 것은?",
+ item(1, "세부 사실", "윗글에서 Empedocles가 말한 원소에 해당하지 *않는* 것은?",
       "나무", ["물", "불", "흙", "공기"], 4,
       "These elements were water, fire, earth, and air. 물·불·흙·공기 네 가지이며, 나무(wood)는 네 원소에 들어 있지 않다."),
  item(2, "어휘(단어 뜻)", "윗글의 밑줄 친 ⟪indestructible⟫의 뜻으로 가장 알맞은 것은?",
@@ -203,20 +203,20 @@ items=[
       "take out", ["put in", "cut", "wash", "buy"], 1,
       "remove는 ‘없애다, 제거하다’. 바닷물에서 소금을 ‘빼낸다’는 뜻이므로 take out이 가장 가깝다."),
  item(2, "세부 사실", "윗글에 따르면, brine은 무엇을 섞어 만든 것인가?",
-      "물, 소금, 양념", ["물, 설탕, 기름", "소금, 식초, 설탕", "물, 소금, 설탕", "물, 식초, 후추"], 4,
-      "a brine—a mixture of water, salt, and seasonings. 물, 소금, 양념(seasonings)을 섞은 것이다. 설탕·식초·기름·후추는 지문에 없다."),
+      "물, 소금, 양념", ["물, 설탕, 기름", "소금, 식초, 설탕", "소금, 양념, 기름", "물, 식초, 후추"], 4,
+      "a brine—a mixture of water, salt, and seasonings. 물, 소금, 양념(seasonings)을 섞은 것이다. ③은 물이 빠져 있고, 설탕·식초·기름·후추는 지문에 없다."),
  item(3, "언급 이유", "글쓴이가 pickling(피클 만들기)을 언급한 이유로 가장 알맞은 것은?",
       "일상생활에서 삼투 현상이 쓰이는 예를 들기 위해",
       ["채소를 싱싱하게 기르는 방법을 알려 주기 위해", "소금물을 만드는 순서를 설명하기 위해", "바닷물을 마실 수 있게 만드는 과정을 보여 주기 위해", "분자가 움직이지 않는 경우를 설명하기 위해"], 5,
       "1문단 끝 What is one use of osmosis?라는 질문에 답하는 예로 피클 만들기를 들었고, This process is an example of osmosis라고 밝혔다. 바닷물 정수는 ‘역삼투’의 예이며, 분자는 항상 움직인다고 했다."),
  item(4, "내용 불일치", "윗글의 내용과 일치하지 *않는* 것은?",
       "피클은 소금물 속에서 물렁물렁해진다.",
-      ["분자는 항상 움직인다.", "채소의 껍질은 반투막 역할을 한다.", "피클을 만들 때 물이 채소 밖으로 빠져나온다.", "역삼투는 압력을 이용하여 바닷물을 마실 수 있게 만든다."], 4,
-      "it is why pickled vegetables stay crunchy — 피클은 ‘아삭함을 유지’한다. 나머지는 Molecules are always moving / The skin acts as a semi-permeable membrane / Water molecules move out of the vegetables … into the brine / uses pressure … Afterward, we can drink the water 와 일치한다."),
- item(5, "요약문 완성", SUMQ + "\n\nOsmosis makes the concentration on both sides of a membrane (A) ______. Reverse osmosis works in the (B) ______ direction, and it makes seawater drinkable.",
-      "(A) the same …… (B) opposite",
-      ["(A) higher …… (B) opposite", "(A) the same …… (B) same", "(A) lower …… (B) same", "(A) higher …… (B) usual"], 3,
-      "(A) This equalizes the concentration … on either side of the membrane — 막 양쪽의 농도를 ‘같게(the same)’ 만든다. 분자가 농도가 높은 쪽으로 이동할 뿐, 양쪽 농도가 높아지거나 낮아지는 것이 아니다. (B) 3문단의 Reverse osmosis는 이름 그대로 삼투를 ‘거꾸로(reverse)’ 한 과정이며, 저절로 일어나는 삼투와 달리 uses pressure to force(압력으로 분자를 억지로 밀어 넣는다)라고 했으므로 ‘반대(opposite)’ 방향으로 작용한다. 같은(same) 방향이나 평소(usual) 방향이라면 ‘reverse’라고 부를 이유가 없다."),
+      ["분자는 항상 움직인다.", "채소의 껍질은 반투막 역할을 한다.", "피클을 만들 때 물이 채소 밖으로 빠져나온다.", "역삼투를 거친 바닷물은 마실 수 있다."], 4,
+      "it is why pickled vegetables stay crunchy — 피클은 ‘아삭함을 유지’한다. 나머지는 Molecules are always moving / The skin acts as a semi-permeable membrane / Water molecules move out of the vegetables … into the brine / Afterward, we can drink the water 와 일치한다."),
+ item(5, "요약문 완성", SUMQ + "\n\nOsmosis makes the concentration on both sides of a membrane (A) ______. Reverse osmosis uses (B) ______ to force molecules through the membrane, and it makes seawater drinkable.",
+      "(A) the same …… (B) pressure",
+      ["(A) higher …… (B) heat", "(A) the same …… (B) salt", "(A) lower …… (B) heat", "(A) higher …… (B) pressure"], 3,
+      "(A) This equalizes the concentration … on either side of the membrane — 막 양쪽의 농도를 ‘같게(the same)’ 만든다. 분자가 농도가 높은 쪽으로 이동할 뿐, 양쪽 농도가 높아지거나 낮아지는 것이 아니다. (B) Reverse osmosis is a process that uses pressure to force molecules … — 역삼투는 ‘압력(pressure)’을 이용한다. heat(열)는 지문에 없고, salt(소금)는 역삼투로 없애는 대상이지 이용하는 수단이 아니다."),
 ]),
 # ───────────────────────────── Unit 7 (Set C) ─────────────────────────────
 dict(key="u7", set="C", title="Unit 7 · Social Studies — Majority Rule in Democracies",
@@ -242,7 +242,7 @@ items=[
       ["다수결에서 승자는 항상 90% 이상의 표를 얻는다.", "대부분의 민주주의 국가는 투표 없이 공직자를 뽑는다.", "사람마다 표의 무게가 달라야 한다.", "정당이 둘뿐이면 근소한 차이로 선거가 결정되는 일은 없다."], 5,
       "In a system with more than two parties, less than 50% of voters could give one political party a victory. 51%만 얻어도 이기므로 ‘항상 90% 이상’은 틀리고, 공직자는 ‘다수결 투표로(through a majority vote)’ 뽑으며, 표는 ‘똑같이(equally)’ 계산되어야 하고, 두 정당 체제에서는 51% 대 49% 같은 근소한 차이(slim margin)로도 선거가 ‘결정될 수 있다(can decide)’."),
  item(5, "글쓴이의 주장", "윗글의 글쓴이가 가장 동의할 만한 것은?",
-      "가장 많은 표를 얻은 결정이라도 모두에게 공정하지는 않을 수 있다.",
+      "다수결로 정한 결정이라도 모두에게 공정하지는 않을 수 있다.",
       ["투표하는 사람이 많다고 해서 다수결이 더 공정해지는 것은 아니다.", "선거에서 이긴 정당은 자기를 뽑지 않은 사람들의 의견을 들을 필요가 없다.", "지도자의 표는 보통 시민의 표보다 더 무겁게 반영되어야 한다.", "투표는 누구를 뽑았는지 모두가 볼 수 있는 곳에서 해야 한다."], 2,
       "글쓴이는 51%만 얻어도 이기므로 거의 절반이 원하는 것을 얻지 못한다며 ‘다수결이 정말 공정한가’를 묻고, 이긴 정당은 다른 유권자의 의견을 고려해야 하며 민주주의는 모든 시민의 평등을 보장해야 한다고 했다. 투표하는 사람이 많아도 더 공정해지지 않는다는 것은 there have to be enough voters to make a majority vote truly fair와 반대이고, 자기를 뽑지 않은 사람들의 의견을 들을 필요가 없다는 것은 must consider the opinions of the other voters와 반대이며, 지도자의 표가 더 무겁다는 것은 weighted equally와, 남이 보는 앞에서 투표한다는 것은 secret ballots와 어긋난다."),
 ]),
