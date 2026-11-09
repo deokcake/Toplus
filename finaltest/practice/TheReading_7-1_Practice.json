@@ -71,7 +71,7 @@
     },
     {
      "type": "multiple_choice",
-     "prompt": "According to the passage, what was Warhol one of the first artists to use?",
+     "prompt": "According to the passage, Warhol was one of the first artists to use ______.",
      "choices": [
       "oil paint",
       "silkscreen ink printing",
@@ -89,8 +89,8 @@
       "art in churches",
       "art in public buildings",
       "art on television",
-      "Andy Warhol’s drawings",
-      "art used in advertisements"
+      "art in magazines",
+      "art in advertisements"
      ],
      "answer": 5,
      "explanation": "[난이도 3·보통 / 지칭 추론] 바로 앞 문장 Art in advertisements has become increasingly popular. 를 받아 ‘이것(광고 속 미술)’을 commercial art라고 부른다고 했다."
@@ -119,47 +119,47 @@
       "(C) – (A) – (B)"
      ],
      "answer": 1,
-     "explanation": "[난이도 4·다소 어려움 / 사건 순서 배열] 어릴 때 자주 아파서 그림을 많이 그림(B) → 대학 졸업 후 광고 미술 일을 시작(C) → 신발 그림이 유명해져 사람들이 작품을 더 보고 싶어 함(A). 2문단의 순서 그대로이다.",
-     "box": "(A) People wanted to see more of Warhol’s work. \\\n(B) Warhol was often sick and spent a lot of time drawing. \\\n(C) Warhol began his career making art for advertisements."
+     "explanation": "[난이도 4·다소 어려움 / 사건 순서 배열] 어릴 때 그림을 많이 그림(B) → 대학 졸업 후 광고 미술 일을 시작(C) → 신발 그림이 유명해져 사람들이 작품을 더 보고 싶어 함(A). 2문단의 순서 그대로이다.",
+     "box": "(A) Many people wanted to see more of Warhol’s work. \\\n(B) Warhol spent a lot of time drawing as a child. \\\n(C) Warhol got his first job making art for advertisements."
     },
     {
      "type": "multiple_choice",
      "prompt": "Which is *NOT* true according to the passage?",
      "choices": [
-      "Warhol was often sick as a child.",
-      "Warhol made art for advertisements after college.",
-      "Warhol never used silkscreen ink printing.",
-      "Warhol showed his works in art galleries in the 1950s.",
+      "Art has been used to decorate churches.",
+      "Some critics think Warhol only wanted to make money with his art.",
+      "Warhol’s drawings of shoes were not well known.",
+      "Warhol made art pieces of Campbell’s Soup cans.",
       "Most critics agree that Warhol’s work shows the changing value of art."
      ],
      "answer": 3,
-     "explanation": "[난이도 4·다소 어려움 / 내용 불일치] Warhol was one of the first artists to use silkscreen ink printing — 실크스크린 인쇄를 ‘처음 사용한 화가 중 한 명’이므로 ‘전혀 쓰지 않았다’는 틀리다. 나머지는 본문과 일치한다."
+     "explanation": "[난이도 4·다소 어려움 / 내용 불일치] His drawings of shoes became so well known that people wanted to see more of his work — 신발 그림은 ‘매우 유명해졌다’고 했으므로 ‘유명하지 않았다’는 틀리다. 나머지는 decorate … churches / Some critics think … making money / Campbell’s Soup cans / most critics agree … 와 일치한다."
     },
     {
      "type": "multiple_choice",
      "prompt": "What can we learn from the passage?",
      "choices": [
-      "Warhol never made money from his art.",
-      "Warhol’s art was shown only in art galleries.",
+      "Warhol made art only for television.",
+      "Warhol’s works were shown only in art galleries.",
       "People in the past did not use art to decorate buildings.",
       "Warhol stopped drawing after college.",
-      "Critics do not all agree about why Warhol made his art."
+      "Critics have different ideas about why Warhol made his art."
      ],
      "answer": 5,
-     "explanation": "[난이도 5·어려움 / 추론] Some critics think … Others thought … Apart from this argument — 비평가들의 의견이 갈렸다. Warhol은 상업 미술가로 돈을 벌었고, 작품은 광고에도 쓰였으며, 옛날에도 미술로 건물을 꾸몄고, 대학 졸업 후에도 계속 그림을 그렸다."
+     "explanation": "[난이도 5·어려움 / 추론] Some critics think … Others thought … Apart from this argument — 비평가들의 생각이 서로 달랐다. Warhol은 광고 미술을 만들고 미술관에서도 전시했으므로 TV만을 위해 만든 것도, 미술관에서만 보인 것도 아니고, 옛날에도 미술로 건물을 꾸몄으며, 대학 졸업 후에도 계속 그림을 그렸다."
     },
     {
      "type": "multiple_choice",
      "prompt": "What can we learn from the passage?",
      "choices": [
       "Pop art used pictures of things people saw every day.",
-      "Pop art was made only for advertisements.",
+      "Pop art showed pictures of homes and churches.",
       "Pop art showed mostly famous people.",
-      "Pop art was made before Warhol was born.",
-      "Pop art was shown only on television."
+      "Pop art was the first kind of art Warhol made.",
+      "Most critics think pop art was only about making money."
      ],
      "answer": 1,
-     "explanation": "[난이도 5·어려움 / 추론] many famous art pieces depicting everyday objects … This kind of art is referred to as “pop art.” — 일상 사물(콜라병, 지폐, 수프 캔)을 그린 작품이 팝 아트이다. 팝 아트는 미술관에서 전시되었고, 유명인이 아니라 사물을 그렸으며, Warhol이 1960년대에 만들었다."
+     "explanation": "[난이도 5·어려움 / 추론] many famous art pieces depicting everyday objects … This kind of art is referred to as “pop art.” — 일상 사물(콜라병, 지폐, 수프 캔)을 그린 작품이 팝 아트이다. 집이나 교회, 유명인이 아니라 사물을 그렸고, Warhol은 어릴 때 그림을 그리고 광고 미술을 거친 뒤 1960년대에 팝 아트를 만들었으며, 대부분의 비평가는 그의 작품이 ‘미술의 달라진 가치’를 보여 준다고 본다."
     }
    ]
   },
@@ -170,7 +170,7 @@
      "type": "passage",
      "title": "[1–10] Read the passage and answer the questions.",
      "text": "The water cycle is ⟪necessary⟫ for life on Earth. Water on the ground evaporates into vapor and forms clouds in the sky. In return, rain brings water back down to the ground again, which ends up in streams, rivers, lakes, and oceans. What happens when humans tamper with the water cycle?\n\nMost evaporation ⟪occurs⟫ in oceans as a result of the Sun’s energy. This cools the temperature of Earth’s climate and also affects the oceans’ salt content. Having the correct amount of salt in the oceans maintains a delicate ecosystem of plants, fish, and other wildlife. One example of a disaster caused by tampering with the water cycle is the drying-up of the Aral Sea. The two rivers that fed the Aral Sea were diverted for farming in the desert. As a result, the sea is now almost completely dry, killing the wildlife that lived there and causing dust storms that affect human health.\n\nAs we can see, the water cycle is necessary to keep the environment balanced. It is important to understand the water cycle and to protect our water sources so they can function well for Earth’s sake.",
-     "note": "Words: evaporate = change into gas · vapor = water in the air · end up = finally arrive · tamper with = change something in a bad way · affect = change something · salt content = the amount of salt · maintain = keep · ecosystem = all the living things in a place · disaster = a very bad event · fed = brought water to · divert = make a river go a different way · dust storm = a strong wind full of dust · function = work · for Earth’s sake = for the good of Earth"
+     "note": "Words: evaporate = change into gas · evaporation = when water evaporates · vapor = water in the air · in return = then, the other way · end up = finally arrive · tamper with = change something in a bad way · climate = the usual weather of a place · temperature = how hot or cold something is · affect = change something · salt content = the amount of salt · delicate = easily hurt or broken · ecosystem = all the living things in a place · wildlife = wild animals and plants · disaster = a very bad event · fed = brought water to · divert = make a river go a different way · dust storm = a strong wind full of dust · function = work · for Earth’s sake = for the good of Earth"
     },
     {
      "type": "multiple_choice",
@@ -205,11 +205,11 @@
       "the wind",
       "the Moon",
       "the salt",
-      "the Sun’s energy",
+      "the Sun",
       "the rain"
      ],
      "answer": 4,
-     "explanation": "[난이도 2·쉬움 / 세부 사실] Most evaporation occurs in oceans as a result of the Sun’s energy."
+     "explanation": "[난이도 2·쉬움 / 세부 사실] Most evaporation occurs in oceans as a result of the Sun’s energy. — 태양의 에너지 때문이다."
     },
     {
      "type": "multiple_choice",
@@ -217,8 +217,8 @@
      "choices": [
       "in the clouds",
       "in the desert",
-      "in streams, rivers, lakes, and oceans",
-      "in the Sun",
+      "in rivers and oceans",
+      "in the sky",
       "in the air as vapor"
      ],
      "answer": 3,
@@ -226,10 +226,10 @@
     },
     {
      "type": "multiple_choice",
-     "prompt": "Why does the writer mention dust storms?",
+     "prompt": "Why does the writer talk about dust storms?",
      "choices": [
       "to explain how clouds are made",
-      "to show how farmers water the desert",
+      "to explain how the Sun warms the oceans",
       "to describe the weather in the ocean",
       "to show that the dry Aral Sea hurts people’s health",
       "to explain why the sea is salty"
@@ -239,68 +239,68 @@
     },
     {
      "type": "multiple_choice",
-     "prompt": "Why does the writer mention the salt in the oceans?",
+     "prompt": "Why does the writer talk about the salt in the oceans?",
      "choices": [
-      "to show that the right amount of salt keeps sea life healthy",
-      "to explain why seawater tastes bad",
-      "to show how people make salt",
-      "to explain why fish die in rivers",
-      "to show how clouds get their water"
+      "to show that sea life needs the right amount of salt",
+      "to explain why seawater tastes bad to drink",
+      "to show how people make salt from the sea",
+      "to explain why fish die in rivers and lakes",
+      "to show how clouds get their water from the sea"
      ],
      "answer": 1,
-     "explanation": "[난이도 3·보통 / 언급 이유] Having the correct amount of salt in the oceans maintains a delicate ecosystem of plants, fish, and other wildlife — 알맞은 소금 양이 바다 생물의 생태계를 지켜 준다는 뜻이다."
+     "explanation": "[난이도 3·보통 / 언급 이유] Having the correct amount of salt in the oceans maintains a delicate ecosystem of plants, fish, and other wildlife — 알맞은 소금 양이 있어야 바다 생물의 생태계가 지켜진다는 뜻이다."
     },
     {
      "type": "multiple_choice",
      "prompt": "Which is *NOT* true according to the passage?",
      "choices": [
       "Water on the ground evaporates and forms clouds.",
-      "Most evaporation happens because of the Sun’s energy.",
-      "Two rivers used to flow into the Aral Sea.",
-      "The water cycle keeps the environment balanced.",
-      "The Aral Sea is now full of water again."
+      "Evaporation changes the amount of salt in the oceans.",
+      "There are plants, fish, and other wildlife in the oceans.",
+      "People can change the water cycle in a bad way.",
+      "Rain takes water from the ground up to the sky."
      ],
      "answer": 5,
-     "explanation": "[난이도 4·다소 어려움 / 내용 불일치] the sea is now almost completely dry — Aral Sea는 거의 완전히 말라 있다. 나머지는 evaporates into vapor and forms clouds / as a result of the Sun’s energy / The two rivers that fed the Aral Sea / keep the environment balanced 와 일치한다."
+     "explanation": "[난이도 4·다소 어려움 / 내용 불일치] rain brings water back down to the ground — 비는 물을 하늘에서 땅으로 ‘내려’ 보낸다. 물을 하늘로 올리는 것은 증발이다. 나머지는 evaporates into vapor and forms clouds / affects the oceans’ salt content / ecosystem of plants, fish, and other wildlife / humans tamper with the water cycle 와 일치한다."
     },
     {
      "type": "multiple_choice",
      "prompt": "Which is true according to the passage?",
      "choices": [
-      "Rain never reaches the oceans.",
-      "We should protect our water sources.",
-      "The Aral Sea dried up because of too much rain.",
-      "Dust storms help the wildlife near the Aral Sea.",
-      "The Sun has nothing to do with evaporation."
+      "The Aral Sea dried up because there was too little rain.",
+      "It is important to understand the water cycle.",
+      "Dust storms made the Aral Sea dry.",
+      "The two rivers still flow into the Aral Sea.",
+      "Clouds are made of salt."
      ],
      "answer": 2,
-     "explanation": "[난이도 4·다소 어려움 / 내용 일치] It is important … to protect our water sources. 비는 바다까지 흘러가고(ends up in … oceans), Aral Sea는 강물을 돌려서 말랐으며, 모래 폭풍은 사람의 건강을 해치고, 증발은 태양 에너지 때문에 일어난다."
+     "explanation": "[난이도 4·다소 어려움 / 내용 일치] It is important to understand the water cycle and to protect our water sources. Aral Sea는 비가 적어서가 아니라 강물을 다른 곳으로 돌려서 말랐고(diverted), 모래 폭풍은 바다가 마른 ‘결과’이며, 두 강은 이제 바다로 흐르지 않고, 구름은 증발한 수증기로 만들어진다(evaporates into vapor and forms clouds)."
     },
     {
      "type": "multiple_choice",
-     "prompt": "Complete the summary of the passage. Which words best fit (A) and (B)?\n\nWater goes up into the sky as (A) ______ and comes back down as (B) ______.",
+     "prompt": "Complete the summary of the passage. Which words best fit (A) and (B)?\n\nThe Aral Sea became dry. This (A) ______ the animals that lived there and (B) ______ dust storms.",
      "choices": [
-      "(A) rain …… (B) vapor",
-      "(A) snow …… (B) clouds",
-      "(A) vapor …… (B) rain",
-      "(A) vapor …… (B) snow",
-      "(A) clouds …… (B) salt"
+      "(A) helped …… (B) stopped",
+      "(A) killed …… (B) stopped",
+      "(A) killed …… (B) caused",
+      "(A) helped …… (B) caused",
+      "(A) moved …… (B) caused"
      ],
      "answer": 3,
-     "explanation": "[난이도 5·어려움 / 요약문 완성] (A) Water on the ground evaporates into vapor — 물은 ‘수증기(vapor)’가 되어 올라간다. (B) rain brings water back down to the ground — ‘비(rain)’가 되어 내려온다. 눈(snow)은 지문에 없다."
+     "explanation": "[난이도 5·어려움 / 요약문 완성] the sea is now almost completely dry, killing the wildlife that lived there and causing dust storms — 바다가 마르면서 그곳의 동물들이 ‘죽었고(killed)’ 모래 폭풍이 ‘생겼다(caused)’. 동물을 돕거나 옮겼다는 내용, 모래 폭풍을 막았다는 내용은 없다."
     },
     {
      "type": "multiple_choice",
-     "prompt": "Complete the summary of the passage. Which words best fit (A) and (B)?\n\nThe water cycle is very (A) ______ for life on Earth, so we must (B) ______ our water sources.",
+     "prompt": "Complete the summary of the passage. Which words best fit (A) and (B)?\n\nEvaporation keeps Earth from getting too (A) ______. The right amount of salt in the oceans helps the plants and fish in the sea (B) ______.",
      "choices": [
-      "(A) important …… (B) sell",
-      "(A) dangerous …… (B) protect",
-      "(A) dangerous …… (B) forget",
-      "(A) important …… (B) protect",
-      "(A) small …… (B) use"
+      "(A) cold …… (B) live",
+      "(A) hot …… (B) die",
+      "(A) cold …… (B) die",
+      "(A) hot …… (B) live",
+      "(A) dry …… (B) move"
      ],
      "answer": 4,
-     "explanation": "[난이도 5·어려움 / 요약문 완성] (A) The water cycle is necessary for life on Earth — 생명에 꼭 필요하므로 ‘중요하다(important)’. (B) protect our water sources — 물의 근원을 ‘보호해야(protect)’ 한다. 물의 순환이 위험하다거나 물의 근원을 팔거나 잊는다는 내용은 없다."
+     "explanation": "[난이도 5·어려움 / 요약문 완성] (A) This cools the temperature of Earth’s climate — 증발이 기후를 ‘식히므로’ 지구가 너무 ‘더워지지(hot)’ 않게 막는다. 지문의 cools만 보고 cold를 고르면 뜻이 반대가 된다. (B) maintains a delicate ecosystem of plants, fish, and other wildlife — 알맞은 소금 양 덕분에 바다 생물이 ‘살(live)’ 수 있다."
     }
    ]
   },
@@ -310,7 +310,7 @@
     {
      "type": "passage",
      "title": "[1–10] Read the passage and answer the questions.",
-     "text": "In the 1980s, people who protested the increasing trend of fast food started a “slow food” movement. The movement aimed to preserve local foods, recipes, and communities, while (a) ______ fast, commercialized foods. This inspired the “slow city movement.”\n\nThe first Slow City was Chianti, Italy. The people there wanted to keep nature in good shape and protect historic buildings. They came up with a plan for developing their town just the way they wanted. They called this plan cittaslow. The term comes from the words “slow” and “citta,” which means “town” or “city” in Italian. The founders of this plan decided that new developments should keep people healthy and promote good relationships among neighbors. They also thought development should not (b) ______ the natural environment.\n\nSince 1999, dozens of cities around the world have been named Slow Cities. They have a lot of green places where people can exercise and enjoy nature. Slow Cities do not have many fast-food restaurants or big supermarkets. Instead, they have locally owned restaurants and small markets. Try visiting a Slow City someday to see if you like it!",
+     "text": "In the 1980s, people who protested the increasing trend of fast food started a “slow food” movement. The movement aimed to preserve local foods, recipes, and communities, while (a) ______ fast, commercialized foods. This inspired the “slow city movement.”\n\nThe first Slow City was Chianti, Italy. The people there wanted to keep nature in good shape and protect historic buildings. They came up with a plan for developing their town just the way they wanted. ⟪They⟫ called this plan cittaslow. The term comes from the words “slow” and “citta,” which means “town” or “city” in Italian. The founders of this plan decided that new developments should keep people healthy and promote good relationships among neighbors. They also thought development should not (b) ______ the natural environment.\n\nSince 1999, dozens of cities around the world have been named Slow Cities. They have a lot of green places where people can exercise and enjoy nature. Slow Cities do not have many fast-food restaurants or big supermarkets. Instead, they have locally owned restaurants and small markets. Try visiting a Slow City someday to see if you like it!",
      "note": "Words: protest = say no to something · trend = what many people do · preserve = keep · commercialized = made to make money · inspire = give an idea · historic = old and important · come up with = think of · term = a word · founder = a person who starts something · promote = help something grow · dozens of = many · exercise = move your body to stay healthy · locally owned = owned by people in the town"
     },
     {
@@ -331,7 +331,7 @@
      "prompt": "According to the passage, what does “citta” mean in Italian?",
      "choices": [
       "slow",
-      "town or city",
+      "town",
       "food",
       "nature",
       "plan"
@@ -369,10 +369,10 @@
      "type": "multiple_choice",
      "prompt": "What is paragraph 2 mainly about?",
      "choices": [
-      "the history of fast food",
-      "the foods of Chianti",
-      "the first Slow City and its plan, cittaslow",
-      "famous buildings in Italy",
+      "the history of fast food in Italy",
+      "the local foods of Chianti",
+      "the first Slow City and its plan",
+      "famous old buildings in Italy",
       "how to visit a Slow City"
      ],
      "answer": 3,
@@ -380,68 +380,68 @@
     },
     {
      "type": "multiple_choice",
-     "prompt": "What is the best title for the passage?",
+     "prompt": "What does the underlined word ⟪They⟫ refer to?",
      "choices": [
-      "How to Cook Slow Food",
-      "The Best Restaurants in Italy",
-      "Why Fast Food Is Popular",
-      "The History of Chianti",
-      "Slow Cities: Towns That Choose a Slow Life"
+      "people who love fast food",
+      "the owners of big supermarkets",
+      "visitors to Italy",
+      "the people who started the slow food movement",
+      "the people of Chianti"
      ],
      "answer": 5,
-     "explanation": "[난이도 3·보통 / 제목] 슬로푸드 운동에서 시작된 슬로시티 운동과 오늘날 슬로시티의 모습을 설명하는 글이다. 요리법, 식당 추천, 패스트푸드의 인기, Chianti의 역사는 글의 내용이 아니다."
+     "explanation": "[난이도 3·보통 / 지칭 추론] 2문단의 They는 앞 문장들의 주어 The people there(= Chianti 사람들)를 가리킨다. 그들이 마을 개발 계획을 세우고 cittaslow라고 불렀다. 슬로푸드 운동을 시작한 사람들(1문단), 패스트푸드를 좋아하는 사람들, 대형 마트 주인, 관광객은 2문단에 나오지 않는다."
     },
     {
      "type": "multiple_choice",
      "prompt": "Which is true according to the passage?",
      "choices": [
       "Slow Cities have many big supermarkets.",
-      "Slow Cities have many green places for people to enjoy nature.",
+      "People in Slow Cities can exercise outdoors in nature.",
       "The slow city movement started before the slow food movement.",
       "People in Chianti wanted to build many new fast-food restaurants.",
-      "Only ten cities have become Slow Cities."
+      "Two cities have been named Slow Cities since 1999."
      ],
      "answer": 2,
-     "explanation": "[난이도 4·다소 어려움 / 내용 일치] They have a lot of green places where people can exercise and enjoy nature. 슬로시티에는 대형 마트가 많지 않고, 슬로푸드 운동이 먼저였으며(This inspired …), Chianti 사람들은 자연과 역사적 건물을 지키려 했고, 수십 개(dozens of) 도시가 지정되었다."
+     "explanation": "[난이도 4·다소 어려움 / 내용 일치] They have a lot of green places where people can exercise and enjoy nature. 슬로시티에는 대형 마트가 많지 않고, 슬로푸드 운동이 먼저였으며(This inspired …), Chianti 사람들은 자연과 역사적 건물을 지키려 했고, ‘수십 개(dozens of)’ 도시가 지정되었다."
     },
     {
      "type": "multiple_choice",
      "prompt": "Which is *NOT* true according to the passage?",
      "choices": [
-      "People in Chianti wanted to protect historic buildings.",
+      "People in Chianti wanted to keep nature in good shape.",
       "Cittaslow was a plan for developing the town.",
       "Slow Cities have locally owned restaurants.",
-      "New developments in Slow Cities should make people less healthy.",
+      "New developments in Chianti did not need to keep people healthy.",
       "The slow food movement wanted to keep local foods and recipes."
      ],
      "answer": 4,
-     "explanation": "[난이도 4·다소 어려움 / 내용 불일치] new developments should keep people healthy — 새 개발은 사람을 ‘건강하게’ 해야 한다. 나머지는 protect historic buildings / a plan for developing their town / locally owned restaurants / preserve local foods, recipes 와 일치한다."
+     "explanation": "[난이도 4·다소 어려움 / 내용 불일치] new developments should keep people healthy — 새 개발은 사람을 건강하게 ‘해야 한다’고 했으므로, 건강을 지킬 필요가 없었다는 것은 틀리다. 나머지는 keep nature in good shape / a plan for developing their town / locally owned restaurants / preserve local foods, recipes 와 일치한다."
     },
     {
      "type": "multiple_choice",
-     "prompt": "Which idea would the writer most likely agree with?",
+     "prompt": "Which place would you most likely find in a Slow City?",
      "choices": [
-      "Life in a town can be good without fast food and big supermarkets.",
-      "Every town should have more fast-food restaurants.",
-      "Old buildings should be replaced by big supermarkets.",
-      "Towns should grow as fast as possible.",
-      "People should not visit Slow Cities."
+      "a small market owned by a family in the town",
+      "a street with many fast-food restaurants",
+      "a very big supermarket",
+      "a factory that makes the river dirty",
+      "a new road built over a green park"
      ],
      "answer": 1,
-     "explanation": "[난이도 5·어려움 / 글쓴이의 주장] 글쓴이는 패스트푸드점과 대형 마트 대신 지역 식당과 작은 시장이 있는 슬로시티를 긍정적으로 소개하고 방문까지 권한다(Try visiting a Slow City someday). 나머지는 모두 글의 취지와 반대이다."
+     "explanation": "[난이도 5·어려움 / 추론·적용] 슬로시티에는 패스트푸드점과 대형 마트가 많지 않고, 대신 지역 주민이 소유한 식당과 작은 시장(locally owned restaurants and small markets)이 있다. 강을 더럽히는 공장은 ‘개발은 자연환경을 해치지 않아야 한다’는 원칙에, 녹지 위의 새 도로는 ‘녹지가 많고 자연을 좋은 상태로 지킨다’는 내용에 어긋난다."
     },
     {
      "type": "multiple_choice",
      "prompt": "What can we learn from the passage?",
      "choices": [
-      "Slow Cities are found only in Italy.",
-      "The idea of Slow Cities spread to many countries.",
-      "The slow city movement started in the 1950s.",
-      "Slow Cities do not allow any restaurants.",
-      "Chianti is the only Slow City in the world."
+      "Slow Cities have more fast-food restaurants than other cities.",
+      "There are Slow Cities in many countries now.",
+      "People in Slow Cities cannot buy food in their own town.",
+      "Slow Cities have no plan for new developments.",
+      "Slow Cities do not care about nature."
      ],
      "answer": 2,
-     "explanation": "[난이도 5·어려움 / 추론] Since 1999, dozens of cities around the world have been named Slow Cities — 슬로시티가 세계 여러 나라로 퍼졌음을 알 수 있다. 이탈리아에만 있거나 Chianti 하나뿐이라는 것은 이와 반대이고, 슬로시티에는 지역 식당이 있으며, 슬로시티 운동은 1980년대 슬로푸드 운동 뒤에 생겼다."
+     "explanation": "[난이도 5·어려움 / 추론] Since 1999, dozens of cities around the world have been named Slow Cities — 슬로시티가 세계 여러 나라에 있음을 알 수 있다. 슬로시티에는 패스트푸드점이 많지 않고, 작은 시장과 지역 식당이 있으며, cittaslow라는 개발 계획이 있고, 자연을 좋은 상태로 지키며 녹지가 많다."
     }
    ]
   },
@@ -452,7 +452,7 @@
      "type": "passage",
      "title": "[1–10] Read the passage and answer the questions.",
      "text": "Before modern chemistry, ⟪ancient⟫ people tried to understand the makeup of the world. The ancient Greek philosopher Empedocles theorized that four elements made up every substance known to man. These elements were water, fire, earth, and air.\n\nWhat observations did Empedocles make about these elements? First, he noted that pots were made with earth and water. After being mixed and shaped, they were burned with fire and cooled with air. All four elements were necessary to (a) ______. The same pot was used for cooking plants from the earth, often mixed with water, over a flame. The air cooled down the food so it could be eaten. Thus, all four elements were necessary to prepare a meal. Empedocles also believed that these elements were indestructible and unchangeable. His theories inspired later scientists to study more about the elements that make up our world.\n\nThink about your life and all of your ⟪belongings⟫. How are the four elements involved in things you own, such as your computer, your clothes, and the food you eat? Thinking about everyday objects on a small scale can help us (b) ______.",
-     "note": "Words: chemistry = the science of what things are made of · makeup = what something is made of · philosopher = a person who thinks about big questions · theorize / theory = an idea about how something works · element = a basic thing that makes up everything · substance = a thing, a material · observation = what you see · flame = fire · prepare = make ready · indestructible = cannot be broken · unchangeable = cannot be changed · involved in = a part of · on a small scale = by looking at small things"
+     "note": "Words: chemistry = the science of what things are made of · makeup = what something is made of · philosopher = a person who thinks about big questions · theorize / theory = an idea about how something works · element = a basic thing that makes up everything · substance = a thing, a material · known to man = that people know about · observation = what you see · note = see, notice · flame = fire · thus = so · necessary = needed · prepare = make ready · inspire = give someone new ideas · involved in = a part of · everyday objects = things we use every day · on a small scale = by looking at small things"
     },
     {
      "type": "multiple_choice",
@@ -469,16 +469,16 @@
     },
     {
      "type": "multiple_choice",
-     "prompt": "According to the passage, what were pots made with?",
+     "prompt": "According to the passage, who did Empedocles’s theories inspire?",
      "choices": [
-      "fire and air",
-      "wood and water",
-      "earth and water",
-      "earth and fire",
-      "water and air"
+      "Roman kings",
+      "young children",
+      "later scientists",
+      "farmers",
+      "cooks"
      ],
      "answer": 3,
-     "explanation": "[난이도 1·매우 쉬움 / 세부 사실] he noted that pots were made with earth and water."
+     "explanation": "[난이도 1·매우 쉬움 / 세부 사실] His theories inspired later scientists to study more about the elements that make up our world."
     },
     {
      "type": "multiple_choice",
@@ -510,14 +510,14 @@
      "type": "multiple_choice",
      "prompt": "Complete the table about the passage. Which words best fit (A) and (B)?",
      "choices": [
-      "(A) air …… (B) fire",
+      "(A) air …… (B) earth",
       "(A) fire …… (B) water",
-      "(A) water …… (B) air",
-      "(A) fire …… (B) air",
-      "(A) earth …… (B) fire"
+      "(A) earth …… (B) air",
+      "(A) water …… (B) fire",
+      "(A) water …… (B) earth"
      ],
      "answer": 4,
-     "explanation": "[난이도 3·보통 / 도표 완성] The same pot was used for cooking plants … over a flame — 불꽃(flame) 위에서 요리하므로 (A)는 fire. The air cooled down the food — 음식을 식힌 것은 (B) air.",
+     "explanation": "[난이도 3·보통 / 도표 완성] cooking plants from the earth, often mixed with water, over a flame — 식물은 ‘물(water)’과 섞고, ‘불꽃(flame)’ 위에서 요리하므로 (A) water, (B) fire. flame을 fire로 바꿔 읽어야 한다.",
      "table": [
       [
        "*Element*",
@@ -528,54 +528,54 @@
        "Plants come from it."
       ],
       [
-       "water",
+       "(A) ______",
        "The plants are mixed with it."
       ],
       [
-       "(A) ______",
+       "(B) ______",
        "The plants are cooked over it."
       ],
       [
-       "(B) ______",
+       "air",
        "It cools down the food."
       ]
      ]
     },
     {
      "type": "multiple_choice",
-     "prompt": "Complete the summary of the passage. Which words best fit (A) and (B)?\n\nEmpedocles believed that everything was made of (A) ______ elements and that these elements could not be (B) ______.",
+     "prompt": "Complete the summary of the passage. Which words best fit (A) and (B)?\n\nEmpedocles saw that making a pot needs all (A) ______ elements, and he believed that the elements could not be (B) ______.",
      "choices": [
-      "(A) two …… (B) broken",
+      "(A) two …… (B) changed",
       "(A) four …… (B) cooked",
-      "(A) four …… (B) broken",
+      "(A) four …… (B) changed",
       "(A) five …… (B) seen",
       "(A) two …… (B) seen"
      ],
      "answer": 3,
-     "explanation": "[난이도 3·보통 / 요약문 완성] (A) four elements made up every substance — 네(four) 원소. (B) these elements were indestructible and unchangeable — 부서지거나(broken) 변하지 않는다."
+     "explanation": "[난이도 3·보통 / 요약문 완성] (A) All four elements were necessary to make one pot — 네(four) 원소가 모두 필요했다. (B) these elements were indestructible and unchangeable — 변할(changed) 수 없다. un-(아닌) + change(변하다) + -able(할 수 있는)."
     },
     {
      "type": "multiple_choice",
      "prompt": "What is paragraph 2 mainly about?",
      "choices": [
-      "how to make a pot at home",
-      "why fire is dangerous",
-      "how Empedocles saw the four elements in making pots and meals",
-      "the history of Greek cooking",
-      "how scientists study elements today"
+      "how to make a strong pot at home",
+      "why fire is dangerous when we cook",
+      "the four elements in making pots and meals",
+      "the long history of cooking in Greece",
+      "how people lived in ancient Greece"
      ],
      "answer": 3,
-     "explanation": "[난이도 4·다소 어려움 / 문단 주제] 2문단은 Empedocles가 그릇 만들기와 요리에서 네 원소를 모두 관찰했다는 내용이다. 그릇 만드는 법 자체나 불의 위험, 그리스 요리의 역사, 오늘날 과학자의 연구는 다루지 않는다."
+     "explanation": "[난이도 4·다소 어려움 / 문단 주제] 2문단은 Empedocles가 그릇 만들기와 요리에서 네 원소를 모두 관찰했다는 내용이다. 그릇 만드는 법 자체, 불의 위험, 그리스 요리의 역사, 고대 그리스 사람들의 생활은 다루지 않는다."
     },
     {
      "type": "multiple_choice",
      "prompt": "What is the last paragraph mainly about?",
      "choices": [
-      "thinking about the four elements in the things we own",
-      "buying new computers and clothes",
-      "cooking food over a flame",
-      "the life of Empedocles",
-      "how to become a philosopher"
+      "the four elements in the things we own",
+      "buying new computers and new clothes",
+      "cooking plants and food over a flame",
+      "the long life of the philosopher Empedocles",
+      "how to become a Greek philosopher"
      ],
      "answer": 1,
      "explanation": "[난이도 4·다소 어려움 / 문단 주제] 마지막 문단은 우리 물건(컴퓨터, 옷, 음식)에 네 원소가 어떻게 들어 있는지 생각해 보라고 권하는 내용이다."
@@ -584,27 +584,27 @@
      "type": "multiple_choice",
      "prompt": "Which best fits in blank (a)?",
      "choices": [
-      "paint a picture",
-      "build a house",
-      "start a fire",
-      "grow plants",
+      "mix earth and water",
+      "write a letter",
+      "catch a fish",
+      "buy a horse",
       "make one pot"
      ],
      "answer": 5,
-     "explanation": "[난이도 5·어려움 / 빈칸 추론] 빈칸 앞에서 그릇은 흙과 물로 만들어 불에 굽고 공기로 식힌다고 했으므로, 네 원소가 모두 필요한 것은 ‘그릇 하나를 만드는(make one pot)’ 일이다. 그림, 집, 불 피우기, 식물 기르기는 앞 내용과 이어지지 않는다."
+     "explanation": "[난이도 5·어려움 / 빈칸 추론] 빈칸 앞에서 그릇은 흙과 물로 만들어 불에 굽고 공기로 식힌다고 했으므로, 네 원소가 모두 필요한 것은 ‘그릇 하나를 만드는(make one pot)’ 일이다. 흙과 물을 섞는 것은 두 원소만 쓰므로 ‘네 원소가 모두 필요하다’는 말과 맞지 않고, 편지·물고기·말은 앞 내용과 이어지지 않는다."
     },
     {
      "type": "multiple_choice",
      "prompt": "Which best fits in blank (b)?",
      "choices": [
-      "buy more things",
-      "cook better food",
-      "become a philosopher",
+      "buy more things for our home",
+      "cook better food every day",
+      "become a famous philosopher",
       "understand the world around us",
-      "forget the four elements"
+      "learn more about ancient Greece"
      ],
      "answer": 4,
-     "explanation": "[난이도 5·어려움 / 빈칸 추론] 1문단에서 옛사람들이 ‘세상의 구성(makeup of the world)’을 이해하려 했다고 했고, 마지막 문단은 우리 물건 속 원소를 생각해 보라고 한다. 작은 것을 생각하는 일은 ‘우리 주변의 세상을 이해하는’ 데 도움이 된다는 결론이다."
+     "explanation": "[난이도 5·어려움 / 빈칸 추론] 1문단에서 옛사람들이 ‘세상의 구성(makeup of the world)’을 이해하려 했다고 했고, 마지막 문단은 우리 물건 속 원소를 생각해 보라고 한다. 작은 것을 생각하는 일은 ‘우리 주변의 세상을 이해하는’ 데 도움이 된다는 결론이다. 물건 사기, 요리, 철학자 되기, 고대 그리스 공부는 마지막 문단의 흐름과 관계가 없다."
     }
    ]
   },
@@ -645,39 +645,39 @@
     },
     {
      "type": "multiple_choice",
-     "prompt": "According to the passage, what was the president’s nickname?",
+     "prompt": "According to the passage, where did people hear about the story of Roosevelt and the bear?",
      "choices": [
-      "Theo",
-      "Roosy",
-      "Teddy",
-      "Pooh",
-      "Paddington"
+      "only in England",
+      "in Japan and South Korea",
+      "all over America",
+      "in a teddy bear museum",
+      "in a movie"
      ],
      "answer": 3,
-     "explanation": "[난이도 2·쉬움 / 세부 사실] in honor of the president’s nickname, Teddy. Pooh와 Paddington은 책에 나오는 곰의 이름이다."
+     "explanation": "[난이도 2·쉬움 / 세부 사실] All over America, people heard about this story. 영국·일본·한국은 박물관이 있는 나라이고, 박물관과 영화는 2문단의 다른 내용이다."
     },
     {
      "type": "multiple_choice",
-     "prompt": "According to the passage, which countries have teddy bear museums?",
+     "prompt": "According to the passage, what was Roosevelt doing when he saw the bear?",
      "choices": [
-      "England, Japan, and South Korea",
-      "England, France, and China",
-      "Japan, China, and India",
-      "the United States, Canada, and Mexico",
-      "South Korea, Spain, and Italy"
+      "He was on a hunting trip.",
+      "He was visiting a museum.",
+      "He was reading a book.",
+      "He was making a toy.",
+      "He was watching a movie."
      ],
      "answer": 1,
-     "explanation": "[난이도 2·쉬움 / 세부 사실] England, Japan, and South Korea are just a few countries that have teddy bear museums."
+     "explanation": "[난이도 2·쉬움 / 세부 사실] During a hunting trip, Roosevelt refused to kill a bear that had been tied to a tree. — 사냥 여행 중이었다. 박물관·책·영화는 2문단에 다른 맥락으로 나온다."
     },
     {
      "type": "multiple_choice",
      "prompt": "What does the underlined word ⟪them⟫ refer to?",
      "choices": [
       "the people who heard the story",
-      "the stuffed bears that some people made",
+      "the toy bears that people made",
       "the bears living in the forest",
-      "the president and his friends",
-      "the children who played with toys"
+      "the hunters on the trip",
+      "the bear tied to the tree"
      ],
      "answer": 2,
      "explanation": "[난이도 3·보통 / 지칭 추론] Some people even made stuffed bears and called them “teddy bears” — 사람들이 만든 ‘곰 인형들’을 teddy bears라고 불렀다."
@@ -706,8 +706,8 @@
       "(C) – (A) – (B)"
      ],
      "answer": 1,
-     "explanation": "[난이도 4·다소 어려움 / 사건 순서 배열] Roosevelt가 나무에 묶인 곰을 죽이지 않음(B) → 미국 전역의 사람들이 그 이야기를 들음(A) → 사람들이 곰 인형을 만들어 teddy bear라고 부름(C). 1문단의 순서 그대로이다.",
-     "box": "(A) People all over America heard about the story. \\\n(B) Roosevelt refused to kill a bear tied to a tree. \\\n(C) Some people made stuffed bears and called them “teddy bears.”"
+     "explanation": "[난이도 4·다소 어려움 / 사건 순서 배열] Roosevelt가 나무에 묶인 곰을 봄(B) → 많은 사람들이 그 이야기를 들음(A) → 새 곰 인형이 teddy bear라는 이름을 얻음(C). 1문단의 순서 그대로이다.",
+     "box": "(A) Many people heard the story about Roosevelt and the bear. \\\n(B) Roosevelt saw a bear that was tied to a tree. \\\n(C) The new toy bears got the name “teddy bears.”"
     },
     {
      "type": "multiple_choice",
@@ -715,9 +715,9 @@
      "choices": [
       "Teddy bears were mainly toys for children.",
       "Winnie the Pooh was first written for adults.",
-      "Teddy bears have been featured in books and movies.",
+      "Teddy bears have appeared in both books and movies.",
       "Teddy bears bring children comfort.",
-      "Teddy bears come in only one size and color."
+      "Teddy bears were made in just one size and one color."
      ],
      "answer": 5,
      "explanation": "[난이도 4·다소 어려움 / 내용 불일치] teddy bears were manufactured in a wide range of sizes, colors, and materials — 크기와 색깔이 다양하다. 나머지는 mainly toys for children / originally written for adults / featured in books and even in movies / They bring children comfort 와 일치한다."
@@ -726,27 +726,27 @@
      "type": "multiple_choice",
      "prompt": "What can we learn from the passage?",
      "choices": [
-      "Roosevelt sold teddy bears to make money.",
-      "The story about Roosevelt and the bear made teddy bears popular.",
-      "Teddy bears were first made in Japan.",
-      "Children do not like teddy bears anymore.",
-      "Teddy bears were named after a famous writer."
+      "Teddy bears were popular only in the twentieth century.",
+      "Teddy bears have been popular for a long time.",
+      "Teddy bears are now found only in museums.",
+      "Teddy bears were first made for movies.",
+      "The teddy bear got its name from a famous writer."
      ],
      "answer": 2,
-     "explanation": "[난이도 5·어려움 / 추론] 사람들이 그 이야기를 듣고 곰 인형을 만들어 대통령의 별명을 붙였고, 이후 대량 생산되었다. 따라서 그 이야기가 곰 인형의 인기를 만들었음을 알 수 있다. Roosevelt가 인형을 팔았다는 내용은 없고, 인형은 미국에서 시작되었으며, 오늘날에도 인기가 있고, 이름은 대통령에게서 왔다."
+     "explanation": "[난이도 5·어려움 / 추론] mass-produced in the twentieth century … have endured such lasting popularity … remain popular … will probably be around for a long time to come — 20세기부터 지금까지 오래 사랑받아 왔음을 알 수 있다. 박물관뿐 아니라 장난감·책으로도 남아 있고, 영화는 인기의 결과이며, 이름은 대통령의 별명에서 왔다."
     },
     {
      "type": "multiple_choice",
      "prompt": "What can we learn from the passage?",
      "choices": [
-      "Teddy bears are made in only one country.",
+      "Teddy bears were more popular in books than as toys.",
       "Only American children play with teddy bears.",
       "People in many countries love teddy bears.",
-      "Teddy bears are not sold anymore.",
+      "Teddy bears are made only for adults.",
       "Teddy bear museums are found only in England."
      ],
      "answer": 3,
-     "explanation": "[난이도 5·어려움 / 추론] museums dedicated to teddy bears all around the world. England, Japan, and South Korea … — 세계 여러 나라에 곰 인형 박물관이 있으므로 여러 나라 사람들이 곰 인형을 사랑함을 알 수 있다. 나머지는 이와 반대이거나 글에 근거가 없다."
+     "explanation": "[난이도 5·어려움 / 추론] museums dedicated to teddy bears all around the world. England, Japan, and South Korea … — 세계 여러 나라에 곰 인형 박물관이 있으므로 여러 나라 사람들이 곰 인형을 사랑함을 알 수 있다. 곰 인형은 ‘주로 아이들의 장난감(mainly toys for children)’이었고, 박물관은 영국·일본·한국 등 여러 나라에 있다."
     }
    ]
   },
@@ -757,7 +757,7 @@
      "type": "passage",
      "title": "[1–10] Read the passage and answer the questions.",
      "text": "Molecules are always moving. Sometimes, molecules even move through membranes. Molecules tend to pass through semi-permeable membranes to an area where the solvent concentration is higher. This equalizes the concentration of materials on either side of the membrane. This process is called osmosis. Osmosis is an important chemical process with ⟪practical⟫ uses in everyday life. What is one use of osmosis?\n\nFresh vegetables have a high concentration of water molecules. During pickling, vegetables are placed in a brine—a mixture of water, salt, and seasonings. The skin acts as a semi-permeable membrane. Water molecules move out of the vegetables through the skin and into the brine, which equalizes the solvent concentration on either side of the membrane. This process is an example of osmosis, and it is why pickled vegetables stay crunchy.\n\nReverse osmosis is a process that uses pressure to ⟪force⟫ molecules into an area of lower solute concentration. We use reverse osmosis to remove salt and other particles from seawater. Afterward, we can drink the water!\n\nChemical processes like osmosis have a big effect on our everyday lives. For this reason, learning about how they work is important for our understanding of the world.",
-     "note": "Words: molecule = a very small part of a thing · tend to = usually · membrane = a thin skin · semi-permeable membrane = a skin that lets only some things pass · solvent = the liquid (here, water) · solute = the thing in the liquid (here, salt) · concentration = how much of something is in a liquid · equalize = make equal · on either side of = on both sides of · pickling = making pickles · seasonings = things you add to food for taste · crunchy = hard, not soft · pressure = a strong push · remove = take out · particle = a very small piece · effect = a change that something makes"
+     "note": "Words: molecule = a very small part of a thing · tend to = usually · membrane = a thin skin · semi-permeable membrane = a skin that lets only some things pass · solvent = the liquid (here, water) · solute = the thing in the liquid (here, salt) · concentration = how much of something is in a liquid · equalize = make equal · on either side of = on both sides of · process = the way something happens, step by step · chemical = about how things mix and change · pickling = making pickles · seasonings = things you add to food for taste · crunchy = hard, not soft · reverse = the other way around · pressure = pressing hard on something · particle = a very small piece · effect = a change that something makes"
     },
     {
      "type": "multiple_choice",
@@ -793,7 +793,7 @@
       "the brine",
       "the water",
       "the seasonings",
-      "the skin of the vegetables"
+      "the skin"
      ],
      "answer": 5,
      "explanation": "[난이도 2·쉬움 / 세부 사실] The skin acts as a semi-permeable membrane."
@@ -805,11 +805,11 @@
       "to make pickles",
       "to grow vegetables",
       "to cool down food",
-      "to take salt out of seawater",
+      "to make clean water from seawater",
       "to warm up seawater"
      ],
      "answer": 4,
-     "explanation": "[난이도 2·쉬움 / 세부 사실] We use reverse osmosis to remove salt and other particles from seawater."
+     "explanation": "[난이도 2·쉬움 / 세부 사실] We use reverse osmosis to remove salt and other particles from seawater. Afterward, we can drink the water! — 바닷물에서 소금과 입자를 없애 마실 수 있는 깨끗한 물을 만든다."
     },
     {
      "type": "multiple_choice",
@@ -826,68 +826,68 @@
     },
     {
      "type": "multiple_choice",
-     "prompt": "Why does the writer mention seawater?",
+     "prompt": "Why does the writer ask, “What is one use of osmosis?”",
      "choices": [
-      "to explain how fish live in salty water",
-      "to show how pickles are made",
-      "to give an example of how reverse osmosis is used",
-      "to explain where salt comes from",
-      "to show that molecules stop moving in the sea"
+      "to say that osmosis has no uses",
+      "to ask the reader to do an experiment",
+      "to show that an example comes next",
+      "to explain what a molecule is",
+      "to show that the writer does not know the answer"
      ],
      "answer": 3,
-     "explanation": "[난이도 3·보통 / 언급 이유] We use reverse osmosis to remove salt … from seawater. Afterward, we can drink the water! — 역삼투가 쓰이는 예로 바닷물을 든 것이다."
+     "explanation": "[난이도 3·보통 / 언급 이유] 1문단 끝의 질문 What is one use of osmosis? 바로 뒤 2문단에서 그 쓰임의 예를 들어 답한다. 즉 다음에 나올 예를 끌어내기 위한 질문이다."
     },
     {
      "type": "multiple_choice",
      "prompt": "Which is *NOT* true according to the passage?",
      "choices": [
       "Molecules sometimes move through membranes.",
-      "Osmosis has uses in everyday life.",
+      "Water molecules can pass through the skin of a vegetable.",
       "Pickles are made in a brine.",
-      "Reverse osmosis makes seawater saltier.",
+      "Fresh vegetables have very little water in them.",
       "Learning about chemical processes helps us understand the world."
      ],
      "answer": 4,
-     "explanation": "[난이도 4·다소 어려움 / 내용 불일치] reverse osmosis to remove salt … from seawater — 역삼투는 소금을 ‘없앤다’. 나머지는 molecules even move through membranes / practical uses in everyday life / placed in a brine / important for our understanding of the world 와 일치한다."
+     "explanation": "[난이도 4·다소 어려움 / 내용 불일치] Fresh vegetables have a high concentration of water molecules — 신선한 채소에는 물 분자가 ‘많다’. 나머지는 molecules even move through membranes / move out of the vegetables through the skin / placed in a brine / important for our understanding of the world 와 일치한다."
     },
     {
      "type": "multiple_choice",
      "prompt": "Which is true according to the passage?",
      "choices": [
-      "Molecules never move through membranes.",
-      "Chemical processes have a big effect on our everyday lives.",
-      "Pickled vegetables lose their crunch in the brine.",
+      "Vegetables are placed in fresh water during pickling.",
+      "Chemical processes are important in our daily lives.",
       "Reverse osmosis is used to make pickles.",
-      "Osmosis is not used in everyday life."
+      "Seasonings are not part of a brine.",
+      "Osmosis happens only in the sea."
      ],
      "answer": 2,
-     "explanation": "[난이도 4·다소 어려움 / 내용 일치] Chemical processes like osmosis have a big effect on our everyday lives. 분자는 막을 통과하기도 하고, 피클은 아삭함을 유지하며, 피클은 삼투(역삼투가 아님)의 예이고, 삼투는 일상에서 쓰인다."
+     "explanation": "[난이도 4·다소 어려움 / 내용 일치] Chemical processes like osmosis have a big effect on our everyday lives. 피클을 만들 때 채소는 ‘소금물(brine)’에 담그고, 피클은 삼투(역삼투가 아님)의 예이며, 소금물에는 양념(seasonings)이 들어가고, 삼투는 피클 만들기처럼 일상생활에서도 일어난다."
     },
     {
      "type": "multiple_choice",
-     "prompt": "Complete the summary of the passage. Which words best fit (A) and (B)?\n\nDuring pickling, (A) ______ moves out of the vegetables and into the (B) ______.",
+     "prompt": "Complete the summary of the passage. Which words best fit (A) and (B)?\n\nIn pickling, the vegetables have (A) ______ water than the brine, so water moves (B) ______ of them.",
      "choices": [
-      "(A) water …… (B) brine",
-      "(A) salt …… (B) brine",
-      "(A) water …… (B) skin",
-      "(A) salt …… (B) skin",
-      "(A) air …… (B) brine"
+      "(A) more …… (B) out",
+      "(A) less …… (B) out",
+      "(A) more …… (B) into",
+      "(A) less …… (B) into",
+      "(A) no …… (B) into"
      ],
      "answer": 1,
-     "explanation": "[난이도 5·어려움 / 요약문 완성] Water molecules move out of the vegetables through the skin and into the brine — 채소 밖으로 나가는 것은 ‘물(water)’이고, 도착하는 곳은 ‘소금물(brine)’이다. 껍질(skin)은 물이 지나가는 막이다."
+     "explanation": "[난이도 5·어려움 / 요약문 완성] Fresh vegetables have a high concentration of water molecules — 채소에는 물이 ‘더 많다(more)’. Water molecules move out of the vegetables … into the brine — 그래서 물이 채소 ‘밖으로(out)’ 나간다. 두 문장을 이어서 읽어야 한다."
     },
     {
      "type": "multiple_choice",
-     "prompt": "Complete the summary of the passage. Which words best fit (A) and (B)?\n\nReverse osmosis uses (A) ______ to push molecules the other way, and after that we can (B) ______ the seawater.",
+     "prompt": "Complete the summary of the passage. Which words best fit (A) and (B)?\n\nIn osmosis, molecules move to the side where there is (A) ______ solvent. In reverse osmosis, molecules are made to go to the side with (B) ______ solute.",
      "choices": [
-      "(A) heat …… (B) drink",
-      "(A) pressure …… (B) sell",
-      "(A) salt …… (B) drink",
-      "(A) heat …… (B) cook",
-      "(A) pressure …… (B) drink"
+      "(A) less …… (B) more",
+      "(A) more …… (B) more",
+      "(A) less …… (B) less",
+      "(A) no …… (B) less",
+      "(A) more …… (B) less"
      ],
      "answer": 5,
-     "explanation": "[난이도 5·어려움 / 요약문 완성] (A) Reverse osmosis is a process that uses pressure to force molecules … — ‘압력(pressure)’을 이용한다. (B) Afterward, we can drink the water! — 그 뒤에 물을 ‘마실(drink)’ 수 있다. 열(heat)은 지문에 없고, 소금은 없애는 대상이다."
+     "explanation": "[난이도 5·어려움 / 요약문 완성] (A) pass through semi-permeable membranes to an area where the solvent concentration is higher — 용매(solvent)가 ‘더 많은(more)’ 쪽으로 이동한다. (B) force molecules into an area of lower solute concentration — 용질(solute)이 ‘더 적은(less)’ 쪽으로 밀어 넣는다. 단어 풀이의 solvent·solute 뜻과 higher·lower를 연결해야 한다."
     }
    ]
   },
@@ -897,8 +897,8 @@
     {
      "type": "passage",
      "title": "[1–10] Read the passage and answer the questions.",
-     "text": "People usually make tough decisions by voting for one of two or more options. The option that gets the most votes is the (a) ______. This is called majority rule. However, even if only 51% of people in a group vote for an option, they will get their choice. That means, almost half of the people in that group will not get their choice. In that case, is majority rule really fair?\n\nMost democracies (b) ______ public officials through a majority vote. In a system with two political parties, a slim margin, such as 51% to 49%, can decide an election. In a system with more than two parties, less than 50% of voters could give one political party a victory. To ensure the fairness of majority rule, certain conditions must be met. First, people should be able to vote with secret ballots. Second, each person’s vote should be weighted equally. Finally, there have to be enough voters to make a majority vote truly fair.\n\nWhen an election is won with less than 50% of the total votes, the winning party must consider the opinions of the other voters. This is because running a democracy should ensure equality for all citizens.",
-     "note": "Words: tough decision = a hard choice · vote = choose by marking a paper · option = a choice · majority = more than half · democracy = a country where people vote for their leaders · public official = a person who works for the government · political party = a group of people who try to win elections · slim margin = a very small difference · victory = a win · ensure = make sure · fairness = being fair · condition = something that must be true · be met = be followed · secret ballot = voting where no one sees your choice · be weighted equally = count the same · consider = think about · opinion = what a person thinks · citizen = a person of a country · equality = everyone being treated the same"
+     "text": "People usually make tough decisions by voting for one of two or more options. The option that gets the most votes is the (a) ______. This is called majority rule. However, even if only 51% of people in a group vote for an option, ⟪they⟫ will get their choice. That means, almost half of the people in that group will not get their choice. In that case, is majority rule really fair?\n\nMost democracies (b) ______ public officials through a majority vote. In a system with two political parties, a slim margin, such as 51% to 49%, can decide an election. In a system with more than two parties, less than 50% of voters could give one political party a victory. To ensure the fairness of majority rule, certain conditions must be met. First, people should be able to vote with secret ballots. Second, each person’s vote should be weighted equally. Finally, there have to be enough voters to make a majority vote truly fair.\n\nWhen an election is won with less than 50% of the total votes, the winning party must consider the opinions of the other voters. This is because running a democracy should ensure equality for all citizens.",
+     "note": "Words: tough decision = a hard choice · vote = choose by marking a paper · option = a choice · majority = more than half · democracy = a country where people vote for their leaders · public official = a person who works for the government · political party = a group of people who try to win elections · slim margin = a very small difference · victory = a win · ensure = make sure · condition = something that must be true · be met = be followed · secret ballot = voting where no one sees your choice · be weighted equally = count the same · consider = think about · opinion = what a person thinks · citizen = a person of a country · equality = everyone being treated the same"
     },
     {
      "type": "multiple_choice",
@@ -908,7 +908,7 @@
       "by voting",
       "by guessing",
       "by asking a teacher",
-      "by flipping a coin"
+      "by playing a game"
      ],
      "answer": 2,
      "explanation": "[난이도 1·매우 쉬움 / 세부 사실] People usually make tough decisions by voting for one of two or more options."
@@ -956,7 +956,7 @@
      "type": "multiple_choice",
      "prompt": "What is paragraph 1 mainly about?",
      "choices": [
-      "how public officials are elected",
+      "how public officials are chosen",
       "the three conditions for a fair vote",
       "why secret ballots are important",
       "what majority rule is and a problem with it",
@@ -967,36 +967,36 @@
     },
     {
      "type": "multiple_choice",
-     "prompt": "What is the best title for the passage?",
+     "prompt": "What does the underlined word ⟪they⟫ refer to?",
      "choices": [
-      "Is Majority Rule Always Fair?",
-      "How to Win an Election",
-      "The History of Democracy",
-      "Why People Hate Voting",
-      "The Life of a Public Official"
+      "the 51% of people who voted for the option",
+      "the people who did not vote",
+      "the two or more options",
+      "the public officials",
+      "the people who lost the vote"
      ],
      "answer": 1,
-     "explanation": "[난이도 3·보통 / 제목] 글 전체가 ‘다수결이 정말 공정한가(is majority rule really fair?)’를 묻고, 공정한 다수결의 조건을 설명한다. 선거에서 이기는 법, 민주주의의 역사, 투표를 싫어하는 이유, 공직자의 삶은 글의 내용이 아니다."
+     "explanation": "[난이도 3·보통 / 지칭 추론] 바로 앞의 ‘한 선택지에 투표한 51%의 사람들(51% of people in a group)’을 가리킨다. 그들은 원하는 것을 얻고, 나머지 거의 절반은 얻지 못한다고 이어진다."
     },
     {
      "type": "multiple_choice",
      "prompt": "Which is true according to the passage?",
      "choices": [
       "Every voter gets their choice under majority rule.",
-      "A party needs 100% of the votes to win.",
-      "Secret ballots are not allowed in democracies.",
-      "In a democracy, only leaders can vote.",
-      "Almost half of a group may not get their choice under majority rule."
+      "A party always needs more than half of the votes to win.",
+      "Public officials are chosen by the oldest citizens.",
+      "Majority rule is used only for small, easy decisions.",
+      "Almost half of a group may not get their choice."
      ],
      "answer": 5,
-     "explanation": "[난이도 4·다소 어려움 / 내용 일치] almost half of the people in that group will not get their choice. 51%만 얻어도 이기므로 모두가 원하는 것을 얻는 것도, 100%가 필요한 것도 아니며, 비밀 투표는 공정한 다수결의 조건이고, 사람들이 투표로 공직자를 뽑는다."
+     "explanation": "[난이도 4·다소 어려움 / 내용 일치] almost half of the people in that group will not get their choice. 51%만 얻어도 이기므로 모두가 원하는 것을 얻는 것은 아니고, 정당이 셋 이상이면 50% 미만으로도 이길 수 있으며, 공직자는 다수결 투표로 뽑고, 사람들은 ‘어려운 결정(tough decisions)’을 투표로 내린다."
     },
     {
      "type": "multiple_choice",
      "prompt": "Which is *NOT* true according to the passage?",
      "choices": [
       "Each person’s vote should be weighted equally.",
-      "Most democracies choose public officials by a majority vote.",
+      "In most democracies, public officials get their jobs through a majority vote.",
       "A majority vote is fair even when very few people vote.",
       "Running a democracy should ensure equality for all citizens.",
       "Secret ballots are one condition for a fair majority vote."
@@ -1006,29 +1006,29 @@
     },
     {
      "type": "multiple_choice",
-     "prompt": "Which idea would the writer most likely agree with?",
+     "prompt": "Which vote follows all the conditions for a fair majority vote in the passage?",
      "choices": [
-      "The losing side in a vote does not matter.",
-      "A vote with two voters is as fair as a vote with a thousand.",
-      "Leaders should know how each person voted.",
-      "A democracy should care about the people who lost the vote, too.",
-      "A party with 51% should ignore the other 49%."
+      "Only the leader of the group votes.",
+      "Everyone can see how each person votes.",
+      "Some people’s votes count two times.",
+      "Many people vote in secret, and every vote counts the same.",
+      "Only three people vote for the whole city."
      ],
      "answer": 4,
-     "explanation": "[난이도 5·어려움 / 글쓴이의 주장] the winning party must consider the opinions of the other voters … ensure equality for all citizens — 글쓴이는 이긴 쪽이 진 쪽의 의견도 고려해야 한다고 본다. 진 쪽이 중요하지 않다거나 49%를 무시해도 된다는 것은 반대이고, 투표자 수는 충분해야 하며, 비밀 투표가 조건이므로 지도자가 누가 누구를 뽑았는지 알아서는 안 된다."
+     "explanation": "[난이도 5·어려움 / 추론·적용] 공정한 다수결의 세 조건: 비밀 투표(secret ballots), 모든 표가 같은 무게(weighted equally), 충분한 투표자(enough voters). ④만 세 조건을 모두 만족한다. 지도자 혼자 투표하거나 세 명만 투표하면 투표자가 부족하고, 모두가 볼 수 있으면 비밀 투표가 아니며, 어떤 표가 두 번 계산되면 표의 무게가 같지 않다."
     },
     {
      "type": "multiple_choice",
      "prompt": "What can we learn from the passage?",
      "choices": [
-      "Majority rule is used only in countries with two parties.",
-      "Majority rule can give the victory to a party that most voters did not choose.",
-      "Elections are always decided by more than 90% of the votes.",
-      "Public officials are chosen by the president.",
-      "Secret ballots make elections unfair."
+      "In a two-party system, a party can win with 30% of the votes.",
+      "In a two-party system, the winner has more than half of the votes.",
+      "Elections in a democracy are never close.",
+      "In a two-party system, the party with 49% wins.",
+      "Public officials need no votes to win."
      ],
      "answer": 2,
-     "explanation": "[난이도 5·어려움 / 추론] In a system with more than two parties, less than 50% of voters could give one political party a victory — 유권자의 절반도 안 되는 표로 이길 수 있으므로, 대부분의 유권자가 뽑지 않은 정당이 이길 수도 있다. 다수결은 정당이 셋 이상인 체제에서도 쓰이고, 51% 대 49%로도 결정되며, 공직자는 투표로 뽑고, 비밀 투표는 공정성의 조건이다."
+     "explanation": "[난이도 5·어려움 / 추론] 두 정당 체제에서는 51% 대 49% 같은 근소한 차이로 결정되고(a slim margin … can decide), 50% 미만으로 이기는 경우는 ‘정당이 셋 이상인 체제’에서만 말했으므로, 두 정당 체제의 승자는 절반이 넘는 표를 얻는다고 추론할 수 있다. 선거는 근소한 차이로 결정될 수 있고(never close ✗), 49%는 지며, 공직자는 다수결 투표로 뽑는다."
     }
    ]
   },
@@ -1039,7 +1039,7 @@
      "type": "passage",
      "title": "[1–10] Read the passage and answer the questions.",
      "text": "Throughout history, humans have looked at the stars as a map, as a guide, and for worship. The invention of the telescope has helped humans (a) ______. How have telescopes changed over time?\n\nTelescopes were ⟪originally⟫ used to see long distances. Galileo was one of the first to use a telescope to observe the stars. His telescope used a concave eyepiece and a convex lens. This gave the image seen through the telescope an upright view and magnified it up to thirty times! Even though Galileo’s telescope was quite useful at the time, the images it produced were blurry. Kepler ⟪improved⟫ on Galileo’s design by using a convex eyepiece and lens. This gave a much wider field of view, even though the images appeared upside-down.\n\nIn modern times, telescopes have been launched into space to help astronomers observe (b) ______. One example is the Hubble Telescope, which orbits Earth and sends back high-quality pictures of distant planets and galaxies. Through continued technological developments, humans can understand the universe much better.",
-     "note": "Words: worship = praying to a god · invention = making something new for the first time · observe = watch carefully · astronomer = a person who studies the stars · concave = curved in · convex = curved out · eyepiece = the part you look into · upright = with the top at the top (not upside-down) · magnify = make bigger · blurry = not clear · field of view = how much you can see · upside-down = the top at the bottom · launch = send into space · orbit = go around · distant = far away · galaxy = a very large group of stars · continued = going on · technological development = new technology"
+     "note": "Words: worship = praying to a god · invention = making something new for the first time · observe = watch carefully · concave = curved in · convex = curved out · eyepiece = the part you look into · upright = with the top at the top (not upside-down) · magnify = make bigger · blurry = not clear · field of view = how much you can see · upside-down = the top at the bottom · launch = send into space · orbit = go around · distant = far away · galaxy = a very large group of stars · universe = everything in space · continued = going on · technological development = new technology"
     },
     {
      "type": "multiple_choice",
@@ -1060,9 +1060,9 @@
      "choices": [
       "rocks from the Moon",
       "maps of the oceans",
-      "weather reports",
-      "radio songs",
-      "pictures of distant planets and galaxies"
+      "reports about Earth’s weather",
+      "songs from the radio",
+      "pictures of planets and galaxies"
      ],
      "answer": 5,
      "explanation": "[난이도 1·매우 쉬움 / 세부 사실] the Hubble Telescope, which orbits Earth and sends back high-quality pictures of distant planets and galaxies."
@@ -1101,10 +1101,10 @@
       "(A) map …… (B) small animals",
       "(A) friend …… (B) long distances",
       "(A) friend …… (B) the bottom of the sea",
-      "(A) toy …… (B) small animals"
+      "(A) clock …… (B) small animals"
      ],
      "answer": 1,
-     "explanation": "[난이도 3·보통 / 도표 완성] (A) humans have looked at the stars as a map, as a guide, and for worship — 별을 ‘지도(map)’로 삼았다. (B) Telescopes were originally used to see long distances — 망원경은 ‘먼 거리(long distances)’를 보는 데 쓰였다.",
+     "explanation": "[난이도 3·보통 / 도표 완성] (A) humans have looked at the stars as a map, as a guide, and for worship — 별을 ‘지도(map)’로 삼았다. (B) Telescopes were originally used to see long distances — 망원경으로 ‘먼 거리(long distances)’를 볼 수 있었다.",
      "table": [
       [
        "",
@@ -1112,11 +1112,11 @@
       ],
       [
        "Long ago",
-       "They looked at the stars as a (A) ______, as a guide, and for worship."
+       "People used the stars as a (A) ______ and a guide."
       ],
       [
        "With telescopes",
-       "They could see (B) ______."
+       "People could see (B) ______."
       ]
      ]
     },
@@ -1127,7 +1127,7 @@
       "(A) upside-down …… (B) blurry",
       "(A) upright …… (B) clear",
       "(A) upside-down …… (B) clear",
-      "(A) small …… (B) dark",
+      "(A) upside-down …… (B) dark",
       "(A) upright …… (B) blurry"
      ],
      "answer": 5,
@@ -1138,52 +1138,52 @@
      "prompt": "What is paragraph 2 mainly about?",
      "choices": [
       "how to build a telescope",
-      "how Galileo’s and Kepler’s telescopes were different",
+      "the early telescopes of Galileo and Kepler",
       "why the stars are far away",
       "the life of Galileo",
-      "how the Hubble Telescope works"
+      "how the Hubble Telescope takes its pictures"
      ],
      "answer": 2,
-     "explanation": "[난이도 4·다소 어려움 / 문단 주제] 2문단은 Galileo 망원경(똑바로 선 상, 30배 확대, 흐릿함)과 Kepler 망원경(넓은 시야, 거꾸로 된 상)의 차이를 설명한다."
+     "explanation": "[난이도 4·다소 어려움 / 문단 주제] 2문단은 Galileo 망원경(똑바로 선 상, 30배 확대, 흐릿함)과 이를 개선한 Kepler 망원경(넓은 시야, 거꾸로 된 상)을 설명한다. Hubble 망원경은 3문단의 내용이다."
     },
     {
      "type": "multiple_choice",
      "prompt": "What is paragraph 3 mainly about?",
      "choices": [
       "the first telescope in history",
-      "how people used stars as maps",
+      "what Galileo’s telescope was made of",
       "Kepler’s new design",
       "telescopes in space, like the Hubble Telescope",
       "why images look blurry"
      ],
      "answer": 4,
-     "explanation": "[난이도 4·다소 어려움 / 문단 주제] 3문단은 우주로 발사된 현대 망원경, 특히 Hubble 망원경이 하는 일을 설명한다. 첫 망원경, 별을 지도로 쓴 일, Kepler의 설계, 흐릿한 상은 1·2문단의 내용이다."
+     "explanation": "[난이도 4·다소 어려움 / 문단 주제] 3문단은 우주로 발사된 현대 망원경, 특히 Hubble 망원경이 하는 일을 설명한다. 첫 망원경, Galileo 망원경의 렌즈, Kepler의 설계, 흐릿한 상은 2문단의 내용이다."
     },
     {
      "type": "multiple_choice",
      "prompt": "Which best fits in blank (a)?",
      "choices": [
-      "travel to the stars",
-      "make maps of Earth",
+      "fly to the stars",
+      "make better maps of Earth",
       "see and understand the stars better",
-      "build taller buildings",
-      "live longer"
+      "pray to the stars more",
+      "see things that are close to them"
      ],
      "answer": 3,
-     "explanation": "[난이도 5·어려움 / 빈칸 추론] 사람들이 오랫동안 별을 바라봤고, 뒤 문단에서 망원경으로 별을 ‘관측하고(observe)’ 우주를 ‘더 잘 이해하게(understand the universe much better)’ 되었다고 했다. 따라서 망원경의 발명은 별을 ‘더 잘 보고 이해하도록’ 도운 것이다. 별로 여행하거나 지도를 만들거나 건물을 짓거나 오래 사는 이야기는 없다."
+     "explanation": "[난이도 5·어려움 / 빈칸 추론] 사람들이 오랫동안 별을 바라봤고, 뒤 문단에서 망원경으로 별을 ‘관측하고(observe)’ 우주를 ‘더 잘 이해하게(understand the universe much better)’ 되었다고 했다. 따라서 망원경의 발명은 별을 ‘더 잘 보고 이해하도록’ 도운 것이다. 별로 날아가거나 지구의 지도를 만든다는 내용은 없고, 별에 기도한 것은 망원경 이전의 일이며, 망원경은 ‘먼 거리’를 보는 도구이다."
     },
     {
      "type": "multiple_choice",
      "prompt": "Which best fits in blank (b)?",
      "choices": [
-      "not just the stars but the whole universe",
-      "only the Moon",
-      "the bottom of the ocean",
-      "the weather on Earth",
-      "birds in the sky"
+      "the stars and the whole universe",
+      "only the stars near Earth",
+      "only the Moon and the Sun",
+      "the planets close to Earth",
+      "the stars, but not the galaxies"
      ],
      "answer": 1,
-     "explanation": "[난이도 5·어려움 / 빈칸 추론] 바로 뒤 문장에서 Hubble 망원경이 먼 행성과 은하의 사진을 보내온다고 했으므로, 우주 망원경은 별뿐 아니라 ‘우주 전체’를 관측하도록 돕는다. 달만, 바다 밑, 지구의 날씨, 새는 글의 내용과 맞지 않는다."
+     "explanation": "[난이도 5·어려움 / 빈칸 추론] 바로 뒤 문장에서 Hubble 망원경이 ‘먼(distant)’ 행성과 ‘은하(galaxies)’의 사진을 보내온다고 했으므로, 우주 망원경은 별뿐 아니라 우주 전체를 관측하도록 돕는다. 가까운 별·행성만 본다거나, 달과 태양만 본다거나, 은하는 보지 않는다는 것은 이와 어긋난다."
     }
    ]
   }
