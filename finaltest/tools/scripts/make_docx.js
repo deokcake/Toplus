@@ -177,8 +177,9 @@ function questionBlock(it, qno, showPoints) {
 }
 
 // ── 정답지: 채점표 + 문항별 정답·해설
-function answerGrid(all) {
+function answerGrid(all, label) {
   const out = [];
+  if (label) out.push(new Paragraph({ spacing: { before: 80, after: 40 }, keepNext: true, children: [new TextRun({ text: label, bold: true, size: 18, color: ACCENT })] }));
   const per = 10, colW = Math.floor(TEXT_W / per);
   for (let r = 0; r < all.length; r += per) {
     const slice = all.slice(r, r + per);
@@ -201,18 +202,21 @@ function keyItem(it, qno) {
 
 function build(mode) {
   const children = [...header(mode)];
+  const perSec = !!(data.layout || {}).number_per_section;
   let qno = 0;
   const allItems = [];
+  const perSecItems = [];
   data.sections.forEach((sec, si) => {
     children.push(sectionHeading(sec.title, si === 0 || mode === "key"));
+    if (perSec) { qno = 0; perSecItems.push({ title: sec.title, items: [] }); }
     for (const it of sec.items) {
       if (it.type === "passage") { if (mode === "student") { children.push(passageBlock(it)); children.push(spacer(100)); } continue; }
-      qno += 1; allItems.push(it);
+      qno += 1; allItems.push(it); if (perSec) perSecItems[perSecItems.length - 1].items.push(it);
       if (mode === "student") children.push(...questionBlock(it, qno, (data.layout || {}).show_points !== false));
       else children.push(...keyItem(it, qno));
     }
   });
-  if (mode === "key") children.splice(header("key").length, 0, ...answerGrid(allItems));
+  if (mode === "key") children.splice(header("key").length, 0, ...(perSec ? perSecItems.flatMap((g) => answerGrid(g.items, g.title)) : answerGrid(allItems)));
   return new Document({
     creator: "TOPLUS", title: data.title + (mode === "key" ? " (정답·해설)" : ""),
     styles: { default: { document: { run: { font: FONT, size: 21 }, paragraph: { spacing: { after: 60 } } } } },

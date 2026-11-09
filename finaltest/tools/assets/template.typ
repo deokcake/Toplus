@@ -181,26 +181,42 @@
 }
 
 // ── 정답지 상단 채점표 ───────────────────────
-#let answer-grid(data) = {
-  let all = ()
-  for sec in data.at("sections", default: ()) {
-    for it in sec.at("items", default: ()) {
-      if it.at("type", default: "") != "passage" { all.push(it) }
-    }
-  }
+#let grid-table(items) = {
   let per = 10
-  let n = all.len()
+  let n = items.len()
+  for r in range(calc.ceil(n / per)) {
+    let cells = ()
+    let acells = ()
+    for i in range(r * per, calc.min(n, (r + 1) * per)) {
+      cells.push(text(size: 8pt, fill: MUTED)[#(i + 1)])
+      let a = items.at(i).at("answer", default: none)
+      acells.push(text(weight: "bold", fill: KEYRED)[#if type(a) == int { circled.at(a - 1) } else { str(a) }])
+    }
+    table(columns: per, align: center, inset: 3.5pt, stroke: 0.4pt + luma(170), ..cells, ..acells)
+    v(0.25em)
+  }
+}
+
+#let answer-grid(data, per-section: false) = {
   block(width: 100%, above: 0.6em, below: 0.3em, {
-    for r in range(calc.ceil(n / per)) {
-      let cells = ()
-      let acells = ()
-      for i in range(r * per, calc.min(n, (r + 1) * per)) {
-        cells.push(text(size: 8pt, fill: MUTED)[#(i + 1)])
-        let a = all.at(i).at("answer", default: none)
-        acells.push(text(weight: "bold", fill: KEYRED)[#if type(a) == int { circled.at(a - 1) } else { str(a) }])
+    if per-section {
+      grid(columns: (1fr, 1fr), column-gutter: 1.2em, row-gutter: 0.5em,
+        ..data.at("sections", default: ()).map(sec => {
+          let items = sec.at("items", default: ()).filter(it => it.at("type", default: "") != "passage")
+          block(width: 100%, {
+            text(size: 8.5pt, weight: "bold", fill: ACCENT)[#mk(sec.at("title", default: ""))]
+            v(0.15em)
+            grid-table(items)
+          })
+        }))
+    } else {
+      let all = ()
+      for sec in data.at("sections", default: ()) {
+        for it in sec.at("items", default: ()) {
+          if it.at("type", default: "") != "passage" { all.push(it) }
+        }
       }
-      table(columns: per, align: center, inset: 3.5pt, stroke: 0.4pt + luma(170), ..cells, ..acells)
-      v(0.25em)
+      grid-table(all)
     }
   })
 }
@@ -209,6 +225,7 @@
 #let render-section(sec, mode, opts, first: false) = {
   let broke = opts.section_pagebreak and mode == "student" and not first
   if broke { pagebreak() }
+  if opts.number_per_section { qc.update(0) }
   if "title" in sec {
     block(width: 100%, above: if broke or first { 0.6em } else { 1.3em }, below: 0.5em,
       block(width: 100%, fill: SOFT, inset: (x: 8pt, y: 6pt), radius: 3pt,
@@ -229,6 +246,7 @@
     show_points: layout.at("show_points", default: true),
     choice_columns: layout.at("choice_columns", default: 0),
     section_pagebreak: layout.at("section_pagebreak", default: false),
+    number_per_section: layout.at("number_per_section", default: false),
   )
 
   set text(font: CJK, size: layout.at("font_size", default: 10.5) * 1pt, lang: "ko")
@@ -244,7 +262,7 @@
   place(top, scope: "parent", float: true, {
     doc-header(data, mode)
     if mode == "student" { notice(data.at("instructions", default: ())) }
-    if mode == "key" { answer-grid(data) }
+    if mode == "key" { answer-grid(data, per-section: opts.number_per_section) }
     v(0.2em)
   })
 
