@@ -67,7 +67,7 @@
 #let render-choices(choices, cols) = {
   let n = if cols == 0 {
     let m = choices.map(vis-width).fold(0, calc.max)
-    if m <= 14 { 5 } else if m <= 30 { 2 } else { 1 }
+    if m <= 14 { 5 } else if m <= 44 { 2 } else { 1 }
   } else { cols }
   pad(left: 1.1em, top: 0.45em, grid(
     columns: n,
@@ -114,7 +114,7 @@
       text(weight: "bold", fill: ACCENT)[#context qc.display().],
       mk(it.at("prompt", default: "")),
       if opts.show_points and "points" in it {
-        text(size: 8.5pt, fill: MUTED)[[#it.points 점]]
+        text(size: 8.5pt, fill: MUTED)[[#it.points pts]]
       } else { [] },
     )
 
