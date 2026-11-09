@@ -145,7 +145,7 @@ function questionBlock(it, qno, showPoints) {
   }
   if (it.table) {
     const ncol = it.table[0].length;
-    const widths = ncol === 2 ? [1700, 4600] : [1500, 2600, 2600];
+    const widths = ncol === 2 ? [1700, 4600] : [1500, 2800, 3800];
     const total = widths.reduce((a, b) => a + b, 0);
     out.push(new Table({
       width: { size: total, type: WidthType.DXA }, columnWidths: widths, indent: { size: 440, type: WidthType.DXA }, borders: allThin,
