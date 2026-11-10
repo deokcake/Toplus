@@ -1,0 +1,257 @@
+[
+ {
+  "key": "5-1",
+  "variant": 1,
+  "ref_format": "두 문장이 같은 뜻이 되도록 주어 자리 빈칸에 알맞은 대명사 고르기(낱말 보기)",
+  "new_format": "밑줄 친 주어(A and I)를 대신할 수 있는 대명사 고르기(밑줄 대체, 낱말 보기)",
+  "design": "주어 자리에는 주격을 쓰고 ‘A and I’는 We로 받는다는 규칙을 그대로 확인하되, 두 문장 비교 대신 한 문장의 밑줄 친 주어를 대명사로 바꾸는 형식으로 옮겼다. 판단할 곳은 밑줄 하나(① 나를 포함한 여럿 → 우리 ② 주어 자리 → 주격)로 원문항과 같고, 읽을 양 14낱말(1.2배)·어휘(walk, school, together)는 원문항 수준이다. 오답은 목적격 Us, 소유격 Our, ‘You’만 보고 고르는 You, 나를 빼고 받는 They로 학생이 실제로 하는 실수다.",
+  "stem": "다음 문장의 밑줄 친 부분을 대신할 수 있는 말을 고르시오.",
+  "passage": "<u>You and I</u> walk to school together every day.",
+  "c": [
+   "We",
+   "Us",
+   "Our",
+   "You",
+   "They"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "5-1",
+  "variant": 2,
+  "ref_format": "두 문장이 같은 뜻이 되도록 주어 자리 빈칸에 알맞은 대명사 고르기(낱말 보기)",
+  "new_format": "짧은 대화의 주어 자리 빈칸에 들어갈 대명사 고르기(대화 빈칸, 낱말 보기)",
+  "design": "원문항 핵심 규칙의 다른 쪽(나를 뺀 여럿은 They로 받고 주어 자리이므로 주격)을 짧은 대화의 빈칸으로 확인한다. 앞 문장에 Leo and his friends가 그대로 드러나 있어 가리키는 대상 찾기는 원문항과 같고, 빈칸 하나·16낱말(1.3배)·쉬운 어휘(friends, classmates)로 난이도를 맞췄다. 오답은 목적격 Them, 소유격 Their, 주어 자리에 목적격을 쓴 Us, Leo만 보고 단수로 받는 He다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Who are Leo and his friends?\nB: _______ are my classmates.",
+  "c": [
+   "Them",
+   "Their",
+   "They",
+   "Us",
+   "He"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "5-1",
+  "variant": 3,
+  "ref_format": "두 문장이 같은 뜻이 되도록 주어 자리 빈칸에 알맞은 대명사 고르기(낱말 보기)",
+  "new_format": "우리말을 영어로 바르게 옮긴 문장 고르기(낱말 보기→아주 짧은 문장 보기)",
+  "design": "‘우리는’이 주어이므로 주격 We를 써야 한다는 같은 규칙을, 낱말 보기 대신 대명사만 다른 3낱말 문장 보기로 확인한다. 보기마다 판단할 곳은 주어 대명사 하나뿐이라 판단 부담이 원문항과 같고, 읽을 양 15낱말(1.25배)·어휘(twins)도 같은 수준이다. 오답은 소유대명사 Ours, 목적격 Us, 소유격 Our를 주어 자리에 쓴 것과 ‘우리’를 They로 옮긴 것이다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "우리는 쌍둥이다.",
+  "c": [
+   "Ours are twins.",
+   "Us are twins.",
+   "Our are twins.",
+   "We are twins.",
+   "They are twins."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "5-2",
+  "variant": 1,
+  "ref_format": "인칭대명사 짝 5개 중 관계(주격-소유격/주격-목적격)가 다른 것 고르기(낱말 짝 보기)",
+  "new_format": "주격-목적격이 바르게 짝지어진 것 고르기(틀린 것→옳은 것으로 방향 전환, 낱말 짝 보기)",
+  "design": "주격·소유격·목적격 형태를 구분하는 규칙은 그대로 두고, ‘관계가 다른 짝 찾기’를 ‘주격-목적격으로 바르게 짝지어진 것 찾기’로 뒤집었다. 짝 5개의 뒤 낱말이 목적격인지 한 번씩 판단하므로 판단 5개·읽을 양 10낱말로 원문항과 같고 어휘는 대명사뿐이다. 오답은 뒤 낱말이 소유격(its, his)이거나 소유대명사(yours, hers)인 짝으로, 목적격과 헷갈리기 쉬운 형태만 골랐다.",
+  "stem": "다음 중 주격과 목적격이 바르게 짝지어진 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "it - its",
+   "you - yours",
+   "he - his",
+   "she - hers",
+   "they - them"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "5-2",
+  "variant": 2,
+  "ref_format": "인칭대명사 짝 5개 중 관계(주격-소유격/주격-목적격)가 다른 것 고르기(낱말 짝 보기)",
+  "new_format": "밑줄 친 대명사의 쓰임(격)이 나머지와 다른 아주 짧은 문장 고르기(낱말 짝 보기→3낱말 문장 보기)",
+  "design": "같은 격 구분 규칙을 낱말 짝 대신 대명사에 밑줄을 친 3낱말 문장 5개로 확인한다. 밑줄 하나가 소유격인지 목적격인지 보는 판단 5개는 원문항과 같고, 읽을 양 15낱말(1.5배 안, 원문항+5낱말)·어휘(like, open, book, dog, cat)는 초등 저학년 수준이다. 정답은 목적격 him 하나이고 나머지 넷은 모두 명사 앞 소유격(your, our, their, my)이라 원문항과 같은 4:1 구성이다.",
+  "stem": "다음 중 밑줄 친 대명사의 쓰임이 나머지 넷과 다른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "I like <u>him</u>.",
+   "Open <u>your</u> book.",
+   "<u>Our</u> dog barks.",
+   "Take <u>their</u> bags.",
+   "<u>My</u> cat sleeps."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "5-2",
+  "variant": 3,
+  "ref_format": "인칭대명사 짝 5개 중 관계(주격-소유격/주격-목적격)가 다른 것 고르기(낱말 짝 보기)",
+  "new_format": "짧은 문장의 명사 앞 빈칸에 알맞은 대명사(소유격) 고르기(빈칸 + 낱말 보기)",
+  "design": "같은 대명사 격 구분을 짧은 문장에 적용하는 형식으로 바꿨다. 앞 문장의 Jenny and Tom을 받으면서 명사 cat 앞이므로 소유격 Their를 골라야 하며, 빈칸 하나에 보기 다섯 형태를 가리는 것이라 판단 부담은 원문항의 짝 5개 판정과 같고 읽을 양 14낱말(1.4배)·어휘(cat, white)는 쉽다. 오답은 같은 대명사의 주격 They, 소유대명사 Theirs, 목적격 Them과 cat에 이끌려 고르는 Its다.",
+  "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "Jenny and Tom have a cat. _______ cat is white.",
+  "c": [
+   "They",
+   "Their",
+   "Theirs",
+   "Them",
+   "Its"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "5-11",
+  "variant": 1,
+  "ref_format": "우리말과 주어진 동사로 빈칸에 알맞은 현재형 동사 형태 고르기(낱말 보기)",
+  "new_format": "밑줄 친 동사 부분을 바르게 고친 것 고르기(빈칸→밑줄 고치기)",
+  "design": "3인칭 단수 주어에는 동사에 -(e)s를 붙이고 be동사와 일반동사를 함께 쓰지 않는다는 규칙을, 빈칸 대신 잘못 쓴 is teach에 밑줄을 치고 고치는 형식으로 확인한다. 주어 My aunt(3인칭 단수)를 보고 형태 하나를 고르는 판단은 원문항과 같고, 읽을 양 14낱말(1.3배)·어휘(aunt, music, school)도 같은 수준이다. 오답은 원형 teach, -s만 붙인 철자 오류 teachs, be동사를 남긴 is teaches, -ing만 쓴 teaching으로 원문항 오답 유형을 따랐다.",
+  "stem": "다음 문장의 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "My aunt <u>is teach</u> music at my school.",
+  "c": [
+   "teach",
+   "teachs",
+   "is teaches",
+   "teaches",
+   "teaching"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "5-11",
+  "variant": 2,
+  "ref_format": "우리말과 주어진 동사로 빈칸에 알맞은 현재형 동사 형태 고르기(낱말 보기)",
+  "new_format": "짧은 대화의 빈칸에 알맞은 동사 형태 고르기(우리말 제시→대화 빈칸)",
+  "design": "같은 3인칭 단수 현재형 규칙을 우리말 대신 짧은 대화 속 빈칸으로 확인한다. 대답의 주어 She를 보고 sing의 형태 하나를 고르는 판단은 원문항과 같고, 읽을 양 16낱말(원문항+5낱말 안)·어휘(music, sing, well)는 쉽다. 오답은 원형 sing, be동사와 함께 쓴 is sing·is sings, -ing만 쓴 singing으로 원문항의 오답 구성과 같다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Does Jina like music?\nB: Yes. She _______ well.",
+  "c": [
+   "sing",
+   "is sing",
+   "is sings",
+   "singing",
+   "sings"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "5-11",
+  "variant": 3,
+  "ref_format": "우리말과 주어진 동사로 빈칸에 알맞은 현재형 동사 형태 고르기(낱말 보기)",
+  "new_format": "주어를 He로 바꿔 쓸 때 빈칸에 알맞은 동사 형태 고르기(문장 전환)",
+  "design": "주어가 I에서 He(3인칭 단수)로 바뀌면 동사에 -(e)s를 붙여야 한다는 같은 규칙을 문장 전환 형식으로 확인한다. 바뀐 주어를 보고 wash의 형태 하나를 고르는 판단은 원문항과 같고, 읽을 양 16낱말(원문항+5낱말 안)·어휘(wash, dirty, dishes)는 초등 수준이다. 오답은 원형 그대로 둔 wash, be동사를 덧붙인 is wash·is washes, -ing만 쓴 washing이다.",
+  "stem": "다음 문장의 주어를 He로 바꿔 쓸 때 빈칸에 알맞은 말을 고르시오.",
+  "passage": "I wash the dirty dishes.\n→ He _______ the dirty dishes.",
+  "c": [
+   "wash",
+   "washes",
+   "is wash",
+   "is washes",
+   "washing"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "5-12",
+  "variant": 1,
+  "ref_format": "우리말이 주어진 두 문장(평서문·의문문)의 빈칸에 들어갈 be동사 짝 고르기(두 빈칸 짝 보기)",
+  "new_format": "짧은 대화의 두 빈칸 (A), (B)에 들어갈 be동사 짝 고르기(우리말 제시→대화 빈칸 짝)",
+  "design": "주어에 따라 am/is/are를 고르고 의문문에서는 be동사를 주어 앞에 둔다는 규칙을, 우리말 제시 두 문장 대신 서로 이어지는 대화의 두 빈칸으로 확인한다. (A)는 복수 주어 your grandparents의 의문문이라 Are, (B)는 3인칭 단수 My grandmother라 is로, 판단 두 곳·읽을 양 23낱말(1.3배)·어휘(grandparents, farmer)는 원문항 수준이다. 오답은 한쪽만 수 일치가 틀린 Is-is, Are-are, 주어가 I일 때만 쓰는 Am을 넣은 Am-is, 둘 다 틀린 Is-am이다.",
+  "stem": "다음 대화의 빈칸 (A), (B)에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+  "passage": "A: (A)_______ your grandparents in Jeju now?\nB: Yes. My grandmother (B)_______ a farmer there.",
+  "c": [
+   "(A) Is - (B) is",
+   "(A) Are - (B) is",
+   "(A) Are - (B) are",
+   "(A) Am - (B) is",
+   "(A) Is - (B) am"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "5-12",
+  "variant": 2,
+  "ref_format": "우리말이 주어진 두 문장(평서문·의문문)의 빈칸에 들어갈 be동사 짝 고르기(두 빈칸 짝 보기)",
+  "new_format": "짧은 글의 두 빈칸 (A), (B)에 들어갈 be동사 짝 고르기(우리말 없는 글 빈칸 짝)",
+  "design": "같은 be동사 수 일치와 의문문 어순 규칙을, 우리말 없이 두 문장이 이어지는 짧은 글의 빈칸으로 확인한다. (A)는 3인칭 단수 Olivia라 is, (B)는 복수 주어 your classmates의 의문문이라 Are로 원문항과 같은 ‘평서문 하나·의문문 하나’ 구성이고, 판단 두 곳·읽을 양 20낱말(1.1배)·어휘(classmate, friendly)로 난이도를 맞췄다. 오답은 (A)에 am을 쓴 것, (B)에 Is를 쓴 것, 둘 다 복수로 본 are-Are, 둘 다 틀린 are-Am이다.",
+  "stem": "다음 글의 빈칸 (A), (B)에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+  "passage": "Olivia (A)_______ my new classmate from Canada. (B)_______ your classmates friendly, too?",
+  "c": [
+   "(A) am - (B) Are",
+   "(A) are - (B) Am",
+   "(A) is - (B) Is",
+   "(A) is - (B) Are",
+   "(A) are - (B) Are"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "5-12",
+  "variant": 3,
+  "ref_format": "우리말이 주어진 두 문장(평서문·의문문)의 빈칸에 들어갈 be동사 짝 고르기(두 빈칸 짝 보기)",
+  "new_format": "평서문을 의문문으로 바르게 바꿔 쓴 문장 고르기(빈칸 짝→문장 전환, 문장 보기)",
+  "design": "be동사 의문문은 주어에 맞는 be동사를 주어 앞에 둔다는 같은 규칙을 평서문→의문문 전환으로 확인한다. 복수 주어 Penguins에 맞는 Are를 고르는 것과 be동사를 앞에 두는 것, 두 가지를 판단하므로 판단 두 곳으로 원문항과 같고, 읽을 양 18낱말(1.0배)·어휘(penguin, bird)는 쉽다. 오답은 수 일치가 틀린 Is·Am, 어순을 바꾸지 않은 평서문, 일반동사 의문문처럼 Do를 쓴 것으로 모두 한 군데만 틀렸다.",
+  "stem": "다음 문장을 의문문으로 바르게 바꿔 쓴 것을 고르시오.",
+  "passage": "Penguins are birds.",
+  "c": [
+   "Is penguins birds?",
+   "Am penguins birds?",
+   "Penguins are birds?",
+   "Do penguins birds?",
+   "Are penguins birds?"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "5-21",
+  "variant": 1,
+  "ref_format": "문장 5개 중 과거를 나타내는 문장이 아닌 것 고르기(문장 보기)",
+  "new_format": "문장 5개 중 과거를 나타내는 문장 고르기(아닌 것→맞는 것으로 방향 전환)",
+  "design": "동사의 과거형(-ed, 불규칙, was/were, did)과 현재형(-s, 원형, am/is/are, do/does)을 가르는 같은 규칙을, 과거가 아닌 문장 찾기에서 과거 문장 찾기로 뒤집었다. 문장 5개의 동사 형태를 한 번씩 보는 판단 5개는 같고, 읽을 양 31낱말(1.1배)·어휘(breakfast, river, carrots)도 원문항 수준이다. 정답은 didn't로 과거를 나타내는 문장이고, 오답은 현재형 lives·are·doesn't와, 원문항의 hit처럼 현재형과 과거형이 같아 every morning으로 가려야 하는 put이다.",
+  "stem": "다음 중 과거를 나타내는 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Mina didn't eat breakfast this morning.",
+   "My uncle lives near the river.",
+   "We are in the music room now.",
+   "Jake doesn't like carrots.",
+   "The kids put their bags here every morning."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "5-21",
+  "variant": 2,
+  "ref_format": "문장 5개 중 과거를 나타내는 문장이 아닌 것 고르기(문장 보기)",
+  "new_format": "때를 나타내는 말이 있는 문장 5개 중 밑줄 친 동사 부분이 어법상 틀린 것 고르기(밑줄 판정)",
+  "design": "과거의 일은 동사의 과거형으로 쓴다는 같은 규칙을, 문장마다 과거의 때(last night, yesterday 등)를 주고 밑줄 친 동사가 그 때에 맞는 형태인지 판정하는 형식으로 바꿨다. 밑줄 하나씩 5개를 보는 판단은 원문항과 같고, 읽을 양 31낱말(1.1배)·어휘(cooked, beach, bought)는 5급 수준의 흔한 동사다. 정답은 yesterday와 함께 현재형 visits를 쓴 문장이고, 나머지는 규칙 과거형 cooked, 불규칙 bought, were, didn't+원형으로 모두 바른 과거 표현이다.",
+  "stem": "다음 중 밑줄 친 부분이 어법상 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Dad <u>cooked</u> dinner last night.",
+   "Sora <u>visits</u> her grandma yesterday.",
+   "We <u>were</u> at the beach last summer.",
+   "I <u>didn't bring</u> my homework this morning.",
+   "Jiho <u>bought</u> some bread an hour ago."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "5-21",
+  "variant": 3,
+  "ref_format": "문장 5개 중 과거를 나타내는 문장이 아닌 것 고르기(문장 보기)",
+  "new_format": "과거를 묻는 질문에 대한 대답으로 알맞지 않은 문장 고르기(대화 + 문장 보기)",
+  "design": "What did you do yesterday?라는 과거 질문에 대한 대답은 과거형이어야 한다는 점으로, 과거형과 현재형을 가르는 같은 규칙을 확인한다. 대답 5개의 동사 형태를 한 번씩 보는 판단 5개는 원문항과 같고, 읽을 양 30낱말(1.1배)·어휘(library, badminton, cartoons)는 쉽다. 정답은 현재형 watch를 쓴 대답이고, 나머지는 불규칙 went, 규칙 played, was, didn't+원형으로 모두 과거를 나타낸다.",
+  "stem": "다음 대화에서 B의 대답으로 알맞지 않은 것을 고르시오.",
+  "passage": "A: What did you do yesterday?\nB: _______",
+  "c": [
+   "I went to the library.",
+   "I played badminton with Dad.",
+   "I watch cartoons all day.",
+   "I was at my uncle's house.",
+   "I didn't do anything."
+  ],
+  "ans": 3
+ }
+]

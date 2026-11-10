@@ -1,0 +1,453 @@
+[
+ {
+  "key": "1-101",
+  "grade": 1,
+  "no": 101,
+  "chapter": "CH 11",
+  "chapter_name": "접속사",
+  "ref": {
+   "stem": "다음 우리말을 영작할 때 알맞은 것을 고르시오.",
+   "passage": "열심히 공부하면 좋은 결과를 얻을 것이다.",
+   "c": [
+    "Study hard, or you will get good results.",
+    "Study hard, and you will get good results.",
+    "Study hard, but you will get good results.",
+    "Study hard, so you will get good results.",
+    "Study hard, nor you will get good results."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: ‘명령문, and + 주어 + 동사’는 ‘~해라, 그러면 …할 것이다’, ‘명령문, or + 주어 + 동사’는 ‘~해라, 그렇지 않으면 …할 것이다’라는 뜻이다.\n풀이 순서: ① 우리말 ‘열심히 공부하면 좋은 결과를 얻을 것이다’은 ‘~하면 …할 것이다’라는 조건과 그 결과의 관계다. → ② 명령문 뒤에서 ‘그러면’은 and, ‘그렇지 않으면’은 or로 나타낸다. 바라는 결과가 이어지므로 and다. → ③ 다른 접속사를 쓴 보기를 지운다. 정답은 ②.\n문장별 판정:\n정답 판단: ‘열심히 공부해라, 그러면 좋은 결과를 얻을 것이다’로 우리말과 같은 뜻이므로 정답은 ②이다.\n선택지 분석:\n① [오답] or를 쓰면 ‘그렇지 않으면 좋은 결과를 얻는다’는 뜻이 되어 맞지 않으므로 오답이다.\n② [정답] ‘열심히 공부해라, 그러면 좋은 결과를 얻을 것이다’로 우리말과 같은 뜻이므로 정답이다.\n③ [오답] but은 앞뒤가 반대되는 내용을 이으므로 오답이다.\n④ [오답] 명령문 뒤에서 ‘그러면’의 뜻으로는 so가 아니라 and를 쓰므로 오답이다.\n⑤ [오답] nor는 부정문 뒤에 쓰는 말이라 맞지 않으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 우리말을 영작할 때 알맞은 것을 고르시오.",
+    "passage": "지금 출발하면 막차를 탈 수 있다.",
+    "c": [
+     "Leave now, but you can catch the last bus.",
+     "Leave now, and you can catch the last bus.",
+     "Leave now, or you can catch the last bus.",
+     "If leave now, and you can catch the last bus.",
+     "Leave now, because you can catch the last bus."
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 우리말을 영작할 때 알맞은 것을 고르시오.",
+    "passage": "서두르면 회의에 늦지 않을 것이다.",
+    "c": [
+     "Hurry up, and you will not be late for the meeting.",
+     "Hurry up, because you will not be late for the meeting.",
+     "Hurry up, or you will not be late for the meeting.",
+     "Hurry up, but you will not be late for the meeting.",
+     "If hurry up, and you will not be late for the meeting."
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 우리말을 영작할 때 알맞은 것을 고르시오.",
+    "passage": "이 버튼을 누르면 화면이 켜질 것이다.",
+    "c": [
+     "Press this button, or the screen will turn on.",
+     "If press this button, and the screen will turn on.",
+     "Press this button, and the screen will turn on.",
+     "Press this button, but the screen will turn on.",
+     "Press this button, because the screen will turn on."
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 우리말을 영작할 때 알맞은 것을 고르시오.",
+    "passage": "주의해서 운전하면 안전하게 도착할 것이다.",
+    "c": [
+     "Drive carefully, and you will arrive safely.",
+     "Drive carefully, but you will arrive safely.",
+     "Drive carefully, or you will arrive safely.",
+     "Drive carefully, because you will arrive safely.",
+     "If drive carefully, and you will arrive safely."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 우리말을 영작할 때 알맞은 것을 고르시오.",
+    "passage": "계속 연습하면 실력이 향상될 것이다.",
+    "c": [
+     "Keep practicing, but you will improve.",
+     "Keep practicing, or you will improve.",
+     "If keep practicing, and you will improve.",
+     "Keep practicing, and you will improve.",
+     "Keep practicing, because you will improve."
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   1,
+   3,
+   4
+  ]
+ },
+ {
+  "key": "1-102",
+  "grade": 1,
+  "no": 102,
+  "chapter": "CH 11",
+  "chapter_name": "접속사",
+  "ref": {
+   "stem": "다음 중 어법상 올바른 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "Neither the singer nor the dancers is performing today.",
+    "Both my sister and her friend enjoys cooking.",
+    "Not only my brother but also his friends is coming to the party.",
+    "Either my parents or my brother needs to sign this form.",
+    "The manager as well as the employees have been working hard."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: both A and B는 복수 취급한다. either A or B, neither A nor B, not only A but also B는 동사에 가까운 B에 수를 맞추고, A as well as B는 A에 수를 맞춘다.\n풀이 순서: ① 문장마다 상관접속사를 찾고 동사가 어느 말에 수를 맞춰야 하는지 정한다. both ~ and는 복수, either·neither·not only는 동사에 가까운 쪽, as well as는 앞쪽이다. → ② 그 말이 단수인지 복수인지 보고 동사와 견준다. → ③ 선택지 ④만 수가 맞는다: or 뒤의 my brother(단수) - needs.\n문장별 판정:\n정답 판단: or 뒤의 my brother에 수를 맞춰 needs를 바르게 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] nor 뒤의 the dancers에 수를 맞춰 are를 써야 하므로 오답이다.\n② [오답] both A and B는 복수이므로 enjoy를 써야 하므로 오답이다.\n③ [오답] but also 뒤의 his friends에 수를 맞춰 are를 써야 하므로 오답이다.\n④ [정답] or 뒤의 my brother에 수를 맞춰 needs를 바르게 썼으므로 정답이다.\n⑤ [오답] as well as 앞의 The manager에 수를 맞춰 has를 써야 하므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 어법상 올바른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Both the manager and the employees is satisfied.",
+     "Neither the teachers nor Tom are available.",
+     "Either the students or the teacher is presenting first.",
+     "Either Mina or her parents is attending.",
+     "Not only Jane but also her friends is joining."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 중 어법상 올바른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Neither my cousins nor my brother were at home.",
+     "Both Minji and her twin sister likes spicy food.",
+     "Either Mina or her parents are attending the ceremony.",
+     "Not only the coach but also the players was tired.",
+     "The teacher as well as the students are excited."
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 중 어법상 올바른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Both the bus and the train is late today.",
+     "Neither the teachers nor Tom is available today.",
+     "Not only my dad but also my uncles enjoys fishing.",
+     "Either you or your sister have to clean the room.",
+     "My friends as well as Jina was invited to the party."
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 중 어법상 올바른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Either the manager or the workers is responsible.",
+     "Both my mom and my aunt works at the hospital.",
+     "The captain as well as the sailors were brave.",
+     "Neither the dog nor the cats was hungry.",
+     "Not only Jane but also her friends are joining us."
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 중 어법상 올바른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Not only the students but also the principal were surprised.",
+     "Either my brothers or my sister are going to pick me up.",
+     "Neither Sora nor her friends knows the answer.",
+     "Both Yuna and her brother are good at math.",
+     "The singer as well as the dancers look nervous."
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": {
+   "stem": "다음 중 어법상 틀린 것은?",
+   "passage": "",
+   "c": [
+    "Both Minho and his sister walk to school every morning.",
+    "Not only the children but also their mother was waiting at the bus stop.",
+    "Neither my parents nor my sister likes scary movies.",
+    "Either Jun or his classmates has to water the plants.",
+    "The girl as well as her parents is from Australia."
+   ],
+   "ans": 4
+  },
+  "target_answer_positions": [
+   5,
+   1,
+   2
+  ]
+ },
+ {
+  "key": "1-111",
+  "grade": 1,
+  "no": 111,
+  "chapter": "CH 12",
+  "chapter_name": "일치와 화법",
+  "ref": {
+   "stem": "다음 중 어법상 어색한 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "She said that the Earth rotates around the Sun.",
+    "He told me that he had finished the homework before dinner.",
+    "I thought that he can solve this problem easily.",
+    "The teacher explained that water boils at 100°C.",
+    "They reported that dinosaurs became extinct millions of years ago."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 주절이 과거이면 종속절도 과거나 과거완료로 쓴다(시제 일치). 다만 변하지 않는 진리·현재의 사실은 현재시제로, 역사적 사실은 과거시제로 쓴다.\n풀이 순서: ① 문장마다 주절의 동사가 과거인지 확인하고 that절의 시제와 견준다. → ② 주절이 과거이면 that절은 과거·과거완료(would, could)여야 한다. 진리는 현재시제, 역사적 사실은 과거시제로 써도 된다. → ③ 선택지 ③은 진리도 역사적 사실도 아닌데 that절에 현재형 can을 썼다(could).\n문장별 판정:\n정답 판단: 주절이 과거(thought)이므로 can이 아니라 could를 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 지구가 태양 주위를 도는 것은 변하지 않는 진리라 현재시제를 쓸 수 있으므로 오답이다.\n② [오답] 말한 때보다 앞선 일을 had finished로 바르게 나타냈으므로 오답이다.\n③ [정답] 주절이 과거(thought)이므로 can이 아니라 could를 써야 하므로 정답이다.\n④ [오답] 물이 100°C에서 끓는 것은 변하지 않는 진리라 현재시제를 쓸 수 있으므로 오답이다.\n⑤ [오답] 공룡의 멸종은 과거의 사실이라 과거시제를 쓰므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Mina said that she is tired the previous night.",
+     "The teacher said that the moon moves around the Earth.",
+     "We learned that World War II ended in 1945.",
+     "Jane thought that the train had already gone.",
+     "Tom said that he would call me the next day."
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 중 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "My father told me that honesty is the best policy.",
+     "Minho said that he had lost his wallet.",
+     "She knew that Columbus reached America in 1492.",
+     "I believed that Mina can finish the task by herself.",
+     "They said that they were going to move."
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 중 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Our teacher told us that light travels faster than sound.",
+     "I heard that the Korean War broke out in 1950.",
+     "Sujin said that she will visit her aunt the next week.",
+     "Jiwoo said that she had never seen snow.",
+     "We thought that the bus would come soon."
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 중 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The scientist explained that water freezes at 0°C.",
+     "We learned that King Sejong created Hangeul.",
+     "I thought that the store is open at that time.",
+     "Mina told me that she could speak three languages.",
+     "He said that he had met the singer before."
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 중 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Grandma always said that time is money.",
+     "We knew that Leo has moved to Busan.",
+     "The guide told us that the Titanic sank in 1912.",
+     "Tom said that he was going to the library.",
+     "Jina said that she would help me the next day."
+    ],
+    "ans": 2
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   4,
+   5,
+   1
+  ]
+ },
+ {
+  "key": "1-112",
+  "grade": 1,
+  "no": 112,
+  "chapter": "CH 12",
+  "chapter_name": "일치와 화법",
+  "ref": {
+   "stem": "다음 중 빈칸에 들어가는 것을 알맞게 짝지은 것을 고르시오.",
+   "passage": "• Three-quarters of the cake _____ eaten.\n• Half of the students _____ present at the meeting.",
+   "c": [
+    "is - is",
+    "was - were",
+    "were - were",
+    "was - was",
+    "were - was"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 분수·most·half·some + of + 명사가 주어이면 of 뒤 명사에 동사의 수를 맞춘다. 셀 수 없는 명사는 단수 동사, 복수명사는 복수 동사를 쓴다.\n풀이 순서: ① 주어가 ‘부분을 나타내는 말 + of + 명사’이므로 of 뒤의 명사를 본다. → ② 첫째 문장의 the cake는 셀 수 없는 명사라 단수 동사, 둘째 문장의 the students는 복수명사라 복수 동사를 쓴다. → ③ 정답은 was - were.\n문장별 판정:\n정답 판단: the cake는 단수라 was, the students는 복수라 were가 알맞으므로 정답은 ②이다.\n선택지 분석:\n① [오답] the students는 복수라 둘째 빈칸에 is를 쓸 수 없으므로 오답이다.\n② [정답] the cake는 단수라 was, the students는 복수라 were가 알맞으므로 정답이다.\n③ [오답] the cake는 단수라 첫째 빈칸에 were를 쓸 수 없으므로 오답이다.\n④ [오답] the students는 복수라 둘째 빈칸에 was를 쓸 수 없으므로 오답이다.\n⑤ [오답] 두 빈칸의 수가 서로 바뀌었으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 빈칸에 들어가는 것을 알맞게 짝지은 것을 고르시오.",
+    "passage": "• Most of the equipment _____ already installed.\n• Two-thirds of the employees _____ working remotely.",
+    "c": [
+     "is - is",
+     "was - was",
+     "are - are",
+     "is - are",
+     "are - is"
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 중 빈칸에 들어가는 것을 알맞게 짝지은 것을 고르시오.",
+    "passage": "• Half of the students _____ absent.\n• Half of the money _____ already spent.",
+    "c": [
+     "are - are",
+     "is - is",
+     "is - are",
+     "are - is",
+     "was - was"
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 중 빈칸에 들어가는 것을 알맞게 짝지은 것을 고르시오.",
+    "passage": "• Three-quarters of the land in this area _____ protected by law.\n• Most of the houses on this street _____ empty now.",
+    "c": [
+     "is - are",
+     "was - was",
+     "are - are",
+     "are - is",
+     "is - is"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 중 빈칸에 들어가는 것을 알맞게 짝지은 것을 고르시오.",
+    "passage": "• Some of the books _____ damaged.\n• Some of the information _____ missing.",
+    "c": [
+     "is - is",
+     "are - is",
+     "is - are",
+     "are - are",
+     "was - was"
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 중 빈칸에 들어가는 것을 알맞게 짝지은 것을 고르시오.",
+    "passage": "• Most of the furniture in the new office _____ new.\n• A third of the participants in the contest _____ from abroad.",
+    "c": [
+     "is - are",
+     "was - was",
+     "are - is",
+     "are - are",
+     "is - is"
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "key": "1-121",
+  "grade": 1,
+  "no": 121,
+  "chapter": "CH 13",
+  "chapter_name": "특수구문",
+  "ref": {
+   "stem": "다음 빈칸에 알맞은 것을 고르시오.",
+   "passage": "그가 사임했다는 사실은 예상치 못한 일이었다.\nThe fact _____ he resigned was unexpected.",
+   "c": [
+    "which",
+    "what",
+    "that",
+    "of",
+    "when"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: the fact, the news, the idea, the possibility 같은 명사 뒤에서 그 내용을 풀어 주는 절은 접속사 that으로 이끈다(동격의 that). that 뒤에는 빠진 성분이 없는 완전한 절이 온다.\n풀이 순서: ① 빈칸 앞의 명사(The fact)와 뒤의 절(he resigned)의 관계를 본다. 뒤의 절이 그 명사의 내용을 풀어 준다(‘~라는 사실’). → ② 뒤의 절에 빠진 성분이 없으므로 관계대명사(which, what)가 아니라 접속사 자리다. → ③ 명사의 내용을 풀어 주는 동격절은 that이 이끈다. 정답은 ③.\n문장별 판정:\n정답 판단: The fact의 내용을 풀어 주는 완전한 절(he resigned)을 동격의 that이 이끄므로 정답은 ③이다.\n선택지 분석:\n① [오답] which 뒤에는 주어나 목적어가 빠진 절이 와야 하므로 오답이다.\n② [오답] what은 선행사 뒤에 쓸 수 없으므로 오답이다.\n③ [정답] The fact의 내용을 풀어 주는 완전한 절(he resigned)을 동격의 that이 이끄므로 정답이다.\n④ [오답] of 뒤에는 절이 올 수 없으므로 오답이다.\n⑤ [오답] when은 때를 나타내는 선행사 뒤에 쓰므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 알맞은 것을 고르시오.",
+    "passage": "우리가 성공할 것이라는 가능성은 높다.\nThe possibility _____ we will succeed is high.",
+    "c": [
+     "that",
+     "where",
+     "whether",
+     "what",
+     "which"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 빈칸에 알맞은 것을 고르시오.",
+    "passage": "그녀가 약속을 지켰다는 사실은 중요하다.\nThe fact _____ she kept her promise is important.",
+    "c": [
+     "which",
+     "that",
+     "what",
+     "whether",
+     "where"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 빈칸에 알맞은 것을 고르시오.",
+    "passage": "그가 그 제안을 거절했다는 소식은 놀라웠다.\nThe news _____ he rejected the offer was surprising.",
+    "c": [
+     "what",
+     "whether",
+     "which",
+     "where",
+     "that"
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "다음 빈칸에 알맞은 것을 고르시오.",
+    "passage": "Tom이 이사를 간다는 생각은 뜻밖이었다.\nThe idea _____ Tom would move was unexpected.",
+    "c": [
+     "where",
+     "what",
+     "that",
+     "which",
+     "whether"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 빈칸에 알맞은 것을 고르시오.",
+    "passage": "그 계획이 실패했다는 사실은 분명하다.\nThe fact _____ the plan failed is clear.",
+    "c": [
+     "that",
+     "whether",
+     "where",
+     "what",
+     "which"
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   1,
+   2,
+   4
+  ]
+ }
+]

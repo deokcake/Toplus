@@ -1,0 +1,53 @@
+[
+ {
+  "key": "2-122",
+  "variant": 1,
+  "ref_format": "가정법·직설법 두 문장을 보고 as if 뒤 빈칸에 알맞은 동사 형태 고르기(낱말 보기 5개)",
+  "new_format": "직설법 사실을 보고 as if 뒤 밑줄 친 동사(사실과 어긋나는 현재완료)를 바르게 고친 것 고르기(낱말 보기 5개)",
+  "design": "주절보다 앞선 일을 사실과 반대로 가정할 때 as if 뒤에 가정법 과거완료(had + 과거분사)를 쓴다는 규칙을 그대로 확인한다. 빈칸 채우기를 ‘직설법 사실(has never visited)과 어긋나는 밑줄 친 현재완료 has visited를 바르게 고치기’로 바꿨고, 밑줄 친 동사 한 곳만 판단하는 판단 한 번이며, 읽을 양은 26낱말(원문항 24, 1.08배), 어휘는 island·visit 수준이다. 밑줄 친 has visited가 원문항 ⑤ has been과 같은 오답 역할을 하고, 보기의 오답은 원문항과 같은 짜임으로 가장 강한 함정인 가정법 과거(visited, 원문항 ① was), 직설법 현재(visits, 원문항 ② is), 주어와 수가 맞지 않는 visit(원문항 ③ am), B~F 오답과 같은 would 형태(would visit)다.",
+  "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "가정법: Mia writes about the island as if she <u>has visited</u> it before.\n직설법: In fact, she has never visited it.",
+  "c": [
+   "had visited",
+   "visited",
+   "visits",
+   "would visit",
+   "visit"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "2-122",
+  "variant": 2,
+  "ref_format": "가정법·직설법 두 문장을 보고 as if 뒤 빈칸에 알맞은 동사 형태 고르기(낱말 보기 5개)",
+  "new_format": "사실과 ‘마치 전에 ~해 본 것처럼’이 드러난 우리말과 뜻이 같도록 영어 문장의 as if 뒤 빈칸에 알맞은 동사 형태 고르기(낱말 보기 5개)",
+  "design": "주절보다 앞선 일을 사실과 반대로 가정할 때 as if 뒤에 가정법 과거완료(had + 과거분사)를 쓴다는 같은 규칙을, 가정법·직설법 두 문장 대신 우리말 뜻에 맞게 영어 문장의 빈칸을 채우는 형식으로 바꿨다. 우리말과 영어 문장 모두에 사실(올라 본 적이 없는데도 / has never climbed)과 앞선 때(전에 / before)가 드러나 있어 정답이 우리말 어미가 아니라 사실·시간 관계로만 정해지고, 빈칸 한 곳만 판단하며, 읽을 양은 25낱말(원문항 24, 1.04배), 어휘는 climb·mountain 수준이다. 오답은 원문항과 같은 짜임으로 가장 강한 함정인 가정법 과거(climbed, 원문항 ① was), 사실과 어긋나는 현재완료(has climbed, 원문항 ⑤ has been), 직설법 현재(climbs, 원문항 ② is), B~F 오답과 같은 would 형태(would climb)다.",
+  "stem": "다음 우리말과 뜻이 같도록 할 때, 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "지우는 그 산에 올라 본 적이 없는데도 마치 전에 올라 본 것처럼 우리에게 그 산 이야기를 한다.\n→ Jiwoo has never climbed the mountain, but he tells us about it as if he _______ it before.",
+  "c": [
+   "climbed",
+   "had climbed",
+   "has climbed",
+   "climbs",
+   "would climb"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "2-122",
+  "variant": 3,
+  "ref_format": "가정법·직설법 두 문장을 보고 as if 뒤 빈칸에 알맞은 동사 형태 고르기(낱말 보기 5개)",
+  "new_format": "짧은 대화에서 사실을 확인하고 대답 속 as if 뒤 빈칸에 알맞은 말 고르기(낱말 보기 5개)",
+  "design": "주절보다 앞선 일을 사실과 반대로 가정할 때 as if 뒤에 had + 과거분사를 쓴다는 같은 규칙을, 가정법·직설법 두 문장 대신 짧은 대화(A의 질문에 B가 No, he didn’t로 사실을 밝힘) 속 빈칸으로 바꿨다. 대화에서 사실을 확인한 뒤 빈칸 한 곳을 판단하는 판단 한 번, 읽을 양 31낱말(원문항 24, 1.29배), 어휘는 pizza place·food 수준이다. 오답은 원문항과 같은 짜임으로 가정법 과거(ate), 사실과 어긋나는 현재완료(has eaten), 직설법 현재(eats)와 B~F 오답과 같은 would 형태(would eat)다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Did Sam eat at the new pizza place?\nB: No, he didn't. But he talks about the food as if he _______ there.",
+  "c": [
+   "ate",
+   "has eaten",
+   "had eaten",
+   "eats",
+   "would eat"
+  ],
+  "ans": 3
+ }
+]

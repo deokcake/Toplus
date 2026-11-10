@@ -1,0 +1,241 @@
+[
+ {
+  "key": "3-1",
+  "variant": 1,
+  "stem": "다음 중 어법상 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "I am very hungry.",
+   "My cat is black.",
+   "You are so kind.",
+   "My brothers is tall.",
+   "We are at home."
+  ],
+  "ans": 4,
+  "new_format": "아주 짧은 문장 다섯 개 중 be동사가 어법상 틀린 것 고르기"
+ },
+ {
+  "key": "3-1",
+  "variant": 2,
+  "ref_format": "두 문장의 빈칸에 들어갈 be동사 현재형 짝 고르기(am - are)",
+  "new_format": "두 문장의 빈칸에 공통으로 들어갈 be동사 하나 고르기(낱말 보기, 시간 표현 없음)",
+  "design": "be동사는 주어에 따라 달라진다(I - am/was, 3인칭 단수 - is/was)는 주어 일치 규칙을 확인한다. 짝 고르기를 두 문장에 공통으로 들어갈 낱말 하나 고르기로 바꾸고 시간 표현을 넣지 않아 시제가 아니라 두 주어(I, My brother Minho)만으로 답이 정해지게 했으며, 한 문장만 보면 답이 둘(am·was 또는 is·was) 남아 원문항처럼 주어 두 개를 모두 판단해야 한다. 읽을 양은 16낱말(원문항 16), 어휘는 thirsty·soccer game 수준이고, 오답은 I에만 맞는 am, 3인칭 단수에만 맞는 is, 두 주어 모두와 맞지 않는 are·were로 모두 주어 일치 규칙으로 지워진다.",
+  "stem": "다음 두 문장의 빈칸에 공통으로 들어갈 말을 고르시오.",
+  "passage": "I _______ thirsty after the soccer game.\nMy brother Minho _______ thirsty, too.",
+  "c": [
+   "am",
+   "is",
+   "are",
+   "were",
+   "was"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "3-1",
+  "variant": 3,
+  "stem": "다음 중 빈칸에 들어갈 be동사가 나머지 넷과 다른 것은?",
+  "passage": "",
+  "c": [
+   "My parents _______ busy.",
+   "The soup _______ hot.",
+   "You _______ late again.",
+   "We _______ in the library.",
+   "The dogs _______ very big."
+  ],
+  "ans": 2,
+  "new_format": "빈칸 다섯 개 중 들어갈 be동사가 나머지 넷과 다른 문장 고르기"
+ },
+ {
+  "key": "3-2",
+  "variant": 1,
+  "ref_format": "시간 표현이 있는 서술문의 빈칸에 알맞은 There + be동사 표현 고르기",
+  "new_format": "짧은 대화 속 There 뒤 빈칸에 알맞은 be동사 한 낱말 고르기",
+  "design": "There is/are, There was/were의 be동사는 시제와 뒤에 오는 명사의 수에 맞춘다는 규칙을 확인한다. 서술문 빈칸을 짧은 대화 속 빈칸으로 바꾸고 보기를 be동사 한 낱말로 줄였으며, 판단은 원문항처럼 시제(did ~ yesterday → 과거; 지문에 정답 낱말이 나오지 않음)와 뒤의 명사(many baby animals, 규칙 복수) 두 가지를 보는 빈칸 하나다. 읽을 양은 20낱말(원문항 17), 어휘는 zoo·baby animals 수준이고, 오답은 수가 틀린 was, 시제가 틀린 is·are, ‘있었다’를 have로 옮기는 실수인 had다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: What did you see at the zoo yesterday, Somin?\nB: There _______ many baby animals.",
+  "c": [
+   "is",
+   "were",
+   "are",
+   "was",
+   "had"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "3-2",
+  "variant": 2,
+  "ref_format": "시간 표현이 있는 서술문의 빈칸에 알맞은 There + be동사 표현 고르기",
+  "new_format": "우리말에 맞게 부정문의 빈칸에 알맞은 There + be동사 부정형 고르기(시제는 우리말에서 읽음)",
+  "design": "There was/were의 be동사를 시제와 뒤의 명사의 수에 맞추는 규칙을 그대로 확인한다. 긍정문 빈칸을 우리말이 주어진 부정문 빈칸으로 바꾸고 영어 문장에서 시간 표현을 빼서, 시제(없었다 → 과거)는 우리말에서, 수(any eggs, 복수)는 영어 문장에서 읽게 했으며 판단은 빈칸 하나에서 시제·수 두 가지를 보는 것으로 원문항과 같다. 읽을 양은 17낱말(원문항 17), 어휘는 egg·fridge·breakfast 수준이고, 오답은 수가 틀린 wasn't, 시제가 틀린 isn't·aren't, 과거 부정에 didn't를 붙이는 실수인 didn't다.",
+  "stem": "다음 우리말을 영어로 옮길 때 빈칸에 알맞은 것을 고르시오.",
+  "passage": "아침으로 먹을 달걀이 냉장고에 하나도 없었다.\n_______ any eggs in the fridge for breakfast.",
+  "c": [
+   "There isn't",
+   "There aren't",
+   "There weren't",
+   "There wasn't",
+   "There didn't"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "3-2",
+  "variant": 3,
+  "ref_format": "시간 표현이 있는 서술문의 빈칸에 알맞은 There + be동사 표현 고르기",
+  "new_format": "틀린 문장의 밑줄 친 There + be동사를 바르게 고친 것 고르기",
+  "design": "There + be동사의 be동사를 시제와 뒤에 오는 명사의 수에 맞춘다는 규칙을 확인한다. 빈칸 채우기를 틀린 문장의 밑줄 친 There is를 바르게 고친 것 고르기로 바꾸고 시간 표현(last weekend)을 문장 끝에 두었으며, 판단은 밑줄 한 곳에서 시제(과거)와 수(many kids, 규칙 복수)를 보는 것으로 원문항과 같다. 읽을 양은 19낱말(원문항 17), 어휘는 kid·beach 수준이고, 오답은 시제가 틀린 There are, 수가 틀린 There was, ‘있다’를 have로 옮기는 실수인 There has·There had다.",
+  "stem": "다음 문장의 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "<u>There is</u> many kids at the beach last weekend.",
+  "c": [
+   "There are",
+   "There was",
+   "There has",
+   "There were",
+   "There had"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "3-11",
+  "variant": 1,
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "소라는 어젯밤 파티에 오지 않았다.",
+  "c": [
+   "Sora didn't come to the party last night.",
+   "Sora didn't came to the party last night.",
+   "Sora doesn't come to the party last night.",
+   "Sora wasn't come to the party last night.",
+   "Sora not came to the party last night."
+  ],
+  "ans": 1,
+  "new_format": "우리말을 영어로 바르게 옮긴 과거 부정문 고르기"
+ },
+ {
+  "key": "3-11",
+  "variant": 2,
+  "ref_format": "긍정문을 과거 부정문으로 바르게 바꾼 문장 고르기",
+  "new_format": "조동사 없이 not만 쓴 틀린 과거 부정문을 어법에 맞게 고친 문장 고르기",
+  "design": "일반동사 과거 부정문은 주어와 관계없이 ‘didn't + 동사원형’이라는 규칙을 확인한다. 긍정문을 부정문으로 바꾸는 대신 조동사 없이 not만 쓴 틀린 문장(not took)을 바르게 고친 것 고르기로 바꿨고, 원문항의 대표 함정인 didn't 뒤 과거형(didn't took)을 보기에 남겨 조동사와 동사 형태 두 가지를 판단하는 무게가 원문항과 같다. 읽을 양은 42낱말(원문항 35, 1.2배), 어휘는 bus·Monday 수준이고, 오답은 didn't took, 현재 부정 doesn't take, be동사 wasn't take, -ing를 쓴 didn't taking으로 각각 한 군데만 틀렸다.",
+  "stem": "다음 문장을 어법에 맞게 고친 것으로 알맞은 것을 고르시오.",
+  "passage": "Yuna not took the bus last Monday.",
+  "c": [
+   "Yuna didn't took the bus last Monday.",
+   "Yuna doesn't take the bus last Monday.",
+   "Yuna didn't take the bus last Monday.",
+   "Yuna wasn't take the bus last Monday.",
+   "Yuna didn't taking the bus last Monday."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "3-11",
+  "variant": 3,
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: How was the math test?\nB: Not good. _______",
+  "c": [
+   "I didn't studying hard for it.",
+   "I didn't studied hard for it.",
+   "I wasn't study hard for it.",
+   "I didn't study hard for it.",
+   "I not studied hard for it."
+  ],
+  "ans": 4,
+  "new_format": "짧은 대화의 빈칸에 알맞은 대답(과거 부정문) 고르기"
+ },
+ {
+  "key": "3-12",
+  "variant": 1,
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: _______\nB: Yes. She has two dogs at home.",
+  "c": [
+   "Do Yuri like dogs?",
+   "Does Yuri likes dogs?",
+   "Is Yuri like dogs?",
+   "Does Yuri liking dogs?",
+   "Does Yuri like dogs?"
+  ],
+  "ans": 5,
+  "new_format": "짧은 대화에서 대답에 알맞은 질문(Does 의문문) 고르기"
+ },
+ {
+  "key": "3-12",
+  "variant": 2,
+  "stem": "다음 중 어법상 옳은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Does your brother cook dinner?",
+   "Do Jiho like math class?",
+   "Does she speaks English well?",
+   "Is Minsu play the guitar?",
+   "Does the baby crying a lot?"
+  ],
+  "ans": 1,
+  "new_format": "서로 다른 의문문 다섯 개 중 어법상 옳은 것 고르기"
+ },
+ {
+  "key": "3-12",
+  "variant": 3,
+  "ref_format": "평서문을 현재 의문문으로 바르게 바꾼 문장 고르기",
+  "new_format": "be동사로 시작한 틀린 의문문의 밑줄 친 부분을 바르게 고친 것 고르기(구 보기)",
+  "design": "3인칭 단수 주어의 현재 의문문은 ‘Does + 주어 + 동사원형’이라는 규칙을 확인한다. 문장 전환을 be동사로 시작한 틀린 의문문(Is your sister ride)의 밑줄 친 부분을 바르게 고친 것 고르기로 바꿨고, 밑줄 범위와 보기가 바꾸는 범위를 같게 해 원문항처럼 조동사(Do/Does)와 동사 형태 두 가지를 판단하게 했다. 읽을 양은 26낱말(원문항 23), 어휘는 sister·bike 수준이고, 오답은 원문항의 함정과 같은 3인칭 단수에 Do를 쓴 것, Does 뒤에 -s를 남긴 것, -ing를 쓴 것과 과거형 rode를 쓴 것이다.",
+  "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "<u>Is your sister ride</u> a bike?",
+  "c": [
+   "Does your sister rides",
+   "Does your sister ride",
+   "Do your sister ride",
+   "Does your sister riding",
+   "Does your sister rode"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "3-21",
+  "variant": 1,
+  "stem": "다음 우리말에 맞게 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "가게에서 물 한 병을 사자.\nLet's buy <u>a cup of</u> water at the store.",
+  "c": [
+   "a bowl of",
+   "a pair of",
+   "a glass of",
+   "a bottle of",
+   "a piece of"
+  ],
+  "ans": 4,
+  "new_format": "우리말에 맞게 밑줄 친 단위 표현을 바르게 고친 것 고르기"
+ },
+ {
+  "key": "3-21",
+  "variant": 2,
+  "ref_format": "우리말에 맞게 빈칸에 알맞은 단위 표현(a ~ of) 고르기",
+  "new_format": "우리말이 주어진 짧은 대화의 빈칸에 알맞은 단위 낱말(복수형) 고르기",
+  "design": "셀 수 없는 명사 rice는 ‘그릇’ 단위 bowl로 센다는 단위 표현 규칙을 확인한다. 서술문 빈칸을 우리말이 함께 주어진 짧은 대화의 빈칸으로 바꾸고 보기를 단위 낱말 하나로 줄여(모두 복수형이라 복수형 여부는 판단 대상이 아님), 판단은 ‘그릇’에 맞는 단위 하나를 고르는 것으로 원문항과 같다. 읽을 양은 22낱말(원문항 19), 어휘는 lunch·rice 수준이고, 오답은 원문항처럼 rice에 쓸 수는 있지만 ‘그릇’이 아닌 cups·bags 둘과, 마실 것에 쓰는 glasses·얇게 썬 것에 쓰는 slices 둘이다.",
+  "stem": "다음 대화에서 우리말에 맞게 빈칸에 들어갈 말을 고르시오.",
+  "passage": "A: What did you have for lunch, Junho?\nB: I had two _______ of rice and a banana.\n(밥 두 그릇과 바나나 하나를 먹었어.)",
+  "c": [
+   "glasses",
+   "bags",
+   "slices",
+   "cups",
+   "bowls"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "3-21",
+  "variant": 3,
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "차 한 잔 주세요.",
+  "c": [
+   "A cup of tea, please.",
+   "A bowl of tea, please.",
+   "A bottle of tea, please.",
+   "A slice of tea, please.",
+   "A piece of tea, please."
+  ],
+  "ans": 1,
+  "new_format": "우리말을 영어로 바르게 옮긴 문장 고르기(단위 표현 자리만 다른 짧은 문장 보기)"
+ }
+]

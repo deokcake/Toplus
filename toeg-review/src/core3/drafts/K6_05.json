@@ -1,0 +1,104 @@
+[
+ {
+  "key": "6-101",
+  "variant": 1,
+  "ref_format": "우리말 힌트가 있는 빈칸에 알맞은 동사 형태(낱말) 고르기",
+  "new_format": "우리말 힌트가 있는 문장에서 밑줄 친 동사를 바르게 고친 것 고르기",
+  "design": "명령문은 주어 없이 동사원형으로 시작한다는 핵심 규칙을 그대로 확인한다. 원문항의 빈칸을 ‘밑줄 친 부분 바르게 고치기’로 바꿨고, 우리말 ‘닦아라’로 시키는 말임을 알려 주는 점은 원문항과 같다. 판단은 한 군데(첫 낱말의 형태)이고 보기 다섯 형태를 보는 것도 같으며 읽을 양은 12낱말(원문항 8낱말 + 4), 어휘는 brush·teeth·dinner 수준이다. 오답은 -ing형, to부정사, 과거형, Does를 붙인 형태로 원문항·B~E와 같은 유형이다.",
+  "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "<u>Brushes</u> your teeth after dinner.\n(저녁 먹고 나서 이를 닦아라.)",
+  "c": [
+   "Brushing",
+   "Brush",
+   "To brush",
+   "Brushed",
+   "Does brush"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "6-101",
+  "variant": 2,
+  "ref_format": "우리말 힌트가 있는 빈칸에 알맞은 동사 형태(낱말) 고르기",
+  "new_format": "두세 낱말짜리 짧은 문장 다섯 개 중 어법상 옳은 명령문 고르기",
+  "design": "명령문의 첫 낱말은 동사원형이라는 핵심 규칙을 확인한다. 낱말 보기 대신 두세 낱말짜리 명령문 다섯 개를 주고 어법상 옳은 하나를 고르게 했으며, 보기마다 판단할 곳은 첫 낱말 하나뿐이라 보기 다섯 형태를 훑는 원문항과 판단 개수가 같다. 읽을 양은 13낱말(원문항 8낱말 + 5), 어휘는 sit·look·wait·clean·walk 수준이다. 오답은 -s형(Sits), -ing형(Looking), to부정사(To wait), 과거형(Walked)으로 시작한 문장으로 각각 한 군데만 틀리다.",
+  "stem": "다음 중 어법상 옳은 명령문을 고르시오.",
+  "passage": "",
+  "c": [
+   "Sits down.",
+   "Looking at me.",
+   "To wait here.",
+   "Clean your desk.",
+   "Walked slowly."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "6-101",
+  "variant": 3,
+  "ref_format": "우리말 힌트가 있는 빈칸에 알맞은 동사 형태(낱말) 고르기",
+  "new_format": "짧은 대화의 빈칸에 알맞은 동사 형태 고르기",
+  "design": "명령문은 동사원형으로 시작한다는 핵심 규칙을 짧은 대화의 빈칸으로 확인한다. 시키는 말(씻으렴)이라 명령문임을 우리말로 알려 주는 것은 원문항과 같고, 판단은 빈칸 한 군데·보기 다섯 형태로 같다. 읽을 양은 13낱말(원문항 8낱말 + 5, A·B 표시 포함), 어휘는 hungry·wash·hands·first 수준이다. 오답은 -ing형, -s형, to부정사, 과거형으로 원문항과 같은 유형이다.",
+  "stem": "다음 대화의 빈칸에 알맞은 것을 고르시오.",
+  "passage": "A: I'm hungry.\nB: _______ your hands first. (먼저 손을 씻으렴.)",
+  "c": [
+   "Washing",
+   "Washes",
+   "To wash",
+   "Washed",
+   "Wash"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "6-102",
+  "variant": 1,
+  "ref_format": "Don't 뒤 빈칸에 들어갈 수 없는 동사구 고르기",
+  "new_format": "부정 명령문 다섯 개 중 밑줄 친 동사가 어법상 틀린 것 고르기",
+  "design": "부정 명령문은 Don't + 동사원형이며 be동사도 원형 be를 쓴다는 핵심 규칙을 그대로 확인한다. 원문항의 ‘Don't 뒤에 들어갈 수 없는 것’을 완성된 부정 명령문 다섯 개에서 밑줄 친 동사가 틀린 것 고르기로 바꿨고, 보기마다 첫 동사 하나만 보면 되므로 판단 개수는 원문항(보기 다섯 개 훑기)과 같다. 읽을 양은 17낱말(원문항 13낱말의 1.3배), 어휘는 loud·cake·lazy·box 수준이다. 정답은 Don't 뒤에 are를 쓴 문장이고, 나머지 넷은 동사원형 touch·run·open과 be동사 원형 be로 모두 옳으며 be가 원문항과 같은 함정 노릇을 한다.",
+  "stem": "다음 중 밑줄 친 부분이 어법상 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Don't <u>are</u> loud.",
+   "Don't <u>touch</u> the cake.",
+   "Don't <u>be</u> lazy.",
+   "Don't <u>run</u> here.",
+   "Don't <u>open</u> the box."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "6-102",
+  "variant": 2,
+  "ref_format": "Don't 뒤 빈칸에 들어갈 수 없는 동사구 고르기",
+  "new_format": "우리말을 영어 부정 명령문으로 바르게 옮긴 것 고르기",
+  "design": "Don't 뒤에는 동사원형이 오고 be동사는 be로 쓴다는 핵심 규칙을 우리말 옮기기로 확인한다. 같은 뜻의 영어 문장 다섯 개 가운데 Don't 뒤의 형태만 다르므로 판단할 곳은 보기마다 한 군데, 모두 다섯 번으로 원문항과 같다. 읽을 양은 15낱말(원문항 13낱말의 1.2배), 어휘는 angry 하나뿐이다. 오답은 be를 빠뜨린 것(Don't angry), be동사를 is로 쓴 것, -ing형(being), to부정사(to be)로 학생이 실제로 쓰는 형태이며 각각 한 군데만 틀리다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "화내지 마.",
+  "c": [
+   "Don't angry.",
+   "Don't be angry.",
+   "Don't is angry.",
+   "Don't being angry.",
+   "Don't to be angry."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "6-102",
+  "variant": 3,
+  "ref_format": "Don't 뒤 빈칸에 들어갈 수 없는 동사구 고르기",
+  "new_format": "짧은 대화에서 Don't 뒤 빈칸에 알맞은 be동사 형태 고르기",
+  "design": "부정 명령문에서 Don't 뒤의 be동사는 원형 be라는, 원문항의 정답을 가른 바로 그 규칙을 대화 빈칸으로 확인한다. 빈칸 한 군데에 be동사 형태 다섯 개를 대 보는 것이므로 판단 개수는 원문항(보기 다섯 개 훑기)과 같고, 읽을 양은 17낱말(원문항 13낱말의 1.3배, A·B 표시 포함), 어휘는 dog·scared·people 수준이다. 오답은 주어 you를 떠올려 쓰는 are, 3인칭 is, -ing형 being, to부정사 to be로 원문항·B~F에 쓰인 오답 유형과 같다.",
+  "stem": "다음 대화의 빈칸에 알맞은 것을 고르시오.",
+  "passage": "A: Look at that dog!\nB: Don't _______ scared. He likes people.",
+  "c": [
+   "are",
+   "being",
+   "is",
+   "be",
+   "to be"
+  ],
+  "ans": 4
+ }
+]

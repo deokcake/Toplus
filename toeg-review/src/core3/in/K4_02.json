@@ -1,0 +1,442 @@
+[
+ {
+  "key": "4-22",
+  "grade": 4,
+  "no": 22,
+  "chapter": "CH 3",
+  "chapter_name": "be동사와 일반동사",
+  "ref": {
+   "stem": "빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+   "passage": "- The book _____ on the table.\n- My friends _____ at school.",
+   "c": [
+    "is - are",
+    "is - is",
+    "are - are",
+    "are - is",
+    "am - are"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: be동사의 현재형: I am, you/we/they(복수 주어) are, he/she/it(단수 주어) is.\n풀이 순서: ① 첫 문장의 주어를 본다: The book은 단수이므로 is. → ② 둘째 문장의 주어를 본다: My friends는 복수이므로 are. → ③ 정답은 is - are.\n문장별 판정:\n정답 판단: 단수 주어 The book에는 is, 복수 주어 My friends에는 are를 쓰므로 정답은 ①이다.\n선택지 분석:\n① [정답] 단수 주어 The book에는 is, 복수 주어 My friends에는 are를 쓰므로 정답이다.\n② [오답] 복수 주어 My friends에는 is를 쓸 수 없으므로 오답이다.\n③ [오답] 단수 주어 The book에는 are를 쓸 수 없으므로 오답이다.\n④ [오답] 두 자리를 반대로 썼으므로 오답이다.\n⑤ [오답] am은 주어가 I일 때만 쓰므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "- I _____ very hungry after the long soccer practice.\n- Tom _____ at home with his little brother now.",
+    "c": [
+     "are - is",
+     "is - is",
+     "is - am",
+     "am - are",
+     "am - is"
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "- Mom and Dad _____ in the kitchen right now.\n- The weather _____ nice today for a picnic.",
+    "c": [
+     "is - is",
+     "are - is",
+     "are - are",
+     "am - is",
+     "is - are"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "- They _____ new students in our class.\n- The dog in the garden _____ very cute.",
+    "c": [
+     "is - is",
+     "is - am",
+     "are - is",
+     "am - are",
+     "am - is"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "- We _____ ready for the big test tomorrow.\n- Jane _____ busy with her homework now.",
+    "c": [
+     "is - is",
+     "are - are",
+     "are - is",
+     "is - am",
+     "am - are"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "- You _____ always kind to your classmates.\n- The boys on the playground _____ happy.",
+    "c": [
+     "are - are",
+     "am - are",
+     "is - am",
+     "are - is",
+     "is - is"
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   4,
+   5,
+   2
+  ]
+ },
+ {
+  "key": "4-31",
+  "grade": 4,
+  "no": 31,
+  "chapter": "CH 4",
+  "chapter_name": "시제Ⅰ",
+  "ref": {
+   "stem": "다음 중 과거 시제 문장이 아닌 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "He plays tennis every weekend.",
+    "She walked to the park yesterday.",
+    "They were at the beach last summer.",
+    "I watched a football match last night.",
+    "We went shopping last week."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 과거 시제 문장은 동사의 과거형(-ed, 불규칙 과거형, was/were)을 쓴다. 현재형(동사원형, -(e)s)은 현재의 상태·습관을 나타낸다.\n풀이 순서: ① 문장마다 동사의 형태만 본다. → ② 과거형(-ed, 불규칙 과거형, was/were)인 문장을 지운다. → ③ plays는 현재형이다. every weekend(주말마다)도 현재의 습관을 나타낸다. 정답은 ①.\n문장별 판정:\n정답 판단: plays는 현재형이고 every weekend도 현재의 습관을 나타내므로 정답은 ①이다.\n선택지 분석:\n① [정답] plays는 현재형이고 every weekend도 현재의 습관을 나타내므로 정답이다.\n② [오답] walked는 과거형이므로 오답이다.\n③ [오답] were는 be동사의 과거형이므로 오답이다.\n④ [오답] watched는 과거형이므로 오답이다.\n⑤ [오답] went는 go의 과거형이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 과거 시제 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "They played soccer after school.",
+     "He cleaned his room yesterday.",
+     "We were tired last night.",
+     "Tom went to school by bus.",
+     "She studies English every day."
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "다음 중 과거 시제 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Minsu cleaned his room last Sunday.",
+     "We were late for school yesterday.",
+     "My dad cooks dinner on weekends.",
+     "She took a picture of the sea.",
+     "They left the house an hour ago."
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 중 과거 시제 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Tom played soccer with his friends.",
+     "They go to school by bus.",
+     "We studied math last night.",
+     "Jane was at home yesterday.",
+     "I met my uncle last week."
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 중 과거 시제 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "I read an interesting book yesterday.",
+     "They were very busy last week.",
+     "Jane went home early after school.",
+     "Tom watches TV after dinner every night.",
+     "We had lunch at noon yesterday."
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 중 과거 시제 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Jane bought a bag last month.",
+     "They saw a movie yesterday.",
+     "We visit grandma on Sundays.",
+     "I called my friend last night.",
+     "Tom was tired after the game."
+    ],
+    "ans": 3
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "key": "4-32",
+  "grade": 4,
+  "no": 32,
+  "chapter": "CH 4",
+  "chapter_name": "시제Ⅰ",
+  "ref": {
+   "stem": "빈칸에 들어갈 동사 ‘go’의 알맞은 형태를 고르시오.",
+   "passage": "We _____ to the new restaurant last Friday.",
+   "c": [
+    "goes",
+    "went",
+    "go",
+    "going",
+    "will go"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: last Friday, yesterday, ~ ago처럼 과거의 때를 나타내는 말이 있으면 동사를 과거형으로 쓴다. go - went, eat - ate, buy - bought, see - saw, write - wrote.\n풀이 순서: ① 문장에서 때를 나타내는 말을 찾는다: last Friday(지난 금요일). → ② 과거의 일이므로 동사의 과거형을 쓴다: go의 과거형은 went. → ③ 정답은 went.\n문장별 판정:\n정답 판단: last Friday가 있어 go의 과거형 went가 알맞으므로 정답은 ②이다.\n선택지 분석:\n① [오답] goes는 현재형이므로 오답이다.\n② [정답] last Friday가 있어 go의 과거형 went가 알맞으므로 정답이다.\n③ [오답] go는 현재형이므로 오답이다.\n④ [오답] going만으로는 동사 자리를 채울 수 없으므로 오답이다.\n⑤ [오답] will go는 미래이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "빈칸에 들어갈 동사 ‘eat’의 알맞은 형태를 고르시오.",
+    "passage": "They _____ lunch at noon yesterday.",
+    "c": [
+     "eats",
+     "eat",
+     "ate",
+     "eating",
+     "will eat"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "빈칸에 들어갈 동사 ‘go’의 알맞은 형태를 고르시오.",
+    "passage": "My family _____ to the beach last summer.",
+    "c": [
+     "goes",
+     "go",
+     "going",
+     "went",
+     "will go"
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "빈칸에 들어갈 동사 ‘buy’의 알맞은 형태를 고르시오.",
+    "passage": "She _____ a new bag at the mall yesterday.",
+    "c": [
+     "buys",
+     "buy",
+     "buying",
+     "will buy",
+     "bought"
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "빈칸에 들어갈 동사 ‘see’의 알맞은 형태를 고르시오.",
+    "passage": "Tom _____ a funny movie with his friends last night.",
+    "c": [
+     "saw",
+     "sees",
+     "see",
+     "seeing",
+     "will see"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "빈칸에 들어갈 동사 ‘write’의 알맞은 형태를 고르시오.",
+    "passage": "I _____ a letter to my grandma two days ago.",
+    "c": [
+     "writes",
+     "wrote",
+     "write",
+     "writing",
+     "will write"
+    ],
+    "ans": 2
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   1,
+   3,
+   4
+  ]
+ },
+ {
+  "key": "4-41",
+  "grade": 4,
+  "no": 41,
+  "chapter": "CH 5",
+  "chapter_name": "시제Ⅱ",
+  "ref": {
+   "stem": "다음 문장에서 not이 들어갈 위치로 알맞은 것을 고르시오.",
+   "passage": "나는 오늘 오후에 파이를 굽지 않을 것이다.\nI ① will ② bake ③ a pie ④ this afternoon ⑤.",
+   "c": [
+    "①",
+    "②",
+    "③",
+    "④",
+    "⑤"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: will의 부정은 will not + 동사원형, be going to의 부정은 be동사 + not + going to + 동사원형이다.\n풀이 순서: ① 미래의 부정문을 만든다. will이 있으면 will 바로 뒤에, be going to이면 be동사 바로 뒤에 not을 넣는다. → ② will 뒤, bake 앞이 not의 자리다: will not bake. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: will 뒤, 동사원형 bake 앞에 not을 넣어 will not bake가 되므로 정답은 ②이다.\n선택지 분석:\n① [오답] not은 will 앞이 아니라 뒤에 오므로 오답이다.\n② [정답] will 뒤, 동사원형 bake 앞에 not을 넣어 will not bake가 되므로 정답이다.\n③ [오답] 동사 bake 뒤에는 not을 넣을 수 없으므로 오답이다.\n④ [오답] 목적어 a pie 뒤에는 not을 넣을 수 없으므로 오답이다.\n⑤ [오답] 문장 끝에는 not을 넣을 수 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 문장에서 not이 들어갈 위치로 알맞은 것을 고르시오.",
+    "passage": "그녀는 이번 주말에 이모를 방문하지 않을 것이다.\nShe ① is ② going ③ to ④ visit ⑤ her aunt this weekend.",
+    "c": [
+     "①",
+     "②",
+     "③",
+     "④",
+     "⑤"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 문장에서 not이 들어갈 위치로 알맞은 것을 고르시오.",
+    "passage": "우리는 오늘 밤 저녁을 요리하지 않을 것이다.\n① We ② will ③ cook ④ dinner ⑤ tonight.",
+    "c": [
+     "①",
+     "②",
+     "③",
+     "④",
+     "⑤"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 문장에서 not이 들어갈 위치로 알맞은 것을 고르시오.",
+    "passage": "그들은 오늘 밤 집에 없을 것이다.\nThey will ① be ② at ③ home ④ tonight ⑤.",
+    "c": [
+     "①",
+     "②",
+     "③",
+     "④",
+     "⑤"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 문장에서 not이 들어갈 위치로 알맞은 것을 고르시오.",
+    "passage": "내 여동생과 나는 쇼핑하러 가지 않을 것이다.\nMy ① sister ② and I ③ are ④ going ⑤ to go shopping.",
+    "c": [
+     "①",
+     "②",
+     "③",
+     "④",
+     "⑤"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 문장에서 not이 들어갈 위치로 알맞은 것을 고르시오.",
+    "passage": "이번 여름에 우리 가족은 캠핑을 가지 않을 것이다.\nThis ① summer, ② our ③ family ④ will ⑤ go camping.",
+    "c": [
+     "①",
+     "②",
+     "③",
+     "④",
+     "⑤"
+    ],
+    "ans": 5
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   5,
+   1,
+   3
+  ]
+ },
+ {
+  "key": "4-42",
+  "grade": 4,
+  "no": 42,
+  "chapter": "CH 5",
+  "chapter_name": "시제Ⅱ",
+  "ref": {
+   "stem": "다음 문장을 부정문으로 바르게 바꾼 것을 고르시오.",
+   "passage": "She is going to study for her exams.",
+   "c": [
+    "She not going to study for her exams.",
+    "She does not going to study for her exams.",
+    "She is not going to study for her exams.",
+    "She will is not going to study for her exams.",
+    "She isn't go to study for her exams."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: be going to의 부정문은 be동사 바로 뒤에 not을 넣는다: be + not + going to + 동사원형.\n풀이 순서: ① be going to 문장의 부정은 be동사(is) 바로 뒤에 not을 넣는다. → ② 나머지(going to + 동사원형)는 그대로 둔다: is not going to study. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: be동사 is 뒤에 not을 바르게 넣었으므로 정답은 ③이다.\n선택지 분석:\n① [오답] be동사 is가 빠졌으므로 오답이다.\n② [오답] be going to는 does로 부정하지 않으므로 오답이다.\n③ [정답] be동사 is 뒤에 not을 바르게 넣었으므로 정답이다.\n④ [오답] will과 be going to를 겹쳐 쓸 수 없으므로 오답이다.\n⑤ [오답] going을 go로 바꿀 수 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 문장을 부정문으로 바르게 바꾼 것을 고르시오.",
+    "passage": "Tom is going to visit his uncle.",
+    "c": [
+     "Tom is not going to visit his uncle.",
+     "Tom is not go to visit his uncle.",
+     "Tom not is going to visit his uncle.",
+     "Tom does not going to visit his uncle.",
+     "Tom will is not going to visit his uncle."
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 문장을 부정문으로 바르게 바꾼 것을 고르시오.",
+    "passage": "Mina is going to join the club.",
+    "c": [
+     "Mina is not go to join the club.",
+     "Mina does not going to join the club.",
+     "Mina not is going to join the club.",
+     "Mina will is not going to join the club.",
+     "Mina is not going to join the club."
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 문장을 부정문으로 바르게 바꾼 것을 고르시오.",
+    "passage": "They are going to play soccer after school.",
+    "c": [
+     "They do not going to play soccer after school.",
+     "They are not going to play soccer after school.",
+     "They will are not going to play soccer after school.",
+     "They are not go to play soccer after school.",
+     "They not are going to play soccer after school."
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 문장을 부정문으로 바르게 바꾼 것을 고르시오.",
+    "passage": "I am going to buy a new bag for school.",
+    "c": [
+     "I am not go to buy a new bag for school.",
+     "I will am not going to buy a new bag for school.",
+     "I not am going to buy a new bag for school.",
+     "I am not going to buy a new bag for school.",
+     "I do not going to buy a new bag for school."
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 문장을 부정문으로 바르게 바꾼 것을 고르시오.",
+    "passage": "We are going to leave home early tomorrow.",
+    "c": [
+     "We are not going to leave home early tomorrow.",
+     "We are not go to leave home early tomorrow.",
+     "We not are going to leave home early tomorrow.",
+     "We will are not going to leave home early tomorrow.",
+     "We do not going to leave home early tomorrow."
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   4,
+   5,
+   1
+  ]
+ }
+]

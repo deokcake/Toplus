@@ -1,0 +1,464 @@
+[
+ {
+  "key": "2-1",
+  "grade": 2,
+  "no": 1,
+  "chapter": "CH 1",
+  "chapter_name": "문장의 형식",
+  "ref": {
+   "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+   "passage": "The leaves turn red in fall.",
+   "c": [
+    "My sister bought a new book.",
+    "The movie seems interesting.",
+    "They arrived at the airport.",
+    "The teacher made us happy.",
+    "She gave me a present."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 2형식은 ‘주어 + 동사 + 주격 보어’다. become, turn, grow, seem, look, sound, smell, stay 같은 동사 뒤의 형용사가 주어의 상태를 설명한다.\n풀이 순서: ① 주어진 문장의 동사(turn) 뒤에 오는 형용사(red)가 주어의 상태를 설명한다. 2형식이다. → ② 보기에서 동사 뒤의 말을 본다. 목적어(명사)가 오면 3·4·5형식이고, 부사(구)만 오면 1형식이다. → ③ 선택지 ②만 ‘동사 + 형용사 보어’(seems interesting) 구조다.\n문장별 판정:\n정답 판단: seems 뒤의 형용사 interesting이 주어를 설명하는 2형식이므로 정답은 ②이다.\n선택지 분석:\n① [오답] bought 뒤에 목적어(a new book)가 오는 3형식이므로 오답이다.\n② [정답] seems 뒤의 형용사 interesting이 주어를 설명하는 2형식이므로 정답이다.\n③ [오답] arrived 뒤에 부사구만 오는 1형식이므로 오답이다.\n④ [오답] 목적어(us)와 목적격 보어(happy)가 있는 5형식이므로 오답이다.\n⑤ [오답] 간접목적어(me)와 직접목적어(a present)가 있는 4형식이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+    "passage": "The soup smells delicious.",
+    "c": [
+     "The students reached the station.",
+     "Mina bought a new camera.",
+     "Dad gave me a key.",
+     "The joke made us laugh.",
+     "The flowers look beautiful."
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+    "passage": "The sky became dark.",
+    "c": [
+     "Leo sent his friend a message.",
+     "We found the room empty.",
+     "The train arrived late.",
+     "The water turned cold.",
+     "The dog chased the ball."
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+    "passage": "Your idea sounds reasonable.",
+    "c": [
+     "They entered the building.",
+     "The plan seems practical.",
+     "The news made him angry.",
+     "I opened the window.",
+     "She gave her sister a gift."
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+    "passage": "The child grew sleepy.",
+    "c": [
+     "We painted the wall blue.",
+     "The teacher asked me a question.",
+     "The milk smells sour.",
+     "They crossed the bridge.",
+     "Sam wrote a letter."
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 주어진 문장의 형식과 같은 것을 고르시오.",
+    "passage": "The room stayed quiet.",
+    "c": [
+     "The audience remained silent.",
+     "She kept the door open.",
+     "The bus left early.",
+     "The storm damaged the roof.",
+     "I lent him some money."
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": {
+   "stem": "다음 중 주어진 문장과 형식이 다른 것은?",
+   "passage": "Grandpa looks young for his age.",
+   "c": [
+    "We always keep our classroom clean.",
+    "This pizza tastes salty.",
+    "Jiho became nervous before the test.",
+    "The street got dark after sunset.",
+    "This blanket feels soft and warm."
+   ],
+   "ans": 1
+  },
+  "target_answer_positions": [
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "key": "2-2",
+  "grade": 2,
+  "no": 2,
+  "chapter": "CH 1",
+  "chapter_name": "문장의 형식",
+  "ref": {
+   "stem": "다음 중 5형식 문장이 아닌 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "They elected him president.",
+    "We consider her honest.",
+    "The noise drove me crazy.",
+    "She painted the wall blue.",
+    "I want some pizza."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 5형식은 ‘주어 + 동사 + 목적어 + 목적격 보어’다. 목적격 보어(명사, 형용사, to부정사, 분사 등)는 목적어의 이름·상태·행동을 설명한다.\n풀이 순서: ① 문장마다 동사 뒤에 ‘목적어 + 목적어를 설명하는 말’이 이어지는지 본다. → ② 목적어 뒤의 말이 목적어의 이름·상태·행동을 나타내면 5형식이다. → ③ 선택지 ⑤는 want 뒤에 목적어 some pizza만 있는 3형식이다. 5형식이 아니다.\n문장별 판정:\n정답 판단: want 뒤에 목적어(some pizza)만 있는 3형식이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] him = president 관계의 5형식이므로 오답이다.\n② [오답] her의 성질을 honest가 설명하는 5형식이므로 오답이다.\n③ [오답] me의 상태를 crazy가 설명하는 5형식이므로 오답이다.\n④ [오답] the wall의 상태를 blue가 설명하는 5형식이므로 오답이다.\n⑤ [정답] want 뒤에 목적어(some pizza)만 있는 3형식이므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 5형식 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "They elected Jane captain.",
+     "We named the puppy Coco.",
+     "I found the lecture boring.",
+     "The news made everyone nervous.",
+     "The baby slept peacefully."
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "다음 중 5형식 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "They called the baby Mina.",
+     "The guests arrived early.",
+     "The joke made him angry.",
+     "We considered the idea useful.",
+     "She kept the window open."
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 중 5형식 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "We found the box empty.",
+     "The sun rose slowly.",
+     "The coach made us confident.",
+     "I saw the boy crossing the street.",
+     "They painted the door green."
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 중 5형식 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The movie made her sleepy.",
+     "They appointed him manager.",
+     "I want you to stay.",
+     "The train stopped suddenly.",
+     "The teacher asked us to sit down."
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 중 5형식 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "My grandparents live in Busan.",
+     "They chose Tom leader.",
+     "We heard the baby crying.",
+     "She kept the children quiet.",
+     "The cold weather made me sick."
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "key": "2-11",
+  "grade": 2,
+  "no": 11,
+  "chapter": "CH 2",
+  "chapter_name": "시제",
+  "ref": {
+   "stem": "다음 대화의 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+   "passage": "A: I _____ Mia on the street yesterday.\nB: Really? I _____ her since last summer.",
+   "c": [
+    "met — saw",
+    "met — haven't seen",
+    "met — didn't see",
+    "have met — saw",
+    "have met — haven't seen"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: yesterday처럼 끝난 과거 시점에는 과거형을 쓰고, since ~처럼 과거부터 지금까지 이어지는 기간에는 현재완료(have/has + 과거분사)를 쓴다.\n풀이 순서: ① 첫째 빈칸 문장의 시간 표현(yesterday)은 끝난 과거 시점이다. 과거형(met)을 쓰고 현재완료는 쓸 수 없다. → ② 둘째 빈칸 문장의 시간 표현(since last summer)은 과거부터 지금까지 이어지는 기간이다. 현재완료(haven't seen)를 쓴다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: yesterday에는 과거형 met, since last summer에는 현재완료 haven't seen을 쓰므로 정답은 ②이다.\n선택지 분석:\n① [오답] since last summer와 과거형 saw를 함께 쓸 수 없으므로 오답이다.\n② [정답] yesterday에는 과거형 met, since last summer에는 현재완료 haven't seen을 쓰므로 정답이다.\n③ [오답] since last summer와 과거형 didn't see를 함께 쓸 수 없으므로 오답이다.\n④ [오답] yesterday와 현재완료 have met을 함께 쓸 수 없으므로 오답이다.\n⑤ [오답] yesterday와 현재완료 have met을 함께 쓸 수 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 대화의 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "A: I _____ Jisoo at the library last Monday.\nB: Really? I _____ her since last winter.",
+    "c": [
+     "ran into — haven't talked to",
+     "ran into — didn't talk to",
+     "ran into — don't talk to",
+     "have run into — haven't talked to",
+     "have run into — didn't talk to"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 대화의 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "A: Mina _____ her phone yesterday.\nB: Oh no. She _____ that phone since middle school.",
+    "c": [
+     "has lost — has used",
+     "lost — used",
+     "lost — has used",
+     "lost — uses",
+     "has lost — used"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 대화의 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "A: We _____ the museum last April.\nB: I _____ there twice since I moved here.",
+    "c": [
+     "visited — went",
+     "have visited — have been",
+     "visited — have been",
+     "visited — go",
+     "have visited — went"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 대화의 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "A: Tom _____ a new job last month.\nB: He _____ at that company for four weeks now.",
+    "c": [
+     "started — worked",
+     "has started — has worked",
+     "started — works",
+     "started — has worked",
+     "has started — worked"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 대화의 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "A: I _____ this novel during the last vacation.\nB: Oh, I _____ that novel since I was in middle school.",
+    "c": [
+     "have finished — have loved",
+     "finished — loved",
+     "finished — love",
+     "finished — have loved",
+     "have finished — loved"
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   5,
+   1,
+   3
+  ]
+ },
+ {
+  "key": "2-12",
+  "grade": 2,
+  "no": 12,
+  "chapter": "CH 2",
+  "chapter_name": "시제",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 전치사를 바르게 짝지은 것을 고르시오.",
+   "passage": "My father has worked at this school (A) _____ 25 years.\nI have known her (B) _____ she was 11 years old.",
+   "c": [
+    "(A) since (B) since",
+    "(A) for (B) for",
+    "(A) for (B) since",
+    "(A) since (B) for",
+    "(A) for (B) when"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 현재완료의 계속 용법에서 for 뒤에는 기간(25 years)을, since 뒤에는 시작 시점(명사나 절)을 쓴다.\n풀이 순서: ① 빈칸 뒤의 말이 ‘얼마 동안’(기간)인지 ‘언제부터’(시작 시점)인지 가른다. → ② (A) 뒤의 25 years는 기간이다, (B) 뒤의 she was 11 years old는 시작 시점이다. → ③ 기간 앞에는 for, 시작 시점 앞에는 since를 쓴다. 정답은 ③.\n문장별 판정:\n정답 판단: 기간(25 years) 앞에 for, 시작 시점(she was 11 years old) 앞에 since를 썼으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 25 years는 기간이라 since를 쓸 수 없으므로 오답이다.\n② [오답] she was 11 years old는 시작 시점이라 for를 쓸 수 없으므로 오답이다.\n③ [정답] 기간(25 years) 앞에 for, 시작 시점(she was 11 years old) 앞에 since를 썼으므로 정답이다.\n④ [오답] for와 since가 서로 바뀌었으므로 오답이다.\n⑤ [오답] 현재완료의 시작 시점은 when이 아니라 since로 나타내므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "The museum has been open (A) _____ 1998.\nOur guide has worked there (B) _____ more than a decade.",
+    "c": [
+     "(A) since (B) since",
+     "(A) since (B) for",
+     "(A) for (B) since",
+     "(A) for (B) for",
+     "(A) from (B) during"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "She has studied French (A) _____ 2022.\nThey have been married (B) _____ six years.",
+    "c": [
+     "(A) for (B) for",
+     "(A) for (B) since",
+     "(A) since (B) since",
+     "(A) since (B) for",
+     "(A) during (B) from"
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "We have waited (A) _____ two hours.\nTom has worked there (B) _____ last spring.",
+    "c": [
+     "(A) since (B) for",
+     "(A) for (B) since",
+     "(A) for (B) when",
+     "(A) since (B) since",
+     "(A) for (B) for"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "I have owned this bike (A) _____ five years.\nJane has lived here (B) _____ she was a child.",
+    "c": [
+     "(A) for (B) when",
+     "(A) for (B) since",
+     "(A) for (B) for",
+     "(A) since (B) for",
+     "(A) since (B) since"
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+    "passage": "The store has been open (A) _____ 8 a.m.\nHe has taught here (B) _____ a long time.",
+    "c": [
+     "(A) for (B) since",
+     "(A) since (B) since",
+     "(A) since (B) for",
+     "(A) during (B) from",
+     "(A) for (B) for"
+    ],
+    "ans": 3
+   }
+  },
+  "existing_pretest": {
+   "stem": "다음 대화의 빈칸 (A), (B)에 들어갈 말로 알맞게 짝지은 것은?",
+   "passage": "A: How long have you and Mina played the piano?\nB: I've played it (A)_______ I was seven. Mina has played it (B)_______ two years.",
+   "c": [
+    "(A) for (B) for",
+    "(A) since (B) since",
+    "(A) for (B) since",
+    "(A) when (B) for",
+    "(A) since (B) for"
+   ],
+   "ans": 5
+  },
+  "target_answer_positions": [
+   4,
+   5,
+   1
+  ]
+ },
+ {
+  "key": "2-21",
+  "grade": 2,
+  "no": 21,
+  "chapter": "CH 3",
+  "chapter_name": "조동사",
+  "ref": {
+   "stem": "다음 주어진 문장의 밑줄 친 부분과 같은 의미로 쓰인 것을 고르시오.",
+   "passage": "I <u>may</u> be able to attend the party.",
+   "c": [
+    "<u>May</u> I open the window?",
+    "I'm sorry, but you <u>may</u> not enter this area.",
+    "You <u>may</u> not use your phone during class.",
+    "You <u>may</u> take an extra cookie if you like.",
+    "The weather forecast says it <u>may</u> rain tomorrow."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: may는 추측(~일지도 모른다), 허가(~해도 된다), 금지(may not: ~해서는 안 된다), 기원(May ~!)을 나타낸다. 같은 조동사라도 문맥으로 뜻을 가른다.\n풀이 순서: ① 주어진 문장에서 밑줄 친 조동사의 뜻을 정한다. 참석할 수 있을지 확실하지 않다는 추측이다. → ② 보기마다 밑줄 친 조동사가 사실을 짐작하는 말인지, 허락·금지·요청·능력·기원을 말하는지 가른다. → ③ 내일 비가 올지도 모른다는 ⑤만 추측이다. ①은 허가 요청, ②·③은 금지, ④는 허가다. 정답은 ⑤.\n문장별 판정:\n정답 판단: ‘비가 올지도 모른다’는 추측으로 주어진 문장과 같으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 허가를 구하는 May I ~?이므로 오답이다.\n② [오답] ‘들어가서는 안 된다’는 금지의 may not이므로 오답이다.\n③ [오답] ‘사용해서는 안 된다’는 금지의 may not이므로 오답이다.\n④ [오답] ‘가져가도 된다’는 허가이므로 오답이다.\n⑤ [정답] ‘비가 올지도 모른다’는 추측으로 주어진 문장과 같으므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 주어진 문장의 밑줄 친 부분과 같은 의미로 쓰인 것을 고르시오.",
+    "passage": "The lights are off. They <u>may</u> be asleep.",
+    "c": [
+     "<u>May</u> I borrow your pen?",
+     "You <u>may</u> not park your car here.",
+     "Visitors <u>may</u> take photos in the lobby.",
+     "Jane <u>may</u> be late because of the traffic.",
+     "<u>May</u> you have a wonderful trip!"
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 주어진 문장의 밑줄 친 부분과 같은 의미로 쓰인 것을 고르시오.",
+    "passage": "You <u>may</u> use my computer after you finish your homework.",
+    "c": [
+     "It <u>may</u> snow a lot this weekend.",
+     "He <u>may</u> not know my phone number.",
+     "Anyone who finishes early <u>may</u> leave the room.",
+     "<u>May</u> all your dreams come true!",
+     "The rumor <u>may</u> not be true."
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 주어진 문장의 밑줄 친 부분과 같은 의미로 쓰인 것을 고르시오.",
+    "passage": "Mina isn't answering. She <u>could</u> be busy.",
+    "c": [
+     "That noise <u>could</u> be the wind.",
+     "I <u>could</u> read when I was four.",
+     "<u>Could</u> you pass me the salt?",
+     "<u>Could</u> I use your bathroom?",
+     "My grandma <u>could</u> speak three languages."
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 주어진 문장의 밑줄 친 부분과 같은 의미로 쓰인 것을 고르시오.",
+    "passage": "Tom left early. He <u>may</u> be at home.",
+    "c": [
+     "You <u>may</u> sit anywhere you like.",
+     "<u>May</u> I see your ticket, please?",
+     "Swimmers <u>may</u> not dive into the shallow pool.",
+     "<u>May</u> you both be very happy together!",
+     "This answer <u>may</u> be wrong, so check it again."
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 주어진 문장의 밑줄 친 부분과 같은 의미로 쓰인 것을 고르시오.",
+    "passage": "The road is wet. It <u>may</u> have rained last night.",
+    "c": [
+     "<u>May</u> I leave a message for her?",
+     "The keys <u>may</u> be in your coat pocket.",
+     "Children under 12 <u>may</u> not enter without an adult.",
+     "You <u>may</u> borrow up to five books at a time.",
+     "<u>May</u> peace be with you."
+    ],
+    "ans": 2
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   2,
+   3,
+   4
+  ]
+ }
+]

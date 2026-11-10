@@ -1,0 +1,453 @@
+[
+ {
+  "key": "3-101",
+  "grade": 3,
+  "no": 101,
+  "chapter": "CH 11",
+  "chapter_name": "비교",
+  "ref": {
+   "stem": "다음 단어의 원급, 비교급, 최상급이 잘못 연결된 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "bad - worse - worst",
+    "large - larger - largest",
+    "little - lesser - least",
+    "much - more - most",
+    "far - farther - farthest"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 불규칙 변화: bad - worse - worst, little - less - least, much(many) - more - most, far - farther - farthest. 규칙 변화는 -er/-est를 붙인다(large - larger - largest).\n풀이 순서: ① 불규칙으로 변하는 낱말(bad, little, much, far)을 먼저 골라 외운 형태와 견준다. → ② 나머지는 규칙(-er/-est, 긴 단어는 more/most)대로인지 본다. → ③ little의 비교급은 less인데 lesser로 썼다. 정답은 ③.\n문장별 판정:\n정답 판단: little의 비교급은 less이므로(lesser는 ‘덜 중요한’이라는 뜻의 다른 형용사로 쓴다). 따라서 정답은 ③이다.\n선택지 분석:\n① [오답] bad의 불규칙 변화로 옳으므로 오답이다.\n② [오답] -e로 끝나 -r, -st만 붙인 규칙 변화로 옳으므로 오답이다.\n③ [정답] little의 비교급은 less이므로(lesser는 ‘덜 중요한’이라는 뜻의 다른 형용사로 쓴다)\n④ [오답] much의 불규칙 변화로 옳으므로 오답이다.\n⑤ [오답] far의 불규칙 변화로 옳으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 단어의 원급, 비교급, 최상급이 잘못 연결된 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "happy - happier - happiest",
+     "big - biger - bigest",
+     "good - better - best",
+     "beautiful - more beautiful - most beautiful",
+     "little - less - least"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 단어의 원급, 비교급, 최상급이 잘못 연결된 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "hot - hotter - hottest",
+     "useful - more useful - most useful",
+     "bad - worse - worst",
+     "heavy - heavier - heaviest",
+     "good - gooder - goodest"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 단어의 원급, 비교급, 최상급이 잘못 연결된 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "busy - busyer - busyest",
+     "many - more - most",
+     "thin - thinner - thinnest",
+     "important - more important - most important",
+     "large - larger - largest"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 단어의 원급, 비교급, 최상급이 잘못 연결된 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "wet - wetter - wettest",
+     "much - more - most",
+     "well - weller - wellest",
+     "pretty - prettier - prettiest",
+     "difficult - more difficult - most difficult"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 단어의 원급, 비교급, 최상급이 잘못 연결된 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "sad - sadder - saddest",
+     "bad - worse - worst",
+     "nice - nicer - nicest",
+     "interesting - interestinger - interestingest",
+     "early - earlier - earliest"
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   4,
+   5,
+   1
+  ]
+ },
+ {
+  "key": "3-102",
+  "grade": 3,
+  "no": 102,
+  "chapter": "CH 11",
+  "chapter_name": "비교",
+  "ref": {
+   "stem": "다음 표의 내용과 일치하지 않는 것을 고르시오.",
+   "passage": "Name\tTom\tJerry\nAge\t16\t14\nWeight\t65kg\t47kg\nHeight\t175cm\t157cm",
+   "c": [
+    "Tom is older than Jerry.",
+    "Tom is taller than Jerry.",
+    "Jerry is lighter than Tom.",
+    "Jerry is as heavy as Tom.",
+    "Tom is heavier than Jerry."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 비교급 + than은 ‘~보다 더 …한’, as + 원급 + as는 ‘~만큼 …한’(둘이 같음)이다.\n풀이 순서: ① 보기의 형용사가 표의 어느 줄인지 찾는다(old·young은 Age, heavy·light는 Weight, tall·short는 Height). → ② 비교급 + than이면 두 수의 크기를, as ~ as이면 두 수가 같은지를 확인한다. → ③ 선택지 ④는 몸무게가 같다고 했는데 47kg과 65kg이다. 정답은 ④.\n문장별 판정:\n정답 판단: as heavy as는 몸무게가 같다는 뜻인데 47kg과 65kg으로 다르므로 정답은 ④이다.\n선택지 분석:\n① [오답] Tom(16)이 Jerry(14)보다 나이가 많으므로 오답이다.\n② [오답] Tom(175cm)이 Jerry(157cm)보다 크므로 오답이다.\n③ [오답] Jerry(47kg)가 Tom(65kg)보다 가벼우므로 오답이다.\n④ [정답] as heavy as는 몸무게가 같다는 뜻인데 47kg과 65kg으로 다르므로 정답이다.\n⑤ [오답] Tom(65kg)이 Jerry(47kg)보다 무거우므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 표의 내용과 일치하지 않는 것을 고르시오.",
+    "passage": "Name\tMinsu\tJiho\nAge\t15\t15\nWeight\t58kg\t52kg\nHeight\t168cm\t172cm",
+    "c": [
+     "Minsu is as old as Jiho.",
+     "Jiho is taller than Minsu.",
+     "Minsu is heavier than Jiho.",
+     "Jiho is lighter than Minsu.",
+     "Minsu is taller than Jiho."
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "다음 표의 내용과 일치하지 않는 것을 고르시오.",
+    "passage": "Name\tJane\tAmy\nAge\t15\t15\nWeight\t50kg\t50kg\nHeight\t160cm\t165cm",
+    "c": [
+     "Amy is taller than Jane.",
+     "Jane is shorter than Amy.",
+     "Jane is as old as Amy.",
+     "Jane is as tall as Amy.",
+     "Jane is as heavy as Amy."
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 표의 내용과 일치하지 않는 것을 고르시오.",
+    "passage": "Name\tBen\tLeo\nAge\t13\t15\nWeight\t45kg\t55kg\nHeight\t150cm\t170cm",
+    "c": [
+     "Leo is older than Ben.",
+     "Ben is shorter than Leo.",
+     "Ben is lighter than Leo.",
+     "Leo is taller than Ben.",
+     "Ben is older than Leo."
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "다음 표의 내용과 일치하지 않는 것을 고르시오.",
+    "passage": "Name\tMina\tSora\nAge\t14\t14\nWeight\t48kg\t52kg\nHeight\t158cm\t158cm",
+    "c": [
+     "Mina is heavier than Sora.",
+     "Sora is heavier than Mina.",
+     "Mina is lighter than Sora.",
+     "Mina is as tall as Sora.",
+     "Mina is as old as Sora."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 표의 내용과 일치하지 않는 것을 고르시오.",
+    "passage": "Name\tTom\tBen\nAge\t16\t14\nWeight\t60kg\t60kg\nHeight\t175cm\t165cm",
+    "c": [
+     "Tom is lighter than Ben.",
+     "Tom is taller than Ben.",
+     "Ben is younger than Tom.",
+     "Tom is as heavy as Ben.",
+     "Tom is older than Ben."
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": {
+   "stem": "다음 표의 내용과 일치하는 것을 고르시오.",
+   "passage": "Name\tJiwon\tHayun\nAge\t15\t13\nHeight\t162cm\t162cm\nWeight\t51kg\t44kg",
+   "c": [
+    "Hayun is older than Jiwon.",
+    "Jiwon is shorter than Hayun.",
+    "Hayun is heavier than Jiwon.",
+    "Hayun is as tall as Jiwon.",
+    "Jiwon is as old as Hayun."
+   ],
+   "ans": 4
+  },
+  "target_answer_positions": [
+   2,
+   3,
+   5
+  ]
+ },
+ {
+  "key": "3-111",
+  "grade": 3,
+  "no": 111,
+  "chapter": "CH 12",
+  "chapter_name": "전치사",
+  "ref": {
+   "stem": "다음 빈칸에 공통으로 들어갈 전치사를 고르시오.",
+   "passage": "- There are many people _____ the park.\n- The meeting will be held _____ the afternoon.",
+   "c": [
+    "around",
+    "on",
+    "in",
+    "for",
+    "to"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: in은 공간의 안(in the park)과 하루의 한때·달·연도·계절(in the afternoon, in July) 앞에 쓴다.\n풀이 순서: ① 두 문장을 따로 본다. 첫 문장: 공원 ‘안’이라는 공간이므로 in. → ② 둘째 문장: the afternoon처럼 하루의 한때 앞에는 in. → ③ 두 자리에 모두 맞는 전치사는 in.\n문장별 판정:\n정답 판단: 공원 안(in the park), 오후에(in the afternoon) 모두 in을 쓰므로 정답은 ③이다.\n선택지 분석:\n① [오답] around the park는 되지만 around the afternoon은 ‘오후쯤’이라 회의가 열리는 때로 어색하므로 오답이다.\n② [오답] the park, the afternoon 앞에 on을 쓰지 않으므로 오답이다.\n③ [정답] 공원 안(in the park), 오후에(in the afternoon) 모두 in을 쓰므로 정답이다.\n④ [오답] for는 장소나 때를 나타내지 못하므로 오답이다.\n⑤ [오답] to는 방향을 나타내 두 문장 모두 맞지 않으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 공통으로 들어갈 전치사를 고르시오.",
+    "passage": "- There is a picture _____ the wall.\n- We have no school _____ Sunday.",
+    "c": [
+     "in",
+     "on",
+     "at",
+     "during",
+     "under"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 빈칸에 공통으로 들어갈 전치사를 고르시오.",
+    "passage": "- Let's meet _____ the bus stop.\n- The movie starts _____ seven o'clock.",
+    "c": [
+     "on",
+     "in",
+     "at",
+     "for",
+     "by"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 빈칸에 공통으로 들어갈 전치사를 고르시오.",
+    "passage": "- Your phone is _____ the kitchen table next to the cups.\n- My birthday party is _____ June 10th this year.",
+    "c": [
+     "on",
+     "at",
+     "in",
+     "during",
+     "for"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 빈칸에 공통으로 들어갈 전치사를 고르시오.",
+    "passage": "- He is waiting for you _____ the door.\n- I usually go to bed _____ midnight.",
+    "c": [
+     "in",
+     "on",
+     "for",
+     "during",
+     "at"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 빈칸에 공통으로 들어갈 전치사를 고르시오.",
+    "passage": "- My older sister lives _____ Canada with her husband.\n- It often snows a lot _____ December in that city.",
+    "c": [
+     "at",
+     "on",
+     "for",
+     "in",
+     "by"
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   1,
+   2,
+   4
+  ]
+ },
+ {
+  "key": "3-112",
+  "grade": 3,
+  "no": 112,
+  "chapter": "CH 12",
+  "chapter_name": "전치사",
+  "ref": {
+   "stem": "다음 대화의 빈칸에 들어갈 전치사가 바르게 짝지어진 것은?",
+   "passage": "A: Where is your office?\nB: It is (<u>    A    </u>) the fifth floor (<u>    B    </u>) that building.",
+   "c": [
+    "(A) at / (B) in",
+    "(A) on / (B) at",
+    "(A) on / (B) of",
+    "(A) in / (B) in",
+    "(A) at / (B) on"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 층은 on(on the fifth floor), ‘~의’라는 소속은 of로 나타낸다. 한 지점은 at(at the corner), in front of·in the middle of는 굳어진 표현이다.\n풀이 순서: ① (A)를 정한다: 층(floor)은 건물의 한 면으로 보아 on the fifth floor로 쓴다. → ② (B)를 정한다: ‘그 건물의 5층’이므로 소속을 나타내는 of를 쓴다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: on the fifth floor(5층에) of that building(그 건물의)으로 알맞으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 층 앞에는 at이 아니라 on을 쓰므로 오답이다.\n② [오답] ‘그 건물의 5층’은 at이 아니라 of로 이으므로 오답이다.\n③ [정답] on the fifth floor(5층에) of that building(그 건물의)으로 알맞으므로 정답이다.\n④ [오답] 층 앞에는 in이 아니라 on을 쓰므로 오답이다.\n⑤ [오답] 층 앞에는 at을 쓰지 않고 on that building은 ‘건물 위에’가 되므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 대화의 빈칸에 들어갈 전치사가 바르게 짝지어진 것은?",
+    "passage": "A: Where is the museum?\nB: It is (<u>    A    </u>) the end (<u>    B    </u>) this street.",
+    "c": [
+     "(A) in / (B) on",
+     "(A) at / (B) of",
+     "(A) on / (B) in",
+     "(A) at / (B) in",
+     "(A) in / (B) of"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 대화의 빈칸에 들어갈 전치사가 바르게 짝지어진 것은?",
+    "passage": "A: Where is the cafe?\nB: It is (<u>    A    </u>) the corner (<u>    B    </u>) Main Street and King Street.",
+    "c": [
+     "(A) at / (B) of",
+     "(A) in / (B) from",
+     "(A) at / (B) from",
+     "(A) under / (B) of",
+     "(A) in / (B) on"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 대화의 빈칸에 들어갈 전치사가 바르게 짝지어진 것은?",
+    "passage": "A: Where is the sugar?\nB: It is (<u>    A    </u>) the top shelf (<u>    B    </u>) the kitchen.",
+    "c": [
+     "(A) in / (B) on",
+     "(A) on / (B) in",
+     "(A) at / (B) of",
+     "(A) at / (B) on",
+     "(A) in / (B) at"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 대화의 빈칸에 들어갈 전치사가 바르게 짝지어진 것은?",
+    "passage": "A: Where is the subway station?\nB: It is (<u>    A    </u>) front (<u>    B    </u>) the bank on Main Street.",
+    "c": [
+     "(A) in / (B) on",
+     "(A) at / (B) in",
+     "(A) on / (B) in",
+     "(A) at / (B) of",
+     "(A) in / (B) of"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 대화의 빈칸에 들어갈 전치사가 바르게 짝지어진 것은?",
+    "passage": "A: Where is Minsu now?\nB: He is (<u>    A    </u>) home. He's reading a book (<u>    B    </u>) his room.",
+    "c": [
+     "(A) in / (B) at",
+     "(A) on / (B) in",
+     "(A) at / (B) on",
+     "(A) at / (B) in",
+     "(A) in / (B) on"
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   5,
+   1,
+   2
+  ]
+ },
+ {
+  "key": "3-121",
+  "grade": 3,
+  "no": 121,
+  "chapter": "CH 13",
+  "chapter_name": "접속사",
+  "ref": {
+   "stem": "다음 빈칸에 가장 적절한 것을 고르시오.",
+   "passage": "______ you hurry, we'll be late for the movie.\n(서두르지 않으면, 영화에 지각할 거야.)",
+   "c": [
+    "If",
+    "Unless",
+    "When",
+    "Because",
+    "Although"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: unless는 if ~ not(~하지 않으면)과 같다. unless 뒤에 not을 또 쓰지 않는다.\n풀이 순서: ① 우리말에서 두 절을 잇는 말을 찾는다: ‘서두르지 않으면’. → ② 부정의 조건인데 빈칸 뒤 you hurry에는 not이 없다. not의 뜻까지 담은 Unless(= If ~ not)를 쓴다. → ③ 정답은 Unless.\n문장별 판정:\n정답 판단: Unless는 ‘~하지 않으면’이라 우리말과 맞으므로 정답은 ②이다.\n선택지 분석:\n① [오답] If를 쓰면 ‘서두르면 늦는다’가 되어 우리말과 반대이므로 오답이다.\n② [정답] Unless는 ‘~하지 않으면’이라 우리말과 맞으므로 정답이다.\n③ [오답] When은 ‘~할 때’라 우리말과 맞지 않으므로 오답이다.\n④ [오답] Because는 ‘~ 때문에’라 우리말과 맞지 않으므로 오답이다.\n⑤ [오답] Although는 ‘비록 ~이지만’이라 우리말과 맞지 않으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 가장 적절한 것을 고르시오.",
+    "passage": "______ you wear a coat, you will catch a cold.\n(코트를 입지 않으면, 감기에 걸릴 거야.)",
+    "c": [
+     "If",
+     "When",
+     "Because",
+     "Unless",
+     "Although"
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 빈칸에 가장 적절한 것을 고르시오.",
+    "passage": "______ it rains tomorrow, we will stay home.\n(만약 내일 비가 오면, 우리는 집에 있을 것이다.)",
+    "c": [
+     "Although",
+     "Because",
+     "Unless",
+     "When",
+     "If"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 빈칸에 가장 적절한 것을 고르시오.",
+    "passage": "______ you study harder, you won't pass the test.\n(더 열심히 공부하지 않으면, 시험에 합격하지 못할 거야.)",
+    "c": [
+     "Unless",
+     "Although",
+     "Because",
+     "When",
+     "If"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 빈칸에 가장 적절한 것을 고르시오.",
+    "passage": "______ you don't like it, you can give it back.\n(그것이 마음에 들지 않으면, 돌려줘도 돼.)",
+    "c": [
+     "When",
+     "Because",
+     "If",
+     "Unless",
+     "Although"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 빈칸에 가장 적절한 것을 고르시오.",
+    "passage": "______ the store is closed, we can buy some milk there.\n(가게가 문을 닫지 않았으면, 우리는 거기서 우유를 살 수 있다.)",
+    "c": [
+     "Because",
+     "Although",
+     "If",
+     "When",
+     "Unless"
+    ],
+    "ans": 5
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   4,
+   5,
+   1
+  ]
+ }
+]

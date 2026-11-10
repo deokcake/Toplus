@@ -1,0 +1,142 @@
+[
+ {
+  "key": "2-51",
+  "variant": 1,
+  "stem": "다음 문장의 밑줄 친 부분의 우리말 뜻으로 알맞은 것을 고르시오.",
+  "passage": "Nobody told us <u>when to begin</u> the test, so we waited quietly.",
+  "c": [
+   "어디서 시작할지",
+   "무엇을 시작할지",
+   "어떻게 시작할지",
+   "누구와 시작할지",
+   "언제 시작할지"
+  ],
+  "ans": 5,
+  "new_format": "영어 문장의 밑줄 친 ‘의문사+to부정사’의 우리말 뜻 고르기(우리말 보기)"
+ },
+ {
+  "key": "2-51",
+  "variant": 2,
+  "stem": "다음 우리말의 밑줄 친 부분을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "나는 그 운동화를 <u>어디서 살지</u> 아직 모르겠다.",
+  "c": [
+   "where to buy",
+   "what to buy",
+   "when to buy",
+   "how to buy",
+   "which to buy"
+  ],
+  "ans": 1,
+  "new_format": "우리말 문장의 밑줄 친 부분을 영어 ‘의문사+to부정사’ 구로 옮긴 것 고르기(구 보기)"
+ },
+ {
+  "key": "2-51",
+  "variant": 3,
+  "stem": "다음 중 우리말과 영어가 바르게 짝지어지지 않은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "어디에 앉을지 – where to sit",
+   "어떻게 고칠지 – what to fix",
+   "언제 일어날지 – when to get up",
+   "누구에게 전화할지 – who to call",
+   "어느 것을 고를지 – which to choose"
+  ],
+  "ans": 2,
+  "ref_format": "우리말에 맞게 to부정사 앞 빈칸에 들어갈 의문사(낱말 보기) 고르기",
+  "new_format": "우리말 뜻과 ‘의문사+to부정사’ 구의 짝 다섯 개 중 잘못 짝지어진 것 고르기"
+ },
+ {
+  "key": "2-52",
+  "variant": 1,
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: How was the school festival yesterday?\nB: It was great. Junho was nervous, but he sang a song alone on the stage.\nA: Really? It was _______ of him to sing in front of so many people.",
+  "c": [
+   "hard",
+   "fun",
+   "brave",
+   "scary",
+   "necessary"
+  ],
+  "ans": 3,
+  "ref_format": "다섯 문장 중 빈칸에 of가 들어갈 수 없는 것 고르기(It is+형용사+of/for+목적격+to부정사)",
+  "new_format": "짧은 대화 속 ‘It was _______ of him to ~’ 빈칸에 들어갈 형용사 고르기(문장 보기 → 낱말 보기: 일 판단 형용사 넷 + 성품 형용사 하나)"
+ },
+ {
+  "key": "2-52",
+  "variant": 2,
+  "stem": "다음 중 밑줄 친 부분이 어법상 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "It was rude <u>of him</u> to shout at the waiter.",
+   "It is hard <u>for me</u> to remember new names.",
+   "It was wise <u>of you</u> to take the subway.",
+   "It is difficult <u>of me</u> to read his handwriting.",
+   "It is exciting <u>for us</u> to travel by train."
+  ],
+  "ans": 4,
+  "new_format": "of/for+목적격에 밑줄이 그어진 완성 문장 다섯 개 중 어법상 틀린 것 고르기"
+ },
+ {
+  "key": "2-52",
+  "variant": 3,
+  "stem": "다음 중 어법상 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "It was nice of Jinho to carry my backpack.",
+   "It is necessary of you to wear a seat belt.",
+   "It was kind for you to call my parents.",
+   "It was easy of me to find the bakery.",
+   "It is useful of students to keep a diary."
+  ],
+  "ans": 1,
+  "new_format": "of/for가 채워진 문장 다섯 개 중 어법상 옳은 것 고르기"
+ },
+ {
+  "key": "2-61",
+  "variant": 1,
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: You look tired.\nB: My neighbor _______ playing music all night.",
+  "c": [
+   "wanted",
+   "planned",
+   "kept",
+   "decided",
+   "chose"
+  ],
+  "ans": 3,
+  "ref_format": "동명사 목적어 앞 빈칸에 들어갈 동사(낱말 보기) 고르기",
+  "new_format": "짧은 대화 속 동명사 앞 빈칸에 들어갈 동사(과거형 낱말 보기) 고르기"
+ },
+ {
+  "key": "2-61",
+  "variant": 2,
+  "stem": "다음 빈칸에 들어갈 말로 알맞지 않은 것을 고르시오.",
+  "passage": "Sora _______ to ride a horse on her uncle's farm.",
+  "c": [
+   "learned",
+   "needed",
+   "chose",
+   "imagined",
+   "agreed"
+  ],
+  "ans": 4,
+  "ref_format": "동명사 목적어 앞 빈칸에 들어갈 동사(낱말 보기) 고르기",
+  "new_format": "to부정사 앞 빈칸에 들어갈 수 없는 동사 고르기(방향 반대, 과거형 낱말 보기)"
+ },
+ {
+  "key": "2-61",
+  "variant": 3,
+  "stem": "다음 우리말과 뜻이 같도록 빈칸에 알맞은 말을 고르시오.",
+  "passage": "우리 아빠는 지난달에 커피 마시는 것을 끊으셨다.\nMy dad gave up _______ coffee last month.",
+  "c": [
+   "to drink",
+   "drink",
+   "to drinking",
+   "drank",
+   "drinking"
+  ],
+  "ans": 5,
+  "ref_format": "동명사 목적어 앞 빈칸에 들어갈 동사(낱말 보기) 고르기",
+  "new_format": "우리말에 맞게 동명사를 쓰는 동사(give up) 뒤 빈칸에 알맞은 목적어 형태 고르기(동사 → 형태)"
+ }
+]

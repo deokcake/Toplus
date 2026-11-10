@@ -1,0 +1,257 @@
+[
+ {
+  "key": "1-101",
+  "variant": 1,
+  "ref_format": "우리말을 영작한 문장 고르기(‘명령문, 접속사 + 주어 + 동사’ 문장 보기 5개, 접속사만 다름)",
+  "new_format": "짧은 대화의 빈칸에 들어갈 B의 대답 고르기(‘명령문, and/or …’ 문장 보기 5개, 우리말 대신 대화 맥락)",
+  "design": "‘명령문, and + 주어 + 동사’가 ‘~하면 …할 것이다’라는 같은 규칙을, 우리말 대신 가방을 찾는 짧은 대화 맥락에서 B의 대답을 고르게 해 확인한다. 보기마다 접속사 한 곳만 달라 판단은 원문항처럼 한 번이고, 읽을 양은 52낱말(원문항 40, 1.3배), 어휘는 bag·desk·find 수준이다. 오답은 or(‘그렇지 않으면’과 혼동)·but·nor와 If절 뒤에 and를 겹쳐 쓴 실수(If you look …, and …)이며, 목적의 뜻으로 읽혀 맞을 수도 있는 so는 넣지 않았다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 가장 알맞은 것을 고르시오.",
+  "passage": "A: Where's my bag?\nB: _______",
+  "c": [
+   "Look under your desk, and you will find it.",
+   "Look under your desk, or you will find it.",
+   "Look under your desk, but you will find it.",
+   "Look under your desk, nor you will find it.",
+   "If you look under your desk, and you will find it."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "1-101",
+  "variant": 2,
+  "ref_format": "우리말을 영작한 문장 고르기(‘명령문, 접속사 + 주어 + 동사’ 문장 보기 5개, 접속사만 다름)",
+  "new_format": "If절 문장과 의미가 같은 ‘명령문, or …’ 문장 고르기(문장 전환, 문장 보기 5개)",
+  "design": "‘명령문, or + 주어 + 동사’가 ‘~하지 않으면 …할 것이다’(= If you don't ~)라는 같은 규칙을, 우리말 대신 If절 문장을 주고 뜻이 같은 명령문 문장을 고르는 전환 형식으로 확인한다. 판단은 접속사 한 곳으로 원문항과 같고, 읽을 양은 51낱말(1.28배), 어휘는 umbrella·get wet 수준이다. 오답은 and(‘그러면’과 혼동)·but·so와 If절의 don't를 그대로 옮겨 뜻이 반대가 된 Don't take …, or …이며, 같은 뜻이 되는 Don't …, and …는 넣지 않아 정답이 하나뿐이다.",
+  "stem": "다음 문장과 의미가 같은 것을 고르시오.",
+  "passage": "If you don't take an umbrella, you will get wet.",
+  "c": [
+   "Take an umbrella, and you will get wet.",
+   "Take an umbrella, but you will get wet.",
+   "Take an umbrella, or you will get wet.",
+   "Don't take an umbrella, or you will get wet.",
+   "Take an umbrella, so you will get wet."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "1-101",
+  "variant": 3,
+  "ref_format": "우리말을 영작한 문장 고르기(‘명령문, 접속사 + 주어 + 동사’ 문장 보기 5개, 접속사만 다름)",
+  "new_format": "짧은 안내 글의 명령문 뒤 빈칸에 이어질 ‘접속사 + 주어 + 동사’ 절 고르기(절 보기 5개)",
+  "design": "‘명령문, and + 주어 + 동사’ = ‘~하면 …할 것이다’라는 같은 규칙을, 빵집 안내 글의 명령문 뒤에 이어질 절을 고르는 형식으로 확인한다. 접속사 한 곳만 판단하므로 판단 개수는 원문항과 같고, 읽을 양은 50낱말(1.25배), 어휘는 bakery·coupon·counter 수준이다. 오답은 or·but·nor와 ‘~하지 않으면’의 뜻이라 or와 헷갈리는 unless이며, 목적·이유로 읽혀 맞을 수도 있는 so·because는 넣지 않았다.",
+  "stem": "다음 글의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "Our bakery is opening a new store this Friday. Show this coupon at the counter, _______.",
+  "c": [
+   "or you will get a free cookie",
+   "but you will get a free cookie",
+   "nor you will get a free cookie",
+   "and you will get a free cookie",
+   "unless you will get a free cookie"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "1-102",
+  "variant": 1,
+  "ref_format": "상관접속사(both/either/neither/not only/as well as) 주어의 동사 수 일치가 어법상 올바른 문장 고르기(문장 보기 5개)",
+  "new_format": "상관접속사 주어 뒤 빈칸 5개 중 들어갈 be동사 형태(is/are)가 나머지 넷과 다른 문장 고르기",
+  "design": "both A and B는 복수, either·neither·not only는 B에, as well as는 A에 수를 맞춘다는 같은 규칙을, 보기마다 빈칸 하나에 들어갈 be동사를 정해 형태가 다른 하나를 찾는 형식으로 확인한다. 상관접속사 다섯 가지를 한 번씩 판단하는 판단 다섯 번은 원문항과 같고, 읽을 양은 52낱말(1.0배), 어휘는 badminton·orchestra·puppy 수준이다. 정답 ⑤만 but also 뒤 my father에 맞춰 is이고 나머지는 모두 are인데, ①·③은 동사 바로 앞 명사가 단수(sister·cousin)라 ‘가까운 명사’로만 정하는 학생은 헷갈리며, 보어를 모두 형용사·전치사구로 두어 보어의 수로 짐작할 수 없게 했다.",
+  "stem": "다음 빈칸에 들어갈 be동사의 형태가 나머지 넷과 다른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Both Minho and his younger sister _______ good at badminton.",
+   "Neither my mother nor my sisters _______ at home right now.",
+   "The twins as well as their cousin _______ in the school orchestra.",
+   "Either Junho or his brothers _______ going to walk the puppy tonight.",
+   "Not only my brothers but also my father _______ crazy about baseball."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "1-102",
+  "variant": 2,
+  "ref_format": "상관접속사(both/either/neither/not only/as well as) 주어의 동사 수 일치가 어법상 올바른 문장 고르기(문장 보기 5개)",
+  "new_format": "Who 질문에 대한 대답 5개 중 상관접속사 주어의 수 일치가 어법상 올바른 것 고르기(짧은 문답)",
+  "design": "같은 상관접속사 수 일치 규칙을, 따로 떨어진 문장 대신 한 질문(Who is going to help …?)에 대한 대답 다섯 개로 바꿔 확인한다. 대답마다 is/are 한 곳만 판단해 판단 다섯 번으로 같고, 읽을 양은 59낱말(1.13배), 어휘는 festival·classmates 수준이다. 정답 ①은 or 뒤 her classmates에 맞춘 are이고, 오답은 both A and B에 is(②), but also 뒤 복수에 is(③), nor 뒤 복수에 is(④), as well as 앞 단수에 are(⑤)를 쓴 실수이며, are를 쓴 보기가 둘(①·⑤)이라 ‘늘 복수’나 ‘가까운 명사’ 요령으로는 하나로 좁혀지지 않는다.",
+  "stem": "다음 질문에 대한 대답으로 어법상 올바른 것을 고르시오.",
+  "passage": "Who is going to help at the school festival this year?",
+  "c": [
+   "Either Sumin or her classmates are going to help.",
+   "Both Jiho and his brother is going to help.",
+   "Not only Mina but also her friends is going to help.",
+   "Neither Taeho nor his sisters is going to help.",
+   "Yuri as well as her parents are going to help."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "1-102",
+  "variant": 3,
+  "ref_format": "상관접속사(both/either/neither/not only/as well as) 주어의 동사 수 일치가 어법상 올바른 문장 고르기(문장 보기 5개)",
+  "new_format": "밑줄 친 동사와 고친 말(→)을 함께 준 보기 5개 중 바르게 고친 것이 아닌 것 고르기",
+  "design": "같은 상관접속사 수 일치 규칙을, 밑줄 친 동사와 그것을 고친 말을 함께 주고 바르게 고친 것이 아닌 것을 고르는 형식으로 확인한다. 보기마다 원래 동사가 맞는지 한 곳만 판단해 판단 다섯 번은 같고, 읽을 양은 56낱말(1.08배), 어휘는 glasses·violin·gym 수준이다. 정답 ②는 nor 뒤 her parents에 맞춘 옳은 are를 is로 잘못 고친 것이고, 나머지는 both → 복수(wear), but also 뒤 복수(play), or 뒤 단수(drives), as well as 앞 단수(is)로 바르게 고쳤으며, ②와 ⑤가 똑같이 are → is라 고친 모양만으로는 가릴 수 없다.",
+  "stem": "다음 밑줄 친 부분을 바르게 고친 것이 아닌 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Both Jiwon and her twin brother <u>wears</u> glasses. → wear",
+   "Neither Hana nor her parents <u>are</u> ready for the trip. → is",
+   "Not only Minho but also his sisters <u>plays</u> the violin. → play",
+   "Either my brothers or my dad <u>drive</u> me to school every morning. → drives",
+   "Mr. Kim as well as his students <u>are</u> in the gym. → is"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "1-111",
+  "variant": 1,
+  "ref_format": "주절이 과거일 때 that절의 시제(시제 일치와 진리·역사적 사실 예외)가 어법상 어색한 문장 고르기(문장 보기 5개)",
+  "new_format": "묻는 방향을 뒤집어 that절의 시제가 어법상 올바른 문장 하나 고르기(문장 보기 5개)",
+  "design": "주절이 과거이면 that절도 과거(could·would·was)로 쓰되 진리는 현재, 역사적 사실은 과거로 쓴다는 같은 규칙을, 어색한 것 대신 올바른 것 하나를 고르게 해 확인한다. 문장 다섯 개를 하나씩 판정하는 판단 다섯 번, 읽을 양 56낱말(1.19배), 어휘는 promise·palace·comic book 수준이다. 정답 ④는 진리라 현재시제를 쓴 문장이고, 오답은 원문항 ③과 같은 can(→ could)과 will(→ would), 진리가 아닌 일에 쓴 is(→ was), 역사적 사실에 쓴 현재 is built(→ was built)로, 다섯 문장 모두 that절이 현재형이라 형태만으로는 고를 수 없다.",
+  "stem": "다음 중 어법상 올바른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Mina believed that she can win the swimming race that day.",
+   "Minho promised that he will return my comic book the next day.",
+   "The tour guide told us that the palace is built in 1395.",
+   "My grandfather told me that the sun rises in the east.",
+   "At first, I thought that the tall man is my uncle."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "1-111",
+  "variant": 2,
+  "ref_format": "주절이 과거일 때 that절의 시제(시제 일치와 진리·역사적 사실 예외)가 어법상 어색한 문장 고르기(문장 보기 5개)",
+  "new_format": "주절이 과거인 문장(… told us that ___)의 빈칸에 이어질 that절로 알맞지 않은 것 고르기(절 보기 5개)",
+  "design": "같은 시제 일치와 예외 규칙을, 주절 하나(Mr. Choi … told us that)를 주고 빈칸에 이어질 that절 다섯 개 중 알맞지 않은 것을 고르는 형식으로 바꿨다. 보기마다 that절의 시제 한 곳만 판단해 판단 다섯 번은 같고, 읽을 양은 51낱말(1.09배), 어휘는 Pacific·Olympics·lunchtime 수준이다. 정답 ⑤는 the following day와 함께 will을 쓴 것(→ would)이고, 나머지는 현재의 사실(is), 역사적 사실(took place), 말한 때보다 앞선 일(had lived), 시제를 맞춘 could이며, 현재형이 ①에도 있어 ‘현재형이면 틀림’으로는 풀 수 없다.",
+  "stem": "다음 빈칸에 들어갈 말로 알맞지 않은 것을 고르시오.",
+  "passage": "Last week, Mr. Choi, our homeroom teacher, told us that _______.",
+  "c": [
+   "the Pacific is the largest ocean in the world",
+   "the first modern Olympics took place in 1896",
+   "he had lived in Australia as a child",
+   "we could use the computer room during lunchtime",
+   "he will be absent from school the following day"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "1-111",
+  "variant": 3,
+  "ref_format": "주절이 과거일 때 that절의 시제(시제 일치와 진리·역사적 사실 예외)가 어법상 어색한 문장 고르기(문장 보기 5개)",
+  "new_format": "짧은 대화 속 밑줄 친 동사 ⓐ~ⓔ 중 시제 일치가 어법상 어색한 것 고르기",
+  "design": "같은 시제 일치와 예외 규칙을, 박물관 견학에 관한 짧은 대화 속 밑줄 다섯 곳으로 옮겨 확인한다. 밑줄 다섯 곳을 하나씩 판단하는 것은 원문항과 같고, 읽을 양은 61낱말(1.3배, 화자 표시 포함), 어휘는 field trip·museum·catch a cold 수준이다. 정답 ⓐ는 과거 thought 뒤에 will을 쓴 것(→ would)이고, 나머지는 진리(the Sun is a star), 과거의 사실(opened in 1990), 말한 때보다 앞선 일(had caught), 시제를 맞춘 would로 원문항의 바른 보기 종류를 고루 담았다.",
+  "stem": "다음 대화의 밑줄 친 ⓐ~ⓔ 중 어법상 어색한 것을 고르시오.",
+  "passage": "A: How was your field trip to the museum?\nB: Wonderful! At first, I thought it ⓐ<u>will</u> be boring.\nA: What did you learn?\nB: The guide explained that the Sun ⓑ<u>is</u> a star and that the museum ⓒ<u>opened</u> in 1990.\nA: Did Seungmin go, too?\nB: No. He said that he ⓓ<u>had caught</u> a cold, but he ⓔ<u>would</u> come next time.",
+  "c": [
+   "ⓐ",
+   "ⓑ",
+   "ⓒ",
+   "ⓓ",
+   "ⓔ"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "1-112",
+  "variant": 1,
+  "ref_format": "‘분수·half + of + 명사’ 주어 두 문장의 빈칸에 들어갈 be동사 짝 고르기(짝 보기 5개)",
+  "new_format": "짧은 대화의 빈칸 (A), (B)에 들어갈 동사 짝 고르기(most/some + of + 명사, be동사·일반동사 짝)",
+  "design": "most·some + of + 명사 주어는 of 뒤 명사에 수를 맞춘다는 같은 규칙을, 두 문장 대신 짧은 대화 속 빈칸 (A), (B)로 확인한다. 판단할 곳은 원문항처럼 두 곳(복수 the books → are, 셀 수 없는 the paint → looks)이고, 읽을 양은 31낱말(1.29배, 화자 표시 포함), 어휘는 bookshelf·paint 수준이다. 오답은 두 자리 중 하나 또는 둘 다 수를 잘못 정한 짝과 (A)에 단수 was를 쓴 짝이며, (B)를 일반동사 look으로 두어 원문항의 was/were 짝과 겹치지 않게 했다.",
+  "stem": "다음 대화의 빈칸 (A), (B)에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+  "passage": "A: Is the new bookshelf ready?\nB: Almost. Most of the books (A)_______ on it, but some of the paint still (B)_______ wet.",
+  "c": [
+   "is - looks",
+   "are - look",
+   "are - looks",
+   "is - look",
+   "was - look"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "1-112",
+  "variant": 2,
+  "ref_format": "‘분수·half + of + 명사’ 주어 두 문장의 빈칸에 들어갈 be동사 짝 고르기(짝 보기 5개)",
+  "new_format": "우리말 두 문장과 뜻이 같도록 빈칸 (A), (B)에 들어갈 동사 짝 고르기(분수·half + of + 명사)",
+  "design": "분수·half + of + 명사 주어는 of 뒤 명사에 수를 맞춘다는 같은 규칙을, 우리말 뜻을 함께 주고 빈칸 (A), (B)를 채우는 형식으로 확인한다. 판단할 곳은 두 곳(복수 the students → wear, 셀 수 없는 the pizza → is)으로 같고, 읽을 양은 26낱말(1.08배), 어휘는 glasses·cheese 수준이다. 오답은 Two-thirds·Half만 보고 수를 정하거나 두 자리의 수를 바꿔 쓴 짝과, 과거형 wore에 복수 are를 쓴 짝이다.",
+  "stem": "다음 우리말과 뜻이 같도록 빈칸 (A), (B)에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+  "passage": "우리 반 학생의 3분의 2가 안경을 쓴다.\n→ Two-thirds of the students in my class (A)_______ glasses.\n그 피자의 절반은 치즈로 덮여 있다.\n→ Half of the pizza (B)_______ covered with cheese.",
+  "c": [
+   "wears - is",
+   "wear - are",
+   "wears - are",
+   "wear - is",
+   "wore - are"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "1-112",
+  "variant": 3,
+  "ref_format": "‘분수·half + of + 명사’ 주어 두 문장의 빈칸에 들어갈 be동사 짝 고르기(짝 보기 5개)",
+  "new_format": "(A), (B)의 [ ] 안에서 어법에 맞는 동사를 골라 짝짓기(most / a quarter + of + 명사)",
+  "design": "most·a quarter + of + 명사 주어는 of 뒤 명사에 수를 맞춘다는 같은 규칙을, 빈칸 대신 [ ] 안에서 알맞은 말을 고르는 형식으로 확인한다. 고를 곳은 (A)·(B) 두 곳(셀 수 없는 the snow → has, 복수 the seats → were)으로 같고, 읽을 양은 31낱말(1.29배), 어휘는 snow·melt·seats 수준이다. 오답은 두 자리 중 하나 또는 둘 다 수를 잘못 고른 짝과, (A)를 복수 have로 고르고 (B)에 last night와 맞지 않는 are를 고른 짝이다.",
+  "stem": "다음 (A), (B)의 [ ] 안에서 어법상 알맞은 말을 골라 바르게 짝지은 것을 고르시오.",
+  "passage": "(A) Most of the snow in the yard [has / have] melted.\n(B) A quarter of the seats [was / were / are] empty last night.",
+  "c": [
+   "have - were",
+   "has - was",
+   "have - are",
+   "have - was",
+   "has - were"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "1-121",
+  "variant": 1,
+  "ref_format": "우리말 뜻이 주어진 문장에서 The fact 뒤 빈칸에 동격절을 이끄는 말 고르기(낱말 보기 5개)",
+  "new_format": "짧은 대화(의문문)의 빈칸에 the rumor 뒤 동격절을 이끄는 말 고르기(낱말 보기 5개)",
+  "design": "the rumor 같은 명사 뒤에서 그 내용을 풀어 주는 완전한 절은 접속사 that이 이끈다는 같은 규칙을, 우리말 대신 짧은 대화(Is the rumor ___ … true?)의 빈칸으로 확인한다. 빈칸 한 곳만 판단해 판단 개수는 같고, 읽을 양은 16낱말(원문항 11낱말 + 우리말 한 줄, 화자 표시 포함), 어휘는 rumor·move away 수준이다. 오답은 선행사 뒤에 쓸 수 없는 what, 뒤에 명사가 와야 하는 whose, 절을 이끌 수 없는 전치사 about, 명사 뒤 동격절에 쓰지 않는 if이다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Is the rumor _______ Minjae moved away true?\nB: Unfortunately, yes.",
+  "c": [
+   "that",
+   "what",
+   "whose",
+   "about",
+   "if"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "1-121",
+  "variant": 2,
+  "ref_format": "우리말 뜻이 주어진 문장에서 The fact 뒤 빈칸에 동격절을 이끄는 말 고르기(낱말 보기 5개)",
+  "new_format": "the news 뒤 동격절에 잘못 쓴 which(밑줄)를 바르게 고친 말 고르기(우리말 뜻 괄호 제시)",
+  "design": "명사 뒤 동격절은 that이 이끈다는 같은 규칙을, 빈칸 대신 학생들이 흔히 쓰는 관계대명사 which를 밑줄로 주고 바르게 고친 말을 고르게 해 확인한다. 밑줄 한 곳만 판단하므로 판단 개수는 같고, 읽을 양은 16낱말(원문항 11낱말 + 5)이며 원문항처럼 우리말 뜻을 함께 주었고, 어휘는 news·final 수준이다. 보기에는 밑줄 친 which를 다시 넣지 않았고, 오답은 절을 이끌 수 없는 of, 장소·이유의 관계부사 where·why, 명사 뒤 동격절에 쓰지 않는 if이다.",
+  "stem": "다음 문장의 밑줄 친 부분을 어법상 바르게 고친 것을 고르시오.",
+  "passage": "The news <u>which</u> our team won the final made us happy.\n(우리 팀이 결승전에서 이겼다는 소식은 우리를 기쁘게 했다.)",
+  "c": [
+   "of",
+   "that",
+   "where",
+   "why",
+   "if"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "1-121",
+  "variant": 3,
+  "ref_format": "우리말 뜻이 주어진 문장에서 The fact 뒤 빈칸에 동격절을 이끄는 말 고르기(낱말 보기 5개)",
+  "new_format": "두 문장짜리 짧은 글에서 The fact 뒤 빈칸에 알맞은 말 고르기(우리말 대신 앞 문장 맥락)",
+  "design": "The fact 뒤에서 그 내용을 풀어 주는 완전한 절(she won)은 that이 이끈다는 같은 규칙을, 우리말 대신 앞 문장(Jisu practiced for months.)으로 맥락을 주는 짧은 글의 빈칸으로 확인한다. 빈칸 한 곳만 판단하고, 읽을 양은 16낱말(원문항 11낱말 + 우리말 한 줄), 어휘는 practice·surprise 수준이다. 오답은 뒤에 빠진 성분이 있는 절을 이끄는 which·whose와, 명사 뒤 동격절을 이끌지 못하는 의문사 why·how이다.",
+  "stem": "다음 글의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "Jisu practiced for months. The fact _______ she won surprised no one.",
+  "c": [
+   "which",
+   "why",
+   "whose",
+   "that",
+   "how"
+  ],
+  "ans": 4
+ }
+]

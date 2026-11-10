@@ -1,0 +1,121 @@
+[
+ {
+  "key": "3-72",
+  "variant": 2,
+  "ref_format": "동사(know)의 목적어 자리 빈칸에 알맞은 ‘의문사 + to부정사’ 형태 고르기(구 보기)",
+  "new_format": "짧은 대화 속 ‘show me + 빈칸’에 알맞은 ‘의문사 + to부정사’ 고르기(구 보기)",
+  "design": "동사(show)의 목적어 자리에 ‘의문사 + to + 동사원형’(where to sit)을 쓰는 규칙을 확인한다. 서술문 빈칸을 A·B 한 줄씩의 짧은 대화 속 빈칸으로 바꾸고 주절도 원문항·B~F의 know·decide 대신 Can you show me로 바꿨으며, 보기는 의문사 where를 고정하고 뒤 형태만 달리해 판단은 원문항처럼 한 곳이고 읽을 양은 22낱말(원문항 19, 1.16배), 어휘는 show·sit·follow 수준이다. 오답은 to 빠뜨림(where sit), -ing(where sitting), to + -ing(where to sitting), for 사용(where for sit)으로 원문항 오답과 같은 종류다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Can you show me _______?\nB: Sure. Follow me.",
+  "c": [
+   "where to sit",
+   "where sit",
+   "where sitting",
+   "where to sitting",
+   "where for sit"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "3-81",
+  "variant": 1,
+  "ref_format": "동사원형 - -ing형 짝 다섯 개 중 철자가 잘못된 것 고르기",
+  "new_format": "동사원형 - -ing형 짝 다섯 개 중 바르게 짝지어진 것 하나 고르기(반대 방향)",
+  "design": "동사의 -ing형 철자 규칙(-e로 끝나면 e를 빼고, ‘단모음 + 단자음’으로 끝날 때만 끝 자음을 한 번 더 씀)을 그대로 확인한다. ‘잘못된 것 고르기’를 ‘바르게 짝지어진 것 고르기’로 방향만 바꿨고, 원문항처럼 짝 다섯 개를 하나씩 판정하며 읽을 양은 10낱말(원문항 10), 어휘는 smile·drop·skate·wait·eat 수준이다. 오답은 e를 빼지 않은 smileing, 끝 자음을 겹쳐 쓰지 않은 droping, 모음이 둘(ai·ea)인데 끝 자음을 잘못 겹쳐 쓴 waitting·eatting이고, 원형을 바꾼 보기(skating·waitting·eatting)와 그대로 둔 보기(smileing·droping)를 섞어 형태만 보고 찍을 수 없게 했다.",
+  "stem": "다음 중 동사의 -ing형이 바르게 짝지어진 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "smile - smileing",
+   "drop - droping",
+   "skate - skating",
+   "wait - waitting",
+   "eat - eatting"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "3-82",
+  "variant": 1,
+  "ref_format": "( ) 안 동사를 넣는 다섯 문장 중 빈칸의 형태가 동명사가 아닌 것 고르기",
+  "new_format": "목적어 형태(동명사·to부정사)를 채워 넣은 다섯 문장 중 어법상 틀린 것 고르기",
+  "design": "enjoy·keep·avoid는 동명사를, want·hope는 to부정사를 목적어로 쓰는 규칙을 그대로 확인한다. 동사원형을 빈칸에 넣어 형태를 판정하던 형식을 형태를 채워 넣은 다섯 문장 중 어법상 틀린 것 고르기로 바꿨고, 판단은 문장마다 동사-목적어 형태 한 곳으로 같으며 읽을 양은 29낱말(원문항 25, 1.16배), 어휘는 join·answer·river 수준이다. 틀린 문장은 동명사를 써야 할 avoid에 to부정사를 쓴 것 하나이고(변형 3의 정답 축 finish와 겹치지 않게 함), 옳은 문장에 동명사(enjoy·kept)와 to부정사(wants·hope)를 둘씩 섞어 형태만 보고 찍을 수 없다.",
+  "stem": "다음 중 어법상 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Jisu wants to join the band.",
+   "Dad avoided to answer my question.",
+   "We enjoy walking by the river.",
+   "I hope to see you again.",
+   "Tom kept talking during class."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "3-82",
+  "variant": 2,
+  "ref_format": "( ) 안 동사를 넣는 다섯 문장 중 빈칸의 형태가 동명사가 아닌 것 고르기",
+  "new_format": "짧은 글에서 밑줄 친 동사 목적어 다섯 곳 중 어법상 틀린 것 고르기",
+  "design": "need·plan·hope는 to부정사를, practice·mind는 동명사를 목적어로 쓰는 규칙을 확인한다. 다섯 문장 보기를 단문 다섯 개로 된 짧은 글의 밑줄 다섯 곳으로 바꿨고, 판단은 밑줄마다 앞 동사를 보고 형태를 맞추는 한 곳씩으로 원문항과 같으며 읽을 양은 28낱말(원문항 25, 1.12배), 어휘는 train·race·healthy food 수준이다. 밑줄 형태는 to부정사 둘(to train·to win)과 -ing 셋(running·getting·eating)이고, 틀린 곳은 to부정사를 쓰는 plan에 동명사를 쓴 ④ 하나다.",
+  "stem": "다음 글의 밑줄 친 부분 중 어법상 틀린 것을 고르시오.",
+  "passage": "Jiho needed ①<u>to train</u> for a race. He practiced ②<u>running</u> after school. He didn't mind ③<u>getting</u> tired. He planned ④<u>eating</u> healthy food. He hoped ⑤<u>to win</u> the race.",
+  "c": [
+   "①",
+   "②",
+   "③",
+   "④",
+   "⑤"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "3-82",
+  "variant": 3,
+  "ref_format": "( ) 안 동사를 넣는 다섯 문장 중 빈칸의 형태가 동명사가 아닌 것 고르기",
+  "new_format": "목적어 형태를 채워 넣은 다섯 문장 중 어법상 옳은 것 하나 고르기(반대 방향)",
+  "design": "promise·want는 to부정사를, consider·enjoy·finish는 동명사를 목적어로 쓰는 규칙을 확인한다. ‘동명사가 아닌 것 고르기’를 형태를 채워 넣은 다섯 문장 중 ‘어법상 옳은 것 고르기’로 바꿨고, 원문항처럼 동사 다섯 개의 목적어 형태를 하나씩 판정하며 읽을 양은 25낱말(원문항 25), 어휘는 bake·sell·homework 수준이다. 오답은 to부정사 동사에 동명사를 쓴 것(promised baking, want calling)과 동명사 동사에 to부정사를 쓴 것(considered to sell, enjoyed to sing)을 둘씩 두어 한쪽 형태만 보고 고를 수 없게 했다.",
+  "stem": "다음 중 어법상 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Yuna promised baking cookies.",
+   "He considered to sell his old bike.",
+   "I want calling Grandma.",
+   "They enjoyed to sing together.",
+   "Sumin finished doing her homework."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "3-91",
+  "variant": 1,
+  "ref_format": "우리말을 보고 문장 속 ①~⑤ 중 형용사(difficult)가 들어갈 위치 고르기",
+  "new_format": "우리말에 맞게 주어진 낱말을 배열할 때 네 번째로 오는 말 고르기(낱말 보기)",
+  "design": "형용사는 꾸미는 명사 바로 앞, 곧 관사와 명사 사이에 온다는 규칙을 확인한다. ①~⑤ 위치 고르기를 우리말에 맞게 다섯 낱말을 배열해 네 번째 말을 고르는 형식으로 바꿨고, 주어·동사 순서는 자명해 실제 판단은 a·thick·jacket의 순서 한 곳이며 읽을 양은 10낱말(원문항 6, + 4낱말), 어휘는 thick·jacket 수준이다. 오답 a는 형용사를 관사 앞에 둔 경우(thick a jacket), jacket은 명사 뒤에 둔 경우(a jacket thick)에 네 번째로 오는 말이다.",
+  "stem": "다음 우리말과 같도록 주어진 말을 배열할 때, 네 번째로 오는 말을 고르시오.",
+  "passage": "나는 두꺼운 재킷이 필요하다.\n(jacket / need / thick / I / a)",
+  "c": [
+   "thick",
+   "a",
+   "jacket",
+   "need",
+   "I"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "3-91",
+  "variant": 2,
+  "ref_format": "우리말을 보고 문장 속 ①~⑤ 중 형용사(difficult)가 들어갈 위치 고르기",
+  "new_format": "관사·소유격이 든 명사구 등 다섯 개 중 형용사의 위치가 틀린 것 고르기(구 보기)",
+  "design": "형용사는 꾸미는 명사 바로 앞, 곧 관사·소유격과 명사 사이에 온다는 규칙을 확인한다. 한 문장의 위치 고르기를 명사구 다섯 개 중 형용사 위치가 틀린 것 고르기로 바꾸되, 보기 셋에 관사·소유격(my, a)을 넣어 원문항 ③처럼 ‘관사 앞인가, 관사와 명사 사이인가’를 판단하게 했고, 읽을 양은 13낱말(원문항 6, + 7낱말), 어휘는 bag·drink·soup·box·apples 수준이다. 틀린 것은 형용사를 관사 앞에 둔 cold a drink 하나이고, 세 낱말 보기가 셋이라 길이 단서가 없다.",
+  "stem": "다음 중 형용사의 위치가 바르지 않은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "my new bag",
+   "cold a drink",
+   "hot soup",
+   "a big box",
+   "green apples"
+  ],
+  "ans": 2
+ }
+]

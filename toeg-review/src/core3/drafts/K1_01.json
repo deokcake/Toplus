@@ -1,0 +1,257 @@
+[
+ {
+  "key": "1-1",
+  "variant": 1,
+  "ref_format": "밑줄 친 ‘2형식 동사 + 보어’ 중 어법상 어색한 것 고르기(문장 보기 5개, 보기마다 밑줄 한 군데)",
+  "new_format": "짧은 글의 빈칸에 이어질 ‘2형식 동사 + 보어’ 구 중 어법상 어색한 것 고르기(구 보기 5개)",
+  "design": "smell·taste·look·feel·seem 같은 2형식 동사 뒤 보어 자리에는 부사가 아니라 형용사가 온다는 규칙을 그대로 확인한다. 밑줄 친 문장 보기를 ‘글의 빈칸에 이어질 구’ 보기로 바꿨고, 보기마다 동사 뒤 보어 한 곳만 보는 판단 다섯 번은 원문항과 같다. 읽을 양은 33낱말(원문항 30), 어휘는 bakery·fresh·popular 수준이다. 정답 tastes nicely는 원문항과 같은 ‘보어 자리에 -ly 부사’ 실수이고, 나머지는 wonderful·fresh·warm·popular처럼 형용사를 바르게 쓴 구다.",
+  "stem": "다음 글의 빈칸에 들어갈 말로 어법상 어색한 것을 고르시오.",
+  "passage": "My uncle runs a small bakery near my school. His bread _______.",
+  "c": [
+   "tastes nicely with butter",
+   "smells wonderful every morning",
+   "looks fresh on the shelves",
+   "feels warm in my hands",
+   "seems popular with students"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "1-1",
+  "variant": 2,
+  "ref_format": "밑줄 친 ‘2형식 동사 + 보어’ 중 어법상 어색한 것 고르기(문장 보기 5개, 보기마다 밑줄 한 군데)",
+  "new_format": "질문에 대한 대답 다섯 개 중 밑줄 친 ‘2형식 동사 + 보어’가 어법상 어색한 것 고르기(짧은 문답)",
+  "design": "2형식 동사 뒤 보어 자리에는 형용사를 쓴다는 같은 규칙을, 따로 떨어진 문장 대신 한 질문에 대한 대답 다섯 개로 바꿔 확인한다. 대답마다 밑줄 친 보어 한 곳만 판단해 판단 다섯 번으로 같고, 읽을 양은 35낱말(원문항 30), 어휘는 festival·stage·colorful 수준이다. 정답 seemed happily는 seem 뒤에 부사를 쓴 실수이고, 나머지 넷은 smell·sound·feel·look 뒤에 형용사(amazing·great·hot·colorful)를 바르게 썼다.",
+  "stem": "다음 질문에 대한 대답 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+  "passage": "How was the school festival yesterday?",
+  "c": [
+   "The food stalls <u>smelled amazing</u>.",
+   "The band <u>sounded great</u> on stage.",
+   "Everyone <u>seemed happily</u> all day.",
+   "The gym <u>felt hot</u> in the afternoon.",
+   "The decorations <u>looked colorful</u> at night."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "1-1",
+  "variant": 3,
+  "ref_format": "밑줄 친 ‘2형식 동사 + 보어’ 중 어법상 어색한 것 고르기(문장 보기 5개, 보기마다 밑줄 한 군데)",
+  "new_format": "밑줄 친 ‘2형식 동사 + 보어’가 어법상 올바른 것 고르기(묻는 방향 뒤집기, 문장 보기 5개)",
+  "design": "2형식 동사 뒤 보어 자리에는 부사가 아니라 형용사를 쓴다는 같은 규칙을, 묻는 방향을 뒤집어 올바른 것 하나를 고르게 했다. 보기마다 밑줄 친 보어 한 곳만 판단하는 판단 다섯 번은 같고, 읽을 양은 32낱말(원문항 30), 어휘는 scarf·pizza·shampoo 수준이다. 오답 넷은 feel·taste·sound·smell 뒤에 부사(softly·well·sadly·sweetly)를 쓴 실수로, 그중 tastes well은 good 대신 부사 well을 쓰는 대표적 실수라 ‘-ly가 없는 보기’라는 겉모양만으로는 정답을 고를 수 없다.",
+  "stem": "다음 중 밑줄 친 부분이 어법상 올바른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "This scarf <u>feels softly</u> around my neck.",
+   "The pizza <u>tastes well</u> with hot sauce.",
+   "Her voice <u>sounded sadly</u> on the phone.",
+   "The sea <u>looks calm</u> this afternoon.",
+   "This new shampoo <u>smells sweetly</u>."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "1-2",
+  "variant": 1,
+  "ref_format": "다섯 문장의 빈칸에 들어갈 전치사(to/for)가 나머지와 다른 것 고르기(빈칸 문장 보기 5개)",
+  "new_format": "3형식 수여동사 문장 다섯 개 중 밑줄 친 전치사(to/for)가 어법상 어색한 것 고르기",
+  "design": "3형식으로 쓴 수여동사 문장에서 hand·teach처럼 건네는 동사는 to, cook·choose·build처럼 해 주는 동사는 for를 쓴다는 규칙을 그대로 확인한다. 빈칸을 채우는 대신 이미 쓰인 전치사가 동사와 맞는지 판정하게 바꿨고, 보기마다 동사와 전치사 한 쌍만 보는 판단 다섯 번으로 같다. 읽을 양은 37낱말(원문항 32), 어휘는 map·noodles·desk 수준이다. 정답 built a small desk to me는 for 동사에 to를 쓴 실수이며, to 보기 셋·for 보기 둘로 섞어 전치사 모양만으로는 고를 수 없다.",
+  "stem": "다음 중 밑줄 친 전치사의 쓰임이 어법상 어색한 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Jiwoo handed the map <u>to</u> her friend.",
+   "Dad cooked some noodles <u>for</u> us.",
+   "Mr. Kim taught science <u>to</u> the new students.",
+   "My uncle built a small desk <u>to</u> me.",
+   "Jun chose a nice gift <u>for</u> his sister."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "1-2",
+  "variant": 2,
+  "ref_format": "다섯 문장의 빈칸에 들어갈 전치사(to/for)가 나머지와 다른 것 고르기(빈칸 문장 보기 5개)",
+  "new_format": "4형식 문장 다섯 개를 3형식으로 바꿀 때 필요한 전치사가 나머지와 다른 것 고르기(문장 전환)",
+  "design": "수여동사를 3형식으로 바꿀 때 건네는 동사는 to, 해 주는 동사는 for를 쓴다는 같은 규칙을, 빈칸 문장 대신 4형식 문장을 3형식으로 바꾸는 전환 형식으로 확인한다. 보기마다 동사 하나를 보고 to/for를 정하는 판단 다섯 번으로 같고, 읽을 양은 38낱말(원문항 32), 어휘는 phone case·drawing·message 수준이다. 정답 got은 for를 쓰는 동사이고, 오답 show·pass·send·tell은 모두 to를 쓰는 동사로 원문항처럼 넷과 하나로 나뉜다.",
+  "stem": "다음 문장을 3형식으로 바꿔 쓸 때 필요한 전치사가 나머지 넷과 다른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Uncle Tom got me a new phone case.",
+   "Yuna showed us her drawing of a rabbit.",
+   "The waiter passed me the salt.",
+   "Our coach sent the team a short message.",
+   "Mr. Han told the kids a funny story."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "1-2",
+  "variant": 3,
+  "ref_format": "다섯 문장의 빈칸에 들어갈 전치사(to/for)가 나머지와 다른 것 고르기(빈칸 문장 보기 5개)",
+  "new_format": "모두 to를 쓴 3형식 수여동사 문장 다섯 개 중 어법상 올바른 것 고르기(묻는 방향 뒤집기)",
+  "design": "3형식 수여동사 문장에서 건네는 동사는 to, 해 주는 동사는 for를 쓴다는 같은 규칙을, 묻는 방향을 뒤집어 올바른 문장 하나를 고르게 했다. 다섯 문장 모두 to를 써서 전치사 모양으로는 가릴 수 없고, 보기마다 동사가 to 동사인지 for 동사인지 보는 판단 다섯 번으로 같다. 읽을 양은 38낱말(원문항 32), 어휘는 notebook·soccer ball·neighbor 수준이다. 정답은 to 동사 lend를 쓴 문장이고, 오답은 for를 써야 하는 bake·buy·find·prepare에 to를 쓴 실수다.",
+  "stem": "다음 중 어법상 올바른 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Mom baked chocolate cookies to her neighbors.",
+   "Jisu lent her math notebook to Minho.",
+   "Dad bought a new soccer ball to my brother.",
+   "Junho found a good seat to his grandma.",
+   "Grandpa prepared a big dinner to us."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "1-11",
+  "variant": 1,
+  "ref_format": "두 문장의 빈칸(현재시제 3인칭 단수 / 미래 의문문 조동사)에 들어갈 말 짝 고르기",
+  "new_format": "짧은 대화의 빈칸 (A)(현재 습관·3인칭 단수), (B)(미래 의문문 조동사)에 들어갈 말 짝 고르기",
+  "design": "every morning 같은 반복 습관은 현재시제로 쓰고 3인칭 단수 주어면 -s를 붙이며, next month의 일을 묻는 의문문은 Will + 주어 + 동사원형으로 쓴다는 규칙을 그대로 확인한다. 두 문장 빈칸을 짧은 대화 속 두 빈칸으로 옮겼고, 빈칸 두 곳을 판단하는 부담은 같으며, 읽을 양은 23낱말(원문항 21), 어휘는 exercise·marathon 수준이다. 오답은 원문항처럼 -s를 빠뜨린 exercise, 과거형 exercised·Did, 동사원형 앞에 쓸 수 없는 Is, 그리고 exercise — Does로 만들었다.",
+  "stem": "다음 대화의 빈칸 (A), (B)에 들어갈 말로 알맞게 짝지은 것은?",
+  "passage": "A: My sister (A)_______ every morning.\nB: (B)_______ she run in the marathon next month?",
+  "c": [
+   "exercise — Will",
+   "exercised — Did",
+   "exercises — Will",
+   "exercises — Is",
+   "exercise — Does"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "1-11",
+  "variant": 2,
+  "ref_format": "두 문장의 빈칸(현재시제 3인칭 단수 / 미래 의문문 조동사)에 들어갈 말 짝 고르기",
+  "new_format": "(A), (B)의 [ ] 안에서 어법상 알맞은 말을 골라 짝 고르기(빈칸 대신 네모 고르기)",
+  "design": "반복 습관은 현재시제·3인칭 단수 -s로, 미래의 일을 묻는 의문문은 Will + 주어 + 동사원형으로 쓴다는 같은 규칙을, 빈칸 채우기 대신 [ ] 안에서 알맞은 말을 고르는 형식으로 확인한다. 고를 곳은 (A)·(B) 두 곳으로 원문항과 같고, 읽을 양은 27낱말(원문항 21), 어휘는 yoga·class·spring 수준이다. 오답은 -s를 빠뜨린 teach, 동사원형 앞에 쓸 수 없는 Is, next spring과 맞지 않는 Did를 섞어 만들었다.",
+  "stem": "다음 (A), (B)의 [ ] 안에서 어법상 알맞은 말을 골라 바르게 짝지은 것을 고르시오.",
+  "passage": "(A) Ms. Park [teach / teaches] yoga every Tuesday.\n(B) [Is / Did / Will] she open a new class next spring?",
+  "c": [
+   "teach — Will",
+   "teaches — Is",
+   "teach — Did",
+   "teaches — Did",
+   "teaches — Will"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "1-11",
+  "variant": 3,
+  "ref_format": "두 문장의 빈칸(현재시제 3인칭 단수 / 미래 의문문 조동사)에 들어갈 말 짝 고르기",
+  "new_format": "우리말과 뜻이 같도록 두 영어 문장의 빈칸 (A), (B)에 들어갈 말 짝 고르기(우리말 제시)",
+  "design": "매일 하는 습관은 현재시제(3인칭 단수 -s), 내일 할 일을 묻는 의문문은 Will로 쓴다는 같은 규칙을, 우리말 문장을 영어로 옮기는 형식으로 확인한다. 빈칸 두 곳을 판단하는 부담은 같고, 영어 읽을 양은 22낱말(원문항 21)에 짧은 우리말 두 줄이 붙으며, 어휘는 take a walk·science museum 수준이다. 오답은 -s를 빠뜨린 take, 과거형 took·Did, 동사원형 앞에 쓸 수 없는 Are, take — Do로 만들었다.",
+  "stem": "다음 우리말과 뜻이 같도록 빈칸 (A), (B)에 들어갈 말로 알맞게 짝지은 것을 고르시오.",
+  "passage": "• 우리 할머니는 매일 저녁 산책을 하신다.\n→ My grandma (A)_______ a walk every evening.\n• 너는 내일 과학관을 방문할 거니?\n→ (B)_______ you visit the science museum tomorrow?",
+  "c": [
+   "takes — Will",
+   "took — Did",
+   "take — Do",
+   "takes — Are",
+   "take — Will"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "1-12",
+  "variant": 1,
+  "ref_format": "두 문장의 빈칸(과거시제 / 현재완료)에 들어갈 말 짝 고르기",
+  "new_format": "두 문장의 밑줄 친 (A)(과거 시점), (B)(recently)를 어법상 바르게 고친 것 짝 고르기(빈칸 대신 고쳐 쓰기)",
+  "design": "last Friday처럼 끝난 과거 시점에는 과거시제, recently처럼 최근부터 지금까지를 나타내는 말에는 현재완료를 쓴다는 규칙을 그대로 확인한다. 빈칸 채우기를 ‘틀린 두 곳 바르게 고치기’로 바꿨고, 판단할 곳은 (A)·(B) 두 곳으로 같으며, 읽을 양은 28낱말(원문항 25), 어휘는 glasses·grow 수준이다. 오답은 last Friday와 쓸 수 없는 현재완료 has broken, recently와 맞지 않는 현재형 grows, 원문항처럼 주어와 수가 맞지 않는 have grown이다.",
+  "stem": "다음 밑줄 친 (A), (B)를 어법상 바르게 고친 것끼리 짝지은 것을 고르시오.",
+  "passage": "Minho (A)<u>breaks</u> his glasses last Friday.\nMy little sister (B)<u>grow</u> a lot recently.",
+  "c": [
+   "broke — grows",
+   "has broken — has grown",
+   "broke — has grown",
+   "has broken — grows",
+   "broke — have grown"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "1-12",
+  "variant": 2,
+  "ref_format": "두 문장의 빈칸(과거시제 / 현재완료)에 들어갈 말 짝 고르기",
+  "new_format": "우리말과 뜻이 같도록 두 영어 문장의 빈칸 (A)(과거 시점), (B)(recently)에 들어갈 말 짝 고르기(우리말 제시)",
+  "design": "last Saturday 같은 과거 시점에는 과거시제, recently에는 현재완료를 쓴다는 같은 규칙을, 우리말 문장을 영어로 옮기는 형식으로 확인한다. 빈칸 두 곳을 판단하는 부담은 같고, 영어 읽을 양은 27낱말(원문항 25)에 짧은 우리말 두 줄이 붙으며, 어휘는 movie·actor·award 수준이다. 오답은 last Saturday와 함께 쓸 수 없는 have seen, 현재형 see·wins, 주어와 수가 맞지 않는 have won으로 원문항의 오답 종류와 같다.",
+  "stem": "다음 우리말과 뜻이 같도록 빈칸 (A), (B)에 들어갈 말로 알맞게 짝지은 것을 고르시오.",
+  "passage": "• 나는 지난 토요일에 미나와 그 영화를 봤다.\n→ I (A)_______ that movie with Mina last Saturday.\n• 그 배우는 최근에 많은 상을 받았다.\n→ The actor (B)_______ many awards recently.",
+  "c": [
+   "saw — wins",
+   "have seen — has won",
+   "see — has won",
+   "saw — has won",
+   "saw — have won"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "1-12",
+  "variant": 3,
+  "ref_format": "두 문장의 빈칸(과거시제 / 현재완료)에 들어갈 말 짝 고르기",
+  "new_format": "(A), (B)의 [ ] 안에서 어법상 알맞은 말을 골라 짝 고르기(빈칸 대신 네모 고르기)",
+  "design": "two days ago 같은 끝난 과거 시점에는 과거시제, recently에는 현재완료를 쓴다는 같은 규칙을, 빈칸 채우기 대신 [ ] 안에서 알맞은 말을 고르는 형식으로 확인한다. 고를 곳은 (A)·(B) 두 곳이고 갈래 수도 (A) 둘·(B) 셋으로 원문항 보기(첫 빈칸 셋·둘째 빈칸 둘)와 같은 규모이며, 읽을 양은 32낱말(원문항 25), 어휘는 aunt·vegetable prices 수준이다. 오답은 과거 시점과 쓴 has visited, recently와 맞지 않는 현재형 rise, 복수 주어와 맞지 않는 has risen이다.",
+  "stem": "다음 (A), (B)의 [ ] 안에서 어법상 알맞은 말을 골라 바르게 짝지은 것을 고르시오.",
+  "passage": "(A) Yuna [visited / has visited] her aunt two days ago.\n(B) Vegetable prices [rise / has risen / have risen] recently.",
+  "c": [
+   "visited — rise",
+   "has visited — have risen",
+   "visited — has risen",
+   "has visited — rise",
+   "visited — have risen"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "1-21",
+  "variant": 1,
+  "ref_format": "두 문장이 같은 뜻이 되도록 빈칸에 알맞은 ‘조동사 + have + 과거분사’ 고르기",
+  "new_format": "‘~했음에 틀림없다’ 우리말 문장을 영어로 바르게 옮긴 것 고르기(조동사만 다른 문장 보기 5개)",
+  "design": "must have + 과거분사는 지난 일에 대한 강한 확신(~했음에 틀림없다)이고 might/could have는 약한 추측, should have는 후회, can't have는 ‘~했을 리 없다’라는 규칙을 그대로 확인한다. 두 문장 같은 뜻 빈칸을 우리말→영어 옮기기로 바꿨고, 보기는 조동사만 다른 같은 문장이라 조동사 하나만 판단하며, 읽을 양은 30낱말(원문항 25), 어휘는 hear the news 수준이다. 오답은 원문항과 같은 종류인 약한 추측(might, could), 후회(should), 반대 뜻(can't)이다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "지호는 그 소식을 들었음에 틀림없다.",
+  "c": [
+   "Jiho must have heard the news.",
+   "Jiho might have heard the news.",
+   "Jiho should have heard the news.",
+   "Jiho can't have heard the news.",
+   "Jiho could have heard the news."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "1-21",
+  "variant": 2,
+  "ref_format": "두 문장이 같은 뜻이 되도록 빈칸에 알맞은 ‘조동사 + have + 과거분사’ 고르기",
+  "new_format": "확신(I'm sure)이 드러난 짧은 대화의 빈칸에 알맞은 ‘조동사 + have + 과거분사’ 고르기",
+  "design": "지난 일에 대한 강한 확신은 must have + 과거분사로 나타낸다는 같은 규칙을, 두 문장 같은 뜻 대신 B가 I'm sure라고 확신을 밝히는 짧은 대화의 빈칸으로 확인한다. 빈칸 하나에 다섯 조동사 중 하나를 고르는 판단은 같고, 읽을 양은 31낱말(원문항 25), 어휘는 a piece of cake 수준이다. 빈칸 문장은 B가 확신한 내용(민수가 먹었다)을 그대로 다시 말하므로, 오답은 확신과 맞지 않는 약한 추측(might, could), 후회(should), I'm sure와 반대인 can't have다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Who ate the last piece of cake?\nB: I'm sure it was Minsu. He _______ it.",
+  "c": [
+   "might have eaten",
+   "must have eaten",
+   "can't have eaten",
+   "should have eaten",
+   "could have eaten"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "1-21",
+  "variant": 3,
+  "ref_format": "두 문장이 같은 뜻이 되도록 빈칸에 알맞은 ‘조동사 + have + 과거분사’ 고르기",
+  "new_format": "두 문장이 같은 뜻이 되도록 밑줄 친 조동사 완료형을 바르게 고친 것 고르기(빈칸 대신 고쳐 쓰기)",
+  "design": "I'm sure that + 과거 사실은 must have + 과거분사로 바꿔 쓴다는 같은 규칙을, 빈칸 채우기 대신 잘못 쓴 might have lost를 바르게 고치는 형식으로 확인한다. 고칠 곳 하나에 보기 다섯 개라 판단 부담이 같고, 읽을 양은 30낱말(원문항 25), 어휘는 umbrella 수준이다. 오답은 확신과 맞지 않는 약한 추측(may, could), 후회(should), 반대 뜻(can't)이다.",
+  "stem": "다음 두 문장의 뜻이 같도록 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "I'm sure that Sora lost her umbrella yesterday.\n= Sora <u>might have lost</u> her umbrella yesterday.",
+  "c": [
+   "may have lost",
+   "could have lost",
+   "should have lost",
+   "must have lost",
+   "can't have lost"
+  ],
+  "ans": 4
+ }
+]

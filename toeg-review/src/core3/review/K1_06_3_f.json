@@ -1,0 +1,20 @@
+[
+ {"key":"1-122","variant":1,
+  "stem":"다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage":"A: Did all your classmates understand the lesson?\nB: _______ Seojin did, but Hyunwoo and Minjae didn't.",
+  "c":["None of them understood it.","Nobody understood it.","All of them understood it.","They all not understood it.","Not all of them understood it."],
+  "ans":5,
+  "new_format":"짧은 대화의 빈칸에 들어갈 대답 문장 고르기"},
+ {"key":"1-122","variant":2,
+  "stem":"다음 문장과 의미가 같은 것을 고르시오.",
+  "passage":"Some restaurants open on Sundays, but others don't.",
+  "c":["Not every restaurant opens on Sundays.","Every restaurant opens on Sundays.","No restaurant opens on Sundays.","None of the restaurants open on Sundays.","No every restaurant opens on Sundays."],
+  "ans":1,
+  "new_format":"주어진 영어 문장과 의미가 같은 문장 고르기"},
+ {"key":"1-122","variant":3,
+  "stem":"다음 중 우리말을 영어로 잘못 옮긴 것을 고르시오.",
+  "passage":"",
+  "c":["모든 뱀이 위험한 것은 아니다. → Not all snakes are dangerous.","내 친구들이 모두 수영을 할 줄 아는 것은 아니다. → None of my friends can swim.","오늘 지각한 학생은 아무도 없었다. → No student was late today.","모든 영화가 행복한 결말로 끝나는 것은 아니다. → Not every movie has a happy ending.","상자 안의 사과 중 신선한 것은 하나도 없었다. → None of the apples in the box were fresh."],
+  "ans":2,
+  "new_format":"우리말-영어 짝 5개 중 잘못 옮긴 것 고르기"}
+]

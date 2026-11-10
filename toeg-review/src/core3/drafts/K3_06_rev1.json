@@ -1,0 +1,53 @@
+[
+ {
+  "key": "3-122",
+  "variant": 2,
+  "ref_format": "밑줄 친 that이 든 문장 5개 중 쓰임(지시형용사/명사절 접속사)이 다른 하나 고르기",
+  "new_format": "밑줄 친 that이 접속사로 쓰인 문장 하나 고르기(지시형용사 넷 + 접속사 하나, 반대 방향)",
+  "design": "같은 규칙(that + 명사 → 지시형용사, that + 주어 + 동사 → 접속사)을 원문항과 반대 방향, 즉 지시형용사 넷 속에서 접속사 하나를 고르는 형식으로 확인한다. 문장 다섯 개에서 that 뒤를 한 번씩 보는 판단 개수는 같고, 읽을 양은 31낱말(원문항 30), 어휘는 bakery·bridge·jacket·river 수준이다. 정답 ④는 that 뒤에 he moved가 오는 목적어절이고, 오답은 문장 맨 앞의 That bakery sells·That old bridge crosses(that + 명사 + 동사라 절로 착각하기 쉬운 것, 원문항 정답 That book is와 같은 꼴)와 동사 뒤의 that black jacket·that picture로, 위치만 보고는 고를 수 없게 했다.",
+  "stem": "다음 중 밑줄 친 that이 접속사로 쓰인 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "My brother wants <u>that</u> black jacket.",
+   "<u>That</u> bakery sells fresh bread.",
+   "Who painted <u>that</u> picture on the wall?",
+   "I heard <u>that</u> he moved to Busan.",
+   "<u>That</u> old bridge crosses the river."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "3-122",
+  "variant": 3,
+  "ref_format": "밑줄 친 that이 든 문장 5개 중 쓰임(지시형용사/명사절 접속사)이 다른 하나 고르기",
+  "new_format": "짧은 대화 속 밑줄 친 that ⓐ~ⓔ 중 쓰임이 다른 하나 고르기",
+  "design": "that 뒤에 명사가 오면 지시형용사, 주어 + 동사가 오면 접속사라는 규칙을 서술문 보기 대신 짧은 대화 속 밑줄 ⓐ~ⓔ로 확인한다. that 다섯 개를 하나씩 판단하는 것은 원문항과 같고, 읽을 양은 35낱말(원문항 30, 1.17배, 화자 표시 포함), 어휘는 cap·hat·fit 수준의 쉬운 쇼핑 대화다. ⓔ만 guess의 목적어절 it will fit him을 이끄는 접속사이고, 나머지는 cap·hat을 꾸미는 지시형용사인데 ⓑ는 문장 맨 앞, ⓐ·ⓒ·ⓓ는 about·like 뒤에 있어 위치가 아니라 that 뒤에 오는 말로만 가릴 수 있다.",
+  "stem": "다음 대화의 밑줄 친 ⓐ~ⓔ 중 쓰임이 나머지 넷과 다른 것은?",
+  "passage": "A: How about ⓐ<u>that</u> blue cap for Dad?\nB: Hmm, ⓑ<u>that</u> cap looks too small.\nA: Then what about ⓒ<u>that</u> brown hat?\nB: Oh, I like ⓓ<u>that</u> hat. I guess ⓔ<u>that</u> it will fit him.",
+  "c": [
+   "ⓐ",
+   "ⓑ",
+   "ⓒ",
+   "ⓓ",
+   "ⓔ"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "3-131",
+  "variant": 3,
+  "ref_format": "우리말 뜻이 주어진 두 문장(명령문·Let's)의 빈칸에 들어갈 동사 형태 짝 고르기",
+  "new_format": "명령문·Let's 짧은 문장 5개 중 어법상 옳은 것 고르기(짧은 문장 보기)",
+  "design": "명령문은 동사원형으로 시작하고 Let's 뒤에도 동사원형을 쓴다는 두 규칙을, 두 빈칸 짝 대신 짧은 문장 다섯 개 중 어법상 옳은 것 고르기로 확인한다. 보기마다 동사 한 곳만 판단하는 5낱말 문장이고, 읽을 양은 25낱말(원문항 20, 1.25배), 어휘는 salt·vegetables·umbrella·snowman 수준이다. 오답은 명령문을 -ing형(Passing)·3인칭 단수형(Brings)으로 시작한 것, Let's 뒤에 to부정사(to practice)·-ing형(building)을 쓴 것으로, 두 규칙을 모두 알아야 소거할 수 있다.",
+  "stem": "다음 중 어법상 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Passing me the salt, please.",
+   "Let's to practice together tomorrow.",
+   "Brings your umbrella to school.",
+   "Wash the vegetables before dinner.",
+   "Let's building a snowman outside."
+  ],
+  "ans": 4
+ }
+]

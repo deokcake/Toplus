@@ -1,0 +1,442 @@
+[
+ {
+  "key": "5-51",
+  "grade": 5,
+  "no": 51,
+  "chapter": "CH 6",
+  "chapter_name": "미래시제",
+  "ref": {
+   "stem": "다음 주어진 동사의 알맞은 형태를 고르시오.",
+   "passage": "He will _______ to the park.",
+   "c": [
+    "goes",
+    "going",
+    "be go",
+    "go",
+    "went"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 조동사 will 뒤에는 주어와 관계없이 동사원형을 쓴다.\n풀이 순서: ① 빈칸 바로 앞의 will을 본다. → ② will 뒤는 주어가 3인칭 단수 He이어도 동사원형이다. -s, -ing, to부정사, 과거형, be를 덧붙인 것을 지운다. → ③ 정답은 go.\n문장별 판정:\n정답 판단: will 뒤에 동사원형 go를 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] will 뒤에 -s형을 쓸 수 없으므로 오답이다.\n② [오답] will 뒤에 -ing형을 쓸 수 없으므로 오답이다.\n③ [오답] be와 go 두 동사원형을 겹쳐 쓸 수 없으므로 오답이다.\n④ [정답] will 뒤에 동사원형 go를 썼으므로 정답이다.\n⑤ [오답] will 뒤에 과거형을 쓸 수 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 주어진 동사의 알맞은 형태를 고르시오.",
+    "passage": "They will ________ the science museum next Friday.",
+    "c": [
+     "visiting",
+     "visit",
+     "visits",
+     "to visit",
+     "visited"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 주어진 동사의 알맞은 형태를 고르시오.",
+    "passage": "She will _______ a book.",
+    "c": [
+     "is read",
+     "reads",
+     "read",
+     "to read",
+     "reading"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 주어진 동사의 알맞은 형태를 고르시오.",
+    "passage": "They will _______ soccer.",
+    "c": [
+     "play",
+     "is play",
+     "plays",
+     "to play",
+     "playing"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 주어진 동사의 알맞은 형태를 고르시오.",
+    "passage": "I will _______ you.",
+    "c": [
+     "is help",
+     "helps",
+     "to help",
+     "helping",
+     "help"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 주어진 동사의 알맞은 형태를 고르시오.",
+    "passage": "We will _______ dinner.",
+    "c": [
+     "eat",
+     "to eat",
+     "eating",
+     "eats",
+     "is eat"
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   3,
+   5,
+   1
+  ]
+ },
+ {
+  "key": "5-52",
+  "grade": 5,
+  "no": 52,
+  "chapter": "CH 6",
+  "chapter_name": "미래시제",
+  "ref": {
+   "stem": "빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.",
+   "passage": "- We are _______ to leave at 7 p.m.\n- The game will _______ at 6 p.m.",
+   "c": [
+    "go - starting",
+    "going - starting",
+    "go - start",
+    "gone - starts",
+    "going - start"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 미래 표현 두 가지: be동사 + going to + 동사원형, will + 동사원형.\n풀이 순서: ① 첫 문장: be동사(are)와 to 사이의 빈칸이므로 be going to의 going이 들어간다. → ② 둘째 문장: will 뒤이므로 동사원형 start. → ③ 정답은 going - start.\n문장별 판정:\n정답 판단: are going to + 동사원형, will + 동사원형 start로 알맞으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] are 뒤에는 go가 아니라 going이, will 뒤에는 starting이 아니라 start가 와야 하므로 오답이다.\n② [오답] will 뒤에 -ing형 starting을 쓸 수 없으므로 오답이다.\n③ [오답] are 뒤에는 go가 아니라 going이 와야 하므로 오답이다.\n④ [오답] are gone to leave라고 쓰지 않고 will 뒤에 starts도 쓸 수 없으므로 오답이다.\n⑤ [정답] are going to + 동사원형, will + 동사원형 start로 알맞으므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "- Tom is ________ to call his uncle tonight.\n- The class will ________ at nine tomorrow.",
+    "c": [
+     "go - begins",
+     "gone - begin",
+     "going - begin",
+     "going - beginning",
+     "going - begins"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "- She is _______ to study tonight.\n- Tom will _______ us later.",
+    "c": [
+     "go - calls",
+     "going - call",
+     "going - calls",
+     "going - calling",
+     "gone - call"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "- They are _______ to play soccer.\n- It will _______ soon.",
+    "c": [
+     "going - rain",
+     "going - raining",
+     "going - rains",
+     "gone - rain",
+     "go - rains"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "- I am _______ to buy a bag.\n- We will _______ tomorrow.",
+    "c": [
+     "going - going",
+     "gone - go",
+     "go - goes",
+     "going - go",
+     "going - goes"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "- Jane is _______ to cook dinner.\n- Dad will _______ home at 8.",
+    "c": [
+     "going - comes",
+     "gone - come",
+     "go - comes",
+     "going - coming",
+     "going - come"
+    ],
+    "ans": 5
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "key": "5-61",
+  "grade": 5,
+  "no": 61,
+  "chapter": "CH 7",
+  "chapter_name": "숫자 표현과 비인칭주어 it",
+  "ref": {
+   "stem": "빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.",
+   "passage": "· Dogs have _______ legs.\n· Today is my _______ birthday.\n· She lives on the _______ floor.",
+   "c": [
+    "four - twelfth - third",
+    "four - twelfth - three",
+    "four - twelve - third",
+    "fourth - twelve - three",
+    "fourth - twelfth - third"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 개수는 기수(four)로, 몇 번째 생일·몇 층 같은 순서는 서수(twelfth, third)로 나타낸다.\n풀이 순서: ① 첫 문장은 개수를 말한다 → 기수 four. → ② 둘째 문장은 몇 번째 생일인지 말한다 → 서수 twelfth. → ③ 셋째 문장은 몇 층인지 말한다 → 서수 third. 정답은 ①.\n문장별 판정:\n정답 판단: 개수는 기수 four, 생일과 층은 서수 twelfth, third로 알맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 개수는 기수 four, 생일과 층은 서수 twelfth, third로 알맞으므로 정답이다.\n② [오답] 층은 three가 아니라 서수 third로 나타내므로 오답이다.\n③ [오답] 몇 번째 생일은 twelve가 아니라 서수 twelfth로 나타내므로 오답이다.\n④ [오답] 개수는 fourth가 아니라 기수 four로 나타내고 나머지도 서수여야 하므로 오답이다.\n⑤ [오답] 개수는 fourth가 아니라 기수 four로 나타내므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "· A week has _______ days.\n· Today is his _______ birthday.\n· Our classroom is on the _______ floor.",
+    "c": [
+     "seven - fifteenth - two",
+     "seven - fifteenth - second",
+     "seventh - fifteen - two",
+     "seventh - fifteenth - second",
+     "seven - fifteen - second"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "· A spider has _______ legs.\n· It is my _______ birthday.\n· He lives on the _______ floor.",
+    "c": [
+     "eighth - tenth - fifth",
+     "eight - ten - fifth",
+     "eight - tenth - five",
+     "eight - tenth - fifth",
+     "eighth - ten - five"
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "· A triangle has _______ sides.\n· This is my cousin's _______ birthday party.\n· We live on the _______ floor.",
+    "c": [
+     "three - ninth - sixth",
+     "third - ninth - sixth",
+     "three - nine - sixth",
+     "three - ninth - six",
+     "third - nine - six"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "· A hand has _______ fingers.\n· It is Tom's _______ birthday.\n· She lives on the _______ floor.",
+    "c": [
+     "fifth - eleventh - fourth",
+     "five - eleven - fourth",
+     "five - eleventh - four",
+     "fifth - eleven - four",
+     "five - eleventh - fourth"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "빈칸에 알맞은 말이 바르게 짝지어진 것을 고르시오.",
+    "passage": "· A bicycle has _______ wheels.\n· Today is Jane's _______ birthday.\n· They live on the _______ floor.",
+    "c": [
+     "second - thirteenth - eighth",
+     "two - thirteen - eighth",
+     "two - thirteenth - eighth",
+     "two - thirteenth - eight",
+     "second - thirteen - eight"
+    ],
+    "ans": 3
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "key": "5-62",
+  "grade": 5,
+  "no": 62,
+  "chapter": "CH 7",
+  "chapter_name": "숫자 표현과 비인칭주어 it",
+  "ref": {
+   "stem": "우리말과 같은 뜻이 되는 문장을 고르시오.",
+   "passage": "그의 생일은 11월 30일이다.",
+   "c": [
+    "His birthday is November third.",
+    "His birthday is November thirty.",
+    "His birthday is November thirtieth.",
+    "His birthday is November thirteenth.",
+    "His birthday is November Thirteen."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 날짜의 ‘일’은 서수로 읽는다. 30일은 thirtieth다. thirty(기수), third(3일), thirteenth(13일)와 구별한다.\n풀이 순서: ① 날짜의 ‘일’을 확인한다: 30일. → ② 날짜는 서수로 읽으므로 thirtieth. → ③ 기수로 읽은 것과 비슷하게 생긴 다른 날짜를 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: 30일을 서수 thirtieth로 바르게 읽었으므로 정답은 ③이다.\n선택지 분석:\n① [오답] third는 3일이므로 오답이다.\n② [오답] thirty는 기수라 날짜를 읽을 때 쓰지 않으므로 오답이다.\n③ [정답] 30일을 서수 thirtieth로 바르게 읽었으므로 정답이다.\n④ [오답] thirteenth는 13일이므로 오답이다.\n⑤ [오답] Thirteen은 13을 뜻하는 기수이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "우리말과 같은 뜻이 되는 문장을 고르시오.",
+    "passage": "3월 21일은 그녀의 생일이다.",
+    "c": [
+     "March twenty-one is her birthday.",
+     "March twenty-first is her birthday.",
+     "March twelfth is her birthday.",
+     "March twenty-third is her birthday.",
+     "March first is her birthday."
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "우리말과 같은 뜻이 되는 문장을 고르시오.",
+    "passage": "그녀의 생일은 5월 3일이다.",
+    "c": [
+     "Her birthday is May three.",
+     "Her birthday is May thirteenth.",
+     "Her birthday is May thirtieth.",
+     "Her birthday is May third.",
+     "Her birthday is May thirty."
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "우리말과 같은 뜻이 되는 문장을 고르시오.",
+    "passage": "내 생일은 8월 12일이다.",
+    "c": [
+     "My birthday is August twelfth.",
+     "My birthday is August twelve.",
+     "My birthday is August twentieth.",
+     "My birthday is August twenty.",
+     "My birthday is August second."
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "우리말과 같은 뜻이 되는 문장을 고르시오.",
+    "passage": "Tom의 생일은 1월 2일이다.",
+    "c": [
+     "Tom's birthday is January two.",
+     "Tom's birthday is January twelfth.",
+     "Tom's birthday is January twentieth.",
+     "Tom's birthday is January twenty-second.",
+     "Tom's birthday is January second."
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "우리말과 같은 뜻이 되는 문장을 고르시오.",
+    "passage": "Jane의 생일은 12월 15일이다.",
+    "c": [
+     "Jane's birthday is December fifteen.",
+     "Jane's birthday is December fiftieth.",
+     "Jane's birthday is December fifteenth.",
+     "Jane's birthday is December fifth.",
+     "Jane's birthday is December fifty."
+    ],
+    "ans": 3
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   5,
+   1,
+   2
+  ]
+ },
+ {
+  "key": "5-71",
+  "grade": 5,
+  "no": 71,
+  "chapter": "CH 8",
+  "chapter_name": "형용사와 부사",
+  "ref": {
+   "stem": "선생님 설명에 해당하는 문장을 고르시오.",
+   "passage": "선생님: 형용사는 명사 앞에서 명사를 수식하거나 동사 뒤에서 주어를 보충 설명할 수 있어요. \"These apples are sweet.\" 이 문장에서 sweet이라는 형용사는 동사 뒤에서 These apples라는 주어를 보충설명하고 있어요.",
+   "c": [
+    "That is a tall building.",
+    "We have a great plan.",
+    "It is an easy question.",
+    "They are cute.",
+    "This is a great book."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 형용사의 두 쓰임: ① 명사 앞에서 명사를 꾸민다(a tall building). ② be동사·연결동사 뒤에서 주어를 보충 설명한다(They are cute).\n풀이 순서: ① 선생님이 든 예문(These apples are sweet.)은 형용사가 동사 뒤에서 주어를 설명하는 쓰임이다. → ② 보기마다 형용사 바로 뒤에 명사가 있는지 본다. 명사가 있으면 꾸미는 쓰임이다. → ③ 선택지 ④만 형용사 cute 뒤에 명사가 없고 are 뒤에서 주어를 설명한다. 정답은 ④.\n문장별 판정:\n정답 판단: cute가 are 뒤에서 주어 They를 보충 설명하므로 정답은 ④이다.\n선택지 분석:\n① [오답] tall이 명사 building 앞에서 꾸미는 쓰임이므로 오답이다.\n② [오답] great이 명사 plan 앞에서 꾸미는 쓰임이므로 오답이다.\n③ [오답] easy가 명사 question 앞에서 꾸미는 쓰임이므로 오답이다.\n④ [정답] cute가 are 뒤에서 주어 They를 보충 설명하므로 정답이다.\n⑤ [오답] great이 명사 book 앞에서 꾸미는 쓰임이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "선생님 설명에 해당하는 문장을 고르시오.",
+    "passage": "선생님: 형용사는 명사 앞에서 명사를 수식하거나 동사 뒤에서 주어를 보충 설명할 수 있어요. \"The soup smells delicious.\" 이 문장에서 delicious라는 형용사는 동사 smells 뒤에서 The soup라는 주어를 보충 설명하고 있어요.",
+    "c": [
+     "It is a delicious cake.",
+     "Mina has a new bike.",
+     "The baby looks sleepy.",
+     "We saw a big whale.",
+     "He is a kind teacher."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "선생님 설명에 해당하는 문장을 고르시오.",
+    "passage": "선생님: 형용사는 명사 앞에서 명사를 수식하거나 동사 뒤에서 주어를 보충 설명할 수 있어요. \"The sky is blue.\" 이 문장에서 blue라는 형용사는 동사 is 뒤에서 The sky라는 주어를 보충 설명하고 있어요.",
+    "c": [
+     "That is an old house.",
+     "The flowers are beautiful.",
+     "She wears a red cap.",
+     "I want a cold drink.",
+     "This is a funny movie."
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "선생님 설명에 해당하는 문장을 고르시오.",
+    "passage": "선생님: 형용사는 명사 앞에서 명사를 수식하거나 동사 뒤에서 주어를 보충 설명할 수 있어요. \"The dog looks happy.\" 이 문장에서 happy라는 형용사는 동사 looks 뒤에서 The dog라는 주어를 보충 설명하고 있어요.",
+    "c": [
+     "We have a smart dog.",
+     "Tom lives in a quiet town.",
+     "It was a long day.",
+     "The cake tastes sweet.",
+     "I read an interesting book."
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "선생님 설명에 해당하는 문장을 고르시오.",
+    "passage": "선생님: 형용사는 명사 앞에서 명사를 수식하거나 동사 뒤에서 주어를 보충 설명할 수 있어요. \"This tea smells good.\" 이 문장에서 good이라는 형용사는 동사 smells 뒤에서 This tea라는 주어를 보충 설명하고 있어요.",
+    "c": [
+     "She has long hair.",
+     "They built a tall tower.",
+     "He is a fast runner.",
+     "Look at the bright star.",
+     "The room is quiet."
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "선생님 설명에 해당하는 문장을 고르시오.",
+    "passage": "선생님: 형용사는 명사 앞에서 명사를 수식하거나 동사 뒤에서 주어를 보충 설명할 수 있어요. \"The boy seems tired.\" 이 문장에서 tired라는 형용사는 동사 seems 뒤에서 The boy라는 주어를 보충 설명하고 있어요.",
+    "c": [
+     "My uncle feels sick.",
+     "I have a heavy bag.",
+     "This is a busy street.",
+     "We met a friendly girl.",
+     "She bought a pretty dress."
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   3,
+   5,
+   1
+  ]
+ }
+]

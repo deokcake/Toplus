@@ -1,0 +1,19 @@
+[
+ {
+  "key": "5-92",
+  "variant": 2,
+  "ref_format": "‘형용사 and _______’ 문장의 빈칸에 들어갈 수 없는 낱말 고르기(낱말 보기)",
+  "new_format": "짧은 대화의 빈칸에 들어갈 수 없는 낱말 고르기(평서문→대화)",
+  "design": "같은 규칙(be동사 뒤 형용사 and 형용사)을 짧은 대화의 대답 문장 빈칸으로 옮겼고, 주어와 and 앞 형용사(He, black)·보기 낱말은 원문항·B~F·다른 변형에 없는 것으로 새로 썼다(소재는 강아지). 보기 다섯 낱말이 형용사인지 한 번씩 보는 판단 5개, 읽을 양 16낱말(대화 표시 A·B 포함, 원문항 9낱말 + 8낱말 이내), 어휘(white, young, shy)는 원문항보다 쉽다. 정답은 부사 happily(형용사 happy와 헷갈리기 쉬움)이고, silly는 -ly로 끝나는 형용사 함정으로 원문항의 lovely에 해당한다.",
+  "stem": "다음 대화의 빈칸에 들어갈 수 없는 것을 고르시오.",
+  "passage": "A: Tell me about your puppy.\nB: He is black and _______.",
+  "c": [
+   "white",
+   "young",
+   "happily",
+   "silly",
+   "shy"
+  ],
+  "ans": 3
+ }
+]

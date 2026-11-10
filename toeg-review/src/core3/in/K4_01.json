@@ -1,0 +1,464 @@
+[
+ {
+  "key": "4-1",
+  "grade": 4,
+  "no": 1,
+  "chapter": "CH 1",
+  "chapter_name": "명사와 관사",
+  "ref": {
+   "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "city - cities",
+    "leaf - leaves",
+    "potato - potatoes",
+    "child - children",
+    "mouse - mouses"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 명사의 복수형: 자음 + y → -ies(city - cities), -f(e) → -ves(leaf - leaves), -o → -es(potato - potatoes). 불규칙: child - children, mouse - mice, man - men, tooth - teeth, foot - feet.\n풀이 순서: ① 불규칙으로 변하는 명사부터 확인한다: child - children, mouse - mice. → ② 나머지는 규칙(-s, -es, y → ies, f → ves)대로인지 본다. → ③ mouse의 복수형을 mouses로 썼다. 정답은 ⑤.\n문장별 판정:\n정답 판단: mouse의 복수형은 mouses가 아니라 mice이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 자음 + y로 끝나 y를 i로 바꾸고 -es를 붙인 옳은 형태이므로 오답이다.\n② [오답] -f를 v로 바꾸고 -es를 붙인 옳은 형태이므로 오답이다.\n③ [오답] -o로 끝나 -es를 붙인 옳은 형태이므로 오답이다.\n④ [오답] child의 불규칙 복수형 children으로 옳으므로 오답이다.\n⑤ [정답] mouse의 복수형은 mouses가 아니라 mice이므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "man - mans",
+     "woman - women",
+     "tooth - teeth",
+     "watch - watches",
+     "book - books"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "box - boxes",
+     "knife - knifes",
+     "woman - women",
+     "book - books",
+     "baby - babies"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "mouse - mice",
+     "child - childs",
+     "foot - feet",
+     "class - classes",
+     "dish - dishes"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "man - men",
+     "child - children",
+     "city - cities",
+     "box - boxes",
+     "tooth - tooths"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "foot - foots",
+     "child - children",
+     "leaf - leaves",
+     "mouse - mice",
+     "baby - babies"
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": {
+   "stem": "다음 중 밑줄 친 명사의 복수형이 바르지 않은 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "Help the <u>womans</u>.",
+    "Feed the <u>puppies</u>.",
+    "Use these <u>knives</u>.",
+    "Wash the <u>tomatoes</u>.",
+    "Brush your <u>teeth</u>."
+   ],
+   "ans": 1
+  },
+  "target_answer_positions": [
+   4,
+   1,
+   2
+  ]
+ },
+ {
+  "key": "4-2",
+  "grade": 4,
+  "no": 2,
+  "chapter": "CH 1",
+  "chapter_name": "명사와 관사",
+  "ref": {
+   "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+   "passage": "",
+   "c": [
+    "sugar",
+    "freedom",
+    "monkey",
+    "water",
+    "music"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 셀 수 있는 명사는 a/an을 붙이거나 복수형으로 쓸 수 있다. 물질(sugar, water)과 추상적인 것(freedom, music)은 셀 수 없다.\n풀이 순서: ① 낱말마다 a/an을 붙이거나 복수형(-s)으로 쓸 수 있는지 따져 본다. → ② 하나, 둘로 세지 않고 양으로 다루는 명사를 지운다: sugar, freedom, water, music. → ③ 하나씩 셀 수 있는 것은 monkey뿐이다.\n문장별 판정:\n정답 판단: monkey는 한 마리, 두 마리로 셀 수 있으므로 정답은 ③이다.\n선택지 분석:\n① [오답] sugar는 물질이라 셀 수 없으므로 오답이다.\n② [오답] freedom은 추상적인 것이라 셀 수 없으므로 오답이다.\n③ [정답] monkey는 한 마리, 두 마리로 셀 수 있으므로 정답이다.\n④ [오답] water는 물질이라 셀 수 없으므로 오답이다.\n⑤ [오답] music은 하나, 둘로 셀 수 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "milk",
+     "homework",
+     "rice",
+     "apple",
+     "money"
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "juice",
+     "sugar",
+     "cookie",
+     "money",
+     "water"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "water",
+     "bread",
+     "air",
+     "chair",
+     "music"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "book",
+     "money",
+     "water",
+     "bread",
+     "music"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "teacher",
+     "homework",
+     "rice",
+     "water",
+     "milk"
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   4,
+   5,
+   1
+  ]
+ },
+ {
+  "key": "4-11",
+  "grade": 4,
+  "no": 11,
+  "chapter": "CH 2",
+  "chapter_name": "대명사",
+  "ref": {
+   "stem": "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "you - you",
+    "I - me",
+    "he - him",
+    "it - it",
+    "she - hers"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 인칭대명사의 주격 - 목적격: I - me, you - you, he - him, she - her, it - it, we - us, they - them. mine, yours, hers, ours, theirs는 ‘~의 것’이라는 소유대명사다.\n풀이 순서: ① 짝의 앞은 모두 주격이다. 뒤가 목적격인지 확인한다. → ② she의 목적격은 her다. hers는 ‘그녀의 것’이라는 소유대명사다. → ③ 정답은 she - hers.\n문장별 판정:\n정답 판단: hers는 목적격이 아니라 소유대명사이므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 주격 - 목적격의 짝이므로 오답이다.\n② [오답] 주격 - 목적격의 짝이므로 오답이다.\n③ [오답] 주격 - 목적격의 짝이므로 오답이다.\n④ [오답] 주격 - 목적격의 짝이므로 오답이다.\n⑤ [정답] hers는 목적격이 아니라 소유대명사이므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "he - him",
+     "we - ours",
+     "they - them",
+     "she - her",
+     "I - me"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "he - him",
+     "they - them",
+     "she - her",
+     "you - yours",
+     "we - us"
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "they - them",
+     "I - me",
+     "he - his",
+     "we - us",
+     "she - her"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "he - him",
+     "she - her",
+     "I - me",
+     "they - theirs",
+     "we - us"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "she - her",
+     "he - him",
+     "I - mine",
+     "we - us",
+     "they - them"
+    ],
+    "ans": 3
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "key": "4-12",
+  "grade": 4,
+  "no": 12,
+  "chapter": "CH 2",
+  "chapter_name": "대명사",
+  "ref": {
+   "stem": "다음 빈칸에 his[His]가 들어갈 수 없는 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "_____ is my best friend.",
+    "I met _____ friend yesterday.",
+    "_____ parents are doctors.",
+    "It's _____ birthday today.",
+    "The book is _____."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: his는 명사 앞의 소유격(his friend)이나 ‘그의 것’이라는 소유대명사(The book is his)로 쓴다. 주어 자리에는 He를 쓴다.\n풀이 순서: ① his가 들어가는 자리는 둘이다: 명사 앞(소유격), 명사 없이 ‘그의 것’(소유대명사). → ② 빈칸 뒤에 명사가 있거나 ‘~의 것’으로 풀리는 문장을 지운다. → ③ 선택지 ①은 빈칸 뒤가 동사 is라 주어 자리다. ‘그는 내 가장 친한 친구다’이므로 He가 들어간다. 정답은 ①.\n문장별 판정:\n정답 판단: 주어 자리라 His가 아니라 He가 들어가야 하므로 정답은 ①이다.\n선택지 분석:\n① [정답] 주어 자리라 His가 아니라 He가 들어가야 하므로 정답이다.\n② [오답] 명사 friend 앞에 소유격 his가 들어가므로 오답이다.\n③ [오답] 명사 parents 앞에 소유격 His가 들어가므로 오답이다.\n④ [오답] 명사 birthday 앞에 소유격 his가 들어가므로 오답이다.\n⑤ [오답] ‘그의 것’이라는 소유대명사 his가 들어가므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 his[His]가 들어갈 수 없는 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "This is _____ desk.",
+     "_____ is very happy today.",
+     "I know _____ teacher.",
+     "That book is _____.",
+     "_____ hat is blue."
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 빈칸에 his[His]가 들어갈 수 없는 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "_____ book on the desk is red.",
+     "This is _____ bag for the trip.",
+     "That black car is _____.",
+     "I like _____ new jacket a lot.",
+     "_____ is my classmate now."
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 빈칸에 his[His]가 들어갈 수 없는 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "This is _____ watch.",
+     "The blue umbrella is _____.",
+     "I know _____ brother.",
+     "_____ dog is cute.",
+     "_____ likes to wear a cap."
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "다음 빈칸에 his[His]가 들어갈 수 없는 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "My teacher helped _____ after class.",
+     "_____ sister is kind to everyone.",
+     "This is _____ new pencil.",
+     "That bike in the yard is _____.",
+     "I really like _____ car."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 빈칸에 his[His]가 들어갈 수 없는 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "_____ father works at a hospital.",
+     "_____ is a kind boy in my class.",
+     "We visited _____ house last Sunday.",
+     "I really like _____ new red cap.",
+     "The blue bag on the chair is _____."
+    ],
+    "ans": 2
+   }
+  },
+  "existing_pretest": {
+   "stem": "다음 중 밑줄 친 his[His]의 쓰임이 어법상 바르지 않은 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "This is <u>his</u> notebook.",
+    "<u>His</u> sister plays tennis.",
+    "<u>His</u> is my uncle.",
+    "That jacket is <u>his</u>.",
+    "We know <u>his</u> grandma."
+   ],
+   "ans": 3
+  },
+  "target_answer_positions": [
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "key": "4-21",
+  "grade": 4,
+  "no": 21,
+  "chapter": "CH 3",
+  "chapter_name": "be동사와 일반동사",
+  "ref": {
+   "stem": "다음 중 현재 시제 문장이 아닌 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "She is happy.",
+    "They play soccer.",
+    "He went to school.",
+    "We are students.",
+    "I like music."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 현재 시제 동사는 am/are/is, 동사원형, 동사 + -(e)s다. went, was, studied, played처럼 과거형이 쓰이면 과거 시제다.\n풀이 순서: ① 문장마다 동사만 본다. → ② 현재형(am/are/is, 동사원형, -(e)s)인 문장을 지운다. → ③ went는 go의 과거형이다. 정답은 ③.\n문장별 판정:\n정답 판단: went는 go의 과거형이므로 정답은 ③이다.\n선택지 분석:\n① [오답] is는 be동사의 현재형이므로 오답이다.\n② [오답] play는 일반동사의 현재형이므로 오답이다.\n③ [정답] went는 go의 과거형이므로 정답이다.\n④ [오답] are는 be동사의 현재형이므로 오답이다.\n⑤ [오답] like는 일반동사의 현재형이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 현재 시제 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "They play soccer on Sundays.",
+     "He goes to school.",
+     "She studies every day.",
+     "We visit grandma often.",
+     "Tom was at home."
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "다음 중 현재 시제 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "My brother likes pizza.",
+     "Birds fly south in winter.",
+     "Mina bought a new bag.",
+     "I am thirsty now.",
+     "The store opens at nine."
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 중 현재 시제 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Tom has two cats.",
+     "The sun rises in the east.",
+     "We are in the same class.",
+     "She studied yesterday.",
+     "My mom works at a bank."
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 중 현재 시제 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "They played soccer last night.",
+     "Jane speaks Chinese well.",
+     "It is cold today.",
+     "You look tired.",
+     "He drinks milk every morning."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 중 현재 시제 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The bus leaves at eight.",
+     "I have a headache.",
+     "Minho and I are friends.",
+     "Dad washes the car on Sundays.",
+     "We visited grandma last week."
+    ],
+    "ans": 5
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   5,
+   1,
+   2
+  ]
+ }
+]

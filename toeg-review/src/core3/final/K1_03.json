@@ -1,0 +1,257 @@
+[
+ {
+  "key": "1-51",
+  "variant": 1,
+  "ref_format": "우리말에 맞게 전치사 뒤 빈칸에 들어갈 ‘의미상 주어 + 동명사’ 구 고르기(구 보기 5개)",
+  "new_format": "우리말 뜻이 주어진 문장에서 전치사 뒤 밑줄 친 절(주어 + 동사)을 ‘의미상 주어 + 동명사’로 바르게 고친 것 고르기(구 보기 5개)",
+  "design": "전치사 뒤에는 동명사가 오고, 동명사의 동작을 한 사람이 문장의 주어와 다르면 그 앞에 소유격으로 의미상 주어를 밝힌다는 같은 규칙을, 빈칸 채우기 대신 전치사 for 뒤에 절(he remembered)을 잘못 쓴 밑줄 부분을 고치는 형식으로 확인한다. 원문항처럼 우리말을 주고 구 보기 다섯 개 중 하나를 고르는 판단 한 번이며, 읽을 양은 20낱말(원문항 19, 1.05배), 어휘는 thankful·remember·birthday 수준이다. 오답은 원문항 오답과 같은 짜임인 주격 + to부정사(he to remember), 주격 + -ing(he remembering), 소유격 + 동사원형(his remember), 소유격 + to부정사(his to remember)이고, for 뒤에서 ‘for + 목적격 + to부정사’로 읽힐 보기는 넣지 않아 원문항에 없던 함정을 없앴다.",
+  "stem": "다음 우리말과 뜻이 같도록 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "나는 그가 내 생일을 기억해 준 것이 고마웠다.\nI was thankful for <u>he remembered</u> my birthday.",
+  "c": [
+   "he to remember",
+   "he remembering",
+   "his remember",
+   "his remembering",
+   "his to remember"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "1-51",
+  "variant": 2,
+  "ref_format": "우리말에 맞게 전치사 뒤 빈칸에 들어갈 ‘의미상 주어 + 동명사’ 구 고르기(구 보기 5개)",
+  "new_format": "우리말 없이 짧은 대화 속 전치사 뒤 빈칸에 들어갈 ‘의미상 주어(이름's) + 동명사’ 구 고르기(구 보기 5개)",
+  "design": "전치사 뒤 동명사와 소유격 의미상 주어라는 같은 규칙을, 우리말 없이 짧은 대화 속 전치사 about 뒤 빈칸을 채우는 형식으로 바꿨다. 빈칸 하나에 구 보기 다섯 개라 판단은 한 번이고, 읽을 양은 23낱말(1.21배), 어휘는 upset·umbrella·lose 수준이다. 의미상 주어를 이름 + 's로 보이게 해 원문항(his)과 모양을 달리했고, 오답은 전치사 뒤 절(Jun lost), 소유격 + to부정사(Jun's to lose), 이름 + to + -ing(Jun to losing), 소유격 + 동사원형(Jun's lose)으로 만들었다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: What's wrong with Mom?\nB: She's upset about _______ her umbrella.",
+  "c": [
+   "Jun lost",
+   "Jun's to lose",
+   "Jun to losing",
+   "Jun's lose",
+   "Jun's losing"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "1-51",
+  "variant": 3,
+  "ref_format": "우리말에 맞게 전치사 뒤 빈칸에 들어갈 ‘의미상 주어 + 동명사’ 구 고르기(구 보기 5개)",
+  "new_format": "두 문장을 한 문장으로 바꿀 때 전치사 뒤 빈칸에 들어갈 ‘의미상 주어 + 동명사’ 구 고르기(구 보기 5개)",
+  "design": "같은 규칙을 ‘두 문장을 한 문장으로 바꾸기’ 형식으로 확인한다: 앞 문장의 She complained를 tired of 뒤로 옮기면 전치사 뒤이므로 동명사가 되고, 행위자가 주어(We)와 다르므로 소유격 her를 앞에 쓴다. 빈칸 하나에 구 보기 다섯 개로 판단은 한 번, 읽을 양은 24낱말(1.26배), 어휘는 complain·tired of 수준이다. 오답은 앞 문장을 그대로 옮긴 절(she complained), 주격 + -ing(she complaining), 소유격 + to부정사(her to complain), 소유격 + to + -ing(her to complaining)이다.",
+  "stem": "다음 두 문장이 같은 뜻이 되도록 빈칸에 알맞은 것을 고르시오.",
+  "passage": "She always complained. We were tired of it.\n= We were tired of _______.",
+  "c": [
+   "her complaining",
+   "she complained",
+   "she complaining",
+   "her to complain",
+   "her to complaining"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "1-52",
+  "variant": 1,
+  "ref_format": "두 문장이 같은 뜻이 되도록 deny 뒤 빈칸에 들어갈 완료동명사 형태 고르기(구 보기 5개)",
+  "new_format": "짧은 대화 속 denied 뒤 빈칸에 들어갈 완료동명사 형태 고르기(구 보기 5개)",
+  "design": "deny는 동명사를 목적어로 쓰고, 부인한 때보다 먼저 한 일은 완료동명사(having + 과거분사)로 나타낸다는 같은 규칙을 확인한다. 두 문장 바꾸기를 짧은 대화로 바꿔, A의 질문과 B의 ‘Jiho did. I saw him’으로 먹은 일이 먼저임을 보이고 denied 뒤 빈칸 하나를 고르게 했다(판단 한 번). 읽을 양은 32낱말(원문항 27, 1.19배), 어휘는 cookie·kitchen table 수준이다. 오답은 deny + to부정사형(to have eaten, to be eating), having 뒤 과거형(having ate), 뜻이 맞지 않는 수동 동명사(being eaten)이며, 단순 동명사(eating)는 넣지 않아 정답이 하나뿐이다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Who ate the chocolate cookies on the kitchen table?\nB: Jiho did. I saw him, but he denied _______ them.",
+  "c": [
+   "to have eaten",
+   "having ate",
+   "having eaten",
+   "to be eating",
+   "being eaten"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "1-52",
+  "variant": 2,
+  "ref_format": "두 문장이 같은 뜻이 되도록 deny 뒤 빈칸에 들어갈 완료동명사 형태 고르기(구 보기 5개)",
+  "new_format": "denied 뒤에 잘못 쓴 to부정사(밑줄)를 완료동명사로 바르게 고친 것 고르기(구 보기 5개)",
+  "design": "같은 규칙을 ‘denied 뒤에 잘못 쓴 to부정사(밑줄)를 바르게 고친 것 고르기’로 바꿨다. 첫 문장(last night)과 둘째 문장(this morning)으로 빌린 일이 부인한 일보다 먼저임을 드러냈고, 밑줄 한 곳을 고치는 판단 한 번이다. 읽을 양은 28낱말(1.04배), 어휘는 borrow·laptop·without asking 수준이다. 오답은 to be borrowing·to have borrowed(deny + to부정사), having borrowing(having 뒤 -ing), being borrowed(수동 동명사)로 원문항 오답과 같은 종류이며, 밑줄의 to borrow는 보기에 다시 넣지 않았다.",
+  "stem": "다음 글의 밑줄 친 부분을 어법상 바르게 고친 것을 고르시오.",
+  "passage": "Somi borrowed my laptop last night without asking.\nBut this morning, she denied <u>to borrow</u> it.",
+  "c": [
+   "to be borrowing",
+   "to have borrowed",
+   "having borrowing",
+   "having borrowed",
+   "being borrowed"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "1-52",
+  "variant": 3,
+  "ref_format": "두 문장이 같은 뜻이 되도록 deny 뒤 빈칸에 들어갈 완료동명사 형태 고르기(구 보기 5개)",
+  "new_format": "deny 뒤 목적어 형태가 서로 다른 짧은 문장 다섯 개 중 어법상 옳은 것 고르기(문장 보기 5개)",
+  "design": "deny 뒤에는 to부정사가 아닌 동명사, 앞선 일은 having + 과거분사라는 같은 규칙을, 구 보기 대신 그 구가 든 짧은 문장 다섯 개 중 옳은 것 하나를 고르는 형식으로 확인한다. 문장마다 deny 뒤 한 곳만 판단하므로 원문항이 보기 다섯 개를 하나씩 따지는 것과 같은 무게이고, 읽을 양은 33낱말(원문항 27, 1.22배), 어휘는 pen·lie·class·cheat·letter 수준이며 인물(Ben·Kate·Yuri·Amy)은 원문항·B~F에 없는 새 인물이다. 오답 넷은 to have taken, having telling, to be skipping, to cheat로 원문항 오답(to have broken, having breaking, to be breaking)과 같은 실수를 새 동사로 만들었고, 문장 길이를 6~7낱말로 고르게 했다.",
+  "stem": "다음 중 어법상 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Ben denied to have taken my pen.",
+   "Kate denied having telling a lie.",
+   "They denied to be skipping the class.",
+   "Yuri denied to cheat on the test.",
+   "Amy denied having opened my letter."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "1-61",
+  "variant": 1,
+  "ref_format": "두 문장의 빈칸 (A), (B)에 들어갈 감정 분사(-ed/-ing) 짝 고르기",
+  "new_format": "짧은 대화의 빈칸 (A), (B)에 들어갈 감정 분사 짝 고르기(느끼는 쪽 -ed, 일으키는 쪽 -ing)",
+  "design": "감정 분사는 감정을 느끼는 사람을 설명하면 -ed, 감정을 일으키는 것을 설명하면 -ing라는 같은 규칙을, 두 문장 대신 짧은 대화의 빈칸 (A), (B) 짝으로 확인한다. (A)는 사람(you)이 느끼는 상태라 excited, (B)는 우승 경기를 본 일(It)이 놀라움을 일으키므로 amazing으로 판단은 두 번(원문항과 같음)이고, 읽을 양은 34낱말(원문항 28, 1.21배), 어휘는 excited·amazing·championship 수준이며, 원문항·B~F·다른 변형에 없는 감정 분사 짝(excite·amaze)과 새 상황(응원하는 축구팀의 우승)을 썼다. 오답은 -ed/-ing를 반대로 쓴 짝 셋과 원문항 ⑤처럼 동사원형을 넣은 짝(excited - amaze)이다.",
+  "stem": "다음 대화의 빈칸 (A), (B)에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+  "passage": "A: Hey, Seojun. You look (A)_______ this morning. What happened?\nB: I watched my favorite soccer team win the championship last night. It was really (B)_______.",
+  "c": [
+   "excited - amazing",
+   "exciting - amazed",
+   "excited - amazed",
+   "exciting - amazing",
+   "excited - amaze"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "1-61",
+  "variant": 2,
+  "ref_format": "두 문장의 빈칸 (A), (B)에 들어갈 감정 분사(-ed/-ing) 짝 고르기",
+  "new_format": "우리말 두 문장과 뜻이 같도록 영어 문장의 빈칸 (A), (B)에 들어갈 감정 분사 짝 고르기",
+  "design": "같은 감정 분사 규칙을, 우리말 두 문장을 주고 영어 문장의 빈칸 (A), (B)를 채우는 형식으로 확인한다. (A)는 원문항처럼 문장 앞 분사구(Bored by ~)로 Yuna가 지루함을 느끼는 쪽, (B)는 이야기가 흥미를 일으키는 쪽이라 interesting이며 판단은 두 번이고, 읽을 양은 29낱말(1.04배), 어휘는 lecture·yawn·trip 수준이며 인물은 원문항·B~F에 없는 새 인물(Yuna)로 바꿨다. 오답은 -ed/-ing를 바꾼 짝(Boring - interested, Bored - interested, Boring - interesting)과 동사원형을 넣은 짝(Bored - interest)이다.",
+  "stem": "다음 우리말과 뜻이 같도록 할 때, 빈칸 (A), (B)에 알맞은 말이 순서대로 짝지어진 것을 고르시오.",
+  "passage": "긴 강의에 지루해진 Yuna는 수업 중에 계속 하품을 했다.\n→ (A)_______ by the long lecture, Yuna kept yawning in class.\n제주도 여행에 관한 그의 이야기는 아주 흥미로웠다.\n→ His story about the trip to Jeju was very (B)_______.",
+  "c": [
+   "Boring - interested",
+   "Bored - interesting",
+   "Bored - interested",
+   "Boring - interesting",
+   "Bored - interest"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "1-61",
+  "variant": 3,
+  "ref_format": "두 문장의 빈칸 (A), (B)에 들어갈 감정 분사(-ed/-ing) 짝 고르기",
+  "new_format": "네 문장짜리 짧은 글의 빈칸 (A), (B)에 들어갈 감정 분사 짝 고르기",
+  "design": "같은 규칙을 네 문장짜리 짧은 글의 빈칸 (A), (B) 짝 고르기로 바꿨다. 두 빈칸 모두 Sena가 감정을 느끼는 쪽이라 worried, relieved로 원문항처럼 둘 다 -ed이고, felt·was so 뒤라 진행형으로 읽힐 수 없게 했다(판단 두 번). 읽을 양은 33낱말(1.18배), 어휘는 worried·relieved·finally 수준이다. 오답은 -ing를 한 곳이나 두 곳에 쓴 짝 셋과 동사원형을 넣은 짝(worried - relieve)이다.",
+  "stem": "다음 글의 빈칸 (A), (B)에 들어갈 말로 알맞게 짝지은 것을 고르시오.",
+  "passage": "Sena lost her little cat last night. She felt (A)_______ and couldn't sleep. This morning, the cat finally came back home. Sena was so (B)_______!",
+  "c": [
+   "worried - relieving",
+   "worrying - relieved",
+   "worrying - relieving",
+   "worried - relieved",
+   "worried - relieve"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "1-62",
+  "variant": 1,
+  "ref_format": "주어진 문장 끝 빈칸에 이어질 ‘with + 명사 + 분사’ 구 다섯 개 중 어법상 옳지 않은 것 고르기",
+  "new_format": "주어진 문장 끝 빈칸에 이어질 ‘with + 명사 + 분사’ 구 다섯 개 중 어법상 옳은 것 고르기(틀린 넷, 옳은 하나)",
+  "design": "‘with + 명사 + 분사’에서 명사가 동작을 스스로 하면 현재분사, 당하면 과거분사를 쓴다는 같은 규칙을, ‘옳지 않은 것’ 대신 ‘옳은 것 하나’를 고르는 반대 방향으로 확인한다. 원문항처럼 문장 하나와 with 구 다섯 개를 하나씩 따지는 판단 다섯 번이고, 읽을 양은 31낱말(원문항 25, 1.24배), 보기는 모두 5낱말이며, 장면은 원문항·B~F·다른 변형에 없는 ‘무대에 오르는 가수’로 새로 잡았다. 정답은 밴드가 스스로 연주하는 playing이고, 오답은 당하는 대상에 -ing를 쓴 것(hands raising, microphone holding)과 스스로 하는 대상에 과거분사를 쓴 것(crowd cheered, heart beaten)이라 ‘-ing면 맞다/과거분사면 맞다’ 식으로는 고를 수 없다.",
+  "stem": "다음 빈칸에 들어갈 말로 어법상 알맞은 것을 고르시오.",
+  "passage": "The singer walked onto the stage ___________.",
+  "c": [
+   "with her hands raising high",
+   "with the crowd cheered loudly",
+   "with her microphone holding tight",
+   "with the band playing softly",
+   "with her heart beaten fast"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "1-62",
+  "variant": 2,
+  "ref_format": "주어진 문장 끝 빈칸에 이어질 ‘with + 명사 + 분사’ 구 다섯 개 중 어법상 옳지 않은 것 고르기",
+  "new_format": "‘with + 명사 + 분사’ 구에 밑줄을 친 서로 다른 짧은 문장 다섯 개 중 밑줄 친 부분이 어법상 옳지 않은 것 고르기",
+  "design": "‘with + 명사 + 분사’에서 명사가 동작을 스스로 하면 현재분사, 당하면 과거분사를 쓴다는 같은 규칙을, 틀 문장 하나에 구 다섯 개를 넣는 대신 인물·장면이 서로 다른 짧은 문장 다섯 개의 밑줄 친 with 구를 판정하는 형식으로 확인한다. 밑줄 친 구마다 한 곳만 따지는 판단 다섯 번으로 원문항과 같고, 읽을 양은 32낱말(원문항 25, 1.28배), 문장은 6~7낱말로 고르게 했으며 우리말 풀이는 붙이지 않았다. 정답 ①은 숙제가 끝내지는 대상인데 finishing을 써서 원문항 ⑤(arms folding)와 같은 실수이고, 나머지는 스스로 하는 동작의 -ing(Mom singing, candles burning)와 당하는 상태의 과거분사(seatbelt fastened, door unlocked)로 섞어 -ing/과거분사 겉모양만으로는 고를 수 없게 했다.",
+  "stem": "다음 중 밑줄 친 부분이 어법상 옳지 않은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Jisu watched TV <u>with her homework finishing</u>.",
+   "The baby slept <u>with Mom singing</u>.",
+   "Dad drove <u>with his seatbelt fastened</u>.",
+   "We ate dinner <u>with candles burning</u>.",
+   "Sora left home <u>with the door unlocked</u>."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "1-62",
+  "variant": 3,
+  "ref_format": "주어진 문장 끝 빈칸에 이어질 ‘with + 명사 + 분사’ 구 다섯 개 중 어법상 옳지 않은 것 고르기",
+  "new_format": "짧은 대화 속 B의 말 끝 빈칸에 이어질 ‘with + 명사 + 분사’ 구 중 알맞지 않은 것 고르기",
+  "design": "같은 규칙을 짧은 대화의 빈칸에 들어갈 with 구 중 알맞지 않은 것을 고르는 형식으로 바꿨다. 보기 다섯 개를 하나씩 판정하는 판단 다섯 번이고, 읽을 양은 32낱말(1.28배), 보기는 모두 5낱말이며 어휘는 sleeve·cap·jog 수준이다. 정답 ②는 모자가 쓰이는 대상인데 wearing을 쓴 것(→ worn)으로 원문항과 같은 종류의 실수이고, 나머지는 당하는 상태의 과거분사(rolled up, tied)와 스스로 하는 동작의 -ing(following, shining)이다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 어법상 알맞지 않은 것을 고르시오.",
+  "passage": "A: Where's Hojun?\nB: He's jogging outside ___________.",
+  "c": [
+   "with his sleeves rolled up",
+   "with his cap wearing backward",
+   "with his dog following him",
+   "with the sun shining brightly",
+   "with his shoes tied tightly"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "1-71",
+  "variant": 1,
+  "ref_format": "비교급 강조어(much·far·even·a lot·very)가 든 문장 다섯 개 중 비교급 강조가 바르지 않은 것 고르기",
+  "new_format": "우리말 ‘훨씬 더 ~한’을 비교급 강조어로 옮긴 영어 문장 다섯 개 중 바르게 옮기지 않은 것 고르기",
+  "design": "비교급은 much·far·even·a lot으로 강조하고 very는 비교급 앞에 쓸 수 없다는 같은 규칙을, 우리말 ‘훨씬 더 ~’를 영어로 옮긴 문장 다섯 개 중 바르게 옮기지 않은 것을 고르는 형식으로 확인한다. 원문항처럼 문장 다섯 개에서 비교급 앞 강조어 한 곳씩만 판단하고, 읽을 양은 영어 40낱말(원문항 38, 1.05배), 어휘는 small·hot·hard·long·safe 수준이며 문장은 원문항·B~F·다른 변형과 겹치지 않게 새로 썼다. 옳은 문장 넷은 much·far·even·a lot을 하나씩 썼고, 정답 ④ very longer는 원문항 정답(very more creative)과 같은 ‘very + 비교급’ 실수를 새 문장에 담은 것이다.",
+  "stem": "다음 중 우리말을 영어로 바르게 옮기지 않은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "내 고양이는 네 고양이보다 훨씬 더 작다. → My cat is much smaller than yours.",
+   "이번 여름은 작년 여름보다 훨씬 더 덥다. → This summer is far hotter than last summer.",
+   "그 퍼즐은 내 생각보다 훨씬 더 어려웠다. → The puzzle was even harder than I thought.",
+   "내 남동생은 나보다 훨씬 더 오래 잔다. → My brother sleeps very longer than I do.",
+   "이 길은 저 길보다 훨씬 더 안전하다. → This road is a lot safer than that one."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "1-71",
+  "variant": 2,
+  "ref_format": "비교급 강조어(much·far·even·a lot·very)가 든 문장 다섯 개 중 비교급 강조가 바르지 않은 것 고르기",
+  "new_format": "짧은 대화의 빈칸에 들어갈 B의 대답 문장 다섯 개 중 비교급 강조가 어법상 알맞지 않은 것 고르기",
+  "design": "같은 규칙을 짧은 대화의 빈칸에 들어갈 B의 대답 문장 다섯 개 중 어법상 알맞지 않은 것을 고르는 형식으로 바꿨다. 대답마다 비교급 앞 강조어 한 곳만 판단하는 판단 다섯 번이고, 읽을 양은 42낱말(1.11배), 어휘는 tasty·quiet·playground·friendly 수준이다. 옳은 보기는 much·a lot·far·even을 하나씩 썼고, 정답 ⑤는 very friendlier로, 문장 길이를 5~7낱말로 고르게 해 겉모양으로 고를 수 없게 했다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 어법상 알맞지 않은 것을 고르시오.",
+  "passage": "A: How do you like your new school?\nB: I love it. _______________",
+  "c": [
+   "It's much bigger than my old school.",
+   "The lunch there is a lot tastier.",
+   "The library is far quieter, too.",
+   "The playground is even larger.",
+   "My classmates are very friendlier."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "1-71",
+  "variant": 3,
+  "ref_format": "비교급 강조어(much·far·even·a lot·very)가 든 문장 다섯 개 중 비교급 강조가 바르지 않은 것 고르기",
+  "new_format": "다섯 문장짜리 짧은 글 속 밑줄 친 비교급 강조어 ⓐ~ⓔ 중 어법상 틀린 것 고르기(기호 보기)",
+  "design": "같은 규칙을 다섯 문장짜리 짧은 글 속 밑줄 친 비교급 강조어 ⓐ~ⓔ 중 틀린 것을 고르는 형식으로 바꿨다. 밑줄마다 비교급 앞 강조어 하나만 판단하는 판단 다섯 번이고, 읽을 양은 44낱말(1.16배), 어휘는 garden·tomato·bloom 수준이다. ⓑ~ⓔ는 much·even·far·a lot이 비교급을 바르게 강조하고, 정답 ⓐ는 very nicer로 원문항 정답과 같은 실수이며, 글의 문장들은 서로 이어지지만 각 판단은 그 문장 안에서만 끝난다.",
+  "stem": "다음 글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것을 고르시오.",
+  "passage": "Grandma's garden looks ⓐ<u>very</u> nicer than ours. Her tomatoes are ⓑ<u>much</u> sweeter than the ones at the store. This spring, her roses bloomed ⓒ<u>even</u> earlier than last year. She works ⓓ<u>far</u> harder than I do. Next year, her garden will be ⓔ<u>a lot</u> bigger.",
+  "c": [
+   "ⓐ",
+   "ⓑ",
+   "ⓒ",
+   "ⓓ",
+   "ⓔ"
+  ],
+  "ans": 1
+ }
+]

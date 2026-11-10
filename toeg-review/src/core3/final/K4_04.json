@@ -1,0 +1,257 @@
+[
+ {
+  "key": "4-72",
+  "variant": 1,
+  "ref_format": "than 앞 빈칸에 괄호 속 낱말(little)의 알맞은 형태 고르기(낱말 보기, 빈칸 하나)",
+  "new_format": "우리말에 맞게 than 앞 빈칸 채우기(괄호 힌트 없음, 낱말 보기)",
+  "design": "than 앞에는 비교급을 쓰고 양을 나타내는 little의 비교급은 불규칙 less라는 규칙을 그대로 확인한다. 괄호 속 낱말 대신 우리말 ‘더 적게’로 뜻을 주고 빈칸 하나만 채우게 해 판단할 곳은 원문항처럼 한 군데이고, 읽을 양 16낱말(1.2배)·어휘(salt, soup)도 원문항 수준이다. 오답은 원급 그대로 쓴 little, 규칙 변화로 만든 littler, 2음절로 보아 more/most를 붙인 more little·most little로 학생이 실제로 하는 실수다(정답 형태가 less 하나로 정해져 있어 원문항과 겹치는 오답이 일부 있다).",
+  "stem": "다음 우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르시오.",
+  "passage": "할머니는 엄마보다 국에 소금을 더 적게 넣으신다.\nGrandma puts _______ salt in her soup than Mom does.",
+  "c": [
+   "less",
+   "little",
+   "littler",
+   "more little",
+   "most little"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "4-72",
+  "variant": 2,
+  "ref_format": "than 앞 빈칸에 괄호 속 낱말(little)의 알맞은 형태 고르기(낱말 보기, 빈칸 하나)",
+  "new_format": "밑줄 친 잘못된 비교급을 바르게 고친 것 고르기(낱말 보기)",
+  "design": "than 앞 비교급 자리에 little의 비교급 less를 써야 한다는 같은 규칙을, 빈칸 대신 잘못 쓴 littler를 고치는 형식으로 확인한다. 밑줄 한 곳만 판단하므로 판단 개수는 원문항과 같고, 15낱말(1.2배)의 짧은 문장에 쉬운 어휘(water, sister)만 썼다. 오답은 비교급으로 바꾸지 않은 little, less에 -er을 또 붙인 lesser, more를 붙인 more little, 최상급 the least다.",
+  "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "Minho drinks <u>littler</u> water than his sister does.",
+  "c": [
+   "little",
+   "lesser",
+   "less",
+   "more little",
+   "the least"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "4-72",
+  "variant": 3,
+  "ref_format": "than 앞 빈칸에 괄호 속 낱말(little)의 알맞은 형태 고르기(낱말 보기, 빈칸 하나)",
+  "new_format": "짧은 대화의 than 앞 빈칸 채우기(대화 빈칸, 낱말 보기)",
+  "design": "짧은 대화 속 than 앞 빈칸에 little의 불규칙 비교급 less를 고르게 해 같은 규칙을 확인한다. 앞 문장의 much homework와 No가 ‘더 적다’는 뜻을 자연스럽게 알려 주고 빈칸은 하나뿐이라 판단 부담이 원문항과 같으며, 읽을 양 18낱말(1.4배)·어휘(homework, yesterday)는 원문항 수준이다. 오답은 규칙 변화 littler, 원급 little, less에 -er을 붙인 lesser, 규칙 변화 최상급 littlest다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Do you have much homework?\nB: No. I have _______ homework than yesterday.",
+  "c": [
+   "littler",
+   "lesser",
+   "little",
+   "less",
+   "littlest"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "4-81",
+  "variant": 1,
+  "ref_format": "우리말 제시 + 영어 문장의 시각 앞 빈칸에 알맞은 전치사 고르기(낱말 보기, 빈칸 하나)",
+  "new_format": "짧은 대화의 빈칸에 알맞은 시간 전치사 고르기(대화 빈칸, 낱말 보기)",
+  "design": "시각 앞에는 at을 쓴다는 규칙을 우리말 제시 대신 짧은 대화의 빈칸으로 확인한다. When ~ begin? 질문이 ‘시작하는 시각’을 묻고 빈칸 뒤 4:30만 보고 한 번 판단하면 되므로 원문항과 판단 개수가 같고, 읽을 양 15낱말(1.4배, A/B 표시 포함)·어휘(soccer, practice, begin)는 원문항 수준이다. 오답은 달·계절 앞에 쓰는 in, 요일·날짜 앞에 쓰는 on, ‘~까지’인 until, ‘4시 30분부터’로 옮기기 쉬운 since다(at·in·on은 규칙의 핵심이라 원문항·B~F와 겹친다).",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: When does your soccer practice begin?\nB: It begins _______ 4:30.",
+  "c": [
+   "in",
+   "on",
+   "until",
+   "since",
+   "at"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "4-81",
+  "variant": 2,
+  "ref_format": "우리말 제시 + 영어 문장의 시각 앞 빈칸에 알맞은 전치사 고르기(낱말 보기, 빈칸 하나)",
+  "new_format": "밑줄 친 잘못된 시간 전치사를 바르게 고친 것 고르기(낱말 보기)",
+  "design": "시각(6:45) 앞에는 on이 아니라 at을 쓴다는 같은 규칙을, 빈칸 채우기 대신 잘못 쓴 전치사를 고치는 형식으로 확인한다. 밑줄 한 곳만 판단하고 읽을 양 12낱말(1.1배)·어휘(play, evening)가 쉬워 원문항과 난이도가 같다. 오답은 달·계절 앞의 in, 기간의 길이를 나타내는 for, ‘~부터’로 잘못 옮기기 쉬운 from, ‘~까지’인 until로 학생이 시각 앞에 잘못 쓰는 전치사들이다.",
+  "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "The school play starts <u>on</u> 6:45 this evening.",
+  "c": [
+   "in",
+   "at",
+   "for",
+   "from",
+   "until"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "4-81",
+  "variant": 3,
+  "ref_format": "우리말 제시 + 영어 문장의 시각 앞 빈칸에 알맞은 전치사 고르기(낱말 보기, 빈칸 하나)",
+  "new_format": "우리말 없이 영어 문장만 보고 시각 앞 빈칸에 알맞은 전치사 고르기(시각은 지문에, 낱말 보기)",
+  "design": "우리말 도움 없이 영어 문장만 보고 시각(8:10) 앞에 at을 고르게 해 같은 규칙을 확인한다. 시각을 지문에 두고 보기를 전치사 낱말로만 주어 판단할 곳은 빈칸 하나뿐이고, 읽을 양 13낱말(1.2배)·어휘(hurry, bus)로 원문항에 맞췄으며 앞 문장 Hurry up은 ‘버스가 오는 시각’이라는 문맥만 보탠다(here는 to·from을 끌어들이는 함정으로 남는다). 오답은 달·계절 앞의 in, 요일·날짜 앞의 on, come과 어울려 끌리기 쉬운 방향 전치사 to·from을 시각 앞에 쓴 것이다.",
+  "stem": "다음 문장의 빈칸에 알맞은 전치사를 고르시오.",
+  "passage": "Hurry up, Mina! The school bus comes here _______ 8:10.",
+  "c": [
+   "in",
+   "on",
+   "at",
+   "to",
+   "from"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "4-82",
+  "variant": 1,
+  "ref_format": "밑줄 친 장소 전치사가 잘못된 문장 하나 고르기(문장 보기 5개 판정)",
+  "new_format": "밑줄 친 장소 전치사가 옳은 문장 하나 고르기(옳은 것 고르기, 문장 보기 5개)",
+  "design": "at은 한 지점, on은 표면·층, in은 공간의 안이라는 장소 전치사 규칙을 ‘잘못된 것’ 대신 ‘옳은 것’ 하나를 고르는 방향으로 뒤집어 확인한다. 문장 5개의 밑줄만 보고 판정하므로 판단 개수는 원문항과 같고, 읽을 양 32낱말(1.1배)·어휘(kitchen, gate, pocket)도 같은 수준이며 소재(부엌·미술실·어깨·정문·주머니)는 원문항·B~F와 겹치지 않게 새로 썼다. 오답은 부엌 안을 on, 층 앞을 at(원문항의 핵심), 어깨 위를 in, 주머니 안을 on으로 쓴 문장으로 각각 전치사 한 곳만 틀렸다.",
+  "stem": "다음 중 밑줄 친 전치사의 쓰임이 옳은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Jiho is cooking <u>on</u> the kitchen.",
+   "The art room is <u>at</u> the fifth floor.",
+   "A bee is <u>in</u> your shoulder.",
+   "Mina is <u>at</u> the front gate.",
+   "The coins are <u>on</u> my pocket."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "4-82",
+  "variant": 2,
+  "ref_format": "밑줄 친 장소 전치사가 잘못된 문장 하나 고르기(문장 보기 5개 판정)",
+  "new_format": "빈칸에 들어갈 장소 전치사가 나머지와 다른 문장 고르기(빈칸 문장 보기 5개)",
+  "design": "층 앞에는 on, 공간의 안에는 in을 쓴다는 같은 규칙을, 틀린 밑줄 찾기 대신 빈칸에 들어갈 전치사가 다른 문장 하나를 찾는 형식으로 확인한다. 문장 5개의 빈칸을 각각 한 번씩 판단하므로 원문항과 판단 개수가 같고, 읽을 양 30낱말(1.0배)·어휘(frog, pond, tent)도 쉬운 수준이다. ①~④는 하늘·연못·텐트·마을 안이라 모두 in이고, ⑤만 원문항의 핵심인 층(the fourth floor) 앞이라 on이 들어가며, 층을 ‘~층에서’로 옮겨 in이나 at을 쓰는 실수를 가려낸다.",
+  "stem": "다음 빈칸에 들어갈 말이 나머지 넷과 다른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Some birds are flying _______ the sky.",
+   "A frog is swimming _______ the pond.",
+   "My brother is sleeping _______ his tent.",
+   "My grandma lives _______ a small town.",
+   "My dad works _______ the fourth floor."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "4-82",
+  "variant": 3,
+  "ref_format": "밑줄 친 장소 전치사가 잘못된 문장 하나 고르기(문장 보기 5개 판정)",
+  "new_format": "짧은 글 속 장소 전치사 밑줄 ⓐ~ⓔ 중 어법상 틀린 것 고르기(글 속 밑줄 판정)",
+  "design": "층 앞에는 at이 아니라 on을 쓴다는 원문항의 핵심(at the third floor → on)을, 따로 떨어진 문장 다섯 개 대신 한 사람의 집을 소개하는 짧은 글 속 밑줄 다섯 곳으로 옮겨 확인한다. 밑줄 다섯 곳을 하나씩 판정하므로 판단 개수는 원문항과 같고, 읽을 양 31낱말(1.1배)·어휘(elevator, sticker, basket)도 원문항·B~F 수준이다. 틀린 곳은 at the sixth floor 하나이고, 나머지 next to·on the door·in a basket·under the window는 모두 옳게 써서 층 앞 전치사를 알아야만 답이 정해진다.",
+  "stem": "다음 글의 밑줄 친 ⓐ~ⓔ 중 어법상 틀린 것을 고르시오.",
+  "passage": "My aunt lives ⓐ<u>at</u> the sixth floor. Her door is ⓑ<u>next to</u> the elevator. A heart sticker is ⓒ<u>on</u> the door. Her puppy is sleeping ⓓ<u>in</u> a basket ⓔ<u>under</u> the window.",
+  "c": [
+   "ⓐ",
+   "ⓑ",
+   "ⓒ",
+   "ⓓ",
+   "ⓔ"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "4-91",
+  "variant": 1,
+  "ref_format": "명령문+and 문장과 If 문장의 빈칸 둘에 알맞은 말 짝 고르기(동사 형태 - 접속사)",
+  "new_format": "밑줄 친 ‘명령문 + and’ 부분과 바꿔 쓸 수 있는 If절 고르기(구 보기)",
+  "design": "‘명령문 + and’는 ‘If you + 동사원형 ~’으로 바꿔 쓸 수 있다는 규칙을, 두 문장의 빈칸 짝 대신 밑줄 친 부분을 대신할 수 있는 말을 고르는 형식으로 확인한다. 판단할 것은 접속사(and → If)와 동사 형태 두 가지로 원문항과 같고, 읽을 양 30낱말(1.2배)·어휘(warm milk, sleep)도 같은 수준이며 동사·소재는 원문항(take)과 다르게 drink로 새로 썼다. 오답은 If 뒤 동사를 -ing로 쓴 것, If 뒤에 주어 you를 빠뜨린 것, and 대신 or를 쓴 것, 명령문을 -ing로 시작한 것으로 원문항의 오답 설계(Or·Taking)를 따랐다.",
+  "stem": "다음 밑줄 친 부분과 바꿔 쓸 수 있는 것을 고르시오.",
+  "passage": "<u>Drink warm milk, and</u> you will sleep well.",
+  "c": [
+   "If you drinking warm milk,",
+   "If drink warm milk,",
+   "If you drink warm milk,",
+   "Drink warm milk, or",
+   "Drinking warm milk, and"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "4-91",
+  "variant": 2,
+  "ref_format": "명령문+and 문장과 If 문장의 빈칸 둘에 알맞은 말 짝 고르기(동사 형태 - 접속사)",
+  "new_format": "‘~해라, 그러면 …’ 우리말을 영어로 바르게 옮긴 문장 고르기(문장 보기, 동사 형태·접속사만 다름)",
+  "design": "‘~해라, 그러면 …’은 동사원형으로 시작하는 명령문 뒤에 and를 써서 나타낸다는 같은 규칙(명령문 + and = If ~)을, 두 문장 빈칸 짝 대신 우리말을 바르게 옮긴 문장 고르기로 확인한다. 보기 문장들은 동사 형태와 접속사만 달라 판단할 것은 원문항처럼 두 가지(동사원형인가, and인가)이고, 발문에 If를 쓰지 않아 접속사도 학생이 판단하며, 읽을 양 31낱말(1.2배)·어휘(run, fast, win)는 원문항보다 쉽다. 오답은 and 대신 or를 쓴 것, 명령문을 -ing형·과거형·to부정사로 시작한 것으로 각각 한 곳만 틀렸고 원문항의 오답 설계(Or·Taking·Took)를 따랐다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "빨리 달려라, 그러면 너는 이길 것이다.",
+  "c": [
+   "Run fast, or you will win.",
+   "Running fast, and you will win.",
+   "Ran fast, and you will win.",
+   "Run fast, and you will win.",
+   "To run fast, and you will win."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "4-91",
+  "variant": 3,
+  "ref_format": "명령문+and 문장과 If 문장의 빈칸 둘에 알맞은 말 짝 고르기(동사 형태 - 접속사)",
+  "new_format": "짧은 대화의 빈칸 (A) 명령문 동사·(B) 접속사 짝 고르기(대화 빈칸)",
+  "design": "명령문은 동사원형으로 시작하고 ‘~해라, 그러면 …’은 and로 잇는다는 원문항의 규칙(명령문 + and)을 짧은 대화의 빈칸 짝으로 확인한다. 판단할 곳은 동사 형태와 접속사 두 군데로 원문항과 같고, 읽을 양 25낱말(1.0배)·어휘(practice, speak, better)도 원문항 수준이다. 오답은 and 대신 or를 쓴 것, 명령문을 -ing형·to부정사·과거형으로 시작한 것으로 원문항의 오답 설계를 그대로 따랐다.",
+  "stem": "다음 대화의 빈칸 (A), (B)에 들어갈 말로 알맞게 짝지어진 것을 고르시오.",
+  "passage": "A: I want to speak English well.\nB: (A)_______ English every day, (B)_______ you will speak it better.",
+  "c": [
+   "(A) Practice - (B) or",
+   "(A) Practicing - (B) and",
+   "(A) To practice - (B) or",
+   "(A) Practiced - (B) and",
+   "(A) Practice - (B) and"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "4-92",
+  "variant": 1,
+  "ref_format": "감탄문 5개의 빈칸에 들어갈 말(What/How)이 다른 하나 고르기(빈칸 문장 보기 5개)",
+  "new_format": "What/How에 밑줄 친 감탄문 중 어법상 틀린 것 고르기(틀린 것 고르기)",
+  "design": "명사가 있으면 What, 형용사·부사만 있으면 How를 쓴다는 감탄문 규칙을, 빈칸에 들어갈 말이 다른 것을 찾는 대신 What/How가 잘못 쓰인 문장 하나를 찾는 형식으로 확인한다. 문장 5개의 밑줄 뒤에 명사가 있는지 각각 한 번씩 보므로 판단 개수가 원문항과 같고, 읽을 양 26낱말(1.2배)·어휘(baby, tail, moon)도 같은 수준이다. ①만 a cute baby라는 명사가 있는데 How를 써서 틀렸고, 나머지 a long tail·tall buildings(What)와 fast·bright(How)는 명사 유무에 맞게 썼다.",
+  "stem": "다음 밑줄 친 부분이 어법상 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "<u>How</u> a cute baby she is!",
+   "<u>What</u> a long tail it has!",
+   "<u>How</u> fast he runs!",
+   "<u>What</u> tall buildings they are!",
+   "<u>How</u> bright the moon is!"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "4-92",
+  "variant": 2,
+  "ref_format": "감탄문 5개의 빈칸에 들어갈 말(What/How)이 다른 하나 고르기(빈칸 문장 보기 5개)",
+  "new_format": "What/How에 밑줄 친 감탄문 중 어법상 옳은 것 고르기(옳은 것 고르기)",
+  "design": "같은 감탄문 규칙을 ‘틀린 것’이 아니라 What/How가 바르게 쓰인 문장 하나를 고르는 방향으로 확인한다. 밑줄 뒤에 명사가 있는지 문장 5개를 각각 한 번씩 보는 것은 원문항과 같고, 읽을 양 27낱말(1.3배)·어휘(water, box, question)도 같은 수준이다. 오답은 a nice day·an easy question처럼 명사가 있는데 How를 쓴 것과 heavy·quickly처럼 형용사·부사만 있는데 What을 쓴 것으로, 모두 What/How 한 곳만 틀렸다.",
+  "stem": "다음 밑줄 친 부분이 어법상 옳은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "<u>How</u> a nice day it is!",
+   "<u>How</u> cold the water is!",
+   "<u>What</u> heavy this box is!",
+   "<u>How</u> an easy question it is!",
+   "<u>What</u> quickly the boy eats!"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "4-92",
+  "variant": 3,
+  "ref_format": "감탄문 5개의 빈칸에 들어갈 말(What/How)이 다른 하나 고르기(빈칸 문장 보기 5개)",
+  "new_format": "짧은 대화의 B 빈칸에 알맞은 감탄문 고르기(대화 빈칸, 감탄문 보기 5개 중 What/How를 바르게 쓴 것은 하나)",
+  "design": "명사가 있으면 What, 형용사만 있으면 How를 쓴다는 같은 규칙을, 빈칸 다섯 개의 What/How 대신 친구의 자전거를 보고 하는 감탄의 말을 대화 빈칸에서 고르는 형식으로 확인한다. 다섯 보기 모두 상황에 맞는 감탄문이라 뜻으로는 고를 수 없고, 보기마다 What/How 뒤에 명사가 있는지 한 번씩 보면 되므로 판단 개수는 원문항(5개)과 같으며 읽을 양 27낱말(1.3배, A/B 표시 포함)·어휘(shiny, wheels, color)도 원문항 수준이다. 오답은 형용사만 있는데 What을 쓴 것(shiny, cool)과 명사가 있는데 How를 쓴 것(big wheels, a great bike)으로, 각각 What/How 한 곳만 틀렸다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Look at my bike.\nB: _______",
+  "c": [
+   "What shiny it is!",
+   "How big wheels it has!",
+   "What cool it looks!",
+   "What a nice color!",
+   "How a great bike!"
+  ],
+  "ans": 4
+ }
+]

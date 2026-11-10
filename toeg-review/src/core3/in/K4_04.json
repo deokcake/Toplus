@@ -1,0 +1,442 @@
+[
+ {
+  "key": "4-72",
+  "grade": 4,
+  "no": 72,
+  "chapter": "CH 8",
+  "chapter_name": "비교 구문",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 단어의 올바른 형태를 고르시오.",
+   "passage": "She has got _______(little) money than you.",
+   "c": [
+    "littler",
+    "less",
+    "lesser",
+    "least",
+    "more little"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: than 앞에는 비교급을 쓴다. 양을 나타내는 little의 비교급은 less다(little - less - least).\n풀이 순서: ① 빈칸 뒤의 than을 본다. than 앞에는 비교급이 온다. → ② 괄호 안 낱말의 비교급을 떠올린다: little(양이 적은) - less - least. → ③ 정답은 less.\n문장별 판정:\n정답 판단: little의 불규칙 비교급 less가 알맞으므로 정답은 ②이다.\n선택지 분석:\n① [오답] 양을 나타내는 little의 비교급은 littler가 아니라 less이므로 오답이다.\n② [정답] little의 불규칙 비교급 less가 알맞으므로 정답이다.\n③ [오답] lesser는 ‘덜 중요한’이라는 뜻의 형용사로 양의 비교에 쓰지 않으므로 오답이다.\n④ [오답] least는 최상급이라 than과 함께 쓸 수 없으므로 오답이다.\n⑤ [오답] little의 비교급은 more little이 아니라 less이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 단어의 올바른 형태를 고르시오.",
+    "passage": "Today is _______(bad) than yesterday.",
+    "c": [
+     "worse",
+     "bad",
+     "worst",
+     "badder",
+     "more bad"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 단어의 올바른 형태를 고르시오.",
+    "passage": "The station is _______(far) than the school.",
+    "c": [
+     "farther",
+     "far",
+     "farthest",
+     "farer",
+     "more far"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 단어의 올바른 형태를 고르시오.",
+    "passage": "Tom has _______(many) books than I do.",
+    "c": [
+     "many",
+     "more",
+     "most",
+     "manier",
+     "much"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 단어의 올바른 형태를 고르시오.",
+    "passage": "This test is _______(good) than that one.",
+    "c": [
+     "good",
+     "best",
+     "better",
+     "gooder",
+     "well"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 단어의 올바른 형태를 고르시오.",
+    "passage": "Jane runs _______(fast) than Amy.",
+    "c": [
+     "fast",
+     "fastest",
+     "more fast",
+     "faster",
+     "fastly"
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   1,
+   3,
+   4
+  ]
+ },
+ {
+  "key": "4-81",
+  "grade": 4,
+  "no": 81,
+  "chapter": "CH 9",
+  "chapter_name": "전치사와 접속사",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+   "passage": "나는 항상 7시에 일어난다.\nI always get up _____ seven o'clock.",
+   "c": [
+    "at",
+    "in",
+    "on",
+    "for",
+    "by"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 시각 앞에는 at, 요일·날짜 앞에는 on, 달·계절·연도 앞에는 in을 쓴다.\n풀이 순서: ① 빈칸 뒤의 때를 나타내는 말이 무엇인지 본다: seven o'clock은 시각. → ② 시각은 at, 요일·날짜는 on, 달·계절·연도는 in이다. → ③ 정답은 at.\n문장별 판정:\n정답 판단: 시각 seven o'clock 앞에는 at을 쓰므로 정답은 ①이다.\n선택지 분석:\n① [정답] 시각 seven o'clock 앞에는 at을 쓰므로 정답이다.\n② [오답] in은 달·계절·연도 앞에 쓰므로 오답이다.\n③ [오답] on은 요일·날짜 앞에 쓰므로 오답이다.\n④ [오답] for는 기간의 길이 앞에 쓰므로 오답이다.\n⑤ [오답] by는 ‘~까지’라는 기한이라 ‘7시에’와 맞지 않으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "그들은 겨울에 스키를 탄다.\nThey ski _____ winter.",
+    "c": [
+     "on",
+     "under",
+     "for",
+     "at",
+     "in"
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "우리 동네 빵집은 매일 정오에 문을 연다.\nThe bakery on our street opens _____ noon every day.",
+    "c": [
+     "during",
+     "for",
+     "on",
+     "in",
+     "at"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "우리 독서 동아리는 항상 월요일에 모인다.\nOur book club always meets _____ Monday.",
+    "c": [
+     "in",
+     "on",
+     "for",
+     "at",
+     "under"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "Tom은 매년 8월에 가족과 여행을 간다.\nTom travels with his family _____ August every year.",
+    "c": [
+     "at",
+     "on",
+     "in",
+     "under",
+     "for"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "Jane은 5월 3일에 태어났다.\nJane was born _____ May 3rd.",
+    "c": [
+     "on",
+     "in",
+     "for",
+     "under",
+     "at"
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   5,
+   2,
+   3
+  ]
+ },
+ {
+  "key": "4-82",
+  "grade": 4,
+  "no": 82,
+  "chapter": "CH 9",
+  "chapter_name": "전치사와 접속사",
+  "ref": {
+   "stem": "다음 밑줄 친 부분이 잘못된 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "He is <u>at</u> home.",
+    "The cat is <u>under</u> the bed.",
+    "Her house is <u>at</u> the third floor.",
+    "My bike is <u>behind</u> the building.",
+    "The book is <u>on</u> the table."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: at은 한 지점(at home), on은 표면·층(on the third floor), in은 공간의 안, under는 아래, behind는 뒤를 나타낸다.\n풀이 순서: ① 밑줄 친 전치사와 뒤의 말을 짝지어 본다. → ② 층(floor)은 그 위에 있다는 뜻으로 on the third floor로 쓴다. ③의 at이 틀렸다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 층 앞에는 at이 아니라 on을 쓰므로 정답은 ③이다.\n선택지 분석:\n① [오답] at home(집에)으로 옳으므로 오답이다.\n② [오답] 침대 아래는 under로 옳으므로 오답이다.\n③ [정답] 층 앞에는 at이 아니라 on을 쓰므로 정답이다.\n④ [오답] 건물 뒤는 behind로 옳으므로 오답이다.\n⑤ [오답] 탁자 위는 on으로 옳으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 밑줄 친 부분이 잘못된 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "We meet <u>on</u> Monday.",
+     "Jane was born <u>in</u> May 3rd.",
+     "Tom lives <u>in</u> Seoul.",
+     "School starts <u>at</u> 9.",
+     "The bakery is <u>on</u> the second floor."
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 밑줄 친 부분이 잘못된 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The children are <u>in</u> the classroom.",
+     "There is a spider <u>on</u> the ceiling.",
+     "My dad is <u>in</u> home now.",
+     "The clock is <u>on</u> the wall.",
+     "Tom is waiting <u>at</u> the bus stop."
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 밑줄 친 부분이 잘못된 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The dog is sleeping <u>under</u> the table.",
+     "We live <u>at</u> Busan.",
+     "My keys are <u>in</u> my bag.",
+     "She is standing <u>next to</u> me.",
+     "The cat is <u>on</u> the sofa."
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 밑줄 친 부분이 잘못된 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The picture is <u>on</u> the wall.",
+     "Jane is <u>at</u> school now.",
+     "The milk is <u>in</u> the fridge.",
+     "The post office is <u>between</u> the bank and the park.",
+     "There are many fish <u>on</u> the river."
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 밑줄 친 부분이 잘못된 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The bird is sitting <u>on</u> the branch.",
+     "The bank is <u>across from</u> the school.",
+     "The kids are playing <u>at</u> the park.",
+     "There is a big tree <u>in front</u> the house.",
+     "My sister is <u>in</u> her room."
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   4,
+   5,
+   1
+  ]
+ },
+ {
+  "key": "4-91",
+  "grade": 4,
+  "no": 91,
+  "chapter": "CH 10",
+  "chapter_name": "문장의 종류",
+  "ref": {
+   "stem": "다음 두 문장을 같은 뜻이 되도록 하는 단어를 고르시오.",
+   "passage": "_____ this pill, and you will feel better.\n_____ you take this pill, you will feel better.",
+   "c": [
+    "Take - If",
+    "Take - Or",
+    "Taking - If",
+    "Taking - Or",
+    "Took - If"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 명령문 + and는 ‘~해라, 그러면 …’이라는 뜻으로 If you + 동사 ~로 바꿔 쓸 수 있다. 명령문은 동사원형으로 시작한다.\n풀이 순서: ① 첫 문장은 ‘명령문 + and’다. 명령문은 동사원형으로 시작한다: Take. → ② ‘~해라, 그러면 …’은 ‘만약 ~하면 …’과 같은 뜻이므로 둘째 문장은 If로 시작한다. → ③ 정답은 Take - If.\n문장별 판정:\n정답 판단: 명령문은 동사원형 Take로 시작하고 and 문장은 If절로 바꾸므로 정답은 ①이다.\n선택지 분석:\n① [정답] 명령문은 동사원형 Take로 시작하고 and 문장은 If절로 바꾸므로 정답이다.\n② [오답] Or는 문장 앞에서 조건절을 이끌 수 없으므로 오답이다.\n③ [오답] 명령문을 -ing형으로 시작할 수 없으므로 오답이다.\n④ [오답] Taking도 Or도 맞지 않으므로 오답이다.\n⑤ [오답] 명령문을 과거형으로 시작할 수 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 두 문장을 같은 뜻이 되도록 하는 단어를 고르시오.",
+    "passage": "_____ early, and you will catch the bus.\n_____ you leave early, you will catch the bus.",
+    "c": [
+     "Leaving - If",
+     "Leave - If",
+     "Leave - Or",
+     "Left - If",
+     "Leaving - Or"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 두 문장을 같은 뜻이 되도록 하는 단어를 고르시오.",
+    "passage": "_____ this book, and you will learn a lot.\n_____ you read this book, you will learn a lot.",
+    "c": [
+     "Read - If",
+     "Read - Or",
+     "Reading - If",
+     "To read - If",
+     "Reading - Or"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 두 문장을 같은 뜻이 되도록 하는 단어를 고르시오.",
+    "passage": "_____ hard, and you will pass the test.\n_____ you study hard, you will pass the test.",
+    "c": [
+     "Study - Or",
+     "To study - If",
+     "Studying - If",
+     "Study - If",
+     "Studied - Or"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 두 문장을 같은 뜻이 되도록 하는 단어를 고르시오.",
+    "passage": "_____ now, and you will be on time.\n_____ you go now, you will be on time.",
+    "c": [
+     "Going - If",
+     "Go - Or",
+     "Went - If",
+     "Going - Or",
+     "Go - If"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 두 문장을 같은 뜻이 되도록 하는 단어를 고르시오.",
+    "passage": "_____ careful, and you will be safe.\n_____ you are careful, you will be safe.",
+    "c": [
+     "Be - Or",
+     "Be - If",
+     "Being - If",
+     "Are - If",
+     "Being - Or"
+    ],
+    "ans": 2
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "key": "4-92",
+  "grade": 4,
+  "no": 92,
+  "chapter": "CH 10",
+  "chapter_name": "문장의 종류",
+  "ref": {
+   "stem": "빈칸에 들어갈 말이 다른 하나를 고르시오.",
+   "passage": "",
+   "c": [
+    "_____ big dogs they are!",
+    "_____ a great idea it is!",
+    "_____ beautiful you are!",
+    "_____ a fun game it is!",
+    "_____ wonderful weather it is!"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 감탄문: 명사가 있으면 What + (a/an) + 형용사 + 명사 ~!, 형용사·부사만 있으면 How + 형용사/부사 + 주어 + 동사!\n풀이 순서: ① 빈칸 바로 뒤를 본다. ‘a/an + 형용사 + 명사’(또는 형용사 + 복수명사)가 오면 What, 형용사·부사만 오고 바로 주어 + 동사가 이어지면 How다. → ② 선택지 ③만 beautiful 뒤에 명사 없이 you are가 온다. How가 들어간다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: 형용사 beautiful만 있고 명사가 없어 How가 들어가 나머지와 다르므로 정답은 ③이다.\n선택지 분석:\n① [오답] big dogs처럼 형용사 + 복수명사가 있어 What이 들어가므로 오답이다.\n② [오답] a great idea처럼 명사가 있어 What이 들어가므로 오답이다.\n③ [정답] 형용사 beautiful만 있고 명사가 없어 How가 들어가 나머지와 다르므로 정답이다.\n④ [오답] a fun game처럼 명사가 있어 What이 들어가므로 오답이다.\n⑤ [오답] wonderful weather처럼 형용사 + 명사가 있어 What이 들어가므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "빈칸에 들어갈 말이 다른 하나를 고르시오.",
+    "passage": "",
+    "c": [
+     "_____ cute puppies they are!",
+     "_____ a great idea it is!",
+     "_____ interesting the book is!",
+     "_____ nice weather it is!",
+     "_____ an old house it is!"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "빈칸에 들어갈 말이 다른 하나를 고르시오.",
+    "passage": "",
+    "c": [
+     "_____ quiet the room is!",
+     "_____ a tall tree it is!",
+     "_____ an exciting game!",
+     "_____ lovely music this is!",
+     "_____ big eyes she has!"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "빈칸에 들어갈 말이 다른 하나를 고르시오.",
+    "passage": "",
+    "c": [
+     "_____ fast the car is!",
+     "_____ kind your mother is!",
+     "_____ long bridges these are!",
+     "_____ well she sings!",
+     "_____ tall you are!"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "빈칸에 들어갈 말이 다른 하나를 고르시오.",
+    "passage": "",
+    "c": [
+     "_____ a funny joke!",
+     "_____ delicious this cake is!",
+     "_____ an honest boy he is!",
+     "_____ good friends they are!",
+     "_____ strange dreams I had!"
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "빈칸에 들어갈 말이 다른 하나를 고르시오.",
+    "passage": "",
+    "c": [
+     "_____ cold it is today!",
+     "_____ hard he works!",
+     "_____ slowly the turtle walks!",
+     "_____ happy they look!",
+     "_____ nice shoes you have!"
+    ],
+    "ans": 5
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   1,
+   2,
+   4
+  ]
+ }
+]

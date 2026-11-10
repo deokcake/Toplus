@@ -1,0 +1,53 @@
+[
+ {
+  "key": "5-92",
+  "variant": 1,
+  "ref_format": "‘형용사 and _______’ 문장의 빈칸에 들어갈 수 없는 낱말 고르기(낱말 보기)",
+  "new_format": "‘형용사 and 낱말’ 짧은 구 5개 중 어법상 어색한 것 고르기(낱말 보기→짧은 구 보기)",
+  "design": "and는 같은 품사끼리 잇는다(형용사 and 형용사)는 규칙을, 빈칸 대신 ‘형용사 and 낱말’ 구 5개에서 어색한 것 찾기로 확인한다. 구마다 and 뒤 낱말이 형용사인지 한 번씩 보는 판단 5개로 원문항과 같고, 읽을 양 15낱말(원문항 9낱말 + 8낱말 이내), 어휘(heavy, hungry, windy)는 초등 수준이며 B~F·다른 변형에 없는 짝으로 만들었다. 정답은 형용사 old 뒤에 부사 slowly를 이은 것이고, lonely는 -ly로 끝나지만 형용사라는 함정으로 원문항의 lovely와 같은 구실을 한다.",
+  "stem": "다음 중 어법상 어색한 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "big and heavy",
+   "old and slowly",
+   "sad and lonely",
+   "hungry and tired",
+   "cold and windy"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "5-92",
+  "variant": 2,
+  "ref_format": "‘형용사 and _______’ 문장의 빈칸에 들어갈 수 없는 낱말 고르기(낱말 보기)",
+  "new_format": "짧은 대화의 빈칸에 들어갈 수 없는 낱말 고르기(평서문→대화)",
+  "design": "같은 규칙(be동사 뒤 형용사 and 형용사)을 짧은 대화의 대답 문장 빈칸으로 옮겼고, 주어와 and 앞 형용사(He, black)·보기 낱말은 원문항·B~F·다른 변형에 없는 것으로 새로 썼다(소재는 강아지). 보기 다섯 낱말이 형용사인지 한 번씩 보는 판단 5개, 읽을 양 16낱말(대화 표시 A·B 포함, 원문항 9낱말 + 8낱말 이내), 어휘(white, young, shy)는 원문항보다 쉽다. 정답은 부사 happily(형용사 happy와 헷갈리기 쉬움)이고, silly는 -ly로 끝나는 형용사 함정으로 원문항의 lovely에 해당한다.",
+  "stem": "다음 대화의 빈칸에 들어갈 수 없는 것을 고르시오.",
+  "passage": "A: Tell me about your puppy.\nB: He is black and _______.",
+  "c": [
+   "white",
+   "young",
+   "happily",
+   "silly",
+   "shy"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "5-92",
+  "variant": 3,
+  "ref_format": "‘형용사 and _______’ 문장의 빈칸에 들어갈 수 없는 낱말 고르기(낱말 보기)",
+  "new_format": "짧은 글의 형용사 자리(①~⑤) 중 어법상 틀린 것 고르기(빈칸 채우기→오류 위치 찾기)",
+  "design": "and로 이어진 말은 품사가 같아야 한다(형용사 and 형용사)는 규칙을, 두 문장짜리 짧은 글에서 and로 이어진 형용사 자리 다섯 곳 중 틀린 곳 찾기로 바꾸었다. 번호마다 형용사인지 한 번씩 보는 판단 5개로 원문항과 같고, 읽을 양 12낱말(1.3배), 어휘(hair, curly, kind)는 초등 수준이다. 정답은 형용사 tall, kind와 and로 이어진 자리에 부사 gently를 쓴 ⑤이고, ② curly는 -ly로 끝나지만 형용사라는 함정(원문항의 lovely 구실)이라 -ly 모양만으로는 고를 수 없다.",
+  "stem": "다음 글에서 어법상 틀린 부분을 고르시오.",
+  "passage": "Sue's hair is ① long and ② curly. She is ③ tall, ④ kind, and ⑤ gently.",
+  "c": [
+   "①",
+   "②",
+   "③",
+   "④",
+   "⑤"
+  ],
+  "ans": 5
+ }
+]

@@ -1,0 +1,104 @@
+[
+ {
+  "key": "7-31",
+  "variant": 1,
+  "ref_format": "우리말 뜻이 주어진 문장의 빈칸에 알맞은 be동사 부정형 고르기(낱말 보기)",
+  "new_format": "우리말 뜻이 주어진 문장에서 밑줄 친 be동사 부정형을 바르게 고친 것 고르기(낱말 보기)",
+  "design": "핵심 규칙(be동사 뒤에 not을 붙이고, be동사는 주어에 맞춘다)을 그대로 확인하되, 빈칸 대신 잘못 쓴 is not에 밑줄을 긋고 바르게 고친 것을 고르게 했다. 우리말로 부정의 뜻을 주고 주어(The boys)에 맞는 be동사를 고르는 두 단계 판단은 원문항과 같으며, 읽을 양은 13낱말로 원문항(11낱말)의 1.2배이고 어휘(boys, school)도 쉽다. 오답은 주어에 맞지 않는 am not, be동사를 빠뜨린 not, not을 빠뜨린 are·am이며, 밑줄 친 is not을 줄인 isn't처럼 고칠 대상과 같은 말은 보기에 넣지 않았다.",
+  "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "The boys <u>is not</u> at school.\n(그 소년들은 학교에 있지 않다.)",
+  "c": [
+   "are not",
+   "am not",
+   "not",
+   "am",
+   "are"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "7-31",
+  "variant": 3,
+  "ref_format": "우리말 뜻이 주어진 문장의 빈칸에 알맞은 be동사 부정형 고르기(낱말 보기)",
+  "new_format": "짧은 대화의 대답 빈칸에 알맞은 be동사 부정형 고르기(낱말 보기)",
+  "design": "같은 규칙을 짧은 대화 형식으로 바꾸어, 우리말 대신 대답의 No로 부정의 뜻을 주고 주어 I에 맞는 be동사 부정형을 고르게 했다. 대답은 사람을 확인하는 질문(Are you Daniel?)에 이름으로 답하는 문장이라 형용사 문장인 F유형(I _______ tired.)과 소재·문장 꼴이 다르고, 빈칸 하나·낱말 보기 다섯의 판단 구조는 원문항과 같으며 읽을 양은 15낱말로 원문항(11낱말)의 1.4배(상한 +8낱말 안)이다. 오답은 주어에 맞지 않는 is not·aren't(질문의 Are를 그대로 옮긴 실수), be동사를 빠뜨린 not, not이 빠진 am이다.",
+  "stem": "다음 대화의 빈칸에 알맞은 것을 고르시오.",
+  "passage": "A: Are you Daniel?\nB: No. I _______ Daniel.",
+  "c": [
+   "is not",
+   "aren't",
+   "not",
+   "am not",
+   "am"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "7-32",
+  "variant": 2,
+  "ref_format": "be동사 문장 다섯 개 중 밑줄 친 be동사가 틀린 것 고르기",
+  "new_format": "not이 든 문장 다섯 개 중 빈칸에 들어갈 be동사가 나머지 넷과 다른 것 고르기",
+  "design": "같은 규칙을 빈칸 형식으로 바꾸어, not이 든 문장 다섯 개의 빈칸에 들어갈 be동사(is/are)를 주어에 맞게 가르고 하나만 다른 것을 찾게 했다. 주어를 원문항처럼 한 사람(My sister)·You·두 사람(Jisu and I)·복수 명사(The pencils)·They로 섞어, You를 한 사람이라 is로, Jisu and I를 I 때문에 am으로 잘못 판단하는 원문항의 함정을 그대로 두었고, 네 문장에는 are가, 정답 My sister에만 is가 들어간다. 판단 개수(다섯)는 원문항과 같고, 읽을 양은 28낱말로 원문항(24낱말)의 1.2배, 어휘(sister, park, class, zoo, pencils, desk, shoes)는 쉽다.",
+  "stem": "다음 중 빈칸에 들어갈 be동사가 나머지 넷과 다른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "My sister _______ not in the park.",
+   "You _______ not in my class.",
+   "Jisu and I _______ not at the zoo.",
+   "The pencils _______ not on the desk.",
+   "They _______ not my shoes."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "7-32",
+  "variant": 3,
+  "ref_format": "be동사 문장 다섯 개 중 밑줄 친 be동사가 틀린 것 고르기",
+  "new_format": "부정문의 주어를 They로 바꿔 쓴 문장으로 알맞은 것 고르기(짧은 문장 보기)",
+  "design": "같은 규칙을 문장 전환 형식으로 바꾸어, I am not 문장의 주어를 They로 바꿀 때 be동사를 are로 맞추고 not을 be동사 뒤에 그대로 두는지 확인한다. 보기 다섯 개가 모두 같은 문장의 다른 형태라 보기마다 be동사 부정형 한 군데만 보면 되고, 읽을 양은 29낱말로 원문항(24낱말)의 1.2배이며 소재(in Seoul)는 원문항·B~F와 겹치지 않는다. 오답은 원래 문장의 am을 그대로 둔 They am not, 한 사람 주어에 쓰는 is를 쓴 They is not, not을 be동사 앞에 둔 They not are, not을 빠뜨린 They are로, 모두 한 군데만 틀렸고 학생이 실제로 하는 실수다.",
+  "stem": "다음 문장의 주어를 They로 바꿔 쓸 때 알맞은 것을 고르시오.",
+  "passage": "I am not in Seoul.",
+  "c": [
+   "They am not in Seoul.",
+   "They are not in Seoul.",
+   "They is not in Seoul.",
+   "They not are in Seoul.",
+   "They are in Seoul."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "7-41",
+  "variant": 2,
+  "ref_format": "우리말 뜻이 주어진 are 문장의 빈칸에 알맞은 지시대명사 고르기(낱말 보기)",
+  "new_format": "우리말과 영어('지시대명사+be동사')가 바르게 짝지어진 것 고르기(짝 보기)",
+  "design": "같은 규칙을 짝짓기 형식으로 바꾸어, 우리말 '이것은·저것은·이것들은·저것들은'과 영어 '지시대명사+be동사'가 바르게 짝지어진 것 하나를 고르게 했다(빈칸 채우기가 아님). 보기마다 지시대명사와 be동사의 짝 한 군데만 판단하므로 판단 구조는 원문항과 같고, 읽을 양은 10낱말로 원문항(7낱말) +3낱말이며 명사가 없어 어휘 부담도 없다. 오답은 여러 개인데 한 개 쪽을 쓴 이것들은 - This is, 한 개인데 여러 개 쪽을 쓴 저것은 - Those are, be동사가 맞지 않는 저것들은 - That are, 가까운 것과 먼 것을 바꾼 이것들은 - Those are이고, 정답(This is)은 원문항(These)·변형 1(Those are)·변형 3(That is)과 다르다.",
+  "stem": "다음 중 우리말과 영어가 바르게 짝지어진 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "이것들은 - This is",
+   "저것은 - Those are",
+   "저것들은 - That are",
+   "이것들은 - Those are",
+   "이것은 - This is"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "7-41",
+  "variant": 3,
+  "ref_format": "우리말 뜻이 주어진 are 문장의 빈칸에 알맞은 지시대명사 고르기(낱말 보기)",
+  "new_format": "우리말 문장을 영어로 바르게 옮긴 것 고르기(아주 짧은 문장 보기)",
+  "design": "같은 규칙을 영작 형식으로 바꾸어, 우리말 '저것은 우유이다'를 바르게 옮긴 문장 하나를 고르게 했다. 보기마다 지시대명사와 be동사의 짝 한 군데만 보면 되고, 정답 칸(That is)과 오답 구성이 변형 1(정답 Those are)·변형 2(정답 This is)와 다르며, 읽을 양은 15낱말로 원문항(7낱말)이 아주 짧아 문장 보기로 바꾸면서 늘었지만 +8낱말 허용 범위 안이고 어휘(milk)는 쉽다. 오답은 가까운 것을 가리키는 This is, 여러 개를 가리키는 지시대명사에 is를 붙인 Those is·These is(원문항의 This are와 같은 짝 오류), 여러 개를 가리키는 Those are이다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "저것은 우유이다.",
+  "c": [
+   "That is milk.",
+   "Those is milk.",
+   "This is milk.",
+   "These is milk.",
+   "Those are milk."
+  ],
+  "ans": 1
+ }
+]

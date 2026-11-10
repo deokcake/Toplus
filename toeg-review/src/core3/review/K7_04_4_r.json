@@ -1,0 +1,42 @@
+[
+ {
+  "key": "7-91",
+  "variant": 2,
+  "ref_format": "우리말 달 → 영어 달 이름 고르기",
+  "new_format": "요일 이름 차례 나열의 가운데 빈칸에 들어갈 요일 고르기",
+  "stem": "다음 빈칸에 들어갈 요일로 알맞은 것을 고르시오.",
+  "passage": "Wednesday - _______ - Friday",
+  "c": ["Tuesday", "Monday", "Thursday", "Saturday", "Sunday"],
+  "ans": 3
+ },
+ {
+  "key": "7-91",
+  "variant": 3,
+  "ref_format": "우리말 달 → 영어 달 이름 고르기",
+  "new_format": "요일 이름과 우리말 뜻의 짝 5개 중 틀린 짝 하나 고르기",
+  "stem": "다음 중 요일과 우리말 뜻이 바르게 짝지어지지 않은 것을 고르시오.",
+  "passage": "",
+  "c": ["Monday - 월요일", "Wednesday - 수요일", "Saturday - 토요일", "Tuesday - 목요일", "Friday - 금요일"],
+  "ans": 4
+ },
+ {
+  "key": "7-92",
+  "variant": 1,
+  "ref_format": "대화: 대답(It was Saturday.)에 맞는 질문 고르기",
+  "new_format": "대화: 질문(What day is ~?)에 맞는 대답 고르기(반대 방향)",
+  "stem": "다음 대화의 빈칸에 들어갈 B의 대답으로 알맞은 것을 고르시오.",
+  "passage": "A: Mom, I have a swimming class this week. What day is it?\nB: _______",
+  "c": ["It is 4 o'clock.", "It is at the pool.", "It is fun.", "It is sunny.", "It is Friday."],
+  "ans": 5
+ },
+ {
+  "key": "7-92",
+  "variant": 2,
+  "ref_format": "대화: 대답(It was Saturday.)에 맞는 질문 고르기",
+  "new_format": "대화: 대답에 맞지 않는 질문의 밑줄 친 부분(What + 묻는 말)을 바르게 고친 것 고르기",
+  "stem": "다음 대화에서 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "A: <u>What time</u> is it today, Mom?\nB: It is Thursday. You have a piano lesson today.",
+  "c": ["What day", "What date", "What month", "What year", "What season"],
+  "ans": 1
+ }
+]

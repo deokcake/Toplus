@@ -1,0 +1,36 @@
+[
+ {
+  "key": "2-102",
+  "variant": 1,
+  "ref_format": "두 문장(a day ___ / 30% ___)의 빈칸에 공통으로 들어갈 말 고르기(낱말 보기)",
+  "new_format": "우리말 뜻이 주어진 두 문장의 빈칸 (A), (B)에 공통으로 들어갈 말 고르기(우리말에 맞게 빈칸 채우기)",
+  "design": "off가 ‘쉬어’(have Mondays off)와 ‘할인하여’(40% off)로 쓰인다는 같은 규칙을, 원문항의 낱말 빈칸 대신 문장마다 우리말 뜻(‘월요일마다 쉬어서’, ‘40% 할인된다’)을 주고 그 뜻에 맞게 빈칸을 채우는 형식으로 바꿨고, 쉬는 날 문장은 take a day off 대신 have Mondays off라는 새 상황(삼촌의 빵집)으로 만들어 우리말 ‘그날은’을 that day로 영어에도 그대로 살렸다. 판단할 곳은 원문항처럼 두 곳이고, 읽을 양은 23낱말(원문항 18, 1.28배), 어휘는 uncle·bakery·sneakers·store 수준이다. 오답은 철자가 비슷해 학생이 자주 혼동하는 of와 away·on·at으로, 두 빈칸 모두에 맞는 것은 off뿐이다.",
+  "stem": "다음 우리말과 같도록 할 때, 빈칸 (A), (B)에 공통으로 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "우리 삼촌은 월요일마다 쉬어서, 그날은 삼촌의 빵집이 문을 닫는다.\n= My uncle has Mondays (A)_______, so his bakery is closed that day.\n그 가게의 운동화는 이번 주에 40% 할인된다.\n= Sneakers at that store are 40% (B)_______ this week.",
+  "c": [
+   "off",
+   "of",
+   "away",
+   "on",
+   "at"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "2-102",
+  "variant": 2,
+  "ref_format": "두 문장(a day ___ / 30% ___)의 빈칸에 공통으로 들어갈 말 고르기(낱말 보기)",
+  "new_format": "‘쉬다’라는 우리말을 영어로 바르게 옮긴 문장 고르기(낱말 하나만 다른 짧은 문장 보기)",
+  "design": "off가 ‘(일을) 쉬어’의 뜻으로 쓰인다는 같은 규칙을, 공통 빈칸 대신 우리말 ‘나는 내일 하루 쉰다.’를 영어로 바르게 옮긴 문장을 고르는 형식으로 바꿨다. 다섯 보기는 끝 낱말 하나만 달라 판단할 곳이 보기마다 한 군데이고 문맥으로는 답을 가를 수 없어 off의 뜻을 알아야만 풀리며, 원문항도 두 빈칸 중 한쪽 뜻만 알면 풀리는 구조라 판단 무게가 같고, 읽을 양은 20낱말(원문항 18, 1.11배)이다. 오답은 학생이 off와 헷갈리는 of와 out·away·down으로, 모두 have ~ 뒤에 와서 ‘쉬다’의 뜻이 되지 않으며, 보기의 낱말 묶음(of·off·out·away·down)은 프리테스트(off·out·up·away·over)·B~F·변형 1의 묶음과 3개 이하로만 겹치게 했다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "나는 내일 하루 쉰다.",
+  "c": [
+   "I have tomorrow of.",
+   "I have tomorrow off.",
+   "I have tomorrow out.",
+   "I have tomorrow away.",
+   "I have tomorrow down."
+  ],
+  "ans": 2
+ }
+]

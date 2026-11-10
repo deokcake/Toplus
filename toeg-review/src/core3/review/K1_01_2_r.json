@@ -1,0 +1,47 @@
+[
+ {
+  "key": "1-1",
+  "variant": 1,
+  "stem": "다음 글의 빈칸에 들어갈 말로 어법상 어색한 것을 고르시오.",
+  "passage": "My uncle runs a small bakery near my school. His cookies _______.",
+  "c": [
+   "look nicely in the window",
+   "smell great from outside the shop",
+   "taste good even the next day",
+   "feel warm in my hands",
+   "seem popular with students"
+  ],
+  "ans": 1,
+  "new_format": "짧은 글의 빈칸에 이어질 ‘2형식 동사 + 보어’ 구 중 어법상 어색한 것 고르기(구 보기 5개)"
+ },
+ {
+  "key": "1-1",
+  "variant": 2,
+  "stem": "다음 대화의 빈칸에 들어갈 말로 어법상 알맞은 것을 고르시오.",
+  "passage": "A: Did you buy new candles? Your whole room smells _______.\nB: Yes, I bought them at the flea market last weekend. They have a light lemon scent.",
+  "c": [
+   "nicely",
+   "well",
+   "amazing",
+   "sweetly",
+   "wonderfully"
+  ],
+  "ans": 3,
+  "new_format": "짧은 대화 속 2형식 동사 smell 뒤 빈칸에 들어갈 낱말 중 어법상 알맞은 것 고르기(낱말 보기 5개: 부사 넷·형용사 하나)"
+ },
+ {
+  "key": "1-1",
+  "variant": 3,
+  "stem": "다음 중 밑줄 친 부분이 어법상 올바른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "This scarf <u>feels softly</u> around my neck.",
+   "The pizza <u>tastes well</u> with hot sauce.",
+   "Her voice <u>sounded sadly</u> on the phone.",
+   "The sea <u>looks calm</u> this afternoon.",
+   "This new shampoo <u>smells sweetly</u>."
+  ],
+  "ans": 4,
+  "new_format": "밑줄 친 ‘2형식 동사 + 보어’가 어법상 올바른 것 고르기(묻는 방향 뒤집기, 문장 보기 5개)"
+ }
+]

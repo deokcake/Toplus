@@ -1,0 +1,464 @@
+[
+ {
+  "key": "3-1",
+  "grade": 3,
+  "no": 1,
+  "chapter": "CH 1",
+  "chapter_name": "be동사",
+  "ref": {
+   "stem": "다음 빈칸에 알맞은 be동사를 고르시오.",
+   "passage": "I _____ a student.\nMy friends _____ smart.",
+   "c": [
+    "am - are",
+    "is - are",
+    "am - is",
+    "are - is",
+    "is - am"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: be동사는 주어에 따라 달라진다. 현재형: I - am, you·복수 - are, 3인칭 단수 - is. 과거형: I·3인칭 단수 - was, you·복수 - were.\n풀이 순서: ① 빈칸 앞의 주어를 확인한다. 첫째는 I, 둘째는 My friends(복수)이다. → ② I에는 am, 복수 주어에는 are를 쓴다. → ③ 정답은 am - are.\n문장별 판정:\n정답 판단: I에는 am, 복수 주어 My friends에는 are를 쓰므로 정답은 ①이다.\n선택지 분석:\n① [정답] I에는 am, 복수 주어 My friends에는 are를 쓰므로 정답이다.\n② [오답] I에 is를 쓸 수 없으므로 오답이다.\n③ [오답] My friends에 is를 쓸 수 없으므로 오답이다.\n④ [오답] 두 빈칸 모두 주어와 맞지 않으므로 오답이다.\n⑤ [오답] 두 빈칸 모두 주어와 맞지 않으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 알맞은 be동사를 고르시오.",
+    "passage": "You _____ my best friend.\nMina _____ kind.",
+    "c": [
+     "are - are",
+     "are - is",
+     "is - are",
+     "am - is",
+     "is - is"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 빈칸에 알맞은 be동사를 고르시오.",
+    "passage": "She _____ my sister.\nThe boys _____ outside.",
+    "c": [
+     "are - are",
+     "is - is",
+     "is - are",
+     "am - is",
+     "are - is"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 빈칸에 알맞은 be동사를 고르시오.",
+    "passage": "We _____ ready.\nTom _____ busy.",
+    "c": [
+     "are - are",
+     "am - is",
+     "is - are",
+     "are - is",
+     "is - is"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 빈칸에 알맞은 be동사를 고르시오.",
+    "passage": "I _____ tired yesterday.\nThey _____ happy yesterday.",
+    "c": [
+     "was - are",
+     "are - is",
+     "am - is",
+     "was - were",
+     "is - are"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 빈칸에 알맞은 be동사를 고르시오.",
+    "passage": "Jane _____ at home last night.\nWe _____ at school yesterday.",
+    "c": [
+     "are - is",
+     "am - is",
+     "was - are",
+     "is - are",
+     "was - were"
+    ],
+    "ans": 5
+   }
+  },
+  "existing_pretest": {
+   "stem": "다음 대화의 빈칸 (A), (B)에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+   "passage": "A: These cookies (A)_______ for you.\nB: Thank you! I (B)_______ so happy.",
+   "c": [
+    "(A) is - (B) am",
+    "(A) are - (B) am",
+    "(A) are - (B) is",
+    "(A) is - (B) are",
+    "(A) is - (B) is"
+   ],
+   "ans": 2
+  },
+  "target_answer_positions": [
+   4,
+   5,
+   2
+  ]
+ },
+ {
+  "key": "3-2",
+  "grade": 3,
+  "no": 2,
+  "chapter": "CH 1",
+  "chapter_name": "be동사",
+  "ref": {
+   "stem": "다음 문장의 빈칸에 알맞은 표현을 고르시오.",
+   "passage": "Last year, _____ many students in the classroom.",
+   "c": [
+    "There is",
+    "There are",
+    "There am",
+    "There was",
+    "There were"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: There is/are, There was/were의 be동사는 시제와 뒤에 오는 명사의 수에 맞춘다. 셀 수 없는 명사는 단수로 취급한다.\n풀이 순서: ① 문장 앞의 시간 표현으로 시제를 정한다(Last year → 과거). → ② There 뒤 be동사는 뒤에 오는 명사에 수를 맞춘다(many students, 복수). → ③ 정답은 There were.\n문장별 판정:\n정답 판단: 과거이고 뒤의 명사가 복수이므로 There were가 알맞으므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 과거의 일이고 뒤의 명사도 복수라 is를 쓸 수 없으므로 오답이다.\n② [오답] Last year가 있어 현재형 are를 쓸 수 없으므로 오답이다.\n③ [오답] There am이라는 표현은 없으므로 오답이다.\n④ [오답] 뒤의 명사 many students가 복수라 was를 쓸 수 없으므로 오답이다.\n⑤ [정답] 과거이고 뒤의 명사가 복수이므로 There were가 알맞으므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 문장의 빈칸에 알맞은 표현을 고르시오.",
+    "passage": "Right now, _____ a new message on my phone.",
+    "c": [
+     "There are",
+     "There were",
+     "There was",
+     "There is",
+     "There am"
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 문장의 빈칸에 알맞은 표현을 고르시오.",
+    "passage": "Yesterday, _____ a cat under the desk.",
+    "c": [
+     "There am",
+     "There was",
+     "There are",
+     "There were",
+     "There is"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 문장의 빈칸에 알맞은 표현을 고르시오.",
+    "passage": "Now, _____ two books on the table.",
+    "c": [
+     "There are",
+     "There were",
+     "There was",
+     "There am",
+     "There is"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 문장의 빈칸에 알맞은 표현을 고르시오.",
+    "passage": "Right now, _____ a lot of water in the bottle.",
+    "c": [
+     "There was",
+     "There are",
+     "There am",
+     "There were",
+     "There is"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 문장의 빈칸에 알맞은 표현을 고르시오.",
+    "passage": "Last night, _____ many cars on the road.",
+    "c": [
+     "There is",
+     "There are",
+     "There am",
+     "There were",
+     "There was"
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "key": "3-11",
+  "grade": 3,
+  "no": 11,
+  "chapter": "CH 2",
+  "chapter_name": "일반동사",
+  "ref": {
+   "stem": "다음 문장을 과거 부정문으로 올바르게 바꾼 것을 고르시오.",
+   "passage": "They went to the park.",
+   "c": [
+    "They didn't went to the park.",
+    "They didn't go to the park.",
+    "They don't went to the park.",
+    "They not went to the park.",
+    "They didn't going to the park."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 일반동사의 과거 부정문은 주어와 관계없이 ‘didn't + 동사원형’이다.\n풀이 순서: ① 과거 부정문은 ‘didn't + 동사원형’이다. 주어와 관계없이 didn't를 쓴다. → ② 과거형 동사(went)를 원형(go)으로 되돌린다. → ③ didn't 뒤에 과거형을 그대로 둔 것, don't·wasn't를 쓴 것은 지운다. 정답은 ②.\n문장별 판정:\n정답 판단: didn't + 동사원형 go로 바르게 바꿨으므로 정답은 ②이다.\n선택지 분석:\n① [오답] didn't 뒤에 과거형 went를 쓸 수 없으므로 오답이다.\n② [정답] didn't + 동사원형 go로 바르게 바꿨으므로 정답이다.\n③ [오답] 과거 부정문에 don't를 쓸 수 없고 went도 틀렸으므로 오답이다.\n④ [오답] not만으로는 일반동사를 부정할 수 없으므로 오답이다.\n⑤ [오답] didn't 뒤에 -ing를 쓸 수 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 문장을 과거 부정문으로 올바르게 바꾼 것을 고르시오.",
+    "passage": "Mina cleaned her room.",
+    "c": [
+     "Mina didn't cleaned her room.",
+     "Mina doesn't clean her room.",
+     "Mina didn't clean her room.",
+     "Mina wasn't clean her room.",
+     "Mina not cleaned her room."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 문장을 과거 부정문으로 올바르게 바꾼 것을 고르시오.",
+    "passage": "Jane bought a new bag.",
+    "c": [
+     "Jane wasn't buy a new bag.",
+     "Jane buy a new bag.",
+     "Jane didn't buy a new bag.",
+     "Jane didn't bought a new bag.",
+     "Jane don't buy a new bag."
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 문장을 과거 부정문으로 올바르게 바꾼 것을 고르시오.",
+    "passage": "Tom saw a movie.",
+    "c": [
+     "Tom didn't see a movie.",
+     "Tom see a movie.",
+     "Tom wasn't see a movie.",
+     "Tom didn't saw a movie.",
+     "Tom don't see a movie."
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 문장을 과거 부정문으로 올바르게 바꾼 것을 고르시오.",
+    "passage": "We ate lunch at noon.",
+    "c": [
+     "We didn't eat lunch at noon.",
+     "We wasn't eat lunch at noon.",
+     "We eat lunch at noon.",
+     "We didn't ate lunch at noon.",
+     "We don't eat lunch at noon."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 문장을 과거 부정문으로 올바르게 바꾼 것을 고르시오.",
+    "passage": "I wrote a letter.",
+    "c": [
+     "I didn't write a letter.",
+     "I write a letter.",
+     "I wasn't write a letter.",
+     "I don't write a letter.",
+     "I didn't wrote a letter."
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   1,
+   3,
+   4
+  ]
+ },
+ {
+  "key": "3-12",
+  "grade": 3,
+  "no": 12,
+  "chapter": "CH 2",
+  "chapter_name": "일반동사",
+  "ref": {
+   "stem": "다음 문장을 현재 의문문으로 올바르게 바꾼 것을 고르시오.",
+   "passage": "He plays soccer.",
+   "c": [
+    "Does he plays soccer?",
+    "Do he play soccer?",
+    "Does he play soccer?",
+    "Is he play soccer?",
+    "Does he playing soccer?"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 일반동사의 현재 의문문은 ‘Do/Does + 주어 + 동사원형 ~?’이다. 3인칭 단수 주어에는 Does를 쓰고 본동사에는 -s를 붙이지 않는다.\n풀이 순서: ① 주어(he)에 맞는 조동사를 고른다. 3인칭 단수이므로 Does다. → ② Do/Does 뒤 본동사는 원형(play)으로 쓴다. → ③ 동사에 -s가 남은 것, -ing를 쓴 것, be동사로 시작한 것은 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: Does + 주어 + 동사원형으로 바르게 바꿨으므로 정답은 ③이다.\n선택지 분석:\n① [오답] Does 뒤에는 동사원형 play를 써야 하므로 오답이다.\n② [오답] 3인칭 단수 주어 he에는 Does를 써야 하므로 오답이다.\n③ [정답] Does + 주어 + 동사원형으로 바르게 바꿨으므로 정답이다.\n④ [오답] 일반동사 의문문에 be동사를 쓰지 않으므로 오답이다.\n⑤ [오답] Does 뒤에 -ing를 쓸 수 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 문장을 현재 의문문으로 올바르게 바꾼 것을 고르시오.",
+    "passage": "She walks to school.",
+    "c": [
+     "Is she walk to school?",
+     "Does she walking to school?",
+     "Do she walk to school?",
+     "Does she walks to school?",
+     "Does she walk to school?"
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "다음 문장을 현재 의문문으로 올바르게 바꾼 것을 고르시오.",
+    "passage": "Jane studies English.",
+    "c": [
+     "Does Jane study English?",
+     "Does Jane studies English?",
+     "Do Jane study English?",
+     "Is Jane study English?",
+     "Does Jane studying English?"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 문장을 현재 의문문으로 올바르게 바꾼 것을 고르시오.",
+    "passage": "They watch TV.",
+    "c": [
+     "Do they watching TV?",
+     "Does they watch TV?",
+     "Do they watch TV?",
+     "Are they watch TV?",
+     "Do they watches TV?"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 문장을 현재 의문문으로 올바르게 바꾼 것을 고르시오.",
+    "passage": "You like music.",
+    "c": [
+     "Do you likes music?",
+     "Do you liking music?",
+     "Does you like music?",
+     "Do you like music?",
+     "Are you like music?"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 문장을 현재 의문문으로 올바르게 바꾼 것을 고르시오.",
+    "passage": "Tom goes to school.",
+    "c": [
+     "Does Tom going to school?",
+     "Does Tom go to school?",
+     "Is Tom go to school?",
+     "Do Tom go to school?",
+     "Does Tom goes to school?"
+    ],
+    "ans": 2
+   }
+  },
+  "existing_pretest": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+   "passage": "너희 아빠는 커피를 드시니?",
+   "c": [
+    "Does your dad drinks coffee?",
+    "Do your dad drink coffee?",
+    "Is your dad drink coffee?",
+    "Does your dad drinking coffee?",
+    "Does your dad drink coffee?"
+   ],
+   "ans": 5
+  },
+  "target_answer_positions": [
+   5,
+   1,
+   2
+  ]
+ },
+ {
+  "key": "3-21",
+  "grade": 3,
+  "no": 21,
+  "chapter": "CH 3",
+  "chapter_name": "명사와 관사",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+   "passage": "빵 한 덩어리를 원해요.\nI'd like _____ bread, please.",
+   "c": [
+    "a cup of",
+    "a loaf of",
+    "a piece of",
+    "a bottle of",
+    "a slice of"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 셀 수 없는 명사는 단위 표현으로 센다: a loaf of bread(빵 한 덩어리), a glass of water(물 한 잔), a sheet of paper(종이 한 장), a bottle of milk(우유 한 병).\n풀이 순서: ① 우리말에서 세는 단위를 찾는다: ‘한 덩어리’. → ② 빈칸 뒤 명사(bread)는 셀 수 없으므로 단위 표현으로 센다. 그 단위에 맞는 표현은 a loaf of다. → ③ 정답은 ②.\n문장별 판정:\n정답 판단: ‘빵 한 덩어리’는 a loaf of bread이므로 정답은 ②이다.\n선택지 분석:\n① [오답] a cup of는 ‘한 컵’이라 빵에 쓰지 않으므로 오답이다.\n② [정답] ‘빵 한 덩어리’는 a loaf of bread이므로 정답이다.\n③ [오답] a piece of는 ‘한 조각’이라 우리말과 맞지 않으므로 오답이다.\n④ [오답] a bottle of는 ‘한 병’이라 빵에 쓰지 않으므로 오답이다.\n⑤ [오답] a slice of는 얇게 썬 ‘한 조각’이라 우리말과 맞지 않으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "수프 한 그릇을 원해요.\nI'd like _____ soup, please.",
+    "c": [
+     "a loaf of",
+     "a bowl of",
+     "a sheet of",
+     "a slice of",
+     "a pair of"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "물 한 잔을 주세요.\nI'd like _____ water, please.",
+    "c": [
+     "a slice of",
+     "a loaf of",
+     "a piece of",
+     "a sheet of",
+     "a glass of"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "종이 한 장이 필요해요.\nI need _____ paper.",
+    "c": [
+     "a loaf of",
+     "a bottle of",
+     "a slice of",
+     "a cup of",
+     "a sheet of"
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "치즈 한 조각을 주세요.\nI'd like _____ cheese.",
+    "c": [
+     "a bottle of",
+     "a sheet of",
+     "a cup of",
+     "a piece of",
+     "a loaf of"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+    "passage": "우유 한 병을 원해요.\nI'd like _____ milk.",
+    "c": [
+     "a slice of",
+     "a sheet of",
+     "a piece of",
+     "a loaf of",
+     "a bottle of"
+    ],
+    "ans": 5
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   4,
+   5,
+   1
+  ]
+ }
+]

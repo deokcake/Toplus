@@ -1,0 +1,257 @@
+[
+ {
+  "key": "6-22",
+  "variant": 1,
+  "ref_format": "우리말과 같은 뜻의 영어 문장 고르기(that/those·was/were·소유격 일치)",
+  "new_format": "다섯 문장 중 어법상 옳은 문장 고르기(지시대명사·be동사 과거의 수 일치)",
+  "design": "원문항의 핵심 규칙(that/those는 가리키는 수에, was/were는 주어의 수에 맞춘다)을 그대로 확인한다. 우리말 없이 다섯 문장 중 어법상 옳은 것 하나를 고르는 형식으로 바꿨고, 판단은 원문항처럼 문장 다섯 개를 한 군데씩 보는 것이며 읽을 양은 25낱말로 같고 어휘는 boys·kids·cats·puppy 수준이다. 오답은 That+복수명사, This+복수명사(지시대명사 수 불일치) 둘과 복수 주어+was, 단수 주어+were(be동사 수 불일치) 둘로, 각 문장은 한 군데만 틀리다.",
+  "stem": "다음 중 어법상 옳은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Those boys were my classmates.",
+   "That kids were his friends.",
+   "Those cats was hungry yesterday.",
+   "This girls were her students.",
+   "That puppy were very small."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "6-22",
+  "variant": 2,
+  "ref_format": "우리말과 같은 뜻의 영어 문장 고르기(that/those·was/were·소유격 일치)",
+  "new_format": "빈칸 다섯 개 중 들어갈 be동사 과거형이 나머지와 다른 문장 고르기",
+  "design": "주어의 수에 따라 was/were를 고르는 핵심 규칙을 확인한다. 문장마다 yesterday·last week 같은 과거 표현을 넣어 과거임을 분명히 하고, 빈칸 다섯 개 가운데 들어갈 be동사 과거형이 다른 하나를 찾게 했다. 판단은 주어 다섯 개의 수를 보는 것으로 원문항(보기 다섯 개 판정)과 같고 읽을 양은 31낱말(1.2배), 어휘는 bus stop·busy·wet·yard 수준이다. 정답은 단수 주어 That girl 하나이며, 복수 주어 가운데 My mom and dad는 -s가 없고 Those men도 -s 없이 those로만 복수임을 보여 주어 끝 모양만으로 고를 수 없게 했다(변형 1의 boys·classmates·hungry와 겹치지 않게 주어·소재를 새로 잡음).",
+  "stem": "다음 중 빈칸에 들어갈 말이 나머지 넷과 다른 것은?",
+  "passage": "",
+  "c": [
+   "Those men _______ at the bus stop yesterday.",
+   "That girl _______ sick at home last week.",
+   "My mom and dad _______ busy yesterday.",
+   "These shoes _______ wet last night.",
+   "Our dogs _______ in the yard yesterday."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "6-22",
+  "variant": 3,
+  "ref_format": "우리말과 같은 뜻의 영어 문장 고르기(that/those·was/were·소유격 일치)",
+  "new_format": "짧은 대화에서 밑줄 친 ‘지시어+명사+be동사’를 바르게 고친 것 고르기",
+  "design": "지시어(that/those)와 be동사 과거형(was/were)을 명사의 수에 맞추는 핵심 규칙을 확인한다. 우리말 힌트 없이 대화 속 That players was에 밑줄을 긋고 바르게 고친 것을 고르게 해, 우리말이 아니라 수 일치 규칙이 답을 정하게 했다. 현재형 질문(Who are ...?)에 last year가 붙은 과거형 대답이 이어져 시제도 자연스럽다. 보기 다섯 개를 지시어·be동사 두 곳과 맞춰 보는 판단은 원문항보다 무겁지 않고 읽을 양은 32낱말(1.3배), 어휘는 players·team·picture 수준이다. 오답은 지시어만 틀린 That·This players were, be동사만 틀린 Those·These players was로 모두 한 군데만 틀리며, 사진 속 사람을 가리킬 때 함께 맞을 수 있는 These players were는 넣지 않았다.",
+  "stem": "다음 대화의 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "A: Who are the players in the picture?\nB: <u>That players was</u> on my team last year.",
+  "c": [
+   "That players were",
+   "Those players was",
+   "This players were",
+   "Those players were",
+   "These players was"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "6-31",
+  "variant": 1,
+  "ref_format": "동사원형-3인칭 단수형 쌍 중 잘못 짝지어진 것 고르기",
+  "new_format": "동사원형-3인칭 단수형 쌍 중 바르게 짝지어진 것 고르기",
+  "design": "3인칭 단수 현재형 철자 규칙(-s/-es/-ies)을 그대로 확인한다. 원문항의 ‘잘못 짝지어진 것’을 ‘바르게 짝지어진 것’으로 뒤집어 다섯 쌍 중 옳은 하나(sing - sings)를 찾게 했다. 판단은 다섯 쌍을 한 번씩 보는 것으로 같고, 읽을 양은 10낱말이며, 동사 fly·stay·touch·wish·sing은 모두 쉽고 원문항·B~F에 없는 것이다. 정답만 끝 모양이 튀지 않도록 정답과 오답 셋이 모두 -s로 끝난다. 오답은 자음+y에 -s만 붙인 flys, 모음+y에 -ies를 잘못 붙인 staies, ch·sh로 끝나는데 -s만 붙인 touchs·wishs로, 학생이 실제로 하는 실수다.",
+  "stem": "다음 중 동사원형과 3인칭 단수형이 바르게 짝지어진 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "fly - flys",
+   "stay - staies",
+   "touch - touchs",
+   "wish - wishs",
+   "sing - sings"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "6-31",
+  "variant": 2,
+  "ref_format": "동사원형-3인칭 단수형 쌍 중 잘못 짝지어진 것 고르기",
+  "new_format": "세 낱말짜리 문장 다섯 개에서 밑줄 친 3인칭 단수형이 틀린 것 고르기",
+  "design": "3인칭 단수 현재형 철자 규칙을 확인하되, 낱말 쌍 대신 세 낱말짜리 짧은 문장 다섯 개에서 밑줄 친 동사 형태가 틀린 것을 찾게 했다. 주어는 모두 3인칭 단수라 -s를 붙이는지 여부가 아니라 철자만 판단하면 되고, 판단 다섯 번·읽을 양 15낱말(상한 안)·어휘 hard·work·home·cats 수준으로 원문항과 맞췄다. 정답 trys는 자음+y를 -ies로 바꾸지 않은 실제 오류이고, 나머지 kisses(-es)·finishes(-es)·hurries(-ies)·has는 규칙에 맞는 옳은 형태다.",
+  "stem": "다음 중 밑줄 친 부분이 어법상 틀린 것은?",
+  "passage": "",
+  "c": [
+   "He <u>trys</u> hard.",
+   "Mom <u>kisses</u> me.",
+   "Dad <u>finishes</u> work.",
+   "Mia <u>hurries</u> home.",
+   "Ken <u>has</u> cats."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "6-31",
+  "variant": 3,
+  "ref_format": "동사원형-3인칭 단수형 쌍 중 잘못 짝지어진 것 고르기",
+  "new_format": "원형이 든 짧은 구 다섯 개 중 3인칭 단수형을 만드는 방법이 나머지와 다른 것 고르기",
+  "design": "3인칭 단수 현재형 철자 규칙(-s/-es/-ies)을 확인하되, 원형만 보여 주고 학생이 머릿속으로 3인칭 단수형을 만들어 방법이 다른 하나를 찾게 했다. 판단은 동사 다섯 개의 끝을 한 번씩 보는 것으로 원문항(다섯 쌍)과 같고, 읽을 양은 15낱말(원문항+5), 어휘는 open·pass·buy·ride·drink 수준이다. 정답은 ss로 끝나 -es를 붙이는 pass(passes)이고 나머지 넷은 -s만 붙인다. 그중 y로 끝나는 buy(모음+y라 buys)는 -ies로 잘못 바꾸기 쉬운 함정이다.",
+  "stem": "다음 밑줄 친 동사를 3인칭 단수형으로 바꿀 때, 만드는 방법이 나머지 넷과 다른 것은?",
+  "passage": "",
+  "c": [
+   "<u>open</u> the door",
+   "<u>pass</u> the ball",
+   "<u>buy</u> a pen",
+   "<u>ride</u> a bike",
+   "<u>drink</u> some milk"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "6-32",
+  "variant": 1,
+  "ref_format": "밑줄 친 동사원형 중 -s가 붙지 않는 것 고르기(주어가 3인칭 단수인지)",
+  "new_format": "밑줄 친 활용 동사가 어법상 틀린 문장 고르기(주어-동사 수 일치)",
+  "design": "현재형 일반동사에 -s가 붙는 것은 주어가 3인칭 단수일 때뿐이라는 핵심 규칙을 확인한다. 원문항은 동사원형에 밑줄을 긋고 ‘s가 붙지 않는 것’을 찾게 했지만, 여기서는 이미 활용된 동사에 밑줄을 긋고 어법상 틀린 하나를 찾게 바꿨다. 판단은 다섯 문장의 주어와 동사를 맞춰 보는 것으로 같고 읽을 양은 26낱말(1.0배), 어휘는 school·park·soccer·dinner 수준이다. 정답은 복수 주어 My brothers에 -s를 붙인 plays이고, 나머지 넷은 3인칭 단수 주어+-s 둘(Amy walks, She cooks)과 복수·1인칭 주어+원형 둘(The dogs run, We watch)로 모두 옳다.",
+  "stem": "다음 중 밑줄 친 부분이 어법상 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Amy <u>walks</u> to school.",
+   "The dogs <u>run</u> in the park.",
+   "We <u>watch</u> TV at night.",
+   "My brothers <u>plays</u> soccer every day.",
+   "She <u>cooks</u> dinner at six."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "6-32",
+  "variant": 2,
+  "ref_format": "밑줄 친 동사원형 중 -s가 붙지 않는 것 고르기(주어가 3인칭 단수인지)",
+  "new_format": "빈칸 다섯 개 중 동사원형(want)을 쓸 수 있는 문장 고르기",
+  "design": "주어가 3인칭 단수가 아닐 때만 동사원형을 쓴다는 핵심 규칙을 확인한다. 밑줄 대신 빈칸 다섯 개를 주고 원형 want를 쓸 수 있는 문장을 찾게 했으므로 판단은 원문항처럼 주어 다섯 개의 수·인칭을 한 번씩 보는 것이다. 읽을 양은 26낱말(1.0배), 어휘는 coffee·milk·pencil case·bone·soccer 수준이다. 정답은 복수 주어 My friends 하나이고, 오답 넷은 My uncle·The baby·Jenny·His puppy처럼 3인칭 단수 주어라 wants가 들어가야 하는 문장이다.",
+  "stem": "다음 중 빈칸에 want를 쓸 수 있는 것은?",
+  "passage": "",
+  "c": [
+   "My uncle _______ a cup of coffee.",
+   "The baby _______ some warm milk.",
+   "Jenny _______ a new pencil case.",
+   "His puppy _______ a big bone.",
+   "My friends _______ new soccer balls."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "6-32",
+  "variant": 3,
+  "ref_format": "밑줄 친 동사원형 중 -s가 붙지 않는 것 고르기(주어가 3인칭 단수인지)",
+  "new_format": "다섯 문장 중 어법상 옳은 문장 고르기(주어-동사 수 일치)",
+  "design": "3인칭 단수 주어에만 -s를 붙인다는 핵심 규칙을 확인하되, 다섯 문장 중 어법상 옳은 하나를 고르게 했다. 정답은 복수 주어+원형(My parents work)이라 ‘-s가 붙은 것이 답’ 같은 겉모양으로는 고를 수 없다. 판단은 다섯 문장의 주어·동사 일치를 보는 것으로 같고, 읽을 양은 28낱말(1.1배), 어휘는 bank·pool·song·pictures·piano 수준이다. 오답은 3인칭 단수 주어에 원형을 쓴 것(The boy swim, Her brother draw) 둘과 복수 주어에 -s를 붙인 것(We likes, They plays) 둘로 각각 한 군데만 틀리며, 변형 1과 소재가 겹치지 않게 했다.",
+  "stem": "다음 중 어법상 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "My parents work at a bank.",
+   "The boy swim in the pool.",
+   "We likes this song a lot.",
+   "Her brother draw nice pictures.",
+   "They plays the piano well."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "6-41",
+  "variant": 1,
+  "ref_format": "현재형-과거형 쌍 중 잘못 짝지어진 것 고르기(규칙 과거형 철자)",
+  "new_format": "현재형-과거형 쌍 중 바르게 짝지어진 것 고르기",
+  "design": "규칙 과거형 철자 규칙(-ed, 자음+y→-ied, 단모음+단자음→자음 겹치기, 모음+y→그대로 -ed)을 그대로 확인한다. 원문항의 ‘잘못 짝지어진 것’을 ‘바르게 짝지어진 것’으로 뒤집어 다섯 쌍 중 옳은 하나(kick - kicked)를 찾게 했다. 판단 다섯 번, 읽을 양 10낱말, 어휘 stay·kick·drop·hurry·wait 수준으로 같다. 오답은 모음+y인데 i로 바꾼 staied, 자음을 겹치지 않은 droped, 자음+y를 그대로 둔 hurryed, 겹칠 필요가 없는데 겹친 waitted로 실제 학생 오류다.",
+  "stem": "다음 중 동사의 현재형과 과거형이 바르게 짝지어진 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "stay - staied",
+   "kick - kicked",
+   "drop - droped",
+   "hurry - hurryed",
+   "wait - waitted"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "6-41",
+  "variant": 2,
+  "ref_format": "현재형-과거형 쌍 중 잘못 짝지어진 것 고르기(규칙 과거형 철자)",
+  "new_format": "짧은 문장 다섯 개에서 밑줄 친 과거형 철자가 틀린 것 고르기",
+  "design": "규칙 과거형 철자 규칙을 확인하되, 낱말 쌍 대신 짧은 문장 다섯 개에서 밑줄 친 과거형이 틀린 것을 찾게 했다. 모든 문장이 과거라 시제가 아니라 철자만 판단한다. 판단 다섯 번, 읽을 양 17낱말(원문항+7, 상한 안), 어휘 jog·dance·cook·worry·walk 수준으로 원문항과 맞췄다. 정답 worryed는 자음+y를 -ied로 바꾸지 않은 오류로, 원문항의 cryed와 다른 동사를 썼다. 나머지 jogged(자음 겹치기)·danced(e로 끝나 -d)·cooked·walked(-ed)는 옳은 형태다.",
+  "stem": "다음 중 밑줄 친 동사의 과거형이 잘못된 것은?",
+  "passage": "",
+  "c": [
+   "Dad <u>jogged</u> yesterday.",
+   "We <u>danced</u> together.",
+   "Jim <u>cooked</u> rice.",
+   "Mia <u>worryed</u> a lot.",
+   "Tom <u>walked</u> to school."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "6-41",
+  "variant": 3,
+  "ref_format": "현재형-과거형 쌍 중 잘못 짝지어진 것 고르기(규칙 과거형 철자)",
+  "new_format": "원형이 든 짧은 구 다섯 개 중 과거형을 만드는 방법이 나머지와 다른 것 고르기",
+  "design": "규칙 과거형 철자 규칙 가운데 ‘자음+y는 y를 i로 바꾸고 -ed’와 ‘모음+y는 그대로 -ed’를 구별하는지 확인한다. 과거형을 보여 주지 않고 원형이 든 짧은 구만 주어 학생이 머릿속으로 과거형을 만들게 했으므로, 겉모양 비교로는 답이 나오지 않는다. 판단은 다섯 동사를 한 번씩 보는 것으로 원문항과 같고, 읽을 양 14낱말, 어휘 jump·enjoy·paint·call·fry 수준이다. 정답은 y를 i로 바꾸는 fry(fried)이다. enjoy는 y로 끝나지만 모음+y라 그대로 -ed를 붙이는 실제 함정이며, 나머지 셋은 그냥 -ed를 붙인다.",
+  "stem": "다음 중 밑줄 친 동사를 과거형으로 바꿀 때, 만드는 방법이 나머지 넷과 다른 것은?",
+  "passage": "",
+  "c": [
+   "<u>jump</u> rope",
+   "<u>enjoy</u> the party",
+   "<u>paint</u> the door",
+   "<u>call</u> my uncle",
+   "<u>fry</u> two eggs"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "6-42",
+  "variant": 1,
+  "ref_format": "yesterday가 있는 문장의 빈칸에 알맞은 동사 형태 고르기(과거형)",
+  "new_format": "밑줄 친 현재형 동사를 과거 표현에 맞게 바르게 고친 것 고르기",
+  "design": "yesterday 같은 과거 표현이 있으면 동사의 과거형을 쓴다는 핵심 규칙을 확인한다. 빈칸 대신 현재형 plants에 밑줄을 긋고 바르게 고친 것을 고르게 했다. 판단은 한 군데(과거 표현 확인 → 과거형)로 같고, 읽을 양 10낱말, 어휘 plant·flowers·yesterday 수준이다. 오답은 원문항과 같은 유형으로 원형 plant, -ing형 planting, did+과거형 did planted, 겹칠 필요 없는 자음을 겹친 plantted이며, 6-41 변형과 겹치지 않는 동사를 썼다.",
+  "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "Amy <u>plants</u> flowers yesterday.",
+  "c": [
+   "plant",
+   "planted",
+   "planting",
+   "did planted",
+   "plantted"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "6-42",
+  "variant": 2,
+  "ref_format": "yesterday가 있는 문장의 빈칸에 알맞은 동사 형태 고르기(과거형)",
+  "new_format": "과거를 묻는 짧은 대화의 대답 빈칸에 알맞은 동사 형태 고르기",
+  "design": "과거를 묻는 질문(What did you do yesterday?)에 대한 대답에는 과거형을 쓴다는 핵심 규칙을 짧은 대화 빈칸으로 확인한다. 판단은 빈칸 하나(과거임을 확인 → baked)로 같고, 읽을 양 14낱말(상한 안), 어휘 bake·cookies·yesterday 수준이다. 6-41 변형의 helped 문장과 겹치지 않게 동사·대상을 새로 잡았다. 오답은 원문항과 같은 구성으로 원형 bake, 3인칭 단수형 bakes, -ing형 baking, 그리고 원문항의 plaies처럼 철자를 잘못 쓴 bakeed(e로 끝나는데 -ed를 그대로 붙임)다.",
+  "stem": "다음 대화의 빈칸에 알맞은 것을 고르시오.",
+  "passage": "A: What did you do yesterday?\nB: I _______ cookies.",
+  "c": [
+   "bake",
+   "bakes",
+   "baked",
+   "baking",
+   "bakeed"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "6-42",
+  "variant": 3,
+  "ref_format": "yesterday가 있는 문장의 빈칸에 알맞은 동사 형태 고르기(과거형)",
+  "new_format": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 동사 형태 고르기",
+  "design": "우리말 ‘~했다’와 last night에 맞춰 동사의 과거형을 쓴다는 핵심 규칙을 확인한다. 원문항의 빈칸 고르기를 ‘우리말과 같은 뜻이 되도록 빈칸 채우기’로 바꿨고, 판단은 빈칸 하나로 같으며 읽을 양 12낱말(1.3배), 어휘 mom·night 수준이다. 오답은 원형 talk, 3인칭 단수형 talks, -ing형 talking, did+과거형 did talked로 원문항과 같은 유형이다.",
+  "stem": "다음 우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르시오.",
+  "passage": "나는 어젯밤에 엄마와 이야기했다.\nI _______ with my mom last night.",
+  "c": [
+   "talk",
+   "talks",
+   "talking",
+   "talked",
+   "did talked"
+  ],
+  "ans": 4
+ }
+]

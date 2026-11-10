@@ -1,0 +1,17 @@
+[
+{"key":"7-1","variant":1,"stem":"다음 중 셀 수 있는 명사를 고르시오.","passage":"","c":["cheese","honey","music","flower","snow"],"ans":4,"new_format":"낱말 보기 5개 중 셀 수 있는 명사 고르기(반대 방향)"},
+{"key":"7-1","variant":2,"stem":"다음 빈칸에 들어갈 수 없는 말을 고르시오.","passage":"It is a _______.","c":["carrot","sandwich","pear","cookie","meat"],"ans":5,"new_format":"짧은 문장의 빈칸(a 뒤)에 들어갈 수 없는 낱말 고르기(규칙 적용)"},
+{"key":"7-1","variant":3,"stem":"다음 중 낱말과 명사의 종류가 잘못 짝지어진 것을 고르시오.","passage":"","c":["sand - 셀 수 있는 명사","spoon - 셀 수 있는 명사","air - 셀 수 없는 명사","nurse - 셀 수 있는 명사","gold - 셀 수 없는 명사"],"ans":1,"new_format":"낱말 - 명사의 종류(셀 수 있는/없는) 짝 5개 중 잘못 짝지어진 것 고르기"},
+{"key":"7-2","variant":1,"stem":"다음 중 대문자로 시작하지 않아도 되는 것을 고르시오.","passage":"","c":["monday","flower","canada","emily","korean"],"ans":2,"new_format":"소문자 낱말 5개 중 대문자로 시작하지 않아도 되는 것 고르기(반대 방향)"},
+{"key":"7-2","variant":2,"stem":"다음 문장에서 대문자로 고쳐 써야 하는 낱말을 고르시오.","passage":"My uncle is in jeju today.","c":["uncle","is","in","jeju","today"],"ans":4,"new_format":"짧은 문장 속 소문자 낱말 5개 중 대문자로 고쳐 써야 하는 것 고르기"},
+{"key":"7-2","variant":3,"stem":"다음 중 영어 낱말의 첫 글자를 잘못 쓴 것을 고르시오.","passage":"","c":["모자 - hat","침대 - bed","가수 - singer","우산 - umbrella","런던 - london"],"ans":5,"new_format":"우리말 - 영어 낱말 짝 5개 중 첫 글자를 잘못 쓴 것 고르기"},
+{"key":"7-11","variant":1,"stem":"다음 중 대명사와 우리말 뜻이 바르게 짝지어진 것을 고르시오.","passage":"","c":["you - 너는","her - 그녀는","we - 우리의","they - 그들의","he - 그의"],"ans":1,"new_format":"대명사 - 우리말 뜻 짝 5개 중 바르게 짝지어진 것 고르기(반대 방향)"},
+{"key":"7-11","variant":2,"stem":"다음 중 우리말을 영어로 잘못 옮긴 것을 고르시오.","passage":"","c":["나의 방 - my room","그의 차 - he car","우리의 학교 - our school","그들의 공 - their ball","너의 개 - your dog"],"ans":2,"new_format":"우리말 구 → 영어 구(대명사 + 명사) 짝 5개 중 잘못 옮긴 것 고르기"},
+{"key":"7-11","variant":3,"stem":"다음 밑줄 친 두 낱말의 우리말 뜻을 차례대로 바르게 짝지은 것을 고르시오.","passage":"<u>He</u> and <u>her</u> brother are friends.","c":["그의 - 그녀의","그는 - 그녀는","그의 - 그녀는","그는 - 그녀의","그는 - 그의"],"ans":4,"new_format":"문장 속 밑줄 친 대명사 두 개의 우리말 뜻을 차례대로 바르게 짝지은 것 고르기"},
+{"key":"7-12","variant":1,"stem":"짝지어진 단어의 관계가 <보기>와 같은 것을 고르시오.","passage":"<보기>\nyou - your","c":["their - they","our - we","my - I","its - it","she - her"],"ans":5,"new_format":"<보기> 짝(주격 - 소유격)과 관계가 같은 짝 고르기(반대 방향)"},
+{"key":"7-12","variant":2,"stem":"다음 낱말 짝의 관계에 맞게 빈칸에 들어갈 말을 고르시오.","passage":"I - my, you - your, we - our, they - their, he - _______","c":["his","he","she","her","its"],"ans":1,"new_format":"주격 - 소유격 짝 목록의 마지막 빈칸 채우기(관계에 맞는 낱말 고르기)"},
+{"key":"7-12","variant":3,"stem":"다음 대화의 빈칸에 알맞은 말을 고르시오.","passage":"A: Look! That is my brother Jake.\nB: Wow, _______ bike is cool!","c":["he","we","his","their","they"],"ans":3,"new_format":"짧은 대화의 빈칸에 알맞은 대명사(소유격) 고르기"},
+{"key":"7-21","variant":1,"stem":"다음 빈칸에 들어갈 be동사를 고르시오.","passage":"My school bag _______ under the table.","c":["have","it","do","is","like"],"ans":4,"new_format":"문장의 빈칸에 들어갈 be동사 고르기(낱말 보기)"},
+{"key":"7-21","variant":2,"stem":"다음 중 밑줄 친 낱말이 be동사인 것을 고르시오.","passage":"","c":["<u>I</u> am tall.","She is <u>kind</u>.","<u>We</u> are busy.","My <u>cat</u> is small.","It <u>is</u> big."],"ans":5,"new_format":"짧은 문장 5개 중 밑줄 친 낱말이 be동사인 것 고르기"},
+{"key":"7-21","variant":3,"stem":"다음 대화의 빈칸에 공통으로 들어갈 말을 고르시오.","passage":"A: Hi, I _______ Mina.\nB: Hello, Mina. I _______ Ben.","c":["am","my","it","a","and"],"ans":1,"new_format":"두 줄 대화의 빈칸 두 곳에 공통으로 들어갈 말 고르기"}
+]

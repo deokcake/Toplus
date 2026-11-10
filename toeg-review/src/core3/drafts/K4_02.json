@@ -1,0 +1,257 @@
+[
+ {
+  "key": "4-22",
+  "variant": 1,
+  "ref_format": "두 문장의 빈칸에 들어갈 be동사 현재형 짝 고르기(is - are)",
+  "new_format": "빈칸 다섯 개 중 들어갈 be동사가 나머지 넷과 다른 문장 고르기",
+  "design": "주어가 단수면 is, 복수면 are를 쓰는 be동사 현재형 일치 규칙을 그대로 확인한다. 두 빈칸의 짝 고르기를 ‘빈칸에 들어갈 be동사가 나머지 넷과 다른 문장 찾기’로 바꿨고, 보기마다 빈칸 한 곳만 판단하는 아주 짧은 문장(4~5낱말)이라 사고의 무게는 원문항과 같다. 읽을 양은 22낱말(원문항 19, 1.2배), 어휘는 gym·nurse·shoes 수준이다. 정답은 단수 주어 My aunt(is) 하나이고, 나머지 넷은 복수 명사 The boys·The shoes와 대명사 You·We로 모두 are가 들어간다.",
+  "stem": "다음 중 빈칸에 들어갈 be동사가 나머지 넷과 다른 것은?",
+  "passage": "",
+  "c": [
+   "The boys _______ in the gym.",
+   "You _______ very kind to me.",
+   "We _______ good friends now.",
+   "My aunt _______ a nurse.",
+   "The shoes _______ too big."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "4-22",
+  "variant": 2,
+  "ref_format": "두 문장의 빈칸에 들어갈 be동사 현재형 짝 고르기(is - are)",
+  "new_format": "두 문장의 빈칸에 공통으로 들어갈 낱말 하나 고르기(낱말 보기)",
+  "design": "be동사 현재형의 주어 일치(복수 주어·you → are)를 확인한다. 짝 고르기를 두 문장에 공통으로 들어갈 낱말 하나 고르기로 바꿨고, 판단은 원문항처럼 주어 두 개(The children, You)의 수를 보는 것이다. 읽을 양은 20낱말(원문항 19), 어휘는 pool·singer 수준이다. 오답은 단수 주어에 쓰는 is, I에만 쓰는 am, 그리고 같은 단원에서 be동사와 혼동하기 쉬운 일반동사용 do·does다.",
+  "stem": "다음 두 문장의 빈칸에 공통으로 들어갈 말을 고르시오.",
+  "passage": "- The children _______ in the pool with their dad now.\n- You _______ a really good singer, Mina.",
+  "c": [
+   "am",
+   "is",
+   "do",
+   "does",
+   "are"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "4-22",
+  "variant": 3,
+  "ref_format": "두 문장의 빈칸에 들어갈 be동사 현재형 짝 고르기(is - are)",
+  "new_format": "아주 짧은 문장 다섯 개 중 be동사가 어법상 틀린 것 고르기",
+  "design": "단수 주어에는 is, 복수 주어에는 are를 쓰는 규칙을 그대로 확인한다. 짝 고르기를 ‘어법상 틀린 문장 하나 고르기’로 바꿨고, 보기마다 be동사 한 곳만 판단하는 4~5낱말 문장이라 무게는 같다. 읽을 양은 24낱말(1.3배 안), 어휘는 pilot·cousins·cups 수준이다. 틀린 문장은 복수 주어 My cousins에 is를 쓴 것 하나이고, 옳은 보기에는 is·am·are가 고루 들어가 형태만 보고 찍을 수 없다.",
+  "stem": "다음 중 어법상 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "My uncle is a pilot.",
+   "My cousins is very tall.",
+   "I am in the kitchen.",
+   "The cups are clean.",
+   "You are my best friend."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "4-31",
+  "variant": 1,
+  "ref_format": "다섯 문장 중 과거 시제 문장이 아닌 것 고르기",
+  "new_format": "다섯 문장 중 과거 시제 문장인 것 고르기(방향 뒤집기)",
+  "design": "과거 시제 문장은 동사의 과거형(-ed·불규칙·was/were)을 쓴다는 규칙을 그대로 확인한다. 원문항의 ‘과거 시제가 아닌 것’을 ‘과거 시제인 것’ 고르기로 뒤집어 현재형 네 문장 사이에서 과거형 saw 문장 하나를 찾게 했다. 판단은 문장 다섯 개의 동사 형태를 보는 것으로 같고, 읽을 양은 32낱말(원문항 30), 어휘는 rainbow·wash 수준이다. 오답은 3인칭 단수 -s/-es형(reads·washes·sleeps)과 동사원형(walk)을 쓴 현재 습관 문장으로, every night·on Sundays 같은 현재 표현을 함께 넣어 원문항과 단서의 양을 맞췄다.",
+  "stem": "다음 중 과거 시제 문장인 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Jane reads a book every night.",
+   "My dad washes his car on Sundays.",
+   "We saw a rainbow yesterday afternoon.",
+   "The baby sleeps in the afternoon.",
+   "I usually walk to school with Mina."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "4-31",
+  "variant": 2,
+  "ref_format": "다섯 문장 중 과거 시제 문장이 아닌 것 고르기",
+  "new_format": "현재 시제 문장을 과거 시제로 바르게 바꾼 것 고르기(문장 전환)",
+  "design": "과거 시제 문장은 동사를 과거형으로 쓴다는 규칙을 확인한다. 문장 판정 대신 현재 시제 문장을 과거 시제로 바르게 바꾼 보기 고르기로 바꿨고, 보기 다섯 개가 동사 자리 한 곳만 다르므로 판단 개수는 원문항과 같다. 읽을 양은 38낱말(1.3배 안), 어휘는 help·mom·dinner 수준이다. 오답은 동사원형(help), was+동사원형(was help), -ing만 쓴 것(helping), 미래 will help로 학생이 실제로 자주 쓰는 잘못된 형태다.",
+  "stem": "다음 문장을 과거 시제 문장으로 바르게 바꾼 것을 고르시오.",
+  "passage": "Mina helps her mom after dinner.",
+  "c": [
+   "Mina help her mom after dinner.",
+   "Mina was help her mom after dinner.",
+   "Mina helping her mom after dinner.",
+   "Mina helped her mom after dinner.",
+   "Mina will help her mom after dinner."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "4-31",
+  "variant": 3,
+  "ref_format": "다섯 문장 중 과거 시제 문장이 아닌 것 고르기",
+  "new_format": "짧은 대화에서 과거의 일을 묻는 질문에 알맞은 대답(과거 시제 문장) 고르기",
+  "design": "과거 시제 문장은 동사의 과거형(went)을 쓴다는 규칙을 확인한다. 문장 목록을 짧은 대화로 바꿔 어제 한 일을 묻는 질문에 알맞은 대답을 고르게 했고, 보기 다섯 문장의 동사 형태를 한 번씩 보는 판단은 원문항과 같다. 읽을 양은 39낱말(1.3배), 어휘는 soccer·comic book·movies 수준이다. 오답은 현재형(play·clean), 현재진행형(am reading), 미래(will visit) 문장으로 모두 과거형이 아닌 동사를 쓴 것이다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: What did you do yesterday?\nB: _______",
+  "c": [
+   "I play soccer with my friends.",
+   "I am reading a comic book.",
+   "I will visit my aunt in Busan.",
+   "I clean my room every Saturday.",
+   "I went to the movies with Jiho."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "4-32",
+  "variant": 1,
+  "ref_format": "과거 시간 표현이 있는 문장의 빈칸에 알맞은 동사(go) 형태 고르기(낱말 보기)",
+  "new_format": "밑줄 친 동사를 바르게 고친 것 고르기(낱말 보기)",
+  "design": "two days ago처럼 과거의 때를 나타내는 말이 있으면 동사를 과거형(come → came)으로 쓴다는 규칙을 확인한다. 빈칸 채우기를 밑줄 친 동사를 바르게 고친 것 고르기로 바꿨고, 판단은 원문항처럼 시간 표현 하나를 보고 동사 형태 한 곳을 정하는 것이다. 읽을 양은 16낱말(원문항 13), 어휘는 aunt·house 수준이다. 오답은 현재형 comes, -ing만 쓴 coming, 미래 will come, 현재진행형 is coming으로 원문항의 오답 유형과 같다.",
+  "stem": "다음 문장에서 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "My aunt <u>come</u> to our house two days ago.",
+  "c": [
+   "came",
+   "comes",
+   "coming",
+   "will come",
+   "is coming"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "4-32",
+  "variant": 2,
+  "ref_format": "과거 시간 표현이 있는 문장의 빈칸에 알맞은 동사(go) 형태 고르기(낱말 보기)",
+  "new_format": "우리말에 맞게 빈칸에 알맞은 동사 형태 고르기(낱말 보기)",
+  "design": "last weekend가 있으면 동사를 과거형(take → took)으로 쓴다는 규칙을 확인한다. 우리말을 함께 주고 그 뜻에 맞게 빈칸을 채우는 형식으로 바꿨고, 판단은 시간 표현을 보고 동사 형태 한 곳을 고르는 것으로 같다. 읽을 양은 16낱말(원문항 13), 어휘는 pictures·zoo 수준이다. 오답은 3인칭 단수 현재형 takes, 동사원형 take, -ing만 쓴 taking, 미래 will take다.",
+  "stem": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르시오.",
+  "passage": "미나는 지난 주말에 동물원에서 사진을 많이 찍었다.\nMina _______ a lot of pictures at the zoo last weekend.",
+  "c": [
+   "takes",
+   "take",
+   "took",
+   "taking",
+   "will take"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "4-32",
+  "variant": 3,
+  "ref_format": "과거 시간 표현이 있는 문장의 빈칸에 알맞은 동사(go) 형태 고르기(낱말 보기)",
+  "new_format": "짧은 대화의 빈칸에 알맞은 동사 형태 고르기(낱말 보기)",
+  "design": "last winter가 있으면 동사를 과거형(make → made)으로 쓴다는 규칙을 확인한다. 한 문장 빈칸을 짧은 대화의 빈칸으로 바꿨고, 동사 이름을 발문에 주지 않아도 보기가 모두 make의 형태라 판단은 동사 형태 한 곳으로 같다. 읽을 양은 18낱말(원문항 13, 아주 짧은 원문항의 +8낱말 안), 어휘는 hat·grandma 수준이다. 오답은 현재형 makes·make, -ing만 쓴 making, 미래 will make다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Nice hat!\nB: Thanks. My grandma _______ it for me last winter.",
+  "c": [
+   "makes",
+   "make",
+   "making",
+   "made",
+   "will make"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "4-41",
+  "variant": 1,
+  "ref_format": "우리말이 주어진 미래(will) 문장에서 not이 들어갈 위치(①~⑤) 고르기",
+  "new_format": "우리말에 맞게 부정 표현 자리의 빈칸 채우기(두 낱말 보기)",
+  "design": "will의 부정은 will not + 동사원형이라는 규칙을 확인한다. not의 위치 번호 고르기를 우리말에 맞게 빈칸(will not 자리)을 채우는 형식으로 바꿨고, 판단은 부정어 자리 한 곳으로 같다. 영어는 14낱말로 아주 짧은 원문항(7낱말)의 +8낱말 안이며 어휘는 watch·TV·tonight 수준이다. 오답은 not을 will 앞에 둔 not will, be동사로 부정한 is not, do를 겹쳐 쓴 doesn't will·will doesn't로 학생이 실제로 쓰는 잘못된 부정형이다.",
+  "stem": "우리말과 같은 뜻이 되도록 빈칸에 알맞은 말을 고르시오.",
+  "passage": "그녀는 오늘 밤 텔레비전을 보지 않을 것이다.\nShe _______ watch TV tonight.",
+  "c": [
+   "not will",
+   "is not",
+   "doesn't will",
+   "will doesn't",
+   "will not"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "4-41",
+  "variant": 2,
+  "ref_format": "우리말이 주어진 미래(will) 문장에서 not이 들어갈 위치(①~⑤) 고르기",
+  "new_format": "be going to 문장을 부정문으로 바꿀 때 not 바로 앞에 오는 낱말 고르기(낱말 보기)",
+  "design": "be going to의 부정은 be동사 바로 뒤에 not을 넣는다는 규칙을 확인한다. 번호 위치 고르기를 ‘not 바로 앞에 오는 낱말’ 고르기로 바꿔 보기를 문장의 낱말로 만들었고, 판단은 not의 자리 한 곳으로 같다. 읽을 양은 12낱말(원문항 7), 어휘는 buy·phone 수준이다. 오답은 not을 주어 뒤(Jiho), going 뒤, to 뒤, buy 뒤에 두는 실수에 해당하는 낱말들이다.",
+  "stem": "다음 문장을 부정문으로 바꿀 때 not 바로 앞에 오는 낱말을 고르시오.",
+  "passage": "Jiho is going to buy a phone.\n→ 지호는 전화기를 사지 않을 것이다.",
+  "c": [
+   "is",
+   "Jiho",
+   "going",
+   "to",
+   "buy"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "4-41",
+  "variant": 3,
+  "ref_format": "우리말이 주어진 미래(will) 문장에서 not이 들어갈 위치(①~⑤) 고르기",
+  "new_format": "우리말에 맞게 낱말을 배열할 때 세 번째에 오는 낱말 고르기(배열)",
+  "design": "will의 부정문은 주어 + will + not + 동사원형 순서라는 규칙을 확인한다. 주어진 낱말을 배열해 세 번째 낱말을 고르는 형식으로 바꿨고, 다섯 낱말 중 not의 자리만 정하면 되므로 판단은 원문항과 같이 한 곳이다. 읽을 양은 10낱말(원문항 7), 어휘는 swim·tonight 수준이다. 오답 will은 not을 will 앞에 둔 경우(We not will swim), swim은 동사 뒤에 둔 경우(We will swim not)의 세 번째 낱말이고 We·tonight는 문장 처음·끝 자리다.",
+  "stem": "다음 우리말을 영어로 옮길 때, 주어진 낱말을 바르게 배열하면 세 번째에 오는 낱말은?",
+  "passage": "우리는 오늘 밤 수영하지 않을 것이다.\n(swim / not / We / will / tonight)",
+  "c": [
+   "We",
+   "will",
+   "not",
+   "swim",
+   "tonight"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "4-42",
+  "variant": 1,
+  "ref_format": "be going to 문장을 부정문으로 바르게 바꾼 것 고르기(문장 보기)",
+  "new_format": "서로 다른 be going to 부정문 다섯 개 중 어법상 옳은 것 고르기",
+  "design": "be going to의 부정문은 be동사 + not + going to + 동사원형이라는 규칙을 그대로 확인한다. 한 문장을 부정문으로 바꾼 보기 고르기를 서로 다른 다섯 부정문 중 어법상 옳은 것 고르기로 바꿨고, 보기마다 한 곳만 판단하므로 사고의 무게는 같다. 읽을 양은 52낱말로 원문항과 같고 어휘는 clean·visit·movie 수준이다. 오답은 원문항과 같은 네 가지 실수인 not is(어순), do not going to(do 부정), not go to(동사원형), will is not(will 겹침)으로 각각 한 곳만 틀리다.",
+  "stem": "다음 중 어법상 옳은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Tom not is going to clean his room this afternoon.",
+   "My parents do not going to visit Busan next weekend.",
+   "I am not go to play the piano after school today.",
+   "We are not going to watch the new movie tonight.",
+   "She will is not going to swim in the sea tomorrow."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "4-42",
+  "variant": 2,
+  "ref_format": "be going to 문장을 부정문으로 바르게 바꾼 것 고르기(문장 보기)",
+  "new_format": "짧은 대화에서 질문에 대한 부정 대답(be going to 부정문) 고르기",
+  "design": "be going to의 부정은 be동사 뒤에 not을 넣는다는 규칙을 확인한다. 문장 전환을 짧은 대화로 바꿔 질문에 대한 부정 대답을 고르게 했고, 보기 다섯 문장이 부정 표현 자리만 다르므로 판단은 원문항과 같다. 읽을 양은 57낱말(1.1배), 어휘는 join·school band 수준이다. 오답은 not is going to(어순), does not going to(do 부정), is not go to(동사원형), will is not going to(will 겹침)다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Is Sora going to join the school band?\nB: No. _______",
+  "c": [
+   "She not is going to join the school band.",
+   "She does not going to join the school band.",
+   "She is not go to join the school band.",
+   "She will is not going to join the school band.",
+   "She is not going to join the school band."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "4-42",
+  "variant": 3,
+  "ref_format": "be going to 문장을 부정문으로 바르게 바꾼 것 고르기(문장 보기)",
+  "new_format": "우리말(미래 부정)을 영어로 바르게 옮긴 것 고르기(문장 보기)",
+  "design": "be going to의 부정문 형태(be + not + going to + 동사원형)를 확인한다. 영어 문장 전환을 우리말을 영어로 바르게 옮긴 것 고르기로 바꿨고, 보기 다섯 문장이 부정 표현 자리만 다르므로 판단 개수는 원문항과 같다. 읽을 양은 56낱말(1.1배), 어휘는 uncle·car·month 수준이다. 오답은 not is(어순), is not go to(동사원형), does not going to(do 부정), will is not(will 겹침)으로 원문항의 오답 유형과 같다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "우리 삼촌은 다음 달에 새 차를 사지 않을 것이다.",
+  "c": [
+   "My uncle is not going to buy a new car next month.",
+   "My uncle not is going to buy a new car next month.",
+   "My uncle is not go to buy a new car next month.",
+   "My uncle does not going to buy a new car next month.",
+   "My uncle will is not going to buy a new car next month."
+  ],
+  "ans": 1
+ }
+]

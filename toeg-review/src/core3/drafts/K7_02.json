@@ -1,0 +1,257 @@
+[
+ {
+  "key": "7-22",
+  "variant": 1,
+  "ref_format": "be동사 is가 쓰인 문장의 빈칸에 알맞지 않은 주어 고르기(낱말 보기, 틀린 것 하나)",
+  "new_format": "be동사 are가 쓰인 문장의 빈칸에 알맞은 주어 고르기(낱말 보기, 옳은 것 하나)",
+  "design": "핵심 규칙(is는 한 사람·한 개 주어와, are는 you·여럿 주어와 쓴다)을 그대로 확인하되, 방향을 뒤집어 are가 주어진 빈칸에 들어갈 수 있는 주어 하나를 고르게 했다. 빈칸 하나에 주어 보기 다섯 개를 판단하는 구조·보기 수·어휘(uncle, dog, boys, tall)는 원문항과 같고, 읽을 양은 10낱말로 원문항(8낱말)의 1.3배 안이다. 오답은 모두 한 사람·한 개 주어(My uncle, The dog, She, It)로, 여럿인 The boys만 are와 어울린다.",
+  "stem": "다음 빈칸에 알맞은 것을 고르시오.",
+  "passage": "_______ are tall.",
+  "c": [
+   "My uncle",
+   "The dog",
+   "The boys",
+   "She",
+   "It"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "7-22",
+  "variant": 2,
+  "ref_format": "be동사 is가 쓰인 문장의 빈칸에 알맞지 않은 주어 고르기(낱말 보기, 틀린 것 하나)",
+  "new_format": "주어와 be동사의 짝 다섯 개 중 바르지 않은 짝 고르기",
+  "design": "같은 규칙(주어의 수에 따라 is/are를 가른다)을 '주어 - be동사' 짝 보기로 바꾸어, 보기마다 주어가 한 사람·한 개인지 여럿인지 한 군데만 판단하게 했다. 판단 개수(보기 다섯)·어휘 수준(cats, kids, dad)은 원문항과 같고 읽을 양은 13낱말로 원문항의 1.3배 안팎이다. 오답(옳은 짝)은 He-is, The cats-are, You-are, My dad-is이며, 정답은 여럿인 The kids에 is를 붙인 학생들의 흔한 실수를 그대로 둔 짝이다.",
+  "stem": "다음 중 주어와 be동사가 바르게 짝지어지지 않은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "He - is",
+   "The cats - are",
+   "You - are",
+   "The kids - is",
+   "My dad - is"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "7-22",
+  "variant": 3,
+  "ref_format": "be동사 is가 쓰인 문장의 빈칸에 알맞지 않은 주어 고르기(낱말 보기, 틀린 것 하나)",
+  "new_format": "아주 짧은 문장 다섯 개 중 빈칸에 is가 들어갈 수 없는 문장 고르기",
+  "design": "원문항의 낱말 보기(주어)를 그 주어가 든 아주 짧은 문장 보기로 바꾸고, 각 문장의 빈칸에 is를 쓸 수 있는지(주어가 한 사람·한 개인지)만 판단하게 했다. 보기마다 판단할 곳은 주어 한 군데뿐이라 판단 개수는 원문항의 보기 다섯 개 판단과 같고, 읽을 양은 12낱말로 1.3배 안팎, 어휘(bird, aunt, busy, cold, ready)는 초등 3~4학년 수준이다. 오답은 is가 들어가는 한 사람·한 개 주어(Jake, The bird, My aunt, It)이고, 정답은 are를 써야 하는 We이다.",
+  "stem": "다음 중 빈칸에 is가 들어갈 수 없는 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Jake _______ busy.",
+   "The bird _______ small.",
+   "My aunt _______ kind.",
+   "It _______ cold.",
+   "We _______ ready."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "7-31",
+  "variant": 1,
+  "ref_format": "우리말 뜻이 주어진 문장의 빈칸에 알맞은 be동사 부정형 고르기(낱말 보기)",
+  "new_format": "우리말 뜻이 주어진 문장에서 밑줄 친 be동사 부정형을 바르게 고친 것 고르기(낱말 보기)",
+  "design": "핵심 규칙(be동사 뒤에 not을 붙이고, be동사는 주어에 맞춘다)을 그대로 확인하되, 빈칸 대신 잘못 쓴 is not에 밑줄을 긋고 바르게 고친 것을 고르게 했다. 우리말로 부정의 뜻을 주고 주어(The boys)에 맞는 be동사를 고르는 두 단계 판단은 원문항과 같으며, 읽을 양은 13낱말로 원문항(11낱말)의 1.3배 안이고 어휘(boys, school)도 쉽다. 오답은 주어에 맞지 않는 am not·isn't, not을 빠뜨린 are·am이다. be동사 형태의 가짓수가 아홉뿐이라 원문항(B·C·E·F도 같은 보기 묶음)과 보기 3개(are not, am not, are)가 겹치는 것은 피하기 어렵다.",
+  "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "The boys <u>is not</u> at school.\n(그 소년들은 학교에 있지 않다.)",
+  "c": [
+   "are not",
+   "am not",
+   "isn't",
+   "am",
+   "are"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "7-31",
+  "variant": 2,
+  "ref_format": "우리말 뜻이 주어진 문장의 빈칸에 알맞은 be동사 부정형 고르기(낱말 보기)",
+  "new_format": "우리말 문장을 영어로 바르게 옮긴 것 고르기(아주 짧은 문장 보기)",
+  "design": "같은 규칙을 영작 형식으로 바꾸어, 우리말 부정문을 바르게 옮긴 문장 하나를 고르게 했다. 다섯 보기가 모두 같은 문장의 다른 형태라 판단할 곳은 be동사 부정형 한 군데뿐이고, 읽을 양은 16낱말로 원문항의 1.5배 안(원문항 +5낱말), 어휘(busy)는 쉽다. 오답은 주어 We에 맞지 않는 isn't·am not, be동사를 빠뜨린 not, not이 빠진 긍정문 are busy로, 원문항의 오답 구성(주어 불일치·긍정형)과 같다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "우리는 바쁘지 않다.",
+  "c": [
+   "We isn't busy.",
+   "We am not busy.",
+   "We aren't busy.",
+   "We not busy.",
+   "We are busy."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "7-31",
+  "variant": 3,
+  "ref_format": "우리말 뜻이 주어진 문장의 빈칸에 알맞은 be동사 부정형 고르기(낱말 보기)",
+  "new_format": "짧은 대화의 대답 빈칸에 알맞은 be동사 부정형 고르기(낱말 보기)",
+  "design": "같은 규칙을 짧은 대화 형식으로 바꾸어, 우리말 대신 대답의 No로 부정의 뜻을 주고 주어 I에 맞는 be동사 부정형을 고르게 했다. 빈칸 하나·낱말 보기 다섯이라는 판단 구조는 원문항과 같고, 읽을 양은 15낱말로 원문항(11낱말)의 1.4배(상한 +8낱말 안), 어휘(hungry)는 쉽다. 오답은 주어에 맞지 않는 is not·aren't(질문의 Are를 그대로 옮긴 실수), be동사를 빠뜨린 not, not이 빠진 am이다. be동사 형태의 가짓수가 아홉뿐이라 D유형과 보기 3개가 겹치는 것은 피하기 어렵다.",
+  "stem": "다음 대화의 빈칸에 알맞은 것을 고르시오.",
+  "passage": "A: Are you hungry?\nB: No. I _______ hungry.",
+  "c": [
+   "is not",
+   "aren't",
+   "not",
+   "am not",
+   "am"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "7-32",
+  "variant": 1,
+  "ref_format": "be동사 문장 다섯 개 중 밑줄 친 be동사가 틀린 것 고르기",
+  "new_format": "be동사 부정문 다섯 개 중 밑줄 친 be동사가 바르게 쓰인 것 고르기",
+  "design": "핵심 규칙(부정문에서도 be동사는 주어에 맞춘다)을 그대로 확인하되, 방향을 뒤집어 밑줄 친 be동사가 바른 문장 하나를 고르게 했다. 문장 다섯 개의 주어와 밑줄 친 be동사만 맞춰 보는 판단 다섯 개는 원문항과 같고, 읽을 양은 30낱말로 원문항(24낱말)의 1.25배, 어휘(girls, room, student, uncle, doctor, teacher, home)는 초등 3~4학년 수준이다. 오답 네 문장은 각각 be동사 한 군데만 틀렸다(The girls is, I is, My uncle are, You is).",
+  "stem": "다음 밑줄 친 부분이 바르게 쓰인 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "The girls <u>is</u> not in the room.",
+   "I <u>is</u> not a student.",
+   "My uncle <u>are</u> not a doctor.",
+   "You <u>is</u> not my teacher.",
+   "Ben and Amy <u>are</u> not at home."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "7-32",
+  "variant": 2,
+  "ref_format": "be동사 문장 다섯 개 중 밑줄 친 be동사가 틀린 것 고르기",
+  "new_format": "not이 든 문장 다섯 개 중 빈칸에 들어갈 be동사가 나머지 넷과 다른 것 고르기",
+  "design": "같은 규칙을 빈칸 형식으로 바꾸어, not이 든 문장 다섯 개의 빈칸에 들어갈 be동사(is/are)를 주어에 맞게 가르고 하나만 다른 것을 찾게 했다. 문장마다 주어 한 군데만 판단하므로 판단 개수(다섯)는 원문항과 같고, 읽을 양은 26낱말로 원문항의 1.1배, 어휘(cats, garden, teacher, bag, table, notebook, brother, car)는 쉽다. 네 문장은 한 사람·한 개 주어라 is not이 들어가고, 정답 The cats만 여럿이라 are not이 들어간다.",
+  "stem": "다음 중 빈칸에 들어갈 be동사가 나머지 넷과 다른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "The cats _______ not in the garden.",
+   "Jisu _______ not a teacher.",
+   "My bag _______ not on the table.",
+   "It _______ not my notebook.",
+   "His brother _______ not in the car."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "7-32",
+  "variant": 3,
+  "ref_format": "be동사 문장 다섯 개 중 밑줄 친 be동사가 틀린 것 고르기",
+  "new_format": "부정문의 주어를 They로 바꿔 쓴 문장으로 알맞은 것 고르기(짧은 문장 보기)",
+  "design": "같은 규칙을 문장 전환 형식으로 바꾸어, He is not 문장의 주어를 They로 바꿀 때 be동사를 are로 맞추고 not을 그대로 두는지 확인한다. 보기 다섯 개가 모두 같은 문장의 다른 형태라 보기마다 be동사 부정형 한 군데만 보면 되고, 읽을 양은 28낱말로 원문항의 1.2배, 어휘(school)는 쉽다. 오답은 주어를 바꾸고도 be동사를 맞추지 않은 is not·am not, be동사를 빠뜨린 not, not을 빠뜨린 are이다.",
+  "stem": "다음 문장의 주어를 They로 바꿔 쓸 때 알맞은 것을 고르시오.",
+  "passage": "He is not at school.",
+  "c": [
+   "They is not at school.",
+   "They are not at school.",
+   "They am not at school.",
+   "They not at school.",
+   "They are at school."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "7-41",
+  "variant": 1,
+  "ref_format": "우리말 뜻이 주어진 are 문장의 빈칸에 알맞은 지시대명사 고르기(낱말 보기)",
+  "new_format": "우리말 뜻이 주어진 문장에서 밑줄 친 '지시대명사+be동사'를 바르게 고친 것 고르기",
+  "design": "핵심 규칙(this/that은 한 개로 is와, these/those는 여러 개로 are와 쓰며 '저것들'은 those)을 그대로 확인하되, 빈칸 대신 잘못 쓴 That is에 밑줄을 긋고 바르게 고친 것을 고르게 했다. 여러 개(cups)와 우리말 '저것들'을 보고 짝 하나를 고르는 판단은 원문항과 같고, 어휘(cups)는 쉬우며 읽을 양은 13낱말이다(원문항이 7낱말로 아주 짧아 보기에 be동사가 더해졌지만 원문항 +8낱말 허용 범위 안). 오답은 한 개를 가리키는 This is·It is, 가까운 여러 개인 These are, be동사가 맞지 않는 Those is이다.",
+  "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "<u>That is</u> cups.\n(저것들은 컵들이다.)",
+  "c": [
+   "This is",
+   "It is",
+   "These are",
+   "Those are",
+   "Those is"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "7-41",
+  "variant": 2,
+  "ref_format": "우리말 뜻이 주어진 are 문장의 빈칸에 알맞은 지시대명사 고르기(낱말 보기)",
+  "new_format": "우리말을 영어로 옮길 때 빈칸에 알맞은 '지시대명사+be동사' 짝 고르기(영작 빈칸)",
+  "design": "같은 규칙을 영작 빈칸 형식으로 바꾸어, 우리말 '이것은'과 단수 명사(my pencil)를 보고 지시대명사와 be동사의 짝 하나를 고르게 했다(원문항이 여러 개 쪽을 묻는 것을 한 개 쪽에서 확인). 빈칸 하나·보기 다섯의 판단 구조는 원문항과 같고, 읽을 양은 12낱말로 원문항 +5낱말 안이며 어휘(pencil)는 쉽다. 오답은 여러 개를 가리키는 These are, 먼 것을 가리키는 That is, be동사가 맞지 않는 This are, 지시대명사의 수가 어긋난 These is이다.",
+  "stem": "다음 우리말을 영어로 옮길 때 빈칸에 알맞은 것을 고르시오.",
+  "passage": "이것은 내 연필이다.\n→ _______ my pencil.",
+  "c": [
+   "These are",
+   "That is",
+   "This are",
+   "These is",
+   "This is"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "7-41",
+  "variant": 3,
+  "ref_format": "우리말 뜻이 주어진 are 문장의 빈칸에 알맞은 지시대명사 고르기(낱말 보기)",
+  "new_format": "우리말 문장을 영어로 바르게 옮긴 것 고르기(아주 짧은 문장 보기)",
+  "design": "같은 규칙을 영작 형식으로 바꾸어, 우리말 '저것들은 오리들이다'를 바르게 옮긴 문장 하나를 고르게 했다. 다섯 보기가 모두 같은 문장의 다른 형태라 판단할 곳은 지시대명사와 be동사의 짝 한 군데뿐이고, 어휘(ducks)는 쉬우며 읽을 양은 15낱말이다(원문항이 7낱말로 아주 짧아 문장 보기로 바꾸면서 늘었지만 +8낱말 허용 범위 안). 오답은 한 개를 가리키는 That is·It is, be동사가 맞지 않는 Those is, 가까운 여러 개를 가리키는 These are이다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "저것들은 오리들이다.",
+  "c": [
+   "Those are ducks.",
+   "That is ducks.",
+   "Those is ducks.",
+   "These are ducks.",
+   "It is ducks."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "7-42",
+  "variant": 1,
+  "ref_format": "빈칸 문장 다섯 개 중 This 또는 That이 들어갈 수 없는 것 고르기",
+  "new_format": "빈칸 문장 다섯 개 중 These 또는 Those가 들어갈 수 있는 것 고르기",
+  "design": "핵심 규칙(This/That은 한 개를 가리켜 is와 쓰고, are와 복수 명사 앞에는 These/Those를 쓴다)을 그대로 확인하되, 방향을 뒤집어 These/Those가 들어갈 수 있는 문장 하나를 고르게 했다. 문장마다 빈칸 뒤의 be동사와 명사가 한 개인지 여럿인지 한 군데만 보는 판단 다섯 개는 원문항과 같고, 읽을 양은 16낱말로 원문항(15낱말)과 거의 같으며 어휘(bird, chairs, teacher, clock, kitchen)는 쉽다. 오답 네 문장은 is와 단수 명사가 와서 This/That만 들어가고, 정답은 are와 복수 명사(our chairs)가 온 문장이다.",
+  "stem": "다음 빈칸에 These 또는 Those가 들어갈 수 있는 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "_______ is a bird.",
+   "_______ are our chairs.",
+   "_______ is my teacher.",
+   "_______ is an old clock.",
+   "_______ is the kitchen."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "7-42",
+  "variant": 2,
+  "ref_format": "빈칸 문장 다섯 개 중 This 또는 That이 들어갈 수 없는 것 고르기",
+  "new_format": "지시대명사가 든 아주 짧은 문장 다섯 개 중 틀린 문장 고르기",
+  "design": "같은 규칙을 빈칸 대신 완성된 짧은 문장 보기로 바꾸어, 지시대명사의 수와 뒤의 be동사·명사의 수가 맞지 않는 문장 하나를 찾게 했다. 문장마다 판단할 곳은 지시대명사와 be동사·명사의 수 일치 한 군데뿐이라 판단 개수(다섯)는 원문항과 같고, 읽을 양은 19낱말로 원문항의 1.3배 안팎, 어휘(cup, pens, books, brothers, desk)는 쉽다. 오답 네 문장은 수가 맞는 옳은 문장이고, 정답 That are my brothers는 한 개를 가리키는 That에 are와 복수 명사를 쓴 문장이다.",
+  "stem": "다음 중 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "This is a cup.",
+   "Those are my pens.",
+   "These are books.",
+   "That are my brothers.",
+   "That is a desk."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "7-42",
+  "variant": 3,
+  "ref_format": "빈칸 문장 다섯 개 중 This 또는 That이 들어갈 수 없는 것 고르기",
+  "new_format": "짧은 대화의 빈칸에 알맞은 '지시대명사+be동사' 짝 고르기",
+  "design": "같은 규칙을 짧은 대화 형식으로 바꾸어, 여럿(ducks)을 가리키는 대답의 빈칸에 알맞은 지시대명사와 be동사의 짝을 고르게 했다. 빈칸 하나에 보기 다섯을 판단하는 구조이며 보기마다 수 일치 한 군데만 보면 되므로 원문항의 판단 다섯 개와 무게가 같고, 읽을 양은 19낱말로 원문항(15낱말)의 1.3배 안팎, 어휘(ducks, cute)는 쉽다. 오답은 한 개를 가리키는 That is·It is, 지시대명사와 be동사의 수가 어긋난 Those is·That are이다.",
+  "stem": "다음 대화의 빈칸에 알맞은 것을 고르시오.",
+  "passage": "A: Wow! The ducks are cute.\nB: _______ my ducks.",
+  "c": [
+   "That is",
+   "Those is",
+   "That are",
+   "It is",
+   "Those are"
+  ],
+  "ans": 5
+ }
+]

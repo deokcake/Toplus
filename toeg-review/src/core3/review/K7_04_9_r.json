@@ -1,0 +1,257 @@
+[
+ {
+  "key": "7-72",
+  "variant": 1,
+  "ref_format": "우리말 → 알맞은 영어 의문문 고르기(옳은 것 하나)",
+  "new_format": "어법상 틀린 의문문 하나 고르기(짧은 What 의문문 5개)",
+  "design": "‘What + do/does + 주어 + 동사원형’에서 주어가 3인칭 단수면 does, 아니면 do를 쓰는 핵심 규칙을 그대로 확인한다. 원문항의 ‘옳은 것 고르기’를 ‘틀린 것 고르기’로 뒤집었고, 보기는 원문항과 같은 4~5낱말 의문문 5개(21낱말, 원문항 20낱말)라 읽을 양과 어휘(cook, drink, make, buy, wear)는 원문항 수준이다. 오답(옳은 문장) 4개는 you·they에 do, he·your mom에 does를 바르게 쓴 문장이고, 정답은 they에 does를 잘못 쓴 문장 하나뿐이다.",
+  "stem": "다음 중 어법상 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "What do you cook?",
+   "What does he drink?",
+   "What do they make?",
+   "What does your mom buy?",
+   "What does they wear?"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "7-72",
+  "variant": 2,
+  "ref_format": "우리말 → 알맞은 영어 의문문 고르기(옳은 것 하나)",
+  "new_format": "짧은 대화: 대답을 보고 빈칸에 들어갈 질문 고르기",
+  "design": "대답 ‘Mina draws cats.’에서 주어(Mina → does)와 동작(draw)을 읽어 ‘What + does + Mina + 동사원형’을 고르게 하여 원문항과 같은 판단(주어 → do/does → 동사원형)을 확인한다. 우리말 대신 3낱말 영어 대답을 단서로 바꾼 대화 형식이며, 보기는 4낱말 의문문 5개로 읽을 양 25낱말(원문항 20낱말), 어휘는 draw·cat·eat 수준이고 주어를 새 인물 Mina로 바꿔 D유형(he)과 겹치지 않게 했다. 오답은 do/does 혼동(do Mina)과 does 뒤 -s(draws)에, 원문항 ④⑤처럼 주어가 다른 질문(do you draw)과 동작이 다른 질문(does Mina eat)을 더해 Who·Where를 쓰는 변형 3과 오답 구성을 달리했다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: _______\nB: Mina draws cats.",
+  "c": [
+   "What do Mina draw?",
+   "What does Mina draw?",
+   "What does Mina draws?",
+   "What do you draw?",
+   "What does Mina eat?"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "7-72",
+  "variant": 3,
+  "ref_format": "우리말 → 알맞은 영어 의문문 고르기(옳은 것 하나)",
+  "new_format": "평서문의 밑줄 친 부분을 묻는 의문문 고르기(문장 전환)",
+  "design": "‘Jenny teaches English.’의 밑줄 친 목적어를 묻는 의문문을 고르게 하여 What + does(3인칭 단수) + 주어 + 동사원형의 순서를 그대로 확인한다. 우리말 대신 3낱말 영어 평서문을 출발점으로 삼은 전환 형식이고, 보기는 4낱말 의문문 5개로 읽을 양 23낱말(원문항 20낱말), 어휘는 teach·English 수준이다. 오답은 do/does 혼동(do Jenny), does 뒤 -es(teaches), 밑줄 친 사물이 아닌 사람·장소를 묻는 Who·Where로 구성했으며, 주어·동작이 다른 질문을 오답으로 쓴 변형 2와는 오답 구성이 다르다.",
+  "stem": "다음 밑줄 친 부분을 묻는 의문문으로 알맞은 것을 고르시오.",
+  "passage": "Jenny teaches <u>English</u>.",
+  "c": [
+   "What do Jenny teach?",
+   "What does Jenny teaches?",
+   "What does Jenny teach?",
+   "Who does Jenny teach?",
+   "Where does Jenny teach?"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "7-81",
+  "variant": 1,
+  "ref_format": "문장 속 ①~⑤ 중 can이 들어갈 위치 고르기",
+  "new_format": "우리말에 맞게 낱말 배열 시 can이 몇 번째에 오는지 고르기",
+  "design": "can은 주어(The small bird) 바로 뒤, 동사원형(fly) 바로 앞에 온다는 핵심 규칙을 그대로 확인한다. 위치 번호 대신 섞인 5낱말을 배열해 can의 순서를 고르게 했으며, 판단할 곳은 원문항처럼 한 군데(주어가 어디서 끝나는가)이고 영어는 5낱말(원문항 4낱말), 어휘는 small·bird·fly 수준이다. 오답은 주어 앞(첫 번째), 주어 사이(두·세 번째), 동사 뒤(다섯 번째)에 해당하는 순서로 원문항 ①②④⑤와 같은 위치 오류다.",
+  "stem": "다음 우리말에 맞게 낱말을 바르게 배열할 때, ‘can’은 몇 번째에 오는지 고르시오.",
+  "passage": "그 작은 새는 날 수 있다.\n(fly / bird / can / the / small)",
+  "c": [
+   "첫 번째",
+   "두 번째",
+   "세 번째",
+   "네 번째",
+   "다섯 번째"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "7-81",
+  "variant": 2,
+  "ref_format": "문장 속 ①~⑤ 중 can이 들어갈 위치 고르기",
+  "new_format": "우리말을 영어로 옮길 때 can 바로 뒤에 오는 낱말 고르기(낱말 보기)",
+  "design": "can 뒤에는 동사원형이 바로 온다는 위치 규칙을 ‘can 바로 뒤 낱말’을 고르는 낱말 보기 형식으로 확인한다. 문장은 ‘My aunt can make a cake.’ 한 문장이라 판단은 한 군데이고 영어는 제시 낱말 5개(원문항 4낱말), 어휘는 aunt·make·cake 수준이다. 오답은 주어 낱말(My, aunt)과 동사 뒤 낱말(a, cake)로, can을 주어 앞·주어 안이나 동사 뒤에 두는 위치 오류에 해당한다.",
+  "stem": "다음 우리말을 영어로 옮길 때, ‘can’ 바로 뒤에 오는 낱말을 고르시오.",
+  "passage": "우리 이모는 케이크를 만들 수 있다.",
+  "c": [
+   "aunt",
+   "cake",
+   "My",
+   "a",
+   "make"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "7-81",
+  "variant": 3,
+  "ref_format": "문장 속 ①~⑤ 중 can이 들어갈 위치 고르기",
+  "new_format": "영어 문장에 can을 넣을 때 can 바로 앞에 오는 낱말 고르기(낱말 보기)",
+  "design": "can은 주어 바로 뒤, 동사원형 바로 앞에 온다는 규칙을 ‘can 바로 앞 낱말’을 고르는 형식으로 확인한다. 원문항(My mom)처럼 주어를 두 낱말(Her brother)로 하여 주어가 어디서 끝나는지 판단하게 했고 판단할 곳은 한 군데이며, 영어는 문장 5낱말에 보기 5낱말(같은 낱말을 되풀이 읽음, 원문항 +8낱말 이내), 어휘는 climb·tall·tree 수준이다. 오답은 주어 안 자리(Her), 동사 뒤 자리(climb), 목적어 쪽 자리(tall, trees)로 원문항 ②④⑤와 같은 위치 오류다.",
+  "stem": "다음 문장에 ‘can’을 넣을 때, ‘can’ 바로 앞에 오는 낱말을 고르시오.",
+  "passage": "Her brother climb tall trees.",
+  "c": [
+   "brother",
+   "trees",
+   "Her",
+   "climb",
+   "tall"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "7-82",
+  "variant": 1,
+  "ref_format": "Can + 주어 + 빈칸에 들어갈 수 없는 동사구 고르기(틀린 것 하나)",
+  "new_format": "Can + 주어 + 빈칸에 들어갈 수 있는 동사구 고르기(옳은 것 하나)",
+  "design": "can 뒤에는 주어가 3인칭 단수여도 동사원형을 쓴다는 핵심 규칙을 그대로 확인하되, ‘알맞지 않은 것’을 ‘알맞은 것’으로 뒤집었다. 지문과 보기 구조(Can your ___ + 2~3낱말 동사구 5개)가 원문항과 같고 16낱말(원문항 15낱말), 어휘는 piano·Korean·dog·ball 수준이다. 오답 4개는 주어 your friend에 이끌려 -s를 붙인 꼴(plays, reads, kicks, runs)로 학생이 실제로 하는 실수이며, 동사원형으로 시작하는 보기는 draw a dog 하나뿐이다.",
+  "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "Can your friend _______?",
+  "c": [
+   "plays the piano",
+   "reads Korean",
+   "draw a dog",
+   "kicks a ball",
+   "runs fast"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "7-82",
+  "variant": 2,
+  "ref_format": "Can + 주어 + 빈칸에 들어갈 수 없는 동사구 고르기(틀린 것 하나)",
+  "new_format": "밑줄 친 동사가 어법상 틀린 문장 고르기(아주 짧은 Can 의문문 5개)",
+  "design": "can 뒤 동사원형 규칙을 동사구 보기 대신 동사에 밑줄 친 4낱말 Can 의문문 5개로 확인한다. 보기마다 판단할 곳은 밑줄 하나뿐이라 판단 개수는 원문항(보기 5개의 첫 낱말)과 같고, 읽을 양 20낱말(원문항 15낱말), 어휘는 carry·soup·dish·skate 수준이다. 오답 4개는 can 뒤에 동사원형을 바르게 쓴 문장이고 정답은 he에 이끌려 -es를 붙인 washes 하나다.",
+  "stem": "다음 밑줄 친 부분이 어법상 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Can Tom <u>carry</u> boxes?",
+   "Can she <u>make</u> soup?",
+   "Can your dog <u>jump</u>?",
+   "Can he <u>washes</u> dishes?",
+   "Can Amy <u>skate</u> well?"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "7-82",
+  "variant": 3,
+  "ref_format": "Can + 주어 + 빈칸에 들어갈 수 없는 동사구 고르기(틀린 것 하나)",
+  "new_format": "어법상 옳은 문장 하나 고르기(아주 짧은 Can 의문문 5개)",
+  "design": "can 뒤에는 3인칭 단수 주어라도 동사원형이 온다는 규칙을, 밑줄 없이 4낱말 Can 의문문 5개 중 옳은 문장 하나를 고르는 형식으로 확인한다. 보기마다 can 뒤 동사 한 곳만 보면 되어 판단 개수는 원문항과 같고, 읽을 양 20낱말(원문항 15낱말), 어휘는 map·soccer·rice·bird·ski 수준이다. 오답 4개는 모두 주어(he, Jin, she, your bird)에 맞춰 동사에 -s를 붙인 실제 오류로, 고치면 Can he read maps?처럼 자연스러운 문장이 되며, 동사원형을 쓴 문장은 Can your mom ski? 하나뿐이다.",
+  "stem": "다음 중 어법상 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Can he reads maps?",
+   "Can Jin plays soccer?",
+   "Can she cooks rice?",
+   "Can your bird talks?",
+   "Can your mom ski?"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "7-91",
+  "variant": 1,
+  "ref_format": "우리말 달 → 영어 달 이름 고르기",
+  "new_format": "문장 속 밑줄 친 영어 달 이름 → 우리말 뜻 고르기(반대 방향)",
+  "design": "달 이름(April = 4월)을 아는지 원문항과 반대 방향(영어 → 우리말)으로 확인한다. 판단은 밑줄 친 낱말 하나의 뜻이고, 문장은 6낱말(원문항 5낱말)의 쉬운 영어(sister, birthday)라 읽을 양과 어휘는 원문항 수준이며 문장 내용은 달을 짐작하게 하는 단서를 주지 않는다. 오답은 철자가 A로 시작해 헷갈리는 August(8월)와 봄철 이웃 달인 3월·5월·6월로 구성했다.",
+  "stem": "다음 밑줄 친 단어의 뜻으로 알맞은 것을 고르시오.",
+  "passage": "My sister's birthday is in <u>April</u>.",
+  "c": [
+   "4월",
+   "8월",
+   "5월",
+   "3월",
+   "6월"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "7-91",
+  "variant": 2,
+  "ref_format": "우리말 달 → 영어 달 이름 고르기",
+  "new_format": "달 이름 차례 나열의 끝 빈칸에 들어갈 달 고르기",
+  "design": "달 이름을 차례대로 아는지를, March - April - May - ___ 끝의 빈칸에 들어갈 June을 고르는 형식으로 확인한다. 판단은 빈칸 하나이고 영어는 달 이름 8개(원문항 5개)뿐이라 읽을 양과 어휘는 원문항 수준이며 다른 지식은 필요 없다. 빈칸을 끝에 두어 July가 지문에 나오지 않게 하고, 오답은 June과 가장 많이 헷갈리는 July, 같은 J로 시작하는 January, 차례상 가까운 August, January와 함께 해 첫머리 달로 섞어 외우기 쉬운 February로 구성했다.",
+  "stem": "다음 빈칸에 들어갈 달의 이름으로 알맞은 것을 고르시오.",
+  "passage": "March - April - May - _______",
+  "c": [
+   "July",
+   "January",
+   "June",
+   "August",
+   "February"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "7-91",
+  "variant": 3,
+  "ref_format": "우리말 달 → 영어 달 이름 고르기",
+  "new_format": "달 이름과 우리말 뜻의 짝 5개 중 틀린 짝 하나 고르기",
+  "design": "달 이름과 그 뜻(몇 월)을 아는지를, 영어 달 이름과 우리말 뜻의 짝 5개 중 바르지 않은 짝 하나를 고르는 형식으로 확인한다. 보기마다 달 이름 하나의 뜻만 떠올리면 되어 원문항처럼 낱말 하나씩의 판단이고, 영어는 달 이름 5개(원문항 5개)뿐이라 읽을 양과 어휘가 원문항과 같다. 정답 March - 5월은 Ma로 시작하는 March·May 혼동을 겨냥했고, 나머지 짝은 철자가 어려운 February와 서로 헷갈리기 쉬운 June·October·November를 바르게 짝지었다.",
+  "stem": "다음 중 달 이름과 우리말 뜻이 바르게 짝지어지지 않은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "February - 2월",
+   "June - 6월",
+   "October - 10월",
+   "March - 5월",
+   "November - 11월"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "7-92",
+  "variant": 1,
+  "ref_format": "대화: 대답(It was Saturday.)에 맞는 질문 고르기",
+  "new_format": "대화: 질문(What month was ~?)에 맞는 대답 고르기(반대 방향)",
+  "design": "질문이 묻는 정보(What month → 달)와 시제(was)를 보고 대답을 고르게 하여 원문항의 핵심 규칙을 반대 방향으로 확인한다. 판단은 원문항과 같은 두 가지(정보 종류 + 시제)이고, 보기는 3낱말 대답 5개로 읽을 양 27낱말(원문항 24낱말), 어휘는 trip·picture·October 수준이며, 맥락 문장은 B의 여행 사진을 보고 A가 묻는 현재형 문장으로 바꿨다. 오답은 시제만 틀린 It is October.와 달 정보가 전혀 없는 요일(Tuesday)·시각(10 o'clock)·날씨(sunny) 대답으로, 정답 말고는 질문에 맞는 대답이 없게 했다.",
+  "stem": "다음 대화의 빈칸에 들어갈 B의 대답으로 알맞은 것을 고르시오.",
+  "passage": "A: I like your trip pictures. What month was the trip?\nB: _______",
+  "c": [
+   "It is October.",
+   "It was Tuesday.",
+   "It was 10 o'clock.",
+   "It was sunny.",
+   "It was October."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "7-92",
+  "variant": 2,
+  "ref_format": "대화: 대답(It was Saturday.)에 맞는 질문 고르기",
+  "new_format": "대화: 대답에 맞지 않는 질문의 밑줄 친 부분(의문사 뒤 낱말 + be동사)을 바르게 고친 것 고르기",
+  "design": "대답 ‘It was at 2 o'clock.’의 정보(시각 → time)와 시제(was)를 보고 질문의 밑줄 친 ‘day is’를 고치게 하여 원문항과 같은 두 가지 판단을 확인한다. 맥락 문장은 범위 안의 현재형(This soccer video is great.)으로 바꿔 무엇의 시각(the game)인지 분명히 했고, 보기는 2낱말 짝이라 읽을 양 26낱말(원문항 24낱말), 어휘는 soccer·video·o'clock 수준이다. 오답은 시제만 고친 day was, 정보만 고친 time is, 정보 종류가 다른 date was·month was로 각각 한 군데씩만 어긋난다.",
+  "stem": "다음 대화에서 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "A: This soccer video is great. What <u>day is</u> the game?\nB: It was at 2 o'clock.",
+  "c": [
+   "time was",
+   "day was",
+   "time is",
+   "date was",
+   "month was"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "7-92",
+  "variant": 3,
+  "ref_format": "대화: 대답(It was Saturday.)에 맞는 질문 고르기",
+  "new_format": "우리말 질문을 바르게 옮긴 영어 의문문 고르기(영작)",
+  "design": "우리말 ‘며칠이었니’에서 정보 종류(날짜 → date)와 시제(였니 → was)를 읽어 What date was ~?를 고르게 하여 원문항과 같은 두 가지 판단을 영작 형식으로 확인한다. 보기는 5낱말 의문문 5개로 읽을 양 25낱말(원문항 24낱말), 어휘는 picnic 하나가 더해졌을 뿐 원문항 수준이다. 오답은 요일(day)·시각(time)·달(month)을 묻는 질문과 시제만 틀린 What date is ~?로 각각 한 군데씩만 어긋난다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "그 소풍은 며칠이었니?",
+  "c": [
+   "What day was the picnic?",
+   "What date was the picnic?",
+   "What date is the picnic?",
+   "What time was the picnic?",
+   "What month was the picnic?"
+  ],
+  "ans": 2
+ }
+]

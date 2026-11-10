@@ -1,0 +1,442 @@
+[
+ {
+  "key": "7-51",
+  "grade": 7,
+  "no": 51,
+  "chapter": "CH 6",
+  "chapter_name": "일반동사",
+  "ref": {
+   "stem": "다음 우리말에 해당하는 문장을 고르시오.",
+   "passage": "나는 음악을 좋아한다.",
+   "c": [
+    "I play piano.",
+    "I watch TV.",
+    "I like music.",
+    "I teach math.",
+    "I love dancing."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 우리말의 주어, 동작(동사), 대상(목적어)을 하나씩 영어와 맞춰 본다.\n풀이 순서: ① 우리말의 동작을 영어 동사로 바꾼다: ‘좋아한다’ → like. → ② 대상을 찾는다: ‘음악’ → music. → ③ 둘이 다 들어 있는 문장은 ③.\n문장별 판정:\n정답 판단: ‘나는 음악을 좋아한다’는 뜻이므로 정답은 ③이다.\n선택지 분석:\n① [오답] ‘나는 피아노를 친다’는 뜻이므로 오답이다.\n② [오답] ‘나는 TV를 본다’는 뜻이므로 오답이다.\n③ [정답] ‘나는 음악을 좋아한다’는 뜻이므로 정답이다.\n④ [오답] ‘나는 수학을 가르친다’는 뜻이므로 오답이다.\n⑤ [오답] ‘나는 춤추는 것을 아주 좋아한다’는 뜻이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 우리말에 해당하는 문장을 고르시오.",
+    "passage": "그들은 축구를 한다.",
+    "c": [
+     "They watch soccer.",
+     "They play baseball.",
+     "They love dancing.",
+     "They study math.",
+     "They play soccer."
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "다음 우리말에 해당하는 문장을 고르시오.",
+    "passage": "그녀는 영어를 공부한다.",
+    "c": [
+     "She teaches English.",
+     "She studies English.",
+     "She studies math.",
+     "She speaks English.",
+     "She likes English."
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 우리말에 해당하는 문장을 고르시오.",
+    "passage": "Tom은 책을 읽는다.",
+    "c": [
+     "Tom reads a book.",
+     "Tom buys a book.",
+     "Tom writes a book.",
+     "Tom reads a letter.",
+     "Tom sells a book."
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 우리말에 해당하는 문장을 고르시오.",
+    "passage": "우리는 TV를 본다.",
+    "c": [
+     "We watch a movie.",
+     "We fix the TV.",
+     "We buy a TV.",
+     "We watch TV.",
+     "We turn off the TV."
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 우리말에 해당하는 문장을 고르시오.",
+    "passage": "우리는 방과 후에 체스를 둔다.",
+    "c": [
+     "We play soccer after school.",
+     "We watch TV after school.",
+     "We play chess after school.",
+     "We read books after school.",
+     "We play the piano after school."
+    ],
+    "ans": 3
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   1,
+   2,
+   4
+  ]
+ },
+ {
+  "key": "7-52",
+  "grade": 7,
+  "no": 52,
+  "chapter": "CH 6",
+  "chapter_name": "일반동사",
+  "ref": {
+   "stem": "다음 중 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "speak - speaks",
+    "go - goes",
+    "like - likes",
+    "catch - catchs",
+    "wash - washes"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 3인칭 단수형은 대부분 동사원형에 -s를 붙인다. -s, -sh, -ch, -x, -o로 끝나면 -es를 붙이고, 자음 + y로 끝나면 y를 i로 바꾸고 -es를 붙인다. have는 has가 된다.\n풀이 순서: ① 동사의 끝 글자를 본다. -s, -sh, -ch, -x, -o로 끝나면 -es, 자음 + y로 끝나면 -ies를 붙인다. → ② 이 규칙에 어긋난 짝을 찾는다: catch는 -ch로 끝나므로 catches가 맞다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: -ch로 끝나는 catch에는 -es를 붙여 catches로 써야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] speak에 -s를 바르게 붙였으므로 오답이다.\n② [오답] -o로 끝나는 go에 -es를 붙였으므로 오답이다.\n③ [오답] like에 -s를 바르게 붙였으므로 오답이다.\n④ [정답] -ch로 끝나는 catch에는 -es를 붙여 catches로 써야 하므로 정답이다.\n⑤ [오답] -sh로 끝나는 wash에 -es를 붙였으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "teach - teaches",
+     "sing - sings",
+     "mix - mixs",
+     "cry - cries",
+     "buy - buys"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 중 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "have - haves",
+     "run - runs",
+     "pass - passes",
+     "stay - stays",
+     "fly - flies"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 중 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "watch - watches",
+     "enjoy - enjoys",
+     "come - comes",
+     "make - makes",
+     "study - studys"
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "다음 중 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "read - reads",
+     "do - does",
+     "fix - fixes",
+     "carry - carrys",
+     "try - tries"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 중 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "pay - pays",
+     "push - pushs",
+     "open - opens",
+     "dance - dances",
+     "guess - guesses"
+    ],
+    "ans": 2
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   5,
+   1,
+   2
+  ]
+ },
+ {
+  "key": "7-61",
+  "grade": 7,
+  "no": 61,
+  "chapter": "CH 7",
+  "chapter_name": "일반동사 부정문과 의문문",
+  "ref": {
+   "stem": "빈칸에 들어갈 말로 알맞지 않은 것을 고르시오.",
+   "passage": "_______ doesn't teach English.",
+   "c": [
+    "I",
+    "Jane",
+    "My father",
+    "The woman",
+    "Your sister"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: doesn't는 3인칭 단수 주어(he, she, it, 한 사람·한 개)와 쓴다. I, you, we, they와 복수 주어에는 don't를 쓴다.\n풀이 순서: ① 빈칸 뒤가 doesn't이므로 빈칸에는 한 사람·한 개인 주어(3인칭 단수)만 올 수 있다. → ② 보기에서 I, you, we, they나 여럿인 주어를 찾는다: I. → ③ 들어갈 수 없는 것은 ①.\n문장별 판정:\n정답 판단: I에는 doesn't가 아니라 don't를 쓰므로 정답은 ①이다.\n선택지 분석:\n① [정답] I에는 doesn't가 아니라 don't를 쓰므로 정답이다.\n② [오답] Jane은 한 사람이라 doesn't와 어울리므로 오답이다.\n③ [오답] My father는 한 사람이라 doesn't와 어울리므로 오답이다.\n④ [오답] The woman은 한 사람이라 doesn't와 어울리므로 오답이다.\n⑤ [오답] Your sister는 한 사람이라 doesn't와 어울리므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "빈칸에 들어갈 말로 알맞지 않은 것을 고르시오.",
+    "passage": "_______ doesn't watch TV.",
+    "c": [
+     "My grandma",
+     "The baby",
+     "Tom and Ben",
+     "Our teacher",
+     "He"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "빈칸에 들어갈 말로 알맞지 않은 것을 고르시오.",
+    "passage": "_______ doesn't read books.",
+    "c": [
+     "Mina",
+     "You",
+     "His brother",
+     "The girl",
+     "She"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "빈칸에 들어갈 말로 알맞지 않은 것을 고르시오.",
+    "passage": "_______ doesn't play soccer.",
+    "c": [
+     "My cousin",
+     "The new boy",
+     "Mr. Kim",
+     "We",
+     "Her son"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "빈칸에 들어갈 말로 알맞지 않은 것을 고르시오.",
+    "passage": "_______ doesn't like pizza.",
+    "c": [
+     "They",
+     "Minho",
+     "My aunt",
+     "The child",
+     "Your friend"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "빈칸에 들어갈 말로 알맞지 않은 것을 고르시오.",
+    "passage": "_______ doesn't live here.",
+    "c": [
+     "The new student",
+     "That woman",
+     "Jane",
+     "My uncle",
+     "My neighbors"
+    ],
+    "ans": 5
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   4,
+   5,
+   2
+  ]
+ },
+ {
+  "key": "7-62",
+  "grade": 7,
+  "no": 62,
+  "chapter": "CH 7",
+  "chapter_name": "일반동사 부정문과 의문문",
+  "ref": {
+   "stem": "빈칸에 'do not' 또는 'does not'이 들어갈 때, 나머지와 다른 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "He _______ wash his hands.",
+    "She _______ work on Sundays.",
+    "Bill _______ have an umbrella.",
+    "I _______ miss him.",
+    "The student _______ study hard."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 일반동사의 부정은 주어가 3인칭 단수면 does not, I·you·we·they나 복수면 do not을 쓴다.\n풀이 순서: ① 문장마다 주어가 3인칭 단수(한 사람·한 개)인지 본다. 그렇다면 does not, 아니면 do not이다. → ② 선택지 ④의 I만 do not이고 나머지는 모두 does not이다. → ③ 정답은 ④.\n문장별 판정:\n정답 판단: I에는 do not이 들어가 나머지와 다르므로 정답은 ④이다.\n선택지 분석:\n① [오답] He는 3인칭 단수라 does not이 들어가므로 오답이다.\n② [오답] She는 3인칭 단수라 does not이 들어가므로 오답이다.\n③ [오답] Bill은 한 사람이라 does not이 들어가므로 오답이다.\n④ [정답] I에는 do not이 들어가 나머지와 다르므로 정답이다.\n⑤ [오답] The student는 한 사람이라 does not이 들어가므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "빈칸에 'do not' 또는 'does not'이 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "He _______ need a map.",
+     "The driver _______ know the way.",
+     "My friends _______ have a map.",
+     "Jane _______ walk to school.",
+     "My brother _______ drive a car."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "빈칸에 'do not' 또는 'does not'이 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "She _______ watch TV.",
+     "We _______ study English.",
+     "The cat _______ sleep here.",
+     "He _______ go home.",
+     "Jane _______ like apples."
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "빈칸에 'do not' 또는 'does not'이 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Ben _______ play games.",
+     "My sister _______ sing.",
+     "Tom _______ read books.",
+     "You _______ need help.",
+     "The dog _______ eat rice."
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "빈칸에 'do not' 또는 'does not'이 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The boy _______ run fast.",
+     "Jane _______ read comics.",
+     "My dad _______ cook.",
+     "Tom _______ like milk.",
+     "They _______ play soccer."
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "빈칸에 'do not' 또는 'does not'이 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "I _______ watch TV.",
+     "He _______ study math.",
+     "The boy _______ like music.",
+     "Jane _______ wash dishes.",
+     "My mom _______ cook."
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   2,
+   3,
+   5
+  ]
+ },
+ {
+  "key": "7-71",
+  "grade": 7,
+  "no": 71,
+  "chapter": "CH 8",
+  "chapter_name": "의문사 의문문",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+   "passage": "A: _______ is she?\nB: She is my sister.",
+   "c": [
+    "When",
+    "Who",
+    "Where",
+    "Why",
+    "What"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: Who는 사람, What은 사물·일, Where는 장소, When은 때, Why는 이유, How는 상태·방법을 묻는다. 대답이 알려 주는 정보에 맞는 의문사를 고른다.\n풀이 순서: ① 대답을 먼저 읽는다: She is my sister. → ② 대답이 알려 주는 것은 그녀가 누구인지(사람). → ③ 이것을 묻는 의문사는 Who.\n문장별 판정:\n정답 판단: Who는 사람을 묻는 말이라 ‘내 여동생이야’라는 대답과 맞으므로 정답은 ②이다.\n선택지 분석:\n① [오답] When은 때를 묻는 말이라 대답과 맞지 않으므로 오답이다.\n② [정답] Who는 사람을 묻는 말이라 ‘내 여동생이야’라는 대답과 맞으므로 정답이다.\n③ [오답] Where는 장소를 묻는 말이라 대답과 맞지 않으므로 오답이다.\n④ [오답] Why는 이유를 묻는 말이라 대답과 맞지 않으므로 오답이다.\n⑤ [오답] What은 사물·일을 묻는 말이라 대답과 맞지 않으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "A: _______ are you sad?\nB: I lost my book.",
+    "c": [
+     "Who",
+     "Where",
+     "What",
+     "Why",
+     "When"
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "A: _______ are my headphones?\nB: On your desk.",
+    "c": [
+     "Why",
+     "What",
+     "When",
+     "Where",
+     "Who"
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "A: _______ is this?\nB: It is a pencil.",
+    "c": [
+     "Why",
+     "Who",
+     "When",
+     "Where",
+     "What"
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "A: _______ are you today?\nB: I'm great, thanks.",
+    "c": [
+     "When",
+     "Why",
+     "How",
+     "What",
+     "Who"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "A: _______ is your birthday?\nB: It is in May.",
+    "c": [
+     "When",
+     "Why",
+     "Who",
+     "What",
+     "Where"
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   1,
+   3,
+   4
+  ]
+ }
+]

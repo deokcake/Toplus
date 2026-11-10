@@ -1,0 +1,442 @@
+[
+ {
+  "key": "3-22",
+  "grade": 3,
+  "no": 22,
+  "chapter": "CH 3",
+  "chapter_name": "명사와 관사",
+  "ref": {
+   "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+   "passage": "",
+   "c": [
+    "information",
+    "news",
+    "furniture",
+    "car",
+    "advice"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 셀 수 있는 명사는 a/an을 붙이거나 복수형으로 쓸 수 있다. information, news, furniture, advice처럼 낱개로 나뉘지 않는 명사는 셀 수 없다.\n풀이 순서: ① 낱말마다 a/an을 붙이거나 복수형(-s)으로 쓸 수 있는지 본다. → ② information, news, furniture, advice, homework, money처럼 낱개로 나뉘지 않는 것은 셀 수 없는 명사다. → ③ 선택지 ④만 셀 수 있다(a car, two cars).\n문장별 판정:\n정답 판단: car는 a car, two cars처럼 셀 수 있으므로 정답은 ④이다.\n선택지 분석:\n① [오답] information은 셀 수 없는 명사이므로 오답이다.\n② [오답] news는 -s로 끝나지만 셀 수 없는 명사이므로 오답이다.\n③ [오답] furniture는 셀 수 없는 명사이므로 오답이다.\n④ [정답] car는 a car, two cars처럼 셀 수 있으므로 정답이다.\n⑤ [오답] advice는 셀 수 없는 명사이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "homework",
+     "luggage",
+     "pencil",
+     "weather",
+     "knowledge"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "music",
+     "homework",
+     "traffic",
+     "equipment",
+     "apple"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "information",
+     "baggage",
+     "advice",
+     "book",
+     "money"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "weather",
+     "chair",
+     "news",
+     "furniture",
+     "knowledge"
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "student",
+     "furniture",
+     "traffic",
+     "information",
+     "money"
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   2,
+   3,
+   5
+  ]
+ },
+ {
+  "key": "3-31",
+  "grade": 3,
+  "no": 31,
+  "chapter": "CH 4",
+  "chapter_name": "시제",
+  "ref": {
+   "stem": "다음 선생님의 설명에 해당하는 문장을 고르시오.",
+   "passage": "선생님: 현재의 습관이나 반복되는 행동을 표현할 때는 현재시제를 사용합니다.",
+   "c": [
+    "We were playing soccer yesterday.",
+    "World War I ended in 1918.",
+    "It won't rain tomorrow.",
+    "He is not going to study tonight.",
+    "He always gets up at 6 AM."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 현재의 습관이나 되풀이되는 일은 현재시제로 쓴다. always, usually, often, every ~ 같은 말과 자주 함께 쓰인다.\n풀이 순서: ① 선생님 말의 핵심은 ‘현재의 습관·반복’이다. 보기에서 always, usually, often, every ~ 같은 빈도 표현을 찾는다. → ② 그 문장의 동사가 현재형인지 확인한다. → ③ 선택지 ⑤가 ‘always’와 현재형(gets)으로 습관을 나타낸다. 나머지는 과거·진행·미래의 일이다.\n문장별 판정:\n정답 판단: always와 현재형 gets로 되풀이되는 습관을 나타내므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] yesterday의 일을 말하는 과거진행형이므로 오답이다.\n② [오답] 1918년의 일을 말하는 과거시제이므로 오답이다.\n③ [오답] tomorrow의 일을 말하는 미래시제이므로 오답이다.\n④ [오답] tonight의 계획을 말하는 be going to이므로 오답이다.\n⑤ [정답] always와 현재형 gets로 되풀이되는 습관을 나타내므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 선생님의 설명에 해당하는 문장을 고르시오.",
+    "passage": "선생님: 현재의 습관이나 반복 행동은 현재시제로 표현합니다.",
+    "c": [
+     "We visited Jeju last summer.",
+     "My dad reads the newspaper every morning.",
+     "She is talking on the phone now.",
+     "I will call you tonight.",
+     "They were swimming at that time."
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 선생님의 설명에 해당하는 문장을 고르시오.",
+    "passage": "선생님: 현재의 습관이나 반복 행동은 현재시제로 표현합니다.",
+    "c": [
+     "Tom broke the window yesterday.",
+     "We are going to move next month.",
+     "The kids are playing outside right now.",
+     "Jane studies English every day.",
+     "I was sleeping when you called."
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 선생님의 설명에 해당하는 문장을 고르시오.",
+    "passage": "선생님: 현재의 습관이나 반복 행동은 현재시제로 표현합니다.",
+    "c": [
+     "She finished her homework an hour ago.",
+     "It will be sunny tomorrow.",
+     "My brother is taking a shower now.",
+     "We were watching TV at nine.",
+     "They play soccer on Sundays."
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "다음 선생님의 설명에 해당하는 문장을 고르시오.",
+    "passage": "선생님: 현재의 습관이나 반복 행동은 현재시제로 표현합니다.",
+    "c": [
+     "Tom usually walks to school.",
+     "I met Mina at the mall last week.",
+     "He is going to buy a new bike.",
+     "The baby is crying loudly now.",
+     "They were having lunch then."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 선생님의 설명에 해당하는 문장을 고르시오.",
+    "passage": "선생님: 현재의 습관이나 반복 행동은 현재시제로 표현합니다.",
+    "c": [
+     "Jane lost her wallet two days ago.",
+     "I'll help you with your homework.",
+     "We often eat dinner at seven.",
+     "Look! It is snowing outside.",
+     "He was reading a book at that time."
+    ],
+    "ans": 3
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "key": "3-32",
+  "grade": 3,
+  "no": 32,
+  "chapter": "CH 4",
+  "chapter_name": "시제",
+  "ref": {
+   "stem": "다음 대화에서 밑줄 친 부분의 의미로 알맞은 것을 고르시오.",
+   "passage": "A: What was Tom doing this morning?\nB: <u>He was writing a letter all morning</u>.",
+   "c": [
+    "그는 아침에 편지를 썼다.",
+    "그는 아침 내내 편지를 쓰고 있다.",
+    "그는 아침 동안 편지를 쓸 것이다.",
+    "그는 아침 내내 편지를 쓰고 있었다.",
+    "그는 아침마다 편지를 쓴다."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 과거진행형(was/were + -ing)은 과거의 어느 때에 진행 중이던 일을 나타내며 ‘~하고 있었다’로 옮긴다.\n풀이 순서: ① 밑줄 문장의 동사 형태를 본다. was writing는 ‘was/were + -ing’, 곧 과거진행형이다. → ② 과거진행형은 ‘~하고 있었다’로 옮긴다. → ③ ‘~했다’, ‘~하고 있다’, ‘~할 것이다’, ‘~한다’를 지운다. 정답은 ④.\n문장별 판정:\n정답 판단: was writing(과거진행)과 all morning(아침 내내)을 바르게 옮겼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] ‘썼다’는 단순 과거라 진행의 뜻이 빠졌으므로 오답이다.\n② [오답] ‘쓰고 있다’는 현재진행이므로 오답이다.\n③ [오답] ‘쓸 것이다’는 미래이므로 오답이다.\n④ [정답] was writing(과거진행)과 all morning(아침 내내)을 바르게 옮겼으므로 정답이다.\n⑤ [오답] ‘쓴다’는 현재의 습관이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 대화에서 밑줄 친 부분의 의미로 알맞은 것을 고르시오.",
+    "passage": "A: What were you doing last night?\nB: <u>I was watching a movie with my family</u>.",
+    "c": [
+     "나는 가족과 함께 영화를 보고 있다.",
+     "나는 가족과 함께 영화를 볼 것이다.",
+     "나는 가족과 함께 영화를 보고 있었다.",
+     "나는 가족과 함께 영화를 자주 본다.",
+     "나는 가족과 함께 영화를 보지 않았다."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 대화에서 밑줄 친 부분의 의미로 알맞은 것을 고르시오.",
+    "passage": "A: What were they doing at 8?\nB: <u>They were studying English.</u>",
+    "c": [
+     "그들은 8시에 영어를 공부한다.",
+     "그들은 8시에 영어를 다 공부했다.",
+     "그들은 8시에 영어를 공부하고 있었다.",
+     "그들은 8시에 영어를 공부할 것이다.",
+     "그들은 8시에 영어를 공부하지 않았다."
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 대화에서 밑줄 친 부분의 의미로 알맞은 것을 고르시오.",
+    "passage": "A: What was Jane doing in the kitchen an hour ago?\nB: <u>She was cooking dinner for her family.</u>",
+    "c": [
+     "그녀는 가족을 위해 저녁을 만들고 있었다.",
+     "그녀는 가족을 위해 저녁을 만들지 않았다.",
+     "그녀는 가족을 위해 저녁을 다 만들었다.",
+     "그녀는 가족을 위해 저녁을 자주 만든다.",
+     "그녀는 가족을 위해 저녁을 만들 것이다."
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 대화에서 밑줄 친 부분의 의미로 알맞은 것을 고르시오.",
+    "passage": "A: I called you at nine last night. What were you doing then?\nB: <u>I was reading a book in my room.</u>",
+    "c": [
+     "나는 그때 내 방에서 책을 읽을 것이다.",
+     "나는 그때 내 방에서 책을 읽고 있었다.",
+     "나는 그때 내 방에서 책을 다 읽었다.",
+     "나는 그때 내 방에서 책을 읽지 않았다.",
+     "나는 그때 내 방에서 책을 자주 읽는다."
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 대화에서 밑줄 친 부분의 의미로 알맞은 것을 고르시오.",
+    "passage": "A: What was your dog doing when you came home from school?\nB: <u>It was sleeping on the sofa.</u>",
+    "c": [
+     "그 개는 소파에서 자지 않았다.",
+     "그 개는 소파에서 잠에서 깼다.",
+     "그 개는 소파에서 자고 있었다.",
+     "그 개는 소파에서 잘 것이다.",
+     "그 개는 소파에서 자주 잔다."
+    ],
+    "ans": 3
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   5,
+   1,
+   2
+  ]
+ },
+ {
+  "key": "3-41",
+  "grade": 3,
+  "no": 41,
+  "chapter": "CH 5",
+  "chapter_name": "대명사",
+  "ref": {
+   "stem": "다음 중 인칭대명사의 사용이 올바른 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "He gave the present to I.",
+    "Our house is bigger than their.",
+    "This book is my.",
+    "She invited us to dinner.",
+    "They told we about the plan."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 인칭대명사는 자리에 따라 형태가 달라진다. 동사·전치사 뒤에는 목적격(me, us, him, her, them), 명사 앞에는 소유격(my, our), ‘~의 것’은 소유대명사(mine, ours, theirs)를 쓴다.\n풀이 순서: ① 문장마다 대명사가 놓인 자리를 본다. 주어 자리는 주격, 동사·전치사 뒤는 목적격, 명사 앞은 소유격, 명사 없이 ‘~의 것’은 소유대명사다. → ② 자리에 맞지 않는 형태를 지운다. → ③ 선택지 ④만 옳다(동사 invited 뒤에 목적격 us).\n문장별 판정:\n정답 판단: 동사 invited의 목적어로 목적격 us를 바르게 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 전치사 to 뒤에는 목적격 me를 써야 하므로 오답이다.\n② [오답] ‘그들의 것’은 소유대명사 theirs를 써야 하므로 오답이다.\n③ [오답] ‘나의 것’은 소유대명사 mine을 써야 하므로 오답이다.\n④ [정답] 동사 invited의 목적어로 목적격 us를 바르게 썼으므로 정답이다.\n⑤ [오답] 동사 told의 목적어로 목적격 us를 써야 하므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 인칭대명사의 사용이 올바른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "This bag is her.",
+     "Mina lent me her pen.",
+     "We met they at the park.",
+     "Their house is bigger than our.",
+     "Please give it to I."
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 중 인칭대명사의 사용이 올바른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Is this pencil your?",
+     "He sent a letter to we.",
+     "Them are my friends.",
+     "These shoes are my.",
+     "Tom helped me yesterday."
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 중 인칭대명사의 사용이 올바른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Her is my best friend.",
+     "Our car is older than their.",
+     "I called him last night.",
+     "Can you help we?",
+     "That idea was her."
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 중 인칭대명사의 사용이 올바른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "They saw her at school.",
+     "The dog wagged it tail.",
+     "Jane gave a card to he.",
+     "This room is our.",
+     "Us are in the same class."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 중 인칭대명사의 사용이 올바른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The book on the desk is my.",
+     "Mom made dinner for they.",
+     "His is my cousin.",
+     "We know them well.",
+     "Your house is bigger than mine house."
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   3,
+   5,
+   1
+  ]
+ },
+ {
+  "key": "3-42",
+  "grade": 3,
+  "no": 42,
+  "chapter": "CH 5",
+  "chapter_name": "대명사",
+  "ref": {
+   "stem": "다음 중 수 일치가 올바르지 않은 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "This flower smells nice.",
+    "Those boys are playing soccer.",
+    "These information are useful.",
+    "That movie was interesting.",
+    "The story is exciting."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: this/that은 단수 명사·셀 수 없는 명사와, these/those는 복수 명사와 쓰고 동사도 그 수에 맞춘다. information, furniture, news, advice는 셀 수 없어 단수로 취급한다.\n풀이 순서: ① 문장마다 ‘지시어(this/that/these/those) - 명사 - 동사’ 세 가지의 수가 맞는지 본다. → ② 셀 수 없는 명사(information, furniture, news)는 단수로, 짝을 이루는 물건(pants, glasses, scissors)은 복수로 취급한다. → ③ 선택지 ③이 어긋난다: information은 셀 수 없으므로 This information is가 맞다.\n문장별 판정:\n정답 판단: information은 셀 수 없는 명사라 This information is로 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 단수 명사 flower에 This와 smells를 바르게 썼으므로 오답이다.\n② [오답] 복수 명사 boys에 Those와 are를 바르게 썼으므로 오답이다.\n③ [정답] information은 셀 수 없는 명사라 This information is로 써야 하므로 정답이다.\n④ [오답] 단수 명사 movie에 That과 was를 바르게 썼으므로 오답이다.\n⑤ [오답] 단수 명사 story에 is를 바르게 썼으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 수 일치가 올바르지 않은 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "This cake tastes sweet.",
+     "Those girls are my classmates.",
+     "That building is very tall.",
+     "These book is interesting.",
+     "These cookies smell good."
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 중 수 일치가 올바르지 않은 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "This pants is too long.",
+     "That dog is barking.",
+     "Those cars are fast.",
+     "This song is popular.",
+     "These oranges are fresh."
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 중 수 일치가 올바르지 않은 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "This water is cold.",
+     "Those trees are tall.",
+     "That man is my uncle.",
+     "These children are kind.",
+     "That glasses are mine."
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "다음 중 수 일치가 올바르지 않은 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "This homework is difficult.",
+     "Those house are old.",
+     "That girl sings well.",
+     "These men are doctors.",
+     "This news is surprising."
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 중 수 일치가 올바르지 않은 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "These socks are warm.",
+     "That bag looks heavy.",
+     "This furniture are expensive.",
+     "Those students are busy.",
+     "This advice is helpful."
+    ],
+    "ans": 3
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   2,
+   4,
+   5
+  ]
+ }
+]

@@ -1,0 +1,70 @@
+[
+ {
+  "key": "1-31",
+  "variant": 2,
+  "ref_format": "be p.p. 뒤 by가 아닌 전치사를 쓰는 두 문장의 빈칸에 들어갈 전치사 짝 고르기",
+  "new_format": "우리말 두 문장과 뜻이 같도록 빈칸 (A), (B)에 들어갈 전치사 짝 고르기(be based on, be filled with)",
+  "design": "be based on, be filled with처럼 수동태 뒤에 by가 아닌 정해진 전치사를 쓰는 같은 규칙을, 우리말 두 문장에 맞게 빈칸 (A), (B)를 채우는 형식으로 확인한다. 판단할 곳은 두 빈칸으로 같고, 우리말을 뺀 영어 읽을 양은 30낱말·121글자(원문항 26낱말·120글자, 1.15배)이며, 어휘는 movie·true story·theater·parents 수준이다. 오답은 수동태라서 by를 쓴 실수(by – of), be full of와 헷갈린 filled of, made from과 헷갈린 based from, 장소 전치사 at이며, (A)·(B) 자리마다 전치사가 모두 달라 개수 단서가 없다.",
+  "stem": "다음 우리말과 뜻이 같도록 할 때, 빈칸 (A), (B)에 알맞은 말이 순서대로 짝지어진 것을 고르시오.",
+  "passage": "이 영화는 용감한 개에 관한 실화를 바탕으로 한다.\n→ This movie is based (A)_______ a true story about a brave dog.\n그 극장은 신이 난 아이들과 부모들로 가득 차 있었다.\n→ The theater was filled (B)_______ excited children and their parents.",
+  "c": [
+   "by – of",
+   "of – at",
+   "from – in",
+   "at – about",
+   "on – with"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "1-41",
+  "variant": 3,
+  "ref_format": "It is + 형용사 + ___ + 목적격 + to부정사 문장 다섯 개 중 빈칸의 전치사(of/for)가 나머지 넷과 다른 것 고르기",
+  "new_format": "밑줄 친 ‘of/for + 목적격’ 다섯 개 중 어법상 올바른 것 고르기(틀린 넷, 옳은 하나)",
+  "design": "같은 of/for 규칙을, 빈칸 채우기 대신 밑줄 친 ‘of/for + 목적격’이 바른 문장 하나를 고르는 형식으로 확인한다. 밑줄 다섯 곳을 하나씩 판정하는 판단 다섯 번, 읽을 양은 45낱말(원문항 37, 1.22배), 어휘는 nice·generous·recycle·snacks 수준이고, 성격 형용사는 뜻이 헷갈리지 않는 nice·kind·generous로 골랐다. 틀린 넷은 일 형용사(hard·important)에 of를 쓴 것 둘과 성격 형용사(nice·kind)에 for를 쓴 것 둘로 전치사 모양이 고르고, 정답 generous of Hana는 성격 형용사에 of를 바르게 쓴 문장이다.",
+  "stem": "다음 밑줄 친 부분이 어법상 올바른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "It is hard <u>of him</u> to say no to friends.",
+   "It was nice <u>for you</u> to remember my birthday.",
+   "It is important <u>of us</u> to recycle plastic.",
+   "It was generous <u>of Hana</u> to buy us lunch.",
+   "It was kind <u>for them</u> to share their snacks."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "1-42",
+  "variant": 1,
+  "ref_format": "〈보기〉의 목적(부사적 용법) to부정사와 쓰임이 같은 것 고르기(밑줄 친 to가 든 문장 보기 5개)",
+  "new_format": "<보기> 없이 밑줄 친 to부정사가 ‘~하기 위해’(목적)의 뜻으로 쓰인 문장 고르기(문장 보기 5개)",
+  "design": "완성된 문장 뒤에서 ‘~하기 위해’라는 목적을 나타내는 부사적 용법의 to부정사를 가려내는 같은 규칙을, <보기> 없이 목적의 뜻으로 쓰인 것을 바로 고르는 형식으로 확인한다. 다섯 문장의 밑줄을 하나씩 판정하는 판단 다섯 번, 읽을 양은 53낱말(원문항 52), 어휘는 bakery·homework·plant 수준이다. 정답은 went to the bakery early to buy이고, 오답은 원문항과 같은 종류로 진주어(It is fun to ride), 원문항의 a toy to play with처럼 짧은 앞 명사 수식(some homework to do), 보어(goal is to read), 목적어(decided to plant)다.",
+  "stem": "다음 밑줄 친 부분이 ‘~하기 위해’라는 목적의 뜻으로 쓰인 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "It is fun <u>to ride</u> a bike along the river on weekends.",
+   "Jiho has some homework <u>to do</u> before tomorrow morning.",
+   "His goal for this year is <u>to read</u> fifty English books.",
+   "We decided <u>to plant</u> some flowers in the front yard.",
+   "Yuri went to the bakery early <u>to buy</u> some fresh bread."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "1-42",
+  "variant": 3,
+  "ref_format": "〈보기〉의 목적(부사적 용법) to부정사와 쓰임이 같은 것 고르기(밑줄 친 to가 든 문장 보기 5개)",
+  "new_format": "짧은 대화 속 밑줄 친 to부정사 ⓐ~ⓔ 중 <보기>와 쓰임이 같은 것 고르기(문장 보기 대신 대화 속 기호 보기)",
+  "design": "목적을 나타내는 부사적 용법을 가려내는 같은 규칙을, 따로 떨어진 문장 보기 대신 짧은 대화 속 밑줄 ⓐ~ⓔ에서 <보기>(turned on the radio to hear)와 쓰임이 같은 것을 찾는 형식으로 옮겼다(기호를 밑줄 바로 앞에 붙여 판정할 곳을 분명히 했다). 밑줄 다섯 곳을 판정하는 판단 다섯 번은 같고, 읽을 양은 61낱말(원문항 52, 1.17배), 대화 문장은 directions·bus stop·juice 수준의 쉬운 말이다. 정답 ⓒ는 ‘길을 묻기 위해’의 목적이고, 오답은 원문항과 같은 종류로 진주어(hard to find), 보어(plan was to meet), 명사 수식(something cold to drink), 목적어(love to have)다.",
+  "stem": "다음 대화의 밑줄 친 ⓐ~ⓔ 중 <보기>의 밑줄 친 부분과 쓰임이 같은 것을 고르시오.",
+  "passage": "<보기>\nDad turned on the radio <u>to hear</u> the weather report.\n\nA: It was really hard ⓐ<u>to find</u> your new house.\nB: Sorry. My plan was ⓑ<u>to meet</u> you at the bus stop.\nA: That's OK. I stopped at a store ⓒ<u>to ask</u> for directions.\nB: Would you like something cold ⓓ<u>to drink</u>?\nA: Yes, please. I'd love ⓔ<u>to have</u> some juice.",
+  "c": [
+   "ⓐ",
+   "ⓑ",
+   "ⓒ",
+   "ⓓ",
+   "ⓔ"
+  ],
+  "ans": 3
+ }
+]

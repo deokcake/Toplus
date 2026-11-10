@@ -1,0 +1,155 @@
+[
+ {
+  "key": "3-122",
+  "variant": 1,
+  "ref_format": "밑줄 친 that이 든 문장 5개 중 쓰임(지시형용사/명사절 접속사)이 다른 하나 고르기",
+  "new_format": "<보기> 문장의 지시형용사 that과 쓰임이 같은 that 고르기",
+  "design": "that 뒤에 명사만 오면 지시형용사, 주어 + 동사가 오면 명사절 접속사라는 규칙을 그대로 확인한다. ‘쓰임이 다른 하나’를 <보기>의 지시형용사 That house와 쓰임이 같은 것 고르기로 바꿨고, 보기마다 that 바로 뒤 한 곳만 보는 판단 다섯 번은 원문항과 같으며, 읽을 양은 37낱말(원문항 30, 1.2배), 어휘는 believe·bench·clear 수준이다. 정답 ③(that bench)만 지시형용사이고, 오답은 목적어절(believe·said), 문장 맨 앞의 주어절(That he left early, 원문항의 함정과 같은 것), 가주어 It의 진주어절로 원문항의 접속사 쓰임을 고루 넣었다.",
+  "stem": "<보기>의 밑줄 친 that과 쓰임이 같은 것을 고르시오.",
+  "passage": "<보기>\n<u>That</u> house is very old.",
+  "c": [
+   "I believe <u>that</u> you can win.",
+   "<u>That</u> he left early is strange.",
+   "We can sit on <u>that</u> bench.",
+   "He said <u>that</u> the test was easy.",
+   "It is clear <u>that</u> she likes music."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "3-122",
+  "variant": 2,
+  "ref_format": "밑줄 친 that이 든 문장 5개 중 쓰임(지시형용사/명사절 접속사)이 다른 하나 고르기",
+  "new_format": "밑줄 친 that이 접속사로 쓰인 문장 하나 고르기(지시형용사 넷 + 접속사 하나, 반대 방향)",
+  "design": "같은 규칙(that + 명사 → 지시형용사, that + 주어 + 동사 → 접속사)을 원문항과 반대 방향, 즉 지시형용사 넷 속에서 접속사 하나를 고르는 형식으로 확인한다. 문장 다섯 개에서 that 뒤를 한 번씩 보는 판단 개수는 같고, 읽을 양은 31낱말(원문항 30), 어휘는 bakery·bridge·jacket·river 수준이다. 정답 ④는 that 뒤에 he moved가 오는 목적어절이고, 오답은 문장 맨 앞의 That bakery sells·That old bridge crosses(that + 명사 + 동사라 절로 착각하기 쉬운 것, 원문항 정답 That book is와 같은 꼴)와 동사 뒤의 that black jacket·that picture로, 위치만 보고는 고를 수 없게 했다.",
+  "stem": "다음 중 밑줄 친 that이 접속사로 쓰인 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "My brother wants <u>that</u> black jacket.",
+   "<u>That</u> bakery sells fresh bread.",
+   "Who painted <u>that</u> picture on the wall?",
+   "I heard <u>that</u> he moved to Busan.",
+   "<u>That</u> old bridge crosses the river."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "3-122",
+  "variant": 3,
+  "ref_format": "밑줄 친 that이 든 문장 5개 중 쓰임(지시형용사/명사절 접속사)이 다른 하나 고르기",
+  "new_format": "짧은 대화 속 밑줄 친 that ⓐ~ⓔ 중 쓰임이 다른 하나 고르기",
+  "design": "that 뒤에 명사가 오면 지시형용사, 주어 + 동사가 오면 접속사라는 규칙을 서술문 보기 대신 짧은 대화 속 밑줄 ⓐ~ⓔ로 확인한다. that 다섯 개를 하나씩 판단하는 것은 원문항과 같고, 읽을 양은 35낱말(원문항 30, 1.17배, 화자 표시 포함), 어휘는 cap·hat·fit 수준의 쉬운 쇼핑 대화다. ⓔ만 guess의 목적어절 it will fit him을 이끄는 접속사이고, 나머지는 cap·hat을 꾸미는 지시형용사인데 ⓑ는 문장 맨 앞, ⓐ·ⓒ·ⓓ는 about·like 뒤에 있어 위치가 아니라 that 뒤에 오는 말로만 가릴 수 있다.",
+  "stem": "다음 대화의 밑줄 친 ⓐ~ⓔ 중 쓰임이 나머지 넷과 다른 것은?",
+  "passage": "A: How about ⓐ<u>that</u> blue cap for Dad?\nB: Hmm, ⓑ<u>that</u> cap looks too small.\nA: Then what about ⓒ<u>that</u> brown hat?\nB: Oh, I like ⓓ<u>that</u> hat. I guess ⓔ<u>that</u> it will fit him.",
+  "c": [
+   "ⓐ",
+   "ⓑ",
+   "ⓒ",
+   "ⓓ",
+   "ⓔ"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "3-131",
+  "variant": 1,
+  "ref_format": "우리말 뜻이 주어진 두 문장(명령문·Let's)의 빈칸에 들어갈 동사 형태 짝 고르기",
+  "new_format": "짧은 대화의 빈칸 (A) 명령문 동사·(B) Let's 뒤 동사 짝 고르기",
+  "design": "명령문은 주어 없이 동사원형으로 시작하고 Let's 뒤에도 동사원형을 쓴다는 규칙을, 우리말 풀이가 붙은 두 문장 대신 짧은 대화의 빈칸 둘로 확인한다. 빈칸 (A) 명령문 첫머리와 (B) Let's 뒤 두 곳을 판단하는 것은 원문항과 같고, 읽을 양은 26낱말(원문항 20, 1.3배, 화자 표시 포함), 어휘는 bedroom·badminton 수준이다. 오답은 원문항과 같은 실수 유형인 -ing형(Cleaning, playing)과 to부정사(To clean - to play)를 두 자리에 엇갈려 짝지어 만들었다.",
+  "stem": "다음 대화의 빈칸 (A), (B)에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+  "passage": "A: Dad, I'm bored.\nB: (A)_______ your bedroom first.\nA: Okay. Afterwards, let's (B)_______ badminton together!",
+  "c": [
+   "(A) Cleaning - (B) play",
+   "(A) Clean - (B) play",
+   "(A) Clean - (B) playing",
+   "(A) Cleaning - (B) playing",
+   "(A) To clean - (B) to play"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "3-131",
+  "variant": 2,
+  "ref_format": "우리말 뜻이 주어진 두 문장(명령문·Let's)의 빈칸에 들어갈 동사 형태 짝 고르기",
+  "new_format": "우리말 뜻이 붙은 두 문장의 밑줄 친 틀린 형태 (A), (B)를 바르게 고친 것 고르기",
+  "design": "명령문·Let's 뒤 동사원형 규칙을 빈칸 채우기 대신 밑줄 친 틀린 형태(Turning, visiting)를 바르게 고치는 형식으로 확인한다. 원문항처럼 우리말 뜻이 붙은 두 문장에서 (A)·(B) 두 곳을 판단하고, 읽을 양은 23낱말(원문항 20), 어휘는 television·aquarium 수준이다. 밑줄이 이미 -ing형이므로 오답은 학생들이 흔히 쓰는 3인칭 단수형(Turns, visits)과 to부정사(To turn - to visit)를 두 자리에 엇갈려 짝지어 만들었다.",
+  "stem": "다음 밑줄 친 (A), (B)를 바르게 고친 것을 고르시오.",
+  "passage": "(A)<u>Turning</u> off the television now.(지금 텔레비전을 꺼라.)\nLet's (B)<u>visiting</u> the aquarium this Saturday.(이번 토요일에 수족관을 방문하자.)",
+  "c": [
+   "(A) Turns - (B) visit",
+   "(A) Turn - (B) visits",
+   "(A) Turn - (B) visit",
+   "(A) To turn - (B) to visit",
+   "(A) Turns - (B) visits"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "3-131",
+  "variant": 3,
+  "ref_format": "우리말 뜻이 주어진 두 문장(명령문·Let's)의 빈칸에 들어갈 동사 형태 짝 고르기",
+  "new_format": "명령문·Let's 짧은 문장 5개 중 어법상 옳은 것 고르기(짧은 문장 보기)",
+  "design": "명령문은 동사원형으로 시작하고 Let's 뒤에도 동사원형을 쓴다는 두 규칙을, 두 빈칸 짝 대신 짧은 문장 다섯 개 중 어법상 옳은 것 고르기로 확인한다. 보기마다 동사 한 곳만 판단하는 5낱말 문장이고, 읽을 양은 25낱말(원문항 20, 1.25배), 어휘는 salt·vegetables·umbrella·snowman 수준이다. 오답은 명령문을 -ing형(Passing)·3인칭 단수형(Brings)으로 시작한 것, Let's 뒤에 to부정사(to practice)·-ing형(building)을 쓴 것으로, 두 규칙을 모두 알아야 소거할 수 있다.",
+  "stem": "다음 중 어법상 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Passing me the salt, please.",
+   "Let's to practice together tomorrow.",
+   "Brings your umbrella to school.",
+   "Wash the vegetables before dinner.",
+   "Let's building a snowman outside."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "3-132",
+  "variant": 1,
+  "ref_format": "명령문 + and/or 문장과 If 문장이 같은 뜻이 되도록 빈칸 둘(접속사 - do/don't) 짝 고르기",
+  "new_format": "짧은 대화의 빈칸 (A) 접속사·(B) If절 동사(긍정/부정) 짝 고르기",
+  "design": "‘명령문 + and’는 If you ~, ‘명령문 + or’는 If you don't ~와 같다는 규칙을 짧은 대화의 빈칸 둘로 확인하며, 원문항(or - don't)과 달리 좋은 결과(sleep better)가 이어지는 and 쪽을 묻는다. (A) 접속사와 (B) If절 동사의 긍정/부정 두 곳을 판단하는 것은 원문항과 같고, 읽을 양은 33낱말(원문항 26, 1.27배, 화자 표시 포함), 어휘는 warm milk·sleep 수준이다. 오답은 원문항처럼 and/or와 긍정/부정을 엇갈려 짝지은 것(or - don't drink처럼 두 문장끼리는 맞지만 뜻이 어색한 것 포함)과 but으로 만들었다.",
+  "stem": "다음 대화의 빈칸 (A), (B)에 들어갈 말로 알맞게 짝지어진 것을 고르시오.",
+  "passage": "A: I can't sleep well.\nB: Drink warm milk, (A)_______ you'll sleep better.\nA: So if I (B)_______ warm milk, I'll sleep better?",
+  "c": [
+   "(A) or - (B) drink",
+   "(A) and - (B) don't drink",
+   "(A) or - (B) don't drink",
+   "(A) but - (B) drink",
+   "(A) and - (B) drink"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "3-132",
+  "variant": 2,
+  "ref_format": "명령문 + and/or 문장과 If 문장이 같은 뜻이 되도록 빈칸 둘(접속사 - do/don't) 짝 고르기",
+  "new_format": "If 문장 두 개를 명령문으로 바꿔 쓸 때 빈칸 (A), (B)의 접속사 짝 고르기(반대 방향)",
+  "design": "같은 규칙을 원문항과 반대 방향, 즉 If 문장을 보고 명령문 뒤의 접속사를 고르는 형식으로 확인한다. If you don't ~ → or, If you ~ → and를 (A)·(B) 두 곳에서 판단하므로 판단 개수는 같고, 읽을 양은 31낱말(원문항 26, 1.19배), 어휘는 rest·sick·smile·happier 수준이다. 오답은 and와 or를 뒤바꾼 것, 한쪽만 맞힌 것(or - or, and - and), 원문항에도 있던 but을 넣은 것이다.",
+  "stem": "다음 If 문장을 명령문으로 바꿔 쓸 때, 빈칸 (A), (B)에 알맞은 말을 바르게 짝지은 것을 고르시오.",
+  "passage": "If you don't rest, you'll get sick.\n→ Rest, (A)_______ you'll get sick.\nIf you smile, you'll feel happier.\n→ Smile, (B)_______ you'll feel happier.",
+  "c": [
+   "(A) or - (B) and",
+   "(A) and - (B) or",
+   "(A) or - (B) or",
+   "(A) and - (B) and",
+   "(A) but - (B) and"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "3-132",
+  "variant": 3,
+  "ref_format": "명령문 + and/or 문장과 If 문장이 같은 뜻이 되도록 빈칸 둘(접속사 - do/don't) 짝 고르기",
+  "new_format": "‘~하지 않으면’ 우리말을 영어로 바르게 옮긴 문장 고르기(짧은 문장 보기)",
+  "design": "‘명령문, or …’가 ‘~하지 않으면 …’(If you don't ~)과 같다는 규칙을 문장 전환 대신 우리말을 영어로 옮긴 문장 고르기로 확인한다. 학생은 ‘뛰지 않으면’을 보고 접속사(or)와 명령문의 긍정/부정을 함께 판단하므로 원문항의 두 판단과 같고, 읽을 양은 32낱말(원문항 26, 1.23배), 어휘는 run·late 수준이다. 오답은 and·but을 쓴 것, ‘않으면’을 그대로 Don't로 옮겨 뜻이 뒤집힌 것, If절의 긍정/부정을 뒤바꾼 것이며, 정답과 같은 뜻인 If you don't run now ~ 문장은 보기에 넣지 않아 정답이 하나다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "지금 뛰지 않으면 너는 늦을 것이다.",
+  "c": [
+   "Run now, and you'll be late.",
+   "Run now, or you'll be late.",
+   "Run now, but you'll be late.",
+   "Don't run now, or you'll be late.",
+   "If you run now, you'll be late."
+  ],
+  "ans": 2
+ }
+]

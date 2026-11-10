@@ -1,0 +1,442 @@
+[
+ {
+  "key": "5-22",
+  "grade": 5,
+  "no": 22,
+  "chapter": "CH 3",
+  "chapter_name": "be동사와 일반동사 과거",
+  "ref": {
+   "stem": "다음 중 동사의 현재형과 과거형이 잘못 짝지어진 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "teach - taught",
+    "ride - rode",
+    "fly - flied",
+    "stop - stopped",
+    "hit - hit"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 불규칙 과거형: teach - taught, ride - rode, fly - flew, hit - hit. 규칙 과거형은 -ed를 붙인다(stop - stopped).\n풀이 순서: ① 짝마다 과거형이 맞는지 본다. 불규칙 동사에 -ed를 붙인 것을 찾는다. → ② fly는 불규칙 동사라 과거형이 flew다. flied는 없는 형태다. → ③ 정답은 fly - flied.\n문장별 판정:\n정답 판단: fly의 과거형은 flied가 아니라 flew이므로 정답은 ③이다.\n선택지 분석:\n① [오답] teach의 불규칙 과거형 taught로 옳으므로 오답이다.\n② [오답] ride의 불규칙 과거형 rode로 옳으므로 오답이다.\n③ [정답] fly의 과거형은 flied가 아니라 flew이므로 정답이다.\n④ [오답] p를 겹쳐 쓰고 -ed를 붙인 옳은 형태이므로 오답이다.\n⑤ [오답] hit은 현재형과 과거형이 같으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 동사원형과 과거형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "leave - left",
+     "teach - taught",
+     "write - wrote",
+     "speak - speaked",
+     "bring - brought"
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 중 동사의 현재형과 과거형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "come - came",
+     "fly - flew",
+     "go - goed",
+     "buy - bought",
+     "eat - ate"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 중 동사의 현재형과 과거형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "speak - spoke",
+     "buy - buyed",
+     "make - made",
+     "go - went",
+     "see - saw"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 중 동사의 현재형과 과거형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "see - seed",
+     "come - came",
+     "go - went",
+     "fly - flew",
+     "buy - bought"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 중 동사의 현재형과 과거형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "come - came",
+     "eat - ate",
+     "make - maked",
+     "see - saw",
+     "teach - taught"
+    ],
+    "ans": 3
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   5,
+   1,
+   2
+  ]
+ },
+ {
+  "key": "5-31",
+  "grade": 5,
+  "no": 31,
+  "chapter": "CH 4",
+  "chapter_name": "현재진행형",
+  "ref": {
+   "stem": "동사와 동사원형-ing형이 잘못 짝지어진 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "tie - tying",
+    "sit - siting",
+    "swim - swimming",
+    "cry - crying",
+    "set - setting"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: -ing형 만들기: 대부분 그대로 -ing, -e로 끝나면 e를 빼고(make → making), -ie는 y로 바꾸고(tie → tying), 단모음 + 단자음으로 끝나면 자음을 한 번 더 쓴다(sit → sitting).\n풀이 순서: ① 동사의 끝소리를 본다: -e, -ie, 단모음 + 단자음 가운데 어느 것인지 가른다. → ② sit은 단모음 + 단자음이라 sitting이다. 나머지는 규칙대로다. → ③ 정답은 sit - siting.\n문장별 판정:\n정답 판단: 단모음 + 단자음으로 끝나 t를 한 번 더 써서 sitting으로 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] -ie를 y로 바꾸고 -ing를 붙인 옳은 형태이므로 오답이다.\n② [정답] 단모음 + 단자음으로 끝나 t를 한 번 더 써서 sitting으로 써야 하므로 정답이다.\n③ [오답] m을 한 번 더 쓴 옳은 형태이므로 오답이다.\n④ [오답] y로 끝나면 그대로 -ing를 붙이므로 오답이다.\n⑤ [오답] t를 한 번 더 쓴 옳은 형태이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 동사원형과 -ing형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "begin - beginning",
+     "swim - swimming",
+     "write - writing",
+     "study - studying",
+     "lie - lieing"
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "동사의 원형과 -ing형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "die - dying",
+     "stop - stopping",
+     "come - coming",
+     "enjoy - enjoying",
+     "run - runing"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "동사의 원형과 -ing형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "get - getting",
+     "ride - riding",
+     "make - makeing",
+     "carry - carrying",
+     "plan - planning"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "동사의 원형과 -ing형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "take - taking",
+     "come - comming",
+     "put - putting",
+     "see - seeing",
+     "shop - shopping"
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "동사의 원형과 -ing형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "have - having",
+     "drop - dropping",
+     "fly - flying",
+     "swim - swiming",
+     "give - giving"
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   4,
+   5,
+   1
+  ]
+ },
+ {
+  "key": "5-32",
+  "grade": 5,
+  "no": 32,
+  "chapter": "CH 4",
+  "chapter_name": "현재진행형",
+  "ref": {
+   "stem": "우리말을 영어로 바르게 옮긴 것을 고르시오.",
+   "passage": "그의 팀이 시합을 이기고 있다.",
+   "c": [
+    "His team is winning the match.",
+    "His team is win the match.",
+    "His team is wining the match.",
+    "His team winning the match.",
+    "His team win the match."
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: ‘~하고 있다’는 현재진행형 am/is/are + 동사원형-ing로 쓴다. be동사는 주어에 맞춘다.\n풀이 순서: ① 우리말 ‘이기고 있다’ → 지금 진행 중인 일이므로 be동사 + -ing형을 쓴다. → ② 주어(His team)에 맞는 be동사는 is, -ing형은 winning. → ③ be동사가 빠지거나 동사 형태·철자·시제가 틀린 문장을 지운다. 정답은 ①.\n문장별 판정:\n정답 판단: is + winning으로 ‘이기고 있다’를 바르게 나타냈으므로 정답은 ①이다.\n선택지 분석:\n① [정답] is + winning으로 ‘이기고 있다’를 바르게 나타냈으므로 정답이다.\n② [오답] is 뒤에 동사원형 win을 쓸 수 없으므로 오답이다.\n③ [오답] win의 -ing형은 n을 한 번 더 써서 winning이므로 오답이다.\n④ [오답] be동사가 빠졌으므로 오답이다.\n⑤ [오답] 현재형이라 ‘이기고 있다’는 뜻이 되지 않고 3인칭 단수 -s도 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "아이들이 운동장에서 달리고 있다.",
+    "c": [
+     "The children are running on the playground.",
+     "The children are run on the playground.",
+     "The children is running on the playground.",
+     "The children run on the playground now.",
+     "The children were running on the playground."
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "Jane이 편지를 쓰고 있다.",
+    "c": [
+     "Jane writing a letter.",
+     "Jane does writing a letter.",
+     "Jane is writing a letter.",
+     "Jane is writeing a letter.",
+     "Jane is wrote a letter."
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "그들은 축구를 하고 있다.",
+    "c": [
+     "They do playing soccer.",
+     "They are playing soccer.",
+     "They are play soccer.",
+     "They is playing soccer.",
+     "They were playing soccer."
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "나는 책을 읽고 있다.",
+    "c": [
+     "I was reading a book.",
+     "I reading a book.",
+     "I am read a book.",
+     "I is reading a book.",
+     "I am reading a book."
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "우리는 방을 청소하고 있다.",
+    "c": [
+     "We are clean the room.",
+     "We is cleaning the room.",
+     "We do cleaning the room.",
+     "We are cleaning the room.",
+     "We cleaning the room."
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "key": "5-41",
+  "grade": 5,
+  "no": 41,
+  "chapter": "CH 5",
+  "chapter_name": "과거진행형",
+  "ref": {
+   "stem": "동사와 동사원형-ing형이 잘못 짝지어진 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "draw - drawing",
+    "study - studing",
+    "wear - wearing",
+    "have - having",
+    "tie - tying"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: -ing형 만들기: 대부분 그대로 -ing, -e로 끝나면 e를 빼고, -ie는 y로 바꾸고, 단모음 + 단자음으로 끝나면 자음을 한 번 더 쓴다. y로 끝나는 동사는 y를 그대로 두고 -ing를 붙인다(study → studying).\n풀이 순서: ① 동사의 끝을 본다: -e, -ie, -y, 단모음 + 단자음 가운데 어느 것인지 가른다. → ② study는 y로 끝나므로 y를 그대로 두고 studying이다. -ed를 붙일 때(studied)와 헷갈리지 않는다. → ③ 정답은 study - studing.\n문장별 판정:\n정답 판단: y를 빼지 않고 그대로 붙여 studying으로 써야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] 그대로 -ing를 붙인 옳은 형태이므로 오답이다.\n② [정답] y를 빼지 않고 그대로 붙여 studying으로 써야 하므로 정답이다.\n③ [오답] 그대로 -ing를 붙인 옳은 형태이므로 오답이다.\n④ [오답] e를 빼고 -ing를 붙인 옳은 형태이므로 오답이다.\n⑤ [오답] -ie를 y로 바꾸고 -ing를 붙인 옳은 형태이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 동사원형과 -ing형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "write - writeing",
+     "begin - beginning",
+     "run - running",
+     "make - making",
+     "swim - swimming"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "동사의 원형과 -ing형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "close - closing",
+     "hug - hugging",
+     "buy - buying",
+     "jog - jogging",
+     "cry - criing"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "동사의 원형과 -ing형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "win - winning",
+     "smile - smiling",
+     "stay - staying",
+     "visit - visitting",
+     "hope - hoping"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "동사의 원형과 -ing형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "drive - driving",
+     "wait - waitting",
+     "dig - digging",
+     "say - saying",
+     "live - living"
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "동사의 원형과 -ing형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "bake - baking",
+     "pay - paying",
+     "fix - fixxing",
+     "shut - shutting",
+     "lose - losing"
+    ],
+    "ans": 3
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   1,
+   3,
+   4
+  ]
+ },
+ {
+  "key": "5-42",
+  "grade": 5,
+  "no": 42,
+  "chapter": "CH 5",
+  "chapter_name": "과거진행형",
+  "ref": {
+   "stem": "다음 중 과거진행형 문장이 아닌 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "He was washing the dishes.",
+    "They were playing basketball.",
+    "You are jumping.",
+    "She was cooking spaghetti.",
+    "You were walking to the concert hall."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 과거진행형은 was/were + 동사원형-ing다. am/is/are + -ing는 현재진행형이고, 동사의 과거형만 쓴 것은 단순 과거다.\n풀이 순서: ① 문장마다 -ing형 앞의 be동사만 본다. → ② was/were면 과거진행형, am/is/are면 현재진행형이다. be동사 없이 과거형만 있으면 단순 과거다. → ③ 선택지 ③만 are를 썼다. 정답은 ③.\n문장별 판정:\n정답 판단: are + jumping은 현재진행형이므로 정답은 ③이다.\n선택지 분석:\n① [오답] was + washing으로 과거진행형이므로 오답이다.\n② [오답] were + playing으로 과거진행형이므로 오답이다.\n③ [정답] are + jumping은 현재진행형이므로 정답이다.\n④ [오답] was + cooking으로 과거진행형이므로 오답이다.\n⑤ [오답] were + walking으로 과거진행형이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 과거진행형 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The children were waiting outside.",
+     "Tom was fixing his bicycle.",
+     "Mina is washing the dishes now.",
+     "I was reading at ten last night.",
+     "We were walking home in the rain."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 중 과거진행형 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "My dad was driving to work.",
+     "The girls were singing a song.",
+     "I was waiting for the bus.",
+     "We were talking on the phone.",
+     "Tom is brushing his teeth."
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 중 과거진행형 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The cat was sleeping on the bed.",
+     "He watched a movie last night.",
+     "They were cleaning the classroom.",
+     "You were laughing loudly.",
+     "She was taking a shower."
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 중 과거진행형 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "I was riding my bike.",
+     "The kids were building a sandcastle.",
+     "Jane was baking cookies.",
+     "We are having lunch now.",
+     "It was snowing in the morning."
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 중 과거진행형 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "They are swimming in the pool.",
+     "Dad was reading the newspaper.",
+     "The students were running on the track.",
+     "I was listening to music.",
+     "My mom was making soup."
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   5,
+   1,
+   2
+  ]
+ }
+]

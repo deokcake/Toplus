@@ -1,0 +1,257 @@
+[
+ {
+  "key": "5-72",
+  "variant": 1,
+  "ref_format": "밑줄 친 낱말이 있는 문장 5개 중 밑줄 친 것이 형용사인 것 고르기(밑줄 품사 판별)",
+  "new_format": "밑줄 친 것이 부사인 것 고르기(형용사 찾기→부사 찾기로 방향 전환)",
+  "design": "be동사 뒤에서 주어를 설명하면 형용사, 동작동사를 꾸미면 부사라는 규칙을 그대로 확인하되, 형용사 찾기를 부사 찾기로 뒤집었다. 문장 5개에서 밑줄 앞 동사를 한 번씩 보는 판단 5개, 읽을 양 20낱말(1.2배), 어휘(soup, sister, cookies)는 원문항 수준이다. 정답은 동작동사 swims를 꾸미는 fast(원문항의 fast·hard처럼 -ly가 없는 부사라 모양만으로는 못 고름)이고, 오답 넷은 is/are 뒤에서 주어를 설명하는 형용사 hot, sleepy, sweet, kind다.",
+  "stem": "밑줄 친 것이 부사인 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "The soup is <u>hot</u>.",
+   "My sister swims <u>fast</u>.",
+   "The baby is <u>sleepy</u>.",
+   "These cookies are <u>sweet</u>.",
+   "Our teacher is <u>kind</u>."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "5-72",
+  "variant": 2,
+  "ref_format": "밑줄 친 낱말이 있는 문장 5개 중 밑줄 친 것이 형용사인 것 고르기(밑줄 품사 판별)",
+  "new_format": "밑줄 친 부분이 어법상 틀린 문장 고르기(품사 판별→오류 찾기)",
+  "design": "같은 규칙(be동사 뒤는 형용사, 동작동사 뒤는 부사)을 ‘틀린 문장 찾기’로 바꾸었다. 문장마다 밑줄 앞 동사와 밑줄 친 낱말이 맞는지 한 번씩 보는 판단 5개, 읽을 양 19낱말(1.1배), 어휘는 원문항 수준이다. 정답은 be동사 is 뒤에 부사 warmly를 쓴 문장이고, 나머지는 is 뒤 형용사(strong, fresh)와 동작동사 뒤 -ly 부사(safely, loudly)로 바른 문장이다.",
+  "stem": "다음 중 밑줄 친 부분이 어법상 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "The wind is <u>strong</u>.",
+   "Grandpa drives <u>safely</u>.",
+   "The water is <u>warmly</u>.",
+   "My friends laugh <u>loudly</u>.",
+   "This bread is <u>fresh</u>."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "5-72",
+  "variant": 3,
+  "ref_format": "밑줄 친 낱말이 있는 문장 5개 중 밑줄 친 것이 형용사인 것 고르기(밑줄 품사 판별)",
+  "new_format": "빈칸이 하나씩 있는 짧은 문장 5개 중 부사 quietly를 쓸 수 있는 문장 고르기(밑줄 판별→빈칸 적용)",
+  "design": "부사는 동작동사를 꾸미고 be동사·연결동사 뒤에는 형용사가 온다는 규칙을, 밑줄 대신 빈칸이 하나씩 있는 문장 5개에서 quietly가 들어갈 수 있는 곳 찾기로 바꾸었다. 문장마다 빈칸 앞 동사만 보면 되므로 판단 5개, 읽을 양 17낱말(원문항과 같음), 어휘(library, playground, classroom)는 원문항 수준이다. 정답은 동작동사 read 뒤 빈칸이고, 오답 넷은 is/was/looks 뒤라 형용사 quiet만 들어갈 수 있는 자리다.",
+  "stem": "다음 중 빈칸에 quietly를 쓸 수 있는 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "The school library is _______.",
+   "The playground was _______.",
+   "My brother's room is _______.",
+   "The classroom looks _______.",
+   "The children read _______."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "5-81",
+  "variant": 1,
+  "ref_format": "우리말 문장에 해당하는 영어 문장 고르기(전치사만 다른 문장 보기 5개)",
+  "new_format": "짧은 대화의 빈칸에 들어갈 대답 고르기(우리말 힌트, 전치사만 다른 문장 보기)",
+  "design": "위치 전치사 under/on/behind/next to/in front of의 뜻을 그대로 확인하되, 우리말 문장 대신 짧은 대화의 대답 자리에 우리말 힌트를 붙였다. 우리말에서 위치 말 ‘아래에’ 하나를 찾아 전치사만 견주면 되므로 판단 한 번, 읽을 양 37낱말(1.1배), 어휘(backpack, table)는 원문항 수준이다. 오답은 on(위에), behind(뒤에), next to(옆에), in front of(앞에)로 서로 헷갈리기 쉬운 위치 전치사다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Where is your backpack?\nB: _______ (내 책가방은 탁자 아래에 있어.)",
+  "c": [
+   "My backpack is under the table.",
+   "My backpack is on the table.",
+   "My backpack is behind the table.",
+   "My backpack is next to the table.",
+   "My backpack is in front of the table."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "5-81",
+  "variant": 2,
+  "ref_format": "우리말 문장에 해당하는 영어 문장 고르기(전치사만 다른 문장 보기 5개)",
+  "new_format": "우리말과 맞지 않는 문장을 바르게 고쳐 쓴 것 고르기(문장 전환, 전치사만 다른 문장 보기)",
+  "design": "같은 위치 전치사 규칙을, 우리말과 맞지 않는 영어 문장을 바르게 고친 문장 고르기로 바꾸었다. 우리말의 ‘옆에’에 맞는 전치사 하나만 찾으면 되므로 판단 한 번, 읽을 양 39낱말(1.2배), 사물(shoes, bed)은 원문항·B~F·다른 변형에 없는 쉬운 낱말이다. 정답은 next to이고, 오답은 on(위에), between(사이에), under(아래에), in front of(앞에)이며, 틀린 문장의 behind는 보기에 넣지 않았다.",
+  "stem": "다음 문장을 우리말에 맞게 바르게 고친 것을 고르시오.",
+  "passage": "신발이 침대 옆에 있다.\nThe shoes are behind the bed.",
+  "c": [
+   "The shoes are on the bed.",
+   "The shoes are between the beds.",
+   "The shoes are next to the bed.",
+   "The shoes are under the bed.",
+   "The shoes are in front of the bed."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "5-81",
+  "variant": 3,
+  "ref_format": "우리말 문장에 해당하는 영어 문장 고르기(전치사만 다른 문장 보기 5개)",
+  "new_format": "밑줄 친 전치사의 뜻이 주어진 우리말인 문장 고르기(우리말 문장→전치사 뜻 찾기, 서로 다른 문장 보기)",
+  "design": "위치 전치사의 뜻을 확인하는 점은 같고, 우리말 문장을 주는 대신 ‘~ 뒤에’라는 뜻의 전치사가 쓰인 문장을 찾게 했다(변형 1의 under, 변형 2의 next to와 겹치지 않게 목표 뜻을 ‘뒤에’로 했다). 밑줄 친 전치사 다섯 개 중 behind 하나를 찾는 것이라 판단 한 번, 읽을 양 34낱말(1.0배)이며 꾸밈말 없이 원래 두 낱말인 명사(classroom wall, park bench, post office)로 길이를 맞췄고 어휘는 초등 수준이다. 오답은 on(위에), between(사이에), under(아래에), next to(옆에)다.",
+  "stem": "다음 중 밑줄 친 전치사의 뜻이 ‘~ 뒤에’인 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "The clock is <u>on</u> the classroom wall.",
+   "Mina sits <u>between</u> Tom and Jane.",
+   "The puppy sleeps <u>under</u> the park bench.",
+   "The bank is <u>behind</u> the post office.",
+   "My school is <u>next to</u> the library."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "5-82",
+  "variant": 1,
+  "ref_format": "우리말이 주어진 영어 문장에서 in이 들어갈 위치(①~⑤) 고르기",
+  "new_format": "섞인 낱말을 우리말에 맞게 배열할 때 맨 마지막에 오는 낱말 고르기(위치 번호 보기→낱말 보기, 배열)",
+  "design": "전치사 in은 장소 명사 바로 앞에 오고 문장 끝에 홀로 남지 않는다는 규칙을, 섞인 낱말을 배열할 때 맨 마지막에 오는 말 고르기로 확인한다(변형 2의 ‘in 바로 뒤’, 변형 3의 ‘in의 순서’와 묻는 내용이 다름). My mom sells bread까지는 저절로 놓이므로 실제 판단은 in을 Gwangju 앞에 두느냐 하나이고, 읽을 양은 낱말 카드 6개와 보기 5개(11낱말, 원문항 + 8낱말 이내)이며 자리가 자유로운 부사는 넣지 않았다. 오답 in은 우리말 ‘광주에서’ 순서대로 Gwangju in으로 쓰는 실수, sells는 우리말처럼 동사를 끝에 두는 실수이고, 장소구를 앞으로 빼면 끝에 오는 bread는 보기에서 빼 정답이 하나만 되게 했다.",
+  "stem": "다음 낱말들을 우리말에 맞게 배열할 때, 맨 마지막에 오는 말을 고르시오.",
+  "passage": "우리 엄마는 광주에서 빵을 파신다.\n(Gwangju / bread / in / sells / mom / my)",
+  "c": [
+   "mom",
+   "in",
+   "sells",
+   "my",
+   "Gwangju"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "5-82",
+  "variant": 2,
+  "ref_format": "우리말이 주어진 영어 문장에서 in이 들어갈 위치(①~⑤) 고르기",
+  "new_format": "우리말을 영어로 옮길 때 in 바로 뒤에 오는 낱말 고르기(위치 번호 보기→낱말 보기, 제시어 없음)",
+  "design": "in이 장소 명사 바로 앞에 온다는 같은 규칙을, 자리 번호 대신 ‘in 바로 뒤에 오는 말’을 고르게 하여 확인한다. 우리말 ‘일본에서’에서 in Japan을 떠올리면 되므로 판단 한 번, 읽을 양은 낱말 5개(원문항 4낱말과 같은 수준)이고, 주어·동사(teacher, is traveling)는 원문항·B~F의 ‘My + 가족 + lives/works’ 틀과 다르게 했다. 오답 traveling은 우리말 순서대로 Japan in traveling으로 쓰는 실수, is는 in을 동사 앞에 두는 실수에 해당하며 our·teacher는 주어 자리 낱말이다.",
+  "stem": "다음 우리말을 영어로 옮길 때, in 바로 뒤에 오는 말을 고르시오.",
+  "passage": "우리 선생님은 일본에서 여행하고 계신다.",
+  "c": [
+   "Japan",
+   "our",
+   "is",
+   "traveling",
+   "teacher"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "5-82",
+  "variant": 3,
+  "ref_format": "우리말이 주어진 영어 문장에서 in이 들어갈 위치(①~⑤) 고르기",
+  "new_format": "섞인 낱말을 배열할 때 in이 몇 번째에 오는지 고르기(배열, 순서 보기)",
+  "design": "in이 장소 명사(the yard) 바로 앞에 온다는 규칙을, 섞인 낱말 다섯 개를 우리말에 맞게 배열할 때 in의 순서로 확인한다. Ben plays까지는 저절로 놓이므로 실제 판단은 in을 the yard 앞에 두느냐 하나이고, 읽을 양은 낱말 5개로 원문항과 같으며 어휘(plays, yard)는 쉽다. 정답은 세 번째이고, 오답 다섯 번째는 우리말 순서대로 the yard in으로 쓰는 실수, 두 번째는 in을 동사 앞에 두는 실수에 해당한다. 짧은 동작 문장이라 장소구를 문장 앞으로 빼는 어순(In the yard Ben plays)은 어색하여 ‘첫 번째’로 보기 어렵고, in이 두 번째에 오는 평서문은 만들 수 없어 권장 위치(②) 대신 ③을 정답으로 했다.",
+  "stem": "다음 낱말들을 우리말에 맞게 배열할 때, in은 몇 번째에 오는지 고르시오.",
+  "passage": "Ben은 마당에서 논다.\n(yard / plays / in / Ben / the)",
+  "c": [
+   "첫 번째",
+   "두 번째",
+   "세 번째",
+   "네 번째",
+   "다섯 번째"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "5-91",
+  "variant": 1,
+  "ref_format": "우리말이 주어진 문장의 빈칸에 알맞은 접속사 고르기(낱말 보기)",
+  "new_format": "짧은 대화의 빈칸에 알맞은 접속사 고르기(평서문→대화, 낱말 보기)",
+  "design": "and(나열)·or(선택)·but(대조)의 뜻 구별을 그대로 확인하되, 우리말이 붙은 평서문 대신 짧은 대화의 물음에 빈칸을 두었고 소재도 음료가 아닌 사람(형제·사촌)으로 바꾸었다. 우리말 ‘아니면’에 맞는 접속사 하나를 고르는 판단 한 번, 읽을 양 16낱말(대화 표시 A·B 포함, 원문항 11낱말 + 8낱말 이내), 어휘(brother, cousin)는 쉬운 수준이며 B의 대답은 완전한 문장이다. 오답은 나열의 and와 so·because·before이며, 5급 접속사 수가 적어 원문항·B유형과 보기 3개가 겹치는 것은 피할 수 없었다(4개 이상 겹치지 않게 when·after는 뺐다).",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Is he your brother _______ cousin? (그 애는 네 형제니, 아니면 사촌이니?)\nB: He is my cousin.",
+  "c": [
+   "and",
+   "so",
+   "because",
+   "or",
+   "before"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "5-91",
+  "variant": 2,
+  "ref_format": "우리말이 주어진 문장의 빈칸에 알맞은 접속사 고르기(낱말 보기)",
+  "new_format": "우리말을 영어로 옮길 때 필요 없는 낱말 고르기(배열형, 낱말 보기)",
+  "design": "or(선택)와 and(나열)의 구별을, 빈칸 채우기 대신 섞인 낱말 중 문장에 필요 없는 낱말 찾기로 바꾸었다. 우리말 ‘아니면’이 or이므로 and가 남는다는 판단 한 번, 읽을 양 12낱말(1.1배), 어휘(grapes, oranges, eat)는 쉬운 수준이다. 오답 or는 ‘아니면’을 and로 아는 학생이 고르기 쉽고, can·oranges·eat은 문장에 꼭 필요한 낱말이다.",
+  "stem": "다음 우리말을 영어로 옮길 때 필요 없는 낱말을 고르시오.",
+  "passage": "너는 포도 아니면 오렌지를 먹을 수 있어.\n(oranges / can / or / you / and / eat / grapes)",
+  "c": [
+   "can",
+   "or",
+   "oranges",
+   "eat",
+   "and"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "5-91",
+  "variant": 3,
+  "ref_format": "우리말이 주어진 문장의 빈칸에 알맞은 접속사 고르기(낱말 보기)",
+  "new_format": "영어 문장의 밑줄 친 or의 우리말 뜻 고르기(우리말→영어를 영어→우리말로 방향 전환, 우리말 보기)",
+  "design": "or가 ‘아니면’(선택)이라는 같은 지식을, 영어 문장 속 or의 우리말 뜻 고르기로 방향을 바꾸어 확인한다. 밑줄 친 or의 뜻 하나만 판단하면 되므로 판단 한 번, 읽을 양 14낱말(1.3배), 어휘(park, stay, afternoon)는 초등 수준이다. 오답은 and(그리고), but(그러나), so(그래서), when(~할 때)의 뜻이다.",
+  "stem": "다음 문장에서 밑줄 친 or의 뜻으로 알맞은 것을 고르시오.",
+  "passage": "Do you want to go to the park <u>or</u> stay at home this afternoon?",
+  "c": [
+   "아니면",
+   "그리고",
+   "그러나",
+   "그래서",
+   "~할 때"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "5-92",
+  "variant": 1,
+  "ref_format": "‘형용사 and _______’ 문장의 빈칸에 들어갈 수 없는 낱말 고르기(낱말 보기)",
+  "new_format": "‘형용사 and 낱말’ 짧은 구 5개 중 어법상 어색한 것 고르기(낱말 보기→짧은 구 보기)",
+  "design": "and는 같은 품사끼리 잇는다(형용사 and 형용사)는 규칙을, 빈칸 대신 ‘형용사 and 낱말’ 구 5개에서 어색한 것 찾기로 확인한다. 구마다 and 뒤 낱말이 형용사인지 한 번씩 보는 판단 5개로 원문항과 같고, 읽을 양 15낱말(원문항 9낱말 + 8낱말 이내), 어휘(heavy, hungry, windy)는 초등 수준이며 B~F·다른 변형에 없는 짝으로 만들었다. 정답은 형용사 old 뒤에 부사 slowly를 이은 것이고, lonely는 -ly로 끝나지만 형용사라는 함정으로 원문항의 lovely와 같은 구실을 한다.",
+  "stem": "다음 중 어법상 어색한 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "big and heavy",
+   "old and slowly",
+   "sad and lonely",
+   "hungry and tired",
+   "cold and windy"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "5-92",
+  "variant": 2,
+  "ref_format": "‘형용사 and _______’ 문장의 빈칸에 들어갈 수 없는 낱말 고르기(낱말 보기)",
+  "new_format": "짧은 대화의 빈칸에 들어갈 수 없는 낱말 고르기(평서문→대화)",
+  "design": "같은 규칙(be동사 뒤 형용사 and 형용사)을 짧은 대화의 대답 문장 빈칸으로 옮겼고, 주어와 and 앞 형용사(He, black)·보기 낱말은 원문항·B~F·다른 변형에 없는 것으로 새로 썼다(소재는 강아지). 보기 다섯 낱말이 형용사인지 한 번씩 보는 판단 5개, 읽을 양 16낱말(대화 표시 A·B 포함, 원문항 9낱말 + 8낱말 이내), 어휘(white, young, shy)는 원문항보다 쉽다. 정답은 부사 happily(형용사 happy와 헷갈리기 쉬움)이고, silly는 -ly로 끝나는 형용사 함정으로 원문항의 lovely에 해당한다.",
+  "stem": "다음 대화의 빈칸에 들어갈 수 없는 것을 고르시오.",
+  "passage": "A: Tell me about your puppy.\nB: He is black and _______.",
+  "c": [
+   "white",
+   "young",
+   "happily",
+   "silly",
+   "shy"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "5-92",
+  "variant": 3,
+  "ref_format": "‘형용사 and _______’ 문장의 빈칸에 들어갈 수 없는 낱말 고르기(낱말 보기)",
+  "new_format": "짧은 글의 형용사 자리(①~⑤) 중 어법상 틀린 것 고르기(빈칸 채우기→오류 위치 찾기)",
+  "design": "and로 이어진 말은 품사가 같아야 한다(형용사 and 형용사)는 규칙을, 두 문장짜리 짧은 글에서 and로 이어진 형용사 자리 다섯 곳 중 틀린 곳 찾기로 바꾸었다. 번호마다 형용사인지 한 번씩 보는 판단 5개로 원문항과 같고, 읽을 양 12낱말(1.3배), 어휘(hair, curly, kind)는 초등 수준이다. 정답은 형용사 tall, kind와 and로 이어진 자리에 부사 gently를 쓴 ⑤이고, ② curly는 -ly로 끝나지만 형용사라는 함정(원문항의 lovely 구실)이라 -ly 모양만으로는 고를 수 없다.",
+  "stem": "다음 글에서 어법상 틀린 부분을 고르시오.",
+  "passage": "Sue's hair is ① long and ② curly. She is ③ tall, ④ kind, and ⑤ gently.",
+  "c": [
+   "①",
+   "②",
+   "③",
+   "④",
+   "⑤"
+  ],
+  "ans": 5
+ }
+]

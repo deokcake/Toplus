@@ -1,0 +1,70 @@
+[
+ {
+  "key": "4-101",
+  "variant": 3,
+  "ref_format": "한 문장의 ①~⑤ 밑줄 부분 중 목적어에 해당하는 것 고르기(문장 성분 찾기)",
+  "new_format": "같은 동사(cooked)가 쓰인 짧은 문장 5개 중 목적어가 있는 문장 고르기(밑줄 없음)",
+  "design": "‘목적어는 동사의 동작을 받는 말(~을/를)로 동사 바로 뒤에 오는 명사구’라는 규칙을, 같은 동사 cooked가 쓰인 짧은 문장 다섯 개 가운데 cooked 뒤에 ‘무엇을?’에 답하는 말이 있는 문장을 고르는 형식으로 바꿨다. 동사가 모두 같아 동사만 보고는 가릴 수 없고 동사 뒤의 말이 목적어인지만 판단하면 되므로 판단은 보기마다 한 번씩 다섯 번이며, 읽을 양은 22낱말(원문항 22낱말), 어휘(kitchen, chicken soup, together, evening)는 원문항 수준이다. 오답은 동사 뒤에 전치사구(in the kitchen, with his sister)·부사(together yesterday)·때를 나타내는 명사구(all evening)만 있는 문장으로, 원문항의 for breakfast·this morning처럼 전치사 뒤 명사나 때를 나타내는 말을 목적어로 착각하는 실수를 겨냥했다.",
+  "stem": "다음 중 목적어가 있는 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Dad cooked in the kitchen.",
+   "Mom cooked chicken soup.",
+   "We cooked together yesterday.",
+   "Yuna cooked all evening.",
+   "Tom cooked with his sister."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "4-102",
+  "variant": 1,
+  "ref_format": "감각동사 뒤 빈칸에 들어갈 수 없는 말 고르기(낱말 보기, 틀린 것 고르기)",
+  "new_format": "밑줄 친 보어가 어법상 틀린 문장 고르기(3낱말 문장 보기 5개, 보기마다 밑줄 한 군데)",
+  "design": "감각동사(look·smell·sound·feel·seem) 뒤에는 형용사가 오고 부사·명사는 올 수 없으며 -ly로 끝나도 형용사인 말이 있다는 규칙을, 낱말 보기 대신 3낱말 문장 다섯 개의 밑줄 친 보어를 판정하는 형식으로 바꿨다. 판단은 원문항과 같이 보기마다 한 번씩 다섯 번이고, 읽을 양은 15낱말(원문항 7낱말 + 8낱말 이내), 어휘(sour, lonely, sad, sleepy, busy)는 원문항 수준이며 B~F에 나온 ‘감각동사+형용사’ 짝은 다시 쓰지 않았다. 정답 sadly는 감각동사 뒤에 부사를 쓰는 대표적 실수로 다른 뜻으로 읽힐 여지가 없는 seems 뒤에 두었고, feels 뒤의 lonely는 원문항의 lovely처럼 -ly 때문에 부사로 착각하게 하는 함정이다.",
+  "stem": "다음 중 밑줄 친 부분이 어법상 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "It smells <u>sour</u>.",
+   "Jisu feels <u>lonely</u>.",
+   "He seems <u>sadly</u>.",
+   "You sound <u>sleepy</u>.",
+   "Dad looks <u>busy</u>."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "4-102",
+  "variant": 2,
+  "ref_format": "감각동사 뒤 빈칸에 들어갈 수 없는 말 고르기(낱말 보기, 틀린 것 고르기)",
+  "new_format": "감각동사 뒤 빈칸에 들어갈 알맞은 말 고르기(옳은 것 고르기, 낱말 보기)",
+  "design": "같은 규칙을 ‘들어갈 수 없는 말’ 대신 ‘들어갈 수 있는 말(형용사)’을 고르는 반대 방향으로 바꿨다. 주어를 스스로 무엇을 볼 수 없는 사물(Your new jacket)로 해 looks가 ‘~해 보이다’로만 읽히게 했고, 빈칸 하나·보기 다섯 낱말·9낱말(원문항 7낱말)로 판단 개수와 읽을 양을 맞췄으며 어휘(jacket, beauty, perfect)는 원문항 수준이다. 오답은 감각동사 뒤에 부사를 쓰는 실수(badly, greatly, nicely)와 명사를 쓰는 실수(beauty)로 만들었고, 형태만 보고 고를 수 없도록 -ly가 아닌 낱말을 둘(beauty, perfect) 두었다.",
+  "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "Your new jacket looks _______.",
+  "c": [
+   "badly",
+   "beauty",
+   "greatly",
+   "nicely",
+   "perfect"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "4-102",
+  "variant": 3,
+  "ref_format": "감각동사 뒤 빈칸에 들어갈 수 없는 말 고르기(낱말 보기, 틀린 것 고르기)",
+  "new_format": "짧은 대화의 빈칸에 들어갈 알맞은 말 고르기(대화 빈칸, 낱말 보기)",
+  "design": "원문항 핵심 규칙 중 ‘-ly로 끝나도 형용사인 말(friendly)이 감각동사 뒤에 온다’는 부분을 짧은 대화의 빈칸으로 확인한다. A가 새 선생님에 대해 말하고 B가 그 말을 듣고 ‘~인 것 같다’고 답하는 대화라 sounds는 ‘~하게 들리다’로만 읽히며, 판단은 보기마다 한 번씩 다섯 번·14낱말(원문항 7낱말 + 7낱말)로 부담이 같고 어휘(teacher, smile, friendly, happiness, quietly)는 쉽다. 오답은 부사(nicely, quietly)와 명사(happiness, sadness)로, 보기가 모두 -ly 또는 -ness 꼴이라 겉모양으로는 고를 수 없고 friendly가 형용사임을 알아야 맞힌다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: My new teacher always smiles.\nB: She sounds _______.",
+  "c": [
+   "friendly",
+   "nicely",
+   "happiness",
+   "quietly",
+   "sadness"
+  ],
+  "ans": 1
+ }
+]

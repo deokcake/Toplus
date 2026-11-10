@@ -1,0 +1,178 @@
+[
+ {
+  "key": "6-101",
+  "grade": 6,
+  "no": 101,
+  "chapter": "CH 11",
+  "chapter_name": "명령문과 제안문",
+  "ref": {
+   "stem": "다음 빈칸에 알맞은 것을 고르시오.",
+   "passage": "_______ me your wish.\n(너의 소원을 말해줘.)",
+   "c": [
+    "Telling",
+    "Tells",
+    "Tell",
+    "Told",
+    "Telled"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 명령문은 주어(You) 없이 동사원형으로 시작한다.\n풀이 순서: ① 우리말이 ‘말해줘’라고 시키는 말이다. 명령문이다. → ② 명령문의 첫 낱말은 동사원형이다. -s형, -ing형, to부정사, 과거형, Does를 붙인 것을 지운다. → ③ 정답은 Tell.\n문장별 판정:\n정답 판단: 동사원형 Tell로 시작하므로 정답은 ③이다.\n선택지 분석:\n① [오답] -ing형으로는 명령문을 시작할 수 없으므로 오답이다.\n② [오답] -s형으로는 명령문을 시작할 수 없으므로 오답이다.\n③ [정답] 동사원형 Tell로 시작하므로 정답이다.\n④ [오답] 과거형으로는 명령문을 시작할 수 없으므로 오답이다.\n⑤ [오답] Telled라는 형태는 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 알맞은 것을 고르시오.",
+    "passage": "_______ me your book.\n(네 책을 나에게 보여 줘.)",
+    "c": [
+     "To show",
+     "Does show",
+     "Showing",
+     "Shows",
+     "Show"
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "다음 빈칸에 알맞은 것을 고르시오.",
+    "passage": "_______ me.\n(나를 따라와.)",
+    "c": [
+     "Following",
+     "Does follow",
+     "Follow",
+     "To follow",
+     "Follows"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 빈칸에 알맞은 것을 고르시오.",
+    "passage": "_______ me later.\n(나중에 나에게 전화해.)",
+    "c": [
+     "Does call",
+     "Call",
+     "To call",
+     "Calling",
+     "Calls"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 빈칸에 알맞은 것을 고르시오.",
+    "passage": "_______ me, please.\n(나를 도와줘.)",
+    "c": [
+     "Does help",
+     "Helping",
+     "To help",
+     "Helps",
+     "Help"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 빈칸에 알맞은 것을 고르시오.",
+    "passage": "_______ the door before you leave.\n(나가기 전에 문을 닫아라.)",
+    "c": [
+     "Closed",
+     "Close",
+     "To close",
+     "Closing",
+     "Closes"
+    ],
+    "ans": 2
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   2,
+   4,
+   5
+  ]
+ },
+ {
+  "key": "6-102",
+  "grade": 6,
+  "no": 102,
+  "chapter": "CH 11",
+  "chapter_name": "명령문과 제안문",
+  "ref": {
+   "stem": "빈칸에 들어갈 수 없는 것을 고르시오.",
+   "passage": "Don't _______.",
+   "c": [
+    "cry",
+    "take pictures",
+    "is late",
+    "open the window",
+    "take off your shoes"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 부정 명령문은 Don't + 동사원형이다. be동사도 원형 be를 쓴다(Don't be late).\n풀이 순서: ① Don't 뒤에는 동사원형만 온다. → ② 보기마다 첫 낱말이 동사원형인지 본다. → ③ 선택지 ③의 is는 be의 현재형이다(Don't be late). 정답은 ③.\n문장별 판정:\n정답 판단: Don't 뒤에는 is가 아니라 be를 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 동사원형이라 Don't 뒤에 쓸 수 있으므로 오답이다.\n② [오답] 동사원형으로 시작해 Don't 뒤에 쓸 수 있으므로 오답이다.\n③ [정답] Don't 뒤에는 is가 아니라 be를 써야 하므로 정답이다.\n④ [오답] 동사원형으로 시작해 Don't 뒤에 쓸 수 있으므로 오답이다.\n⑤ [오답] 동사원형으로 시작해 Don't 뒤에 쓸 수 있으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "빈칸에 들어갈 수 없는 것을 고르시오.",
+    "passage": "Don't _______.",
+    "c": [
+     "eat in class",
+     "be noisy",
+     "push the door",
+     "forgets your bag",
+     "worry about it"
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "빈칸에 들어갈 수 없는 것을 고르시오.",
+    "passage": "Don't _______.",
+    "c": [
+     "be shy",
+     "runs in the hall",
+     "waste water",
+     "feed the ducks",
+     "sit on the grass"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "빈칸에 들어갈 수 없는 것을 고르시오.",
+    "passage": "Don't _______.",
+    "c": [
+     "touch the dog",
+     "be sad",
+     "throw trash here",
+     "park your car here",
+     "are noisy"
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "빈칸에 들어갈 수 없는 것을 고르시오.",
+    "passage": "Don't _______.",
+    "c": [
+     "to eat snacks here",
+     "be afraid",
+     "use your phone",
+     "close your eyes",
+     "make noise"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "빈칸에 들어갈 수 없는 것을 고르시오.",
+    "passage": "Don't _______.",
+    "c": [
+     "climb the tree",
+     "stay up late",
+     "being rude",
+     "lose your ticket",
+     "be late again"
+    ],
+    "ans": 3
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   1,
+   2,
+   4
+  ]
+ }
+]

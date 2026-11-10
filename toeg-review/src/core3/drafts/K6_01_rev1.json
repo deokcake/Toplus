@@ -1,0 +1,172 @@
+[
+ {
+  "key": "6-1",
+  "variant": 1,
+  "ref_format": "명사의 단수형-복수형 짝 5개 중 잘못 짝지어진 것 고르기(낱말 짝 보기)",
+  "new_format": "단수형-복수형 짝 5개 중 바르게 짝지어진 것 고르기(옳은 것 고르기로 방향 전환)",
+  "design": "복수형 규칙(자음+y→-ies·모음+y→-s, s·x·sh·ch→-es, f/fe→-ves, 불규칙형, 단수·복수가 같은 명사)을 그대로 확인하되, 잘못된 짝 찾기를 바른 짝 찾기로 뒤집었다. 짝 5개를 하나씩 판단하는 것은 원문항과 같고 읽을 양(10낱말)·어휘(초등 4학년 명사)도 같다. 정답은 ch 뒤에 -es를 붙인 규칙형 bench - benches이고, 오답은 모음+y에 -ies를 붙인 toies, f를 v로 바꾸지 않은 leafs, 불규칙 복수형에 -s를 더 붙인 childrens, 단복 동형 deer에 -s를 붙인 deers로 실수의 종류를 섞어 정답만 형태가 튀지 않게 했다.",
+  "stem": "다음 중 명사의 단수형과 복수형이 바르게 짝지어진 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "toy - toies",
+   "bench - benches",
+   "leaf - leafs",
+   "child - childrens",
+   "deer - deers"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "6-1",
+  "variant": 2,
+  "ref_format": "명사의 단수형-복수형 짝 5개 중 잘못 짝지어진 것 고르기(낱말 짝 보기)",
+  "new_format": "짧은 문장의 빈칸에 들어갈 수 없는 복수형 낱말 고르기(문장 빈칸 + 낱말 보기)",
+  "design": "낱말 짝 보기를 짧은 문장의 빈칸에 넣는 복수형 낱말 보기로 바꾸어, 철자가 잘못된 복수형 하나를 찾게 했다. 보기 5개를 한 번씩 판단하는 것은 원문항과 같고 읽을 양 11낱말(1.1배)·어휘(초등 4학년 음식·부엌 명사)도 같으며, 수를 나타내는 말 대신 many를 써서 프리테스트(two gooses)와 틀을 달리했다. 정답은 자음+y에 -s만 붙인 candys(→candies)이고, 나머지는 -es(sandwiches, potatoes), -ves(knives), -s(cups)로 바르게 만든 복수형이라 정답만 형태가 튀지 않는다.",
+  "stem": "다음 빈칸에 들어갈 수 없는 것을 고르시오.",
+  "passage": "We have many _______ in the kitchen.",
+  "c": [
+   "sandwiches",
+   "knives",
+   "candys",
+   "potatoes",
+   "cups"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "6-2",
+  "variant": 1,
+  "ref_format": "‘a _______’ 문장의 빈칸에 들어갈 수 없는 명사 고르기(낱말 보기)",
+  "new_format": "‘a + 명사’ 구 5개 중 a를 바르게 쓴 것 고르기(낱말 보기→아주 짧은 구 보기, 옳은 것 고르기)",
+  "design": "a는 셀 수 있는 명사의 단수형 앞에만 쓴다는 규칙을 그대로 확인하되, 문장 빈칸 대신 ‘a + 명사’ 구 5개를 주고 바르게 쓴 것 하나를 고르게 해 모양과 방향을 함께 바꾸었다. 보기마다 a 뒤의 명사가 셀 수 있는지 한 번씩 판단하는 것은 원문항과 같고 읽을 양 10낱말(1.25배)·어휘(초등 4학년 음식·생활 명사)도 같다. 정답은 셀 수 있는 carrot이고, 오답은 B~F와 변형 2·3에 나오지 않은 셀 수 없는 명사 juice, sugar, meat, music으로 학생이 a를 붙이기 쉬운 것이다.",
+  "stem": "다음 중 a를 바르게 쓴 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "a carrot",
+   "a juice",
+   "a sugar",
+   "a meat",
+   "a music"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "6-2",
+  "variant": 2,
+  "ref_format": "‘a _______’ 문장의 빈칸에 들어갈 수 없는 명사 고르기(낱말 보기)",
+  "new_format": "짧은 대화의 ‘a _______’ 빈칸에 들어갈 수 있는 명사 고르기(대화 빈칸 + 방향 전환)",
+  "design": "같은 규칙을 짧은 대화의 빈칸으로 옮기고, 들어갈 수 없는 것 찾기를 들어갈 수 있는 것 찾기로 뒤집었다. a 뒤에 올 수 있는 셀 수 있는 명사 하나(cookie)를 고르며, 보기 5개를 한 번씩 보는 판단 개수·읽을 양 11낱말(원문항 + 3낱말)·어휘 수준이 원문항과 같다. 오답은 셀 수 없는 명사 milk, homework, money, butter로, 그중 homework는 우리말 ‘숙제 하나’ 때문에 학생이 a를 붙이기 쉬운 새 낱말로 넣었다.",
+  "stem": "다음 대화의 빈칸에 들어갈 수 있는 것을 고르시오.",
+  "passage": "A: What's this?\nB: It's a _______.",
+  "c": [
+   "milk",
+   "cookie",
+   "homework",
+   "money",
+   "butter"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "6-11",
+  "variant": 1,
+  "ref_format": "명사(구)-주격 대명사 짝 5개 중 잘못된 것 고르기(낱말 짝 보기)",
+  "new_format": "명사(구)-주격 대명사 짝 5개 중 바르게 바꾼 것 고르기(옳은 것 고르기로 방향 전환)",
+  "design": "여럿을 대명사로 받는 규칙(나 포함→we, 나 없이 너 포함→you, 둘 다 없으면 they, 한 사람·사물은 he/she/it)을 그대로 확인하되, 잘못된 짝 찾기를 바른 짝 찾기로 뒤집었다. 짝 5개를 한 번씩 판단하는 것은 원문항과 같고 읽을 양 20낱말·어휘(가족·친구 이름)도 같다. 정답은 ‘you and your sister → you’이고, 오답은 나가 든 짝을 they로, 복수 사물을 it으로, 할아버지를 she로, 나·너가 없는 두 사람을 we로 잘못 받은 것이다.",
+  "stem": "다음 중 주어진 말을 대명사로 바르게 바꾼 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Yuna and I - they",
+   "the birds - it",
+   "my grandfather - she",
+   "Sam and his dad - we",
+   "you and your sister - you"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "6-11",
+  "variant": 3,
+  "ref_format": "명사(구)-주격 대명사 짝 5개 중 잘못된 것 고르기(낱말 짝 보기)",
+  "new_format": "두 사람에 대해 묻는 짧은 대화에서 대답의 주어 빈칸에 들어갈 주격 대명사 고르기(대화 빈칸 + 낱말 보기)",
+  "design": "같은 규칙을 짧은 대화의 빈칸으로 옮겼다. A가 ‘Ben and his brother’ 두 사람에 대해 묻고 B가 그 두 사람을 대명사로 받는 한 곳만 판단하면 되며, 보기는 대명사 낱말 하나씩이고 빈칸 뒤 can은 주어에 따라 모양이 바뀌지 않아 대명사 규칙만으로 답이 갈린다. 읽을 양 20낱말(원문항 19)·어휘(baseball, play)도 비슷하고, 오답은 He·She(한 사람만 봄), We(나 포함으로 착각), You(상대로 착각)이다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Are Ben and his brother good at baseball?\nB: Yes. _______ can play very well.",
+  "c": [
+   "He",
+   "They",
+   "We",
+   "She",
+   "You"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "6-12",
+  "variant": 1,
+  "ref_format": "빈칸에 현재형 be동사를 넣을 때 나머지와 다른 문장 고르기(빈칸 문장 5개)",
+  "new_format": "be동사가 채워진 문장 5개 중 어법상 옳은 문장 고르기(옳은 것 고르기)",
+  "design": "현재형 be동사(am/is/are)를 주어에 맞게 쓰는 규칙을 그대로 확인하되, 빈칸 비교 대신 be동사가 들어간 문장 5개 중 옳은 문장 하나를 고르게 했다. 문장마다 주어와 be동사의 일치 한 곳만 판단하므로 판단 5개로 원문항과 같고, 다섯 문장을 모두 4낱말(모두 20낱말, 1.2배)로 맞춰 길이 단서를 없앴으며 어휘(sleepy, student, tall, kind, dancer)도 쉽다. 정답은 복수 주어에 are를 쓴 My parents are kind.이고, 오답은 단수 주어에 are, I에 is·are, You에 is를 쓴 실제 오류이며, 정답과 같은 복수 주어에 is를 쓴 보기는 넣지 않아 서로 맞서는 보기 쌍이 없다.",
+  "stem": "다음 중 어법상 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "The cat are sleepy.",
+   "I is a student.",
+   "You is very tall.",
+   "My parents are kind.",
+   "I are a dancer."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "6-12",
+  "variant": 2,
+  "ref_format": "빈칸에 현재형 be동사를 넣을 때 나머지와 다른 문장 고르기(빈칸 문장 5개)",
+  "new_format": "is가 주어진 한 문장의 주어 빈칸에 들어갈 말 고르기(동사→주어로 방향 전환, 낱말 보기)",
+  "design": "같은 규칙을 거꾸로 적용해, is가 이미 들어간 한 문장의 주어 자리에 올 수 있는 말을 고르게 했다. 보기 5개의 주어마다 is와 어울리는지 한 번씩 판단하는 것은 원문항과 같고, 읽을 양 17낱말(원문항 17)·어휘(kitchen, puppies, sister)도 같다. 정답은 3인칭 단수 My little sister이고, 오답은 are가 필요한 You and Minho·Her puppies·Dad and I와 am이 필요한 I로, 원문항의 ‘A and B’ 주어 함정을 그대로 살렸다.",
+  "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "_______ is in the kitchen now.",
+  "c": [
+   "You and Minho",
+   "I",
+   "Her puppies",
+   "Dad and I",
+   "My little sister"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "6-12",
+  "variant": 3,
+  "ref_format": "빈칸에 현재형 be동사를 넣을 때 나머지와 다른 문장 고르기(빈칸 문장 5개)",
+  "new_format": "be동사에 밑줄 친 문장 5개 중 밑줄 친 be동사가 잘못 쓰인 것 고르기(밑줄 오류 찾기)",
+  "design": "같은 규칙을 be동사가 이미 채워진 문장에서 밑줄 친 be동사가 틀린 것 찾기로 바꾸었다. 밑줄마다 주어와의 일치 한 곳만 판단하므로 판단 5개로 원문항과 같고, 읽을 양 20낱말(1.2배)·어휘(flowers, funny, sweet)도 쉬우며, 정답 문장의 주어를 프리테스트(He are)와 다른 복수 명사로 바꾸었다. 정답은 복수 주어 The flowers에 is를 쓴 것이고, 나머지는 I·You·단수 주어에 각각 am/are/is를 바르게 쓴 문장이며, 정답과 같은 복수 주어에 are를 쓴 보기는 넣지 않아 서로 맞서는 보기 쌍이 없다.",
+  "stem": "다음 중 밑줄 친 be동사가 잘못 쓰인 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "The flowers <u>is</u> pretty.",
+   "I <u>am</u> happy today.",
+   "You <u>are</u> so funny.",
+   "This apple <u>is</u> sweet.",
+   "Her dog <u>is</u> big."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "6-21",
+  "variant": 2,
+  "ref_format": "과거 시간 표현이 있는 문장의 빈칸에 알맞은 be동사 과거형 고르기(낱말 보기)",
+  "new_format": "과거 시간 표현이 앞에 나온 문장 가운데 빈칸에 들어갈 ‘주어 + be동사’ 짝 고르기(짝 보기)",
+  "design": "be동사는 과거 시간 표현과 함께 과거형을 쓰고 I·3인칭 단수면 was, you·복수면 were라는 규칙을 ‘주어 + be동사’ 짝 보기로 확인한다. 빈칸 하나에 짝 5개를 대 보며 현재형을 지우고 남은 과거형 가운데 주어에 맞는 것을 고르는 두 단계는 원문항(am·is·be를 지우고 was/were 가운데 고르기)과 같고, 읽을 양 13낱말·어휘(last night, hungry)도 쉽다. 오답은 시제를 놓친 현재형 I am·she is·they are와 I에 were를 쓴 I were로, 같은 부류의 주어를 was와 were로 갈라 놓은 맞서는 짝이 없어 규칙을 모르면 좁힐 수 없다.",
+  "stem": "다음 빈칸에 들어갈 주어와 be동사가 바르게 짝지어진 것을 고르시오.",
+  "passage": "Last night, _______ hungry.",
+  "c": [
+   "I am",
+   "she is",
+   "I were",
+   "we were",
+   "they are"
+  ],
+  "ans": 4
+ }
+]

@@ -1,0 +1,257 @@
+[
+ {
+  "key": "6-72",
+  "variant": 1,
+  "ref_format": "영어 문장의 우리말 의미 고르기(may not = ‘~이 아닐지도 모른다’)",
+  "new_format": "영어 문장을 우리말로 옮긴 번역문의 빈칸에 알맞은 말 고르기",
+  "design": "may not이 ‘~이 아닐지도 모른다’(추측)를 뜻한다는 핵심 규칙을 그대로 확인한다. 영어 문장 전체의 뜻을 고르던 원문항을, 영어 문장과 함께 준 우리말 번역의 빈칸을 채우는 형식으로 바꿨다. 판단은 may not의 뜻 한 가지로 같고 읽을 양은 영어 8낱말에 우리말 보기 5개로 원문항(6낱말+우리말 보기 5개)과 비슷하며 어휘는 cook·good 수준이다. 오답은 원문항과 같은 유형으로 cannot(될 수 없다)·must not(되면 안 된다)·don't have to(될 필요가 없다)·must(임에 틀림없다)의 뜻이다.",
+  "stem": "다음 문장을 우리말로 옮길 때 빈칸에 알맞은 말을 고르시오.",
+  "passage": "Mr. Han may not be a good cook.\n→ Han 씨는 _______.",
+  "c": [
+   "좋은 요리사가 될 수 없다",
+   "좋은 요리사가 되면 안 된다",
+   "좋은 요리사가 될 필요가 없다",
+   "좋은 요리사가 아닐지도 모른다",
+   "좋은 요리사임에 틀림없다"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "6-72",
+  "variant": 2,
+  "ref_format": "영어 문장의 우리말 의미 고르기(may not = ‘~이 아닐지도 모른다’)",
+  "new_format": "짧은 대화(A의 질문과 B의 짧은 대답)에서 B가 한 말의 우리말 의미 고르기",
+  "design": "may not = ‘~이 아닐지도 모른다’(추측)를 그대로 확인한다. 한 문장을 A의 질문(Is Ben at school?)과 B의 짧은 대답(He may not be there.)으로 바꿔 B의 말뜻을 고르게 했고, 보기를 모두 ‘학교에 있다/없다’로 맞춰 ‘있을 수 없어’·‘분명히 없어’도 대답으로 자연스럽게 남게 해 문맥이나 not의 유무만으로는 답이 나오지 않고 may not의 뜻을 알아야 가를 수 있게 했다. 판단은 may not의 뜻 한 가지로 같고 읽을 양은 영어 11낱말(대화 표시 포함, 원문항+8낱말 안)이며, 오답은 can't(있을 수 없어)·must not(있으면 안 돼)·must(틀림없어)의 뜻과 may 없이 단정한 뜻(분명히 없어, 같은 번호 B·C의 ‘절대’ 오답과 같은 유형)이다.",
+  "stem": "다음 대화에서 B가 한 말의 의미로 알맞은 것을 고르시오.",
+  "passage": "A: Is Ben at school?\nB: He may not be there.",
+  "c": [
+   "그는 학교에 있을 수 없어.",
+   "그는 학교에 있으면 안 돼.",
+   "그는 분명히 학교에 없어.",
+   "그는 학교에 있는 게 틀림없어.",
+   "그는 학교에 없을지도 몰라."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "6-72",
+  "variant": 3,
+  "ref_format": "영어 문장의 우리말 의미 고르기(may not = ‘~이 아닐지도 모른다’)",
+  "new_format": "영어 문장의 우리말 번역에서 잘못 옮긴 밑줄 부분을 바르게 고친 것 고르기",
+  "design": "may not = ‘~이 아닐지도 모른다’(추측)를 그대로 확인한다. 영어 문장과 그 우리말 번역을 함께 주고, cannot의 뜻(‘될 수 없다’)으로 잘못 옮긴 밑줄 부분을 바르게 고친 것을 고르는 형식으로 바꿨다. 판단은 may not의 뜻 한 가지로 같고 읽을 양은 영어 7낱말에 우리말 보기 5개로 원문항과 비슷하며 어휘는 woman·teacher 수준이다. 오답은 must not(되면 안 된다)·don't have to(될 필요가 없다)·must(임에 틀림없다)의 뜻과, 추측 없이 단순 부정(is not)으로 옮긴 ‘아니다’이다.",
+  "stem": "다음 문장을 우리말로 옮긴 것에서 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "That woman may not be a teacher.\n→ 저 여자는 <u>선생님이 될 수 없다</u>.",
+  "c": [
+   "선생님이 아닐지도 모른다",
+   "선생님이 되면 안 된다",
+   "선생님이 될 필요가 없다",
+   "선생님임에 틀림없다",
+   "선생님이 아니다"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "6-81",
+  "variant": 1,
+  "ref_format": "동사원형과 -ing형 쌍 다섯 개 중 잘못 짝지어진 것 고르기",
+  "new_format": "동사원형과 -ing형 쌍 다섯 개 중 바르게 짝지어진 것 고르기",
+  "design": "-ing형 만들기 규칙(-e는 e를 빼고, 단모음+단자음은 자음을 겹치고, -ie는 y로 바꾸고, 나머지는 그대로)을 그대로 확인한다. ‘잘못 짝지어진 것’을 ‘바르게 짝지어진 것’으로 뒤집어 다섯 쌍 중 옳은 하나(shop - shopping)를 찾게 했고, 판단은 다섯 쌍을 한 번씩 보는 것으로 같으며 읽을 양은 10낱말로 같고 동사는 close·shop·tie·drop·jump로 모두 1음절의 쉬운 동사라 강세 같은 규칙 밖 지식이 필요 없다. 오답은 e를 빼지 않은 closeing, ie를 y로 바꾸지 않은 tieing, 자음을 겹치지 않은 droping, 자음 둘로 끝나 겹치면 안 되는데 겹친 jumpping으로 학생이 실제로 자주 틀리는 철자다.",
+  "stem": "다음 중 동사원형과 -ing형이 바르게 짝지어진 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "close - closeing",
+   "shop - shopping",
+   "tie - tieing",
+   "drop - droping",
+   "jump - jumpping"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "6-81",
+  "variant": 2,
+  "ref_format": "동사원형과 -ing형 쌍 다섯 개 중 잘못 짝지어진 것 고르기",
+  "new_format": "현재진행형 문장의 빈칸에 들어갈 말 고르기(서로 다른 동사 다섯 개의 -ing형 중 철자가 바른 것)",
+  "design": "-ing형 철자 규칙을 그대로 확인한다. 낱말 쌍 대신 현재진행형 문장(My baby sister is _______ on the sofa.)의 빈칸에 들어갈 말을 고르게 하되, 보기를 의미상 모두 빈칸에 들어갈 수 있는 서로 다른 동사 다섯 개의 -ing형으로 두어 진행형 구조가 아니라 철자만으로 정답(smiling: e를 빼는 규칙, 원문항 정답 give와 같은 유형)이 갈리게 했다. 판단은 다섯 낱말을 한 번씩 보는 것으로 원문항과 같고 읽을 영어는 13낱말(원문항 10낱말), 어휘는 baby·sofa·wave·clap·eat·smile·sleep 수준이며, 오답은 e를 빼지 않은 waveing, 자음을 겹치지 않은 claping, 모음이 둘이라 겹치면 안 되는데 겹친 eatting·sleepping이다.",
+  "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "Look! My baby sister is _______ on the sofa.",
+  "c": [
+   "waveing",
+   "claping",
+   "eatting",
+   "smiling",
+   "sleepping"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "6-81",
+  "variant": 3,
+  "ref_format": "동사원형과 -ing형 쌍 다섯 개 중 잘못 짝지어진 것 고르기",
+  "new_format": "짧은 현재진행형 문장 다섯 개 중 밑줄 친 -ing형이 어법상 틀린 것 고르기",
+  "design": "-ing형 철자 규칙을 그대로 확인한다. 낱말 쌍 대신 be동사+-ing형이 든 아주 짧은 문장 다섯 개를 주고 밑줄 친 -ing형의 철자가 틀린 하나(skateing: e를 빼지 않음, 원문항 정답과 같은 유형)를 찾게 했다. 판단은 문장마다 -ing형 한 군데씩 다섯 번으로 원문항과 같고 읽을 양은 15낱말(문장마다 3낱말)이며, 옳은 보기의 동사는 같은 번호 원문항·B~F에 없는 bake·hug·cook·laugh로 새로 골라 e 탈락(baking), 자음 겹침(hugging), 그대로 붙임(cooking·laughing)이 바르게 된 문장으로 두었다.",
+  "stem": "다음 중 밑줄 친 부분이 어법상 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Mina is <u>baking</u>.",
+   "We are <u>hugging</u>.",
+   "Dad is <u>cooking</u>.",
+   "They are <u>laughing</u>.",
+   "I am <u>skateing</u>."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "6-82",
+  "variant": 1,
+  "ref_format": "우리말과 같은 뜻의 영어 문장 고르기(현재진행형 am/is/are+-ing)",
+  "new_format": "다섯 문장 중 어법상 옳은 문장 고르기(현재진행형)",
+  "design": "‘지금 ~하고 있다’는 am/is/are+동사원형-ing로 쓴다는 핵심 규칙을 그대로 확인한다. 우리말 번역 고르기를 우리말 없이 다섯 문장 중 어법상 옳은 것 고르기로 바꿨고, 판단은 문장 다섯 개에서 be동사+-ing형을 확인하는 것으로 같으며 읽을 양은 28낱말로 같고 어휘는 brush·cook·soccer·draw·sing 수준이다. 오답은 원문항과 같은 유형으로 be동사가 빠진 것(cooking), be동사 뒤에 동사원형을 쓴 것(are play), being을 쓴 것(being drawing), be동사 뒤에 3인칭 단수형을 쓴 것(is sings)이며 각각 한 군데만 틀리다.",
+  "stem": "다음 중 어법상 옳은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Jina is brushing her teeth now.",
+   "My dad cooking dinner now.",
+   "We are play soccer now.",
+   "Tom being drawing a picture now.",
+   "She is sings a song now."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "6-82",
+  "variant": 2,
+  "ref_format": "우리말과 같은 뜻의 영어 문장 고르기(현재진행형 am/is/are+-ing)",
+  "new_format": "짧은 대화에서 ‘지금 같이 놀 수 있니?’에 대한 B의 대답 문장 고르기",
+  "design": "현재진행형 be+-ing 규칙을 그대로 확인한다. 우리말 번역 고르기를 짧은 대화의 빈칸에 들어갈 B의 대답 고르기로 바꿨고, A의 말(Can your sister play with us now?)에는 be동사+-ing가 없어 정답의 틀을 알려 주지 않으므로 보기 다섯 문장에서 진행형 형태를 스스로 판단해야 한다. 판단은 다섯 문장에서 be동사+-ing형을 확인하는 것으로 같고 읽을 양은 34낱말(원문항 28낱말), 어휘는 sister·play·clean·room 수준이며, 오답은 be동사가 빠진 cleaning, be동사 뒤 동사원형 clean, being cleaning, be동사 뒤 3인칭 단수형 cleans로 각각 한 군데만 틀리다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Can your sister play with us now?\nB: No. _______",
+  "c": [
+   "She cleaning her room.",
+   "She is cleaning her room.",
+   "She is clean her room.",
+   "She being cleaning her room.",
+   "She is cleans her room."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "6-82",
+  "variant": 3,
+  "ref_format": "우리말과 같은 뜻의 영어 문장 고르기(현재진행형 am/is/are+-ing)",
+  "new_format": "현재형 문장을 현재진행형으로 바르게 바꾼 문장 고르기(문장 전환)",
+  "design": "현재진행형 be+-ing 규칙을 그대로 확인한다. 우리말 번역 고르기를 현재형 문장을 현재진행형으로 바르게 바꾼 것 고르기(문장 전환)로 바꿨고, 판단은 다섯 문장에서 be동사+-ing형을 확인하는 것으로 같으며 읽을 양은 28낱말로 같고 어휘는 dad·wash·car 수준이다. 오답은 be동사 뒤 동사원형(is wash), be동사가 빠진 것(washing), being washing, be동사 뒤 3인칭 단수형(is washes)으로 각각 한 군데만 틀리다.",
+  "stem": "다음 문장을 현재진행형으로 바르게 바꾼 것을 고르시오.",
+  "passage": "Dad washes his car.",
+  "c": [
+   "Dad is wash his car.",
+   "Dad washing his car.",
+   "Dad being washing his car.",
+   "Dad is washing his car.",
+   "Dad is washes his car."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "6-91",
+  "variant": 1,
+  "ref_format": "동사원형과 -ing형 쌍 다섯 개 중 잘못 짝지어진 것 고르기",
+  "new_format": "짧은 과거진행형 문장 다섯 개 중 밑줄 친 -ing형이 어법상 옳은 것 고르기",
+  "design": "-ing형 철자 규칙(단모음+단자음은 자음을 겹치고, -e는 e를 빼고, 나머지는 그대로)을 그대로 확인한다. 낱말 쌍 대신 was/were+-ing형이 든 아주 짧은 문장 다섯 개를 주고 밑줄 친 -ing형이 바르게 쓰인 하나(jogging)를 고르게 했으며, 동사는 같은 번호 원문항·B~F에 없는 help·hide·dig·clean·jog로 새로 골랐다. 판단은 문장마다 한 군데씩 다섯 번으로 같고 읽을 양은 15낱말(문장마다 3낱말)이며, 오답은 자음을 겹치지 않은 diging(원문항 정답 cuting과 같은 유형), e를 빼지 않은 hideing, 겹치면 안 되는 자음을 겹친 helpping(자음 둘)·cleanning(모음 둘)이다.",
+  "stem": "다음 중 밑줄 친 부분이 어법상 옳은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "I was <u>helpping</u>.",
+   "She was <u>hideing</u>.",
+   "He was <u>diging</u>.",
+   "They were <u>cleanning</u>.",
+   "We were <u>jogging</u>."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "6-91",
+  "variant": 2,
+  "ref_format": "동사원형과 -ing형 쌍 다섯 개 중 잘못 짝지어진 것 고르기",
+  "new_format": "짧은 대화의 빈칸에 들어갈 말 고르기(서로 다른 동사 다섯 개의 -ing형 중 철자가 바른 것)",
+  "design": "-ing형 철자 규칙(단모음+단자음은 자음을 겹치고, -e는 e를 빼고, 나머지는 그대로)을 그대로 확인한다. 낱말 쌍 대신 짧은 대화(A: Where were the kids? B: They were _______ outside.)의 빈칸에 들어갈 말을 고르게 하되, 보기를 의미상 모두 들어갈 수 있는 서로 다른 동사 다섯 개의 -ing형으로 두어 진행형 구조가 아니라 철자만으로 정답(singing)이 갈리게 했고, A의 말에는 진행형이 없다. 판단은 다섯 낱말을 한 번씩 보는 것으로 원문항과 같고 읽을 영어는 14낱말(원문항 10낱말)이며, 오답은 자음을 겹치지 않은 naping·skiping(원문항 정답 cuting과 같은 유형), e를 빼지 않은 danceing, 모음이 둘이라 겹치면 안 되는데 겹친 readding이다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Where were the kids?\nB: They were _______ outside.",
+  "c": [
+   "singing",
+   "danceing",
+   "naping",
+   "readding",
+   "skiping"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "6-91",
+  "variant": 3,
+  "ref_format": "동사원형과 -ing형 쌍 다섯 개 중 잘못 짝지어진 것 고르기",
+  "new_format": "동사원형과 -ing형 쌍 다섯 개 중 바르게 짝지어진 것 고르기",
+  "design": "-ing형 철자 규칙을 그대로 확인한다. ‘잘못 짝지어진 것’을 ‘바르게 짝지어진 것’으로 뒤집어 다섯 쌍 중 옳은 하나(plan - planning, 자음 겹침)를 찾게 했고, 동사는 같은 번호 원문항·B~F와 다른 변형(6-81 변형 포함)에 없는 take·plan·pat·move·dream으로 골랐다. 판단은 다섯 쌍을 한 번씩 보는 것으로 같고 읽을 양은 10낱말로 같으며, 오답은 e를 빼지 않은 takeing·moveing, 자음을 겹치지 않은 pating(원문항 정답 cuting과 같은 유형), 모음이 둘이라 겹치면 안 되는데 겹친 dreamming으로 학생이 실제로 자주 틀리는 철자다.",
+  "stem": "다음 중 동사원형과 -ing형이 바르게 짝지어진 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "take - takeing",
+   "plan - planning",
+   "pat - pating",
+   "move - moveing",
+   "dream - dreamming"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "6-92",
+  "variant": 1,
+  "ref_format": "우리말과 같은 뜻의 영어 문장 고르기(과거진행형 was/were+-ing)",
+  "new_format": "짧은 대화에서 과거 때(yesterday)에 맞는 B의 대답 문장 고르기(우리말 힌트 없음)",
+  "design": "‘(그때) ~하고 있었다’는 was/were+동사원형-ing로 쓰고 단수 주어에는 was를 쓴다는 핵심 규칙을 그대로 확인한다. 우리말 옮기기를 짧은 대화(A: Did you play soccer yesterday? B: No. _______)의 대답 고르기로 바꿔 우리말 힌트 없이 A의 말에 든 과거 때(yesterday)를 보고 과거진행형을 고르게 했고, A의 말에는 was/were가 없어 형태의 단서가 되지 않는다. 판단은 다섯 문장에서 시제와 be동사 형태를 보는 것으로 같고 읽을 양은 22낱말(원문항 19낱말), 어휘는 soccer·rain 수준이며, 오답은 원문항과 같은 유형으로 현재형(rains), 현재진행형(is raining), 단수 주어 It에 were·am을 쓴 것이다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Did you play soccer yesterday?\nB: No. _______",
+  "c": [
+   "It rains.",
+   "It is raining.",
+   "It were raining.",
+   "It was raining.",
+   "It am raining."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "6-92",
+  "variant": 2,
+  "ref_format": "우리말과 같은 뜻의 영어 문장 고르기(과거진행형 was/were+-ing)",
+  "new_format": "현재형 문장을 과거진행형으로 바르게 바꾼 문장 고르기(문장 전환)",
+  "design": "과거진행형 was/were+-ing(단수 주어는 was) 규칙을 그대로 확인한다. 우리말 번역 고르기를 현재형 문장(The frog jumps.)을 과거진행형으로 바르게 바꾼 것 고르기(문장 전환)로 바꿨고, 주어는 같은 번호 B~F에 없는 frog로 새로 골랐다. 판단은 다섯 문장에서 be동사 형태와 -ing형을 보는 것으로 같고 읽을 양은 23낱말(원문항 19낱말), 어휘는 frog·jump 수준이며, 오답은 현재진행형(is jumping), 단수 주어에 were·am을 쓴 것, was 뒤에 동사원형을 쓴 것(was jump)으로 각각 한 군데만 틀리다.",
+  "stem": "다음 문장을 과거진행형으로 바르게 바꾼 것을 고르시오.",
+  "passage": "The frog jumps.",
+  "c": [
+   "The frog is jumping.",
+   "The frog were jumping.",
+   "The frog am jumping.",
+   "The frog was jump.",
+   "The frog was jumping."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "6-92",
+  "variant": 3,
+  "ref_format": "우리말과 같은 뜻의 영어 문장 고르기(과거진행형 was/were+-ing)",
+  "new_format": "과거 상황이 주어진 문장의 빈칸에 알맞은 동사 형태 고르기(어구 보기)",
+  "design": "과거진행형 was/were+-ing(단수 주어는 was) 규칙을 그대로 확인한다. 우리말 번역 고르기를 과거 상황(yesterday·at that time)이 주어진 문장의 빈칸 채우기로 바꿨고, 판단은 빈칸 하나에 들어갈 동사 형태 한 가지로 원문항(다섯 문장에서 동사 형태만 비교)과 같은 무게이며 읽을 양은 20낱말(원문항 19낱말), 어휘는 visit·grandma·water·flowers 수준이다. 오답은 원문항과 같은 유형으로 현재형(waters), 현재진행형(is watering), 단수 주어에 were·am을 쓴 것이다.",
+  "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "I visited my grandma yesterday. She _______ the flowers at that time.",
+  "c": [
+   "was watering",
+   "waters",
+   "is watering",
+   "were watering",
+   "am watering"
+  ],
+  "ans": 1
+ }
+]

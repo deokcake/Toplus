@@ -1,0 +1,189 @@
+[
+ {
+  "key": "2-1",
+  "variant": 1,
+  "ref_format": "주어진 2형식 문장과 형식이 같은 문장 고르기(1~5형식 문장 보기 5개)",
+  "new_format": "주어진 문장 없이 2형식 문장 하나 고르기(1~5형식 문장 보기 5개)",
+  "design": "2형식은 ‘주어 + 동사 + 주격 보어(형용사)’이고 grow·become 같은 동사 뒤의 형용사가 주어의 상태를 설명한다는 규칙을 그대로 확인한다. 주어진 문장과 맞춰 보는 형식을 ‘2형식 문장 바로 고르기’로 바꿨고, 원문항처럼 1~5형식 문장 다섯 개를 하나씩 판정하는 판단 다섯 번이며, 읽을 양은 34낱말(원문항 31, 1.10배), 어휘는 clean·quiet·letter·photo 수준이다. 정답은 grew 뒤의 형용사 quiet가 주어를 설명하는 ③이고, 오답은 원문항과 같은 짜임으로 3형식(cleaned his room), 부사구만 오는 1형식(sleeps under the desk), 목적어 뒤 형용사가 목적어를 설명하는 5형식(made Grandma happy), 4형식(showed us his old photos)이다.",
+  "stem": "다음 중 2형식 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Junho cleaned his room this morning.",
+   "My cat sleeps under the desk all day.",
+   "The kids grew quiet during the movie.",
+   "The warm letter made Grandma happy.",
+   "Mr. Kim showed us his old photos."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "2-1",
+  "variant": 3,
+  "ref_format": "주어진 2형식 문장과 형식이 같은 문장 고르기(1~5형식 문장 보기 5개)",
+  "new_format": "2형식 문장 넷(형용사 보어 셋·명사 보어 하나) 사이에서 형식이 다른 문장 하나 고르기(나머지 넷과 다른 것)",
+  "design": "동사 뒤의 보어가 주어를 설명하면 2형식이라는 같은 규칙을, ‘같은 형식 고르기’에서 ‘2형식 넷 사이에서 형식이 다른 하나 고르기’로 방향을 바꿨고, 2형식 보기에 명사 보어(became a nurse)를 하나 넣어 형용사 보어만 모아 둔 짜임과 다르게 했다. 다섯 문장을 하나씩 판정하는 판단 다섯 번, 읽을 양 35낱말(1.13배), 어휘는 tired·nurse·easy 수준으로 원문항과 같고, 꾸밈 구도 after·on·all week·last year·this time으로 고르게 흩었다. 정답 ⑤는 형용사(easy)가 목적어(the math test)를 설명하는 5형식으로 원문항 오답 ④와 같은 종류이고, ④는 동사 뒤 명사를 목적어로 착각하면 3형식으로 고를 수 있는 오답이다.",
+  "stem": "다음 중 문장의 형식이 나머지 넷과 다른 것은?",
+  "passage": "",
+  "c": [
+   "The old man looked tired after work.",
+   "Her voice sounded sweet on the phone.",
+   "The weather stayed warm all week.",
+   "My cousin became a nurse last year.",
+   "We found the math test easy this time."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "2-2",
+  "variant": 1,
+  "ref_format": "5형식이 아닌 문장 고르기(5형식 넷 + 3형식 하나, 문장 보기 5개)",
+  "new_format": "주어진 5형식 문장과 형식이 같은 문장 고르기(1~5형식 문장 보기 5개)",
+  "design": "5형식은 ‘주어 + 동사 + 목적어 + 목적격 보어’이고 목적격 보어가 목적어의 상태를 설명한다는 규칙을 그대로 확인한다. ‘5형식이 아닌 것 고르기’를 주어진 5형식 문장(The coffee kept me awake.)과 형식이 같은 것 고르기로 바꿨고, 보기 다섯 문장마다 ‘목적어 + 목적어를 설명하는 말’이 있는지 보는 판단 다섯 번으로 같으며, 읽을 양은 28낱말(원문항 22, 1.27배), 보기는 4~5낱말 문장이다. 오답은 목적어 뒤에 명사가 하나 더 오는 4형식(sent me a postcard), 형용사가 주어를 설명하는 2형식(looks kind), 원문항 정답과 같은 3형식(fixed my bike), 1형식(walked along the river)이다.",
+  "stem": "다음 문장과 형식이 같은 것을 고르시오.",
+  "passage": "The coffee kept me awake.",
+  "c": [
+   "Dad left the door open.",
+   "Yuna sent me a postcard.",
+   "Our teacher looks kind.",
+   "Jun fixed my bike.",
+   "We walked along the river."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "2-11",
+  "variant": 2,
+  "ref_format": "대화의 두 빈칸에 들어갈 과거형(yesterday)·현재완료(since ~) 짝 고르기",
+  "new_format": "현재완료 질문에 대한 대답으로 알맞은 문장 고르기(대화 빈칸, 문장 보기)",
+  "design": "끝난 과거 시점(last Friday·ago·yesterday·last month)에는 과거형, since ~에는 현재완료를 쓴다는 같은 규칙을, 대화의 빈칸에 알맞은 대답 문장 고르기로 바꿨다. 보기마다 ‘시간 표현–시제’ 한 군데만 판단하고, 읽을 양은 35낱말(1.21배), 어휘는 call·lunch·lately 수준이다. 오답은 원문항 오답과 같은 두 종류로, 끝난 과거 시점에 현재완료를 쓴 ②·④·⑤(I've seen ~ two days ago, We've had ~ yesterday, I've met ~ last month)와 since에 과거형을 쓴 ③이며, 오답을 두 쌍으로 나누지 않고 주어(I/We)·시간 표현(ago·yesterday·last month)을 흩었으며, 정답 ①은 ⑤와 시간 표현(last ~)이 같아 시제를 따져야 가려진다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Have you talked to Harin lately?\nB: _______",
+  "c": [
+   "I called her last Friday.",
+   "I've seen her two days ago.",
+   "I didn't call her since June.",
+   "We've had lunch together yesterday.",
+   "I've met her last month."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "2-11",
+  "variant": 3,
+  "ref_format": "대화의 두 빈칸에 들어갈 과거형(yesterday)·현재완료(since ~) 짝 고르기",
+  "new_format": "우리말에 맞게 두 문장의 빈칸 (A)·(B)에 들어갈 동사 형태 짝 고르기",
+  "design": "끝난 과거 시점(three days ago)에는 과거형, since then처럼 지금까지 이어지는 기간에는 현재완료를 쓴다는 같은 규칙을, 대화 빈칸 대신 우리말이 주어진 두 문장의 빈칸 (A)·(B) 짝으로 바꿨다. 판단은 원문항과 같이 두 군데이고, 우리말은 둘 다 ‘다쳤다·하지 않았다’ 과거로 끝나 시제를 알려 주지 않으며, 읽을 양은 30낱말(1.03배), 어휘는 injure·ankle·gym class 수준이다. 보기 조합은 원문항과 달리 (B)에 과거형·현재형·현재완료를 고루 두고 (A)에 현재완료를 쓴 오답 둘(has injured — hasn't played, has injured — doesn't play)을 넣었으며, since then에 과거형을 쓴 ①과 현재형을 쓴 ④가 (A)만 아는 학생을 겨냥한다.",
+  "stem": "다음 우리말과 뜻이 같도록 빈칸 (A), (B)에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+  "passage": "수미는 사흘 전 체육 시간에 발목을 다쳤다. 그 후로 축구를 하지 않았다.\nSumi (A)_______ her ankle in gym class three days ago. She (B)_______ soccer since then.",
+  "c": [
+   "injured — didn't play",
+   "has injured — hasn't played",
+   "injured — hasn't played",
+   "injured — doesn't play",
+   "has injured — doesn't play"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "2-12",
+  "variant": 1,
+  "ref_format": "현재완료 두 문장의 빈칸 (A)·(B)에 for·since 짝 고르기",
+  "new_format": "for·since에 밑줄 친 짧은 문장 다섯 개 중 어법상 어색한 것 고르기",
+  "design": "현재완료와 함께 for 뒤에는 기간, since 뒤에는 시작 시점(명사·절)을 쓴다는 규칙을 그대로 확인한다. 두 빈칸 짝 고르기를 for·since에 밑줄 친 짧은 문장 다섯 개 중 어색한 것 고르기로 바꿨고, 보기마다 밑줄 한 군데(뒤의 말이 기간인지 시점인지)만 판단하며, 읽을 양은 33낱말(원문항 26, 1.27배), 어휘는 Daejeon·sick·glasses 수준이다. 정답은 기간(five years) 앞에 since를 쓴 ④이고, 옳은 보기에 since + 연도·since + 절·for + 숫자 기간·for years를 고루 넣어 since나 for 한쪽만 의심해서는 풀 수 없게 했다.",
+  "stem": "다음 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "We've lived in Daejeon <u>since</u> 2019.",
+   "Jisu has been sick <u>for</u> three days.",
+   "Ben has studied Korean <u>since</u> he came here.",
+   "I have worn glasses <u>since</u> five years.",
+   "Mom has known Sora <u>for</u> years."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "2-12",
+  "variant": 2,
+  "ref_format": "현재완료 두 문장의 빈칸 (A)·(B)에 for·since 짝 고르기",
+  "new_format": "빈칸 문장 다섯 개 중 들어갈 말(for/since)이 나머지 넷과 다른 것 고르기",
+  "design": "for + 기간, since + 시작 시점이라는 같은 규칙을, 빈칸 다섯 개 중 들어갈 말이 나머지 넷과 다른 문장 고르기로 바꿨다. 보기마다 빈칸 한 군데에서 뒤의 말이 기간인지 시점인지만 가르는 판단이고, 읽을 양은 31낱말(1.19배), 어휘는 bakery·roses·noon 수준이다. 정답은 기간(ten years) 앞이라 for가 들어가는 ⑤이고, 나머지 넷은 연도(2018)·last spring·절(he was nine)·noon처럼 원문항의 시점 종류를 고루 담아 since가 들어가며, 숫자가 든 시점(2018, he was nine)을 넣어 숫자만 보고 기간으로 착각하는 실수를 겨냥했다.",
+  "stem": "다음 빈칸에 들어갈 말이 나머지 넷과 다른 것은?",
+  "passage": "",
+  "c": [
+   "My aunt has taught English _______ 2018.",
+   "We have been best friends _______ last spring.",
+   "Minho has liked math _______ he was nine.",
+   "The bakery has been closed _______ noon.",
+   "Grandpa has grown roses _______ ten years."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "2-12",
+  "variant": 3,
+  "ref_format": "현재완료 두 문장의 빈칸 (A)·(B)에 for·since 짝 고르기",
+  "new_format": "짧은 대화의 빈칸 하나에 알맞은 ‘for/since + 때’ 구 고르기(구 보기)",
+  "design": "for 뒤에는 기간, since 뒤에는 시작 시점을 쓴다는 같은 규칙을, 두 빈칸 짝 대신 짧은 대화의 빈칸 하나에 알맞은 ‘for/since + 때’ 구 고르기로 바꿨고, 질문은 기간을 묻지 않는 Do you still have ~?로 해 보기의 기간 길이가 뜻으로는 모두 어울리게 했다. 보기마다 전치사와 뒤의 말이 맞는지 한 군데만 판단하고, 읽을 양은 29낱말(1.12배), 어휘는 dog·summer·week 수준이다. 정답은 ‘for + 기간’인 ①이고, 오답은 기간 앞에 since를 쓴 ②·④·⑤(since four months, since a long time, since three weeks)와 시점 앞에 for를 쓴 ③(for last summer)으로 원문항 ①·②·④의 for/since 혼동과 같은 종류이며, for 보기가 둘뿐이라 많은 쪽 전치사로 찍을 수 없다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Do you still have your dog Coco?\nB: Yes. I've had her _______.",
+  "c": [
+   "for six years",
+   "since four months",
+   "for last summer",
+   "since a long time",
+   "since three weeks"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "2-21",
+  "variant": 1,
+  "ref_format": "주어진 문장의 밑줄 친 may(추측)와 같은 의미로 쓰인 것 고르기(may 문장 보기 5개)",
+  "new_format": "주어진 문장 없이 may가 ‘~일지도 모른다’(추측)로 쓰인 문장 고르기",
+  "design": "may가 추측(~일지도 모른다)·허가·금지(may not)·기원(May ~!)을 나타내며 문맥으로 뜻을 가른다는 규칙을 그대로 확인한다. 주어진 문장과 같은 의미 찾기를, 발문에 ‘~일지도 모른다’를 제시하고 그 뜻으로 쓰인 may를 고르는 형식으로 바꿨으며, 보기 다섯 개의 may 뜻을 하나씩 가르는 판단 다섯 번은 같고, 읽을 양은 50낱말(원문항 47, 1.06배)이다. 발문이 뜻을 알려 주는 만큼 정답을 may not 꼴의 추측(She may not feel well)으로 하고 금지의 may not(③)과 나란히 두어 not이나 be 같은 모양이 아니라 문맥으로 가려야 하게 했고, 나머지 오답은 원문항과 같은 종류인 허가(Kids under seven may ride), 허가 요청(May I use ~?), 기원(May you live ~!)이다.",
+  "stem": "다음 밑줄 친 may가 ‘~일지도 모른다’의 의미로 쓰인 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Kids under seven <u>may</u> ride the city bus for free.",
+   "Mina is absent from class today. She <u>may</u> not feel well.",
+   "This is a library, so you <u>may</u> not talk loudly.",
+   "<u>May</u> I use your eraser? I left mine at home.",
+   "Happy birthday, Grandpa! <u>May</u> you live a long life!"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "2-21",
+  "variant": 2,
+  "ref_format": "주어진 문장의 밑줄 친 may(추측)와 같은 의미로 쓰인 것 고르기(may 문장 보기 5개)",
+  "new_format": "허가의 may 넷 사이에서 의미가 다른 may(추측) 하나 고르기(나머지 넷과 다른 것)",
+  "design": "may의 추측과 허가를 문맥으로 가른다는 같은 규칙을, ‘같은 의미 고르기’에서 ‘허가의 may 넷 사이에서 의미가 다른 하나 고르기’로 방향을 바꿨다. 보기 다섯 개의 may 뜻을 하나씩 판정하는 판단 다섯 번, 읽을 양 48낱말(1.02배), 어휘는 dice·hat·cough·computer room 수준이다. 정답은 기침을 많이 한다는 문맥에서 감기일지도 모른다는 추측 ③이고, 나머지는 게임 규칙·이용 규칙의 허가(each player may roll, Students may use)와 허가 요청(May I ~?, May we ~?)이며, 허가 보기 둘을 3인칭 주어의 규칙 문장으로 해 You may ~ 같은 뻔한 모양 없이 문맥으로 가려야 하게 했다.",
+  "stem": "다음 밑줄 친 may의 의미가 나머지 넷과 다른 것은?",
+  "passage": "",
+  "c": [
+   "In this game, each player <u>may</u> roll the dice twice.",
+   "This hat looks great. <u>May</u> I try it on, please?",
+   "Minji is coughing a lot. She <u>may</u> have a cold.",
+   "Students <u>may</u> use the computer room until five o'clock.",
+   "Excuse me, sir. <u>May</u> we sit next to you?"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "2-21",
+  "variant": 3,
+  "ref_format": "주어진 문장의 밑줄 친 may(추측)와 같은 의미로 쓰인 것 고르기(may 문장 보기 5개)",
+  "new_format": "may 문장과 그 의미(추측·허가·금지·기원)를 짝지은 보기 중 바르게 연결된 것 고르기",
+  "design": "may가 추측·허가·금지(may not)·기원(May ~!)을 나타내며 문맥으로 뜻을 가른다는 같은 규칙을, 주어진 말과 같은 의미 찾기 대신 보기마다 ‘may 문장 – 의미’ 짝을 두고 바르게 연결된 것을 고르는 형식으로 바꿨다. 보기마다 밑줄 친 may의 뜻을 정하고 적힌 의미와 맞춰 보는 판단 다섯 번으로 원문항(주어진 may의 뜻 + 보기 다섯 판정)과 같고, 읽을 양은 48낱말(1.02배), 어휘는 race·calculator·bike 수준이다. 정답은 추측을 추측으로 맞게 이은 ④이고, 오답은 기원을 허가로(①), 금지의 may not을 추측으로(②), 추측의 may not을 금지로(③), 허가를 추측으로(⑤) 잘못 이은 것으로 원문항의 허가·금지·추측 혼동을 그대로 담았으며, ‘(추측)’이 셋이라 의미 표시만 보고 고를 수 없다.",
+  "stem": "다음 밑줄 친 may의 의미가 바르게 연결된 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Good luck tomorrow! <u>May</u> you win the race! (허가)",
+   "This is a math test. You <u>may</u> not use a calculator. (추측)",
+   "Tom looks confused. He <u>may</u> not know the answer. (금지)",
+   "Hurry up, or we <u>may</u> miss the school bus. (추측)",
+   "I won't need my bike this weekend. You <u>may</u> use it. (추측)"
+  ],
+  "ans": 4
+ }
+]

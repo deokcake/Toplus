@@ -1,0 +1,257 @@
+[
+ {
+  "key": "4-51",
+  "variant": 1,
+  "ref_format": "밑줄 친 can이 든 문장과 같은 의미의 문장 고르기(조동사만 다른 문장 보기 5개)",
+  "new_format": "우리말을 영어로 바르게 옮긴 문장 고르기(조동사만 다른 문장 보기 5개)",
+  "design": "능력의 can(~할 수 있다)과 be able to가 같은 뜻이라는 핵심 규칙을 그대로 확인한다. 영어 문장끼리 바꿔 쓰는 형식을, 우리말 ‘~할 수 있다’를 보고 be able to가 든 영어 문장을 고르는 형식으로 바꿨다. 다섯 보기는 조동사 자리 한 군데만 다르므로 판단 개수는 원문항과 같고, 읽을 양은 38낱말(원문항 33, 1.2배), 어휘는 uncle·speak 수준이다. 오답은 원문항과 같은 may·must·has to·might로, 뜻이 다른 조동사를 고르는 실수다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "우리 삼촌은 중국어와 일본어를 말할 수 있다.",
+  "c": [
+   "My uncle may speak Chinese and Japanese.",
+   "My uncle must speak Chinese and Japanese.",
+   "My uncle is able to speak Chinese and Japanese.",
+   "My uncle has to speak Chinese and Japanese.",
+   "My uncle might speak Chinese and Japanese."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "4-51",
+  "variant": 2,
+  "ref_format": "밑줄 친 can이 든 문장과 같은 의미의 문장 고르기(조동사만 다른 문장 보기 5개)",
+  "new_format": "밑줄 친 조동사를 be able to로 바꿔 쓸 수 있는 문장 고르기(반대 방향)",
+  "design": "be able to로 바꿔 쓸 수 있는 조동사는 능력의 can뿐이라는 핵심 규칙을 반대 방향으로 확인한다. 원문항은 can을 주고 같은 뜻의 표현을 찾게 하지만, 여기서는 be able to를 주고 다섯 문장의 밑줄 친 조동사 가운데 같은 뜻인 것을 찾게 했다. 보기마다 조동사 한 군데만 판단하므로 판단 개수는 원문항과 같고, 읽을 양은 35낱말(원문항 33), 어휘는 helmet·snow·count 수준이다. 오답은 must·might·have to·may로 원문항의 오답과 같은 조동사들이다.",
+  "stem": "다음 중 밑줄 친 부분을 be able to로 바꿔 쓸 수 있는 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "You <u>must</u> wear a helmet on your bike.",
+   "It <u>might</u> snow again tonight.",
+   "We <u>have to</u> clean the room before dinner.",
+   "My little sister <u>can</u> count to one hundred.",
+   "You <u>may</u> go home early today."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "4-51",
+  "variant": 3,
+  "ref_format": "밑줄 친 can이 든 문장과 같은 의미의 문장 고르기(조동사만 다른 문장 보기 5개)",
+  "new_format": "짧은 대화의 빈칸에 알맞은 문장 고르기(조동사만 다른 문장 보기 5개)",
+  "design": "A의 물음에 쓰인 능력의 can을 B가 be able to로 받아 말하는 대화로, can = be able to라는 핵심 규칙을 그대로 확인한다. 한 문장 전환을 두 줄 대화의 빈칸으로 바꿨고, 빈칸 뒤 ‘She learned to ride last year.’가 능력의 뜻임을 분명히 해 준다. 다섯 보기는 조동사 자리 한 군데만 다르므로 판단 개수는 원문항과 같고, 읽을 양은 42낱말(원문항 33, 1.3배), 어휘는 ride·horse·learn 수준이다. 오답은 has to·may·must·might로 원문항과 같은, 뜻이 다른 조동사들이다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Can Yuna ride a horse?\nB: Yes. _______ She learned to ride last year.",
+  "c": [
+   "She has to ride a horse.",
+   "She may ride a horse.",
+   "She must ride a horse.",
+   "She might ride a horse.",
+   "She is able to ride a horse."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "4-52",
+  "variant": 1,
+  "ref_format": "우리말에 맞게 빈칸에 알맞은 조동사 고르기(낱말 보기 5개)",
+  "new_format": "우리말에 맞게 밑줄 친 조동사를 바르게 고친 말 고르기(낱말 보기)",
+  "design": "‘반드시 ~해야 한다’는 의무의 must라는 핵심 규칙을 그대로 확인한다. 빈칸 채우기를 우리말과 맞지 않는 may를 바르게 고치는 형식으로 바꿨고, 소재는 4-51의 헬멧과 겹치지 않게 수업 중 휴대 전화 끄기로 정했다. 판단은 조동사 한 군데뿐이며 읽을 양은 17낱말(원문항 12, 짧은 원문항 +8낱말 안), 어휘는 phone·class·turn off 수준이다. 오답은 뜻이 서로 다른 might(~일지도 모른다)·will(~할 것이다)·are able to(~할 수 있다)·don't have to(~할 필요가 없다)로, 같은 뜻끼리 짝지어 함께 지울 수 있는 보기는 두지 않았고 밑줄 친 may도 보기에 넣지 않았다.",
+  "stem": "다음 밑줄 친 부분을 우리말에 맞게 바르게 고친 것을 고르시오.",
+  "passage": "수업 중에는 반드시 휴대 전화를 꺼야 한다.\nYou <u>may</u> turn off your phone during class.",
+  "c": [
+   "must",
+   "might",
+   "will",
+   "are able to",
+   "don't have to"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "4-52",
+  "variant": 2,
+  "ref_format": "우리말에 맞게 빈칸에 알맞은 조동사 고르기(낱말 보기 5개)",
+  "new_format": "대화 속 밑줄 친 must 문장의 의미 고르기(우리말 문장 보기 5개)",
+  "design": "must = ‘~해야 한다’(의무)라는 핵심 규칙을 반대 방향으로 확인한다. 우리말을 보고 조동사를 고르던 것을, 대화 속 must 문장을 보고 알맞은 우리말 뜻을 고르게 했고, A의 물음(Where are you going?)은 의무를 암시하지 않는 중립적인 맥락이라 must의 뜻을 알아야만 답이 갈린다. 판단은 must의 뜻 한 가지뿐이고 읽을 양은 13낱말(원문항 12)에 우리말 보기 다섯 개로 원문항과 비슷하며, 어휘는 post office 수준이다. 오답은 원문항의 오답 조동사 can·may·might·will의 뜻(~할 수 있다, ~해도 된다, ~일지도 모른다, ~할 것이다)으로 만들었다.",
+  "stem": "다음 대화에서 밑줄 친 부분의 의미로 알맞은 것을 고르시오.",
+  "passage": "A: Where are you going?\nB: <u>I must go to the post office.</u>",
+  "c": [
+   "나는 우체국에 갈 수 있다.",
+   "나는 우체국에 가야 한다.",
+   "나는 우체국에 가도 된다.",
+   "나는 우체국에 갈지도 모른다.",
+   "나는 우체국에 갈 것이다."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "4-52",
+  "variant": 3,
+  "ref_format": "우리말에 맞게 빈칸에 알맞은 조동사 고르기(낱말 보기 5개)",
+  "new_format": "우리말을 바르게 옮긴 문장 고르기(조동사만 다른 세 낱말 문장 5개)",
+  "design": "‘반드시 ~해야 한다’ = must라는 핵심 규칙을 그대로 확인한다. 낱말 보기를 그 조동사가 든 아주 짧은 문장 보기로 바꿨고, 다섯 문장은 조동사 자리 한 군데만 다르므로 판단 개수는 원문항과 같다. 읽을 양은 15낱말(원문항 12), 어휘는 hurry 하나다. 오답은 원문항과 같은 can·may·will·might로, 뜻이 같아 함께 지워지는 보기 쌍 없이 저마다 뜻이 다른 조동사를 고르는 실수다.",
+  "stem": "다음 우리말과 같은 뜻이 되는 영어 문장을 고르시오.",
+  "passage": "그들은 반드시 서둘러야 한다.",
+  "c": [
+   "They can hurry.",
+   "They may hurry.",
+   "They will hurry.",
+   "They must hurry.",
+   "They might hurry."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "4-61",
+  "variant": 1,
+  "ref_format": "빈도부사 seldom이 든 영어 문장의 우리말 의미 고르기(우리말 문장 보기 5개)",
+  "new_format": "영어 문장을 우리말로 옮긴 문장의 빈칸 채우기(우리말 서술어 보기 5개)",
+  "design": "seldom·rarely = ‘거의 ~않다’(never보다 약한 부정)라는 빈도부사의 뜻을 그대로 확인한다. 문장 전체의 뜻을 고르던 것을 우리말 번역의 서술어 빈칸을 채우는 형식으로 바꿨고, 판단은 rarely의 뜻 한 가지로 원문항과 같다. 읽을 양은 6낱말(원문항 5)이고 어휘는 sister·clean·room 수준이다. 오답은 원문항과 같은 always·often·sometimes·never의 뜻(항상·자주·가끔·전혀 ~않다)이다.",
+  "stem": "다음 영어 문장을 우리말로 옮길 때 빈칸에 알맞은 말을 고르시오.",
+  "passage": "My sister rarely cleans her room.\n→ 우리 언니는 _______.",
+  "c": [
+   "자기 방을 항상 청소한다",
+   "자기 방을 자주 청소한다",
+   "자기 방을 가끔 청소한다",
+   "자기 방을 전혀 청소하지 않는다",
+   "자기 방을 거의 청소하지 않는다"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "4-61",
+  "variant": 2,
+  "ref_format": "빈도부사 seldom이 든 영어 문장의 우리말 의미 고르기(우리말 문장 보기 5개)",
+  "new_format": "짧은 대화에서 B의 말(seldom 문장)의 의미 고르기(우리말 문장 보기 5개)",
+  "design": "seldom = ‘거의 ~않다’라는 핵심 규칙을 그대로 확인한다. 한 문장의 뜻 고르기를 두 줄 대화에서 B의 대답의 뜻을 고르는 형식으로 바꿨고, 판단은 seldom의 뜻 한 가지뿐이다. 읽을 양은 10낱말(원문항 5, 아주 짧은 원문항 +8낱말 안), 어휘는 kimchi·eat 수준이다. 오답은 항상(always)·자주(often)·전혀 ~않다(never)·가끔(sometimes)으로 원문항의 오답과 같은 빈도부사 뜻이다.",
+  "stem": "다음 대화에서 B의 말의 의미로 알맞은 것을 고르시오.",
+  "passage": "A: Does Jiho eat kimchi?\nB: He seldom eats it.",
+  "c": [
+   "지호는 김치를 거의 먹지 않는다.",
+   "지호는 김치를 항상 먹는다.",
+   "지호는 김치를 자주 먹는다.",
+   "지호는 김치를 전혀 먹지 않는다.",
+   "지호는 김치를 가끔 먹는다."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "4-61",
+  "variant": 3,
+  "ref_format": "빈도부사 seldom이 든 영어 문장의 우리말 의미 고르기(우리말 문장 보기 5개)",
+  "new_format": "두 문장짜리 짧은 글의 내용과 일치하는 것 고르기(우리말 문장 보기 5개)",
+  "design": "seldom = ‘거의 ~않다’라는 핵심 규칙을 내용 일치 형식으로 확인한다. 첫 문장은 인물 소개일 뿐이고 정답은 둘째 문장의 seldom 한 군데로 갈리므로 판단 개수는 원문항과 같다. 읽을 양은 10낱말(아주 짧은 원문항 +8낱말 안), 어휘는 teacher·homework 수준이다. 오답은 항상·자주·전혀 ~않다·가끔으로 원문항과 같은 빈도부사의 뜻을 바꾼 것이다.",
+  "stem": "다음 글의 내용과 일치하는 것을 고르시오.",
+  "passage": "Ms. Kim is our teacher. She seldom gives us homework.",
+  "c": [
+   "김 선생님은 우리에게 숙제를 항상 내 주신다.",
+   "김 선생님은 우리에게 숙제를 거의 내 주시지 않는다.",
+   "김 선생님은 우리에게 숙제를 자주 내 주신다.",
+   "김 선생님은 우리에게 숙제를 전혀 내 주시지 않는다.",
+   "김 선생님은 우리에게 숙제를 가끔 내 주신다."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "4-62",
+  "variant": 1,
+  "ref_format": "선생님 설명(명사 수식 예문)에 해당하는 형용사 쓰임의 문장 고르기(문장 보기 5개)",
+  "new_format": "<보기> 규칙을 참고해 밑줄 친 형용사의 쓰임이 나머지 넷과 다른 문장 고르기",
+  "design": "형용사가 명사 앞에서 명사를 꾸미는 쓰임과 동사 뒤에서 주어를 보충 설명하는 쓰임을 가르는 핵심 규칙을 그대로 확인한다. 선생님 설명에 맞는 문장을 고르던 것을, 같은 규칙을 <보기>로 주고 쓰임이 다른 하나를 고르는 형식으로 바꿨다. 보기마다 형용사의 위치 한 군데만 보면 되므로 판단 개수는 원문항과 같고, 읽을 양은 32낱말(원문항 27, 1.2배), 어휘는 clear·strange·fresh 수준이다. 오답 네 문장은 원문항처럼 be·sound·smell·get 뒤에서 주어를 설명하는 형용사이고, 정답만 명사 dog를 꾸민다.",
+  "stem": "<보기>의 설명을 참고하여, 밑줄 친 형용사의 쓰임이 나머지 넷과 다른 것을 고르시오.",
+  "passage": "<보기>\n형용사는 명사 앞에서 명사를 꾸미는 쓰임과, be동사·look·become 같은 동사 뒤에서 주어를 보충 설명하는 쓰임, 두 가지가 있다.",
+  "c": [
+   "The sky is <u>clear</u> this morning.",
+   "Your voice sounds <u>strange</u> today.",
+   "Minho has a <u>big</u> dog at home.",
+   "This bread smells really <u>fresh</u>.",
+   "My grandfather got <u>sick</u> last week."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "4-62",
+  "variant": 2,
+  "ref_format": "선생님 설명(명사 수식 예문)에 해당하는 형용사 쓰임의 문장 고르기(문장 보기 5개)",
+  "new_format": "짧은 글의 밑줄 친 형용사 ⓐ~ⓔ에 대한 설명으로 옳은 것 고르기(우리말 설명 보기 5개)",
+  "design": "형용사의 두 쓰임(명사 수식·주어 보충 설명)을 가르는 핵심 규칙을 설명 고르기 방향으로 확인한다. 원문항은 설명을 주고 문장을 고르게 하지만, 여기서는 짧은 글 속 형용사 다섯 개에 대한 설명 가운데 옳은 것을 고르게 했다. 보기마다 형용사 하나의 위치만 판단하므로 판단 개수는 원문항(문장 5개)과 같고, 읽을 양은 30낱말(원문항 27), 어휘는 little·noisy·favorite 수준이다. 오답은 명사를 꾸미는 little·favorite을 주어 설명으로, 주어를 설명하는 cute·noisy를 명사 수식으로 바꿔 말한 것이다.",
+  "stem": "다음 글의 밑줄 친 형용사에 대한 설명으로 옳은 것을 고르시오.",
+  "passage": "I have a ⓐ<u>little</u> brother. He is ⓑ<u>cute</u>. But he is very ⓒ<u>noisy</u>. Yesterday he broke my ⓓ<u>favorite</u> cup. I was really ⓔ<u>angry</u> at him.",
+  "c": [
+   "ⓐ little은 동사 뒤에서 주어를 보충 설명한다.",
+   "ⓑ cute는 명사 앞에서 명사를 꾸민다.",
+   "ⓒ noisy는 명사 앞에서 명사를 꾸민다.",
+   "ⓓ favorite은 동사 뒤에서 주어를 보충 설명한다.",
+   "ⓔ angry는 동사 뒤에서 주어를 보충 설명한다."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "4-62",
+  "variant": 3,
+  "ref_format": "선생님 설명(명사 수식 예문)에 해당하는 형용사 쓰임의 문장 고르기(문장 보기 5개)",
+  "new_format": "선생님의 안내에 따라 대화문의 밑줄 친 형용사 ⓐ~ⓔ 중 명사를 꾸미는 것 고르기",
+  "design": "형용사가 명사 앞에서 명사를 꾸미는 쓰임을 알아보는 핵심 규칙을 그대로 확인한다. 선생님 설명은 원문항처럼 두 쓰임을 알려 주되 예문 대신 대화문을 주고, 그 안의 형용사 다섯 개 중 명사를 꾸미는 것을 찾게 했다. 밑줄마다 바로 뒤에 명사가 오는지 한 군데만 보면 되므로 판단 개수는 원문항과 같고, 읽을 양은 34낱말(원문항 27, 1.3배), 어휘는 mall·expensive·cheap 수준이다. 오답 nice·expensive·cheap·happy는 모두 look·be동사 뒤에서 주어를 설명하는 형용사다.",
+  "stem": "다음 선생님의 말에 따라 대화의 밑줄 친 ⓐ~ⓔ 중 알맞은 것을 고르시오.",
+  "passage": "선생님: 형용사는 명사 앞에서 명사를 꾸미기도 하고, 동사 뒤에서 주어를 보충 설명하기도 해요. 아래 대화에서 명사를 꾸미는 형용사를 찾아보세요.\nA: I bought this ⓐ<u>new</u> bag at the mall yesterday.\nB: It looks ⓑ<u>nice</u>. Was it ⓒ<u>expensive</u>?\nA: No, it was really ⓓ<u>cheap</u>.\nB: Great! I'm ⓔ<u>happy</u> for you.",
+  "c": [
+   "ⓐ new",
+   "ⓑ nice",
+   "ⓒ expensive",
+   "ⓓ cheap",
+   "ⓔ happy"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "4-71",
+  "variant": 1,
+  "ref_format": "원급–비교급–최상급이 잘못 연결된 것 고르기(낱말 세 개 묶음 보기 5개)",
+  "new_format": "원급–비교급–최상급이 바르게 연결된 것 고르기(옳은 것 하나)",
+  "design": "good – better – best의 불규칙 변화를 아는지 확인하는 핵심 규칙을 틀린 것 고르기에서 옳은 것 고르기로 뒤집었다. 보기 다섯 묶음을 하나씩 판정하는 점은 원문항과 같고, 읽을 양은 17낱말(원문항 17), 어휘는 bad·pretty·difficult·cheap 수준이다. 오답은 원문항의 규칙을 하나씩 어긴 것으로, 불규칙 낱말 bad의 최상급을 규칙대로 쓴 baddest, y를 i로 바꾸지 않은 prettyer, 긴 낱말에 -er/-est를 붙인 difficulter, 짧은 낱말에 more/most를 쓴 more cheap이다. 정답 말고도 원급과 모양이 다른 비교급(worse)이 든 보기를 두어 겉모양만으로 정답이 튀지 않게 했다.",
+  "stem": "다음 단어의 비교급과 최상급이 바르게 연결된 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "bad – worse – baddest",
+   "good – better – best",
+   "pretty – prettyer – prettyest",
+   "difficult – difficulter – difficultest",
+   "cheap – more cheap – most cheap"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "4-71",
+  "variant": 2,
+  "ref_format": "원급–비교급–최상급이 잘못 연결된 것 고르기(낱말 세 개 묶음 보기 5개)",
+  "new_format": "두 문장의 빈칸 (A), (B)에 들어갈 good의 비교급·최상급 짝 고르기",
+  "design": "good의 비교급·최상급이 better·best라는 불규칙 변화를 그대로 확인한다. 낱말 묶음 다섯 개 판정을 짧은 두 문장의 빈칸 짝 고르기로 바꿨고, 판단할 곳은 (A)·(B) 두 군데로 원문항(묶음마다 비교급·최상급, 다섯 묶음)보다 많지 않다. 읽을 양은 22낱말(원문항 17, 1.3배), 어휘는 summer·winter·swimmer 수준이다. 오답은 원문항의 정답에 쓰인 gooder·goodest, 긴 낱말 규칙을 잘못 적용한 more good·most good, 둘 중 하나만 맞는 better–goodest·gooder–best다.",
+  "stem": "다음 빈칸 (A), (B)에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+  "passage": "- Summer is (A)_______(good) than winter.\n- Minseok is the (B)_______(good) swimmer.",
+  "c": [
+   "(A) gooder - (B) goodest",
+   "(A) more good - (B) most good",
+   "(A) better - (B) best",
+   "(A) better - (B) goodest",
+   "(A) gooder - (B) best"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "4-71",
+  "variant": 3,
+  "ref_format": "원급–비교급–최상급이 잘못 연결된 것 고르기(낱말 세 개 묶음 보기 5개)",
+  "new_format": "원급–비교급 짝 목록의 빈칸(good의 비교급)에 들어갈 말 고르기(낱말 보기 5개)",
+  "design": "good의 비교급이 불규칙 변화 better라는 핵심 규칙을 빈칸 채우기로 확인한다. 원급–비교급 짝만 보여 주고 최상급은 빼서 best에서 better를 유추할 수 없게 했으므로, good이 불규칙이라는 것을 알아야만 답할 수 있다. 판단은 good의 비교급 한 군데이고, 읽을 양은 19낱말(원문항 17), 어휘는 strong·heavy·important 수준이다. 오답은 앞의 규칙 변화(-er, more)를 그대로 따른 gooder·more good, 비교급과 최상급을 혼동한 best, 비교급을 겹쳐 쓴 more better다.",
+  "stem": "다음 원급과 비교급의 짝을 보고, 빈칸에 들어갈 알맞은 말을 고르시오.",
+  "passage": "strong – stronger\nheavy – heavier\nbig – bigger\nhappy – happier\nimportant – more important\ngood – _______",
+  "c": [
+   "gooder",
+   "more good",
+   "best",
+   "better",
+   "more better"
+  ],
+  "ans": 4
+ }
+]

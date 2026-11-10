@@ -1,0 +1,464 @@
+[
+ {
+  "key": "7-1",
+  "grade": 7,
+  "no": 1,
+  "chapter": "CH 1",
+  "chapter_name": "명사",
+  "ref": {
+   "stem": "다음 중 셀 수 없는 명사를 고르시오.",
+   "passage": "",
+   "c": [
+    "cat",
+    "desk",
+    "love",
+    "orange",
+    "book"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 하나, 둘 셀 수 있는 것은 셀 수 있는 명사다. 물질(water, bread, milk, rice, money)이나 눈에 보이지 않는 것(love)은 셀 수 없는 명사다.\n풀이 순서: ① 보기마다 앞에 ‘한 개, 두 개’를 붙여 본다. → ② 붙일 수 없는 것을 찾는다. love(사랑)는 형태가 없어 셀 수 없다. → ③ 정답은 love.\n문장별 판정:\n정답 판단: 눈에 보이지 않는 감정이라 셀 수 없으므로 정답은 ③이다.\n선택지 분석:\n① [오답] 한 마리, 두 마리 셀 수 있으므로 오답이다.\n② [오답] 한 개, 두 개 셀 수 있으므로 오답이다.\n③ [정답] 눈에 보이지 않는 감정이라 셀 수 없으므로 정답이다.\n④ [오답] 한 개, 두 개 셀 수 있으므로 오답이다.\n⑤ [오답] 한 권, 두 권 셀 수 있으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 셀 수 없는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "pen",
+     "rabbit",
+     "bread",
+     "table",
+     "egg"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 중 셀 수 없는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "bag",
+     "box",
+     "rice",
+     "banana",
+     "bird"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 중 셀 수 없는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "milk",
+     "pencil",
+     "orange",
+     "chair",
+     "dog"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 중 셀 수 없는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "watch",
+     "money",
+     "teacher",
+     "apple",
+     "car"
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 중 셀 수 없는 명사를 고르시오.",
+    "passage": "",
+    "c": [
+     "rabbit",
+     "bicycle",
+     "cookie",
+     "water",
+     "teacher"
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": {
+   "stem": "다음 중 셀 수 있는 명사를 고르시오.",
+   "passage": "",
+   "c": [
+    "salt",
+    "juice",
+    "sugar",
+    "tomato",
+    "butter"
+   ],
+   "ans": 4
+  },
+  "target_answer_positions": [
+   4,
+   5,
+   1
+  ]
+ },
+ {
+  "key": "7-2",
+  "grade": 7,
+  "no": 2,
+  "chapter": "CH 1",
+  "chapter_name": "명사",
+  "ref": {
+   "stem": "다음 중 대문자로 시작해야 하는 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "bank",
+    "doctor",
+    "seoul",
+    "love",
+    "paper"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 사람·도시·나라 이름, 요일, 달, 언어 이름 같은 고유명사는 언제나 대문자로 시작한다.\n풀이 순서: ① 보기마다 ‘세상에 하나뿐인 이름’인지 본다(사람, 도시, 나라, 요일, 달, 언어). → ② seoul은 도시 이름이다(Seoul). → ③ 정답은 seoul.\n문장별 판정:\n정답 판단: 도시 이름이라 Seoul로 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 일반 명사라 소문자로 쓰므로 오답이다.\n② [오답] 일반 명사라 소문자로 쓰므로 오답이다.\n③ [정답] 도시 이름이라 Seoul로 써야 하므로 정답이다.\n④ [오답] 일반 명사라 소문자로 쓰므로 오답이다.\n⑤ [오답] 일반 명사라 소문자로 쓰므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 대문자로 시작해야 하는 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "hospital",
+     "river",
+     "student",
+     "music",
+     "friday"
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "다음 중 대문자로 시작해야 하는 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "milk",
+     "bag",
+     "girl",
+     "park",
+     "jane"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 중 대문자로 시작해야 하는 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "busan",
+     "boy",
+     "dog",
+     "rice",
+     "room"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 중 대문자로 시작해야 하는 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "book",
+     "student",
+     "korea",
+     "water",
+     "school"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 중 대문자로 시작해야 하는 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "cat",
+     "english",
+     "teacher",
+     "desk",
+     "music"
+    ],
+    "ans": 2
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   2,
+   4,
+   5
+  ]
+ },
+ {
+  "key": "7-11",
+  "grade": 7,
+  "no": 11,
+  "chapter": "CH 2",
+  "chapter_name": "대명사",
+  "ref": {
+   "stem": "다음 중 대명사와 우리말 뜻이 잘못 짝지어진 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "our - 우리의",
+    "he - 그는",
+    "its - 그것은",
+    "her - 그녀의",
+    "I - 나는"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 대명사의 뜻: 주격(I, you, he, she, it, we, they)은 ‘~은/는’, 소유격(my, your, his, her, its, our, their)은 ‘~의’로 옮긴다.\n풀이 순서: ① 대명사마다 주격인지 소유격인지 가른다. → ② 우리말의 끝(‘~는’, ‘~의’)이 그 격과 맞는지 본다. → ③ its는 소유격인데 ‘그것은’(주격)으로 옮겼다. 정답은 its - 그것은.\n문장별 판정:\n정답 판단: its는 소유격이라 ‘그것의’로 옮겨야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] our는 ‘우리의’가 맞으므로 오답이다.\n② [오답] he는 ‘그는’이 맞으므로 오답이다.\n③ [정답] its는 소유격이라 ‘그것의’로 옮겨야 하므로 정답이다.\n④ [오답] her는 ‘그녀의’가 맞으므로 오답이다.\n⑤ [오답] I는 ‘나는’이 맞으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 대명사와 우리말 뜻이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "your - 너의",
+     "she - 그녀는",
+     "his - 그의",
+     "my - 나는",
+     "they - 그들은"
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 중 대명사와 우리말 뜻이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "my - 나의",
+     "we - 우리는",
+     "she - 그녀는",
+     "his - 그는",
+     "their - 그들의"
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 중 대명사와 우리말 뜻이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "our - 우리의",
+     "your - 너는",
+     "she - 그녀는",
+     "we - 우리는",
+     "his - 그의"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 중 대명사와 우리말 뜻이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "your - 너의",
+     "its - 그것의",
+     "our - 우리는",
+     "she - 그녀는",
+     "they - 그들은"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 중 대명사와 우리말 뜻이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "their - 그들은",
+     "he - 그는",
+     "we - 우리는",
+     "my - 나의",
+     "our - 우리의"
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   1,
+   2,
+   4
+  ]
+ },
+ {
+  "key": "7-12",
+  "grade": 7,
+  "no": 12,
+  "chapter": "CH 2",
+  "chapter_name": "대명사",
+  "ref": {
+   "stem": "짝지어진 단어의 관계가 <보기>와 다른 것을 고르시오.",
+   "passage": "<보기>\nI - my",
+   "c": [
+    "he - his",
+    "her - she",
+    "they - their",
+    "you - your",
+    "it - its"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: I - my는 주격 - 소유격(‘~는’ - ‘~의’)의 짝이다. 주격: I, you, he, she, it, we, they / 소유격: my, your, his, her, its, our, their.\n풀이 순서: ① <보기>의 관계를 정한다: I - my은 주격 - 소유격(‘~는’ - ‘~의’)이다. → ② 보기마다 앞 낱말이 주격, 뒤 낱말이 소유격인지 본다. → ③ her - she는 소유격 - 주격으로 순서가 거꾸로다. 정답은 her - she.\n문장별 판정:\n정답 판단: her는 소유격, she는 주격이라 순서가 <보기>와 반대이므로 정답은 ②이다.\n선택지 분석:\n① [오답] he - his는 주격 - 소유격이므로 오답이다.\n② [정답] her는 소유격, she는 주격이라 순서가 <보기>와 반대이므로 정답이다.\n③ [오답] they - their는 주격 - 소유격이므로 오답이다.\n④ [오답] you - your는 주격 - 소유격이므로 오답이다.\n⑤ [오답] it - its는 주격 - 소유격이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "짝지어진 단어의 관계가 <보기>와 다른 것을 고르시오.",
+    "passage": "<보기>\nwe - our",
+    "c": [
+     "he - his",
+     "you - your",
+     "it - its",
+     "their - they",
+     "she - her"
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "짝지어진 단어의 관계가 <보기>와 다른 것을 고르시오.",
+    "passage": "<보기>\nhe - his",
+    "c": [
+     "I - my",
+     "you - your",
+     "they - their",
+     "we - our",
+     "its - it"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "짝지어진 단어의 관계가 <보기>와 다른 것을 고르시오.",
+    "passage": "<보기>\nshe - her",
+    "c": [
+     "it - its",
+     "we - our",
+     "my - I",
+     "they - their",
+     "he - his"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "짝지어진 단어의 관계가 <보기>와 다른 것을 고르시오.",
+    "passage": "<보기>\nthey - their",
+    "c": [
+     "our - we",
+     "you - your",
+     "I - my",
+     "he - his",
+     "it - its"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "짝지어진 단어의 관계가 <보기>와 다른 것을 고르시오.",
+    "passage": "<보기>\nit - its",
+    "c": [
+     "I - my",
+     "his - he",
+     "we - our",
+     "you - your",
+     "they - their"
+    ],
+    "ans": 2
+   }
+  },
+  "existing_pretest": {
+   "stem": "다음 밑줄 친 부분이 어법상 틀린 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "<u>She</u> is kind.",
+    "<u>My</u> bag is red.",
+    "<u>They</u> are happy.",
+    "<u>You</u> are tall.",
+    "<u>He</u> cap is blue."
+   ],
+   "ans": 5
+  },
+  "target_answer_positions": [
+   5,
+   1,
+   3
+  ]
+ },
+ {
+  "key": "7-21",
+  "grade": 7,
+  "no": 21,
+  "chapter": "CH 3",
+  "chapter_name": "be동사",
+  "ref": {
+   "stem": "다음 문장에서 be동사에 해당하는 것을 고르시오.",
+   "passage": "The man is my father.",
+   "c": [
+    "The",
+    "man",
+    "is",
+    "my",
+    "father"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: be동사는 am, is, are 세 가지다. ‘~이다, ~에 있다’라는 뜻으로 주어 뒤에 온다.\n풀이 순서: ① 문장에서 am, is, are 가운데 하나를 찾는다. → ② 주어(The man) 바로 뒤에 있는 is가 be동사다. → ③ 정답은 ③.\n문장별 판정:\n정답 판단: is가 be동사이므로 정답은 ③이다.\n선택지 분석:\n① [오답] The는 명사 앞에 붙는 말이므로 오답이다.\n② [오답] man은 명사(주어)이므로 오답이다.\n③ [정답] is가 be동사이므로 정답이다.\n④ [오답] my는 ‘나의’라는 소유격이므로 오답이다.\n⑤ [오답] father는 명사이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 문장에서 be동사에 해당하는 것을 고르시오.",
+    "passage": "Our neighbors are English teachers.",
+    "c": [
+     "teachers",
+     "are",
+     "Our",
+     "neighbors",
+     "English"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 문장에서 be동사에 해당하는 것을 고르시오.",
+    "passage": "They are my good friends.",
+    "c": [
+     "good",
+     "friends",
+     "are",
+     "They",
+     "my"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 문장에서 be동사에 해당하는 것을 고르시오.",
+    "passage": "I am a new student.",
+    "c": [
+     "I",
+     "a",
+     "new",
+     "am",
+     "student"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 문장에서 be동사에 해당하는 것을 고르시오.",
+    "passage": "Tom is at my home.",
+    "c": [
+     "is",
+     "home",
+     "Tom",
+     "at",
+     "my"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 문장에서 be동사에 해당하는 것을 고르시오.",
+    "passage": "We are very happy today.",
+    "c": [
+     "happy",
+     "are",
+     "today",
+     "very",
+     "We"
+    ],
+    "ans": 2
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   4,
+   5,
+   1
+  ]
+ }
+]

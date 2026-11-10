@@ -1,0 +1,442 @@
+[
+ {
+  "key": "6-22",
+  "grade": 6,
+  "no": 22,
+  "chapter": "CH 3",
+  "chapter_name": "be동사 과거",
+  "ref": {
+   "stem": "다음 우리말과 같은 뜻이 되도록 알맞은 문장을 고르시오.",
+   "passage": "저 여자분은 내 선생님이셨다.",
+   "c": [
+    "This lady was her teacher.",
+    "That lady were my teacher.",
+    "That lady was my teacher.",
+    "This lady was his teacher.",
+    "This lady was your teacher."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: ‘저’는 that(한 개)/those(여러 개), ‘~였다/있었다’는 was(단수)/were(복수)로 나타낸다. 소유격(my, her 등)도 우리말과 맞춘다.\n풀이 순서: ① 우리말을 부분으로 나눈다: 저 여자분 / 내 선생님 / 이셨다. → ② 각 부분에 맞는 영어를 정한다: That lady / my teacher / was. → ③ 하나라도 다른 문장을 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: That, was, my가 모두 우리말과 맞으므로 정답은 ③이다.\n선택지 분석:\n① [오답] ‘저’가 아니라 This이고 ‘내’가 아니라 her이므로 오답이다.\n② [오답] 단수 주어 That lady에 were를 쓸 수 없으므로 오답이다.\n③ [정답] That, was, my가 모두 우리말과 맞으므로 정답이다.\n④ [오답] ‘저’가 아니라 This이고 ‘내’가 아니라 his이므로 오답이다.\n⑤ [오답] ‘저’가 아니라 This이고 ‘내’가 아니라 your이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 우리말과 같은 뜻이 되도록 알맞은 문장을 고르시오.",
+    "passage": "저 소년은 내 친구였다.",
+    "c": [
+     "That boys was my friend.",
+     "That boy is my friend yesterday.",
+     "This boy was her friend.",
+     "That boy was my friend.",
+     "That boy were my friend."
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 우리말과 같은 뜻이 되도록 알맞은 문장을 고르시오.",
+    "passage": "저 책들은 책상 위에 있었다.",
+    "c": [
+     "Those books are on the desk yesterday.",
+     "These book were on the desk.",
+     "That book were on the desk.",
+     "Those books were on the desk.",
+     "Those books was on the desk."
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 우리말과 같은 뜻이 되도록 알맞은 문장을 고르시오.",
+    "passage": "우리는 어제 집에 있었다.",
+    "c": [
+     "We were at home tomorrow.",
+     "We was at home yesterday.",
+     "We are at home now.",
+     "We are at home yesterday.",
+     "We were at home yesterday."
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "다음 우리말과 같은 뜻이 되도록 알맞은 문장을 고르시오.",
+    "passage": "나는 어제 피곤했다.",
+    "c": [
+     "I am tired yesterday.",
+     "I were tired yesterday.",
+     "I was tired yesterday.",
+     "I is tired yesterday.",
+     "I was tired tomorrow."
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 우리말과 같은 뜻이 되도록 알맞은 문장을 고르시오.",
+    "passage": "저 사람들은 우리 선생님들이었다.",
+    "c": [
+     "Those people were our teachers.",
+     "Those people are our teachers yesterday.",
+     "That people were our teachers.",
+     "These people were my teacher.",
+     "Those people was our teachers."
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   1,
+   2,
+   4
+  ]
+ },
+ {
+  "key": "6-31",
+  "grade": 6,
+  "no": 31,
+  "chapter": "CH 4",
+  "chapter_name": "일반동사",
+  "ref": {
+   "stem": "다음 중 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "like - likes",
+    "push - pushes",
+    "fix - fixs",
+    "do - does",
+    "have - has"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 3인칭 단수 현재형: 대부분 -s, s·x·sh·ch·o로 끝나면 -es(pushes, fixes, does), 자음 + y는 -ies(studies), have는 has.\n풀이 순서: ① 동사원형의 끝을 본다: s·x·sh·ch·o인지, 자음 + y인지, have인지. → ② 그 끝에 맞는 규칙(-es, -ies, has)대로 되었는지 본다. → ③ fix는 x로 끝나므로 fixes다. 정답은 fix - fixs.\n문장별 판정:\n정답 판단: x로 끝나면 -es를 붙여 fixes로 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] -s를 붙인 옳은 형태이므로 오답이다.\n② [오답] sh로 끝나 -es를 붙인 옳은 형태이므로 오답이다.\n③ [정답] x로 끝나면 -es를 붙여 fixes로 써야 하므로 정답이다.\n④ [오답] o로 끝나 -es를 붙인 옳은 형태이므로 오답이다.\n⑤ [오답] have의 3인칭 단수형 has로 옳으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "carry - carrys",
+     "go - goes",
+     "have - has",
+     "teach - teaches",
+     "study - studies"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 중 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "go - goes",
+     "wash - washs",
+     "read - reads",
+     "play - plays",
+     "fix - fixes"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 중 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "enjoy - enjoys",
+     "go - gos",
+     "study - studies",
+     "catch - catches",
+     "miss - misses"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 중 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "have - haves",
+     "carry - carries",
+     "do - does",
+     "say - says",
+     "watch - watches"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 중 동사원형과 3인칭 단수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "wash - washes",
+     "cry - cries",
+     "mix - mixes",
+     "study - studys",
+     "go - goes"
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   5,
+   1,
+   2
+  ]
+ },
+ {
+  "key": "6-32",
+  "grade": 6,
+  "no": 32,
+  "chapter": "CH 4",
+  "chapter_name": "일반동사",
+  "ref": {
+   "stem": "다음 중 밑줄 친 동사에 s가 붙지 않는 것은?",
+   "passage": "",
+   "c": [
+    "My sister <u>like</u> apples.",
+    "The sun <u>rise</u> in the east.",
+    "I <u>eat</u> breakfast at eight.",
+    "My cat <u>sleep</u> on the bed.",
+    "She <u>speak</u> English well."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 현재형 일반동사는 주어가 3인칭 단수일 때만 -s를 붙인다. I, you, we, they, 복수 주어에는 붙이지 않는다.\n풀이 순서: ① 문장마다 주어만 본다. he/she/it이나 한 사람·한 개를 가리키는 명사면 s가 붙는다. → ② I, you, we, they나 둘 이상(A and B, 복수 명사)이면 붙지 않는다. → ③ 선택지 ③의 주어 I만 3인칭 단수가 아니다. 정답은 ③.\n문장별 판정:\n정답 판단: 주어 I에는 s를 붙이지 않으므로 정답은 ③이다.\n선택지 분석:\n① [오답] My sister는 3인칭 단수라 likes가 되므로 오답이다.\n② [오답] The sun은 3인칭 단수라 rises가 되므로 오답이다.\n③ [정답] 주어 I에는 s를 붙이지 않으므로 정답이다.\n④ [오답] My cat은 3인칭 단수라 sleeps가 되므로 오답이다.\n⑤ [오답] She는 3인칭 단수라 speaks가 되므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 밑줄 친 동사에 s가 붙지 않는 것은?",
+    "passage": "",
+    "c": [
+     "Tom <u>read</u> books every night.",
+     "My dad <u>drink</u> coffee.",
+     "We <u>play</u> soccer after school.",
+     "The boy <u>run</u> fast.",
+     "He <u>sing</u> well."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 중 밑줄 친 동사에 s가 붙지 않는 것은?",
+    "passage": "",
+    "c": [
+     "My uncle <u>drive</u> to work.",
+     "Birds <u>build</u> nests in spring.",
+     "The baby <u>smile</u> a lot.",
+     "Jane <u>bake</u> bread on Sundays.",
+     "The train <u>leave</u> at six."
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 중 밑줄 친 동사에 s가 붙지 않는 것은?",
+    "passage": "",
+    "c": [
+     "The girl <u>ride</u> a bike.",
+     "My mom <u>make</u> cookies.",
+     "Mina <u>keep</u> a diary.",
+     "Tom and Ben <u>walk</u> home together.",
+     "Our teacher <u>speak</u> slowly."
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 중 밑줄 친 동사에 s가 붙지 않는 것은?",
+    "passage": "",
+    "c": [
+     "They <u>read</u> books every day.",
+     "The dog <u>sleep</u> here.",
+     "Jane <u>love</u> music.",
+     "Tom <u>like</u> cats.",
+     "She <u>write</u> letters."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 중 밑줄 친 동사에 s가 붙지 않는 것은?",
+    "passage": "",
+    "c": [
+     "The cat <u>drink</u> milk.",
+     "My sister <u>play</u> the piano.",
+     "He <u>eat</u> lunch at noon.",
+     "Tom <u>need</u> help.",
+     "You <u>call</u> me every night."
+    ],
+    "ans": 5
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   4,
+   5,
+   1
+  ]
+ },
+ {
+  "key": "6-41",
+  "grade": 6,
+  "no": 41,
+  "chapter": "CH 5",
+  "chapter_name": "일반동사 과거",
+  "ref": {
+   "stem": "다음 중 동사의 현재형과 과거형이 잘못 짝지어진 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "want - wanted",
+    "talk - talked",
+    "cry - cryed",
+    "shop - shopped",
+    "open - opened"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 규칙 과거형: 대부분 -ed, 자음 + y는 y를 i로 바꾸고 -ed(cried), 단모음 + 단자음은 자음을 겹쳐 -ed(shopped), 모음 + y는 그대로 -ed(played).\n풀이 순서: ① 동사의 끝을 본다: 자음 + y인지, 단모음 + 단자음인지, 모음 + y인지. → ② 그 끝에 맞는 규칙(-ied, 자음 겹치기, 그대로 -ed)대로 되었는지 본다. → ③ cry는 자음 + y이므로 cried다. 정답은 cry - cryed.\n문장별 판정:\n정답 판단: 자음 + y라 y를 i로 바꿔 cried로 써야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] -ed를 붙인 옳은 형태이므로 오답이다.\n② [오답] -ed를 붙인 옳은 형태이므로 오답이다.\n③ [정답] 자음 + y라 y를 i로 바꿔 cried로 써야 하므로 정답이다.\n④ [오답] 단모음 + 단자음이라 p를 겹쳐 쓴 옳은 형태이므로 오답이다.\n⑤ [오답] -ed를 붙인 옳은 형태이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 동사원형과 과거형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "hug - hugged",
+     "play - played",
+     "stop - stoped",
+     "study - studied",
+     "carry - carried"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 중 동사원형과 과거형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "carry - carried",
+     "plan - planed",
+     "visit - visited",
+     "watch - watched",
+     "hug - hugged"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 중 동사원형과 과거형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "study - studyed",
+     "visit - visited",
+     "clean - cleaned",
+     "cry - cried",
+     "plan - planned"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 중 동사원형과 과거형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "watch - watched",
+     "study - studied",
+     "plan - planned",
+     "carry - carryed",
+     "help - helped"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 중 동사원형과 과거형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "wash - washed",
+     "stop - stopped",
+     "skip - skiped",
+     "try - tried",
+     "open - opened"
+    ],
+    "ans": 3
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   2,
+   4,
+   5
+  ]
+ },
+ {
+  "key": "6-42",
+  "grade": 6,
+  "no": 42,
+  "chapter": "CH 5",
+  "chapter_name": "일반동사 과거",
+  "ref": {
+   "stem": "빈칸에 알맞은 것을 고르시오.",
+   "passage": "I _______ the violin yesterday.",
+   "c": [
+    "played",
+    "play",
+    "plays",
+    "playing",
+    "plaies"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: yesterday, last ~처럼 과거의 때를 나타내는 말이 있으면 동사의 과거형을 쓴다. did와 과거형을 함께 쓰지 않는다.\n풀이 순서: ① 때를 나타내는 말을 찾는다: yesterday. 과거다. → ② 동사의 과거형을 만든다: play → played(모음 + y는 그대로 -ed). → ③ 현재형, -ing형, did + 과거형을 지운다. 정답은 played.\n문장별 판정:\n정답 판단: yesterday에 맞는 과거형이므로 정답은 ①이다.\n선택지 분석:\n① [정답] yesterday에 맞는 과거형이므로 정답이다.\n② [오답] yesterday가 있어 현재형을 쓸 수 없으므로 오답이다.\n③ [오답] yesterday가 있어 현재형을 쓸 수 없고 주어 I와도 맞지 않으므로 오답이다.\n④ [오답] be동사 없이 -ing형만 쓸 수 없으므로 오답이다.\n⑤ [오답] plaies라는 형태는 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "빈칸에 알맞은 것을 고르시오.",
+    "passage": "We _______ the room yesterday.",
+    "c": [
+     "cleaned",
+     "cleaning",
+     "cleans",
+     "clean",
+     "did cleaned"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "빈칸에 알맞은 것을 고르시오.",
+    "passage": "Mina _______ TV yesterday.",
+    "c": [
+     "watched",
+     "watching",
+     "did watched",
+     "watch",
+     "watches"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "빈칸에 알맞은 것을 고르시오.",
+    "passage": "The baby _______ loudly yesterday.",
+    "c": [
+     "crying",
+     "cries",
+     "did cried",
+     "cry",
+     "cried"
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "빈칸에 알맞은 것을 고르시오.",
+    "passage": "She _______ dinner last night.",
+    "c": [
+     "cooks",
+     "did cooked",
+     "cooked",
+     "cook",
+     "cooking"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "빈칸에 알맞은 것을 고르시오.",
+    "passage": "Tom _______ his uncle last week.",
+    "c": [
+     "did visited",
+     "visited",
+     "visiting",
+     "visit",
+     "visits"
+    ],
+    "ans": 2
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   2,
+   3,
+   4
+  ]
+ }
+]

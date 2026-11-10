@@ -1,0 +1,172 @@
+[
+ {
+  "key": "1-72",
+  "variant": 1,
+  "ref_format": "다섯 문장 중 최상급의 뜻을 나타내는 비교 표현(the 최상급, than any other, than all the other, No other ~)과 의미가 다른 것 고르기(문장 보기 5개)",
+  "new_format": "최상급 뜻의 우리말 문장을 기준으로, 영어 다섯 문장 중 의미가 같지 않은 것 고르기(우리말 기준 제시)",
+  "design": "‘the + 최상급’, ‘비교급 + than any other + 단수명사’, ‘비교급 + than all the other + 복수명사’, ‘No other ~ as + 원급 + as’가 모두 최상급의 뜻이라는 규칙을 그대로 확인한다. 보기끼리 견주던 것을 우리말 기준 문장과 견주게 바꿨고, 다섯 문장의 뜻을 하나씩 판단하는 판단 다섯 번은 같다. 읽을 양은 55낱말(원문항 54), 어휘는 fast·player·soccer team 수준이다. 정답 ‘Every other player ~ is faster than Jiho’는 최상급 뜻의 ‘No other ~ 비교급 than’ 틀에서 No를 Every로 바꿔 ‘지호가 가장 느리다’가 된 문장으로, 원문항의 Any other 함정처럼 같은 형용사(fast)를 쓰고 구문 때문에 뜻이 갈리며, 나머지 넷은 최상급 뜻의 네 표현이다.",
+  "stem": "다음 우리말과 의미가 같지 않은 것을 고르시오.",
+  "passage": "지호는 우리 축구팀에서 가장 빠른 선수이다.",
+  "c": [
+   "Jiho is the fastest player on our soccer team.",
+   "Every other player on our soccer team is faster than Jiho.",
+   "Jiho is faster than all the other players on our soccer team.",
+   "No other player on our soccer team is as fast as Jiho.",
+   "Jiho is faster than any other player on our soccer team."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "1-81",
+  "variant": 1,
+  "ref_format": "장소 선행사 뒤 빈칸에 알맞은 관계사(관계부사 where) 고르기(낱말 보기 5개)",
+  "new_format": "장소 선행사 뒤에 잘못 쓴 관계부사 when(밑줄)을 바르게 고친 것 고르기(낱말 보기, which를 보기에 남김)",
+  "design": "장소 선행사 뒤에 빠진 성분이 없는 완전한 절이 오면 관계부사 where를 쓴다는 규칙을 그대로 확인한다. 빈칸 채우기를 밑줄 친 when(때의 관계부사)을 바르게 고치는 형식으로 바꿨고, 선행사(the island)의 종류와 뒤 절(my parents first met)이 완전한지를 보고 관계사 하나를 정하는 판단 한 번은 같다. 읽을 양은 17낱말(원문항 13), 어휘는 island·parents 수준이다. 오답은 원문항처럼 선행사가 사물이라 고르기 쉬운 which(뒤 절에 빠진 성분이 없어 지워야 함), 선행사를 품는 what, 사람 선행사용 who, 장소 선행사에 쓰지 않는 how이다.",
+  "stem": "다음 문장의 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "Someday I want to visit the island <u>when</u> my parents first met.",
+  "c": [
+   "which",
+   "where",
+   "what",
+   "who",
+   "how"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "1-81",
+  "variant": 2,
+  "ref_format": "장소 선행사 뒤 빈칸에 알맞은 관계사(관계부사 where) 고르기(낱말 보기 5개)",
+  "new_format": "‘Busan is the city where ____.’의 빈칸에 이어질 절로 알맞지 않은 것 고르기(아주 짧은 절 보기, 묻는 방향 뒤집기)",
+  "design": "관계부사 where 뒤에는 빠진 성분이 없는 완전한 절이 오고, 목적어가 빠진 절이면 관계대명사 which(that)를 써야 한다는 같은 규칙을 확인한다. 관계사를 고르는 대신 where 뒤에 올 수 없는 절을 고르게 해 방향을 뒤집었고, 낱말 보기를 2~4낱말의 아주 짧은 절 보기로 바꿔 보기마다 빠진 성분이 있는지 한 곳만 본다. 읽을 양은 18낱말(원문항 13), 어휘는 born·teach·work 수준이다. 정답 everyone loves는 loves의 목적어가 빠진 절이라 which(that)가 와야 하고, 나머지 넷 가운데 my uncle teaches math는 목적어까지 갖춘 완전한 절, I was born·Dad works·Mina lives는 목적어가 필요 없는 완전한 절이라 ‘타동사인가’가 아니라 ‘빠진 성분이 있는가’로 판단해야 한다.",
+  "stem": "다음 빈칸에 들어갈 말로 알맞지 않은 것을 고르시오.",
+  "passage": "Busan is the city where _______.",
+  "c": [
+   "I was born",
+   "my uncle teaches math",
+   "everyone loves",
+   "Dad works",
+   "Mina lives"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "1-81",
+  "variant": 3,
+  "ref_format": "장소 선행사 뒤 빈칸에 알맞은 관계사(관계부사 where) 고르기(낱말 보기 5개)",
+  "new_format": "두 문장을 관계사로 이어 한 문장으로 만들 때 빈칸에 알맞은 말 고르기(문장 연결)",
+  "design": "장소 선행사 + 완전한 절에는 관계부사 where를 쓴다는 같은 규칙을, 두 문장(This is the lake. / Jun catches fish there.)을 한 문장으로 잇는 형식으로 확인한다. 연결된 문장의 빈칸 하나를 채우는 판단 한 번은 같고, 뒤 절 Jun catches fish는 목적어까지 갖춘 완전한 절이라 which가 맡을 자리가 없다. 읽을 양은 20낱말(원문항 13, 원문항 + 8낱말 이내), 어휘는 lake·catch fish 수준이다. 오답은 선행사가 사물이라 고르기 쉬운 관계대명사 which, 둘째 문장의 there를 그대로 옮긴 there, 선행사를 품는 what, 소유격 whose다.",
+  "stem": "다음 두 문장을 한 문장으로 연결할 때 빈칸에 알맞은 것을 고르시오.",
+  "passage": "This is the lake. Jun catches fish there.\n→ This is the lake _______ Jun catches fish.",
+  "c": [
+   "which",
+   "there",
+   "what",
+   "where",
+   "whose"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "1-82",
+  "variant": 2,
+  "ref_format": "관계대명사 what이 쓰인 다섯 문장 중 어법상 올바르지 않은 것 고르기(문장 보기 5개)",
+  "new_format": "짧은 글(박물관 견학 일기) 속 밑줄 친 관계사 ⓐ~ⓔ 중 어법상 어색한 것 고르기(기호 보기)",
+  "design": "what은 선행사 뒤에 쓰지 않는다는 같은 규칙을, 문장 보기 대신 짧은 글(박물관 견학 일기) 속 밑줄 다섯 곳으로 옮겨 확인한다. 밑줄 친 관계사마다 앞에 선행사가 있는지 보는 판단 다섯 번은 같고, 읽을 양은 48낱말(원문항 44), 문장은 관계절이 하나씩 든 단문이다. 정답 ⓐ는 선행사 the museum 뒤에 what을 쓴 실수(→ that/which)이고, ⓑ·ⓓ는 선행사 없이 what을 바르게 쓴 것(문장의 주어, found의 목적어), ⓒ·ⓔ는 선행사(robots, a star lamp) 뒤에 that·which를 바르게 쓴 것이다.",
+  "stem": "다음 글의 밑줄 친 ⓐ~ⓔ 중 어법상 어색한 것을 고르시오.",
+  "passage": "Last Saturday, I visited the museum ⓐ<u>what</u> my teacher told us about. ⓑ<u>What</u> I liked most was the space exhibit. There were many robots ⓒ<u>that</u> could talk. At the gift shop, I found ⓓ<u>what</u> my little sister wanted. It was a star lamp ⓔ<u>which</u> glowed in the dark.",
+  "c": [
+   "ⓐ",
+   "ⓑ",
+   "ⓒ",
+   "ⓓ",
+   "ⓔ"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "1-82",
+  "variant": 3,
+  "ref_format": "관계대명사 what이 쓰인 다섯 문장 중 어법상 올바르지 않은 것 고르기(문장 보기 5개)",
+  "new_format": "다섯 문장의 빈칸 중 what이 들어갈 수 없는 것 고르기(빈칸 문장 보기)",
+  "design": "선행사가 없으면 what, 선행사가 있으면 that·which를 쓴다는 같은 규칙을, 이미 쓰인 관계사를 판정하는 대신 빈칸에 what을 넣을 수 있는지 판단하게 바꿔 확인한다. 보기마다 빈칸 앞 선행사가 있는지 한 곳만 보는 판단 다섯 번은 같고, 읽을 양은 44낱말·178글자(원문항 44낱말·172글자), 어휘는 party·camping trip 수준이다. 정답은 선행사 the old bike가 있어 that·which가 와야 하는 문장이고, 나머지 넷은 what절이 주어(Yuna made ~)·목적어(remember·wrote down 뒤)·보어(is 뒤)로 쓰이는 자리다.",
+  "stem": "다음 중 빈칸에 what이 들어갈 수 없는 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "_______ Yuna made for the party was a chocolate cake.",
+   "This is the old bike _______ my uncle fixed for me.",
+   "I don't remember _______ the teacher said this morning.",
+   "Taking a walk is _______ I enjoy after dinner.",
+   "Sumin wrote down _______ she needed for the camping trip."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "1-91",
+  "variant": 2,
+  "ref_format": "직설법 문장을 가정법으로 바꿀 때 빈칸(‘~이 없다면’)에 알맞은 말 고르기(낱말 보기 5개)",
+  "new_format": "글 속 밑줄 친 Without과 바꿔 쓸 수 있는 말 고르기(낱말 보기)",
+  "design": "‘~이 없다면’을 Without이나 But for로 나타낸다는 같은 규칙을, 밑줄 친 Without과 바꿔 쓸 수 있는 말을 고르게 해 확인한다. 밑줄 한 곳의 뜻과 뒤에 오는 말(명사구 the library)을 보고 같은 표현을 고르는 판단 한 번은 같고, 읽을 양은 30낱말(원문항 27), 어휘는 neighborhood·library·borrow 수준이다. 오답은 원문항의 Because처럼 뜻은 그럴듯하지만 뒤에 절이 와야 하는 Unless(형태 함정), 뜻이 반대인 Thanks to, ‘~에도 불구하고’ In spite of, ‘~ 대신에’ Instead of이다.",
+  "stem": "다음 글의 밑줄 친 부분과 바꿔 쓸 수 있는 것을 고르시오.",
+  "passage": "Our neighborhood has a wonderful public library. <u>Without</u> the library, students could not borrow so many interesting books for free.",
+  "c": [
+   "Thanks to",
+   "Instead of",
+   "Unless",
+   "In spite of",
+   "But for"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "1-91",
+  "variant": 3,
+  "ref_format": "직설법 문장을 가정법으로 바꿀 때 빈칸(‘~이 없다면’)에 알맞은 말 고르기(낱말 보기 5개)",
+  "new_format": "짧은 대화의 빈칸(‘~이 없다면’)에 알맞은 말 고르기(대화 맥락에서 사실을 읽고 가정법 완성)",
+  "design": "‘~이 없다면’ = Without이라는 같은 규칙을, 직설법 문장 대신 대화 맥락(배터리가 빨리 닳아 충전기를 늘 가지고 다닌다)에서 사실을 읽고 가정법 문장을 완성하게 했다. 빈칸 하나를 채우는 판단 한 번은 같고, 읽을 양은 35낱말(원문항 27), 어휘는 portable charger·battery 수준이다. 오답은 원문항처럼 for를 뺀 But과 뒤에 절이 와야 하는 If(형태 함정 둘), 원인으로 착각한 Due to, 양보의 Despite로, 변형 2의 오답 묶음(Thanks to·Instead of·Unless·In spite of)과 낱말이 하나도 겹치지 않는다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 가장 알맞은 것을 고르시오.",
+  "passage": "A: Why do you always carry a portable charger in your bag?\nB: My phone battery runs out too quickly. _______ the charger, my phone would be dead before lunchtime.",
+  "c": [
+   "Without",
+   "But",
+   "Due to",
+   "If",
+   "Despite"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "1-92",
+  "variant": 1,
+  "ref_format": "가정법 과거·과거완료·혼합가정법 문장 다섯 개 중 어법상 옳지 않은 것 고르기(문장 보기 5개)",
+  "new_format": "가정법 문장 다섯 개 중 어법상 옳은 것 하나 고르기(묻는 방향 뒤집기)",
+  "design": "가정법 과거(If + 과거형, would + 동사원형), 과거완료(If + had p.p., would have p.p.), 혼합가정법(If + had p.p., would + 동사원형 ~ now)의 짝을 맞추는 규칙을 그대로 확인한다. 틀린 것 하나 대신 옳은 것 하나를 고르게 뒤집었고, 문장마다 if절과 주절의 동사·시간 표현을 짝짓는 판단 다섯 번은 같으며, 읽을 양은 66낱말(원문항 61)이다. 정답은 혼합가정법(had fixed → would not be late ~ now)이고, 오답은 원문항 정답처럼 주절에 조동사를 빠뜨림(grow), 과거 일에 would + 동사원형(would see ~ yesterday), could 대신 can, would 대신 will을 쓴 실수로 각각 한 곳만 틀렸으며, 소재(자전거·뮤지컬 표)는 B~F와 겹치지 않는다.",
+  "stem": "다음 중 어법상 옳은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "If I had a big garden, I grow tomatoes and cucumbers in it.",
+   "If Jisu had fixed her bike, she would not be late for school now.",
+   "If my sister had found her ticket, she would see the musical yesterday.",
+   "If my brother were a little taller, he can reach the top shelf.",
+   "If Minsu had listened to his teacher, he will not make that mistake."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "1-92",
+  "variant": 3,
+  "ref_format": "가정법 과거·과거완료·혼합가정법 문장 다섯 개 중 어법상 옳지 않은 것 고르기(문장 보기 5개)",
+  "new_format": "밑줄 친 틀린 부분을 고친 가정법 문장 다섯 개 중 바르게 고치지 않은 것 고르기(고쳐 쓰기 판정)",
+  "design": "같은 가정법 시제 짝 규칙을, 문장이 맞는지 판정하는 대신 밑줄 친 부분을 고친 형태(→)가 맞는지 판정하게 바꿔 확인한다. 보기마다 고친 형태 한 곳만 보는 판단 다섯 번은 같고, 읽을 양은 74낱말(원문항 61)이다. 정답은 now가 있는 혼합가정법 자리를 would not have felt로 고친 것(→ would not feel)으로 원문항 ①의 혼합가정법을 거꾸로 묻는 함정이고, 나머지 넷은 가정법 과거(would play, were)와 과거완료(would not have burned, could have entered)로 바르게 고쳤으며, 소재(요리법·쿠키)는 B~F와 겹치지 않는다.",
+  "stem": "다음 밑줄 친 부분을 바르게 고친 것이 아닌 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "If Junho were here, we <u>will play</u> basketball together. → would play",
+   "If Dad had read the recipe, the cookies <u>will not burn</u> yesterday. → would not have burned",
+   "If I <u>am</u> rich, I would buy a big house for my parents. → were",
+   "If they had not lost the key, they <u>can enter</u> the house last night. → could have entered",
+   "If Sora had worn a coat, she <u>does not feel</u> cold now. → would not have felt"
+  ],
+  "ans": 5
+ }
+]

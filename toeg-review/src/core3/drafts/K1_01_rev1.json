@@ -1,0 +1,36 @@
+[
+ {
+  "key": "1-1",
+  "variant": 1,
+  "ref_format": "밑줄 친 ‘2형식 동사 + 보어’ 중 어법상 어색한 것 고르기(문장 보기 5개, 보기마다 밑줄 한 군데)",
+  "new_format": "짧은 글의 빈칸에 이어질 ‘2형식 동사 + 보어’ 구 중 어법상 어색한 것 고르기(구 보기 5개)",
+  "design": "smell·taste·look·feel·seem 같은 2형식 동사 뒤 보어 자리에는 부사가 아니라 형용사가 온다는 규칙을 그대로 확인한다. 밑줄 친 문장 보기를 ‘글의 빈칸에 이어질 구’ 보기로 바꿨고, 보기마다 동사 뒤 보어 한 곳만 보는 판단 다섯 번은 원문항과 같으며, 읽을 양은 37낱말(원문항 30, 1.23배), 어휘는 bakery·window·popular 수준이다. 소재를 B유형의 bread 대신 cookies(복수 주어)로 바꿔 B·원문항과 겹치던 표현(tastes … with butter, wonderful, smell sweet)을 없앴고, 정답 동사도 원문항의 taste가 아닌 look으로 했다. 정답 look nicely는 원문항과 같은 ‘보어 자리에 -ly 부사’ 실수이고, 나머지는 great·good·warm·popular처럼 형용사를 바르게 쓴 구다.",
+  "stem": "다음 글의 빈칸에 들어갈 말로 어법상 어색한 것을 고르시오.",
+  "passage": "My uncle runs a small bakery near my school. His cookies _______.",
+  "c": [
+   "look nicely in the window",
+   "smell great from outside the shop",
+   "taste good even the next day",
+   "feel warm in my hands",
+   "seem popular with students"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "1-1",
+  "variant": 2,
+  "ref_format": "밑줄 친 ‘2형식 동사 + 보어’ 중 어법상 어색한 것 고르기(문장 보기 5개, 보기마다 밑줄 한 군데)",
+  "new_format": "짧은 대화 속 2형식 동사 smell 뒤 빈칸에 들어갈 낱말 중 어법상 알맞은 것 고르기(낱말 보기 5개: 부사 넷·형용사 하나)",
+  "design": "2형식 동사 뒤 보어 자리에는 부사가 아니라 형용사를 쓴다는 같은 규칙을, 문장 다섯 개를 판정하는 대신 대화 속 smells 뒤 빈칸 하나에 들어갈 낱말을 고르는 방식으로 확인한다(변형 1의 ‘어색한 구 고르기’와 묻는 방향·보기 종류가 다름). 보기마다 ‘smells + 이 낱말’이 되는지 한 번씩 보는 판단 다섯 번이고, 읽을 양은 32낱말(원문항 30), 어휘는 candle·flea market·scent 수준이다. 보기 다섯 개가 모두 ‘좋은 냄새’라는 뜻이라 뜻으로는 가를 수 없고, 오답 넷은 ‘~하게 냄새 나다’에 끌려 부사(nicely·well·sweetly·wonderfully)를 쓰는 실수이며, -ly가 없는 well을 넣어 ‘-ly가 없는 말’이라는 겉모양만으로는 정답 amazing을 고를 수 없게 했다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 어법상 알맞은 것을 고르시오.",
+  "passage": "A: Did you buy new candles? Your whole room smells _______.\nB: Yes, I bought them at the flea market last weekend. They have a light lemon scent.",
+  "c": [
+   "nicely",
+   "well",
+   "amazing",
+   "sweetly",
+   "wonderfully"
+  ],
+  "ans": 3
+ }
+]

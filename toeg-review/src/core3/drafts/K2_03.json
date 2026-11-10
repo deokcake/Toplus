@@ -1,0 +1,257 @@
+[
+ {
+  "key": "2-51",
+  "variant": 1,
+  "ref_format": "우리말에 맞게 to부정사 앞 빈칸에 들어갈 의문사(낱말 보기) 고르기",
+  "new_format": "영어 문장의 밑줄 친 ‘의문사+to부정사’의 우리말 뜻 고르기(우리말 보기)",
+  "design": "‘의문사+to부정사’는 ‘~할지’라는 뜻이고 의문사에 따라 언제·어디서·무엇을·어떻게·누구를이 정해진다는 규칙을 그대로 확인한다. 우리말→영어 빈칸을 거꾸로 해 영어 밑줄 부분의 우리말 뜻을 고르게 했고, 판단은 의문사 하나(when)의 뜻을 찾는 한 번으로 같다. 영어 읽을 양은 12낱말(원문항 11), 어휘는 begin·test·quietly 수준이며, 오답은 다른 의문사로 옮긴 뜻(어디서·무엇을·어떻게·누구와)으로 보기를 모두 ‘○○ 시작할지’ 꼴로 맞췄다.",
+  "stem": "다음 문장의 밑줄 친 부분의 우리말 뜻으로 알맞은 것을 고르시오.",
+  "passage": "Nobody told us <u>when to begin</u> the test, so we waited quietly.",
+  "c": [
+   "어디서 시작할지",
+   "무엇을 시작할지",
+   "어떻게 시작할지",
+   "누구와 시작할지",
+   "언제 시작할지"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "2-51",
+  "variant": 2,
+  "ref_format": "우리말에 맞게 to부정사 앞 빈칸에 들어갈 의문사(낱말 보기) 고르기",
+  "new_format": "우리말 문장의 밑줄 친 부분을 영어 ‘의문사+to부정사’ 구로 옮긴 것 고르기(구 보기)",
+  "design": "‘어디서 ~할지 = where to ~’처럼 의문사가 ‘~할지’의 뜻을 정한다는 같은 규칙을 확인한다. 영어 문장 속 낱말 빈칸을 우리말 밑줄 부분을 영어 구로 옮긴 것 고르기로 바꿨고, 판단은 ‘어디서’에 맞는 의문사 하나를 찾는 한 번이다. 읽을 양은 영어 15낱말(원문항 11, 보기가 3낱말 구라서 늘어남), 어휘는 buy·운동화 수준이며, 오답은 같은 동사 buy에 의문사만 바꾼 what·when·how·which to buy로 모두 실제로 쓰는 구라 형태로는 고를 수 없다.",
+  "stem": "다음 우리말의 밑줄 친 부분을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "나는 그 운동화를 <u>어디서 살지</u> 아직 모르겠다.",
+  "c": [
+   "where to buy",
+   "what to buy",
+   "when to buy",
+   "how to buy",
+   "which to buy"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "2-51",
+  "variant": 3,
+  "ref_format": "우리말에 맞게 to부정사 앞 빈칸에 들어갈 의문사(낱말 보기) 고르기",
+  "new_format": "우리말 뜻과 ‘의문사+to부정사’ 구의 짝 다섯 개 중 잘못 짝지어진 것 고르기",
+  "design": "‘의문사+to부정사’의 뜻이 의문사에 따라 정해진다는 규칙을 확인한다. 빈칸 하나를 우리말–영어 짝 다섯 개의 판정으로 바꿨으며, 보기마다 의문사 하나만 대조하는 짧은 구라 원문항에서 의문사 다섯 개를 우리말에 대 보는 것과 무게가 같다. 영어 16낱말(원문항 11, +5), 어휘는 sit·fix·get up·ask·wear 수준이다. 정답은 학생들이 자주 헷갈리는 ‘어떻게’를 what으로 옮긴 짝이고, 나머지 넷은 where·when·who·what을 바르게 짝지었으며 what이 두 보기에 나와 낱말만 보고는 고를 수 없다.",
+  "stem": "다음 중 우리말과 영어가 바르게 짝지어지지 않은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "어디에 앉을지 – where to sit",
+   "어떻게 고칠지 – what to fix",
+   "언제 일어날지 – when to get up",
+   "누구에게 물어볼지 – who to ask",
+   "무엇을 입을지 – what to wear"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "2-52",
+  "variant": 1,
+  "ref_format": "다섯 문장 중 빈칸에 of가 들어갈 수 없는 것 고르기(It is+형용사+of/for+목적격+to부정사)",
+  "new_format": "다섯 문장 중 빈칸에 for가 들어갈 수 없는 것 고르기(방향 반대: 일 판단 형용사 넷 + 성품 형용사 하나)",
+  "design": "성품 형용사 뒤에는 of+목적격, 일 자체를 판단하는 형용사 뒤에는 for+목적격을 쓴다는 규칙을 그대로 확인한다. 원문항(성품 넷 중 일 판단 하나 찾기)을 뒤집어 일 판단 형용사 넷(safe·boring·fun·possible) 사이에서 성품 형용사 kind 하나를 찾게 했고, 문장마다 형용사 하나만 판단하는 것은 같다. 읽을 양은 45낱말(원문항 40, 1.1배), 어휘는 pool·lines·notes 수준이며, 오답 넷은 모두 for가 자연스러운 문장이고 is/was를 섞어 시제로 찍을 수 없게 했다.",
+  "stem": "다음 중 빈칸에 ‘for’가 들어갈 수 없는 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "It is safe _______ children to swim in this pool.",
+   "It is boring _______ me to wait in long lines.",
+   "It was kind _______ Yuna to lend me her notes.",
+   "It is fun _______ us to play soccer after school.",
+   "It was possible _______ him to finish the work early."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "2-52",
+  "variant": 2,
+  "ref_format": "다섯 문장 중 빈칸에 of가 들어갈 수 없는 것 고르기(It is+형용사+of/for+목적격+to부정사)",
+  "new_format": "of/for+목적격에 밑줄이 그어진 완성 문장 다섯 개 중 어법상 틀린 것 고르기",
+  "design": "같은 규칙을 빈칸 대신 이미 채워진 밑줄 부분(of/for+목적격)의 옳고 그름으로 확인한다. 문장마다 밑줄 친 전치사가 앞 형용사와 맞는지만 보면 되어 판단 수(다섯)와 단계는 원문항과 같고, 읽을 양은 46낱말(원문항 40, 1.15배), 어휘는 rude·wise·handwriting 수준이다. 정답은 일 판단 형용사 difficult에 of를 쓴 문장이고, 나머지는 성품 형용사+of(rude·wise) 둘과 일 판단 형용사+for(hard·exciting) 둘로 섞어 of/for만 보고 찍을 수 없게 했다.",
+  "stem": "다음 중 밑줄 친 부분이 어법상 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "It was rude <u>of him</u> to shout at the waiter.",
+   "It is hard <u>for me</u> to remember new names.",
+   "It was wise <u>of you</u> to take the subway.",
+   "It is difficult <u>of me</u> to read his handwriting.",
+   "It is exciting <u>for us</u> to travel by train."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "2-52",
+  "variant": 3,
+  "ref_format": "다섯 문장 중 빈칸에 of가 들어갈 수 없는 것 고르기(It is+형용사+of/for+목적격+to부정사)",
+  "new_format": "of/for가 채워진 문장 다섯 개 중 어법상 옳은 것 고르기",
+  "design": "같은 규칙을 ‘옳은 문장 하나 고르기’로 확인한다. 문장마다 형용사와 of/for의 짝 하나만 판단하므로 판단 수는 원문항과 같고, 읽을 양은 46낱말(원문항 40, 1.15배), 어휘는 backpack·seat belt·diary 수준이다. 틀린 넷은 일 판단 형용사(necessary·easy·useful)에 of를 쓴 것 셋과 성품 형용사 kind에 for를 쓴 것 하나로 모두 한 군데만 틀렸고, for와도 쓰일 수 있는 형용사(wise·nice 등)는 틀린 문장에 쓰지 않아 원어민 기준으로도 정답이 하나다.",
+  "stem": "다음 중 어법상 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "It was nice of Jinho to carry my backpack.",
+   "It is necessary of you to wear a seat belt.",
+   "It was kind for you to call my parents.",
+   "It was easy of me to find the bakery.",
+   "It is useful of students to keep a diary."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "2-61",
+  "variant": 1,
+  "ref_format": "동명사 목적어 앞 빈칸에 들어갈 동사(낱말 보기) 고르기",
+  "new_format": "짧은 대화 속 동명사 앞 빈칸에 들어갈 동사(과거형 낱말 보기) 고르기",
+  "design": "enjoy·finish·keep 등은 동명사를, want·hope·decide·plan 등은 to부정사를 목적어로 쓴다는 규칙을 확인한다. 서술문 빈칸을 짧은 대화의 빈칸으로 바꿨고, 빈칸 뒤 barking을 보고 동명사를 쓰는 동사 하나를 찾는 판단 한 번은 같다. 읽을 양은 17낱말(원문항 12, 원문항+5), 어휘는 tired·bark 수준이며, 오답은 모두 to부정사를 목적어로 쓰는 동사(wanted·hoped·decided·planned)이고 보기를 모두 과거형으로 맞췄다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Why are you so tired?\nB: My dog _______ barking all night.",
+  "c": [
+   "wanted",
+   "hoped",
+   "kept",
+   "decided",
+   "planned"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "2-61",
+  "variant": 2,
+  "ref_format": "동명사 목적어 앞 빈칸에 들어갈 동사(낱말 보기) 고르기",
+  "new_format": "to부정사 앞 빈칸에 들어갈 수 없는 동사 고르기(방향 반대)",
+  "design": "같은 규칙을 반대 방향에서 확인한다: 빈칸 뒤가 to부정사(to visit)이므로 to부정사를 목적어로 쓰지 못하는 동사 하나를 찾는다. 판단은 빈칸 하나에 동사 다섯을 대 보는 것으로 원문항과 같고, 읽을 양은 12낱말(원문항 12), 어휘는 visit·grandparents 수준이다. 정답은 동명사만 쓰는 avoids이고, 나머지 넷(plans·wants·hopes·expects)은 to부정사를 쓰는 동사라 모두 자연스럽다.",
+  "stem": "다음 빈칸에 들어갈 말로 알맞지 않은 것을 고르시오.",
+  "passage": "Sora _______ to visit her grandparents this weekend.",
+  "c": [
+   "plans",
+   "wants",
+   "hopes",
+   "avoids",
+   "expects"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "2-61",
+  "variant": 3,
+  "ref_format": "동명사 목적어 앞 빈칸에 들어갈 동사(낱말 보기) 고르기",
+  "new_format": "우리말에 맞게 동명사를 쓰는 동사 뒤 빈칸에 알맞은 목적어 형태 고르기(동사 → 형태)",
+  "design": "같은 규칙을 ‘동사가 주어졌을 때 목적어 형태 고르기’로 확인한다: give up은 동명사를 목적어로 쓰므로 drinking이다. 판단은 빈칸 하나(to drink인지 drinking인지)로 원문항과 같고, 읽을 양은 영어 13낱말(원문항 12)과 짧은 우리말 한 줄, 어휘는 give up·coffee 수준이다. 오답은 to부정사 to drink를 중심으로 동사원형·과거형·3인칭 단수형을 두었다.",
+  "stem": "다음 우리말과 뜻이 같도록 빈칸에 알맞은 말을 고르시오.",
+  "passage": "우리 아빠는 지난달에 커피 마시는 것을 끊으셨다.\nMy dad gave up _______ coffee last month.",
+  "c": [
+   "drink",
+   "drank",
+   "to drink",
+   "drinks",
+   "drinking"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "2-62",
+  "variant": 1,
+  "ref_format": "한 문장에서 어법상 어색한 부분을 바르게 바꾼 것(A → B 보기) 고르기",
+  "new_format": "우리말에 맞게 동명사구 주어 뒤 빈칸에 알맞은 동사 형태 고르기",
+  "design": "동명사(구) 주어는 단수 취급해 단수 동사를 쓴다는 규칙을 그대로 확인한다. 틀린 곳 찾아 고치기를 빈칸 채우기로 바꿨고, 주어(Taking good photos of wild animals)를 찾아 동사의 수를 정하는 판단 한 번은 같다. 읽을 양은 17낱말·99글자(원문항 17낱말·99글자), 어휘는 wild animals·patience 수준이며, 오답은 바로 앞 복수 명사 animals에 끌린 need·have needed와 동사 자리에 쓸 수 없는 needing·to need다.",
+  "stem": "다음 우리말에 맞게 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "야생 동물의 좋은 사진을 찍는 것은 많은 인내심이 필요하다.\nTaking good photos of wild animals _______ a lot of patience.",
+  "c": [
+   "needs",
+   "need",
+   "needing",
+   "to need",
+   "have needed"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "2-62",
+  "variant": 2,
+  "ref_format": "한 문장에서 어법상 어색한 부분을 바르게 바꾼 것(A → B 보기) 고르기",
+  "new_format": "동명사 주어 짧은 문장 다섯 개 중 어법상 틀린 것 고르기",
+  "design": "같은 규칙을 아주 짧은 문장 다섯 개로 확인한다. 보기마다 동명사 주어와 동사의 수 일치 한 곳만 보면 되고, 모든 문장에서 동사 바로 앞에 복수 명사(comics·cookies·friends·dishes·horses)가 있어 원문항·B~F의 함정과 같은 수준이다. 읽을 양은 22낱말(원문항 17, 1.3배), 어휘는 comics·cookies·horses 수준이며, 정답은 are를 쓴 Baking cookies 문장이고 옳은 문장에는 is·takes·was를 섞어 동사 형태만 보고 찍을 수 없다.",
+  "stem": "다음 중 어법상 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Reading comics is fun.",
+   "Baking cookies are not easy.",
+   "Making friends takes time.",
+   "Washing dishes is my job.",
+   "Riding horses was exciting."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "2-62",
+  "variant": 3,
+  "ref_format": "한 문장에서 어법상 어색한 부분을 바르게 바꾼 것(A → B 보기) 고르기",
+  "new_format": "짧은 글의 밑줄 친 ⓐ~ⓔ 다섯 곳 중 어법상 어색한 것 고르기",
+  "design": "같은 규칙을 원문항처럼 한 문장의 여러 곳 중 틀린 곳 찾기로 확인하되, 고친 형태 대신 밑줄 친 다섯 곳 중 어색한 곳을 고르게 했다. 판단할 다섯 곳은 원문항 보기와 같은 종류인 Feeding(동명사 주어)·chickens(명사의 수)·are(수 일치)·really(부사)·fun(형용사)이고, 앞 문장은 상황만 알려 준다. 읽을 양은 22낱말(원문항 17, 1.3배)이며, 정답은 단수 취급해야 할 동명사구 주어 뒤의 are다.",
+  "stem": "다음 글의 밑줄 친 ⓐ~ⓔ 중 어법상 어색한 것을 고르시오.",
+  "passage": "On weekends, I help on my grandpa's farm. ⓐ<u>Feeding</u> his ⓑ<u>chickens</u> in the morning ⓒ<u>are</u> ⓓ<u>really</u> ⓔ<u>fun</u>.",
+  "c": [
+   "ⓐ Feeding",
+   "ⓑ chickens",
+   "ⓒ are",
+   "ⓓ really",
+   "ⓔ fun"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "2-71",
+  "variant": 1,
+  "ref_format": "한 문장의 밑줄 친 동사 둘(명사 뒤 수식, be동사 뒤)의 알맞은 형태 짝 고르기",
+  "new_format": "짧은 대화의 두 빈칸 (A), (B)에 알맞은 분사 형태 짝 고르기",
+  "design": "명사를 뒤에서 꾸미는 분사는 능동이면 -ing·수동이면 p.p., be동사 뒤는 진행이면 -ing·수동이면 p.p.라는 규칙을 확인한다. 한 문장의 밑줄 두 곳을 대화의 두 빈칸으로 바꿨고, 판단은 (A) 명사 뒤 수식(편지가 쓰인 것 → written)과 (B) be동사 뒤(지금 읽는 중 → reading) 두 곳으로 원문항과 같다. 읽을 양은 24낱말(원문항 21, 1.14배), 어휘는 letter·again 수준이며, 오답은 능동/수동을 바꾼 writing·read와 동사 과거형 wrote로 원문항의 오답 구성(worn·sung·wears)과 같다.",
+  "stem": "다음 대화의 빈칸 (A), (B)에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+  "passage": "A: Did you read the letter (A)_______ by Jisu?\nB: Yes. I'm (B)_______ it again now.",
+  "c": [
+   "writing — reading",
+   "written — read",
+   "wrote — reading",
+   "writing — read",
+   "written — reading"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "2-71",
+  "variant": 2,
+  "ref_format": "한 문장의 밑줄 친 동사 둘(명사 뒤 수식, be동사 뒤)의 알맞은 형태 짝 고르기",
+  "new_format": "분사가 한 곳씩 든 짧은 문장 다섯 개 중 어법상 어색한 것 고르기",
+  "design": "같은 규칙을 짧은 문장 다섯 개에서 확인한다. 보기마다 분사 한 곳(명사 뒤 수식의 -ing/p.p., be동사 뒤의 진행/수동)만 판단하면 되고, 읽을 양은 27낱말(원문항 21, 1.3배), 어휘는 fix·wash·named 수준이다. 정답은 문을 고치고 있는 능동 상황에 is fixed를 쓴 문장이고, 나머지 넷에는 dancing(능동 수식)·was washed(수동)·named(수동 수식)·are swimming(진행)으로 원문항이 다루는 쓰임을 고루 넣었다.",
+  "stem": "다음 중 어법상 어색한 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "The man is fixed the door.",
+   "The boy dancing there is Tom.",
+   "The car was washed yesterday.",
+   "She has a dog named Coco.",
+   "The kids are swimming."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "2-71",
+  "variant": 3,
+  "ref_format": "한 문장의 밑줄 친 동사 둘(명사 뒤 수식, be동사 뒤)의 알맞은 형태 짝 고르기",
+  "new_format": "한 문장의 밑줄 친 분사 두 곳 중 어색한 것을 바르게 고친 것(A → B 보기) 고르기",
+  "design": "같은 규칙을 ‘알맞은 형태 짝 고르기’에서 ‘두 밑줄 중 틀린 곳 고치기’로 바꿔 확인한다. 학생은 baked(쿠키가 구워진 것 → 수동 수식, 옳음)와 eating(쿠키가 먹힌 것 → were eaten)을 각각 판단하므로 판단 수는 둘로 같고, 읽을 양은 21낱말(원문항 21), 어휘는 cookies·children 수준이다. 오답은 옳은 baked를 능동으로 잘못 고친 baking, 동사 꼴 bakes, 시제만 바꾼 ate, 원형 eat이다.",
+  "stem": "다음 문장의 밑줄 친 부분 중 어법상 어색한 것을 바르게 고친 것을 고르시오.",
+  "passage": "The cookies <u>baked</u> by my uncle were <u>eating</u> by the children.",
+  "c": [
+   "baked → baking",
+   "baked → bakes",
+   "eating → eaten",
+   "eating → ate",
+   "eating → eat"
+  ],
+  "ans": 3
+ }
+]

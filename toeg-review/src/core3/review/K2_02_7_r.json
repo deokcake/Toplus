@@ -1,0 +1,257 @@
+[
+ {
+  "key": "2-22",
+  "variant": 1,
+  "ref_format": "두 문장(과거의 상태·과거의 습관)의 빈칸에 공통으로 들어갈 조동사 고르기(낱말 보기)",
+  "new_format": "짧은 문장 다섯 개 중 밑줄 친 used to를 would로 바꿔 쓸 수 없는 것 고르기(낱말 보기 → 짧은 문장 보기, 묻는 방향 뒤집기)",
+  "design": "‘used to는 과거의 상태와 반복 행동을 모두 나타내지만 would는 반복 행동에만 쓴다’는 같은 규칙을, 빈칸 채우기 대신 used to가 든 문장 중 would로 바꿀 수 없는 것을 고르는 방향으로 바꿨다. 보기마다 판단은 ‘동작인가 상태인가’ 한 군데이고, 읽을 양은 40낱말(1.3배), 어휘(dog, swim, bake, kites, jog)는 원문항보다 쉽다. 오답 네 개는 every summer·on Sundays·as kids·every morning이 붙은 과거의 반복 행동이라 would로 바꿀 수 있고, 정답은 소유 상태(have a dog)라 would를 쓸 수 없다.",
+  "stem": "다음 중 밑줄 친 부분을 would로 바꿔 쓸 수 없는 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Grandpa <u>used to</u> have a dog as a boy.",
+   "Minho <u>used to</u> swim in this river every summer.",
+   "My aunt <u>used to</u> bake bread on Sundays.",
+   "We <u>used to</u> fly kites as kids.",
+   "My dad <u>used to</u> jog every morning."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "2-22",
+  "variant": 2,
+  "ref_format": "두 문장(과거의 상태·과거의 습관)의 빈칸에 공통으로 들어갈 조동사 고르기(낱말 보기)",
+  "new_format": "지금은 아닌 과거의 상태를 말하는 우리말을 영어로 바르게 옮긴 문장 고르기(조동사만 다른 문장 보기)",
+  "design": "원문항의 정답을 가르는 첫째 문장(There _____ be …, 과거의 상태)을 우리말 영작 형식으로 옮겨, 과거의 상태에는 used to만 쓰고 would는 쓸 수 없다는 같은 규칙으로 답이 갈리게 했다. 판단은 ‘과거의 상태 → used to’ 한 가지이고, 보기 다섯 문장은 조동사 부분만 달라 읽을 양은 38낱말(1.2배), 어휘(building, post office)는 원문항 수준이다. 오답은 핵심 함정인 would be(상태에 would), 원문항의 will·may처럼 과거를 나타내지 못하는 will be·must be, used to와 헷갈리는 is used to being(~에 익숙하다)이다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "이 건물은 예전에 우체국이었다.",
+  "c": [
+   "This building would be a post office.",
+   "This building will be a post office.",
+   "This building used to be a post office.",
+   "This building is used to being a post office.",
+   "This building must be a post office."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "2-22",
+  "variant": 3,
+  "ref_format": "두 문장(과거의 상태·과거의 습관)의 빈칸에 공통으로 들어갈 조동사 고르기(낱말 보기)",
+  "new_format": "짧은 대화의 빈칸에 들어갈 말 고르기(지금은 아닌 과거의 소유 상태, 조동사+동사 구 보기)",
+  "design": "두 문장의 공통 빈칸을 짧은 대화 속 빈칸 하나로 바꾸고, 빈칸 뒤에 소유 상태(have a small garden)를 두어 과거의 상태에는 used to만 쓰고 would는 쓸 수 없다는 같은 규칙이 답을 가르게 했다. but she doesn't have one now가 원문항의 but now처럼 ‘지금은 아니다’를 알려 주며, 판단은 한 곳, 읽을 양은 33낱말(1.1배), 어휘(neighbor, vegetables, garden)는 원문항 수준이다. 오답은 핵심 함정 would have, B~F의 is used to처럼 used to와 헷갈리는 is used to have, 원문항의 may·should처럼 과거를 나타내지 못해 now 절과 맞지 않는 might have·has to have다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Does your neighbor grow vegetables, Jiwon?\nB: No. She _______ a small garden, but she doesn't have one now.",
+  "c": [
+   "would have",
+   "is used to have",
+   "might have",
+   "used to have",
+   "has to have"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "2-31",
+  "variant": 1,
+  "ref_format": "문장의 빈칸에 알맞은 동사 형태 고르기(능동/수동·시제·수 구별, 구 보기)",
+  "new_format": "능동태 문장을 수동태로 바꿀 때 빈칸에 알맞은 것 고르기(문장 전환)",
+  "design": "주어가 동작을 받는 대상이면 be동사 + 과거분사를 쓰고 be동사를 주어의 수·시제에 맞춘다는 같은 규칙을, 빈칸 채우기 대신 능동태 → 수동태 전환 형식으로 확인한다. 빈칸 하나에서 태·시제(washed → 과거)·수(These dishes → 복수)를 원문항처럼 한 번에 판단하며, 읽을 양은 19낱말(1.1배), 어휘(brother, wash, dishes)는 원문항보다 쉽다. 오답은 원문항과 같은 종류로 능동 과거(washed), 수 불일치(was washed), 능동 진행(were washing), 능동 완료(have washed)다.",
+  "stem": "다음 두 문장의 뜻이 같도록 빈칸에 알맞은 것을 고르시오.",
+  "passage": "My brother washed these dishes.\n= These dishes _______ by my brother.",
+  "c": [
+   "washed",
+   "was washed",
+   "were washing",
+   "have washed",
+   "were washed"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "2-31",
+  "variant": 2,
+  "ref_format": "문장의 빈칸에 알맞은 동사 형태 고르기(능동/수동·시제·수 구별, 구 보기)",
+  "new_format": "짧은 대화의 빈칸에 알맞은 동사 형태 고르기(대화 속 수동태)",
+  "design": "같은 규칙(동작을 받는 주어 → be동사 + 과거분사, be동사는 수·시제에 맞춤)을 평서문 대신 짧은 대화의 대답 속 빈칸으로 옮겼다. 주어 It(집)은 칠해지는 대상이고 last weekend가 과거를 알려 주어 판단 단계가 원문항과 같으며, 읽을 양은 19낱말(1.1배), 어휘(house, different, paint)는 원문항보다 쉽다. 오답은 능동 과거(painted), 시제 불일치(is painted), 수 불일치(were painted), 능동 진행(was painting)으로 원문항의 오답 종류와 같다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Your house looks different.\nB: Yes. It _______ last weekend.",
+  "c": [
+   "was painted",
+   "painted",
+   "is painted",
+   "were painted",
+   "was painting"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "2-31",
+  "variant": 3,
+  "ref_format": "문장의 빈칸에 알맞은 동사 형태 고르기(능동/수동·시제·수 구별, 구 보기)",
+  "new_format": "능동형으로 잘못 쓴 밑줄 친 동사를 바르게 고친 것 고르기(현재 시제·복수 주어)",
+  "design": "빈칸 채우기를 ‘밑줄 친 부분 바르게 고치기’로 바꿔, 교실은 청소되는 대상이므로 be동사 + 과거분사를 쓰고 be동사를 복수 주어(our classrooms)와 현재(These days)에 맞춘다는 같은 규칙을 확인한다. 다른 두 변형(과거 복수 were washed, 과거 단수 was painted)과 겹치지 않게 현재 시제와 가족이 아닌 행위자(students)를 썼고, 고칠 곳은 밑줄 한 군데, 읽을 양은 18낱말(1.1배), 어휘(classroom, clean, lunch)는 원문항보다 쉽다. 오답은 원문항과 같은 종류로 수 불일치(is cleaned), 시제 불일치(were cleaned), 능동 진행(are cleaning), 능동 완료(have cleaned)다.",
+  "stem": "다음 문장의 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "These days, our classrooms <u>clean</u> by students after lunch.",
+  "c": [
+   "is cleaned",
+   "are cleaned",
+   "were cleaned",
+   "are cleaning",
+   "have cleaned"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "2-32",
+  "variant": 1,
+  "ref_format": "대화의 두 빈칸(Did + 동사원형 / 과거 수동태)에 들어갈 말 짝 고르기",
+  "new_format": "대화에서 밑줄 친 다섯 군데 중 어법상 어색한 것 고르기(수동태 의문문으로 시작하는 새 대화)",
+  "design": "두 빈칸 짝 고르기를 ‘대화의 밑줄 친 다섯 군데 중 어색한 것 고르기’로 바꾸고, 대화도 수동태 의문문(Was this song written by ~?)으로 시작해 원문항의 ‘Did ~? / No, it ~ by my ~’ 틀을 벗어났다. 밑줄에는 원문항의 두 규칙이 모두 들어 있어, 수동태 자리(① written, ② was sung)와 능동 과거(③ played, ⑤ listened)는 맞고 Did + 주어 뒤에 과거형을 쓴 ④ sang만 틀리며, 읽을 양은 32낱말(1.2배), 어휘(song, choir, piano)는 원문항 수준이다. 수동태를 모르는 학생은 ①·②를, Did 뒤 동사원형을 모르는 학생은 ④를 맞다고 여겨 오답을 고르게 된다.",
+  "stem": "다음 대화의 밑줄 친 부분 중 어법상 어색한 것을 고르시오.",
+  "passage": "A: Was this song ①<u>written</u> by Jiho?\nB: Yes. It ②<u>was sung</u> by the choir, and he ③<u>played</u> the piano.\nA: Did you ④<u>sang</u> in the choir?\nB: No, I just ⑤<u>listened</u>.",
+  "c": [
+   "①",
+   "②",
+   "③",
+   "④",
+   "⑤"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "2-32",
+  "variant": 2,
+  "ref_format": "대화의 두 빈칸(Did + 동사원형 / 과거 수동태)에 들어갈 말 짝 고르기",
+  "new_format": "대화에서 어법상 어색한 부분을 찾아 바르게 고친 것 고르기(‘고칠 말 → 고친 말’ 보기)",
+  "design": "두 빈칸에 넣는 대신 대화의 두 동사 자리(Did Mr. Lim fix / it fixed)를 모두 점검해 틀린 곳을 찾아 고치게 하여, Did 뒤 동사원형과 동작을 받는 주어의 수동태라는 같은 두 규칙을 확인한다. 묻는 쪽은 제3자(Mr. Lim)에 대해 묻고 행위자도 가족이 아닌 과학 선생님으로 바꿔 원문항·C유형 틀을 벗어났으며, 판단할 곳은 원문항과 같은 두 군데, 읽을 양은 33낱말(1.2배), 어휘(fix, clock, classroom)는 원문항 수준이다. 오답은 맞게 쓴 Did 뒤 동사원형을 과거형·수동태로 바꾸는 것(fix → fixed, fix → was fixed)과 수동태 자리를 능동 진행·능동 완료로 고치는 것(was fixing, has fixed)이다.",
+  "stem": "다음 대화에서 어법상 어색한 부분을 찾아 바르게 고친 것을 고르시오.",
+  "passage": "A: Did Mr. Lim fix the clock in our classroom?\nB: No, it fixed by our science teacher yesterday.",
+  "c": [
+   "fix → fixed",
+   "fix → was fixed",
+   "fixed → was fixing",
+   "fixed → has fixed",
+   "fixed → was fixed"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "2-32",
+  "variant": 3,
+  "ref_format": "대화의 두 빈칸(Did + 동사원형 / 과거 수동태)에 들어갈 말 짝 고르기",
+  "new_format": "Did 의문문과 수동태 문장이 섞인 짧은 문장 다섯 개 중 어법상 올바른 것 고르기(짝 보기 → 짧은 문장 보기)",
+  "design": "원문항의 두 판단(Did + 동사원형, 동작을 받는 주어 → be동사 + 과거분사)을 짧은 문장 다섯 개에 나눠 담아, 보기마다 한 군데만 판단해 올바른 문장을 고르게 했다. 문장은 모두 6낱말로 길이를 맞췄고 읽을 양은 30낱말(1.1배), 어휘(muffins, pizza, windows, plant)는 원문항 수준이다. 오답은 Did 뒤 과거형(baked, planted), be동사를 빠뜨린 수동태(The windows cleaned), 과거분사 대신 -ing를 쓴 수동태(was washing)로 원문항 오답과 같은 실수다.",
+  "stem": "다음 중 어법상 올바른 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Did Jiwoo baked these muffins today?",
+   "The pizza was ordered by Mina.",
+   "The windows cleaned by Hojin yesterday.",
+   "Did your mom planted these trees?",
+   "The car was washing by Dad."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "2-41",
+  "variant": 1,
+  "ref_format": "‘둘 중 하나는 One’ 뒤 빈칸에 나머지 하나를 가리키는 말 고르기(낱말 보기)",
+  "new_format": "둘 중 나머지 하나를 잘못 나타낸 밑줄 친 부분을 바르게 고친 것 고르기(대명사 + 동사 구 보기)",
+  "design": "둘 중 하나는 one, 나머지 하나는 the other라는 같은 규칙을 ‘밑줄 친 another lives 바르게 고치기’로 바꿨다. 보기는 대명사에 맞춰 동사 수까지 맞춘 구라서 판단할 곳은 ‘두 명 중 남은 한 명을 무엇으로 가리키나’ 한 군데이며, 읽을 양은 25낱말(1.3배), 어휘(uncles, Daegu, Ulsan)는 원문항보다 쉽다. 오답은 원문항과 같은 종류로 명사 없이 쓴 other, 여럿을 가리키는 others·the others, 일부를 뜻하는 some이다.",
+  "stem": "다음 문장의 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "Jiho has two uncles. One lives in Daegu, and <u>another lives</u> in Ulsan.",
+  "c": [
+   "other lives",
+   "the other lives",
+   "others live",
+   "the others live",
+   "some live"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "2-41",
+  "variant": 2,
+  "ref_format": "‘둘 중 하나는 One’ 뒤 빈칸에 나머지 하나를 가리키는 말 고르기(낱말 보기)",
+  "new_format": "짧은 대화에서 둘 중 나머지 하나에 대해 묻는 말 고르기(대화의 빈칸, 짧은 질문 보기)",
+  "design": "같은 규칙(둘 중 남은 하나 = the other)을 평서문 빈칸 대신 짧은 대화에서 ‘나머지 한 명은?’이라고 되묻는 말을 고르는 형식으로 바꿨다. 두 자매 중 한 명을 말한 뒤 남은 사람은 정해진 한 명뿐이라 판단은 한 곳이고, 읽을 양은 26낱말(1.3배), 어휘(sisters, firefighter)는 원문항 수준이다. 오답은 B~F 낱말 묶음을 그대로 쓰지 않고, 셋 이상일 때 쓰는 another, 여럿을 가리키는 the others에 더해 ‘그 한 명’으로 잘못 옮긴 the one, 일부를 뜻하는 some(원문항의 any 자리)을 새로 넣었다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: You have two sisters, right?\nB: Yes. One is a firefighter.\nA: _______",
+  "c": [
+   "And another?",
+   "And the one?",
+   "And the other?",
+   "And some?",
+   "And the others?"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "2-41",
+  "variant": 3,
+  "ref_format": "‘둘 중 하나는 One’ 뒤 빈칸에 나머지 하나를 가리키는 말 고르기(낱말 보기)",
+  "new_format": "우리말에 맞게 영어 문장의 빈칸에 들어갈 말 고르기(우리말 ‘다른 하나’ → 영어, 낱말·구 보기)",
+  "design": "같은 규칙(둘 중 하나는 one, 나머지 하나는 the other)을 우리말이 딸린 빈칸 채우기로 옮겼다. 우리말은 ‘나머지’가 아니라 ‘다른 하나’라고만 해 정답을 알려 주지 않으므로, 원문항처럼 전체 수(Two boxes)를 보고 남은 하나가 정해져 있다는 판단 한 가지로 답이 갈리며, 읽을 양은 21낱말(1.1배), 어휘(box, arrive, empty)는 원문항 수준이다. 오답은 ‘다른 하나’를 그대로 옮긴 other one, 셋 이상일 때 쓰는 another, 단독으로 쓰지 않는 ones, 복수라 was와 맞지 않는 the others로, B~F 낱말 묶음을 그대로 쓰지 않았다.",
+  "stem": "다음 우리말에 맞게 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "오늘 아침 상자 두 개가 도착했다. 하나에는 책이 들어 있었고, 다른 하나는 비어 있었다.\nTwo boxes arrived this morning. One had books in it, and _______ was empty.",
+  "c": [
+   "other one",
+   "another",
+   "ones",
+   "the others",
+   "the other"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "2-42",
+  "variant": 1,
+  "ref_format": "우리말에 맞게 ‘나머지 전부’를 가리키는 말을 빈칸에 고르기(낱말 보기)",
+  "new_format": "글 속 밑줄 친 the others가 가리키는 것을 우리말 보기에서 고르기(우리말 → 영어 빈칸을 영어 → 우리말 뜻으로 뒤집기)",
+  "design": "여럿 중 하나는 one, 나머지 전부는 the others라는 같은 규칙을 거꾸로 물어, 영어 글의 the others가 가리키는 대상을 우리말로 고르게 했다. 동사를 수가 드러나지 않는 과거형(sang, danced)으로 바꿔 동사 수로 보기를 지울 수 없게 하고, 노래한 아이가 춤도 출 수 있는 상황이라 ‘다섯 명 모두’도 문맥만으로는 지워지지 않게 하여, 전체 수(Five)에서 One을 뺀 나머지 ‘모두’라는 판단 한 가지로 답이 갈린다. 영어 읽을 양은 16낱말(1.0배), 어휘(festival, sing, dance)는 원문항 수준이고, 오답은 the other(나머지 하나)·another(또 다른 하나)·others(나머지 중 일부)로 잘못 아는 경우와 One까지 포함한 전체로 읽는 경우다.",
+  "stem": "다음 글의 밑줄 친 the others가 가리키는 것으로 알맞은 것을 고르시오.",
+  "passage": "Five kids from my class performed at the school festival. One sang, and <u>the others</u> danced.",
+  "c": [
+   "나머지 아이 네 명 모두",
+   "나머지 아이 한 명",
+   "또 다른 아이 한 명",
+   "나머지 중 몇몇 아이",
+   "아이 다섯 명 모두"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "2-42",
+  "variant": 2,
+  "ref_format": "우리말에 맞게 ‘나머지 전부’를 가리키는 말을 빈칸에 고르기(낱말 보기)",
+  "new_format": "우리말에 맞게 밑줄 친 부분을 바르게 고친 것 고르기(대명사 + be동사 구 보기)",
+  "design": "빈칸 채우기를 ‘우리말에 맞게 밑줄 친 another was 바르게 고치기’로 바꿔, 나머지 전부(일곱 장 모두)는 the others로 나타낸다는 같은 규칙을 확인한다. 보기는 대명사와 be동사의 수를 맞춘 구라서 판단은 ‘나머지 전부를 무엇으로 가리키나’ 한 곳이고, 영어 읽을 양은 20낱말(1.3배), 어휘(photo, blurry, clear)는 원문항 수준이다. 오답은 나머지 하나(the other was), 나머지 중 일부(others were, some were), 우리말 ‘모두’에 끌린 all were다.",
+  "stem": "다음 우리말에 맞게 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "사진 여덟 장 중 한 장은 흐릿했고, 나머지는 모두 선명했다.\nOne photo was blurry, and <u>another was</u> clear.",
+  "c": [
+   "the other was",
+   "the others were",
+   "others were",
+   "all were",
+   "some were"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "2-42",
+  "variant": 3,
+  "ref_format": "우리말에 맞게 ‘나머지 전부’를 가리키는 말을 빈칸에 고르기(낱말 보기)",
+  "new_format": "짧은 글의 밑줄 친 우리말 문장을 영어로 바르게 옮긴 것 고르기(짧은 문장 보기)",
+  "design": "우리말에 맞는 낱말 고르기를 ‘밑줄 친 우리말 문장을 영어로 옮기기’로 바꿔, 여섯 명 중 한 명을 뺀 나머지 전부는 The others라는 같은 규칙으로 답이 갈리게 했다. 보기는 주어만 다른 2~3낱말 문장이라 판단은 한 곳이고, 영어 읽을 양은 20낱말(1.3배), 어휘(joke, laugh)는 원문항보다 쉽다. 오답은 나머지 중 일부(Others), 나머지 하나(The other), 또 다른 하나(Another), 우리말 ‘모두’에 끌려 한 명까지 포함한 All이다.",
+  "stem": "다음 글의 밑줄 친 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "Six boys heard the joke. One didn't laugh. <u>나머지는 모두 웃었다.</u>",
+  "c": [
+   "Others laughed.",
+   "The other laughed.",
+   "The others laughed.",
+   "Another laughed.",
+   "All laughed."
+  ],
+  "ans": 3
+ }
+]

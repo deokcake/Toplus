@@ -1,0 +1,257 @@
+[
+ {
+  "key": "7-51",
+  "variant": 1,
+  "ref_format": "우리말에 해당하는 영어 문장 고르기(문장 보기 5개)",
+  "new_format": "우리말에 맞게 영어 문장의 빈칸에 들어갈 동사 고르기(낱말 보기)",
+  "design": "핵심 규칙(우리말의 동작을 영어 동사와 맞추기)을 그대로 확인하되, 문장 보기 대신 우리말이 딸린 영어 문장의 빈칸에 동사 한 낱말을 넣는 형식으로 바꿨다. 판단은 ‘씻긴다’에 맞는 동사 하나(원문항도 ‘좋아한다·음악’ 한 짝)이고, 읽을 양은 우리말 두 문장+영어 두 문장+낱말 5개로 원문항의 1.1~1.2배, 어휘는 dog·home·week·wash 등 3~4학년 수준. 오답은 my dog와 자연스럽게 어울리는 다른 동작(walk·feed·draw·hug)이다.",
+  "stem": "다음 우리말에 맞게 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "나는 집에 개가 한 마리 있다. 나는 매주 내 개를 씻긴다.\nI have a dog at home. I _______ my dog every week.",
+  "c": [
+   "wash",
+   "walk",
+   "feed",
+   "draw",
+   "hug"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "7-51",
+  "variant": 2,
+  "ref_format": "우리말에 해당하는 영어 문장 고르기(문장 보기 5개)",
+  "new_format": "우리말에 맞게 밑줄 친 동사를 바르게 고친 것 고르기(낱말 보기)",
+  "design": "같은 규칙을 ‘밑줄 친 동사를 우리말에 맞게 고치기’로 바꿨다. 우리말 두 문장과 영어 두 문장을 읽고 ‘만든다’에 맞는 동사 하나만 고르면 되므로 판단 1회, 읽을 양은 원문항의 1.0~1.3배, 어휘는 art class·cards 수준이다. 오답은 cards와 자연스럽게 쓰이는 다른 동사(sell·write·cut·send)이다.",
+  "stem": "다음 우리말에 맞게 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "우리는 미술 수업을 좋아한다. 우리는 미술 수업에서 카드를 만든다.\nWe like art class. We <u>buy</u> cards in art class.",
+  "c": [
+   "sell",
+   "make",
+   "write",
+   "cut",
+   "send"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "7-51",
+  "variant": 3,
+  "ref_format": "우리말에 해당하는 영어 문장 고르기(문장 보기 5개)",
+  "new_format": "우리말에 맞게 짧은 대화의 빈칸에 들어갈 동사구 고르기(두 낱말 보기)",
+  "design": "같은 규칙을 짧은 대화의 빈칸 채우기로 바꿨다. 우리말 ‘테니스를 쳐’에 맞는 동사구 하나를 고르는 판단 1회이며, 대화 두 줄+두 낱말 보기 5개로 읽을 양은 원문항의 1.1~1.3배, 어휘는 sports·tennis 수준이다. 오답은 tennis 앞에 올 수 있는 다른 동사(watch·like·teach·learn)로, A의 like에 끌려 like tennis를 고르는 실수를 잡는다.",
+  "stem": "우리말에 맞게 다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: I like sports.\nB: Me too. I _______. (나는 테니스를 쳐.)",
+  "c": [
+   "watch tennis",
+   "like tennis",
+   "teach tennis",
+   "play tennis",
+   "learn tennis"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "7-52",
+  "variant": 1,
+  "ref_format": "동사원형-3인칭 단수형 짝 중 잘못된 것 고르기(낱말 짝 보기)",
+  "new_format": "동사원형-3인칭 단수형 짝 중 바르게 짝지어진 것 고르기(낱말 짝 보기)",
+  "design": "3인칭 단수형 철자 규칙(-s/-es/-ies)을 그대로 확인하되, 방향을 뒤집어 ‘바르게 짝지어진 것’ 하나를 찾게 했다. 원문항처럼 짝 5개를 하나씩 판정하며, 읽을 양(낱말 10개)과 어휘(finish·go·play·touch·copy)는 원문항과 같은 수준이다. 오답은 실제 학생 오류인 -es 빠뜨림(finishs·touchs), -o 뒤에 -s만 붙임(gos), 모음+y에 -ies 적용(plaies)이다.",
+  "stem": "다음 중 동사원형과 3인칭 단수형이 바르게 짝지어진 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "finish - finishs",
+   "go - gos",
+   "play - plaies",
+   "touch - touchs",
+   "copy - copies"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "7-52",
+  "variant": 2,
+  "ref_format": "동사원형-3인칭 단수형 짝 중 잘못된 것 고르기(낱말 짝 보기)",
+  "new_format": "밑줄 친 동사의 3인칭 단수형이 틀린 문장 고르기(세 낱말 문장 보기)",
+  "design": "같은 철자 규칙을 낱말 짝 대신 세 낱말짜리 문장 보기에 넣어 밑줄 친 동사의 형태가 틀린 것을 고르게 했다. 보기마다 판단할 곳은 동사 하나뿐이라 판단 5회로 원문항과 같고, 읽을 양은 낱말 15개(원문항 10개, 아주 짧은 원문항 +8 규칙 안)이며 어휘는 teach·fly·go·read·miss 수준이다. 정답은 -ch 뒤 -es를 빠뜨린 teachs, 오답 넷은 -ies·-es·-s를 바르게 쓴 형태(flies·goes·reads·misses)이다.",
+  "stem": "다음 중 밑줄 친 동사의 형태가 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "She <u>teachs</u> art.",
+   "Ann <u>flies</u> kites.",
+   "Dad <u>goes</u> home.",
+   "Jin <u>reads</u> books.",
+   "He <u>misses</u> Mom."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "7-52",
+  "variant": 3,
+  "ref_format": "동사원형-3인칭 단수형 짝 중 잘못된 것 고르기(낱말 짝 보기)",
+  "new_format": "3인칭 단수 주어 문장의 빈칸에 철자가 바른 동사 형태 고르기(낱말 보기)",
+  "design": "같은 규칙을 빈칸 하나짜리 문장으로 바꿨다. 보기 다섯 동사가 모두 뜻으로는 들어갈 수 있게 하여 철자 형태만으로 판단하게 했으므로 판단 5회, 읽을 양은 낱말 12개로 원문항의 1.2배, 어휘는 wash·drive·fix·clean·have 수준이다. 오답은 -es 빠뜨림(washs·fixs), 불필요한 -es(cleanes), 불규칙 have를 규칙처럼 바꾼 haves이다.",
+  "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "My dad _______ the car every Sunday morning.",
+  "c": [
+   "washs",
+   "drives",
+   "fixs",
+   "cleanes",
+   "haves"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "7-61",
+  "variant": 1,
+  "ref_format": "doesn't 문장의 빈칸에 들어갈 수 없는 주어 고르기(낱말 보기)",
+  "new_format": "don't 문장의 빈칸에 들어갈 수 있는 주어 고르기(낱말 보기)",
+  "design": "doesn't/don't와 주어의 짝(3인칭 단수 ↔ 그 밖)을 그대로 확인하되, don't 문장에 ‘들어갈 수 있는’ 주어를 고르는 반대 방향으로 바꿨다. 주어 보기 5개를 한 번씩 판단하는 점, 읽을 양(낱말 12개, 원문항 11개), 어휘(brother·cat·friends·son)가 원문항과 같은 수준이다. 오답은 모두 한 사람·한 마리(3인칭 단수) 주어로, 단수 주어에 don't를 쓰는 실제 오류를 반영했다.",
+  "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "_______ don't like carrots.",
+  "c": [
+   "My brother",
+   "The cat",
+   "Jenny",
+   "My friends",
+   "Her son"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "7-61",
+  "variant": 2,
+  "ref_format": "doesn't 문장의 빈칸에 들어갈 수 없는 주어 고르기(낱말 보기)",
+  "new_format": "밑줄 친 don't/doesn't가 틀린 문장 고르기(세 낱말 문장 보기)",
+  "design": "같은 규칙을 밑줄 친 don't/doesn't가 든 세 낱말 문장 5개 중 틀린 것 고르기로 바꿨다. 보기마다 주어와 부정형의 짝 하나만 보면 되어 판단 5회, 읽을 양은 낱말 15개(원문항 11개, +8 이내), 어휘는 fly·cook·run·sing·dance 수준이다. 오답 넷은 짝이 맞는 문장(Dogs·They + don't, He·Mom + doesn't)이고, 정답은 이름 주어(Yuna)에 don't를 쓴 것이다.",
+  "stem": "다음 중 밑줄 친 부분이 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Dogs <u>don't</u> fly.",
+   "He <u>doesn't</u> cook.",
+   "They <u>don't</u> run.",
+   "Mom <u>doesn't</u> sing.",
+   "Yuna <u>don't</u> dance."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "7-61",
+  "variant": 3,
+  "ref_format": "doesn't 문장의 빈칸에 들어갈 수 없는 주어 고르기(낱말 보기)",
+  "new_format": "빈칸에 doesn't가 들어갈 수 있는 문장 고르기(빈칸 있는 짧은 문장 보기)",
+  "design": "같은 규칙을 ‘빈칸에 doesn't가 들어갈 수 있는 문장’ 고르기로 바꿨다(주어 낱말 보기 ↔ 그 주어가 든 짧은 문장 보기). 문장마다 주어가 3인칭 단수인지 한 번씩 보므로 판단 5회, 읽을 양은 낱말 15개(+8 이내), 어휘는 milk·swim·fish·games·sing 수준이다. 정답은 The boy, 오답은 don't가 들어가는 주어 We·I·They·You이다.",
+  "stem": "다음 중 빈칸에 doesn't가 들어갈 수 있는 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "We _______ like milk.",
+   "The boy _______ swim.",
+   "I _______ eat fish.",
+   "They _______ play games.",
+   "You _______ sing well."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "7-62",
+  "variant": 1,
+  "ref_format": "빈칸에 do not/does not이 들어갈 때 나머지와 다른 문장 고르기(문장 보기 5개)",
+  "new_format": "한 문장의 빈칸에 들어갈 ‘주어+do not/does not’ 묶음 고르기(구 보기)",
+  "design": "do not/does not과 주어의 짝 규칙을 그대로 확인하되, 문장 5개 대신 한 문장의 빈칸에 ‘주어+do not/does not’ 묶음을 넣는 형식으로 바꿨다. 보기마다 주어와 부정형의 짝 하나를 보므로 판단 5회로 같고, 읽을 양은 낱말 23개(원문항 19개, 1.2배), 어휘는 mom·dad·boys·coffee·morning 수준이다. 오답은 단수 주어+do not(My mom·She), 복수 주어+does not(The boys·They)이다.",
+  "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "_______ drink coffee in the morning.",
+  "c": [
+   "My mom do not",
+   "My dad does not",
+   "The boys does not",
+   "She do not",
+   "They does not"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "7-62",
+  "variant": 2,
+  "ref_format": "빈칸에 do not/does not이 들어갈 때 나머지와 다른 문장 고르기(문장 보기 5개)",
+  "new_format": "do not/does not이 쓰인 문장 5개 중 옳은 문장 고르기(완전한 문장 보기)",
+  "design": "같은 규칙을 완전한 문장 5개 중 옳은 문장 고르기로 바꿨다. 각 문장에서 주어와 do not/does not의 짝 하나만 보면 되므로 판단 5회, 읽을 양은 낱말 23개(1.2배), 어휘는 cards·swim·drive·rain·sing 수준이다. 오답 넷은 복수·He·이름 주어에 짝이 틀린 부정형(We does not·He do not·They does not·Jiho do not)으로 각각 한 곳만 틀리다.",
+  "stem": "다음 중 옳은 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "We does not play cards.",
+   "He do not swim.",
+   "My aunt does not drive.",
+   "They does not like rain.",
+   "Jiho do not sing."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "7-62",
+  "variant": 3,
+  "ref_format": "빈칸에 do not/does not이 들어갈 때 나머지와 다른 문장 고르기(문장 보기 5개)",
+  "new_format": "밑줄 친 does not을 do not으로 고쳐야 하는 문장 고르기(완전한 문장 보기)",
+  "design": "같은 규칙을 ‘밑줄 친 does not을 do not으로 고쳐 써야 하는 문장’ 고르기로 바꿨다. 다섯 문장의 주어가 3인칭 단수인지 한 번씩 확인하므로 판단 5회, 읽을 양은 낱말 24개(1.26배), 어휘는 sister·baby·drive·cook·girls 수준이다. 정답은 복수 주어 The girls, 오답은 모두 한 사람 주어(My sister·The baby·Mr. Park·He)라 does not이 맞는 문장이다.",
+  "stem": "다음 중 밑줄 친 부분을 do not으로 고쳐 써야 하는 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "My sister <u>does not</u> swim.",
+   "The baby <u>does not</u> walk.",
+   "Mr. Park <u>does not</u> drive.",
+   "He <u>does not</u> cook.",
+   "The girls <u>does not</u> run."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "7-71",
+  "variant": 1,
+  "ref_format": "대화의 질문 빈칸에 알맞은 의문사 고르기(낱말 보기)",
+  "new_format": "우리말 질문을 영어로 바르게 옮긴 문장 고르기(세 낱말 질문 보기)",
+  "design": "의문사의 뜻(Who 사람·What 사물·Where 장소·When 때·How 상태)을 그대로 확인하되, 대화 빈칸 대신 우리말 질문을 영어로 바르게 옮긴 문장 고르기로 바꿨다. ‘무엇’에 맞는 의문사 하나를 고르는 판단 1회이고, 읽을 양은 우리말 한 문장+세 낱말 질문 5개(낱말 15개, 원문항 13개, 1.2배), 어휘는 that·is뿐이다. 오답은 같은 틀에 다른 의문사를 넣은 질문(Who·Where·When·How is that?)이다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "저것은 무엇이니?",
+  "c": [
+   "What is that?",
+   "Who is that?",
+   "Where is that?",
+   "When is that?",
+   "How is that?"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "7-71",
+  "variant": 2,
+  "ref_format": "대화의 질문 빈칸에 알맞은 의문사 고르기(낱말 보기)",
+  "new_format": "대화의 대답에 맞는 질문 고르기(세 낱말 질문 보기)",
+  "design": "같은 규칙을 반대 방향으로, 대답(Tomorrow.)이 알려 주는 정보(때)에 맞는 질문을 고르게 했다. 의문사 하나를 판단하는 1회 판단은 원문항과 같고, 읽을 양은 대화 두 줄+세 낱말 질문 5개(낱말 18개, 원문항 13개, 아주 짧은 원문항 +8 규칙 안), 어휘는 it·is·tomorrow뿐이다. 보기가 의문사 낱말이면 원문항·B~F와 보기 묶음이 겹칠 수밖에 없어 세 낱말 질문 보기로 했고, 오답은 사물·장소·사람·상태를 묻는 자연스러운 질문(What·Where·Who·How is it?)이다.",
+  "stem": "다음 대화의 빈칸에 들어갈 질문으로 알맞은 것을 고르시오.",
+  "passage": "A: _______\nB: Tomorrow.",
+  "c": [
+   "What is it?",
+   "Where is it?",
+   "When is it?",
+   "Who is it?",
+   "How is it?"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "7-71",
+  "variant": 3,
+  "ref_format": "대화의 질문 빈칸에 알맞은 의문사 고르기(낱말 보기)",
+  "new_format": "의문사 질문에 알맞은 대답 고르기(두 낱말 대답 보기)",
+  "design": "같은 규칙을 반대 방향으로, 의문사 질문(Where)에 맞는 대답 고르기로 바꿨다. 질문의 Where가 장소를 묻는다는 것 하나로 결정되므로 판단 1회, 읽을 양은 질문 한 줄+두 낱말 대답 5개(낱말 13개, 1.2배), 어휘는 doctor·uncle·Busan 수준이며 짧은 대답은 C유형(On your desk.)의 선례를 따랐다. 오답은 What(A doctor.)·When(At five.)·How(Very well.)·Who(My uncle.)에 어울리는 대답이다.",
+  "stem": "다음 대화에서 B의 대답으로 알맞은 것을 고르시오.",
+  "passage": "A: Where is Dad?\nB: _______",
+  "c": [
+   "A doctor.",
+   "At five.",
+   "Very well.",
+   "In Busan.",
+   "My uncle."
+  ],
+  "ans": 4
+ }
+]

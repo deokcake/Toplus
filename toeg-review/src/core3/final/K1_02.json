@@ -1,0 +1,257 @@
+[
+ {
+  "key": "1-22",
+  "variant": 1,
+  "ref_format": "would rather A than B의 두 빈칸에 들어갈 동사 형태 짝 고르기(짝 보기 5개)",
+  "new_format": "would rather A than B 문장 하나에서 틀린 부분을 찾아 바르게 고친 것 고르기(‘바꿀 말 → 고친 말’ 보기 5개)",
+  "design": "would rather A than B에서 A·B 자리에 모두 동사원형을 쓴다는 규칙을 그대로 확인한다. 두 빈칸 짝 고르기를 한 문장에서 틀린 곳을 찾아 바르게 고친 것 고르기로 바꿨고, would rather 뒤와 than 뒤 두 곳을 보는 판단 두 번은 원문항과 같으며, 읽을 양은 24낱말(원문항 22), 어휘는 bike·subway 수준이다. 틀린 곳 takes는 원문항 ②처럼 주어(Minho)에 끌려 -s를 붙인 실수이고, 오답은 맞게 쓴 ride를 -ing형·to부정사로 바꾸거나 takes를 -ing형·to부정사로 고친 것이다.",
+  "stem": "다음 문장에서 어법상 틀린 부분을 찾아 바르게 고친 것을 고르시오.",
+  "passage": "Minho would rather ride his bike to school than takes the subway.",
+  "c": [
+   "ride → riding",
+   "ride → to ride",
+   "takes → taking",
+   "takes → to take",
+   "takes → take"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "1-22",
+  "variant": 2,
+  "ref_format": "would rather A than B의 두 빈칸에 들어갈 동사 형태 짝 고르기(짝 보기 5개)",
+  "new_format": "짧은 대화의 빈칸 하나에 들어갈 ‘동사 than 동사’ 구 고르기(구 보기 5개)",
+  "design": "would rather A than B의 두 자리에 모두 동사원형을 쓰는 같은 규칙을, 두 빈칸 짝 대신 대화의 빈칸 하나에 ‘동사 than 동사’ 구를 넣는 형식으로 바꿨다. 구마다 than 앞뒤 두 동사 형태를 보는 판단 두 번으로 같고, 읽을 양은 28낱말(원문항 22, 1.27배), 어휘는 soccer·game 수준이다. 오답은 원문항과 같은 종류로 두 곳 모두 -s(plays than watches), 앞만 -ing형(playing), 앞만 to부정사(to play), than 뒤만 to부정사(than to watch)다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Let's watch the soccer game.\nB: Well, I would rather _______.",
+  "c": [
+   "plays than watches",
+   "play than watch",
+   "playing than watch",
+   "to play than watch",
+   "play than to watch"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "1-22",
+  "variant": 3,
+  "ref_format": "would rather A than B의 두 빈칸에 들어갈 동사 형태 짝 고르기(짝 보기 5개)",
+  "new_format": "우리말과 뜻이 같도록 would rather A than B의 빈칸 (A), (B)에 들어갈 말 짝 고르기",
+  "design": "would rather A than B의 A·B 자리에 동사원형을 쓰는 같은 규칙을, 우리말 뜻에 맞게 빈칸 (A), (B)를 채우는 형식으로 확인한다. 판단할 곳은 원문항처럼 두 빈칸이고, 영어 읽을 양은 25낱말(원문항 22), 어휘는 text message·face to face 수준이다. 오답은 앞 자리 to부정사(to talk), 두 곳 모두 -s(talks – sends), 앞 자리 -ing형(talking), than 뒤 -ing형(sending)으로, 우리말 뜻만으로는 형태를 고를 수 없다.",
+  "stem": "다음 우리말과 뜻이 같도록 할 때, 빈칸 (A), (B)에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+  "passage": "나는 그에게 긴 문자 메시지를 보내느니 차라리 얼굴을 보고 말하겠다.\n→ I would rather (A)_______ to him face to face than (B)_______ him a long text message.",
+  "c": [
+   "to talk – send",
+   "talks – sends",
+   "talk – send",
+   "talking – send",
+   "talk – sending"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "1-31",
+  "variant": 1,
+  "ref_format": "be p.p. 뒤 by가 아닌 전치사를 쓰는 두 문장의 빈칸에 들어갈 전치사 짝 고르기",
+  "new_format": "짧은 대화의 빈칸 (A), (B)에 들어갈 전치사 짝 고르기(be dressed in, be known for)",
+  "design": "수동태 뒤에 by가 아닌 정해진 전치사를 쓰는 표현(be dressed in, be known for)을 묶어 알아야 하는 같은 규칙을, 두 문장 대신 짧은 대화의 두 빈칸으로 옮겨 확인한다. 판단할 곳은 두 빈칸으로 같고, 읽을 양은 33낱말(원문항 26, 1.27배), 어휘는 singer·coat·style 수준이다. 보기는 원문항처럼 (A)·(B) 자리마다 전치사가 모두 달라 개수로 찍을 수 없고, 오답은 수동태라서 by를 쓴 실수(by – of), 옷에 with를 쓴 실수(with – about), known to·known with처럼 다른 표현과 헷갈린 짝이다.",
+  "stem": "다음 대화의 빈칸 (A), (B)에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+  "passage": "A: Look! The singer on the stage is dressed (A)_______ a long white coat.\nB: Yes. She is well known (B)_______ her unique fashion style.",
+  "c": [
+   "with – about",
+   "by – of",
+   "at – to",
+   "in – for",
+   "for – with"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "1-31",
+  "variant": 2,
+  "ref_format": "be p.p. 뒤 by가 아닌 전치사를 쓰는 두 문장의 빈칸에 들어갈 전치사 짝 고르기",
+  "new_format": "우리말 두 문장과 뜻이 같도록 빈칸 (A), (B)에 들어갈 전치사 짝 고르기(be based on, be filled with)",
+  "design": "be based on, be filled with처럼 수동태 뒤에 by가 아닌 정해진 전치사를 쓰는 같은 규칙을, 우리말 두 문장에 맞게 빈칸 (A), (B)를 채우는 형식으로 확인한다. 판단할 곳은 두 빈칸으로 같고, 우리말을 뺀 영어 읽을 양은 30낱말·121글자(원문항 26낱말·120글자, 1.15배)이며, 어휘는 movie·true story·theater·parents 수준이다. 오답은 수동태라서 by를 쓴 실수(by – of), be full of와 헷갈린 filled of, made from과 헷갈린 based from, 장소 전치사 at이며, (A)·(B) 자리마다 전치사가 모두 달라 개수 단서가 없다.",
+  "stem": "다음 우리말과 뜻이 같도록 할 때, 빈칸 (A), (B)에 알맞은 말이 순서대로 짝지어진 것을 고르시오.",
+  "passage": "이 영화는 용감한 개에 관한 실화를 바탕으로 한다.\n→ This movie is based (A)_______ a true story about a brave dog.\n그 극장은 신이 난 아이들과 부모들로 가득 차 있었다.\n→ The theater was filled (B)_______ excited children and their parents.",
+  "c": [
+   "by – of",
+   "of – at",
+   "from – in",
+   "at – about",
+   "on – with"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "1-31",
+  "variant": 3,
+  "ref_format": "be p.p. 뒤 by가 아닌 전치사를 쓰는 두 문장의 빈칸에 들어갈 전치사 짝 고르기",
+  "new_format": "두 문장에서 잘못 쓴 전치사 (A), (B)(밑줄)를 바르게 고친 것 짝 고르기(be married to, be covered with)",
+  "design": "be married to, be covered with처럼 수동태 뒤에 정해진 전치사를 쓰는 같은 규칙을, 빈칸 대신 잘못 쓴 전치사 (A) with, (B) of를 바르게 고친 짝을 고르는 형식으로 바꿨다. 판단할 곳은 원문항처럼 두 곳이고, 읽을 양은 31낱말(원문항 26, 1.19배), 어휘는 cousin·violinist·bookshelf·dust 수준이다. 오답은 married of/for/in/about, covered at/about/for/to처럼 다른 전치사로 고친 짝이며, 함께 쓸 수 있는 covered in이나 married by는 보기에 넣지 않아 정답이 하나뿐이다.",
+  "stem": "다음 두 문장의 밑줄 친 (A), (B)를 어법상 바르게 고친 것끼리 짝지어진 것을 고르시오.",
+  "passage": "My cousin is married (A)<u>with</u> a famous Korean violinist.\nThe old bookshelf in the living room was covered (B)<u>of</u> thick dust.",
+  "c": [
+   "of – at",
+   "to – with",
+   "for – about",
+   "in – for",
+   "about – to"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "1-32",
+  "variant": 1,
+  "ref_format": "have to가 든 능동문을 수동태로 바꿀 때 빈칸에 알맞은 동사 형태 고르기(구 보기 5개)",
+  "new_format": "짧은 대화의 빈칸에 들어갈 ‘has + to be p.p.’ 형태 고르기(구 보기 5개)",
+  "design": "have to가 있는 문장의 수동태는 ‘has(have) to + be + 과거분사’라는 같은 규칙을, 능동문 전환 대신 대화의 빈칸에 has 뒤 형태를 넣는 형식으로 확인한다. 빈칸 한 곳만 판단하고, 읽을 양은 29낱말(원문항 23, 1.26배), 어휘는 hand in·form·sign 수준이다. 오답은 능동형(to sign), to를 뺀 be signed, be 대신 been을 쓴 to been signed, 진행형 능동(to be signing)으로 원문항·B~F에서 본 실수이며, 뜻에 따라 문법상 맞을 수도 있는 been signed는 넣지 않았다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Can I hand in this form?\nB: Not yet. It has _______ by your parents first.",
+  "c": [
+   "to sign",
+   "to be signed",
+   "be signed",
+   "to been signed",
+   "to be signing"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "1-32",
+  "variant": 2,
+  "ref_format": "have to가 든 능동문을 수동태로 바꿀 때 빈칸에 알맞은 동사 형태 고르기(구 보기 5개)",
+  "new_format": "우리말과 뜻이 같도록 has to 수동태 문장의 빈칸에 들어갈 말 고르기(구 보기 5개)",
+  "design": "‘has to + be + 과거분사’라는 같은 규칙을, 능동문 전환 대신 우리말 ‘보관되어야 한다’에 맞게 빈칸을 채우는 형식으로 바꿨다. 빈칸 한 곳만 판단하고, 영어 읽을 양은 23낱말(원문항 23), 어휘는 medicine·store·cool place 수준이다. 오답은 원문항과 같은 짜임으로 능동형(to store), to를 뺀 be stored, ‘보관되었다’는 현재완료 수동이라 의무 뜻이 사라지는 been stored, 진행형 능동(to be storing)이다.",
+  "stem": "다음 우리말과 뜻이 같도록 할 때, 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "이 약은 어린아이들의 손이 닿지 않는 서늘한 곳에 보관되어야 한다.\n→ This medicine has _______ in a cool place away from small children.",
+  "c": [
+   "to store",
+   "be stored",
+   "to be stored",
+   "been stored",
+   "to be storing"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "1-32",
+  "variant": 3,
+  "ref_format": "have to가 든 능동문을 수동태로 바꿀 때 빈칸에 알맞은 동사 형태 고르기(구 보기 5개)",
+  "new_format": "have to 뒤를 능동으로 잘못 쓴 문장의 밑줄 친 부분을 바르게 고친 것 고르기(구 보기 5개)",
+  "design": "have to 뒤에는 ‘be + 과거분사’를 써야 수동의 뜻이 된다는 같은 규칙을, have to 뒤를 능동으로 잘못 쓴 밑줄 친 부분(to water)을 바르게 고치는 형식으로 확인한다. 밑줄 한 곳만 판단하고, 읽을 양은 24낱말(원문항 23), 어휘는 tomato plants·garden·water 수준이다. 오답은 be를 뺀 to watered, to를 뺀 be watered, 진행형 능동 to be watering, be 대신 been을 쓴 to been watered이고, 고치면 다른 뜻으로 맞는 문장이 되는 been watered는 넣지 않아 정답이 하나다.",
+  "stem": "다음 문장의 밑줄 친 부분을 어법상 바르게 고친 것을 고르시오.",
+  "passage": "The tomato plants in our garden have <u>to water</u> every morning.",
+  "c": [
+   "to watered",
+   "be watered",
+   "to be watering",
+   "to be watered",
+   "to been watered"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "1-41",
+  "variant": 1,
+  "ref_format": "It is + 형용사 + ___ + 목적격 + to부정사 문장 다섯 개 중 빈칸의 전치사(of/for)가 나머지 넷과 다른 것 고르기",
+  "new_format": "of/for가 이미 들어간 It is + 형용사 + 의미상 주어 + to부정사 문장 다섯 개 중 어법상 어색한 것 고르기",
+  "design": "clever·polite처럼 사람의 성격·태도를 평가하는 형용사 뒤 의미상 주어는 of + 목적격, dangerous·impossible처럼 일을 평가하는 형용사 뒤는 for + 목적격이라는 같은 규칙을 확인한다. 빈칸 대신 of/for가 이미 들어간 문장 다섯 개 중 어색한 것을 고르게 바꿨고, 형용사마다 of/for를 판정하는 판단 다섯 번은 같으며, 읽을 양은 44낱말(원문항 37, 1.19배), 어휘는 thoughtful·shortcut·matches 수준이다. 정답 thoughtful for는 성격 형용사에 for를 쓴 실수이고, 나머지 넷은 for 둘·of 둘로 섞어 전치사 모양만으로는 고를 수 없다.",
+  "stem": "다음 중 어법상 어색한 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "It was thoughtful for Yuna to send flowers.",
+   "It is dangerous for children to play with matches.",
+   "It was clever of Sam to find a shortcut.",
+   "It is impossible for me to finish this today.",
+   "It was polite of him to lower his voice."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "1-41",
+  "variant": 2,
+  "ref_format": "It is + 형용사 + ___ + 목적격 + to부정사 문장 다섯 개 중 빈칸의 전치사(of/for)가 나머지 넷과 다른 것 고르기",
+  "new_format": "<보기> 문장의 빈칸과 같은 전치사가 들어가는 문장 고르기(빈칸 문장 보기 5개)",
+  "design": "성격·태도를 평가하는 형용사 뒤는 of, 일의 난이도·필요를 말하는 형용사 뒤는 for를 쓰는 같은 규칙을, ‘나머지 넷과 다른 것’ 대신 <보기>(honest ___ Jiwoo)와 같은 전치사가 들어가는 문장 고르기로 바꿨다. 다섯 문장의 형용사를 하나씩 판정하는 판단 다섯 번은 같고, 읽을 양은 47낱말(원문항 37, 1.27배), 어휘는 careless·name tags·pancakes 수준이다. 정답은 성격 형용사 careless(of)이고, 오답은 원문항의 difficult처럼 일을 평가하는 necessary·safe·difficult·easy(for) 문장이다.",
+  "stem": "다음 빈칸에 들어갈 말이 <보기>의 빈칸에 들어갈 말과 같은 것을 고르시오.",
+  "passage": "<보기>\nIt was honest _______ Jiwoo to tell the truth.",
+  "c": [
+   "It is necessary _______ students to wear name tags.",
+   "It was careless _______ me to lose my umbrella.",
+   "It is safe _______ us to drink this water.",
+   "It was difficult _______ Ben to read the map.",
+   "It is easy _______ me to make pancakes."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "1-41",
+  "variant": 3,
+  "ref_format": "It is + 형용사 + ___ + 목적격 + to부정사 문장 다섯 개 중 빈칸의 전치사(of/for)가 나머지 넷과 다른 것 고르기",
+  "new_format": "밑줄 친 ‘of/for + 목적격’ 다섯 개 중 어법상 올바른 것 고르기(틀린 넷, 옳은 하나)",
+  "design": "같은 of/for 규칙을, 빈칸 채우기 대신 밑줄 친 ‘of/for + 목적격’이 바른 문장 하나를 고르는 형식으로 확인한다. 밑줄 다섯 곳을 하나씩 판정하는 판단 다섯 번, 읽을 양은 45낱말(원문항 37, 1.22배), 어휘는 nice·generous·recycle·snacks 수준이고, 성격 형용사는 뜻이 헷갈리지 않는 nice·kind·generous로 골랐다. 틀린 넷은 일 형용사(hard·important)에 of를 쓴 것 둘과 성격 형용사(nice·kind)에 for를 쓴 것 둘로 전치사 모양이 고르고, 정답 generous of Hana는 성격 형용사에 of를 바르게 쓴 문장이다.",
+  "stem": "다음 밑줄 친 부분이 어법상 올바른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "It is hard <u>of him</u> to say no to friends.",
+   "It was nice <u>for you</u> to remember my birthday.",
+   "It is important <u>of us</u> to recycle plastic.",
+   "It was generous <u>of Hana</u> to buy us lunch.",
+   "It was kind <u>for them</u> to share their snacks."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "1-42",
+  "variant": 1,
+  "ref_format": "〈보기〉의 목적(부사적 용법) to부정사와 쓰임이 같은 것 고르기(밑줄 친 to가 든 문장 보기 5개)",
+  "new_format": "<보기> 없이 밑줄 친 to부정사가 ‘~하기 위해’(목적)의 뜻으로 쓰인 문장 고르기(문장 보기 5개)",
+  "design": "완성된 문장 뒤에서 ‘~하기 위해’라는 목적을 나타내는 부사적 용법의 to부정사를 가려내는 같은 규칙을, <보기> 없이 목적의 뜻으로 쓰인 것을 바로 고르는 형식으로 확인한다. 다섯 문장의 밑줄을 하나씩 판정하는 판단 다섯 번, 읽을 양은 53낱말(원문항 52), 어휘는 bakery·homework·plant 수준이다. 정답은 went to the bakery early to buy이고, 오답은 원문항과 같은 종류로 진주어(It is fun to ride), 원문항의 a toy to play with처럼 짧은 앞 명사 수식(some homework to do), 보어(goal is to read), 목적어(decided to plant)다.",
+  "stem": "다음 밑줄 친 부분이 ‘~하기 위해’라는 목적의 뜻으로 쓰인 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "It is fun <u>to ride</u> a bike along the river on weekends.",
+   "Jiho has some homework <u>to do</u> before tomorrow morning.",
+   "His goal for this year is <u>to read</u> fifty English books.",
+   "We decided <u>to plant</u> some flowers in the front yard.",
+   "Yuri went to the bakery early <u>to buy</u> some fresh bread."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "1-42",
+  "variant": 2,
+  "ref_format": "〈보기〉의 목적(부사적 용법) to부정사와 쓰임이 같은 것 고르기(밑줄 친 to가 든 문장 보기 5개)",
+  "new_format": "목적의 to부정사 넷 사이에서 쓰임이 다른 하나 고르기(나머지 넷과 다른 것, 문장 보기 5개)",
+  "design": "목적을 나타내는 부사적 용법의 to부정사를 가려내는 같은 규칙을, 방향을 바꿔 목적의 to부정사 넷 사이에서 쓰임이 다른 하나를 고르게 했다. 다섯 문장을 하나씩 판정하는 판단 다섯 번, 읽을 양은 53낱말(원문항 52), 어휘는 flashlight·sunrise·notebook 수준이다. 정답 no time to rest는 원문항 ④(a toy to play with)와 같은 형용사적 용법이고, 나머지 넷은 a flashlight·the piano·his best friend처럼 앞에 명사가 와도 그 명사를 꾸미지 않고 ‘~하기 위해’를 나타내 모양만으로는 가려낼 수 없다.",
+  "stem": "다음 밑줄 친 부분의 쓰임이 나머지 넷과 다른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Minsu used a flashlight <u>to find</u> his glasses in the dark.",
+   "Our family had no time <u>to rest</u> during the long trip.",
+   "She practiced the piano every day <u>to win</u> the contest.",
+   "They got up early <u>to watch</u> the sunrise at the beach.",
+   "He called his best friend <u>to borrow</u> a math notebook."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "1-42",
+  "variant": 3,
+  "ref_format": "〈보기〉의 목적(부사적 용법) to부정사와 쓰임이 같은 것 고르기(밑줄 친 to가 든 문장 보기 5개)",
+  "new_format": "짧은 대화 속 밑줄 친 to부정사 ⓐ~ⓔ 중 <보기>와 쓰임이 같은 것 고르기(문장 보기 대신 대화 속 기호 보기)",
+  "design": "목적을 나타내는 부사적 용법을 가려내는 같은 규칙을, 따로 떨어진 문장 보기 대신 짧은 대화 속 밑줄 ⓐ~ⓔ에서 <보기>(turned on the radio to hear)와 쓰임이 같은 것을 찾는 형식으로 옮겼다(기호를 밑줄 바로 앞에 붙여 판정할 곳을 분명히 했다). 밑줄 다섯 곳을 판정하는 판단 다섯 번은 같고, 읽을 양은 61낱말(원문항 52, 1.17배), 대화 문장은 directions·bus stop·juice 수준의 쉬운 말이다. 정답 ⓒ는 ‘길을 묻기 위해’의 목적이고, 오답은 원문항과 같은 종류로 진주어(hard to find), 보어(plan was to meet), 명사 수식(something cold to drink), 목적어(love to have)다.",
+  "stem": "다음 대화의 밑줄 친 ⓐ~ⓔ 중 <보기>의 밑줄 친 부분과 쓰임이 같은 것을 고르시오.",
+  "passage": "<보기>\nDad turned on the radio <u>to hear</u> the weather report.\n\nA: It was really hard ⓐ<u>to find</u> your new house.\nB: Sorry. My plan was ⓑ<u>to meet</u> you at the bus stop.\nA: That's OK. I stopped at a store ⓒ<u>to ask</u> for directions.\nB: Would you like something cold ⓓ<u>to drink</u>?\nA: Yes, please. I'd love ⓔ<u>to have</u> some juice.",
+  "c": [
+   "ⓐ",
+   "ⓑ",
+   "ⓒ",
+   "ⓓ",
+   "ⓔ"
+  ],
+  "ans": 3
+ }
+]

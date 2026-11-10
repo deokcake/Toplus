@@ -1,0 +1,257 @@
+[
+ {
+  "key": "3-101",
+  "variant": 1,
+  "ref_format": "단어 다섯 개의 원급-비교급-최상급 연결 중 잘못 연결된 것 고르기",
+  "new_format": "단어 다섯 개의 원급-비교급-최상급 연결 중 바르게 연결된 것 고르기(틀린 것 → 옳은 것)",
+  "design": "far·bad·good·well·many처럼 불규칙하게 변하는 낱말의 비교급·최상급 형태를 아는지 그대로 확인한다. ‘잘못 연결된 것’을 ‘바르게 연결된 것’으로 방향만 바꿨고, 보기가 원문항처럼 세 낱말 연결 다섯 개라 판단 다섯 번·읽을 양 16낱말(원문항 15)·어휘 수준이 같다. 오답 넷은 불규칙 낱말을 규칙처럼 바꾼 학생 실수(more far, baddest, goodest, manier)로 한 칸씩만 틀렸고 사전에 비교 변화로 실린 꼴(littler 등)은 쓰지 않았으며, 정답 well - better - best에도 -er/-st 꼴이 있어 겉모양만으로 고를 수 없다.",
+  "stem": "다음 중 단어의 원급, 비교급, 최상급이 바르게 연결된 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "far - more far - farthest",
+   "bad - worse - baddest",
+   "good - better - goodest",
+   "well - better - best",
+   "many - manier - most"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "3-101",
+  "variant": 2,
+  "ref_format": "단어 다섯 개의 원급-비교급-최상급 연결 중 잘못 연결된 것 고르기",
+  "new_format": "밑줄 친 비교급·최상급이 하나씩 든 4낱말 문장 다섯 개 중 어법상 틀린 것 고르기(낱말 연결 → 아주 짧은 문장)",
+  "design": "불규칙 비교급·최상급(many-more, bad-worse-worst, little-less)과 규칙 변화(fast-fastest)를 구별하는 같은 규칙을 확인한다. 낱말 연결 보기를 비교 형태 하나에만 밑줄 친 4낱말 문장으로 바꿔 판단은 보기마다 한 곳, 모두 다섯 번으로 같다. 읽을 양은 20낱말(원문항 15, 1.33배; 문장 틀 때문)이고 어휘는 blankets·sugar·headache 수준이다. 정답은 bad의 비교급을 규칙처럼 만든 badder이고, 옳은 보기에 more·worst·less(불규칙)와 fastest(규칙)를 고루 넣어 형태만 보고 찍을 수 없다.",
+  "stem": "다음 중 밑줄 친 부분이 어법상 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "We need <u>more</u> blankets.",
+   "That's the <u>worst</u> idea.",
+   "Please add <u>less</u> sugar.",
+   "Who runs the <u>fastest</u>?",
+   "Her headache got <u>badder</u>."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "3-101",
+  "variant": 3,
+  "ref_format": "단어 다섯 개의 원급-비교급-최상급 연결 중 잘못 연결된 것 고르기",
+  "new_format": "우리말 뜻과 영어 비교 표현(비교급·최상급 + 명사)의 짝 다섯 개 중 잘못 짝지어진 것 고르기",
+  "design": "good-better, little-less, bad-worse, many-most의 불규칙 변화와 긴 낱말의 more 비교급(famous)을 가리는 같은 규칙을 확인한다. 원급-비교급-최상급 나열을 ‘우리말 뜻 - 영어 표현’ 짝으로 바꿨고, 보기마다 비교 형태 한 곳을 보는 다섯 번의 판단은 같으며, 영어는 16낱말(원문항 15)이고 우리말은 ‘더 좋은 계획’ 같은 짧은 명사구다. 정답은 good의 비교급을 more good으로 쓴 실수이고(원문항 정답 little과 다른 낱말), 옳은 보기에 원문항의 large처럼 규칙 변화인 a more famous singer와 무관사 구 less money를 넣어 ‘more + 형용사’나 관사 같은 겉모양으로는 고를 수 없게 했다.",
+  "stem": "다음 우리말과 영어 표현이 바르게 짝지어지지 않은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "더 좋은 계획 - a more good plan",
+   "더 적은 돈 - less money",
+   "더 나쁜 점수 - a worse score",
+   "가장 많은 책 - the most books",
+   "더 유명한 가수 - a more famous singer"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "3-102",
+  "variant": 1,
+  "ref_format": "두 사람의 나이·몸무게·키 표를 보고 비교 문장 다섯 개 중 표와 일치하지 않는 것 고르기",
+  "new_format": "같은 꼴의 표를 보고 비교 문장 다섯 개 중 두 사람을 바르게 비교한 것 고르기(일치하지 않는 것 → 바르게 비교한 것)",
+  "design": "비교급 + than은 두 값이 다를 때 ‘~보다 더 …한’, as + 원급 + as는 두 값이 같을 때 ‘~만큼 …한’이라는 규칙을 확인한다. 원문항의 ‘일치하지 않는 것’을 ‘바르게 비교한 것’으로 바꿨고, 표 세 줄과 보기 다섯 문장이라 판단 다섯 번·읽을 양 37낱말(원문항 36)·어휘(old, young, light, tall, short)가 같으며, 표는 세 값이 모두 다르되 한 사람이 어리고 가볍지만 키는 큰 꼴로 원문항·B~F·프리테스트와 배치를 달리했다. 정답은 몸무게를 비교급으로 바르게 쓴 Brian is lighter than Hana.이고, 오답은 값이 다른데 as ~ as를 쓴 문장 둘(주어가 작은 쪽이라 ‘~만큼은 된다’로 읽어도 틀림)과 크기 방향을 뒤집은 문장 둘(younger, shorter)이며, 원문항·프리테스트와 같은 술어를 같은 자리에 두지 않았다.",
+  "stem": "다음 표를 보고 두 사람을 바르게 비교한 것을 고르시오.",
+  "passage": "Name\tBrian\tHana\nAge\t14\t16\nWeight\t48kg\t54kg\nHeight\t165cm\t157cm",
+  "c": [
+   "Brian is as old as Hana.",
+   "Brian is lighter than Hana.",
+   "Hana is younger than Brian.",
+   "Brian is shorter than Hana.",
+   "Hana is as tall as Brian."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "3-102",
+  "variant": 2,
+  "ref_format": "두 사람의 나이·몸무게·키 표를 보고 비교 문장 다섯 개 중 표와 일치하지 않는 것 고르기",
+  "new_format": "표 대신 세 문장으로 된 짧은 글을 읽고 비교 문장 다섯 개 중 글과 일치하지 않는 것 고르기(표 → 짧은 글)",
+  "design": "비교급 + than은 두 값이 다를 때, as + 원급 + as는 두 값이 같을 때 쓴다는 같은 규칙을 확인한다. 표를 같은 정보(나이·키·몸무게)를 담은 세 문장 글로 바꿨고 보기 다섯 문장을 판정하는 무게는 같으며, 읽을 양은 46낱말(원문항 36, 1.28배)이고 어휘는 both·weigh 수준이다. 글은 나이가 같고(both 14) 한 사람이 키도 크고 몸무게도 많은 꼴이라 프리테스트(키가 같음)와 수치·판단 근거가 다르고, 정답은 나이가 같은데 비교급 older than을 쓴 문장이며, 오답은 as old as와 lighter·heavier·shorter than을 글에 맞게 쓴 문장이다.",
+  "stem": "다음 글의 내용과 일치하지 않는 것을 고르시오.",
+  "passage": "Yuri and Sam are both 14.\nYuri is 161cm tall, and Sam is 155cm.\nYuri weighs 53kg, and Sam weighs 47kg.",
+  "c": [
+   "Yuri is as old as Sam.",
+   "Sam is lighter than Yuri.",
+   "Sam is older than Yuri.",
+   "Yuri is heavier than Sam.",
+   "Sam is shorter than Yuri."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "3-102",
+  "variant": 3,
+  "ref_format": "두 사람의 나이·몸무게·키 표를 보고 비교 문장 다섯 개 중 표와 일치하지 않는 것 고르기",
+  "new_format": "같은 꼴의 표를 보고 다섯 사람이 한 비교의 말 중 잘못 말한 사람 고르기(진술 → 인물의 말)",
+  "design": "비교급 + than은 두 값이 다를 때, as + 원급 + as는 두 값이 같을 때 쓴다는 규칙을 표에 적용하는지 확인한다. 보기를 다섯 사람이 표를 보고 한 말로 바꿨고 판단은 다섯 번으로 같으며, 읽을 양은 42낱말(원문항 36, 1.17배; 말한 사람 이름 5낱말 포함)이고 어휘는 원문항과 같은 old·young·heavy·tall·short 수준이다. 표는 나이만 다르고 몸무게·키가 같은 꼴로 원문항·B~F·프리테스트에 없는 배치이고, 정답은 키가 159cm로 같은데 비교급 shorter than을 쓴 Emma의 말이며(C의 as tall as 정답과 근거가 반대), 오답은 같은 값에 as ~ as를, 다른 나이에 older·younger than을 바르게 쓴 말이다.",
+  "stem": "다음 표를 보고 잘못 말한 사람을 고르시오.",
+  "passage": "Name\tKai\tNari\nAge\t13\t16\nWeight\t52kg\t52kg\nHeight\t159cm\t159cm",
+  "c": [
+   "Mike: Kai is as heavy as Nari.",
+   "Jina: Nari is older than Kai.",
+   "Ted: Kai is as tall as Nari.",
+   "Bora: Kai is younger than Nari.",
+   "Emma: Nari is shorter than Kai."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "3-111",
+  "variant": 1,
+  "ref_format": "두 문장의 빈칸에 공통으로 들어갈 전치사 고르기(공간의 안·하루의 한때 → in, 낱말 보기)",
+  "new_format": "빈칸이 하나씩 있는 아주 짧은 문장 다섯 개 중 들어갈 전치사가 나머지 넷과 다른 것 고르기(낱말 보기 → 짧은 문장 보기)",
+  "design": "in은 공간의 안(in my pocket, in the jar)과 하루의 한때·달(in the evening, in May) 앞에 쓴다는 규칙을 확인한다. 낱말 보기를 빈칸이 하나씩 있는 4~5낱말 문장 다섯 개로 바꿔 보기마다 빈칸 한 곳만 판단한다. 읽을 양은 22낱말(원문항 18, 1.22배)이고 어휘는 pocket·jar·camping 수준이다. 정답은 요일(Friday) 앞이라 on이 들어가는 문장이고, 나머지 넷은 in의 두 쓰임(공간 둘, 때 둘)을 고루 담았다.",
+  "stem": "다음 중 빈칸에 들어갈 말이 나머지 넷과 다른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Her birthday is _______ Friday.",
+   "My keys are _______ my pocket.",
+   "I jog _______ the evening.",
+   "We go camping _______ May.",
+   "The cookies are _______ the jar."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "3-111",
+  "variant": 2,
+  "ref_format": "두 문장의 빈칸에 공통으로 들어갈 전치사 고르기(공간의 안·하루의 한때 → in, 낱말 보기)",
+  "new_format": "아주 짧은 문장 다섯 개에서 밑줄 친 전치사가 어법상 틀린 것 고르기(빈칸 채우기 → 밑줄 판정)",
+  "design": "하루의 한때(the morning)·공간의 안(this lake)·계절(spring) 앞에는 in을 쓴다는 규칙을 확인한다. 공통 빈칸 채우기를 밑줄 친 전치사의 옳고 그름 판단으로 바꿨고, 보기마다 밑줄 한 곳만 본다. 읽을 양은 23낱말(원문항 18, 1.28배)이고 어휘는 swim·lake·bloom 수준이다. 정답은 the morning 앞에 at을 쓴 문장(흔한 실수)이고, 옳은 보기에 at nine·on Monday도 넣어 at이나 in이라는 겉모양만 보고 고를 수 없게 했다.",
+  "stem": "다음 중 밑줄 친 전치사가 어법상 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "School starts <u>at</u> nine.",
+   "Tom swims <u>at</u> the morning.",
+   "Fish live <u>in</u> this lake.",
+   "The test is <u>on</u> Monday.",
+   "Flowers bloom <u>in</u> spring."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "3-111",
+  "variant": 3,
+  "ref_format": "두 문장의 빈칸에 공통으로 들어갈 전치사 고르기(공간의 안·하루의 한때 → in, 낱말 보기)",
+  "new_format": "짧은 대화 속 두 빈칸 (A), (B)에 공통으로 들어갈 전치사 고르기(서술문 두 개 → 대화 한 문장)",
+  "design": "하루의 한때(the evening)와 공간의 안(my room)에 모두 in을 쓴다는 규칙을 그대로 확인한다. 서술문 두 개를 대화 속 한 문장의 두 빈칸으로 바꿨고, 판단은 원문항처럼 때·장소 두 곳이다. 읽을 양은 20낱말(원문항 18)이고 어휘는 practice·guitar 수준이다. 오답은 두 자리에 모두 맞지 않는 at(‘~에, ~에서’를 옮긴 흔한 실수)·from과, my room에는 맞지만 the evening에는 쓸 수 없는 near·inside(원문항의 around와 같은 역할)다.",
+  "stem": "다음 대화의 빈칸 (A), (B)에 공통으로 들어갈 말로 알맞은 것은?",
+  "passage": "A: When do you practice the guitar?\nB: I practice it (A)_______ the evening (B)_______ my room.",
+  "c": [
+   "at",
+   "near",
+   "from",
+   "in",
+   "inside"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "3-112",
+  "variant": 1,
+  "ref_format": "대화의 두 빈칸 (A), (B)에 들어갈 전치사 짝 고르기(on the fifth floor of that building)",
+  "new_format": "대화의 (A), (B) 네모 안에서 알맞은 전치사를 골라 짝 고르기(빈칸 → 네모 안 고르기)",
+  "design": "층 앞에는 on, ‘스포츠 센터의’처럼 소속을 나타낼 때는 of를 쓴다는 규칙을 확인한다. 빈칸 짝 고르기를 네모 안 낱말 고르기 짝으로 바꾸고 묻는 말·주어·장소를 새로 썼으며, 판단은 (A) 층·(B) 소속 두 곳으로 같고 읽을 양은 32낱말(원문항 25, 1.28배), 어휘는 snack shop·sports center 수준이다. (A)가 on인 보기를 둘(on-on, on-of) 두어 (B)까지 판단해야 답이 나오고, 오답은 층 앞에 in을 쓰거나 소속에 at·on을 쓰는 실수이며, 원어민이 맞다고 볼 수도 있는 on ~ at·on ~ in 짝은 보기에 넣지 않았다.",
+  "stem": "다음 대화의 (A), (B)에서 알맞은 말을 골라 바르게 짝지은 것은?",
+  "passage": "A: Where can I buy snacks?\nB: The snack shop is (A) [in / on] the third floor (B) [of / at / on] the sports center.",
+  "c": [
+   "(A) in - (B) of",
+   "(A) on - (B) on",
+   "(A) in - (B) at",
+   "(A) in - (B) on",
+   "(A) on - (B) of"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "3-112",
+  "variant": 2,
+  "ref_format": "대화의 두 빈칸 (A), (B)에 들어갈 전치사 짝 고르기(on the fifth floor of that building)",
+  "new_format": "서술문의 빈칸 하나에 들어갈 전치사구(전치사 + the second floor + 전치사) 고르기(두 낱말 짝 → 구 보기)",
+  "design": "on the second floor of this building처럼 층은 on, 소속은 of를 쓴다는 규칙을 확인한다. 두 빈칸 짝 고르기를 빈칸 하나에 들어갈 전치사구 고르기로 바꿨는데, 보기마다 앞뒤 전치사 두 곳을 보므로 판단 개수는 같고, 읽을 양은 31낱말(원문항 25, 1.24배; 보기의 the second floor가 되풀이된 것)이며 어휘는 music room 수준이다. 앞 전치사는 on 2·at 2·in 1, 뒤 전치사는 at 2·of 1·on 1·in 1로 고르게 흩어(원문항처럼 of는 정답에만) 많이 나온 낱말을 조합해 찍을 수 없고, 오답은 층 앞의 at·in, 소속의 at·on·in 실수이며 앞이 on인 오답은 뒤를 확실히 틀린 on으로 했다.",
+  "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "The music room is _______ this building.",
+  "c": [
+   "on the second floor of",
+   "at the second floor at",
+   "on the second floor on",
+   "in the second floor at",
+   "at the second floor in"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "3-112",
+  "variant": 3,
+  "ref_format": "대화의 두 빈칸 (A), (B)에 들어갈 전치사 짝 고르기(on the fifth floor of that building)",
+  "new_format": "대화의 밑줄 친 (A), (B) 두 전치사를 바르게 고친 짝 고르기(빈칸 → 밑줄 고치기)",
+  "design": "층은 on, 소속은 of를 쓴다는 같은 규칙을 확인한다. 빈칸 짝 고르기를 틀린 두 전치사(in the fourth floor, at the shopping mall)를 고친 짝 고르기로 바꾸고 대답을 You can find one ~ the shopping mall로 새로 썼으며, 판단은 두 곳으로 같고 읽을 양은 31낱말(원문항 25, 1.24배), 어휘는 bookstore·shopping mall 수준이다. 보기에는 밑줄 친 낱말(A의 in, B의 at)을 다시 넣지 않았고, (A)가 on인 보기를 둘(on-of, on-on) 두어 (B)까지 판단해야 하며, 오답은 층 앞의 at, 소속의 in·on 실수다.",
+  "stem": "다음 대화의 밑줄 친 (A), (B)를 바르게 고친 것은?",
+  "passage": "A: Is there a bookstore near here?\nB: Yes. You can find one (A)<u>in</u> the fourth floor (B)<u>at</u> the shopping mall.",
+  "c": [
+   "(A) at - (B) of",
+   "(A) on - (B) of",
+   "(A) at - (B) in",
+   "(A) on - (B) on",
+   "(A) at - (B) on"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "3-121",
+  "variant": 1,
+  "ref_format": "우리말에 맞게 문장 첫머리 빈칸에 알맞은 접속사 고르기(Unless, 낱말 보기)",
+  "new_format": "밑줄 친 If ~ not 부분과 바꿔 쓸 수 있는 말(접속사 + 주어) 고르기(우리말 빈칸 → 같은 뜻 바꿔 쓰기)",
+  "design": "unless는 if ~ not(~하지 않으면)과 같고 뒤에 not을 또 쓰지 않는다는 규칙을 확인한다. 우리말이 주어진 빈칸 채우기를 If you don't와 같은 뜻의 말 고르기로 바꿨고, 판단은 문장 첫머리 한 곳으로 같다. 읽을 양은 18낱말(원문항 13 + 5)이고 어휘는 listen·mistakes 수준이다. 오답은 not을 빠뜨린 If you, not을 또 쓴 Unless you don't, 뜻이 다른 Although you·Before you다.",
+  "stem": "다음 문장의 밑줄 친 부분과 바꿔 쓸 수 있는 것을 고르시오.",
+  "passage": "<u>If you don't</u> listen, you'll make mistakes.",
+  "c": [
+   "If you",
+   "Unless you don't",
+   "Although you",
+   "Unless you",
+   "Before you"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "3-121",
+  "variant": 2,
+  "ref_format": "우리말에 맞게 문장 첫머리 빈칸에 알맞은 접속사 고르기(Unless, 낱말 보기)",
+  "new_format": "unless가 쓰인 짧은 대화에서 B가 한 말의 우리말 뜻 고르기(우리말 → 영어의 반대 방향)",
+  "design": "unless = if ~ not(~하지 않으면)이라는 같은 규칙을 확인한다. 우리말을 보고 접속사를 고르는 원문항을 거꾸로 해 unless 문장의 뜻을 고르게 했고, 판단은 unless 한 곳이며, 영어는 A·B 표시를 빼고 13낱말(원문항 13)의 두 줄 대화이고 우리말 보기는 짧다. 오답은 unless를 if·although·when으로 읽은 뜻과 not은 살렸지만 ‘~해도’로 읽은 뜻이며, ‘않’이 든 보기를 둘로 해 부정 표현 여부만 보고 고를 수 없게 했다.",
+  "stem": "다음 대화에서 B가 한 말의 의미로 알맞은 것을 고르시오.",
+  "passage": "A: Will you go hiking with Minho tomorrow?\nB: Yes, I will, unless it rains.",
+  "c": [
+   "비가 오면 갈 거야.",
+   "비가 와도 갈 거야.",
+   "비가 올 때 갈 거야.",
+   "비가 오지 않아도 갈 거야.",
+   "비가 오지 않으면 갈 거야."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "3-121",
+  "variant": 3,
+  "ref_format": "우리말에 맞게 문장 첫머리 빈칸에 알맞은 접속사 고르기(Unless, 낱말 보기)",
+  "new_format": "우리말 문장의 밑줄 친 조건절(‘~하지 않으면’)을 영어로 바르게 옮긴 것 고르기(접속사 낱말 보기 → 접속사 + 절 보기)",
+  "design": "unless에는 not의 뜻이 들어 있어 unless = if ~ not(~하지 않으면)이고 뒤에 not을 또 쓰지 않는다는 규칙을 확인한다. 빈칸에 접속사 낱말을 고르는 원문항을 우리말 조건절을 영어 ‘접속사 + 절’로 옮긴 것 고르기로 바꿔 정답이 지문에 나오지 않게 했고, 판단은 조건절 한 곳이며 읽을 양은 18낱말(원문항 13 + 5), 어휘는 run 수준이다. 오답은 not을 또 쓴 Unless we don't run, 뜻이 반대인 If we run, ‘않’을 따라 don't는 넣었지만 접속사 뜻이 다른 Because we don't run·Although we don't run이고, 맞을 수 있는 If we don't run은 넣지 않았다.",
+  "stem": "다음 우리말의 밑줄 친 부분을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "<u>우리가 뛰지 않으면</u>, 기차를 놓칠 거야.",
+  "c": [
+   "Unless we run",
+   "Unless we don't run",
+   "If we run",
+   "Because we don't run",
+   "Although we don't run"
+  ],
+  "ans": 1
+ }
+]

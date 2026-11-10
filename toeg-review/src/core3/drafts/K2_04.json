@@ -1,0 +1,257 @@
+[
+ {
+  "key": "2-72",
+  "variant": 1,
+  "ref_format": "두 문장의 빈칸에 들어갈 surprise의 알맞은 형태(-ed/-ing) 짝 고르기",
+  "new_format": "짧은 대화의 두 빈칸 (A), (B)에 들어갈 disappoint의 형태 짝 고르기(사물 → 사람 순서)",
+  "design": "감정을 일으키는 쪽(경기)에는 -ing, 감정을 느끼는 쪽(팬들)에는 -ed를 쓴다는 규칙을 그대로 확인한다. 두 문장의 빈칸을 짧은 대화의 빈칸 (A), (B)로 옮기고 사물→사람 순서로 바꿨으며, 빈칸 두 곳을 판단하는 부담은 원문항과 같다. 읽을 양은 29낱말(원문항 25, 1.2배), 어휘는 baseball game·lose·fan 수준이다. 오답은 두 칸을 -ed나 -ing로 통일한 것, 두 칸을 맞바꾼 것, (A)에 동사원형을 쓴 것으로 원문항과 같은 유형이다.",
+  "stem": "다음 대화의 빈칸 (A), (B)에 들어갈 disappoint의 형태가 바르게 짝지어진 것을 고르시오.",
+  "passage": "A: How was the baseball game yesterday?\nB: It was really (A)_______. Our team lost, and all the fans looked (B)_______.",
+  "c": [
+   "(A) disappointed - (B) disappointed",
+   "(A) disappointed - (B) disappointing",
+   "(A) disappointing - (B) disappointed",
+   "(A) disappointing - (B) disappointing",
+   "(A) disappoint - (B) disappointed"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "2-72",
+  "variant": 2,
+  "ref_format": "두 문장의 빈칸에 들어갈 surprise의 알맞은 형태(-ed/-ing) 짝 고르기",
+  "new_format": "우리말 뜻에 맞게 두 문장의 빈칸 (A), (B)에 들어갈 excite의 형태 짝 고르기(우리말 제시)",
+  "design": "감정을 느끼는 사람(Sujin)에는 excited, 감정을 일으키는 것(experience)에는 exciting을 쓴다는 규칙을 확인한다. 우리말 뜻을 함께 주고 빈칸 (A), (B)를 채우는 형식으로 바꿨으며(사람→사물 순서는 원문항과 같음) 판단하는 곳은 두 군데로 같다. 읽을 양은 영어 26낱말(원문항 25), 어휘는 trip·experience 수준이다. 오답은 두 칸을 -ing나 -ed로 통일한 것, 두 칸을 맞바꾼 것, (A)에 동사원형 excite를 쓴 것이다.",
+  "stem": "주어진 우리말과 같도록 빈칸 (A), (B)에 알맞은 excite의 형태를 짝지은 것을 고르시오.",
+  "passage": "수진이는 첫 해외여행에 들떠 있었다. 그것은 그녀에게 정말 신나는 경험이었다.\nSujin was (A)_______ about her first trip to another country. It was a really (B)_______ experience for her.",
+  "c": [
+   "(A) exciting - (B) exciting",
+   "(A) exciting - (B) excited",
+   "(A) excited - (B) excited",
+   "(A) excite - (B) exciting",
+   "(A) excited - (B) exciting"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "2-72",
+  "variant": 3,
+  "ref_format": "두 문장의 빈칸에 들어갈 surprise의 알맞은 형태(-ed/-ing) 짝 고르기",
+  "new_format": "우리말을 영어로 바르게 옮긴 것 고르기(분사 두 곳이 든 짧은 문장 보기)",
+  "design": "사물(규칙)은 감정을 일으키므로 confusing, 사람(나)은 감정을 느끼므로 confused를 쓴다는 규칙을 확인한다. 빈칸 짝 고르기를 우리말을 영어로 옮긴 짧은 문장 고르기로 바꿨고, 보기마다 분사 두 곳만 보면 되므로 판단 개수는 같다. 읽을 양은 30낱말(원문항 25, 1.2배), 어휘는 rule·confuse 수준이다. 오답은 모두 한 곳만 틀리게 하여 사물에 -ed를 쓴 것(②), 사람에 -ing를 쓴 것(③), 동사원형 confuse를 쓴 것(④⑤)으로 구성했다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "그 규칙들은 헷갈린다. 나는 혼란스럽다.",
+  "c": [
+   "The rules are confusing. I'm confused.",
+   "The rules are confused. I'm confused.",
+   "The rules are confusing. I'm confusing.",
+   "The rules are confuse. I'm confused.",
+   "The rules are confusing. I'm confuse."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "2-81",
+  "variant": 1,
+  "ref_format": "최상급 뒤 두 빈칸에 들어갈 범위 전치사(in/of) 짝 고르기",
+  "new_format": "짧은 대화의 두 빈칸 (A), (B)에 들어갈 전치사 짝 고르기(복수 명사 → 장소 순서)",
+  "design": "최상급 뒤 범위가 복수의 구성원(your three sisters)이면 of, 장소(our village)면 in을 쓴다는 규칙을 그대로 확인한다. 두 문장을 짧은 대화로 바꾸고 of→in 순서로 뒤집었으며, 빈칸 두 곳을 판단하는 부담은 같다. 읽을 양은 29낱말(원문항 26, 1.1배), 어휘는 sister·village 수준이다. 오답은 in과 of를 맞바꾼 것, 둘 다 in이나 of로 통일한 것, 장소 앞에 at을 쓴 것이다.",
+  "stem": "다음 대화의 빈칸 (A), (B)에 들어갈 전치사가 바르게 짝지어진 것을 고르시오.",
+  "passage": "A: Who is the tallest (A)_______ your three sisters?\nB: Mina is. She is also the tallest girl (B)_______ our village.",
+  "c": [
+   "(A) in - (B) of",
+   "(A) in - (B) in",
+   "(A) of - (B) in",
+   "(A) of - (B) of",
+   "(A) of - (B) at"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "2-81",
+  "variant": 2,
+  "ref_format": "최상급 뒤 두 빈칸에 들어갈 범위 전치사(in/of) 짝 고르기",
+  "new_format": "전치사(in/of)를 주고 그 뒤 빈칸 (A), (B)에 올 명사(구) 짝 고르기(묻는 방향 뒤집기)",
+  "design": "in 뒤에는 장소·단체, of 뒤에는 복수 명사가 온다는 같은 규칙을 묻는 방향만 뒤집어, 전치사를 주고 그 뒤에 올 명사(구)를 고르게 했다. 판단은 (A)·(B) 두 곳으로 같고, 읽을 양은 31낱말(원문항 26, 1.2배), 어휘는 class·shop·cheapest 수준이다. 오답은 in 뒤에 복수 명사(the boys, his friends)를, of 뒤에 단수 장소(this shop)를 둔 것이며, this shop과 these cars처럼 생김새가 비슷한 말을 맞세워 장소인지 복수의 구성원인지로만 가르게 했다.",
+  "stem": "다음 빈칸 (A), (B)에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+  "passage": "Tom runs the fastest in (A)_______.\nThis car is the cheapest of (B)_______.",
+  "c": [
+   "(A) the boys - (B) these cars",
+   "(A) his class - (B) this shop",
+   "(A) his friends - (B) this shop",
+   "(A) his class - (B) these cars",
+   "(A) his friends - (B) these cars"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "2-81",
+  "variant": 3,
+  "ref_format": "최상급 뒤 두 빈칸에 들어갈 범위 전치사(in/of) 짝 고르기",
+  "new_format": "밑줄 친 전치사 (A), (B) 중 틀린 것을 찾아 바르게 고친 것 고르기",
+  "design": "장소·단체(our village) 앞에는 in, 복수의 구성원(the four brothers) 앞에는 of를 쓴다는 규칙을 확인한다. 빈칸 짝 고르기를 밑줄 친 전치사 두 곳 중 틀린 곳을 찾아 바르게 고친 것 고르기로 바꿨으며, (A)·(B) 두 곳을 판단하는 부담은 같다. 읽을 양은 26낱말(원문항 26), 어휘는 swimmer·village 수준이다. 오답은 바르게 쓴 (B)를 in으로 바꾼 것, (A)를 at·on·among처럼 장소나 ‘~ 중에서’와 헷갈리는 전치사로 고친 것이다.",
+  "stem": "다음 밑줄 친 (A), (B) 중 어법상 틀린 것을 바르게 고친 것을 고르시오.",
+  "passage": "• Daniel is the best swimmer (A)<u>of</u> our village.\n• He is the oldest (B)<u>of</u> the four brothers.",
+  "c": [
+   "(B) of → in",
+   "(A) of → at",
+   "(A) of → on",
+   "(A) of → among",
+   "(A) of → in"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "2-82",
+  "variant": 1,
+  "ref_format": "우리말과 같도록 비교급 앞 빈칸에 들어갈 수 없는 강조어 고르기(낱말 보기)",
+  "new_format": "짧은 대화의 빈칸(비교급 앞)에 들어갈 수 있는 강조어 고르기(묻는 방향 뒤집기, 낱말 보기)",
+  "design": "비교급은 much, even, far, still, a lot으로 강조하고 very·too·quite 같은 말은 비교급을 꾸미지 못한다는 규칙을 확인한다. ‘들어갈 수 없는 말’을 ‘들어갈 말로 알맞은 것’으로 뒤집고 우리말 문장 대신 짧은 대화의 빈칸으로 바꿨으며, 빈칸 한 곳에 다섯 낱말을 넣어 보는 판단은 같다. 읽을 양은 19낱말(원문항 14, +5), 어휘는 shoes·comfortable 수준이다. 오답은 원급을 꾸미는 very·too·quite와 최상급에 쓰는 most이다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Are these shoes comfortable?\nB: Yes. They're _______ more comfortable than my old ones.",
+  "c": [
+   "very",
+   "far",
+   "too",
+   "quite",
+   "most"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "2-82",
+  "variant": 2,
+  "ref_format": "우리말과 같도록 비교급 앞 빈칸에 들어갈 수 없는 강조어 고르기(낱말 보기)",
+  "new_format": "강조어 + 형용사가 든 아주 짧은 문장 다섯 개 중 어법상 어색한 것 고르기(낱말 보기 → 짧은 문장 보기)",
+  "design": "very는 원급만 꾸미고 비교급은 much, far, even, still 등으로 강조한다는 규칙을 확인한다. 낱말 보기를 그 낱말이 든 3~4낱말 문장 다섯 개로 바꿔 어색한 것 하나를 고르게 했고, 문장마다 강조어 한 곳만 보면 되므로 판단은 다섯 번으로 같다. 읽을 양은 19낱말(원문항 14, +5), 어휘는 warm·happy·hard 수준이다. 정답은 very + 비교급(very taller)이고, 나머지 넷은 much·far·even·still로 비교급을 바르게 강조한 문장이다.",
+  "stem": "다음 중 어법상 어색한 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "It's much warmer.",
+   "You look far happier.",
+   "Ted is very taller.",
+   "Math got even harder.",
+   "Sam is still faster."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "2-82",
+  "variant": 3,
+  "ref_format": "우리말과 같도록 비교급 앞 빈칸에 들어갈 수 없는 강조어 고르기(낱말 보기)",
+  "new_format": "우리말과 같도록 비교급 앞의 밑줄 친 강조어를 바르게 고친 것 고르기(빈칸 → 밑줄 고치기)",
+  "design": "비교급을 ‘훨씬’으로 강조할 때는 very가 아니라 much 등을 쓴다는 규칙을 확인한다. 빈칸 고르기를 우리말과 같도록 밑줄 친 very를 바르게 고친 말 고르기로 바꿨으며, 한 자리에 다섯 낱말을 넣어 보는 판단은 같다. 읽을 양은 16낱말(원문항 14), 어휘는 phone·expensive 수준이다. 오답은 비교급을 꾸미지 못하는 too·so·quite와 much와 헷갈리기 쉬운 many이다.",
+  "stem": "주어진 우리말과 같도록 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "이 새 휴대폰은 내 예전 휴대폰보다 훨씬 더 비싸다.\nThis new phone is <u>very</u> more expensive than my old one.",
+  "c": [
+   "too",
+   "many",
+   "quite",
+   "much",
+   "so"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "2-91",
+  "variant": 1,
+  "ref_format": "두 문장의 빈칸에 들어갈 관계부사 짝 고르기(선행사: 때·이유)",
+  "new_format": "짧은 대화의 두 빈칸 (A), (B)에 들어갈 관계부사 짝 고르기(선행사: 이유·장소)",
+  "design": "관계부사는 선행사에 따라 이유(the reason)면 why, 장소(the town)면 where를 쓴다는 규칙을 확인한다. 두 문장의 빈칸을 짧은 대화의 빈칸 (A), (B)로 바꾸고 선행사를 이유·장소로 바꿨으며, 판단하는 곳은 두 군데로 같다. 읽을 양은 30낱말(원문항 28, 1.1배), 어휘는 absent·grandmother 수준이다. 오답은 선행사와 맞지 않는 관계부사(when, where)를 넣은 것과 뒤가 완전한 절인데 관계대명사 which를 넣은 것이다.",
+  "stem": "다음 대화의 빈칸 (A), (B)에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+  "passage": "A: Do you know the reason (A)_______ Minji is absent today?\nB: Yes. She went to the town (B)_______ her grandmother lives.",
+  "c": [
+   "(A) when - (B) where",
+   "(A) why - (B) when",
+   "(A) where - (B) why",
+   "(A) why - (B) which",
+   "(A) why - (B) where"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "2-91",
+  "variant": 2,
+  "ref_format": "두 문장의 빈칸에 들어갈 관계부사 짝 고르기(선행사: 때·이유)",
+  "new_format": "선행사와 맞지 않게 쓰인 밑줄 친 관계부사 (A), (B)를 바르게 고친 것 고르기(빈칸 → 밑줄 고치기)",
+  "design": "때(the year)에는 when, 장소(the bookstore)에는 where를 쓴다는 규칙을 확인한다. 빈칸 고르기를 선행사와 맞지 않게 쓴 관계부사 (A), (B)를 바르게 고친 것 고르기로 바꿨으며, 두 곳을 판단하는 부담은 같다. 읽을 양은 28낱말(원문항 28), 어휘는 library·bookstore 수준이다. 오답은 why·how로 고친 것과 뒤가 완전한 절인데 which를 쓴 것이며, 밑줄 친 원래 말은 같은 자리 보기에 다시 쓰지 않았다.",
+  "stem": "다음 밑줄 친 (A), (B)를 바르게 고친 것을 고르시오.",
+  "passage": "• Do you know the year (A)<u>where</u> this library was built?\n• This is the bookstore (B)<u>when</u> my uncle works.",
+  "c": [
+   "(A) why - (B) where",
+   "(A) when - (B) where",
+   "(A) when - (B) why",
+   "(A) which - (B) where",
+   "(A) how - (B) which"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "2-91",
+  "variant": 3,
+  "ref_format": "두 문장의 빈칸에 들어갈 관계부사 짝 고르기(선행사: 때·이유)",
+  "new_format": "우리말 뜻에 맞게 두 문장의 빈칸 (A), (B)에 들어갈 관계부사 짝 고르기(우리말 제시, 선행사: 장소·때)",
+  "design": "장소(the park)에는 where, 때(the moment)에는 when을 쓴다는 규칙을 확인한다. 우리말 뜻을 함께 주고 빈칸 (A), (B)를 채우는 형식으로 바꿨으며 판단하는 곳은 두 군데로 같다. 읽을 양은 영어 30낱말(원문항 28, 1.1배), 어휘는 learn to ride a bike·final 수준이다. 오답은 why·when·where를 선행사와 어긋나게 짝지은 것과 뒤가 완전한 절인데 which를 넣은 것이다.",
+  "stem": "주어진 우리말과 같도록 빈칸 (A), (B)에 알맞은 말을 짝지은 것을 고르시오.",
+  "passage": "• 이곳은 내가 자전거 타는 법을 배운 공원이다.\n  This is the park (A)_______ I learned to ride a bike.\n• 나는 우리 팀이 결승전에서 이긴 순간을 잊을 수 없다.\n  I can't forget the moment (B)_______ our team won the final.",
+  "c": [
+   "(A) why - (B) when",
+   "(A) when - (B) where",
+   "(A) where - (B) when",
+   "(A) which - (B) when",
+   "(A) where - (B) which"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "2-92",
+  "variant": 1,
+  "ref_format": "우리말을 영어로 바르게 옮긴 문장(a~e) 모두 고르기(조합 보기)",
+  "new_format": "우리말을 영어로 옮긴 문장(a~e) 중 바르지 않은 것 모두 고르기(묻는 방향 뒤집기, 조합 보기)",
+  "design": "‘~하는 것’은 What ~ 또는 The thing which(that) ~로 쓰고, 선행사 뒤에 what을 쓰거나 what을 빼거나 what 절에 목적어를 다시 쓰면 틀린다는 규칙을 확인한다. 옳은 것을 모두 고르는 원문항을 틀린 것을 모두 고르는 방향으로 뒤집었고, 문장 다섯 개를 판정해 조합을 고르는 부담은 같다. 읽을 양은 53낱말(원문항 48, 1.1배), 어휘는 see·rainbow 수준이다. 틀린 문장은 The thing what(b), what 생략(c), 목적어 it 중복(e)으로 각각 한 곳만 틀렸고, 오답 조합은 하나를 빠뜨리거나 옳은 a·d를 넣은 것이다.",
+  "stem": "다음 우리말을 영어로 옮긴 문장 중 바르지 않은 것을 모두 고르시오.",
+  "passage": "\"내가 본 것은 무지개였다.\"\na. What I saw was a rainbow.\nb. The thing what I saw was a rainbow.\nc. I saw was a rainbow.\nd. The thing which I saw was a rainbow.\ne. What I saw it was a rainbow.",
+  "c": [
+   "b, c",
+   "c, e",
+   "a, b, e",
+   "b, c, e",
+   "b, c, d, e"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "2-92",
+  "variant": 2,
+  "ref_format": "우리말을 영어로 바르게 옮긴 문장(a~e) 모두 고르기(조합 보기)",
+  "new_format": "짧은 대화의 빈칸(주어 자리)에 들어갈 수 있는 말(a~e) 모두 고르기(문장 보기 → 주어 부분 보기, 조합 보기)",
+  "design": "‘~하는 것’은 What I made 또는 The thing (that) I made로 쓰고, The thing what이나 선행사 없는 That은 쓸 수 없다는 규칙을 확인한다. 우리말을 옮긴 완성 문장 보기를 짧은 대화의 빈칸(주어 자리)에 들어갈 말 보기로 바꿨으며, 다섯 개를 판정해 모두 고르는 부담은 같다. 읽을 양은 53낱말(원문항 48, 1.1배), 어휘는 art class·clay cup 수준이다. 오답 조합은 The thing what(b)을 넣은 것, That(e)을 넣은 것, 옳은 a·c·d 가운데 하나를 빠뜨린 것이다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 모두 고르시오.",
+  "passage": "A: Did you make something in art class?\nB: Yes. _______ was a clay cup.\na. What I made\nb. The thing what I made\nc. The thing I made\nd. The thing that I made\ne. That I made",
+  "c": [
+   "a, c",
+   "a, d",
+   "c, d, e",
+   "a, b, c, d",
+   "a, c, d"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "2-92",
+  "variant": 3,
+  "ref_format": "우리말을 영어로 바르게 옮긴 문장(a~e) 모두 고르기(조합 보기)",
+  "new_format": "주어진 영어 문장과 의미가 같은 문장(a~e) 모두 고르기(우리말 옮기기 → 같은 뜻 문장 고르기, 조합 보기)",
+  "design": "The thing that ~ = What ~이고 목적격 관계대명사는 생략할 수 있지만, 선행사 뒤에 what을 쓰거나 what을 빼거나 목적어를 다시 쓰면 안 된다는 규칙을 확인한다. 우리말 옮기기를 주어진 영어 문장과 뜻이 같은 문장 모두 고르기로 바꿨고, 다섯 문장을 판정해 조합을 고르는 부담은 같다. 읽을 양은 52낱말(원문항 48, 1.1배), 어휘는 cook·curry 수준이다. 틀린 문장은 what 생략(b), The thing what(c), 목적어 it 중복(e)으로 각각 한 곳만 틀렸고, 오답 조합은 이들 가운데 하나를 넣거나 옳은 a를 빠뜨린 것이다.",
+  "stem": "다음 문장과 의미가 같은 문장을 모두 고르시오.",
+  "passage": "The thing that Dad cooked was curry.\na. What Dad cooked was curry.\nb. Dad cooked was curry.\nc. The thing what Dad cooked was curry.\nd. The thing Dad cooked was curry.\ne. What Dad cooked it was curry.",
+  "c": [
+   "a, d",
+   "a, b",
+   "c, d",
+   "a, d, e",
+   "a, c, d"
+  ],
+  "ans": 1
+ }
+]

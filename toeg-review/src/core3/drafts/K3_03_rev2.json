@@ -1,0 +1,36 @@
+[
+ {
+  "key": "3-52",
+  "variant": 1,
+  "ref_format": "우리말 두 문장을 영어로 옮긴 문장 짝 고르기(must be - can't be, 문장 짝 보기 5개)",
+  "new_format": "‘영어 문장 - 우리말 뜻’ 짝 다섯 개 중 조동사 표현의 뜻이 바르게 짝지어진 것 고르기",
+  "design": "must be는 ‘~임에 틀림없다’, can't be는 ‘~일 리가 없다’라는 핵심 규칙을 그대로 확인한다. 우리말 두 문장을 옮긴 문장 짝 고르기를 ‘영어 문장 - 우리말 뜻’ 짝 다섯 개 중 바르게 짝지어진 것 고르기로 바꿨고, 영어 문장은 모두 ‘사람 묘사(옷·자리·사진) + 조동사 + be + 사람’ 한 문장으로 이유 절 없이 자연스러우며, 판단은 보기마다 조동사 표현과 우리말 끝맺음(틀림없다·리가 없다)을 맞춰 보는 한 곳이고 읽을 양은 영어 53낱말(원문항 51, 1.04배), 어휘는 coat·cousin·photo·grandfather 수준이다. 영어 문장 다섯 개는 모두 문법에 맞고 어긋남은 뜻에서만 생기게 해, 오답은 can't be를 ‘~임에 틀림없다’로, may be를 ‘~임에 틀림없다’로, must be를 ‘~일 리가 없다’로, should be를 ‘~임에 틀림없다’로 옮긴 것이며(원문항의 can be·should be 오답 유형), 정답의 can't be와 ‘~일 리가 없다’가 오답(①·③)에도 한 번씩 나와 영어나 우리말 한쪽만 보고는 고를 수 없게 했다.",
+  "stem": "다음 중 영어 문장과 우리말 뜻이 바르게 짝지어진 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "The man in the gray coat can't be our new music teacher. - 회색 코트를 입은 남자는 우리의 새 음악 선생님임에 틀림없다.",
+   "The girl with the yellow bag may be Sora's best friend. - 노란 가방을 멘 여자아이는 소라의 가장 친한 친구임에 틀림없다.",
+   "The woman in the white car must be Jaemin's mother. - 흰 차에 탄 여자는 재민이의 어머니일 리가 없다.",
+   "The tall boy next to Minji should be her cousin. - 민지 옆의 키 큰 남자아이는 그녀의 사촌임에 틀림없다.",
+   "The man in this old photo can't be my grandfather. - 이 오래된 사진 속 남자는 내 할아버지일 리가 없다."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "3-61",
+  "variant": 2,
+  "ref_format": "대화의 대답(산 물건)을 보고 빈칸에 들어갈 의문사 질문 고르기(질문 보기 5개)",
+  "new_format": "대화의 대답(때)을 보고 빈칸에 들어갈 질문으로 알맞지 않은 것 고르기(질문 보기 5개)",
+  "design": "의문사는 묻는 정보에 따라 고른다는 규칙을, 대답이 알려 주는 정보의 종류(때)를 학생이 스스로 파악해 질문과 맞춰 보는 방식으로 확인한다. 대답을 보고 알맞은 질문 고르기를 알맞지 않은 질문 고르기로 뒤집었고, 대답 It was last Saturday.는 정보의 종류를 직접 말해 주지 않으며 보기 다섯 개를 모두 ‘의문사 + was + 행사’ 꼴로 맞춰 It was와의 겉모양 호응이나 소재로는 가릴 수 없게 했고, 읽을 양은 32낱말(원문항 31, 1.03배), 어휘는 festival·contest·concert 수준이다. 알맞은 넷은 때를 묻는 When(셋)과 What day(하나)이고 알맞지 않은 하나는 같은 행사 소재로 장소를 묻는 Where was the music concert?라, What day와 Where가 한 번씩만 나와 혼자 다른 보기를 찍을 수 없고 대답이 알려 주는 정보(때)와 각 의문사를 대조해야 고를 수 있다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞지 않은 것을 고르시오.",
+  "passage": "A: _______\nB: It was last Saturday.",
+  "c": [
+   "When was the school festival?",
+   "What day was your piano contest?",
+   "When was Mina's birthday party?",
+   "When was the soccer game?",
+   "Where was the music concert?"
+  ],
+  "ans": 5
+ }
+]

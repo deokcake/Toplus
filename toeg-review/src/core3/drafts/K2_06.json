@@ -1,0 +1,53 @@
+[
+ {
+  "key": "2-122",
+  "variant": 1,
+  "ref_format": "가정법·직설법 두 문장을 보고 as if 뒤 빈칸에 알맞은 동사 형태 고르기(낱말 보기 5개)",
+  "new_format": "직설법 사실을 보고 as if 뒤 밑줄 친 동사를 바르게 고친 것 고르기(낱말 보기 5개)",
+  "design": "주절보다 앞선 일을 사실과 반대로 가정할 때 as if 뒤에 가정법 과거완료(had + 과거분사)를 쓴다는 규칙을 그대로 확인한다. 빈칸 채우기를 ‘밑줄 친 과거형 visited를 바르게 고치기’로 바꿨고, 직설법 사실(has never visited)을 보고 동사 한 곳만 판단하는 판단 한 번이며, 읽을 양은 26낱말(원문항 24, 1.08배), 어휘는 island·visit 수준이다. 밑줄 친 과거형 자체가 원문항 ① was와 같은 오답이고, 보기의 오답은 원문항과 같은 짜임으로 사실과 어긋나는 현재완료(has visited), 직설법 현재(visits), 주어와 수가 맞지 않는 visit, B~F 오답과 같은 would 형태(would visit)다.",
+  "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "가정법: Mia writes about the island as if she <u>visited</u> it before.\n직설법: In fact, she has never visited it.",
+  "c": [
+   "had visited",
+   "has visited",
+   "visits",
+   "would visit",
+   "visit"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "2-122",
+  "variant": 2,
+  "ref_format": "가정법·직설법 두 문장을 보고 as if 뒤 빈칸에 알맞은 동사 형태 고르기(낱말 보기 5개)",
+  "new_format": "우리말을 영어로 바르게 옮긴 문장 고르기(as if 절의 동사만 다른 짧은 문장 보기 5개)",
+  "design": "‘마치 ~했던 것처럼’처럼 주절보다 앞선 일을 사실과 반대로 가정할 때 as if + 가정법 과거완료(had + 과거분사)를 쓴다는 같은 규칙을, 직설법 문장 대신 우리말 뜻을 주고 영어 문장을 고르는 형식으로 바꿨다. 다섯 문장은 as if 뒤 동사만 다르므로 판단할 곳은 한 군데이고, 읽을 양은 32낱말(1.33배; 7낱말 안팎 문장 다섯 개라 더 줄일 수 없음), 어휘는 act·win 수준이다. 오답은 원문항 보기와 같은 짜임으로 가정법 과거(won, ‘마치 이기는 것처럼’), 직설법 현재(wins), 주어와 수가 맞지 않는 win, 사실처럼 말하는 현재완료(has won)다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "진호는 마치 자기가 이겼던 것처럼 행동한다.",
+  "c": [
+   "Jinho acts as if he won.",
+   "Jinho acts as if he had won.",
+   "Jinho acts as if he wins.",
+   "Jinho acts as if he has won.",
+   "Jinho acts as if he win."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "2-122",
+  "variant": 3,
+  "ref_format": "가정법·직설법 두 문장을 보고 as if 뒤 빈칸에 알맞은 동사 형태 고르기(낱말 보기 5개)",
+  "new_format": "짧은 대화에서 사실을 확인하고 대답 속 as if 뒤 빈칸에 알맞은 말 고르기(낱말 보기 5개)",
+  "design": "주절보다 앞선 일을 사실과 반대로 가정할 때 as if 뒤에 had + 과거분사를 쓴다는 같은 규칙을, 가정법·직설법 두 문장 대신 짧은 대화(A의 질문에 B가 No, he didn’t로 사실을 밝힘) 속 빈칸으로 바꿨다. 대화에서 사실을 확인한 뒤 빈칸 한 곳을 판단하는 판단 한 번, 읽을 양 31낱말(원문항 24, 1.29배), 어휘는 pizza place·food 수준이다. 오답은 원문항과 같은 짜임으로 가정법 과거(ate), 사실과 어긋나는 현재완료(has eaten), 직설법 현재(eats)와 B~F 오답과 같은 would 형태(would eat)다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Did Sam eat at the new pizza place?\nB: No, he didn't. But he talks about the food as if he _______ there.",
+  "c": [
+   "ate",
+   "has eaten",
+   "had eaten",
+   "eats",
+   "would eat"
+  ],
+  "ans": 3
+ }
+]

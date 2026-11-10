@@ -1,0 +1,464 @@
+[
+ {
+  "key": "5-1",
+  "grade": 5,
+  "no": 1,
+  "chapter": "CH 1",
+  "chapter_name": "대명사",
+  "ref": {
+   "stem": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.",
+   "passage": "Kelly and I are friends. _______ are friends.",
+   "c": [
+    "Ours",
+    "We",
+    "Us",
+    "Our",
+    "Their"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: 주어 자리에는 주격 대명사를 쓴다. 나를 포함한 여럿(A and I)은 We, 나를 뺀 여럿은 They로 받는다.\n풀이 순서: ① 앞 문장의 주어를 대명사로 바꾼다: Kelly and I(나를 포함한 여럿)는 ‘우리’. → ② 빈칸은 동사 앞 주어 자리이므로 주격을 쓴다. → ③ 정답은 We.\n문장별 판정:\n정답 판단: Kelly and I를 받는 주격 We이므로 정답은 ②이다.\n선택지 분석:\n① [오답] Ours는 ‘우리의 것’이라는 소유대명사이므로 오답이다.\n② [정답] Kelly and I를 받는 주격 We이므로 정답이다.\n③ [오답] Us는 목적격이라 주어 자리에 쓸 수 없으므로 오답이다.\n④ [오답] Our는 소유격이라 뒤에 명사가 있어야 하므로 오답이다.\n⑤ [오답] Their는 ‘그들의’라는 소유격이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.",
+    "passage": "Tom and his sister are in the science club. _______ are in the science club.",
+    "c": [
+     "Their",
+     "Them",
+     "They",
+     "Theirs",
+     "Its"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.",
+    "passage": "Jane is my cousin. _______ is my cousin.",
+    "c": [
+     "Her",
+     "She",
+     "Hers",
+     "Herself",
+     "Its"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.",
+    "passage": "My father is tall. _______ is tall.",
+    "c": [
+     "His",
+     "Him",
+     "Himself",
+     "He's",
+     "He"
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.",
+    "passage": "You and Tom are late. _______ are late.",
+    "c": [
+     "You",
+     "Your",
+     "Yours",
+     "Yourself",
+     "Them"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "두 문장이 같은 의미가 되도록 빈칸에 알맞은 말을 고르시오.",
+    "passage": "The dog is cute. _______ is cute.",
+    "c": [
+     "Its",
+     "It's",
+     "Itself",
+     "It",
+     "Them"
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": {
+   "stem": "다음 문장의 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+   "passage": "My mom and I love pizza. <u>Us</u> make it every Sunday.",
+   "c": [
+    "Our",
+    "We",
+    "Their",
+    "Ours",
+    "Them"
+   ],
+   "ans": 2
+  },
+  "target_answer_positions": [
+   1,
+   3,
+   4
+  ]
+ },
+ {
+  "key": "5-2",
+  "grade": 5,
+  "no": 2,
+  "chapter": "CH 1",
+  "chapter_name": "대명사",
+  "ref": {
+   "stem": "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "I - my",
+    "they - their",
+    "you - your",
+    "he - him",
+    "we - our"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 인칭대명사: 주격(I, he, we, they) - 소유격(my, his, our, their) - 목적격(me, him, us, them).\n풀이 순서: ① 짝의 앞은 모두 주격이다. 뒤의 말이 소유격인지 목적격인지 가른다. → ② 선택지 ④만 he - him으로 주격 - 목적격이다. 나머지는 주격 - 소유격이다. → ③ 정답은 he - him.\n문장별 판정:\n정답 판단: him은 he의 목적격이라 나머지(주격 - 소유격)와 다르므로 정답은 ④이다.\n선택지 분석:\n① [오답] 주격 - 소유격의 짝이므로 오답이다.\n② [오답] 주격 - 소유격의 짝이므로 오답이다.\n③ [오답] 주격 - 소유격의 짝이므로 오답이다.\n④ [정답] him은 he의 목적격이라 나머지(주격 - 소유격)와 다르므로 정답이다.\n⑤ [오답] 주격 - 소유격의 짝이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "we - us",
+     "he - him",
+     "she - hers",
+     "I - me",
+     "they - them"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "I - my",
+     "we - our",
+     "they - them",
+     "it - its",
+     "you - your"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "you - your",
+     "they - their",
+     "he - his",
+     "I - my",
+     "we - us"
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "I - my",
+     "we - our",
+     "you - your",
+     "he - his",
+     "they - them"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 중 짝지어진 단어의 관계가 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "he - his",
+     "we - our",
+     "you - your",
+     "they - their",
+     "I - me"
+    ],
+    "ans": 5
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   5,
+   1,
+   2
+  ]
+ },
+ {
+  "key": "5-11",
+  "grade": 5,
+  "no": 11,
+  "chapter": "CH 2",
+  "chapter_name": "be동사와 일반동사",
+  "ref": {
+   "stem": "다음 주어진 동사의 알맞은 형태를 고르시오.",
+   "passage": "그녀는 학교에 걸어간다.\nShe _______(walk) to school.",
+   "c": [
+    "walks",
+    "is walk",
+    "is walks",
+    "walk",
+    "walking"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 주어가 3인칭 단수이면 일반동사 현재형에 -(e)s를 붙인다. be동사와 일반동사를 함께 쓰지 않는다.\n풀이 순서: ① 주어를 본다: She. 3인칭 단수다. → ② 일반동사 현재형에 -(e)s를 붙인다: walk → walks. → ③ 정답은 walks.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 She에 walks가 알맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] 3인칭 단수 주어 She에 walks가 알맞으므로 정답이다.\n② [오답] be동사와 동사원형을 함께 쓸 수 없으므로 오답이다.\n③ [오답] be동사와 일반동사를 함께 쓸 수 없으므로 오답이다.\n④ [오답] 3인칭 단수 주어에는 -s를 붙여야 하므로 오답이다.\n⑤ [오답] walking만으로는 동사 자리를 채울 수 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 주어진 동사의 알맞은 형태를 고르시오.",
+    "passage": "아기는 배가 고플 때 운다.\nThe baby _______(cry) when it is hungry.",
+    "c": [
+     "crys",
+     "cries",
+     "cried",
+     "cry",
+     "crying"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 주어진 동사의 알맞은 형태를 고르시오.",
+    "passage": "Tom은 영어를 공부한다.\nTom _______(study) English.",
+    "c": [
+     "is study",
+     "studies",
+     "is studies",
+     "study",
+     "studying"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 주어진 동사의 알맞은 형태를 고르시오.",
+    "passage": "그 소년은 TV를 본다.\nThe boy _______(watch) TV.",
+    "c": [
+     "watches",
+     "is watch",
+     "watch",
+     "is watches",
+     "watching"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 주어진 동사의 알맞은 형태를 고르시오.",
+    "passage": "Jane은 상자를 나른다.\nJane _______(carry) a box.",
+    "c": [
+     "carry",
+     "is carries",
+     "carries",
+     "carrying",
+     "is carry"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 주어진 동사의 알맞은 형태를 고르시오.",
+    "passage": "그 개는 빨리 달린다.\nThe dog _______(run) fast.",
+    "c": [
+     "is run",
+     "running",
+     "run",
+     "is runs",
+     "runs"
+    ],
+    "ans": 5
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   4,
+   5,
+   2
+  ]
+ },
+ {
+  "key": "5-12",
+  "grade": 5,
+  "no": 12,
+  "chapter": "CH 2",
+  "chapter_name": "be동사와 일반동사",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오.",
+   "passage": "We _______ in the same class. (우리는 같은 반에 있다.)\n_______ she a doctor? (그녀는 의사입니까?)",
+   "c": [
+    "is - Is",
+    "is - Are",
+    "are - Is",
+    "are - Are",
+    "am - Am"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: be동사: I am, you/we/they are, he/she/it is. 의문문은 be동사를 주어 앞에 둔다.\n풀이 순서: ① 첫 문장의 주어를 본다: We에는 are. → ② 둘째 문장은 의문문이라 be동사가 주어 앞에 왔다. 주어를 본다: she에는 Is. → ③ 정답은 are - Is.\n문장별 판정:\n정답 판단: We에는 are, she에는 Is가 알맞으므로 정답은 ③이다.\n선택지 분석:\n① [오답] We에는 is가 아니라 are를 쓰므로 오답이다.\n② [오답] We에 is, she에 Are 모두 맞지 않으므로 오답이다.\n③ [정답] We에는 are, she에는 Is가 알맞으므로 정답이다.\n④ [오답] she에는 Are가 아니라 Is를 쓰므로 오답이다.\n⑤ [오답] am은 주어가 I일 때만 쓰므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오.",
+    "passage": "I _______ ready for the trip. (나는 여행 갈 준비가 되어 있다.)\n_______ they outside now? (그들은 지금 밖에 있니?)",
+    "c": [
+     "are - Is",
+     "is - Is",
+     "am - Are",
+     "are - Are",
+     "am - Is"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오.",
+    "passage": "I _______ hungry. (나는 배가 고프다.)\n_______ they ready? (그들은 준비되었니?)",
+    "c": [
+     "am - Is",
+     "are - Are",
+     "am - Are",
+     "is - Are",
+     "are - Am"
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오.",
+    "passage": "Tom _______ at home. (Tom은 집에 있다.)\n_______ you busy? (너는 바쁘니?)",
+    "c": [
+     "are - Are",
+     "am - Is",
+     "is - Am",
+     "are - Am",
+     "is - Are"
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오.",
+    "passage": "You _______ my best friend. (너는 나의 가장 친한 친구이다.)\n_______ we late? (우리가 늦었니?)",
+    "c": [
+     "am - Is",
+     "is - Are",
+     "are - Am",
+     "are - Are",
+     "is - Is"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 말을 알맞게 짝지은 것을 고르시오.",
+    "passage": "Jane _______ happy. (Jane은 행복하다.)\n_______ I late? (내가 늦었니?)",
+    "c": [
+     "am - Is",
+     "are - Are",
+     "are - Am",
+     "is - Am",
+     "is - Are"
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": {
+   "stem": "다음 대화의 빈칸 (A), (B)에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+   "passage": "A: (A)_______ Minjun in your science class?\nB: Yes. We (B)_______ best friends, too.",
+   "c": [
+    "(A) Is - (B) are",
+    "(A) Are - (B) are",
+    "(A) Is - (B) is",
+    "(A) Are - (B) is",
+    "(A) Am - (B) am"
+   ],
+   "ans": 1
+  },
+  "target_answer_positions": [
+   2,
+   4,
+   5
+  ]
+ },
+ {
+  "key": "5-21",
+  "grade": 5,
+  "no": 21,
+  "chapter": "CH 3",
+  "chapter_name": "be동사와 일반동사 과거",
+  "ref": {
+   "stem": "다음 중 과거를 나타내는 문장이 아닌 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "The car hit the wall last night.",
+    "She didn't write the letter.",
+    "Were you at the bus stop?",
+    "Julia studies all day.",
+    "Jane worked hard during the weekend."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 과거의 문장은 동사의 과거형(-ed, 불규칙 과거형, was/were, did)을 쓴다. 현재형(-s, 동사원형)은 지금의 습관·사실을 나타낸다.\n풀이 순서: ① 문장마다 동사의 형태를 본다. hit처럼 현재형과 과거형이 같은 동사는 last night 같은 때를 나타내는 말로 가른다. → ② 과거형(-ed, 불규칙, was/were, did)인 문장을 지운다. → ③ 선택지 ④의 studies는 3인칭 단수 현재형이다. 정답은 ④.\n문장별 판정:\n정답 판단: studies는 현재형이라 과거가 아니므로 정답은 ④이다.\n선택지 분석:\n① [오답] last night이 있고 hit은 과거형으로도 쓰이므로 오답이다.\n② [오답] didn't로 과거를 나타내므로 오답이다.\n③ [오답] Were로 과거를 묻고 있으므로 오답이다.\n④ [정답] studies는 현재형이라 과거가 아니므로 정답이다.\n⑤ [오답] worked는 과거형이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 과거를 나타내는 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "We were tired after the trip.",
+     "Mina called me last night.",
+     "Tom bought a new backpack yesterday.",
+     "They visited the museum last Saturday.",
+     "The train leaves at six every morning."
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "다음 중 과거를 나타내는 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Tom plays soccer every day.",
+     "They studied yesterday.",
+     "I went home an hour ago.",
+     "Jane was busy last night.",
+     "We watched a movie last weekend."
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 중 과거를 나타내는 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "We went to the park.",
+     "They studied last night.",
+     "Tom was tired.",
+     "I lost my umbrella yesterday.",
+     "Jane reads books now."
+    ],
+    "ans": 5
+   },
+   "E": {
+    "stem": "다음 중 과거를 나타내는 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "We played soccer.",
+     "Mom made a cake yesterday.",
+     "They go to school every day.",
+     "He was home.",
+     "Jane studied last night."
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 중 과거를 나타내는 문장이 아닌 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Jane played soccer.",
+     "My dad watches TV every night.",
+     "Tom went to school.",
+     "We were at home.",
+     "I visited my uncle last night."
+    ],
+    "ans": 2
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   1,
+   2,
+   3
+  ]
+ }
+]

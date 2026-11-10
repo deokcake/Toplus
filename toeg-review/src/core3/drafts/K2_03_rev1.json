@@ -1,0 +1,87 @@
+[
+ {
+  "key": "2-51",
+  "variant": 3,
+  "ref_format": "우리말에 맞게 to부정사 앞 빈칸에 들어갈 의문사(낱말 보기) 고르기",
+  "new_format": "우리말 뜻과 ‘의문사+to부정사’ 구의 짝 다섯 개 중 잘못 짝지어진 것 고르기",
+  "design": "‘의문사+to부정사’의 뜻이 의문사에 따라 정해진다는 규칙을 확인한다. 빈칸 하나를 우리말–영어 짝 다섯 개의 판정으로 바꿨으며, 보기마다 의문사 하나만 대조하는 짧은 구라 원문항에서 의문사 다섯 개를 우리말에 대 보는 것과 무게가 같고, 영어는 16낱말(원문항 11, +5), 어휘는 sit·fix·get up·call·choose 수준이다. 정답은 학생들이 자주 헷갈리는 ‘어떻게’를 what으로 옮긴 짝이고, 나머지 넷은 where·when·who·which를 바르게 짝지었으며, 영어 의문사 다섯 개와 우리말 의문사 다섯 개가 모두 서로 달라 같은 낱말이 두 번 나오는지로는 고를 수 없다. 구는 원문항·B~F·다른 변형에 나온 것(who to invite·who to ask·when to leave·where to park·how to solve·○○ to buy 등)과 겹치지 않게 했다.",
+  "stem": "다음 중 우리말과 영어가 바르게 짝지어지지 않은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "어디에 앉을지 – where to sit",
+   "어떻게 고칠지 – what to fix",
+   "언제 일어날지 – when to get up",
+   "누구에게 전화할지 – who to call",
+   "어느 것을 고를지 – which to choose"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "2-52",
+  "variant": 1,
+  "ref_format": "다섯 문장 중 빈칸에 of가 들어갈 수 없는 것 고르기(It is+형용사+of/for+목적격+to부정사)",
+  "new_format": "짧은 대화 속 ‘It was _______ of him to ~’ 빈칸에 들어갈 형용사 고르기(문장 보기 → 낱말 보기: 일 판단 형용사 넷 + 성품 형용사 하나)",
+  "design": "성품 형용사 뒤에는 of+목적격, 일 자체를 판단하는 형용사 뒤에는 for+목적격을 쓴다는 규칙을 그대로 확인한다. 빈칸 문장 다섯 개를 짧은 대화 속 빈칸 하나로, 문장 보기를 형용사 낱말 보기로 바꿨고, of him 앞에 형용사 다섯 개를 하나씩 넣어 성품 형용사인지 판단하므로 판단 수(다섯)는 원문항과 같으며, 읽을 양은 42낱말(원문항 40), 어휘는 festival·nervous·stage 수준이다. 오답은 for와 함께 쓰는 hard·fun·scary·necessary로, 대화의 nervous 때문에 hard·scary도 뜻으로는 그럴듯해 의미만으로는 고를 수 없고 빈칸 뒤 of를 보고 판단해야 한다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: How was the school festival yesterday?\nB: It was great. Junho was nervous, but he sang a song alone on the stage.\nA: Really? It was _______ of him to sing in front of so many people.",
+  "c": [
+   "hard",
+   "fun",
+   "brave",
+   "scary",
+   "necessary"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "2-61",
+  "variant": 1,
+  "ref_format": "동명사 목적어 앞 빈칸에 들어갈 동사(낱말 보기) 고르기",
+  "new_format": "짧은 대화 속 동명사 앞 빈칸에 들어갈 동사(과거형 낱말 보기) 고르기",
+  "design": "keep·enjoy·finish 등은 동명사를, want·plan·decide·choose 등은 to부정사를 목적어로 쓴다는 규칙을 확인한다. 서술문 빈칸을 짧은 대화의 빈칸으로 바꿨고, 빈칸 뒤 playing을 보고 동명사를 쓰는 동사 하나를 찾는 판단 한 번은 같으며, 읽을 양은 16낱말(원문항 12), 어휘는 tired·neighbor·music 수준이다. 오답은 모두 to부정사를 목적어로 쓰는 동사(wanted·planned·decided·chose)이고, 주어를 사람(neighbor)으로 해 다섯 동사 모두 뜻으로는 자연스러우며, B~F 어느 문항과도 겹치는 동사가 2개 이하가 되게 했다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: You look tired.\nB: My neighbor _______ playing music all night.",
+  "c": [
+   "wanted",
+   "planned",
+   "kept",
+   "decided",
+   "chose"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "2-61",
+  "variant": 2,
+  "ref_format": "동명사 목적어 앞 빈칸에 들어갈 동사(낱말 보기) 고르기",
+  "new_format": "to부정사 앞 빈칸에 들어갈 수 없는 동사 고르기(방향 반대, 과거형 낱말 보기)",
+  "design": "같은 규칙을 반대 방향에서 확인한다: 빈칸 뒤가 to부정사(to ride)이므로 to부정사를 목적어로 쓰지 못하는 동사 하나를 찾는다. 판단은 빈칸 하나에 동사 다섯을 대 보는 것으로 원문항과 같고, 읽을 양은 14낱말(원문항 12), 어휘는 ride·horse·farm 수준이다. 정답은 동명사만 목적어로 쓰는 imagined이고, 나머지 넷(learned·needed·chose·agreed)은 to부정사를 쓰는 동사이며, imagined riding a horse도 자연스러운 말이라 뜻이 튀는 보기가 없고, B~F·원문항·다른 변형과 겹치는 동사는 각각 1개 이하다.",
+  "stem": "다음 빈칸에 들어갈 말로 알맞지 않은 것을 고르시오.",
+  "passage": "Sora _______ to ride a horse on her uncle's farm.",
+  "c": [
+   "learned",
+   "needed",
+   "chose",
+   "imagined",
+   "agreed"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "2-61",
+  "variant": 3,
+  "ref_format": "동명사 목적어 앞 빈칸에 들어갈 동사(낱말 보기) 고르기",
+  "new_format": "우리말에 맞게 동명사를 쓰는 동사(give up) 뒤 빈칸에 알맞은 목적어 형태 고르기(동사 → 형태)",
+  "design": "같은 규칙을 ‘동사가 주어졌을 때 목적어 형태 고르기’로 확인한다: give up은 동명사를 목적어로 쓰므로 drinking이다. 판단은 빈칸 하나(to부정사인지 동명사인지)로 원문항과 같고, 읽을 양은 영어 14낱말(원문항 12)과 짧은 우리말 한 줄, 어휘는 give up·coffee 수준이다. 오답은 학생들이 실제로 하는 실수로 골랐다: 가장 흔한 to부정사 to drink, ‘to+-ing’ 표현과 헷갈린 to drinking, gave에 시제만 맞춘 drank, 동사원형 drink.",
+  "stem": "다음 우리말과 뜻이 같도록 빈칸에 알맞은 말을 고르시오.",
+  "passage": "우리 아빠는 지난달에 커피 마시는 것을 끊으셨다.\nMy dad gave up _______ coffee last month.",
+  "c": [
+   "to drink",
+   "drink",
+   "to drinking",
+   "drank",
+   "drinking"
+  ],
+  "ans": 5
+ }
+]

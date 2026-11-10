@@ -1,0 +1,104 @@
+[
+ {
+  "key": "2-72",
+  "variant": 3,
+  "ref_format": "두 문장의 빈칸에 들어갈 surprise의 알맞은 형태(-ed/-ing) 짝 고르기",
+  "new_format": "우리말을 영어로 바르게 옮긴 것 고르기(분사 두 곳이 든 짧은 문장 보기)",
+  "design": "감정을 일으키는 사물(이야기)에는 interesting, 감정을 느끼는 사람(나)에는 interested를 쓴다는 규칙을 확인한다. 빈칸 짝 고르기를 우리말을 영어로 옮긴 짧은 문장 고르기로 바꿨고, 보기마다 분사 두 곳만 보면 되므로 판단 개수는 같으며, 읽을 양은 30낱말(원문항 25, 1.2배), 어휘는 story·interest 수준이다(사물에 쓰면 ‘뒤죽박죽인’ 뜻도 되는 confused 대신 interest를 썼다). 오답은 원문항과 같은 짜임으로 두 곳을 맞바꾼 것(②), 두 곳을 -ed(③)나 -ing(④)로 통일한 것, 동사원형 interest를 쓴 것 하나(⑤)이며, 보기마다 많이 나온 형태를 모아도 정답이 드러나지 않게 했다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "그 이야기는 흥미롭다. 나는 흥미를 느낀다.",
+  "c": [
+   "The story is interesting. I'm interested.",
+   "The story is interested. I'm interesting.",
+   "The story is interested. I'm interested.",
+   "The story is interesting. I'm interesting.",
+   "The story is interest. I'm interested."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "2-81",
+  "variant": 2,
+  "ref_format": "최상급 뒤 두 빈칸에 들어갈 범위 전치사(in/of) 짝 고르기",
+  "new_format": "전치사(in/of)를 주고 그 뒤 빈칸 (A), (B)에 올 명사(구) 짝 고르기(묻는 방향 뒤집기)",
+  "design": "in 뒤에는 장소·단체, of 뒤에는 복수 명사가 온다는 같은 규칙을 묻는 방향만 뒤집어, 전치사를 주고 그 뒤에 올 명사(구)를 고르게 했다. 판단은 (A)·(B) 두 곳으로 같고, 읽을 양은 31낱말(원문항 26, 1.2배), 어휘는 class·shop·cheapest 수준이며, 둘째 문장은 car를 되풀이하지 않게 주어를 This one으로 썼다. 오답은 in 뒤에 복수 명사(the boys, his friends)를, of 뒤에 단수 장소(this shop)를 둔 것이며, this shop과 these cars처럼 생김새가 비슷한 말을 맞세워 장소인지 복수의 구성원인지로만 가르게 했다.",
+  "stem": "다음 빈칸 (A), (B)에 들어갈 말이 바르게 짝지어진 것을 고르시오.",
+  "passage": "Tom runs the fastest in (A)_______.\nThis one is the cheapest of (B)_______.",
+  "c": [
+   "(A) the boys - (B) these cars",
+   "(A) his class - (B) this shop",
+   "(A) his friends - (B) this shop",
+   "(A) his class - (B) these cars",
+   "(A) his friends - (B) these cars"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "2-81",
+  "variant": 3,
+  "ref_format": "최상급 뒤 두 빈칸에 들어갈 범위 전치사(in/of) 짝 고르기",
+  "new_format": "밑줄 친 전치사 (A), (B) 중 틀린 것을 찾아 바르게 고친 것 고르기",
+  "design": "장소(his country) 앞에는 in, 복수의 구성원(the six children) 앞에는 of를 쓴다는 규칙을 확인한다. 빈칸 짝 고르기를 밑줄 친 전치사 두 곳 중 틀린 곳을 찾아 바르게 고친 것 고르기로 바꿨고, 보기에 (A)를 고치는 것 셋과 (B)를 고치는 것 둘을 섞고 고칠 말 in·at도 (A)·(B) 양쪽에 두어 (A)·(B) 두 곳을 모두 판단해야 하게 했으며, 읽을 양은 26낱말(원문항 26), 어휘는 swimmer·country 수준이다. 오답은 바르게 쓴 (B)를 in이나 at으로 바꾼 것, 틀린 (A)를 장소 앞 at이나 ‘~ 중에서’의 among으로 고친 것이다.",
+  "stem": "다음 밑줄 친 (A), (B) 중 어법상 틀린 것을 바르게 고친 것을 고르시오.",
+  "passage": "• Daniel is the best swimmer (A)<u>of</u> his country.\n• Amy is the youngest (B)<u>of</u> the six children.",
+  "c": [
+   "(A) of → at",
+   "(B) of → in",
+   "(A) of → among",
+   "(B) of → at",
+   "(A) of → in"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "2-82",
+  "variant": 2,
+  "ref_format": "우리말과 같도록 비교급 앞 빈칸에 들어갈 수 없는 강조어 고르기(낱말 보기)",
+  "new_format": "강조어 + 형용사가 든 아주 짧은 문장 다섯 개 중 어법상 어색한 것 고르기(낱말 보기 → 짧은 문장 보기)",
+  "design": "비교급은 much, far, even, a lot 등으로 강조하고 very·so처럼 원급을 꾸미는 말은 비교급 앞에 쓸 수 없다는 규칙을 확인한다. 낱말 보기를 그 낱말이 든 3~5낱말 문장 다섯 개로 바꿔 어색한 것 하나를 고르게 했고, 문장마다 강조어 한 곳만 보면 되므로 판단은 다섯 번으로 같으며, 읽을 양은 19낱말(원문항 14, +5), 어휘는 warm·happy·hard 수준이다. 정답은 원문항 정답 낱말 very와 겹치지 않게 원급을 꾸미는 so를 비교급 앞에 쓴 문장(so taller)이고, 나머지 넷은 much·far·even·a lot으로 비교급을 ‘훨씬’의 뜻으로만 강조한 문장이다.",
+  "stem": "다음 중 어법상 어색한 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "It's much warmer.",
+   "You're far happier.",
+   "Ted is so taller.",
+   "Math got even harder.",
+   "Sam is a lot faster."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "2-91",
+  "variant": 2,
+  "ref_format": "두 문장의 빈칸에 들어갈 관계부사 짝 고르기(선행사: 때·이유)",
+  "new_format": "선행사와 맞지 않게 쓰인 밑줄 친 말 (A), (B)를 바르게 고친 것 고르기(빈칸 → 밑줄 고치기)",
+  "design": "때(the year)에는 when, 장소(the bookstore)에는 where를 쓴다는 규칙을 확인한다. 빈칸 고르기를 선행사와 맞지 않게 쓴 밑줄 친 (A) where, (B) which를 바르게 고친 것 고르기로 바꿔 두 곳을 판단하는 부담은 같게 했고, (B)를 which로 써서 두 밑줄 말을 맞바꾸기만 해서는 답이 나오지 않으며, 읽을 양은 28낱말(원문항 28), 어휘는 library·bookstore 수준이다. 오답은 선행사와 어긋난 why·when을 넣은 것과 뒤가 완전한 절인데 which를 넣은 것이며, (A) when·why와 (B) where·when을 각각 두 번씩 써서 많이 나온 말만 모아서는 정답을 고를 수 없게 했다.",
+  "stem": "다음 밑줄 친 (A), (B)를 바르게 고친 것을 고르시오.",
+  "passage": "• Do you know the year (A)<u>where</u> this library was built?\n• This is the bookstore (B)<u>which</u> my uncle works.",
+  "c": [
+   "(A) why - (B) where",
+   "(A) when - (B) where",
+   "(A) when - (B) why",
+   "(A) why - (B) when",
+   "(A) which - (B) when"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "2-92",
+  "variant": 3,
+  "ref_format": "우리말을 영어로 바르게 옮긴 문장(a~e) 모두 고르기(조합 보기)",
+  "new_format": "주어진 영어 문장과 의미가 같도록 어법상 바르게 바꿔 쓴 문장(a~e) 모두 고르기(우리말 옮기기 → 같은 뜻으로 바꿔 쓰기, 조합 보기)",
+  "design": "The thing that ~ = What ~이고 목적격 관계대명사는 생략할 수 있지만, 선행사 뒤에 what을 쓰거나 what을 빼거나 목적어를 다시 쓰면 어법상 틀린다는 규칙을 확인한다. 우리말 옮기기를 주어진 영어 문장과 의미가 같도록 어법상 바르게 바꿔 쓴 문장 모두 고르기로 바꿔, 발문이 뜻과 어법을 함께 묻게 했고 다섯 문장을 판정해 조합을 고르는 부담은 같으며, 읽을 양은 52낱말(원문항 48, 1.1배), 어휘는 cook·curry 수준이다. 틀린 문장은 what 생략(b), The thing what(c), 목적어 it 중복(e)으로 각각 한 곳만 어법상 틀렸고, 오답 조합은 이들 가운데 하나를 넣거나 옳은 a를 빠뜨린 것이다.",
+  "stem": "다음 문장과 의미가 같도록 어법상 바르게 바꿔 쓴 문장을 모두 고르시오.",
+  "passage": "The thing that Dad cooked was curry.\na. What Dad cooked was curry.\nb. Dad cooked was curry.\nc. The thing what Dad cooked was curry.\nd. The thing Dad cooked was curry.\ne. What Dad cooked it was curry.",
+  "c": [
+   "a, d",
+   "a, b",
+   "c, d",
+   "a, d, e",
+   "a, c, d"
+  ],
+  "ans": 1
+ }
+]

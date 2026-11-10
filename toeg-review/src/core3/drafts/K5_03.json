@@ -1,0 +1,257 @@
+[
+ {
+  "key": "5-51",
+  "variant": 1,
+  "ref_format": "will 뒤 빈칸에 들어갈 동사 형태 고르기(낱말 보기 5개)",
+  "new_format": "밑줄 친 동사 형태를 바르게 고친 말 고르기(낱말 보기)",
+  "design": "조동사 will 뒤에는 주어가 3인칭 단수여도 동사원형을 쓴다는 핵심 규칙을 그대로 확인한다. 빈칸 채우기를 밑줄 친 cooks를 바르게 고치는 형식으로 바꿨고, 판단은 원문항처럼 will 뒤 한 군데뿐이며 읽을 양은 13낱말(원문항 11), 어휘는 sister·cook·dinner 수준이다. 오답은 -ing형, to부정사, 과거형, is+동사원형으로 원문항·확정 변형과 같은 유형의 실제 실수이고, 밑줄 친 cooks는 보기에 넣지 않았다.",
+  "stem": "다음 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "My sister will <u>cooks</u> dinner tonight.",
+  "c": [
+   "cooking",
+   "to cook",
+   "cook",
+   "cooked",
+   "is cook"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "5-51",
+  "variant": 2,
+  "ref_format": "will 뒤 빈칸에 들어갈 동사 형태 고르기(낱말 보기 5개)",
+  "new_format": "짧은 대화의 빈칸에 들어갈 동사 형태 고르기(낱말 보기)",
+  "design": "will 뒤에는 주어와 관계없이 동사원형이 온다는 핵심 규칙을 확인한다. 한 문장 빈칸을 두 줄 대화의 빈칸으로 바꿨고 주어를 He로 두어 -s형 함정을 원문항과 같게 유지했다. 판단은 빈칸 한 군데, 읽을 양은 16낱말(원문항의 1.5배 안, 짧은 원문항 +8낱말 안), 어휘는 today·Grandma 수준이다. 오답은 -s형, -ing형, to부정사, 과거형이다.",
+  "stem": "다음 대화의 빈칸에 알맞은 말을 고르시오.",
+  "passage": "A: What will Jake do today?\nB: He will _______ Grandma.",
+  "c": [
+   "meets",
+   "meeting",
+   "to meet",
+   "met",
+   "meet"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "5-51",
+  "variant": 3,
+  "ref_format": "will 뒤 빈칸에 들어갈 동사 형태 고르기(낱말 보기 5개)",
+  "new_format": "우리말과 같은 뜻의 영어 문장 고르기(will 뒤 동사 형태만 다른 세 낱말 문장 5개)",
+  "design": "will 뒤 동사원형 규칙을 그대로 확인한다. 낱말 보기를 그 낱말이 든 아주 짧은 문장 보기로 바꿨고, 다섯 문장은 will 뒤 동사 형태 한 군데만 다르므로 판단 개수는 원문항과 같다. 읽을 양은 16낱말(원문항 11, 아주 짧은 원문항 +8낱말 안), 어휘는 sing 하나이고 주어를 3인칭 단수 Mom으로 두어 -s형 함정을 살렸다. 오답은 -s형, -ing형, to부정사, 과거형 sang이다.",
+  "stem": "우리말과 같은 뜻이 되는 문장을 고르시오.",
+  "passage": "엄마는 노래하실 것이다.",
+  "c": [
+   "Mom will sing.",
+   "Mom will sings.",
+   "Mom will singing.",
+   "Mom will to sing.",
+   "Mom will sang."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "5-52",
+  "variant": 1,
+  "ref_format": "be동사 ___ to 자리와 will 뒤 자리의 두 빈칸에 알맞은 말 짝 고르기",
+  "new_format": "밑줄 친 (A), (B)를 바르게 고친 말 짝 고르기",
+  "design": "be동사+going to+동사원형, will+동사원형이라는 두 미래 표현의 형태 규칙을 그대로 확인한다. 빈칸 짝을 밑줄 친 두 곳(A) go, (B) finishes를 바르게 고치는 짝 고르기로 바꿨고, 판단할 곳은 원문항(두 빈칸 짝)과 같이 두 군데, 읽을 양은 23낱말(원문항 23), 어휘는 swim·movie·finish 수준이다. 오답은 (A)에 gone, (B)에 -ing형·과거형을 쓴 것으로 원문항과 같은 유형이며, 밑줄 친 go·finishes는 보기에 넣지 않았다.",
+  "stem": "다음 밑줄 친 (A), (B)를 바르게 고친 것을 고르시오.",
+  "passage": "- Yuna is (A)<u>go</u> to swim this afternoon.\n- The movie will (B)<u>finishes</u> at three.",
+  "c": [
+   "(A) gone - (B) finish",
+   "(A) going - (B) finish",
+   "(A) going - (B) finishing",
+   "(A) gone - (B) finished",
+   "(A) going - (B) finished"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "5-52",
+  "variant": 2,
+  "ref_format": "be동사 ___ to 자리와 will 뒤 자리의 두 빈칸에 알맞은 말 짝 고르기",
+  "new_format": "우리말에 맞게 두 빈칸 (A), (B)에 알맞은 말 짝 고르기",
+  "design": "be going to의 going 자리와 will 뒤 동사원형 자리를 채우는 핵심 규칙을 그대로 확인한다. 원문항의 빈칸 짝에 우리말을 붙여 미래 뜻을 분명히 한 형식으로 바꿨고, 판단할 곳은 원문항(두 빈칸 짝)과 같이 두 군데이고 읽을 양은 23낱말(원문항 23), 어휘는 cookies·concert·end 수준이다. 오답은 (A) go·gone, (B) ends·ending으로 원문항과 같은 실수 유형이다.",
+  "stem": "우리말과 같은 뜻이 되도록 빈칸 (A), (B)에 알맞은 말을 바르게 짝지은 것을 고르시오.",
+  "passage": "- 우리는 내일 오후에 쿠키를 만들 것이다.\n  We are (A)_______ to make cookies tomorrow afternoon.\n- 콘서트는 10분 뒤에 끝날 것이다.\n  The concert will (B)_______ in ten minutes.",
+  "c": [
+   "(A) go - (B) end",
+   "(A) gone - (B) ends",
+   "(A) going - (B) end",
+   "(A) going - (B) ending",
+   "(A) going - (B) ends"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "5-52",
+  "variant": 3,
+  "ref_format": "be동사 ___ to 자리와 will 뒤 자리의 두 빈칸에 알맞은 말 짝 고르기",
+  "new_format": "짧은 대화의 두 빈칸 (A), (B)에 알맞은 말 짝 고르기",
+  "design": "be동사+going to와 will 뒤 동사원형이라는 핵심 규칙을 그대로 확인한다. 두 문장 나열을 두 줄 대화로 바꿨고, 판단할 곳은 (A) going 자리와 (B) will 뒤 두 군데로 원문항(두 빈칸 짝)과 같으며 읽을 양은 24낱말(원문항 23), 어휘는 join·school trip·take the bus 수준이다. 오답은 (A) go·gone, (B) takes·taking으로 원문항과 같은 유형의 실수다.",
+  "stem": "다음 대화의 빈칸 (A), (B)에 알맞은 말을 바르게 짝지은 것을 고르시오.",
+  "passage": "A: Are you (A)_______ to join the school trip?\nB: Yes. We will (B)_______ the bus at eight.",
+  "c": [
+   "(A) go - (B) take",
+   "(A) gone - (B) takes",
+   "(A) going - (B) taking",
+   "(A) going - (B) take",
+   "(A) going - (B) takes"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "5-61",
+  "variant": 1,
+  "ref_format": "세 문장의 빈칸에 들어갈 기수·서수를 바르게 짝지은 것 고르기",
+  "new_format": "짧은 대화의 세 빈칸 (A), (B), (C)에 들어갈 기수·서수 짝 고르기",
+  "design": "개수는 기수로, 몇 번째 생일·몇 층 같은 순서는 서수로 나타낸다는 핵심 규칙을 그대로 확인한다. 세 문장 나열을 생일 파티 대화로 바꿨고, 판단할 곳은 생일(서수)·층(서수)·친구 수(기수) 세 군데로 원문항과 같으며 읽을 양은 35낱말(원문항 27, 1.3배), 어휘는 party·floor·friends 수준이다. 오답은 셋 다 서수로 쓴 것, 셋 다 기수로 쓴 것, 한두 자리만 기수·서수를 바꾼 것이다.",
+  "stem": "다음 대화의 빈칸 (A), (B), (C)에 알맞은 말을 순서대로 짝지은 것을 고르시오.",
+  "passage": "A: Happy birthday, Jiho! Is it your (A)_______ birthday?\nB: Yes! My party is on the (B)_______ floor.\nA: I'll bring (C)_______ friends.",
+  "c": [
+   "eleventh - seventh - sixth",
+   "eleventh - seventh - six",
+   "eleven - seventh - six",
+   "eleventh - seven - sixth",
+   "eleven - seven - six"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "5-61",
+  "variant": 2,
+  "ref_format": "세 문장의 빈칸에 들어갈 기수·서수를 바르게 짝지은 것 고르기",
+  "new_format": "우리말에 맞게 세 빈칸 (A), (B), (C)에 들어갈 기수·서수 짝 고르기",
+  "design": "개수는 기수, 몇 번째·몇 층은 서수라는 핵심 규칙을 그대로 확인한다. 각 영어 문장에 우리말을 붙여 ‘세 개·스무 번째·1층’이 보이게 한 형식으로 바꿨고, 판단할 곳은 세 군데로 원문항과 같으며 읽을 양은 31낱말(원문항 27), 어휘는 bag·pockets·shop 수준이다. 오답은 개수 자리에 third, 생일 자리에 twenty, 층 자리에 one을 넣은 것과 이를 겹친 것으로 원문항과 같은 유형이다.",
+  "stem": "우리말과 같은 뜻이 되도록 빈칸 (A), (B), (C)에 알맞은 말을 순서대로 짝지은 것을 고르시오.",
+  "passage": "· 내 가방에는 주머니가 세 개 있다.\n  My bag has (A)_______ pockets.\n· 언니의 스무 번째 생일은 이번 금요일이다.\n  My sister's (B)_______ birthday is this Friday.\n· 그 가게는 1층에 있다.\n  The shop is on the (C)_______ floor.",
+  "c": [
+   "third - twentieth - first",
+   "three - twenty - first",
+   "three - twentieth - first",
+   "three - twentieth - one",
+   "third - twenty - one"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "5-61",
+  "variant": 3,
+  "ref_format": "세 문장의 빈칸에 들어갈 기수·서수를 바르게 짝지은 것 고르기",
+  "new_format": "세 문장의 (A), (B), (C) 괄호 안에서 알맞은 기수·서수를 골라 짝지은 것 고르기",
+  "design": "개수는 기수, 몇 번째 생일·몇 층은 서수라는 핵심 규칙을 그대로 확인한다. 빈칸 대신 문장 안의 괄호에 기수·서수 둘을 나란히 두고 알맞은 쪽을 고르게 하는 형식으로 바꿨고, 판단할 곳은 세 군데로 원문항과 같으며 읽을 양은 35낱말(원문항 27, 1.3배), 어휘는 ants·cousin·gym 수준이다. 오답은 셋 다 서수로 쓴 것, 생일이나 층을 기수로 쓴 것, 개수를 서수로 쓴 것이다.",
+  "stem": "다음 (A), (B), (C)에서 알맞은 말을 골라 순서대로 바르게 짝지은 것을 고르시오.",
+  "passage": "· Ants have (A) [six / sixth] legs.\n· It's my cousin's (B) [fourteen / fourteenth] birthday today.\n· The gym is on the (C) [nine / ninth] floor.",
+  "c": [
+   "sixth - fourteenth - ninth",
+   "six - fourteen - ninth",
+   "six - fourteenth - nine",
+   "six - fourteenth - ninth",
+   "sixth - fourteen - nine"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "5-62",
+  "variant": 1,
+  "ref_format": "우리말 날짜와 같은 뜻의 영어 문장 고르기(날짜 낱말만 다른 문장 5개)",
+  "new_format": "짧은 대화에서 우리말 힌트에 맞는 대답 문장 고르기",
+  "design": "날짜의 ‘일’은 서수로 읽는다는 핵심 규칙(7일 = seventh)을 그대로 확인한다. 우리말 문장 하나를 대화의 대답 고르기로 바꿨고, 보기는 날짜 낱말 한 군데만 다르므로 판단 개수는 원문항과 같다. 읽을 양은 27낱말(원문항 25), 어휘는 school festival 수준이다. 오답은 기수 seven·seventeen, 비슷하게 생긴 seventeenth(17일)·seventieth로 원문항과 같은 유형이다.",
+  "stem": "다음 대화에서 B의 대답으로 알맞은 것을 고르시오.",
+  "passage": "A: When is the school festival this year?\nB: _______ (9월 7일이야.)",
+  "c": [
+   "It's on September seventeenth.",
+   "It's on September seven.",
+   "It's on September seventieth.",
+   "It's on September seventeen.",
+   "It's on September seventh."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "5-62",
+  "variant": 2,
+  "ref_format": "우리말 날짜와 같은 뜻의 영어 문장 고르기(날짜 낱말만 다른 문장 5개)",
+  "new_format": "글에서 밑줄 친 문장(날짜를 기수로 쓴 것)을 바르게 고친 문장 고르기",
+  "design": "날짜의 ‘일’은 서수로 읽는다는 핵심 규칙(4일 = fourth)을 그대로 확인한다. 우리말을 영어로 옮기는 대신 기수 four로 잘못 쓴 문장을 바르게 고친 것을 고르게 했고, 보기는 날짜 낱말 한 군데만 다르므로 판단 개수는 원문항과 같다. 읽을 양은 28낱말(원문항 25), 어휘는 grandpa·birthday 수준이다. 오답은 fourteenth(14일)·fortieth, 기수 forty·fourteen이며 밑줄 친 four는 보기에 넣지 않았다.",
+  "stem": "다음 글에서 밑줄 친 문장을 바르게 고친 것을 고르시오.",
+  "passage": "<u>Today is December four.</u> (12월 4일) It's my grandpa's birthday.",
+  "c": [
+   "Today is December fourth.",
+   "Today is December fourteenth.",
+   "Today is December fortieth.",
+   "Today is December forty.",
+   "Today is December fourteen."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "5-62",
+  "variant": 3,
+  "ref_format": "우리말 날짜와 같은 뜻의 영어 문장 고르기(날짜 낱말만 다른 문장 5개)",
+  "new_format": "숫자로 쓴 날짜를 영어로 바르게 쓴 문장 고르기",
+  "design": "날짜의 ‘일’은 서수로 읽는다는 핵심 규칙(9일 = ninth)을 그대로 확인한다. 우리말 대신 숫자 9로 쓴 날짜를 영어 낱말로 바르게 쓴 문장을 고르게 했고, 보기는 날짜 낱말 한 군데만 다르므로 판단 개수는 원문항과 같다. 읽을 양은 29낱말(원문항 25, 1.2배), 어휘는 party·October 수준이다. 오답은 기수 nine·nineteen, 비슷하게 생긴 nineteenth(19일)·ninetieth로 원문항과 같은 유형이다.",
+  "stem": "다음 문장의 숫자를 영어로 바르게 쓴 것을 고르시오.",
+  "passage": "Minsu's party is October 9.",
+  "c": [
+   "Minsu's party is October nine.",
+   "Minsu's party is October ninth.",
+   "Minsu's party is October nineteenth.",
+   "Minsu's party is October ninetieth.",
+   "Minsu's party is October nineteen."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "5-71",
+  "variant": 1,
+  "ref_format": "선생님 설명(형용사의 서술적 쓰임 예문)에 해당하는 문장 고르기",
+  "new_format": "설명 속 밑줄 친 예문과 형용사의 쓰임이 같은 문장 고르기",
+  "design": "형용사가 명사 앞에서 명사를 꾸미는지, 동사 뒤에서 주어를 설명하는지 가르는 핵심 규칙을 그대로 확인한다. 선생님 말투 대신 짧은 설명과 밑줄 친 예문(The water is cold.)을 주고 쓰임이 같은 문장을 찾게 했고, 보기 다섯 문장을 형용사 뒤에 명사가 있는지로 판정하는 것은 원문항과 같다. 읽을 양은 34낱말(원문항 30, 1.1배), 어휘는 truck·scary·pillow 수준이다. 오답은 red truck·scary movie·soft pillow·small key처럼 형용사가 명사 앞에서 꾸미는 문장 넷이다.",
+  "stem": "다음 설명을 읽고, 밑줄 친 문장과 형용사의 쓰임이 같은 것을 고르시오.",
+  "passage": "형용사는 명사 앞에서 명사를 꾸며 주기도 하고, 동사 뒤에서 주어가 어떤지 설명해 주기도 해요. <u>The water is cold.</u> 이 문장에서 cold는 동사 is 뒤에 와서 주어 The water가 어떤지 설명해 주고 있어요.",
+  "c": [
+   "My uncle drives a red truck.",
+   "We watched a scary movie.",
+   "The baby's hands are warm.",
+   "She wants a soft pillow.",
+   "They found a small key."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "5-71",
+  "variant": 2,
+  "ref_format": "선생님 설명(형용사의 서술적 쓰임 예문)에 해당하는 문장 고르기",
+  "new_format": "형용사 쓰임을 설명한 글의 빈칸에 들어갈 예문(명사를 꾸미는 쓰임) 고르기",
+  "design": "형용사의 두 쓰임을 가르는 핵심 규칙을 반대 방향으로 확인한다. 설명 글이 명사 앞에서 꾸미는 쓰임(a heavy box)을 예로 들고 그 쓰임의 예문을 빈칸에 넣게 했으므로, 정답은 형용사 뒤에 명사가 있는 문장 하나이고 보기 다섯 문장을 한 군데씩 보는 판단은 원문항과 같다. 읽을 양은 30낱말(원문항 30), 어휘는 wind·soup·puppies 수준이다. 오답은 is strong·look happy·tastes salty·are small처럼 동사 뒤에서 주어를 설명하는 문장 넷이다.",
+  "stem": "다음 글의 빈칸에 들어갈 문장으로 알맞은 것을 고르시오.",
+  "passage": "형용사는 동사 뒤에서 주어를 설명해 주기도 하고, 명사 앞에서 명사를 꾸며 주기도 해요. 'a heavy box'에서 heavy는 바로 뒤의 명사 box를 꾸며 주지요. 아래 문장의 형용사도 이렇게 명사를 꾸며 주고 있어요.\n_______",
+  "c": [
+   "The wind is strong today.",
+   "The students look happy now.",
+   "This soup tastes very salty.",
+   "Those puppies are so small.",
+   "Grandpa told a funny story."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "5-71",
+  "variant": 3,
+  "ref_format": "선생님 설명(형용사의 서술적 쓰임 예문)에 해당하는 문장 고르기",
+  "new_format": "선생님의 질문(동사 뒤에서 주어를 설명하는 형용사 문장)에 대한 학생의 대답 고르기",
+  "design": "형용사가 동사 뒤에서 주어를 설명하는 쓰임을 알아보는 핵심 규칙을 그대로 확인한다. 선생님 설명을 ‘그런 문장을 말해 보라’는 질문으로 바꾸고 보기를 학생의 대답 다섯 문장으로 두었으며, 형용사 뒤에 명사가 있는지로 다섯 문장을 판정하는 것은 원문항과 같다. 읽을 양은 33낱말(원문항 30, 1.1배), 어휘는 giraffe·milk·coat·umbrella 수준이다. 오답은 warm coat·black umbrella·high mountain·strong bridge처럼 형용사가 명사를 꾸미는 문장 넷이다.",
+  "stem": "다음 선생님의 질문에 대한 대답으로 알맞은 것을 고르시오.",
+  "passage": "선생님: 'The giraffe is tall.'에서 tall은 동사 is 뒤에 와서 주어 The giraffe가 어떤지 설명해 줘요. 이렇게 형용사가 동사 뒤에서 주어를 설명해 주는 다른 문장을 하나 말해 볼까요?\n학생: _______",
+  "c": [
+   "The milk smells bad.",
+   "I bought a warm coat.",
+   "He lost a black umbrella.",
+   "We climbed a high mountain.",
+   "They built a strong bridge."
+  ],
+  "ans": 1
+ }
+]

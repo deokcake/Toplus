@@ -1,0 +1,121 @@
+[
+ {
+  "key": "2-101",
+  "variant": 1,
+  "ref_format": "우리말 뜻에 맞게 문장 빈칸에 들어갈 방향 전치사 고르기(낱말 보기)",
+  "new_format": "우리말 뜻과 맞지 않게 쓰인 밑줄 친 방향 전치사를 바르게 고친 것 고르기(빈칸 → 밑줄 고치기)",
+  "design": "우리말이 나타내는 이동 방향(‘교실 밖으로’)에 맞는 전치사 out of를 고르는 같은 규칙을, 빈칸 채우기 대신 우리말과 맞지 않게 쓰인 밑줄 친 into를 바르게 고치는 형식으로 바꿨다. 원문항처럼 우리말 한 줄을 보고 한 곳만 판단하며, 읽을 양은 18낱말(원문항 14, 1.29배), 어휘는 bell·classroom 수준이다. 오답은 다른 방향·위치 전치사 across(~을 가로질러)·toward(~ 쪽으로)·in front of(~ 앞에)와 원문항 오답과 같은 종류의 off로, 두 낱말 이상인 보기를 둘(out of, in front of) 두어 낱말 수로 찍을 수 없게 했고 밑줄 친 into는 보기에 넣지 않았다.",
+  "stem": "다음 우리말과 같도록 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "종이 울리자 Minjun은 교실 밖으로 걸어 나갔다.\nWhen the bell rang, Minjun walked <u>into</u> the classroom.",
+  "c": [
+   "across",
+   "out of",
+   "off",
+   "toward",
+   "in front of"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "2-101",
+  "variant": 2,
+  "ref_format": "우리말 뜻에 맞게 문장 빈칸에 들어갈 방향 전치사 고르기(낱말 보기)",
+  "new_format": "우리말 뜻이 주어진 짧은 대화의 대답 속 빈칸에 들어갈 방향 전치사 고르기(서술문 → 대화)",
+  "design": "우리말 ‘창문을 통해’에 맞는 방향 전치사 through를 고르는 같은 규칙을, 서술문 빈칸 대신 짧은 대화의 대답 속 빈칸으로 바꾸고 우리말 뜻은 괄호로 주었다. 빈칸 하나만 판단해 판단 개수가 같고, 읽을 양은 18낱말(1.29배), 어휘는 bird·open window 수준이다. 오답은 학생이 헷갈리는 다른 방향·위치 전치사 across·around·toward와 원문항 ①과 같은 without이다.",
+  "stem": "다음 우리말과 같도록 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: How did the bird get in?\nB: It flew _______ the open window.\n(그 새는 열린 창문을 통해 날아 들어왔어.)",
+  "c": [
+   "across",
+   "without",
+   "through",
+   "around",
+   "toward"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "2-102",
+  "variant": 1,
+  "ref_format": "두 문장(a day ___ / 30% ___)의 빈칸에 공통으로 들어갈 말 고르기(낱말 보기)",
+  "new_format": "우리말 뜻이 주어진 두 문장의 빈칸 (A), (B)에 공통으로 들어갈 말 고르기(우리말에 맞게 빈칸 채우기)",
+  "design": "off가 ‘쉬어’(have Mondays off)와 ‘할인하여’(40% off)로 쓰인다는 같은 규칙을, 원문항의 낱말 빈칸 대신 문장마다 우리말 뜻(‘월요일마다 쉬어서’, ‘40% 할인된다’)을 주고 그 뜻에 맞게 빈칸을 채우는 형식으로 바꿨고, 쉬는 날 문장은 take a day off 대신 have Mondays off라는 새 상황(빵집 주인)으로 만들었다. 판단할 곳은 원문항처럼 두 곳이고, 읽을 양은 23낱말(원문항 18, 1.28배), 어휘는 bakery·sneakers·store 수준이다. 오답은 철자가 비슷해 학생이 자주 혼동하는 of와 away·on·at으로, 두 빈칸 모두에 맞는 것은 off뿐이다.",
+  "stem": "다음 우리말과 같도록 할 때, 빈칸 (A), (B)에 공통으로 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "Kim 씨는 월요일마다 쉬어서, 그날은 그의 빵집이 문을 닫는다.\n= Mr. Kim has Mondays (A)_______, so his bakery is closed.\n그 가게의 모든 운동화가 이번 주에 40% 할인된다.\n= All sneakers at that store are 40% (B)_______ this week.",
+  "c": [
+   "off",
+   "of",
+   "away",
+   "on",
+   "at"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "2-102",
+  "variant": 2,
+  "ref_format": "두 문장(a day ___ / 30% ___)의 빈칸에 공통으로 들어갈 말 고르기(낱말 보기)",
+  "new_format": "‘쉬다’라는 우리말을 영어로 바르게 옮긴 문장 고르기(낱말 하나만 다른 짧은 문장 보기)",
+  "design": "off가 ‘(일을) 쉬어’의 뜻으로 쓰인다는 같은 규칙을, 공통 빈칸 대신 우리말 ‘나는 내일 하루 쉰다.’를 영어로 바르게 옮긴 문장을 고르는 형식으로 바꿨다. 다섯 보기는 끝 낱말 하나만 달라 판단할 곳이 보기마다 한 군데이고 문맥으로는 답을 가를 수 없어 off의 뜻을 알아야만 풀리며, 원문항도 두 빈칸 중 한쪽 뜻만 알면 풀리는 구조라 판단 무게가 같고, 읽을 양은 20낱말(원문항 18, 1.11배)이다. 오답은 학생이 off와 헷갈리는 of와 out·away·over로, 모두 have ~ 뒤에 와서 ‘쉬다’의 뜻이 되지 않는다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "나는 내일 하루 쉰다.",
+  "c": [
+   "I have tomorrow of.",
+   "I have tomorrow off.",
+   "I have tomorrow out.",
+   "I have tomorrow away.",
+   "I have tomorrow over."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "2-112",
+  "variant": 2,
+  "ref_format": "Although절 문장을 ‘___ + 명사구’ 문장으로 바꿀 때 빈칸에 알맞은 말 고르기(낱말 보기)",
+  "new_format": "짧은 대화의 대답 속 절 앞 빈칸에 알맞은 양보의 연결어 고르기(문장 전환 → 대화 빈칸)",
+  "design": "‘~에도 불구하고’는 절 앞에서 although, 명사구 앞에서 despite(in spite of)로 쓴다는 같은 규칙을, 두 문장 전환 대신 짧은 대화의 대답 속 절(the weather was cold and windy) 앞 빈칸에 알맞은 말을 고르는 형식으로 바꿨다. 빈칸 하나를 판단하는 것은 원문항과 같고, 읽을 양은 35낱말(원문항 30, 1.17배), 어휘는 picnic·weather·windy 수준이다. 오답은 뜻은 같지만 절 앞에 쓸 수 없는 전치사 Despite, 원문항 오답과 같은 원인의 전치사 Due to, 절 앞에 쓰지만 뜻이 다른 접속사 Since(원인)·Unless(조건)로, 품사만 알거나 뜻만 알아서는 답이 하나로 좁혀지지 않아 둘 다 알아야 Although를 고를 수 있다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: How was your school picnic last Saturday?\nB: It was wonderful. _______ the weather was cold and windy, everyone enjoyed it.\nA: That's great. I'm glad to hear that.",
+  "c": [
+   "Despite",
+   "Due to",
+   "Since",
+   "Unless",
+   "Although"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "2-112",
+  "variant": 3,
+  "ref_format": "Although절 문장을 ‘___ + 명사구’ 문장으로 바꿀 때 빈칸에 알맞은 말 고르기(낱말 보기)",
+  "new_format": "‘~에도 불구하고’ 우리말을 영어로 바르게 옮긴 문장 고르기(낱말 보기 → 짧은 문장 보기)",
+  "design": "‘~에도 불구하고’는 despite + 명사구 또는 although + 절로 쓴다는 같은 규칙을, 낱말 보기 대신 우리말을 영어로 옮긴 짧은 문장 보기로 바꿨다. 보기 문장마다 연결어 부분 한 곳만 다르게 해 다섯 보기를 판단하는 무게는 원문항과 같고, 읽을 양은 39낱말(1.3배), 어휘는 noise·homework 수준이다. 오답은 접속사 뒤 명사구(Although the noise), 전치사 뒤 절(Despite it was noisy), 원문항처럼 뜻이 원인인 Because·Since로 각각 한 곳만 틀렸고, the noise(2개)와 it was noisy(3개)의 수를 맞춰 겉모양으로 찍을 수 없게 했다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "그 소음에도 불구하고 Sora는 숙제를 끝냈다.",
+  "c": [
+   "Despite the noise, Sora finished her homework.",
+   "Although the noise, Sora finished her homework.",
+   "Because it was noisy, Sora finished her homework.",
+   "Despite it was noisy, Sora finished her homework.",
+   "Since it was noisy, Sora finished her homework."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "2-121",
+  "variant": 3,
+  "ref_format": "가정법 과거 문장의 주절 빈칸에 들어갈 동사 형태 고르기(동사 형태 보기)",
+  "new_format": "짧은 대화의 대답(가정법 과거) 속 주절 빈칸에 들어갈 동사 형태 고르기(서술문 → 대화)",
+  "design": "가정법 과거 주절은 would + 동사원형이라는 같은 규칙을, 서술문 대신 짧은 대화의 대답(No. If he realized his mistake, he ___.) 속 빈칸으로 바꿨고, 대답을 No.로 시작해 Jason이 지금도 잘못을 모른다는 현재 사실과 반대되는 가정임이 드러나게 했다. if절의 과거형을 보고 주절 한 곳만 판단하는 것은 같고, 읽을 양은 21낱말(원문항 17, 1.24배), 어휘는 say sorry·mistake·apologize 수준이다. 오답은 원문항과 같은 짜임으로 동사원형(apologize), 직설법 현재(apologizes), 현재완료(has apologized), if절이 현재형일 때 쓰는 will apologize다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Did Jason say sorry?\nB: No. If he realized his mistake, he _______.",
+  "c": [
+   "apologize",
+   "apologizes",
+   "has apologized",
+   "will apologize",
+   "would apologize"
+  ],
+  "ans": 5
+ }
+]

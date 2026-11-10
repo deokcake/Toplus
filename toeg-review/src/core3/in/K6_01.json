@@ -1,0 +1,464 @@
+[
+ {
+  "key": "6-1",
+  "grade": 6,
+  "no": 1,
+  "chapter": "CH 1",
+  "chapter_name": "명사와 관사",
+  "ref": {
+   "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "baby - babies",
+    "dish - dishes",
+    "wolf - wolves",
+    "foot - foots",
+    "sheep - sheep"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 복수형 규칙: 자음 + y → -ies(babies), s·x·sh·ch → -es(dishes), f/fe → -ves(wolves). foot - feet, child - children처럼 불규칙형과 sheep처럼 단수·복수가 같은 명사도 있다.\n풀이 순서: ① 규칙대로 변하는 짝(-s, -es, -ies, -ves)을 먼저 확인한다. → ② 남은 짝은 불규칙 명사다. 불규칙 명사에 -s를 붙인 것을 찾는다. → ③ foot의 복수형은 feet이다. 정답은 ④.\n문장별 판정:\n정답 판단: foot의 복수형은 불규칙형 feet이므로 정답은 ④이다.\n선택지 분석:\n① [오답] 자음 + y라 y를 i로 바꾸고 -es를 붙인 옳은 형태이므로 오답이다.\n② [오답] sh로 끝나 -es를 붙인 옳은 형태이므로 오답이다.\n③ [오답] f를 v로 바꾸고 -es를 붙인 옳은 형태이므로 오답이다.\n④ [정답] foot의 복수형은 불규칙형 feet이므로 정답이다.\n⑤ [오답] sheep은 단수와 복수가 같으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "woman - women",
+     "box - boxes",
+     "foot - feet",
+     "child - childs",
+     "book - books"
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "woman - women",
+     "class - classes",
+     "man - men",
+     "tooth - tooths",
+     "watch - watches"
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "woman - womans",
+     "potato - potatoes",
+     "knife - knives",
+     "deer - deer",
+     "hero - heroes"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "child - children",
+     "mouse - mice",
+     "bus - buses",
+     "lady - ladies",
+     "man - mans"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 중 명사의 단수형과 복수형이 잘못 짝지어진 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "city - cities",
+     "box - boxes",
+     "tooth - teeth",
+     "goose - geese",
+     "mouse - mouses"
+    ],
+    "ans": 5
+   }
+  },
+  "existing_pretest": {
+   "stem": "다음 중 명사의 복수형을 잘못 쓴 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "three leaves",
+    "two tomatoes",
+    "four strawberries",
+    "five fish",
+    "two gooses"
+   ],
+   "ans": 5
+  },
+  "target_answer_positions": [
+   2,
+   3,
+   5
+  ]
+ },
+ {
+  "key": "6-2",
+  "grade": 6,
+  "no": 2,
+  "chapter": "CH 1",
+  "chapter_name": "명사와 관사",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 수 없는 것을 고르시오.",
+   "passage": "I need a _______.",
+   "c": [
+    "box",
+    "hat",
+    "towel",
+    "water",
+    "pen"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: a/an은 셀 수 있는 명사의 단수형 앞에만 쓴다. water처럼 셀 수 없는 명사 앞에는 쓰지 않는다.\n풀이 순서: ① 빈칸 앞에 a가 있으므로 빈칸에는 셀 수 있는 명사의 단수형만 들어간다. → ② 보기 가운데 하나, 둘 셀 수 없는 것(물질·추상 명사)을 찾는다. → ③ water는 일정한 모양이 없는 물질이라 셀 수 없다. 정답은 ④.\n문장별 판정:\n정답 판단: 셀 수 없는 명사라 a 뒤에 쓸 수 없으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다.\n② [오답] 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다.\n③ [오답] 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다.\n④ [정답] 셀 수 없는 명사라 a 뒤에 쓸 수 없으므로 정답이다.\n⑤ [오답] 셀 수 있는 명사라 a 뒤에 쓸 수 있으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 수 없는 것을 고르시오.",
+    "passage": "She gave me a _______.",
+    "c": [
+     "ticket",
+     "coin",
+     "butter",
+     "key",
+     "map"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 수 없는 것을 고르시오.",
+    "passage": "There is a _______ on the table.",
+    "c": [
+     "bread",
+     "cup",
+     "bag",
+     "lamp",
+     "pencil"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 수 없는 것을 고르시오.",
+    "passage": "My brother wants a _______.",
+    "c": [
+     "book",
+     "chair",
+     "bike",
+     "money",
+     "desk"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 수 없는 것을 고르시오.",
+    "passage": "He bought a _______ yesterday.",
+    "c": [
+     "car",
+     "rice",
+     "pencil",
+     "book",
+     "watch"
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 수 없는 것을 고르시오.",
+    "passage": "Please bring me a _______.",
+    "c": [
+     "fork",
+     "chair",
+     "blanket",
+     "spoon",
+     "milk"
+    ],
+    "ans": 5
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   1,
+   2,
+   3
+  ]
+ },
+ {
+  "key": "6-11",
+  "grade": 6,
+  "no": 11,
+  "chapter": "CH 2",
+  "chapter_name": "대명사와 be동사",
+  "ref": {
+   "stem": "다음 주어진 명사의 주격 대명사 형태가 잘못된 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "my mom - she",
+    "her brother - he",
+    "you and I - you",
+    "Sophie and David - they",
+    "I and my brother - we"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 여럿을 대명사로 받을 때: ‘나’가 들어 있으면 we, ‘나’ 없이 ‘너’가 들어 있으면 you, 둘 다 없으면 they다. 한 사람은 he/she, 사물 하나는 it이다.\n풀이 순서: ① 짝마다 왼쪽 말에 I(나)가 들어 있는지 먼저 본다. 있으면 we다. → ② I가 없고 you가 있으면 you, 둘 다 없으면 수와 성별로 he/she/it/they를 정한다. → ③ you and I에는 I가 있어 we다. 정답은 ③.\n문장별 판정:\n정답 판단: 나(I)가 들어 있어 we로 받아야 하므로 정답은 ③이다.\n선택지 분석:\n① [오답] 여자 한 명이라 she가 맞으므로 오답이다.\n② [오답] 남자 한 명이라 he가 맞으므로 오답이다.\n③ [정답] 나(I)가 들어 있어 we로 받아야 하므로 정답이다.\n④ [오답] 나와 너가 없는 두 사람이라 they가 맞으므로 오답이다.\n⑤ [오답] 나(I)가 들어 있어 we가 맞으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 주어진 명사의 주격 대명사 형태가 잘못된 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "my sister and I - they",
+     "my grandmother - she",
+     "the dog - it",
+     "Tom and Jerry - they",
+     "my uncle - he"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 주어진 명사의 주격 대명사 형태가 잘못된 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Mr. Park - he",
+     "you and Jane - she",
+     "the students - they",
+     "my mother and I - we",
+     "this bike - it"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 주어진 명사의 주격 대명사 형태가 잘못된 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "the cats - they",
+     "Ms. Lee - she",
+     "my friend and I - we",
+     "my parents - it",
+     "the boy - he"
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 주어진 명사의 주격 대명사 형태가 잘못된 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "the teachers - they",
+     "my cousin and I - we",
+     "this pencil - it",
+     "Mrs. Brown - she",
+     "Jisu and her sister - she"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 주어진 명사의 주격 대명사 형태가 잘못된 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "my aunt - she",
+     "Mr. Kim - he",
+     "the books - it",
+     "my brother and I - we",
+     "you and Jiho - you"
+    ],
+    "ans": 3
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   5,
+   1,
+   2
+  ]
+ },
+ {
+  "key": "6-12",
+  "grade": 6,
+  "no": 12,
+  "chapter": "CH 2",
+  "chapter_name": "대명사와 be동사",
+  "ref": {
+   "stem": "다음 빈칸에 현재형 be동사가 들어갈 때, 나머지와 다른 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "You _______ very kind.",
+    "They _______ my books.",
+    "It _______ on the desk.",
+    "We _______ busy.",
+    "I and my mother _____ cooking."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: 현재형 be동사: I am / he, she, it, 단수 주어 is / you, we, they, 복수 주어(A and B) are.\n풀이 순서: ① 문장마다 주어의 인칭과 수를 가른다. A and B는 복수다. → ② 빈칸에 am/is/are를 넣어 본다. → ③ 선택지 ③만 is이고 나머지는 are다. 정답은 ③.\n문장별 판정:\n정답 판단: It에는 is가 들어가 나머지(are)와 다르므로 정답은 ③이다.\n선택지 분석:\n① [오답] You에는 are가 들어가므로 오답이다.\n② [오답] They에는 are가 들어가므로 오답이다.\n③ [정답] It에는 is가 들어가 나머지(are)와 다르므로 정답이다.\n④ [오답] We에는 are가 들어가므로 오답이다.\n⑤ [오답] I and my mother는 두 사람이라 are가 들어가므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 현재형 be동사가 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The children _______ in the garden.",
+     "My shoes _______ too small.",
+     "Mr. Brown _______ our new teacher.",
+     "Jiho and his dog _______ good friends.",
+     "You and Tom _______ late again."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 빈칸에 현재형 be동사가 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The water _______ very cold.",
+     "Your idea _______ great.",
+     "This bag _______ heavy.",
+     "Mina and Sumi _______ twins.",
+     "My room _______ clean."
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 빈칸에 현재형 be동사가 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "I _______ hungry now.",
+     "Tom and I _______ classmates.",
+     "The cookies _______ sweet.",
+     "Those boys _______ tall.",
+     "You _______ my best friend."
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 빈칸에 현재형 be동사가 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The weather _______ nice today.",
+     "He _______ at the library.",
+     "My phone _______ in my bag.",
+     "The movie _______ really funny.",
+     "Your glasses _______ on the table."
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 빈칸에 현재형 be동사가 들어갈 때, 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "We _______ in the same class.",
+     "The baby _______ asleep.",
+     "The pens _______ in the box.",
+     "My father and mother _______ doctors.",
+     "They _______ from Canada."
+    ],
+    "ans": 2
+   }
+  },
+  "existing_pretest": {
+   "stem": "다음 중 be동사를 잘못 쓴 문장을 고르시오.",
+   "passage": "",
+   "c": [
+    "We are brothers.",
+    "They are at home.",
+    "You are a good cook.",
+    "Hana and I are happy.",
+    "He are my uncle."
+   ],
+   "ans": 5
+  },
+  "target_answer_positions": [
+   4,
+   5,
+   1
+  ]
+ },
+ {
+  "key": "6-21",
+  "grade": 6,
+  "no": 21,
+  "chapter": "CH 3",
+  "chapter_name": "be동사 과거",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 알맞은 be동사의 과거형을 고르시오.",
+   "passage": "She _______ happy yesterday.",
+   "c": [
+    "am",
+    "was",
+    "were",
+    "be",
+    "is"
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: be동사의 과거형은 was, were다. 주어가 I·3인칭 단수면 was, you·복수면 were를 쓴다.\n풀이 순서: ① 주어를 본다: She(3인칭 단수). → ② 과거를 나타내는 말(yesterday)이 있으므로 과거형 was/were 가운데 주어에 맞는 것을 고른다. → ③ 현재형·원형과 주어에 맞지 않는 과거형을 지운다. 정답은 ②.\n문장별 판정:\n정답 판단: 3인칭 단수 주어 She에 맞는 과거형이므로 정답은 ②이다.\n선택지 분석:\n① [오답] am은 현재형이므로 오답이다.\n② [정답] 3인칭 단수 주어 She에 맞는 과거형이므로 정답이다.\n③ [오답] were는 you·복수 주어에 쓰는 과거형이므로 오답이다.\n④ [오답] be는 원형이므로 오답이다.\n⑤ [오답] is는 현재형이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 알맞은 be동사의 과거형을 고르시오.",
+    "passage": "I _______ tired yesterday.",
+    "c": [
+     "was",
+     "were",
+     "am",
+     "is",
+     "be"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 알맞은 be동사의 과거형을 고르시오.",
+    "passage": "They _______ in the park last Sunday.",
+    "c": [
+     "are",
+     "were",
+     "was",
+     "is",
+     "be"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 알맞은 be동사의 과거형을 고르시오.",
+    "passage": "We _______ very busy last week.",
+    "c": [
+     "were",
+     "was",
+     "are",
+     "am",
+     "be"
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 알맞은 be동사의 과거형을 고르시오.",
+    "passage": "The weather _______ cold last night.",
+    "c": [
+     "are",
+     "is",
+     "am",
+     "were",
+     "was"
+    ],
+    "ans": 5
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 알맞은 be동사의 과거형을 고르시오.",
+    "passage": "_______ you at home last night?",
+    "c": [
+     "Are",
+     "Is",
+     "Were",
+     "Was",
+     "Am"
+    ],
+    "ans": 3
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   3,
+   4,
+   5
+  ]
+ }
+]

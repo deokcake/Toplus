@@ -1,0 +1,19 @@
+[
+ {
+  "key": "7-71",
+  "variant": 2,
+  "ref_format": "대화의 질문 빈칸에 알맞은 의문사 고르기(낱말 보기)",
+  "new_format": "대화의 대답에 맞는 질문 고르기(주어가 서로 다른 짧은 질문 보기)",
+  "design": "같은 규칙을 반대 방향으로, 대답(It's at three.)이 알려 주는 정보(때)에 맞는 질문을 고르게 했다. 보기 질문의 주어(it·the game·school)는 모두 it으로 받을 수 있고, lunch처럼 특정 시각과 짝지어지는 낱말을 쓰지 않아 어휘·상식으로는 거를 수 없으며 의문사 하나로만 결정되므로 판단 1회이고, 읽을 양은 대화 두 줄+짧은 질문 5개(낱말 21개, 원문항 13개+8 이내), 어휘는 game·school·three 수준이다. 오답은 사물·장소·사람·상태를 묻는 자연스러운 질문(What is it?·Where is the game?·Who is it?·How is school?)으로, 장소를 묻는 Where is the game?은 때와 장소를 다 가질 수 있는 행사를 주어로 해 Where와 When의 구별로만 걸러지며, 변형 1(… is that?)·변형 3(It's … 대답)의 보기 묶음과 겹치지 않는다.",
+  "stem": "다음 대화의 빈칸에 들어갈 질문으로 알맞은 것을 고르시오.",
+  "passage": "A: _______\nB: It's at three.",
+  "c": [
+   "What is it?",
+   "Where is the game?",
+   "When is it?",
+   "Who is it?",
+   "How is school?"
+  ],
+  "ans": 3
+ }
+]

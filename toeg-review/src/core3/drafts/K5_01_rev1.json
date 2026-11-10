@@ -1,0 +1,155 @@
+[
+ {
+  "key": "5-1",
+  "variant": 2,
+  "ref_format": "두 문장이 같은 뜻이 되도록 주어 자리 빈칸에 알맞은 대명사 고르기(낱말 보기)",
+  "new_format": "짧은 대화의 주어 자리 빈칸에 들어갈 대명사 고르기(대화 빈칸, 낱말 보기)",
+  "design": "원문항 핵심 규칙의 다른 쪽(나를 뺀 여럿은 They로 받고, 주어 자리이므로 주격)을 짧은 대화의 빈칸으로 확인한다. 질문의 목적어 자리에 있던 Yuna and Ben(이름 두 개, his 같은 말 없음)을 대답의 주어로 받아야 해서 가리키는 대상 찾기와 격 판단 두 단계가 원문항과 같고, 빈칸 하나·17낱말·쉬운 어휘(know, classmates)로 난이도를 맞췄다. 오답은 같은 대상의 목적격 Them, 나를 포함한 여럿으로 잘못 받은 We와 그 목적격 Us, 한 사람만 보고 받은 He로, 원문항·B유형과 겹치는 보기는 각각 2개다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Do you know Yuna and Ben?\nB: Yes. _______ are my classmates.",
+  "c": [
+   "Them",
+   "We",
+   "They",
+   "Us",
+   "He"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "5-1",
+  "variant": 3,
+  "ref_format": "두 문장이 같은 뜻이 되도록 주어 자리 빈칸에 알맞은 대명사 고르기(낱말 보기)",
+  "new_format": "문장의 주어(A and I)를 대명사로 바꿔 쓴 문장 고르기(낱말 보기→아주 짧은 문장 보기)",
+  "design": "주어 Jisu and I(나를 포함한 여럿)를 학생이 직접 ‘우리’로 판단하고, 주어 자리이므로 주격 We를 써야 한다는 원문항의 두 단계를 그대로 확인한다. 낱말 보기 대신 주어 대명사만 다른 3낱말 문장 보기로 바꿨고, 보기마다 판단할 곳은 주어 하나라 판단 부담이 원문항과 같으며 읽을 양 20낱말(원문항+8낱말 안)·어휘(twins)는 원문항 수준이다. 오답은 원문항과 같은 계열의 실수인 소유대명사 Ours, 목적격 Us, 소유격 Our와, 나를 빼고 받은 They다.",
+  "stem": "다음 문장의 주어를 대명사로 바꿔 쓴 것으로 알맞은 것을 고르시오.",
+  "passage": "Jisu and I are twins.",
+  "c": [
+   "Ours are twins.",
+   "Us are twins.",
+   "Our are twins.",
+   "We are twins.",
+   "They are twins."
+  ],
+  "ans": 4
+ },
+ {
+  "key": "5-2",
+  "variant": 1,
+  "ref_format": "인칭대명사 짝 5개 중 관계(주격-소유격/주격-목적격)가 다른 것 고르기(낱말 짝 보기)",
+  "new_format": "주격-목적격이 바르게 짝지어진 것 고르기(틀린 것→옳은 것으로 방향 전환, 낱말 짝 보기)",
+  "design": "주격·소유격·목적격 형태를 구분하는 규칙은 그대로 두고, ‘관계가 다른 짝 찾기’를 ‘주격-목적격으로 바르게 짝지어진 것 찾기’로 뒤집었다. 짝 5개의 뒤 낱말이 목적격인지 한 번씩 판단하므로 판단 5개·읽을 양 10낱말로 원문항과 같고 어휘는 대명사뿐이다. 오답은 뒤 낱말이 소유격(my, its)이거나 소유대명사(hers, theirs)인 짝이고, 정답 us와 오답 셋이 모두 -s로 끝나고 my만 그렇지 않아 낱말 끝 모양으로는 정답을 고를 수 없게 했다.",
+  "stem": "다음 중 주격과 목적격이 바르게 짝지어진 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "I - my",
+   "she - hers",
+   "it - its",
+   "they - theirs",
+   "we - us"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "5-2",
+  "variant": 2,
+  "ref_format": "인칭대명사 짝 5개 중 관계(주격-소유격/주격-목적격)가 다른 것 고르기(낱말 짝 보기)",
+  "new_format": "밑줄 친 대명사의 쓰임(격)이 나머지와 다른 아주 짧은 문장 고르기(낱말 짝 보기→3낱말 명령문 보기)",
+  "design": "같은 격 구분 규칙을 낱말 짝 대신 대명사에 밑줄을 친 3낱말 명령문 5개로 확인한다. 다섯 문장 모두 ‘동사 + 밑줄 대명사 + 낱말 하나’로 밑줄 위치와 문장 길이가 같아서 위치로는 가를 수 없고, 대명사 형태(them은 목적격, your·our·my·his는 소유격)를 알아야 한다. 판단 5개·읽을 양 15낱말·어휘(wash, clean, pencil, letter)는 원문항 수준이며, 정답은 목적격 them 하나, 나머지 넷은 소유격으로 원문항과 같은 4:1 구성이다.",
+  "stem": "다음 중 밑줄 친 대명사의 쓰임이 나머지 넷과 다른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Call <u>them</u> today.",
+   "Wash <u>your</u> hands.",
+   "Clean <u>our</u> room.",
+   "Use <u>my</u> pencil.",
+   "Read <u>his</u> letter."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "5-2",
+  "variant": 3,
+  "ref_format": "인칭대명사 짝 5개 중 관계(주격-소유격/주격-목적격)가 다른 것 고르기(낱말 짝 보기)",
+  "new_format": "짧은 대화의 명사 앞 빈칸에 알맞은 대명사 형태 고르기(대화 빈칸, 한 대명사의 여러 격 낱말 보기)",
+  "design": "같은 대명사 격 구분을 대화 속 빈칸에 적용하는 형식으로 바꿨다. 가리키는 대상은 말하는 사람(I)으로 정해져 있어 대상 찾기 없이 격 판단만 남고, 명사 bag 앞이므로 소유격 my를 골라야 한다. 보기 다섯이 모두 I의 여러 형태(주격 I, 소유격 my, 목적격 me, 소유대명사 mine, 재귀대명사 myself)라 격 판단만으로 오답이 지워지며, 읽을 양 13낱말·어휘(whose, bag)는 쉽다. 특히 Whose 질문에 흔히 답하는 mine을 명사 앞에 쓰는 실수를 오답으로 넣었다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Whose bag is this?\nB: It's _______ bag.",
+  "c": [
+   "I",
+   "my",
+   "me",
+   "mine",
+   "myself"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "5-12",
+  "variant": 1,
+  "ref_format": "우리말이 주어진 두 문장(평서문·의문문)의 빈칸에 들어갈 be동사 짝 고르기(두 빈칸 짝 보기)",
+  "new_format": "대화의 밑줄 친 be동사 (A), (B) 중 틀린 것을 찾아 바르게 고친 것 고르기(빈칸 짝→밑줄 판정·고치기)",
+  "design": "주어에 따라 am/is/are를 고르고 의문문에서는 be동사를 주어 앞에 둔다는 규칙을, 빈칸 채우기 대신 밑줄 친 be동사 두 곳을 판정해 틀린 곳을 고치는 형식으로 확인한다. (A)는 3인칭 단수 My grandmother라 is가 맞고, (B)는 복수 주어 your cousins의 의문문이라 Is를 Are로 고쳐야 하므로 원문항처럼 평서문 하나·의문문 하나를 판단하며, 읽을 양 23낱말·어휘(grandmother, garden, cousins)는 원문항 수준이다. 오답은 맞게 쓴 (A)를 is/are 혼동으로 고친 것, (A)·(B)에 am을 넣은 것, be동사 의문문을 Do로 바꾼 것이다.",
+  "stem": "다음 대화의 밑줄 친 (A), (B) 중 어법상 틀린 것을 바르게 고친 것을 고르시오.",
+  "passage": "A: My grandmother (A)<u>is</u> in the garden.\nB: (B)<u>Is</u> your cousins there, too?",
+  "c": [
+   "(A) is → am",
+   "(B) Is → Are",
+   "(A) is → are",
+   "(B) Is → Do",
+   "(B) Is → Am"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "5-12",
+  "variant": 2,
+  "ref_format": "우리말이 주어진 두 문장(평서문·의문문)의 빈칸에 들어갈 be동사 짝 고르기(두 빈칸 짝 보기)",
+  "new_format": "의문문·평서문 두 문장의 빈칸에 공통으로 들어갈 be동사 고르기(빈칸 짝→공통 낱말, 낱말 보기)",
+  "design": "같은 be동사 수 일치와 의문문 어순 규칙을, 짝 보기 대신 두 문장에 공통으로 들어갈 낱말 하나를 고르는 형식으로 확인한다. 의문사 의문문의 주어 your new classmates(복수)와 평서문의 주어 Sumin and Leo(복수)를 각각 보고 are를 골라야 해서 판단 두 곳·‘의문문 하나·평서문 하나’ 구성은 원문항과 같고, 읽을 양 19낱말·어휘(classmates, library)도 같은 수준이다. 오답은 단수 주어의 is, I에만 쓰는 am, be동사 자리에 일반동사 의문문처럼 쓴 do·does다.",
+  "stem": "다음 두 문장의 빈칸에 공통으로 들어갈 말을 고르시오.",
+  "passage": "Where _______ your new classmates from?\nSumin and Leo _______ in the library with their friends.",
+  "c": [
+   "is",
+   "am",
+   "do",
+   "are",
+   "does"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "5-12",
+  "variant": 3,
+  "ref_format": "우리말이 주어진 두 문장(평서문·의문문)의 빈칸에 들어갈 be동사 짝 고르기(두 빈칸 짝 보기)",
+  "new_format": "우리말 의문문을 영어로 바르게 옮긴 문장 고르기(빈칸 짝→문장 보기)",
+  "design": "be동사 의문문은 주어에 맞는 be동사를 주어 앞에 둔다는 같은 규칙을, 우리말 의문문을 옮긴 문장 고르기로 확인한다. 지문에 be동사가 드러나지 않으므로 복수 주어 the penguins에 맞는 Are를 고르는 것과 be동사를 주어 앞에 두는 것을 학생이 직접 판단해야 하며(판단 두 곳), 읽을 양 20낱말·어휘(penguin, hungry)는 쉽다. 오답은 수 일치가 틀린 Is·Am, be동사와 형용사를 함께 앞으로 옮긴 어순 오류, 일반동사 의문문처럼 Do를 쓴 것으로 모두 한 군데만 틀렸다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "그 펭귄들은 배가 고프니?",
+  "c": [
+   "Is the penguins hungry?",
+   "Am the penguins hungry?",
+   "Are hungry the penguins?",
+   "Do the penguins hungry?",
+   "Are the penguins hungry?"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "5-21",
+  "variant": 1,
+  "ref_format": "문장 5개 중 과거를 나타내는 문장이 아닌 것 고르기(문장 보기)",
+  "new_format": "문장 5개 중 과거를 나타내는 문장 고르기(아닌 것→맞는 것으로 방향 전환)",
+  "design": "동사의 과거형(-ed, 불규칙, was/were, did)과 현재형(-s, 원형, am/is/are, do/does)을 가르는 같은 규칙을, 과거가 아닌 문장 찾기에서 과거 문장 찾기로 뒤집었다. 문장 5개의 동사 형태를 한 번씩 보는 판단 5개는 같고, 읽을 양 30낱말·어휘(breakfast, river, carrots)도 원문항 수준이다. 정답은 didn't로 과거를 나타내는 문장 하나이고, 오답은 모두 꼴로 현재가 드러나는 lives·are·doesn't와, 원문항의 hit처럼 현재형과 과거형이 같은 put을 3인칭 단수 주어와 함께 puts로 써서 현재임이 확정되게 한 문장이다.",
+  "stem": "다음 중 과거를 나타내는 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Mina didn't eat breakfast this morning.",
+   "My uncle lives near the river.",
+   "We are in the music room now.",
+   "Jake doesn't like carrots.",
+   "Minho puts his bag here every morning."
+  ],
+  "ans": 1
+ }
+]

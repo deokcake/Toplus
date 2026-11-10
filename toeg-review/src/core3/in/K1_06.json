@@ -1,0 +1,90 @@
+[
+ {
+  "key": "1-122",
+  "grade": 1,
+  "no": 122,
+  "chapter": "CH 13",
+  "chapter_name": "특수구문",
+  "ref": {
+   "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+   "passage": "모든 교사들이 회의에 참석한 것은 아니다.",
+   "c": [
+    "None of the teachers attended the meeting.",
+    "No teacher attended the meeting.",
+    "Not all teachers attended the meeting.",
+    "All the teachers attended the meeting.",
+    "The teachers all not attended the meeting."
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: not all·not every는 ‘모두 ~한 것은 아니다’라는 부분부정이고, none·no는 ‘아무도(하나도) ~ 않다’라는 전체부정이다.\n풀이 순서: ① 우리말 ‘모든 ~이 …한 것은 아니다’는 일부만 그렇다는 부분부정이다. → ② 부분부정은 Not all(every) ~로 나타낸다. None·No는 전체부정, 부정어가 없으면 전체 긍정이다. → ③ 형태가 틀린 보기(The teachers all not attended)도 지운다. 정답은 ③.\n문장별 판정:\n정답 판단: Not all로 ‘모두 참석한 것은 아니다’라는 부분부정을 바르게 나타냈으므로 정답은 ③이다.\n선택지 분석:\n① [오답] None of ~는 ‘아무도 참석하지 않았다’는 전체부정이므로 오답이다.\n② [오답] No teacher는 ‘어떤 교사도 참석하지 않았다’는 전체부정이므로 오답이다.\n③ [정답] Not all로 ‘모두 참석한 것은 아니다’라는 부분부정을 바르게 나타냈으므로 정답이다.\n④ [오답] 부정어가 없어 ‘모두 참석했다’는 뜻이므로 오답이다.\n⑤ [오답] 일반동사를 not만으로 부정할 수 없는 틀린 형태이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "모든 신청자들이 면접을 통과한 것은 아니다.",
+    "c": [
+     "No all applicants passed the interview.",
+     "The applicants all not passed the interview.",
+     "Not all applicants passed the interview.",
+     "None of the applicants passed the interview.",
+     "All applicants passed the interview."
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "모든 책이 유용한 것은 아니다.",
+    "c": [
+     "Not every book is useful.",
+     "Every book is useful.",
+     "Not every books are useful.",
+     "No every book is useful.",
+     "No book is useful."
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "모든 직원이 재택근무를 하는 것은 아니다.",
+    "c": [
+     "The employees all not work from home.",
+     "All employees work from home.",
+     "Not all employees work from home.",
+     "None of the employees work from home.",
+     "No all employees work from home."
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "모든 문제가 어려운 것은 아니다.",
+    "c": [
+     "Not every problems are difficult.",
+     "Every problem is difficult.",
+     "No problem is difficult.",
+     "Not every problem is difficult.",
+     "No every problem is difficult."
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+    "passage": "모든 학생들이 그 계획에 동의한 것은 아니다.",
+    "c": [
+     "The students all not agreed with the plan.",
+     "No all students agreed with the plan.",
+     "All students agreed with the plan.",
+     "None of the students agreed with the plan.",
+     "Not all students agreed with the plan."
+    ],
+    "ans": 5
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   5,
+   1,
+   2
+  ]
+ }
+]

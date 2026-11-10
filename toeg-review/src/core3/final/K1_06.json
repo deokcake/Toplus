@@ -1,0 +1,53 @@
+[
+ {
+  "key": "1-122",
+  "variant": 1,
+  "ref_format": "우리말(‘모든 ~이 …한 것은 아니다’)을 영어로 바르게 옮긴 문장 고르기(문장 보기 5개)",
+  "new_format": "짧은 대화의 빈칸에 들어갈 대답 문장 고르기(우리말 대신 대화 맥락이 ‘일부만 그렇다’는 뜻을 알려 줌, 문장 보기 5개)",
+  "design": "not all은 ‘모두 ~한 것은 아니다’라는 부분부정이고 none·nobody는 전체부정이라는 규칙을 그대로 확인한다. 우리말 옮기기를 짧은 대화의 빈칸에 들어갈 대답 고르기로 바꿔, 우리말 대신 ‘밴드 멤버 세 명 중 Seojin은 연습했지만 Hyunwoo와 Minjae는 하지 않았다’는 맥락이 부분부정의 뜻을 알려 주며, 한 가지 뜻에 맞는 문장을 보기 다섯에서 고르는 판단 하나는 원문항과 같고 읽을 양은 39낱말·179자(원문항 31낱말·178자, 1.26배), 어휘는 band member·practice 수준이다. 오답은 원문항과 같은 종류로 전체부정 None of them·Nobody in the band, 부정어가 없는 All of them, 일반동사를 not만으로 부정한 형태 오류(They all not practiced)이며, 보기 길이는 4~5낱말로 고르게 하고 가장 긴 보기는 오답 ②가 되게 했다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Did all your band members practice this morning?\nB: _______ Seojin did, but Hyunwoo and Minjae didn't.",
+  "c": [
+   "None of them practiced.",
+   "Nobody in the band practiced.",
+   "All of them practiced.",
+   "They all not practiced.",
+   "Not all of them practiced."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "1-122",
+  "variant": 2,
+  "ref_format": "우리말(‘모든 ~이 …한 것은 아니다’)을 영어로 바르게 옮긴 문장 고르기(문장 보기 5개)",
+  "new_format": "주어진 영어 문장(Some ~, but others don't)과 의미가 같은 문장 고르기(문장 전환, 문장 보기 5개)",
+  "design": "not every는 ‘모두 ~한 것은 아니다’라는 부분부정이고 no·none은 전체부정이라는 같은 규칙을, 우리말 대신 ‘일부 식당은 일요일에 열고 일부는 열지 않는다’는 영어 문장과 의미가 같은 문장을 고르는 문장 전환형으로 확인한다. 한 가지 뜻에 맞는 표현을 보기 다섯에서 고르는 판단 하나는 원문항과 같고 읽을 양은 37낱말·193자(원문항 31낱말·178자, 1.19배), 어휘는 restaurant·Sunday 수준이다. 오답은 전체부정 No restaurant·None of the restaurants, 부정어가 없는 Every restaurant, No와 Not을 헷갈린 형태 오류(No every restaurant)다.",
+  "stem": "다음 문장과 의미가 같은 것을 고르시오.",
+  "passage": "Some restaurants open on Sundays, but others don't.",
+  "c": [
+   "Not every restaurant opens on Sundays.",
+   "Every restaurant opens on Sundays.",
+   "No restaurant opens on Sundays.",
+   "None of the restaurants open on Sundays.",
+   "No every restaurant opens on Sundays."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "1-122",
+  "variant": 3,
+  "ref_format": "우리말(‘모든 ~이 …한 것은 아니다’)을 영어로 바르게 옮긴 문장 고르기(문장 보기 5개)",
+  "new_format": "우리말-영어 짝 5개 중 잘못 옮긴 것 고르기(부분부정·전체부정 짝, 옳은 것 고르기 → 틀린 것 고르기)",
+  "design": "not all·not every는 부분부정(‘모두 ~한 것은 아니다’), none·no는 전체부정(‘아무도·하나도 ~ 않다’)이라는 같은 규칙을, 바르게 옮긴 것 고르기에서 우리말-영어 짝 다섯 가운데 잘못 옮긴 것 고르기로 방향을 바꿔 확인한다. 보기마다 부분부정·전체부정이 우리말과 맞는지 한 번씩 보는 다섯 판단은 원문항(보기 다섯을 우리말 하나와 대조)과 같고, 영어 읽을 양은 32낱말·214자(원문항 31낱말·178자, 글자 1.2배), 어휘는 snake·movie·apple 수준이다. 원문항의 형태 판단 하나는 잘못 옮긴 짝을 하나 더 두는 대신 옳은 짝 ④ 안에 담았다: Not every 뒤에는 단수 명사와 단수 동사(movie has)가 와야 하므로, every 뒤를 복수로 잘못 아는 학생은 바른 짝 ④를 틀렸다고 고르게 된다(B~F의 Not every books are 오답과 같은 형태 요소). 정답 ②는 ‘모두 ~하는 것은 아니다’를 전체부정 None of로 옮긴 것이고, 나머지는 부분부정 둘(Not all, Not every)과 전체부정 둘(No, None of)을 바르게 옮긴 짝이라 not all·not every를 전체부정으로 잘못 아는 학생은 ①·④를 고르게 된다.",
+  "stem": "다음 중 우리말을 영어로 잘못 옮긴 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "모든 뱀이 위험한 것은 아니다. → Not all snakes are dangerous.",
+   "내 친구들이 모두 수영을 할 줄 아는 것은 아니다. → None of my friends can swim.",
+   "오늘 지각한 학생은 아무도 없었다. → No student was late today.",
+   "모든 영화가 행복한 결말로 끝나는 것은 아니다. → Not every movie has a happy ending.",
+   "상자 안의 사과 중 신선한 것은 하나도 없었다. → None of the apples in the box were fresh."
+  ],
+  "ans": 2
+ }
+]

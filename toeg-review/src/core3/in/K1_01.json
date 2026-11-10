@@ -1,0 +1,464 @@
+[
+ {
+  "key": "1-1",
+  "grade": 1,
+  "no": 1,
+  "chapter": "CH 1",
+  "chapter_name": "문장의 구조",
+  "ref": {
+   "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "The flowers <u>smell sweet</u> in the garden.",
+    "The soup <u>tastes deliciously</u> today.",
+    "The music <u>sounds beautiful</u> at night.",
+    "The silk <u>feels soft</u> to touch.",
+    "The plan <u>seems reasonable</u> to me."
+   ],
+   "ans": 2,
+   "expl": "핵심 규칙: smell, taste, sound, feel, look, seem처럼 주어의 상태를 설명하는 2형식 동사 뒤 보어 자리에는 부사가 아니라 형용사를 쓴다.\n풀이 순서: ① 밑줄마다 동사가 smell·taste·sound·feel·look·seem 같은 2형식 동사임을 확인한다. → ② 그 뒤에 온 말이 형용사인지 -ly로 끝나는 부사인지 가른다. → ③ 선택지 ②만 부사(deliciously)가 왔으므로 형용사(delicious)로 고쳐야 한다.\n문장별 판정:\n정답 판단: taste 뒤 보어 자리에 부사 deliciously를 썼다. 형용사 delicious로 고쳐야 하므로 정답은 ②이다.\n선택지 분석:\n① [오답] smell 뒤에 형용사 sweet가 보어로 와서 올바르므로 오답이다.\n② [정답] taste 뒤 보어 자리에 부사 deliciously를 썼다. 형용사 delicious로 고쳐야 하므로 정답이다.\n③ [오답] sound 뒤에 형용사 beautiful이 보어로 와서 올바르므로 오답이다.\n④ [오답] feel 뒤에 형용사 soft가 보어로 와서 올바르므로 오답이다.\n⑤ [오답] seem 뒤에 형용사 reasonable이 보어로 와서 올바르므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The cloth <u>feels rough</u> on my hands.",
+     "The proposal <u>sounds sensible</u> to us.",
+     "The student <u>looks nervous</u> before the test.",
+     "The milk <u>smells badly</u> this morning.",
+     "The bread <u>tastes wonderful</u> with butter."
+    ],
+    "ans": 4
+   },
+   "C": {
+    "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The coffee <u>tastes bitterly</u> without sugar.",
+     "The pillow <u>feels soft</u> under my head.",
+     "The tea <u>smells fresh</u> in the morning.",
+     "The melody <u>sounds calm</u> in the evening.",
+     "The plan <u>seems practical</u> to everyone."
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The idea <u>sounds reasonable</u> to me.",
+     "The soup <u>smells good</u> in the kitchen.",
+     "The sky <u>looks clear</u> after the rain.",
+     "The blanket <u>feels warmly</u> against my skin.",
+     "The lemonade <u>tastes sour</u> to the kids."
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The idea <u>sounds strangely</u> to everyone.",
+     "The child <u>looks sleepy</u> after lunch.",
+     "The weather <u>seems fine</u> for a picnic.",
+     "The cake <u>tastes sweet</u> with cream.",
+     "The sand <u>feels warm</u> under my feet."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 중 밑줄 친 부분이 어법상 어색한 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The roses <u>smell fresh</u> in the vase.",
+     "The song <u>sounds beautiful</u> on the radio.",
+     "The room <u>looks comfortably</u> after the renovation.",
+     "The water <u>feels cold</u> in winter.",
+     "The answer <u>seems correct</u> at first glance."
+    ],
+    "ans": 3
+   }
+  },
+  "existing_pretest": {
+   "stem": "다음 대화의 밑줄 친 ⓐ~ⓔ 중 어법상 어색한 것을 고르시오.",
+   "passage": "A: How do you like your new apartment?\nB: I love it. The bed ⓐ<u>feels soft</u>, and the air ⓑ<u>smells freshly</u>.\nA: Great. You ⓒ<u>look happy</u>.\nB: I am. The neighborhood ⓓ<u>seems quiet</u> at night.\nA: That ⓔ<u>sounds perfect</u>.",
+   "c": [
+    "ⓐ",
+    "ⓑ",
+    "ⓒ",
+    "ⓓ",
+    "ⓔ"
+   ],
+   "ans": 2
+  },
+  "target_answer_positions": [
+   1,
+   3,
+   4
+  ]
+ },
+ {
+  "key": "1-2",
+  "grade": 1,
+  "no": 2,
+  "chapter": "CH 1",
+  "chapter_name": "문장의 구조",
+  "ref": {
+   "stem": "다음 중 들어가는 전치사가 다른 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "Can you send this letter _____ your brother?",
+    "I'll give this book _____ my friend.",
+    "She told the story _____ her children.",
+    "They showed the way _____ the tourists.",
+    "Could you make a cake _____ my birthday?"
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 수여동사 문장을 3형식으로 쓸 때 give, send, show, tell, pass처럼 상대에게 건네는 동사는 to를, make, buy, cook, get처럼 상대를 위해 해 주는 동사는 for를 쓴다.\n풀이 순서: ① 보기마다 빈칸 앞의 동사를 찾는다: send, give, tell, show, make. → ② ‘~에게 건네는’ 동사는 to, ‘~을 위해 해 주는’ 동사는 for를 쓴다. → ③ make만 for를 쓰는 동사이므로 정답은 ⑤.\n문장별 판정:\n정답 판단: make A for B로, 나머지와 달리 for를 쓰므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] send A to B로 to를 쓰므로 오답이다.\n② [오답] give A to B로 to를 쓰므로 오답이다.\n③ [오답] tell A to B로 to를 쓰므로 오답이다.\n④ [오답] show A to B로 to를 쓰므로 오답이다.\n⑤ [정답] make A for B로, 나머지와 달리 for를 쓰므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 들어가는 전치사가 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Could you prepare some snacks _____ the guests?",
+     "He explained the rule _____ us.",
+     "She handed the key _____ the manager.",
+     "Please pass the note _____ Tom.",
+     "We sent the files _____ our teacher."
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 중 들어가는 전치사가 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "We lent the camera _____ Jane.",
+     "Mina bought a birthday card _____ her sister.",
+     "She showed the photo _____ her friend.",
+     "Tom gave the ticket _____ Mina.",
+     "I mailed the parcel _____ Leo."
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 중 들어가는 전치사가 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "She read the letter _____ me.",
+     "He offered the seat _____ an elderly man.",
+     "Dad reserved a seat _____ me.",
+     "I wrote an email _____ my coach.",
+     "The guide pointed out the entrance _____ us."
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 중 들어가는 전치사가 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "The chef cooked a special dish _____ the children.",
+     "Tom sent a message _____ his boss.",
+     "I showed the map _____ Mina.",
+     "She gave the award _____ the winner.",
+     "We delivered the package _____ the office."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 중 들어가는 전치사가 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "We passed the ball _____ Tom.",
+     "I ordered a taxi _____ my grandparents.",
+     "She told the news _____ her parents.",
+     "He returned the book _____ the librarian.",
+     "I sent the invitation _____ Jane."
+    ],
+    "ans": 2
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   4,
+   1,
+   2
+  ]
+ },
+ {
+  "key": "1-11",
+  "grade": 1,
+  "no": 11,
+  "chapter": "CH 2",
+  "chapter_name": "시제",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+   "passage": "- He _____ his guitar every evening.\n- _____ they attend the conference next month?",
+   "c": [
+    "plays — Are",
+    "play — Will",
+    "played — Did",
+    "plays — Will",
+    "play — Do"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: every evening처럼 반복되는 습관은 현재시제로 쓰고, 주어가 3인칭 단수이면 동사에 -s를 붙인다. next month처럼 미래의 일을 묻는 의문문은 Will + 주어 + 동사원형으로 쓴다.\n풀이 순서: ① 첫 문장의 시간 표현(every evening)은 반복되는 습관을 나타낸다. 주어(He)가 3인칭 단수이므로 -s가 붙은 현재형을 쓴다. → ② 둘째 문장은 미래 표현(next month)이 있고 주어 뒤에 동사원형이 오므로 Will로 묻는다. → ③ 두 조건을 모두 채운 plays — Will를 고른다.\n문장별 판정:\n정답 판단: 습관을 나타내는 plays와 미래를 묻는 Will을 모두 바르게 썼으므로 정답은 ④이다.\n선택지 분석:\n① [오답] 첫 빈칸 plays는 맞지만, 주어 뒤에 동사원형 attend가 있어 Are로 물을 수 없으므로 오답이다.\n② [오답] 주어 He가 3인칭 단수라 play가 아니라 plays를 써야 하므로 오답이다.\n③ [오답] every evening, next month와 과거형 played·Did가 맞지 않으므로 오답이다.\n④ [정답] 습관을 나타내는 plays와 미래를 묻는 Will을 모두 바르게 썼으므로 정답이다.\n⑤ [오답] play는 3인칭 단수 주어와 맞지 않고, next month의 일을 Do로 물을 수 없으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "- The library _____ at nine on weekdays.\n- _____ it remain open later tomorrow?",
+    "c": [
+     "closed - Do",
+     "close - Did",
+     "closes - Will",
+     "closing - Will",
+     "will close - Are"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "- Mina _____ the piano after dinner every day.\n- _____ she join the orchestra next semester?",
+    "c": [
+     "practices — Are",
+     "practices — Will",
+     "practice — Will",
+     "practiced — Did",
+     "practice — Do"
+    ],
+    "ans": 2
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "- Tom _____ to school by bike every morning.\n- _____ he take the bus next week?",
+    "c": [
+     "rode — Did",
+     "rides — Will",
+     "rides — Are",
+     "ride — Will",
+     "ride — Do"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "- My dad _____ coffee every morning.\n- _____ he stop drinking it next month?",
+    "c": [
+     "drinks — Are",
+     "drank — Did",
+     "drinks — Will",
+     "drink — Will",
+     "drink — Do"
+    ],
+    "ans": 3
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "- Jane _____ English on Tuesdays.\n- _____ she take French next year?",
+    "c": [
+     "study — Will",
+     "study — Do",
+     "studies — Are",
+     "studies — Will",
+     "studied — Did"
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   3,
+   5,
+   1
+  ]
+ },
+ {
+  "key": "1-12",
+  "grade": 1,
+  "no": 12,
+  "chapter": "CH 2",
+  "chapter_name": "시제",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+   "passage": "She _____ her keys yesterday morning.\nThe scientists _____ a groundbreaking discovery recently.",
+   "c": [
+    "lost — have made",
+    "loses — make",
+    "lost — make",
+    "loses — have made",
+    "have lost — have made"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: yesterday처럼 끝난 과거 시점을 나타내는 말이 있으면 과거시제를 쓰고, recently·lately처럼 최근부터 지금까지를 나타내는 말과는 현재완료(have/has + 과거분사)를 쓴다.\n풀이 순서: ① 첫 문장에는 끝난 과거 시점(yesterday morning)이 있으므로 과거형 lost를 쓴다. 현재형 loses와 현재완료 have lost를 지운다. → ② 둘째 문장에는 최근부터 지금까지를 나타내는 recently가 있으므로 현재형 make가 아니라 현재완료 have made를 쓴다. → ③ 정답은 lost — have made.\n문장별 판정:\n정답 판단: yesterday morning에는 과거형 lost, recently에는 현재완료 have made가 맞으므로 정답은 ①이다.\n선택지 분석:\n① [정답] yesterday morning에는 과거형 lost, recently에는 현재완료 have made가 맞으므로 정답이다.\n② [오답] yesterday morning과 현재형 loses가 맞지 않으므로 오답이다.\n③ [오답] recently와 함께 최근의 성과를 나타내려면 make가 아니라 have made를 써야 하므로 오답이다.\n④ [오답] yesterday morning과 현재형 loses가 맞지 않으므로 오답이다.\n⑤ [오답] 주어 She에 have lost를 쓸 수 없고, yesterday morning과 현재완료도 함께 쓰지 않으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "- Mina _____ her passport yesterday.\n- Researchers _____ important evidence lately.",
+    "c": [
+     "lost - have found",
+     "lost - find",
+     "loses - find",
+     "has lost - have found",
+     "lost - has found"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "The storm _____ several trees last night.\nScientists _____ a new treatment recently.",
+    "c": [
+     "damaged — develop",
+     "damaged — has developed",
+     "has damaged — have developed",
+     "damages — develop",
+     "damaged — have developed"
+    ],
+    "ans": 5
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "We _____ the old bridge last summer.\nEngineers _____ a safer design recently.",
+    "c": [
+     "repaired — create",
+     "repaired — has created",
+     "repaired — have created",
+     "repairs — create",
+     "has repaired — have created"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "Tom _____ his old bike yesterday morning.\nDoctors _____ a new vaccine recently.",
+    "c": [
+     "sold — have tested",
+     "sells — test",
+     "has sold — have tested",
+     "sold — test",
+     "sold — has tested"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 말로 바르게 짝지은 것을 고르시오.",
+    "passage": "Jane _____ the application last week.\nThe team members _____ several improvements recently.",
+    "c": [
+     "submits — introduce",
+     "has submitted — have introduced",
+     "submitted — introduce",
+     "submitted — have introduced",
+     "submitted — has introduced"
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": {
+   "stem": "다음 대화의 빈칸 (A), (B)에 들어갈 말로 알맞게 짝지은 것은?",
+   "passage": "A: You look happy, Jisu.\nB: I (A)_______ my math test yesterday. My grades (B)_______ a lot recently.",
+   "c": [
+    "passed — have improved",
+    "pass — improve",
+    "passed — improve",
+    "pass — have improved",
+    "have passed — have improved"
+   ],
+   "ans": 1
+  },
+  "target_answer_positions": [
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "key": "1-21",
+  "grade": 1,
+  "no": 21,
+  "chapter": "CH 3",
+  "chapter_name": "조동사",
+  "ref": {
+   "stem": "다음 두 문장이 같은 의미가 되도록 할 때 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+   "passage": "I'm 100% sure that she passed the exam.\n= She _____ the exam.",
+   "c": [
+    "might have passed",
+    "could have passed",
+    "must have passed",
+    "should have passed",
+    "can't have passed"
+   ],
+   "ans": 3,
+   "expl": "핵심 규칙: must have + 과거분사는 ‘~했음에 틀림없다’라는 지난 일에 대한 강한 확신을 나타낸다. might/could have + 과거분사는 약한 추측, should have + 과거분사는 후회, can't have + 과거분사는 ‘~했을 리 없다’이다.\n풀이 순서: ① 첫 문장의 확신 표현(I'm 100% sure)과 과거형 동사(passed)에서 ‘지난 일이 확실하다’는 뜻을 읽는다. → ② 지난 일에 대한 강한 확신은 must have + 과거분사로 나타낸다. → ③ 약한 추측(might, could), 후회(should), 반대 뜻(can't)을 지우고 must have passed를 고른다.\n문장별 판정:\n정답 판단: must have passed는 ‘합격했음에 틀림없다’는 강한 확신이므로 정답은 ③이다.\n선택지 분석:\n① [오답] might have passed는 ‘합격했을지도 모른다’는 약한 추측이라 100% 확신과 맞지 않으므로 오답이다.\n② [오답] could have passed는 ‘합격할 수도 있었다’는 가능성이라 확신과 맞지 않으므로 오답이다.\n③ [정답] must have passed는 ‘합격했음에 틀림없다’는 강한 확신이므로 정답이다.\n④ [오답] should have passed는 ‘합격했어야 했는데 못 했다’는 뜻이므로 오답이다.\n⑤ [오답] can't have passed는 ‘합격했을 리 없다’는 반대의 뜻이므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 두 문장이 같은 의미가 되도록 할 때 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "I'm certain Mina forgot the appointment.\n= Mina _____ the appointment.",
+    "c": [
+     "might have forgotten",
+     "could have forgotten",
+     "must have forgotten",
+     "should have forgotten",
+     "can't have forgotten"
+    ],
+    "ans": 3
+   },
+   "C": {
+    "stem": "다음 두 문장이 같은 의미가 되도록 할 때 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "I'm certain Tom took the wrong train.\n= Tom _____ the wrong train.",
+    "c": [
+     "must have taken",
+     "should have taken",
+     "could have taken",
+     "might have taken",
+     "can't have taken"
+    ],
+    "ans": 1
+   },
+   "D": {
+    "stem": "다음 두 문장이 같은 의미가 되도록 할 때 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "I'm certain they left before noon.\n= They _____ before noon.",
+    "c": [
+     "could have left",
+     "must have left",
+     "might have left",
+     "can't have left",
+     "should have left"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 두 문장이 같은 의미가 되도록 할 때 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "I'm certain Jane misunderstood the message.\n= Jane _____ the message.",
+    "c": [
+     "could have misunderstood",
+     "must have misunderstood",
+     "might have misunderstood",
+     "can't have misunderstood",
+     "should have misunderstood"
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 두 문장이 같은 의미가 되도록 할 때 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+    "passage": "I'm certain he saw the sign.\n= He _____ the sign.",
+    "c": [
+     "should have seen",
+     "might have seen",
+     "can't have seen",
+     "could have seen",
+     "must have seen"
+    ],
+    "ans": 5
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   1,
+   2,
+   4
+  ]
+ }
+]

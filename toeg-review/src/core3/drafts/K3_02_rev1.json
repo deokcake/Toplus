@@ -1,0 +1,70 @@
+[
+ {
+  "key": "3-31",
+  "variant": 3,
+  "ref_format": "선생님의 설명(현재의 습관·반복 → 현재시제)에 해당하는 문장 고르기(시제가 다른 문장 다섯 개)",
+  "new_format": "시제가 모두 다른 우리말-영어 짝 다섯 개 중 영어로 잘못 옮긴 것 고르기",
+  "design": "현재의 습관이나 되풀이되는 일은 진행형이 아니라 현재시제로 쓴다는 규칙을 확인한다. 설명에 맞는 문장 고르기를 우리말-영어 짝 다섯 개 가운데 잘못 옮긴 것 고르기로 바꿨고, 짝마다 시제가 맞는지 한 번씩 보는 판단 다섯 번은 원문항과 같으며, 짝은 원문항처럼 과거(어제)·미래(내일)·습관(주말마다)·현재진행(지금)·과거진행(그때)으로 시제가 모두 다르다. 읽을 양은 영어 33낱말(원문항 27, 1.2배), 어휘는 museum·homework·wash the car 수준이다. 틀린 짝은 ‘주말마다 친다’를 is playing으로 옮긴, 습관을 진행형으로 쓰는 실제 실수이고, ‘지금 하고 있다’를 is doing으로 맞게 옮긴 ④를 함께 넣어 is + -ing 꼴만 보고는 고를 수 없게 했다.",
+  "stem": "다음 중 우리말을 영어로 옮긴 것이 바르지 않은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "지호는 어제 자전거를 탔다. → Jiho rode a bike yesterday.",
+   "우리는 내일 박물관에 갈 것이다. → We will go to the museum tomorrow.",
+   "수아는 주말마다 피아노를 친다. → Sua is playing the piano every weekend.",
+   "민호는 지금 숙제를 하고 있다. → Minho is doing his homework now.",
+   "아빠는 그때 세차를 하고 있었다. → Dad was washing the car at that time."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "3-32",
+  "variant": 2,
+  "ref_format": "대화에서 밑줄 친 과거진행형 문장의 우리말 뜻 고르기(우리말 보기 다섯 개)",
+  "new_format": "시제가 서로 다른 짧은 영어 문장과 우리말 해석의 짝 다섯 개 중 해석이 틀린 것 고르기",
+  "design": "과거진행형(was/were + -ing)은 ‘~하고 있었다’로 옮긴다는 규칙을 확인한다. 한 문장의 뜻 고르기를 시제가 서로 다른 영어 문장 다섯 개와 우리말 해석의 짝 가운데 해석이 틀린 것 고르기로 바꿨고, 짝마다 동사 형태와 우리말 끝맺음이 맞는지 한 번씩 보는 판단 다섯 번은 원문항의 보기 다섯 개 비교와 같다. 읽을 양은 20낱말 135글자(원문항 15낱말 120글자), 영어 문장은 모두 4낱말이고 시제는 원문항 보기와 같은 축인 과거진행·현재진행·과거·미래로 섞었다. 틀린 해석은 was crying을 ‘울고 있다’로 옮긴, 원문항 ②와 같은 실수이고, ‘~고 있다’로 맞게 옮긴 현재진행 짝(②)과 ‘~고 있었다’로 맞게 옮긴 과거진행 짝(⑤)을 함께 넣어 우리말 끝맺음만 보고는 고를 수 없게 했다.",
+  "stem": "다음 중 우리말 해석이 바르지 않은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "The baby was crying. → 아기가 울고 있다.",
+   "Mina is eating lunch. → 미나는 점심을 먹고 있다.",
+   "We sang a song. → 우리는 노래를 불렀다.",
+   "Dad will cook dinner. → 아빠는 저녁을 요리할 것이다.",
+   "They were playing chess. → 그들은 체스를 두고 있었다."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "3-42",
+  "variant": 2,
+  "ref_format": "지시어·명사·동사의 수 일치를 보는 문장 다섯 개 중 틀린 것 하나 고르기",
+  "new_format": "짧은 대화의 밑줄 친 ‘지시어+명사+동사’ ⓐ~ⓔ 중 수 일치가 틀린 것 고르기",
+  "design": "셀 수 없는 명사는 단수로 취급해 this/that과 단수 동사를 쓰고, 복수 명사에는 these/those와 복수 동사를 쓴다는 규칙을 확인한다. 문장 다섯 개를 호텔 로비 한 장면의 짧은 대화 속 밑줄 친 ‘지시어+명사+동사’ 다섯 곳으로 바꿨고, 밑줄마다 수 일치를 한 번씩 보는 판단 다섯 번은 원문항과 같다. 읽을 양은 27낱말(원문항 21, 1.3배), 어휘는 lobby·sofa·luggage·cart 수준이다. 틀린 곳은 원문항의 These information are와 같은 꼴로 셀 수 없는 명사를 복수로 취급한 these luggage are이고, 나머지 넷은 단수·복수를 고루 섞어 맞게 썼다.",
+  "stem": "다음 대화의 밑줄 친 ⓐ~ⓔ 중 수 일치가 올바르지 않은 것을 고르시오.",
+  "passage": "A: ⓐ<u>This lobby is</u> wonderful!\nB: Yes. ⓑ<u>These sofas are</u> comfortable, and ⓒ<u>that view is</u> fantastic.\nA: Oh, ⓓ<u>these luggage are</u> heavy.\nB: ⓔ<u>That cart is</u> empty.",
+  "c": [
+   "ⓐ",
+   "ⓑ",
+   "ⓒ",
+   "ⓓ",
+   "ⓔ"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "3-42",
+  "variant": 3,
+  "ref_format": "지시어·명사·동사의 수 일치를 보는 문장 다섯 개 중 틀린 것 하나 고르기",
+  "new_format": "셀 수 없는 명사가 든 문장의 밑줄 친 ‘지시어+명사+동사’를 바르게 고친 것 고르기",
+  "design": "셀 수 없는 명사(equipment)는 단수로 취급해 this/that과 단수 동사를 쓴다는 규칙을 확인한다. 틀린 문장 찾기를 밑줄 친 This equipment are를 바르게 고친 것 고르기로 바꿨고, 보기 다섯 개를 하나씩 따져 보는 판단 수는 같으며 판단할 곳은 원문항의 정답 문장처럼 지시어·명사·동사 한 묶음이다. 읽을 양은 22낱말 115글자(원문항 21낱말 111글자), 어휘는 B~F에 나온 equipment와 soccer team 수준이다. 오답은 학생이 실제로 하는 실수로, equipment를 people처럼 복수로 여긴 These equipment are, 셀 수 있다고 여겨 -s를 붙인 These equipments are, 명사만 동사에 맞춰 고친 This equipments are, 반만 고친 These equipment is이며, 셀 수 없는 명사가 단수라는 것을 알아야 정답을 고를 수 있다.",
+  "stem": "다음 문장의 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "<u>This equipment are</u> for the soccer team.",
+  "c": [
+   "These equipment are",
+   "These equipments are",
+   "These equipment is",
+   "This equipments are",
+   "This equipment is"
+  ],
+  "ans": 5
+ }
+]

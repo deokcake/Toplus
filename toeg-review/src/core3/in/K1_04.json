@@ -1,0 +1,442 @@
+[
+ {
+  "key": "1-72",
+  "grade": 1,
+  "no": 72,
+  "chapter": "CH 8",
+  "chapter_name": "비교",
+  "ref": {
+   "stem": "다음 중 의미가 나머지와 다른 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "This is the tallest building in the city.",
+    "This building is taller than any other building in the city.",
+    "This building is taller than all the other buildings in the city.",
+    "No other building in the city is taller than this one.",
+    "Any other building in the city is as tall as this one."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: ‘the + 최상급’, ‘비교급 + than any other + 단수명사’, ‘비교급 + than all the other + 복수명사’, ‘No other + 단수명사 ~ 비교급 than / as + 원급 + as’는 모두 최상급의 뜻을 나타낸다.\n풀이 순서: ① 보기 가운데 최상급 문장을 기준으로 뜻을 잡는다: 이 건물이 도시에서 가장 높다. → ② 나머지 문장이 같은 뜻인지 하나씩 옮겨 본다. than any other, than all the other, No other ~ as … as는 모두 같은 뜻이다. → ③ 선택지 ⑤만 뜻이 다르다: ‘다른 어떤 건물도 이 건물만큼 높다’.\n문장별 판정:\n정답 판단: ‘다른 어떤 건물도 이 건물만큼 높다’는 뜻이라 최상급의 뜻이 아니므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] 최상급으로 ‘이 건물이 가장 높다’는 뜻이므로 오답이다.\n② [오답] 비교급 + than any other + 단수명사로 ‘가장 높다’는 뜻이므로 오답이다.\n③ [오답] 비교급 + than all the other + 복수명사로 ‘가장 높다’는 뜻이므로 오답이다.\n④ [오답] No other ~ 비교급 than으로 ‘가장 높다’는 뜻이므로 오답이다.\n⑤ [정답] ‘다른 어떤 건물도 이 건물만큼 높다’는 뜻이라 최상급의 뜻이 아니므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 의미가 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "This lake is deeper than all the other lakes in the region.",
+     "This lake is deeper than any other lake in the region.",
+     "No other lake in the region is as deep as this one.",
+     "This is the deepest lake in the region.",
+     "Every other lake in the region is as deep as this one."
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "다음 중 의미가 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "This mountain is higher than any other mountain in Korea.",
+     "This is the highest mountain in Korea.",
+     "Every other mountain in Korea is as high as this one.",
+     "No other mountain in Korea is as high as this one.",
+     "This mountain is higher than all the other mountains in Korea."
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 중 의미가 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "Some rivers in the country are longer than this one.",
+     "This river is longer than any other river in the country.",
+     "This is the longest river in the country.",
+     "No other river in the country is as long as this one.",
+     "This river is longer than all the other rivers in the country."
+    ],
+    "ans": 1
+   },
+   "E": {
+    "stem": "다음 중 의미가 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "This is the tallest tower in the city.",
+     "This tower is not taller than the other towers in the city.",
+     "No other tower in the city is as tall as this one.",
+     "This tower is taller than any other tower in the city.",
+     "This tower is taller than all the other towers in the city."
+    ],
+    "ans": 2
+   },
+   "F": {
+    "stem": "다음 중 의미가 나머지와 다른 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "This bridge is older than all the other bridges in the city.",
+     "No other bridge in the city is as old as this one.",
+     "This is the oldest bridge in the city.",
+     "This bridge is older than any other bridge in the city.",
+     "This bridge is newer than any other bridge in the city."
+    ],
+    "ans": 5
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "key": "1-81",
+  "grade": 1,
+  "no": 81,
+  "chapter": "CH 9",
+  "chapter_name": "관계사",
+  "ref": {
+   "stem": "다음 빈칸에 들어갈 말로 가장 알맞은 것을 고르시오.",
+   "passage": "The Amazon Rainforest is a place ____________ biodiversity thrives.",
+   "c": [
+    "where",
+    "which",
+    "when",
+    "whom",
+    "how"
+   ],
+   "ans": 1,
+   "expl": "핵심 규칙: 관계부사는 선행사의 종류에 따라 고른다. 장소(place)는 where, 때(day, season)는 when, 이유(reason)는 why를 쓰고, 뒤에는 빠진 성분이 없는 완전한 절이 온다. 관계대명사 which는 뒤 절에서 주어나 목적어 자리를, whom은 목적어 자리를 맡으므로, 그 뒤에는 그 자리가 빠진 절이 온다.\n풀이 순서: ① 빈칸 앞의 선행사(a place)가 무엇을 나타내는지 본다. → ② 빈칸 뒤의 절(biodiversity thrives, thrive는 목적어가 필요 없는 동사)에 주어·목적어 등 빠진 성분이 없으므로 관계대명사(which, whom)가 아니라 관계부사 자리다. → ③ 선행사가 장소이므로 where를 쓴다. 정답은 where.\n문장별 판정:\n정답 판단: 선행사 a place는 장소이고 뒤에 빠진 성분이 없는 완전한 절이 오는 관계부사 자리이므로 정답은 ①이다.\n선택지 분석:\n① [정답] 선행사 a place는 장소이고 뒤에 빠진 성분이 없는 완전한 절이 오는 관계부사 자리이므로 정답이다.\n② [오답] which는 관계대명사라 뒤 절에서 주어나 목적어 자리를 맡아야 하는데, thrive는 목적어가 필요 없는 동사라 biodiversity thrives는 빠진 성분이 없는 완전한 절이므로 오답이다.\n③ [오답] when은 때를 나타내는 선행사(the day, the season) 뒤에 쓰는데 a place는 장소이므로 오답이다.\n④ [오답] whom은 사람 선행사 뒤에서 목적어 자리를 맡는 관계대명사인데, a place는 사람이 아니고 뒤 절에 목적어 빈자리도 없으므로 오답이다.\n⑤ [오답] how는 방법을 나타내는 관계부사로, 장소 선행사 a place 뒤에는 쓰지 않으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 빈칸에 들어갈 말로 가장 알맞은 것을 고르시오.",
+    "passage": "This is the neighborhood _____ Tom grew up.",
+    "c": [
+     "where",
+     "when",
+     "why",
+     "whom",
+     "which"
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 빈칸에 들어갈 말로 가장 알맞은 것을 고르시오.",
+    "passage": "The research center is a place _____ scientists test new materials.",
+    "c": [
+     "which",
+     "why",
+     "whom",
+     "where",
+     "when"
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 빈칸에 들어갈 말로 가장 알맞은 것을 고르시오.",
+    "passage": "Spring is the season _____ many flowers begin to bloom.",
+    "c": [
+     "why",
+     "when",
+     "whom",
+     "which",
+     "where"
+    ],
+    "ans": 2
+   },
+   "E": {
+    "stem": "다음 빈칸에 들어갈 말로 가장 알맞은 것을 고르시오.",
+    "passage": "I understand the reason _____ Mina refused the offer.",
+    "c": [
+     "when",
+     "which",
+     "whom",
+     "why",
+     "where"
+    ],
+    "ans": 4
+   },
+   "F": {
+    "stem": "다음 빈칸에 들어갈 말로 가장 알맞은 것을 고르시오.",
+    "passage": "Sunday is the day _____ the market is busiest.",
+    "c": [
+     "when",
+     "where",
+     "which",
+     "why",
+     "whom"
+    ],
+    "ans": 1
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "key": "1-82",
+  "grade": 1,
+  "no": 82,
+  "chapter": "CH 9",
+  "chapter_name": "관계사",
+  "ref": {
+   "stem": "다음 중 어법상 올바르지 않은 문장을 고르시오.",
+   "passage": "",
+   "c": [
+    "What he is matters more than what he has.",
+    "What is called \"AI\" is changing our lives.",
+    "What John has is a result of his hard work.",
+    "What they call a \"smart home\" is becoming popular.",
+    "We can't believe the thing what he said."
+   ],
+   "ans": 5,
+   "expl": "핵심 규칙: 관계대명사 what은 선행사를 포함하므로(= the thing which) 선행사 뒤에 쓰지 않는다. what이 이끄는 절은 주어·목적어·보어로 쓰인다.\n풀이 순서: ① 문장마다 관계사 바로 앞에 선행사(명사)가 있는지 확인한다. → ② what은 선행사 없이 쓰고, 선행사가 있으면 that·which·who를 쓴다. 쉼표 뒤(계속적 용법)에는 that을 쓰지 않는다. → ③ 선택지 ⑤는 선행사 the thing 뒤에 what을 썼으므로 틀렸다(that 또는 which로 고친다).\n문장별 판정:\n정답 판단: 선행사 the thing 뒤에는 what이 아니라 that(which)을 써야 하므로 정답은 ⑤이다.\n선택지 분석:\n① [오답] What he is, what he has가 각각 주어와 than 뒤에서 명사절로 바르게 쓰였으므로 오답이다.\n② [오답] What is called “AI”가 주어로 바르게 쓰였으므로 오답이다.\n③ [오답] What John has가 주어로 바르게 쓰였으므로 오답이다.\n④ [오답] What they call a “smart home”이 주어로 바르게 쓰였으므로 오답이다.\n⑤ [정답] 선행사 the thing 뒤에는 what이 아니라 that(which)을 써야 하므로 정답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 어법상 올바르지 않은 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "The laptop, that I bought last month, has already broken.",
+     "Mina showed me the thing that she found.",
+     "Tom met Jane, who lives next door.",
+     "We cannot accept what he said.",
+     "What she cooked for us was delicious."
+    ],
+    "ans": 1
+   },
+   "C": {
+    "stem": "다음 중 어법상 올바르지 않은 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "What I need now is a long rest.",
+     "This is the bag which my aunt gave me.",
+     "We cannot accept the explanation what he gave us.",
+     "My brother, who lives in Busan, visited us.",
+     "She told me what she wanted for her birthday."
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 중 어법상 올바르지 않은 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "What surprised me was his calm voice.",
+     "The movie that we saw last night was scary.",
+     "I lost the watch what my dad bought me.",
+     "My grandmother, whom I love very much, is ninety.",
+     "Show me what you have in your hand."
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 중 어법상 올바르지 않은 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "I visited Paris, that is famous for its art.",
+     "What you said made me happy.",
+     "The boy who is singing on the stage is my cousin.",
+     "This is exactly what I wanted.",
+     "Seoul, which is the capital of Korea, has many palaces."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 중 어법상 올바르지 않은 문장을 고르시오.",
+    "passage": "",
+    "c": [
+     "What he does after school is a secret.",
+     "I have a friend whose father is a pilot.",
+     "The cake which she baked was delicious.",
+     "We believed what the teacher told us.",
+     "The thing what matters most is honesty."
+    ],
+    "ans": 5
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   4,
+   1,
+   2
+  ]
+ },
+ {
+  "key": "1-91",
+  "grade": 1,
+  "no": 91,
+  "chapter": "CH 10",
+  "chapter_name": "가정법",
+  "ref": {
+   "stem": "다음 직설법 문장을 가정법으로 바꿀 때 빈칸에 알맞은 것을 고르시오.",
+   "passage": "직설법: I have this translation app, so I can communicate with foreigners.\n가정법: _____ this translation app, I could not communicate with foreigners.",
+   "c": [
+    "But",
+    "Not for",
+    "Because",
+    "Without",
+    "Thanks to"
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: ‘~이 없다면(없었다면)’은 Without이나 But for로 나타낸다. 뒤의 주절이 would/could + 동사원형이면 현재 사실의 반대, would/could have + 과거분사이면 과거 사실의 반대를 가정한다.\n풀이 순서: ① 직설법 문장에서 원인(번역 앱이 있다)을 찾는다. 가정법 문장은 그 원인이 없다고 가정하고 결과를 반대로 말한다(소통할 수 없을 것이다). → ② ‘~이 없다면(없었다면)’은 Without이나 But for로 나타낸다. → ③ 뜻이 다르거나 쓰지 않는 표현을 지운다. 정답은 Without.\n문장별 판정:\n정답 판단: ‘이 번역 앱이 없다면’을 Without으로 바르게 나타냈으므로 정답은 ④이다.\n선택지 분석:\n① [오답] ‘~이 없다면’의 뜻은 But이 아니라 But for로 나타내므로 오답이다.\n② [오답] Not for라는 표현은 쓰지 않으므로 오답이다.\n③ [오답] Because 뒤에는 절이 와야 하고 뜻도 맞지 않으므로 오답이다.\n④ [정답] ‘이 번역 앱이 없다면’을 Without으로 바르게 나타냈으므로 정답이다.\n⑤ [오답] Thanks to는 ‘~ 덕분에’라는 뜻이라 뒤의 could not과 맞지 않으므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 직설법 문장을 가정법으로 바꿀 때 빈칸에 알맞은 것을 고르시오.",
+    "passage": "직설법: Jane warned me, so I avoided the scam.\n가정법: _____ Jane's warning, I would have lost money.",
+    "c": [
+     "Despite",
+     "But for",
+     "With",
+     "Because of",
+     "Unless"
+    ],
+    "ans": 2
+   },
+   "C": {
+    "stem": "다음 직설법 문장을 가정법으로 바꿀 때 빈칸에 알맞은 것을 고르시오.",
+    "passage": "직설법: Mina had the emergency key, so we entered the building.\n가정법: _____ Mina's emergency key, we could not have entered the building.",
+    "c": [
+     "With",
+     "Because for",
+     "Despite",
+     "Without",
+     "Because of"
+    ],
+    "ans": 4
+   },
+   "D": {
+    "stem": "다음 직설법 문장을 가정법으로 바꿀 때 빈칸에 알맞은 것을 고르시오.",
+    "passage": "직설법: Tom gave us directions, so we found the campsite.\n가정법: _____ Tom's directions, we would have gotten lost.",
+    "c": [
+     "With",
+     "Unless",
+     "But for",
+     "Despite",
+     "Because of"
+    ],
+    "ans": 3
+   },
+   "E": {
+    "stem": "다음 직설법 문장을 가정법으로 바꿀 때 빈칸에 알맞은 것을 고르시오.",
+    "passage": "직설법: We have this new software, so we can analyze the data quickly.\n가정법: _____ this new software, we could not analyze the data quickly.",
+    "c": [
+     "Without",
+     "With",
+     "Because of",
+     "Unless",
+     "Despite"
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 직설법 문장을 가정법으로 바꿀 때 빈칸에 알맞은 것을 고르시오.",
+    "passage": "직설법: The team has enough funding, so it can continue the research.\n가정법: _____ enough funding, the team could not continue the research.",
+    "c": [
+     "Because of",
+     "Despite",
+     "Unless",
+     "Without",
+     "With"
+    ],
+    "ans": 4
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   3,
+   5,
+   1
+  ]
+ },
+ {
+  "key": "1-92",
+  "grade": 1,
+  "no": 92,
+  "chapter": "CH 10",
+  "chapter_name": "가정법",
+  "ref": {
+   "stem": "다음 중 어법상 옳지 않은 것을 고르시오.",
+   "passage": "",
+   "c": [
+    "If he had not injured his knee back then, he could be a professional athlete now.",
+    "If you wore this suit, you would look fantastic.",
+    "If I had not believed in myself, I could not have succeeded.",
+    "If it had not rained last night, the roads is dry now.",
+    "If the driver had not slowed down, the accident would have happened."
+   ],
+   "ans": 4,
+   "expl": "핵심 규칙: 가정법 과거는 ‘If + 과거형, would + 동사원형’(현재 사실의 반대), 가정법 과거완료는 ‘If + had + 과거분사, would have + 과거분사’(과거 사실의 반대)이다. 과거의 일이 현재에 영향을 줄 때는 ‘If + had + 과거분사, would + 동사원형 ~ now’(혼합가정법)를 쓴다.\n풀이 순서: ① 문장마다 if절의 동사와 주절의 동사, 그리고 주절의 시간 표현(now, yesterday 등)을 짝짓는다. → ② If + had + 과거분사 뒤의 주절은 과거의 일이면 would have + 과거분사, 지금의 일(now)이면 would + 동사원형이다. → ③ 선택지 ④는 주절에 would 없이 is를 썼으므로 틀렸다(would be dry now).\n문장별 판정:\n정답 판단: 주절에 조동사의 과거형 없이 is를 썼다. the roads would be dry now로 고쳐야 하므로 정답은 ④이다.\n선택지 분석:\n① [오답] 과거의 가정(had not injured)과 현재의 결과(could be ~ now)를 이은 혼합가정법이 바르므로 오답이다.\n② [오답] 가정법 과거(wore, would look)가 바르므로 오답이다.\n③ [오답] 가정법 과거완료(had not believed, could not have succeeded)가 바르므로 오답이다.\n④ [정답] 주절에 조동사의 과거형 없이 is를 썼다. the roads would be dry now로 고쳐야 하므로 정답이다.\n⑤ [오답] 가정법 과거완료(had not slowed, would have happened)가 바르므로 오답이다."
+  },
+  "existing_variants_BtoF": {
+   "B": {
+    "stem": "다음 중 어법상 옳지 않은 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "If I had taken the medicine yesterday, I would feel better now.",
+     "If you lived closer, we could meet more often.",
+     "If they had listened to the guide, they would not have gotten lost.",
+     "If she had known the answer, she would have told us.",
+     "If we had left sooner, we would not miss the flight yesterday."
+    ],
+    "ans": 5
+   },
+   "C": {
+    "stem": "다음 중 어법상 옳지 않은 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "If it were sunny today, we would go hiking.",
+     "If Jiho had saved money last year, he could buy a bike now.",
+     "If Mina had taken the earlier train, she would be at the office yesterday.",
+     "If I were you, I would apologize first.",
+     "If the team had practiced more, they might have won the game."
+    ],
+    "ans": 3
+   },
+   "D": {
+    "stem": "다음 중 어법상 옳지 않은 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "If my brother were here, he would fix the computer.",
+     "If I had gone to bed early, I would not be so tired now.",
+     "If she had studied abroad, she could have learned French.",
+     "If Tom had studied harder, he would pass the exam last week.",
+     "If we had more time, we could visit the museum."
+    ],
+    "ans": 4
+   },
+   "E": {
+    "stem": "다음 중 어법상 옳지 않은 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "If Jane had brought an umbrella, she would not get wet last night.",
+     "If I knew his number, I would call him.",
+     "If you had told me earlier, I could have helped you.",
+     "If he had not broken his leg, he would be on the team now.",
+     "If the store were open, we could buy some milk."
+    ],
+    "ans": 1
+   },
+   "F": {
+    "stem": "다음 중 어법상 옳지 않은 것을 고르시오.",
+    "passage": "",
+    "c": [
+     "If I had a car, I would drive you home.",
+     "If they had checked the map, they would not be lost yesterday.",
+     "If she had not missed the bus, she would be here now.",
+     "If we had booked early, we would have gotten better seats.",
+     "If it snowed tomorrow, the school would close."
+    ],
+    "ans": 2
+   }
+  },
+  "existing_pretest": null,
+  "target_answer_positions": [
+   2,
+   3,
+   5
+  ]
+ }
+]

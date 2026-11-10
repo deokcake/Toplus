@@ -1,0 +1,257 @@
+[
+ {
+  "key": "3-22",
+  "variant": 1,
+  "ref_format": "낱말 다섯 개 중 셀 수 있는 명사 하나 고르기",
+  "new_format": "낱말 다섯 개 중 셀 수 없는 명사 하나 고르기(묻는 방향 뒤집기)",
+  "design": "셀 수 있는 명사는 a/an을 붙이거나 복수형으로 쓸 수 있고, money처럼 낱개로 나뉘지 않는 명사는 셀 수 없다는 규칙을 그대로 확인한다. 묻는 방향만 뒤집어 셀 수 없는 명사 하나를 고르게 했고, 낱말마다 a/복수형이 되는지 한 번씩 보는 판단 다섯 번은 원문항과 같다. 읽을 양은 5낱말 33글자(원문항 5낱말 33글자), 어휘는 window·computer·umbrella 수준이다. 오답은 a window, two bananas처럼 바로 셀 수 있는 명사 넷이고, 정답 money는 동전·지폐를 떠올려 셀 수 있다고 착각하기 쉬운 낱말이다.",
+  "stem": "다음 중 셀 수 없는 명사를 고르시오.",
+  "passage": "",
+  "c": [
+   "window",
+   "money",
+   "computer",
+   "banana",
+   "umbrella"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "3-22",
+  "variant": 2,
+  "ref_format": "낱말 다섯 개 중 셀 수 있는 명사 하나 고르기",
+  "new_format": "a/an·two가 붙은 짧은 명사구 다섯 개 중 어법상 올바른 것 고르기",
+  "design": "셀 수 없는 명사에는 a/an을 붙이거나 복수형 -s를 쓸 수 없다는 규칙을 확인한다. 낱말 보기를 ‘a/an·two + 명사’의 아주 짧은 명사구 보기로 바꿨고, 보기마다 명사 하나가 셀 수 있는지만 보면 되므로 판단은 원문항처럼 다섯 번이다. 읽을 양은 10낱말 46글자(원문항 5낱말, +8낱말 이내), 어휘는 homework·music·spoon 수준이다. 오답은 학생이 실제로 자주 쓰는 two homeworks, a luggage, two musics, an advice이고, 수량 표현을 two 셋·a/an 둘로 섞어 형태로는 찍을 수 없게 했다.",
+  "stem": "다음 중 어법상 올바른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "two homeworks",
+   "a luggage",
+   "two spoons",
+   "two musics",
+   "an advice"
+  ],
+  "ans": 3
+ },
+ {
+  "key": "3-22",
+  "variant": 3,
+  "ref_format": "낱말 다섯 개 중 셀 수 있는 명사 하나 고르기",
+  "new_format": "짧은 문장의 a 뒤 빈칸에 들어갈 수 있는 명사 고르기(문장 속 빈칸 + 낱말 보기)",
+  "design": "a는 셀 수 있는 명사의 단수형 앞에만 쓴다는 규칙, 곧 셀 수 있는 명사와 셀 수 없는 명사의 구별을 확인한다. 낱말 보기는 두고 ‘Please give me a _______.’의 빈칸에 들어갈 수 있는 말을 고르게 했으며, 다섯 낱말을 하나씩 a 뒤에 넣어 보는 판단 다섯 번이다. 읽을 양은 9낱말 36글자(원문항 5낱말, +8낱말 이내), 어휘는 bread·rice·cookie 수준이다. 오답은 a bread처럼 학생이 흔히 틀리는 음식 명사 bread·rice·salt·meat이고, 정답 cookie도 음식이며 다섯 낱말 모두 자음으로 시작해 뜻의 범주나 a/an으로는 고를 수 없다.",
+  "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "Please give me a _______.",
+  "c": [
+   "bread",
+   "rice",
+   "salt",
+   "meat",
+   "cookie"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "3-31",
+  "variant": 1,
+  "ref_format": "선생님의 설명(현재의 습관·반복 → 현재시제)에 해당하는 문장 고르기(시제가 다른 문장 다섯 개)",
+  "new_format": "현재의 습관을 말하는 우리말을 영어로 바르게 옮긴 문장 고르기(시제만 다른 보기)",
+  "design": "현재의 습관이나 되풀이되는 일은 현재시제로 쓴다는 규칙을 그대로 확인한다. 설명에 맞는 문장 고르기를 습관을 말하는 우리말(‘산책시킨다’)을 영어로 옮긴 문장 고르기로 바꿨고, 보기 다섯 개의 동사 시제를 하나씩 보는 판단 수는 같다. 읽을 양은 33낱말(원문항 27, 1.2배), 어휘는 walk·dog·every evening 수준이다. 오답은 원문항처럼 과거(walked)·현재진행(is walking)·미래(will walk)·과거진행(was walking)이고, every evening이 모든 보기에 있어 시간 표현만 보고는 고를 수 없다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "준호는 매일 저녁 자기 개를 산책시킨다.",
+  "c": [
+   "Junho walks his dog every evening.",
+   "Junho walked his dog every evening.",
+   "Junho is walking his dog every evening.",
+   "Junho will walk his dog every evening.",
+   "Junho was walking his dog every evening."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "3-31",
+  "variant": 2,
+  "ref_format": "선생님의 설명(현재의 습관·반복 → 현재시제)에 해당하는 문장 고르기(시제가 다른 문장 다섯 개)",
+  "new_format": "평소 하는 일을 묻는 짧은 대화에서 대답으로 알맞은 문장 고르기",
+  "design": "평소 되풀이하는 일(습관)은 현재시제로 말한다는 규칙을 확인한다. 선생님의 설명을 usually로 평소 하는 일을 묻는 짧은 대화로 바꾸고 알맞은 대답을 고르게 했으며, 보기 다섯 개의 동사 시제를 하나씩 보는 판단은 원문항과 같다. 읽을 양은 33낱말(원문항 27, 1.2배), 어휘는 practice·violin·after dinner 수준이다. 오답은 같은 문장의 과거·현재진행·미래·과거진행형으로, 습관을 진행형이나 과거형으로 답하는 실제 실수를 담았다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: What does your brother usually do after dinner?\nB: _______",
+  "c": [
+   "He practiced the violin.",
+   "He practices the violin.",
+   "He is practicing the violin.",
+   "He will practice the violin.",
+   "He was practicing the violin."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "3-31",
+  "variant": 3,
+  "ref_format": "선생님의 설명(현재의 습관·반복 → 현재시제)에 해당하는 문장 고르기(시제가 다른 문장 다섯 개)",
+  "new_format": "문장 다섯 개 중 현재의 습관·반복을 나타내지 않는 것 고르기(묻는 방향 뒤집기)",
+  "design": "현재의 습관·반복은 often, usually, every ~ 같은 빈도 표현과 현재시제로 나타낸다는 규칙을 확인한다. 묻는 방향을 뒤집어 습관·반복을 나타내지 ‘않는’ 문장 하나를 고르게 했고, 문장 다섯 개를 하나씩 판정하는 판단 수는 원문항과 같다. 읽을 양은 31낱말(원문항 27, 1.1배), 어휘는 magazine·take a walk·drive to work 수준이다. 습관 문장 넷은 often·every morning·usually … on Fridays·every weekday로 빈도 표현을 고루 섞었고, 정답은 now와 현재진행형으로 지금 하고 있는 일을 말하는 문장이다.",
+  "stem": "다음 중 현재의 습관이나 반복되는 행동을 나타내지 않는 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Sumin often reads science magazines.",
+   "My grandpa takes a walk every morning.",
+   "Dongmin is playing the drums now.",
+   "We usually order pizza on Fridays.",
+   "Mr. Kang drives to work every weekday."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "3-32",
+  "variant": 1,
+  "ref_format": "대화에서 밑줄 친 과거진행형 문장의 우리말 뜻 고르기(우리말 보기 다섯 개)",
+  "new_format": "과거진행의 뜻을 담은 우리말 문장을 영어로 바르게 옮긴 것 고르기(시제만 다른 영어 보기)",
+  "design": "과거진행형(was/were + -ing)은 과거의 어느 때에 하고 있던 일, 곧 ‘~하고 있었다’를 나타낸다는 규칙을 확인한다. 영어 문장의 뜻 고르기를 방향을 뒤집어 ‘만들고 계셨다’를 영어로 옮긴 문장 고르기로 바꿨고, 판단은 원문항처럼 동사 형태 한 곳을 다섯 보기에서 비교하는 것이다. 읽을 양은 18낱말 137글자(원문항 15낱말 120글자, 1.2배), 어휘는 make sandwiches 수준이다. 오답은 원문항의 우리말 오답과 같은 축인 과거(made)·현재진행(is making)·미래(will make)·현재(makes)다.",
+  "stem": "다음 우리말을 영어로 바르게 옮긴 것을 고르시오.",
+  "passage": "할아버지께서는 샌드위치를 만들고 계셨다.",
+  "c": [
+   "Grandpa made sandwiches.",
+   "Grandpa is making sandwiches.",
+   "Grandpa will make sandwiches.",
+   "Grandpa makes sandwiches.",
+   "Grandpa was making sandwiches."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "3-32",
+  "variant": 2,
+  "ref_format": "대화에서 밑줄 친 과거진행형 문장의 우리말 뜻 고르기(우리말 보기 다섯 개)",
+  "new_format": "과거진행형 영어 문장과 우리말 해석의 짝 다섯 개 중 해석이 틀린 것 고르기",
+  "design": "was/were + -ing는 ‘~하고 있었다’로 옮긴다는 규칙을 확인한다. 한 문장의 뜻 고르기를 과거진행형 문장 다섯 개와 우리말 해석의 짝 가운데 해석이 틀린 것 고르기로 바꿨고, 짝마다 ‘~하고 있었다’인지 한 번씩 보는 판단 다섯 번으로 원문항의 보기 다섯 개 비교와 같다. 읽을 양은 18낱말 134글자(원문항 15낱말 120글자), 영어 문장은 3~4낱말로 짧다. 틀린 해석은 과거진행을 현재진행(‘먹고 있다’)으로 옮긴, 원문항 ②와 같은 실수이고 길이도 다른 보기와 비슷하게 맞췄다.",
+  "stem": "다음 중 우리말 해석이 바르지 않은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Mina was eating lunch. → 미나는 점심을 먹고 있다.",
+   "We were singing. → 우리는 노래하고 있었다.",
+   "The baby was crying. → 아기가 울고 있었다.",
+   "Dad was cooking. → 아빠는 요리하고 있었다.",
+   "They were playing chess. → 그들은 체스를 두고 있었다."
+  ],
+  "ans": 1
+ },
+ {
+  "key": "3-32",
+  "variant": 3,
+  "ref_format": "대화에서 밑줄 친 과거진행형 문장의 우리말 뜻 고르기(우리말 보기 다섯 개)",
+  "new_format": "서로 다른 짧은 문장 다섯 개 중 밑줄 친 동사를 ‘~하고 있었다’로 해석하는 것 고르기",
+  "design": "‘~하고 있었다’는 과거진행형(was/were + -ing)으로 나타낸다는 규칙을 확인한다. 한 문장의 뜻 고르기를 서로 다른 짧은 문장 다섯 개 가운데 밑줄 친 동사를 ‘~하고 있었다’로 해석하는 것 고르기로 바꿨고, 보기마다 밑줄 친 동사 형태 한 곳만 보는 판단 다섯 번이다. 읽을 양은 20낱말 122글자(원문항 15낱말 120글자, 1.3배), 어휘는 bake·muffin·television 수준이다. 오답은 원문항의 우리말 오답과 같은 축인 현재진행(is practicing)·과거(watched)·미래(will plant)·현재(exercises)이고, -ing가 붙은 현재진행형을 넣어 -ing만 보고 찍지 못하게 했다.",
+  "stem": "다음 중 밑줄 친 부분을 ‘~하고 있었다’로 해석해야 하는 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Sora <u>is practicing</u> taekwondo.",
+   "Jisu <u>was baking</u> muffins.",
+   "My parents <u>watched</u> television.",
+   "Grandma <u>will plant</u> tomatoes.",
+   "Daniel <u>exercises</u> every morning."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "3-41",
+  "variant": 1,
+  "ref_format": "인칭대명사가 든 문장 다섯 개 중 쓰임이 올바른 것 하나 고르기",
+  "new_format": "인칭대명사가 든 문장 다섯 개 중 쓰임이 틀린 것 하나 고르기(묻는 방향 뒤집기)",
+  "design": "인칭대명사는 자리에 따라 주격·목적격·소유격·소유대명사로 형태가 달라진다는 규칙을 그대로 확인한다. 묻는 방향을 뒤집어 쓰임이 틀린 문장 하나를 고르게 했고, 문장마다 대명사 한 곳을 보는 판단 다섯 번은 원문항과 같다. 읽을 양은 29낱말(원문항 27), 어휘는 teach·umbrella·station 수준이다. 옳은 문장에는 동사 뒤 목적격(us)·소유대명사(hers)·소유격(Their)·전치사 뒤 목적격(them)을 고루 넣었고, 틀린 문장은 전치사 to 뒤에 주격 she를 쓴, 원문항 ①과 같은 종류의 실수다.",
+  "stem": "다음 중 인칭대명사의 쓰임이 올바르지 않은 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Mr. Han teaches us science.",
+   "That red umbrella is hers.",
+   "I sent a birthday card to she.",
+   "Their dog is very friendly.",
+   "Jiho waited for them at the station."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "3-41",
+  "variant": 2,
+  "ref_format": "인칭대명사가 든 문장 다섯 개 중 쓰임이 올바른 것 하나 고르기",
+  "new_format": "she를 알맞은 형태로 넣을 빈칸 문장 다섯 개 중 들어갈 말이 나머지와 다른 것 고르기",
+  "design": "같은 인칭대명사라도 동사·전치사 뒤에는 목적격, 명사 앞에는 소유격, ‘~의 것’ 자리에는 소유대명사를 쓴다는 규칙을 확인한다. 옳은 문장 고르기를 she를 자리에 맞게 바꿔 넣을 빈칸 다섯 개 중 들어갈 말이 다른 것 고르기로 바꿨고, 빈칸마다 형태를 한 번씩 정하는 판단 다섯 번이다. 읽을 양은 28낱말(원문항 27), 어휘는 badminton·eraser·scarf 수준이다. 네 빈칸은 목적격 her 둘(with·visited 뒤)과 소유격 her 둘(phone number·eraser 앞)이고 정답 문장에만 소유대명사 hers가 들어가며, ‘~의 것’ 자리에 her를 쓰는 실수를 노렸다.",
+  "stem": "다음 빈칸에 she를 알맞은 형태로 바꾸어 넣을 때, 들어갈 말이 나머지 넷과 다른 것은?",
+  "passage": "",
+  "c": [
+   "After school, I often play badminton with _______.",
+   "Do you know _______ phone number?",
+   "We visited _______ in the hospital.",
+   "Minho borrowed _______ eraser yesterday.",
+   "The blue scarf on the sofa is _______."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "3-41",
+  "variant": 3,
+  "ref_format": "인칭대명사가 든 문장 다섯 개 중 쓰임이 올바른 것 하나 고르기",
+  "new_format": "짧은 대화의 밑줄 친 인칭대명사 ⓐ~ⓔ 중 쓰임이 틀린 것 고르기",
+  "design": "인칭대명사는 주어 자리에 주격, 동사 뒤에 목적격, 명사 앞에 소유격을 쓴다는 규칙을 확인한다. 독립된 문장 다섯 개를 짧은 대화 속 밑줄 친 대명사 다섯 개로 바꿨고, 밑줄마다 자리를 보고 형태를 판정하는 판단 다섯 번은 원문항과 같다. 읽을 양은 35낱말(원문항 27, 1.3배), 어휘는 twins·library·snacks 수준이다. 틀린 곳은 동사 saw 뒤에 주격 they를 쓴, 원문항 ⑤와 같은 종류의 실수이고, 나머지는 소유격 Their·my, 목적격 them, 주격 We로 맞게 썼다.",
+  "stem": "다음 대화의 밑줄 친 ⓐ~ⓔ 중 인칭대명사의 쓰임이 올바르지 않은 것을 고르시오.",
+  "passage": "A: Where are the twins?\nB: I saw ⓐ<u>they</u> at the library. ⓑ<u>Their</u> test is tomorrow.\nA: Let's bring ⓒ<u>them</u> some snacks.\nB: Good idea. ⓓ<u>We</u> can share ⓔ<u>my</u> cookies.",
+  "c": [
+   "ⓐ they",
+   "ⓑ Their",
+   "ⓒ them",
+   "ⓓ We",
+   "ⓔ my"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "3-42",
+  "variant": 1,
+  "ref_format": "지시어·명사·동사의 수 일치를 보는 문장 다섯 개 중 틀린 것 하나 고르기",
+  "new_format": "문장 다섯 개 중 수 일치가 올바른 것 하나 고르기(묻는 방향 뒤집기)",
+  "design": "this/that은 단수 명사·셀 수 없는 명사와, these/those는 복수 명사와 쓰고 동사도 그 수에 맞춘다는 규칙을 그대로 확인한다. 묻는 방향을 뒤집어 수 일치가 올바른 문장 하나를 고르게 했고, 문장마다 ‘지시어-명사-동사’를 한 번씩 보는 판단 다섯 번은 원문항과 같다. 읽을 양은 25낱말(원문항 21, 1.2배), 어휘는 kitten·sneakers 수준이다. 오답은 지시어와 명사의 수가 어긋난 That boxes·This sneakers·Those tree와, 원문항의 핵심 함정처럼 -s로 끝나 복수로 착각하기 쉬운 셀 수 없는 명사 news를 These … are로 쓴 문장이다.",
+  "stem": "다음 중 수 일치가 올바른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "That boxes are really heavy.",
+   "Those kittens are so cute.",
+   "These news are really exciting.",
+   "This sneakers are too small.",
+   "Those tree is really old."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "3-42",
+  "variant": 2,
+  "ref_format": "지시어·명사·동사의 수 일치를 보는 문장 다섯 개 중 틀린 것 하나 고르기",
+  "new_format": "짧은 대화의 밑줄 친 ‘지시어+명사+동사’ ⓐ~ⓔ 중 수 일치가 틀린 것 고르기",
+  "design": "셀 수 없는 명사는 단수로 취급해 this/that과 단수 동사를 쓰고, 복수 명사에는 these/those와 복수 동사를 쓴다는 규칙을 확인한다. 문장 다섯 개를 짧은 대화 속 밑줄 친 ‘지시어+명사+동사’ 다섯 곳으로 바꿨고, 밑줄마다 수 일치를 한 번씩 보는 판단 다섯 번은 원문항과 같다. 읽을 양은 27낱말(원문항 21, 1.3배), 어휘는 hotel·blanket·luggage 수준이다. 틀린 곳은 원문항의 These information are와 같은 꼴로 셀 수 없는 명사를 복수로 취급한 these luggage are이고, 나머지 넷은 단수·복수를 고루 섞어 맞게 썼다.",
+  "stem": "다음 대화의 밑줄 친 ⓐ~ⓔ 중 수 일치가 올바르지 않은 것을 고르시오.",
+  "passage": "A: ⓐ<u>This hotel is</u> wonderful!\nB: Yes. ⓑ<u>These blankets are</u> soft, and ⓒ<u>that view is</u> fantastic.\nA: But ⓓ<u>these luggage are</u> heavy.\nB: ⓔ<u>That cart is</u> empty.",
+  "c": [
+   "ⓐ",
+   "ⓑ",
+   "ⓒ",
+   "ⓓ",
+   "ⓔ"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "3-42",
+  "variant": 3,
+  "ref_format": "지시어·명사·동사의 수 일치를 보는 문장 다섯 개 중 틀린 것 하나 고르기",
+  "new_format": "셀 수 없는 명사가 든 문장의 밑줄 친 ‘지시어+명사+동사’를 바르게 고친 것 고르기",
+  "design": "셀 수 없는 명사(equipment)는 단수로 취급해 this/that과 단수 동사를 쓴다는 규칙을 확인한다. 틀린 문장 찾기를 밑줄 친 This equipment are를 바르게 고친 것 고르기로 바꿨고, 보기 다섯 개를 하나씩 따져 보는 판단 수는 같으며 판단할 곳은 원문항의 정답 문장처럼 지시어·명사·동사 한 묶음이다. 읽을 양은 22낱말 113글자(원문항 21낱말 111글자), 어휘는 B~F에 나온 equipment와 soccer team 수준이다. 오답은 equipment를 복수로 여겨 지시어까지 복수로 바꾼 These/Those equipment are와 반만 고친 These equipment is·That equipment are로, 셀 수 없는 명사가 단수라는 것을 알아야 정답을 고를 수 있다.",
+  "stem": "다음 문장의 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "<u>This equipment are</u> for the soccer team.",
+  "c": [
+   "These equipment are",
+   "Those equipment are",
+   "These equipment is",
+   "That equipment are",
+   "This equipment is"
+  ],
+  "ans": 5
+ }
+]

@@ -1,0 +1,241 @@
+[
+ {
+  "key": "3-51",
+  "variant": 1,
+  "ref_format": "우리말을 영어로 바르게 옮긴 문장 고르기(must 뒤 동사 형태만 다른 문장 보기 5개)",
+  "new_format": "서로 다른 짧은 문장 다섯 개 중 조동사 뒤 동사 형태가 어법상 틀린 것 고르기",
+  "design": "조동사(must·should·can·may) 뒤에는 to나 -ing 없이 동사원형을 쓴다는 핵심 규칙을 그대로 확인한다. 우리말을 옮긴 같은 문장 다섯 개 중 바른 것 고르기를 서로 다른 짧은 문장 다섯 개 중 어법상 틀린 것 고르기로 바꿨고, 보기마다 조동사 뒤 동사 한 곳만 보므로 판단 개수(5)는 같으며 읽을 양은 32낱말(원문항 28, 1.14배), 어휘는 wash·repair·borrow·dictionary·red light 수준이다. 틀린 문장은 원문항의 대표 오류인 ‘조동사 + to’를 should에 옮긴 should to exercise 하나이고, 옳은 넷은 must·can·must·may + 동사원형으로 조동사를 섞어 조동사 종류만 보고 찍을 수 없게 했다.",
+  "stem": "다음 중 어법상 틀린 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "Children must wash their hands before meals.",
+   "You should to exercise every morning.",
+   "My grandfather can repair old bicycles.",
+   "Drivers must stop at a red light.",
+   "You may borrow my English dictionary."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "3-51",
+  "variant": 2,
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: Is Seungmin coming to the basketball game this evening?\nB: No. He has a violin competition tomorrow. He _______ at home tonight.",
+  "c": [
+   "must to practice",
+   "must practicing",
+   "must practice",
+   "must practices",
+   "must practiced"
+  ],
+  "ans": 3,
+  "new_format": "짧은 대화 속 빈칸에 알맞은 ‘must + 동사’ 형태 고르기(구 보기)"
+ },
+ {
+  "key": "3-51",
+  "variant": 3,
+  "ref_format": "우리말을 영어로 바르게 옮긴 문장 고르기(must 뒤 동사 형태만 다른 문장 보기 5개)",
+  "new_format": "짧은 글의 밑줄 친 ‘조동사 + 동사’를 바르게 고친 것 고르기",
+  "design": "조동사 must 뒤에는 동사원형을 쓴다는 원문항의 규칙을 그대로 확인한다. 우리말 옮기기를 학교의 새 규칙을 알리는 짧은 글에서 밑줄 친 must separating을 바르게 고치는 형식으로 바꿨고, 밑줄 한 곳의 동사 형태만 판단하며 읽을 양은 31낱말(원문항 28, 1.11배), 어휘는 rule·separate·recycling 수준이다. 오답은 to를 붙이거나(must to separate) 주어 Every student에 끌려 -s를 붙이거나(must separates) 과거형을 쓰거나(must separated) 원문항 ④처럼 to를 조동사 앞에 두는(to must separate) 실수이고, 밑줄 범위와 보기가 바꾸는 범위를 같게 했다.",
+  "stem": "다음 글의 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "Our school made a new rule this year. Every student <u>must separating</u> paper, cans, and plastic bottles for recycling.",
+  "c": [
+   "must to separate",
+   "must separates",
+   "to must separate",
+   "must separate",
+   "must separated"
+  ],
+  "ans": 4
+ },
+ {
+  "key": "3-52",
+  "variant": 1,
+  "ref_format": "우리말 두 문장을 영어로 옮긴 문장 짝 고르기(must be - can't be, 문장 짝 보기 5개)",
+  "new_format": "‘영어 문장 - 우리말 뜻’ 짝 다섯 개 중 조동사 표현의 형태와 뜻이 바르게 짝지어진 것 고르기",
+  "design": "must be는 ‘~임에 틀림없다’, can't be는 ‘~일 리가 없다’이고 조동사 뒤에 be가 있어야 한다는 핵심 규칙을 그대로 확인한다. 우리말 두 문장을 옮긴 문장 짝 고르기를 ‘영어 문장 - 우리말 뜻’ 짝 다섯 개 중 바르게 짝지어진 것 고르기로 바꿨고, 영어 문장마다 추측의 근거를 앞에 둔 ‘…, so ~’ 두 마디라 보기 하나의 분량이 원문항의 문장 짝과 같으며, 판단은 보기마다 조동사 표현의 형태와 우리말 끝맺음 한 곳이고 읽을 양은 영어 54낱말(원문항 51, 1.06배), 어휘는 breakfast·boiling·yawning·thirsty 수준이다. 오답은 원문항 ①처럼 be를 뺀 must hungry, can't be를 ‘~임에 틀림없다’로·may be를 ‘~임에 틀림없다’로·must be를 ‘~일 리가 없다’로 옮긴 것이며, 정답의 can't be와 ‘~일 리가 없다’가 오답(②·④)에도 한 번씩 나와 한쪽만 보고는 고를 수 없게 했다.",
+  "stem": "다음 중 영어 문장과 우리말 뜻이 바르게 짝지어진 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "Jisu didn't eat breakfast this morning, so she must hungry. - 지수는 오늘 아침밥을 먹지 않아서 배가 고픈 게 틀림없다.",
+   "The water in the pot is boiling, so it can't be hot. - 냄비의 물이 끓고 있어서 뜨거운 게 틀림없다.",
+   "Minho is yawning in class, so he may be sleepy. - 민호는 수업 중에 하품을 하고 있어서 졸린 게 틀림없다.",
+   "Junho just drank lots of water, so he must be thirsty. - 준호는 방금 물을 많이 마셔서 목이 마를 리가 없다.",
+   "The school library is closed today, so Mina can't be there. - 학교 도서관이 오늘 문을 닫아서 미나가 거기에 있을 리가 없다."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "3-52",
+  "variant": 2,
+  "ref_format": "우리말 두 문장을 영어로 옮긴 문장 짝 고르기(must be - can't be, 문장 짝 보기 5개)",
+  "new_format": "우리말이 괄호로 주어진 짧은 대화의 두 빈칸 (A), (B)에 들어갈 조동사 표현 짝 고르기",
+  "design": "must be(~임에 틀림없다)·can't be(~일 리가 없다)와 조동사 뒤의 be를 그대로 확인한다. 우리말을 옮긴 문장 짝 고르기를, 부엌에서 지금 들리는 소리의 주인을 추측하는 대화에서 우리말 뜻이 괄호로 주어진 두 빈칸에 들어갈 표현 짝 고르기로 바꿨고(지금 일에 대한 추측이라 현재형 must be·can't be가 자연스럽다), 판단은 원문항처럼 두 곳이며 읽을 양은 53낱말(원문항 51, 1.04배), 어휘는 kitchen·hungry·camp 수준이다. 오답은 be를 뺀 must - can't, 뜻이 다른 may be - must be, 의무·불필요의 has to be - doesn't have to be, 당위의 should be - shouldn't be다.",
+  "stem": "다음 우리말과 뜻이 같도록 대화의 빈칸 (A), (B)에 들어갈 말을 바르게 짝지은 것을 고르시오.",
+  "passage": "A: Mom, I can hear somebody in the kitchen!\nB: It (A)_______ your little brother. (그건 네 남동생임에 틀림없어.) He always gets hungry late at night.\nA: No, it (B)_______ him. (그건 그 애일 리가 없어요.) He is at basketball camp this week.",
+  "c": [
+   "(A) must be - (B) can't be",
+   "(A) must - (B) can't",
+   "(A) may be - (B) must be",
+   "(A) has to be - (B) doesn't have to be",
+   "(A) should be - (B) shouldn't be"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "3-52",
+  "variant": 3,
+  "stem": "다음 대화의 빈칸에 들어갈 말로 우리말과 뜻이 같은 것을 고르시오.",
+  "passage": "A: I found this yellow umbrella under my desk. Is it yours?\nB: _______\n(그건 내 것일 리가 없어. 그건 지훈이의 것임에 틀림없어.)",
+  "c": [
+   "It can't mine. It must Jihoon's.",
+   "It can't be mine. It must be Jihoon's.",
+   "It may not be mine. It must be Jihoon's.",
+   "It doesn't have to be mine. It has to be Jihoon's.",
+   "It mustn't be mine. It should be Jihoon's."
+  ],
+  "ans": 2,
+  "new_format": "우리말 힌트가 있는 대화에서 질문에 알맞은 두 문장짜리 대답 고르기(can't be → must be 순서)"
+ },
+ {
+  "key": "3-61",
+  "variant": 1,
+  "stem": "다음 질문에 대한 대답으로 알맞은 것을 고르시오.",
+  "passage": "Where did you take these pictures?",
+  "c": [
+   "I took them last summer.",
+   "I took them with my new camera.",
+   "My uncle took them for me.",
+   "I took them in Jeju.",
+   "Because the sky was so pretty."
+  ],
+  "ans": 4,
+  "new_format": "의문사 질문(Where)을 보고 알맞은 대답 고르기(방향 뒤집기, 대답 문장 보기)"
+ },
+ {
+  "key": "3-61",
+  "variant": 2,
+  "ref_format": "대화의 대답(산 물건)을 보고 빈칸에 들어갈 의문사 질문 고르기(질문 보기 5개)",
+  "new_format": "대화의 대답(때)을 보고 빈칸에 들어갈 질문으로 알맞지 않은 것 고르기(질문 보기 5개)",
+  "design": "의문사는 묻는 정보에 따라 고른다는 규칙을, 대답이 알려 주는 정보의 종류(때)를 학생이 스스로 파악해 질문과 맞춰 보는 방식으로 확인한다. 대답을 보고 알맞은 질문 고르기를 알맞지 않은 질문 고르기로 뒤집었고, 대답 It was last Saturday.는 정보의 종류를 직접 말해 주지 않으며 보기 다섯 개를 모두 ‘의문사 + was …?’ 꼴로 맞춰 It was와의 겉모양 호응으로는 가릴 수 없게 했고, 읽을 양은 33낱말(원문항 31, 1.06배), 어휘는 festival·contest·birthday party 수준이다. 알맞은 넷은 때를 묻는 When과 What day를 섞었고 알맞지 않은 하나는 What으로 물건을 묻는 질문(What was in the box?)이라, 첫 낱말이 같은 What day 보기와 견주어 묻는 정보를 따져야 고를 수 있다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞지 않은 것을 고르시오.",
+  "passage": "A: _______\nB: It was last Saturday.",
+  "c": [
+   "When was the school festival?",
+   "What day was your piano contest?",
+   "When was Mina's birthday party?",
+   "What day was the soccer game?",
+   "What was in the box?"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "3-61",
+  "variant": 3,
+  "ref_format": "대화의 대답(산 물건)을 보고 빈칸에 들어갈 의문사 질문 고르기(질문 보기 5개)",
+  "new_format": "서술문 하나를 읽고 그 문장으로 답할 수 있는 의문사 질문 고르기",
+  "design": "의문사는 묻는 정보에 따라 고른다는 규칙을, 주어진 문장이 알려 주는 정보(편지를 받은 사람)와 질문의 의문사를 맞춰 보는 방식으로 확인한다. 대화의 대답 대신 서술문 하나를 주고 그 문장으로 답할 수 있는 질문을 고르게 했으며, 판단은 질문 다섯 개를 문장의 정보와 대조하는 것으로 같고 읽을 양은 39낱말(원문항 31, 1.26배), 어휘는 letter·grandmother 수준이다. 오답은 문장에 나오지 않는 이유(Why)·때(When)·장소(Where)·내용(What ~ about)을 묻는 질문이고, 관사를 모두 the letter로 맞추고 오답 하나(What ~ about?)도 전치사로 끝나게 해 지문의 to와 겉모양만 맞춰 찍을 수 없게 했다.",
+  "stem": "다음 문장을 읽고 답할 수 있는 질문을 고르시오.",
+  "passage": "Kevin wrote a letter to his grandmother.",
+  "c": [
+   "Why did Kevin write the letter?",
+   "Who did Kevin write the letter to?",
+   "When did Kevin write the letter?",
+   "Where did Kevin write the letter?",
+   "What did Kevin write the letter about?"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "3-62",
+  "variant": 1,
+  "stem": "다음 중 자연스러운 대화를 고르시오.",
+  "passage": "",
+  "c": [
+   "A: Where did you find my cap?\nB: About ten minutes ago.",
+   "A: How long was your flight to Jeju?\nB: About an hour.",
+   "A: Whose notebook is this?\nB: It's on your desk.",
+   "A: What time does the movie start?\nB: At the theater near my house.",
+   "A: Why are you learning Chinese?\nB: For two years."
+  ],
+  "ans": 2,
+  "new_format": "짧은 대화 다섯 개 중 의문사와 대답이 맞는 자연스러운 대화 고르기(방향 뒤집기)"
+ },
+ {
+  "key": "3-62",
+  "variant": 2,
+  "stem": "다음 대화의 빈칸에 들어갈 말이 나머지 넷과 다른 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "A: _______ is your new school?\nB: It's next to the city library.",
+   "A: _______ did you put the scissors?\nB: I put them in the top drawer.",
+   "A: _______ does the next train leave?\nB: In about fifteen minutes.",
+   "A: _______ did you buy that cute hat?\nB: At a small shop in Insadong.",
+   "A: _______ are you going after school?\nB: To my grandma's house."
+  ],
+  "ans": 3,
+  "new_format": "짧은 대화 다섯 개의 빈칸에 들어갈 의문사를 정해 나머지 넷과 다른 것 고르기"
+ },
+ {
+  "key": "3-62",
+  "variant": 3,
+  "stem": "다음 대화의 밑줄 친 ⓐ~ⓔ 중 흐름상 어색한 것을 고르시오.",
+  "passage": "A: Hi, Jun. Where are you going?\nB: ⓐ<u>To the swimming pool.</u>\nA: Who are you going with?\nB: ⓑ<u>With my cousin Mina.</u>\nA: How long do you usually swim?\nB: ⓒ<u>For about forty minutes.</u>\nA: What time does the pool close today?\nB: ⓓ<u>At eight in the evening.</u>\nA: Why are you going there today?\nB: ⓔ<u>At the pool near the park.</u>",
+  "c": [
+   "ⓐ",
+   "ⓑ",
+   "ⓒ",
+   "ⓓ",
+   "ⓔ"
+  ],
+  "ans": 5,
+  "new_format": "이어진 대화 하나에서 밑줄 친 대답 ⓐ~ⓔ 중 질문의 의문사와 어긋난 것 고르기"
+ },
+ {
+  "key": "3-71",
+  "variant": 1,
+  "stem": "다음 우리말과 뜻이 같도록 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "삼촌은 살 작은 집을 짓고 있다.\nMy uncle is building a small house to live _______.",
+  "c": [
+   "in",
+   "on",
+   "by",
+   "for",
+   "under"
+  ],
+  "ans": 1,
+  "new_format": "우리말과 뜻이 같도록 to부정사 뒤 빈칸에 알맞은 전치사 고르기"
+ },
+ {
+  "key": "3-71",
+  "variant": 2,
+  "ref_format": "to부정사 뒤 빈칸에 들어갈 전치사 고르기(chairs to sit on, 낱말 보기 5개)",
+  "new_format": "짧은 대화의 대답 속 to부정사 뒤 빈칸에 알맞은 전치사 고르기",
+  "design": "to부정사 뒤에 전치사를 남기는 규칙(listen to music → music to listen to)을 확인한다. 서술문 빈칸을 짧은 대화의 대답 문장 속 빈칸으로 바꿨고, 빈칸 하나에서 전치사 하나만 판단하며 읽을 양은 18낱말(원문항 14 + 4낱말), 어휘는 need·music·listen 수준이며, 동사는 원문항·B~F에 없는 listen이고 정답 to는 원문항(on)·변형 1(in)·변형 3(with)의 정답과 다르다. 오답은 look at과 헷갈린 at, talk about과 헷갈린 about, 그리고 by·into이고, 이 문맥에서는 listen to의 to만 맞다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: What do you need, Jimin?\nB: I need some music to listen _______.",
+  "c": [
+   "at",
+   "to",
+   "about",
+   "by",
+   "into"
+  ],
+  "ans": 2
+ },
+ {
+  "key": "3-71",
+  "variant": 3,
+  "stem": "다음 문장의 밑줄 친 부분을 바르게 고친 것을 고르시오.",
+  "passage": "My little sisters need a soft ball to play <u>at</u>.",
+  "c": [
+   "in",
+   "for",
+   "with",
+   "about",
+   "into"
+  ],
+  "ans": 3,
+  "new_format": "to부정사 뒤에 잘못 쓴 전치사(밑줄)를 바르게 고친 것 고르기"
+ }
+]

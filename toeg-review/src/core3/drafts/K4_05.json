@@ -1,0 +1,104 @@
+[
+ {
+  "key": "4-101",
+  "variant": 1,
+  "ref_format": "한 문장의 ①~⑤ 밑줄 부분 중 목적어에 해당하는 것 고르기(문장 성분 찾기)",
+  "new_format": "밑줄 친 부분이 목적어인 문장 고르기(아주 짧은 문장 보기 5개, 보기마다 밑줄 한 군데)",
+  "design": "‘목적어는 동사의 동작을 받는 말(~을/를)로 동사 뒤에 오는 명사구’라는 규칙을, 한 문장의 다섯 부분 대신 짧은 문장 다섯 개의 밑줄 부분을 보고 목적어인 것을 고르는 형식으로 바꿨다. 보기마다 판단할 곳은 밑줄 한 군데뿐이라 판단 개수가 원문항과 같고, 읽을 양은 27낱말(1.2배), 어휘(aunt, roses, stage, pizza, scarf)는 원문항 수준이다. 오답은 원문항과 같은 종류로 주어(My aunt)·동사(washed)·장소 전치사구(on the stage)·때를 나타내는 명사구(last Friday)다.",
+  "stem": "다음 중 밑줄 친 부분이 목적어로 쓰인 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "<u>My aunt</u> grows roses at home.",
+   "Kevin <u>washed</u> his bike today.",
+   "The children sang <u>on the stage</u>.",
+   "We ate pizza <u>last Friday</u>.",
+   "Grandma made <u>a warm scarf</u>."
+  ],
+  "ans": 5
+ },
+ {
+  "key": "4-101",
+  "variant": 2,
+  "ref_format": "한 문장의 ①~⑤ 밑줄 부분 중 목적어에 해당하는 것 고르기(문장 성분 찾기)",
+  "new_format": "문장의 빈칸에 들어갈 목적어 고르기(빈칸 하나, 구 보기)",
+  "design": "동사 뒤에서 ‘무엇을?’에 답하는 명사구가 목적어라는 같은 규칙을, 문장에서 찾기 대신 빈칸에 목적어를 채워 넣는 방향으로 바꿨다. 빈칸 하나·22낱말(1.0배)·쉬운 어휘(grandfather, newspaper, chair)로 판단 개수와 읽을 양을 원문항과 같게 했다. 오답은 동사 뒤에 올 수 있지만 목적어가 아닌 부사구(very slowly, so quietly), 전치사구(for an hour), 때를 나타내는 명사구(all morning)로, 원문항의 for breakfast·this morning과 같은 종류의 함정이다.",
+  "stem": "다음 문장의 빈칸에 들어갈 목적어로 알맞은 것을 고르시오.",
+  "passage": "On Sunday mornings, my grandfather reads _______ in his favorite old chair.",
+  "c": [
+   "the newspaper",
+   "very slowly",
+   "for an hour",
+   "all morning",
+   "so quietly"
+  ],
+  "ans": 1
+ },
+ {
+  "key": "4-101",
+  "variant": 3,
+  "ref_format": "한 문장의 ①~⑤ 밑줄 부분 중 목적어에 해당하는 것 고르기(문장 성분 찾기)",
+  "new_format": "목적어가 있는 문장 고르기(아주 짧은 문장 보기 5개, 밑줄 없음)",
+  "design": "같은 규칙을 ‘동사에 무엇을?이라고 물어 답이 되는 말이 있는 문장’을 고르는 형식으로 바꿔, 문장 안에서 목적어를 짚는 대신 목적어가 있는 문장을 가려내게 했다. 보기는 5~6낱말 문장 다섯 개(27낱말, 1.2배)로 보기마다 판단은 ‘동사 뒤에 목적어가 있는가’ 하나이며, 어휘(baby, letter, uncle, train, birds)는 원문항보다 쉽다. 오답은 동사 뒤에 부사(well, high)·때 명사구(last night)·전치사구(in Busan, at noon, in the sky)만 있는 문장으로, 전치사 뒤의 명사나 때를 나타내는 말을 목적어로 착각하는 실수를 겨냥했다.",
+  "stem": "다음 중 목적어가 있는 문장을 고르시오.",
+  "passage": "",
+  "c": [
+   "The baby slept well last night.",
+   "Nora wrote a long letter.",
+   "My uncle lives in Busan.",
+   "The train arrived at noon.",
+   "Birds fly high in the sky."
+  ],
+  "ans": 2
+ },
+ {
+  "key": "4-102",
+  "variant": 1,
+  "ref_format": "감각동사 뒤 빈칸에 들어갈 수 없는 말 고르기(낱말 보기, 틀린 것 고르기)",
+  "new_format": "밑줄 친 보어가 어법상 틀린 문장 고르기(3낱말 문장 보기 5개, 보기마다 밑줄 한 군데)",
+  "design": "감각동사(look·smell·sound·feel·seem) 뒤에는 형용사가 오고 부사·명사는 올 수 없으며 -ly로 끝나도 형용사인 말이 있다는 규칙을, 낱말 보기 대신 3낱말 문장 다섯 개의 밑줄 친 보어를 판정하는 형식으로 바꿨다. 판단은 원문항과 같이 보기마다 한 번씩 다섯 번이고, 읽을 양은 15낱말(원문항 7낱말 + 8낱말 이내), 어휘(sweet, lonely, sad, tired, nice)는 원문항 수준이다. 정답 sadly는 감각동사 뒤에 부사를 쓰는 대표적 실수이고, lonely는 원문항의 lovely처럼 -ly 때문에 부사로 착각하게 하는 함정이다.",
+  "stem": "다음 중 밑줄 친 부분이 어법상 틀린 것을 고르시오.",
+  "passage": "",
+  "c": [
+   "It smells <u>sweet</u>.",
+   "Jisu looks <u>lonely</u>.",
+   "You sound <u>sadly</u>.",
+   "I feel <u>tired</u>.",
+   "He seems <u>nice</u>."
+  ],
+  "ans": 3
+ },
+ {
+  "key": "4-102",
+  "variant": 2,
+  "ref_format": "감각동사 뒤 빈칸에 들어갈 수 없는 말 고르기(낱말 보기, 틀린 것 고르기)",
+  "new_format": "감각동사 뒤 빈칸에 들어갈 알맞은 말 고르기(옳은 것 고르기, 낱말 보기)",
+  "design": "같은 규칙을 ‘들어갈 수 없는 말’ 대신 ‘들어갈 수 있는 말(형용사)’을 고르는 반대 방향으로 바꿨다. 빈칸 하나·보기 다섯 낱말·10낱말(원문항 7낱말)로 읽을 양과 판단 개수가 원문항과 같고, 어휘(music, next door, loud, silence)는 4급 수준이다. 오답은 감각동사 뒤에 부사를 쓰는 실수(badly, clearly, sweetly)와 명사를 쓰는 실수(silence)로 만들었고, 형태만 보고 고를 수 없도록 -ly가 아닌 낱말을 둘(silence, loud) 두었다.",
+  "stem": "다음 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "The music next door sounds _______.",
+  "c": [
+   "badly",
+   "silence",
+   "clearly",
+   "sweetly",
+   "loud"
+  ],
+  "ans": 5
+ },
+ {
+  "key": "4-102",
+  "variant": 3,
+  "ref_format": "감각동사 뒤 빈칸에 들어갈 수 없는 말 고르기(낱말 보기, 틀린 것 고르기)",
+  "new_format": "짧은 대화의 빈칸에 들어갈 알맞은 말 고르기(대화 빈칸, 낱말 보기)",
+  "design": "원문항 핵심 규칙 중 ‘-ly로 끝나도 형용사인 말(friendly)이 감각동사 뒤에 온다’는 부분을 짧은 대화의 빈칸으로 확인한다. seems 뒤에 올 수 있는 말은 형용사 friendly뿐이며, 판단은 보기마다 한 번씩 다섯 번·12낱말(원문항 7낱말 + 5낱말)로 부담이 같고 어휘(friendly, nicely, happiness, quietly, sadness)는 쉽다. 오답은 부사(nicely, quietly)와 명사(happiness, sadness)로, 보기가 모두 -ly 또는 -ness 꼴이라 겉모양으로는 고를 수 없고 friendly가 형용사임을 알아야 맞힌다.",
+  "stem": "다음 대화의 빈칸에 들어갈 말로 알맞은 것을 고르시오.",
+  "passage": "A: That's Mr. Kim.\nB: He seems _______.",
+  "c": [
+   "friendly",
+   "nicely",
+   "happiness",
+   "quietly",
+   "sadness"
+  ],
+  "ans": 1
+ }
+]
